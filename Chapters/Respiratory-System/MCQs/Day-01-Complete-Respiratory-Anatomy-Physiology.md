@@ -10,7 +10,7 @@
 
 - **Concept video:** [Bhushan Science Nursing — Respiratory full chapter](https://www.youtube.com/watch?v=g6top1bzdUg)
 - **MCQ practice:** [Dear Competitive Exams — Respiration Physiology MCQs](https://youtu.be/nLSz8qI5Pgo)
-- [Day 1 ke har topic ke concept + video links](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#-day-1--topic-wise-youtube-padhai-aur-mcq-practice). Doosre [mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) mein unstudied advanced topics skip karo.
+- [Day 1 ke har topic ke concept + video links](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md). Doosre [mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) mein unstudied advanced topics skip karo.
 
 ### Kaise solve karna hai?
 
