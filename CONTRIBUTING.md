@@ -1,35 +1,42 @@
-# 📝 Notes add karne ke rules — easy navigation aur hamari Hinglish language
+# 📝 Repository rules — hamare future nursing chapters ke liye
 
-Ye repo hum step-by-step NORCET aur HP Staff Nurse preparation ke liye use karenge.
-
-## Folder rule: zyada hierarchy nahi
+**Simple navigation + detailed Hinglish notes + genuine source attribution** hi standard rahega.
 
 ~~~text
 Chapters/<Chapter-Name>/
   README.md
   Concepts/Day-XX-Complete-Studied-Topics.md
   MCQs/Day-XX-Complete-Studied-Topics.md
+  PYQs/               # ONLY sourced prior-paper / recall reports
   Revision/
   Assets/
   References.md
 ~~~
 
-## Language rule
+## 1. Language aur coverage
+- Medical terms English; saari explanations, MCQ stems, hints Hinglish mein.
+- **Sirf actually studied topics** add karo; advanced unstudied areas include mat karo.
+- Ek day ke multiple related topics ko **ek long meaningful Markdown guide** mein club karo.
+- Concept, MCQ aur paper-source navigation ek-ek page par clickable honi chahiye.
 
-- Medical terms aur formulas **English** mein rakho taaki exam mein familiar rahen.
-- **Explanation simple Hindi-English/Hinglish** mein do. Example: "Surfactant kam hone se surface tension badhegi aur alveoli collapse ka risk badhega."
-- **MCQ questions, hints aur answer explanations** bhi same Hinglish mein likho.
-- Sirf headings Hindi-English karke body English mat chhodo.
-- Calculations ko **step by step** samjhao, with correct units.
+## 2. Questions & answers
+- Har MCQ mein unambiguous best answer aur plausible options hone chahiye.
+- **Why correct + other options kyun wrong + exam memory trick** likho.
+- Numerical values, formulas, unit conversions aur answer keys check karo.
+- Original new practice questions ko clearly **NORCET-style**, not actual PYQ label karo.
 
-## Content rule
+## 3. Previous-year paper/source labeling
+- Historical paper scan hai toh **exam, year, post code, booklet series, original question number, source URL** likho.
+- Agar scan govt website se nahi mila toh **third-party hosted** bolo, government-verified source nahi.
+- NORCET memory-based paper ko **unofficial memory-based** bolo; actual CBT ka verified wording/answer claim nahi.
+- Agar exact source nahi mila, toh PYQ guess karke mat add karo.
 
-- **Sirf wahi topics add karo jo humne actually padhe hain.**
-- Ek day ke related topics ko ek **long useful notes file** aur uske matching **MCQ bank** mein club karo.
-- Concepts, MCQs aur revision alag folders mein rahen, lekin har chhote topic ka extra folder mat banao.
-- Har file mein clickable contents, diagrams, easy examples, exam traps aur memory tricks useful hain.
-- **Original NORCET-style MCQ** ko verified AIIMS **PYQ** mat bolo.
-- Medical claims, answer keys, formulas aur altitude-sensitive normal ranges check karo.
-- Personal/patient details publish mat karo.
+## 4. Images and sources
+- Har important taught concept ke saath accurate, useful **original SVG diagram** use karo.
+- Images ko usi notes/MCQ section mein embed karo, separate gallery link optional hai.
+- Medical concepts ko OpenStax, Merck, MedlinePlus aur ATS/ERS jaisi sources se validate karo.
+- Reference ranges (SpO₂, PaO₂, TV etc.) ke context/altitude caveats clear rakho.
+- Copyrighted textbook illustrations ya third-party scan repo mein copy mat karo; **source link** do.
+- Personal/patient details kabhi publish mat karo.
 
-**Hamari priority:** Kam clicks, clear filenames, full detailed study notes aur easy Hinglish.
+[🏠 Repo home](README.md) · [🫁 Respiratory chapter](Chapters/Respiratory-System/README.md) · [🏥 PYQ index](Chapters/Respiratory-System/PYQs/README.md)
