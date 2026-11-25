@@ -35,7 +35,7 @@
 - **C.** Trachea
 - **D.** Bronchiole
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -56,7 +56,7 @@
 - **C.** Epiglottis
 - **D.** Trachea
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -77,7 +77,7 @@
 - **C.** Alveolar duct
 - **D.** Alveolar sac
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -98,7 +98,7 @@
 - **C.** Larynx
 - **D.** Respiratory bronchiole
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -119,7 +119,7 @@
 - **C.** Transporting oxygenated blood
 - **D.** Main alveolar gas exchange
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -150,7 +150,7 @@
 - **C.** Four
 - **D.** One
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -171,7 +171,7 @@
 - **C.** Cardiac notch
 - **D.** Tracheal ring
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -192,7 +192,7 @@
 - **C.** Both equally
 - **D.** Neither
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -213,7 +213,7 @@
 - **C.** Left ventricle
 - **D.** Left atrium
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -234,7 +234,7 @@
 - **C.** Oxygenated to the right atrium
 - **D.** Deoxygenated to the left atrium
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -265,7 +265,7 @@
 - **C.** Macrophage
 - **D.** Capillary endothelial cell
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -286,7 +286,7 @@
 - **C.** Provide thin gas-exchange surface
 - **D.** Make surfactant
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -307,7 +307,7 @@
 - **C.** Type II pneumocyte
 - **D.** Ciliated tracheal cell
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -328,7 +328,7 @@
 - **C.** More alveolar oxygen production
 - **D.** Expansion without effort
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -349,7 +349,7 @@
 - **C.** Filtration
 - **D.** Diffusion
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -380,7 +380,7 @@
 - **C.** Pericardial
 - **D.** Mucosal
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -401,7 +401,7 @@
 - **C.** Reduce friction
 - **D.** Carry oxygen
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -422,7 +422,7 @@
 - **C.** Contracts and ascends
 - **D.** Remains stationary
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -443,7 +443,7 @@
 - **C.** Impossible without coughing
 - **D.** Passive due to elastic recoil
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -464,7 +464,7 @@
 - **C.** T8–T12
 - **D.** L1–L3
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -495,7 +495,7 @@
 - **C.** RV
 - **D.** ERV
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -516,7 +516,7 @@
 - **C.** IRV
 - **D.** IC
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -537,7 +537,7 @@
 - **C.** 2450
 - **D.** 3450
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -558,7 +558,7 @@
 - **C.** 3900
 - **D.** 2500
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -579,7 +579,7 @@
 - **C.** 2300
 - **D.** 9500
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -610,7 +610,7 @@
 - **C.** 5.8 L/min
 - **D.** 8.0 L/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -631,7 +631,7 @@
 - **C.** 18/min
 - **D.** 20/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -652,7 +652,7 @@
 - **C.** 450 mL
 - **D.** 500 mL
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -673,7 +673,7 @@
 - **C.** Increase by 1 L/min
 - **D.** No change
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -694,7 +694,7 @@
 - **C.** 25%
 - **D.** 30%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -725,7 +725,7 @@
 - **C.** 7.46
 - **D.** 7.40
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -746,7 +746,7 @@
 - **C.** 24/min
 - **D.** 28/min
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -767,7 +767,7 @@
 - **C.** 52 mmHg
 - **D.** 39 mmHg
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -788,7 +788,7 @@
 - **C.** 93%
 - **D.** 98%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -809,7 +809,7 @@
 - **C.** Always if breathing normally
 - **D.** Only after exercise
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -842,7 +842,7 @@ These five newer questions use the **same Day 1 concepts**, including the calcul
 - **C.** Residual volume
 - **D.** Inspiratory reserve volume
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -868,7 +868,7 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 - **C.** 440 mL
 - **D.** 550 mL
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -894,7 +894,7 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 - **C.** 30%
 - **D.** 40%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -920,7 +920,7 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 - **C.** No air remains in the lungs
 - **D.** Vital capacity equals the remaining air
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -946,7 +946,7 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 - **C.** PaCO₂
 - **D.** Arterial pH
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
