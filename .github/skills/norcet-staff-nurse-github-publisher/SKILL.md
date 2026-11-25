@@ -74,6 +74,26 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 
 **Chapter README** must be a **useful table of contents** (not 2–3 empty lines). Include a concise chapter introduction, studied-coverage/status table, **topic group → Concepts → English MCQs → Previous Year Questions → video teaching → video MCQ practice → revision** columns/links, embedded chapter overview diagram, and clear next-study navigation. Keep the root README navigable without duplicating the whole chapter's notes.
 
+## 3A. Optional ONE-file high-yield gap supplement for existing studied topics
+
+**New user rule:** Whenever the user says **"push this to GitHub"**, after checking today's material ALSO review the already published **studied topic** for important exam-relevant concepts and original practice questions missed in that topic. This is permitted even when the gap was not explicitly covered in today's messages, **provided the new material is a directly related, beginner-friendly, carefully researched extension of an already studied parent topic**. Do not introduce a different future chapter, unrelated subject, or advanced syllabus for a topic not yet learned. Clearly label newly introduced sub-concepts as **"Extra high-yield revision"** so the student knows they are an add-on.
+
+**When genuine gaps exist, create AT MOST ONE additional combined Markdown study file per chapter/topic update**, alongside the normal notes:
+`Chapters/<Chapter>/Extra-High-Yield-Concepts-and-30plus-MCQs.md` (or a similarly descriptive topic-specific name at the chapter root). **Do not create separate tiny concepts/MCQ files for this supplement.** The **same single substantial Markdown file** contains:
+1. **Only missing high-yield points** from that studied parent topic: easy Roman Hinglish explanations, definitions, clinical mini-examples, formulas, normal-value caveats, memory tricks, references and original illustrated diagrams adjacent to their explanation.
+2. **At least 30 genuinely NEW, non-duplicate, exam-relevant MCQs** if a meaningful 30+ can be written within the studied-topic scope. Difficulty **Easy / Medium / Difficult** on each, with a reasonable balance of Medium/Difficult appropriate to NORCET and HP Staff Nurse.
+3. **Every question stem AND A/B/C/D option exactly English**, as authored; never translate or alter already existing questions. All **answers must initially be HIDDEN** inside individual GitHub-compatible `<details><summary>✅ Answer aur explanation dekho</summary> ... </details>` blocks. The answer block includes correct English answer, **detailed easy Roman Hinglish why-correct and why-each-other-option-is-wrong**, and a **specific** exam trick. Answer-neutral hints can be placed in their own closed dropdown, never give away the answer in a hint/image.
+4. **Useful images/diagrams**, ideally original SVGs referenced from `Assets/`; optional original short animation if it genuinely helps. Diagrams can be separate asset files but the **student-facing supplemental concepts + questions must remain ONE Markdown file**.
+5. Top/bottom navigation links to the original chapter, existing concepts, MCQ banks, Previous Year Questions, revision and any relevant verified teaching/MCQ videos; add a clear link to this extra file in the **existing chapter README**, not another directory.
+
+**Critical uniqueness check BEFORE writing:** Compare proposed questions against **ALL** existing MCQ banks, mocks, supplements and Previous Year Questions in the chapter, not only the new file. Reject **exact duplicates AND semantic duplicates** (same idea, same reasoning and only reworded question/numbers without added learning value). Each new question should assess a distinct angle or meaningful application. Also deduplicate concepts, preserving existing notes rather than re-publishing paragraphs.
+
+**30+ is a real minimum, not a padding target.** If research finds fewer than 30 defensible and genuinely distinct MCQs, do NOT manufacture near-duplicates just to claim 30. Instead improve existing notes or defer the supplement and say openly why a quality 30-question add-on is not justified. If no meaningful gaps exist, do not create the file. Never label original questions as actual previous-paper questions.
+
+**Publish audit:** Count >=30 **unique** question stems, exactly four English options/question, 30+ separate initially closed answer dropdowns, difficulty labels, helpful individualized rationales, valid diagram files and verified working relative links. Report supplement link and **number of unique newly added MCQs**, or explicitly say why no supplement was created.
+
+---
+
 ## 4. Language and consistent learner-page formatting (non-negotiable)
 
 | Content part | Required language |
