@@ -131,6 +131,22 @@ Avoid overly formal pure-English textbook paragraphs and overly technical Hindi 
 - Every new push includes an **all-pages consistency audit** for Devanagari, overly complex English notices, broken links, original MCQ wording, difficulty labels, explanation blocks and repeated generic tricks.
 - Agent-instruction files may stay technical English; these student-facing rules apply to READMEs, Concepts, MCQs, mocks, Previous Year Questions and Revision.
 
+## 4A. Chat-to-GitHub teaching fidelity — preserve SAME wording and visuals
+
+**The actual teaching conversation is the source of truth for how this learner understood the topic.** The user studies in chat (theory → doubts → solved MCQs), then asks to push. **GitHub should read like a slightly more complete version of THAT SAME lesson**, not a separately rewritten textbook in an unfamiliar voice.
+
+1. **Retrieve the exact relevant study-chat material when available** (same chapter/Day/topic, including older sessions and revisits). Recover the teacher's ORIGINAL Roman Hinglish definitions, simple phrasing, explanations, solved examples, analogies, worked numericals, mnemonics, diagram labels and links. Use the conversation text as the starting draft, not a generic replacement generated from headings. Preserve their **original order and wording wherever still accurate and helpful**.
+2. **Stay almost word-for-word consistent:** Keep familiar phrases such as `N → P → L → T → B → B → A`, `C3, 4, 5 keep the diaphragm alive`, `Bigger chest volume → lower pressure → air enters`, and `Type I = gas exchange / Type II = surfactant` where they were actually taught. Never pretend a phrase was taught in chat unless traceable. Keep Roman Hinglish (e.g., `Dhyan de`, `Kyun sahi hai`) in BOTH chat and GitHub; medical names and English MCQ options unchanged.
+3. **Same real-life analogy/example:** If chat explained using a syringe, wet balloon, school corridor, delivery truck, water bottle or another analogy, retain THAT analogy, not a different analogy that makes the GitHub content feel unfamiliar. If an original analogy was inaccurate, flag and gently correct it with medical source verification rather than silently changing the user's learning context.
+4. **Same visual reference when accessible:** Reuse the exact **chat-presented diagram/image**, its teaching labels, placement, caption, arrows and explanation when the original asset is available and its reuse is permitted. If only a description is recoverable or original image bytes cannot be accessed, create a medically accurate original SVG/illustration **clearly as a reconstruction**; NEVER claim the reconstructed graphic is the exact chat image. Keep images near the corresponding explanation and add alt text.
+5. **Expand, don't replace:** Add just enough extra detail for a complete nurse-exam note: `kya hai → kaise/kyun → same analogy → same solved example → 1 extra application if useful → NORCET / all-India Staff Nurse exam trap → diagram/MCQ/video links`. Preserve the taught simple language; extra depth must not be filler or unstudied advanced content. For numericals preserve original chat question values, units, steps and final answer when recoverable. For practiced MCQs use EXACT English stems/options as originally solved.
+6. **Revisits:** If the learner studies another piece of Day 1 after Day 3, integrate their new teaching wording, images and solved MCQs into the EXISTING Day 1 files. Avoid rewriting an earlier explanation or losing its familiar example.
+7. **Mandatory pre-push comparison:** Compare the proposed GitHub page against the relevant available conversation for `language/wording | analogy | worked examples and numbers | mnemonics | images/diagrams | question stems/options`. If conversation/images are not retrievable, be honest: use verified material as a best-effort supplement and say exact visual/text fidelity could not be checked. Don't claim identical content or invented prior coverage.
+
+**Priority:** A correct original teaching explanation that the learner recognizes is more valuable than a polished but disconnected rewrite. Keep clear headings, readable spacing, tables and substantial explanatory paragraphs while preserving those explanations.
+
+---
+
 ## 5. Concepts page quality standard (substantial, not filler)
 
 For every grouped concept file include:
