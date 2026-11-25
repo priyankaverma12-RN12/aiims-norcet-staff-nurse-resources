@@ -2,7 +2,7 @@
 
 **15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified PYQ nahi.
 
-[📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 Topic MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 HP Staff Nurse PYQs](../PYQs/HP-Staff-Nurse-2022-Respiratory.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
 
 ![Right aur left lung lobes diagram](../Assets/lung-lobes-comparison.svg)
 
@@ -251,3 +251,8 @@
 </details>
 
 [🏠 Respiratory chapter](../README.md) · [📖 Day 1 ke notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)

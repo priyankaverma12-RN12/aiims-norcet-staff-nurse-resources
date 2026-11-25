@@ -1,6 +1,6 @@
 # 📝 Day 2 — Respiratory Assessment & Diagnostics: 36 Hinglish MCQs
 
-[🏠 Chapter home](../README.md) · [📖 Day 2 ke full Hinglish notes](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+[🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 PYQs](../PYQs/README.md)
 
 > **Ye 36 original NORCET-style MCQs hain**, verified AIIMS PYQs nahi. Question aur answer ki explanation simple Hinglish mein hai. Medical terms English hi rakhe gaye hain taaki exam mein identify kar pao.
 
@@ -804,3 +804,8 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 ---
 
 [📖 Day 2 notes phir se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 PYQs](../PYQs/README.md)

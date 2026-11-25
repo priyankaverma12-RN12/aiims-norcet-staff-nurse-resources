@@ -1,6 +1,6 @@
 # ⚡ Day 2 — Respiratory Assessment & Diagnostics Quick Revision (Hinglish)
 
-[📖 Full Day 2 Notes](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+[🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md)
 
 ![IPPA flowchart](../Assets/assessment-map.svg)
 
@@ -58,3 +58,8 @@ Ye uncomplicated teaching patterns hain; clinical ABG interpretation zyada detai
 **Status:** Investigations ka intro padha; advanced procedures abhi nahi.
 
 [📝 Day 2 practice MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md)

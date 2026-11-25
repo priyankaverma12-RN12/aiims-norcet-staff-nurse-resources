@@ -1,6 +1,6 @@
 # 📝 Day 1 — Respiratory Anatomy & Physiology: 40 Hinglish MCQs
 
-[🏠 Chapter home](../README.md) · [📖 Day 1 ke complete Hinglish notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final 15-question mock](Day-01-Final-Mock-15.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 PYQs](../PYQs/README.md)
 
 > **Ye 40 original NORCET-style MCQs hain.** Sabhi questions Day 1 mein padhe hue concepts par based hain. Ye verified AIIMS PYQs nahi hain. Aakhri 5 questions hamare studied topics ki extra practice ke liye hain. Medical terms English mein aur explanation simple Hindi-English mein hai.
 
@@ -880,3 +880,8 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 ---
 
 [📖 Day 1 ke notes phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 PYQs](../PYQs/README.md)

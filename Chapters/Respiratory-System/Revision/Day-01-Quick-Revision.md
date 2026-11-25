@@ -1,6 +1,6 @@
 # ⚡ Day 1 — Respiratory A&P Quick Revision (Hinglish)
 
-[📖 Full Day 1 Notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
 
 ![Respiratory diagram](../Assets/respiratory-tract.svg)
 
@@ -63,3 +63,8 @@ Example: RR 15 × TV 400 mL = **6000 mL/min = 6 L/min**.
 **Exam trap:** pH 7.46 normal se upar; PaCO₂ 33 usual range se neeche.
 
 [🎯 Day 1 final 15-MCQ mock](../MCQs/Day-01-Final-Mock-15.md)
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)

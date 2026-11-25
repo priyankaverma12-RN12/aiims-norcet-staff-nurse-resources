@@ -2,7 +2,7 @@
 
 **AIIMS NORCET 12 + HP Staff Nurse (HPRCA)** • Basic se exam level tak • Simple Hindi-English
 
-[🏠 Respiratory chapter](../README.md) · [📝 Day 1 ke 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [⚡ Quick revision](../Revision/Day-01-Quick-Revision.md)
+[🏠 Chapter](../README.md) · [📝 Day 1 ke 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md) · [🔎 Sources](../References.md)
 
 > **Hamari class wali language:** Medical terms English mein rahenge, lekin unki explanation simple Hindi-English mein hogi. Ye sirf wahi topics hain jo humne Day 1 mein padhe aur revise kiye the. V/Q mismatch, Haldane effect jaise unstudied topics include nahi kiye gaye.
 
@@ -390,3 +390,8 @@ RR badha, lekin TV kam hua. Isliye total MV **same** hai.
 ---
 
 **Note:** Ye independent learning notes hain, official AIIMS paper nahi. [Medical references](../References.md).
+
+
+---
+
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📝 Day 1 ke 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md) · [🔎 Sources](../References.md)
