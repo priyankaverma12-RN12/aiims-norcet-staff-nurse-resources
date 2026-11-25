@@ -16,5 +16,8 @@ Quick high-priority requirements:
 - **Actually push** and verify remote commit; don't say publishing succeeded without confirmation.
 - This `AGENTS.md` and Copilot instructions are pointers; **skill is canonical**.
 
+
+- On every push, check **already studied chapters** for genuine important missed points. When worthwhile, create **at most one extra combined chapter-root Markdown file** with supplementary Hinglish concepts and **30+ truly unique English MCQs** (no exact/semantic duplicates vs existing banks/mocks/Previous Year Questions). **Each answer must be hidden in a <details> dropdown** with substantial Hinglish reasoning, difficulty tag, and diagrams when useful. If fewer than 30 distinct questions exist, do not pad; skip and report.
+
 ## Repository
 https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources
