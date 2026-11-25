@@ -1,6 +1,8 @@
 # 📝 Repository rules — hamare future nursing chapters ke liye
 
-**Simple navigation + detailed Hinglish notes + genuine source attribution** hi standard rahega.
+**Simple navigation + detailed Hinglish concepts + exact English MCQs + verified sources** hi standard rahega.
+
+**Canonical complete skill:** [.github/skills/norcet-staff-nurse-github-publisher/SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Is file mein future publishing workflow, difficulty tags, YouTube search and verification detail se documented hain.
 
 ~~~text
 Chapters/<Chapter-Name>/
@@ -14,12 +16,13 @@ Chapters/<Chapter-Name>/
 ~~~
 
 ## 1. Language aur coverage
-- Medical terms English; saari explanations, MCQ stems, hints Hinglish mein.
+- Medical terms English. **Concept explanations, MCQ reasoning, hints Hinglish** mein; **questions + all A/B/C/D options original English wording, unchanged**.
 - **Sirf actually studied topics** add karo; advanced unstudied areas include mat karo.
 - Ek day ke multiple related topics ko **ek long meaningful Markdown guide** mein club karo.
 - Concept, MCQ aur paper-source navigation ek-ek page par clickable honi chahiye.
 
 ## 2. Questions & answers
+- Har question par **Difficulty: Easy / Medium / Difficult** label zaroor do; correct answer and other options ka detailed Hinglish reasoning likho.
 - Har MCQ mein unambiguous best answer aur plausible options hone chahiye.
 - **Why correct + other options kyun wrong + exam memory trick** likho.
 - Numerical values, formulas, unit conversions aur answer keys check karo.
@@ -31,7 +34,8 @@ Chapters/<Chapter-Name>/
 - NORCET memory-based paper ko **unofficial memory-based** bolo; actual CBT ka verified wording/answer claim nahi.
 - Agar exact source nahi mila, toh Previous Year Question guess karke mat add karo.
 
-## 4. Images and sources
+## 4. Images, videos and sources
+- Har studied topic ke liye **YouTube teaching video + MCQ practice video** dono ko research karke concept topic table mein link karo; specific real URLs only, fabricated nahi.
 - Har important taught concept ke saath accurate, useful **original SVG diagram** use karo.
 - Images ko usi notes/MCQ section mein embed karo, separate gallery link optional hai.
 - Medical concepts ko OpenStax, Merck, MedlinePlus aur ATS/ERS jaisi sources se validate karo.
