@@ -13,7 +13,7 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
 | **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
-| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | Practice pending — theory presented | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
+| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | Practice pending — theory and extra high-yield points presented | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
 
 ### Practice ka level — base bank vs new exam-level practice
 
@@ -43,7 +43,7 @@ Har **already studied** topic ka teaching video aur MCQ-practice link complete [
 
 **Dhyan de:** Videos mein kuch advanced topics bhi ho sakte hain. Filhaal wahi dekho jo Day 1–2 mein padha hai. Links source metadata se check hue hain; sabhi video transcripts poore review nahi hue.
 
-## 🖼️ 18 diagrams — ek jagah
+## 🖼️ 19 diagrams — ek jagah
 
 Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed** kiya hai. Yahan sab ek jagah available hain.
 
@@ -69,6 +69,8 @@ Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed**
 | Day 3 | [Airway and alveoli](Assets/day-03-airway-alveoli.svg) | Asthma, bronchitis, emphysema |
 | Day 3 | [Pursed-lip breathing](Assets/day-03-pursed-lip-breathing.svg) | Inhale 2, exhale 4 seconds |
 
+| Day 3 | [Peak flow zones and cor pulmonale](Assets/day-03-peak-flow-cor-pulmonale.svg) | Personal best and right-heart overload |
+
 **Gallery preview:**
 
 [![Alveolar cells](Assets/alveolar-cell-roles.svg)](Assets/alveolar-cell-roles.svg)
@@ -86,7 +88,7 @@ Respiratory-System/
 ├── MCQs/                   ← 40 + 36 questions, plus final mock
 ├── Previous-Year-Questions/                   ← Scanned historic paper / memory-based (labeled)
 ├── Revision/               ← Day-wise quick sheets
-├── Assets/                 ← 18 original SVGs
+├── Assets/                 ← 19 original SVGs
 └── References.md           ← Research & medical sources
 ~~~
 
