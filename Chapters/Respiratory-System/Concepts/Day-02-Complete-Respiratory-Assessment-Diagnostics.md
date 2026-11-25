@@ -1,323 +1,320 @@
-# Day 02 — Complete Respiratory Assessment & Diagnostics Study Guide
+# 🩺 Day 2 — Respiratory Assessment & Diagnostics | Complete Hinglish Notes
 
-**AIIMS NORCET / HP Staff Nurse • Easy English + Hindi explanations**
+**AIIMS NORCET 12 + HP Staff Nurse • Simple Hindi-English • Basic se exam level tak**
 
-[← Respiratory System index](../README.md) · [Day 2 MCQ question bank](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Quick revision](../Revision/Day-02-Quick-Revision.md)
+[🏠 Respiratory chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Quick revision](../Revision/Day-02-Quick-Revision.md)
 
-> **What we studied:** Respiratory assessment (inspection, palpation, percussion, auscultation), normal/abnormal breath sounds, basic arterial blood gas (ABG) interpretation, basic spirometry and an **introductory overview only** of diagnostic investigations. This is not an advanced investigation or critical-care procedures manual.
+> **Hamari class wali language:** Medical terms English mein hain, explanations wahi simple Hinglish mein jo humne padhte waqt use ki thi. Day 2 mein inspection, palpation, percussion, auscultation, ABG aur spirometry practice ki. Diagnostic investigations ka sirf **basic introduction** padha hai—advanced procedures abhi include nahi kar rahe.
 
-## Contents — jump to a topic
+## 📚 Is guide mein kya-kya hai?
 
-1. [Assessment workflow and IPPA](#1-assessment-workflow-and-ippa)
-2. [Inspection: look](#2-inspection-look)
-3. [Palpation: feel](#3-palpation-feel)
-4. [Percussion: tap](#4-percussion-tap)
-5. [Auscultation: listen](#5-auscultation-listen)
-6. [ABG: values and simple interpretation](#6-abg-values-and-simple-interpretation)
-7. [Spirometry: basic terms and calculations](#7-spirometry-basic-terms-and-calculations)
-8. [Respiratory investigations: introductory only](#8-respiratory-investigations-introductory-only)
-9. [Comparisons, mini cases and exam checklist](#9-comparisons-mini-cases-and-exam-checklist)
+1. [Respiratory assessment ka order — IPPA](#1-respiratory-assessment-ka-order--ippa)
+2. [Inspection — patient ko dekhna](#2-inspection--patient-ko-dekhna)
+3. [Palpation — haath se feel karna](#3-palpation--haath-se-feel-karna)
+4. [Percussion — chest tap karna](#4-percussion--chest-tap-karna)
+5. [Auscultation — stethoscope se sunna](#5-auscultation--stethoscope-se-sunna)
+6. [ABG ke basic values](#6-abg-ke-basic-values)
+7. [ABG interpretation — step by step](#7-abg-interpretation--step-by-step)
+8. [Spirometry — FEV₁, FVC aur ratio](#8-spirometry--fev-fvc-aur-ratio)
+9. [Basic diagnostic investigations](#9-basic-diagnostic-investigations)
+10. [NORCET last-minute revision](#10-norcet-last-minute-revision)
 
 ---
 
-## 1. Assessment workflow and IPPA
+## 1. Respiratory assessment ka order — IPPA
 
-![Original IPPA respiratory assessment diagram](../Assets/assessment-map.svg)
+![Original IPPA sequence diagram](../Assets/assessment-map.svg)
 
-Routine physical respiratory assessment is commonly organized as **IPPA**:
+Physical assessment mein hum commonly **IPPA** follow karte hain:
 
-| Letter | Step | Action | Hindi-English |
-|---|---|---|---|
-| **I** | **Inspection** | Watch breathing and chest | **Dekho** |
-| **P** | **Palpation** | Use hands to feel movement/vibration | **Haath se feel karo** |
-| **P** | **Percussion** | Tap and listen for the note | **Tap karo** |
-| **A** | **Auscultation** | Listen with stethoscope | **Suno** |
-
-First ensure the patient is comfortable and safe, explain the examination, perform hand hygiene and compare the right and left sides at **similar anatomical locations**. Clinical emergencies need prompt escalation according to local protocols: finishing every IPPA step is **not** the priority if a patient is in severe respiratory distress.
-
-**Memory:** *IPPA = Inspect → Palpate → Percuss → Auscultate.*
-
-## 2. Inspection: look
-
-Inspection means observing the respiratory pattern **without first touching the patient**.
-
-### What to notice
-
-- **Respiratory rate:** count breaths over a known period; normal adult resting teaching range approximately **12–20/min**.
-- **Rhythm:** does breathing appear regular or irregular?
-- **Depth:** shallow, normal or unusually deep?
-- **Work of breathing:** obvious accessory-muscle effort, nasal flaring or retractions.
-- **Chest symmetry:** does each hemithorax rise to a similar degree?
-- **Posture/speech:** is the patient comfortable or struggling to speak full sentences?
-- **Skin/lip colour and oxygen saturation** when assessed as part of the bigger picture.
-
-### Two key terms
-
-- **Tachypnea:** unusually **fast** breathing for the age/context.
-- **Bradypnea:** unusually **slow** breathing for the age/context.
-
-For simple adult nursing exam questions, RR **24/min** at rest is above the common normal range; RR **9/min** is below it.
-
-**Example (inside studied scope):** “The nurse notices use of neck muscles and laboured respiration. Which part of IPPA identified this finding?” → **Inspection**.
-
-**Do not assume** that one abnormal observation by itself proves a particular respiratory disease.
-
-## 3. Palpation: feel
-
-Palpation is assessment with the **hands**.
-
-### Four familiar findings
-
-1. **Chest expansion:** feel both sides move during inspiration. Unequal expansion is an observation needing further assessment.
-2. **Tracheal position:** normally approximately **midline**.
-3. **Tenderness and swelling:** note focal pain, masses or chest-wall changes.
-4. **Tactile vocal fremitus:** **palpable vibration** transmitted to the chest wall while the patient speaks.
-
-### Understanding tactile fremitus
-
-Ask the patient to repeat a phrase such as “ninety-nine” while placing hands on symmetrical chest regions. Compare vibrations rather than interpreting one isolated sensation.
-
-| Finding | Possible reason (not a final diagnosis) |
-|---|---|
-| **Increased fremitus** | Lung consolidation with a patent airway may transmit vibration better |
-| **Decreased fremitus** | Fluid in pleural space, pneumothorax or airway obstruction may reduce transmitted vibration |
-
-**Memory trick:** *Fremitus = feel vibration.* It is not a breath sound heard by a stethoscope.
-
-**Example:** “Which method assesses chest expansion and palpable vocal vibrations?” → **Palpation**, not percussion.
-
-## 4. Percussion: tap
-
-Percussion means tapping an area of the chest and interpreting the **sound/note** produced by the tissues underneath.
-
-The amount of underlying air and tissue density influences the note:
-
-| Percussion note | Basic meaning | Common association |
+| Letter | Step | Easy meaning |
 |---|---|---|
-| **Resonant** | Normal air-filled lung | Expected healthy peripheral lung field |
-| **Dull** | More dense tissue or fluid | Consolidation or pleural effusion |
-| **Hyperresonant** | More air than expected | Pneumothorax or hyperinflation |
-| **Flat** | Very dense tissue | Bone or muscle |
+| **I** | **Inspection** | **Dekho** — patient ki breathing observe karo |
+| **P** | **Palpation** | **Feel karo** — haath se chest movement aur vibration |
+| **P** | **Percussion** | **Tap karo** — chest tap karke note suno |
+| **A** | **Auscultation** | **Stethoscope se suno** — breath sounds |
 
-**Simple Hindi:** *Air-filled normal lung = resonant; fluid/solid = dull; extra air = hyperresonant.*
+**Trick:** *I = Inspect, P = Palpate, P = Percuss, A = Auscultate.*
 
-### Three-step method to remember
+Routine exam mein patient ko explain karo, comfortable position do aur dono sides ko compare karo. Agar patient ko severe breathing distress ho toh assessment complete karne se pehle urgent clinical help/escalation zaroori hai.
 
-1. Assess corresponding areas on **both sides**.
-2. Tap consistently and compare the notes.
-3. Link the finding to inspection, palpation and auscultation; do not diagnose from percussion alone.
+## 2. Inspection — patient ko dekhna
 
-**Typical exam trap:** “Dullness” is not the usual percussion sound over healthy peripheral lung. **Resonance** is.
+**Inspection** ka matlab hai patient ko **touch kiye bina observe** karna.
 
-## 5. Auscultation: listen
+### Kya-kya check karna hai?
+- **Respiratory rate (RR):** Ek minute mein kitni breaths le raha hai?
+- **Rhythm:** Breaths regular hain ya irregular?
+- **Depth:** Saans shallow hai ya normal/deep?
+- **Chest symmetry:** Right aur left dono chest sides equally rise kar rahi hain?
+- **Work of breathing:** Accessory muscles use ho rahe hain? Nasal flaring ya retractions dikh rahe hain?
+- **Posture aur speech:** Patient comfortably bol pa raha hai ya saans phool rahi hai?
+- **Colour aur SpO₂:** Broader assessment ka part ho sakta hai.
 
-Auscultation is listening to lung sounds with a **stethoscope**. Ask the patient to breathe through the mouth a little more deeply than normal, as comfortably tolerated. Compare side to side.
+### Rate-related words
+- **Tachypnea:** Breathing usual range se **fast**.
+- **Bradypnea:** Breathing usual range se **slow**.
+- Adult resting RR ka common exam range **12–20/min**.
+
+**Example:** RR = 26/min (adult at rest). Kya normal hai? **Nahi**; common exam range se above hai, isliye **tachypnea**.
+
+**NORCET question:** “Chest movement symmetry aur accessory muscle use kis technique se assess karoge?” → **Inspection**.
+
+**Yaad:** Ek finding dekhkar direct final diagnosis nahi banana.
+
+## 3. Palpation — haath se feel karna
+
+**Palpation** mein haath use karke chest wall ko check karte hain.
+
+### Important findings
+1. **Chest expansion:** Dono sides inspiration pe equally expand ho rahi hain?
+2. **Tracheal position:** Normally approximately **midline** hoti hai.
+3. **Tenderness/swelling:** Chest wall pe koi pain ya swelling hai?
+4. **Tactile fremitus:** Patient bolte waqt chest wall pe **vibration feel** hoti hai.
+
+### Tactile fremitus ko example se samjho
+
+Patient ko "ninety-nine" bolne ke liye kaha jaata hai. Nurse chest ke corresponding areas pe hands rakhkar vibration compare karti hai.
+
+| Fremitus finding | Kis condition mein ho sakti hai? |
+|---|---|
+| **Increased** | **Consolidation** mein vibration better transmit ho sakti hai, agar airway open ho |
+| **Decreased** | **Pleural effusion**, pneumothorax ya airway obstruction mein vibration kam feel ho sakti hai |
+
+**Important:** Ye possible associations hain, single finding se diagnosis confirm nahi hota.
+
+**Memory:** *Fremitus = vibration FEEL karna*, stethoscope se sunna nahi.
+
+**Exam trap:** “Tactile fremitus” ko auscultation mat choose karna. Answer **palpation** hai.
+
+## 4. Percussion — chest tap karna
+
+**Percussion** ka meaning chest ko tap karke sound/note assess karna hai.
+
+Kyon? Underlying tissues mein air, fluid ya solid tissue hone se note change ho sakti hai.
+
+| Sound / note | Easy explanation | Common association |
+|---|---|---|
+| **Resonant** | Normal air-filled lung ka usual note | Normal peripheral lung |
+| **Dull** | Fluid ya dense tissue ki wajah se muted sound | Pleural effusion, consolidation |
+| **Hyperresonant** | Extra air ki wajah se relatively booming sound | Pneumothorax, hyperinflation |
+| **Flat** | Bahut dense tissue pe sound | Bone/muscle |
+
+### Yaad karne ka shortcut
+- **Normal air → Resonant**
+- **Fluid/solid → Dull**
+- **Extra air → Hyperresonant**
+
+**Example 1:** Healthy lung field mein percussion ka expected sound? → **Resonance**.
+
+**Example 2:** Pleural effusion ke over usually? → **Dullness**.
+
+**Example 3:** Pneumothorax jaisi extra-air condition mein? → **Hyperresonance** ho sakta hai.
+
+**NORCET point:** Right aur left ke matching areas compare karo. Sirf percussion note se disease confirm nahi hoti.
+
+## 5. Auscultation — stethoscope se sunna
+
+**Auscultation** means stethoscope se breath sounds sunna. Right aur left corresponding lung regions ko compare karo. Patient ko comfortable deep breaths lene ko bol sakte hain.
 
 ### Normal breath sounds
 
-| Sound | How it sounds | Usual location |
+| Sound | Kaisa sunai deta hai? | Kahan normal milta hai? |
 |---|---|---|
 | **Vesicular** | Soft, low-pitched | **Most peripheral lung fields** |
-| **Bronchial** | Louder, more tubular | Over trachea/manubrium |
-| **Bronchovesicular** | Intermediate quality | Near major bronchi, upper sternal/back areas |
+| **Bronchial** | Louder, high-pitched/tubular | Normally trachea/manubrium ke paas |
+| **Bronchovesicular** | Dono ke beech | Main bronchi ke around |
 
-**Common mistake:** A clearly bronchial sound in an abnormal peripheral location may be an abnormal finding; don't simply say all bronchial sounds are always abnormal.
+### Abnormal / added sounds
 
-### Added (adventitious) sounds
-
-| Sound | What you hear | High-yield association |
+| Sound | Simple sound description | Association |
 |---|---|---|
-| **Wheeze** | Continuous musical whistle, often high pitched | Narrowed airways |
-| **Crackles / rales** | Brief popping or crackling | Fluid or reopening small airways |
-| **Rhonchi** | Low, snoring/coarse sound | Secretions or larger-airway narrowing |
-| **Stridor** | Harsh often inspiratory sound, loud near upper airway | Potential upper-airway obstruction — **urgent assessment** |
-| **Pleural friction rub** | Grating, rubbing/creaking | Inflamed pleural surfaces |
+| **Wheeze** | Musical **whistle** jaisi sound | Narrow airways |
+| **Crackles / rales** | **Popping** / crackling jaisi | Fluid/reopening small airways |
+| **Rhonchi** | Low-pitched **snoring** jaisi | Secretions ya large-airway narrowing |
+| **Stridor** | Harsh sound, often inspiration mein upper airway se | Upper-airway obstruction possible — urgent assessment |
+| **Pleural friction rub** | **Grating / rubbing** jaisi | Inflamed pleural surfaces |
 
-### Five fast recall prompts
-
+### Sound identify karne ki quick practice
 - “Musical whistle?” → **Wheeze**.
-- “Popping?” → **Crackles**.
-- “Snoring low pitch?” → **Rhonchi**.
-- “Harsh inspiratory noise near neck?” → **Stridor**.
-- “Pleural surfaces rubbing?” → **Pleural friction rub**.
+- “Popping/crackling?” → **Crackles**.
+- “Snoring low sound?” → **Rhonchi**.
+- “Harsh inspiration, neck ke paas?” → **Stridor**.
+- “Pleura rub karne jaisi grating?” → **Pleural friction rub**.
 
-**Clinical safety:** A sudden stridor or severe breathing difficulty needs urgent review; these tables are for exam recognition, not self-diagnosis.
+**Important:** Normal vesicular aur bronchial sounds ka location bhi matter karta hai. Stridor/severe respiratory distress mein prompt medical assessment zaroori hai.
 
-## 6. ABG: values and simple interpretation
-
-Arterial blood gas (**ABG**) is used to evaluate **oxygenation** and **acid–base status**. For Day 2, we learned the **basic three-step approach**, not detailed compensation formulas or complex mixed disorders.
-
-### The four numbers to read first
-
-| Parameter | Common adult textbook range | What it represents |
-|---|---|---|
-| **pH** | **7.35–7.45** | Acidity/alkalinity of blood |
-| **PaCO₂** | **35–45 mmHg** | **Respiratory** acid–base component |
-| **HCO₃⁻** | **22–26 mEq/L** | **Metabolic** acid–base component |
-| **PaO₂** | **80–100 mmHg** near sea level | Arterial oxygen partial pressure |
-
-Reference intervals vary somewhat by source, lab, age and environment. PaO₂ is influenced by altitude.
-
-### Step 1: Which side of normal is the pH?
-
-- **pH below 7.35** = **acidemia** (acidic direction).
-- **pH above 7.45** = **alkalemia** (alkaline direction).
-- **pH in 7.35–7.45** = within the usual teaching interval; further interpretation can still be necessary.
-
-### Step 2: Look at PaCO₂
-
-CO₂ acts as the **respiratory** component for this basic classification:
-- CO₂ **up** tends to push blood pH **down**.
-- CO₂ **down** tends to push blood pH **up**.
-
-### Step 3: Look at HCO₃⁻
-
-Bicarbonate is the **metabolic** component:
-- HCO₃⁻ **up** tends to move pH **up**.
-- HCO₃⁻ **down** tends to move pH **down**.
-
-### Pattern table — uncomplicated exam examples
-
-| pH | PaCO₂ | HCO₃⁻ | Basic primary pattern |
-|---|---|---|---|
-| **Low** | **High** | Normal or relatively unchanged | **Respiratory acidosis** |
-| **High** | **Low** | Normal or relatively unchanged | **Respiratory alkalosis** |
-| **Low** | Normal/variable | **Low** | **Metabolic acidosis** |
-| **High** | Normal/variable | **High** | **Metabolic alkalosis** |
-
-These simplified patterns are deliberately **uncompensated example cases**. Real ABGs require considering compensation and sometimes mixed disorders; that advanced process was not covered here.
-
-### Worked example 1 — respiratory acidosis
-
-Given **pH 7.30, PaCO₂ 52 mmHg, HCO₃⁻ 24 mEq/L**.
-
-1. pH 7.30 is **low** → acidemia.
-2. CO₂ 52 is **high** → raises acidity.
-3. HCO₃⁻ 24 is in the commonly taught normal interval.
-4. **Basic classification:** primary **respiratory acidosis** without evident metabolic compensation in this simple example.
-
-### Worked example 2 — respiratory alkalosis
-
-Given **pH 7.49, PaCO₂ 31 mmHg, HCO₃⁻ 24 mEq/L**.
-
-1. pH **high** → alkalemia.
-2. CO₂ **low** → less respiratory acid.
-3. HCO₃⁻ remains in usual range.
-4. **Basic classification:** primary **respiratory alkalosis**.
-
-### Worked example 3 — metabolic acidosis
-
-Given **pH 7.27, PaCO₂ 40 mmHg, HCO₃⁻ 17 mEq/L**.
-
-1. pH **low** → acidemia.
-2. HCO₃⁻ **low** → metabolic component is driving acidity.
-3. PaCO₂ is in the basic normal interval.
-4. **Basic classification:** primary **metabolic acidosis**.
-
-### Worked example 4 — metabolic alkalosis
-
-Given **pH 7.48, PaCO₂ 40 mmHg, HCO₃⁻ 30 mEq/L**.
-
-1. pH **high** → alkalemia.
-2. HCO₃⁻ **high** → metabolic component favors alkalinity.
-3. CO₂ appears normal in this simplified example.
-4. **Basic classification:** primary **metabolic alkalosis**.
-
-**NORCET memory:** **“CO₂ is respiratory; HCO₃⁻ is metabolic.”** Do not identify a disorder from PaCO₂ or HCO₃⁻ alone without considering pH.
-
-## 7. Spirometry: basic terms and calculations
-
-Spirometry measures **how much air is forcibly exhaled and how quickly** during a forced breathing test. It is effort-dependent, so clear instructions and good technique matter.
-
-### High-yield terms
-
-| Term | Full form / what it measures |
-|---|---|
-| **FVC** | **Forced Vital Capacity** — total air expelled forcefully after a maximal inspiration |
-| **FEV₁** | **Forced Expiratory Volume in 1 second** |
-| **FEV₁/FVC** | Fraction of FVC expired in the first second, often expressed as a percentage |
-| **PEF** | **Peak Expiratory Flow** — maximal flow achieved during expiration |
-
-### Numerical example
-
-**FEV₁ = 2.1 L; FVC = 3.0 L.**
-
-\[
-FEV_1/FVC \times 100 = (2.1/3.0)\times100 = \mathbf{70\%}
-\]
-
-The ratio is a measure, not a diagnosis by itself. Interpretation depends on appropriate reference values and acceptable-quality manoeuvres.
-
-### Basic patterns (what we actually studied)
-
-- **Obstructive pattern:** airflow is limited; **FEV₁/FVC is reduced** relative to applicable criteria.
-- **Possible restrictive pattern:** FVC may be reduced with a preserved or increased FEV₁/FVC. **Low FVC alone cannot confirm true restriction**; TLC measurement is needed to confirm.
-- **Residual volume (RV)** cannot be measured directly by ordinary simple spirometry because RV is the air left **after maximal expiration**.
-
-### How the manoeuvre works — simplified
-
-1. Explain procedure and achieve comfortable correct positioning.
-2. Have the patient inhale maximally.
-3. Ask for a forceful, fast exhalation sustained to completion.
-4. Repeat as needed for acceptable/repeatable efforts according to testing standards.
-
-**Exam memory:** FEV₁ = **first second**; FVC = **full forced breath out**; reduced ratio → think **obstruction**.
-
-## 8. Respiratory investigations: introductory only
-
-> **Status: introductory overview only.** Do not treat this section as evidence that we finished advanced imaging, bronchoscopy, specialized sampling or detailed test contraindications.
-
-| Investigation | What a nurse should recognize at this introductory stage |
-|---|---|
-| **Pulse oximetry** | Non-invasive **estimated SpO₂**, displayed as a percentage |
-| **Chest X-ray** | Image of chest/lungs; helps evaluate gross abnormalities |
-| **ABG** | Arterial sample: pH, PaCO₂, PaO₂, HCO₃⁻ and acid-base/oxygenation |
-| **Spirometry** | Forced airflow and volume measurements |
-| **Sputum examination** | Laboratory examination of respiratory secretions when indicated |
-
-Basic nursing approach: explain the prescribed test, confirm correct patient, maintain hygiene/infection prevention, and follow local instructions for preparation and monitoring.
-
-**Do not confuse:** Pulse oximetry provides an estimate of **saturation**; ABG includes **partial pressures** and acid–base measures. Neither is interchangeable with simple chest auscultation.
-
-## 9. Comparisons, mini cases and exam checklist
-
-### Most-tested contrasts from Day 2
-
-| If a question asks… | Think… |
-|---|---|
-| “Look at chest rise and use of accessory muscles” | **Inspection** |
-| “Feel vibration when patient speaks” | **Palpation (fremitus)** |
-| “Tap normal air-filled lung” | **Resonance** |
-| “Listen to soft sound in peripheral lung” | **Vesicular** |
-| “Hear musical whistle” | **Wheeze** |
-| “Hear popping sound” | **Crackles** |
-| “Hear harsh upper-airway inspiratory sound” | **Stridor** |
-| “pH↓ with PaCO₂↑” | **Respiratory acidosis** (simple pattern) |
-| “pH↑ with HCO₃⁻↑” | **Metabolic alkalosis** (simple pattern) |
-| “Find air exhaled in 1 second” | **FEV₁** |
-| “Is RV measured directly by simple spirometry?” | **No** |
-
-### Three mini cases
-
-**Case A — Physical examination:** You hear a musical, continuous sound during chest auscultation. Identify **wheeze**; think narrowed airways as an association, not an automatic final diagnosis.
-
-**Case B — ABG:** pH 7.29; PaCO₂ 53; HCO₃⁻ 24. pH down + CO₂ up → **primary respiratory acidosis** in this simple uncompensated teaching case.
-
-**Case C — Spirometry:** FEV₁ 2.4 L and FVC 3.2 L → FEV₁/FVC = **75%**. The calculation is exact; whether this ratio is abnormal requires clinical criteria and reference values.
-
-### Final checklist before leaving Day 2
-
-- [ ] Say IPPA in order.
-- [ ] Explain what **inspection**, **palpation**, **percussion** and **auscultation** each assess.
-- [ ] Recognize normal vesicular versus wheeze/crackles/rhonchi/stridor/pleural rub.
-- [ ] Recall pH, PaCO₂ and HCO₃⁻ ranges.
-- [ ] Identify the **four basic uncompensated ABG patterns**.
-- [ ] Define FEV₁, FVC and their ratio, and calculate a simple percentage.
-- [ ] Remember **RV is not directly measured by conventional spirometry**.
-- [ ] Distinguish basic roles of pulse oximetry, CXR, ABG, spirometry and sputum examination.
-
-**Study next:** [Day 2 MCQ bank](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 2 quick revision](../Revision/Day-02-Quick-Revision.md).
+### IPPA recap
+Inspection = **look**; Palpation = **feel**; Percussion = **tap**; Auscultation = **listen**.
 
 ---
 
-**Scope & references:** Expanded explanation of concepts already studied during Day 2. Original educational content, not authenticated AIIMS PYQs. [Medical references](../References.md).
+## 6. ABG ke basic values
+
+**ABG = Arterial Blood Gas**. Is test se blood ke oxygenation aur **acid-base status** ko samajhne mein help milti hai.
+
+| Parameter | Common adult exam range | Meaning |
+|---|---|---|
+| **pH** | **7.35–7.45** | Blood acidic ya alkaline? |
+| **PaCO₂** | **35–45 mmHg** | **Respiratory component** |
+| **HCO₃⁻** | **22–26 mEq/L** | **Metabolic component** |
+| **PaO₂** | **80–100 mmHg** | Arterial oxygen pressure; near sea level |
+
+**Trick:** PaCO₂ = **35–45** aur pH = **7.35–7.45**.
+
+**Normal values ka caution:** Actual reference intervals lab, age aur altitude se vary kar sakte hain. Ye simplified exam pattern hai.
+
+## 7. ABG interpretation — step by step
+
+Is topic mein humne basic acid-base classification padhi thi. Advanced compensation aur mixed disorders abhi nahi padh rahe.
+
+### Step 1: pH dekho
+
+- **pH < 7.35** → **Acidemia** (blood acidic side).
+- **pH > 7.45** → **Alkalemia** (blood alkaline side).
+- **7.35–7.45** → usual reference range mein; further assessment phir bhi needed ho sakti hai.
+
+### Step 2: PaCO₂ dekho
+
+**PaCO₂ respiratory side ko represent karta hai.**
+- **CO₂ badhe** → pH ko neeche/acidic direction mein le ja sakta hai.
+- **CO₂ ghate** → pH ko upar/alkaline direction mein le ja sakta hai.
+
+### Step 3: HCO₃⁻ dekho
+
+**HCO₃⁻ metabolic side ko represent karta hai.**
+- **HCO₃⁻ badhe** → pH alkaline direction mein.
+- **HCO₃⁻ ghate** → pH acidic direction mein.
+
+### Four basic exam patterns
+
+| pH | PaCO₂ | HCO₃⁻ | Answer |
+|---|---|---|---|
+| **Low** | **High** | Normal/relatively unchanged | **Respiratory acidosis** |
+| **High** | **Low** | Normal/relatively unchanged | **Respiratory alkalosis** |
+| **Low** | Normal/variable | **Low** | **Metabolic acidosis** |
+| **High** | Normal/variable | **High** | **Metabolic alkalosis** |
+
+**Ye simplified uncomplicated patterns hain.** Clinical ABG mein compensation aur mixed disorders bhi hote hain.
+
+### Example A: Respiratory acidosis
+
+**pH 7.30, PaCO₂ 52 mmHg, HCO₃⁻ 24 mEq/L**
+
+1. pH **low** → acidemia.
+2. PaCO₂ **high** → respiratory side se acidity badh rahi hai.
+3. HCO₃⁻ normal range mein hai.
+4. **Answer = Respiratory acidosis (simple uncompensated pattern)**.
+
+### Example B: Respiratory alkalosis
+
+**pH 7.49, PaCO₂ 31, HCO₃⁻ 24**
+
+pH high = alkaline. PaCO₂ low hai, jo alkaline direction explain karta hai. **Answer: Respiratory alkalosis**.
+
+### Example C: Metabolic acidosis
+
+**pH 7.27, PaCO₂ 40, HCO₃⁻ 17**
+
+pH low, HCO₃⁻ low. **Answer: Metabolic acidosis**.
+
+### Example D: Metabolic alkalosis
+
+**pH 7.48, PaCO₂ 40, HCO₃⁻ 30**
+
+pH high, HCO₃⁻ high. **Answer: Metabolic alkalosis**.
+
+**NORCET rule:** Pehle **pH**, fir **PaCO₂**, fir **HCO₃⁻**. Sirf ek number dekhkar disorder decide mat karna.
+
+---
+
+## 8. Spirometry — FEV₁, FVC aur ratio
+
+**Spirometry** lungs se forcefully air kitni aur kitni fast nikalti hai, ye measure karne wala test hai.
+
+| Term | Simple meaning |
+|---|---|
+| **FVC** | Full inspiration ke baad forcefully bahar nikali ja sakne wali **total air volume** |
+| **FEV₁** | Forced expiration ke **first 1 second** mein exhaled volume |
+| **FEV₁/FVC** | Pehle 1 second mein total forced volume ka kitna part exhale hua |
+| **PEF** | Forced expiration ke dauran **peak flow** |
+
+### Ratio calculate karna
+
+**Formula: FEV₁/FVC × 100**
+
+**Example:** FEV₁ = 2.1 L, FVC = 3.0 L.
+
+Ratio = (2.1 ÷ 3.0) × 100 = **70%**.
+
+**Another example:** FEV₁ = 2.4 L, FVC = 3.2 L.
+
+Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
+
+**Trick:** FEV₁ = **first 1 second**. FVC = **total forced expiration**.
+
+### Obstructive vs restrictive pattern — sirf basics
+
+- **Obstructive pattern:** FEV₁/FVC **reduced** ho sakta hai. Iska link airflow obstruction se hai.
+- **Possible restrictive pattern:** FVC kam aur FEV₁/FVC normal/high ho sakta hai, **lekin low FVC se restriction confirm nahi hota**. Confirm karne ke liye **TLC** chahiye.
+- **RV** (Residual Volume) basic spirometry se directly measure **nahi** hota, kyunki ye maximum expiration ke baad lungs mein bachi air hai.
+
+### Procedure ka simple idea
+1. Patient ko procedure samjhao.
+2. Correct position aur mouth seal ensure karo.
+3. Maximum inspiration karwao.
+4. Forcefully aur quickly expiration complete karwao.
+5. Acceptable efforts aur repeatability important hain.
+
+**Exam trap:** FEV₁ aur FVC ko confuse mat karna. Ek **first second**, doosra **total forced breath out**.
+
+---
+
+## 9. Basic diagnostic investigations
+
+> **Important:** Ye Day 2 ka introductory topic tha. Advanced CT interpretation, bronchoscopy procedures aur detailed microbiology abhi nahi padhi—unhe abhi add nahi karna.
+
+| Test | Simple meaning |
+|---|---|
+| **Pulse oximetry** | Bina arterial blood sample liye **estimated SpO₂** batata hai |
+| **Chest X-ray** | Chest/lungs ki image; gross abnormalities dekhne mein help |
+| **ABG** | pH, gases aur acid-base information |
+| **Spirometry** | Forced expiratory air volume/flow |
+| **Sputum examination** | Respiratory secretions ka lab examination, jab prescribed ho |
+
+**Nursing basics:** Patient identity verify karo, test ko explain karo, infection prevention follow karo, aur local instructions ke according preparation/monitoring karo.
+
+**Difference:** Pulse oximeter **% saturation** batata hai; ABG mein **PaO₂/PaCO₂** pressures aur pH bhi milte hain.
+
+## 10. NORCET last-minute revision
+
+| Question ka clue | Correct concept |
+|---|---|
+| Dekhkar RR aur chest movement | **Inspection** |
+| Haath se vibrations feel karna | **Palpation / fremitus** |
+| Normal lung tap note | **Resonant** |
+| Fluid/solid ka tap note | **Dull** |
+| Extra-air tap note | **Hyperresonant** |
+| Normal peripheral breath sound | **Vesicular** |
+| Musical whistle | **Wheeze** |
+| Popping | **Crackles** |
+| Snoring sound | **Rhonchi** |
+| Harsh inspiratory upper-airway sound | **Stridor** |
+| pH low + PaCO₂ high | **Respiratory acidosis** |
+| pH high + PaCO₂ low | **Respiratory alkalosis** |
+| pH low + HCO₃⁻ low | **Metabolic acidosis** |
+| pH high + HCO₃⁻ high | **Metabolic alkalosis** |
+| Air exhaled in first second | **FEV₁** |
+| Total forced expired air | **FVC** |
+| RV simple spirometry mein measured? | **Nahi** |
+
+### Khud se 3 mini checks
+1. “Patient ke chest se wheezing sound aa rahi hai; ye kya indicate kar sakti hai?” → **Narrowed airways**.
+2. “pH 7.49, PaCO₂ 31, HCO₃⁻ 24?” → **Respiratory alkalosis (basic pattern)**.
+3. “FEV₁ 1.8 L, FVC 3 L. Ratio?” → (1.8/3) × 100 = **60%**.
+
+**Ab practice:** [Day 2 ke 36 MCQs Hinglish mein](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) aur [quick revision](../Revision/Day-02-Quick-Revision.md).
+
+---
+
+**Note:** Ye independent nursing exam notes hain, official AIIMS paper nahi. [References](../References.md).
