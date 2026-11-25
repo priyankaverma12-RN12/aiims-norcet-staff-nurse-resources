@@ -78,3 +78,11 @@ Chapters/<Chapter-Name>/
 - Missed points aur 30+ unique tough practice MCQs ki **sirf ONE combined extra file chapter ke `Concepts/` folder** mein banegi; later discoveries bhi isi file mein judengi. Filler ya repeated MCQs nahi.
 - Exam sources sirf HP nahi: **NORCET, PGIMER, SGPGI, ESIC, RRB, JIPMER, DSSSB, KGMU aur other State Staff Nurse** bhi research karenge, source authenticity ke saath.
 - Har actually studied topic ke liye **concept YouTube** aur **MCQ practice YouTube** alag search karenge; video available ho aur exact topic match ho tabhi real URL denge.
+
+## Chat wali teaching ko GitHub mein same rakho
+
+- Chat mein jo wording, Roman Hinglish, explanation, example, analogy, memory trick, numerical steps aur diagram use kiya tha, GitHub notes mein **maximum possible SAME** rakho.
+- Sirf thodi useful extra detail add karo: `kya → kaise/kyun → same example → exam application → common trap`. Completely alag tone mein rewrite mat karo.
+- Chat ka asli image/diagram accessible aur reuse allowed ho toh wahi use karo; warna accurate naya SVG banao, lekin use **original same image** mat bolo.
+- Purane Day par wapas padhne se existing notes mein wahi chat wali additional detail jodo; duplicate files nahi.
+- Sirf definitions ya tables mat rakho: topic ke hisaab se step-by-step explanation aur at least ek meaningful worked example/analogy do.

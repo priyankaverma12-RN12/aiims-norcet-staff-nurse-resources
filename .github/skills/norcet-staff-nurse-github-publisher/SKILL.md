@@ -163,6 +163,18 @@ For every grouped concept file include:
 
 **Quality target:** Rich enough that opening the file is worth it—several complete explanations and examples per group. No rigid word count; prefer density and clarity.
 
+### Detailed teaching standard — not just short definitions
+
+GitHub Concepts pages must teach each actually studied topic in the **same familiar Roman Hinglish style as the chat**, with genuine depth, not a one-line summary:
+- **Kya hai?** Define the term simply and explain unfamiliar English medical words.
+- **Kyun/kaise?** Explain cause-and-effect and mechanisms step by step, not merely memorised facts.
+- **Analogy:** Preserve the chat's original real-life analogy when recoverable; if adding a fresh analogy, don't falsely claim it was taught verbatim.
+- **Example:** At least one relevant clinical scenario, before/after comparison or fully worked numerical, including values and units when suitable.
+- **Exam reasoning:** Explain NORCET / India-wide Staff Nurse question angles, common confusions and meaningful medium/difficult application.
+- **Visuals:** Reuse any accessible original chat images (with rights to reuse), otherwise make accurate clearly identified new diagrams near the relevant explanation.
+- **Prior chat fidelity:** Keep the wording, mnemonics, examples and question text from past lessons largely unchanged; **add** a little useful depth rather than rewriting everything in a different voice.
+- **No filler:** Complex topics like ABG interpretation and lung volumes need more than one worked example; simple topics can be shorter. Never extend into unstudied advanced chapters just to add length.
+
 ## 6. MCQ question bank: original English, leveled, deeply explained
 
 **Exam targets:** AIIMS NORCET Prelims/Mains and India-wide Staff Nurse / Nursing Officer exams (PGIMER, SGPGI, ESIC, RRB, JIPMER where relevant, DSSSB, HPRCA/HPSSC, and other state recruitments). Where a user specifically asks for NEET-style biology practice, limit it to directly relevant nursing concepts **already learned** and label that scope. No unrelated NEET syllabus chapters.
