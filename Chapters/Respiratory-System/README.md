@@ -2,7 +2,7 @@
 
 ![Respiratory anatomy — original diagram](Assets/respiratory-tract.svg)
 
-**AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Easy Roman Hinglish • Day 1 aur Day 2 ke topics**
+**AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Easy Roman Hinglish • Day 1, Day 2 aur Day 3 ke topics**
 
 Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 
@@ -12,6 +12,8 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 |---|---|---|---|
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
 | **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
+
+| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | Practice pending — theory presented | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
 
 ### Practice ka level — base bank vs new exam-level practice
 
@@ -41,7 +43,7 @@ Har **already studied** topic ka teaching video aur MCQ-practice link complete [
 
 **Dhyan de:** Videos mein kuch advanced topics bhi ho sakte hain. Filhaal wahi dekho jo Day 1–2 mein padha hai. Links source metadata se check hue hain; sabhi video transcripts poore review nahi hue.
 
-## 🖼️ 16 diagrams — ek jagah
+## 🖼️ 18 diagrams — ek jagah
 
 Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed** kiya hai. Yahan sab ek jagah available hain.
 
@@ -64,6 +66,9 @@ Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed**
 | Day 2 | [ABG simple interpretation](Assets/abg-interpretation-grid.svg) | Four basic patterns |
 | Day 2 | [FEV₁/FVC spirometry graph](Assets/spirometry-ratio.svg) | First second vs full exhalation |
 
+| Day 3 | [Airway and alveoli](Assets/day-03-airway-alveoli.svg) | Asthma, bronchitis, emphysema |
+| Day 3 | [Pursed-lip breathing](Assets/day-03-pursed-lip-breathing.svg) | Inhale 2, exhale 4 seconds |
+
 **Gallery preview:**
 
 [![Alveolar cells](Assets/alveolar-cell-roles.svg)](Assets/alveolar-cell-roles.svg)
@@ -77,11 +82,11 @@ Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed**
 ~~~text
 Respiratory-System/
 ├── README.md               ← Ye chapter index
-├── Concepts/               ← Day 1 & Day 2 long notes
+├── Concepts/               ← Day 1–3 long notes
 ├── MCQs/                   ← 40 + 36 questions, plus final mock
 ├── Previous-Year-Questions/                   ← Scanned historic paper / memory-based (labeled)
 ├── Revision/               ← Day-wise quick sheets
-├── Assets/                 ← 16 original SVGs
+├── Assets/                 ← 18 original SVGs
 └── References.md           ← Research & medical sources
 ~~~
 
@@ -94,3 +99,8 @@ Respiratory-System/
 - **Verified historical scan, memory-based report aur original NORCET-style practice** alag-alag labeled hain. Exact official NORCET Previous Year Question ka false claim nahi.
 
 [⬅ Nursing chapters home](../../README.md) · [📖 Day 1](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](Previous-Year-Questions/README.md)
+
+
+## Day 3 videos
+
+[Asthma Hindi lecture](https://www.youtube.com/watch?v=ypuyh_t1Npc) · [Aarogyam respiratory MCQs](https://www.youtube.com/watch?v=tOxTKjgTcTo) · [Oxygen therapy](https://www.youtube.com/watch?v=XoFsjZrrfZ8) · [Nebulization](https://www.youtube.com/watch?v=G92xglQ7OTg). More details and verification limits in Day 3 concept guides. Day 2 diagnostic MCQs and mock still pending.
