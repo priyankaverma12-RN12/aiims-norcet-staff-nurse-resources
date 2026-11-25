@@ -22,7 +22,7 @@
 - C. Trachea → larynx → pharynx → bronchi
 - D. Bronchi → larynx → trachea → pharynx
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -40,7 +40,7 @@
 - C. Warm, filter and humidify air
 - D. Carry pulmonary venous blood
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -58,7 +58,7 @@
 - C. Both 3
 - D. Both 2
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -76,7 +76,7 @@
 - C. Trachea
 - D. Respiratory bronchiole
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -94,7 +94,7 @@
 - C. Type II
 - D. Ciliated epithelium
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -112,7 +112,7 @@
 - C. More prone to collapse
 - D. Produce more oxygen
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -130,7 +130,7 @@
 - C. Pericardium
 - D. Mucosa
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -148,7 +148,7 @@
 - C. Diaphragm relaxation and falling alveolar pressure
 - D. Diaphragm contraction and increased chest volume
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -166,7 +166,7 @@
 - C. Right ventricle
 - D. Left ventricle
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -184,7 +184,7 @@
 - C. 2650 mL
 - D. 3750 mL
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -202,7 +202,7 @@
 - C. 20/min
 - D. 22/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -220,7 +220,7 @@
 - C. 30%
 - D. 25%
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -238,7 +238,7 @@
 - C. RR 24/min AND PaCO₂ 50
 - D. pH 7.48 AND RR 9/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -256,7 +256,7 @@
 - C. Only if PaCO₂ is high
 - D. Only during forced inspiration
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -274,7 +274,7 @@
 - C. VC
 - D. RV
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
