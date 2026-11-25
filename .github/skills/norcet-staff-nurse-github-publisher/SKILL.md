@@ -141,7 +141,7 @@ Easy Hinglish hint, answer reveal nahi hona chahiye.
 
 **NORCET/HP exam trick:** Easy Hinglish memory rule.
 
-**Related:** [Concepts](../Concepts/Day-XX-TopicA-TopicB.md) · [Previous Year Questions](../Previous-Year-Questions/README.md)
+**Related:** add a real relative link to the matching Concepts file and to the Previous Year Questions index (verify both).
 
 </details>
 ```
