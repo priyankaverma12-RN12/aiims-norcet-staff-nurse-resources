@@ -2,7 +2,7 @@
 
 [🏠 Chapter home](../README.md) · [📖 Day 1 ke complete Hinglish notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final 15-question mock](Day-01-Final-Mock-15.md)
 
-> **40 original NORCET-style practice questions** from the Day 1 topics studied. Not verified PYQs. The questions from previously published topic banks have been preserved and combined; the last five are new variations of studied concepts.
+> **Ye 40 original NORCET-style MCQs hain.** Sabhi questions Day 1 mein padhe hue concepts par based hain. Ye verified AIIMS PYQs nahi hain. Aakhri 5 questions hamare studied topics ki extra practice ke liye hain. Medical terms English mein aur explanation simple Hindi-English mein hai.
 
 ### Solve kaise karna hai?
 
