@@ -2,9 +2,9 @@
 
 > **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
-**15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified PYQ nahi.
+**15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified Previous Year Question nahi.
 
-[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ![Right aur left lung lobes diagram](../Assets/lung-lobes-comparison.svg)
 
@@ -24,7 +24,7 @@
 
 **Baaki options aur common trap:** Pharynx larynx se pehle aata hai, fir windpipe **trachea**, fir bronchi. Options jisme larynx pharynx se pehle ya bronchi trachea se pehle hain, wo wrong order hain. Exam mein sequence ko arrow banakar socho.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -40,7 +40,7 @@
 
 **Baaki options aur common trap:** Nose ka main kaam air ko warm, filter aur humidify karna hai; gas exchange **alveoli**, surfactant **Type II cells**, pulmonary venous blood **vessels** se related hai. Anatomical location ke hisaab se option eliminate karo.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -56,7 +56,7 @@
 
 **Baaki options aur common trap:** Right lung mein superior, middle, inferior = **3 lobes**; left mein superior, inferior = **2 lobes**, cardiac notch ke karan. Dono lungs equal lobe count nahi rakhte. Right 3, Left 2 ek-line trick hai.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -72,7 +72,7 @@
 
 **Baaki options aur common trap:** Terminal bronchiole conducting zone ka last part hai. Primary bronchus aur trachea bhi conducting airways hain; **respiratory bronchiole** se alveolar gas exchange region start hota hai.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -88,7 +88,7 @@
 
 **Baaki options aur common trap:** Macrophages immune cleaning cells hain: dust/germs ko engulf karte hain. Type I gas exchange, Type II surfactant. Ciliated epithelium airways mein mucus clearance mein help karta hai, alveolar phagocytosis ka main cell nahi.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -104,7 +104,7 @@
 
 **Baaki options aur common trap:** Surfactant Type II cells banate hain aur tension ko normally reduce karta hai. Jab surfactant kam ho, surface tension **badhti** hai, alveoli collapse ka risk badhta hai. Expand easily ya extra oxygen production answers galat hain.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -120,7 +120,7 @@
 
 **Baaki options aur common trap:** **Visceral** pleura directly lung surface cover karti hai; **parietal** chest wall lining hai. Pericardium heart ke around membrane hai aur mucosa lung surface ki pleural covering nahi.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -136,7 +136,7 @@
 
 **Baaki options aur common trap:** Quiet inspiration mein diaphragm contract karke neeche jaata hai, thoracic volume badhta hai, alveolar pressure atmosphere se briefly neeche hota hai, air enter karti hai. Relax/ascend expiration se associated hai.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -152,7 +152,7 @@
 
 **Baaki options aur common trap:** Pulmonary veins **lungs → left atrium** oxygenated blood laati hain. Right heart se lungs ki taraf deoxygenated blood pulmonary arteries le jaati hain. Left ventricle blood **left atrium ke baad** leta hai.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -168,7 +168,7 @@
 
 **Baaki options aur common trap:** Formula **TLC = IC + FRC**, toh IC = 5400−2200 = 3200. Fir **IC = TV + IRV**, toh IRV = 3200−550 = **2650 mL**. Common trap: pehle FRC subtract karna bhool jaate hain.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -184,7 +184,7 @@
 
 **Baaki options aur common trap:** MV = RR × TV, isliye RR = MV/TV. MV 8.64 L/min ko **8640 mL/min** banao; 8640/480 = **18/min**. L aur mL mix karke bina conversion ke answer mat dena.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -200,7 +200,7 @@
 
 **Baaki options aur common trap:** Old MV 18×400=7200, new MV 20×450=9000 mL/min. Increase = 1800; percentage = **1800/7200×100 =25%**. Old value denominator hai—new se divide karne par wrong %. 
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -216,7 +216,7 @@
 
 **Baaki options aur common trap:** RR 14/min = 12–20 ke beech aur PaCO₂ 43 mmHg = 35–45 mein. Other options mein pH 7.48, RR 24/9 ya PaCO₂ 50 aise values hain jo usual adult reference se bahar hain.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -232,7 +232,7 @@
 
 **Baaki options aur common trap:** Common sea-level teaching range PaO₂ approx 80–100 mmHg hai; 89 iske andar hai. Lekin actual normal range age, laboratory aur altitude se vary kar sakti hai. PaO₂ ko SpO₂ (%) se confuse mat karna.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -248,7 +248,7 @@
 
 **Baaki options aur common trap:** RV = air jo **maximum forced expiration** ke baad lungs mein bachti hai. FRC **normal quiet expiration** ke baad air (ERV + RV) hai. IC aur VC combinations of movable volumes hain, maximum exhalation ke baad remaining RV nahi.
 
-[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQ examples](../PYQs/README.md)
+[📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -257,4 +257,4 @@
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)

@@ -1,6 +1,6 @@
 # Day 2 — Respiratory Assessment & Diagnostics (36 Original English MCQs)
 
-[🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 PYQs](../PYQs/README.md)
+[🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 > **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
@@ -17,7 +17,7 @@
 
 ![Exam revision diagram — Inspection — patient ko dekhna](../Assets/respiratory-exam-findings.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#2-inspection--patient-ko-dekhna) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#2-inspection--patient-ko-dekhna) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q1. The first IPPA step in routine respiratory examination is:
@@ -35,7 +35,7 @@
 
 **🧠 NORCET / HP exam trick:** IPPA = Dekho, Feel, Tap, Suno.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -54,7 +54,7 @@
 
 **🧠 NORCET / HP exam trick:** Method ko observation ke verb se match karo.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -73,7 +73,7 @@
 
 **🧠 NORCET / HP exam trick:** RR normal value ke saath clinical context bhi dekhna chahiye.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -84,7 +84,7 @@
 
 ![Exam revision diagram — Palpation — haath se feel karna](../Assets/respiratory-exam-findings.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#3-palpation--haath-se-feel-karna) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#3-palpation--haath-se-feel-karna) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q4. A nurse places hands on the posterior chest to compare movement during inhalation. What is assessed?
@@ -102,7 +102,7 @@
 
 **🧠 NORCET / HP exam trick:** Palpation = chest movement feel.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -121,7 +121,7 @@
 
 **🧠 NORCET / HP exam trick:** Voice vibration feel = tactile fremitus.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -140,7 +140,7 @@
 
 **🧠 NORCET / HP exam trick:** Increased = consolidation (open airway); decreased = fluid/air around lung.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -159,7 +159,7 @@
 
 **🧠 NORCET / HP exam trick:** Trachea position ko isolated diagnosis na banao.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -170,7 +170,7 @@
 
 ![Exam revision diagram — Percussion — chest ko tap karna](../Assets/respiratory-exam-findings.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#4-percussion--chest-tap-karna) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#4-percussion--chest-tap-karna) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q8. Expected percussion sound over normal aerated lung:
@@ -188,7 +188,7 @@
 
 **🧠 NORCET / HP exam trick:** Normal lung percussion = resonant.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -207,7 +207,7 @@
 
 **🧠 NORCET / HP exam trick:** Effusion = dull; pneumothorax = hyperresonant (often).
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -226,7 +226,7 @@
 
 **🧠 NORCET / HP exam trick:** Extra air vs fluid ko separate rakho.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -245,7 +245,7 @@
 
 **🧠 NORCET / HP exam trick:** Percussion symmetric sites pe karo.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -256,7 +256,7 @@
 
 ![Exam revision diagram — Auscultation — stethoscope se sunna](../Assets/breath-sounds-revision.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#5-auscultation--stethoscope-se-sunna) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#5-auscultation--stethoscope-se-sunna) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q12. Normal breath sound over most peripheral lung fields is:
@@ -274,7 +274,7 @@
 
 **🧠 NORCET / HP exam trick:** Sound ka quality ke saath location bhi important.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -293,7 +293,7 @@
 
 **🧠 NORCET / HP exam trick:** Musical continuous = wheeze.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -312,7 +312,7 @@
 
 **🧠 NORCET / HP exam trick:** Popping = crackles; musical = wheeze.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -331,7 +331,7 @@
 
 **🧠 NORCET / HP exam trick:** Stridor + difficulty breathing = urgent clinical assessment.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -350,7 +350,7 @@
 
 **🧠 NORCET / HP exam trick:** Rub = pleura friction; wheeze = narrowed airway.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -361,7 +361,7 @@
 
 ![Exam revision diagram — ABG basics aur interpretation](../Assets/abg-interpretation-grid.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q17. ABG pH 7.29, PaCO₂ 53 mmHg, HCO₃⁻ 24 mEq/L. Best primary disorder?
@@ -379,7 +379,7 @@
 
 **🧠 NORCET / HP exam trick:** ABG sequence: pH → CO₂ → HCO₃⁻.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -398,7 +398,7 @@
 
 **🧠 NORCET / HP exam trick:** CO₂ aur pH opposite direction in primary respiratory disorders.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -417,7 +417,7 @@
 
 **🧠 NORCET / HP exam trick:** HCO₃⁻ down + pH down = metabolic acidosis.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -436,7 +436,7 @@
 
 **🧠 NORCET / HP exam trick:** CO₂ = respiratory; HCO₃⁻ = metabolic.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -455,7 +455,7 @@
 
 **🧠 NORCET / HP exam trick:** pH normal 7.35–7.45; PaCO₂ normal 35–45.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -474,7 +474,7 @@
 
 **🧠 NORCET / HP exam trick:** Uncompensated textbook example; actual patient ABG complex ho sakta hai.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -485,7 +485,7 @@
 
 ![Exam revision diagram — Spirometry — FEV1, FVC aur ratios](../Assets/spirometry-ratio.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev₁-fvc-aur-ratio) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev₁-fvc-aur-ratio) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q23. FEV₁ is the volume exhaled during:
@@ -503,7 +503,7 @@
 
 **🧠 NORCET / HP exam trick:** FEV₁ = forced expiratory volume in ONE second.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -522,7 +522,7 @@
 
 **🧠 NORCET / HP exam trick:** FVC = total exhaled; FEV₁ = first second.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -541,7 +541,7 @@
 
 **🧠 NORCET / HP exam trick:** FEV₁/FVC = fraction first second; interpret with reference criteria.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -560,7 +560,7 @@
 
 **🧠 NORCET / HP exam trick:** Simple spirometry → RV not directly measurable.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -579,7 +579,7 @@
 
 **🧠 NORCET / HP exam trick:** Fixed 70% universal cutoff mat samajhna; age-dependent reference values important.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -598,7 +598,7 @@
 
 **🧠 NORCET / HP exam trick:** Low FVC ≠ confirmed restriction.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -609,7 +609,7 @@
 
 ![Exam revision diagram — Basic diagnostic investigations — introduction only](../Assets/assessment-map.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#9-basic-diagnostic-investigations) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#9-basic-diagnostic-investigations) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q29. Which non-invasive device estimates oxygen saturation?
@@ -627,7 +627,7 @@
 
 **🧠 NORCET / HP exam trick:** SpO₂ = percentage; PaO₂ = pressure.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -646,7 +646,7 @@
 
 **🧠 NORCET / HP exam trick:** ABG = oxygenation + acid-base assessment.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -665,7 +665,7 @@
 
 **🧠 NORCET / HP exam trick:** Spirometry = FEV₁, FVC, ratio.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -676,7 +676,7 @@
 
 ![Exam revision diagram — Extra 5 practice MCQs — studied concepts](../Assets/abg-interpretation-grid.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 These use only assessment, ABG and spirometry concepts already studied. Each answer remains hidden until you expand it.
@@ -701,7 +701,7 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 
 **🧠 NORCET / HP exam trick:** 'ninety-nine' + feel = palpation.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -725,7 +725,7 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 
 **🧠 NORCET / HP exam trick:** pH high + CO₂ low = respiratory alkalosis.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -749,7 +749,7 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 
 **🧠 NORCET / HP exam trick:** Upper airway sign, urgent attention needed.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -773,7 +773,7 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 
 **🧠 NORCET / HP exam trick:** FEV₁ first second / FVC full forced exhalation.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -797,7 +797,7 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **🧠 NORCET / HP exam trick:** ATS/ERS interpretation: low FVC may suggest, not prove, restriction.
 
-[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -808,4 +808,4 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 PYQs](../PYQs/README.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)

@@ -1,6 +1,6 @@
 # Day 1 — Respiratory Anatomy & Physiology (40 Original English MCQs)
 
-[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 PYQs](../PYQs/README.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 > **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
@@ -17,7 +17,7 @@
 
 ![Exam revision diagram — Airway aur conducting/respiratory zone](../Assets/airway-zones.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#3-conducting-zone-vs-respiratory-zone) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#3-conducting-zone-vs-respiratory-zone) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q1. Which structure is known as the voice box?
@@ -35,7 +35,7 @@
 
 **🧠 NORCET / HP exam trick:** Voice box aur windpipe ko ek mat samajhna.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -54,7 +54,7 @@
 
 **🧠 NORCET / HP exam trick:** Epiglottis airway ko protect karta hai, food digestion nahi.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -73,7 +73,7 @@
 
 **🧠 NORCET / HP exam trick:** Terminal = conducting zone END.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -92,7 +92,7 @@
 
 **🧠 NORCET / HP exam trick:** Question mein FIRST respiratory-zone part poochha ho toh D.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -111,7 +111,7 @@
 
 **🧠 NORCET / HP exam trick:** Nose ka role conditioning: warm + filter + humidify.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -122,7 +122,7 @@
 
 ![Exam revision diagram — Lungs aur pulmonary circulation](../Assets/pulmonary-blood-circulation.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#5-pulmonary-circulation) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#5-pulmonary-circulation) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q6. How many lobes does the healthy adult right lung have?
@@ -140,7 +140,7 @@
 
 **🧠 NORCET / HP exam trick:** Right 3 / Left 2 + left cardiac notch.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -159,7 +159,7 @@
 
 **🧠 NORCET / HP exam trick:** Left = heart ke liye jagah.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -178,7 +178,7 @@
 
 **🧠 NORCET / HP exam trick:** Right: shorter + wider + more vertical.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -197,7 +197,7 @@
 
 **🧠 NORCET / HP exam trick:** Pathway: RV → lungs → LA.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -216,7 +216,7 @@
 
 **🧠 NORCET / HP exam trick:** Pulmonary circulation systemic circuit ki oxygen-label rule se different lag sakti hai.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -227,7 +227,7 @@
 
 ![Exam revision diagram — Alveoli cells, gas exchange aur surfactant](../Assets/alveolar-cell-roles.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#6-alveoli-aur-unke-3-important-cells) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#6-alveoli-aur-unke-3-important-cells) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q11. Which cell is the principal surfactant producer?
@@ -245,7 +245,7 @@
 
 **🧠 NORCET / HP exam trick:** II = surfactant; I = exchange.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -264,7 +264,7 @@
 
 **🧠 NORCET / HP exam trick:** Question cell-function match mein ek-ek role check karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -283,7 +283,7 @@
 
 **🧠 NORCET / HP exam trick:** Macrophages ko alveolar dust-cell bhi keh sakte hain.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -302,7 +302,7 @@
 
 **🧠 NORCET / HP exam trick:** Premature newborn + surfactant deficiency = collapse risk.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -321,7 +321,7 @@
 
 **🧠 NORCET / HP exam trick:** O₂ alveoli → blood; CO₂ blood → alveoli.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -332,7 +332,7 @@
 
 ![Exam revision diagram — Pleura aur breathing mechanism](../Assets/pleura-layers.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#8-pleura-aur-pleural-fluid) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#8-pleura-aur-pleural-fluid) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q16. Which pleural layer directly touches lung surface?
@@ -350,7 +350,7 @@
 
 **🧠 NORCET / HP exam trick:** Visceral = lung; parietal = chest wall.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -369,7 +369,7 @@
 
 **🧠 NORCET / HP exam trick:** Pleural fluid ≠ alveolar surfactant.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -388,7 +388,7 @@
 
 **🧠 NORCET / HP exam trick:** IN → diaphragm DOWN → volume UP.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -407,7 +407,7 @@
 
 **🧠 NORCET / HP exam trick:** Quiet expiration passive; forced expiration active ho sakti hai.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -426,7 +426,7 @@
 
 **🧠 NORCET / HP exam trick:** C3–C5 keeps the diaphragm alive.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -437,7 +437,7 @@
 
 ![Exam revision diagram — Lung volumes aur capacities](../Assets/lung-volumes.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#10-lung-volumes-aur-capacities) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#10-lung-volumes-aur-capacities) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q21. What remains after maximal forced expiration?
@@ -455,7 +455,7 @@
 
 **🧠 NORCET / HP exam trick:** RV cannot be voluntarily exhaled.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -474,7 +474,7 @@
 
 **🧠 NORCET / HP exam trick:** Normal OUT = FRC; forced MAX OUT = RV.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -493,7 +493,7 @@
 
 **🧠 NORCET / HP exam trick:** Total se known component minus karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -512,7 +512,7 @@
 
 **🧠 NORCET / HP exam trick:** VC mein RV include nahi hota.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -531,7 +531,7 @@
 
 **🧠 NORCET / HP exam trick:** IC + FRC = TLC; capacity formula memorize karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -542,7 +542,7 @@
 
 ![Exam revision diagram — Minute ventilation numericals](../Assets/minute-ventilation-calculation.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#11-minute-ventilation-numericals) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#11-minute-ventilation-numericals) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q26. RR 17/min and TV 400 mL. MV is:
@@ -560,7 +560,7 @@
 
 **🧠 NORCET / HP exam trick:** Unit conversion chhodi toh answer galat ho sakta hai.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -579,7 +579,7 @@
 
 **🧠 NORCET / HP exam trick:** RR nikalna ho → MV ÷ TV.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -598,7 +598,7 @@
 
 **🧠 NORCET / HP exam trick:** TV nikalna ho → MV ÷ RR.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -617,7 +617,7 @@
 
 **🧠 NORCET / HP exam trick:** Before aur after MV dono calculate karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -636,7 +636,7 @@
 
 **🧠 NORCET / HP exam trick:** Percentage change mein old denominator.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -647,7 +647,7 @@
 
 ![Exam revision diagram — Normal adult respiratory values](../Assets/normal-values-study-chart.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#12-normal-respiratory-values) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#12-normal-respiratory-values) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 ### Q31. Which value is outside usual normal arterial pH range?
@@ -665,7 +665,7 @@
 
 **🧠 NORCET / HP exam trick:** Normal vs abnormal MCQ mein question wording twice padho.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -684,7 +684,7 @@
 
 **🧠 NORCET / HP exam trick:** Adult **resting** context yaad rakho.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -703,7 +703,7 @@
 
 **🧠 NORCET / HP exam trick:** PaCO₂ 35–45 mmHg.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -722,7 +722,7 @@
 
 **🧠 NORCET / HP exam trick:** SpO₂ (%) vs PaO₂ (mmHg) differentiate karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -741,7 +741,7 @@
 
 **🧠 NORCET / HP exam trick:** Units samajhkar question solve karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -752,7 +752,7 @@
 
 ![Exam revision diagram — Extra 5 practice MCQs — Day 1 ke wahi concepts](../Assets/surfactant-comparison.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#7-surfactant-aur-deficiency) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#7-surfactant-aur-deficiency) · [📚 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 
 These five newer questions use the **same Day 1 concepts**, including the calculation mistakes revised during practice. They are not claimed to be previous-year NORCET questions.
@@ -777,7 +777,7 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 
 **🧠 NORCET / HP exam trick:** TLC−VC = RV.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -801,7 +801,7 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 
 **🧠 NORCET / HP exam trick:** Same MV maintain = RR × TV same.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -825,7 +825,7 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 
 **🧠 NORCET / HP exam trick:** Percent increase: Old MV base.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -849,7 +849,7 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 
 **🧠 NORCET / HP exam trick:** Question ke **normal** aur **maximal** words underline karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -873,7 +873,7 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **🧠 NORCET / HP exam trick:** Har value ko apni unit aur range se compare karo.
 
-[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related PYQs](../PYQs/README.md)
+[📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
 
@@ -884,4 +884,4 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 PYQs](../PYQs/README.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)

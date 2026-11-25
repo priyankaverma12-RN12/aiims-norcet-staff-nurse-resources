@@ -1,6 +1,6 @@
 # ⚡ Day 1 — Respiratory A&P Quick Revision (Hinglish)
 
-[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ![Respiratory diagram](../Assets/respiratory-tract.svg)
 
@@ -67,4 +67,4 @@ Example: RR 15 × TV 400 mL = **6000 mL/min = 6 L/min**.
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)

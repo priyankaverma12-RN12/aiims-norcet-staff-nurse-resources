@@ -4,7 +4,7 @@
 
 **AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Simple Hindi-English • Day 1 & Day 2 ke padhe hue topics**
 
-Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / PYQs / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
+Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 
 ## 📖 Start here — apna day select karo
 
@@ -13,12 +13,12 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / PYQs / Revisi
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
 | **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
-### 🏥 PYQs — original practice se alag
+### 🏥 Previous Year Questions — original practice se alag
 
-**[👉 Previous-Year Paper / Memory-Based Questions folder kholo](PYQs/README.md)**
+**[👉 Previous-Year Paper / Memory-Based Questions folder kholo](Previous-Year-Questions/README.md)**
 
-- **[HP Staff Nurse 2022 — 5 source-traced respiratory questions](PYQs/HP-Staff-Nurse-2022-Respiratory.md):** Post Code 933, Series A ke scanned paper se question numbers milte hain. Third-party hosted historic scan hai, **official govt-hosted PDF claim nahi**.
-- **[NORCET 10 (2026) — 1 memory-based topic](PYQs/NORCET-10-2026-Memory-Based.md):** Adult normal RR. **Candidate-recall / unofficial**, verified exact official question nahi.
+- **[HP Staff Nurse 2022 — 5 source-traced respiratory questions](Previous-Year-Questions/HP-Staff-Nurse-2022-Respiratory.md):** Post Code 933, Series A ke scanned paper se question numbers milte hain. Third-party hosted historic scan hai, **official govt-hosted PDF claim nahi**.
+- **[NORCET 10 (2026) — 1 memory-based topic](Previous-Year-Questions/NORCET-10-2026-Memory-Based.md):** Adult normal RR. **Candidate-recall / unofficial**, verified exact official question nahi.
 
 [🔎 Deep fact-check & medical references](References.md) mein OpenStax, Merck, MedlinePlus, ATS/ERS aur exam-source links milenge.
 
@@ -62,7 +62,7 @@ Respiratory-System/
 ├── README.md               ← Ye chapter index
 ├── Concepts/               ← Day 1 & Day 2 long notes
 ├── MCQs/                   ← 40 + 36 questions, plus final mock
-├── PYQs/                   ← Scanned historic paper / memory-based (labeled)
+├── Previous-Year-Questions/                   ← Scanned historic paper / memory-based (labeled)
 ├── Revision/               ← Day-wise quick sheets
 ├── Assets/                 ← 16 original SVGs
 └── References.md           ← Research & medical sources
@@ -74,6 +74,6 @@ Respiratory-System/
 - Har answer mein **correct reason + other options elimination + memory trick**.
 - Clinical and numeric examples **sirf studied topics se**.
 - **Day 2 diagnostic investigations = introductory only**; advanced topics nahi add hue.
-- **Verified historical scan, memory-based report aur original NORCET-style practice** alag-alag labeled hain. Exact official NORCET PYQ ka false claim nahi.
+- **Verified historical scan, memory-based report aur original NORCET-style practice** alag-alag labeled hain. Exact official NORCET Previous Year Question ka false claim nahi.
 
-[⬅ Nursing chapters home](../../README.md) · [📖 Day 1](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](PYQs/README.md)
+[⬅ Nursing chapters home](../../README.md) · [📖 Day 1](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](Previous-Year-Questions/README.md)

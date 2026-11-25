@@ -2,9 +2,9 @@
 
 **NORCET + HP Staff Nurse level** • Updated 25 November 2026 • Easy Hindi-English
 
-[🏠 Chapter home](README.md) · [📖 Day 1 Concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 Concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQs](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQs](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](PYQs/README.md)
+[🏠 Chapter home](README.md) · [📖 Day 1 Concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 Concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQs](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQs](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](Previous-Year-Questions/README.md)
 
-> **Research ka goal:** Hamari notes ka science correct rahe aur PYQ label misleading na ho. Ye sources **exam weightage predict** nahi karte. Questions aur explanations original Hinglish teaching material hain.
+> **Research ka goal:** Hamari notes ka science correct rahe aur Previous Year Question label misleading na ho. Ye sources **exam weightage predict** nahi karte. Questions aur explanations original Hinglish teaching material hain.
 
 ## 1. Medical facts ka source mapping
 
@@ -50,13 +50,13 @@
 3. Answer ke saath **simple reason**, **other options eliminate**, **formula/values** aur **exam memory trick** ho.
 4. Numericals mein **units** check: L to mL, percent denominator **old value**.
 5. Clinical cases mein clear karo ki simplified exam pattern hai ya confirmed diagnosis nahi.
-6. **PYQ**, **third-party scanned**, **memory-based** aur **original practice** ko alag label karo.
-7. Har guide se matching **Concepts ↔ MCQs ↔ PYQs** clickable links ho.
+6. **Previous Year Question**, **third-party scanned**, **memory-based** aur **original practice** ko alag label karo.
+7. Har guide se matching **Concepts ↔ MCQs ↔ Previous Year Questions** clickable links ho.
 8. Images original accessible **SVG study diagrams** hain; textbook photo/scans ko unauthorized copy karke repo mein upload nahi karte.
 
 ## 4. Links to continue reading
 
-[📖 Day 1 detailed concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 detailed concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQ bank](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQ bank](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Sourced PYQs](PYQs/README.md)
+[📖 Day 1 detailed concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 detailed concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQ bank](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQ bank](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Sourced Previous Year Questions](Previous-Year-Questions/README.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **AIIMS NORCET 12 + HP Staff Nurse • Simple Hindi-English • Basic se exam level tak**
 
-[🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md) · [🔎 Sources](../References.md)
+[🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
 
 > **Hamari class wali language:** Medical terms English mein hain, explanations wahi simple Hinglish mein jo humne padhte waqt use ki thi. Day 2 mein inspection, palpation, percussion, auscultation, ABG aur spirometry practice ki. Diagnostic investigations ka sirf **basic introduction** padha hai—advanced procedures abhi include nahi kar rahe.
 
@@ -330,7 +330,7 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 3. “FEV₁ 1.8 L, FVC 3 L. Ratio?” → (1.8/3) × 100 = **60%**.
 
 **Ab practice:** [Day 2 ke 36 MCQs Hinglish mein](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) aur [quick revision](../Revision/Day-02-Quick-Revision.md).
-\n\n[📝 Matching MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md)
+\n\n[📝 Matching MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ---
 
@@ -339,4 +339,4 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md) · [🔎 Sources](../References.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
