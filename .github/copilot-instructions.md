@@ -14,4 +14,7 @@ Follow the complete publishing checklist there. Highlights:
 6. Add original accurate diagrams/animations where useful, links between every Concepts/MCQs/Previous Year Questions page, references and verification.
 7. On "push this to GitHub", perform actual GitHub edits and verify commit and links. Never fabricate publishing success.
 
+
+8. On any push, audit completed topics for high-yield gaps; if justified, create **one extra combined chapter-root file** with easy Hinglish supplementary concepts, **30+ unique nonduplicated English MCQs**, each answer hidden in a GitHub `<details>` dropdown with detailed Hinglish reasoning and helpful original diagrams. No filler, no unrelated advanced subjects; if 30 distinct questions are unavailable, do not force a file.
+
 If older files contradict this skill, follow the skill and update the conflicting text.
