@@ -27,3 +27,7 @@ Research lead: [SGPGI Staff Nurse 2024 Shift 1 paper (third-party PDF)](https://
 4. Related **Concepts** aur **MCQs** ke links se revision karo.
 
 [🏠 Respiratory chapter](../README.md) · [🔎 Sources](../References.md)
+
+## Day 3 — Obstructive diseases & oxygen therapy
+
+[Three third-party reported nursing exam question leads](Day-03-Reported-Nursing-Exam-Questions.md) — OSSSC 2023, BHU 2019 and AIIMS (date unverified). Official paper/key not independently verified. [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md).
