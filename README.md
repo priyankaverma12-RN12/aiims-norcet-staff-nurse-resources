@@ -15,9 +15,13 @@
 **Jab bhi hum bolen "push this to GitHub"**, ye rules follow honge: [Nursing Study Publisher SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Sirf padhe hue topics, detailed Hinglish Concepts, **unchanged English MCQs/options**, Easy/Medium/Difficult labels, detailed answers, sourced Previous Year Questions, useful YouTube videos aur diagrams add karenge.
 
 
-**Extra revision rule:** Agar existing studied chapter mein important concepts/MCQs miss hue hon, toh ek extra **combined Concepts + 30+ unique English MCQs** file add karenge. Answers hidden dropdown mein, detailed Hinglish explanations aur diagrams ke saath. Repeated MCQs ya bekaar filler add nahi hoga. [Full skill](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
+**Extra revision rule:** Agar existing studied chapter mein important concepts/MCQs miss hue hon, toh usi chapter ke **Concepts/** ke andar **ek hi cumulative combined file** mein extra Concepts + 30+ unique English MCQs add karenge. Answers hidden dropdown mein, detailed Hinglish explanations aur diagrams ke saath. Repeated MCQs ya bekaar filler add nahi hoga. [Full skill](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
 
 GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.md](.github/copilot-instructions.md).
+
+## 🧭 Hamara complete study-to-push workflow
+
+Pehle topic ko detail mein padho → doubts clear karo → original English MCQs solve karo → **Push this to GitHub** bolo. Day 1/2 par baad mein wapas aaogi, toh **usi chapter aur existing Day wali files ko update** karenge. Missed points ke liye ek hi `Concepts/Extra-High-Yield-Concepts-and-MCQs.md` file (jab useful ho), aur exam-level Medium/Difficult questions. GK ya next chapter alag rahega, par tabhi active hoga jab padha hoga.
 
 ## 📚 Abhi available chapter
 
@@ -26,6 +30,10 @@ GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.m
 | **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1 full guide](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 full guide](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [40 Day 1 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [36 Day 2 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [HP scanned 2022 + NORCET memory-based](Chapters/Respiratory-System/Previous-Year-Questions/README.md) |
 
 ### 🫁 [👉 Respiratory System overview kholo](Chapters/Respiratory-System/README.md)
+
+### Next chapter placeholder (abhi empty)
+
+[❤️ Cardiovascular System — planned, abhi studied nahi](Chapters/Cardiovascular-System/Concepts/) — NORCET past-paper analyses mein high-priority Med-Surg area; **official fixed weightage nahi**. Sirf placeholder folders hain, koi notes/MCQs nahi.
 
 ## 🧭 Kaise padhna hai?
 

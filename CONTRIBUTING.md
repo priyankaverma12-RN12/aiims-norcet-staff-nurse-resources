@@ -63,10 +63,18 @@ Chapters/<Chapter-Name>/
 ## Extra high-yield file ka rule (existing studied topics)
 
 - Jab bhi **"push this to GitHub"** bolein, pehle existing studied chapter check karo: koi important NORCET / HP Staff Nurse concept ya MCQ miss toh nahi hua?
-- Agar real gaps milen, toh **sirf ek extra combined Markdown file** banao: `Chapters/<Chapter>/Extra-High-Yield-Concepts-and-30plus-MCQs.md`. Usmein **concepts aur 30+ NEW unique MCQs** dono rahenge. Tiny multiple files nahi.
+- Agar real gaps milen, toh **sirf ek extra combined Markdown file** banao: `Chapters/<Chapter>/Concepts/Extra-High-Yield-Concepts-and-MCQs.md`. Usmein **concepts aur 30+ NEW unique MCQs** dono rahenge. Tiny multiple files nahi.
 - **Exact aur similar/reworded duplicate MCQs mat add karo**: previous question banks, mocks aur Previous Year Questions sabse compare karo. Har question ki alag learning value honi chahiye.
 - **Questions/4 options original English**, har question ka **Easy/Medium/Difficult** label. **Correct answer hidden `<details>` dropdown** mein, with detailed easy Roman Hinglish explanation for all options aur unique exam trick.
 - Diagrams/photos useful hon toh original SVG/assets ke saath embed karo; chapter README se direct link do. Related concepts se zyada advanced/unstudied chapters mat add karo.
 - Agar 30 genuinely different questions nahi ban sakte, filler mat likho; extra file skip karke reason batao. Agar gaps hi nahi, extra file zaroori nahi.
 
 [Detailed rules yahan padho](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
+
+## Kabhi bhi purane topic par wapas aa sakte ho
+
+- Pehle topic padhoge, doubts clear karoge, MCQs solve karoge; **push** kehne par unhi notes/questions ko sahi existing Day aur Chapter mein add karenge.
+- Ek hi din do pushes ya later Day 1 par wapas aane par **existing Concepts aur MCQs file update/concatenate** hogi, duplicate Day folder/file nahi banegi.
+- Missed points aur 30+ unique tough practice MCQs ki **sirf ONE combined extra file chapter ke `Concepts/` folder** mein banegi; later discoveries bhi isi file mein judengi. Filler ya repeated MCQs nahi.
+- Exam sources sirf HP nahi: **NORCET, PGIMER, SGPGI, ESIC, RRB, JIPMER, DSSSB, KGMU aur other State Staff Nurse** bhi research karenge, source authenticity ke saath.
+- Har actually studied topic ke liye **concept YouTube** aur **MCQ practice YouTube** alag search karenge; video available ho aur exact topic match ho tabhi real URL denge.

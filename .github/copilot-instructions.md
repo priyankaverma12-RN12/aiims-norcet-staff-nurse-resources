@@ -15,6 +15,8 @@ Follow the complete publishing checklist there. Highlights:
 7. On "push this to GitHub", perform actual GitHub edits and verify commit and links. Never fabricate publishing success.
 
 
-8. On any push, audit completed topics for high-yield gaps; if justified, create **one extra combined chapter-root file** with easy Hinglish supplementary concepts, **30+ unique nonduplicated English MCQs**, each answer hidden in a GitHub `<details>` dropdown with detailed Hinglish reasoning and helpful original diagrams. No filler, no unrelated advanced subjects; if 30 distinct questions are unavailable, do not force a file.
+8. On any push, audit completed topics for high-yield gaps; if justified, create **one cumulative extra combined `Concepts/Extra-High-Yield-Concepts-and-MCQs.md` file** with easy Hinglish supplementary concepts, **30+ unique nonduplicated English MCQs**, each answer hidden in a GitHub `<details>` dropdown with detailed Hinglish reasoning and helpful original diagrams. No filler, no unrelated advanced subjects; if 30 distinct questions are unavailable, do not force a file.
 
 If older files contradict this skill, follow the skill and update the conflicting text.
+
+9. **Resume, don't restart:** if learner returns to an earlier topic or sends multiple pushes on the same day, update the matching existing chapter/day files and preserve exact solved English MCQs. New original practice should favor Medium/Difficult application questions. Search source-backed previous papers from across India and relevant topic-specific teaching/MCQ videos. The Cardiovascular chapter is a placeholder until studied.

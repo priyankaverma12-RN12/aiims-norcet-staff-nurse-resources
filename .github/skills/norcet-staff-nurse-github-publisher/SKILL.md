@@ -31,6 +31,16 @@ When the user says **"push this to github"**, **"publish what I learned today"**
 
 **No repeated interrogation:** Don't ask the user to repeat already known topics. If exact earlier question wording is inaccessible, mark it unrecovered; do NOT recreate and pretend it is verbatim.
 
+## 1A. Session workflow, resumed topics and correct chapter placement
+
+The learner's normal workflow is **study a topic → understand it → ask doubts → solve MCQs/mock with feedback → say "push this to GitHub."** Publish what was actually covered AND the exact solved MCQ questions/options recoverable from conversation, with correct keys and detailed Hinglish rationales. Do not publish drafts of a not-yet-studied topic as completed.
+
+**Chapter/topic identity wins over dates or message order.** Keep `Chapters/Respiratory-System/` active for ALL ongoing respiratory study, even if learner jumps to another chapter for a while or returns to Day 1 after Day 5. The existing study session's original Day-XX concept and MCQ files own that subject: **append/update the existing matching file instead of creating Day-XX copy or a new folder based on today's calendar date**. Preserve already solved English question stems and options verbatim; append only distinct later questions, renumber safely when needed, and update counts, links, revision and chapter README. If a topic is genuinely new within this chapter, add the next logical Day-XX file using substantial groupings of 2–4 studied subtopics; don't assume the day number from current date.
+
+**Out-of-order or multiple chapters:** Map every studied subtopic to the correct `Chapters/<Chapter>/` using topic meaning, not chronological order. If the student returns to an earlier chapter after studying another, continue the existing chapter files. A new chapter is created/activated **only after actual study begins there**. An empty `Cardiovascular-System/` placeholder is not permission to publish that chapter yet. GK/current affairs goes in its OWN chapter only after those subjects are studied; include relevant videos and question-practice resources there as well.
+
+**Each push, in order:** 1) retrieve current-session/past study and GitHub existing notes; 2) reconcile what was new and all answered doubts; 3) publish newly learned concepts to matching existing Concepts file; 4) publish all solved/actually practised questions to corresponding MCQs/mock, exact English wording where available; 5) research missing high-yield angles and maintain optional ONE consolidated supplement in `Concepts/`; 6) add source-linked Previous Year Questions from India-wide exams and topic-specific teaching/MCQ videos; 7) validate uniqueness, anchors, visuals, answer keys and remote commit. **A second push on the same day should UPDATE or CONCATENATE, not overwrite or duplicate.** If user studied no new MCQs, don't invent that they solved any.
+
 ## 2. Permanent content boundaries
 
 - **Only publish chapters/topics the learner has actually studied** in class or with ChatGPT. Don't add advanced, unrelated, merely scheduled, or upcoming material.
@@ -51,6 +61,7 @@ Chapters/
     README.md
     Concepts/
       Day-XX-TopicA-TopicB-TopicC.md
+      Extra-High-Yield-Concepts-and-MCQs.md  # only if high-value missed points justify 30+ unique MCQs
     MCQs/
       Day-XX-TopicA-TopicB-TopicC.md
       Day-XX-Final-Mock.md                # only after actually attempting/studying
@@ -74,23 +85,23 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 
 **Chapter README** must be a **useful table of contents** (not 2–3 empty lines). Include a concise chapter introduction, studied-coverage/status table, **topic group → Concepts → English MCQs → Previous Year Questions → video teaching → video MCQ practice → revision** columns/links, embedded chapter overview diagram, and clear next-study navigation. Keep the root README navigable without duplicating the whole chapter's notes.
 
-## 3A. Optional ONE-file high-yield gap supplement for existing studied topics
+## 3A. One combined extra file for missed high-yield material
 
-**New user rule:** Whenever the user says **"push this to GitHub"**, after checking today's material ALSO review the already published **studied topic** for important exam-relevant concepts and original practice questions missed in that topic. This is permitted even when the gap was not explicitly covered in today's messages, **provided the new material is a directly related, beginner-friendly, carefully researched extension of an already studied parent topic**. Do not introduce a different future chapter, unrelated subject, or advanced syllabus for a topic not yet learned. Clearly label newly introduced sub-concepts as **"Extra high-yield revision"** so the student knows they are an add-on.
+On EVERY `push this to GitHub`, after publishing what the learner actually studied, research any **important missing angle within that already studied parent topic**. If genuinely worthwhile, use **ONE cumulative extra Markdown file inside this chapter's `Concepts/` folder**:
+`Chapters/<Chapter>/Concepts/Extra-High-Yield-Concepts-and-MCQs.md`.
 
-**When genuine gaps exist, create AT MOST ONE additional combined Markdown study file per chapter/topic update**, alongside the normal notes:
-`Chapters/<Chapter>/Extra-High-Yield-Concepts-and-30plus-MCQs.md` (or a similarly descriptive topic-specific name at the chapter root). **Do not create separate tiny concepts/MCQ files for this supplement.** The **same single substantial Markdown file** contains:
-1. **Only missing high-yield points** from that studied parent topic: easy Roman Hinglish explanations, definitions, clinical mini-examples, formulas, normal-value caveats, memory tricks, references and original illustrated diagrams adjacent to their explanation.
-2. **At least 30 genuinely NEW, non-duplicate, exam-relevant MCQs** if a meaningful 30+ can be written within the studied-topic scope. Difficulty **Easy / Medium / Difficult** on each, with a reasonable balance of Medium/Difficult appropriate to NORCET and HP Staff Nurse.
-3. **Every question stem AND A/B/C/D option exactly English**, as authored; never translate or alter already existing questions. All **answers must initially be HIDDEN** inside individual GitHub-compatible `<details><summary>✅ Answer aur explanation dekho</summary> ... </details>` blocks. The answer block includes correct English answer, **detailed easy Roman Hinglish why-correct and why-each-other-option-is-wrong**, and a **specific** exam trick. Answer-neutral hints can be placed in their own closed dropdown, never give away the answer in a hint/image.
-4. **Useful images/diagrams**, ideally original SVGs referenced from `Assets/`; optional original short animation if it genuinely helps. Diagrams can be separate asset files but the **student-facing supplemental concepts + questions must remain ONE Markdown file**.
-5. Top/bottom navigation links to the original chapter, existing concepts, MCQ banks, Previous Year Questions, revision and any relevant verified teaching/MCQ videos; add a clear link to this extra file in the **existing chapter README**, not another directory.
+**ONE reusable file per chapter, not one extra file each day.** On later pushes, return to this SAME file, add only truly new missed points/MCQs and update existing links. Do not create a separate tiny `MCQs/` supplement, an extra chapter-root Markdown file, or multiple missed-topic documents. Keep this file substantial and worth reading. It may contain sections grouped by the original studied days/topics.
 
-**Critical uniqueness check BEFORE writing:** Compare proposed questions against **ALL** existing MCQ banks, mocks, supplements and Previous Year Questions in the chapter, not only the new file. Reject **exact duplicates AND semantic duplicates** (same idea, same reasoning and only reworded question/numbers without added learning value). Each new question should assess a distinct angle or meaningful application. Also deduplicate concepts, preserving existing notes rather than re-publishing paragraphs.
+Inside that single file, include:
+- **Only NORCET / India-wide Staff Nurse high-yield missed points related to already studied material**, carefully explained in beginner-friendly Roman Hinglish, with original diagrams, mini clinical situations, formulas, sources, high-quality teaching and MCQ practice YouTube links.
+- **30+ meaningful, genuinely UNIQUE NEW English four-option MCQs** if the studied scope can support that many. Aim mainly **Medium and Difficult**, especially case-based/numerical/application questions following NORCET level, with a few Easy checks only when helpful. Each MCQ requires `**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / SGPGI / ESIC / RRB / State Staff Nurse` (choose truly relevant exam focus; NOT claim it actually appeared).
+- **Hidden answers per question** using native GitHub Markdown HTML `<details><summary>✅ Sahi answer aur explanation dekho</summary> ... </details>`. The closed block must hide the answer and detailed Hinglish explanation until clicked. Explain EACH wrong option separately, a relevant exam trick, calculations/units where useful. Hints, when present, stay answer-neutral in a separate closed dropdown.
+- **Uniqueness audit** against every existing Concepts, MCQs, mocks, previous supplement and Previous Year Questions item in this chapter, checking BOTH exact and substantive/semantic duplicates. A meaningful different application is fine; merely changing patient name or numbers is not a new learning point.
+- **Cross-links**: chapter README, original day Concepts and MCQs, Previous Year Questions, video sections and revision must point to the extra file; the file links back to all. Original SVG diagrams can live in `Assets/` but the learner-facing supplement itself is one single Markdown file.
 
-**30+ is a real minimum, not a padding target.** If research finds fewer than 30 defensible and genuinely distinct MCQs, do NOT manufacture near-duplicates just to claim 30. Instead improve existing notes or defer the supplement and say openly why a quality 30-question add-on is not justified. If no meaningful gaps exist, do not create the file. Never label original questions as actual previous-paper questions.
+If **fewer than 30 defensible distinct high-yield questions** are available at that point or no important gaps exist, **don't pad with repeated questions or force a low-quality file**. Improve existing content where appropriate and report that the supplement was not added yet. More than 30 is welcome when every question adds real exam value. Do not label this supplementary original question bank as authentic past-exam questions.
 
-**Publish audit:** Count >=30 **unique** question stems, exactly four English options/question, 30+ separate initially closed answer dropdowns, difficulty labels, helpful individualized rationales, valid diagram files and verified working relative links. Report supplement link and **number of unique newly added MCQs**, or explicitly say why no supplement was created.
+**Quality check:** Count the extra file's distinct MCQs, four unchanged English options each, `Easy/Medium/Difficult` label on each, a matching initially closed `<details>` answer for EVERY MCQ, detailed Hinglish reasoning and trustworthy images, plus verified internal links. On future revisits, append/update the SAME file instead of regenerating.
 
 ---
 
@@ -108,16 +119,6 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 **Never translate or rewrite an existing MCQ's English stem/options**; for previously asked chat MCQs, recover the exact words if possible. If unrecoverable, write a **NEW ORIGINAL** question in English and label it accordingly. Preserve capitalization, units and options, correct factual errors by noting the correction and source rather than silently changing a previously used test question. Do not use invented official previous-paper wording.
 
 Avoid overly formal pure-English textbook paragraphs and overly technical Hindi terms. Explain technical words at first appearance. Don't use the prohibited shorthand "PYMCQ": always spell out **Previous Year Questions** (full name in folder, labels and navigation).
-
-
-### Keep the same simple style on ALL learner-facing pages
-
-- Apply one consistent concise **Roman-script Hinglish** style to chapter/readme navigation, concept explanations, study instructions, mock introductions, previous-paper index, result commentary, and revision sheets. **Never use Devanagari** for study instructions or notes under the current user preference (write `Dhyan de`, not `ध्यान दें`). Do not leave long all-English disclaimer/policy paragraphs in learner-facing pages. Avoid repeating the same generic caveat after every question.
-- Use short friendly notices, for example: `> **Dhyan do:** Sawaal aur A/B/C/D options English mein hain. Answers Hinglish mein samjhaye hain.` Explain source uncertainty simply, without a multi-paragraph legalistic policy preamble.
-- Keep **question stems, four options and original source titles verbatim English**. Do NOT translate the MCQ itself into Hinglish. For authentic-source questions, cite original scan if it cannot be reproduced faithfully.
-- Reuse the same navigation: `Chapter · Concepts · MCQs · Previous Year Questions · Revision` at start/end. On each MCQ, show a `Difficulty` and `Exam focus` label after unchanged English options, and a clear expandable answer with Hinglish rationale.
-- Previous-paper references get short Hindi/Hinglish instructional notes, source link, exact paper question number, difficulty, English correct answer, and a distinct Hinglish exam trick for each. No repeated generic 'do not change wording' sentences.
-- Agent-facing `SKILL.md`, `AGENTS.md` and Copilot instructions may remain formal English for reliable agent interpretation; language requirement applies to **student-facing** documents.
 
 
 ### Same simple Hinglish format across ALL study pages
@@ -148,7 +149,7 @@ For every grouped concept file include:
 
 ## 6. MCQ question bank: original English, leveled, deeply explained
 
-**Exam targets:** AIIMS NORCET Prelims/Mains and HP Staff Nurse. Where a user specifically asks for NEET-style biology practice, limit it to directly relevant nursing concepts **already learned** and label that scope. No unrelated NEET syllabus chapters.
+**Exam targets:** AIIMS NORCET Prelims/Mains and India-wide Staff Nurse / Nursing Officer exams (PGIMER, SGPGI, ESIC, RRB, JIPMER where relevant, DSSSB, HPRCA/HPSSC, and other state recruitments). Where a user specifically asks for NEET-style biology practice, limit it to directly relevant nursing concepts **already learned** and label that scope. No unrelated NEET syllabus chapters.
 
 For **every new/updated question**:
 
@@ -187,6 +188,7 @@ Easy Hinglish hint, answer reveal nahi hona chahiye.
 </details>
 ```
 
+- **Difficulty targets:** For future new NORCET-focused MCQs, emphasize **Medium and Difficult**, with clinical application, prioritisation, interpretation and multistep numericals from the studied scope; avoid filling the bank with Easy-only definition questions. Do not mislabel trivial questions Difficult or change original English stems/options just to increase difficulty. Preserve the earlier 91 practice/mock questions as the first foundation bank; strengthen by adding genuinely different tougher questions in future pushes.
 - **Difficulty tags on EVERY question** (including mock items and newly added exam-style questions): **Easy / Medium / Difficult**. Criteria: Easy = direct definition, value, one-step; Medium = 2-step calculation or applied concept; Difficult = multi-step clinical/numerical inference within already taught scope. Avoid claiming these official exam difficulty classifications.
 - For a **new bank**, aim for a useful balance across levels with **meaningful Medium and Difficult** questions relevant to NORCET and HP Staff Nurse. Do not force difficult questions on topics the learner has not yet covered. Calibrate based on existing learning progress and source papers. **Never invent official weightage or guaranteed repeat topics.**
 - Keep exact English stems/options unchanged for any previously published original bank, even if adding tags and explanations.
@@ -202,7 +204,7 @@ Easy Hinglish hint, answer reveal nahi hona chahiye.
 **Folder exact name:** `Previous-Year-Questions/` (**never** `PYMCQ`).
 
 Search for exact relevant respiratory/current studied-topic questions from:
-1. **Official AIIMS / HPRCA / older HPSSC** question papers, answer keys, notices, archived exams.
+1. **Official AIIMS / HPRCA / older HPSSC PLUS all-India Nursing Officer/Staff Nurse bodies:** PGIMER Chandigarh, SGPGI Lucknow, JIPMER, ESIC, RRB Nursing Superintendent, DSSSB, KGMU, AIIMS CRE, central/state health departments, and other state recruitment boards where relevant; query question papers, answer keys, notices and credible archives. Don't confuse one body's notice or official answer key with another's.
 2. **Scanned historic question booklets** from verifiable archives with **exam name/year, post code, booklet series, original question number/page**.
 3. Third-party **exam/coaching sites**, memory-based reports, paper-analysis videos and credible educational collections. These may be leads, not proof of official question wording.
 
@@ -227,11 +229,11 @@ If no verifiable question from a studied topic was found, explicitly state **"No
 Research each **studied topic** before publishing, not just the chapter title. Search multiple variants (English clinical term, common exam keywords, year/post code, Hindi-English coaching terms).
 
 **Priority research pipeline:**
-1. **Official exam**: https://www.aiimsexams.ac.in/ (NORCET) and https://hprca.hp.gov.in/ (current HP notices / papers); identify official vs older HPSSC history. Don't assume an older exam pattern applies today.
+1. **Official exam**: https://www.aiimsexams.ac.in/ (NORCET), https://hprca.hp.gov.in/ (current HP), and relevant all-India boards (PGIMER, SGPGI, JIPMER, ESIC, RRB, DSSSB, KGMU, AIIMS CRE etc.); use primary notifications/keys when available, distinguish official vs recalled/reconstructed historic papers. Don't assume an older exam pattern applies today.
 2. **Authoritative content**: OpenStax, NCBI Bookshelf, Merck Manual, MedlinePlus, ATS/ERS or specialty guidelines as relevant; use contemporary editions; crosscheck contradictions.
 3. **Previous papers**: Official PDFs first, then clearly attributed scanned historical archives, legitimate question-bank providers or memory-based question compilations; capture year, series, Q number, source confidence.
 4. **Coaching sites**: Evaluate Arogyam / Nursing Wallah-PW and relevant reputable nursing academies or exam-prep sites for useful syllabus explanations, examples, and PYQ analyses. Coaching claims are **secondary evidence**; never pass them off as official exam notices or verified previous-paper text.
-5. **YouTube**: Search **topic teaching videos AND topic MCQ-solving videos separately**. Candidate creators include Arogyam/Nursing Wallah and other credible nursing teachers; **choose by content fit and verified quality, not sponsorship or popularity alone**.
+5. **YouTube**: Search **EVERY actually studied subtopic individually** for BOTH a beginner teaching video and a relevant MCQ-solving/practice video; do not assume the earlier chapter-level videos cover every detail. Search each topic's main terms and coaching channel variants. The same suitable full-chapter video can be reused in multiple rows when its covered sections are explicitly verified; otherwise mark `Not separately verified`. For a future GK topic, search GK concept/current-affairs and GK MCQ practice videos as two separate resources. Candidate creators include Arogyam/Nursing Wallah and other credible nursing teachers; **choose by content fit and verified quality, not sponsorship or popularity alone**.
 
 **For EACH suggested YouTube video**, verify if possible:
 - Actual **watch URL** (not fabricated, and ideally not just channel homepage)
@@ -258,8 +260,8 @@ Research each **studied topic** before publishing, not just the chapter title. S
 
 **Pre-publish**
 - [ ] GitHub repo connected; branch read; existing day/chapter files read; actual topics and learning state recovered from chat/history.
-- [ ] No new unstudied topics or duplicate content. Appropriate 2–4 topic grouping and descriptive filenames.
-- [ ] Deep research recorded: official exam info, clinical sources, relevant coaching sites, Previous Year Questions evidence, YouTube lecture + question-practice link attempts.
+- [ ] Chapter/topic mapping and original DayXX ownership recovered even for out-of-order study, revisits, later same-day pushes; no duplicate folders/files. Appropriate 2–4 topic grouping, and Concepts-folder-only cumulative optional supplement.
+- [ ] Deep research recorded: official exam info, clinical sources, India-wide Nursing Officer/Staff Nurse past-paper leads (not just HP), coaching sites, Previous Year Questions evidence, and teaching + MCQ YouTube links attempted for EACH taught subtopic.
 - [ ] Detailed **Hinglish Concepts** with sources, worked examples, diagrams, video tables.
 - [ ] **English EXACT MCQ stems and options**, plus **Easy/Medium/Difficult** label **on every question**; well-calibrated nursing-exam difficulty.
 - [ ] Correct answer key; detailed Hinglish **why right, why other options wrong**, hints, tricks and units.
@@ -271,19 +273,21 @@ Research each **studied topic** before publishing, not just the chapter title. S
 - [ ] Commit to `main` (or current expected user branch) via connected GitHub. Never force push or delete original content unnecessarily.
 - [ ] Re-fetch changed files and verify actual remote contents/commit SHA.
 - [ ] Validate all relative paths, section anchors, image references and specific YouTube URLs as best available.
-- [ ] Count questions, **exactly four English options**, difficulty labels, answer keys, hint/solution blocks and duplicate stems.
+- [ ] Count solved and supplementary questions, **exactly four English options**, unchanged original wordings, difficulty labels (mainly Medium/Difficult for new challenging practice), answer keys, closed answer/solution dropdowns, exact/semantic duplicate stems; if extra file, verify it is ONE cumulative file within `Concepts/` with 30+ truly unique questions.
 - [ ] Check diagrams/GIF files are real and readable; source links don't point to unrelated subjects.
 - [ ] Report files changed, covered topics, counts by difficulty, added verified historical/memory-based questions separately, videos, diagrams, direct GitHub links and explicit gaps.
 
 ## 11. Current known repository baseline (do not re-publish unrelated material)
 
-As of **25 November 2026**, `Chapters/Respiratory-System/` already contains:
+As of **25 November 2026**, `Chapters/Respiratory-System/` already contains (active chapter; append upon revisits):
 - Day 1: respiratory anatomy and physiology, airway/lobes, alveoli/surfactant, pleura, breathing, pulmonary circulation, lung volumes/capacities, minute ventilation and normal values; **40 original MCQs + 15-question mock**.
 - Day 2: inspection, palpation, percussion, auscultation, **ABG basics**, **spirometry basics** and **introductory only** diagnostic investigations; **36 original MCQs**.
 - Original diagrams and separate **Previous Year Questions** (older scanned HP paper references + clearly labeled NORCET memory-based report).
 - **Do not relabel those original 91 exam-style MCQs as verified past-exam items.**
-- For an existing bank which has not been difficulty-tagged yet, first **backfill all questions with Easy/Medium/Difficult labels without changing their original English stems/options**, and keep their Hinglish rationales.
+- Existing 91 bank/mock items already have difficulty tags. Preserve their exact English wording and Hinglish explanations; future unique case-based extensions should be harder. Do not claim original practice MCQs appeared in previous exams.
 - Previous-year research already done is not a waiver for future topic-specific searches.
+
+**Separate planned placeholder:** `Chapters/Cardiovascular-System/` may contain only `.gitkeep` placeholders for Concepts/MCQs/Previous-Year-Questions/Revision/Assets. Do not add actual notes or activate Day numbering there until the learner studies cardiovascular content. Cardiovascular is a high-priority *candidate* from third-party past-paper analysis, not an officially mandated next subject.
 
 ## 12. Cross-session use and limitations
 
