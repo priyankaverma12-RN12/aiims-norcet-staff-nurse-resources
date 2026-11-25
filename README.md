@@ -52,7 +52,7 @@ Chapters/
     ├── MCQs/            # 40 + 36 + 15 practice/mock MCQs
     ├── Previous-Year-Questions/            # Sourced historic paper / memory-based
     ├── Revision/
-    ├── Assets/          # 18 original study SVG diagrams
+    ├── Assets/          # 19 original study SVG diagrams
     └── References.md
 ~~~
 
