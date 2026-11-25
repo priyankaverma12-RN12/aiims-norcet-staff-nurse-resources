@@ -78,7 +78,7 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 
 | Content part | Required language |
 |---|---|
-| **Concept teaching, explanations, summaries, mnemonics** | **Easy Hinglish**: simple English + Roman Hindi, as if teaching a nursing fresher; medical terminology English. Preserve a specific short Devanagari note when the user expressly requests it. |
+| **Concept teaching, explanations, summaries, mnemonics** | **Easy Hinglish**: simple English + Roman Hindi, as if teaching a nursing fresher; medical terminology English. Use Roman script only (e.g., `Dhyan de`, not Hindi/Devanagari letters), unless the user explicitly changes this preference. |
 | **MCQ stem + EVERY answer option (A/B/C/D)** | **English only**, original wording exactly as first authored or preserved in source |
 | **Labels/metadata** | English: `Easy`, `Medium`, `Difficult`, Exam focus, source status |
 | **Correct answer** | Original English answer text/letter |
@@ -92,7 +92,7 @@ Avoid overly formal pure-English textbook paragraphs and overly technical Hindi 
 
 ### Keep the same simple style on ALL learner-facing pages
 
-- Apply one consistent concise **Hinglish** style to chapter/readme navigation, concept explanations, study instructions, mock introductions, previous-paper index, result commentary, and revision sheets. Do not leave long all-English disclaimer/policy paragraphs in learner-facing pages. Avoid repeating the same generic caveat after every question.
+- Apply one consistent concise **Roman-script Hinglish** style to chapter/readme navigation, concept explanations, study instructions, mock introductions, previous-paper index, result commentary, and revision sheets. **Never use Devanagari** for study instructions or notes under the current user preference (write `Dhyan de`, not `ध्यान दें`). Do not leave long all-English disclaimer/policy paragraphs in learner-facing pages. Avoid repeating the same generic caveat after every question.
 - Use short friendly notices, for example: `> **Dhyan do:** Sawaal aur A/B/C/D options English mein hain. Answers Hinglish mein samjhaye hain.` Explain source uncertainty simply, without a multi-paragraph legalistic policy preamble.
 - Keep **question stems, four options and original source titles verbatim English**. Do NOT translate the MCQ itself into Hinglish. For authentic-source questions, cite original scan if it cannot be reproduced faithfully.
 - Reuse the same navigation: `Chapter · Concepts · MCQs · Previous Year Questions · Revision` at start/end. On each MCQ, show a `Difficulty` and `Exam focus` label after unchanged English options, and a clear expandable answer with Hinglish rationale.
