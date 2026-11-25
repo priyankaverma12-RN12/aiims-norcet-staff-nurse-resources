@@ -41,7 +41,7 @@
 
 **Exam comparison ka practical learning:** Available HP scanned paper mein direct factual anatomy/physiology questions milte hain (TV value, alveolar macrophages, external respiration, bronchioles). NORCET ke liye **same facts ke clinical-context aur calculation variants** practice karna useful hai. Isse exact future question count, repeat probability ya guaranteed cutoff calculate **nahi** hota.
 
-**Abhi kya nahi padha:** COPD treatment, ventilator settings, advanced ABG compensation aur bronchoscopy details abhi include nahi hain.
+**Abhi kya nahi padha:** Ventilator settings, advanced ABG compensation aur advanced bronchoscopy details abhi include nahi hain. Day 3 asthma/COPD basic treatment and nursing care theory presented; practice pending.
 
 ## 3. MCQ checking ke rules
 
@@ -79,3 +79,18 @@
 ---
 
 *Ye exam notes hain. Real patient ka treatment doctor aur local medical protocol ke according hota hai.*
+
+## 6. Day 3 sources — checked 25 November 2026
+
+[Day 3 diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Revision](Revision/Day-03-Quick-Revision.md) · [Reported exam leads](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md)
+
+| Topic | Clinical source | Verification notes |
+|---|---|---|
+| Asthma, controller and reliever | [GINA 2026](https://ginasthma.org/2026-gina-summary-guide/) | ICS-containing management |
+| COPD, chronic bronchitis, emphysema | [GOLD spirometry](https://pmc.ncbi.nlm.nih.gov/articles/PMC11799884/) · [NIH COPD](https://www.nhlbi.nih.gov/education/BreatheBetter/COPD-national-action-plan-overview) | Diagnostic context and airflow obstruction |
+| Inhalers | [MedlinePlus MDI and spacer](https://medlineplus.gov/ency/patientinstructions/000042.htm) | Inhaler technique |
+| Oxygen and nursing | [Open RN](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Acute oxygen guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC4654337/) | Approximate flows, controlled oxygen, safety |
+| Nebulization | [MedlinePlus](https://medlineplus.gov/ency/patientinstructions/000006.htm) | Procedure and inhaler alternative |
+| Pursed-lip breathing | [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/resource-library/pursed-lip-breathing-video?form=FUNWDCDEGUJ) | Gentle prolonged expiration |
+
+Videos and exam leads are linked in the respective Day 3 notes. Metadata verified where available; full transcripts and official PYQ keys not confirmed. No separate 30+ supplement added before learner practice and duplication audit.
