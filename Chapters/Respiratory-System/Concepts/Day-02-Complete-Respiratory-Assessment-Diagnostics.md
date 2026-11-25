@@ -15,7 +15,7 @@
 5. [Auscultation — stethoscope se sunna](#5-auscultation--stethoscope-se-sunna)
 6. [ABG ke basic values](#6-abg-ke-basic-values)
 7. [ABG interpretation — step by step](#7-abg-interpretation--step-by-step)
-8. [Spirometry — FEV₁, FVC aur ratio](#8-spirometry--fev-fvc-aur-ratio)
+8. [Spirometry — FEV₁, FVC aur ratio](#8-spirometry--fev₁-fvc-aur-ratio)
 9. [Basic diagnostic investigations](#9-basic-diagnostic-investigations)
 10. [NORCET last-minute revision](#10-norcet-last-minute-revision)
 
