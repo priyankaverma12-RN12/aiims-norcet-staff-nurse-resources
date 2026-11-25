@@ -13,6 +13,10 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
 | **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
+### Practice ka level — base bank vs new exam-level practice
+
+**Dhyan de:** Day 1–2 aur final mock ke **91 original English practice MCQs** pehle basics/revision ke liye banaye gaye the: **38 Easy, 45 Medium, 8 Difficult**. Inke original wording ko nahi badlenge. Agli actual study-push par naye high-yield angles ke liye **mainly Medium/Difficult clinical/numerical** unique questions add karenge—sirf label change karke easy questions ko difficult nahi bolenge. NORCET ke saath **PGIMER, SGPGI, ESIC, RRB, JIPMER, DSSSB aur state Staff Nurse** exams ke relevant sources bhi research honge.
+
 ### 🏥 Previous Year Questions — alag folder
 
 **[👉 Previous-Year Paper / Memory-Based Questions folder kholo](Previous-Year-Questions/README.md)**
