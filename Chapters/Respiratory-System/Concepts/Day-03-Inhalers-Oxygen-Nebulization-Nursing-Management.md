@@ -36,6 +36,20 @@ Inhaler ek device hai jo medicine directly respiratory tract mein pahunchata hai
 
 > **Dhyan de:** ICS ke baad mouth rinsing oral candidiasis prevent karne mein help karti hai. Asthma mein LABA alone use nahi karna chahiye.
 
+### Respiratory drugs — extra exam points
+
+| Drug | Important concept |
+|---|---|
+| Salbutamol | Beta2 receptor stimulation |
+| Ipratropium | Muscarinic receptor blockade |
+| Tiotropium | Long-acting maintenance bronchodilator |
+| Montelukast | Leukotriene receptor antagonist |
+| Theophylline | Methylxanthine, narrow therapeutic index |
+| Sodium cromoglycate | Mast cell stabilizer, preventive drug (classic exam fact) |
+| Omalizumab | Anti-IgE drug for selected severe allergic asthma |
+
+**Narrow therapeutic index:** Effective aur toxic dose ke beech difference kam. Theophylline toxicity mein vomiting, tachyarrhythmia aur seizures ho sakte hain; routine rescue drug nahi hai. Montelukast acute attack rescue drug nahi; neuropsychiatric adverse effects important hain. [GINA](https://ginasthma.org/2026-gina-summary-guide/).
+
 ## 6. Oxygen Therapy & Delivery Devices
 
 Oxygen therapy ka purpose patient ki low blood oxygen level (hypoxemia) ko correct karna hai. FiO2 = Fraction of Inspired Oxygen, yani patient jo air inhale kar raha hai usmein oxygen ka proportion. Normal room air approximately 21%.
@@ -56,6 +70,27 @@ FiO2 approximate hai; device design, fit aur breathing par depend karti hai. Flo
 **COPD oxygen:** Acute exacerbation mein especially hypercapnic respiratory failure ke risk wale patients mein common initial target SpO2 88–92%, ABG aur clinical assessment ke according. Excessive uncontrolled oxygen kuch patients mein CO2 retention badha sakti hai. COPD patient ko oxygen dena mana nahi hai: hypoxemia mein controlled, monitored oxygen do.
 
 > **Dhyan de:** Precise oxygen concentration = Venturi mask. Emergency high-concentration oxygen = NRBM.
+
+### Oxygen therapy — extra high-yield concepts
+
+**Hypoxia:** Body tissues mein oxygen ki kami. **Hypoxemia:** Arterial blood mein oxygen ki kami.
+
+| Early signs of hypoxia | Late/severe signs |
+|---|---|
+| Restlessness, anxiety | Cyanosis (may be absent) |
+| Tachypnea, tachycardia | Decreased consciousness, possible bradycardia, severe deterioration |
+
+> **Dhyan de:** Restlessness early sign ho sakta hai; cyanosis ka wait mat karo.
+
+| Complication | Simple meaning |
+|---|---|
+| Oxygen toxicity | Excessive oxygen exposure se lung damage |
+| Absorption atelectasis | Alveoli collapse ho sakte hain |
+| Hypercapnia | Susceptible patients mein CO2 retention |
+| Mucosal dryness | Nose aur airway dryness |
+| Retinopathy of prematurity | Preterm babies mein excessive oxygen se retinal damage ka risk |
+
+**HFNC:** High flow nasal cannula; heated humidified oxygen, adult devices often up to approximately 60 L/min. **Ambu bag/BVM:** Inadequate breathing/apnea mein trained staff ke liye manual positive-pressure ventilation. **T-piece:** Artificial airway wale spontaneously breathing patient ko oxygen deliver kar sakta hai. Detailed ventilator settings abhi scope mein nahi hain. [Open RN Oxygen Therapy](https://www.ncbi.nlm.nih.gov/books/NBK596733/).
 
 ## 7. Nebulization
 
@@ -105,6 +140,22 @@ Nebulizer hamesha inhaler se zyada effective nahi hota. Correct technique ke saa
 **Emergency warning signs:** Silent chest, cyanosis, confusion, drowsiness, inability to speak full sentences, severe accessory muscle use, falling SpO2 → immediate assessment and emergency escalation.
 
 **Oxygen safety:** Smoking, open flame aur oil-based products avoid karo. Reservoir bag inflate hona chahiye. Oxygen therapy prescribed target aur patient response ke according monitor karo.
+
+### Clinical nursing priority — extra scenarios
+
+| Patient situation | Nursing action |
+|---|---|
+| NRBM reservoir bag collapsed | Oxygen supply, flow aur mask system check karo; patient assess karo |
+| Venturi mask air ports blocked | Obstruction remove karo |
+| Steroid inhaler use kiya | Mouth rinse and spit |
+| Severe asthma mein silent chest | Emergency escalation |
+| COPD patient oxygen ke baad drowsy | Urgent assessment, ABG and escalation; oxygen prescribed target par titrate |
+| Sudden restlessness | Oxygenation aur vitals assess |
+| Nebulization ke baad severe tachycardia | Patient assess and significant adverse effect report |
+| COPD mein expiration difficult | Pursed-lip breathing |
+| Meals ke time dyspnea | Small frequent meals when safe |
+
+Nebulization se pehle aur baad pulse, RR, SpO2 aur breath sounds assess karo. CO2 retention risk wale COPD patients mein air-driven nebulizer aur separately controlled supplemental oxygen ki zarurat ho sakti hai. [Acute airway disease review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8806296/).
 
 ## Video teaching and practice
 
