@@ -4,7 +4,7 @@
 
 [← Previous Year Questions index](README.md) · [Respiratory chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-> **Important — original-wording rule:** These are **five references to genuine numbered questions in a historical scanned booklet**, not transcribed replicas. Humne pehle Hinglish paraphrase likhi thi; use hata diya hai. **Exact English question AND original A/B/C/D options** dekhne ke liye linked booklet mein specified question number kholo. Wording ko translate, reorder ya recreate karke original paper question present nahi kar rahe.
+> **Note:** Ye 5 sawaal purane HP Staff Nurse paper se hain. Original English questions aur A/B/C/D options dekhne ke liye paper ka link kholo. Neeche answers easy Hindi mein samjhaye hain.
 
 **[Open the original English question booklet (Series A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — Third-party hosted historical scan; government-hosted publication ka claim nahi.
 
