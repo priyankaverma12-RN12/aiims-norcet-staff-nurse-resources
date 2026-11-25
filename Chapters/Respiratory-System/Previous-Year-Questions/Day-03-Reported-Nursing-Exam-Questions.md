@@ -17,3 +17,9 @@
 [Chapter](../README.md) | [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) | [Day 3 care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-03-Quick-Revision.md) | [References](../References.md)
 
 **Status:** Theory lesson presented on 25 November 2026; MCQ practice and learner mastery pending. No attempted scores or solved questions recorded.
+
+## Additional reported AIIMS exam themes — rechecked 25 November 2026
+
+[AIIMS Bathinda Nursing Officer 2019 third-party question collection](https://nextnurse.in/pyq/aiims-nursing-officer/aiims-nursing-officer-aiims-bhatinda-no-2019) reports status asthmaticus and COPD oxygen administration questions. Original paper question number and official key not independently verified; do not treat as exact official questions. [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) | [Day 3 care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md).
+
+**Dhyan de:** Purane question sources kabhi COPD oxygen ko sirf “hypoxic drive” se explain karte hain. Modern management mein oxygen withheld nahi karte; prescribed target, ABG aur clinical monitoring important hain. Other previously mentioned Nagpur/GMCH reports not independently reverified here; no claim of official provenance.
