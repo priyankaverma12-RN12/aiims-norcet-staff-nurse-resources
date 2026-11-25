@@ -4,7 +4,7 @@
 
 [🏠 Chapter](../README.md) · [📝 Day 1 ke 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
 
-> **Hamari class wali language:** Medical terms English mein rahenge, lekin unki explanation simple Hindi-English mein hogi. Ye sirf wahi topics hain jo humne Day 1 mein padhe aur revise kiye the. V/Q mismatch, Haldane effect jaise unstudied topics include nahi kiye gaye.
+> **Dhyan de:** Medical terms English mein hain. Explanation easy Hinglish mein hai, aur sirf Day 1 mein padhe topics cover hain.
 
 ## 📚 Is guide mein kya-kya hai?
 
@@ -384,12 +384,12 @@ RR badha, lekin TV kam hua. Isliye total MV **same** hai.
 3. Type II cells ka main function → **Surfactant**.
 4. pH 7.48; PaCO₂ 42 → pH usual range se **upar**.
 
-**Ab is chapter ki practice karo:** [Day 1 ke 40 Hinglish MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) → [Final 15-question mock](../MCQs/Day-01-Final-Mock-15.md).
+**Ab is chapter ki practice karo:** [Day 1 ke 40 English MCQs + Hinglish explanations](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) → [Final 15-question mock](../MCQs/Day-01-Final-Mock-15.md).
 \n\n[📝 Matching MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ---
 
-**Note:** Ye independent learning notes hain, official AIIMS paper nahi. [Medical references](../References.md).
+**Dhyan de:** Ye hamare study notes hain, official AIIMS paper nahi. [Medical references](../References.md).
 
 
 ---

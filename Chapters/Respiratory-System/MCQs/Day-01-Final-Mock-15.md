@@ -1,8 +1,8 @@
 # 🎯 Day 1 — Final Revision Mock: 15 Questions
 
-> **Yaad rakho:** Questions aur A/B/C/D options **English mein same** hain. Answers aur tricks **easy Hinglish** mein. Ye original practice hai, verified Previous Year Questions nahi.
+> **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
 
-**15 MCQs · 1 correct = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified Previous Year Question nahi.
+**15 questions · Har sahi answer = 1 mark.** Pehle khud solve karo, phir explanation kholo. Ye Day 1 ka practice mock hai.
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -24,7 +24,7 @@
 
 **A.** Pharynx → Larynx → Trachea → Bronchi. Hawa isi sequence se neeche jaati hai.
 
-**Baaki options aur common trap:** Pharynx larynx se pehle aata hai, fir windpipe **trachea**, fir bronchi. Options jisme larynx pharynx se pehle ya bronchi trachea se pehle hain, wo wrong order hain. Exam mein sequence ko arrow banakar socho.
+**Baaki options kyun nahi?** Pharynx larynx se pehle aata hai, fir windpipe **trachea**, fir bronchi. Options jisme larynx pharynx se pehle ya bronchi trachea se pehle hain, wo wrong order hain. Exam mein sequence ko arrow banakar socho.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -42,7 +42,7 @@
 
 **C.** Nose incoming air ko **warm, filter aur humidify** karta hai.
 
-**Baaki options aur common trap:** Nose ka main kaam air ko warm, filter aur humidify karna hai; gas exchange **alveoli**, surfactant **Type II cells**, pulmonary venous blood **vessels** se related hai. Anatomical location ke hisaab se option eliminate karo.
+**Baaki options kyun nahi?** Nose ka main kaam air ko warm, filter aur humidify karna hai; gas exchange **alveoli**, surfactant **Type II cells**, pulmonary venous blood **vessels** se related hai. Anatomical location ke hisaab se option eliminate karo.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -60,7 +60,7 @@
 
 **B.** **Right 3 lobes, Left 2 lobes**. Ye fact pakka yaad rakho.
 
-**Baaki options aur common trap:** Right lung mein superior, middle, inferior = **3 lobes**; left mein superior, inferior = **2 lobes**, cardiac notch ke karan. Dono lungs equal lobe count nahi rakhte. Right 3, Left 2 ek-line trick hai.
+**Baaki options kyun nahi?** Right lung mein superior, middle, inferior = **3 lobes**; left mein superior, inferior = **2 lobes**, cardiac notch ke karan. Dono lungs equal lobe count nahi rakhte. Right 3, Left 2 ek-line trick hai.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -78,7 +78,7 @@
 
 **D.** **Respiratory bronchiole** se respiratory zone start hoti hai; terminal bronchiole conducting ka last part hai.
 
-**Baaki options aur common trap:** Terminal bronchiole conducting zone ka last part hai. Primary bronchus aur trachea bhi conducting airways hain; **respiratory bronchiole** se alveolar gas exchange region start hota hai.
+**Baaki options kyun nahi?** Terminal bronchiole conducting zone ka last part hai. Primary bronchus aur trachea bhi conducting airways hain; **respiratory bronchiole** se alveolar gas exchange region start hota hai.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -96,7 +96,7 @@
 
 **A.** **Alveolar macrophages** phagocytosis ke through germs aur dust remove karte hain.
 
-**Baaki options aur common trap:** Macrophages immune cleaning cells hain: dust/germs ko engulf karte hain. Type I gas exchange, Type II surfactant. Ciliated epithelium airways mein mucus clearance mein help karta hai, alveolar phagocytosis ka main cell nahi.
+**Baaki options kyun nahi?** Macrophages immune cleaning cells hain: dust/germs ko engulf karte hain. Type I gas exchange, Type II surfactant. Ciliated epithelium airways mein mucus clearance mein help karta hai, alveolar phagocytosis ka main cell nahi.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -114,7 +114,7 @@
 
 **C.** Surfactant kam hone par **surface tension badhti** hai aur alveoli collapse ka risk badhta hai.
 
-**Baaki options aur common trap:** Surfactant Type II cells banate hain aur tension ko normally reduce karta hai. Jab surfactant kam ho, surface tension **badhti** hai, alveoli collapse ka risk badhta hai. Expand easily ya extra oxygen production answers galat hain.
+**Baaki options kyun nahi?** Surfactant Type II cells banate hain aur tension ko normally reduce karta hai. Jab surfactant kam ho, surface tension **badhti** hai, alveoli collapse ka risk badhta hai. Expand easily ya extra oxygen production answers galat hain.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -132,7 +132,7 @@
 
 **B.** **Visceral pleura** directly lung se attached hoti hai.
 
-**Baaki options aur common trap:** **Visceral** pleura directly lung surface cover karti hai; **parietal** chest wall lining hai. Pericardium heart ke around membrane hai aur mucosa lung surface ki pleural covering nahi.
+**Baaki options kyun nahi?** **Visceral** pleura directly lung surface cover karti hai; **parietal** chest wall lining hai. Pericardium heart ke around membrane hai aur mucosa lung surface ki pleural covering nahi.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -150,7 +150,7 @@
 
 **D.** Diaphragm **contract karke neeche** jaata hai aur thoracic volume **increase** hota hai.
 
-**Baaki options aur common trap:** Quiet inspiration mein diaphragm contract karke neeche jaata hai, thoracic volume badhta hai, alveolar pressure atmosphere se briefly neeche hota hai, air enter karti hai. Relax/ascend expiration se associated hai.
+**Baaki options kyun nahi?** Quiet inspiration mein diaphragm contract karke neeche jaata hai, thoracic volume badhta hai, alveolar pressure atmosphere se briefly neeche hota hai, air enter karti hai. Relax/ascend expiration se associated hai.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -168,7 +168,7 @@
 
 **A.** Pulmonary veins lungs se **left atrium** mein oxygenated blood return karti hain.
 
-**Baaki options aur common trap:** Pulmonary veins **lungs → left atrium** oxygenated blood laati hain. Right heart se lungs ki taraf deoxygenated blood pulmonary arteries le jaati hain. Left ventricle blood **left atrium ke baad** leta hai.
+**Baaki options kyun nahi?** Pulmonary veins **lungs → left atrium** oxygenated blood laati hain. Right heart se lungs ki taraf deoxygenated blood pulmonary arteries le jaati hain. Left ventricle blood **left atrium ke baad** leta hai.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -186,7 +186,7 @@
 
 **C.** IC = TLC − FRC = 5400 − 2200 = 3200. IRV = IC − TV = 3200 − 550 = **2650 mL**.
 
-**Baaki options aur common trap:** Formula **TLC = IC + FRC**, toh IC = 5400−2200 = 3200. Fir **IC = TV + IRV**, toh IRV = 3200−550 = **2650 mL**. Common trap: pehle FRC subtract karna bhool jaate hain.
+**Baaki options kyun nahi?** Formula **TLC = IC + FRC**, toh IC = 5400−2200 = 3200. Fir **IC = TV + IRV**, toh IRV = 3200−550 = **2650 mL**. Common trap: pehle FRC subtract karna bhool jaate hain.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -204,7 +204,7 @@
 
 **B.** 8.64 L = 8640 mL. RR = MV ÷ TV = 8640 ÷ 480 = **18/min**.
 
-**Baaki options aur common trap:** MV = RR × TV, isliye RR = MV/TV. MV 8.64 L/min ko **8640 mL/min** banao; 8640/480 = **18/min**. L aur mL mix karke bina conversion ke answer mat dena.
+**Baaki options kyun nahi?** MV = RR × TV, isliye RR = MV/TV. MV 8.64 L/min ko **8640 mL/min** banao; 8640/480 = **18/min**. L aur mL mix karke bina conversion ke answer mat dena.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -222,7 +222,7 @@
 
 **D.** Old MV 7200; new MV 9000 mL/min. (9000−7200)/7200 × 100 = **25%**.
 
-**Baaki options aur common trap:** Old MV 18×400=7200, new MV 20×450=9000 mL/min. Increase = 1800; percentage = **1800/7200×100 =25%**. Old value denominator hai—new se divide karne par wrong %. 
+**Baaki options kyun nahi?** Old MV 18×400=7200, new MV 20×450=9000 mL/min. Increase = 1800; percentage = **1800/7200×100 =25%**. Old value denominator hai—new se divide karne par wrong %. 
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -240,7 +240,7 @@
 
 **A.** **RR 14/min aur PaCO₂ 43 mmHg** dono commonly normal textbook range mein hain.
 
-**Baaki options aur common trap:** RR 14/min = 12–20 ke beech aur PaCO₂ 43 mmHg = 35–45 mein. Other options mein pH 7.48, RR 24/9 ya PaCO₂ 50 aise values hain jo usual adult reference se bahar hain.
+**Baaki options kyun nahi?** RR 14/min = 12–20 ke beech aur PaCO₂ 43 mmHg = 35–45 mein. Other options mein pH 7.48, RR 24/9 ya PaCO₂ 50 aise values hain jo usual adult reference se bahar hain.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -258,7 +258,7 @@
 
 **A.** **Haan, true**. Usual reference ~**80–100 mmHg** hai; altitude aur patient condition matter karte hain.
 
-**Baaki options aur common trap:** Common sea-level teaching range PaO₂ approx 80–100 mmHg hai; 89 iske andar hai. Lekin actual normal range age, laboratory aur altitude se vary kar sakti hai. PaO₂ ko SpO₂ (%) se confuse mat karna.
+**Baaki options kyun nahi?** Common sea-level teaching range PaO₂ approx 80–100 mmHg hai; 89 iske andar hai. Lekin actual normal range age, laboratory aur altitude se vary kar sakti hai. PaO₂ ko SpO₂ (%) se confuse mat karna.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -276,7 +276,7 @@
 
 **D.** **RV (Residual Volume)**. Normal quiet expiration ke baad bachi air **FRC** hoti hai.
 
-**Baaki options aur common trap:** RV = air jo **maximum forced expiration** ke baad lungs mein bachti hai. FRC **normal quiet expiration** ke baad air (ERV + RV) hai. IC aur VC combinations of movable volumes hain, maximum exhalation ke baad remaining RV nahi.
+**Baaki options kyun nahi?** RV = air jo **maximum forced expiration** ke baad lungs mein bachti hai. FRC **normal quiet expiration** ke baad air (ERV + RV) hai. IC aur VC combinations of movable volumes hain, maximum exhalation ke baad remaining RV nahi.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 

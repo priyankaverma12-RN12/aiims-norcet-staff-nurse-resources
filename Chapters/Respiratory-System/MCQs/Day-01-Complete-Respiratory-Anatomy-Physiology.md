@@ -2,7 +2,7 @@
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
-> **Yaad rakho:** Questions aur A/B/C/D options **English mein same** hain. Answers aur tricks **easy Hinglish** mein. Ye original practice hai, verified Previous Year Questions nahi.
+> **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
 
 ### Kaise solve karna hai?
 
@@ -35,7 +35,7 @@
 
 **Baaki options kyun nahi?** Pharynx food + air ka passage hai, trachea windpipe hai, aur bronchiole chhoti airway hai. Inmein se voice produce karne ka specific organ **larynx** hai.
 
-**🧠 NORCET / HP exam trick:** Voice box aur windpipe ko ek mat samajhna.
+**Exam trick:** Voice box aur windpipe ko ek mat samajhna.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -56,7 +56,7 @@
 
 **Baaki options kyun nahi?** Carina trachea ke split hone ka point hai; uvula soft palate ka part, trachea windpipe. Inmein se **epiglottis** swallowing ke waqt laryngeal inlet ke protection mein participate karta hai.
 
-**🧠 NORCET / HP exam trick:** Epiglottis airway ko protect karta hai, food digestion nahi.
+**Exam trick:** Epiglottis airway ko protect karta hai, food digestion nahi.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -77,7 +77,7 @@
 
 **Baaki options kyun nahi?** Respiratory bronchiole se gas exchange shuru hota hai, alveolar duct aur alveolar sac iske baad aate hain. **Terminal bronchiole** abhi conducting passage ka hissa hai.
 
-**🧠 NORCET / HP exam trick:** Terminal = conducting zone END.
+**Exam trick:** Terminal = conducting zone END.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -98,7 +98,7 @@
 
 **Baaki options kyun nahi?** Primary bronchus aur larynx air conduct karte hain; terminal bronchiole bhi conducting zone mein hai. **Respiratory bronchiole** ke walls par alveolar outpouchings se gas exchange ka chance shuru hota hai.
 
-**🧠 NORCET / HP exam trick:** Question mein FIRST respiratory-zone part poochha ho toh D.
+**Exam trick:** Question mein FIRST respiratory-zone part poochha ho toh D.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -119,7 +119,7 @@
 
 **Baaki options kyun nahi?** Surfactant Type II alveolar cells banate hain, naak nahi. Oxygenated blood transport pulmonary vessels ka kaam hai, aur gas exchange lungs ke alveoli mein hota hai.
 
-**🧠 NORCET / HP exam trick:** Nose ka role conditioning: warm + filter + humidify.
+**Exam trick:** Nose ka role conditioning: warm + filter + humidify.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -150,7 +150,7 @@
 
 **Baaki options kyun nahi?** Two lobes **left** lung ke hain, four aur one usual adult lungs ke lobe counts nahi. Right lung mein superior, middle aur inferior lobes hote hain.
 
-**🧠 NORCET / HP exam trick:** Right 3 / Left 2 + left cardiac notch.
+**Exam trick:** Right 3 / Left 2 + left cardiac notch.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -171,7 +171,7 @@
 
 **Baaki options kyun nahi?** Horizontal fissure right lung se associated hai; carina tracheal bifurcation hai; tracheal ring airway support deta hai. **Cardiac notch** left lung ki heart-facing indentation hai.
 
-**🧠 NORCET / HP exam trick:** Left = heart ke liye jagah.
+**Exam trick:** Left = heart ke liye jagah.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -192,7 +192,7 @@
 
 **Baaki options kyun nahi?** Left main bronchus comparatively longer aur less vertical hota hai. Isliye typical adult aspiration question mein **right** choose karte hain, dono equally nahi.
 
-**🧠 NORCET / HP exam trick:** Right: shorter + wider + more vertical.
+**Exam trick:** Right: shorter + wider + more vertical.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -213,7 +213,7 @@
 
 **Baaki options kyun nahi?** Right atrium systemic venous blood leta hai; right ventricle se blood lungs jaata hai; left ventricle mein blood left atrium ke baad aata hai. **Pulmonary veins pehle left atrium** mein open hoti hain.
 
-**🧠 NORCET / HP exam trick:** Pathway: RV → lungs → LA.
+**Exam trick:** Pathway: RV → lungs → LA.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -234,7 +234,7 @@
 
 **Baaki options kyun nahi?** Artery/vein ka naam **direction** se decide hota hai, O₂ se nahi. Pulmonary artery RV se lungs jaati hai; oxygenated pulmonary venous blood left atrium mein wapas aata hai.
 
-**🧠 NORCET / HP exam trick:** Pulmonary circulation systemic circuit ki oxygen-label rule se different lag sakti hai.
+**Exam trick:** Pulmonary circulation systemic circuit ki oxygen-label rule se different lag sakti hai.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -265,7 +265,7 @@
 
 **Baaki options kyun nahi?** Type I thin gas-exchange surface provide karta hai; macrophage germs clean karta hai; endothelial cells capillary wall ka part hain. **Type II** surfactant manufacture karta hai.
 
-**🧠 NORCET / HP exam trick:** II = surfactant; I = exchange.
+**Exam trick:** II = surfactant; I = exchange.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -286,7 +286,7 @@
 
 **Baaki options kyun nahi?** Mucus production mainly goblet cells jaise airway cells ka role hai; phagocytosis macrophages karte hain; surfactant Type II banate hain. **Type I** thin cell barrier se gas diffusion support karta hai.
 
-**🧠 NORCET / HP exam trick:** Question cell-function match mein ek-ek role check karo.
+**Exam trick:** Question cell-function match mein ek-ek role check karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -307,7 +307,7 @@
 
 **Baaki options kyun nahi?** Type I aur Type II pneumocytes primarily exchange/surfactant roles wale hain. Ciliated tracheal cells mucus clearance mein help karte hain, alveolar phagocytosis nahi. **Macrophages = scavenger/cleaning cell**.
 
-**🧠 NORCET / HP exam trick:** Macrophages ko alveolar dust-cell bhi keh sakte hain.
+**Exam trick:** Macrophages ko alveolar dust-cell bhi keh sakte hain.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -328,7 +328,7 @@
 
 **Baaki options kyun nahi?** Surfactant normally tension **kam** karta hai. Deficiency se opposite hoga: tension **badhegi** aur collapse tendency badhegi. Oxygen production ya effortless expansion surfactant ka role nahi.
 
-**🧠 NORCET / HP exam trick:** Premature newborn + surfactant deficiency = collapse risk.
+**Exam trick:** Premature newborn + surfactant deficiency = collapse risk.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -349,7 +349,7 @@
 
 **Baaki options kyun nahi?** **Osmosis** water movement ka term hai; filtration fluid/pressure-related process; active transport energy use karta hai. Alveolar respiratory gases partial pressure gradient se **diffuse** karte hain.
 
-**🧠 NORCET / HP exam trick:** O₂ alveoli → blood; CO₂ blood → alveoli.
+**Exam trick:** O₂ alveoli → blood; CO₂ blood → alveoli.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -380,7 +380,7 @@
 
 **Baaki options kyun nahi?** Parietal pleura chest cavity ko line karti hai; pericardium heart ki covering hai. Lung surface se directly attached **visceral pleura** hai.
 
-**🧠 NORCET / HP exam trick:** Visceral = lung; parietal = chest wall.
+**Exam trick:** Visceral = lung; parietal = chest wall.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -401,7 +401,7 @@
 
 **Baaki options kyun nahi?** Surfactant alveolar Type II cells produce karti hain, pleural fluid nahi. Pleural fluid blood mein oxygen transport bhi nahi karta. Ye pleural surfaces ko **lubricate** karke rubbing kam karta hai.
 
-**🧠 NORCET / HP exam trick:** Pleural fluid ≠ alveolar surfactant.
+**Exam trick:** Pleural fluid ≠ alveolar surfactant.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -422,7 +422,7 @@
 
 **Baaki options kyun nahi?** Relaxation/ascending diaphragm expiration se linked hai. Quiet inspiration mein diaphragm **contract karke flatten/descend** hota hai; chest volume badhne se air enter karti hai.
 
-**🧠 NORCET / HP exam trick:** IN → diaphragm DOWN → volume UP.
+**Exam trick:** IN → diaphragm DOWN → volume UP.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -443,7 +443,7 @@
 
 **Baaki options kyun nahi?** Abdominal muscles usually **forced** expiration mein important hoti hain; quiet expiration diaphragm contraction ya coughing se nahi. At rest elastic recoil + relaxation se air bahar nikalti hai.
 
-**🧠 NORCET / HP exam trick:** Quiet expiration passive; forced expiration active ho sakti hai.
+**Exam trick:** Quiet expiration passive; forced expiration active ho sakti hai.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -464,7 +464,7 @@
 
 **Baaki options kyun nahi?** T1–T3, T8–T12 aur L1–L3 diaphragm ki main phrenic motor roots nahi hain. **C3, C4, C5** motor supply deti hain.
 
-**🧠 NORCET / HP exam trick:** C3–C5 keeps the diaphragm alive.
+**Exam trick:** C3–C5 keeps the diaphragm alive.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -495,7 +495,7 @@
 
 **Baaki options kyun nahi?** TV normal breath ka volume, IRV extra inhalation aur ERV extra expiration hai. Maximum expiration ke baad jo bhi permanently bachi air hai wahi **RV** hai.
 
-**🧠 NORCET / HP exam trick:** RV cannot be voluntarily exhaled.
+**Exam trick:** RV cannot be voluntarily exhaled.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -516,7 +516,7 @@
 
 **Baaki options kyun nahi?** VC maximum movable air; IRV extra inspired air; IC inhaled capacity hai. Normal quiet expiration ke baad total **ERV + RV = FRC** remains.
 
-**🧠 NORCET / HP exam trick:** Normal OUT = FRC; forced MAX OUT = RV.
+**Exam trick:** Normal OUT = FRC; forced MAX OUT = RV.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -537,7 +537,7 @@
 
 **Baaki options kyun nahi?** IC = TV + IRV. Isliye IRV ke liye addition nahi, **subtraction** karna hai: 3450−500 = 2950. 3950 mL galti se add karne par aata hai.
 
-**🧠 NORCET / HP exam trick:** Total se known component minus karo.
+**Exam trick:** Total se known component minus karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -558,7 +558,7 @@
 
 **Baaki options kyun nahi?** VC = IRV + TV + ERV. TV aur ERV **dono** subtract karne honge: 4400−(500+900)=3000. Sirf ek component minus karne se answer wrong aayega.
 
-**🧠 NORCET / HP exam trick:** VC mein RV include nahi hota.
+**Exam trick:** VC mein RV include nahi hota.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -579,7 +579,7 @@
 
 **Baaki options kyun nahi?** TLC = IC + FRC. Isliye FRC = **5900−3600 = 2300 mL**. 9500 mL add karne wali common error hai; yaad karo question missing capacity maang raha hai.
 
-**🧠 NORCET / HP exam trick:** IC + FRC = TLC; capacity formula memorize karo.
+**Exam trick:** IC + FRC = TLC; capacity formula memorize karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -610,7 +610,7 @@
 
 **Baaki options kyun nahi?** RR ka unit breaths/min aur TV ka unit mL/breath hai; multiplication se **mL/min** aayega. 17×400=6800 mL/min, phir 1000 se divide = 6.8 L/min.
 
-**🧠 NORCET / HP exam trick:** Unit conversion chhodi toh answer galat ho sakta hai.
+**Exam trick:** Unit conversion chhodi toh answer galat ho sakta hai.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -631,7 +631,7 @@
 
 **Baaki options kyun nahi?** Pehle **8.1 L = 8100 mL** banao. Fir RR = MV/TV = 8100/450=18/min. 8.1 ko 450 se direct divide karna unit mistake hogi.
 
-**🧠 NORCET / HP exam trick:** RR nikalna ho → MV ÷ TV.
+**Exam trick:** RR nikalna ho → MV ÷ TV.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -652,7 +652,7 @@
 
 **Baaki options kyun nahi?** MV 7.2 L/min = **7200 mL/min**. TV = 7200/16 = 450 mL/breath. TV ka final unit mL/breath hona chahiye, breaths/min nahi.
 
-**🧠 NORCET / HP exam trick:** TV nikalna ho → MV ÷ RR.
+**Exam trick:** TV nikalna ho → MV ÷ RR.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -673,7 +673,7 @@
 
 **Baaki options kyun nahi?** Before 10×600 = 6000, after 15×400 = 6000 mL/min. RR badha lekin TV utna hi kam hua ki total air per minute same raha. Bas RR dekhkar conclusion mat nikalo.
 
-**🧠 NORCET / HP exam trick:** Before aur after MV dono calculate karo.
+**Exam trick:** Before aur after MV dono calculate karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -694,7 +694,7 @@
 
 **Baaki options kyun nahi?** Change = **7.5−6 = 1.5 L/min**. Percentage = 1.5 / **6 (old)** ×100 = 25%. New 7.5 se divide karoge toh 20% galat result aayega.
 
-**🧠 NORCET / HP exam trick:** Percentage change mein old denominator.
+**Exam trick:** Percentage change mein old denominator.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -725,7 +725,7 @@
 
 **Baaki options kyun nahi?** pH normal range 7.35–7.45 hai. 7.38, 7.42 aur 7.40 andar aate hain. **7.46** upper limit se upar hai. Word **outside** ko notice karo.
 
-**🧠 NORCET / HP exam trick:** Normal vs abnormal MCQ mein question wording twice padho.
+**Exam trick:** Normal vs abnormal MCQ mein question wording twice padho.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -746,7 +746,7 @@
 
 **Baaki options kyun nahi?** 9/min slow hai; 24/min aur 28/min adult rest range se fast hain. **16/min** 12–20 ke beech hai. Exercise/fever ya age se RR change ho sakta hai.
 
-**🧠 NORCET / HP exam trick:** Adult **resting** context yaad rakho.
+**Exam trick:** Adult **resting** context yaad rakho.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -767,7 +767,7 @@
 
 **Baaki options kyun nahi?** 31 mmHg normal se neeche, 48 aur 52 upar hain. **39 mmHg** usual 35–45 range mein hai. CO₂ ko pH ya PaO₂ ki range se confuse mat karna.
 
-**🧠 NORCET / HP exam trick:** PaCO₂ 35–45 mmHg.
+**Exam trick:** PaCO₂ 35–45 mmHg.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -788,7 +788,7 @@
 
 **Baaki options kyun nahi?** 87%, 91% aur 93% typical healthy adult near-sea-level teaching range se neeche hain; **98%** 95–100 mein aata hai. Altitude aur clinical targets alag ho sakte hain.
 
-**🧠 NORCET / HP exam trick:** SpO₂ (%) vs PaO₂ (mmHg) differentiate karo.
+**Exam trick:** SpO₂ (%) vs PaO₂ (mmHg) differentiate karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -809,7 +809,7 @@
 
 **Baaki options kyun nahi?** SpO₂ hemoglobin ki oxygen saturation percent hai; PaO₂ dissolved O₂ pressure mmHg hai. Dono physiology se linked hain lekin same scale nahi, isliye 97 aur 97 equal hona zaroori nahi.
 
-**🧠 NORCET / HP exam trick:** Units samajhkar question solve karo.
+**Exam trick:** Units samajhkar question solve karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -847,7 +847,7 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 
 **Baaki options kyun nahi?** TLC = VC + RV. Difference **5.4−4.1=1.3 L** RV hai. ERV, TV aur IRV VC ka part hain, lekin TLC aur VC ka difference specifically residual volume hai.
 
-**🧠 NORCET / HP exam trick:** TLC−VC = RV.
+**Exam trick:** TLC−VC = RV.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -873,7 +873,7 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 
 **Baaki options kyun nahi?** MV fixed 6.6 L = **6600 mL/min**. RR 15/min hai, TV = 6600/15=**440 mL**. RR aur TV multiply hote hain; TV nikalne ke liye divide karna hai.
 
-**🧠 NORCET / HP exam trick:** Same MV maintain = RR × TV same.
+**Exam trick:** Same MV maintain = RR × TV same.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -899,7 +899,7 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 
 **Baaki options kyun nahi?** New−old = 9.0−7.2 = 1.8 L/min. 1.8/7.2×100=**25%**. 1.8/9×100 = 20% aata hai, par new denominator wrong hai.
 
-**🧠 NORCET / HP exam trick:** Percent increase: Old MV base.
+**Exam trick:** Percent increase: Old MV base.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -925,7 +925,7 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 
 **Baaki options kyun nahi?** After quiet expiration **FRC** remains, jo **ERV + RV** hota hai. ‘Only RV’ maximum forced expiration ka endpoint hai; lungs normal breathing mein completely empty nahi hote.
 
-**🧠 NORCET / HP exam trick:** Question ke **normal** aur **maximal** words underline karo.
+**Exam trick:** Question ke **normal** aur **maximal** words underline karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -951,7 +951,7 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **Baaki options kyun nahi?** RR 18, SpO₂ 98%, PaCO₂ 41 usual textbook range mein hain, lekin pH **7.47** range **7.35–7.45** se above hai. Isliye D choose karoge. Ye exam reference check hai, diagnosis nahi.
 
-**🧠 NORCET / HP exam trick:** Har value ko apni unit aur range se compare karo.
+**Exam trick:** Har value ko apni unit aur range se compare karo.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 

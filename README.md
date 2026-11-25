@@ -2,7 +2,7 @@
 
 # 🩺 AIIMS NORCET & HP Staff Nurse — Study Resources
 
-### Detailed Hinglish notes • MCQs with reasoning • Actual paper references • Original diagrams
+### Easy Hinglish notes • English MCQs • Previous Year Questions • Diagrams
 
 **NORCET 12 + HP Staff Nurse (HPRCA) preparation**
 

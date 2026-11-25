@@ -4,7 +4,7 @@
 
 [← Previous Year Questions index](README.md) · [Respiratory chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-> **Dhyan de:** Ye 5 sawaal HP Staff Nurse ke purane exam se hain. Original questions aur options dekhne ke liye paper ka link kholo. Neeche answers easy Hinglish mein samjhaye hain.
+> **Dhyan de:** Ye 5 sawaal HP Staff Nurse ke purane paper se hain. Original English sawaal aur options ke liye paper ka link kholo. Answers neeche easy Hinglish mein hain.
 
 **[Purana question paper dekho (Series A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — Ye purane paper ki copy hai, jo ek educational website par available hai.
 
@@ -113,8 +113,8 @@ Bronchioles chhoti branching airways hoti hain jo bronchi se aage air conduct ka
 ## Paper ka source
 
 - [HPSSC Post Code 933 (Series A), scanned original English question paper](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf).
-- Correct answers ko anatomy/physiology teaching references se cross-check kiya gaya hai; yahan independently official answer-key provenance claim nahi kiya.
+- Answers medical sources se check kiye hain, lekin official answer key independently verify nahi hui.
 - Sirf Day 1 ke already studied respiratory topics list kiye hain.
-- **Dhyan de:** Original sawaal aur options paper mein hain. Neeche unki explanation Hinglish mein hai.
+- **Yaad rakho:** Original sawaal aur options paper mein hain.
 
 [← Previous Year Questions index](README.md) · [← Respiratory chapter](../README.md)

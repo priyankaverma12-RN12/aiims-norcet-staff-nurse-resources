@@ -2,7 +2,7 @@
 
 ![Respiratory anatomy — original diagram](Assets/respiratory-tract.svg)
 
-**AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Simple Hindi-English • Day 1 & Day 2 ke padhe hue topics**
+**AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Easy Roman Hinglish • Day 1 aur Day 2 ke topics**
 
 Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 

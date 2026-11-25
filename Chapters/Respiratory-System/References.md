@@ -21,13 +21,13 @@
 
 ### Important values ko kaise samjho?
 
-- **Adult resting respiratory rate:** Common nursing exam teaching **12–20/min**. Real patient factors and age matter.
-- **TV approx 500 mL** is a typical **adult teaching example**, not fixed for every person.
-- **ABG pH 7.35–7.45; PaCO₂ 35–45; HCO₃⁻ 22–26** are common educational ranges and match MedlinePlus.
-- **PaO₂:** Our standard exam table uses **80–100 mmHg** as a common sea-level textbook interval. **MedlinePlus ABG page uses 75–100 mmHg**. Isliye range ka context/source important hai; one number cannot be interpreted without patient and lab. **SpO₂ 95–100%** is a typical healthy sea-level reference—not a universal treatment target.
-- **Spirometry:** Ratio **FEV₁/FVC** ki interpretation age-appropriate reference limits/LLN se honi chahiye. 70% ko sab patients ke liye absolute diagnostic cutoff mat banana. **TLC low** confirms restrictive ventilatory impairment.
-- **Physical exam:** Tactile fremitus/consolidation and breath-sound associations are **clues**, definite diagnosis nahi.
-- **ABG four-pattern table:** Sirf **uncompensated/simple teaching examples**; real mixed or compensated disorders exist, par Day 2 mein abhi woh advanced part nahi padha.
+- **Adult RR:** Exam mein aam taur par **12–20/min** yaad rakho. Age aur health ke hisaab se value badal sakti hai.
+- **Tidal Volume:** Adult exam example mein **~500 mL** hota hai. Har patient ka TV same nahi hota.
+- **ABG values:** pH **7.35–7.45**, PaCO₂ **35–45** aur HCO₃⁻ **22–26** common exam ranges hain.
+- **PaO₂:** Hamare exam notes mein **80–100 mmHg** aur MedlinePlus mein **75–100 mmHg** diya hai. Patient ki age, altitude aur lab range matter karte hain. SpO₂ **95–100%** common sea-level reference hai, sab patients ka fixed target nahi.
+- **Spirometry:** **FEV₁/FVC** age aur reference range ke hisaab se samjho. **70%** har patient ke liye fixed cutoff nahi hai. Restriction confirm karne ke liye **TLC** chahiye.
+- **Physical exam:** Fremitus aur breath sounds sirf clues dete hain; inke basis par diagnosis confirm nahi hota.
+- **ABG patterns:** Ye simple exam examples hain. Real cases complex ho sakte hain; advanced part abhi nahi padha.
 
 ## 2. Exam ke sources — official vs purane papers
 
@@ -41,7 +41,7 @@
 
 **Exam comparison ka practical learning:** Available HP scanned paper mein direct factual anatomy/physiology questions milte hain (TV value, alveolar macrophages, external respiration, bronchioles). NORCET ke liye **same facts ke clinical-context aur calculation variants** practice karna useful hai. Isse exact future question count, repeat probability ya guaranteed cutoff calculate **nahi** hota.
 
-**Current scope:** We have **not** taught or published advanced COPD treatment, ventilator settings, full acid–base compensation, bronchoscopy techniques, or other later chapters just because they appear in other papers.
+**Abhi kya nahi padha:** COPD treatment, ventilator settings, advanced ABG compensation aur bronchoscopy details abhi include nahi hain.
 
 ## 3. MCQ checking ke rules
 
@@ -60,4 +60,4 @@
 
 ---
 
-*Educational content; current treatment decisions always need professional clinical judgment and updated local protocols.*
+*Ye exam notes hain. Real patient ka treatment doctor aur local medical protocol ke according hota hai.*

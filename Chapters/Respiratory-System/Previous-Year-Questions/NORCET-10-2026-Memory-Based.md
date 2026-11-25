@@ -1,6 +1,6 @@
 # NORCET 10 (2026) — Memory-Based Question
 
-> **Dhyan do:** Ye sawaal student memory-based source se mila hai. Isko officially verified AIIMS question mat samajhna.
+> **Dhyan de:** Ye sawaal students ki memory-based report se mila hai, official AIIMS paper se verify nahi hua.
 
 [← Previous Year Questions index](README.md) · [Chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
@@ -17,7 +17,7 @@
 
 **Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
-> **Note:** English question aur options source jaise hain. AIIMS ke official paper se exact wording confirm nahi hui.
+> **Yaad rakho:** Original AIIMS paper ki exact wording confirm nahi hui.
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
@@ -25,7 +25,7 @@
 
 **Kyun sahi?** Adult patient ka normal **resting respiratory rate** generally **12–20 breaths/min** padhaya jata hai. A mein mostly very low rate, aur C/D mein adult resting rate se high numbers diye hain.
 
-**Baaki options kyun nahi?** 'Adults' aur 'normal' important words hain; children/infants ke RR ranges alag hote hain. Patient exercise, fever, altitude ya distress mein ho toh value change kar sakti hai.
+**Baaki options kyun nahi?** A mein adult RR kam hai. C aur D mein normal se zyada rates hain. Question mein **adult** word dhyan se padho; bachchon ka normal RR alag hai.
 
 **Exam trick:** Adult resting **RR = 12–20/min**.
 

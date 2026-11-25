@@ -99,6 +99,17 @@ Avoid overly formal pure-English textbook paragraphs and overly technical Hindi 
 - Previous-paper references get short Hindi/Hinglish instructional notes, source link, exact paper question number, difficulty, English correct answer, and a distinct Hinglish exam trick for each. No repeated generic 'do not change wording' sentences.
 - Agent-facing `SKILL.md`, `AGENTS.md` and Copilot instructions may remain formal English for reliable agent interpretation; language requirement applies to **student-facing** documents.
 
+
+### Same simple Hinglish format across ALL study pages
+
+- **Roman script only** for learner-facing text. Example: `Dhyan de`, `Kyun sahi?`, `Baaki options kyun nahi?`, `Exam trick`. No Hindi-script/Devanagari letters; avoid long English-only notes.
+- **MCQ question stems and A/B/C/D options stay in ORIGINAL English word-for-word**. Never translate, reorder or rewrite. Correct answer term also stays English. Answer explanations, wrong-options reasoning, hints and question-specific exam tricks use **easy Roman Hinglish**.
+- **One consistent short note style:** `> **Dhyan de:** ...` (max 1–2 lines). Avoid repeated disclaimers and generic advice. Previous-paper instructions in Hinglish; original exam source wording remains English on source page.
+- Keep each page's navigation **Chapter | Concepts | MCQs | Previous Year Questions | Revision**, with short accessible labels.
+- Every MCQ (including mock) has **Difficulty: Easy / Medium / Difficult**, original English options, expandable detailed Hinglish explanation, and a relevant exam trick.
+- Every new push includes an **all-pages consistency audit** for Devanagari, overly complex English notices, broken links, original MCQ wording, difficulty labels, explanation blocks and repeated generic tricks.
+- Agent-instruction files may stay technical English; these student-facing rules apply to READMEs, Concepts, MCQs, mocks, Previous Year Questions and Revision.
+
 ## 5. Concepts page quality standard (substantial, not filler)
 
 For every grouped concept file include:

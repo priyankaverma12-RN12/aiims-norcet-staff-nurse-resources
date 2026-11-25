@@ -46,9 +46,16 @@ Chapters/<Chapter-Name>/
 [🏠 Repo home](README.md) · [🫁 Respiratory chapter](Chapters/Respiratory-System/README.md) · [🏥 Previous Year Question index](Chapters/Respiratory-System/Previous-Year-Questions/README.md)
 
 
-## MCQ ki language ka rule
+## MCQ ki language — dhyan de
 
-- **Every mock and original practice question**: Keep question stem and **all four options in English, word-for-word**, as initially authored. Do not translate MCQ options or question stems into Hinglish.
-- **Only detailed explanation, hints, tricks and why-other-options-wrong** may use Hinglish.
-- **Previous Year Questions**: Link the original English paper with exact question number. Never pass paraphrases off as verbatim source. Memory-based wording must be labeled.
-- Write **Previous Year Questions** in full, including folder titles and navigation labels.
+- **Har mock aur practice question:** Question aur A/B/C/D options original English mein rakho. Unka wording change mat karo.
+- **Answers, hints aur exam tricks** easy Roman Hinglish mein samjhao.
+- **Previous Year Questions:** Original English paper aur question number ka link do. Paraphrase ko original question mat bolna. Memory-based ko clearly label karo.
+- Headings aur links mein **Previous Year Questions** poora likho.
+
+
+## Roman Hinglish ka rule
+
+- Har student page par **easy Roman Hinglish** likho. Example: `Dhyan de`, `Yaad rakho`, `Kyun sahi?`.
+- **Hindi letters mat likho.** MCQ question aur options original English mein hi rakho.
+- Answer, wrong options ki explanation aur exam tricks simple Hinglish mein likho. Generic repeated lines avoid karo.

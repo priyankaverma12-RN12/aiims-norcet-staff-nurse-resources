@@ -4,7 +4,7 @@
 
 [🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
 
-> **Hamari class wali language:** Medical terms English mein hain, explanations wahi simple Hinglish mein jo humne padhte waqt use ki thi. Day 2 mein inspection, palpation, percussion, auscultation, ABG aur spirometry practice ki. Diagnostic investigations ka sirf **basic introduction** padha hai—advanced procedures abhi include nahi kar rahe.
+> **Dhyan de:** Notes easy Hinglish mein hain. IPPA, ABG aur spirometry ke basics cover hain. Diagnostic investigations ka abhi sirf intro padha hai.
 
 ## 📚 Is guide mein kya-kya hai?
 
@@ -329,12 +329,12 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 2. “pH 7.49, PaCO₂ 31, HCO₃⁻ 24?” → **Respiratory alkalosis (basic pattern)**.
 3. “FEV₁ 1.8 L, FVC 3 L. Ratio?” → (1.8/3) × 100 = **60%**.
 
-**Ab practice:** [Day 2 ke 36 MCQs Hinglish mein](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) aur [quick revision](../Revision/Day-02-Quick-Revision.md).
+**Ab practice:** [Day 2 ke 36 English MCQs + Hinglish explanations](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) aur [quick revision](../Revision/Day-02-Quick-Revision.md).
 \n\n[📝 Matching MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ---
 
-**Note:** Ye independent nursing exam notes hain, official AIIMS paper nahi. [References](../References.md).
+**Dhyan de:** Ye hamare study notes hain, official AIIMS paper nahi. [References](../References.md).
 
 
 ---
