@@ -1,52 +1,55 @@
 <div align="center">
 
-# 🩺 AIIMS NORCET & HP Staff Nurse Resources
+# 🩺 AIIMS NORCET & Staff Nurse Resources
+**Chapter-wise Concepts · MCQs · Revision Notes · Original Diagrams**
 
-### High-yield nursing notes • Concept-based MCQs • Revision sheets • Original diagrams
-
-**AIIMS NORCET 12 · HPRCA / HP Staff Nurse · Simple English + Hindi explanations**
+AIIMS NORCET 12 · HP Staff Nurse / HPRCA · Easy English + Hindi
 
 </div>
 
----
+> An expandable nursing study library. **Only topics actually studied so far are included.** New chapters will be created as they are studied, not pre-filled with unstudied content.
 
-> **Independent educational study collection.** Not an official AIIMS, NORCET, or HPRCA question bank. Questions labeled **NORCET-style** are original practice questions, not verified previous-year examination items. Follow current official notices for exam patterns and dates.
+## 📚 Nursing chapters
 
-## 📚 Chapter library
+| Chapter | Covered lessons | Resources |
+|---|---|---|
+| 🫁 **[Respiratory System](Chapters/Respiratory-System/README.md)** | Day 1: Anatomy & Physiology; Day 2: Assessment, ABG & Spirometry | [Concepts and separate topic MCQs](Chapters/Respiratory-System/README.md) |
 
-| Chapter | Day | Concept notes | Practice questions | Rapid revision |
-|---|---|---|---|---|
-| 🫁 [Respiratory System](Respiratory-System/README.md) | [Day 1: Anatomy & Physiology](Respiratory-System/Day-01-Anatomy-Physiology/README.md) | Airway, lungs, alveoli, surfactant, pleura, breathing, volumes | Topic-specific MCQs + 15-question final mock | Formulas and normal values |
-| 🫁 [Respiratory System](Respiratory-System/README.md) | [Day 2: Assessment & Diagnostics](Respiratory-System/Day-02-Assessment-Diagnostics/README.md) | IPPA, chest sounds, ABG, spirometry, investigations | Separate MCQs for each topic | Assessment and ABG quick guides |
+## 🗂️ Standard chapter organization
 
-## 🧭 How to study
+```text
+Chapters/
+└── Respiratory-System/
+    ├── README.md
+    ├── Topics/
+    │   ├── Day-01/
+    │   │   ├── 01-Airway-and-Zones/
+    │   │   │   ├── Concepts/notes.md
+    │   │   │   └── MCQs/practice.md
+    │   │   └── ... other Day 1 topics
+    │   └── Day-02/
+    │       ├── 01-Inspection/
+    │       │   ├── Concepts/notes.md
+    │       │   └── MCQs/practice.md
+    │       └── ... other Day 2 topics
+    ├── Day-01/Revision/
+    ├── Day-01/MCQs/          # Day mock
+    ├── Day-02/Revision/
+    ├── Assets/                # Editable original SVG images
+    └── References.md
+```
 
-1. Open a **Day** from the table above.
-2. Select a **Topic** and read its `Concepts/notes.md`.
-3. Attempt its `MCQs/practice.md` **before** expanding the solutions.
-4. Finish with the day's **Revision** notes and mock test.
-5. Revisit incorrect topics the next day.
+For each **new nursing chapter**, follow `Chapters/<Chapter>/Topics/<Day>/<Topic>/Concepts/` and `MCQs/`. Create folders only after that topic has been studied.
 
-## ✨ Features
+### Read → Practice → Revise
+1. Open the [Respiratory chapter](Chapters/Respiratory-System/README.md).
+2. Choose a studied topic under Day 1 or Day 2.
+3. Read the **Concepts**.
+4. Answer **MCQs** (answers hidden under expandable explanations).
+5. Review the day summary and mock.
 
-- 🗂️ Chapter → day → topic → **Concepts** and **MCQs** folder structure.
-- 🖼️ Original, editable SVG diagrams stored with the notes.
-- 🧮 Solved minute-ventilation and lung-capacity numericals.
-- 🧠 Exam-oriented memory tricks in accessible Hindi-English.
-- ✅ Answers and concise reasons hidden in expandable sections.
-- 🔎 [Reference reading](Respiratory-System/References.md) from reputable medical/nursing resources.
+**Source integrity:** Questions are **original NORCET-style practice**, not authenticated AIIMS previous-year questions. Medical teaching ranges vary with age, altitude and clinical setting. Diagnostic investigations on Day 2 are **introductory only**.
 
-## 📌 Coverage & accuracy
+[Contribution and accuracy rules](CONTRIBUTING.md)
 
-- **Day 1:** Based on the respiratory anatomy and physiology topics studied and revised in the learning sessions.
-- **Day 2:** Based on completed respiratory assessment, breath-sound, ABG and spirometry lessons; diagnostic investigations kept to **basic introductions**.
-- Some question prompts are adapted from previously practiced *original* learning questions. Additional items are expressly identified as **new original practice**; none is passed off as an authenticated AIIMS previous-year question.
-- Standard exam reference ranges are not a substitute for patient-specific clinical decisions. Oxygen values and spirometry interpretation depend on setting, altitude, age and clinical context.
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for medical fact-checking, source attribution, and question-format rules.
-
----
-
-<sub>Made for consistent daily nursing preparation. Educational content only; not individualized medical advice.</sub>
+<sub>Independent educational content; not an official AIIMS or HPRCA resource.</sub>
