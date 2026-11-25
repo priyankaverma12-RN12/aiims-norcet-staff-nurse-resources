@@ -1,31 +1,37 @@
-# Contributing — keep nursing notes easy to navigate
+# Contributing — long, readable guides; minimal navigation
 
-## Simple chapter structure
+## Standard for future nursing chapters
 
-Each **studied nursing chapter** belongs in `Chapters/<Chapter-Name>/`:
-
-```text
+~~~text
 Chapters/<Chapter-Name>/
-  README.md             # Table of contents
-  Concepts/
-    Day-XX-Meaningful-Topic-Names.md
-  MCQs/
-    Day-XX-Meaningful-Topic-Names.md
+  README.md
+  Concepts/Day-XX-Complete-Studied-Topics.md
+  MCQs/Day-XX-Complete-Studied-Topics.md
   Revision/
   Assets/
   References.md
-```
+~~~
 
-### Adding a topic after studying it
+**Only add a chapter or day after its topics have been studied.** Do not pre-populate notes on material not covered.
 
-1. **Group related concepts** into one readable topic file. Avoid dozens of tiny topic folders.
-2. Give the Markdown file a **descriptive topic-based name**. Prefix Day-01/Day-02 when useful.
-3. Add a matching file with the **same name** under `MCQs/`. Place explanations under expandable `<details>`.
-4. Update just the chapter `README.md` table. The root README should link to chapters, not every small topic.
-5. Include only content actually studied. Clearly mark introductory or incomplete areas.
-6. Validate math, medical facts, answer keys, and normal-range assumptions (age/altitude/clinical context).
-7. Illustrations must be original or appropriately licensed and attributed.
-8. Never label a question **PYQ** unless its exact previous-year exam provenance was verified.
-9. Protect patient data and private information.
+### What makes a concept file worth opening?
 
-**Principle:** Few clicks, clear filenames, content before questions.
+- Meaningful introduction and clickable Markdown table of contents.
+- Several **related studied topics together**, with headings rather than extra subfolders.
+- Correct concept explanations, clear definitions, comparisons and worked numerical/clinical *teaching* examples.
+- Memory tricks and common NORCET exam traps only on learned concepts.
+- Original SVG diagrams or appropriately licensed figures.
+- Links to the matching full-day MCQ bank and quick revision.
+
+### What makes an MCQ file useful?
+
+- At least a substantial grouped question bank, rather than a single short topic fragment.
+- Distinct topic headings and clear numbering.
+- Four plausible options with one defensible best answer unless explicitly multiple-select.
+- Solution and reasoning hidden inside \`<details><summary>Answer & explanation</summary>\`.
+- Medical statements and calculations checked.
+- Accurate provenance: say **original NORCET-style MCQ** unless the exact past exam paper is independently verified.
+
+Keep source references and clinical caveats accurate. In particular, interpretation of oxygen ranges varies with patient context and altitude. Never publish private patient or learner data without permission.
+
+**Core principle:** *Chapter → Day guide / Day MCQ bank* — minimal clicks, thorough material, no unstudied topics.

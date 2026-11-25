@@ -1,50 +1,51 @@
 <div align="center">
 
 # 🩺 AIIMS NORCET & Staff Nurse Resources
-**Nursing chapters · Concise concepts · Topic-based MCQs · Original diagrams**
 
-AIIMS NORCET 12 • HP Staff Nurse / HPRCA • Easy English + Hindi
+### Comprehensive notes · MCQ question banks · Revision · Original diagrams
+
+**NORCET 12 • HP Staff Nurse / HPRCA • Easy English + Hindi**
 
 </div>
 
-> **Only studied topics are published.** New nursing chapters will be added later when they are actually studied.
+> An expanding, independent nursing study library. Only previously studied chapters and topics are published; new ones will be added **after** studying them.
 
-## 📚 Your nursing chapters
+## 📚 Nursing chapters
 
-| Chapter | What is available |
-|---|---|
-| 🫁 **[Respiratory System](Chapters/Respiratory-System/README.md)** | Day 1 anatomy & physiology; Day 2 assessment, ABG, spirometry and basic investigations. Separate [Concepts](Chapters/Respiratory-System/Concepts) and [MCQs](Chapters/Respiratory-System/MCQs). |
+| Available chapter | Comprehensive study guides | Practice question banks |
+|---|---|---|
+| **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1: Anatomy & Physiology](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2: Assessment & Diagnostics](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [Day 1: 40 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2: 36 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) |
 
-## 🔎 Fast navigation
+## 🧭 Two clicks to study
 
-**[Open Respiratory System →](Chapters/Respiratory-System/README.md)**
+1. Open the **Respiratory System** chapter.
+2. Choose **Day 1** or **Day 2**, then its **Concepts** or **MCQs** link.
 
-Inside the chapter, all topics are grouped into just six clearly named files in each of two folders:
+Each concept guide is a **full study document** with a table of contents, labeled diagrams, tables, worked examples, memory tricks and exam traps. Each MCQ bank has topic sections with expandable solutions.
 
-- **Concepts:** read notes for a topic group.
-- **MCQs:** open the matching filename for questions and expandable explanations.
+## 📂 Folder standard for future nursing chapters
 
-Day-specific revision, a final mock, and diagrams are linked from the chapter home.
-
-### Folder standard for future chapters
-
-```text
+~~~text
 Chapters/
-└── <Nursing-Chapter>/
-    ├── README.md           # Chapter overview and links
-    ├── Concepts/           # Day-XX-Actual-Topics-Covered.md
-    ├── MCQs/               # Same filename for matching practice
-    ├── Revision/           # Short revision summaries
-    └── Assets/             # Original/appropriately licensed figures
-```
+└── <Chapter-Name>/
+    ├── README.md
+    ├── Concepts/
+    │   ├── Day-01-Complete-Studied-Topics.md
+    │   └── Day-02-Complete-Studied-Topics.md
+    ├── MCQs/
+    │   ├── Day-01-Complete-Studied-Topics.md
+    │   └── Day-02-Complete-Studied-Topics.md
+    ├── Revision/
+    └── Assets/
+~~~
 
-This design stays flat — **no per-topic subfolders** and no empty folders for unstudied chapters.
+**Principle:** Keep navigation flat; combine closely related topics into documents substantial enough to read. Never add unstudied material just to fill out a folder.
 
-### Integrity & use
-- All questions are original NORCET-style practice, **not authenticated AIIMS previous-year items**.
-- Some original practice examples are new variants of the concepts studied; they are not transcripts of all previously attempted questions.
-- Medical values are exam reference ranges; their clinical interpretation depends on context and altitude.
+### Accuracy and scope
 
-[How to contribute](CONTRIBUTING.md) · [Chapter sources](Chapters/Respiratory-System/References.md)
+- These are educational, independently authored NORCET-style resources, not official AIIMS/HPRCA material.
+- Practice questions are not claimed to be authenticated past-year questions.
+- Some examples are original variations of questions practiced in study sessions.
+- Normal-value reference tables are for learning and can differ with altitude, age and clinical context.
 
-<sub>Independent educational notes — not affiliated with AIIMS or HPRCA.</sub>
+[Contribution guidelines](CONTRIBUTING.md) · [Clinical source reading](Chapters/Respiratory-System/References.md)
