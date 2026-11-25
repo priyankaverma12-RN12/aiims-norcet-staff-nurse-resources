@@ -485,7 +485,7 @@
 
 ![Exam revision diagram — Spirometry — FEV1, FVC aur ratios](../Assets/spirometry-ratio.svg)
 
-[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev-fvc-aur-ratio) · [📚 PYQs](../PYQs/README.md)
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev₁-fvc-aur-ratio) · [📚 PYQs](../PYQs/README.md)
 
 
 ### Q23. Spirometry mein **FEV₁** kis duration ki forced expired air measure karta hai?
