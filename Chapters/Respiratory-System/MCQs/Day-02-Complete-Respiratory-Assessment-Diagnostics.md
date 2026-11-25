@@ -31,6 +31,12 @@
 
 **B.** **Inspection** pehle hota hai: patient ko dekhkar breathing observe karte hain.
 
+**Baaki options kyun nahi?** Palpation mein hand se feel, percussion mein tap, auscultation mein stethoscope use hota hai. **Inspection** mein nurse pehle visual signs—RR, symmetry, work of breathing—observe karti hai.
+
+**🧠 NORCET / HP exam trick:** IPPA = Dekho, Feel, Tap, Suno.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q2. Chest movement dono sides equal hai ya nahi, ye pehle kis technique se observe kar sakte hain?
@@ -44,6 +50,12 @@
 
 **A.** **Inspection** mein chest ka rise/fall aur symmetry **dekhte** hain.
 
+**Baaki options kyun nahi?** **Chest expansion symmetry** eyes se dekh sakte hain; fremitus ko touch se feel karna padta hai. Percussion note tapping se aur breath sounds stethoscope se assess karte hain.
+
+**🧠 NORCET / HP exam trick:** Method ko observation ke verb se match karo.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q3. Resting adult RR 26/min hai. Isko kya kehte hain?
@@ -56,6 +68,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** Common adult resting RR 12–20/min hai. **26/min fast** hai, so **tachypnea**.
+
+**Baaki options kyun nahi?** Tachypnea fast breathing hai. Bradypnea slow, apnea breathing absent hoti hai. RR 26/min adult resting 12–20 se upar hai, isliye option C best hai.
+
+**🧠 NORCET / HP exam trick:** RR normal value ke saath clinical context bhi dekhna chahiye.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -80,6 +98,12 @@
 
 **A.** **Chest expansion** palpation se feel karke compare ki jaati hai.
 
+**Baaki options kyun nahi?** **Chest expansion** dono hemithorax mein hands se compare hoti hai. Percussion sound tapping se aur bronchial sound stethoscope se sunte hain. PaCO₂ ABG ka component hai, haath se nahi milta.
+
+**🧠 NORCET / HP exam trick:** Palpation = chest movement feel.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q5. Patient bolta hai aur nurse chest wall par vibration **feel** karti hai. Isko kya kehte hain?
@@ -92,6 +116,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** Ye **tactile fremitus** hai: bolne par chest wall pe feel hone wali vibration.
+
+**Baaki options kyun nahi?** **Fremitus** patient bolte waqt palpable vibration hai. Resonance percussion sound hai; wheeze aur stridor breath sounds hain. Question mein FEEL word ek clue hai.
+
+**🧠 NORCET / HP exam trick:** Voice vibration feel = tactile fremitus.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -106,6 +136,12 @@
 
 **C.** **Consolidation** mein agar bronchus open ho toh voice vibrations better transmit ho sakti hain.
 
+**Baaki options kyun nahi?** Consolidated lung tissue, agar bronchus patent/open hai, vibration ko better conduct kar sakta hai. Pleural effusion/pneumothorax mein pleural space vibration ko insulate karta hai, toh fremitus often **decreased** hoti hai.
+
+**🧠 NORCET / HP exam trick:** Increased = consolidation (open airway); decreased = fluid/air around lung.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q7. Normal trachea usually kis position mein hoti hai?
@@ -118,6 +154,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** Trachea normally approximately **midline** hoti hai.
+
+**Baaki options kyun nahi?** Right/left deviation normal finding nahi. Trachea normally approximately **midline** feel hoti hai; abnormal deviation urgent broader assessment ki indication ho sakta hai.
+
+**🧠 NORCET / HP exam trick:** Trachea position ko isolated diagnosis na banao.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -142,6 +184,12 @@
 
 **B.** Healthy aerated lung pe usual percussion note **resonant** hota hai.
 
+**Baaki options kyun nahi?** Healthy peripheral lung normal air-filled hota hai, isliye **resonant** note aata hai. Dullness dense/fluid tissue se; flatness bone/muscle pe, tympany hollow gas structures se hota hai.
+
+**🧠 NORCET / HP exam trick:** Normal lung percussion = resonant.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q9. Pleural effusion ke area par percussion usually kaisa hota hai?
@@ -154,6 +202,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** Fluid sound ko dull banata hai, so pleural effusion mein **dullness** mil sakti hai.
+
+**Baaki options kyun nahi?** Pleural fluid sound ko dampen karta hai, isliye **dullness** expected hai. Hyperresonance extra air mein, tympany air-filled hollow structure mein zyada hota hai.
+
+**🧠 NORCET / HP exam trick:** Effusion = dull; pneumothorax = hyperresonant (often).
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -168,6 +222,12 @@
 
 **A.** Hyperresonance **extra air** suggest karta hai, e.g., pneumothorax. Alone diagnosis confirm nahi karta.
 
+**Baaki options kyun nahi?** **Hyperresonance** excessive air se associated hai. Consolidation/effusion dense tissue ya fluid ke karan generally dull note dete hain; bone flat ho sakti hai.
+
+**🧠 NORCET / HP exam trick:** Extra air vs fluid ko separate rakho.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q11. Percussion ko accurately compare karne ke liye nurse kya kare?
@@ -180,6 +240,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** Right aur left ki **corresponding areas** ko compare karna chahiye.
+
+**Baaki options kyun nahi?** Reliable comparison ke liye same level par right-left side alternating assess karo. Sirf sternum ya ek apex se compare nahi ho payega; clothing ke through tap karna sound distort kar sakta hai.
+
+**🧠 NORCET / HP exam trick:** Percussion symmetric sites pe karo.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -204,6 +270,12 @@
 
 **B.** **Vesicular** breath sound normally peripheral lungs mein soft aur low pitched hoti hai.
 
+**Baaki options kyun nahi?** **Vesicular** soft normal peripheral sound hai. Bronchial trachea ke paas normal; stridor urgent upper-airway sound aur pleural rub abnormal grating hai.
+
+**🧠 NORCET / HP exam trick:** Sound ka quality ke saath location bhi important.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q13. Musical, high-pitched continuous sound ko kya kehte hain?
@@ -216,6 +288,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Wheeze** musical whistle jaisi sound hai, usually narrowed airways se associated.
+
+**Baaki options kyun nahi?** **Wheeze** musical/whistling sound hota hai, usually narrowed airways mein. Crackles pops, friction rub grating, absent sounds air movement kam hone ka observation hai.
+
+**🧠 NORCET / HP exam trick:** Musical continuous = wheeze.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -230,6 +308,12 @@
 
 **C.** Popping/discontinuous sounds **crackles (rales)** hote hain.
 
+**Baaki options kyun nahi?** **Crackles** short discontinuous popping sounds hain; stridor upper-airway harsh, rhonchi low/coarse snoring aur normal bronchial breath sound tubular hota hai.
+
+**🧠 NORCET / HP exam trick:** Popping = crackles; musical = wheeze.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q15. Neck ke paas harsh inspiratory sound hai jo upper-airway obstruction suggest kare. Kya sound hai?
@@ -243,6 +327,12 @@
 
 **D.** Ye **stridor** hai. Upper airway obstruction ho sakta hai aur urgent assessment important hai.
 
+**Baaki options kyun nahi?** **Stridor** usually upper airway mein harsh, mostly inspiratory hota hai. Rhonchi low pitched; vesicular normal peripheral; crackles popping. Ye sound upper-airway obstruction ki possibility batata hai.
+
+**🧠 NORCET / HP exam trick:** Stridor + difficulty breathing = urgent clinical assessment.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q16. Pleural surfaces mein rubbing/grating sound ko kya kehte hain?
@@ -255,6 +345,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** Ye **pleural friction rub** hai, jo inflamed pleural surfaces se associated hai.
+
+**Baaki options kyun nahi?** **Pleural friction rub** pleural surfaces ki rubbing/creaking se hota hai. Wheeze airway narrowing, bronchovesicular normal intermediary breath sound aur rhonchi low pitched secretion-like sound hai.
+
+**🧠 NORCET / HP exam trick:** Rub = pleura friction; wheeze = narrowed airway.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -279,6 +375,12 @@
 
 **A.** pH **low** aur PaCO₂ **high** hai; HCO₃⁻ normal hai. Basic pattern = **respiratory acidosis**.
 
+**Baaki options kyun nahi?** pH **7.29** low (acidemia). PaCO₂ **53** high, jo pH ko acidic direction mein push karta hai. HCO₃⁻ 24 usual normal, isliye **primary respiratory acidosis**. Metabolic acidosis hoti toh HCO₃⁻ low hota.
+
+**🧠 NORCET / HP exam trick:** ABG sequence: pH → CO₂ → HCO₃⁻.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q18. ABG: pH 7.49, PaCO₂ 31, HCO₃⁻ 24. Correct basic interpretation kya hai?
@@ -291,6 +393,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** pH **high**, CO₂ **low**, HCO₃⁻ usual range mein → **respiratory alkalosis**.
+
+**Baaki options kyun nahi?** pH **7.49** high = alkalemia. PaCO₂ **31** low, CO₂ kam hone se pH high direction mein jaata hai. HCO₃⁻ 24 normal; primary respiratory alkalosis. Respiratory acidosis mein CO₂ high hota.
+
+**🧠 NORCET / HP exam trick:** CO₂ aur pH opposite direction in primary respiratory disorders.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -305,6 +413,12 @@
 
 **C.** pH **low** + HCO₃⁻ **low** → **metabolic acidosis**, simple teaching pattern.
 
+**Baaki options kyun nahi?** pH **7.27** low. HCO₃⁻ **17** low, metabolic component se acidity badh rahi hai. PaCO₂ 40 common normal range mein. Metabolic alkalosis mein bicarbonate high hota.
+
+**🧠 NORCET / HP exam trick:** HCO₃⁻ down + pH down = metabolic acidosis.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q20. ABG mein **respiratory acid-base component** mainly kaunsa parameter batata hai?
@@ -317,6 +431,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **PaCO₂** respiratory component hai. HCO₃⁻ metabolic component hai.
+
+**Baaki options kyun nahi?** **PaCO₂** lungs ki CO₂ removal ko reflect karta hai, isliye respiratory acid-base component hai. HCO₃⁻ metabolic; PaO₂ oxygenation; hemoglobin oxygen transport se related hai.
+
+**🧠 NORCET / HP exam trick:** CO₂ = respiratory; HCO₃⁻ = metabolic.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -331,6 +451,12 @@
 
 **A.** Usual arterial pH **7.35–7.45** hota hai.
 
+**Baaki options kyun nahi?** pH interval **7.35–7.45** usual textbook range hai. B aur D acidic-side ranges, C alkaline-side range hai. Sirf last digit nahi, complete decimal range dekho.
+
+**🧠 NORCET / HP exam trick:** pH normal 7.35–7.45; PaCO₂ normal 35–45.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q22. ABG: pH 7.48, PaCO₂ 40, HCO₃⁻ 30. Kya primary pattern hai?
@@ -343,6 +469,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** pH **high** aur HCO₃⁻ **high** → **metabolic alkalosis**.
+
+**Baaki options kyun nahi?** pH **7.48** alkalemic, HCO₃⁻ **30** high, PaCO₂ 40 normal: primary **metabolic alkalosis**. Respiratory alkalosis mein mainly CO₂ kam hota; acidosis patterns mein pH low hota.
+
+**🧠 NORCET / HP exam trick:** Uncompensated textbook example; actual patient ABG complex ho sakta hai.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -367,6 +499,12 @@
 
 **A.** FEV₁ = forced expiration ke **first 1 second** ka volume.
 
+**Baaki options kyun nahi?** FEV₁ ka '1' exactly **first second of forced exhalation** ko show karta hai. Normal quiet breath, 3 sec ya full expiration FEV₁ ki definition nahi.
+
+**🧠 NORCET / HP exam trick:** FEV₁ = forced expiratory volume in ONE second.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q24. **FVC** ka meaning kya hota hai?
@@ -379,6 +517,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** FVC = maximum inspiration ke baad **total forcefully expired volume**.
+
+**Baaki options kyun nahi?** **FVC** patient maximal inhale ke baad forcefully exhale kar sakti total volume hai. RV remaining air hota hai, TV ordinary breath aur PEF ek flow rate hai—not total forced expired volume.
+
+**🧠 NORCET / HP exam trick:** FVC = total exhaled; FEV₁ = first second.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -393,6 +537,12 @@
 
 **C.** (2.4 ÷ 3.2) × 100 = **75%**.
 
+**Baaki options kyun nahi?** Correct numerator **FEV₁=2.4 L**, denominator **FVC=3.2 L**. (2.4/3.2)×100=**75%**. Inverse ratio ya bina 100 multiply wrong ho jayega.
+
+**🧠 NORCET / HP exam trick:** FEV₁/FVC = fraction first second; interpret with reference criteria.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q26. Simple spirometry se kaunsa volume directly measure **nahi** kar sakte?
@@ -405,6 +555,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **RV** lungs mein maximum expiration ke baad bachi air hai, isliye simple spirometry directly measure nahi karti.
+
+**Baaki options kyun nahi?** **RV** maximum forced expiration ke baad lungs mein remain karta hai, isliye routine simple spirometry isko measure nahi karti. FEV₁ aur FVC forced exhalation se milte hain; TV bhi basic breathing maneuver se assess ho sakta hai.
+
+**🧠 NORCET / HP exam trick:** Simple spirometry → RV not directly measurable.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -419,6 +575,12 @@
 
 **A.** Reduced ratio **airflow obstruction** suggest karta hai. Correct interpretation context aur reference values par depend karti hai.
 
+**Baaki options kyun nahi?** Reduced **FEV₁/FVC** airflow obstruction suggest karta hai. Sirf ratio se specific disease ya edema diagnose nahi; restriction confirm karne ke liye TLC chahiye.
+
+**🧠 NORCET / HP exam trick:** Fixed 70% universal cutoff mat samajhna; age-dependent reference values important.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q28. FVC low ho aur FEV₁/FVC preserved ho, toh kya conclusion sahi hai?
@@ -431,6 +593,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** Restriction **suspect** ho sakti hai, lekin **TLC** measure kiye bina confirm nahi hoti.
+
+**Baaki options kyun nahi?** Low FVC se restriction suspect ho sakti hai **par confirm nahi**. TLC low hona confirmatory hai. FVC low obstruction, effort aur other factors se bhi ho sakti hai, isliye baaki options too absolute hain.
+
+**🧠 NORCET / HP exam trick:** Low FVC ≠ confirmed restriction.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -455,6 +623,12 @@
 
 **A.** **Pulse oximeter** SpO₂ percentage estimate karta hai.
 
+**Baaki options kyun nahi?** **Pulse oximeter** finger pe clip se SpO₂ estimate karta hai. Spirometer airflow measure, percussion hammer tapping aur stethoscope sounds sunta hai.
+
+**🧠 NORCET / HP exam trick:** SpO₂ = percentage; PaO₂ = pressure.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q30. Arterial pH aur PaCO₂ kaunsa investigation provide karta hai?
@@ -468,6 +642,12 @@
 
 **B.** **ABG (arterial blood gas)** pH, PaCO₂ aur PaO₂ jaise parameters batata hai.
 
+**Baaki options kyun nahi?** **ABG** arterial sample se pH aur PaCO₂ deta hai. CXR image deta, spirometry airflow aur auscultation sounds batata hai. In methods ko interchange mat karna.
+
+**🧠 NORCET / HP exam trick:** ABG = oxygenation + acid-base assessment.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q31. Forced expiratory airflow aur volume kis basic test mein measure hota hai?
@@ -480,6 +660,12 @@
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** **Spirometry** forced airflow aur expiratory volumes assess karti hai.
+
+**Baaki options kyun nahi?** Forced expiratory flow/volume **spirometry** assess karti hai. Sputum culture microorganisms, pulse oximetry saturation aur CXR chest anatomy image assess karta hai.
+
+**🧠 NORCET / HP exam trick:** Spirometry = FEV₁, FVC, ratio.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -511,6 +697,12 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 
 **B.** Ye **palpation** hai: tactile fremitus ko haath se feel kiya jaata hai.
 
+**Baaki options kyun nahi?** Question mein nurse vibration **hands se feel** kar rahi hai—ye tactile **fremitus / palpation** hai. Auscultation mein stethoscope se sound suna jaata hai; percussion tapping hoti hai.
+
+**🧠 NORCET / HP exam trick:** 'ninety-nine' + feel = palpation.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q33. ABG: pH 7.50, PaCO₂ 30, HCO₃⁻ 24. Basic primary pattern kya hai?
@@ -528,6 +720,12 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** pH high + PaCO₂ low → **respiratory alkalosis** (simple uncompensated example).
+
+**Baaki options kyun nahi?** pH **7.50** above normal hai; PaCO₂ **30** below normal, HCO₃⁻ normal hai. Primary respiratory alkalosis ki pattern banti hai. Acidosis mein pH low hota.
+
+**🧠 NORCET / HP exam trick:** pH high + CO₂ low = respiratory alkalosis.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
@@ -547,6 +745,12 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 
 **B.** **Stridor**. Ye upper-airway obstruction ka possible sign hai, so urgent assessment chahiye.
 
+**Baaki options kyun nahi?** **Stridor** loud harsh upper-airway noise hai, inspiration mein prominent ho sakti hai. Vesicular normal soft, crackles pops, rhonchi low snoring hain. Stridor ko routine wheeze mat samajhna.
+
+**🧠 NORCET / HP exam trick:** Upper airway sign, urgent attention needed.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q35. FEV₁ = 1.8 L aur FVC = 3.0 L. FEV₁/FVC × 100 kitna?
@@ -565,6 +769,12 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 
 **B.** 1.8 ÷ 3.0 × 100 = **60%**. Ye mathematical ratio hai; interpretation ke liye appropriate reference criteria dekhne honge.
 
+**Baaki options kyun nahi?** (1.8/3.0)×100 = **60%**. Agar 3.0/1.8 karoge ratio invalid ho jayega; answer options mein correct 60% B hai. Exact interpretation age/sex/height reference limits se hogi.
+
+**🧠 NORCET / HP exam trick:** FEV₁ first second / FVC full forced exhalation.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
+
 </details>
 
 ### Q36. Student kehti hai 'Low FVC se restrictive lung disease confirm hoti hai.' Is statement ko kaise correct karoge?
@@ -582,6 +792,12 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Low FVC alone restriction confirm nahi karta**. Restriction confirm karne ke liye **TLC** chahiye.
+
+**Baaki options kyun nahi?** **Low FVC alone restriction prove nahi karti**; TLC measurement se confirm hoti hai. Options 'always normal' aur 'always obstructive' bhi galat hain. Spirometry RV directly measure nahi karti.
+
+**🧠 NORCET / HP exam trick:** ATS/ERS interpretation: low FVC may suggest, not prove, restriction.
+
+[📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../PYQs/README.md)
 
 </details>
 
