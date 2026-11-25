@@ -4,25 +4,25 @@
 
 [← Previous Year Questions index](README.md) · [Respiratory chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-> **Note:** Ye 5 sawaal purane HP Staff Nurse paper se hain. Original English questions aur A/B/C/D options dekhne ke liye paper ka link kholo. Neeche answers easy Hindi mein samjhaye hain.
+> **ध्यान दें:** ये 5 सवाल हिमाचल प्रदेश स्टाफ नर्स की पुरानी परीक्षा से हैं। सवाल और उनके विकल्प देखने के लिए दिए गए पेपर का लिंक खोलें। नीचे जवाब आसान हिंदी में समझाए गए हैं।
 
-**[Open the original English question booklet (Series A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — Third-party hosted historical scan; government-hosted publication ka claim nahi.
+**[पुराना प्रश्नपत्र देखें (सीरीज़ A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — यह पुराने प्रश्नपत्र की कॉपी है, जो एक दूसरी वेबसाइट पर उपलब्ध है।
 
-## Original English questions — source links by booklet number
+## पुराने प्रश्नपत्र के सवाल
 
-| Booklet question | Page in scan | Studied topic | Correct answer | Exact original wording |
+| सवाल नंबर | पेज | विषय | सही जवाब | मूल सवाल देखें |
 |---|---:|---|---|---|
-| **Q3** | 3 | Alveolar macrophages / wandering phagocytes | **A. Alveolar macrophages** | [Read Q3 and all options in English](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3) |
-| **Q20** | 6 | Normal adult tidal volume | **D. 500 mL** | [Read Q20 and all options in English](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6) |
-| **Q35** | 8 | External respiration / alveolar gas exchange | **A. External respiration** | [Read Q35 and all options in English](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8) |
-| **Q67** | 13 | Definition of tidal volume | **B. Tidal volume** | [Read Q67 and all options in English](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13) |
-| **Q113** | 20 | Bronchioles / narrow airways of the lungs | **B. Bronchioles** | [Read Q113 and all options in English](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20) |
+| **Q3** | 3 | Alveolar macrophages / wandering phagocytes | **A. Alveolar macrophages** | [सवाल 3 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3) |
+| **Q20** | 6 | Normal adult tidal volume | **D. 500 mL** | [सवाल 20 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6) |
+| **Q35** | 8 | External respiration / alveolar gas exchange | **A. External respiration** | [सवाल 35 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8) |
+| **Q67** | 13 | Definition of tidal volume | **B. Tidal volume** | [सवाल 67 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13) |
+| **Q113** | 20 | Bronchioles / narrow airways of the lungs | **B. Bronchioles** | [सवाल 113 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20) |
 
-## Hinglish explanations (question text original paper mein hi padho)
+## आसान हिंदी में जवाबों की व्याख्या
 
 ### Question 3 — Alveolar macrophages / wandering phagocytes
 
-**[Open original question 3, page 3 — read EXACT English stem and A/B/C/D options](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)**
+**[सवाल 3 (पेज 3) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)**
 
 <details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
 
@@ -38,7 +38,7 @@ Alveolar macrophages **phagocytosis** ke through dust, germs aur foreign particl
 
 ### Question 20 — Normal adult tidal volume
 
-**[Open original question 20, page 6 — read EXACT English stem and A/B/C/D options](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)**
+**[सवाल 20 (पेज 6) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)**
 
 <details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
 
@@ -54,7 +54,7 @@ Ek **normal quiet breath** mein inspired/expired air ko tidal volume (TV) kehte 
 
 ### Question 35 — External respiration / alveolar gas exchange
 
-**[Open original question 35, page 8 — read EXACT English stem and A/B/C/D options](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)**
+**[सवाल 35 (पेज 8) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)**
 
 <details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
 
@@ -70,7 +70,7 @@ Ek **normal quiet breath** mein inspired/expired air ko tidal volume (TV) kehte 
 
 ### Question 67 — Definition of tidal volume
 
-**[Open original question 67, page 13 — read EXACT English stem and A/B/C/D options](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)**
+**[सवाल 67 (पेज 13) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)**
 
 <details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
 
@@ -86,7 +86,7 @@ Normal breathing mein ek breath se andar-bahar move hone wali air **TV** hai. Vi
 
 ### Question 113 — Bronchioles / narrow airways of the lungs
 
-**[Open original question 113, page 20 — read EXACT English stem and A/B/C/D options](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)**
+**[सवाल 113 (पेज 20) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)**
 
 <details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
 
@@ -100,11 +100,11 @@ Bronchioles chhoti branching airways hoti hain jo bronchi se aage air conduct ka
 
 </details>
 
-## Source and accuracy
+## जानकारी का स्रोत
 
 - [HPSSC Post Code 933 (Series A), scanned original English question paper](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf).
 - Correct answers ko anatomy/physiology teaching references se cross-check kiya gaya hai; yahan independently official answer-key provenance claim nahi kiya.
 - Sirf Day 1 ke already studied respiratory topics list kiye hain.
-- **Repository policy:** Exact paper wording na badlo. Original wording aur options padhne ke liye source document kholna hoga; upar answers aur explanations study notes hain.
+- **ध्यान दें:** असली सवाल और विकल्प मूल प्रश्नपत्र में हैं। यहाँ उनके जवाब समझाए गए हैं।
 
 [← Previous Year Questions index](README.md) · [← Respiratory chapter](../README.md)
