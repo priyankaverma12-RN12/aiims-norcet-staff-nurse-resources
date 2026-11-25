@@ -74,11 +74,11 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 
 **Chapter README** must be a **useful table of contents** (not 2–3 empty lines). Include a concise chapter introduction, studied-coverage/status table, **topic group → Concepts → English MCQs → Previous Year Questions → video teaching → video MCQ practice → revision** columns/links, embedded chapter overview diagram, and clear next-study navigation. Keep the root README navigable without duplicating the whole chapter's notes.
 
-## 4. Language contract (non-negotiable)
+## 4. Language and consistent learner-page formatting (non-negotiable)
 
 | Content part | Required language |
 |---|---|
-| **Concept teaching, explanations, summaries, mnemonics** | **Easy Hinglish**: simple English + Roman Hindi, as if teaching a nursing fresher; medical terminology English |
+| **Concept teaching, explanations, summaries, mnemonics** | **Easy Hinglish**: simple English + Roman Hindi, as if teaching a nursing fresher; medical terminology English. Preserve a specific short Devanagari note when the user expressly requests it. |
 | **MCQ stem + EVERY answer option (A/B/C/D)** | **English only**, original wording exactly as first authored or preserved in source |
 | **Labels/metadata** | English: `Easy`, `Medium`, `Difficult`, Exam focus, source status |
 | **Correct answer** | Original English answer text/letter |
@@ -88,6 +88,16 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 **Never translate or rewrite an existing MCQ's English stem/options**; for previously asked chat MCQs, recover the exact words if possible. If unrecoverable, write a **NEW ORIGINAL** question in English and label it accordingly. Preserve capitalization, units and options, correct factual errors by noting the correction and source rather than silently changing a previously used test question. Do not use invented official previous-paper wording.
 
 Avoid overly formal pure-English textbook paragraphs and overly technical Hindi terms. Explain technical words at first appearance. Don't use the prohibited shorthand "PYMCQ": always spell out **Previous Year Questions** (full name in folder, labels and navigation).
+
+
+### Keep the same simple style on ALL learner-facing pages
+
+- Apply one consistent concise **Hinglish** style to chapter/readme navigation, concept explanations, study instructions, mock introductions, previous-paper index, result commentary, and revision sheets. Do not leave long all-English disclaimer/policy paragraphs in learner-facing pages. Avoid repeating the same generic caveat after every question.
+- Use short friendly notices, for example: `> **Dhyan do:** Sawaal aur A/B/C/D options English mein hain. Answers Hinglish mein samjhaye hain.` Explain source uncertainty simply, without a multi-paragraph legalistic policy preamble.
+- Keep **question stems, four options and original source titles verbatim English**. Do NOT translate the MCQ itself into Hinglish. For authentic-source questions, cite original scan if it cannot be reproduced faithfully.
+- Reuse the same navigation: `Chapter · Concepts · MCQs · Previous Year Questions · Revision` at start/end. On each MCQ, show a `Difficulty` and `Exam focus` label after unchanged English options, and a clear expandable answer with Hinglish rationale.
+- Previous-paper references get short Hindi/Hinglish instructional notes, source link, exact paper question number, difficulty, English correct answer, and a distinct Hinglish exam trick for each. No repeated generic 'do not change wording' sentences.
+- Agent-facing `SKILL.md`, `AGENTS.md` and Copilot instructions may remain formal English for reliable agent interpretation; language requirement applies to **student-facing** documents.
 
 ## 5. Concepts page quality standard (substantial, not filler)
 

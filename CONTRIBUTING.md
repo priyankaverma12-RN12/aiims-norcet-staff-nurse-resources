@@ -46,7 +46,7 @@ Chapters/<Chapter-Name>/
 [🏠 Repo home](README.md) · [🫁 Respiratory chapter](Chapters/Respiratory-System/README.md) · [🏥 Previous Year Question index](Chapters/Respiratory-System/Previous-Year-Questions/README.md)
 
 
-## Exact English MCQ wording rule
+## MCQ ki language ka rule
 
 - **Every mock and original practice question**: Keep question stem and **all four options in English, word-for-word**, as initially authored. Do not translate MCQ options or question stems into Hinglish.
 - **Only detailed explanation, hints, tricks and why-other-options-wrong** may use Hinglish.

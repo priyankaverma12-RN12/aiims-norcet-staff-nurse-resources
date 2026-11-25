@@ -10,11 +10,11 @@
 
 > Ye hamari step-by-step nursing preparation ka repo hai. **Sirf wohi topics publish hote hain jo humne actually padhe hain.** Medical words English mein, explanation simple Hindi-English mein.
 
-## 📌 Permanent GitHub publishing rules
+## 📌 GitHub par notes kaise add karenge?
 
-**Jab bhi hum bolen "push this to GitHub"**, please follow the full [Nursing Study Publisher SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Rules: studied content only; detailed Hinglish Concepts; **original English** MCQ questions and all options; Easy/Medium/Difficult tags; detailed reasoning; separate sourced Previous Year Questions; verified YouTube teaching and MCQ videos; diagrams; and working cross-links.
+**Jab bhi hum bolen "push this to GitHub"**, ye rules follow honge: [Nursing Study Publisher SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Sirf padhe hue topics, detailed Hinglish Concepts, **unchanged English MCQs/options**, Easy/Medium/Difficult labels, detailed answers, sourced Previous Year Questions, useful YouTube videos aur diagrams add karenge.
 
-For GitHub agent support: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.md](.github/copilot-instructions.md).
+GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.md](.github/copilot-instructions.md).
 
 ## 📚 Abhi available chapter
 

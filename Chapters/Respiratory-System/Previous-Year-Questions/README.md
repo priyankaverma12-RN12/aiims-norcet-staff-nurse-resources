@@ -1,23 +1,23 @@
-# Previous Year Questions — Respiratory System
+# 📚 Previous Year Questions — Respiratory System
 
-**Previous Year Questions (full name) • Source-linked • English question wording preserved at original source**
+**Sirf hamare padhe hue respiratory topics se related papers.**
 
-[← Respiratory Chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 1 English MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 English MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 1 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 2 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
 
-## Sources and authenticity
+## Kaunsa paper available hai?
 
-| Exam | Available material | Question wording | Open |
+| Exam | Kya mila? | Original English question | Open karo |
 |---|---|---|---|
-| **HPSSC Staff Nurse 2022, Post Code 933, Series A** | **5 numbered respiratory questions** from a third-party hosted scanned historic paper | Exact English stems and A/B/C/D options are **in linked scanned booklet**, not rewritten here | [HP 2022 Previous Year Questions](HP-Staff-Nurse-2022-Respiratory.md) |
-| **AIIMS NORCET 10 (2026)** | 1 relevant **memory-based** question | English wording reproduced from **secondary memory-based listing**, **not verified verbatim AIIMS CBT** | [NORCET memory-based question](NORCET-10-2026-Memory-Based.md) |
+| **HP Staff Nurse 2022 — Post Code 933** | Purane scanned paper ke **5 respiratory questions** | Asli English wording aur options paper ke PDF mein hain | [2022 paper ke 5 questions](HP-Staff-Nurse-2022-Respiratory.md) |
+| **NORCET 10 (2026)** | **1 memory-based reported question** | English question online source ke according; official paper se verify nahi hua | [Memory-based question](NORCET-10-2026-Memory-Based.md) |
 
-## Why we keep source wording separate
+> **Dhyan do:** Purane scanned paper aur memory-based question **same cheez nahi** hain. Har page par source diya hai. Exact wording confirm na ho, toh usko official question nahi kahenge.
 
-- **Original practice questions / mock tests:** Exactly same English stems/options as initially authored in this repository; explanations Hinglish.
-- **Previous Year Questions from scanned paper:** Booklet question number aur original PDF ka direct link. **Exact English question and choices ko original scanned paper mein hi padhna hai**, no fake paraphrased 'verbatim' copies.
-- **Memory-based questions:** Wording online source ke according hai, but original AIIMS wording official verified nahi.
-- Answers aur rationales Hinglish mein rahenge to support learning.
+## Kaise padhna hai?
 
-**Rule for future previous-year material:** Sirf source trace ho tabhi year, exam, series aur question number mention karo. Original wording ke bare mein kabhi false claim mat karo.
+1. Pehle linked **original English question aur options** padho.
+2. Khud answer choose karo, phir **Hinglish explanation** kholo.
+3. Galat options ka reason aur exam trick samjho.
+4. Related **Concepts** aur **MCQs** ke links se revision karo.
 
-[← Respiratory chapter](../README.md)
+[🏠 Respiratory chapter](../README.md) · [🔎 Sources](../References.md)

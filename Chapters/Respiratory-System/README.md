@@ -6,14 +6,14 @@
 
 Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 
-## 📖 Start here — apna day select karo
+## 📖 Yahan se start karo — apna day select karo
 
 | Day | Full concept guide | MCQ practice | Extra |
 |---|---|---|---|
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
 | **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
-### 🏥 Previous Year Questions — original practice se alag
+### 🏥 Previous Year Questions — alag folder
 
 **[👉 Previous-Year Paper / Memory-Based Questions folder kholo](Previous-Year-Questions/README.md)**
 
@@ -24,7 +24,7 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 
 ---
 
-## 🖼️ Diagram gallery — 16 original SVG visuals
+## 🖼️ 16 diagrams — ek jagah
 
 Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed** kiya hai. Yahan sab ek jagah available hain.
 
@@ -68,7 +68,7 @@ Respiratory-System/
 └── References.md           ← Research & medical sources
 ~~~
 
-### Exam preparation rule
+### Padhne ka simple rule
 
 - **Medical terms** English mein, **explanation** simple Hindi-English mein.
 - Har answer mein **correct reason + other options elimination + memory trick**.

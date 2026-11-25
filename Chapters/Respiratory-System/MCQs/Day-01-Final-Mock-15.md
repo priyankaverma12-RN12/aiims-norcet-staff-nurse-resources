@@ -1,8 +1,8 @@
-# Day 1 — Final Mock Test (15 Original English Questions)
+# 🎯 Day 1 — Final Revision Mock: 15 Questions
 
-> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
+> **Yaad rakho:** Questions aur A/B/C/D options **English mein same** hain. Answers aur tricks **easy Hinglish** mein. Ye original practice hai, verified Previous Year Questions nahi.
 
-**15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified Previous Year Question nahi.
+**15 MCQs · 1 correct = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified Previous Year Question nahi.
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -18,7 +18,9 @@
 - C. Trachea → larynx → pharynx → bronchi
 - D. Bronchi → larynx → trachea → pharynx
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A.** Pharynx → Larynx → Trachea → Bronchi. Hawa isi sequence se neeche jaati hai.
 
@@ -34,7 +36,9 @@
 - C. Warm, filter and humidify air
 - D. Carry pulmonary venous blood
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **C.** Nose incoming air ko **warm, filter aur humidify** karta hai.
 
@@ -50,7 +54,9 @@
 - C. Both 3
 - D. Both 2
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **B.** **Right 3 lobes, Left 2 lobes**. Ye fact pakka yaad rakho.
 
@@ -66,7 +72,9 @@
 - C. Trachea
 - D. Respiratory bronchiole
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **D.** **Respiratory bronchiole** se respiratory zone start hoti hai; terminal bronchiole conducting ka last part hai.
 
@@ -82,7 +90,9 @@
 - C. Type II
 - D. Ciliated epithelium
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A.** **Alveolar macrophages** phagocytosis ke through germs aur dust remove karte hain.
 
@@ -98,7 +108,9 @@
 - C. More prone to collapse
 - D. Produce more oxygen
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **C.** Surfactant kam hone par **surface tension badhti** hai aur alveoli collapse ka risk badhta hai.
 
@@ -114,7 +126,9 @@
 - C. Pericardium
 - D. Mucosa
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **B.** **Visceral pleura** directly lung se attached hoti hai.
 
@@ -130,7 +144,9 @@
 - C. Diaphragm relaxation and falling alveolar pressure
 - D. Diaphragm contraction and increased chest volume
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **D.** Diaphragm **contract karke neeche** jaata hai aur thoracic volume **increase** hota hai.
 
@@ -146,7 +162,9 @@
 - C. Right ventricle
 - D. Left ventricle
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A.** Pulmonary veins lungs se **left atrium** mein oxygenated blood return karti hain.
 
@@ -162,7 +180,9 @@
 - C. 2650 mL
 - D. 3750 mL
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **C.** IC = TLC − FRC = 5400 − 2200 = 3200. IRV = IC − TV = 3200 − 550 = **2650 mL**.
 
@@ -178,7 +198,9 @@
 - C. 20/min
 - D. 22/min
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **B.** 8.64 L = 8640 mL. RR = MV ÷ TV = 8640 ÷ 480 = **18/min**.
 
@@ -194,7 +216,9 @@
 - C. 30%
 - D. 25%
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **D.** Old MV 7200; new MV 9000 mL/min. (9000−7200)/7200 × 100 = **25%**.
 
@@ -210,7 +234,9 @@
 - C. RR 24/min AND PaCO₂ 50
 - D. pH 7.48 AND RR 9/min
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A.** **RR 14/min aur PaCO₂ 43 mmHg** dono commonly normal textbook range mein hain.
 
@@ -226,7 +252,9 @@
 - C. Only if PaCO₂ is high
 - D. Only during forced inspiration
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A.** **Haan, true**. Usual reference ~**80–100 mmHg** hai; altitude aur patient condition matter karte hain.
 
@@ -242,7 +270,9 @@
 - C. VC
 - D. RV
 
-<details><summary>✅ Sahi answer aur easy explanation</summary>
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **D.** **RV (Residual Volume)**. Normal quiet expiration ke baad bachi air **FRC** hoti hai.
 

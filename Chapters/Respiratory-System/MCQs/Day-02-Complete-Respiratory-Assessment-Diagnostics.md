@@ -1,8 +1,8 @@
-# Day 2 — Respiratory Assessment & Diagnostics (36 Original English MCQs)
+# 📝 Day 2 — Respiratory Assessment & Diagnostics: 36 Practice MCQs
 
 [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
-> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
+> **Yaad rakho:** Questions aur A/B/C/D options **English mein same** hain. Answers aur tricks **easy Hinglish** mein. Ye original practice hai, verified Previous Year Questions nahi.
 
 ### Kaise solve karna hai?
 
@@ -27,6 +27,8 @@
 - **C.** Auscultation
 - **D.** Palpation
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Inspection** pehle hota hai: patient ko dekhkar breathing observe karte hain.
@@ -46,6 +48,8 @@
 - **C.** Percussion note
 - **D.** Breath sound
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Inspection** mein chest ka rise/fall aur symmetry **dekhte** hain.
@@ -64,6 +68,8 @@
 - **B.** Bradypnea
 - **C.** Tachypnea
 - **D.** Apnea
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -94,6 +100,8 @@
 - **C.** Bronchial breathing
 - **D.** PaCO₂
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Chest expansion** palpation se feel karke compare ki jaati hai.
@@ -112,6 +120,8 @@
 - **B.** Fremitus
 - **C.** Wheeze
 - **D.** Stridor
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -132,6 +142,8 @@
 - **C.** Lung consolidation with open bronchus
 - **D.** Large airway obstruction
 
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** **Consolidation** mein agar bronchus open ho toh voice vibrations better transmit ho sakti hain.
@@ -150,6 +162,8 @@
 - **B.** Deviated left
 - **C.** Not palpable
 - **D.** Midline
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -180,6 +194,8 @@
 - **C.** Flatness
 - **D.** Tympany
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** Healthy aerated lung pe usual percussion note **resonant** hota hai.
@@ -198,6 +214,8 @@
 - **B.** Tympany
 - **C.** Dullness
 - **D.** Normal resonance
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -218,6 +236,8 @@
 - **C.** Pleural effusion
 - **D.** Bone
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** Hyperresonance **extra air** suggest karta hai, e.g., pneumothorax. Alone diagnosis confirm nahi karta.
@@ -236,6 +256,8 @@
 - **B.** Listen only at sternum
 - **C.** Test over clothing
 - **D.** Compare corresponding areas
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -266,6 +288,8 @@
 - **C.** Stridor
 - **D.** Pleural rub
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Vesicular** breath sound normally peripheral lungs mein soft aur low pitched hoti hai.
@@ -284,6 +308,8 @@
 - **B.** Crackles
 - **C.** Friction rub
 - **D.** Absent breath sound
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -304,6 +330,8 @@
 - **C.** Crackles
 - **D.** Bronchial breathing
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** Popping/discontinuous sounds **crackles (rales)** hote hain.
@@ -323,6 +351,8 @@
 - **C.** Crackles
 - **D.** Stridor
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** Ye **stridor** hai. Upper airway obstruction ho sakta hai aur urgent assessment important hai.
@@ -341,6 +371,8 @@
 - **B.** Wheeze
 - **C.** Bronchovesicular
 - **D.** Rhonchi
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -371,6 +403,8 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** pH **low** aur PaCO₂ **high** hai; HCO₃⁻ normal hai. Basic pattern = **respiratory acidosis**.
@@ -389,6 +423,8 @@
 - **B.** Respiratory alkalosis
 - **C.** Respiratory acidosis
 - **D.** Metabolic alkalosis
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -409,6 +445,8 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** pH **low** + HCO₃⁻ **low** → **metabolic acidosis**, simple teaching pattern.
@@ -427,6 +465,8 @@
 - **B.** Hemoglobin
 - **C.** PaO₂
 - **D.** PaCO₂
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -447,6 +487,8 @@
 - **C.** 7.45–7.55
 - **D.** 7.15–7.25
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** Usual arterial pH **7.35–7.45** hota hai.
@@ -465,6 +507,8 @@
 - **B.** Metabolic alkalosis
 - **C.** Respiratory acidosis
 - **D.** Respiratory alkalosis
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -495,6 +539,8 @@
 - **C.** A normal breath
 - **D.** After full expiration
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** FEV₁ = forced expiration ke **first 1 second** ka volume.
@@ -513,6 +559,8 @@
 - **B.** Total forcibly exhaled air after maximal inspiration
 - **C.** Resting tidal volume
 - **D.** Peak inspiratory flow
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -533,6 +581,8 @@
 - **C.** 75%
 - **D.** 80%
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** (2.4 ÷ 3.2) × 100 = **75%**.
@@ -551,6 +601,8 @@
 - **B.** FVC
 - **C.** TV
 - **D.** RV
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -571,6 +623,8 @@
 - **C.** Confirmed restrictive disease
 - **D.** Pulmonary edema by itself
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** Reduced ratio **airflow obstruction** suggest karta hai. Correct interpretation context aur reference values par depend karti hai.
@@ -589,6 +643,8 @@
 - **B.** Can suggest restriction, requiring TLC confirmation
 - **C.** Proves asthma
 - **D.** Always means normal lungs
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -619,6 +675,8 @@
 - **C.** Percussion hammer
 - **D.** Stethoscope
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Pulse oximeter** SpO₂ percentage estimate karta hai.
@@ -638,6 +696,8 @@
 - **C.** Spirometry
 - **D.** Routine auscultation
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **ABG (arterial blood gas)** pH, PaCO₂ aur PaO₂ jaise parameters batata hai.
@@ -656,6 +716,8 @@
 - **B.** Pulse oximetry
 - **C.** Spirometry
 - **D.** Chest X-ray
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -688,6 +750,8 @@ These use only assessment, ABG and spirometry concepts already studied. Each ans
 - **C.** Percussion
 - **D.** Auscultation
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 Question mein vibration **feel** ho rahi hai, sound sunna nahi.
@@ -711,6 +775,8 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 - **B.** Metabolic acidosis
 - **C.** Respiratory alkalosis
 - **D.** Metabolic alkalosis
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -736,6 +802,8 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 - **C.** Fine crackles
 - **D.** Rhonchi
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat karo.
@@ -760,6 +828,8 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 - **C.** 65%
 - **D.** 70%
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
@@ -783,6 +853,8 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 - **B.** A low FVC always confirms airflow obstruction
 - **C.** A low FVC is always a normal spirometry result
 - **D.** Spirometry directly measures residual volume
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 

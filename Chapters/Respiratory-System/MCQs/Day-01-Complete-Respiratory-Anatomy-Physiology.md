@@ -1,10 +1,10 @@
-# Day 1 — Respiratory Anatomy & Physiology (40 Original English MCQs)
+# 📝 Day 1 — Respiratory Anatomy & Physiology: 40 Practice MCQs
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
-> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
+> **Yaad rakho:** Questions aur A/B/C/D options **English mein same** hain. Answers aur tricks **easy Hinglish** mein. Ye original practice hai, verified Previous Year Questions nahi.
 
-### Solve kaise karna hai?
+### Kaise solve karna hai?
 
 1. Pehle poora question aur options padhkar apna answer select karo.
 2. Uske baad **✅ Answer aur easy explanation** expand karo.
@@ -27,6 +27,8 @@
 - **C.** Trachea
 - **D.** Bronchiole
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Larynx** ko voice box kehte hain, kyunki ismein vocal folds hote hain. Pharynx air/food ka common passage hai.
@@ -45,6 +47,8 @@
 - **B.** Uvula
 - **C.** Epiglottis
 - **D.** Trachea
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -65,6 +69,8 @@
 - **C.** Alveolar duct
 - **D.** Alveolar sac
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Terminal bronchiole** conducting zone ka last part hai. Respiratory bronchiole se gas-exchange zone start hota hai.
@@ -84,6 +90,8 @@
 - **C.** Larynx
 - **D.** Respiratory bronchiole
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **Respiratory bronchiole** respiratory zone ka first part hai. Terminal bronchiole abhi conducting zone mein hota hai.
@@ -102,6 +110,8 @@
 - **B.** Warming, filtering and humidifying air
 - **C.** Transporting oxygenated blood
 - **D.** Main alveolar gas exchange
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -132,6 +142,8 @@
 - **C.** Four
 - **D.** One
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Right lung = 3 lobes**. Left lung = 2 lobes. Ye NORCET ka favourite factual point hai.
@@ -150,6 +162,8 @@
 - **B.** Carina
 - **C.** Cardiac notch
 - **D.** Tracheal ring
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -170,6 +184,8 @@
 - **C.** Both equally
 - **D.** Neither
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Right main bronchus** relatively shorter, wider aur more vertical hota hai, isliye aspirated object is taraf zyada ja sakta hai.
@@ -189,6 +205,8 @@
 - **C.** Left ventricle
 - **D.** Left atrium
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **Pulmonary veins → Left atrium**. Left ventricle uske baad aayega.
@@ -207,6 +225,8 @@
 - **B.** Oxygenated to the body
 - **C.** Oxygenated to the right atrium
 - **D.** Deoxygenated to the left atrium
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -237,6 +257,8 @@
 - **C.** Macrophage
 - **D.** Capillary endothelial cell
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Type II pneumocytes** surfactant banate hain. Type I gas exchange mein help karte hain.
@@ -255,6 +277,8 @@
 - **B.** Fight infection by phagocytosis
 - **C.** Provide thin gas-exchange surface
 - **D.** Make surfactant
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -275,6 +299,8 @@
 - **C.** Type II pneumocyte
 - **D.** Ciliated tracheal cell
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** **Alveolar macrophages** phagocytosis ke through dust aur microbes clean karte hain.
@@ -294,6 +320,8 @@
 - **C.** More alveolar oxygen production
 - **D.** Expansion without effort
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** Surfactant kam → **surface tension badhegi** → alveoli collapse ka risk badhega.
@@ -312,6 +340,8 @@
 - **B.** Active transport
 - **C.** Filtration
 - **D.** Diffusion
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -342,6 +372,8 @@
 - **C.** Pericardial
 - **D.** Mucosal
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** **Visceral pleura** lung ki surface ko directly cover karti hai. Parietal pleura chest cavity ko line karti hai.
@@ -360,6 +392,8 @@
 - **B.** Make surfactant
 - **C.** Reduce friction
 - **D.** Carry oxygen
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -380,6 +414,8 @@
 - **C.** Contracts and ascends
 - **D.** Remains stationary
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** Diaphragm **contract karke neeche** jaata hai, thoracic volume badhta hai aur air andar aati hai.
@@ -399,6 +435,8 @@
 - **C.** Impossible without coughing
 - **D.** Passive due to elastic recoil
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** Quiet expiration normally **passive** hoti hai: inspiratory muscles relax aur elastic recoil air ko bahar nikalte hain.
@@ -417,6 +455,8 @@
 - **B.** C3–C5
 - **C.** T8–T12
 - **D.** L1–L3
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -447,6 +487,8 @@
 - **C.** RV
 - **D.** ERV
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** Wo **Residual Volume (RV)** hai. RV ko voluntarily aur bahar nahi nikal sakte.
@@ -465,6 +507,8 @@
 - **B.** FRC
 - **C.** IRV
 - **D.** IC
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -485,6 +529,8 @@
 - **C.** 2450
 - **D.** 3450
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **B.** IC = TV + IRV. IRV = 3450 − 500 = **2950 mL**.
@@ -504,6 +550,8 @@
 - **C.** 3900
 - **D.** 2500
 
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** VC = IRV + TV + ERV. IRV = 4400 − 500 − 900 = **3000 mL**.
@@ -522,6 +570,8 @@
 - **B.** 3600
 - **C.** 2300
 - **D.** 9500
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -552,6 +602,8 @@
 - **C.** 5.8 L/min
 - **D.** 8.0 L/min
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **A.** MV = RR × TV = 17 × 400 = **6800 mL/min = 6.8 L/min**.
@@ -570,6 +622,8 @@
 - **B.** 16/min
 - **C.** 18/min
 - **D.** 20/min
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -590,6 +644,8 @@
 - **C.** 450 mL
 - **D.** 500 mL
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** 7.2 L = 7200 mL. TV = MV ÷ RR = 7200 ÷ 16 = **450 mL**.
@@ -609,6 +665,8 @@
 - **C.** Increase by 1 L/min
 - **D.** No change
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** Before: 10 × 600 = **6000**. After: 15 × 400 = **6000 mL/min**. Isliye **no change**.
@@ -627,6 +685,8 @@
 - **B.** 20%
 - **C.** 25%
 - **D.** 30%
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -657,6 +717,8 @@
 - **C.** 7.46
 - **D.** 7.40
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **C.** Usual pH range **7.35–7.45** hai, isliye **7.46** high hai.
@@ -675,6 +737,8 @@
 - **B.** 16/min
 - **C.** 24/min
 - **D.** 28/min
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -695,6 +759,8 @@
 - **C.** 52 mmHg
 - **D.** 39 mmHg
 
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **39 mmHg** common normal range ke andar hai.
@@ -714,6 +780,8 @@
 - **C.** 93%
 - **D.** 98%
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
 **D.** **98%** common healthy sea-level SpO₂ reference range **95–100%** mein aata hai.
@@ -732,6 +800,8 @@
 - **B.** False
 - **C.** Always if breathing normally
 - **D.** Only after exercise
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -764,6 +834,8 @@ These five newer questions use the **same Day 1 concepts**, including the calcul
 - **C.** Residual volume
 - **D.** Inspiratory reserve volume
 
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air ka difference socho.
@@ -787,6 +859,8 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 - **B.** 400 mL
 - **C.** 440 mL
 - **D.** 550 mL
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -812,6 +886,8 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 - **C.** 30%
 - **D.** 40%
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 Percentage increase mein denominator hamesha **old MV** hoti hai.
@@ -836,6 +912,8 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 - **C.** No air remains in the lungs
 - **D.** Vital capacity equals the remaining air
 
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+
 <details><summary>💡 Hint (answer-neutral)</summary>
 
 Question mein **normal expiration** likha hai, maximum forced expiration nahi.
@@ -859,6 +937,8 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 - **B.** SpO₂
 - **C.** PaCO₂
 - **D.** Arterial pH
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 

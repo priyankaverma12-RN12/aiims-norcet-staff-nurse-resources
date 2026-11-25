@@ -8,9 +8,9 @@
 
 **[पुराना प्रश्नपत्र देखें (सीरीज़ A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — यह पुराने प्रश्नपत्र की कॉपी है, जो एक दूसरी वेबसाइट पर उपलब्ध है।
 
-## पुराने प्रश्नपत्र के सवाल
+## Purane paper ke sawaal
 
-| सवाल नंबर | पेज | विषय | सही जवाब | मूल सवाल देखें |
+| Sawaal number | Page | Topic | Correct answer | Original question |
 |---|---:|---|---|---|
 | **Q3** | 3 | Alveolar macrophages / wandering phagocytes | **A. Alveolar macrophages** | [सवाल 3 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3) |
 | **Q20** | 6 | Normal adult tidal volume | **D. 500 mL** | [सवाल 20 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6) |
@@ -18,13 +18,15 @@
 | **Q67** | 13 | Definition of tidal volume | **B. Tidal volume** | [सवाल 67 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13) |
 | **Q113** | 20 | Bronchioles / narrow airways of the lungs | **B. Bronchioles** | [सवाल 113 और विकल्प देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20) |
 
-## आसान हिंदी में जवाबों की व्याख्या
+## Sahi answers aur easy explanation
 
-### Question 3 — Alveolar macrophages / wandering phagocytes
+### Sawaal 3 — Alveolar macrophages / wandering phagocytes
 
-**[सवाल 3 (पेज 3) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)**
+**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
 
-<details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
+**[Sawaal 3 (page 3) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)**
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A. Alveolar macrophages**
 
@@ -36,11 +38,13 @@ Alveolar macrophages **phagocytosis** ke through dust, germs aur foreign particl
 
 </details>
 
-### Question 20 — Normal adult tidal volume
+### Sawaal 20 — Normal adult tidal volume
 
-**[सवाल 20 (पेज 6) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)**
+**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
 
-<details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
+**[Sawaal 20 (page 6) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)**
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **D. 500 mL**
 
@@ -52,11 +56,13 @@ Ek **normal quiet breath** mein inspired/expired air ko tidal volume (TV) kehte 
 
 </details>
 
-### Question 35 — External respiration / alveolar gas exchange
+### Sawaal 35 — External respiration / alveolar gas exchange
 
-**[सवाल 35 (पेज 8) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)**
+**Difficulty:** Medium | **Exam focus:** HP Staff Nurse
 
-<details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
+**[Sawaal 35 (page 8) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)**
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **A. External respiration**
 
@@ -68,11 +74,13 @@ Ek **normal quiet breath** mein inspired/expired air ko tidal volume (TV) kehte 
 
 </details>
 
-### Question 67 — Definition of tidal volume
+### Sawaal 67 — Definition of tidal volume
 
-**[सवाल 67 (पेज 13) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)**
+**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
 
-<details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
+**[Sawaal 67 (page 13) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)**
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **B. Tidal volume**
 
@@ -84,11 +92,13 @@ Normal breathing mein ek breath se andar-bahar move hone wali air **TV** hai. Vi
 
 </details>
 
-### Question 113 — Bronchioles / narrow airways of the lungs
+### Sawaal 113 — Bronchioles / narrow airways of the lungs
 
-**[सवाल 113 (पेज 20) देखें](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)**
+**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
 
-<details><summary>✅ Correct answer + detailed Hinglish explanation</summary>
+**[Sawaal 113 (page 20) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)**
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **B. Bronchioles**
 
@@ -100,7 +110,7 @@ Bronchioles chhoti branching airways hoti hain jo bronchi se aage air conduct ka
 
 </details>
 
-## जानकारी का स्रोत
+## Paper ka source
 
 - [HPSSC Post Code 933 (Series A), scanned original English question paper](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf).
 - Correct answers ko anatomy/physiology teaching references se cross-check kiya gaya hai; yahan independently official answer-key provenance claim nahi kiya.

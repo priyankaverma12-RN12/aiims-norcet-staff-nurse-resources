@@ -1,4 +1,4 @@
-# 🔎 Respiratory System — Research, Fact-Check & Source Notes
+# 🔎 Respiratory System — Research aur Source Notes
 
 **NORCET + HP Staff Nurse level** • Updated 25 November 2026 • Easy Hindi-English
 
@@ -19,7 +19,7 @@
 | **FEV₁, FVC, spirometry** | [MedlinePlus — Pulmonary function tests](https://medlineplus.gov/ency/article/003853.htm) | Definitions of forced volume and first-second measurement |
 | **Obstruction / restriction interpretation** | [ERS/ATS technical standard (2022)](https://publications.ersnet.org/lookup/doi/10.1183/13993003.01499-2021) | Reduced FEV₁/FVC supports airflow obstruction; **low FVC alone does NOT confirm restriction; TLC needed** |
 
-### Fact-checking notes (exam vs actual clinical ranges)
+### Important values ko kaise samjho?
 
 - **Adult resting respiratory rate:** Common nursing exam teaching **12–20/min**. Real patient factors and age matter.
 - **TV approx 500 mL** is a typical **adult teaching example**, not fixed for every person.
@@ -29,7 +29,7 @@
 - **Physical exam:** Tactile fremitus/consolidation and breath-sound associations are **clues**, definite diagnosis nahi.
 - **ABG four-pattern table:** Sirf **uncompensated/simple teaching examples**; real mixed or compensated disorders exist, par Day 2 mein abhi woh advanced part nahi padha.
 
-## 2. Exam relevance — official vs historical / memory-based
+## 2. Exam ke sources — official vs purane papers
 
 | Exam link | Official / other | Isse kya conclude kar sakte hain? |
 |---|---|---|
@@ -43,7 +43,7 @@
 
 **Current scope:** We have **not** taught or published advanced COPD treatment, ventilator settings, full acid–base compensation, bronchoscopy techniques, or other later chapters just because they appear in other papers.
 
-## 3. MCQ audit rules (sabhi files ke liye)
+## 3. MCQ checking ke rules
 
 1. Stem ka **one best defensible answer** ho.
 2. Options aur answer key logically match karein.
@@ -54,7 +54,7 @@
 7. Har guide se matching **Concepts ↔ MCQs ↔ Previous Year Questions** clickable links ho.
 8. Images original accessible **SVG study diagrams** hain; textbook photo/scans ko unauthorized copy karke repo mein upload nahi karte.
 
-## 4. Links to continue reading
+## 4. Aage padho
 
 [📖 Day 1 detailed concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 detailed concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQ bank](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQ bank](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Sourced Previous Year Questions](Previous-Year-Questions/README.md)
 
