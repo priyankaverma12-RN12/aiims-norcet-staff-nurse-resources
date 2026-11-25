@@ -1,4 +1,6 @@
-# 🎯 Day 1 — Final Revision Mock: 15 Hinglish MCQs
+# Day 1 — Final Mock Test (15 Original English Questions)
+
+> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
 **15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified PYQ nahi.
 
@@ -10,7 +12,7 @@
 
 
 
-### Q1. Nasal cavity ke baad air ka correct route kaunsa hai?
+### Q1. After the nasal cavity, which sequence best follows normal inhaled airflow?
 - A. Pharynx → larynx → trachea → bronchi
 - B. Larynx → pharynx → bronchi → trachea
 - C. Trachea → larynx → pharynx → bronchi
@@ -26,11 +28,11 @@
 
 </details>
 
-### Q2. Nose ki passages ka sabse important respiratory function kya hai?
-- A. O₂ ko blood se exchange karna
-- B. Surfactant produce karna
-- C. Air ko warm, filter aur humidify karna
-- D. Pulmonary vein ka blood le jaana
+### Q2. Nasal passages primarily:
+- A. Exchange O₂ with blood
+- B. Produce surfactant
+- C. Warm, filter and humidify air
+- D. Carry pulmonary venous blood
 
 <details><summary>✅ Sahi answer aur easy explanation</summary>
 
@@ -42,11 +44,11 @@
 
 </details>
 
-### Q3. Right aur left lungs ke lobes ka correct combination kaunsa hai?
+### Q3. Correct lobes?
 - A. Right 2; left 3
 - B. Right 3; left 2
-- C. Dono mein 3
-- D. Dono mein 2
+- C. Both 3
+- D. Both 2
 
 <details><summary>✅ Sahi answer aur easy explanation</summary>
 
@@ -58,7 +60,7 @@
 
 </details>
 
-### Q4. Respiratory zone ka first structure kaunsa hai?
+### Q4. Which is first in the respiratory zone?
 - A. Primary bronchus
 - B. Terminal bronchiole
 - C. Trachea
@@ -74,7 +76,7 @@
 
 </details>
 
-### Q5. Alveoli mein dust/germs clean karne wali cell kaunsi hai?
+### Q5. Which alveolar cell removes dust and germs?
 - A. Alveolar macrophage
 - B. Type I
 - C. Type II
@@ -90,11 +92,11 @@
 
 </details>
 
-### Q6. Surfactant ki deficiency se alveoli par kya effect hota hai?
-- A. Aasani se expand hona
-- B. Surface tension kam
-- C. Collapse ka risk zyada
-- D. Zyada oxygen produce karna
+### Q6. Surfactant deficiency makes alveoli:
+- A. Expand more easily
+- B. Have lower surface tension
+- C. More prone to collapse
+- D. Produce more oxygen
 
 <details><summary>✅ Sahi answer aur easy explanation</summary>
 
@@ -106,7 +108,7 @@
 
 </details>
 
-### Q7. Lung surface ko directly cover karne wali membrane kaunsi hai?
+### Q7. Which membrane directly covers lungs?
 - A. Parietal pleura
 - B. Visceral pleura
 - C. Pericardium
@@ -122,11 +124,11 @@
 
 </details>
 
-### Q8. Normal inspiration mein diaphragm aur chest volume mein kya change aata hai?
-- A. Diaphragm relax aur chest volume increase
-- B. Diaphragm contract aur chest volume decrease
-- C. Diaphragm relax aur pressure decrease
-- D. Diaphragm contract aur chest volume increase
+### Q8. Normal inspiration causes:
+- A. Diaphragm relaxation and increased chest volume
+- B. Diaphragm contraction and decreased chest volume
+- C. Diaphragm relaxation and falling alveolar pressure
+- D. Diaphragm contraction and increased chest volume
 
 <details><summary>✅ Sahi answer aur easy explanation</summary>
 
@@ -138,7 +140,7 @@
 
 </details>
 
-### Q9. Pulmonary veins oxygenated blood ko heart mein kahan laati hain?
+### Q9. Pulmonary veins drain into:
 - A. Left atrium
 - B. Right atrium
 - C. Right ventricle
@@ -154,7 +156,7 @@
 
 </details>
 
-### Q10. TLC 5400 mL, FRC 2200 mL, TV 550 mL. IRV calculate karo.
+### Q10. TLC 5400 mL, FRC 2200 mL, TV 550 mL. IRV?
 - A. 2100 mL
 - B. 3200 mL
 - C. 2650 mL
@@ -170,7 +172,7 @@
 
 </details>
 
-### Q11. MV 8.64 L/min aur TV 480 mL hai. RR kitna?
+### Q11. MV 8.64 L/min and TV 480 mL. RR?
 - A. 16/min
 - B. 18/min
 - C. 20/min
@@ -186,7 +188,7 @@
 
 </details>
 
-### Q12. Pehle RR 18, TV 400 tha; baad mein RR 20, TV 450 hai. MV mein percentage increase kitna?
+### Q12. RR 18 and TV 400 become RR 20 and TV 450. MV rises by:
 - A. 12.5%
 - B. 20%
 - C. 30%
@@ -202,7 +204,7 @@
 
 </details>
 
-### Q13. Healthy adult near sea level ke **dono normal values** wala option kaunsa hai?
+### Q13. Which two values are normal for a resting healthy adult near sea level?
 - A. RR 14/min AND PaCO₂ 43 mmHg
 - B. SpO₂ 94% AND pH 7.48
 - C. RR 24/min AND PaCO₂ 50
@@ -218,11 +220,11 @@
 
 </details>
 
-### Q14. PaO₂ = 89 mmHg. Kya ye common adult sea-level textbook range ke andar hai?
-- A. Sahi (True)
-- B. Galat (False)
-- C. Sirf jab PaCO₂ high ho
-- D. Sirf forced inspiration mein
+### Q14. PaO₂ 89 mmHg is generally within common sea-level adult exam range.
+- A. True
+- B. False
+- C. Only if PaCO₂ is high
+- D. Only during forced inspiration
 
 <details><summary>✅ Sahi answer aur easy explanation</summary>
 
@@ -234,7 +236,7 @@
 
 </details>
 
-### Q15. Maximum forced expiration ke baad lungs mein kaunsi air remaining hoti hai?
+### Q15. Air remaining after maximal forced expiration is:
 - A. FRC
 - B. IC
 - C. VC

@@ -1,8 +1,8 @@
-# 📝 Day 2 — Respiratory Assessment & Diagnostics: 36 Hinglish MCQs
+# Day 2 — Respiratory Assessment & Diagnostics (36 Original English MCQs)
 
 [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 PYQs](../PYQs/README.md)
 
-> **Ye 36 original NORCET-style MCQs hain**, verified AIIMS PYQs nahi. Question aur answer ki explanation simple Hinglish mein hai. Medical terms English hi rakhe gaye hain taaki exam mein identify kar pao.
+> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
 ### Kaise solve karna hai?
 
@@ -20,12 +20,12 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#2-inspection--patient-ko-dekhna) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q1. Routine respiratory examination mein **IPPA ka first step** kaunsa hai?
+### Q1. The first IPPA step in routine respiratory examination is:
 
-- **A.** Percussion (tap)
-- **B.** Inspection (dekhna)
-- **C.** Auscultation (sunna)
-- **D.** Palpation (feel)
+- **A.** Percussion
+- **B.** Inspection
+- **C.** Auscultation
+- **D.** Palpation
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -39,11 +39,11 @@
 
 </details>
 
-### Q2. Chest movement dono sides equal hai ya nahi, ye pehle kis technique se observe kar sakte hain?
+### Q2. Which finding primarily belongs to inspection?
 
-- **A.** Chest expansion ki symmetry
+- **A.** Chest expansion symmetry
 - **B.** Tactile fremitus
-- **C.** Percussion (tap) note
+- **C.** Percussion note
 - **D.** Breath sound
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
@@ -58,7 +58,7 @@
 
 </details>
 
-### Q3. Resting adult RR 26/min hai. Isko kya kehte hain?
+### Q3. A resting adult RR of 26/min is:
 
 - **A.** Within 12–20/min
 - **B.** Bradypnea
@@ -87,10 +87,10 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#3-palpation--haath-se-feel-karna) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q4. Nurse haath se dono posterior chest sides ka expansion compare karti hai. Kya check ho raha hai?
+### Q4. A nurse places hands on the posterior chest to compare movement during inhalation. What is assessed?
 
 - **A.** Chest expansion
-- **B.** Percussion (tap) note
+- **B.** Percussion note
 - **C.** Bronchial breathing
 - **D.** PaCO₂
 
@@ -106,7 +106,7 @@
 
 </details>
 
-### Q5. Patient bolta hai aur nurse chest wall par vibration **feel** karti hai. Isko kya kehte hain?
+### Q5. A vibration felt over chest while patient speaks is called:
 
 - **A.** Resonance
 - **B.** Fremitus
@@ -125,7 +125,7 @@
 
 </details>
 
-### Q6. Tactile fremitus kis situation mein **increase** ho sakti hai?
+### Q6. Tactile fremitus may increase with:
 
 - **A.** Pleural effusion
 - **B.** Pneumothorax
@@ -144,7 +144,7 @@
 
 </details>
 
-### Q7. Normal trachea usually kis position mein hoti hai?
+### Q7. A normally positioned trachea is typically:
 
 - **A.** Deviated right
 - **B.** Deviated left
@@ -173,7 +173,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#4-percussion--chest-tap-karna) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q8. Normal healthy air-filled peripheral lung par percussion kaunsa sound deta hai?
+### Q8. Expected percussion sound over normal aerated lung:
 
 - **A.** Dullness
 - **B.** Resonance
@@ -192,7 +192,7 @@
 
 </details>
 
-### Q9. Pleural effusion ke area par percussion usually kaisa hota hai?
+### Q9. Percussion over pleural fluid usually gives:
 
 - **A.** Hyperresonance
 - **B.** Tympany
@@ -211,9 +211,9 @@
 
 </details>
 
-### Q10. Percussion mein **hyperresonant** note ka matlab kya ho sakta hai?
+### Q10. A hyperresonant percussion note suggests:
 
-- **A.** Zyada air
+- **A.** Extra air
 - **B.** Lung consolidation
 - **C.** Pleural effusion
 - **D.** Bone
@@ -230,12 +230,12 @@
 
 </details>
 
-### Q11. Percussion ko accurately compare karne ke liye nurse kya kare?
+### Q11. Which method compares percussion notes side to side?
 
-- **A.** Sirf ek apex test karna
+- **A.** Only one apex tested
 - **B.** Listen only at sternum
 - **C.** Test over clothing
-- **D.** Dono sides ki matching areas compare karna
+- **D.** Compare corresponding areas
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -259,7 +259,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#5-auscultation--stethoscope-se-sunna) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q12. Most peripheral lung fields par normal kaunsi breath sound milti hai?
+### Q12. Normal breath sound over most peripheral lung fields is:
 
 - **A.** Bronchial
 - **B.** Vesicular
@@ -278,7 +278,7 @@
 
 </details>
 
-### Q13. Musical, high-pitched continuous sound ko kya kehte hain?
+### Q13. High-pitched musical continuous breath sound is:
 
 - **A.** Wheeze
 - **B.** Crackles
@@ -297,7 +297,7 @@
 
 </details>
 
-### Q14. Lung auscultation mein popping / crackling sound ko kya kehte hain?
+### Q14. Discontinuous popping on lung auscultation is called:
 
 - **A.** Stridor
 - **B.** Rhonchi
@@ -316,7 +316,7 @@
 
 </details>
 
-### Q15. Neck ke paas harsh inspiratory sound hai jo upper-airway obstruction suggest kare. Kya sound hai?
+### Q15. A harsh inspiratory sound at the neck suggesting upper-airway obstruction is:
 
 - **A.** Rhonchi
 - **B.** Vesicular
@@ -335,7 +335,7 @@
 
 </details>
 
-### Q16. Pleural surfaces mein rubbing/grating sound ko kya kehte hain?
+### Q16. Grating sound associated with inflamed pleural surfaces:
 
 - **A.** Pleural friction rub
 - **B.** Wheeze
@@ -364,7 +364,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q17. ABG: pH 7.29, PaCO₂ 53, HCO₃⁻ 24. Basic primary disorder identify karo.
+### Q17. ABG pH 7.29, PaCO₂ 53 mmHg, HCO₃⁻ 24 mEq/L. Best primary disorder?
 
 - **A.** Respiratory acidosis
 - **B.** Respiratory alkalosis
@@ -383,7 +383,7 @@
 
 </details>
 
-### Q18. ABG: pH 7.49, PaCO₂ 31, HCO₃⁻ 24. Correct basic interpretation kya hai?
+### Q18. ABG pH 7.49, PaCO₂ 31, HCO₃⁻ 24. Best interpretation?
 
 - **A.** Metabolic acidosis
 - **B.** Respiratory alkalosis
@@ -402,7 +402,7 @@
 
 </details>
 
-### Q19. ABG: pH 7.27, PaCO₂ 40, HCO₃⁻ 17. Primary abnormality kya hai?
+### Q19. ABG pH 7.27, PaCO₂ 40, HCO₃⁻ 17. Primary abnormality?
 
 - **A.** Respiratory alkalosis
 - **B.** Respiratory acidosis
@@ -421,7 +421,7 @@
 
 </details>
 
-### Q20. ABG mein **respiratory acid-base component** mainly kaunsa parameter batata hai?
+### Q20. Which parameter primarily reflects respiratory acid-base component?
 
 - **A.** HCO₃⁻
 - **B.** Hemoglobin
@@ -440,7 +440,7 @@
 
 </details>
 
-### Q21. Arterial pH ka common normal textbook interval kya hai?
+### Q21. The usual arterial pH teaching interval is:
 
 - **A.** 7.35–7.45
 - **B.** 7.25–7.35
@@ -459,7 +459,7 @@
 
 </details>
 
-### Q22. ABG: pH 7.48, PaCO₂ 40, HCO₃⁻ 30. Kya primary pattern hai?
+### Q22. pH 7.48, PaCO₂ 40, HCO₃⁻ 30 suggests:
 
 - **A.** Metabolic acidosis
 - **B.** Metabolic alkalosis
@@ -488,9 +488,9 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev₁-fvc-aur-ratio) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q23. Spirometry mein **FEV₁** kis duration ki forced expired air measure karta hai?
+### Q23. FEV₁ is the volume exhaled during:
 
-- **A.** Forced expiration ke pehle 1 second
+- **A.** First 1 second of forced expiration
 - **B.** First 3 seconds of normal expiration
 - **C.** A normal breath
 - **D.** After full expiration
@@ -507,10 +507,10 @@
 
 </details>
 
-### Q24. **FVC** ka meaning kya hota hai?
+### Q24. FVC refers to:
 
 - **A.** Remaining air after full expiration
-- **B.** Maximum inhale ke baad total forcefully exhaled air
+- **B.** Total forcibly exhaled air after maximal inspiration
 - **C.** Resting tidal volume
 - **D.** Peak inspiratory flow
 
@@ -526,7 +526,7 @@
 
 </details>
 
-### Q25. FEV₁ = 2.4 L, FVC = 3.2 L. FEV₁/FVC percentage nikaalo.
+### Q25. FEV₁ 2.4 L and FVC 3.2 L. FEV₁/FVC?
 
 - **A.** 60%
 - **B.** 70%
@@ -545,7 +545,7 @@
 
 </details>
 
-### Q26. Simple spirometry se kaunsa volume directly measure **nahi** kar sakte?
+### Q26. Which cannot be measured directly with basic spirometry?
 
 - **A.** FEV₁
 - **B.** FVC
@@ -564,9 +564,9 @@
 
 </details>
 
-### Q27. FEV₁/FVC ratio reduced ho toh kis pattern ka suspicion hota hai?
+### Q27. A reduced FEV₁/FVC is most suggestive of:
 
-- **A.** Airflow obstruction (hawa ke flow mein rukawat)
+- **A.** Airflow obstruction
 - **B.** Purely normal testing
 - **C.** Confirmed restrictive disease
 - **D.** Pulmonary edema by itself
@@ -583,10 +583,10 @@
 
 </details>
 
-### Q28. FVC low ho aur FEV₁/FVC preserved ho, toh kya conclusion sahi hai?
+### Q28. A reduced FVC with preserved FEV₁/FVC:
 
 - **A.** Confirms restriction by itself
-- **B.** Restriction suspect ho sakti hai; TLC se confirm karna hoga
+- **B.** Can suggest restriction, requiring TLC confirmation
 - **C.** Proves asthma
 - **D.** Always means normal lungs
 
@@ -612,11 +612,11 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#9-basic-diagnostic-investigations) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q29. Oxygen saturation non-invasive tareeke se estimate karne ke liye kaunsa device use hota hai?
+### Q29. Which non-invasive device estimates oxygen saturation?
 
 - **A.** Pulse oximeter
 - **B.** Spirometer
-- **C.** Percussion (tap) hammer
+- **C.** Percussion hammer
 - **D.** Stethoscope
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
@@ -631,7 +631,7 @@
 
 </details>
 
-### Q30. Arterial pH aur PaCO₂ kaunsa investigation provide karta hai?
+### Q30. Which test provides arterial pH and PaCO₂?
 
 - **A.** Chest X-ray
 - **B.** ABG
@@ -650,7 +650,7 @@
 
 </details>
 
-### Q31. Forced expiratory airflow aur volume kis basic test mein measure hota hai?
+### Q31. Which basic test is designed to measure forced expiratory airflow?
 
 - **A.** Sputum culture
 - **B.** Pulse oximetry
@@ -681,12 +681,12 @@
 
 These use only assessment, ABG and spirometry concepts already studied. Each answer remains hidden until you expand it.
 
-### Q32. Nurse patient ko 'ninety-nine' bolne ko kehti hai aur chest ki vibration haath se feel karti hai. Ye kaunsa step hai?
+### Q32. A nurse asks a patient to say “ninety-nine” and feels increased vibration over one area of the chest. Which examination step is being performed?
 
-- **A.** Inspection (dekhna)
-- **B.** Palpation (feel)
-- **C.** Percussion (tap)
-- **D.** Auscultation (sunna)
+- **A.** Inspection
+- **B.** Palpation
+- **C.** Percussion
+- **D.** Auscultation
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -705,7 +705,7 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 
 </details>
 
-### Q33. ABG: pH 7.50, PaCO₂ 30, HCO₃⁻ 24. Basic primary pattern kya hai?
+### Q33. A patient has pH 7.50, PaCO₂ 30 mmHg and HCO₃⁻ 24 mEq/L. What is the best basic primary ABG pattern?
 
 - **A.** Respiratory acidosis
 - **B.** Metabolic acidosis
@@ -729,7 +729,7 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 
 </details>
 
-### Q34. Patient ke upper airway se loud harsh inspiratory sound aa rahi hai. Kaunsi sound hai?
+### Q34. A nurse hears a loud harsh, predominantly inspiratory sound from the upper airway. What is this sound called?
 
 - **A.** Vesicular breathing
 - **B.** Stridor
@@ -753,7 +753,7 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 
 </details>
 
-### Q35. FEV₁ = 1.8 L aur FVC = 3.0 L. FEV₁/FVC × 100 kitna?
+### Q35. An acceptable forced expiratory manoeuvre gives FEV₁ 1.8 L and FVC 3.0 L. What is FEV₁/FVC × 100?
 
 - **A.** 50%
 - **B.** 60%
@@ -777,7 +777,7 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 
 </details>
 
-### Q36. Student kehti hai 'Low FVC se restrictive lung disease confirm hoti hai.' Is statement ko kaise correct karoge?
+### Q36. A student says “A low FVC by itself confirms restrictive lung disease.” What is the best correction?
 
 - **A.** A low FVC alone can suggest restriction, but TLC is needed for confirmation
 - **B.** A low FVC always confirms airflow obstruction

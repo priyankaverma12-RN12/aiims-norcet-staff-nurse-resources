@@ -1,8 +1,8 @@
-# 📝 Day 1 — Respiratory Anatomy & Physiology: 40 Hinglish MCQs
+# Day 1 — Respiratory Anatomy & Physiology (40 Original English MCQs)
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 PYQs](../PYQs/README.md)
 
-> **Ye 40 original NORCET-style MCQs hain.** Sabhi questions Day 1 mein padhe hue concepts par based hain. Ye verified AIIMS PYQs nahi hain. Aakhri 5 questions hamare studied topics ki extra practice ke liye hain. Medical terms English mein aur explanation simple Hindi-English mein hai.
+> **Question wording policy:** All question stems and A/B/C/D options below are restored word-for-word from the original English questions previously authored in this repository. Answers, explanations and exam tips are in easy Hinglish. These are **original practice questions**, not verified past-examination questions.
 
 ### Solve kaise karna hai?
 
@@ -20,7 +20,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#3-conducting-zone-vs-respiratory-zone) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q1. Voice box kise kehte hain?
+### Q1. Which structure is known as the voice box?
 
 - **A.** Pharynx
 - **B.** Larynx
@@ -39,7 +39,7 @@
 
 </details>
 
-### Q2. Swallowing ke time larynx ki opening protect karne mein kaunsa structure help karta hai?
+### Q2. Which structure helps guard the laryngeal inlet when swallowing?
 
 - **A.** Carina
 - **B.** Uvula
@@ -58,7 +58,7 @@
 
 </details>
 
-### Q3. Conducting zone ka **last** part kaunsa hota hai?
+### Q3. Last structure of the conducting zone?
 
 - **A.** Terminal bronchiole
 - **B.** Respiratory bronchiole
@@ -77,7 +77,7 @@
 
 </details>
 
-### Q4. Respiratory zone sabse pehle kis structure se start hoti hai?
+### Q4. Which is the first portion of the respiratory zone?
 
 - **A.** Primary bronchus
 - **B.** Terminal bronchiole
@@ -96,10 +96,10 @@
 
 </details>
 
-### Q5. Nose/nasal cavity ka breathing mein main kaam kya hai?
+### Q5. What is the main function of nasal passages in breathing?
 
 - **A.** Producing surfactant
-- **B.** Air ko warm, filter aur humidify karna
+- **B.** Warming, filtering and humidifying air
 - **C.** Transporting oxygenated blood
 - **D.** Main alveolar gas exchange
 
@@ -125,7 +125,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#5-pulmonary-circulation) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q6. Adult **right lung** mein kitne lobes hote hain?
+### Q6. How many lobes does the healthy adult right lung have?
 
 - **A.** Two
 - **B.** Three
@@ -144,7 +144,7 @@
 
 </details>
 
-### Q7. Heart ke liye left lung mein jo space/indentation hoti hai, use kya kehte hain?
+### Q7. Which left-lung structure accommodates the heart?
 
 - **A.** Horizontal fissure
 - **B.** Carina
@@ -163,7 +163,7 @@
 
 </details>
 
-### Q8. Foreign body aspiration mein adult ka kaunsa main bronchus zyada commonly involved hota hai?
+### Q8. An aspirated foreign body more commonly enters which main bronchus?
 
 - **A.** Left
 - **B.** Right
@@ -182,7 +182,7 @@
 
 </details>
 
-### Q9. Lungs se aane wala oxygenated blood heart ke kis chamber mein **sabse pehle** enter hota hai?
+### Q9. Blood returning oxygenated from the lungs first enters which heart chamber?
 
 - **A.** Right atrium
 - **B.** Right ventricle
@@ -201,12 +201,12 @@
 
 </details>
 
-### Q10. Pulmonary arteries normally kaisa blood lungs tak le jaati hain?
+### Q10. Pulmonary arteries normally carry blood that is:
 
-- **A.** Deoxygenated blood lungs tak
-- **B.** Oxygenated blood body tak
-- **C.** Oxygenated blood right atrium tak
-- **D.** Deoxygenated blood left atrium tak
+- **A.** Deoxygenated to the lungs
+- **B.** Oxygenated to the body
+- **C.** Oxygenated to the right atrium
+- **D.** Deoxygenated to the left atrium
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -230,7 +230,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#6-alveoli-aur-unke-3-important-cells) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q11. Surfactant mainly alveoli ki kis cell type se banta hai?
+### Q11. Which cell is the principal surfactant producer?
 
 - **A.** Type I pneumocyte
 - **B.** Type II pneumocyte
@@ -249,7 +249,7 @@
 
 </details>
 
-### Q12. Type I pneumocytes ka main function kya hota hai?
+### Q12. What is the main job of Type I pneumocytes?
 
 - **A.** Produce mucus
 - **B.** Fight infection by phagocytosis
@@ -268,7 +268,7 @@
 
 </details>
 
-### Q13. Alveoli mein dust aur germs ko engulf/remove kaun karta hai?
+### Q13. Which cell engulfs inhaled microbes in alveoli?
 
 - **A.** Alveolar macrophage
 - **B.** Type I pneumocyte
@@ -287,10 +287,10 @@
 
 </details>
 
-### Q14. Agar surfactant ki deficiency ho jaaye, alveoli par sabse direct effect kya hoga?
+### Q14. Surfactant deficiency most directly leads to:
 
-- **A.** Surface tension kam hona
-- **B.** Surface tension badhna aur collapse ka risk
+- **A.** Lower surface tension
+- **B.** Higher surface tension and collapse tendency
 - **C.** More alveolar oxygen production
 - **D.** Expansion without effort
 
@@ -306,7 +306,7 @@
 
 </details>
 
-### Q15. Oxygen alveoli se capillary blood mein mainly kis process se cross karta hai?
+### Q15. Oxygen primarily crosses the alveolar–capillary membrane by:
 
 - **A.** Osmosis
 - **B.** Active transport
@@ -335,7 +335,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#8-pleura-aur-pleural-fluid) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q16. Lung ki surface ko directly cover karne wali pleura kaunsi hai?
+### Q16. Which pleural layer directly touches lung surface?
 
 - **A.** Parietal
 - **B.** Visceral
@@ -354,7 +354,7 @@
 
 </details>
 
-### Q17. Pleural fluid ka main function kya hai?
+### Q17. What does pleural fluid primarily do?
 
 - **A.** Create air pressure
 - **B.** Make surfactant
@@ -373,7 +373,7 @@
 
 </details>
 
-### Q18. Quiet **inspiration** mein diaphragm kya karta hai?
+### Q18. During quiet inspiration, the diaphragm:
 
 - **A.** Contracts and descends
 - **B.** Relaxes and ascends
@@ -392,7 +392,7 @@
 
 </details>
 
-### Q19. Normal resting adult mein quiet **expiration** usually kaise hoti hai?
+### Q19. Quiet expiration in a resting adult is usually:
 
 - **A.** A forceful abdominal contraction
 - **B.** Caused by diaphragm contraction
@@ -411,7 +411,7 @@
 
 </details>
 
-### Q20. Diaphragm ki motor nerve roots mainly kis level se aati hain?
+### Q20. The main diaphragm motor nerve arises from:
 
 - **A.** T1–T3
 - **B.** C3–C5
@@ -440,7 +440,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#10-lung-volumes-aur-capacities) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q21. Maximum forced expiration ke baad lungs mein jo air bachi rahe, wo kya hai?
+### Q21. What remains after maximal forced expiration?
 
 - **A.** TV
 - **B.** IRV
@@ -459,7 +459,7 @@
 
 </details>
 
-### Q22. Normal **quiet** expiration ke baad lungs mein remaining air ko kya kehte hain?
+### Q22. What remains after a normal quiet expiration?
 
 - **A.** VC
 - **B.** FRC
@@ -478,7 +478,7 @@
 
 </details>
 
-### Q23. IC = 3450 mL aur TV = 500 mL hai. IRV kitna hoga?
+### Q23. If IC = 3450 mL and TV = 500 mL, IRV equals:
 
 - **A.** 3950
 - **B.** 2950
@@ -497,7 +497,7 @@
 
 </details>
 
-### Q24. VC = 4400 mL, ERV = 900 mL, TV = 500 mL. IRV nikaalo.
+### Q24. If VC = 4400 mL, ERV = 900 mL and TV = 500 mL, IRV equals:
 
 - **A.** 3000
 - **B.** 3400
@@ -516,7 +516,7 @@
 
 </details>
 
-### Q25. TLC = 5900 mL aur IC = 3600 mL. FRC kitna hoga?
+### Q25. If TLC = 5900 mL and IC = 3600 mL, FRC equals:
 
 - **A.** 1300
 - **B.** 3600
@@ -545,7 +545,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#11-minute-ventilation-numericals) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q26. RR = 17/min aur TV = 400 mL. Minute ventilation (MV) kitni?
+### Q26. RR 17/min and TV 400 mL. MV is:
 
 - **A.** 6.8 L/min
 - **B.** 7.2 L/min
@@ -564,7 +564,7 @@
 
 </details>
 
-### Q27. MV = 8.1 L/min aur TV = 450 mL. RR nikaalo.
+### Q27. MV is 8.1 L/min and TV is 450 mL. RR is:
 
 - **A.** 15/min
 - **B.** 16/min
@@ -583,7 +583,7 @@
 
 </details>
 
-### Q28. MV = 7.2 L/min aur RR = 16/min. TV kitna?
+### Q28. MV is 7.2 L/min and RR is 16/min. TV is:
 
 - **A.** 350 mL
 - **B.** 400 mL
@@ -602,12 +602,12 @@
 
 </details>
 
-### Q29. Before RR 10, TV 600; after RR 15, TV 400. MV mein kya change hua?
+### Q29. Before: RR 10, TV 600; after: RR 15, TV 400. Change in MV?
 
-- **A.** Increase 2 L/min
-- **B.** Decrease 1 L/min
-- **C.** Increase 1 L/min
-- **D.** Koi change nahi
+- **A.** Increase by 2 L/min
+- **B.** Decrease by 1 L/min
+- **C.** Increase by 1 L/min
+- **D.** No change
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -621,7 +621,7 @@
 
 </details>
 
-### Q30. MV 6 L/min se 7.5 L/min hui. Percentage increase kitna?
+### Q30. MV rises from 6 L/min to 7.5 L/min. Percent increase?
 
 - **A.** 15%
 - **B.** 20%
@@ -650,7 +650,7 @@
 [📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#12-normal-respiratory-values) · [📚 PYQs](../PYQs/README.md)
 
 
-### Q31. Kaunsa arterial pH value usual normal range **se bahar** hai?
+### Q31. Which value is outside usual normal arterial pH range?
 
 - **A.** 7.38
 - **B.** 7.42
@@ -669,7 +669,7 @@
 
 </details>
 
-### Q32. Normal resting adult RR kaunsa ho sakta hai?
+### Q32. Which is a normal resting adult RR?
 
 - **A.** 9/min
 - **B.** 16/min
@@ -688,7 +688,7 @@
 
 </details>
 
-### Q33. Kaunsa PaCO₂ value usual **35–45 mmHg** range ke andar hai?
+### Q33. Which value is within usual PaCO₂ reference range?
 
 - **A.** 31 mmHg
 - **B.** 48 mmHg
@@ -707,7 +707,7 @@
 
 </details>
 
-### Q34. Healthy adult at/near sea level ke liye kaunsa SpO₂ value normal textbook range mein aata hai?
+### Q34. For healthy adults near sea level, which SpO₂ is within usual exam range?
 
 - **A.** 87%
 - **B.** 91%
@@ -726,7 +726,7 @@
 
 </details>
 
-### Q35. Kya SpO₂ 97% ka matlab PaO₂ bhi exactly 97 mmHg hoga?
+### Q35. SpO₂ 97% means PaO₂ must be exactly 97 mmHg.
 
 - **A.** True
 - **B.** False
@@ -757,7 +757,7 @@
 
 These five newer questions use the **same Day 1 concepts**, including the calculation mistakes revised during practice. They are not claimed to be previous-year NORCET questions.
 
-### Q36. TLC 5.4 L aur VC 4.1 L hain. Difference 1.3 L kaunsi lung volume hai?
+### Q36. A student sees TLC 5.4 L and VC 4.1 L on a report. Which lung volume is 1.3 L?
 
 - **A.** Expiratory reserve volume
 - **B.** Tidal volume
@@ -781,7 +781,7 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 
 </details>
 
-### Q37. RR = 15/min hai. MV 6.6 L/min **same** rakhni hai; TV kitna hona chahiye?
+### Q37. A patient breathes 15 times/min. To maintain MV 6.6 L/min, what must TV be?
 
 - **A.** 330 mL
 - **B.** 400 mL
@@ -805,7 +805,7 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 
 </details>
 
-### Q38. MV 7.2 L/min se 9.0 L/min ho gayi. Percentage increase kitna?
+### Q38. Total minute ventilation increases from 7.2 L/min to 9.0 L/min. What is the percentage increase?
 
 - **A.** 20%
 - **B.** 25%
@@ -829,7 +829,7 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 
 </details>
 
-### Q39. Normal quiet expiration ke baad remaining lung air ke baare mein sahi statement kaunsi hai?
+### Q39. After a quiet normal expiration, which statement is correct?
 
 - **A.** Only residual volume remains in the lungs
 - **B.** Functional residual capacity remains in the lungs
@@ -853,7 +853,7 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 
 </details>
 
-### Q40. Adult RR 18, SpO₂ 98%, PaCO₂ 41 aur pH 7.47 hai. Usual textbook range **se bahar** kaunsi reading hai?
+### Q40. A healthy young adult at sea level has RR 18/min, SpO₂ 98%, PaCO₂ 41 mmHg and pH 7.47. Which measurement is outside the common textbook reference interval?
 
 - **A.** RR
 - **B.** SpO₂
