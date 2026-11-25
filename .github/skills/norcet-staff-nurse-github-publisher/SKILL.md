@@ -16,7 +16,7 @@ description: >-
 **Owner's repo:** https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources  
 **Applies to:** AIIMS NORCET preparation + Himachal Pradesh HPRCA/older HPSSC Staff Nurse exam prep.  
 **Rule version:** 1.0 (25 November 2026).  
-**Priority:** These explicit user preferences govern publishing. If old \`README.md\` or \`CONTRIBUTING.md\` conflicts, update it to agree with this skill.
+**Priority:** These explicit user preferences govern publishing. If old `README.md` or `CONTRIBUTING.md` conflicts, update it to agree with this skill.
 
 ## 1. Trigger: "push this to GitHub"
 
@@ -45,7 +45,7 @@ When the user says **"push this to github"**, **"publish what I learned today"**
 
 **Public study structure:**
 
-\`\`\`text
+```text
 Chapters/
   <Nursing-Chapter>/
     README.md
@@ -63,13 +63,13 @@ Chapters/
       topic-specific-original-diagram.svg
       optional-short-original-animation.gif
     References.md
-\`\`\`
+```
 
-**Maximum navigation:** Repo home → Chapter home → one concept or MCQ file. **No subfolder per tiny topic**, no \`Day-XX/Topics/<topic>/Concepts/\` hierarchy. A chapter may have separate Concepts, MCQs, Previous-Year-Questions, Revision and Assets folders, no extra nesting.
+**Maximum navigation:** Repo home → Chapter home → one concept or MCQ file. **No subfolder per tiny topic**, no `Day-XX/Topics/<topic>/Concepts/` hierarchy. A chapter may have separate Concepts, MCQs, Previous-Year-Questions, Revision and Assets folders, no extra nesting.
 
 **Grouping:** Usually combine **2, 3 or 4 related studied topics** into **one substantial Markdown file** with a **descriptive filename listing those topics**. Example:
-\`Concepts/Day-03-Airway-Assessment-Breath-Sounds.md\` and
-\`MCQs/Day-03-Airway-Assessment-Breath-Sounds.md\`.
+`Concepts/Day-03-Airway-Assessment-Breath-Sounds.md` and
+`MCQs/Day-03-Airway-Assessment-Breath-Sounds.md`.
 Do not create artificial small files just to meet arbitrary quotas. If one topic is genuinely large, one long file can be better; if the whole study day naturally fits two high-value files, use those. The objective is **worth opening and reading**, not number of files.
 
 **Chapter README** must be a **useful table of contents** (not 2–3 empty lines). Include a concise chapter introduction, studied-coverage/status table, **topic group → Concepts → English MCQs → Previous Year Questions → video teaching → video MCQ practice → revision** columns/links, embedded chapter overview diagram, and clear next-study navigation. Keep the root README navigable without duplicating the whole chapter's notes.
@@ -80,7 +80,7 @@ Do not create artificial small files just to meet arbitrary quotas. If one topic
 |---|---|
 | **Concept teaching, explanations, summaries, mnemonics** | **Easy Hinglish**: simple English + Roman Hindi, as if teaching a nursing fresher; medical terminology English |
 | **MCQ stem + EVERY answer option (A/B/C/D)** | **English only**, original wording exactly as first authored or preserved in source |
-| **Labels/metadata** | English: \`Easy\`, \`Medium\`, \`Difficult\`, Exam focus, source status |
+| **Labels/metadata** | English: `Easy`, `Medium`, `Difficult`, Exam focus, source status |
 | **Correct answer** | Original English answer text/letter |
 | **Why correct, why A/B/C/D wrong, hints, memory tricks, numerical steps** | Detailed **Hinglish**, friendly and clear |
 | **YouTube labels, study guidance** | Simple Hinglish with clear channel/video titles |
@@ -111,7 +111,7 @@ For every grouped concept file include:
 
 For **every new/updated question**:
 
-\`\`\`markdown
+```markdown
 ### Q17. [EXACT ORIGINAL ENGLISH QUESTION STEM]
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse | **Topic:** ...
@@ -144,7 +144,7 @@ Easy Hinglish hint, answer reveal nahi hona chahiye.
 **Related:** [Concepts](../Concepts/Day-XX-TopicA-TopicB.md) · [Previous Year Questions](../Previous-Year-Questions/README.md)
 
 </details>
-\`\`\`
+```
 
 - **Difficulty tags on EVERY question** (including mock items and newly added exam-style questions): **Easy / Medium / Difficult**. Criteria: Easy = direct definition, value, one-step; Medium = 2-step calculation or applied concept; Difficult = multi-step clinical/numerical inference within already taught scope. Avoid claiming these official exam difficulty classifications.
 - For a **new bank**, aim for a useful balance across levels with **meaningful Medium and Difficult** questions relevant to NORCET and HP Staff Nurse. Do not force difficult questions on topics the learner has not yet covered. Calibrate based on existing learning progress and source papers. **Never invent official weightage or guaranteed repeat topics.**
@@ -158,7 +158,7 @@ Easy Hinglish hint, answer reveal nahi hona chahiye.
 
 ## 7. Previous Year Questions — careful evidence hierarchy
 
-**Folder exact name:** \`Previous-Year-Questions/\` (**never** \`PYMCQ\`).
+**Folder exact name:** `Previous-Year-Questions/` (**never** `PYMCQ`).
 
 Search for exact relevant respiratory/current studied-topic questions from:
 1. **Official AIIMS / HPRCA / older HPSSC** question papers, answer keys, notices, archived exams.
@@ -167,7 +167,7 @@ Search for exact relevant respiratory/current studied-topic questions from:
 
 For each found item publish a provenance row:
 
-\`Exam | Year/session | Post code/series (if any) | Original Q number | Topic | Source URL | Source status | Answer-key status | Link to relevant concepts and MCQs\`.
+`Exam | Year/session | Post code/series (if any) | Original Q number | Topic | Source URL | Source status | Answer-key status | Link to relevant concepts and MCQs`.
 
 Source status must be precisely one of:
 - **Official exact paper** (verified original and permission/copyright appropriate)
@@ -177,7 +177,7 @@ Source status must be precisely one of:
 
 **Exact English question wording:** If a trustworthy source explicitly publishes it and reproducing a *short excerpt* is lawful, use exact English stem/options as permissible and cite it. Otherwise **link to the exact original page and number** and keep the full wording there; don't translate or paraphrase while saying "exact". Preserve option order. If user-supplied original paper content is licensed/allowed, quoting may be possible according to applicable rules. Never bulk-copy copyrighted question papers, scan images, coaching PDFs, answer keys or YouTube transcripts without permission.
 
-**Answer key:** Cite official answer key if available. If only medically inferred, label \`Answer: medically reasoned; official key not verified\`. Explain in Hinglish, and point out any ambiguous or potentially outdated item. **Never turn student recollection into "verified NORCET previous-year question".**
+**Answer key:** Cite official answer key if available. If only medically inferred, label `Answer: medically reasoned; official key not verified`. Explain in Hinglish, and point out any ambiguous or potentially outdated item. **Never turn student recollection into "verified NORCET previous-year question".**
 
 If no verifiable question from a studied topic was found, explicitly state **"No verified Previous Year Question located for this studied topic as of [date]"**. Do NOT fill the section with invented "previous-year" questions. Use ordinary original practice bank instead.
 
@@ -199,15 +199,15 @@ Research each **studied topic** before publishing, not just the chapter title. S
 - For MCQ video: is it **question-solving practice** (not just lecture)?
 - Prefer beginner-friendly, understandable, accurate and clinically grounded videos; state if details could not be independently confirmed.
 - Put **one teaching video + one practice video** per topic group when a suitable video truly exists; additional only if adding value. Verify links are reachable/legitimate, and avoid duplicate or wrong-topic links.
-- If no verified relevant video exists, write \`No suitable video verified\` rather than fake a URL.
+- If no verified relevant video exists, write `No suitable video verified` rather than fake a URL.
 - Never claim to have watched or fully reviewed the video unless the tool genuinely accessed video contents/transcript.
 
-**Research log:** Add/update \`References.md\` with date checked and source list: \`Topic | Clinical source | Exam/paper source | Teaching video | MCQ video | Verification notes\`. Preserve existing references without duplicate links.
+**Research log:** Add/update `References.md` with date checked and source list: `Topic | Clinical source | Exam/paper source | Teaching video | MCQ video | Verification notes`. Preserve existing references without duplicate links.
 
 ## 9. Original diagrams, images and animations — useful, correct, accessible
 
 - Aim for **multiple diagrams per studied concept cluster**, only when visually helpful: anatomy with labels, flow diagrams, phase comparisons, volume curves, nursing assessment positions, spirometry/ABG decision trees.
-- Prefer **original SVG** in \`Assets/\` when it allows crisp GitHub rendering; original PNG/WebP if necessary. Add accurate labels and helpful alt text. Illustrations must **not** depict a physiologically incorrect pathway or give away the MCQ answer in a quiz question.
+- Prefer **original SVG** in `Assets/` when it allows crisp GitHub rendering; original PNG/WebP if necessary. Add accurate labels and helpful alt text. Illustrations must **not** depict a physiologically incorrect pathway or give away the MCQ answer in a quiz question.
 - For **breathing movements / phase sequences**, a short **original animated GIF** can help when tooling is available; include caption, readable labels, consistent motion and a static alternative for accessibility. Don't invent GIF paths or imply animations were produced when they were not.
 - Do not rehost unlicensed textbook images, screenshots, coaching slides, or video frames. Link to permitted externally hosted material or generate original diagrams.
 - **Embed illustrations inside the relevant concept/MCQ sections**; keep an optional asset gallery in the chapter README. Don't make readers open the assets directory just to understand the notes.
@@ -227,7 +227,7 @@ Research each **studied topic** before publishing, not just the chapter title. S
 - [ ] Any personal scores or private data not published without request.
 
 **Post-publish**
-- [ ] Commit to \`main\` (or current expected user branch) via connected GitHub. Never force push or delete original content unnecessarily.
+- [ ] Commit to `main` (or current expected user branch) via connected GitHub. Never force push or delete original content unnecessarily.
 - [ ] Re-fetch changed files and verify actual remote contents/commit SHA.
 - [ ] Validate all relative paths, section anchors, image references and specific YouTube URLs as best available.
 - [ ] Count questions, **exactly four English options**, difficulty labels, answer keys, hint/solution blocks and duplicate stems.
@@ -236,7 +236,7 @@ Research each **studied topic** before publishing, not just the chapter title. S
 
 ## 11. Current known repository baseline (do not re-publish unrelated material)
 
-As of **25 November 2026**, \`Chapters/Respiratory-System/\` already contains:
+As of **25 November 2026**, `Chapters/Respiratory-System/` already contains:
 - Day 1: respiratory anatomy and physiology, airway/lobes, alveoli/surfactant, pleura, breathing, pulmonary circulation, lung volumes/capacities, minute ventilation and normal values; **40 original MCQs + 15-question mock**.
 - Day 2: inspection, palpation, percussion, auscultation, **ABG basics**, **spirometry basics** and **introductory only** diagnostic investigations; **36 original MCQs**.
 - Original diagrams and separate **Previous Year Questions** (older scanned HP paper references + clearly labeled NORCET memory-based report).
@@ -246,6 +246,6 @@ As of **25 November 2026**, \`Chapters/Respiratory-System/\` already contains:
 
 ## 12. Cross-session use and limitations
 
-This skill is stored in the GitHub repo and is intended to be **re-read on every future GitHub-publishing task**. GitHub Copilot/agents that support repository skill discovery may load it from \`.github/skills/\`. **ChatGPT does not automatically inject arbitrary repository SKILL.md files or change its personal Memory just because the file exists**: when a later ChatGPT session receives "push this to GitHub", locate this repo and fetch this file before writing. If unavailable, state the access limitation rather than pretending to have read it.
+This skill is stored in the GitHub repo and is intended to be **re-read on every future GitHub-publishing task**. GitHub Copilot/agents that support repository skill discovery may load it from `.github/skills/`. **ChatGPT does not automatically inject arbitrary repository SKILL.md files or change its personal Memory just because the file exists**: when a later ChatGPT session receives "push this to GitHub", locate this repo and fetch this file before writing. If unavailable, state the access limitation rather than pretending to have read it.
 
 **Do not promise background or delayed publishing.** Execute GitHub operations in the current turn when tools are available, and transparently report the real result.
