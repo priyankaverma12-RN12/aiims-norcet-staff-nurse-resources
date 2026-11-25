@@ -59,3 +59,14 @@ Chapters/<Chapter-Name>/
 - Har student page par **easy Roman Hinglish** likho. Example: `Dhyan de`, `Yaad rakho`, `Kyun sahi?`.
 - **Hindi letters mat likho.** MCQ question aur options original English mein hi rakho.
 - Answer, wrong options ki explanation aur exam tricks simple Hinglish mein likho. Generic repeated lines avoid karo.
+
+## Extra high-yield file ka rule (existing studied topics)
+
+- Jab bhi **"push this to GitHub"** bolein, pehle existing studied chapter check karo: koi important NORCET / HP Staff Nurse concept ya MCQ miss toh nahi hua?
+- Agar real gaps milen, toh **sirf ek extra combined Markdown file** banao: `Chapters/<Chapter>/Extra-High-Yield-Concepts-and-30plus-MCQs.md`. Usmein **concepts aur 30+ NEW unique MCQs** dono rahenge. Tiny multiple files nahi.
+- **Exact aur similar/reworded duplicate MCQs mat add karo**: previous question banks, mocks aur Previous Year Questions sabse compare karo. Har question ki alag learning value honi chahiye.
+- **Questions/4 options original English**, har question ka **Easy/Medium/Difficult** label. **Correct answer hidden `<details>` dropdown** mein, with detailed easy Roman Hinglish explanation for all options aur unique exam trick.
+- Diagrams/photos useful hon toh original SVG/assets ke saath embed karo; chapter README se direct link do. Related concepts se zyada advanced/unstudied chapters mat add karo.
+- Agar 30 genuinely different questions nahi ban sakte, filler mat likho; extra file skip karke reason batao. Agar gaps hi nahi, extra file zaroori nahi.
+
+[Detailed rules yahan padho](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
