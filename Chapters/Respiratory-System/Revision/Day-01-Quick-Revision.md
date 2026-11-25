@@ -1,32 +1,65 @@
-# Day 01 — One-page rapid revision
+# ⚡ Day 1 — Respiratory A&P Quick Revision (Hinglish)
 
-![Respiratory system](../Assets/respiratory-tract.svg)
+[📖 Full Day 1 Notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-## Recall in 60 seconds
-- Air pathway: **nose → pharynx → larynx → trachea → bronchi → bronchioles → alveoli**.
-- Right lung **3 lobes**; left **2 lobes**. Right main bronchus is more vertical.
-- **Type I:** gas exchange; **Type II:** surfactant; **macrophage:** cleaning.
-- Surfactant ↓ → surface tension ↑ → collapse tendency ↑.
-- **Visceral pleura** covers lung; **parietal pleura** lines chest; fluid reduces friction.
-- Quiet **inspiration:** diaphragm down / chest volume up / air in.
-- Quiet **expiration:** diaphragm up / chest volume down / air out.
-- Pulmonary artery: **right ventricle → lungs**; pulmonary vein: **lungs → left atrium**.
+![Respiratory diagram](../Assets/respiratory-tract.svg)
 
-## Lung formulas
-| Formula | Result |
+## 1. Anatomy 1-minute recall
+
+- **Air pathway:** Nose → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli.
+- **Pharynx:** Food + air common passage. **Larynx:** Voice box.
+- **Terminal bronchiole:** Conducting zone ka **last** part.
+- **Respiratory bronchiole:** Respiratory zone ka **first** part.
+- **Right lung:** 3 lobes. **Left:** 2 lobes + cardiac notch.
+- **Right main bronchus:** Shorter, wider, more vertical.
+- **Type I:** Gas exchange. **Type II:** Surfactant. **Macrophage:** Germs aur dust clean.
+- **Surfactant kam:** Surface tension badhegi → alveolar collapse ka risk badhega.
+- **Visceral pleura:** Lung ko cover. **Parietal:** Chest cavity line. **Pleural fluid:** Friction kam.
+- **Pulmonary artery:** Right ventricle → lungs, deoxygenated blood.
+- **Pulmonary veins:** Lungs → **left atrium**, oxygenated blood.
+
+## 2. Breathing ka easy trick
+
+| Inspiration (IN) | Expiration (OUT) |
 |---|---|
-| IC = TV + IRV | Inspiratory capacity |
-| VC = IRV + TV + ERV | Vital capacity |
-| FRC = ERV + RV | Functional residual capacity |
-| TLC = IC + FRC | Total lung capacity |
-| **MV = RR × TV** | mL/min if TV in mL |
-| **% increase = (new−old)/old ×100** | Use original denominator |
+| Diaphragm **contracts / neeche** | Diaphragm **relaxes / upar** |
+| Chest volume **increase** | Chest volume **decrease** |
+| Air **andar** | Air **bahar** |
+| Quiet breathing mein **active** | Usually **passive** |
 
-**RV** after maximal expiration; **FRC** after quiet expiration.
+## 3. Volumes aur capacities
 
-## Numbers worth memorizing
-RR **12–20/min** · TV **~500 mL** · SpO₂ **95–100%** · PaO₂ **80–100 mmHg** · PaCO₂ **35–45 mmHg** · pH **7.35–7.45** · HCO₃⁻ **22–26 mEq/L**.
+| Short form | Formula / meaning |
+|---|---|
+| **TV** | Normal quiet breath ki air |
+| **IRV** | Normal inspiration ke baad extra air IN |
+| **ERV** | Normal expiration ke baad extra air OUT |
+| **RV** | Maximum forced expiration ke baad air remaining |
+| **IC** | TV + IRV |
+| **VC** | TV + IRV + ERV |
+| **FRC** | ERV + RV — **normal expiration** ke baad |
+| **TLC** | TV + IRV + ERV + RV = **IC + FRC** |
 
-> Oxygen ranges are teaching approximations for healthy adults near sea level. Do not use these as universal clinical thresholds.
+**FRC vs RV:** Normal expiration → **FRC**. Maximum forced expiration → **RV**.
 
-**Next:** [15-question final mock](../MCQs/Day-01-Final-Mock-15.md) · [Day 2 chapter topics](../README.md)
+## 4. Minute ventilation
+
+**MV = RR × TV**. TV = MV/RR. RR = MV/TV.
+
+**1000 mL = 1 L.**
+
+Example: RR 15 × TV 400 mL = **6000 mL/min = 6 L/min**.
+
+**Percentage increase = (New − Old) / Old × 100.** Old value denominator hai.
+
+## 5. Normal values (adult exam reference)
+
+| RR | TV | SpO₂ | PaO₂ | PaCO₂ | pH | HCO₃⁻ |
+|---|---|---|---|---|---|---|
+| 12–20/min | ~500 mL | 95–100% | 80–100 mmHg | 35–45 mmHg | 7.35–7.45 | 22–26 mEq/L |
+
+**Caution:** SpO₂/PaO₂ values altitude, age aur patient condition ke hisaab se vary karte hain. Ye standard teaching ranges hain.
+
+**Exam trap:** pH 7.46 normal se upar; PaCO₂ 33 usual range se neeche.
+
+[🎯 Day 1 final 15-MCQ mock](../MCQs/Day-01-Final-Mock-15.md)

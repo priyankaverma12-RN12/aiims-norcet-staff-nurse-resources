@@ -1,38 +1,60 @@
-# Day 02 — Rapid revision sheet
+# ⚡ Day 2 — Respiratory Assessment & Diagnostics Quick Revision (Hinglish)
 
-![Assessment sequence](../Assets/assessment-map.svg)
+[📖 Full Day 2 Notes](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
 
-## IPPA examination sequence
-1. **Inspection:** look at RR, rhythm, symmetry, effort, distress.
-2. **Palpation:** feel expansion, tracheal position, tenderness, tactile fremitus.
-3. **Percussion:** resonant = normal air; dull = denser/fluid; hyperresonant = extra air.
-4. **Auscultation:** listen symmetrically; vesicular normally peripheral.
+![IPPA flowchart](../Assets/assessment-map.svg)
 
-## Identify the sound
-- **Wheeze:** musical → narrowed airway.
-- **Crackles:** popping → intermittent reopening/fluid associations.
-- **Rhonchi:** coarse low pitched → secretions/large airways.
-- **Stridor:** harsh upper-airway sound → urgent assessment.
-- **Pleural rub:** grating → inflamed pleura.
+## 1. IPPA ko yaad rakho
 
-## ABG: exam-oriented 3-step
-**pH:** <7.35 acidemia; >7.45 alkalemia.
+1. **Inspection = Dekho:** RR, rhythm, depth, chest symmetry, accessory muscles.
+2. **Palpation = Feel karo:** Chest expansion, trachea midline, tenderness, tactile fremitus.
+3. **Percussion = Tap karo:** Resonant = normal air; dull = fluid/solid; hyperresonant = extra air.
+4. **Auscultation = Suno:** Stethoscope se right/left side compare karo.
 
-**PaCO₂ 35–45 mmHg** (respiratory) · **HCO₃⁻ 22–26 mEq/L** (metabolic).
+**Tactile fremitus** = Patient bolte waqt chest ki vibration **feel** hoti hai. Increased consolidation mein, decreased effusion/pneumothorax mein ho sakti hai.
 
-- pH↓ CO₂↑ = **respiratory acidosis**
-- pH↑ CO₂↓ = **respiratory alkalosis**
-- pH↓ HCO₃⁻↓ = **metabolic acidosis**
-- pH↑ HCO₃⁻↑ = **metabolic alkalosis**
+## 2. Breath sounds
 
-*Simplified uncompensated patterns; clinical interpretation is broader.*
+| Sound | Easy yaad karne ka tareeka |
+|---|---|
+| **Vesicular** | Peripheral lungs mein normal soft sound |
+| **Wheeze** | Musical whistle — narrow airway |
+| **Crackles** | Popping/crackling |
+| **Rhonchi** | Low snoring sound |
+| **Stridor** | Harsh upper-airway inspiratory sound — urgent assessment |
+| **Pleural friction rub** | Rubbing/grating |
 
-## Spirometry
-**FEV₁:** first second · **FVC:** total forced expiratory capacity · **FEV₁/FVC:** ratio × 100.
+## 3. ABG basics
 
-**RV not measured by simple spirometry.** Low ratio suggests obstruction; reduced FVC alone cannot confirm restriction.
+| Parameter | Common exam range |
+|---|---|
+| **pH** | **7.35–7.45** |
+| **PaCO₂** | **35–45 mmHg** |
+| **HCO₃⁻** | **22–26 mEq/L** |
+| **PaO₂** | **80–100 mmHg** near sea level |
 
-## Diagnostic investigation basics
-Pulse oximetry = saturation · ABG = gases/acid-base · CXR = chest image · Spirometry = airflow.
+**Pehle pH dekho**, fir PaCO₂ aur HCO₃⁻ compare karo:
 
-[← Respiratory chapter](../README.md)
+- pH **low** + CO₂ **high** → **Respiratory acidosis**
+- pH **high** + CO₂ **low** → **Respiratory alkalosis**
+- pH **low** + HCO₃⁻ **low** → **Metabolic acidosis**
+- pH **high** + HCO₃⁻ **high** → **Metabolic alkalosis**
+
+Ye uncomplicated teaching patterns hain; clinical ABG interpretation zyada detailed ho sakti hai.
+
+## 4. Spirometry yaad rakho
+
+- **FEV₁:** Forceful expiration ka **first 1 second** volume.
+- **FVC:** Full forceful expiration ka total volume.
+- **Ratio:** **FEV₁/FVC × 100**.
+- **Low ratio:** Airflow obstruction suggest karta hai.
+- **Low FVC alone:** Restriction **confirm nahi** karta; **TLC** chahiye.
+- **RV:** Simple spirometry se directly measure nahi hota.
+
+## 5. Diagnostic tests ka basic meaning
+
+**Pulse oximetry** = SpO₂ estimate. **ABG** = oxygenation + acid-base. **Chest X-ray** = chest image. **Spirometry** = forced airflow/volume.
+
+**Status:** Investigations ka intro padha; advanced procedures abhi nahi.
+
+[📝 Day 2 practice MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)

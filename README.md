@@ -1,51 +1,52 @@
 <div align="center">
 
-# 🩺 AIIMS NORCET & Staff Nurse Resources
+# 🩺 AIIMS NORCET & HP Staff Nurse — Study Notes
 
-### Comprehensive notes · MCQ question banks · Revision · Original diagrams
+### 📚 Simple Hindi-English Notes • Topic-wise MCQs • Revision • Diagrams
 
-**NORCET 12 • HP Staff Nurse / HPRCA • Easy English + Hindi**
+**NORCET 12 + HP Staff Nurse (HPRCA) preparation**
 
 </div>
 
-> An expanding, independent nursing study library. Only previously studied chapters and topics are published; new ones will be added **after** studying them.
+> **Welcome!** Ye repository hamari daily nursing study ke liye hai. Jaise hum ChatGPT mein simple Hinglish mein padhte hain, waise hi yahan notes aur MCQs milenge. **Sirf wahi topics add honge jo humne actually padhe hain.** Naye nursing chapters baad mein padhne par add karenge.
 
-## 📚 Nursing chapters
+## 🫁 Abhi available chapter: Respiratory System
 
-| Available chapter | Comprehensive study guides | Practice question banks |
+| Day | 📖 Full notes | 📝 MCQs |
 |---|---|---|
-| **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1: Anatomy & Physiology](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2: Assessment & Diagnostics](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [Day 1: 40 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2: 36 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) |
+| **Day 1 — Respiratory Anatomy & Physiology** | [Complete Hinglish notes](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [40 MCQs with explanations](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) |
+| **Day 2 — Respiratory Assessment & Diagnostics** | [Complete Hinglish notes](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [36 MCQs with explanations](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) |
 
-## 🧭 Two clicks to study
+**[👉 Respiratory System chapter ka overview kholo](Chapters/Respiratory-System/README.md)**
 
-1. Open the **Respiratory System** chapter.
-2. Choose **Day 1** or **Day 2**, then its **Concepts** or **MCQs** link.
+## 🧭 Kaise padhna hai?
 
-Each concept guide is a **full study document** with a table of contents, labeled diagrams, tables, worked examples, memory tricks and exam traps. Each MCQ bank has topic sections with expandable solutions.
+1. **Full notes kholo:** Har guide mein same day ke related concepts ek long, readable Markdown file mein hain.
+2. **Headings aur diagrams se samjho:** Medical words English mein, explanation simple Hindi-English mein.
+3. **MCQs solve karo:** Pehle A/B/C/D select karo, fir hidden **answer aur explanation** kholo.
+4. **Revision karo:** Formulas, values aur common mistakes quick sheet se yaad karo.
+5. **Final mock do:** Topic practice ke baad complete mock attempt karo.
 
-## 📂 Folder standard for future nursing chapters
+## 📁 Simple folder structure — no confusing hierarchy
 
 ~~~text
 Chapters/
-└── <Chapter-Name>/
+└── Respiratory-System/
     ├── README.md
     ├── Concepts/
-    │   ├── Day-01-Complete-Studied-Topics.md
-    │   └── Day-02-Complete-Studied-Topics.md
+    │   ├── Day-01-Complete-Respiratory-Anatomy-Physiology.md
+    │   └── Day-02-Complete-Respiratory-Assessment-Diagnostics.md
     ├── MCQs/
-    │   ├── Day-01-Complete-Studied-Topics.md
-    │   └── Day-02-Complete-Studied-Topics.md
+    │   ├── Day-01-Complete-Respiratory-Anatomy-Physiology.md
+    │   ├── Day-02-Complete-Respiratory-Assessment-Diagnostics.md
+    │   └── Day-01-Final-Mock-15.md
     ├── Revision/
     └── Assets/
 ~~~
 
-**Principle:** Keep navigation flat; combine closely related topics into documents substantial enough to read. Never add unstudied material just to fill out a folder.
+**Aage ka rule:** Jab bhi koi naya nursing chapter padhenge, uske liye **same simple structure** follow karenge. Abhi extra ya unstudied chapters nahi banaye gaye.
 
-### Accuracy and scope
+### Important note
+Ye notes aur MCQs independent exam-style practice hain, official AIIMS/HPRCA materials ya verified previous-year questions nahi. Normal clinical ranges patient, altitude aur lab ke hisaab se vary kar sakte hain.
 
-- These are educational, independently authored NORCET-style resources, not official AIIMS/HPRCA material.
-- Practice questions are not claimed to be authenticated past-year questions.
-- Some examples are original variations of questions practiced in study sessions.
-- Normal-value reference tables are for learning and can differ with altitude, age and clinical context.
-
-[Contribution guidelines](CONTRIBUTING.md) · [Clinical source reading](Chapters/Respiratory-System/References.md)
+[Study chapter references](Chapters/Respiratory-System/References.md) · [Notes add karne ke rules](CONTRIBUTING.md)

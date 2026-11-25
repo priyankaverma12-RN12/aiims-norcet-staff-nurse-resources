@@ -1,6 +1,8 @@
-# Contributing — long, readable guides; minimal navigation
+# 📝 Notes add karne ke rules — easy navigation aur hamari Hinglish language
 
-## Standard for future nursing chapters
+Ye repo hum step-by-step NORCET aur HP Staff Nurse preparation ke liye use karenge.
+
+## Folder rule: zyada hierarchy nahi
 
 ~~~text
 Chapters/<Chapter-Name>/
@@ -12,26 +14,22 @@ Chapters/<Chapter-Name>/
   References.md
 ~~~
 
-**Only add a chapter or day after its topics have been studied.** Do not pre-populate notes on material not covered.
+## Language rule
 
-### What makes a concept file worth opening?
+- Medical terms aur formulas **English** mein rakho taaki exam mein familiar rahen.
+- **Explanation simple Hindi-English/Hinglish** mein do. Example: "Surfactant kam hone se surface tension badhegi aur alveoli collapse ka risk badhega."
+- **MCQ questions, hints aur answer explanations** bhi same Hinglish mein likho.
+- Sirf headings Hindi-English karke body English mat chhodo.
+- Calculations ko **step by step** samjhao, with correct units.
 
-- Meaningful introduction and clickable Markdown table of contents.
-- Several **related studied topics together**, with headings rather than extra subfolders.
-- Correct concept explanations, clear definitions, comparisons and worked numerical/clinical *teaching* examples.
-- Memory tricks and common NORCET exam traps only on learned concepts.
-- Original SVG diagrams or appropriately licensed figures.
-- Links to the matching full-day MCQ bank and quick revision.
+## Content rule
 
-### What makes an MCQ file useful?
+- **Sirf wahi topics add karo jo humne actually padhe hain.**
+- Ek day ke related topics ko ek **long useful notes file** aur uske matching **MCQ bank** mein club karo.
+- Concepts, MCQs aur revision alag folders mein rahen, lekin har chhote topic ka extra folder mat banao.
+- Har file mein clickable contents, diagrams, easy examples, exam traps aur memory tricks useful hain.
+- **Original NORCET-style MCQ** ko verified AIIMS **PYQ** mat bolo.
+- Medical claims, answer keys, formulas aur altitude-sensitive normal ranges check karo.
+- Personal/patient details publish mat karo.
 
-- At least a substantial grouped question bank, rather than a single short topic fragment.
-- Distinct topic headings and clear numbering.
-- Four plausible options with one defensible best answer unless explicitly multiple-select.
-- Solution and reasoning hidden inside \`<details><summary>Answer & explanation</summary>\`.
-- Medical statements and calculations checked.
-- Accurate provenance: say **original NORCET-style MCQ** unless the exact past exam paper is independently verified.
-
-Keep source references and clinical caveats accurate. In particular, interpretation of oxygen ranges varies with patient context and altitude. Never publish private patient or learner data without permission.
-
-**Core principle:** *Chapter → Day guide / Day MCQ bank* — minimal clicks, thorough material, no unstudied topics.
+**Hamari priority:** Kam clicks, clear filenames, full detailed study notes aur easy Hinglish.
