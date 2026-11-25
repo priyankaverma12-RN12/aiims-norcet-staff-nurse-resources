@@ -35,7 +35,7 @@
 - **C.** Auscultation
 - **D.** Palpation
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -56,7 +56,7 @@
 - **C.** Percussion note
 - **D.** Breath sound
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -77,7 +77,7 @@
 - **C.** Tachypnea
 - **D.** Apnea
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -108,7 +108,7 @@
 - **C.** Bronchial breathing
 - **D.** PaCO₂
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -129,7 +129,7 @@
 - **C.** Wheeze
 - **D.** Stridor
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -150,7 +150,7 @@
 - **C.** Lung consolidation with open bronchus
 - **D.** Large airway obstruction
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -171,7 +171,7 @@
 - **C.** Not palpable
 - **D.** Midline
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -202,7 +202,7 @@
 - **C.** Flatness
 - **D.** Tympany
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -223,7 +223,7 @@
 - **C.** Dullness
 - **D.** Normal resonance
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -244,7 +244,7 @@
 - **C.** Pleural effusion
 - **D.** Bone
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -265,7 +265,7 @@
 - **C.** Test over clothing
 - **D.** Compare corresponding areas
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -296,7 +296,7 @@
 - **C.** Stridor
 - **D.** Pleural rub
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -317,7 +317,7 @@
 - **C.** Friction rub
 - **D.** Absent breath sound
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -338,7 +338,7 @@
 - **C.** Crackles
 - **D.** Bronchial breathing
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -359,7 +359,7 @@
 - **C.** Crackles
 - **D.** Stridor
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -380,7 +380,7 @@
 - **C.** Bronchovesicular
 - **D.** Rhonchi
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -411,7 +411,7 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -432,7 +432,7 @@
 - **C.** Respiratory acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -453,7 +453,7 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -474,7 +474,7 @@
 - **C.** PaO₂
 - **D.** PaCO₂
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -495,7 +495,7 @@
 - **C.** 7.45–7.55
 - **D.** 7.15–7.25
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -516,7 +516,7 @@
 - **C.** Respiratory acidosis
 - **D.** Respiratory alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -547,7 +547,7 @@
 - **C.** A normal breath
 - **D.** After full expiration
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -568,7 +568,7 @@
 - **C.** Resting tidal volume
 - **D.** Peak inspiratory flow
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -589,7 +589,7 @@
 - **C.** 75%
 - **D.** 80%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -610,7 +610,7 @@
 - **C.** TV
 - **D.** RV
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -631,7 +631,7 @@
 - **C.** Confirmed restrictive disease
 - **D.** Pulmonary edema by itself
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -652,7 +652,7 @@
 - **C.** Proves asthma
 - **D.** Always means normal lungs
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -683,7 +683,7 @@
 - **C.** Percussion hammer
 - **D.** Stethoscope
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -704,7 +704,7 @@
 - **C.** Spirometry
 - **D.** Routine auscultation
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -725,7 +725,7 @@
 - **C.** Spirometry
 - **D.** Chest X-ray
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
@@ -758,7 +758,7 @@ These use only assessment, ABG and spirometry concepts already studied. Each ans
 - **C.** Percussion
 - **D.** Auscultation
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -784,7 +784,7 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 - **C.** Respiratory alkalosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -810,7 +810,7 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 - **C.** Fine crackles
 - **D.** Rhonchi
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -836,7 +836,7 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 - **C.** 65%
 - **D.** 70%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -862,7 +862,7 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 - **C.** A low FVC is always a normal spirometry result
 - **D.** Spirometry directly measures residual volume
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse
+**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
