@@ -4,7 +4,7 @@
 
 [← Previous Year Questions index](README.md) · [Respiratory chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-> **ध्यान दें:** ये 5 सवाल हिमाचल प्रदेश स्टाफ नर्स की पुरानी परीक्षा से हैं। सवाल और उनके विकल्प देखने के लिए दिए गए पेपर का लिंक खोलें। नीचे जवाब आसान हिंदी में समझाए गए हैं।
+> **Dhyan de:** Ye 5 sawaal HP Staff Nurse ke purane exam se hain. Original questions aur options dekhne ke liye paper ka link kholo. Neeche answers easy Hinglish mein samjhaye hain.
 
 **[पुराना प्रश्नपत्र देखें (सीरीज़ A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — यह पुराने प्रश्नपत्र की कॉपी है, जो एक दूसरी वेबसाइट पर उपलब्ध है।
 
