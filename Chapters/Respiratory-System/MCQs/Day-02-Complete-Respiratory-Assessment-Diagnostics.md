@@ -4,6 +4,14 @@
 
 > **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
 
+## 🎬 YouTube se concept aur MCQ practice
+
+**Dhyan de:** Neeche actual topic-related videos ke links hain. Ye official past paper ki proof nahi hain; video descriptions ke basis par select kiye hain.
+
+- **Concept video:** [Alka Medical Education — IPPA Hindi](https://www.youtube.com/watch?v=PdbeHsh1OPM)
+- **MCQ practice:** [Ambition Nursing Classes — ABG MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg)
+- [Day 2 ke subtopic-wise video links](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#-day-2--topic-wise-youtube-padhai-aur-mcq-practice). IPPA, auscultation aur spirometry MCQ videos separately verified nahi mile; page ke 36 MCQs solve karo.
+
 ### Kaise solve karna hai?
 
 1. **Pehle apna answer select** karo; explanation tabhi kholo.

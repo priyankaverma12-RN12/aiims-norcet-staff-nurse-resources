@@ -2,6 +2,10 @@
 
 > **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
 
+## 🎬 Mock se pehle / baad quick video revision
+
+[Respiratory full chapter — Bhushan Science Nursing](https://www.youtube.com/watch?v=g6top1bzdUg) · [Respiration MCQ practice — Dear Competitive Exams](https://youtu.be/nLSz8qI5Pgo) · [Day 1 topic-wise videos](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+
 **15 questions · Har sahi answer = 1 mark.** Pehle khud solve karo, phir explanation kholo. Ye Day 1 ka practice mock hai.
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)

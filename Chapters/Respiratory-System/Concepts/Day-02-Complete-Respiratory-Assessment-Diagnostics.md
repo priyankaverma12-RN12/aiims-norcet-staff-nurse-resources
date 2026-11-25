@@ -21,6 +21,26 @@
 
 ---
 
+## 🎬 Day 2 — Topic-wise YouTube padhai aur MCQ practice
+
+**Dhyan de:** Specific video links aur descriptions 25 Nov 2026 ko check kiye; full video content individually nahi dekha. Jahan exact MCQ video nahi mila, fake link nahi dala.
+
+| Day 2 studied topic | Concept padhne ka YouTube video | YouTube MCQ practice | Kaise use karo? |
+|---|---|---|---|
+| IPPA order / inspection | [Alka Medical Education — Respiratory IPPA Hindi](https://www.youtube.com/watch?v=PdbeHsh1OPM) | [Respiratory mixed MCQs — Om Nursing Academy](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Look → feel → tap → listen |
+| Palpation / fremitus | [Alka Medical Education — IPPA (palpation)](https://www.youtube.com/watch?v=PdbeHsh1OPM) | Topic-specific video **verify nahi hua**; [hamare MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | Chest expansion aur tactile fremitus |
+| Percussion | [Alka Medical Education — IPPA (percussion)](https://www.youtube.com/watch?v=PdbeHsh1OPM) | Topic-specific video **verify nahi hua**; [hamare MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | Resonance, dullness aur hyperresonance |
+| Auscultation / breath sounds | [The Nursing Notes — Respiratory assessment and breath sounds](https://www.youtube.com/watch?v=9AU9hnGJYrg) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Wheeze, crackles, rhonchi aur stridor; video mein in topics ka description diya hai |
+| ABG basic normal values | [Nursing Aura — ABG analysis Hindi](https://www.youtube.com/watch?v=zDNYqK2epPs) | [Ambition Nursing Classes — ABG MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg) | pH, PaCO₂, HCO₃ ke normal values |
+| ABG simple interpretation | [Nursing Aura — ABG interpretation](https://www.youtube.com/watch?v=zDNYqK2epPs) | [Ambition Nursing Classes — Acid-base MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg) | Acidosis vs alkalosis; compensation wale **advanced** Q abhi skip karo |
+| Spirometry FEV₁/FVC | [Geeky Medics — Spirometry interpretation (English, ~7 min)](https://www.youtube.com/watch?v=qW8ujyrLZxk) | Dedicated beginner spirometry MCQ video **verify nahi hua**; [hamare MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | FEV₁, FVC aur ratio; video mein advanced details bhi hain |
+| Diagnostic investigations (intro only) | [Nursing Aura — ABG basics](https://www.youtube.com/watch?v=zDNYqK2epPs) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Abhi sirf ABG, SpO₂ aur spirometry basics; advanced procedures mat padho |
+
+**Exam practice:** [Day 2 ke 36 English MCQs + detailed Hinglish explanations](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md). ABG MCQ video mein compensation wale advanced questions aate hain—hamari current study limit ke bahar hain.
+
+
+---
+
 ## 1. Respiratory assessment ka order — IPPA
 
 ![Original IPPA sequence diagram](../Assets/assessment-map.svg)

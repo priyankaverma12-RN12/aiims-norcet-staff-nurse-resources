@@ -4,6 +4,8 @@
 
 ![Respiratory diagram](../Assets/respiratory-tract.svg)
 
+**🎬 YouTube quick revision:** [Respiratory lecture](https://www.youtube.com/watch?v=g6top1bzdUg) · [Respiration MCQ video](https://youtu.be/nLSz8qI5Pgo) · [Saare topic-wise videos](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+
 ## 1. Anatomy 1-minute recall
 
 - **Air pathway:** Nose → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli.

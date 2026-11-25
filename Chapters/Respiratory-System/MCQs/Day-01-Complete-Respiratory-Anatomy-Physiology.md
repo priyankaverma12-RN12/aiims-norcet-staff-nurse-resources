@@ -4,6 +4,14 @@
 
 > **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
 
+## 🎬 YouTube se concept aur MCQ practice
+
+**Dhyan de:** Neeche actual topic-related videos ke links hain. Ye official past paper ki proof nahi hain; video descriptions ke basis par select kiye hain.
+
+- **Concept video:** [Bhushan Science Nursing — Respiratory full chapter](https://www.youtube.com/watch?v=g6top1bzdUg)
+- **MCQ practice:** [Dear Competitive Exams — Respiration Physiology MCQs](https://youtu.be/nLSz8qI5Pgo)
+- [Day 1 ke har topic ke concept + video links](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#-day-1--topic-wise-youtube-padhai-aur-mcq-practice). Doosre [mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) mein unstudied advanced topics skip karo.
+
 ### Kaise solve karna hai?
 
 1. Pehle poora question aur options padhkar apna answer select karo.

@@ -24,6 +24,19 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 
 ---
 
+## 🎬 YouTube se padho + MCQ practice karo
+
+Har **already studied** topic ka teaching video aur MCQ-practice link complete [Day 1 video table](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) aur [Day 2 video table](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) mein diya hai.
+
+| Topic group | Concept lecture | MCQ-solving video |
+|---|---|---|
+| **Day 1 — Airway, alveoli, lungs, breathing, volumes** | [Bhushan Science Nursing — Respiratory full chapter](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiration Physiology MCQs](https://youtu.be/nLSz8qI5Pgo) |
+| **Day 2 — IPPA aur breath sounds** | [Alka Medical Education — Respiratory assessment](https://www.youtube.com/watch?v=PdbeHsh1OPM) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) |
+| **Day 2 — ABG basics** | [Nursing Aura — ABG Hindi](https://www.youtube.com/watch?v=zDNYqK2epPs) | [Ambition Nursing Classes — ABG MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg) |
+| **Day 2 — Spirometry basics** | [Geeky Medics — FEV₁/FVC](https://www.youtube.com/watch?v=qW8ujyrLZxk) | [Hamare 36 studied-topic MCQs](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) (separate video verify nahi hua) |
+
+**Dhyan de:** Videos mein kuch advanced topics bhi ho sakte hain. Filhaal wahi dekho jo Day 1–2 mein padha hai. Links source metadata se check hue hain; sabhi video transcripts poore review nahi hue.
+
 ## 🖼️ 16 diagrams — ek jagah
 
 Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed** kiya hai. Yahan sab ek jagah available hain.

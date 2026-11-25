@@ -54,7 +54,25 @@
 7. Har guide se matching **Concepts ↔ MCQs ↔ Previous Year Questions** clickable links ho.
 8. Images original accessible **SVG study diagrams** hain; textbook photo/scans ko unauthorized copy karke repo mein upload nahi karte.
 
-## 4. Aage padho
+## 4. YouTube research links — checked 25 November 2026
+
+**Dhyan de:** Video titles/descriptions aur source pages check kiye; video ka full content individually view nahi kiya. Coaching videos exam-prep help hain, **official NORCET papers nahi**. Links verified examples hain; exact per-topic match note karo.
+
+| Video / creator | Studied topic | Kis type ka resource? | Link |
+|---|---|---|---|
+| Bhushan Science Nursing — Respiratory One Shot | Airway, lung function, breathing mechanism, lung volumes | Hinglish teaching (topic list in description) | [YouTube](https://www.youtube.com/watch?v=g6top1bzdUg) |
+| Varsha Nursing Academy | Respiratory system anatomy | Hindi lecture | [YouTube](https://www.youtube.com/watch?v=4POeOaTv_F8) |
+| Indian Medical Lecture | Anatomy, trachea, alveoli | Hindi lecture | [YouTube](https://www.youtube.com/watch?v=DWjdTTd3ezI) |
+| Dear Competitive Exams | Respiration physiology | MCQ practice (secondary creator announcement checked) | [YouTube](https://youtu.be/nLSz8qI5Pgo) |
+| Om Nursing Academy Chandigarh | Mixed Respiratory System | MCQ practice, **contains unstudied disorders too** | [YouTube](https://www.youtube.com/watch?v=_dOjXZ6vCck) |
+| Alka Medical Education | IPPA inspection/palpation/percussion | Hindi nursing lecture | [YouTube](https://www.youtube.com/watch?v=PdbeHsh1OPM) |
+| The Nursing Notes | Auscultation / abnormal breath sounds | English/Hinglish nursing lecture; language not independently confirmed | [YouTube](https://www.youtube.com/watch?v=9AU9hnGJYrg) |
+| Nursing Aura | ABG analysis | Hindi lecture | [YouTube](https://www.youtube.com/watch?v=zDNYqK2epPs) |
+| Ambition Nursing Classes | ABG / acid-base | MCQ practice; **compensation is advanced** | [YouTube](https://www.youtube.com/watch?v=G_2-0P9EfAg) |
+| Geeky Medics | Spirometry FEV₁/FVC | English ~7-minute lecture; academic NDLI catalogue confirms title | [YouTube](https://www.youtube.com/watch?v=qW8ujyrLZxk) |
+| Adda247 Nursing | ABG, ECG, electrolytes mixed | Practice class; **skip unstudied** sections | [YouTube](https://www.youtube.com/watch?v=pb-xAsSIr2s) |
+
+## 5. Aage padho
 
 [📖 Day 1 detailed concepts](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📖 Day 2 detailed concepts](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 Day 1 MCQ bank](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Day 2 MCQ bank](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Sourced Previous Year Questions](Previous-Year-Questions/README.md)
 

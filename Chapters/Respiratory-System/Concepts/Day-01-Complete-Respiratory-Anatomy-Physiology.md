@@ -24,6 +24,29 @@
 
 ---
 
+## 🎬 Day 1 — Topic-wise YouTube padhai aur MCQ practice
+
+**Dhyan de:** Ye specific real video links aur unke published descriptions check kiye gaye hain (25 Nov 2026). Videos ko poora dekhkar personally verify nahi kiya. **MCQ practice videos original NORCET past-paper proof nahi hain.** Ek full-lecture video multiple studied topics cover kar sakta hai.
+
+| Day 1 studied topic | Concept padhne ka YouTube video | YouTube MCQ practice | Kaise use karo? |
+|---|---|---|---|
+| Respiration basics / air pathway | [Varsha Nursing Academy — Respiratory anatomy](https://www.youtube.com/watch?v=4POeOaTv_F8) | [Respiration physiology MCQs — Dear Competitive Exams](https://youtu.be/nLSz8qI5Pgo) | Pathway aur breathing basics dekho |
+| Conducting / respiratory zones | [Bhushan Science Nursing — Respiratory full chapter](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | Terminal aur respiratory bronchiole ke differences revise karo; dedicated video separately verified nahi |
+| Right/left lung lobes | [Varsha Nursing Academy — Lung anatomy](https://www.youtube.com/watch?v=4POeOaTv_F8) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | Right 3, left 2 lobes yaad karo |
+| Pulmonary circulation | [Bhushan Science Nursing — Respiratory overview](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiratory mixed MCQs — Om Nursing Academy](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Blood flow diagram notes mein dekho; dedicated circulation video verify nahi hua |
+| Alveoli / cell roles | [Indian Medical Lecture — Alveoli and gas exchange](https://www.youtube.com/watch?v=DWjdTTd3ezI) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | Type I / Type II / macrophages ke liye [notes](#6-alveoli-aur-unke-3-important-cells) bhi padho |
+| Surfactant | [Bhushan Science Nursing — Respiratory overview](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Surfactant ka specific video verify nahi hua; [surfactant diagram](../Assets/surfactant-comparison.svg) dekho |
+| Pleura | [Varsha Nursing Academy — Respiratory anatomy](https://www.youtube.com/watch?v=4POeOaTv_F8) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Dedicated pleura video verify nahi hua; [pleura diagram](../Assets/pleura-layers.svg) dekho |
+| Inspiration / expiration | [Bhushan Science Nursing — Mechanism of breathing](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | Diaphragm up/down ka visual notes mein compare karo |
+| Lung volumes / capacities | [Bhushan Science Nursing — Lung volumes and capacities](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | TV/IRV/ERV/RV aur formulas solve karo |
+| Minute ventilation numericals | [Bhushan Science Nursing — Respiratory overview](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiration physiology MCQs](https://youtu.be/nLSz8qI5Pgo) | RR × TV numericals ke liye hamare [solved examples](#11-minute-ventilation-numericals) use karo; video mein exact numerical coverage verify nahi hua |
+| Normal values (RR, PaCO₂, SpO₂) | [Bhushan Science Nursing — Respiratory overview](https://www.youtube.com/watch?v=g6top1bzdUg) | [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) | Values ko [normal-value chart](../Assets/normal-values-study-chart.svg) se match karo; dedicated values lecture separately verify nahi hua |
+
+**Exam practice:** [Day 1 ke 40 original English MCQs + answers](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md). Om Nursing Academy ka mixed MCQ video COPD/ventilator jaise **unstudied** topics bhi cover kar sakta hai; abhi sirf padha hua content attempt karo.
+
+
+---
+
 ## 1. Respiration kya hota hai?
 
 **Respiration** ka simple matlab hai: body ko **O₂ (oxygen)** milna aur **CO₂ (carbon dioxide)** bahar nikalna. Ismein 3 basic terms ko alag samajhna zaroori hai.

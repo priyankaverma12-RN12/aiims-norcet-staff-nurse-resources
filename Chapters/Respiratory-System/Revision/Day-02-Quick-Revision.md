@@ -4,6 +4,8 @@
 
 ![IPPA flowchart](../Assets/assessment-map.svg)
 
+**🎬 YouTube quick revision:** [Respiratory IPPA](https://www.youtube.com/watch?v=PdbeHsh1OPM) / [ABG basics](https://www.youtube.com/watch?v=zDNYqK2epPs) · [ABG MCQ video](https://www.youtube.com/watch?v=G_2-0P9EfAg) · [Saare topic-wise videos](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+
 ## 1. IPPA ko yaad rakho
 
 1. **Inspection = Dekho:** RR, rhythm, depth, chest symmetry, accessory muscles.
