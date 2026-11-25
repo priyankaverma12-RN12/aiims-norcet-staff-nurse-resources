@@ -10,7 +10,7 @@
 
 - **Concept video:** [Alka Medical Education — IPPA Hindi](https://www.youtube.com/watch?v=PdbeHsh1OPM)
 - **MCQ practice:** [Ambition Nursing Classes — ABG MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg)
-- [Day 2 ke subtopic-wise video links](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#-day-2--topic-wise-youtube-padhai-aur-mcq-practice). IPPA, auscultation aur spirometry MCQ videos separately verified nahi mile; page ke 36 MCQs solve karo.
+- [Day 2 ke subtopic-wise video links](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md). IPPA, auscultation aur spirometry MCQ videos separately verified nahi mile; page ke 36 MCQs solve karo.
 
 ### Kaise solve karna hai?
 
