@@ -47,4 +47,4 @@ Chapters/<Chapter-Name>/
 - **Every mock and original practice question**: Keep question stem and **all four options in English, word-for-word**, as initially authored. Do not translate MCQ options or question stems into Hinglish.
 - **Only detailed explanation, hints, tricks and why-other-options-wrong** may use Hinglish.
 - **Previous Year Questions**: Link the original English paper with exact question number. Never pass paraphrases off as verbatim source. Memory-based wording must be labeled.
-- **Do not use the abbreviation PYMCQ**; write **Previous Year Questions** in full.
+- Write **Previous Year Questions** in full, including folder titles and navigation labels.
