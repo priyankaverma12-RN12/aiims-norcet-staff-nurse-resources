@@ -94,3 +94,16 @@
 | Pursed-lip breathing | [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/resource-library/pursed-lip-breathing-video?form=FUNWDCDEGUJ) | Gentle prolonged expiration |
 
 Videos and exam leads are linked in the respective Day 3 notes. Metadata verified where available; full transcripts and official PYQ keys not confirmed. No separate 30+ supplement added before learner practice and duplication audit.
+
+## Day 3 high-yield recheck — 25 November 2026
+
+| Scope | Source | Verification |
+|---|---|---|
+| PEFR technique/zones | [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow) | Highest of three; personal best zones |
+| Asthma ABG and emergency care | [Merck](https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/treatment-of-acute-asthma-exacerbations) · [Acute airways disease review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8806296/) | Rising CO2 warning, escalation |
+| COPD severity and LTOT | [GOLD 2027](https://goldcopd.org/2027-gold-report-and-pocket-guide/) · [NCBI COPD](https://www.ncbi.nlm.nih.gov/books/NBK559281/) | Spirometry grade vs ABE; LTOT and NIV |
+| Oxygen signs, devices, complications | [Open RN](https://www.ncbi.nlm.nih.gov/books/NBK596733/) | Nursing assessment and safety |
+| Exam themes | [AIIMS Bathinda 2019 collection](https://nextnurse.in/pyq/aiims-nursing-officer/aiims-nursing-officer-aiims-bhatinda-no-2019) | Unverified third-party report, official answer key not confirmed |
+| MCQ video | [Aarogyam Infinity Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) | Status asthmaticus topic appears in video metadata; full transcript not reviewed; separate videos for all additional subtopics not verified |
+
+Existing topic guides and revision updated in place. No personal scores or purported solved Day 3 MCQs added. Optional 30+ question bank not added on this theory-only push (full duplication audit not performed).
