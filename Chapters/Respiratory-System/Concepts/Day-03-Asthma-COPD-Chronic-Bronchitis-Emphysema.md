@@ -50,6 +50,44 @@ Modern asthma management mein ICS-containing treatment important hai. Sirf salbu
 
 > **Dhyan de:** Asthma = Spasm + Swelling + Secretions (3S).
 
+### Asthma ke extra high-yield concepts — same chat revision
+
+**PEFR — Peak Expiratory Flow Rate:** Ye measure karta hai ki patient forcefully saans bahar nikalte waqt maximum kitni speed se air nikal sakta hai. Unit L/min. Airway narrow hone par PEFR decrease hota hai.
+
+![Peak flow zones and cor pulmonale mechanism — original reconstruction of chat teaching](../Assets/day-03-peak-flow-cor-pulmonale.svg)
+
+| Zone | Personal best ka percentage | Meaning |
+|---|---|---|
+| Green | 80–100% | Generally controlled |
+| Yellow | 50% to below 80% | Caution; prescribed action plan follow karo |
+| Red | Below 50% | Danger; emergency action plan and urgent medical help |
+
+**Example:** Personal best 400 L/min; current 160 L/min. 160 ÷ 400 × 100 = 40% → red zone. Peak flow meter se 3 attempts lo aur highest reading record karo, average nahi. Symptoms bhi assess karo; severe symptoms mein reading ka wait nahi. [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow).
+
+**Asthma mein ABG changes:**
+
+| Asthma attack | PaCO2 | ABG finding |
+|---|---|---|
+| Early attack | Decreased | Respiratory alkalosis |
+| Severe attack with fatigue | Normal ya increasing | Warning sign |
+| Respiratory failure | Increased | Respiratory acidosis ho sakti hai |
+
+Starting mein patient jaldi-jaldi saans leta hai, jisse CO2 zyada bahar nikalti hai. Severe attack mein respiratory muscles thakne lagti hain aur CO2 accumulate hone lagti hai. **Example:** PaCO2 30 se 48 mmHg ho gayi, patient abhi severe distress mein hai: deterioration ka sign ho sakta hai, recovery nahi. [Acute airways disease review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8806296/).
+
+**Acute attack management:** ABC, SpO2 aur severity assess karo → upright position, oxygen if needed → rapid-acting inhaled bronchodilator → systemic corticosteroid when indicated → reassess and escalate if poor response. Severe attack mein ipratropium additional bronchodilator; selected poor responders mein IV magnesium sulphate clinician/protocol ke according. Silent chest, drowsiness ya confusion emergency signs hain.
+
+| Classic exam clue | Answer |
+|---|---|
+| Allergic asthma hypersensitivity | Type I |
+| Associated antibody | IgE |
+| Common inflammatory cell in allergic/type 2 asthma | Eosinophil |
+| Curschmann spirals | Coiled mucus plugs |
+| Charcot-Leyden crystals | Eosinophil-derived protein crystals |
+| Pulsus paradoxus | Inspiration mein systolic BP ka >10 mmHg fall |
+| Prolonged severe attack poorly responding to initial therapy | Status asthmaticus |
+
+Ye classic findings hain; har asthma patient mein compulsory nahi. **Bronchodilator reversibility:** Adult FEV1 ya FVC mein baseline se ≥12% AND ≥200 mL improvement asthma ko support karta hai, lekin diagnosis ka sole criterion nahi. Example: FEV1 1.5 L → 1.8 L = 300 mL aur 20% improvement. [GINA 2026](https://ginasthma.org/2026-gina-summary-guide/) | [Merck acute asthma](https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/treatment-of-acute-asthma-exacerbations).
+
 ## 2. COPD
 
 Full form: Chronic Obstructive Pulmonary Disease. COPD ek long-term lung disease hai jisme airways aur alveoli mein changes ki wajah se airflow persistently obstructed rehta hai. Patient ko especially saans bahar nikalne mein difficulty hoti hai.
@@ -76,6 +114,27 @@ Long-term smoke exposure → airway inflammation + alveolar damage → airflow o
 | Night symptoms | Common | Ho sakte hain |
 
 > **Dhyan de:** Dono diseases kisi bhi age mein ho sakti hain. Sirf reversibility se inko reliably differentiate nahi kar sakte.
+
+### COPD GOLD grading, complications and acute exacerbation
+
+| Post-bronchodilator FEV1 % predicted | Grade |
+|---|---|
+| ≥80% | GOLD 1 mild |
+| 50 to <80% | GOLD 2 moderate |
+| 30 to <50% | GOLD 3 severe |
+| <30% | GOLD 4 very severe |
+
+**Confusion mat karna:** FEV1/FVC ratio obstruction identify karta hai. FEV1 % predicted airflow obstruction ki severity grade karta hai. GOLD A/B/E groups alag hain; symptoms aur exacerbation history par based hain. FEV1 grade akela overall clinical severity nahi batata. [GOLD 2027](https://goldcopd.org/2027-gold-report-and-pocket-guide/) | [NCBI COPD](https://www.ncbi.nlm.nih.gov/books/NBK559281/).
+
+**Cor pulmonale:** Long-term lung disease ki wajah se pulmonary pressure badhne aur right heart ki structure/function mein changes. Chronic lung disease → chronic hypoxia → pulmonary vasoconstriction → pulmonary hypertension → right ventricular overload → cor pulmonale. Findings: pedal edema, raised JVP, hepatomegaly, advanced cases mein right-sided heart failure. Diagram upar diya hai.
+
+**Secondary polycythemia:** Chronic hypoxia → kidneys erythropoietin zyada release kar sakti hain → RBC production badhta hai. Body oxygen-carrying capacity improve karne ki koshish karti hai.
+
+Other complications: hypercapnia (blood CO2 high), respiratory failure, pneumothorax (pleural air), recurrent infections.
+
+**Acute exacerbation:** Symptoms ka achanak worsen hona. Important clues: increased dyspnea, increased sputum volume, increased sputum purulence. Purulence ka matlab pus-like sputum. Prescribed bronchodilator, controlled oxygen, systemic steroid and antibiotics when indicated. NIV/BiPAP acute hypercapnic respiratory failure with respiratory acidosis mein important ho sakta hai. Patient ki condition assess karo; deterioration par urgent escalation.
+
+**LTOT — Long-term oxygen therapy:** Stable COPD mein confirmed severe chronic resting hypoxemia ke liye PaO2 ≤55 mmHg ya arterial oxygen saturation ≤88%; selected patients mein PaO2 55–60 mmHg ke saath pulmonary hypertension, edema ya secondary polycythemia bhi eligibility support kar sakte hain. At least 15 hours/day as prescribed. SpO2 screening useful hai, LTOT eligibility clinical assessment aur confirmation se decide hoti hai. [GOLD 2027 report page](https://goldcopd.org/2027-gold-report-and-pocket-guide/).
 
 ## 3. Chronic Bronchitis
 
@@ -113,6 +172,16 @@ Alveolar destruction → decreased elastic recoil → difficulty in expiration �
 | Percussion | Variable | Hyperresonance |
 
 Dono COPD ke components ho sakte hain aur ek hi patient mein coexist bhi kar sakte hain. [NIH COPD](https://www.nhlbi.nih.gov/education/BreatheBetter/COPD-national-action-plan-overview).
+
+### Types of emphysema
+
+| Type | Classic association | Region / complication |
+|---|---|---|
+| Centriacinar / centrilobular | Smoking | Upper lobes |
+| Panacinar | Alpha-1 antitrypsin deficiency | Lower lobes |
+| Paraseptal | Distal peripheral acini | Pleural regions, pneumothorax risk |
+
+Alpha-1 antitrypsin ek protective protein hai jo lung tissue ko damaging enzymes se protect karta hai. Genetic deficiency mein alveolar walls damage ho sakti hain; relatively young non-smokers mein bhi emphysema develop ho sakta hai. Ye patterns typical hain, absolute rules nahi. [NCBI COPD](https://www.ncbi.nlm.nih.gov/books/NBK559281/).
 
 ## Video teaching and practice
 
