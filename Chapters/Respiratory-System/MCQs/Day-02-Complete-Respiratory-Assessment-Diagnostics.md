@@ -15,6 +15,11 @@
 
 ## Inspection — patient ko dekhna
 
+![Exam revision diagram — Inspection — patient ko dekhna](../Assets/respiratory-exam-findings.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#2-inspection--patient-ko-dekhna) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q1. Routine respiratory examination mein **IPPA ka first step** kaunsa hai?
 
 - **A.** Percussion (tap)
@@ -58,6 +63,11 @@
 ---
 
 ## Palpation — haath se feel karna
+
+![Exam revision diagram — Palpation — haath se feel karna](../Assets/respiratory-exam-findings.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#3-palpation--haath-se-feel-karna) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q4. Nurse haath se dono posterior chest sides ka expansion compare karti hai. Kya check ho raha hai?
 
@@ -116,6 +126,11 @@
 
 ## Percussion — chest ko tap karna
 
+![Exam revision diagram — Percussion — chest ko tap karna](../Assets/respiratory-exam-findings.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#4-percussion--chest-tap-karna) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q8. Normal healthy air-filled peripheral lung par percussion kaunsa sound deta hai?
 
 - **A.** Dullness
@@ -172,6 +187,11 @@
 ---
 
 ## Auscultation — stethoscope se sunna
+
+![Exam revision diagram — Auscultation — stethoscope se sunna](../Assets/breath-sounds-revision.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#5-auscultation--stethoscope-se-sunna) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q12. Most peripheral lung fields par normal kaunsi breath sound milti hai?
 
@@ -242,6 +262,11 @@
 ---
 
 ## ABG basics aur interpretation
+
+![Exam revision diagram — ABG basics aur interpretation](../Assets/abg-interpretation-grid.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q17. ABG: pH 7.29, PaCO₂ 53, HCO₃⁻ 24. Basic primary disorder identify karo.
 
@@ -326,6 +351,11 @@
 
 ## Spirometry — FEV1, FVC aur ratios
 
+![Exam revision diagram — Spirometry — FEV1, FVC aur ratios](../Assets/spirometry-ratio.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#8-spirometry--fev-fvc-aur-ratio) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q23. Spirometry mein **FEV₁** kis duration ki forced expired air measure karta hai?
 
 - **A.** Forced expiration ke pehle 1 second
@@ -409,6 +439,11 @@
 
 ## Basic diagnostic investigations — introduction only
 
+![Exam revision diagram — Basic diagnostic investigations — introduction only](../Assets/assessment-map.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#9-basic-diagnostic-investigations) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q29. Oxygen saturation non-invasive tareeke se estimate karne ke liye kaunsa device use hota hai?
 
 - **A.** Pulse oximeter
@@ -452,6 +487,11 @@
 ---
 
 ## Extra 5 practice MCQs — studied concepts
+
+![Exam revision diagram — Extra 5 practice MCQs — studied concepts](../Assets/abg-interpretation-grid.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#7-abg-interpretation--step-by-step) · [📚 PYQs](../PYQs/README.md)
+
 
 These use only assessment, ABG and spirometry concepts already studied. Each answer remains hidden until you expand it.
 

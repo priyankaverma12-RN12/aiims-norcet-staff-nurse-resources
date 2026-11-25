@@ -15,6 +15,11 @@
 
 ## Airway aur conducting/respiratory zone
 
+![Exam revision diagram — Airway aur conducting/respiratory zone](../Assets/airway-zones.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#3-conducting-zone-vs-respiratory-zone) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q1. Voice box kise kehte hain?
 
 - **A.** Pharynx
@@ -84,6 +89,11 @@
 ---
 
 ## Lungs aur pulmonary circulation
+
+![Exam revision diagram — Lungs aur pulmonary circulation](../Assets/pulmonary-blood-circulation.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#5-pulmonary-circulation) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q6. Adult **right lung** mein kitne lobes hote hain?
 
@@ -155,6 +165,11 @@
 
 ## Alveoli cells, gas exchange aur surfactant
 
+![Exam revision diagram — Alveoli cells, gas exchange aur surfactant](../Assets/alveolar-cell-roles.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#6-alveoli-aur-unke-3-important-cells) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q11. Surfactant mainly alveoli ki kis cell type se banta hai?
 
 - **A.** Type I pneumocyte
@@ -224,6 +239,11 @@
 ---
 
 ## Pleura aur breathing mechanism
+
+![Exam revision diagram — Pleura aur breathing mechanism](../Assets/pleura-layers.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#8-pleura-aur-pleural-fluid) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q16. Lung ki surface ko directly cover karne wali pleura kaunsi hai?
 
@@ -295,6 +315,11 @@
 
 ## Lung volumes aur capacities
 
+![Exam revision diagram — Lung volumes aur capacities](../Assets/lung-volumes.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#10-lung-volumes-aur-capacities) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q21. Maximum forced expiration ke baad lungs mein jo air bachi rahe, wo kya hai?
 
 - **A.** TV
@@ -364,6 +389,11 @@
 ---
 
 ## Minute ventilation numericals
+
+![Exam revision diagram — Minute ventilation numericals](../Assets/minute-ventilation-calculation.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#11-minute-ventilation-numericals) · [📚 PYQs](../PYQs/README.md)
+
 
 ### Q26. RR = 17/min aur TV = 400 mL. Minute ventilation (MV) kitni?
 
@@ -435,6 +465,11 @@
 
 ## Normal adult respiratory values
 
+![Exam revision diagram — Normal adult respiratory values](../Assets/normal-values-study-chart.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#12-normal-respiratory-values) · [📚 PYQs](../PYQs/README.md)
+
+
 ### Q31. Kaunsa arterial pH value usual normal range **se bahar** hai?
 
 - **A.** 7.38
@@ -504,6 +539,11 @@
 ---
 
 ## Extra 5 practice MCQs — Day 1 ke wahi concepts
+
+![Exam revision diagram — Extra 5 practice MCQs — Day 1 ke wahi concepts](../Assets/surfactant-comparison.svg)
+
+[📖 Is topic ka detailed explanation](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md#7-surfactant-aur-deficiency) · [📚 PYQs](../PYQs/README.md)
+
 
 These five newer questions use the **same Day 1 concepts**, including the calculation mistakes revised during practice. They are not claimed to be previous-year NORCET questions.
 

@@ -66,6 +66,10 @@
 
 ## 3. Conducting zone vs respiratory zone
 
+![Conducting aur respiratory zone comparison](../Assets/airway-zones.svg)
+
+
+
 Sabhi airways mein gas exchange nahi hota. Kuch airways ka kaam sirf air ko transport karna hai.
 
 | **Conducting zone** | **Respiratory zone** |
@@ -80,6 +84,10 @@ Sabhi airways mein gas exchange nahi hota. Kuch airways ka kaam sirf air ko tran
 
 ## 4. Lungs: right aur left
 
+![Right lung 3 lobes, left lung 2 lobes](../Assets/lung-lobes-comparison.svg)
+
+
+
 | Right lung | Left lung |
 |---|---|
 | **3 lobes** — superior, middle, inferior | **2 lobes** — superior, inferior |
@@ -92,6 +100,10 @@ Sabhi airways mein gas exchange nahi hota. Kuch airways ka kaam sirf air ko tran
 **Exam trap:** “Foreign body aspiration commonly kis bronchus mein?” → **Right main bronchus** (especially adult teaching question).
 
 ## 5. Pulmonary circulation
+
+![Pulmonary blood circulation diagram](../Assets/pulmonary-blood-circulation.svg)
+
+
 
 Ye flow bina dekhe yaad karna bahut zaroori hai.
 
@@ -109,6 +121,10 @@ Ye flow bina dekhe yaad karna bahut zaroori hai.
 
 ## 6. Alveoli aur unke 3 important cells
 
+![Type I Type II macrophage cells](../Assets/alveolar-cell-roles.svg)
+
+
+
 Alveoli lungs ke chhote air sacs hain. Inke aas-paas capillaries hoti hain. **Oxygen alveoli se blood mein** aur **CO₂ blood se alveoli mein** mainly **diffusion** se move karta hai.
 
 | Cell | Function | Memory trick |
@@ -124,6 +140,10 @@ Alveoli lungs ke chhote air sacs hain. Inke aas-paas capillaries hoti hain. **Ox
 **Exam mistake:** Type I aur Type II ko interchange mat karna.
 
 ## 7. Surfactant aur deficiency
+
+![Surfactant deficiency diagram](../Assets/surfactant-comparison.svg)
+
+
 
 **Surfactant** Type II pneumocytes banate hain. Ye alveoli ki **surface tension ko kam** karta hai, jis se alveoli ko open rakhna relatively easy hota hai.
 
@@ -142,6 +162,10 @@ Alveoli ke collapse hone ko **atelectasis** keh sakte hain.
 **Wrong statement:** “Surfactant deficiency decreases surface tension.” **False** — deficiency mein tension badhegi.
 
 ## 8. Pleura aur pleural fluid
+
+![Visceral and parietal pleura](../Assets/pleura-layers.svg)
+
+
 
 Pleura lungs ki double-layered covering hai.
 
@@ -238,6 +262,10 @@ IRV = VC − ERV − TV
 
 ## 11. Minute ventilation numericals
 
+![MV formula and percentage calculation](../Assets/minute-ventilation-calculation.svg)
+
+
+
 Ye Day 1 mein humne kaafi practice ki thi, so formula pakka yaad rakhna:
 
 > **Minute Ventilation (MV) = Respiratory Rate (RR) × Tidal Volume (TV)**
@@ -305,6 +333,10 @@ RR badha, lekin TV kam hua. Isliye total MV **same** hai.
 
 ## 12. Normal respiratory values
 
+![Normal RR TV SpO2 PaO2 PaCO2 pH HCO3 values](../Assets/normal-values-study-chart.svg)
+
+
+
 | Parameter | Normal adult exam reference | Unit |
 |---|---|---|
 | **Respiratory Rate (RR)** | **12–20** | breaths/min |
@@ -353,6 +385,7 @@ RR badha, lekin TV kam hua. Isliye total MV **same** hai.
 4. pH 7.48; PaCO₂ 42 → pH usual range se **upar**.
 
 **Ab is chapter ki practice karo:** [Day 1 ke 40 Hinglish MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) → [Final 15-question mock](../MCQs/Day-01-Final-Mock-15.md).
+\n\n[📝 Matching MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 PYQs](../PYQs/README.md)
 
 ---
 

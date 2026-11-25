@@ -40,6 +40,10 @@ Routine exam mein patient ko explain karo, comfortable position do aur dono side
 
 ## 2. Inspection — patient ko dekhna
 
+![IPPA assessment findings side by side](../Assets/respiratory-exam-findings.svg)
+
+
+
 **Inspection** ka matlab hai patient ko **touch kiye bina observe** karna.
 
 ### Kya-kya check karna hai?
@@ -115,6 +119,10 @@ Kyon? Underlying tissues mein air, fluid ya solid tissue hone se note change ho 
 
 ## 5. Auscultation — stethoscope se sunna
 
+![Normal and abnormal breath sounds](../Assets/breath-sounds-revision.svg)
+
+
+
 **Auscultation** means stethoscope se breath sounds sunna. Right aur left corresponding lung regions ko compare karo. Patient ko comfortable deep breaths lene ko bol sakte hain.
 
 ### Normal breath sounds
@@ -165,6 +173,10 @@ Inspection = **look**; Palpation = **feel**; Percussion = **tap**; Auscultation 
 **Normal values ka caution:** Actual reference intervals lab, age aur altitude se vary kar sakte hain. Ye simplified exam pattern hai.
 
 ## 7. ABG interpretation — step by step
+
+![ABG decision grid for four basic patterns](../Assets/abg-interpretation-grid.svg)
+
+
 
 Is topic mein humne basic acid-base classification padhi thi. Advanced compensation aur mixed disorders abhi nahi padh rahe.
 
@@ -229,6 +241,10 @@ pH high, HCO₃⁻ high. **Answer: Metabolic alkalosis**.
 ---
 
 ## 8. Spirometry — FEV₁, FVC aur ratio
+
+![FEV1 and FVC example curve and calculation](../Assets/spirometry-ratio.svg)
+
+
 
 **Spirometry** lungs se forcefully air kitni aur kitni fast nikalti hai, ye measure karne wala test hai.
 
@@ -314,6 +330,7 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 3. “FEV₁ 1.8 L, FVC 3 L. Ratio?” → (1.8/3) × 100 = **60%**.
 
 **Ab practice:** [Day 2 ke 36 MCQs Hinglish mein](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) aur [quick revision](../Revision/Day-02-Quick-Revision.md).
+\n\n[📝 Matching MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 PYQs](../PYQs/README.md)
 
 ---
 

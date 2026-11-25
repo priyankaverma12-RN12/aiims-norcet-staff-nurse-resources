@@ -2,6 +2,14 @@
 
 **15 MCQs · Har correct answer = 1 mark · Target 12/15.** Pehle khud attempt karo, fir answer kholo. Ye hamare studied concepts par based original NORCET-style practice hai, verified PYQ nahi.
 
+[📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 Topic MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 HP Staff Nurse PYQs](../PYQs/HP-Staff-Nurse-2022-Respiratory.md)
+
+![Right aur left lung lobes diagram](../Assets/lung-lobes-comparison.svg)
+
+![Adult respiratory normal values](../Assets/normal-values-study-chart.svg)
+
+
+
 ### Q1. Nasal cavity ke baad air ka correct route kaunsa hai?
 - A. Pharynx → larynx → trachea → bronchi
 - B. Larynx → pharynx → bronchi → trachea
