@@ -14,6 +14,9 @@
 
 **Jab bhi hum bolen "push this to GitHub"**, ye rules follow honge: [Nursing Study Publisher SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Sirf padhe hue topics, detailed Hinglish Concepts, **unchanged English MCQs/options**, Easy/Medium/Difficult labels, detailed answers, sourced Previous Year Questions, useful YouTube videos aur diagrams add karenge.
 
+
+**Extra revision rule:** Agar existing studied chapter mein important concepts/MCQs miss hue hon, toh ek extra **combined Concepts + 30+ unique English MCQs** file add karenge. Answers hidden dropdown mein, detailed Hinglish explanations aur diagrams ke saath. Repeated MCQs ya bekaar filler add nahi hoga. [Full skill](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
+
 GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.md](.github/copilot-instructions.md).
 
 ## 📚 Abhi available chapter
