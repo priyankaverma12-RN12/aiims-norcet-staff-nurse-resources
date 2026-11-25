@@ -1,6 +1,6 @@
 # Day 02 — Rapid revision sheet
 
-![Assessment sequence](../../Assets/assessment-map.svg)
+![Assessment sequence](../Assets/assessment-map.svg)
 
 ## IPPA examination sequence
 1. **Inspection:** look at RR, rhythm, symmetry, effort, distress.
@@ -35,4 +35,4 @@
 ## Diagnostic investigation basics
 Pulse oximetry = saturation · ABG = gases/acid-base · CXR = chest image · Spirometry = airflow.
 
-[← Day 2 index](../README.md)
+[← Respiratory chapter](../README.md)

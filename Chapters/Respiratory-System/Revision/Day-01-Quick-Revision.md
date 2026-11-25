@@ -1,6 +1,6 @@
 # Day 01 — One-page rapid revision
 
-![Respiratory system](../../Assets/respiratory-tract.svg)
+![Respiratory system](../Assets/respiratory-tract.svg)
 
 ## Recall in 60 seconds
 - Air pathway: **nose → pharynx → larynx → trachea → bronchi → bronchioles → alveoli**.
@@ -29,4 +29,4 @@ RR **12–20/min** · TV **~500 mL** · SpO₂ **95–100%** · PaO₂ **80–10
 
 > Oxygen ranges are teaching approximations for healthy adults near sea level. Do not use these as universal clinical thresholds.
 
-**Next:** [15-question final mock](../MCQs/final-mock-15.md) · [Day 2](../../Day-02-Assessment-Diagnostics/README.md)
+**Next:** [15-question final mock](../MCQs/Day-01-Final-Mock-15.md) · [Day 2 chapter topics](../README.md)

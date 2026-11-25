@@ -182,4 +182,4 @@
 
 </details>
 
-[← Day 1 topic index](../README.md)
+[← Respiratory chapter](../README.md)
