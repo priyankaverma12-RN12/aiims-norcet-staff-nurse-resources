@@ -385,3 +385,45 @@
 </details>
 
 [Chapter](../README.md) · [Concepts](../Concepts/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md) · [Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [Revision](../Revision/Day-04-Quick-Revision.md)
+
+## Bonus original unattempted clinical questions
+
+### Q21. A ventilated obstructive lung disease patient has expiratory flow that fails to return to zero before the next inspiration, with rising pressures. Which strategy should the ICU team assess?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Increase mandatory rate without assessment
+- **B.** Allow more time for expiration to reduce dynamic hyperinflation
+- **C.** Increase tidal volume blindly
+- **D.** Shorten expiratory time further
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Allow more time for expiration to reduce dynamic hyperinflation**
+
+**Kyun sahi aur baaki options galat:** Incomplete expiration indicates air trapping/auto-PEEP; longer expiratory time may help. Faster rate, larger volumes and shorter expiration can worsen trapping. Nurse assesses/escalates, not unauthorized settings.
+
+**Exam trick:** Incomplete expiration indicates air trapping/auto-PEEP.
+
+</details>
+
+### Q22. A ventilated patient has condensate accumulating in the breathing circuit. Which action is appropriate?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Drain contaminated condensate into the patient's airway
+- **B.** Disconnect ventilation for prolonged periods without support
+- **C.** Manage condensate according to protocol without draining it toward the patient
+- **D.** Ignore fluid that obstructs the circuit
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Manage condensate according to protocol without draining it toward the patient**
+
+**Kyun sahi aur baaki options galat:** Condensate contamination/obstruction risk; drain away per protocol. Into airway, prolonged disconnection or ignoring unsafe.
+
+**Exam trick:** Condensate contamination/obstruction risk.
+
+</details>
+
+[Concepts](../Concepts/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md) · [Chapter](../README.md)
