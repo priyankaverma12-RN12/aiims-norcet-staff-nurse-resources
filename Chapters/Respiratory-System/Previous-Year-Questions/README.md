@@ -35,3 +35,7 @@ Research lead: [SGPGI Staff Nurse 2024 Shift 1 paper (third-party PDF)](https://
 ## Day 2–3 practice research
 
 [Research and paper leads](../MCQs/Research-and-Paper-Leads.md) — original practice and reported past-exam themes alag hain; official keys not independently confirmed.
+
+## Day 4 reported exam leads
+
+[NORCET, HPRCA May 2026 and PGIMER 2025](Day-04-Reported-Exam-Leads.md) — topic-based leads, not verified exact official papers. [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md).
