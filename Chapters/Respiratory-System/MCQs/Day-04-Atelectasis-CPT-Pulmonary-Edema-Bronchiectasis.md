@@ -4,6 +4,8 @@
 
 **12 original English unattempted practice MCQs.** Not official past-paper text. Solve before opening explanations. Source-traced themes in Previous Year Questions.
 
+## Atelectasis and incentive spirometry
+
 ### Q1. After abdominal surgery, a patient avoids deep breaths because of pain. Which mechanism most directly predisposes to atelectasis?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -80,6 +82,8 @@
 
 </details>
 
+## Chest physiotherapy
+
 ### Q5. What is the purpose of cupped-hand percussion in chest physiotherapy?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -137,6 +141,8 @@
 
 </details>
 
+## Pulmonary edema
+
 ### Q8. A patient with acute left ventricular failure develops bilateral crackles and severe orthopnea. Which mechanism is most likely?
 
 **Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -193,6 +199,8 @@
 **Exam trick:** Diuresis changes volume/BP.
 
 </details>
+
+## Bronchiectasis
 
 ### Q11. A patient with repeated chest infections has HRCT showing permanently widened bronchi. Which diagnosis is supported?
 
