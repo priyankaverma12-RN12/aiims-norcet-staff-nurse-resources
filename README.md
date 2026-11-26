@@ -27,7 +27,7 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 | Chapter | Read | Practice | Previous Year Questions |
 |---|---|---|---|
-| **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1 full guide](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 full guide](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 3 diseases](Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [40 Day 1 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [36 Day 2 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [HP scanned 2022 + NORCET memory-based](Chapters/Respiratory-System/Previous-Year-Questions/README.md) |
+| **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1 full guide](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 full guide](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 3 diseases](Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [40 Day 1 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [51 Day 2 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [HP scanned 2022 + NORCET memory-based](Chapters/Respiratory-System/Previous-Year-Questions/README.md) |
 
 ### 🫁 [👉 Respiratory System overview kholo](Chapters/Respiratory-System/README.md)
 
@@ -49,7 +49,7 @@ Chapters/
 └── Respiratory-System/
     ├── README.md
     ├── Concepts/        # 4 long concept guides
-    ├── MCQs/            # 40 + 36 + 15 practice/mock MCQs
+    ├── MCQs/            # Day-wise original practice and mocks
     ├── Previous-Year-Questions/            # Sourced historic paper / memory-based
     ├── Revision/
     ├── Assets/          # 19 original study SVG diagrams
@@ -68,3 +68,7 @@ Chapters/
 [Detailed Hinglish concepts and quick revision](Chapters/Respiratory-System/Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](Chapters/Respiratory-System/MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Chapters/Respiratory-System/Assets/day-04-alveoli-pleura.svg)
 
 Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; proposed new emergency topics are not marked completed.
+
+## Day 2–3 — 170 new practice questions
+
+[Day 2 bank (51 total)](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 2 mock (25)](Chapters/Respiratory-System/MCQs/Day-02-Final-Mock-25.md) · [Day 3 diseases (55)](Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md) · [Day 3 nursing (45)](Chapters/Respiratory-System/MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [Day 3 mock (30)](Chapters/Respiratory-System/MCQs/Day-03-Final-Mock-30.md). All newly added questions are unattempted practice, not official papers.
