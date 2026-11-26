@@ -1,6 +1,6 @@
 # NORCET Full Chapter Index — curriculum-based study map
 
-## Current mock progress — 26 November 2026
+## Current mock progress — 27 November 2026
 
 | Chapter | Published 120-question tests |
 |---|---:|
@@ -11,9 +11,9 @@
 | [Anatomy and Physiology](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | 5 |
 | [Nursing Foundations](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | 5 |
 | Other 29 chapters | 0 |
-| **Total** | **17 of 175** |
+| **Total** | **17 of 350** |
 
-Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 158 further tests are needed to reach five per chapter. Anatomy and Physiology and Nursing Foundations have each met the five-mock minimum with 600 original questions per chapter. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks and 600 original questions per chapter, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -159,3 +159,13 @@ These five tests are revision compilations of prior original practice questions.
 ## Nursing Foundations — topic-first milestone
 
 600 newly authored questions in 30 topic files, five nonoverlapping 120-question mock compilations, 34 source-linked reported question adaptations and 11 video links published. Full detailed concepts and official key authentication remain incomplete. Next curriculum workstream: Infection Control and Microbiology.
+
+
+## Updated learner target — 27 November 2026
+
+This supersedes earlier numerical targets. For every curriculum chapter, publish 30–40 distinct original MCQs per meaningful topic, targeting 40 where possible, before building ten chapter-only mocks of 120 questions each. Aim for 1,200 distinct mock stems per chapter. If topic banks contain fewer than 1,200, author and validate additional chapter-specific questions rather than silently repeating stems or padding with trivial variants. Keep earlier questions and mocks and audit them for quality and coverage. Use plausible distractors, realistic NORCET-style clinical reasoning and medium/difficult questions, plus relevant Indian staff nurse factual concepts. Difficulty and priority are editorial labels. English stems and options, complete natural Roman Hinglish explanations of correct and incorrect options, no semicolon punctuation in newly authored study prose. Deeply research INC curriculum, current clinical guidelines, NORCET, AIIMS, PGIMER, SGPGI, JIPMER, ESIC, RRB, DSSSB, HPSSC/HPRCA, state nursing and CHO exams, coaching and YouTube. List individual source-linked PYQ practice questions with four options and detailed rationales, exam/year/shift where evidenced, and evidence status. Use exact wording only when lawful and supported by the source. Label adaptations, recall and provisional leads honestly. Keep Concepts, MCQs, Mock-Tests and Previous-Year-Questions separate with descriptive filenames. Include detailed plain-language concepts, relevant diagrams and checked video resources. Resume from verified repository progress on every continuation. Commit manageable validated batches to main without force, read back the files, update chapter and global progress, and record the next unfinished task. Do not count incomplete files or claim that exhaustive historical official papers were authenticated. Continue chapter by chapter until all tracked chapters satisfy the achievable targets and document any remaining evidence gaps.
+
+
+## Continuation checkpoint
+
+Next: Infection Control and Microbiology. Afterwards audit and expand all earlier chapters to the revised target. Baseline: 17 published mocks, 350 target, 333 remaining. No chapter is yet confirmed to meet the revised ten-mock target. Existing 35-chapter denominator is provisional until the directory inventory is reconciled against the curriculum index. Older counts and targets are historical.
