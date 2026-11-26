@@ -1,6 +1,6 @@
 # 🧠 Endocrine System — Complete Concepts Index
 
-[🏠 Chapter](../README.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
+[🏠 Chapter](../README.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
 
 ![Endocrine overview](../Assets/gland-map.svg)
 
@@ -24,6 +24,9 @@
 - Prior monolithic guide reorganized, original version retained in Git history. No MCQ stems/options changed in this restructuring.
 
 ## 🎬 YouTube — teaching and practice
+
+[Open updated topic-wise teaching and MCQ video guide](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md).
+
 | Topic | Concept | Practice |
 |---|---|---|
 | Glands / physiology | [PW Nursing Wallah Aarogyam A&P](https://www.youtube.com/watch?v=_bPmrRWgrTQ) | [Endocrine mixed MCQs 2026](https://www.youtube.com/watch?v=W00an2mL_5w) |
