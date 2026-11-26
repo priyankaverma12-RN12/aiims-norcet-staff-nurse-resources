@@ -29,7 +29,7 @@
 🔴 **MOST IMPORTANT:** Hypoglycemia first aid, DKA vs HHS, potassium before insulin. PGIMER 2020 reported early hypoglycemia question.
 
 - Hypoglycemia alert threshold below 70 mg/dL. Sweating, tremor, hunger, confusion. severe cases seizure/unconsciousness.
-- Awake aur safely swallow kar sakta hai: 15 g fast carbohydrate, 15 minutes baad glucose recheck. repeat if still low. Unable to swallow: oral kuch mat do. emergency assistance, glucagon or IV dextrose per protocol.
+- Awake aur safely swallow kar sakta hai: 15 g fast carbohydrate, 15 minutes baad glucose recheck. Repeat if still low. Unable to swallow: oral kuch mat do. emergency assistance, glucagon or IV dextrose per protocol.
 
 | Feature | DKA | HHS |
 |---|---|---|
@@ -38,7 +38,7 @@
 | Glucose | Often high, can be near normal | Usually very high |
 | Typical association | Type 1, but any type | Type 2, but overlap possible |
 
-- DKA: insulin deficiency → fat breakdown → ketones → metabolic blood mein acid badhna (acidosis). Nausea, abdominal pain, deep breathing, fruity breath.
+- DKA: insulin deficiency → fat breakdown → ketones → metabolic acidosis (blood mein acid badhna). Nausea, abdominal pain, deep breathing, fruity breath.
 - HHS: severe hyperglycemia → urine water loss → dehydration → altered mental status.
 - Treatment principles: IV fluids, potassium assessment/replacement, insulin zaroorat aur doctor ke order ke hisaab se, frequent glucose/electrolytes, treat disease ko achanak badhane wala kaaran. If potassium severely low, insulin delayed until corrected per protocol.
 - DKA glucose normalize hone se pehle ketones clear nahi bhi hue ho sakte. doctor ke order ki dextrose may be added so insulin can continue safely.
@@ -54,14 +54,14 @@
 | Osmolality | Not mandatory | Effective >300 OR total >320 mOsm/kg |
 
 - Effective osmolality (glucose mg/dL): 2 × sodium + glucose/18. Example: Na 150, glucose 720 → 340 mOsm/kg. Total osmolality additionally includes BUN/2.8 (mg/dL).
-- Anion gap = Na − (Cl + HCO3). Example 140 − (104 + 12) = 24 mmol/L. supports high-gap blood mein acid badhna (acidosis) but ketone measurement preferred for DKA baar-baar check karna.
-- If K <3.5 mmol/L in adult crisis, replace potassium and defer insulin until >3.5 per 2024 consensus. Older textbooks often use 3.3; read exam's specified guideline. Follow local emergency protocol and monitor ECG/electrolytes.
+- Anion gap = Na − (Cl + HCO3). Example 140 − (104 + 12) = 24 mmol/L. Ye high anion-gap metabolic acidosis ka clue hai. DKA mein ketone level baar-baar check karna zyada useful hai.
+- If K <3.5 mmol/L in adult crisis, replace potassium and defer insulin until >3.5 per 2024 consensus. Older textbooks often use 3.3. read exam's specified guideline. Follow local emergency protocol and monitor ECG/electrolytes.
 - DKA resolution: plasma ketone <0.6 mmol/L AND pH ≥7.3 OR bicarbonate ≥18 mmol/L (acid-base condition in addition to ketone criterion). ideally glucose <200. Glucose alone does not prove resolution. Pediatric/pregnancy protocols differ.
 
 ### 🔴 Hypoglycemia, DKA and HHS — emergency nursing priorities
 | Situation | First priorities and monitoring | Reassessment |
 |---|---|---|
-| Hypoglycemia, awake and safely swallowing | Check glucose when possible without delaying care. fast carbohydrate per protocol (usually 15 g adult), recheck after 15 min. repeat if still low | Symptoms, glucose, meal/snack as appropriate, cause and medication review |
+| Hypoglycemia, awake and safely swallowing | Check glucose when possible without delaying care. fast carbohydrate per protocol (usually 15 g adult), recheck after 15 min. Repeat if still low | Symptoms, glucose, meal/snack as appropriate, cause and medication review |
 | Hypoglycemia, unable to swallow | No oral food/drink. protect airway, emergency help, glucagon or IV dextrose per protocol | Consciousness and repeated glucose. prevent recurrence |
 | DKA | ABC, IV access, ordered isotonic/balanced fluids, glucose/ketones, blood gas, K and renal tests. potassium safety before insulin, pump/infusion checks | Glucose and vital signs frequently. electrolytes/ketones/pH per protocol. dextrose when indicated so insulin can continue until ketoacidosis resolves |
 | HHS | ABC, perfusion and dehydration assessment, ordered IV fluids, glucose, electrolytes, osmolality and neurologic monitoring. insulin per protocol | Gradual correction of osmolality/glucose, fluid balance, mental status and renal function |
@@ -87,10 +87,10 @@ flowchart TD
 ```
 - Insulin low → lipolysis → liver ketones (beta-hydroxybutyrate, acetoacetate). acid accumulates. Deep Kussmaul breathing compensates by blowing off CO2. fruity breath from acetone. Vomiting, pain, dehydration, tachycardia. Glucose may be modest with SGLT2/pregnancy/fasting.
 - Triggers infection, omitted insulin, new diabetes, MI, stress, medication. Treat cause as well as metabolic crisis. Blood ketones preferred when available.
-- Initial K can be normal/high despite total body depletion. Insulin pushes K intracellularly; low K before insulin dangerous arrhythmia. Adult 2024 consensus delay insulin if K <3.5 until corrected >3.5; older exam source 3.3 may differ.
+- Initial K can be normal/high despite total body depletion. Insulin pushes K intracellularly. low K before insulin dangerous arrhythmia. Adult 2024 consensus delay insulin if K <3.5 until corrected >3.5. Older exam source 3.3 may differ.
 ## 🔴 VERY HIGH | HHS — why neurological signs?
 - Relative insulin sufficient to limit major ketosis but not severe hyperglycemia → prolonged glucose ke saath urine mein paani zyada nikalna (osmotic diuresis) → water loss > sodium loss → high osmolality → confusion/seizures/coma possible. Common older type 2 with illness and limited water access. DKA/HHS overlap possible.
-- **Numerical example:** Na 148, glucose 900 mg/dL → effective osmolality = 296 + 50 = 346 mOsm/kg. Very high, but HHS requires all criteria including absence of significant ketosis/blood mein acid badhna (acidosis).
+- **Numerical example:** Na 148, glucose 900 mg/dL → effective osmolality = 296 + 50 = 346 mOsm/kg. Very high, but HHS requires all criteria including absence of significant ketosis ya acidosis.
 - HHS correction must be gradual. monitor osmolality and neurologic status, fluid overload especially heart/kidney disease.
 ## 🔴 VERY HIGH | Adult crisis nursing sequence
 1. ABC, vital signs, mental status, ECG, IV access, glucose/ketones/electrolytes/venous pH/renal function and precipitant assessment.
@@ -98,22 +98,22 @@ flowchart TD
 3. Check potassium. replace zaroorat aur doctor ke order ke hisaab se before/with insulin. IV insulin via protocol and infusion pump, double-check.
 4. Glucose often every 1–2h. electrolytes/pH/ketones and HHS osmolality per protocol (often 4h). monitor ECG/organs tak blood pahunchna (perfusion). Add dextrose when indicated to allow continued insulin until ketoacidosis resolves.
 5. DKA resolution ketones <0.6 mmol/L AND (pH ≥7.3 OR bicarbonate ≥18). HHS resolution depends osmolality, hydration, cognition and glucose. not glucose alone. Transition with doctor ke order ki basal overlap before IV insulin stop.
-- Bicarbonate not routine DKA, severe blood mein acid badhna (acidosis) specific indications. phosphate not routine unless clinically indicated. Pediatric DKA cerebral injury risk and fluid/insulin protocols distinct.
+- Bicarbonate not routine DKA, bahut severe acidosis mein doctor kuch cases mein use kar sakte hain. Phosphate not routine unless clinically indicated. Pediatric DKA cerebral injury risk and fluid/insulin protocols distinct.
 - **Sick-day education:** do not omit doctor ke order ki basal insulin, monitor glucose and ketones, maintain tolerated fluids, know urgent symptoms (vomiting, abdominal pain, fast breathing, confusion, persistent ketones). Individual written plan.
-- **Exam trap:** Kussmaul = compensatory respiratory response to metabolic blood mein acid badhna (acidosis). No routine oral treatment when unconscious. Normal glucose alone does not equal DKA resolved.
+- **Exam trap:** Kussmaul = compensatory respiratory response to metabolic acidosis (blood mein acid badhna). No routine oral treatment when unconscious. Normal glucose alone does not equal DKA resolved.
 
 
 ## 🎬 Study resources
 
 [DKA/HHS lab values and quiz](https://www.youtube.com/watch?v=E1VncG3dFdY) · [DKA/HHS case practice](https://www.youtube.com/watch?v=PyKl44OV51M) (English supplemental)
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [ADA 2026 hospital care](https://doi.org/10.2337/dc26-s016) · [ADA glycemic emergencies](https://doi.org/10.2337/dc26-s006) · [2024 adult crisis consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
