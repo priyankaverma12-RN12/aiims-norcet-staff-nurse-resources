@@ -90,3 +90,13 @@ Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions wi
 [Complete topic-wise index](Chapters/Respiratory-System/README.md#day-4--completion-practice) · [50-question grand mock](Chapters/Respiratory-System/MCQs/Respiratory-System-Grand-Mock-50.md) · [Day 4 quick revision](Chapters/Respiratory-System/Revision/Day-04-Quick-Revision.md) · [Exam research](Chapters/Respiratory-System/Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). All new questions are unattempted, original practice. Total respiratory bank: 422.
 
 **Endocrine resources:** [Exam-wise named Previous Year Questions](Chapters/Endocrine-System/Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [Topic-wise teaching and MCQ videos](Chapters/Endocrine-System/Endocrine-YouTube-Teaching-and-MCQ-Practice.md).
+
+
+## Learner's plain-language rule — 26 November 2026
+
+- Teach a beginner who has never heard the medical word before. Use everyday Roman Hindi with common English words. Explain the word immediately, then explain what happens in the body, why it happens, what the nurse sees and what the nurse does. For example: "Insulin ko ek chaabi samjho. Ye glucose ko blood se muscle aur fat cells ke andar jaane mein madad karta hai. Jab insulin kam ho ya kaam na kare, blood mein glucose badh jaata hai."
+- Use short complete sentences. One idea per sentence. Use simple headings, numbered steps, comparisons and practical examples. Avoid clipped textbook English, unexplained abbreviations and unnecessarily complex vocabulary. Keep necessary English medical terms for the exam.
+- Never type semicolon punctuation in learner-facing notes, answers, explanations, navigation or new question stems/options. Use a full stop or a new bullet instead. Do not damage existing exact English exam questions, URLs, code, HTML entities or SVG syntax. Preserve old question wording.
+- Group 3–4 related topics in descriptive concept filenames. README is a navigation and rules page, not the actual study bank. Keep actual MCQs and mocks in MCQs, exam-source questions in Previous-Year-Questions, and relevant video links in concept pages.
+- For requested extra practice, add 50+ per requested chapter when enough distinct learning points exist, mainly NORCET-level clinical and numerical Medium/Difficult questions, with a separate named mock. Do not inflate counts with duplicates. Four English options, hidden answers, everyday Hinglish reasoning for each distractor, and a useful exam clue. Mark unattempted. Original practice is not an official Previous Year Question.
+- When a learner requests full chapter preparation, clearly label it study-ready and not yet studied. Re-fetch the rules before future GitHub changes.
