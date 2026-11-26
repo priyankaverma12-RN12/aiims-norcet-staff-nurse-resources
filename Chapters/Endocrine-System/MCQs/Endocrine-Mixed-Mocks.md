@@ -1,6 +1,6 @@
 # 🎯 Endocrine mixed mocks — 25 existing questions
 
-[🏠 Chapter](../README.md) · [📖 Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
+[🏠 Chapter](../README.md) · [📖 Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
 
 **Unattempted.** Practice only. Try without opening answers; +1 correct, −1/3 wrong, 0 skipped is suggested practice scoring, not official exam pattern. Original questions preserved; related concepts may intentionally recur.
 
@@ -491,3 +491,6 @@ D. Stop as soon as symptoms improve
 
 </details>
 
+
+
+[Topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md) · [26 source-linked exam question practice entries](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md).
