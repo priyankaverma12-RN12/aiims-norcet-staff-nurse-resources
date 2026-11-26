@@ -4,6 +4,8 @@
 
 **20 original English unattempted practice MCQs.** Not official past-paper text. Solve before opening explanations. Source-traced themes in Previous Year Questions.
 
+## Ventilator modes, alarms and weaning
+
 ### Q1. A ventilated patient triggers an additional breath and receives the full preset support. Which mode best matches?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -194,6 +196,8 @@
 
 </details>
 
+## ETT and tracheostomy
+
 ### Q11. Which tracheostomy component is removed after it has guided insertion?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -289,6 +293,8 @@
 
 </details>
 
+## Airway suctioning
+
 ### Q16. Which finding supports the need to suction an artificial airway rather than suctioning solely by the clock?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -364,6 +370,8 @@
 **Exam trick:** Vagal bradycardia/hypoxemia possible.
 
 </details>
+
+## VAP prevention
 
 ### Q20. Which adult VAP prevention plan best reflects current guidance?
 
