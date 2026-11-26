@@ -6,6 +6,34 @@
 
 > **How to study this chapter / Padhne ka tareeka:** English definitions aur medical terms pehle samjho; uske baad easy Hindi-English explanation padho. Har diagram mein arrows aur labels follow karo. Red and blue circulation diagrams oxygen-rich/oxygen-poor blood show karte hain; other color coding section-specific hai. Then read exam traps and solve hidden-answer English MCQs. Long theory retained; diagrams are schematic and not diagnostic images.
 
+## 🎨 Colour-coded Exam Priority & Quick Navigation
+
+🔴 **VERY HIGH — Pehle padho:** ECG and arrhythmias; ACS/MI; heart failure; cardiac output and hemodynamics; shock/CPR; cardiac drugs.
+
+🟠 **HIGH — Next:** Heart anatomy, coronary circulation, valves and heart sounds; hypertension; investigations; PCI/CABG; tamponade; congenital defects; DVT/PAD.
+
+🟡 **IMPORTANT — Skip mat karna:** Fetal circulation, rehabilitation, cardiomyopathy subtypes, less common inflammatory and vascular diseases.
+
+> **PYQ evidence:** Ye study-priority labels hain, official weightage nahi. 'Repeated NORCET PYQ' sirf multiple traceable original papers verify hone par label karna; memory-based PYQs aur original practice MCQs ko alag rakho.
+
+### 🫀 Blood flow — visual recap
+
+![Colour-coded circulation](../Assets/master-heart-flow.svg)
+
+- 🔵 **Deoxygenated:** Body → SVC/IVC → RA → Tricuspid → RV → Pulmonary valve → Pulmonary artery → Lungs
+- 🔴 **Oxygenated:** Lungs → Pulmonary veins → LA → Mitral → LV → Aortic valve → Aorta → Body
+- 🧠 **Exam trap:** Artery means away from heart, not always oxygenated.
+
+### 📚 Study pattern
+
+- **Definition:** English medical terminology.
+- **Concept:** Easy Hindi-English, with *why* and *how*.
+- **Clinical:** Symptoms → mechanism → investigations → nursing priorities.
+- **Visual:** Labelled diagram, flowchart, comparison table.
+- **Practice:** Exam trap, original MCQ, separately sourced PYQ.
+
+---
+
 ## Contents
 - [Foundation and circulation](#foundation-and-circulation)
 - [Coronary circulation and physiology](#coronary-circulation-and-physiology)
@@ -32,20 +60,48 @@
 **Simple Hindi-English:** Heart ek pump hai; vessels delivery aur return ka network hain. Har cell ko oxygen aur nutrients pahunchte hain, waste remove hota hai. **Exam focus: Very High.**
 **Very High:** anatomy, valve sounds and blood flow. Existing detailed nonduplicate foundation: [heart anatomy, layers, pericardium, cardiac muscle, embryology](Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md); [chambers, valves, septa, great vessels and auscultation](Day-04-Chambers-Valves.md). In dono ko isi master chapter ka Part 1 samjho; existing explanations aur diagrams wahan preserved hain.
 
-Heart ko do pumps samjho jo series mein kaam karte hain. Right pump oxygen-poor blood lungs bhejta hai; left pump oxygen-rich blood body ko. Artery heart se door, vein heart ki taraf; oxygen content definition nahi. Pulmonary artery aur veins classic exceptions to oxygen-content shortcut. Systemic aur pulmonary circuits ka flow long-term equal hota hai; imbalance congestion produce karta hai.
+- Heart ko do pumps samjho jo series mein kaam karte hain.
+- Right pump oxygen-poor blood lungs bhejta hai; left pump oxygen-rich blood body ko.
+- Artery heart se door, vein heart ki taraf; oxygen content definition nahi.
+- Pulmonary artery aur veins classic exceptions to oxygen-content shortcut.
+- Systemic aur pulmonary circuits ka flow long-term equal hota hai; imbalance congestion produce karta hai.
 
 ```mermaid
 flowchart TD
 Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventricle] --> P[Pulmonary valve] --> PA[Pulmonary arteries] --> L[Lungs] --> PV[Pulmonary veins] --> LA[Left atrium] --> M[Mitral valve] --> LV[Left ventricle] --> A[Aortic valve] --> AO[Aorta] --> Body
 ```
 
-Arteries: thick elastic/muscular media pressure handle karti hai. Arterioles resistance regulate karte hain; capillaries thin endothelial exchange surface; veins low-pressure capacitance reservoir, valves especially limbs mein backflow rokne mein help. Skeletal muscle pump aur breathing venous return support karte hain. Tunica intima endothelial lining, media smooth muscle, adventitia external support. Elastic arteries pulse dampen karte; muscular arteries distribution. Continuous capillaries muscle, fenestrated kidney/endocrine, sinusoidal liver/bone marrow. Hydrostatic pressure fluid outward push karta; plasma oncotic pressure outward filtration oppose karta. Lymphatic system excess interstitial fluid/protein return karta. Edema venous congestion, low albumin, permeability ya lymph obstruction se ho sakta. Clinical example: HF mein venous hydrostatic pressure badhkar edema; nephrotic syndrome mein albumin loss; unilateral lymph obstruction mein localized edema.
+- Arteries: thick elastic/muscular media pressure handle karti hai.
+- Arterioles resistance regulate karte hain; capillaries thin endothelial exchange surface; veins low-pressure capacitance reservoir, valves especially limbs mein backflow rokne mein help.
+- Skeletal muscle pump aur breathing venous return support karte hain.
+- Tunica intima endothelial lining, media smooth muscle, adventitia external support.
+- Elastic arteries pulse dampen karte; muscular arteries distribution.
+- Continuous capillaries muscle, fenestrated kidney/endocrine, sinusoidal liver/bone marrow.
+- Hydrostatic pressure fluid outward push karta; plasma oncotic pressure outward filtration oppose karta.
+- Lymphatic system excess interstitial fluid/protein return karta.
+- Edema venous congestion, low albumin, permeability ya lymph obstruction se ho sakta.
+- Clinical example: HF mein venous hydrostatic pressure badhkar edema; nephrotic syndrome mein albumin loss; unilateral lymph obstruction mein localized edema.
 
 ### Blood vessels, microcirculation and venous return — detailed concept
-Imagine ek city ka water supply: main pipe aorta, distribution pipes arteries, narrow adjustable taps arterioles, house ke paas exchange capillaries, aur return pipes veins. Arterioles ka radius thoda kam ho to resistance bahut badh sakti hai (ideal laminar tube mein R proportional 1/r⁴); actual vessels elastic hain, but concept useful. Vasodilation local blood supply badhati; exercise muscle metabolic products aur nitric oxide arterioles dilate karte hain. Sympathetic alpha-1 vasoconstriction skin/splanchnic blood flow redirect kar sakti hai. Veins mein large proportion blood stored hota hai; standing par gravity pooling, valves aur calf contraction return improve karte hain. Immobility → stasis → VTE risk.
-Capillary exchange mein hydrostatic pressure aur protein-related oncotic gradients important hain; classical exam arterial-end filtration/venous-end reabsorption model simplified hai, modern understanding mein most filtered fluid lymphatics return karte hain. Endothelial glycocalyx barrier bhi important. Nurse edema ko sirf fluid overload mat samjho: unilateral hot swelling DVT/infection, bilateral pitting edema HF/venous disease, nonpitting chronic lymphedema possibilities. Weight gain with edema, JVP, lung sounds and I/O combine karna clinical reasoning hai.
+- Imagine ek city ka water supply: main pipe aorta, distribution pipes arteries, narrow adjustable taps arterioles, house ke paas exchange capillaries, aur return pipes veins.
+- Arterioles ka radius thoda kam ho to resistance bahut badh sakti hai (ideal laminar tube mein R proportional 1/r⁴); actual vessels elastic hain, but concept useful.
+- Vasodilation local blood supply badhati; exercise muscle metabolic products aur nitric oxide arterioles dilate karte hain.
+- Sympathetic alpha-1 vasoconstriction skin/splanchnic blood flow redirect kar sakti hai.
+- Veins mein large proportion blood stored hota hai; standing par gravity pooling, valves aur calf contraction return improve karte hain.
+- Immobility → stasis → VTE risk.
+- Capillary exchange mein hydrostatic pressure aur protein-related oncotic gradients important hain; classical exam arterial-end filtration/venous-end reabsorption model simplified hai, modern understanding mein most filtered fluid lymphatics return karte hain.
+- Endothelial glycocalyx barrier bhi important.
+- Nurse edema ko sirf fluid overload mat samjho: unilateral hot swelling DVT/infection, bilateral pitting edema HF/venous disease, nonpitting chronic lymphedema possibilities.
+- Weight gain with edema, JVP, lung sounds and I/O combine karna clinical reasoning hai.
 ### Systemic, pulmonary and portal circuits
-Pulmonary circuit low pressure and resistance; systemic higher resistance. Portal circulation mein GI organs se blood portal vein through liver sinusoids, then hepatic veins → IVC. Renal artery blood kidneys ko, renal vein IVC ko. Arteries carry blood away from heart regardless oxygenation, veins towards. Pulmonary veins aur umbilical vein oxygenated exceptions. Blood pressure falls across resistance arterioles, velocity lowest at capillary bed because collective cross-sectional area highest. Exercise mein muscle flow rises while resting demand of other organs differs. 
+- Pulmonary circuit low pressure and resistance; systemic higher resistance.
+- Portal circulation mein GI organs se blood portal vein through liver sinusoids, then hepatic veins → IVC.
+- Renal artery blood kidneys ko, renal vein IVC ko.
+- Arteries carry blood away from heart regardless oxygenation, veins towards.
+- Pulmonary veins aur umbilical vein oxygenated exceptions.
+- Blood pressure falls across resistance arterioles, velocity lowest at capillary bed because collective cross-sectional area highest.
+- Exercise mein muscle flow rises while resting demand of other organs differs.
+- 
 
 ## Coronary circulation and physiology
 
@@ -57,7 +113,14 @@ Pulmonary circuit low pressure and resistance; systemic higher resistance. Porta
 
 **Hindi-English explanation:** Heart body ko blood bhejta hai, lekin apne muscle ko bhi oxygen chahiye. Coronary arteries ye kaam karti hain. Heart ki pumping pressure aur valve movement par depend karti hai. **Very High.**
 **Very High:** LAD, RCA, LCX; cardiac cycle, CO, EF, preload/afterload.
-Left main coronary artery usually LAD aur circumflex mein divide. LAD anterior LV, apex aur anterior two-thirds septum ko supply karti hai. LCX lateral LV; RCA commonly RV, inferior LV aur nodal branches; dominance PDA origin se define hoti hai, most commonly RCA. Variations common. Coronary sinus RA mein venous blood return karta. LV coronary flow mainly diastole mein: systole mein contracting muscle intramyocardial vessels compress karta. Tachycardia supply time ghata aur oxygen demand badha sakti hai. Coronary perfusion aortic diastolic pressure aur ventricular filling pressure gradient se related hai.
+- Left main coronary artery usually LAD aur circumflex mein divide.
+- LAD anterior LV, apex aur anterior two-thirds septum ko supply karti hai.
+- LCX lateral LV; RCA commonly RV, inferior LV aur nodal branches; dominance PDA origin se define hoti hai, most commonly RCA.
+- Variations common.
+- Coronary sinus RA mein venous blood return karta.
+- LV coronary flow mainly diastole mein: systole mein contracting muscle intramyocardial vessels compress karta.
+- Tachycardia supply time ghata aur oxygen demand badha sakti hai.
+- Coronary perfusion aortic diastolic pressure aur ventricular filling pressure gradient se related hai.
 
 ```mermaid
 flowchart TD
@@ -68,7 +131,15 @@ LM --> C[LCX: lateral LV]
 RCA -. common right dominance .-> PDA[Posterior descending artery]
 ```
 
-Cardiac cycle ek heartbeat ke electrical aur mechanical events ka sequence hai. 75/min par total approximately 0.8 sec; textbook atrial systole 0.1 sec, ventricular systole 0.3 sec, remaining joint relaxation 0.4 sec (rate dependent). Atrial contraction ventricular filling finish karti; ventricle pressure badhne par AV valves close (S1), all valves closed isovolumetric contraction. Ventricular pressure arterial se greater hote hi semilunar valves open, ejection. Pressure girte hi semilunar close (S2), isovolumetric relaxation. Ventricular pressure atrial se lower hone par AV open, rapid filling then slower diastasis. S3 early rapid filling; children/young adults mein physiological, older symptomatic adult mein volume overload/HF clue. S4 stiff ventricle mein atrial contraction se, AF mein absent because organized atrial contraction nahi. Mechanical events electrical events ko follow karte hain.
+- Cardiac cycle ek heartbeat ke electrical aur mechanical events ka sequence hai.
+- 75/min par total approximately 0.8 sec; textbook atrial systole 0.1 sec, ventricular systole 0.3 sec, remaining joint relaxation 0.4 sec (rate dependent).
+- Atrial contraction ventricular filling finish karti; ventricle pressure badhne par AV valves close (S1), all valves closed isovolumetric contraction.
+- Ventricular pressure arterial se greater hote hi semilunar valves open, ejection.
+- Pressure girte hi semilunar close (S2), isovolumetric relaxation.
+- Ventricular pressure atrial se lower hone par AV open, rapid filling then slower diastasis.
+- S3 early rapid filling; children/young adults mein physiological, older symptomatic adult mein volume overload/HF clue.
+- S4 stiff ventricle mein atrial contraction se, AF mein absent because organized atrial contraction nahi.
+- Mechanical events electrical events ko follow karte hain.
 
 ```mermaid
 flowchart LR
@@ -87,14 +158,35 @@ F[Passive filling] --> AS[Atrial systole] --> IC[Isovolumetric contraction: S1] 
 
 Example: EDV 120 mL, ESV 50 mL → SV 70 mL. HR 72 → 5040 mL/min = 5.04 L/min. EF 70/120 = 58.3%. BP 120/80 → pulse pressure 40; MAP ≈93 mmHg. CO aur EF same nahi: preserved EF ke bawajood small ventricle se low SV possible.
 
-Preload = end-diastolic myocardial stretch, filling/venous return se related. Frank-Starling: physiological range mein more filling → more contraction force. Failing heart mein extra filling excessive congestion de sakti hai. Afterload = ejection ke against load; systemic hypertension LV afterload increase. Contractility = intrinsic force independent of loading conditions; sympathetic beta-1 increases, ischemia decreases. HR high hone par initially CO increase but excessive HR filling reduce karta. Positive chronotropy HR up, inotropy force up, dromotropy conduction up, lusitropy relaxation enhance. Vagus HR/AV conduction slow; sympathetic opposite. Baroreceptors carotid sinus/aortic arch BP stretch sense; low BP → reduced firing → sympathetic increase; kidneys renin release → angiotensin II vasoconstriction and aldosterone sodium retention. ADH water retention, ANP/BNP natriuresis signal. Long term excessive RAAS activation HF remodeling worse kar sakti.
+- Preload = end-diastolic myocardial stretch, filling/venous return se related.
+- Frank-Starling: physiological range mein more filling → more contraction force.
+- Failing heart mein extra filling excessive congestion de sakti hai.
+- Afterload = ejection ke against load; systemic hypertension LV afterload increase.
+- Contractility = intrinsic force independent of loading conditions; sympathetic beta-1 increases, ischemia decreases.
+- HR high hone par initially CO increase but excessive HR filling reduce karta.
+- Positive chronotropy HR up, inotropy force up, dromotropy conduction up, lusitropy relaxation enhance.
+- Vagus HR/AV conduction slow; sympathetic opposite.
+- Baroreceptors carotid sinus/aortic arch BP stretch sense; low BP → reduced firing → sympathetic increase; kidneys renin release → angiotensin II vasoconstriction and aldosterone sodium retention.
+- ADH water retention, ANP/BNP natriuresis signal.
+- Long term excessive RAAS activation HF remodeling worse kar sakti.
 
 ### Cardiac cycle deep dive — pressure-volume relationship and Wiggers diagram
 
 ![ master cycle pv ](../Assets/master-cycle-pv.svg)
 
 **Visual 3 — Pressure-volume loop:** Filling increases volume, isovolumetric contraction increases pressure, ejection decreases volume, and relaxation decreases pressure. Loop width = stroke volume. This is a PV loop, not a complete Wiggers tracing.
-Think pump ek room hai jisme inlet/outlet doors pressure difference se khulte hain. Passive filling mein AV valves open, semilunar closed. Atrial kick last filling contribution hai, roughly 10–30% variable; stiff ventricle depends more on it. AF mein kick lose hone se HFpEF patient suddenly dyspneic ho sakta. At EDV, mitral closes when LV exceeds LA pressure. Both doors closed, pressure rises but volume same. Aortic opens once LV exceeds aortic pressure. Ejection rapidly then slowly as pressure falls. ESV remaining volume. Aortic closes when pressure gradient reverses, notch arterial trace par. All valves closed again while pressure falls. Mitral opens once LV below LA.
+- Think pump ek room hai jisme inlet/outlet doors pressure difference se khulte hain.
+- Passive filling mein AV valves open, semilunar closed.
+- Atrial kick last filling contribution hai, roughly 10–30% variable; stiff ventricle depends more on it.
+- AF mein kick lose hone se HFpEF patient suddenly dyspneic ho sakta.
+- At EDV, mitral closes when LV exceeds LA pressure.
+- Both doors closed, pressure rises but volume same.
+- Aortic opens once LV exceeds aortic pressure.
+- Ejection rapidly then slowly as pressure falls.
+- ESV remaining volume.
+- Aortic closes when pressure gradient reverses, notch arterial trace par.
+- All valves closed again while pressure falls.
+- Mitral opens once LV below LA.
 ```mermaid
 flowchart LR
 A["EDV: mitral closes"] --> B["Pressure rises; volume constant"]
@@ -104,10 +196,25 @@ D --> E["Pressure falls; volume constant"]
 E --> F["Mitral opens; volume rises"]
 F --> A
 ```
-PV loop mein x volume and y pressure: width SV, enclosed area stroke work. Increased preload usually loop right/wider; increased afterload initially ESV higher, SV lower; increased contractility ESV lower, SV higher. Aortic stenosis increases LV pressure load, while MR loses true isovolumetric phases because blood leaks. Normal example LV approximately 120/5–12 mmHg, RV 25/2–8, PA 25/10, aorta ~120/80; ranges vary. Why RV thinner? Same flow but low-resistance pulmonary circuit. Normal BP alone doesn't assure adequate CO if SVR high.
+- PV loop mein x volume and y pressure: width SV, enclosed area stroke work.
+- Increased preload usually loop right/wider; increased afterload initially ESV higher, SV lower; increased contractility ESV lower, SV higher.
+- Aortic stenosis increases LV pressure load, while MR loses true isovolumetric phases because blood leaks.
+- Normal example LV approximately 120/5–12 mmHg, RV 25/2–8, PA 25/10, aorta ~120/80; ranges vary.
+- Why RV thinner? Same flow but low-resistance pulmonary circuit.
+- Normal BP alone doesn't assure adequate CO if SVR high.
 ### Oxygen delivery, exercise and autonomic control
-Oxygen delivery depends CO and arterial oxygen content, not SpO2 alone. Anemia patient 99% saturation but low Hb may still deliver less oxygen. Fick principle CO = oxygen consumption / arteriovenous oxygen content difference; if VO2 250 mL/min and difference 50 mL/L, CO 5 L/min. Exercise HR and SV rise; trained resting bradycardia may coexist with larger SV. Fever/tachycardia raises demand; beta blockers can blunt HR response. Rate-pressure product HR × SBP rough myocardial workload indicator. 
-Baroreflex short-term, renal RAAS long-term; carotid sinus senses pressure (IX nerve) and aortic arch (X); carotid bodies primarily blood chemistry. Angiotensin II also stimulates thirst, ADH and aldosterone. Aldosterone distal nephron sodium retention and K excretion; ACE inhibition reduces angiotensin II and raises bradykinin (cough). BNP released with ventricular stretch, promotes natriuresis and counter-regulation. These links explain why HF meds influence BP, fluid and electrolytes.
+- Oxygen delivery depends CO and arterial oxygen content, not SpO2 alone.
+- Anemia patient 99% saturation but low Hb may still deliver less oxygen.
+- Fick principle CO = oxygen consumption / arteriovenous oxygen content difference; if VO2 250 mL/min and difference 50 mL/L, CO 5 L/min.
+- Exercise HR and SV rise; trained resting bradycardia may coexist with larger SV.
+- Fever/tachycardia raises demand; beta blockers can blunt HR response.
+- Rate-pressure product HR × SBP rough myocardial workload indicator.
+- 
+- Baroreflex short-term, renal RAAS long-term; carotid sinus senses pressure (IX nerve) and aortic arch (X); carotid bodies primarily blood chemistry.
+- Angiotensin II also stimulates thirst, ADH and aldosterone.
+- Aldosterone distal nephron sodium retention and K excretion; ACE inhibition reduces angiotensin II and raises bradykinin (cough).
+- BNP released with ventricular stretch, promotes natriuresis and counter-regulation.
+- These links explain why HF meds influence BP, fluid and electrolytes.
 **Exam traps:** CO vs cardiac index; ejection fraction vs stroke volume; preload vs afterload; arteries vs oxygenation; carotid sinus vs carotid body. Source: [Cardiac cycle](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-3-cardiac-cycle), [physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology).
 
 ## Assessment and investigations
@@ -116,9 +223,21 @@ Baroreflex short-term, renal RAAS long-term; carotid sinus senses pressure (IX n
 
 **Hindi-English:** Sirf BP dekhkar patient stable assume mat karo. Pulse, mental status, urine, breathing, JVP aur ECG bhi evaluate karo. **Very High.**
 **Very High:** chest pain, pulses, JVP, ECG, troponin, echo, cath and nursing priorities.
-History: onset/provocation/quality/radiation/severity/time; dyspnea on exertion, orthopnea, PND (sleep se breathlessness), syncope, palpitations, weight gain, edema, claudication. Diabetes/older adults/women may have nonclassic ischemic symptoms; no chest pain does not exclude ACS. Assess ABC, mental status, skin warmth, peripheral pulses, refill, respiratory effort, oxygen saturation, BP both arms if dissection suspected, apical pulse/rhythm. JVP assess at 30–45 degrees, right internal jugular waveform; >3–4 cm above sternal angle often elevated. JVP RA pressure estimate, carotid pulsation palpable and single upstroke; JVP nonpalpable and position-dependent. Avoid simultaneous carotid palpation.
+- History: onset/provocation/quality/radiation/severity/time; dyspnea on exertion, orthopnea, PND (sleep se breathlessness), syncope, palpitations, weight gain, edema, claudication.
+- Diabetes/older adults/women may have nonclassic ischemic symptoms; no chest pain does not exclude ACS.
+- Assess ABC, mental status, skin warmth, peripheral pulses, refill, respiratory effort, oxygen saturation, BP both arms if dissection suspected, apical pulse/rhythm.
+- JVP assess at 30–45 degrees, right internal jugular waveform; >3–4 cm above sternal angle often elevated.
+- JVP RA pressure estimate, carotid pulsation palpable and single upstroke; JVP nonpalpable and position-dependent.
+- Avoid simultaneous carotid palpation.
 
-BP: correct cuff size, rest 5 minutes, arm heart level, feet flat, no talking, repeat. Too small cuff falsely high; arm below heart falsely high. Orthostatic hypotension commonly drop ≥20 systolic or ≥10 diastolic within 3 min standing, with symptoms/fall risk. Record baseline position and reassess. Pulse deficit = simultaneous apical minus radial rates (e.g. AF). Edema grade local convention; daily weight more useful trend for fluid balance. Abnormal findings: cold extremities poor perfusion, cyanosis oxygenation issue, clubbing chronic hypoxemia or other disease, elevated JVP systemic congestion.
+- BP: correct cuff size, rest 5 minutes, arm heart level, feet flat, no talking, repeat.
+- Too small cuff falsely high; arm below heart falsely high.
+- Orthostatic hypotension commonly drop ≥20 systolic or ≥10 diastolic within 3 min standing, with symptoms/fall risk.
+- Record baseline position and reassess.
+- Pulse deficit = simultaneous apical minus radial rates (e.g.
+- AF).
+- Edema grade local convention; daily weight more useful trend for fluid balance.
+- Abnormal findings: cold extremities poor perfusion, cyanosis oxygenation issue, clubbing chronic hypoxemia or other disease, elevated JVP systemic congestion.
 
 Investigations:
 - 12-lead ECG electrical activity; serial ECG if symptoms continue. Troponin myocardial injury marker, rise/fall and ischemic evidence needed for MI; renal failure, myocarditis, sepsis can also elevate. CK-MB older marker not preferred when high-sensitivity troponin available. BNP/NT-proBNP cardiac wall stress supports HF but not standalone.
@@ -128,10 +247,27 @@ Investigations:
 - Hemodynamic monitoring: CVP approx 2–6 mmHg, PAOP approx 6–12 mmHg as textbook reference; influenced by ventilation and position. Level/zero transducer at phlebostatic axis (4th ICS mid-axillary approximate). Arterial line for continuous BP and sampling, never routine medication injection. Check waveform, distal perfusion, infection, secure lines. Low transducer false high. Lactate and urine output (often target ≥0.5 mL/kg/h) help evaluate perfusion.
 
 ### Bedside examination — systematic nursing workflow
-First patient looks sick? If severe breathlessness, shock, altered consciousness or ongoing chest pain, emergency assessment before long history. Stable patient history includes medication adherence, anticoagulant bleeding, smoking, family premature CAD, congenital surgery, baseline functional capacity. NYHA classes: I no symptom limitation with ordinary activity; II slight limitation; III marked limitation; IV symptoms at rest. Document symptoms and activity not just label.
-Inspection: chest scars, respiratory effort, cyanosis, edema, visible pulsations. Palpation: PMI position, duration and displacement; sustained heave pressure overload clue; thrill palpable turbulent flow. Auscultate systematic valve sites in quiet room: diaphragm for higher-pitched S1/S2 and regurgitation, bell lightly at apex for low-frequency MS/S3/S4. Left lateral decubitus brings apex closer; sitting forward at end expiration can accentuate AR. Inspiration usually increases right-sided murmurs (Carvallo sign TR). Physiologic S2 splitting widens inspiration. Fixed split ASD; paradoxical split may be delayed A2 (LBBB/severe AS). Murmur intensity grade 1–6 does not equal severity; low-flow severe stenosis can be quiet. Never diagnose by sound alone.
+- First patient looks sick? If severe breathlessness, shock, altered consciousness or ongoing chest pain, emergency assessment before long history.
+- Stable patient history includes medication adherence, anticoagulant bleeding, smoking, family premature CAD, congenital surgery, baseline functional capacity.
+- NYHA classes: I no symptom limitation with ordinary activity; II slight limitation; III marked limitation; IV symptoms at rest.
+- Document symptoms and activity not just label.
+- Inspection: chest scars, respiratory effort, cyanosis, edema, visible pulsations.
+- Palpation: PMI position, duration and displacement; sustained heave pressure overload clue; thrill palpable turbulent flow.
+- Auscultate systematic valve sites in quiet room: diaphragm for higher-pitched S1/S2 and regurgitation, bell lightly at apex for low-frequency MS/S3/S4.
+- Left lateral decubitus brings apex closer; sitting forward at end expiration can accentuate AR.
+- Inspiration usually increases right-sided murmurs (Carvallo sign TR).
+- Physiologic S2 splitting widens inspiration.
+- Fixed split ASD; paradoxical split may be delayed A2 (LBBB/severe AS).
+- Murmur intensity grade 1–6 does not equal severity; low-flow severe stenosis can be quiet.
+- Never diagnose by sound alone.
 ### JVP waveform and peripheral examination
-a wave atrial contraction, c tricuspid bulging/early systole, v venous filling against closed tricuspid; x descent atrial relaxation, y descent ventricular filling. AF absent organized a wave; AV dissociation intermittent cannon a waves; TR prominent systolic v wave; tamponade often preserved x and blunted y. These are classic patterns, not mandatory. Hepatojugular reflux sustained JVP rise with abdominal pressure suggests elevated filling pressures. Check radial, brachial, femoral, popliteal, dorsalis pedis, posterior tibial pulses as appropriate; compare sides, grade local standard. Pulse character: bounding AR, slow-rising severe AS, alternating strong/weak pulsus alternans LV dysfunction. Pulsus paradoxus >10 mmHg inspiratory systolic drop also severe asthma possible.
+- a wave atrial contraction, c tricuspid bulging/early systole, v venous filling against closed tricuspid; x descent atrial relaxation, y descent ventricular filling.
+- AF absent organized a wave; AV dissociation intermittent cannon a waves; TR prominent systolic v wave; tamponade often preserved x and blunted y.
+- These are classic patterns, not mandatory.
+- Hepatojugular reflux sustained JVP rise with abdominal pressure suggests elevated filling pressures.
+- Check radial, brachial, femoral, popliteal, dorsalis pedis, posterior tibial pulses as appropriate; compare sides, grade local standard.
+- Pulse character: bounding AR, slow-rising severe AS, alternating strong/weak pulsus alternans LV dysfunction.
+- Pulsus paradoxus >10 mmHg inspiratory systolic drop also severe asthma possible.
 ### Tests: what question does each answer?
 | Test | Clinical question | Nurse preparation / follow-up |
 |---|---|---|
@@ -146,7 +282,14 @@ a wave atrial contraction, c tricuspid bulging/early systole, v venous filling a
 | BNP/NT-proBNP | filling pressure/wall stress clue | interpret age, renal function, obesity and clinical context |
 Serial values matter: acute rise/fall troponin is injury, clinical ischemia needed for MI diagnosis. High-sensitivity assays use lab-specific thresholds and timing. No fixed universal normal troponin number. 
 ### Nursing case: post-catheterization
-A stable patient becomes restless, HR rises, BP falls, puncture dressing looks dry. Don't assume anxiety. ABC, call team, repeat BP/pulse, inspect access and back/flank symptoms, maintain ordered positioning, check Hb and perfusion per team. Femoral retroperitoneal bleeding can be invisible. Contrast-associated AKI risk higher with renal impairment; fluid plans individualized (HF risk). Access limb pain/coolness/absent pulse urgent. Radial access generally lower bleeding risk but radial occlusion/hematoma possible. [Assessment source](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment).
+- A stable patient becomes restless, HR rises, BP falls, puncture dressing looks dry.
+- Don't assume anxiety.
+- ABC, call team, repeat BP/pulse, inspect access and back/flank symptoms, maintain ordered positioning, check Hb and perfusion per team.
+- Femoral retroperitoneal bleeding can be invisible.
+- Contrast-associated AKI risk higher with renal impairment; fluid plans individualized (HF risk).
+- Access limb pain/coolness/absent pulse urgent.
+- Radial access generally lower bleeding risk but radial occlusion/hematoma possible.
+- [Assessment source](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment).
 
 ## ECG and dysrhythmias
 
@@ -178,7 +321,16 @@ PU --> T[Ventricular repolarization: T]
              |<--PR-->|           ST/T
                QRS: Q to S (schematic, not to scale)
 ```
-At 25 mm/s, small square 0.04 s, large 0.20 s; amplitude standard 10 mm/mV. P atrial depolarization, PR 0.12–0.20 s, QRS normally <0.12 s, T ventricular repolarization. Atrial repolarization hidden in QRS. QT rate-dependent (use QTc; marked prolongation around >500 ms concerning). ST normally near baseline. Regular rate 300/large squares, 1500/small squares; irregular count QRS in 6 sec ×10. 10 electrodes produce 12 leads. Limb leads I II III aVR aVL aVF, chest V1 fourth ICS right sternum; V2 fourth left; V4 fifth left MCL; V3 halfway V2/V4; V5 anterior axillary and V6 midaxillary level with V4. Inferior II III aVF; septal V1 V2; anterior V3 V4; lateral I aVL V5 V6; posterior V7–V9, right V4R if indicated. Always check patient before treating monitor artifact.
+- At 25 mm/s, small square 0.04 s, large 0.20 s; amplitude standard 10 mm/mV.
+- P atrial depolarization, PR 0.12–0.20 s, QRS normally <0.12 s, T ventricular repolarization.
+- Atrial repolarization hidden in QRS.
+- QT rate-dependent (use QTc; marked prolongation around >500 ms concerning).
+- ST normally near baseline.
+- Regular rate 300/large squares, 1500/small squares; irregular count QRS in 6 sec ×10.
+- 10 electrodes produce 12 leads.
+- Limb leads I II III aVR aVL aVF, chest V1 fourth ICS right sternum; V2 fourth left; V4 fifth left MCL; V3 halfway V2/V4; V5 anterior axillary and V6 midaxillary level with V4.
+- Inferior II III aVF; septal V1 V2; anterior V3 V4; lateral I aVL V5 V6; posterior V7–V9, right V4R if indicated.
+- Always check patient before treating monitor artifact.
 
 | Rhythm | Clue | Nursing/clinical priority |
 |---|---|---|
@@ -196,7 +348,10 @@ At 25 mm/s, small square 0.04 s, large 0.20 s; amplitude standard 10 mm/mV. P at
 | Mobitz II | Fixed conducted PR, unexpected dropped QRS | High risk progression, urgent evaluation/pacing readiness |
 | Third-degree | Atrial and ventricular dissociation | Urgent assessment, pacing often required |
 
-Torsades polymorphic VT with prolonged QT, correct electrolytes, magnesium per protocol, shock if sustained unstable/pulseless. Hyperkalemia peaked T, later widened QRS; hypokalemia flattened T/U waves; ECG alone cannot exclude electrolyte disorder. ECG exam trick: electrical rhythm ≠ mechanical pulse. Stable vs unstable signs include hypotension, acute altered mentation, shock, ischemic pain, acute HF caused by rhythm.
+- Torsades polymorphic VT with prolonged QT, correct electrolytes, magnesium per protocol, shock if sustained unstable/pulseless.
+- Hyperkalemia peaked T, later widened QRS; hypokalemia flattened T/U waves; ECG alone cannot exclude electrolyte disorder.
+- ECG exam trick: electrical rhythm ≠ mechanical pulse.
+- Stable vs unstable signs include hypotension, acute altered mentation, shock, ischemic pain, acute HF caused by rhythm.
 
 ### ECG interpretation method — read every strip in same order
 
@@ -206,7 +361,10 @@ Torsades polymorphic VT with prolonged QT, correct electrolytes, magnesium per p
 1. Verify patient, lead, calibration and artifact. 2. Rate: regular use 300 method, irregular count 6 seconds. 3. Regularity: compare R-R and P-P. 4. P wave: present, same shape, before each QRS? 5. PR interval consistent? 6. QRS width and morphology. 7. ST/T and QTc; compare clinical symptoms. Normal sinus rhythm requires sinus P morphology, 1:1 relation and consistent PR. A narrow QRS suggests supraventricular origin or conduction through normal pathways; wide QRS may be VT, aberrancy or pacing. Assume uncertain wide tachycardia is VT until expert evaluation. 
 Example: 20 small squares between R peaks → 1500/20=75/min. On 6-second strip 9 complexes → 90/min average. PR 6 small squares =0.24 s. QRS 4 squares =0.16 s. These are different measurements: don't confuse PR segment with PR interval.
 ### Action potential, arrhythmia mechanisms
-Working myocyte phase 0 fast Na influx; phase 1 early repolarization; phase 2 calcium influx balanced K outward (plateau, contraction); phase 3 K outward repolarization; phase 4 resting potential. SA/AV nodal phase 4 spontaneous funny current and calcium contribution, phase 0 calcium dependent, phase 3 K repolarization. Automaticity abnormal impulse initiation; reentry circuit can perpetuate SVT/VT; triggered activity afterdepolarizations can occur in long QT or digoxin toxicity. Electrolytes/ischemia/drugs can cause arrhythmias.
+- Working myocyte phase 0 fast Na influx; phase 1 early repolarization; phase 2 calcium influx balanced K outward (plateau, contraction); phase 3 K outward repolarization; phase 4 resting potential.
+- SA/AV nodal phase 4 spontaneous funny current and calcium contribution, phase 0 calcium dependent, phase 3 K repolarization.
+- Automaticity abnormal impulse initiation; reentry circuit can perpetuate SVT/VT; triggered activity afterdepolarizations can occur in long QT or digoxin toxicity.
+- Electrolytes/ischemia/drugs can cause arrhythmias.
 ```text
 Sinus:    p-QRS-t    p-QRS-t    p-QRS-t
 AF:       ~QRS~~ QRS~~~~~QRS~QRS     (irregular)
@@ -222,8 +380,21 @@ Schematic only, not diagnostic tracings. For actual illustrated strips use [Open
 ![ master rhythm strips ](../Assets/master-rhythm-strips.svg)
 
 **Visual 6 — Rhythm recognition:** Compare organized P waves, R-R regularity, QRS width and pulse. These strips are schematic; clinical ECG interpretation also uses calibration, actual leads and patient assessment.
-PAC early abnormal P usually narrow QRS; premature beat may feel skipped. PVC early wide complex without preceding normal P, often compensatory pause; bigeminy every other beat, couplet two in sequence. Multifocal PVC differing morphologies. Frequent symptoms/ischemia/electrolyte imbalance need assessment; not every PVC needs antiarrhythmic. AF rate may be slow/normal/rapid; embolic risk based on clinical score and bleeding assessment, not symptoms alone. Planned cardioversion of AF of prolonged/unknown duration requires thrombus-risk strategy (anticoagulation or imaging per guideline); unstable patients emergency cardioversion not delayed solely for this. Flutter atrial circuit often around 250–350/min; 2:1 conduction ventricular ~150, can mimic sinus tachy.
-SVT may start/stop abruptly, palpitations and dizziness; stable selected narrow regular cases vagal maneuver/adenosine protocol. Adenosine transient AV block and flushing/chest discomfort; not an AF conversion drug. VT monomorphic regular wide; sustained generally ≥30 sec or requiring termination earlier for instability. VF disorganized no effective contraction. Torsades twists around baseline, often QT prolongation from drugs/low K/Mg. Polymorphic sustained unstable rhythm requires unsynchronized shock. Asystole check electrodes and another lead without delaying CPR. PEA includes normal-looking electrical activity but no pulse; treat cause not tracing alone.
+- PAC early abnormal P usually narrow QRS; premature beat may feel skipped.
+- PVC early wide complex without preceding normal P, often compensatory pause; bigeminy every other beat, couplet two in sequence.
+- Multifocal PVC differing morphologies.
+- Frequent symptoms/ischemia/electrolyte imbalance need assessment; not every PVC needs antiarrhythmic.
+- AF rate may be slow/normal/rapid; embolic risk based on clinical score and bleeding assessment, not symptoms alone.
+- Planned cardioversion of AF of prolonged/unknown duration requires thrombus-risk strategy (anticoagulation or imaging per guideline); unstable patients emergency cardioversion not delayed solely for this.
+- Flutter atrial circuit often around 250–350/min; 2:1 conduction ventricular ~150, can mimic sinus tachy.
+- SVT may start/stop abruptly, palpitations and dizziness; stable selected narrow regular cases vagal maneuver/adenosine protocol.
+- Adenosine transient AV block and flushing/chest discomfort; not an AF conversion drug.
+- VT monomorphic regular wide; sustained generally ≥30 sec or requiring termination earlier for instability.
+- VF disorganized no effective contraction.
+- Torsades twists around baseline, often QT prolongation from drugs/low K/Mg.
+- Polymorphic sustained unstable rhythm requires unsynchronized shock.
+- Asystole check electrodes and another lead without delaying CPR.
+- PEA includes normal-looking electrical activity but no pulse; treat cause not tracing alone.
 Bundle branch block: QRS ≥0.12 s, RBBB typical terminal R in V1 and broad S in I/V6; LBBB broad/notched lateral R and deep S V1, complicates ischemia interpretation. New LBBB alone not automatically STEMI; clinical and ECG criteria needed. WPW preexcitation short PR, delta wave, wide QRS; irregular preexcited AF avoid AV nodal blockers and obtain urgent expert treatment. 
 **High yield case:** HR 170 regular narrow, BP 72/40, confused: stability first, synchronized cardioversion under protocol. HR 170 due to hemorrhage sinus tachy: treat hemorrhage, don't shock compensatory rhythm. Distinguish rhythm causing instability from physiological response.
 
@@ -237,7 +408,13 @@ Bundle branch block: QRS ≥0.12 s, RBBB typical terminal R in V1 and broad S in
 
 **Hindi-English:** Jab coronary artery se oxygen kam milti hai, chest pain ho sakta hai. Agar ischemia myocardial cells ko injure kare, MI ho sakta hai. **Very High.**
 **Very High:** risk factors, types of angina, MI ECG, biomarkers, drugs and complications.
-Atherosclerosis: endothelial dysfunction → lipid entry/inflammation → plaque → narrowing or rupture/thrombosis. Fixed stenosis causes demand ischemia (stable angina); acute plaque event may cause ACS. Modifiable risks tobacco, HTN, diabetes, dyslipidemia, sedentary lifestyle; age/family history nonmodifiable. Stable angina predictable on exertion, relieved rest/nitro; unstable new/worsening/rest pain without acute infarction biomarkers; vasospastic often rest/transient ST elevation. NSTEMI acute ischemic injury without persistent ST elevation; STEMI acute occlusion pattern requiring urgent reperfusion. ECG and serial hs-troponin plus symptoms together; early troponin may be negative. Do not wait for troponin to activate clear STEMI pathway.
+- Atherosclerosis: endothelial dysfunction → lipid entry/inflammation → plaque → narrowing or rupture/thrombosis.
+- Fixed stenosis causes demand ischemia (stable angina); acute plaque event may cause ACS.
+- Modifiable risks tobacco, HTN, diabetes, dyslipidemia, sedentary lifestyle; age/family history nonmodifiable.
+- Stable angina predictable on exertion, relieved rest/nitro; unstable new/worsening/rest pain without acute infarction biomarkers; vasospastic often rest/transient ST elevation.
+- NSTEMI acute ischemic injury without persistent ST elevation; STEMI acute occlusion pattern requiring urgent reperfusion.
+- ECG and serial hs-troponin plus symptoms together; early troponin may be negative.
+- Do not wait for troponin to activate clear STEMI pathway.
 
 ```mermaid
 flowchart TD
@@ -250,10 +427,26 @@ R --> M[Monitor complications and secondary prevention]
 N --> M
 ```
 
-First nursing steps: urgent emergency escalation, rest, monitoring, IV access per protocol, ECG ideally within 10 minutes of first medical contact, prescribed chewable aspirin if no contraindication, oxygen if hypoxemic (not routine at normal saturation), nitrate only after BP/contraindications including recent PDE5 inhibitor and suspected RV infarction evaluated; analgesia individualized. MONA is old memory aid, not mandatory order. STEMI primary PCI preferred when timely; fibrinolysis selected eligible STEMI if timely PCI unavailable, not NSTEMI, screen bleeding/dissection contraindications. Typical guideline target first medical contact-to-device ≤90 min PCI-capable and ≤120 min transfer setting; local system protocols. Dual antiplatelet therapy, anticoagulation, high-intensity statin and other drugs as indicated; bleeding monitoring. CABG bypasses stenotic arteries using grafts (internal mammary, radial, saphenous vein). Complications early arrhythmia, HF, shock; mechanical papillary muscle rupture (acute MR), VSD, free-wall rupture/tamponade; later ventricular aneurysm, thrombus, post-MI pericarditis. New murmur with shock after MI emergency. RV infarct hypotension + JVP high + clear lungs, avoid blindly reducing preload. Post MI rehab gradual activity, smoking cessation, medication adherence, warning signs, psychological support. Source [2025 ACS guidance](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
+- First nursing steps: urgent emergency escalation, rest, monitoring, IV access per protocol, ECG ideally within 10 minutes of first medical contact, prescribed chewable aspirin if no contraindication, oxygen if hypoxemic (not routine at normal saturation), nitrate only after BP/contraindications including recent PDE5 inhibitor and suspected RV infarction evaluated; analgesia individualized.
+- MONA is old memory aid, not mandatory order.
+- STEMI primary PCI preferred when timely; fibrinolysis selected eligible STEMI if timely PCI unavailable, not NSTEMI, screen bleeding/dissection contraindications.
+- Typical guideline target first medical contact-to-device ≤90 min PCI-capable and ≤120 min transfer setting; local system protocols.
+- Dual antiplatelet therapy, anticoagulation, high-intensity statin and other drugs as indicated; bleeding monitoring.
+- CABG bypasses stenotic arteries using grafts (internal mammary, radial, saphenous vein).
+- Complications early arrhythmia, HF, shock; mechanical papillary muscle rupture (acute MR), VSD, free-wall rupture/tamponade; later ventricular aneurysm, thrombus, post-MI pericarditis.
+- New murmur with shock after MI emergency.
+- RV infarct hypotension + JVP high + clear lungs, avoid blindly reducing preload.
+- Post MI rehab gradual activity, smoking cessation, medication adherence, warning signs, psychological support.
+- Source [2025 ACS guidance](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
 
 ### ACS from cell injury to clinical finding
-When coronary oxygen delivery falls, aerobic ATP generation decreases, anaerobic metabolism and acidosis occur, relaxation impaired early then contraction. Persistent severe ischemia causes irreversible injury. Subendocardium particularly vulnerable; ECG changes can evolve from hyperacute T, ST elevation/depression, T inversion, pathological Q depending territory/time/reperfusion. Not every infarct has Q waves, not every ST elevation infarct (pericarditis, early repolarization etc.). Troponin identifies myocardial injury not exact artery. Type 1 MI plaque disruption with thrombosis; type 2 MI ischemic oxygen supply-demand mismatch without acute atherothrombosis (e.g. severe anemia/tachyarrhythmia); treatment depends mechanism.
+- When coronary oxygen delivery falls, aerobic ATP generation decreases, anaerobic metabolism and acidosis occur, relaxation impaired early then contraction.
+- Persistent severe ischemia causes irreversible injury.
+- Subendocardium particularly vulnerable; ECG changes can evolve from hyperacute T, ST elevation/depression, T inversion, pathological Q depending territory/time/reperfusion.
+- Not every infarct has Q waves, not every ST elevation infarct (pericarditis, early repolarization etc.).
+- Troponin identifies myocardial injury not exact artery.
+- Type 1 MI plaque disruption with thrombosis; type 2 MI ischemic oxygen supply-demand mismatch without acute atherothrombosis (e.g.
+- severe anemia/tachyarrhythmia); treatment depends mechanism.
 ### Chest pain differentiation
 | Condition | Typical feature (not exclusion rule) |
 |---|---|
@@ -265,11 +458,28 @@ When coronary oxygen delivery falls, aerobic ATP generation decreases, anaerobic
 | Reflux/musculoskeletal | burning or reproducible pain, but coexistence possible |
 Do not use pain relief after nitro to prove coronary origin. Record onset and baseline pain, reassess after prescribed therapy. Acute ischemia patient may be anxious, nauseated, pale, sweaty; older diabetic may present fatigue or breathlessness only.
 ### Reperfusion and aftercare
-PCI radial/femoral access, wire/balloon and usually stent. Drug-eluting stent reduces restenosis; DAPT prevents stent thrombosis. Post PCI abrupt chest pain/ECG changes urgent possible thrombosis. 2025 guideline favors radial access when feasible and bleeding risk-based DAPT; default ACS DAPT ~12 months in those not high bleeding risk, individualized. Fibrinolysis dissolves fibrin clot but intracranial hemorrhage risk; screen history including prior intracranial bleeding, recent relevant stroke, active bleeding, suspected dissection. Transfer to PCI center after lysis; persistent ischemia/failed reperfusion requires rescue PCI. CABG graft selection and postoperative ventilation, drains, rhythm and perfusion surveillance.
+- PCI radial/femoral access, wire/balloon and usually stent.
+- Drug-eluting stent reduces restenosis; DAPT prevents stent thrombosis.
+- Post PCI abrupt chest pain/ECG changes urgent possible thrombosis.
+- 2025 guideline favors radial access when feasible and bleeding risk-based DAPT; default ACS DAPT ~12 months in those not high bleeding risk, individualized.
+- Fibrinolysis dissolves fibrin clot but intracranial hemorrhage risk; screen history including prior intracranial bleeding, recent relevant stroke, active bleeding, suspected dissection.
+- Transfer to PCI center after lysis; persistent ischemia/failed reperfusion requires rescue PCI.
+- CABG graft selection and postoperative ventilation, drains, rhythm and perfusion surveillance.
 ### MI complications by mechanism
-Early electrical instability VT/VF, brady/AV block (inferior MI may affect AV nodal supply). Pump dysfunction LV HF, RV infarct, shock. Mechanical rupture tends to occur in first several days: acute MR from papillary muscle, VSD with harsh new murmur and shock, free-wall rupture with tamponade/PEA. Later remodeling can yield aneurysm, chronic HF, mural thrombus and embolism. Post-MI pericardial inflammation may be early or immune-mediated later. A new murmur or sudden deterioration after MI is emergency, not routine recovery.
+- Early electrical instability VT/VF, brady/AV block (inferior MI may affect AV nodal supply).
+- Pump dysfunction LV HF, RV infarct, shock.
+- Mechanical rupture tends to occur in first several days: acute MR from papillary muscle, VSD with harsh new murmur and shock, free-wall rupture with tamponade/PEA.
+- Later remodeling can yield aneurysm, chronic HF, mural thrombus and embolism.
+- Post-MI pericardial inflammation may be early or immune-mediated later.
+- A new murmur or sudden deterioration after MI is emergency, not routine recovery.
 ### Nursing process for ACS
-Assessment: pain, perfusion, ECG, bleeding risk, allergies, history PDE5 use, ordered labs. Nursing problems: acute pain, decreased cardiac output, anxiety, risk bleeding. Goals: rapid recognition/reperfusion, stable perfusion, pain improvement without hypotension, no access bleeding. Interventions: monitor ECG/vitals and serial symptoms, prepare ordered drugs/procedures, document times, avoid exertion initially, support patient. Evaluation: mental status, urine output, skin perfusion, symptom/ECG trends. Education: warning signs, emergency response, DAPT adherence and smoking cessation, cardiac rehab; no independent stopping of stent therapy. [2025 ACS guideline](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
+- Assessment: pain, perfusion, ECG, bleeding risk, allergies, history PDE5 use, ordered labs.
+- Nursing problems: acute pain, decreased cardiac output, anxiety, risk bleeding.
+- Goals: rapid recognition/reperfusion, stable perfusion, pain improvement without hypotension, no access bleeding.
+- Interventions: monitor ECG/vitals and serial symptoms, prepare ordered drugs/procedures, document times, avoid exertion initially, support patient.
+- Evaluation: mental status, urine output, skin perfusion, symptom/ECG trends.
+- Education: warning signs, emergency response, DAPT adherence and smoking cessation, cardiac rehab; no independent stopping of stent therapy.
+- [2025 ACS guideline](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
 
 ## Heart failure and cardiomyopathy
 
@@ -281,7 +491,15 @@ Assessment: pain, perfusion, ECG, bleeding risk, allergies, history PDE5 use, or
 
 **Hindi-English:** Weak ya stiff heart blood adequately pump ya fill nahi kar pata. Blood lungs ya systemic veins ki taraf back up kar sakta hai. **Very High.**
 **Very High:** left/right HF, EF, pulmonary edema, drugs, daily weight.
-HF syndrome: heart unable to deliver adequate output or needs abnormally high filling pressures. Left HF backs up into lungs (dyspnea, crackles, orthopnea, PND); right HF systemic veins (JVP, hepatomegaly, dependent edema, ascites). Biventricular common. HFrEF EF ≤40%; HFmrEF 41–49%; HFpEF ≥50% with evidence of elevated filling pressures/structural abnormalities; HFimpEF previous ≤40 then >40. Preserved EF does not mean normal filling. Low output triggers sympathetic and RAAS response; sodium/fluid retention and remodeling eventually worsen failure. Acute pulmonary edema: severe breathlessness, hypoxemia, crackles, sometimes pink froth; upright if BP permits, rapid ABC/escalation, oxygen if low, ventilatory support and IV diuretic/vasodilator if appropriate under orders; assess shock before nitrates. Daily same-scale morning weight, strict I/O as ordered, edema and lung checks, renal function/electrolytes, activity pacing, individualized salt/fluid advice, early reporting of worsening symptoms. Common education threshold rapid weight gain 2–3 lb/day or 5 lb/week but personalized plan.
+- HF syndrome: heart unable to deliver adequate output or needs abnormally high filling pressures.
+- Left HF backs up into lungs (dyspnea, crackles, orthopnea, PND); right HF systemic veins (JVP, hepatomegaly, dependent edema, ascites).
+- Biventricular common.
+- HFrEF EF ≤40%; HFmrEF 41–49%; HFpEF ≥50% with evidence of elevated filling pressures/structural abnormalities; HFimpEF previous ≤40 then >40.
+- Preserved EF does not mean normal filling.
+- Low output triggers sympathetic and RAAS response; sodium/fluid retention and remodeling eventually worsen failure.
+- Acute pulmonary edema: severe breathlessness, hypoxemia, crackles, sometimes pink froth; upright if BP permits, rapid ABC/escalation, oxygen if low, ventilatory support and IV diuretic/vasodilator if appropriate under orders; assess shock before nitrates.
+- Daily same-scale morning weight, strict I/O as ordered, edema and lung checks, renal function/electrolytes, activity pacing, individualized salt/fluid advice, early reporting of worsening symptoms.
+- Common education threshold rapid weight gain 2–3 lb/day or 5 lb/week but personalized plan.
 
 ```mermaid
 flowchart TD
@@ -292,22 +510,60 @@ V --> L
 V --> R
 ```
 
-Chronic HFrEF four foundational classes: ARNI (or ACEI/ARB), evidence-based beta blocker, MRA, SGLT2 inhibitor if eligible. Diuretics reduce congestion, not same disease-modifying role. Monitor BP, K, creatinine; ACEI-to-ARNI washout 36 h to reduce angioedema risk. Do not newly up-titrate beta blocker in shock/unstable decompensation without clinician plan. HFpEF treat congestion, BP, comorbidities; SGLT2 inhibitor often useful. Digoxin selected cases, narrow therapeutic window; renal function and K affect toxicity.
-Dilated cardiomyopathy enlarged weak ventricle → systolic failure; hypertrophic cardiomyopathy thick myocardium ± dynamic LV outflow obstruction, exertional syncope, family sudden death; dehydration may aggravate obstruction. Restrictive cardiomyopathy stiff ventricle (e.g. amyloid) impairs filling, EF may preserved. Takotsubo stress cardiomyopathy mimics ACS; urgent evaluation required. Myocarditis inflammation may produce HF or arrhythmias. Cor pulmonale RV changes due to pulmonary disease/PH, not primary left-heart failure. Pulmonary HTN echo suspicion, right heart cath definitive classification; treatment cause-specific, do not give PAH drugs indiscriminately.
+- Chronic HFrEF four foundational classes: ARNI (or ACEI/ARB), evidence-based beta blocker, MRA, SGLT2 inhibitor if eligible.
+- Diuretics reduce congestion, not same disease-modifying role.
+- Monitor BP, K, creatinine; ACEI-to-ARNI washout 36 h to reduce angioedema risk.
+- Do not newly up-titrate beta blocker in shock/unstable decompensation without clinician plan.
+- HFpEF treat congestion, BP, comorbidities; SGLT2 inhibitor often useful.
+- Digoxin selected cases, narrow therapeutic window; renal function and K affect toxicity.
+- Dilated cardiomyopathy enlarged weak ventricle → systolic failure; hypertrophic cardiomyopathy thick myocardium ± dynamic LV outflow obstruction, exertional syncope, family sudden death; dehydration may aggravate obstruction.
+- Restrictive cardiomyopathy stiff ventricle (e.g.
+- amyloid) impairs filling, EF may preserved.
+- Takotsubo stress cardiomyopathy mimics ACS; urgent evaluation required.
+- Myocarditis inflammation may produce HF or arrhythmias.
+- Cor pulmonale RV changes due to pulmonary disease/PH, not primary left-heart failure.
+- Pulmonary HTN echo suspicion, right heart cath definitive classification; treatment cause-specific, do not give PAH drugs indiscriminately.
 
 ### Heart failure deep nursing lesson: backward and forward failure
-Imagine left pump ka outlet weak hai. Upstream pulmonary venous pressure rises, lung interstitium accumulates fluid, diffusion distance/work of breathing rise. Supine venous return redistributes fluid from legs, causing orthopnea; delayed nocturnal redistribution can cause PND. Right pump failing raises RA/systemic venous pressure, liver congestion and dependent edema. Forward failure means poor renal perfusion, fatigue, cold extremities, confusion and low urine. HF patient can have normal BP but reduced perfusion. 
+- Imagine left pump ka outlet weak hai.
+- Upstream pulmonary venous pressure rises, lung interstitium accumulates fluid, diffusion distance/work of breathing rise.
+- Supine venous return redistributes fluid from legs, causing orthopnea; delayed nocturnal redistribution can cause PND.
+- Right pump failing raises RA/systemic venous pressure, liver congestion and dependent edema.
+- Forward failure means poor renal perfusion, fatigue, cold extremities, confusion and low urine.
+- HF patient can have normal BP but reduced perfusion.
+- 
 | Clinical pattern | Typical mechanism | Nursing concern |
 |---|---|---|
 | Warm/wet | perfused, congested | decongestion and monitoring |
 | Cold/wet | low perfusion and congestion | high-risk shock physiology, urgent escalation |
 | Cold/dry | low perfusion, little congestion | assess true volume and pump function |
 | Warm/dry | compensated | education and preventive care |
-HFrEF: impaired contractility and residual ESV; dilated chamber may compensate then worsen. HFpEF: stiff LV, impaired relaxation, small changes in volume cause large filling pressure increase. Both can develop pulmonary edema. ACC/AHA stages A risk, B pre-HF structural/biomarker abnormality without symptoms, C current/prior symptoms, D advanced refractory. NYHA functional limitation different from stages. 
+- HFrEF: impaired contractility and residual ESV; dilated chamber may compensate then worsen.
+- HFpEF: stiff LV, impaired relaxation, small changes in volume cause large filling pressure increase.
+- Both can develop pulmonary edema.
+- ACC/AHA stages A risk, B pre-HF structural/biomarker abnormality without symptoms, C current/prior symptoms, D advanced refractory.
+- NYHA functional limitation different from stages.
+- 
 ### Acute decompensation and care plan
-Look for triggers: infection, ischemia, uncontrolled BP, AF, missed medication, excessive sodium/fluid, NSAIDs, kidney dysfunction. Rapid ABC, sitting upright if tolerated, continuous SpO2/ECG, notify emergency team, assess BP before vasodilators, IV loop diuretic prescribed for congestion. Noninvasive ventilation may help selected acute pulmonary edema but hypotension/airway limitations matter. Hypoxemia treat, not indiscriminate oxygen. Monitor diuretic response, intake/output, daily weight, orthostatic BP, creatinine/K/Mg. One kg short-term weight change roughly one liter water but trend not precise. Avoid forcing fluid restriction universally; individualized orders. Goals improved breathing, less congestion, adequate perfusion, safe electrolytes. Discharge teach teach-back: daily weight, symptoms, medication purpose, individualized action plan. Avoid NSAID self-use and potassium supplements without plan when on RAAS drugs/MRA.
+- Look for triggers: infection, ischemia, uncontrolled BP, AF, missed medication, excessive sodium/fluid, NSAIDs, kidney dysfunction.
+- Rapid ABC, sitting upright if tolerated, continuous SpO2/ECG, notify emergency team, assess BP before vasodilators, IV loop diuretic prescribed for congestion.
+- Noninvasive ventilation may help selected acute pulmonary edema but hypotension/airway limitations matter.
+- Hypoxemia treat, not indiscriminate oxygen.
+- Monitor diuretic response, intake/output, daily weight, orthostatic BP, creatinine/K/Mg.
+- One kg short-term weight change roughly one liter water but trend not precise.
+- Avoid forcing fluid restriction universally; individualized orders.
+- Goals improved breathing, less congestion, adequate perfusion, safe electrolytes.
+- Discharge teach teach-back: daily weight, symptoms, medication purpose, individualized action plan.
+- Avoid NSAID self-use and potassium supplements without plan when on RAAS drugs/MRA.
 ### Cardiomyopathy comparison
-Dilated: large weak ventricle, causes genetic/viral/alcohol/toxic/peripartum, risk HF and thrombus. Hypertrophic: sarcomeric genetic often, LV thickening and dynamic outflow obstruction; reduced preload/afterload or increased contractility can aggravate obstructive form. Murmur classically louder standing/Valsalva, softer squatting; sudden death risk assessment and family screening specialist. Restrictive: infiltrative/fibrotic stiff walls, biatrial enlargement/congestion despite relatively preserved EF. Arrhythmogenic cardiomyopathy may cause ventricular arrhythmia, family/genetic evaluation. Takotsubo transient stress-related wall-motion pattern resembling MI. No clinical presentation alone reliably distinguishes. [HF nursing source](https://openstax.org/books/medical-surgical-nursing/pages/12-3-heart-failure).
+- Dilated: large weak ventricle, causes genetic/viral/alcohol/toxic/peripartum, risk HF and thrombus.
+- Hypertrophic: sarcomeric genetic often, LV thickening and dynamic outflow obstruction; reduced preload/afterload or increased contractility can aggravate obstructive form.
+- Murmur classically louder standing/Valsalva, softer squatting; sudden death risk assessment and family screening specialist.
+- Restrictive: infiltrative/fibrotic stiff walls, biatrial enlargement/congestion despite relatively preserved EF.
+- Arrhythmogenic cardiomyopathy may cause ventricular arrhythmia, family/genetic evaluation.
+- Takotsubo transient stress-related wall-motion pattern resembling MI.
+- No clinical presentation alone reliably distinguishes.
+- [HF nursing source](https://openstax.org/books/medical-surgical-nursing/pages/12-3-heart-failure).
 
 ## Hypertension and vascular disorders
 
@@ -319,18 +575,64 @@ Dilated: large weak ventricle, causes genetic/viral/alcohol/toxic/peripartum, ri
 
 **Hindi-English:** Long-term high pressure heart, brain, kidney aur blood vessels ko damage kar sakta hai. Arterial aur venous disease ke symptoms alag mechanism se aate hain. **High to Very High.**
 **Very High:** correct BP, emergency vs asymptomatic, DVT/PAD, aneurysm.
-BP depends on CO × SVR approximately; primary hypertension multifactorial, secondary renal/endocrine/drug causes. 2025 US AHA adult categories normal <120 and <80; elevated 120–129 and <80; stage 1 130–139 or 80–89; stage 2 ≥140 or ≥90. Indian/other guideline diagnostic thresholds may differ (often office ≥140/90); exam answer named guideline follow karo. Confirm repeated/home readings unless emergency. Lifestyle DASH-style diet, sodium moderation, activity, weight, tobacco cessation, alcohol limitation. Common first line thiazide-type, ACEI/ARB, long acting dihydropyridine CCB depending on comorbidity. Severe BP without acute injury is not automatically IV emergency. Acute target organ injury (encephalopathy, ACS, dissection, pulmonary edema, AKI) = hypertensive emergency, monitored IV therapy and disease-specific BP reduction; avoid indiscriminate rapid normalization. Pregnancy protocols separate.
-PAD arterial supply low: walking pain relieved rest, cool pale foot, weak pulses, dependent rubor, distal ischemic ulcers. ABI ankle systolic/brachial systolic; ≤0.90 abnormal, >1.40 noncompressible may need toe index. Chronic treatment risk factor control, structured exercise, antiplatelet/statin as indicated. Acute limb ischemia 6 Ps pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia: urgent vascular emergency. No tight compression or heating ischemic limb. Buerger disease tobacco-associated inflammatory thrombosis; complete tobacco cessation key. Raynaud episodic vasospasm with color changes, warmth and avoid triggers.
-Venous insufficiency: edema, brown pigmentation, medial gaiter ulcer, pulses often preserved, worse standing; elevation and compression only after arterial adequacy assessed. Varicose veins incompetent valves; walking/leg elevation appropriate. DVT Virchow triad stasis, endothelial injury, hypercoagulability. Unilateral swelling, warmth, pain; can be silent. No Homan sign reliance or massage. Assess clinical probability, D-dimer selected patients, ultrasound; anticoagulation per orders. PE sudden dyspnea/chest pain/tachycardia, severe hypotension emergency. Prevention mobilization and prescribed prophylaxis, bleeding checks. Avoid automatic prolonged bed rest after stable treated DVT.
-Aneurysm localized dilation; AAA often asymptomatic/pulsatile mass, rupture abdominal/back pain with shock. Do not repeatedly palpate suspected rupture. Dissection intimal tear creates false lumen; sudden severe chest/back pain, pulse difference, neuro signs; urgent imaging/team; type A ascending surgical emergency, type B management depends complications. Do not mistake for routine ACS and give lytic blindly. Peripheral aneurysm may embolize.
+- BP depends on CO × SVR approximately; primary hypertension multifactorial, secondary renal/endocrine/drug causes.
+- 2025 US AHA adult categories normal <120 and <80; elevated 120–129 and <80; stage 1 130–139 or 80–89; stage 2 ≥140 or ≥90.
+- Indian/other guideline diagnostic thresholds may differ (often office ≥140/90); exam answer named guideline follow karo.
+- Confirm repeated/home readings unless emergency.
+- Lifestyle DASH-style diet, sodium moderation, activity, weight, tobacco cessation, alcohol limitation.
+- Common first line thiazide-type, ACEI/ARB, long acting dihydropyridine CCB depending on comorbidity.
+- Severe BP without acute injury is not automatically IV emergency.
+- Acute target organ injury (encephalopathy, ACS, dissection, pulmonary edema, AKI) = hypertensive emergency, monitored IV therapy and disease-specific BP reduction; avoid indiscriminate rapid normalization.
+- Pregnancy protocols separate.
+- PAD arterial supply low: walking pain relieved rest, cool pale foot, weak pulses, dependent rubor, distal ischemic ulcers.
+- ABI ankle systolic/brachial systolic; ≤0.90 abnormal, >1.40 noncompressible may need toe index.
+- Chronic treatment risk factor control, structured exercise, antiplatelet/statin as indicated.
+- Acute limb ischemia 6 Ps pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia: urgent vascular emergency.
+- No tight compression or heating ischemic limb.
+- Buerger disease tobacco-associated inflammatory thrombosis; complete tobacco cessation key.
+- Raynaud episodic vasospasm with color changes, warmth and avoid triggers.
+- Venous insufficiency: edema, brown pigmentation, medial gaiter ulcer, pulses often preserved, worse standing; elevation and compression only after arterial adequacy assessed.
+- Varicose veins incompetent valves; walking/leg elevation appropriate.
+- DVT Virchow triad stasis, endothelial injury, hypercoagulability.
+- Unilateral swelling, warmth, pain; can be silent.
+- No Homan sign reliance or massage.
+- Assess clinical probability, D-dimer selected patients, ultrasound; anticoagulation per orders.
+- PE sudden dyspnea/chest pain/tachycardia, severe hypotension emergency.
+- Prevention mobilization and prescribed prophylaxis, bleeding checks.
+- Avoid automatic prolonged bed rest after stable treated DVT.
+- Aneurysm localized dilation; AAA often asymptomatic/pulsatile mass, rupture abdominal/back pain with shock.
+- Do not repeatedly palpate suspected rupture.
+- Dissection intimal tear creates false lumen; sudden severe chest/back pain, pulse difference, neuro signs; urgent imaging/team; type A ascending surgical emergency, type B management depends complications.
+- Do not mistake for routine ACS and give lytic blindly.
+- Peripheral aneurysm may embolize.
 
 ### Hypertension deep dive: causes, damage, nursing management
-Primary HTN genetic/environmental with renal sodium handling, sympathetic and vascular regulation. Secondary clues early/abrupt onset, resistant BP, renal disease, sleep apnea, endocrine causes (primary aldosteronism, pheochromocytoma, thyroid), drugs (NSAIDs, steroids, stimulants). Long-term high pressure injures endothelium, promotes atherosclerosis, increases LV afterload leading hypertrophy/diastolic dysfunction, damages kidney glomeruli and retinal vessels, increases stroke risk. Most patients asymptomatic; headache alone unreliable. Measure accurate BP and home record; screen organ injury by symptoms, renal function, ECG and clinician tests. Orthostatic symptoms assess before fall. Emergency severe elevation + acute organ injury, not number alone; dissection has different urgent targets than stroke, avoid universal rapid lowering. 
+- Primary HTN genetic/environmental with renal sodium handling, sympathetic and vascular regulation.
+- Secondary clues early/abrupt onset, resistant BP, renal disease, sleep apnea, endocrine causes (primary aldosteronism, pheochromocytoma, thyroid), drugs (NSAIDs, steroids, stimulants).
+- Long-term high pressure injures endothelium, promotes atherosclerosis, increases LV afterload leading hypertrophy/diastolic dysfunction, damages kidney glomeruli and retinal vessels, increases stroke risk.
+- Most patients asymptomatic; headache alone unreliable.
+- Measure accurate BP and home record; screen organ injury by symptoms, renal function, ECG and clinician tests.
+- Orthostatic symptoms assess before fall.
+- Emergency severe elevation + acute organ injury, not number alone; dissection has different urgent targets than stroke, avoid universal rapid lowering.
+- 
 ### Vascular detailed differential and nursing
 Arterial ischemic ulcer distal toes/pressure points, punched-out, painful, cool foot and poor pulses. Venous ulcer medial ankle/gaiter, irregular shallow, edema and pigmentation; compression if adequate arterial flow confirmed. Neuropathic diabetic ulcer pressure plantar foot, diminished sensation; offloading and multidisciplinary care. 
-DVT proximal clot PE risk; anticoagulation prevents extension/embolization while natural fibrinolysis occurs. New unilateral swelling assess risk/symptoms; no forced Homan test. D-dimer useful rule-out in appropriately low-probability patients, not definitive positive diagnosis. Compression ultrasound assesses noncompressibility. Prevention after surgery: early mobilization, intermittent pneumatic compression and/or anticoagulant per risk; avoid placing device over suspected acute DVT without guidance. PE high-risk unstable patient urgent team; CT pulmonary angiography commonly diagnostic if stable, V/Q selected; oxygen/hemodynamic support, anticoagulation or reperfusion selected by severity. 
-Aortic aneurysm risk smoking, age, HTN, family; surveillance and repair depend size, growth, symptoms, location and patient risk. Post aortic repair monitor perfusion, renal output, bleeding, limb pulses and neuro deficits. Dissection true/false lumen may obstruct branches; sudden neurologic, renal or limb ischemia signs. Stanford A ascending involvement even with distal extension; B no ascending involvement. Acute uncomplicated B generally medical impulse control, complicated may require intervention.
-Lymphedema protein-rich fluid due lymphatic dysfunction after node surgery, malignancy, infection or primary disorder; chronic skin thickening, infection risk, skin care and specialist compression/exercise. Raynaud vasospasm can be primary or autoimmune secondary; warm protection, avoid tobacco, ulcers urgent. Buerger inflammatory thrombosing small/medium vessels associated tobacco; quitting essential. [PAD guideline](https://professional.heart.org/en/science-news/2024-guideline-for-the-management-of-lower-extremity-peripheral-artery-disease), [vascular nursing](https://openstax.org/books/medical-surgical-nursing/pages/12-6-vascular-disorders).
+- DVT proximal clot PE risk; anticoagulation prevents extension/embolization while natural fibrinolysis occurs.
+- New unilateral swelling assess risk/symptoms; no forced Homan test.
+- D-dimer useful rule-out in appropriately low-probability patients, not definitive positive diagnosis.
+- Compression ultrasound assesses noncompressibility.
+- Prevention after surgery: early mobilization, intermittent pneumatic compression and/or anticoagulant per risk; avoid placing device over suspected acute DVT without guidance.
+- PE high-risk unstable patient urgent team; CT pulmonary angiography commonly diagnostic if stable, V/Q selected; oxygen/hemodynamic support, anticoagulation or reperfusion selected by severity.
+- 
+- Aortic aneurysm risk smoking, age, HTN, family; surveillance and repair depend size, growth, symptoms, location and patient risk.
+- Post aortic repair monitor perfusion, renal output, bleeding, limb pulses and neuro deficits.
+- Dissection true/false lumen may obstruct branches; sudden neurologic, renal or limb ischemia signs.
+- Stanford A ascending involvement even with distal extension; B no ascending involvement.
+- Acute uncomplicated B generally medical impulse control, complicated may require intervention.
+- Lymphedema protein-rich fluid due lymphatic dysfunction after node surgery, malignancy, infection or primary disorder; chronic skin thickening, infection risk, skin care and specialist compression/exercise.
+- Raynaud vasospasm can be primary or autoimmune secondary; warm protection, avoid tobacco, ulcers urgent.
+- Buerger inflammatory thrombosing small/medium vessels associated tobacco; quitting essential.
+- [PAD guideline](https://professional.heart.org/en/science-news/2024-guideline-for-the-management-of-lower-extremity-peripheral-artery-disease), [vascular nursing](https://openstax.org/books/medical-surgical-nursing/pages/12-6-vascular-disorders).
 
 ## Valve and inflammatory diseases
 
@@ -352,7 +654,16 @@ Stenosis = narrow opening, pressure overload upstream; regurgitation = backward 
 | Tricuspid regurgitation | Holosystolic lower left sternum, increases inspiration |
 | Mitral valve prolapse | Mid-systolic click ± late systolic murmur |
 
-Rheumatic fever immune response after group A streptococcal infection; revised Jones criteria risk-specific: major carditis, migratory arthritis, chorea, erythema marginatum, subcutaneous nodules; minor fever, arthralgia, inflammatory markers, prolonged PR (with exceptions). Evidence preceding GAS typically required; exceptions exist. Long-term secondary prophylaxis prevents recurrence; rheumatic heart disease often mitral. Infective endocarditis microbial valve/endocardial infection; fever, murmur, embolic signs; Janeway painless, Osler painful, splinter hemorrhage nonspecific. Blood cultures before antibiotics when feasible, echo, targeted prolonged antimicrobials, surgery selected. Myocarditis myocardial inflammation (infectious/immune/toxic) causes chest pain, arrhythmia, HF; avoid intense exercise until cleared. Pericarditis sharp positional pleuritic pain, rub, diffuse ST elevation/PR depression possible; therapy cause-specific NSAID/colchicine commonly. Effusion not synonymous tamponade: tamponade compresses filling → low CO, hypotension, raised JVP, muffled sounds (Beck triad may be incomplete), pulsus paradoxus >10 mmHg inspiratory systolic fall. Urgent echo/clinician drainage; do not delay resuscitation. Constrictive pericarditis chronic rigid pericardium limits filling, systemic congestion and Kussmaul sign possible.
+- Rheumatic fever immune response after group A streptococcal infection; revised Jones criteria risk-specific: major carditis, migratory arthritis, chorea, erythema marginatum, subcutaneous nodules; minor fever, arthralgia, inflammatory markers, prolonged PR (with exceptions).
+- Evidence preceding GAS typically required; exceptions exist.
+- Long-term secondary prophylaxis prevents recurrence; rheumatic heart disease often mitral.
+- Infective endocarditis microbial valve/endocardial infection; fever, murmur, embolic signs; Janeway painless, Osler painful, splinter hemorrhage nonspecific.
+- Blood cultures before antibiotics when feasible, echo, targeted prolonged antimicrobials, surgery selected.
+- Myocarditis myocardial inflammation (infectious/immune/toxic) causes chest pain, arrhythmia, HF; avoid intense exercise until cleared.
+- Pericarditis sharp positional pleuritic pain, rub, diffuse ST elevation/PR depression possible; therapy cause-specific NSAID/colchicine commonly.
+- Effusion not synonymous tamponade: tamponade compresses filling → low CO, hypotension, raised JVP, muffled sounds (Beck triad may be incomplete), pulsus paradoxus >10 mmHg inspiratory systolic fall.
+- Urgent echo/clinician drainage; do not delay resuscitation.
+- Constrictive pericarditis chronic rigid pericardium limits filling, systemic congestion and Kussmaul sign possible.
 
 ### Valve disease in depth — why each symptom occurs
 **Mitral stenosis (High):** rheumatic commissural fusion narrows LA→LV opening. LA pressure rises → pulmonary congestion, LA dilation → AF and embolic risk. Tachycardia shortens diastole, worsens gradient. Echo valve area/gradient, pulmonary pressure. Symptom management rate control/diuresis as ordered, anticoagulation when indicated (rheumatic MS with AF usually VKA), balloon commissurotomy selected anatomy or surgery. 
@@ -360,9 +671,28 @@ Rheumatic fever immune response after group A streptococcal infection; revised J
 **Aortic stenosis:** fixed outlet obstruction raises LV systolic pressure, concentric hypertrophy, oxygen demand; exertion may cause angina/syncope/dyspnea. Calcific degenerative, bicuspid or rheumatic. Severe symptomatic AS needs specialist valve intervention (SAVR/TAVR selection). Avoid uncontrolled preload reduction and exertional symptoms ignored. 
 **Aortic regurgitation:** diastolic leak aorta to LV; chronic LV dilation and increased total SV, low DBP; acute severe AR can cause shock without classic wide pulse pressure. Treat cause and specialist surgery based on severity/symptoms/LV. **Tricuspid stenosis/regurgitation:** systemic venous congestion, hepatomegaly/edema; TR often secondary RV/annular dilation. **Pulmonary stenosis/regurgitation:** congenital or repaired congenital, RV pressure/volume load. 
 ### Endocarditis, rheumatic fever, myocarditis and pericardial disease
-Infective endocarditis vegetation platelet-fibrin-microbe mass on valve/device; destructive regurgitation, abscess/conduction block, emboli to brain/kidney/spleen or lung in right-sided disease. Staph aureus can be aggressive; streptococci and enterococci other examples. Prosthetic valve/device/IV drug use and prior endocarditis increase risk. Diagnostic criteria combine cultures, imaging and clinical signs, not a single murmur. Nurse culture aseptically, monitor temperature, new neuro deficit, renal output, HF, antibiotic levels/renal labs where indicated, IV site and long-course adherence. Surgery considered HF, uncontrolled infection, embolic risk. 
-Rheumatic fever is immune-mediated after GAS; not direct bacterial vegetation. Carditis can affect all layers; chronic scarring especially mitral. Jones criteria risk category matters; ASO/anti-DNase B evidence preceding GAS; ECG PR prolongation minor in appropriate setting. Treat GAS, inflammation, HF and long-term secondary prophylaxis per specialist. Sydenham chorea involuntary movements, school/safety support. 
-Myocarditis suspect after viral illness with chest pain, arrhythmia, new HF; troponin/echo/MRI selected, biopsy in specific severe presentations. Avoid strenuous exercise during recovery, monitor electrical and pump function. Pericarditis rub transient, effusion may coexist. Tamponade pressure-volume curve steep once pericardial reserve exhausted: small rapid hemopericardium dangerous, slow large effusion tolerated until threshold. Echo RA/RV collapse clues and clinical shock. Urgent drainage by trained team; positive pressure ventilation or excessive preload reduction may worsen unstable tamponade. Constrictive pericarditis chronic rigid shell, rapid early filling then abrupt stop, prominent y descent. Different from restrictive myocardial disease; echo/MRI/cath differentiation. 
+- Infective endocarditis vegetation platelet-fibrin-microbe mass on valve/device; destructive regurgitation, abscess/conduction block, emboli to brain/kidney/spleen or lung in right-sided disease.
+- Staph aureus can be aggressive; streptococci and enterococci other examples.
+- Prosthetic valve/device/IV drug use and prior endocarditis increase risk.
+- Diagnostic criteria combine cultures, imaging and clinical signs, not a single murmur.
+- Nurse culture aseptically, monitor temperature, new neuro deficit, renal output, HF, antibiotic levels/renal labs where indicated, IV site and long-course adherence.
+- Surgery considered HF, uncontrolled infection, embolic risk.
+- 
+- Rheumatic fever is immune-mediated after GAS; not direct bacterial vegetation.
+- Carditis can affect all layers; chronic scarring especially mitral.
+- Jones criteria risk category matters; ASO/anti-DNase B evidence preceding GAS; ECG PR prolongation minor in appropriate setting.
+- Treat GAS, inflammation, HF and long-term secondary prophylaxis per specialist.
+- Sydenham chorea involuntary movements, school/safety support.
+- 
+- Myocarditis suspect after viral illness with chest pain, arrhythmia, new HF; troponin/echo/MRI selected, biopsy in specific severe presentations.
+- Avoid strenuous exercise during recovery, monitor electrical and pump function.
+- Pericarditis rub transient, effusion may coexist.
+- Tamponade pressure-volume curve steep once pericardial reserve exhausted: small rapid hemopericardium dangerous, slow large effusion tolerated until threshold.
+- Echo RA/RV collapse clues and clinical shock.
+- Urgent drainage by trained team; positive pressure ventilation or excessive preload reduction may worsen unstable tamponade.
+- Constrictive pericarditis chronic rigid shell, rapid early filling then abrupt stop, prominent y descent.
+- Different from restrictive myocardial disease; echo/MRI/cath differentiation.
+- 
 
 ## Congenital and pediatric cardiovascular disease
 
@@ -383,12 +713,38 @@ RA --> RV --> PA[Pulmonary artery] --> DA[Ductus arteriosus] --> AO
 AO --> UA[Umbilical arteries] --> PL
 ```
 
-ASD usually left-to-right, fixed split S2; VSD holosystolic lower sternal; PDA continuous machinery murmur, bounding pulses; large shunt → pulmonary overcirculation/HF, untreated pulmonary vascular disease can reverse shunt (Eisenmenger cyanosis). TOF four components VSD, pulmonary outflow obstruction, overriding aorta, RV hypertrophy. Cyanotic spell: knee-chest, calm child, urgent oxygen/clinical support and ordered therapy; squatting increases systemic resistance. TGA parallel circuits, survival depends mixing (ASD/VSD/PDA), urgent neonatal specialist/prostaglandin as appropriate. Coarctation arm pressure high, legs low/delayed femoral. Tricuspid atresia, truncus arteriosus, TAPVR and hypoplastic left heart are specialist-managed; understand mixing/duct-dependent perfusion. Infant HF feeding fatigue, sweating, tachypnea, poor growth; age-specific HR/BP and drug dosing. Kawasaki prolonged fever with mucocutaneous changes, coronary aneurysm risk, IVIG and aspirin under pediatric specialist; pediatric aspirin exceptional indication. Pregnancy: cardiac output increases, severe stenosis/PH high risk; peripartum cardiomyopathy can present late pregnancy/postpartum with new HF. Escalate dyspnea at rest/syncope. This is overview; neonatal and obstetric resuscitation have separate algorithms.
+- ASD usually left-to-right, fixed split S2; VSD holosystolic lower sternal; PDA continuous machinery murmur, bounding pulses; large shunt → pulmonary overcirculation/HF, untreated pulmonary vascular disease can reverse shunt (Eisenmenger cyanosis).
+- TOF four components VSD, pulmonary outflow obstruction, overriding aorta, RV hypertrophy.
+- Cyanotic spell: knee-chest, calm child, urgent oxygen/clinical support and ordered therapy; squatting increases systemic resistance.
+- TGA parallel circuits, survival depends mixing (ASD/VSD/PDA), urgent neonatal specialist/prostaglandin as appropriate.
+- Coarctation arm pressure high, legs low/delayed femoral.
+- Tricuspid atresia, truncus arteriosus, TAPVR and hypoplastic left heart are specialist-managed; understand mixing/duct-dependent perfusion.
+- Infant HF feeding fatigue, sweating, tachypnea, poor growth; age-specific HR/BP and drug dosing.
+- Kawasaki prolonged fever with mucocutaneous changes, coronary aneurysm risk, IVIG and aspirin under pediatric specialist; pediatric aspirin exceptional indication.
+- Pregnancy: cardiac output increases, severe stenosis/PH high risk; peripartum cardiomyopathy can present late pregnancy/postpartum with new HF.
+- Escalate dyspnea at rest/syncope.
+- This is overview; neonatal and obstetric resuscitation have separate algorithms.
 
 ### Congenital shunts and pediatric nursing — physiology to symptoms
-Left-to-right shunt initially sends oxygenated systemic blood back to lungs; cyanosis typically absent early. Large VSD/PDA cause pulmonary overcirculation and infant HF once PVR falls after birth. Small VSD can be loud because high velocity, large equal-pressure defect may softer. ASD right volume load and fixed S2 split. PDA aortic pressure exceeds PA in systole and diastole → continuous murmur; preterm PDA management differs (ibuprofen/indomethacin or other strategies selected, not every PDA needs closure). Duct-dependent congenital lesions may need prostaglandin E1 to maintain patency; apnea monitoring critical. 
-TOF severity depends RV outflow obstruction. Crying/exertion lowers relative systemic resistance or worsens obstruction, increasing R→L shunt and cyanosis. Knee-chest increases systemic resistance; calm, urgent help, oxygen and prescribed measures. Squatting older child compensatory. TGA oxygenated pulmonary circuit and systemic circuit parallel; mixing lifesaving. TAPVR total pulmonary venous drainage to systemic side, mixing through ASD essential; obstruction emergency. Coarctation differential pulses and BP; newborn critical lesion may collapse when duct closes. 
-Nursing: feed small frequent energy-efficient feeds per team, rest pauses, monitor growth and urine, respiratory distress, baseline saturation individualized to lesion (not force normal adult saturation target in every cyanotic condition), infection prevention, parental education. Post congenital surgery monitor rhythm, perfusion, drains, residual shunts and low-output signs. Pediatric CPR age-specific; infants/children often respiratory origin, compression depth about one-third chest AP (infant ~4 cm, child ~5 cm); 30:2 one rescuer, 15:2 two trained rescuers prepubertal without advanced airway, separate neonatal protocol. 
+- Left-to-right shunt initially sends oxygenated systemic blood back to lungs; cyanosis typically absent early.
+- Large VSD/PDA cause pulmonary overcirculation and infant HF once PVR falls after birth.
+- Small VSD can be loud because high velocity, large equal-pressure defect may softer.
+- ASD right volume load and fixed S2 split.
+- PDA aortic pressure exceeds PA in systole and diastole → continuous murmur; preterm PDA management differs (ibuprofen/indomethacin or other strategies selected, not every PDA needs closure).
+- Duct-dependent congenital lesions may need prostaglandin E1 to maintain patency; apnea monitoring critical.
+- 
+- TOF severity depends RV outflow obstruction.
+- Crying/exertion lowers relative systemic resistance or worsens obstruction, increasing R→L shunt and cyanosis.
+- Knee-chest increases systemic resistance; calm, urgent help, oxygen and prescribed measures.
+- Squatting older child compensatory.
+- TGA oxygenated pulmonary circuit and systemic circuit parallel; mixing lifesaving.
+- TAPVR total pulmonary venous drainage to systemic side, mixing through ASD essential; obstruction emergency.
+- Coarctation differential pulses and BP; newborn critical lesion may collapse when duct closes.
+- 
+- Nursing: feed small frequent energy-efficient feeds per team, rest pauses, monitor growth and urine, respiratory distress, baseline saturation individualized to lesion (not force normal adult saturation target in every cyanotic condition), infection prevention, parental education.
+- Post congenital surgery monitor rhythm, perfusion, drains, residual shunts and low-output signs.
+- Pediatric CPR age-specific; infants/children often respiratory origin, compression depth about one-third chest AP (infant ~4 cm, child ~5 cm); 30:2 one rescuer, 15:2 two trained rescuers prepubertal without advanced airway, separate neonatal protocol.
+- 
 
 ## Shock resuscitation and critical care
 
@@ -400,9 +756,23 @@ Nursing: feed small frequent energy-efficient feeds per team, rest pauses, monit
 
 **Hindi-English:** Low BP shock ka clue hai, definition nahi. Tissues ko oxygen nahi mil rahi ho to urgent action chahiye. Arrest mein effective pulse absent hota hai. **Very High.**
 **Very High:** types, perfusion, BLS/ACLS, cardioversion vs defibrillation.
-Shock inadequate tissue oxygen delivery/utilization; early BP may preserved. Look altered mentation, poor urine, cool skin (warm possible distributive), lactate trend, tachycardia. Hypovolemic low circulating volume (bleeding/dehydration), cardiogenic pump failure, distributive low SVR (sepsis/anaphylaxis/neurogenic), obstructive impeded filling/outflow (tamponade, tension pneumothorax, massive PE). Cardiogenic often high filling pressure/congestion; do not reflex large fluids. Hypovolemia control bleeding and replace appropriately; sepsis antibiotics/source control and individualized fluids/vasopressors; anaphylaxis IM epinephrine per protocol; obstruction treat cause urgently. All require escalation, oxygenation, monitoring, IV access, perfusion reassessment; shock management not one drug for all. Cardiogenic shock urgent reperfusion if MI, inotrope/vasopressor and mechanical support selected. MAP often initial target 65 in septic shock individualized; urine output trends.
+- Shock inadequate tissue oxygen delivery/utilization; early BP may preserved.
+- Look altered mentation, poor urine, cool skin (warm possible distributive), lactate trend, tachycardia.
+- Hypovolemic low circulating volume (bleeding/dehydration), cardiogenic pump failure, distributive low SVR (sepsis/anaphylaxis/neurogenic), obstructive impeded filling/outflow (tamponade, tension pneumothorax, massive PE).
+- Cardiogenic often high filling pressure/congestion; do not reflex large fluids.
+- Hypovolemia control bleeding and replace appropriately; sepsis antibiotics/source control and individualized fluids/vasopressors; anaphylaxis IM epinephrine per protocol; obstruction treat cause urgently.
+- All require escalation, oxygenation, monitoring, IV access, perfusion reassessment; shock management not one drug for all.
+- Cardiogenic shock urgent reperfusion if MI, inotrope/vasopressor and mechanical support selected.
+- MAP often initial target 65 in septic shock individualized; urine output trends.
 
-Adult BLS: unresponsive, absent normal breathing (gasping abnormal), healthcare provider pulse check ≤10 sec; activate emergency response/AED, start compressions if no definite pulse. Rate 100–120/min, depth at least 5 cm avoiding >6 cm, full recoil, minimize pauses, 30:2 without advanced airway. With advanced airway continuous compressions and 1 breath/6 sec. Avoid excessive ventilation. AED prompt; rhythm/pulse checks approx every 2 min as indicated. Defibrillate VF/pVT; no shock asystole/PEA; epinephrine per ALS. Post ROSC monitor oxygenation, ventilation, BP, cause, temperature control in appropriate patients. 2025 AHA algorithms supersede old classroom sequences.
+- Adult BLS: unresponsive, absent normal breathing (gasping abnormal), healthcare provider pulse check ≤10 sec; activate emergency response/AED, start compressions if no definite pulse.
+- Rate 100–120/min, depth at least 5 cm avoiding >6 cm, full recoil, minimize pauses, 30:2 without advanced airway.
+- With advanced airway continuous compressions and 1 breath/6 sec.
+- Avoid excessive ventilation.
+- AED prompt; rhythm/pulse checks approx every 2 min as indicated.
+- Defibrillate VF/pVT; no shock asystole/PEA; epinephrine per ALS.
+- Post ROSC monitor oxygenation, ventilation, BP, cause, temperature control in appropriate patients.
+- 2025 AHA algorithms supersede old classroom sequences.
 
 ```mermaid
 flowchart TD
@@ -416,7 +786,16 @@ H --> R
 C --> ROSC[If ROSC: post-arrest care]
 ```
 
-AHA adult arrest epinephrine 1 mg IV/IO every 3–5 min; nonshockable as soon as feasible, shockable after initial defibrillation attempts per algorithm. Refractory VF/pVT amiodarone or lidocaine per protocol. Hs: hypovolemia, hypoxia, hydrogen ion/acidosis, hypo/hyperkalemia, hypothermia. Ts: tension pneumothorax, tamponade, toxins, pulmonary thrombosis, coronary thrombosis. Symptomatic bradycardia atropine 1 mg IV every 3–5 min max 3 mg under adult algorithm; if ineffective pacing/dopamine/epinephrine per protocol. High-grade block may need immediate pacing. Stable regular narrow tachy: vagal maneuvers/adenosine if appropriate; unstable with pulse synchronized cardioversion (sedate if feasible without delay). Polymorphic VT cannot reliably synchronize, unsynchronized high-energy shock if sustained unstable. Defibrillation energy device-specific; use manufacturer/AHA guidance. Source [AHA 2025 algorithms](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms/).
+- AHA adult arrest epinephrine 1 mg IV/IO every 3–5 min; nonshockable as soon as feasible, shockable after initial defibrillation attempts per algorithm.
+- Refractory VF/pVT amiodarone or lidocaine per protocol.
+- Hs: hypovolemia, hypoxia, hydrogen ion/acidosis, hypo/hyperkalemia, hypothermia.
+- Ts: tension pneumothorax, tamponade, toxins, pulmonary thrombosis, coronary thrombosis.
+- Symptomatic bradycardia atropine 1 mg IV every 3–5 min max 3 mg under adult algorithm; if ineffective pacing/dopamine/epinephrine per protocol.
+- High-grade block may need immediate pacing.
+- Stable regular narrow tachy: vagal maneuvers/adenosine if appropriate; unstable with pulse synchronized cardioversion (sedate if feasible without delay).
+- Polymorphic VT cannot reliably synchronize, unsynchronized high-energy shock if sustained unstable.
+- Defibrillation energy device-specific; use manufacturer/AHA guidance.
+- Source [AHA 2025 algorithms](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms/).
 
 ### Hemodynamics of shock — compare rather than memorize
 | Type | CO tendency | SVR tendency | Filling pressure tendency |
@@ -426,13 +805,23 @@ AHA adult arrest epinephrine 1 mg IV/IO every 3–5 min; nonshockable as soon as
 | Distributive early sepsis | often high/variable | low | variable |
 | Obstructive | low | high | depends obstruction, JVP often high |
 These are typical patterns, not universal. Initial compensated shock tachycardia/vasoconstriction preserves BP; progressive shock anaerobic metabolism, lactate, organ dysfunction; refractory severe injury despite therapy. Lactate may also reflect nonhypoxic mechanisms. Urine output, mentation, capillary refill, peripheral temp and serial BP assess together. 
-Example cardiogenic vs hypovolemic: both hypotension/cold skin; crackles and raised filling pressures suggest cardiac congestion, dry patient with blood loss suggests low preload. Fluids can worsen pulmonary edema; use cause and response, not blindly volume. Obstructive tamponade/PE require definitive cause intervention. Neurogenic shock loss sympathetic tone can cause hypotension and relative bradycardia; spinal shock is neurological loss of reflexes, not identical. 
+- Example cardiogenic vs hypovolemic: both hypotension/cold skin; crackles and raised filling pressures suggest cardiac congestion, dry patient with blood loss suggests low preload.
+- Fluids can worsen pulmonary edema; use cause and response, not blindly volume.
+- Obstructive tamponade/PE require definitive cause intervention.
+- Neurogenic shock loss sympathetic tone can cause hypotension and relative bradycardia; spinal shock is neurological loss of reflexes, not identical.
+- 
 ### Resuscitation workflow and post-arrest nursing
 
 ![ master cpr path ](../Assets/master-cpr-path.svg)
 
 **Visual 12 — Adult arrest:** CPR immediately for pulseless patient; shock VF/pulseless VT, not PEA/asystole. Follow current AHA algorithm and trained team protocol.
-CPR compress lower half sternum, patient on firm surface when feasible, arms straight, switch compressor about every 2 min; avoid leaning. Defibrillation unsynchronized for VF/pVT; after shock immediately resume compressions, don't pause for pulse unless indicated. AED follow prompts; ensure no contact during analysis/shock. Team roles compressor, airway, monitor/defib, IV/drugs, recorder/leader. Record timing, rhythm, drugs, shocks, ROSC. Capnography helps confirm advanced airway and assess CPR; sudden sustained ETCO2 rise may suggest ROSC, not sole criterion to stop resuscitation. 
+- CPR compress lower half sternum, patient on firm surface when feasible, arms straight, switch compressor about every 2 min; avoid leaning.
+- Defibrillation unsynchronized for VF/pVT; after shock immediately resume compressions, don't pause for pulse unless indicated.
+- AED follow prompts; ensure no contact during analysis/shock.
+- Team roles compressor, airway, monitor/defib, IV/drugs, recorder/leader.
+- Record timing, rhythm, drugs, shocks, ROSC.
+- Capnography helps confirm advanced airway and assess CPR; sudden sustained ETCO2 rise may suggest ROSC, not sole criterion to stop resuscitation.
+- 
 Synchronized cardioversion aligns shock with R to avoid vulnerable T; check synchronization markers, resync after shocks if needed. Unstable tachy with pulse selected; sedation if feasible. Transcutaneous pacing for selected unstable brady: electrical capture (spike then QRS) plus mechanical capture (pulse/BP), analgesia/sedation as tolerated. 
 After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and hypotension, ECG and cause investigation, seizure/temperature monitoring, multidisciplinary ICU. Neurologic prognosis delayed and multimodal; no premature pessimistic conclusion. [AHA adult BLS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support), [ALS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support/).
 
@@ -468,21 +857,72 @@ After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and
 | Norepinephrine / dobutamine | Pressor / inotrope; continuous monitoring, perfusion, extravasation and arrhythmia risks |
 | Fibrinolytic | Clot breakdown selected STEMI; bleeding/ICH and contraindication checks, no NSTEMI routine |
 
-Pacemaker: electrical stimulus when intrinsic rhythm insufficient; temporary transcutaneous/transvenous or permanent. Spikes without P/QRS = failure capture; missing spike when expected = failure output; inappropriate timing may be sensing issue. Assess pulse/perfusion, check connections, escalate. Post implant wound, hematoma, infection, pneumothorax symptoms, device follow-up and arm instructions specific to team. ICD detects/treats dangerous ventricular arrhythmias; CRT synchronizes selected dyssynchronous HF. IABP inflates diastole to augment coronary perfusion, deflates before systole to reduce afterload; monitor limb circulation, timing, bleeding, positioning; severe AR/dissection contraindications. Impella/ECMO/LVAD selected advanced support; bleeding, thrombosis, infection, perfusion and device alarms trained-team management.
+- Pacemaker: electrical stimulus when intrinsic rhythm insufficient; temporary transcutaneous/transvenous or permanent.
+- Spikes without P/QRS = failure capture; missing spike when expected = failure output; inappropriate timing may be sensing issue.
+- Assess pulse/perfusion, check connections, escalate.
+- Post implant wound, hematoma, infection, pneumothorax symptoms, device follow-up and arm instructions specific to team.
+- ICD detects/treats dangerous ventricular arrhythmias; CRT synchronizes selected dyssynchronous HF.
+- IABP inflates diastole to augment coronary perfusion, deflates before systole to reduce afterload; monitor limb circulation, timing, bleeding, positioning; severe AR/dissection contraindications.
+- Impella/ECMO/LVAD selected advanced support; bleeding, thrombosis, infection, perfusion and device alarms trained-team management.
 CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains, rhythm, urine, pain, wound, mobilization/respiratory exercises and education. Sudden low output with rising filling pressure or abrupt drain changes may indicate tamponade; escalate, do not blindly manipulate drain. Cardiac rehabilitation phased individualized supervised exercise and risk-factor education; discharge teach medication purpose, warning symptoms, follow-up, bleeding precautions, daily weight in HF.
 
 ### Pharmacology deeper: compare similar drugs and monitoring
-Antiplatelets prevent platelet aggregation (arterial thrombosis), anticoagulants interfere coagulation factors (AF/VTE etc.), fibrinolytics break fibrin clot. Not interchangeable. Aspirin irreversibly inhibits platelet COX-1; clopidogrel P2Y12 blockade; ticagrelor dyspnea possible. UFH onset rapid IV, variable monitoring, protamine reversal; LMWH predictable but renal clearance and partial protamine reversal. HIT suspect platelet fall >50% around 5–10 days (earlier recent exposure), new thrombosis; stop all heparin and urgent specialist strategy, don't merely substitute LMWH. Warfarin delayed onset, INR usual 2–3 many indications but mechanical valve-specific; vitamin K consistent intake not total avoidance. DOAC missed dose may reduce protection rapidly; follow prescribed instructions.
-Nitrates reduce venous return and myocardial demand, headache/orthostatic hypotension; PDE5 interactions can cause severe hypotension. Beta1 blockade lowers HR, AV conduction and workload; abrupt withdrawal can worsen ischemia; assess bradycardia, block and hypotension. ACEI/ARB reduce RAAS, monitor creatinine/K, ACEI cough/angioedema; no ACEI+ARB routine combination. ARNI neprilysin inhibition plus ARB, 36 h washout from ACEI. Spironolactone hyperkalemia/gynecomastia. Furosemide blocks Na-K-2Cl in thick ascending loop → natriuresis, low K/Mg, dehydration; thiazide distal Na-Cl transporter, hyponatremia/hyperuricemia. Digoxin inhibits Na/K ATPase → increased intracellular Ca, vagal AV slowing; hypokalemia predisposes toxicity; check renal and interacting meds, pulse according prescription; classic yellow/blurred vision, GI upset and many arrhythmias. Digoxin Fab for severe poisoning selected. 
-Vaughan Williams antiarrhythmics I Na channel (e.g. lidocaine), II beta blockers, III K channel (amiodarone), IV non-DHP calcium channel (verapamil/diltiazem); adenosine and digoxin other mechanisms. Amiodarone multi-channel effects, monitor thyroid/liver/lung, QT and interactions. Adenosine short half-life, selected regular SVT. Atropine blocks muscarinic effects; high-degree infranodal block may not respond. Norepinephrine predominantly alpha pressor, dobutamine beta1 inotrope; both can provoke arrhythmia and need closely monitored IV. 
+- Antiplatelets prevent platelet aggregation (arterial thrombosis), anticoagulants interfere coagulation factors (AF/VTE etc.), fibrinolytics break fibrin clot.
+- Not interchangeable.
+- Aspirin irreversibly inhibits platelet COX-1; clopidogrel P2Y12 blockade; ticagrelor dyspnea possible.
+- UFH onset rapid IV, variable monitoring, protamine reversal; LMWH predictable but renal clearance and partial protamine reversal.
+- HIT suspect platelet fall >50% around 5–10 days (earlier recent exposure), new thrombosis; stop all heparin and urgent specialist strategy, don't merely substitute LMWH.
+- Warfarin delayed onset, INR usual 2–3 many indications but mechanical valve-specific; vitamin K consistent intake not total avoidance.
+- DOAC missed dose may reduce protection rapidly; follow prescribed instructions.
+- Nitrates reduce venous return and myocardial demand, headache/orthostatic hypotension; PDE5 interactions can cause severe hypotension.
+- Beta1 blockade lowers HR, AV conduction and workload; abrupt withdrawal can worsen ischemia; assess bradycardia, block and hypotension.
+- ACEI/ARB reduce RAAS, monitor creatinine/K, ACEI cough/angioedema; no ACEI+ARB routine combination.
+- ARNI neprilysin inhibition plus ARB, 36 h washout from ACEI.
+- Spironolactone hyperkalemia/gynecomastia.
+- Furosemide blocks Na-K-2Cl in thick ascending loop → natriuresis, low K/Mg, dehydration; thiazide distal Na-Cl transporter, hyponatremia/hyperuricemia.
+- Digoxin inhibits Na/K ATPase → increased intracellular Ca, vagal AV slowing; hypokalemia predisposes toxicity; check renal and interacting meds, pulse according prescription; classic yellow/blurred vision, GI upset and many arrhythmias.
+- Digoxin Fab for severe poisoning selected.
+- 
+- Vaughan Williams antiarrhythmics I Na channel (e.g.
+- lidocaine), II beta blockers, III K channel (amiodarone), IV non-DHP calcium channel (verapamil/diltiazem); adenosine and digoxin other mechanisms.
+- Amiodarone multi-channel effects, monitor thyroid/liver/lung, QT and interactions.
+- Adenosine short half-life, selected regular SVT.
+- Atropine blocks muscarinic effects; high-degree infranodal block may not respond.
+- Norepinephrine predominantly alpha pressor, dobutamine beta1 inotrope; both can provoke arrhythmia and need closely monitored IV.
+- 
 ### Procedures, postoperative care and devices
-Pacemaker modes NBG first three letters chamber paced/sensed/response (e.g. VVI ventricular paced and sensed, inhibited response; DDD dual chamber tracking). Failure to capture spikes without depolarization, undersensing inappropriate spikes despite intrinsic beats, oversensing inappropriate inhibition. Patient first, pulse and perfusion, urgent escalation if unstable. ICD prevents sudden death via antitachycardia pacing/shock for selected arrhythmia; CRT improves synchrony in eligible HF. Postimplant infection/hematoma, pneumothorax, lead displacement concerns; avoid universal arm restriction duration, follow specific device team.
-IABP diastolic inflation increases aortic diastolic pressure/coronary perfusion, systolic deflation decreases afterload; check augmentation timing/waveform, distal pulses and access bleeding. Not routine for all MI shock; severe AR or dissection contraindication. ECMO/LVAD advanced team, monitor perfusion/bleeding/device; continuous-flow LVAD may have weak palpable pulse, use trained protocols not ordinary pulse assumptions. 
-CABG median sternotomy often, graft supply new route beyond stenosis. Post-op early ABC and hemodynamic monitoring, bleeding/drain output, temporary pacing wires, glucose, pain, pulmonary hygiene, neuro/renal checks. New AF common after surgery; hypotension/tachycardia and low urine could be bleeding/low CO/tamponade; escalating rather than assuming normal. Drain suddenly stops with worsening shock possible clot/tamponade. Mobilization and incision support per protocol; fever, wound drainage or unstable sternum notify. Valve replacement mechanical durable but anticoagulation burden, tissue less durable generally with individualized antithrombotic plan. TAVR transfemoral often; monitor access, conduction block, stroke signs. Cardiac rehab inpatient early mobilization, supervised outpatient exercise and long-term lifestyle maintenance. 
+- Pacemaker modes NBG first three letters chamber paced/sensed/response (e.g.
+- VVI ventricular paced and sensed, inhibited response; DDD dual chamber tracking).
+- Failure to capture spikes without depolarization, undersensing inappropriate spikes despite intrinsic beats, oversensing inappropriate inhibition.
+- Patient first, pulse and perfusion, urgent escalation if unstable.
+- ICD prevents sudden death via antitachycardia pacing/shock for selected arrhythmia; CRT improves synchrony in eligible HF.
+- Postimplant infection/hematoma, pneumothorax, lead displacement concerns; avoid universal arm restriction duration, follow specific device team.
+- IABP diastolic inflation increases aortic diastolic pressure/coronary perfusion, systolic deflation decreases afterload; check augmentation timing/waveform, distal pulses and access bleeding.
+- Not routine for all MI shock; severe AR or dissection contraindication.
+- ECMO/LVAD advanced team, monitor perfusion/bleeding/device; continuous-flow LVAD may have weak palpable pulse, use trained protocols not ordinary pulse assumptions.
+- 
+- CABG median sternotomy often, graft supply new route beyond stenosis.
+- Post-op early ABC and hemodynamic monitoring, bleeding/drain output, temporary pacing wires, glucose, pain, pulmonary hygiene, neuro/renal checks.
+- New AF common after surgery; hypotension/tachycardia and low urine could be bleeding/low CO/tamponade; escalating rather than assuming normal.
+- Drain suddenly stops with worsening shock possible clot/tamponade.
+- Mobilization and incision support per protocol; fever, wound drainage or unstable sternum notify.
+- Valve replacement mechanical durable but anticoagulation burden, tissue less durable generally with individualized antithrombotic plan.
+- TAVR transfemoral often; monitor access, conduction block, stroke signs.
+- Cardiac rehab inpatient early mobilization, supervised outpatient exercise and long-term lifestyle maintenance.
+- 
 ### Practical care-plan examples
-Acute HF: impaired gas exchange related pulmonary congestion; outcome improved oxygenation/respiratory effort; position, monitor, prescribed decongestion, reassess. PAD: ineffective peripheral perfusion; compare neurovascular status, protect feet, urgent acute changes; outcome no tissue injury and improved functional walking if stable. Anticoagulated patient: bleeding risk; assess stool/urine/gums/bruises, fall safety, medication reconciliation and escalation for major bleeding. Post cath: neurovascular compromise risk; pulse/temp/cap refill/sensation and access monitoring; outcome stable site and distal perfusion. 
+- Acute HF: impaired gas exchange related pulmonary congestion; outcome improved oxygenation/respiratory effort; position, monitor, prescribed decongestion, reassess.
+- PAD: ineffective peripheral perfusion; compare neurovascular status, protect feet, urgent acute changes; outcome no tissue injury and improved functional walking if stable.
+- Anticoagulated patient: bleeding risk; assess stool/urine/gums/bruises, fall safety, medication reconciliation and escalation for major bleeding.
+- Post cath: neurovascular compromise risk; pulse/temp/cap refill/sensation and access monitoring; outcome stable site and distal perfusion.
+- 
 ### Additional exam angles and research limits
-Highest study focus remains clinical priorities, ECG mechanisms and drug adverse effects because these allow both recall and case-based questions. HP 2020 transcription independently located [here](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2020-hpssc-hamirpur-part-1/). [HP archive 2020–22](https://ramanacademy.in/hp-staff-nurse-previous-year-question-papers/), [2026 archive](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/) are leads, not proof of exact exam frequency. [ACC guideline index](https://www.acc.org/Guidelines/) includes ACS, HF, congenital, PAD and PE. This expansion is study material, not claimed completed; original 168 practice items unchanged. Separate videos and rare congenital/specialist subtypes remain less deeply verified.
+- Highest study focus remains clinical priorities, ECG mechanisms and drug adverse effects because these allow both recall and case-based questions.
+- HP 2020 transcription independently located [here](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2020-hpssc-hamirpur-part-1/).
+- [HP archive 2020–22](https://ramanacademy.in/hp-staff-nurse-previous-year-question-papers/), [2026 archive](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/) are leads, not proof of exact exam frequency.
+- [ACC guideline index](https://www.acc.org/Guidelines/) includes ACS, HF, congenital, PAD and PE.
+- This expansion is study material, not claimed completed; original 168 practice items unchanged.
+- Separate videos and rare congenital/specialist subtypes remain less deeply verified.
 
 ## Revision and exam evidence
 Priority estimates are qualitative, NOT official weightage or counted historical frequency. Very High: coronary supply, cardiac output, ECG/rhythms, ACS, HF, CPR/shock, drugs and cath care. High: hypertension, congenital, murmurs, endocarditis/RF, vascular disease, hemodynamics. Anatomy foundation already in earlier notes.
