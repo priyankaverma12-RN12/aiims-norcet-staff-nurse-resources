@@ -13,6 +13,8 @@ Checked 26 November 2026.
 | Fluid removal | [StatPearls Pericardiocentesis](https://www.ncbi.nlm.nih.gov/sites/books/NBK470347/?report=reader) |
 | Dextrocardia | [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK556074/?report=classic) |
 
+New source check, 26 November 2026: [NCBI embryology](https://www.ncbi.nlm.nih.gov/books/NBK537313/), [NCBI heart/pericardium](https://ncbi.nlm.nih.gov/sites/books/NBK482452/), [OpenStax cardiac muscle 2e](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity), [HPSSC scanned booklet Q43 printed page 10](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=10) (page visually checked, official key not verified). [Additional MCQs](Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
+
 Exam evidence: [Previous Year Questions](Previous-Year-Questions/README.md). Official AIIMS [NORCET listing](https://www.aiimsexams.ac.in/landingpage/courses/advertisement/66ab7926ebb3815a4b707804); HP [papers and keys](https://hprca.hp.gov.in/DownloadCategory.aspx). No verified fixed CVS topic weightage. Videos and limitations listed in [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#videos). All diagrams are new schematic SVGs reconstructing chat concepts; original chat image bytes unavailable.
 
 [Chapter](README.md) | [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](Previous-Year-Questions/README.md) | [Revision](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](References.md)
