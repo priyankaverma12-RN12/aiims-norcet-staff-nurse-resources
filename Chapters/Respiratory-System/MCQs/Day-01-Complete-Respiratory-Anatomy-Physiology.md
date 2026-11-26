@@ -973,3 +973,84 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 ---
 
 **🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+
+
+## Day 4 revisit — four unattempted applied questions
+
+### Q41. Patient A breathes 12/min with tidal volume 500 mL; patient B breathes 24/min with tidal volume 250 mL. Assuming dead space 150 mL, which statement is correct?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Both have equal alveolar ventilation
+- **B.** B has alveolar ventilation 6 L/min
+- **C.** Both have minute ventilation 6 L/min, but A has greater alveolar ventilation
+- **D.** A has alveolar ventilation 1.2 L/min
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Both have minute ventilation 6 L/min, but A has greater alveolar ventilation**
+
+**Kyun sahi aur baaki options galat:** MV A/B both 6; AV A=(500−150)×12=4.2 L/min, B=(250−150)×24=2.4. Equal AV, B 6 and A 1.2 wrong.
+
+**Exam trick:** MV A/B both 6.
+
+</details>
+
+### Q42. A perfused alveolus is completely obstructed and receives no fresh gas. What is its V/Q ratio?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Approximately 0.8
+- **B.** Infinity
+- **C.** Exactly 1
+- **D.** Zero
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. Zero**
+
+**Kyun sahi aur baaki options galat:** V=0 and Q>0, so shunt V/Q=0. 0.8 whole lung average; infinity when Q=0; 1 matched V/Q.
+
+**Exam trick:** V=0 and Q>0, so shunt V/Q=0.
+
+</details>
+
+### Q43. An alveolus remains ventilated but its capillary blood flow is completely blocked. What does this represent?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Alveolar dead space
+- **B.** A pure shunt
+- **C.** Normal gas exchange
+- **D.** Increased diffusion without blood
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Alveolar dead space**
+
+**Kyun sahi aur baaki options galat:** No perfusion despite ventilation = dead space, V/Q approaches infinity; shunt no ventilation, normal gas exchange needs both.
+
+**Exam trick:** No perfusion despite ventilation = dead space, V/Q approaches infinity.
+
+</details>
+
+### Q44. During vigorous exercise, tissue CO2 and temperature rise. Which oxygen-hemoglobin curve change favors oxygen delivery?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Leftward shift with increased hemoglobin affinity
+- **B.** Rightward shift with increased oxygen unloading
+- **C.** No change is possible
+- **D.** Complete loss of hemoglobin production
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Rightward shift with increased oxygen unloading**
+
+**Kyun sahi aur baaki options galat:** High CO2/temperature shift curve right, Hb unloads O2 easier (Bohr effect for CO2/pH). Left means higher affinity, no change and Hb production cessation false.
+
+**Exam trick:** High CO2/temperature shift curve right, Hb unloads O2 easier (Bohr effect for CO2/pH).
+
+</details>
+
+[Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [Chapter](../README.md)
