@@ -112,4 +112,4 @@ Respiratory-System/
 
 [Detailed Hinglish concepts and quick revision](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Assets/day-04-alveoli-pleura.svg)
 
-Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; proposed new emergency topics are not marked completed.
+Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; respiratory failure, ARDS and pulmonary embolism theory is now presented in the linked Day 4 guide; additional practice is pending.
