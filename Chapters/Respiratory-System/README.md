@@ -106,3 +106,10 @@ Respiratory-System/
 ## Day 3 videos
 
 [Asthma Hindi lecture](https://www.youtube.com/watch?v=ypuyh_t1Npc) · [Aarogyam respiratory MCQs](https://www.youtube.com/watch?v=tOxTKjgTcTo) · [Oxygen therapy](https://www.youtube.com/watch?v=XoFsjZrrfZ8) · [Nebulization](https://www.youtube.com/watch?v=G92xglQ7OTg). More details and verification limits in Day 3 concept guides. Day 2 diagnostic MCQs and mock still pending.
+
+
+## Day 4 — Pneumonia, TB and pleural disorders
+
+[Detailed Hinglish concepts and quick revision](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Assets/day-04-alveoli-pleura.svg)
+
+Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; proposed new emergency topics are not marked completed.
