@@ -11,9 +11,9 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 | Day | Full concept guide | MCQ practice | Extra |
 |---|---|---|---|
 | **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
-| **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 36 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
+| **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 51 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
-| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | Practice pending — theory and extra high-yield points presented | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
+| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [55 disease MCQs](MCQs/Day-03-Asthma-COPD-55.md) · [45 care MCQs](MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [30-question mock](MCQs/Day-03-Final-Mock-30.md) (unattempted) | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
 
 ### Practice ka level — base bank vs new exam-level practice
 
@@ -105,7 +105,7 @@ Respiratory-System/
 
 ## Day 3 videos
 
-[Asthma Hindi lecture](https://www.youtube.com/watch?v=ypuyh_t1Npc) · [Aarogyam respiratory MCQs](https://www.youtube.com/watch?v=tOxTKjgTcTo) · [Oxygen therapy](https://www.youtube.com/watch?v=XoFsjZrrfZ8) · [Nebulization](https://www.youtube.com/watch?v=G92xglQ7OTg). More details and verification limits in Day 3 concept guides. Day 2 diagnostic MCQs and mock still pending.
+[Asthma Hindi lecture](https://www.youtube.com/watch?v=ypuyh_t1Npc) · [Aarogyam respiratory MCQs](https://www.youtube.com/watch?v=tOxTKjgTcTo) · [Oxygen therapy](https://www.youtube.com/watch?v=XoFsjZrrfZ8) · [Nebulization](https://www.youtube.com/watch?v=G92xglQ7OTg). More details and verification limits in Day 3 concept guides. Day 2 diagnostic MCQs and mock published; learner practice pending.
 
 
 ## Day 4 — Pneumonia, TB and pleural disorders
@@ -113,3 +113,15 @@ Respiratory-System/
 [Detailed Hinglish concepts and quick revision](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Assets/day-04-alveoli-pleura.svg)
 
 Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; respiratory failure, ARDS and pulmonary embolism theory is now presented in the linked Day 4 guide; additional practice is pending.
+
+## Day 2–3 practice — 170 new unattempted MCQs
+
+| Practice | MCQs | Open |
+|---|---:|---|
+| Day 2 remaining diagnostics (Q37–51) | 15 | [Day 2 question bank](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) |
+| Day 2 final mock | 25 | [Mock](MCQs/Day-02-Final-Mock-25.md) |
+| Day 3 asthma, COPD, chronic bronchitis, emphysema | 55 | [Disease MCQs](MCQs/Day-03-Asthma-COPD-55.md) |
+| Day 3 drugs, oxygen, nebulization, nursing | 45 | [Nursing MCQs](MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) |
+| Day 3 final mock | 30 | [Mock](MCQs/Day-03-Final-Mock-30.md) |
+
+**Dhyan de:** Ye 170 original unattempted practice questions hain, solved scores nahi. 91 purane Day 1–2 questions preserve hain. [Research and reported Previous Year Question leads](MCQs/Research-and-Paper-Leads.md). Exact official papers/keys not all verified.
