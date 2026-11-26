@@ -49,3 +49,6 @@ Pneumonia generally ≥48 h after invasive ventilation. Head of bed 30–45° if
 
 ## Bonus NORCET 11 reported theme — auto-PEEP
 COPD mein expiration slow hoti hai. Agar next breath previous breath fully exhale hone se pehle start ho, air trap hoti hai; intrinsic PEEP (auto-PEEP) rise, hypotension and high pressure possible. Expiratory flow waveform baseline par return na karna clue hai. ICU team evaluates longer expiratory time (e.g. lower respiratory rate/shorter inspiratory time as appropriate), not blindly increase RR or TV. Nurse assesses patient/circuit and escalates; no independent adjustment unless authorized. [NPrep memory-based Q15](https://storage.googleapis.com/nprep-f64b1.firebasestorage.app/nprep_assets/norcet11/NORCET-11-NPrep-GOLD-proof.pdf).
+## Completion practice
+
+[Matching MCQs](../MCQs/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md) · [Day 4 quick revision](../Revision/Day-04-Quick-Revision.md) · [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). New practice unattempted.
