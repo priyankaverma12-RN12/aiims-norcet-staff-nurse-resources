@@ -41,7 +41,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 1. Hand hygiene and WHO Five Moments — 40 original MCQs published
 - 2. Sterilization, disinfection and CSSD — 40 original MCQs published
 - 3. Standard and transmission precautions, PPE — 40 original MCQs published
-- 4. Biomedical waste management in India — pending
+- 4. Biomedical waste management in India — 40 original MCQs published
 - 5. Occupational exposure, sharps and post-exposure care — pending
 - 6. Chain of infection and microbial transmission — pending
 - 7. Bacterial structure, classification and growth — pending

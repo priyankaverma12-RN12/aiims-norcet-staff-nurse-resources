@@ -7,6 +7,7 @@ Public titles and descriptions were checked. Full playback, question-by-question
 | [Nursing Adda247 — NORCET 11 Microbiology Complete, episode 1](https://www.youtube.com/watch?v=hmrn2m4ak0s) | Microbiology and infection control teaching and practice |
 | [AIIMS NORCET 2026–2027 Microbiology and Infection Control MCQs](https://www.youtube.com/watch?v=jV7Uts6kfag) | Question practice |
 | [PW Aarogyam mixed Fundamentals MCQs](https://www.youtube.com/watch?v=q4pI8nzTclw) | Supplementary nursing questions |
+| [Biomedical Waste Management 2026](https://www.youtube.com/watch?v=Mwu3kA7g0U0) | Indian segregation categories and exam preparation |
 | [WHO Five Moments game](https://5mgame.lxp.academy.who.int/) | Interactive hand hygiene practice |
 | [WHO IPC training resources](https://www.who.int/teams/integrated-health-services/infection-prevention-control/ipc-training-resources) | Teaching and hand hygiene videos |
 

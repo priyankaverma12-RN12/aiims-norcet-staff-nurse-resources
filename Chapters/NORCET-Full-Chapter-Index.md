@@ -174,3 +174,8 @@ Next: Infection Control and Microbiology. Afterwards audit and expand all earlie
 ## Infection Control and Microbiology — continuation checkpoint
 
 120 new original questions published in three 40-question topic banks, plus 13 new reported PYQ adaptations (15 total including two prior entries), three YouTube links and two WHO practice/teaching resources. 27 topic groups remain at the current 30-group scope. Full chapter mocks 0/10. Overall mock progress remains **17/350**. Next batch: biomedical waste management, occupational exposure and chain of infection. Continue the same chapter before creating mocks or moving on. [Chapter](Infection-Control-and-Microbiology/README.md)
+
+
+### Immediate continuation checkpoint
+
+Biomedical waste management: 40 new original MCQs published. Infection Control now has 160 original questions across four of 30 topic groups. 26 groups remain. Mock progress remains 17/350 overall and 0/10 in this chapter. Next: occupational exposure, then chain of infection. New dedicated biomedical waste video and clinical references added. Earlier content preserved.
