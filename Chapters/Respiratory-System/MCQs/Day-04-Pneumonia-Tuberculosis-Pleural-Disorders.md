@@ -111,6 +111,8 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **40 new original unattempted MCQs.** Existing five solved questions preserved. [Exam research and reported paper leads](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md).
 
+## Pneumonia
+
 ### Q6. A patient develops a new pulmonary infiltrate and fever on hospital day five, with no infection evident on admission. Which classification fits?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -262,6 +264,8 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 **Exam trick:** Infected pus in pleural space empyema.
 
 </details>
+
+## Pulmonary tuberculosis and NTEP
 
 ### Q14. Which specimen is most appropriate for a molecular test in suspected pulmonary TB when the patient can expectorate?
 
@@ -472,6 +476,8 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 </details>
 
+## Pleural disorders and chest drainage
+
 ### Q25. A nurse positions a stable patient for ultrasound-guided thoracentesis. Which position is usually suitable if tolerated?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -642,6 +648,8 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 **Exam trick:** Chyle lymph milky.
 
 </details>
+
+## Respiratory failure, ARDS and pulmonary embolism
 
 ### Q34. On room air, PaO2 is 52 mmHg and PaCO2 is 36 mmHg. Which respiratory failure pattern fits?
 
