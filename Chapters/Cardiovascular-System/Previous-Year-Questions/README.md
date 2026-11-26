@@ -29,3 +29,15 @@ Checked 26 November 2026. One scanned historical question visually verified; off
 | PGIMER / SGPGI / RRB / JIPMER | Various | Not located | Exact chamber/valve questions | No verified official exact question located in this search |
 
 [Chambers and valves concepts](../Concepts/Day-04-Chambers-Valves.md) · [Practice](../MCQs/Day-04-Chambers-Valves.md) · [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md). Full wording not reproduced; open source for original options. No official answer key verified.
+
+## Additional exam-source audit — 26 November 2026
+
+| Exam or collection | Session / question | Studied concept | Evidence and key status |
+|---|---|---|---|
+| HPSSC Staff Nurse | 1 Aug 2021, post 892, Q42 | S2 | [Testbook attribution](https://testbook.com/question-answer/second-heart-sound-s2-indicates-closure-of--697c4dc2011d49806d98e7bc) and [third-party paper](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/892); same existing lead, not counted twice; official key not checked |
+| AIIMS Raipur Nursing Officer | 31 Aug 2019, shift I, Q number not located | S1 | [Memory-based source](https://testbook.com/question-answer/which-among-the-following-statements-is-correct-re--6253d5aa8a09ec2605ff5db3); AV valve closure medically correct, official key not verified |
+| ESIC Staff Nurse collection | Q7 in collection, year and original Q number unknown | Mitral auscultation landmark | [Practice/past-question compilation](https://testbook.com/questions/esic-staff-nurse-nursing-questions--663dccc068893b9a27890ada); left 5th ICS MCL medically correct; exam provenance unverified |
+| NORCET collection | Year/session unknown | Mitral backflow prevention and S2 | [Question collection](https://www.wonderslate.com/u/Central/aiims/all-subjects/pyqs?siteName=books); coaching-reported, exact official attribution unverified |
+| PGIMER / SGPGI / JIPMER / RRB / DSSSB | Various | Search for taught topics | [PGIMER archive](https://nextnurse.in/pyq/pgimer-nursing-officer), [SGPGI archive](https://nextnurse.in/pyq/sgpgi-nursing-officer), [all-India archive](https://nextnurse.in/pyq), [RRB archive](https://testbook.com/rrb-paramedical-staff/previous-year-papers); no new official exact questions established in this audit; advanced topics deferred |
+
+[Topic-wise bank](../MCQs/Day-04-Chambers-Valves.md) and [mixed mock](../MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) contain newly authored English practice, not copied official PYQs. Original paper wording remains at linked sources.
