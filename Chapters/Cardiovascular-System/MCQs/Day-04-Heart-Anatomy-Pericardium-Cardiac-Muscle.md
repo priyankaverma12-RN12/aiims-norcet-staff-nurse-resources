@@ -173,3 +173,5 @@ Q1–Q7 chat mein attempted; Q8 asked but not yet answered. Original Q9–Q10 ab
 </details>
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](../References.md)
+
+**Next practice:** [50 chambers/valves questions](../MCQs/Day-04-Chambers-Valves.md) · [30 mixed Cardio mock](../MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md).
