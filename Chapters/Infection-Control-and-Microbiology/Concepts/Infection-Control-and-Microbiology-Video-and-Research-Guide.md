@@ -25,3 +25,12 @@ Public titles and descriptions were checked. Full playback, question-by-question
 
 
 Additional exposure references: [NACO 2024](https://naco.mohfw.gov.in/wp-content/uploads/2026/11/NACO_HCTS-Guideline-2024_02.11.2026.pdf), [WHO PEP](https://www.who.int/publications/i/item/9789240095137), [CDC HBV](https://www.cdc.gov/hepatitis-b/hcp/infection-control/index.html), [CDC HCV](https://www.cdc.gov/hepatitis-c/hcp/infection-control/index.html).
+
+
+## Bacterial growth and transmission
+- [Easy Nursing Lectures — bacterial growth curve in Hindi](https://www.youtube.com/watch?v=AC33NmL9q7E)
+- [Paramedical Vigyan — bacterial growth curve Hindi](https://www.youtube.com/watch?v=-P4iBxUeJlg)
+- [CDC chain of infection](https://www.cdc.gov/niosh/learning/safetyculturehc/module-2/3.html)
+- [OpenStax bacterial growth](https://openstax.org/books/microbiology/pages/9-1-how-microbes-grow)
+
+Video titles and descriptions checked. Full playback and individual video questions are not verified. Existing mixed NORCET microbiology practice remains linked.

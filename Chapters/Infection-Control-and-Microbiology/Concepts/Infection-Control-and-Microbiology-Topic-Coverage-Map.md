@@ -70,3 +70,6 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 30. Environmental IPC, outbreak investigation and surveillance calculations — pending
 
 [Topic-wise index](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [Videos](Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
+
+
+[Detailed concept notes for topics 6 and 7](06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md) include three Mermaid diagrams and a growth calculation.
