@@ -1334,6 +1334,55 @@ A. White-coat hypertension · B. Hypertensive emergency · C. Isolated systolic 
 **Evidence note:** These eight questions were written for practice. They must not be labeled official NORCET/PGIMER/HPRCA PYQs or counted as verified repetitions.
 
 
+
+### 🔴 VERY HIGH | Pulmonary embolism (PE) — cardiovascular emergency
+
+> 🎯 **Why important:** DVT ka clot pulmonary artery mein lodge ho sakta hai → pulmonary vascular resistance badhti hai → right ventricle par acute load → severe cases mein obstructive shock.
+
+- **Clues:** sudden dyspnea, pleuritic chest pain, tachycardia, hypoxemia; hemoptysis ho bhi sakta hai, nahi bhi. Risk factors: recent surgery/immobility, prior VTE, active cancer, pregnancy/postpartum.
+- **Assessment:** ABCs, vitals, SpO₂, risk assessment, urgent escalation. Stable patients mein clinical probability ke hisaab se D-dimer aur CT pulmonary angiography use ho sakte hain; unstable patients need emergency assessment and tailored imaging.
+- **Nursing care:** oxygen if hypoxemic, hemodynamic monitoring, prescribed anticoagulation and bleeding surveillance; high-risk PE may need urgent reperfusion treatment by specialist team.
+- 🧠 **Exam trap:** PE and MI both can cause chest pain and tachycardia; PE often presents with sudden breathlessness/pleuritic pain. **Do not massage a suspected DVT.**
+- 🩺 **Original MCQ:** Postoperative patient with sudden dyspnea, tachycardia and pleuritic chest pain: priority differential? **Answer: Pulmonary embolism.** Not a verified PYQ.
+
+### 🟠 HIGH | Temporary pacing, permanent pacemaker and ICD
+
+| Device | Typical purpose | Nursing exam point |
+|---|---|---|
+| Temporary transcutaneous pacing | Emergency bridge in selected symptomatic bradycardia | Monitor mechanical capture, discomfort and hemodynamics |
+| Temporary transvenous pacing | Short-term pacing when clinically indicated | Sterile line care, capture/sensing, infection and displacement surveillance |
+| Permanent pacemaker | Selected persistent symptomatic bradyarrhythmias / conduction disease | Check incision, device settings, capture and follow-up |
+| Implantable cardioverter-defibrillator (ICD) | Treat life-threatening ventricular tachyarrhythmias in eligible patients | Recognize shocks, report repeated shocks/syncope promptly |
+
+- **Capture failure:** pacing spike without appropriate myocardial depolarization; may produce no pulse.
+- **Sensing failure:** device misreads intrinsic activity, leading to inappropriate pacing or inhibition.
+- 🧠 **Exam trap:** Pacemaker treats bradyarrhythmias; ICD can detect and terminate certain dangerous ventricular tachyarrhythmias. Both functions may exist in one device.
+
+### 🟡 IMPORTANT | Heart transplant and advanced heart failure
+
+- **Indication:** selected patients with advanced refractory heart failure after specialist evaluation.
+- **Post-transplant nursing:** infection prevention, immunosuppressant adherence, rejection surveillance, fluid status, BP, renal function and follow-up biopsies/tests as prescribed.
+- **Key physiology:** transplanted heart is initially denervated; resting HR may be higher and HR response to exercise may be delayed.
+- 🧠 **Exam trap:** Rejection and infection can both cause clinical deterioration; transplant recipients need urgent assessment rather than assumptions.
+
+### 📋 Final Cardiovascular coverage audit — transparent status
+
+| Coverage area | Current guide status |
+|---|---|
+| Anatomy, vessels, circulation, cardiac cycle, coronary physiology | ✅ Main concepts included |
+| ECG, arrhythmias, heart blocks, emergency rhythms | ✅ Main concepts included |
+| ACS, MI, angina, cardiac tests and nursing priorities | ✅ Main concepts included |
+| HF, cardiomyopathy, valves, inflammatory diseases | ✅ Main concepts included |
+| Hypertension, PAD, DVT, aortic disease, pulmonary embolism | ✅ Main concepts included |
+| Congenital heart defects and pediatric nursing | ✅ Main concepts included |
+| Shock, CPR, tamponade, ABG/perfusion, devices, procedures | ✅ Main concepts included |
+| Cardiac drugs, monitoring, nursing care, revision | ✅ Main concepts included |
+| Original clinical MCQs | ✅ Included; original practice questions are not official PYQs |
+| Original NORCET/PGIMER/HPRCA PYQs with exam-year/shift source proof | ⚠️ Not fully verified; **do not infer counts or claim most repeated** |
+| Every possible exam question / 100% syllabus exhaustiveness | ⚠️ Cannot guarantee; use current exam syllabus and official papers for final validation |
+
+**How to use this audit:** A checked topic means the master guide contains a meaningful study section, not that every official question on the topic has been collected. Priority labels are study recommendations, not verified frequency statistics.
+
 ## Revision and exam evidence
 
 ![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
