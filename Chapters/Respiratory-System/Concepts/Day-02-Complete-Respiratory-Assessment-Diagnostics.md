@@ -438,3 +438,7 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 ---
 
 **🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📝 Day 2 ke 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
+
+## New practice — diagnostic investigations and final mock
+
+[51 MCQs (Q37–51 new diagnostics)](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [25-question final mock](../MCQs/Day-02-Final-Mock-25.md). New questions are unattempted.
