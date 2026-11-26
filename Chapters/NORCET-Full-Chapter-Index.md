@@ -199,3 +199,8 @@ Biomedical waste management: 40 new original MCQs published. Infection Control n
 ### Immediate continuation checkpoint — transmission and growth research
 
 Verified 280 original MCQs across seven of 30 topic groups, 121 Medium and 159 Difficult. Added seven reported exam adaptations for a total of 24, two Hindi growth videos for nine video or learning resources, and grouped concept notes with three Mermaid diagrams. PYQ full pages could not be reopened, so attributions remain indexed third-party evidence. Next: staining, microscopy and culture, then Gram-positive cocci and bacilli. Overall mock progress 17/350, chapter 0/10. Remaining 23 topic groups and full chapter mocks are unfinished.
+
+
+### Continuation — staining, microscopy and culture
+
+40 new original MCQs added. Total 320 across eight of 30 groups. Next: Gram-positive cocci and bacilli. Chapter mocks 0/10, overall 17/350. Fresh source retrieval, PYQ authentication and detailed concepts for this batch remain pending.
