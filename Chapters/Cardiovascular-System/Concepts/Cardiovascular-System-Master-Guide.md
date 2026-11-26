@@ -51,6 +51,12 @@
 
 ## Foundation and circulation
 
+> **🟠 HIGH | Foundation and circulation**
+> - 🎯 **Most important:** Blood flow sequence, vessels, valves, circulation exceptions
+> - 🧠 **Exam trap:** Pulmonary artery carries deoxygenated blood; artery = away from heart
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 ![ master heart flow ](../Assets/master-heart-flow.svg)
 
 **Visual 1 — Heart circulation:** Blue = oxygen-poor blood; red = oxygen-rich blood. Start at body, then RA → RV → lungs → LA → LV → body. Artery/vein ka naam direction se decide hota hai, oxygen content se nahi.
@@ -104,6 +110,12 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 - 
 
 ## Coronary circulation and physiology
+
+> **🔴 VERY HIGH | Coronary circulation and physiology**
+> - 🎯 **Most important:** Coronary arteries, cardiac cycle, CO = HR × SV, preload/afterload
+> - 🧠 **Exam trap:** Left coronary perfusion is predominantly during diastole
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 
 ![ master coronary map ](../Assets/master-coronary-map.svg)
 
@@ -219,6 +231,12 @@ F --> A
 
 ## Assessment and investigations
 
+> **🟠 HIGH | Assessment and investigations**
+> - 🎯 **Most important:** Heart sounds, pulse/BP, troponin, echo, ECG, catheterization
+> - 🧠 **Exam trap:** Troponin is myocardial injury marker; interpret with clinical context
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 **English definition:** Cardiovascular assessment evaluates perfusion, rhythm, congestion, structural function and symptoms through history, examination and targeted testing.
 
 **Hindi-English:** Sirf BP dekhkar patient stable assume mat karo. Pulse, mental status, urine, breathing, JVP aur ECG bhi evaluate karo. **Very High.**
@@ -292,6 +310,12 @@ Serial values matter: acute rise/fall troponin is injury, clinical ischemia need
 - [Assessment source](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment).
 
 ## ECG and dysrhythmias
+
+> **🔴 VERY HIGH — MUST REVISE | ECG and dysrhythmias**
+> - 🎯 **Most important:** P-QRS-T, PR/QRS intervals, rhythm identification, AF, VT/VF, heart blocks
+> - 🧠 **Exam trap:** VF/pulseless VT are shockable; asystole/PEA are not
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 
 ![ master ecg wave ](../Assets/master-ecg-wave.svg)
 
@@ -400,6 +424,12 @@ Bundle branch block: QRS ≥0.12 s, RBBB typical terminal R in V1 and broad S in
 
 ## Ischemic heart disease and ACS
 
+> **🔴 VERY HIGH — MUST REVISE | Ischemic heart disease and ACS**
+> - 🎯 **Most important:** Stable angina vs ACS, STEMI/NSTEMI, ECG changes, troponin, urgent nursing priorities
+> - 🧠 **Exam trap:** Normal initial troponin does not exclude early MI
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 ![ master acs artery ](../Assets/master-acs-artery.svg)
 
 **Visual 7 — CAD vs ACS:** Stable plaque can narrow lumen; plaque disruption and thrombus can acutely reduce coronary flow. Stable angina ≠ MI; infarction requires acute myocardial injury with ischemia.
@@ -482,6 +512,12 @@ Do not use pain relief after nitro to prove coronary origin. Record onset and ba
 - [2025 ACS guideline](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
 
 ## Heart failure and cardiomyopathy
+
+> **🔴 VERY HIGH | Heart failure and cardiomyopathy**
+> - 🎯 **Most important:** Left vs right HF, pulmonary edema, EF, diuretics and nursing care
+> - 🧠 **Exam trap:** Left-sided HF commonly causes pulmonary congestion
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 
 ![ master hf lungs body ](../Assets/master-hf-lungs-body.svg)
 
@@ -567,6 +603,12 @@ V --> R
 
 ## Hypertension and vascular disorders
 
+> **🟠 HIGH | Hypertension and vascular disorders**
+> - 🎯 **Most important:** BP measurement, hypertensive emergency, DVT, PAD, aneurysm
+> - 🧠 **Exam trap:** Hypertensive emergency means acute target-organ damage, not BP alone
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 ![ master vascular compare ](../Assets/master-vascular-compare.svg)
 
 **Visual 13 — PAD vs venous disease:** Arterial disease = reduced delivery; venous disease = poor return. Check arterial supply before compression; sudden cold pulseless foot is an emergency.
@@ -636,6 +678,12 @@ Arterial ischemic ulcer distal toes/pressure points, punched-out, painful, cool 
 
 ## Valve and inflammatory diseases
 
+> **🟠 HIGH | Valve and inflammatory diseases**
+> - 🎯 **Most important:** S1/S2, stenosis vs regurgitation, endocarditis, pericarditis, tamponade
+> - 🧠 **Exam trap:** Tamponade impairs ventricular filling
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 ![ master valve murmurs ](../Assets/master-valve-murmurs.svg)
 
 **Visual 9 — Murmur timing:** AS and MR generally systolic; MS and AR diastolic. Murmur location, radiation and character distinguish lesions. Timing is an exam clue, not a standalone diagnosis.
@@ -696,6 +744,12 @@ Stenosis = narrow opening, pressure overload upstream; regurgitation = backward 
 
 ## Congenital and pediatric cardiovascular disease
 
+> **🟠 HIGH | Congenital and pediatric cardiovascular disease**
+> - 🎯 **Most important:** ASD/VSD/PDA, TOF, cyanotic vs acyanotic, fetal shunts
+> - 🧠 **Exam trap:** TOF is a cyanotic congenital heart defect
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
+
 ![ master fetal shunts ](../Assets/master-fetal-shunts.svg)
 
 **Visual 10 — Three fetal shunts:** Ductus venosus bypasses much liver, foramen ovale connects RA→LA, ductus arteriosus connects PA→aorta. Oxygen-rich placental blood enters through umbilical vein; umbilical arteries return blood.
@@ -747,6 +801,12 @@ AO --> UA[Umbilical arteries] --> PL
 - 
 
 ## Shock resuscitation and critical care
+
+> **🔴 VERY HIGH — MUST REVISE | Shock resuscitation and critical care**
+> - 🎯 **Most important:** Shock types, perfusion, CPR, defibrillation, emergency priorities
+> - 🧠 **Exam trap:** Pulseless VT/VF shockable; PEA/asystole require CPR and cause treatment
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 
 ![ master shock types ](../Assets/master-shock-types.svg)
 
@@ -826,6 +886,12 @@ Synchronized cardioversion aligns shock with R to avoid vulnerable T; check sync
 After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and hypotension, ECG and cause investigation, seizure/temperature monitoring, multidisciplinary ICU. Neurologic prognosis delayed and multimodal; no premature pessimistic conclusion. [AHA adult BLS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support), [ALS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support/).
 
 ## Cardiac pharmacology and nursing procedures
+
+> **🔴 VERY HIGH | Cardiac pharmacology and nursing procedures**
+> - 🎯 **Most important:** Digoxin, nitrates, beta blockers, anticoagulants, PCI/CABG nursing
+> - 🧠 **Exam trap:** Medication contraindications and monitoring matter more than memorizing names
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 
 ![ master cardiac drugs ](../Assets/master-cardiac-drugs.svg)
 
@@ -925,6 +991,12 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - Separate videos and rare congenital/specialist subtypes remain less deeply verified.
 
 ## Revision and exam evidence
+
+> **🔴 VERY HIGH — FINAL REVISION | Revision and exam evidence**
+> - 🎯 **Most important:** Emergency algorithms, ECG, drug adverse effects, mistakes and source-tagged PYQs
+> - 🧠 **Exam trap:** Do not call an original practice MCQ a verified PYQ
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 Priority estimates are qualitative, NOT official weightage or counted historical frequency. Very High: coronary supply, cardiac output, ECG/rhythms, ACS, HF, CPR/shock, drugs and cath care. High: hypertension, congenital, murmurs, endocarditis/RF, vascular disease, hemodynamics. Anatomy foundation already in earlier notes.
 | Source (third-party unless stated) | Reported topic | Evidence |
 |---|---|---|
@@ -941,6 +1013,12 @@ Medical sources: [OpenStax cardiac physiology](https://openstax.org/books/anatom
 Videos checked via titles/descriptions only: [NORCET complete CVS revision](https://www.youtube.com/watch?v=lMcuJHpC8-4), [ECG and electrolytes theory + MCQs](https://www.youtube.com/watch?v=pb-xAsSIr2s), [CVS question session NORCET/SGPGI](https://www.youtube.com/watch?v=6vzQkElR1S4). Existing anatomy videos in linked pages. Separate subtopic videos not all independently verified.
 
 ## Original practice bank
+
+> **📝 PRACTICE — ALL LEVELS | Original practice bank**
+> - 🎯 **Most important:** Solve without opening answers, then revise mistakes
+> - 🧠 **Exam trap:** Original practice ≠ verified NORCET PYQ
+> - 📝 **PYQ status:** Exam-oriented emphasis; repeated NORCET/PGIMER/HPRCA PYQ frequency is **not verified** for this section.
+
 40 new English questions; unattempted, not previous paper reproductions. Existing 128 anatomy/valves questions remain in prior files. Select answer first, then expand explanation.
 
 ### Q1. A patient has a critical proximal LAD stenosis. Which myocardial region is particularly at risk?
