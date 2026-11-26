@@ -1249,3 +1249,84 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 **Difficulty breakdown:** Easy: 2, Medium: 11, Difficult: 2
 
 [Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+
+## Day 4 revisit — four unattempted applied questions
+
+### Q52. A patient with chronic hypoventilation has pH 7.36, PaCO2 60 mmHg and HCO3 33 mEq/L. Which pattern is most consistent?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** All ABG values normal
+- **B.** Uncompensated metabolic acidosis
+- **C.** Chronic respiratory acidosis with renal compensation
+- **D.** Isolated respiratory alkalosis
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Chronic respiratory acidosis with renal compensation**
+
+**Kyun sahi aur baaki options galat:** CO2 high with HCO3 high and near-normal pH supports renal compensation. CO2/HCO3 abnormal, metabolic acidosis low HCO3, respiratory alkalosis low CO2.
+
+**Exam trick:** CO2 high with HCO3 high and near-normal pH supports renal compensation.
+
+</details>
+
+### Q53. In metabolic acidosis, HCO3 is 16 mEq/L. By Winter's formula, which PaCO2 range is expected?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** 14–18 mmHg
+- **B.** 40–44 mmHg
+- **C.** 50–54 mmHg
+- **D.** 30–34 mmHg
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. 30–34 mmHg**
+
+**Kyun sahi aur baaki options galat:** 1.5×16+8=32±2, 30–34. Other ranges calculation wrong; compare actual PaCO2 for mixed disorder.
+
+**Exam trick:** 1.
+
+</details>
+
+### Q54. A patient with metabolic acidosis has HCO3 10 mEq/L and PaCO2 37 mmHg. What does Winter's formula suggest?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Additional respiratory acidosis
+- **B.** Appropriate respiratory compensation
+- **C.** Additional respiratory alkalosis
+- **D.** Normal acid-base status
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Additional respiratory acidosis**
+
+**Kyun sahi aur baaki options galat:** Expected 1.5×10+8=23±2 (21–25), actual 37 too high → additional respiratory acidosis. Lower actual would suggest alkalosis; compensation not appropriate, values not normal.
+
+**Exam trick:** Expected 1.
+
+</details>
+
+### Q55. Before radial arterial sampling, the clinician performs a modified Allen test. What circulation is primarily being assessed?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+
+- **A.** Pulmonary arterial perfusion directly
+- **B.** Collateral hand perfusion through the ulnar artery
+- **C.** Coronary artery patency directly
+- **D.** Venous oxygen saturation
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Collateral hand perfusion through the ulnar artery**
+
+**Kyun sahi aur baaki options galat:** Collateral hand blood flow via ulnar artery; pulmonary/coronary unrelated and venous saturation not measured. Test limitations and local protocol matter.
+
+**Exam trick:** Collateral hand blood flow via ulnar artery.
+
+</details>
+
+[Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [Chapter](../README.md)
