@@ -22,11 +22,23 @@ Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, peric
 
 | Topic | Concepts | MCQs | Previous Year Questions | Teaching | Practice video | Revision |
 |---|---|---|---|---|---|---|
-| Chambers, septum, fetal openings | [Read](Concepts/Day-04-Chambers-Valves.md#four-chambers) | [Q1 pending](MCQs/Day-04-Chambers-Valves.md) | [HP 2026 Q38 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart A&P](https://www.youtube.com/watch?v=JyiYX39mW2c) | [CVS discussion](https://www.youtube.com/watch?v=y6YYRSndzRE) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
-| Valves, chordae, papillary muscles, great vessels | [Read](Concepts/Day-04-Chambers-Valves.md#four-valves) | [Practice](MCQs/Day-04-Chambers-Valves.md) | [HP 2021 Q42 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart working model](https://www.youtube.com/watch?v=s4KD2legpH8) | [25 MCQs](https://www.youtube.com/watch?v=0FQ6kGFkvEA) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
+| Chambers, septum, fetal openings | [Read](Concepts/Day-04-Chambers-Valves.md#four-chambers) | [50 topic-wise MCQs](MCQs/Day-04-Chambers-Valves.md) | [HP 2026 Q38 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart A&P](https://www.youtube.com/watch?v=JyiYX39mW2c) | [CVS discussion](https://www.youtube.com/watch?v=y6YYRSndzRE) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
+| Valves, chordae, papillary muscles, great vessels | [Read](Concepts/Day-04-Chambers-Valves.md#four-valves) | [50-question bank](MCQs/Day-04-Chambers-Valves.md) | [HP 2021 Q42 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart working model](https://www.youtube.com/watch?v=s4KD2legpH8) | [25 MCQs](https://www.youtube.com/watch?v=0FQ6kGFkvEA) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
 | Auscultation, clinical basics and extra anatomy | [Read](Concepts/Day-04-Chambers-Valves.md#auscultation) | [Practice](MCQs/Day-04-Chambers-Valves.md) | [Evidence](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | Not separately verified | Not separately verified | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
 
-Five reconstructed diagrams embedded; complete lesson includes final gap audit. 1 question offered, not attempted; 50 planned questions not yet delivered. Total existing CVS questions: 49 (48 anatomy + 1 chambers).
+Five reconstructed diagrams embedded; complete lesson includes final gap audit. 50 topic-wise questions available (Q1 offered, Q2–Q50 new, unattempted).
+
+## Mixed practice — 30 original questions
+
+[Open combined Cardio mock](MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) — both studied topics, clinical application and recall, unattempted. 3 Easy, 18 Medium, 9 Difficult. Suggested 25 minutes, self-practice only.
+
+| Bank | Questions | Easy | Medium | Difficult |
+|---|---:|---:|---:|---:|
+| [Heart anatomy first bank](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | 8 | 5 | 3 | 0 |
+| [Heart anatomy extra topic-wise](Concepts/Extra-High-Yield-Concepts-and-MCQs.md) | 40 | 9 | 22 | 9 |
+| [Chambers and valves topic-wise](MCQs/Day-04-Chambers-Valves.md) | 50 | 13 | 27 | 10 |
+| [Mixed mock](MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) | 30 | 3 | 18 | 9 |
+| **Total** | **128** | **30** | **70** | **28** |
 
 **Next study:** Chambers/valves practice, then pulmonary and systemic blood circulation. Coronary circulation, conduction, ECG, diseases and treatment not yet completed.
 
