@@ -1222,6 +1222,39 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - This expansion is study material, not claimed completed; original 168 practice items unchanged.
 - Separate videos and rare congenital/specialist subtypes remain less deeply verified.
 
+
+### 🔴 VERY HIGH | Cardiac tamponade — bedside emergency
+
+> 🎯 **Must know:** Pericardial sac mein fluid/blood pressure badhata hai → ventricular filling kam hoti hai → stroke volume aur cardiac output girte hain. **Beck triad:** hypotension + raised JVP + muffled heart sounds (teeno har patient mein nahi milte).
+
+- **Clinical clues:** tachycardia, dyspnea, narrow pulse pressure, pulsus paradoxus; post-cardiac procedure/trauma mein suddenly deterioration ko seriously lo.
+- **Nursing priority:** urgent rapid response/cardiology escalation, continuous ECG/BP/SpO₂ monitoring, IV access and preparation for emergency echo-guided drainage as ordered. Definitive treatment usually urgent pericardial drainage when hemodynamically significant.
+- 🧠 **Exam trap:** Tamponade = obstructive shock; pericarditis aur tamponade same diagnosis nahi hain. PEA arrest ka reversible cause ho sakta hai.
+- 🩺 **Original practice MCQ:** Hypotension + distended neck veins + muffled heart sounds after a procedure — most concerning diagnosis? **Answer: Cardiac tamponade.** (Original question, not a verified PYQ.)
+
+### 🟠 HIGH | Arterial blood gas (ABG) and cardiovascular perfusion
+
+> 🎯 **Must know:** ABG pH, PaCO₂, HCO₃⁻ aur PaO₂ ko interpret karne mein help karta hai; lactate usually separately reported ho sakta hai and tissue hypoperfusion ka clue de sakta hai.
+
+| Measure | Typical adult reference (lab-dependent) | Clinical use |
+|---|---|---|
+| pH | 7.35–7.45 | Acidemia vs alkalemia |
+| PaCO₂ | 35–45 mmHg | Respiratory contribution |
+| HCO₃⁻ | 22–26 mEq/L | Metabolic contribution |
+| PaO₂ | 80–100 mmHg at sea level | Oxygenation; age/altitude matter |
+| Lactate | Often ~0.5–2.0 mmol/L | May rise with hypoperfusion; not specific for shock |
+
+- **Easy Hinglish:** Shock mein tissue ko oxygen delivery kam ho sakti hai; anaerobic metabolism/lactate badh sakta hai. Lekin lactate normal hone se shock automatically exclude nahi hota.
+- 🧠 **Exam trap:** ABG oxygenation aur acid-base status batata hai, **cardiac output directly measure nahi** karta. Pulse oximetry se CO₂ level nahi milta.
+- 🩺 **Original practice MCQ:** ABG pH 7.28, HCO₃⁻ 16 mEq/L, PaCO₂ 32 mmHg: primary disturbance? **Answer: Metabolic acidosis** (with respiratory compensation). Original practice, not verified PYQ.
+
+### 📌 Cardiovascular completeness and PYQ evidence register
+
+- **Covered in this guide:** anatomy, blood flow, physiology, coronary circulation, cardiac assessment, ECG/arrhythmias, ACS/MI, heart failure, hypertension, peripheral vascular disease, valve/inflammatory disease, congenital defects, shock/CPR, cardiac drugs, procedures, nursing care, and original practice MCQs.
+- **New high-yield additions:** tamponade recognition and ABG/perfusion interpretation.
+- **Verification limitation:** Topic priority is a teaching judgement, not a measured NORCET/PGIMER/HPRCA question-frequency statistic. Do not label any question **verified PYQ** or **most repeated** unless its original paper, exam, year/shift, and question can be checked.
+- **Study rule:** First concepts → clinical signs → immediate nursing action → original MCQ practice → revise errors. Guidelines and drug protocols must be checked against the current local clinical policy.
+
 ## Revision and exam evidence
 
 ![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
