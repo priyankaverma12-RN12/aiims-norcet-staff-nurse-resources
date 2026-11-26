@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 240 new original MCQs in six topic files.** 105 Medium and 135 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 280 new original MCQs in seven topic files.** 121 Medium and 159 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -10,7 +10,7 @@
 | 4. [Biomedical waste management in India](04-Biomedical-Waste-Management-in-India-40-MCQs.md) | 40 |
 | 5. [Occupational exposure, sharps and post-exposure care](05-Occupational-Exposure-Sharps-and-Post-Exposure-Care-40-MCQs.md) | 40 |
 | 6. [Chain of infection and microbial transmission](06-Chain-of-Infection-and-Microbial-Transmission-40-MCQs.md) | 40 |
-| 7. Bacterial structure, classification and growth | 0 |
+| 7. [Bacterial structure, classification and growth](07-Bacterial-Structure-Classification-and-Growth-40-MCQs.md) | 40 |
 | 8. Staining, microscopy and bacterial culture | 0 |
 | 9. Gram-positive cocci and bacilli | 0 |
 | 10. Gram-negative cocci and enteric bacilli | 0 |

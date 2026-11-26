@@ -189,3 +189,8 @@ Biomedical waste management: 40 new original MCQs published. Infection Control n
 ### Continuation — chain of infection
 
 240 original questions across six of 30 groups. Next: bacterial structure, classification and growth. Full mocks remain 0/10 for this chapter and 17/350 overall.
+
+
+### Continuation — bacterial structure and growth
+
+280 original questions across seven of 30 topic groups. Next: staining, microscopy and bacterial culture. Full mocks remain 0/10 in this chapter and 17/350 overall.
