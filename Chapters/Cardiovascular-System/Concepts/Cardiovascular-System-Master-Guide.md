@@ -91,6 +91,9 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 - Clinical example: HF mein venous hydrostatic pressure badhkar edema; nephrotic syndrome mein albumin loss; unilateral lymph obstruction mein localized edema.
 
 ### Blood vessels, microcirculation and venous return — detailed concept
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Imagine ek city ka water supply: main pipe aorta, distribution pipes arteries, narrow adjustable taps arterioles, house ke paas exchange capillaries, aur return pipes veins.
 - Arterioles ka radius thoda kam ho to resistance bahut badh sakti hai (ideal laminar tube mein R proportional 1/r⁴); actual vessels elastic hain, but concept useful.
 - Vasodilation local blood supply badhati; exercise muscle metabolic products aur nitric oxide arterioles dilate karte hain.
@@ -102,6 +105,9 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 - Nurse edema ko sirf fluid overload mat samjho: unilateral hot swelling DVT/infection, bilateral pitting edema HF/venous disease, nonpitting chronic lymphedema possibilities.
 - Weight gain with edema, JVP, lung sounds and I/O combine karna clinical reasoning hai.
 ### Systemic, pulmonary and portal circuits
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Pulmonary circuit low pressure and resistance; systemic higher resistance.
 - Portal circulation mein GI organs se blood portal vein through liver sinusoids, then hepatic veins → IVC.
 - Renal artery blood kidneys ko, renal vein IVC ko.
@@ -112,6 +118,8 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 - 
 
 ## Coronary circulation and physiology
+
+![Colourful Coronary circulation and physiology study banner](../Assets/cardio-coronary-highlight.svg)
 
 > **🔴 VERY HIGH | Coronary circulation and physiology**
 > - 🎯 **Most important:** Coronary arteries, cardiac cycle, CO = HR × SV, preload/afterload
@@ -186,6 +194,9 @@ Example: EDV 120 mL, ESV 50 mL → SV 70 mL. HR 72 → 5040 mL/min = 5.04 L/min.
 
 ### Cardiac cycle deep dive — pressure-volume relationship and Wiggers diagram
 
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
+
 ![ master cycle pv ](../Assets/master-cycle-pv.svg)
 
 **Visual 3 — Pressure-volume loop:** Filling increases volume, isovolumetric contraction increases pressure, ejection decreases volume, and relaxation decreases pressure. Loop width = stroke volume. This is a PV loop, not a complete Wiggers tracing.
@@ -217,6 +228,9 @@ F --> A
 - Why RV thinner? Same flow but low-resistance pulmonary circuit.
 - Normal BP alone doesn't assure adequate CO if SVR high.
 ### Oxygen delivery, exercise and autonomic control
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Oxygen delivery depends CO and arterial oxygen content, not SpO2 alone.
 - Anemia patient 99% saturation but low Hb may still deliver less oxygen.
 - Fick principle CO = oxygen consumption / arteriovenous oxygen content difference; if VO2 250 mL/min and difference 50 mL/L, CO 5 L/min.
@@ -232,6 +246,8 @@ F --> A
 **Exam traps:** CO vs cardiac index; ejection fraction vs stroke volume; preload vs afterload; arteries vs oxygenation; carotid sinus vs carotid body. Source: [Cardiac cycle](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-3-cardiac-cycle), [physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology).
 
 ## Assessment and investigations
+
+![Colourful Assessment and investigations study banner](../Assets/cardio-assessment-highlight.svg)
 
 > **🟠 HIGH | Assessment and investigations**
 > - 🎯 **Most important:** Heart sounds, pulse/BP, troponin, echo, ECG, catheterization
@@ -267,6 +283,9 @@ Investigations:
 - Hemodynamic monitoring: CVP approx 2–6 mmHg, PAOP approx 6–12 mmHg as textbook reference; influenced by ventilation and position. Level/zero transducer at phlebostatic axis (4th ICS mid-axillary approximate). Arterial line for continuous BP and sampling, never routine medication injection. Check waveform, distal perfusion, infection, secure lines. Low transducer false high. Lactate and urine output (often target ≥0.5 mL/kg/h) help evaluate perfusion.
 
 ### Bedside examination — systematic nursing workflow
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - First patient looks sick? If severe breathlessness, shock, altered consciousness or ongoing chest pain, emergency assessment before long history.
 - Stable patient history includes medication adherence, anticoagulant bleeding, smoking, family premature CAD, congenital surgery, baseline functional capacity.
 - NYHA classes: I no symptom limitation with ordinary activity; II slight limitation; III marked limitation; IV symptoms at rest.
@@ -281,6 +300,9 @@ Investigations:
 - Murmur intensity grade 1–6 does not equal severity; low-flow severe stenosis can be quiet.
 - Never diagnose by sound alone.
 ### JVP waveform and peripheral examination
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - a wave atrial contraction, c tricuspid bulging/early systole, v venous filling against closed tricuspid; x descent atrial relaxation, y descent ventricular filling.
 - AF absent organized a wave; AV dissociation intermittent cannon a waves; TR prominent systolic v wave; tamponade often preserved x and blunted y.
 - These are classic patterns, not mandatory.
@@ -289,6 +311,9 @@ Investigations:
 - Pulse character: bounding AR, slow-rising severe AS, alternating strong/weak pulsus alternans LV dysfunction.
 - Pulsus paradoxus >10 mmHg inspiratory systolic drop also severe asthma possible.
 ### Tests: what question does each answer?
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 | Test | Clinical question | Nurse preparation / follow-up |
 |---|---|---|
 | ECG | electrical rhythm and ischemia clues | clean/dry skin, correct lead placement, compare prior |
@@ -302,6 +327,9 @@ Investigations:
 | BNP/NT-proBNP | filling pressure/wall stress clue | interpret age, renal function, obesity and clinical context |
 Serial values matter: acute rise/fall troponin is injury, clinical ischemia needed for MI diagnosis. High-sensitivity assays use lab-specific thresholds and timing. No fixed universal normal troponin number. 
 ### Nursing case: post-catheterization
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - A stable patient becomes restless, HR rises, BP falls, puncture dressing looks dry.
 - Don't assume anxiety.
 - ABC, call team, repeat BP/pulse, inspect access and back/flank symptoms, maintain ordered positioning, check Hb and perfusion per team.
@@ -383,12 +411,18 @@ PU --> T[Ventricular repolarization: T]
 
 ### ECG interpretation method — read every strip in same order
 
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
+
 ![ master ecg leads ](../Assets/master-ecg-leads.svg)
 
 **Visual 5 — Chest leads:** V1 and V2 at fourth intercostal space, V4 at fifth left midclavicular, V3 between V2 and V4, V5/V6 level with V4. Diagram is anterior/oblique simplified; use anatomical landmarks at bedside.
 1. Verify patient, lead, calibration and artifact. 2. Rate: regular use 300 method, irregular count 6 seconds. 3. Regularity: compare R-R and P-P. 4. P wave: present, same shape, before each QRS? 5. PR interval consistent? 6. QRS width and morphology. 7. ST/T and QTc; compare clinical symptoms. Normal sinus rhythm requires sinus P morphology, 1:1 relation and consistent PR. A narrow QRS suggests supraventricular origin or conduction through normal pathways; wide QRS may be VT, aberrancy or pacing. Assume uncertain wide tachycardia is VT until expert evaluation. 
 Example: 20 small squares between R peaks → 1500/20=75/min. On 6-second strip 9 complexes → 90/min average. PR 6 small squares =0.24 s. QRS 4 squares =0.16 s. These are different measurements: don't confuse PR segment with PR interval.
 ### Action potential, arrhythmia mechanisms
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Working myocyte phase 0 fast Na influx; phase 1 early repolarization; phase 2 calcium influx balanced K outward (plateau, contraction); phase 3 K outward repolarization; phase 4 resting potential.
 - SA/AV nodal phase 4 spontaneous funny current and calcium contribution, phase 0 calcium dependent, phase 3 K repolarization.
 - Automaticity abnormal impulse initiation; reentry circuit can perpetuate SVT/VT; triggered activity afterdepolarizations can occur in long QT or digoxin toxicity.
@@ -404,6 +438,9 @@ Complete: p    p    p    p    p    (atrial)
 ```
 Schematic only, not diagnostic tracings. For actual illustrated strips use [OpenStax dysrhythmia](https://openstax.org/books/medical-surgical-nursing/pages/12-2-dysrhythmia).
 ### Supraventricular and ventricular rhythms — nurse priorities
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 
 ![ master rhythm strips ](../Assets/master-rhythm-strips.svg)
 
@@ -476,6 +513,9 @@ N --> M
 - Source [2025 ACS guidance](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
 
 ### ACS from cell injury to clinical finding
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - When coronary oxygen delivery falls, aerobic ATP generation decreases, anaerobic metabolism and acidosis occur, relaxation impaired early then contraction.
 - Persistent severe ischemia causes irreversible injury.
 - Subendocardium particularly vulnerable; ECG changes can evolve from hyperacute T, ST elevation/depression, T inversion, pathological Q depending territory/time/reperfusion.
@@ -484,6 +524,9 @@ N --> M
 - Type 1 MI plaque disruption with thrombosis; type 2 MI ischemic oxygen supply-demand mismatch without acute atherothrombosis (e.g.
 - severe anemia/tachyarrhythmia); treatment depends mechanism.
 ### Chest pain differentiation
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 | Condition | Typical feature (not exclusion rule) |
 |---|---|
 | Stable angina | predictable effort-related pressure, relief with rest |
@@ -494,6 +537,9 @@ N --> M
 | Reflux/musculoskeletal | burning or reproducible pain, but coexistence possible |
 Do not use pain relief after nitro to prove coronary origin. Record onset and baseline pain, reassess after prescribed therapy. Acute ischemia patient may be anxious, nauseated, pale, sweaty; older diabetic may present fatigue or breathlessness only.
 ### Reperfusion and aftercare
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - PCI radial/femoral access, wire/balloon and usually stent.
 - Drug-eluting stent reduces restenosis; DAPT prevents stent thrombosis.
 - Post PCI abrupt chest pain/ECG changes urgent possible thrombosis.
@@ -502,6 +548,9 @@ Do not use pain relief after nitro to prove coronary origin. Record onset and ba
 - Transfer to PCI center after lysis; persistent ischemia/failed reperfusion requires rescue PCI.
 - CABG graft selection and postoperative ventilation, drains, rhythm and perfusion surveillance.
 ### MI complications by mechanism
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Early electrical instability VT/VF, brady/AV block (inferior MI may affect AV nodal supply).
 - Pump dysfunction LV HF, RV infarct, shock.
 - Mechanical rupture tends to occur in first several days: acute MR from papillary muscle, VSD with harsh new murmur and shock, free-wall rupture with tamponade/PEA.
@@ -509,6 +558,9 @@ Do not use pain relief after nitro to prove coronary origin. Record onset and ba
 - Post-MI pericardial inflammation may be early or immune-mediated later.
 - A new murmur or sudden deterioration after MI is emergency, not routine recovery.
 ### Nursing process for ACS
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Assessment: pain, perfusion, ECG, bleeding risk, allergies, history PDE5 use, ordered labs.
 - Nursing problems: acute pain, decreased cardiac output, anxiety, risk bleeding.
 - Goals: rapid recognition/reperfusion, stable perfusion, pain improvement without hypotension, no access bleeding.
@@ -569,6 +621,9 @@ V --> R
 - Pulmonary HTN echo suspicion, right heart cath definitive classification; treatment cause-specific, do not give PAH drugs indiscriminately.
 
 ### Heart failure deep nursing lesson: backward and forward failure
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Imagine left pump ka outlet weak hai.
 - Upstream pulmonary venous pressure rises, lung interstitium accumulates fluid, diffusion distance/work of breathing rise.
 - Supine venous return redistributes fluid from legs, causing orthopnea; delayed nocturnal redistribution can cause PND.
@@ -589,6 +644,9 @@ V --> R
 - NYHA functional limitation different from stages.
 - 
 ### Acute decompensation and care plan
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Look for triggers: infection, ischemia, uncontrolled BP, AF, missed medication, excessive sodium/fluid, NSAIDs, kidney dysfunction.
 - Rapid ABC, sitting upright if tolerated, continuous SpO2/ECG, notify emergency team, assess BP before vasodilators, IV loop diuretic prescribed for congestion.
 - Noninvasive ventilation may help selected acute pulmonary edema but hypotension/airway limitations matter.
@@ -600,6 +658,9 @@ V --> R
 - Discharge teach teach-back: daily weight, symptoms, medication purpose, individualized action plan.
 - Avoid NSAID self-use and potassium supplements without plan when on RAAS drugs/MRA.
 ### Cardiomyopathy comparison
+
+> **🟡 IMPORTANT | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Dilated: large weak ventricle, causes genetic/viral/alcohol/toxic/peripartum, risk HF and thrombus.
 - Hypertrophic: sarcomeric genetic often, LV thickening and dynamic outflow obstruction; reduced preload/afterload or increased contractility can aggravate obstructive form.
 - Murmur classically louder standing/Valsalva, softer squatting; sudden death risk assessment and family screening specialist.
@@ -610,6 +671,8 @@ V --> R
 - [HF nursing source](https://openstax.org/books/medical-surgical-nursing/pages/12-3-heart-failure).
 
 ## Hypertension and vascular disorders
+
+![Colourful Hypertension and vascular disorders study banner](../Assets/cardio-hypertension-highlight.svg)
 
 > **🟠 HIGH | Hypertension and vascular disorders**
 > - 🎯 **Most important:** BP measurement, hypertensive emergency, DVT, PAD, aneurysm
@@ -657,6 +720,9 @@ V --> R
 - Peripheral aneurysm may embolize.
 
 ### Hypertension deep dive: causes, damage, nursing management
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Primary HTN genetic/environmental with renal sodium handling, sympathetic and vascular regulation.
 - Secondary clues early/abrupt onset, resistant BP, renal disease, sleep apnea, endocrine causes (primary aldosteronism, pheochromocytoma, thyroid), drugs (NSAIDs, steroids, stimulants).
 - Long-term high pressure injures endothelium, promotes atherosclerosis, increases LV afterload leading hypertrophy/diastolic dysfunction, damages kidney glomeruli and retinal vessels, increases stroke risk.
@@ -666,6 +732,9 @@ V --> R
 - Emergency severe elevation + acute organ injury, not number alone; dissection has different urgent targets than stroke, avoid universal rapid lowering.
 - 
 ### Vascular detailed differential and nursing
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 Arterial ischemic ulcer distal toes/pressure points, punched-out, painful, cool foot and poor pulses. Venous ulcer medial ankle/gaiter, irregular shallow, edema and pigmentation; compression if adequate arterial flow confirmed. Neuropathic diabetic ulcer pressure plantar foot, diminished sensation; offloading and multidisciplinary care. 
 - DVT proximal clot PE risk; anticoagulation prevents extension/embolization while natural fibrinolysis occurs.
 - New unilateral swelling assess risk/symptoms; no forced Homan test.
@@ -685,6 +754,8 @@ Arterial ischemic ulcer distal toes/pressure points, punched-out, painful, cool 
 - [PAD guideline](https://professional.heart.org/en/science-news/2024-guideline-for-the-management-of-lower-extremity-peripheral-artery-disease), [vascular nursing](https://openstax.org/books/medical-surgical-nursing/pages/12-6-vascular-disorders).
 
 ## Valve and inflammatory diseases
+
+![Colourful Valve and inflammatory diseases study banner](../Assets/cardio-valves-highlight.svg)
 
 > **🟠 HIGH | Valve and inflammatory diseases**
 > - 🎯 **Most important:** S1/S2, stenosis vs regurgitation, endocarditis, pericarditis, tamponade
@@ -722,11 +793,17 @@ Stenosis = narrow opening, pressure overload upstream; regurgitation = backward 
 - Constrictive pericarditis chronic rigid pericardium limits filling, systemic congestion and Kussmaul sign possible.
 
 ### Valve disease in depth — why each symptom occurs
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 **Mitral stenosis (High):** rheumatic commissural fusion narrows LA→LV opening. LA pressure rises → pulmonary congestion, LA dilation → AF and embolic risk. Tachycardia shortens diastole, worsens gradient. Echo valve area/gradient, pulmonary pressure. Symptom management rate control/diuresis as ordered, anticoagulation when indicated (rheumatic MS with AF usually VKA), balloon commissurotomy selected anatomy or surgery. 
 **Mitral regurgitation:** LV ejects partly backward into LA during systole. Chronic volume overload dilates LA/LV; acute severe MR after rupture causes dramatic pulmonary edema without time to dilate. Echo mechanism primary leaflet vs secondary ventricular remodeling. Repair/replacement or transcatheter intervention selected. 
 **Aortic stenosis:** fixed outlet obstruction raises LV systolic pressure, concentric hypertrophy, oxygen demand; exertion may cause angina/syncope/dyspnea. Calcific degenerative, bicuspid or rheumatic. Severe symptomatic AS needs specialist valve intervention (SAVR/TAVR selection). Avoid uncontrolled preload reduction and exertional symptoms ignored. 
 **Aortic regurgitation:** diastolic leak aorta to LV; chronic LV dilation and increased total SV, low DBP; acute severe AR can cause shock without classic wide pulse pressure. Treat cause and specialist surgery based on severity/symptoms/LV. **Tricuspid stenosis/regurgitation:** systemic venous congestion, hepatomegaly/edema; TR often secondary RV/annular dilation. **Pulmonary stenosis/regurgitation:** congenital or repaired congenital, RV pressure/volume load. 
 ### Endocarditis, rheumatic fever, myocarditis and pericardial disease
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Infective endocarditis vegetation platelet-fibrin-microbe mass on valve/device; destructive regurgitation, abscess/conduction block, emboli to brain/kidney/spleen or lung in right-sided disease.
 - Staph aureus can be aggressive; streptococci and enterococci other examples.
 - Prosthetic valve/device/IV drug use and prior endocarditis increase risk.
@@ -751,6 +828,8 @@ Stenosis = narrow opening, pressure overload upstream; regurgitation = backward 
 - 
 
 ## Congenital and pediatric cardiovascular disease
+
+![Colourful Congenital and pediatric cardiovascular disease study banner](../Assets/cardio-congenital-highlight.svg)
 
 > **🟠 HIGH | Congenital and pediatric cardiovascular disease**
 > - 🎯 **Most important:** ASD/VSD/PDA, TOF, cyanotic vs acyanotic, fetal shunts
@@ -788,6 +867,9 @@ AO --> UA[Umbilical arteries] --> PL
 - This is overview; neonatal and obstetric resuscitation have separate algorithms.
 
 ### Congenital shunts and pediatric nursing — physiology to symptoms
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Left-to-right shunt initially sends oxygenated systemic blood back to lungs; cyanosis typically absent early.
 - Large VSD/PDA cause pulmonary overcirculation and infant HF once PVR falls after birth.
 - Small VSD can be loud because high velocity, large equal-pressure defect may softer.
@@ -868,6 +950,9 @@ C --> ROSC[If ROSC: post-arrest care]
 - Source [AHA 2025 algorithms](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms/).
 
 ### Hemodynamics of shock — compare rather than memorize
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 | Type | CO tendency | SVR tendency | Filling pressure tendency |
 |---|---|---|---|
 | Hypovolemic | low | high compensatory | low |
@@ -881,6 +966,9 @@ These are typical patterns, not universal. Initial compensated shock tachycardia
 - Neurogenic shock loss sympathetic tone can cause hypotension and relative bradycardia; spinal shock is neurological loss of reflexes, not identical.
 - 
 ### Resuscitation workflow and post-arrest nursing
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 
 ![ master cpr path ](../Assets/master-cpr-path.svg)
 
@@ -896,6 +984,8 @@ Synchronized cardioversion aligns shock with R to avoid vulnerable T; check sync
 After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and hypotension, ECG and cause investigation, seizure/temperature monitoring, multidisciplinary ICU. Neurologic prognosis delayed and multimodal; no premature pessimistic conclusion. [AHA adult BLS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support), [ALS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support/).
 
 ## Cardiac pharmacology and nursing procedures
+
+![Colourful Cardiac pharmacology and nursing procedures study banner](../Assets/cardio-pharmacology-highlight.svg)
 
 > **🔴 VERY HIGH | Cardiac pharmacology and nursing procedures**
 > - 🎯 **Most important:** Digoxin, nitrates, beta blockers, anticoagulants, PCI/CABG nursing
@@ -943,6 +1033,9 @@ After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and
 CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains, rhythm, urine, pain, wound, mobilization/respiratory exercises and education. Sudden low output with rising filling pressure or abrupt drain changes may indicate tamponade; escalate, do not blindly manipulate drain. Cardiac rehabilitation phased individualized supervised exercise and risk-factor education; discharge teach medication purpose, warning symptoms, follow-up, bleeding precautions, daily weight in HF.
 
 ### Pharmacology deeper: compare similar drugs and monitoring
+
+> **🔴 VERY HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Antiplatelets prevent platelet aggregation (arterial thrombosis), anticoagulants interfere coagulation factors (AF/VTE etc.), fibrinolytics break fibrin clot.
 - Not interchangeable.
 - Aspirin irreversibly inhibits platelet COX-1; clopidogrel P2Y12 blockade; ticagrelor dyspnea possible.
@@ -967,6 +1060,9 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - Norepinephrine predominantly alpha pressor, dobutamine beta1 inotrope; both can provoke arrhythmia and need closely monitored IV.
 - 
 ### Procedures, postoperative care and devices
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Pacemaker modes NBG first three letters chamber paced/sensed/response (e.g.
 - VVI ventricular paced and sensed, inhibited response; DDD dual chamber tracking).
 - Failure to capture spikes without depolarization, undersensing inappropriate spikes despite intrinsic beats, oversensing inappropriate inhibition.
@@ -987,12 +1083,18 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - Cardiac rehab inpatient early mobilization, supervised outpatient exercise and long-term lifestyle maintenance.
 - 
 ### Practical care-plan examples
+
+> **🟠 HIGH | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Acute HF: impaired gas exchange related pulmonary congestion; outcome improved oxygenation/respiratory effort; position, monitor, prescribed decongestion, reassess.
 - PAD: ineffective peripheral perfusion; compare neurovascular status, protect feet, urgent acute changes; outcome no tissue injury and improved functional walking if stable.
 - Anticoagulated patient: bleeding risk; assess stool/urine/gums/bruises, fall safety, medication reconciliation and escalation for major bleeding.
 - Post cath: neurovascular compromise risk; pulse/temp/cap refill/sensation and access monitoring; outcome stable site and distal perfusion.
 - 
 ### Additional exam angles and research limits
+
+> **🟡 IMPORTANT | 🎯 Topic focus:** Is section ki definitions, clinical mechanism, nursing priorities aur exam traps ko point-wise revise karo.
+
 - Highest study focus remains clinical priorities, ECG mechanisms and drug adverse effects because these allow both recall and case-based questions.
 - HP 2020 transcription independently located [here](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2020-hpssc-hamirpur-part-1/).
 - [HP archive 2020–22](https://ramanacademy.in/hp-staff-nurse-previous-year-question-papers/), [2026 archive](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/) are leads, not proof of exact exam frequency.
@@ -1001,6 +1103,8 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - Separate videos and rare congenital/specialist subtypes remain less deeply verified.
 
 ## Revision and exam evidence
+
+![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
 
 > **🔴 VERY HIGH — FINAL REVISION | Revision and exam evidence**
 > - 🎯 **Most important:** Emergency algorithms, ECG, drug adverse effects, mistakes and source-tagged PYQs
@@ -1023,6 +1127,8 @@ Medical sources: [OpenStax cardiac physiology](https://openstax.org/books/anatom
 Videos checked via titles/descriptions only: [NORCET complete CVS revision](https://www.youtube.com/watch?v=lMcuJHpC8-4), [ECG and electrolytes theory + MCQs](https://www.youtube.com/watch?v=pb-xAsSIr2s), [CVS question session NORCET/SGPGI](https://www.youtube.com/watch?v=6vzQkElR1S4). Existing anatomy videos in linked pages. Separate subtopic videos not all independently verified.
 
 ## Original practice bank
+
+![Colourful Original practice bank study banner](../Assets/cardio-practice-highlight.svg)
 
 > **📝 PRACTICE — ALL LEVELS | Original practice bank**
 > - 🎯 **Most important:** Solve without opening answers, then revise mistakes
