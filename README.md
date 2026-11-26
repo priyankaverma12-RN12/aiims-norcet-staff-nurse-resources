@@ -8,7 +8,7 @@
 
 </div>
 
-> Ye hamari step-by-step nursing preparation ka repo hai. **Sirf wohi topics publish hote hain jo humne actually padhe hain.** Medical words English mein, explanation simple Hindi-English mein.
+> Ye hamari step-by-step nursing preparation ka repo hai. **Study-ready material bhi publish kiya ja sakta hai jab learner explicitly poora syllabus taiyar karne ko bole.** Medical words English mein, explanation simple Hindi-English mein.
 
 ## 📌 GitHub par notes kaise add karenge?
 
@@ -68,7 +68,7 @@ Chapters/
     └── References.md
 ~~~
 
-**Future chapters:** Isi format mein tabhi add karenge jab woh topics padh lenge—extra empty folders nahi.
+**Future chapters:** Learner ne ab poora syllabus advance mein taiyar karne ko kaha hai. Starter-stage ko completed nahi kahenge.
 
 **Source honesty:** Original practice ko *actual official Previous Year Question* nahi bolenge. Scanned historic paper aur memory-based NORCET content mein clear difference rakhenge. Reference ranges clinical context aur altitude se vary hoti hain.
 
@@ -129,3 +129,14 @@ Har chapter mein 32 naye topic-wise questions aur 20-question mixed mock. Sabhi 
 **Required style:** "Dekho, prolactin ek hormone hai jo delivery ke baad breast mein doodh banne mein madad karta hai. Jab baby doodh peeta hai, tab oxytocin hormone breast ki chhoti muscles ko contract karne ka signal deta hai. Isse bana hua doodh breast se bahar aata hai. Isi process ko milk let-down reflex kehte hain. Ab dopamine ka role samjho. Brain ka hypothalamus dopamine release karta hai, jo normally pituitary gland ko prolactin kam release karne ka signal deta hai. Jab baby breastfeed karta hai, tab dopamine ka ye rokne wala signal kam ho jaata hai. Is wajah se prolactin ka level badh sakta hai aur doodh banne mein madad milti hai. Exam ke liye yaad rakho ki prolactin doodh banane mein madad karta hai aur oxytocin doodh bahar nikalne mein madad karta hai."
 
 This rule strengthens all earlier plain-language and formatting rules. It does not replace them.
+
+
+## Full NORCET syllabus expansion
+
+[**Open all 35 study chapters**](Chapters/NORCET-Full-Chapter-Index.md) · [India-wide research sources](Chapters/NORCET-India-Wide-Research-Register.md)
+
+32 additional chapters contain 128 original starter questions and 14 source-linked reported exam adaptations. All new material is unattempted. Detailed topic banks and full mock series are still pending. Existing chapters remain intact.
+
+## Learner-approved full NORCET repository expansion
+
+The learner explicitly requests all curriculum chapters prepared in advance. This overrides the earlier studied-only restriction for this expansion. Mark prepared material as study-ready or starter-stage and never as already studied. Organize adult systems and nursing subjects using a curriculum map, not an invented official chapter count. Keep Concepts, MCQs, Mock-Tests and Previous-Year-Questions as sibling directories. Create descriptive named study files. For each actual topic aim for 10–30 or more distinct original exam-style questions, primarily Medium/Difficult, with four English options and full conversational Roman Hinglish explanations of correct and incorrect choices. No semicolons in new prose. For every chapter aim for 5–6 separate 120-question chapter-only mocks with no internal duplicates. The 120-question length is learner-defined practice, not the official NORCET pattern. Preserve older mocks. Research India-wide exams and record question-level source links and evidence status. List actual independently worded question practice with each reference, not just archive links. Never invent exact questions, official years or keys. Add checked teaching and question-solving video links. Verify every published file and report remaining work, not completion claims for an empty directory.

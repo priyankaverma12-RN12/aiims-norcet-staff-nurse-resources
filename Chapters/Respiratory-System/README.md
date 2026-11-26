@@ -187,3 +187,7 @@ Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions wi
 | Entire respiratory chapter | [Quick revision](Revision/Day-04-Quick-Revision.md) | [50-question grand mock](MCQs/Respiratory-System-Grand-Mock-50.md) |
 
 [Reported NORCET, HPRCA and PGIMER paper leads](Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [References](References.md). Official exact paper/answer keys not verified for new leads.
+
+
+## Chapter-only long mock tests
+[Mock-Tests directory and practice plan](Mock-Tests/Respiratory-System-Mock-Test-Plan.md). Existing short mocks remain available in MCQs.

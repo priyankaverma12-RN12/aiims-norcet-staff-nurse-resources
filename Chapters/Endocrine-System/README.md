@@ -107,3 +107,7 @@ More topic resources in [Master Guide](Concepts/Endocrine-System-Master-Guide.md
 - Previous README content reorganized into chapter folders; Git history retains earlier page.
 
 [⬅ Nursing chapters home](../../README.md)
+
+
+## Chapter-only long mock tests
+[Mock-Tests directory and practice plan](Mock-Tests/Endocrine-System-Mock-Test-Plan.md). Existing short mocks remain available in MCQs.

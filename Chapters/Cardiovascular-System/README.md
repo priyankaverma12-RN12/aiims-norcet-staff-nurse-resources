@@ -64,3 +64,7 @@ Five reconstructed diagrams embedded; complete lesson includes final gap audit. 
 **Sources:** [Medical references](References.md). HPSSC 2022 Series A Q43 verified in third-party scanned paper; official key not verified. Other reported leads are separate. Videos checked by titles/descriptions, not full transcripts. Diagrams original reconstructed SVGs.
 
 [Repository home](../../README.md) | [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](Previous-Year-Questions/README.md) | [Revision](Revision/Day-04-Heart-Anatomy-Quick-Revision.md)
+
+
+## Chapter-only long mock tests
+[Mock-Tests directory and practice plan](Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md). Existing short mocks remain available in MCQs.
