@@ -449,3 +449,22 @@ Compensation means body primary acid-base change ko balance karne ki koshish kar
 ROME: Respiratory Opposite (pH/PaCO2); Metabolic Equal (pH/HCO3). pH 7.26, PaCO2 60, HCO3 26: acute respiratory acidosis pattern. pH 7.32, CO2 60, HCO3 30: respiratory acidosis with compensation. pH 7.36, CO2 60, HCO3 33: chronic compensated respiratory acidosis pattern. Normal pH does not mean normal ABG; mixed disorders possible.
 Winter's formula in metabolic acidosis: expected PaCO2 = 1.5 × HCO3 + 8 ±2. HCO3 12 → 26 ±2, 24–28 mmHg. Actual 40 suggests additional respiratory acidosis.
 Modified Allen test may assess collateral ulnar circulation before radial sampling, per protocol; imperfect predictor, not substitute for clinical assessment. After puncture apply firm pressure until hemostasis; longer in anticoagulated patients. Avoid air bubbles, label oxygen/ventilator status, prompt transport as lab protocol. [NCBI ABG](https://www.ncbi.nlm.nih.gov/books/NBK371/) · [Reported NORCET 6 paper](https://nextnurse.in/pyq/norcet/norcet-norcet-6-mains-2024).
+
+
+## Day 4 final assessment recall — breathing patterns and signs
+
+| Term | Easy meaning |
+|---|---|
+| Eupnea | Normal quiet breathing |
+| Tachypnea / bradypnea | Fast / slow respiratory rate |
+| Apnea | Temporary absence of breathing |
+| Orthopnea | Breathlessness when lying flat, relieved upright |
+| Paroxysmal nocturnal dyspnea | Breathlessness that wakes a patient from sleep, often heart failure |
+| Cheyne-Stokes | Gradual increase and decrease of breath depth, alternating with apnea |
+| Kussmaul | Deep, often rapid breathing associated with severe metabolic acidosis |
+| Ataxic (Biot-type) breathing | Irregular breathing and periods of apnea; terminology varies |
+| Central cyanosis | Bluish lips/tongue, concerning oxygenation finding |
+| Peripheral cyanosis | Bluish extremities from reduced peripheral circulation; may occur with normal arterial oxygen |
+| Clubbing | Bulbous fingertips, loss of normal nail-bed angle; may occur with bronchiectasis, lung cancer or fibrosis; uncomplicated COPD alone not typical |
+
+Pattern alone diagnosis confirm nahi karta. New apnea, altered consciousness or respiratory distress emergency assessment. [Merck pulmonary evaluation](https://www.merckmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues).
