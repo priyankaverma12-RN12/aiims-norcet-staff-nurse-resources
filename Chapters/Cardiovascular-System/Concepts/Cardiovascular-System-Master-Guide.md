@@ -1422,6 +1422,27 @@ A. White-coat hypertension · B. Hypertensive emergency · C. Isolated systolic 
 4. Audit HPRCA separately; absence of a verified source is **not** evidence of zero questions.
 
 
+
+
+## Source-traced HPSSC October 2020 cardiovascular question review (added 26 Nov 2026)
+
+> 🟠 **Third-party paper transcription — NOT official-key-verified.** Raman Academy identifies the exam as HPSSC Staff Nurse, October 2020, Code C-606/2020, Series A, and explicitly states its answer key is academy-prepared, not official. This is **HPSSC**, not proof of an HPRCA paper. The question descriptions below are **original paraphrases**, not copied stems. Source: https://ramanacademy.in/previous-papers/staff-nurse-hpssc-october-2020/ . Exam/number attribution is verified against this third-party transcription only; original commission paper and official answer key are still unverified.
+
+| Reported question | 🎯 Exam topic and supported answer | 🧠 Easy Hinglish reasoning / exam trap |
+|---|---|---|
+| Q14 | **LAD** supplies much of the anterior LV wall | LAD ko anterior-wall MI se connect karo; circumflex mainly lateral territory (anatomy varies). |
+| Q16 | **Cigarette smoking** is the clear modifiable CAD risk in the listed scenario | Smoking endothelial injury aur atherosclerotic risk badhata hai. Normal-looking cholesterol alone se risk exclude nahi hota. |
+| Q17 | **Post-cardiac-catheterization complications** require bleeding, distal pulses, perfusion, arrhythmia and access-site assessment | The transcription's single-best-answer options are ambiguous: do **not** present one official correct option without an authenticated key. |
+| Q20 | **Start high-quality chest compressions** for an unresponsive pulseless adult after activating emergency response | CAB: compressions early, AED/defibrillator as soon as available; follow current BLS algorithm. |
+| Q25 | **All listed: heart failure, arrhythmias, cardiogenic shock** can complicate MI | MI se electrical + pump failure dono ho sakte hain. |
+| Q34 | **Marfan syndrome** is linked to aortic aneurysm/dissection risk | Connective-tissue weakness; sudden tearing pain is an emergency. |
+| Q35 | **Sympathetic stimulation increases heart rate** | Beta-1 receptor stimulation: chronotropy rises. |
+| Q36 | **ST elevation** can be a feature of acute STEMI | Not every MI has ST elevation; ECG + symptoms + serial troponin matter. |
+| Q37 | **DVT clinical features** (pain, swelling, erythema) | ⚠️ Historical Homan's sign question is clinically outdated/ambiguous; Homan's sign is unreliable, do not use to rule DVT in/out. |
+| Q39 | **Venous emboli from DVT commonly lodge in pulmonary arteries** | DVT → right heart → pulmonary circulation; sudden dyspnea/chest pain requires urgent evaluation. |
+
+**Evidence status:** 10 cardiovascular/vascular-related numbered question topics located in a traceable **third-party HPSSC 2020 transcription**, not 10 officially verified PYQs. No repetition frequency is established from a single paper. Do not merge these with the four earlier NORCET/PGIMER unverified leads or count topic overlap as additional questions. Original NORCET, PGIMER and HPRCA official-paper verification remains open.
+
 ## Revision and exam evidence
 
 ![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
