@@ -165,3 +165,5 @@ Video titles/descriptions checked, full transcripts/length not verified. Skip un
 Apex LV; base LA; anterior RV; normal PMI left 5th ICS MCL; EME; cavity between serous layers; 15–50 mL; phrenic C3–5; gap junction electrical; desmosomes mechanical; long refractory period; tamponade pressure. 
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](../References.md)
+
+**Next studied topic:** [Heart chambers, valves, septum and great vessels](../Concepts/Day-04-Chambers-Valves.md) · [Practice](../MCQs/Day-04-Chambers-Valves.md).
