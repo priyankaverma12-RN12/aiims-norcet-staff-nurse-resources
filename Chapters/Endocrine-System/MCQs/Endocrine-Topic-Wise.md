@@ -1,6 +1,6 @@
 # 📝 Endocrine topic-wise original MCQs
 
-[🏠 Chapter](../README.md) · [📖 Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
+[🏠 Chapter](../README.md) · [📖 Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
 
 **Study-ready / unattempted.** English stems and options preserved; explanations Roman Hinglish. Old revision overlaps retained to preserve prior material. These are not official Previous Year Questions.
 
@@ -2051,3 +2051,6 @@ D. Assume family will manage
 
 </details>
 
+
+
+[Topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md) · [26 source-linked exam question practice entries](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md).
