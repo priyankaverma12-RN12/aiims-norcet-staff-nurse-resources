@@ -1,6 +1,6 @@
 # Part 2 — Pituitary disorders, diabetes insipidus and SIADH
 
-[🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
+[🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
 
 **Study-ready | NORCET / PGIMER / Staff Nurse / CHO.** Not marked studied. 🔴 Very High · 🟠 High · 🟡 Important · 🟢 Foundation = preparation priority, not verified exam frequency.
 
@@ -16,7 +16,7 @@
 
 ## 3. 🟠 Pituitary gland
 
-🔴 **MOST IMPORTANT:** ADH kahan banta hai aur kahan se release hota hai; anterior vs posterior pituitary; Sheehan syndrome; post-surgery urine output. 🟠 HP 2026 source reports posterior pituitary question ([source register](../Previous-Year-Questions/README.md)).
+🔴 **MOST IMPORTANT:** ADH kahan banta hai aur kahan se release hota hai; anterior vs posterior pituitary; Sheehan syndrome; post-surgery urine output. 🟠 HP 2026 source reports posterior pituitary question ([source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)).
 
 - Brain ke base par sella turcica mein hoti hai. Hypothalamus isko control karta hai.
 - Anterior pituitary apne hormones banati hai. ADH aur oxytocin hypothalamus mein bante hain aur posterior pituitary se release hote hain.
@@ -33,7 +33,7 @@
 
 ![water-balance — original study schematic](../Assets/water-balance.svg)
 
-🔴 **HIGH PRIORITY — EXAM LEAD:** DI mein dilute urine, SIADH mein low sodium. NORCET 2023 DI presentation source, HP 2026 related pituitary hormone source ([source register](../Previous-Year-Questions/README.md)).
+🔴 **HIGH PRIORITY — EXAM LEAD:** DI mein dilute urine, SIADH mein low sodium. NORCET 2023 DI presentation source, HP 2026 related pituitary hormone source ([source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)).
 
 - ADH kidney ko paani bachane mein help karta hai.
 - ADH kam ho ya kidney respond na kare toh bahut dilute urine aata hai. Pyaas badhti hai. Ise diabetes insipidus (DI) kehte hain; glucose wali diabetes se alag hai.
@@ -116,6 +116,11 @@ flowchart TD
 
 
 ## 🎬 Study resources
+
+[DI vs SIADH recap](https://www.youtube.com/watch?v=0ugdQ6pf3Kg) · [DI/SIADH question-solving segment](https://www.youtube.com/watch?v=xcwJd5RbBb4&t=1238s)
+
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
 
 ## Clinical references
@@ -123,4 +128,4 @@ flowchart TD
 
 [All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
 
-[🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
+[🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
