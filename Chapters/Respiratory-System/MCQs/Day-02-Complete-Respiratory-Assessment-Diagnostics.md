@@ -1330,3 +1330,84 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 </details>
 
 [Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [Chapter](../README.md)
+
+
+## Bonus original unattempted clinical questions
+
+### Q56. A patient alternates progressively deeper breaths, progressively shallower breaths and periods of apnea. Which pattern is described?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Kussmaul respiration
+- **B.** Cheyne-Stokes respiration
+- **C.** Normal eupnea
+- **D.** Isolated orthopnea
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Cheyne-Stokes respiration**
+
+**Kyun sahi aur baaki options galat:** Crescendo-decrescendo with apnea Cheyne-Stokes; Kussmaul deep sustained, eupnea normal, orthopnea positional.
+
+**Exam trick:** Crescendo-decrescendo with apnea Cheyne-Stokes.
+
+</details>
+
+### Q57. A patient with severe metabolic acidosis develops sustained deep and rapid breathing. Which pattern is classically associated?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Cheyne-Stokes respiration
+- **B.** Normal quiet breathing
+- **C.** Kussmaul respiration
+- **D.** Isolated apnea
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Kussmaul respiration**
+
+**Kyun sahi aur baaki options galat:** Deep breathing compensates by eliminating CO2; Cheyne-Stokes cyclical with apnea, eupnea normal, apnea absent breathing.
+
+**Exam trick:** Deep breathing compensates by eliminating CO2.
+
+</details>
+
+### Q58. A patient reports breathlessness specifically when lying flat that improves after sitting upright. Which term describes it?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Hemoptysis
+- **B.** Bradypnea
+- **C.** Anosmia
+- **D.** Orthopnea
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. Orthopnea**
+
+**Kyun sahi aur baaki options galat:** Orthopnea positional dyspnea; hemoptysis cough blood, bradypnea slow breathing, anosmia loss of smell.
+
+**Exam trick:** Orthopnea positional dyspnea.
+
+</details>
+
+### Q59. A patient labelled as having uncomplicated COPD develops new digital clubbing. What is the best nursing interpretation?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+
+- **A.** Report and assess for another associated condition such as bronchiectasis or malignancy
+- **B.** Clubbing is inevitable in every COPD patient
+- **C.** Clubbing proves normal oxygenation
+- **D.** No assessment is needed because all smokers have clubbing
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Report and assess for another associated condition such as bronchiectasis or malignancy**
+
+**Kyun sahi aur baaki options galat:** New clubbing not typical uncomplicated COPD, evaluate cause; not inevitable, no proof of oxygenation, smoking alone insufficient.
+
+**Exam trick:** New clubbing not typical uncomplicated COPD, evaluate cause.
+
+</details>
+
+[Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](../README.md)
