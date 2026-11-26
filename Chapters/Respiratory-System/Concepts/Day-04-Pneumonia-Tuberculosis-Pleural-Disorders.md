@@ -150,3 +150,7 @@ Emergency nursing: ABC, urgent escalation, oxygen if hypoxemic, hemodynamic moni
 - [NICE NG158 venous thromboembolic diseases](https://www.nice.org.uk/guidance/ng158)
 - [Existing ABG notes and diagrams](Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
 - No newly authenticated previous-year question or independently verified new teaching/practice video in this update. Exact chat image assets unavailable; no claim of image reuse.
+
+
+## India-specific TB extension — 26 November 2026
+NTEP = National Tuberculosis Elimination Programme; RNTCP older name; DOTS = Directly Observed Treatment, Short-course; CBNAAT cartridge-based nucleic acid amplification test; Ni-kshay notification/management; MDR-TB resistance to at least H and R. Indian NTEP standard drug-sensitive regimen 2HRZE intensive + 4HRE continuation (selected patients require different regimen); [ICMR/NTEP source](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964686_2_ntep_18032022.pdf). Mantoux intradermal, read 48–72 hours, measure induration mm not redness; risk-based interpretation, positive test alone does not prove active TB. BCG live attenuated, protects mainly young children against severe TB (meningeal/disseminated). [WHO TST](https://tbksp.who.int/en/node/2029) · [CDC TST](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html).
