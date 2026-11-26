@@ -248,7 +248,7 @@ Official NORCET/HPRCA/PGIMER question papers and year-wise frequency have not be
 
 Clinical reading: [NIDDK endocrine diseases](https://www.niddk.nih.gov/health-information/endocrine-diseases), [ADA standards](https://professional.diabetes.org/standards-of-care), [Endocrine Society guidelines](https://www.endocrine.org/clinical-practice-guidelines), [American Thyroid Association](https://www.thyroid.org/).
 
-**Edition status:** Expanded practice and diagrams are available in sections 14–18 below. Official PYQ verification and detailed completeness audit remain pending.
+**Edition status:** Expanded practice and diagrams are available in sections 14–18 below. Official PYQ verification remains pending; broad INC coverage audit and gap-filling are in sections 19–21.
 
 ## 14. 🎨 Gland-wise visual revision and priority
 
@@ -1556,4 +1556,368 @@ These are independently worded study prompts based on published third-party exam
 
 Further paper archives for research: [HP Staff Nurse papers](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/), [NORCET cycle archive](https://nprep.in/blogs/aiims-norcet-previous-year-question-papers-pdf), [PGIMER archive](https://nextnurse.in/pyq/pgimer-nursing-officer). Archive listing is not proof of any specific question until checked.
 
-**Status:** Study-ready expanded edition. Official PYQ verification, more long mocks, full topic coverage audit and more detailed rationales remain open. No study completion recorded.
+**Status:** Study-ready expanded edition. Official PYQ verification, more long mocks and some detailed rationales remain open; see sections 19–21 for broad coverage audit and added practice. No study completion recorded.
+
+
+## 19. 🔴 Final coverage audit — missing and underdeveloped concepts (26 November 2026)
+
+Checked against the [INC B.Sc. Nursing Adult Health Nursing I endocrine unit](https://www.legitquest.com/act/indian-nursing-council-revised-regulations-and-curriculum-for-bsc-nursing-program-regulations-2020/CBD2): anatomy/physiology, history and examination, thyroid/parathyroid/adrenal/pituitary hypo-/hyperfunction and tumors, diabetes, medical/surgical/nutritional nursing management, diabetic diet education and insulin administration. The major headings are present; the following fills specific gaps. Priority markers are educational estimates, not official exam frequencies.
+
+### 🟠 Hormone physiology and assessment
+- Hypothalamus ke TRH, CRH, GnRH, GHRH pituitary ko stimulate karte hain; dopamine prolactin ko inhibit karta hai, somatostatin GH aur TSH ko inhibit kar sakta hai. Pulsatile GnRH FSH/LH release support karta hai.
+- Peptide hormones (insulin, ADH) generally cell surface receptors par act karte hain; steroid (cortisol) aur thyroid hormones intracellular/nuclear receptors se gene expression change karte hain. Thyroid hormones amino-acid derived hote hue bhi nuclear action karte hain.
+- Positive feedback example: labor mein cervical stretch → oxytocin → stronger uterine contraction → more stretch, until birth.
+- Endocrine history: thirst, urine frequency/nocturia, appetite, weight change, heat/cold tolerance, sleep, menstrual/sexual symptoms, growth, steroid/thyroid/diabetes drug history. Examine pulse/BP including orthostatic BP if indicated, BMI, skin/hair, tremor, thyroid size, eye findings, hydration and feet. Document trends rather than a single observation.
+
+### 🟠 Gland-specific diagnostic tests, treatment and nursing
+| Condition | Key test and interpretation | Treatment/nursing link |
+|---|---|---|
+| Acromegaly | Age-adjusted IGF-1; specialist GH suppression after oral glucose if needed; pituitary MRI | Surgery often first-line for resectable tumor; somatostatin analogues/pegvisomant as indicated; assess airway, sleep apnea, glucose, vision |
+| Prolactinoma | Prolactin; exclude pregnancy, medicines, hypothyroidism; MRI as indicated | Dopamine agonist; monitor orthostatic symptoms and vision |
+| DI | Serum/urine osmolality and sodium, supervised water deprivation/desmopressin or specialist copeptin testing | Central DI generally responds to desmopressin; excess dosing/water can cause hyponatremia; lithium-associated nephrogenic DI requires cause-directed care |
+| SIADH | Hypotonic hyponatremia with inappropriately concentrated urine; exclude adrenal/thyroid causes and other mimics | Monitor neurological state, fluid balance and sodium correction |
+| Primary hypothyroid | TSH ↑, free T4 ↓ | Levothyroxine; assess adherence, pulse, symptom trends |
+| Primary hyperthyroid | TSH ↓, free T4 and/or T3 ↑; TRAb supports Graves | Monitor treatment adverse effects, eye symptoms, cardiovascular status |
+| Primary hyperparathyroidism | Calcium ↑, PTH not appropriately suppressed | Assess kidney stones/bone health; selected patients need parathyroidectomy |
+| Adrenal insufficiency | Morning cortisol and ACTH; ACTH stimulation test | Crisis: do not delay emergency treatment for testing; maintenance steroid replacement; primary disease may also need fludrocortisone |
+| Cushing syndrome | Late-night salivary cortisol, 24-hour urinary free cortisol or overnight low-dose dexamethasone suppression, selected by clinician | Establish cortisol excess before localizing cause; surgery or cause-directed care; monitor infection and wound healing |
+| Pheochromocytoma | Plasma free or urinary fractionated metanephrines | Alpha blockade first; beta blockade only afterward if needed; perioperative BP monitoring |
+
+**Analogy:** Stimulation test = gland ko signal dekar dekhna ki hormone badhta hai ya nahi. Suppression test = brake lagakar dekhna ki hormone kam hota hai ya nahi.
+- Graves orbitopathy: gritty eyes, lid retraction, proptosis, diplopia. Lubrication and smoking cessation counseling; impaired vision or color vision warrants urgent assessment. 
+- Goiter types: diffuse or nodular; simple/nontoxic or toxic. Iodine deficiency can cause goiter; iodized salt helps prevent deficiency, but indiscriminate iodine supplements are not treatment for every thyroid disorder.
+- Thyroid nodule: ultrasound risk stratification guides FNAC; thyroid cancer can occur with normal thyroid function. 
+- After parathyroid surgery: monitor calcium and magnesium, paresthesia, tetany; hungry bone syndrome is prolonged hypocalcemia from rapid mineral uptake by bone.
+- Adrenalectomy: monitor BP, glucose, electrolytes and prescribed steroid coverage; after pheochromocytoma removal hypotension/hypoglycemia may occur.
+- Pituitary postoperative care: early DI and delayed hyponatremia can both occur; follow fluid/sodium surveillance and discharge instructions.
+- Hypogonadism: primary gonadal failure generally low sex hormones with elevated FSH/LH; central failure low sex hormones with low/inappropriately normal FSH/LH. Kallmann syndrome is congenital GnRH deficiency with impaired smell (lower priority).
+
+### 🔴 Insulin timing, administration, and glucose monitoring
+Approximate textbook ranges only; specific formulation, dose and manufacturer instructions govern care.
+| Type | Example | Onset | Peak | Duration |
+|---|---|---|---|---|
+| Rapid | Lispro/aspart | 10–30 min | ~1–3 h | ~3–5 h |
+| Short | Regular SC | 30–60 min | ~2–4 h | ~5–8 h |
+| Intermediate | NPH | 1–2 h | ~4–12 h | ~12–18 h, sometimes longer |
+| Long | Glargine U100 | ~1–2 h | No pronounced peak | ~24 h |
+| Ultra-long | Degludec | ~1 h | No pronounced peak | >42 h |
+
+- Basal insulin background needs cover karta hai; bolus mealtime/correction needs. Type 1 mein basal insulin omission can precipitate DKA.
+- Check order, patient, glucose, formulation, concentration (U-40 vs U-100), device, units, timing, meal and hypoglycemia risk. Independent double-check per local policy. Never interchange syringe concentrations; never share pens, even with new needles.
+- SC abdomen, thigh, upper arm, buttock; rotate spots within chosen region; avoid lipohypertrophy, scar or inflamed site. Short 4-mm pen needle is generally inserted at 90°; individual technique depends on needle/body habitus. Gently roll NPH as directed; don't vigorously shake. Dispose of sharps safely.
+- Regular + NPH if specifically compatible and prescribed: air into cloudy then clear vial; draw clear insulin before cloudy. Do not mix glargine/degludec with other insulin.
+- Dose calculation exam example: U-100 = 100 units/mL; 8 units corresponds to 0.08 mL. In actual practice use the matching calibrated insulin device; do not use this arithmetic to improvise a syringe.
+- Fingerstick: wash and dry hands, use single-use lancet, document result and symptoms, confirm unexpected CGM readings by meter as indicated. CGM measures interstitial glucose and can lag during rapid change.
+- Dawn phenomenon: morning rise due to circadian counter-regulatory effects, without preceding nocturnal hypoglycemia. Somogyi effect: historical hypothesis of rebound hyperglycemia after night-time hypoglycemia; not well supported as a common explanation. Overnight CGM/SMBG differentiates patterns; don't automatically increase or reduce insulin without clinical review.
+- Hypoglycemia levels: level 1 = 54–69 mg/dL, level 2 = below 54 mg/dL, level 3 = severe event requiring assistance regardless of measured glucose.
+- Many nonpregnant adults have individualized targets around HbA1c <7%, premeal 80–130 mg/dL and peak postmeal <180 mg/dL; these are treatment targets, not diagnostic thresholds.
+
+### 🔴 Diabetic diet and comprehensive nursing care
+- Plate method: half non-starchy vegetables, quarter protein (dal/paneer/egg etc. according to plan), quarter carbohydrate foods (roti/rice etc.); water or unsweetened drinks. Pulses contain carbohydrate too. Teach portion size and consistency, not a blanket ban on carbohydrates.
+- Pair carbohydrate with fiber/protein; avoid sugary drinks except treating hypoglycemia; choose whole grains when feasible. Individualize for CKD, pregnancy, frailty, affordability and activity. Dietitian referral as needed.
+- Exercise improves insulin sensitivity. Insulin-treated patients may need glucose checks, planned carbohydrate and clinician-directed dose adjustments; carry fast glucose. Avoid vigorous exercise during significant ketosis.
+- Foot: inspect soles/toes daily, dry between toes, protective footwear, no barefoot walking or self-cutting corns, promptly report infection/ulcer; assess pulses and 10-g monofilament with other sensory tests.
+- Kidney screening: urine albumin-to-creatinine ratio and eGFR; type 2 at diagnosis, type 1 generally after 5 years, annually thereafter as indicated. Eye screening at type 2 diagnosis and within 5 years after type 1 onset; follow eye clinician schedule.
+- Drugs: DPP-4 inhibitors increase incretin activity; generally low hypoglycemia risk alone. Pioglitazone improves sensitivity but can cause edema/worsen heart failure. Acarbose slows carbohydrate digestion, GI effects. Meglitinides are short-acting insulin secretagogues; hypoglycemia possible.
+- In hospital: coordinate meal and prandial insulin, monitor glucose per order, assess infection/steroid effects, avoid unplanned insulin omission, and educate on discharge.
+- Example nursing plan: unstable glucose risk → monitor glucose and coordinate medicines/meals; impaired skin integrity risk → foot inspection and pressure protection; knowledge gap → teach-back of insulin administration, hypoglycemia actions and sick-day plan. Evaluation: correct teach-back, glucose trends toward prescribed range, timely recognition/reporting of danger signs.
+
+### 🔴 DKA/HHS numerical revision — adult criteria and exam trap
+2024 international consensus, also reflected in ADA 2026 inpatient standards:
+| Criterion | DKA (all three) | HHS (all four) |
+|---|---|---|
+| Glucose | ≥200 mg/dL OR known diabetes | ≥600 mg/dL |
+| Ketones | beta-hydroxybutyrate ≥3 mmol/L OR urine ≥2+ | beta-hydroxybutyrate <3 mmol/L OR urine <2+ |
+| Acid-base | pH <7.3 and/or bicarbonate <18 mmol/L | pH ≥7.3 AND bicarbonate ≥15 mmol/L |
+| Osmolality | Not mandatory | Effective >300 OR total >320 mOsm/kg |
+
+- Effective osmolality (glucose mg/dL): 2 × sodium + glucose/18. Example: Na 150, glucose 720 → 340 mOsm/kg. Total osmolality additionally includes BUN/2.8 (mg/dL).
+- Anion gap = Na − (Cl + HCO3). Example 140 − (104 + 12) = 24 mmol/L; supports high-gap acidosis but ketone measurement preferred for DKA monitoring.
+- If K <3.5 mmol/L in adult crisis, replace potassium and defer insulin until >3.5 per 2024 consensus. Older textbooks often use 3.3; read exam's specified guideline. Follow local emergency protocol and monitor ECG/electrolytes.
+- DKA resolution: plasma ketone <0.6 mmol/L AND pH ≥7.3 OR bicarbonate ≥18 mmol/L (acid-base condition in addition to ketone criterion); ideally glucose <200. Glucose alone does not prove resolution. Pediatric/pregnancy protocols differ.
+
+### 🟡 Additional metabolic/reproductive crossover
+- Metabolic syndrome: clustered central obesity, elevated glucose, triglycerides, BP and low HDL; criteria depend on definition/ethnicity. Lifestyle and risk-factor management.
+- PCOS: ovulatory dysfunction and hyperandrogenism; ultrasound/AMH criteria in adults when indicated after excluding mimics; not diagnosed by ultrasound alone. Assess glucose risk and fertility concerns.
+- Osteomalacia/rickets: impaired bone mineralization, often vitamin D deficiency. Osteoporosis: low bone strength, fracture risk. PTH and vitamin D physiology connect endocrine to musculoskeletal nursing; comprehensive osteoporosis in MSK chapter.
+- Gestational diabetes: use pregnancy-specific protocol; postpartum 75-g OGTT typically 4–12 weeks and ongoing screening per ADA. Neonatal hypoglycemia is a risk.
+- Rare tumors (MEN, insulinoma, glucagonoma) already in section 15; detailed reproductive disorders and pediatric endocrinology belong additionally to their respective subjects.
+
+### Sources for this audit
+- [INC curriculum reproduction](https://www.legitquest.com/act/indian-nursing-council-revised-regulations-and-curriculum-for-bsc-nursing-program-regulations-2020/CBD2)
+- [ADA 2026 glycemic goals and emergencies](https://doi.org/10.2337/dc26-S006); [hospital care](https://doi.org/10.2337/dc26-s016); [pharmacology](https://doi.org/10.2337/dc26-S009)
+- [2024 international hyperglycemic crisis consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/)
+- NIDDK: [acromegaly](https://www.niddk.nih.gov/health-information/endocrine-diseases/acromegaly), [Cushing syndrome](https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome), [adrenal insufficiency diagnosis](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease/diagnosis), [diabetes testing](https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis)
+- [ADA 2026 diabetes technology](https://doi.org/10.2337/dc26-S007)
+
+## 20. 📝 Gap-filling original MCQs — 20 questions
+
+**G1. [Hormone physiology] Which hypothalamic signal normally inhibits prolactin?**
+
+A. Dopamine  
+B. TRH  
+C. CRH  
+D. GnRH
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Dopamine** — Dopamine tonically suppresses prolactin; TRH can stimulate it, CRH controls ACTH, GnRH controls gonadotropins.
+
+</details>
+
+**G2. [Hormone physiology] Which is a positive feedback example?**
+
+A. Cortisol suppressing ACTH  
+B. Oxytocin during labor  
+C. T4 suppressing TSH  
+D. Insulin lowering glucose
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Oxytocin during labor** — Cervical stretch stimulates oxytocin and contraction reinforces stretch. Other examples are negative feedback.
+
+</details>
+
+**G3. [Pituitary] A patient with central hypogonadism has low testosterone. What is expected?**
+
+A. Markedly elevated LH in all cases  
+B. High calcitonin  
+C. Low or inappropriately normal LH  
+D. High PTH
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Low or inappropriately normal LH** — Central failure means pituitary/hypothalamic signal is insufficient; high LH suggests primary gonadal failure. Calcium hormones are unrelated.
+
+</details>
+
+**G4. [Adrenal] Which dynamic test commonly assesses suspected adrenal insufficiency?**
+
+A. Water deprivation  
+B. OGTT for GH suppression  
+C. Radioiodine uptake  
+D. ACTH stimulation
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. ACTH stimulation** — ACTH tests adrenal cortisol reserve; water deprivation assesses DI; GH suppression assesses acromegaly; uptake assesses thyroid.
+
+</details>
+
+**G5. [Adrenal] Which is an accepted initial screening test for Cushing syndrome?**
+
+A. Late-night salivary cortisol  
+B. Random serum insulin  
+C. Urine glucose alone  
+D. Serum calcitonin
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Late-night salivary cortisol** — Loss of cortisol's normal nighttime nadir supports cortisol excess. Other tests do not measure that process.
+
+</details>
+
+**G6. [Thyroid] A patient with Graves orbitopathy reports new impaired color vision. What is the priority?**
+
+A. Routine review in six months  
+B. Urgent assessment for optic nerve compromise  
+C. Restrict fluids  
+D. Give oral glucose
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Urgent assessment for optic nerve compromise** — Color vision change can indicate sight-threatening optic neuropathy; delay is unsafe; fluid restriction/glucose are not corrective.
+
+</details>
+
+**G7. [Parathyroid] Persistent hypocalcemia after parathyroidectomy with rapid skeletal mineral uptake is called what?**
+
+A. Dawn phenomenon  
+B. Somogyi effect  
+C. Hungry bone syndrome  
+D. Conn syndrome
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Hungry bone syndrome** — Bone remineralization removes circulating calcium. Dawn/Somogyi relate to glucose; Conn is aldosterone excess.
+
+</details>
+
+**G8. [Adrenal] After pheochromocytoma removal, which change needs monitoring?**
+
+A. Isolated high TSH only  
+B. Exclusively hypercalcemia  
+C. Increased melatonin only  
+D. Hypotension and hypoglycemia
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Hypotension and hypoglycemia** — Catecholamine withdrawal can reduce BP and increase insulin effect. Other findings are not typical immediate risks.
+
+</details>
+
+**G9. [Diabetes] Which insulin generally has no pronounced peak and lasts around 24 hours?**
+
+A. Glargine U100  
+B. NPH  
+C. Regular  
+D. Lispro
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Glargine U100** — Glargine is basal long-acting. NPH peaks hours later; regular and lispro cover meals.
+
+</details>
+
+**G10. [Diabetes] Morning high glucose without overnight hypoglycemia is consistent with what?**
+
+A. Proven Somogyi rebound  
+B. Dawn phenomenon  
+C. Adrenal crisis  
+D. Insulinoma
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Dawn phenomenon** — Circadian counter-regulatory hormones may raise glucose; Somogyi is historical and would require preceding low glucose; other disorders tend toward low glucose.
+
+</details>
+
+**G11. [Diabetes] A patient requires 8 units using U-100 insulin. What is the equivalent volume for a calculation question?**
+
+A. 0.8 mL  
+B. 8 mL  
+C. 0.08 mL  
+D. 0.008 mL
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. 0.08 mL** — 8 ÷ 100 = 0.08 mL; other options are tenfold or greater errors. Use matching insulin device clinically.
+
+</details>
+
+**G12. [Diabetes] A CGM reading is inconsistent with symptoms. What is the appropriate step?**
+
+A. Ignore symptoms  
+B. Double basal insulin immediately  
+C. Share another patient's lancet  
+D. Check capillary glucose as indicated
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Check capillary glucose as indicated** — CGM lag/error is possible. Confirm using an appropriate meter; do not ignore symptoms, improvise doses or share lancets.
+
+</details>
+
+**G13. [Diabetes] Which glucose value represents level 2 hypoglycemia?**
+
+A. 49 mg/dL  
+B. 62 mg/dL  
+C. 95 mg/dL  
+D. 135 mg/dL
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. 49 mg/dL** — Below 54 is level 2; 62 is level 1, the others are not hypoglycemic by these thresholds.
+
+</details>
+
+**G14. [Diabetes] In a diabetes plate-method teaching example, non-starchy vegetables occupy approximately how much?**
+
+A. One eighth  
+B. Half  
+C. The whole plate  
+D. None
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Half** — Half vegetables, quarter protein, quarter carbohydrate foods is a practical starting visual; individualize nutrition.
+
+</details>
+
+**G15. [Diabetes] Which test screens for early diabetic kidney damage along with eGFR?**
+
+A. Serum TSH  
+B. Urine ketones alone  
+C. Urine albumin-to-creatinine ratio  
+D. Peak flow
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Urine albumin-to-creatinine ratio** — Albuminuria can signal kidney damage; TSH thyroid, ketones acute metabolism, peak flow respiratory.
+
+</details>
+
+**G16. [Diabetes] Which diabetes medicine may worsen heart failure through fluid retention?**
+
+A. Acarbose  
+B. Sitagliptin  
+C. Glucagon  
+D. Pioglitazone
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Pioglitazone** — Pioglitazone can cause edema; acarbose mainly GI effects; sitagliptin is a DPP-4 inhibitor; glucagon treats severe hypoglycemia.
+
+</details>
+
+**G17. [Emergency] Adult known diabetes, ketones 4 mmol/L, pH 7.2, glucose 175 mg/dL. Which is possible?**
+
+A. Euglycemic DKA  
+B. HHS by glucose alone  
+C. Normal acid-base  
+D. SIADH by definition
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Euglycemic DKA** — Known diabetes plus ketones and acidosis meet DKA criteria despite modest glucose. HHS requires severe hyperglycemia/hyperosmolality.
+
+</details>
+
+**G18. [Emergency] Na 150 mmol/L, glucose 720 mg/dL. Effective osmolality?**
+
+A. 300 mOsm/kg  
+B. 340 mOsm/kg  
+C. 190 mOsm/kg  
+D. 720 mOsm/kg
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. 340 mOsm/kg** — 2 × 150 + 720/18 = 340. Other options omit or misuse terms.
+
+</details>
+
+**G19. [Emergency] Adult DKA with potassium 3.1 mmol/L. Under 2024 consensus, what is appropriate?**
+
+A. Start insulin without potassium assessment  
+B. Give oral glucose only  
+C. Replace potassium and defer insulin until safe  
+D. Restrict all fluids
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Replace potassium and defer insulin until safe** — Insulin shifts potassium intracellularly and can precipitate dangerous hypokalemia. Follow emergency fluids and electrolyte protocol.
+
+</details>
+
+**G20. [Diabetes] Which feature is part of standard postpartum follow-up after gestational diabetes?**
+
+A. No glucose testing ever again  
+B. Radioiodine scan  
+C. Water deprivation test  
+D. 75-g OGTT around 4–12 weeks
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. 75-g OGTT around 4–12 weeks** — GDM raises later diabetes risk; OGTT assesses postpartum glucose tolerance. Other tests do not address this risk.
+
+</details>
+
+## 21. Additional reported PYQ leads (2026)
+- [NORCET 10 Mains, question 60](https://nextnurse.in/pyq/norcet/norcet-norcet-10-mains): reported NPH insulin properties. Revise onset/peak, cloudy suspension, hypoglycemia risk, mixing.
+- [NORCET 5 Prelims 2023, shift 2](https://nprep.in/question-answer/which-of-the-following-test-would-confirm-thyroid-disorder-TcEBiFkPh3vcSaCStwjj9): reported thyroid diagnostic testing. Revise TSH/free T4 patterns; test choice depends on context.
+- [NORCET 3 Shift 1, 2022](https://nextnurse.in/pyq/norcet/norcet-norcet-3-shift-1): reported patient education in type 2 diabetes; oral treatment does not imply mild disease or eliminate complications.
+- [NORCET 10 Prelims 2026](https://nextnurse.in/pyq/norcet/norcet-norcet-10-prelims): reported severe hyperglycemia case; revise ketones, hydration, electrolyte assessment and protocol-based insulin.
+
+These are third-party reported exam topics, not independently authenticated official papers or verbatim questions. No frequency estimate asserted.
+
+**Audit outcome:** All broad INC adult endocrine unit headings covered; additional detail and 20 original questions included. Full official NORCET/HPRCA/PGIMER paper authentication, exhaustive duplicate check across existing question sets, and more long mocks remain open. Rare specialist conditions are intentionally not exhaustive. Study status remains not studied.
