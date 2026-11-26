@@ -51,6 +51,13 @@
 
 ## Foundation and circulation
 
+**Easy Hinglish — pehle concept samjho**
+
+Sabse pehle heart ko ek double water pump samjho. Right side body se oxygen-poor blood lekar lungs bhejti hai. Lungs mein blood ko oxygen milti hai. Left side us blood ko poori body mein bhejti hai. Dono sides ka kaam alag hai, lekin circulation ek continuous cycle hai.
+
+**Confusion clear karo:** Atrium blood receive karta hai, ventricle blood pump karta hai. Valve ek one-way door ki tarah hai. Artery aur vein ka naam blood kis direction mein ja raha hai, usse decide hota hai, oxygen se nahi.
+
+
 ![Colourful Foundation and circulation study highlight](../Assets/cardio-circulation-highlight.svg)
 
 > **🟠 HIGH | Foundation and circulation**
@@ -126,6 +133,13 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 - 
 
 ## Coronary circulation and physiology
+
+**Easy Hinglish — pehle concept samjho**
+
+Heart sabko blood deta hai, lekin heart muscle ko khud bhi oxygen chahiye. Coronary arteries heart ki apni supply line hain. Agar supply kam ho jaaye, toh muscle ko oxygen kam milti hai — ise ischemia kehte hain.
+
+**Example:** Ek heartbeat mein heart pehle fill hota hai, fir contract karke blood bahar bhejta hai aur fir relax hota hai. Systole = contraction; diastole = relaxation aur filling. Cardiac output batata hai ek minute mein kitna blood pump hua, jabki ejection fraction batata hai filled blood ka kitna percent ek beat mein bahar nikla.
+
 
 ![Colourful Coronary circulation and physiology study banner](../Assets/cardio-coronary-highlight.svg)
 
@@ -263,6 +277,13 @@ F --> A
 
 ## Assessment and investigations
 
+**Easy Hinglish — pehle concept samjho**
+
+Patient ko assess karte waqt pehle samjho ki problem pumping mein hai, rhythm mein hai ya blood supply mein. Jaise gaadi kharab hone par sirf horn check nahi karte, waise heart ke liye bhi har test alag cheez batata hai.
+
+**Example:** ECG electrical activity dikhata hai; Echo ultrasound se heart ki movement, valves aur pumping dekhne mein help karta hai; troponin heart muscle injury ka marker hai. Sirf ek test se har cardiac disease diagnose nahi hoti.
+
+
 ![Colourful Assessment and investigations study banner](../Assets/cardio-assessment-highlight.svg)
 
 > **🟠 HIGH | Assessment and investigations**
@@ -372,6 +393,13 @@ Serial values matter: acute rise/fall troponin is injury, clinical ischemia need
 - [Assessment source](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment).
 
 ## ECG and dysrhythmias
+
+**Easy Hinglish — pehle concept samjho**
+
+ECG ko heart ki electricity ka record samjho. P wave atria ki depolarization, QRS ventricles ki depolarization aur T wave ventricles ki repolarization dikhati hai. Electricity aur muscle contraction related hain, lekin exactly same cheez nahi.
+
+**Step by step:** Pehle rate dekho → rhythm regular hai ya irregular → P wave → PR interval → QRS. Ab in findings ko patient ke pulse, BP aur symptoms se match karo. Monitor par rhythm dikhne ka matlab zaroori nahi ki effective pulse bhi ho.
+
 
 ![Colourful ECG and dysrhythmias study highlight](../Assets/cardio-ecg-highlight.svg)
 
@@ -509,6 +537,13 @@ Bundle branch block: QRS ≥0.12 s, RBBB typical terminal R in V1 and broad S in
 
 ## Ischemic heart disease and ACS
 
+**Easy Hinglish — pehle concept samjho**
+
+Socho heart ki supply line mein blockage ho gaya. Heart muscle ko demand ke hisaab se oxygen nahi mil rahi, toh ischemia ho sakti hai. Agar severe ischemia se muscle cells damage hokar marne lagen, toh myocardial infarction (MI) ho sakta hai.
+
+**Confusion clear karo:** Angina mein ischemia hoti hai, lekin acute myocardial necrosis nahi; MI mein acute myocardial injury ke saath ischemia ka evidence hota hai. Chest pain, ECG aur troponin ko saath interpret karna hota hai.
+
+
 ![Colourful Ischemic heart disease and ACS study highlight](../Assets/cardio-emergency-highlight.svg)
 
 > **🔴 VERY HIGH — MUST REVISE | Ischemic heart disease and ACS**
@@ -635,6 +670,13 @@ Do not use pain relief after nitro to prove coronary origin. Record onset and ba
 
 ## Heart failure and cardiomyopathy
 
+**Easy Hinglish — pehle concept samjho**
+
+Heart failure ka matlab heart band hona nahi hai. Matlab heart body ki zaroorat ke hisaab se blood supply maintain nahi kar paa raha, ya filling pressure abnormal hai.
+
+**Example:** Left side mein blood peeche lungs ki taraf congest ho sakta hai, isliye breathlessness aur orthopnea (letne par saans ki dikkat). Right side mein systemic veins mein congestion ho sakta hai, isliye pairon mein edema aur raised JVP. Dono ek saath bhi ho sakte hain.
+
+
 ![Colourful Heart failure and cardiomyopathy study highlight](../Assets/cardio-heartfailure-highlight.svg)
 
 > **🔴 VERY HIGH | Heart failure and cardiomyopathy**
@@ -748,6 +790,13 @@ V --> R
 
 ## Hypertension and vascular disorders
 
+**Easy Hinglish — pehle concept samjho**
+
+BP ko pipes ke andar blood ke pressure ki tarah samjho. Heart pumping aur vessels ki resistance dono BP ko affect karte hain. Lambe time tak high BP rehne se heart ko zyada load ke against pump karna pad sakta hai.
+
+**Confusion clear karo:** Sirf high BP number aur hypertensive emergency same nahi. Emergency mein acute target-organ damage hota hai. Vascular disease mein artery blood pahunchati hai, vein blood wapas laati hai; blockage ki location se symptoms alag ho sakte hain.
+
+
 ![Colourful Hypertension and vascular disorders study banner](../Assets/cardio-hypertension-highlight.svg)
 
 > **🟠 HIGH | Hypertension and vascular disorders**
@@ -839,6 +888,13 @@ Arterial ischemic ulcer distal toes/pressure points, punched-out, painful, cool 
 
 ## Valve and inflammatory diseases
 
+**Easy Hinglish — pehle concept samjho**
+
+Valve ko ek one-way door samjho. Door poora nahi khulta toh blood ko aage jaane mein dikkat — stenosis. Door poora band nahi hota toh blood reverse direction mein leak karta hai — regurgitation.
+
+**Example:** Mitral stenosis mein LA se LV ki filling obstruct hoti hai. Mitral regurgitation mein ventricular contraction ke time kuch blood LV se LA mein wapas jaata hai. Dono mein breathlessness ho sakti hai, par mechanism alag hai.
+
+
 ![Colourful Valve and inflammatory diseases study banner](../Assets/cardio-valves-highlight.svg)
 
 > **🟠 HIGH | Valve and inflammatory diseases**
@@ -921,6 +977,13 @@ Stenosis = narrow opening, pressure overload upstream; regurgitation = backward 
 
 ## Congenital and pediatric cardiovascular disease
 
+**Easy Hinglish — pehle concept samjho**
+
+Congenital ka matlab birth se present condition. Heart ki partition ya blood vessels ka connection normal se alag ho sakta hai. Shunt ka matlab blood ka abnormal route se doosri side jaana.
+
+**Confusion clear karo:** Left-to-right aur right-to-left shunt direction blood pressure aur vascular resistance par depend karti hai. Right-to-left shunt mein oxygen-poor blood systemic circulation tak pahunch sakta hai, isliye cyanosis ho sakti hai.
+
+
 ![Colourful Congenital and pediatric cardiovascular disease study banner](../Assets/cardio-congenital-highlight.svg)
 
 > **🟠 HIGH | Congenital and pediatric cardiovascular disease**
@@ -987,6 +1050,13 @@ AO --> UA[Umbilical arteries] --> PL
 - 
 
 ## Shock resuscitation and critical care
+
+**Easy Hinglish — pehle concept samjho**
+
+Shock ka simple matlab tissues tak adequate blood flow aur oxygen delivery nahi ho paa rahi. Sirf low BP ko shock mat samajhna — early shock mein BP normal bhi ho sakta hai.
+
+**Analogy:** Supply tank mein fluid kam ho toh hypovolemic, pump weak ho toh cardiogenic, pipe ka control abnormal ho toh distributive, aur flow ke raaste mein mechanical rukawat ho toh obstructive shock. Patient mein signs overlap kar sakte hain.
+
 
 ![Colourful Shock resuscitation and critical care study highlight](../Assets/cardio-emergency-highlight.svg)
 
@@ -1088,6 +1158,13 @@ Synchronized cardioversion aligns shock with R to avoid vulnerable T; check sync
 After ROSC stabilize airway/oxygenation/ventilation, avoid hypoxia/hyperoxia and hypotension, ECG and cause investigation, seizure/temperature monitoring, multidisciplinary ICU. Neurologic prognosis delayed and multimodal; no premature pessimistic conclusion. [AHA adult BLS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support), [ALS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support/).
 
 ## Cardiac pharmacology and nursing procedures
+
+**Easy Hinglish — pehle concept samjho**
+
+Drug ka naam ratne se pehle samjho ki woh heart rate, contraction, blood pressure, fluid ya clotting mein se kis cheez ko affect karti hai.
+
+**Example:** Diuretic se fluid kam ho sakta hai, lekin electrolytes bhi disturb ho sakte hain. Anticoagulant clot banne ya badhne ka risk kam karta hai, par bleeding risk badh sakta hai. Nurse drug ke indication ke saath vitals, lab reports aur adverse effects check karti hai.
+
 
 ![Colourful Cardiac pharmacology and nursing procedures study banner](../Assets/cardio-pharmacology-highlight.svg)
 
