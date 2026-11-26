@@ -158,6 +158,8 @@ The learner explicitly requests all curriculum chapters prepared in advance. Thi
 **Current mock progress: 7/175 across 4/35 chapters.** [Current status and direct mock links](Chapters/NORCET-Full-Chapter-Index.md#current-mock-progress--26-november-2026). This update adds 176 newly authored practice questions. 168 full-length mocks remain pending.
 
 
-### [Nervous System — Study-ready theory](Chapters/Nervous-System/README.md)
+### [Nervous System — Study-ready notes and 120 MCQs](Chapters/Nervous-System/README.md)
 
 [Concepts and topic plan](Chapters/Nervous-System/README.md) · [Previous Year Questions](Chapters/Nervous-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Nervous-System/Revision/Nervous-System-Quick-Revision.md).
+
+**Nervous System practice:** [120 original topic-wise questions across 8 groups](Chapters/Nervous-System/README.md) · [120-question compiled mock](Chapters/Nervous-System/Mock-Tests/Nervous-System-Mock-01-120.md). Full mock expansion pending.
