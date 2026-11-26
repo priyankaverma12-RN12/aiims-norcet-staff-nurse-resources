@@ -6,6 +6,22 @@
 
 Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 
+## Day 4 — Last 7 extra high-yield topics (Flail chest to Mantoux)
+
+Ye topics final audit mein padhe the. Alag-alag existing concept guides mein save hain. Neeche topic name par click karo — seedha relevant section khulega.
+
+| Topic | Direct theory link |
+|---|---|
+| 1. Flail chest & pulmonary contusion | [Open theory](Concepts/Day-04-Lung-Abscess-Empyema-Cancer-Chest-Injuries.md#flail-chest-and-contusion) |
+| 2. Pulmonary hypertension | [Open theory](Concepts/Day-04-OSA-Fibrosis-CF-Upper-Airway.md#fibrosis-occupational-diseases-pulmonary-hypertension-sarcoidosis) |
+| 3. Hemoptysis | [Open theory](Concepts/Day-04-Lung-Abscess-Empyema-Cancer-Chest-Injuries.md#hemoptysis) |
+| 4. Allen test & ABG sampling | [Open theory](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md#day-4-revisit--abg-compensation-and-sampling) |
+| 5. Sarcoidosis | [Open theory](Concepts/Day-04-OSA-Fibrosis-CF-Upper-Airway.md#fibrosis-occupational-diseases-pulmonary-hypertension-sarcoidosis) |
+| 6. Artificial airway emergencies | [Open theory](Concepts/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md#ett-and-tracheostomy) |
+| 7. Mantoux test & BCG | [Open theory](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md#india-specific-tb-extension--26-november-2026) |
+
+[Day 4 topic-wise practice and grand mock](#day-4--completion-practice) · [Day 4 quick revision](Revision/Day-04-Quick-Revision.md)
+
 ## 📖 Yahan se start karo — apna day select karo
 
 | Day | Full concept guide | MCQ practice | Extra |
