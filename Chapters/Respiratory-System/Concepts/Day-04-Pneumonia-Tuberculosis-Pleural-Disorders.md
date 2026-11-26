@@ -154,3 +154,7 @@ Emergency nursing: ABC, urgent escalation, oxygen if hypoxemic, hemodynamic moni
 
 ## India-specific TB extension — 26 November 2026
 NTEP = National Tuberculosis Elimination Programme; RNTCP older name; DOTS = Directly Observed Treatment, Short-course; CBNAAT cartridge-based nucleic acid amplification test; Ni-kshay notification/management; MDR-TB resistance to at least H and R. Indian NTEP standard drug-sensitive regimen 2HRZE intensive + 4HRE continuation (selected patients require different regimen); [ICMR/NTEP source](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964686_2_ntep_18032022.pdf). Mantoux intradermal, read 48–72 hours, measure induration mm not redness; risk-based interpretation, positive test alone does not prove active TB. BCG live attenuated, protects mainly young children against severe TB (meningeal/disseminated). [WHO TST](https://tbksp.who.int/en/node/2029) · [CDC TST](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html).
+
+## Completion practice
+
+[Matching MCQs](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Day 4 quick revision](../Revision/Day-04-Quick-Revision.md) · [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). New practice unattempted.
