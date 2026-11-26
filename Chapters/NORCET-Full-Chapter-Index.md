@@ -1,5 +1,19 @@
 # NORCET Full Chapter Index — curriculum-based study map
 
+## Current mock progress — 26 November 2026
+
+| Chapter | Published 120-question tests |
+|---|---:|
+| [Respiratory](Respiratory-System/Mock-Tests/Respiratory-System-Mock-Test-Plan.md) | 3 |
+| [Cardiovascular](Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md) | 2 |
+| [Endocrine](Endocrine-System/Mock-Tests/Endocrine-System-Mock-Test-Plan.md) | 1 |
+| [Neurological](Neurological-System/Mock-Tests/Neurological-System-Mock-Test-Plan.md) | 1 |
+| Other 31 chapters | 0 |
+| **Total** | **7 of 175** |
+
+Four of 35 chapters have at least one full-length mock. Seven tests contain 840 practice slots. 168 further tests are needed to reach five per chapter. This update adds 176 distinct newly authored questions to the topic banks (120 neurological and 56 cardiovascular). Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+
+
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
 
 ## Exam pattern and custom mock goal
