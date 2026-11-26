@@ -17,3 +17,15 @@ Checked 26 November 2026. One scanned historical question visually verified; off
 [Related concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [Original practice](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md). No question in practice bank is labeled official PYQ.
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](../References.md)
+
+## Chambers and valves evidence
+
+| Exam | Session | Question | Topic | Source status / answer |
+|---|---|---|---|---|
+| HPSSC Staff Nurse | 2021 reported | Q42 | S2 closure | [Third-party transcription](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/); option 3 aortic and pulmonic, medically reasoned, official key not verified |
+| HP Staff Nurse | 5 May 2026, shift 3, code 25026 as reported | Q38 | Abnormal interatrial shunt | [Third-party transcription](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/25026-shift-3-05-may-2026); D ASD, medically reasoned, official key not verified |
+| NORCET | Session unspecified | Not verified | S2 | [Coaching/question collection](https://www.wonderslate.com/u/Central/aiims/all-subjects/pyqs?siteName=books); unverified original exam attribution |
+| DSSSB Staff Nurse | 2013 reported | Not verified | Mitral listening area | [Third-party compilation](https://www.scribd.com/document/1054039402/Cardiovascular-system-question-answers); reported, official key not verified |
+| PGIMER / SGPGI / RRB / JIPMER | Various | Not located | Exact chamber/valve questions | No verified official exact question located in this search |
+
+[Chambers and valves concepts](../Concepts/Day-04-Chambers-Valves.md) · [Practice](../MCQs/Day-04-Chambers-Valves.md) · [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md). Full wording not reproduced; open source for original options. No official answer key verified.
