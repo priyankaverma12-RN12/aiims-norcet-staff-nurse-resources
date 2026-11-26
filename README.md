@@ -25,6 +25,10 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 ## 📚 Abhi available chapter
 
+**[Day 4 — Last 7 extra high-yield topics: Flail chest to Mantoux](Chapters/Respiratory-System/README.md#day-4--last-7-extra-high-yield-topics-flail-chest-to-mantoux)**
+
+
+
 | Chapter | Read | Practice | Previous Year Questions |
 |---|---|---|---|
 | **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1 full guide](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 full guide](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 3 diseases](Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [40 Day 1 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [51 Day 2 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [HP scanned 2022 + NORCET memory-based](Chapters/Respiratory-System/Previous-Year-Questions/README.md) |
