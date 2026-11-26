@@ -45,7 +45,7 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 ### 🧠 [Endocrine System — Study-ready notes](Chapters/Endocrine-System/README.md)
 
-[Endocrine concepts, topic-wise practice MCQs and initial mock test](Chapters/Endocrine-System/README.md) — beginner-friendly Hinglish, gland-wise topics and nursing priorities. First edition; expanded diagrams, larger question bank and verified PYQs pending. Not marked as studied.
+[Endocrine Master Guide](Chapters/Endocrine-System/Concepts/Endocrine-System-Master-Guide.md) · [113 topic-wise MCQs](Chapters/Endocrine-System/MCQs/Endocrine-Topic-Wise.md) · [25 mock questions](Chapters/Endocrine-System/MCQs/Endocrine-Mixed-Mocks.md) · [Previous Year Questions evidence](Chapters/Endocrine-System/Previous-Year-Questions/README.md) · [Revision](Chapters/Endocrine-System/Revision/Endocrine-Quick-Revision.md). Study-ready, not marked studied; official PYQ authentication pending.
 
 ## 🧭 Kaise padhna hai?
 
