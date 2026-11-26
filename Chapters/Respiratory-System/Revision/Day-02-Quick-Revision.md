@@ -65,3 +65,5 @@ Ye uncomplicated teaching patterns hain; clinical ABG interpretation zyada detai
 ---
 
 **🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📝 36 MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+
+[Day 2 diagnostics Q37–51](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [25-question final mock](../MCQs/Day-02-Final-Mock-25.md).
