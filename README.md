@@ -61,3 +61,10 @@ Chapters/
 **Source honesty:** Original practice ko *actual official Previous Year Question* nahi bolenge. Scanned historic paper aur memory-based NORCET content mein clear difference rakhenge. Reference ranges clinical context aur altitude se vary hoti hain.
 
 [🔎 Medical fact-check sources](Chapters/Respiratory-System/References.md) · [📋 Notes add karne ke rules](CONTRIBUTING.md)
+
+
+## Day 4 — Pneumonia, TB and pleural disorders
+
+[Detailed Hinglish concepts and quick revision](Chapters/Respiratory-System/Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](Chapters/Respiratory-System/MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Chapters/Respiratory-System/Assets/day-04-alveoli-pleura.svg)
+
+Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; proposed new emergency topics are not marked completed.
