@@ -147,3 +147,6 @@ The learner explicitly requests all curriculum chapters prepared in advance. Thi
 [Respiratory: 3 tests](Chapters/Respiratory-System/Mock-Tests/Respiratory-System-Mock-Test-Plan.md) · [Cardiovascular: 1 test](Chapters/Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md) · [Endocrine: 1 test](Chapters/Endocrine-System/Mock-Tests/Endocrine-System-Mock-Test-Plan.md).
 
 600 question slots selected from prior original question banks. These are not 600 new questions. Full 5–6 mock series for all 35 chapters is pending. [Live repository coverage index](Chapters/NORCET-Full-Chapter-Index.md).
+
+
+**Additional paper research:** 19 more source-linked adapted questions, bringing this expansion to 33. [Chapter-specific links](Chapters/NORCET-Full-Chapter-Index.md#additional-india-wide-paper-research).

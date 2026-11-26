@@ -100,3 +100,23 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 | Endocrine | 1 | 120 | [Mock 1](Endocrine-System/Mock-Tests/Endocrine-System-Mock-01-120.md) |
 
 These five tests are revision compilations of prior original practice questions. They add 600 practice slots, not 600 newly authored questions. Each test contains 120 distinct normalized stems and 120 hidden answer blocks. The three Respiratory tests have no exact repeated stem between them. Older answer explanations remain in the original style and need a full conversational rewrite. The remaining 32 chapters do not yet have a full-length mock. Five per chapter means 175 tests across 35 chapters, of which five are currently assembled. Six per chapter means 210.
+
+
+## Additional India-wide paper research
+
+19 additional source-linked adapted questions were added: 15 traced to the HPSSC 2022 scanned booklet and 4 reported by RRB, PGIMER, DSSSB and ESIC collections. Combined with the initial 14, this expansion contains 33 source-linked adaptations. No official answer-key authentication is claimed.
+
+- [Gastrointestinal System — 1 additional questions](Gastrointestinal-System/Previous-Year-Questions/Gastrointestinal-System-India-Wide-Additional-Reported-PYQs.md)
+- [Anatomy and Physiology — 1 additional questions](Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-India-Wide-Additional-Reported-PYQs.md)
+- [Musculoskeletal System — 1 additional questions](Musculoskeletal-System/Previous-Year-Questions/Musculoskeletal-System-India-Wide-Additional-Reported-PYQs.md)
+- [Community Health Nursing — 2 additional questions](Community-Health-Nursing/Previous-Year-Questions/Community-Health-Nursing-India-Wide-Additional-Reported-PYQs.md)
+- [Obstetric and Midwifery Nursing — 1 additional questions](Obstetric-and-Midwifery-Nursing/Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-India-Wide-Additional-Reported-PYQs.md)
+- [Renal and Urinary System — 2 additional questions](Renal-and-Urinary-System/Previous-Year-Questions/Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md)
+- [Emergency and Critical Care Nursing — 1 additional questions](Emergency-and-Critical-Care-Nursing/Previous-Year-Questions/Emergency-and-Critical-Care-Nursing-India-Wide-Additional-Reported-PYQs.md)
+- [Nursing Management and Education — 1 additional questions](Nursing-Management-and-Education/Previous-Year-Questions/Nursing-Management-and-Education-India-Wide-Additional-Reported-PYQs.md)
+- [Nursing Research and Statistics — 2 additional questions](Nursing-Research-and-Statistics/Previous-Year-Questions/Nursing-Research-and-Statistics-India-Wide-Additional-Reported-PYQs.md)
+- [Nutrition and Dietetics — 1 additional questions](Nutrition-and-Dietetics/Previous-Year-Questions/Nutrition-and-Dietetics-India-Wide-Additional-Reported-PYQs.md)
+- [Pharmacology — 2 additional questions](Pharmacology/Previous-Year-Questions/Pharmacology-India-Wide-Additional-Reported-PYQs.md)
+- [Mental Health Nursing — 2 additional questions](Mental-Health-Nursing/Previous-Year-Questions/Mental-Health-Nursing-India-Wide-Additional-Reported-PYQs.md)
+- [Biochemistry and Pathology — 1 additional questions](Biochemistry-and-Pathology/Previous-Year-Questions/Biochemistry-and-Pathology-India-Wide-Additional-Reported-PYQs.md)
+- [Eye and ENT Nursing — 1 additional questions](Eye-and-ENT-Nursing/Previous-Year-Questions/Eye-and-ENT-Nursing-India-Wide-Additional-Reported-PYQs.md)

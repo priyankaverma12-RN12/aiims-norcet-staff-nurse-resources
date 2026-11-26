@@ -17,3 +17,8 @@ Question-level entries are in named chapter Previous-Year-Questions files when f
 [Aarogyam Fundamentals MCQs](https://www.youtube.com/watch?v=q4pI8nzTclw) · [Community Nursing MCQ rationales](https://www.youtube.com/watch?v=ICx3rh_PAso). Public title/description located, full playback not reviewed. More topic-specific teaching and practice video verification is pending.
 
 [Full chapter index](NORCET-Full-Chapter-Index.md)
+
+
+## Scanned HP paper and other question-level sources
+
+[HPSSC 2022 Staff Nurse scanned booklet, code C-774/2022/Series A, post 933](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf). Question numbers are recorded in the relevant chapter adaptation files. Third-party hosting, official answer key not matched. Further reported RRB, PGIMER, DSSSB and ESIC items are linked individually in their files. [Question index](NORCET-Full-Chapter-Index.md#additional-india-wide-paper-research).
