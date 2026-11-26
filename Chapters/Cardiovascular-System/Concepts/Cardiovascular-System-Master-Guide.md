@@ -51,6 +51,8 @@
 
 ## Foundation and circulation
 
+![Colourful Foundation and circulation study highlight](../Assets/cardio-circulation-highlight.svg)
+
 > **🟠 HIGH | Foundation and circulation**
 > - 🎯 **Most important:** Blood flow sequence, vessels, valves, circulation exceptions
 > - 🧠 **Exam trap:** Pulmonary artery carries deoxygenated blood; artery = away from heart
@@ -311,6 +313,8 @@ Serial values matter: acute rise/fall troponin is injury, clinical ischemia need
 
 ## ECG and dysrhythmias
 
+![Colourful ECG and dysrhythmias study highlight](../Assets/cardio-ecg-highlight.svg)
+
 > **🔴 VERY HIGH — MUST REVISE | ECG and dysrhythmias**
 > - 🎯 **Most important:** P-QRS-T, PR/QRS intervals, rhythm identification, AF, VT/VF, heart blocks
 > - 🧠 **Exam trap:** VF/pulseless VT are shockable; asystole/PEA are not
@@ -424,6 +428,8 @@ Bundle branch block: QRS ≥0.12 s, RBBB typical terminal R in V1 and broad S in
 
 ## Ischemic heart disease and ACS
 
+![Colourful Ischemic heart disease and ACS study highlight](../Assets/cardio-emergency-highlight.svg)
+
 > **🔴 VERY HIGH — MUST REVISE | Ischemic heart disease and ACS**
 > - 🎯 **Most important:** Stable angina vs ACS, STEMI/NSTEMI, ECG changes, troponin, urgent nursing priorities
 > - 🧠 **Exam trap:** Normal initial troponin does not exclude early MI
@@ -512,6 +518,8 @@ Do not use pain relief after nitro to prove coronary origin. Record onset and ba
 - [2025 ACS guideline](https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes).
 
 ## Heart failure and cardiomyopathy
+
+![Colourful Heart failure and cardiomyopathy study highlight](../Assets/cardio-heartfailure-highlight.svg)
 
 > **🔴 VERY HIGH | Heart failure and cardiomyopathy**
 > - 🎯 **Most important:** Left vs right HF, pulmonary edema, EF, diuretics and nursing care
@@ -801,6 +809,8 @@ AO --> UA[Umbilical arteries] --> PL
 - 
 
 ## Shock resuscitation and critical care
+
+![Colourful Shock resuscitation and critical care study highlight](../Assets/cardio-emergency-highlight.svg)
 
 > **🔴 VERY HIGH — MUST REVISE | Shock resuscitation and critical care**
 > - 🎯 **Most important:** Shock types, perfusion, CPR, defibrillation, emergency priorities
