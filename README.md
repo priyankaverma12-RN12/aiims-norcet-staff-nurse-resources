@@ -113,3 +113,19 @@ Har chapter mein 32 naye topic-wise questions aur 20-question mixed mock. Sabhi 
 | Endocrine | [Open questions](Chapters/Endocrine-System/MCQs/Endocrine-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Endocrine-System/MCQs/Endocrine-Clinical-Mock-20.md) |
 
 **Total: 96 topic-wise + 60 mock questions = 156 new original practice entries.** 83 Medium and 73 Difficult. Previous Year Questions remain separate.
+
+
+## Learner rule — complete sentences and conversational teaching
+
+- Write explanations the way a friendly nursing teacher would actually speak to the learner in a one-to-one conversation. Use natural, everyday Roman Hinglish with complete grammatical sentences, including the subject, verb and necessary connecting words. Do not write telegraphic notes, half sentences or strings of disconnected facts.
+- Explain every medical term in simple words when first introduced. Then connect the cause, what happens inside the body, the signs the patient develops, and what the nurse should do. Use words such as "kyunki", "isliye", "jab", "toh" and "iska matlab hai" naturally so the reasoning flows.
+- Use short, connected paragraphs by default for teaching. Bullets or numbered steps are allowed when they help organize information, but each explanatory bullet must still contain complete sentences. Tables, diagram labels, formulas, headings and very short revision mnemonics may remain compact. Never use those as a substitute for the full explanation.
+- Apply this style to all three existing systems, all future chapters, chat teaching, clinical examples, nursing management, MCQ answer rationales, wrong-option explanations and mock-test solutions. Keep English question stems and options intact. Retain detailed NORCET-level medical content, priority labels, diagrams, video links and source evidence. Do not simplify by removing important concepts.
+- Do not use semicolon punctuation in newly authored learner-facing prose. Use full stops and natural transitions instead. Preserve exact sourced question wording and technical syntax when required.
+- Before publishing, read the explanations as if speaking them aloud. If any sentence sounds unfinished, overly compressed or difficult for a beginner, rewrite it. A quick beginner introduction alone does not satisfy this rule. The detailed body of each explanation must also be conversational.
+
+**Example of what to avoid:** "Prolactin milk banata, oxytocin milk let-down. Dopamine normally prolactin inhibit karta hai."
+
+**Required style:** "Dekho, prolactin ek hormone hai jo delivery ke baad breast mein doodh banne mein madad karta hai. Jab baby doodh peeta hai, tab oxytocin hormone breast ki chhoti muscles ko contract karne ka signal deta hai. Isse bana hua doodh breast se bahar aata hai. Isi process ko milk let-down reflex kehte hain. Ab dopamine ka role samjho. Brain ka hypothalamus dopamine release karta hai, jo normally pituitary gland ko prolactin kam release karne ka signal deta hai. Jab baby breastfeed karta hai, tab dopamine ka ye rokne wala signal kam ho jaata hai. Is wajah se prolactin ka level badh sakta hai aur doodh banne mein madad milti hai. Exam ke liye yaad rakho ki prolactin doodh banane mein madad karta hai aur oxytocin doodh bahar nikalne mein madad karta hai."
+
+This rule strengthens all earlier plain-language and formatting rules. It does not replace them.
