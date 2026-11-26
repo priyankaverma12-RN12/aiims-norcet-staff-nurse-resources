@@ -22,3 +22,7 @@ Rhinitis nasal mucosa; sinusitis sinuses; pharyngitis pharynx; tonsillitis tonsi
 - Teaching: [Critical care nursing, Dr Ujjwal](https://www.youtube.com/watch?v=urPD3YtXua0), [NORCET Xpress respiratory](https://www.youtube.com/watch?v=3dWnyE63nJ8). MCQ: [Aarogyam Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo), [Mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck). Metadata checked, full transcripts not reviewed; individual topic video matches not all verified.
 
 [Chapter](../README.md) | [Day 4 previous concepts](Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [References](../References.md)
+
+## Completion practice
+
+[Matching MCQs](../MCQs/Day-04-OSA-Fibrosis-CF-Upper-Airway.md) · [Day 4 quick revision](../Revision/Day-04-Quick-Revision.md) · [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). New practice unattempted.
