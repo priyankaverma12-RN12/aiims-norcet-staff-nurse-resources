@@ -53,7 +53,7 @@
 
 **Easy Hinglish — pehle concept samjho**
 
-Sabse pehle heart ko ek double water pump samjho. Right side body se oxygen-poor blood lekar lungs bhejti hai. Lungs mein blood ko oxygen milti hai. Left side us blood ko poori body mein bhejti hai. Dono sides ka kaam alag hai, lekin circulation ek continuous cycle hai.
+Sabse pehle samjho ki hamari body ko blood circulation ki zaroorat kyun hai. Body ke har cell ko kaam karne ke liye oxygen aur nutrients chahiye. Blood ye cheezein cells tak pahunchata hai. Heart baar-baar contract (sikudta) aur relax hota hai, jiski wajah se blood poori body mein circulate karta rehta hai. Isi process ko blood circulation kehte hain.
 
 **Confusion clear karo:** Atrium blood receive karta hai, ventricle blood pump karta hai. Valve ek one-way door ki tarah hai. Artery aur vein ka naam blood kis direction mein ja raha hai, usse decide hota hai, oxygen se nahi.
 
@@ -72,30 +72,51 @@ Sabse pehle heart ko ek double water pump samjho. Right side body se oxygen-poor
 
 **English definition:** The cardiovascular system consists of the heart and blood vessels that circulate blood to deliver oxygen and nutrients and remove metabolic waste.
 
-**Simple Hindi-English:** Heart ek pump hai; vessels delivery aur return ka network hain. Har cell ko oxygen aur nutrients pahunchte hain, waste remove hota hai. **Exam focus: Very High.**
+### Cardiovascular system kya hota hai?
+
+Cardiovascular system ka kaam hai body ke har part tak blood pahunchana. Jab hum saans lete hain toh lungs mein blood ko oxygen milti hai. Lekin sirf lungs mein oxygen milna kaafi nahi hai. Oxygen ko brain, kidneys, muscles aur baaki organs tak bhi pahunchana hota hai. Ye kaam heart aur blood vessels milkar karte hain.
+
+| Part | Simple language mein kaam |
+|---|---|
+| **Heart** | Blood ko aage bhejta hai, taaki blood poori body tak pahunch sake |
+| **Blood vessels** | Ye woh naaliyan hain jinmein se blood ek jagah se doosri jagah jaata hai |
+| **Blood** | Oxygen, nutrients aur hormones body ke parts tak le jaata hai aur CO₂ aur waste products ko hatane mein help karta hai |
+
+**Blood lungs tak kyun jaata hai?** Jab body ke cells oxygen use kar lete hain, toh blood mein oxygen kam ho jaati hai. Ye blood heart ke right side mein wapas aata hai. Right ventricle ise lungs mein bhejta hai. Lungs mein blood oxygen leta hai aur CO₂ chhodta hai. Ab oxygen-rich blood heart ke left side mein aata hai. Left ventricle ise dobara poori body mein bhej deta hai.
+
+**Yaad rakho:** Right side of heart → Lungs; Left side of heart → Body. **Exam focus: Very High.**
 **Very High:** anatomy, valve sounds and blood flow. Existing detailed nonduplicate foundation: [heart anatomy, layers, pericardium, cardiac muscle, embryology](Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md); [chambers, valves, septa, great vessels and auscultation](Day-04-Chambers-Valves.md). In dono ko isi master chapter ka Part 1 samjho; existing explanations aur diagrams wahan preserved hain.
 
-- Heart ko do pumps samjho jo series mein kaam karte hain.
-- Right pump oxygen-poor blood lungs bhejta hai; left pump oxygen-rich blood body ko.
-- Artery heart se door, vein heart ki taraf; oxygen content definition nahi.
-- Pulmonary artery aur veins classic exceptions to oxygen-content shortcut.
-- Systemic aur pulmonary circuits ka flow long-term equal hota hai; imbalance congestion produce karta hai.
+### Blood circulation mein right aur left side ka kaam
+
+- Right aur left side ek ke baad ek kaam karti hain. Right side ka blood pehle lungs mein jaata hai, phir left side se body mein jaata hai.
+- **Artery** woh blood vessel hai jo blood ko heart se door le jaati hai. **Vein** woh blood vessel hai jo blood ko heart ki taraf laati hai.
+- Pulmonary artery mein oxygen-poor blood hota hai aur pulmonary veins mein oxygen-rich blood. Isliye artery ya vein ko sirf oxygen ke basis par identify mat karna.
+- Normally lambe samay mein right aur left heart se pump hone wale blood ki quantity barabar rehti hai. Agar ek side se blood aage properly nahi jaata, toh blood peeche jama ho sakta hai (congestion).
 
 ```mermaid
 flowchart TD
 Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventricle] --> P[Pulmonary valve] --> PA[Pulmonary arteries] --> L[Lungs] --> PV[Pulmonary veins] --> LA[Left atrium] --> M[Mitral valve] --> LV[Left ventricle] --> A[Aortic valve] --> AO[Aorta] --> Body
 ```
 
-- Arteries: thick elastic/muscular media pressure handle karti hai.
-- Arterioles resistance regulate karte hain; capillaries thin endothelial exchange surface; veins low-pressure capacitance reservoir, valves especially limbs mein backflow rokne mein help.
-- Skeletal muscle pump aur breathing venous return support karte hain.
-- Tunica intima endothelial lining, media smooth muscle, adventitia external support.
-- Elastic arteries pulse dampen karte; muscular arteries distribution.
-- Continuous capillaries muscle, fenestrated kidney/endocrine, sinusoidal liver/bone marrow.
-- Hydrostatic pressure fluid outward push karta; plasma oncotic pressure outward filtration oppose karta.
-- Lymphatic system excess interstitial fluid/protein return karta.
-- Edema venous congestion, low albumin, permeability ya lymph obstruction se ho sakta.
-- Clinical example: HF mein venous hydrostatic pressure badhkar edema; nephrotic syndrome mein albumin loss; unilateral lymph obstruction mein localized edema.
+### Blood vessels kya hoti hain aur inka kaam kya hai?
+
+| Vessel | Easy Hindi-English explanation |
+|---|---|
+| **Arteries** | Heart se blood bahar le jaati hain. Inki muscular aur elastic wall thick hoti hai, taaki high pressure ko handle kar sakein |
+| **Arterioles** | Arteries ki chhoti branches hain. Ye apna diameter badal kar blood flow aur resistance control karti hain |
+| **Capillaries** | Bahut patli blood vessels hain. Inki thin endothelial wall se blood aur tissues ke beech oxygen, nutrients aur waste ka exchange hota hai |
+| **Veins** | Low pressure par blood ko heart ki taraf laati hain. Inmein kaafi blood store reh sakta hai. Haath-pair ki kai veins ke valves blood ko ulta behne se rokte hain |
+
+Jab hum chalte hain toh leg muscles veins ko press karti hain aur blood ko heart ki taraf bhejne mein help karti hain. Breathing ke time chest ke pressure mein changes bhi venous return mein help karte hain.
+
+**Blood vessel ki wall ki layers:** Tunica intima sabse andar ki endothelial lining hai, tunica media mein smooth muscle hoti hai aur tunica adventitia bahar se support deti hai. Elastic arteries har heartbeat ke pressure mein hone wale changes ko kam karti hain; muscular arteries blood ko alag-alag organs tak pahunchati hain.
+
+**Capillaries ke types:** Continuous (muscles), fenestrated yani chhote openings wali (kidneys aur endocrine organs), aur sinusoidal yani relatively bade gaps wali (liver aur bone marrow).
+
+**Edema kyun hota hai?** Hydrostatic pressure fluid ko capillaries se bahar tissues ki taraf dhakelta hai. Plasma oncotic pressure, jo mainly blood proteins ki wajah se hota hai, fluid ke bahar jaane ko oppose karta hai. Lymphatic system excess tissue fluid aur proteins wapas circulation mein laata hai. Agar venous pressure badhe, albumin kam ho, vessel permeability badhe ya lymph ka raasta block ho, toh tissues mein fluid jama ho sakta hai. Isi ko edema kehte hain.
+
+**Clinical examples:** Heart failure mein veins ka pressure badhne se edema ho sakta hai. Nephrotic syndrome mein albumin loss se edema ho sakta hai. Ek taraf lymph drainage block ho toh usi jagah swelling ho sakti hai.
 
 ### Blood vessels, microcirculation and venous return — detailed concept
 
@@ -105,7 +126,7 @@ Body --> V[SVC and IVC] --> RA[Right atrium] --> T[Tricuspid] --> RV[Right ventr
 > **📌 PYQ EVIDENCE** — Specific repeated-question count not verified; this is a study-priority label, not a past-paper claim.
 
 
-- Imagine ek city ka water supply: main pipe aorta, distribution pipes arteries, narrow adjustable taps arterioles, house ke paas exchange capillaries, aur return pipes veins.
+**Blood ka raasta samjho:** Aorta se blood arteries mein jaata hai, fir chhoti arterioles aur capillaries tak pahunchta hai. Capillaries mein cells ke saath exchange hota hai. Fir venules aur veins blood ko wapas heart tak laati hain.
 - Arterioles ka radius thoda kam ho to resistance bahut badh sakti hai (ideal laminar tube mein R proportional 1/r⁴); actual vessels elastic hain, but concept useful.
 - Vasodilation local blood supply badhati; exercise muscle metabolic products aur nitric oxide arterioles dilate karte hain.
 - Sympathetic alpha-1 vasoconstriction skin/splanchnic blood flow redirect kar sakti hai.
@@ -155,7 +176,11 @@ Heart sabko blood deta hai, lekin heart muscle ko khud bhi oxygen chahiye. Coron
 
 **English definition:** Coronary circulation supplies the myocardium, while cardiac physiology explains how electrical activation, pressure, and contraction generate blood flow.
 
-**Hindi-English explanation:** Heart body ko blood bhejta hai, lekin apne muscle ko bhi oxygen chahiye. Coronary arteries ye kaam karti hain. Heart ki pumping pressure aur valve movement par depend karti hai. **Very High.**
+### Coronary circulation kya hoti hai?
+
+Heart poori body ko blood pahunchata hai, lekin heart khud bhi muscle se bana hai. Is muscle ko **myocardium** kehte hain. Myocardium ko bhi oxygen aur nutrients chahiye, kyunki heart lagataar kaam karta hai. Coronary arteries myocardium ko oxygen-rich blood pahunchati hain. Heart muscle se blood coronary veins ke through wapas jaata hai, jiska major hissa coronary sinus se right atrium mein aata hai. Isi circulation ko coronary circulation kehte hain.
+
+**Dhyan de:** Heart ke chambers mein jo blood hai, sirf us blood se heart muscle ki poori oxygen ki zaroorat poori nahi hoti. Coronary blood supply zaroori hai. **Very High.**
 **Very High:** LAD, RCA, LCX; cardiac cycle, CO, EF, preload/afterload.
 - Left main coronary artery usually LAD aur circumflex mein divide.
 - LAD anterior LV, apex aur anterior two-thirds septum ko supply karti hai.
@@ -294,7 +319,9 @@ Patient ko assess karte waqt pehle samjho ki problem pumping mein hai, rhythm me
 
 **English definition:** Cardiovascular assessment evaluates perfusion, rhythm, congestion, structural function and symptoms through history, examination and targeted testing.
 
-**Hindi-English:** Sirf BP dekhkar patient stable assume mat karo. Pulse, mental status, urine, breathing, JVP aur ECG bhi evaluate karo. **Very High.**
+### Cardiovascular assessment kya hota hai?
+
+Jab patient ko chest pain, saans lene mein dikkat, chakkar ya swelling hoti hai, toh nurse ko check karna hota hai ki heart blood properly bhej paa raha hai ya nahi. Sirf BP normal hone ka matlab ye nahi ki patient bilkul theek hai. Pulse se rate aur rhythm ka pata lagta hai. Patient ki consciousness, urine output aur skin se blood supply ke clues milte hain. Breathing aur JVP (gardan ki vein ka pressure estimate) se fluid jama hone ka pata lag sakta hai. ECG se heart ki electrical activity check karte hain. **Very High.**
 **Very High:** chest pain, pulses, JVP, ECG, troponin, echo, cath and nursing priorities.
 - History: onset/provocation/quality/radiation/severity/time; dyspnea on exertion, orthopnea, PND (sleep se breathlessness), syncope, palpitations, weight gain, edema, claudication.
 - Diabetes/older adults/women may have nonclassic ischemic symptoms; no chest pain does not exclude ACS.
@@ -415,7 +442,11 @@ ECG ko heart ki electricity ka record samjho. P wave atria ki depolarization, QR
 
 **English definition:** An electrocardiogram records electrical potential changes generated by the heart; a dysrhythmia is an abnormality of impulse formation or conduction.
 
-**Hindi-English:** ECG electrical signal dikhata hai, directly pumping force nahi. Isliye abnormal tracing par patient aur pulse bhi check karo. **Very High.**
+### ECG kya hota hai?
+
+Heart ki har dhadkan se pehle electrical signal banta hai. Ye signal heart ke muscle tak pahunchta hai aur muscle contract karti hai. ECG skin par lagaye electrodes ki help se electrical activity record karta hai. Isse pata chal sakta hai ki heartbeat kitni tez hai, regular hai ya nahi aur signal sahi tarah aage ja raha hai ya nahi.
+
+**Dhyan de:** ECG par electrical activity dikhna aur heart ka blood pump karna alag baatein hain. Isliye nurse patient ki condition aur pulse bhi check karti hai. **Very High.**
 **Very High, case and image based.** SA node intrinsic normal sinus 60–100/min, AV junction escape 40–60, ventricular escape 20–40 approx. SA initiates; AV delay allows filling; His/bundle branches/Purkinje distribute fast coordinated ventricular activation. Pacemaker phase 4 spontaneous depolarization; calcium-mediated upstroke in nodal cells. Working myocyte fast sodium upstroke, calcium plateau, potassium repolarization. Long refractory period prevents tetany.
 
 ```mermaid
@@ -558,7 +589,9 @@ Socho heart ki supply line mein blockage ho gaya. Heart muscle ko demand ke hisa
 
 **English definition:** Myocardial ischemia occurs when oxygen supply is inadequate for demand; myocardial infarction involves acute myocardial injury due to ischemia.
 
-**Hindi-English:** Jab coronary artery se oxygen kam milti hai, chest pain ho sakta hai. Agar ischemia myocardial cells ko injure kare, MI ho sakta hai. **Very High.**
+### Myocardial ischemia aur MI mein kya difference hai?
+
+Heart muscle ko kaam karne ke liye lagataar oxygen chahiye. Agar coronary artery mein blood flow kam ho jaaye aur muscle ko zaroorat ke hisaab se oxygen na mile, toh ise **myocardial ischemia** kehte hain. Isse chest pain ho sakta hai. Agar oxygen ki kami se heart muscle ke cells marne lagen, toh myocardial infarction (MI) ho sakta hai. MI identify karne ke liye acute myocardial injury ke saath ischemia ka evidence chahiye. **Very High.**
 **Very High:** risk factors, types of angina, MI ECG, biomarkers, drugs and complications.
 - Atherosclerosis: endothelial dysfunction → lipid entry/inflammation → plaque → narrowing or rupture/thrombosis.
 - Fixed stenosis causes demand ischemia (stable angina); acute plaque event may cause ACS.
@@ -691,7 +724,9 @@ Heart failure ka matlab heart band hona nahi hai. Matlab heart body ki zaroorat 
 
 **English definition:** Heart failure is a clinical syndrome caused by structural or functional cardiac abnormalities, with impaired output and/or elevated filling pressures.
 
-**Hindi-English:** Weak ya stiff heart blood adequately pump ya fill nahi kar pata. Blood lungs ya systemic veins ki taraf back up kar sakta hai. **Very High.**
+### Heart failure kya hota hai?
+
+Heart failure ka matlab ye nahi ki heart ne dhadakna band kar diya hai. Ismein heart ki muscle kamzor ho sakti hai ya itni stiff ho sakti hai ki heart properly fill nahi ho paata. Body ki zaroorat ke hisaab se blood supply kam ho sakti hai ya heart ke andar filling pressure badh sakta hai. Jab left side mein pressure badhta hai toh lungs mein congestion ho sakti hai aur patient ko saans lene mein dikkat hoti hai. Jab right side mein pressure badhta hai toh body ki veins mein blood ka pressure badh sakta hai aur pairon mein swelling ho sakti hai. **Very High.**
 **Very High:** left/right HF, EF, pulmonary edema, drugs, daily weight.
 - HF syndrome: heart unable to deliver adequate output or needs abnormally high filling pressures.
 - Left HF backs up into lungs (dyspnea, crackles, orthopnea, PND); right HF systemic veins (JVP, hepatomegaly, dependent edema, ascites).
@@ -811,7 +846,9 @@ BP ko pipes ke andar blood ke pressure ki tarah samjho. Heart pumping aur vessel
 
 **English definition:** Hypertension is persistently elevated arterial blood pressure; vascular disorders affect arterial delivery, venous return or vessel integrity.
 
-**Hindi-English:** Long-term high pressure heart, brain, kidney aur blood vessels ko damage kar sakta hai. Arterial aur venous disease ke symptoms alag mechanism se aate hain. **High to Very High.**
+### Hypertension kya hota hai?
+
+Blood jab arteries ke andar se guzarta hai toh unki wall par pressure padta hai. Agar blood pressure lagataar normal se zyada rahe, toh ise hypertension kehte hain. Lambe samay tak high BP ki wajah se heart ko zyada pressure ke against blood bhejna pad sakta hai. Brain, kidneys aur blood vessels ko bhi damage ho sakta hai. Arteries mein problem hone par organs tak blood pahunchne mein dikkat hoti hai, jabki veins mein problem hone par blood ke wapas heart tak jaane mein dikkat ho sakti hai. **High to Very High.**
 **Very High:** correct BP, emergency vs asymptomatic, DVT/PAD, aneurysm.
 - BP depends on CO × SVR approximately; primary hypertension multifactorial, secondary renal/endocrine/drug causes.
 - 2025 US AHA adult categories normal <120 and <80; elevated 120–129 and <80; stage 1 130–139 or 80–89; stage 2 ≥140 or ≥90.
@@ -909,7 +946,9 @@ Valve ko ek one-way door samjho. Door poora nahi khulta toh blood ko aage jaane 
 
 **English definition:** Valvular stenosis obstructs forward flow; regurgitation permits backward flow. Inflammatory conditions can affect the endocardium, myocardium or pericardium.
 
-**Hindi-English:** Valve ek one-way door hai. Agar narrow ho to flow obstruct, agar leak ho to blood wapas aata hai. Heart ki different layers ki inflammation ke symptoms bhi different hote hain. **High to Very High.**
+### Heart valves mein disease hone par kya hota hai?
+
+Normal valve blood ko sahi direction mein jaane deta hai aur wapas aane se rokta hai. Agar valve ka opening chhota ho jaaye aur blood aage jaane mein dikkat ho toh ise **stenosis** kehte hain. Agar valve poori tarah band na ho aur blood wapas leak ho toh ise **regurgitation** kehte hain. Heart ki alag-alag layers mein inflammation (soojan) bhi ho sakti hai, jaise endocarditis, myocarditis aur pericarditis. Kis layer mein problem hai, uske hisaab se symptoms alag ho sakte hain. **High to Very High.**
 **High to Very High:** murmur timing, RF, endocarditis, pericarditis, tamponade.
 Stenosis = narrow opening, pressure overload upstream; regurgitation = backward leak, volume overload. Mechanical valve typically long-term VKA; bioprosthetic strategy varies. Dental hygiene and follow-up essential; antibiotic prophylaxis limited to selected high-risk patients/procedures.
 | Lesion | Classic murmur and clue |
@@ -998,7 +1037,9 @@ Congenital ka matlab birth se present condition. Heart ki partition ya blood ves
 
 **English definition:** Congenital heart disease is a structural cardiovascular abnormality present at birth, which can alter blood flow or oxygenation.
 
-**Hindi-English:** Birth se heart ya great vessels ki structure abnormal ho sakti hai. Kuch defects lungs mein extra blood bhejte hain, kuch oxygen-poor blood body mein bhejte hain. **High.**
+### Congenital heart disease kya hoti hai?
+
+Congenital ka matlab hai birth se present condition. Kabhi baby ke heart ke chambers ke beech ki wall properly develop nahi hoti ya blood vessels ka connection normal se alag hota hai. Is wajah se blood ka raasta badal sakta hai. Kuch defects mein lungs mein zyada blood jaata hai. Kuch mein oxygen-poor blood body mein pahunch sakta hai, jisse cyanosis (skin ya lips ka neela padna) ho sakti hai. **High.**
 **High:** shunts, TOF, PDA, coarctation, fetal circulation. Fetal placenta oxygenates blood. Umbilical vein carries oxygen-rich blood; ductus venosus bypasses much liver, foramen ovale RA→LA, ductus arteriosus pulmonary artery→aorta, two umbilical arteries back placenta. After birth lungs expand → PVR drops, LA pressure rises → functional FO closure; oxygen rise and prostaglandin fall promote ductal closure. Persistent fetal connection may be disease.
 
 ```mermaid
@@ -1072,7 +1113,9 @@ Shock ka simple matlab tissues tak adequate blood flow aur oxygen delivery nahi 
 
 **English definition:** Shock is life-threatening circulatory failure resulting in inadequate tissue oxygen delivery or utilization; cardiac arrest is loss of effective circulation.
 
-**Hindi-English:** Low BP shock ka clue hai, definition nahi. Tissues ko oxygen nahi mil rahi ho to urgent action chahiye. Arrest mein effective pulse absent hota hai. **Very High.**
+### Shock kya hota hai?
+
+Body ke cells ko zinda rehne ke liye oxygen chahiye. Jab blood circulation ya oxygen ke use mein itni serious problem ho ki cells ki zaroorat poori na ho, toh ise shock kehte hain. Low BP iska sign ho sakta hai, lekin shuru mein BP normal bhi reh sakta hai. Cardiac arrest mein heart effective circulation maintain nahi kar paata aur effective pulse nahi milti. Dono mein urgent assessment aur treatment zaroori hai. **Very High.**
 **Very High:** types, perfusion, BLS/ACLS, cardioversion vs defibrillation.
 - Shock inadequate tissue oxygen delivery/utilization; early BP may preserved.
 - Look altered mentation, poor urine, cool skin (warm possible distributive), lactate trend, tachycardia.
@@ -1180,7 +1223,9 @@ Drug ka naam ratne se pehle samjho ki woh heart rate, contraction, blood pressur
 
 **English definition:** Cardiovascular drugs and interventions modify heart rate, contractility, vascular resistance, fluid balance, clotting or coronary flow.
 
-**Hindi-English:** Har drug ka action aur monitoring alag hai. Drug dene se pehle BP, pulse, relevant labs, contraindications aur order check karo. **Very High.**
+### Cardiac drugs ko kaise samjhein?
+
+Har cardiac medicine ka kaam alag hota hai. Kuch medicines heartbeat slow karti hain, kuch BP kam karti hain, kuch extra fluid nikalne mein help karti hain aur kuch blood clot banne ka risk kam karti hain. Nurse ko samajhna hai ki patient ko particular medicine kyun di ja rahi hai. Dene se pehle order, BP, pulse, relevant lab reports aur contraindications (kab medicine nahi deni chahiye) check karo. **Very High.**
 **Very High:** adverse effects, contraindications, monitoring and patient safety.
 | Drug/class | Action / nurse checks |
 |---|---|
