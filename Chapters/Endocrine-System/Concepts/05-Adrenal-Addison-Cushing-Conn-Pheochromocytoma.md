@@ -46,7 +46,7 @@
 
 - Addison mein ACTH high hota hai. secondary adrenal insufficiency mein skin ka rang gehra hona (hyperpigmentation) aur high potassium (hyperkalemia) usually nahi.
 - Adrenal crisis: severe hypotension, vomiting, weakness, confusion. Urgent ABC, IV hydrocortisone aur isotonic fluids per emergency protocol. glucose/electrolytes monitor.
-- Long-term steroids ko suddenly stop nahi karna. taper doctor ke order ki plan se. Sick-day rules aur steroid emergency card important.
+- Long-term steroids ko suddenly stop nahi karna. Dose doctor ke bataye plan se dheere-dheere kam karni hoti hai. Sick-day rules aur steroid emergency card important.
 - Cushing syndrome cortisol excess hai. Cushing disease specifically pituitary ACTH-secreting tumor. Steroid use common cause of Cushing syndrome.
 - Cushing nursing: infection, glucose, BP, fragile skin aur falls/fractures monitor.
 - Conn syndrome: primary aldosteronism. hypertension, low potassium ho sakta hai. Aldosterone-renin ratio screening.
@@ -113,13 +113,13 @@ flowchart TD
 
 [Addison disease lecture](https://www.youtube.com/watch?v=jxUXq7WoXhw) · [Mixed endocrine practice](https://www.youtube.com/watch?v=xcwJd5RbBb4)
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [Endocrine Society adrenal insufficiency](https://academic.oup.com/jcem/article/101/2/364/2810222) · [NIDDK Cushing](https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
