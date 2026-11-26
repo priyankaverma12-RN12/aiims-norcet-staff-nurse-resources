@@ -192,7 +192,7 @@ Uterine artery cervix ke paas ureter ke upar cross karti hai. Exam trick water u
 
 </details>
 
-### Q11. Which male reproductive structure contributes an alkaline secretion containing enzymes such as PSA?
+### Q11. Which male reproductive structure contributes a secretion containing enzymes such as PSA?
 
 **Difficulty:** Medium | **Priority:** Medium
 

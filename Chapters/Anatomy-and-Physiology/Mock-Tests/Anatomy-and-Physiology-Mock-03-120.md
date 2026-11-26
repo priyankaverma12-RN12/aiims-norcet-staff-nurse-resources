@@ -2221,7 +2221,7 @@ Aldosterone distal nephron mein sodium channels aur pumps ki activity badhata ha
 
 [Topic bank: Renal and urinary anatomy and physiology, Q9](../MCQs/11-Renal-and-Urinary-Physiology-20-MCQs.md)
 
-### Q106. Which male reproductive structure contributes an alkaline secretion containing enzymes such as PSA?
+### Q106. Which male reproductive structure contributes a secretion containing enzymes such as PSA?
 
 **Difficulty:** Medium | **Priority:** Medium
 

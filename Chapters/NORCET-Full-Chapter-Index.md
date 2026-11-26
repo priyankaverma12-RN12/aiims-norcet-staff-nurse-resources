@@ -83,7 +83,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 |---|---|---|---|---|
 | [Pharmacology](Pharmacology/README.md) | [Topic map](Pharmacology/Concepts/) | [4 starter questions](Pharmacology/MCQs/) | [Mock plan](Pharmacology/Mock-Tests/Pharmacology-Mock-Test-Plan.md) | [Research queue](Pharmacology/Previous-Year-Questions/) |
 | [Nutrition and Dietetics](Nutrition-and-Dietetics/README.md) | [Topic map](Nutrition-and-Dietetics/Concepts/) | [4 starter questions](Nutrition-and-Dietetics/MCQs/) | [Mock plan](Nutrition-and-Dietetics/Mock-Tests/Nutrition-and-Dietetics-Mock-Test-Plan.md) | [Research queue](Nutrition-and-Dietetics/Previous-Year-Questions/) |
-| [Applied Anatomy and Physiology](Anatomy-and-Physiology/README.md) | [Topic map](Anatomy-and-Physiology/Concepts/) | [600 topic-wise questions](Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | [Research queue](Anatomy-and-Physiology/Previous-Year-Questions/) |
+| [Applied Anatomy and Physiology](Anatomy-and-Physiology/README.md) | [Topic map](Anatomy-and-Physiology/Concepts/) | [600 topic-wise questions](Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | [40 reported adaptations](Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md) |
 | [Biochemistry and General Pathology](Biochemistry-and-Pathology/README.md) | [Topic map](Biochemistry-and-Pathology/Concepts/) | [4 starter questions](Biochemistry-and-Pathology/MCQs/) | [Mock plan](Biochemistry-and-Pathology/Mock-Tests/Biochemistry-and-Pathology-Mock-Test-Plan.md) | [Research queue](Biochemistry-and-Pathology/Previous-Year-Questions/) |
 
 ## Workstream 8 — Professional subjects and aptitude
@@ -150,3 +150,6 @@ These five tests are revision compilations of prior original practice questions.
 ## Anatomy and Physiology practice completion
 
 600 new original topic-wise questions across 30 named topics and five 120-question chapter-only mock compilations are published. Each topic has 20 questions. No exact stem is repeated across the five mocks. The five-test minimum is met for this chapter. PYQ verification and full concept writing remain separate tasks.
+
+
+[Anatomy and Physiology PYQ index: 40 entries](Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md) and [video guide](Anatomy-and-Physiology/Anatomy-and-Physiology-Video-and-Research-Guide.md) are now published. Two HPRCA items are provisional leads. Full official key matching remains pending.

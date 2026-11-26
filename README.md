@@ -155,7 +155,7 @@ The learner explicitly requests all curriculum chapters prepared in advance. Thi
 [Neurological mock 01: 120 questions](Chapters/Neurological-System/Mock-Tests/Neurological-System-Mock-01-120.md). New clinical question banks total 120. That update brought the full-length mock count to six.
 
 
-**Current mock progress: 7/175 across 4/35 chapters.** [Current status and direct mock links](Chapters/NORCET-Full-Chapter-Index.md#current-mock-progress--26-november-2026). This update adds 176 newly authored practice questions. 168 full-length mocks remain pending.
+**Historical mock progress: 7/175 across 4/35 chapters.** [Current status and direct mock links](Chapters/NORCET-Full-Chapter-Index.md#current-mock-progress--26-november-2026). This update adds 176 newly authored practice questions. 168 full-length mocks remained pending at that update.
 
 
 ### [Nervous System — Study-ready notes and 120 MCQs](Chapters/Nervous-System/README.md)
@@ -163,3 +163,15 @@ The learner explicitly requests all curriculum chapters prepared in advance. Thi
 [Concepts and topic plan](Chapters/Nervous-System/README.md) · [Previous Year Questions](Chapters/Nervous-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Nervous-System/Revision/Nervous-System-Quick-Revision.md).
 
 **Nervous System practice:** [120 original topic-wise questions across 8 groups](Chapters/Nervous-System/README.md) · [120-question compiled mock](Chapters/Nervous-System/Mock-Tests/Nervous-System-Mock-01-120.md). Full mock expansion pending.
+
+
+## Learner rule — topic-first chapter-by-chapter preparation
+
+Start with Applied Anatomy and Physiology and proceed chapter by chapter. Do not scatter small starter sets across unrelated chapters in place of completing a chapter. Map the complete nursing-level syllabus using INC curriculum and staff nurse exam scope. Publish 20–30 or more distinct original English MCQs for every meaningful topic before assembling its five to six 120-question chapter-only mocks. Include Medium and Difficult clinical/application questions and relevant factual questions. Use complete everyday Roman Hinglish answer reasoning and explanations of incorrect options, with no semicolon punctuation. Use descriptive filenames. Keep mock stems distinct between the chapter's five tests where feasible and label topic-bank revision reuse rather than double-counting it. Research question-level NORCET, PGIMER, AIIMS, HPRCA/HPSSC, ESIC, RRB, DSSSB, SGPGI and other Indian staff nurse/CHO papers and coaching/video sources. List questions with answers and references, not just links. Distinguish official evidence, third-party transcripts and recall leads. Report incomplete authentication and theory honestly. Verify published counts before moving to another chapter.
+
+
+## Applied Anatomy and Physiology — topic-first milestone
+
+[600 original MCQs in 30 topic files](Chapters/Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) · [Five 120-question mocks](Chapters/Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) · [40 source-linked reported PYQ entries](Chapters/Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md).
+
+Current overall mock progress: 12/175 across 5/35 chapters. Full detailed theory notes and exhaustive official PYQ authentication are not complete.
