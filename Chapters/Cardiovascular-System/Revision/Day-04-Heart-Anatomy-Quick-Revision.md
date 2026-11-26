@@ -21,6 +21,9 @@
 | Long refractory period | Prevents sustained tetanus |
 | Dextrocardia | Right-directed apex |
 
+## Additional recall
+Heart development: splanchnic lateral plate mesoderm (HPSSC 2022 scanned Q43). [40 topic-wise MCQs and priority labels](../Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
+
 ## Targeted revision
 Fibrous = firm covering; myocardium = pumping; fluid = friction reduction. Effusion means excess fluid; tamponade means pressure impairs filling; MI means ischemic muscle injury/death. Tamponade may be an emergency. Re-read [concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) and try [practice](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md).
 
