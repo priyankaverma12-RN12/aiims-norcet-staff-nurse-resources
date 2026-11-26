@@ -1921,3 +1921,264 @@ D. 75-g OGTT around 4–12 weeks
 These are third-party reported exam topics, not independently authenticated official papers or verbatim questions. No frequency estimate asserted.
 
 **Audit outcome:** All broad INC adult endocrine unit headings covered; additional detail and 20 original questions included. Full official NORCET/HPRCA/PGIMER paper authentication, exhaustive duplicate check across existing question sets, and more long mocks remain open. Rare specialist conditions are intentionally not exhaustive. Study status remains not studied.
+
+
+## 22. 🔴 Disease-wise nursing responsibilities — bedside care and NORCET priorities
+
+**Nursing framework:** Assessment → identify priority problem → plan measurable outcome → intervene → reassess and document. ABC (airway, breathing, circulation) comes first in emergencies. Medicines, fluid restriction, IV electrolytes and infusion rates follow prescribed orders/approved protocols. Priority labels are study priorities, not verified PYQ frequency.
+
+### 🟠 Universal endocrine nursing care
+- Assess baseline and trends: BP, pulse, RR, temperature, SpO2, consciousness, pain, hydration, weight, intake/output, glucose and relevant laboratory tests. Review medicine history, allergies, pregnancy possibility where relevant and comorbidities.
+- Observe changes in skin, hair, appetite, bowel habits, vision, mobility and sleep. Record orthostatic symptoms; use fall precautions if indicated.
+- Explain tests, fasting/medicine instructions as ordered, obtain baseline samples correctly, label and report critical results promptly; do not independently withhold essential hormones.
+- Use medication rights, patient identification and infection prevention. Communicate deterioration with SBAR (situation, background, assessment, recommendation). Document intervention, response and handover.
+- Discharge: written action plan, warning signs, medicine schedule, follow-up and teach-back (patient apne shabdon mein samjhaye).
+
+### 🔴 Pituitary disorders and postoperative care
+- **Acromegaly/gigantism:** monitor BP, glucose, headache, visual field symptoms, sleep apnea and airway risk; protect painful joints, assist mobility, monitor treatment effects and body-image concerns. New severe headache or vision loss requires urgent escalation.
+- **Hypopituitarism/Sheehan syndrome:** assess fatigue, hypotension, hypoglycemia, menstrual history and lactation; monitor prescribed hormone replacement. Suspected cortisol deficiency must be addressed before thyroid hormone initiation by the medical team. Teach steroid emergency plan when prescribed.
+- **Prolactinoma:** monitor headache, visual symptoms, menstrual/lactation changes; check dizziness and orthostatic BP with dopamine agonists; reinforce follow-up.
+- **Transsphenoidal surgery:** baseline/post-op neuro and visual checks, strict I/O and sodium trend; report new polyuria, thirst, confusion, clear nasal drainage or sudden visual changes. Keep head elevated as ordered, avoid nose blowing/straining and nasal instrumentation unless authorized by surgical team; provide oral care, stool-softener teaching if ordered. Delayed hyponatremia may develop after discharge; reinforce symptoms and follow-up sodium testing.
+
+### 🔴 Diabetes insipidus (DI)
+- **Assessment:** measure urine volume, concentration/specific gravity, fluid intake, daily weight, pulse, BP, serum sodium and osmolality. Look for dry mucosa, tachycardia, orthostatic hypotension and altered consciousness.
+- **Action:** provide access to water if alert and permitted; support ordered fluid replacement, monitor response and administer prescribed desmopressin in central DI. Inability to drink or missed desmopressin in hospital can lead to severe dehydration; escalate early.
+- **Safety:** excessive desmopressin/water can cause hyponatremia. Monitor urine and sodium after treatment; supervised diagnostic water deprivation only.
+- **Goal:** stable circulation, hydration, sodium and urine trends. **Exam priority:** prevent dehydration and hypernatremia.
+
+### 🔴 SIADH
+- Measure strict I/O and daily weight on same scale, track sodium and neurologic status. Check for headache, nausea, confusion, decreased consciousness or seizure; assess cause/medicines.
+- Implement ordered fluid restriction including oral/IV sources; explain rationale, provide mouth care. Severe symptomatic hyponatremia is an emergency: protect airway, seizure safety, rapid escalation, ordered hypertonic saline with close sodium checks. Avoid overly rapid correction.
+- Monitor improvement in consciousness and sodium; report rapid changes. **Exam priority:** neurologic safety and controlled sodium correction.
+
+### 🔴 Hypothyroidism and myxedema coma
+- Routine care: monitor HR/BP, temperature, weight, fatigue, constipation and skin; provide comfortable warmth, skin care, gradual activity and bowel support appropriate to condition.
+- Give prescribed levothyroxine consistently, usually on empty stomach; separate iron/calcium by about 4 hours; explain long-term follow-up and symptoms of excess replacement (palpitations, tremor).
+- **Myxedema coma:** altered mental status + hypothermia + slow breathing/bradycardia. Activate emergency team, assess airway/ventilation, monitor ECG, glucose and electrolytes, maintain gentle/passive warmth, administer ordered IV thyroid hormone/glucocorticoid and supportive care. Avoid unprescribed sedatives or aggressive external warming.
+- **Goal:** adequate ventilation, stable circulation, improving mental status.
+
+### 🔴 Hyperthyroidism, Graves disease and thyroid storm
+- Monitor HR/rhythm, BP, temperature, weight, hydration, tremor, diarrhea and rest/sleep; quiet environment, comfortable cooling, nutrition support and activity paced to symptoms.
+- Administer prescribed antithyroid drugs and beta blockers; report fever/sore throat promptly (agranulocytosis concern) and jaundice/dark urine (liver injury concern). Teach medication adherence and labs.
+- Graves eye care: lubricants as ordered, head elevation, protect eyes and report new diplopia or loss of vision/color vision.
+- **Thyroid storm:** high fever, severe tachycardia, agitation/confusion. ABC, urgent escalation, ECG, oxygen if indicated, cooling, fluid support as ordered; give prescribed drugs in correct sequence (iodine after thionamide when applicable). Avoid aspirin for fever in thyroid storm unless specifically directed for another indication.
+- **Goal:** falling temperature/HR and improved mental status; prevent cardiac failure.
+
+### 🔴 Thyroidectomy — preoperative, postoperative, discharge
+- Pre-op: review thyroid status, vital signs, voice/swallow baseline, allergies, consent process and preparation orders. Teach supported neck movement, breathing exercises and warning signs.
+- Post-op: airway first; assess breathing, stridor, swallowing, voice, neck swelling/tightness and bleeding. Maintain semi-Fowler if appropriate with neck supported. Ensure oxygen/suction and emergency airway equipment accessible per policy; sudden neck swelling or respiratory distress → emergency surgical/airway escalation immediately.
+- Monitor calcium/PTH as ordered and tingling around mouth/fingers, cramps, carpal spasm, tetany; report promptly, administer ordered calcium and monitor ECG as indicated. Voice change may indicate laryngeal nerve dysfunction; persistent change needs evaluation.
+- Wound/pain care, safe oral intake after swallowing assessment as appropriate, medication teaching (thyroid hormone or calcium if prescribed). Return urgently for breathing difficulty, progressive swelling or severe spasms.
+- **Exam trap:** stridor/neck swelling overrides routine pain assessment; symptomatic hypocalcemia also requires prompt action.
+
+### 🔴 Hypoparathyroidism and hyperparathyroidism
+- **Hypoparathyroid:** monitor Ca, phosphate, magnesium, ECG/QT and neuromuscular symptoms. Seizure/fall precautions when indicated. Severe tetany/laryngospasm → airway assessment and urgent escalation; administer ordered IV calcium gluconate with ECG and IV site checks. Teach prescribed calcium/active vitamin D and lab follow-up.
+- **Hyperparathyroid:** monitor hydration, Ca, renal function, stones, bowel function and bone pain. Encourage fluids/mobility only if appropriate; use fall/fracture precautions. Report confusion, severe weakness, dysrhythmia or dehydration.
+- **After parathyroidectomy:** assess airway/neck as with thyroid surgery; monitor calcium and magnesium for postoperative hypocalcemia/hungry bone syndrome.
+
+### 🔴 Addison disease and adrenal crisis
+- Check BP including orthostatic changes, pulse, weight, I/O, sodium, potassium, glucose, nausea/vomiting, weakness and infection. Support safe mobility, prescribed nutrition and hormone replacement; monitor fludrocortisone response if prescribed.
+- Teach never abruptly discontinue chronic glucocorticoids; individualized sick-day dosing plan, medical alert/steroid card, emergency injection teaching for patient/family if prescribed. Vomiting preventing tablets or severe illness requires urgent care.
+- **Adrenal crisis:** hypotension/shock, vomiting, weakness or altered consciousness. ABC, activate emergency response, IV access, ordered immediate hydrocortisone and isotonic fluid resuscitation; glucose/dextrose and electrolytes as needed per protocol. Do not delay treatment while awaiting cortisol results.
+- **Goal:** restored BP/perfusion, safe glucose and electrolytes.
+
+### 🟠 Cushing syndrome, Conn syndrome and pheochromocytoma
+- **Cushing:** monitor BP, glucose, weight, edema, infection signs (may be subtle), skin bruising and wounds. Gentle handling/skin protection, fall and fracture prevention, appropriate nutrition, psychosocial support. Do not stop chronic steroids suddenly. After surgery monitor possible adrenal insufficiency.
+- **Conn:** monitor BP, K, renal function, ECG if indicated, weakness/cramps and response to prescribed mineralocorticoid antagonist or surgery; teach medicine and follow-up safety.
+- **Pheochromocytoma:** monitor BP/HR and headache/sweating/palpitations; minimize distress, avoid unnecessary abdominal tumor manipulation. Confirm prescribed alpha blockade before beta blockade; perioperative hemodynamic monitoring, post-op hypotension and hypoglycemia surveillance.
+- **CAH:** in infants monitor feeding, weight, vomiting, dehydration, glucose and electrolytes; suspected salt-wasting crisis requires emergency care. Teach caregiver medication/stress plan and follow-up.
+
+### 🔴 Diabetes mellitus and insulin administration
+- Assess glucose patterns, food intake, insulin/medicine timing, infection, hydration, renal status, feet and knowledge. In hospitalized adults, glucose usually before meals if eating, every 4–6 hours if not eating, and more frequently with IV insulin per protocol.
+- Verify patient/order, insulin type, concentration, units, device, glucose and meal availability; follow independent check policy. Rotate SC injection sites, avoid lipohypertrophy, use safe sharps disposal, never share pens. Match prescribed meal insulin timing; type 1 basal insulin must not be omitted without an appropriate alternative plan.
+- Monitor hypoglycemia and hyperglycemia; document readings, doses, food, symptoms, corrective actions and response. Report recurrent lows and seek regimen review. Do not adjust independently unless authorized protocol.
+- Foot care: daily inspection, protect feet, appropriate footwear, no barefoot walking, no self-cutting corns, prompt ulcer/infection review. Assess sensation and pulses. Teach individualized meal plan, activity, glucose monitoring, medication storage, sick-day plan and follow-up eye/kidney checks.
+- **Goal:** glucose within individualized target without hypoglycemia, intact skin, patient demonstrates safe self-care.
+
+### 🔴 Hypoglycemia, DKA and HHS — emergency nursing priorities
+| Situation | First priorities and monitoring | Reassessment |
+|---|---|---|
+| Hypoglycemia, awake and safely swallowing | Check glucose when possible without delaying care; fast carbohydrate per protocol (usually 15 g adult), recheck after 15 min; repeat if still low | Symptoms, glucose, meal/snack as appropriate, cause and medication review |
+| Hypoglycemia, unable to swallow | No oral food/drink; protect airway, emergency help, glucagon or IV dextrose per protocol | Consciousness and repeated glucose; prevent recurrence |
+| DKA | ABC, IV access, ordered isotonic/balanced fluids, glucose/ketones, blood gas, K and renal tests; potassium safety before insulin, pump/infusion checks | Glucose and vital signs frequently; electrolytes/ketones/pH per protocol; dextrose when indicated so insulin can continue until ketoacidosis resolves |
+| HHS | ABC, perfusion and dehydration assessment, ordered IV fluids, glucose, electrolytes, osmolality and neurologic monitoring; insulin per protocol | Gradual correction of osmolality/glucose, fluid balance, mental status and renal function |
+
+- Identify precipitating illness (infection, omitted insulin, medicines etc.); monitor for overload in older patients or cardiac/renal impairment. Adult DKA/HHS protocols differ from pediatric/pregnancy protocols.
+- In IV insulin transition, ensure prescribed overlap with SC basal insulin to avoid rebound hyperglycemia/DKA. Confirm patient/caregiver has supplies and follow-up before discharge.
+
+### 🟡 Other endocrine disorders and crossovers
+- Thyroid cancer/MEN: assess surgical/medication effects, voice/airway, calcium and emotional needs; reinforce specialist follow-up and genetic counseling referral when appropriate.
+- PCOS/metabolic syndrome: respectful education, assess BP, metabolic risks, menstrual concerns, promote sustainable lifestyle changes and follow-up; avoid weight stigma.
+- Gestational diabetes: reinforce prescribed glucose targets, diet/medicine safety and antenatal follow-up; coordinate maternal/newborn monitoring and postpartum glucose testing.
+- Pineal/sleep disturbances: sleep history, sleep hygiene education, medication review and referral if persistent. Thymus-related problems: assess infection risk where immune dysfunction exists; specialist-directed care.
+
+### Nursing care plan mini-example
+**DI:** Deficient fluid volume risk related to excessive urinary water loss → aim for stable BP, hydration, sodium and documented I/O → monitor urine, weight, sodium, prescribed fluid/desmopressin response → reassess thirst, circulation and labs.
+**Post-thyroidectomy:** Risk of airway compromise → maintain adequate ventilation and no progressive neck swelling → airway checks, supported position, emergency readiness, rapid escalation for stridor → document respiratory status and response.
+
+### References
+- [OpenStax Medical-Surgical Nursing, endocrine chapter](https://openstax.org/books/medical-surgical-nursing/pages/21-summary)
+- [OpenStax pituitary disorders](https://openstax.org/books/medical-surgical-nursing/pages/21-4-pituitary-disorders)
+- [American Thyroid Association multidisciplinary thyroid surgery consensus](https://journals.sagepub.com/doi/10.1177/10507256261442596)
+- [Endocrine Society primary adrenal insufficiency guideline](https://academic.oup.com/jcem/article/101/2/364/2810222)
+- [ADA 2026 hospital diabetes care](https://doi.org/10.2337/dc26-s016), [ADA 2026 glycemic emergencies](https://doi.org/10.2337/dc26-S006), [2024 adult hyperglycemic crisis consensus](https://doi.org/10.2337/dci24-0032)
+
+## 23. 📝 Nursing responsibilities — 12 original clinical priority MCQs
+
+**NR1. A patient after thyroidectomy develops stridor and increasing neck tightness. Priority?**
+
+A. Routine dressing change  
+B. Activate emergency airway/surgical response  
+C. Offer oral fluids  
+D. Teach discharge diet
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Activate emergency airway/surgical response** — Airway obstruction may progress rapidly; do not delay for routine tasks.
+
+</details>
+
+**NR2. A patient with DI cannot drink due to reduced consciousness. Which risk is most urgent to monitor?**
+
+A. Excess calcium intake  
+B. Chronic constipation alone  
+C. Dehydration and rising sodium  
+D. Increased melatonin
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Dehydration and rising sodium** — Loss of free water without access to replacement can cause circulatory compromise and hypernatremia.
+
+</details>
+
+**NR3. A patient with SIADH becomes confused and has a seizure. What should the nurse prioritize?**
+
+A. Encourage unlimited water  
+B. Walk the patient alone  
+C. Wait for routine rounds  
+D. Airway and seizure safety with emergency escalation
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Airway and seizure safety with emergency escalation** — Severe symptomatic hyponatremia needs urgent controlled correction; protect the patient first.
+
+</details>
+
+**NR4. After pituitary surgery, the patient reports clear nasal drainage and new severe headache. Best response?**
+
+A. Urgently report possible CSF leak  
+B. Encourage nose blowing  
+C. Insert a nasal swab independently  
+D. Ignore if afebrile
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Urgently report possible CSF leak** — Possible CSF leakage warrants prompt surgical assessment.
+
+</details>
+
+**NR5. A patient with severe hypothyroidism is hypothermic and hypoventilating. Immediate priority?**
+
+A. Aggressive heating alone  
+B. Assess and support ventilation  
+C. Sedative for sleep  
+D. Routine thyroid education
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Assess and support ventilation** — Myxedema coma threatens ventilation and circulation.
+
+</details>
+
+**NR6. A patient taking long-term steroids for Addison disease is vomiting and cannot retain tablets. What is appropriate?**
+
+A. Stop steroids indefinitely  
+B. Take no action until tomorrow  
+C. Urgent medical assessment and prescribed emergency steroid plan  
+D. Restrict all fluids
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Urgent medical assessment and prescribed emergency steroid plan** — Inability to retain replacement can precipitate adrenal crisis.
+
+</details>
+
+**NR7. A patient with Cushing syndrome has fragile skin and reduced bone density. Which care is appropriate?**
+
+A. Strong adhesive removal without support  
+B. Unassisted walking despite dizziness  
+C. Abrupt steroid withdrawal  
+D. Gentle skin handling and fall prevention
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Gentle skin handling and fall prevention** — Skin fragility and fracture risk need injury prevention.
+
+</details>
+
+**NR8. An inpatient is prescribed prandial insulin but the meal is delayed. What should the nurse do?**
+
+A. Check glucose and coordinate meal/dose timing per protocol  
+B. Give regardless of meal availability  
+C. Cancel all basal insulin  
+D. Double the next dose
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Check glucose and coordinate meal/dose timing per protocol** — Uncoordinated meal insulin increases hypoglycemia risk; basal and prandial needs differ.
+
+</details>
+
+**NR9. A patient with diabetes is unconscious and suspected hypoglycemic. What is contraindicated?**
+
+A. Calling emergency help  
+B. Giving juice by mouth  
+C. Airway assessment  
+D. Ordered IV dextrose
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: B. Giving juice by mouth** — Unsafe swallowing creates aspiration risk.
+
+</details>
+
+**NR10. An adult with DKA receives IV insulin. Which monitoring is especially important for treatment-related electrolyte risk?**
+
+A. Thyroid ultrasound  
+B. Visual acuity only  
+C. Serial potassium  
+D. Daily height
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: C. Serial potassium** — Insulin shifts potassium into cells; monitor and replace per protocol.
+
+</details>
+
+**NR11. A patient after parathyroidectomy has new lip tingling and carpal spasm. What should the nurse do?**
+
+A. Encourage walking without assessment  
+B. Give unprescribed insulin  
+C. Ignore until next visit  
+D. Report possible hypocalcemia and assess airway/ECG as indicated
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: D. Report possible hypocalcemia and assess airway/ECG as indicated** — Neuromuscular irritability can signal falling calcium; severe cases threaten airway and rhythm.
+
+</details>
+
+**NR12. Which action best evaluates discharge teaching for a patient starting insulin?**
+
+A. Ask the patient to demonstrate injection and explain low-glucose management  
+B. Ask only whether they understand  
+C. Provide a leaflet without discussion  
+D. Assume family will manage
+
+<details><summary>Show answer & explanation</summary>
+
+**Correct: A. Ask the patient to demonstrate injection and explain low-glucose management** — Teach-back and return demonstration identify misunderstandings before discharge.
+
+</details>
+
+**Status:** Disease-wise nursing responsibilities and 12 original clinical practice MCQs added; not authenticated PYQs. Study status unchanged.
