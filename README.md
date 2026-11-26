@@ -65,10 +65,14 @@ Chapters/
 
 ## Day 4 — Pneumonia, TB and pleural disorders
 
-[Detailed Hinglish concepts and quick revision](Chapters/Respiratory-System/Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](Chapters/Respiratory-System/MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Chapters/Respiratory-System/Assets/day-04-alveoli-pleura.svg)
+[Detailed Hinglish concepts and quick revision](Chapters/Respiratory-System/Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [45 original English MCQs (5 earlier attempted)](Chapters/Respiratory-System/MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Chapters/Respiratory-System/Assets/day-04-alveoli-pleura.svg)
 
-Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; proposed new emergency topics are not marked completed.
+Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; respiratory failure, ARDS and PE theory presented.
 
 ## Day 2–3 — 170 new practice questions
 
 [Day 2 bank (51 total)](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 2 mock (25)](Chapters/Respiratory-System/MCQs/Day-02-Final-Mock-25.md) · [Day 3 diseases (55)](Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md) · [Day 3 nursing (45)](Chapters/Respiratory-System/MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [Day 3 mock (30)](Chapters/Respiratory-System/MCQs/Day-03-Final-Mock-30.md). All newly added questions are unattempted practice, not official papers.
+
+## Respiratory completion — 156 new MCQs
+
+[Complete topic-wise index](Chapters/Respiratory-System/README.md#day-4--completion-practice) · [50-question grand mock](Chapters/Respiratory-System/MCQs/Respiratory-System-Grand-Mock-50.md) · [Day 4 quick revision](Chapters/Respiratory-System/Revision/Day-04-Quick-Revision.md) · [Exam research](Chapters/Respiratory-System/Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). All new questions are unattempted, original practice. Total respiratory bank: 422.
