@@ -9,10 +9,11 @@
 | [Endocrine](Endocrine-System/Mock-Tests/Endocrine-System-Mock-Test-Plan.md) | 1 |
 | [Neurological](Neurological-System/Mock-Tests/Neurological-System-Mock-Test-Plan.md) | 1 |
 | [Anatomy and Physiology](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | 5 |
-| Other 30 chapters | 0 |
-| **Total** | **12 of 175** |
+| [Nursing Foundations](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | 5 |
+| Other 29 chapters | 0 |
+| **Total** | **17 of 175** |
 
-Five of 35 chapters have at least one full-length mock. Twelve tests contain 1440 practice slots. 163 further tests are needed to reach five per chapter. This update adds 176 distinct newly authored questions to the topic banks (120 neurological and 56 cardiovascular). Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 158 further tests are needed to reach five per chapter. Anatomy and Physiology and Nursing Foundations have each met the five-mock minimum with 600 original questions per chapter. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -26,7 +27,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
-| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [4 starter questions](Nursing-Foundations/MCQs/) | [Mock plan](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [1 reported adaptations](Nursing-Foundations/Previous-Year-Questions/) |
+| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [600 topic-wise questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [4 starter questions](Infection-Control-and-Microbiology/MCQs/) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [2 reported adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
@@ -153,3 +154,8 @@ These five tests are revision compilations of prior original practice questions.
 
 
 [Anatomy and Physiology PYQ index: 40 entries](Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md) and [video guide](Anatomy-and-Physiology/Anatomy-and-Physiology-Video-and-Research-Guide.md) are now published. Two HPRCA items are provisional leads. Full official key matching remains pending.
+
+
+## Nursing Foundations — topic-first milestone
+
+600 newly authored questions in 30 topic files, five nonoverlapping 120-question mock compilations, 34 source-linked reported question adaptations and 11 video links published. Full detailed concepts and official key authentication remain incomplete. Next curriculum workstream: Infection Control and Microbiology.

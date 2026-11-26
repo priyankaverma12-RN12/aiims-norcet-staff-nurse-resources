@@ -1,14 +1,15 @@
-# Nursing Foundations
+# Nursing Foundations — Fundamentals of Nursing
 
-**Starter stage, not studied.** This chapter has 4 original questions. It is not complete yet.
+**Topic-wise practice and five chapter-only mocks are study-ready, not yet studied.** Full detailed theory notes and exhaustive official PYQ authentication remain pending.
 
 | Section | Open |
 |---|---|
-| Concepts and topic coverage | [Topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Topic-wise original questions | [4 starter MCQs](MCQs/Nursing-Foundations-Topic-Wise-Starter-MCQs.md) |
-| Chapter-only mocks | [Mock plan](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
-| Previous Year Questions | [Research register](Previous-Year-Questions/Nursing-Foundations-Past-Paper-Research-Register.md) |
+| Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
+| Original topic-wise questions | [600 new questions across 30 topics](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
+| Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
+| Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
+| Video resources | [11 teaching and MCQ video links](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
+
+258 Medium and 342 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
-
-[1 source-linked reported Previous Year Questions](Previous-Year-Questions/Nursing-Foundations-Source-Linked-Reported-PYQs.md). These are adapted, not authenticated verbatim official questions.

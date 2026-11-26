@@ -1,0 +1,14 @@
+# Nursing Foundations — previous-year question index
+
+| Exam group | Question adaptations |
+|---|---:|
+| [NORCET](Nursing-Foundations-NORCET-Reported-PYQs.md) | 8 |
+| [PGI-and-JIPMER](Nursing-Foundations-PGI-and-JIPMER-Reported-PYQs.md) | 5 |
+| [ESIC-RRB-DSSSB](Nursing-Foundations-ESIC-RRB-DSSSB-Reported-PYQs.md) | 5 |
+| [HPSSC-HPRCA](Nursing-Foundations-HPSSC-HPRCA-Reported-PYQs.md) | 15 |
+| [Earlier NORCET dressing question](Nursing-Foundations-Source-Linked-Reported-PYQs.md) | 1 |
+| **Total** | **34** |
+
+33 new source-linked practice adaptations are listed with answer and explanation. No exhaustive official-paper or key authentication claim. HPSSC numbered transcriptions were opened. NPrep and NextNurse items are reported indexed leads, and the 2026 HPRCA admission item is provisional. The [official HPRCA listing](https://hprca.hp.gov.in/homepage?id=2) reports the final key dated 29 May 2026, but the actual key could not be retrieved and matched. Repeated concept leads include catheter securement (PGIMER 2020 and PGIMER Sangrur 2023), blood pressure technique (NORCET 6 and 9), and pressure injury prevention (HPSSC 2021 and NORCET 4 staging). Concept recurrence is not an authenticated identical-question count.
+
+[Research register](Nursing-Foundations-Past-Paper-Research-Register.md) · [Chapter](../README.md)

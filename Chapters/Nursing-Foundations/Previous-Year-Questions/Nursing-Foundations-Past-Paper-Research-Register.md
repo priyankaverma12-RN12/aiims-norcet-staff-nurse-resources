@@ -1,6 +1,6 @@
 # Nursing Foundations — Past-paper research register
 
-**Research queue.** The archive links below are starting points for source checking, not proof that a specific question appeared in an exam. Question-level evidence must be added separately. No official question or key is claimed here.
+**Expanded research register.** The archive links below are starting points for source checking, not proof that a specific question appeared in an exam. Question-level evidence must be added separately. No official question or key is claimed here.
 
 - [AIIMS official notices](https://www.aiimsexams.ac.in/) and [NORCET recall archive](https://nextnurse.in/pyq/norcet)
 - [PGIMER archive](https://nextnurse.in/pyq/pgimer-nursing-officer) and [ESIC archive](https://nextnurse.in/pyq/esic-nursing-officer)
@@ -17,3 +17,7 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 ## Video practice
 [Aarogyam NORCET 11 Fundamentals MCQ](https://www.youtube.com/watch?v=q4pI8nzTclw). Public title/description checked. This is practice, not official PYQ proof. Full playback not reviewed. Dedicated concept lectures still need verification.
+
+
+## New question-level expansion
+[34 source-linked reported question adaptations](Nursing-Foundations-Previous-Year-Questions-Index.md). Evidence includes numbered HPSSC transcriptions, NPrep and NextNurse indexed reported questions and a provisional HPRCA 2026 question lead. Full official HPRCA key matching remains pending. [Himexam HPRCA archive](https://himexam.com/hprca-hamirpur-staff-nurse-post-code-25026-question-paper-held-on-04-05-may-2026/) · [HPRCA official final-key listing](https://hprca.hp.gov.in/homepage?id=2) · [Raman Academy](https://ramanacademy.in/hp-staff-nurse-previous-year-question-papers/) · [Monika's Nursing Academy](https://www.nursingacademyhp.com/download.php). [Video and research guide](../Concepts/Nursing-Foundations-Video-and-Research-Guide.md).

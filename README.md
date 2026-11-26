@@ -174,4 +174,11 @@ Start with Applied Anatomy and Physiology and proceed chapter by chapter. Do not
 
 [600 original MCQs in 30 topic files](Chapters/Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) · [Five 120-question mocks](Chapters/Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) · [40 source-linked reported PYQ entries](Chapters/Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md).
 
-Current overall mock progress: 12/175 across 5/35 chapters. Full detailed theory notes and exhaustive official PYQ authentication are not complete.
+Historical overall mock progress at the anatomy milestone: 12/175 across 5/35 chapters. Full detailed theory notes and exhaustive official PYQ authentication are not complete.
+
+
+## Nursing Foundations — topic-first milestone
+
+[600 topic-wise questions](Chapters/Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) · [Five 120-question mocks](Chapters/Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) · [34 source-linked PYQ adaptations](Chapters/Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) · [11 videos](Chapters/Nursing-Foundations/Concepts/Nursing-Foundations-Video-and-Research-Guide.md).
+
+Current overall tracked mock progress: **17/175 across 6/35 chapters**. Two chapters have met the five-test target. 158 further mocks remain in this curriculum index. Topic banks and mocks reuse the same original stems for revision. Full theory notes and official PYQ key authentication remain incomplete. Next chapter: Infection Control and Microbiology.
