@@ -53,7 +53,7 @@
 - Insulin high-alert drug: U-100 means 100 units/mL. Match syringe/pen concentration, check units, type, meal timing and glucose. Pen kabhi share mat karo. NPO type 1 still needs basal insulin plan.
 - 10-g monofilament protective sensation assess karta hai. foot skin, footwear, pulses and infection signs check karo. Painless ulcer bhi dangerous. Retinal exam, urine albumin-to-creatinine ratio and eGFR screening as advised. Many nonpregnant adults A1c <7% target, but patient ki zaroorat ke hisaab se.
 - Dawn phenomenon early morning glucose rise. overnight readings/CGM se cause assess karo. nocturnal hypoglycemia exclude kiye bina bedtime insulin automatically increase mat karo. Exercise insulin users mein delayed hypoglycemia cause kar sakta hai.
-- DKA requires diabetes/hyperglycemia + significant ketosis + metabolic blood mein acid badhna (acidosis). HHS severe glucose elevation, blood ka bahut concentrated hona (hyperosmolality) without significant ketoacidosis. Overlap possible. Insulin K cells mein shift karta hai. initial serum K high hone par bhi total body K depleted ho sakta hai.
+- DKA requires diabetes/hyperglycemia + significant ketosis + metabolic acidosis (blood mein acid badhna). HHS severe glucose elevation, blood ka bahut concentrated hona (hyperosmolality) without significant ketoacidosis. Overlap possible. Insulin K cells mein shift karta hai. Initial serum K high hone par bhi total body K depleted ho sakta hai.
 - **NP-NCD (formerly NPCDCS):** population screening age 30 years and above for diabetes, hypertension and oral, breast, cervical cancers. ASHA mobilizes and assesses risk. ANM/CHO screen and refer per programme. facility confirms diagnosis and plans treatment. community nurse follow-up, education, adherence and complication surveillance karti hai. Abnormal capillary screen alone definitive laboratory diagnosis nahi.
 - Primary prevention = physical activity, tobacco cessation, balanced meals. Secondary = screening and early diagnosis. Tertiary = foot/eye/kidney care, complication prevention and rehabilitation. Teach-back, accessible diet and respectful communication.
 - **NIDDCP:** National Goitre Control Programme renamed August 1992. Adequately iodized salt, iodine baar-baar check karna and education prevent iodine deficiency disorders. Iodized salt ko ordinary salt ki jagah use karo, extra salt nahi. dry covered storage. Pregnancy/childhood deficiency neurodevelopment affect kar sakti hai.
@@ -90,13 +90,13 @@
 
 [Diabetes lecture](https://www.youtube.com/watch?v=JQ5FiVbojC8) · [NIDDCP official reading](https://dghs.mohfw.gov.in/niddcp.php) · [Community MCQs](../MCQs/Endocrine-Topic-Wise.md). Dedicated community video not yet verified.
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [MoHFW NP-NCD](https://www.mohfw.gov.in/sites/default/files/NP-NCD%20Operational%20Guidelines.pdf) · [DGHS NIDDCP](https://dghs.mohfw.gov.in/niddcp.php) · [ADA Standards](https://professional.diabetes.org/standards-of-care)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
