@@ -12,3 +12,13 @@ Key requirements: actual studied topics only; group 2–4 related topics into us
 
 
 **Descriptive study filenames (learner rule, 26 Nov 2026):** Never store actual notes, MCQs, mocks or Previous Year Questions banks only in `README.md` (or `read.md`). Use meaningful topic/exam/year filenames, e.g. `NORCET-2022-2026-Endocrine-Reported-Questions.md`. README is navigation only; link directly to named question files/index from chapter, concept and MCQ pages. Add source-checked topic-wise teaching and MCQ-solving video links in each relevant concept file; clearly label unavailable or mixed-topic videos and recall-based questions.
+
+
+## Learner's plain-language rule — 26 November 2026
+
+- Teach a beginner who has never heard the medical word before. Use everyday Roman Hindi with common English words. Explain the word immediately, then explain what happens in the body, why it happens, what the nurse sees and what the nurse does. For example: "Insulin ko ek chaabi samjho. Ye glucose ko blood se muscle aur fat cells ke andar jaane mein madad karta hai. Jab insulin kam ho ya kaam na kare, blood mein glucose badh jaata hai."
+- Use short complete sentences. One idea per sentence. Use simple headings, numbered steps, comparisons and practical examples. Avoid clipped textbook English, unexplained abbreviations and unnecessarily complex vocabulary. Keep necessary English medical terms for the exam.
+- Never type semicolon punctuation in learner-facing notes, answers, explanations, navigation or new question stems/options. Use a full stop or a new bullet instead. Do not damage existing exact English exam questions, URLs, code, HTML entities or SVG syntax. Preserve old question wording.
+- Group 3–4 related topics in descriptive concept filenames. README is a navigation and rules page, not the actual study bank. Keep actual MCQs and mocks in MCQs, exam-source questions in Previous-Year-Questions, and relevant video links in concept pages.
+- For requested extra practice, add 50+ per requested chapter when enough distinct learning points exist, mainly NORCET-level clinical and numerical Medium/Difficult questions, with a separate named mock. Do not inflate counts with duplicates. Four English options, hidden answers, everyday Hinglish reasoning for each distractor, and a useful exam clue. Mark unattempted. Original practice is not an official Previous Year Question.
+- When a learner requests full chapter preparation, clearly label it study-ready and not yet studied. Re-fetch the rules before future GitHub changes.
