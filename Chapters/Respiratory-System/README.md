@@ -10,8 +10,8 @@ Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year
 
 | Day | Full concept guide | MCQ practice | Extra |
 |---|---|---|---|
-| **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 40 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
-| **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 51 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
+| **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 44 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
+| **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 59 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
 
 | **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [55 disease MCQs](MCQs/Day-03-Asthma-COPD-55.md) · [45 care MCQs](MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [30-question mock](MCQs/Day-03-Final-Mock-30.md) (unattempted) | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
 
@@ -110,7 +110,7 @@ Respiratory-System/
 
 ## Day 4 — Pneumonia, TB and pleural disorders
 
-[Detailed Hinglish concepts and quick revision](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [5 original English MCQs](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Assets/day-04-alveoli-pleura.svg)
+[Detailed Hinglish concepts and quick revision](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [45 original English MCQs (5 earlier attempted)](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Assets/day-04-alveoli-pleura.svg)
 
 Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; respiratory failure, ARDS and pulmonary embolism theory is now presented in the linked Day 4 guide; additional practice is pending.
 
@@ -125,3 +125,20 @@ Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions wi
 | Day 3 final mock | 30 | [Mock](MCQs/Day-03-Final-Mock-30.md) |
 
 **Dhyan de:** Ye 170 original unattempted practice questions hain, solved scores nahi. 91 purane Day 1–2 questions preserve hain. [Research and reported Previous Year Question leads](MCQs/Research-and-Paper-Leads.md). Exact official papers/keys not all verified.
+
+## Day 4 — Completion practice
+
+**Theory presented, new practice unattempted. 106 new topic-wise MCQs + 50 grand mock = 156 new original questions.** Earlier 266 questions retained; respiratory bank now 422 total. Exact normalized stem audit: 422 distinct; semantic overlap in exam revision intentional, exhaustive conceptual duplicate audit not complete.
+
+| Topic | Concepts | New questions |
+|---|---|---:|
+| Pneumonia, TB, pleura, respiratory failure, ARDS, PE | [Notes](Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) | [40 (Q6–45)](MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md#q6-a-patient-develops-a-new-pulmonary-infiltrate-and-fever-on-hospital-day-five-with-no-infection-evident-on-admission-which-classification-fits) |
+| Ventilation, tracheostomy, suction, VAP | [Notes](Concepts/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md) | [22 MCQs](MCQs/Day-04-Ventilation-Artificial-Airways-Suction-VAP.md) |
+| Atelectasis, CPT, edema, bronchiectasis | [Notes](Concepts/Day-04-Atelectasis-CPT-Pulmonary-Edema-Bronchiectasis.md) | [12 MCQs](MCQs/Day-04-Atelectasis-CPT-Pulmonary-Edema-Bronchiectasis.md) |
+| Abscess, empyema, cancer, trauma | [Notes](Concepts/Day-04-Lung-Abscess-Empyema-Cancer-Chest-Injuries.md) | [10 MCQs](MCQs/Day-04-Lung-Abscess-Empyema-Cancer-Chest-Injuries.md) |
+| OSA, fibrosis, CF, upper airway, PH | [Notes](Concepts/Day-04-OSA-Fibrosis-CF-Upper-Airway.md) | [10 MCQs](MCQs/Day-04-OSA-Fibrosis-CF-Upper-Airway.md) |
+| V/Q and alveolar ventilation | [Original Day 1 notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [4 (Q41–44)](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) |
+| ABG compensation, sampling and patterns | [Original Day 2 notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [8 (Q52–59)](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) |
+| Entire respiratory chapter | [Quick revision](Revision/Day-04-Quick-Revision.md) | [50-question grand mock](MCQs/Respiratory-System-Grand-Mock-50.md) |
+
+[Reported NORCET, HPRCA and PGIMER paper leads](Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) · [References](References.md). Official exact paper/answer keys not verified for new leads.
