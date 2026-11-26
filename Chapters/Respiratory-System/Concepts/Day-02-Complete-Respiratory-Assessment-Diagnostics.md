@@ -442,3 +442,10 @@ Ratio = (2.4 ÷ 3.2) × 100 = **75%**.
 ## New practice — diagnostic investigations and final mock
 
 [51 MCQs (Q37–51 new diagnostics)](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [25-question final mock](../MCQs/Day-02-Final-Mock-25.md). New questions are unattempted.
+
+
+## Day 4 revisit — ABG compensation and sampling
+Compensation means body primary acid-base change ko balance karne ki koshish karti hai. Respiratory acidosis → kidneys retain HCO3; respiratory alkalosis → reduce HCO3; metabolic acidosis → lungs remove more CO2; metabolic alkalosis → lungs retain CO2 within physiologic limits.
+ROME: Respiratory Opposite (pH/PaCO2); Metabolic Equal (pH/HCO3). pH 7.26, PaCO2 60, HCO3 26: acute respiratory acidosis pattern. pH 7.32, CO2 60, HCO3 30: respiratory acidosis with compensation. pH 7.36, CO2 60, HCO3 33: chronic compensated respiratory acidosis pattern. Normal pH does not mean normal ABG; mixed disorders possible.
+Winter's formula in metabolic acidosis: expected PaCO2 = 1.5 × HCO3 + 8 ±2. HCO3 12 → 26 ±2, 24–28 mmHg. Actual 40 suggests additional respiratory acidosis.
+Modified Allen test may assess collateral ulnar circulation before radial sampling, per protocol; imperfect predictor, not substitute for clinical assessment. After puncture apply firm pressure until hemostasis; longer in anticoagulated patients. Avoid air bubbles, label oxygen/ventilator status, prompt transport as lab protocol. [NCBI ABG](https://www.ncbi.nlm.nih.gov/books/NBK371/) · [Reported NORCET 6 paper](https://nextnurse.in/pyq/norcet/norcet-norcet-6-mains-2024).
