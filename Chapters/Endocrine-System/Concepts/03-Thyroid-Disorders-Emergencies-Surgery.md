@@ -114,7 +114,7 @@
 | Medullary | C cells. calcitonin marker. MEN2 |
 | Anaplastic | Aggressive, rapidly enlarging mass, airway risk |
 - Thyroid nodule normal hormone tests ke saath bhi cancer ho sakta hai. New hoarseness, compressive symptoms, rapid growth evaluate. Ultrasound-guided FNA selection. follicular carcinoma invasion histology se differentiate hota hai. Radioiodine selected differentiated cancers, not routine medullary.
-- Congenital hypothyroidism early screening and treatment neurodevelopment protect karte hain. older exam term for untreated severe congenital disease is historical, use current respectful clinical terminology.
+- Congenital hypothyroidism early screening and treatment neurodevelopment protect karte hain. Older exam term for untreated severe congenital disease is historical, use current respectful clinical terminology.
 ## 🔴 VERY HIGH | Emergency nursing — comparison and sequence
 | Feature | Thyroid storm | Myxedema emergency |
 |---|---|---|
@@ -128,20 +128,20 @@
 - Thyroidectomy: pre-op baseline voice/calcium, optimize hormone state as ordered. Post-op neck hematoma can compress trachea quickly. sudden stridor/tight swelling → emergency surgical/airway response. Tracheostomy/emergency airway equipment according to local policy, not a reason to delay escalation.
 - Hoarseness may reflect recurrent laryngeal nerve dysfunction. high-pitch voice changes can reflect superior laryngeal nerve. Tingling around lips/fingers and carpal spasm suggest hypocalcemia. see Part 4.
 - **Case:** Stridor + neck swelling immediately after thyroidectomy. Airway assessment and emergency response first, not routine calcium lab or dressing.
-- **Reported exam evidence:** postoperative calcium concept reported in two NORCET-labelled collections (2022/2024); official exact papers not verified. [Source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md).
+- **Reported exam evidence:** postoperative calcium concept reported in two NORCET-labelled collections (2022/2024). Official exact papers not verified. [Source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md).
 
 
 ## 🎬 Study resources
 
 [NORCET thyroid teaching](https://www.youtube.com/watch?v=BalA29k0tuM) · [Mixed endocrine MCQ rationales](https://www.youtube.com/watch?v=xcwJd5RbBb4)
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [OpenStax thyroid/parathyroid](https://openstax.org/books/medical-surgical-nursing/pages/21-3-thyroid-and-parathyroid-disorders) · [American Thyroid Association](https://www.thyroid.org/)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
