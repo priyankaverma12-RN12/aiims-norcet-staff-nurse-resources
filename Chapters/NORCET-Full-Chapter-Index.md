@@ -84,8 +84,19 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 ## Current publishing status
 - 32 new chapter folders with four content directories. 128 original starter questions and 14 reported exam adaptations added across this expansion. These counts do not include existing banks.
-- Each starter topic currently has one question. The detailed 10–30+ questions per subtopic, complete concept notes, five to six distinct 120-question mocks per chapter, and comprehensive question-level historical research are still pending. No fake placeholder questions or invented official attribution.
+- Each starter topic currently has one question. The detailed 10–30+ questions per subtopic, complete concept notes, the remaining full-length mock series, and comprehensive question-level historical research are still pending. No fake placeholder questions or invented official attribution.
 - Existing chapters retain their prior banks. Check their individual status.
 - Research is organized into eight workstreams, not claimed as eight independently running agents. Current work was performed in this session.
 
 [Source research register](NORCET-India-Wide-Research-Register.md) · [Repository home](../README.md)
+
+
+## Published 120-question revision mocks
+
+| Chapter | Published | Question slots | Direct links |
+|---|---:|---:|---|
+| Respiratory | 3 | 360 | [Mock 1](Respiratory-System/Mock-Tests/Respiratory-System-Mock-01-120.md) · [Mock 2](Respiratory-System/Mock-Tests/Respiratory-System-Mock-02-120.md) · [Mock 3](Respiratory-System/Mock-Tests/Respiratory-System-Mock-03-120.md) |
+| Cardiovascular | 1 | 120 | [Mock 1](Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-01-120.md) |
+| Endocrine | 1 | 120 | [Mock 1](Endocrine-System/Mock-Tests/Endocrine-System-Mock-01-120.md) |
+
+These five tests are revision compilations of prior original practice questions. They add 600 practice slots, not 600 newly authored questions. Each test contains 120 distinct normalized stems and 120 hidden answer blocks. The three Respiratory tests have no exact repeated stem between them. Older answer explanations remain in the original style and need a full conversational rewrite. The remaining 32 chapters do not yet have a full-length mock. Five per chapter means 175 tests across 35 chapters, of which five are currently assembled. Six per chapter means 210.

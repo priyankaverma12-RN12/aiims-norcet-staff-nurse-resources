@@ -6,7 +6,7 @@
 
 Quick high-priority requirements:
 - Trigger: User says **"push this to GitHub"** (or equivalent) after studying nursing content: research what they actually covered; **publish** to this repo when authorized.
-- **Only previously studied topics**; no empty chapters / unstudied advanced topics.
+- **Previously studied topics by default.** Explicit learner requests for a full syllabus advance-preparation project are an exception. Label new material honestly.
 - Simple navigation: `Chapters/<Chapter>/Concepts/` and matching `MCQs/` with **two to four related topics per substantial descriptive Markdown file**; `Previous-Year-Questions/`, `Revision/`, `Assets/`, `References.md`.
 - **Concepts = simple Hinglish for a fresher; medical terms English. MCQ questions AND A/B/C/D options = exact original English wording.** Keep explanations detailed Hinglish.
 - **Difficulty on every question:** `Easy` / `Medium` / `Difficult`; aim for appropriate NORCET and HP Staff Nurse level. Deep reasoning and why other choices are wrong.
@@ -24,3 +24,6 @@ Quick high-priority requirements:
 
 ## Repository
 https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources
+
+
+**Full syllabus exception:** The learner has explicitly requested advance preparation of the entire NORCET nursing curriculum. The earlier studied-only rule is overridden for this requested expansion. Keep prepared material marked starter-stage or study-ready, not studied. Use sibling Concepts, MCQs, Mock-Tests and Previous-Year-Questions directories. Aim for 10–30+ original questions per actual topic and 5–6 distinct 120-question chapter-only practice tests. The official NORCET lengths remain 100 and 160 in the recent notice. List actual source-linked reported exam questions with evidence labels and references, not only archive links. Follow the complete conversational Hinglish and no-semicolon rule in new explanations. Never claim unfinished banks are complete. See the canonical skill.
