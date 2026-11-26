@@ -25,7 +25,7 @@
 
 ## 3. 🟠 Pituitary gland
 
-🔴 **MOST IMPORTANT:** ADH kahan banta hai aur kahan se release hota hai; anterior vs posterior pituitary; Sheehan syndrome; post-surgery urine output. 🟠 HP 2026 source reports posterior pituitary question ([source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)).
+🔴 **MOST IMPORTANT:** ADH kahan banta hai aur kahan se release hota hai. Anterior vs posterior pituitary. Sheehan syndrome. Post-surgery urine output. 🟠 HP 2026 source reports posterior pituitary question ([source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)).
 
 - Brain ke base par sella turcica mein hoti hai. Hypothalamus isko control karta hai.
 - Anterior pituitary apne hormones banati hai. ADH aur oxytocin hypothalamus mein bante hain aur posterior pituitary se release hote hain.
@@ -128,13 +128,13 @@ flowchart TD
 
 [DI vs SIADH recap](https://www.youtube.com/watch?v=0ugdQ6pf3Kg) · [DI/SIADH question-solving segment](https://www.youtube.com/watch?v=xcwJd5RbBb4&t=1238s)
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [OpenStax pituitary nursing](https://openstax.org/books/medical-surgical-nursing/pages/21-4-pituitary-disorders) · [NIDDK acromegaly](https://www.niddk.nih.gov/health-information/endocrine-diseases/acromegaly)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
