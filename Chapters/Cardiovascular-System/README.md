@@ -1,5 +1,19 @@
 # ❤️ Cardiovascular System — NORCET & Staff Nurse
 
+## 🎯 New NORCET-level practice — 52 original questions
+
+Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare 20 questions attempt karo. Answers baad mein kholo. Ye naye questions hain aur abhi attempt nahi hue hain.
+
+| Practice | Questions | Open file |
+|---|---:|---|
+| Topic-wise clinical and numerical MCQs | 32 | [Advanced topic-wise bank](MCQs/Cardiovascular-Advanced-Topic-Wise-32.md) |
+| Mixed clinical mock | 20 | [20-question clinical mock](MCQs/Cardiovascular-Clinical-Mock-20.md) |
+
+**52 questions added to the earlier indexed practice.** Earlier supplementary material is retained separately, so no new exhaustive chapter-wide total is claimed.
+
+**Dhyan de:** English questions aur options, Medium/Difficult level, hidden answers, simple Hinglish mein correct aur har wrong option ka reason. Ye original practice hai, official Previous Year Questions nahi. Purane questions preserve kiye gaye hain. Similar important concepts alag case mein revise ho sakte hain.
+
+
 [Repository home](../../README.md) | [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](Previous-Year-Questions/README.md) | [Revision](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](References.md)
 
 Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, pericardium aur cardiac muscle basics padhe hain. Chambers, valves, septum, great vessels aur auscultation basics bhi cover hue hain. Practice in progress hai.
@@ -17,7 +31,7 @@ Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, peric
 
 ## Full cardiovascular master guide — study-ready
 
-[**Open master guide: full chapter study sequence, diagrams, 40 new English MCQs, exam evidence and videos**](Concepts/Cardiovascular-System-Master-Guide.md). Includes coronary circulation, cardiac cycle/output, assessment, ECG, ACS, HF, BP, valves/inflammation, congenital disease, vascular disorders, shock/BLS/ACLS, drugs and procedures. Earlier anatomy and valve lessons remain linked rather than duplicated. New material is **not yet marked studied or attempted**. Total original practice now 168 (128 existing + 40 new: 21 Medium, 19 Difficult). Source-attributed exam leads are not official verified questions; priority estimates are qualitative.
+[**Open master guide: full chapter study sequence, diagrams, 40 new English MCQs, exam evidence and videos**](Concepts/Cardiovascular-System-Master-Guide.md). Includes coronary circulation, cardiac cycle/output, assessment, ECG, ACS, HF, BP, valves/inflammation, congenital disease, vascular disorders, shock/BLS/ACLS, drugs and procedures. Earlier anatomy and valve lessons remain linked rather than duplicated. New material is **not yet marked studied or attempted**. Earlier indexed original practice 168 (128 existing + 40 new: 21 Medium, 19 Difficult). Source-attributed exam leads are not official verified questions; priority estimates are qualitative.
 
 ## Additional topic-wise practice — 40 MCQs
 
