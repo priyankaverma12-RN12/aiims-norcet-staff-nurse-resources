@@ -588,3 +588,10 @@ Foundation, assessment and diagnostics, pituitary/water balance, thyroid/parathy
 
 [🏠 Chapter](../README.md) · [📖 Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [References](../References.md)
 
+
+### Extra topic-specific resources (second search)
+- [Addison disease Hindi nursing lecture](https://www.youtube.com/watch?v=9MzgaysB_f4) — adrenal insufficiency teaching, title and description checked.
+- [Unacademy NORCET adrenal gland class](https://unacademy.com/course/adrenal-gland-endocrine-system-part-ii/ZPZ2XIUL) — coaching course page.
+- [Bhushan Science Nursing diabetes lecture lead](https://salda.ws/video.php?id=CDQiNZA9Y1o) — third-party video metadata, direct YouTube playback not checked.
+- [Community national health programme practice](https://edurev.in/t/497449/nursing-exams-practice-questions-national-health-programs) — practice resource, not official paper.
+- Separate complete teaching/MCQ video pairs for each small subtopic not established; use the topic-wise written bank rather than unsupported video links.
