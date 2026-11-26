@@ -100,3 +100,16 @@ Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions wi
 - Group 3–4 related topics in descriptive concept filenames. README is a navigation and rules page, not the actual study bank. Keep actual MCQs and mocks in MCQs, exam-source questions in Previous-Year-Questions, and relevant video links in concept pages.
 - For requested extra practice, add 50+ per requested chapter when enough distinct learning points exist, mainly NORCET-level clinical and numerical Medium/Difficult questions, with a separate named mock. Do not inflate counts with duplicates. Four English options, hidden answers, everyday Hinglish reasoning for each distractor, and a useful exam clue. Mark unattempted. Original practice is not an official Previous Year Question.
 - When a learner requests full chapter preparation, clearly label it study-ready and not yet studied. Re-fetch the rules before future GitHub changes.
+
+
+## New NORCET clinical practice — 156 additional questions
+
+Har chapter mein 32 naye topic-wise questions aur 20-question mixed mock. Sabhi unattempted original practice hain. Medical words English mein, explanation simple daily-use Roman Hinglish mein.
+
+| Chapter | 32 topic-wise MCQs | 20-question mock |
+|---|---|---|
+| Respiratory | [Open questions](Chapters/Respiratory-System/MCQs/Respiratory-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Respiratory-System/MCQs/Respiratory-Clinical-Mock-20.md) |
+| Cardiovascular | [Open questions](Chapters/Cardiovascular-System/MCQs/Cardiovascular-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Cardiovascular-System/MCQs/Cardiovascular-Clinical-Mock-20.md) |
+| Endocrine | [Open questions](Chapters/Endocrine-System/MCQs/Endocrine-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Endocrine-System/MCQs/Endocrine-Clinical-Mock-20.md) |
+
+**Total: 96 topic-wise + 60 mock questions = 156 new original practice entries.** 83 Medium and 73 Difficult. Previous Year Questions remain separate.
