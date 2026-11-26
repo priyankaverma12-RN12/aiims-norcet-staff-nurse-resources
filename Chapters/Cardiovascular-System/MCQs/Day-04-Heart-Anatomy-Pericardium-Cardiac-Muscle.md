@@ -2,7 +2,7 @@
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](../References.md)
 
-Q1–Q7 chat mein attempted; Q8 asked but not yet answered. Q9–Q10 aur additional practice abhi chat mein nahi hui. Yeh original practice hai, verified Previous Year Questions nahi. Personal scores public file mein nahi hain.
+Q1–Q7 chat mein attempted; Q8 asked but not yet answered. Original Q9–Q10 abhi chat mein nahi hui. [40 additional topic-wise MCQs](../Concepts/Extra-High-Yield-Concepts-and-MCQs.md) separately provided in chat and unattempted; total 48 questions across both banks. Yeh original practice hai, verified Previous Year Questions nahi. Personal scores public file mein nahi hain.
 
 ### Q1. During cardiovascular assessment, a nurse palpates the normal apex beat of an adult patient. At which location should it normally be felt?
 
