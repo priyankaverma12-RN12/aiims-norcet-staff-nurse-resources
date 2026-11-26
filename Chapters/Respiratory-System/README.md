@@ -6,6 +6,21 @@
 
 Yaar, navigation simple rakhi hai: **Chapter → Concepts / MCQs / Previous Year Questions / Revision**. Har day ka ek **detailed notes file** aur ek **long MCQ bank** hai, taaki har chhote topic ke liye alag folder open na karna pade.
 
+## Medical Surgical Nursing Test 1 — 60 imported MCQs
+
+**[Open your uploaded PDF test — 60 questions](MCQs/Medical-Surgical-Test-01-Imported-60.md)** · 1 hour · 60 marks · practice pending.
+
+| Topic | Questions |
+|---|---:|
+| Asthma | 8 |
+| COPD | 13 |
+| Pneumonia | 12 |
+| Tuberculosis | 18 |
+| Bronchiectasis | 8 |
+| Mixed asthma/COPD | 1 |
+
+Original English questions/options, topic-wise clickable index, original test order, 38 Easy + 22 Medium labels, hidden suggested answers with Hinglish reasoning and exam tricks. PDF has no official answer key or exam provenance; this is an imported practice test, not verified Previous Year Questions. Existing bank remains unchanged; overlapping concepts may occur.
+
 ## Day 4 — Last 7 extra high-yield topics (Flail chest to Mantoux)
 
 Ye topics final audit mein padhe the. Alag-alag existing concept guides mein save hain. Neeche topic name par click karo — seedha relevant section khulega.
