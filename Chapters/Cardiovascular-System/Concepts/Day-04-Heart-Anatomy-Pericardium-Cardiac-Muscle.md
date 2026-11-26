@@ -20,17 +20,17 @@
 **NORCET clue:** Location poochhe toh middle mediastinum; apex poochhe toh left ventricle; base poochhe toh mainly left atrium.
 
 
-Cardiovascular system body ka transportation system hai. Heart blood pump karta hai, blood vessels blood ko ek jagah se doosri jagah le jaati hain aur blood oxygen, nutrients, hormones aur waste products transport karta hai. Heart ko water pump ki tarah samjho, blood vessels ko pipes aur blood ko pipes mein flow hone wala liquid.
+Cardiovascular system ka kaam samjho: jaise ghar mein water pump paani ko pipes ke through har room tak pahunchata hai, waise hi heart blood ko blood vessels ke through body ke har part tak pahunchata hai. Blood oxygen, nutrients aur hormones lekar jaata hai aur waste products ko remove karne wale organs tak pahunchata hai.
 
 ![Heart location and surface landmarks — original reconstructed schematic](../Assets/heart-anatomy-overview.svg)
 
 | Feature | Important fact |
 |---|---|
-| Location | Middle mediastinum, between lungs |
-| Size | Approximately closed fist |
-| Shape | Cone-shaped |
-| Adult weight | Approximately 250–350 g; varies |
-| Position | Roughly 2/3 left and 1/3 right of midline |
+| Location | Dono lungs ke beech middle mediastinum mein |
+| Size | Lagbhag apni band mutthi jitna |
+| Shape | Cone-shaped, yani ek taraf se pointed |
+| Adult weight | Lagbhag 250–350 g; person ke hisaab se badal sakta hai |
+| Position | Chest ki midline se lagbhag 2/3 left aur 1/3 right taraf |
 | Apex | Left ventricle |
 | Base | Mainly left atrium |
 | Normal adult apex beat | Left 5th intercostal space, midclavicular line |
@@ -63,13 +63,27 @@ Sulcus ka matlab groove ya heart ki external surface par bani hui naali jaisi st
 Memory trick: Inter = between, ventricular = ventricles, sulcus = groove.
 
 ### Anatomical relations
-Anterior: sternum and costal cartilages. Posterior: esophagus and descending thoracic aorta. Inferior: diaphragm. Lateral: lungs and mediastinal pleura. Superior: great vessels. Esophagus left atrium ke peeche hota hai; isi relationship ka use transesophageal echocardiography (TEE) mein hota hai.
+Heart ke aas-paas kya hai, ye direction ke hisaab se samjho:
+
+- **Anterior (saamne):** Sternum aur costal cartilages, yani ribs ko sternum se jodne wali cartilage.
+- **Posterior (peeche):** Esophagus aur descending thoracic aorta.
+- **Inferior (neeche):** Diaphragm.
+- **Lateral (dono taraf):** Lungs aur mediastinal pleura.
+- **Superior (upar):** Great vessels.
+
+Esophagus left atrium ke peeche hota hai. Isi wajah se transesophageal echocardiography (TEE) mein esophagus ke through ultrasound probe se heart ki images li ja sakti hain.
 
 ### Embryological development (High priority for HP Staff Nurse)
 Heart embryo ki splanchnic (splanchnopleuric) mesoderm se develop hota hai. [NCBI embryology](https://www.ncbi.nlm.nih.gov/books/NBK537313/) · [HPSSC 2022 scanned Q43](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=10). [Additional 40 topic-wise MCQs and priorities](../Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
 
 ### Position variations
-Levocardia: apex left side. Dextrocardia: congenital right-directed apex. Situs inversus totalis: thoracic aur abdominal organs ki mirror-image arrangement. Har dextrocardia patient mein situs inversus necessary nahi hai.
+**Levocardia:** Heart ka apex left side ki taraf hota hai, jaise normally hota hai.
+
+**Dextrocardia:** Birth se heart ka apex right side ki taraf hota hai.
+
+**Situs inversus totalis:** Chest aur abdomen ke organs mirror image ki tarah opposite side par arranged hote hain.
+
+**Confusion clear karo:** Har dextrocardia patient mein situs inversus hona zaroori nahi.
 
 ## Pericardium and heart wall
 
@@ -79,15 +93,15 @@ Levocardia: apex left side. Dextrocardia: congenital right-directed apex. Situs 
 
 **Example:** Myocardium muscle hai, isi ki contraction se blood pump hota hai. Endocardium andar ki lining hai; dono ka function same nahi.
 
-Pericardium ek protective sac hai jo heart ko surround karta hai. Fibrous pericardium tough outer covering hai; heart ko protect karta hai, position maintain karta hai aur sudden excessive stretching prevent karta hai. Serous pericardium ki two layers: parietal aur visceral (epicardium).
+Pericardium heart ke charon taraf ek protective sac hota hai. Iski outer tough covering ko **fibrous pericardium** kehte hain. Ye heart ko protection deta hai, usko apni jagah par rakhne mein help karta hai aur achanak bahut zyada stretch hone se bachata hai. **Serous pericardium** ki do layers hoti hain: parietal layer outer sac ki inner surface par hoti hai aur visceral layer (epicardium) heart ki surface par hoti hai.
 
 ![Outside-to-inside wall and coverings; reconstructed original schematic](../Assets/heart-wall-pericardium.svg)
 
 | Layer | Location and function |
 |---|---|
-| Epicardium | Outermost heart wall; visceral serous pericardium; protection |
-| Myocardium | Middle muscular layer; contraction and pumping |
-| Endocardium | Innermost smooth lining; chambers and valves cover karta hai |
+| Epicardium | Heart wall ki sabse bahar wali layer; ye visceral serous pericardium bhi hai aur protection deti hai |
+| Myocardium | Beech ki muscular layer; contract karke blood pump karti hai |
+| Endocardium | Sabse andar ki smooth lining jo chambers aur valves ko cover karti hai |
 
 **Memory trick EME:** Epicardium external, Myocardium muscle/middle, Endocardium internal lining. Left ventricular myocardium sabse thick hai: poori body mein high pressure se blood pump karna hota hai. RV ko lungs tak blood bhejna hota hai. LV wall roughly three times RV wall ho sakti hai; measurement varies. More workload → more pressure → thicker muscle.
 
@@ -107,7 +121,7 @@ Pericardial cavity parietal aur visceral serous layers ke beech potential space 
 Phrenic nerve aur pericardiacophrenic vessels lateral pericardium ke paas saath travel karte hain. Pericardial irritation shoulder region mein referred pain de sakti hai. **C3, C4, C5 keep the diaphragm alive.**
 
 ### Pericardial sinuses
-Transverse sinus ascending aorta/pulmonary trunk ke posterior aur SVC ke anterior mein passage hai. Oblique sinus left atrium ke posterior mein blind-ending recess hai. Lower priority but anatomy MCQs mein useful.
+Pericardial sinuses ko serous pericardium ke folds ke beech ki spaces samjho. **Transverse sinus** ascending aorta aur pulmonary trunk ke peeche, SVC ke saamne ek passage hai. **Oblique sinus** left atrium ke peeche ek aisi space hai jiska aage doosra opening nahi hai (blind-ending recess). Ye lower priority hai, lekin anatomy MCQ mein aa sakta hai.
 
 ## Cardiac muscle and skeleton
 
@@ -135,7 +149,7 @@ Skeletal muscle voluntary and striated; smooth muscle involuntary and non-striat
 Intercalated discs ek cardiac muscle cell ko doosre se connect karte hain. Gap junctions electrical impulses pass karte hain; desmosomes cells ko strongly connected rakhte hain; fascia adherens contraction ki force transfer karta hai. Jaise electrical wires ek doosre se connected hoti hain, waise hi gap junctions electrical signals transfer karte hain. Functional syncytium: multiple cells coordinated unit ki tarah kaam karti hain.
 
 ### Histology
-Epicardium: mesothelium and connective tissue. Myocardium: cardiac muscle tissue. Endocardium: simple squamous endothelium with underlying connective tissue.
+Microscope se dekho toh **epicardium** mesothelium (surface cells ki layer) aur connective tissue se bana hai. **Myocardium** cardiac muscle tissue se bana hai. **Endocardium** mein simple squamous endothelium (flat cells ki ek layer) aur uske neeche connective tissue hota hai.
 
 ### Fibrous cardiac skeleton
 Ye bones se bana skeleton nahi hai; dense connective tissue framework hai. Valve support, valve openings ko overstretching se bachana, muscle attachment aur atria-ventricles ke beech electrical insulation provide karta hai. Normally electrical impulse AV bundle (Bundle of His) ke through cross karta hai. Full conduction sequence next topic mein padhenge.
@@ -165,7 +179,11 @@ Cardiac muscle ka refractory period long hota hai. Is wajah se sustained tetanic
 | Pericardiocentesis | Needle/catheter se pericardial fluid remove karna |
 | Pericardiectomy | Pericardium surgically remove karna |
 
-Tamponade: Excessive pericardial fluid → heart compression → decreased ventricular filling → decreased cardiac output → hypotension/risk of shock. Rapid accumulation mein kam fluid bhi dangerous ho sakta hai. Effusion aur tamponade same nahi; tamponade emergency hai. Pericardiocentesis selected tamponade cases mein life-saving ho sakta hai. Full disease management later.
+**Cardiac tamponade kaise hota hai?** Jab pericardial sac mein fluid ka pressure badh jaata hai, toh heart dabne lagta hai. Ventricles relax hokar properly fill nahi kar paate. Jab filling kam hogi toh heart har beat mein kam blood pump kar sakta hai. Isse cardiac output aur BP gir sakte hain aur shock ho sakta hai.
+
+**Step by step:** Excess fluid pressure → heart compression → filling kam → cardiac output kam → hypotension/shock ka risk.
+
+Agar fluid bahut jaldi collect ho, toh kam quantity bhi dangerous ho sakti hai. Effusion ka matlab fluid jama hona hai; tamponade tab hai jab pressure ki wajah se heart ki filling compromise ho. Tamponade emergency hai aur selected cases mein pericardiocentesis (needle/catheter se fluid remove karna) life-saving ho sakta hai. Full disease management later.
 
 **Memory tricks:** Tamponade = pressure on heart. Myo = muscle, cardio = heart, itis = inflammation. Fibrous = firm covering; fluid = friction reduction.
 
