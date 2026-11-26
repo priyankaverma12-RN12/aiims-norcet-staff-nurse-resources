@@ -16,7 +16,7 @@
 | 8 detailed concept files, disease-wise nursing care, diagnostics and diagrams | [📚 All 8 concept files](Concepts/Endocrine-System-Master-Guide.md) |
 | Topic-wise questions — 113 | [📝 Topic-wise MCQs](MCQs/Endocrine-Topic-Wise.md) |
 | Three mixed mocks — 25 | [🎯 Mixed mock practice](MCQs/Endocrine-Mixed-Mocks.md) |
-| Exam-source evidence, NORCET / PGIMER / HP | [🏥 Previous Year Questions](Previous-Year-Questions/README.md) |
+| 26 source-linked adapted question entries across NORCET / PGIMER / HP / ESIC / CHO | [🏥 Previous Year Questions](Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) |
 | Rapid review, emergency clues and values | [⚡ Quick revision](Revision/Endocrine-Quick-Revision.md) |
 | Clinical and community sources | [🔎 References](References.md) |
 
@@ -65,6 +65,19 @@
 Nine original SVG study charts plus Mermaid flowcharts in the master guide. These are educational schematics, not clinical diagnostic images.
 
 ## 🎬 YouTube resources
+
+[**Open topic-wise teaching and MCQ video guide**](Endocrine-YouTube-Teaching-and-MCQ-Practice.md)
+
+## 🏥 Named Previous Year Questions files
+
+- [NORCET 2022–2026 (14)](Previous-Year-Questions/NORCET-2022-2026-Endocrine-Reported-Questions.md)
+- [PGIMER 2020–2025 (4)](Previous-Year-Questions/PGIMER-2020-2025-Endocrine-Reported-Questions.md)
+- [HPSSC 2020 / HPRCA 2026 (5)](Previous-Year-Questions/HPSSC-2020-HPRCA-2026-Endocrine-Reported-Questions.md)
+- [ESIC / MP CHO (3)](Previous-Year-Questions/ESIC-2016-MP-CHO-2019-Endocrine-Reported-Questions.md)
+
+These are source-linked adapted questions, not authenticated verbatim official exam items. HPRCA lead not verified.
+
+### Earlier video links
 - [PW Nursing Wallah / Aarogyam A&P](https://www.youtube.com/watch?v=_bPmrRWgrTQ)
 - [NORCET 10 introduction / thyroid](https://www.youtube.com/watch?v=BalA29k0tuM)
 - [NORCET 10 endocrine countdown](https://www.youtube.com/watch?v=GnwsrLcZzEs)
