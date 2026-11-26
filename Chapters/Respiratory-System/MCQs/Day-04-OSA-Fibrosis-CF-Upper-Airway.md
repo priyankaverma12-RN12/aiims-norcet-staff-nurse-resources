@@ -4,6 +4,8 @@
 
 **10 original English unattempted practice MCQs.** Not official past-paper text. Solve before opening explanations. Source-traced themes in Previous Year Questions.
 
+## Obstructive sleep apnea
+
 ### Q1. A sleeping patient has recurrent airflow obstruction despite persistent thoracoabdominal effort. Which disorder fits?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -41,6 +43,8 @@
 **Exam trick:** 15–<30 moderate.
 
 </details>
+
+## Fibrosis and occupational disease
 
 ### Q3. A patient has progressive dry cough, fine inspiratory crackles and reduced lung compliance. Which disorder fits best?
 
@@ -118,6 +122,8 @@
 
 </details>
 
+## Pulmonary hypertension and sarcoidosis
+
 ### Q7. A patient has echo evidence suggesting pulmonary hypertension. Which test establishes pulmonary hemodynamics definitively?
 
 **Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -155,6 +161,8 @@
 **Exam trick:** Sarcoid typical pattern.
 
 </details>
+
+## Cystic fibrosis and upper airway emergencies
 
 ### Q9. Why may a child with cystic fibrosis require pancreatic enzyme replacement?
 
