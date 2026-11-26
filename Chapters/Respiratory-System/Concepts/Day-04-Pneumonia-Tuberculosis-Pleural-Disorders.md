@@ -79,7 +79,7 @@ Drain below chest level, tubing kink-free, connections secure; monitor output, c
 | Pleural air, hyperresonance | Pneumothorax |
 | Shock with suspected tension pneumothorax | Emergency decompression |
 
-**Exam focus:** High-yield clinical distinctions, not verified frequency counts. ARDS, pulmonary embolism and full respiratory failure were only proposed for later study, not marked completed.
+**Exam focus:** High-yield clinical distinctions, not verified frequency counts. Respiratory failure, ARDS aur pulmonary embolism ki theory ab chat mein presented hai; practice pending.
 
 ## Sources and practice
 
@@ -91,3 +91,62 @@ Drain below chest level, tubing kink-free, connections secure; monitor output, c
 - Separate concept teaching videos and authentic new previous-year paper wording not independently verified in this pass.
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) | [MCQs](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [References](../References.md)
+
+
+## 4. Respiratory failure, ARDS and pulmonary embolism — Day 4 continuation
+
+**Status:** Theory presented in chat; additional practice not yet attempted.
+
+### Respiratory failure
+
+Respiratory failure is a condition in which the respiratory system cannot maintain adequate oxygenation, carbon dioxide removal, or both. Easy language: oxygen blood mein nahi pahunch rahi, CO2 bahar nahi nikal rahi, ya dono problems hain.
+
+| Parameter | Typical adult arterial range |
+|---|---|
+| pH | 7.35–7.45 |
+| PaO2 | 80–100 mmHg (room air, varies with age/altitude) |
+| PaCO2 | 35–45 mmHg |
+| HCO3 | 22–26 mEq/L |
+
+**Type I = oxygenation failure:** PaO2 below 60 mmHg on room air, PaCO2 normal/low. Pneumonia, ARDS, pulmonary edema, PE common examples. **Type II = ventilation failure:** PaCO2 above 45 mmHg; acute cases may show low pH. COPD exacerbation, neuromuscular weakness, respiratory fatigue and CNS depression causes hain.
+
+ABG example from chat: pH 7.25, PaCO2 60, HCO3 24: primary respiratory acidosis, likely acute (values illustrative). CO2 acid load badhata hai, isliye pH girta hai. Low pH + low HCO3 suggests metabolic acidosis; high pH + low CO2 respiratory alkalosis; high pH + high HCO3 metabolic alkalosis. Compensation and mixed disorders need further assessment.
+
+Dyspnea, tachypnea, tachycardia, accessory muscle use, confusion and cyanosis assess karo. **Increasing drowsiness, exhaustion and reduced effort = emergency warning**, not improvement. Maintain airway, assess ABC, monitor SpO2/ABG and mental status, give titrated oxygen per protocol, escalate for HFNC/NIV/intubation as indicated. COPD with hypercapnia risk: initial target 88–92% pending ABG; oxygen never automatically withheld. NIV is not appropriate when airway protection is inadequate.
+
+### ARDS
+
+ARDS = Acute Respiratory Distress Syndrome. Acute diffuse inflammatory injury increases alveolar-capillary permeability and causes non-cardiogenic pulmonary edema. Easy language: alveoli mein fluid accumulate hota hai, oxygen blood mein properly transfer nahi hoti.
+
+Initial injury → inflammation → barrier damage → permeability increases → fluid-filled alveoli → reduced gas exchange → severe hypoxemia. Sepsis, severe pneumonia, aspiration, trauma, pancreatitis and inhalation injury causes hain.
+
+**Berlin definition (classic exam criteria):** within 1 week of known insult or new/worsening symptoms; bilateral opacities not fully explained by effusion, collapse or nodules; respiratory failure not fully explained by cardiac failure/fluid overload. Oxygenation severity with PEEP/CPAP ≥5 cm H2O (moderate/severe on PEEP):
+
+| Severity | PaO2/FiO2 (mmHg) |
+|---|---|
+| Mild | >200 to 300 |
+| Moderate | >100 to 200 |
+| Severe | ≤100 |
+
+Example: PaO2 80, FiO2 0.80 → ratio 100, severe if remaining Berlin criteria met. FiO2 decimal mein use karo. Lower ratio = worse oxygenation. Berlin is the classic definition; newer global definition expands eligibility to selected non-intubated patients.
+
+Treatment: underlying cause treat karo; lung protective ventilation (typically 6 mL/kg predicted body weight, range 4–8; plateau pressure <30 cm H2O), appropriate PEEP, prone positioning for selected severe cases, conservative fluid management when shock resolved. ICU team determines corticosteroids/advanced support. Nursing: monitor ABG/SpO2, ventilator alarms, airway security, secretions, oral care, hemodynamics, fluid balance and skin. Proning trained team se; tubes, eyes, pressure areas protect karo.
+
+### Pulmonary embolism
+
+Pulmonary embolism is obstruction of a pulmonary artery or its branches, usually by a thrombus from deep veins of the lower extremities.
+
+**Virchow's triad:** venous stasis (immobility), endothelial injury (surgery/trauma), hypercoagulability (malignancy, pregnancy/postpartum, estrogen, thrombophilia). Clot travels via vena cava → right atrium → right ventricle → pulmonary artery. Perfusion block hota hai despite ventilation, causing increased dead space and possible right ventricular strain.
+
+Sudden dyspnea, pleuritic chest pain, tachypnea, tachycardia, hypoxemia; hemoptysis sometimes, syncope/hypotension in severe PE. Wells clinical probability guides testing: D-dimer useful for rule-out in suitable low/intermediate probability; positive result alone does not diagnose PE. CTPA common imaging; V/Q scan alternative; ECG may show sinus tachycardia, echo right ventricular strain, leg ultrasound DVT.
+
+Emergency nursing: ABC, urgent escalation, oxygen if hypoxemic, hemodynamic monitoring, IV access per protocol; anticoagulation when indicated, selected unstable high-risk cases may need reperfusion. Monitor bleeding on anticoagulants. Prevent with appropriate mobilization and prescribed mechanical/pharmacologic prophylaxis.
+
+**Exam traps:** PE = perfusion obstruction; ARDS = permeability edema; Type II = CO2 retention. Sudden hypotension with suspected PE requires emergency response.
+
+### Sources and verification
+
+- [ATS ARDS management guideline](https://www.thoracic.org/statements/resources/cc/ards-guidelines.pdf)
+- [NICE NG158 venous thromboembolic diseases](https://www.nice.org.uk/guidance/ng158)
+- [Existing ABG notes and diagrams](Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+- No newly authenticated previous-year question or independently verified new teaching/practice video in this update. Exact chat image assets unavailable; no claim of image reuse.
