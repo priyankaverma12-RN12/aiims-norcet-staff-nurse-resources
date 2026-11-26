@@ -41,7 +41,7 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 **Topic 2 — Chambers, Valves, Septum and Great Vessels:** [Detailed concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Chambers-Valves.md) · [50 topic-wise MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Chambers-Valves.md) · [30 mixed practice mock](Chapters/Cardiovascular-System/MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Chambers-Valves-Quick-Revision.md).
 
-**Cardio total so far: 128 original practice questions** — 48 anatomy + 50 chambers/valves + 30 mixed. New questions unattempted.
+**Cardio total: 168 original practice questions** — 128 prior + 40 new clinical practice questions (unattempted). [Full cardiovascular master study guide](Chapters/Cardiovascular-System/Concepts/Cardiovascular-System-Master-Guide.md) — physiology, ECG, diseases, emergency care, pharmacology, diagrams and source-labeled exam research. New theory is study-ready, not marked completed.
 
 ## 🧭 Kaise padhna hai?
 
