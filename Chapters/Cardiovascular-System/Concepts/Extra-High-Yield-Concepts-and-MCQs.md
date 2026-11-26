@@ -887,3 +887,7 @@ Heart embryo ki **splanchnic (splanchnopleuric) mesoderm** se develop hota hai. 
 - [OpenStax cardiac muscle](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity) · [NCBI heart and pericardial cavity](https://ncbi.nlm.nih.gov/sites/books/NBK482452/) · [All references](../References.md).
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](../References.md)
+
+## Next practice
+
+[50 chambers and valves questions](../MCQs/Day-04-Chambers-Valves.md) · [30 mixed Cardio mock](../MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md). Earlier 40 anatomy questions preserved; no reprinting.
