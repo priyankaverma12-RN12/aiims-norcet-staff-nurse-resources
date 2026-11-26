@@ -37,7 +37,9 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 ### ❤️ [Cardiovascular System — Day 4 started](Chapters/Cardiovascular-System/README.md)
 
-[Heart Anatomy, Pericardium and Cardiac Muscle concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [8 original English MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [40 additional topic-wise MCQs](Chapters/Cardiovascular-System/Concepts/Extra-High-Yield-Concepts-and-MCQs.md) · [Previous Year Questions evidence](Chapters/Cardiovascular-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Heart-Anatomy-Quick-Revision.md). Sirf actual studied anatomy content; practice in progress. Next topics pending.
+[Heart Anatomy, Pericardium and Cardiac Muscle concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [8 original English MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [40 additional topic-wise MCQs](Chapters/Cardiovascular-System/Concepts/Extra-High-Yield-Concepts-and-MCQs.md) · [Previous Year Questions evidence](Chapters/Cardiovascular-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Heart-Anatomy-Quick-Revision.md). Sirf actual studied anatomy content; practice in progress.
+
+**Topic 2 — Chambers, Valves, Septum and Great Vessels:** [Detailed concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Chambers-Valves.md) · [MCQ practice](Chapters/Cardiovascular-System/MCQs/Day-04-Chambers-Valves.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Chambers-Valves-Quick-Revision.md).
 
 ## 🧭 Kaise padhna hai?
 
