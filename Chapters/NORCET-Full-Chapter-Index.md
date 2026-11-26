@@ -125,3 +125,8 @@ These five tests are revision compilations of prior original practice questions.
 ## Neurological mock expansion
 
 [Neurological System mock 01](Neurological-System/Mock-Tests/Neurological-System-Mock-01-120.md) is published with 120 distinct new clinical questions, also organized into two topic-wise banks. Total repository full-length mocks now 6 across 4 chapters. Total mock slots 720. Five-per-chapter target 175. Remaining 169. No duplicate counting of question-bank content as original mock content.
+
+
+## Cardiovascular mock expansion
+
+[Mock 02](Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-02-120.md) is published. Current total: 7/175 full-length mocks, 4/35 chapters with a full-length mock, 840 mock slots. This includes 56 new original cardiovascular questions. Previous counts above are historical snapshots.

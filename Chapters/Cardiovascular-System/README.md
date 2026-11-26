@@ -68,3 +68,6 @@ Five reconstructed diagrams embedded; complete lesson includes final gap audit. 
 
 ## Chapter-only long mock tests
 [Mock-Tests directory and practice plan](Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md). Existing short mocks remain available in MCQs.
+
+
+[56 additional clinical MCQs](MCQs/Cardiovascular-Additional-Clinical-MCQs-56.md). [120-question Mock 02](Mock-Tests/Cardiovascular-System-Mock-02-120.md).
