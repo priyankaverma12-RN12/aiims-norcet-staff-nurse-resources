@@ -889,3 +889,363 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 ---
 
 **🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+
+
+---
+
+## Day 2 — Remaining Diagnostic Investigations (15 unattempted MCQs)
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+**15 unattempted original practice MCQs.** English stems/options, Roman Hinglish solutions. Ye official previous-year paper nahi hai. Mock mein concepts revisit hote hain, stems/scenarios naye hain. Pehle solve karo, phir answer dropdown kholo.
+
+[Research and reported Previous Year Question leads](Research-and-Paper-Leads.md)
+
+### Q37. A patient who has undergone bronchoscopy requests water. What should the nurse do first?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Give water immediately
+- **B.** Place the patient in Trendelenburg position
+- **C.** Give water through a straw
+- **D.** Assess the return of gag reflex and safe swallowing before giving water
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. Assess the return of gag reflex and safe swallowing before giving water**
+
+**Kyun sahi hai:** Sedation/local anaesthesia protective swallowing reflex impair kar sakti hai; safe swallowing aur alertness confirm karo.
+
+**Baaki options kyun nahi:** Immediate water aspiration risk hai; Trendelenburg reflex restore nahi karta; straw impaired swallowing safe nahi banata.
+
+**Exam trick:** Safe swallow first, then oral intake.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q38. A sputum culture is ordered. Which specimen is most useful?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Deeply coughed lower respiratory secretion
+- **B.** Saliva
+- **C.** Nasal discharge
+- **D.** Exhaled air
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Deeply coughed lower respiratory secretion**
+
+**Kyun sahi hai:** Actual lower airway secretion organism identify karne mein useful hai.
+
+**Baaki options kyun nahi:** Saliva oral contamination; nasal discharge upper airway; exhaled air sputum nahi.
+
+**Exam trick:** Sputum = deep cough, not saliva.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q39. A stable patient has suspected pneumothorax. Why may a chest radiograph be ordered?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Identify pleural air and assess lung expansion
+- **B.** Identify bacteria
+- **C.** Measure arterial pH
+- **D.** Measure FEV1
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Identify pleural air and assess lung expansion**
+
+**Kyun sahi hai:** X-ray pleural air aur lung expansion ka structural clue deta hai.
+
+**Baaki options kyun nahi:** pH ABG se; bacteria culture se; FEV1 spirometry se. Unstable emergency mein imaging ke liye care delay nahi.
+
+**Exam trick:** X-ray structure, ABG gases.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q40. Which test provides cross-sectional images of lung anatomy?
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Pulse oximetry
+- **B.** Computed tomography
+- **C.** Capnography
+- **D.** Sputum culture
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Computed tomography**
+
+**Kyun sahi hai:** CT detailed anatomical slices deta hai.
+
+**Baaki options kyun nahi:** Capnography CO2; culture microbes; oximetry saturation estimate.
+
+**Exam trick:** CT = detailed slices.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q41. Which procedure directly visualizes an abnormality inside the bronchial lumen?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Bronchoscopy
+- **B.** Percussion
+- **C.** Thoracentesis
+- **D.** ABG analysis
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Bronchoscopy**
+
+**Kyun sahi hai:** Bronchoscope airway lumen ka direct view deta hai.
+
+**Baaki options kyun nahi:** Thoracentesis pleural fluid; percussion external assessment; ABG gases/pH.
+
+**Exam trick:** Bronchoscopy = scope inside bronchus.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q42. A patient has pleural effusion. Which procedure obtains pleural fluid for analysis?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Thoracentesis
+- **B.** Bronchoscopy
+- **C.** Spirometry
+- **D.** Capnography
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Thoracentesis**
+
+**Kyun sahi hai:** Thoracentesis pleural space se fluid sample leti hai.
+
+**Baaki options kyun nahi:** Spirometry airflow; bronchoscopy lumen; capnography expired CO2.
+
+**Exam trick:** Pleural fluid = thoracentesis.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q43. Which procedure obtains lung tissue for histopathology?
+
+**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Lung biopsy
+- **B.** Chest radiography
+- **C.** Sputum microscopy
+- **D.** Pulse oximetry
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: A. Lung biopsy**
+
+**Kyun sahi hai:** Biopsy tissue architecture examine karti hai.
+
+**Baaki options kyun nahi:** Sputum secretions; oximetry saturation; radiograph image, tissue nahi.
+
+**Exam trick:** Biopsy = tissue.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q44. Which investigation compares regional airflow and pulmonary blood flow?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Bronchoscopy
+- **B.** Ventilation-perfusion scan
+- **C.** Peak flow
+- **D.** Sputum culture
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Ventilation-perfusion scan**
+
+**Kyun sahi hai:** V/Q scan regional ventilation aur perfusion compare karta hai.
+
+**Baaki options kyun nahi:** Peak flow expiratory speed; bronchoscopy lumen; culture organisms.
+
+**Exam trick:** V = air; Q = blood flow.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q45. A monitor displays end-tidal carbon dioxide in mmHg. What does this represent?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Tidal volume
+- **B.** Blood bicarbonate
+- **C.** Arterial oxygen saturation
+- **D.** CO2 at the end of exhalation
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. CO2 at the end of exhalation**
+
+**Kyun sahi hai:** ETCO2 exhalation ke end ka CO2 pressure hai; PaCO2 exactly equal zaroori nahi.
+
+**Baaki options kyun nahi:** Saturation %; volume mL; bicarbonate mEq/L.
+
+**Exam trick:** End tidal = end of breath out.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q46. A drowsy patient has adequate SpO2 but suspected CO2 retention. Which test establishes arterial CO2 and pH?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Chest radiograph alone
+- **B.** Sputum culture
+- **C.** Repeat oximetry alone
+- **D.** ABG analysis
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. ABG analysis**
+
+**Kyun sahi hai:** SpO2 adequate hone par bhi CO2 retain ho sakti hai; ABG PaCO2 aur pH batata hai.
+
+**Baaki options kyun nahi:** Oximetry CO2 nahi batata; X-ray anatomy; culture infection.
+
+**Exam trick:** Normal SpO2 does not rule out hypercapnia.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q47. SpO2 falls while a patient moves the monitored finger. What is the safest immediate approach?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Remove monitoring permanently
+- **B.** Assess the patient and verify probe signal and placement
+- **C.** Record without checking
+- **D.** Assume the patient is stable
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Assess the patient and verify probe signal and placement**
+
+**Kyun sahi hai:** Motion artifact possible hai, lekin actual hypoxemia exclude karo.
+
+**Baaki options kyun nahi:** Unverified record unreliable; assuming stability unsafe; monitoring remove karne se deterioration miss hogi.
+
+**Exam trick:** Patient first, probe second.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q48. The identification band does not match the respiratory investigation order. What should the nurse do?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Proceed using bed number
+- **B.** Change the order independently
+- **C.** Ask another patient to confirm
+- **D.** Pause and resolve the discrepancy
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: D. Pause and resolve the discrepancy**
+
+**Kyun sahi hai:** Wrong-patient procedure prevent karna priority hai.
+
+**Baaki options kyun nahi:** Bed number unique ID nahi; another patient reliable nahi; unauthorized change unsafe.
+
+**Exam trick:** Two identifiers, then procedure.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q49. Which test can show the gross distribution of suspected pleural fluid on an initial chest image?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Peak flow
+- **B.** Chest radiography
+- **C.** Capnography
+- **D.** Sputum microscopy
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Chest radiography**
+
+**Kyun sahi hai:** Radiograph pleural fluid ka gross clue de sakta hai.
+
+**Baaki options kyun nahi:** Sputum microbes/cells; capnography CO2; peak flow airflow.
+
+**Exam trick:** Fluid location = imaging.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q50. A sputum specimen is requested for suspected pulmonary tuberculosis. Which approach is appropriate?
+
+**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Wait until cough resolves
+- **B.** Collect the ordered respiratory specimen with appropriate infection precautions
+- **C.** Collect urine instead
+- **D.** Collect saliva in a crowded room
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: B. Collect the ordered respiratory specimen with appropriate infection precautions**
+
+**Kyun sahi hai:** Respiratory specimen aur airborne precautions protocol follow karo.
+
+**Baaki options kyun nahi:** Saliva poor specimen and exposure risk; urine wrong specimen; delay diagnosis postpone karta hai.
+
+**Exam trick:** Specimen quality plus infection safety.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+### Q51. An abnormal radiograph requires more anatomical detail without immediate tissue sampling. Which test best meets the goal?
+
+**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+
+- **A.** Thoracentesis
+- **B.** Capnography
+- **C.** Chest CT
+- **D.** Lung biopsy
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Chest CT**
+
+**Kyun sahi hai:** CT detailed imaging deta hai without tissue sampling.
+
+**Baaki options kyun nahi:** Biopsy invasive tissue; capnography CO2; thoracentesis pleural fluid.
+
+**Exam trick:** Need anatomical detail, not tissue: CT.
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+
+</details>
+
+**Difficulty breakdown:** Easy: 2, Medium: 11, Difficult: 2
+
+[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
