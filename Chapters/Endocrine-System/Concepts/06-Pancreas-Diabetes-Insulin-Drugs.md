@@ -139,13 +139,13 @@ Approximate textbook ranges only. specific formulation, dose and manufacturer in
 
 [Diabetes mellitus and insulin lecture](https://www.youtube.com/watch?v=JQ5FiVbojC8) · [Mixed endocrine practice](https://www.youtube.com/watch?v=xcwJd5RbBb4)
 
-[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Public title/description check; full playback not reviewed.
+[All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
-[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video title/description only checked previously; full playback not reviewed.
+[Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 ## Clinical references
 [ADA 2026 pharmacology](https://doi.org/10.2337/dc26-S009) · [NIDDK diabetes testing](https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis)
 
-[All references](../References.md). Adult exam education; bedside treatment follows clinician orders/current local protocol.
+[All references](../References.md). Ye adult nursing exam ki padhai ke liye hai. Patient ki treatment doctor ke order aur hospital protocol se hoti hai.
 
 [🏠 Chapter](../README.md) · [📚 All concept files](Endocrine-System-Master-Guide.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md) · [Sources](../References.md)
