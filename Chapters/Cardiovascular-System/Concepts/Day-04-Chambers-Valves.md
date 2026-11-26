@@ -16,6 +16,13 @@
 - [Videos and sources](#videos-and-sources)
 
 ## Four chambers
+
+**Easy Hinglish — pehle concept samjho**
+
+**Simple example:** Heart ko four-room house samjho. Upar ke do rooms (atria) blood receive karte hain, neeche ke do rooms (ventricles) blood pump karte hain. Right ventricle ko lungs tak pump karna hai; left ventricle ko poori body tak, isliye LV ki wall thicker hoti hai.
+
+**Yaad rakho:** Right side → lungs, left side → body. Dono atria receiving chambers hain.
+
 **Priority: Very High.** Heart ko ek four-room pumping house ki tarah imagine karo. Upar ke rooms blood receive karte hain aur neeche ke rooms blood ko aage pump karte hain. Atrium = Arrival of blood. Ventricle = blood ko aage pump karta hai.
 
 ![Four chambers and major vessels — original schematic reconstruction](../Assets/chambers-valves-flow.svg)
@@ -65,6 +72,11 @@ LA → mitral → LV → aortic valve → aorta → body. LV mein anterolateral 
 | Pressure | Lower | Higher |
 
 ## Septum and fetal openings
+
+**Easy Hinglish — pehle concept samjho**
+
+**Kya hai?** Septum heart ke right aur left parts ke beech partition hai. Jaise do rooms ke beech wall hoti hai, waise septum normally blood ko direct mix hone se rokta hai. Fetal life mein circulation alag hoti hai; foramen ovale ek normal fetal passage hai. Birth ke baad circulation badalti hai.
+
 **Priority: High.** Septum = partition; jaise do rooms ke beech wall. Interatrial septum separates atria; interventricular separates ventricles; small AV septal region separates RA and LV. IV septum large muscular lower and small membranous upper part. ASD = abnormal atrial opening; VSD = abnormal ventricular opening; perimembranous common type. Typical uncomplicated ASD/VSD shunting initially left-to-right (depends on pressure/resistance). Detailed congenital disorders later.
 
 ![Foramen ovale and fossa ovalis — schematic](../Assets/foramen-ovale.svg)
@@ -72,6 +84,13 @@ LA → mitral → LV → aortic valve → aorta → body. LV mein anterolateral 
 Fetal lungs gas exchange nahi karte; oxygen placenta se milti hai. Foramen ovale RA → LA blood passage. Birth: first breath → lungs expand → pulmonary vascular resistance decreases → lung blood flow increases → LA pressure exceeds RA → flap closes functionally. Anatomical fusion later, not always complete. Fossa ovalis oval depression. PFO incomplete flap fusion, not exactly same as ASD. **Foramen = Opening; Fossa = Depression.**
 
 ## Four valves
+
+**Easy Hinglish — pehle concept samjho**
+
+**Analogy — one-way doors:** Valve ka kaam blood ko correct direction mein jaane dena aur reverse flow rokna hai. Pressure difference se valves open aur close hote hain. Tricuspid aur mitral atria aur ventricles ke beech; pulmonary aur aortic ventricles ke outlets par.
+
+**Exam trick:** Right AV valve = tricuspid; left AV valve = mitral (bicuspid).
+
 **Priority: Very High.** Valves heart ke one-way doors hain; non-return water valve ki tarah backflow prevent karte hain. AV valves atria and ventricles ke beech; semilunar ventricles and great arteries ke beech.
 
 | Valve | Location | Cusps | Chordae |
@@ -87,6 +106,11 @@ Fetal lungs gas exchange nahi karte; oxygen placenta se milti hai. Foramen ovale
 Annulus fibrous support ring hai. Leaflets moving flaps, commissures adjacent leaflets ke meeting regions. Door ka frame annulus, moving part leaflet. Annular dilation se mitral leaflets ka coaptation (proper meeting) affect ho sakta hai, regurgitation possible. [Valve anatomy](https://teachmeanatomy.info/thorax/organs/heart/heart-valves/).
 
 ## Chordae and papillary muscles
+
+**Easy Hinglish — pehle concept samjho**
+
+Chordae tendineae ko strong strings samjho jo AV valve leaflets ko papillary muscles se connect karti hain. Ventricular contraction ke time papillary muscles chordae ko tension mein rakhte hain, taaki leaflets atria ki taraf prolapse na karein. Ye valve ko kheenchkar open nahi karte.
+
 **Priority: Very High.** Chordae tendineae strong fibrous cords (heart strings) connect AV leaflets to papillary muscles. Papillary muscles ventricular myocardium ke muscular projections hain; systole mein contract karke chordae taut rakhte hain. AV leaflets atria mein ulte nahi mudte.
 
 ![AV leaflet and supporting cords — original reconstructed schematic](../Assets/av-valve-support.svg)
@@ -95,6 +119,13 @@ Parachute ki canopy ko leaflets aur strings ko chordae samjho. Strings canopy ko
 MI → papillary muscle rupture → loss of mitral support → systolic LV-to-LA leakage → acute MR → pulmonary edema/hypotension risk. Emergency clinical correlation only; disease management later.
 
 ## Valve mechanism and heart sounds
+
+**Easy Hinglish — pehle concept samjho**
+
+**Kaise hota hai?** Ventricles contract karte hain, pressure badhta hai aur AV valves close hote hain — S1 (lub). Ventricles relax karne lagte hain, semilunar valves close hote hain — S2 (dub).
+
+**Exam clue:** S1 = mitral + tricuspid closure; S2 = aortic + pulmonary closure. Sound ko valve opening se confuse mat karna.
+
 **Priority: Very High.** Systole = contraction; diastole = relaxation. Ventricular filling: atrial pressure > ventricular pressure, AV valves open, semilunar closed. Ejection: ventricular pressure > atrial pressure closes AV valves; ventricular pressure > corresponding arterial pressure opens semilunar valves. Pressure gradients drive passive opening/closure.
 
 ![Valve states filling vs ejection — original schematic](../Assets/valve-phases.svg)
