@@ -326,3 +326,9 @@ As of **25 November 2026**, `Chapters/Respiratory-System/` already contains (act
 This skill is stored in the GitHub repo and is intended to be **re-read on every future GitHub-publishing task**. GitHub Copilot/agents that support repository skill discovery may load it from `.github/skills/`. **ChatGPT does not automatically inject arbitrary repository SKILL.md files or change its personal Memory just because the file exists**: when a later ChatGPT session receives "push this to GitHub", locate this repo and fetch this file before writing. If unavailable, state the access limitation rather than pretending to have read it.
 
 **Do not promise background or delayed publishing.** Execute GitHub operations in the current turn when tools are available, and transparently report the real result.
+
+
+### Learner-confirmed long notes format (26 November 2026)
+- When explicitly requested, publish an entire chapter as ONE substantial master guide, including not-yet-studied material clearly marked study-ready, not completed. This is an exception to the studied-only rule, not permission to mark progress.
+- Match Respiratory Day 1/2 language: teach from zero in natural Roman Hindi, with English medical terms defined on first use. No dense textbook paragraphs, clipped English fragments, or forced analogies. Long means thorough coverage, not long paragraphs: use short explanatory bullets, numbered mechanisms, tables, examples and concise sections.
+- Use consistent visible color markers in GitHub Markdown: 🔴 MOST IMPORTANT within a topic, 🟠 HIGH YIELD topic, 🟡 IMPORTANT, 🟢 FOUNDATION. Add source status beside repeated-question claims; distinguish documented memory-based recurrence from verified official exam frequency. Do not invent counts. Put topic-wise original English MCQs with hidden detailed Hinglish rationales and source-linked Previous Year Questions at the bottom of the same master guide. Maintain navigable chapter README and verify remote push.
