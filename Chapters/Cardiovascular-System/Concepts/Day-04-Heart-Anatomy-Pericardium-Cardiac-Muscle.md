@@ -58,6 +58,9 @@ Memory trick: Inter = between, ventricular = ventricles, sulcus = groove.
 ### Anatomical relations
 Anterior: sternum and costal cartilages. Posterior: esophagus and descending thoracic aorta. Inferior: diaphragm. Lateral: lungs and mediastinal pleura. Superior: great vessels. Esophagus left atrium ke peeche hota hai; isi relationship ka use transesophageal echocardiography (TEE) mein hota hai.
 
+### Embryological development (High priority for HP Staff Nurse)
+Heart embryo ki splanchnic (splanchnopleuric) mesoderm se develop hota hai. [NCBI embryology](https://www.ncbi.nlm.nih.gov/books/NBK537313/) · [HPSSC 2022 scanned Q43](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=10). [Additional 40 topic-wise MCQs and priorities](../Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
+
 ### Position variations
 Levocardia: apex left side. Dextrocardia: congenital right-directed apex. Situs inversus totalis: thoracic aur abdominal organs ki mirror-image arrangement. Har dextrocardia patient mein situs inversus necessary nahi hai.
 
@@ -144,6 +147,10 @@ Cardiac muscle ka refractory period long hota hai. Is wajah se sustained tetanic
 Tamponade: Excessive pericardial fluid → heart compression → decreased ventricular filling → decreased cardiac output → hypotension/risk of shock. Rapid accumulation mein kam fluid bhi dangerous ho sakta hai. Effusion aur tamponade same nahi; tamponade emergency hai. Pericardiocentesis selected tamponade cases mein life-saving ho sakta hai. Full disease management later.
 
 **Memory tricks:** Tamponade = pressure on heart. Myo = muscle, cardio = heart, itis = inflammation. Fibrous = firm covering; fluid = friction reduction.
+
+## Topic-wise priorities
+
+Very High: heart wall/pericardial fluid, intercalated discs and cardiac skeleton, cardiac muscle properties, clinical conditions. High: location/development, surfaces/borders/grooves, cardiac muscle/histology. Medium: attachments, nerves, supply. Low: pericardial sinuses. [Practice all nine groups](../Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
 
 ## Videos
 | Studied topic group | Teaching | Practice |
