@@ -26,3 +26,5 @@ Medical knowledge ke liye reference books aur guidelines use kiye hain. Original
 - [Nursing Academy HP downloads](https://www.nursingacademyhp.com/download) (coaching source)
 
 See [Previous Year Questions](Previous-Year-Questions/README.md) for question-level evidence and caveats. Clinical procedures follow local policy and treating team.
+
+Additional foundation and coaching references: [NDLI NCERT Class XI catalogue](https://ndl.iitkgp.ac.in/se_document/ncert/ncert/a567ca4379fe4aaa207bb9ed9d64521c), [Adda247 Stroke](https://www.youtube.com/watch?v=OpoWHRT2wmY), [Mission High Meningitis](https://www.youtube.com/watch?v=bIQeZRT-z7I), [PW Nursing nervous anatomy](https://www.youtube.com/watch?v=XLvCdzG3X3A).

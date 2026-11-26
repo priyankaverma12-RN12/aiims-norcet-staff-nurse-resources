@@ -24,6 +24,8 @@ MS mein immune system CNS myelin ko damage karta hai. Isliye signal slow ya bloc
 
 ## Myasthenia gravis
 
+![Original schematic of Myasthenia gravis](../Assets/neuromuscular-junction.svg)
+
 MG mein antibodies neuromuscular junction par communication ko disturb karti hain. Muscles activity ke saath weak aur rest se better ho sakti hain. Ptosis, diplopia, dysphagia aur nasal speech clues hain. Sensation usually normal hai. Pyridostigmine acetylcholinesterase inhibit karke acetylcholine ka effect badhati hai. Meal timing ko medicine order ke saath coordinate karo. Myasthenic crisis mein respiratory weakness life-threatening hai. Serial vital capacity, breathing effort aur swallowing assess karo. Excess cholinergic medicine se weakness ke saath salivation, diarrhea, miosis aur bradycardia ho sakti hai. Dono crisis mein emergency clinician review chahiye. Edrophonium testing routine modern bedside distinction nahi hai.
 
 ## Guillain-Barré syndrome

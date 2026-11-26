@@ -15,6 +15,8 @@ Ye original revision diagram hai. Neeche poora concept samjho.
 
 ## Head injury aur hematomas
 
+![Original schematic of Head injury aur hematomas](../Assets/hematoma-ct-shapes.svg)
+
 Head injury mein primary damage impact se hota hai. Secondary damage hypoxia, hypotension aur swelling se badh sakta hai. Concussion transient brain dysfunction hai, normal CT possible hai. Epidural hematoma often middle meningeal artery se associated aur CT par lens-shaped hota hai. Lucid interval ho sakta hai par hamesha nahi. Subdural hematoma often bridging veins se aur crescent-shaped hota hai. Elderly aur anticoagulated patients risk mein hote hain. Subarachnoid hemorrhage subarachnoid space mein bleeding hai. Basilar skull fracture mein Battle sign, raccoon eyes ya CSF leak ho sakta hai. Suspected basal fracture mein blind nasal tube insertion avoid karo. Neck injury possible hai toh spinal alignment protect karo. Airway compromise priority hai.
 
 ## Spinal cord injury aur shocks

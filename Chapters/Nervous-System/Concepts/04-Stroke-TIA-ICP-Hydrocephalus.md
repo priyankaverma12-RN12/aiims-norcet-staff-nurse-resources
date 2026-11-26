@@ -42,3 +42,7 @@ Video titles/descriptions search mein mile hain. Har subtopic ka exact segment a
 **Reading:** [Medical reference](https://www.stroke.org/en/professionals/stroke-resource-library/acute-ischemic-stroke-resources) · [All sources](../References.md).
 
 [Chapter](../README.md) · [MCQs](../MCQs/04-Stroke-TIA-ICP-Hydrocephalus.md) · [Previous Year Questions](../Previous-Year-Questions/README.md) · [Revision](../Revision/Nervous-System-Quick-Revision.md) · [References](../References.md)
+
+## Specific stroke video
+
+[Adda247 Nursing — Stroke one shot by Pari Ma'am](https://www.youtube.com/watch?v=OpoWHRT2wmY). Search description mein stroke types, FAST, emergency nursing aur MCQs listed hain. Puri recording independently watch nahi ki gayi.

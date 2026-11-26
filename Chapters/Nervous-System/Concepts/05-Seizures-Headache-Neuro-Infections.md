@@ -40,3 +40,7 @@ Video titles/descriptions search mein mile hain. Har subtopic ka exact segment a
 **Reading:** [Medical reference](https://www.cdc.gov/epilepsy/first-aid-for-seizures/) · [All sources](../References.md).
 
 [Chapter](../README.md) · [MCQs](../MCQs/05-Seizures-Headache-Neuro-Infections.md) · [Previous Year Questions](../Previous-Year-Questions/README.md) · [Revision](../Revision/Nervous-System-Quick-Revision.md) · [References](../References.md)
+
+## Specific meningitis video
+
+[Mission High Nursing Classes — Meningitis explained](https://www.youtube.com/watch?v=bIQeZRT-z7I). Description mein bacterial, viral aur TB meningitis plus nursing management listed hai. Full recording review pending hai.

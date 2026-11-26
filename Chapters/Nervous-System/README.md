@@ -22,3 +22,13 @@ Priority study guidance hai, official exam weightage nahi. Concepts mein diagram
 ## Mock practice
 
 [120-question mock 01](Mock-Tests/Nervous-System-Mock-01-120.md) · [Mock plan and remaining work](Mock-Tests/Nervous-System-Mock-Test-Plan.md).
+
+## Priority — pehle kya padhein?
+
+| Priority | Topics |
+|---|---|
+| Very high | GCS, stroke/TIA, seizure/status, ICP, cranial nerves, meningitis, spinal injury, MG/GBS respiratory emergencies |
+| High | Neuroanatomy, synapse, reflexes, ANS, diagnostics, Parkinson, MS, hydrocephalus, dementia, rehabilitation, rabies/JE/AFP |
+| Medium | Headache subtypes, rare tumor types, peripheral entrapment details, detailed neurotransmitter comparisons |
+
+Ye editorial study priorities hain, actual exam frequency ka statistical proof nahi. **14 original schematic diagrams** and **10 source-linked reported question prompts** are available. More individual-topic videos and 4–5 separate full mocks remain pending.
