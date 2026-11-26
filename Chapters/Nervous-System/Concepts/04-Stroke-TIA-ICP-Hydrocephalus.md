@@ -46,3 +46,73 @@ Video titles/descriptions search mein mile hain. Har subtopic ka exact segment a
 ## Specific stroke video
 
 [Adda247 Nursing — Stroke one shot by Pari Ma'am](https://www.youtube.com/watch?v=OpoWHRT2wmY). Search description mein stroke types, FAST, emergency nursing aur MCQs listed hain. Puri recording independently watch nahi ki gayi.
+
+
+---
+
+# Detailed learning and clinical application
+
+## Stroke pathophysiology ko step by step samjho
+
+Brain ko continuous oxygen aur glucose chahiye. Artery block hone par blood flow kam hota hai. Sabse severely affected area infarct core ban sakta hai. Uske aas-paas penumbra mein tissue threatened hota hai par timely reperfusion se kuch tissue save ho sakta hai. Isliye time-sensitive treatment important hai. Thrombotic stroke local vessel clot se aur embolic stroke travelling clot se ho sakta hai. Atrial fibrillation cardioembolic risk badhati hai. Small vessel disease lacunar infarct de sakti hai.
+
+Hemorrhagic stroke mein blood vessel rupture ke baad blood tissue ko damage karta hai aur pressure badha sakta hai. Intracerebral hemorrhage brain tissue ke andar aur subarachnoid hemorrhage CSF space mein hoti hai. Hypertension major modifiable risk factor hai. Smoking, diabetes, dyslipidemia, atrial fibrillation, inactivity aur previous TIA risk assessment mein important hain.
+
+## Clinical localisation aur stroke types
+
+| Finding | Common association |
+|---|---|
+| Face and arm weakness greater than leg | MCA territory. |
+| Leg weakness greater than arm | ACA territory. |
+| Homonymous visual field loss | PCA ya visual pathway lesion. |
+| Aphasia | Dominant hemisphere language network. |
+| Hemispatial neglect | Often nondominant hemisphere lesion. |
+| Diplopia, dysphagia, ataxia | Posterior circulation concern. |
+
+BE FAST: Balance, Eyes, Face, Arm, Speech, Time. Posterior stroke sirf FAST screen se miss ho sakta hai. New severe imbalance, diplopia ya brainstem symptoms ko seriously assess karo.
+
+## Acute stroke nursing workflow
+
+1. Stroke code aur ABC response activate karo. Oxygen hypoxemia ke liye titrate hoti hai, routine high oxygen har normoxic patient ke liye necessary nahi.
+2. Last known well time, baseline function, anticoagulants aur recent procedures document karo. Bedside glucose assess karo.
+3. Urgent imaging aur stroke team evaluation arrange karo. NIHSS trained staff neurological deficit quantify karte hain.
+4. Oral intake withheld rakho jab tak swallow screen complete na ho. Aspiration precautions aur suction readiness maintain karo.
+5. BP ko blindly normal mat karo. Ischemic stroke, thrombolysis aur hemorrhage ke targets alag hain. Thrombolysis protocols traditionally treatment se pehle BP below 185/110 aur baad mein below 180/105 mmHg aim karte hain. Current local stroke team protocol follow karo.
+6. Reperfusion ke baad neurological deterioration, severe headache, vomiting, bleeding aur BP changes urgently report karo. Post-thrombolysis antithrombotic timing imaging aur protocol ke according hoti hai.
+7. Fever, glucose, hydration, skin, mobility, DVT risk aur nutrition manage karo.
+
+Antiplatelets platelet aggregation reduce karte hain. Anticoagulants clotting cascade affect karte hain. Dono interchangeable nahi hain. Atrial fibrillation mein anticoagulation selected patients ke liye appropriate ho sakti hai. Timing bleeding risk aur infarct characteristics par depend karti hai. Carotid disease mein selected patients revascularization ke liye evaluated hote hain.
+
+## Stroke rehabilitation and discharge
+
+Hemiplegia ek side paralysis hai. Hemiparesis ek side weakness hai. Affected shoulder ko pull mat karo. Positioning aur supported transfer se joint injury prevent hoti hai. Neglect mein patient ko affected side ki awareness develop karne ke liye therapist-led scanning techniques sikhao. Aphasia mein simple sentences, gesture, communication board aur adequate response time do. Dysphagia diet consistency speech/swallow specialist decide karta hai. Thickened fluid har patient ke liye automatically safe nahi hai.
+
+Goal measurable rakho. Example: Patient trained assistance se safe transfer perform karega aur aspiration signs ke bina prescribed feeding plan tolerate karega. Caregiver ko recurrent stroke signs, emergency contact, medicine adherence aur home fall safety explain karo.
+
+## Raised ICP and cerebral perfusion
+
+Monro-Kellie concept mein fixed skull space ke andar tissue, blood aur CSF volume balance hota hai. Early compensation mein CSF aur venous blood displacement ho sakti hai. Jab reserve finish hoti hai, chhota volume increase bhi ICP rapidly badha sakta hai. Cerebral edema cytotoxic (cell swelling), vasogenic (barrier leakage) ya other mechanisms se ho sakti hai. Brain herniation mein tissue pressure gradient ke kaaran displacement hoti hai.
+
+Early clues headache, vomiting, restlessness aur declining consciousness ho sakte hain. Papilledema prolonged raised pressure ka clue ho sakta hai, acute cases mein absent ho sakta hai. Uncal herniation CN III compression se ipsilateral dilated pupil de sakti hai. Cushing response late warning hai. Iske aane ka wait mat karo.
+
+MAP approximate formula = (SBP + 2 × DBP) / 3. CPP = MAP − ICP.
+
+**Case 1:** BP 120/60, ICP 18. MAP = (120 + 120)/3 = 80 mmHg. CPP = 62 mmHg.
+**Case 2:** MAP 75, ICP 30. CPP = 45 mmHg. Ye low perfusion concern hai. Sirf ICP number nahi, hemodynamics bhi assess karo.
+**Case 3:** MAP 90 unchanged hai aur ICP 15 se 25 ho gaya. CPP 75 se 65 ho gaya. Pressure rise perfusion reduce kar sakta hai.
+
+Mannitol plasma osmolality badhakar water shift aur diuresis kar sakta hai. Hypertonic saline bhi osmotic effect deti hai. Sodium, renal function, fluid status aur protocol targets monitor karo. Routine hyperventilation cerebral vasoconstriction se perfusion reduce kar sakti hai. Emergency rescue specialist decide karta hai.
+
+## Subarachnoid hemorrhage aur aneurysm
+
+Aneurysm vessel wall ki abnormal outpouching hai. Rupture se thunderclap headache, vomiting, neck stiffness ya loss of consciousness ho sakta hai. Emergency CT aur specialist evaluation needed hai. Selected patients clipping ya coiling se treated hote hain. Delayed cerebral ischemia aur vasospasm complications ho sakte hain. Nimodipine aneurysmal SAH mein prescribed hoti hai to reduce risk of poor outcomes from delayed ischemia. BP aur neurological trend monitor karo.
+
+## Hydrocephalus and EVD care detail
+
+CSF blockage, absorption failure ya rarely overproduction se hydrocephalus ho sakta hai. Infants mein sutures open hone se head size increase ho sakta hai. Adults mein skull rigid hota hai. Gait, cognition aur urinary symptoms NPH ka classic combination hai.
+
+EVD temporary external drainage system hai. Prescribed level, patient position, amount, colour aur patency document karo. System closed rakho. Untrained flushing, arbitrary clamping ya height change mat karo. Sudden excessive drainage, absent output with deterioration, leakage aur fever report karo. VP shunt long-term internal route hai. Shunt malfunction ke signs patient aur caregiver ko teach karo.
+
+**Sources:** [Stroke nursing reference](https://openstax.org/books/medical-surgical-nursing/pages/15-introduction) · [Critical care neuro](https://openstax.org/books/medical-surgical-nursing/pages/35-4-neurological-concerns).
+
+[Chapter](../README.md) · [Topic-wise MCQs](../MCQs/04-Stroke-TIA-ICP-Hydrocephalus.md) · [Revision](../Revision/Nervous-System-Quick-Revision.md)
