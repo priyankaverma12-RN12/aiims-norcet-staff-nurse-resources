@@ -23,7 +23,7 @@ GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.m
 
 Pehle topic ko detail mein padho → doubts clear karo → original English MCQs solve karo → **Push this to GitHub** bolo. Day 1/2 par baad mein wapas aaogi, toh **usi chapter aur existing Day wali files ko update** karenge. Missed points ke liye ek hi `Concepts/Extra-High-Yield-Concepts-and-MCQs.md` file (jab useful ho), aur exam-level Medium/Difficult questions. GK ya next chapter alag rahega, par tabhi active hoga jab padha hoga.
 
-## 📚 Abhi available chapter
+## 📚 Abhi available chapters
 
 **[Day 4 — Last 7 extra high-yield topics: Flail chest to Mantoux](Chapters/Respiratory-System/README.md#day-4--last-7-extra-high-yield-topics-flail-chest-to-mantoux)**
 
@@ -35,9 +35,9 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 ### 🫁 [👉 Respiratory System overview kholo](Chapters/Respiratory-System/README.md)
 
-### Next chapter placeholder (abhi empty)
+### ❤️ [Cardiovascular System — Day 4 started](Chapters/Cardiovascular-System/README.md)
 
-[❤️ Cardiovascular System — planned, abhi studied nahi](Chapters/Cardiovascular-System/Concepts/) — NORCET past-paper analyses mein high-priority Med-Surg area; **official fixed weightage nahi**. Sirf placeholder folders hain, koi notes/MCQs nahi.
+[Heart Anatomy, Pericardium and Cardiac Muscle concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [8 original English MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [Previous Year Questions evidence](Chapters/Cardiovascular-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Heart-Anatomy-Quick-Revision.md). Sirf actual studied anatomy content; practice in progress. Next topics pending.
 
 ## 🧭 Kaise padhna hai?
 
