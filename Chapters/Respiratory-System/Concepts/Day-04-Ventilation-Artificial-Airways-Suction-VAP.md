@@ -45,3 +45,7 @@ Pneumonia generally ≥48 h after invasive ventilation. Head of bed 30–45° if
 - Teaching: [Critical care nursing, Dr Ujjwal](https://www.youtube.com/watch?v=urPD3YtXua0), [NORCET Xpress respiratory](https://www.youtube.com/watch?v=3dWnyE63nJ8). MCQ: [Aarogyam Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo), [Mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck). Metadata checked, full transcripts not reviewed; individual topic video matches not all verified.
 
 [Chapter](../README.md) | [Day 4 previous concepts](Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [References](../References.md)
+
+
+## Bonus NORCET 11 reported theme — auto-PEEP
+COPD mein expiration slow hoti hai. Agar next breath previous breath fully exhale hone se pehle start ho, air trap hoti hai; intrinsic PEEP (auto-PEEP) rise, hypotension and high pressure possible. Expiratory flow waveform baseline par return na karna clue hai. ICU team evaluates longer expiratory time (e.g. lower respiratory rate/shorter inspiratory time as appropriate), not blindly increase RR or TV. Nurse assesses patient/circuit and escalates; no independent adjustment unless authorized. [NPrep memory-based Q15](https://storage.googleapis.com/nprep-f64b1.firebasestorage.app/nprep_assets/norcet11/NORCET-11-NPrep-GOLD-proof.pdf).
