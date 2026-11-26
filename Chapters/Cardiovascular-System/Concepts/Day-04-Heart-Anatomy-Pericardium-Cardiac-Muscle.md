@@ -13,6 +13,13 @@
 
 ## Location and external anatomy
 
+**Easy Hinglish — pehle concept samjho**
+
+**Pehle basic samjho:** Mediastinum ka matlab dono lungs ke beech chest ka central space hai. Heart yahin present hai, poora left side mein nahi. Apex ko heart ka pointed end aur base ko broad posterior part samjho. Apni closed fist dekho — adult heart ka size roughly itna hota hai.
+
+**NORCET clue:** Location poochhe toh middle mediastinum; apex poochhe toh left ventricle; base poochhe toh mainly left atrium.
+
+
 Cardiovascular system body ka transportation system hai. Heart blood pump karta hai, blood vessels blood ko ek jagah se doosri jagah le jaati hain aur blood oxygen, nutrients, hormones aur waste products transport karta hai. Heart ko water pump ki tarah samjho, blood vessels ko pipes aur blood ko pipes mein flow hone wala liquid.
 
 ![Heart location and surface landmarks — original reconstructed schematic](../Assets/heart-anatomy-overview.svg)
@@ -65,6 +72,13 @@ Heart embryo ki splanchnic (splanchnopleuric) mesoderm se develop hota hai. [NCB
 Levocardia: apex left side. Dextrocardia: congenital right-directed apex. Situs inversus totalis: thoracic aur abdominal organs ki mirror-image arrangement. Har dextrocardia patient mein situs inversus necessary nahi hai.
 
 ## Pericardium and heart wall
+
+**Easy Hinglish — pehle concept samjho**
+
+**Confusion clear karo:** Pericardium heart ke bahar ka protective bag hai, jabki heart wall heart ki apni layers hain. Visceral serous pericardium hi epicardium hai. Jaise ek moving machine ke parts ke beech oil friction kam karta hai, waise pericardial fluid beating heart ki movement smooth rakhne mein help karta hai.
+
+**Example:** Myocardium muscle hai, isi ki contraction se blood pump hota hai. Endocardium andar ki lining hai; dono ka function same nahi.
+
 Pericardium ek protective sac hai jo heart ko surround karta hai. Fibrous pericardium tough outer covering hai; heart ko protect karta hai, position maintain karta hai aur sudden excessive stretching prevent karta hai. Serous pericardium ki two layers: parietal aur visceral (epicardium).
 
 ![Outside-to-inside wall and coverings; reconstructed original schematic](../Assets/heart-wall-pericardium.svg)
@@ -96,6 +110,13 @@ Phrenic nerve aur pericardiacophrenic vessels lateral pericardium ke paas saath 
 Transverse sinus ascending aorta/pulmonary trunk ke posterior aur SVC ke anterior mein passage hai. Oblique sinus left atrium ke posterior mein blind-ending recess hai. Lower priority but anatomy MCQs mein useful.
 
 ## Cardiac muscle and skeleton
+
+**Easy Hinglish — pehle concept samjho**
+
+**Kya hai?** Cardiac muscle heart ki special involuntary muscle hai. Tumhe har heartbeat ke liye consciously command nahi deni padti. Iski cells intercalated discs se connected hoti hain; electrical signals aur mechanical force coordinated tarike se pass ho sakte hain.
+
+**Analogy:** Fibrous cardiac skeleton ko heart ke valves ka strong frame samjho. Ye support deta hai aur normally atria aur ventricles ke beech electrical insulation mein help karta hai.
+
 
 | Property | Cardiac muscle |
 |---|---|
