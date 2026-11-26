@@ -47,3 +47,6 @@ These are third-party reported exam topics, not independently authenticated offi
 - [PGIMER November 2026 recall PDF](https://result91.com/uploads/media/1/2026/11/pgimer-nursing-officer-memory-based-paper-held-on.pdf): archive lead, no authenticated endocrine item.
 
 **Status:** Official paper and answer-key authentication incomplete. Existing 11 reported topic entries retained; new collection leads not counted as verified questions. Original practice is separate.
+
+### Additional NORCET reported question lead
+- [NPrep NORCET 7 Prelims 2024](https://nprep.in/question-answer/the-nurse-is-educating-a-patient-with-hypercalcemia-which-gland-is-primarily-Q9U_mgnu65Mb4zekbeYs5): calcium regulation via parathyroid/PTH. **Answer concept:** Parathyroids regulate serum calcium through PTH. Third-party attribution, official shift/key not independently authenticated. New topic lead, not official verified question.
