@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 160 new original MCQs in four topic files.** 75 Medium and 85 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 200 new original MCQs in five topic files.** 89 Medium and 111 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -8,7 +8,7 @@
 | 2. [Sterilization, disinfection and CSSD](02-Sterilization-Disinfection-and-CSSD-40-MCQs.md) | 40 |
 | 3. [Standard and transmission precautions, PPE](03-Standard-and-Transmission-Precautions-PPE-40-MCQs.md) | 40 |
 | 4. [Biomedical waste management in India](04-Biomedical-Waste-Management-in-India-40-MCQs.md) | 40 |
-| 5. Occupational exposure, sharps and post-exposure care | 0 |
+| 5. [Occupational exposure, sharps and post-exposure care](05-Occupational-Exposure-Sharps-and-Post-Exposure-Care-40-MCQs.md) | 40 |
 | 6. Chain of infection and microbial transmission | 0 |
 | 7. Bacterial structure, classification and growth | 0 |
 | 8. Staining, microscopy and bacterial culture | 0 |
