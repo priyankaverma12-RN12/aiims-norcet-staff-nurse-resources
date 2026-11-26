@@ -13,7 +13,7 @@
 ## 📖 Start here
 | Study part | Open |
 |---|---|
-| Detailed concepts, disease-wise nursing care, diagnostics and diagrams | [📚 Endocrine Master Guide](Concepts/Endocrine-System-Master-Guide.md) |
+| 8 detailed concept files, disease-wise nursing care, diagnostics and diagrams | [📚 All 8 concept files](Concepts/Endocrine-System-Master-Guide.md) |
 | Topic-wise questions — 113 | [📝 Topic-wise MCQs](MCQs/Endocrine-Topic-Wise.md) |
 | Three mixed mocks — 25 | [🎯 Mixed mock practice](MCQs/Endocrine-Mixed-Mocks.md) |
 | Exam-source evidence, NORCET / PGIMER / HP | [🏥 Previous Year Questions](Previous-Year-Questions/README.md) |
@@ -21,6 +21,21 @@
 | Clinical and community sources | [🔎 References](References.md) |
 
 **Practice total: 138 original entries** (113 topic-wise + 25 mock), including 24 new clinical/community applications. Existing stems/options retained; legacy revision questions sometimes test the same concept. Not claimed as 138 semantically unique questions or official PYQs. All entries unattempted.
+
+## 📚 Detailed concept files — start here
+
+| Part | Detailed notes | Priority | Main topics |
+|---|---|---|---|
+| 1 | [Anatomy, hormones, feedback and assessment](Concepts/01-Endocrine-Anatomy-Hormones-Feedback-Assessment.md) | 🟠 High | Gland locations, hormone receptors, HPT/HPA/HPG axes, primary vs central failure, lab and physical assessment |
+| 2 | [Pituitary disorders, DI and SIADH](Concepts/02-Pituitary-Disorders-DI-SIADH.md) | 🔴 Very High | GH, prolactin, Sheehan syndrome, pituitary tumors, postoperative care and sodium/water balance |
+| 3 | [Thyroid disorders, emergencies and surgery](Concepts/03-Thyroid-Disorders-Emergencies-Surgery.md) | 🔴 Very High | Hormone synthesis, hypo/hyper, Graves, Hashimoto, goiter, thyroid cancers, storm, myxedema, thyroidectomy |
+| 4 | [Parathyroid, calcium and bone disorders](Concepts/04-Parathyroid-Calcium-Bone-Disorders.md) | 🔴 Very High | PTH, vitamin D, tetany, calcium emergencies, hungry bone syndrome, osteoporosis, CKD-MBD |
+| 5 | [Adrenal disorders](Concepts/05-Adrenal-Addison-Cushing-Conn-Pheochromocytoma.md) | 🔴 Very High | Cortex, medulla, Addison, crisis, Cushing, Conn, pheochromocytoma, CAH, surgery |
+| 6 | [Pancreas, diabetes, insulin and drugs](Concepts/06-Pancreas-Diabetes-Insulin-Drugs.md) | 🔴 Very High | Types, diagnosis, insulin onset/peak/duration, injections, mixing, numericals, drugs and diet |
+| 7 | [Hypoglycemia, DKA and HHS](Concepts/07-Hypoglycemia-DKA-HHS.md) | 🔴 Very High | Clinical signs, emergency sequence, criteria, osmolality, potassium safety, monitoring |
+| 8 | [Diabetes complications, community and other hormones](Concepts/08-Diabetes-Complications-Community-Other-Hormones.md) | 🟠 High | Foot/eye/kidney care, NP-NCD, NIDDCP, GDM, PCOS, MEN and other endocrine organs |
+
+**Dhyan de:** 3–4 related topic groups per file; Part 1–8 are a recommended study order, not completed days. Original diagrams and clinical examples are embedded in relevant files.
 
 ## 🎯 Topic coverage and priority
 | Topic | Study focus |
