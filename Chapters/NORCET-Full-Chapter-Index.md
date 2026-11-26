@@ -8,10 +8,11 @@
 | [Cardiovascular](Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md) | 2 |
 | [Endocrine](Endocrine-System/Mock-Tests/Endocrine-System-Mock-Test-Plan.md) | 1 |
 | [Neurological](Neurological-System/Mock-Tests/Neurological-System-Mock-Test-Plan.md) | 1 |
-| Other 31 chapters | 0 |
-| **Total** | **7 of 175** |
+| [Anatomy and Physiology](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | 5 |
+| Other 30 chapters | 0 |
+| **Total** | **12 of 175** |
 
-Four of 35 chapters have at least one full-length mock. Seven tests contain 840 practice slots. 168 further tests are needed to reach five per chapter. This update adds 176 distinct newly authored questions to the topic banks (120 neurological and 56 cardiovascular). Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Five of 35 chapters have at least one full-length mock. Twelve tests contain 1440 practice slots. 163 further tests are needed to reach five per chapter. This update adds 176 distinct newly authored questions to the topic banks (120 neurological and 56 cardiovascular). Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -82,7 +83,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 |---|---|---|---|---|
 | [Pharmacology](Pharmacology/README.md) | [Topic map](Pharmacology/Concepts/) | [4 starter questions](Pharmacology/MCQs/) | [Mock plan](Pharmacology/Mock-Tests/Pharmacology-Mock-Test-Plan.md) | [Research queue](Pharmacology/Previous-Year-Questions/) |
 | [Nutrition and Dietetics](Nutrition-and-Dietetics/README.md) | [Topic map](Nutrition-and-Dietetics/Concepts/) | [4 starter questions](Nutrition-and-Dietetics/MCQs/) | [Mock plan](Nutrition-and-Dietetics/Mock-Tests/Nutrition-and-Dietetics-Mock-Test-Plan.md) | [Research queue](Nutrition-and-Dietetics/Previous-Year-Questions/) |
-| [Applied Anatomy and Physiology](Anatomy-and-Physiology/README.md) | [Topic map](Anatomy-and-Physiology/Concepts/) | [4 starter questions](Anatomy-and-Physiology/MCQs/) | [Mock plan](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | [Research queue](Anatomy-and-Physiology/Previous-Year-Questions/) |
+| [Applied Anatomy and Physiology](Anatomy-and-Physiology/README.md) | [Topic map](Anatomy-and-Physiology/Concepts/) | [600 topic-wise questions](Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) | [Research queue](Anatomy-and-Physiology/Previous-Year-Questions/) |
 | [Biochemistry and General Pathology](Biochemistry-and-Pathology/README.md) | [Topic map](Biochemistry-and-Pathology/Concepts/) | [4 starter questions](Biochemistry-and-Pathology/MCQs/) | [Mock plan](Biochemistry-and-Pathology/Mock-Tests/Biochemistry-and-Pathology-Mock-Test-Plan.md) | [Research queue](Biochemistry-and-Pathology/Previous-Year-Questions/) |
 
 ## Workstream 8 — Professional subjects and aptitude
@@ -144,3 +145,8 @@ These five tests are revision compilations of prior original practice questions.
 ## Cardiovascular mock expansion
 
 [Mock 02](Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-02-120.md) is published. Current total: 7/175 full-length mocks, 4/35 chapters with a full-length mock, 840 mock slots. This includes 56 new original cardiovascular questions. Previous counts above are historical snapshots.
+
+
+## Anatomy and Physiology practice completion
+
+600 new original topic-wise questions across 30 named topics and five 120-question chapter-only mock compilations are published. Each topic has 20 questions. No exact stem is repeated across the five mocks. The five-test minimum is met for this chapter. PYQ verification and full concept writing remain separate tasks.

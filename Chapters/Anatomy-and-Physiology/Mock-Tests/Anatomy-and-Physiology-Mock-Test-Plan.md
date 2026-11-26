@@ -1,14 +1,13 @@
-# Applied Anatomy and Physiology — Chapter-only mock plan
+# Applied Anatomy and Physiology — Full chapter mock index
 
-**Pending, no 120-question mock has been published for this new chapter yet.** The goal is 5 to 6 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
+**Five full 120-question chapter mocks published.** The minimum five-test target is met for this chapter. A sixth optional test is not included. Questions are original topic-bank revision compilations and not official NORCET papers.
 
-| Mock | Target | Published |
-|---|---:|---|
-| 1 | 120 | Pending |
-| 2 | 120 | Pending |
-| 3 | 120 | Pending |
-| 4 | 120 | Pending |
-| 5 | 120 | Pending |
-| 6 | 120 | Pending |
+| Test | Questions | Medium | Difficult |
+|---|---:|---:|---:|
+| [Mock 1](Anatomy-and-Physiology-Mock-01-120.md) | 120 | 72 | 48 |
+| [Mock 2](Anatomy-and-Physiology-Mock-02-120.md) | 120 | 61 | 59 |
+| [Mock 3](Anatomy-and-Physiology-Mock-03-120.md) | 120 | 58 | 62 |
+| [Mock 4](Anatomy-and-Physiology-Mock-04-120.md) | 120 | 47 | 73 |
+| [Mock 5](Anatomy-and-Physiology-Mock-05-120.md) | 120 | 44 | 76 |
 
-[Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Anatomy-and-Physiology-Topic-Wise-Starter-MCQs.md)
+All five tests contain four questions per topic and 120 distinct stems each. No exact stem is shared between the five mocks. Each answer letter occurs 30 times per mock in a shuffled order. Total unique questions are 600, not 1200, because the mocks use the same question bank. Suggested timing 135 minutes. +1 correct, −1/3 wrong, 0 skipped. [Chapter](../README.md) · [Topic bank](../MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md)
