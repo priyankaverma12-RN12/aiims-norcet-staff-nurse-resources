@@ -2,7 +2,7 @@
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Chambers-Valves.md) | [MCQs](../MCQs/Day-04-Chambers-Valves.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md) | [References](../References.md)
 
-**Status:** Theory covered in chat on 26 November 2026, including final gap audit. Practice Q1 offered, not attempted. Priorities study recommendations hain, official exam weightage nahi. NORCET 12 / HPRCA / PGIMER / ESIC / RRB.
+**Status:** Theory covered in chat on 26 November 2026, including final gap audit. Practice Q1 offered, not attempted; Q2–Q50 and 30 mixed questions available for practice. Priorities study recommendations hain, official exam weightage nahi. NORCET 12 / HPRCA / PGIMER / ESIC / RRB.
 
 ## Contents
 - [Four chambers](#four-chambers)
@@ -138,6 +138,10 @@ Detailed symptoms, rheumatic disease, diagnosis, treatment, nursing management l
 ## Great vessels
 **Priority: Very High.** SVC upper body → RA; IVC lower body → RA; coronary sinus myocardium → RA; pulmonary arteries RV → lungs; pulmonary veins lungs → LA; aorta LV → body.
 Artery = away from heart; vein = towards heart; oxygen content definition nahi. Pulmonary artery deoxygenated, pulmonary veins oxygenated in normal postnatal circulation. Full pulmonary/systemic circulation next topic.
+
+## Practice after theory
+
+[50 topic-wise MCQs](../MCQs/Day-04-Chambers-Valves.md) · [30 mixed mock](../MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) · [Previous Year Questions evidence](../Previous-Year-Questions/README.md#chambers-and-valves-evidence).
 
 ## Videos and sources
 | Topic group | Teaching video | MCQ practice |
