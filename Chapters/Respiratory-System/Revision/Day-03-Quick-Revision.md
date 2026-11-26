@@ -49,3 +49,5 @@
 [Chapter](../README.md) | [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) | [Day 3 care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-03-Quick-Revision.md) | [References](../References.md)
 
 **Status:** Theory lesson presented on 25 November 2026; MCQ practice and learner mastery pending. No attempted scores or solved questions recorded.
+
+[55 disease MCQs](../MCQs/Day-03-Asthma-COPD-55.md) · [45 care MCQs](../MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [30-question final mock](../MCQs/Day-03-Final-Mock-30.md).
