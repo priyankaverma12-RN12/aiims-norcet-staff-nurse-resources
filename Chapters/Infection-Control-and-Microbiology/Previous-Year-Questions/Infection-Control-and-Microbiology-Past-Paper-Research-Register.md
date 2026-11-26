@@ -17,3 +17,7 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 ## Video practice
 [Aarogyam mixed Fundamentals MCQ including infection control](https://www.youtube.com/watch?v=q4pI8nzTclw). Public title/description checked. This is practice, not official PYQ proof. Full playback not reviewed. Dedicated concept lectures still need verification.
+
+
+## 27 November continuation
+[15 listed question adaptations](Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md), including 13 new question-level leads. HPSSC 2020 and 2021 pages opened, other exam items indexed third-party sources. HPRCA official matching remains pending. [Video guide](../Concepts/Infection-Control-and-Microbiology-Video-and-Research-Guide.md).

@@ -1,14 +1,5 @@
-# Infection Control and Microbiology — Chapter-only mock plan
+# Infection Control and Microbiology — ten-mock plan
 
-**Pending, no 120-question mock has been published for this new chapter yet.** The goal is 5 to 6 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
+**0/10 complete full chapter mocks.** Publish only after the topic-first bank is substantially complete and validate 120 questions per test, distinct stems between tests where feasible. Aim for 1,200 distinct stems across ten tests. This is custom chapter practice, not official NORCET length. The current 120 questions cover only three topics and are not yet a full-chapter mock.
 
-| Mock | Target | Published |
-|---|---:|---|
-| 1 | 120 | Pending |
-| 2 | 120 | Pending |
-| 3 | 120 | Pending |
-| 4 | 120 | Pending |
-| 5 | 120 | Pending |
-| 6 | 120 | Pending |
-
-[Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-Starter-MCQs.md)
+[Current bank](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [Chapter](../README.md)

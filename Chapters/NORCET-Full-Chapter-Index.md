@@ -169,3 +169,8 @@ This supersedes earlier numerical targets. For every curriculum chapter, publish
 ## Continuation checkpoint
 
 Next: Infection Control and Microbiology. Afterwards audit and expand all earlier chapters to the revised target. Baseline: 17 published mocks, 350 target, 333 remaining. No chapter is yet confirmed to meet the revised ten-mock target. Existing 35-chapter denominator is provisional until the directory inventory is reconciled against the curriculum index. Older counts and targets are historical.
+
+
+## Infection Control and Microbiology — continuation checkpoint
+
+120 new original questions published in three 40-question topic banks, plus 13 new reported PYQ adaptations (15 total including two prior entries), three YouTube links and two WHO practice/teaching resources. 27 topic groups remain at the current 30-group scope. Full chapter mocks 0/10. Overall mock progress remains **17/350**. Next batch: biomedical waste management, occupational exposure and chain of infection. Continue the same chapter before creating mocks or moving on. [Chapter](Infection-Control-and-Microbiology/README.md)

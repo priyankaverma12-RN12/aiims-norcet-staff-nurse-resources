@@ -34,3 +34,39 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 [Indian Nursing Council curriculum](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf) · [AIIMS NORCET 10 official notice](https://www.aiimsraipur.edu.in/upload/vacancies/69a2c1a491171_Advertisement%20for%20NORCET%2010.pdf) · [NORCET 11 notice copy](https://dshelpingforever.co.in/wp-content/uploads/2026/07/AIIMS-NORCET-11-Recruitment-2026-Notification-PDF.pdf) · [OpenStax nursing textbooks](https://www2.openstax.org/nursing-2026)
 
 [Chapter](../README.md) · [MCQs](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-Starter-MCQs.md)
+
+
+## Expanded practice coverage (in progress)
+
+- 1. Hand hygiene and WHO Five Moments — 40 original MCQs published
+- 2. Sterilization, disinfection and CSSD — 40 original MCQs published
+- 3. Standard and transmission precautions, PPE — 40 original MCQs published
+- 4. Biomedical waste management in India — pending
+- 5. Occupational exposure, sharps and post-exposure care — pending
+- 6. Chain of infection and microbial transmission — pending
+- 7. Bacterial structure, classification and growth — pending
+- 8. Staining, microscopy and bacterial culture — pending
+- 9. Gram-positive cocci and bacilli — pending
+- 10. Gram-negative cocci and enteric bacilli — pending
+- 11. Nonfermenters and hospital bacterial pathogens — pending
+- 12. Mycobacteria and tuberculosis — pending
+- 13. Anaerobes and spore-forming pathogens — pending
+- 14. Spirochetes, atypical bacteria and rickettsiae — pending
+- 15. Viruses and viral replication — pending
+- 16. Bloodborne and hepatitis viruses, HIV — pending
+- 17. Respiratory, enteric and vaccine-preventable viruses — pending
+- 18. Medical mycology and opportunistic fungi — pending
+- 19. Protozoa and malaria — pending
+- 20. Helminths and intestinal parasites — pending
+- 21. Innate and adaptive immunity — pending
+- 22. Immunoglobulins, complement and hypersensitivity — pending
+- 23. Vaccination, cold chain and passive immunization — pending
+- 24. Specimen collection and diagnostic microbiology — pending
+- 25. Antimicrobial resistance and stewardship — pending
+- 26. HAI prevention and surveillance definitions — pending
+- 27. CAUTI prevention — pending
+- 28. CLABSI and vascular device infection prevention — pending
+- 29. VAP and surgical site infection prevention — pending
+- 30. Environmental IPC, outbreak investigation and surveillance calculations — pending
+
+[Topic-wise index](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [Videos](Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
