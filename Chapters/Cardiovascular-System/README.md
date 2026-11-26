@@ -14,6 +14,11 @@ Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, peric
 
 **Practice:** Q1–Q7 attempted in chat; Q8 pending. 40 additional topic-wise practice MCQs are now available (unattempted); 48 total across both banks. No personal scores published.
 
+
+## Full cardiovascular master guide — study-ready
+
+[**Open master guide: full chapter study sequence, diagrams, 40 new English MCQs, exam evidence and videos**](Concepts/Cardiovascular-System-Master-Guide.md). Includes coronary circulation, cardiac cycle/output, assessment, ECG, ACS, HF, BP, valves/inflammation, congenital disease, vascular disorders, shock/BLS/ACLS, drugs and procedures. Earlier anatomy and valve lessons remain linked rather than duplicated. New material is **not yet marked studied or attempted**. Total original practice now 168 (128 existing + 40 new: 21 Medium, 19 Difficult). Source-attributed exam leads are not official verified questions; priority estimates are qualitative.
+
 ## Additional topic-wise practice — 40 MCQs
 
 [Open 40 MCQs with hidden Hinglish answers and topic priorities](Concepts/Extra-High-Yield-Concepts-and-MCQs.md). Includes embryology, surfaces, coverings, nerves, sinuses, histology, junctions, muscle properties and clinical basics. 9 Easy, 22 Medium, 9 Difficult. Priorities are study guidance, not official weights.
@@ -40,7 +45,7 @@ Five reconstructed diagrams embedded; complete lesson includes final gap audit. 
 | [Mixed mock](MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) | 30 | 3 | 18 | 9 |
 | **Total** | **128** | **30** | **70** | **28** |
 
-**Next study:** Chambers/valves practice, then pulmonary and systemic blood circulation. Coronary circulation, conduction, ECG, diseases and treatment not yet completed.
+**Next study:** Open the master guide and work through theory and new practice. These topics are available for study, not marked completed.
 
 **Sources:** [Medical references](References.md). HPSSC 2022 Series A Q43 verified in third-party scanned paper; official key not verified. Other reported leads are separate. Videos checked by titles/descriptions, not full transcripts. Diagrams original reconstructed SVGs.
 
