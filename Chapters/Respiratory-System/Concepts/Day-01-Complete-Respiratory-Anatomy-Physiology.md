@@ -528,3 +528,9 @@ B fast saans le raha hai, lekin total minute ventilation A ke equal hai. **Fast 
 ---
 
 **🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📝 Day 1 ke 40 MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md) · [🔎 Sources](../References.md)
+
+
+## Day 4 revisit — V/Q, dead space, gas transport
+Ventilation V = alveolar air flow; perfusion Q = pulmonary capillary blood flow. Overall V/Q approximately 0.8 (4 L/min alveolar ventilation ÷ 5 L/min perfusion). Air aur blood dono milna zaroori. Asthma/pneumonia low V/Q; blood without ventilation = shunt (V/Q=0), ventilation without perfusion = dead space (V/Q approaches infinity), PE can increase dead space. Anatomical dead space conducting zone, typical adult ~150 mL. Physiologic dead space = anatomical + alveolar.
+AV = (TV − DS) × RR. Example TV 500 mL, DS 150 mL, RR 12/min: AV 4200 mL/min = 4.2 L/min, MV 6 L/min. Rapid shallow breathing may preserve MV while AV falls.
+Bohr effect: ↑CO2, ↓pH promote O2 unloading at tissues. Haldane effect: oxygen binding to Hb in lungs promotes CO2 release. Right shift of O2 dissociation curve: ↑temperature, ↑CO2, ↓pH, ↑2,3-DPG; oxygen unloading increases. Left shift opposite. [NCBI ABG](https://www.ncbi.nlm.nih.gov/books/NBK371/) · [Dead space](https://www.ncbi.nlm.nih.gov/books/NBK482501/).
