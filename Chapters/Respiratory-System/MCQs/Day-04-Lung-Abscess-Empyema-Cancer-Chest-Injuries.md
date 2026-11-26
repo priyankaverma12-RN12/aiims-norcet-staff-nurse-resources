@@ -4,6 +4,8 @@
 
 **10 original English unattempted practice MCQs.** Not official past-paper text. Solve before opening explanations. Source-traced themes in Previous Year Questions.
 
+## Lung abscess, empyema and pleurisy
+
 ### Q1. A lung image shows an intraparenchymal cavity with an air-fluid level in a patient with fever and foul sputum. What is suspected?
 
 **Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
@@ -60,6 +62,8 @@
 **Exam trick:** Pleural friction causes pain.
 
 </details>
+
+## Lung cancer and surgery
 
 ### Q4. A patient with squamous cell lung carcinoma develops hypercalcemia. Which paraneoplastic mediator is classically implicated?
 
@@ -136,6 +140,8 @@
 **Exam trick:** Lobe removal.
 
 </details>
+
+## Chest trauma and hemoptysis
 
 ### Q8. Following blunt trauma, a chest wall segment moves inward on inspiration and outward on expiration. What is this called?
 
