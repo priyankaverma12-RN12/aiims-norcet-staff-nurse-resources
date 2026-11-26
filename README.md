@@ -43,6 +43,10 @@ Pehle topic ko detail mein padho → doubts clear karo → original English MCQs
 
 **Cardio total: 168 original practice questions** — 128 prior + 40 new clinical practice questions (unattempted). [Full cardiovascular master study guide](Chapters/Cardiovascular-System/Concepts/Cardiovascular-System-Master-Guide.md) — physiology, ECG, diseases, emergency care, pharmacology, diagrams and source-labeled exam research. New theory is study-ready, not marked completed.
 
+### 🧠 [Endocrine System — Study-ready notes](Chapters/Endocrine-System/README.md)
+
+[Endocrine concepts, topic-wise practice MCQs and initial mock test](Chapters/Endocrine-System/README.md) — beginner-friendly Hinglish, gland-wise topics and nursing priorities. First edition; expanded diagrams, larger question bank and verified PYQs pending. Not marked as studied.
+
 ## 🧭 Kaise padhna hai?
 
 1. **Concepts** se start karo — long notes mein diagrams, formulas aur Hinglish explanations hain.
