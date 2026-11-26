@@ -111,3 +111,12 @@ Existing topic guides and revision updated in place. No personal scores or purpo
 ## Day 2–3 practice bank research
 
 [Research and paper leads](MCQs/Research-and-Paper-Leads.md). 170 original questions published for future practice. Existing questions retained; exact normalized stem audit passed. Official previous-paper key verification and exhaustive semantic duplicate review remain incomplete.
+
+## Day 4 completion research — 26 November 2026
+
+- [AIIMS Bhubaneswar curriculum](https://aiimsbhubaneswar.nic.in/wp-content/uploads/2024/06/NursingSyllabus.pdf), Unit III respiratory topics (text extracted; page screenshot failed). Not official NORCET weightage.
+- [AARC suction guidance](https://pubmed.ncbi.nlm.nih.gov/35078900/) · [Open RN tracheostomy](https://www.ncbi.nlm.nih.gov/books/NBK596713/) · [VAP prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC10903147/).
+- [ICMR NTEP standard regimen](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964686_2_ntep_18032022.pdf) (page visually checked) · [WHO TST](https://tbksp.who.int/en/node/2029).
+- [Merck chest trauma](https://www.merckmanuals.com/professional/injuries-poisoning/thoracic-trauma/overview-of-thoracic-trauma) · [Pulmonary hypertension](https://www.merckmanuals.com/professional/pulmonary-disorders/pulmonary-hypertension/pulmonary-hypertension) · [Hemoptysis](https://www.merckmanuals.com/professional/pulmonary-disorders/symptoms-of-pulmonary-disorders/hemoptysis).
+- [Reported exam leads](Previous-Year-Questions/Day-04-Reported-Exam-Leads.md) and concept guide teaching/practice video links. Full videos and official keys not independently verified, NPrep large PDF screenshot unavailable.
+- 156 original unattempted new MCQs: 2 Easy, 106 Medium, 48 Difficult; 422 distinct normalized stems total. No additional standalone 30+ supplement: extra topics integrated into matching existing guides and banks. Full semantic and clinical review beyond source checks incomplete.
