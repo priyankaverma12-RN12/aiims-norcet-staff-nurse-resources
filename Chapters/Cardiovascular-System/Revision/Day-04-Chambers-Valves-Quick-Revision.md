@@ -25,3 +25,5 @@
 Isovolumetric phases: all valves closed. Aortic auscultation on right, others left. Erb's point not a valve. Full disease and circulation topics pending.
 
 [Chapter](../README.md) | [Concepts](../Concepts/Day-04-Chambers-Valves.md) | [MCQs](../MCQs/Day-04-Chambers-Valves.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md) | [References](../References.md)
+
+**Practice:** [50 topic-wise MCQs](../MCQs/Day-04-Chambers-Valves.md) · [30 mixed mock](../MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md).
