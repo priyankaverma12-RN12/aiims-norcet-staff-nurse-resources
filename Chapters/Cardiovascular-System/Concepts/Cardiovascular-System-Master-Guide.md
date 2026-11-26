@@ -1255,6 +1255,85 @@ CABG/valve surgery post-op: monitor airway, hemodynamics, bleeding/chest drains,
 - **Verification limitation:** Topic priority is a teaching judgement, not a measured NORCET/PGIMER/HPRCA question-frequency statistic. Do not label any question **verified PYQ** or **most repeated** unless its original paper, exam, year/shift, and question can be checked.
 - **Study rule:** First concepts → clinical signs → immediate nursing action → original MCQ practice → revise errors. Guidelines and drug protocols must be checked against the current local clinical policy.
 
+
+### 🎨 🔴 VERY HIGH | Cardiac emergency rapid-decision chart
+
+| Patient clue | Most concerning possibility | First nursing priority |
+|---|---|---|
+| Crushing chest pain, diaphoresis | Acute coronary syndrome | ABCs, vitals, prompt 12-lead ECG and urgent escalation |
+| Pulseless, chaotic ventricular rhythm | Ventricular fibrillation | High-quality CPR and defibrillation per arrest algorithm |
+| Organized ECG rhythm but no pulse | Pulseless electrical activity | CPR, epinephrine per protocol, search reversible causes; **do not shock** |
+| Severe dyspnea, crackles, pink frothy sputum | Acute pulmonary edema | Sit upright if tolerated, oxygen/ventilatory support as indicated, urgent review |
+| Hypotension + JVP elevation + muffled heart sounds | Cardiac tamponade | Emergency escalation and preparation for urgent echocardiography/drainage |
+| Sudden tearing chest/back pain, pulse deficit | Aortic dissection | Urgent assessment and imaging; do not assume ACS thrombolysis is safe |
+| Sudden painful cold pale pulseless limb | Acute limb ischemia | Immediate vascular escalation; time-critical limb threat |
+
+> 🧠 **Exam trick:** A stable rhythm and an unstable rhythm may need different interventions. **First assess the patient, pulse and hemodynamic stability**, not just the monitor pattern.
+
+### 🎨 🟠 HIGH | Heart sounds, murmurs and bedside clues — one-look table
+
+| Finding | Mechanism / association | Remember |
+|---|---|---|
+| S1 | Mitral + tricuspid valve closure | Start of ventricular systole |
+| S2 | Aortic + pulmonary valve closure | End of systole |
+| S3 | Rapid ventricular filling | Can be physiologic in young people; in older symptomatic adults consider volume overload/HF |
+| S4 | Atrial contraction into stiff ventricle | Typically absent in atrial fibrillation |
+| Aortic stenosis | Systolic ejection murmur, may radiate to carotids | Syncope, angina, dyspnea |
+| Mitral regurgitation | Holosystolic apical murmur, may radiate to axilla | Regurgitant flow LV → LA |
+| Aortic regurgitation | Early diastolic decrescendo murmur | Wide pulse pressure may occur |
+| Mitral stenosis | Diastolic rumble with opening snap | Often associated with rheumatic disease |
+
+### 🎨 🔴 VERY HIGH | Cardiac medications — contraindication and monitoring traps
+
+| Drug / class | Check before or during administration | Exam trap |
+|---|---|---|
+| Nitroglycerin | BP, symptoms, recent PDE-5 inhibitor use | Severe hypotension possible with PDE-5 inhibitors |
+| Beta blockers | HR, BP, conduction disease, clinical HF status | Can worsen symptomatic bradycardia |
+| Digoxin | Apical pulse, renal function, potassium, toxicity symptoms | Hypokalemia increases toxicity risk |
+| Loop diuretics | Fluid balance, BP, potassium, renal function | Hypokalemia and volume depletion |
+| ACE inhibitors / ARBs | BP, creatinine, potassium | Hyperkalemia; avoid ACE inhibitors in pregnancy |
+| Anticoagulants | Bleeding, renal function and relevant lab monitoring | Warfarin: INR; UFH: aPTT or anti-Xa per protocol |
+| Antiplatelets | Bleeding risk and prescribed ACS/PCI plan | Not interchangeable with anticoagulants |
+
+> 📌 **Safety:** This is an exam revision chart, not a standalone prescribing protocol. Actual doses, eligibility and emergency actions follow current clinical guidelines and local orders.
+
+### 📝 Original NORCET-style case MCQs — supplementary practice (NOT verified PYQs)
+
+**Q-A.** An adult with chest pain has SpO₂ 98% on room air and no respiratory distress. Which is best?  
+A. Give high-flow oxygen routinely · B. Assess, obtain urgent ECG and follow ACS pathway; oxygen only if indicated · C. Delay ECG until troponin result · D. Encourage walking  
+**Answer: B.** Routine oxygen is not indicated solely for suspected ACS when oxygenation is adequate.
+
+**Q-B.** A patient develops hypotension, distended neck veins and muffled heart sounds after a cardiac procedure. Most likely?  
+A. Stable angina · B. Cardiac tamponade · C. Essential hypertension · D. Uncomplicated pericardial effusion  
+**Answer: B.** Compression of the heart reduces filling and cardiac output.
+
+**Q-C.** A patient is unresponsive with a monitor showing organized complexes but no palpable pulse. Priority?  
+A. Defibrillate immediately · B. Start high-quality CPR and follow PEA algorithm · C. Give oral aspirin · D. Observe  
+**Answer: B.** PEA is non-shockable.
+
+**Q-D.** A patient taking furosemide reports weakness and palpitations. Which laboratory abnormality is particularly concerning?  
+A. Low potassium · B. High albumin · C. High HDL · D. Low uric acid  
+**Answer: A.** Loop diuretics can lower potassium and precipitate dysrhythmias.
+
+**Q-E.** A new cold, pale, painful leg has absent distal pulses. Best next action?  
+A. Massage leg · B. Apply heating pad · C. Urgent vascular assessment · D. Encourage exercise  
+**Answer: C.** Acute limb ischemia is time critical.
+
+**Q-F.** An ECG shows progressively lengthening PR intervals followed by a non-conducted P wave. This is:  
+A. First-degree AV block · B. Mobitz I (Wenckebach) · C. Complete heart block · D. Ventricular fibrillation  
+**Answer: B.** Progressive PR prolongation before dropped QRS is classic Mobitz I.
+
+**Q-G.** Which sound marks closure of the aortic and pulmonary valves?  
+A. S1 · B. S2 · C. S3 · D. S4  
+**Answer: B.** S2 occurs with semilunar valve closure.
+
+**Q-H.** BP 210/120 mmHg with acute encephalopathy is most consistent with:  
+A. White-coat hypertension · B. Hypertensive emergency · C. Isolated systolic hypertension without complications · D. Orthostatic hypotension  
+**Answer: B.** Acute target-organ injury defines hypertensive emergency.
+
+**Evidence note:** These eight questions were written for practice. They must not be labeled official NORCET/PGIMER/HPRCA PYQs or counted as verified repetitions.
+
+
 ## Revision and exam evidence
 
 ![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
