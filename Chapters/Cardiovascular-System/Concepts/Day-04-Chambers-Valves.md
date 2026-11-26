@@ -35,7 +35,7 @@
 | Left ventricle (LV) | Poori body mein blood pump | Oxygenated |
 
 ### Right atrium — Very High
-SVC head, neck, upper limbs aur upper body se; IVC lower body se; coronary sinus heart muscle ka majority venous blood laata hai. Ye three main venous openings RA mein hain. RA → tricuspid valve → RV.
+Right atrium ko receiving room samjho. Body blood se oxygen use kar leti hai, fir ye blood wapas heart ke right atrium mein aata hai. **SVC** head, neck, upper limbs aur upper body se blood laati hai. **IVC** lower body se blood laati hai. **Coronary sinus** heart muscle se aane wale venous blood ka major hissa laata hai. Ye teen main venous openings right atrium mein hoti hain. Fir blood tricuspid valve ke through RV mein jaata hai.
 | Internal structure | Meaning |
 |---|---|
 | Sinus venarum | Smooth posterior part |
@@ -53,14 +53,23 @@ Eustachian valve IVC opening par variable flap hai. Fetal life mein IVC blood ko
 Triangle of Koch right atrium mein anatomical region hai: tendon of Todaro, septal tricuspid annulus and coronary sinus ostium. AV node apex ke paas hai. [AATS anatomy](https://www.aats.org/tsra-primer-cardiac-anatomy).
 
 ### Right ventricle — Very High
-RA → tricuspid → RV → pulmonary valve → pulmonary trunk → lungs. Trabeculae carneae inner ventricular wall ki irregular muscular ridges hain; dono ventricles mein present. Papillary muscles ventricular projections; RV generally three groups: anterior, posterior, septal (variation possible). Moderator band (septomarginal trabecula) septum se anterior papillary muscle/free wall region tak jaati hai aur right bundle branch fibers carry karti hai. Only RV. Conus arteriosus / infundibulum smooth upper outflow portion; funnel-shaped passage towards pulmonary valve.
+Right ventricle ka main kaam oxygen-poor blood ko lungs tak pump karna hai.
+
+**Blood ka pathway:** RA → Tricuspid valve → RV → Pulmonary valve → Pulmonary trunk → Lungs.
+
+- **Trabeculae carneae:** Ventricles ki andar wali wall par muscular ridges (ubhre hue muscle ke parts) hoti hain. Dono ventricles mein milti hain.
+- **Papillary muscles:** Ventricular wall se nikle muscular projections. RV mein generally teen groups hote hain: anterior, posterior aur septal; variation possible hai.
+- **Moderator band (septomarginal trabecula):** Septum se anterior papillary muscle/free wall ki taraf jaane wali muscular band, jisme right bundle branch ke fibers travel karte hain. Ye sirf RV mein hoti hai.
+- **Conus arteriosus / infundibulum:** RV ka upar wala smooth funnel-shaped passage hai jahan se blood pulmonary valve ki taraf jaata hai.
+
+**Exam trick:** Moderator band = Right ventricle.
 
 ### Left atrium — Very High
-Normally four pulmonary veins: right superior, right inferior, left superior, left inferior. Anatomical variations possible; standard exam answer four. LA mostly smooth, pectinate muscles mainly left auricle. Esophagus behind LA. Blood mitral valve se LV mein jaata hai.
-Left atrial appendage: AF mein effective atrial contraction kam → blood stasis → thrombus risk (particularly LAA) → embolic stroke risk. AF and anticoagulants later detail mein.
+Lungs mein blood ko oxygen milne ke baad normally chaar pulmonary veins blood ko left atrium mein laati hain: right superior, right inferior, left superior aur left inferior. Anatomical variation ho sakti hai, lekin standard exam answer four hai. LA ki andar wali surface mostly smooth hoti hai; pectinate muscles mainly left auricle mein milti hain. Esophagus LA ke peeche hota hai. Fir blood mitral valve se LV mein jaata hai.
+Left atrial appendage (LAA) left atrium ka ek chhota pouch hai. Atrial fibrillation (AF) mein atria effectively contract nahi karte, toh blood kuch jagah ruk sakta hai (blood stasis), specially LAA mein. Yahan clot (thrombus) banne ka risk badhta hai. Agar clot ka tukda brain tak pahunch jaaye toh embolic stroke ho sakta hai. AF aur anticoagulants ko baad mein detail mein padhenge.
 
 ### Left ventricle — Very High
-LA → mitral → LV → aortic valve → aorta → body. LV mein anterolateral aur posteromedial papillary muscles ke two main groups; chordae mitral leaflets ko anchor karti hain; trabeculae carneae present, moderator band absent, aortic vestibule smooth outflow region.
+Left ventricle oxygen-rich blood ko poori body mein pump karta hai. **Pathway:** LA → Mitral valve → LV → Aortic valve → Aorta → Body. LV mein papillary muscles ke do main groups hote hain: anterolateral aur posteromedial. Chordae mitral valve ke leaflets ko support karti hain. Trabeculae carneae yahan bhi hoti hain, lekin moderator band nahi hoti. Aortic vestibule ek smooth outflow region hai jahan se blood aortic valve ki taraf jaata hai.
 | Feature | RV | LV |
 |---|---|---|
 | Blood | Deoxygenated | Oxygenated |
@@ -81,7 +90,11 @@ LA → mitral → LV → aortic valve → aorta → body. LV mein anterolateral 
 
 ![Foramen ovale and fossa ovalis — schematic](../Assets/foramen-ovale.svg)
 
-Fetal lungs gas exchange nahi karte; oxygen placenta se milti hai. Foramen ovale RA → LA blood passage. Birth: first breath → lungs expand → pulmonary vascular resistance decreases → lung blood flow increases → LA pressure exceeds RA → flap closes functionally. Anatomical fusion later, not always complete. Fossa ovalis oval depression. PFO incomplete flap fusion, not exactly same as ASD. **Foramen = Opening; Fossa = Depression.**
+Baby jab mother's womb mein hota hai toh uske lungs gas exchange nahi karte; oxygen placenta se milti hai. Isliye fetal heart mein **foramen ovale** ek passage hota hai jisse blood RA se directly LA mein ja sakta hai.
+
+**Birth ke baad kya hota hai?** Baby pehli saans leta hai → lungs expand hote hain → pulmonary vascular resistance kam hoti hai → lungs mein blood flow badhta hai → LA pressure RA se zyada ho jaata hai → foramen ovale ka flap functionally close ho jaata hai. Anatomical fusion baad mein hoti hai aur har baby mein complete hona zaroori nahi.
+
+**Fossa ovalis** ek oval depression hai jo is area mein bachta hai. **PFO** mein flap ki fusion incomplete hoti hai; ise ASD ke bilkul same mat samajhna. **Foramen = Opening; Fossa = Depression.**
 
 ## Four valves
 
@@ -126,7 +139,7 @@ MI → papillary muscle rupture → loss of mitral support → systolic LV-to-LA
 
 **Exam clue:** S1 = mitral + tricuspid closure; S2 = aortic + pulmonary closure. Sound ko valve opening se confuse mat karna.
 
-**Priority: Very High.** Systole = contraction; diastole = relaxation. Ventricular filling: atrial pressure > ventricular pressure, AV valves open, semilunar closed. Ejection: ventricular pressure > atrial pressure closes AV valves; ventricular pressure > corresponding arterial pressure opens semilunar valves. Pressure gradients drive passive opening/closure.
+**Priority: Very High.** Systole = contraction; diastole = relaxation. Jab atria ka pressure ventricles se zyada hota hai, toh AV valves open ho jaate hain aur blood ventricles mein fill hota hai. Is waqt semilunar valves closed hote hain. Jab ventricles contract karte hain, toh unka pressure atria se zyada ho jaata hai aur AV valves close ho jaate hain. Jab ventricular pressure aorta/pulmonary trunk ke pressure se bhi zyada ho jaata hai, tab semilunar valves open hote hain aur blood bahar nikalta hai. Yani valves pressure difference se khud open aur close hote hain.
 
 ![Valve states filling vs ejection — original schematic](../Assets/valve-phases.svg)
 
@@ -167,7 +180,14 @@ Left lateral decubitus position mitral stenosis low-pitched murmur and S3/S4 ke 
 Detailed symptoms, rheumatic disease, diagnosis, treatment, nursing management later.
 
 ## Great vessels
-**Priority: Very High.** SVC upper body → RA; IVC lower body → RA; coronary sinus myocardium → RA; pulmonary arteries RV → lungs; pulmonary veins lungs → LA; aorta LV → body.
+**Priority: Very High.** Heart se judi badi blood vessels ko unke kaam ke hisaab se yaad karo:
+
+- **SVC:** Upper body se blood RA tak laati hai.
+- **IVC:** Lower body se blood RA tak laati hai.
+- **Coronary sinus:** Heart muscle se venous blood RA mein laata hai.
+- **Pulmonary arteries:** RV se aane wala blood lungs tak pahunchati hain.
+- **Pulmonary veins:** Lungs se oxygen-rich blood LA mein laati hain.
+- **Aorta:** LV se oxygen-rich blood body mein pahunchati hai.
 Artery = away from heart; vein = towards heart; oxygen content definition nahi. Pulmonary artery deoxygenated, pulmonary veins oxygenated in normal postnatal circulation. Full pulmonary/systemic circulation next topic.
 
 ## Practice after theory
