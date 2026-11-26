@@ -120,3 +120,8 @@ These five tests are revision compilations of prior original practice questions.
 - [Mental Health Nursing — 2 additional questions](Mental-Health-Nursing/Previous-Year-Questions/Mental-Health-Nursing-India-Wide-Additional-Reported-PYQs.md)
 - [Biochemistry and Pathology — 1 additional questions](Biochemistry-and-Pathology/Previous-Year-Questions/Biochemistry-and-Pathology-India-Wide-Additional-Reported-PYQs.md)
 - [Eye and ENT Nursing — 1 additional questions](Eye-and-ENT-Nursing/Previous-Year-Questions/Eye-and-ENT-Nursing-India-Wide-Additional-Reported-PYQs.md)
+
+
+## Neurological mock expansion
+
+[Neurological System mock 01](Neurological-System/Mock-Tests/Neurological-System-Mock-01-120.md) is published with 120 distinct new clinical questions, also organized into two topic-wise banks. Total repository full-length mocks now 6 across 4 chapters. Total mock slots 720. Five-per-chapter target 175. Remaining 169. No duplicate counting of question-bank content as original mock content.

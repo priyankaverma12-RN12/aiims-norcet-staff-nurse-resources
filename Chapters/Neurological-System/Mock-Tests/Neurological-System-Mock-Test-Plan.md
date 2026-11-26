@@ -1,14 +1,14 @@
-# Neurological System — Chapter-only mock plan
+# Neurological System — Chapter mock index
 
-**Pending, no 120-question mock has been published for this new chapter yet.** The goal is 5 to 6 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
-
-| Mock | Target | Published |
+| Test | Questions | Status |
 |---|---:|---|
-| 1 | 120 | Pending |
-| 2 | 120 | Pending |
-| 3 | 120 | Pending |
-| 4 | 120 | Pending |
-| 5 | 120 | Pending |
-| 6 | 120 | Pending |
+| [Mock 01](Neurological-System-Mock-01-120.md) | 120 | Published from 120 new original questions |
+| Mock 02 | 120 | Pending |
+| Mock 03 | 120 | Pending |
+| Mock 04 | 120 | Pending |
+| Mock 05 | 120 | Pending |
+| Mock 06 | 120 | Optional pending |
 
-[Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Neurological-System-Topic-Wise-Starter-MCQs.md)
+[Chapter](../README.md) · [Topic bank 1](../MCQs/Neurological-System-Clinical-Question-Bank-Part-01-60.md) · [Topic bank 2](../MCQs/Neurological-System-Clinical-Question-Bank-Part-02-60.md)
+
+The mock compiles the same 120 questions as the topic banks. Remaining mocks require distinct questions. Suggested time 135 minutes. No official paper claim.

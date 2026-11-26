@@ -150,3 +150,6 @@ The learner explicitly requests all curriculum chapters prepared in advance. Thi
 
 
 **Additional paper research:** 19 more source-linked adapted questions, bringing this expansion to 33. [Chapter-specific links](Chapters/NORCET-Full-Chapter-Index.md#additional-india-wide-paper-research).
+
+
+[Neurological mock 01: 120 questions](Chapters/Neurological-System/Mock-Tests/Neurological-System-Mock-01-120.md). New clinical question banks total 120. Full-length mock progress: 6/175 across 4/35 chapters.
