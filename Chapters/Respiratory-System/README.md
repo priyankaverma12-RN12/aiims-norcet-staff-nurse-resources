@@ -1,5 +1,19 @@
 # 🫁 Respiratory System — Hamara Illustrated Complete Chapter
 
+## 🎯 New NORCET-level practice — 52 original questions
+
+Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare 20 questions attempt karo. Answers baad mein kholo. Ye naye questions hain aur abhi attempt nahi hue hain.
+
+| Practice | Questions | Open file |
+|---|---:|---|
+| Topic-wise clinical and numerical MCQs | 32 | [Advanced topic-wise bank](MCQs/Respiratory-Advanced-Topic-Wise-32.md) |
+| Mixed clinical mock | 20 | [20-question clinical mock](MCQs/Respiratory-Clinical-Mock-20.md) |
+
+**Earlier published original bank count 422 + 52 new = 474.** Imported 60-question test remains separate.
+
+**Dhyan de:** English questions aur options, Medium/Difficult level, hidden answers, simple Hinglish mein correct aur har wrong option ka reason. Ye original practice hai, official Previous Year Questions nahi. Purane questions preserve kiye gaye hain. Similar important concepts alag case mein revise ho sakte hain.
+
+
 ![Respiratory anatomy — original diagram](Assets/respiratory-tract.svg)
 
 **AIIMS NORCET 12 + HP Staff Nurse (HPRCA) • Easy Roman Hinglish • Day 1, Day 2 aur Day 3 ke topics**
@@ -159,7 +173,7 @@ Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions wi
 
 ## Day 4 — Completion practice
 
-**Theory presented, new practice unattempted. 106 new topic-wise MCQs + 50 grand mock = 156 new original questions.** Earlier 266 questions retained; respiratory bank now 422 total. Exact normalized stem audit: 422 distinct; semantic overlap in exam revision intentional, exhaustive conceptual duplicate audit not complete.
+**Theory presented, new practice unattempted. 106 new topic-wise MCQs + 50 grand mock = 156 new original questions.** Earlier 266 questions retained; respiratory bank was 422 at that update. Exact normalized stem audit: 422 distinct; semantic overlap in exam revision intentional, exhaustive conceptual duplicate audit not complete.
 
 | Topic | Concepts | New questions |
 |---|---|---:|
