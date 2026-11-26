@@ -468,3 +468,7 @@ Modified Allen test may assess collateral ulnar circulation before radial sampli
 | Clubbing | Bulbous fingertips, loss of normal nail-bed angle; may occur with bronchiectasis, lung cancer or fibrosis; uncomplicated COPD alone not typical |
 
 Pattern alone diagnosis confirm nahi karta. New apnea, altered consciousness or respiratory distress emergency assessment. [Merck pulmonary evaluation](https://www.merckmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues).
+
+## Completion practice
+
+[Matching MCQs](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 4 quick revision](../Revision/Day-04-Quick-Revision.md) · [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). New practice unattempted.
