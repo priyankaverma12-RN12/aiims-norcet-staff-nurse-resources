@@ -43,7 +43,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 3. Standard and transmission precautions, PPE — 40 original MCQs published
 - 4. Biomedical waste management in India — 40 original MCQs published
 - 5. Occupational exposure, sharps and post-exposure care — 40 original MCQs published
-- 6. Chain of infection and microbial transmission — pending
+- 6. Chain of infection and microbial transmission — 40 original MCQs published
 - 7. Bacterial structure, classification and growth — pending
 - 8. Staining, microscopy and bacterial culture — pending
 - 9. Gram-positive cocci and bacilli — pending

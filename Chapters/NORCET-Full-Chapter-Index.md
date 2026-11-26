@@ -184,3 +184,8 @@ Biomedical waste management: 40 new original MCQs published. Infection Control n
 ### Immediate continuation — occupational exposure
 
 200 original questions across five of 30 defined topic groups, 17 source-linked reported PYQ adaptations and seven video or learning resources are now published. Next: chain of infection and microbial transmission, then bacterial structure. 25 topic groups remain. Full chapter mocks remain 0/10, overall 17/350. Official key authentication, detailed concepts and further practice videos remain pending.
+
+
+### Continuation — chain of infection
+
+240 original questions across six of 30 groups. Next: bacterial structure, classification and growth. Full mocks remain 0/10 for this chapter and 17/350 overall.
