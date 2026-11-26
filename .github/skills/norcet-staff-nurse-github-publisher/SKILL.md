@@ -165,6 +165,8 @@ For every grouped concept file include:
 
 ### Detailed teaching standard — not just short definitions
 
+**Learner-confirmed language benchmark (26 Nov 2026):** Use [Respiratory Day 1](../../../Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) and [Respiratory Day 2](../../../Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) as the style reference for Cardiovascular and future chapters. Write conversational Roman Hinglish as if teaching the learner in chat: explain 'kya hai, kyun hota hai, kaise hota hai' in complete easy sentences, then clinical examples, analogies, step-by-step mechanisms and exam clues. Avoid dense textbook-style fragments and unnecessary difficult English; define unfamiliar terms in easy Hinglish. Retain medical terms, facts, values, diagrams, references, existing question text/options and detail. Do not shorten notes or claim new material has been studied. MCQ stems and options remain English; rationales use the same natural Hinglish.
+
 GitHub Concepts pages must teach each actually studied topic in the **same familiar Roman Hinglish style as the chat**, with genuine depth, not a one-line summary:
 - **Kya hai?** Define the term simply and explain unfamiliar English medical words.
 - **Kyun/kaise?** Explain cause-and-effect and mechanisms step by step, not merely memorised facts.
