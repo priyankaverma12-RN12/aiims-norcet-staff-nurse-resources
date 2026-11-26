@@ -1,5 +1,17 @@
 # 🧠 Endocrine System — Hamara Illustrated Complete Chapter
 
+## 🎯 New NORCET-level practice — 52 original questions
+
+Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare 20 questions attempt karo. Answers baad mein kholo. Ye naye questions hain aur abhi attempt nahi hue hain.
+
+| Practice | Questions | Open file |
+|---|---:|---|
+| Topic-wise clinical and numerical MCQs | 32 | [Advanced topic-wise bank](MCQs/Endocrine-Advanced-Topic-Wise-32.md) |
+| Mixed clinical mock | 20 | [20-question clinical mock](MCQs/Endocrine-Clinical-Mock-20.md) |
+
+**Dhyan de:** English questions aur options, Medium/Difficult level, hidden answers, simple Hinglish mein correct aur har wrong option ka reason. Ye original practice hai, official Previous Year Questions nahi. Purane questions preserve kiye gaye hain. Similar important concepts alag case mein revise ho sakte hain.
+
+
 ![Endocrine glands overview](Assets/gland-map.svg)
 
 **AIIMS NORCET 12 · PGIMER · HP Staff Nurse / HPRCA · CHO / Community Nursing**  
@@ -20,7 +32,9 @@
 | Rapid review, emergency clues and values | [⚡ Quick revision](Revision/Endocrine-Quick-Revision.md) |
 | Clinical and community sources | [🔎 References](References.md) |
 
-**Practice total: 138 original entries** (113 topic-wise + 25 mock), including 24 new clinical/community applications. Existing stems/options retained; legacy revision questions sometimes test the same concept. Not claimed as 138 semantically unique questions or official PYQs. All entries unattempted.
+**Earlier practice: 138 original entries** (113 topic-wise + 25 mock), including 24 new clinical/community applications. Existing stems/options retained; legacy revision questions sometimes test the same concept. Not claimed as 138 semantically unique questions or official PYQs. All entries unattempted.
+
+**Updated practice total: 190 original entries (145 topic-wise + 45 mock) plus 26 source-linked adapted exam entries.**
 
 ## 📚 Detailed concept files — start here
 
