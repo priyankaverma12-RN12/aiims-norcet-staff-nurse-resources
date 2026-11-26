@@ -107,3 +107,7 @@ Videos and exam leads are linked in the respective Day 3 notes. Metadata verifie
 | MCQ video | [Aarogyam Infinity Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) | Status asthmaticus topic appears in video metadata; full transcript not reviewed; separate videos for all additional subtopics not verified |
 
 Existing topic guides and revision updated in place. No personal scores or purported solved Day 3 MCQs added. Optional 30+ question bank not added on this theory-only push (full duplication audit not performed).
+
+## Day 2–3 practice bank research
+
+[Research and paper leads](MCQs/Research-and-Paper-Leads.md). 170 original questions published for future practice. Existing questions retained; exact normalized stem audit passed. Official previous-paper key verification and exhaustive semantic duplicate review remain incomplete.
