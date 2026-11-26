@@ -1383,6 +1383,45 @@ A. White-coat hypertension · B. Hypertensive emergency · C. Isolated systolic 
 
 **How to use this audit:** A checked topic means the master guide contains a meaningful study section, not that every official question on the topic has been collected. Priority labels are study recommendations, not verified frequency statistics.
 
+
+### 🔎 Cardiovascular PYQ verification ledger — evidence-first (26 Nov 2026)
+
+> **Status: NOT FINAL.** This register separates previously located **question leads** from authenticated exam questions. An exam label on a third-party PDF or memory-based website does not prove the original exam, shift, exact wording, correct key or repetition count. Until authenticated, **none of the following is marked official verified PYQ**.
+
+| Lead | Exam/source claimed | Cardiovascular topic | Evidence status | What remains |
+|---|---|---|---|---|
+| N-01 | NORCET 2023-labelled third-party PDF, question lead 14 | Sublingual nitroglycerin for angina | ⚠️ Unauthenticated third-party lead | Check exact PDF item, original paper/shift and official key |
+| N-02 | Same NORCET-labelled PDF, question lead 15 | JVP landmark / sternal angle | ⚠️ Unauthenticated third-party lead | Check exact wording and original provenance |
+| N-03 | Same NORCET-labelled PDF, question lead 16 | Saw-tooth waves / atrial flutter | ⚠️ Unauthenticated third-party lead | Check original provenance and official answer |
+| P-01 | PGIMER Staff Nurse recalled-paper webpage | LV failure, PCWP, dopamine monitoring | ⚠️ Memory-based lead | Confirm year, shift, options, original question and key |
+| H-01 | HPRCA / HP Staff Nurse | No independently authenticated cardio question entered | ❌ Not verified | Obtain traceable original paper and answer key |
+
+**Previously identified leads for follow-up (not verified original exam papers):**
+- [Third-party NORCET 2023-labelled PDF](https://myeducationwire.b-cdn.net/wp-content/uploads/2025/02/AIIMS_NORCET_2023_Question-Paper.pdf)
+- [PGIMER memory-based nursing questions](https://allnursingjobs4u.blogspot.com/2020/04/pgi-staff-nurse-previous-year-question.html)
+
+#### 🩺 Concepts from the leads — original paraphrases for revision
+
+- **Angina / nitrates:** Sublingual nitroglycerin is used for relief of anginal symptoms in appropriate patients. **Trap:** check blood pressure and recent phosphodiesterase-5 inhibitor use; avoid dangerous hypotension.
+- **JVP:** Sternal angle is a reference landmark for estimating jugular venous pressure; assess positioning and technique.
+- **Atrial flutter:** Typical flutter may produce characteristic *saw-tooth* flutter waves; assess ventricular response and stability.
+- **LV failure / PCWP:** Elevated pulmonary capillary wedge pressure may support elevated left-sided filling pressures in the correct clinical context. Inotropic agents require rhythm, blood pressure and perfusion monitoring.
+
+#### 🔥 Repetition / high-weightage claim — evidence rule
+
+- **Verified repetition count: not established.** No reliable denominator of authenticated NORCET, PGIMER and HPRCA shifts/papers has been assembled, so phrases like **“most repeated in NORCET”** or numeric question weightage must **not** be assigned to these leads.
+- **🔴 VERY HIGH / 🟠 HIGH** elsewhere in this guide = preparation priority based on clinical importance, **not** proven exam frequency.
+- For every future authenticated PYQ, record **exam, year, shift, source link, question text or faithful paraphrase, official key, clinical explanation and duplicate check**.
+- **Do not silently mix:** official verified PYQs, third-party/recalled questions and assistant-written original MCQs are three different categories.
+
+#### 📋 Remaining work before calling PYQs complete
+
+1. Obtain authoritative original papers and answer keys (or clearly identified memory-based compilations when originals are unavailable).
+2. Extract cardiovascular questions from each year/shift, de-duplicate repeated stems and verify answer keys.
+3. Add only source-supported exam/year labels; calculate repetition frequency only from a stated, comparable set of papers.
+4. Audit HPRCA separately; absence of a verified source is **not** evidence of zero questions.
+
+
 ## Revision and exam evidence
 
 ![Colourful Revision and exam evidence study banner](../Assets/cardio-revision-highlight.svg)
