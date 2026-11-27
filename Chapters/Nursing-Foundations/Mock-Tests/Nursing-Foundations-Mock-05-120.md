@@ -41,7 +41,7 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 ### Q2. What is the purpose of a protective layer between an approved heat or cold device and the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Make temperature monitoring unnecessary
 - **B.** Reduce direct thermal injury risk
@@ -71,7 +71,7 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q17](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q17](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q17-what-is-the-purpose-of-a-protective-layer-between-an-approved-heat-or-cold-device-and-the-skin)
 
 ### Q3. A patient develops severe disproportionate limb pain and new paresthesia after surgery with a tight cast. What should the nurse do?
 
@@ -86,9 +86,22 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 **Correct: B. Urgently assess neurovascular status and escalate for possible compartment syndrome**
 
-Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Severe pain aur paresthesia urgent signs hain. Pulses present hone par bhi condition possible hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Delay aur blind massage harmful ho sakte hain. Pulse alone exclusion nahi karta.
+Compartment syndrome mein muscle ke around closed space ka pressure itna badh sakta hai ki blood supply aur nerves compromise ho jaati hain. Tight cast ke baad disproportionate pain aur paresthesia, yani tingling ya abnormal sensation, urgent warning signs hain. Nurse distal colour, temperature, sensation, movement, capillary refill, pulse aur pain assess karti hai aur urgent surgical review activate karti hai. Compression relieve karne ke authorized emergency protocol follow karo. Palpable pulse se early compartment syndrome exclude nahi hota.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Kal tak wait karne se pressure-related muscle aur nerve injury badh sakti hai.
+- **B (Sahi):** Urgent neurovascular assessment aur escalation time-sensitive condition identify aur treat karne mein help karti hai.
+- **C (Galat):** Blind massage pressure problem treat nahi karti aur tissue injury ka risk hai.
+- **D (Galat):** Pulse early stage mein present ho sakta hai, isliye pulse alone condition rule out nahi karta.
+
+**Exam clue:** Disproportionate pain aur new tingling ko urgent warning samjho, chahe pulse present ho.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK448124/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -184,7 +197,7 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 ### Q7. Which solution is an isotonic crystalloid in common clinical use?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 0.45% sodium chloride
 - **B.** 3% sodium chloride
@@ -214,7 +227,7 @@ Isotonic crystalloid ka effective tonicity plasma ke approximately similar hota 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q17](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q17](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q17-which-solution-is-an-isotonic-crystalloid-in-common-clinical-use)
 
 ### Q8. Which action is appropriate before applying a prescribed oxygen mask?
 
@@ -1204,7 +1217,7 @@ Medication error patient tak pahunch chuki hai, even if current symptoms absent 
 
 ### Q38. Which term describes a core body temperature below 35°C?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Hypothermia
 - **B.** Hyperpyrexia
@@ -1234,7 +1247,7 @@ Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat l
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q19](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q19](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q19-which-term-describes-a-core-body-temperature-below-35c)
 
 ### Q39. Which appearance is consistent with healthy granulation tissue?
 
@@ -1668,7 +1681,7 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 
 ### Q52. A patient has persistent fever despite antipyretic treatment. Which nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use the highest available heat exposure
 - **B.** Repeat medication sooner than prescribed automatically
@@ -1698,7 +1711,7 @@ Antipyretic fever ko kam karne mein help kar sakti hai, lekin underlying infecti
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q20](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q20](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q20-a-patient-has-persistent-fever-despite-antipyretic-treatment-which-nursing-response-is-appropriate)
 
 ### Q53. A patient reports pain reduced from 8/10 to 4/10 after treatment but remains unable to deep breathe. How should the nurse evaluate the intervention?
 
@@ -1744,9 +1757,24 @@ Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 
 
 **Correct: B. Immediately communicate the discrepancy and follow the retained-item prevention protocol**
 
-Incorrect count retained item ka risk indicate kar sakta hai. Team ko promptly informed hona chahiye taaki systematic search aur indicated imaging ho sake.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False count, concealment aur assumption patient safety compromise karte hain.
+Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse discrepancy immediately surgeon aur team ko batati hai, taaki systematic recount, search aur indicated imaging local protocol ke hisaab se ho sakein. Closure ke baare mein responsible team patient safety aur urgency dekhkar decision leti hai. Actual count aur actions accurately document karna zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Incorrect count ko correct document karna false record hai aur safety risk hide karta hai.
+- **B (Sahi):** Discrepancy communicate aur protocol follow karne se problem timely address ho sakti hai.
+- **C (Galat):** Bina search assume karne se retained item miss ho sakta hai.
+- **D (Galat):** Record discard karne se important information kho sakti hai.
+
+**Exam clue:** Incorrect count ko conceal mat karo. Turant team ko inform karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2107,9 +2135,22 @@ Disinfectant ko organisms par effective action ke liye manufacturer-specified co
 
 **Correct: B. Current airway and vital status, procedure details, orders and recovery criteria**
 
-Postoperative transfer safe tab hota hai jab stability aur monitoring needs assessed hon. Receiving nurse ko procedure, orders aur risk information chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Arrival time, decor aur meal preference alone safe transfer determine nahi karte.
+Postoperative handover mein ek team doosri team ko patient ki important information deti hai. Ward transfer se pehle nurse airway, breathing, vital signs, consciousness aur recovery status assess karti hai. Receiving nurse ko procedure, anesthesia, allergies, complications, lines, drains, medicines, orders aur monitoring needs batayi jaati hain. Patient ko authorized recovery criteria meet karne chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Room decoration physiological recovery criteria se related nahi hai.
+- **B (Sahi):** Current stability aur complete handover se receiving team safe care continue kar sakti hai.
+- **C (Galat):** Surgeon ka arrival time patient stability establish nahi karta.
+- **D (Galat):** Meal preference comfort information hai lekin safe transfer ka main criterion nahi hai.
+
+**Exam clue:** Ward transfer se pehle current condition aur clinical handover verify karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2533,7 +2574,7 @@ Self-harm thoughts immediate safety assessment maangte hain regardless of grief 
 
 ### Q80. Why should measurable liquid medication and tube flushes be included in intake records?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** They are always negligible
 - **B.** Only drinking water counts as intake
@@ -2563,7 +2604,7 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q20](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q20](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q20-why-should-measurable-liquid-medication-and-tube-flushes-be-included-in-intake-records)
 
 ## Block 5
 
@@ -2652,7 +2693,7 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 ### Q84. Why must hypertonic saline administration be closely monitored?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is physiologically identical to free water
 - **B.** It is safe at any rate for every patient
@@ -2682,7 +2723,7 @@ Hypertonic saline plasma ke comparison mein higher effective solute concentratio
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q18](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q18](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q18-why-must-hypertonic-saline-administration-be-closely-monitored)
 
 ### Q85. A nurse prepares to insert an indwelling urinary catheter in an acute-care setting. Which infection prevention approach is appropriate?
 
@@ -2737,9 +2778,22 @@ Indwelling catheter urethra se bladder tak route create karta hai. Acute-care in
 
 **Correct: D. Explain wound care, medication, activity restrictions and warning signs according to the procedure**
 
-Patient ko procedure-specific recovery plan samajhna chahiye. Clear warning signs aur follow-up instructions timely help access support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal plan unsuitable ho sakta hai. Warning signs omit karna aur independent dose change unsafe hain.
+Discharge education se patient ghar par recovery safely manage kar sakta hai. Nurse procedure-specific wound care, medicines ka dose aur timing, activity restrictions, follow-up aur warning signs samjhati hai. Increasing wound redness, heavy bleeding, severe pain ya breathing difficulty par kab urgent help leni hai, yeh clearly batana chahiye. Teach-back mein patient apne words mein instructions repeat karta hai, jisse misunderstanding identify ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Medication dose independently change karne se adverse effects ya inadequate treatment ho sakta hai.
+- **B (Galat):** Har surgery ki wound care aur restrictions same nahi hoti.
+- **C (Galat):** Warning signs omit karne se serious complication mein help lene mein delay ho sakta hai.
+- **D (Sahi):** Procedure-specific instructions safe home care aur timely help-seeking support karti hain.
+
+**Exam clue:** Home care, restrictions, follow-up aur warning signs clearly samjhao.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2778,7 +2832,7 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 
 ### Q88. A patient with fever has new neck stiffness, confusion and a rapidly worsening condition. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Treat only the temperature and wait until tomorrow
 - **B.** Arrange urgent assessment and infection precautions as indicated
@@ -2810,7 +2864,7 @@ Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningi
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q18](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q18](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q18-a-patient-with-fever-has-new-neck-stiffness-confusion-and-a-rapidly-worsening-condition-which-action-is-appropriate)
 
 ### Q89. Four patients need assistance. Which patient should the nurse assess first?
 
@@ -3662,7 +3716,7 @@ Conflict patient-centered judgment influence kar sakta hai. Transparency aur pol
 
 ### Q116. A patient receiving a potassium-containing IV solution has an unexpectedly high potassium result. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase potassium delivery
 - **B.** Give a rapid unprescribed potassium bolus
@@ -3692,7 +3746,7 @@ Hyperkalemia yani blood potassium zyada hona heart ke electrical conduction ko a
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q19](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q19](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q19-a-patient-receiving-a-potassium-containing-iv-solution-has-an-unexpectedly-high-potassium-result-which-action-is-safest)
 
 ### Q117. A prescription is written as 2 mg/kg for a patient weighing 66 lb. Using 2.2 lb/kg, what is the calculated dose?
 

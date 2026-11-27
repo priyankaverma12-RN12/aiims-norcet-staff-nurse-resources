@@ -204,9 +204,22 @@ Language aur literacy barriers treatment misunderstanding cause kar sakte hain. 
 
 **Correct: D. Assess airway and alertness, position safely and give prescribed treatment as indicated**
 
-Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti hai. Nurse airway safety aur prescribed antiemetic plan assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Large meal aur unsafe flat position aspiration risk badha sakte hain. Symptoms ignore nahi karne chahiye.
+Anesthesia ke baad nausea aur vomiting ho sakti hai. Agar vomit airway mein chala jaaye, toh aspiration se breathing compromise ho sakti hai. Nurse alertness, airway aur breathing assess karti hai aur procedure aur clinical condition ke hisaab se safe position deti hai. Prescribed antiemetic, suction aur appropriate help arrange ki ja sakti hai. Oral intake tabhi resume karo jab safe ho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Large solid meal active nausea aur aspiration risk ke dauran vomiting worsen kar sakta hai.
+- **B (Galat):** Anesthesia finish hone ke baad bhi nausea aur airway complications ho sakti hain.
+- **C (Galat):** Active vomiting mein flat position airway risk badha sakti hai.
+- **D (Sahi):** Airway assessment, safe positioning aur indicated treatment aspiration risk aur nausea dono ko address karte hain.
+
+**Exam clue:** Postoperative vomiting mein airway safety pehle assess karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -250,7 +263,7 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 ### Q9. Which blood component primarily increases oxygen-carrying capacity in an anemic patient when transfusion is indicated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Platelet concentrate
 - **B.** Cryoprecipitate
@@ -282,7 +295,7 @@ Red blood cells mein hemoglobin hota hai jo lungs se oxygen tissues tak carry ka
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q9](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q9](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q9-which-blood-component-primarily-increases-oxygen-carrying-capacity-in-an-anemic-patient-when-transfusion-is-indicated)
 
 ### Q10. A patient using crutches is permitted partial weight bearing. What determines the appropriate gait pattern?
 
@@ -771,9 +784,22 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 **Correct: D. Assess bladder distension and use bladder scanning if indicated**
 
-Anesthesia, pain aur medicines urinary retention cause kar sakti hain. Bladder assessment retained urine aur low production differentiate karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Diuretics ya fluids retention necessarily solve nahi karte. Renal failure assume nahi karni chahiye.
+Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar nahi nikal pa raha. Anesthesia aur medicines bladder sensation ya contraction affect kar sakti hain. Suprapubic discomfort, yani lower abdomen mein bladder ke upar pain, distension ka clue ho sakta hai. Nurse bladder assess karti hai, indicated scan se volume check karti hai aur local protocol ke according timely review leti hai. Low urine production bhi alag possibility hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Large fluid intake bladder aur distend kar sakta hai aur fluid restrictions violate kar sakta hai.
+- **B (Galat):** Unprescribed diuretic urine production badha sakti hai lekin blocked emptying solve nahi karti.
+- **C (Galat):** Voiding na hone se renal failure confirm nahi hota, kyunki retention bhi possible hai.
+- **D (Sahi):** Bladder assessment aur scan se retained urine aur khaali bladder differentiate karne mein help milti hai.
+
+**Exam clue:** Urine pass na ho aur bladder discomfort ho, toh retention assess karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK549844/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1127,7 +1153,7 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 ### Q36. Which blood component contains concentrated fibrinogen and selected clotting proteins?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cryoprecipitate
 - **B.** Crystalloid
@@ -1155,11 +1181,11 @@ Cryoprecipitate plasma ka cold-insoluble fraction hai. Isme concentrated fibrino
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — cryoprecipitate, Nursing Wallah by PW (10:14)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=614s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q12](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q12](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q12-which-blood-component-contains-concentrated-fibrinogen-and-selected-clotting-proteins)
 
 ### Q37. A patient at high pressure injury risk is on a pressure-redistributing mattress. Which plan remains appropriate?
 
@@ -1589,7 +1615,7 @@ Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi a
 
 ### Q50. A patient with a clinically indicated multiple clotting factor deficiency receives plasma. Which purpose is relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Replace all electrolytes without volume
 - **B.** Provide soluble coagulation factors
@@ -1621,7 +1647,7 @@ Coagulation factors blood proteins hain jo clot ko stable banane ke liye cascade
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q11](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q11](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q11-a-patient-with-a-clinically-indicated-multiple-clotting-factor-deficiency-receives-plasma-which-purpose-is-relevant)
 
 ### Q51. During manual disimpaction under an authorized plan, a patient becomes dizzy and bradycardic. What should the nurse suspect and do?
 
@@ -1784,7 +1810,7 @@ Subjective data patient ka personal experience hai, jaise pain rating. Objective
 
 ### Q56. A febrile patient is sweating heavily as the temperature begins falling. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore fluid loss entirely
 - **B.** Assess hydration and comfort, replace fluids as appropriate and monitor temperature trend
@@ -1814,7 +1840,7 @@ Fever ka set point lower hone par body excess heat lose karne ke liye sweating a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q12](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q12](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q12-a-febrile-patient-is-sweating-heavily-as-the-temperature-begins-falling-which-response-is-appropriate)
 
 ### Q57. A postoperative patient cannot cough effectively because of incisional pain. Which approach may support airway clearance?
 
@@ -2059,7 +2085,7 @@ Competent patient information sharing preferences express kar sakta hai. Nurse c
 
 ### Q65. Which mechanism transfers heat from a warm body to a colder solid surface in direct contact?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Evaporation
 - **B.** Conduction
@@ -2089,7 +2115,7 @@ Conduction mein heat do objects ke direct physical contact se transfer hoti hai.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q9](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q9](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q9-which-mechanism-transfers-heat-from-a-warm-body-to-a-colder-solid-surface-in-direct-contact)
 
 ### Q66. A central-line dressing is removed for a planned change. Which measure is especially important?
 
@@ -2169,9 +2195,22 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 **Correct: B. It supports functional recovery and reduces complications of immobility**
 
-Mobilization circulation, lung expansion aur muscle function support kar sakti hai. Nurse surgical restrictions aur stability check karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Other prevention measures still needed ho sakte hain. Universal unrestricted activity unsafe hai.
+Jab patient bahut der bed par rehta hai, toh leg muscles ki pumping kam ho jaati hai aur veins mein blood flow slow ho sakta hai. Muscles weak ho sakti hain aur lung expansion bhi kam ho sakta hai. Early safe mobilization recovery support karti hai. Nurse BP, pain, balance, fall risk aur surgical restrictions check karke suitable assistance ke saath patient ko move karwati hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Mobility alone har patient mein thrombosis prevention ke liye sufficient nahi hai.
+- **B (Sahi):** Safe movement muscle function aur venous return support karta hai aur immobility complications ka risk kam kar sakta hai.
+- **C (Galat):** Mobilization ke baad bhi vital signs aur surgical complications assess karna zaroori hai.
+- **D (Galat):** Har operation ke baad unrestricted activity safe nahi hoti, kyunki restrictions alag ho sakti hain.
+
+**Exam clue:** Early mobilization ka matlab safe individualized movement hai.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2288,7 +2327,7 @@ Patient ko reposition karne se pressure redistribute hota hai aur immobility-rel
 
 ### Q72. Which heat transfer mechanism is involved when moving cool air carries heat away from the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** Thermogenesis
 - **B.** Convection
@@ -2316,9 +2355,11 @@ Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air 
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS Jodhpur 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-the-principal-heat-excha--625ee35a1a33612ae9adeefb). Is question mein incubator ke heat exchange mode ko convection se relate kiya gaya hai. Yeh air movement ke same basic mechanism ka related evidence hai. Publisher ki neonatal age aur phototherapy wali explanation ko clinical guidance na samjho. Official paper aur key independently authenticate nahi hue hain.
+
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q10](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q10](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q10-which-heat-transfer-mechanism-is-involved-when-moving-cool-air-carries-heat-away-from-the-skin)
 
 ### Q73. A nurse is preparing a sterile dressing and a patient suddenly develops severe respiratory distress. What takes priority?
 
@@ -2343,7 +2384,7 @@ Airway-breathing emergency planned procedure se higher priority hai. Contaminate
 
 ### Q74. Which blood component is commonly prescribed to replace platelets in clinically indicated thrombocytopenia?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Normal saline
 - **B.** Packed red cells
@@ -2375,7 +2416,7 @@ Platelets chhote cell fragments hain jo injured blood vessel par primary plug ba
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q10](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q10](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q10-which-blood-component-is-commonly-prescribed-to-replace-platelets-in-clinically-indicated-thrombocytopenia)
 
 ### Q75. A nurse uses the dorsal surface of the hand to compare the warmth of two areas. Which assessment technique is being used?
 
@@ -2554,9 +2595,22 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 **Correct: D. Activity, respiration, circulation, consciousness and oxygenation**
 
-Recovery scoring patient ki physiological recovery systematically assess karne mein help karti hai. Actual discharge criteria facility protocol se determine hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Pain, wound aur fasting separately important ho sakte hain, lekin standard recovery score in tak limited nahi hai.
+Aldrete-type recovery score anesthesia ke baad physiological recovery assess karne mein help karta hai. Common modern score mein movement, breathing, circulation, consciousness aur oxygen saturation check ki jaati hai. Original score mein colour use hota tha aur modified versions oxygenation use karte hain. Score alone safe discharge guarantee nahi karta, kyunki pain, bleeding, nausea aur procedure-specific criteria bhi assess karne hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Wound drainage colour alone overall anesthesia recovery nahi batata.
+- **B (Galat):** Pain important assessment hai, lekin Aldrete-type score sirf pain par based nahi hota.
+- **C (Galat):** Fasting duration preoperative information hai aur current physiological recovery score ka component nahi hai.
+- **D (Sahi):** Activity, respiration, circulation, consciousness aur oxygenation common modified Aldrete domains hain.
+
+**Exam clue:** Five physiological domains yaad rakho aur discharge ke facility criteria bhi check karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK594237/?report=classic)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3528,7 +3582,7 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 ### Q111. Which process removes heat when sweat changes from liquid to vapor?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Radiation alone
 - **B.** Muscle thermogenesis
@@ -3558,7 +3612,7 @@ Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahi
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q11](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q11](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q11-which-process-removes-heat-when-sweat-changes-from-liquid-to-vapor)
 
 ### Q112. An unexpectedly high potassium result comes from a hemolyzed sample. What should be considered?
 

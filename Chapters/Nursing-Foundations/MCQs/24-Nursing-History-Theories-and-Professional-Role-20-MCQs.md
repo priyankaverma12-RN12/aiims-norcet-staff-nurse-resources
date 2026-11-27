@@ -4,7 +4,7 @@
 
 ### Q1. Which nursing theorist emphasized environmental conditions such as ventilation, cleanliness and light in promoting healing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II — related reported concept** · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Florence Nightingale
 - **B.** Dorothea Orem
@@ -28,15 +28,17 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ.
+**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ. [AIIMS Bhubaneswar 15 September 2019 — memory-based report](https://testbook.com/question-answer/nursing-was-defined-as-the-art-of-utilizing--62580af01c6a3e352caa15ff) mein environment aur recovery ka related concept diya gaya hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q22](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q22-which-nursing-theorist-emphasized-environmental-conditions-such-as-ventilation-cleanliness-and-light-in-promoting-healing)
+
 ### Q2. Who developed the Self-Care Deficit Nursing Theory?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 NORCET, 1 September 2020 — related reported concept** · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Virginia Henderson
 - **B.** Sister Callista Roy
@@ -60,15 +62,17 @@ Self-care ka matlab hai apni health aur daily needs ka dhyan khud rakhna. Jaise 
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated.
+**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated. [AIIMS Delhi 15 September 2019 — memory-based report](https://testbook.com/question-answer/self-care-deficit-theory-proposed-by--62bf0d469af5fc8fa0529b2c) mein self-care deficit theory ki attribution poochhi gayi hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q18](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q18-who-developed-the-self-care-deficit-nursing-theory)
+
 ### Q3. A patient can bathe the upper body but needs assistance with lower-body hygiene. Which Orem nursing system best fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Supportive-educative system alone with no direct help
 - **B.** A system unrelated to self-care
@@ -96,9 +100,11 @@ Socho patient apna face aur haath khud wash kar sakta hai, lekin pair dhone ke l
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q86](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q86-a-patient-can-bathe-the-upper-body-but-needs-assistance-with-lower-body-hygiene-which-orem-nursing-system-best-fits)
+
 ### Q4. An independent patient needs teaching to manage a new home injection safely. Which Orem system is most appropriate when the patient can perform self-care after instruction?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Environmental control alone
 - **B.** Supportive-educative
@@ -126,9 +132,11 @@ Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi t
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q95](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q95-an-independent-patient-needs-teaching-to-manage-a-new-home-injection-safely-which-orem-system-is-most-appropriate-when-the-patient-can-perform-self-care-after-instruction)
+
 ### Q5. Which theorist is associated with fourteen basic human needs and helping patients gain independence?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Imogene King
 - **B.** Virginia Henderson
@@ -152,13 +160,15 @@ Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient k
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q62](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q62-which-theorist-is-associated-with-fourteen-basic-human-needs-and-helping-patients-gain-independence)
+
 ### Q6. Which nursing theory primarily emphasizes therapeutic nurse-patient interpersonal relationships?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Peplau's theory
 - **B.** Orem's self-care theory
@@ -182,13 +192,15 @@ Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trus
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q99](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q99-which-nursing-theory-primarily-emphasizes-therapeutic-nurse-patient-interpersonal-relationships)
+
 ### Q7. During the initial meeting, a nurse and patient identify the presenting concern and establish roles. Which phase of Peplau's relationship is illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Termination
 - **B.** Resolution after goals are achieved
@@ -216,9 +228,11 @@ Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q72](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q72-during-the-initial-meeting-a-nurse-and-patient-identify-the-presenting-concern-and-establish-roles-which-phase-of-peplaus-relationship-is-illustrated)
+
 ### Q8. Which theorist developed the Adaptation Model of nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Lydia Hall
 - **B.** Faye Abdellah
@@ -242,13 +256,15 @@ Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q112](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q112-which-theorist-developed-the-adaptation-model-of-nursing)
+
 ### Q9. Which theory describes the person as an open system interacting with stressors and lines of defense?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Orem's self-care deficit model
 - **B.** Watson's human caring theory
@@ -272,13 +288,15 @@ Neuman patient ko open system maanti hain, yani body ke andar aur bahar ke chang
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q116](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q116-which-theory-describes-the-person-as-an-open-system-interacting-with-stressors-and-lines-of-defense)
+
 ### Q10. A nurse and patient mutually agree on a mobility goal and select actions to reach it. Which theorist's central concept is especially illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Rogers' science of unitary human beings
 - **B.** Imogene King's Goal Attainment Theory
@@ -302,13 +320,15 @@ King ki theory mein nurse aur patient milkar realistic goal decide karte hain. J
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q26](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q26-a-nurse-and-patient-mutually-agree-on-a-mobility-goal-and-select-actions-to-reach-it-which-theorists-central-concept-is-especially-illustrated)
+
 ### Q11. Which theorist is particularly associated with the Theory of Human Caring and carative or Caritas concepts?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Jean Watson
 - **B.** Dorothea Orem
@@ -332,13 +352,15 @@ Watson ki Human Caring Theory mein patient ko sirf disease ya bed number nahi ma
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q119](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q119-which-theorist-is-particularly-associated-with-the-theory-of-human-caring-and-carative-or-caritas-concepts)
+
 ### Q12. Which nursing model is associated with the three interrelated circles of care, core and cure?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Virginia Henderson
 - **B.** Hildegard Peplau
@@ -362,13 +384,15 @@ Lydia Hall ne nursing ko three connected circles se samjhaya. Care ka matlab bod
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q88](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q88-which-nursing-model-is-associated-with-the-three-interrelated-circles-of-care-core-and-cure)
+
 ### Q13. Which theorist is associated with a framework of twenty-one nursing problems?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Jean Watson
 - **B.** Martha Rogers
@@ -392,13 +416,15 @@ Abdellah ne nursing ko patient ki problems identify aur solve karne ke approach 
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q76](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q76-which-theorist-is-associated-with-a-framework-of-twenty-one-nursing-problems)
+
 ### Q14. Which historical event is closely associated with Florence Nightingale's nursing reforms?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Discovery of penicillin
 - **B.** Development of the first polio vaccine
@@ -426,9 +452,11 @@ Crimean War ke dauran Florence Nightingale ne sick aur injured soldiers ki nursi
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q66](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q66-which-historical-event-is-closely-associated-with-florence-nightingales-nursing-reforms)
+
 ### Q15. On which date is International Nurses Day observed annually?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** December 1
 - **B.** May 12
@@ -456,9 +484,11 @@ International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q64](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q64-on-which-date-is-international-nurses-day-observed-annually)
+
 ### Q16. Which organization establishes statutory educational standards for nursing qualifications in India under its governing legislation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Indian Nursing Council
 - **B.** Indian Medical Association
@@ -488,9 +518,11 @@ Nursing education standards ka purpose hai ki nursing courses mein required know
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q94](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q94-which-organization-establishes-statutory-educational-standards-for-nursing-qualifications-in-india-under-its-governing-legislation)
+
 ### Q17. A nurse identifies a gap between routine ward practice and current research evidence. What is the appropriate evidence-based practice approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Combine best available evidence, clinical expertise and patient preferences
 - **B.** Change practice solely on one social media post
@@ -518,9 +550,11 @@ Evidence-based practice ka matlab hai patient care ke decisions mein best availa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q22](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q22-a-nurse-identifies-a-gap-between-routine-ward-practice-and-current-research-evidence-what-is-the-appropriate-evidence-based-practice-approach)
+
 ### Q18. Which nursing role is illustrated when a nurse communicates a patient's expressed concerns to the treatment team?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Equipment manufacturer
 - **B.** Independent medical diagnostician in every case
@@ -550,9 +584,11 @@ Advocate ka matlab hai patient ki baat, rights aur needs ko respect ke saath saa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q34](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q34-which-nursing-role-is-illustrated-when-a-nurse-communicates-a-patients-expressed-concerns-to-the-treatment-team)
+
 ### Q19. A nurse is assigned a procedure outside their competence. What is the appropriate professional action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ask an untrained attendant to perform it
 - **B.** Document completion without performing it
@@ -582,9 +618,11 @@ Competence ka matlab hai required knowledge, skill aur judgement ke saath proced
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q72](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q72-a-nurse-is-assigned-a-procedure-outside-their-competence-what-is-the-appropriate-professional-action)
+
 ### Q20. Which activity is an example of continuing professional development?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Avoiding feedback after clinical errors
 - **B.** Participating in relevant training and updating clinical knowledge
@@ -613,6 +651,8 @@ Continuing professional development ya CPD ka matlab hai initial nursing trainin
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q64](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q64-which-activity-is-an-example-of-continuing-professional-development)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [Indian Nursing Council](https://www.indiannursingcouncil.org/)

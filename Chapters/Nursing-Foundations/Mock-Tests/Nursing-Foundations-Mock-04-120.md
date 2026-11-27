@@ -313,7 +313,7 @@ Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hon
 
 ### Q11. A patient with cardiac disease receives IV fluid and develops new crackles and increasing work of breathing. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase fluid rate
 - **B.** Assess respiratory and circulatory status and urgently review the infusion plan
@@ -343,7 +343,7 @@ Cardiac disease mein heart extra IV fluid efficiently handle nahi kar paata toh 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q16](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q16](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q16-a-patient-with-cardiac-disease-receives-iv-fluid-and-develops-new-crackles-and-increasing-work-of-breathing-what-should-the-nurse-do)
 
 ### Q12. Which action is appropriate when a patient asks for assistance with grooming but can perform part of the task?
 
@@ -433,7 +433,7 @@ Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin c
 
 ### Q15. A patient has low platelet count and mucosal bleeding. Why may rectal temperature measurement be inappropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Rectal insertion may cause mucosal trauma and bleeding
 - **B.** Platelet count has no relationship to bleeding risk
@@ -463,7 +463,7 @@ Platelets blood clot ke initial plug formation mein help karte hain. Thrombocyto
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q13](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q13](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q13-a-patient-has-low-platelet-count-and-mucosal-bleeding-why-may-rectal-temperature-measurement-be-inappropriate)
 
 ### Q16. A PRN analgesic is requested by a patient who received another sedating drug recently. Which action is most appropriate?
 
@@ -650,9 +650,22 @@ Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethra
 
 **Correct: D. Consider it contaminated and replace it appropriately**
 
-Sterile field ke outside contact ya uncontrolled exposure contamination concern create karta hai. Nurse suitable replacement arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Visual appearance sterility prove nahi karti. Dry wiping aur patient opinion sterile processing replace nahi karte.
+Sterile ka matlab microorganisms se free hona hai. Sterile field controlled aur visible rakhna zaroori hai, kyunki bahar gire instrument ki contamination ka risk ho sakta hai. Agar instrument sterile field se neeche gir jaaye, toh nurse use contaminated maan kar appropriate replacement arrange karti hai. Sirf dekhne se microorganisms identify nahi hote.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Patient ki opinion instrument ki microbiological sterility verify nahi karti.
+- **B (Galat):** Instrument visually clean ho sakta hai lekin us par microorganisms ho sakte hain.
+- **C (Galat):** Dry towel se wipe karna approved sterilization process nahi hai.
+- **D (Sahi):** Contaminated instrument remove karke sterile replacement use karne se infection risk kam ho sakta hai.
+
+**Exam clue:** Sterile field ke bahar gire instrument ko contaminated maan kar replace karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1391,7 +1404,7 @@ Culturally safe care patient ki own preferences poochti hai. Dietitian aur team 
 
 ### Q45. A patient with peripheral neuropathy requests a heating pad. Which risk should the nurse recognize?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Heat is safe indefinitely if the patient does not complain
 - **B.** Skin inspection becomes unnecessary
@@ -1421,7 +1434,7 @@ Peripheral neuropathy mein nerves ki sensation impaired ho sakti hai, jisse pati
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q15](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q15](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q15-a-patient-with-peripheral-neuropathy-requests-a-heating-pad-which-risk-should-the-nurse-recognize)
 
 ### Q46. A person collapses following electrical contact. What must a responder ensure before touching the person?
 
@@ -1497,7 +1510,7 @@ Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficu
 
 ### Q48. A patient weighs 62 kg yesterday and 64 kg today using the same scale and comparable conditions. What should the nurse consider?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It proves dehydration
 - **B.** It proves 2 kg of new muscle was formed overnight
@@ -1527,7 +1540,7 @@ Same scale aur comparable conditions mein weight 64 minus 62 = 2 kg badha hai. W
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q13](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q13](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q13-a-patient-weighs-62-kg-yesterday-and-64-kg-today-using-the-same-scale-and-comparable-conditions-what-should-the-nurse-consider)
 
 ### Q49. Which intervention helps reduce deconditioning during a prolonged hospital stay?
 
@@ -1813,9 +1826,22 @@ Language barrier mein nod karna polite response ho sakta hai, understanding ka p
 
 **Correct: A. Apply prescribed mechanical prophylaxis correctly and encourage suitable mobility**
 
-Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte hain. Nurse skin, fit aur contraindications assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage possible DVT mein unsafe hai. Bed rest stasis badhati hai. Prophylaxis removal plan se hona chahiye.
+Venous thrombosis ka matlab vein ke andar blood clot ban jaana hai. Surgery aur immobility ke baad blood flow slow ho sakta hai aur clot risk badh sakta hai. Prescribed compression device aur suitable movement venous flow support kar sakte hain. Nurse VTE aur bleeding risk, skin, device fit aur contraindications check karti hai. Anticoagulant prophylaxis bhi individualized prescription ke hisaab se required ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Prescribed mechanical prophylaxis correctly apply karna aur safe mobility encourage karna clot prevention plan ka hissa hai.
+- **B (Galat):** Indefinite bed rest venous stasis, yani slow blood flow, badha sakti hai.
+- **C (Galat):** Prophylaxis bina review remove karne se prevention plan interrupt ho sakta hai.
+- **D (Galat):** Deep calf massage approved prevention nahi hai. Suspected DVT mein massage avoid karke review lena chahiye.
+
+**Exam clue:** Prescribed devices, mobility aur individualized risk assessment ko saath consider karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2062,7 +2088,7 @@ International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence
 
 ### Q65. Which finding is consistent with possible extracellular fluid volume depletion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Orthostatic dizziness with dry mucosa and reduced urine output
 - **B.** Bounding pulse with no other assessment
@@ -2092,7 +2118,7 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q15](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q15](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q15-which-finding-is-consistent-with-possible-extracellular-fluid-volume-depletion)
 
 ### Q66. Which historical event is closely associated with Florence Nightingale's nursing reforms?
 
@@ -2465,9 +2491,24 @@ Abdellah ne nursing ko patient ki problems identify aur solve karne ke approach 
 
 **Correct: B. Reduce the risk of unintended retained surgical items**
 
-Counts team ko used items reconcile karne mein help karte hain. Discrepancy procedure-specific safety pathway se resolve ki jaati hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Blood group, anesthesia calculation aur time-out separate safety processes hain.
+Operation mein sponges, needles aur instruments use hote hain. Agar item patient ke andar reh jaaye, toh infection, pain ya doosri surgery ki zaroorat ho sakti hai. Surgical count se team used items ko policy ke hisaab se reconcile karti hai. Count ek safety layer hai, complete surgical checklist ka replacement nahi hai. Discrepancy par approved protocol follow hota hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Anesthesia dose patient aur drug-specific plan se decide hoti hai.
+- **B (Sahi):** Count se team missing item identify kar sakti hai aur retained surgical item ka risk kam ho sakta hai.
+- **C (Galat):** Time-out patient, site aur procedure verify karne ka separate check hai.
+- **D (Galat):** Blood group laboratory compatibility testing se establish hota hai, count se nahi.
+
+**Exam clue:** Surgical count ka purpose unintended retained surgical items prevent karna hai.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2597,7 +2638,7 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 ### Q82. A patient's output includes 900 mL urine and 300 mL drain fluid while measured intake is 1500 mL. What is recorded net balance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** +300 mL
 - **B.** −300 mL
@@ -2623,11 +2664,11 @@ Recorded fluid balance mein same observation period ka measured intake minus mea
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — intake/output calculations, Nursing Guru Kannada](https://www.youtube.com/watch?v=4KjbdI4RNmc).** 12 September 2026 ki published description mein positive aur negative fluid balance ke calculation MCQs diye gaye hain. Video Kannada mein hai. Exact question, timestamp aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q14](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q14](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q14-a-patients-output-includes-900-ml-urine-and-300-ml-drain-fluid-while-measured-intake-is-1500-ml-what-is-recorded-net-balance)
 
 ### Q83. A patient reports dizziness when cold ear drops are administered. What can help prevent this?
 
@@ -2935,7 +2976,7 @@ Intact nonblanchable change early pressure injury indicate kar sakti hai. Offloa
 
 ### Q93. A patient has a cold application over a poorly perfused limb. Which finding requires immediate reassessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increasing pallor, numbness or pain
 - **B.** A planned reassessment interval
@@ -2965,7 +3006,7 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q16](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q16](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q16-a-patient-has-a-cold-application-over-a-poorly-perfused-limb-which-finding-requires-immediate-reassessment)
 
 ### Q94. Which organization establishes statutory educational standards for nursing qualifications in India under its governing legislation?
 
@@ -3695,9 +3736,22 @@ Thermal burn heat ke karan skin injury hai. Small recent burn mein cool clean ru
 
 **Correct: B. Assess circulation and urgently notify the anesthesia team while following the treatment protocol**
 
-Spinal block sympathetic tone reduce karke vasodilation aur hypotension cause kar sakta hai. Nurse BP, pulse aur symptoms assess karke rapid review leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hypotension organ perfusion affect kar sakti hai. Standing aur antihypertensive medicine worsen kar sakte hain.
+Spinal anesthesia spinal nerves ke signals temporarily block karti hai. Isse sympathetic nerves ka control kam ho sakta hai aur blood vessels wider ho sakti hain. Jab vessels dilate hoti hain, toh BP gir sakta hai aur nausea ya dizziness ho sakti hai. Nurse circulation, pulse, oxygenation aur breathing assess karti hai, anesthesia team ko urgent inform karti hai aur authorized protocol follow karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Spinal anesthesia ke baad low BP possible hai, lekin symptomatic hypotension harmless nahi hai.
+- **B (Sahi):** Circulation assessment aur urgent anesthesia review low BP ka cause identify aur treatment start karne mein help karte hain.
+- **C (Galat):** Antihypertensive medicine BP aur kam kar sakti hai. Unprescribed medicine unsafe hai.
+- **D (Galat):** Standing se BP aur gir sakta hai aur patient collapse kar sakta hai.
+
+**Exam clue:** Spinal block ke baad nausea aur hypotension ko urgently assess aur escalate karo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7276328/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3736,7 +3790,7 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 ### Q118. Which nursing action supports accurate comparison of serial temperatures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Record only rounded values without context
 - **B.** Use a consistent suitable route and document route and device when relevant
@@ -3766,7 +3820,7 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q14](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q14](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q14-which-nursing-action-supports-accurate-comparison-of-serial-temperatures)
 
 ### Q119. What is the purpose of advance care planning?
 
