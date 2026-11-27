@@ -59,3 +59,12 @@ D. Topical
 ## Remaining evidence
 
 [RRB Staff Nurse 20 July 2019 Shift II](https://testbook.com/question-answer/which-one-of-the-following-is-a-method-for-effecti--61a8be3b34f46b35766e2300) indexed report concerns transdermal analgesia, but its wording combines postoperative and chronic pain and is potentially misleading. Do not treat transdermal fentanyl as routine acute postoperative analgesia. No adaptation counted. HSSC 2019 inunction report repeats the HPSSC tested concept, cross-reference only [source](https://testbook.com/question-answer/application-of-drugs-on-the-skin-by-local-rubbing--698d76373e3d29ee907277cd/amp). HPSSC 2021 infant IM site lead reserved for Group 19. Further NORCET, PGIMER, SGPGI, JIPMER, ESIC, DSSSB, RRB and other state official evidence pending. No new counted historical credit.
+
+
+## 📜 Source and practice recheck — 27 November 2026
+
+- HPSSC 2020 inunction and HSSC 31 December 2023 Shift 2 topical reports remain indexed only. Direct opens failed, including alternate inunction and AMP links. HSSC 2019 inunction cross-reference direct retrieval also failed. Existing adaptations and counts unchanged.
+- **[🟣 RRB Nursing Superintendent 29 April 2025 Shift 2 — related tested concept only](https://testbook.com/question-answer/which-of-the-following-is-not-the-solid-form-for-a--681c827b99ed7f6194df3b39)**. Direct third-party question, choices and reported answer retrieved. It distinguishes liquid and solid oral formulations. No exact scenario match or official answer-key authentication. Linked in the oral-formulation concept subsection.
+- NORCET 6 Prelims 2024 route identification indexed report and an NG-tube formulation report failed direct retrieval. No label or adaptation added from these leads.
+- HPRCA official site indexes final key for post code 26004 dated 28 April 2026. No authenticated formulation item or official key verified in this run. [Official notice listing](https://hprca.hp.gov.in/homepage?id=2). Other India-wide sources remain pending.
+- **▶️ [ADAPT NCLEX REVIEW — rectal suppository practice](https://www.youtube.com/watch?v=UD-vn2-tR8Y&t=2272s)**, published 19 May 2026, chapter 37:52. Mapped to original Q23 topic only. Remaining 24 original scenario-specific gaps and both adaptation gaps remain. The published NORCET 10 routes chapter 56:39 is a broad lead only. Exact playback and transcripts not checked.
