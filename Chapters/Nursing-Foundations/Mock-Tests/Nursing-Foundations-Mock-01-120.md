@@ -155,7 +155,7 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 ### Q6. A patient develops fever, chills and flank pain soon after a red cell transfusion starts. What is the immediate action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 11 September 2022 — related reported concept** · **🟣 AIIMS NORCET 9 Mains, 27 September 2025 — related reported concept**
 
 - **A.** Administer the next unit
 - **B.** Finish the current unit before reporting
@@ -183,11 +183,13 @@ Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — transfusion-reaction priority interventions, Nursing Wallah by PW (17:50)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [NORCET 2022 memory-based report](https://testbook.com/question-answer/patient-is-undergoing-blood-transfusion-and-sudden--632048b3fc9b126a3aefd06b) · [NORCET 9 Mains 2025 memory-based report](https://testbook.com/question-answer/during-a-blood-transfusion-a-patient-suddenly-dev--692ee9e35f2b488969718e97). Dono third-party reports suspected transfusion reaction mein transfusion rokne ki priority test karti hain. Official papers aur keys independently authenticate nahi hue hain. Current protocol ke hisaab se assessment aur venous access manage karo.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q3](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q3](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q3-a-patient-develops-fever-chills-and-flank-pain-soon-after-a-red-cell-transfusion-starts-what-is-the-immediate-action)
 
 ### Q7. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
@@ -1015,7 +1017,7 @@ Subjective data patient ka personal experience hai. Burning sensation nurse dire
 
 ### Q32. Before starting a blood transfusion, which verification is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Check only the blood bag color
 - **B.** Use the room number as identification
@@ -1047,7 +1049,7 @@ Blood transfusion mein kisi doosre patient ke liye compatible unit galti se lag 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q1](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q1](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q1-before-starting-a-blood-transfusion-which-verification-is-essential)
 
 ### Q33. A patient with a suspected cervical spinal injury must be repositioned. Which approach is appropriate?
 
@@ -1455,7 +1457,7 @@ Hearing loss communication barrier hai, automatically cognitive impairment nahi.
 
 ### Q45. Which temperature site is generally avoided in an unconscious patient who cannot safely hold an oral thermometer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** An appropriate core monitoring device if indicated
 - **B.** A correctly used tympanic route if suitable
@@ -1485,7 +1487,7 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q1](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q1](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q1-which-temperature-site-is-generally-avoided-in-an-unconscious-patient-who-cannot-safely-hold-an-oral-thermometer)
 
 ### Q46. Which action is appropriate during a preoperative checklist?
 
@@ -2342,7 +2344,7 @@ Standard precautions ka matlab hai ki har patient ki care mein infection spread 
 
 ### Q70. After a suspected transfusion reaction, what should happen to the implicated blood bag and tubing?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reuse them for another patient
 - **B.** Discard immediately without reporting
@@ -2374,7 +2376,7 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q4](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q4](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q4-after-a-suspected-transfusion-reaction-what-should-happen-to-the-implicated-blood-bag-and-tubing)
 
 ### Q71. Four patients call simultaneously. Which needs assessment first?
 
@@ -2399,7 +2401,7 @@ Injection ke baad wheeze aur facial swelling anaphylaxis suggest kar sakte hain.
 
 ### Q72. Which observation provides a baseline for monitoring transfusion reactions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only a weight from last year
 - **B.** Only the bag volume
@@ -2427,11 +2429,11 @@ Baseline vital signs transfusion se pehle patient ki condition ka starting recor
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — transfusion vital-sign monitoring, Nursing Wallah by PW (44:25)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=2665s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q2](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q2](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q2-which-observation-provides-a-baseline-for-monitoring-transfusion-reactions)
 
 ### Q73. A new admission arrives with severe breathlessness and hypotension. Which action takes priority over routine admission paperwork?
 
@@ -2965,7 +2967,7 @@ Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar s
 
 ### Q88. A patient exposed to extreme heat has very high temperature and altered mental status. Which action is a priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wrap the patient in warm blankets
 - **B.** Activate emergency help and begin appropriate rapid cooling and supportive care
@@ -2997,7 +2999,7 @@ Extreme heat exposure ke baad very high temperature aur altered mental status he
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q4](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q4](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q4-a-patient-exposed-to-extreme-heat-has-very-high-temperature-and-altered-mental-status-which-action-is-a-priority)
 
 ### Q89. A patient has new black tarry stool with dizziness and hypotension. What is the priority?
 
@@ -3424,7 +3426,7 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 ### Q103. Why should a recent hot drink be considered before measuring oral temperature?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 JIPMER Staff Nurse, 4 June 2013 — related reported concept**
 
 - **A.** It always lowers oral temperature
 - **B.** It may temporarily elevate the local measurement
@@ -3456,7 +3458,7 @@ Oral temperature mouth ke andar ki local temperature measure karti hai. Hot drin
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q2](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q2](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q2-why-should-a-recent-hot-drink-be-considered-before-measuring-oral-temperature)
 
 ### Q104. A drug is supplied as 50 mg/mL and the prescribed dose is 35 mg. Which volume is correct?
 
@@ -3759,7 +3761,7 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 ### Q114. Which term describes elevated body temperature due to a raised hypothalamic set point?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Hyperthermia without set-point change
 - **B.** Hypothermia
@@ -3789,7 +3791,7 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q3](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q3](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q3-which-term-describes-elevated-body-temperature-due-to-a-raised-hypothalamic-set-point)
 
 ### Q115. Which principle is illustrated by avoiding an unnecessary invasive procedure that may injure a patient?
 
