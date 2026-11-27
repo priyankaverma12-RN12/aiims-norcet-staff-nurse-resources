@@ -279,3 +279,8 @@ Current chapter inventory verified at 800 question slots across 20/30 topic grou
 ### Continuation — antimicrobial resistance and stewardship
 
 40 original MCQs, concept guide with diagram, three indexed video resources, one distinct source-linked exam adaptation consolidating RRB 2019, ESIC 2019 and MPESB 2022 repeated MRSA abbreviation questions. Prior chapter PYQ files checked for overlapping source IDs and abbreviation items. Total 1,000 MCQs across 25/30 defined topic groups (469 Medium and 531 Difficult), 51 reported recruitment adaptations and two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending reconciliation. Next: HAI prevention and surveillance definitions. Official keys, full video playback, individual-topic expansion and comprehensive semantic duplicate audit remain pending.
+
+
+### Continuation — HAI surveillance definitions
+
+40 new original questions, concepts and diagram, three indexed practice/teaching resources and historical question evidence leads with timing correction. Total 1,040 across 26/30 groups. Reported adaptations remain 51 plus two academic adaptations, overlapping HAI lead not counted. Next: CAUTI prevention. Chapter mocks 0/10. Individual-topic expansion, full playback, official PYQ keys and cross-bank semantic audit pending.

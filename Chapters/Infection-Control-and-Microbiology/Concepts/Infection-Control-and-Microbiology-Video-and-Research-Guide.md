@@ -34,3 +34,6 @@ Additional exposure references: [NACO 2024](https://naco.mohfw.gov.in/wp-content
 - [OpenStax bacterial growth](https://openstax.org/books/microbiology/pages/9-1-how-microbes-grow)
 
 Video titles and descriptions checked. Full playback and individual video questions are not verified. Existing mixed NORCET microbiology practice remains linked.
+
+
+[HAI teaching and dedicated MCQ video links](26-HAI-Prevention-and-Surveillance-Definitions.md#sources-and-video-resources). Indexed descriptions, full playback not independently verified.
