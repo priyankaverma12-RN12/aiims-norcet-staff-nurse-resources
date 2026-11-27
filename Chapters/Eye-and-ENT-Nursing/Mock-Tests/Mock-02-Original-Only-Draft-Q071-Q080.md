@@ -17,13 +17,13 @@
 
 **Correct answer: B. Arrange a baseline ophthalmologic examination and teach the patient to report new visual symptoms promptly**
 
-- **A. Kyun galat hai:** Retinal infection early stage mein symptoms ke bina bhi ho sakti hai. Complete visual loss tak wait karne se treatment ka valuable time lose ho sakta hai.
+- **A. Kyun galat hai:** CMV retinitis retina ki infection hai, jo shuru mein peripheral retina mein hone par symptoms ke bina bhi reh sakti hai. Jab tak patient ko complete visual loss ho, tab tak irreversible damage ho sakta hai. Isliye symptoms ka wait karna safe screening approach nahi hai.
 
-- **B. Kyun sahi hai:** CD4 cells immune defence mein important hote hain. NIH guidance ke hisaab se CD4 count 100 cells/mm³ se kam hone par baseline ophthalmologic assessment aur CMV retinitis ke symptoms ki teaching recommended hai. Patient ko new floaters ya visual change promptly report karna chahiye.
+- **B. Kyun sahi hai:** CD4 cells immune defence ko coordinate karne wale white blood cells hain. Advanced HIV mein inki sankhya kam hone se CMV jaise opportunistic infections ka risk badhta hai. NIH guidance CD4 count 100 cells/mm³ se kam hone par baseline ophthalmologic examination aur CMV retinitis ke symptoms ki counselling recommend karti hai. Is patient ka count 80 hai, isliye nurse examination arrange karegi aur new floaters, visual field change ya blurred vision par urgent review samjhayegi. Effective ART bhi prevention ka important part hai.
 
-- **C. Kyun galat hai:** Intravitreal injection eye ke andar specialist procedure hai. Sirf low CD4 count ke basis par routine injections indicated nahi hote. Prevention mein effective HIV treatment aur appropriate eye assessment important hai.
+- **C. Kyun galat hai:** Intravitreal injection mein medicine aankh ke vitreous ke andar specialist deta hai. Sirf low CD4 count hone se preventive injection indicated nahi hota. NIH routine primary valganciclovir prophylaxis bhi recommend nahi karta. Confirmed disease ki treatment lesion aur patient ke clinical status ke basis par specialist decide karega.
 
-- **D. Kyun galat hai:** External eye examination se posterior retina ka complete assessment nahi hota. Normal-looking eye retinal infection ko rule out nahi karti.
+- **D. Kyun galat hai:** External examination se eyelids, conjunctiva aur front of eye ki kuch findings assess ho sakti hain. Lekin retina aankh ke pichhle hisse mein hoti hai. Normal external appearance se CMV retinitis exclude nahi ki ja sakti, isliye appropriate dilated examination chahiye.
 
 **Exam clue:** Low CD4 count mein asymptomatic retinal disease bhi possible hai. Baseline assessment ka purpose early detection hai.
 
@@ -46,13 +46,13 @@
 
 **Correct answer: C. Both eyes require monitoring because new involvement or other retinal complications may develop**
 
-- **A. Kyun galat hai:** Treatment risk reduce kar sakta hai, lekin fellow eye involvement ki possibility completely eliminate nahi hoti. Follow-up skip nahi karna chahiye.
+- **A. Kyun galat hai:** Anti-CMV treatment infection control karne aur doosri eye ke involvement ka risk kam karne mein help karta hai. Lekin risk poori tarah khatam nahi hota. Isliye symptom-free eye ko bhi follow-up examination mein include karna important hai.
 
-- **B. Kyun galat hai:** Amblyopia developmental visual impairment hai. Is clinical visit ka primary purpose infectious retinal lesions aur complications monitor karna hai.
+- **B. Kyun galat hai:** Amblyopia bachpan mein visual development disturb hone se reduced vision ki condition hai. Is patient mein dilated retinal examination ka purpose CMV lesions aur unki complications monitor karna hai. Yeh refractive amblyopia diagnose karne ke liye routine follow-up nahi hai.
 
-- **C. Kyun sahi hai:** CMV retinitis retina ko damage kar sakti hai. Dilated examination se clinician active lesion, treatment response, doosri eye ka involvement aur retinal detachment jaise complications assess kar sakta hai. Asymptomatic eye bhi examine karna useful hai.
+- **C. Kyun sahi hai:** CMV retinitis mein virus retina ke tissue ko damage kar sakta hai. Dilated examination se ophthalmologist dono eyes ki retina dekh sakta hai, existing lesions ka response assess kar sakta hai aur fellow eye mein nayi infection ya retinal detachment jaise complications identify kar sakta hai. NIH treatment ke dauran dono eyes ki regular dilated monitoring recommend karta hai. Nurse scheduled visits ki importance samjhayegi, chahe doosri aankh mein symptoms na hon.
 
-- **D. Kyun galat hai:** Tear production ocular surface assessment se measure hoti hai. Dilation deeper retinal examination ke liye use hoti hai.
+- **D. Kyun galat hai:** Tear production ocular surface ke tests se assess ki ja sakti hai, jaise Schirmer test. Pupil dilation se doctor ko retina aur deeper structures dekhne mein madad milti hai. Isliye is follow-up ka purpose sirf tear measurement nahi hai.
 
 **Exam clue:** Unilateral retinal infection ka follow-up dono eyes ko include kar sakta hai.
 
@@ -75,13 +75,13 @@
 
 **Correct answer: A. Notify the prescribing team promptly and assess for fever or other evidence of infection**
 
-- **A. Kyun sahi hai:** Valganciclovir bone marrow suppression cause kar sakta hai. Neutrophils infection se fight karne wale white blood cells hain. Marked decline mein prescriber ko promptly inform karo, fever assess karo aur febrile neutropenia concern ho toh emergency protocol follow karo. Dose decision treating team karegi.
+- **A. Kyun sahi hai:** Valganciclovir CMV ke against antiviral medicine hai, lekin ye bone marrow mein blood cells banne ki process ko suppress kar sakti hai. Neutrophils bacteria aur fungi se defence mein important hote hain. Inki sankhya markedly girne par infection risk badhta hai. Nurse promptly prescribing team ko result report karegi, fever aur infection ke signs assess karegi aur febrile neutropenia ka suspicion ho toh emergency protocol follow karegi. Dose ya treatment change prescriber decide karega.
 
-- **B. Kyun galat hai:** Retinal healing eye examination se assess hoti hai. Neutrophil decline treatment toxicity ka concern ho sakta hai, successful healing ka marker nahi.
+- **B. Kyun galat hai:** Retinal healing ka assessment ophthalmologist retinal lesions aur visual function dekhkar karta hai. Neutrophil count girna healing ka marker nahi hai, balki medicine toxicity ya doosre clinical causes ka warning sign ho sakta hai. Isliye result ko ignore nahi karna chahiye.
 
-- **C. Kyun galat hai:** Dose independently increase karne se toxicity worsen ho sakti hai. Renal function aur blood counts ke according prescribed plan review hona chahiye.
+- **C. Kyun galat hai:** Valganciclovir ki dose independently badhane se marrow toxicity aur doosre adverse effects badh sakte hain. Prescriber kidney function, blood counts aur infection response ke hisaab se treatment review karta hai. Nurse abnormal result communicate karegi aur prescribed safety protocol follow karegi.
 
-- **D. Kyun galat hai:** Visual symptoms improve hone par bhi medicine toxicity develop ho sakti hai. Scheduled laboratory safety monitoring continue karna important hai.
+- **D. Kyun galat hai:** Vision improve hone ka matlab medicine ke adverse effects khatam hona nahi hai. Blood counts aur kidney function mein changes symptoms ke bina bhi develop ho sakte hain. Isliye scheduled laboratory monitoring ko patient ki subjective improvement ke basis par band nahi karna chahiye.
 
 **Exam clue:** Antiviral response aur bone marrow safety alag outcomes hain.
 
@@ -104,13 +104,13 @@
 
 **Correct answer: D. Arrange urgent ophthalmic assessment for possible immune recovery uveitis or other causes and avoid independent treatment changes**
 
-- **A. Kyun galat hai:** New inflammation active infection, immune recovery uveitis ya other ocular problems se ho sakti hai. Specialist examination ke bina relapse confirm nahi karna chahiye.
+- **A. Kyun galat hai:** CMV relapse ek possible cause hai, lekin recovering immune system ki inflammation aur doosri eye conditions bhi similar symptoms de sakti hain. Specialist examination ke bina har episode ko active CMV infection declare karna accurate nahi hai.
 
-- **B. Kyun galat hai:** ART immune function improve karne aur HIV suppress karne mein important hai. Independent permanent cessation se viral control lose ho sakta hai. Treatment changes coordinated team decide karegi.
+- **B. Kyun galat hai:** ART HIV ki replication suppress karne aur immune function recover karne mein help karti hai. Patient khud se ART permanently band kare toh viral control aur immune recovery compromise ho sakti hai. Nayi ocular inflammation ka assessment ophthalmology aur HIV team milkar karegi.
 
-- **C. Kyun galat hai:** Corticosteroids inappropriate use mein infection worsen kar sakte hain. Uveitis ka cause establish karke specialist treatment select karega.
+- **C. Kyun galat hai:** Steroid drops kuch inflammatory eye conditions mein useful ho sakti hain, lekin active infection mein inappropriate use se disease worsen ho sakti hai. Isliye patient ko leftover ya unprescribed steroid drops use karne ki salah nahi deni chahiye. Treatment cause identify karne ke baad specialist decide karega.
 
-- **D. Kyun sahi hai:** Immune recovery uveitis mein recovering immune system ocular inflammation contribute kar sakta hai. Prior CMV history aur ART response handover mein include karo. New ocular symptoms ka urgent assessment zaroori hai aur ART khud se stop nahi karni chahiye.
+- **D. Kyun sahi hai:** Immune recovery uveitis mein ART ke baad improve hota immune response aankh ke anterior chamber ya vitreous mein inflammation contribute kar sakta hai. Prior CMV retinitis wale patient mein naya inflammation is condition ka clue ho sakta hai, lekin active infection aur doosre causes ko bhi assess karna zaroori hai. Nurse ART history aur previous retinal disease report karegi, urgent eye review arrange karegi aur patient ko khud se treatment stop ya change na karne ki instruction degi.
 
 **Exam clue:** Immune recovery ke baad inflammation ko automatic relapse ya ART failure mat samjho.
 
@@ -133,13 +133,13 @@
 
 **Correct answer: B. Confirmed isolated ocular syphilis does not require CSF examination before treatment in this specified presentation**
 
-- **A. Kyun galat hai:** CDC specified isolated ocular presentation mein pretreatment CSF examination mandatory nahi batata. Neurological signs present hone par assessment alag ho sakta hai.
+- **A. Kyun galat hai:** CDC guidance mein neurological involvement aur isolated ocular disease ke assessment pathways alag hain. Jab confirmed ocular findings ke saath cranial nerve dysfunction ya doosra neurological abnormality nahi hai, toh pretreatment lumbar puncture har case mein mandatory nahi hai. Neurological signs present hon toh CSF evaluation ki need alag ho sakti hai.
 
-- **B. Kyun sahi hai:** CSF cerebrospinal fluid hai jo brain aur spinal cord ko surround karta hai. Reactive serology, confirmed ocular abnormality aur no neurological findings ke specified context mein treatment se pehle CSF examination unnecessary hai. Immediate ophthalmology aur treating team coordination zaroori hai.
+- **B. Kyun sahi hai:** CSF ya cerebrospinal fluid brain aur spinal cord ke around present fluid hai. Lumbar puncture se iska sample liya ja sakta hai. CDC ke mutabik reactive syphilis serology, examination par confirmed ocular abnormality aur no neurological dysfunction wale specified presentation mein treatment se pehle CSF examination zaroori nahi hai. Ocular syphilis vision ko threaten kar sakti hai, isliye nurse urgent ophthalmology aur treating team coordination karegi. Clinician neurosyphilis ke saman recommended treatment plan decide karega.
 
-- **C. Kyun galat hai:** Ocular syphilis visual function threaten kar sakti hai. Symptoms resolve hone ka wait karna appropriate nahi hai.
+- **C. Kyun galat hai:** Ocular syphilis se aankh ke andar inflammation aur visual damage ho sakta hai. Symptoms apne aap settle hone ka wait karne se necessary treatment delay ho sakta hai. Confirmed disease mein prompt specialist-led antimicrobial management chahiye.
 
-- **D. Kyun galat hai:** Ocular syphilis isolated eye manifestation ke roop mein ho sakti hai. Normal neurological exam eye disease exclude nahi karta.
+- **D. Kyun galat hai:** Ocular syphilis kabhi isolated eye manifestation ke roop mein bhi present hoti hai. Isliye normal neurological examination se confirmed eye disease exclude nahi hoti. Ocular examination aur serology ko clinical context mein interpret karna zaroori hai.
 
 **Exam clue:** Confirmed isolated ocular disease aur neurological involvement ke diagnostic pathways alag ho sakte hain.
 
@@ -162,13 +162,13 @@
 
 **Correct answer: C. HIV testing is recommended at diagnosis because coinfection may be present and affects coordinated care**
 
-- **A. Kyun galat hai:** Spectacle prescription refraction se determine hoti hai. HIV test ka purpose infection status assess karna hai.
+- **A. Kyun galat hai:** Spectacle power jaanne ke liye refraction test kiya jaata hai. HIV test patient ke infection status ko assess karta hai. Iska purpose chashme ki zaroorat determine karna nahi hai.
 
-- **B. Kyun galat hai:** Syphilis aur HIV different infections hain. Syphilis diagnosis se HIV positivity automatically establish nahi hoti.
+- **B. Kyun galat hai:** Syphilis bacterial infection hai aur HIV viral infection hai. Dono ek patient mein saath ho sakte hain, lekin syphilis ka diagnosis HIV positivity prove nahi karta. Nurse bina test result ke patient ke status ke baare mein assumption nahi banayegi.
 
-- **C. Kyun sahi hai:** CDC ocular syphilis diagnosis ke time HIV testing recommend karta hai. Testing confidential counselling aur appropriate consent process ke saath honi chahiye. Result se prevention, linkage to care aur follow-up planning support ho sakti hai.
+- **C. Kyun sahi hai:** CDC ocular syphilis ke diagnosis par HIV testing recommend karta hai, kyunki coinfection symptoms ke bina bhi present ho sakti hai. Testing confidential counselling aur appropriate consent ke saath honi chahiye. Result se HIV care, prevention aur follow-up plan coordinate karne mein help mil sakti hai. Negative result bhi appropriate prevention counselling ka opportunity ho sakta hai.
 
-- **D. Kyun galat hai:** HIV testing diagnostic aur preventive care ka part hai. Ocular syphilis ka indicated antimicrobial management separate urgent requirement hai.
+- **D. Kyun galat hai:** HIV test se HIV status ke baare mein information milti hai, lekin syphilis ko treat nahi kiya jaata. Ocular syphilis ki indicated antimicrobial therapy aur HIV assessment dono separate clinical needs hain. Testing ki wajah se urgent syphilis treatment unnecessary delay nahi hona chahiye.
 
 **Exam clue:** Coinfection assessment ka matlab kisi patient ka result assume karna nahi hai.
 
@@ -191,13 +191,13 @@
 
 **Correct answer: A. Baseline fundus assessment, OCT and fundus autofluorescence can identify pre-existing abnormalities and provide a comparison for later screening**
 
-- **A. Kyun sahi hai:** Hydroxychloroquine selected autoimmune disorders mein use hoti hai aur long-term retinal toxicity ka risk ho sakta hai. OCT retinal layers ka cross-sectional image deta hai. Fundus autofluorescence retinal pigment-related signals ka pattern dikhati hai. Baseline se pre-existing changes aur future comparison document kiye ja sakte hain.
+- **A. Kyun sahi hai:** Hydroxychloroquine autoimmune diseases mein inflammation control karne ke liye use hoti hai, lekin prolonged exposure se retina ke sensitive cells damage ho sakte hain. OCT retinal layers ka cross-sectional image banata hai aur fundus autofluorescence, ya FAF, retinal pigment epithelium se related signals ka pattern dikhati hai. AAO 2025 revision baseline fundus examination, OCT aur FAF soon after starting recommend karti hai, taaki pehle se present abnormalities document ho sakein aur future scans se comparison ho. Normal visual acuity hone par bhi baseline assessment useful hai.
 
-- **B. Kyun galat hai:** Baseline test toxicity prevent karne ki guarantee nahi deta. Dose, duration, risk factors aur repeat screening ka plan important hai.
+- **B. Kyun galat hai:** Baseline examination retina ki starting condition record karta hai. Ye medicine ke toxic effect ko physically prevent nahi karta. Retinal safety ke liye dose, exposure duration, patient-specific risk factors aur follow-up screening review karna zaroori hai.
 
-- **C. Kyun galat hai:** Early retinal toxicity symptoms ya acuity change se pehle structural tests par identify ho sakti hai. Visual acuity alone screening ka adequate substitute nahi hai.
+- **C. Kyun galat hai:** Visual acuity chart se patient ki detail dekhne ki ability assess hoti hai. Early hydroxychloroquine toxicity retinal structure mein changes cause kar sakti hai jab vision abhi normal ho. Isliye sirf acuity chart se guideline-recommended structural screening replace nahi karni chahiye.
 
-- **D. Kyun galat hai:** Hydroxychloroquine bacterial corneal ulcer ka routine antimicrobial treatment nahi hai. Is monitoring ka aim drug-associated retinal safety hai.
+- **D. Kyun galat hai:** Hydroxychloroquine ka routine use autoimmune conditions ke management mein hota hai. Bacterial corneal ulcer ko appropriate antimicrobial treatment chahiye, aur baseline retinal examination ka purpose drug-related retinal toxicity monitoring hai. Ye corneal infection treatment response assess karne ka test nahi hai.
 
 **Exam clue:** Baseline structural record future toxicity comparison mein useful hai.
 
@@ -220,13 +220,13 @@
 
 **Correct answer: D. Renal disease increases toxicity risk and warrants reassessment of the screening and prescribing plan**
 
-- **A. Kyun galat hai:** Kidney dysfunction drug toxicity risk ko reduce karne ka proof nahi hai. Hydroxychloroquine screening guidance renal disease ko additional risk factor maanta hai.
+- **A. Kyun galat hai:** Kidneys drug clearance mein important role play karti hain. Kidney function kam hone par hydroxychloroquine exposure aur retinal toxicity ka risk badh sakta hai. Isliye renal disease ko protective factor samajhna galat hai.
 
-- **B. Kyun galat hai:** AAO revision mein early annual screening defer karne ki possibility significant risk factors absent hone par hai. Ye universal five-year rule nahi hai.
+- **B. Kyun galat hai:** AAO guidance mein pehle paanch saal annual screening defer karna kuch low-risk patients mein reasonable ho sakta hai. Yeh sab patients par apply hone wala mandatory rule nahi hai. Kidney disease jaise risk factor develop ho toh screening plan dobara assess karna chahiye.
 
-- **C. Kyun galat hai:** Retinal toxicity early stage mein asymptomatic ho sakti hai. Renal status change ko symptoms ka wait kiye bina prescriber aur ophthalmology team ko report karo.
+- **C. Kyun galat hai:** Retinal toxicity ke early stages mein patient ko vision complaint nahi bhi ho sakti hai. Isliye renal function mein change hone par symptoms develop hone ka wait karna unsafe ho sakta hai. Nurse updated renal results prescribing aur eye-care team tak pahunchayegi.
 
-- **D. Kyun sahi hai:** Renal disease risk profile change kar sakti hai. Clinical team dose appropriateness aur earlier screening ki need review karegi. Patient ko medicine independently stop ya change nahi karni chahiye.
+- **D. Kyun sahi hai:** Chronic kidney disease hydroxychloroquine retinal toxicity ka additional risk factor hai. Is patient mein pehle wala low-risk screening plan ab appropriate na ho sakta hai. Nurse prescriber ko kidney function aur current dose report karegi aur ophthalmology se earlier risk-based screening review facilitate karegi. Medicine ki dose ya continuation patient khud se change nahi karega.
 
 **Exam clue:** Screening interval risk-based hai, sirf years of exposure par fixed nahi.
 
@@ -249,13 +249,13 @@
 
 **Correct answer: B. The calculated exposure is 8 mg/kg/day and exceeds the benchmark**
 
-- **A. Kyun galat hai:** Daily dose ko real body weight se divide karte hain. 400 mg ÷ 50 kg = 8 mg/kg/day hota hai, 4 nahi. 4 mg/kg/day ke liye 50 kg par 200 mg daily hota.
+- **A. Kyun galat hai:** Daily dose ko actual body weight se divide karne par dose per kilogram milti hai. Is case mein 400 mg ko 50 kg se divide karne par 8 mg/kg/day aata hai. Agar dose 4 mg/kg/day hoti, toh 50 kg weight par daily total 200 mg hota. Isliye given option ki calculation galat hai.
 
-- **B. Kyun sahi hai:** Calculation 400 ÷ 50 = 8 mg/kg/day hai. AAO benchmark 5 mg/kg/day tak hai, yani 50 kg par 250 mg/day ka arithmetic reference banta hai. Prescribed dose is benchmark se upar hai. Nurse prescriber se risk aur plan clarify karegi, khud se dose change nahi karegi.
+- **B. Kyun sahi hai:** Formula daily dose in mg divided by real body weight in kg hai. Is patient mein 400 ÷ 50 = 8 mg/kg/day hota hai. AAO ka retinal-safety benchmark at most 5 mg/kg/day hai. Reverse check mein 8 × 50 = 400 mg/day aata hai. 50 kg par benchmark ka arithmetic equivalent 250 mg/day hai, lekin yeh independent prescription nahi hai. Nurse dose benchmark exceed hone ki information prescriber ko degi, jo disease control, formulation aur individual risk ke hisaab se decision lega.
 
-- **C. Kyun galat hai:** 5 mg/kg/day × 50 kg = 250 mg/day hota hai. Current 400 mg/day is value se equal nahi hai.
+- **C. Kyun galat hai:** 5 mg/kg/day ko 50 kg se multiply karne par 250 mg/day milta hai. Patient ki actual prescribed dose 400 mg/day hai, isliye woh exact 5 mg/kg/day nahi hai. Calculation ka result 8 mg/kg/day hai.
 
-- **D. Kyun galat hai:** AAO recommended benchmark real body weight use karta hai. Weight, prescribed dose aur clinical risk factors ko medication reconciliation mein include karna relevant hai.
+- **D. Kyun galat hai:** AAO benchmark real body weight use karta hai, isliye patient ka 50 kg weight calculation ke liye directly relevant hai. Medication reconciliation mein correct weight, daily dose aur kidney function jaise risk factors verify karna important hai.
 
 **Exam clue:** Dose calculation risk-screening clue hai, independent prescribing instruction nahi. Reverse check 8 × 50 = 400 mg/day.
 
@@ -278,13 +278,13 @@
 
 **Correct answer: C. Severe retinal toxicity can continue to progress after cessation, so planned ophthalmic follow-up remains important**
 
-- **A. Kyun galat hai:** Severe retinal tissue damage generally reversible nahi hota. Immediate complete visual recovery ka promise accurate nahi hai.
+- **A. Kyun galat hai:** Severe hydroxychloroquine toxicity mein retinal cells ko established damage ho sakta hai. Drug band karne se damaged cells ka immediate complete recovery guaranteed nahi hota. Patient ko unrealistic visual recovery ka promise nahi dena chahiye.
 
-- **B. Kyun galat hai:** Drug cessation further exposure reduce karti hai, lekin established severe damage ke baad progression possible reh sakti hai.
+- **B. Kyun galat hai:** Medicine discontinue karne se future drug administration ruk jaati hai, lekin pehle se injured retinal tissue mein disease progression phir bhi ho sakti hai. Isliye cessation ke din risk zero maan kar follow-up cancel karna unsafe hai.
 
-- **C. Kyun sahi hai:** AAO revision ke according severe hydroxychloroquine retinopathy drug cessation ke baad bhi progress kar sakti hai. Specialist follow-up se structural changes, visual function aur rehabilitation needs assess ki ja sakti hain.
+- **C. Kyun sahi hai:** AAO 2025 revision ke according severe hydroxychloroquine retinopathy drug cessation ke baad bhi years tak worsen ho sakti hai. Specialist follow-up mein retinal structure aur visual function ka assessment kiya ja sakta hai. Nurse patient ko planned examination attend karne, new visual changes report karne aur zaroorat par low-vision rehabilitation discuss karne ki salah degi.
 
-- **D. Kyun galat hai:** Refraction focusing correction assess karti hai. Established retinal toxicity ke progression ko monitor karne ke liye ophthalmic retinal assessment chahiye.
+- **D. Kyun galat hai:** Refraction test chashme ki optical power assess karta hai. Retinal toxicity mein damage retina ke tissue mein hota hai, isliye sirf spectacle power check karne se progression assess nahi hoti. Ophthalmologist ki advised retinal monitoring continue karni chahiye.
 
 **Exam clue:** Drug cessation aur retinal disease progression ko alag outcomes samjho.
 
@@ -293,6 +293,10 @@
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
 </details>
+
+## Clinical rereview — 28 November 2026
+
+All ten questions and 40 individual option rationales independently model-rereviewed and expanded into complete conversational Roman Hinglish. English stems, options, keys, difficulty, priority and hidden answers preserved. NIH CMV guideline reviewed March 2026 and CDC ocular syphilis guidance directly opened and relevant passages checked. AAO 2025 revision (2026 publication) indexed journal and official clinical statement support Q77–Q80. Direct PubMed access returned CAPTCHA. Q79 arithmetic and reverse check passed. These named international guideline questions are not claims about Indian national protocols. Dedicated nursing question-specific MCQ video coverage remains pending. [Audit ledger](Mock-02-Structural-and-Semantic-Audit.md).
 
 ## Research and bounded validation — 27 November 2026
 
