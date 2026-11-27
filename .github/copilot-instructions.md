@@ -24,3 +24,6 @@ If older files contradict this skill, follow the skill and update the conflictin
 
 ## Latest learner override — 27 November 2026
 Full syllabus advance preparation is authorized. Both lanes must follow the latest mandatory quality audit and question-level source extraction section in the canonical skill and root SKILL.md, including full Roman Hinglish option-by-option hidden rationales, verified YouTube question-solving resources for MCQs, mocks and PYQs, and actual source-traced questions rather than link-only PYQ files. Keep 30–40 original questions per individual topic and ten distinct 120-question mocks per chapter. Respect both work claims and independent read-only audit findings. Do not invent provenance or count link-only leads as questions.
+
+
+Follow the latest Job 3 deep corrective audit and feedback loop in both SKILL.md files. All jobs must read .github/NORCET-AUDIT-LEARNINGS.md on every run and respect audit scope claims, question-level syllabus validation, source-traced complete PYQs, and correction requirements.
