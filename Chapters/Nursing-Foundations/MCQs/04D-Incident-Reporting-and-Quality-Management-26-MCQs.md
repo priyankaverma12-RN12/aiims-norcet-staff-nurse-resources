@@ -18,12 +18,14 @@ D. Natural disease progression
 
 **Correct answer: B. Near miss**
 
-- **A (Incorrect):** Harmful incident mein patient ko harm hua hota hai.
-- **B (Correct):** WHO classification mein near miss patient tak nahi pahunchta. Isko report karne se future error prevent karne ka chance milta hai.
-- **C (Incorrect):** No-harm incident patient tak pahunchta hai but discernible harm nahi hota.
-- **D (Incorrect):** Yeh care-process error hai, disease progression nahi.
+- **A (Incorrect):** Harmful incident ka matlab hai ki care se patient ko actual harm hua. Yahan wrong specimen pehle hi pakda gaya, isliye patient ko is incident se injury nahi hui.
+- **B (Correct):** Near miss mein error ho chuka hota hai lekin safety barrier usko patient tak pahunchne se pehle rok deta hai. Yahan specimen verification ne galat sample ko rok diya. Nurse ko incident report karna chahiye, kyunki agali baar wahi error patient tak pahunch sakta hai.
+- **C (Incorrect):** No-harm incident mein error patient tak pahunch chuka hota hai, lekin assessment mein koi discernible harm nahi milta. Yahan exposure hi nahi hua.
+- **D (Incorrect):** Disease progression mein bimari apne course ke karan badhti hai. Galat specimen care process ka error hai, bimari ka natural course nahi.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf)
+**Exam clue:** WHO ke hisab se pehle dekho ki incident patient tak pahuncha ya nahi, phir dekho ki harm hua ya nahi.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf) · [Additional verification](https://academic.oup.com/intqhc/article/21/1/18/1888152)
 
 
 <!-- job4-metadata -->
@@ -47,12 +49,14 @@ D. Confirmed harmful incident
 
 **Correct answer: A. No-harm incident**
 
-- **A (Correct):** Error patient tak pahunch gaya but abhi discernible harm nahi mila. Drug-specific monitoring aur reporting still important hain.
-- **B (Incorrect):** Near miss WHO definition mein patient tak nahi pahunchta.
-- **C (Incorrect):** Unintended dose care-related incident hai.
-- **D (Incorrect):** Harm establish nahi hua. Delayed harm monitor karke classification revise kar sakte hain.
+- **A (Correct):** No-harm incident mein galat action patient tak pahunchta hai, lekin us samay koi pehchanne layak injury nahi milti. Extra dose de di gayi hai, isliye ab nurse ko drug ke effect, vital signs aur delayed toxicity ka risk assess karke responsible team ko inform karna aur report karna chahiye.
+- **B (Incorrect):** Near miss mein galat dose dene se pehle error rok diya jaata hai. Is case mein dose di ja chuki hai.
+- **C (Incorrect):** Underlying disease patient ki pehle se maujood bimari hai. Extra dose ka milna treatment process se judi alag ghatna hai.
+- **D (Incorrect):** Harmful incident ke liye actual harm establish hona chahiye. Baad mein harm dikhe toh event classification update ki ja sakti hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf)
+**Exam clue:** No harm abhi mila nahi hai, iska matlab yeh nahi hai ki monitoring ki zaroorat nahi hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf) · [Additional verification](https://academic.oup.com/intqhc/article/21/1/18/1888152)
 
 
 <!-- job4-metadata -->
@@ -76,12 +80,14 @@ D. An unpredictable reaction should never be reported
 
 **Correct answer: C. A care-related harmful event can occur without a preventable error**
 
-- **A (Incorrect):** Adverse outcome alone negligence establish nahi karta.
-- **B (Incorrect):** Correct care ke bawajood adverse reaction possible hai.
-- **C (Correct):** Harm aur error separate concepts hain. Preventability investigation se assess hoti hai.
-- **D (Incorrect):** Adverse reaction relevant reporting pathway se report ho sakti hai.
+- **A (Incorrect):** Negligence ka conclusion sirf injury dekhkar nahi nikala ja sakta. Iske liye care standard, breach aur harm ka sambandh jaise facts ki jaanch chahiye.
+- **B (Incorrect):** Sahi drug aur dose dene ke baad bhi patient ko unexpected adverse drug reaction ho sakta hai. Har adverse event ke peeche administration error hona zaroori nahi hai.
+- **C (Correct):** Adverse event care se sambandhit harm ko batata hai, jabki error mein planned action sahi tarah se poora nahi hua ya galat plan use hua. Yahan medicine appropriately di gayi thi, phir bhi reaction hua. Nurse ko reaction manage aur report karna chahiye, aur preventability ko facts ke basis par review karna chahiye.
+- **D (Incorrect):** Unpredictable reaction ko bhi relevant pharmacovigilance ya safety-reporting pathway se report kiya ja sakta hai. Isse future safety signals identify hote hain.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Harm, error aur preventability ko ek hi cheez mat samjho.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://academic.oup.com/intqhc/article/21/1/18/1888152)
 
 
 <!-- job4-metadata -->
@@ -105,12 +111,14 @@ D. Activate the applicable serious-event response, protect the patient and initi
 
 **Correct answer: D. Activate the applicable serious-event response, protect the patient and initiate systematic review**
 
-- **A (Incorrect):** Avoidability without review assume nahi karni chahiye.
-- **B (Incorrect):** Serious harm timely escalation require karta hai.
-- **C (Incorrect):** Admission of fault reporting prerequisite nahi hai.
-- **D (Correct):** Immediate care aur serious-event escalation ke saath system review preventable recurrence reduce kar sakta hai.
+- **A (Incorrect):** Permanent disability serious harm hai. Review se pehle ise unavoidable kehne se preventable contributing factors miss ho sakte hain.
+- **B (Incorrect):** Annual audit ka wait karne se patient ki further care aur doosre patients ki safety dono delay hongi. Serious event ko timely escalate karte hain.
+- **C (Incorrect):** Reporting ka purpose facts aur safety hai. Kisi staff member ka fault accept karna report shuru karne ki condition nahi hai.
+- **D (Correct):** Patient ko urgent assessment, required treatment aur protection dene ke baad serious-event policy ke hisab se escalation aur systematic review shuru karna chahiye. Permanent harm se pata chalta hai ki event ki severity high hai. Exact sentinel-event classification aur external reporting local applicable standard par depend karte hain.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/sentinel-event-policy-and-procedures)
+**Exam clue:** Pehle patient safety, phir timely report aur system review. Har serious event ko bina policy dekhe ek hi legal label mat do.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/sentinel-event-policy-and-procedures) · [Additional verification](https://psnet.ahrq.gov/primer/responding-patient-safety-events)
 
 
 <!-- job4-metadata -->
@@ -136,12 +144,14 @@ D. Record a patient injury that did not happen
 
 **Correct answer: A. Remove the trolley from service and report the unsafe condition according to policy**
 
-- **A (Correct):** Hazard isolate karke safety process se report karo, so repair can occur before patient exposure.
-- **B (Incorrect):** Injury ka wait preventive safety ke against hai.
-- **C (Incorrect):** Informal warning alone equipment control ensure nahi karti.
-- **D (Incorrect):** False injury documentation inappropriate hai.
+- **A (Correct):** Loose wheel trolley ko unstable bana sakta hai. Patient ko trolley par rakhne se pehle use service se hatao, defect identify karo aur authorized maintenance aur safety pathway ko inform karo. WHO framework mein aise significant hazard ko reportable circumstance kaha ja sakta hai.
+- **B (Incorrect):** Injury ka wait karne se preventable fall ho sakta hai. Hazard milte hi action lena prevention hai.
+- **C (Incorrect):** Ek colleague ko batane se trolley kisi aur shift mein use ho sakti hai. Equipment ko physically unavailable banana aur formal notification zaroori hai.
+- **D (Incorrect):** Jab patient injury hui hi nahi, toh injury record karna false documentation hai. Sirf observed defect aur action record karo.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Hazard abhi incident nahi bana hai, phir bhi reportable unsafe condition ho sakta hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://academic.oup.com/intqhc/article/21/1/18/1888152)
 
 
 <!-- job4-metadata -->
@@ -165,12 +175,14 @@ D. The fall was unavoidable and no review is necessary
 
 **Correct answer: B. At 14:10 the patient was found seated on the floor beside the bed, with no witness present**
 
-- **A (Incorrect):** Careless label blame hai, evidence nahi.
-- **B (Correct):** Time, location aur observed position factual information hain. Unwitnessed event ko unwitnessed hi describe karo.
-- **C (Incorrect):** Cause witnessed nahi tha, isliye assumption avoid karo.
-- **D (Incorrect):** Investigation se pehle unavoidability conclude nahi karni chahiye.
+- **A (Incorrect):** Careless word staff ke behavior par judgment lagata hai. Is statement mein actual time, location aur observation nahi diya gaya.
+- **B (Correct):** Nurse ne jo dekha wahi likha hai. Time 14:10, bed ke paas floor par seated position aur witness na hona review ke liye useful facts hain. Agar fall ka mechanism nahi dekha, toh usko confirmed cause ki tarah nahi likhna chahiye.
+- **C (Incorrect):** Slip aur poor judgment dono assumptions hain. Patient ya witness se verified information mile toh uska source alag se document kiya ja sakta hai.
+- **D (Incorrect):** Unavoidable kehna investigation se pehle conclusion dena hai. Facts record karke contributing factors ki jaanch karni chahiye.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Objective report mein observed facts, time, location aur action likho. Blame aur guesswork nahi.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://psnet.ahrq.gov/primer/responding-patient-safety-events)
 
 
 <!-- job4-metadata -->
@@ -194,12 +206,14 @@ D. Remove earlier observations from the chart
 
 **Correct answer: C. Record clinical facts, assessment and treatment in the patient record and complete the separate safety report per policy**
 
-- **A (Incorrect):** Unverified opinions patient record mein factual assessment replace nahi karti.
-- **B (Incorrect):** Incident form clinical documentation ka substitute nahi hai.
-- **C (Correct):** Clinical record care continuity support karta hai, separate report system learning ke liye hai.
-- **D (Incorrect):** Earlier records conceal ya delete nahi karne chahiye.
+- **A (Incorrect):** Safety investigation mein opinions aur hypotheses aa sakti hain, lekin clinical record mein unverified conclusions ko patient assessment ke badle nahi likhna chahiye.
+- **B (Incorrect):** Incident form quality team ke liye useful hai, lekin treatment karne wale next nurse ko clinical findings, interventions aur response patient chart mein chahiye.
+- **C (Correct):** Patient record mein injury, assessment, treatment, notification aur response jaise clinical facts document hote hain. Separate safety report incident review aur system improvement ke liye hoti hai. Dono ko facility policy ke hisab se complete karna chahiye.
+- **D (Incorrect):** Earlier observations ko delete karna continuity aur record integrity kharab karta hai. Agar correction chahiye toh authorized amendment process use karo.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Clinical chart patient ki care ke liye hai. Safety report system learning ke liye hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://psnet.ahrq.gov/primer/responding-patient-safety-events)
 
 
 <!-- job4-metadata -->
@@ -223,12 +237,14 @@ D. Communicate established facts honestly and arrange timely disclosure through 
 
 **Correct answer: D. Communicate established facts honestly and arrange timely disclosure through the responsible team**
 
-- **A (Incorrect):** Denial trust undermine karta hai.
-- **B (Incorrect):** Blame speculate karna inappropriate hai.
-- **C (Incorrect):** Investigation outcome predict nahi kar sakte.
-- **D (Correct):** Known facts, care response and further review honestly communicate karo, policy follow karo.
+- **A (Incorrect):** Denial patient ko sahi information se door rakhta hai aur trust ko nuksan pahunchata hai. Unexpected injury ko ignore nahi karna chahiye.
+- **B (Incorrect):** Fault abhi investigation se establish nahi hua hai. Kisi staff member par guess karke blame karna patient ko misleading information de sakta hai.
+- **C (Incorrect):** Investigation ka final result pehle se pata nahi hota. Nurse ko aisa promise nahi karna chahiye jo fulfill na ho sake.
+- **D (Correct):** Patient ko known facts, current clinical care aur next review steps simple language mein batane chahiye. Empathy se concern acknowledge karo aur responsible disclosure team ko timely involve karo. Jo abhi unknown hai usko unknown hi bolo.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Disclosure ek ongoing process hai. Facts honestly batao, speculation mat karo.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://psnet.ahrq.gov/primer/responding-patient-safety-events)
 
 
 <!-- job4-metadata -->
@@ -252,12 +268,14 @@ D. Publicly identify the reporter
 
 **Correct answer: A. Assign an action owner, track completion and communicate the outcome to relevant staff**
 
-- **A (Correct):** Action ownership aur closed-loop feedback reporting ko actual improvement se connect karte hain.
-- **B (Incorrect):** Report volume alone hazard fix nahi karta.
-- **C (Incorrect):** System remove karne se learning opportunities lose hongi.
-- **D (Incorrect):** Reporter identify karna confidentiality undermine kar sakta hai.
+- **A (Correct):** Action owner woh person ya team hai jise correction complete karne ki responsibility di jaati hai. Hazard ka review, due date, action verification aur relevant staff ko feedback dene se reporting ka loop close hota hai. Isse repeat hazard reduce karne ka chance milta hai.
+- **B (Incorrect):** Reports ka pile badhne se hazard apne aap repair nahi hota. Review aur effective action ke bina reporting ka purpose adhura hai.
+- **C (Incorrect):** Reporting system remove karne se staff ko future hazard batane ka important route nahi milega.
+- **D (Incorrect):** Reporter ko publicly identify karne se confidentiality aur psychological safety kam ho sakti hai. Future staff error batane se dar sakte hain.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Report se action, action se verification, aur phir feedback. Isi se learning loop complete hota hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
 
 <!-- job4-metadata -->
@@ -281,12 +299,14 @@ D. The reporting system should be discontinued
 
 **Correct answer: B. Reporting behavior may have changed, so assess independent harm measures and exposure**
 
-- **A (Incorrect):** Report count actual incidence prove nahi karta.
-- **B (Correct):** Improved trust reporting increase kar sakta hai, true harm assess karne ke liye denominators aur other measures chahiye.
-- **C (Incorrect):** Reports hazards aur no-harm events bhi include kar sakte hain.
-- **D (Incorrect):** Increase alone system failure prove nahi karta.
+- **A (Incorrect):** Report count badhne ka matlab necessarily true harm badhna nahi hai. Confidential reporting ke baad pehle chhupe incidents bhi report ho sakte hain.
+- **B (Correct):** Voluntary reporting mein log kitna report karte hain, woh bhi count ko affect karta hai. True harm ka comparison karne ke liye consistent event definitions, patient exposure aur independent measures jaise chart review ya harm surveillance dekho.
+- **C (Incorrect):** Near misses, unsafe conditions aur no-harm incidents bhi report ho sakte hain. Har new report severe injury nahi hai.
+- **D (Incorrect):** Reporting system ko sirf increased count dekhkar band karna galat hoga. Is change ka reason aur actual harm trend assess karna chahiye.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Reported count aur actual incidence alag measures hain. Denominator aur reporting completeness dekho.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://www.who.int/publications-detail-redirect/9789240010338)
 
 
 <!-- job4-metadata -->
@@ -310,12 +330,14 @@ D. Remove all accountability for deliberate unsafe behavior
 
 **Correct answer: C. Support the staff member and examine interface design and contributing conditions**
 
-- **A (Incorrect):** Immediate blame system factors miss kar sakta hai.
-- **B (Incorrect):** Unintentional error se bhi learning zaroori hai.
-- **C (Correct):** Human error ke response mein support aur system redesign appropriate ho sakte hain.
-- **D (Incorrect):** Just culture fair accountability retain karti hai.
+- **A (Incorrect):** Punishment se pehle menu design aur workload jaise system factors samajhna zaroori hai. Bina review blame karne se staff future error chhupa sakta hai.
+- **B (Incorrect):** Unintentional error bhi patient safety ko affect kar sakta hai. Isliye incident se learning aur preventive action zaroori hai.
+- **C (Correct):** Just culture mein inadvertent human error ko fair tareeke se assess karte hain. Staff ko support dete hain aur confusing menu, similar names ya selection barriers ki jaanch karte hain. Interface redesign se future slip ki possibility kam ho sakti hai.
+- **D (Incorrect):** Just culture ka matlab no accountability nahi hai. Intentional ya reckless unsafe behavior ko fair policy ke according address karte hain.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Human error ke liye support aur redesign, risky behavior ke liye coaching aur system barriers ka review, reckless behavior ke liye fair accountability.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://www.ahrq.gov/patient-safety/settings/hospital/candor/modules/guide4.html)
 
 
 <!-- job4-metadata -->
@@ -339,12 +361,14 @@ D. Examine incentives and barriers, distinguish behavior types and implement a s
 
 **Correct answer: D. Examine incentives and barriers, distinguish behavior types and implement a safer workable process**
 
-- **A (Incorrect):** Intent evidence ke bina infer nahi karna chahiye.
-- **B (Incorrect):** Unsafe workaround normalize nahi karna chahiye.
-- **C (Incorrect):** Single staff focus system contributors miss karta hai.
-- **D (Correct):** Behavior aur system context assess karke fair accountability aur safe redesign combine karo.
+- **A (Incorrect):** Repeated bypass ka matlab automatically malicious intent nahi hai. Workflow barrier, staffing aur risk perception ko pehle assess karo.
+- **B (Incorrect):** Unsafe workaround ko permanently approve karne se required check ki safety protection khatam ho sakti hai. Safer practical alternative validate karna chahiye.
+- **C (Incorrect):** Sirf last person ko investigate karne se poori team ko affect karne wala impractical process miss ho jayega.
+- **D (Correct):** Just culture individual behavior aur system conditions dono ko dekhti hai. Team samjhe ki check kyun bypass ho raha hai, safer workable check design kare aur deliberate high-risk behavior ko fair accountability ke saath address kare.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
+**Exam clue:** Repeated workaround aksar system signal hota hai. Use normal mat banao aur bina evidence blame bhi mat karo.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events) · [Additional verification](https://www.ahrq.gov/patient-safety/settings/hospital/candor/modules/guide4.html)
 
 
 <!-- job4-metadata -->
@@ -368,12 +392,14 @@ D. Final discharge audit alone
 
 **Correct answer: A. Failure mode and effects analysis**
 
-- **A (Correct):** FMEA prospective process failures identify aur prioritize karta hai.
-- **B (Incorrect):** Mortality review past events evaluate karta hai.
-- **C (Incorrect):** Satisfaction survey specific failure analysis replace nahi karta.
-- **D (Incorrect):** Discharge audit prospective design review nahi hai.
+- **A (Correct):** Failure mode ka matlab hai kisi process step ke fail hone ka sambhavit tareeka. FMEA mein team new device ke workflow ko step by step dekhti hai, possible failure, effects aur risk ko pehle identify karti hai aur controls plan karti hai. Isliye yeh prospective tool hai.
+- **B (Incorrect):** Retrospective mortality review death ke baad existing care ka review karta hai. Naye workflow ki possible failure prediction iska primary purpose nahi hai.
+- **C (Incorrect):** Patient satisfaction survey experience batata hai. Isse device ke har setup aur administration step ki technical failure ka analysis nahi ho jaata.
+- **D (Incorrect):** Discharge audit completed patient records ko assess karta hai. New device start karne se pehle risk analysis ke liye yeh best choice nahi hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+**Exam clue:** FMEA future failure ke liye hai. RCA usually already occurred event ko samajhne ke liye hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events) · [Additional verification](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit)
 
 
 <!-- job4-metadata -->
@@ -397,12 +423,14 @@ D. A patient identification wristband
 
 **Correct answer: B. A fishbone diagram**
 
-- **A (Incorrect):** Pain scale symptom severity assess karti hai.
-- **B (Correct):** Fishbone cause categories visualize karta hai. Proposed causes ko evidence se verify karna still necessary hai.
-- **C (Incorrect):** Record timeline support kar sakta hai but cause diagram nahi hai.
-- **D (Incorrect):** Wristband identity barrier hai, investigation tool nahi.
+- **A (Incorrect):** Pain scale patient ki pain intensity measure karti hai. Packaging aur interruptions jaise system causes ko classify nahi karti.
+- **B (Correct):** Fishbone ya Ishikawa diagram mein problem ko ek side rakhte hain aur possible causes ko categories jaise people, equipment, process aur environment mein organize karte hain. Yahan similar packaging, interruption aur guidance access ko alag branches par rakh sakte hain. Har suspected cause ko evidence se test karna bhi zaroori hai.
+- **C (Incorrect):** Medication administration record dose aur time ka evidence de sakta hai, lekin akela multiple cause categories ko visually organize nahi karta.
+- **D (Incorrect):** Wristband patient identity verify karne ka safety barrier hai. Yeh incident ke multiple contributing factors analyze karne ka diagram nahi hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+**Exam clue:** Fishbone possible causes organize karta hai. Pareto categories ki frequency prioritize karta hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events) · [Additional verification](https://www.ihi.org/library/tools/cause-and-effect-diagram)
 
 
 <!-- job4-metadata -->
@@ -426,12 +454,14 @@ D. Ask staff to remember connector colors only
 
 **Correct answer: C. Introduce compatible purpose-specific connectors that physically prevent the mismatch where feasible**
 
-- **A (Incorrect):** Reminder memory par depend karta hai.
-- **B (Incorrect):** Lecture useful ho sakti hai but physical design hazard persist karta hai.
-- **C (Correct):** Design barrier incorrect connection ki opportunity reduce karta hai. Approved equipment changes team se validate karo.
-- **D (Incorrect):** Color alone reliable physical barrier nahi hai.
+- **A (Incorrect):** Ek email staff ki memory par depend karta hai. Similar connectors physically fit hote rahenge, isliye hazard bana rahega.
+- **B (Incorrect):** Lecture se knowledge improve ho sakti hai, lekin tired ya interrupted worker se incorrect connection ab bhi ho sakta hai. Design hazard ko fix karna zaroori hai.
+- **C (Correct):** Approved purpose-specific connector ek physical barrier banata hai jo galat tubing ko fit hone se rok sakta hai. Isse safety sirf memory par depend nahi karti. Equipment change ko biomedical aur clinical team se compatibility aur safety ke liye validate karna chahiye.
+- **D (Incorrect):** Colors helpful cue hain, lekin color confusion, lighting ya different products ke karan error ho sakta hai. Color code physical mismatch ko nahi rokta.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+**Exam clue:** Strong corrective action hazard ko design se remove karta hai. Reminder ya training uska substitute nahi hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events) · [Additional verification](https://psnet.ahrq.gov/primer/root-cause-analysis)
 
 
 <!-- job4-metadata -->
@@ -455,12 +485,14 @@ D. Pareto chart
 
 **Correct answer: D. Pareto chart**
 
-- **A (Incorrect):** ECG electrical activity record karta hai.
-- **B (Incorrect):** Unrelated scatter plot defect categories rank nahi karta.
-- **C (Incorrect):** Anatomy diagram process defects quantify nahi karta.
-- **D (Correct):** Pareto chart frequent categories highlight karta hai. Severity bhi separately consider karo.
+- **A (Incorrect):** Electrocardiogram heart ki electrical activity dikhata hai. Documentation defects ke groups rank karne mein iska role nahi hai.
+- **B (Incorrect):** Scatter plot do numerical variables ke relationship ko dekhne mein madad karta hai. Height aur weight ka plot defect frequency rank nahi karta.
+- **C (Incorrect):** Anatomical diagram body structures dikhata hai. Quality defect counts ka comparison nahi deta.
+- **D (Correct):** Pareto chart mein defect categories ko high se low frequency mein arrange karte hain. Isse team ko pata chalta hai kaun se few categories overall defects mein zyada contribute kar rahi hain. Low-frequency but high-severity risk ko separately assess karna chahiye.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+**Exam clue:** Pareto frequency priority dikhata hai. Sabse frequent problem hamesha sabse dangerous problem nahi hoti.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events) · [Additional verification](https://www.ihi.org/library/tools/pareto-chart)
 
 
 <!-- job4-metadata -->
@@ -484,12 +516,14 @@ D. Do
 
 **Correct answer: A. Plan**
 
-- **A (Correct):** Plan phase mein objective, prediction aur trial details decide hote hain.
-- **B (Incorrect):** Study results compare karta hai.
-- **C (Incorrect):** Act findings ke basis par adapt/adopt/abandon karta hai.
-- **D (Incorrect):** Do actual test execute karta hai.
+- **A (Correct):** Plan phase mein team objective, prediction, participants, timing aur data collection method decide karti hai. Yahan one-shift handover prompt ka small test abhi design ho raha hai, isliye Plan hai.
+- **B (Incorrect):** Study phase trial ke results ko prediction se compare karta hai. Abhi results aaye hi nahi hain.
+- **C (Incorrect):** Act phase results ke baad change adopt, adapt ya abandon karne ka decision leta hai. Design karna isse pehle hota hai.
+- **D (Incorrect):** Do phase mein team actual shift par prompt try karti hai aur observations record karti hai. Yahan actual trial start nahi hua.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** PDSA mein pehle Plan, phir Do, phir Study aur last mein Act.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://www.ihi.org/library/model-for-improvement/testing-changes)
 
 
 <!-- job4-metadata -->
@@ -515,12 +549,14 @@ D. Act
 
 **Correct answer: B. Study**
 
-- **A (Incorrect):** Plan prediction set karta hai, results evaluate nahi karta.
-- **B (Correct):** Study mein data interpret aur prediction se compare karte hain.
-- **C (Incorrect):** Do trial conduct aur observations collect karta hai.
-- **D (Incorrect):** Act next change decision hai.
+- **A (Incorrect):** Plan mein trial ka aim aur prediction banate hain. Actual data ko original prediction se compare karna later step hai.
+- **B (Correct):** Study phase mein team results ko analyze karti hai. Prediction ke saath comparison se pata chalta hai ki change expected tareeke se kaam kar raha hai ya koi unexpected effect hai. Isi learning se next cycle ka decision banta hai.
+- **C (Incorrect):** Do mein change practically try kiya jaata hai aur data collect hota hai. Collected results ka interpretation Study mein hota hai.
+- **D (Incorrect):** Act mein team Study se mili learning ke basis par next action decide karti hai. Result comparison khud Study phase hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Do mein data lo, Study mein data samjho, Act mein next decision lo.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://www.ihi.org/library/model-for-improvement/testing-changes)
 
 
 <!-- job4-metadata -->
@@ -546,12 +582,14 @@ D. Ignore delays because documentation improved
 
 **Correct answer: C. Modify the checklist and retest while monitoring both measures**
 
-- **A (Incorrect):** Unchanged rollout unintended harm propagate kar sakta hai.
-- **B (Incorrect):** Completion measurement ab bhi useful hai.
-- **C (Correct):** Observed trade-off ke basis par adapt and retest karo, balancing measure monitor karo.
-- **D (Incorrect):** Delays patient safety impact kar sakte hain.
+- **A (Incorrect):** Unchanged rollout se clinically important delay doosri wards mein bhi ho sakta hai. Completeness improve hona alone safe adoption prove nahi karta.
+- **B (Incorrect):** Completion measure batata hai ki checklist ka desired effect bana hai ya nahi. Isko stop karne se retest ka useful data nahi milega.
+- **C (Correct):** Act phase mein learning ke basis par checklist adapt karna aur safe small-scale retest karna chahiye. Completion ke saath delay bhi measure karo, kyunki delay balancing measure hai. Agar delay unsafe ho toh test stop ya modify karo.
+- **D (Incorrect):** Delay ignore karne se time-sensitive patient care compromise ho sakti hai. Quality improvement mein benefit aur unintended harm dono check hote hain.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Ek measure better ho aur doosra worse ho toh change ko blindly adopt mat karo.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://www.ihi.org/library/model-for-improvement/testing-changes)
 
 
 <!-- job4-metadata -->
@@ -577,12 +615,14 @@ D. Availability of functioning emergency call equipment in the ward
 
 **Correct answer: D. Availability of functioning emergency call equipment in the ward**
 
-- **A (Incorrect):** Assessment delivery process measure hai.
-- **B (Incorrect):** Complication outcome measure hai.
-- **C (Incorrect):** Pain improvement outcome measure hai.
-- **D (Correct):** Equipment availability care environment resource hai, structure measure.
+- **A (Incorrect):** Required assessment kitne patients ko mila, yeh care process ka measure hai. Yeh ward ke available resources nahi batata.
+- **B (Incorrect):** Complications patient care ke baad hone wale results hain, isliye outcome measure hain.
+- **C (Incorrect):** Pain mein improvement patient ki health ya comfort ka result hai, isliye outcome measure hai.
+- **D (Correct):** Donabedian framework mein structure ka matlab hai setting, staff aur available resources jinse care di jaati hai. Functioning emergency call equipment ward ki infrastructure capacity hai. Yeh available hai ya nahi, isliye structure measure hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Structure = resources, process = care steps, outcome = patient result.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://psnet.ahrq.gov/primer/measurement-patient-safety)
 
 
 <!-- job4-metadata -->
@@ -606,12 +646,14 @@ D. Population prevalence measure
 
 **Correct answer: A. Process measure**
 
-- **A (Correct):** Required care step complete hua ya nahi, yeh process measure hai.
-- **B (Incorrect):** Structure resources aur setting describe karta hai.
-- **C (Incorrect):** Actual harm outcome measure hai, completion alone injury reduction establish nahi karti.
-- **D (Incorrect):** Population prevalence disease burden measure karta hai.
+- **A (Correct):** Medication reconciliation mein patient ki medicine list compare aur verify ki jaati hai. Kitne eligible patients ka required reconciliation complete hua, yeh care step ki completion batata hai. Isliye numerator completed cases aur denominator eligible cases se process measure banta hai.
+- **B (Incorrect):** Structure measure staff, equipment ya electronic system availability batata. Reconciliation ka actual completion resource availability nahi hai.
+- **C (Incorrect):** Actual drug-related injury ya readmission outcome measure ho sakta hai. Process completion se outcome improve hua ya nahi, alag measure se pata chalega.
+- **D (Incorrect):** Prevalence kisi defined population mein existing disease ya condition ka proportion hai. Yahan care activity ka completion assess ho raha hai.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Jo care step actually kiya gaya, woh process measure hai.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://psnet.ahrq.gov/primer/measurement-patient-safety)
 
 
 <!-- job4-metadata -->
@@ -635,12 +677,14 @@ D. Number of staff emails
 
 **Correct answer: B. Median waiting time for routine assessments during the project**
 
-- **A (Incorrect):** Poster count intervention activity hai, unintended effect nahi.
-- **B (Correct):** Routine waiting time balancing measure hai, improvement elsewhere deterioration detect kar sakti hai.
-- **C (Incorrect):** Meeting count clinical impact nahi batata.
-- **D (Incorrect):** Email count patient care trade-off quantify nahi karta.
+- **A (Incorrect):** Posters ki number activity count hai. Isse routine patients ko wait zyada karna pada ya nahi, yeh pata nahi chalta.
+- **B (Correct):** Balancing measure check karta hai ki ek part improve karne se system ke doosre part mein problem toh nahi aayi. Urgent assessment faster karne ke saath routine waiting time badh raha ho toh median routine wait us trade-off ko dikhayega.
+- **C (Incorrect):** Meetings ki count team activity batati hai, routine care ka delay nahi.
+- **D (Incorrect):** Emails ki count communication activity hai. Patient waiting ka clinical effect isse directly measure nahi hota.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Outcome ke saath balancing measure bhi rakho. Ek area improve karne se doosra kharab nahi hona chahiye.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://qi.elft.nhs.uk/resource/the-model-for-improvement)
 
 
 <!-- job4-metadata -->
@@ -664,10 +708,12 @@ D. 125%
 
 **Correct answer: C. 80%**
 
-- **A (Incorrect):** 72 raw compliant count hai.
-- **B (Incorrect):** 90 denominator hai, percentage nahi.
-- **C (Correct):** 72 divided by 90 multiplied by 100 = 80%.
-- **D (Incorrect):** 125% reversed ratio se aata hai.
+- **A (Incorrect):** 72 compliant records ki raw count hai. Total eligible records ke hisab se proportion calculate kiye bina ise 72% nahi keh sakte.
+- **B (Incorrect):** 90 eligible records denominator hai. Yeh audit mein included cases ki sankhya hai, compliance percentage nahi.
+- **C (Correct):** Compliance = compliant records / eligible records × 100. Yahan 72 / 90 × 100 = 0.8 × 100 = 80%. Cross-check karo, 90 ka 80% 72 hota hai. Isliye C sahi hai.
+- **D (Incorrect):** 125% tab milega jab 90 ko 72 se divide karke 100 multiply karoge. Is question mein numerator compliant cases hain, denominator total eligible cases hain.
+
+**Exam clue:** Percentage nikalte waqt eligible total denominator mein rakho. Is scenario mein compliance 100% se zyada nahi ho sakta.
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
@@ -693,10 +739,12 @@ D. 15 percentage points
 
 **Correct answer: D. 15 percentage points**
 
-- **A (Incorrect):** 25% relative increase hai, percentage-point change nahi.
-- **B (Incorrect):** 75 final compliance hai.
-- **C (Incorrect):** 135 dono values ka sum hai.
-- **D (Correct):** 75 minus 60 = 15 percentage points. Relative increase 15/60 = 25%.
+- **A (Incorrect):** 25% relative increase hai, kyunki 15 / 60 × 100 = 25%. Question absolute percentage-point improvement pooch raha hai.
+- **B (Incorrect):** 75% final compliance hai. Yeh baseline se kitni improvement hui uska difference nahi batata.
+- **C (Incorrect):** 135% dono percentages add karne se aata hai. Improvement measure ke liye final aur initial value add nahi karte.
+- **D (Correct):** Absolute change = final compliance minus baseline compliance = 75% minus 60% = 15 percentage points. Relative change alag se 15 / 60 × 100 = 25% hota hai. Is question mein absolute change poocha gaya hai.
+
+**Exam clue:** Percentage points ke liye subtraction. Relative percent change ke liye difference ko baseline se divide karo.
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
@@ -722,12 +770,14 @@ D. Declare success because training was delivered
 
 **Correct answer: A. Re-audit against the same defined standard and evaluate the change**
 
-- **A (Correct):** Re-audit se actual compliance change measure hota hai.
-- **B (Incorrect):** Initial audit alone improvement demonstrate nahi karta.
-- **C (Incorrect):** Selective exclusion result bias karega.
-- **D (Incorrect):** Training attendance alone care quality improvement prove nahi karti.
+- **A (Correct):** Audit cycle mein standard define karte hain, baseline measure karte hain, improvement action implement karte hain aur same standard par re-audit karte hain. Isse pata chalta hai ki actual practice badli ya nahi. Agar gap baaki hai toh further action aur repeat review karo.
+- **B (Incorrect):** Initial findings archive karna record keeping hai. Bina repeat measurement ke improvement establish nahi hogi.
+- **C (Incorrect):** Failures ko denominator se select karke hataane se artificially high compliance aayegi. Same eligibility rules ke saath fair comparison chahiye.
+- **D (Incorrect):** Training deliver hona intervention ka completion hai. Actual compliance improve hui ya nahi, re-audit se hi pata chalega.
 
-[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
+**Exam clue:** Audit cycle ka closure re-audit se hota hai, sirf action plan ya training se nahi.
+
+[Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement) · [Additional verification](https://www.ihi.org/library/model-for-improvement/testing-changes)
 
 
 <!-- job4-metadata -->
@@ -751,10 +801,12 @@ D. Assume the ward with fewer reports has safer care
 
 **Correct answer: B. Use comparable defined event rates with appropriate denominators and consider case mix**
 
-- **A (Incorrect):** Raw counts exposure difference ignore karte hain.
-- **B (Correct):** Comparable rates plus case mix and reporting completeness interpret karna zaroori hai.
-- **C (Incorrect):** Staff count patient exposure ka substitute nahi hai.
-- **D (Incorrect):** Underreporting lower count ka reason ho sakta hai.
+- **A (Incorrect):** Raw counts 8 aur 12 mein exposure ka difference account nahi hota. Bigger ward mein patients ya patient-days zyada ho sakte hain.
+- **B (Correct):** Comparable event rate ke liye same event definition, same measurement period aur appropriate exposure denominator use karo, jaise events per 1,000 patient-days. Case mix ka matlab patient risk aur illness severity ka difference hai. Reporting completeness aur case mix ko dhyan mein rakhkar rates interpret karo.
+- **C (Incorrect):** Staff count kuch staffing questions mein useful ho sakta hai, lekin harm exposure ka denominator patient-days ya relevant procedure count ho sakta hai. Staff number alone fair comparison nahi deta.
+- **D (Incorrect):** Kam reports ka reason low harm ho sakta hai, lekin underreporting ya smaller exposure bhi ho sakta hai. Bina further assessment safer care conclude nahi kar sakte.
+
+**Exam clue:** Different exposure ke liye comparable rates dekho, raw counts nahi.
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
