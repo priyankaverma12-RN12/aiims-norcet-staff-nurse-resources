@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-20261127-group08
-Scope: Existing Nursing Foundations Group 08 original bank and corresponding mock slots only, no new 07C authorship or shared indexes.
+Scope: Existing Nursing Foundations Group 08 original bank, corresponding mock slots, and existing ESIC-RRB-DSSSB PYQ3 and HPSSC-HPRCA PYQ8 only. No new 07C authorship or shared indexes.
 Claimed UTC: 2026-11-27T13:49:41.580Z
 Expiry UTC: 2026-11-27T14:19:41.580Z
 
