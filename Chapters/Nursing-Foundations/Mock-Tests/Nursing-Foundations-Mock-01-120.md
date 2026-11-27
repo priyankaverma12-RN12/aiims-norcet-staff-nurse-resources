@@ -135,6 +135,10 @@ Acute hemolytic ya other serious reaction possible hai. Nurse transfusion stop k
 ### Q7. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Impaired oxygenation
 - **B.** Knowledge deficit about the discharge diet
@@ -149,6 +153,14 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 
 **Baaki options kyun sahi nahi hain?** Sleep, teaching aur constipation important hain lekin immediate breathing problem se less urgent hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**Topic-bank question:** [Q4](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q4-a-patient-after-abdominal-surgery-is-restless-has-a-respiratory-rate-of-32min-and-an-oxygen-saturation-of-86-which-problem-should-be-addressed-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q4](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -641,6 +653,10 @@ Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red m
 ### Q31. Which entry in an assessment record is subjective data?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient reports burning pain on urination
 - **B.** Temperature is 38.4°C
@@ -655,6 +671,16 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 
 **Baaki options kyun sahi nahi hain?** Temperature aur urine output measurable findings hain. Visible abdominal distension objective observation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**Topic-bank question:** [Q2](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q2-which-entry-in-an-assessment-record-is-subjective-data) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+
+**Additional source:** [GMCH 2025 recruitment booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf) (previously inspected text, direct retrieval failed this run) · [Recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q2](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1611,6 +1637,10 @@ Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient a
 ### Q77. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Implementation
 - **B.** Assessment
@@ -1625,6 +1655,14 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 
 **Baaki options kyun sahi nahi hain?** Planning assessment ke baad hoti hai. Implementation mein plan execute hota hai. Evaluation mein result check hota hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Same tested concept only — [AIIMS Jodhpur Nursing Officer, 10 December 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**Topic-bank question:** [Q1](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q1-during-admission-a-patient-reports-severe-nausea-but-the-nurse-has-not-yet-assessed-vital-signs-or-hydration-which-nursing-process-step-is-currently-required) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q1](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2012,6 +2050,10 @@ Patient physically capable hai lekin knowledge ya skill develop karni hai. Suppo
 ### Q96. Which finding represents objective assessment data?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Patient describes anxiety
 - **B.** Patient says the wound feels itchy
@@ -2026,6 +2068,16 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 
 **Baaki options kyun sahi nahi hain?** Dizziness, anxiety aur itching ke statements patient ke personal experiences hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**Topic-bank question:** [Q3](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q3-which-finding-represents-objective-assessment-data) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+
+**Additional source:** [GMCH 2025 recruitment booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf) (previously inspected text, direct retrieval failed this run) · [Recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q3](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
