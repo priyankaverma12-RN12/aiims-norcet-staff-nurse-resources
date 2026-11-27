@@ -43,10 +43,18 @@ Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Acc
 
 **Correct: B. Discuss the patient's preference and reschedule or modify care safely**
 
-Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method adjust kar sakti hai. Isse comfort aur dignity maintain hoti hai.
+<!-- job5-rationale -->
+Individualized care ka matlab patient ki condition, needs aur choice ke according plan adjust karna hai. Fatigue ka reason aur severity assess karo. Agar new acute weakness hai toh further assessment ki zaroorat ho sakti hai. Stable patient ke saath rest, later bath ya partial hygiene ka option discuss kar sakte hain. Refusal aur agreed plan accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Force autonomy violate karti hai. False entry unsafe hai. Permanent cancellation hygiene needs ignore karti hai.
+**Option-by-option reasoning**
 
+- **A:** Bath complete nahi hua, isliye complete record karna false hai.
+- **B:** Patient ki preference aur safety dono consider ki gayi hain. B correct hai.
+- **C:** Force karna autonomy aur dignity violate karta hai.
+- **D:** Permanent cancellation future hygiene needs ignore karti hai.
+
+**Exam clue:** Patient-centered care rigid timetable nahi hai. Safe alternatives discuss karo.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1073,10 +1081,20 @@ Moisturizer dry skin mein water loss reduce karne aur barrier support karne mein
 
 **Correct: B. Stop the planned activity and assess the acute symptoms urgently**
 
-Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nurse activity rok kar immediate assessment aur escalation karti hai.
+<!-- job5-rationale -->
+Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi aur serious acute condition ka clue ho sakta hai. Diagnosis confirm hone ka wait nahi karna chahiye. Walking rok kar patient ko safe position mein rakho, ABCDE aur vital signs assess karo aur urgent help activate karo. Facility chest-pain protocol ke according ECG aur further management arrange hota hai. Routine plan ko new clinical findings ke hisaab se badalna padta hai.
 
-**Baaki options kyun sahi nahi hain?** Walking continue karna unsafe ho sakta hai. False documentation galat hai. Symptoms ignore karna delay karta hai.
+**Option-by-option reasoning**
 
+- **A:** Walking se exertion badh sakta hai. Reassessment postpone karna unsafe hai.
+- **B:** Activity stop aur urgent assessment immediate safety address karte hain. B correct hai.
+- **C:** Pain ignore karwana deterioration ko miss kar sakta hai.
+- **D:** Walk hui hi nahi, isliye goal met record karna false documentation hai.
+
+**Exam clue:** Acute change routine care se pehle. Assessment aur escalation ko delay mat karo.
+
+**Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1562,10 +1580,18 @@ Single-use sterile equipment microorganisms aur blood transfer ka risk kam karti
 
 **Correct: C. Reposition an immobile patient according to the individualized prevention plan**
 
-Pressure injury prevention ke liye repositioning nursing assessment aur care plan ka part hai. Nurse safety aur restrictions check karke intervention kar sakti hai.
+<!-- job5-rationale -->
+Patient ko reposition karne se pressure redistribute hota hai aur immobility-related injury ka risk kam karne mein madad milti hai. Nurse mobility restrictions, pain, devices, skin risk aur available assistance check karti hai. Turning frequency individualized honi chahiye. Independent nursing intervention ka matlab competent nurse apne authorized scope aur policy mein action kar sakti hai, unlimited prescribing authority nahi.
 
-**Baaki options kyun sahi nahi hain?** Antibiotic prescribing, operative planning aur anesthetic orders authorized clinician ke scope mein hote hain.
+**Option-by-option reasoning**
 
+- **A:** New antibiotic prescribe karna general bedside nurse ki independent authority assume nahi ki ja sakti.
+- **B:** Surgeon ka operative plan nurse independently change nahi karti.
+- **C:** Individualized repositioning nursing prevention plan ke according hai. C correct hai.
+- **D:** Unauthorized anesthetic order unsafe aur scope ke bahar hai.
+
+**Exam clue:** Independent ka matlab scope ke andar, bina har action ke liye naya order maange.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -2494,10 +2520,18 @@ Midstream technique urethral aur skin contamination reduce karne mein help karti
 
 **Correct: A. Risk for falls related to impaired balance**
 
-Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors present hote hain. Impaired balance fall risk badha sakta hai.
+<!-- job5-rationale -->
+Risk diagnosis tab use hota hai jab patient mein problem ke risk factors hon, lekin given problem ke current manifestations established na hon. Impaired balance se fall hone ki possibility badh jaati hai. Nurse fall history, gait, medicines aur environment assess karke suitable prevention plan banati hai. Current fall injury assume nahi karte.
 
-**Baaki options kyun sahi nahi hain?** Pain, open wound aur retained sputum wale statements existing problems ke evidence dete hain.
+**Option-by-option reasoning**
 
+- **A:** Impaired balance risk factor hai aur actual fall mention nahi hai. A correct hai.
+- **B:** Open wound current impaired skin integrity ka evidence hai.
+- **C:** Retained sputum existing airway concern ka cue hai, isliye statement problem-focused hai.
+- **D:** Pain score 8/10 present pain ka evidence hai.
+
+**Exam clue:** Risk diagnosis mein problem ki existing defining characteristics nahi hoti, risk factors hote hain.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
