@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-run26-20261127-1412
-Scope: Group 10 remaining nine staged blocks and Group 11 existing original Q1–20 rationale draft only in .github/job5-drafts. No learner-file changes while Job4 claims Nursing Foundations.
+Scope: Nursing Foundations Group 10 remaining eight legacy mock slots and HPSSC PYQ2, Group 11 existing original Q1–20, four learner files only. No shared indexes or new authorship.
 Claimed UTC: 2026-11-27T14:12:10Z
 Expiry UTC: 2026-11-27T14:42:10Z
 
