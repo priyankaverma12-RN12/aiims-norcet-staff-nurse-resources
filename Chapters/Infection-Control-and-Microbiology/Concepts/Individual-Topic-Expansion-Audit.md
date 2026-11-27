@@ -30,3 +30,8 @@ Current new expansion: [CSSD 30](../MCQs/02A-CSSD-Workflow-Quality-Assurance-30-
 ## Superseded checkpoint
 
 See [authoritative coverage and quality audit](Individual-Topic-Coverage-and-Quality-Audit.md) for latest counts and next steps. Current total 1305 slots, including concurrent surgical and sterilization banks. This historical working file preserved. Next: group 03 standard precautions, transmission-based precautions and PPE individual-topic allocation and expansion.
+
+
+## Reconciled continuation
+
+Surgical hand preparation 30-bank already exists, correcting omitted count. Group 02C 15-question top-up published, with 25 earlier allocated questions giving 40 for methods and monitoring including contrast concepts. See [authoritative working audit](Individual-Topic-Coverage-and-Quality-Audit.md). Current indexed total 1,305. Next group 03.
