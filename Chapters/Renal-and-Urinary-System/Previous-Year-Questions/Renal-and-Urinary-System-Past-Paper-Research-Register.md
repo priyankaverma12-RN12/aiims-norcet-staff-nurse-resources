@@ -24,3 +24,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [AKI — one NCL Staff Nurse November 2020 reported adaptation](Acute-Kidney-Injury-Reported-Exam-Questions.md). Direct third-party source retrieved, official keys and specific MCQ practice pending. Three related original-question video leads only. ICMR July 2026 and UK Kidney Association clinical sources reviewed.
 
 - [CKD — two reported adaptations](Chronic-Kidney-Disease-Reported-Exam-Questions.md). AIIMS Delhi 15 September 2019 memory-based diet question and UPSC ESIC Nursing Officer 7 July 2024 reported uremia question directly retrieved, with current clinical caveats. Official keys and specific MCQ videos pending. NORCET proteinuria and electrolyte leads reserved for dedicated topics.
+
+- [Hyperkalemia: 2 reported adaptations and 2 related evidence records](Hyperkalemia-Reported-Evidence.md), RRB Nursing Superintendent 29 April 2025 Shift 2, NORCET 1 September 2020 recall, NORCET 9 Mains 27 September 2025 and UPSC ESIC 7 July 2024. Last two map to existing AKI Q25, not counted again. HP, DSSSB, GMCH leads failed direct retrieval. Official keys and exact playback pending.
