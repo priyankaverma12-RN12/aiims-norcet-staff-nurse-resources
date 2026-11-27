@@ -49,3 +49,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [Time and work evidence](13-Time-and-Work-Reported-Evidence.md): three counted reported families (DSSSB 2019, MPESB 2022, RRB 2025). Earlier reserved DSSSB item cross-linked without a new count. Chapter total thirty counted families and thirty-two solved adaptations.
 
 [Speed, time and distance evidence](14-Speed-Time-and-Distance-Reported-Evidence.md): four counted reported families, including two AIIMS memory-based reports, one RRB 2025 paper-text item and one MPESB 2022 report. Chapter total thirty-four counted reported families and thirty-six solved adaptations, eight reserved/disputed/provisional items excluded. Official keys and screenshots not authenticated, video playback and additional recruitment source coverage pending.
+
+
+[Mensuration 2D evidence](15-Mensuration-2D-Reported-Evidence.md): one directly retrieved DSSSB Nursing Officer 29 August 2019 shift 3 reported question. One counted family and adaptation. Five additional indexed question leads not counted.
+
+[Mensuration 3D evidence](16-Mensuration-3D-Reported-Evidence.md): two reported adaptations, DSSSB 14 August 2024 shift 3 Q9 and RRB 12 March 2026 shift 2 General Ability Q1. Extracted third-party paper text retrieved, screenshots unavailable, official keys not independently authenticated. Disputed displacement wording and other unverified leads excluded. Chapter total thirty-seven counted reported families and thirty-nine counted solved adaptations. Eight earlier excluded solved items remain separate. New research leads are not counted as solved questions.
