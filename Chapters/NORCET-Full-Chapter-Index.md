@@ -309,3 +309,8 @@ Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 5
 ### Continuation — environmental IPC, outbreak investigation and calculations
 
 40 original MCQs, concept guide with diagram and calculations, indexed teaching and practice videos, one retrieved MPESB reported adaptation. Compared 280 parsed stems from related banks against new bank, no exact normalized overlap. Total 1,200 across all 30 initial defined topic groups (551 Medium and 649 Difficult), 56 reported recruitment adaptations and two academic adaptations. Initial grouped target reached, chapter NOT complete under individual-topic rule. Next: reconcile individual topic inventory with INC curriculum, expand undercovered topics and audit overlap before ten independent 120-question mocks. Chapter mocks 0/10. Dedicated environmental practice video, official keys and full semantic audit pending.
+
+
+### Individual-topic audit checkpoint
+
+Initial grouped inventory remains 1,200 question slots in 30/30 groups, 56 reported recruitment adaptations and two academic adaptations. [Individual-topic coverage and quality audit](Infection-Control-and-Microbiology/Concepts/Individual-Topic-Coverage-and-Quality-Audit.md) published. Files 01–06 and 25–30 checked for question counts, four options, hidden answers and answer mappings, all passed. Each six-bank sample has 240 internally distinct normalized stems, cross-sample and semantic audit pending. Full 30-bank retrieval exceeded connector call limit. No new original questions counted in this reconciliation. Next: surgical hand preparation expansion, then remaining individual topics in sequence. Mocks 0/10, tracked global 17/350 pending reconciliation. Fixed stale mock-plan inventory.
