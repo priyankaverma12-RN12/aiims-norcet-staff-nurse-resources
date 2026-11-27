@@ -799,7 +799,9 @@ Increasing pain, spreading redness-warmth aur pus infection suggest kar sakte ha
 
 ### Q37. Which pulse characteristic describes the strength of the arterial pulsation felt by the nurse?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Amplitude
 - **B.** Rate alone
@@ -814,9 +816,17 @@ Amplitude pulse ki strength ya volume describe karti hai. Weak ya bounding pulse
 
 **Baaki options kyun sahi nahi hain?** Rhythm beats ki regularity hai. Rate beats per minute hai. Temperature heat measurement hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q16](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q16](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q16-which-pulse-characteristic-describes-the-strength-of-the-arterial-pulsation-felt-by-the-nurse)
 
 ### Q38. A patient's glucose is low and the patient is confused and unable to swallow safely. Which action is correct?
 
@@ -1011,7 +1021,9 @@ Electrical source active ho toh rescuer bhi shock receive kar sakta hai. Scene s
 
 ### Q47. A patient's respiratory rate drops to 7/min after opioid administration and the patient is difficult to arouse. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Encourage oral fluids while the patient is poorly responsive
 - **B.** Assess and support airway and ventilation and activate urgent clinical help
@@ -1026,9 +1038,17 @@ Opioid breathing drive suppress kar sakti hai. Slow breathing aur reduced alertn
 
 **Baaki options kyun sahi nahi hain?** Extra opioid worsen kar sakti hai. Waiting unsafe hai. Oral fluids aspiration risk badha sakti hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q15](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q15](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q15-a-patients-respiratory-rate-drops-to-7min-after-opioid-administration-and-the-patient-is-difficult-to-arouse-what-is-the-priority)
 
 ### Q48. A patient weighs 62 kg yesterday and 64 kg today using the same scale and comparable conditions. What should the nurse consider?
 
@@ -1137,7 +1157,9 @@ Witnessed apneas obstructive sleep apnea ya other breathing problem suggest kar 
 
 ### Q53. A patient has a temperature of 39.2°C with new confusion and low blood pressure. Which nursing action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Give a blanket and wait until the next shift
 - **B.** Treat the temperature number alone and ignore circulation
@@ -1152,9 +1174,15 @@ Fever ke saath confusion aur hypotension serious infection ya other emergency in
 
 **Baaki options kyun sahi nahi hain?** Blanket alone cause address nahi karti. Circulation ignore karna unsafe hai. Findings normal assume nahi karni chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q13](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q13](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q13-a-patient-has-a-temperature-of-392c-with-new-confusion-and-low-blood-pressure-which-nursing-action-is-most-appropriate)
 
 ### Q54. Where is a buccal tablet placed?
 
@@ -1834,7 +1862,9 @@ Cold liquid vestibular stimulation se dizziness cause kar sakti hai. Product ki 
 
 ### Q84. A patient is unable to communicate verbally but has a possible painful procedure. How should pain be assessed?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Use temperature as the only pain score
 - **B.** Assume there is no pain because the patient cannot speak
@@ -1849,9 +1879,15 @@ Nonverbal patient pain feel kar sakta hai. Facial expression, movement aur other
 
 **Baaki options kyun sahi nahi hain?** Speech absence pain absence nahi hai. Temperature pain intensity directly nahi batata. Assessment delay unnecessary suffering badha sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q14](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q14](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q14-a-patient-is-unable-to-communicate-verbally-but-has-a-possible-painful-procedure-how-should-pain-be-assessed)
 
 ### Q85. A patient with limited sensation requests a hot-water bottle for comfort. Which response is safest?
 
