@@ -212,7 +212,7 @@ Fixed posture se soft tissues adapt hokar shorten ho sakte hain. Individualized 
 
 ### Q9. Which position is commonly used for a pelvic examination with the legs supported in stirrups?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lithotomy
 - **B.** Orthopneic position
@@ -239,7 +239,7 @@ Lithotomy mein patient supine hota hai, hips aur knees flexed hote hain aur legs
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q3](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q3](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q3-which-position-is-commonly-used-for-a-pelvic-examination-with-the-legs-supported-in-stirrups)
 
 ### Q10. Which check addresses the right patient during drug administration?
 
@@ -298,7 +298,7 @@ Region pain ki location aur radiation pain kis direction mein spread hota hai ba
 
 ### Q12. A patient has orthopnea and is hemodynamically stable. Which position usually facilitates breathing?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Prone with the face unsupported
 - **B.** High Fowler position
@@ -327,7 +327,7 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q1](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q1](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q1-a-patient-has-orthopnea-and-is-hemodynamically-stable-which-position-usually-facilitates-breathing)
 
 ### Q13. What is a common musculoskeletal consequence of prolonged disuse?
 
@@ -619,7 +619,7 @@ Vein ke along redness, warmth aur tenderness inflammation suggest karte hain. Nu
 
 ### Q24. An indwelling catheter drainage bag is found above the level of the bladder. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reposition the bag below bladder level and assess drainage
 - **B.** Disconnect the catheter to drain the bag
@@ -649,7 +649,7 @@ Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata h
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q2](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q2](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q2-an-indwelling-catheter-drainage-bag-is-found-above-the-level-of-the-bladder-what-should-the-nurse-do)
 
 ### Q25. A nurse meets unexpected resistance while flushing a peripheral cannula. What should happen next?
 
@@ -877,7 +877,7 @@ Wrong blood transfusion severe hemolysis cause kar sakti hai. Bedside verificati
 
 ### Q33. A patient with a suspected cervical spinal injury must be repositioned. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Allow unsupported neck flexion during transfer
 - **B.** Pull the patient upright by both arms
@@ -900,11 +900,11 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 **Clinical reference:** [NICE NG41 spinal injury](https://www.nice.org.uk/guidance/ng41/chapter/Recommendations)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q4](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q4](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q4-a-patient-with-a-suspected-cervical-spinal-injury-must-be-repositioned-which-approach-is-appropriate)
 
 ### Q34. What is the purpose of a prescribed texture-modified diet in dysphagia?
 
@@ -1753,7 +1753,7 @@ Transfer ke waqt current respiratory plan clearly communicate karna important ha
 
 ### Q65. Which is an appropriate indication for an indwelling urinary catheter?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Preventing every episode of nocturia
 - **B.** Acute urinary retention when catheterization is clinically indicated
@@ -1783,7 +1783,7 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q1](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q1](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q1-which-is-an-appropriate-indication-for-an-indwelling-urinary-catheter)
 
 ### Q66. A patient arrives for surgery with an unsigned consent form and asks a new question about risks. What should the nurse do?
 
@@ -2135,7 +2135,7 @@ Fiber stool bulk support karti hai aur adequate fluid-mobility bowel movement he
 
 ### Q79. A catheterized patient has no urine in the bag for two hours and reports suprapubic discomfort. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess the patient and check for kinks, obstruction and bladder distension
 - **B.** Increase IV fluids regardless of fluid status
@@ -2165,7 +2165,7 @@ Suprapubic discomfort ka matlab lower abdomen mein bladder ke upar dard ya press
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q4](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q4](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q4-a-catheterized-patient-has-no-urine-in-the-bag-for-two-hours-and-reports-suprapubic-discomfort-what-should-the-nurse-do-first)
 
 ### Q80. When hands are visibly soiled, which cleaning method is appropriate?
 
@@ -2735,7 +2735,7 @@ Grief mein emotions change ho sakte hain aur fixed stage order necessary nahi ha
 
 ### Q101. Which position is commonly used for a rectal examination or a routine cleansing enema when appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 RRB Staff Nurse 21 July 2019 Shift I — related reported concept** · **🟣 RRB Staff Nurse 20 July 2019 Shift III — related reported concept** · **🟣 HPRCA Assistant Staff Nurse 20 March 2026 morning Q103 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Left lateral Sims position
 - **B.** Reverse Trendelenburg
@@ -2764,7 +2764,7 @@ Rectal examination ya routine cleansing enema ke liye left lateral Sims mein pat
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q2](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q2](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q2-which-position-is-commonly-used-for-a-rectal-examination-or-a-routine-cleansing-enema-when-appropriate)
 
 ### Q102. When giving a bed bath, which general sequence minimizes transfer of organisms from heavily soiled areas?
 
@@ -2991,7 +2991,7 @@ Upright position mein food ko safely swallow karne mein help mil sakti hai. Dysp
 
 ### Q112. Why should a urinary drainage system normally remain closed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 RRB Nursing Superintendent 12 March 2026 Shift II — related reported concept** · **⚪ HPRCA 21 March 2026 Shift I — source verification pending** · Legacy topic-bank reuse
 
 - **A.** The bag must never be emptied under any circumstances
 - **B.** A closed system stops all urine flow
@@ -3025,7 +3025,7 @@ Closed system ka matlab hai ki catheter aur collecting tubing ka connection unne
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q3](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q3](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q3-why-should-a-urinary-drainage-system-normally-remain-closed)
 
 ### Q113. A vesicant infusion leaks into surrounding tissue. Which first response is appropriate?
 
