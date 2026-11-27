@@ -1,8 +1,8 @@
 # Job 3 — deep audit checkpoint
 
-State: FREE
-Owner: none
-Scope: none
-Expiry UTC: none
+State: CLAIMED
+Owner: audit-20261127-0832-ventilation
+Scope: Respiratory Day-04-Ventilation-Artificial-Airways-Suction-VAP concept and MCQ files only
+Expiry UTC: 2026-11-27T09:02:00Z
 
 Latest: Day-04-Atelectasis-CPT-Pulmonary-Edema-Bronchiectasis.md MCQ bank Q1–12 audited, commit 880e9be84a8874cda6977b2cfb3a3847a7602a3b, concept commit 8a035097b148d688095d9f6f51ee80597e27738e. All 12 original stems/options/keys unchanged, 12 hidden answers, 36 individual distractor explanations, six difficulty regrades, four topic concepts expanded, 12 specific MCQ video gaps. Day-04-Reported-Exam-Leads.md four independent source-traced adaptations (ESIC 2019 Mantoux risk threshold, JIPMER 2013 postural drainage, JSSC 2022 incentive versus diagnostic spirometry, RRB 2025 post-MI pulmonary congestion), commit 85dbdf4c8abd91022f782b3edff16a5054306319. No official exact questions/keys authenticated, four hidden answers and 12 distractor explanations, zero exact normalized stem matches against 218 selected existing stems, four specific video gaps. Existing collection-level leads retained. PYQ index commit 0f048a1777cc21ad6520316c5ef039cab11f079c verified. Learning log commit 6a0a4a85723bc7706caccc6beecb4e8fb071f1e9 verified. Cumulative 382 clinical/rationale reviews and eight source-traced adaptations across recent Day 3/4 corrective runs. No new original counts. All five job claims and Eye/ENT manual scope checked. Next: Day-04-Ventilation-Artificial-Airways-Suction-VAP concepts and 22 MCQs, then remaining Day 4 abscess/empyema/cancer/chest injury and OSA/fibrosis/CF/upper airway/PH packages. Repair remaining Day 4 reported evidence, dedicated video gaps, check complete skills, full syllabus and semantic coverage, high-yield expansion and mock audit. No chapter certified complete.
