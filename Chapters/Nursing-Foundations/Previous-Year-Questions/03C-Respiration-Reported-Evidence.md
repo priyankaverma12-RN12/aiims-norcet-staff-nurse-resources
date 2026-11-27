@@ -13,8 +13,24 @@ Which breathing pattern involves cycles of increasing then decreasing respirator
 
 <details><summary>Answer and explanation</summary>
 
-**C.** Cheyne–Stokes waxing-waning ventilation and apnea ka pattern hai. Eupnea quiet regular breathing, Kussmaul deep sustained breathing and tachypnea increased frequency describe karte hain. Pattern alone etiology establish nahi karta. [Indexed question-level source](https://testbook.com/question-answer/which-one-of-the-following-breathing-patterns-indi--668e61cc48fdcf6e24fe6ebc). Full source page not opened in this run, official key not authenticated.
+**Correct answer: C. Cheyne–Stokes respiration**
 
+<!-- job5-rationale -->
+Cheyne–Stokes respiration mein breaths gradually deeper hote hain, phir gradually shallow hote hain aur temporary central apnea ya hypopnea aa sakti hai. Yeh repeating waxing-waning cycle ventilatory control instability se related ho sakti hai. Heart failure, neurological conditions aur sleep-related disorders possible associations hain, lekin pattern alone etiology confirm nahi karta. New pattern, reduced consciousness ya distress mein clinical assessment aur appropriate escalation karo.
+
+**Option-by-option reasoning**
+
+- **A:** Eupnea quiet comfortable regular breathing hai, cyclic apnea nahi.
+- **B:** Kussmaul respiration metabolic acidosis ke compensation mein deep sustained breathing ho sakti hai, typical waxing-waning pauses nahi.
+- **C:** Increasing depth, decreasing depth aur pause ki repeated cycle Cheyne–Stokes ko identify karti hai.
+- **D:** Tachypnea expected range se increased rate batati hai, specific depth cycle nahi.
+
+**Exam clue:** Crescendo, decrescendo, pause. Do not wait through apnea when emergency signs are present.
+
+[Clinical concept reference](https://site.thoracic.org/assemblies/cp/ats-quick-hits/cheyne-stokes-respiration)
+
+**Source recheck:** Publisher source directly rechecked 27 November 2026: UPSC ESIC Nursing Officer 7 July 2024, source key option 2, adaptation key C. Source asks rhythm abnormality, this question tests pattern recognition. Official key not authenticated. [Indexed question-level source](https://testbook.com/question-answer/which-one-of-the-following-breathing-patterns-indi--668e61cc48fdcf6e24fe6ebc)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD (editorial)
