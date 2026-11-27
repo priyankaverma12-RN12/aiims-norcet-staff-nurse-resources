@@ -328,28 +328,28 @@
 
 </details>
 
-### Q13. An OCT shows a hyporeflective space above the RPE and beneath the outer neural retina. Which interpretation best matches the location?
+### Q13. A patient with previous CSC has a dry OCT but continues to report reduced contrast sensitivity. Which explanation is most appropriate?
 
-**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT · Original clinical practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original clinical practice
 
-- **A.** Sub-RPE fluid only
-- **B.** Subretinal fluid
-- **C.** Anterior chamber hypopyon
-- **D.** Intravitreal hemorrhage
+- **A.** A dry OCT excludes all residual visual dysfunction
+- **B.** Previous photoreceptor or RPE injury can leave functional deficits after fluid resolution
+- **C.** The symptom confirms recurrent fluid even when none is seen
+- **D.** A dry OCT proves that corticosteroid exposure is now risk-free
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. Subretinal fluid**
+**Correct answer: B. Previous photoreceptor or RPE injury can leave functional deficits after fluid resolution**
 
-**Kyun sahi hai:** OCT mein fluid dark space jaisa dikh sakta hai. RPE ke upar aur neural retina ke neeche location subretinal compartment hai.
+**Kyun sahi hai:** Fluid absorb hone par retinal layers ka structure improve ho sakta hai. Lekin previous photoreceptor ya RPE injury ki wajah se contrast perception abhi bhi abnormal reh sakti hai. Nurse patient ki complaint document karke retina team ko batati hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sub-RPE fluid RPE ke neeche hota hai. Report mein space RPE ke upar hai.
-- **C.** Hypopyon anterior chamber mein inflammatory collection hota hai.
-- **D.** Vitreous hemorrhage neural retina ki inner surface ke anterior vitreous cavity mein hota hai.
+- **A.** Dry OCT structural fluid resolution show karta hai. Ye all visual functions normal hone ki guarantee nahi hai.
+- **C.** Reduced contrast se recurrence automatically confirm nahi hoti. Symptoms aur imaging ko together assess karna chahiye.
+- **D.** Steroid exposure recurrence ka risk remain kar sakta hai. Medicine change authorized prescriber se coordinate karni chahiye.
 
-**Revision:** [Related concept](../Concepts/Central-Serous-Chorioretinopathy-Concepts.md#imaging-and-differential) · [Clinical reference](https://eyewiki.aao.org/Central_Serous_Chorioretinopathy).
+**Revision:** [Related concept](../Concepts/Central-Serous-Chorioretinopathy-Concepts.md#course-and-treatment) · [Clinical reference](https://www.nature.com/articles/s41433-025-03894-z).
 
 **YouTube MCQ practice: verification pending.**
 
