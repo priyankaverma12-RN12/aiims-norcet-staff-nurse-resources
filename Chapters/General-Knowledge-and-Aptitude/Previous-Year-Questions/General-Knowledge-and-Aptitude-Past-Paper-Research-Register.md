@@ -23,3 +23,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Fractions evidence and allocation](04-Fractions-Reported-Evidence.md): existing RRB simplification question cross-linked without double counting, one additional solved DSSSB work/fraction adaptation reserved for time and work, no new counted family. Chapter total eight counted families and nine counted solved adaptations, plus one reserved. Official keys pending.
+
+
+[Decimal evidence](05-Decimals-Evidence-and-Sample-Practice.md): two counted reported families (SGPGI 2024 Q2 and DSSSB 2019 shift 2 Q150), one disputed SGPGI transcription explicitly excluded from PYQ counts. Ten counted families, eleven counted solved adaptations, one reserved and one disputed practice adaptation.
