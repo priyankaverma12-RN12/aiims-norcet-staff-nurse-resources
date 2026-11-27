@@ -94,9 +94,21 @@ Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Sever
 
 **Correct: D. Keep the person calm, minimize limb movement and arrange urgent hospital transport**
 
-Movement venom spread accelerate kar sakti hai. Limb ko still support karke urgent medical care arrange karni chahiye. Region-specific guidelines follow hoti hain.
+Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient ko reassure karo, unnecessary movement avoid karo aur bitten limb ko gently immobilize karke urgent hospital transport arrange karo. Rings ya tight items safely remove karo agar swelling ka risk ho. Airway aur breathing monitor karo. Tight arterial tourniquet, cutting, suction aur ice se harm ho sakta hai. Pressure-immobilization technique ko har snakebite par apply nahi karna chahiye. Local Indian guideline aur trained advice follow karo.
 
-**Baaki options kyun sahi nahi hain?** Cutting, suction, ice aur tight tourniquet injury cause kar sakte hain. Running movement badhati hai.
+**Option-wise explanation:**
+- **A (Galat):** Wound cutting aur suction venom ka reliable removal nahi karte aur tissue injury/infection risk badha sakte hain.
+- **B (Galat):** Tight tourniquet circulation block karke tissue injury kar sakta hai. Ice bhi local injury worsen kar sakti hai.
+- **C (Galat):** Running se muscle movement badhegi aur safe transport delay ho sakta hai.
+- **D (Sahi):** Calm reassurance, immobilization aur rapid transport WHO first-aid principle ke consistent hain.
+
+**Exam clue:** Snakebite: immobilize and transport, no cutting or tight tourniquet.
+
+**Clinical references:** [Clinical reference 1](https://www.who.int/teams/control-of-neglected-tropical-diseases/snakebite-envenoming/treatment)
+
+**Supplementary mixed teaching/practice lead:** [Mission Nursing Success — First Aid class with questions and answers](https://www.youtube.com/watch?v=LkOA-iGGxec). Indexed title and description mention burns and snakebite, specific question coverage and playback unverified. Not a dedicated verified mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -252,9 +264,19 @@ Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish k
 
 **Correct: B. Avoid the requested treatment until possible thrombosis and other causes are assessed**
 
-New unilateral calf swelling DVT ka sign ho sakti hai. Massage aur heat before assessment appropriate nahi hain. Nurse timely clinical review arrange karti hai.
+DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unilateral calf swelling aur pain is condition ke possible clues hain, although doosre causes bhi ho sakte hain. Nurse massage aur heat defer karke urgent clinical assessment arrange karti hai. Sudden dyspnea, chest pain ya collapse emergency escalation maangta hai kyunki pulmonary embolism possible hai. Diagnosis clinical evaluation aur indicated tests se hota hai.
 
-**Baaki options kyun sahi nahi hain?** Deep massage aur intense heat potential harm cause kar sakte hain. Intact skin clot exclude nahi karti.
+**Option-wise explanation:**
+- **A (Galat):** Intact skin se deep vein clot exclude nahi hota.
+- **B (Sahi):** Possible thrombosis aur other causes assess hone tak treatment defer karna safest listed approach hai.
+- **C (Galat):** Deep massage unexplained painful swelling mein inappropriate hai aur assessment ko delay kar sakti hai.
+- **D (Galat):** Intense heat cause ko treat nahi karti aur tissue harm ka risk la sakti hai.
+
+**Exam clue:** New unilateral calf swelling: urgent assessment before massage or heat.
+
+**Clinical references:** [Clinical reference 1](https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -294,9 +316,19 @@ Spacer aerosol ko inhale karne ka time deta hai. One puff at a time aur correct 
 
 **Correct: D. Vasodilation and improved local blood flow**
 
-Controlled heat vessels dilate kar sakti hai aur muscle relaxation support kar sakti hai. Patient contraindications aur skin safety assess karni chahiye.
+Suitable superficial heat local blood vessels ko widen kar sakti hai. Isse vasodilation kehte hain aur local blood flow increase ho sakta hai. Heat selected muscle stiffness aur discomfort mein relaxation support kar sakti hai. Acute unexplained swelling, impaired sensation ya poor circulation mein suitability verify karo. Approved temperature, barrier aur reassessment follow karo.
 
-**Baaki options kyun sahi nahi hain?** Circulation stop, nerve destruction aur freezing therapeutic heat ke expected effects nahi hain.
+**Option-wise explanation:**
+- **A (Galat):** Complete circulation cessation therapeutic goal nahi hai aur tissue ischemia cause kar sakti hai.
+- **B (Galat):** Freezing tissue cold exposure ka effect hai, controlled heat ka nahi.
+- **C (Galat):** Sensory nerve destruction serious injury hai, normal heat effect nahi.
+- **D (Sahi):** Vasodilation aur improved local blood flow suitable heat ke expected effects hain.
+
+**Exam clue:** Heat = vasodilation, but assess safety first.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/medical-surgical-nursing/pages/7-4-nonpharmacological-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -390,9 +422,19 @@ Unnecessary invasive access infection, thrombosis aur device complications ka ex
 
 **Correct: B. Activate emergency help and give indicated intramuscular epinephrine promptly under protocol**
 
-Anaphylaxis airway aur circulation rapidly compromise kar sakti hai. IM epinephrine first-line emergency treatment hai aur trained team supportive care arrange karti hai.
+Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur blood pressure girna rapidly develop ho sakta hai. IM epinephrine, jise adrenaline bhi kehte hain, first-line treatment hai. Emergency team activate karo aur indicated protocol ke mutabik IM dose anterolateral thigh mein do. Breathing aur circulation support aur reassessment zaroori hai. Patient ko suddenly stand ya walk mat karwao. Position breathing aur circulation ki condition ke hisaab se decide karo.
 
-**Baaki options kyun sahi nahi hain?** Antihistamine epinephrine replace nahi karti. Water shock treat nahi karta. Walking collapse risk badhati hai.
+**Option-wise explanation:**
+- **A (Galat):** Hypotension mein standing ya walking circulation collapse ka risk badha sakti hai.
+- **B (Sahi):** Prompt indicated IM epinephrine aur emergency escalation airway aur circulatory compromise address karne ki priority hai.
+- **C (Galat):** Antihistamines skin symptoms mein help kar sakti hain, lekin shock ya airway obstruction ke liye epinephrine replace nahi karti.
+- **D (Galat):** Water anaphylactic shock ya airway swelling ka effective treatment nahi hai.
+
+**Exam clue:** Anaphylaxis: IM epinephrine first, not antihistamine first.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1340,9 +1382,19 @@ Complete bed bath mein patient vulnerable feel kar sakta hai. Nurse care explain
 
 **Correct: C. Activate urgent help and administer prescribed emergency treatment by a safe nonoral route**
 
-Unconscious patient oral intake aspirate kar sakta hai. Nurse airway support aur protocol-based glucagon ya IV glucose as indicated arrange karti hai.
+Severe hypoglycemia brain function disturb kar sakti hai aur patient unconscious ho sakta hai. Unconscious patient ke protective swallowing reflexes reliable nahi hote. Isliye oral glucose mat do. Urgent help activate karo, airway aur breathing assess karo aur authorized protocol ke mutabik IV glucose ya glucagon jaise safe nonoral treatment arrange karo. Repeat glucose aur clinical response monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Oral liquid-tablets unsafe hain. Delay neurological injury risk badha sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Sweet liquid mouth mein pour karne se aspiration ho sakti hai.
+- **B (Galat):** Bina treatment aur monitoring wait karna severe hypoglycemia ko prolong karta hai.
+- **C (Sahi):** Urgent help aur appropriate nonoral glucose-raising treatment safe priority hai.
+- **D (Galat):** Tablet force karne se airway obstruction aur aspiration ka risk hai.
+
+**Exam clue:** Unsafe swallow = no oral glucose. Escalate and follow emergency protocol.
+
+**Clinical references:** [Clinical reference 1](https://diabetesjournals.org/care/article/49/Supplement_1/S339/163925/16-Diabetes-Care-in-the-Hospital-Standards-of-Care) · [Clinical reference 2](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1453,9 +1505,19 @@ Antipyretic fever symptoms reduce kar sakti hai lekin cause treat nahi karti. Pe
 
 **Correct: B. Assess both pain relief and functional goal achievement and revise the plan if needed**
 
-Pain score improve hua hai lekin function still limited hai. Evaluation mein comfort ke saath breathing, movement aur patient goal consider karna important hai.
+Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 tak improve hua, lekin deep breath abhi bhi nahi le paa raha. Nurse functional goal, respiratory status, incision support, sedation aur treatment adverse effects reassess karti hai. Possible serious respiratory problem ho toh prompt review lo. Authorized plan ko response ke according adjust karne ke liye team ke saath communicate karo.
 
-**Baaki options kyun sahi nahi hain?** Score alone full outcome nahi batata. Breathing limitation relevant hai. Early repeat dose unauthorized ho sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Medication early repeat karne se dose stacking aur adverse effects ho sakte hain. Authorization aur assessment zaroori hain.
+- **B (Sahi):** Pain relief aur function dono evaluate karke plan revise karna comprehensive outcome assessment hai.
+- **C (Galat):** Deep breathing limitation postoperative recovery aur respiratory safety ke liye relevant hai.
+- **D (Galat):** Score improve hona partial benefit batata hai, complete functional success nahi.
+
+**Exam clue:** Pain score plus function plus safety, not score alone.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment) · [Clinical reference 2](https://openstax.org/books/medical-surgical-nursing/pages/27-2-postoperative-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1537,9 +1599,19 @@ Fatigue concentration aur recall affect kar sakti hai. Nurse essential safety in
 
 **Correct: A. Offer relaxation breathing and discuss concerns while assessing underlying causes**
 
-Gentle relaxation aur supportive conversation tension reduce karne mein help kar sakte hain. Nurse persistent symptoms aur possible causes assess karti hai.
+Anxiety-related tension sleep onset difficult bana sakti hai. Gentle slow breathing aur supportive conversation patient ko relax karne mein help kar sakti hain. Nurse patient ki concerns sunti hai aur pain, breathing symptoms, medicines, environment aur persistent anxiety jaise possible causes assess karti hai. Severe or persistent symptoms par suitable clinical support arrange karo. Sleep immediately aane ka guarantee nahi diya ja sakta.
 
-**Baaki options kyun sahi nahi hain?** Dismissal trust reduce karti hai. Hyperventilation discomfort badha sakti hai. Sleep guarantee nahi ki ja sakti.
+**Option-wise explanation:**
+- **A (Sahi):** Relaxation, supportive listening aur cause assessment patient-centered comfort approach hai.
+- **B (Galat):** Rapid hyperventilation se dizziness aur discomfort badh sakta hai. Gentle controlled breathing preferable hai.
+- **C (Galat):** Immediate sleep guarantee unrealistic hai aur underlying cause miss kar sakti hai.
+- **D (Galat):** Concerns dismiss karne se trust aur assessment quality reduce ho sakti hai.
+
+**Exam clue:** Support relaxation and assess causes instead of dismissing anxiety.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-5-pain-management) · [Clinical reference 2](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2263,9 +2335,19 @@ Patient apni daily needs aur barriers best explain kar sakta hai. Shared plannin
 
 **Correct: D. Give a measured fast-acting carbohydrate and recheck glucose at the specified interval**
 
-Fast-acting carbohydrate blood glucose quickly raise kar sakti hai. Nurse protocol ke according dose aur repeat glucose monitoring karti hai.
+Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow kar sakta hai aur oral intake allowed hai, usko protocol ke according fast-acting glucose do. Common adult plan mein 15 g fast carbohydrate aur 15 minutes baad repeat glucose check hota hai. Agar low rahe toh protocol ke hisaab se repeat treatment aur escalation karo. Individual dose aur monitoring situation ke according vary kar sakte hain.
 
-**Baaki options kyun sahi nahi hain?** Insulin glucose aur reduce karegi. High-fat food slower absorption de sakta hai. Loss of consciousness ka wait unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Consciousness lose hone ka wait serious neurological harm ka risk badhata hai.
+- **B (Galat):** High-fat meal ka absorption slow ho sakta hai. Yeh initial rapid glucose correction ka suitable substitute nahi hai.
+- **C (Galat):** Additional insulin blood glucose aur kam kar sakti hai.
+- **D (Sahi):** Measured fast carbohydrate glucose ko quickly raise karne mein help karti hai. Repeat monitoring treatment effect confirm karti hai.
+
+**Exam clue:** Alert and safe swallow: fast glucose, recheck per protocol.
+
+**Clinical references:** [Clinical reference 1](https://diabetesjournals.org/care/article/49/Supplement_1/S132/163927/6-Glycemic-Goals-Hypoglycemia-and-Hyperglycemic) · [Clinical reference 2](https://diabetesjournals.org/care/article/49/Supplement_1/S339/163925/16-Diabetes-Care-in-the-Hospital-Standards-of-Care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
