@@ -4,7 +4,7 @@
 
 ### Q1. When should discharge planning generally begin for an admitted patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 PGIMER Chandigarh Staff Nurse Grade II, 2015 — related reported concept only**
 
 - **A.** Only when transportation arrives
 - **B.** After all medical records are archived
@@ -27,13 +27,19 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
 
+**Related historical evidence:** [PGIMER Chandigarh Staff Nurse Grade II, 2015 — third-party report](https://testbook.com/question-answer/discharge-planning-should-begin--62b715b11ab53b7f92c67a23). Reported item tests when discharge planning begins. Official paper/key not independently authenticated.
+
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q75](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q75-when-should-discharge-planning-generally-begin-for-an-admitted-patient)
+
 ### Q2. A new admission arrives with severe breathlessness and hypotension. Which action takes priority over routine admission paperwork?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Provide the ward orientation booklet first
 - **B.** Immediate clinical assessment and stabilization with escalation
@@ -56,13 +62,17 @@ Severe breathlessness ka matlab ventilation ya oxygenation compromise ho sakti h
 
 **Clinical references:** [Clinical reference 1](https://www.resus.org.uk/library/abcde-approach) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
 
+**Supplementary historical comparison:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported routine admission item](https://testbook.com/question-answer/when-a-patient-arrives-to-the-hospital-for-routine--681c865b99ed7f6194df56dc). Routine admission is not the unstable emergency scenario above. No exact match claimed.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q73](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q73-a-new-admission-arrives-with-severe-breathlessness-and-hypotension-which-action-takes-priority-over-routine-admission-paperwork)
+
 ### Q3. Which information is essential during medication reconciliation at admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Actual current prescription, OTC and relevant supplement use including doses and timing
 - **B.** Only medications available on the ward shelf
@@ -89,9 +99,11 @@ Medication reconciliation ka matlab patient jo medicines actually le raha hai un
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q56](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q56-which-information-is-essential-during-medication-reconciliation-at-admission)
+
 ### Q4. A patient is transferred from ICU to a general ward with a newly changed oxygen target. What is a key handover requirement?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Report only that the patient was in ICU
 - **B.** Leave the old oxygen prescription as the only reference
@@ -114,13 +126,17 @@ Oxygen therapy mein target SpO2 yani blood oxygen saturation ka desired range pa
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q64](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q64-a-patient-is-transferred-from-icu-to-a-general-ward-with-a-newly-changed-oxygen-target-what-is-a-key-handover-requirement)
+
 ### Q5. Which practice improves patient orientation after admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Assume every patient already knows the ward
 - **B.** Keep the call bell out of reach
@@ -143,13 +159,17 @@ New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q47](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q47-which-practice-improves-patient-orientation-after-admission)
+
 ### Q6. A patient has a new ostomy and is being discharged tomorrow but cannot demonstrate appliance care. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Cancel follow-up because the patient can read
 - **B.** Tell the patient to improvise without equipment
@@ -176,9 +196,11 @@ Ostomy ek surgically created opening hai jisse intestinal contents pouch mein co
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q53](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q53-a-patient-has-a-new-ostomy-and-is-being-discharged-tomorrow-but-cannot-demonstrate-appliance-care-what-should-the-nurse-do)
+
 ### Q7. Which document element is essential for safe discharge medication instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only the date of admission
 - **B.** Clear drug name, dose, route, frequency and relevant changes
@@ -205,9 +227,11 @@ Safe medication instruction mein patient ko clearly pata hona chahiye kaunsi med
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q36](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q36-which-document-element-is-essential-for-safe-discharge-medication-instructions)
+
 ### Q8. A patient is medically ready for discharge but has no safe means of obtaining essential medication. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Escalate the barrier to the discharge team and coordinate a feasible plan
 - **B.** Discharge without mentioning the issue
@@ -234,9 +258,11 @@ Medically ready hone ke bawajood essential medicine obtain na kar paana safe dis
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q87](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q87-a-patient-is-medically-ready-for-discharge-but-has-no-safe-means-of-obtaining-essential-medication-what-is-the-appropriate-nursing-response)
+
 ### Q9. Which transfer action protects the continuity of care for a patient with an active IV infusion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Verify the current order, remaining volume, rate, line status and handover details
 - **B.** Disconnect the infusion automatically without reviewing the treatment
@@ -263,9 +289,11 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q84](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q84-which-transfer-action-protects-the-continuity-of-care-for-a-patient-with-an-active-iv-infusion)
+
 ### Q10. A patient chooses to leave before recommended treatment is complete. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Physically detain every competent patient by default
 - **B.** Erase the treatment recommendation from the record
@@ -292,9 +320,11 @@ Patient recommended care complete hone se pehle leave karna chahe toh decision-m
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q93](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q93-a-patient-chooses-to-leave-before-recommended-treatment-is-complete-what-should-the-nurse-do)
+
 ### Q11. Which item is most relevant to a discharge plan for a patient at high risk of falls?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** The nurse's shift schedule
 - **B.** A general instruction to never move again
@@ -321,9 +351,11 @@ Fall risk ghar par bhi present ho sakta hai, especially weakness, balance proble
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q69](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q69-which-item-is-most-relevant-to-a-discharge-plan-for-a-patient-at-high-risk-of-falls)
+
 ### Q12. A patient with an indwelling catheter will be discharged with the device temporarily. Which skill should be confirmed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Using a shared unclean container for drainage
 - **B.** Safe bag positioning, hygiene, drainage handling and when to seek help
@@ -350,9 +382,11 @@ Indwelling catheter bladder se urine continuously drain karta hai. Home care mei
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q43](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q43-a-patient-with-an-indwelling-catheter-will-be-discharged-with-the-device-temporarily-which-skill-should-be-confirmed)
+
 ### Q13. Why should patients receive explicit warning signs and follow-up contact information at discharge?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Warning signs are intended to increase anxiety only
 - **B.** They need to recognize deterioration and know how to obtain timely help
@@ -379,9 +413,11 @@ Hospital se ghar jaane ke baad patient ko continuous bedside monitoring nahi mil
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q39](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q39-why-should-patients-receive-explicit-warning-signs-and-follow-up-contact-information-at-discharge)
+
 ### Q14. During interfacility transfer a patient needs continuous oxygen. Which preparation is most important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ensure adequate oxygen supply, suitable monitoring, trained escort and receiving-team coordination
 - **B.** Assume transport time will always be short
@@ -408,9 +444,11 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q70](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q70-during-interfacility-transfer-a-patient-needs-continuous-oxygen-which-preparation-is-most-important)
+
 ### Q15. Which patient belongings practice is appropriate during admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Discard all personal items routinely
 - **B.** Leave valuables unlabeled in a shared drawer
@@ -437,9 +475,11 @@ Admission par patient ke belongings, especially valuables aur assistive devices,
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q73](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q73-which-patient-belongings-practice-is-appropriate-during-admission)
+
 ### Q16. A patient with low health literacy is discharged with a complex treatment plan. Which education strategy is most useful?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ask the patient to sign without explanation
 - **B.** Assume literacy from the patient's educational history
@@ -466,9 +506,11 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q40](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q40-a-patient-with-low-health-literacy-is-discharged-with-a-complex-treatment-plan-which-education-strategy-is-most-useful)
+
 ### Q17. Which handover content helps prevent missed treatment after a ward transfer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only a list of staff on the previous ward
 - **B.** Only the admission date
@@ -491,13 +533,17 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q16](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q16-which-handover-content-helps-prevent-missed-treatment-after-a-ward-transfer)
+
 ### Q18. A patient has a mobility aid prescribed for home but the device has not arrived. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Advise use of an unstable chair as a walker
 - **B.** Discuss a safe interim or delayed discharge plan with the team rather than assuming the patient can manage
@@ -524,9 +570,11 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q18](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q18-a-patient-has-a-mobility-aid-prescribed-for-home-but-the-device-has-not-arrived-which-action-is-appropriate)
+
 ### Q19. Which nursing action respects patient participation during discharge planning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Include the patient and chosen support persons with consent in care discussions
 - **B.** Make all decisions without asking the patient
@@ -553,9 +601,11 @@ Patient-centered discharge mein patient ki goals, preferences, home situation au
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q82](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q82-which-nursing-action-respects-patient-participation-during-discharge-planning)
+
 ### Q20. A patient returns from another department with a new procedure-related restriction not reflected in the ward care plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Continue the outdated plan without clarification
 - **B.** Assume the restriction applies only to other departments
@@ -581,6 +631,8 @@ Procedure ke baad diet, activity, monitoring ya device-related restrictions chan
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q75](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q75-a-patient-returns-from-another-department-with-a-new-procedure-related-restriction-not-reflected-in-the-ward-care-plan-what-should-the-nurse-do)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [AHA 2025 adult basic life support](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support) · [OpenStax discharge](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
