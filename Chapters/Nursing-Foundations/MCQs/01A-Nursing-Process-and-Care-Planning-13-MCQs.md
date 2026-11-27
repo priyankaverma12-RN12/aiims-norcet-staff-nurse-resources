@@ -7,6 +7,10 @@
 ### Q1. A stable patient reports a weight loss of 5 kg, but serial recorded weights show a decrease of only 1 kg. What should the nurse do before finalizing the assessment?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Clarify the discrepancy and verify measurement conditions
 - **B.** Discard the patient's account because the record is objective
@@ -25,11 +29,21 @@
 - **C.** Unverified measurements average karne se accuracy establish nahi hoti.
 - **D.** Concern important hai but unverified figure confirmed nahi likhna chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient is admitted with an established chronic illness. Which assessment best provides a baseline for subsequent individualized care?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A focused assessment of one symptom only
 - **B.** A review of discharge criteria only
@@ -48,11 +62,21 @@
 - **B.** Admission baseline missing rahega.
 - **C.** Individual function and preferences identify nahi hongi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A stable inpatient reports a new localized skin itch following use of a different adhesive. Which assessment approach best matches this new complaint?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record an allergy diagnosis without examining the area
 - **B.** Wait for the next routine comprehensive assessment
@@ -71,11 +95,21 @@
 - **B.** New symptom abhi evaluate karna chahiye.
 - **D.** Full history useful ho sakti hai but targeted complaint ka timely assessment delay hoga.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient with limited consciousness cannot provide a reliable history. Which approach to nursing assessment is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Infer previous functional status from age alone
 - **B.** Collect observed findings and corroborate history with authorized caregivers and records, identifying each source
@@ -94,11 +128,21 @@
 - **C.** Source attribution inaccurate hoga.
 - **D.** Important baseline findings available ho sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. Which combination best supports an individualized nursing diagnosis rather than an unsupported assumption?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A single unrelated abnormal laboratory value
 - **B.** The patient's room assignment and diagnosis code
@@ -117,11 +161,21 @@
 - **B.** Ye individual human response explain nahi karte.
 - **C.** Experience useful hai but current evidence necessary hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Same tested concept — [GMCH Nursing Officer 29 June 2025, recruitment booklet Q18 / Q5 / Q57 / Q32 depending on set](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Official paper text inspected, page image and official key not confirmed. Original scenario is not an exact past question.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A nurse writes a care-plan problem as 'diabetes mellitus related to excessive thirst'. What is the main correction needed?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Place excessive thirst as the prescribed intervention
 - **B.** Add every laboratory result to the same diagnostic label
@@ -140,11 +194,21 @@
 - **B.** Unrelated data label ko unclear bana sakte hain.
 - **D.** Medical label still nursing response nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient wants to regain independence in dressing, while the nurse initially proposes a different functional goal. Which planning action is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Remove functional goals entirely
 - **B.** Negotiate an achievable goal that reflects the patient's preference and current abilities
@@ -163,11 +227,21 @@
 - **C.** Patient participation and motivation miss ho sakti hai.
 - **D.** Goal achievable and safe hona chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A care plan says the patient will drink adequate fluids by evening. Why should this outcome be revised?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Adequacy must be operationally defined using an individualized measurable target and timeframe
 - **B.** Every goal must be expressed only as a nursing activity
@@ -186,11 +260,21 @@
 - **C.** Timeframe evaluation support karta hai.
 - **D.** Fluid restrictions and clinical condition differ.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A ward nurse writes a discharge goal for a patient learning a new self-care skill. Which measure best tests actual performance?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Patient receives a printed leaflet
 - **B.** Caregiver says the patient probably understands
@@ -209,11 +293,21 @@
 - **B.** Direct skill performance stronger evidence hai.
 - **D.** Teaching activity hui, learning outcome prove nahi hua.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. An intervention in a care plan requires equipment unavailable on the ward. What is the best implementation decision?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Abandon the goal without discussing alternatives
 - **B.** Arrange a validated alternative or necessary equipment with the team, then update the plan
@@ -232,11 +326,21 @@
 - **C.** Patient safety risk hai.
 - **D.** False record hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A nurse carries out a prescribed treatment and adds appropriate comfort measures within scope. How should the actions be recorded?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Document both performed interventions and the patient's response
 - **B.** Record only the prescription because nursing comfort measures are informal
@@ -255,11 +359,21 @@
 - **C.** Unobserved outcome ko fact mat likho.
 - **D.** Routine response assessment bhi important hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. An outcome is partially achieved because a patient can transfer with one assistant but not independently as planned. What is the best evaluation?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record the goal as fully met because some improvement occurred
 - **B.** Classify the entire plan as a failure and remove useful interventions
@@ -278,11 +392,21 @@
 - **B.** Partial progress useful evidence hai.
 - **C.** Barriers and realistic next steps evaluate karna zaroori hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A patient's care-plan goal has been achieved and remains stable on reassessment. Which action best demonstrates ongoing nursing process?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Delete the prior care record
 - **B.** Review whether to discontinue, maintain or replace interventions based on remaining risk and needs
@@ -301,5 +425,11 @@
 - **C.** Unnecessary care and resources waste ho sakte hain.
 - **D.** New needs develop ho sakti hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
