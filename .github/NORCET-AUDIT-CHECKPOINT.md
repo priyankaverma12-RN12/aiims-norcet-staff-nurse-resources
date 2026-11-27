@@ -1,8 +1,8 @@
 # Job 3 — deep audit checkpoint
 
-State: CLAIMED
-Owner: audit-20261127-035456-respiratory
-Scope: Respiratory advanced 32 MCQ file Q1–6 only
-Expiry UTC: 2026-11-27T04:24:56Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
-Latest audit: Respiratory System initial pass, learning log commit 7ebd707803ca910539a65864e91f044b522f988e. Five source-based practice adaptations repaired, PYQ index corrected, ten-mock plan corrected, advanced Q2/Q29 explanations corrected. 32 advanced stems read, full external validation pending. Next: Respiratory-Advanced-Topic-Wise-32.md Q1 onward granular rationale, priority, curriculum and clinical evidence review, then remaining banks, individual mock contents and all PYQs/concepts. Re-read both publishing claims and labels checkpoint before acquiring new audit scope. No chapter is certified complete. Five-minute schedule unsupported.
+Latest: Respiratory advanced MCQs Q1–6 clinical reference and rationale audit, commit 57d338499f1c02dd81d11c8f1cb532ac6cbaeaed. All six keys retained, rationales expanded, difficulty and priority calibrated. Q5 formula marked enrichment. All 32 questions and 32 hidden answer blocks preserved. Learning log commit 03bbb4e23221d4ac1e48f3ec186f71312c0ea6c7. Next: Respiratory-Advanced-Topic-Wise-32.md Q7 onward, then remaining banks, mocks, PYQs and concepts. Exact historical evidence, remaining question-solving videos, curriculum depth and semantic duplication still pending. Previous five adapted PYQs and mock plan repairs retained. Check both publishing claims and Job 4 labels checkpoint before new claim. No chapter certified complete.
