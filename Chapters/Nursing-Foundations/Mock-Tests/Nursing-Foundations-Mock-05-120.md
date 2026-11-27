@@ -567,9 +567,20 @@ Secondary intention mein tissue gap granulation, contraction aur epithelializati
 
 **Correct: C. Encourage reporting and distinguish human error from reckless behavior**
 
-Just culture staff ko mistakes report karne mein support karti hai aur behavior ko fairly evaluate karti hai. Isse system learning aur accountability dono possible hain.
+<!-- job5-rationale -->
+Just culture ka goal learning aur fair accountability dono maintain karna hai. Unintentional human error, at-risk choices aur reckless behavior ko evidence aur context se distinguish karte hain. System design, training, workload aur individual decisions review hote hain. Open reporting se hazards identify hote hain, but just culture ka matlab every unsafe act ignore karna nahi.
 
-**Baaki options kyun sahi nahi hain?** Reckless behavior review ho sakta hai. Concealment learning reduce karti hai. Evidence se pehle blame unfair hai.
+**Option-by-option reasoning**
+
+- **A:** No accountability guarantee just culture nahi hai.
+- **B:** Evidence se pehle blame unfair aur ineffective hai.
+- **C:** Reporting encourage karna aur behavior context distinguish karna correct hai.
+- **D:** Concealment learning aur future prevention block karta hai.
+
+**Exam clue:** Just culture = learning plus fair accountability.
+
+[Concept reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -855,9 +866,20 @@ Accurate injection record future doses, site rotation aur adverse reactions trac
 
 **Correct: D. Assess the patient and arrange prompt clinical review and required reporting**
 
-Some medicine effects delayed ho sakte hain. Nurse patient assess karti hai, clinician ko notify karti hai aur policy ke according monitoring aur report arrange karti hai.
+<!-- job5-rationale -->
+Medication error patient tak pahunch chuki hai, even if current symptoms absent hain. Drug, actual dose, route, timing aur patient condition promptly assess karo, appropriate clinical team ko notify karo aur indicated monitoring/treatment arrange karo. Some effects delayed ho sakte hain. Actual facts document karo, approved safety reporting and disclosure process follow karo. Patient assessment paperwork se pehle hai.
 
-**Baaki options kyun sahi nahi hain?** Symptoms ka wait unsafe hai. Record change aur evidence destroy karna inappropriate hai.
+**Option-by-option reasoning**
+
+- **A:** Package discard evidence loss create karta hai.
+- **B:** Record alter karke event conceal karna unsafe and inaccurate hai.
+- **C:** Symptoms ka wait delayed toxicity miss kar sakta hai.
+- **D:** Assessment, clinical review and required reporting correct response hai.
+
+**Exam clue:** Error reached patient: assess, notify, monitor, report.
+
+[Concept reference](https://psnet.ahrq.gov/primer/medication-administration-errors)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -951,9 +973,20 @@ Transparent film se covered site visible rehti hai. Nurse product capacity aur s
 
 **Correct: A. Lock wheelchair brakes and assess transfer assistance needs**
 
-Locked brakes chair movement prevent karte hain. Transfer se pehle strength, balance aur assistive equipment assess karna important hai.
+<!-- job5-rationale -->
+Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status, dizziness, lines aur required staff/equipment assess karo. Wheelchair stable position mein brakes lock karo aur footrests appropriately move karo. Suitable footwear, approved transfer aid and safe technique use karo. Patient ko mobility limitations ke against force mat karo.
 
-**Baaki options kyun sahi nahi hain?** Moving chair, loose pole aur slippery surface falls ka risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Locked brakes and assistance assessment safe transfer support karte hain.
+- **B:** Moving wheelchair transfer instability create karti hai.
+- **C:** Slippery floor par footwear remove karna fall risk badha sakta hai.
+- **D:** Loose IV pole weight-bearing support ke liye designed nahi hai.
+
+**Exam clue:** Assess, lock, position, assist.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2827,9 +2860,20 @@ Transfer ke samay pending result ek unfinished clinical responsibility hai. Hand
 
 **Correct: B. Activate the facility escalation pathway or rapid response team**
 
-Acute deterioration time-sensitive hoti hai. Escalation pathway se additional trained help jaldi mil sakti hai.
+<!-- job5-rationale -->
+Sudden deterioration time-sensitive situation hai. Primary clinician unavailable ho toh facility escalation pathway, rapid response ya emergency team ko activate karo as indicated. ABC assessment aur immediate authorized interventions continue karo, relevant findings and urgency communicate karo. Documentation aur routine contact attempts urgent response delay nahi karne chahiye.
 
-**Baaki options kyun sahi nahi hain?** Indefinite wait, untrained decision aur documentation delay patient safety compromise kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Chart completion emergency assistance se lower priority hai.
+- **B:** Approved escalation pathway timely help mobilize karta hai.
+- **C:** Another patient clinical severity determine karne ka appropriate person nahi.
+- **D:** Indefinite wait preventable delay create karta hai.
+
+**Exam clue:** Unresolved deterioration: escalate, do not wait.
+
+[Concept reference](https://psnet.ahrq.gov/primer/rapid-response-systems)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
