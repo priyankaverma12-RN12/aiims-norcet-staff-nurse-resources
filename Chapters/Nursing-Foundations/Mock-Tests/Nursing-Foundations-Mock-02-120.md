@@ -304,9 +304,22 @@ Spaulding classification mein critical items woh hain jo sterile tissue ya vascu
 
 **Correct: C. Moderate exudate when the product is appropriate**
 
-Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exudate level check karna important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dry ischemic wound aur exposed organ ko different clinical plan chahiye. Assessment skip nahi karni chahiye.
+Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exudate wound mein moisture balance aur cushioning support karti hai. Product capacity, wound depth, surrounding skin aur saturation assess karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Exposed organ emergency protection aur surgical assessment maangta hai.
+- **B (Galat):** Assessment ke bina exudate aur tissue condition pata nahi chalegi.
+- **C (Sahi):** Moderate exudate foam ke absorption se manage ho sakta hai.
+- **D (Galat):** Dry ischemic wound mein perfusion assessment aur individualized plan chahiye.
+
+**Exam clue:** Foam for suitable exuding wounds.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -474,9 +487,22 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 **Correct: A. Remove and collect fluid from a surgical space**
 
-Drain blood aur serous fluid collect kar sakti hai. Output trends surgical healing aur complications assess karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Enteral tube feeding, BP device aur sutures different functions perform karte hain.
+Closed suction drain surgery ke baad operative space mein jama blood ya serous fluid nikalti hai. Tubing reservoir se connected hoti hai aur prescribed negative pressure fluid removal support karta hai. Nurse seal, output aur site assess karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Surgical space se fluid collect karna drain ka purpose hai.
+- **B (Galat):** Sutures incision edges hold karte hain, drain unka replacement nahi.
+- **C (Galat):** Arterial BP cuff ya arterial monitoring device se measure hota hai.
+- **D (Galat):** Enteral feeding GI tract mein nutrition deti hai.
+
+**Exam clue:** Closed drain removes operative-space fluid.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -1041,9 +1067,22 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 **Correct: A. Assess the system and restore suction using the approved device procedure**
 
-Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur output check karke approved method se suction restore karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Puncture aur disconnection contamination risk badhate hain. Prescribed suction ignore nahi karni chahiye.
+Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded bulb suction loss ka clue hai. Tubing, seal, output aur connections assess karo. Approved emptying aur recompression process follow karo aur unresolved loss of suction report karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Assessment aur approved restoration safe device care hai.
+- **B (Galat):** Ignore karne se fluid retention ya malfunction miss ho sakta hai.
+- **C (Galat):** Disconnection suction fail rakhti hai aur infection risk badhati hai.
+- **D (Galat):** Puncture se closed system damage aur contamination ho sakti hai.
+
+**Exam clue:** JP drain: maintain prescribed suction.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -2867,9 +2906,22 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 **Correct: B. A moderately to heavily exuding wound**
 
-Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adhere kar sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dry wound aur intact skin universal indications nahi hain. Dressing exudate aur tissue ke hisaab se choose hoti hai.
+Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy exudate wale selected wounds mein useful hoti hain. Dry wound mein gel banne ke liye fluid nahi milta aur dressing adhere kar sakti hai. Product aur secondary dressing instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har wound mein alginate suitable nahi hoti.
+- **B (Sahi):** Moderate-heavy exudate alginate ki absorption property se manage ho sakta hai.
+- **C (Galat):** Intact skin par bina indication alginate ki zaroorat nahi.
+- **D (Galat):** Dry wound mein unnecessary drying ya adherence ho sakti hai.
+
+**Exam clue:** Alginate absorbs fluid and forms gel.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
