@@ -4,7 +4,7 @@
 
 | Mock | Target | Published |
 |---|---:|---|
-| 1 | 120 | [Open assembled Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 original-only questions, 120 model-led clinical rereviews, broader validation pending; 0 fully validated mocks |
+| 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |
 | 2 | 120 | Pending |
 | 3 | 120 | Pending |
 | 4 | 120 | Pending |
@@ -43,4 +43,8 @@ Fresh model-led reading of all 120 questions and all 480 rationales completed; 1
 
 Next: finish semantic comparison of latest banks, embedded concepts, revision/PYQ and other mocks in bounded batches; validate dedicated video question mappings where accessible, explicitly record remaining evidence limitations and reconcile Mock 01 validation status, then begin Mock 02 with newly authored exclusive questions. Do not repeat completed clinical rereview except for flagged/new issues.
 
-<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-semantic-20261127-1515. Scope: Mock 01 semantic/video validation and mock-only inventory, Mock 02 only after reconciliation. Claimed UTC: 2026-11-27T15:15:00Z. Expiry UTC: 2026-11-27T15:45:00Z. -->
+### Mock 01 bounded validation reconciliation — 27 November 2026
+
+Mock revision 307cd507c20c88e9aba0238b1ce6b2e6cf783bd9, blob a24832b714333dab1f0ea7ecc8f538f71dd48d94; audit ledger 2b2a53911805c77dc6efc2100eca3c1dd48b7116, blob 1672a3790adbc0c1aee7721d303bbd15bb97e8a0. Exact readback passed. Pinned snapshot d0f9da0835c5d2e1028203c2ebaf92da2621c77c: 1094 topic-bank questions in 38 files, 32 concept files, 33 PYQ/evidence files, 35 named cross-chapter mock/revision files (2427 extracted candidate strings). Zero exact matches in pre-replacement scans; 19 lexical candidates reviewed. Q6/Q90 rewritten after overlap review, two proposed replacement tasks rejected before publication because existing banks already assess them. 120 questions and audit notes, 480 rationales, 55 Medium/65 Difficult, 60 Eye/60 ENT, answer letters unchanged. Fifteen video associations strengthened from description-level MCQ evidence; all exact playback unverified. Residual uncertainty, fresh replacement-stem comparison, inaccessible playback and licensed review gaps recorded in [audit ledger](Mock-01-Semantic-and-Video-Audit.md). Status explicitly reconciled as bounded-reviewed practice edition, not fully certified. One assembled mock, zero fully validated mocks. Begin separate Mock 02 staged authorship under current mock-only ownership as requested; no reuse, no premature certification.
+
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-semantic-20261127-1515. Scope: Mock 02 initial staged authorship and mock-only inventory after Mock 01 status reconciliation. Claimed UTC: 2026-11-27T15:15:00Z. Expiry UTC: 2026-11-27T15:45:00Z. -->
