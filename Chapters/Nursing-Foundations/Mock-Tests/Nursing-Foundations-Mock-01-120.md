@@ -547,9 +547,24 @@ Patient identification mein do independent approved person-specific identifiers 
 
 **Correct: D. Dorothea Orem**
 
-Orem theory ke according nursing tab needed hoti hai jab person apni self-care needs independently meet nahi kar paata. Nurse assistance aur teaching provide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Henderson basic needs, Roy adaptation aur Watson caring theory se associated hain.
+Self-care ka matlab hai apni health aur daily needs ka dhyan khud rakhna. Jaise patient apne aap naha sakta hai ya prescribed medicine manage kar sakta hai. Orem ke hisaab se jab care ki zaroorat patient ki ability se zyada ho jaati hai, toh self-care deficit hota hai. Nurse is gap ko assess karke help ya teaching deti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Roy ka model patient ke badli hui condition ke saath adjust karne ki ability par focus karta hai.
+- **B (Galat):** Watson ka model caring relationship aur patient ke human experience par focus karta hai.
+- **C (Galat):** Henderson ne fourteen basic needs aur independence par zor diya tha, lekin self-care deficit theory Orem ki hai.
+- **D (Sahi):** Orem ne self-care, self-care deficit aur nursing systems ko ek framework mein samjhaya hai.
+
+**Exam clue:** Jab patient apni care ki zaroorat khud poori nahi kar paata, toh Orem ki theory yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -680,9 +695,24 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 **Correct: A. Florence Nightingale**
 
-Nightingale ne environment ko patient recovery ka important part maana. Cleanliness, fresh air aur suitable surroundings nursing care mein relevant hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Peplau interpersonal relations aur Neuman systems theory se associated hain.
+Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein madad karta hai. Jaise gande bed linen se infection ka risk badh sakta hai aur shor se patient ki neend disturb hoti hai. Isliye nurse safai, suitable ventilation, roshni aur rest par dhyan deti hai. Aaj ke time mein current infection-control precautions aur prescribed treatment bhi zaroori hain.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Nightingale ki approach environment ko improve karke patient ki recovery support karti hai.
+- **B (Galat):** Peplau ka focus nurse aur patient ke therapeutic relationship, yani care mein madad karne wale professional rishte, par hai.
+- **C (Galat):** Orem ka focus patient ki khud care karne ki ability par hai, ventilation ya roshni par nahi.
+- **D (Galat):** Neuman ka model stressors aur patient ki protective defenses ko samjhata hai.
+
+**Exam clue:** Safai, ventilation aur roshni ko healing se jodne wala question aaye, toh Nightingale ko yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2844,9 +2874,22 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 **Correct: C. Partly compensatory system**
 
-Partly compensatory mein patient kuch self-care khud karta hai aur nurse remaining tasks mein help karti hai. Is case mein dono care participate karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wholly compensatory mein patient largely unable hota hai. Supportive-educative mainly teaching-guidance situation hai.
+Socho patient apna face aur haath khud wash kar sakta hai, lekin pair dhone ke liye nurse ki help chahiye. Partly compensatory system mein patient aur nurse dono direct care mein hissa lete hain. Nurse utni help deti hai jitni patient ko zaroorat hai, taaki uski bachi hui ability aur independence maintain rahe.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Wholly compensatory system mein nurse relevant self-care activities patient ke behalf par karti hai. Yahan patient kuch kaam khud kar raha hai.
+- **B (Galat):** Supportive-educative system mein mainly teaching aur guidance ki zaroorat hoti hai. Is case mein direct physical help bhi chahiye.
+- **C (Sahi):** Partly compensatory system mein patient kuch care khud karta hai aur nurse baaki care mein help karti hai.
+- **D (Galat):** Yeh situation self-care ki need aur ability ke gap se related hai. Unrelated system is problem ko explain nahi karta.
+
+**Exam clue:** Jab patient aur nurse dono direct care mein hissa lete hain, toh partly compensatory system choose karo.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3113,9 +3156,22 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 **Correct: D. Supportive-educative**
 
-Patient physically capable hai lekin knowledge ya skill develop karni hai. Supportive-educative system education aur confidence building par focus karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wholly aur partly compensatory systems direct care assistance ke different levels describe karte hain.
+Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi technique aur safety checks nahi pata. Supportive-educative system mein nurse samjhati hai, demonstration deti hai aur supervised practice se check karti hai ki patient safely injection manage kar sakta hai. Agar skill ya safety concern baaki hai, toh discharge plan mein aur support arrange karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Environment ko safe banana useful hai, lekin yahan main need injection ki teaching aur practice hai.
+- **B (Galat):** Partly compensatory system mein nurse aur patient direct physical care share karte hain. Yahan aisi help ki zaroorat nahi batayi gayi hai.
+- **C (Galat):** Wholly compensatory system mein nurse patient ke behalf par care karti hai. Is case mein patient seekhkar khud kar sakta hai.
+- **D (Sahi):** Supportive-educative system fit hota hai kyunki patient instruction ke baad apni care khud kar sakta hai.
+
+**Exam clue:** Patient capable hai aur use sikhane ki zaroorat hai, toh supportive-educative system yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

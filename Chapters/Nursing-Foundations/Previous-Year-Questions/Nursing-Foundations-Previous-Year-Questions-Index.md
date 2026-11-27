@@ -60,3 +60,5 @@
 - [Group 08A peripheral IV access](08A-Peripheral-IV-Reported-Evidence.md): one independent exercise adapted from a directly retrieved SGPGI Staff Nurse 28 February 2024 Shift 1 report. NORCET 2022, NIMHANS 2019 and GMCH 2022 related evidence and HPRCA September 2026 access gaps documented. Counted historical total remains 34 pending overlap and official-key reconciliation.
 
 - [Group 08B IV complications](08B-IV-Complications-Reported-Evidence.md): AIIMS Bhopal 23 May 2018 Shift II source-based interpretation exercise with four option explanations, related learning-task overlap explicitly recorded, no additional count. OSSSC 7 February 2021 report retrieved, NVS and AIIMS Delhi/Bhatinda 2019 indexed. Counted historical inventory remains 34 pending official authentication and overlap review.
+
+- [Group 08C central venous access](08C-Central-Access-Reported-Evidence.md): Is file mein AIIMS Delhi 15 September 2019 memory-based report par based ek independent exercise hai. Official key aur overlap verification baaki hai, isliye counted historical inventory 34 hi hai. AIIMS Bhopal 2018 aur OSSSC 2021 indexed leads ka direct retrieval pending hai.

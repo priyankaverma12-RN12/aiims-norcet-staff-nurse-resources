@@ -2073,9 +2073,22 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 **Correct: D. Virginia Henderson**
 
-Henderson ne breathing, eating, elimination aur other basic activities ko nursing assistance se connect kiya. Aim patient independence support karna hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Peplau relationship, Rogers unitary human beings aur King goal attainment theory se associated hain.
+Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient ko saans lene, khane, movement, rest aur hygiene mein help ki zaroorat ho sakti hai. Nurse strength, knowledge aur ability assess karke help deti hai, taaki patient jitna possible ho independent ban sake.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rogers person aur environment ko ek integrated whole ke roop mein samjhati hain.
+- **B (Galat):** Peplau ka focus therapeutic relationship aur communication par hai, fourteen needs par nahi.
+- **C (Galat):** King ka focus nurse aur patient ke milkar goal decide karne aur achieve karne par hai.
+- **D (Sahi):** Henderson ki fourteen basic needs patient ki nursing care aur independence ko assess karne ka framework deti hain.
+
+**Exam clue:** Fourteen basic needs aur independence ka clue Henderson se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2386,9 +2399,22 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 **Correct: D. Orientation**
 
-Orientation phase mein nurse aur patient meet karke problem identify aur relationship ki purpose establish karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Termination ya resolution relationship conclude hone par hoti hai. Initial interaction necessary hai.
+Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti hai, toh apna role batati hai, patient ki concerns sunti hai aur care ka purpose clarify karti hai. Isse trust build hota hai. Peplau ke original framework mein orientation, identification, exploitation aur resolution phases hain. Modern teaching mein beech ke phases ko working phase ke andar bhi samjhaya jaata hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Termination relationship ke end ko describe karti hai, pehli meeting ko nahi.
+- **B (Galat):** Resolution mein goals aur needs review hone ke baad professional relationship conclude hota hai.
+- **C (Galat):** Bina patient se interaction kiye evaluation karna initial relationship establish nahi karta.
+- **D (Sahi):** Orientation mein initial meeting, concerns identify karna aur roles clarify karna hota hai.
+
+**Exam clue:** Pehli meeting aur roles clarify karne ko orientation se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3155,9 +3181,22 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 **Correct: B. Peplau's theory**
 
-Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation aur working phases mein trust aur problem solving important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Roy adaptation aur Nightingale environment par focus karti hain.
+Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trust, communication aur support se patient ko problem manage karne mein help karti hai. Peplau ke model mein nurse patient ki concerns sunti hai, milkar goals par kaam karti hai aur professional boundaries maintain karti hai. Care sirf procedure karne tak limited nahi rehti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Roy patient ke physical aur emotional changes ke saath adjustment par focus karti hain.
+- **B (Sahi):** Peplau ka model nurse-patient relationship ko therapeutic care ka central part maanta hai.
+- **C (Galat):** Orem patient ki self-care ability aur care ki need ke gap par focus karti hain.
+- **D (Galat):** Nightingale patient ke environment ko recovery ke liye suitable banane par focus karti hain.
+
+**Exam clue:** Jab question therapeutic interpersonal relationship par ho, toh Peplau ko yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3572,9 +3611,22 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 **Correct: D. Sister Callista Roy**
 
-Roy model person ko adaptive system ke roop mein dekhta hai. Nursing physiological, self-concept, role aur interdependence adaptation support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Johnson behavioral systems, Hall care-core-cure aur Abdellah nursing problems se associated hain.
+Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke ke baad patient ko movement, apne baare mein soch aur ghar ke roles mein changes face karne pad sakte hain. Roy ke model mein nurse physiological needs, self-concept, role function aur relationships mein adjustment assess karke patient ko support karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hall ka model care, core aur cure ke three circles se associated hai.
+- **B (Galat):** Johnson ka model organized behavioral patterns aur unke balance par focus karta hai.
+- **C (Galat):** Abdellah ka framework twenty-one nursing problems ko organize karta hai.
+- **D (Sahi):** Sister Callista Roy ke model mein patient ko changes ke saath adjust karne mein support diya jaata hai.
+
+**Exam clue:** Adaptation aur four adaptive modes ko Roy se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

@@ -2039,9 +2039,22 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 **Correct: B. May 12**
 
-May 12 Florence Nightingale ki birth anniversary hai aur International Nurses Day isi date ko observe hota hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** April 7 World Health Day, March 8 International Women's Day aur December 1 World AIDS Day hai.
+International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence Nightingale ki birth anniversary hai. Is din nursing profession ki service aur challenges ko highlight kiya jaata hai. Annual theme badal sakti hai, lekin date 12 May rehti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 1 December World AIDS Day hai, International Nurses Day nahi.
+- **B (Sahi):** 12 May Nightingale ki birth anniversary hai aur ICN isi din International Nurses Day observe karta hai.
+- **C (Galat):** 7 April World Health Day hai, jo broader public health issues par focus karta hai.
+- **D (Galat):** 8 March International Women's Day hai, International Nurses Day nahi.
+
+**Exam clue:** International Nurses Day ki date 12 May yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.icn.ch/how-we-do-it/campaigns/international-nurses-day)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2094,9 +2107,22 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 **Correct: D. Care of soldiers during the Crimean War**
 
-Crimean War ke dauran Nightingale sanitation aur nursing organization reforms ke liye known hui. Baad mein professional nursing education mein important role raha.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** ABO Landsteiner, penicillin Fleming aur polio vaccine Salk-Sabin se related milestones hain.
+Crimean War ke dauran Florence Nightingale ne sick aur injured soldiers ki nursing care mein kaam kiya. Unhone sanitation, hospital conditions aur nursing organization improve karne ki importance dikhayi. Unke work aur later education reforms ka professional nursing par bada asar raha. Other staff aur public-health reforms ka contribution bhi important tha.
+
+**Option-wise explanation:**
+
+- **A (Galat):** ABO blood groups ki discovery Karl Landsteiner se associated hai.
+- **B (Galat):** First widely used polio vaccine Jonas Salk se associated hai aur later oral vaccine Albert Sabin se. Yeh Crimean War ke reforms nahi hain.
+- **C (Galat):** Penicillin ki discovery Alexander Fleming se associated hai, Nightingale ke nursing reforms se nahi.
+- **D (Sahi):** Crimean War mein soldiers ki care aur hospital sanitation Nightingale ke historical work se closely related hain.
+
+**Exam clue:** Crimean War aur sanitation reforms ko Nightingale se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2405,9 +2431,22 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 **Correct: B. Faye Glenn Abdellah**
 
-Abdellah ne patient-centered nursing problems ki framework develop ki. Ye nursing assessment aur problem solving ko organize karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Watson caring, Rogers unitary human beings aur Neuman systems se associated hain.
+Abdellah ne nursing ko patient ki problems identify aur solve karne ke approach se joda. Unke twenty-one nursing problems framework mein physical, emotional aur social care ki zarooratein samajhne mein help milti hai. Nurse sirf disease ka naam dekhkar care nahi karti, balki patient ki actual nursing needs assess karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Watson Human Caring Theory aur caring relationship se associated hain.
+- **B (Sahi):** Abdellah ka framework twenty-one nursing problems ke naam se jaana jaata hai.
+- **C (Galat):** Rogers ka Science of Unitary Human Beings person-environment relationship ka alag approach hai.
+- **D (Galat):** Neuman stressors, defenses aur system stability par focus karti hain.
+
+**Exam clue:** Twenty-one nursing problems ko Abdellah se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2941,9 +2980,24 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 **Correct: D. Indian Nursing Council**
 
-Indian Nursing Council nursing education standards aur recognized qualifications se related statutory role rakhti hai. State-level registration aur regulation ke separate roles bhi hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** IMA medical professional body hai. WHO aur ICRC Indian nursing education ke statutory regulator nahi hain.
+Nursing education standards ka purpose hai ki nursing courses mein required knowledge aur skills maintain hon. Indian Nursing Council Act, 1947 ke framework mein INC ko uniform training standards ka statutory role mila tha. November 2026 mein INC ki public website ab bhi educational notifications dikha rahi hai. National Nursing and Midwifery Commission Act, 2023 naya regulatory framework introduce karta hai. Current legal questions mein applicable commencement aur transition notifications verify karna zaroori hai. Listed choices mein INC correct hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Indian Medical Association doctors ki professional association hai. Yeh nursing education standards establish karne wala statutory council nahi hai.
+- **B (Galat):** WHO international health guidance deta hai, lekin WHO alone Indian nursing education ka statutory regulator nahi hai.
+- **C (Galat):** ICRC humanitarian work karta hai. Indian nursing education standards establish karna iska statutory role nahi hai.
+- **D (Sahi):** Indian Nursing Council ka statutory nursing education standards se sambandh hai. State registration aur current regulatory arrangements ko alag se samajhna chahiye.
+
+**Exam clue:** INC Act 1947 ka role yaad rakho aur current legal position ke liye latest notifications check karo.
+
+**Reference:** [Nursing theory or professional guidance](https://indiannursingcouncil.org/)
+
+**Regulatory transition:** [National Nursing and Midwifery Commission Act, 2023](https://www.indiacode.nic.in/bitstream/123456789/19796/1/a2023-26.pdf). Indexed legal text notes phased commencement. Full transition notification audit pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

@@ -10,7 +10,7 @@
 
 ### Original topic-wise questions
 
-- [1,222 original slots (600 initial + 622 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md)
+- [1,250 original slots (600 initial + 650 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md)
 
 ### Full chapter mocks
 
@@ -24,14 +24,15 @@
 
 - [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md)
 
-511 Medium and 711 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+524 Medium and 726 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
-[Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+- [Full syllabus index](../NORCET-Full-Chapter-Index.md)
+- [Repository home](../../README.md)
 
 
 ## Revised individual-topic progress
 
-[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Next: Group 08C central venous access.
+[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Ab Group 09 urinary elimination aur catheter care ke individual topics cover karne hain.
 
 
 [Communication](Concepts/02A-Therapeutic-Communication.md) · [Documentation](Concepts/02B-Nursing-Documentation-and-Records.md) · [Handover](Concepts/02C-Clinical-Handover-and-Team-Communication.md). Group 02 three allocations of 30 each. Total five individual allocations met at initial numerical target.
@@ -75,3 +76,5 @@
 [Peripheral IV access and maintenance](Concepts/08A-Peripheral-IV-Access-and-Maintenance.md) · [22 new MCQs](MCQs/08A-Peripheral-IV-Access-and-Maintenance-22-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/08A-Peripheral-IV-Reported-Evidence.md) · [Original care pathway](Assets/08A-Peripheral-IV-Care-Pathway.svg). 30 allocated (22 new plus eight preserved). All 20 legacy Group 08 IDs allocated once in the [topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md). One uncounted reported adaptation. Full semantic, clinical, official-key and specific video verification pending. Next 08B complications and compatibility.
 
 [IV complications and compatibility](Concepts/08B-IV-Complications-and-Compatibility.md) · [25 new MCQs](MCQs/08B-IV-Complications-and-Compatibility-25-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/08B-IV-Complications-Reported-Evidence.md) · [Original response diagram](Assets/08B-IV-Complication-Response.svg). 30 allocated (25 new plus five preserved). One uncounted source-based exercise. Full independent clinical, semantic, official-key and exact video verification pending. Next 08C central access.
+
+[Central venous access](Concepts/08C-Central-Venous-Access.md) · [28 new MCQs](MCQs/08C-Central-Venous-Access-28-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/08C-Central-Access-Reported-Evidence.md) · [Original device diagram](Assets/08C-Central-Access-Devices.svg). Is topic mein 28 naye original aur do purane questions milakar 30 allocate hue hain. Group 08A, 08B aur 08C ka numerical allocation target poora hua hai, lekin independent clinical, semantic, historical aur video audit abhi baaki hai. Ab Group 09 urinary elimination aur catheter care par kaam karna hai.
