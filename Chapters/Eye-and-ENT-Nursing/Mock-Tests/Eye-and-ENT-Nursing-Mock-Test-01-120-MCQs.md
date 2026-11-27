@@ -903,9 +903,11 @@
 
 - **D. Kyun galat hai:** Subconjunctival hemorrhage conjunctiva ke neeche extraocular blood hota hai. Slit lamp par anterior chamber cells alag location mein hain.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Slit_Lamp_Examination).
+**Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
 
-**YouTube MCQ practice:** Exact question verification pending.
+**Clinical audit note (27 Nov 2026):** Microhyphema grade 0 mein slit lamp par anterior chamber RBCs detect hoti hain, layered blood absent hota hai. Isse injury minor assume na karo: open-globe possibility pehle exclude karni hai aur IOP assessment specialist direction se karna hai.
+
+**YouTube MCQ practice:** [Optometry Fans hyphema lecture with MCQs](https://www.youtube.com/watch?v=eJTDqeVJBUw). Indexed mixed teaching/practice lead; item coverage and playback unverified.
 
 </details>
 
@@ -932,7 +934,9 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng91/chapter/recommendations).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Postauricular erythema, tenderness, swelling aur displaced pinna mastoiditis ka concern raise karte hain. Acute complication suspected ho toh hospital/ENT referral urgent hai; antibiotics complete hone ka wait nahi.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed mixed theory/practice topic lead only; exact task and playback unverified.
 
 </details>
 
@@ -959,7 +963,9 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng91/chapter/recommendations).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** NICE NG91 age/weight-appropriate paracetamol ya ibuprofen as appropriate recommend karta hai. Analgesia ka effect aur hydration reassess karo; antibiotic choice alag clinical decision hai.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed mixed theory/practice topic lead only; exact task and playback unverified.
 
 </details>
 
@@ -986,34 +992,38 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Angle recession trabecular outflow damage aur delayed IOP rise se associated ho sakti hai. Clinician-directed gonioscopy, IOP aur optic nerve follow-up important hai even when initial hyphema resolve ho.
+
+**YouTube MCQ practice:** [Optometry Fans hyphema lecture with MCQs](https://www.youtube.com/watch?v=eJTDqeVJBUw). Indexed mixed teaching/practice lead; item coverage and playback unverified.
 
 </details>
 
-### Q35. A child with fever and recent sinusitis develops eyelid edema and painful limitation of eye movement. Which finding makes this more than a routine superficial lid infection?
+### Q35. A child with clinician-suspected orbital cellulitis after sinusitis is being prepared for urgent imaging. Which diagnostic purpose should the nurse explain to the caregiver?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Painful restricted motility suggests involvement of tissues within the orbit
-- **B.** The presence of eyelid swelling alone proves uncomplicated allergy
-- **C.** Sinusitis excludes spread toward the orbit
-- **D.** A child with fever cannot develop an orbital abscess
+- **A.** Define orbital and sinus involvement and assess for a collection needing surgical review
+- **B.** Measure refractive error before selecting spectacles
+- **C.** Demonstrate that all infection is limited to the eyelid regardless of clinical findings
+- **D.** Identify the causative bacterial species from image appearance alone
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. Painful restricted motility suggests involvement of tissues within the orbit**
+**Correct answer: A. Define orbital and sinus involvement and assess for a collection needing surgical review**
 
-- **A. Kyun sahi hai:** Orbital septum ke peeche muscles aur fat hote hain. Infection in structures tak spread ho toh eye movement painful ya restricted ho sakti hai aur urgent assessment chahiye.
+- **A. Kyun sahi hai:** Contrast-enhanced CT selected by treating team orbit/sinus involvement aur abscess location characterize kar sakti hai. Brain assessment bhi indicated ho sakti hai. Imaging ENT/ophthalmology management plan support karti hai, treatment delay karne ka reason nahi.
 
-- **B. Kyun galat hai:** Swelling infection aur allergy dono mein ho sakti hai. Painful movement ko ignore nahi karna chahiye.
+- **B. Kyun galat hai:** Refraction optical focusing assess karti hai, orbital collection nahi.
 
-- **C. Kyun galat hai:** Sinus orbit ke paas hote hain aur infection spread kar sakti hai.
+- **C. Kyun galat hai:** Imaging ka purpose disease extent evaluate karna hai. Preseptal-only disease automatically assume nahi ki ja sakti.
 
-- **D. Kyun galat hai:** Fever serious infection ka sign ho sakta hai, abscess ko exclude nahi karta.
+- **D. Kyun galat hai:** Imaging anatomy aur inflammation dikhati hai. Specific microbial identification ke liye clinical microbiology investigations ki need ho sakti hai.
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** RCH guideline suspected orbital cellulitis mein urgent ENT/ophthalmology consultation aur contrast CT orbits/sinuses, brain as indicated, consider karta hai. Imaging choice aur contrast safety team decide kare; urgent antibiotics or resuscitation ko unnecessary delay na karo.
+
+**YouTube MCQ practice:** Specific question verification pending.
 
 </details>
 
@@ -1039,6 +1049,8 @@
 - **D. Kyun sahi hai:** Recurrent unilateral bleeding ka source anterior examination se miss ho sakta hai. Endoscopy targeted management mein help karti hai.
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
+
+**Clinical audit note (27 Nov 2026):** AAO-HNS 2020 KAS7a prior packing/cautery failure ya recurrent unilateral bleeding mein nasal endoscopy referral support karta hai. Active severe bleeding mein stabilization pehle hoti hai.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -1067,6 +1079,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
 
+**Clinical audit note (27 Nov 2026):** Guideline KAS3b suspected bleeding disorder ya anticoagulant/antiplatelet use mein resorbable packing recommend karta hai. Nonresorbable packing ki removal trauma avoid karna benefit hai; life-threatening bleeding mein medication/reversal plan emergency team decide kare.
+
 **YouTube MCQ practice:** Exact question verification pending.
 
 </details>
@@ -1093,6 +1107,8 @@
 - **D. Kyun galat hai:** Refraction neurological infection complication assess nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/).
+
+**Clinical audit note (27 Nov 2026):** Altered consciousness aur severe headache intracranial spread, cavernous sinus thrombosis ya systemic deterioration ke red flags ho sakte hain. ABC assessment, emergency escalation aur pediatric/ENT/ophthalmology coordination immediately chahiye.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1121,6 +1137,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/).
 
+**Clinical audit note (27 Nov 2026):** Well child with bilateral painless swelling allergy se consistent hai, lekin visual decline, proptosis, painful motility, fever ya systemic illness emerge ho toh urgent review. Swelling pattern final diagnosis nahi hai.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -1147,6 +1165,8 @@
 - **D. Kyun galat hai:** Follow-up se bleeding aur packing complications monitor hoti hain.
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
+
+**Clinical audit note (27 Nov 2026):** KAS4 packing material, removal schedule if needed, postprocedure care aur warning signs teach-back se confirm karne ko support karta hai. Persistent bleeding, breathing difficulty ya collapse mein urgent care seek karo.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -1177,6 +1197,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
 
+**Clinical audit note (27 Nov 2026):** Emergency ABC assessment, vital signs, airway suction/support as appropriate, venous access and resuscitation as ordered parallel ho sakte hain. Unstable patient ko unattended ambulate nahi karna chahiye.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1203,6 +1225,8 @@
 - **D. Kyun sahi hai:** Serial vision assessment se optic nerve ya ocular perfusion deterioration detect ho sakti hai. New reduction urgently report karni chahiye.
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/).
+
+**Clinical audit note (27 Nov 2026):** Compare acuity with prior reliable monocular baseline, pupil responses, motility and other ordered observations. New visual decline or RAPD urgently report karo because optic nerve compromise can be time-sensitive.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1231,32 +1255,36 @@
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/optic-neuritis).
 
+**Clinical audit note (27 Nov 2026):** Colour desaturation or brightness asymmetry optic nerve dysfunction ka useful clue hai; acuity, pupils and field examination specialist ke assessment ko complement karte hain. Symptom alone diagnosis establish nahi karta.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
 
-### Q44. A patient with recurrent nosebleeds reports easy bruising and relatives with similar bleeding. Which history element should be highlighted?
+### Q44. An adult with recurrent bilateral epistaxis and a family history of frequent nosebleeds is referred for assessment. Which examination finding should be specifically communicated as a clue to hereditary hemorrhagic telangiectasia?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Preferred nostril for breathing
-- **B.** A possible familial bleeding tendency requiring evaluation
-- **C.** Assume all recurrent bleeding is dry air
-- **D.** Assume unexplained bruising is always normal
+- **A.** An isolated deviation of the nasal septum
+- **B.** Multiple nasal or oral mucosal telangiectasias
+- **C.** A single superficial abrasion immediately after nose picking
+- **D.** Transient nasal congestion during an uncomplicated cold
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. A possible familial bleeding tendency requiring evaluation**
+**Correct answer: B. Multiple nasal or oral mucosal telangiectasias**
 
-- **A. Kyun galat hai:** Nostril preference familial bleeding explain nahi karti.
+- **A. Kyun galat hai:** Septal deviation local airflow aur irritation affect kar sakti hai, lekin HHT ke characteristic vascular lesions establish nahi karti.
 
-- **B. Kyun sahi hai:** Family history aur easy bruising systemic bleeding disorder ka clue ho sakte hain. Pattern document aur escalate karo.
+- **B. Kyun sahi hai:** HHT mein abnormal small blood vessels mucosa par telangiectasia ke form mein appear ho sakte hain. Recurrent bilateral bleeding aur family history ke saath ye finding further specialist diagnostic assessment support karti hai.
 
-- **C. Kyun galat hai:** Dryness possible hai lekin bruising aur family history ignore nahi karni.
+- **C. Kyun galat hai:** Abrasion traumatic bleeding explain kar sakti hai; hereditary vascular disorder ka specific clue nahi.
 
-- **D. Kyun galat hai:** Unexplained recurrent bruising clinically relevant ho sakti hai.
+- **D. Kyun galat hai:** Cold-related transient congestion common hai aur HHT ka characteristic diagnostic feature nahi.
 
-**Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
+**Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327).
+
+**Clinical audit note (27 Nov 2026):** Recurrent bilateral epistaxis ya family history of repeated nosebleeds mein AAO-HNS KAS12 nasal/oral mucosal telangiectasia assessment recommend karta hai for possible HHT. Positive findings ko diagnostic evaluation ke liye refer karo; family history alone diagnosis nahi.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -1285,6 +1313,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599818801757).
 
+**Clinical audit note (27 Nov 2026):** 2019 AAO-HNS guideline children younger than 3 years or those with severe OSA ke liye overnight inpatient monitoring recommend karta hai. Routine postoperative airway, bleeding and hydration observations follow karo.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1311,6 +1341,8 @@
 - **D. Kyun galat hai:** Lens polishing neurological deficit evaluate nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/optic-neuritis).
+
+**Clinical audit note (27 Nov 2026):** New weakness/numbness broader CNS involvement ka concern hai. Prompt medical/neuro evaluation and ophthalmic coordination arrange karo; evolving acute neurological deficit mein emergency pathway appropriate hai.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1339,6 +1371,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/optic-neuritis).
 
+**Clinical audit note (27 Nov 2026):** MRI orbits/brain selected protocol se optic nerve inflammation aur associated CNS abnormalities evaluate ki ja sakti hain. MRI findings clinical vision tests ka replacement nahi aur normal result disease ko automatically exclude nahi karta.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -1365,6 +1399,8 @@
 - **D. Kyun galat hai:** Tonsil size aur OSA severity always correlate nahi karte. Symptoms ko ignore karne se important sleep disorder miss ho sakta hai.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599818801757).
+
+**Clinical audit note (27 Nov 2026):** When reported obstructive sleep symptoms and physical findings disagree or need for tonsillectomy is uncertain, AAO-HNS KAS6 preoperative polysomnography support karta hai. Study objective respiratory events and gas exchange characterize karti hai.
 
 **YouTube MCQ practice:** Exact question verification pending.
 
@@ -1393,6 +1429,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599818801757).
 
+**Clinical audit note (27 Nov 2026):** AAO-HNS children younger than 12 years ke post-tonsillectomy codeine use ko prohibit karta hai; FDA restrictions post-tonsil/adenoid surgery mein adolescents tak broader hain. Is 8-year-old mein dose administer na karo; urgent prescriber review aur safe analgesia plan chahiye.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1419,6 +1457,8 @@
 - **D. Kyun sahi hai:** Right eye alone open hone par two images persist hain. Is pattern se right monocular diplopia suggest hoti hai, binocular misalignment alone nahi.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Basic_Approach_to_Diplopia).
+
+**Clinical audit note (27 Nov 2026):** Monocular diplopia persists when affected eye alone open hai, whereas binocular diplopia disappears when either eye is closed. Laterality verify karo aur new symptoms ka cause ophthalmic assessment se establish karo.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1447,6 +1487,8 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Basic_Approach_to_Diplopia).
 
+**Clinical audit note (27 Nov 2026):** New diplopia, sudden severe headache and anisocoria may indicate compressive third nerve pathology or another acute neurological emergency. Emergency pathway and safe transport needed; pupil signs alone cause prove nahi karte.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -1473,6 +1515,8 @@
 - **D. Kyun sahi hai:** Non-opioid medicines postoperative pain control mein useful hain. Individual contraindications aur prescribed dose check karo.
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599818801757).
+
+**Clinical audit note (27 Nov 2026):** 2019 AAO-HNS recommends ibuprofen, acetaminophen, or both as appropriate post-tonsillectomy. Contraindications, child-specific dosing/interval and bleeding signs check karo. Analgesia adequacy oral intake improve kar sakti hai.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -1501,6 +1545,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599818801757).
 
+**Clinical audit note (27 Nov 2026):** Obstructive sleep-disordered breathing can persist or recur after surgery. Caregiver report assess karo; ongoing follow-up or sleep reassessment individualized hai. Current respiratory distress or cyanosis emergency hai.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1528,6 +1574,8 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Basic_Approach_to_Diplopia).
 
+**Clinical audit note (27 Nov 2026):** Document gaze direction with maximum image separation plus onset, horizontal/vertical pattern and whether covering either eye resolves symptoms. New neurological symptoms need appropriate escalation; nurse independently lesion localize na kare.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -1553,7 +1601,9 @@
 
 - **D. Kyun galat hai:** JIA-associated uveitis intraocular inflammation hai, universal symptomatic infection nahi.
 
-**Clinical reference:** [Clinical guidance](https://www.aao.org/education/disease-review/pediatric-anterior-uveitis).
+**Clinical reference:** [Clinical guidance](https://www.aao.org/education/clinical-statement/ocular-screening-in-children-with-juvenile-idiopat).
+
+**Clinical audit note (27 Nov 2026):** JIA chronic anterior uveitis frequently silent ho sakti hai. Risk-based ophthalmic slit-lamp screening schedule rheumatology and ophthalmology team set kare, joint symptom control se screening cancel na karo.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1582,6 +1632,8 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng127/chapter/recommendations-for-adults-aged-over-16).
 
+**Clinical audit note (27 Nov 2026):** NICE NG127 acute vestibular syndrome mein trained HINTS examiner absent ho aur BPPV/postural hypotension symptoms explain na karein toh immediate stroke-pathway referral advise karta hai. HINTS self-test nahi hai; glucose and vital signs as indicated check karo without delaying escalation.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1609,6 +1661,8 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng127/chapter/recommendations-for-adults-aged-over-16).
 
+**Clinical audit note (27 Nov 2026):** Brief positional vertigo mein trained Hallpike assessment posterior-canal BPPV identify karne mein useful hai. Atypical nystagmus, neurological signs or contraindications mein alternate specialist pathway appropriate hai.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -1634,7 +1688,9 @@
 
 - **D. Kyun sahi hai:** Inflamed iris lens ke front capsule se chipak sakti hai. Isse pupil movement aur aqueous flow affect ho sakte hain.
 
-**Clinical reference:** [Clinical guidance](https://www.aao.org/education/disease-review/pediatric-anterior-uveitis).
+**Clinical reference:** [Clinical guidance](https://www.aao.org/education/clinical-statement/ocular-screening-in-children-with-juvenile-idiopat).
+
+**Clinical audit note (27 Nov 2026):** Posterior synechiae iris pupillary margin ko anterior lens capsule se attach kar sakti hain. Extensive adhesions pupillary block/secondary pressure rise ka risk create kar sakti hain. Anterior synechiae cornea/angle structures se involve hoti hain.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -1662,6 +1718,8 @@
 - **D. Kyun galat hai:** Nyctalopia dim light mein impaired vision hai. Consensual light-induced pain ko describe nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/eye-disorders/symptoms-of-ophthalmic-disorders/red-eye).
+
+**Clinical audit note (27 Nov 2026):** Consensual photophobia is pain in symptomatic eye when light enters fellow eye; pupillary response iris movement trigger kar sakta hai. Uveitis suspicion raise hoti hai but corneal and other painful red-eye causes need assessment; sign alone definitive diagnosis nahi.
 
 **YouTube MCQ practice:** Exact question verification pending.
 
@@ -1691,6 +1749,8 @@
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng98/chapter/Recommendations).
 
 **Referral safety:** Same-side facial sensory change ke saath acquired unilateral hearing loss immediate assessment (within 24 hours) maangti hai; suspected stroke mein local stroke pathway activate karo.
+
+**Clinical audit note (27 Nov 2026):** NICE NG98 acquired unilateral hearing deficit with same-side sensory change/facial droop mein immediate assessment within 24 hours recommend karta hai. Stroke suspected ho toh local stroke pathway; routine wax removal or audiology appointment se delay nahi.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -3326,9 +3386,9 @@
 
 ## Audit and allocation record
 
-- Follow-up audit: Q1–Q30 read in full (120 options and rationales); no answer key changes. Added 30 clinical clarifications with source access limits documented in the mock audit ledger. Q31–Q120 full option-level review remains pending.
+- Follow-up audit: Q1–Q60 read in full (240 options and rationales); keys unchanged. Added 60 clinical clarifications. Q35 and Q44 replaced with imaging-purpose and HHT-specific tasks after review of newer lacrimal bank and prior bleeding-task overlap, preserving allocation count. Q61–Q120 full option-level review remains pending.
 
-- Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Eight overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 24, 33, 37, 46, 60, 87, 104). Final Q14 and Q31 were replaced after comparison with Vitreous Hemorrhage Q8 and Q27, respectively. Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
+- Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Ten overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 22, 24, 33, 37, 46, 48, 60, 87, 104). Final Q14 and Q31 were replaced after comparison with Vitreous Hemorrhage Q8 and Q27, respectively. Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
 - Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. The remaining four topic banks (120 questions) were subsequently screened; two overlapping tasks were corrected. A fresh exact normalized stem check of the corrected 120-item assembled edition against all 974 questions in the 34 topic banks passed with zero exact matches. All 34 topic banks have undergone lexical candidate screening across versions, but exhaustive semantic comparison of the latest replacements, concept-embedded questions, reported adaptations and cross-chapter mocks remains pending. No guarantee of zero semantic duplicates.
 - Current reference rechecks: AAO-HNS 2019 sudden hearing loss and tonsillectomy, 2022 tympanostomy tubes, 2025 sinusitis, 2018 dysphonia, 2020 epistaxis; NICE NG98, EyeWiki September 2026 chemical injury and Merck red-eye guidance, NEI RP/Usher and NTSP red algorithm (page 1 visually checked). Added explicit sudden hearing loss referral timing, updated sinusitis watchful-waiting detail, repaired pediatric tonsillectomy links and added Usher-specific source. Full independent review of every rationale and Indian guidance pending. References and gap notes from source drafts remain part of evidence record.
 - Practice evidence: Q corresponding to old draft Q101 now has a specifically named RP/Usher video chapter marker; other existing leads are broad topic leads. Actual playback, transcripts and exact individual practice mappings remain unverified for all items. No invented timestamps.
