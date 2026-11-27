@@ -32,4 +32,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-anemia-20261127-unique. Scope: renal anemia concept, MCQ, SVG, reported evidence and chapter-local indexes. Claimed UTC: 2026-11-27T13:38:15.000Z. Expiry UTC: 2026-11-27T14:08:15.000Z. -->
