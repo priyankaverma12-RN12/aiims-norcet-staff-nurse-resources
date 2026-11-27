@@ -2,7 +2,9 @@
 
 **Study-ready, not studied.** [25 additional original MCQs](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md) + original Group 06 Q4,5,6,14,16 = 30 allocated. Injection site, angles and technique remain Group 19. Calculations remain Group 07. Medication-specific administration requires product instructions and authorized local policy.
 
-## Oral formulations
+<a name="oral-formulations"></a>
+
+## 🟠 Oral formulations
 
 🟠 **HIGH YIELD.** Route means drug body mein kis pathway se diya jaata hai. Formulation means drug ka physical preparation aur delivery design, e.g. tablet, suspension, capsule or patch. Same active ingredient hone se formulations interchangeable nahi ho jaati.
 
@@ -18,9 +20,11 @@
 
 Dysphagia mein liquid automatically safer nahi. Thin liquid bhi aspiration risk create kar sakti hai. Swallowing plan aur pharmacy advice ke according suitable formulation choose karo. Tablet splitting ke liye score line alone sufficient nahi. Some capsules open karna allowed hota hai but granules chew or crush nahi kar sakte. Hazardous drugs manipulate karne se staff exposure ho sakta hai, pharmacy-approved handling required. Oral liquid accurately measure karne ke liye graduated oral syringe use karo. Household spoon reliable nahi hai.
 
-[Q1–8](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md).
+[Q1–8](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md#q1-a-patient-with-newly-assessed-dysphagia-can-safely-swallow-only-prescribed-thickened-fluids-a-thin-liquid-medicine-is-available-what-should-the-nurse-do).
 
-## Enteral tube safety
+<a name="enteral-tube-safety"></a>
+
+## 🔴 Enteral tube safety
 
 🔴 **MOST IMPORTANT.** Tube tip location (gastric vs jejunal), tube patency, drug absorption site, formulation and feed interaction check karo. Tube placement verification prescribed protocol se karo. Drug enteral tube ke liye unsuitable ho toh alternative route ya formulation authorized clinician and pharmacist se arrange karo.
 
@@ -36,21 +40,29 @@ flowchart TD
 
 Separate medicines, prescribed water type and volume, enteral-specific syringe use karo. Feed container mein medicine mix karna dose delivery uncertain bana sakta hai. Fluid restriction mein flush omit mat karo, safe individual volume agree karke intake record karo. Resistance ho toh force mat karo. Blockage protocol follow karo. Feed break drug-specific hota hai, every drug ke liye long break necessary nahi. Enteral and IV connector incompatibility wrong-route errors prevent karne ke liye useful design barrier hai.
 
-[Q9–14](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md).
+[Q9–14](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md#q9-a-patient-with-a-feeding-tube-is-prescribed-a-drug-absorbed-mainly-in-the-stomach-or-proximal-intestine-the-tube-terminates-in-the-jejunum-what-is-appropriate).
 
-## Topical and transdermal
+<a name="topical-and-transdermal"></a>
+
+## 🟠 Topical and transdermal
+
+🟠 **HIGH YIELD.**
 
 Topical application usually local treatment target karti hai, but systemic absorption possible hai. Inunction means medicine ko prescribed way mein skin par rub karna. Transdermal system skin ke through sustained systemic delivery ke liye designed ho sakta hai. Local cream aur systemic patch automatically interchangeable nahi.
 
 Patch ke product-specific instructions check karo: site, skin condition, replacement schedule, old patch removal, disposal, external heat, MRI compatibility and detachment. Fentanyl patch par external heat avoid karo because increased absorption overdose risk cause kar sakti hai. Patch cut karna routine safe practice nahi. MRI mein some patches metal-containing hote hain, specific product and MRI team se removal/replacement plan confirm karo. Used patch mein residual medicine ho sakti hai, children and pets se safely away dispose karo. Detachment ke liye extra patch automatically mat apply karo.
 
-[Q15–20](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md).
+[Q15–20](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md#q15-a-patient-prescribed-a-topical-cream-for-a-small-skin-lesion-asks-whether-a-transdermal-patch-can-replace-it-which-response-is-appropriate).
 
-## Route-specific decisions
+<a name="route-specific-decisions"></a>
+
+## 🟠 Route-specific decisions
+
+🟠 **HIGH YIELD.**
 
 Oral medicine ka food timing drug-specific hai. Vomiting after administration mein absorbed dose uncertain ho sakti hai. Full dose automatically repeat mat karo, timing and formulation review karke authorized decision lo. Rectal administration mein indication, product and patient-specific contraindications check karo. Oral to parenteral conversion mein dose same hona necessary nahi because absorption and first-pass metabolism vary karte hain. Prescriber and pharmacist conversion verify karte hain.
 
-[Q21–25](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md).
+[Q21–25](../MCQs/06B-Medication-Routes-and-Formulations-25-MCQs.md#q21-a-patient-takes-a-medicine-whose-label-requires-administration-on-an-empty-stomach-which-action-best-supports-effectiveness).
 
 ## 📖 References and practice
 
@@ -60,3 +72,15 @@ Oral medicine ka food timing drug-specific hai. Vomiting after administration me
 - Teaching: [Level Up RN, Routes of administration](https://www.youtube.com/watch?v=UVKl8uX6vUA), indexed oral, NG/G-tube, sublingual, transdermal content. [Adda247 Nursing drug administration](https://www.youtube.com/watch?v=v1t6-BMsL08), indexed general routes teaching.
 - Dedicated practice lead: [NORCET 10 MCQ marathon](https://www.youtube.com/watch?v=IKr6dpLQfk4), indexed chapter 56:39 routes of drug administration. Channel and actual question coverage not verified. Not a confirmed specific match for Q1–25. All specific video mappings pending.
 - [Reported exam adaptations](../Previous-Year-Questions/06B-Routes-Reported-Evidence.md).
+
+
+## ▶️ Evidence and practice update — 27 November 2026
+
+| Subsection | Source and practice status |
+|---|---|
+| Oral formulations Q1–8 | **[🟣 RRB Nursing Superintendent 29 April 2025 Shift 2 — related tested concept only](https://testbook.com/question-answer/which-of-the-following-is-not-the-solid-form-for-a--681c827b99ed7f6194df3b39)**. Retrieved third-party report distinguishes liquid from solid oral forms. No exact match to these clinical scenarios. Specific MCQ practice pending. |
+| Enteral tube safety Q9–14 | Specific MCQ practice pending. |
+| Topical and transdermal Q15–20 | HPSSC 2020 and HSSC 2023 existing indexed reports remain provisional. Direct retrieval failed. Specific MCQ practice pending. |
+| Route-specific decisions Q21–25 | **▶️ [ADAPT NCLEX REVIEW — rectal suppository MCQ practice](https://www.youtube.com/watch?v=UD-vn2-tR8Y&t=2272s)**, published chapter 37:52, Q23 topic-level only. Exact scenario and playback pending. Other four items remain pending. |
+
+The existing NORCET 10 marathon route chapter at 56:39 is indexed, but specific question coverage and playback remain unverified. No official keys authenticated. [Evidence register](../Previous-Year-Questions/06B-Routes-Reported-Evidence.md).
