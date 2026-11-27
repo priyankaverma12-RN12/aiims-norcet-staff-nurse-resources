@@ -745,10 +745,24 @@ Food allergy severe reaction cause kar sakti hai. Nurse label aur allergy histor
 
 **Correct: D. 46 mmHg**
 
-Pulse pressure systolic minus diastolic BP hota hai. 118 minus 72 = 46 mmHg.
+<!-- job5-rationale -->
+Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Systolic pressure ventricular contraction ke phase mein arterial peak pressure hai aur diastolic relaxation/filling ke dauran lower pressure hai. Formula PP = SBP − DBP. Given 118 − 72 = 46 mmHg. Pulse pressure stroke volume aur arterial compliance se related ho sakta hai, lekin one value se specific disease diagnose nahi karte.
 
-**Baaki options kyun sahi nahi hain?** 72 diastolic value hai. 95 approximate simple average hai. 190 sum hai.
+**Option-by-option reasoning**
 
+- **A:** 72 mmHg diastolic pressure hai.
+- **B:** 95 mmHg correct difference nahi hai. Arithmetic average bhi 95 hoti hai, pulse pressure nahi.
+- **C:** 190 mmHg systolic aur diastolic ka sum hai.
+- **D:** 46 mmHg correct subtraction hai.
+
+**Exam clue:** Pulse pressure = top number minus bottom number.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493197/)
+
+**🟣 Related concept — RRB Staff Nurse, 20 July 2019, Shift III:** [Retrieved third-party report](https://testbook.com/question-answer/difference-between-systolic-and-diastolic-blood-pr--61ae0a37e2873c66b1ab5ef4). Tests pulse-pressure definition, not this exact calculation. Official key not authenticated.
+
+**▶️ Additional MCQ-series practice lead:** [NORCET 10 Complete FON Revision](https://www.youtube.com/watch?v=_H8D1ifrqHk&t=4962s) · Published chapter 01:22:42 pulse deficit and pulse pressure. Topic-level description only, exact MCQ and playback pending. Not historical NORCET evidence.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1432,10 +1446,22 @@ Reverse Trendelenburg mein whole bed tilt hoti hai aur head feet se higher hota 
 
 **Correct: D. 60 mmHg**
 
-MAP ka common estimate diastolic BP plus one-third pulse pressure hai. 48 + (84 minus 48)/3 = 60 mmHg. Low value ko perfusion findings ke saath assess karna chahiye.
+<!-- job5-rationale -->
+Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka estimate hai. Ordinary resting rate par diastole zyada duration leta hai, isliye simple arithmetic average use nahi karte. Formula MAP ≈ DBP + (SBP − DBP)/3, equivalent to (SBP + 2 × DBP)/3. First PP = 84 − 48 = 36 mmHg. One third = 12. MAP ≈ 48 + 12 = 60 mmHg. Low BP aur MAP ko patient perfusion, mental status, urine output aur clinical context ke saath urgently assess karo. Formula extreme heart rates mein less accurate ho sakta hai.
 
-**Baaki options kyun sahi nahi hain?** 36 pulse pressure hai. 66 simple mean hai. 132 sum hai.
+**Option-by-option reasoning**
 
+- **A:** 66 mmHg simple arithmetic average (84+48)/2 hai, standard approximation nahi.
+- **B:** 132 mmHg SBP+DBP sum hai.
+- **C:** 36 mmHg pulse pressure hai, MAP nahi.
+- **D:** 60 mmHg correct weighted estimate hai.
+
+**Exam clue:** MAP ≈ DBP + PP/3. Do not confuse with pulse pressure.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493197/)
+
+**▶️ Additional MCQ-series practice lead:** [NORCET 10 Complete FON Revision](https://www.youtube.com/watch?v=_H8D1ifrqHk&t=5508s) · Published chapter 01:31:48 MAP and BP errors. Topic-level description only, exact MCQ and playback pending. Not historical NORCET evidence.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [UP NHM Staff Nurse 2021 · Shift I](https://testbook.com/question-answer/the-formula-for-calculating-mean-arterial-pressure--62db9ea9e5c26dc612394d97) — MAP formula topic; source typography lacks clear parentheses; use (SBP + 2 × DBP)/3 at ordinary resting rate, not literal unparenthesized expression; retrieved third-party report, not an exact match or authenticated official key.
@@ -1652,10 +1678,20 @@ Professional accountability mein competence limits recognize karna important hai
 
 **Correct: A. Allow appropriate rest, repeat with correct technique and assess symptoms**
 
-Exercise temporarily BP change kar sakta hai. Standardized rest aur correct cuff se repeat reading useful hai. Severe readings ya symptoms urgent assessment maang sakte hain.
+<!-- job5-rationale -->
+Stairs climb karne ke baad sympathetic response aur increased cardiac demand temporarily BP badha sakti hai. Stable patient mein appropriate rest ke baad correct-size cuff aur supported heart-level arm se repeat measurement karo. Standard routine measurement ke liye exercise se lagbhag 30 minutes gap aur kam se kam 5 minutes quiet rest desirable hain. Symptoms, previous trend aur relevant clinical context assess karo. Severe reading with concerning symptoms ho toh rest ke naam par urgent assessment delay mat karo.
 
-**Baaki options kyun sahi nahi hain?** Single post-exercise reading chronic diagnosis establish nahi karti. Ignore karna inappropriate hai. Small cuff falsely high result de sakta hai.
+**Option-by-option reasoning**
 
+- **A:** transient effect aur technique validate karta hai, patient ko assess bhi karta hai.
+- **B:** single post-exercise reading chronic hypertension confirm nahi karti.
+- **C:** smaller cuff further falsely elevated measurement cause kar sakta hai.
+- **D:** permanently ignore karne se true persistent high BP miss ho sakti hai.
+
+**Exam clue:** Rest, correct technique, repeat and interpret context.
+
+[Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1725,10 +1761,20 @@ Procedures ke baad activity, diet ya device care instructions change ho sakti ha
 
 **Correct: C. Use of accessory neck muscles during respiration**
 
-Accessory muscles ka use nurse observe kar sakti hai aur ye increased work of breathing ka sign ho sakta hai.
+<!-- job5-rationale -->
+Accessory respiratory muscles jaise sternocleidomastoid ya scalene muscles visible use hona increased work of breathing ka objective clue ho sakta hai. Normal quiet breathing mainly diaphragm aur intercostal muscles se hoti hai. Nurse effort, respiratory rate, oxygenation, speech, mental status aur other signs assess kare. New severe effort par prompt escalation zaroori hai. Patient-reported dyspnea bhi clinically important hai, lekin subjective data hai.
 
-**Baaki options kyun sahi nahi hain?** Breathlessness report subjective hai. Blanket preference aur hunger respiratory effort ke objective signs nahi hain.
+**Option-by-option reasoning**
 
+- **A:** blanket preference breathing assessment finding nahi.
+- **B:** hunger subjective report hai aur breathing effort ka sign nahi.
+- **C:** visible neck muscle recruitment directly observable sign hai.
+- **D:** breathing discomfort subjective report hai, objectively observed sign nahi.
+
+**Exam clue:** Objective respiratory sign = visible effort, not only reported discomfort.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
