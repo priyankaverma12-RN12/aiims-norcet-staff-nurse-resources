@@ -58,9 +58,10 @@
 | [Incident reporting and quality management](04D-Incident-Reporting-and-Quality-Management-26-MCQs.md) | 26 | 30 |
 | [Environmental and equipment safety](04E-Environmental-and-Equipment-Safety-26-MCQs.md) | 26 | 30 |
 | [Bedside sterile-field clinical judgment](05A-Bedside-Sterile-Field-Clinical-Judgment-26-MCQs.md) | 26 | 30 |
-| [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) | 20 | 20/30 partial |
+| [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) | 30 | 30 |
+| [Medication verification and error prevention](06A-Medication-Verification-and-Error-Prevention-22-MCQs.md) | 22 | 30 |
 
-Current inventory **1,021 original question slots** (433 Medium, 588 Difficult), initial 600 + 421 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,053 original question slots** (446 Medium, 607 Difficult), initial 600 + 453 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -80,8 +81,10 @@ Group 04C: original Q10 plus 29 new = 30 allocated. [Reported evidence](../Previ
 
 Group 04D: earlier Q5, Q6, Q17 and Q20 plus 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04D-Incident-Quality-Reported-Evidence.md). Seven original Group 04 items remain reserved once: Q7,8,9,12,14,16,18.
 
-Group 04E: original Q7, Q8, Q9 and Q14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md). Group 04 has five individual allocations of 30 each. Reserve Q12 for medication safety, Q16 feeding safety and Q18 clinical escalation without counting them twice. Full semantic and clinical audit pending.
+Group 04E: original Q7, Q8, Q9 and Q14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md). Group 04 has five individual allocations of 30 each. Q12 now allocated once to 06A medication verification. Reserve Q16 feeding safety and Q18 clinical escalation without counting them twice. Full semantic and clinical audit pending.
 
 Group 05A: original Group 05 Q4,5,13,14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md). Remaining 16 initial Group 05 questions reconciled in [cross-chapter allocation](../Concepts/05-IPC-Cross-Chapter-Allocation.md): 15 linked to sibling IPC topics and Q18 reserved once for catheter scope. No additional cross-chapter authorship counts. Full semantic review pending.
 
-Group 05B isolation care continuity: 20 new original slots, 20/30 partial target, no legacy slots added. [Concepts](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md) · [Evidence gaps](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Further distinct scenarios and full semantic audit pending, no padding.
+Group 05B isolation care continuity: 30 new original slots, 30/30 initial numerical target, no legacy slots added. Filename retained. [Concepts](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md) · [Evidence gaps](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Full semantic, clinical and video audit pending.
+
+Group 06A: 22 new originals + Group 06 Q1,2,3,10,12,18,19 and Group 04 Q12 = 30 allocated. Remaining 13 original Group 06 slots reserved once for medication routes, formulation, monitoring, calculations or related later groups. [Concepts](../Concepts/06A-Medication-Verification-and-Error-Prevention.md) · [Reported evidence](../Previous-Year-Questions/06A-Medication-Safety-Reported-Evidence.md).
