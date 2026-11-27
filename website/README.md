@@ -8,7 +8,7 @@ Select answers, clear, jump, submit or let the countdown expire. A suggested sou
 
 ## Preview and regression tests
 
-From the repository root on the preview branch, run `python -m http.server 8000` and open http://localhost:8000/website/. Internet is required for live Markdown, directory API and pinned CDN renderer and sanitizer. Anonymous API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js` and `node website/quiz.test.cjs`.
+From the repository root on the preview branch, run `python -m http.server 8000` and open http://localhost:8000/website/. Internet is required for live Markdown, directory API and pinned CDN renderer and sanitizer. Anonymous API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js` `node website/quiz.test.cjs` and `node website/navigation.test.cjs`.
 
 ## GitHub Pages deployment checklist
 
@@ -36,3 +36,10 @@ The manual Pages workflow now runs the Node regression checks and `python websit
 The exact remote parser and score functions passed all eight regression assertions again at checkpoint a1a7cf722f8ce3cf60e60c61a29697ae9ba14eec.
 
 Saved-attempt validation passed four additional function-level checks for valid data, invalid choice, invalid position and changed source key. Browser resume still requires execution of the integration gate.
+
+## Follow-up verification — 27 November 2026
+
+- Re-fetched all 35 chapter README paths on main; all readable.
+- Saved-attempt validation and score regression suite passed (16 assertions on remotely fetched script). Navigation helper checks passed (12 Node assertions on a local copy of the helper). The manual deployment workflow now runs both regression suites against checked-out source.
+- Relative directory links, same-repository absolute GitHub links, spaces in filenames, and rejection of path traversal are handled in the new navigation code.
+- Previous desktop/mobile Chromium component results above are retained. The newly added persistence UI and live website were not retested in Chromium this run. External DNS access remains blocked here. The Pages workflow was prepared, not run. The root README link remains proposed until the actual deployment URL is verified.
