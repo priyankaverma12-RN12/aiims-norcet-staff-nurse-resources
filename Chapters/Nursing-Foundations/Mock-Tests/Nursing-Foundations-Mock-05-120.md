@@ -1204,9 +1204,20 @@ Unconscious patient oral intake aspirate kar sakta hai. Nurse airway support aur
 
 **Correct: A. Antisepsis**
 
-Antiseptic living tissue par microorganisms reduce karne ke liye use hota hai. Product aur site ke instructions follow karna chahiye.
+<!-- job5-rationale -->
+Antisepsis mein living skin ya tissue par suitable antimicrobial preparation apply karte hain taaki microorganisms reduce ho. Product site, age, allergies aur procedure ke according choose hota hai. Required application aur drying instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Sterilization living skin par practical goal nahi hai. Incineration burning hai. Fumigation environmental process hai.
+**Option-by-option reasoning**
+
+- **A:** Antisepsis living skin par microbial load reduce karti hai.
+- **B:** Living tissues ko sterilize karna routine clinical goal nahi hai aur tissue damage ho sakta hai.
+- **C:** Incineration waste ko burn karne ka process hai.
+- **D:** Fumigation environmental treatment hai, living skin preparation nahi.
+
+**Exam clue:** Antiseptic = living tissue, disinfectant = inanimate surface.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1551,9 +1562,20 @@ Healthcare evidence aur procedures time ke saath update hote hain. Continuing le
 
 **Correct: C. Keep the surface wet for the required time according to product instructions**
 
-Disinfectant ko microbes par act karne ke liye specified time aur concentration chahiye. Nurse manufacturer aur facility instructions follow karti hai.
+<!-- job5-rationale -->
+Disinfectant ko organisms par effective action ke liye manufacturer-specified concentration aur wet contact time chahiye. Soil pehle remove karo as instructed aur surface required duration tak wet rakho. PPE, ventilation aur material compatibility check karo.
 
-**Baaki options kyun sahi nahi hain?** Immediate drying contact time reduce kar sakti hai. Arbitrary dilution ineffective ho sakti hai. Chemical mixing hazardous ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Immediate wiping se disinfectant ko required action time nahi milta.
+- **B:** Unapproved mixing se toxic reaction ya product inactivation ho sakti hai.
+- **C:** Required wet contact time complete karna disinfection effectiveness support karta hai.
+- **D:** Arbitrary dilution se active concentration insufficient ho sakti hai.
+
+**Exam clue:** Contact time means surface remains wet for specified duration.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -2021,9 +2043,20 @@ Hypertonic saline extracellular tonicity aur sodium change kar sakti hai. Rate, 
 
 **Correct: D. Use aseptic insertion technique and sterile equipment by trained staff**
 
-Urinary catheter bladder tak microorganisms introduce kar sakta hai. Aseptic insertion aur sterile equipment risk reduce karte hain. Hand hygiene aur closed drainage bhi important hain.
+<!-- job5-rationale -->
+Indwelling catheter urethra se bladder tak route create karta hai. Acute-care insertion mein trained staff hand hygiene, aseptic technique aur sterile equipment use karte hain. Insertion ke baad closed drainage maintain karo aur daily necessity review karo taaki catheter-associated UTI risk kam ho.
 
-**Baaki options kyun sahi nahi hain?** Opened equipment contaminated ho sakta hai. Gloves hand hygiene replace nahi karti. Routine disconnection infection risk badhati hai.
+**Option-by-option reasoning**
+
+- **A:** Previously opened catheter ki sterility reliable nahi hai.
+- **B:** Routine drainage disconnection microorganisms ke entry pathway create kar sakti hai.
+- **C:** Sterile gloves hand hygiene replace nahi karti.
+- **D:** Sterile equipment aur aseptic insertion critical infection prevention steps hain.
+
+**Exam clue:** Acute care catheter = aseptic insertion, closed drainage, early removal.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -2579,9 +2612,20 @@ Anticoagulation bleeding risk badha sakti hai. Nurse hematoma size, pain aur cir
 
 **Correct: C. Clean hands immediately before preparing to access a vascular line**
 
-Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se protect karti hai. Line access se pehle appropriate technique needed hai.
+<!-- job5-rationale -->
+WHO Moment 2 clean ya aseptic procedure se immediately pehle hand hygiene hai. Vascular line access mein microorganisms directly bloodstream tak pahunch sakte hain. Hand hygiene ke baad approved hub antisepsis aur no-touch technique follow karo.
 
-**Baaki options kyun sahi nahi hain?** End-of-shift cleaning insufficient hai. Prior cleaning ke baad recontamination possible hai. Used gloves transfer risk badhati hain.
+**Option-by-option reasoning**
+
+- **A:** Shift ke end mein cleaning earlier aseptic tasks protect nahi karti.
+- **B:** Previous patient's gloves organisms carry kar sakti hain.
+- **C:** Line access se immediately pehle cleaning Moment 2 ko represent karti hai.
+- **D:** Contaminated dressing ke baad cleaning important hai, lekin next aseptic task se pehle bhi indicated hygiene zaroori hai.
+
+**Exam clue:** Moment 2 protects patient before an aseptic task.
+
+[Clinical reference](https://www.who.int/publications/m/item/five-moments-for-hand-hygiene)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [NCL Staff Nurse, November 2020](https://testbook.com/question-answer/for-infection-prevention-what-will-you-do--619d0a28c25138d98f6ce69e) — retrieved third-party report on hand hygiene around patient care; related tested concept only, not an exact match or authenticated official key.
