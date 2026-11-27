@@ -1796,7 +1796,7 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 ### Q55. Before radial arterial sampling, the clinician performs a modified Allen test. What circulation is primarily being assessed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original) · **🟣 AIIMS NORCET 2020 — related concept (reported)**
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original) · **⚪ AIIMS NORCET 2020 — related ABG source, Allen test appearance unverified**
 
 - **A.** Pulmonary arterial perfusion directly
 - **B.** Collateral hand perfusion through the ulnar artery
