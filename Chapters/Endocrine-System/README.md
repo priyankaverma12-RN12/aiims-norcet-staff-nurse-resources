@@ -23,14 +23,12 @@ Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare
 🟢 **FOUNDATION** — gland location, hormones, feedback. Priority labels study estimates hain, official weightage nahi.
 
 ## 📖 Start here
-| Study part | Open |
-|---|---|
-| 8 detailed concept files, disease-wise nursing care, diagnostics and diagrams | [📚 All 8 concept files](Concepts/Endocrine-System-Master-Guide.md) |
-| Topic-wise questions — 113 | [📝 Topic-wise MCQs](MCQs/Endocrine-Topic-Wise.md) |
-| Three mixed mocks — 25 | [🎯 Mixed mock practice](MCQs/Endocrine-Mixed-Mocks.md) |
-| 26 source-linked adapted question entries across NORCET / PGIMER / HP / ESIC / CHO | [🏥 Previous Year Questions](Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) |
-| Rapid review, emergency clues and values | [⚡ Quick revision](Revision/Endocrine-Quick-Revision.md) |
-| Clinical and community sources | [🔎 References](References.md) |
+- **8 detailed concept files, disease-wise nursing care, diagnostics and diagrams** — [📚 All 8 concept files](Concepts/Endocrine-System-Master-Guide.md)
+- **Topic-wise questions — 113** — [📝 Topic-wise MCQs](MCQs/Endocrine-Topic-Wise.md)
+- **Three mixed mocks — 25** — [🎯 Mixed mock practice](MCQs/Endocrine-Mixed-Mocks.md)
+- **26 source-linked adapted question entries across NORCET / PGIMER / HP / ESIC / CHO** — [🏥 Previous Year Questions](Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)
+- **Rapid review, emergency clues and values** — [⚡ Quick revision](Revision/Endocrine-Quick-Revision.md)
+- **Clinical and community sources** — [🔎 References](References.md)
 
 **Earlier practice: 138 original entries** (113 topic-wise + 25 mock), including 24 new clinical/community applications. Existing stems/options retained; legacy revision questions sometimes test the same concept. Not claimed as 138 semantically unique questions or official PYQs. All entries unattempted.
 

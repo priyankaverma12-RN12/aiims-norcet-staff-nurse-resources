@@ -1,5 +1,7 @@
 # ❤️ Cardiovascular System — NORCET & Staff Nurse
 
+[Repository home](../../README.md) · [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [MCQs](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [Previous Year Questions](Previous-Year-Questions/README.md) · [Revision](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) · [References](References.md)
+
 ## 🎯 New NORCET-level practice — 52 original questions
 
 Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare 20 questions attempt karo. Answers baad mein kholo. Ye naye questions hain aur abhi attempt nahi hue hain.
@@ -13,8 +15,6 @@ Pehle concept padho, phir topic-wise questions solve karo. Mock mein pehle saare
 
 **Dhyan de:** English questions aur options, Medium/Difficult level, hidden answers, simple Hinglish mein correct aur har wrong option ka reason. Ye original practice hai, official Previous Year Questions nahi. Purane questions preserve kiye gaye hain. Similar important concepts alag case mein revise ho sakte hain.
 
-
-[Repository home](../../README.md) | [Concepts](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [MCQs](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Previous Year Questions](Previous-Year-Questions/README.md) | [Revision](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) | [References](References.md)
 
 Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, pericardium aur cardiac muscle basics padhe hain. Chambers, valves, septum, great vessels aur auscultation basics bhi cover hue hain. Practice in progress hai.
 

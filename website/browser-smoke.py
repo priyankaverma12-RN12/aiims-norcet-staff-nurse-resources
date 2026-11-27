@@ -2,7 +2,7 @@
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from functools import partial
 from pathlib import Path
-import json, tempfile
+import json, tempfile, os, mimetypes
 from threading import Thread
 from urllib.parse import urljoin, urlencode
 from playwright.sync_api import sync_playwright, expect
@@ -12,6 +12,26 @@ server = ThreadingHTTPServer(("127.0.0.1", 0), partial(SimpleHTTPRequestHandler,
 Thread(target=server.serve_forever, daemon=True).start()
 base = f"http://127.0.0.1:{server.server_port}/"
 sample = "Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md"
+
+def configure_source(context):
+    if os.environ.get("NURSING_TEST_LOCAL_SOURCE") != "1":
+        return
+    root = site.parent.resolve()
+    from urllib.parse import unquote, urlsplit
+    prefix = "/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/main/"
+    def local_raw(route):
+        path = unquote(urlsplit(route.request.url).path)
+        if not path.startswith(prefix):
+            route.abort()
+            return
+        source = (root / path[len(prefix):]).resolve()
+        if not source.is_relative_to(root) or not source.is_file():
+            route.fulfill(status=404, headers={"Access-Control-Allow-Origin":"*"}, body="Missing checkout source")
+            return
+        mime = mimetypes.guess_type(source.name)[0] or "text/plain"
+        route.fulfill(status=200, content_type=mime, headers={"Access-Control-Allow-Origin":"*"}, body=source.read_bytes())
+    context.route("https://raw.githubusercontent.com/**", local_raw)
+    context.route("https://api.github.com/repos/**/contents/**", lambda route: route.abort())
 
 def ready(page):
     expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"), timeout=30000)
@@ -24,6 +44,7 @@ try:
     with sync_playwright() as p:
         browser = p.chromium.launch()
         desktop = browser.new_context(viewport={"width": 1440, "height": 900})
+        configure_source(desktop)
         page = desktop.new_page()
         page.goto(base)
         cards = page.locator("#chapters .chapter")
@@ -32,6 +53,7 @@ try:
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
         expect(page.locator("#chapter-total")).to_have_text(str(count))
         assert page.locator(".chapter-group").count() >= 8
+        expect(page.locator("#chapters .chapter").filter(has_text="Nervous System (preserved package)")).to_have_count(1)
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
         expect(cards).to_have_count(1)
@@ -49,13 +71,28 @@ try:
         shortcuts=page.locator(".chapter-links a").evaluate_all("(links) => links.map(a => a.href)")
         for href in shortcuts:
             target=parse_qs(urlsplit(href).query)["doc"][0].rstrip("/")
-            assert target in catalog_at_start["directories"], f"Missing navigation target: {target}"
+            parent, name = target.rsplit("/", 1)
+            assert target in catalog_at_start["directories"] or any(
+                f["name"] == name and f["type"] == "file"
+                for f in catalog_at_start["directories"].get(parent, [])
+            ), f"Missing navigation target: {target}"
         print(f"All {len(shortcuts)} chapter resource shortcuts match real repository folders.",flush=True)
         no_overflow(page)
         for href in hrefs:
             page.goto(href)
             ready(page)
-        print(f"All {count} chapter pages loaded in Chromium", flush=True)
+            no_overflow(page)
+        print(f"All {count} chapter pages loaded in Chromium without desktop horizontal overflow", flush=True)
+        # A navigation-only fixture checks responsive resource cards and site-local return links.
+        assert page.evaluate("""() => {
+            const holder=document.createElement('div');
+            renderQuiz(holder,'# Fixture\\n\\n| Section | Open |\\n|---|---|\\n| Concepts | [Read concepts](Concepts) |\\n| Home | [Repository home](../../README.md) |',
+                       'Chapters/Nursing-Foundations/README.md');
+            const links=[...holder.querySelectorAll('a')];
+            return holder.querySelectorAll('.navigation-resource-list > li').length===2 &&
+                   links[0].getAttribute('href').includes(encodeURIComponent('Chapters/Nursing-Foundations/Concepts/')) &&
+                   links[1].getAttribute('href')==='./#library';
+        }"""), "Navigation card or return link regression"
         # A chapter overview uses Assets/... relative to its own directory.
         page.goto(base + "?" + urlencode({"doc":"Chapters/Respiratory-System/README.md"}))
         ready(page)
@@ -197,6 +234,7 @@ try:
         desktop.close()
         for width, height in [(320, 720), (390, 844), (430, 932), (768, 1024), (844, 390)]:
             ctx = browser.new_context(viewport={"width": width, "height": height}, is_mobile=True, has_touch=True)
+            configure_source(ctx)
             mobile = ctx.new_page()
             mobile.goto(base)
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
