@@ -42,3 +42,5 @@
 
 
 - [Group 05B isolation care continuity historical evidence gaps](05B-Isolation-Care-Reported-Evidence-Gaps.md): RMLIMS and RRB indexed leads could not be directly retrieved and do not establish the narrow tested concept. NVS broad IPC lead reserved. Zero new counted adaptations, count remains 34 pending cumulative overlap and official authentication.
+
+- [Group 06A medication verification and error prevention](06A-Medication-Safety-Reported-Evidence.md): independent adaptations of HSSC Staff Nurse 2019 held 25 July 2021 and RRB Nursing Superintendent 12 March 2026 Shift 3. Full indexed question extracts inspected, direct page opens failed. No official key authentication, count remains 34 pending overlap and verification. Existing NORCET identity adaptation cross-referenced without duplicate authorship. RRB pediatric weight lead reserved for Group 07.
