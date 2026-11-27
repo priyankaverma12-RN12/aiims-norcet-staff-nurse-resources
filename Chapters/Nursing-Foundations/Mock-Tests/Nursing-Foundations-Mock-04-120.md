@@ -632,7 +632,9 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 ### Q30. Which part of a SOAP note contains the patient's own report of symptoms?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+<!-- /job4-metadata -->
 
 - **A.** Objective
 - **B.** Plan
@@ -647,6 +649,16 @@ SOAP mein S patient-reported symptoms record karta hai. O observed findings, A c
 
 **Baaki options kyun sahi nahi hain?** Objective measured findings hain. Assessment interpretation hai. Plan future care steps hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q16](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q16-which-part-of-a-soap-note-contains-the-patients-own-report-of-symptoms)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q16](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -1861,7 +1873,9 @@ Route batata hai drug oral, IV, IM ya other method se deni hai. Route change se 
 
 ### Q87. Which instruction best applies teach-back before discharge?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Sign here without asking questions
 - **B.** Repeat my exact words without demonstrating
@@ -1876,6 +1890,16 @@ Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha
 
 **Baaki options kyun sahi nahi hain?** Yes-no question actual skill confirm nahi karta. Signature understanding prove nahi karti. Rote repetition practical skill se different hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q14](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q14-which-instruction-best-applies-teach-back-before-discharge)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q14](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2199,7 +2223,9 @@ Serous drainage clear ya straw-colored watery fluid hoti hai. Amount aur change 
 
 ### Q103. A nurse discovers that a fall occurred without apparent injury. What should be recorded in the patient's clinical chart?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application · **🟣 SGPGI Staff Nurse 2024 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Only the confidential incident report number instead of clinical findings
 - **B.** No entry because no injury is visible
@@ -2214,6 +2240,16 @@ Fall ke baad hidden injury possible hai. Nurse assessment, action aur communicat
 
 **Baaki options kyun sahi nahi hain?** Incident report clinical documentation replace nahi karti. Blame speculation inappropriate hai. No visible injury documentation ki need remove nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q8, ID 34](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q13](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q13-a-nurse-discovers-that-a-fall-occurred-without-apparent-injury-what-should-be-recorded-in-the-patients-clinical-chart)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q13](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2325,7 +2361,9 @@ Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse pati
 
 ### Q109. A patient expresses anger about a long wait. Which response is most therapeutic?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Acknowledge the frustration and explain what can be done next
 - **B.** Promise a result that cannot be guaranteed
@@ -2340,6 +2378,16 @@ Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear
 
 **Baaki options kyun sahi nahi hain?** Argument anger badha sakta hai. Unrealistic promise misleading hai. Ignoring concern trust reduce karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q15](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q15-a-patient-expresses-anger-about-a-long-wait-which-response-is-most-therapeutic)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q15](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
