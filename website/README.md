@@ -14,3 +14,7 @@ The source-key parser, negative marking, countdown, expiry, saved-attempt valida
 Serve the repository locally with `python -m http.server 8000` and open http://localhost:8000/website/. Internet access is required for live Markdown and the pinned Markdown/sanitizer libraries. Anonymous GitHub directory API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js`, `node website/quiz.test.cjs`, and `python website/browser-smoke.py` after installing Playwright Chromium.
 
 The existing Pages workflow runs the browser gate before deploying website/ from main. It checks actual source navigation, real diagram loading, scoring, hidden answers, bookmarks, timer expiry and responsive layouts. The premium UI adds search, group filtering and recent-reading checks. The previous production build passed all 35 chapter pages and the live homepage check in run 46013632909. Verify a new run before claiming the premium build is live. No other jobs or study files should change.
+
+## Mobile-first refinement
+
+Phone and touch layouts use 44px minimum key control targets, 52px answer rows, 16px form text, responsive resource shortcuts, and horizontally scrollable study tables. The deployment gate now checks five emulated touch viewports (320, 390, 430, 768 and 844px wide), including phone landscape and tablet, along with search, persisted theme, answer controls and timer expiry. These are emulation tests, not physical-device certification.
