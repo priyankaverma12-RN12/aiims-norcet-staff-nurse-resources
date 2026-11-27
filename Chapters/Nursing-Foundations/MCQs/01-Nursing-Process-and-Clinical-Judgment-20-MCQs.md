@@ -149,16 +149,16 @@ Objective data woh finding hai jo nurse examination, observation ya measurement 
 **Correct: C. Impaired oxygenation**
 
 <!-- job5-rationale -->
-Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing compromise ka signal ho sakte hain. Oxygen organs ko energy banane ke liye chahiye. Nurse ABCDE rapid assessment kare, help activate kare, reading ki reliability check kare aur patient ko appropriate oxygen aur urgent care protocol ke according support de. Reading recheck karne ke chakkar mein emergency care delay nahi karni hai. Cause ko separately investigate karna hai.
+Operation ke baad patient bechain hai, ek minute mein 32 baar saans le raha hai aur SpO2 86% hai. SpO2 blood mein hemoglobin ke oxygen se jude hone ka approximate percentage batata hai. Ye findings milkar serious breathing problem ka signal de sakti hain. Body ke organs ko energy banane ke liye oxygen ki zaroorat hoti hai, isliye oxygenation ki problem ko routine care se pehle address karna chahiye. Nurse rapid ABCDE assessment karti hai, urgent help bulati hai aur protocol ke hisaab se oxygen aur zaroori support deti hai. Reading ki reliability bhi check karti hai, lekin reading dobara lene ke chakkar mein emergency care delay nahi karti. Actual cause ko assessment ke saath investigate karna padta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Discharge diet teaching important hai, lekin unstable breathing ke samay delay ki ja sakti hai.
-- **B:** Constipation ka risk immediate oxygenation threat se kam urgent hai.
-- **C:** Impaired oxygenation current potentially life-threatening problem hai. C best hai.
-- **D:** Sleep disturbance ka treatment breathing stabilize hone ke baad kiya ja sakta hai.
+- **A:** Discharge diet samjhana patient ki recovery ke liye important hai. Lekin abhi patient ki breathing unstable ho sakti hai. Isliye diet teaching ko tab tak postpone karna chahiye jab tak urgent problem address nahi ho jaati.
+- **B:** Constipation ka risk operation ke baad ho sakta hai, lekin question mein oxygen ki kami ka current serious signal mil raha hai. Isliye constipation prevention se pehle breathing aur oxygenation ko assess karna zaroori hai.
+- **C:** Impaired oxygenation ka matlab hai ki body ko oxygen milne ki process mein dikkat hai. Patient ki low saturation, fast breathing aur restlessness isi urgent concern ko support karti hain. Isliye C pehli priority hai.
+- **D:** Sleep pattern disturb hona patient ke comfort aur recovery ko affect kar sakta hai. Lekin breathing ki serious problem ko address kiye bina sleep par focus karna unsafe hoga.
 
-**Exam clue:** ABC life-threatening problems first. Low saturation ke saath patient ko dekho, sirf monitor ko nahi.
+**Exam clue:** Jab breathing ya oxygenation mein life-threatening problem ka signal mile, toh ABCDE assessment aur urgent help ko priority do. Monitor ki reading ke saath patient ki actual condition bhi dekho.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -193,16 +193,16 @@ Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing comp
 **Correct: C. The patient will walk 20 meters with assistance by 6 PM**
 
 <!-- job5-rationale -->
-Nursing outcome patient mein expected change ko describe karta hai. SMART ka matlab Specific, Measurable, Achievable, Relevant aur Time-bound hai. Yahan 20 meters ek measurable distance hai, assistance safety condition hai aur 6 PM deadline hai. Patient ki actual capacity ke according goal decide hoga. Nurse baad mein actual performance compare kar sakti hai.
+Nursing outcome ka matlab hai ki care ke baad patient mein hum kya result dekhna chahte hain. SMART ka matlab Specific, Measurable, Achievable, Relevant aur Time-bound hai. Maan lo patient ko walking mein help chahiye. Agar hum kehte hain ki patient 6 PM tak assistance ke saath 20 meters chalega, toh distance aur time dono clear hain. Assistance ki condition bhi bata di gayi hai. Goal patient ki actual ability aur safety ke hisaab se select karna chahiye. Baad mein nurse check kar sakti hai ki patient ne goal achieve kiya ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** Improve someday mein na exact result hai na definite deadline. Isko reliably evaluate nahi kar sakte.
-- **B:** Nurse ki understanding patient ki functional improvement ko measure nahi karti.
-- **C:** Patient, action, distance, help aur time clear hain. C measurable outcome hai.
-- **D:** Excellent care vague phrase hai aur nurse ka action describe karta hai, patient ka measurable result nahi.
+- **A:** Improve someday se pata nahi chalta ki patient mein kaunsa improvement chahiye ya kab tak chahiye. Nurse is statement ko use karke reliably result measure nahi kar sakti.
+- **B:** Nurse mobility ko samajh le, ye nurse ki learning se related hai. Isse patient ki walking ability mein kitna improvement hua, ye measure nahi hota.
+- **C:** Is statement mein patient, walking distance, assistance aur deadline sab clear hain. Nurse actual performance ko target se compare kar sakti hai. Isliye C patient-centered measurable outcome hai.
+- **D:** Excellent care ek vague phrase hai aur nurse ke action par focus karta hai. Ismein patient ka specific measurable result nahi bataya gaya hai.
 
-**Exam clue:** Outcome mein patient kya karega, kitna aur kab tak, ye dekho.
+**Exam clue:** Outcome padhte waqt dekho ki patient kya karega, kitna karega aur kab tak karega.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -235,16 +235,16 @@ Nursing outcome patient mein expected change ko describe karta hai. SMART ka mat
 **Correct: B. Risk for impaired skin integrity**
 
 <!-- job5-rationale -->
-Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse tissue blood supply compromise ho sakti hai. Incontinence se skin par moisture aur irritation badh sakte hain. Skin intact hai aur existing injury ka evidence nahi diya gaya. Nurse risk assess kare, skin inspect kare aur individualized pressure relief aur moisture management plan banaye. Risk diagnosis future problem ki susceptibility ko batata hai.
+Immobility ka matlab hai ki patient aasani se apni position nahi badal paa raha hai. Jab body ka koi hissa lambe samay tak pressure mein rehta hai, toh wahan tissue ko blood supply milne mein dikkat ho sakti hai. Incontinence mein urine ya stool control nahi ho paata, jisse skin par moisture aur irritation badh sakti hai. Question mein skin abhi intact hai, yaani skin tootne ka evidence nahi diya gaya hai. Isliye nurse ko skin breakdown ke risk ko identify karna chahiye. Nurse skin inspect karti hai aur patient ki condition ke hisaab se pressure relief aur moisture management ka plan banati hai.
 
 **Option-by-option reasoning**
 
-- **A:** Effective perfusion ko confirmed problem bolna given findings se supported nahi hai.
-- **B:** B risk factors aur current intact skin dono ko reflect karta hai.
-- **C:** Open ulcer question mein nahi diya hai. Actual skin breakdown assume nahi kar sakte.
-- **D:** Documented wound ya pain ka evidence nahi hai. D unsupported hai.
+- **A:** Effective tissue perfusion ka matlab hai ki tissues tak blood supply theek se pahunch rahi hai. Di gayi findings se perfusion ke baare mein aisa confirmed conclusion nahi nikal sakte. Isliye A current skin concern ko sahi tarah describe nahi karta.
+- **B:** Patient move nahi kar paa raha hai aur incontinence bhi hai, isliye skin damage hone ka risk badh sakta hai. Lekin skin abhi intact hai. Isliye B risk diagnosis ke roop mein sahi hai.
+- **C:** Agar open ulcer hota, toh actual skin breakdown ka evidence milta. Question mein koi open ulcer nahi bataya gaya hai, isliye existing injury assume nahi karni chahiye.
+- **D:** Acute pain ko documented wound se jodne ke liye pain aur wound ka evidence chahiye. Question mein dono ka evidence nahi diya gaya hai.
 
-**Exam clue:** Risk factor present hone ka matlab actual injury confirmed hona nahi hai.
+**Exam clue:** Risk factor hone se actual injury confirm nahi ho jaati. Skin intact hone par prevention ki zaroorat ko pehchaano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -277,16 +277,16 @@ Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse
 **Correct: A. Defining characteristics**
 
 <!-- job5-rationale -->
-Problem-focused diagnosis mein problem, contributing factor aur evidence identify karte hain. Weak cough ka matlab patient secretions effectively clear nahi kar paa raha ho sakta hai. Coarse breath sounds retained secretions ke saath compatible hain. Given statement mein ye dono signs evidence ke roop mein likhe hain. Nurse actual assessment se cause aur severity validate karegi.
+Problem-focused nursing diagnosis mein nurse existing problem, usse jude contributing factors aur problem ko support karne wale signs aur symptoms identify karti hai. Is question mein patient ka cough weak hai. Iska matlab ho sakta hai ki woh secretions ko aasani se bahar nahi nikaal paa raha hai. Coarse breath sounds bhi retained secretions ke saath mil sakti hain. Given statement mein weak cough aur breath sounds ko evidence ke roop mein likha gaya hai. In supporting signs ko defining characteristics kehte hain. Nurse actual assessment se cause aur problem ki severity validate karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Weak cough aur coarse sounds problem ke supporting cues hain. A correct hai.
-- **B:** Etiology yahan retained secretions hai. Signs ko etiology alone bolna category mix kar deta hai.
-- **C:** Expected outcomes future target hain, jaise effective cough aur improved airway clearance.
-- **D:** Intervention nurse ka action hai, jaise appropriate airway clearance support. Observed signs action nahi hain.
+- **A:** Weak cough aur coarse breath sounds patient ki existing airway problem ko support karte hain. Ye woh observed cues hain jinke basis par diagnosis ko evidence milta hai. Isliye A sahi hai.
+- **B:** Etiology ka matlab contributing cause hai. Is statement mein retained secretions ko related factor bataya gaya hai. Weak cough aur breath sounds ko sirf etiology kehna signs aur cause ko mix kar deta hai.
+- **C:** Expected outcome woh result hai jo care ke baad chahiye, jaise patient ka cough effective ho ya airway clearance improve ho. Yahan signs current problem ko describe kar rahe hain, future target ko nahi.
+- **D:** Independent nursing intervention nurse ke authorized care action ko kehte hain, jaise suitable airway clearance support dena. Weak cough aur breath sounds patient ki findings hain, nurse ke actions nahi hain.
 
-**Exam clue:** PES mein signs/symptoms aur related factor alag identify karo.
+**Exam clue:** PES structure mein problem, related factor aur supporting signs ko alag-alag pehchaano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -319,16 +319,16 @@ Problem-focused diagnosis mein problem, contributing factor aur evidence identif
 **Correct: D. Evaluation**
 
 <!-- job5-rationale -->
-Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko appropriate interval par check karti hai. Patient ki breathing aur adverse effects bhi medicine aur condition ke hisaab se assess karne chahiye. Baseline aur target se compare karke pata chalta hai ki treatment effective aur safe hai ya modification chahiye. Is comparison ko evaluation kehte hain.
+Analgesic ek medicine hai jo pain kam karne ke liye di jaati hai. Care plan ke according medicine dena implementation hai. Ab nurse appropriate interval ke baad patient ka pain aur sedation, yaani medicine se neend ya alertness mein change, check karti hai. Medicine aur patient ki condition ke hisaab se breathing aur adverse effects bhi assess karna chahiye. Nurse new findings ko baseline aur target se compare karti hai, taaki pata chale ki treatment se fayda hua aur patient safe hai ya plan mein change ki zaroorat hai. Is process ko evaluation kehte hain.
 
 **Option-by-option reasoning**
 
-- **A:** Initial diagnosis problem identify karta hai. Is question mein treatment already diya gaya hai.
-- **B:** Planning desired result aur actions select karta hai. Result comparison evaluation hai.
-- **C:** Admission registration administrative task hai.
-- **D:** Treatment ke baad pain aur sedation ka result check ho raha hai. D correct hai.
+- **A:** Initial diagnosis mein nurse assessment data se patient ki problem identify karti hai. Yahan problem pehle identify ho chuki hai aur treatment bhi diya gaya hai. Isliye ye sirf initial diagnosis nahi hai.
+- **B:** Planning mein desired result aur intervention decide kiye jaate hain. Is question mein nurse pehle se diye gaye intervention ka effect check kar rahi hai, isliye ye evaluation hai.
+- **C:** Admission registration mein patient ki administrative entry aur basic registration information record hoti hai. Medicine ke effect ko assess karna registration ka kaam nahi hai.
+- **D:** Nurse treatment ke baad pain aur sedation ko dobara check karke result samajh rahi hai. Ye care plan ke outcome ko evaluate karne ka step hai. Isliye D sahi hai.
 
-**Exam clue:** Medicine dena implementation, effect check karna evaluation.
+**Exam clue:** Medicine dena implementation hota hai. Medicine dene ke baad patient par kya effect hua, ye check karna evaluation hota hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -363,16 +363,16 @@ Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko ap
 **Correct: D. Reposition an immobile patient according to the individualized prevention plan**
 
 <!-- job5-rationale -->
-Patient ko reposition karne se pressure redistribute hota hai aur immobility-related injury ka risk kam karne mein madad milti hai. Nurse mobility restrictions, pain, devices, skin risk aur available assistance check karti hai. Turning frequency individualized honi chahiye. Independent nursing intervention ka matlab competent nurse apne authorized scope aur policy mein action kar sakti hai, unlimited prescribing authority nahi.
+Independent nursing intervention ka matlab hai ki nurse apni competence, professional scope aur facility policy ke andar zaroori care de sakti hai. Jab patient move nahi kar paa raha ho, toh same position mein lambe samay tak rehne se kuch body areas par pressure bana reh sakta hai. Repositioning se pressure redistribute karne aur injury ka risk kam karne mein madad milti hai. Nurse movement restrictions, pain, medical devices, skin risk aur available assistance check karti hai. Turning ka interval har patient ki individual condition ke hisaab se decide hota hai. Independent care ka matlab unlimited prescribing authority nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** New antibiotic prescribe karna general bedside nurse ki independent authority assume nahi ki ja sakti.
-- **B:** Surgeon ka operative plan nurse independently change nahi karti.
-- **C:** Unauthorized anesthetic order unsafe aur scope ke bahar hai.
-- **D:** Individualized repositioning nursing prevention plan ke according hai. D correct hai.
+- **A:** Nayi antibiotic prescribe karne ke liye appropriate prescribing authority chahiye. General bedside nurse ke independent scope mein ye authority automatically assume nahi kar sakte.
+- **B:** Operation ka plan surgeon aur authorized treatment team ki responsibility hoti hai. Nurse safety concern ko communicate kar sakti hai, lekin operative plan ko khud independently change nahi karti.
+- **C:** Anesthetic medicine ka unauthorized order patient ke liye serious risk create kar sakta hai. Nurse apni approved authority ke bahar aisa order nahi deti.
+- **D:** Individualized prevention plan ke hisaab se patient ko safely reposition karna nurse ka appropriate care action hai. Ye nurse ke competence aur facility policy ke andar kiya ja sakta hai. Isliye D sahi hai.
 
-**Exam clue:** Independent ka matlab scope ke andar, bina har action ke liye naya order maange.
+**Exam clue:** Independent intervention ka matlab hai apne authorized nursing scope mein action lena, na ki bina authority kisi bhi treatment ko prescribe karna.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -405,16 +405,16 @@ Patient ko reposition karne se pressure redistribute hota hai aur immobility-rel
 **Correct: C. Stop the planned activity and assess the acute symptoms urgently**
 
 <!-- job5-rationale -->
-Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi aur serious acute condition ka clue ho sakta hai. Diagnosis confirm hone ka wait nahi karna chahiye. Walking rok kar patient ko safe position mein rakho, ABCDE aur vital signs assess karo aur urgent help activate karo. Facility chest-pain protocol ke according ECG aur further management arrange hota hai. Routine plan ko new clinical findings ke hisaab se badalna padta hai.
+Patient ko walking session se pehle naya chest pain aur diaphoresis ho raha hai. Diaphoresis ka matlab unusual sweating hai. Ye combination heart ko blood supply kam milne, yaani cardiac ischemia, ya kisi doosri serious acute problem ka warning sign ho sakta hai. Nurse ko final diagnosis ka wait nahi karna chahiye. Woh walking rok deti hai, patient ko safe position mein rakhti hai, ABCDE aur vital signs assess karti hai aur urgent help bulati hai. Facility chest-pain protocol ke hisaab se ECG aur further management arrange kiya jaata hai. Routine care plan ko patient ki new clinical condition ke according adjust karna padta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Walk hui hi nahi, isliye goal met record karna false documentation hai.
-- **B:** Pain ignore karwana deterioration ko miss kar sakta hai.
-- **C:** Activity stop aur urgent assessment immediate safety address karte hain. C correct hai.
-- **D:** Walking se exertion badh sakta hai. Reassessment postpone karna unsafe hai.
+- **A:** Patient ne walk complete nahi ki hai. Isliye goal achieve ho gaya likhna inaccurate documentation hoga aur actual condition ka important change chhup sakta hai.
+- **B:** Naya chest pain aur unusual sweating ko ignore karna unsafe hai. Isse serious condition pehchaanne aur urgent treatment milne mein delay ho sakta hai.
+- **C:** Activity rokne se further exertion avoid hota hai aur nurse acute symptoms ko turant assess kar sakti hai. Urgent safety response routine walking goal se zyada important hai. Isliye C sahi hai.
+- **D:** Walking continue karne se patient ka exertion badh sakta hai. Assessment ko walk ke baad tak postpone karna unsafe hai, kyunki chest pain ka cause abhi clear nahi hai.
 
-**Exam clue:** Acute change routine care se pehle. Assessment aur escalation ko delay mat karo.
+**Exam clue:** Jab patient ki condition achanak badle, toh pehle urgent safety assessment aur escalation karo. Routine schedule baad mein adjust kiya ja sakta hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -449,16 +449,16 @@ Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi a
 **Correct: B. Risk for falls related to impaired balance**
 
 <!-- job5-rationale -->
-Risk diagnosis tab use hota hai jab patient mein problem ke risk factors hon, lekin given problem ke current manifestations established na hon. Impaired balance se fall hone ki possibility badh jaati hai. Nurse fall history, gait, medicines aur environment assess karke suitable prevention plan banati hai. Current fall injury assume nahi karte.
+Risk diagnosis tab use hota hai jab patient mein kisi problem ke hone ki possibility badh gayi ho, lekin woh specific problem abhi establish nahi hui ho. Impaired balance ka matlab hai ki patient ko apna balance maintain karne mein dikkat ho rahi hai. Is wajah se girne ka risk badh sakta hai. Nurse fall history, walking pattern, medicines aur environment ko assess karke suitable prevention plan banati hai. Question mein actual fall ya usse hui injury ka evidence nahi diya gaya hai.
 
 **Option-by-option reasoning**
 
-- **A:** Retained sputum existing airway concern ka cue hai, isliye statement problem-focused hai.
-- **B:** Impaired balance risk factor hai aur actual fall mention nahi hai. B correct hai.
-- **C:** Pain score 8/10 present pain ka evidence hai.
-- **D:** Open wound current impaired skin integrity ka evidence hai.
+- **A:** Retained sputum existing airway clearance concern ko support karta hai. Is statement mein current problem ka evidence diya gaya hai, isliye ye problem-focused diagnosis hai.
+- **B:** Impaired balance ek risk factor hai jo fall ki possibility badha sakta hai. Yahan actual fall ka evidence nahi diya gaya hai. Isliye B risk diagnosis ka sahi example hai.
+- **C:** Pain score 8/10 patient ke current pain ka evidence hai. Ye sirf future pain hone ki possibility ko describe nahi karta.
+- **D:** Open wound se pata chalta hai ki skin integrity already impair ho chuki hai. Isliye ye current problem ka evidence hai, risk-only diagnosis nahi hai.
 
-**Exam clue:** Risk diagnosis mein problem ki existing defining characteristics nahi hoti, risk factors hote hain.
+**Exam clue:** Risk diagnosis mein risk factors hote hain. Usi specific problem ke current defining signs hon, toh problem-focused diagnosis consider karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -491,16 +491,16 @@ Risk diagnosis tab use hota hai jab patient mein problem ke risk factors hon, le
 **Correct: A. Discuss the patient's preference and reschedule or modify care safely**
 
 <!-- job5-rationale -->
-Individualized care ka matlab patient ki condition, needs aur choice ke according plan adjust karna hai. Fatigue ka reason aur severity assess karo. Agar new acute weakness hai toh further assessment ki zaroorat ho sakti hai. Stable patient ke saath rest, later bath ya partial hygiene ka option discuss kar sakte hain. Refusal aur agreed plan accurately document karo.
+Individualized care ka matlab hai ki nurse har patient ki condition, needs aur preferences ko dekhkar care plan banati aur adjust karti hai. Maan lo patient thakaan ki wajah se scheduled bath nahi lena chahta. Nurse pehle samajhti hai ki thakaan kitni hai aur kyun ho rahi hai. Agar nayi acute weakness hai, toh further assessment zaroori ho sakta hai. Agar patient stable hai, toh nurse rest, baad mein bath ya partial hygiene jaise safe alternatives discuss kar sakti hai. Patient ne kya refuse kiya aur kaunsa plan agree hua, nurse use accurately document karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Patient ki preference aur safety dono consider ki gayi hain. A correct hai.
-- **B:** Force karna autonomy aur dignity violate karta hai.
-- **C:** Bath complete nahi hua, isliye complete record karna false hai.
-- **D:** Permanent cancellation future hygiene needs ignore karti hai.
+- **A:** Patient ki choice ka respect karte hue nurse safety ko bhi consider karti hai. Bath ka time ya method modify karke hygiene ki zaroorat ko address kiya ja sakta hai. Isliye A individualized care ka sahi example hai.
+- **B:** Written schedule hone ka matlab ye nahi hai ki patient ko force kiya jaaye. Aisa karne se patient ki autonomy, yaani apne care ke decisions lene ka haq, aur dignity violate ho sakti hai.
+- **C:** Bath actually complete nahi hua hai. Isliye usse complete record karna false documentation hoga.
+- **D:** Abhi patient bath nahi lena chahta, lekin future mein hygiene care ki zaroorat phir bhi ho sakti hai. Permanent cancellation patient ki ongoing needs ko ignore karti hai.
 
-**Exam clue:** Patient-centered care rigid timetable nahi hai. Safe alternatives discuss karo.
+**Exam clue:** Patient-centered care ka matlab rigid timetable follow karna nahi hai. Patient ki choice aur safety ko dhyan mein rakhkar alternatives discuss karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -533,16 +533,16 @@ Individualized care ka matlab patient ki condition, needs aur choice ke accordin
 **Correct: A. The patient**
 
 <!-- job5-rationale -->
-Primary source generally woh person hai jiske health experiences ke baare mein information collect ho rahi hai. Conscious patient jo reliably communicate kar sakta hai, symptoms, allergies aur history directly bata sakta hai. Agar communication ya cognition impaired hai, nurse appropriate interpreter, caregiver aur records se information supplement ya validate karti hai.
+Primary source woh direct source hai jisse patient ki health history milti hai. Agar conscious patient reliably communicate kar sakta hai, toh aam taur par patient khud apne symptoms, allergies, past illnesses aur medicines ke baare mein sabse direct information deta hai. Agar communication ya cognition mein dikkat ho, toh nurse appropriate interpreter, caregiver aur records ki madad se information supplement ya verify kar sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Patient direct history de sakta hai. A correct hai.
-- **B:** Discharge summary previous clinical record hai. Yeh useful secondary source hai, sole primary source nahi.
-- **C:** Unfamiliar visitor patient ki history reliably nahi jaanta.
-- **D:** Census sheet bed ya patient count batati hai, individual health history nahi.
+- **A:** Patient apni health history directly bata sakta hai. Isliye reliably communicate karne wala patient aam taur par primary source hota hai aur A sahi hai.
+- **B:** Previous discharge summary mein purani clinical information hoti hai. Ye useful secondary source hai, lekin patient ki current history ko sirf isi se replace nahi karna chahiye.
+- **C:** Jo visitor patient ko pehle se nahi jaanta, uske paas patient ki health history ke baare mein reliable direct information hone ki umeed nahi ki ja sakti.
+- **D:** Ward census sheet se ward mein beds ya patients ki sankhya pata chal sakti hai. Ye individual patient ki detailed health history nahi deti hai.
 
-**Exam clue:** Primary source patient. Secondary sources family, records aur other team members ho sakte hain.
+**Exam clue:** Agar patient reliably communicate kar sakta hai, toh patient ko primary source samjho. Family, records aur team se milne wali information zaroorat ke hisaab se secondary sources hoti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -575,16 +575,16 @@ Primary source generally woh person hai jiske health experiences ke baare mein i
 **Correct: D. Use a qualified interpreter and ask the patient to explain the schedule in their own words**
 
 <!-- job5-rationale -->
-Language barrier mein nod karna polite response ho sakta hai, understanding ka proof nahi. Qualified interpreter ke through medication timing aur dose clear karo. Phir patient ko apne words mein samjhane ko bolo ki medicine kab aur kaise lega. Agar confusion mile toh blame ki jagah explanation aur example badlo aur teach-back repeat karo. Isse nurse apni communication ki effectiveness check karti hai.
+Maan lo nurse medication schedule samjha rahi hai aur patient haan mein sir hila raha hai, lekin apne words mein schedule nahi bata paa raha hai. Sir hilana polite response ho sakta hai, isse understanding confirm nahi hoti. Qualified interpreter ki madad se nurse patient ki language mein medicine ki dose aur timing samjhati hai. Phir nurse patient se kehti hai ki woh apne words mein bataye ki medicine kab aur kaise lega. Is method ko teach-back kehte hain. Agar confusion milta hai, toh nurse patient ko blame nahi karti. Woh apni explanation ko aur clear banati hai aur teach-back dobara karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Nodding se comprehension confirm nahi hota.
-- **B:** Volume badhane se unfamiliar language samajh nahi aati.
-- **C:** Unrelated visitor patient ki understanding establish nahi kar sakta. Privacy ka concern bhi hai.
-- **D:** Interpreter aur teach-back milkar language access aur understanding evaluate karte hain. D correct hai.
+- **A:** Sir hilane se ye confirm nahi hota ki patient medicine ka schedule samajh gaya hai. Agar nurse assume kar le, toh medicine lene mein galti ka risk ho sakta hai.
+- **B:** Unfamiliar language mein wahi instructions zyada zor se bolne se language barrier solve nahi hota. Patient ko samajh aane wali language mein explanation chahiye.
+- **C:** Unrelated visitor patient ki understanding directly establish nahi kar sakta. Ismein privacy ka concern bhi ho sakta hai, isliye visitor par decision chhodna appropriate nahi hai.
+- **D:** Qualified interpreter language barrier kam karne mein madad karta hai aur teach-back se nurse dekh sakti hai ki patient actual schedule samjha hai ya nahi. Dono milkar understanding evaluate karte hain. Isliye D sahi hai.
 
-**Exam clue:** Teach-back patient ki exam nahi, teaching ki effectiveness ka check hai.
+**Exam clue:** Teach-back patient ki exam lene ka tareeka nahi hai. Isse nurse check karti hai ki usne baat kitni clear samjhai hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -617,16 +617,16 @@ Language barrier mein nod karna polite response ho sakta hai, understanding ka p
 **Correct: C. Reassess and revise the diagnosis or care plan as indicated**
 
 <!-- job5-rationale -->
-Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nurse relevant fresh data collect karti hai, urgency assess karti hai aur diagnosis ya plan ko findings ke hisaab se revise karti hai. Purane accurate observations record mein rehne chahiye. New findings ke liye immediate action bhi zaroori ho sakta hai.
+Nursing process ek continuous cycle hai. Evaluation mein nurse check karti hai ki planned care ke baad patient mein kya result hua. Agar is dauran nayi problem milti hai, toh nurse usse ignore nahi karti. Woh fresh assessment data collect karti hai, problem ki urgency samajhti hai aur findings ke hisaab se nursing diagnosis ya care plan revise karti hai. Accurate purani observations record mein rehni chahiye, kyunki unse patient ka clinical trend samajh aata hai. Agar nayi finding urgent hai, toh immediate action bhi zaroori ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Previous observations delete karne se clinical timeline aur record integrity damage hoti hai.
-- **B:** Evaluation last named step hai, lekin process khatam nahi hota.
-- **C:** New data aur plan revision continuous nursing process ko reflect karte hain. C correct hai.
-- **D:** Ineffective plan ko bina review continue karna patient ki needs address nahi karta.
+- **A:** Purani accurate observations delete karne se patient ki condition ka timeline aur record ki integrity kharab ho sakti hai. Nayi finding ko purane record ke saath document karna chahiye.
+- **B:** Evaluation ADPIE ka last named step hai, lekin patient ki care yahin khatam nahi hoti. Nayi problem ke liye reassessment zaroori hoti hai.
+- **C:** Reassessment se nayi problem ke baare mein information milti hai. Us information ke hisaab se nurse diagnosis ya care plan revise kar sakti hai. Isliye C continuous nursing process ko sahi tarah describe karta hai.
+- **D:** Agar plan effective nahi hai, toh use bina review ke continue karne se patient ki actual needs address nahi hongi. Nurse ko findings ke hisaab se plan adjust karna chahiye.
 
-**Exam clue:** ADPIE cycle hai, straight line nahi.
+**Exam clue:** ADPIE ko ek cycle samjho. Evaluation mein nayi problem milne par assessment aur planning dobara shuru ho sakti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -659,16 +659,16 @@ Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nur
 **Correct: B. A nursing diagnosis describes human responses that nursing care can address**
 
 <!-- job5-rationale -->
-Medical diagnosis disease ya pathological condition identify karti hai. Nursing diagnosis patient ki actual ya potential human response ko describe karti hai, jaise impaired mobility ya ineffective airway clearance. Ek hi medical diagnosis wale do patients ki nursing needs alag ho sakti hain. Nurse assessment se relevant response identify karke goals aur interventions plan karti hai.
+Medical diagnosis se pata chalta hai ki patient ko kaunsi disease ya pathological condition hai. Nursing diagnosis mein focus is baat par hota hai ki patient us condition ko kaise experience kar raha hai, uski kya actual problem hai aur kis problem ka risk hai. Maan lo do patients ko pneumonia hai. Ek ko secretions clear karne mein difficulty ho sakti hai aur doosre ko movement ke waqt saans lene mein dikkat ho sakti hai. Medical diagnosis same hone par bhi nursing needs alag ho sakti hain. Nurse assessment se response identify karti hai aur uske hisaab se goals aur care plan banati hai.
 
 **Option-by-option reasoning**
 
-- **A:** Dono terms ka focus alag hai, isliye interchangeable nahi.
-- **B:** Human response aur nursing care par focus hai. B correct hai.
-- **C:** Pathogen infection ka cause ho sakta hai. Nursing diagnosis hamesha pathogen name nahi karti.
-- **D:** Intervention care action hai, medical diagnosis disease identification hai.
+- **A:** Medical diagnosis aur nursing diagnosis dono patient care mein important hain, lekin dono ka focus alag hota hai. Isliye in terms ko hamesha ek doosre ki jagah use nahi kar sakte.
+- **B:** Nursing diagnosis patient ki actual ya potential response ko describe karti hai jise nursing care address kar sakti hai. Isliye B nursing diagnosis ka sahi distinction batata hai.
+- **C:** Pathogen kisi infection ka cause ho sakta hai. Nursing diagnosis ka purpose hamesha pathogen ka naam batana nahi hai, balki patient ki relevant response aur care needs identify karna hai.
+- **D:** Nursing intervention woh action hai jo patient care ke liye kiya jaata hai. Medical diagnosis disease identify karti hai, isliye woh sirf nursing intervention nahi hai.
 
-**Exam clue:** Disease vs response yaad rakho. Pneumonia disease hai, airway clearance concern nursing focus ho sakta hai.
+**Exam clue:** Disease aur patient response ko alag samjho. Pneumonia medical diagnosis ho sakti hai, jabki ineffective airway clearance relevant nursing concern ho sakta hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -701,16 +701,16 @@ Medical diagnosis disease ya pathological condition identify karti hai. Nursing 
 **Correct: B. A patient with sudden stridor after medication administration**
 
 <!-- job5-rationale -->
-Stridor upper airway mein narrowed passage ke through air movement ki abnormal harsh sound hai. Medicine ke baad sudden stridor anaphylaxis ya doosri acute airway obstruction ka warning sign ho sakta hai. Emergency help activate karo, ABCDE assessment aur airway support shuru karo. Suspected anaphylaxis mein facility emergency protocol aur authorized IM adrenaline management ko delay nahi karna chahiye. Rash ka wait nahi karna hai.
+Stridor ek abnormal harsh breathing sound hai jo upper airway narrow hone par sunai de sakti hai. Maan lo medicine dene ke baad patient ko achanak stridor hone lagta hai. Ye anaphylaxis, yaani serious allergic reaction, ya doosri acute airway obstruction ka warning sign ho sakta hai. Nurse turant emergency help bulati hai, ABCDE assessment aur indicated airway support shuru karti hai. Suspected anaphylaxis mein facility emergency protocol ke hisaab se authorized intramuscular adrenaline management ko delay nahi karna chahiye. Skin rash aane ka wait karna safe nahi hai, kyunki serious airway reaction rash ke bina bhi ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Discharge leaflet routine teaching hai aur airway emergency se lower priority hai.
-- **B:** Sudden stridor airway danger ka clue hai. B immediate priority hai.
-- **C:** Stable bath routine care hai aur wait kar sakti hai.
-- **D:** Blanket comfort need hai. Immediate airway threat pehle address hota hai.
+- **A:** Discharge leaflet dena patient teaching ka routine hissa hai. Ye important hai, lekin sudden airway problem ke comparison mein wait kar sakta hai.
+- **B:** Medicine ke baad achanak stridor se upper airway danger ka signal milta hai. Patient ki airway aur breathing turant compromise ho sakti hai. Isliye B ko sabse pehle assess karna zaroori hai.
+- **C:** Stable patient ka routine bath hygiene ke liye important hai, lekin immediate life-threatening problem ko address karne tak postpone kiya ja sakta hai.
+- **D:** Blanket dene se patient ke comfort mein madad milti hai. Lekin immediate airway threat comfort need se zyada urgent hai.
 
-**Exam clue:** Stridor = airway danger. New medication ke baad sudden onset ko emergency samjho.
+**Exam clue:** Jab medicine ke baad sudden stridor ho, toh airway emergency consider karo aur urgent help bulane mein delay mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -745,16 +745,16 @@ Stridor upper airway mein narrowed passage ke through air movement ki abnormal h
 **Correct: A. The patient's heels remain intact without new nonblanchable discoloration during the shift**
 
 <!-- job5-rationale -->
-Pressure injury prevention ka result patient ki tissue condition se measure hota hai. Nonblanchable discoloration ka matlab pressure hatane ya gentle blanch assessment ke baad color change persist kar sakta hai. Darker skin mein visible redness ke alawa temperature, firmness aur pain compare karna important hai. Defined shift mein heel condition assess karna measurable outcome hai, par baaki pressure areas aur continued risk bhi evaluate karna zaroori hai.
+Pressure injury prevention ka result patient ki skin aur underlying tissue ki condition se evaluate kiya jaata hai. Nonblanchable discoloration ka matlab hai ki skin ka abnormal colour gentle pressure se check karne par temporarily fade nahi hota. Ye pressure-related damage ka warning sign ho sakta hai. Darker skin mein colour change dekhna mushkil ho sakta hai, isliye nurse temperature, firmness aur pain jaise findings bhi compare karti hai. Agar target hai ki shift ke dauran heels intact rahen aur koi naya nonblanchable discoloration na ho, toh nurse defined time ke andar result check kar sakti hai. Baaki pressure areas aur ongoing risk ka assessment bhi zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** Heels ki skin status aur time interval clear hain. A correct outcome hai.
-- **B:** Nurse busy hone se patient outcome establish nahi hota.
-- **C:** Hypertension diagnosis pressure injury prevention success ka direct indicator nahi hai.
-- **D:** Risk ongoing ho sakta hai. Future assessment permanently stop nahi karte.
+- **A:** Statement mein heels ki expected skin condition aur shift ka time interval clear hai. Nurse skin assess karke planned outcome evaluate kar sakti hai. Isliye A pressure injury prevention ka suitable outcome hai.
+- **B:** Nurse busy reh rahi hai ya nahi, isse directly pata nahi chalta ki patient ki skin safe rahi hai. Prevention ka result patient ki condition se measure karna chahiye.
+- **C:** Hypertension ka diagnosis blood pressure se related hai. Ye pressure injury prevention plan successful hua ya nahi, iska direct indicator nahi hai.
+- **D:** Patient mein pressure injury ka risk ongoing reh sakta hai. Isliye goal achieve hone ke baad bhi zaroorat ke hisaab se skin assessment jaari rehni chahiye.
 
-**Exam clue:** Prevention outcome = patient result, not staff workload.
+**Exam clue:** Prevention ka outcome patient mein kya result hua, isse judge karo. Sirf staff kitna busy tha, isse patient outcome establish nahi hota.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -787,16 +787,16 @@ Pressure injury prevention ka result patient ki tissue condition se measure hota
 **Correct: D. Reassess pain characteristics and discuss an adjusted plan with the treatment team**
 
 <!-- job5-rationale -->
-Pain relief na milna evaluation ka important finding hai. Nurse pain location, severity, quality, timing, functional impact, last medicine aur adverse effects assess karti hai. New red flags milne par urgent escalation chahiye. Question mein emergency finding nahi hai, isliye treatment team se safe authorized adjustment discuss karna appropriate hai. Reassessment aur action document karo.
+Operation ke baad prescribed intervention ke bawajood pain relief nahi mil raha hai. Ye evaluation ka important finding hai. Nurse patient se poochti hai ki pain kahan hai, kitna zyada hai, kaisa feel hota hai aur kab se ho raha hai. Woh daily movement par effect, last medicine ka time aur possible adverse effects bhi assess karti hai. Agar nayi red flag milti hai, toh urgent escalation zaroori hai. Question mein koi nayi emergency finding nahi di gayi hai, isliye assessment findings ke basis par treatment team se safe authorized adjustment discuss karna appropriate hai. Nurse reassessment aur action ko document karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Extra unprescribed dose se overdose, sedation aur respiratory depression ka risk ho sakta hai.
-- **B:** Pain present hai, resolved record karna inaccurate hai.
-- **C:** Assessment stop karne se uncontrolled pain ya deterioration miss ho sakta hai.
-- **D:** Reassessment aur team-based adjustment existing plan ko safely improve karte hain. D correct hai.
+- **A:** Unprescribed extra dose dene se medicine ki total dose unsafe ho sakti hai. Overdose, excessive sedation aur respiratory depression ka risk ho sakta hai, isliye nurse bina authorization extra dose nahi deti.
+- **B:** Patient ka pain abhi present hai. Pain resolve ho gaya likhne se record inaccurate ho jaayega aur actual care need chhup sakti hai.
+- **C:** Pain assessment band karne se nurse ko uncontrolled pain ya condition mein change ka pata nahi chalega. Isliye further assessment aur follow-up zaroori hain.
+- **D:** Reassessment se nurse samajh sakti hai ki existing intervention se expected relief kyun nahi mil raha. Findings treatment team ke saath discuss karke authorized plan adjust kiya ja sakta hai. Isliye D sahi hai.
 
-**Exam clue:** Unmet goal par reassess, communicate aur evaluate again.
+**Exam clue:** Agar goal achieve nahi hua hai, toh patient ko reassess karo, findings communicate karo aur adjusted care ka effect dobara evaluate karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -831,16 +831,16 @@ Pain relief na milna evaluation ka important finding hai. Nurse pain location, s
 **Correct: C. Assist the patient with prescribed range-of-motion exercises twice daily**
 
 <!-- job5-rationale -->
-Intervention woh planned action hai jo nurse ya care team patient goal achieve karne ke liye karti hai. Range-of-motion ka matlab joint ko allowed range mein move karna hai. Prescribed exercises assist karna action hai. Nurse restrictions aur pain check karke safely assist karti hai. Outcome patient ke function ya symptoms mein desired result hota hai.
+Intervention woh planned action hai jo nurse ya healthcare team patient ke goal ko achieve karne mein madad ke liye karti hai. Range-of-motion ka matlab hai ki joint ko uski allowed range mein move karna. Patient ko prescribed exercises karne mein assist karna ek care action hai. Nurse restrictions aur pain check karke exercises safely karwati hai. Outcome isse alag hai. Outcome mein bataya jaata hai ki care ke baad patient ke function ya symptoms mein kya desired result dekhna hai.
 
 **Option-by-option reasoning**
 
-- **A:** Patient safe walker use demonstrate karega. Yeh desired performance outcome hai.
-- **B:** Intact skin patient ka desired result hai.
-- **C:** Exercises assist karna care action hai aur frequency twice daily di gayi hai. C correct hai.
-- **D:** Pain below 3/10 patient-reported expected result hai, action nahi.
+- **A:** Patient ka walker safely use karke dikhana desired performance hai. Ismein patient se expected result bataya gaya hai, isliye ye outcome hai.
+- **B:** Patient ki skin intact rehna prevention care ka desired result hai. Isliye ye outcome hai, na ki nurse ka specific care action.
+- **C:** Patient ko prescribed range-of-motion exercises mein assist karna nurse ka planned action hai. Statement mein twice daily frequency bhi di gayi hai. Isliye C intervention hai.
+- **D:** Patient ka pain score 3/10 se kam report karna desired symptom result hai. Ismein nurse ka action nahi bataya gaya hai, isliye ye outcome hai.
 
-**Exam clue:** Intervention = nurse kya karegi. Outcome = patient mein kya result hoga.
+**Exam clue:** Intervention mein dekho ki nurse kya action legi. Outcome mein dekho ki patient mein kaunsa result chahiye.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->

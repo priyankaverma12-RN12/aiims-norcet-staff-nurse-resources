@@ -18,7 +18,7 @@ Roman Hinglish is the learner's preference. These sources do not establish a uni
 
 - Nursing Foundations Concepts/01A-Nursing-Process-and-Care-Planning.md: four teaching sections and five explanatory table rows expanded, previous draft commit 0e2fc1356f040f50621e0743ab59f20b04a66d64.
 - Nursing Foundations Concepts/01B-Clinical-Judgment-and-Reasoning.md: four substantive prose blocks and six table rows expanded. Existing links, metadata, anchors and Mermaid code preserved.
-- Nursing Foundations MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md: Q1–Q3 correct-answer explanations and 12 option rationales expanded. All original stems, options, keys, hidden block markers, metadata and links preserved. Q4–Q20 unchanged. No new questions counted.
+- Nursing Foundations MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md: Q1–Q20 correct-answer explanations and 80 option rationales expanded in two sequential draft batches. All original stems, options, keys, hidden block markers, metadata and links preserved. No new questions counted.
 - Remaining file-level and question-level reviews pending. All draft changes require safe scope coordination, fresh main comparison and validation before merge. No chapter certified.
 
 ## Package inventory snapshot
@@ -51,7 +51,7 @@ Source main commit 12daf0cd9527dfea5e7988154bb0c06d37550446. Counts are Markdown
 | Neonatal-Nursing | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
 | Nervous-System | 8 | 8 | 2 | 6 | 1 | 2 | Pending |
 | Neurological-System | 1 | 3 | 2 | 2 | 0 | 1 | Pending |
-| Nursing-Foundations | 29 | 58 | 6 | 29 | 0 | 1 | Draft partial: two concepts, Q1–3 |
+| Nursing-Foundations | 29 | 58 | 6 | 29 | 0 | 1 | Draft partial: two concepts, bank 01 Q1–20 |
 | Nursing-Management-and-Education | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
 | Nursing-Research-and-Statistics | 1 | 1 | 1 | 3 | 0 | 1 | Pending |
 | Nutrition-and-Dietetics | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
@@ -66,4 +66,8 @@ Source main commit 12daf0cd9527dfea5e7988154bb0c06d37550446. Counts are Markdown
 
 ## Resume
 
-Nursing Foundations original bank 01 Q4 onward, then 01A and 01B MCQ banks, other concept guides and learner-facing indexes in sequence. Coordinate with Jobs 1–5 and manual scopes. Do not overwrite their live changes. Validate exact remote readback, unchanged questions and all four rationales. Compare latest main before merging PR #12. Review the rest of each package, including mocks, PYQs, revision, indexes and any embedded questions. Apply the existing complete clinical audit protocol when a clinical defect is found. All counts and statuses must reflect actual reviews, not estimates.
+Nursing Foundations 01A MCQ bank Q1 onward, then 01B MCQ bank, other concept guides and learner-facing indexes in sequence. Coordinate with Jobs 1–5 and manual scopes. Do not overwrite their live changes. Validate exact remote readback, unchanged questions and all four rationales. Compare latest main before merging PR #12. Review the rest of each package, including mocks, PYQs, revision, indexes and any embedded questions. Apply the existing complete clinical audit protocol when a clinical defect is found. All counts and statuses must reflect actual reviews, not estimates.
+
+## Run 2 — Q4–Q20 language retrofit
+
+All 17 remaining answer blocks in original bank 01 now have complete conversational explanations and four individual option rationales each (68 in this batch, 80 cumulatively). Preserved all text outside the existing job5 rationale markers byte-for-byte, including English stems, options, keys, all metadata, hidden answers and original links. Preserved supporting references inside markers. No new MCQs, no key changes and no new PYQ/video claims. Cross-checked nursing process and evaluation against OpenStax indexed pages https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process and https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation, ABCDE and anaphylaxis against Resuscitation Council UK indexed guidance https://www.resus.org.uk/library/abcde-approach and https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines, and interpreter plus teach-back against AHRQ https://www.ahrq.gov/health-literacy/professional-training/lepguide/chapter2.html. Style-focused review, not a comprehensive independent clinical, syllabus, historical, video or rendered UI audit. Both skills reviewed in bounded ranges with common tail confirmed identical, AGENTS/Copilot and prior ledger read, latest audit-learning excerpts reviewed (not full historical log). All five formal claim headers and manual claim headers checked, Eye/ENT and Renal README scope checked. Draft-only branch avoids interfering with live jobs. Main comparison of the three target paths at 1045871166afa0bff63c3f5c9f57f44be4845476 shows original blobs unchanged. PR #8 remains open; verify overlap and latest claims/CI before any merge. Next: original bank 01A Q1 onward. No chapter complete.
