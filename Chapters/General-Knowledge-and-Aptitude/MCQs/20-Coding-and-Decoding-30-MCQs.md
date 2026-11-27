@@ -6,7 +6,7 @@
 
 ### Q1. In a code, MINT becomes OKPV. Using the same forward shift for each letter, how is LAMP encoded?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** MBNQ
 - **B.** JYKN
@@ -122,7 +122,7 @@
 
 ### Q5. A coding rule applies +1, −1, +1, −1 to successive letters, with wraparound. Encode WARD.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** XZSC
 - **B.** XBSE
@@ -151,7 +151,7 @@
 
 ### Q6. Letters at positions 1, 2, 3 and 4 are shifted forwards by 1, 2, 3 and 4 places respectively. Encode TUBE.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** UVCF
 - **B.** WXFI
@@ -180,7 +180,7 @@
 
 ### Q7. A code swaps only the first and last letters, then shifts every letter forward by one. Encode PLANT.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** QMBOU
 - **B.** UMBOQ
@@ -209,7 +209,7 @@
 
 ### Q8. A code writes odd-position letters first, then even-position letters, preserving order in each group. Encode GARDEN.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** ADNGRE
 - **B.** GREDNA
@@ -238,7 +238,7 @@
 
 ### Q9. A code swaps adjacent letter pairs (positions 2,1,4,3,6,5). Decode RPISME.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** PRISME
 - **B.** RPSIEM
@@ -255,7 +255,7 @@
 
 - **A.** Sirf first pair swap hua.
 - **B.** First pair swap nahi hua.
-- **D.** Poora string reverse hua.
+- **D.** Yeh last pair se shuru karta hai aur required original pair order preserve nahi karta.
 
 **Exam trick:** Encoding aur decoding ki direction check karo. Har operation given order mein lagao.
 
@@ -267,7 +267,7 @@
 
 ### Q10. If A=01, B=02, ..., Z=26 and two-digit positions are concatenated, decode 031520.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** COT
 - **B.** CAT
@@ -296,7 +296,7 @@
 
 ### Q11. A code multiplies the positions of the first and last letters, ignoring middle letters. Find the code for LION.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 26
 - **B.** 108
@@ -325,7 +325,7 @@
 
 ### Q12. A code sums reverse alphabet positions (A=26, B=25, ..., Z=1). Find the code for BED.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 11
 - **B.** 70
@@ -383,7 +383,7 @@
 
 ### Q14. A word's code equals its vowel count multiplied by its consonant count. Find the code for ORANGE.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 6
 - **B.** 3
@@ -412,7 +412,7 @@
 
 ### Q15. A substitution table maps 0→7, 1→4, 2→9, 3→1, 4→6, 5→0, 6→8, 7→2, 8→5, 9→3. Encode 2045.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 9670
 - **B.** 9760
@@ -470,7 +470,7 @@
 
 ### Q17. Each digit becomes its complement to 9. The resulting digits are reversed. Encode 2074.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 7925
 - **B.** 4702
@@ -499,7 +499,7 @@
 
 ### Q18. A numerical code writes the remainder after division by 5 followed by the integer quotient, separated by a dash. Encode 38.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 3-7
 - **B.** 7-3
@@ -557,7 +557,7 @@
 
 ### Q20. A=*, B=#, C=@, D=%, E=+, F=&. A code reverses a word before substituting symbols. Encode FACE.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** `&*@+`
 - **B.** `+@*&`
@@ -615,7 +615,7 @@
 
 ### Q22. 'bright lamp shines' is 'ta re mi', 'lamp near door' is 're po nu', and 'bright door opens' is 'ta nu sa'. With unique mappings, which code means door?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** re
 - **B.** ta
@@ -673,7 +673,7 @@
 
 ### Q24. 'clean room' is 'za mi', 'clean floor' is 'za po', and 'room bright' is 'mi tu'. What is the code for 'bright floor' in either order?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** za po
 - **B.** mi tu
@@ -702,7 +702,7 @@
 
 ### Q25. The word 'north' is renamed 'east', 'east' is renamed 'south', 'south' is renamed 'west', and 'west' is renamed 'north'. Which coded name refers to actual east?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** east
 - **B.** west
@@ -760,7 +760,7 @@
 
 ### Q27. Letters in a word are first arranged alphabetically and then replaced by their normal positions separated by hyphens. Encode TONE.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 20-15-14-5
 - **B.** 5-15-14-20
@@ -818,7 +818,7 @@
 
 ### Q29. Two examples are AX→CZ and BY→DA. Under a uniform forward shift with wraparound, which pair is NOT correctly encoded?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** FT→HU
 - **B.** CZ→EB
@@ -847,7 +847,7 @@
 
 ### Q30. A pair of letters is encoded as its position sum and absolute position difference. Which pair has the same code as DG?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** EH
 - **B.** CF
