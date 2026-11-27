@@ -1,9 +1,9 @@
 # NORCET reverse lane work claim
 
-State: CLAIMED
-Owner: job1-20261127-045001-di
-Scope: General Knowledge and Aptitude data interpretation tables/bar charts and pie/line graphs, chapter-local files, reverse checkpoint. Global index only if unclaimed.
-Claimed UTC: 2026-11-27T04:50:01Z
-Expiry UTC: 2026-11-27T05:20:01Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Verified checkpoint: c66b46e08ee66a821d22bc8c42d2417bc8616190. General Knowledge and Aptitude, 480 newly authored original MCQs plus four preserved starters, 484 slots. Both mensuration banks, concepts, reported evidence and chapter indexes verified. Global GK row reconciled. Next: data interpretation, tables and bar charts first. Other job scopes preserved. Read both skills and all coordination files before continuing.
+Verified checkpoint: ed352b0f862c501b71c0970f8a40427247f24ea5. General Knowledge and Aptitude, 540 newly authored original MCQs plus four preserved starters, 544 slots. Both data interpretation banks, original SVG charts, concept notes, evidence files and chapter indexes verified. Global GK row reconciled. Next: reasoning, number and alphabet series first (reserve existing starter item once if relevant), then coding-decoding. All other known job scopes preserved, including Job 5. Read both complete skills and all coordination files before continuing.
