@@ -4,7 +4,7 @@
 
 | Mock | Target | Published |
 |---|---:|---|
-| 1 | 120 | [Open assembled Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 original-only questions assembled, provisional validation; 0 fully certified slots |
+| 1 | 120 | [Open assembled Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 original-only questions, 120 model-led clinical rereviews, broader validation pending; 0 fully validated mocks |
 | 2 | 120 | Pending |
 | 3 | 120 | Pending |
 | 4 | 120 | Pending |
@@ -37,4 +37,10 @@
 
 Next: finish Mock 01 question-by-question clinical, semantic, PYQ/concept and video audit, correct any additional defects and reconcile completion status. Do not begin Mock 02 until Mock 01 validation status is explicitly reconciled.
 
-<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-audit-20261127-1502. Scope: Mock 01 clinical and semantic audit, mock-only files and inventory. Claimed UTC: 2026-11-27T15:02:30Z. Expiry UTC: 2026-11-27T15:32:30Z. -->
+### Mock 01 clinical rereview and follow-up audit — 27 November 2026
+
+Fresh model-led reading of all 120 questions and all 480 rationales completed; 120 clinical clarification notes published. Q1–30 e6687b3d05f461048ca84c93d400bea5daad593c, Q31–60 2215bcc149f2785cc2e9a5a4ac9d9c5dc7fb3feb, Q61–120 6e159e2e410cd207e33e33a7cd37efe11d9364c8. Reconciliation commit 370648b09bf3c00bce868268edcdcad03a76e641, blob 1d96559ca8ffd331fa98a6c2ae0fcc2e79e08206, exact remote readback verified. Q35 and Q44 replaced with orbital imaging-purpose and HHT-specific tasks; 10 total replacement tasks across runs. All answer letters preserved; 55 Medium/65 Difficult, 60 eye/60 ENT, A28/B31/C29/D32. Selected clinical reference checks include AAO-HNS, NICE, AAO, NEI, NCI, ICMR pediatric hearing workflow and CDC sinus rinsing; ICMR page 1 and AAO-HNS sinusitis summary pages visually inspected. Some reference full text unavailable. This is a model-led clinical rereview, not independent licensed review. Newer ptosis, dacryocystitis and congenital nasolacrimal obstruction banks screened lexically with targeted related-task review. Bounded exact normalized-stem scans across current 38-file topic directory, with concurrent addition/boundary rechecks, and 46 extracted candidate strings from 33 PYQ/evidence files returned no matches. Extraction is not complete semantic or historical authentication. Fifteen video leads added/refined; all 120 exact item-level playback mappings unverified. Full semantic comparison including embedded concept and cross-chapter mock material remains outstanding. No new originals counted, 120 assembled mock-exclusive questions, 0 fully validated mocks; no Mock 02 started because full validation not reconciled. Shared topic author scope, chapter README, global indexes and other jobs preserved. Current original-only rule and coordination markers checked; full fresh skill/log reread not certified.
+
+Next: finish semantic comparison of latest banks, embedded concepts, revision/PYQ and other mocks in bounded batches; validate dedicated video question mappings where accessible, explicitly record remaining evidence limitations and reconcile Mock 01 validation status, then begin Mock 02 with newly authored exclusive questions. Do not repeat completed clinical rereview except for flagged/new issues.
+
+<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Mock 01 clinical rereview checkpoint. -->
