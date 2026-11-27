@@ -1,9 +1,10 @@
 # Job 4 — metadata-only checkpoint
 
-State: FREE
-Owner: none
-Scope: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job4-20261127-133753-06
+Scope: Nursing Foundations 05B evidence gap register only and existing Group 06 initial bank and 06A standalone metadata. Excludes blocked 05B bank, shared indexes, mocks and new authorship.
+Claimed UTC: 2026-11-27T13:37:53Z
+Expiry UTC: 2026-11-27T14:07:53Z
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
