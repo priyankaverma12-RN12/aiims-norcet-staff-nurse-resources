@@ -10,4 +10,4 @@
 | Previous-year questions | [56 reported adaptations and 2 academic paper adaptations](Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md) |
 | Videos and sources | [Research guide](Concepts/Infection-Control-and-Microbiology-Video-and-Research-Guide.md) |
 
-Next: individual-topic coverage and duplication audit against revised per-topic target, then chapter-only mocks. Detailed concepts, diagrams, ten complete mocks and expanded PYQ verification remain pending. [Full syllabus index](../NORCET-Full-Chapter-Index.md)
+Next: [individual-topic coverage and quality audit](Concepts/Individual-Topic-Coverage-and-Quality-Audit.md), beginning with surgical hand preparation expansion, then chapter-only mocks. Detailed concepts, diagrams, ten complete mocks and expanded PYQ verification remain pending. [Full syllabus index](../NORCET-Full-Chapter-Index.md)
