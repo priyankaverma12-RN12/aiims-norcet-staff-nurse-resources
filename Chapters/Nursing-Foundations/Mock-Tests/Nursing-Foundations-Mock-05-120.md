@@ -297,7 +297,7 @@ DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unil
 
 ### Q11. A metered-dose inhaler is used with a compatible spacer. Which instruction is generally correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Spray all puffs together into the spacer
 - **B.** Never check inhalation technique again
@@ -327,7 +327,7 @@ Metered-dose inhaler ya MDI measured aerosol puff release karta hai. Compatible 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q18](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q18](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q18-a-metered-dose-inhaler-is-used-with-a-compatible-spacer-which-instruction-is-generally-correct)
 
 ### Q12. Which response commonly occurs with suitable local superficial heat application?
 
@@ -468,7 +468,7 @@ Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur
 
 ### Q16. Which handover content helps prevent missed treatment after a ward transfer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the patient's room number
 - **B.** Scheduled and recent medications, pending tests and immediate care priorities
@@ -493,9 +493,11 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q17](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q17](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q17-which-handover-content-helps-prevent-missed-treatment-after-a-ward-transfer)
 
 ### Q17. A death may require medicolegal investigation. What should the nurse do before removing lines or altering the body?
 
@@ -520,7 +522,7 @@ Medicolegal case mein lines aur other material investigation ke liye relevant ho
 
 ### Q18. A patient has a mobility aid prescribed for home but the device has not arrived. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to walk without support regardless of assessment
 - **B.** Discuss a safe interim or delayed discharge plan with the team rather than assuming the patient can manage
@@ -547,7 +549,7 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q18](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q18](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q18-a-patient-has-a-mobility-aid-prescribed-for-home-but-the-device-has-not-arrived-which-action-is-appropriate)
 
 ### Q19. A patient with negative-pressure wound therapy develops fresh blood in the tubing and dizziness. What is the priority?
 
@@ -801,7 +803,7 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 
 ### Q27. How is the adult external ear canal usually straightened for ear drops?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Pull downward and forward
 - **B.** Push inward
@@ -831,7 +833,7 @@ Adult external auditory canal curved hota hai. Pinna ko gently upward aur backwa
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q17](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q17](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q17-how-is-the-adult-external-ear-canal-usually-straightened-for-ear-drops)
 
 ### Q28. Which intervention supports oral health in a patient who is not eating by mouth?
 
@@ -1072,7 +1074,7 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 ### Q36. What should an injection administration record include?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Drug, dose, route, site, actual time and relevant response
 - **B.** Only the syringe size
@@ -1102,7 +1104,7 @@ Injection documentation se team ko actual administered treatment aur patient res
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q20](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q20](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q20-what-should-an-injection-administration-record-include)
 
 ### Q37. A medication error has reached a patient, but no symptoms are currently evident. What should the nurse do first?
 
@@ -2262,7 +2264,7 @@ Hematoma ya arterial complication distal perfusion compromise kar sakti hai. Nur
 
 ### Q75. A patient returns from another department with a new procedure-related restriction not reflected in the ward care plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Continue the outdated plan without clarification
 - **B.** Verify the updated restriction, modify nursing care and communicate it to the team
@@ -2289,7 +2291,7 @@ Procedure ke baad diet, activity, monitoring ya device-related restrictions chan
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q20](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q20](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q20-a-patient-returns-from-another-department-with-a-new-procedure-related-restriction-not-reflected-in-the-ward-care-plan-what-should-the-nurse-do)
 
 ### Q76. Which assessment finding should be reported as an objective sign of increased breathing effort?
 
@@ -2463,7 +2465,7 @@ Home mein patient ko transfers, toileting aur skin prevention ke liye practical 
 
 ### Q82. Which nursing action respects patient participation during discharge planning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Ignore cultural or practical preferences
 - **B.** Make all decisions without asking the patient
@@ -2490,7 +2492,7 @@ Patient-centered discharge mein patient ki goals, preferences, home situation au
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q19](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q19](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q19-which-nursing-action-respects-patient-participation-during-discharge-planning)
 
 ### Q83. An adult with diabetes is alert, has low measured glucose and can swallow safely. Which initial response is commonly appropriate under a hypoglycemia protocol?
 
@@ -3241,7 +3243,7 @@ Bowel documentation patient ka usual pattern aur current changes compare karne m
 
 ### Q108. A patient taking anticoagulants develops an enlarging hematoma after an injection. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Massage the swelling vigorously
 - **B.** Ignore it until the next routine visit
@@ -3271,7 +3273,7 @@ Hematoma ka matlab tissue mein blood collect hona hai. Anticoagulant therapy clo
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q19](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q19](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q19-a-patient-taking-anticoagulants-develops-an-enlarging-hematoma-after-an-injection-what-is-appropriate)
 
 ### Q109. Which action corresponds to hand hygiene before an aseptic task?
 
