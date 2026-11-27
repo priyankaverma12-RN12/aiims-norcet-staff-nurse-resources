@@ -409,9 +409,19 @@ Near miss safety incident hai jisme error patient tak pahunchne se pehle interce
 
 **Correct: A. Stop the procedure and obtain prompt clinical assessment**
 
-Marked pain aur bleeding mucosal injury ya other complication suggest kar sakte hain. Nurse procedure stop karke patient assess karti hai.
+Enema ke dauran marked pain ya bleeding possible mucosal injury ya serious complication ka signal hai. Nurse infusion ya insertion immediately rok kar patient ki condition aur vital signs assess karti hai. Prompt clinical help lo, aur bina review procedure dobara shuru mat karo.
 
-**Baaki options kyun sahi nahi hain?** Continued administration, pressure aur repeated insertion injury worsen kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Procedure stop karke clinical assessment arrange karna further harm se bachata hai.
+- **B (Galat):** Repeated insertion injured tissue ko aur damage kar sakti hai.
+- **C (Galat):** Full volume complete karne se safety concern solve nahi hota aur injury badh sakti hai.
+- **D (Galat):** Resistance ko force se overcome karna rectal trauma ka risk badhata hai.
+
+**Exam clue:** Marked pain, bleeding or resistance = stop and assess.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1775,9 +1785,19 @@ Henderson ne breathing, eating, elimination aur other basic activities ko nursin
 
 **Correct: D. Use the specified clean container and avoid contamination with urine or toilet water**
 
-Urine aur toilet water specimen dilute ya contaminate kar sakte hain. Correct container, label aur lab transport instructions follow karni chahiye.
+Stool test ki reliability specimen ke sahi collection par depend karti hai. Urine, toilet water ya chemicals sample ki composition badal sakte hain. Nurse test-specific container, patient identifiers, collection time, infection precautions aur laboratory transport instructions follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Shared toilet, disinfectant aur missing label result reliability compromise karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Disinfectant organisms ko destroy ya test reaction ko alter kar sakta hai.
+- **B (Galat):** Shared toilet se sample mein doosre organisms ya water mix ho sakta hai.
+- **C (Galat):** Unlabeled container se sample ki patient identity confirm nahi hoti aur wrong result attribution ho sakta hai.
+- **D (Sahi):** Specified clean container aur contamination se bachav valid specimen obtain karne mein help karte hain.
+
+**Exam clue:** Correct patient, correct container, uncontaminated sample.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-2-stool-collection).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2930,9 +2950,19 @@ Telephone medication order mein sound-alike medicine names, dose aur units mishe
 
 **Correct: B. Left lateral position with appropriate hip and knee flexion**
 
-Left lateral position rectal access aur colon ke anatomical direction mein fluid movement support kar sakti hai. Nurse patient restrictions consider karti hai.
+Routine rectal enema mein suitable patient ko left lateral ya modified Sims position mein rakhna common nursing practice hai. Isse rectal access aur distal colon ke anatomical pathway ke hisaab se administration support hota hai. Nurse consent, privacy, mobility restrictions aur product-specific protocol check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Other positions routine access ya safety ke liye less suitable ho sakti hain.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported standing se fall risk badhta hai aur controlled administration mushkil hoti hai.
+- **B (Sahi):** Left side lying with hip and knee flexion usual rectal access aur comfortable positioning support karti hai.
+- **C (Galat):** High Fowler oral feeding ya breathing support ke liye useful ho sakta hai, lekin routine rectal enema position nahi hai.
+- **D (Galat):** Flat prone without rectal access procedure ke liye suitable nahi hai.
+
+**Exam clue:** Traditional exam answer: left lateral or Sims, subject to patient safety.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3069,9 +3099,19 @@ Hypothermia circulation aur neurological function affect kar sakti hai. Nurse we
 
 **Correct: D. Verify the product, contraindications and electrolyte risk before administration**
 
-Certain enemas, especially sodium phosphate, electrolyte disturbances cause kar sakti hain. Kidney disease mein risk higher ho sakta hai, isliye product aur order review important hai.
+Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal impairment mein kidney in electrolytes ko effectively handle nahi kar pa sakti. Hyperphosphatemia, calcium disturbance, dehydration aur further kidney injury ka risk ho sakta hai. Frail patient ka prescription, contraindications aur product-specific guidance review karo aur concern ho toh administration se pehle prescriber se clarification lo.
 
-**Baaki options kyun sahi nahi hain?** Solutions interchangeable nahi hain. Unreviewed phosphate aur volume increase unsafe ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Enema solutions ka mechanism, electrolyte content aur safety profile alag ho sakta hai.
+- **B (Galat):** Apne aap volume badhana fluid aur electrolyte harm ka risk badha sakta hai.
+- **C (Galat):** Kidney disease phosphate product ke liye important risk factor hai. Bina review use karna unsafe hai.
+- **D (Sahi):** Product, renal status aur contraindications verify karna preventable harm ko reduce karta hai.
+
+**Exam clue:** Renal impairment mein phosphate enema ko routine interchangeable product mat samjho.
+
+**Clinical reference:** [Topic reference](https://medlineplus.gov/druginfo/meds/a614018.html) (indexed guidance, direct page retrieval failed).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
