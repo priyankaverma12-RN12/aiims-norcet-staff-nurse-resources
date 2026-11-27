@@ -138,29 +138,29 @@
 
 ## Part 2 — Q6–Q10 (Cardiovascular)
 
-### Q6. At 36 weeks, a pregnant woman has new facial swelling, severe headache and visual disturbance. What is the best triage action?
+### Q6. A pregnant woman with a modest physiological fall in vascular resistance feels light-headed briefly when she rises rapidly from a chair. Which explanation and preventive advice fit this presentation when urgent causes have been excluded?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
 
-- **A.** Give routine reassurance because all pregnancy edema is physiological
-- **B.** Wait for the next monthly visit
-- **C.** Arrange immediate obstetric assessment for possible hypertensive disease
-- **D.** Diagnose uncomplicated varicose veins
+- **A.** Transient venous pooling can reduce cerebral perfusion, so rise gradually and report recurrent or severe symptoms
+- **B.** Standing immediately always increases venous return without exception
+- **C.** Prolonged standing is the only treatment for faintness
+- **D.** The symptom confirms a fetal arrhythmia
 
 <details><summary>✅ Answer aur detailed A–D Hinglish explanation</summary>
 
-**Correct: C. Arrange immediate obstetric assessment for possible hypertensive disease**
+**Correct: A. Transient venous pooling can reduce cerebral perfusion, so rise gradually and report recurrent or severe symptoms**
 
-- **A kyun galat hai:** Normal dependent edema generally legs mein ho sakta hai, lekin severe headache aur visual changes ko physiological bolkar ignore nahi karna chahiye.
-- **B kyun galat hai:** Monthly follow-up ka wait serious complication ki diagnosis delay kar sakta hai.
-- **C kyun sahi hai:** Face swelling ke saath severe headache aur vision changes preeclampsia jaise serious disorder ke clues ho sakte hain. Nurse ko urgent BP aur clinical assessment arrange karna chahiye, kyunki maternal aur fetal safety affected ho sakti hai.
-- **D kyun galat hai:** Varicose veins superficial veins ka dilatation hain. Yeh combination of systemic warning signs explain nahi karti.
+- **A kyun sahi hai:** Jab woman suddenly khadi hoti hai, toh gravity ki wajah se kuch blood temporarily legs mein pool ho sakta hai. Pregnancy mein vasodilation ke saath yeh venous return aur brain tak blood flow ko briefly reduce kar sakta hai. Dheere se position change karna helpful ho sakta hai. Persistent dizziness, fainting ya other warning signs par clinical assessment zaroori hai.
+- **B kyun galat hai:** Standing ke baad gravity blood ko lower body ki taraf shift kar sakti hai. Body normally compensate karti hai, lekin venous return har situation mein instantly increase ho, aisa nahi hai.
+- **C kyun galat hai:** Agar dizziness ho rahi hai toh prolonged standing symptoms worsen kar sakti hai aur fall ka risk badha sakti hai. Patient ko safely bithana aur assessment karna better hai.
+- **D kyun galat hai:** Maternal light-headedness se fetal rhythm diagnose nahi hota. Mother ki circulation aur possible causes assess karna pehle important hai.
 
-**Exam clue:** Swelling with severe headache or visual symptoms needs urgent review.
+**Exam clue:** Position-related dizziness on standing differs from supine vena cava compression. Recurrent or severe symptoms need assessment.
 
-**Clinical reference:** [CDC — urgent maternal warning signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
+**Clinical reference:** [Maternal physiological changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4928162/)
 
-**YouTube MCQ practice:** Specific question-solving video verification pending. [NORCET 10 countdown — physiological changes](https://www.youtube.com/watch?v=1rUuZ7EtVFE&t=6290s) ka published chapter marker 01:44:50 hematological aur cardiovascular changes cover karta hai. Yeh topic-level study lead hai, exact MCQ discussion ya playback confirm nahi hua.
+**YouTube MCQ practice:** Specific question-solving video verification pending.
 
 </details>
 
@@ -415,29 +415,29 @@ Dekho, delivery ke baad heart par load immediately khatam nahi hota. Isliye card
 
 ## Part 4 — Q16–Q20 (Hematological)
 
-### Q16. A pregnant woman's red cell mass rises, but her hematocrit declines. Which pattern is most compatible with normal hemodilution?
+### Q16. How does physiological hemodilution during normal pregnancy affect blood viscosity, assuming no additional pathological condition?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
 
-- **A.** Red cell mass necessarily falls to zero
-- **B.** Plasma volume contracts more than red cell mass
-- **C.** Every red cell becomes abnormally enlarged
-- **D.** Plasma volume expands proportionately more than red cell mass
+- **A.** It always makes blood markedly more viscous
+- **B.** It has no relationship to blood concentration
+- **C.** It tends to decrease blood viscosity
+- **D.** It converts plasma into a solid clot
 
 <details><summary>✅ Answer aur detailed A–D Hinglish explanation</summary>
 
-**Correct: D. Plasma volume expands proportionately more than red cell mass**
+**Correct: C. It tends to decrease blood viscosity**
 
-- **A kyun galat hai:** Red cells oxygen carry karte hain. Normal pregnancy mein unki total mass zero nahi hoti, balki badh sakti hai.
-- **B kyun galat hai:** Agar plasma proportionately kam ho jaaye, toh concentration badhne ka tendency hota hai. Yeh dilution explain nahi karta.
-- **C kyun galat hai:** Red cell size MCV se assess hota hai. Physiological dilution ke liye every red cell ka size badhna zaroori nahi.
-- **D kyun sahi hai:** Hematocrit blood volume ka woh percentage hai jo red cells occupy karte hain. Jab plasma volume red cell mass se proportionately zyada badhta hai, toh red cells ka percentage kam dikh sakta hai even though total red cell mass increases. Pathological anemia ko clinical assessment se alag identify karna chahiye.
+- **A kyun galat hai:** Blood ki red cell concentration kam hone par viscosity generally kam hoti hai. Physiological dilution ko marked increase in viscosity se confuse nahi karna chahiye.
+- **B kyun galat hai:** Red cell concentration blood viscosity ko influence karti hai. Isliye plasma expansion aur hematocrit ka relationship clinically relevant hai.
+- **C kyun sahi hai:** Viscosity ka matlab fluid ke flow ka resistance hai. Pregnancy mein plasma red cell mass se proportionately zyada expand ho sakta hai, jisse blood ki viscosity kam ho sakti hai. Lekin iska matlab clotting risk zero nahi hai, kyunki coagulation factors aur venous stasis alag mechanisms se VTE risk badhate hain.
+- **D kyun galat hai:** Normal circulating plasma liquid hota hai. Hemodilution plasma ko solid clot mein convert nahi karti. Clot formation coagulation activation par depend karti hai.
 
-**Exam clue:** Hematocrit is a proportion, not the same as total red cell mass.
+**Exam clue:** Lower blood viscosity and increased clotting tendency can coexist in pregnancy.
 
-**Clinical reference:** [Merck Manual — Physiology of pregnancy](https://www.merckmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/physiology-of-pregnancy)
+**Clinical reference:** [Maternal physiological changes](https://www.merckmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/physiology-of-pregnancy)
 
-**YouTube MCQ practice:** Specific question-solving video verification pending. [NORCET 10 countdown — physiological changes](https://www.youtube.com/watch?v=1rUuZ7EtVFE&t=6290s) ka published chapter marker 01:44:50 hematological aur cardiovascular changes cover karta hai. Yeh topic-level study lead hai, exact MCQ discussion ya playback confirm nahi hua.
+**YouTube MCQ practice:** Specific question-solving video verification pending.
 
 </details>
 
@@ -705,29 +705,29 @@ Dekho, delivery ke baad heart par load immediately khatam nahi hota. Isliye card
 
 </details>
 
-### Q27. A pregnant woman reports that her gums bleed easily but has no major bleeding symptoms. Which explanation and advice are most appropriate?
+### Q27. Which change in the natural anticoagulant system contributes to pregnancy's physiological shift toward coagulation?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse / CHO
 
-- **A.** All gum bleeding proves a severe clotting disorder
-- **B.** Stop oral hygiene throughout pregnancy
-- **C.** Assume pregnancy permanently destroys the teeth
-- **D.** Hormonal and vascular changes can increase gingival susceptibility, but persistent or significant bleeding needs dental or clinical assessment
+- **A.** Complete disappearance of all maternal platelets
+- **B.** Reduced protein S concentration or activity
+- **C.** A permanent increase in every natural anticoagulant that abolishes clotting
+- **D.** A complete absence of circulating fibrinogen
 
 <details><summary>✅ Answer aur detailed A–D Hinglish explanation</summary>
 
-**Correct: D. Hormonal and vascular changes can increase gingival susceptibility, but persistent or significant bleeding needs dental or clinical assessment**
+**Correct: B. Reduced protein S concentration or activity**
 
-- **A kyun galat hai:** Gum bleeding local inflammation se ho sakti hai. Severe clotting disorder establish karne ke liye broader clinical aur laboratory evidence chahiye.
-- **B kyun galat hai:** Oral hygiene stop karne se plaque aur gum inflammation worsen ho sakti hai. Gentle cleaning continue karna better hai.
-- **C kyun galat hai:** Pregnancy teeth ko automatically permanently destroy nahi karti. Dental care aur appropriate assessment important hain.
-- **D kyun sahi hai:** Pregnancy mein hormonal changes aur increased blood flow gums ki inflammatory response ko affect kar sakte hain. Gentle oral hygiene aur dental review useful hain. Excessive bleeding ya other bleeding signs ho toh medical assessment bhi chahiye.
+- **A kyun galat hai:** Platelets clot formation mein help karte hain. Unka complete disappearance severe bleeding risk create karega aur normal pregnancy adaptation nahi hai.
+- **B kyun sahi hai:** Protein S ek natural anticoagulant cofactor hai. Yeh activated protein C ke saath clotting ko regulate karne mein help karta hai. Pregnancy mein protein S ka level ya activity decrease ho sakti hai, jo increased coagulation tendency mein contribute karti hai. Pregnancy-specific interpretation zaroori hai, kyunki low protein S alone se inherited deficiency confirm nahi hoti.
+- **C kyun galat hai:** Natural anticoagulants clotting balance maintain karte hain. Pregnancy mein kuch anticoagulant activity kam hoti hai, na ki har factor permanently increase hokar clotting abolish karta hai.
+- **D kyun galat hai:** Fibrinogen generally pregnancy mein badhta hai. Complete absence se clot formation compromise ho sakti hai, aur yeh normal change nahi hai.
 
-**Exam clue:** Gingival symptoms may reflect pregnancy-related vascular changes, but do not ignore significant bleeding.
+**Exam clue:** Protein S may decrease in pregnancy. A pregnancy result alone is not proof of hereditary deficiency.
 
-**Clinical reference:** [Merck Manual — Physiology of pregnancy](https://www.merckmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/physiology-of-pregnancy)
+**Clinical reference:** [Maternal physiological changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4928162/)
 
-**YouTube MCQ practice:** Specific question-solving video verification pending. [NORCET 10 countdown — physiological changes](https://www.youtube.com/watch?v=1rUuZ7EtVFE&t=6290s) ka published chapter marker 01:44:50 hematological aur cardiovascular changes cover karta hai. Yeh topic-level study lead hai, exact MCQ discussion ya playback confirm nahi hua.
+**YouTube MCQ practice:** Specific question-solving video verification pending.
 
 </details>
 
@@ -812,3 +812,6 @@ Dekho, delivery ke baad heart par load immediately khatam nahi hota. Isliye card
 ## Evidence and coverage notes
 
 Merck Manual and pregnancy physiology review were directly retrieved. CDC maternal warning signs, FIGO anemia guidance and NHM programme overview were checked through retrieved/indexed text. The 2026 AMB operational guidelines are listed on the NHM site but the full document was not reviewed. Do not assume the overview supersedes newer local protocols. The video marker is indexed topic evidence only, not item-level MCQ verification. This combined bank adds 15 cardiovascular and 15 hematological questions. Individual-topic targets, full semantic and clinical audit, and Mermaid rendering remain pending.
+
+
+**Same-run quality correction:** Q6 and Q16 were rewritten before this bank was marked study-ready because their initial learning tasks overlapped earlier ANC warning-sign practice and the HPSSC hemodilution adaptation respectively. Q27 was refocused from gingival changes to a hematological mechanism. No extra question count is claimed. The initial commit remains in Git history. Prior published banks and historical practice files are unchanged.
