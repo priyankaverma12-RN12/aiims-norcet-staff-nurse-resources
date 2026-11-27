@@ -84,3 +84,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Biomedical waste reported examination evidence](04A-04B-BMW-Reported-Evidence.md): two retrieved AIIMS historical reports retained without count increment pending earlier-source overlap review. Current count 57 plus two academic adaptations.
+
+
+[Occupational exposure reported evidence](05A-Occupational-Exposure-Reported-Evidence.md): two retrieved NORCET 2020 and JIPMER 2013 historical reports retained without count increment pending earlier-source overlap review. Current count 57 plus two academic adaptations.
