@@ -21,9 +21,11 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. NVS Staff Nurse September 2019 (source linked in the explanation above). Independent adaptation, not exact original or authenticated official key. 
+**Exam evidence:** **🔵 NVS Staff Nurse September 2019 — Reported question**. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key.  Direct source reopened and inspected.
 
 **Related concept:** [Study notes](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques)
+
+**▶️ [Topic-wise MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Published description confirms techniques and case-based MCQs; exact item, channel and playback not verified. Not NORCET 11 historical evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -46,9 +48,11 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. RRB Nursing Superintendent 12 March 2026 shift I (source linked in the explanation above). Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note.
+**Exam evidence:** **🔵 RRB Nursing Superintendent 12 March 2026 shift I — Reported question**. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note. Direct source recheck failed in this run; previous retrieval retained.
 
 **Related concept:** [Study notes](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability)
+
+**▶️ [Topic-wise MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Medical Knowledge Online; description verified, exact item and playback pending. [Teaching: principles of documentation, 05:47](https://www.youtube.com/watch?v=7hGx3Gv2XUg&t=347s) (published chapter timestamp, not exact question).
 <!-- /job4-metadata -->
 </details>
 
