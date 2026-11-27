@@ -104,6 +104,10 @@ The 35 curriculum chapters below are grouped by subject. Chapter pages describe 
 <!-- Compatibility anchors for the historical homepage. -->
 <a name="new-norcet-clinical-practice--156-additional-questions"></a>
 
+### Additional preserved study package
+
+- [Nervous System — existing study package](Chapters/Nervous-System/README.md) — retained separately from the 35-chapter curriculum map.
+
 ## Exam practice and source evidence
 
 - Original MCQs are practice material, not official previous-year questions.
