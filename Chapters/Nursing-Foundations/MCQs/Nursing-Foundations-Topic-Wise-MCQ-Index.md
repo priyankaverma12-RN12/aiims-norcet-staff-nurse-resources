@@ -44,5 +44,8 @@
 |---|---:|---:|
 | [Nursing process and care planning](01A-Nursing-Process-and-Care-Planning-13-MCQs.md) | 13 | 30 |
 | [Clinical judgment and reasoning](01B-Clinical-Judgment-and-Reasoning-27-MCQs.md) | 27 | 30 |
+| [Therapeutic communication](02A-Therapeutic-Communication-21-MCQs.md) | 21 | 30 |
+| [Nursing documentation and records](02B-Nursing-Documentation-and-Records-23-MCQs.md) | 23 | 30 |
+| [Clinical handover and team communication](02C-Clinical-Handover-and-Team-Communication-26-MCQs.md) | 26 | 30 |
 
-Current inventory **640 original question slots** (268 Medium, 372 Difficult), initial 600 + 40 new. Old 20 group 01 allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **710 original question slots** (294 Medium, 416 Difficult), initial 600 + 110 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.

@@ -81,3 +81,8 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Clinical judgment and reasoning](01B-Clinical-Judgment-and-Reasoning.md), 30 allocated.
 
 [Individual-topic coverage audit](Individual-Topic-Coverage-Audit.md). Remaining 29 grouped banks require individual coverage counts, expansion and detailed concepts.
+
+
+- [Therapeutic communication](02A-Therapeutic-Communication.md), 30 allocated.
+- [Nursing documentation and records](02B-Nursing-Documentation-and-Records.md), 30 allocated.
+- [Clinical handover and team communication](02C-Clinical-Handover-and-Team-Communication.md), 30 allocated. Groups 03–30 remain to audit.

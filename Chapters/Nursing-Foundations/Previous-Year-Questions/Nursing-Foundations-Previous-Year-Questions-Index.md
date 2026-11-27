@@ -15,3 +15,6 @@
 
 
 [Group 01 nursing process reported GMCH 2025 and AIIMS Jodhpur 2019 evidence](01-Nursing-Process-Reported-Evidence.md). Count remains 34 pending overlap audit. DSSSB indexed lead and official-key gaps explicitly noted.
+
+
+[Group 02 communication, documentation and handover reported evidence](02-Communication-Documentation-Handover-Reported-Evidence.md). Count unchanged at 34 pending reconciliation, one retrieved NVS source and indexed RRB/NORCET/SGPGI leads.
