@@ -294,3 +294,8 @@ Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 5
 ### Continuation — CAUTI prevention
 
 40 original MCQs with hidden rationales, concept guide and diagram, three indexed videos including an Adda247 catheterization MCQ session with retrieved channel attribution, and one distinct retrieved RRB March 2026 reported question adaptation. Total 1,080 across 27/30 defined groups (507 Medium and 573 Difficult), 54 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending inventory reconciliation. Next: CLABSI and vascular device infection prevention. Official keys, full video playback, individual-topic expansion and comprehensive semantic duplicate audit remain pending.
+
+
+### Continuation — CLABSI and vascular device infection prevention
+
+40 original MCQs, concept guide and diagram, four indexed video resources with retrieved channel descriptions, one reported AIIMS Bhopal 2018 shift II adaptation. Total 1,120 across 28/30 defined topic groups (531 Medium and 589 Difficult), 55 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending inventory reconciliation. Next: VAP and surgical site infection prevention. Full playback, dedicated CLABSI-only question video, official keys, individual-topic expansion and semantic audit remain pending.
