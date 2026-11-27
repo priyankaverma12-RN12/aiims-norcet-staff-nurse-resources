@@ -410,32 +410,32 @@
 
 </details>
 
-### Q15. Three numbers have exactly six positive divisors. Which does not?
+### Q15. Which number does not have exactly three distinct prime factors?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** 36
-- **B.** 18
-- **C.** 28
-- **D.** 44
+- **A.** 60
+- **B.** 70
+- **C.** 49
+- **D.** 84
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. 36**
+**Correct answer: C. 49**
 
-**Kyun sahi hai:** 36=2²×3² hai. Divisor count 3×3=9 hai.
+**Kyun sahi hai:** 49=7² hai. Prime factor 7 repeat hota hai, lekin distinct prime factor sirf ek hai. Question total exponents nahi, alag prime bases ki count poochta hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** 18=2×3² hai, divisor count 2×3=6 hai.
-- **C.** 28=2²×7 hai, divisor count 3×2=6 hai.
-- **D.** 44=2²×11 hai, divisor count 3×2=6 hai.
+- **A.** 60=2²×3×5 hai. Ismein 2,3,5 teen distinct prime factors hain.
+- **B.** 70=2×5×7 hai. Ismein teen distinct prime factors hain.
+- **D.** 84=2²×3×7 hai. Ismein 2,3,7 teen distinct prime factors hain.
 
-**Exam trick:** Har number ya pair ko same mathematical test se verify karo.
+**Exam trick:** Prime factor repeat ho toh usko distinct count mein ek hi baar count karo.
 
 [Concept](../Concepts/22-Classification-and-Odd-One-Out.md#number-and-fraction-classification) · [Reference](https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/quick-revision/reasoning/classification-rules/)
 
-**▶️ [YouTube MCQ practice — Ayushi Aggarwal, Classification (Odd One Out) Questions](https://www.youtube.com/watch?v=brXZ7mAXX8Y)**. Description names 27 word, number, letter and general knowledge classification questions. Broad description-level mapping, exact item/playback pending.
+**▶️ [YouTube MCQ practice — Ayushi Aggarwal, Classification (Odd One Out) Questions](https://www.youtube.com/watch?v=brXZ7mAXX8Y)**. Description names number classification. Exact factorisation item and playback pending.
 
 </details>
 
@@ -613,32 +613,32 @@
 
 </details>
 
-### Q22. Which group is not arranged in strictly decreasing alphabetical order?
+### Q22. Which list of words is not in dictionary order?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** ZUR
-- **B.** PNK
-- **C.** JFD
-- **D.** XTV
+- **A.** badge, bag, ball
+- **B.** plane, plank, plain
+- **C.** care, cart, case
+- **D.** read, real, rear
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. XTV**
+**Correct answer: B. plane, plank, plain**
 
-**Kyun sahi hai:** X ke baad T hai, lekin V alphabetically T ke baad hai, isliye order strictly decreasing nahi.
+**Kyun sahi hai:** Teeno words mein first three letters pla same hain. Fourth letter plain mein i aur plane/plank mein n hai. i pehle aata hai, isliye correct dictionary order plain, plane, plank hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Z, U aur R decreasing order mein hain.
-- **B.** P, N aur K decreasing order mein hain.
-- **C.** J, F aur D decreasing order mein hain.
+- **A.** Shared ba ke baad d, g aur l ka order increasing hai.
+- **C.** care aur cart mein shared car ke baad e, t hain. case mein third letter s hai jo r ke baad aata hai.
+- **D.** Shared rea ke baad d, l aur r increasing order mein hain.
 
-**Exam trick:** Alphabet positions aur vowel rule ko explicitly check karo.
+**Exam trick:** Common prefix ke baad pehla different letter compare karo, poore word ki length nahi.
 
 [Concept](../Concepts/22-Classification-and-Odd-One-Out.md#letter-and-word-patterns) · [Reference](https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/quick-revision/reasoning/classification-rules/)
 
-**▶️ [YouTube MCQ practice — Ayushi Aggarwal, Classification (Odd One Out) Questions](https://www.youtube.com/watch?v=brXZ7mAXX8Y)**. Description names 27 word, number, letter and general knowledge classification questions. Broad description-level mapping, exact item/playback pending.
+**▶️ [YouTube MCQ practice — Ayushi Aggarwal, Classification (Odd One Out) Questions](https://www.youtube.com/watch?v=brXZ7mAXX8Y)**. Description names word and letter classification. Specific dictionary-order item and playback pending.
 
 </details>
 
