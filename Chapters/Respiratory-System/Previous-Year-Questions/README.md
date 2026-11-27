@@ -30,7 +30,7 @@ Research lead: [SGPGI Staff Nurse 2024 Shift 1 paper (third-party PDF)](https://
 
 ## Day 3 — Obstructive diseases & oxygen therapy
 
-[Third-party reported nursing exam question leads (including AIIMS Bathinda 2019)](Day-03-Reported-Nursing-Exam-Questions.md) — OSSSC 2023, BHU 2019 and AIIMS (date unverified). Official paper/key not independently verified. [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md).
+[📝 Four source-traced practice adaptations](Day-03-Reported-Nursing-Exam-Questions.md) — retrieved BHU 2019, AIIMS NORCET 2020, HPSSSB 2020 and RRB 2019 reports. Related OSSSC 2023, HPSSC 2021, PGIMER 2015 indexed evidence consolidated; AIIMS Bathinda 2019 and RRB November 2026 leads retained. Four independently worded practice slots, no authenticated exact questions or official keys. One current topic-level video mapping, one earlier topic lead awaiting fresh confirmation, two missing specific videos. [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md).
 
 ## Day 2–3 practice research
 
