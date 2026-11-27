@@ -60,4 +60,4 @@ Vitreous hemorrhage and macular hole expansion, 27 November 2026: resumed from 4
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-085710-erm. Scope: epiretinal membrane chapter-local package only. Claimed UTC 2026-11-27T08:57:10Z. Expiry UTC 2026-11-27T09:27:10Z. -->
