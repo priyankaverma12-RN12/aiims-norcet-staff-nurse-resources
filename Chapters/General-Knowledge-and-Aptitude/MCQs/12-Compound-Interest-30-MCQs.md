@@ -407,28 +407,28 @@
 
 </details>
 
-### Q16. An investment increases by 25% in the first year and decreases by 20% in the second year. What is its net percentage change?
+### Q16. An account earns 10% compound interest in the first year. Its total two-year growth is 32%. What was the second-year interest rate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
-- **A.** 5%
-- **B.** -5%
-- **C.** 45%
-- **D.** 0%
+- **A.** 22%
+- **B.** 32%
+- **C.** 20%
+- **D.** 16%
 
 <details><summary>Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. 0%**
+**Correct answer: C. 20%**
 
-**Kyun sahi hai:** 1.25×0.80 = 1 hai. Amount original value par wapas aa jaata hai, toh net change zero hai.
+**Kyun sahi hai:** Do years ke baad total factor 1.32 hai. Pehle year ka factor 1.10 hai. Second year ka factor 1.32/1.10 = 1.20 hai, isliye rate 20% hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Yeh percentage changes ko add karta hai.
-- **B.** Yeh changes ka difference ulta leta hai.
-- **C.** Yeh decrease ko increase ki tarah treat karta hai.
+- **A.** 32−10 = 22% rates ko seedha subtract karta hai, lekin compound growth mein second year ka base badla hua hai.
+- **B.** 32% dono years ki combined growth hai.
+- **D.** 16% total growth ko do se divide karta hai aur known first-year rate ignore karta hai.
 
-**Exam trick:** Cash flow ka exact timing aur multiplier check karo. Same principal ko bina wajah dobara add mat karo.
+**Exam trick:** Combined growth factor ko known period ke factor se divide karo.
 
 [Concept](../Concepts/12-Compound-Interest.md#changing-rates-and-cash-flows) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
@@ -700,7 +700,7 @@
 
 **Exam trick:** Growth ya depreciation mein current value ka factor use karo. Reverse calculation mein factor se divide karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#growth-and-depreciation) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#effective-rate-and-si-comparison) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
@@ -727,7 +727,7 @@
 
 **Exam trick:** Growth ya depreciation mein current value ka factor use karo. Reverse calculation mein factor se divide karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#growth-and-depreciation) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#changing-rates-and-cash-flows) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
@@ -754,7 +754,7 @@
 
 **Exam trick:** Growth ya depreciation mein current value ka factor use karo. Reverse calculation mein factor se divide karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#growth-and-depreciation) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#annual-and-periodic-compounding) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
@@ -781,7 +781,7 @@
 
 **Exam trick:** Growth ya depreciation mein current value ka factor use karo. Reverse calculation mein factor se divide karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#growth-and-depreciation) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#annual-and-periodic-compounding) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
@@ -808,7 +808,7 @@
 
 **Exam trick:** Growth ya depreciation mein current value ka factor use karo. Reverse calculation mein factor se divide karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#growth-and-depreciation) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#changing-rates-and-cash-flows) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
