@@ -16,10 +16,12 @@ D. Check the medication record without identifying the person at the bedside
 
 **Correct answer: B. Ask the patient to state two approved identifiers and match these to the identification band and medication record**
 
-- **A (Incorrect):** Bed number change ho sakta hai aur identity establish nahi karta.
-- **B (Correct):** Active patient confirmation aur approved identifiers ko band and current medication record se match karna wrong-patient error reduce karta hai.
-- **C (Incorrect):** Single surname multiple patients mein same ho sakta hai.
-- **D (Incorrect):** Correct prescription bhi wrong person ko diya ja sakta hai agar bedside identity verify nahi ki.
+- **A (Incorrect):** Bed number patient ka location batata hai, identity nahi. Bed transfer aur room change hone par wrong-person medication error ho sakta hai.
+- **B (Correct):** Patient se open-ended question ke through do approved identifiers, jaise naam aur date of birth ya unique record number, state karvao. Inko identity band aur current medication record se match karo. Mismatch mile toh administration pause karke authorized process se resolve karo. Barcode scanning additional safeguard hai, identity verification ka replacement nahi.
+- **C (Incorrect):** Sirf surname insufficient hai kyunki multiple patients ka surname same ho sakta hai. Leading question se patient galat identity ko bhi agree kar sakta hai.
+- **D (Incorrect):** Correct medication order hone ke bawajood bedside par wrong person ko medicine mil sakti hai. Record aur actual patient ki identity ko link karna zaroori hai.
+
+**Exam clue:** Two approved person-specific identifiers, not bed or room number.
 
 [Reported Testbook question](https://testbook.com/question-answer/while-administering-medication-to-prevent-error-pa--662a49c56624fd068ec30a62) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/) · [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification)
 
@@ -47,10 +49,12 @@ D. Perform the postoperative pain assessment
 
 **Correct answer: C. Participate in confirmation of the correct patient, intended site and procedure**
 
-- **A (Incorrect):** Discharge teaching separate stage hai, pre-incision safety pause ka main purpose nahi.
-- **B (Incorrect):** Final count ko surgery se pehle complete claim karna inaccurate hai. Counting protocol relevant stages par follow hota hai.
-- **C (Correct):** Active team verification wrong-patient, wrong-site aur wrong-procedure risk reduce karti hai. Discrepancy resolve hone tak planned incision start nahi karna chahiye.
-- **D (Incorrect):** Postoperative pain assessment surgery ke baad recovery care ka part hai.
+- **A (Incorrect):** Discharge teaching recovery instructions ke liye important hai, lekin incision se pehle time-out ka objective wrong patient, wrong procedure aur wrong site prevent karna hai.
+- **B (Incorrect):** Instrument aur swab counts facility protocol ke relevant stages par kiye jaate hain. Surgery shuru hone se pehle final count complete claim karna incorrect hai aur time-out ke identity checks ko replace nahi karta.
+- **C (Correct):** Team time-out mein members actively correct patient, procedure aur surgical site confirm karte hain. Nurse discrepancies aur safety concerns raise karti hai. Planned incision discrepancy resolve hone tak start nahi honi chahiye. Surgical checklist ke sign-in, time-out aur sign-out stages alag hain.
+- **D (Incorrect):** Postoperative pain assessment recovery phase ka clinical task hai. Woh pre-incision team verification ka main purpose nahi hai.
+
+**Exam clue:** Time-out = team pause immediately before procedure/incision for shared verification.
 
 [Reported Testbook question](https://testbook.com/question-answer/nurses-role-in-time-out-procedure-is-tonb--68c94187cfcf95e287e51108) · [WHO reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions) · [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety)
 
