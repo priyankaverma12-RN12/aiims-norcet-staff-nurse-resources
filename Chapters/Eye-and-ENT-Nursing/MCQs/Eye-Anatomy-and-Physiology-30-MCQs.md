@@ -4,7 +4,7 @@
 
 [Chapter](../README.md) · [Concepts](../Concepts/Eye-Anatomy-and-Physiology.md) · [Previous Year Questions](../Previous-Year-Questions/Eye-and-ENT-Nursing-Past-Paper-Research-Register.md)
 
-**YouTube MCQ practice:** Anatomy-specific video verification pending for Q1–30. [VS Nursing Academy eye disorders MCQ session](https://www.youtube.com/watch?v=GCMk4wrOvBg) is related clinical practice, not confirmed coverage of these anatomy items. [PW model-based anatomy teaching](https://www.youtube.com/watch?v=rMmGCyXEIMU) description covers major anatomy structures, not a dedicated MCQ video. Exact question timestamps unavailable.
+**YouTube MCQ practice:** [GS India — Eyes MCQ: Anatomy and Physiology MCQ for Nursing Competitive Exams](https://www.youtube.com/watch?v=bSc66vwFzLk) is a topic-level practice resource for Q1–30. Title and description checked, exact individual question coverage and playback pending. [VS Nursing Academy eye disorders MCQ session](https://www.youtube.com/watch?v=GCMk4wrOvBg) is related clinical practice, not confirmed coverage of these anatomy items. [PW model-based anatomy teaching](https://www.youtube.com/watch?v=rMmGCyXEIMU) description covers major anatomy structures, not a dedicated MCQ video. Exact question timestamps unavailable.
 
 ### Q1. Which pair forms the outer fibrous coat of the eyeball?
 
@@ -29,7 +29,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ki-layers). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -56,7 +56,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ki-layers). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -83,7 +83,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ki-layers). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -110,7 +110,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ki-layers). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -137,7 +137,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -164,7 +164,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -191,7 +191,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -218,7 +218,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -245,7 +245,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -272,7 +272,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -299,7 +299,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -326,7 +326,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). Nasal retinal fibers cross karti hain, temporal retinal fibers nahi.
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -353,7 +353,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#light-aur-vision). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -380,7 +380,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -407,7 +407,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -434,7 +434,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -461,7 +461,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -488,7 +488,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -515,7 +515,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#eye-ke-fluids). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -542,7 +542,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -569,7 +569,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -596,7 +596,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -623,7 +623,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -650,7 +650,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -677,7 +677,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#accommodation-aur-pupils). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -704,7 +704,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#tears-aur-eye-movements). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -731,7 +731,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#tears-aur-eye-movements). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -758,7 +758,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#tears-aur-eye-movements). CN VII eyelid closure ke liye yaad rakho.
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -785,7 +785,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#tears-aur-eye-movements). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
@@ -812,7 +812,7 @@
 
 **Revision:** [Related concept](../Concepts/Eye-Anatomy-and-Physiology.md#tears-aur-eye-movements). 
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — Eye anatomy / GS India](https://www.youtube.com/watch?v=bSc66vwFzLk)** (chapter-topic match only, exact item coverage pending).
 
 </details>
 
