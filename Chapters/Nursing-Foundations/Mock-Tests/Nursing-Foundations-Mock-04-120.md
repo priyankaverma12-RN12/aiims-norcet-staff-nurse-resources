@@ -663,10 +663,18 @@ Primary source generally woh person hai jiske health experiences ke baare mein i
 
 **Correct: D. Subjective**
 
-SOAP mein S patient-reported symptoms record karta hai. O observed findings, A clinical assessment aur P planned actions represent karte hain.
+<!-- job5-rationale -->
+SOAP structured notes ka format hai. S subjective yani patient ke own symptoms aur experiences, O objective yani examination aur measured findings, A assessment yani available information ki clinical interpretation, P plan yani next care actions. Agar patient burning pain report kare toh S section mein source clearly attribute karo. Test result O mein aayega.
 
-**Baaki options kyun sahi nahi hain?** Objective measured findings hain. Assessment interpretation hai. Plan future care steps hain.
+**Option-by-option reasoning**
 
+- **A:** A Objective observed ya measured findings record karta hai.
+- **B:** B Plan future interventions aur review describe karta hai.
+- **C:** C Assessment data ka interpretation hai.
+- **D:** D Subjective patient ka own report capture karta hai.
+
+**Exam clue:** SOAP = Subjective, Objective, Assessment, Plan.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -1966,10 +1974,18 @@ Route batata hai drug oral, IV, IM ya other method se deni hai. Route change se 
 
 **Correct: C. Please show me how you will use the inhaler at home**
 
-Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha hai. Mistake ho toh technique dobara teach ki ja sakti hai.
+<!-- job5-rationale -->
+Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi ya nahi. Inhaler jaise physical skill ke liye show-me ya return demonstration better check hai. Patient ko device-specific steps demonstrate karne do, incorrect step gently correct karo aur repeat demonstration lo. Isse nurse teaching improve kar sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Yes-no question actual skill confirm nahi karta. Signature understanding prove nahi karti. Rote repetition practical skill se different hai.
+**Option-by-option reasoning**
 
+- **A:** A signature education comprehension establish nahi karta.
+- **B:** B exact words repeat karna safe technique demonstrate nahi karta.
+- **C:** C actual skill performance verify karta hai.
+- **D:** D yes-no question understanding ka reliable proof nahi.
+
+**Exam clue:** Teach-back for understanding, show-me for practical skills.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -2316,10 +2332,18 @@ Serous drainage clear ya straw-colored watery fluid hoti hai. Amount aur change 
 
 **Correct: C. Objective assessment findings, actions taken and notifications**
 
-Fall ke baad hidden injury possible hai. Nurse assessment, action aur communication clinical record mein accurately document karti hai. Separate incident report policy ke according complete hoti hai.
+<!-- job5-rationale -->
+Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. Nurse patient ki condition, pain, mobility, neurological findings aur fall circumstances protocol ke according assess kare. Required monitoring, interventions aur notifications clinical chart mein factually document karo. Separate incident reporting bhi local policy ke according complete karo.
 
-**Baaki options kyun sahi nahi hain?** Incident report clinical documentation replace nahi karti. Blame speculation inappropriate hai. No visible injury documentation ki need remove nahi karti.
+**Option-by-option reasoning**
 
+- **A:** A incident number clinical assessment ka substitute nahi hai.
+- **B:** B clinical event omit karta hai aur delayed injury miss ho sakti hai.
+- **C:** C objective findings, care aur notifications continuity support karte hain.
+- **D:** D colleague par speculation factual charting nahi hai.
+
+**Exam clue:** Clinical chart records care, incident system supports safety review.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q8, ID 34](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
@@ -2464,10 +2488,18 @@ Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse pati
 
 **Correct: A. Acknowledge the frustration and explain what can be done next**
 
-Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear next steps uncertainty kam kar sakte hain.
+<!-- job5-rationale -->
+Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. Nurse calm tone mein frustration acknowledge kare aur realistic next action explain kare. Actual waiting time uncertain ho toh honest communication do. Threatening behavior ho toh safe distance aur facility de-escalation policy follow karo. Respect maintain karte hue appropriate boundaries set karo.
 
-**Baaki options kyun sahi nahi hain?** Argument anger badha sakta hai. Unrealistic promise misleading hai. Ignoring concern trust reduce karti hai.
+**Option-by-option reasoning**
 
+- **A:** A emotion acknowledge karta hai aur actionable next step deta hai.
+- **B:** B unsupported promise trust damage kar sakti hai.
+- **C:** C argument confrontation badha sakta hai.
+- **D:** D ignoring se patient ki concern unresolved rehti hai.
+
+**Exam clue:** Acknowledge emotion, explain realistic action.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
