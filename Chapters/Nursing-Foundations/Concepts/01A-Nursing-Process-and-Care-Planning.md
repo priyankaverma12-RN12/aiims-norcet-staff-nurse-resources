@@ -22,7 +22,9 @@
 **▶️ [YouTube MCQ practice — Nursing process, ADPIE scenarios](https://www.youtube.com/watch?v=Nczi2xT76QA)** · ADAPT NCLEX REVIEW, description and published topic chapters verified, supplementary practice not Indian exam evidence; exact question coverage pending.
 <!-- /job4-metadata -->
 
-Nursing process patient ki needs samajhne, safe care plan banane, implement karne aur result check karne ka repeated cycle hai. Imagine patient operation ke baad chalne mein difficulty report karta hai. Nurse pehle pain, mobility, baseline function, safety and vital signs assess karti hai. Phir human response identify karti hai, achievable goal set karti hai, planned safe assistance deti hai, aur reassess karti hai.
+Nursing process ko aap patient ki dekhbhaal karne ka ek systematic tareeka samjho. Nurse pehle patient ki zaroorat samajhti hai. Phir woh uske hisaab se care ka plan banati hai, care deti hai aur dekhti hai ki patient ko kitna fayda hua. Ye cycle baar-baar chalti hai, kyunki patient ki condition badal sakti hai.
+
+Maan lo operation ke baad patient kehta hai ki use chalne mein dikkat ho rahi hai. Nurse pehle poochti hai ki dard kitna hai aur operation se pehle patient kitna chal paata tha. Woh patient ki movement, vital signs aur safety bhi check karti hai. Is information se nurse samajhti hai ki patient ko kis tarah ki madad chahiye. Phir woh ek achievable goal banati hai. Safe assistance dene ke baad nurse dobara check karti hai ki patient ki movement mein improvement hua ya nahi.
 
 ```mermaid
 flowchart TD
@@ -36,13 +38,13 @@ flowchart TD
 
 | Step | Meaning | Example |
 |---|---|---|
-| Assessment | Subjective and objective information collect/validate | Patient reports dizziness, nurse measures observations |
-| Diagnosis | Evidence-supported patient response identify | Activity intolerance or fall risk as appropriate |
-| Planning | Patient-centered measurable goals and safe interventions | Patient demonstrates agreed safe transfer technique by review |
-| Implementation | Planned care within competence, adapt to changes | Assist transfer using appropriate equipment and staff |
-| Evaluation | Actual result compare with target | Record assistance level and revise plan |
+| Assessment | Nurse patient ki batayi hui aur khud observe ya measure ki hui information collect karti hai aur zaroorat par use verify karti hai. | Patient chakkar aane ki baat batata hai aur nurse uski observations check karti hai. |
+| Diagnosis | Nurse evidence ke basis par patient ki health problem se judi response ya risk ko identify karti hai. | Findings ke hisaab se nurse activity intolerance ya fall risk identify kar sakti hai. |
+| Planning | Nurse patient ke saath measurable goal aur safe care plan banati hai. | Patient agreed review time tak safe transfer ka tareeka dikha sakega. |
+| Implementation | Nurse apni competence aur scope ke andar planned care deti hai aur patient ki condition badalne par care adjust karti hai. | Nurse suitable equipment aur staff ki madad se patient ko safely transfer karwati hai. |
+| Evaluation | Nurse actual result ko planned goal ke saath compare karti hai. | Nurse record karti hai ki patient ko kitni madad chahiye thi aur zaroorat par plan revise karti hai. |
 
-Some professional standards separate outcome identification from planning, producing six named phases. ADPIE five-step teaching mnemonic valid hai, exam question ka framework identify karo. Cycle rigid sequence nahi hai: life-threatening problem mein immediate safety action and assessment parallel ho sakte hain.
+Kuch professional standards mein outcome identification, yaani patient mein kya result chahiye, planning se alag step hota hai. Isliye unmein chhe phases hote hain. ADPIE nursing process ke paanch steps yaad rakhne ka valid teaching mnemonic hai. Exam mein dekho ki question kis framework ke hisaab se poochha gaya hai. Ye steps har situation mein fixed order mein karna zaroori nahi hai. Agar patient ki jaan ko turant khatra hai, toh nurse assessment ke saath-saath zaroori safety action bhi leti hai.
 
 <a name="assessment-and-data-validation"></a>
 
@@ -62,7 +64,13 @@ Some professional standards separate outcome identification from planning, produ
 **▶️ [YouTube MCQ practice — Nursing process, ADPIE scenarios](https://www.youtube.com/watch?v=Nczi2xT76QA)** · ADAPT NCLEX REVIEW, description and published topic chapters verified, supplementary practice not Indian exam evidence; exact question coverage pending.
 <!-- /job4-metadata -->
 
-Subjective means patient ka reported experience, e.g. nausea. Objective means measured/observed finding, e.g. temperature. Primary source usually patient. Secondary sources caregivers, records and team observations, source attribute karo. Initial comprehensive assessment overall baseline, focused assessment specific new concern, emergency assessment immediate life threats and ongoing reassessment change detect karti hai. Contradiction ko ignore mat karo. Check timing, measurement technique, context and patient explanation. A reported symptom is not false just because objective evidence is not yet available.
+Subjective data woh information hai jo patient apne experience ke baare mein batata hai. Jaise patient kehta hai ki use ulti jaisa lag raha hai. Objective data woh information hai jo nurse observe ya measure kar sakti hai, jaise thermometer se measure kiya hua temperature.
+
+Aam taur par patient khud information ka primary source hota hai. Caregiver, purane records aur healthcare team ki observations secondary sources ho sakti hain. Nurse ko record mein batana chahiye ki information kahan se mili.
+
+Initial comprehensive assessment mein nurse patient ki overall condition ka baseline samajhti hai, taaki baad mein changes pehchaan sake. Focused assessment mein nurse kisi ek specific nayi problem ko detail mein check karti hai. Emergency assessment mein nurse jaan ko turant khatra pahunchane wali problems pehle dhoondhti hai. Ongoing reassessment se nurse ko pata chalta hai ki patient ki condition badal rahi hai ya nahi.
+
+Agar patient ki baat aur recorded measurement match nahi karte, toh nurse ko measurement ka time, tareeka aur situation check karni chahiye. Woh patient se bhi clarification leti hai. Sirf isliye patient ki takleef ko galat nahi maana ja sakta ki abhi objective evidence nahi mila hai.
 
 <a name="diagnosis-planning-and-implementation"></a>
 
@@ -82,11 +90,19 @@ Subjective means patient ka reported experience, e.g. nausea. Objective means me
 **▶️ [YouTube MCQ practice — Nursing process, ADPIE scenarios](https://www.youtube.com/watch?v=Nczi2xT76QA)** · ADAPT NCLEX REVIEW, description and published topic chapters verified, supplementary practice not Indian exam evidence; exact question coverage pending.
 <!-- /job4-metadata -->
 
-Medical diagnosis disease identify karti hai, nursing diagnosis human response or vulnerability. Problem-focused diagnostic statement may use problem, related factors and supporting evidence (PES teaching structure). Risk diagnosis existing risk factors describes, not current defining signs of that specific problem. Use institution-approved terminology. Health promotion diagnoses concern readiness for improved health behavior. Cluster relevant cues, avoid unsupported assumptions and stigmatizing labels. Choose priorities based on urgency and harm, not rigid rules.
+Medical diagnosis se pata chalta hai ki patient ko kaunsi disease hai. Nursing diagnosis mein nurse samajhti hai ki health condition ki wajah se patient ko kya problem ho rahi hai ya kis problem ka risk hai.
 
-Goals patient-centered, specific, measurable, achievable, relevant and time-bound (SMART). Goals patient results hain, interventions nurse/team actions. Example: goal patient safely demonstrates agreed transfer technique by end of shift. Intervention nurse assists and teaches correct transfer. Fluid or mobility targets individual restrictions and ability ke according choose karo. Patient preferences and informed refusal respect karo.
+Problem-focused nursing diagnosis mein PES teaching structure use kiya ja sakta hai. P ka matlab problem, E ka matlab etiology ya related factor, aur S ka matlab signs aur symptoms hai jo problem ko support karte hain. Risk diagnosis tab use hota hai jab problem ka risk maujood hai, lekin us specific problem ke defining signs abhi nahi hain. Health promotion diagnosis patient ki health-related habits improve karne ki readiness se related hota hai. Nurse ko apne institution mein approved terminology use karni chahiye.
 
-Independent, prescribed/dependent and collaborative interventions ka distinction local scope and policy se guide hota hai. Implementation se pehle current condition and contraindications check karo. Equipment missing ho toh safe validated alternative arrange karo. Document actual care and response, never fabricate completion.
+Nurse related findings ko ek saath dekhti hai, taaki diagnosis evidence par based ho. Bina information ke assumptions banana ya patient ko stigmatizing label dena sahi nahi hai. Priority decide karte waqt nurse dekhti hai ki kaunsi problem urgent hai aur delay se kitna nuksaan ho sakta hai. Sirf ek fixed rule har patient par apply nahi karna chahiye.
+
+Goal ka matlab hai ki care ke baad patient mein hum kya result dekhna chahte hain. SMART goal specific, measurable, achievable, relevant aur time-bound hota hai. Iska matlab hai ki goal clear ho, result check kiya ja sake, patient use achieve kar sake, woh patient ki zaroorat se related ho aur uska ek review time ho.
+
+Goal aur intervention alag hote hain. Maan lo goal ye hai ki patient shift ke end tak agreed transfer technique safely dikha sake. Intervention ye hai ki nurse patient ko correct technique sikhaye aur transfer mein zaroori madad de. Fluid aur movement ke targets patient ki ability aur restrictions ko dhyan mein rakhkar banane chahiye. Nurse ko patient ki preferences aur information samajhne ke baad care se mana karne ke decision ka respect karna chahiye.
+
+Kuch interventions nurse apne approved scope mein independently kar sakti hai. Kuch ke liye prescription ya order chahiye hota hai aur kuch healthcare team ke saath milkar kiye jaate hain. Inka distinction local policy aur professional scope se samajhna chahiye.
+
+Care dene se pehle nurse patient ki current condition check karti hai aur dekhti hai ki koi contraindication toh nahi hai. Contraindication ka matlab hai aisi condition jismein woh intervention unsafe ya inappropriate ho sakta hai. Agar zaroori equipment nahi mil raha hai, toh nurse ko safe aur validated alternative arrange karna chahiye. Nurse wahi care aur patient ka response record kare jo actually hua hai. Jo care nahi di gayi, use complete dikhana sahi nahi hai.
 
 <a name="evaluation-and-clinical-example"></a>
 
@@ -106,7 +122,9 @@ Independent, prescribed/dependent and collaborative interventions ka distinction
 **▶️ [YouTube MCQ practice — Nursing process, ADPIE scenarios](https://www.youtube.com/watch?v=Nczi2xT76QA)** · ADAPT NCLEX REVIEW, description and published topic chapters verified, supplementary practice not Indian exam evidence; exact question coverage pending.
 <!-- /job4-metadata -->
 
-Target independent transfer tha, patient one-person assistance se transfer kar sakta hai. Goal partially met hai, not full success. Check pain, fatigue and weakness, then adjust plan safely. Achieved goal ke baad maintenance, discontinuation or new need review karo. Deterioration mein urgent assessment and escalation, routine paperwork baad mein. Nursing process continuous cycle hai.
+Maan lo goal tha ki patient bina kisi ki madad ke transfer kar paaye. Ab patient ek person ki assistance se transfer kar paa raha hai. Iska matlab hai ki improvement hua hai, lekin goal abhi poori tarah achieve nahi hua. Nurse ko check karna chahiye ki dard, thakaan ya weakness ki wajah se patient ko abhi madad toh nahi chahiye. Phir woh findings ke hisaab se care plan safely adjust karti hai.
+
+Agar goal achieve ho gaya hai, toh nurse dekhti hai ki care jaari rakhni hai, band karni hai ya kisi nayi zaroorat ke liye plan banana hai. Agar patient ki condition kharab ho rahi hai, toh urgent assessment aur zaroori escalation pehle honi chahiye. Routine paperwork baad mein kiya ja sakta hai. Isi wajah se nursing process ek continuous cycle hai.
 
 <a name="references-and-practice"></a>
 
