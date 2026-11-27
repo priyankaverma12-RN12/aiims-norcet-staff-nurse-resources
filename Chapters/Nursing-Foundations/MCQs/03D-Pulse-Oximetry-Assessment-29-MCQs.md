@@ -19,14 +19,22 @@
 
 **Correct answer: B. Peripheral arterial hemoglobin oxygen saturation**
 
-**Kyun sahi hai:** SpO2 available arterial hemoglobin ke oxygen-bound fraction ka noninvasive estimate hai. Yeh hemoglobin quantity, PaO2 aur inspired oxygen fraction se alag hai.
+<!-- job5-rationale -->
+SpO2 peripheral arterial blood mein hemoglobin ki oxygen saturation ka optical estimate hai. 96% ka matlab functional hemoglobin ka approximately 96% oxygen-bound estimate hai, na ki blood mein 96% oxygen by volume. Oxygen delivery ke liye Hb concentration aur cardiac output bhi matter karte hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Inspired oxygen concentration device and breathing conditions par depend karti hai, SpO2 se directly determine nahi hoti.
-- **C.** PaO2 oxygen ka dissolved pressure hai, percentage saturation nahi. Iske liye arterial blood gas assessment needed hoti hai.
-- **D.** Hemoglobin ki total quantity oximeter directly measure nahi karta.
+- **A:** Cannula ki delivered oxygen concentration flow aur breathing par depend karti hai.
+- **B:** SpO2 arterial hemoglobin saturation estimate karti hai.
+- **C:** PaO2 dissolved oxygen tension hai, mmHg mein measure hoti hai.
+- **D:** Hb concentration blood count se measure hoti hai.
 
+**Exam clue:** SpO2 percentage, PaO2 pressure, Hb quantity.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
+
+**Additional MCQ practice lead:** [NORCET 10 Mains Oxygen Therapy FON Class 2](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2608s) — published chapter at 43:28 on pulse oximetry and hemoglobin binding. Topic-level description only, channel and exact item/playback pending. Not historical exam evidence.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [GMCH Chandigarh Staff Nurse 2022](https://testbook.com/question-answer/pulse-oximeter-is-used-to-measure--630dab74426ebd28603fbbf2) — measurement of SpO2 and pulse rate; retrieved third-party report, not exact stem or authenticated key. [AIIMS NORCET 2020](https://testbook.com/question-answer/the-activity-not-recorded-by-pulse-oximeter--6177b8dc6b46604c7256c0c6) — measurement scope versus ECG, memory-based; retrieved third-party report, not exact stem or authenticated key.
@@ -52,14 +60,20 @@
 
 **Correct answer: A. Different absorption of red and infrared light by oxygenated and deoxygenated hemoglobin**
 
-**Kyun sahi hai:** Oxyhemoglobin aur deoxyhemoglobin red aur infrared light differently absorb karte hain. Device pulsatile optical signal ka ratio use karke saturation estimate karta hai.
+<!-- job5-rationale -->
+Conventional pulse oximeter red light around 660 nm aur infrared around 940 nm use karta hai. Oxyhemoglobin aur deoxyhemoglobin in wavelengths ko differently absorb karte hain. Device pulsatile absorption ratio ko calibration algorithm se saturation estimate mein convert karta hai. Dyshemoglobin ya artifact accuracy affect kar sakte hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Yeh oscillometric BP measurement ka principle hai, optical saturation measurement nahi.
-- **C.** ECG cardiac electrical activity record karta hai.
-- **D.** Yeh capnography ka principle hai, hemoglobin light absorption nahi.
+- **A:** Differential optical absorption correct principle hai.
+- **B:** Inflatable cuff BP measurement ke liye hai.
+- **C:** ECG electrical cardiac activity record karta hai.
+- **D:** Capnography exhaled CO2 assess karti hai.
 
+**Exam clue:** Red + infrared, not ECG or capnography.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -85,14 +99,20 @@
 
 **Correct answer: D. To help distinguish the arterial contribution from relatively constant tissue and blood absorption**
 
-**Kyun sahi hai:** Arterial blood volume heartbeat ke saath change hota hai. Pulsatile signal se device arterial saturation estimate karta hai, isliye low perfusion mein reliable reading difficult ho sakti hai.
+<!-- job5-rationale -->
+Sensor signal mein relatively constant tissue aur blood absorption ke saath heartbeat-related variation hota hai. Arterial volume pulse ke saath change hota hai. Algorithm is pulsatile component ko identify karke arterial saturation estimate karta hai. Motion aur weak perfusion is separation ko unreliable bana sakte hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Hemoglobin absorption hi measurement ka basis hai.
-- **B.** Device tissue metabolism directly measure nahi karta.
-- **C.** Optical pulse se exact ECG intervals establish nahi hote.
+- **A:** Hemoglobin absorption remove karna measurement ka basis hi remove karega.
+- **B:** Tissue oxygen consumption directly measure nahi hoti.
+- **C:** ECG intervals optical pulse se establish nahi hote.
+- **D:** Pulsatile signal arterial contribution distinguish karne mein help karta hai.
 
+**Exam clue:** AC pulsatile component versus relatively constant background.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -118,14 +138,20 @@
 
 **Correct answer: C. Reduce motion, assess the patient and obtain a stable signal at a suitable site**
 
-**Kyun sahi hai:** Motion optical signal distort kar sakta hai. Patient assess karo, hand support do aur appropriate probe/site se stable waveform ya signal verify karo.
+<!-- job5-rationale -->
+Tremor optical signal mein movement-related variation add karta hai, jo arterial pulse samjha ja sakta hai. Patient clinically assess karo, comfortable support dekar movement reduce karo aur compatible site par stable signal obtain karo. Agar distress ho toh artifact assume karke treatment delay mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Excess pressure circulation compromise kar sakta hai.
-- **B.** Lowest reading bhi artifact ho sakti hai, patient assessment aur verification chahiye.
-- **D.** Artifact readings average karne se reliable result guarantee nahi hota.
+- **A:** Excess pressure perfusion aur skin ko harm kar sakta hai.
+- **B:** Lowest number bhi artifact ho sakta hai.
+- **C:** Motion reduction aur signal verification correct approach hai.
+- **D:** Unreliable numbers average karne se reliable saturation guarantee nahi hoti.
 
+**Exam clue:** Assess patient, reduce artifact, verify signal.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -151,14 +177,20 @@
 
 **Correct answer: A. Use an appropriate unobstructed sensor site or remove interfering polish when feasible and recheck**
 
-**Kyun sahi hai:** Nail products optical measurement interfere kar sakte hain. Suitable alternate site or polish removal and repeat measurement use karo, clinical distress ho toh assessment delay mat karo.
+<!-- job5-rationale -->
+Nail polish light transmission alter kar sakti hai. Effect polish color, device aur signal conditions ke hisaab se vary karta hai. Stable patient mein polish remove karna ya approved unobstructed site use karna helpful hai. Symptoms concerning hon toh direct clinical assessment priority hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Polish color and device ke according effect vary karta hai.
-- **C.** Unvalidated correction clinical interpretation ko unsafe bana sakti hai.
-- **D.** Extra optical interference ho sakti hai.
+- **A:** Approved unobstructed site ya polish removal interference reduce kar sakta hai.
+- **B:** Polish ka effect device aur color ke saath vary karta hai.
+- **C:** Fixed five-point correction validated nahi hai.
+- **D:** Extra opaque layer optical interference badha sakti hai.
 
+**Exam clue:** Remove interference, never invent correction.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [AIIMS Delhi Nursing Officer 2019](https://testbook.com/question-answer/why-is-it-necessary-to-remove-dark-colored-nail-pa--62bd6c77227856e1e58349c8) — nail polish interference, memory-based; evaluate signal and follow device guidance; retrieved third-party report, not exact stem or authenticated key.
@@ -184,14 +216,20 @@
 
 **Correct answer: D. Use an age- and site-appropriate compatible pediatric sensor**
 
-**Kyun sahi hai:** Infant ke liye correct size and manufacturer-approved placement important hai. Probe fit check karo aur reliable signal confirm karo.
+<!-- job5-rationale -->
+Infant ke small digits aur delicate skin ke liye appropriate size, site aur device-compatible sensor chahiye. Oversized probe light emitter aur detector align nahi kar sakti. Pressure ya tape injury bhi cause kar sakte hain. Manufacturer instructions aur neonatal monitoring policy follow karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Excessive pressure and misalignment cause injury or inaccurate readings.
-- **B.** Sensor compatibility and site validation matter karti hain.
-- **C.** Color se precise arterial saturation determine nahi hoti.
+- **A:** Tight tape pressure injury ya poor flow cause kar sakti hai.
+- **B:** Adult sensor har site aur age ke liye validated nahi hota.
+- **C:** Skin color precise saturation nahi batata.
+- **D:** Compatible pediatric sensor suitable fit aur measurement support karta hai.
 
+**Exam clue:** Correct patient size, sensor and site.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -217,14 +255,20 @@
 
 **Correct answer: C. Temporary interruption of pulsatile arterial flow at the sensor site**
 
-**Kyun sahi hai:** Inflated cuff distal pulsatile flow reduce kar sakta hai. Suitable different limb/site select karo where feasible and verify patient condition rather than interpret artifact as desaturation.
+<!-- job5-rationale -->
+BP cuff inflation temporarily arterial flow ko restrict karti hai. Distal oximeter ko pulsatile signal kam ya absent mil sakta hai. Cuff deflate hone par signal recover ho sakta hai. Continuous monitoring required ho toh suitable alternate limb/site consider karo aur patient ki condition assess karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Its optical measurement remains distinct from BP.
-- **B.** Local signal loss systemic saturation change establish nahi karta.
-- **D.** Routine cuff inflation aisa permanent change nahi karti.
+- **A:** Oximeter BP device mein convert nahi hota.
+- **B:** Local signal loss systemic hypoxemia ka proof nahi hai.
+- **C:** Temporary pulsatile flow interruption likely mechanism hai.
+- **D:** Routine cuff inflation Hb affinity permanently change nahi karti.
 
+**Exam clue:** Cuff compression can interrupt the optical pulse signal.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -250,14 +294,20 @@
 
 **Correct answer: B. Reduced peripheral perfusion can make the optical estimate unreliable**
 
-**Kyun sahi hai:** Shock mein peripheral pulsatile signal weak ho sakta hai. Urgently assess circulation and breathing, verify with appropriate site or blood gas assessment when indicated.
+<!-- job5-rationale -->
+Shock mein peripheral vasoconstriction aur low perfusion ke kaaran finger pulse signal weak ho sakta hai. Poor-quality reading ko confirmed saturation mat samjho. Patient ka ABCDE assessment karo, urgent help arrange karo aur suitable monitoring or blood gas as indicated use karo. Verification resuscitation ko delay nahi karni chahiye.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Optical signal quality ventilation establish nahi karti.
-- **C.** Signal absence measurement failure ho sakti hai, exact saturation nahi.
-- **D.** Shock urgent assessment maangta hai, alarm delay unsafe ho sakta hai.
+- **A:** Signal quality ventilation normal prove nahi karti.
+- **B:** Low peripheral perfusion unreliable optical estimate cause kar sakti hai.
+- **C:** No signal ka matlab zero saturation nahi.
+- **D:** Alarm delay se true deterioration miss ho sakti hai.
 
+**Exam clue:** Weak signal in shock needs clinical assessment.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -283,14 +333,20 @@
 
 **Correct answer: D. Check optical signal quality, probe placement and clinical status before accepting the saturation**
 
-**Kyun sahi hai:** Mismatch unreliable signal ya clinical discrepancy ka cue hai. Probe and patient assess karo, actual pulse/rhythm as appropriate verify karo and concerning changes escalate karo.
+<!-- job5-rationale -->
+Pulse oximeter saturation calculation pulsatile optical signal par rely karti hai. Verified clinical pulse se marked mismatch motion, weak signal, rhythm-related pulse deficit ya placement concern suggest kar sakta hai. Probe, waveform if available aur patient assess karo. ECG rate aur peripheral pulse necessarily identical nahi hote.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Pulsatile signal is saturation estimate ka important basis.
-- **B.** Optical pulse ECG measurement nahi hai.
-- **C.** Patient may require continued monitoring and further assessment.
+- **A:** Pulse detection measurement quality ke liye important hai.
+- **B:** Optical pulse ECG electrical rate nahi hai.
+- **C:** Disagreement monitoring stop karne ka reason nahi.
+- **D:** Signal, placement aur clinical status verify karna safest hai.
 
+**Exam clue:** Check pulse agreement, signal and patient.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [AIIMS NORCET 2020](https://testbook.com/question-answer/the-activity-not-recorded-by-pulse-oximeter--6177b8dc6b46604c7256c0c6) — optical pulse measurement versus electrical monitoring; retrieved third-party report, not exact stem or authenticated key.
@@ -316,14 +372,20 @@
 
 **Correct answer: C. Check sensor positioning and shield it from excessive ambient light as instructed by the manufacturer**
 
-**Kyun sahi hai:** Excess ambient light kuch devices mein optical interference create kar sakti hai. Approved shielding and correct positioning use karo, signal verify karo.
+<!-- job5-rationale -->
+Excessive ambient light photodetector tak pahunch kar signal quality affect kar sakti hai. Sensor correct position mein rakho aur manufacturer-approved shielding use karo. Monitoring indicated hai toh continue karo. Heavy pressure ya unapproved covering avoid karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** External light may interfere rather than improve signal.
-- **B.** Required clinical monitoring should continue.
-- **D.** Pressure injury and perfusion problems ho sakte hain.
+- **A:** More light interference badha sakti hai.
+- **B:** Necessary monitoring remove karna unsafe ho sakta hai.
+- **C:** Approved shielding aur correct placement reasonable hai.
+- **D:** Heavy weight skin aur circulation damage kar sakta hai.
 
+**Exam clue:** Use manufacturer-approved light shielding.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -349,14 +411,18 @@
 
 **Correct answer: B. Inspect skin, reposition or change the sensor site as allowed, and continue necessary monitoring safely**
 
-**Kyun sahi hai:** Continuous sensors need regular skin and circulation checks, especially fragile skin. Manufacturer instructions and facility policy ke according site rotate karo and injury document karo.
+<!-- job5-rationale -->
+Continuous probe contact pressure, adhesive irritation aur kabhi heat-related injury create kar sakta hai. Redness detect ho toh skin assess karo, compatible alternative site use karo aur device instructions ke according inspection interval follow karo. Required oxygen monitoring interrupt na ho, iske liye safe arrangement karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Product can interfere with measurement and skin care protocol.
-- **C.** Pressure, adhesive and prolonged contact skin damage kar sakte hain.
-- **D.** More pressure injury worsen kar sakta hai.
+- **A:** Unapproved ointment sensor aur skin-care compatibility affect kar sakti hai.
+- **B:** Skin inspection aur safe site change appropriate hai.
+- **C:** Optical sensors bhi contact injury cause kar sakte hain.
+- **D:** Tightening pressure worsen kar sakti hai.
 
+**Exam clue:** Inspect skin and rotate site as appropriate.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -382,14 +448,18 @@
 
 **Correct answer: A. Clean and disinfect it using the approved manufacturer-compatible process**
 
-**Kyun sahi hai:** Reusable equipment patient-to-patient infection risk create kar sakta hai. Approved cleaning/disinfection, hand hygiene and single-use sensor policy follow karo.
+<!-- job5-rationale -->
+Reusable sensor patient-to-patient contamination transfer kar sakta hai. Visible soil clean karo aur manufacturer-compatible disinfectant, contact time aur facility IPC procedure follow karo. Electronics ko damage karne wali immersion avoid karo. Single-use sensor ko reuse karne se pehle applicable policy verify karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Dry wiping required disinfection assure nahi karta.
-- **C.** Some probes cannot safely be immersed.
-- **D.** Contamination remains and can spread.
+- **A:** Approved cleaning aur disinfection correct hai.
+- **B:** Dry tissue required disinfection assure nahi karta.
+- **C:** All electronics immersion tolerate nahi karte.
+- **D:** Tape contamination remove nahi karti.
 
+**Exam clue:** Clean then disinfect according to approved instructions.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -415,14 +485,20 @@
 
 **Correct answer: C. Conventional pulse oximetry may mistake carboxyhemoglobin for oxygenated hemoglobin**
 
-**Kyun sahi hai:** CO exposure mein apparently normal SpO2 falsely reassuring ho sakti hai. Emergency clinical assessment and appropriate blood co-oximetry required hain.
+<!-- job5-rationale -->
+Carbon monoxide Hb ke oxygen-binding sites occupy karta hai aur tissue oxygen delivery impair karta hai. Conventional two-wavelength oximeter COHb ko reliably distinguish nahi kar sakta, isliye reading falsely reassuring ho sakti hai. Smoke exposure with confusion urgent evaluation, indicated oxygen treatment aur blood co-oximetry maangta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Specific co-oximetry is needed.
-- **B.** Color alone cannot exclude toxic exposure.
-- **D.** Conventional optical reading misleading ho sakti hai.
+- **A:** Conventional device CO concentration directly measure nahi karti.
+- **B:** Cyanosis absent hone se CO poisoning exclude nahi hoti.
+- **C:** COHb optical interference correct explanation hai.
+- **D:** 98% reading CO poisoning exclude nahi karti.
 
+**Exam clue:** Smoke exposure: normal SpO2 cannot rule out CO poisoning.
+
+[Concept reference](https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -448,14 +524,20 @@
 
 **Correct answer: B. Dyshemoglobins may distort conventional readings and appropriate co-oximetry is needed**
 
-**Kyun sahi hai:** Methemoglobin can make standard two-wavelength SpO2 unreliable. Clinical findings, exposure history and co-oximetry guide evaluation, not one number alone.
+<!-- job5-rationale -->
+Methemoglobinemia mein iron ferric state mein oxidize hota hai aur oxygen transport impair ho sakta hai. Conventional two-wavelength absorption ratio significant MetHb par saturation display ko approximately 85% ki taraf pull kar sakta hai. Clinical history, symptoms aur multiwavelength blood co-oximetry se evaluate karo. Number alone diagnosis nahi hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Concerning patient requires timely assessment.
-- **C.** Percentage and partial pressure alag quantities hain.
-- **D.** Many causes of abnormal readings exist.
+- **A:** Repeated same sensor se dyshemoglobin limitation solve nahi hoti.
+- **B:** Co-oximetry appropriate confirmatory assessment hai.
+- **C:** 85% saturation aur 85 mmHg pressure different hain.
+- **D:** Near-85 reading multiple causes se ho sakti hai.
 
+**Exam clue:** Approximately 85% is a clue, not a definitive diagnosis.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK537317/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -481,14 +563,20 @@
 
 **Correct answer: A. Reduced total oxygen-carrying capacity due to anemia**
 
-**Kyun sahi hai:** Think of hemoglobin as oxygen-carrying seats. High percentage of occupied seats does not mean enough seats exist. Severe anemia needs clinical evaluation despite preserved saturation.
+<!-- job5-rationale -->
+Saturation available Hb ka oxygen-bound proportion hai. Hb 6 g/dL mein 98% saturation ke bawajood oxygen-carrying capacity low ho sakti hai. Approximate Hb-bound oxygen content 1.34 × 6 × 0.98 = 7.88 mL O2/dL, dissolved oxygen ko exclude karke. Hb 15 par same saturation approximately 19.70 hoti. Patient symptoms aur perfusion assess karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** SpO2 does not measure total hemoglobin.
-- **C.** Remaining hemoglobin can be highly saturated.
-- **D.** Delivery also depends on hemoglobin and circulation.
+- **A:** Reduced Hb quantity oxygen content kam kar sakti hai.
+- **B:** SpO2 Hb concentration establish nahi karti.
+- **C:** Remaining Hb oxygen saturated ho sakta hai.
+- **D:** Tissue delivery blood flow aur content par depend karti hai.
 
+**Exam clue:** Saturation is fraction, oxygen content depends on Hb.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -514,14 +602,20 @@
 
 **Correct answer: D. Hypoventilation and carbon dioxide retention remain possible despite preserved oxygen saturation**
 
-**Kyun sahi hai:** Oxygenation and ventilation alag processes hain. Urgent clinical assessment and appropriate ventilation monitoring or blood gas as indicated are needed, not reliance on saturation alone.
+<!-- job5-rationale -->
+Supplemental oxygen hypoventilation ke early phase mein saturation maintain kar sakta hai jab CO2 clearance worsen ho rahi ho. Increasing drowsiness aur shallow breathing respiratory depression ke warning signs hain. Immediate airway, breathing aur sedation assessment, urgent escalation aur indicated ventilation monitoring or blood gas arrange karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Oxygen can maintain saturation while ventilation deteriorates.
-- **B.** Oximeter CO2 measure nahi karta.
-- **C.** Drowsiness and shallow breathing are already concerning cues.
+- **A:** Normal SpO2 opioid respiratory depression exclude nahi karti.
+- **B:** PaCO2 oximeter measure nahi karta.
+- **C:** Desaturation wait karna already concerning signs ignore karta hai.
+- **D:** Preserved saturation ke bawajood hypoventilation possible hai.
 
+**Exam clue:** Oxygenation and ventilation are different.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -547,14 +641,20 @@
 
 **Correct answer: B. Expected saturation may differ with altitude and individual clinical context**
 
-**Kyun sahi hai:** Altitude, baseline, symptoms and clinical setting matter. Abnormal or symptomatic findings evaluate karo, reference range blindly apply mat karo.
+<!-- job5-rationale -->
+Altitude par atmospheric pressure decrease hota hai, jisse inspired oxygen partial pressure lower hoti hai even when oxygen fraction approximately same hai. Acclimatization, altitude aur health status ke according expected SpO2 vary kar sakti hai. New symptoms ya baseline se fall assess karo, har low value normal assume mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** True physiological reduction bhi possible hai.
-- **C.** Ambient oxygen pressure and physiology vary.
-- **D.** Lower barometric pressure can influence oxygenation.
+- **A:** Low reading true physiological change ho sakti hai.
+- **B:** Altitude aur individual context important hain.
+- **C:** Exactly 100% universal expectation nahi hai.
+- **D:** Barometric pressure oxygenation influence karti hai.
 
+**Exam clue:** Altitude changes oxygen partial pressure, not necessarily fraction.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -580,14 +680,20 @@
 
 **Correct answer: A. Interpret readings against the individualized prescribed range and assess clinical condition**
 
-**Kyun sahi hai:** Some patients require controlled oxygen targets. Prescribed range, condition and escalation protocol follow karo. New deterioration needs assessment regardless of target.
+<!-- job5-rationale -->
+Hypercapnic respiratory failure risk wale selected patients mein controlled oxygen target commonly 88–92% prescribe hota hai. Excess oxygen kuch patients mein CO2 retention worsen kar sakti hai, including V/Q changes and Haldane effect. Prescribed target, breathing, consciousness aur blood gas as indicated review karo. Critical illness mein emergency oxygen and support delay mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Excess oxygen may be harmful in selected patients.
-- **C.** Prescribed lower limit and symptoms matter.
-- **D.** Clinical plan changes need authorized review.
+- **A:** Individual target aur clinical assessment correct hai.
+- **B:** Universal 100% target appropriate nahi.
+- **C:** Below prescribed lower limit ko automatically acceptable nahi bol sakte.
+- **D:** Authorized plan review ke bina target arbitrary change nahi karna.
 
+**Exam clue:** Target individualized, not a universal 100%.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -613,14 +719,20 @@
 
 **Correct answer: D. Increasing oxygen requirement can indicate worsening respiratory status even with unchanged saturation**
 
-**Kyun sahi hai:** Same SpO2 with greater support is not equivalent clinical status. Oxygen device and flow document karo, assess change and notify team as appropriate.
+<!-- job5-rationale -->
+Same SpO2 maintain karne ke liye oxygen support increase hona respiratory status change ka important clue hai. Earlier 95% room air aur later 95% supplemental oxygen same clinical meaning nahi rakhte. Device, flow or concentration, respiratory effort aur trend document karo aur increasing requirement par prompt assessment karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Support level has increased to maintain the number.
-- **B.** Support context changes meaning of measurement.
-- **C.** That would misrepresent actual support.
+- **A:** Stable displayed number deterioration exclude nahi karta.
+- **B:** Support level comparison ke liye important hai.
+- **C:** Oxygen receiving patient ko room air chart karna false hai.
+- **D:** Increasing support requirement worsening indicate kar sakti hai.
 
+**Exam clue:** Read saturation together with oxygen requirement.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -646,14 +758,20 @@
 
 **Correct answer: C. SpO2, time, oxygen device or room air, prescribed flow or concentration, and relevant symptoms**
 
-**Kyun sahi hai:** Time-linked saturation plus current support and patient response allow meaningful trend interpretation. Include signal/site concerns when relevant.
+<!-- job5-rationale -->
+Serial oximetry meaningful tab hoti hai jab measurement time aur oxygen support context known ho. SpO2, device, actual flow or set concentration where relevant, symptoms aur target document karo. Clinical response after intervention bhi record karo. Cannula flow se exact FiO2 assume mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** This does not show actual patient oxygenation.
-- **B.** No measured value or clinical context hai.
-- **D.** Comparison may be misleading.
+- **A:** Cylinder size patient oxygenation show nahi karti.
+- **B:** Generic normal statement measurable trend nahi deta.
+- **C:** Measured saturation plus support and clinical context best entry hai.
+- **D:** Percentage alone support change hide kar sakti hai.
 
+**Exam clue:** Document SpO2 + time + oxygen support + symptoms.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -679,14 +797,20 @@
 
 **Correct answer: A. Assess the patient immediately, verify the signal and escalate or provide indicated care based on findings**
 
-**Kyun sahi hai:** Patient first, equipment second but checks can occur in parallel. Unstable signal requires verification, and distress requires timely action.
+<!-- job5-rationale -->
+Sudden low alarm true hypoxemia ya artifact dono ho sakta hai. Pehle patient ki airway, breathing, circulation aur consciousness assess karo. Signal, placement aur pulse correspondence verify karo while indicated care and escalation proceed. Marked distress mein perfect signal ka wait mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** True deterioration may be missed.
-- **C.** Low saturation could be genuine.
-- **D.** Clinical status needs immediate review.
+- **A:** Immediate patient assessment aur signal verification correct hai.
+- **B:** All alarms silence karna genuine deterioration miss kar sakta hai.
+- **C:** Artifact assume karna true hypoxemia miss kar sakta hai.
+- **D:** Technician ka wait patient evaluation delay karta hai.
 
+**Exam clue:** Patient first, signal second.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -712,14 +836,18 @@
 
 **Correct answer: D. Verify patient-specific ordered targets and approved alarm settings before relying on monitoring**
 
-**Kyun sahi hai:** Alarm settings should reflect current care plan and facility policy. Never independently disable critical safety alerts just for convenience.
+<!-- job5-rationale -->
+Alarm limits clinical target aur patient's condition ke according set honi chahiye. Previous patient ki setting wrong threshold create kar sakti hai. Ordered range aur institutional alarm policy verify karo, appropriate staff ke saath adjust karo aur ensure karo ki alarms audible and actionable hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Patient targets and clinical circumstances differ.
-- **B.** Potential deterioration can go undetected.
-- **C.** Excess alarms and inappropriate targets may result.
+- **A:** All adults identical target nahi rakhte.
+- **B:** Lower alarm disable karna hypoxemia miss kar sakta hai.
+- **C:** 100% setting inappropriate alarm burden create kar sakti hai.
+- **D:** Patient-specific targets aur approved settings verify karna correct hai.
 
+**Exam clue:** Alarm settings must match the patient.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -745,14 +873,18 @@
 
 **Correct answer: C. Ensure appropriate portable monitoring, power, sensor and assigned responsibility are arranged**
 
-**Kyun sahi hai:** Plan transport monitoring according to risk, equipment function and staff competence. Verify connections and communicate any interruptions.
+<!-- job5-rationale -->
+Transfer ke time oxygen requirement aur clinical instability continue reh sakti hai. Portable monitor, charged battery, compatible sensor, oxygen supply as indicated aur monitoring responsibility before departure arrange karo. Disconnection par actual gap document karo aur monitoring restore karo. Urgent transfer plan clinical team coordinate kare.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Deterioration may occur en route.
-- **B.** Documentation must reflect actual care.
-- **D.** Required continuous monitoring may be clinically important.
+- **A:** Destination monitor en-route gap cover nahi karta.
+- **B:** Interrupted monitoring ko continuous likhna inaccurate hai.
+- **C:** Portable equipment aur assigned responsibility safe continuity support karte hain.
+- **D:** Visual checks indicated continuous monitoring ka universal substitute nahi.
 
+**Exam clue:** Plan monitoring before transport.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -778,14 +910,18 @@
 
 **Correct answer: B. Clinical assessment takes priority and wellness-device readings cannot independently exclude illness**
 
-**Kyun sahi hai:** Consumer readings support context but are not a substitute for clinical evaluation. Progressive breathlessness requires medical assessment regardless of device reassurance.
+<!-- job5-rationale -->
+Consumer wellness device ka intended use aur validation medical-purpose monitor se differ kar sakta hai. Progressive breathlessness ko reassuring number ke basis par dismiss nahi karna. Prompt clinical assessment arrange karo, severe symptoms mein emergency help lo. Treatment decision symptoms, examination aur indicated reliable tests par based hona chahiye.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Treatment needs qualified assessment.
-- **C.** Performance and regulatory intended use differ.
-- **D.** Symptoms may reflect serious illness even with normal displayed SpO2.
+- **A:** Medication solely consumer reading se change unsafe hai.
+- **B:** Clinical assessment priority hai.
+- **C:** All wellness devices equal clinical validation nahi rakhte.
+- **D:** Above 95% reading serious illness exclude nahi karti.
 
+**Exam clue:** Symptoms override reassurance from an unvalidated device.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -811,14 +947,18 @@
 
 **Correct answer: D. Interpret with symptoms, trend and appropriate confirmatory assessment when indicated, without a fixed skin-color correction**
 
-**Kyun sahi hai:** FDA notes pigmentation-related limitations. Bias magnitude varies by device and situation, so clinical findings and appropriate confirmation matter more than arbitrary adjustment.
+<!-- job5-rationale -->
+Evidence show karta hai ki skin pigmentation some devices ki accuracy affect kar sakti hai, including occult hypoxemia risk. Individual error predictable fixed number nahi hai. Symptoms, trend, signal quality aur indicated confirmatory measurement consider karo. Clinical concern par escalation delay mat karo aur ethnicity ko physiological diagnosis ka substitute na banao.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** There is no validated universal individual correction.
-- **B.** Evidence documents possible performance differences.
-- **C.** Individual clinical assessment required hai.
+- **A:** Fixed three-point correction validated nahi hai.
+- **B:** Pigmentation-related performance differences documented hain.
+- **C:** Ethnicity alone hypoxemia diagnose nahi karti.
+- **D:** Individual clinical assessment aur confirmation appropriate hain.
 
+**Exam clue:** No universal skin-color correction.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -844,14 +984,20 @@
 
 **Correct answer: C. PaO2 is oxygen partial pressure and SpO2 is an estimate of hemoglobin saturation**
 
-**Kyun sahi hai:** Oxygen dissociation curve links pressure and saturation, but values interchangeable nahi hain. ABG adds information such as pH and PaCO2.
+<!-- job5-rationale -->
+PaO2 dissolved oxygen ki partial pressure hai jo ABG par mmHg ya kPa mein report hoti hai. SpO2 hemoglobin saturation ka noninvasive percentage estimate hai. Oxygen dissociation curve dono ko relate karti hai, lekin pH, temperature aur other factors relationship change karte hain. Dono interchangeable nahi hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** It measures dissolved oxygen tension.
-- **B.** Oximetry acid-base analysis nahi karti.
-- **D.** PaO2 usually mmHg or kPa mein measured hota hai.
+- **A:** PaO2 Hb concentration nahi.
+- **B:** SpO2 acid-base pH measure nahi karti.
+- **C:** Pressure aur saturation distinction correct hai.
+- **D:** Dono same percentage variable nahi hain.
 
+**Exam clue:** PaO2 pressure, SpO2 saturation.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [GMCH Chandigarh Staff Nurse 2022](https://testbook.com/question-answer/pulse-oximeter-is-used-to-measure--630dab74426ebd28603fbbf2) — measurement scope; retrieved third-party report, not exact stem or authenticated key.
@@ -877,14 +1023,20 @@
 
 **Correct answer: B. Hemoglobin saturation changes little across a range of relatively high oxygen partial pressures**
 
-**Kyun sahi hai:** At high saturation the curve flattens. SpO2 cannot quantify degree of hyperoxia or exact PaO2. Use appropriate clinical assessment and blood gas when indicated.
+<!-- job5-rationale -->
+Oxyhemoglobin dissociation curve sigmoid hai. High PaO2 par Hb binding sites nearly saturated hoti hain, isliye curve plateau par pressure change ke comparison mein saturation ka change small ho sakta hai. Is reason se high SpO2 hyperoxia ya substantial PaO2 variation quantify nahi karti. Clinical context aur indicated ABG use karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Pressure can change despite small saturation variation.
-- **C.** It estimates saturation, not dissolved oxygen tension.
-- **D.** Its sigmoid shape means sensitivity differs.
+- **A:** PaO2 95% se above saturation par bhi change ho sakti hai.
+- **B:** Plateau par saturation comparatively little change karti hai.
+- **C:** Dissolved oxygen oximeter directly measure nahi karti.
+- **D:** Sigmoid curve linear nahi hai.
 
+**Exam clue:** Plateau hides changes in oxygen pressure.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -910,14 +1062,20 @@
 
 **Correct answer: A. Assess the new symptoms and respiratory status while verifying the sensor and measurement context**
 
-**Kyun sahi hai:** Position and movement can affect readings, but new dyspnea is a meaningful symptom. Assess and escalate as required while confirming signal.
+<!-- job5-rationale -->
+Position change se sensor move ho sakta hai, lekin respiratory mechanics aur ventilation-perfusion relation bhi change ho sakte hain. New breathlessness ko genuine clinical cue treat karo. Patient assess karo, probe and signal verify karo aur findings ke according care escalate karo. Actual readings and context document karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** True oxygenation can change with position or illness.
-- **C.** New actual measurement and verification must be documented.
-- **D.** Clinical deterioration must not be delayed.
+- **A:** Symptoms aur measurement dono assess karna correct hai.
+- **B:** Every change artifact assume karna unsafe hai.
+- **C:** Previous reading replace karna inaccurate charting hai.
+- **D:** Repeated identical numbers ka wait distress response delay kar sakta hai.
 
+**Exam clue:** New symptoms plus lower reading require assessment.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -943,14 +1101,18 @@
 
 **Correct answer: C. Review alarm-response workflow and ensure clinical assessment, actions and reassessment are recorded**
 
-**Kyun sahi hai:** Monitoring is useful only when findings lead to appropriate assessment and response. Audit workflow, patient-specific settings, escalation and outcome documentation.
+<!-- job5-rationale -->
+Alarm acknowledgment ka matlab sirf alert notice hua, patient assessed ya improved hua yeh prove nahi hota. Quality review mein alarm routing, responsibility, clinical response timing aur reassessment documentation examine karo. Patient-specific thresholds aur education improve karo, system barriers identify karo. Safety data preserve karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Acknowledgment does not establish patient assessment or improvement.
-- **B.** May hide meaningful deterioration.
-- **D.** This conceals safety-relevant data.
+- **A:** Acknowledgment resolution proof nahi.
+- **B:** Universal wider thresholds genuine deterioration hide kar sakte hain.
+- **C:** Workflow, assessment, actions aur reassessment review correct hai.
+- **D:** Low values delete karna safety data conceal karta hai.
 
+**Exam clue:** Alarm response must close the clinical loop.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
