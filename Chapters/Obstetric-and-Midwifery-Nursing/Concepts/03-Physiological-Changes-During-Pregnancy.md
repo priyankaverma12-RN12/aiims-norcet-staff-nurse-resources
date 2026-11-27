@@ -62,7 +62,7 @@ Hormonal changes se skin pigmentation badh sakti hai. Linea nigra abdomen ki dar
 
 - [OpenStax Maternal-Newborn Nursing: Physiologic Changes Due to Pregnancy](https://openstax.org/books/maternal-newborn-nursing/pages/10-1-physiologic-changes-due-to-pregnancy) — clinical teaching reference, retrieved.
 - [NCBI Bookshelf: Physiology, Maternal Changes](https://www.ncbi.nlm.nih.gov/books/NBK539766/) — cardiovascular, respiratory, renal and endocrine adaptations, retrieved.
-- [WHO 2024 hemoglobin cutoffs, Table 1](https://www.ncbi.nlm.nih.gov/books/NBK602183/table/fm-ch1.tab1/) — retrieved.
+- [WHO 2024 hemoglobin cutoffs, Table 2](https://www.ncbi.nlm.nih.gov/books/NBK602183/table/fm-ch1.tab1/) — retrieved.
 - [NCBI: Aortocaval Compression Syndrome](https://www.ncbi.nlm.nih.gov/sites/books/NBK430759/) — retrieved.
 - [CDC maternal warning signs](https://www.cdc.gov/hearher/hcp/overview/other.html), [NICE diabetes in pregnancy](https://www.nice.org.uk/guidance/ng3/chapter/Recommendations), [RCOG cholestasis information](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/intrahepatic-cholestasis-of-pregnancy) — indexed clinical guidance, full-text access not independently confirmed in this run.
 - [Nursing Wallah by PW — physiological changes teaching resource](https://www.youtube.com/watch?v=1rUuZ7EtVFE) — indexed learning resource, playback and full chapter coverage pending.
