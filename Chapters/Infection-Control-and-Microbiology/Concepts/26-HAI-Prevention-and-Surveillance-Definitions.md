@@ -56,3 +56,8 @@ IPC committee multidisciplinary policy, education, surveillance, feedback and qu
 ## Historical exam evidence
 
 [AIIMS Bhopal Nursing Officer 23 May 2018 shift II](https://testbook.com/question-answer/the-term-nosocomial-infection-is-used-to-refer-to--6295fb8670e381dbad578018), retrieved third-party page, tests hospital-acquired terminology. [AIIMS Raipur 31 August 2019 shift I](https://testbook.com/question-answer/nosocomial-infections-are-also-known-as--625421e3828bdf01dcba7cde) and [AIIMS Delhi 2018](https://testbook.com/question-answer/ques--62bd61ee9ad0b1c5ca75dc62) indexed related leads. These repeat one concept, no new PYQ count claimed until existing chapter source bank is reconciled. [OSSSC 2023 cross-infection lead](https://testbook.com/question-answer/when-the-patient-is-acquiring-infection-from-anoth--6a3baa92773ba703a142fcf5) full page fetch failed. Official keys unverified. Current clinical definitions above override historical shortcuts.
+
+
+### Additional source verification
+
+[India NCDC IPC training](https://ncdc.mohfw.gov.in/includes/About/CentresAndDivision/amr.php?tab=tab7) provides Indian programme context. [Reported HAI and surveillance exam adaptations](../Previous-Year-Questions/HAI-Surveillance-Reported-PYQs.md) now include two distinct concepts, historical timing and incidence. The AIIMS Delhi 2018 recall and RRB March 2026 scenario were consolidated into one timing adaptation. [Additional NORCET mixed MCQ video](https://www.youtube.com/watch?v=VIes9-YHn_w) explicitly lists HAI in indexed description. Channel and playback unverified.
