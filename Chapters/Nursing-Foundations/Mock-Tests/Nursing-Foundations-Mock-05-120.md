@@ -694,9 +694,22 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 **Correct: B. Combine best available evidence, clinical expertise and patient preferences**
 
-Evidence-based practice research, clinical expertise aur patient preference integrate karti hai. Nurse policy aur applicable evidence evaluate karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Single social post weak evidence hai. Patient values aur local clinical context important hain.
+Evidence-based practice ka matlab hai patient care ke decisions mein best available research, nurse ki clinical expertise aur patient ki values ko saath consider karna. Agar ward mein purani practice chal rahi hai, toh nurse reliable evidence check karti hai aur dekhti hai ki woh patient aur local setting mein apply ho sakta hai ya nahi. Change responsible team aur approved policy ke through implement karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har research finding har clinical setting mein apply nahi hoti. Patient condition, resources aur policy consider karna zaroori hai.
+- **B (Sahi):** Research evidence, clinical experience aur patient preferences combine karna evidence-based practice ka core hai.
+- **C (Galat):** Ek social media post ki quality aur accuracy establish nahi hoti. Sirf uske basis par care badalna unsafe ho sakta hai.
+- **D (Galat):** Patient values ignore karne se care uski informed preferences ke according nahi rahegi.
+
+**Exam clue:** Evidence-based practice ke teen parts research, clinical expertise aur patient preferences hain.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/15-1-evidence-based-research)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1059,9 +1072,24 @@ Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Syst
 
 **Correct: C. Patient advocate**
 
-Advocacy mein nurse patient ki needs, rights aur preferences treatment team tak communicate karti hai. Isse shared decisions support ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Manufacturer aur auditor unrelated roles hain. Nursing advocacy medical diagnosis establish karna nahi hai.
+Advocate ka matlab hai patient ki baat, rights aur needs ko respect ke saath saamne rakhna. Jaise patient treatment se worried hai aur doctor se baat karne mein hesitant hai, toh nurse appropriate permission aur confidentiality ke saath concern communicate kar sakti hai. Nurse patient ko decision mein participate karne mein help karti hai, apni preference impose nahi karti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Financial auditor financial records review karta hai. Clinical concerns communicate karna alag role hai.
+- **B (Galat):** Equipment manufacturer medical devices banata hai. Patient ki concern represent karna iska main role nahi hai.
+- **C (Sahi):** Patient advocate patient ki voice aur preferences treatment team tak pahunchane mein help karta hai. Yahan nurse wahi kar rahi hai.
+- **D (Galat):** Nurse authorized scope mein assessment aur decisions leti hai. Har case mein independent medical diagnosis dena advocacy nahi hai.
+
+**Exam clue:** Patient ki voice aur rights ko support karna nursing advocacy hai.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2003,9 +2031,24 @@ Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka es
 
 **Correct: D. Participating in relevant training and updating clinical knowledge**
 
-Healthcare evidence aur procedures time ke saath update hote hain. Continuing learning nurse ki knowledge aur competence maintain karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Guidelines avoid karna aur feedback ignore karna practice improvement limit karte hain.
+Continuing professional development ya CPD ka matlab hai initial nursing training ke baad bhi knowledge aur skills update karte rehna. Jab guideline change hoti hai, toh nurse approved training attend karke recommendation samajh sakti hai aur supervised practice se skill improve kar sakti hai. Reflection aur feedback se patient care ki quality maintain hoti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Initial training foundation deti hai, lekin changing evidence aur procedures ke liye lifelong learning zaroori hai.
+- **B (Galat):** Clinical error ke baad feedback avoid karne se safety improvement ka mauka miss hota hai.
+- **C (Galat):** New guidelines review na karne se outdated practice continue ho sakti hai.
+- **D (Sahi):** Relevant training aur updated clinical knowledge CPD ke examples hain, kyunki inse competence improve hoti hai.
+
+**Exam clue:** CPD mein regular learning se safe professional competence maintain ki jaati hai.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2246,9 +2289,24 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 **Correct: D. Communicate the limitation and arrange competent supervision or assistance**
 
-Professional accountability mein competence limits recognize karna important hai. Nurse patient safety maintain karke training ya suitable support arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Untrained practice aur delegation unsafe hain. False documentation professional violation hai.
+Competence ka matlab hai required knowledge, skill aur judgement ke saath procedure safely karne ki ability. Agar nurse ko assigned procedure safely karna nahi aata, toh use responsible senior ko limitation batani chahiye. Competent assistance ya authorized supervision arrange karne se patient ko safe care milti hai. Urgent care mein timely escalation karna zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bina procedure kiye completion document karna false record hai. Subsequent care galat information par based ho sakti hai.
+- **B (Galat):** Untrained attendant ko procedure dene se patient safety compromise ho sakti hai. Delegation mein competence verify karna zaroori hai.
+- **C (Galat):** Inexperienced dikhne ke fear se unsupervised procedure karna patient ko avoidable harm ke risk mein daalta hai.
+- **D (Sahi):** Limitation communicate karke competent help lena professional accountability aur patient safety ko support karta hai.
+
+**Exam clue:** Jab skill competence se bahar ho, toh timely help lo aur safe care arrange karo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
