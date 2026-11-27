@@ -15,9 +15,20 @@
 
 **Correct: D. 3 tablets**
 
-Dose calculate karne ke liye prescribed amount ko one tablet ki strength se divide karo. 750/250 = 3 tablets.
+<!-- job5-rationale -->
+Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 3 × 250 = 750 mg.
 
-**Baaki options kyun sahi nahi hain?** Two tablets 500 mg, 0.33 tablet approximately 83 mg aur four tablets 1000 mg deti hain.
+**Option-by-option reasoning**
+
+- **A:** 2 × 250 = 500 mg, 250 mg kam.
+- **B:** 0.33 × 250 = 82.5 mg, prescribed dose se bahut kam.
+- **C:** 4 × 250 = 1000 mg, 250 mg zyada.
+- **D:** 3 × 250 = 750 mg, exact dose.
+
+**Exam clue:** Tablet count ke liye dose aur tablet strength same unit mein rakho.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -34,9 +45,20 @@ Dose calculate karne ke liye prescribed amount ko one tablet ki strength se divi
 
 **Correct: C. 2 tablets**
 
-One gram mein 1000 mg hote hain. 0.25 g = 250 mg, aur 250/125 = 2 tablets.
+<!-- job5-rationale -->
+0.25 g × 1000 = 250 mg. Tablet count = 250/125 = 2. Reverse: 2 × 125 /1000 = 0.25 g.
 
-**Baaki options kyun sahi nahi hain?** 0.002 conversion error hai. Four tablets 500 mg aur one tablet 125 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 4 tablets = 500 mg, double dose.
+- **B:** 1 tablet = 125 mg, half dose.
+- **C:** 2 tablets = 250 mg, correct.
+- **D:** 0.002 tablet = 0.25 mg, gram conversion miss hua.
+
+**Exam clue:** g to mg: multiply by 1000.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -53,9 +75,20 @@ One gram mein 1000 mg hote hain. 0.25 g = 250 mg, aur 250/125 = 2 tablets.
 
 **Correct: B. 0.7 mL**
 
-Volume dose divided by concentration se milta hai. 35/50 = 0.7 mL. Suitable calibrated syringe select karna important hai.
+<!-- job5-rationale -->
+Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 35 mg.
 
-**Baaki options kyun sahi nahi hain?** 7 mL 350 mg, 1.4 mL 70 mg aur 0.07 mL 3.5 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 0.07 × 50 = 3.5 mg, tenfold underdose.
+- **B:** 0.7 × 50 = 35 mg.
+- **C:** 7 × 50 = 350 mg, tenfold overdose.
+- **D:** 1.4 × 50 = 70 mg, double dose.
+
+**Exam clue:** mg cancel hone ke baad mL bachta hai. Calibrated device use karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -72,9 +105,20 @@ Volume dose divided by concentration se milta hai. 35/50 = 0.7 mL. Suitable cali
 
 **Correct: A. 3 mL**
 
-Final concentration 1000/10 = 100 mg/mL hai. 300/100 = 3 mL withdraw karne hain, assuming stated final volume verified hai.
+<!-- job5-rationale -->
+1 g = 1000 mg. Final concentration = 1000/10 = 100 mg/mL. Volume = 300/100 = 3 mL. Reverse: 3 × 100 = 300 mg.
 
-**Baaki options kyun sahi nahi hain?** 0.3 mL 30 mg, 10 mL 1000 mg aur 30 mL 3000 mg represent karta hai.
+**Option-by-option reasoning**
+
+- **A:** 3 mL delivers 300 mg.
+- **B:** 0.3 mL delivers 30 mg.
+- **C:** 10 mL delivers full 1000 mg.
+- **D:** 30 mL represents 3000 mg and exceeds vial volume.
+
+**Exam clue:** Diluent added aur final volume same assume mat karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -91,9 +135,20 @@ Final concentration 1000/10 = 100 mg/mL hai. 300/100 = 3 mL withdraw karne hain,
 
 **Correct: A. 200 mg**
 
-Weight-based dose 20 kg x 10 mg/kg = 200 mg hai. Actual administration se pehle drug-specific safe range aur maximum dose verify karni hai.
+<!-- job5-rationale -->
+Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 = 10 mg/kg.
 
-**Baaki options kyun sahi nahi hain?** 20 mg weight ignore karta hai. 2 mg reverse calculation hai aur 2000 mg tenfold error hai.
+**Option-by-option reasoning**
+
+- **A:** 200 mg meets the given arithmetic.
+- **B:** 20 mg gives 1 mg/kg.
+- **C:** 2 mg gives 0.1 mg/kg.
+- **D:** 2000 mg gives 100 mg/kg.
+
+**Exam clue:** Calculated dose ko actual drug-specific maximum se verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -110,9 +165,20 @@ Weight-based dose 20 kg x 10 mg/kg = 200 mg hai. Actual administration se pehle 
 
 **Correct: D. 240 mg**
 
-Total daily dose 24 x 30 = 720 mg hai. Three equal doses mein 720/3 = 240 mg each hota hai. Safe range verify karni hai.
+<!-- job5-rationale -->
+Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3 /24 = 30 mg/kg/day.
 
-**Baaki options kyun sahi nahi hain?** 720 mg entire day ka dose hai. 80 aur 360 mg incorrect division se milte hain.
+**Option-by-option reasoning**
+
+- **A:** 720 mg per dose would give 2160 mg/day.
+- **B:** 80 mg per dose gives 240 mg/day.
+- **C:** 360 mg per dose gives 1080 mg/day.
+- **D:** 240 mg per dose gives 720 mg/day.
+
+**Exam clue:** mg/kg/day ko dose frequency se divide karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -129,9 +195,20 @@ Total daily dose 24 x 30 = 720 mg hai. Three equal doses mein 720/3 = 240 mg eac
 
 **Correct: C. 125 mL/hour**
 
-Pump rate total volume divided by hours hai. 500/4 = 125 mL/hour. Fluid order aur patient ki condition verify karni hai.
+<!-- job5-rationale -->
+Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
-**Baaki options kyun sahi nahi hain?** 250 rate two hours mein finish karega. 2000 multiplication hai. 50 rate ten hours lega.
+**Option-by-option reasoning**
+
+- **A:** 2000 × 4 = 8000 mL.
+- **B:** 50 × 4 = 200 mL.
+- **C:** 125 × 4 = 500 mL.
+- **D:** 250 × 4 = 1000 mL.
+
+**Exam clue:** Pump rate mL/hour mein hota hai. Order aur fluid tolerance verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -148,9 +225,20 @@ Pump rate total volume divided by hours hai. 500/4 = 125 mL/hour. Fluid order au
 
 **Correct: B. 42 gtt/min**
 
-Gravity rate = volume x drop factor / time in minutes. 750 x 20 / 360 = 41.67, yani about 42 drops/min.
+<!-- job5-rationale -->
+6 hours = 360 minutes. Gravity rate = 750 × 20/360 = 41.6667 gtt/min, rounded to 42. Exact reverse: 41.6667 × 360/20 ≈ 750 mL. Rounded rate theoretical 756 mL hai.
 
-**Baaki options kyun sahi nahi hain?** 125 mL/hour hai. 25 wrong factor se aa sakta hai. 250 minutes conversion miss karta hai.
+**Option-by-option reasoning**
+
+- **A:** 250 gtt/min represents 4500 mL in 6 hours.
+- **B:** 42 nearest whole drop hai, observed delivery monitor karo.
+- **C:** 125 gtt/min represents 2250 mL, 125 is actually mL/hour.
+- **D:** 25 gtt/min represents 450 mL.
+
+**Exam clue:** Drop factor gtt/mL aur time minutes mein rakho. Whole-drop rounding end mein.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -167,9 +255,20 @@ Gravity rate = volume x drop factor / time in minutes. 750 x 20 / 360 = 41.67, y
 
 **Correct: B. 50 gtt/min**
 
-100 x 15 / 30 = 50 drops/min. Actual delivery method aur medication-specific infusion instructions verify karni hain.
+<!-- job5-rationale -->
+Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
-**Baaki options kyun sahi nahi hain?** 3 approximate mL/min hai. 200 mL/hour hai. 15 tubing factor hai, flow rate nahi.
+**Option-by-option reasoning**
+
+- **A:** 15 gtt/min delivers 30 mL in 30 minutes.
+- **B:** 50 gtt/min delivers 100 mL.
+- **C:** 3 gtt/min delivers 6 mL.
+- **D:** 200 gtt/min delivers 400 mL, 200 is the pump rate in mL/hour.
+
+**Exam clue:** Drop factor aur drip rate alag quantities hain.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -186,9 +285,20 @@ Gravity rate = volume x drop factor / time in minutes. 750 x 20 / 360 = 41.67, y
 
 **Correct: A. 80 gtt/min**
 
-Microdrip mein 60 drops one mL ke equal hote hain. 80 x 60 / 60 = 80 drops/min.
+<!-- job5-rationale -->
+80 mL/hour × 60 gtt/mL ÷ 60 min/hour = 80 gtt/min. Reverse: 80 × 60/60 = 80 mL/hour.
 
-**Baaki options kyun sahi nahi hain?** 48 wrong multiplication hai. 60 drop factor hai. 1.33 mL/min hai.
+**Option-by-option reasoning**
+
+- **A:** 80 matches the ordered rate.
+- **B:** 48 gtt/min gives 48 mL/hour.
+- **C:** 60 gtt/min gives 60 mL/hour.
+- **D:** 1.33 gtt/min gives 1.33 mL/hour, not the 1.33 mL/min conversion.
+
+**Exam clue:** Only 60 gtt/mL microdrip gives numerical equality.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -205,9 +315,20 @@ Microdrip mein 60 drops one mL ke equal hote hain. 80 x 60 / 60 = 80 drops/min.
 
 **Correct: D. 3 hours 30 minutes**
 
-Remaining time 350/100 = 3.5 hours hai, yani 3 hours 30 minutes.
+<!-- job5-rationale -->
+Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 = 30 min. Reverse: 100 × 3.5 = 350 mL.
 
-**Baaki options kyun sahi nahi hain?** 6.5 hours already infused 650 mL ka time ho sakta hai. 35 minutes decimal conversion error hai. 10 hours full bag ka time hai.
+**Option-by-option reasoning**
+
+- **A:** 6.5 hours gives 650 mL, already infused volume.
+- **B:** 35 minutes gives about 58.3 mL.
+- **C:** 10 hours gives full 1000 mL.
+- **D:** 3 hours 30 minutes gives 350 mL.
+
+**Exam clue:** Decimal hours ko minutes mein convert karne ke liye × 60.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -224,9 +345,20 @@ Remaining time 350/100 = 3.5 hours hai, yani 3 hours 30 minutes.
 
 **Correct: C. 700 mL**
 
-Intake mein measured oral, IV aur enteral water include hote hain. 200 + 350 + 150 = 700 mL.
+<!-- job5-rationale -->
+Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Reverse: 700 − 350 − 150 = 200 mL oral.
 
-**Baaki options kyun sahi nahi hain?** 550 enteral water omit karta hai. 500 oral fluid omit karta hai. 350 sirf IV intake hai.
+**Option-by-option reasoning**
+
+- **A:** 500 mL omits oral intake.
+- **B:** 350 mL only IV intake hai.
+- **C:** 700 mL includes all three sources.
+- **D:** 550 mL omits enteral water.
+
+**Exam clue:** Include all documented intake sources once.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -243,9 +375,20 @@ Intake mein measured oral, IV aur enteral water include hote hain. 200 + 350 + 1
 
 **Correct: C. −300 mL**
 
-Net fluid balance intake minus output hai. 1800 minus 2100 = −300 mL. Unmeasured losses aur clinical assessment bhi matter karte hain.
+<!-- job5-rationale -->
+Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2100 − 300 = 1800 mL.
 
-**Baaki options kyun sahi nahi hain?** +300 reverse subtraction hai. 3900 sum hai. Zero tab hota jab measured intake aur output equal hote.
+**Option-by-option reasoning**
+
+- **A:** 3900 mL sum hai, balance nahi.
+- **B:** Zero tab hota jab intake equals output.
+- **C:** −300 mL means measured output exceeds intake by 300 mL.
+- **D:** +300 mL sign reversed hai.
+
+**Exam clue:** Recorded balance alone hydration status prove nahi karta.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -262,9 +405,20 @@ Net fluid balance intake minus output hai. 1800 minus 2100 = −300 mL. Unmeasur
 
 **Correct: B. 0.15 mg**
 
-One mg mein 1000 micrograms hote hain. 150/1000 = 0.15 mg.
+<!-- job5-rationale -->
+1 mg = 1000 micrograms. 150/1000 = 0.15 mg. Reverse: 0.15 × 1000 = 150 micrograms.
 
-**Baaki options kyun sahi nahi hain?** 1.5 mg tenfold, 15 mg hundredfold aur 150 mg thousandfold higher hain.
+**Option-by-option reasoning**
+
+- **A:** 150 mg = 150000 micrograms.
+- **B:** 0.15 mg = 150 micrograms.
+- **C:** 1.5 mg = 1500 micrograms.
+- **D:** 15 mg = 15000 micrograms.
+
+**Exam clue:** Microgram to mg: divide by 1000, leading zero rakho.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -281,9 +435,20 @@ One mg mein 1000 micrograms hote hain. 150/1000 = 0.15 mg.
 
 **Correct: A. 1.5 mL**
 
-Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
+<!-- job5-rationale -->
+Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5 = 0.75 mg.
 
-**Baaki options kyun sahi nahi hain?** 0.75 mL 0.375 mg, 3 mL 1.5 mg aur 6 mL 3 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 1.5 mL gives 0.75 mg.
+- **B:** 0.75 mL gives 0.375 mg.
+- **C:** 3 mL gives 1.5 mg.
+- **D:** 6 mL gives 3 mg.
+
+**Exam clue:** Pehle concentration per mL nikalo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -300,9 +465,20 @@ Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
 
 **Correct: D. 4.5 g**
 
-0.9% w/v ka matlab 0.9 g per 100 mL hai. 500 mL mein 0.9 x 5 = 4.5 g hota hai.
+<!-- job5-rationale -->
+0.9% w/v = 0.9 g/100 mL. Mass = 0.9 × 500/100 = 4.5 g. Reverse: 4.5/500 × 100 = 0.9 g per 100 mL.
 
-**Baaki options kyun sahi nahi hain?** 0.45 g 50 mL ka content hai. 9 g one liter mein hai. 45 g tenfold error hai.
+**Option-by-option reasoning**
+
+- **A:** 0.45 g in 500 mL gives 0.09% w/v.
+- **B:** 9 g gives 1.8% w/v.
+- **C:** 45 g gives 9% w/v.
+- **D:** 4.5 g gives 0.9% w/v.
+
+**Exam clue:** Percent w/v means grams per 100 mL final solution.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -319,9 +495,20 @@ Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
 
 **Correct: D. 25 g**
 
-10% w/v = 10 g per 100 mL. 250 mL ke liye 10 x 2.5 = 25 g.
+<!-- job5-rationale -->
+10% w/v = 10 g/100 mL. Mass = 10 × 250/100 = 25 g. Reverse: 25/250 × 100 = 10% w/v.
 
-**Baaki options kyun sahi nahi hain?** 10 g 100 mL mein hai. 2.5 decimal error hai. 250 g total volume ko mass samajhne ki mistake hai.
+**Option-by-option reasoning**
+
+- **A:** 10 g in 250 mL gives 4% w/v.
+- **B:** 2.5 g gives 1% w/v.
+- **C:** 250 g gives 100% w/v.
+- **D:** 25 g gives 10% w/v.
+
+**Exam clue:** Container mL is not solute mass in grams.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -338,9 +525,20 @@ Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
 
 **Correct: C. 60 mg**
 
-66 lb ko 2.2 se divide karo toh 30 kg milte hain. 30 x 2 = 60 mg. Actual measured weight aur dose limit verify karo.
+<!-- job5-rationale -->
+Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 = 66 lb.
 
-**Baaki options kyun sahi nahi hain?** 132 lb ko kg maan leta hai. 30 weight hai, dose nahi. 145 conversion aur multiplication confuse karta hai.
+**Option-by-option reasoning**
+
+- **A:** 30 mg gives 1 mg/kg.
+- **B:** 145 mg gives about 4.83 mg/kg.
+- **C:** 60 mg gives 2 mg/kg.
+- **D:** 132 mg treats 66 lb as kilograms.
+
+**Exam clue:** Weight units verify karo before multiplying.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -357,9 +555,20 @@ Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
 
 **Correct: B. Select a suitable calibrated syringe that can accurately measure the full ordered volume**
 
-Syringe ki capacity aur graduation dose accurately measure karne ke liye suitable honi chahiye. Nurse appropriate size select karti hai.
+<!-- job5-rationale -->
+1.2 mL is greater than the 1 mL marked capacity. Suitable calibrated device with enough capacity and appropriate graduation select karo. Route-specific syringe use karo.
 
-**Baaki options kyun sahi nahi hain?** Overfilling calibration ke bahar hai. Unauthorized rounding dose alter karti hai. Eye estimate unreliable hai.
+**Option-by-option reasoning**
+
+- **A:** Eye estimation calibrated measurement nahi hai.
+- **B:** Correct device full 1.2 mL accurately measure kar sakti hai.
+- **C:** Overfill marked capacity se beyond calibrated range hai.
+- **D:** 1 mL is 0.2 mL less, about 16.7% below the prescribed volume.
+
+**Exam clue:** Device capacity and graduation dono verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -376,9 +585,20 @@ Syringe ki capacity aur graduation dose accurately measure karne ke liye suitabl
 
 **Correct: A. Recheck the order, unit conversions and calculation and obtain required verification**
 
-Unexpected result calculation ya order error ka clue ho sakta hai. Nurse source values aur units dobara verify karti hai, especially high-alert infusion mein.
+<!-- job5-rationale -->
+Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order, concentration, time unit, formula aur pump setting independently recheck karo. Required clinical verification obtain karo.
 
-**Baaki options kyun sahi nahi hain?** Blind programming unsafe hai. Automatic decimal change bhi error ho sakta hai. Patient rate authorize nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Rechecking prevents blind programming of a potentially dangerous rate.
+- **B:** Arithmetic aur data entry errors possible hain.
+- **C:** Automatically divide by ten correct dose prove nahi karta.
+- **D:** Patient prescribed infusion rate authorize nahi karta.
+
+**Exam clue:** Unexpected result = stop, verify, clarify, then program.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
