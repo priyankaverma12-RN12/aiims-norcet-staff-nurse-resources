@@ -37,4 +37,4 @@
 
 Next: finish Mock 01 question-by-question clinical, semantic, PYQ/concept and video audit, correct any additional defects and reconcile completion status. Do not begin Mock 02 until Mock 01 validation status is explicitly reconciled.
 
-<!-- Mock-only scope claim: FREE. Assembled practice edition and exact verification checkpoint above. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-audit-20261127-1502. Scope: Mock 01 clinical and semantic audit, mock-only files and inventory. Claimed UTC: 2026-11-27T15:02:30Z. Expiry UTC: 2026-11-27T15:32:30Z. -->
