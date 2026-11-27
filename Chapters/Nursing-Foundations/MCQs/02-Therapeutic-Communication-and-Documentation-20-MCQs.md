@@ -26,7 +26,9 @@ Open-ended question patient ko apni concern explain karne ka chance deta hai. Nu
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -54,7 +56,9 @@ Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse su
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -82,14 +86,16 @@ Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
 ### Q4. Which phrase demonstrates clarification in a therapeutic conversation?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 NVS Staff Nurse 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -110,7 +116,9 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -139,13 +147,15 @@ Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent re
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**▶️ [YouTube MCQ practice — SBAR, ADAPT NCLEX REVIEW (42:52)](https://www.youtube.com/watch?v=RZixQ8gliGE&t=2572s)** · Published chapter title supports SBAR topic practice, not verified exact question; supplementary NCLEX, playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q6. Which documentation entry is most objective?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -167,13 +177,15 @@ Distance, device aur assistance observable facts hain. Objective record doosri n
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q7. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application · **🟣 RRB Nursing Superintendent 2026 · Shift III — related concept**
 <!-- /job4-metadata -->
 
 
@@ -195,6 +207,8 @@ Health record mein correction transparent honi chahiye. Approved amendment origi
 **Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift III reported question](https://testbook.com/question-answer/what-is-the-most-appropriate-action-for-a-nurse-if--69df4796a0ef8fa701f49667). Reported question page inspected. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -223,6 +237,8 @@ Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sa
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -251,13 +267,15 @@ Adult patient ki health information confidential hai. Nurse authorized disclosur
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
 </details>
 
 ### Q10. Which communication technique involves restating the main meaning of a patient's message to confirm understanding?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 NVS Staff Nurse 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -278,7 +296,9 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -306,14 +326,18 @@ Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Research lead (unverified):** [HPSSC Hamirpur Staff Nurse, 5 August 2021 — expressive aphasia](https://testbook.com/question-answer/what-would-be-the-most-therapeutic-nursing-action--697b2633b4063bcc21acf69f). Indexed exam and topic only; direct retrieval failed. No verified exam appearance claimed.
 <!-- /job4-metadata -->
 </details>
 
 ### Q12. A patient describes pain as 7/10. Which entry records both subjective data and a relevant observation?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -335,13 +359,15 @@ Pain score patient ki report hai aur guarding observed behavior hai. Dono record
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q13. A nurse discovers that a fall occurred without apparent injury. What should be recorded in the patient's clinical chart?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -363,6 +389,8 @@ Fall ke baad hidden injury possible hai. Nurse assessment, action aur communicat
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q8, ID 34](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -390,7 +418,9 @@ Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -418,7 +448,9 @@ Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -447,6 +479,8 @@ SOAP mein S patient-reported symptoms record karta hai. O observed findings, A c
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -475,6 +509,8 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -502,7 +538,9 @@ Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET communication practice video](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact question coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -531,6 +569,8 @@ Critical result timely action maangta hai. Closed-loop communication mein receiv
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -559,6 +599,8 @@ Approved language medication aur care errors kam karne mein help karti hai. Ambi
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
