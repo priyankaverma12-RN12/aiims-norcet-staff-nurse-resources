@@ -2062,7 +2062,7 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 ### Q62. Which theorist is associated with fourteen basic human needs and helping patients gain independence?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Martha Rogers
 - **B.** Hildegard Peplau
@@ -2088,11 +2088,11 @@ Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient k
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q5-which-theorist-is-associated-with-fourteen-basic-human-needs-and-helping-patients-gain-independence)
 
 ### Q63. Which specimen handling action is appropriate for a stool sample?
 
@@ -2390,7 +2390,7 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 ### Q72. During the initial meeting, a nurse and patient identify the presenting concern and establish roles. Which phase of Peplau's relationship is illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Termination
 - **B.** Resolution after goals are achieved
@@ -2420,7 +2420,7 @@ Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti 
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q7-during-the-initial-meeting-a-nurse-and-patient-identify-the-presenting-concern-and-establish-roles-which-phase-of-peplaus-relationship-is-illustrated)
 
 ### Q73. A patient's fingers are cold and a pulse oximeter reading fluctuates widely with a poor waveform. What should the nurse do?
 
@@ -2507,7 +2507,7 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 ### Q76. Which goal is served by preoperative instruction in deep breathing and mobilization?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Eliminate the need to reassess after surgery
 - **B.** Replace postoperative pain management
@@ -2533,11 +2533,11 @@ Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow brea
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — deep breathing and postoperative teaching, ADAPT NCLEX REVIEW (11:31)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=691s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q6-which-goal-is-served-by-preoperative-instruction-in-deep-breathing-and-mobilization)
 
 ### Q77. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
 
@@ -2624,7 +2624,7 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 ### Q80. A postoperative patient in recovery has gurgling respirations and reduced consciousness. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Teach discharge exercises before assessment
 - **B.** Check the meal preference first
@@ -2654,7 +2654,7 @@ Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab conscio
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q7-a-postoperative-patient-in-recovery-has-gurgling-respirations-and-reduced-consciousness-what-takes-priority)
 
 ## Block 5
 
@@ -2993,7 +2993,7 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 ### Q92. A patient in recovery has rapidly falling BP, rising pulse and increasing wound drainage. Which complication is most concerning?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A simple knowledge deficit
 - **B.** Normal sleep physiology
@@ -3023,7 +3023,7 @@ Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q8-a-patient-in-recovery-has-rapidly-falling-bp-rising-pulse-and-increasing-wound-drainage-which-complication-is-most-concerning)
 
 ### Q93. What is the usual purpose of flushing an enteral feeding tube with prescribed water?
 
@@ -3211,7 +3211,7 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 ### Q99. Which nursing theory primarily emphasizes therapeutic nurse-patient interpersonal relationships?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Roy's adaptation model
 - **B.** Peplau's theory
@@ -3237,11 +3237,11 @@ Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trus
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q6-which-nursing-theory-primarily-emphasizes-therapeutic-nurse-patient-interpersonal-relationships)
 
 ### Q100. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
@@ -3641,7 +3641,7 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 ### Q112. Which theorist developed the Adaptation Model of nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lydia Hall
 - **B.** Dorothy Johnson
@@ -3667,15 +3667,15 @@ Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q8-which-theorist-developed-the-adaptation-model-of-nursing)
 
 ### Q113. A patient has a known latex allergy before surgery. Which action is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait for allergic symptoms before changing equipment
 - **B.** Use latex equipment if the surgery is brief
@@ -3705,7 +3705,7 @@ Latex allergy mein immune system natural rubber latex ke proteins par react kar 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q5-a-patient-has-a-known-latex-allergy-before-surgery-which-action-is-important)
 
 ### Q114. A patient receiving prescribed compression stockings reports toe numbness and the stockings have rolled into a tight band. What should the nurse do?
 
