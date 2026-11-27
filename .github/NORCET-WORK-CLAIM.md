@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job2-20261127-091805-calculations
-Scope: Nursing Foundations Group 06 navigation and Group 07 dose calculations, chapter-local files only
+Scope: Nursing Foundations Group 06 navigation and Group 07 dose calculations, chapter-local files and global Nursing Foundations row only
 Claimed UTC: 2026-11-27T09:18:05Z
 Expiry UTC: 2026-11-27T09:48:05Z
 
