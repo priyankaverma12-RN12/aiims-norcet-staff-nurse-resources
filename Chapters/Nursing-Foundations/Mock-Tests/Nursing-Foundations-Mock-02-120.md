@@ -1345,9 +1345,19 @@ Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family f
 
 **Correct: B. Estimate peripheral arterial oxygen saturation and track trends with clinical assessment**
 
-Pulse oximeter hemoglobin oxygen saturation estimate karta hai. Nurse waveform, perfusion aur patient symptoms ke saath reading interpret karti hai.
+Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta hai, jise SpO2 kehte hain. Yeh trend monitor karne mein useful hai, lekin poor perfusion, movement, nail products aur skin pigmentation reading ko affect kar sakte hain. Nurse saturation ko respiratory rate, work of breathing aur patient symptoms ke saath interpret karti hai. Concern ho toh indicated blood gas ya other assessment arrange karo.
 
-**Baaki options kyun sahi nahi hain?** PaCO2 ABG se assess hoti hai. Hb separate blood test hai. Respiratory effort still assess karna chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Normal SpO2 inadequate ventilation ya increased breathing effort ko exclude nahi karta. Clinical respiratory assessment zaroori hai.
+- **B (Sahi):** SpO2 arterial oxygen saturation ka noninvasive estimate hai. Clinical findings ke saath trend useful hai.
+- **C (Galat):** Saturation hemoglobin ke oxygen-bound fraction ka estimate hai, total hemoglobin concentration nahi.
+- **D (Galat):** Standard pulse oximeter carbon dioxide pressure directly measure nahi karta. PaCO2 ke liye arterial blood gas assessment useful ho sakti hai.
+
+**Exam clue:** SpO2 estimates saturation, not PaCO2, Hb or ventilation.
+
+**Clinical references:** [Reference 1](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1387,9 +1397,19 @@ Recommended vaccination sites par large vessels generally nahi hoti. Routine asp
 
 **Correct: C. Assess airway and breathing, verify delivery and activate urgent clinical help**
 
-Oxygen therapy ke bawajood patient deteriorate ho sakta hai. Nurse airway, ventilation aur oxygen supply assess karke emergency escalation karti hai.
+New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious problem ke clues ho sakte hain. Cyanosis mein lips ya mucosa bluish lag sakti hain, lekin is sign ka absent hona safety prove nahi karta. Nurse airway aur breathing urgently assess karti hai, oxygen source aur device verify karti hai, monitoring continue karti hai aur emergency help activate karti hai. Zarurat par trained team ventilation support arrange karti hai.
 
-**Baaki options kyun sahi nahi hain?** Device presence adequate oxygenation guarantee nahi karti. Monitoring remove aur delay unsafe hain.
+**Option-wise explanation:**
+- **A (Galat):** Supply khatam hone tak wait karna patient ko further hypoxemia ke risk mein rakhta hai.
+- **B (Galat):** Monitoring remove karne se deterioration ka trend miss ho sakta hai. Reading ko clinical assessment ke saath check karo.
+- **C (Sahi):** Airway and breathing assessment, delivery check aur urgent escalation immediate safety priorities hain.
+- **D (Galat):** Oxygen device laga hona adequate gas exchange ki guarantee nahi hai.
+
+**Exam clue:** New confusion or cyanosis on oxygen = urgent reassessment.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://pubmed.ncbi.nlm.nih.gov/34728574/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1680,9 +1700,21 @@ Compression release hone par chest pressure decrease hota hai aur blood heart ki
 
 **Correct: A. Titrate oxygen to the prescribed target and arrange indicated blood gas assessment**
 
-Some patients mein uncontrolled oxygen hypercapnia worsen kar sakti hai. Target-based oxygen aur clinical monitoring safety improve karte hain. Severe hypoxemia urgent treatment maangti hai.
+Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch patients mein excessive oxygen ventilation-perfusion matching aur hemoglobin ke CO2 carriage mein changes ke through PaCO2 badha sakti hai. Isliye oxygen ko prescribed target ke hisaab se titrate karte hain. Hypercapnic respiratory failure ke risk mein adult target often 88–92% hota hai jab tak blood gas se individualized plan clear ho. Severe hypoxemia ko untreated nahi chhodna chahiye. Clinical deterioration mein urgent emergency support lo.
 
-**Baaki options kyun sahi nahi hain?** Universal 100% target inappropriate ho sakta hai. Oxygen completely withhold karna harmful ho sakta hai. Reassessment essential hai.
+**Option-wise explanation:**
+- **A (Sahi):** Target-based titration aur indicated blood gas assessment oxygenation aur ventilation dono ko appropriately assess karne mein help karte hain.
+- **B (Galat):** COPD ka label oxygen rokne ka reason nahi hai. Severe hypoxemia urgently address karni hai.
+- **C (Galat):** Patient ki oxygen requirement aur CO2 status change ho sakte hain. Ek setting par bina monitoring rehna unsafe hai.
+- **D (Galat):** Universal 100% target unnecessary hyperoxia aur susceptible patient mein CO2 retention ka risk badha sakta hai.
+
+**Exam clue:** Treat hypoxemia, titrate to target and assess CO2 risk.
+
+**Clinical references:** [Reference 1](https://pubmed.ncbi.nlm.nih.gov/34728574/) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2706,9 +2738,19 @@ Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse
 
 **Correct: B. Assess pressure points around the ears and nose and use suitable protective measures**
 
-Tubing continuous pressure aur friction create kar sakti hai. Skin inspection aur suitable fit injury prevent karne mein help karte hain.
+Nasal cannula tubing ear aur nostril ke aas-paas pressure aur friction bana sakti hai. Jab tissue par pressure sustained rehta hai toh blood supply aur tissue tolerance affect ho sakti hai. Nurse skin color, discomfort, fit aur pressure points regularly assess karti hai. Suitable padding ya approved protective measure use karo bina oxygen delivery impair kiye.
 
-**Baaki options kyun sahi nahi hain?** Tight tubing, hard clips aur ignoring redness pressure damage badha sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Maximum tightening se friction aur pressure badh sakte hain. Device ko secure rakhna hai, constrict nahi.
+- **B (Sahi):** Skin inspection aur appropriate device fit pressure-related damage ko identify aur reduce karte hain.
+- **C (Galat):** Redness early pressure damage ka sign ho sakti hai. Oxygen flow normal hona skin safety prove nahi karta.
+- **D (Galat):** Hard clips fragile skin par concentrated pressure daal sakte hain.
+
+**Exam clue:** Oxygen device checks include skin and pressure points.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/drpi) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
