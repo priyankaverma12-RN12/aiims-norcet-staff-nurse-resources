@@ -31,7 +31,7 @@ def local_target(raw,doc):
         m=re.match(r"(?:(?:blob|raw|tree)/)?(?:refs/heads/)?main/(.*)",rest)
         return posixpath.normpath(m.group(1)) if m else None
     if u.scheme: return None
-    if path.lstrip("/").startswith(("Chapters/","Assets/")): return posixpath.normpath(path.lstrip("/"))
+    if path.lstrip("/").startswith("Chapters/") or path.startswith("/Assets/"): return posixpath.normpath(path.lstrip("/"))
     return posixpath.normpath(posixpath.join(posixpath.dirname(doc),path))
 missing=[];invalid_svg=[];chart_count=0;image_refs=0;link_refs=0;md_count=0;chart_samples=[];charts=[]
 for name,p in sorted(files.items()):
@@ -61,4 +61,4 @@ report={"markdown_documents":md_count,"assets_copied":len(assets),"image_referen
 (site/"source-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
 (Path(tempfile.gettempdir())/"nursing-mermaid-audit.json").write_text(json.dumps(charts,ensure_ascii=False),encoding="utf-8")
 print("SITE AUDIT:",json.dumps({k:v for k,v in report.items() if k not in ("missing_references","invalid_svg","mermaid_examples")}),"missing references:",len(missing),"invalid SVG:",len(invalid_svg),flush=True)
-for item in (missing+invalid_svg)[:30]:print("SOURCE ISSUE:",json.dumps(item,ensure_ascii=False),flush=True)
+for item in (missing+invalid_svg):print("SOURCE ISSUE:",json.dumps(item,ensure_ascii=False),flush=True)

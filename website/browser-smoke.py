@@ -56,6 +56,13 @@ try:
             page.goto(href)
             ready(page)
         print(f"All {count} chapter pages loaded in Chromium", flush=True)
+        # A chapter overview uses Assets/... relative to its own directory.
+        page.goto(base + "?" + urlencode({"doc":"Chapters/Respiratory-System/README.md"}))
+        ready(page)
+        overview_img=page.locator('#content img[src*="respiratory-tract.svg"]').first
+        overview_img.scroll_into_view_if_needed()
+        page.wait_for_function("Array.from(document.querySelectorAll('#content img')).some(i => i.src.includes('/Chapters/Respiratory-System/Assets/respiratory-tract.svg') && i.complete && i.naturalWidth > 0)",timeout=30000)
+        print("Chapter-relative README image resolved and decoded.",flush=True)
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)
         assert page.locator("#content details").count() >= 44
