@@ -1,6 +1,6 @@
 # Eye and ENT Nursing — Mock Test 01 (120 original MCQs)
 
-**Complete-length practice edition — clinical content rereview completed; broader validation provisional.** All 120 questions are newly authored for this mock only, not selected from topic banks. This edition is assembled for practice; fresh model-led question-by-question clinical rereview is complete; exhaustive semantic review, independent licensed review and video verification remain incomplete. It is not an official NORCET or historical paper. No completed certified mock counted yet.
+**Complete-length original-only practice edition — model-led clinical rereview and documented duplicate screening completed for the stated snapshot; residual evidence gaps remain.** All 120 questions are newly authored for this mock only, not selected from topic banks. This edition is assembled for practice; fresh model-led question-by-question clinical rereview and bounded duplicate-candidate screening are complete for the stated snapshot; exhaustive semantic certainty, independent licensed review and exact video playback remain unverified. It is not an official NORCET or historical paper. No completed certified mock counted yet.
 
 **Format:** 120 questions, 60 Eye and 60 ENT. 135 minutes suggested; six blocks of 20 questions, +1 correct, −1/3 incorrect, 0 unattempted. Attempt before expanding each answer. Clinical recommendations are for study and subject to local protocols and authorized clinician decisions.
 
@@ -64,7 +64,7 @@
 
 **Clinical audit note (27 Nov 2026):** Irrigation ko promptly resume karo. EyeWiki ke according target ocular pH approximately 7.0–7.2 hai; irrigation pause ke kam se kam 5 minutes baad recheck karke stability assess karo. Retained particles trained clinician ko identify/remove karne hain. Chemical neutralizing agents use mat karo.
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** [Smart Optometry Ocular Trauma — 8 cases, description question 1 covers immediate alkali decontamination](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -93,7 +93,7 @@
 
 **Clinical audit note (27 Nov 2026):** Affected eye se contaminated fluid ko lateral side ki taraf drain hone do; uninjured eye aur staff ko splash exposure se protect karo. Adequate volume se immediate irrigation primary hai; PPE ya equipment arrange karne mein unnecessary delay na ho.
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** [Smart Optometry Ocular Trauma — 8 cases, description question 1 covers alkali irrigation, not runoff setup](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -155,32 +155,32 @@
 
 </details>
 
-### Q6. Months after a severe ocular chemical burn, conjunctival damage is associated with persistently poor tear-film wettability. Which cellular injury can help explain the mucin deficiency?
+### Q6. After a severe chemical eye injury, the ophthalmologist prescribes ascorbate as part of a supervised treatment regimen. Which corneal healing mechanism explains this adjunct?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Loss of retinal rod photoreceptors
-- **B.** Injury to the crystalline lens nucleus
-- **C.** Loss of ciliary muscle fibers
-- **D.** Loss of conjunctival goblet cells
+- **A.** Direct neutralization of residual alkali on contact
+- **B.** Permanent blockade of aqueous humor production
+- **C.** Immediate regeneration of the damaged optic nerve
+- **D.** Support of collagen synthesis in the injured corneal stroma
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. Loss of conjunctival goblet cells**
+**Correct answer: D. Support of collagen synthesis in the injured corneal stroma**
 
-- **A. Kyun galat hai:** Rods dim-light vision mein important hain. Ye conjunctival mucin produce nahi karte.
+- **A. Kyun galat hai:** Ascorbate prescribed adjunct hai, emergency decontamination ka substitute nahi. Residual chemical exposure mein irrigation aur pH assessment ki need alag hai.
 
-- **B. Kyun galat hai:** Lens light focus karti hai. Iske nucleus ki injury tear-film mucin deficiency explain nahi karti.
+- **B. Kyun galat hai:** Ascorbate aqueous production block karne wali standard pressure-lowering medicine nahi hai. IOP management separate clinical assessment maangta hai.
 
-- **C. Kyun galat hai:** Ciliary muscle accommodation mein role play karti hai, mucin production iska main function nahi hai.
+- **C. Kyun galat hai:** Ascorbate optic nerve regeneration ka established emergency treatment nahi hai. Chemical burn management injured ocular tissues ki protection aur healing par focus karta hai.
 
-- **D. Kyun sahi hai:** Goblet cells secreted mucins banati hain, jo ocular surface wettability aur tear stability support karte hain. Chemical injury in cells ko destroy kar sakti hai; chronic surface disease ke liye specialist follow-up important hai.
+- **D. Kyun sahi hai:** Severe chemical injury ke baad ascorbate depletion aur collagen turnover disturbance stromal healing compromise kar sakte hain. Prescribed ascorbate collagen synthesis support karne ke liye use ho sakta hai. Dose aur route ophthalmologist decide karta hai, especially renal disease ya other contraindications ke context mein.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_%28alkali_and_acid%29_injury_of_the_conjunctiva_and_cornea).
 
-**Clinical audit note (27 Nov 2026):** Goblet cell-derived mucin ki kami tear film ko surface par spread karne aur wetting maintain karne mein difficulty create kar sakti hai. Chemical injury mein aqueous deficiency, lid problems aur limbal disease bhi coexist kar sakte hain; mucin loss sole cause nahi maana jaye.
+**Clinical audit note (27 Nov 2026):** Ascorbate collagen formation ke liye cofactor hai. Severe burns mein selected adjunctive use ka purpose stromal integrity support karna hai, emergency irrigation replace karna nahi.
 
-**YouTube MCQ practice:** Exact question verification pending.
+**YouTube MCQ practice:** No verified individual question mapping located. Explicit evidence gap.
 
 </details>
 
@@ -557,7 +557,7 @@
 
 **Clinical audit note (27 Nov 2026):** Pediatric trapdoor orbital fracture minimal bruising ke saath muscle/tissue entrapment cause kar sakti hai. Nausea, vomiting ya bradycardia oculocardiac reflex ke clues ho sakte hain. Urgent surgical/ophthalmic assessment chahiye, routine review nahi.
 
-**YouTube MCQ practice:** [Smart Optometry: Ocular Trauma — 8 cases (Learn by MCQ)](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Indexed description lists orbital roof fracture, a related topic only; exact floor-fracture task and playback unverified.
+**YouTube MCQ practice:** [Smart Optometry Ocular Trauma — 8 cases, description question 8 includes traumatic diplopia and extraocular muscle entrapment](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -849,7 +849,7 @@
 
 **Clinical audit note (27 Nov 2026):** NICE NG91 back-up prescription mein symptoms 3 din mein improve hona start na karein ya kisi bhi time worsen ho toh agreed action plan follow karne ki advice deta hai. Rapid/significant deterioration, systemic illness ya suspected complication mein reassessment chahiye. Appropriate analgesia continue as prescribed.
 
-**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -936,7 +936,7 @@
 
 **Clinical audit note (27 Nov 2026):** Postauricular erythema, tenderness, swelling aur displaced pinna mastoiditis ka concern raise karte hain. Acute complication suspected ho toh hospital/ENT referral urgent hai; antibiotics complete hone ka wait nahi.
 
-**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed mixed theory/practice topic lead only; exact task and playback unverified.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -965,7 +965,7 @@
 
 **Clinical audit note (27 Nov 2026):** NICE NG91 age/weight-appropriate paracetamol ya ibuprofen as appropriate recommend karta hai. Analgesia ka effect aur hydration reassess karo; antibiotic choice alag clinical decision hai.
 
-**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed mixed theory/practice topic lead only; exact task and playback unverified.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1023,7 +1023,7 @@
 
 **Clinical audit note (27 Nov 2026):** RCH guideline suspected orbital cellulitis mein urgent ENT/ophthalmology consultation aur contrast CT orbits/sinuses, brain as indicated, consider karta hai. Imaging choice aur contrast safety team decide kare; urgent antibiotics or resuscitation ko unnecessary delay na karo.
 
-**YouTube MCQ practice:** Specific question verification pending.
+**YouTube MCQ practice:** [Pranesh Balasubramaniam: MCQ 1 Orbital Cellulitis and its Mimickers](https://www.youtube.com/watch?v=Ax9XEsZ8zz0). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1052,7 +1052,7 @@
 
 **Clinical audit note (27 Nov 2026):** AAO-HNS 2020 KAS7a prior packing/cautery failure ya recurrent unilateral bleeding mein nasal endoscopy referral support karta hai. Active severe bleeding mein stabilization pehle hoti hai.
 
-**YouTube MCQ practice:** Specific question verification pending.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1081,7 +1081,7 @@
 
 **Clinical audit note (27 Nov 2026):** Guideline KAS3b suspected bleeding disorder ya anticoagulant/antiplatelet use mein resorbable packing recommend karta hai. Nonresorbable packing ki removal trauma avoid karna benefit hai; life-threatening bleeding mein medication/reversal plan emergency team decide kare.
 
-**YouTube MCQ practice:** Exact question verification pending.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1110,7 +1110,7 @@
 
 **Clinical audit note (27 Nov 2026):** Altered consciousness aur severe headache intracranial spread, cavernous sinus thrombosis ya systemic deterioration ke red flags ho sakte hain. ABC assessment, emergency escalation aur pediatric/ENT/ophthalmology coordination immediately chahiye.
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** [Pranesh Balasubramaniam: MCQ 1 Orbital Cellulitis and its Mimickers](https://www.youtube.com/watch?v=Ax9XEsZ8zz0). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1139,7 +1139,7 @@
 
 **Clinical audit note (27 Nov 2026):** Well child with bilateral painless swelling allergy se consistent hai, lekin visual decline, proptosis, painful motility, fever ya systemic illness emerge ho toh urgent review. Swelling pattern final diagnosis nahi hai.
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** [Pranesh Balasubramaniam: MCQ 1 Orbital Cellulitis and its Mimickers](https://www.youtube.com/watch?v=Ax9XEsZ8zz0). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1168,7 +1168,7 @@
 
 **Clinical audit note (27 Nov 2026):** KAS4 packing material, removal schedule if needed, postprocedure care aur warning signs teach-back se confirm karne ko support karta hai. Persistent bleeding, breathing difficulty ya collapse mein urgent care seek karo.
 
-**YouTube MCQ practice:** Specific question verification pending.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1199,7 +1199,7 @@
 
 **Clinical audit note (27 Nov 2026):** Emergency ABC assessment, vital signs, airway suction/support as appropriate, venous access and resuscitation as ordered parallel ho sakte hain. Unstable patient ko unattended ambulate nahi karna chahiye.
 
-**YouTube MCQ practice:** Specific question verification pending.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1228,7 +1228,7 @@
 
 **Clinical audit note (27 Nov 2026):** Compare acuity with prior reliable monocular baseline, pupil responses, motility and other ordered observations. New visual decline or RAPD urgently report karo because optic nerve compromise can be time-sensitive.
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** [Pranesh Balasubramaniam: MCQ 1 Orbital Cellulitis and its Mimickers](https://www.youtube.com/watch?v=Ax9XEsZ8zz0). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -1286,7 +1286,7 @@
 
 **Clinical audit note (27 Nov 2026):** Recurrent bilateral epistaxis ya family history of repeated nosebleeds mein AAO-HNS KAS12 nasal/oral mucosal telangiectasia assessment recommend karta hai for possible HHT. Positive findings ko diagnostic evaluation ke liye refer karo; family history alone diagnosis nahi.
 
-**YouTube MCQ practice:** Specific question verification pending.
+**YouTube MCQ practice:** [ENT Nursing MCQs — indexed description explicitly names otitis media and epistaxis practice](https://www.youtube.com/watch?v=onPLOcVP6h8). Description-level related MCQ evidence, not identical question, timestamp, or playback verification.
 
 </details>
 
@@ -2617,32 +2617,32 @@
 
 </details>
 
-### Q90. A patient with chronic dry-eye symptoms also reports persistent dry mouth and difficulty swallowing dry foods. Which information should the nurse specifically communicate?
+### Q90. A patient reports recurrent episodes of sudden sharp eye pain on first opening the eyelids in the morning, months after a fingernail abrasion had healed. Which disorder should the nurse ask the ophthalmic team to assess?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Dry mouth excludes a cause related to tear production
-- **B.** Dry mouth proves that dry eye is caused by contact lenses
-- **C.** No systemic assessment is relevant once lubricant drops are prescribed
-- **D.** The combined ocular and oral dryness may warrant assessment for a systemic condition such as Sjögren syndrome
+- **A.** Age-related loss of accommodation
+- **B.** Isolated posterior vitreous detachment
+- **C.** Congenital red-green colour deficiency
+- **D.** Recurrent corneal erosion from defective epithelial attachment
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. The combined ocular and oral dryness may warrant assessment for a systemic condition such as Sjögren syndrome**
+**Correct answer: D. Recurrent corneal erosion from defective epithelial attachment**
 
-- **A. Kyun galat hai:** Systemic gland dysfunction multiple secretory sites ko affect kar sakti hai.
+- **A. Kyun galat hai:** Presbyopia near focusing difficulty cause karti hai. Sudden painful morning episodes after corneal injury is mechanism se explain nahi hote.
 
-- **B. Kyun galat hai:** Contact lens wear ocular surface affect kar sakta hai lekin persistent oral dryness ka complete explanation nahi hai.
+- **B. Kyun galat hai:** Posterior vitreous detachment flashes aur floaters cause kar sakti hai, lekin corneal surface pain on waking iska typical pattern nahi hai.
 
-- **C. Kyun galat hai:** Lubricants symptoms relieve kar sakti hain. Underlying systemic disorder ki evaluation still important ho sakti hai.
+- **C. Kyun galat hai:** Congenital colour deficiency colour perception affect karti hai, episodic painful epithelial injury nahi.
 
-- **D. Kyun sahi hai:** Lacrimal aur salivary glands dono affected ho sakti hain in systemic autoimmune disease. Ocular dryness ke saath oral dryness ko report karne se broader evaluation possible hoti hai. Ye symptoms alone diagnosis confirm nahi karte.
+- **D. Kyun sahi hai:** Previous abrasion ke baad epithelium underlying basement membrane se firmly attach nahi ho sakta. Awakening par eyelid movement loose epithelium ko disrupt kar sakti hai, jisse sharp pain, tearing aur photophobia ho sakte hain. Slit-lamp assessment se clinician diagnosis confirm karega.
 
-**Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye?ada=1).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Recurrent_Corneal_Erosion).
 
-**Clinical audit note (27 Nov 2026):** Dry eye plus persistent xerostomia may suggest Sjögren syndrome or other causes including medications. Clinician assessment needed; no diagnosis solely from two symptoms.
+**Clinical audit note (27 Nov 2026):** Timing of pain and prior surface injury useful history hai. New severe pain, reduced vision, contact lens-associated symptoms ya infection concern prompt clinical assessment maangte hain; leftover anesthetic ya steroid drops use mat karo.
 
-**YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
+**YouTube MCQ practice:** No verified individual question mapping located. Explicit evidence gap.
 
 </details>
 
@@ -3526,6 +3526,8 @@
 
 ## Audit and allocation record
 
+- Snapshot duplicate screen (27 November 2026): pinned commit d0f9da0835c5d2e1028203c2ebaf92da2621c77c. All 1,094 topic questions (38 files), 32 concept files, 33 PYQ/evidence files and 35 named cross-chapter mock/revision files screened using normalized stems and lexical candidate generation. Two learning tasks (Q6 and Q90) replaced following candidate review; additional 15 item-to-topic MCQ resource associations rechecked. See [semantic and video audit ledger](Mock-01-Semantic-and-Video-Audit.md) for counts, limitations and decisions. This is bounded evidence, not proof of universal semantic uniqueness. Earlier audit entries below describe historical versions.
+
 - 27 Nov follow-up: fresh model-led reading of all 120 questions and 480 option rationales completed, with 120 clinical clarification notes. Correct answer letters unchanged. Q35 and Q44 rewritten for distinct imaging-purpose and HHT tasks. Newer lacrimal/ptosis banks screened for related tasks. Bounded normalized exact-stem scans of current topic-bank files (38-file directory, concurrent dacryoadenitis addition and boundary files rechecked) and 46 extracted candidate strings in all 33 PYQ/evidence files produced zero matches. Counts are extraction-based, not authenticated PYQ counts. Full semantic, embedded concept and cross-chapter mock screening still pending. Fifteen video leads added or refined; no exact item-level playback verified. Clinical review is model-led, not independent licensed certification. No additional mock slots allocated.
 
 - Follow-up audit: Q1–Q120 read in full (480 options and rationales); keys unchanged. Added 120 clinical clarifications in a fresh model-led review against retrieved/indexed references. Q35 and Q44 replaced with imaging-purpose and HHT-specific tasks after review of newer lacrimal bank and prior bleeding-task overlap, preserving allocation count. Source-level gaps remain: some journal text and Indian workflows inaccessible; independent licensed human review and exact video playback not performed.
@@ -3534,7 +3536,7 @@
 - Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. The remaining four topic banks (120 questions) were subsequently screened; two overlapping tasks were corrected. A fresh exact normalized stem check of the corrected 120-item assembled edition against all 974 questions in the 34 topic banks passed with zero exact matches. All 34 topic banks have undergone lexical candidate screening across versions, but exhaustive semantic comparison of the latest replacements, concept-embedded questions, reported adaptations and cross-chapter mocks remains pending. No guarantee of zero semantic duplicates.
 - Current reference rechecks: AAO-HNS 2019 sudden hearing loss and tonsillectomy, 2022 tympanostomy tubes, 2025 sinusitis, 2018 dysphonia, 2020 epistaxis; NICE NG98, EyeWiki September 2026 chemical injury and Merck red-eye guidance, NEI RP/Usher and NTSP red algorithm (page 1 visually checked). Added explicit sudden hearing loss referral timing, updated sinusitis watchful-waiting detail, repaired pediatric tonsillectomy links and added Usher-specific source. Full independent review of every rationale and Indian guidance pending. References and gap notes from source drafts remain part of evidence record.
 - Practice evidence: Q corresponding to old draft Q101 now has a specifically named RP/Usher video chapter marker; other existing leads are broad topic leads. Actual playback, transcripts and exact individual practice mappings remain unverified for all items. No invented timestamps.
-- 60 Eye + 60 ENT; answer placement counts A 28, B 31, C 29, D 32. Difficulty 55 Medium, 65 Difficult (two replacements upgraded from medium). No official exam claim. Do not allocate these items to later mocks or topic banks.
+- 60 Eye + 60 ENT; answer placement counts A 28, B 31, C 29, D 32. Difficulty 55 Medium, 65 Difficult. No official exam claim. Do not allocate these items to later mocks or topic banks.
 
 <details><summary>Allocation ledger: final question → reserved draft ID (not an answer key)</summary>
 
