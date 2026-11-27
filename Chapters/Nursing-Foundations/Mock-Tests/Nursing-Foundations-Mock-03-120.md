@@ -134,9 +134,24 @@ Deeply embedded object wound ke andar injured tissue ya blood vessel ke against 
 
 **Correct: D. Use a new sterile needle and syringe each time and follow dating and storage policy**
 
-New sterile equipment vial mein germs introduce hone ka risk reduce karti hai. Storage aur beyond-use date product guidance se verify hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Used syringe, exposed needle aur expired vial contamination risk badhate hain.
+Multidose vial manufacturer ki approval ke according repeated withdrawal ke liye designed hoti hai, lekin preservative complete sterility guarantee nahi karta. Har entry par new sterile needle aur syringe, aseptic stopper preparation aur clean medication preparation area use karo. Vial ko possible ho toh one patient ke liye dedicate karo. Opening date, storage aur applicable discard date product/policy se verify karo. Contamination suspect ho toh discard karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Used patient syringe vial mein blood ya microorganisms introduce kar sakti hai.
+- **B (Galat):** Stopper mein needle permanently leave karne se contamination ke liye direct route ban sakta hai.
+- **C (Galat):** Applicable discard date ke baad drug integrity aur sterility assured nahi hoti.
+- **D (Sahi):** New sterile equipment aur correct dating/storage contamination risk reduce karte hain.
+
+**Exam clue:** Every vial entry uses a fresh sterile needle and syringe.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/injection-safety/hcp/clinical-safety/index.html) · [Clinical reference 2](https://www.cdc.gov/injection-safety/hcp/infection-control/index.html)
+
+**Supplementary practice lead:** [Staff Nurse Series Part 1 — AIIMS NORCET MCQs with Explanation](https://www.youtube.com/watch?v=HZWfGKuS2nw). Indexed description mentions safe injection practices, but direct retrieval failed. Channel identity, question coverage and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2038,9 +2053,24 @@ Fall risk ghar par bhi present ho sakta hai, especially weakness, balance proble
 
 **Correct: A. Use a new sterile syringe and needle for each injection as indicated**
 
-Single-use sterile equipment microorganisms aur blood transfer ka risk kam karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Needle change syringe ko sterile nahi banata. Alcohol wiping aur opened storage sterility guarantee nahi karte.
+Needle aur syringe skin barrier cross karte hain, isliye asepsis important hai. Used needle aur syringe blood ya microorganisms se contaminated ho sakte hain. Standard injection practice mein fresh sterile single-use equipment use karo aur after use sharps container mein discard karo. Needle badalne se used syringe safe nahi ho jaati.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** New sterile syringe aur needle as indicated use karna bloodborne infection prevention ka basic step hai.
+- **B (Galat):** Alcohol wiping used needle ko validated sterile equipment mein convert nahi karti.
+- **C (Galat):** Opened needles ko later reuse ke liye store karna sterility aur safety assure nahi karta.
+- **D (Galat):** Used syringe ke barrel mein contamination remain ho sakti hai. Patients ke beech needle change alone unsafe hai.
+
+**Exam clue:** Never reuse a used syringe between patients, even if the needle changes.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/injection-safety/hcp/clinical-safety/index.html)
+
+**Supplementary practice lead:** [Staff Nurse Series Part 1 — AIIMS NORCET MCQs with Explanation](https://www.youtube.com/watch?v=HZWfGKuS2nw). Indexed description mentions safe injection practices, but direct retrieval failed. Channel identity, question coverage and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2599,9 +2629,24 @@ Hall model body care, person as core aur disease treatment as cure ko connect ka
 
 **Correct: D. Dedicate it to one patient even when the needle is changed**
 
-Pen cartridge mein blood contamination ho sakti hai. Needle change ke baad bhi pen patient-specific rehni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Sharing aur missing identification bloodborne transmission aur medication error risk badhate hain.
+Insulin pen mein reusable patient-specific cartridge ya reservoir hota hai. Injection ke waqt microscopic blood pen ke internal system mein enter kar sakta hai, jo visible hona zaroori nahi. Isliye needle change karne ke baad bhi pen ko kisi doosre patient par use nahi karna chahiye. Pen ko clearly label karo, new needle use karo aur safe sharps disposal follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Same insulin type hone se blood contamination aur wrong-patient risk remove nahi hota.
+- **B (Galat):** Needle change internal cartridge contamination ko eliminate nahi karta.
+- **C (Galat):** Unlabeled pen wrong patient ko administer hone ka risk badhati hai aur traceability reduce karti hai.
+- **D (Sahi):** One pen for one patient, even with a new needle, CDC injection safety rule hai.
+
+**Exam clue:** One patient, one labeled insulin pen, fresh needle each use.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/injection-safety/hcp/infection-control/index.html)
+
+**Supplementary practice lead:** [Staff Nurse Series Part 1 — AIIMS NORCET MCQs with Explanation](https://www.youtube.com/watch?v=HZWfGKuS2nw). Indexed description mentions safe injection practices, but direct retrieval failed. Channel identity, question coverage and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3423,9 +3468,22 @@ Neuman model stressors aur protective lines ke through system stability samjhata
 
 **Correct: B. Withhold it and check product integrity with pharmacy**
 
-Unexpected particles product defect ya contamination ka clue ho sakte hain. Nurse dose rok kar pharmacy se verify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Larger needle, shaking ya slow rate unsafe solution ko safe prove nahi karte.
+Unexpected visible particles injectable product mein formulation defect, incompatibility, precipitation ya contamination ka clue ho sakte hain. Har cloudy drug unsafe nahi hoti, kyunki kuch products intended suspensions hote hain. Nurse expected appearance ko product instructions se verify karti hai. Agar appearance unexpected ya integrity doubtful ho toh dose withhold karke pharmacy se clarification aur suitable replacement arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Shaking without verification unexpected particles ka cause establish nahi karti aur kuch preparations ko damage kar sakti hai.
+- **B (Sahi):** Withholding aur pharmacy verification preventable unsafe medication exposure ko avoid karte hain.
+- **C (Galat):** Larger needle particles ko pass hone de sakti hai, lekin contamination ya product defect resolve nahi karti.
+- **D (Galat):** Slow administration questionable product ko safe nahi banati.
+
+**Exam clue:** Unexpected appearance: stop, verify, replace if needed.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
