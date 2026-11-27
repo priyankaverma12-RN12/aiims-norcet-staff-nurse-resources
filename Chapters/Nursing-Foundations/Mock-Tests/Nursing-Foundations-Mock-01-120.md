@@ -148,10 +148,20 @@ Acute hemolytic ya other serious reaction possible hai. Nurse transfusion stop k
 
 **Correct: A. Impaired oxygenation**
 
-Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxygen ki zaroorat hai, isliye nurse airway aur breathing assess karke emergency support arrange karti hai.
+<!-- job5-rationale -->
+Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing compromise ka signal ho sakte hain. Oxygen organs ko energy banane ke liye chahiye. Nurse ABCDE rapid assessment kare, help activate kare, reading ki reliability check kare aur patient ko appropriate oxygen aur urgent care protocol ke according support de. Reading recheck karne ke chakkar mein emergency care delay nahi karni hai. Cause ko separately investigate karna hai.
 
-**Baaki options kyun sahi nahi hain?** Sleep, teaching aur constipation important hain lekin immediate breathing problem se less urgent hain.
+**Option-by-option reasoning**
 
+- **A:** Impaired oxygenation current potentially life-threatening problem hai. A best hai.
+- **B:** Discharge diet teaching important hai, lekin unstable breathing ke samay delay ki ja sakti hai.
+- **C:** Constipation ka risk immediate oxygenation threat se kam urgent hai.
+- **D:** Sleep disturbance ka treatment breathing stabilize hone ke baad kiya ja sakta hai.
+
+**Exam clue:** ABC life-threatening problems first. Low saturation ke saath patient ko dekho, sirf monitor ko nahi.
+
+**Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -667,10 +677,18 @@ Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red m
 
 **Correct: A. The patient reports burning pain on urination**
 
-Subjective information woh hoti hai jo patient khud feel karke batata hai. Burning sensation ko nurse directly measure nahi kar sakti.
+<!-- job5-rationale -->
+Subjective data patient ka personal experience hai. Burning sensation nurse directly apne instruments se measure nahi kar sakti, lekin patient ki report important clinical evidence hai. Nurse onset, intensity aur associated urinary symptoms bhi pooch sakti hai. Urine test cause ko investigate kar sakta hai, par patient ki feeling ki category subjective hi rahegi.
 
-**Baaki options kyun sahi nahi hain?** Temperature aur urine output measurable findings hain. Visible abdominal distension objective observation hai.
+**Option-by-option reasoning**
 
+- **A:** Burning patient khud report kar raha hai. Isi liye A subjective data hai.
+- **B:** Temperature thermometer se measure hota hai. Yeh objective data hai.
+- **C:** Urine output measured volume per time hai. Yeh objective data hai.
+- **D:** Visible distension examination mein observe ki ja sakti hai. Yeh objective finding hai.
+
+**Exam clue:** Symptoms patient batata hai, signs examine ya measure kiye jaate hain.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
@@ -1700,10 +1718,18 @@ Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient a
 
 **Correct: B. Assessment**
 
-Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka reason aur severity assess karne ke baad hi suitable nursing plan ban sakta hai.
+<!-- job5-rationale -->
+Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planning, Implementation aur Evaluation. Assessment mein nurse patient ki baat sunti hai aur physical findings collect karti hai. Nausea ke saath vomiting, fluid intake, urine output aur vital signs check karne se dehydration ya deterioration ka risk samajh aata hai. Severe symptoms mein rapid assessment aur zaroori urgent care saath-saath chal sakti hai. Isliye B sahi hai.
 
-**Baaki options kyun sahi nahi hain?** Planning assessment ke baad hoti hai. Implementation mein plan execute hota hai. Evaluation mein result check hota hai.
+**Option-by-option reasoning**
 
+- **A:** Implementation ka matlab selected care ko karna hai. Bina patient ki zaroorat samjhe routine plan execute karna sahi nahi.
+- **B:** Assessment pehle hoti hai aur uske results ke basis par diagnosis aur plan banta hai.
+- **C:** Evaluation mein care ke baad result compare karte hain. Abhi koi result evaluate nahi karna hai.
+- **D:** Planning mein goals aur interventions decide hote hain. Abhi zaroori data hi missing hai.
+
+**Exam clue:** Assessment = data collection, evaluation = result checking.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Same tested concept only — [AIIMS Jodhpur Nursing Officer, 10 December 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
@@ -2114,10 +2140,18 @@ Patient physically capable hai lekin knowledge ya skill develop karni hai. Suppo
 
 **Correct: D. Respiratory rate of 28/min**
 
-Objective data nurse observe ya measure kar sakti hai. Respiratory rate count karke record ki ja sakti hai.
+<!-- job5-rationale -->
+Objective data woh finding hai jo examination, observation ya measurement se milti hai. Nurse chest movements count karke respiratory rate document karti hai. Resting adult mein 28/min generally raised rate hai, par age aur clinical context bhi dekhna hota hai. Is finding ki category objective hai, chahe underlying cause abhi pata na ho.
 
-**Baaki options kyun sahi nahi hain?** Dizziness, anxiety aur itching ke statements patient ke personal experiences hain.
+**Option-by-option reasoning**
 
+- **A:** Anxiety ki patient report subjective hai. Observable tremor jaise signs objective ho sakte hain.
+- **B:** Itching ki feeling subjective hai. Visible scratch marks objective hote hain.
+- **C:** Dizziness ki report patient ka experience hai. Balance test alag objective finding ho sakta hai.
+- **D:** Rate ko count kiya ja sakta hai. D objective data hai.
+
+**Exam clue:** Question mein reports, describes aur says jaise words subjective data ka clue dete hain.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
