@@ -4,7 +4,7 @@
 
 ### Q1. Which device commonly provides low-flow supplemental oxygen while allowing a stable patient to speak and eat?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Non-rebreather mask continuously during meals
 - **B.** Endotracheal tube as routine low-flow delivery
@@ -27,15 +27,15 @@ Nasal cannula ek flexible tube hai jiske do small prongs nostrils mein oxygen pa
 
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nasal cannula, Nursing Wallah by PW (07:51)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=471s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q119](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q119-which-device-commonly-provides-low-flow-supplemental-oxygen-while-allowing-a-stable-patient-to-speak-and-eat)
+
 ### Q2. A patient requires a controlled and relatively precise oxygen concentration. Which device is commonly selected?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 AIIMS NORCET 20 November 2021 Shift II — related reported concept** · **🟣 HPSSC Hamirpur Staff Nurse 5 August 2021 — related reported concept**
 
 - **A.** Nasal cannula with no attention to breathing pattern
 - **B.** A disconnected reservoir mask
@@ -58,17 +58,17 @@ FiO2 ka matlab inhaled gas mein oxygen ka fraction hai. Venturi mask oxygen jet 
 
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Related historical evidence:** [🟣 AIIMS NORCET 20 November 2021 Shift II — reported related concept](https://testbook.com/question-answer/venturi-mask-has-high-rate-of-o2-supply-to-the-pat--65f83910807d07269f49ed17). Retrieved third-party report asks about Venturi concentration range, not this exact stem. Official key unverified. Percentage range is FiO2, not flow.
+**Related historical evidence:** [🟣 AIIMS NORCET 20 November 2021 Shift II — reported related concept](https://testbook.com/question-answer/venturi-mask-has-high-rate-of-o2-supply-to-the-pat--65f83910807d07269f49ed17). Retrieved third-party report asks about Venturi concentration range, not this exact stem. Official key unverified. Percentage range is FiO2, not flow. [HPSSC Hamirpur Staff Nurse 5 August 2021 — publisher-reported question](https://testbook.com/question-answer/the-nurse-must-know-that-the-most-accurate-oxygen--697b2d68bfca0b8e8a516498). The retrieved third-party item concerns controlled oxygen delivery. Official paper and key not authenticated. Use the current clinical references for oxygen targets.
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — Venturi mask, Nursing Wallah by PW (32:48)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=1968s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q28](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q28-a-patient-requires-a-controlled-and-relatively-precise-oxygen-concentration-which-device-is-commonly-selected)
+
 ### Q3. Why must a simple oxygen face mask be used at an appropriate minimum flow specified by the device?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Carbon dioxide cannot accumulate inside any mask
 - **B.** Adequate flow helps clear exhaled carbon dioxide from the mask
@@ -91,15 +91,15 @@ Jab patient exhale karta hai, carbon dioxide wali gas mask ke andar temporarily 
 
 **Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — simple face mask minimum flow, Nursing Wallah by PW (02:18)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=138s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q42](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q42-why-must-a-simple-oxygen-face-mask-be-used-at-an-appropriate-minimum-flow-specified-by-the-device)
+
 ### Q4. A reservoir mask bag collapses substantially during inspiration. Which nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Check oxygen supply, flow, fit and valves and reassess the patient urgently if needed
 - **B.** Turn off the oxygen source
@@ -122,15 +122,15 @@ Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Ag
 
 **Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — non-rebreathing mask, Nursing Wallah by PW (39:38)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2378s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q99](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q99-a-reservoir-mask-bag-collapses-substantially-during-inspiration-which-nursing-response-is-appropriate)
+
 ### Q5. What is the role of pulse oximetry in oxygen therapy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Estimate peripheral arterial oxygen saturation and track trends with clinical assessment
 - **B.** Directly measure arterial carbon dioxide
@@ -153,13 +153,15 @@ Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta
 
 **Clinical references:** [Reference 1](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — pulse oximetry, Nursing Wallah by PW (43:28)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2608s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q44](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q44-what-is-the-role-of-pulse-oximetry-in-oxygen-therapy)
+
 ### Q6. A patient at risk of hypercapnic respiratory failure has an oxygen prescription specifying a target saturation range. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Aim for 100% saturation in every patient regardless of the plan
 - **B.** Withhold oxygen during severe hypoxemia solely because COPD is present
@@ -184,13 +186,15 @@ Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch pa
 
 **Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — oxygen therapy in COPD, Nursing Wallah by PW (34:43)](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=2083s).** Publisher chapter list for the 29 December 2025 respiratory MCQ session confirms this topic. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q59](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q59-a-patient-at-risk-of-hypercapnic-respiratory-failure-has-an-oxygen-prescription-specifying-a-target-saturation-range-which-action-is-appropriate)
+
 ### Q7. Which nursing action reduces skin injury from a nasal cannula?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Ignore redness if oxygen is flowing
 - **B.** Place hard clips directly on fragile skin
@@ -217,9 +221,11 @@ Nasal cannula tubing ear aur nostril ke aas-paas pressure aur friction bana sakt
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q97](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q97-which-nursing-action-reduces-skin-injury-from-a-nasal-cannula)
+
 ### Q8. A patient on oxygen suddenly becomes confused, tachypneic and cyanotic. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Wait until the prescribed oxygen bag is empty
 - **B.** Assess airway and breathing, verify delivery and activate urgent clinical help
@@ -246,9 +252,11 @@ New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q46](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q46-a-patient-on-oxygen-suddenly-becomes-confused-tachypneic-and-cyanotic-which-response-is-appropriate)
+
 ### Q9. What is the main purpose of an incentive spirometer after selected surgeries?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Replace mobilization and pain control entirely
 - **B.** Encourage slow sustained inspiration as part of a broader lung expansion plan
@@ -275,9 +283,11 @@ Incentive spirometer ek feedback device hai jo patient ko slow deep inspiration 
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q118](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q118-what-is-the-main-purpose-of-an-incentive-spirometer-after-selected-surgeries)
+
 ### Q10. A postoperative patient cannot cough effectively because of incisional pain. Which approach may support airway clearance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess pain and use prescribed analgesia and incision support with coached coughing
 - **B.** Ask the patient to suppress every cough
@@ -304,9 +314,11 @@ Incisional pain ki wajah se patient shallow breathing kar sakta hai aur cough su
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q57](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q57-a-postoperative-patient-cannot-cough-effectively-because-of-incisional-pain-which-approach-may-support-airway-clearance)
+
 ### Q11. Which finding is a clinical indication to assess whether airway suction is required?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** A fixed schedule regardless of secretion findings
 - **B.** Normal quiet breathing with no secretion concern
@@ -335,9 +347,11 @@ Airway suction negative pressure se secretions remove karne ka procedure hai. Ja
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q53](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q53-which-finding-is-a-clinical-indication-to-assess-whether-airway-suction-is-required)
+
 ### Q12. A patient develops marked desaturation and bradycardia during airway suction. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Increase suction duration without reassessment
 - **B.** Disconnect oxygen for the next attempt
@@ -366,9 +380,11 @@ Suction se airway gas temporarily remove ho sakti hai, aur airway stimulation va
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q58](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q58-a-patient-develops-marked-desaturation-and-bradycardia-during-airway-suction-what-should-the-nurse-do)
+
 ### Q13. Which principle applies to suction catheter selection for an artificial airway?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Use a catheter that completely blocks the airway
 - **B.** Select by the patient's bed number
@@ -397,9 +413,11 @@ Suction catheter artificial airway ke andar space occupy karti hai. Agar cathete
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q32](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q32-which-principle-applies-to-suction-catheter-selection-for-an-artificial-airway)
+
 ### Q14. A conscious patient with an intact gag reflex needs airway support. Which device is generally inappropriate without special indications?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Clinically indicated suction of visible secretions
 - **B.** Oropharyngeal airway
@@ -426,9 +444,11 @@ Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wa
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q112](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q112-a-conscious-patient-with-an-intact-gag-reflex-needs-airway-support-which-device-is-generally-inappropriate-without-special-indications)
+
 ### Q15. A patient with a suspected basal skull fracture requires airway assessment. Which adjunct should not be inserted blindly through the nose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Nasopharyngeal airway
 - **B.** A properly applied external oxygen mask
@@ -455,9 +475,11 @@ Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyn
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q89](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q89-a-patient-with-a-suspected-basal-skull-fracture-requires-airway-assessment-which-adjunct-should-not-be-inserted-blindly-through-the-nose)
+
 ### Q16. Which action helps maintain oxygen-cylinder safety during transport?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Carry it unsecured on the patient's lap
 - **B.** Allow it to roll freely on the trolley
@@ -484,9 +506,11 @@ Medical oxygen cylinder high-pressure gas contain karti hai. Agar cylinder gir j
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q62](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q62-which-action-helps-maintain-oxygen-cylinder-safety-during-transport)
+
 ### Q17. Why should oxygen delivery tubing be checked during a patient's transfer?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Tubing has no influence on oxygen delivery
 - **B.** Every transfer automatically increases oxygen flow
@@ -513,9 +537,11 @@ Transfer ke dauran oxygen tubing pull, kink ya disconnect ho sakti hai. Portable
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q61](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q61-why-should-oxygen-delivery-tubing-be-checked-during-a-patients-transfer)
+
 ### Q18. Which action is appropriate before applying a prescribed oxygen mask?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Choose a device solely by color
 - **B.** Cover the mask's required air-entrainment openings
@@ -544,9 +570,11 @@ Oxygen ek treatment hai jiska device, flow aur target patient ki clinical requir
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q8](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q8-which-action-is-appropriate-before-applying-a-prescribed-oxygen-mask)
+
 ### Q19. A patient has a tracheostomy and suddenly develops severe respiratory distress. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Seal all airway openings without assessment
 - **B.** Activate emergency help and follow the tracheostomy airway emergency algorithm
@@ -575,9 +603,11 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q1](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q1-a-patient-has-a-tracheostomy-and-suddenly-develops-severe-respiratory-distress-which-approach-is-appropriate)
+
 ### Q20. Which finding should be documented after an oxygen therapy adjustment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Device, flow or concentration, saturation, respiratory status and response
 - **B.** Only the wall outlet color
@@ -603,6 +633,8 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q87](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q87-which-finding-should-be-documented-after-an-oxygen-therapy-adjustment)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
