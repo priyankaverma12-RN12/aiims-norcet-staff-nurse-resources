@@ -5,7 +5,7 @@ const MEDIA_RAW='https://raw.githubusercontent.com/'+MEDIA_REPO+'/main/';
 function encodeRepoPath(p){return p.split('/').map(encodeURIComponent).join('/')}
 function resolveResource(input,base){
  const value=String(input||'').trim();if(!value)return null;
- const root=/^\/?(Chapters|Assets)\//i.test(value);
+ const root=/^(?:\/?Chapters\/|\/Assets\/)/i.test(value);
  let u;try{u=new URL(root?MEDIA_RAW+value.replace(/^\//,''):value,MEDIA_RAW+encodeRepoPath(base))}catch{return null}
  if(!['https:','http:'].includes(u.protocol))return null;
  const rawPrefix='/'+MEDIA_REPO.toLowerCase()+'/';
