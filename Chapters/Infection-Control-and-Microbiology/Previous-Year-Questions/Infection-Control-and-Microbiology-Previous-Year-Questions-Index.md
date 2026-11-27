@@ -23,7 +23,12 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Two viral structure and replication reported adaptations](Viral-Structure-and-Replication-Reported-PYQs.md). Third-party pages opened, official keys not authenticated.
 
-**Current total: 35 reported recruitment adaptations (24 + 4 + 5 + 2).** Two academic-paper adaptations are separate.
+
 
 
 [Four reported hepatitis and measles recruitment exam adaptations](16-17-Hepatitis-HIV-and-Measles-Reported-PYQs.md). Third-party search-indexed evidence, not official-key authenticated. Related overlapping source leads consolidated.
+
+
+[Three reported mycology and differential diagnosis exam adaptations](Mycology-Reported-Recruitment-PYQs.md). Retrieved third-party question pages, including two memory-based AIIMS items. Official keys not authenticated. Do not double-count the scabies differential in parasitology.
+
+**Current total: 42 reported recruitment adaptations (24 + 4 + 5 + 2 + 4 + 3).** Two academic-paper adaptations are separate.
