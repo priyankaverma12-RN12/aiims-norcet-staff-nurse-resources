@@ -82,25 +82,28 @@
 
 </details>
 
-### Q94. A newborn has a congenital notch involving the upper eyelid and incomplete corneal coverage during closure. Which nursing concern takes priority in the ophthalmic care plan?
+### Q94. During a pediatric ophthalmic consultation, the clinician identifies a lens coloboma. The parent asks why the lens has an unusual notch when it is not simply a piece of missing lens tissue. Which explanation is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original mock-exclusive practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Increasing dietary iron to close the eyelid defect
-- **B.** Delaying assessment until school vision screening
-- **C.** Applying routine pressure over the globe
-- **D.** Protecting the exposed corneal surface as directed while arranging specialist assessment
+- **A.** The lens notch always results from an infection in the conjunctiva
+- **B.** The lens shape is determined only by the colour of the iris
+- **C.** Abnormal development of the supporting zonular structures can alter the lens contour
+- **D.** The lens has been partially dissolved by tear fluid
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. Protecting the exposed corneal surface as directed while arranging specialist assessment**
+**Correct answer: C. Abnormal development of the supporting zonular structures can alter the lens contour**
 
-- **A. Kyun galat hai:** Iron deficiency treatment congenital eyelid tissue defect ko close nahi karta. Is structural issue ka ophthalmic management required hai.
-- **B. Kyun galat hai:** Incomplete lid closure se cornea dry aur injured ho sakti hai. School age tak delay karna safe nahi hai.
-- **C. Kyun galat hai:** Globe par pressure corneal exposure ko safely treat nahi karta. Eye protection aur prescribed lubrication clinician decide karega.
-- **D. Kyun sahi hai:** Eyelid coloboma mein lid tissue incomplete develop hota hai. Cornea adequately cover nahi hoti toh tears evaporate aur surface damage ho sakta hai. Specialist-directed lubrication aur timely repair assessment vision protection mein help karte hain.
+- **A. Kyun galat hai:** Conjunctival infection eye surface ko affect karti hai. Congenital lens contour defect ko routine conjunctivitis se explain nahi karna chahiye.
 
-**Exam clue:** Eyelid defect ke size se zyada immediate corneal exposure assess karo.
+- **B. Kyun galat hai:** Iris ka pigment lens ki shape determine nahi karta. Lens ko support karne wale structures optical shape mein important role play karte hain.
+
+- **C. Kyun sahi hai:** Zonules chhote supporting fibres hain jo lens ko ciliary body se connect karte hain. Inke incomplete development se lens ka particular part normal tension receive nahi kar pata aur lens contour unusual ho sakta hai. Refraction aur amblyopia assessment important hain, kyunki abnormal shape focusing ko affect kar sakti hai.
+
+- **D. Kyun galat hai:** Tears ocular surface par hoti hain. Ye normally eye ke andar lens ko dissolve nahi karti. Developmental structural abnormality ka mechanism alag hai.
+
+**Exam clue:** Lens coloboma ka contour supporting structures ki abnormal development se related ho sakta hai.
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma).
 
@@ -134,25 +137,28 @@
 
 </details>
 
-### Q96. A patient with a known retinal coloboma notices sudden new flashes and a dark curtain in the visual field. The caregiver attributes both symptoms to the congenital defect and plans to wait for the next routine visit. Which response is appropriate?
+### Q96. A child with an isolated iris coloboma has relatively good measured visual acuity but complains of glare in bright outdoor light. The posterior eye examination has not identified a corresponding retinal defect. Which mechanism best explains the symptom?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original mock-exclusive practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Explain that new field loss is expected and requires no review
-- **B.** Recommend changing spectacle frames as the only intervention
-- **C.** Arrange urgent ophthalmic assessment for possible retinal detachment
-- **D.** Reassure because a congenital condition cannot develop complications
+- **A.** The abnormal iris opening can permit additional light to enter the eye
+- **B.** The child's retinal blood supply has necessarily stopped
+- **C.** The child's optic nerve must be completely absent
+- **D.** Glare proves that every part of the retina is detached
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: C. Arrange urgent ophthalmic assessment for possible retinal detachment**
+**Correct answer: A. The abnormal iris opening can permit additional light to enter the eye**
 
-- **A. Kyun galat hai:** Stable congenital visual deficit aur sudden new field loss alag findings hain. New symptoms retinal complication indicate kar sakte hain.
-- **B. Kyun galat hai:** Spectacle frame change retinal tear ya detachment treat nahi karta. Urgent retinal assessment needed hai.
-- **C. Kyun sahi hai:** Retinal coloboma affected retinal area ki developmental abnormality hai. Is condition mein retinal detachment possible hai. New flashes aur curtain-like shadow emergency warning signs hain. Nurse ko urgent ophthalmic assessment arrange karna chahiye.
-- **D. Kyun galat hai:** Congenital disease ke saath later complications develop ho sakti hain. Longstanding diagnosis new symptoms ki urgency kam nahi karta.
+- **A. Kyun sahi hai:** Iris pupil opening ko regulate karke eye mein light entry control karti hai. Iris coloboma mein iris ka portion incomplete hota hai, jisse effective opening irregular ya larger ho sakti hai. Extra light entry ki wajah se glare possible hai, even when acuity relatively good ho. Specialist appropriate light-control aids discuss kar sakta hai.
 
-**Exam clue:** Known congenital defect new retinal emergency ko rule out nahi karta.
+- **B. Kyun galat hai:** Glare retinal circulation loss ka proof nahi hai. Is stem mein isolated iris defect aur normal posterior examination ka context important hai.
+
+- **C. Kyun galat hai:** Good measured visual acuity complete optic nerve absence se compatible nahi hai. Iris aur optic nerve alag structures hain.
+
+- **D. Kyun galat hai:** Glare alone retinal detachment establish nahi karta. Posterior examination aur new warning symptoms ke basis par further assessment decide hota hai.
+
+**Exam clue:** Iris light entry regulate karti hai. Glare aur measured acuity alag functional outcomes ho sakte hain.
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma).
 
@@ -269,3 +275,7 @@
 AAPOS dermoid/coloboma, NEI coloboma and ASRS choroidal nevus and X-linked retinoschisis text directly retrieved. Degenerative retinoschisis ASRS description indexed but direct retrieval failed. [EyeWiki peripheral retinal degeneration](https://eyewiki.org/Peripheral_Retinal_Degenerations) and [NEI retinal detachment](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment) indexed as corroborating leads. No fixed surveillance schedule or independent diagnosis asserted. Nursing exam and dedicated practice searches for dermoid, coloboma, retinoschisis and choroidal nevus yielded no verified item-specific association. [Iris coloboma MCQ challenge](https://www.youtube.com/watch?v=-h5O-WMxBgU) is a title-level keyhole pupil recognition lead only, not one of the new clinical tasks. All ten video gaps remain. No historical exam attribution.
 
 Pinned snapshot 1dd6a9e79828a1da62a82ba462b898e4c8172237: 38 indexed topic banks screened for relevant terms, all prior mock stems screened, no exact normalized matches with 210 existing allocated stems. Previous Mock 02 Q55–60 address albinism and aniridia rather than dermoid, coloboma or retinoschisis. Q96 remains a condition-specific emergency task, but related retinal-detachment red-flag learning tasks require deeper comparison before assembly. Q99 also requires cross-chapter genetic inheritance comparison. Full semantic, linked evidence, short mock and unlinked checks remain pending. No universal uniqueness certification.
+
+### Replacement review — 27 November 2026
+
+Q94 and Q96 replaced before assembly to avoid analogous Ectropion exposure-protection and retinal-detachment red-flag tasks. The new questions assess lens-support anatomy and the mechanism of iris-coloboma glare, supported by directly retrieved AAPOS guidance. Original historical draft preserved in Git history. Fresh comparison and video verification remain pending.
