@@ -398,7 +398,9 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 
 ### Q18. A patient has BP 128/78 mmHg supine and 100/62 mmHg within three minutes of standing, with dizziness. Which finding is supported?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Orthostatic hypotension
 - **B.** Hypertension due to increased standing pressure
@@ -413,9 +415,17 @@ Systolic BP 28 aur diastolic 16 mmHg girti hai. Ye usual orthostatic threshold s
 
 **Baaki options kyun sahi nahi hain?** Standing BP rise nahi hui. Respiratory rate given nahi hai. Standing pressure lower hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q11](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q11](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q11-a-patient-has-bp-12878-mmhg-supine-and-10062-mmhg-within-three-minutes-of-standing-with-dizziness-which-finding-is-supported)
 
 ### Q19. A nurse needs to administer a prescribed high-alert insulin dose. Which practice is appropriate?
 
@@ -855,7 +865,9 @@ Saline, glucose ya medicines sample mein mix hokar measured values distort kar s
 
 ### Q39. Which order is conventionally used during routine abdominal physical examination?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Percussion, palpation, inspection, auscultation
 - **B.** Auscultation, deep palpation, inspection, percussion
@@ -870,9 +882,17 @@ Abdomen mein pehle observe aur bowel sounds listen karte hain. Palpation aur per
 
 **Baaki options kyun sahi nahi hain?** Baaki sequences palpation ya percussion ko listening se pehle rakhte hain ya inspection late karte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists IPPA techniques; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q9](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q9](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q9-which-order-is-conventionally-used-during-routine-abdominal-physical-examination)
 
 ### Q40. Which phase of wound healing involves formation of granulation tissue and new blood vessels?
 
@@ -1356,7 +1376,9 @@ Spatial neglect attention problem ho sakti hai, visual acuity loss se different.
 
 ### Q61. Which factor can temporarily increase both heart rate and respiratory rate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Quiet sleep in every case
 - **B.** Recent strenuous activity
@@ -1371,9 +1393,17 @@ Exercise mein tissues ki oxygen demand aur CO2 production badhti hai. Heart aur 
 
 **Baaki options kyun sahi nahi hain?** Sleep aur relaxation often rates lower karte hain. Cuff size measurement accuracy affect karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q12](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q12](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q12-which-factor-can-temporarily-increase-both-heart-rate-and-respiratory-rate)
 
 ### Q62. A family demands CPR despite a valid documented plan and the patient's previously expressed wishes. What should the nurse do?
 
@@ -1671,7 +1701,9 @@ Platelet transfusion selected low-count ya dysfunctional platelet situations mei
 
 ### Q75. A nurse uses the dorsal surface of the hand to compare the warmth of two areas. Which assessment technique is being used?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Auscultation
 - **B.** Olfaction
@@ -1686,9 +1718,17 @@ Palpation touch se temperature, tenderness aur texture assess karne mein help ka
 
 **Baaki options kyun sahi nahi hain?** Auscultation listening, percussion tapping aur olfaction smell assessment hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists IPPA techniques; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q10](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q10](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q10-a-nurse-uses-the-dorsal-surface-of-the-hand-to-compare-the-warmth-of-two-areas-which-assessment-technique-is-being-used)
 
 ### Q76. A patient has an IV line and a urinary catheter during an occupied bed change. What should the nurse prioritize?
 
