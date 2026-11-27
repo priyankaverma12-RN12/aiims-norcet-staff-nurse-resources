@@ -1,10 +1,10 @@
 # Job 5 — deep explanation and answer audit
 
 State: CLAIMED
-Owner: job5-run9-group02-mocks
-Scope: Nursing Foundations Group 02 mock slots and reported adaptations, then Group 03 initial bank only
-Claimed UTC: 2026-11-27T06:57:12.343Z
-Expiry UTC: 2026-11-27T07:27:12.343Z
+Owner: job5-run10-recovery
+Scope: Nursing Foundations Group 02 remaining mock and reported explanation updates, then initial Group 03 bank only
+Claimed UTC: 2026-11-27T07:00:53.285Z
+Expiry UTC: 2026-11-27T07:30:53.285Z
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
@@ -39,3 +39,7 @@ Resumed 835af429f3e7d2dd1f31c136a0ff74f0e6d06e0a. Group 02A 21 individual keys a
 
 ## Run 8 — 27 November 2026
 Latest remote Run 7 had 102 live blocks, 44 staged. Group 02A 21 merged commit dfaf6ec853384af58c1b18f345272ca8012a3636 blob 4cd39be94ca74473b8c02a1fb2f6deb07d786c3b; Group 02B 23 merged commit 5ce981031856c205e3037c46934b7b3c3c202a35 blob 12a943e34c8c62b3fdd95e1ca3c587c883b9787c. Group 02C 26 keys/options individually reviewed, draft commit 21a34517aae4c553f52670555bf3122def29d99b blob 7d30ad7d7c2c223b4e4497972d706f2e05b8c0f3, live commit 7a1ef31f4b17eea609c532f6087967301f3d0940 blob d37ca6efd47206dfcfd6315f8f15908fbacce641. All 70 live blocks, 280 individual option reasons, 70 clues, 39 added nonduplicate concept links; exact remote readback, answer key sequence and key/option text match, reversal of rationale-only changes restored original files. Existing metadata, question stems, options, answers, dropdowns, sources and video links preserved. Cumulative 172 live answer blocks (150 original-bank items, 20 reused mock slots, 2 reported adaptations), 688 individual option reasons, zero staged-only explanations; no new question or historical tag count. Both skills and audit logs retrieved, current relevant excerpts reviewed, complete fresh line-by-line reading not certified. Open RN techniques, therapeutic relationship, communication, OpenStax documentation, AHRQ teach-back, TeamSTEPPS overview and tools, ONC SAFER landing pages directly opened. One proposed NCBI printable URL failed, omitted from new links. Q13–16 02C specific infusion/isolation/allergy/oral-order policy references pending. HPRCA official indexed 26004 final key Apr 28, 25026 May 29, 26044 Sept 25 exam schedule; Testbook reported Oct 26 key and Jagran Josh Nov 21 final result, actual keys and item matches not authenticated. Rojgar Bee paper listings surfaced, no new confirmed historical handover item. PR Yadav therapeutic MCQ video description rechecked; handover exercise and teaching video metadata not counted as dedicated MCQ coverage. Group 02C dedicated MCQ videos pending. Eye/ENT manual claim on separate chapter, all numbered claims checked before writes, no shared files edited. Initial checkpoint write had GitHub 409 concurrent head conflict, re-fetched claims and own blob before retry. Next: map Group 02 reused mock slots and reported adaptations, preserving shuffled-option identity and labels; then Group 03. Claim released. No schedule changes.
+
+
+## Run 9 recovery — 27 November 2026
+Explicit manual continuation authorized recovery of interrupted Job 5 owner run9-group02-mocks. Mock 01 commit d2e31217525b93067ffe517ead5da241bd06fd93 blob f9f32a8062d3c49f8852b7a7b215ce23d20827d8, Q44/49/51/54; Mock 02 commit 4f085bb360446e2ad001b0f176937f7c8d3cf613 blob 1af450ab05a3a0bad1a3e54d594648f7d02a6976 Q22/35/39/104. Both live blobs verified against prior readback and all eight keys and four-option reasons present. 180 live blocks and 720 option reasons. No duplicate edits. Connector limit interrupted previous checkpoint/release. All other numbered and Eye/ENT claims free at inspection. Next Mock 03–05 Group 02 then reported adaptations and initial vital signs bank.
