@@ -4,7 +4,7 @@
 
 [Chapter](../README.md) · [Concepts](../Concepts/21-Analogy.md) · [Previous Year Questions](../Previous-Year-Questions/21-Analogy-Reported-Evidence.md)
 
-### Q1. Which pair has the same member-to-group relationship as 'page : book'?
+### Q1. Which pair has the same part-to-whole relationship as 'page : book'?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
