@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: CLAIMED
-Owner: whole-obg-manual-contraception-131610
-Scope: Gynecology contraception expansion Q21–Q40 and local README, no Obstetrics edits
-Claimed UTC: 2026-11-27T13:16:10Z
-Expiry UTC: 2026-11-27T13:46:10Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
@@ -25,3 +25,8 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 - Contraception and Counseling Q1–Q20: 20 original English four-option questions, four parts, 20 hidden detailed Hinglish answers. Existing IUD/STI starter preserved, not repeated verbatim. Commit 03f0f47877d50933f33664ea55b4530908997210, blob 005a1ef3a510ceb0366471719ccfcba75d2416fb, exact remote readback passed. Full semantic and clinical audit pending.
 - README updated to 104 originals, commit 81ec47cd9741b0be9ecb060ddceb12cb53a4d189, exact readback passed. Composition 4 preserved starters, 40 menstrual, 40 infertility, 20 contraception. No mocks or new PYQs. No claim of official exam provenance or verified YouTube mappings. Obstetrics parallel owner and files untouched.
 - Next: contraception expansion Q21–Q40 with distinct clinical topics, then remaining Gynecology curriculum topic banks (RTI/STI/PID, endometriosis/fibroids, gynecological malignancies, menopause, surgery). After all topics ten distinct chapter-only mocks, then India-wide question-level sourced PYQs. Recheck claims, exact and semantic duplicates, answer accuracy and readback. No full chapter completion claim.
+
+
+## Whole OBG continuation — contraception expansion, 27 November 2026
+- Published 20 original Q21–Q40, four five-question parts, 20 hidden answers and 80 option-specific Roman Hinglish rationales, commit 1b5514e348649ebad16f9cc0b3a264e02ea2ea98, blob 21a0591f110c430b14b2301e9b3b04fb4f65083b. Exact remote readback passed. Zero exact normalized matches against 104 previous Gynecology stems and 20 distinct new stems. Clinical and community focus: LAM, Antara, Chhaya, IUCD lifespan/postplacental insertion, missed pills, ulipristal, DMPA, missing strings, postpartum expulsion, breast cancer, rifampicin, STI screening, active gonorrhoea, misoprostol, BP, postpartum CHC, amenorrhea and unmet need. CDC 2024 SPR/MEC and NHM programme references linked question-wise, NHM PDFs indexed excerpts only, full PDF visual review pending. No independent complete clinical or semantic cross-repository audit. Specific video search found direct indexed MCQ lead wPDK3gUSnzU, direct playback retrieval throttled, all 20 exact question video mappings pending. Careers360 reported NORCET OBG Q1–3 retrieved, no individual year or official key authenticated. No new historical adaptations counted, avoid repeating DMPA timing already tested in Q29. Both skill files retrieved and key sections checked, complete fresh line-by-line review of both and long audit log not certified. No standalone theory or images added.
+- README updated to 124 Gynecology originals (4 starters + 40 menstrual + 40 infertility + 40 contraception), commit ba4cea97a04b70e217ff0ea43ade2ef15c4109d4, blob 0676ad20211ddecb94a2a52a47a87055178dbef8, exact readback passed. Obstetrics claim untouched. No new mocks or PYQs in this batch. Next: RTI/STI/PID original bank, then remaining mapped topics, evidence gaps, ten distinct 120-question mocks and all-India sourced Previous Year Questions. Verify all claims and current inventory before writing.
