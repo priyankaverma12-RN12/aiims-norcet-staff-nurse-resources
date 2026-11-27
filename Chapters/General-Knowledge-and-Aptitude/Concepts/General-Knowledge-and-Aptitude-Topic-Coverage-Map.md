@@ -37,7 +37,8 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 
 - [Number systems and divisibility](01-Number-Systems-and-Divisibility.md) — 30 new questions.
 - [HCF and LCM](02-HCF-and-LCM.md) — 30 new questions.
-- Simplification and order of operations — next.
+- [Simplification and order of operations](03-Simplification-and-Order-of-Operations.md) — 30 new questions.
+- Fractions and decimals — next.
 - Simplification and fractions, decimals, percentages, ratios and proportion, averages, profit/loss and discount, interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
