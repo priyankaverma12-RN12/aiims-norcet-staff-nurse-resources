@@ -27,7 +27,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -54,7 +54,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -81,7 +81,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -108,7 +108,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -135,7 +135,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -162,7 +162,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -189,7 +189,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#mechanism-and-types) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -216,7 +216,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -243,7 +243,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -270,7 +270,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -297,7 +297,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -324,7 +324,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -351,7 +351,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -378,7 +378,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#assessment-and-differential) · [Clinical reference](https://eyewiki.aao.org/Examination_Techniques_for_Lower_Eyelid_Malposition).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -405,7 +405,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -432,7 +432,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -459,7 +459,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -486,7 +486,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -513,7 +513,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -540,7 +540,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -567,7 +567,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#ocular-surface-protection) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -594,7 +594,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Medial_Spindle_Procedure).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -621,7 +621,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Medial_Spindle_Procedure).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -648,7 +648,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Medial_Spindle_Procedure).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -675,7 +675,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Medial_Spindle_Procedure).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -702,7 +702,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Medial_Spindle_Procedure).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -729,7 +729,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://pubmed.ncbi.nlm.nih.gov/40425154/).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -756,7 +756,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://eyewiki.aao.org/Ectropion).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -783,7 +783,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://pubmed.ncbi.nlm.nih.gov/40425154/).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
@@ -810,7 +810,7 @@
 
 **Revision:** [Related concept](../Concepts/Ectropion-Concepts.md#repair-and-nursing-management) · [Clinical reference](https://pubmed.ncbi.nlm.nih.gov/40425154/).
 
-**YouTube MCQ practice:** Verification pending. [Eyelid ophthalmology MCQs](https://www.youtube.com/watch?v=0tTcBtFP0nU) is a broad ectropion-topic lead, not a verified match to this item.
+**YouTube MCQ practice:** Specific question verification pending. See [topic practice lead and evidence gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md).
 
 </details>
 
