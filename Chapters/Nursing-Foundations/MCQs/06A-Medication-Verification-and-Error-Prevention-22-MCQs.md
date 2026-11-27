@@ -555,7 +555,7 @@ D. Automatically discard every medication of that color
 
 ### Q20. At shift change, the medication record indicates a time-critical dose was given, but the outgoing nurse reports it may not have been administered. What is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice · **[🟣 RRB Nursing Superintendent 12 March 2026 Shift 3 — related tested concept only](https://testbook.com/question-answer/what-is-the-most-appropriate-action-for-a-nurse-if--69df4796a0ef8fa701f49667)**
 
 A. Give another dose immediately regardless of drug
 B. Mark the dose as omitted and leave it for the next shift
@@ -579,6 +579,8 @@ D. Promptly verify actual administration, assess the patient and obtain an autho
 [Concept](../Concepts/06A-Medication-Verification-and-Error-Prevention.md#reconciliation-and-clinical-checks) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
 **YouTube MCQ practice: verification pending.**
+
+**Evidence note:** Retrieved third-party report tests immediate escalation of a medication-record discrepancy at shift change. This independently authored scenario tests verification before a possible repeat dose. Official key not authenticated.
 
 </details>
 
@@ -643,3 +645,6 @@ D. Assume the patient no longer needs monitoring
 ## ▶️ Teaching and MCQ practice
 
 [Adda247 Nursing — Pari Ma'am, Drug Administration In One Shot](https://www.youtube.com/watch?v=v1t6-BMsL08), published 29 January 2026, retrieved description confirms rights, errors and routes. Teaching only. [Drug Administration & Safety_Nursing MCQs](https://www.youtube.com/watch?v=EX8XBVIkUAk), indexed description covers rights and error prevention, direct retrieval failed, channel and exact concept mapping pending. Supplementary topic-wide lead only. All Q1–22 specific question practice pending. [Reported evidence](../Previous-Year-Questions/06A-Medication-Safety-Reported-Evidence.md).
+
+
+**Practice evidence update — 27 November 2026:** [Health Notes & Mcqs — Drug Administration & Safety_Nursing MCQs](https://www.youtube.com/watch?v=EX8XBVIkUAk) channel and published description confirmed. The description establishes general rights, dosage, routes and error-prevention practice, not the specific 22 scenarios. [IFC IQ- Healthcare — Improve the Safety of High-Alert Medications](https://www.youtube.com/watch?v=nzxQEVNw8Y8) is supplementary teaching on high-alert and LASA medicines, not a verified dedicated MCQ session. All 22 specific practice mappings remain pending. No exact playback or timestamp confirmed.
