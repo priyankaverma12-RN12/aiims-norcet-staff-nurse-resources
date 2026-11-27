@@ -197,7 +197,9 @@ Soiled linen ko gently contain karne se microorganisms aur contaminants spread k
 
 ### Q8. A reusable instrument will enter sterile tissue. Which processing level is generally required?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Wiping with a dry towel
 - **B.** Rinsing with tap water only
@@ -212,9 +214,15 @@ Sterile tissue mein enter karne wala critical instrument sterile hona chahiye. C
 
 **Baaki options kyun sahi nahi hain?** Surface disinfection, water rinse aur dry wiping critical device ke liye adequate nahi hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — sterilization methods, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q7](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q7](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q7-a-reusable-instrument-will-enter-sterile-tissue-which-processing-level-is-generally-required)
 
 ### Q9. Which wound characteristic commonly favors an absorbent foam dressing?
 
@@ -576,7 +584,9 @@ Objective documentation observable facts ko describe karti hai, personality judg
 
 ### Q23. During a sterile procedure, a sterile glove touches the bed rail. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 UPSC ESIC Nursing Officer 2024 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Touch the other sterile supplies before replacing it
 - **B.** Replace the contaminated glove using aseptic technique
@@ -591,9 +601,17 @@ Bed rail nonsterile surface hai. Contact se glove contaminated ho sakti hai, isl
 
 **Baaki options kyun sahi nahi hain?** Clean-looking surface sterile nahi hoti. Wiping sterility restore nahi karti. Supplies touch karne se contamination spread ho sakti hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** [UPSC ESIC Nursing Officer, 7 July 2024](https://testbook.com/question-answer/consider-the-following-statements-regarding-the-pr--668e5c23740a221bd11bef8a) — retrieved third-party report on sterile field and nonsterile contact; related tested concept only, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q5](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q5](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q5-during-a-sterile-procedure-a-sterile-glove-touches-the-bed-rail-which-action-is-appropriate)
 
 ### Q24. A patient with a urinary catheter has new suprapubic pain and low drainage. Which is the best initial nursing assessment?
 
@@ -618,7 +636,9 @@ Obstruction, kink ya low urine production possible causes hain. Nurse simple dev
 
 ### Q25. Which method destroys all forms of microbial life, including bacterial spores, when correctly validated?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Low-level disinfection
 - **B.** Handwashing alone
@@ -633,9 +653,15 @@ Sterilization validated process hai jo microorganisms aur bacterial spores ko el
 
 **Baaki options kyun sahi nahi hain?** Cleaning debris reduce karti hai. Low-level disinfection spores reliably destroy nahi karti. Handwashing hands ko sterile nahi banati.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — sterilization methods, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q6](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q6](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q6-which-method-destroys-all-forms-of-microbial-life-including-bacterial-spores-when-correctly-validated)
 
 ### Q26. A pressure injury base is entirely covered by slough and eschar, preventing confirmation of tissue depth. How should it be classified?
 
@@ -1438,7 +1464,9 @@ Repeated injections lipohypertrophy cause kar sakti hain aur insulin absorption 
 
 ### Q61. Which process physically removes visible soil before disinfection or sterilization?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Antibiotic prophylaxis
 - **B.** Isolation
@@ -1453,9 +1481,15 @@ Cleaning mein detergent, water aur mechanical action se dirt aur organic materia
 
 **Baaki options kyun sahi nahi hain?** Isolation transmission limit karti hai. Vaccination immune protection deti hai. Antibiotics device cleaning nahi karti.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q8](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q8](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q8-which-process-physically-removes-visible-soil-before-disinfection-or-sterilization)
 
 ### Q62. Which theorist is associated with fourteen basic human needs and helping patients gain independence?
 
