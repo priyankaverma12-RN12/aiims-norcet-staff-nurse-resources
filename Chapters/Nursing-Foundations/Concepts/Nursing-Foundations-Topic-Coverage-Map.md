@@ -98,4 +98,6 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Physical examination](03E-Physical-Examination.md), 30 allocated.
 - [Fall risk and prevention](04A-Fall-Risk-and-Prevention.md), 30 allocated.
 
-Next group 04B patient identification and procedure safety. Full clinical and semantic audit pending.
+- [Patient identification and procedure safety](04B-Patient-Identification-and-Procedure-Safety.md), 30 allocated.
+
+Next group 04C restraint safety. Full clinical and semantic audit pending.
