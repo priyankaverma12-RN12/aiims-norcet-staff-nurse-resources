@@ -13,7 +13,7 @@
 | Other 29 chapters | 0 |
 | **Total** | **17 of 350** |
 
-Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks. Anatomy has 600 original questions and Nursing Foundations now has 975 indexed original questions, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks. Anatomy has 600 original questions and Nursing Foundations now has 1,001 indexed original questions, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -27,7 +27,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
-| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [975 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
+| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [1,001 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [560 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [31 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
@@ -414,3 +414,8 @@ Verified 866 indexed originals (358 Medium, 508 Difficult), 600 initial + 266 ex
 ### Forward lane — Nursing Foundations Group 04 verified inventory
 
 Current inventory 975 original slots (412 Medium, 563 Difficult), 600 initial plus 375 expansion. Five patient-safety individual-topic allocations of 30 each reached. Counted historical adaptations 34 pending overlap and official-key verification, five compiled mocks of ten. Latest content checkpoint 96a35e56fdaa9eca21fbb971cbe9928b7cb802cd and chapter reconciliation f923e8ea0e84d3a49b8a2914fe27a4135d176174. Next Group 05 asepsis and standard precautions, deferred while Nursing Foundations has active metadata and explanation writers. Sibling Infection Control and Microbiology reports 1,505 indexed originals, including extensive hand hygiene, standard precautions, PPE, sterilization and exposure-response banks, so use existing cross-chapter practice rather than double-counting or paraphrasing duplicate items. Full semantic, clinical, curriculum and question-level video evidence audits pending. No new learner-facing chapter content authored in this reconciliation.
+
+
+### Forward lane — Nursing Foundations Group 05A bedside asepsis
+
+1,001 indexed original slots (424 Medium, 577 Difficult), initial 600 + 401 expansion. Group 05A has 30 allocated (26 new plus four legacy slots). [Bedside sterile-field clinical judgment](Nursing-Foundations/MCQs/05A-Bedside-Sterile-Field-Clinical-Judgment-26-MCQs.md). New MCQ content b8e3f9c22ad23f30014911f26c0f517d50791ba5; concepts baf1109f435bec9a558d0b5eb08a619196c6afc3; one AIIMS Delhi 2019 reported adaptation 3235bd70422ba51e170a2c6556d061c889c5337a. 220 related stems checked across eight banks, zero exact matches, full semantic review pending. Historical count remains 34 pending overlap and official-key authentication. Five compiled mocks of ten. Specific MCQ video verification pending. Remaining Group 05 allocations and sibling Infection Control references next.
