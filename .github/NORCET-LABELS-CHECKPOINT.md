@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-043406-practice
-Scope: Nursing Foundations group 01 reported evidence metadata only
-Expiry UTC: 2026-11-27T05:04:06Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -79,3 +79,5 @@ Both skills updated and read back: root 66b67c1c5a45dfde23aca06ce8a167ad12682dc2
 
 ## Learner clarification — mandatory dedicated MCQ practice and all-India exam labels
 Root skill b2a2252b0d0da0ddbdfc4e4dceab49eec89239b0 and canonical skill ae77a92576f732d89a2885915dc81b988ba22c0b updated and verified. Dedicated YouTube MCQ practice is mandatory per question; teaching-only videos do not satisfy practice coverage. Both teaching and practice for concepts; record exact/topic/teaching-only/missing counts, revisit gaps. Highlight all evidenced Indian central/state/UT nursing exams (NORCET, AIIMS, PGIMER, HPRCA, HPSSC, HPSSSB, all staff nurse recruitment, etc.) with bold colored evidence labels and unique direct source links. No blanket or unsupported tags. Preserve original study content. Research finding: Aarogyam Prime FON Part 3 https://www.youtube.com/watch?v=xZ3swc0zCeM lists nursing process in boilerplate but its published chapters focus on BP; existing group 01 mappings require correction, do not use boilerplate as coverage proof. Part 1 https://www.youtube.com/watch?v=q4pI8nzTclw has broad description, no exact nursing-process question verification. Dedicated BSN Graduates nursing-process MCQ video https://www.youtube.com/watch?v=deAKEtiEWNY indexed with ADPIE in description, supplementary non-Indian-exam practice, exact questions/playback pending. Prioritize Indian exam-specific practice when verified. Continue previously pending concept UI and Group 02 mock work under updated standards.
+
+- Verified study-file update 65f69cd9e84577e83f8655b31a029e74c1596249: Group 01 Nursing Process reported evidence, both exam names highlighted in place, two question-level topic MCQ practice links (same supplementary BSN Graduates video, description-indexed ADPIE), exact-question video matches 0, direct video playback unavailable, dedicated Indian exam practice pending for both. GMCH 2025 and AIIMS Jodhpur 2019 Testbook question sources reopened and content inspected; retained GMCH previously inspected booklet with prior limitations, no exact official question claim. Non-metadata content identical and readback exact. No new questions authored. Rendered UI not inspected. Claim released. Next: concept cleanup; correct Group 01 misleading generic Part 3 mappings to appropriate topic practice where supported; retrofit previously tagged MCQs and mocks with prominent exam labels and dedicated practice links, group 02 mocks then group 03. Track unresolved exact and topic practice gaps separately, all India sources including HPRCA/HPSSC/PGI as supported. No chapter declared complete.
