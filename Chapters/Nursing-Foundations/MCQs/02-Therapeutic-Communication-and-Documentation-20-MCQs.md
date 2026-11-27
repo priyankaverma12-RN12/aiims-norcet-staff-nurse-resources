@@ -30,6 +30,10 @@ Open-ended question patient ko apni concern explain karne ka chance deta hai. Nu
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q54](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q54-a-patient-says-i-am-afraid-of-my-surgery-tomorrow-which-response-best-encourages-therapeutic-communication) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q2. A patient remains silent after receiving difficult news. Which initial nursing response is appropriate?
@@ -60,6 +64,10 @@ Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse su
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q49](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q49-a-patient-remains-silent-after-receiving-difficult-news-which-initial-nursing-response-is-appropriate) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q3. A patient with hearing loss appears confused during instruction. What should the nurse do first?
@@ -90,6 +98,10 @@ Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur 
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q44](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q44-a-patient-with-hearing-loss-appears-confused-during-instruction-what-should-the-nurse-do-first) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q4. Which phrase demonstrates clarification in a therapeutic conversation?
@@ -120,6 +132,10 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q51](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q51-which-phrase-demonstrates-clarification-in-a-therapeutic-conversation) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q5. During handover using SBAR, which information belongs in the Recommendation section?
@@ -150,6 +166,10 @@ Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent re
 
 **▶️ [YouTube MCQ practice — SBAR, ADAPT NCLEX REVIEW (42:52)](https://www.youtube.com/watch?v=RZixQ8gliGE&t=2572s)** · Published chapter title supports SBAR topic practice, not verified exact question; supplementary NCLEX, playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q35](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q35-during-handover-using-sbar-which-information-belongs-in-the-recommendation-section) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q6. Which documentation entry is most objective?
@@ -180,6 +200,10 @@ Distance, device aur assistance observable facts hain. Objective record doosri n
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q22](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q22-which-documentation-entry-is-most-objective) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q7. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
@@ -210,6 +234,10 @@ Health record mein correction transparent honi chahiye. Approved amendment origi
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q39](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q39-a-nurse-notices-an-incorrect-medication-entry-in-an-electronic-health-record-what-is-the-appropriate-action) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q8. A nurse receives a telephone medication order under a policy that permits it. What is the safest verification step?
@@ -240,6 +268,10 @@ Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sa
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q104](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q104-a-nurse-receives-a-telephone-medication-order-under-a-policy-that-permits-it-what-is-the-safest-verification-step) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q9. A family member asks for a competent adult patient's test results without the patient's permission. What should the nurse do?
@@ -270,6 +302,10 @@ Adult patient ki health information confidential hai. Nurse authorized disclosur
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q100](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q100-a-family-member-asks-for-a-competent-adult-patients-test-results-without-the-patients-permission-what-should-the-nurse-do) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q10. Which communication technique involves restating the main meaning of a patient's message to confirm understanding?
@@ -300,6 +336,10 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q17](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q17-which-communication-technique-involves-restating-the-main-meaning-of-a-patients-message-to-confirm-understanding) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q11. A patient with aphasia becomes frustrated while answering questions. Which strategy is most appropriate?
@@ -332,6 +372,10 @@ Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient
 
 **Research lead (unverified):** [HPSSC Hamirpur Staff Nurse, 5 August 2021 — expressive aphasia](https://testbook.com/question-answer/what-would-be-the-most-therapeutic-nursing-action--697b2633b4063bcc21acf69f). Indexed exam and topic only; direct retrieval failed. No verified exam appearance claimed.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q27](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q27-a-patient-with-aphasia-becomes-frustrated-while-answering-questions-which-strategy-is-most-appropriate) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q12. A patient describes pain as 7/10. Which entry records both subjective data and a relevant observation?
@@ -362,6 +406,10 @@ Pain score patient ki report hai aur guarding observed behavior hai. Dono record
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q55](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q55-a-patient-describes-pain-as-710-which-entry-records-both-subjective-data-and-a-relevant-observation) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q13. A nurse discovers that a fall occurred without apparent injury. What should be recorded in the patient's clinical chart?
@@ -392,6 +440,10 @@ Fall ke baad hidden injury possible hai. Nurse assessment, action aur communicat
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q103](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q103-a-nurse-discovers-that-a-fall-occurred-without-apparent-injury-what-should-be-recorded-in-the-patients-clinical-chart) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q14. Which instruction best applies teach-back before discharge?
@@ -422,6 +474,10 @@ Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q87](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q87-which-instruction-best-applies-teach-back-before-discharge) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q15. A patient expresses anger about a long wait. Which response is most therapeutic?
@@ -452,6 +508,10 @@ Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q109](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q109-a-patient-expresses-anger-about-a-long-wait-which-response-is-most-therapeutic) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q16. Which part of a SOAP note contains the patient's own report of symptoms?
@@ -482,6 +542,10 @@ SOAP mein S patient-reported symptoms record karta hai. O observed findings, A c
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q30](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q30-which-part-of-a-soap-note-contains-the-patients-own-report-of-symptoms) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q17. A patient is transferred to another ward while an important laboratory result is still pending. What is the safest handover action?
@@ -512,6 +576,10 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q118](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q118-a-patient-is-transferred-to-another-ward-while-an-important-laboratory-result-is-still-pending-what-is-the-safest-handover-action) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q18. A patient says, I feel alone since my family left. Which response reflects empathy?
@@ -542,6 +610,10 @@ Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse
 
 **▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q9](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q9-a-patient-says-i-feel-alone-since-my-family-left-which-response-reflects-empathy) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q19. A nurse receives a critical laboratory result for a deteriorating patient. Which communication approach best closes the loop?
@@ -572,6 +644,10 @@ Critical result timely action maangta hai. Closed-loop communication mein receiv
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q112](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q112-a-nurse-receives-a-critical-laboratory-result-for-a-deteriorating-patient-which-communication-approach-best-closes-the-loop) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q20. Which practice is appropriate when using abbreviations in clinical documentation?
@@ -602,6 +678,10 @@ Approved language medication aur care errors kam karne mein help karti hai. Ambi
 
 **▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q13](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q13-which-practice-is-appropriate-when-using-abbreviations-in-clinical-documentation) · Same original stem, shuffled options; not a new question.
+<!-- /job4-link-addition -->
 </details>
 
 ## Study references
