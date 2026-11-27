@@ -17,14 +17,20 @@
 
 **Correct answer: D. The examiner's own thumb pulsation may be mistaken for the patient's pulse**
 
-**Kyun sahi hai:** Index and middle fingers usually appropriate hain. Own thumb pulse confusing ho sakta hai.
+<!-- job5-rationale -->
+Radial pulse artery ki pressure wave hai, jo har effective ventricular contraction ke baad wrist tak pahunchti hai. Index aur middle finger ke pads gently use karo. Examiner ke thumb mein apni arterial pulsation prominent ho sakti hai, isliye patient aur examiner ki pulse confuse ho sakti hai. Excessive pressure kisi bhi finger se artery compress kar sakta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Pressure technique matters, not universal obstruction.
-- **B.** It can feel an arterial pulsation.
-- **C.** Palpation is not ECG.
+- **A:** Thumb ka use har baar artery completely obstruct nahi karta. Pressure bhi matter karta hai.
+- **B:** Thumb arterial pulse bhi feel kar sakta hai, sirf venous flow nahi.
+- **C:** Palpation mechanical pressure wave detect karti hai, electrical rhythm ECG se assess hota hai.
+- **D:** Own thumb pulsation patient ki pulse samajhne ka risk correct reason hai.
 
+**Exam clue:** Use finger pads, not thumb.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -50,14 +56,20 @@
 
 **Correct answer: C. Record rate and observed irregularity, assess clinical context and arrange rhythm evaluation as indicated**
 
-**Kyun sahi hai:** Rate, rhythm and amplitude separately assess karo. Abnormal rhythm warrants appropriate review.
+<!-- job5-rationale -->
+Pulse rate 84/min adult resting range mein ho sakti hai, lekin regularity separately assess karni hoti hai. Early beats aur pauses premature contractions ya other rhythm variation suggest kar sakte hain. Full minute pulse count karo, symptoms, BP aur perfusion assess karo aur appropriate ECG evaluation arrange karo. Palpation se exact rhythm diagnosis confirm nahi hota.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Rhythm classification requires appropriate ECG assessment.
-- **B.** Actual observed pulse pattern distort hoga.
-- **D.** Rate and rhythm alag characteristics hain.
+- **A:** Atrial fibrillation diagnosis ECG evidence ke bina establish nahi hota.
+- **B:** Early palpable beats remove karne se actual pulse rate aur pattern inaccurately record hoga.
+- **C:** Rate, irregularity aur clinical context accurately record karna correct hai.
+- **D:** Normal rate ka matlab normal rhythm nahi hai.
 
+**Exam clue:** Rate and rhythm are separate findings.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -83,14 +95,20 @@
 
 **Correct answer: B. One complete S1–S2 sound pair**
 
-**Kyun sahi hai:** Lub-dub pair ek cardiac cycle represent karta hai. Rate and rhythm correctly count karo.
+<!-- job5-rationale -->
+S1 aur S2 ek cardiac cycle ke main heart sounds hain. S1 usually AV valve closure aur systole ki beginning ke saath associated hai. S2 semilunar valve closure aur diastole ki beginning ke saath associated hai. Ek lub-dub pair ko one beat count karo. Regular rate mein bhi apical assessment ke liye full minute counting useful hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Breathing sounds cardiac beats nahi hain.
-- **C.** Rate approximately double count hoga.
-- **D.** Rate underestimate hoga.
+- **A:** Respiratory sounds breathing represent karte hain, cardiac beats nahi.
+- **B:** S1–S2 ka complete pair ek cycle hai.
+- **C:** Dono sounds ko separately beat count karne se rate roughly double ho jayega.
+- **D:** Har second pair count karne se actual rate underestimate hoga.
 
+**Exam clue:** One lub-dub equals one beat.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -116,14 +134,20 @@
 
 **Correct answer: A. Left fifth intercostal space near the midclavicular line**
 
-**Kyun sahi hai:** Usual apex left fifth intercostal space near MCL hai. Anatomy can vary with displacement and disease.
+<!-- job5-rationale -->
+Adult mein ordinary anatomy ke saath apical impulse aur mitral auscultation area usually left fifth intercostal space near midclavicular line hota hai. Clavicle ke midpoint se imaginary vertical line identify karo aur rib spaces carefully count karo. Body position, cardiac enlargement ya anatomy se apex shift ho sakta hai. Clinical finding ke according site adjust karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Aortic auscultation area, not usual apex.
-- **C.** Pulmonic area hai.
-- **D.** Not cardiac apex.
+- **A:** Left fifth intercostal space near midclavicular line usual adult apex hai.
+- **B:** Right second intercostal parasternal area aortic sounds ke liye hai.
+- **C:** Left second intercostal parasternal area pulmonic sounds ke liye hai.
+- **D:** Umbilicus ke below midline usual apical heart sound site nahi hai.
 
+**Exam clue:** Apex: left fifth ICS, MCL.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [HPSSC Staff Nurse 2021](https://testbook.com/question-answer/location-of-auscultation-for-apical-pulse-is--697c4a25d11d912710e86065) — Apical auscultation landmark, reported 1 August 2021; retrieved third-party report, not an exact match or authenticated official key. [SGPGI Staff Nurse 2024 · Shift I](https://testbook.com/question-answer/as-part-of-cardiac-assessment-to-palpate-th--685baa2301bacc852687a084) — Related apical palpation landmark, not identical technique; retrieved third-party report, not an exact match or authenticated official key.
@@ -149,14 +173,20 @@
 
 **Correct answer: C. Separate intervals may introduce rate variation and obscure the actual deficit**
 
-**Kyun sahi hai:** Two observers ideally count simultaneously for full minute. Difference indicates contractions that may not produce palpable peripheral pulses.
+<!-- job5-rationale -->
+Pulse deficit = apical heart rate minus radial pulse rate, same time interval mein. Kuch ventricular contractions peripheral artery tak palpable pressure wave generate nahi karte. Do trained observers same 60-second period mein apical aur radial rates count kar sakte hain. Example apical 96 aur radial 82 ho toh deficit 14/min hai. Sequential counting mein actual heart rate change difference ko distort kar sakta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Rate may fluctuate.
-- **B.** Comparison needs both rates.
-- **D.** Measurement treatment nahi hai.
+- **A:** Heart rate time ke saath fluctuate kar sakti hai.
+- **B:** Radial rate alone se missing peripheral beats calculate nahi hote.
+- **C:** Simultaneous interval variation ka error kam karta hai.
+- **D:** Measurement arrhythmia treat nahi karti, assessment mein help karti hai.
 
+**Exam clue:** Same minute: apical minus radial.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
@@ -182,14 +212,20 @@
 
 **Correct answer: B. Rhythm and amplitude are independent pulse characteristics**
 
-**Kyun sahi hai:** Regular timing and reduced strength coexist kar sakte hain. Assess perfusion, symptoms and other findings.
+<!-- job5-rationale -->
+Rhythm consecutive beats ke time intervals ki regularity batata hai. Amplitude pressure wave ki palpable strength batati hai. Rate per minute beats hai. Patient ka pulse perfectly regular lekin weak ho sakta hai, jaise low stroke volume ya peripheral perfusion concern mein. Clinical signs assess karo, ek characteristic se doosri infer mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Different assessment properties hain.
-- **C.** Weak amplitude and perfusion require review.
-- **D.** Rate is separate.
+- **A:** Rhythm se amplitude calculate nahi hoti.
+- **B:** Regularity aur strength independent descriptive characteristics hain.
+- **C:** Regular timing adequate stroke volume guarantee nahi karti.
+- **D:** Weak pulse normal, slow ya fast rate ke saath ho sakti hai.
 
+**Exam clue:** Rate, rhythm, strength, equality separately assess karo.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -215,14 +251,20 @@
 
 **Correct answer: A. Compare both limbs and verify using appropriate Doppler assessment if indicated**
 
-**Kyun sahi hai:** Absent palpability needs confirmation and clinical context. New pain, pallor, coolness, numbness or weakness needs urgent review.
+<!-- job5-rationale -->
+Dorsalis pedis pulse foot ke dorsum par assess hota hai. Difficult palpation technique, edema, anatomy ya vascular compromise se related ho sakti hai. Warm foot alone sufficient perfusion proof nahi hai. Both limbs compare karo, color, temperature, capillary refill, sensation, movement aur symptoms check karo. Indicated ho toh trained Doppler assessment karo. Sudden painful cold or numb limb ya new absent pulse urgent review maangta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Anatomical variation and technique may matter.
-- **C.** Unverified finding inaccurate hai.
-- **D.** Potential vascular problem needs assessment.
+- **A:** Comparison, neurovascular findings aur Doppler verification appropriate hain.
+- **B:** One nonpalpable pulse se limb viability decide nahi kar sakte.
+- **C:** Warm foot ko normal palpable pulse likhna inaccurate hai.
+- **D:** Forceful massage vascular problem solve nahi karti aur harm ho sakta hai.
 
+**Exam clue:** Not palpable is not automatically no blood flow.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -248,14 +290,20 @@
 
 **Correct answer: D. Gently, on one side at a time**
 
-**Kyun sahi hai:** One-sided gentle assessment appropriate hai. Avoid carotid sinus stimulation, use clinical protocol.
+<!-- job5-rationale -->
+Carotid artery brain ko blood supply dene wali important vessel hai. Stable assessment mein neck ke ek side par gentle pressure se pulse feel karo. Dono carotids ko simultaneously compress karne se cerebral perfusion compromise ho sakti hai. Carotid sinus stimulation susceptible patient mein heart rate aur BP decrease kar sakti hai. Routine pulse palpation ko carotid massage se confuse mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Cerebral perfusion may be impaired.
-- **B.** May provoke adverse response.
-- **C.** Unnecessary compression can be harmful.
+- **A:** Bilateral compression cerebral blood flow reduce kar sakti hai.
+- **B:** Carotid sinus massage routine pulse assessment nahi hai.
+- **C:** Prolonged strong pressure unnecessary aur unsafe hai.
+- **D:** Gentle one-side-at-a-time palpation correct technique hai.
 
+**Exam clue:** Never palpate both carotids simultaneously.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -281,14 +329,20 @@
 
 **Correct answer: B. Auscultate the apical heart rate for a full minute**
 
-**Kyun sahi hai:** Infant apical assessment often more reliable. Use age-specific reference and clinical condition.
+<!-- job5-rationale -->
+Newborn mein peripheral pulse chhoti aur difficult to feel ho sakti hai. Routine heart rate assessment ke liye stethoscope se apical sounds full 60 seconds count karna useful hai. Age, sleep, crying aur clinical condition ke context mein rate interpret karo. Resuscitation mein rapid HR assessment aur appropriate monitoring ka separate protocol follow hota hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Not routine heart-rate assessment.
-- **C.** Peripheral pulse may be difficult and short count unreliable.
-- **D.** Age-specific range matters.
+- **A:** Umbilical cord pulsation har infant ka routine assessment method nahi hai.
+- **B:** Full minute apical auscultation reliable routine technique hai.
+- **C:** Faint radial pulse ko five seconds count karna large sampling error de sakta hai.
+- **D:** Newborn ka expected heart rate adult range se different hota hai.
 
+**Exam clue:** Routine newborn HR: apical, full minute.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -314,14 +368,20 @@
 
 **Correct answer: A. Behind and below the medial malleolus**
 
-**Kyun sahi hai:** Posterior tibial artery medial ankle region mein assess hoti hai. Compare limbs and use Doppler as indicated.
+<!-- job5-rationale -->
+Posterior tibial artery ankle ke medial side se pass karti hai. Medial malleolus bony prominence ke behind aur slightly below finger pads se gently palpate karo. Dorsalis pedis ke saath distal circulation compare kar sakte hain. Nonpalpable finding ko symptoms aur other vascular assessment ke saath verify karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** This describes dorsalis pedis area.
-- **C.** Not posterior tibial site.
-- **D.** Popliteal pulse is behind knee, not over patella.
+- **A:** Behind and below medial malleolus posterior tibial pulse ka usual site hai.
+- **B:** Foot dorsum extensor tendons ke paas dorsalis pedis area hai.
+- **C:** Elbow lateral epicondyle ankle artery ka location nahi hai.
+- **D:** Patella knee ke front mein hai, posterior tibial site nahi.
 
+**Exam clue:** Posterior tibial: behind medial ankle.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -347,14 +407,20 @@
 
 **Correct answer: D. Deep within the popliteal fossa behind the knee**
 
-**Kyun sahi hai:** Popliteal artery knee ke posterior fossa mein relatively deep hai. Appropriate positioning and gentle technique use karo.
+<!-- job5-rationale -->
+Popliteal artery knee ke posterior popliteal fossa mein relatively deep hoti hai. Patient ko relaxed position aur slightly flexed knee mein rakhne se palpation easier ho sakti hai. Appropriate pressure aur bilateral comparison use karo. Difficult pulse ko automatically absent blood flow mat samjho.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Dorsalis pedis region hai.
-- **B.** Radial pulse site hai.
-- **C.** Brachial site hai.
+- **A:** Anterior ankle dorsalis pedis region hai.
+- **B:** Thumb-side wrist radial region hai.
+- **C:** Anterior elbow brachial assessment area hai.
+- **D:** Popliteal fossa behind knee correct location hai.
 
+**Exam clue:** Popliteal = posterior knee.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -380,14 +446,20 @@
 
 **Correct answer: C. Medial aspect of the upper arm**
 
-**Kyun sahi hai:** Brachial pulse inner upper arm mein accessible hai. Routine infant HR often apical auscultation se assess hota hai.
+<!-- job5-rationale -->
+Brachial artery upper arm ke medial aspect mein assess ki ja sakti hai, infants mein biceps aur triceps ke beech gently palpate karna useful hai. Small infant mein radial pulse difficult ho sakti hai. Routine assessment aur infant resuscitation ke purpose alag ho sakte hain, relevant protocol follow karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Ulnar region, not brachial site.
-- **B.** Not appropriate pulse site.
-- **D.** Not brachial site.
+- **A:** Little-finger side wrist ulnar region se related hai, brachial site nahi.
+- **B:** Posterior neck midline brachial artery ka site nahi hai.
+- **C:** Medial upper arm appropriate brachial pulse region hai.
+- **D:** Lateral ankle upper-arm artery ka location nahi hai.
 
+**Exam clue:** Infant brachial: inner upper arm.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -413,14 +485,20 @@
 
 **Correct answer: A. Expected or normal palpable amplitude**
 
-**Kyun sahi hai:** Common 0–4+ scale 2+ expected amplitude hai, but grading systems vary. Facility scale specify karo.
+<!-- job5-rationale -->
+Common 0–4+ pulse amplitude scale mein 0 absent, 1+ diminished, 2+ expected, 3+ increased aur 4+ bounding describe kiya ja sakta hai. Institutions different scales use kar sakte hain, isliye actual scale aur descriptive finding document karo. Rate aur rhythm bhi separately note karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Typically 0.
-- **C.** Typically 1+.
-- **D.** Typically 4+.
+- **A:** 2+ expected palpable amplitude hoti hai is specified scale mein.
+- **B:** Absent pulse 0 hoti hai.
+- **C:** Weak or diminished amplitude usually 1+ hoti hai.
+- **D:** Bounding generally 4+ hoti hai.
 
+**Exam clue:** Always check the scale before interpreting a grade.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -446,14 +524,20 @@
 
 **Correct answer: D. Bounding pulse with site, rate and rhythm recorded**
 
-**Kyun sahi hai:** Bounding means unusually strong pulse wave. Context, symptoms and BP assess karo, cause assume mat karo.
+<!-- job5-rationale -->
+Bounding pulse unusually large palpable arterial pressure wave hoti hai. Exercise, fever, hyperdynamic circulation ya some cardiac disorders mein mil sakti hai. Site, amplitude, rate, rhythm aur relevant symptoms document karo. Specific underlying cause sirf amplitude se confirm nahi hota.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Deficit requires apical-radial comparison.
-- **B.** Separate properties hain.
-- **C.** Etiology needs wider assessment.
+- **A:** Pulse deficit apical aur radial count comparison se determine hota hai.
+- **B:** Normal rhythm normal amplitude guarantee nahi karti.
+- **C:** Aortic regurgitation possible association hai, amplitude alone diagnostic proof nahi.
+- **D:** Bounding descriptor aur other pulse characteristics accurate record hain.
 
+**Exam clue:** Describe finding before diagnosing cause.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -479,14 +563,20 @@
 
 **Correct answer: C. 78/min**
 
-**Kyun sahi hai:** 39 × 2 = 78/min. For irregular or concerning pulse count full minute and assess further.
+<!-- job5-rationale -->
+Regular radial pulse ke 39 beats 30 seconds mein count hue hain. One minute 60 seconds hota hai, toh conversion factor 60/30 = 2. Rate = 39 × 2 = 78 beats/min. Irregular pulse, unexpected value ya clinical concern mein full minute count karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Incorrect multiplication.
-- **B.** Fourfold conversion wrong hai.
-- **D.** Count was only half a minute.
+- **A:** 117 = 39 × 3, wrong time conversion.
+- **B:** 156 = 39 × 4, yeh 15-second sample ke liye factor hota.
+- **C:** 78/min correct conversion hai.
+- **D:** 39 half-minute count hai, per-minute rate nahi.
 
+**Exam clue:** 30 seconds × 2, 15 seconds × 4 only when appropriate.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -512,14 +602,20 @@
 
 **Correct answer: B. Uneven intervals may make the short sample unrepresentative**
 
-**Kyun sahi hai:** Full-minute counting better captures variability. Apical and ECG assessment as indicated.
+<!-- job5-rationale -->
+Irregular rhythm mein successive beats equal time intervals par nahi aate. Short 15-second sample mein pause ya cluster aa sakta hai, jis se multiplication full minute rate ko misrepresent karega. Full 60-second count aur appropriate rhythm assessment zyada representative hota hai. Symptoms ho toh escalation bhi karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Deficit comparison remains needed.
-- **C.** Irregular timing disproves this assumption.
-- **D.** It still counts pulsations.
+- **A:** Short count pulse deficit eliminate nahi karta.
+- **B:** Uneven intervals short sample ko unrepresentative bana sakte hain.
+- **C:** Irregular timing mein every interval ka beat count equal hona necessary nahi.
+- **D:** Palpation beat count karti hai, direct stroke volume nahi.
 
+**Exam clue:** Irregular pulse: count full 60 seconds.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [ESIC Staff Nurse 2019 · Shift III](https://testbook.com/question-answer/when-a-pulse-rate-is-irregular-it-is-best-to-coun--619cfc8ec37377aece1592c7) — Full-minute apical counting for irregular pulse; retrieved third-party report, not an exact match or authenticated official key.
@@ -545,14 +641,20 @@
 
 **Correct answer: D. Interpret the value with baseline, conditioning, medicines and clinical status**
 
-**Kyun sahi hai:** Adult common resting range 60–100, but conditioning and individual context matter. New symptoms or concerning change need assessment.
+<!-- job5-rationale -->
+Endurance training mein resting vagal influence aur cardiovascular adaptation se resting HR low ho sakti hai. Asymptomatic athlete ka 54/min baseline ke context mein physiological ho sakta hai. Medicines, symptoms, known baseline, rhythm aur clinical status evaluate karo. New or symptomatic bradycardia ko training ke naam par ignore mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** ECG and symptoms needed.
-- **B.** Conditioning does not exclude disease.
-- **C.** Actual measured value document karo.
+- **A:** Rate alone heart block diagnose nahi karti.
+- **B:** Athletes bhi symptomatic bradycardia ya conduction disease develop kar sakte hain.
+- **C:** Measured value ko artificially 60 karna false documentation hai.
+- **D:** Individual baseline aur clinical context use karna appropriate hai.
 
+**Exam clue:** Low rate plus stable baseline is different from new symptomatic bradycardia.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -578,14 +680,20 @@
 
 **Correct answer: C. Promptly assess perfusion and escalate according to clinical condition**
 
-**Kyun sahi hai:** Symptomatic bradycardia may compromise circulation. Urgent assessment and protocol-based response needed.
+<!-- job5-rationale -->
+New slow pulse ke saath dizziness aur hypotension compromised cardiac output aur perfusion ka concern hai. Cardiac output heart rate × stroke volume hota hai, lekin actual effect cause aur compensation par depend karta hai. ABCDE assessment, mental status, perfusion aur appropriate ECG/monitoring arrange karo aur urgent clinical escalation karo. Treatment authorized emergency protocol ke according hoga.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** May worsen risk.
-- **B.** Symptoms and perfusion require immediate review.
-- **D.** This patient has symptomatic deterioration.
+- **A:** Exercise unstable patient ka risk badha sakti hai.
+- **B:** Only pulse record karne se hypotension aur dizziness address nahi hote.
+- **C:** Prompt perfusion assessment aur escalation correct priority hai.
+- **D:** Asymptomatic athlete example symptomatic deterioration ko justify nahi karta.
 
+**Exam clue:** Symptoms plus low BP make bradycardia urgent.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -611,14 +719,20 @@
 
 **Correct answer: B. Compare timing, dose, baseline and symptoms, and assess whether review is required**
 
-**Kyun sahi hai:** Medicines can influence pulse. Trend and clinical status evaluate karo, urgent symptoms escalate karo.
+<!-- job5-rationale -->
+Some bronchodilators, especially beta-2 agonists, heart rate increase kar sakte hain. Lekin respiratory distress, hypoxemia, fever, anxiety aur other medicines bhi tachycardia cause kar sakti hain. Timing, dose, baseline rate, rhythm, symptoms aur vital signs assess karo. Severe or persistent symptoms mein clinical review arrange karo, treatment independently permanently discontinue mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Multiple explanations possible hain.
-- **C.** Drug effect and other causes need consideration.
-- **D.** Treatment decisions need authorized clinical review.
+- **A:** Pulse rise alone overdose prove nahi karta.
+- **B:** Timing aur full clinical assessment drug effect ko safely evaluate karte hain.
+- **C:** Every increase benign maan lena adverse response miss kar sakta hai.
+- **D:** All medications stop karna unauthorized aur potentially harmful hai.
 
+**Exam clue:** Drug effect is a possibility, not automatic diagnosis.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -644,14 +758,20 @@
 
 **Correct answer: A. Both physiological stressors may contribute, but assess the full clinical context**
 
-**Kyun sahi hai:** Fever, pain, stress and reduced circulating volume can raise rate. Identify contributing factors and concerning signs.
+<!-- job5-rationale -->
+Fever metabolic demand badha sakta hai aur dehydration circulating volume reduce kar sakti hai. Heart rate increase compensatory response ho sakta hai, lekin infection severity, medicines, pain, oxygenation aur other causes assess karna important hai. BP, perfusion, intake-output aur symptoms evaluate karo. Persistent tachycardia ya deterioration timely review maangti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Rate elevation can be compensatory.
-- **C.** Response individual hota hai.
-- **D.** Volume depletion can increase heart rate.
+- **A:** Fever aur dehydration dono possible contributors hain, context review correct hai.
+- **B:** Tachycardia physiological compensation bhi ho sakti hai.
+- **C:** Fever ke har degree rise par exact fixed HR response universal nahi hai.
+- **D:** Fast rate adequate fluid status ka proof nahi, hypovolemia mein bhi ho sakti hai.
 
+**Exam clue:** Think compensation, then investigate cause.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -677,14 +797,20 @@
 
 **Correct answer: C. Possible compromised perfusion requiring prompt assessment and escalation**
 
-**Kyun sahi hai:** Weak pulses and systemic signs can indicate circulatory compromise. Assess urgently, do not rely on single pulse finding.
+<!-- job5-rationale -->
+Weak bilateral peripheral pulses, cool clammy skin aur worsening alertness together circulation compromise ke concerning cues hain. Sympathetic vasoconstriction skin circulation reduce kar sakti hai jab body vital organs ki perfusion preserve karne ki koshish karti hai. Prompt ABCDE, BP, pulse, mental status aur other perfusion findings assess karo aur urgent help activate karo. Exact cause further evaluation se identify hoga.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Cause cannot be inferred from pulse alone.
-- **B.** Overall circulation and clinical status matter.
-- **D.** Cluster of new signs is concerning.
+- **A:** Both wrists irreversible arterial blockage pulse finding se prove nahi hoti.
+- **B:** Temperature alone systemic deterioration capture nahi karti.
+- **C:** Cluster suggests compromised perfusion and requires prompt escalation.
+- **D:** New altered alertness ko normal peripheral finding se dismiss nahi karna hai.
 
+**Exam clue:** Weak pulse + clammy skin + altered alertness = urgent concern.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -710,14 +836,20 @@
 
 **Correct answer: B. Perform prompt focused neurovascular assessment and report the new difference**
 
-**Kyun sahi hai:** Compare color, warmth, movement, sensation and appropriate pulses. New procedural vascular concern needs timely review.
+<!-- job5-rationale -->
+Vascular procedure ke baad new pulse asymmetry baseline change hai. Compare distal pulses, skin color and temperature, capillary refill, pain, sensation aur motor function. Appropriate Doppler verification aur immediate reporting local post-procedure protocol ke according karo. Sudden ischemic signs time-sensitive ho sakte hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Technique can obscure true finding.
-- **C.** New asymmetry after procedure may be significant.
-- **D.** Actual change matters.
+- **A:** Extra pressure true pulse difference obscure ya obliterate kar sakti hai.
+- **B:** Focused neurovascular assessment aur prompt reporting appropriate hai.
+- **C:** Discharge tak wait karne se time-sensitive complication miss ho sakti hai.
+- **D:** Baseline aur current change assess karna zaroori hai, equality assume nahi karni.
 
+**Exam clue:** New asymmetry after procedure is a warning sign.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -743,14 +875,20 @@
 
 **Correct answer: A. Document that the pulse was not palpable but a Doppler signal was detected, with relevant clinical findings**
 
-**Kyun sahi hai:** Palpability and Doppler detection distinct hain. Record actual technique and findings, clinical context and escalation.
+<!-- job5-rationale -->
+Doppler moving blood cells se reflected ultrasound signal detect karne mein help karta hai. Nonpalpable pulse ke saath arterial Doppler signal mil sakta hai. Record method aur actual result distinctly, with site and relevant neurovascular findings. Signal alone tissue oxygenation ya sufficient perfusion guarantee nahi karta, further vascular assessment clinical need par depend karti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Palpation did not establish this.
-- **C.** Finding misrepresented hoga.
-- **D.** Signal alone does not establish overall perfusion.
+- **A:** Not palpable but Doppler detected actual findings accurately describe karta hai.
+- **B:** 2+ palpable pulse record karna incorrect hai, palpation se establish nahi hua.
+- **C:** Signal detect hua hai, absolute absent flow record karna misleading hai.
+- **D:** Doppler signal alone adequate tissue perfusion confirm nahi karta.
 
+**Exam clue:** Record palpable and Doppler findings separately.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -776,14 +914,20 @@
 
 **Correct answer: D. Pulsus alternans**
 
-**Kyun sahi hai:** Pulsus alternans describes alternating amplitude with regular timing. Clinical assessment needed, palpation alone not definitive cause.
+<!-- job5-rationale -->
+Pulsus alternans mein regular beat timing ke saath pulse amplitude strong, weak, strong, weak alternate karti hai. Yeh ventricular dysfunction se associated ho sakta hai, lekin clinical assessment aur appropriate cardiac evaluation se cause verify karna hota hai. Isko respiratory phase-related pressure variation ya irregular beat pattern se confuse mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Different finding.
-- **B.** Requires apical-radial comparison.
-- **C.** Normal breathing term hai.
+- **A:** Pulsus paradoxus exaggerated inspiratory systolic BP fall hai.
+- **B:** Pulse deficit comparison ke bina automatically establish nahi hota.
+- **C:** Eupnea normal quiet breathing ka term hai.
+- **D:** Alternating amplitude with regular rhythm pulsus alternans ka description hai.
 
+**Exam clue:** Alternans = alternating strong and weak beats.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK557642/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -809,14 +953,20 @@
 
 **Correct answer: B. It describes an exaggerated inspiratory fall in systolic pressure, conventionally more than 10 mmHg**
 
-**Kyun sahi hai:** Pulsus paradoxus is respiratory-related systolic pressure variation. Specific clinical measurement and context needed, not diagnosis from label alone.
+<!-- job5-rationale -->
+Normal inspiration mein systolic BP thoda decrease ho sakta hai. Pulsus paradoxus mein inspiratory systolic fall conventionally 10 mmHg se greater hota hai. Example expiration 120 aur inspiration 106 mmHg ho toh difference 14 mmHg hai. Tamponade aur severe obstructive airway disease possible associations hain, finding alone diagnosis nahi karti. Manual BP technique se assess kiya ja sakta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Pulse deficit definition hai.
-- **C.** Not the definition.
-- **D.** Pulsus alternans description hai.
+- **A:** Apical minus radial count pulse deficit hai.
+- **B:** Exaggerated inspiratory systolic BP decrease correct definition hai.
+- **C:** Blood har artery mein reverse direction flow nahi karta.
+- **D:** Alternate strong aur weak beats pulsus alternans hai.
 
+**Exam clue:** Paradoxus: inspiratory SBP fall greater than 10 mmHg.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK482292/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -842,14 +992,20 @@
 
 **Correct answer: A. Activity, measurement timing, symptoms and recovery trend as appropriate**
 
-**Kyun sahi hai:** Exercise changes HR. Document activity context and compare recovery and clinical response, not arbitrary corrected value.
+<!-- job5-rationale -->
+Exercise mein muscles ki metabolic demand badhti hai aur sympathetic response heart rate increase kar sakta hai. Post-exercise pulse ko resting value ki tarah label mat karo. Activity type, intensity as relevant, time since activity, symptoms aur recovery trend record karo. Unexpected or prolonged tachycardia clinical review maang sakti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Context misrepresented hoga.
-- **C.** Individual responses vary.
-- **D.** Exertional increase can be physiological.
+- **A:** Activity aur recovery context documentation ko meaningful banata hai.
+- **B:** Resting label measurement condition misrepresent karta hai.
+- **C:** Fixed subtraction individual response account nahi karti.
+- **D:** Physiological exercise increase automatically abnormal nahi hai.
 
+**Exam clue:** Context matters as much as the number.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -875,14 +1031,20 @@
 
 **Correct answer: D. Electrical heart rate and palpable perfusing beats may differ, and either signal may require verification**
 
-**Kyun sahi hai:** Assess patient, verify both signals and obtain appropriate rhythm evaluation. Do not ignore concerning symptoms.
+<!-- job5-rationale -->
+ECG monitor electrical depolarization detect karta hai, palpable pulse mechanical ventricular ejection ki pressure wave hai. Some electrical beats weak mechanical output generate kar sakte hain, aur monitor artifact bhi possible hai. Patient perfusion, apical and peripheral rate aur ECG signal verify karo. Unstable patient mein urgent assessment delay nahi karna hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Mechanical contraction and pulse may differ.
-- **B.** Electrical rhythm assessment required hai.
-- **C.** Artifacts and clinical context matter.
+- **A:** Every electrical beat equally effective peripheral pressure wave generate nahi karti.
+- **B:** Palpation exact electrical rhythm diagnosis nahi deti.
+- **C:** Monitor artifact aur clinical deterioration dono evaluate karne hain.
+- **D:** Electrical rate aur effective peripheral beats differ kar sakte hain, verification required hai.
 
+**Exam clue:** Electrical activity is not the same as effective perfusion.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
