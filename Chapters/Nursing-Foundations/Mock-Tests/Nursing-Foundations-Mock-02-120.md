@@ -124,9 +124,22 @@ Problem-focused diagnosis mein problem, contributing factor aur evidence identif
 
 **Correct: C. Assess the site and replace the dressing aseptically according to protocol**
 
-Damp loose dressing catheter site ko contamination se adequately protect nahi kar sakti. Nurse site inspect karke sterile dressing replace karti hai.
+<!-- job5-rationale -->
+Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke baad site inspect karo aur aseptic technique se indicated sterile dressing replace karo. Infection/dislodgement signs par escalate karo.
 
-**Baaki options kyun sahi nahi hain?** Indefinite reinforcement aur ignoring infection signs miss kar sakte hain. Used towel contamination risk hai.
+**Option-by-option reasoning**
+
+- **A:** Indefinite reinforcement moisture aur infection signs hide kar sakti hai.
+- **B:** Used towel contamination introduce kar sakta hai.
+- **C:** Assessment and aseptic replacement barrier restore karte hain.
+- **D:** Normal fluid flow site safety prove nahi karta.
+
+**Exam clue:** Damp, loose or soiled dressing replace karo.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -448,9 +461,22 @@ TRALI transfusion-related acute lung injury hai jisme pulmonary edema aur oxygen
 
 **Correct: C. Disinfect the connector using the approved method and allow appropriate drying**
 
-Connector surface par microorganisms ho sakte hain. Approved disinfection aur drying access-related bloodstream infection risk kam karti hai.
+<!-- job5-rationale -->
+Connector surface organisms carry kar sakta hai. Hand hygiene, approved antiseptic friction/contact time aur adequate drying before aseptic access follow karo. Product-specific instructions important hain.
 
-**Baaki options kyun sahi nahi hain?** Bare contact, tap water aur cleaning skip karna contamination introduce kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Bare fingers critical surface contaminate kar sakti hain.
+- **B:** Previous use current cleanliness prove nahi karta.
+- **C:** Approved disinfection aur drying bloodstream infection risk reduce karte hain.
+- **D:** Tap water validated antisepsis nahi hai.
+
+**Exam clue:** Scrub and dry hub before access.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2143,9 +2169,22 @@ Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patie
 
 **Correct: A. Sterile 0.9% sodium chloride**
 
-Sterile normal saline suitable compatible lines ko maintain karne ke liye commonly use hoti hai. Exact volume aur technique device policy se decide hoti hai.
+<!-- job5-rationale -->
+Sterile normal saline suitable compatible peripheral access ke routine flushing mein common hai. Volume, technique aur frequency device, drug compatibility, fluid restriction aur policy ke according choose karo.
 
-**Baaki options kyun sahi nahi hain?** Tap water sterile IV product nahi hai. Oral syrup aur antiseptic vascular injection ke liye inappropriate hain.
+**Option-by-option reasoning**
+
+- **A:** Sterile 0.9% NaCl compatible routine flush ka correct choice hai.
+- **B:** Tap water sterile parenteral preparation nahi hai.
+- **C:** Oral syrup parenteral administration ke liye nahi hai.
+- **D:** Undiluted antiseptic IV injection ke liye appropriate nahi.
+
+**Exam clue:** Use approved sterile compatible flush.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -3026,9 +3065,22 @@ Increasing sedation opioid respiratory depression ka early warning ho sakti hai.
 
 **Correct: D. Verify compatibility and obtain a safe administration plan before combining them**
 
-IV drugs chemically react ya precipitate kar sakti hain. Nurse pharmacy reference aur facility policy se compatibility confirm karti hai.
+<!-- job5-rationale -->
+Physical precipitate ke alawa invisible degradation ya potency loss possible hai. Drug, concentration, diluent, Y-site/lumen aur timing pharmacy-approved reference se verify karo. If incompatible, authorized separate administration plan obtain karo.
 
-**Baaki options kyun sahi nahi hain?** Clear appearance compatibility prove nahi karti. Small dose bhi interact kar sakti hai. Visible precipitate unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Small doses bhi incompatible ho sakti hain.
+- **B:** Precipitate particulate exposure aur blockage risk hai.
+- **C:** Clear appearance chemical compatibility prove nahi karti.
+- **D:** Compatibility verify karna before mixing correct hai.
+
+**Exam clue:** Clear does not mean compatible.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
