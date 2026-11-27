@@ -46,4 +46,4 @@ Glaucoma and retinal detachment: glaucoma originals a21751c57cb94dcee548cb79c2d7
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0755-retinopathy. Scope diabetic retinopathy and AMD, chapter-local files only. Expires 2026-11-27T08:25:00Z. -->
