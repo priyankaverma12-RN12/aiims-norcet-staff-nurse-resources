@@ -419,10 +419,22 @@ Connector surface par microorganisms ho sakte hain. Approved disinfection aur dr
 
 **Correct: A. 14 beats/min**
 
-Pulse deficit apical aur peripheral pulse ka difference hai. 112 minus 98 = 14 beats/min. Kuch heartbeats peripheral pulse generate nahi kar pa rahi ho sakti hain.
+<!-- job5-rationale -->
+Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beech difference hai. Kuch contractions se peripheral artery tak detectable pulse wave nahi pahunchti, especially irregular rhythms mein. Simultaneous measurement important hai kyunki separate times par rate change ho sakta hai. Formula: pulse deficit = apical − radial. Given 112 − 98 = 14 beats/min. Deficit milne par rhythm aur perfusion assess karo aur new abnormality communicate karo.
 
-**Baaki options kyun sahi nahi hain?** 210 sum hai. 98 radial rate aur 112 apical rate hai.
+**Option-by-option reasoning**
 
+- **A:** 14 beats/min actual missing peripheral pulses ka difference hai.
+- **B:** 98/min sirf radial rate hai.
+- **C:** 112/min sirf apical rate hai.
+- **D:** 210 beats/min dono rates ka sum hai, deficit nahi.
+
+**Exam clue:** Pulse deficit = apical minus radial, in beats/min.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
+
+**▶️ Additional MCQ-series practice lead:** [NORCET 10 Complete FON Revision](https://www.youtube.com/watch?v=_H8D1ifrqHk&t=4962s) · Published chapter 01:22:42 pulse deficit and pulse pressure. Topic-level description only, exact MCQ and playback pending. Not historical NORCET evidence.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
@@ -682,10 +694,20 @@ IV route medicine ko directly vein mein deliver karta hai. Onset rapid ho sakta 
 
 **Correct: C. Auscultation**
 
-Auscultation mein nurse heart, lungs ya bowel sounds sunne ke liye stethoscope use karti hai.
+<!-- job5-rationale -->
+Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se heart, lungs, bowel aur selected vascular sounds assess karte hain. Inspection mein eyes se observation, palpation mein touch aur percussion mein tapping se generated sound evaluate hota hai. Example ke liye wheeze sunna auscultation hai, chest rise dekhna inspection hai.
 
-**Baaki options kyun sahi nahi hain?** Palpation touch se assessment hai. Percussion tapping hai. Inspection visual observation hai.
+**Option-by-option reasoning**
 
+- **A:** visual observation hai, stethoscope listening nahi.
+- **B:** tapping se resonance ya dullness assess karte hain, passive internal listening nahi.
+- **C:** internal sound ko listen karna auscultation hai.
+- **D:** touch se tenderness, temperature, texture ya pulses assess karte hain.
+
+**Exam clue:** Inspection = see, palpation = feel, percussion = tap, auscultation = listen.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1704,10 +1726,20 @@ Orientation phase mein nurse aur patient meet karke problem identify aur relatio
 
 **Correct: C. Assess the patient, improve signal quality and verify oxygenation with another method if needed**
 
-Cold fingers mein peripheral perfusion low ho sakti hai aur signal unreliable ho sakta hai. Nurse breathing assess karti hai aur appropriate site ya confirmatory test use karti hai.
+<!-- job5-rationale -->
+Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate karta hai. Cold fingers mein vasoconstriction aur low peripheral perfusion signal weak bana sakti hain. Motion, sensor placement, pigmentation aur other factors accuracy affect kar sakte hain. Pehle patient ki airway, breathing, perfusion aur distress assess karo. Probe placement, waveform aur pulse agreement check karo, safe warming ya appropriate alternate site use karo aur clinical indication par arterial blood gas jaise confirmatory test arrange karo. Urgent support ko monitor troubleshooting ke liye delay mat karo.
 
-**Baaki options kyun sahi nahi hain?** Unverified number misleading ho sakta hai. Oxygen decisions clinical assessment par depend karti hain. Normal display symptoms ko exclude nahi karta.
+**Option-by-option reasoning**
 
+- **A:** lowest fluctuating artifact ko true saturation assume nahi karna chahiye.
+- **B:** unstable signal se oxygen ki need rule out nahi hoti. Prescribed oxygen bina assessment remove karna unsafe hai.
+- **C:** patient assessment aur measurement validation dono address karta hai.
+- **D:** 100% display respiratory distress ya hypoventilation ko exclude nahi karta.
+
+**Exam clue:** Assess the patient first, then validate the signal. SpO2 does not measure ventilation.
+
+[Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1999,10 +2031,20 @@ Cystoscopy endoscope se urethra aur bladder lining inspect karne mein help karti
 
 **Correct: B. Observe chest movements discreetly after pulse assessment**
 
-Patient ko pata chale ki breathing count ho rahi hai toh pattern change ho sakta hai. Quiet observation natural rate assess karne mein help karti hai.
+<!-- job5-rationale -->
+Respiration normally automatic hoti hai lekin patient conscious effort se breathing rate aur depth change kar sakta hai. Agar patient ko bataya jaaye ki ab saans count ho rahi hai toh woh unknowingly pattern alter kar sakta hai. Routine assessment mein general explanation aur consent ke saath pulse check ke baad quietly chest rise and fall observe karo. Ek inspiration aur expiration milkar one breath hote hain. Irregular breathing mein full minute count karo aur depth, effort aur rhythm bhi note karo.
 
-**Baaki options kyun sahi nahi hain?** Fast breathing instruction baseline change karti hai. Talking pattern affect karti hai. Age actual respiratory rate nahi batati.
+**Option-by-option reasoning**
 
+- **A:** age expected range batati hai, actual rate nahi.
+- **B:** unobtrusive observation spontaneous rate capture karne mein help karti hai.
+- **C:** continuous talking normal breathing pattern change karti hai.
+- **D:** fast breathing instruction baseline rate artificially badha degi.
+
+**Exam clue:** Pulse ke baad quietly count respirations. One rise-fall = one breath.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
