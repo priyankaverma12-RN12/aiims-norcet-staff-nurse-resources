@@ -536,10 +536,18 @@ Capacity decision-specific aur time-specific ho sakti hai. Delirium understandin
 
 **Correct: B. Patient walked 10 meters with a walker and one-person assistance**
 
-Distance, device aur assistance observable facts hain. Objective record doosri nurses ko actual mobility level samajhne mein help karta hai.
+<!-- job5-rationale -->
+Objective documentation observable facts ko describe karti hai, personality judgment ko nahi. Walking distance, walker aur assistance level actual functional performance measure karne mein help karte hain. Isse next nurse baseline compare kar sakti hai aur mobility plan adjust kar sakti hai. Patient ka own report ho toh explicitly attribute karo.
 
-**Baaki options kyun sahi nahi hain?** Lazy, badly aur careless judgmental labels hain jo actual observations clearly record nahi karte.
+**Option-by-option reasoning**
 
+- **A:** A badly vague judgment hai, actual behavior specify nahi karta.
+- **B:** B distance, equipment aur assistance measurable facts hain.
+- **C:** C lazy label stigmatizing hai aur actual behavior explain nahi karta.
+- **D:** D careless assumption hai, observed action nahi.
+
+**Exam clue:** Record what was observed, not your opinion.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
@@ -831,10 +839,18 @@ Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sak
 
 **Correct: C. Request immediate bedside review and specify the concern**
 
-Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent review request team ko priority samajhne mein help karti hai.
+<!-- job5-rationale -->
+SBAR structured handover method hai. S mein present concern, B mein relevant previous context, A mein assessment aur interpretation, R mein required action ya request batate hain. Agar patient deteriorate kar raha hai toh clearly specify karo ki immediate review chahiye aur kyun. Emergency response ko routine communication ke liye delay mat karo.
 
-**Baaki options kyun sahi nahi hain?** Name Situation ka part ho sakta hai. History Background hai. Current findings Assessment mein aati hain.
+**Option-by-option reasoning**
 
+- **A:** A history Background mein aati hai.
+- **B:** B vital signs assessment aur current situation ka part hain, request absent hai.
+- **C:** C required bedside review aur concern specify karta hai.
+- **D:** D name patient identification hai, complete recommendation nahi.
+
+**Exam clue:** R = request or recommendation, not merely report.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -927,10 +943,18 @@ AED shock ke waqt contact avoid karna rescuer safety ke liye important hai. Shoc
 
 **Correct: A. Correct it through the approved amendment process with an audit trail**
 
-Health record mein correction transparent honi chahiye. Approved amendment original entry aur correction ka trace preserve karti hai.
+<!-- job5-rationale -->
+Electronic record mein error correct karna zaroori hai, lekin original entry aur correction history traceable rehni chahiye. Approved amendment function use karo aur correct time, reason aur identity policy ke according record karo. Medication error ka patient safety impact assess karo aur responsible team ko required notification do. Never hide the original record.
 
-**Baaki options kyun sahi nahi hain?** Secret deletion, another login aur known error ignore karna record integrity ko harm karte hain.
+**Option-by-option reasoning**
 
+- **A:** A approved amendment aur audit trail record integrity maintain karte hain.
+- **B:** B secret deletion traceability destroy karta hai.
+- **C:** C wrong information future treatment ko affect kar sakti hai.
+- **D:** D another login use karna accountability aur access security violate karta hai.
+
+**Exam clue:** Correct transparently, never erase the audit trail.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift III reported question](https://testbook.com/question-answer/what-is-the-most-appropriate-action-for-a-nurse-if--69df4796a0ef8fa701f49667). Reported question page inspected. Not an exact match or independently authenticated official key.
@@ -2375,10 +2399,18 @@ Root cause analysis mein team event ke contributing factors, jaise communication
 
 **Correct: D. Read the order back to the prescriber and obtain confirmation**
 
-Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sahi suni gayi hain. Nurse policy ke according documentation karti hai.
+<!-- job5-rationale -->
+Telephone medication order mein sound-alike medicine names, dose aur units mishear ho sakte hain. Sirf permitted situations mein authorized prescriber ka order document karo aur drug, dose, route, frequency jaise required details read back karo. Prescriber se confirmation lo aur unclear instructions clarify karo. Local authentication and medication safety requirements follow karo.
 
-**Baaki options kyun sahi nahi hain?** Memory unreliable ho sakti hai. Patient guess nahi karna chahiye. Color drug order identify nahi karta.
+**Option-by-option reasoning**
 
+- **A:** A medicine color se identity, dose ya route establish nahi hote.
+- **B:** B patient dose guess karne ka authorized source nahi hai.
+- **C:** C memory par depend karne se information lose ya change ho sakti hai.
+- **D:** D read-back communication error detect karne ka safety check hai.
+
+**Exam clue:** Read back, confirm, document according to policy.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
