@@ -7,6 +7,10 @@
 ### Q1. A patient says, "Everyone tells me I should be grateful, but I feel disappointed." Which response is most therapeutic?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** It sounds difficult to feel that your disappointment is not understood. What has been hardest?
 - **B.** You should concentrate on the positive aspects.
@@ -25,11 +29,21 @@
 - **C.** Generalization may minimize the specific experience.
 - **D.** This assumes others' judgment should replace the patient's feelings.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient is discussing several worries at once and has difficulty identifying the main concern. Which technique is most helpful?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Interrupting with a complete list of possible diagnoses
 - **B.** Changing to a less emotional topic immediately
@@ -48,11 +62,21 @@
 - **B.** Concern unexplored reh jayegi.
 - **C.** Nurse preference patient preference ko replace karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. Which response is an example of offering self rather than giving false reassurance?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** You have no reason to feel worried.
 - **B.** I know exactly how your experience feels.
@@ -71,11 +95,21 @@
 - **B.** Nurse kisi doosre ka personal experience exactly nahi jaan sakti.
 - **D.** Outcome guarantee nahi kar sakte.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient says the treatment plan seems overwhelming. The nurse replies, "You sound concerned about managing several new tasks." Which technique is most evident?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Changing the subject
 - **B.** Reflecting feelings
@@ -94,11 +128,21 @@
 - **C.** Response koi instruction nahi de raha.
 - **D.** Emotion ko recognize kiya gaya hai, disease diagnose nahi hui.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Same tested concept only — [NVS Staff Nurse September 2019 third-party report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reflection/clarification concept. Not an exact historical question or official key.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. At the end of an interview, the nurse reviews the patient's main concerns and agreed next steps. What is the primary purpose?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Introducing unrelated information before ending
 - **B.** Replacing the clinical record with conversation
@@ -117,11 +161,21 @@
 - **B.** Documentation still required hai.
 - **C.** Summary feedback invite karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A patient describes a fear that the nurse believes is unlikely to occur. Which response best maintains trust?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Avoid discussing the concern to prevent distress
 - **B.** Agree that the feared event is certain
@@ -140,11 +194,21 @@
 - **B.** Unsupported certainty anxiety worsen kar sakti hai.
 - **D.** Uncertain outcome guarantee karna misleading hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient who speaks a different language must understand a complex treatment decision. Which communication arrangement is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Rely entirely on gestures for all material risks
 - **B.** Use a qualified interpreter and address the patient directly
@@ -163,11 +227,21 @@
 - **C.** Privacy, accuracy and emotional burden concerns hain.
 - **D.** Patient conversation ka central participant hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. During an interpreted conversation, the nurse uses lengthy paragraphs containing technical terms. Which adjustment is best?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Use short plain-language statements and allow interpretation and clarification between ideas
 - **B.** Speak more rapidly so the interpreter can finish sooner
@@ -186,11 +260,21 @@
 - **C.** Material information missing ho sakti hai.
 - **D.** Abbreviations confusion create kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A patient with low vision needs teaching about an unfamiliar device. What is the best adaptation?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume a family member must learn instead of the patient
 - **B.** Speak louder without changing teaching format
@@ -209,11 +293,21 @@
 - **B.** Vision difficulty loudness se solve nahi hoti.
 - **D.** Low vision access barrier remain karega.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A patient has difficulty speaking because of a temporary airway device but is alert and able to communicate. Which nursing intervention promotes autonomy?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Avoid asking questions until speech returns
 - **B.** Arrange an appropriate communication aid and confirm the patient's intended message
@@ -232,11 +326,21 @@
 - **C.** Speech difficulty decision capacity loss prove nahi karti.
 - **D.** Silence consent establish nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A patient becomes overwhelmed when given many discharge instructions together. Which strategy best reduces cognitive load?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Prioritize essential actions, teach in manageable segments and verify understanding
 - **B.** Read the complete leaflet again at the same pace
@@ -255,11 +359,21 @@
 - **C.** Terminology priority self-care actions ko delay karti hai.
 - **D.** Important safety teaching miss ho sakti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A nurse asks a patient, "Did you understand everything?" The patient says yes but looks uncertain. What is a better communication check?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ask the same yes-or-no question more loudly
 - **B.** Ask a second nurse to repeat the same question
@@ -278,11 +392,21 @@
 - **B.** Comprehension directly test nahi hui.
 - **C.** Nonverbal agreement alone insufficient hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. Which feature makes a closed-ended question appropriate during a time-critical assessment?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** It eliminates the need for follow-up assessment
 - **B.** It can obtain a specific safety-relevant fact quickly when broader exploration would delay care
@@ -301,11 +425,21 @@
 - **C.** Patient experience aur priorities miss ho sakti hain.
 - **D.** Specific answer comprehension guarantee nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A patient's cultural practice differs from the nurse's usual expectations regarding eye contact. Which response supports respectful communication?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ask about the patient's preferences and avoid interpreting eye contact alone as dishonesty
 - **B.** Insist that sustained eye contact is required for cooperation
@@ -324,11 +458,21 @@
 - **C.** Unsupported interpretation hai.
 - **D.** Necessary communication still required hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A patient asks the nurse to meet socially outside the hospital to maintain their relationship. What is the most appropriate professional response?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Accept to demonstrate genuine therapeutic concern
 - **B.** End all communication without explanation
@@ -347,11 +491,21 @@
 - **B.** Abrupt rejection trust harm kar sakta hai.
 - **C.** Privacy and professional care pathway issues hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. At the first encounter, what should a nurse establish to support the orientation phase of a therapeutic relationship?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Immediate personal friendship
 - **B.** A promise that all disclosed information will remain secret under every circumstance
@@ -370,11 +524,21 @@
 - **B.** Safety and lawful reporting exceptions ho sakte hain.
 - **D.** Final evaluation later phase mein hoti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. During the working phase of a therapeutic relationship, which activity is most characteristic?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Collaboratively explore concerns and practice agreed coping or care strategies
 - **B.** Introduce the nurse's identity for the first time
@@ -393,11 +557,21 @@
 - **C.** Working phase active goal-directed support hai.
 - **D.** Patient participation central hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A planned therapeutic relationship is nearing discharge. Which action best supports termination?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Create an indefinite informal relationship to avoid separation distress
 - **B.** Avoid mentioning discharge until the final moment
@@ -416,11 +590,21 @@
 - **B.** Preparation and continuity affected ho sakte hain.
 - **C.** Care transitions may require support.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient asks for the nurse's personal opinion about choosing between two reasonable care options. Which response supports informed decision-making?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Tell the patient to let the family decide automatically
 - **B.** Avoid explaining options because the patient asked a personal question
@@ -439,11 +623,21 @@
 - **B.** Patient needs appropriate information and support.
 - **D.** Personal preference patient values ko replace karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient appears upset during a video consultation and the connection repeatedly interrupts the conversation. What is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Document full understanding without verification
 - **B.** Acknowledge the disruption and arrange an accessible secure alternative to complete the discussion
@@ -462,11 +656,21 @@
 - **C.** Interrupted communication incomplete ho sakti hai.
 - **D.** Privacy and security requirements matter.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A patient repeatedly provides different answers to a sensitive question when visitors are present. Which approach is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ask the same sensitive question loudly in front of visitors
 - **B.** Conclude the patient is intentionally deceptive
@@ -485,5 +689,11 @@
 - **B.** Context and safety concerns may influence responses.
 - **C.** Patient's confidential perspective may remain hidden.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+<!-- /job4-metadata -->
 </details>
 
