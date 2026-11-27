@@ -57,7 +57,9 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Coding and decoding](20-Coding-and-Decoding.md) — 30 originals, two reported adaptations.
 - [Analogy](21-Analogy.md) — 30 original questions, historical leads pending.
 - [Classification and odd one out](22-Classification-and-Odd-One-Out.md) — 30 original questions and one AIIMS Nagpur 2020 reported adaptation.
-- Blood relations and direction sense — next.
+- [Blood Relations](23-Blood-Relations.md) — 30 original questions, two reported adaptations.
+- [Direction Sense](24-Direction-Sense.md) — 30 original questions, three reported adaptations.
+- Syllogism, ordering and ranking — next.
 - Individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
