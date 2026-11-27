@@ -621,7 +621,9 @@ Venturi system fixed air-oxygen entrainment se specified concentration deliver k
 
 ### Q29. A patient's arm is unsupported and held below heart level during BP measurement. Which effect is expected?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** The reading necessarily becomes falsely low
 - **B.** The reading may be falsely elevated
@@ -636,9 +638,17 @@ Arm heart ke below ho toh hydrostatic pressure reading badha sakta hai. Unsuppor
 
 **Baaki options kyun sahi nahi hain?** BP zero hona expected nahi hai. Below-heart positioning usually lower reading nahi deti. BP itself affected hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q2](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q2](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q2-a-patients-arm-is-unsupported-and-held-below-heart-level-during-bp-measurement-which-effect-is-expected)
 
 ### Q30. Which finding is consistent with a stage 2 pressure injury?
 
@@ -940,7 +950,9 @@ Mask ke andar exhaled gas collect ho sakti hai. Appropriate flow CO2 washout sup
 
 ### Q43. Which Korotkoff sound normally identifies systolic pressure during manual adult BP measurement?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** The final pulse palpated at the wrist after cuff removal
 - **B.** Disappearance of all sounds
@@ -955,9 +967,17 @@ Cuff deflate karne par artery mein blood spurts start hote hain. First clear tap
 
 **Baaki options kyun sahi nahi hain?** Sound disappearance usually diastolic pressure batati hai. Loudest sound systolic definition nahi hai. Cuff removal ke baad wrist pulse measurement ka endpoint nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q3](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q3](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q3-which-korotkoff-sound-normally-identifies-systolic-pressure-during-manual-adult-bp-measurement)
 
 ### Q44. A patient with hearing loss appears confused during instruction. What should the nurse do first?
 
@@ -1389,7 +1409,9 @@ Adult chest ko at least 5 cm compress karna hai aur excessive depth greater than
 
 ### Q62. A nurse uses a blood pressure cuff that is too small for the patient's arm. Which measurement error is most likely?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Falsely high blood pressure
 - **B.** A falsely low respiratory rate
@@ -1404,9 +1426,19 @@ Small cuff artery compress karne ke liye extra pressure require kar sakta hai. I
 
 **Baaki options kyun sahi nahi hain?** Large cuff reading low kar sakta hai. Cuff size matter karta hai. Respiratory rate BP cuff directly measure nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**Unverified lead:** [NORCET 9 Prelims 2025 undersized cuff](https://testbook.com/question-answer/what-happens-to-a-blood-pressure-reading-if-a-cuff--69299d5173689bb7bafbcdca/amp) indexed, direct retrieval failed.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q1](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q1](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q1-a-nurse-uses-a-blood-pressure-cuff-that-is-too-small-for-the-patients-arm-which-measurement-error-is-most-likely)
 
 ### Q63. A vial contains 1 g after reconstitution to a final volume of 10 mL. What volume contains 300 mg?
 
@@ -1494,7 +1526,9 @@ Informed consent mein patient ko procedure, relevant risks aur alternatives sama
 
 ### Q67. A patient has an irregular radial pulse. Which approach improves the accuracy of heart rate assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 ESIC Staff Nurse 2019 · Shift III — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Count the apical pulse for a full minute and assess rhythm
 - **B.** Count the radial pulse for five seconds and multiply by twelve
@@ -1509,9 +1543,17 @@ Irregular beats mein short count inaccurate ho sakta hai. Apical pulse full minu
 
 **Baaki options kyun sahi nahi hain?** Five-second sample irregular rhythm miss kar sakta hai. Old value current rate nahi hai. Respiratory rate different vital sign hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [ESIC Staff Nurse 2019 · Shift III](https://testbook.com/question-answer/when-a-pulse-rate-is-irregular-it-is-best-to-coun--619cfc8ec37377aece1592c7) — Full-minute apical counting for irregular pulse; retrieved third-party report, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q4](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q4](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q4-a-patient-has-an-irregular-radial-pulse-which-approach-improves-the-accuracy-of-heart-rate-assessment)
 
 ### Q68. Which angle is commonly used for an intradermal injection with the bevel facing upward?
 
