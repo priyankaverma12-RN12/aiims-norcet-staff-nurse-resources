@@ -19,16 +19,16 @@
 **Correct: B. Assessment**
 
 <!-- job5-rationale -->
-Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planning, Implementation aur Evaluation. Assessment mein nurse patient ki baat sunti hai aur physical findings collect karti hai. Nausea ke saath vomiting, fluid intake, urine output aur vital signs check karne se dehydration ya deterioration ka risk samajh aata hai. Severe symptoms mein rapid assessment aur zaroori urgent care saath-saath chal sakti hai. Isliye B sahi hai.
+Dekho, ADPIE nursing process ke paanch steps hain. Inmein Assessment, Diagnosis, Planning, Implementation aur Evaluation aate hain. Assessment mein nurse patient ki baat sunti hai aur uski condition se related findings collect karti hai. Is question mein patient ne severe nausea, yaani ulti jaisa lagne ki problem, batayi hai. Lekin nurse ne abhi vital signs aur hydration check nahi ki hai. Woh vomiting, fluid intake, urine output aur vital signs assess karegi, taaki samajh sake ki dehydration ya condition kharab hone ka risk hai ya nahi. Agar severe symptoms hain, toh rapid assessment aur urgent care saath-saath chal sakti hain. Isliye B sahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Implementation ka matlab selected care ko karna hai. Bina patient ki zaroorat samjhe routine plan execute karna sahi nahi.
-- **B:** Assessment pehle hoti hai aur uske results ke basis par diagnosis aur plan banta hai.
-- **C:** Planning mein goals aur interventions decide hote hain. Abhi zaroori data hi missing hai.
-- **D:** Evaluation mein care ke baad result compare karte hain. Abhi koi result evaluate nahi karna hai.
+- **A:** Implementation ka matlab hai ki nurse planned care ko actually deti hai. Is situation mein routine care ka plan follow karne se pehle nurse ko patient ki current problem aur safety samajhni hai. Isliye implementation is question ka best answer nahi hai.
+- **B:** Assessment mein nurse patient se information leti hai aur examination ya measurements se zaroori findings collect karti hai. Yahan hydration aur vital signs abhi check nahi hue hain. Isliye assessment karna sahi step hai.
+- **C:** Planning mein nurse patient ke liye goals aur suitable interventions decide karti hai. Lekin agar zaroori assessment data nahi hai, toh individualized plan banana mushkil hoga. Isliye planning se pehle assessment ki zaroorat hai.
+- **D:** Evaluation mein nurse care dene ke baad actual result ko goal se compare karti hai. Is question mein abhi patient ki problem ka initial assessment bhi complete nahi hua hai. Isliye evaluation current step nahi hai.
 
-**Exam clue:** Assessment = data collection, evaluation = result checking.
+**Exam clue:** Jab question mein zaroori patient information abhi collect nahi hui ho, toh assessment ko consider karo. Jab care ke baad result check karna ho, toh evaluation hoti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -61,16 +61,16 @@ Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planni
 **Correct: A. The patient reports burning pain on urination**
 
 <!-- job5-rationale -->
-Subjective data patient ka personal experience hai. Burning sensation nurse directly apne instruments se measure nahi kar sakti, lekin patient ki report important clinical evidence hai. Nurse onset, intensity aur associated urinary symptoms bhi pooch sakti hai. Urine test cause ko investigate kar sakta hai, par patient ki feeling ki category subjective hi rahegi.
+Subjective data woh information hai jo patient apne experience ke baare mein batata hai. Maan lo patient kehta hai ki urine pass karte waqt jalan hoti hai. Nurse is jalan ko khud patient ki tarah feel nahi kar sakti, lekin patient ki baat clinical assessment ke liye bahut important hai. Nurse pooch sakti hai ki jalan kab shuru hui, kitni zyada hai aur saath mein koi doosri urinary problem toh nahi hai. Urine test se cause investigate kiya ja sakta hai, lekin patient ne jo sensation batayi hai, woh subjective data hi rahega.
 
 **Option-by-option reasoning**
 
-- **A:** Burning patient khud report kar raha hai. Isi liye A subjective data hai.
-- **B:** Temperature thermometer se measure hota hai. Yeh objective data hai.
-- **C:** Urine output measured volume per time hai. Yeh objective data hai.
-- **D:** Visible distension examination mein observe ki ja sakti hai. Yeh objective finding hai.
+- **A:** Patient khud bata raha hai ki urine pass karte waqt burning pain hota hai. Ye uska personal experience hai, isliye A subjective data hai.
+- **B:** Nurse thermometer se 38.4°C temperature measure kar sakti hai. Kyunki ye measured value hai, isliye ye objective data hai.
+- **C:** Nurse ek specific time mein collect hue urine ko measure karke output record karti hai. Yahan 20 mL/hour measured finding hai, isliye ye objective data hai.
+- **D:** Nurse physical examination ke dauran abdomen ka phoolna dekh sakti hai. Ye observed finding hai, isliye ye objective data hai.
 
-**Exam clue:** Symptoms patient batata hai, signs examine ya measure kiye jaate hain.
+**Exam clue:** Patient apne symptoms batata hai. Nurse signs ko observe ya measure karti hai. Dono types ki information assessment mein important hoti hain.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -105,16 +105,16 @@ Subjective data patient ka personal experience hai. Burning sensation nurse dire
 **Correct: D. Respiratory rate of 28/min**
 
 <!-- job5-rationale -->
-Objective data woh finding hai jo examination, observation ya measurement se milti hai. Nurse chest movements count karke respiratory rate document karti hai. Resting adult mein 28/min generally raised rate hai, par age aur clinical context bhi dekhna hota hai. Is finding ki category objective hai, chahe underlying cause abhi pata na ho.
+Objective data woh finding hai jo nurse examination, observation ya measurement se collect kar sakti hai. Respiratory rate ka matlab hai ki patient ek minute mein kitni baar saans leta hai. Nurse chest movements count karke rate document karti hai. Resting adult mein 28 breaths per minute aam taur par raised rate hota hai, lekin patient ki age aur clinical condition bhi dekhni hoti hai. Nurse ko cause abhi pata na ho tab bhi measured respiratory rate objective finding hi hai. Isliye D sahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Dizziness ki report patient ka experience hai. Balance test alag objective finding ho sakta hai.
-- **B:** Anxiety ki patient report subjective hai. Observable tremor jaise signs objective ho sakte hain.
-- **C:** Itching ki feeling subjective hai. Visible scratch marks objective hote hain.
-- **D:** Rate ko count kiya ja sakta hai. D objective data hai.
+- **A:** Chakkar aana patient ka apna experience hai. Patient ki report subjective data hai. Agar nurse balance test karke koi abnormal finding observe karti hai, toh woh alag objective finding hogi.
+- **B:** Patient jab apni anxiety ke baare mein batata hai, toh woh subjective data hota hai. Agar nurse haathon ka tremor observe kare, toh woh objective finding ho sakti hai.
+- **C:** Patient ko wound mein khujli feel hona uska personal experience hai, isliye ye subjective data hai. Agar nurse skin par scratch marks dekhe, toh woh alag objective finding hogi.
+- **D:** Nurse patient ki breathing count karke respiratory rate measure kar sakti hai. Isliye 28/min objective data hai.
 
-**Exam clue:** Question mein reports, describes aur says jaise words subjective data ka clue dete hain.
+**Exam clue:** Jab patient apni feeling report karta hai, toh subjective data consider karo. Jab nurse koi finding observe ya measure karti hai, toh woh objective data ho sakti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
