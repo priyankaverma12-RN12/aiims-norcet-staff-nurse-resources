@@ -146,7 +146,22 @@ Female urinary meatus anus ke paas hota hai. Anus ke area mein gut bacteria ho s
 
 **Correct: D. Reduce leakage of medication into subcutaneous tissue**
 
-Z-track skin aur subcutaneous tissue displace karke needle pathway offset karti hai. Isse selected irritating IM drugs ka leakage kam ho sakta hai. Intradermal wheal aur IV route different hain. Allergy prevention guaranteed nahi hai.
+Z-track selected IM medicines ke liye ek technique hai. Skin aur subcutaneous tissue ko side mein move kiya jaata hai, phir medicine suitable muscle mein deliver hoti hai. Needle nikalne ke baad tissue release hone par puncture track offset ho jaata hai. Isse medicine ka superficial tissue mein wapas leak hona kam ho sakta hai. Product aur local protocol ke according technique select karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dermal wheal superficial skin injection se related hai. Z-track ka target muscle hai.
+- **B (Galat):** IV route directly vein mein medicine pahunchata hai. Z-track IM technique hai.
+- **C (Galat):** Allergy immune reaction hai. Injection track change karne se drug allergy ka risk eliminate nahi hota.
+- **D (Sahi):** Offset tissue path selected medicine ke subcutaneous tissue mein leakage ko kam karne mein help karta hai. Yahi technique ka intended purpose hai.
+
+**Exam clue:** Z-track ka main purpose leakage kam karna hai, allergy prevention nahi.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Original linked report could not be reopened in this run.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
