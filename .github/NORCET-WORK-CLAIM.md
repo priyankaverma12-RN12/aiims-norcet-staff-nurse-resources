@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-042817-restraint
+Scope: Nursing Foundations group 04C restraint safety and local navigation, global index only if unclaimed
+Claimed UTC: 2026-11-27T04:28:17Z
+Expiry UTC: 2026-11-27T04:58:17Z
 
 Forward verified content checkpoint 038be4821f95a33e67956d5f30bbe4fd11520bda. Nursing Foundations 894 indexed original slots (372 Medium, 522 Difficult), 600 initial + 294 expansion. Group 04B patient identification and procedure safety: 28 new originals plus earlier Q1 and Q15 = 30 allocated. 124 related prior stems exact checked without overlap, 28 four-option hidden-answer questions verified with one compact metadata row per question. Concepts 2d42717aa060c967e543d619aa426039b0082df1, evidence a2b707db6734c202f73c6a436e423a8b1cb13c3b (two directly retrieved third-party memory-based NORCET 6 Prelims 2024 and RMLIMS 7 Sep 2025 adaptations, not official keys). MCQ inventory dfdd8baef345c73c56664a571aab1d6befad9feb, coverage audit 75fe0fe0ec5f8acf3763ad0ffb679db89ff9e843, README 85b1069f2afa1248785572e361cb14f5ed1cb956, coverage map c674e35a43d07492a905e22d52f8066394288894 (first readback differed, second readback confirmed intended link and next topic), PYQ index 5bdcfddaf3aa598a8e4004dc3ecec8c171d43a56 and video guide 139c7adfc01b0776a322d574e51cab867df9e209. Open RN and WHO clinical pages retrieved, video descriptions indexed but playback, channel and exact mapping gaps remain. Counted historical total 34 pending overlap, five compiled mocks of ten. Global shared chapter index update deferred because reverse job has an active claim including conditional global edits. Next reconcile global 894 count when safe, then group 04C restraint safety, incident and quality management and remaining hazards. Remaining 12 earlier group 04 items reserved once. Full semantic, clinical and curriculum audits and official evidence authentication pending. Other job claims preserved. Hourly task unchanged.
