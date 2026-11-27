@@ -67,7 +67,7 @@ function decorateDiagrams(target,p){
      // SVG is displayed as an image, never injected into the interactive page DOM.
      const url=URL.createObjectURL(new Blob([svg],{type:'image/svg+xml'}));const img=document.createElement('img');img.alt='Flowchart from '+p.split('/').at(-1);img.addEventListener('error',()=>{URL.revokeObjectURL(url);figure.dataset.diagramState='error';view.textContent='Diagram could not be displayed. Open the original code below.';detail.open=true},{once:true});
      img.addEventListener('load',()=>{if(!figure.isConnected){URL.revokeObjectURL(url);return}figure.dataset.diagramState='ready';img.style.width=Math.min(1400,Math.max(300,img.naturalWidth))+'px'},{once:true});
-     img.src=url;const zoom=document.createElement('a');zoom.href=url;zoom.target='_blank';zoom.rel='noopener noreferrer';zoom.textContent='Open full-size flowchart ↗';zoom.className='diagram-zoom';view.replaceChildren(img);title.append(zoom);
+     img.src=url;const zoom=document.createElement('a');zoom.href=url;zoom.download='study-flowchart.svg';zoom.textContent='Save full-size SVG';zoom.className='diagram-zoom';view.replaceChildren(img);title.append(zoom);
     }catch{figure.dataset.diagramState='error';view.textContent='This diagram could not be rendered. The original flowchart code is available below.';detail.open=true}
    });
   }
