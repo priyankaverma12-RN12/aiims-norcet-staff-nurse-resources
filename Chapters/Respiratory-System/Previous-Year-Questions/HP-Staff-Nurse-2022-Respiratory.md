@@ -1,120 +1,117 @@
-# HP Staff Nurse — 2022 Previous Year Questions (Respiratory System)
+# HP Staff Nurse 2022 — Respiratory question practice
 
-**HPSSC Staff Nurse • Post Code 933 • Series A • 10 April 2022**
+HPSSC Post Code 933, Series A, 10 April 2022. Five independently worded study adaptations based on the previously recorded source-question mappings. These are not verbatim paper questions or official keys. Original PDF was inaccessible on this audit run. Search-index evidence corroborates the paper and the macrophage/tidal-volume topics, not every original option or answer. Other mappings remain pending re-verification. Options and order are independently authored. No new official PYQ count is claimed.
 
-[← Previous Year Questions index](README.md) · [Respiratory chapter](../README.md) · [Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 1 Practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+[Original third-party scan](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf) · [Alternate transcription lead](https://ramanacademy.in/previous-papers/staff-nurse-post-code-933-2022/) · [Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Practice](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
 
-> **Dhyan de:** Ye 5 sawaal HP Staff Nurse ke purane paper se hain. Original English sawaal aur options ke liye paper ka link kholo. Answers neeche easy Hinglish mein hain.
+## Source Q3 — adapted practice
 
-**[Purana question paper dekho (Series A)](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf)** — Ye purane paper ki copy hai, jo ek educational website par available hai.
+Which resident immune cell removes inhaled debris from the alveolar air spaces?
 
-## Purane paper ke sawaal
+**Difficulty:** Easy | **Priority:** High yield (editorial) | **Evidence:** prior source mapping, original wording and key pending
 
-| Sawaal number | Page | Topic | Correct answer | Original question |
-|---|---:|---|---|---|
-| **Q3** | 3 | Alveolar macrophages / wandering phagocytes | **A. Alveolar macrophages** | [Sawaal 3 aur options dekho](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3) |
-| **Q20** | 6 | Normal adult tidal volume | **D. 500 mL** | [Sawaal 20 aur options dekho](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6) |
-| **Q35** | 8 | External respiration / alveolar gas exchange | **A. External respiration** | [Sawaal 35 aur options dekho](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8) |
-| **Q67** | 13 | Definition of tidal volume | **B. Tidal volume** | [Sawaal 67 aur options dekho](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13) |
-| **Q113** | 20 | Bronchioles / narrow airways of the lungs | **B. Bronchioles** | [Sawaal 113 aur options dekho](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20) |
+- **A.** Alveolar macrophage
+- **B.** Type I pneumocyte
+- **C.** Type II pneumocyte
+- **D.** Goblet cell
 
-## Sahi answers aur easy explanation
+<details><summary>Answer aur Hinglish explanation</summary>
 
-### Sawaal 3 — Alveolar macrophages / wandering phagocytes
+**Correct: A. Alveolar macrophage**
 
-**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
+Alveolar macrophage ek immune cell hai jo germs aur dust ko engulf karke alveoli ko clean rakhne mein help karta hai. Type I pneumocyte ki thin wall gas exchange mein help karti hai. Type II pneumocyte surfactant banata hai, jisse alveoli collapse hone ka risk kam hota hai. Goblet cell mucus banata hai aur alveolar phagocyte nahi hota.
 
-**[Sawaal 3 (page 3) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)**
-
-<details><summary>✅ Sahi answer aur explanation dekho</summary>
-
-**A. Alveolar macrophages**
-
-Alveolar macrophages **phagocytosis** ke through dust, germs aur foreign particles ko engulf karke remove karte hain. Type I pneumocytes gas-exchange barrier provide karte hain aur Type II surfactant banate hain. Goblet cells mucus se related hain; alveoli ke wandering phagocytes nahi.
-
-**Exam trick:** Alveoli ki safai **macrophages** karte hain. Type I = gas exchange; Type II = surfactant.
-
-[📖 Day 1 complete concept notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Matching original practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+[Paper page 3](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3)
 
 </details>
 
-### Sawaal 20 — Normal adult tidal volume
+## Source Q20 — adapted practice
 
-**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
+For a typical resting adult, which approximate tidal volume is used in basic physiology teaching?
 
-**[Sawaal 20 (page 6) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)**
+**Difficulty:** Easy | **Priority:** High yield (editorial) | **Evidence:** prior source mapping, original wording and key pending
 
-<details><summary>✅ Sahi answer aur explanation dekho</summary>
+- **A.** 50 mL
+- **B.** 150 mL
+- **C.** 1500 mL
+- **D.** 500 mL
 
-**D. 500 mL**
+<details><summary>Answer aur Hinglish explanation</summary>
 
-Ek **normal quiet breath** mein inspired/expired air ko tidal volume (TV) kehte hain. Adult exam questions mein typical teaching value **approximately 500 mL** hoti hai. Ye ek example hai, real patient's tidal volume age, size aur condition ke according change hoti hai.
+**Correct: D. 500 mL**
 
-**Exam trick:** **Normal ek breath = TV ≈ 500 mL**. Minute ventilation ke liye **RR × TV** karo.
+Quiet breathing mein ek normal breath ke saath lagbhag 500 mL air move karti hai. Ye teaching example hai, har patient ka fixed value nahi. 50 mL typical adult breath ke liye bahut kam hai. 150 mL anatomical dead space ka common teaching estimate hai. 1500 mL usual resting tidal volume se kaafi zyada hai.
 
-[📖 Day 1 complete concept notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Matching original practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
-
-</details>
-
-### Sawaal 35 — External respiration / alveolar gas exchange
-
-**Difficulty:** Medium | **Exam focus:** HP Staff Nurse
-
-**[Sawaal 35 (page 8) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)**
-
-<details><summary>✅ Sahi answer aur explanation dekho</summary>
-
-**A. External respiration**
-
-**Alveoli aur pulmonary capillaries** ke beech O₂–CO₂ exchange ko external respiration kehte hain. Internal respiration **systemic tissues aur blood** ke beech hota hai. Ventilation ka matlab sirf air ka movement hai.
-
-**Exam trick:** **External respiration = alveoli aur blood**, internal respiration = blood aur body tissues.
-
-[📖 Day 1 complete concept notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Matching original practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+[Paper page 6](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=6)
 
 </details>
 
-### Sawaal 67 — Definition of tidal volume
+## Source Q35 — adapted practice
 
-**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
+Oxygen diffuses from the alveoli into pulmonary capillary blood. Which physiological process describes this exchange?
 
-**[Sawaal 67 (page 13) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)**
+**Difficulty:** Medium | **Priority:** High yield (editorial) | **Evidence:** prior source mapping, original wording and key pending
 
-<details><summary>✅ Sahi answer aur explanation dekho</summary>
+- **A.** External respiration
+- **B.** Internal respiration
+- **C.** Pulmonary ventilation
+- **D.** Cellular respiration
 
-**B. Tidal volume**
+<details><summary>Answer aur Hinglish explanation</summary>
 
-Normal breathing mein ek breath se andar-bahar move hone wali air **TV** hai. Vital capacity (VC) maximum voluntarily moved air hai; inspiratory capacity (IC) = TV + IRV. **Normal single breath** clue se TV answer milta hai.
+**Correct: A. External respiration**
 
-**Exam trick:** **Normal breath = Tidal Volume**. Normal expiration ke baad lungs mein bachi air = **FRC**.
+Alveoli aur pulmonary capillaries ke beech gas exchange external respiration hai. Internal respiration systemic capillary blood aur body tissues ke beech hota hai. Pulmonary ventilation air ke lungs mein aane aur bahar jaane ko kehte hain. Cellular respiration mein cells nutrients se energy banate hain.
 
-[📖 Day 1 complete concept notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Matching original practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
-
-</details>
-
-### Sawaal 113 — Bronchioles / narrow airways of the lungs
-
-**Difficulty:** Easy | **Exam focus:** HP Staff Nurse
-
-**[Sawaal 113 (page 20) kholo](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)**
-
-<details><summary>✅ Sahi answer aur explanation dekho</summary>
-
-**B. Bronchioles**
-
-Bronchioles chhoti branching airways hoti hain jo bronchi se aage air conduct karti hain. **Alveoli** air sacs hain; **bronchi** relatively large airways hain. Sequence: Trachea → Bronchi → Bronchioles → Alveoli.
-
-**Exam trick:** **Bronchi → Bronchioles → Alveoli**. Bronchioles chhoti airways hain; alveoli gas-exchange sacs hain.
-
-[📖 Day 1 complete concept notes](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 Matching original practice MCQs](../MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+[Paper page 8](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=8)
 
 </details>
 
-## Paper ka source
+## Source Q67 — adapted practice
 
-- [HPSSC Post Code 933 (Series A), scanned original English question paper](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf).
-- Answers medical sources se check kiye hain, lekin official answer key independently verify nahi hui.
-- Sirf Day 1 ke already studied respiratory topics list kiye hain.
-- **Yaad rakho:** Original sawaal aur options paper mein hain.
+A nurse measures the air moved during one ordinary, unforced breath. Which lung volume is being measured?
 
-[← Previous Year Questions index](README.md) · [← Respiratory chapter](../README.md)
+**Difficulty:** Easy | **Priority:** High yield (editorial) | **Evidence:** prior source mapping, original wording and key pending
+
+- **A.** Inspiratory reserve volume
+- **B.** Tidal volume
+- **C.** Residual volume
+- **D.** Vital capacity
+
+<details><summary>Answer aur Hinglish explanation</summary>
+
+**Correct: B. Tidal volume**
+
+Tidal volume ek ordinary breath ki air hai. Inspiratory reserve volume normal inspiration ke baad extra air hoti hai jo patient andar le sakta hai. Residual volume maximal expiration ke baad lungs mein bachi air hai. Vital capacity maximum inspiration ke baad maximum exhaled air hai, normal single breath nahi.
+
+[Paper page 13](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=13)
+
+</details>
+
+## Source Q113 — adapted practice
+
+Which small airway branches conduct air from the bronchi toward the respiratory portion of the lungs?
+
+**Difficulty:** Easy | **Priority:** High yield (editorial) | **Evidence:** prior source mapping, original wording and key pending
+
+- **A.** Alveolar sacs
+- **B.** Bronchioles
+- **C.** Pulmonary veins
+- **D.** Pleural cavities
+
+<details><summary>Answer aur Hinglish explanation</summary>
+
+**Correct: B. Bronchioles**
+
+Bronchioles bronchi se chhoti branches hain jo air ko aage le jaati hain. Alveolar sacs gas exchange ke liye air spaces hain, conducting branches nahi. Pulmonary veins blood ko lungs se left atrium tak laati hain. Pleural cavity lung ke bahar ki potential space hai, airway nahi.
+
+[Paper page 20](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=20)
+
+</details>
+
+## Learning resources
+
+- [Respiratory physiology MCQs](https://youtu.be/nLSz8qI5Pgo) — previously listed in chapter README, relevant to all five topics. Fresh video/transcript verification pending.
+- [Respiratory MCQ series](https://www.youtube.com/watch?v=_dOjXZ6vCck) — search metadata supports general respiratory exam practice, exact question timestamps pending. Not evidence of historical appearance.
+
+[PYQ index](README.md) · [Chapter](../README.md)
