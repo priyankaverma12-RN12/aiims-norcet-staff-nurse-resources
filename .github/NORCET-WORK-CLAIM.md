@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-085400-medication-routes
+Scope: Nursing Foundations 06B medication routes and formulations and 06C monitoring, chapter-local files only
+Claimed UTC: 2026-11-27T08:54:00Z
+Expiry UTC: 2026-11-27T09:24:00Z
 
 Forward verified content checkpoint c3c4068e1f5dd1cfe1e83bd33b027c7a4cbe5dee. Nursing Foundations 1,053 indexed original slots (446 Medium,607 Difficult), 600 initial +453 expansion. 05B appended Q21–30, preserved prior 20 and filename, 30/30 numerical target, 4 Medium,6 Difficult, zero exact normalized matches against 236 related stems. MCQ 9570a15ea6b283a4435f163d8a04aed33c66a374, concepts 6f070d1d1a97c74082ad882cc1a08e67664def0e, allocation 90050a90a79919e0451e935358c1712e15f2eec7, evidence gaps 35e20aa843731ee6f9ce0dac66ae9ed2a58da8d3 verified. 06A 22 new (9 Medium,13 Difficult), Group 06 Q1,2,3,10,12,18,19 and reserved Group 04 Q12 allocated once, 30/30 numerical target. 154 related stems checked, zero exact normalized matches. Hidden answers, options and aligned rationales verified by readback. Concepts 963c7c1a6b31e9f59a5bb30c573a0580dcc98974, evidence d1808d4791b510a3db0a5245799774a68d63a2b3, inventory 3ceb59717c79bedf117b28e505da79ab052c330b, audit 4a17b25b71391bd76f8c1dd9d24097e17df688f2, README 8930ce0d3995e3b2d8d0e9d4d4c29b524d7af31e, map 18aa0f8823c383d1ba6bce7aafbbb1cb11f17495, video guide eb2043336fda67f6b0f04bbeced28f54cf41b96f, PYQ index 800f7350bacae583d6f5f56dd7f5907fbd145352 verified. Two HSSC and RRB indexed report adaptations with visible provenance, direct page opens failed, no official key or cumulative credit. Historical count 34 unchanged. CDC, Open RN, WHO and AHRQ sources retrieved. General teaching and question-practice video leads, all 32 new specific question mappings pending. Five compiled mocks of ten. Global index remains 1,021; reconcile to 1,053 when safe, deferred due to Job 3 Respiratory claim. All five job claims and Eye/ENT checked, sibling IPC unchanged. Both full skills fetched, relevant excerpts reviewed, fresh complete line-by-line review not certified. Full clinical, curriculum, semantic, official-key, video playback and rendered UI audits pending. Next Group 06B routes and formulations followed by medication monitoring and response; allocate remaining 13 Group 06 IDs once and avoid Group 19/07 duplication. Hourly task unchanged.
