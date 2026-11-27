@@ -16,10 +16,12 @@ D. Insertion
 
 **Correct answer: B. Inunction**
 
-- **A (Incorrect):** Instillation mein liquid drops kisi designated site mein introduce ki jaati hain. Skin rubbing iska definition nahi.
-- **B (Correct):** Inunction means prescribed medicinal preparation ko skin mein rub karna. Har topical product ko rub karna required nahi, product-specific directions follow karo.
-- **C (Incorrect):** Insufflation usually powder or gas introduce karne ki technique describe karta hai, skin rubbing nahi.
-- **D (Incorrect):** Insertion mein preparation ko designated body site mein place karte hain, e.g. appropriate suppository.
+- **A (Incorrect):** Instillation mein prescribed liquid drops specific site jaise eye ya ear mein introduce karte hain. Yeh skin par medicinal preparation rub karne ki technique nahi hai.
+- **B (Correct):** Inunction ka traditional meaning prescribed medicinal preparation ko skin par rubbing ke through apply karna hai. Question mein topical friction specifically described hai, isliye B correct hai. Har cream, ointment ya patch ko rub nahi karte. Product instructions aur skin condition ke according technique choose karo.
+- **C (Incorrect):** Insufflation mein powder ya gas ko designated cavity ya site mein introduce karne ka concept hota hai. Yeh topical rubbing ka synonym nahi hai.
+- **D (Incorrect):** Insertion mein preparation ko body site mein place karte hain, jaise prescribed suppository. Skin rubbing se yeh different technique hai.
+
+**Exam clue:** Inunction is a historical nursing term for application by rubbing, not a universal topical instruction.
 
 [Open RN other routes](https://www.ncbi.nlm.nih.gov/books/NBK596720/?report=printable) · [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal)
 
@@ -41,10 +43,12 @@ D. Topical
 
 **Correct answer: D. Topical**
 
-- **A (Incorrect):** Enteral route gastrointestinal tract se delivery involve karta hai.
-- **B (Incorrect):** IV medicine venous circulation mein directly administer hoti hai, local skin application nahi.
-- **C (Incorrect):** IM medicine selected muscle mein inject hoti hai.
-- **D (Correct):** Topical preparation directly skin or mucous membrane par apply ho sakti hai for local action. Some topical drugs systemic absorption bhi produce kar sakti hain, so absolute no systemic absorption claim incorrect hai.
+- **A (Incorrect):** Enteral route gastrointestinal tract se medicine delivery involve karti hai, jaise oral ya feeding tube. Local skin lesion par direct application enteral nahi hai.
+- **B (Incorrect):** IV route medicine ko venous circulation mein directly deliver karti hai. Local skin application iska intended pathway nahi hai.
+- **C (Incorrect):** IM route selected skeletal muscle mein injection deliver karti hai. Skin lesion par topical preparation lagane se yeh different hai.
+- **D (Correct):** Topical route mein prescribed preparation skin ya mucous membrane par apply hoti hai. Is question mein local lesion par intended action hai, isliye D best hai. Kuch topical products systemic absorption bhi produce kar sakte hain. Transdermal systems generally systemic delivery ke liye designed hote hain.
+
+**Exam clue:** Topical usually local, transdermal generally systemic. Absorption product-specific hoti hai.
 
 [Open RN other routes](https://www.ncbi.nlm.nih.gov/books/NBK596720/?report=printable) · [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal)
 
