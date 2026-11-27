@@ -4,7 +4,9 @@
 
 ### Q1. Smoke is detected in an unoccupied hospital utility room and the nurse is safely beside a manual call point. What is the most appropriate immediate action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice · **🟣 JIPMER 2020 / RRB 2026 Shift 3 — related RACE concept only**
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice · **🟣 JIPMER Staff Nurse 2020 — related concept** · **🟣 RRB Nursing Superintendent 2026 · Shift 3 — related concept**
+<!-- /job4-metadata -->
 
 A. Wait for visible flames before notifying anyone
 B. Enter the room to locate the source
@@ -23,13 +25,21 @@ D. Activate the fire alarm and initiate the facility response from a safe locati
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md)
 
+<!-- job4-video -->
+**Exam evidence:** [JIPMER Staff Nurse, 23 February 2020](https://testbook.com/question-answer/in-terms-of-response-to-fire-accidents-in-hospital--625ebae9a8cbd66c4743e94c) and [RRB Nursing Superintendent, 12 March 2026 Shift 3](https://testbook.com/question-answer/what-does-the-acronym-race-stand-for-in-the-conte--69df4781c951cbb7b9e0d515). Both reported RACE questions reopened. This original scenario differs from the reported stems.
+
+**▶️ [YouTube MCQ practice — Nursing Wallah by PW, RRB practice session, 17:13](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1033s)** · Published chapter identifies a rescue-first fire MCQ. In this original question the room is unoccupied, so apply the scenario rather than memorizing the other question's key. Topic-level chapter verified, exact item and playback pending.
+
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q2. In the PASS mnemonic for trained use of a suitable portable extinguisher, where should the nozzle be aimed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. At the top of the smoke plume
 B. At the nearest open exit
@@ -48,13 +58,19 @@ D. At the ceiling above the fire
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+
+**🎬 [Teaching — PASS protocol, Nursing Wallah by PW (21:45)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1305s)** · Published topic chapter, specific question unverified.
+<!-- /job4-video -->
 
 </details>
 
 ### Q3. A corridor fire is growing rapidly and smoke threatens the nurse's escape route. Which decision is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Collect all patient charts before leaving the threatened area
 B. Withdraw to safety, alert the response team and follow evacuation instructions
@@ -73,13 +89,17 @@ D. Continue extinguisher use until the cylinder empties
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q4. What is the primary purpose of keeping designated hospital fire doors closed when not in use?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Reduce the temperature of oxygen cylinders
 B. Increase air movement through smoke-filled corridors
@@ -98,13 +118,17 @@ D. Limit the spread of smoke and fire between protected compartments
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q5. An ICU requires evacuation because smoke is entering the unit. A ventilator-dependent patient must be moved. Which preparation is essential?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Coordinate trained transport personnel, appropriate portable ventilation and monitoring before movement as circumstances permit
 B. Disconnect ventilatory support and resume it at the destination
@@ -123,13 +147,17 @@ D. Move the patient alone with the bed and request help later
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q6. During a staged hospital evacuation, what does horizontal evacuation mean?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Using a normal passenger elevator to another floor
 B. Transferring patients directly to another city
@@ -148,13 +176,17 @@ D. Moving patients to a protected safe compartment on the same floor
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q7. A fire is reported near one clinical zone supplied by a central oxygen pipeline. Which response best protects patients who depend on oxygen?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Close every hospital oxygen valve without notifying staff
 B. Increase oxygen flow to all patients to prevent smoke inhalation
@@ -173,13 +205,17 @@ D. Leave oxygen isolation decisions to the nearest visitor
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q8. Which statement correctly describes medical oxygen in relation to fire?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Oxygen makes ignition sources harmless
 B. Oxygen is itself a flammable fuel
@@ -198,13 +234,17 @@ D. Oxygen prevents combustion by cooling materials
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
 
-**YouTube MCQ practice: verification pending.**
+<!-- job4-video -->
+**▶️ [YouTube MCQ practice — Nursing Wallah by PW, RRB practice session, 08:08](https://www.youtube.com/watch?v=1EIouS8ulsY&t=488s)** · Published chapter identifies oxygen as a supporter of combustion. Topic-level chapter verified, exact item and playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q9. A nurse notices oil contamination on an oxygen regulator before connection. What is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Keep it out of service and obtain an approved clean replacement
 B. Cover the contamination with adhesive tape
@@ -223,13 +263,17 @@ D. Connect it at a lower flow rate
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q10. Which storage arrangement best reduces hazards from unused medical oxygen cylinders?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Keep cylinders beside combustible waste
 B. Store cylinders in an obstructed escape corridor
@@ -248,13 +292,17 @@ D. Secure cylinders in an approved ventilated area away from heat and ignition s
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q11. A medical gas cylinder's label is missing and its paint color resembles a familiar oxygen cylinder. What is the safest decision?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Connect it because cylinder color is sufficient identification
 B. Do not use it until the gas identity is confirmed through the authorized supply process
@@ -273,13 +321,17 @@ D. Attach the usual regulator and observe the pressure reading
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q12. A patient receives oxygen by nasal cannula and a family member brings a petroleum-based product for dry nostrils. What should the nurse advise?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Use the product only when oxygen flow exceeds the prescribed rate
 B. Apply a thick layer immediately before oxygen use
@@ -298,13 +350,17 @@ D. Apply it to the oxygen tubing instead
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q13. A nurse finds an exposed conductor on the cable of an unused bedside device. What should happen?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Connect it to a different socket to test the cable
 B. Ask a patient to report any tingling during use
@@ -323,13 +379,17 @@ D. Cover the damage with a temporary dressing and use it
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q14. A power socket becomes wet after a fluid spill while nearby equipment remains energized. Which response is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Keep people clear and arrange safe electrical isolation by authorized personnel before cleanup
 B. Switch on additional equipment to check the circuit
@@ -348,13 +408,17 @@ D. Wipe the energized socket with a wet cloth
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q15. Why should unauthorized adapters and overloaded extension boards be avoided in patient-care areas?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. They can compromise electrical protection and cause overheating
 B. They always increase battery life
@@ -373,13 +437,17 @@ D. They improve device grounding automatically
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q16. A hospital power interruption occurs and a critical device automatically switches to its battery. What should the nurse do next?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Disconnect the device immediately to conserve energy
 B. Verify ongoing function and battery status, escalate and prepare approved backup support
@@ -398,13 +466,17 @@ D. Turn off all patient monitoring until power returns
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q17. A critical infusion pump has an unexplained malfunction and a replacement pump is available. Which action is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Change the drug concentration to compensate for the suspected defect
 B. Clear its error history and return it directly to general stock
@@ -423,13 +495,17 @@ D. Transfer the prescribed therapy safely using approved replacement equipment a
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q18. An infusion pump's occlusion alarm sounds repeatedly. What is the safest assessment approach?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Increase the pressure limit automatically
 B. Silence the alarm permanently
@@ -448,13 +524,17 @@ D. Force saline through the line until resistance disappears
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q19. Which intervention reduces alarm fatigue without removing necessary safety alerts?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Set the same alarm limits for every patient regardless of clinical condition
 B. Disable all audible alarms overnight
@@ -473,13 +553,17 @@ D. Use clinically appropriate patient-specific settings under policy and address
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q20. A nurse hears a ventilator alarm while the patient's chest movement appears reduced. Which principle takes precedence?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Ask the family to reset the ventilator
 B. Assess the patient immediately and summon trained help to maintain ventilation as needed
@@ -498,13 +582,17 @@ D. Read the device manual in another room before examining the patient
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q21. Which glove label best supports selection for a patient with confirmed natural rubber latex allergy?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Verified not made with natural rubber latex, with appropriate protective performance
 B. Hypoallergenic natural rubber latex
@@ -523,13 +611,17 @@ D. Powder-free natural rubber latex
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
-**YouTube MCQ practice: verification pending.**
+<!-- job4-video -->
+**▶️ [YouTube MCQ practice — Latex allergy prioritization, ADAPT NCLEX REVIEW (06:47)](https://www.youtube.com/watch?v=toTwrTkRX2Y&t=407s)** · Published question-practice chapter on latex allergy. Specific product selection scenario and playback pending. Supplementary NCLEX topic practice.
+<!-- /job4-video -->
 
 </details>
 
 ### Q22. A patient with latex allergy needs a urinary catheter. The gloves are non-latex but the catheter packaging does not specify the material. What is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Assume all sterile catheters are non-latex
 B. Use the catheter because gloves are already safe
@@ -548,13 +640,17 @@ D. Verify catheter material and obtain a suitable non-latex product before the p
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
-**YouTube MCQ practice: verification pending.**
+<!-- job4-video -->
+**▶️ [YouTube MCQ practice — Latex allergy prioritization, ADAPT NCLEX REVIEW (06:47)](https://www.youtube.com/watch?v=toTwrTkRX2Y&t=407s)** · Published question-practice chapter on latex allergy. Specific product selection scenario and playback pending. Supplementary NCLEX topic practice.
+<!-- /job4-video -->
 
 </details>
 
 ### Q23. A healthcare worker reports recurrent localized dry, cracked skin after frequent handwashing. Which interpretation is most accurate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. The finding proves the worker has anaphylaxis
 B. The finding excludes all occupational skin disorders
@@ -573,13 +669,17 @@ D. Irritant dermatitis is possible, but clinical evaluation is needed to disting
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q24. During a procedure with possible latex exposure, a patient develops sudden wheezing, hypotension and generalized urticaria. What is the best response?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Stop suspected exposure, activate emergency response and initiate anaphylaxis management according to protocol
 B. Wait for laboratory confirmation of latex sensitivity
@@ -598,13 +698,17 @@ D. Finish the procedure before reporting the symptoms
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
 ### Q25. An unknown cleaning chemical spills in a clinical area and produces irritating fumes. Which response is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Restrict access, move exposed people to safety when possible and activate the chemical-spill protocol
 B. Ask unprotected staff to identify the chemical by smelling it
@@ -623,13 +727,17 @@ D. Clean it immediately without checking the safety data sheet
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
 
+<!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
+<!-- /job4-video -->
 
 </details>
 
 ### Q26. A patient sustains a minor burn from a malfunctioning warming device. After immediate clinical care, what is most important for equipment-related safety?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Record the device identification, preserve relevant evidence, quarantine it and report through facility channels
 B. Return the device to circulation if it powers on normally
@@ -648,7 +756,9 @@ D. Discard the device without recording its identification
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
+<!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
+<!-- /job4-video -->
 
 </details>
 
