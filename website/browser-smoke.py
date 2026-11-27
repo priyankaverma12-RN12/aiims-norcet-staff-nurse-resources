@@ -72,6 +72,26 @@ try:
         ready(page)
         page.goto(base)
         expect(page.locator("#recent .recent-card").first).to_be_visible()
+        # Actual Mermaid source, breadcrumb and source image fallback.
+        flow = "Chapters/Nursing-Foundations/Concepts/01A-Nursing-Process-and-Care-Planning.md"
+        page.goto(base + "?" + urlencode({"doc": flow}))
+        ready(page)
+        expect(page.locator("#breadcrumbs [aria-current=page]")).to_contain_text("Nursing Process")
+        expect(page.locator("#sections [aria-current=page]")).to_have_text("Theory")
+        expect(page.locator("#breadcrumbs a").first).to_have_text("Library")
+        chart = page.locator(".flowchart-card").first
+        chart.scroll_into_view_if_needed()
+        expect(chart).to_have_attribute("data-diagram-state", "ready", timeout=90000)
+        assert chart.locator(".flowchart-view img").evaluate("(i) => i.complete && i.naturalWidth > 0")
+        no_overflow(page)
+        page.route("https://raw.githubusercontent.com/**/airway-zones.svg", lambda route: route.abort())
+        page.goto(base + "?" + urlencode({"doc": sample}))
+        ready(page)
+        fallback = page.locator('img[src*="airway-zones.svg"]').first
+        fallback.scroll_into_view_if_needed()
+        page.wait_for_function("Array.from(document.querySelectorAll('#content img')).some(i => i.src.includes('media-cache') && i.src.includes('airway-zones.svg') && i.complete && i.naturalWidth > 0)", timeout=30000)
+        page.unroute("https://raw.githubusercontent.com/**/airway-zones.svg")
+        print("Breadcrumb, active section, real Mermaid flowchart and image fallback passed.", flush=True)
         desktop.close()
         for width, height in [(320, 720), (390, 844), (430, 932), (768, 1024), (844, 390)]:
             ctx = browser.new_context(viewport={"width": width, "height": height}, is_mobile=True, has_touch=True)
@@ -91,6 +111,8 @@ try:
             mobile.goto(base + "?" + urlencode({"doc": sample}))
             ready(mobile)
             no_overflow(mobile)
+            expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
+            expect(mobile.locator("#sections [aria-current=page]")).to_have_text("MCQs")
             expect(mobile.locator("#toggle")).to_be_visible()
             assert mobile.locator("#toggle").bounding_box()["height"] >= 43
             mobile.clock.install()

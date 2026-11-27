@@ -1,0 +1,14 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {resolveResource,diagramSource}=require('./media.js');
+const p='Chapters/Respiratory-System/Concepts/Day-01.md',repo='priyankaverma12-RN12/aiims-norcet-staff-nurse-resources';
+assert.equal(resolveResource('../Assets/airway-zones.svg',p).path,'Chapters/Respiratory-System/Assets/airway-zones.svg');
+assert.equal(resolveResource('/Chapters/Respiratory-System/Assets/a.svg',p).path,'Chapters/Respiratory-System/Assets/a.svg');
+assert.equal(resolveResource('https://github.com/'+repo+'/blob/main/Chapters/a.svg?raw=true',p).path,'Chapters/a.svg');
+assert.equal(resolveResource('https://raw.githubusercontent.com/'+repo+'/refs/heads/main/Chapters/a.svg',p).path,'Chapters/a.svg');
+assert.equal(resolveResource('https://github.com/'+repo+'/tree/main/Chapters/Respiratory-System/Concepts',p).path,'Chapters/Respiratory-System/Concepts/');
+assert.equal(resolveResource('../Assets/a%20b.svg',p).raw,'https://raw.githubusercontent.com/'+repo+'/main/Chapters/Respiratory-System/Assets/a%20b.svg');
+assert.equal(resolveResource('javascript:alert(1)',p),null);
+assert.equal(resolveResource('https://example.com/a.png',p).external,true);
+assert.equal(diagramSource('%%{init: {"securityLevel":"loose"}}%%\nflowchart TD\nA-->B'),'flowchart TD\nA-->B');
+console.log('Media resolver and diagram source regression tests passed.');
