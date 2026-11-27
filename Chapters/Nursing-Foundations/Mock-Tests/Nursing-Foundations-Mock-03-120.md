@@ -334,9 +334,20 @@ EEG scalp electrodes se brain electrical patterns record karta hai. Seizure eval
 
 **Correct: A. Appropriate eye and face protection along with other indicated PPE**
 
-Blood splash eyes, nose ya mouth mucosa tak pahunch sakti hai. Nurse face protection aur task-specific gloves, gown aur mask use karti hai.
+<!-- job5-rationale -->
+Blood splash eyes, nose aur mouth ki mucous membranes tak pahunch sakta hai. Task ke risk ke according goggles plus mask ya suitable face shield and mask as indicated, gloves aur gown select karo. PPE remove karte waqt contamination avoid karo aur hand hygiene perform karo.
 
-**Baaki options kyun sahi nahi hain?** Cap aur shoe covers face protect nahi karte. Unknown infection status exposure risk remove nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Eye and face protection anticipated splash exposure ke liye relevant barrier hai.
+- **B:** Known diagnosis absent hone se bloodborne exposure safe nahi ho jaata.
+- **C:** Shoe covers face aur mucous membranes protect nahi karte.
+- **D:** Head cap eyes, nose aur mouth ko adequate splash protection nahi deta.
+
+**Exam clue:** PPE task risk se select karo, diagnosis alone se nahi.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [ESIC Staff Nurse, 26 February 2019, Shift III](https://testbook.com/question-answer/standard-precaution-requires-the-use-of-protective--619cf7c4fd740c8229c314d8) — retrieved third-party report on facial splash protection; related tested concept only, not an exact match or authenticated official key.
@@ -1545,9 +1556,20 @@ End-of-life conflict mein applicable law, valid orders aur patient wishes import
 
 **Correct: A. Activate the safety feature if present and discard directly in an appropriate sharps container**
 
-Used needle puncture injury cause kar sakti hai. Immediate safe disposal exposure risk kam karta hai.
+<!-- job5-rationale -->
+Used sharp skin puncture karke bloodborne pathogens transmit kar sakta hai. Device safety feature manufacturer instructions ke according activate karo aur needle ko immediately close-at-hand puncture-resistant designated sharps container mein discard karo. Indian biomedical waste segregation mein waste sharps ke liye applicable white translucent container policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Two-hand recapping, bending aur bedside storage sharps injury risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Direct safe disposal unnecessary handling kam karta hai.
+- **B:** Bedside table par needle rakhne se accidental injury ho sakti hai.
+- **C:** Manual bending needle puncture aur breakage risk badhata hai.
+- **D:** Two-handed recapping mein hand needle tip ke path mein aa sakta hai.
+
+**Exam clue:** No routine recapping, bending or manual handling.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1888,9 +1910,20 @@ Linen change mein lines snag ya pull ho sakti hain. Nurse tubing trace karti hai
 
 **Correct: C. Wash the site promptly, report the exposure and seek urgent exposure assessment**
 
-Needlestick se bloodborne exposure ho sakta hai. Nurse soap-water se site clean karti hai aur promptly report karke post-exposure evaluation arrange karti hai.
+<!-- job5-rationale -->
+Needlestick mein skin barrier break hota hai aur bloodborne pathogen exposure possible hai. Site ko promptly soap aur water se wash karo, supervisor aur occupational exposure service ko report karo, aur urgent HIV, HBV aur HCV risk assessment lo. Indicated HIV PEP time-sensitive hoti hai, isliye assessment delay mat karo. HBV immunization status aur follow-up testing bhi assess hote hain.
 
-**Baaki options kyun sahi nahi hain?** Bleach tissue harm kar sakta hai. Concealment aur delay time-sensitive prophylaxis ka chance reduce karte hain.
+**Option-by-option reasoning**
+
+- **A:** Aggressive squeezing aur bleach tissue injury cause kar sakte hain, reliable prevention nahi hain.
+- **B:** Symptoms ka wait karne se early prophylaxis aur baseline evaluation miss ho sakti hai.
+- **C:** Prompt washing, reporting aur urgent assessment appropriate first response hai.
+- **D:** Several weeks delay time-sensitive assessment aur treatment opportunity khatam kar sakta hai.
+
+**Exam clue:** Wash, report, urgent exposure assessment.
+
+[Clinical reference](https://www.cdc.gov/niosh/topics/bbp/controls.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -2108,9 +2141,20 @@ Pale cool toes aur numbness blood flow ya nerve compression indicate kar sakte h
 
 **Correct: A. Airborne precautions with appropriate respiratory protection and room placement**
 
-Pulmonary TB tiny airborne particles se spread ho sakti hai. Facility airborne protocol mein suitable ventilation aur fit-tested respirator important hain.
+<!-- job5-rationale -->
+Pulmonary TB mein infectious particles air mein remain kar sakte hain aur inhalation se infection spread ho sakta hai. Suspected infectious TB mein standard precautions ke saath airborne precautions, suitable airborne isolation room where available aur fit-tested N95 ya equivalent respirator use karo. Transport clinically necessary ho toh patient source control aur receiving team coordination ensure karo.
 
-**Baaki options kyun sahi nahi hain?** Contact precautions alone airborne spread address nahi karti. Sterile gloves respiratory protection nahi deti.
+**Option-by-option reasoning**
+
+- **A:** Airborne precautions respiratory protection aur appropriate room placement se transmission risk reduce karti hain.
+- **B:** Standard precautions without indicated respiratory protection insufficient hain.
+- **C:** Contact precautions alone airborne inhalation route address nahi karti.
+- **D:** Sterile gloves hands protect karti hain, infectious aerosol inhale hone se nahi.
+
+**Exam clue:** Suspected infectious pulmonary TB = airborne precautions.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
