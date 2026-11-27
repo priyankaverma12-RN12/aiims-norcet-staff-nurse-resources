@@ -274,26 +274,26 @@
 
 </details>
 
-### Q11. A patient's retinal detachment involves the superior retina. Which field region would be expected to be affected by the corresponding retinal location?
+### Q11. Which peripheral retinal lesion especially warrants specialist assessment for prompt retinopexy when newly symptomatic and associated with persistent vitreoretinal traction?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Topic:** assessment
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **Topic:** assessment
 
-- **A.** Superior visual field exclusively
-- **B.** Inferior visual field
-- **C.** Only colour perception without field change
-- **D.** Only auditory localization
+- **A.** An uncomplicated physiological optic disc cup
+- **B.** A symptomatic horseshoe retinal tear
+- **C.** A stable peripheral corneal arcus
+- **D.** An isolated age-related decrease in accommodation
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. Inferior visual field**
+**Correct answer: B. A symptomatic horseshoe retinal tear**
 
-**Kyun sahi hai:** Retinal projection inverted hoti hai. Superior retina inferior visual field represent karti hai. Exact defect extent clinical examination se determine hota hai.
+**Kyun sahi hai:** Horseshoe tear mein retinal flap par vitreous traction remain kar sakti hai. Newly symptomatic tear mein fluid break se retina ke neeche enter karke detachment cause kar sakti hai. Prompt specialist assessment aur indicated laser ya cryotherapy important hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Superior field inferior retina se represent hota hai.
-- **C.** Detachment field sensitivity affect kar sakti hai.
-- **D.** Hearing retinal projection se related nahi.
+- **A.** Physiological optic disc cup retinal break nahi hai.
+- **C.** Corneal arcus peripheral corneal lipid deposition hai, retinal tear nahi.
+- **D.** Age-related accommodation loss presbyopia hai. Retinopexy uska treatment nahi hai.
 
 **Revision:** [Related concept](../Concepts/Retinal-Detachment-and-Surgical-Nursing.md#assessment).
 
