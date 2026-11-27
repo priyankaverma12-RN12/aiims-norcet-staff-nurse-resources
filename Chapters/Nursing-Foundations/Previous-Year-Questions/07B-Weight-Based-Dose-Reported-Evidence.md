@@ -16,10 +16,14 @@ D. 79.2 lb
 
 **Correct answer: B. 26.4 lb**
 
-- **A (Incorrect):** 12 kg calculated weight hai, pounds nahi.
-- **B (Correct):** Total daily 12 × 3 = 36 mg. Weight 36/3 = 12 kg. Conversion 12 × 2.2 = 26.4 lb. Yeh reverse arithmetic exercise hai. Actual patient ka weight dose se infer nahi karte, measured weight verify karte hain.
-- **C (Incorrect):** 36 mg total daily drug amount hai, weight nahi.
-- **D (Incorrect):** 36 mg ko kg samajh kar 2.2 se multiply karna unit error hai.
+**Formula aur clinical safety:** Daily amount = 12 × 3 = 36 mg/day. Weight = 36 mg/day ÷ 3 mg/kg/day = 12 kg. Pounds = 12 × 2.2 = 26.4 lb. Reverse: 26.4/2.2 × 3 = 36 mg/day and 36/3 = 12 mg per dose. Real patient ka weight hamesha measure aur verify karo, dose se infer nahi.
+
+- **A (Incorrect):** 12 kg is calculated weight, 12 lb would be 5.45 kg.
+- **B (Correct):** 26.4 lb equals 12 kg and matches the given daily amount.
+- **C (Incorrect):** 36 mg/day is medication amount, not weight.
+- **D (Incorrect):** 79.2 lb equals 36 kg and would imply 108 mg/day.
+
+**Exam clue:** Reverse-dose arithmetic is an exam exercise, not a clinical weighing method.
 
 [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/) · [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency)
 
@@ -43,10 +47,14 @@ D. Evans formula
 
 **Correct answer: A. Fried's rule**
 
-- **A (Correct):** Historical Fried's rule age in months/150 × adult dose use karti hai. Older exam recognition ke liye yaad rakho. Real infant dose adult dose scaling se independently determine nahi karni.
-- **B (Incorrect):** Clark's rule historical weight in pounds/150 × adult dose use karti hai.
-- **C (Incorrect):** Young's rule age in years/(age in years + 12) × adult dose use karti hai.
-- **D (Incorrect):** Evans formula historically burn fluid resuscitation se related hai, infant age-in-months dose scaling formula nahi.
+**Formula aur clinical safety:** Fried's historical rule = age in months/150 × adult dose. Isliye month-based denominator 150 wala formula Fried's rule hai. Example as pure arithmetic: age 6 months gives 6/150 = 0.04 of stated adult dose. Reverse: 0.04 × 150 = 6 months. Modern pediatric doses require drug-specific evidence, weight or BSA when indicated, age, organ function and authorized limits. Historical formula ko real infant dose prescribe karne ke liye use mat karo.
+
+- **A (Correct):** Fried's rule uses months/150 × adult dose, matching the stated formula.
+- **B (Incorrect):** Clark's historical rule uses weight in pounds/150 × adult dose, age in months nahi.
+- **C (Incorrect):** Young's historical rule uses age in years/(age in years + 12) × adult dose.
+- **D (Incorrect):** Evans formula is historically associated with burn fluid resuscitation, not infant age-based medication estimates.
+
+**Exam clue:** Historical formula recognition only. No universal age cutoff or modern clinical endorsement.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#historical-exam-formulas) · [NCBI Clark's Rule](https://www.ncbi.nlm.nih.gov/books/NBK541104/)
 
@@ -58,6 +66,6 @@ Source lines 27–44 show HPSSSB October 2020 attribution and reported answer Fr
 
 ## Evidence queue
 
-- [RRB Nursing Superintendent 12 March 2026 S1 pediatric medication weight report](https://testbook.com/question-answer/hn/when-planning-care-for-a-pediatric-patient-which--69df4383e520d898dcf9caf2) indexed, reserved for source/overlap check.
+- [RRB Nursing Superintendent 12 March 2026 S1 pediatric medication weight report](https://testbook.com/question-answer/hn/when-planning-care-for-a-pediatric-patient-which--69df4383e520d898dcf9caf2) full indexed report and key option 4 inspected 27 November 2026, direct page failed to open. Related tested concept for current measured weight, not exact match or authenticated official paper. No additional adaptation, count or question label.
 - [AIIMS NORCET 20 November 2021 Shift II pediatric adrenaline](https://testbook.com/question-answer/recommended-dose-of-adrenaline-epinephrine-used--65f845b52a0767bb27bffbcf) indexed, reserve for pediatric resuscitation chapter with current protocol verification.
 - Further HPRCA, SGPGI, PGIMER, ESIC, DSSSB, JIPMER, RRB and state official-paper/key checks remain pending. No authenticated exact PYQ or counted new historical credit.
