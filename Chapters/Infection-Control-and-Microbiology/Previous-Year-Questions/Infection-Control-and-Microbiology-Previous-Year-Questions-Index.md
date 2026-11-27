@@ -72,3 +72,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Surgical hand preparation historical recall and clinical correction](01A-Surgical-Hand-Preparation-Reported-PYQs.md). AIIMS Delhi 2018 source opened. No additional counted PYQ until earlier-source overlap is reconciled. At the time of the surgical-hand expansion, total remained 56. Current reconciled count above is 57 reported adaptations and two academic adaptations.
+
+
+[GMCH 2025 sterilization-monitoring report and overlapping historical leads](02C-Sterilization-Methods-Reported-Evidence.md). One retrieved reported source, overlap with existing positive-BI concept, no additional counted adaptation pending earlier-source reconciliation. Current total remains 57 reported adaptations and two academic adaptations.
