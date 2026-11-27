@@ -11,3 +11,8 @@
 Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, state PSC/SSB/CHO and NHM exams. Record the exam, year, shift, paper or question number, exact evidence status and source link for each question. Write independently worded practice adaptations where verbatim reproduction is not permitted. Keep answers and complete conversational Hinglish explanations with each item. Dedicated teaching and MCQ video links need topic-specific verification.
 
 [Chapter](../README.md) · [Original questions](../MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md)
+
+## Published question-level evidence
+
+- [Kidney anatomy — four reported adaptations](Kidney-Anatomy-Reported-Exam-Questions.md), based on five directly retrieved reported exam sources: RRB Staff Nurse 2019 Shift I, HSSC Staff Nurse 2023 Shift 2, JIPMER Nursing Officer 2024, MP NHM CHO 2024 Shift 2 and NHM UP Staff Nurse 2019. RRB Shift III location is a separate concept-only match. Official paper/key authentication pending. Dedicated MCQ video gap queue in linked file.
+- [Two preserved earlier reported adaptations](Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md). Their prior evidence classification is unchanged. Re-audit official keys and video links in appropriate topic packages.
