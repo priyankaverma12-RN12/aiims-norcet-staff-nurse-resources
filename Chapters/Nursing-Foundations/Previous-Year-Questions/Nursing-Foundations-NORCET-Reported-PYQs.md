@@ -152,7 +152,7 @@ Z-track skin aur subcutaneous tissue displace karke needle pathway offset karti 
 
 ### PYQ8. Which pressure injury stage is consistent with partial-thickness skin loss and exposed dermis without visible adipose or deeper structures?
 
-**Reported exam:** NORCET 4, 2023, reported paper transcription
+**⚪ Reported exam attribution pending:** NORCET 4, 2023, reported paper transcription · direct question verification pending
 
 [Question source](https://nextnurse.in/pyq/norcet/norcet-norcet-4)
 
