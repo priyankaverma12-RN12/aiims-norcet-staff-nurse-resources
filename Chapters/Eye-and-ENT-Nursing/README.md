@@ -96,4 +96,4 @@ Trachoma expansion, 27 November 2026: resumed 5e0a3292ee5aa74bb9b35b0bb3aa274152
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-121325-entropion. Scope: entropion chapter-local package only. Claimed UTC 2026-11-27T12:13:25Z. Expiry UTC 2026-11-27T12:43:25Z. -->
