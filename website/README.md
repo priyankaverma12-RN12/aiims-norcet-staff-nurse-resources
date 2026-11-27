@@ -8,7 +8,7 @@ Select answers, clear, jump, submit or let the countdown expire. A suggested sou
 
 ## Preview and regression tests
 
-From the repository root on the preview branch, run `python -m http.server 8000` and open http://localhost:8000/website/. Internet is required for live Markdown, directory API and pinned CDN renderer and sanitizer. Anonymous API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js` and `node website/quiz.test.cjs`.
+From the repository root on the preview branch, run `python -m http.server 8000` and open http://localhost:8000/website/. Internet is required for live Markdown, directory API and pinned CDN renderer and sanitizer. Anonymous API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js` `node website/quiz.test.cjs` and `node website/navigation.test.cjs`.
 
 ## GitHub Pages deployment checklist
 
@@ -36,3 +36,7 @@ The manual Pages workflow now runs the Node regression checks and `python websit
 The exact remote parser and score functions passed all eight regression assertions again at checkpoint a1a7cf722f8ce3cf60e60c61a29697ae9ba14eec.
 
 Saved-attempt validation passed four additional function-level checks for valid data, invalid choice, invalid position and changed source key. Browser resume still requires execution of the integration gate.
+
+## Follow-up verification — 27 November 2026
+
+All 35 chapter README sources were retrieved again. The score and persistence suite passed 16 assertions against fetched JavaScript; 12 navigation assertions passed on the local helper copy. This branch preserves the live browser deployment gate and extends it to test attempt resume after reload. Live browser and deployment are still unverified due to external DNS restrictions. No changes to study content, main README or Pages settings. The root README link remains proposed until the hosted URL is verified.
