@@ -64,7 +64,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 24. Specimen collection and diagnostic microbiology — [40 original MCQs](../MCQs/24-Specimen-Collection-and-Diagnostic-Microbiology-40-MCQs.md) and [concepts](24-Specimen-Collection-and-Diagnostic-Microbiology.md)
 - 25. Antimicrobial resistance and stewardship — [40 original MCQs](../MCQs/25-Antimicrobial-Resistance-and-Stewardship-40-MCQs.md) and [concepts](25-Antimicrobial-Resistance-and-Stewardship.md)
 - 26. HAI prevention and surveillance definitions — [40 original MCQs](../MCQs/26-HAI-Prevention-and-Surveillance-Definitions-40-MCQs.md) and [concepts](26-HAI-Prevention-and-Surveillance-Definitions.md)
-- 27. CAUTI prevention — pending
+- 27. CAUTI prevention — [40 original MCQs](../MCQs/27-CAUTI-Prevention-40-MCQs.md) and [concepts](27-CAUTI-Prevention.md)
 - 28. CLABSI and vascular device infection prevention — pending
 - 29. VAP and surgical site infection prevention — pending
 - 30. Environmental IPC, outbreak investigation and surveillance calculations — pending
