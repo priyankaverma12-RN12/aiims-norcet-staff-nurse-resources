@@ -614,9 +614,22 @@ Clean-to-less-clean approach contamination transfer kam karti hai. Fresh swabs a
 
 **Correct: C. At the patient's side after collection with verified identifiers**
 
-Bedside labeling actual sample aur patient ka link preserve karti hai. Collection details bhi verify karne chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Late labeling aur pre-identification labeling mix-up risk badhate hain. Result ke baad labeling too late hai.
+Sample ko patient ke paas verify karke label karne se tube aur actual patient ka link bana rehta hai. Do approved identifiers, jaise name aur unique hospital number, order aur wristband se match karo. Collection ke turant baad patient ki presence mein local bedside labeling procedure complete karo. Barcode workflow ho toh bhi identity verification zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Result return hone tak sample identity already establish honi chahiye. Baad mein guess karna safe nahi.
+- **B (Galat):** Patient identify kiye bina labeling se wrong-patient label lag sakta hai.
+- **C (Sahi):** Collection ke baad patient ke side par verified identifiers ke saath labeling safe workflow hai.
+- **D (Galat):** Hours baad station par label karne se doosre patient ke sample se mix-up ho sakta hai.
+
+**Exam clue:** Patient identification aur bedside labeling ko ek hi collection process ka part samjho.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/lab-quality/php/preventing-adult-blood-culture-contamination/collect.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1809,9 +1822,22 @@ New granulation tissue easily bleed kar sakti hai. Nurse dressing type ke accord
 
 **Correct: B. Follow rejection or recollection policy without guessing identity**
 
-Wrong specimen identity wrong diagnosis aur treatment cause kar sakti hai. Nurse safe recollection arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bed location identity proof nahi hai. Combining ya guessing result unreliable bana sakti hai.
+Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se link prove nahi ho sakta toh result kisi galat patient ke record mein ja sakta hai. Dono specimens ko alag rakho, lab aur responsible team ko inform karo aur rejection ya safe recollection policy follow karo. Irreplaceable sample ke exceptional handling mein bhi authorized verified process chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Nearest bed sirf location batata hai. Patient kabhi bed change kar sakta hai.
+- **B (Sahi):** Rejection ya recollection patient identity ka risk address karti hai. Nurse bina evidence ke label nahi lagati.
+- **C (Galat):** Laboratory bhi bina verified identity ke reliable patient assignment nahi kar sakti.
+- **D (Galat):** Dono samples milane se individual patient ka result identify nahi kiya ja sakta aur contamination ka risk hai.
+
+**Exam clue:** Unlabeled sample: guess mat karo, policy follow karo.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/lab-quality/php/preventing-adult-blood-culture-contamination/collect.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3290,9 +3316,22 @@ New consciousness change aur unequal pupils intracranial injury ka warning sign 
 
 **Correct: C. Approved skin antisepsis and aseptic collection**
 
-Skin organisms culture contaminate kar sakte hain. Correct antisepsis aur aseptic handling true infection detect karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unclean contact, unreviewed line collection aur exposure contamination risk badhate hain.
+Blood culture blood mein bacteria ya fungi detect karne ke liye hoti hai. Skin par normal microorganisms rehte hain. Agar woh collection bottle mein chale jaayein toh false positive culture mil sakta hai aur unnecessary antibiotics lag sakti hain. Approved antiseptic ka correct contact aur drying time, bottle stopper disinfection aur aseptic collection follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bottle stopper ko unnecessarily expose karne se contamination ka risk badhta hai. Approved disinfection aur handling chahiye.
+- **B (Galat):** Prepared site ko unclean fingers se touch karne se antisepsis ka benefit kam ho sakta hai.
+- **C (Sahi):** Skin antisepsis aur aseptic handling skin organisms ka sample mein transfer kam karte hain.
+- **D (Galat):** Existing line se collection sirf appropriate indication aur protocol mein ki jaati hai. Unreviewed line collection contamination badha sakti hai.
+
+**Exam clue:** Culture ka sample sterile handling se lo, skin flora ko sample mein mat jaane do.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/lab-quality/php/preventing-adult-blood-culture-contamination/collect.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3311,9 +3350,22 @@ Skin organisms culture contaminate kar sakte hain. Correct antisepsis aur asepti
 
 **Correct: D. Before antibiotics when feasible without meaningful treatment delay**
 
-Antibiotics culture yield reduce kar sakti hain. Pre-treatment culture useful hai, lekin urgent sepsis therapy delay nahi honi chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Long delay harmful hai. Late-only collection yield affect karti hai. Culture clinically important ho sakti hai.
+Sepsis infection ke response mein organ function disturb hone ki serious condition hai. Blood cultures causative organism aur antibiotic sensitivity identify karne mein help karti hain. Antibiotics pehle milne se organism recovery kam ho sakti hai. Isliye ordered cultures ideally pehle lo, lekin unstable patient ya time-critical treatment ko sample ke liye delay mat karo. Team ke saath parallel actions coordinate karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Culture aur antibiotic treatment dono ka role hai. Antibiotic order hona culture cancel karne ka reason nahi hai.
+- **B (Galat):** Unstable patient mein hours ka delay dangerous ho sakta hai. Culture lene ke liye life-saving treatment nahi rokte.
+- **C (Galat):** Course complete hone tak wait karna initial organism detection aur treatment decisions ko affect kar sakta hai.
+- **D (Sahi):** Jab feasible ho aur urgent therapy delay na ho, pre-antibiotic collection useful hai. Yahi safest listed approach hai.
+
+**Exam clue:** Sepsis: cultures ideally before antibiotics, without delaying urgent treatment.
+
+**Clinical reference:** [Clinical guidance](https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
