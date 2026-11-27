@@ -41,7 +41,7 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 ### Q2. What is the purpose of a protective layer between an approved heat or cold device and the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Make temperature monitoring unnecessary
 - **B.** Reduce direct thermal injury risk
@@ -71,7 +71,7 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q17](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q17](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q17-what-is-the-purpose-of-a-protective-layer-between-an-approved-heat-or-cold-device-and-the-skin)
 
 ### Q3. A patient develops severe disproportionate limb pain and new paresthesia after surgery with a tight cast. What should the nurse do?
 
@@ -197,7 +197,7 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 ### Q7. Which solution is an isotonic crystalloid in common clinical use?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 0.45% sodium chloride
 - **B.** 3% sodium chloride
@@ -227,7 +227,7 @@ Isotonic crystalloid ka effective tonicity plasma ke approximately similar hota 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q17](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q17](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q17-which-solution-is-an-isotonic-crystalloid-in-common-clinical-use)
 
 ### Q8. Which action is appropriate before applying a prescribed oxygen mask?
 
@@ -1217,7 +1217,7 @@ Medication error patient tak pahunch chuki hai, even if current symptoms absent 
 
 ### Q38. Which term describes a core body temperature below 35°C?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Hypothermia
 - **B.** Hyperpyrexia
@@ -1247,7 +1247,7 @@ Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat l
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q19](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q19](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q19-which-term-describes-a-core-body-temperature-below-35c)
 
 ### Q39. Which appearance is consistent with healthy granulation tissue?
 
@@ -1681,7 +1681,7 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 
 ### Q52. A patient has persistent fever despite antipyretic treatment. Which nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use the highest available heat exposure
 - **B.** Repeat medication sooner than prescribed automatically
@@ -1711,7 +1711,7 @@ Antipyretic fever ko kam karne mein help kar sakti hai, lekin underlying infecti
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q20](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q20](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q20-a-patient-has-persistent-fever-despite-antipyretic-treatment-which-nursing-response-is-appropriate)
 
 ### Q53. A patient reports pain reduced from 8/10 to 4/10 after treatment but remains unable to deep breathe. How should the nurse evaluate the intervention?
 
@@ -2574,7 +2574,7 @@ Self-harm thoughts immediate safety assessment maangte hain regardless of grief 
 
 ### Q80. Why should measurable liquid medication and tube flushes be included in intake records?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** They are always negligible
 - **B.** Only drinking water counts as intake
@@ -2604,7 +2604,7 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q20](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q20](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q20-why-should-measurable-liquid-medication-and-tube-flushes-be-included-in-intake-records)
 
 ## Block 5
 
@@ -2693,7 +2693,7 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 ### Q84. Why must hypertonic saline administration be closely monitored?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is physiologically identical to free water
 - **B.** It is safe at any rate for every patient
@@ -2723,7 +2723,7 @@ Hypertonic saline plasma ke comparison mein higher effective solute concentratio
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q18](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q18](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q18-why-must-hypertonic-saline-administration-be-closely-monitored)
 
 ### Q85. A nurse prepares to insert an indwelling urinary catheter in an acute-care setting. Which infection prevention approach is appropriate?
 
@@ -2832,7 +2832,7 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 
 ### Q88. A patient with fever has new neck stiffness, confusion and a rapidly worsening condition. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Treat only the temperature and wait until tomorrow
 - **B.** Arrange urgent assessment and infection precautions as indicated
@@ -2864,7 +2864,7 @@ Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningi
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q18](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q18](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q18-a-patient-with-fever-has-new-neck-stiffness-confusion-and-a-rapidly-worsening-condition-which-action-is-appropriate)
 
 ### Q89. Four patients need assistance. Which patient should the nurse assess first?
 
@@ -3716,7 +3716,7 @@ Conflict patient-centered judgment influence kar sakta hai. Transparency aur pol
 
 ### Q116. A patient receiving a potassium-containing IV solution has an unexpectedly high potassium result. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase potassium delivery
 - **B.** Give a rapid unprescribed potassium bolus
@@ -3746,7 +3746,7 @@ Hyperkalemia yani blood potassium zyada hona heart ke electrical conduction ko a
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q19](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q19](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q19-a-patient-receiving-a-potassium-containing-iv-solution-has-an-unexpectedly-high-potassium-result-which-action-is-safest)
 
 ### Q117. A prescription is written as 2 mg/kg for a patient weighing 66 lb. Using 2.2 lb/kg, what is the calculated dose?
 
