@@ -21,4 +21,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Five reported anaerobe and rickettsial recruitment question adaptations](Anaerobes-and-Rickettsiae-Reported-PYQ-Adaptations.md). Four third-party pages opened, one indexed. Official keys not authenticated.
 
-**Current total: 33 reported recruitment adaptations (24 + 4 + 5).** Two academic-paper adaptations are separate.
+[Two viral structure and replication reported adaptations](Viral-Structure-and-Replication-Reported-PYQs.md). Third-party pages opened, official keys not authenticated.
+
+**Current total: 35 reported recruitment adaptations (24 + 4 + 5 + 2).** Two academic-paper adaptations are separate.
