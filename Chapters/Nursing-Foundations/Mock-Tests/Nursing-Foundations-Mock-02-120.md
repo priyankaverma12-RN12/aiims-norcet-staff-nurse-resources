@@ -521,9 +521,24 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 **Correct: A. Transfusion-related acute lung injury**
 
-TRALI transfusion-related acute lung injury hai jisme pulmonary edema aur oxygenation failure ho sakti hai. TACO aur other causes bhi urgently assess karne hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Chronic iron overload immediate pattern explain nahi karta. Dehydration aur normal response serious hypoxemia explain nahi karte.
+TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par fluid air sacs mein aa sakta hai, bina primarily cardiac volume overload ke. Acute hypoxemia aur bilateral pulmonary edema during ya within six hours transfusion ke compatible clues hain. Transfusion stop karo, ABC aur oxygenation assess karo aur urgent medical help aur blood bank ko notify karo. TACO, sepsis aur other causes exclude karne ke liye clinical review zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** TRALI is pattern ke liye relevant serious reaction hai. Diagnosis further assessment se hota hai.
+- **B (Galat):** New hypoxemia normal transfusion response nahi hai.
+- **C (Galat):** Simple dehydration acute bilateral lung edema pattern explain nahi karti.
+- **D (Galat):** Chronic iron overload usually repeated transfusions ke baad develop hota hai, immediate lung injury pattern nahi.
+
+**Exam clue:** TRALI: acute hypoxemia and bilateral edema, usually within six hours.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/TRALI)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1852,9 +1867,24 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 **Correct: A. It may be incompatible, contaminate the product or cause a dosing or identification error**
 
-Blood component controlled product hai. Unapproved addition reaction, contamination ya incompatibility cause kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Blood every drug neutralize nahi karta. Universal compatibility aur routine addition incorrect hain.
+Blood component ek carefully prepared biological product hai. Direct medicine addition se chemical incompatibility, clotting, contamination aur incorrect dose ka risk ho sakta hai. Medication ke liye separate approved route ya lumen arrange karo aur compatibility pharmacist aur blood bank se verify karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Unapproved medicine addition product safety aur dose accuracy affect kar sakti hai.
+- **B (Galat):** Universal drug compatibility established nahi hai.
+- **C (Galat):** Blood har drug ko neutralize nahi karta.
+- **D (Galat):** Routine transfusion mein medicines bag mein add karna required nahi hai.
+
+**Exam clue:** Never add medication directly to a blood component bag.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2197,9 +2227,24 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 **Correct: D. Transfusion-associated circulatory overload**
 
-TACO mein transfused volume circulation overload kar sakta hai. Breathlessness aur hypertension possible clues hain. Urgent assessment aur reaction protocol needed hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Iron deficiency acute overload explain nahi karti. New respiratory distress normal response nahi hai. Vasovagal reaction often hypotension ke saath hoti hai.
+TACO ka full form transfusion-associated circulatory overload hai. Transfused volume patient ke heart aur circulation ki capacity se zyada ho jaaye toh fluid lungs mein jama ho sakta hai. Dyspnea, rising BP, crackles, raised JVP aur positive fluid balance clues ho sakte hain. Transfusion stop karo, ABC assess karo aur urgent help lo. Oxygen, positioning aur prescribed diuretics clinical assessment ke according use hote hain. TACO aur TRALI overlap bhi kar sakte hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vasovagal reaction mein aksar BP fall aur relative bradycardia hoti hai, volume overload typical nahi.
+- **B (Galat):** New dyspnea aur hypertension ko expected response nahi maan sakte.
+- **C (Galat):** Iron deficiency acute pulmonary fluid overload explain nahi karti.
+- **D (Sahi):** TACO mein excess circulatory volume respiratory distress cause kar sakta hai.
+
+**Exam clue:** TACO: respiratory distress with evidence of overload.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/TACO)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2786,9 +2831,24 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 **Correct: A. 0.9% sodium chloride**
 
-Normal saline commonly blood administration line ke liye compatible solution hai. Local transfusion policy aur equipment instructions verify karni hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dextrose ya water red cells ko damage kar sakte hain. Calcium-containing fluid ki compatibility automatically assume nahi karni chahiye.
+0.9% sodium chloride isotonic normal saline hai aur standard red-cell administration ke saath universally compatible crystalloid mana jaata hai. Blood administration set, filter aur local blood bank policy follow karo. Other solutions ko same line mein tabhi use karo jab specific compatibility established ho.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Normal saline standard compatible option hai.
+- **B (Galat):** Dextrose-containing fluid red cells ko damage kar sakti hai aur universally compatible nahi hai.
+- **C (Galat):** Sterile water alone hypotonic hai aur hemolysis cause kar sakta hai.
+- **D (Galat):** Calcium-containing fluids ko routine compatible assume nahi karte. Citrated blood ke saath clotting concern ho sakta hai.
+
+**Exam clue:** Blood line: 0.9% saline, approved set and policy.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
