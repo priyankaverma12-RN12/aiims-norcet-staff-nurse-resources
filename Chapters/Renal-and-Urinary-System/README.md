@@ -30,4 +30,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-acidosis-20261127-1317. Scope: renal metabolic acidosis concept, MCQ, SVG, evidence and local indexes only. Claimed UTC: 2026-11-27T13:17:00Z. Expiry UTC: 2026-11-27T13:47:00Z. -->
