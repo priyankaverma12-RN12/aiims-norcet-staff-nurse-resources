@@ -199,3 +199,35 @@ File: Chapters/Respiratory-System/MCQs/Day-01-Final-Mock-15.md. Before blob d0c9
 Source validation: INC revised BSc nursing curriculum Gazette printed p251 Applied Physiology Unit II text retrieved from https://abmamcon.com/wp-content/uploads/2025/06/Indian-Nursing-Council-Revised-Regulations-and-Curriculum-For-B.Sc_.Nursing-Program-Regulations2020.pdf supports respiratory organ function, ventilation, respiratory muscles, pulmonary circulation and gas exchange. OpenStax 22.1–22.3 search extracts support anatomy, surfactant, pleura and respiratory volumes. Clinical nursing reference https://www.ncbi.nlm.nih.gov/books/NBK593208/ supports usual PaO2 80–100 and PaCO2 35–45, MedlinePlus https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/ uses PaO2 75–100; both include 89 mmHg. Explain reference interval variation, do not teach one absolute cutoff. Numerical calculations independently checked. HPSSC Series A Post Code 933 scanned PDF Q3 extracted text retrieved, screenshot failed cache miss; official key unverified, third-party archive table does not link a 933 answer key. Mock Q5 is concept match only, not exact historical match. Raman transcription direct retrieval failed. Video metadata Aarogyam Part 27 https://www.youtube.com/watch?v=lAy0Cb9o5ss supports breathing muscles/lung volume topics, direct retrieval failed. HPSSC paper discussion https://www.youtube.com/watch?v=hOx-iFU-JcU title matches exam date and post code, no transcript/individual question verification; lead only. Dedicated ABG reference-interval video and remaining topic-level mapping pending. No new PYQs or new high-yield originals added because full-bank coverage and duplicate reconciliation remain pending. Markdown verified, rendered UI not visually inspected.
 
 Prevention: preserve legacy attempt identities and original scoring, keep reuse separate from unique authorship, distinguish complementary concepts and same method from exact repetition, explain every distractor and reference variation. Next Day-02-Complete-Respiratory-Assessment-Diagnostics.md Q1 onward. Cumulative 111 question-level clinical/rationale reviews; chapter not certified complete.
+
+
+## 2026-11-27 — Day 2 respiratory assessment Q1–22
+
+File: Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md. Before blob 8ad1b1e819e2f55add0930f01a98f8a0b89d8671, after e28301cdb86787b0ed1cc48b62088069feb0346f. Verified content commit 27c76cbd216b980fc19bd9ac9e362979e32d4d0e. Corrected stale 36-question title and video guide count to 59 practice slots, no new originals authored. Q1–22 all original English stems, four options and keys retained, expanded correct and 3 distractor rationales each, single colored difficulty and editorial priority row. Five difficulty regrades (Q6,7,9,11,20). Readback validates 59 question headings and 59 answer blocks, first 22 each 4 options and 3 wrong-option reasons. Remaining Q23–59 not fully audited. No rendered UI inspection.
+
+|Q|Key|Topic|Review|
+|---|---|---|---|
+|1|B|IPPA order|Key retained, all option rationales expanded|
+|2|A|Inspection and symmetry|Key retained, all option rationales expanded|
+|3|C|Tachypnea|Key retained, all option rationales expanded|
+|4|A|Chest expansion palpation|Key retained, all option rationales expanded|
+|5|B|Fremitus definition|Key retained, all option rationales expanded|
+|6|C|Consolidation fremitus|Key retained, all option rationales expanded|
+|7|D|Tracheal position|Key retained, all option rationales expanded|
+|8|B|Normal resonance|Key retained, all option rationales expanded|
+|9|C|Effusion dullness|Key retained, all option rationales expanded|
+|10|A|Hyperresonance|Key retained, all option rationales expanded|
+|11|D|Bilateral percussion|Key retained, all option rationales expanded|
+|12|B|Vesicular sounds|Key retained, all option rationales expanded|
+|13|A|Wheeze|Key retained, all option rationales expanded|
+|14|C|Crackles|Key retained, all option rationales expanded|
+|15|D|Stridor|Key retained, all option rationales expanded|
+|16|A|Pleural rub|Key retained, all option rationales expanded|
+|17|A|Respiratory acidosis|Key retained, all option rationales expanded|
+|18|B|Respiratory alkalosis|Key retained, all option rationales expanded|
+|19|C|Metabolic acidosis with compensation caveat|Primary key retained, mixed disorder caveat added|
+|20|D|PaCO2|Key retained, all option rationales expanded|
+|21|A|pH interval|Key retained, all option rationales expanded|
+|22|B|Metabolic alkalosis with compensation caveat|Primary key retained, mixed disorder caveat added|
+
+Clinical: MSD pulmonary evaluation directly retrieved https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues, Merck compensation table directly retrieved https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders. Open RN assessment indexed https://www.ncbi.nlm.nih.gov/books/NBK596716/ direct retrieval failed; INC-aligned BSc university curriculum indexed (respiratory inspection, palpation, percussion and auscultation), official item-depth verification pending. Q19 expected CO2 33.5 ±2, measured 40 suggests additional respiratory acidosis despite normal range. Q22 expected compensatory rise, measured 40 may suggest additional respiratory alkalosis or inadequate compensation. Preserve primary answer keys, do not assert isolated disorder. Q2 chest expansion may be assessed visually or by palpation, explain context. Q15 emphasize urgent upper-airway assessment. Q7 normal midline is not necessary to exclude emergency. NVS Staff Nurse 8 Mar 2022 percussion question direct third-party page retrieved https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a, related concept Q1/Q11, already reported by forward lane in foundations, do not count duplicate authorship. NORCET-3 Shift 2 Q139 respiratory acidosis indexed https://nextnurse.in/pyq/norcet/norcet-norcet-3-shift-2 direct retrieval failed; lead only. YouTube Studyroom31 IPPA MCQs https://www.youtube.com/watch?v=aTGm3WCiS9w and respiratory MCQ series https://www.youtube.com/watch?v=_dOjXZ6vCck description checked; playback/transcripts/item mapping pending. No new PYQ counts or new high-yield questions until cross-bank coverage reconciled. Existing Q16 overlaps Advanced Q9 concept, Q17–22 related ABG themes; full semantic audit pending. Next Q23–59 from this same file. Cumulative 133 clinical/rationale question reviews, not full chapter certification.
