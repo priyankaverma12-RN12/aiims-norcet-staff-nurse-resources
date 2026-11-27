@@ -699,9 +699,22 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 **Correct: D. Remittent fever**
 
-Remittent pattern mein fever rise-fall karti hai lekin normal level tak nahi aati. Nurse actual temperature trend document karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Intermittent fever normal tak aa sakti hai. Normothermia aur hypothermia fever patterns nahi hain.
+Remittent fever mein temperature rise aur fall karta hai lekin normal range tak nahi aata during observed period. Nurse same suitable measurement route aur timing document karti hai. Pattern exam classification mein useful hai, lekin diagnosis clinical assessment aur investigations ke saath hi establish hota hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Intermittent fever normal range tak return karti hai.
+- **B (Galat):** Hypothermia abnormally low core temperature hai.
+- **C (Galat):** Normothermia normal temperature state hai, fluctuating fever nahi.
+- **D (Sahi):** Remittent pattern mein elevated readings fluctuate karti hain without normal interval.
+
+**Exam clue:** Remittent: fluctuates, remains above normal.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK324/)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -1363,9 +1376,22 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 **Correct: C. The body's current temperature may be below the newly raised set point**
 
-Fever onset mein set point raise hota hai. Body current temperature ko relative cold samajhkar muscles shiver karwati hai aur heat generate karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Normal temperature necessarily nahi hai. Hypothalamic regulation active hai. Shivering heat produce karti hai.
+Fever ki onset mein hypothalamus higher set point establish karta hai. Body ka actual temperature is target se abhi kam hota hai, isliye patient ko thand lag sakti hai even while temperature rising ho. Shivering muscle contraction ke through heat generate karti hai aur peripheral vasoconstriction heat loss kam karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Shivering normal core temperature prove nahi karti.
+- **B (Galat):** Shivering heat production badhati hai, band nahi karti.
+- **C (Sahi):** Current temperature raised set point se kam ho sakta hai, jo chills explain karta hai.
+- **D (Galat):** Hypothalamus ka set point change hona permanent failure nahi hai.
+
+**Exam clue:** Chills while fever rises = body trying to reach higher set point.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -3448,9 +3474,22 @@ New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust 
 
 **Correct: C. Assess urgently, prevent further heat loss and initiate suitable rewarming under protocol**
 
-Hypothermia circulation aur neurological function affect kar sakti hai. Nurse wet exposure reduce karke appropriate rewarming aur monitoring arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Direct intense heat burns cause kar sakti hai. Exercise aur alcohol condition worsen kar sakte hain.
+Cold exposure aur confusion ke saath 35°C reading concerning hai, chahe exact core temperature confirm karna baaki ho. Heat loss rokna aur urgent clinical assessment important hai. Wet clothing safely replace karo, patient ko insulated warm environment mein rakho, gentle handling aur suitable rewarming under protocol arrange karo. ABC aur cardiac status monitor karo. Altered consciousness mein oral drinks mat do.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vigorous exercise without assessment unstable patient ke liye unsafe ho sakti hai.
+- **B (Galat):** Alcohol heat loss aur impaired judgement badha sakta hai.
+- **C (Sahi):** Urgent assessment, insulation aur appropriate rewarming worsening cold injury ko address karte hain.
+- **D (Galat):** Intense direct heat numb tissue ko burn kar sakti hai.
+
+**Exam clue:** Cold exposure plus confusion: urgent assessment and controlled rewarming.
+
+**Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/hypothermia/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3650,9 +3689,24 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 **Correct: C. Intermittent fever**
 
-Intermittent fever mein temperature periodically normal range tak aa sakta hai. Pattern ko serial observations se identify kiya jaata hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continuous fever relatively sustained hoti hai. Remittent fever fluctuate karti hai lekin normal tak nahi aati. Hyperthermia separate mechanism hai.
+Intermittent fever mein high temperature ke periods ke beech temperature normal range tak laut sakta hai, conventional definition mein daily pattern ke andar. Nurse serial readings, timing, medication aur clinical signs document karti hai. Fever pattern alone infection ka cause establish nahi karta.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Remittent fever fluctuate karti hai lekin observed period mein normal tak nahi pahunchti.
+- **B (Galat):** Continuous fever relatively sustained elevated temperature hai.
+- **C (Sahi):** Intermittent fever mein high readings ke beech normal temperature ka interval milta hai.
+- **D (Galat):** Sustained hyperthermia raised-set-point fever pattern ka equivalent nahi hai.
+
+**Exam clue:** Intermittent: returns to normal.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK324/)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 1 September 2020 — related intermittent-fever concept](https://testbook.com/question-answer/a-type-of-fever-in-which-after-every-24-hours-the--6172bdc3c7862366de70db07). Retrieved memory-based report supports intermittent fever. This original question is not an exact authenticated PYQ.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
