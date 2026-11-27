@@ -18,16 +18,16 @@
 
 **Correct: C. Can you tell me what worries you most about the surgery?**
 
-Therapeutic communication ka purpose patient ko safe environment dena hai jahan woh apne concerns honestly share kar sake. Surgery ka fear pain, anesthesia, outcome ya family concern se related ho sakta hai. Open-ended question patient ko apne words mein main worry batane deta hai. Nurse phir specific information aur support de sakti hai. Pehle fear explore karo, phir reassure karne ki jagah factual explanation do.
+Therapeutic communication ka matlab hai patient se aise baat karna ki woh apni takleef aur concerns bina dar ke bata sake. Maan lo kal patient ka operation hai aur use dar lag raha hai. Ho sakta hai use anesthesia, pain, operation ke result ya family ki chinta ho. Agar nurse poochti hai ki sabse zyada kis baat ka dar hai, toh patient ko apne words mein jawab dene ka mauka milta hai. Isse nurse actual concern samajhkar relevant factual information aur support de sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A fear ko trivialize karta hai aur patient ko bolne se rokta hai.
-- **B:** B patient ko batata hai ki uski feeling galat hai, jo judgmental hai.
-- **C:** C specific concern explore karta hai aur conversation open rakhta hai.
-- **D:** D outcome ke baare mein unsupported reassurance deta hai.
+- **A:** Sabhi patients ka operation hona is patient ke dar ko kam nahi karta. Is tarah jawab dene se patient ko lag sakta hai ki uski concern important nahi hai.
+- **B:** Patient ko ye kehna ki use dar nahi lagna chahiye, uski feeling par judgment dena hai. Nurse ko pehle samajhna chahiye ki patient kis baat se dara hua hai.
+- **C:** Ye open-ended question patient ko apni actual worry explain karne ka mauka deta hai. Nurse phir usi concern par support de sakti hai, isliye C sahi hai.
+- **D:** Bina evidence ye kehna ki chinta ki koi baat nahi hai, false reassurance ho sakta hai. Patient ki actual concern abhi samjhi bhi nahi gayi hai.
 
-**Exam clue:** Open-ended question = explore, not dismiss.
+**Exam clue:** Open-ended question patient ko apni baat khulkar batane deta hai. Uski feeling dismiss karne ke bajay reason samjho.
 
 
 <!-- job4-metadata -->
@@ -59,16 +59,16 @@ Therapeutic communication ka purpose patient ko safe environment dena hai jahan 
 
 **Correct: B. Remain present quietly and allow time for the patient to respond**
 
-Difficult news ke baad silence patient ko information process karne aur emotion settle karne ka time de sakta hai. Therapeutic silence ka matlab nurse attentive presence maintain karti hai, patient ko abandon nahi karti. Patient ready ho toh gently invite karo ki woh apni feeling share kare. Distress ke saath acute safety concern ho toh promptly assess karo.
+Difficult news sunne ke baad patient ko baat samajhne aur apni feelings sambhalne mein samay lag sakta hai. Therapeutic silence ka matlab ye nahi hai ki nurse patient ko akela chhod deti hai. Nurse shaant aur attentive tareeke se paas rehti hai aur patient ko bolne ka samay deti hai. Jab patient ready ho, toh nurse gently usse apni feelings share karne ka mauka de sakti hai. Agar distress ke saath immediate safety concern ho, toh prompt assessment karna zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A crying ko suppress karta hai aur emotion expression discourage karta hai.
-- **B:** B quiet supportive presence aur adequate response time deta hai.
-- **C:** C pressure create karta hai jab patient ready nahi ho sakta.
-- **D:** D emotional concern se topic divert karta hai.
+- **A:** Rone se mana karne par patient apni feelings dabane ki koshish kar sakta hai. Nurse ko emotion express karne ke liye safe space dena chahiye.
+- **B:** Shaant supportive presence se patient ko information process karne aur apni baat kehne ka samay milta hai. Isliye B sahi hai.
+- **C:** Turant explanation maangne se patient par pressure pad sakta hai, jabki woh abhi bolne ke liye ready nahi hai.
+- **D:** Ward rules par baat shuru karne se patient ki emotional concern address nahi hoti. Pehle uski current need ko samajhna chahiye.
 
-**Exam clue:** Silence with presence is an active therapeutic technique.
+**Exam clue:** Therapeutic silence mein nurse present rehti hai aur patient ko response dene ka samay deti hai.
 
 
 <!-- job4-metadata -->
@@ -100,16 +100,16 @@ Difficult news ke baad silence patient ko information process karne aur emotion 
 
 **Correct: A. Check hearing aids, reduce background noise and face the patient clearly**
 
-Hearing loss communication barrier hai, automatically cognitive impairment nahi. Nurse patient ki preferred communication method pooche, hearing aid function check kare, noise reduce kare aur face visible rakhe. Normal clear voice aur suitable pace use kare. Written support ya interpreter patient ki need ke according arrange karo aur understanding verify karo.
+Hearing loss ki wajah se patient instructions sunne mein dikkat experience kar sakta hai. Isse automatically ye prove nahi hota ki uski memory ya thinking mein problem hai. Nurse patient se preferred communication method poochti hai, hearing aid ka function check karti hai, background noise kam karti hai aur patient ki taraf face karke clear voice mein appropriate speed se bolti hai. Patient ki zaroorat ke hisaab se written support ya suitable interpreter arrange kiya ja sakta hai. Nurse baad mein understanding bhi verify karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A sensory access improve karta hai, isliye first appropriate response hai.
-- **B:** B shouting speech distort kar sakti hai aur discomfort create kar sakti hai.
-- **C:** C hearing barrier ko dementia assume karna unsupported hai.
-- **D:** D face away karne se visual speech cues aur clarity kam hoti hai.
+- **A:** Hearing aid check karna, noise kam karna aur face visible rakhna patient ko information receive karne mein madad karta hai. Isliye A first appropriate response hai.
+- **B:** Zor se chillane se words distorted lag sakte hain aur patient ko discomfort ho sakta hai. Clear normal voice aur suitable pace zyada helpful ho sakte hain.
+- **C:** Hearing difficulty ko dementia maan lena unsupported assumption hai. Pehle communication barrier ko address karna chahiye.
+- **D:** Patient se muh pherkar bolne se facial expression aur lip movement jaise visual cues kam milte hain. Isse instructions samajhna aur mushkil ho sakta hai.
 
-**Exam clue:** First remove communication barriers, then assess understanding.
+**Exam clue:** Understanding assess karne se pehle communication ki rukawat ko identify aur address karo.
 
 
 <!-- job4-metadata -->
@@ -141,16 +141,16 @@ Hearing loss communication barrier hai, automatically cognitive impairment nahi.
 
 **Correct: D. When you say you feel weak, do you mean dizziness or difficulty moving your legs?**
 
-Clarification ka matlab ambiguous message ka exact meaning patient se verify karna hai. Weakness word dizziness, fatigue ya movement difficulty ke liye use ho sakta hai. Nurse options poochkar meaning clear karti hai aur patient ko other description ka chance bhi deti hai. Sudden focal weakness ya acute dizziness mein urgent clinical assessment bhi zaroori ho sakti hai.
+Clarification ka matlab hai patient ki baat ka actual meaning poochkar samajhna. Maan lo patient kehta hai ki use weakness feel ho rahi hai. Weakness se uska matlab chakkar, thakaan ya pair hilane mein difficulty ho sakta hai. Nurse gently poochti hai ki woh kya experience kar raha hai aur use apne words mein kuch aur describe karne ka mauka bhi deti hai. Agar sudden focal weakness ya acute dizziness jaise concerning symptoms hon, toh relevant urgent clinical assessment bhi zaroori ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A exact feeling know karne ka assumption hai, clarification nahi.
-- **B:** B unsolicited directive patient ki own perspective explore nahi karti.
-- **C:** C patient ki statement reject karta hai.
-- **D:** D unclear term ka meaning verify karne ki koshish karta hai.
+- **A:** Nurse patient ki exact feeling jaanti hai, aisa claim karna assumption hai. Is response se unclear symptom ka meaning verify nahi hota.
+- **B:** Patient ko apni advice follow karne ka directive dene se uski baat ka actual meaning explore nahi hota.
+- **C:** Patient ki statement ko reject karne se woh apni complaint explain karne mein hesitate kar sakta hai. Ye clarification nahi hai.
+- **D:** Weakness ka meaning poochkar nurse unclear message ko verify karne ki koshish kar rahi hai. Isliye D clarification ka example hai.
 
-**Exam clue:** Clarify ambiguous words, never assume their meaning.
+**Exam clue:** Jab patient ka word unclear ho, toh uska meaning poochho. Apni taraf se assume mat karo.
 
 
 <!-- job4-metadata -->
@@ -182,16 +182,16 @@ Clarification ka matlab ambiguous message ka exact meaning patient se verify kar
 
 **Correct: D. Request immediate bedside review and specify the concern**
 
-SBAR structured handover method hai. S mein present concern, B mein relevant previous context, A mein assessment aur interpretation, R mein required action ya request batate hain. Agar patient deteriorate kar raha hai toh clearly specify karo ki immediate review chahiye aur kyun. Emergency response ko routine communication ke liye delay mat karo.
+SBAR ek structured communication method hai jisse nurse important clinical information organized tareeke se team ko batati hai. S ka matlab Situation hai, jisme abhi ki concern batayi jaati hai. B mein relevant Background, A mein Assessment aur uska clinical meaning, aur R mein Recommendation ya requested action bataya jaata hai. Maan lo patient ki condition kharab ho rahi hai. Nurse R mein clearly batati hai ki immediate bedside review chahiye aur kyun chahiye. Emergency response ko template complete karne ke liye delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A name patient identification hai, complete recommendation nahi.
-- **B:** B history Background mein aati hai.
-- **C:** C vital signs assessment aur current situation ka part hain, request absent hai.
-- **D:** D required bedside review aur concern specify karta hai.
+- **A:** Patient ka naam identification mein useful hai, lekin sirf naam batane se ye clear nahi hota ki team se kya action chahiye.
+- **B:** Past medical history relevant Background ka part hai. Recommendation mein requested action aur urgency clear honi chahiye.
+- **C:** Current vital signs Situation ya Assessment ko support kar sakte hain. Lekin sirf readings batane se specific recommendation nahi milti.
+- **D:** Immediate bedside review maangne aur concern specify karne se receiving team ko action aur urgency samajh aati hai. Isliye D sahi hai.
 
-**Exam clue:** R = request or recommendation, not merely report.
+**Exam clue:** SBAR mein R par dhyan do. Ismein nurse clearly batati hai ki ab kaunsa action ya review chahiye.
 
 
 <!-- job4-metadata -->
@@ -223,16 +223,16 @@ SBAR structured handover method hai. S mein present concern, B mein relevant pre
 
 **Correct: C. Patient walked 10 meters with a walker and one-person assistance**
 
-Objective documentation observable facts ko describe karti hai, personality judgment ko nahi. Walking distance, walker aur assistance level actual functional performance measure karne mein help karte hain. Isse next nurse baseline compare kar sakti hai aur mobility plan adjust kar sakti hai. Patient ka own report ho toh explicitly attribute karo.
+Objective documentation mein nurse aise facts record karti hai jo observe ya measure kiye gaye hain. Personal opinion ya patient ki personality par judgment likhna objective record nahi hota. Maan lo patient walker aur ek person ki assistance ke saath 10 meters chala. Is entry se next nurse ko pata chalta hai ki patient kitna chala, kaunsi device use hui aur kitni help chahiye thi. Baad mein actual performance compare karke mobility plan adjust kiya ja sakta hai. Agar patient apna experience report karta hai, toh nurse clearly batati hai ki information patient ne di hai.
 
 **Option-by-option reasoning**
 
-- **A:** A badly vague judgment hai, actual behavior specify nahi karta.
-- **B:** B careless assumption hai, observed action nahi.
-- **C:** C distance, equipment aur assistance measurable facts hain.
-- **D:** D lazy label stigmatizing hai aur actual behavior explain nahi karta.
+- **A:** Behaved badly se actual behavior clear nahi hota. Ye nurse ka vague judgment hai, measured ya observed detail nahi hai.
+- **B:** Careless kehna patient ke baare mein assumption hai. Nurse ko specific observed action record karna chahiye.
+- **C:** Walking distance, walker aur assistance level observable aur measurable facts hain. Isliye C objective documentation ka best example hai.
+- **D:** Lazy aur uncooperative jaise labels patient ko stigmatize kar sakte hain. Ye actual relevant behavior aur context explain nahi karte.
 
-**Exam clue:** Record what was observed, not your opinion.
+**Exam clue:** Record mein woh likho jo actually observe hua hai. Personal opinion ko clinical fact ke roop mein mat likho.
 
 
 <!-- job4-metadata -->
@@ -264,16 +264,16 @@ Objective documentation observable facts ko describe karti hai, personality judg
 
 **Correct: B. Correct it through the approved amendment process with an audit trail**
 
-Electronic record mein error correct karna zaroori hai, lekin original entry aur correction history traceable rehni chahiye. Approved amendment function use karo aur correct time, reason aur identity policy ke according record karo. Medication error ka patient safety impact assess karo aur responsible team ko required notification do. Never hide the original record.
+Electronic health record mein galat medication entry milne par usse correct karna zaroori hai, lekin correction transparent honi chahiye. Nurse approved amendment process use karti hai, jisse original entry aur change ka history traceable rahe. Audit trail se pata chal sakta hai ki kisne, kya aur kab badla. Policy ke hisaab se correction ka time, reason aur identity record karni chahiye. Nurse ye bhi assess karti hai ki error se patient safety par koi effect hua hai ya nahi aur required notification deti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A wrong information future treatment ko affect kar sakti hai.
-- **B:** B approved amendment aur audit trail record integrity maintain karte hain.
-- **C:** C secret deletion traceability destroy karta hai.
-- **D:** D another login use karna accountability aur access security violate karta hai.
+- **A:** Galat entry ko waise hi chhodne se next healthcare professional wrong information ke basis par treatment decision le sakta hai. Isliye error address karna zaroori hai.
+- **B:** Approved amendment aur audit trail original record ki traceability aur integrity maintain karte hain. Isliye B sahi hai.
+- **C:** Secretly original entry delete karne se pata lagana mushkil ho sakta hai ki error kya tha aur correction kisne ki. Ye reliable clinical record ke against hai.
+- **D:** Doosri nurse ka login use karne se actual change karne wale person ki identity galat record ho sakti hai. Ye accountability aur access security ko compromise karta hai.
 
-**Exam clue:** Correct transparently, never erase the audit trail.
+**Exam clue:** Error correct karo, lekin approved process se karo. Original record aur correction history ko traceable rakho.
 
 
 <!-- job4-metadata -->
@@ -305,16 +305,16 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 **Correct: A. Read the order back to the prescriber and obtain confirmation**
 
-Telephone medication order mein sound-alike medicine names, dose aur units mishear ho sakte hain. Sirf permitted situations mein authorized prescriber ka order document karo aur drug, dose, route, frequency jaise required details read back karo. Prescriber se confirmation lo aur unclear instructions clarify karo. Local authentication and medication safety requirements follow karo.
+Telephone par medication order sunte waqt similar-sounding medicine names, dose ya units galat samajh aane ka risk hota hai. Agar facility policy telephone order permit karti hai, toh nurse authorized prescriber ke order ko document karti hai aur required drug, dose, route aur frequency jaise details dobara padhkar sunati hai. Prescriber confirm karta hai ki order sahi samjha gaya hai. Agar koi detail unclear ho, toh nurse clarify karti hai. Local authentication aur medication safety requirements follow karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A read-back communication error detect karne ka safety check hai.
-- **B:** B memory par depend karne se information lose ya change ho sakti hai.
-- **C:** C patient dose guess karne ka authorized source nahi hai.
-- **D:** D medicine color se identity, dose ya route establish nahi hote.
+- **A:** Order ko read back karke prescriber ki confirmation lene se misunderstanding identify aur correct ki ja sakti hai. Isliye A safest verification step hai.
+- **B:** Sirf memory par depend karne se dose ya doosri important information bhoolne ya galat yaad rakhne ka risk badh sakta hai.
+- **C:** Patient ki guess se authorized prescribed dose establish nahi hoti. Missing details prescriber se clarify karni chahiye.
+- **D:** Medicine ke colour se uski correct identity, dose, route ya frequency reliably establish nahi hoti. Complete order verify karna zaroori hai.
 
-**Exam clue:** Read back, confirm, document according to policy.
+**Exam clue:** Permitted telephone order mein required details read back karo, confirmation lo aur policy ke hisaab se document karo.
 
 
 <!-- job4-metadata -->
@@ -346,16 +346,16 @@ Telephone medication order mein sound-alike medicine names, dose aur units mishe
 
 **Correct: A. Protect confidentiality and verify the patient's consent before disclosure**
 
-Competent adult patient ko apni confidential health information par control ka adhikar hota hai, applicable legal exceptions ke subject mein. Family relation automatic access permission nahi hai. Nurse patient ki wishes, authorized recipient aur information scope verify kare. Required legal disclosures facility procedure se handle kare, unnecessary sharing avoid kare.
+Jo adult patient apne decisions lene mein capable hai, uski health information confidential hoti hai, applicable legal exceptions ke subject mein. Family member hone ka matlab automatic permission nahi hota ki use poora medical record de diya jaaye. Nurse patient ki wishes, authorized recipient aur kaunsi information share ki ja sakti hai, ye verify karti hai. Agar law ke according disclosure required hai, toh facility procedure follow karna chahiye. Unnecessary information sharing avoid karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A consent aur confidentiality dono protect karta hai.
-- **B:** B family status blanket permission nahi deta.
-- **C:** C group chat uncontrolled disclosure create kar sakta hai.
-- **D:** D public corridor mein discussion unauthorized persons sun sakte hain.
+- **A:** Patient ki consent aur disclosure ki scope verify karne se confidentiality aur patient ki choice protect hoti hai. Isliye A sahi hai.
+- **B:** Family relationship useful support de sakta hai, lekin usse complete chart access ki blanket permission nahi milti.
+- **C:** Group chat mein medical report share karne se unauthorized log information dekh sakte hain. Confidential data ko approved process ke bina share nahi karna chahiye.
+- **D:** Public corridor mein doosre log private information sun sakte hain. Confidential discussion appropriate private setting mein honi chahiye.
 
-**Exam clue:** Family involvement is not blanket consent.
+**Exam clue:** Family involvement ki preference ko unlimited information-sharing consent mat samjho. Patient ki permission aur applicable policy verify karo.
 
 
 <!-- job4-metadata -->
@@ -387,16 +387,16 @@ Competent adult patient ko apni confidential health information par control ka a
 
 **Correct: D. Paraphrasing**
 
-Paraphrasing mein nurse patient ki baat ka main meaning apne words mein restate karti hai. Isse patient confirm kar sakta hai ki nurse ne uski baat sahi samjhi hai. Example, patient kehta hai ki treatment se tired feel hota hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha. Exact meaning impose mat karo.
+Paraphrasing mein nurse patient ki baat ka main meaning apne words mein dobara batati hai, taaki patient confirm kar sake ki nurse ne sahi samjha hai ya nahi. Maan lo patient kehta hai ki treatment ki wajah se woh bahut tired feel karta hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha? Isse patient ko meaning confirm ya correct karne ka mauka milta hai. Nurse apni interpretation patient par impose nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A subject change karta hai aur concern explore nahi karta.
-- **B:** B advice deta hai bina understanding verify kiye.
-- **C:** C false reassurance realistic concern dismiss kar sakti hai.
-- **D:** D meaning ko own words mein restate karna paraphrasing hai.
+- **A:** Topic badalne se patient ki main concern explore nahi hoti aur uski baat ka meaning verify nahi hota.
+- **B:** Bina patient ka actual meaning samjhe personal advice dena paraphrasing nahi hai. Pehle uski baat samajhni chahiye.
+- **C:** False reassurance mein nurse unsupported assurance de sakti hai, jisse patient ki realistic concern dismiss ho sakti hai. Ye message ko restate karna nahi hai.
+- **D:** Patient ki baat ka main meaning apne words mein dobara kehkar understanding confirm karna paraphrasing hai. Isliye D sahi hai.
 
-**Exam clue:** Paraphrase meaning, clarify uncertainty, reflect feelings.
+**Exam clue:** Paraphrasing mein meaning apne words mein batate hain. Agar meaning unclear ho, toh patient se clarification lete hain.
 
 
 <!-- job4-metadata -->
