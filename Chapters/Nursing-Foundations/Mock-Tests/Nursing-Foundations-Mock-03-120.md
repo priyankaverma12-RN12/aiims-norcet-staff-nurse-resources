@@ -386,10 +386,18 @@ Postvoid residual bladder mein urination ke baad bacha urine hai. Large residual
 
 **Correct: B. Paraphrasing**
 
-Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Patient confirm ya correct kar sakta hai.
+<!-- job5-rationale -->
+Paraphrasing mein nurse patient ki baat ka main meaning apne words mein restate karti hai. Isse patient confirm kar sakta hai ki nurse ne uski baat sahi samjhi hai. Example, patient kehta hai ki treatment se tired feel hota hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha. Exact meaning impose mat karo.
 
-**Baaki options kyun sahi nahi hain?** Subject change discussion divert karta hai. Unsolicited advice aur false reassurance feelings explore nahi karti.
+**Option-by-option reasoning**
 
+- **A:** A subject change karta hai aur concern explore nahi karta.
+- **B:** B meaning ko own words mein restate karna paraphrasing hai.
+- **C:** C advice deta hai bina understanding verify kiye.
+- **D:** D false reassurance realistic concern dismiss kar sakti hai.
+
+**Exam clue:** Paraphrase meaning, clarify uncertainty, reflect feelings.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
@@ -620,10 +628,18 @@ King theory nurse aur patient ke mutual communication aur shared goals par focus
 
 **Correct: B. Use short questions, communication aids and sufficient response time**
 
-Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient ki actual ability assess karke communication support provide karti hai.
+<!-- job5-rationale -->
+Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise neurological causes se ho sakti hai. Patient ki comprehension aur expression abilities individually assess karo. Short clear questions, pictures, writing ya communication board use karo aur response ka time do. New sudden aphasia emergency assessment maang sakti hai. Existing aphasia mein patient ki participation preserve karo.
 
-**Baaki options kyun sahi nahi hain?** Caregiver-only conversation autonomy reduce karti hai. Comprehension assume nahi karni chahiye. Guessing meaning inaccurate ho sakta hai.
+**Option-by-option reasoning**
 
+- **A:** A language difficulty ko complete lack of comprehension assume karta hai.
+- **B:** B accessible communication aur sufficient time support karta hai.
+- **C:** C patient ki available ability aur autonomy ignore karta hai.
+- **D:** D response finish karne se actual meaning distort ho sakta hai.
+
+**Exam clue:** Aphasia does not automatically mean loss of intelligence.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -1267,10 +1283,18 @@ Confusion pain, infection, medication ya toileting need se related ho sakti hai.
 
 **Correct: B. Patient reports pain 7/10 and guards the incision during movement**
 
-Pain score patient ki report hai aur guarding observed behavior hai. Dono record karne se assessment useful banti hai.
+<!-- job5-rationale -->
+Subjective data patient ka personal experience hai, jaise pain rating. Objective observation nurse directly dekh sakti hai, jaise movement par incision protect karna. Dono document karne se symptoms aur behavior ki clinical picture clear hoti hai. Normal vital signs pain ko rule out nahi karte. Pain severity aur response ko reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Exaggeration aur difficult judgmental hain. Normal vitals pain ko exclude nahi karte.
+**Option-by-option reasoning**
 
+- **A:** A normal vital signs ke basis par patient ka pain reject karta hai.
+- **B:** B patient report aur observable guarding dono record karta hai.
+- **C:** C exaggeration ka unsupported assumption hai.
+- **D:** D judgmental description hai, clinical pain data nahi.
+
+**Exam clue:** Patient reports pain = subjective, observed guarding = objective.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
@@ -2289,10 +2313,18 @@ Bladder scanner ultrasound se bladder volume estimate karta hai. Postvoid residu
 
 **Correct: A. Protect confidentiality and verify the patient's consent before disclosure**
 
-Adult patient ki health information confidential hai. Nurse authorized disclosure aur patient consent check karti hai, unless lawful exception applies.
+<!-- job5-rationale -->
+Competent adult patient ko apni confidential health information par control ka adhikar hota hai, applicable legal exceptions ke subject mein. Family relation automatic access permission nahi hai. Nurse patient ki wishes, authorized recipient aur information scope verify kare. Required legal disclosures facility procedure se handle kare, unnecessary sharing avoid kare.
 
-**Baaki options kyun sahi nahi hain?** Family status alone unrestricted permission nahi hai. Group chat aur public corridor privacy breach kar sakte hain.
+**Option-by-option reasoning**
 
+- **A:** A consent aur confidentiality dono protect karta hai.
+- **B:** B group chat uncontrolled disclosure create kar sakta hai.
+- **C:** C public corridor mein discussion unauthorized persons sun sakte hain.
+- **D:** D family status blanket permission nahi deta.
+
+**Exam clue:** Family involvement is not blanket consent.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
