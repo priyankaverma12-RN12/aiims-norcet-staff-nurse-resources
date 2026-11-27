@@ -29,7 +29,7 @@ D. Normal functioning peripheral access with no need for review
 
 [Clinical reference](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Peripheral_Intravenous_IV_Device_Management/)
 
-**▶️ [ADAPT NCLEX REVIEW — phlebitis practice chapter 14:20](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published video description identifies topic segment, exact item and playback pending.
+**▶️ [YouTube MCQ practice — phlebitis, ADAPT NCLEX REVIEW (14:20)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published video description identifies topic segment, exact item and playback pending.
 
 </details>
 
