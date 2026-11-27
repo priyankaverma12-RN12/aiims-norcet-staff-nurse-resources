@@ -29,7 +29,7 @@ Herbal products medicines ke effect ya bleeding risk change kar sakte hain. Resp
 
 ### Q2. A patient has stool leaking beneath the ostomy skin barrier and painful surrounding skin. What is the best intervention?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess skin and stoma fit and replace the leaking appliance appropriately
 - **B.** Reinforce the leaking edge indefinitely without inspection
@@ -58,7 +58,7 @@ Ostomy leakage se enzymes aur bowel contents surrounding skin ko irritate kar sa
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q15](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q15](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q15-a-patient-has-stool-leaking-beneath-the-ostomy-skin-barrier-and-painful-surrounding-skin-what-is-the-best-intervention)
 
 ### Q3. Which is a key advantage of enteral nutrition when the gastrointestinal tract is functional and accessible?
 
@@ -324,7 +324,7 @@ Heart fluid load handle na kar paaye toh pulmonary congestion develop ho sakti h
 
 ### Q12. Which action is appropriate when a patient asks for assistance with grooming but can perform part of the task?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Refuse all assistance until independence returns
 - **B.** Perform every task without consulting the patient
@@ -351,7 +351,7 @@ Grooming patient ki personal appearance aur hygiene care ka part hai. Agar patie
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q16](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q16](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q16-which-action-is-appropriate-when-a-patient-asks-for-assistance-with-grooming-but-can-perform-part-of-the-task)
 
 ### Q13. What does intermittent catheterization mean?
 
@@ -653,7 +653,7 @@ Vein condition, skin integrity, therapy properties, duration, patient preference
 
 ### Q24. Which measure supports sleep in a stable hospitalized patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cluster nonurgent care when feasible and reduce unnecessary noise and light
 - **B.** Encourage caffeine immediately before sleep
@@ -680,7 +680,7 @@ Hospital mein noise, light, pain aur frequent interruptions sleep disturb kar sa
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q14](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q14](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q14-which-measure-supports-sleep-in-a-stable-hospitalized-patient)
 
 ### Q25. A liquid contains 2 mg in 4 mL. The required dose is 0.75 mg. What is the calculated volume?
 
@@ -739,7 +739,7 @@ Seizure mein involuntary movement injury cause kar sakti hai. Nurse nearby hazar
 
 ### Q27. A patient has persistent moisture from incontinence. Which skin care approach is best?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Scrub with strong antiseptic after every episode
 - **B.** Cover damp skin with a tight nonbreathable wrap indefinitely
@@ -766,7 +766,7 @@ Urine aur stool prolonged contact mein skin barrier irritate kar sakte hain. Inc
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q13](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q13](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q13-a-patient-has-persistent-moisture-from-incontinence-which-skin-care-approach-is-best)
 
 ### Q28. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
 
@@ -969,7 +969,7 @@ Palliative care mein new pain ko bhi assess karna important hai. Cause aur patie
 
 ### Q34. Which position usually supports normal defecation for an ambulatory stable patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Sitting with appropriate foot support and privacy
 - **B.** Standing on one foot
@@ -996,7 +996,7 @@ Normal defecation mein pelvic floor relaxation aur abdominal muscle coordination
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q16](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q16](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q16-which-position-usually-supports-normal-defecation-for-an-ambulatory-stable-patient)
 
 ### Q35. What is the most appropriate use of a fall-risk assessment tool?
 
@@ -1421,7 +1421,7 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 ### Q50. Which stool characteristic is generally expected from a functioning ileostomy compared with a distal colostomy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Always fully formed dry stool
 - **B.** More liquid or paste-like effluent
@@ -1448,7 +1448,7 @@ Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein st
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q14](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q14](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q14-which-stool-characteristic-is-generally-expected-from-a-functioning-ileostomy-compared-with-a-distal-colostomy)
 
 ### Q51. A patient scheduled for iodinated contrast imaging reports a previous severe contrast reaction. What should the nurse do?
 
@@ -2364,7 +2364,7 @@ Pain personal sensory aur emotional experience hai. Patient verbally report nahi
 
 ### Q85. A patient with limited sensation requests a hot-water bottle for comfort. Which response is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume no complaint means there is no burn risk
 - **B.** Leave the heat source in place without reassessment
@@ -2391,7 +2391,7 @@ Reduced sensation wale patient ko heat ka dangerous level feel nahi ho sakta. Ho
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q15](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q15](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q15-a-patient-with-limited-sensation-requests-a-hot-water-bottle-for-comfort-which-response-is-safest)
 
 ### Q86. Which medication order element identifies how a drug is delivered into the body?
 
@@ -2543,7 +2543,7 @@ After-death care mein dignity, correct identity aur family-cultural needs mainta
 
 ### Q91. A patient with an ileostomy has markedly increased watery output and dizziness. Which concern is most important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Expected absence of fluid loss
 - **B.** A need to stop all drinking indefinitely
@@ -2570,7 +2570,7 @@ Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly wa
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q13](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q13](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q13-a-patient-with-an-ileostomy-has-markedly-increased-watery-output-and-dizziness-which-concern-is-most-important)
 
 ### Q92. A bedbound patient's sacral skin is intact but nonblanchable discoloration has appeared. Which plan is best?
 
