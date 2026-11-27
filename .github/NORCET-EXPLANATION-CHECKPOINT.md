@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-run8-02ab
-Scope: Nursing Foundations Group 02A and 02B rationale integration only, then Group 02C read-only preparation; no shared indexes
+Scope: Nursing Foundations Group 02A, 02B and 02C rationale integration only, no shared indexes
 Claimed UTC: 2026-11-27T06:44:01.827Z
 Expiry UTC: 2026-11-27T07:14:01.827Z
 
