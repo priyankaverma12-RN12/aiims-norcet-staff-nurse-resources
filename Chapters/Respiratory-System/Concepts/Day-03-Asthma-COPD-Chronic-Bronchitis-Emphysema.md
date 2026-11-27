@@ -62,7 +62,7 @@ Modern asthma management mein ICS-containing treatment important hai. Sirf salbu
 | Yellow | 50% to below 80% | Caution; prescribed action plan follow karo |
 | Red | Below 50% | Danger; emergency action plan and urgent medical help |
 
-**Example:** Personal best 400 L/min; current 160 L/min. 160 ÷ 400 × 100 = 40% → red zone. Peak flow meter se 3 attempts lo aur highest reading record karo, average nahi. Symptoms bhi assess karo; severe symptoms mein reading ka wait nahi. [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow).
+**Example:** Personal best 400 L/min aur current 160 L/min. 160 ÷ 400 × 100 = 40% → red zone. Peak flow meter se 3 attempts lo aur highest reading record karo, average nahi. Symptoms bhi assess karo; severe symptoms mein reading ka wait nahi. [American Lung Association](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow).
 
 **Asthma mein ABG changes:**
 
@@ -87,6 +87,16 @@ Starting mein patient jaldi-jaldi saans leta hai, jisse CO2 zyada bahar nikalti 
 | Prolonged severe attack poorly responding to initial therapy | Status asthmaticus |
 
 Ye classic findings hain; har asthma patient mein compulsory nahi. **Bronchodilator reversibility:** Adult FEV1 ya FVC mein baseline se ≥12% AND ≥200 mL improvement asthma ko support karta hai, lekin diagnosis ka sole criterion nahi. Example: FEV1 1.5 L → 1.8 L = 300 mL aur 20% improvement. [GINA 2026](https://ginasthma.org/2026-gina-summary-guide/) | [Merck acute asthma](https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/treatment-of-acute-asthma-exacerbations).
+
+### 🔴 Current asthma care — GINA 2026 update (study-ready)
+
+Dekho, asthma mein sirf airway ko open kar dena kaafi nahi hai. Inflammation bhi control karni hai. Anti-inflammatory reliever (AIR) mein steroid aur rapid bronchodilator ka combination hota hai. Adult aur adolescent patients ke suitable prescribed regimen mein ICS-formoterol preferred reliever hai. MART ka matlab maintenance-and-reliever therapy hai, jisme wahi suitable inhaler daily maintenance aur symptoms ke liye use hota hai. Salmeterol combination ko MART rescue inhaler mat samjho. Alternative ICS-containing plans bhi available hain. Nurse prescription, device technique aur adherence verify kare.
+
+**Acute asthma mein oxygen:** GINA 2026 acute care guidance mein supplemental oxygen ki zarurat par SpO2 target 92–95% hai. Patient ki condition, altitude, coexisting disease aur local emergency protocol bhi matter karte hain. Purane exam sources mein 93–95% mil sakta hai. Guideline year dekho. Ye COPD hypercapnia-risk target 88–92% se alag context hai. Severe attack mein speech, air entry, consciousness aur respiratory effort monitor karo. Sedative routine treatment nahi hai. Agar anaphylaxis suspected hai, emergency anaphylaxis protocol priority hai.
+
+**Example:** Agar wheeze kam ho rahi hai lekin patient bol nahi pa raha aur drowsy ho raha hai, toh isko improvement mat samjho. Emergency team ko bulao. Treatment ke dauran baar-baar reassess karo. Discharge se pehle written action plan, inhaler return demonstration, medicine availability aur follow-up arrange karo. [GINA 2026 summary, printed pages 24 and 35–36](https://ginasthma.org/2026-gina-summary-guide/).
+
+**Practice:** [Disease bank Q1–20](../MCQs/Day-03-Asthma-COPD-55.md) · [Nursing Wallah by PW acute asthma MCQ 11:58](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=718s) · [Status asthmaticus MCQ 14:19](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=859s). Published chapter labels checked, exact items and playback pending. Specific AIR/MART and 2026 oxygen-target practice video verification pending.
 
 ## 2. COPD
 
@@ -136,6 +146,18 @@ Other complications: hypercapnia (blood CO2 high), respiratory failure, pneumoth
 
 **LTOT — Long-term oxygen therapy:** Stable COPD mein confirmed severe chronic resting hypoxemia ke liye PaO2 ≤55 mmHg ya arterial oxygen saturation ≤88%; selected patients mein PaO2 55–60 mmHg ke saath pulmonary hypertension, edema ya secondary polycythemia bhi eligibility support kar sakte hain. At least 15 hours/day as prescribed. SpO2 screening useful hai, LTOT eligibility clinical assessment aur confirmation se decide hoti hai. [GOLD 2027 report page](https://goldcopd.org/2027-gold-report-and-pocket-guide/).
 
+### 🟠 COPD clinical assessment and prevention — GOLD 2027 update (study-ready)
+
+FEV1/FVC diagnosis ke liye useful hai. FEV1 percent predicted obstruction ka grade batata hai. Dono numbers alag hain. Agar ratio borderline hai, toh clinician repeat post-bronchodilator test se confirmation kar sakta hai. Symptoms aur exacerbation history treatment planning mein alag se assess hote hain.
+
+GOLD 2027 ke initial assessment mein last year ek ya zyada moderate ya severe exacerbation hone par Group E consider hota hai. Agar aisi exacerbation nahi hui hai, toh symptom burden se A aur B group differentiate hote hain. Purane charts mein Group E ka threshold alag mil sakta hai. Guideline version zaroor dekho. Long-acting bronchodilators maintenance mein important hain. Selected patients mein blood eosinophils, exacerbations aur coexisting asthma ke according ICS-containing regimen consider hota hai. Asthma saath mein ho toh asthma guidance ko priority di jaati hai. Nurse khud inhaler change nahi karegi.
+
+**Example:** Do COPD patients ka FEV1 63% predicted hai. Dono ka spirometric grade GOLD 2 hai. Lekin agar ek patient last year moderate exacerbation se guzra hai aur doosre ko koi exacerbation nahi hui, toh current care planning alag ho sakti hai.
+
+**Exacerbation care:** Har new breathlessness ko COPD ka attack assume mat karo. Pneumonia, heart failure, pulmonary embolism aur pneumothorax jaise causes bhi possible hain. New chest pain, confusion, low BP ya worsening oxygenation mein urgent clinical assessment chahiye. Stable COPD mein smoke exposure kam karna, vaccination as eligible, pulmonary rehabilitation aur nutrition review important hain.
+
+[GOLD 2027 pocket guide, v1.1, figure 3.8 and 4.1](https://goldcopd.org/2027-gold-report-and-pocket-guide/). [Disease bank Q21–35](../MCQs/Day-03-Asthma-COPD-55.md). Dedicated GOLD 2027 A/B/E MCQ video verification pending.
+
 ## 3. Chronic Bronchitis
 
 Bronchi mein long-term inflammation aur excessive mucus production ko chronic bronchitis kehte hain.
@@ -146,9 +168,15 @@ Bronchial lining mein swelling hoti hai, mucus glands aur goblet cells mucus zya
 
 **Common findings:** Productive cough with sputum, rhonchi or wheezing, breathlessness, cyanosis in advanced cases, recurrent respiratory infections.
 
-**Blue Bloater:** Chronic bronchitis ka traditional exam term hai. Cyanosis aur advanced disease mein peripheral edema ho sakta hai. Har patient mein ye findings nahi hoti.
+**Blue Bloater:** Chronic bronchitis ka traditional exam term hai, modern diagnostic subtype nahi. Cyanosis aur advanced disease mein peripheral edema ho sakta hai. Har patient mein ye findings nahi hoti.
 
 > **Dhyan de:** Chronic Bronchitis = Bronchi + Mucus + 3 months × 2 years.
+
+### 🟠 Chronic bronchitis — nursing application
+
+Productive cough ka matlab cough ke saath sputum aana hai. Chronic bronchitis ke symptoms normal spirometry ke saath bhi mil sakte hain. Isliye classic cough-duration definition se COPD confirm nahi hota. Mucus aur impaired ciliary clearance ki wajah se secretions ruk sakti hain. Nurse sputum mein new change, fever, dyspnea aur oxygenation ko assess kare. Har sputum change bacterial infection prove nahi karta.
+
+Blue bloater purana exam mnemonic hai, modern clinical subtype nahi. **🟣 HPSSSB Staff Nurse October 2020 — related reported concept:** diaphragmatic breathing. [Source-traced practice](../Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) mein technique ka application diya hai. Official key unverified. [Disease Q36–45](../MCQs/Day-03-Asthma-COPD-55.md).
 
 ## 4. Emphysema
 
@@ -183,16 +211,22 @@ Dono COPD ke components ho sakte hain aur ek hi patient mein coexist bhi kar sak
 
 Alpha-1 antitrypsin ek protective protein hai jo lung tissue ko damaging enzymes se protect karta hai. Genetic deficiency mein alveolar walls damage ho sakti hain; relatively young non-smokers mein bhi emphysema develop ho sakta hai. Ye patterns typical hain, absolute rules nahi. [NCBI COPD](https://www.ncbi.nlm.nih.gov/books/NBK559281/).
 
+### 🟠 Emphysema — nursing application
+
+Elastic recoil ko stretched rubber band ki wapas aane wali force samjho. Emphysema mein lung tissue ka recoil kam ho jaata hai. Jab patient saans bahar nikalta hai, small airways jaldi collapse kar sakti hain. Air trapping badh jaati hai. Isliye pursed-lip breathing kuch stable patients ko comfort de sakti hai. Lekin damaged alveoli wapas nahi bante. Sudden unilateral chest pain aur dyspnea pneumothorax ka warning ho sakta hai. Routine breathing exercise se pehle emergency assessment karo.
+
+Alpha-1 antitrypsin deficiency mein protective protein kam hone se enzymes alveolar tissue damage kar sakte hain. Younger patient ya limited smoking exposure mein clinician testing consider kar sakta hai. Acinar subtype detail exam enrichment hai, exact NORCET depth established nahi. [Disease Q46–55](../MCQs/Day-03-Asthma-COPD-55.md).
+
 ## Video teaching and practice
 
 | Studied topic | Teaching video | MCQ practice | Importance |
 |---|---|---|---|
-| Asthma | [Bronchial Asthma Explained in Hindi — title verified](https://www.youtube.com/watch?v=ypuyh_t1Npc) | [Aarogyam Infinity MCQ Series Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) | Very high |
-| COPD | [NORCET Xpress respiratory topics](https://www.youtube.com/watch?v=3dWnyE63nJ8) | [Aarogyam Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) | Very high |
+| Asthma | [Bhushan Science Nursing — pathophysiology, 09:10](https://www.youtube.com/watch?v=phDl0DkMrW4&t=550s). [Earlier teaching lead](https://www.youtube.com/watch?v=ypuyh_t1Npc) pending fresh check | [Nursing Wallah — acute asthma 11:58](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=718s) | Very high |
+| COPD | [NORCET Xpress respiratory topics](https://www.youtube.com/watch?v=3dWnyE63nJ8) — earlier lead, fresh verification pending | [Nursing Wallah — COPD comparison 09:41](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=581s) | Very high |
 | Chronic bronchitis | [NORCET Xpress — COPD includes bronchitis](https://www.youtube.com/watch?v=3dWnyE63nJ8) | [Aarogyam Part 25 — classic comparison](https://www.youtube.com/watch?v=tOxTKjgTcTo) | High |
-| Emphysema | [NORCET Xpress — COPD includes emphysema](https://www.youtube.com/watch?v=3dWnyE63nJ8) | [Aarogyam Part 25 — classic comparison](https://www.youtube.com/watch?v=tOxTKjgTcTo) | High |
+| Emphysema | [NORCET Xpress — earlier lead](https://www.youtube.com/watch?v=3dWnyE63nJ8), fresh verification pending | [Nursing Wallah — barrel chest 44:00](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=2640s) | High |
 
-Metadata checked 25 Nov 2026; full video/transcripts, durations and individual creator details not independently confirmed. Skip unstudied diseases. Day 3 MCQ attempts pending; existing [Day 2 practice](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) remains available.
+Audit 27 Nov 2026: new asthma teaching and Part 25 MCQ chapter metadata checked. COPD, chronic bronchitis and emphysema teaching lead not freshly confirmed. Part 25 covers classic comparison, not full new GOLD criteria. Playback, transcripts and exact-question matches pending. Skip unstudied diseases. Day 3 MCQ attempts pending; existing [Day 2 practice](../MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) remains available.
 
 [Chapter](../README.md) | [Day 3 diseases](../Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) | [Day 3 care](../Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-03-Quick-Revision.md) | [References](../References.md)
 
@@ -201,3 +235,6 @@ Metadata checked 25 Nov 2026; full video/transcripts, durations and individual c
 ## Day 3 new practice
 
 [55 disease MCQs](../MCQs/Day-03-Asthma-COPD-55.md) · [30-question final mock](../MCQs/Day-03-Final-Mock-30.md) · [Research and paper leads](../MCQs/Research-and-Paper-Leads.md). Practice not yet attempted.
+
+
+**Syllabus audit:** [INC 2020 B.Sc Nursing curriculum text](https://www.legitquest.com/act/indian-nursing-council-revised-regulations-and-curriculum-for-bsc-nursing-program-regulations-2020/cbd2) mein adult respiratory assessment, disease management aur nursing care included hain. [AIIMS NORCET official notices](https://www.aiimsexams.ac.in/landingpage/courses/advertisement/66ab7926ebb3815a4b707804) exam context ke liye hain. Specific guideline numericals ya pathology subtypes ki exact historical frequency verified nahi hai. [Reported question practice](../Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) alag hai. New guideline paragraphs study-ready hain, learner mastery claim nahi.
