@@ -44,3 +44,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Compound interest evidence](12-Compound-Interest-Reported-Evidence.md): three counted reported question families (RRB 2015 reported shift 2 Q29, shift 3 Q42, DSSSB 2024 shift 3 Q16). Chapter total twenty-seven counted families and twenty-nine counted solved adaptations, eight reserved/disputed/provisional items excluded. Extracted third-party paper text inspected, screenshots failed. Official keys and further nursing recruitment sources pending. RRB 2018 and DSSSB 2025 indexed leads not counted.
+
+
+[Time and work evidence](13-Time-and-Work-Reported-Evidence.md): three counted reported families (DSSSB 2019, MPESB 2022, RRB 2025). Earlier reserved DSSSB item cross-linked without a new count. Chapter total thirty counted families and thirty-two solved adaptations.
+
+[Speed, time and distance evidence](14-Speed-Time-and-Distance-Reported-Evidence.md): four counted reported families, including two AIIMS memory-based reports, one RRB 2025 paper-text item and one MPESB 2022 report. Chapter total thirty-four counted reported families and thirty-six solved adaptations, eight reserved/disputed/provisional items excluded. Official keys and screenshots not authenticated, video playback and additional recruitment source coverage pending.
