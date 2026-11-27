@@ -7,6 +7,10 @@
 ### Q1. A nurse notices that a patient's usual conversational behavior has changed to unusual drowsiness. Which clinical judgment activity does identifying this new finding illustrate?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Generating a completed care plan
 - **B.** Evaluating whether an intervention succeeded
@@ -25,11 +29,21 @@
 - **B.** No intervention outcome described.
 - **C.** One cue alone diagnosis prove nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient has poor oral intake, orthostatic symptoms and reduced urine output. Which reasoning activity links these findings into a possible explanation?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Selecting an intervention before interpreting the findings
 - **B.** Declaring an achieved outcome
@@ -48,11 +62,21 @@
 - **B.** No treatment response described.
 - **D.** Data collection alone relationship explain nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A nurse considers several plausible causes of a patient's acute deterioration. Which factor should most influence the initial priority among hypotheses?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Which condition requires the least documentation
 - **B.** Urgency and potential harm combined with the available supporting evidence
@@ -71,11 +95,21 @@
 - **C.** Patient-specific urgency determine nahi hoti.
 - **D.** First idea automatically correct nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. After identifying likely dehydration in a stable patient, the nurse compares appropriate fluid-support options and their restrictions with the team. Which reasoning activity is demonstrated?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Generating solutions
 - **B.** Recognizing the initial cue only
@@ -94,11 +128,21 @@
 - **C.** No action outcome stated.
 - **D.** Solutions develop karna diagnosis prove nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A nurse applies a prescribed intervention selected after assessment and planning. Which component of the clinical judgment model is this?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Prioritizing hypotheses only
 - **B.** Recognizing a baseline risk without intervention
@@ -117,11 +161,21 @@
 - **B.** Actual action described hai.
 - **D.** Reasoning preceded the actual action.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. Following a nursing intervention, a measured clinical variable improves but the patient's symptoms worsen. What is the best reasoning response?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Repeat the same intervention automatically without assessing harm
 - **B.** Reassess both findings and reconsider whether the overall intended outcome has been achieved
@@ -140,11 +194,21 @@
 - **C.** Other clinically relevant symptoms worsen ho rahe hain.
 - **D.** Data need verification rather than blanket rejection.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A nurse initially assumes a patient's new confusion is caused by age and ignores a recent change in oxygenation. Which cognitive error is most evident?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Anchoring on an initial explanation despite important new evidence
 - **B.** Effective hypothesis revision
@@ -163,11 +227,21 @@
 - **C.** Intervention result review nahi ho raha.
 - **D.** Age alone individual baseline establish nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A nurse selects only findings that support an initial suspicion and dismisses contradictory observations without checking them. Which bias is illustrated?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Deliberate search for disconfirming evidence
 - **B.** Appropriate triage
@@ -186,11 +260,21 @@
 - **B.** Urgency based reasoning described nahi hai.
 - **C.** Conflicting findings ignored hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A clinician concludes a patient has a familiar benign condition and stops considering serious alternatives before adequate assessment. Which reasoning problem does this represent?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Appropriate validation of an uncertain finding
 - **B.** Premature closure
@@ -209,11 +293,21 @@
 - **C.** Alternative causes consider nahi kiye gaye.
 - **D.** Serious alternative risks adequately evaluate nahi hue.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A stable patient's automated measurement is unexpectedly abnormal and inconsistent with clinical appearance. What best reduces reasoning error?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Repeat or validate the measurement using an appropriate technique while assessing the patient
 - **B.** Dismiss it as device error without verification
@@ -232,11 +326,21 @@
 - **C.** Artifact and context important hain.
 - **D.** False documentation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. An experienced nurse senses that a patient is worsening before a formal score changes significantly. Which response is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Wait until the numerical score reaches a fixed threshold regardless of symptoms
 - **B.** Treat intuition as proof of a specific diagnosis
@@ -255,11 +359,21 @@
 - **B.** Intuition hypothesis raise karti hai, diagnosis confirm nahi.
 - **C.** Unaddressed deterioration risk hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A nursing assistant reports that a previously independent patient could not complete morning grooming. What should the registered nurse do with this information?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ignore because grooming is a routine task
 - **B.** Update the care plan to permanent dependency without assessment
@@ -278,11 +392,21 @@
 - **B.** Cause and reversibility unclear hain.
 - **D.** Nursing assessment and judgment remain RN responsibilities.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A stable patient reports a persistent symptom but initial assessment is unrevealing. What approach best avoids dismissive reasoning?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Acknowledge the report, reassess relevant factors and communicate persistent concern
 - **B.** Conclude the symptom is fabricated because no objective sign is present
@@ -301,11 +425,21 @@
 - **C.** Inaccurate record hai.
 - **D.** More evidence may be required.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. During a bedside assessment a nurse finds a patient's current data disagree with a previous shift's report. What is the best response?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume the previous nurse made an error
 - **B.** Average all findings without checking timing
@@ -324,11 +458,21 @@
 - **B.** Meaningful trend obscure ho sakta hai.
 - **C.** Current patient status miss hoga.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A nurse reviews several days of a patient's observations. Why can a trend be more informative than a single value?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A single severe abnormality can always be ignored
 - **B.** Trend review replaces bedside assessment
@@ -347,11 +491,21 @@
 - **B.** Current clinical condition still assess karni hai.
 - **D.** Pattern alone cause confirm nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A care team identifies a potential safety problem that has not yet caused symptoms. Which prioritization principle is most accurate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** All potential risks must be treated before any actual concern
 - **B.** A high-probability or high-consequence risk can outrank a less urgent existing problem
@@ -370,11 +524,21 @@
 - **C.** Severe imminent risk may be more urgent.
 - **D.** Prevention nursing care ka part hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A stable patient refuses a low-risk proposed care activity after receiving adequate information. How should clinical judgment guide the nurse?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Proceed by force because the plan was written
 - **B.** Remove every other care activity
@@ -393,11 +557,21 @@
 - **B.** Refusal of one activity does not end care.
 - **C.** Inaccurate documentation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A nurse is considering a nonurgent intervention with uncertain evidence of benefit. What is the best evidence-informed approach?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Use an outdated habit without checking contraindications
 - **B.** Apply the intervention to every patient regardless of preference
@@ -416,11 +590,21 @@
 - **B.** Individual context ignore hota hai.
 - **D.** Popularity evidence quality establish nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. Two staff members offer different plausible interpretations of a patient's symptoms. Which communication approach best supports clinical judgment?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Avoid discussing uncertainty to appear confident
 - **B.** Compare supporting and contradictory cues, then agree on immediate safety actions and further assessment
@@ -439,11 +623,21 @@
 - **C.** Authority alone correct interpretation prove nahi karti.
 - **D.** Urgent safety steps may be necessary.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A nurse anticipates that a stable patient's care needs may exceed the ward's current monitoring capability. Which reasoning response is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Escalate early and arrange suitable monitoring or level-of-care review
 - **B.** Wait for actual harm before requesting resources
@@ -462,11 +656,21 @@
 - **C.** Risk uncontrolled hai.
 - **D.** False documentation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A nurse receives a critical laboratory result for a patient whose condition has changed. Which reasoning approach is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Repeat every laboratory test independently before communicating
 - **B.** Assume the result alone establishes every treatment decision
@@ -485,11 +689,21 @@
 - **B.** Clinical context and authorized management matter.
 - **D.** Critical result timely action maang sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A patient has several abnormal findings and a time-sensitive concern. Which principle guides additional data gathering?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Wait until all diagnoses are confirmed before acting
 - **B.** Collect the information needed for safe immediate action without delaying necessary escalation
@@ -508,11 +722,21 @@
 - **C.** Delay may worsen harm.
 - **D.** Relevant immediate data needed hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A nurse has performed an intervention and is uncertain when to reassess its effect. What should determine the review interval?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Expected onset of effect, patient risk, intervention characteristics and relevant protocol
 - **B.** A fixed identical interval for every procedure
@@ -531,11 +755,21 @@
 - **C.** Clinical response assessment priority hai.
 - **D.** Some deterioration may be unnoticed by patient.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. During review of a near miss, the nurse identifies that interruptions and unclear equipment labels influenced the decision. What type of clinical judgment improvement is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Blame one staff member and ignore the work environment
 - **B.** Stop reporting near misses
@@ -554,11 +788,21 @@
 - **B.** Learning opportunity lose hoti hai.
 - **C.** Reflection and training improve skills.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. A nursing student correctly recalls a guideline but cannot apply it when several patient cues conflict. What learning approach is most suitable?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Judge competence only by speed of answer
 - **B.** Guided case reasoning with feedback on cue interpretation and decisions
@@ -577,11 +821,21 @@
 - **C.** Application gap address nahi hoga.
 - **D.** Reasoning practice delay hogi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. A nurse retrospectively reviews a decision that had a poor outcome despite following reasonable evidence available at the time. Which principle is important?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assess the quality of the reasoning using information available at the time, not outcome alone
 - **B.** Every poor outcome proves negligence
@@ -600,11 +854,21 @@
 - **C.** Luck can mask unsafe decisions.
 - **D.** Outcome still provides learning evidence.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q27. An older patient reports a preference for family involvement, but the team has not yet confirmed what information may be shared. How should the nurse integrate this cue into care planning?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume family can receive every confidential detail automatically
 - **B.** Exclude family despite the patient's preference without discussion
@@ -623,5 +887,11 @@
 - **B.** Patient preference meaningful hai.
 - **C.** Capable patient's autonomy remains central.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
