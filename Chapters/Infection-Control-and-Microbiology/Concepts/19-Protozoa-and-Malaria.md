@@ -60,3 +60,14 @@ Giardia intermittent shedding se multiple stool samples useful ho sakte hain. En
 
 - [TSL Tarun Saini Lectures: infectious disease MCQs, episode 106](https://www.youtube.com/watch?v=AefUcwK5c4M), 11 February 2026 as indexed, description explicitly covers malaria species, smears and treatment.
 - [Nursing Wallah by PW: NORCET 10 Mains marathon](https://www.youtube.com/watch?v=5hK10sc7bTc&t=3700s), indexed malaria control section around 1:01:40. Full playback not reviewed. Dedicated nonmalaria protozoa MCQ video remains pending.
+
+
+## Additional clinical and video references — 27 November 2026
+
+[India NCVBDC programme guidelines](https://ncvbdc.mohfw.gov.in/index1.php?lang=1&level=1&lid=3686&sublinkid=5899) and [WHO malaria guidelines](https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria) should guide India-specific study. [CDC severe malaria guidance](https://www.cdc.gov/malaria/hcp/clinical-guidance/iv-artesunate-us.html) provides additional clinical context, not a substitute for Indian dosing policy. Delayed hemolysis after IV artesunate is a follow-up concern. Nurse new pallor, dark urine aur fatigue ko promptly report karti hai. Relapse dormant liver parasites se aur recrudescence incompletely cleared blood-stage parasites se ho sakti hai.
+
+- Concept: [Malaria In Hindi — BSc Nursing life cycle and treatment](https://www.youtube.com/watch?v=-SyZ79Tvjh8), indexed title and description. Channel metadata not retrieved.
+- MCQ practice: [RRB Nursing Superintendent General Science One Shot, Part 7](https://www.youtube.com/watch?v=_OYQ9sXW2DI), indexed chapter at 21:30 covers malaria and kala-azar causative organisms. Channel metadata not retrieved. Full playback remains unverified.
+- [CDC Giardia diagnosis](https://www.cdc.gov/giardia/hcp/diagnosis-testing/), [CDC amebiasis](https://www.cdc.gov/amebiasis/about/index.html), [CDC Crypto water safety](https://www.cdc.gov/cryptosporidium/prevention/crypto-home-boil-water.html), [CDC trichomoniasis](https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm), [CDC toxoplasmosis prevention](https://www.cdc.gov/toxoplasmosis/prevention/) and [WHO India leishmaniasis](https://www.who.int/india/health-topics/leishmaniasis) provide organism-specific clinical context.
+
+[Canonical exam evidence](../Previous-Year-Questions/19-20-Malaria-and-Helminths-Reported-PYQ-Adaptations.md). Dedicated nonmalaria nursing MCQ videos remain pending.
