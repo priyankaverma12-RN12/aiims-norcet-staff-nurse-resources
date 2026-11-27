@@ -544,28 +544,28 @@
 
 </details>
 
-### Q21. Why are lutein and zeaxanthin included in the AREDS2 formulation rather than beta-carotene?
+### Q21. Why was copper included in the zinc-containing AREDS and AREDS2 supplement formulations?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
 
-- **A.** They directly dissolve established retinal scars
-- **B.** They are carotenoids evaluated as a safer replacement in the studied formulation
-- **C.** They act as systemic antibiotics for macular infection
-- **D.** They reduce aqueous production in the ciliary body
+- **A.** To increase aqueous humor production
+- **B.** To reduce the risk of zinc-associated copper deficiency
+- **C.** To replace lutein and zeaxanthin in the retina
+- **D.** To provide a treatment for retinal vascular occlusion
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. They are carotenoids evaluated as a safer replacement in the studied formulation**
+**Correct answer: B. To reduce the risk of zinc-associated copper deficiency**
 
-**Kyun sahi hai:** Lutein aur zeaxanthin carotenoids hain. AREDS2 research mein beta-carotene replacement ke taur par evaluate hue, especially smoking-related safety concern ke context mein.
+**Kyun sahi hai:** High-dose zinc copper absorption interfere kar sakta hai. AREDS aur AREDS2 trials mein zinc-containing formulations ke saath copper add kiya gaya tha taaki deficiency ka risk reduce ho. Patient independently ingredients ya dose change na kare.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Established scar ko dissolve karna inka proven action nahi.
-- **C.** Ye antibiotics nahi hain.
-- **D.** Aqueous suppression glaucoma drugs ka mechanism ho sakta hai.
+- **A.** Aqueous humor production badhana copper addition ka purpose nahi hai.
+- **C.** Copper mineral hai. Lutein aur zeaxanthin carotenoids hain aur unka role different hai.
+- **D.** Copper supplementation retinal artery ya vein occlusion ka acute treatment nahi hai.
 
-**Revision:** [Related concept](../Concepts/Age-Related-Macular-Degeneration-and-Nursing.md#treatment) · [Clinical reference](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/age-related-macular-degeneration/nutritional-supplements-age-related-macular-degeneration).
+**Revision:** [Related concept](../Concepts/Age-Related-Macular-Degeneration-and-Nursing.md#treatment) · [NEI AREDS2 trial information](https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2).
 
 **YouTube MCQ practice: verification pending.**
 
