@@ -49,7 +49,9 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Compound interest](12-Compound-Interest.md) — 30 original questions and sourced adaptations.
 - [Time and work](13-Time-and-Work.md) — 30 original questions and sourced adaptations.
 - [Speed, time and distance](14-Speed-Time-and-Distance.md) — 30 original questions and sourced adaptations.
-- Mensuration — next.
-- data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
+- [Mensuration 2D — perimeter and area](15-Mensuration-2D-Perimeter-and-Area.md) — 30 original questions and one reported adaptation.
+- [Mensuration 3D — surface area and volume](16-Mensuration-3D-Surface-Area-and-Volume.md) — 30 original questions and two reported adaptations.
+- Data interpretation — next.
+- Individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
