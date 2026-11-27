@@ -218,7 +218,7 @@ Red cells hemoglobin carry karti hain jo oxygen bind karta hai. Transfusion indi
 
 ### Q10. A patient using crutches is permitted partial weight bearing. What determines the appropriate gait pattern?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The patient's age alone
 - **B.** The prescribed weight-bearing restriction, balance and therapist's assessment
@@ -241,11 +241,11 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q10](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q10](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q10-a-patient-using-crutches-is-permitted-partial-weight-bearing-what-determines-the-appropriate-gait-pattern)
 
 ### Q11. A nurse encounters a barcode mismatch while scanning a medication. What should happen next?
 
@@ -418,7 +418,7 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 
 ### Q16. A patient voids 100 mL and has a large postvoid residual on repeated bladder assessment. Which problem is suggested?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Excessive renal filtration proven by residual volume
 - **B.** Normal complete emptying established by the voided volume alone
@@ -445,7 +445,7 @@ Patient ne 100 mL urine pass kiya, lekin baar-baar scan par large PVR mil raha h
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q10](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q10](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q10-a-patient-voids-100-ml-and-has-a-large-postvoid-residual-on-repeated-bladder-assessment-which-problem-is-suggested)
 
 ### Q17. Which communication technique involves restating the main meaning of a patient's message to confirm understanding?
 
@@ -869,7 +869,7 @@ No output with swelling obstruction ya fluid collection suggest kar sakta hai. N
 
 ### Q32. A timed 24-hour urine collection begins at 7 AM. What is the usual collection procedure?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Collect only nighttime urine
 - **B.** Collect the first void and stop before the final scheduled void
@@ -896,7 +896,7 @@ Timed collection ka purpose ek fixed 24-hour interval mein excreted substance me
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q12](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q12](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q12-a-timed-24-hour-urine-collection-begins-at-7-am-what-is-the-usual-collection-procedure)
 
 ### Q33. A new stoma becomes dusky and progressively dark. Which action is appropriate?
 
@@ -1754,7 +1754,7 @@ Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, ase
 
 ### Q67. An immobile patient has a painful swollen calf before scheduled leg exercises. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply forceful stretching to reduce swelling
 - **B.** Massage the calf vigorously before exercise
@@ -1777,11 +1777,11 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 **Clinical reference:** [NICE NG158 VTE](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q12](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q12](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q12-an-immobile-patient-has-a-painful-swollen-calf-before-scheduled-leg-exercises-what-should-the-nurse-do)
 
 ### Q68. Why is early safe postoperative mobilization encouraged when not contraindicated?
 
@@ -2286,7 +2286,7 @@ Pulmonary TB mein infectious particles air mein remain kar sakte hain aur inhala
 
 ### Q87. Which exercise involves a caregiver moving the patient's joint without active muscle effort from the patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Passive range-of-motion exercise
 - **B.** Resisted isometric exercise
@@ -2309,11 +2309,11 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q11](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q11](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q11-which-exercise-involves-a-caregiver-moving-the-patients-joint-without-active-muscle-effort-from-the-patient)
 
 ### Q88. Which nursing model is associated with the three interrelated circles of care, core and cure?
 
@@ -2621,7 +2621,7 @@ Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 
 
 ### Q99. Which device can noninvasively estimate urine remaining in the bladder after voiding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Bladder ultrasound scanner
 - **B.** Pulse oximeter
@@ -2648,7 +2648,7 @@ Postvoid residual ya PVR urine pass karne ke baad bladder mein bachi quantity ha
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q9](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q9](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q9-which-device-can-noninvasively-estimate-urine-remaining-in-the-bladder-after-voiding)
 
 ### Q100. A family member asks for a competent adult patient's test results without the patient's permission. What should the nurse do?
 
@@ -2973,7 +2973,7 @@ RBC rupture se intracellular potassium sample mein release hota hai. Result fals
 
 ### Q113. Which instruction is appropriate for a midstream clean-catch urine specimen?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 BHU Staff Nurse 22 October 2019 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Collect urine from the toilet bowl
 - **B.** Collect only the first drops in an unclean cup
@@ -2997,10 +2997,10 @@ Clean-catch sample ka goal urine mein surrounding skin ke germs milne ka risk ka
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
 
-**YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — clean-catch urine collection, Med-Surg Tutor](https://www.youtube.com/watch?v=UCaIIc3GCko)** · 27 May 2025. Published description identifies 12 practice questions and clean-catch collection. Topic-level only, exact question and playback pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q11](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q11](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q11-which-instruction-is-appropriate-for-a-midstream-clean-catch-urine-specimen)
 
 ### Q114. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
 
@@ -3151,7 +3151,7 @@ Watson caring relationship, dignity aur holistic human experience ko nursing ke 
 
 ### Q120. Which crutch instruction helps avoid pressure-related nerve injury?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 NORCET 20 November 2021 Shift II — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Support body weight through the handgrips rather than the axillae
 - **B.** Use crutches without checking fit
@@ -3176,9 +3176,9 @@ Axillary crutch par body weight handgrips se transfer hona chahiye. Axilla mein 
 
 **Historical evidence:** [NORCET 20 November 2021 Shift II memory-based related crutch-fit question](https://testbook.com/question-answer/appropriate-position-for-crutches-from-axilla--65f844165b486df88a5ab8ad). Related fit concept, not this exact stem or authenticated official key.
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**▶️ [YouTube MCQ practice — crutches and cane, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=2025s)** · Published question chapter 33:45, 24 November 2024. Topic-level only, exact nerve-injury item and playback pending.
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q9](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q9](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q9-which-crutch-instruction-helps-avoid-pressure-related-nerve-injury)
 
