@@ -87,4 +87,4 @@ Stye expansion, 27 November 2026: resumed 9814bfd5b36c6ec0256d02edfbd6a1146b3e6f
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-112635-chalazion. Scope: chalazion chapter-local package only. Claimed UTC 2026-11-27T11:26:35Z. Expiry UTC 2026-11-27T11:56:35Z. -->
