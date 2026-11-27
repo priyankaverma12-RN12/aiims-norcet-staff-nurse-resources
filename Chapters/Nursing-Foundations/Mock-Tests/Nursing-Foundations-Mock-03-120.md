@@ -694,9 +694,22 @@ Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 12
 
 **Correct: B. Deep respiratory sputum in the specified container**
 
-Sputum lower airway secretions represent karti hai. Saliva mein oral organisms contaminate kar sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Saliva, rinse water aur dry tissue representative deep sputum sample nahi hain.
+Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth se aati hai aur lower airway infection ko accurately represent nahi kar sakti. Patient ko collection technique samjhao aur ordered test ke liye specified clean ya sterile leak-resistant container use karo. Sample quality aur transport instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Saliva mainly mouth secretions hai. Oral flora culture interpretation ko confuse kar sakti hai.
+- **B (Sahi):** Deep respiratory sputum intended source ko better represent karta hai. Specified container sample integrity maintain karta hai.
+- **C (Galat):** Mouth-rinse water sample ko dilute aur contaminate kar sakta hai. Yeh lower respiratory sputum nahi.
+- **D (Galat):** Dry tissue suitable sterile specimen container nahi hai aur sample recover karna difficult ho sakta hai.
+
+**Exam clue:** Sputum is deep cough mucus, not saliva.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-3-sputum-collection)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -987,9 +1000,24 @@ Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka pr
 
 **Correct: C. Use a suitable ventilated collection setting and airborne precautions**
 
-Coughing infectious aerosols produce kar sakti hai. Suitable ventilation aur respiratory protection exposure kam karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Crowding, direct coughing aur protection remove karna transmission risk badhate hain.
+Pulmonary TB mein infectious aerosols cough ke saath air mein spread ho sakte hain. Sample collection aise designated area mein ho jahan adequate ventilation aur exposure control ho, jaise suitable isolation room ya booth. Staff fitted respirator aur local airborne precautions follow karein. Patient ko sample produce karne ka safe method samjhao.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Staff ki taraf cough karwana direct exposure badha sakta hai.
+- **B (Galat):** Respiratory protection remove karna airborne transmission risk badha sakta hai.
+- **C (Sahi):** Suitable ventilated designated collection area aur airborne precautions patient aur staff dono ki safety support karte hain.
+- **D (Galat):** Crowded waiting room mein doosre log infectious aerosols ke contact mein aa sakte hain.
+
+**Exam clue:** Suspected infectious TB: designated ventilation and airborne protection.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html)
+
+**India guidance lead:** [Central TB Division airborne infection control](https://tbcindia.mohfw.gov.in/airborne-infection-control/). Current NTEP guidance should be followed.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1093,9 +1121,22 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 **Correct: D. Infused fluid may dilute or contaminate the sample**
 
-Saline, glucose ya medicines sample mein mix hokar measured values distort kar sakti hain. Approved sampling method use karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** IV contamination possible hai. Accuracy automatically improve nahi hoti. Venous blood arterial nahi banta.
+IV infusion mein saline, glucose ya prescribed medicines blood ke saath mix ho sakti hain. Agar sample infusion ke paas se contaminated ho jaaye toh concentration dilution ya admixture ki wajah se wrong aa sakti hai. Prefer suitable alternative site aur approved collection method. Infusion ko khud se interrupt karne ke bajay local protocol aur responsible team se coordinate karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** IV fluid electrolytes, glucose aur drug concentrations affect kar sakti hai. Isliye interference possible hai.
+- **B (Galat):** Infusion venous blood ko arterial blood mein convert nahi karti.
+- **C (Galat):** Infusion contamination accuracy improve nahi karti. Yeh preanalytical error ho sakti hai.
+- **D (Sahi):** Dilution ya infused substance contamination measured lab value change kar sakti hai. Yahi relevant risk hai.
+
+**Exam clue:** Active IV ke paas sample lene se pehle validated sampling policy check karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138665/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3332,9 +3373,22 @@ Sweat evaporate hone ke liye heat energy use karta hai. Is energy loss se skin a
 
 **Correct: A. Pseudohyperkalemia from release of intracellular potassium**
 
-RBC rupture se intracellular potassium sample mein release hota hai. Result falsely high ho sakta hai, lekin clinical status aur ECG assess karna zaroori hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hemolysis true disease prove nahi karti. Potassium falsely low hona typical nahi hai. Serious clinical concern ignore nahi karna chahiye.
+Hemolysis ka matlab blood cells ka tootna hai. Red blood cells ke andar potassium concentration plasma se zyada hoti hai. Cells tootne par potassium sample mein release hota hai aur laboratory value falsely high aa sakti hai. Lekin real hyperkalemia bhi dangerous hai. Patient assessment, ECG as indicated, urgent clinical communication aur valid repeat sample arrange karo. Treatment decision clinical team leti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Pseudohyperkalemia mein reported potassium high hota hai lekin sample artifact contribute kar sakta hai. Hemolysis ek important clue hai.
+- **B (Galat):** High potassium cardiac rhythm affect kar sakta hai. Hemolyzed result ko dekhkar patient assessment skip nahi karna.
+- **C (Galat):** Hemolysis true hyperkalemia prove nahi karti aur true hyperkalemia ko exclude bhi nahi karti.
+- **D (Galat):** Hemolysis potassium ko falsely high kar sakti hai, low hona usual expected effect nahi.
+
+**Exam clue:** Hemolyzed potassium high: consider artifact, assess patient and verify.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138665/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
