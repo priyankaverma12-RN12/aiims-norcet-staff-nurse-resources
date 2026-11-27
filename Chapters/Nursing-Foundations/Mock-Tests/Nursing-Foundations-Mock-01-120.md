@@ -943,7 +943,9 @@ Cuff deflate karne par artery mein blood spurts start hote hain. First clear tap
 
 ### Q44. A patient with hearing loss appears confused during instruction. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Provide instructions while facing away
 - **B.** Check hearing aids, reduce background noise and face the patient clearly
@@ -958,6 +960,16 @@ Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur 
 
 **Baaki options kyun sahi nahi hain?** Shouting sound distort kar sakti hai. Hearing loss dementia prove nahi karta. Facing away visual cues reduce karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q3](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q3-a-patient-with-hearing-loss-appears-confused-during-instruction-what-should-the-nurse-do-first)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q3](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -1048,7 +1060,9 @@ Grief natural response hai aur har person ka pattern different ho sakta hai. Nur
 
 ### Q49. A patient remains silent after receiving difficult news. Which initial nursing response is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Remain present quietly and allow time for the patient to respond
 - **B.** Tell the patient not to cry
@@ -1063,6 +1077,16 @@ Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse su
 
 **Baaki options kyun sahi nahi hain?** Demand pressure create karti hai. Topic change aur crying rokna feelings dismiss kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q2](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q2-a-patient-remains-silent-after-receiving-difficult-news-which-initial-nursing-response-is-appropriate)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q2](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -1090,7 +1114,9 @@ Unconscious patient secretions safely swallow nahi kar paata. Suitable side or h
 
 ### Q51. Which phrase demonstrates clarification in a therapeutic conversation?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 NVS Staff Nurse 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** When you say you feel weak, do you mean dizziness or difficulty moving your legs?
 - **B.** That cannot be true
@@ -1105,6 +1131,16 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 
 **Baaki options kyun sahi nahi hain?** Exact feelings assume karna, advice impose karna aur disbelief communication block kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q4](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q4-which-phrase-demonstrates-clarification-in-a-therapeutic-conversation)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q4](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -1153,7 +1189,9 @@ Adult CPR mein 100–120 compressions per minute recommended hain. Rate ke saath
 
 ### Q54. A patient says, I am afraid of my surgery tomorrow. Which response best encourages therapeutic communication?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** You should not feel afraid
 - **B.** There is nothing to worry about
@@ -1168,6 +1206,16 @@ Open-ended question patient ko apni concern explain karne ka chance deta hai. Nu
 
 **Baaki options kyun sahi nahi hain?** False reassurance, comparison aur feelings dismiss karna communication ko block kar sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q1](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q1-a-patient-says-i-am-afraid-of-my-surgery-tomorrow-which-response-best-encourages-therapeutic-communication)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q1](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
