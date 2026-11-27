@@ -28,10 +28,12 @@ jobs:
           node website/quiz.test.cjs
       - name: Browser test dependencies
         run: |
-          python -m pip install playwright==1.56.0
+          python -m pip install playwright==1.56.0 markdown-it-py==3.0.0
           python -m playwright install --with-deps chromium
       - name: Build source inventory and media cache
         run: python website/build-site-data.py
+      - name: Inventory navigation files and candidate fragment targets
+        run: python website/navigation-audit.py
       - name: Test checked-out navigation at three widths
         run: python website/navigation-smoke.py
       - name: Full reader and quiz integration gate
@@ -41,5 +43,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: navigation-source-audit
-          path: website/source-audit.json
+          path: |
+            website/source-audit.json
+            website/navigation-audit.json
           if-no-files-found: ignore
