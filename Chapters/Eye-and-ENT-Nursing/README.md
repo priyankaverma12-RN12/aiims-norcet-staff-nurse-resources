@@ -108,4 +108,4 @@ Ptosis expansion, 27 November 2026: resumed at 3ba35c45d384cb9d4060a6da6731a9e09
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-dacryocystitis-20261127-1445. Scope: Dacryocystitis Concepts, MCQs, Assets, Previous-Year-Questions and local topic indexes only. Excludes all Mock-Tests and global indexes. Claimed UTC: 2026-11-27T14:45:33Z. Expiry UTC: 2026-11-27T15:15:33Z. -->
