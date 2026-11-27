@@ -986,9 +986,22 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 **Correct: A. EDTA**
 
-EDTA calcium bind karke clotting prevent karti hai aur blood cell count ke liye sample suitable rakhti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Citrate coagulation tests aur fluoride glucose tests mein use ho sakti hain. Clotted CBC sample unsuitable ho sakta hai.
+CBC yani complete blood count red cells, white cells, platelets aur related indices measure karta hai. EDTA calcium ions bind karke clot formation rokta hai aur routine hematology ke liye cell suspension preserve karne mein help karta hai. Correct tube, fill aur gentle mixing lab instructions ke according rakho.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** EDTA routine CBC ke liye commonly used anticoagulant hai. Yeh calcium bind karke clotting prevent karta hai.
+- **B (Galat):** Clotted blood mein cells aur platelets clot mein trap ho sakte hain, isliye routine CBC unreliable ho sakta hai.
+- **C (Galat):** Sodium citrate routinely coagulation tests ke liye select hota hai. Specialized hematology exceptions routine CBC rule ko change nahi karti.
+- **D (Galat):** Fluoride glycolysis slow karne ke liye glucose sampling systems mein use ho sakta hai. Routine CBC ke liye preferred additive nahi hai.
+
+**Exam clue:** CBC = EDTA. Tube color manufacturer aur laboratory se verify karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1519,9 +1532,22 @@ New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka
 
 **Correct: A. Gently invert it according to manufacturer directions**
 
-Gentle inversion additive ko blood ke saath distribute karti hai. Excess shaking cell damage cause kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Vigorous shaking hemolysis risk hai. Open stirring contamination aur clotting test error cause kar sakte hain.
+Anticoagulant ko collected blood mein uniformly mix hona chahiye. Manufacturer ki recommended gentle inversions se mixing hoti hai bina unnecessary mechanical stress ke. Har tube ka inversion count same nahi hota. Sample mein clot, foam ya hemolysis ho toh lab instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Gentle inversion additive ko distribute karti hai aur excessive shaking se bachati hai.
+- **B (Galat):** Tube kholkar nonsterile stick use karna contamination aur exposure risk badhata hai.
+- **C (Galat):** Anticoagulated sample ko clot hone dena intended test ko unreliable bana sakta hai.
+- **D (Galat):** Vigorous shaking cells ko damage kar sakti hai aur foam ya hemolysis ka risk badha sakti hai.
+
+**Exam clue:** Mix gently as directed, never assume universal inversion count.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138665/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1571,9 +1597,22 @@ Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce
 
 **Correct: B. Excess citrate relative to blood may prolong measured clotting time**
 
-Blood volume kam ho toh citrate proportion zyada ho jaata hai. Extra calcium binding test ko distort kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Underfill accuracy improve nahi karti. Calcium binding citrate ka mechanism hai aur ratio relevant hai.
+Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bahut kam sample aata hai toh blood ke comparison mein citrate zyada ho jaata hai. Lab mein calcium add karne par bhi extra citrate calcium bind kar sakta hai, jis se clotting time falsely prolonged aa sakta hai. Lab rejection ya recollection policy follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Ratio coagulation results ke liye important hai. Fill line ignore karna error cause kar sakta hai.
+- **B (Sahi):** Extra citrate clot formation delay kar sakta hai, isliye measured clotting time falsely long aa sakta hai.
+- **C (Galat):** Citrate calcium bind karta hai. Underfill mein yeh effect relative amount ke hisaab se zyada ho sakta hai.
+- **D (Galat):** Underfill blood aur additive ratio disturb karta hai. Accuracy improve nahi hoti.
+
+**Exam clue:** Underfilled citrate tube = ratio error and possible false prolongation.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138675/?report=classic)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1613,9 +1652,22 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 **Correct: B. Sodium citrate with correct blood-to-additive ratio**
 
-Citrate calcium reversibly bind karti hai aur lab controlled clotting test kar sakti hai. Correct fill level important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** EDTA CBC, fluoride glucose aur clot activator serum collection se related hain.
+PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clotting pathways assess karte hain. Sodium citrate calcium ko reversibly bind karta hai. Lab controlled calcium aur reagents add karke clot banne ka time measure karti hai. Standard collection mein blood-to-citrate ratio aam taur par 9:1 hota hai, aur high hematocrit jaise exceptions mein lab adjustment kar sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** EDTA strong calcium binding karta hai aur routine CBC ke liye suitable hai. Routine coagulation testing ka standard nahi.
+- **B (Sahi):** Correct citrate ratio sample aur reagent ke balance ko maintain karta hai. Routine PT/aPTT ke liye yahi appropriate option hai.
+- **C (Galat):** Clot activator serum formation promote karta hai. Coagulation test ke liye properly anticoagulated plasma chahiye.
+- **D (Galat):** Fluoride glucose metabolism ko slow karne wale sample additives mein use ho sakta hai. PT/aPTT ke liye standard nahi.
+
+**Exam clue:** PT/aPTT = sodium citrate, correct fill line.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
