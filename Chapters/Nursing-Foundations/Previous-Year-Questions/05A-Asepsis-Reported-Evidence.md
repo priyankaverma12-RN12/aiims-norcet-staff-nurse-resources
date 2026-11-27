@@ -16,10 +16,14 @@ D. Dry the gauze and continue the procedure
 
 **Correct answer: C. Recognize contamination, discard the gauze and assess the contacted field for replacement**
 
-- **A (Incorrect):** Hand hygiene microorganisms reduce karti hai but bare skin ko completely sterile nahi banati. Sterile patient-contact item bare skin se touch hone par compromised maana jaata hai.
-- **B (Incorrect):** Contaminated gauze wapas supply container mein rakhne se aur sterile supplies compromise ho sakti hain.
-- **C (Correct):** Sterile gauze ka bare-hand contact asepsis breach hai. Gauze discard karo and field contact ki extent assess karke affected setup replace karo before planned patient contact.
-- **D (Incorrect):** Drying se item sterilize nahi hota, visible dryness sterility prove nahi karti.
+- **A (Incorrect):** Hand hygiene transient microorganisms ko reduce karti hai, lekin bare skin par resident flora still present ho sakti hai. Isliye washed bare hand ka contact sterile gauze ko safely sterile nahi rakhta. Patient ke wound ya invasive site par aisi gauze use karne se microorganisms introduce ho sakte hain.
+- **B (Incorrect):** Contaminated gauze ko sterile supply container mein return karne se baaki gauze aur container ki inner surface compromise ho sakti hai. Suspect item ko separate discard karo, sterile stock mein wapas mat rakho.
+- **C (Correct):** Sterile instrument se transfer sahi ho sakta hai, lekin uske baad bare-hand contact ek aseptic breach hai. Gauze ko discard karo aur central sterile field jahan gauze rakhi gayi thi uski contamination extent assess karo. Agar field ya affected items ki sterility verify nahi ho sakti toh unhe replace karke fresh setup banao. Planned patient contact se pehle asepsis restore karna zaroori hai. Historical source ka legacy forceps storage discussion current recommended reprocessing method nahi maana jaana chahiye.
+- **D (Incorrect):** Drying moisture reduce karti hai, lekin microorganisms ko eliminate karne wala validated sterilization process nahi hai. Dry gauze bhi contaminated ho sakti hai.
+
+**Exam clue:** Sterile item touches bare skin = treat as contaminated. Assess everything it subsequently touched.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
 
 [Direct reported source](https://testbook.com/question-answer/ot-nurse-opens-sterile-drum-and-takes-gauze-with-c--62c26d243e1d91e41c2fe299) · [Open RN clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596727/) · [Concept guide](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#gloves-and-breach-response)
 
