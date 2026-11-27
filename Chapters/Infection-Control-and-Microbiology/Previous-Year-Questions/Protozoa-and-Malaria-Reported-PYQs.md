@@ -36,6 +36,9 @@ Which conventional laboratory method can identify malaria parasites, determine s
 
 </details>
 
+
+> **Duplicate-count control:** This file preserves an alternate revision wording of two exam items already listed in [the canonical malaria and helminths PYQ bank](19-20-Malaria-and-Helminths-Reported-PYQ-Adaptations.md). Both share the same source question IDs. Count zero additional historical items for this file. Prefer the canonical bank for exam inventory.
+
 ## Evidence gap
 
 General examination searches also yielded overlapping malaria causative-agent questions. They were not counted again. Further distinct PGIMER, SGPGI, JIPMER, HPRCA/HPSSC, ESIC, DSSSB, CHO and non-malaria protozoal recruitment items remain pending. The two adaptations above are historical exam-linked revision, not additional original MCQ authorship. [Clinical sources](../Concepts/19-Protozoa-and-Malaria.md)
