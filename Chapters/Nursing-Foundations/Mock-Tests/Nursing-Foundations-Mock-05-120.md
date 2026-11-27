@@ -583,9 +583,19 @@ Clear communication uncertainty kam karne mein help karti hai. Patient consent a
 
 **Correct: B. Secondary intention**
 
-Secondary intention mein tissue gap granulation, contraction aur epithelialization se close hota hai. Wound size ke hisaab se time longer ho sakta hai.
+Secondary intention mein wound edges immediately close nahi ki jaati. Wound depth aur gap ko granulation tissue fill karta hai, contraction se area reduce hota hai aur epithelial cells surface cover karte hain. Healing ka duration wound size, perfusion aur infection par depend karta hai. Wound care ka goal healing environment support karna hai.
 
-**Baaki options kyun sahi nahi hain?** Primary intention edges close karta hai. Immediate closure different approach hai. Open wound bhi heal kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Immediate surgical closure secondary intention ke described open healing process se different hai.
+- **B (Sahi):** Granulation, contraction aur epithelialization se open tissue gap ka heal hona secondary intention hai.
+- **C (Galat):** Primary intention mein edges initially close ki jaati hain, jo stem mein nahi ho raha.
+- **D (Galat):** Open wound bhi repair kar sakti hai. Open hona no healing response ka proof nahi hai.
+
+**Exam clue:** Secondary = open wound fills and contracts.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -698,9 +708,19 @@ Adult pinna ko gently up-back move karne se canal straighten ho sakti hai. Young
 
 **Correct: B. Provide regular individualized oral care despite the NPO order**
 
-NPO ka matlab oral intake restriction hai, oral hygiene restriction nahi. Mouth care comfort aur bacterial burden reduce karne mein help karti hai, with aspiration precautions.
+NPO ka matlab nil per os yani mouth se food, drink ya medicines restricted as ordered. Iska matlab mouth care band karna nahi hai. Oral bacteria, dryness aur plaque accumulate ho sakte hain. Assessed oral hygiene aur aspiration precautions ke saath mouth clean rakho, zarurat par trained suction-assisted care use karo. Water swallow karne ki permission NPO order se alag verify hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Hygiene avoid karna dryness aur plaque badha sakta hai. Unapproved drinking unsafe ho sakti hai. Oral care nutrition nahi deti.
+**Option-wise explanation:**
+- **A (Galat):** Oral hygiene nutrition ke calories aur nutrients supply nahi karti.
+- **B (Sahi):** Regular individualized oral care comfort aur oral health improve karti hai, even if patient NPO hai.
+- **C (Galat):** Oral hygiene stop karne se plaque, dryness aur bacterial burden badh sakta hai.
+- **D (Galat):** Unapproved water aspiration restriction violate kar sakta hai.
+
+**Exam clue:** NPO does not mean no oral care.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -795,9 +815,19 @@ Routine care trained assistant ko delegate ho sakti hai if patient condition sta
 
 **Correct: C. Withhold the product until the ingredient and safe alternatives are verified**
 
-Food allergy severe reaction cause kar sakti hai. Nurse label aur allergy history verify karke dietitian-prescriber se suitable alternative arrange karti hai.
+Food allergy mein immune system specific ingredient ko harmful samajhkar reaction kar sakta hai. Severe reaction anaphylaxis tak progress kar sakti hai, jisme breathing ya circulation affect hoti hai. Product hold karo, ingredient list aur allergy record verify karo aur prescriber/dietitian se safe alternative arrange karo. Cross-contact risk bhi consider karo. Reaction develop ho toh urgent emergency protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Small trial aur dilution risk eliminate nahi karte. Allergy alert remove karna unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Unauthorized trial dose even small amount mein severe reaction trigger kar sakti hai.
+- **B (Galat):** Food allergy bhi important safety alert hai. Alert remove karna future exposure ka risk badhata hai.
+- **C (Sahi):** Withhold and verify ingredients, allergy history and safe alternative exposure prevent karta hai.
+- **D (Galat):** Dilution allergen ko remove nahi karti aur reaction ka risk rehta hai.
+
+**Exam clue:** Known severe allergy = hold and verify before administration.
+
+**Clinical references:** [FDA food allergy safety](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -884,9 +914,19 @@ Advocacy mein nurse patient ki needs, rights aur preferences treatment team tak 
 
 **Correct: D. Prolonged moisture softens and weakens surrounding skin**
 
-Moisture prolonged contact mein skin barrier weaken kar sakti hai aur surrounding skin white-soft dikh sakti hai. Suitable dressing exudate manage karne mein help karti hai.
+Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla fluid agar lambe time tak skin ke contact mein rahe, toh skin waterlogged, soft aur fragile ho sakti hai. Isse maceration kehte hain. Suitable absorbent dressing, appropriate change interval aur skin barrier se excess moisture control karo. Wound bed ke liye moist environment aur surrounding skin ki protection alag cheezein hain.
 
-**Baaki options kyun sahi nahi hain?** Excess moisture barrier strengthen nahi karti. Exudate sterile hona guaranteed nahi hai. Tissue damage possible hai.
+**Option-wise explanation:**
+- **A (Galat):** Excess fluid epidermal barrier ko permanently strong nahi banata. Skin breakdown risk badhta hai.
+- **B (Galat):** Controlled moisture healing support kar sakti hai, lekin excess moisture skin damage cause kar sakti hai.
+- **C (Galat):** Exudate microbial growth ko hamesha eliminate nahi karta. Wound cause aur infection assess karni chahiye.
+- **D (Sahi):** Prolonged moisture skin barrier ko soften aur weaken karti hai, jo maceration ka mechanism hai.
+
+**Exam clue:** Moist wound bed does not mean soggy periwound skin.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -1214,9 +1254,19 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 **Correct: C. Consistent measurements, tissue appearance, drainage, surrounding skin and pain findings**
 
-Standardized wound measurements aur descriptions se trend compare karna possible hota hai. Nurse patient response aur infection signs bhi document karti hai.
+Wound progression ko compare karne ke liye same standardized measurement technique use karo. Length, width aur appropriate depth ke saath tissue appearance, exudate, odor where relevant, surrounding skin, pain aur tunneling/undermining agar present ho toh protocol ke hisaab se record karo. Previous assessment se compare karo, taaki healing ya deterioration objectively identify ho sake.
 
-**Baaki options kyun sahi nahi hain?** Vague phrase aur brand alone insufficient hain. Inconsistent measurements reliable comparison reduce karti hain.
+**Option-wise explanation:**
+- **A (Galat):** Dressing brand useful detail ho sakti hai, lekin wound findings ko replace nahi kar sakti.
+- **B (Galat):** Sirf better likhne se objective size, drainage ya tissue condition ka pata nahi chalta.
+- **C (Sahi):** Consistent measurements aur clinical findings together healing trend aur complications evaluate karne mein help karte hain.
+- **D (Galat):** Har baar unrecorded different technique se dimensions compare karna unreliable ho jaata hai.
+
+**Exam clue:** Use consistent dimensions plus wound bed, drainage, periwound and pain.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/) · [Reference 2](https://opentextbc.ca/clinicalskills/chapter/wound-assessment/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -1508,9 +1558,19 @@ Gentle relaxation aur supportive conversation tension reduce karne mein help kar
 
 **Correct: D. Protect and assess perfusion and obtain wound specialist guidance rather than automatically debriding**
 
-Stable heel eschar protective covering ki tarah act kar sakti hai. Ischemia mein debridement se injury worsen ho sakti hai, isliye specialist assessment important hai.
+Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent aur intact hoti hai aur surrounding redness, drainage ya fluctuance nahi hoti. Poor limb perfusion yani blood supply kam hone par automatic debridement se wound enlarge ho sakti hai aur healing difficult ho sakti hai. Heel offload aur protect karo, vascular perfusion aur infection signs assess karo, wound/vascular specialist ko involve karo. Agar eschar unstable ho ya infection ke signs develop hon toh urgent reassessment chahiye.
 
-**Baaki options kyun sahi nahi hain?** Forceful removal, unapproved soaking aur massage tissue compromise kar sakte hain. Stage 2 classification appropriate nahi hai.
+**Option-wise explanation:**
+- **A (Galat):** Eschar stage 2 ka feature nahi hai. Massage vulnerable heel tissue ko injure kar sakti hai.
+- **B (Galat):** Bina assessment soaking se stable dry covering soften ho sakti hai aur underlying ischemic tissue expose ho sakta hai.
+- **C (Galat):** Forceful removal se viable tissue damage, larger wound aur infection risk ho sakta hai. Staging ke liye bhi automatic removal nahi karte.
+- **D (Sahi):** Protection, perfusion assessment aur specialist guidance is specific stable ischemic heel finding mein appropriate hain.
+
+**Exam clue:** Stable dry heel/ischemic eschar: protect, assess, do not automatically soften or remove.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -1823,9 +1883,19 @@ Food intake kuch test values influence kar sakta hai. Actual fasting status resu
 
 **Correct: A. Count flush water and other measurable fluids toward the ordered allowance**
 
-Enteral flush water body mein absorb ho sakti hai aur fluid intake ka part hai. Nurse total allowance track karke necessary patency aur hydration plan coordinate karti hai.
+Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid restriction heart, renal ya doosri conditions mein fluid accumulation control karne ke liye prescribe ho sakti hai. Formula water content, flush water, medicines ke saath water aur other measurable fluids local accounting plan ke mutabik track karo. Essential flushes ka safe volume dietitian/prescriber ke saath coordinate karo.
 
-**Baaki options kyun sahi nahi hain?** Flush omit karna record inaccurate karta hai. Unapproved increase restriction exceed kar sakti hai. Stopping flushes blockage risk badha sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** All relevant measured fluid count karna accurate balance aur safe restriction plan support karta hai.
+- **B (Galat):** Essential flush stop karne se blockage aur medicine delivery problem ho sakti hai.
+- **C (Galat):** Bina order volume increase prescribed allowance exceed kar sakta hai.
+- **D (Galat):** Flush exclude karne se total intake underestimate hota hai.
+
+**Exam clue:** Flushes count toward fluid intake. Coordinate required patency volumes.
+
+**Clinical references:** [NHS SPS medicines via enteral tubes](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/) · [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2695,9 +2765,19 @@ Transfer par previous setting current order se mismatch ho sakti hai. Patient co
 
 **Correct: A. Nausea, abdominal discomfort or distension, stool pattern and respiratory symptoms**
 
-Feed tolerance gastrointestinal aur respiratory findings se assess hoti hai. Nurse changes ko prescribed protocol ke according report karti hai.
+Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain. Nausea, vomiting, abdominal discomfort/distension, stool pattern aur respiratory change feed intolerance ya another problem indicate kar sakte hain. Findings ko trend, medicines, hydration aur clinical condition ke saath assess karo. Acute respiratory symptoms mein immediate safety action chahiye, sirf routine charting nahi.
 
-**Baaki options kyun sahi nahi hain?** Hair color, furniture aur bag transparency patient tolerance measure nahi karte.
+**Option-wise explanation:**
+- **A (Sahi):** GI aur respiratory symptoms clinically relevant indicators hain jo further assessment guide karte hain.
+- **B (Galat):** Bag transparency equipment feature hai, patient tolerance ka proof nahi.
+- **C (Galat):** Hair color enteral feeding tolerance se directly related nahi hai.
+- **D (Galat):** Bedside table ka brand GI ya respiratory tolerance measure nahi karta.
+
+**Exam clue:** Assess GI and respiratory tolerance, not equipment appearance alone.
+
+**Clinical references:** [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/) · [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
