@@ -1,8 +1,8 @@
-# 📝 Day 1 — Respiratory Anatomy & Physiology: 40 Practice MCQs
+# 📝 Day 1 — Respiratory Anatomy & Physiology: 44 Practice MCQ slots (including revision overlaps)
 
 [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🎯 Final mock](Day-01-Final-Mock-15.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
-> **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi.
+> **Dhyan de:** Sawaal aur A/B/C/D options original English mein hain. Answer ki explanation easy Hinglish mein hai. Ye practice questions hain, actual Previous Year Questions nahi. Pehle solve kiye hue stems/options aur status preserve kiye gaye hain. Revision overlap ko unique authorship mein double-count mat karo.
 
 ## 🎬 YouTube se concept aur MCQ practice
 
@@ -10,7 +10,7 @@
 
 - **Concept video:** [Bhushan Science Nursing — Respiratory full chapter](https://www.youtube.com/watch?v=g6top1bzdUg)
 - **MCQ practice:** [Dear Competitive Exams — Respiration Physiology MCQs](https://youtu.be/nLSz8qI5Pgo)
-- [Day 1 ke har topic ke concept + video links](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md). Doosre [mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) mein unstudied advanced topics skip karo.
+- [Day 1 ke har topic ke concept + video links](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md). [Aarogyam Infinity Part 27 respiratory MCQs](https://www.youtube.com/watch?v=lAy0Cb9o5ss) — published description covers conducting zone, lung lobes, breathing muscles, gas exchange and lung volumes. Q1–30 and Q41–44 topic-level practice, exact item matches pending. Doosre [mixed respiratory MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) mein unstudied advanced topics skip karo.
 
 ### Kaise solve karna hai?
 
@@ -35,15 +35,23 @@
 - **C.** Trachea
 - **D.** Bronchiole
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Larynx** ko voice box kehte hain, kyunki ismein vocal folds hote hain. Pharynx air/food ka common passage hai.
+**Correct answer: B. Larynx**
 
-**Baaki options kyun nahi?** Pharynx food + air ka passage hai, trachea windpipe hai, aur bronchiole chhoti airway hai. Inmein se voice produce karne ka specific organ **larynx** hai.
+**Kyun sahi hai?** Larynx mein vocal folds hote hain. Inki vibration se voice generate hoti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Pharynx air aur food ka passage hai.
+- **C.** Trachea air ko lungs ki taraf conduct karti hai.
+- **D.** Bronchiole chhoti airway hai, voice organ nahi.
 
 **Exam trick:** Voice box aur windpipe ko ek mat samajhna.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -56,15 +64,23 @@
 - **C.** Epiglottis
 - **D.** Trachea
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** **Epiglottis** swallowing ke time laryngeal inlet ki protection mein help karta hai.
+**Correct answer: C. Epiglottis**
 
-**Baaki options kyun nahi?** Carina trachea ke split hone ka point hai; uvula soft palate ka part, trachea windpipe. Inmein se **epiglottis** swallowing ke waqt laryngeal inlet ke protection mein participate karta hai.
+**Kyun sahi hai?** Swallowing ke time epiglottis laryngeal inlet ko cover karne mein help karti hai. Airway protection mein vocal fold closure aur swallowing coordination bhi important hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Carina trachea ki bifurcation hai.
+- **B.** Uvula soft palate ka part hai.
+- **D.** Trachea air passage hai, laryngeal inlet ko guard karne wali flap nahi.
 
 **Exam trick:** Epiglottis airway ko protect karta hai, food digestion nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -77,15 +93,23 @@
 - **C.** Alveolar duct
 - **D.** Alveolar sac
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Terminal bronchiole** conducting zone ka last part hai. Respiratory bronchiole se gas-exchange zone start hota hai.
+**Correct answer: A. Terminal bronchiole**
 
-**Baaki options kyun nahi?** Respiratory bronchiole se gas exchange shuru hota hai, alveolar duct aur alveolar sac iske baad aate hain. **Terminal bronchiole** abhi conducting passage ka hissa hai.
+**Kyun sahi hai?** Terminal bronchiole conducting zone ka aakhri segment hai. Iske baad respiratory bronchiole se respiratory zone shuru hota hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Respiratory bronchiole mein gas exchange shuru ho sakta hai.
+- **C.** Alveolar duct respiratory zone mein hai.
+- **D.** Alveolar sac gas-exchanging alveoli ka cluster hai.
 
 **Exam trick:** Terminal = conducting zone END.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -98,15 +122,25 @@
 - **C.** Larynx
 - **D.** Respiratory bronchiole
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **Respiratory bronchiole** respiratory zone ka first part hai. Terminal bronchiole abhi conducting zone mein hota hai.
+**Correct answer: D. Respiratory bronchiole**
 
-**Baaki options kyun nahi?** Primary bronchus aur larynx air conduct karte hain; terminal bronchiole bhi conducting zone mein hai. **Respiratory bronchiole** ke walls par alveolar outpouchings se gas exchange ka chance shuru hota hai.
+**Kyun sahi hai?** Respiratory bronchiole respiratory zone ka first part hai. Iski walls mein alveoli hoti hain jahan gas exchange possible hai.
 
-**Exam trick:** Question mein FIRST respiratory-zone part poochha ho toh D.
+**Baaki options kyun galat hain?**
+
+- **A.** Primary bronchus air conduct karta hai.
+- **B.** Terminal bronchiole conducting zone ka last part hai.
+- **C.** Larynx conducting airway aur voice production mein involved hai.
+
+**Exam trick:** Respiratory bronchiole se respiratory zone shuru hota hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
+
+**Revision mapping:** Q3 complementary recall. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -119,15 +153,23 @@
 - **C.** Transporting oxygenated blood
 - **D.** Main alveolar gas exchange
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Nose air ko **warm, filter aur humidify** karta hai—yaani garam, clean aur moist banata hai.
+**Correct answer: B. Warming, filtering and humidifying air**
 
-**Baaki options kyun nahi?** Surfactant Type II alveolar cells banate hain, naak nahi. Oxygenated blood transport pulmonary vessels ka kaam hai, aur gas exchange lungs ke alveoli mein hota hai.
+**Kyun sahi hai?** Nasal passages incoming air ko warm aur moist karti hain aur particles trap karne mein help karti hain. Isse lower airways ko conditioning milti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Surfactant mainly Type II pneumocytes banate hain.
+- **C.** Blood transport vessels ka function hai.
+- **D.** Main gas exchange alveoli mein hota hai.
 
 **Exam trick:** Nose ka role conditioning: warm + filter + humidify.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -150,15 +192,23 @@
 - **C.** Four
 - **D.** One
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Right lung = 3 lobes**. Left lung = 2 lobes. Ye NORCET ka favourite factual point hai.
+**Correct answer: B. Three**
 
-**Baaki options kyun nahi?** Two lobes **left** lung ke hain, four aur one usual adult lungs ke lobe counts nahi. Right lung mein superior, middle aur inferior lobes hote hain.
+**Kyun sahi hai?** Healthy adult right lung mein superior, middle aur inferior lobes hote hain. Left lung mein do lobes hote hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Two left lung ka usual count hai.
+- **C.** Four usual right lung lobe count nahi hai.
+- **D.** One bhi usual right lung count nahi hai.
 
 **Exam trick:** Right 3 / Left 2 + left cardiac notch.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -171,15 +221,23 @@
 - **C.** Cardiac notch
 - **D.** Tracheal ring
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** **Cardiac notch** left lung mein heart ke liye jagah banata hai.
+**Correct answer: C. Cardiac notch**
 
-**Baaki options kyun nahi?** Horizontal fissure right lung se associated hai; carina tracheal bifurcation hai; tracheal ring airway support deta hai. **Cardiac notch** left lung ki heart-facing indentation hai.
+**Kyun sahi hai?** Cardiac notch left lung ke anterior border ki indentation hai jo heart ke liye space provide karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Horizontal fissure right lung mein hoti hai.
+- **B.** Carina tracheal bifurcation hai.
+- **D.** Tracheal ring trachea ko support karti hai.
 
 **Exam trick:** Left = heart ke liye jagah.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -192,15 +250,23 @@
 - **C.** Both equally
 - **D.** Neither
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Right main bronchus** relatively shorter, wider aur more vertical hota hai, isliye aspirated object is taraf zyada ja sakta hai.
+**Correct answer: B. Right**
 
-**Baaki options kyun nahi?** Left main bronchus comparatively longer aur less vertical hota hai. Isliye typical adult aspiration question mein **right** choose karte hain, dono equally nahi.
+**Kyun sahi hai?** Typical adult anatomy mein right main bronchus wider, shorter aur more vertical hota hai. Is wajah se aspirated object aksar right side enter karta hai, lekin patient age, position aur object ke hisaab se left side bhi possible hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Left bronchus comparatively narrow aur horizontal hai.
+- **C.** Dono sides ka risk har situation mein equal nahi hai.
+- **D.** Foreign body kisi bhi main bronchus mein enter kar sakta hai.
 
 **Exam trick:** Right: shorter + wider + more vertical.
+
+[Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK537353/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -213,15 +279,23 @@
 - **C.** Left ventricle
 - **D.** Left atrium
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **Pulmonary veins → Left atrium**. Left ventricle uske baad aayega.
+**Correct answer: D. Left atrium**
 
-**Baaki options kyun nahi?** Right atrium systemic venous blood leta hai; right ventricle se blood lungs jaata hai; left ventricle mein blood left atrium ke baad aata hai. **Pulmonary veins pehle left atrium** mein open hoti hain.
+**Kyun sahi hai?** Pulmonary veins lungs se oxygenated blood left atrium mein return karti hain. Phir mitral valve se blood left ventricle mein jaata hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Right atrium systemic venous blood receive karta hai.
+- **B.** Right ventricle blood ko lungs bhejta hai.
+- **C.** Left ventricle left atrium ke baad blood receive karta hai.
 
 **Exam trick:** Pathway: RV → lungs → LA.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -234,15 +308,23 @@
 - **C.** Oxygenated to the right atrium
 - **D.** Deoxygenated to the left atrium
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Pulmonary arteries **deoxygenated blood** ko right ventricle se lungs tak le jaati hain.
+**Correct answer: A. Deoxygenated to the lungs**
 
-**Baaki options kyun nahi?** Artery/vein ka naam **direction** se decide hota hai, O₂ se nahi. Pulmonary artery RV se lungs jaati hai; oxygenated pulmonary venous blood left atrium mein wapas aata hai.
+**Kyun sahi hai?** Pulmonary arteries right ventricle se relatively deoxygenated blood lungs tak le jaati hain. Artery ka naam blood flow ki direction se decide hota hai, oxygen level se nahi.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Oxygenated blood body tak systemic arteries le jaati hain.
+- **C.** Pulmonary arteries right atrium mein oxygenated blood return nahi karti.
+- **D.** Left atrium mein pulmonary veins oxygenated blood return karti hain.
 
 **Exam trick:** Pulmonary circulation systemic circuit ki oxygen-label rule se different lag sakti hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -265,15 +347,23 @@
 - **C.** Macrophage
 - **D.** Capillary endothelial cell
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Type II pneumocytes** surfactant banate hain. Type I gas exchange mein help karte hain.
+**Correct answer: B. Type II pneumocyte**
 
-**Baaki options kyun nahi?** Type I thin gas-exchange surface provide karta hai; macrophage germs clean karta hai; endothelial cells capillary wall ka part hain. **Type II** surfactant manufacture karta hai.
+**Kyun sahi hai?** Type II pneumocytes pulmonary surfactant produce karte hain. Surfactant surface tension kam karta hai aur alveoli ko stable rakhne mein help karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Type I pneumocyte thin diffusion surface provide karta hai.
+- **C.** Macrophage debris aur microbes engulf karta hai.
+- **D.** Capillary endothelial cell blood vessel wall ka part hai.
 
 **Exam trick:** II = surfactant; I = exchange.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -286,15 +376,23 @@
 - **C.** Provide thin gas-exchange surface
 - **D.** Make surfactant
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** **Type I pneumocytes** ek thin gas-exchange surface provide karte hain.
+**Correct answer: C. Provide thin gas-exchange surface**
 
-**Baaki options kyun nahi?** Mucus production mainly goblet cells jaise airway cells ka role hai; phagocytosis macrophages karte hain; surfactant Type II banate hain. **Type I** thin cell barrier se gas diffusion support karta hai.
+**Kyun sahi hai?** Type I pneumocytes thin alveolar lining ka major surface area banate hain. Inki patli structure gas diffusion facilitate karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Mucus mainly conducting airway ke goblet cells se aata hai.
+- **B.** Phagocytosis alveolar macrophages ka role hai.
+- **D.** Surfactant Type II pneumocytes banate hain.
 
 **Exam trick:** Question cell-function match mein ek-ek role check karo.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -307,15 +405,25 @@
 - **C.** Type II pneumocyte
 - **D.** Ciliated tracheal cell
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Alveolar macrophages** phagocytosis ke through dust aur microbes clean karte hain.
+**Correct answer: A. Alveolar macrophage**
 
-**Baaki options kyun nahi?** Type I aur Type II pneumocytes primarily exchange/surfactant roles wale hain. Ciliated tracheal cells mucus clearance mein help karte hain, alveolar phagocytosis nahi. **Macrophages = scavenger/cleaning cell**.
+**Kyun sahi hai?** Alveolar macrophages inhaled debris aur microbes engulf karke alveolar defense mein help karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Type I cells gas exchange barrier ka part hain.
+- **C.** Type II cells surfactant produce karte hain.
+- **D.** Ciliated tracheal cells mucus transport mein help karte hain, alveolar phagocyte nahi hain.
 
 **Exam trick:** Macrophages ko alveolar dust-cell bhi keh sakte hain.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)
+
+**Related paper evidence:** HPSSC Staff Nurse Post Code 933, 10 April 2022, Series A Q3. Extracted scan text confirms the macrophage concept, not the identical practice options. Official answer key not verified. [Scan](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3).
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -328,15 +436,23 @@
 - **C.** More alveolar oxygen production
 - **D.** Expansion without effort
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Surfactant kam → **surface tension badhegi** → alveoli collapse ka risk badhega.
+**Correct answer: B. Higher surface tension and collapse tendency**
 
-**Baaki options kyun nahi?** Surfactant normally tension **kam** karta hai. Deficiency se opposite hoga: tension **badhegi** aur collapse tendency badhegi. Oxygen production ya effortless expansion surfactant ka role nahi.
+**Kyun sahi hai?** Surfactant alveolar fluid ki surface tension kam karta hai. Deficiency se alveoli ko inflate rakhna mushkil ho sakta hai aur collapse ki tendency badhti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Deficiency tension ko lower nahi karti.
+- **C.** Alveoli oxygen produce nahi karte.
+- **D.** Deficiency effortless expansion ke opposite effect de sakti hai.
 
 **Exam trick:** Premature newborn + surfactant deficiency = collapse risk.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -349,15 +465,23 @@
 - **C.** Filtration
 - **D.** Diffusion
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Oxygen aur CO₂ ka exchange mainly **diffusion** se hota hai.
+**Correct answer: D. Diffusion**
 
-**Baaki options kyun nahi?** **Osmosis** water movement ka term hai; filtration fluid/pressure-related process; active transport energy use karta hai. Alveolar respiratory gases partial pressure gradient se **diffuse** karte hain.
+**Kyun sahi hai?** Oxygen partial pressure gradient ke according respiratory membrane se diffuse karti hai. Is process ke liye direct cellular energy expenditure required nahi hota.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Osmosis water movement hai.
+- **B.** Active transport energy-dependent movement hai.
+- **C.** Filtration pressure-driven fluid movement ko describe karti hai.
 
 **Exam trick:** O₂ alveoli → blood; CO₂ blood → alveoli.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -380,15 +504,23 @@
 - **C.** Pericardial
 - **D.** Mucosal
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Visceral pleura** lung ki surface ko directly cover karti hai. Parietal pleura chest cavity ko line karti hai.
+**Correct answer: B. Visceral**
 
-**Baaki options kyun nahi?** Parietal pleura chest cavity ko line karti hai; pericardium heart ki covering hai. Lung surface se directly attached **visceral pleura** hai.
+**Kyun sahi hai?** Visceral pleura lung surface se closely attached hoti hai. Parietal pleura thoracic cavity ki inner surfaces ko line karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Parietal pleura chest wall side par hoti hai.
+- **C.** Pericardium heart ki covering hai.
+- **D.** Mucosal lining airway ya doosre internal passages se related hai.
 
 **Exam trick:** Visceral = lung; parietal = chest wall.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -401,15 +533,23 @@
 - **C.** Reduce friction
 - **D.** Carry oxygen
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Pleural fluid **friction kam** karta hai taaki breathing mein pleural layers smoothly slide kar sakein.
+**Correct answer: C. Reduce friction**
 
-**Baaki options kyun nahi?** Surfactant alveolar Type II cells produce karti hain, pleural fluid nahi. Pleural fluid blood mein oxygen transport bhi nahi karta. Ye pleural surfaces ko **lubricate** karke rubbing kam karta hai.
+**Kyun sahi hai?** Pleural fluid dono pleural surfaces ko smoothly slide karne mein help karta hai. Isse friction kam hota hai aur pleural coupling maintain hone mein madad milti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Pleural fluid ka primary role air pressure create karna nahi.
+- **B.** Surfactant alveolar Type II cells banate hain.
+- **D.** Oxygen transport mainly blood ka function hai.
 
 **Exam trick:** Pleural fluid ≠ alveolar surfactant.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -422,15 +562,23 @@
 - **C.** Contracts and ascends
 - **D.** Remains stationary
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Diaphragm **contract karke neeche** jaata hai, thoracic volume badhta hai aur air andar aati hai.
+**Correct answer: A. Contracts and descends**
 
-**Baaki options kyun nahi?** Relaxation/ascending diaphragm expiration se linked hai. Quiet inspiration mein diaphragm **contract karke flatten/descend** hota hai; chest volume badhne se air enter karti hai.
+**Kyun sahi hai?** Quiet inspiration mein diaphragm contract karke flatten aur descend hota hai. Thoracic volume badhta hai, alveolar pressure atmosphere se kam hota hai aur air andar aati hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Relaxation aur ascent quiet expiration se related hain.
+- **C.** Normal contraction diaphragm ko upar nahi le jaati.
+- **D.** Quiet inspiration mein diaphragm stationary nahi rehta.
 
 **Exam trick:** IN → diaphragm DOWN → volume UP.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -443,15 +591,23 @@
 - **C.** Impossible without coughing
 - **D.** Passive due to elastic recoil
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Quiet expiration normally **passive** hoti hai: inspiratory muscles relax aur elastic recoil air ko bahar nikalte hain.
+**Correct answer: D. Passive due to elastic recoil**
 
-**Baaki options kyun nahi?** Abdominal muscles usually **forced** expiration mein important hoti hain; quiet expiration diaphragm contraction ya coughing se nahi. At rest elastic recoil + relaxation se air bahar nikalti hai.
+**Kyun sahi hai?** Rest par quiet expiration mein inspiratory muscles relax hoti hain. Lung aur chest system ki elastic recoil air ko bahar nikalne mein help karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Forceful abdominal contraction forced expiration mein useful hota hai.
+- **B.** Diaphragm contraction quiet inspiration ka mechanism hai.
+- **C.** Coughing normal quiet expiration ke liye required nahi.
 
 **Exam trick:** Quiet expiration passive; forced expiration active ho sakti hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -464,15 +620,25 @@
 - **C.** T8–T12
 - **D.** L1–L3
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Phrenic nerve C3–C5** se aati hai. Memory: C3, 4, 5 keep the diaphragm alive.
+**Correct answer: B. C3–C5**
 
-**Baaki options kyun nahi?** T1–T3, T8–T12 aur L1–L3 diaphragm ki main phrenic motor roots nahi hain. **C3, C4, C5** motor supply deti hain.
+**Kyun sahi hai?** Phrenic nerve chiefly C3, C4 aur C5 roots se aati hai aur diaphragm ko motor supply deti hai. High cervical injury breathing compromise kar sakti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** T1–T3 main phrenic roots nahi hain.
+- **C.** T8–T12 main phrenic roots nahi hain.
+- **D.** L1–L3 main diaphragm motor roots nahi hain.
 
 **Exam trick:** C3–C5 keeps the diaphragm alive.
+
+[Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK513325/)
+
+**Revision mapping:** Clinical Mock Q19 related phrenic-root recall. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -495,15 +661,23 @@
 - **C.** RV
 - **D.** ERV
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Wo **Residual Volume (RV)** hai. RV ko voluntarily aur bahar nahi nikal sakte.
+**Correct answer: C. RV**
 
-**Baaki options kyun nahi?** TV normal breath ka volume, IRV extra inhalation aur ERV extra expiration hai. Maximum expiration ke baad jo bhi permanently bachi air hai wahi **RV** hai.
+**Kyun sahi hai?** Maximal forced expiration ke baad jo air lungs mein bachi rehti hai usse residual volume kehte hain. Simple spirometry directly RV measure nahi karti.
+
+**Baaki options kyun galat hain?**
+
+- **A.** TV ordinary breath ka volume hai.
+- **B.** IRV normal inspiration ke baad extra inspired volume hai.
+- **D.** ERV normal expiration ke baad extra exhaled volume hai.
 
 **Exam trick:** RV cannot be voluntarily exhaled.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -516,15 +690,23 @@
 - **C.** IRV
 - **D.** IC
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Functional Residual Capacity (FRC)**. Formula: **FRC = ERV + RV**.
+**Correct answer: B. FRC**
 
-**Baaki options kyun nahi?** VC maximum movable air; IRV extra inspired air; IC inhaled capacity hai. Normal quiet expiration ke baad total **ERV + RV = FRC** remains.
+**Kyun sahi hai?** Normal quiet expiration ke end par FRC remains. Ismein ERV aur RV dono include hote hain. Maximal expiration ke baad sirf RV remains.
+
+**Baaki options kyun galat hain?**
+
+- **A.** VC maximum voluntarily movable volume hai.
+- **C.** IRV extra inhaled volume hai.
+- **D.** IC normal expiration ke end se maximum inhalation tak ka volume hai.
 
 **Exam trick:** Normal OUT = FRC; forced MAX OUT = RV.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -537,15 +719,23 @@
 - **C.** 2450
 - **D.** 3450
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** IC = TV + IRV. IRV = 3450 − 500 = **2950 mL**.
+**Correct answer: B. 2950**
 
-**Baaki options kyun nahi?** IC = TV + IRV. Isliye IRV ke liye addition nahi, **subtraction** karna hai: 3450−500 = 2950. 3950 mL galti se add karne par aata hai.
+**Kyun sahi hai?** IC = TV + IRV. Isliye IRV = 3450 − 500 = 2950 mL.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 3950 mL addition ka result hai, subtraction ka nahi.
+- **C.** 2450 mL given values ka correct difference nahi hai.
+- **D.** 3450 mL poora IC hai, IRV alone nahi.
 
 **Exam trick:** Total se known component minus karo.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -558,15 +748,23 @@
 - **C.** 3900
 - **D.** 2500
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** VC = IRV + TV + ERV. IRV = 4400 − 500 − 900 = **3000 mL**.
+**Correct answer: A. 3000**
 
-**Baaki options kyun nahi?** VC = IRV + TV + ERV. TV aur ERV **dono** subtract karne honge: 4400−(500+900)=3000. Sirf ek component minus karne se answer wrong aayega.
+**Kyun sahi hai?** VC = IRV + TV + ERV. Dono known components subtract karo: 4400 − 500 − 900 = 3000 mL.
+
+**Baaki options kyun galat hain?**
+
+- **B.** 3400 mL correct difference nahi hai.
+- **C.** 3900 mL sirf TV subtract karne se aata hai.
+- **D.** 2500 mL given components subtract karne ka correct result nahi.
 
 **Exam trick:** VC mein RV include nahi hota.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -579,15 +777,23 @@
 - **C.** 2300
 - **D.** 9500
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** TLC = IC + FRC. FRC = 5900 − 3600 = **2300 mL**.
+**Correct answer: C. 2300**
 
-**Baaki options kyun nahi?** TLC = IC + FRC. Isliye FRC = **5900−3600 = 2300 mL**. 9500 mL add karne wali common error hai; yaad karo question missing capacity maang raha hai.
+**Kyun sahi hai?** TLC = IC + FRC. Isliye FRC = 5900 − 3600 = 2300 mL.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 1300 mL correct difference nahi hai.
+- **B.** 3600 mL given IC hai.
+- **D.** 9500 mL dono values add karne se aata hai.
 
 **Exam trick:** IC + FRC = TLC; capacity formula memorize karo.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -610,15 +816,23 @@
 - **C.** 5.8 L/min
 - **D.** 8.0 L/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** MV = RR × TV = 17 × 400 = **6800 mL/min = 6.8 L/min**.
+**Correct answer: A. 6.8 L/min**
 
-**Baaki options kyun nahi?** RR ka unit breaths/min aur TV ka unit mL/breath hai; multiplication se **mL/min** aayega. 17×400=6800 mL/min, phir 1000 se divide = 6.8 L/min.
+**Kyun sahi hai?** Minute ventilation = RR × TV. 17 × 400 = 6800 mL/min, yaani 6.8 L/min.
+
+**Baaki options kyun galat hain?**
+
+- **B.** 7.2 L/min given RR aur TV se nahi milta.
+- **C.** 5.8 L/min multiplication ka correct result nahi hai.
+- **D.** 8.0 L/min 8000 mL/min hota, jabki yahan 6800 hai.
 
 **Exam trick:** Unit conversion chhodi toh answer galat ho sakta hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -631,15 +845,23 @@
 - **C.** 18/min
 - **D.** 20/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Pehle 8.1 L ko 8100 mL banao. RR = MV ÷ TV = 8100 ÷ 450 = **18/min**.
+**Correct answer: C. 18/min**
 
-**Baaki options kyun nahi?** Pehle **8.1 L = 8100 mL** banao. Fir RR = MV/TV = 8100/450=18/min. 8.1 ko 450 se direct divide karna unit mistake hogi.
+**Kyun sahi hai?** 8.1 L/min ko 8100 mL/min mein convert karo. RR = 8100 ÷ 450 = 18 breaths/min.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 15/min se 6.75 L/min milta.
+- **B.** 16/min se 7.2 L/min milta.
+- **D.** 20/min se 9 L/min milta.
 
 **Exam trick:** RR nikalna ho → MV ÷ TV.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -652,15 +874,23 @@
 - **C.** 450 mL
 - **D.** 500 mL
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** 7.2 L = 7200 mL. TV = MV ÷ RR = 7200 ÷ 16 = **450 mL**.
+**Correct answer: C. 450 mL**
 
-**Baaki options kyun nahi?** MV 7.2 L/min = **7200 mL/min**. TV = 7200/16 = 450 mL/breath. TV ka final unit mL/breath hona chahiye, breaths/min nahi.
+**Kyun sahi hai?** 7.2 L/min = 7200 mL/min. TV = 7200 ÷ 16 = 450 mL per breath.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 350 mL se 5.6 L/min milta.
+- **B.** 400 mL se 6.4 L/min milta.
+- **D.** 500 mL se 8 L/min milta.
 
 **Exam trick:** TV nikalna ho → MV ÷ RR.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -673,15 +903,23 @@
 - **C.** Increase by 1 L/min
 - **D.** No change
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Before: 10 × 600 = **6000**. After: 15 × 400 = **6000 mL/min**. Isliye **no change**.
+**Correct answer: D. No change**
 
-**Baaki options kyun nahi?** Before 10×600 = 6000, after 15×400 = 6000 mL/min. RR badha lekin TV utna hi kam hua ki total air per minute same raha. Bas RR dekhkar conclusion mat nikalo.
+**Kyun sahi hai?** Before MV = 10 × 600 = 6000 mL/min. After MV = 15 × 400 = 6000 mL/min. Total MV same hai, lekin alveolar ventilation same hona zaroori nahi hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 2 L/min ka increase nahi hua.
+- **B.** 1 L/min ka decrease nahi hua.
+- **C.** 1 L/min ka increase nahi hua.
 
 **Exam trick:** Before aur after MV dono calculate karo.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -694,15 +932,23 @@
 - **C.** 25%
 - **D.** 30%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** (New − Old)/Old × 100 = (7.5 − 6)/6 × 100 = **25%**.
+**Correct answer: C. 25%**
 
-**Baaki options kyun nahi?** Change = **7.5−6 = 1.5 L/min**. Percentage = 1.5 / **6 (old)** ×100 = 25%. New 7.5 se divide karoge toh 20% galat result aayega.
+**Kyun sahi hai?** Increase = 7.5 − 6 = 1.5 L/min. Old value 6 se divide karke 100 multiply karo: 25%.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 15% correct calculation se nahi milta.
+- **B.** 20% new value 7.5 ko denominator lene se aata hai.
+- **D.** 30% given increase se match nahi karta.
 
 **Exam trick:** Percentage change mein old denominator.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -725,15 +971,23 @@
 - **C.** 7.46
 - **D.** 7.40
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Usual pH range **7.35–7.45** hai, isliye **7.46** high hai.
+**Correct answer: C. 7.46**
 
-**Baaki options kyun nahi?** pH normal range 7.35–7.45 hai. 7.38, 7.42 aur 7.40 andar aate hain. **7.46** upper limit se upar hai. Word **outside** ko notice karo.
+**Kyun sahi hai?** Usual arterial pH teaching interval 7.35–7.45 hai. 7.46 upper limit se upar hai, yaani alkalemia, lekin cause determine karne ke liye ABG context chahiye.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 7.38 usual interval mein hai.
+- **B.** 7.42 usual interval mein hai.
+- **D.** 7.40 usual interval mein hai.
 
 **Exam trick:** Normal vs abnormal MCQ mein question wording twice padho.
+
+[Clinical reference 1](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -746,15 +1000,23 @@
 - **C.** 24/min
 - **D.** 28/min
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** RR **16/min** common adult resting range **12–20/min** ke andar hai.
+**Correct answer: B. 16/min**
 
-**Baaki options kyun nahi?** 9/min slow hai; 24/min aur 28/min adult rest range se fast hain. **16/min** 12–20 ke beech hai. Exercise/fever ya age se RR change ho sakta hai.
+**Kyun sahi hai?** Resting adults ke liye common teaching range 12–20 breaths/min hai. 16/min is range mein hai. Reference source aur patient context se range thodi vary kar sakti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 9/min usual adult resting range se low hai.
+- **C.** 24/min usual resting range se high hai.
+- **D.** 28/min usual resting range se high hai.
 
 **Exam trick:** Adult **resting** context yaad rakho.
+
+[Clinical reference 1](https://medlineplus.gov/ency/article/007198.htm)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -767,15 +1029,23 @@
 - **C.** 52 mmHg
 - **D.** 39 mmHg
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **39 mmHg** common normal range ke andar hai.
+**Correct answer: D. 39 mmHg**
 
-**Baaki options kyun nahi?** 31 mmHg normal se neeche, 48 aur 52 upar hain. **39 mmHg** usual 35–45 range mein hai. CO₂ ko pH ya PaO₂ ki range se confuse mat karna.
+**Kyun sahi hai?** Usual arterial PaCO2 teaching range 35–45 mmHg hai. 39 mmHg is range mein hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 31 mmHg lower hai.
+- **B.** 48 mmHg higher hai.
+- **C.** 52 mmHg bhi higher hai.
 
 **Exam trick:** PaCO₂ 35–45 mmHg.
+
+[Clinical reference 1](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -788,15 +1058,23 @@
 - **C.** 93%
 - **D.** 98%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **98%** common healthy sea-level SpO₂ reference range **95–100%** mein aata hai.
+**Correct answer: D. 98%**
 
-**Baaki options kyun nahi?** 87%, 91% aur 93% typical healthy adult near-sea-level teaching range se neeche hain; **98%** 95–100 mein aata hai. Altitude aur clinical targets alag ho sakte hain.
+**Kyun sahi hai?** Healthy adult near sea level mein usual SpO2 95–100% hoti hai. 98% typical reference interval mein hai. Oxygen prescription target patient ki condition ke according alag ho sakta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 87% usual healthy reference se kam hai.
+- **B.** 91% bhi usual healthy reference se kam hai.
+- **C.** 93% typical 95–100% range se kam hai.
 
 **Exam trick:** SpO₂ (%) vs PaO₂ (mmHg) differentiate karo.
+
+[Clinical reference 1](https://medlineplus.gov/lab-tests/pulse-oximetry/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -809,15 +1087,23 @@
 - **C.** Always if breathing normally
 - **D.** Only after exercise
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Nahi.** SpO₂ saturation **percentage** hai, PaO₂ oxygen **pressure** in mmHg. Dono same cheez nahi hain.
+**Correct answer: B. False**
 
-**Baaki options kyun nahi?** SpO₂ hemoglobin ki oxygen saturation percent hai; PaO₂ dissolved O₂ pressure mmHg hai. Dono physiology se linked hain lekin same scale nahi, isliye 97 aur 97 equal hona zaroori nahi.
+**Kyun sahi hai?** SpO2 hemoglobin ki estimated oxygen saturation percentage hai, jabki PaO2 arterial blood mein dissolved oxygen ka partial pressure mmHg mein hai. Inka relation nonlinear hai, isliye values exactly equal nahi hoti.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Statement true nahi hai.
+- **C.** Normal breathing mein bhi numeric equality guaranteed nahi hai.
+- **D.** Exercise se bhi equality ka rule establish nahi hota.
 
 **Exam trick:** Units samajhkar question solve karo.
+
+[Clinical reference 1](https://medlineplus.gov/lab-tests/pulse-oximetry/) · [Clinical reference 2](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -842,7 +1128,7 @@ These five newer questions use the **same Day 1 concepts**, including the calcul
 - **C.** Residual volume
 - **D.** Inspiratory reserve volume
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -851,11 +1137,19 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** TLC = VC + RV. RV = 5.4 − 4.1 = **1.3 L**. Yahi residual volume hai.
+**Correct answer: C. Residual volume**
 
-**Baaki options kyun nahi?** TLC = VC + RV. Difference **5.4−4.1=1.3 L** RV hai. ERV, TV aur IRV VC ka part hain, lekin TLC aur VC ka difference specifically residual volume hai.
+**Kyun sahi hai?** TLC = VC + RV. RV = 5.4 − 4.1 = 1.3 L. Ye maximum forced expiration ke baad remaining volume hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** ERV vital capacity mein included hai.
+- **B.** TV bhi vital capacity ka component hai.
+- **D.** IRV bhi vital capacity mein included hai.
 
 **Exam trick:** TLC−VC = RV.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -868,7 +1162,7 @@ Maximum inspiration ke baad total air aur voluntarily exhale ho sakne wali air k
 - **C.** 440 mL
 - **D.** 550 mL
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -877,11 +1171,21 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** 6.6 L = 6600 mL. TV = 6600 ÷ 15 = **440 mL/breath**.
+**Correct answer: C. 440 mL**
 
-**Baaki options kyun nahi?** MV fixed 6.6 L = **6600 mL/min**. RR 15/min hai, TV = 6600/15=**440 mL**. RR aur TV multiply hote hain; TV nikalne ke liye divide karna hai.
+**Kyun sahi hai?** 6.6 L/min = 6600 mL/min. TV = 6600 ÷ 15 = 440 mL/breath.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 330 mL × 15 = 4.95 L/min.
+- **B.** 400 mL × 15 = 6 L/min.
+- **D.** 550 mL × 15 = 8.25 L/min.
 
 **Exam trick:** Same MV maintain = RR × TV same.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Q28 same calculation method. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -894,7 +1198,7 @@ Pehle litres ko millilitres mein convert karo, phir MV ko RR se divide karo.
 - **C.** 30%
 - **D.** 40%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -903,11 +1207,21 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Difference 1.8 L. Percentage increase = 1.8 ÷ **7.2 (old)** × 100 = **25%**.
+**Correct answer: B. 25%**
 
-**Baaki options kyun nahi?** New−old = 9.0−7.2 = 1.8 L/min. 1.8/7.2×100=**25%**. 1.8/9×100 = 20% aata hai, par new denominator wrong hai.
+**Kyun sahi hai?** Increase = 9.0 − 7.2 = 1.8 L/min. Old value 7.2 se divide karo: 1.8 ÷ 7.2 × 100 = 25%.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 20% new denominator use karne se aata hai.
+- **C.** 30% correct fraction se match nahi karta.
+- **D.** 40% bhi correct calculation nahi hai.
 
 **Exam trick:** Percent increase: Old MV base.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Q30 same percentage calculation. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -920,7 +1234,7 @@ Percentage increase mein denominator hamesha **old MV** hoti hai.
 - **C.** No air remains in the lungs
 - **D.** Vital capacity equals the remaining air
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -929,11 +1243,21 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Normal expiration ke baad **FRC** bachi rehti hai. Maximum forced expiration ke baad **RV** bachi rehti hai.
+**Correct answer: B. Functional residual capacity remains in the lungs**
 
-**Baaki options kyun nahi?** After quiet expiration **FRC** remains, jo **ERV + RV** hota hai. ‘Only RV’ maximum forced expiration ka endpoint hai; lungs normal breathing mein completely empty nahi hote.
+**Kyun sahi hai?** Quiet expiration ke baad FRC = ERV + RV bachi rehti hai. Is concept ko Q22 mein bhi practice kiya gaya hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Sirf RV maximal forced expiration ke baad bacha hota hai.
+- **C.** Normal expiration ke baad lungs empty nahi hote.
+- **D.** VC voluntarily movable volume hai, remaining volume nahi.
 
 **Exam trick:** Question ke **normal** aur **maximal** words underline karo.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Q22 same FRC recall. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -946,7 +1270,7 @@ Question mein **normal expiration** likha hai, maximum forced expiration nahi.
 - **C.** PaCO₂
 - **D.** Arterial pH
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -955,11 +1279,19 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **pH 7.47**, usual upper limit **7.45** se zyada hai. Baaki common near-sea-level reference ranges mein hain.
+**Correct answer: D. Arterial pH**
 
-**Baaki options kyun nahi?** RR 18, SpO₂ 98%, PaCO₂ 41 usual textbook range mein hain, lekin pH **7.47** range **7.35–7.45** se above hai. Isliye D choose karoge. Ye exam reference check hai, diagnosis nahi.
+**Kyun sahi hai?** pH 7.47 usual arterial 7.35–7.45 reference interval se upar hai. Baaki given values common textbook adult reference intervals mein hain. Sirf pH se primary disorder decide nahi kar sakte.
+
+**Baaki options kyun galat hain?**
+
+- **A.** RR 18/min usual resting range mein hai.
+- **B.** SpO2 98% typical healthy near-sea-level range mein hai.
+- **C.** PaCO2 41 mmHg usual 35–45 range mein hai.
 
 **Exam trick:** Har value ko apni unit aur range se compare karo.
+
+[Clinical reference 1](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/) · [Clinical reference 2](https://medlineplus.gov/ency/article/007198.htm) · [Clinical reference 3](https://medlineplus.gov/lab-tests/pulse-oximetry/)
 
 [📖 Poora concept phir se padho](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Related Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -979,7 +1311,7 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 ### Q41. Patient A breathes 12/min with tidal volume 500 mL; patient B breathes 24/min with tidal volume 250 mL. Assuming dead space 150 mL, which statement is correct?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / PGIMER (original) · Revision overlap
 
 - **A.** Both have equal alveolar ventilation
 - **B.** B has alveolar ventilation 6 L/min
@@ -990,15 +1322,25 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **Correct answer: C. Both have minute ventilation 6 L/min, but A has greater alveolar ventilation**
 
-**Kyun sahi aur baaki options galat:** MV A/B both 6; AV A=(500−150)×12=4.2 L/min, B=(250−150)×24=2.4. Equal AV, B 6 and A 1.2 wrong.
+**Kyun sahi hai?** A ka MV 12 × 500 = 6000 mL/min aur B ka MV 24 × 250 = 6000 mL/min hai. A ki alveolar ventilation = (500 − 150) × 12 = 4.2 L/min. B ki = (250 − 150) × 24 = 2.4 L/min. Diye gaye simplified assumptions mein A ki alveolar ventilation greater hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Alveolar ventilation equal nahi hai.
+- **B.** B ka total MV 6 L/min hai, alveolar ventilation 2.4 L/min hai.
+- **D.** A ki alveolar ventilation 4.2 L/min hai, 1.2 nahi.
 
 **Exam trick:** MV A/B both 6.
+
+[Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK442016/)
+
+**Revision mapping:** Advanced Q2 overlapping numerical scenario. Retained for learner history. Do not count as a new unique question without semantic reconciliation.
 
 </details>
 
 ### Q42. A perfused alveolus is completely obstructed and receives no fresh gas. What is its V/Q ratio?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Approximately 0.8
 - **B.** Infinity
@@ -1009,15 +1351,23 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **Correct answer: D. Zero**
 
-**Kyun sahi aur baaki options galat:** V=0 and Q>0, so shunt V/Q=0. 0.8 whole lung average; infinity when Q=0; 1 matched V/Q.
+**Kyun sahi hai?** Perfusion present hai lekin ventilation zero hai. V/Q = 0, jo idealized shunt unit ko represent karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 0.8 whole-lung average ka common teaching estimate hai, is unit ka nahi.
+- **B.** Infinity absent perfusion aur present ventilation wale idealized dead space se associated hai.
+- **C.** Exactly 1 ka matlab matching ventilation aur perfusion hai.
 
 **Exam trick:** V=0 and Q>0, so shunt V/Q=0.
+
+[Clinical reference 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13090562/)
 
 </details>
 
 ### Q43. An alveolus remains ventilated but its capillary blood flow is completely blocked. What does this represent?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Alveolar dead space
 - **B.** A pure shunt
@@ -1028,15 +1378,23 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **Correct answer: A. Alveolar dead space**
 
-**Kyun sahi aur baaki options galat:** No perfusion despite ventilation = dead space, V/Q approaches infinity; shunt no ventilation, normal gas exchange needs both.
+**Kyun sahi hai?** Alveolus ventilated hai lekin blood flow absent hai. Isliye gas exchange ke liye ventilation waste hoti hai, jise alveolar dead space kehte hain. Idealized V/Q infinity ki taraf jaata hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Shunt mein perfusion present aur ventilation absent hoti hai.
+- **C.** Normal gas exchange ke liye ventilation aur perfusion dono chahiye.
+- **D.** Blood flow ke bina effective oxygen transfer into circulating blood nahi ho sakta.
 
 **Exam trick:** No perfusion despite ventilation = dead space, V/Q approaches infinity.
+
+[Clinical reference 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13090562/)
 
 </details>
 
 ### Q44. During vigorous exercise, tissue CO2 and temperature rise. Which oxygen-hemoglobin curve change favors oxygen delivery?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Leftward shift with increased hemoglobin affinity
 - **B.** Rightward shift with increased oxygen unloading
@@ -1047,9 +1405,17 @@ Har value ko apne normal reference range se compare karo. **Outside** padhkar an
 
 **Correct answer: B. Rightward shift with increased oxygen unloading**
 
-**Kyun sahi aur baaki options galat:** High CO2/temperature shift curve right, Hb unloads O2 easier (Bohr effect for CO2/pH). Left means higher affinity, no change and Hb production cessation false.
+**Kyun sahi hai?** Exercise ke time CO2 aur temperature badhne se hemoglobin ki oxygen affinity kam ho sakti hai aur curve right shift hoti hai. Isse tissues mein oxygen unloading facilitate hoti hai. CO2/pH effect ko Bohr effect kehte hain, temperature ka effect separately bhi contribute karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Left shift affinity badhata hai aur unloading difficult kar sakta hai.
+- **C.** Physiological changes curve ko shift kar sakte hain.
+- **D.** Acute exercise hemoglobin production ko completely stop nahi karti.
 
 **Exam trick:** High CO2/temperature shift curve right, Hb unloads O2 easier (Bohr effect for CO2/pH).
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases)
 
 </details>
 
