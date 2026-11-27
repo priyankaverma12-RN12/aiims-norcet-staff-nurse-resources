@@ -6,9 +6,8 @@
 
 ### Q1. A nurse notices that a patient's usual conversational behavior has changed to unusual drowsiness. Which clinical judgment activity does identifying this new finding illustrate?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -39,9 +38,8 @@
 
 ### Q2. A patient has poor oral intake, orthostatic symptoms and reduced urine output. Which reasoning activity links these findings into a possible explanation?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@
 
 ### Q3. A nurse considers several plausible causes of a patient's acute deterioration. Which factor should most influence the initial priority among hypotheses?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -105,9 +102,8 @@
 
 ### Q4. After identifying likely dehydration in a stable patient, the nurse compares appropriate fluid-support options and their restrictions with the team. Which reasoning activity is demonstrated?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -138,9 +134,8 @@
 
 ### Q5. A nurse applies a prescribed intervention selected after assessment and planning. Which component of the clinical judgment model is this?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -171,9 +166,8 @@
 
 ### Q6. Following a nursing intervention, a measured clinical variable improves but the patient's symptoms worsen. What is the best reasoning response?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -204,9 +198,8 @@
 
 ### Q7. A nurse initially assumes a patient's new confusion is caused by age and ignores a recent change in oxygenation. Which cognitive error is most evident?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -237,9 +230,8 @@
 
 ### Q8. A nurse selects only findings that support an initial suspicion and dismisses contradictory observations without checking them. Which bias is illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -270,9 +262,8 @@
 
 ### Q9. A clinician concludes a patient has a familiar benign condition and stops considering serious alternatives before adequate assessment. Which reasoning problem does this represent?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -303,9 +294,8 @@
 
 ### Q10. A stable patient's automated measurement is unexpectedly abnormal and inconsistent with clinical appearance. What best reduces reasoning error?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -336,9 +326,8 @@
 
 ### Q11. An experienced nurse senses that a patient is worsening before a formal score changes significantly. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -369,9 +358,8 @@
 
 ### Q12. A nursing assistant reports that a previously independent patient could not complete morning grooming. What should the registered nurse do with this information?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -402,9 +390,8 @@
 
 ### Q13. A stable patient reports a persistent symptom but initial assessment is unrevealing. What approach best avoids dismissive reasoning?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -435,9 +422,8 @@
 
 ### Q14. During a bedside assessment a nurse finds a patient's current data disagree with a previous shift's report. What is the best response?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -468,9 +454,8 @@
 
 ### Q15. A nurse reviews several days of a patient's observations. Why can a trend be more informative than a single value?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -501,9 +486,8 @@
 
 ### Q16. A care team identifies a potential safety problem that has not yet caused symptoms. Which prioritization principle is most accurate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -534,9 +518,8 @@
 
 ### Q17. A stable patient refuses a low-risk proposed care activity after receiving adequate information. How should clinical judgment guide the nurse?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -567,9 +550,8 @@
 
 ### Q18. A nurse is considering a nonurgent intervention with uncertain evidence of benefit. What is the best evidence-informed approach?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -600,9 +582,8 @@
 
 ### Q19. Two staff members offer different plausible interpretations of a patient's symptoms. Which communication approach best supports clinical judgment?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -633,9 +614,8 @@
 
 ### Q20. A nurse anticipates that a stable patient's care needs may exceed the ward's current monitoring capability. Which reasoning response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -666,9 +646,8 @@
 
 ### Q21. A nurse receives a critical laboratory result for a patient whose condition has changed. Which reasoning approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -699,9 +678,8 @@
 
 ### Q22. A patient has several abnormal findings and a time-sensitive concern. Which principle guides additional data gathering?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -732,9 +710,8 @@
 
 ### Q23. A nurse has performed an intervention and is uncertain when to reassess its effect. What should determine the review interval?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -765,9 +742,8 @@
 
 ### Q24. During review of a near miss, the nurse identifies that interruptions and unclear equipment labels influenced the decision. What type of clinical judgment improvement is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -798,9 +774,8 @@
 
 ### Q25. A nursing student correctly recalls a guideline but cannot apply it when several patient cues conflict. What learning approach is most suitable?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -831,9 +806,8 @@
 
 ### Q26. A nurse retrospectively reviews a decision that had a poor outcome despite following reasonable evidence available at the time. Which principle is important?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -864,9 +838,8 @@
 
 ### Q27. An older patient reports a preference for family involvement, but the team has not yet confirmed what information may be shared. How should the nurse integrate this cue into care planning?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
