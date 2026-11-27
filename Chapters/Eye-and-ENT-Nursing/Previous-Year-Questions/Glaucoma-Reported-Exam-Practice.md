@@ -1,6 +1,6 @@
 # 📜 Glaucoma — Reported Exam Practice
 
-**Study-ready, unattempted.** Three independently worded adaptations. Exam labels refer to retrieved third-party reports, not independently authenticated official papers or keys. Additional related reports are consolidated or linked to existing originals rather than counted twice.
+**Study-ready, unattempted.** Four independently worded adaptations (including one from official commission paper text, key medically inferred). Exam labels refer to retrieved third-party reports, not independently authenticated official papers or keys. Additional related reports are consolidated or linked to existing originals rather than counted twice.
 
 [Chapter](../README.md) · [Concepts](../Concepts/Glaucoma-and-Nursing-Management.md) · [Original MCQs](../MCQs/Glaucoma-Additional-39-MCQs.md)
 
@@ -88,6 +88,35 @@ Pilocarpine muscarinic agonist hai. Suitable pupillary-block mechanism mein iris
 **Clinical reference:** [Royal College angle closure pathway, printed p22](https://www.rcophth.ac.uk/wp-content/uploads/2026/06/Management-of-Angle-Closure-Glaucoma.pdf), [AAFP clinical review](https://www.aafp.org/afp/2023/0300/glaucoma).
 
 **YouTube MCQ practice lead:** [Essentials in Acute Angle Closure Glaucoma MCQ](https://www.youtube.com/watch?v=3M07VcgIZvo). UKMLA description-level lead. Exact mechanism question, creator and playback pending.
+
+</details>
+
+### 🔵 Mizoram PSC Lecturer (Medical Surgical Nursing) — January 2017, Paper II, Q2 — official paper-text adaptation
+
+[Official commission PDF, page 1, Q2](https://mpsc.mizoram.gov.in/uploads/attachments/e08c1f8c5d8f9ed2cbb66863dea4e09e/medical-surgical-nursing-paper-ii.pdf). Header and question text retrieved. Screenshot blocked and official key not retrieved. This is a lecturer examination, not a Staff Nurse paper. The following is independently authored, not an exact quotation.
+
+#### PYQ4. A patient using a topical alpha-2 adrenergic agonist for glaucoma reports persistent dry mouth. Which prescribed drug is most consistent with this recognized adverse effect?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Official-paper-concept adaptation, medically reasoned key
+
+- **A.** Latanoprost
+- **B.** Brimonidine
+- **C.** Dorzolamide
+- **D.** Pilocarpine
+
+<details><summary>✅ Answer aur detailed explanation</summary>
+
+**Correct answer: B. Brimonidine**
+
+Brimonidine alpha-2 adrenergic agonist hai. Topical administration ke baad bhi systemic absorption ho sakta hai. Dry mouth aur drowsiness recognized adverse effects hain. Persistent symptoms report karo aur prescribed therapy independently discontinue mat karo.
+
+- **A.** Latanoprost prostaglandin analogue hai. Iris pigmentation aur eyelash growth change important effects hain.
+- **C.** Dorzolamide carbonic anhydrase inhibitor hai. Ye alpha-2 agonist nahi hai.
+- **D.** Pilocarpine muscarinic agonist hai aur miosis produce karti hai. Ye alpha-2 agonist nahi hai.
+
+**Clinical support:** [DailyMed brimonidine/timolol label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=038cf2ba-ad08-4981-a3cc-bff0e4ba5dfb). Official historical answer key unavailable.
+
+**YouTube MCQ practice: specific verified mapping pending.**
 
 </details>
 
