@@ -1,8 +1,8 @@
 # 📜 Refractive Errors — Reported Exam Practice
 
-**Study-ready, unattempted.** Three independently worded adaptations, based on directly retrieved third-party question reports. Official booklets and keys not authenticated. Multiple reports of the same correction concept are grouped, not counted as separate original questions.
+**Study-ready, unattempted.** Five independently worded adaptations, based on directly retrieved third-party question reports. Official booklets and keys not authenticated. Multiple reports of the same correction concept are grouped, not counted as separate original questions.
 
-[Chapter](../README.md) · [Concepts](../Concepts/Refractive-Errors.md) · [Original practice](../MCQs/Refractive-Errors-30-MCQs.md) · [Myopia additional](../MCQs/Myopia-Additional-24-MCQs.md) · [Hypermetropia additional](../MCQs/Hypermetropia-Additional-24-MCQs.md)
+[Chapter](../README.md) · [Concepts](../Concepts/Refractive-Errors.md) · [Original practice](../MCQs/Refractive-Errors-30-MCQs.md) · [Myopia additional](../MCQs/Myopia-Additional-24-MCQs.md) · [Hypermetropia additional](../MCQs/Hypermetropia-Additional-24-MCQs.md) · [Astigmatism additional](../MCQs/Astigmatism-Additional-24-MCQs.md) · [Presbyopia additional](../MCQs/Presbyopia-Additional-25-MCQs.md)
 
 ### 🔵 ESIC Staff Nurse, 19 March 2016 Shift I / RRB Staff Nurse, 21 July 2019 Shift II / Safdarjung Staff Nurse, 28 February 2019 recall / KGMU Nursing Officer 2023 memory-based — reported correction question family
 
@@ -93,10 +93,68 @@ Myopia mein relaxed eye distance light ko retina se pehle focus karti hai. Isliy
 
 </details>
 
+### 🔵 AIIMS Raipur 2017, Shift II — reported astigmatism question
+
+[Retrieved NPrep question report](https://nprep.in/question-answer/the-refractive-error-caused-by-the-difference-in-the-curvature-of-the-Ab9W38S7puOi_4WG2wABk). Paper attribution, stem and options retrieved. Official original booklet, item number and key pending. Source describes unequal curvature, clarified here as unequal meridional refractive power rather than merely a difference between corneal and lenticular curvature.
+
+#### PYQ4. Which finding distinguishes astigmatic refraction from a purely spherical refractive error?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Reported adaptation
+
+- **A.** Uniform refractive power in every meridian
+- **B.** Unequal refractive power across meridians
+- **C.** Complete absence of the natural lens
+- **D.** Loss of hearing sensitivity with aging
+
+<details><summary>✅ Answer aur detailed explanation</summary>
+
+**Correct answer: B. Unequal refractive power across meridians**
+
+Astigmatism mein eye ke optical meridians ki power different hoti hai. Isliye light ek sharp point par focus nahi karti. Cornea ya lens ki shape is optical mismatch ka cause ho sakti hai. Ye concept original integrated Q13 se related hai, historical practice count alag hai.
+
+- **A.** Uniform meridional power spherical optics ko describe karti hai.
+- **C.** Natural lens absent hona aphakia hai. Ye astigmatism ki definition nahi.
+- **D.** Age-related hearing loss presbycusis hai, refractive condition nahi.
+
+**Clinical source:** [NEI refractive errors](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors/types-refractive-errors).
+
+**YouTube MCQ practice: verification pending.** [Refractive Errors and Accommodation](https://www.youtube.com/watch?v=v4QVL_v3ymY) description names astigmatism. Direct retrieval failed. Exact question and channel unconfirmed.
+
+</details>
+
+### 🔵 RRB Nursing Superintendent, 29 April 2025, Shift I — reported near-point question
+
+[Retrieved NPrep question report](https://nprep.in/question-answer/which-of-the-following-statements-about-the-human-eye-is-not-correct-BKtKDRO68WH7IAyUfBPqf). The report tests the conventional young-adult near-point value and definitions. Official key and question number pending. Actual individual near point varies, so the adaptation specifies the textbook convention.
+
+#### PYQ5. In a standard elementary optics example, which distance is conventionally taken as the least distance of distinct vision of a normal young adult eye?
+
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Reported adaptation
+
+- **A.** 2.5 cm
+- **B.** 2.5 m
+- **C.** 25 cm
+- **D.** 25 m
+
+<details><summary>✅ Answer aur detailed explanation</summary>
+
+**Correct answer: C. 25 cm**
+
+Elementary optics mein normal near-point example 25 cm use hota hai. Near point closest clear viewing distance hai. Actual value accommodation aur measurement method par depend karti hai. Presbyopia mein near point usually door shift karta hai. Is numerical convention ko universal physiological measurement mat samjho.
+
+- **A.** 2.5 cm is conventional example se ten times closer hai.
+- **B.** 2.5 m near-point textbook example se ten times farther hai.
+- **D.** 25 m reading distance nahi hai aur standard near-point convention se match nahi karta.
+
+**Clinical source:** [NEI presbyopia](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/presbyopia).
+
+**YouTube MCQ practice: verification pending.** [Presbyopia — Learn By MCQ](https://www.youtube.com/watch?v=IfjHwXoDSIU) indexed description only, exact numerical coverage unverified.
+
+</details>
+
 ## Sources and evidence gaps
 
 [NEI refractive errors](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors/types-refractive-errors) · [NEI eyeglasses](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors/eyeglasses-refractive-errors)
 
-RRB Staff Nurse 20 July 2019 Shift I terminology report has now been allocated once as PYQ3. [HPRCA official archive](https://hprca.hp.gov.in/DownloadCategory.aspx) indexed, 2026 final key listings for 26004 and 25026 located, relevant question papers and keys not matched. Astigmatism, presbyopia and numericals require additional exam evidence. No exact official questions claimed.
+RRB Staff Nurse 20 July 2019 Shift I terminology report has now been allocated once as PYQ3. [HPRCA official archive](https://hprca.hp.gov.in/DownloadCategory.aspx) indexed, 2026 final key listings for 26004 and 25026 located, relevant question papers and keys not matched. AIIMS Raipur 2017 Shift II astigmatism and RRB 29 April 2025 Shift I near-point reports allocated once as PYQ4–5. A direct presbyopia diagnosis question and further optics numerical papers remain pending. No exact official questions claimed.
 
 [Research register](Eye-and-ENT-Nursing-Past-Paper-Research-Register.md) · [Chapter](../README.md)
