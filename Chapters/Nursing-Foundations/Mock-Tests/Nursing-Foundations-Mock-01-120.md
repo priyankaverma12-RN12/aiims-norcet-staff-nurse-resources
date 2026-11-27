@@ -1500,9 +1500,24 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 **Correct: A. Verify identity, planned procedure, site, allergies and relevant preparation**
 
-Checklist multiple safety details confirm karti hai. Isse preventable mismatch aur preparation errors identify ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bed number identity proof nahi hai. Allergy aur verification checks familiarity se unnecessary nahi hote.
+Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho do patients ka surname same ho, toh sirf naam ya bed number dekhne se galat patient select ho sakta hai. Nurse approved identifiers, planned procedure, site, consent, allergies aur preparation verify karti hai. Surgical team prescribed sign-in, time-out aur sign-out checks bhi karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Multiple safety details verify karne se wrong-patient, wrong-site aur preparation-related errors identify ho sakte hain.
+- **B (Galat):** Allergy alert remove karne se team important risk miss kar sakti hai.
+- **C (Galat):** Bed number badal sakta hai, isliye woh reliable patient identifier nahi hai.
+- **D (Galat):** Surgeon patient ko pehchanta ho tab bhi standardized checks zaroori hain.
+
+**Exam clue:** Har patient ke liye prescribed checklist follow karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2183,9 +2198,22 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 **Correct: A. Notify the responsible clinician so informed consent can be completed before the procedure**
 
-Informed consent mein patient ko procedure, relevant risks aur alternatives samajhne ka chance milna chahiye. Nurse unanswered question ko responsible clinician tak pahunchati hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unexplained signature adequate consent nahi hai. Unauthorized signing aur assumed consent patient rights compromise karte hain.
+Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko samajh aana chahiye ki operation kyun ho raha hai, important risks kya hain aur kya alternatives hain. Jab patient naya sawal poochta hai aur consent incomplete hai, toh nurse procedure aage badhane se pehle responsible clinician ko inform karti hai. Nurse patient ki understanding aur voluntary decision ko support karti hai, lekin authorized clinician ki explanation replace nahi karti.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Responsible clinician ko inform karne se unanswered risk question clarify ho sakta hai aur valid consent complete kiya ja sakta hai.
+- **B (Galat):** Bina samjhaye signature lene se patient informed decision nahi le paata.
+- **C (Galat):** Nurse patient ki taraf se bina legal authority sign nahi kar sakti.
+- **D (Galat):** Hospital admission se specific surgery ke liye consent automatically nahi milta.
+
+**Exam clue:** Consent incomplete ho toh procedure se pehle clarification arrange karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3036,9 +3064,22 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 **Correct: B. Use suitable clippers according to surgical infection prevention policy**
 
-Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf clinically necessary ho toh policy ke according karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Razor microcuts infection risk badha sakti hain. Universal hair removal aur damaged skin par chemical use inappropriate hain.
+Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se shave karne par skin mein chhote cuts ban sakte hain, jahan microorganisms enter kar sakte hain. Jab hair removal clinically necessary ho, toh appropriate electric clippers aur infection-prevention policy follow karo. NICE single-use clipper head ke saath surgery ke din removal recommend karta hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har body part ke hair remove karne se unnecessary skin injury ho sakti hai.
+- **B (Sahi):** Suitable clippers razor ke comparison mein skin microtrauma ka risk kam karte hain.
+- **C (Galat):** Damaged skin par unapproved chemical irritation ya injury badha sakta hai.
+- **D (Galat):** Razor shaving routine use ke liye preferred nahi hai, kyunki cuts infection ka risk badha sakte hain.
+
+**Exam clue:** Hair removal sirf zaroorat par approved clippers se karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng125/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3784,9 +3825,24 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 **Correct: C. Communicate actual intake and timing to the anesthesia team before proceeding**
 
-Anesthesia ke dauran protective airway reflexes reduce ho sakte hain. Recent intake aspiration risk affect kar sakti hai, isliye anesthetist decision leta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False record, induced vomiting aur unassessed proceeding unsafe hain.
+Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar stomach ka material upar aakar lungs mein chala jaaye, toh ise aspiration kehte hain. Nurse actual food aur time document karke anesthesia team ko inform karti hai. Fasting ka safe interval food type, patient ki condition aur procedure ki urgency par depend karta hai. Anesthesia team risk aur benefit assess karke next decision leti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Small meal ko bina assessment harmless nahi maana ja sakta, kyunki stomach emptying vary karti hai.
+- **B (Galat):** False fasting record anesthesia team ko galat risk information deta hai.
+- **C (Sahi):** Actual intake aur timing communicate karne se team patient-specific aspiration risk assess kar sakti hai.
+- **D (Galat):** Vomiting induce karna aspiration risk badha sakta hai aur fasting violation ka safe solution nahi hai.
+
+**Exam clue:** Fasting instructions break hon toh actual intake document karke anesthesia team se decision lo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7413358/)
+
+**Additional clinical reference:** [2026 international peri-operative fasting consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161736/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
