@@ -5,7 +5,7 @@ Reported third-party question pages, independent adaptations. Not official key a
 ### NVS Staff Nurse, September 2019 — retrieved report
 
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial labels · Source-based adaptation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application · Source-based adaptation
 <!-- /job4-metadata -->
 
 Which response pattern helps a patient explore feelings and clarify meaning?
@@ -21,7 +21,7 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. [NVS Staff Nurse September 2019 report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Independent adaptation, not exact original or authenticated official key. 
+**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. NVS Staff Nurse September 2019 (source linked in the explanation above). Independent adaptation, not exact original or authenticated official key. 
 
 **Related concept:** [Study notes](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques)
 <!-- /job4-metadata -->
@@ -30,7 +30,7 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 ### RRB Nursing Superintendent, 12 March 2026 shift 1 — indexed report
 
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial labels · Source-based adaptation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application · Source-based adaptation
 <!-- /job4-metadata -->
 
 An audit shows important nursing records are repeatedly incomplete. What should the nursing administrator investigate first?
@@ -46,7 +46,7 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. [RRB Nursing Superintendent 12 March 2026 shift I report](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note.
+**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. RRB Nursing Superintendent 12 March 2026 shift I (source linked in the explanation above). Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note.
 
 **Related concept:** [Study notes](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability)
 <!-- /job4-metadata -->
