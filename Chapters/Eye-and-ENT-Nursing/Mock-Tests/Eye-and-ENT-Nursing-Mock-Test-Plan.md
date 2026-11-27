@@ -43,4 +43,4 @@ Fresh model-led reading of all 120 questions and all 480 rationales completed; 1
 
 Next: finish semantic comparison of latest banks, embedded concepts, revision/PYQ and other mocks in bounded batches; validate dedicated video question mappings where accessible, explicitly record remaining evidence limitations and reconcile Mock 01 validation status, then begin Mock 02 with newly authored exclusive questions. Do not repeat completed clinical rereview except for flagged/new issues.
 
-<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Mock 01 clinical rereview checkpoint. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-semantic-20261127-1515. Scope: Mock 01 semantic/video validation and mock-only inventory, Mock 02 only after reconciliation. Claimed UTC: 2026-11-27T15:15:00Z. Expiry UTC: 2026-11-27T15:45:00Z. -->
