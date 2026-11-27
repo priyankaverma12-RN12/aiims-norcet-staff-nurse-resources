@@ -207,7 +207,9 @@ Net fluid balance intake minus output hai. 1800 minus 2100 = −300 mL. Unmeasur
 
 ### Q10. Which action is part of respiratory hygiene for a coughing patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Share used tissues between patients
 - **B.** Provide tissues or a suitable mask as tolerated and encourage hand hygiene
@@ -222,9 +224,15 @@ Respiratory hygiene secretions ko contain karne aur contaminated hands se spread
 
 **Baaki options kyun sahi nahi hain?** Direct coughing, shared tissues aur poor hand hygiene transmission badha sakte hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q15](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q15](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q15-which-action-is-part-of-respiratory-hygiene-for-a-coughing-patient)
 
 ### Q11. A patient with cardiac disease receives IV fluid and develops new crackles and increasing work of breathing. What should the nurse do?
 
@@ -1265,7 +1273,9 @@ Buccal medicine cheek ki inner mucosa se absorb hoti hai. Product ki dissolution
 
 ### Q55. What is the purpose of surgical asepsis?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Maintain a sterile field and prevent contamination by microorganisms
 - **B.** Replace the need for hand hygiene
@@ -1280,9 +1290,17 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 
 **Baaki options kyun sahi nahi hain?** Visible cleanliness sterility nahi hai. Hand hygiene still needed hai. Clean surfaces necessarily sterile nahi hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q13](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q13](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q13-what-is-the-purpose-of-surgical-asepsis)
 
 ### Q56. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
 
@@ -1561,7 +1579,9 @@ Crimean War ke dauran Nightingale sanitation aur nursing organization reforms ke
 
 ### Q67. A nurse has cared for a patient under contact precautions and must use shared equipment on another patient. What should happen first?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Clean and disinfect the equipment using the approved method
 - **B.** Use the equipment immediately if it appears clean
@@ -1576,9 +1596,15 @@ Shared equipment microorganisms carry kar sakta hai. Approved cleaning aur disin
 
 **Baaki options kyun sahi nahi hain?** Visible cleanliness contamination exclude nahi karti. Glove cover processing replace nahi karta. Delayed disinfection unsafe hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q16](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q16](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q16-a-nurse-has-cared-for-a-patient-under-contact-precautions-and-must-use-shared-equipment-on-another-patient-what-should-happen-first)
 
 ### Q68. A catheterized patient develops fever and new flank pain. What is the appropriate nursing response?
 
@@ -2400,7 +2426,9 @@ Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. 
 
 ### Q104. A sterile package is torn although the expiration date has not passed. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Use it because the date is valid
 - **B.** Spray the outside with water and assume sterility
@@ -2415,9 +2443,17 @@ Package integrity sterile contents ko environment se protect karti hai. Tear hon
 
 **Baaki options kyun sahi nahi hain?** Date alone sterility guarantee nahi karti. Tape ya water original sterile barrier restore nahi karte.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q14](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q14](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q14-a-sterile-package-is-torn-although-the-expiration-date-has-not-passed-what-should-the-nurse-do)
 
 ### Q105. A patient has persistent bleeding at a peripheral IV removal site while receiving anticoagulation. Which immediate action is appropriate?
 
