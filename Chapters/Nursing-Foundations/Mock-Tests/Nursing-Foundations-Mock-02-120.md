@@ -233,9 +233,19 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **Correct: A. Roll soiled linen inward without shaking and place it in the designated container**
 
-Soiled linen ko gently contain karne se microorganisms aur contaminants spread kam ho sakte hain. Facility laundry handling process follow karna hai.
+Used linen par microorganisms aur body fluids ho sakte hain. Shaking se contaminants hawa aur nearby surfaces tak spread ho sakte hain. Linen ko gently inward contain karke designated bag mein patient care area mein rakho. PPE aur hand hygiene facility policy ke mutabik use karo.
 
-**Baaki options kyun sahi nahi hain?** Shaking aur contact with uniform or other bed contamination spread kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Gently rolling aur designated container contamination spread kam karte hain.
+- **B (Galat):** Uniform se wet linen contact clothing contamination ka risk badhata hai.
+- **C (Galat):** Vigorous shaking contaminated particles disperse kar sakti hai.
+- **D (Galat):** Doosre patient ke bed par dirty linen rakhne se cross-contamination hoti hai.
+
+**Exam clue:** Contain soiled linen at point of use, never shake.
+
+**Clinical reference:** [CDC linen management](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html)
+
+**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
 
 </details>
 
@@ -573,9 +583,19 @@ Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beec
 
 **Correct: C. Change linen safely while a patient remains in bed**
 
-Occupied bed technique dependent patient ko bed mein rakhkar linen change karne mein help karti hai. Nurse safety, privacy aur alignment maintain karti hai.
+Occupied bed making ka matlab patient bed par rehte hue linen safely change karna hai. Jo patient transfer tolerate nahi karta, uske liye suitable technique unnecessary transfer avoid kar sakti hai. Nurse patient ki mobility, assistance, skin, devices, privacy aur safe alignment assess karti hai.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary transfer risk add kar sakta hai. Bed hygiene still required hai. Empty admission bed unoccupied technique hai.
+**Option-wise explanation:**
+- **A (Galat):** Har patient ko stretcher par transfer karna unnecessary fall aur device dislodgement risk add kar sakta hai.
+- **B (Galat):** Bed occupied hone se hygiene ki need khatam nahi hoti.
+- **C (Sahi):** Occupied technique ka purpose patient ko bed mein rakhkar safe linen change karna hai.
+- **D (Galat):** Future admission ke liye empty bed prepare karna unoccupied bed making hai.
+
+**Exam clue:** Occupied = patient remains in bed, assessed assistance.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
 
 </details>
 
@@ -1420,9 +1440,19 @@ Gentle inversion additive ko blood ke saath distribute karti hai. Excess shaking
 
 **Correct: A. Assess foot circulation and sensation and arrange appropriate nail care when risk is high**
 
-Neuropathy mein injury ya burn patient ko feel nahi ho sakti. Safe foot assessment aur qualified nail care wound risk reduce karte hain.
+Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce hona hai. Poor circulation aur reduced protective sensation ke saath chhoti cut ya burn bhi unnoticed rehkar wound ban sakti hai. Foot skin, circulation, sensation aur nail condition assess karo. High-risk thick nails ya callus ke liye trained foot-care specialist arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Deep cutting, heat aur unassessed blade use tissue injury kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Risk assessment aur appropriate specialist nail care injury prevention support karte hain.
+- **B (Galat):** Very hot water reduced sensation wale foot ko burn kar sakta hai.
+- **C (Galat):** Unassessed sharp blade skin cut aur infection ka risk badhata hai.
+- **D (Galat):** Deep corner cutting ingrown nail, bleeding ya tissue injury cause kar sakti hai.
+
+**Exam clue:** Neuropathy = assess first, avoid heat and sharp self-care.
+
+**Clinical reference:** [ADA 2026 foot care](https://doi.org/10.2337/dc26-s012) · [ADA daily foot care](https://diabetes.org/health-wellness/diabetes-and-your-feet/foot-care-tips)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -1917,9 +1947,19 @@ TACO mein transfused volume circulation overload kar sakta hai. Breathlessness a
 
 **Correct: C. Handle them over a lined basin and use appropriate denture care**
 
-Denture drop hone par break ho sakti hai. Lined basin aur labeled storage accidental loss aur damage reduce karte hain.
+Dentures removable artificial teeth hain. Inhe drop karne se fracture ho sakta hai aur tissue mein wrap karne se accidental discard ka risk hota hai. Cleaning ke waqt suitable lined basin use karo, material-specific cleaner aur temperature follow karo. Remove karne par labeled suitable container mein patient ki preferences aur product guidance ke according store karo.
 
-**Baaki options kyun sahi nahi hain?** Hard surface damage risk badhati hai. Boiling material distort kar sakti hai. Tissue mein denture accidentally discard ho sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Unmarked tissue mein denture waste samajhkar discard ho sakti hai.
+- **B (Galat):** Boiling heat-sensitive denture material ko distort kar sakti hai.
+- **C (Sahi):** Lined basin impact reduce karta hai aur suitable denture care material protect karti hai.
+- **D (Galat):** Hard floor par girne se fracture ka risk badh sakta hai.
+
+**Exam clue:** Protect dentures from impact, heat and loss.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax hygiene practices](https://openstax.org/books/clinical-nursing-skills/pages/7-1-hygiene-practices)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
