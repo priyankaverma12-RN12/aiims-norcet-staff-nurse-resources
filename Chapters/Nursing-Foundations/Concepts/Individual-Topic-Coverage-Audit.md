@@ -30,3 +30,8 @@ New 40 stems checked against 80 previous parsed related stems from groups 01, 02
 ## Group 03C respiration checkpoint
 
 26 new original MCQs plus four earlier assigned Q6,12,13,15 = 30 provisional slots. Q13 systemic deterioration allocation relevance needs review. Inventory 786 (322 Medium, 464 Difficult), 186 expansion. 47 related prior stems exact checked, no overlap. Concept and diagram, indexed procedure and MCQ practice, historical ESIC/DSSSB/RRB/HPSSC/PGIMER leads with limitations. Count remains 34. Next: pulse oximetry, then physical examination. Full semantic/cross-chapter/clinical and source audits pending.
+
+
+## Group 03D oximetry checkpoint
+
+29 new original MCQs + prior group Q7 = 30 working slots. 815 total (330 Medium, 485 Difficult), 215 expansion. 66 related prior stems compared, no exact normalized matches. All new options explained and video mapping present with specific practice-source gap. Retrieved GMCH 2022 and indexed NORCET 2020 adaptations separately, counted historical total 34 pending reconciliation. Next physical examination. Full semantic/clinical/curriculum and transcript audits pending.

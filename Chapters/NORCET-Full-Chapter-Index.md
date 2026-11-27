@@ -399,3 +399,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Forward group 03C respiration
 
 26 new original MCQs, 30 provisional allocated. Nursing Foundations 786 (322 Medium, 464 Difficult), 186 expansion, 34 counted historical adaptations, five compiled mocks of ten. Next oximetry and physical examination. Reverse unchanged. Historical and semantic audits pending.
+
+
+### Forward group 03D oximetry
+
+29 new original MCQs, 30 allocated. Nursing Foundations 815 slots (330 Medium, 485 Difficult), 215 expansion, five compiled mocks of ten, 34 counted reported adaptations pending source reconciliation. Next physical examination. Reverse, audit and labels scopes preserved.

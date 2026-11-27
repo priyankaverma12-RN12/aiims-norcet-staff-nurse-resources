@@ -50,11 +50,14 @@
 | [Blood pressure measurement](03A-Blood-Pressure-Measurement-23-MCQs.md) | 23 | 30 |
 | [Pulse assessment](03B-Pulse-Assessment-27-MCQs.md) | 27 | 30 |
 | [Respiration assessment](03C-Respiration-Assessment-26-MCQs.md) | 26 | 30 provisional |
+| [Pulse oximetry assessment](03D-Pulse-Oximetry-Assessment-29-MCQs.md) | 29 | 30 |
 
-Current inventory **786 original question slots** (322 Medium, 464 Difficult), initial 600 + 186 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **815 original question slots** (330 Medium, 485 Difficult), initial 600 + 215 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
 Pulse allocation 3 prior + 27 new. Ten initial group 03 slots remain to allocate to respiration, oximetry, physical examination. [Pulse evidence](../Previous-Year-Questions/03B-Pulse-Reported-Evidence.md).
 
 Respiration provisional allocation 4 prior + 26 new. Six initial group 03 slots remain for oximetry and physical examination. Q13 systemic deterioration relevance review pending. [Respiration evidence](../Previous-Year-Questions/03C-Respiration-Reported-Evidence.md).
+
+Oximetry allocation one prior Q7 + 29 new = 30. Physical examination remains five prior slots. [Oximetry evidence](../Previous-Year-Questions/03D-Oximetry-Reported-Evidence.md).
