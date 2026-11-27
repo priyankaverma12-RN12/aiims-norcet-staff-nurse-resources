@@ -1,10 +1,9 @@
 # Job 5 — deep explanation and answer audit
 
-State: CLAIMED
-Owner: job5-01A-draft-run3
-Scope: Read-only chapter audit and separate Group 01A and 01B explanation drafts
-Claimed UTC: 2026-11-27T04:49:43.750Z
-Expiry UTC: 2026-11-27T05:19:43.750Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
@@ -15,3 +14,7 @@ Zero questions audited by Job 5. Start Chapters/Nursing-Foundations/MCQs/01-Nurs
 
 ## Run 1 — 27 November 2026
 20 existing Group 01 questions Q1–20 inspected at source blob 5ce6762a10c75c1d309c0ad04be6d8866629b359. All 20 keys supported by the stems/options. Expanded 20 full Hinglish rationale drafts with four individual option reasons, exam clue and clinical/nursing reference, saved separately in [Job 5 draft](job5-drafts/Nursing-Foundations-Group-01-Q01-20.md). Commit de1901c396a09d0887770426a5c60c1d1ba0002a, blob 4a7db8eab3f3f6201224d521b615983470fdf18d. Exact readback and 20 details blocks verified. Zero learner-facing edits and zero new original MCQs. Job 2 claim free at inspection, Job 4 actively claimed group 02 of same chapter, so single-writer rule applied conservatively. Job 1 active GK scope, Job 3 free with respiratory next scope. Root and canonical rules, AGENTS, Copilot, reverse checkpoint and audit learning files fetched; key coordination passages examined, complete line-by-line review not certified. Official HPRCA listing search identified codes 26044, 25026 and 26004, three recent candidate cycles, full chronology and actual papers/keys pending. No authenticated exact PYQ or video playback. Existing labels and mapped links untouched. Next run: re-fetch all claims, merge drafted Q1–20 only if safe and unchanged keys/stems/options, verify reference URLs and preserve all Job 4 metadata. Then group 01A. No chapter certified complete. Claim released. Hourly task unchanged.
+
+
+## Run 3 — 27 November 2026
+Group 01A all 13 keys and four options individually reviewed, 13 detailed Roman Hinglish drafts and 52 option explanations published separately at [01A draft](job5-drafts/Nursing-Foundations-Group-01A-Q01-13.md), commit 1a5e46a45f66659a2530cec5d90797678ff7be63, blob 65ca113e9ba895786149f2bc479c6f3896e59113. Group 01B all 27 keys and four options individually reviewed, 27 drafts and 108 option explanations at [01B draft](job5-drafts/Nursing-Foundations-Group-01B-Q01-27.md), commit 990a3cb1cd354903d9bc6ec79e8022ba8ba030c0, blob cb08f0644183f4620262d68c1087433ab0e21e05. Exact draft readback and key sequence matching verified. Cumulative 60 draft explanations, 240 option explanations, no key changes or new original MCQs. Existing 01 draft and source blob unchanged on recheck. Jobs 2 and 4 actively claim Nursing Foundations (04E and 03 respectively), Job 1 active GK data interpretation, Job 3 free on final inspection. No chapter files edited, all 60 merges pending. Both skills and other rule files retrieved, full line-by-line review not certified. OpenStax CJMM and evaluation pages directly opened, assessment and AHRQ diagnostic biases indexed. HPRCA official listing extracts confirm 26044 exam scheduling, 25026 and 26004 final-key notices, direct notice and paper pages failed retrieval. Videos 8yi80mkm2NI and Nczi2xT76QA description-based leads only, playback/exact matches pending. Group 01B ethics, monitoring, incident, outcome bias dedicated reference review pending. No authenticated new historical tags. Next: merge 01, 01A, 01B in order only when all chapter claims allow, verify latest stems/options/keys and preserve all metadata, references, videos and dropdowns. Then corresponding PYQ and mock rationales before Group 02. Do not count drafts as live improvements. Claim released. Hourly schedule unchanged.
