@@ -147,9 +147,20 @@ MRI magnetic field certain devices ke function ya safety affect kar sakti hai. D
 
 **Correct: C. Participate in the required preprocedure verification and team time-out**
 
-Team time-out mein identity, procedure aur correct site confirm ki jaati hai. Isse mismatch procedure se pehle identify ho sakta hai.
+<!-- job5-rationale -->
+Wrong-site surgery prevention mein preprocedure verification, site marking where applicable aur team time-out important safeguards hain. Time-out procedure start se pehle team actively patient identity, intended procedure aur correct site confirm karti hai. Discrepancy resolve hone tak proceed mat karo. Familiarity safety checks ka replacement nahi hai.
 
-**Baaki options kyun sahi nahi hain?** Bed label inadequate hai. Random marking unsafe hai. Familiarity formal verification replace nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Bed label person-specific identity verification nahi hai.
+- **B:** Familiar staff bhi human error kar sakte hain.
+- **C:** Required verification aur active team time-out correct safeguard hai.
+- **D:** Convenient site mark karna planned procedure se match nahi karta.
+
+**Exam clue:** Time-out: right patient, procedure, site.
+
+[Concept reference](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -796,9 +807,20 @@ Supported sitting stool passage aur abdominal muscle coordination facilitate kar
 
 **Correct: C. Combine the score with clinical judgment and patient-specific interventions**
 
-Tool risk factors systematically identify karne mein help karta hai. Condition aur medicine change hone par risk bhi change ho sakta hai.
+<!-- job5-rationale -->
+Fall-risk scale screening aur structured assessment support karti hai, but patient ki risk dynamic hai. New sedation, delirium, weakness, orthostatic symptoms ya environment change ke baad reassessment zaroori ho sakta hai. Score ke individual factors ko prevention plan se link karo aur clinical judgment use karo. Low score bhi zero risk guarantee nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Low score guarantee nahi hai. Same plan har patient ke liye appropriate nahi hai. Reassessment needed hai.
+**Option-by-option reasoning**
+
+- **A:** One-time assessment deterioration miss kar sakta hai.
+- **B:** Low score all future falls exclude nahi karta.
+- **C:** Score plus judgment and patient-specific interventions correct hai.
+- **D:** Same plan changing patient risks ignore karta hai.
+
+**Exam clue:** Risk score guides care, does not replace judgment.
+
+[Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2533,9 +2555,20 @@ Ye findings severe allergic reaction indicate kar sakti hain. Nurse trigger stop
 
 **Correct: C. Assess the patient and infusion, seek competent help and follow device protocol**
 
-Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse patient aur line assess karke authorized troubleshooting karti hai.
+<!-- job5-rationale -->
+High-alert infusion alarm blockage, battery, air detection, device failure ya programming concern indicate kar sakta hai. Pehle patient condition, medication order, infusion line aur pump status assess karo. Competent assistance lo aur device-specific protocol follow karo. Unexplained faulty pump ko safe replacement and treatment continuity plan ke saath isolate karo. Rate blindly change mat karo.
 
-**Baaki options kyun sahi nahi hain?** Alarm ignore karna problem miss kar sakta hai. Rate change aur indiscriminate disconnection harm kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Alarm silence alone underlying cause resolve nahi karta.
+- **B:** All lines disconnect karne se essential therapy interrupt ho sakti hai.
+- **C:** Patient and infusion assessment plus qualified help correct hai.
+- **D:** Unverified rate increase overdose cause kar sakta hai.
+
+**Exam clue:** Assess patient, check infusion, follow protocol.
+
+[Concept reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2710,9 +2743,20 @@ Intimate care mein privacy aur comfort important hain. Nurse feasible accommodat
 
 **Correct: B. Withhold the unsafe tray and obtain the correct meal after verification**
 
-Dysphagia mein wrong food consistency aspiration risk badha sakti hai. Nurse prescribed texture aur feeding precautions follow karti hai.
+<!-- job5-rationale -->
+Dysphagia mein swallowing coordination ya airway protection impaired ho sakti hai. Prescribed food texture aur liquid consistency individualized assessment se decide hote hain. Wrong tray ko withhold karo, current plan verify karke correct meal arrange karo. Positioning, assistance aur pace plan follow karo. Texture modification aspiration risk completely eliminate nahi karti.
 
-**Baaki options kyun sahi nahi hain?** Rapid eating, unapproved consistency changes aur flat positioning unsafe ho sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Flat lying feeding generally unsafe ho sakti hai, prescribed positioning follow karo.
+- **B:** Unsafe tray replace karna prescribed swallowing plan maintain karta hai.
+- **C:** Unverified water addition texture/consistency change kar sakta hai.
+- **D:** Rapid eating swallowing safety compromise kar sakti hai.
+
+**Exam clue:** Verify texture and swallowing plan before feeding.
+
+[Concept reference](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
