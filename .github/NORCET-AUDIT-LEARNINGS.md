@@ -457,3 +457,45 @@ Clinical evidence retrieved at search level: GINA 2026 executive summary https:/
 Historical: direct third-party text retrieved for BHU Staff Nurse 22 Oct 2019 Venturi mask https://testbook.com/question-answer/for-a-chronic-obstructive-pulmonary-disease-patien--619ba1d1c03703fc10d7edde (Q23 related concept, visible purple tag; source's blanket 4 L/min restriction outdated); RRB Staff Nurse 20 July 2019 Shift I pursed-lip breathing https://testbook.com/question-answer/which-is-an-intervention-for-a-patient-with-chroni--619e1e567a81b38e9a40f07b (Q37/38 related concept); HPSSSB Staff Nurse October 2020 diaphragmatic breathing https://testbook.com/question-answer/howa-nurse-will-teach-breathing-exercise-for--61b9a1aec3c5dc3695351680 (distinct concept, not purposed as a pursed-lip match). Source keys not official. OSSSC Venturi direct retrieval failed. Existing Day 3 PYQ file must be repaired with self-contained source-traced adaptations and hidden answers after checking inventory; reserve these sources, do not double count. 
 
 Video: 9/45 topic-level links, Q17–19,21–24 NORCET 10 Mains Oxygen Therapy FON Class 2 https://www.youtube.com/watch?v=GRozFrA3VCg published labels 02:18 simple mask, 07:51 cannula, 32:48 Venturi, 39:38 NRB (direct retrieval failed); Q37–38 Aarogyam Prime NORCET 11 MCQ Series Part 01 https://www.youtube.com/watch?v=tPdkmmU7_ks published 23:46 pursed-lip breathing. Exact item, playback, transcripts pending, no fabricated matches. 36/45 explicit gaps. No new high-yield additions until coverage and duplication reconciliation. Rendered GitHub UI not inspected. Coordination claims Jobs 1,2,4,5 checked and no overlapping scope. Next Day-03-Final-Mock-30.md after verifying inventory, then Day 3 concept/actual PYQ repair and all pending video/semantic gaps. Prevention: preserve device-specific flow limitations, distinguish source key from current clinical standards, do not turn exam-style labels into historical provenance, teach-back and emergency escalation must be concrete.
+
+
+## 2026-11-27 — Day 3 final mock Q1–30
+
+File Chapters/Respiratory-System/MCQs/Day-03-Final-Mock-30.md. Before blob 1d2602cc011b57fbb4a03d676f50beab1fc91304, after 103769b63c5c5c17c86586292584fb533c8e90db, commit 209211c1ce83a281d84b6f29b3fdd206d50552d4. All 30 original English stems/options/keys preserved, expanded 30 correct and 90 individual distractor rationales, 14 difficulty regrades, 30 related topic mappings (including cross-subject ROP). Readback validates 30 question headings and hidden blocks, four options, three wrong-option reasons and one difficulty/priority row each. Exact normalized stems unique within mock and no exact overlap against 100 Day 3 bank stems; full semantic audit pending. Cumulative 325 clinical/rationale reviews, not full chapter certification. No new authored or official PYQ count.
+
+|Q|Key|Topic|Difficulty|Video status|
+|---|---|---|---|---|
+|1|C|PEF red zone escalation|Difficult|Video pending|
+|2|D|FVC response 220 mL 11%|Difficult|Video pending|
+|3|D|Hypercapnic asthma|Medium|Video pending|
+|4|D|Bronchospasm vs destruction|Medium|Video pending|
+|5|A|LABA with ICS|Medium|Video pending|
+|6|B|PEF best 58.3%|Difficult|Video pending|
+|7|D|Ratio 0.50 GOLD 3|Difficult|Video pending|
+|8|D|Grade vs care|Medium|Video pending|
+|9|C|LTOT 58 with PH|Difficult|Video pending|
+|10|B|Acidotic NIV|Medium|Video pending|
+|11|D|Exacerbation|Medium|Video pending|
+|12|B|Cor pulmonale|Medium|Video pending|
+|13|B|Chronic bronchitis definition|Medium|Video pending|
+|14|C|Emphysema structure|Medium|Video pending|
+|15|C|A1AT|Medium|Video pending|
+|16|A|Spacer and teach-back|Medium|Video pending|
+|17|B|ICS vs beta agonist effects|Medium|Video pending|
+|18|B|Montelukast|Medium|Video pending|
+|19|B|Hypokalemia and palpitations|Medium|Video pending|
+|20|D|Venturi and NRB|Medium|Topic-level lead|
+|21|A|FiO2 percentage points|Medium|Video pending|
+|22|D|Controlled oxygen|Medium|Video pending|
+|23|C|Early hypoxia signs|Medium|Video pending|
+|24|A|Venturi ports|Medium|Topic-level lead|
+|25|C|ROP|Medium|Topic-level lead|
+|26|B|T-piece|Easy|Video pending|
+|27|B|Nebulization deterioration|Medium|Video pending|
+|28|C|Pursed lip|Easy|Video pending|
+|29|C|Silent chest triage|Medium|Video pending|
+|30|D|Home oxygen safety|Medium|Video pending|
+
+Clinical source evidence: GOLD 2027 pocket guide directly retrieved text, figure 3.22 confirms Q9 PaO2 >55 and <60 with pulmonary hypertension, https://goldcopd.org/wp-content/uploads/2026/11/GOLD-2027-POCKET-GUIDE-v1.1-20Nov2026_WMV.pdf screenshot request failed cache miss. GINA executive summary search extracts https://academic.oup.com/ajrccm/article/212/12/2919/8885525 confirm adult FEV1 or FVC ≥12% AND ≥200 mL. Q2 = 220 mL but 11%; Q1 40% red and Q6 best of three 58.3% yellow, ALA peak flow source https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow. Q7 ratio 0.50 and FEV1 45% predicted GOLD 3, no confusion of ratio with grade. BTS oxygen and NIV https://bmjopenrespres.bmj.com/content/4/1/e000170 and https://doi.org/10.1136/thoraxjnl-2015-208209; Q21 8 percentage points not 8% relative change, estimates only. Q22 acute oxygen target individual and emergency protocol. OpenStax inhaled medicines and cardiopulmonary skills https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications and https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning; DailyMed albuterol https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ecc00500-58b8-491f-80df-dc6c89a08cae; RCH neonatal oxygen https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Oxygen_Saturation_SpO2_Level_Targeting_Premature_Neonates/ supports ROP risk, avoid both hyperoxia and hypoxia, neonatal protocol not adult targets. T-piece/humidification search evidence https://pmc.ncbi.nlm.nih.gov/articles/PMC12995824/. Broad syllabus relevance from prior INC review; exact official syllabus-depth and comprehensive source verification pending, not full clinical certification.
+
+New historical evidence: third-party Prepp memory-based RRB Nursing Superintendent paper dated 25 Nov 2026, Q42 (publisher numbering) https://cdn-images.prepp.in/public/image/RRB_Nursing_Superintendent_Memory_Based_Paper_Nov_25_2026__eec439454b0e7efd8d65103f7acce19f.pdf extracted text directly retrieved, screenshot failed. Tests neonatal oxygen target for ROP risk reduction, reported answer 90–95%, not identical to Q25. Visible purple related-concept tag added to Q25, no official paper/key authenticated, no new count. Consider unique source-traced adaptation in appropriate neonatal/respiratory PYQ scope after inventory reconciliation. Q28 related RRB Staff Nurse 20 July 2019 Shift I reused from previously retrieved care-bank evidence, not exact PYQ. Video 3/30 metadata leads: Q20 oxygen devices 33:22 https://www.youtube.com/watch?v=Iw-lckpxBMU; Q24 Venturi 32:48 https://www.youtube.com/watch?v=GRozFrA3VCg; Q25 ROP concept-based MCQ lecture https://www.youtube.com/watch?v=0fF_d4c5T9o title/description only, exact MCQ coverage not confirmed. Remaining 27 explicit gaps; exact playback/transcripts none verified. Existing practice mappings for peak flow, inhalers, pursed-lip and silent chest merit further targeted verification. Rendered UI not inspected. No new high-yield additions until coverage/duplicate reconciliation. Next Day 3 reported PYQ file repair, then Day 3 concepts and remaining respiratory inventory. All claims including Job 5 checked before file edit. Both skill files retrieved; current rule excerpts reviewed, full fresh line-by-line reread not completed in this batch. 
