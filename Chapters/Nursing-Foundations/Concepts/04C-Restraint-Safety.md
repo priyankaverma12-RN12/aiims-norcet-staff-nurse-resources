@@ -1,8 +1,18 @@
-# Restraint safety
+<a name="restraint-safety"></a>
+
+# 📚 Restraint safety
 
 **Study-ready, unattempted.** 🔴 MOST IMPORTANT. [29 new MCQs](../MCQs/04C-Restraint-Safety-29-MCQs.md) and original Group 04 Q10 give 30 allocated. Clinical application must follow applicable Indian law, facility policy and trained authorized staff. These notes are not instructions for applying restraints.
 
-## Least restrictive care
+<a name="least-restrictive-care"></a>
+
+## 🔹 Least restrictive care
+
+<!-- job4-metadata -->
+**Exam evidence:** **🟣 [PGIMER Chandigarh Staff Nurse Grade II 2015](https://testbook.com/question-answer/which-action-by-a-patient-should-the-nurse-report--62b713536128efc333837720/amp)** — indexed full question and exam attribution inspected, direct reopen failed. Device-protection review does not automatically justify restraint. [Reported adaptation](../Previous-Year-Questions/04C-Restraint-Reported-Evidence.md).
+
+**YouTube MCQ practice: verification pending.** [Archer Review NCLEX restraint question](https://www.youtube.com/watch?v=LoRg1MH2xLg) is a supplementary topic lead, exact scenario and playback pending.
+<!-- /job4-metadata -->
 
 Restraint patient ki voluntary movement ya access restrict karta hai. Device ka name alone classification decide nahi karta. Actual restriction, patient ki ability to remove it, purpose and policy matter karte hain. Medication jo sirf staff convenience ke liye movement restrict karti hai inappropriate chemical restraint ho sakti hai. Indicated medication to treat a diagnosed condition automatically restraint nahi hai.
 
@@ -22,7 +32,13 @@ flowchart TD
 
 [Practice Q1–8](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
-## Monitoring and documentation
+<a name="monitoring-and-documentation"></a>
+
+## 🔹 Monitoring and documentation
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific monitoring and documentation scenario not verified. [Related original bank](../MCQs/04C-Restraint-Safety-29-MCQs.md). Existing teaching resource below remains separate.
+<!-- /job4-metadata -->
 
 🔴 MOST IMPORTANT. Restraint mein bhi patient ka dignity, hydration, elimination, comfort, skin integrity aur safe positioning maintain karo. Monitoring frequency depends on clinical status, restraint type, applicable law and local policy. International exam resources may describe different intervals. New symptoms mein scheduled observation ka wait mat karo.
 
@@ -30,7 +46,13 @@ Cool, swollen, numb limb may indicate impaired perfusion. Prompt safe relief, as
 
 [Practice Q9–18](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
-## Indian mental healthcare law
+<a name="indian-mental-healthcare-law"></a>
+
+## 🔹 Indian mental healthcare law
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Act-specific question solving not located. Retain statutory source and use the linked original practice bank. Overseas NCLEX order and monitoring rules are not Indian law.
+<!-- /job4-metadata -->
 
 🔴 MOST IMPORTANT. Mental Healthcare Act 2017 section 97 specifically governs restraint and seclusion of persons with mental illness in its applicable setting. Isko generic ward policy ke saath confuse mat karo.
 
@@ -46,13 +68,21 @@ Example: A person is verbally upset but no imminent threat exists. Staff cannot 
 
 [Practice Q19–25](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
-## Quality improvement
+<a name="quality-improvement"></a>
+
+## 🔹 Quality improvement
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — restraint quality measures and debriefing questions not confirmed. [Related practice bank](../MCQs/04C-Restraint-Safety-29-MCQs.md).
+<!-- /job4-metadata -->
 
 Episode count alone sufficient outcome nahi hai. Duration, repeated exposure, injury, documented alternatives and patient experience assess karo. After discontinuation, discuss triggers respectfully and revise individual prevention measures. Least restrictive care is a patient-safety and rights goal.
 
 [Practice Q26–29](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
-## References and video mapping
+<a name="references-and-video-mapping"></a>
+
+## ▶️ References and video mapping
 
 - [OpenStax Clinical Nursing Skills 9.5](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices), restraint principles directly retrieved. US-specific orders and intervals are not universal.
 - [Open RN Nursing Fundamentals Safety](https://www.ncbi.nlm.nih.gov/books/NBK610816/), indexed guidance, direct classic page retrieval failed.
