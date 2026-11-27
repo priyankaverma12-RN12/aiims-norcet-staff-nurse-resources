@@ -486,9 +486,22 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 
 **Correct: C. Lower conjunctival sac without touching the dropper tip**
 
-Lower eyelid pull karne par conjunctival sac create hoti hai. Tip contact avoid karne se injury aur contamination risk kam hota hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Corneal contact injurious ho sakta hai. Eyelashes aur direct lacrimal duct contact routine instillation sites nahi hain.
+Lower eyelid gently pull karne par conjunctival sac, yani lid aur eyeball ke beech pocket, accessible hoti hai. Routine eye drops prescribed eye ki is pocket mein instill ki jaati hain. Dropper tip ko eyelashes, skin aur eye se contact na karne do taaki injury aur contamination avoid ho. Correct dose, laterality aur product instructions check karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Lacrimal duct tear drainage pathway hai. Dropper tip directly insert karna routine ophthalmic administration nahi hai.
+- **B (Galat):** Cornea sensitive tissue hai. Direct tip contact abrasion aur contamination cause kar sakta hai.
+- **C (Sahi):** Lower conjunctival sac suitable routine instillation site hai aur no-touch technique contamination reduce karti hai.
+- **D (Galat):** Eyelashes par drops lagane se intended ocular dose deliver hona assured nahi hai.
+
+**Exam clue:** Lower conjunctival sac, no tip contact.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/14-1-administering-eye-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -507,9 +520,22 @@ Lower eyelid pull karne par conjunctival sac create hoti hai. Tip contact avoid 
 
 **Correct: A. Drops before ointment with the recommended interval**
 
-Ointment surface par coating bana sakti hai jo drops ki delivery affect kare. Drops pehle dena aur recommended interval maintain karna useful hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ointment-first, mixing aur eyelid-only administration intended drug delivery interfere kar sakte hain.
+Eye drops liquid preparation hoti hain aur ointment semi-solid preparation hai. Agar same eye ke liye dono prescribed hain toh generally drops pehle aur ointment last di jaati hai. Ointment ki coating liquid drug ki subsequent delivery interfere kar sakti hai. Individual product ki recommended interval aur sequence verify karo. Dropper ya tube tip eye se touch na ho.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Drops before ointment with recommended interval appropriate general sequence hai.
+- **B (Galat):** Dono products mix karne se dose, stability aur sterility compromise ho sakti hai.
+- **C (Galat):** Ointment pehle dene se surface coating subsequent drop delivery affect kar sakti hai.
+- **D (Galat):** Closed eyelid ki outer skin par dono apply karne se routine intended conjunctival delivery nahi hoti.
+
+**Exam clue:** Drops first, ointment last, product-specific interval.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/14-1-administering-eye-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1604,9 +1630,22 @@ Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring
 
 **Correct: D. Against the inner cheek**
 
-Buccal medicine cheek ki inner mucosa se absorb hoti hai. Product ki dissolution instructions follow karo.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Eyelid, ear canal aur external skin buccal route nahi hain.
+Buccal route mein specially prescribed medicine gum aur inner cheek ke beech rakhi jaati hai, jahan oral mucosa se absorption ho sakti hai. Yeh sublingual route se different hai, jisme medicine tongue ke neeche rakhi jaati hai. Product ki dissolution aur swallowing instructions follow karo. Har ordinary oral tablet buccal use ke liye suitable nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Lower eyelid ke andar conjunctival sac ophthalmic medication ke liye hoti hai, buccal route nahi.
+- **B (Galat):** External cheek skin par medicine apply karna topical route ho sakta hai, buccal nahi.
+- **C (Galat):** Ear canal mein medicine dena otic route hai.
+- **D (Sahi):** Inner cheek aur gum ke beech placement buccal route ko describe karta hai.
+
+**Exam clue:** Buccal = inner cheek, sublingual = under tongue.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2395,9 +2434,22 @@ Total output 1200 mL hai. Intake minus output = 1500 minus 1200 = +300 mL. Insen
 
 **Correct: B. Allow drops to reach an appropriate temperature according to instructions**
 
-Cold liquid vestibular stimulation se dizziness cause kar sakti hai. Product ki safe temperature guidance follow karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Boiling burns aur product damage cause kar sakti hai. Deep contact injury risk hai. Cold instillation symptoms repeat kar sakti hai.
+Cold ear drops vestibular system, yani balance control karne wale inner-ear mechanism, ko indirectly stimulate kar sakti hain. Isse temporary vertigo ya dizziness ho sakti hai. Product instructions allow karein toh bottle ko suitable room/body-near temperature tak gently warm hone do, without overheating. Persistent pain, vertigo, discharge ya suspected eardrum problem par clinical review lo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bahut cold drops symptoms ko trigger kar sakti hain. Cold exposure maximize karna appropriate nahi hai.
+- **B (Sahi):** Instruction-based suitable temperature cold-induced vestibular stimulation kam karne mein help kar sakta hai.
+- **C (Galat):** Boiling bottle product ko damage kar sakti hai aur ear burn ka risk create karti hai.
+- **D (Galat):** Eardrum par dropper tip press karna injury ka risk hai aur dizziness prevent nahi karta.
+
+**Exam clue:** Ear drops: appropriate temperature, no overheating or tip contact.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/14-2-administering-ear-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
