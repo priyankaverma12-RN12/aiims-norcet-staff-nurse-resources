@@ -932,10 +932,18 @@ New neurological symptoms device-related compression ka sign ho sakte hain. Nurs
 
 **Correct: B. Assist the patient with prescribed range-of-motion exercises twice daily**
 
-Intervention nurse ya team ka planned action hai. Range-of-motion exercises assist karna ek action hai.
+<!-- job5-rationale -->
+Intervention woh planned action hai jo nurse ya care team patient goal achieve karne ke liye karti hai. Range-of-motion ka matlab joint ko allowed range mein move karna hai. Prescribed exercises assist karna action hai. Nurse restrictions aur pain check karke safely assist karti hai. Outcome patient ke function ya symptoms mein desired result hota hai.
 
-**Baaki options kyun sahi nahi hain?** Pain score, walker demonstration aur intact skin patient ke expected outcomes hain.
+**Option-by-option reasoning**
 
+- **A:** Patient safe walker use demonstrate karega. Yeh desired performance outcome hai.
+- **B:** Exercises assist karna care action hai aur frequency twice daily di gayi hai. B correct hai.
+- **C:** Pain below 3/10 patient-reported expected result hai, action nahi.
+- **D:** Intact skin patient ka desired result hai.
+
+**Exam clue:** Intervention = nurse kya karegi. Outcome = patient mein kya result hoga.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1915,10 +1923,20 @@ Fever ke saath neck stiffness aur confusion serious CNS infection ya other emerg
 
 **Correct: B. A patient with sudden stridor after medication administration**
 
-Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway reaction emergency ho sakti hai, isliye immediate assessment chahiye.
+<!-- job5-rationale -->
+Stridor upper airway mein narrowed passage ke through air movement ki abnormal harsh sound hai. Medicine ke baad sudden stridor anaphylaxis ya doosri acute airway obstruction ka warning sign ho sakta hai. Emergency help activate karo, ABCDE assessment aur airway support shuru karo. Suspected anaphylaxis mein facility emergency protocol aur authorized IM adrenaline management ko delay nahi karna chahiye. Rash ka wait nahi karna hai.
 
-**Baaki options kyun sahi nahi hain?** Bath, blanket aur leaflet routine needs hain. Inhe airway emergency ke baad address karna chahiye.
+**Option-by-option reasoning**
 
+- **A:** Blanket comfort need hai. Immediate airway threat pehle address hota hai.
+- **B:** Sudden stridor airway danger ka clue hai. B immediate priority hai.
+- **C:** Stable bath routine care hai aur wait kar sakti hai.
+- **D:** Discharge leaflet routine teaching hai aur airway emergency se lower priority hai.
+
+**Exam clue:** Stridor = airway danger. New medication ke baad sudden onset ko emergency samjho.
+
+**Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -2138,10 +2156,18 @@ Different investigations ki preparation different hoti hai. Nurse procedure-spec
 
 **Correct: D. The patient's heels remain intact without new nonblanchable discoloration during the shift**
 
-Outcome directly skin condition se related hai aur defined shift mein evaluate ho sakta hai. Nurse heels aur other risk areas inspect karti hai.
+<!-- job5-rationale -->
+Pressure injury prevention ka result patient ki tissue condition se measure hota hai. Nonblanchable discoloration ka matlab pressure hatane ya gentle blanch assessment ke baad color change persist kar sakta hai. Darker skin mein visible redness ke alawa temperature, firmness aur pain compare karna important hai. Defined shift mein heel condition assess karna measurable outcome hai, par baaki pressure areas aur continued risk bhi evaluate karna zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** Nurse ki busyness result nahi batati. Hypertension unrelated diagnosis hai. Ongoing reassessment required hai.
+**Option-by-option reasoning**
 
+- **A:** Nurse busy hone se patient outcome establish nahi hota.
+- **B:** Hypertension diagnosis pressure injury prevention success ka direct indicator nahi hai.
+- **C:** Risk ongoing ho sakta hai. Future assessment permanently stop nahi karte.
+- **D:** Heels ki skin status aur time interval clear hain. D correct outcome hai.
+
+**Exam clue:** Prevention outcome = patient result, not staff workload.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -2384,10 +2410,20 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 
 **Correct: C. Reassess pain characteristics and discuss an adjusted plan with the treatment team**
 
-Pain relief insufficient ho toh nurse location, severity, timing aur possible cause reassess karti hai. Phir authorized treatment adjustment ke liye communicate karti hai.
+<!-- job5-rationale -->
+Pain relief na milna evaluation ka important finding hai. Nurse pain location, severity, quality, timing, functional impact, last medicine aur adverse effects assess karti hai. New red flags milne par urgent escalation chahiye. Question mein emergency finding nahi hai, isliye treatment team se safe authorized adjustment discuss karna appropriate hai. Reassessment aur action document karo.
 
-**Baaki options kyun sahi nahi hain?** Unprescribed dose harm kar sakti hai. False documentation galat hai. Pain assessment continue honi chahiye.
+**Option-by-option reasoning**
 
+- **A:** Pain present hai, resolved record karna inaccurate hai.
+- **B:** Assessment stop karne se uncontrolled pain ya deterioration miss ho sakta hai.
+- **C:** Reassessment aur team-based adjustment existing plan ko safely improve karte hain. C correct hai.
+- **D:** Extra unprescribed dose se overdose, sedation aur respiratory depression ka risk ho sakta hai.
+
+**Exam clue:** Unmet goal par reassess, communicate aur evaluate again.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
