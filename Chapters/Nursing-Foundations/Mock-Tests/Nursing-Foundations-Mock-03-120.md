@@ -427,10 +427,22 @@ Paraphrasing mein nurse patient ki baat ka main meaning apne words mein restate 
 
 **Correct: A. Orthostatic hypotension**
 
-Systolic BP 28 aur diastolic 16 mmHg girti hai. Ye usual orthostatic threshold se zyada drop hai. Nurse fall precautions aur cause assessment karti hai.
+<!-- job5-rationale -->
+Standing par gravity se blood lower body mein pool hota hai. Normally autonomic compensation vascular tone aur heart response adjust karti hai. Orthostatic hypotension mein supine se standing ke first 3 minutes mein systolic BP kam se kam 20 mmHg ya diastolic kam se kam 10 mmHg girta hai. Yahan systolic fall = 128 − 100 = 28 mmHg, diastolic fall = 78 − 62 = 16 mmHg. Dono thresholds cross hain aur dizziness present hai. Patient ko safely sit ya lie karvao, fall prevention aur clinical assessment karo. Volume depletion ya medicine effects possible hain, but cause further assessment se establish hoga.
 
-**Baaki options kyun sahi nahi hain?** Standing BP rise nahi hui. Respiratory rate given nahi hai. Standing pressure lower hai.
+**Option-by-option reasoning**
 
+- **A:** calculated fall aur symptoms orthostatic hypotension support karte hain.
+- **B:** standing pressure increase nahi hua.
+- **C:** pressure rise nahi hua, dono values fall hui hain.
+- **D:** BP readings respiration rate establish nahi karti.
+
+**Exam clue:** 20 systolic OR 10 diastolic within 3 minutes. Dizziness = fall risk.
+
+[Concept reference](https://www.cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf)
+
+**Historical lead, verification pending:** [HPRCA 25026, 5 May 2026, Shift 2, reported paper](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/25026-shift-2-05-may-2026). Indexed question concerns BP drop on standing. Direct page retrieval failed, exact item/key unverified.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -902,10 +914,20 @@ Saline, glucose ya medicines sample mein mix hokar measured values distort kar s
 
 **Correct: D. Inspection, auscultation, percussion, palpation**
 
-Abdomen mein pehle observe aur bowel sounds listen karte hain. Palpation aur percussion bowel activity change kar sakti hain, isliye auscultation pehle ki jaati hai.
+<!-- job5-rationale -->
+Routine abdominal examination ka conventional sequence IAPP hai: inspection, auscultation, percussion, palpation. Pehle contour, distension aur visible changes dekho. Bowel sounds manipulation se alter ho sakte hain, isliye percussion aur palpation se pehle listen karte hain. Percussion se gas, fluid ya solid tissue ke clues milte hain aur palpation tenderness ya masses assess karti hai. Painful area last assess karo aur acute serious abdominal findings par appropriate escalation karo.
 
-**Baaki options kyun sahi nahi hain?** Baaki sequences palpation ya percussion ko listening se pehle rakhte hain ya inspection late karte hain.
+**Option-by-option reasoning**
 
+- **A:** percussion aur palpation listening se pehle karta hai aur initial inspection bhi late hai.
+- **B:** inspection se pehle deep palpation inappropriate hai.
+- **C:** palpation first karne se discomfort aur sound pattern alter ho sakte hain.
+- **D:** inspection ke baad auscultation aur phir percussion-palpation conventional abdominal order hai.
+
+**Exam clue:** General IPPA, abdomen exception IAPP.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1431,10 +1453,20 @@ Spatial neglect attention problem ho sakti hai, visual acuity loss se different.
 
 **Correct: B. Recent strenuous activity**
 
-Exercise mein tissues ki oxygen demand aur CO2 production badhti hai. Heart aur breathing rate increase ho sakte hain.
+<!-- job5-rationale -->
+Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 production badhta hai. Sympathetic activation heart rate aur cardiac output increase karti hai, ventilation bhi demand ke according rise hoti hai. Isliye activity ke immediately baad pulse aur respiration baseline se high ho sakte hain. Recovery period, symptoms aur resting repeat values se context interpret karo. Abnormal persistent findings ignore mat karo.
 
-**Baaki options kyun sahi nahi hain?** Sleep aur relaxation often rates lower karte hain. Cuff size measurement accuracy affect karta hai.
+**Option-by-option reasoning**
 
+- **A:** quiet sleep generally rates reduce kar sakti hai, universally increase nahi.
+- **B:** strenuous activity metabolic demand aur cardiovascular-respiratory response increase karti hai.
+- **C:** correct cuff alone systemic heart rate aur respiration increase nahi karta.
+- **D:** stable relaxation generally sympathetic activation kam karti hai.
+
+**Exam clue:** Exercise increases metabolic demand, HR and ventilation.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-3-vital-signs)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1756,10 +1788,20 @@ Platelet transfusion selected low-count ya dysfunctional platelet situations mei
 
 **Correct: C. Palpation**
 
-Palpation touch se temperature, tenderness aur texture assess karne mein help karti hai. Dorsal hand temperature differences feel kar sakta hai.
+<!-- job5-rationale -->
+Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani haath ki back temperature comparison ke liye commonly useful hoti hai. Similar sites compare karo aur surrounding conditions note karo. Local warmth inflammation ka clue ho sakti hai lekin touch alone cause confirm nahi karta. Exact body temperature ke liye appropriate thermometer use karo.
 
-**Baaki options kyun sahi nahi hain?** Auscultation listening, percussion tapping aur olfaction smell assessment hai.
+**Option-by-option reasoning**
 
+- **A:** auscultation listening technique hai.
+- **B:** olfaction smell detect karta hai, temperature nahi.
+- **C:** touch ke through warmth assess karna palpation hai.
+- **D:** percussion tapping technique hai.
+
+**Exam clue:** Warmth by touch = palpation.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
