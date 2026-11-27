@@ -61,9 +61,19 @@ Effluent skin ko irritate kar sakta hai. Nurse leakage source aur barrier fit as
 
 **Correct: A. It uses the gastrointestinal tract and supports gut function**
 
-Enteral feeding gut route use karti hai aur intestinal function support kar sakti hai. Route selection clinical condition aur tolerance par depend karti hai.
+Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestine ke through deliver hote hain. Jab gut functional aur accessible ho, enteral route gut use aur mucosal function support kar sakta hai. Route selection swallowing safety, absorption, clinical stability aur tolerance ke hisaab se hoti hai. Enteral tube bhi aspiration risk ko zero nahi karti.
 
-**Baaki options kyun sahi nahi hain?** Aspiration risk remain ho sakta hai. Tube verification necessary hai. Arterial route enteral nahi hai.
+**Option-wise explanation:**
+- **A (Sahi):** Gut ka use enteral nutrition ki defining feature aur important advantage hai.
+- **B (Galat):** Tube-fed patient reflux, secretions ya misplaced tube se aspirate kar sakta hai.
+- **C (Galat):** Feeding tube ko approved placement verification chahiye.
+- **D (Galat):** Artery mein nutrient dena enteral route nahi hai aur routine nutrition delivery ka appropriate route bhi nahi hai.
+
+**Exam clue:** Functional accessible gut supports enteral route when clinically appropriate.
+
+**Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
@@ -103,9 +113,19 @@ Safe transfer patient ke actual strength, balance aur instructions follow karne 
 
 **Correct: B. Serial body weight**
 
-Same scale aur similar time-clothing conditions mein weights compare karne se change track hota hai. Weight fluid status se bhi change ho sakta hai.
+Serial weight ka matlab same patient ka weight repeated times par record karna hai. Same scale aur comparable time/clothing conditions se measurement variation kam hoti hai. Weight trend nutritional progress ya fluid gain/loss suggest kar sakta hai. Edema aur dehydration weight ko affect karte hain, isliye clinical findings aur intake ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Room temperature, tray count aur bed number nutritional trend measure nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Bed number administrative identification hai.
+- **B (Sahi):** Consistent serial body weight clinically useful trend provide karta hai, lekin fluid status ko bhi consider karna chahiye.
+- **C (Galat):** Room temperature patient ka nutrition ya fluid trend directly measure nahi karta.
+- **D (Galat):** Tray count available meals batata hai, body weight change nahi.
+
+**Exam clue:** Same conditions for repeated weights. Weight gain can be fluid.
+
+**Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -969,9 +989,19 @@ Fall-risk scale screening aur structured assessment support karti hai, but patie
 
 **Correct: B. Assess and escalate for possible wound infection**
 
-Increasing pain, spreading redness-warmth aur pus infection suggest kar sakte hain. Nurse vitals aur wound findings assess karke treatment team ko inform karti hai.
+Wound pain ka increase, spreading warmth aur purulent drainage ek possible infection pattern hai. Nurse wound aur surrounding skin inspect karti hai, temperature, pulse, BP aur overall symptoms assess karti hai aur treatment team ko timely inform karti hai. Systemic deterioration ho toh urgent escalation karo. Culture aur antimicrobial treatment clinical indication aur order ke hisaab se hote hain.
 
-**Baaki options kyun sahi nahi hain?** All drainage normal nahi hoti. Inspection avoid karna deterioration miss kar sakta hai. Forceful massage tissue harm kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Inflamed skin massage karne se pain aur tissue trauma badh sakta hai, aur infection ka cause treat nahi hota.
+- **B (Sahi):** Assessment aur escalation infection ya other complication ko timely identify karne mein help karte hain.
+- **C (Galat):** Inspection ke bina wound seal karne se progression aur drainage miss ho sakte hain.
+- **D (Galat):** Har drainage normal nahi hoti. Purulence aur increasing pain ko ignore karne se treatment delay ho sakta hai.
+
+**Exam clue:** New pain + spreading warmth + pus = assess for infection and escalate.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -1151,9 +1181,19 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 
 **Correct: B. Assess urgently for possible bloodstream infection and follow line and sepsis protocols**
 
-Central access infection ka risk rakhti hai. Fever-rigors serious infection indicate kar sakte hain. Nurse vitals assess karke urgent review aur prescribed investigations arrange karti hai.
+Parenteral nutrition nutrients ko venous circulation ke through deliver karti hai. Central line ke through germs bloodstream tak pahunch sakte hain. Rigors yani intense shaking chills aur fever possible bloodstream infection ke signs hain. Vitals aur perfusion urgently assess karo, sepsis pathway activate karo if indicated aur line management/cultures prescribed protocol se arrange karo. Antibiotic khud se nutrition bag mein mix mat karo.
 
-**Baaki options kyun sahi nahi hain?** Fever normal assume nahi karna chahiye. Unapproved mixing unsafe hai. Delay infection deterioration kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Unprescribed antibiotic mixing sterility, compatibility aur dose safety compromise karti hai.
+- **B (Sahi):** Urgent assessment aur line/sepsis protocol infection aur deterioration ko timely address karte hain.
+- **C (Galat):** Fever aur rigors ko routine nutrient response assume karna dangerous ho sakta hai.
+- **D (Galat):** Infusion khatam hone ka wait possible sepsis treatment delay karta hai.
+
+**Exam clue:** PN + fever/rigors = assess promptly for catheter-related infection and other causes.
+
+**Clinical references:** [Catheter bloodstream infection in parenteral nutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC6914297/) · [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
@@ -1577,9 +1617,19 @@ Removal timing wound site aur healing par depend karti hai. Nurse edges assess k
 
 **Correct: C. Hypoglycemia if medication effect continues without the expected carbohydrate delivery**
 
-Feeding stop hone par carbohydrate supply kam ho sakti hai lekin insulin effect continue reh sakta hai. Nurse glucose monitor karti hai aur interruption protocol follow karti hai.
+Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin insulin ya hypoglycemia-causing medicine active rahe, glucose low ho sakta hai. Nurse blood glucose promptly check karti hai aur prescribed feed-interruption protocol follow karti hai. Authorized plan mein nutritional insulin adjustment ya dextrose support ho sakta hai. Type 1 diabetes mein basal insulin ko automatically stop mat karo.
 
-**Baaki options kyun sahi nahi hain?** Glucose response variable hai. Protein overload defining concern nahi hai. Monitoring important hai.
+**Option-wise explanation:**
+- **A (Galat):** Hyperglycemia guaranteed nahi hai. Glucose response patient aur therapy par depend karta hai.
+- **B (Galat):** Feed interruption immediate protein overload ka typical mechanism nahi hai.
+- **C (Sahi):** Carbohydrate delivery rukne aur active insulin/medicine effect ke mismatch se hypoglycemia ho sakti hai.
+- **D (Galat):** Feed rukne par active medication ke saath monitoring aur important ho sakti hai.
+
+**Exam clue:** Feed interrupted + active insulin = hypoglycemia risk, monitor and follow protocol.
+
+**Clinical references:** [ADA 2026 hospital diabetes care](https://doi.org/10.2337/dc26-s016)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -1684,9 +1734,19 @@ Compressed gas cylinder damage hone par serious hazard create kar sakti hai. Sec
 
 **Correct: D. Primary intention**
 
-Primary intention mein wound edges close approximate hoti hain aur tissue gap small hota hai. Healing comparatively direct ho sakti hai.
+Primary intention healing mein wound edges surgically approximate ki jaati hain, jaise clean incision mein sutures ya staples se. Tissue gap small rehne ke kaaran closure comparatively direct hota hai. Nurse edge approximation, drainage aur infection signs check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Secondary intention mein wound open fill hoti hai. Tertiary delayed primary closure hai. Pressure necrosis injury mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Tertiary intention delayed primary closure hai, jab wound pehle open manage hoti hai aur baad mein close ki jaati hai.
+- **B (Galat):** Pressure necrosis tissue injury ka mechanism hai, closure method nahi.
+- **C (Galat):** Secondary intention mein wound open rehti hai aur gap granulation aur contraction se fill hota hai.
+- **D (Sahi):** Clean incision ke sutured edges primary intention healing describe karte hain.
+
+**Exam clue:** Primary = edges approximated from the start.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -2119,9 +2179,19 @@ Edge separation dehiscence ka sign ho sakti hai. Further removal stop karke woun
 
 **Correct: C. Activate urgent surgical help and protect exposed tissue with sterile saline-moistened dressing according to protocol**
 
-Evisceration emergency hai. Exposed tissue ko protect karna aur patient ko appropriate safe position mein rakhkar urgent surgical help lena chahiye.
+Evisceration mein abdominal incision open ho jaata hai aur internal organ wound se bahar protrude kar sakta hai. Yeh urgent surgical emergency hai. Patient ke paas raho, urgent help activate karo, ABC aur vitals assess karo. Exposed tissue ko sterile normal saline-moistened dressing se protocol ke mutabik protect karo. Organs ko wapas push mat karo. Patient ko safe position mein rakho aur surgical team ki instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Organs manually replace nahi karne chahiye. Dry adhesive injury kar sakti hai. Walking strain badha sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Walking se abdominal strain aur tissue injury ka risk badh sakta hai. Help patient tak bulani chahiye.
+- **B (Galat):** Bowel ko manually push back karna unsafe hai aur further trauma ya contamination cause kar sakta hai.
+- **C (Sahi):** Urgent surgical escalation aur sterile saline-moistened protection exposed tissue ko drying aur additional injury se bachane mein madad karte hain.
+- **D (Galat):** Dry adhesive tape exposed bowel se chipak kar tissue damage kar sakti hai.
+
+**Exam clue:** Evisceration = call surgical help, protect with sterile saline-moistened dressing, do not replace organs.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -2626,9 +2696,19 @@ Advanced illness mein appetite aur swallowing ability change ho sakti hain. Nurs
 
 **Correct: D. Serous**
 
-Serous drainage clear ya straw-colored watery fluid hoti hai. Amount aur change clinical context mein assess kiye jaate hain.
+Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh sakti hai. Small amount healing ke kuch phases mein normal ho sakta hai. Drainage ka amount, color, odor aur trend wound ke overall assessment ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Purulent pus-like, sanguineous bloody aur feculent stool-like hoti hai.
+**Option-wise explanation:**
+- **A (Galat):** Sanguineous drainage blood-dominant red fluid hoti hai, clear straw-colored nahi.
+- **B (Galat):** Purulent drainage pus-like, cloudy ya thick ho sakti hai. Infection ke signs assess karne chahiye.
+- **C (Galat):** Feculent drainage stool-like material ki tarah hoti hai aur possible abnormal bowel communication ki evaluation chahiye.
+- **D (Sahi):** Serous drainage thin clear ya pale yellow fluid hoti hai, jo stem se match karti hai.
+
+**Exam clue:** Serous = watery clear/straw, sanguineous = blood.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/) · [Reference 2](https://opentextbc.ca/clinicalskills/chapter/wound-assessment/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
