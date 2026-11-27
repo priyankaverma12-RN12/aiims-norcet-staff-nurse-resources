@@ -322,7 +322,7 @@ D. Chemical irritation of the venous endothelium
 
 [Related concept](../Concepts/08B-IV-Complications-and-Compatibility.md#phlebitis) · [Clinical reference](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Peripheral_Intravenous_IV_Device_Management/)
 
-**▶️ [ADAPT NCLEX REVIEW — practice test, phlebitis chapter 14:20](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
+**▶️ [YouTube MCQ practice — phlebitis, ADAPT NCLEX REVIEW (14:20)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
 
 </details>
 
@@ -349,7 +349,7 @@ D. Independently dilute the medication with any available fluid
 
 [Related concept](../Concepts/08B-IV-Complications-and-Compatibility.md#phlebitis) · [Clinical reference](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Peripheral_Intravenous_IV_Device_Management/)
 
-**▶️ [ADAPT NCLEX REVIEW — practice test, phlebitis chapter 14:20](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
+**▶️ [YouTube MCQ practice — phlebitis, ADAPT NCLEX REVIEW (14:20)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
 
 </details>
 
@@ -376,7 +376,7 @@ D. Phlebitis is impossible without a positive blood culture
 
 [Related concept](../Concepts/08B-IV-Complications-and-Compatibility.md#phlebitis) · [Clinical reference](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Peripheral_Intravenous_IV_Device_Management/)
 
-**▶️ [ADAPT NCLEX REVIEW — practice test, phlebitis chapter 14:20](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
+**▶️ [YouTube MCQ practice — phlebitis, ADAPT NCLEX REVIEW (14:20)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
 
 </details>
 
@@ -403,7 +403,7 @@ D. Use a routine warm pack as the sole treatment
 
 [Related concept](../Concepts/08B-IV-Complications-and-Compatibility.md#phlebitis) · [Clinical reference](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Peripheral_Intravenous_IV_Device_Management/)
 
-**▶️ [ADAPT NCLEX REVIEW — practice test, phlebitis chapter 14:20](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
+**▶️ [YouTube MCQ practice — phlebitis, ADAPT NCLEX REVIEW (14:20)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=860s)** — published description identifies phlebitis question segment. Related topic-level practice only, exact task and playback unverified.
 
 </details>
 
