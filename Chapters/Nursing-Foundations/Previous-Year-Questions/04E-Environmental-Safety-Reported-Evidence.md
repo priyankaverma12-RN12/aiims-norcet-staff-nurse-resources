@@ -16,10 +16,12 @@ D. Recover, Arrange, Check, Escape
 
 **Correct answer: B. Rescue, Alarm, Contain, Extinguish or Evacuate**
 
-- **A (Incorrect):** Report aur assessment useful hain but standard mnemonic ka correct expansion nahi hai.
-- **B (Correct):** RACE life safety, prompt alarm, smoke/fire containment and appropriate extinguisher use or evacuation organize karta hai. Rescue only when safe. MoHFW 2026 guidance immediate manual call point activation emphasize karti hai. Mnemonic ko rigid order samajh kar alarm delay mat karo.
-- **C (Incorrect):** Run aur examine recognized RACE expansion nahi hain. Panic movement avoid karo aur designated emergency plan follow karo.
-- **D (Incorrect):** Arrange aur check standard components nahi hain.
+- **A (Incorrect):** Report aur assessment useful clinical actions hain, par RACE mnemonic mein R rescue aur A alarm ko refer karte hain. Yeh proposed expansion recognized fire-response sequence nahi hai.
+- **B (Correct):** RACE ka commonly used expansion Rescue, Alarm, Contain ya Confine, Extinguish ya Evacuate hai. Immediate danger mein person ko sirf safe route available hone par assist karo, alarm promptly activate karo, aur safe ho toh doors close karke smoke spread limit karo. Fire extinguisher sirf trained person appropriate circumstances mein use kare. Indian hospital fire policy aur immediate alarm instructions follow karo. Rescue ke naam par alarm delay ya unsafe entry nahi karni hai.
+- **C (Incorrect):** Run panic movement ko imply karta hai, jo coordinated evacuation mein injury risk badha sakta hai. Call aur examine bhi mnemonic ke recognized terms nahi hain. Designated emergency route aur staff instructions follow karo.
+- **D (Incorrect):** Recover, arrange aur check standard RACE expansion ke components nahi hain. Fire response mein alarm, safe assistance aur containment ko explicitly identify karna zaroori hai.
+
+**Exam clue:** RACE mnemonic recall karo, lekin emergency mein safe rescue aur prompt alarm ko practical circumstances ke hisaab se coordinate karo.
 
 [Reported JIPMER question](https://testbook.com/question-answer/in-terms-of-response-to-fire-accidents-in-hospital--625ebae9a8cbd66c4743e94c) · [Reported RRB question](https://testbook.com/question-answer/what-does-the-acronym-race-stand-for-in-the-conte--69df4781c951cbb7b9e0d515) · [MoHFW 2026 guidance](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation).
 
@@ -47,10 +49,12 @@ D. Assist the person to safety if possible without endangering yourself, promptl
 
 **Correct answer: D. Assist the person to safety if possible without endangering yourself, promptly activate the alarm and coordinate the emergency response**
 
-- **A (Incorrect):** Records retrieve karne se immediate protection delay hoti hai. Life safety pehle hai.
-- **B (Incorrect):** Fire-fighting ko safe rescue se pehle prioritize nahi karna chahiye. Extinguisher only if trained, appropriate and safe.
-- **C (Incorrect):** Unsafe smoke-filled area enter karna staff ko bhi casualty bana sakta hai. Trained responders and safe evacuation zaroori hain.
-- **D (Correct):** Immediate danger mein safe assistance priority hai. Alarm promptly activate karo, parallel help lo and facility plan follow karo. If no safe route exists, withdraw and alert trained responders.
+- **A (Incorrect):** Medical record later handover aur documentation ke liye useful hai. Usko collect karne ke liye immediate life-saving response delay karna unsafe hai.
+- **B (Incorrect):** Fire extinguishing pehle attempt karne se endangered person smoke ya heat ke exposure mein reh sakta hai. Fire-fighting sirf trained staff ke liye safe exit aur appropriate equipment ke saath consider hoti hai.
+- **C (Incorrect):** Smoke-filled area mein unsafe entry se nurse khud casualty ban sakti hai. Untrained rescue attempt ki jagah alarm activate karke trained responders ko location batana chahiye.
+- **D (Correct):** Question mein immediate danger aur safe assistance route dono specified hain. Isliye person ko safe area mein assist karna, alarm promptly activate karna ya kisi colleague se karwana aur emergency response coordinate karna best hai. Electrical source ko unsafe tareeke se touch mat karo. Safe rescue possible na ho toh withdraw karke emergency responders ko alert karo.
+
+**Exam clue:** Immediate life safety first, but never enter an unsafe area or delay the alarm.
 
 [Reported AIIMS question](https://testbook.com/question-answer/you-discover-an-electrical-fire-in-a-client--617656e6fd6f2eaeb4d54b00) · [MoHFW 2026 guidance](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf).
 
