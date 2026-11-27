@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 680 new original MCQs in seventeen topic files.** 305 Medium and 375 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 720 new original MCQs in eighteen topic files.** 329 Medium and 391 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -21,7 +21,7 @@
 | 15. [Viruses and viral replication](15-Viruses-and-Viral-Replication-40-MCQs.md) | 40 |
 | 16. [Bloodborne and hepatitis viruses, HIV](16-Bloodborne-and-Hepatitis-Viruses-HIV-40-MCQs.md) | 40 |
 | 17. [Respiratory, enteric and vaccine-preventable viruses](17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses-40-MCQs.md) | 40 |
-| 18. Medical mycology and opportunistic fungi | 0 |
+| 18. [Medical mycology and opportunistic fungi](18-Medical-Mycology-and-Opportunistic-Fungi-40-MCQs.md) | 40 |
 | 19. Protozoa and malaria | 0 |
 | 20. Helminths and intestinal parasites | 0 |
 | 21. Innate and adaptive immunity | 0 |
