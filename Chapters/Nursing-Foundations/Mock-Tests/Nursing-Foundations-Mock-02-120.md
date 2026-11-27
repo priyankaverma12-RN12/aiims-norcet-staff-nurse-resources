@@ -386,7 +386,9 @@ Connector surface par microorganisms ho sakte hain. Approved disinfection aur dr
 
 ### Q17. The apical pulse is 112/min and simultaneous radial pulse is 98/min. What is the pulse deficit?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 RRB Staff Nurse 2019 · Shift II — related concept** · **🟣 AIIMS Bhatinda Nursing Officer 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** 14 beats/min
 - **B.** 98 beats/min
@@ -401,9 +403,17 @@ Pulse deficit apical aur peripheral pulse ka difference hai. 112 minus 98 = 14 b
 
 **Baaki options kyun sahi nahi hain?** 210 sum hai. 98 radial rate aur 112 apical rate hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q5](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q5](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q5-the-apical-pulse-is-112min-and-simultaneous-radial-pulse-is-98min-what-is-the-pulse-deficit)
 
 ### Q18. What is the primary purpose of an occupied bed-making technique?
 
@@ -631,7 +641,9 @@ IV route medicine ko directly vein mein deliver karta hai. Onset rapid ho sakta 
 
 ### Q28. Which assessment technique uses a stethoscope to listen to internal body sounds?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Inspection
 - **B.** Percussion
@@ -646,9 +658,17 @@ Auscultation mein nurse heart, lungs ya bowel sounds sunne ke liye stethoscope u
 
 **Baaki options kyun sahi nahi hain?** Palpation touch se assessment hai. Percussion tapping hai. Inspection visual observation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists IPPA techniques; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q8](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q8](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q8-which-assessment-technique-uses-a-stethoscope-to-listen-to-internal-body-sounds)
 
 ### Q29. A patient cannot swallow an extended-release tablet. Which action is safest?
 
@@ -1627,7 +1647,9 @@ Orientation phase mein nurse aur patient meet karke problem identify aur relatio
 
 ### Q73. A patient's fingers are cold and a pulse oximeter reading fluctuates widely with a poor waveform. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Accept the lowest number without checking
 - **B.** Remove oxygen solely because the display is unstable
@@ -1642,9 +1664,17 @@ Cold fingers mein peripheral perfusion low ho sakti hai aur signal unreliable ho
 
 **Baaki options kyun sahi nahi hain?** Unverified number misleading ho sakta hai. Oxygen decisions clinical assessment par depend karti hain. Normal display symptoms ko exclude nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03D-Pulse-Oximetry-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q7](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q7](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q7-a-patients-fingers-are-cold-and-a-pulse-oximeter-reading-fluctuates-widely-with-a-poor-waveform-what-should-the-nurse-do)
 
 ### Q74. A patient requests that a particular health detail not be discussed with visitors. What should the nurse do?
 
@@ -1902,7 +1932,9 @@ Cystoscopy endoscope se urethra aur bladder lining inspect karne mein help karti
 
 ### Q86. Which approach minimizes the effect of conscious breathing control when assessing respiratory rate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Estimate from the patient's age alone
 - **B.** Observe chest movements discreetly after pulse assessment
@@ -1917,9 +1949,17 @@ Patient ko pata chale ki breathing count ho rahi hai toh pattern change ho sakta
 
 **Baaki options kyun sahi nahi hain?** Fast breathing instruction baseline change karti hai. Talking pattern affect karti hai. Age actual respiratory rate nahi batati.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q6](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q6](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q6-which-approach-minimizes-the-effect-of-conscious-breathing-control-when-assessing-respiratory-rate)
 
 ### Q87. A patient is medically ready for discharge but has no safe means of obtaining essential medication. What is the appropriate nursing response?
 
