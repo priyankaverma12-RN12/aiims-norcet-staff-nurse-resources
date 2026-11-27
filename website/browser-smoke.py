@@ -29,6 +29,17 @@ try:
         expect(cards.first).to_be_visible(timeout=30000)
         count = cards.count()
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
+        expect(page.locator("#chapter-total")).to_have_text(str(count))
+        assert page.locator(".chapter-group").count() >= 8
+        page.locator("#search").fill("Respiratory")
+        expect(cards).to_have_count(1)
+        page.locator("#search").fill("")
+        page.locator("#group-filter").select_option(index=1)
+        assert 0 < cards.count() < count
+        page.locator("#group-filter").select_option("")
+        expect(cards).to_have_count(count)
+        page.locator("#theme").click()
+        assert page.locator("html").get_attribute("data-theme") in ("dark", "light")
         hrefs = cards.evaluate_all("(items) => items.map(a => a.href)")
         assert len(set(hrefs)) == count
         no_overflow(page)
@@ -59,6 +70,8 @@ try:
         expect(page.locator("#marks a")).to_contain_text("voice box")
         page.locator("#marks a").click()
         ready(page)
+        page.goto(base)
+        expect(page.locator("#recent .recent-card").first).to_be_visible()
         desktop.close()
         for width, height in [(390, 844), (320, 720)]:
             ctx = browser.new_context(viewport={"width": width, "height": height}, is_mobile=True, has_touch=True)
