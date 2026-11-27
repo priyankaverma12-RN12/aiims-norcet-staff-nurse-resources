@@ -87,3 +87,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Individual HBV occupational top-up
 
 18 new questions plus 12 earlier allocated = 30 working HBV slots. 130 prior related stems compared for exact normalized duplication, no overlap. Concept guide, diagram, named CDC references, indexed teaching/quiz and historical evidence. Total 1,483 (667 Medium, 816 Difficult), 57 counted recruitment plus two academic adaptations. HIV 30, HCV 8 needs expansion. Full semantic review, local guideline, official keys and dedicated nursing MCQ video pending. Next: individual HCV occupational exposure expansion (8 allocated, needs at least 22 additional distinct questions). Mocks 0/10.
+
+
+### Individual HCV occupational top-up
+
+22 new plus 8 earlier allocated = 30 working HCV slots. Group 05 initial individual numerical targets now 40 sharps, 30 HIV, 30 HBV, 30 HCV. 148 prior related stems checked against new questions for exact overlap, none found. New concept, flowchart, named CDC references and indexed practice/teaching links with historical evidence limitations. Total 1,505 (671 Medium, 834 Difficult), initial 1,200 + 305 expansion. 57 counted recruitment and two academic adaptations, no new counted PYQ. Comprehensive semantic, clinical, local protocol, official key and video playback audit pending. Next: group 06 chain of infection and microbial transmission individual-topic allocation and expansion. Mocks 0/10.

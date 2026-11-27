@@ -369,3 +369,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Individual HBV occupational top-up
 
 18 new MCQs plus 12 earlier allocated = 30. Inventory 1,483 (667 Medium, 816 Difficult). 130 prior related exact stem comparisons passed. HCV 8 allocated remains next. 57 counted recruitment adaptations plus two academic adaptations. Mocks 0/10. Full evidence and semantic audits pending.
+
+
+### Individual HCV occupational top-up
+
+22 new questions, concept and flowchart, indexed resources and historical evidence gap. 30 working HCV slots including 8 earlier. Group 05 allocations sharps 40, HIV 30, HBV 30, HCV 30. 148 related stems compared with no exact overlap. Inventory 1,505 (671 Medium, 834 Difficult), 57 reported recruitment and two academic adaptations. Next: group 06 chain of infection and microbial transmission individual-topic allocation and expansion. Chapter mocks 0/10. Full audits remain pending.

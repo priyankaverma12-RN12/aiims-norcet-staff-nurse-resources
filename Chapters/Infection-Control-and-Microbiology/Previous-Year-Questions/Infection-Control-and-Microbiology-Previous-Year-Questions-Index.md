@@ -87,3 +87,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Occupational exposure reported evidence](05A-Occupational-Exposure-Reported-Evidence.md): two retrieved NORCET 2020 and JIPMER 2013 historical reports retained without count increment pending earlier-source overlap review. Current count 57 plus two academic adaptations.
+
+
+[HCV occupational source evidence and clinical correction](../Concepts/05E-Occupational-HCV-Top-Up.md#sources-and-practice). Repeated historical association excluded from count. 57 counted recruitment and two academic adaptations.

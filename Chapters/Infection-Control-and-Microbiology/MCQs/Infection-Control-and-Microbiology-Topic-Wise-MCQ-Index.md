@@ -55,8 +55,9 @@
 | [Pathogen-specific post-exposure management](05B-Pathogen-Specific-Post-Exposure-Management-17-MCQs.md) | 17 |
 | [Occupational HIV PEP top-up](05C-Occupational-HIV-PEP-Top-Up-10-MCQs.md) | 10 |
 | [Occupational HBV top-up](05D-Occupational-HBV-Top-Up-18-MCQs.md) | 18 |
+| [Occupational HCV top-up](05E-Occupational-HCV-Top-Up-22-MCQs.md) | 22 |
 
-**Current indexed inventory: 1,483 original question slots**, 667 Medium and 816 Difficult, excluding four legacy starter items. Initial 1,200 plus 283 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
+**Current indexed inventory: 1,505 original question slots**, 671 Medium and 834 Difficult, excluding four legacy starter items. Initial 1,200 plus 305 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
 
 Group 03 allocations: standard precautions 8 earlier + 30 new = 38, transmission precautions 20 earlier + 20 new = 40, PPE 12 earlier + 20 new = 32. Earlier group items allocated once, not new authorship.
 
@@ -68,3 +69,6 @@ HIV occupational allocation now 30 (20 earlier + 10 new). HBV 12 and HCV 8 remai
 
 
 HBV occupational allocation now 30 (12 earlier + 18 new). HIV 30, HCV 8 remains below target.
+
+
+Group 05 initial individual numerical allocation: sharps 40, HIV 30, HBV 30, HCV 30. HCV 8 earlier + 22 new. All earlier group slots allocated once, no double counting. Semantic audit pending.
