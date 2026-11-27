@@ -37,4 +37,4 @@ Astigmatism/presbyopia expansion: astigmatism MCQs 231ca5f0d676f71ef9b75bbc6a7e0
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0531-optics. Scope refractive optics and nursing, chapter-local files only. Expires 2026-11-27T06:01:00Z. -->
