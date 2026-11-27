@@ -139,7 +139,7 @@ Ishihara plates colored dot patterns use karti hain jisme numbers ya shapes iden
 
 ### PYQ8. Which gauge is conventionally coded pink for a peripheral IV cannula that may be adequate for routine red-cell transfusion in a suitable patient?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q51, corrected concept
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · **🔵 HPSSC Staff Nurse 2021, Series A, post code 892, Q51 — corrected reported concept**
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
