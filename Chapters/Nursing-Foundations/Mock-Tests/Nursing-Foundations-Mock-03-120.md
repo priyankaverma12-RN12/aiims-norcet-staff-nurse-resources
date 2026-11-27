@@ -796,9 +796,19 @@ Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise 
 
 **Correct: B. Dehiscence**
 
-Dehiscence wound edges ka separation hai. Nurse wound protect karti hai aur urgent surgical assessment leti hai.
+Dehiscence ka matlab surgically closed wound ke edges ka partial ya complete separation hai. Abdominal incision mein coughing, strain, infection ya poor healing se risk badh sakta hai. Patient ko unnecessary movement se bachao, wound protect karo aur prompt surgical assessment arrange karo. Internal organ protrusion ho toh evisceration emergency consider hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Evisceration mein internal organs protrude karte hain. Normal primary healing mein edges approximate rehti hain. Maceration excess moisture damage hai.
+**Option-wise explanation:**
+- **A (Galat):** Maceration excessive moisture se surrounding skin soft aur weak hone ko kehte hain.
+- **B (Sahi):** Wound edges separate hain aur organs protrude nahi kar rahe, isliye dehiscence appropriate term hai.
+- **C (Galat):** Evisceration mein internal organs wound ke through protrude karte hain. Stem mein woh finding absent hai.
+- **D (Galat):** Normal primary intention mein edges approximate rehti hain. Separation complication hai.
+
+**Exam clue:** Dehiscence = incision opens, evisceration = organs protrude.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -817,9 +827,19 @@ Dehiscence wound edges ka separation hai. Nurse wound protect karti hai aur urge
 
 **Correct: C. Actual amount consumed and relevant tolerance findings**
 
-Delivered food aur consumed food different ho sakte hain. Actual intake aur nausea, swallowing difficulty jaise findings nutritional plan evaluate karne mein help karti hain.
+Nutritional intake delivered food se nahi, actual consumed amount se assess hoti hai. Nurse portion ya measured volume, supplements, nausea, vomiting, chewing/swallowing difficulty aur relevant assistance record karti hai. Isse dietitian ko nutrition plan adjust karne ke liye accurate trend milta hai.
 
-**Baaki options kyun sahi nahi hain?** Tray amount consumption prove nahi karta. Neighbor preference irrelevant hai. Assumed intake inaccurate hai.
+**Option-wise explanation:**
+- **A (Galat):** Tray par delivered food ka matlab patient ne sab consume kiya, yeh nahi hai.
+- **B (Galat):** Neighboring patient ki preference is patient ke intake ko measure nahi karti.
+- **C (Sahi):** Actual consumed amount aur tolerance record karna nutritional monitoring ka useful part hai.
+- **D (Galat):** Tray removal par full consumption assume karne se false record ban sakta hai.
+
+**Exam clue:** Record what the patient actually consumed, not what was served.
+
+**Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) · [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -995,9 +1015,21 @@ Cryoprecipitate fibrinogen-rich component hai jo selected bleeding conditions me
 
 **Correct: C. Continue individualized repositioning, skin inspection and other prevention measures**
 
-Special mattress pressure distribute kar sakti hai lekin risk completely remove nahi karti. Nurse repositioning schedule patient tolerance aur skin response se adjust karti hai.
+Pressure-redistributing mattress body weight ko larger surface par distribute karke peak pressure kam kar sakti hai. Lekin prolonged loading, shear, moisture aur poor perfusion ka risk poori tarah eliminate nahi hota. Repositioning frequency individual risk, skin response, support surface aur tolerance par depend karti hai. Patient ko reposition karo, pressure points inspect karo aur nutrition/moisture care continue rakho.
 
-**Baaki options kyun sahi nahi hain?** No repositioning aur delayed inspection injury miss kar sakte hain. Hard objects focal pressure badha sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Firm objects bony prominence ke neeche focal pressure increase kar sakte hain.
+- **B (Galat):** Discharge tak skin inspect na karne se early damage miss ho sakta hai.
+- **C (Sahi):** Mattress ke saath repositioning aur skin assessment continue karna best listed plan hai.
+- **D (Galat):** Special mattress risk zero nahi karti. Repositioning automatically stop karna unsafe hai.
+
+**Exam clue:** Support surface helps but does not replace individualized repositioning.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**Related historical evidence:** [HPSSC Staff Nurse 2021 Series A post code 892 Q9](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/) directly retrieved third-party report includes a traditional two-hour repositioning option. This is related concept evidence only, not this stem. Current practice individualizes intervals. Official key not authenticated.
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1078,9 +1110,19 @@ Routine abdominal examination ka conventional sequence IAPP hai: inspection, aus
 
 **Correct: D. Proliferative phase**
 
-Proliferation mein fibroblasts matrix banati hain aur new capillaries grow karti hain. Granulation tissue wound filling aur repair support karta hai.
+Wound healing ke overlapping phases mein proliferative phase woh time hai jab fibroblasts collagen-rich matrix banate hain aur angiogenesis yani nayi small blood vessels develop hoti hain. Granulation tissue wound gap fill karta hai aur epithelial cells surface restore karte hain. Healing speed blood supply, nutrition, infection aur other factors se affect hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Hemostasis bleeding control karti hai. Inflammation debris removal mein role rakhti hai. Remodeling collagen organization aur strength change karti hai.
+**Option-wise explanation:**
+- **A (Galat):** Inflammation mein immune cells debris aur microbes clear karte hain. Granulation formation ka main phase proliferation hai.
+- **B (Galat):** Remodeling mein collagen reorganize hota hai aur scar strength gradually improve hoti hai.
+- **C (Galat):** Hemostasis mainly initial bleeding stop karne ke liye clot formation karta hai.
+- **D (Sahi):** New vessels aur granulation tissue proliferative phase ki characteristic findings hain.
+
+**Exam clue:** Granulation + angiogenesis = proliferation.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://openstax.org/books/medical-surgical-nursing/pages/28-2-wound-healing-process)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
 </details>
 
@@ -1376,9 +1418,19 @@ Rectal stimulation vagus-related reflex response se heart rate slow kar sakti ha
 
 **Correct: C. Verify each formulation and give separately with appropriate flushes according to policy**
 
-Separate administration interactions aur tube blockage risk reduce kar sakti hai. Pharmacy formulation compatibility verify karti hai aur enteral-specific connectors wrong-route error prevent karte hain.
+Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube compatibility alag ho sakti hai. Modified-release ya enteric-coated medicines ko bina pharmacist review crush karna unsafe ho sakta hai. Each medicine separately prepare aur administer karo, compatible enteral syringe use karo aur before, between aur after prescribed flushes do. Feed interruption medicine-specific interaction ke hisaab se decide hota hai.
 
-**Baaki options kyun sahi nahi hain?** Crushing all tablets unsafe ho sakti hai. IV connection wrong-route risk hai. Flushes patency support karti hain.
+**Option-wise explanation:**
+- **A (Galat):** Flush skip karne se medicine residue aur blockage risk badh sakta hai.
+- **B (Galat):** Sab medicines crush karke formula mein mix karna dose delivery aur interactions ko affect kar sakta hai.
+- **C (Sahi):** Formulation verify karna, separate administration aur suitable flushes safe practice support karte hain.
+- **D (Galat):** IV syringe ko enteral line se connect karna wrong-route error ka risk badhata hai.
+
+**Exam clue:** Separate medicines, enteral connector, appropriate flushes.
+
+**Clinical references:** [NHS SPS medicines via enteral tubes](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -1543,9 +1595,19 @@ Suction temporarily oxygenation affect aur vagal response trigger kar sakti hai.
 
 **Correct: B. Hypophosphatemia**
 
-Nutrition restart hone par insulin rise se phosphate, potassium aur magnesium cells ke andar shift ho sakte hain. Severe phosphate fall dangerous ho sakti hai. Risk-based slow advancement aur monitoring needed hai.
+Severe malnutrition mein body prolonged low intake ke according adapt ho jaati hai. Jab calories dobara milti hain, insulin rise se phosphate, potassium aur magnesium cells ke andar shift ho sakte hain. Hypophosphatemia ka matlab blood phosphate low hona hai. Severe decrease energy production, muscles, breathing aur heart function ko affect kar sakta hai. Risk assessment, thiamine, electrolyte checks, prescribed cautious nutrition advancement aur monitoring zaroori hain.
 
-**Baaki options kyun sahi nahi hain?** High phosphate typical early shift nahi hai. Sodium alone defining feature nahi hai. Electrolytes normal guaranteed nahi hain.
+**Option-wise explanation:**
+- **A (Galat):** Early refeeding mein phosphate commonly fall kar sakta hai, rise typical hallmark nahi hai.
+- **B (Sahi):** Hypophosphatemia refeeding syndrome ki characteristic electrolyte disturbance hai. Potassium aur magnesium bhi monitor karo.
+- **C (Galat):** Sodium aur fluid balance change ho sakte hain, lekin isolated high sodium defining electrolyte finding nahi hai.
+- **D (Galat):** High-risk patients mein electrolyte abnormalities develop ho sakti hain even if baseline normal ho.
+
+**Exam clue:** Refeeding risk: phosphate, potassium, magnesium and thiamine.
+
+**Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2087,9 +2149,19 @@ Physical inactivity bowel motility reduce kar sakti hai aur inadequate fluid sto
 
 **Correct: C. Stop feeding, assess and support breathing and seek urgent help**
 
-Sudden respiratory findings aspiration ya other acute complication indicate kar sakte hain. Nurse feed stop karke airway-breathing support arrange karti hai.
+Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory compromise ke signs hain. Enteral feed aspiration ek possibility hai, lekin other acute causes bhi assess karne hain. Feed immediately stop karo, airway aur breathing assess/support karo aur urgent help activate karo. Patient ki condition ke hisaab se safe positioning, oxygen aur suction trained protocol ke mutabik use ho sakte hain. Reassessment se pehle feed restart mat karo.
 
-**Baaki options kyun sahi nahi hain?** Faster feeding aur flat position risk worsen kar sakte hain. Delay unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Flat position aur continued feed respiratory safety compromise kar sakte hain.
+- **B (Galat):** Faster feeding possible aspiration ko worsen kar sakti hai.
+- **C (Sahi):** Feed stop aur urgent breathing assessment further exposure aur deterioration ka risk kam karte hain.
+- **D (Galat):** Bag finish hone ka wait acute respiratory problem ka treatment delay karta hai.
+
+**Exam clue:** Sudden respiratory deterioration during feeding = stop feed, ABC, urgent help.
+
+**Clinical references:** [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/) · [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2761,9 +2833,19 @@ Wrong identity wrong-patient medication risk create karti hai. Nurse approved id
 
 **Correct: D. Braden Scale**
 
-Braden Scale pressure injury risk ke multiple domains assess karti hai. Lower score usually higher risk indicate karta hai, with clinical judgment.
+Braden Scale patient ke pressure injury risk ko structured way mein assess karti hai. Ismein sensation, moisture, activity, mobility, nutrition aur friction/shear ko score karte hain. Total score generally 6 se 23 hota hai, jisme lower score higher risk suggest karta hai. Scale ko clinical assessment aur individualized prevention ke saath use karo, universal cutoff ko blindly apply mat karo.
 
-**Baaki options kyun sahi nahi hain?** GCS consciousness, Apgar newborn adaptation aur Bishop cervical readiness assess karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Apgar newborn ki immediate postbirth adaptation assess karta hai.
+- **B (Galat):** Glasgow Coma Scale eye, verbal aur motor response se consciousness assess karta hai.
+- **C (Galat):** Bishop score cervix ki readiness for labor induction assess karta hai.
+- **D (Sahi):** Braden ke six domains stem mein listed hain aur pressure injury risk assessment se match karte hain.
+
+**Exam clue:** Braden = six pressure injury risk domains, lower score generally higher risk.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
