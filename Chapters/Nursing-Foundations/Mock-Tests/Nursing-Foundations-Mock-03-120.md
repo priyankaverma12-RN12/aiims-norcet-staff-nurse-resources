@@ -1782,9 +1782,22 @@ Subjective data patient ka personal experience hai, jaise pain rating. Objective
 
 **Correct: B. Assess hydration and comfort, replace fluids as appropriate and monitor temperature trend**
 
-Set point normal taraf aane par sweating heat loss support kar sakti hai. Nurse hydration, wet clothing aur temperature trend assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Impermeable covering heat loss reduce kar sakti hai. Fever recurrence possible hai. Fluid loss monitor karni chahiye.
+Fever ka set point lower hone par body excess heat lose karne ke liye sweating aur vasodilation use kar sakti hai. Heavy sweating se fluid loss ho sakta hai. Nurse hydration, vital signs, intake-output aur comfort assess karti hai. Prescribed fluid allowance ke according replacement arrange karo aur underlying illness ki monitoring continue rakho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Sweat fluid loss contribute karti hai, isliye hydration assessment zaroori hai.
+- **B (Sahi):** Hydration, comfort aur temperature trend assess karna appropriate supportive care hai.
+- **C (Galat):** Fever fall hone se cause resolve ya recurrence impossible prove nahi hota.
+- **D (Galat):** Impermeable covering evaporation aur heat loss obstruct kar sakti hai.
+
+**Exam clue:** Fever falling with sweating: reassess fluid status.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2044,9 +2057,22 @@ Competent patient information sharing preferences express kar sakta hai. Nurse c
 
 **Correct: B. Conduction**
 
-Direct contact se heat warmer surface se colder surface ki taraf transfer hoti hai. Cold examination table iska example hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Convection moving air-fluid, radiation distance par heat transfer aur evaporation liquid-to-vapor process hai.
+Conduction mein heat do objects ke direct physical contact se transfer hoti hai. Jab warm skin colder examination table ko touch karti hai, heat skin se table ki taraf ja sakti hai. Insulating sheet direct heat transfer reduce kar sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Evaporation liquid ko vapor mein badalne se heat remove karti hai.
+- **B (Sahi):** Direct contact between warmer and cooler surfaces conduction hai.
+- **C (Galat):** Convection moving air ya water ke through heat transfer hai.
+- **D (Galat):** Radiation electromagnetic waves ke through heat transfer hai, direct contact required nahi.
+
+**Exam clue:** Conduction = direct contact.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2260,9 +2286,22 @@ Patient ko reposition karne se pressure redistribute hota hai aur immobility-rel
 
 **Correct: B. Convection**
 
-Moving air skin ke paas warm air replace karti hai. Cooler air hone par heat transfer convection se badh sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Conduction direct contact hai. Osmosis water movement hai. Thermogenesis heat production hai.
+Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air ki layer ko cooler moving air replace kare toh heat loss badh sakta hai. Environmental temperature aur humidity overall cooling effect ko influence karte hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Thermogenesis body mein heat production hai.
+- **B (Sahi):** Moving cooler air skin se heat carry kare toh convection hoti hai.
+- **C (Galat):** Conduction alone moving fluid ka effect explain nahi karti.
+- **D (Galat):** Osmosis membrane ke across water movement hai, heat transfer mechanism nahi.
+
+**Exam clue:** Convection = moving air or liquid.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3474,9 +3513,22 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 **Correct: D. Evaporation**
 
-Sweat evaporate hone ke liye heat energy use karta hai. Is energy loss se skin aur body cool ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Radiation aur conduction separate heat transfer routes hain. Thermogenesis heat create karti hai.
+Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahiye, jo skin se heat ke form mein aa sakti hai. Isliye effective sweat evaporation cooling karti hai. Humid environment mein evaporation kam ho sakti hai even when sweating continues.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Radiation waves se heat transfer hai, liquid-to-vapor change nahi.
+- **B (Galat):** Muscle thermogenesis heat produce karti hai.
+- **C (Galat):** Conduction contact se heat transfer hai.
+- **D (Sahi):** Sweat ka vapor mein change evaporation hai aur heat loss support karta hai.
+
+**Exam clue:** Evaporation = liquid to vapor.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
