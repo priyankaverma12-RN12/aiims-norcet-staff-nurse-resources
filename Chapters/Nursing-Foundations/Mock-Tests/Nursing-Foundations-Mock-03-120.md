@@ -1236,9 +1236,19 @@ Assisted transfer required patient ko help request karne ka accessible method ch
 
 **Correct: D. Safe bag positioning, hygiene, drainage handling and when to seek help**
 
-Patient ko closed drainage aur bag below bladder maintain karna sikhana important hai. Nurse infection, blockage aur removal follow-up signs explain karti hai.
+Indwelling catheter bladder se urine continuously drain karta hai. Home care mein closed drainage maintain karna aur collection bag bladder ke level se neeche rakhna backflow aur contamination risk reduce karta hai. Tubing kink na ho, drainage handling aur routine hygiene approved instructions se demonstrate karo. Fever, new pain, blockage ya low drainage ke liye contact plan aur catheter review/removal date samjhao.
 
-**Baaki options kyun sahi nahi hain?** Routine disconnection, elevated bag aur unclean container infection risk badhate hain.
+**Option-wise explanation:**
+- **A (Galat):** Bag bladder se upar rakhne par urine backflow ka risk ho sakta hai.
+- **B (Galat):** Routine disconnection closed system break karti hai aur infection risk badhati hai.
+- **C (Galat):** Shared unclean container contamination ka source ban sakta hai. Suitable clean separate container use karo.
+- **D (Sahi):** Safe positioning, hygiene, handling aur help-seeking instructions essential self-care skills hain.
+
+**Exam clue:** Closed system, bag below bladder, follow-up and warning signs.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1997,9 +2007,19 @@ Mobilization circulation, lung expansion aur muscle function support kar sakti h
 
 **Correct: A. Home mobility support, medication review and individualized fall prevention teaching**
 
-Fall risk home mein bhi continue ho sakta hai. Mobility aids, environment aur medicines review safer discharge support karte hain.
+Fall risk ghar par bhi present ho sakta hai, especially weakness, balance problem, unsafe footwear, medicines ya environmental hazards ke karan. Home mobility assess karo, prescribed walking aid aur caregiver help arrange karo, aur medication review ke liye team involve karo. Patient ko safe movement aur warning signs samjhao. Individualized plan ka goal safety ke saath independence maintain karna hai.
 
-**Baaki options kyun sahi nahi hain?** Meal menu aur shift schedule fall plan nahi hain. Permanent immobility inappropriate hai.
+**Option-wise explanation:**
+- **A (Sahi):** Mobility support, medication review aur specific fall prevention education relevant risks address karte hain.
+- **B (Galat):** Nurse ka shift schedule home fall hazards ko address nahi karta.
+- **C (Galat):** Meal menu alone fall prevention plan nahi hai.
+- **D (Galat):** Permanent immobility weakness aur deconditioning badha sakti hai. Safe mobility individualized honi chahiye.
+
+**Exam clue:** Prevent falls while supporting assessed safe mobility.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2435,9 +2455,19 @@ Restraint patient ki free movement restrict kar sakti hai aur skin injury, circu
 
 **Correct: D. Verify the current order, remaining volume, rate, line status and handover details**
 
-Transfer mein line interruption ya rate error ho sakta hai. Nurse infusion details aur monitoring needs receiving team ko communicate karti hai.
+Active IV infusion transfer ke dauran kink, disconnection, pump battery failure ya wrong rate se interrupt ho sakti hai. Current order, solution/drug, concentration, remaining volume, rate, line patency aur site condition verify karo. Transport duration ke liye equipment suitable hona chahiye. Receiving nurse ko recent dose aur ongoing monitoring needs handover karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic disconnection treatment interrupt kar sakti hai. Label removal verification reduce karti hai. Pump management trained staff ka role hai.
+**Option-wise explanation:**
+- **A (Galat):** Pump alarms trained staff assess karte hain. Patient ko unki responsibility alone nahi deni chahiye.
+- **B (Galat):** Automatic disconnection clinically required medicine ya fluid interrupt kar sakti hai.
+- **C (Galat):** Medication label remove karne se solution aur dose verification mushkil hoti hai.
+- **D (Sahi):** Order, volume, rate aur line status verify karna treatment continuity aur safety support karta hai.
+
+**Exam clue:** Check order, line, pump, supply and handover before transfer.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2678,9 +2708,19 @@ Sedation aur throat anesthesia protective reflexes impair kar sakti hain. Nurse 
 
 **Correct: B. Assess capacity and immediate risk, inform the team, explain risks and document according to policy**
 
-Competent patient informed decision le sakta hai. Nurse capacity concerns, risks, alternatives aur follow-up discuss karne ke liye team involve karti hai.
+Patient recommended care complete hone se pehle leave karna chahe toh decision-making capacity aur immediate risk assess karna important hai. Capacity decision-specific hoti hai aur acute illness ya altered mental state se affect ho sakti hai. Team ko inform karo, patient ki reasons suno, risks aur alternatives explain karo, safe follow-up aur return precautions arrange karo. Local law aur facility policy follow karo. Informed refusal aur offered care accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Routine detention autonomy violate kar sakti hai. Record deletion aur safety teaching refusal harmful hain.
+**Option-wise explanation:**
+- **A (Galat):** Har competent patient ko physically detain karna autonomy violate kar sakta hai. Any legal restriction requires applicable grounds.
+- **B (Sahi):** Capacity, risk, communication, documentation aur harm reduction informed decision ko support karte hain.
+- **C (Galat):** Safety instructions deny karne se avoidable harm badh sakta hai even when patient refuses recommended care.
+- **D (Galat):** Recommendation delete karne se clinical record inaccurate ho jaata hai.
+
+**Exam clue:** Leaving early: assess capacity and risk, inform, document, offer safe follow-up.
+
+**Clinical references:** [Clinical reference 1](https://psnet.ahrq.gov/web-mm/discharge-against-medical-advice) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
