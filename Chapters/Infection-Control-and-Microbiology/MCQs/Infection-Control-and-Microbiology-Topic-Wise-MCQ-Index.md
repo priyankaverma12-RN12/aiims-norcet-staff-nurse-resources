@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 400 new original MCQs in ten topic files.** 184 Medium and 216 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 480 new original MCQs in twelve topic files.** 216 Medium and 264 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -14,8 +14,8 @@
 | 8. [Staining, microscopy and bacterial culture](08-Staining-Microscopy-and-Bacterial-Culture-40-MCQs.md) | 40 |
 | 9. [Gram-positive cocci and bacilli](09-Gram-Positive-Cocci-and-Bacilli-40-MCQs.md) | 40 |
 | 10. [Gram-negative cocci and enteric bacilli](10-Gram-Negative-Cocci-and-Enteric-Bacilli-40-MCQs.md) | 40 |
-| 11. Nonfermenters and hospital bacterial pathogens | 0 |
-| 12. Mycobacteria and tuberculosis | 0 |
+| 11. [Nonfermenters and hospital bacterial pathogens](11-Nonfermenters-and-Hospital-Bacterial-Pathogens-40-MCQs.md) | 40 |
+| 12. [Mycobacteria and tuberculosis](12-Mycobacteria-and-Tuberculosis-40-MCQs.md) | 40 |
 | 13. Anaerobes and spore-forming pathogens | 0 |
 | 14. Spirochetes, atypical bacteria and rickettsiae | 0 |
 | 15. Viruses and viral replication | 0 |

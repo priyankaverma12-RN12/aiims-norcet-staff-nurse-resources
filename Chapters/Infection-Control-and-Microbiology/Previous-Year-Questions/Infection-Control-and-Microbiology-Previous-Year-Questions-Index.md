@@ -14,3 +14,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 ## Additional academic examination evidence — separate from recruitment PYQs
 
 [AIIMS Kalyani B.Sc. Nursing August 2024 — two gram-negative microbiology practice adaptations](AIIMS-Kalyani-2024-Microbiology-Gram-Negative-Adaptations.md). Institution library paper text retrieved, screenshot unavailable, answer key not independently authenticated. Not included in recruitment PYQ count.
+
+
+[Four reported TB exam adaptations](TB-India-Wide-Reported-PYQs.md). Third-party indexed evidence, not official-key authenticated.
