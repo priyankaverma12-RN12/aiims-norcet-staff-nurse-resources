@@ -1155,9 +1155,19 @@ SBAR structured handover method hai. S mein present concern, B mein relevant pre
 
 **Correct: D. Clear drug name, dose, route, frequency and relevant changes**
 
-Patient ko ghar par medicine ka correct schedule pata hona chahiye. Clear instructions aur changes explain karne se dosing errors kam ho sakte hain.
+Safe medication instruction mein patient ko clearly pata hona chahiye kaunsi medicine, kitni dose, kis route se, kitni baar aur kab leni hai. New, changed aur stopped medicines reconcile karo. Relevant adverse effects aur missed-dose instructions approved plan se explain karo. Patient se apne words mein schedule repeat karwao aur ambiguity clarify karo.
 
-**Baaki options kyun sahi nahi hain?** Color unreliable identification hai. Abbreviations confuse kar sakti hain. Admission date medicine plan nahi batati.
+**Option-wise explanation:**
+- **A (Galat):** Admission date se home dose schedule nahi pata chalta.
+- **B (Galat):** Color same medicine ke different formulations mein vary kar sakta hai aur different medicines similar dikh sakti hain.
+- **C (Galat):** Unexplained abbreviations misinterpretation cause kar sakti hain. Plain language use karo.
+- **D (Sahi):** Drug name, dose, route, frequency aur changes clear hone se medication errors reduce karne mein help milti hai.
+
+**Exam clue:** Name, dose, route, frequency and changes must be clear.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/settings/hospital/match/chapter-7.html) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1452,9 +1462,19 @@ New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious 
 
 **Correct: D. Explain the call bell, room facilities, safety precautions and relevant ward routine**
 
-Orientation patient ko environment safely use karne aur help access karne mein support karti hai. Nurse language aur sensory needs consider karti hai.
+New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka use demonstrate karti hai, accessible location par rakhti hai aur bathroom, assistance, visiting routine aur relevant precautions explain karti hai. Patient ki language, hearing, vision aur mobility needs ke according teaching adjust karo. Understanding confirm karo.
 
-**Baaki options kyun sahi nahi hain?** Assumptions aur inaccessible call bell safety reduce karte hain. Questions timely answer karne chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Call bell out of reach hone par patient help nahi bula paayega aur fall risk badh sakta hai.
+- **B (Galat):** Questions postpone karne se uncertainty aur unsafe self-care badh sakti hai.
+- **C (Galat):** Har patient ward se familiar ho, yeh assumption safe nahi hai.
+- **D (Sahi):** Clear orientation aur accessible help system patient ko environment safely use karne mein help karte hain.
+
+**Exam clue:** Orient, demonstrate call bell, confirm access.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1588,9 +1608,19 @@ Citrate calcium reversibly bind karti hai aur lab controlled clotting test kar s
 
 **Correct: C. Assess barriers and arrange further teaching and necessary discharge support**
 
-Safe home care ke liye practical skill important hai. Nurse teach-back, demonstration aur caregiver or specialist support coordinate kar sakti hai.
+Ostomy ek surgically created opening hai jisse intestinal contents pouch mein collect ho sakte hain. Home par patient ko pouch empty/change karna, skin protect karna aur warning signs recognize karna seekhna hota hai. Agar skill demonstrate nahi ho rahi toh pain, vision, dexterity, anxiety, literacy ya supply barriers assess karo. Return demonstration, chosen caregiver aur stoma specialist support coordinate karo. Team se discharge readiness review karo.
 
-**Baaki options kyun sahi nahi hain?** Leaflet alone competence prove nahi karta. Follow-up useful hai. Improvised care leakage aur skin injury cause kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Improvised equipment leakage aur skin breakdown ka risk badha sakta hai.
+- **B (Galat):** Leaflet dene se competence automatically establish nahi hoti. Actual demonstration check karo.
+- **C (Sahi):** Barrier assessment aur additional teaching/support safe home care ke liye appropriate hai.
+- **D (Galat):** Reading ability practical skill ya follow-up needs eliminate nahi karti.
+
+**Exam clue:** Discharge teaching requires assessed ability, not leaflet delivery alone.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2543,9 +2573,19 @@ Respiration normally automatic hoti hai lekin patient conscious effort se breath
 
 **Correct: C. Escalate the barrier to the discharge team and coordinate a feasible plan**
 
-Access barrier treatment interruption cause kar sakta hai. Nurse social work, pharmacy aur team ke saath safe continuity plan arrange karti hai.
+Medically ready hone ke bawajood essential medicine obtain na kar paana safe discharge mein barrier hai. Cost, availability, transportation ya patient understanding check karo. Pharmacy, case management, social support aur prescribing team se feasible access plan arrange karwao. Patient ko bina authorization treatment stop ya substitute karne ko mat kaho. Plan aur follow-up document karo.
 
-**Baaki options kyun sahi nahi hain?** Omission aur medication stopping unsafe hain. Another patient's medicine transfer inappropriate hai.
+**Option-wise explanation:**
+- **A (Galat):** All medicines abruptly stop karna serious deterioration cause kar sakta hai. Prescriber review zaroori hai.
+- **B (Galat):** Issue mention na karne se patient essential therapy miss kar sakta hai.
+- **C (Sahi):** Barrier escalate karke practical solution coordinate karna continuity of treatment support karta hai.
+- **D (Galat):** Another patient's medicines dena identification, prescription aur safety rules violate kar sakta hai.
+
+**Exam clue:** Medication access is part of discharge readiness.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
