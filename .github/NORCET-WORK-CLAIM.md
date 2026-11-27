@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job2-20261127-053820-group05-reconcile
-Scope: Nursing Foundations Group 05 remaining legacy allocation and distinct bedside applications, chapter-local files only
+Scope: Nursing Foundations Group 05 remaining legacy allocation and distinct bedside applications, chapter-local files and global Nursing Foundations inventory row only
 Claimed UTC: 2026-11-27T05:38:20Z
 Expiry UTC: 2026-11-27T06:08:20Z
 
