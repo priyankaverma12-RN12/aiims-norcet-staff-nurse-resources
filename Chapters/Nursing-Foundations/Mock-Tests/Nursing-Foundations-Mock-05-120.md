@@ -538,7 +538,9 @@ Secondary intention mein tissue gap granulation, contraction aur epithelializati
 
 ### Q25. Which principle is central to a just culture in patient safety?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Guarantee that no unsafe behavior is ever reviewed
 - **B.** Assign blame before collecting evidence
@@ -553,9 +555,17 @@ Just culture staff ko mistakes report karne mein support karti hai aur behavior 
 
 **Baaki options kyun sahi nahi hain?** Reckless behavior review ho sakta hai. Concealment learning reduce karti hai. Evidence se pehle blame unfair hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q17](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q17](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q17-which-principle-is-central-to-a-just-culture-in-patient-safety)
 
 ### Q26. A patient slides repeatedly down a raised bed. Which tissue-damaging force is especially relevant?
 
@@ -802,7 +812,9 @@ Accurate injection record future doses, site rotation aur adverse reactions trac
 
 ### Q37. A medication error has reached a patient, but no symptoms are currently evident. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Discard the medication package to prevent investigation
 - **B.** Change the record to match the dose given
@@ -817,9 +829,17 @@ Some medicine effects delayed ho sakte hain. Nurse patient assess karti hai, cli
 
 **Baaki options kyun sahi nahi hain?** Symptoms ka wait unsafe hai. Record change aur evidence destroy karna inappropriate hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q20](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q20](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q20-a-medication-error-has-reached-a-patient-but-no-symptoms-are-currently-evident-what-should-the-nurse-do-first)
 
 ### Q38. Which term describes a core body temperature below 35°C?
 
@@ -888,7 +908,9 @@ Transparent film se covered site visible rehti hai. Nurse product capacity aur s
 
 ### Q41. Which bed-transfer practice is appropriate when moving a patient to a wheelchair?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Lock wheelchair brakes and assess transfer assistance needs
 - **B.** Keep the wheelchair moving throughout transfer
@@ -903,9 +925,17 @@ Locked brakes chair movement prevent karte hain. Transfer se pehle strength, bal
 
 **Baaki options kyun sahi nahi hain?** Moving chair, loose pole aur slippery surface falls ka risk badhate hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q19](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q19](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q19-which-bed-transfer-practice-is-appropriate-when-moving-a-patient-to-a-wheelchair)
 
 ### Q42. A patient has new weakness, numbness and pain beneath a limb support device. What is the priority?
 
@@ -2674,7 +2704,9 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 
 ### Q119. A patient's condition suddenly deteriorates while the assigned nurse cannot reach the primary clinician. What is the best next action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Delay assistance until the chart is complete
 - **B.** Activate the facility escalation pathway or rapid response team
@@ -2689,9 +2721,15 @@ Acute deterioration time-sensitive hoti hai. Escalation pathway se additional tr
 
 **Baaki options kyun sahi nahi hain?** Indefinite wait, untrained decision aur documentation delay patient safety compromise kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q18](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q18](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q18-a-patients-condition-suddenly-deteriorates-while-the-assigned-nurse-cannot-reach-the-primary-clinician-what-is-the-best-next-action)
 
 ### Q120. A patient receiving a blood product through an IV develops chills, dyspnea and back pain. Which immediate nursing response is appropriate?
 
