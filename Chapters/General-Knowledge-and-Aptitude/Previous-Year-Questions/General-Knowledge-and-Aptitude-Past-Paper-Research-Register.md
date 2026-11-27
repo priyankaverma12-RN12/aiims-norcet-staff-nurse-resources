@@ -32,3 +32,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Ratio and proportion evidence](07-Ratios-and-Proportion-Reported-Evidence.md): one directly inspected RRB 21 July 2019 shift I reported adaptation and two provisional DSSSB 29 August 2019 shift I indexed adaptations (Q63, Q70, direct retrieval failed). Fifteen counted families, sixteen counted solved adaptations, five additional reserved/disputed/provisional items. Official keys pending.
+
+
+[Averages evidence](08-Averages-Reported-Evidence.md): one directly inspected DSSSB 28 August 2019 shift III adaptation, one RRB 20 July 2019 shift II statistics report reserved for cross-topic reconciliation, and one ambiguous AIIMS Raipur 31 August 2019 shift II memory-based report clarified as practice and excluded from counted historical evidence. Chapter total sixteen counted families, seventeen counted solved adaptations, seven additional reserved/disputed/provisional items. Official keys pending.
