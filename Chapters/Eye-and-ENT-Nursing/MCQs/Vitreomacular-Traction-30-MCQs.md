@@ -58,26 +58,26 @@
 
 </details>
 
-### Q3. A patient with VMT asks why incomplete vitreous separation can create tension even without a surface scar. Which explanation is most appropriate?
+### Q3. Why might tractional forces at a persistent vitreomacular attachment vary with rapid eye movements?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original clinical practice
 
-- **A.** The remaining vitreous attachment transmits force from the separated gel to the macula
-- **B.** The vitreous creates tension only by blocking the pupil
-- **C.** The remaining attachment produces aqueous humor
-- **D.** The macula pulls on the corneal epithelium
+- **A.** Movement of the vitreous relative to the attached macula can transmit changing mechanical stress
+- **B.** Rapid eye movement necessarily releases every attachment
+- **C.** The main mechanism is increased lens accommodation with every saccade
+- **D.** The macula moves into the anterior chamber during each saccade
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. The remaining vitreous attachment transmits force from the separated gel to the macula**
+**Correct answer: A. Movement of the vitreous relative to the attached macula can transmit changing mechanical stress**
 
-**Kyun sahi hai:** Jab gel ka ek part lifted ho aur ek point attached rahe, force us point par transmit ho sakti hai. Surface scar hona mandatory nahi hai.
+**Kyun sahi hai:** Jab eye move karti hai, gel ki motion retained interface par changing pull transmit kar sakti hai. Isse static adhesion aur dynamic mechanical forces ka difference samajh aata hai. Symptoms alone force measure nahi karte.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Pupil light entry control karta hai, macular attachment usse mechanically alag hai.
-- **C.** Aqueous humor ciliary processes banate hain, vitreous attachment nahi.
-- **D.** Macula posterior retina hai. VMT local vitreoretinal force hai.
+- **B.** Eye movement complete separation guarantee nahi karti. Persistent attachment remain kar sakti hai.
+- **C.** Saccade gaze shift hoti hai. Accommodation near focusing process hai, vitreoretinal stress ka main mechanism nahi.
+- **D.** Macula posterior retina ka part hai. Normal gaze shift mein anterior chamber mein migrate nahi karti.
 
 **Revision:** [Related concept](../Concepts/Vitreomacular-Traction-Concepts.md#mechanism-and-anatomy) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11885654/).
 
@@ -274,28 +274,28 @@
 
 </details>
 
-### Q11. An OCT report describes a residual tractional attachment 1.8 mm wide. Which IVTS category is appropriate if macular distortion is documented?
+### Q11. A VMT patient with a broad attachment has mild stable symptoms, while another patient with focal attachment has progressive central visual dysfunction. What should the nurse understand about the attachment width categories?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original clinical practice
 
-- **A.** Focal VMT because 1.8 is less than 1500
-- **B.** Full-thickness macular hole solely because width exceeds 1 mm
-- **C.** Complete PVD with no residual attachment
-- **D.** Broad VMT
+- **A.** Broad VMT always needs surgery before any focal VMT
+- **B.** Focal VMT cannot cause meaningful central visual dysfunction
+- **C.** The two patients must have identical clinical courses because both have VMT
+- **D.** Width categories describe anatomy and do not independently determine clinical urgency or the need for surgery
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. Broad VMT**
+**Correct answer: D. Width categories describe anatomy and do not independently determine clinical urgency or the need for surgery**
 
-**Kyun sahi hai:** 1.8 mm ko micrometres mein convert karo. 1.8 × 1000 = 1800 micrometres. Yeh 1500 se zyada hai, isliye broad category hai.
+**Kyun sahi hai:** Focal aur broad labels attachment extent batate hain. Patient ki symptoms, progression aur retinal damage ke bina width alone treatment dictate nahi karti. Narrow attachment bhi important focal distortion cause kar sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Units same karna zaroori hai. 1.8 mm aur 1500 micrometres directly compare nahi hote.
-- **B.** Hole diagnosis actual neural retinal defect se hoti hai, attachment width se nahi.
-- **C.** Report mein retained tractional attachment described hai.
+- **A.** Anatomical width se urgency automatically decide nahi hoti. Stable broad lesion aur progressive focal lesion ka individualized assessment chahiye.
+- **B.** Small attachment bhi fovea ko strongly deform kar sakti hai.
+- **C.** VMT ka course structural features, symptoms aur associated disease ke hisaab se vary kar sakta hai.
 
-**Revision:** [Related concept](../Concepts/Vitreomacular-Traction-Concepts.md#oct-and-classification) · [Clinical reference](https://pubmed.ncbi.nlm.nih.gov/24053995/).
+**Revision:** [Related concept](../Concepts/Vitreomacular-Traction-Concepts.md#oct-and-classification) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11885654/).
 
 **YouTube MCQ practice: verification pending.**
 
@@ -355,26 +355,26 @@
 
 </details>
 
-### Q14. Which OCT finding would require documenting a full-thickness macular hole rather than classifying the lesion as VMT without a hole?
+### Q14. For the IVTS anatomical definition of VMT, where is the remaining cortical vitreous attachment assessed relative to the fovea?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original clinical practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original clinical practice
 
-- **A.** A small intraretinal cyst-like space with intact outer layers
-- **B.** A shallow local elevation of the fovea above the RPE
-- **C.** Residual vitreous attachment with an irregular surface
-- **D.** A complete interruption through the neural retinal layers at the fovea
+- **A.** Only at the optic disc without any macular attachment
+- **B.** Only along the peripheral ora serrata
+- **C.** Anywhere in the vitreous cavity regardless of retinal deformation
+- **D.** Within a 3-mm radius of the fovea, with associated tractional retinal change
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. A complete interruption through the neural retinal layers at the fovea**
+**Correct answer: D. Within a 3-mm radius of the fovea, with associated tractional retinal change**
 
-**Kyun sahi hai:** VMT without hole mein distortion ya small spaces ho sakti hain lekin through-and-through neural retinal defect nahi. Complete defect dikhe toh associated hole separately document karna hai.
+**Kyun sahi hai:** IVTS criteria central macular region ko define karte hain. Fovea se 3 mm radius ke andar retained attachment aur related structural deformation assess hoti hai. Ye location criterion hai, 1500 micrometre width category se alag.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Cyst-like space VMT mein ho sakti hai aur full-thickness gap prove nahi karti.
-- **B.** Traction local elevation cause kar sakti hai without full-thickness defect.
-- **C.** Attachment and distortion VMT define kar sakte hain, actual hole ke liye tissue defect chahiye.
+- **A.** Is situation mein vitreopapillary traction consider ho sakti hai. Macular criterion establish nahi hota.
+- **B.** Peripheral attachment central vitreomacular interface ka specified criterion nahi hai.
+- **C.** VMT mein attachment aur associated macular structural effect dono relevant hote hain.
 
 **Revision:** [Related concept](../Concepts/Vitreomacular-Traction-Concepts.md#oct-and-classification) · [Clinical reference](https://pubmed.ncbi.nlm.nih.gov/24053995/).
 
@@ -733,26 +733,26 @@
 
 </details>
 
-### Q28. A patient asks why gas injection is not automatically chosen over vitrectomy for VMT merely because it avoids an operation. Which response is best?
+### Q28. When interpreting trials of pneumatic vitreolysis, why should release of VMT and closure of an associated full-thickness macular hole be recorded as separate outcomes?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original clinical practice
 
-- **A.** Any injection has no potential for retinal complications
-- **B.** A less invasive intervention can still carry important retinal risks and requires individualized specialist evaluation
-- **C.** All interventions have identical risks and results
-- **D.** The nurse should choose the procedure based only on appointment length
+- **A.** A released attachment and a closed macular hole are identical OCT findings
+- **B.** Relief of vitreous traction does not establish that an existing full-thickness tissue defect has closed
+- **C.** Hole closure can be inferred solely from the administered gas volume
+- **D.** If attachment release occurs, safety outcomes no longer matter
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. A less invasive intervention can still carry important retinal risks and requires individualized specialist evaluation**
+**Correct answer: B. Relief of vitreous traction does not establish that an existing full-thickness tissue defect has closed**
 
-**Kyun sahi hai:** Procedure chhota hone se safe hona guarantee nahi hota. Pneumatic vitreolysis trial safety concerns demonstrate karte hain ki benefits aur retinal risks balance karne chahiye.
+**Kyun sahi hai:** Vitreous attachment release mechanical endpoint hai. Macular hole closure actual tissue defect ka endpoint hai. Ek outcome achieve hone se doosra automatically achieve nahi hota. DRCR protocols AG aur AH ne in endpoints ko separately examine kiya.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Intravitreal procedures ke risks hote hain, retinal tears bhi report hue hain.
-- **C.** Different techniques ki safety aur success profiles different ho sakti hain.
-- **D.** Treatment selection clinical evaluation aur informed patient choice se hoti hai.
+- **A.** Attachment interface aur hole neural tissue defect alag structures hain.
+- **C.** Treatment volume se tissue closure establish nahi hoti. Follow-up anatomical evaluation chahiye.
+- **D.** Anatomical success ke saath retinal tear ya detachment jaise complications bhi assess karna zaroori hai.
 
 **Revision:** [Related concept](../Concepts/Vitreomacular-Traction-Concepts.md#monitoring-and-treatment) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC8545749/).
 
