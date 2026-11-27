@@ -48,4 +48,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-igan-20261127-1606. Scope: IgA nephropathy concept, MCQ, diagram, evidence and chapter-local indexes only. Claimed UTC: 2026-11-27T16:07:46.000Z. Expiry UTC: 2026-11-27T16:37:46.000Z. -->
