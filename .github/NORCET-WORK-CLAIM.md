@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-08b-20261127-1817
+Scope: Nursing Foundations new 08B IV complications and compatibility package and local indexes only. No legacy or mock edits, no global tracker while manual scopes unresolved.
+Claimed UTC: 2026-11-27T18:17:00Z
+Expiry UTC: 2026-11-27T18:47:00Z
 
 Verified forward chapter-local checkpoint e60a6cb71ffefa1889e815aad7c695f972a3df7d. Nursing Foundations 1,197 indexed originals (500 Medium,697 Difficult), 600 initial +597 expansion. Group 08A peripheral IV access and maintenance: 22 new originals plus eight preserved Group 08 Q4–7,13,14,17,18 =30 allocated. Bank b644324e356cb5de994c3d6a45c8d9fec542cc8c, concepts 9f655d8e6e7363bc93bbb17155019923b4331532, diagram ed873ce0caa0b1563b026cca116c2b83b0541638, evidence 0289722fb67771abd3e05ca2cc55634ba3fc76fe, all exact remote readback. 135 related stems compared across five banks with no exact normalized matches, 22 answer mappings and 88 option rationales structurally verified. One independently worded adaptation of SGPGI Staff Nurse 28 February 2024 Shift 1 report, four rationales, official key and overlap pending, counted historical total remains 34. NORCET 2022, NIMHANS 2019 and GMCH 2022 related reports retrieved, no duplicate credit. HPRCA September 2026 shift wrappers reached but paper contents unavailable. CDC, Australian clinical care standard and RCH retrieved, WHO and NCDC indexed. Dedicated cannulation MCQ title-only lead, all 22 new originals and one adaptation specific practice mapping pending. Two teaching descriptions indexed, no playback. Six chapter-local navigation updates verified: MCQ index 210c2d55a8939d5fea1e2d1211273ad2e45175f9, audit 0234c3bd35c7b096bf2b6985b0d167cff9f8240a, topic map 882562ad930ec477393b8d930e8485c0eb9f7984, PYQ index 6091dc3759af414946b8aeb858a92855c221239f, video guide cdacc46b2700b660643eca683a551c23b89e6af3, README e60a6cb71ffefa1889e815aad7c695f972a3df7d. All 20 legacy IDs assigned once: 08A eight as above, 08B Q1,2,3,8,15 reserved, 08C Q11,12 reserved, Group 07C cross-reference Q10,16,20, Group 22 Q9,19 reserved. Group 07 Q12,13 remain for Group 22. No legacy learner questions, mocks or other jobs modified. Both skill files retrieved at unchanged SHA and relevant prior full reads applied, AGENTS and Copilot retrieved, latest audit excerpt reviewed; fresh full line-by-line skill and historical audit reread not certified. Five formal claims and manual scopes checked; own scope released. Shared global tracker intentionally deferred because manual scopes unresolved, last verified row 1,124; reconcile to 1,197 when safe. Next 08B infiltration, extravasation, phlebitis, dislodgement and IV compatibility; 25 new genuinely distinct target plus five allocated earlier items, then 08C central access, cross-check sibling IPC and clinical scope. Comprehensive clinical, semantic, curriculum, official key and rendered UI audits pending. Ten original-only mocks after topic completion; preserve five legacy compiled mocks. Hourly jobs unchanged.
 
