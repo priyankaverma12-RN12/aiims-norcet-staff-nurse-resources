@@ -644,10 +644,20 @@ Venturi system fixed air-oxygen entrainment se specified concentration deliver k
 
 **Correct: B. The reading may be falsely elevated**
 
-Arm heart ke below ho toh hydrostatic pressure reading badha sakta hai. Unsupported muscle activity bhi BP affect kar sakti hai.
+<!-- job5-rationale -->
+Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic pressure badhta hai. Unsupported arm ko hold karne mein muscle contraction bhi pressure increase kar sakti hai. Isliye heart-level supported arm ke comparison mein reading elevated aa sakti hai. Stable patient mein back supported, feet flat, arm relaxed aur cuff ka midpoint heart level par rakhkar BP repeat karo.
 
-**Baaki options kyun sahi nahi hain?** BP zero hona expected nahi hai. Below-heart positioning usually lower reading nahi deti. BP itself affected hai.
+**Option-by-option reasoning**
 
+- **A:** below-heart position generally reading ko raise kar sakti hai, lower necessarily nahi.
+- **B:** hydrostatic pressure aur unsupported arm ka expected bias explain karta hai.
+- **C:** zero BP expected effect nahi hai.
+- **D:** position specifically BP ko affect karti hai, sirf oxygen saturation ko nahi.
+
+**Exam clue:** Arm low → BP high bias. Arm supported at heart level.
+
+[Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -983,10 +993,20 @@ Mask ke andar exhaled gas collect ho sakti hai. Appropriate flow CO2 washout sup
 
 **Correct: C. The first clear repetitive tapping sound**
 
-Cuff deflate karne par artery mein blood spurts start hote hain. First clear tapping sound systolic pressure indicate karti hai.
+<!-- job5-rationale -->
+Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop karta hai. Jab cuff pressure gradually decrease hota hai aur systolic pressure ke neeche pahunchta hai, intermittent flow ki wajah se first repetitive tapping sound sunai deti hai. Yeh Korotkoff phase I hai aur adult systolic pressure record kiya jaata hai. Phase V yani sounds disappear hona generally adult diastolic reading hai. Proper deflation aur trained technique important hai.
 
-**Baaki options kyun sahi nahi hain?** Sound disappearance usually diastolic pressure batati hai. Loudest sound systolic definition nahi hai. Cuff removal ke baad wrist pulse measurement ka endpoint nahi hai.
+**Option-by-option reasoning**
 
+- **A:** wrist palpation se systolic estimate possible hai lekin yeh Korotkoff sound nahi hai.
+- **B:** disappearance generally diastolic pressure indicate karti hai.
+- **C:** first repetitive tapping phase I hai, systolic pressure ka marker.
+- **D:** loudness alone systolic pressure identify nahi karti.
+
+**Exam clue:** Korotkoff I = systolic, V = adult diastolic.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1484,10 +1504,20 @@ Adult chest ko at least 5 cm compress karna hai aur excessive depth greater than
 
 **Correct: A. Falsely high blood pressure**
 
-Small cuff artery compress karne ke liye extra pressure require kar sakta hai. Isliye measured BP actual se high aa sakti hai.
+<!-- job5-rationale -->
+BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye. Agar cuff chhota ya narrow hai, artery ko occlude karne ke liye device ko zyada pressure register karna pad sakta hai. Isse measured BP true BP se high aa sakta hai, jise undercuffing error kehte hain. Arm circumference measure karke manufacturer ki size range select karo, bare upper arm par cuff lagao aur correct position mein repeat karo. Ek wrong-size reading par chronic hypertension diagnose mat karo.
 
-**Baaki options kyun sahi nahi hain?** Large cuff reading low kar sakta hai. Cuff size matter karta hai. Respiratory rate BP cuff directly measure nahi karta.
+**Option-by-option reasoning**
 
+- **A:** undersized cuff falsely high BP de sakta hai.
+- **B:** cuff BP measure karta hai, respiratory rate nahi.
+- **C:** small cuff generally opposite direction mein error create karta hai. Too large cuff reading underestimate kar sakta hai, although effect device par depend karta hai.
+- **D:** cuff size measurement accuracy ko affect karti hai.
+
+**Exam clue:** Small cuff → high reading. Correct circumference → correct cuff.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1601,10 +1631,22 @@ Informed consent mein patient ko procedure, relevant risks aur alternatives sama
 
 **Correct: A. Count the apical pulse for a full minute and assess rhythm**
 
-Irregular beats mein short count inaccurate ho sakta hai. Apical pulse full minute sunne se heart rate aur rhythm better assess hoti hai.
+<!-- job5-rationale -->
+Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strength se feel nahi ho sakta. Short count ko multiply karne par rhythm variation miss ho sakti hai. Stethoscope se apical heartbeats full 60 seconds count karo aur rhythm, symptoms aur other observations assess karo. New irregularity, dizziness, chest pain ya instability par timely clinical escalation karo. Rhythm ki exact diagnosis ke liye ECG ki zaroorat ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Five-second sample irregular rhythm miss kar sakta hai. Old value current rate nahi hai. Respiratory rate different vital sign hai.
+**Option-by-option reasoning**
 
+- **A:** full-minute apical count heart contractions ko directly assess karne mein help karta hai.
+- **B:** five-second sample irregular rhythm ka reliable minute estimate nahi deta.
+- **C:** old value current heart rate nahi batati.
+- **D:** respiratory rate alag vital sign hai aur heart rhythm replace nahi karti.
+
+**Exam clue:** Irregular pulse → apical full minute, assess symptoms.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
+
+**🟣 Related concept — NVS Staff Nurse, September 2019:** [Retrieved third-party report](https://testbook.com/question-answer/it-is-better-to-count-the-pulse-rate-when-it--61e156241669b4658a23db02). Reported key supports a full-minute apical count. Not exact stem or authenticated official key.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [ESIC Staff Nurse 2019 · Shift III](https://testbook.com/question-answer/when-a-pulse-rate-is-irregular-it-is-best-to-coun--619cfc8ec37377aece1592c7) — Full-minute apical counting for irregular pulse; retrieved third-party report, not an exact match or authenticated official key.
