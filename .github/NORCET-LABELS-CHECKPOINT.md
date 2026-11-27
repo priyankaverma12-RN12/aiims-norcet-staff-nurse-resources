@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job4-20261127-140922-08
-Scope: Existing Nursing Foundations Group 08 standalone MCQ bank and existing relevant PYQ metadata only. No shared mocks, shared indexes, new authorship or other job files.
+Scope: Existing Nursing Foundations Group 07 and 08 legacy mock slots in five shared mock files, reciprocal links in their initial topic banks, and existing Group 08 PYQ metadata only. No new mock authorship, shared indexes or other job files.
 Claimed UTC: 2026-11-27T14:09:22Z
 Expiry UTC: 2026-11-27T14:39:22Z
 
