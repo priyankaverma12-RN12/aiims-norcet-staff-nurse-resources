@@ -36,3 +36,12 @@
 | 30. [Environmental IPC, outbreak investigation and surveillance calculations](30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations-40-MCQs.md) | 40 |
 
 [Chapter](../README.md)
+
+
+## Individual-topic expansion (additional to initial 1,200)
+
+| Topic | Additional questions | Difficulty |
+|---|---:|---|
+| [01A Surgical hand preparation](01A-Surgical-Hand-Preparation-30-MCQs.md) | 30 | 15 Medium, 15 Difficult |
+
+Current indexed inventory: **1,230 original question slots**, 566 Medium and 664 Difficult, excluding earlier four starter items. Initial 30 grouped banks are populated. Revised individual-topic target remains in progress. Exact and semantic overlap with all other chapters still pending.
