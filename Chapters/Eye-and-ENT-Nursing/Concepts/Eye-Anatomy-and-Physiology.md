@@ -84,7 +84,7 @@ Eye ko move karne ke liye extraocular muscles hoti hain. Lateral rectus aankh ko
 
 | Topic | Teaching | Dedicated MCQ practice |
 |---|---|---|
-| Layers, rods/cones, optic nerve, fluids, extraocular muscles | [PW Nursing College Prep — model-based eye anatomy](https://www.youtube.com/watch?v=rMmGCyXEIMU) | Anatomy-specific practice verification pending |
+| Layers, rods/cones, optic nerve, fluids, extraocular muscles | [PW Nursing College Prep — model-based eye anatomy](https://www.youtube.com/watch?v=rMmGCyXEIMU) | [GS India — Eye anatomy and physiology MCQs](https://www.youtube.com/watch?v=bSc66vwFzLk) (topic-level only, item coverage pending) |
 | Eye disorders and perioperative application | [Nursing Wallah — Eye Anatomy and Physiology](https://www.youtube.com/watch?v=knOaWAixuiQ) (anatomy foundation) | [VS Nursing Academy — Eye Disorders MCQ session](https://www.youtube.com/watch?v=GCMk4wrOvBg) (disorders, not exact anatomy questions) |
 
 Published titles/descriptions checked 27 Nov 2026. Full playback and exact-question timestamps not checked. Video titles do not establish past examination appearance.
