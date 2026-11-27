@@ -753,16 +753,16 @@ Evidence-informed practice ka matlab hai ki nurse credible clinical evidence, he
 **Correct answer: B. Compare supporting and contradictory cues, then agree on immediate safety actions and further assessment**
 
 <!-- job5-rationale -->
-Different plausible hypotheses ko openly compare karna teamwork improve karta hai. Nurse bataye kaunse cues har explanation support karte hain aur kaunse contradict karte hain. Team immediate safety actions agree kare aur missing assessment plan kare. Uncertainty ko communicate karna weakness nahi hai. Urgent care agreement ka wait karke delay nahi honi chahiye.
+Maan lo do healthcare staff members patient ke symptoms ko alag-alag possible causes se explain kar rahe hain. Dono explanations ko evidence ke basis par compare karna useful hai. Nurse batati hai ki kaunsi findings har explanation ko support karti hain aur kaunsi findings usse match nahi karti hain. Team milkar decide karti hai ki patient ki immediate safety ke liye abhi kya karna hai aur kaunsi information aur collect karni hai. Agar cause abhi clear nahi hai, toh uncertainty openly communicate karna weakness nahi hai. Urgent care ko poori agreement milne tak delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A uncertainty hide karne se important information miss hoti hai.
-- **B:** B evidence compare karte hue safety actions decide karta hai.
-- **C:** C seniority alone clinical correctness guarantee nahi karti.
-- **D:** D absolute agreement ka wait emergency support delay kar sakta hai.
+- **A:** Uncertainty chhupane se team ko important information nahi mil paayegi. Open discussion se possible errors pehchaanne mein madad mil sakti hai.
+- **B:** Supporting aur contradictory findings compare karke team immediate safety action aur further assessment decide kar sakti hai. Isliye B clinical judgment ko best support karta hai.
+- **C:** Senior staff ka experience valuable hota hai, lekin seniority se har clinical opinion automatically correct nahi ho jaata. Relevant patient evidence bhi check karna chahiye.
+- **D:** Absolute agreement ka wait karne se patient ko urgent support milne mein delay ho sakta hai. Team ko immediate safety action ke saath reasoning continue karni chahiye.
 
-**Exam clue:** Discuss evidence and act on immediate danger.
+**Exam clue:** Team discussion mein evidence aur patient ki safety par focus karo. Immediate danger ko address karne ke liye complete agreement ka wait mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -793,16 +793,16 @@ Different plausible hypotheses ko openly compare karna teamwork improve karta ha
 **Correct answer: A. Escalate early and arrange suitable monitoring or level-of-care review**
 
 <!-- job5-rationale -->
-Anticipatory clinical judgment ka matlab harm hone se pehle foreseeable risk identify karna hai. Agar patient ko ward capacity se zyada monitoring chahiye toh nurse responsible team ko early inform kare. Suitable equipment, staffing ya higher level of care review arrange ho sakta hai. Actual monitoring limitations document karo aur escalation ke dauran appropriate safety measures follow karo.
+Anticipatory clinical judgment ka matlab hai ki nurse possible problem ko harm hone se pehle pehchaanne ki koshish karti hai. Maan lo patient abhi stable hai, lekin uski care needs aisi hain jinke liye ward mein available monitoring kaafi nahi hogi. Nurse responsible team ko jaldi batati hai, taaki suitable equipment, staffing ya higher level of care ka review arrange ho sake. Woh actual monitoring limitations document karti hai aur jab tak arrangement hota hai, applicable protocol ke according safe measures follow karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A early escalation aur resource review karta hai.
-- **B:** B actual injury ka wait prevention fail karta hai.
-- **C:** C required monitoring ke bina care continue karna risk leave karta hai.
-- **D:** D unavailable monitoring ko provided record karna false hai.
+- **A:** Early escalation se team ko patient ki monitoring needs review karne aur appropriate resources arrange karne ka mauka milta hai. Isliye A sahi hai.
+- **B:** Actual harm hone ka wait karne se complication prevent karne ka mauka miss ho sakta hai. Nurse ko foreseeable risk pehle communicate karna chahiye.
+- **C:** Required monitoring ke bina care continue karna patient ko unrecognized deterioration ke risk mein chhod sakta hai. Transfer avoid karna patient safety se zyada important nahi hai.
+- **D:** Jo monitoring available nahi thi aur provide nahi hui, use provided record karna inaccurate documentation hai. Actual limitation aur action record karna chahiye.
 
-**Exam clue:** Recognize resource mismatch before harm.
+**Exam clue:** Patient ki required monitoring aur available ward resources mein difference ho, toh harm hone se pehle appropriate escalation karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -833,16 +833,16 @@ Anticipatory clinical judgment ka matlab harm hone se pehle foreseeable risk ide
 **Correct answer: C. Assess the patient promptly, verify relevant context and communicate the critical result according to protocol**
 
 <!-- job5-rationale -->
-Critical lab result time-sensitive concern ho sakta hai, especially patient ki condition change ho gayi ho. Nurse patient promptly assess kare, result patient identity aur relevant context se verify kare, aur facility critical-result protocol ke according timely communicate kare. Repeat sampling zaroori ho sakti hai lekin notification unnecessarily delay nahi karna hai. Authorized team management decide karti hai.
+Critical laboratory result aisi finding ho sakti hai jiske liye timely clinical response zaroori hai. Yahan patient ki condition bhi badal gayi hai, isliye nurse uska prompt assessment karti hai. Woh verify karti hai ki report correct patient ki hai aur relevant clinical context check karti hai. Facility ke critical-result protocol ke according responsible team ko jaldi inform karti hai. Kuch situations mein repeat sample ki zaroorat ho sakti hai, lekin unnecessary repeat testing ke chakkar mein required notification delay nahi karni chahiye. Authorized team patient ki overall condition ke hisaab se management decide karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A every test repeat karne tak communication postpone karta hai.
-- **B:** B lab alone se all treatment decisions determine nahi hote.
-- **C:** C clinical assessment, verification aur timely communication combine karta hai.
-- **D:** D routine rounds tak wait critical concern miss kar sakta hai.
+- **A:** Har test independently repeat karne tak communication postpone karne se critical finding ka response delay ho sakta hai. Repeat testing relevant protocol aur clinical direction ke hisaab se honi chahiye.
+- **B:** Lab result important evidence hai, lekin har treatment decision patient ki history, current condition aur relevant clinical review par bhi depend karta hai.
+- **C:** Patient ka prompt assessment, relevant verification aur critical result ki timely communication sab zaroori hain. Isliye C sahi hai.
+- **D:** Critical lab finding patient ko symptoms feel hone se pehle bhi serious concern bata sakti hai. Routine rounds tak wait karna unsafe ho sakta hai.
 
-**Exam clue:** Critical result = assess, verify, communicate promptly.
+**Exam clue:** Critical result milne par patient ko assess karo, relevant details verify karo aur protocol ke according promptly communicate karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -873,16 +873,16 @@ Critical lab result time-sensitive concern ho sakta hai, especially patient ki c
 **Correct answer: B. Collect the information needed for safe immediate action without delaying necessary escalation**
 
 <!-- job5-rationale -->
-Time-sensitive concern mein complete detailed history se pehle immediate safety information zaroori hoti hai. Nurse ABCDE, relevant vital signs aur immediate risk evaluate kare, saath hi urgent help activate kare. Full diagnostic confirmation baad mein ho sakta hai. Handover mein observed findings aur actions clearly communicate karo.
+Time-sensitive concern ka matlab hai ki agar zaroori action delay ho gaya toh patient ko serious harm ho sakta hai. Aisi situation mein nurse pehle woh information collect karti hai jo immediate safe care ke liye zaroori hai. Woh ABCDE assessment, relevant vital signs aur immediate risk evaluate karti hai aur saath hi urgent help activate karti hai. Har diagnosis ko confirm karna ya poori nonurgent history lena pehle zaroori nahi hota. Handover ke time nurse clearly batati hai ki kya findings mili hain aur abhi tak kya actions liye gaye hain.
 
 **Option-by-option reasoning**
 
-- **A:** A full diagnosis confirm hone tak essential care delay karta hai.
-- **B:** B needed data gather karta hai without delaying escalation.
-- **C:** C nonurgent tasks ko emergency se pehle complete karta hai.
-- **D:** D assessment aur communication dono avoid karta hai.
+- **A:** Har diagnosis confirm hone tak wait karne se essential care delay ho sakti hai. Immediate safety actions available clinical findings ke basis par shuru ho sakte hain.
+- **B:** Focused information collect karte hue necessary escalation karna patient ki urgent safety ko address karta hai. Isliye B sahi hai.
+- **C:** Nonurgent assessments complete karne ke baad hi team ko batana time-sensitive condition mein unnecessary delay create karta hai.
+- **D:** Assessment aur communication dono avoid karne se receiving team ko important clinical information nahi milegi. Nurse ko available findings aur urgent concerns communicate karne chahiye.
 
-**Exam clue:** Urgent care and focused assessment can happen together.
+**Exam clue:** Urgent care aur focused assessment saath-saath ho sakte hain. Detailed assessment ka wait karke necessary help delay mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -913,16 +913,16 @@ Time-sensitive concern mein complete detailed history se pehle immediate safety 
 **Correct answer: A. Expected onset of effect, patient risk, intervention characteristics and relevant protocol**
 
 <!-- job5-rationale -->
-Reassessment timing intervention ki expected action, patient stability, risk aur applicable protocol par depend karti hai. For example, medication ka onset route aur drug ke hisaab se differ karta hai. High-risk patient ko closer monitoring chahiye ho sakti hai. Nurse intended benefit aur adverse effects dono evaluate kare. Worsening par scheduled interval ka wait na kare.
+Reassessment ka time har intervention ke liye same nahi hota. Nurse ko samajhna chahiye ki expected benefit kitni der mein shuru ho sakta hai, intervention ka risk kya hai aur patient kitna stable hai. Maan lo medicine di gayi hai. Uska onset, yaani effect shuru hone ka time, medicine aur route ke hisaab se alag ho sakta hai. High-risk patient ko closer monitoring chahiye ho sakti hai. Nurse protocol ke hisaab se intended benefit aur adverse effects check karti hai. Agar patient ki condition kharab hoti hai, toh scheduled interval ka wait nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A onset, intervention aur patient risk sab consider karta hai.
-- **B:** B one fixed interval different treatments ke liye unsuitable ho sakta hai.
-- **C:** C documentation convenience clinical monitoring decide nahi karti.
-- **D:** D patient har adverse effect recognize ya report nahi kar sakta.
+- **A:** Expected onset, intervention ki characteristics, patient ka risk aur relevant protocol ko saath mein consider karne se appropriate review interval decide hota hai. Isliye A sahi hai.
+- **B:** Different procedures aur medicines ke effects alag time par aa sakte hain. Sabke liye same fixed interval use karna kuch situations mein inadequate monitoring karwa sakta hai.
+- **C:** Documentation ka convenient time clinical monitoring ka basis nahi hona chahiye. Review timing patient ki safety aur intervention ke expected effect par depend karti hai.
+- **D:** Patient har adverse effect ko notice ya report nahi kar sakta. Nurse ko indicated monitoring aur reassessment patient ke request ka wait kiye bina karni chahiye.
 
-**Exam clue:** Reassess according to onset and risk, sooner if deterioration.
+**Exam clue:** Intervention ke expected onset aur patient ke risk ke according reassess karo. Deterioration hone par scheduled time se pehle assessment karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -953,16 +953,16 @@ Reassessment timing intervention ki expected action, patient stability, risk aur
 **Correct answer: D. Reflect on both individual reasoning and system contributors, then implement practical safeguards**
 
 <!-- job5-rationale -->
-Near miss ka matlab event jisme harm ho sakta tha par actual harm avoid hua. Interruptions aur unclear labels decision process ko affect kar sakte hain. Just-culture review mein individual reasoning aur system design dono examine karo. Reporting, clear labeling, interruption reduction aur approved safeguards future risk kam kar sakte hain. Accountability ko blame-only response se confuse mat karo.
+Near miss aisa patient-safety incident hai jisme harm ho sakta tha, lekin woh patient ko actual harm pahunchane se pehle avoid ho gaya. Yahan nurse ko review mein pata chalta hai ki interruptions aur unclear equipment labels ne decision-making affect ki. Just culture ka matlab hai ki fair accountability ke saath individual actions aur system ki problems dono ko samjha jaaye. Team dekhti hai ki decision kaise hua aur work environment mein kya changes future risk kam kar sakte hain. Reporting, clear labels, unnecessary interruptions kam karna aur approved safeguards implement karna useful ho sakta hai. Accountability ka matlab sirf kisi ek person ko blame karna nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** A person ko blame karke system risk unchanged chhodta hai.
-- **B:** B reporting stop karne se prevention ka data lose hota hai.
-- **C:** C clinical judgment feedback aur practice se improve ho sakta hai.
-- **D:** D individual aur system factors review karke safeguards develop karta hai.
+- **A:** Sirf ek staff member ko blame karne se unclear labeling aur interruptions jaise system risks waise hi reh sakte hain. Future incidents prevent karne ke liye system factors bhi review karne chahiye.
+- **B:** Near misses report karne se team ko harm hone se pehle safety problems identify karne ka mauka milta hai. Reporting band karne se useful learning information miss hogi.
+- **C:** Clinical judgment feedback, reflection aur practice se improve ho sakta hai. Isliye improvement possible nahi hai, ye assumption sahi nahi hai.
+- **D:** Individual reasoning aur system contributors dono review karke practical safeguards banana future risk kam karne mein madad karta hai. Isliye D sahi hai.
 
-**Exam clue:** Near miss = learning opportunity, not concealment.
+**Exam clue:** Near miss ko learning opportunity samjho. Actual event honestly report karo aur individual aur system dono factors ko review karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -993,16 +993,16 @@ Near miss ka matlab event jisme harm ho sakta tha par actual harm avoid hua. Int
 **Correct answer: B. Guided case reasoning with feedback on cue interpretation and decisions**
 
 <!-- job5-rationale -->
-Guideline recall declarative knowledge hai, lekin patient case mein apply karna clinical judgment skill hai. Guided scenarios mein student relevant cues identify kare, possibilities compare kare, action choose kare aur reasoning explain kare. Educator feedback se misconception correct ho sakti hai. Different cases par practice transfer of learning improve karti hai.
+Guideline yaad hona aur patient ki actual situation mein usse sahi tarah apply karna alag skills hain. Student ko facts yaad hain, lekin conflicting patient findings ka meaning samajhne mein dikkat hai. Guided case reasoning mein educator patient ka scenario deta hai aur student relevant cues identify karta hai, possible explanations compare karta hai aur suitable action choose karke uska reason batata hai. Feedback se student ko pata chalta hai ki uski reasoning mein kahan confusion tha. Alag-alag cases par practice karne se learned knowledge ko nayi clinical situations mein apply karne mein madad mil sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A speed alone safe reasoning measure nahi karti.
-- **B:** B scenario practice aur feedback actual application gap address karte hain.
-- **C:** C isolated facts memorize karne se integration skill automatically develop nahi hoti.
-- **D:** D clinical reasoning practice postpone karne se learning opportunity miss hoti hai.
+- **A:** Jaldi answer dene se safe clinical reasoning automatically prove nahi hoti. Student ne clues kaise interpret kiye aur decision kyun liya, ye bhi assess karna chahiye.
+- **B:** Guided scenarios aur specific feedback student ki actual difficulty, yaani knowledge ko clinical decision mein apply karna, address karte hain. Isliye B sahi hai.
+- **C:** Definitions yaad karna basic knowledge ke liye useful hai, lekin sirf isolated facts memorize karne se multiple patient findings ko connect karna automatically nahi aata.
+- **D:** Graduation tak clinical scenarios avoid karne se supervised reasoning practice aur feedback ka important learning opportunity miss ho jaata hai.
 
-**Exam clue:** Recall is not the same as application.
+**Exam clue:** Recall ka matlab knowledge yaad karna hai. Application mein us knowledge ko patient ki actual situation ke hisaab se use karna hota hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -1033,16 +1033,16 @@ Guideline recall declarative knowledge hai, lekin patient case mein apply karna 
 **Correct answer: A. Assess the quality of the reasoning using information available at the time, not outcome alone**
 
 <!-- job5-rationale -->
-Outcome bias mein hum decision ko sirf final result ke basis par judge karte hain. Poor outcome reasonable decision ke bawajood ho sakta hai aur good outcome unsafe decision ke bawajood luck se mil sakta hai. Review karo ki us time available evidence, risk, policies aur actions kya the. Outcome ko learning ke liye use karo, par automatically negligence infer mat karo.
+Outcome bias tab hota hai jab hum kisi decision ki quality ko sirf uske final result ke basis par judge karte hain. Maan lo nurse ne us waqt available reasonable evidence ke according decision liya, lekin patient ka outcome poor raha. Isse automatically ye prove nahi hota ki decision negligent tha. Isi tarah unsafe decision ke baad bhi kabhi-kabhi luck se good outcome mil sakta hai. Review karte waqt team dekhti hai ki decision ke time kya information available thi, kaunse risks aur policies relevant the aur actual actions kya liye gaye. Outcome se learning zaroor milni chahiye, lekin process ko outcome se alag evaluate karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A contemporaneous evidence aur reasoning quality evaluate karta hai.
-- **B:** B every poor outcome ko negligence proof samajhta hai.
-- **C:** C good outcome ko correct process ka guarantee maanta hai.
-- **D:** D outcome ignore karne se learning aur safety improvement miss hoti hai.
+- **A:** Decision ke time available evidence aur reasoning review karne se team samajh sakti hai ki process kitna appropriate tha. Sirf outcome par depend karne ke bajay ye fair assessment hai. Isliye A sahi hai.
+- **B:** Poor outcome kai factors ki wajah se ho sakta hai. Har poor outcome ko negligence ka proof maan lena evidence ke bina conclusion hoga.
+- **C:** Good outcome milne ka matlab ye zaroori nahi ki decision process safe tha. Kabhi harm avoid ho sakta hai, jabki decision mein error present tha.
+- **D:** Outcome ko completely ignore karne se patient safety aur future improvement ke liye important information miss ho sakti hai. Use process ke saath evaluate karna chahiye.
 
-**Exam clue:** Judge decision process and outcome separately.
+**Exam clue:** Decision ki reasoning aur final outcome dono review karo. Sirf result achha ya bura hone se process ki quality decide mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -1073,16 +1073,16 @@ Outcome bias mein hum decision ko sirf final result ke basis par judge karte hai
 **Correct answer: D. Clarify the patient's wishes and consent about family participation and information sharing**
 
 <!-- job5-rationale -->
-Patient family involvement chahta hai, par iska matlab unlimited confidential information sharing nahi hai. Nurse clarify kare patient kisko involve karna chahta hai, kaunse details share karne ki permission hai aur decision-making preferences kya hain. Capable patient's autonomy central hai. Consent, privacy policy aur documented wishes follow karo. Family support care mein valuable ho sakta hai.
+Patient family ko care mein involve karna chahta hai, lekin is preference ka matlab ye nahi hai ki family ko har confidential medical detail share karne ki permission mil gayi hai. Nurse patient se clarify karti hai ki woh kaunse family members ko involve karna chahta hai, kaunse details share karne ki permission deta hai aur care decisions mein unka kya role chahta hai. Agar patient khud informed decisions le sakta hai, toh uski autonomy central rehti hai. Nurse consent, privacy policy aur documented wishes follow karti hai. Isse family support bhi mil sakta hai aur patient ki confidentiality bhi protect rehti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A preference ko blanket permission assume karta hai.
-- **B:** B patient ki stated preference ignore karta hai.
-- **C:** C capable patient's decision automatically family ko transfer karta hai.
-- **D:** D wishes aur consent clarify karke involvement safe banata hai.
+- **A:** Family involvement ki preference ko unlimited information-sharing permission nahi maana ja sakta. Nurse ko patient ki actual consent clarify karni chahiye.
+- **B:** Family ko bina discussion exclude karne se patient ki stated preference ignore ho sakti hai. Appropriate consent ke saath family support involve kiya ja sakta hai.
+- **C:** Agar patient decision lene mein capable hai, toh family automatically uski jagah har decision nahi leti. Patient ki informed choice aur autonomy respect karni chahiye.
+- **D:** Patient ki wishes aur consent clarify karke nurse family participation aur information sharing ko patient-specific aur safe bana sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Family involvement needs patient-specific consent.
+**Exam clue:** Family involvement ke liye patient ki specific wishes aur consent samjho. Preference ko blanket permission mat samjho.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->

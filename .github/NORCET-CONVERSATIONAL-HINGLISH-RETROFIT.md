@@ -51,7 +51,7 @@ Source main commit 12daf0cd9527dfea5e7988154bb0c06d37550446. Counts are Markdown
 | Neonatal-Nursing | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
 | Nervous-System | 8 | 8 | 2 | 6 | 1 | 2 | Pending |
 | Neurological-System | 1 | 3 | 2 | 2 | 0 | 1 | Pending |
-| Nursing-Foundations | 29 | 58 | 6 | 29 | 0 | 1 | Draft partial: two concepts, banks 01 Q1–20, 01A Q1–13, 01B Q1–18 |
+| Nursing-Foundations | 29 | 58 | 6 | 29 | 0 | 1 | Draft partial: two concepts, banks 01 Q1–20, 01A Q1–13, 01B Q1–27 |
 | Nursing-Management-and-Education | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
 | Nursing-Research-and-Statistics | 1 | 1 | 1 | 3 | 0 | 1 | Pending |
 | Nutrition-and-Dietetics | 1 | 1 | 1 | 2 | 0 | 1 | Pending |
@@ -66,7 +66,7 @@ Source main commit 12daf0cd9527dfea5e7988154bb0c06d37550446. Counts are Markdown
 
 ## Resume
 
-Nursing Foundations 01B MCQ bank Q19 onward, other concept guides and learner-facing indexes in sequence. Coordinate with Jobs 1–5 and manual scopes. Do not overwrite their live changes. Validate exact remote readback, unchanged questions and all four rationales. Compare latest main before merging PR #12. Review the rest of each package, including mocks, PYQs, revision, indexes and any embedded questions. Apply the existing complete clinical audit protocol when a clinical defect is found. All counts and statuses must reflect actual reviews, not estimates.
+Nursing Foundations Group 01 learner-facing navigation and reported adaptations, then Group 02 in chapter order. Revisit all legacy mock mappings and revision content in coordinated scopes. Coordinate with Jobs 1–5 and manual scopes. Do not overwrite their live changes. Validate exact remote readback, unchanged questions and all four rationales. Compare latest main before merging PR #12. Review the rest of each package, including mocks, PYQs, revision, indexes and any embedded questions. Apply the existing complete clinical audit protocol when a clinical defect is found. All counts and statuses must reflect actual reviews, not estimates.
 
 ## Run 2 — Q4–Q20 language retrofit
 
@@ -81,3 +81,7 @@ All 13 existing Group 01A answers and 52 option-specific explanations rewritten 
 ## Run 3 continuation — Group 01B Q1–Q18
 
 Rewrote 18 answer blocks and 72 individual option rationales. Cumulative draft 51 existing MCQs, 204 individual option rationales and two concept guides. Preserved English stems/options/keys, metadata, evidence, original supporting references, all link occurrences and all characters outside job5 rationale markers. Q19–Q27 unchanged. Existing OpenStax and AHRQ references retained; no new clinical certification or historical/video claims. Next: Group 01B Q19–Q27. Draft only, pending fresh reconciliation and final merge gates.
+
+## Run 3 continuation — Group 01B Q19–Q27
+
+Rewrote final nine answer blocks and 36 individual option rationales, preserving Q1–Q18 exactly. All 27 Group 01B MCQs have now received the language retrofit (108 option rationales). Run 3 adds 40 existing MCQ explanations and 160 option rationales. Cumulative draft: 60 existing MCQs, 240 individual option rationales and two concept guides. English stems/options/keys, metadata, supporting references, 108 link occurrences in Group 01B, hidden answers and all text outside rationale markers preserved. No new questions, source claims or answer changes. Next: Group 01 learner-facing index/navigation prose and reported adaptations, then Group 02 (sequential concepts and MCQs), plus legacy mock and revision coverage after scope coordination. No full chapter or clinical certification. Draft-only pending reconciliation and merge gates.
