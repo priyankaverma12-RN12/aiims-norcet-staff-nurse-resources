@@ -11,3 +11,12 @@
 Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, state PSC/SSB/CHO and NHM exams. Record the exam, year, shift, paper or question number, exact evidence status and source link for each question. Write independently worded practice adaptations where verbatim reproduction is not permitted. Keep answers and complete conversational Hinglish explanations with each item. Dedicated teaching and MCQ video links need topic-specific verification.
 
 [Chapter](../README.md) · [Original questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
+
+## Question-level evidence — 27 November 2026
+
+- [🔵 RRB Staff Nurse 20 July 2019 Shift III — one retrieved reported adaptation](RRB-2019-Eye-Anatomy-Reported-Practice.md). Transcription Q28, official numbering/key pending. Other answer mappings on transcription are unreliable. No official exact count.
+- [Existing HPSSC 2022 reported hearing adaptation](Eye-and-ENT-Nursing-India-Wide-Additional-Reported-PYQs.md). Historical scan and key remain pending independent review.
+- [Testbook RRB archive](https://testbook.com/rrb-staff-nurse/previous-year-papers) corroborates shift/date, not item-level official key.
+- [GS India anatomy MCQ video](https://www.youtube.com/watch?v=bSc66vwFzLk) title/description retrieved, exact item coverage and playback pending. Coaching practice is not historical proof.
+
+NORCET, PGIMER, SGPGI, ESIC, JIPMER, DSSSB, HPRCA, CHO and state exact-question extraction pending. No unsupported exam claims.
