@@ -1186,9 +1186,22 @@ Safe medication instruction mein patient ko clearly pata hona chahiye kaunsi med
 
 **Correct: A. It is relatively distant from the sciatic nerve and major vessels**
 
-Ventrogluteal region mein sciatic nerve injury ka risk relatively lower ho sakta hai. Nurse drug, volume aur patient anatomy assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** IV direct circulation mein jaata hai. Ventrogluteal region muscle contain karta hai aur landmarking required hai.
+Ventrogluteal site hip ke lateral region mein gluteal muscles ko access karti hai. Dorsogluteal site ke comparison mein sciatic nerve aur major vessels se relative distance iski safety advantage hai. Drug formulation, permitted site, volume, patient anatomy aur correct landmarking verify karo. Site ko blindly select karna safe nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Sciatic nerve aur major vessels se relative distance suitable ventrogluteal placement ka main safety reason hai.
+- **B (Galat):** Correct anatomical assessment aur landmarks phir bhi zaroori hain. No site is automatically risk-free.
+- **C (Galat):** IV medication directly bloodstream mein enter karti hai. IM absorption drug aur tissue perfusion par depend karti hai, universally IV se faster nahi.
+- **D (Galat):** Ventrogluteal region muscle contain karti hai. Isi muscle tissue mein suitable IM medicine deliver hoti hai.
+
+**Exam clue:** Ventrogluteal: relative neurovascular safety, not no-risk placement.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1410,9 +1423,22 @@ Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta
 
 **Correct: B. It is not recommended at correctly selected vaccine sites**
 
-Recommended vaccination sites par large vessels generally nahi hoti. Routine aspiration recommended nahi hai. Non-vaccine drugs ke liye product aur policy check karo.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Mandatory aspiration, after-injection aspiration aur deliberate blood return vaccination guidance se match nahi karte.
+Aspiration ka matlab needle insert karne ke baad injection se pehle plunger withdraw karke blood return check karna hai. CDC routine vaccines ke recommended anatomical sites par aspiration necessary nahi maanta, kyunki wahan large blood vessels present nahi hoti aur aspiration discomfort badha sakti hai. Is recommendation ko sab non-vaccine IM drugs ke liye universal rule mat banao. Unke liye product instructions aur local policy follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vaccine delivery ke baad aspiration karna pre-injection check ka purpose fulfill nahi karta.
+- **B (Sahi):** Correctly selected recommended vaccine sites par routine aspiration recommended nahi hai.
+- **C (Galat):** Every vaccine ke liye mandatory aspiration current CDC guidance se match nahi karti.
+- **D (Galat):** Blood return intentionally seek karna routine vaccine delivery ka requirement nahi hai. Vaccine intended muscle tissue mein jaati hai.
+
+**Exam clue:** Routine IM vaccination: no aspiration at recommended sites.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html) · [Clinical reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1670,9 +1696,22 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Correct: C. Reduce leakage back into subcutaneous tissue**
 
-Skin aur subcutaneous tissue displace karke needle track offset kiya jaata hai. Isse selected irritating IM drugs ka leakage kam ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wheal ID injection mein banti hai. Venous access IV route hai. Allergy Z-track se prevent nahi hoti.
+Z-track technique mein selected IM medicine ke liye skin aur underlying subcutaneous tissue ko displace kiya jaata hai. Needle remove hone ke baad displaced tissue release hone se puncture path offset ho jaata hai. Iska purpose medication ke superficial tissue mein wapas leak hone ka risk kam karna hai, especially irritating ya staining formulations ke liye jab indicated ho. Drug-specific instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dermal wheal intradermal technique se associated hai, Z-track ka purpose nahi.
+- **B (Galat):** Venous access IV procedure ka objective hai. Z-track selected IM administration ka method hai.
+- **C (Sahi):** Offset tissue track medicine ko muscle mein retain karne aur leakage reduce karne mein help karta hai.
+- **D (Galat):** Allergy immune response se related hoti hai. Z-track allergic reaction prevention guarantee nahi karta.
+
+**Exam clue:** Z-track reduces tracking of selected IM medicine into superficial tissue.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1801,9 +1840,22 @@ Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch pa
 
 **Correct: B. Rotate sites systematically and avoid abnormal tissue according to guidance**
 
-Repeated injections lipohypertrophy cause kar sakti hain aur insulin absorption unpredictable ho sakti hai. Rotation aur site assessment important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Lump mein repeated dosing, forceful massage aur same puncture point tissue problems worsen kar sakte hain.
+Lipohypertrophy ka matlab repeated insulin exposure aur local injection trauma ke saath subcutaneous fatty tissue ka thickened ya lumpy ho jaana hai. Abnormal tissue mein insulin absorption delayed ya variable ho sakti hai. Nurse site examine karti hai aur systematic rotation, fresh needles aur abnormal areas avoid karna sikhati hai. Normal tissue par switch karne se insulin absorption change ho sakti hai, isliye glucose monitoring aur dose review prescribing team ke saath zaroori hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Same puncture point daily use karne se local tissue injury aur lipohypertrophy continue ho sakti hai.
+- **B (Sahi):** Systematic rotation aur abnormal tissue avoidance insulin absorption ko more predictable banane mein help karte hain.
+- **C (Galat):** Lumps mein repeated dosing se variable absorption ka concern persist karta hai.
+- **D (Galat):** Forceful massage lipohypertrophy ka treatment nahi hai aur local trauma badha sakti hai.
+
+**Exam clue:** Rotate insulin injection sites and reassess glucose when changing away from lumps.
+
+**Clinical references:** [Clinical reference 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6437255/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
