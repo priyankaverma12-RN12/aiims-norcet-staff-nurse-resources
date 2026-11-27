@@ -330,7 +330,7 @@ Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patie
 
 **Exam clue:** Do not touch energized hazards. Safe isolation and emergency help first.
 
-**Dedicated electrical equipment safety reference:** verification pending. Follow facility emergency and electrical safety procedures.
+**Dedicated electrical equipment safety reference:** [OSHA hospital electrical safety](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety) · Supports removal of damaged equipment from service, avoidance of wet-hand electrical contact and electrical hazard controls. This is a US occupational safety reference, not an Indian statutory rule. Follow facility emergency and electrical safety procedures.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
