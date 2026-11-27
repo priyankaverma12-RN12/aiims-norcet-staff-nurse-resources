@@ -368,9 +368,20 @@ Nerve damage abnormal electrical signaling cause kar sakti hai. Burning ya elect
 
 **Correct: C. 3 tablets**
 
-Dose calculate karne ke liye prescribed amount ko one tablet ki strength se divide karo. 750/250 = 3 tablets.
+<!-- job5-rationale -->
+Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 3 × 250 = 750 mg.
 
-**Baaki options kyun sahi nahi hain?** Two tablets 500 mg, 0.33 tablet approximately 83 mg aur four tablets 1000 mg deti hain.
+**Option-by-option reasoning**
+
+- **A:** 0.33 × 250 = 82.5 mg, prescribed dose se bahut kam.
+- **B:** 2 × 250 = 500 mg, 250 mg kam.
+- **C:** 3 × 250 = 750 mg, exact dose.
+- **D:** 4 × 250 = 1000 mg, 250 mg zyada.
+
+**Exam clue:** Tablet count ke liye dose aur tablet strength same unit mein rakho.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1621,9 +1632,20 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 **Correct: C. 3 mL**
 
-Final concentration 1000/10 = 100 mg/mL hai. 300/100 = 3 mL withdraw karne hain, assuming stated final volume verified hai.
+<!-- job5-rationale -->
+1 g = 1000 mg. Final concentration = 1000/10 = 100 mg/mL. Volume = 300/100 = 3 mL. Reverse: 3 × 100 = 300 mg.
 
-**Baaki options kyun sahi nahi hain?** 0.3 mL 30 mg, 10 mL 1000 mg aur 30 mL 3000 mg represent karta hai.
+**Option-by-option reasoning**
+
+- **A:** 30 mL represents 3000 mg and exceeds vial volume.
+- **B:** 10 mL delivers full 1000 mg.
+- **C:** 3 mL delivers 300 mg.
+- **D:** 0.3 mL delivers 30 mg.
+
+**Exam clue:** Diluent added aur final volume same assume mat karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2385,9 +2407,20 @@ Retracted foreskin wapas na laayein toh glans ke peeche tight ring ban sakti hai
 
 **Correct: D. 2 tablets**
 
-One gram mein 1000 mg hote hain. 0.25 g = 250 mg, aur 250/125 = 2 tablets.
+<!-- job5-rationale -->
+0.25 g × 1000 = 250 mg. Tablet count = 250/125 = 2. Reverse: 2 × 125 /1000 = 0.25 g.
 
-**Baaki options kyun sahi nahi hain?** 0.002 conversion error hai. Four tablets 500 mg aur one tablet 125 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 0.002 tablet = 0.25 mg, gram conversion miss hua.
+- **B:** 1 tablet = 125 mg, half dose.
+- **C:** 4 tablets = 500 mg, double dose.
+- **D:** 2 tablets = 250 mg, correct.
+
+**Exam clue:** g to mg: multiply by 1000.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2652,9 +2685,20 @@ Hot drink mouth ki local temperature increase kar sakti hai. Nurse device policy
 
 **Correct: B. 0.7 mL**
 
-Volume dose divided by concentration se milta hai. 35/50 = 0.7 mL. Suitable calibrated syringe select karna important hai.
+<!-- job5-rationale -->
+Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 35 mg.
 
-**Baaki options kyun sahi nahi hain?** 7 mL 350 mg, 1.4 mL 70 mg aur 0.07 mL 3.5 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 1.4 × 50 = 70 mg, double dose.
+- **B:** 0.7 × 50 = 35 mg.
+- **C:** 0.07 × 50 = 3.5 mg, tenfold underdose.
+- **D:** 7 × 50 = 350 mg, tenfold overdose.
+
+**Exam clue:** mg cancel hone ke baad mL bachta hai. Calibrated device use karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
