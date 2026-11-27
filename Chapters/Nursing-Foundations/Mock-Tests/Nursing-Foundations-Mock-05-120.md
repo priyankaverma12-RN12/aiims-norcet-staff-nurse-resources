@@ -692,9 +692,20 @@ NPO ka matlab oral intake restriction hai, oral hygiene restriction nahi. Mouth 
 
 **Correct: A. Recheck the order, unit conversions and calculation and obtain required verification**
 
-Unexpected result calculation ya order error ka clue ho sakta hai. Nurse source values aur units dobara verify karti hai, especially high-alert infusion mein.
+<!-- job5-rationale -->
+Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order, concentration, time unit, formula aur pump setting independently recheck karo. Required clinical verification obtain karo.
 
-**Baaki options kyun sahi nahi hain?** Blind programming unsafe hai. Automatic decimal change bhi error ho sakta hai. Patient rate authorize nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Rechecking prevents blind programming of a potentially dangerous rate.
+- **B:** Patient prescribed infusion rate authorize nahi karta.
+- **C:** Automatically divide by ten correct dose prove nahi karta.
+- **D:** Arithmetic aur data entry errors possible hain.
+
+**Exam clue:** Unexpected result = stop, verify, clarify, then program.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1411,9 +1422,20 @@ Gentle relaxation aur supportive conversation tension reduce karne mein help kar
 
 **Correct: B. Select a suitable calibrated syringe that can accurately measure the full ordered volume**
 
-Syringe ki capacity aur graduation dose accurately measure karne ke liye suitable honi chahiye. Nurse appropriate size select karti hai.
+<!-- job5-rationale -->
+1.2 mL is greater than the 1 mL marked capacity. Suitable calibrated device with enough capacity and appropriate graduation select karo. Route-specific syringe use karo.
 
-**Baaki options kyun sahi nahi hain?** Overfilling calibration ke bahar hai. Unauthorized rounding dose alter karti hai. Eye estimate unreliable hai.
+**Option-by-option reasoning**
+
+- **A:** 1 mL is 0.2 mL less, about 16.7% below the prescribed volume.
+- **B:** Correct device full 1.2 mL accurately measure kar sakti hai.
+- **C:** Eye estimation calibrated measurement nahi hai.
+- **D:** Overfill marked capacity se beyond calibrated range hai.
+
+**Exam clue:** Device capacity and graduation dono verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2316,9 +2338,20 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 **Correct: C. 25 g**
 
-10% w/v = 10 g per 100 mL. 250 mL ke liye 10 x 2.5 = 25 g.
+<!-- job5-rationale -->
+10% w/v = 10 g/100 mL. Mass = 10 × 250/100 = 25 g. Reverse: 25/250 × 100 = 10% w/v.
 
-**Baaki options kyun sahi nahi hain?** 10 g 100 mL mein hai. 2.5 decimal error hai. 250 g total volume ko mass samajhne ki mistake hai.
+**Option-by-option reasoning**
+
+- **A:** 250 g gives 100% w/v.
+- **B:** 10 g in 250 mL gives 4% w/v.
+- **C:** 25 g gives 10% w/v.
+- **D:** 2.5 g gives 1% w/v.
+
+**Exam clue:** Container mL is not solute mass in grams.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2884,9 +2917,20 @@ High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result ve
 
 **Correct: A. 60 mg**
 
-66 lb ko 2.2 se divide karo toh 30 kg milte hain. 30 x 2 = 60 mg. Actual measured weight aur dose limit verify karo.
+<!-- job5-rationale -->
+Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 = 66 lb.
 
-**Baaki options kyun sahi nahi hain?** 132 lb ko kg maan leta hai. 30 weight hai, dose nahi. 145 conversion aur multiplication confuse karta hai.
+**Option-by-option reasoning**
+
+- **A:** 60 mg gives 2 mg/kg.
+- **B:** 30 mg gives 1 mg/kg.
+- **C:** 145 mg gives about 4.83 mg/kg.
+- **D:** 132 mg treats 66 lb as kilograms.
+
+**Exam clue:** Weight units verify karo before multiplying.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
