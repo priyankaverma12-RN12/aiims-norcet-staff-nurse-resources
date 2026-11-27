@@ -2,7 +2,9 @@
 
 Reported third-party question pages, independent adaptations. Not official key authentication. No automatic count increase until comparison with previous 34 reported adaptations.
 
-### NVS Staff Nurse, September 2019 — retrieved report
+<a name="nvs-staff-nurse-september-2019--retrieved-report"></a>
+
+### 🔵 NVS Staff Nurse, September 2019 — retrieved report
 
 <!-- job4-metadata -->
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application · Source-based adaptation
@@ -21,7 +23,7 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 
 <!-- job4-metadata -->
-**Exam evidence:** **🔵 NVS Staff Nurse September 2019 — Reported question**. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key.  Direct source reopened and inspected.
+**Exam evidence:** Retrieved third-party reported question. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key.  Direct source reopened and inspected.
 
 **Related concept:** [Study notes](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques)
 
@@ -29,7 +31,9 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 <!-- /job4-metadata -->
 </details>
 
-### RRB Nursing Superintendent, 12 March 2026 shift 1 — indexed report
+<a name="rrb-nursing-superintendent-12-march-2026-shift-1--indexed-report"></a>
+
+### 🔵 RRB Nursing Superintendent, 12 March 2026 shift 1 — indexed report
 
 <!-- job4-metadata -->
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application · Source-based adaptation
@@ -48,7 +52,7 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 
 
 <!-- job4-metadata -->
-**Exam evidence:** **🔵 RRB Nursing Superintendent 12 March 2026 shift I — Reported question**. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note. Direct source recheck failed in this run; previous retrieval retained.
+**Exam evidence:** Retrieved third-party reported question. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note. Direct source recheck failed in this run; previous retrieval retained.
 
 **Related concept:** [Study notes](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability)
 
