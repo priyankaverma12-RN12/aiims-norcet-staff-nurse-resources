@@ -622,7 +622,9 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 
-**Topic-bank question:** [Q13](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q13-which-source-is-generally-the-primary-source-of-a-conscious-patients-health-history) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q13](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q13-which-source-is-generally-the-primary-source-of-a-conscious-patients-health-history)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -1202,7 +1204,9 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q14](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q14-a-patient-with-limited-english-proficiency-nods-during-teaching-but-cannot-explain-the-medication-schedule-which-action-best-evaluates-understanding) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q14](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q14-a-patient-with-limited-english-proficiency-nods-during-teaching-but-cannot-explain-the-medication-schedule-which-action-best-evaluates-understanding)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -1320,7 +1324,9 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q16](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q16-which-statement-distinguishes-a-nursing-diagnosis-from-a-medical-diagnosis) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q16](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q16-which-statement-distinguishes-a-nursing-diagnosis-from-a-medical-diagnosis)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -2385,7 +2391,9 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q15](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q15-a-nurse-identifies-a-new-problem-during-evaluation-what-is-the-most-appropriate-next-step) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q15](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q15-a-nurse-identifies-a-new-problem-during-evaluation-what-is-the-most-appropriate-next-step)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
