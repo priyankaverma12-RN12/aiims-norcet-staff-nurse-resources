@@ -374,7 +374,7 @@ Rectal instrumentation mucosa injure kar sakti hai. Thrombocytopenia mein bleedi
 
 ### Q16. A PRN analgesic is requested by a patient who received another sedating drug recently. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assess pain, sedation, respiratory status and timing before giving the prescribed dose
 - **B.** Administer double the dose to ensure relief
@@ -400,9 +400,11 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q13](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q13](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q13-a-prn-analgesic-is-requested-by-a-patient-who-received-another-sedating-drug-recently-which-action-is-most-appropriate)
 
 ### Q17. Where should routine ophthalmic drops be instilled?
 
@@ -1054,7 +1056,7 @@ Capillary glucose testing small blood sample use karti hai. Hand hygiene, device
 
 ### Q42. A nurse applies a replacement transdermal patch. Which check helps prevent an unintended excess dose?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Locate and remove the previous patch as instructed before applying the new one
 - **B.** Place a heating pad over all patches
@@ -1080,9 +1082,11 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-introduction)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q14](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q14](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q14-a-nurse-applies-a-replacement-transdermal-patch-which-check-helps-prevent-an-unintended-excess-dose)
 
 ### Q43. A patient receiving parenteral nutrition through a central line develops fever and rigors. Which response is appropriate?
 
@@ -2144,7 +2148,7 @@ Reduced sensation mein patient excessive heat detect nahi kar paata. Nurse suita
 
 ### Q86. Which medication order element identifies how a drug is delivered into the body?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 NHM MP CHO 27 Jan 2021 Shift 1 — related tested concept only](https://testbook.com/question-answer/nurses-must-consider-the-following-five-rights-whi--62e80544dc9b900c1485fb02/amp)**
 
 - **A.** Manufacturer logo
 - **B.** Lot number alone
@@ -2170,9 +2174,11 @@ Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — right route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q16](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q16](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q16-which-medication-order-element-identifies-how-a-drug-is-delivered-into-the-body)
 
 ### Q87. Which instruction best applies teach-back before discharge?
 
@@ -2683,7 +2689,7 @@ Distal pallor aur tingling perfusion ya nerve compromise suggest kar sakte hain.
 
 ### Q107. A patient receives an IV drug and immediately develops wheezing, hypotension and facial swelling. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Offer solid food before assessing breathing
 - **B.** Slowly increase the infusion rate
@@ -2709,9 +2715,11 @@ Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest kart
 [Clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q15](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q15](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q15-a-patient-receives-an-iv-drug-and-immediately-develops-wheezing-hypotension-and-facial-swelling-what-is-the-priority)
 
 ### Q108. An unfamiliar infusion pump alarm activates and the patient is receiving a high-alert medicine. Which action is safest?
 
