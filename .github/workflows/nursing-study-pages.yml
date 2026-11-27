@@ -1,6 +1,11 @@
-name: Deploy Nursing Study Hub (manual)
+name: Deploy Nursing Study Hub
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'website/**'
+      - '.github/workflows/nursing-study-pages.yml'
 permissions:
   contents: read
   pages: write
@@ -11,7 +16,7 @@ concurrency:
 jobs:
   deploy:
     if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -35,3 +40,11 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify published homepage
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          test -n "$SITE_URL"
+          curl --fail --location --retry 5 --retry-all-errors --retry-delay 5 --max-time 30 "$SITE_URL" -o /tmp/nursing-home.html
+          grep -F 'Nursing Study Hub' /tmp/nursing-home.html
+          echo "Verified published homepage: $SITE_URL"
