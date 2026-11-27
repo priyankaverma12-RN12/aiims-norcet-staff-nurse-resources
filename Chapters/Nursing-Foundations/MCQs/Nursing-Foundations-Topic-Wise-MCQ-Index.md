@@ -64,8 +64,9 @@
 | [Medication monitoring and response](06C-Medication-Monitoring-and-Response-26-MCQs.md) | 26 | 30 |
 | [Dose units, concentration and reconstitution](07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md) | 20 | 30 |
 | [Weight-based dosing and safe-dose range](07B-Weight-Based-Dosing-and-Safe-Dose-Range-27-MCQs.md) | 27 | 30 |
+| [Infusion rate and drug infusion calculations](07C-Infusion-Rate-and-Drug-Infusion-Calculations-24-MCQs.md) | 24 | 30 |
 
-Current inventory **1,151 original question slots** (480 Medium, 671 Difficult), initial 600 + 551 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,175 original question slots** (488 Medium, 687 Difficult), initial 600 + 575 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -98,3 +99,5 @@ Group 06B: 25 new + original Group 06 Q4,5,6,14,16 = 30 allocated. Group 06C: 26
 Group 07A: 20 new + original Group 07 Q1–4, Q14–17, Q19 and reserved Group 06 Q17 = 30 allocated. Group 07 Q5,6,18 allocated once to 07B weight-based dosing. Q7–11,20 reserve for infusion calculations. Q12–13 reserve for fluid balance scope. All 20 earlier Group 07 IDs reconciled once, no duplicate credit. [Concept guide](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md) · [Reported evidence](../Previous-Year-Questions/07A-Dose-Calculation-Reported-Evidence.md).
 
 Group 07B: 27 new + original Group 07 Q5,6,18 = 30 allocated. [Concept guide](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md) · [Reported evidence](../Previous-Year-Questions/07B-Weight-Based-Dose-Reported-Evidence.md). Q7–11,20 remain reserved for infusion calculations, Q12,13 for fluid balance. Full clinical and semantic audit pending.
+
+Group 07C: 24 new + Group 07 Q7–11 and Q20 = 30 allocated. [Concepts](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md) · [Reported evidence](../Previous-Year-Questions/07C-Infusion-Calculations-Reported-Evidence.md). Q12,13 remain reserved for fluid balance. All new slots counted once. Next Group 08 subdivisions, with full semantic and clinical audit pending.
