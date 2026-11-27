@@ -6,6 +6,8 @@
 
 **NORCET 12 + HP Staff Nurse (HPRCA) preparation**
 
+**[🚀 Launch Nursing Study Hub](https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/)**
+
 </div>
 
 > Ye hamari step-by-step nursing preparation ka repo hai. **Study-ready material bhi publish kiya ja sakta hai jab learner explicitly poora syllabus taiyar karne ko bole.** Medical words English mein, explanation simple Hindi-English mein.
