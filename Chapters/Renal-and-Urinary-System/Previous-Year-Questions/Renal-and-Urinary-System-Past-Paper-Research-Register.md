@@ -20,3 +20,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [Renal physiology — three reported adaptations](Renal-Physiology-Reported-Exam-Questions.md), based on Haryana USHR Staff Nurse 2022, DSSSB Public Health Nurse 2015, ESIC Nursing Officer 2019 Shift 1, and RRB Nursing Superintendent 2019 Shift 1 reports. Same-concept records grouped. Official keys and question-specific videos pending. Haryana stable direct source link pending.
 
 - [Renal assessment — two reported adaptations](Renal-Assessment-Reported-Exam-Questions.md), directly retrieved HPSSC Staff Nurse 1 August 2021 and BHU Nursing Officer 2019 reports. Official booklet/key and specific MCQ videos pending. Additional indexed leads and retrieval failures logged in evidence file.
+
+- [AKI — one NCL Staff Nurse November 2020 reported adaptation](Acute-Kidney-Injury-Reported-Exam-Questions.md). Direct third-party source retrieved, official keys and specific MCQ practice pending. Three related original-question video leads only. ICMR July 2026 and UK Kidney Association clinical sources reviewed.
