@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-pelvic-breast-pcos-1605
+Scope: Pelvic Q31–Q40, breast Q21–Q40, PCOS Q21–Q40 and Gynecology README/evidence only
+Claimed UTC: 2026-11-27T16:05:05Z
+Expiry UTC: 2026-11-27T16:35:05Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
