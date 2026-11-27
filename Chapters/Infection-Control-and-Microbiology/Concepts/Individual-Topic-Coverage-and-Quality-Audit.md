@@ -37,3 +37,8 @@ The subtopic allocations are an editorial working classification based on retrie
 ## Next checkpoint
 
 Complete individual-topic expansion beginning with surgical hand preparation, then continue in chapter order. An attempt to retrieve all 30 banks in one tool invocation exceeded the connector call limit. Continue structural checks for files 07–24 in smaller batches and compare all stems together. Audit older rationales and clinical accuracy, then write ten distinct 120-question chapter mocks. Do not mark the chapter complete or proceed to another chapter before these requirements are met.
+
+
+## Expansion update — surgical hand preparation
+
+Published [30 additional questions](../MCQs/01A-Surgical-Hand-Preparation-30-MCQs.md), [concept guide with diagram](01A-Surgical-Hand-Preparation.md) and [historical AIIMS recall with clinical caveat](../Previous-Year-Questions/01A-Surgical-Hand-Preparation-Reported-PYQs.md). The bank has 30 distinct exact stems internally, 30 hidden answers, 15 Medium and 15 Difficult. Earlier general-purpose question preserved. Current total 1,230 question slots. Full semantic overlap and dedicated practice video playback remain pending. Next: group 02, separate sterilization methods and monitoring, chemical disinfection and CSSD workflow. Audit existing allocation before writing new questions.
