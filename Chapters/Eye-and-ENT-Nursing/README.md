@@ -69,4 +69,4 @@ Central serous chorioretinopathy expansion, 27 November 2026: resumed at 1814b84
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-092740-htn. Scope: hypertensive retinopathy chapter-local package only. Claimed UTC 2026-11-27T09:27:40Z. Expiry UTC 2026-11-27T09:57:40Z. -->
