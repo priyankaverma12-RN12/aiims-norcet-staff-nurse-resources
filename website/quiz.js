@@ -22,6 +22,19 @@ function scoreBank(items,selected,penalty){
  for(const q of items){const a=selected[q.id];if(!a)skipped++;else if(a===q.key)correct++;else wrong++}
  return {correct,wrong,skipped,score:correct-wrong*penalty,total:items.length};
 }
+// A changed source invalidates saved attempts rather than silently shifting answers.
+function bankSignature(items){
+ let h=2166136261;
+ const text=JSON.stringify(items.map(q=>[q.id,q.stem,q.extra,q.options,q.key]));
+ for(let i=0;i<text.length;i++){h^=text.charCodeAt(i);h=Math.imul(h,16777619)}
+ return (h>>>0).toString(16)+'-'+items.length;
+}
+function validateAttempt(saved,items){
+ if(!saved||saved.signature!==bankSignature(items)||!Number.isFinite(saved.deadline)||![0,1/3].includes(saved.penalty)||!Number.isInteger(saved.at)||saved.at<0||saved.at>=items.length||typeof saved.finished!=='boolean'||!saved.selected||typeof saved.selected!=='object'||Array.isArray(saved.selected))return null;
+ const allowed=new Set(items.map(q=>q.id));const selected={};
+ for(const [id,a] of Object.entries(saved.selected)){if(!allowed.has(id)||!['A','B','C','D'].includes(a))return null;selected[id]=a}
+ return {...saved,selected};
+}
 function mountQuiz(md,path,content,render,route){
  const bank=parseBank(md);if(!bank.total)return;
  const el=(tag,txt)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=txt;return n};
@@ -39,20 +52,35 @@ function mountQuiz(md,path,content,render,route){
  const body=el('div');root.append(body);
  const controls=el('div');controls.className='quiz-controls';root.append(controls);
  let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0;
- function loadMarks(){try{return JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]')}catch{return []}}
+ const attemptKey='nursing-attempt-v1:'+path;
+ function persist(){try{localStorage.setItem(attemptKey,JSON.stringify({signature:bankSignature(bank.items),selected,finished,deadline,penalty,at}))}catch{}}
+ function clearSaved(){try{localStorage.removeItem(attemptKey)}catch{}}
+ function getSaved(){try{return validateAttempt(JSON.parse(localStorage.getItem(attemptKey)||'null'),bank.items)}catch{return null}}
+ function loadMarks(){try{const v=JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]');return Array.isArray(v)?v.filter(m=>m&&typeof m.path==='string'&&typeof m.stem==='string'):[]}catch{return []}}
  function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked'}catch{state.textContent='Bookmark storage unavailable.'}}
- function finish(){if(!started||finished)return;finished=true;clearInterval(timer);const s=scoreBank(bank.items,selected,penalty);state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
+ function finish(){if(!started||finished)return;finished=true;clearInterval(timer);persist();const s=scoreBank(bank.items,selected,penalty);state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
  function tick(){const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));state.textContent='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(!remain)finish()}
- function draw(){body.replaceChildren();controls.replaceChildren();if(!started)return;const q=bank.items[at];const h=el('h3','Question '+(at+1)+' / '+bank.items.length);body.append(h);const mark=btn(loadMarks().some(m=>m.path===path&&m.stem===q.stem)?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,mark));body.append(mark);
+ function draw(){body.replaceChildren();controls.replaceChildren();if(!started)return;persist();const q=bank.items[at];const h=el('h3','Question '+(at+1)+' / '+bank.items.length);body.append(h);const mark=btn(loadMarks().some(m=>m.path===path&&m.stem===q.stem)?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,mark));body.append(mark);
  const stem=el('div');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
  const field=el('fieldset');field.append(el('legend','Select one answer'));
- for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label');label.className='quiz-option';const input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.disabled=finished;input.onchange=()=>{selected[q.id]=letter;tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);if(finished&&letter===q.key)label.classList.add('correct-choice');if(finished&&selected[q.id]===letter&&letter!==q.key)label.classList.add('wrong-choice');field.append(label)}body.append(field);
+ for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label');label.className='quiz-option';const input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.disabled=finished;input.onchange=()=>{selected[q.id]=letter;persist();tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);if(finished&&letter===q.key)label.classList.add('correct-choice');if(finished&&selected[q.id]===letter&&letter!==q.key)label.classList.add('wrong-choice');field.append(label)}body.append(field);
  if(finished){const d=el('details');d.append(el('summary','Answer and original explanation'));const ex=el('div');render(ex,q.explanation,path);d.append(ex);body.append(d)}
  const prev=btn('← Previous',()=>{at--;draw()});prev.disabled=at===0;const next=btn('Next →',()=>{at++;draw()});next.disabled=at===bank.items.length-1;const jump=el('select');jump.setAttribute('aria-label','Jump to question');bank.items.forEach((x,i)=>{const op=el('option',(i+1)+ (selected[x.id]?' ✓':''));op.value=String(i);op.selected=i===at;jump.append(op)});jump.onchange=()=>{at=Number(jump.value);draw()};controls.append(prev,jump,next);
  if(!finished){controls.append(btn('Clear answer',()=>{delete selected[q.id];draw();tick()}),btn('Submit test',()=>{if(confirm('Submit this attempt?'))finish()}))}
- controls.append(btn('Exit to original reading',()=>{if(!finished&&!confirm('Discard this attempt?'))return;clearInterval(timer);started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';config.hidden=false;start.hidden=false;content.hidden=false}));
+ controls.append(btn('Exit to original reading',()=>{if(!finished&&!confirm('Discard this attempt?'))return;clearInterval(timer);clearSaved();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';config.hidden=false;start.hidden=false;content.hidden=false}));
  }
- const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}started=true;finished=false;penalty=neg.checked?1/3:0;deadline=Date.now()+mins*60000;config.hidden=true;start.hidden=true;content.hidden=true;draw();tick();if(!finished)timer=setInterval(tick,250)});
+ const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}started=true;finished=false;selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+mins*60000;config.hidden=true;start.hidden=true;content.hidden=true;draw();tick();if(!finished)timer=setInterval(tick,250)});
  root.append(start);
+ const saved=getSaved();
+ if(saved){
+  const resume=btn(saved.finished?'Review saved result':'Resume saved attempt',()=>{
+   ({selected,finished,deadline,penalty,at}=saved);started=true;config.hidden=true;start.hidden=true;resume.hidden=true;discard.hidden=true;content.hidden=true;
+   if(finished){const s=scoreBank(bank.items,selected,penalty);state.textContent='Saved result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
+   else{draw();tick();if(!finished)timer=setInterval(tick,250)}
+  });
+  const discard=btn('Discard saved attempt',()=>{clearSaved();resume.remove();discard.remove()});
+  root.append(resume,discard);
+  start.addEventListener('click',()=>{if(started){resume.hidden=true;discard.hidden=true}});
+ }
 }
-if(typeof module!=='undefined')module.exports={parseBank,scoreBank};
+if(typeof module!=='undefined')module.exports={parseBank,scoreBank,bankSignature,validateAttempt};
