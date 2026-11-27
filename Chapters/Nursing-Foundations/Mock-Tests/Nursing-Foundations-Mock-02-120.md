@@ -61,9 +61,19 @@ Nursing outcome patient mein expected change ko describe karta hai. SMART ka mat
 
 **Correct: C. Keep the load close and use a stable base with hip and knee movement**
 
-Load body ke paas ho toh spine par leverage kam padta hai. Stable stance aur legs ka use strain reduce kar sakta hai. Patient transfers ke liye mechanical aids bhi use karne chahiye.
+Object lifting mein load ka weight aur body se distance dono spinal torque par asar karte hain. Load paas rakhne se moment arm kam hota hai. Stable base aur hip-knee movement help karte hain. Yeh patient ke manual lifting ko safe banane ki guarantee nahi hai. Patient handling mein assessed mechanical aids use karein.
 
-**Baaki options kyun sahi nahi hain?** Far load, twisting aur awkward reaching back strain badhate hain.
+**Option-wise explanation:**
+- **A (Galat):** One-hand cross-body reach asymmetrical load aur rotation badhata hai.
+- **B (Galat):** Rigid knees aur waist se excessive bending back muscles par strain badha sakti hai.
+- **C (Sahi):** Close load, stable stance aur hip-knee movement object lifting mein control aur leverage improve karte hain.
+- **D (Galat):** Door load aur trunk twist dono lumbar strain badhate hain. Load jitna door, moment arm utna bada.
+
+**Exam clue:** Object lifting ≠ dependent patient lifting. Mechanical aids ko priority dein.
+
+**Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
@@ -190,9 +200,19 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 **Correct: A. Slight elbow flexion while standing upright with hands on the grips**
 
-Walker height aisi honi chahiye ki patient upright rahe aur elbows slightly bend ho. Isse weight transfer aur control easier hota hai.
+Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jisse shoulders relaxed aur elbows slightly flexed reh sakein. Therapist patient ki footwear, balance aur specific device ke hisaab se fitting karta hai.
 
-**Baaki options kyun sahi nahi hain?** Raised shoulders, rigid elbows aur excessive bending incorrect adjustment suggest karte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Slight elbow flexion ke saath upright posture walker par controlled pressure aur comfortable reach allow karta hai.
+- **B (Galat):** Eye-level grips shoulders ko unnecessarily elevate karte hain aur normal gait control nahi dete.
+- **C (Galat):** Locked elbows aur elevated shoulders poor fit ya excessive height suggest karte hain.
+- **D (Galat):** Marked trunk flexion walker too low ya poor setup indicate kar sakta hai. Isse balance aur back strain affect ho sakte hain.
+
+**Exam clue:** Walker grip fit = upright, relaxed shoulders, slight elbow bend.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -1481,9 +1501,19 @@ Safe home care ke liye practical skill important hai. Nurse teach-back, demonstr
 
 **Correct: D. Use an appropriate mechanical lift with trained staff after assessment**
 
-Non-weight-bearing dependent patient manual transfer mein fall aur caregiver injury ka risk high hai. Suitable lift aur trained team safer transfer provide karte hain.
+Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakta. Assessment ke baad compatible full-body mechanical lift, suitable sling aur trained staff use karein. Equipment capacity, lines, skin aur patient comfort check karein.
 
-**Baaki options kyun sahi nahi hain?** Single manual lift, unsupported standing aur neck holding unsafe ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported stand-pivot ke liye adequate weight bearing aur control chahiye. Is patient mein fall ka risk hai.
+- **B (Galat):** Nurse ki neck pakadne se nurse aur patient dono injured ho sakte hain. Yeh approved transfer support nahi hai.
+- **C (Galat):** Ek nurse ka manual dependent lift patient fall aur musculoskeletal injury ka high-risk method hai.
+- **D (Sahi):** Suitable mechanical lift body weight support karta hai aur manual lifting strain kam karta hai. Trained staff aur assessed sling zaroori hain.
+
+**Exam clue:** Cannot bear weight + maximal assistance = assessed mechanical lift.
+
+**Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -2338,9 +2368,19 @@ Access barrier treatment interruption cause kar sakta hai. Nurse social work, ph
 
 **Correct: D. The hand opposite the weaker leg**
 
-Opposite hand mein cane weak leg ke stance phase ko support karti hai. Physiotherapist patient-specific gait instruction deta hai.
+Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki jaati hai. Cane aur weaker leg ka coordinated movement base of support badhata hai aur affected hip ki demand reduce kar sakta hai. Gait pattern therapist se individualize karein.
 
-**Baaki options kyun sahi nahi hain?** Same-side use kuch situations mein modified ho sakta hai lekin usual pattern opposite hand hai. Behind-body support unsafe hai. Gait assessment needed hai.
+**Option-wise explanation:**
+- **A (Galat):** Same-side use kuch individualized conditions mein ho sakta hai, lekin all cases mein nahi. Usual teaching opposite hand hai.
+- **B (Galat):** Bina gait assessment kisi bhi side use karna unsafe ho sakta hai, especially poor balance ya upper-limb weakness mein.
+- **C (Galat):** Cane body ke peeche dono hands se pakadna safe forward support aur normal gait pattern ko compromise karta hai.
+- **D (Sahi):** Opposite hand mein cane weak leg ke stance phase ko support karti hai. Yeh standard teaching pattern hai.
+
+**Exam clue:** Weak left leg → cane usually right hand.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
