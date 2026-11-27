@@ -60,8 +60,10 @@
 | [Bedside sterile-field clinical judgment](05A-Bedside-Sterile-Field-Clinical-Judgment-26-MCQs.md) | 26 | 30 |
 | [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) | 30 | 30 |
 | [Medication verification and error prevention](06A-Medication-Verification-and-Error-Prevention-22-MCQs.md) | 22 | 30 |
+| [Medication routes and formulations](06B-Medication-Routes-and-Formulations-25-MCQs.md) | 25 | 30 |
+| [Medication monitoring and response](06C-Medication-Monitoring-and-Response-26-MCQs.md) | 26 | 30 |
 
-Current inventory **1,053 original question slots** (446 Medium, 607 Difficult), initial 600 + 453 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,104 original question slots** (469 Medium, 635 Difficult), initial 600 + 504 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -87,4 +89,6 @@ Group 05A: original Group 05 Q4,5,13,14 + 26 new = 30 allocated. [Reported evide
 
 Group 05B isolation care continuity: 30 new original slots, 30/30 initial numerical target, no legacy slots added. Filename retained. [Concepts](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md) · [Evidence gaps](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Full semantic, clinical and video audit pending.
 
-Group 06A: 22 new originals + Group 06 Q1,2,3,10,12,18,19 and Group 04 Q12 = 30 allocated. Remaining 13 original Group 06 slots reserved once for medication routes, formulation, monitoring, calculations or related later groups. [Concepts](../Concepts/06A-Medication-Verification-and-Error-Prevention.md) · [Reported evidence](../Previous-Year-Questions/06A-Medication-Safety-Reported-Evidence.md).
+Group 06A: 22 new originals + Group 06 Q1,2,3,10,12,18,19 and Group 04 Q12 = 30 allocated. Remaining 13 original Group 06 slots reconciled below, no double counting. [Concepts](../Concepts/06A-Medication-Verification-and-Error-Prevention.md) · [Reported evidence](../Previous-Year-Questions/06A-Medication-Safety-Reported-Evidence.md).
+
+Group 06B: 25 new + original Group 06 Q4,5,6,14,16 = 30 allocated. Group 06C: 26 new + Q11,13,15,20 = 30 allocated. Reserve Q17 once for Group 07 calculations and Q7,8,9 once for Group 19 injection techniques. All 13 reconciled. [06B concepts](../Concepts/06B-Medication-Routes-and-Formulations.md) · [06C concepts](../Concepts/06C-Medication-Monitoring-and-Response.md). Full semantic, clinical and video audit pending.
