@@ -835,7 +835,7 @@ Sterilization validated physical ya chemical process hai jo viable microbial lif
 
 ### Q26. A pressure injury base is entirely covered by slough and eschar, preventing confirmation of tissue depth. How should it be classified?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 ESIC Staff Nurse 26 February 2019 Shift III — related staging concept, historical management caveat** · Legacy topic-bank reuse
 
 - **A.** Healed stage 4
 - **B.** Unstageable pressure injury
@@ -862,7 +862,7 @@ Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usua
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q5](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q5](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q5-a-pressure-injury-base-is-entirely-covered-by-slough-and-eschar-preventing-confirmation-of-tissue-depth-how-should-it-be-classified)
 
 ### Q27. Which route delivers a prescribed drug directly into systemic venous circulation?
 
@@ -1072,7 +1072,7 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 ### Q34. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stage 2 in every case
 - **B.** Skin tear by definition
@@ -1099,7 +1099,7 @@ Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q6](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q6](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q6-a-patient-has-persistent-deep-maroon-discoloration-of-intact-heel-skin-after-prolonged-pressure-which-category-should-be-considered)
 
 ### Q35. During handover using SBAR, which information belongs in the Recommendation section?
 
@@ -1826,7 +1826,7 @@ Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur d
 
 ### Q65. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Keep both heels pressed against the mattress
 - **B.** Place a hard ring beneath each heel
@@ -1853,7 +1853,7 @@ Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively k
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q7](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q7](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q7-which-intervention-directly-reduces-sustained-pressure-on-the-heels-in-a-bedbound-patient)
 
 ### Q66. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
@@ -2020,7 +2020,7 @@ Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urin
 
 ### Q71. Which method best supports independence in a patient with limited hand strength during feeding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide suitable adaptive utensils and assistance only as needed
 - **B.** Feed the patient completely without checking ability
@@ -2047,7 +2047,7 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q5](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q5](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q5-which-method-best-supports-independence-in-a-patient-with-limited-hand-strength-during-feeding)
 
 ### Q72. During the initial meeting, a nurse and patient identify the presenting concern and establish roles. Which phase of Peplau's relationship is illustrated?
 
@@ -2176,7 +2176,7 @@ Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. S
 
 ### Q77. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase feeding rate to compensate for interruption
 - **B.** Stop feeding and re-establish placement according to protocol before further use
@@ -2203,7 +2203,7 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q7](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q7](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q7-during-enteral-feeding-the-tubes-external-marking-changes-substantially-what-should-the-nurse-do)
 
 ### Q78. A patient with a feeding tube is due for medicines, but initial placement has not been confirmed. What is the priority?
 
@@ -2601,7 +2601,7 @@ Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poo
 
 ### Q93. What is the usual purpose of flushing an enteral feeding tube with prescribed water?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Replace all nutritional requirements
 - **B.** Maintain tube patency and provide ordered water when appropriate
@@ -2628,7 +2628,7 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q8](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q8](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q8-what-is-the-usual-purpose-of-flushing-an-enteral-feeding-tube-with-prescribed-water)
 
 ### Q94. Which wound is typically suited to an alginate dressing when clinically indicated?
 
@@ -2771,7 +2771,7 @@ Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation a
 
 ### Q100. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply pressure staging to all dermatitis
 - **B.** Assume the skin is normal because moisture is present
@@ -2798,7 +2798,7 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q8](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q8](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q8-a-patient-has-incontinence-diffuse-irregular-superficial-redness-across-the-buttocks-and-no-clear-pressure-point-pattern-which-assessment-is-important)
 
 ## Block 6
 
@@ -2825,7 +2825,7 @@ Transfusion reaction confirm hone se pehle further exposure stop karna important
 
 ### Q102. A newly inserted nasogastric tube is intended for feeding. Which action is essential before first use?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 JIPMER Staff Nurse 23 February 2020 — related reported concept** · **🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Inject air and rely on an abdominal whoosh alone
 - **B.** Assume correct placement because the patient can speak
@@ -2850,9 +2850,11 @@ Nasogastric ya NG tube nose se stomach tak jaane ke liye insert hoti hai, lekin 
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
+**▶️ [YouTube MCQ practice — NG/NET placement, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4797s)** · Published chapter 1:19:57 identifies tube-placement confirmation. Topic-level only, exact question and playback pending. Direct open failed.
+
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q6](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q6](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q6-a-newly-inserted-nasogastric-tube-is-intended-for-feeding-which-action-is-essential-before-first-use)
 
 ### Q103. Which quality improvement approach primarily seeks to identify system contributors after a serious patient safety event?
 
