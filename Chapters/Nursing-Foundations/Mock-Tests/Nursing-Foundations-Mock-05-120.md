@@ -189,10 +189,18 @@ Baseline assessment treatment effect compare karne mein help karti hai. Correct 
 
 **Correct: C. It sounds like being alone here is difficult for you**
 
-Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse patient apni feelings share karne mein comfortable ho sakta hai.
+<!-- job5-rationale -->
+Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish karna hai, bina judgment ya false claim ke. Patient alone feel kar raha hai, toh nurse emotion reflect kar sakti hai aur preferred support explore kar sakti hai. Patient permission se family contact ya other appropriate support arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Gratitude force karna aur comparison feelings dismiss karte hain. Unauthorized disclosure privacy harm karti hai.
+**Option-by-option reasoning**
 
+- **A:** A confidential information bina permission share karne ka promise karta hai.
+- **B:** B patient ko grateful hone ke liye judge karta hai.
+- **C:** C loneliness acknowledge karta hai aur understanding show karta hai.
+- **D:** D comparison patient ki feeling minimize karta hai.
+
+**Exam clue:** Empathy acknowledges feelings without judging them.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -285,10 +293,18 @@ Controlled heat vessels dilate kar sakti hai aur muscle relaxation support kar s
 
 **Correct: B. Use only approved unambiguous abbreviations and write unclear terms in full**
 
-Approved language medication aur care errors kam karne mein help karti hai. Ambiguous term ko full form mein likhna safer hai.
+<!-- job5-rationale -->
+Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medication ya care errors cause kar sakte hain. Approved list aur prohibited abbreviation rules facility policy ke according follow karo. Agar term unclear hai toh full form likho aur unclear orders clarify karo. Units aur numerical notation clear rakho.
 
-**Baaki options kyun sahi nahi hain?** Personal shortcuts aur confusing symbols misinterpret ho sakte hain. Staff ki interpretation always same nahi hoti.
+**Option-by-option reasoning**
 
+- **A:** A personal abbreviations other staff differently interpret kar sakte hain.
+- **B:** B approved clear terms ambiguity reduce karte hain.
+- **C:** C shared interpretation assume karna unsafe hai.
+- **D:** D units aur zero confuse hone se dose errors ho sakte hain.
+
+**Exam clue:** When in doubt, write it out and clarify.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -2546,10 +2562,18 @@ Dose error severe ya delayed effects cause kar sakta hai. Nurse patient assessme
 
 **Correct: C. Notify the responsible clinician promptly, confirm receipt and document the action**
 
-Critical result timely action maangta hai. Closed-loop communication mein receiver receipt confirm karta hai aur nurse escalation ka record rakhti hai.
+<!-- job5-rationale -->
+Closed-loop communication mein message bhejna enough nahi hota. Sender ensure karta hai ki right receiver ne message receive aur understand kiya hai. Critical result ke saath deterioration ho toh immediate patient assessment, urgent escalation aur policy ke according confirmation zaroori hai. Notification ka time, receiver aur actions accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Unread message, delay aur visitor relay urgent information miss karwa sakte hain.
+**Option-by-option reasoning**
 
+- **A:** A visitor clinical communication chain ka appropriate substitute nahi hai.
+- **B:** B unread message se receipt establish nahi hoti.
+- **C:** C timely notification, confirmation aur record loop close karte hain.
+- **D:** D routine rounds ka wait deterioration worsen kar sakta hai.
+
+**Exam clue:** Send, confirm receipt, act and document.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -2684,10 +2708,18 @@ High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result ve
 
 **Correct: A. Identify the pending result and assign responsibility for follow-up**
 
-Pending investigation bhi safety concern ho sakti hai. Clear ownership se result miss hone aur treatment delay ka risk kam hota hai.
+<!-- job5-rationale -->
+Transfer ke samay pending result ek unfinished clinical responsibility hai. Handover mein test name, collection status, clinical importance, expected availability aur follow-up owner clear karo. Receiving team se responsibility acknowledge karvao. Agar critical result aa jaaye toh escalation plan follow karo. Pending ko normal result ki tarah record mat karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic discovery guaranteed nahi hai. Omission communication gap hai. Unknown result ko normal likhna false entry hai.
+**Option-by-option reasoning**
 
+- **A:** A pending test aur follow-up responsibility clarify karta hai.
+- **B:** B automatic discovery assume karne se result miss ho sakta hai.
+- **C:** C important unfinished task hide karta hai.
+- **D:** D unreported result ko normal likhna inaccurate hai.
+
+**Exam clue:** Handover transfers responsibility, not only information.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
