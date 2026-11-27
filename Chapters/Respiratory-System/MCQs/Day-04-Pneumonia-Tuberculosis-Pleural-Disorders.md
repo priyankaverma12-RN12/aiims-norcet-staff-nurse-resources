@@ -6,7 +6,7 @@ Five questions actually attempted, original stems/options preserved. Original pr
 
 ## Q1. Which drug is associated with optic neuritis in tuberculosis treatment?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 A. Isoniazid
 
@@ -20,13 +20,27 @@ D. Pyrazinamide
 
 **Correct answer: C. Ethambutol**
 
-Ethambutol optic nerve ko damage kar sakta hai; visual acuity aur red-green colour vision changes report karo. A: Isoniazid mainly neuropathy; B: Rifampicin orange-red fluids; D: Pyrazinamide hyperuricemia. Trick: E = Eyes.
+**Kyun sahi hai?** Ethambutol optic nerve ko affect kar sakti hai. Optic neuropathy mein blurred vision aur colour perception change ho sakta hai. Baseline aur indicated follow-up vision assessment karo. New visual symptoms urgently TB team ko report karo aur next dose ke liye toxicity protocol follow karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Isoniazid ka classic adverse effect peripheral neuropathy hai.
+- **B.** Rifampicin orange body fluids aur liver toxicity cause kar sakti hai.
+- **D.** Pyrazinamide uric acid badha sakti hai.
+
+**Exam trick:** E = Eyes, vision change urgent.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
 </details>
 
 ## Q2. Which finding is characteristic of bronchial asthma?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 A. Irreversible airway obstruction
 
@@ -40,13 +54,27 @@ D. Alveolar destruction
 
 **Correct answer: B. Reversible airflow limitation**
 
-Asthma mein variable expiratory airflow limitation hoti hai. A: persistent obstruction COPD mein characteristic; C: pleural effusion; D: emphysema. Trick: asthma variable.
+**Kyun sahi hai?** Asthma mein expiratory airflow limitation time ke saath vary karti hai aur bronchodilator se improve ho sakti hai. Har single test mein reversibility compulsory nahi hai. Diagnosis symptoms aur objective variability se support hota hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Persistent obstruction COPD mein characteristic hai, although asthma mein bhi possible hai.
+- **C.** Pleural fluid effusion ka feature hai.
+- **D.** Alveolar destruction emphysema ka feature hai.
+
+**Exam trick:** Asthma mein variability yaad rakho.
+
+[Clinical reference](https://ginasthma.org/2026-gina-summary-guide/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
 </details>
 
 ## Q3. Which is the classical definition of chronic bronchitis?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 A. Cough for 1 month
 
@@ -60,13 +88,27 @@ D. Cough with fever for 7 days
 
 **Correct answer: B. Productive cough for 3 months in 2 consecutive years**
 
-Classical definition productive cough at least 3 months each of 2 consecutive years, other causes excluded. A: duration insufficient; C: dry cough characteristic nahi; D: acute infection possible. Trick: 3 × 2.
+**Kyun sahi hai?** Classic chronic bronchitis definition mein productive cough kam se kam teen months har year, do consecutive years tak, other causes exclude hone par hota hai. Ye symptom definition independently COPD prove nahi karti.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Ek month classic duration meet nahi karta.
+- **C.** Dry cough sputum criterion meet nahi karta.
+- **D.** Fever ke saath saat din cough acute illness ho sakti hai.
+
+**Exam trick:** 3 months each year × 2 years.
+
+[Clinical reference](https://goldcopd.org/2027-gold-report-and-pocket-guide/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
 </details>
 
 ## Q4. What is the commonly recommended initial oxygen saturation target in acute COPD exacerbation at risk of hypercapnic respiratory failure?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 A. 70–75%
 
@@ -80,13 +122,27 @@ D. 98–100%
 
 **Correct answer: C. 88–92%**
 
-Controlled oxygen initially 88–92% pending ABG and individualized orders. A/B: dangerously low routine targets; D: excessive oxygen can worsen hypercapnia in susceptible patients. Oxygen hypoxemic patient se withhold nahi karna.
+**Kyun sahi hai?** Hypercapnic respiratory failure risk mein initial oxygen target commonly 88–92% hai jab tak ABG aur clinical assessment available hon. Oxygen titrate karo aur patient reassess karo. Emergency resuscitation delay mat karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 70–75% routine target severe hypoxemia accept karta hai.
+- **B.** 80–85% usual controlled target se kam hai.
+- **D.** 98–100% universal target susceptible patient mein uncontrolled hyperoxia aur CO2 retention risk badha sakta hai.
+
+**Exam trick:** Controlled oxygen, not no oxygen.
+
+[Clinical reference](https://bmjopenrespres.bmj.com/content/4/1/e000170)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
 </details>
 
 ## Q5. Which condition involves air in the pleural cavity?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 A. Pleural effusion
 
@@ -100,7 +156,21 @@ D. Bronchitis
 
 **Correct answer: B. Pneumothorax**
 
-Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung parenchymal infection; D: bronchial inflammation. Trick: pneumo = air; effusion = fluid.
+**Kyun sahi hai?** Pneumothorax mein visceral aur parietal pleura ke beech air collect hoti hai. Lung expansion compromise aur collapse ho sakta hai. Sudden severe distress mein urgent assessment karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Effusion mein fluid collect hota hai.
+- **C.** Pneumonia lung tissue infection hai.
+- **D.** Bronchitis bronchial airways ki inflammation hai.
+
+**Exam trick:** Pneumo = air, effusion = fluid.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
 </details>
 
@@ -115,7 +185,7 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 ### Q6. A patient develops a new pulmonary infiltrate and fever on hospital day five, with no infection evident on admission. Which classification fits?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Community-acquired pneumonia
 - **B.** Hospital-acquired pneumonia
@@ -126,15 +196,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: B. Hospital-acquired pneumonia**
 
-**Kyun sahi hai aur baaki options kyun galat:** Admission ke ≥48 h baad non-incubating infection HAP; CAP bahar acquired, aspiration chemical injury cause-specific, latent TB active fever/infiltrate classification nahi.
+**Kyun sahi hai?** Hospital day five par non-incubating infection ke saath new infiltrate HAP classification support karta hai. Typical timing admission ke 48 hours ya uske baad hai. Diagnosis aur alternative causes clinician assess karega.
 
-**Exam trick:** Admission ke ≥48 h baad non-incubating infection HAP.
+**Baaki options kyun galat hain?**
+
+- **A.** CAP community-acquired infection ke roop mein admission par present ho sakti hai.
+- **C.** Aspiration pneumonitis chemical injury hai, timing alone se prove nahi hoti.
+- **D.** Latent TB infection mein active disease ke signs nahi hote.
+
+**Exam trick:** HAP: ≥48 hours, not incubating on admission.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q7. Why does alveolar consolidation in bacterial pneumonia reduce oxygenation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Inflammatory exudate displaces alveolar air
 - **B.** Pleural pressure always becomes atmospheric
@@ -145,15 +225,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: A. Inflammatory exudate displaces alveolar air**
 
-**Kyun sahi hai aur baaki options kyun galat:** Exudate air ki jagah leta hai, gas exchange kam; pleural pressure change pneumothorax ka clue, Hb production stop nahi, artery rupture zaroori nahi.
+**Kyun sahi hai?** Consolidation mein inflammatory material alveolar air ko replace karta hai. Blood flow chal sakta hai jab ventilation kam hoti hai. Is mismatch se oxygen transfer kam hota hai. Nurse oxygenation aur effort assess kare.
 
-**Exam trick:** Exudate air ki jagah leta hai, gas exchange kam.
+**Baaki options kyun galat hain?**
+
+- **B.** Pleural pressure atmospheric ho jana pneumonia ka mandatory mechanism nahi.
+- **C.** Hemoglobin production turant stop nahi hoti.
+- **D.** Arterial rupture consolidation ka usual cause nahi hai.
+
+**Exam trick:** Fluid replaces alveolar air.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q8. A patient with pneumonia has newly developed confusion, low blood pressure and rising oxygen requirement. What is the priority?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Offer routine discharge teaching
 - **B.** Wait for the next antibiotic dose before reassessing
@@ -164,15 +254,27 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: D. Urgent assessment and escalation for possible sepsis or respiratory failure**
 
-**Kyun sahi hai aur baaki options kyun galat:** New confusion/hypotension/O2 need serious deterioration; discharge, waiting aur unsupported walking unsafe.
+**Kyun sahi hai?** New confusion, hypotension aur increasing oxygen need potentially life-threatening deterioration hain. ABC, vitals, mental status aur oxygen support urgently assess karo aur emergency team involve karo. Sepsis aur respiratory failure possible hain.
 
-**Exam trick:** New confusion/hypotension/O2 need serious deterioration.
+**Baaki options kyun galat hain?**
+
+- **A.** Routine discharge teaching stable patient ke liye hai.
+- **B.** Antibiotic dose ka wait deterioration recognition delay karta hai.
+- **C.** Unsupported walking unstable patient ke liye unsafe hai.
+
+**Exam trick:** New confusion + low BP = urgent escalation.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q23, related concept.
 
 </details>
 
 ### Q9. A patient vomits and immediately develops respiratory symptoms from gastric acid injury. What is the initial process called?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Latent pulmonary tuberculosis
 - **B.** Chronic bronchiectasis
@@ -183,15 +285,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: C. Aspiration pneumonitis**
 
-**Kyun sahi hai aur baaki options kyun galat:** Acid chemical injury = pneumonitis; TB infection latent, bronchiectasis structural widening, cardiogenic edema heart-pressure related.
+**Kyun sahi hai?** Gastric acid airway aur alveoli mein jaakar chemical inflammation produce kar sakta hai. Immediate chemical injury aspiration pneumonitis hai. Secondary bacterial infection possible hai, lekin dono processes automatically same treatment nahi maangte.
 
-**Exam trick:** Acid chemical injury = pneumonitis.
+**Baaki options kyun galat hain?**
+
+- **A.** Latent TB sudden aspiration event explain nahi karta.
+- **B.** Bronchiectasis chronic abnormal airway widening hai.
+- **D.** Cardiogenic edema cardiac pressure se related fluid accumulation hai.
+
+**Exam trick:** Pneumonitis chemical injury, pneumonia infection.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q10. A 68-year-old pneumonia patient is alert, RR 32/min, BP 120/76 mmHg and urea 6 mmol/L. What is the CURB-65 score?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 0
 - **B.** 3
@@ -202,15 +314,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: C. 2**
 
-**Kyun sahi hai aur baaki options kyun galat:** Age ≥65 aur RR ≥30 each 1 = 2; confusion absent, urea not >7, BP not low; 0 misses 2, 3/5 extra criteria count.
+**Kyun sahi hai?** CURB-65 mein confusion absent 0, urea 6 mmol/L (threshold >7) 0, RR 32 (≥30) 1, BP 120/76 0, age 68 (≥65) 1. Total 2 points. Ye adult CAP mortality risk assessment aid hai, clinical judgement ka replacement nahi.
 
-**Exam trick:** Age ≥65 aur RR ≥30 each 1 = 2.
+**Baaki options kyun galat hain?**
+
+- **A.** 0 age aur RR points miss karta hai.
+- **B.** 3 mein ek extra criterion count hota hai.
+- **D.** 5 sab criteria present assume karta hai.
+
+**Exam trick:** Count each criterion once.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q11. Which radiological pattern best describes bronchopneumonia?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Uniform collapse of the entire lung without infection
 - **B.** Patchy multifocal consolidation
@@ -221,15 +343,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: B. Patchy multifocal consolidation**
 
-**Kyun sahi hai aur baaki options kyun galat:** Bronchopneumonia patchy infection; collapse atelectasis, pleural air pneumothorax, hilar nodes nonspecific.
+**Kyun sahi hai?** Bronchopneumonia mein bronchioles ke aas-paas multiple patchy inflammatory areas ho sakte hain. Ye classical pattern hai. Imaging alone specific pathogen prove nahi karti.
 
-**Exam trick:** Bronchopneumonia patchy infection.
+**Baaki options kyun galat hain?**
+
+- **A.** Uniform collapse atelectasis ka pattern ho sakta hai.
+- **C.** Pleural air pneumothorax hai.
+- **D.** Hilar nodes enlargement nonspecific finding hai.
+
+**Exam trick:** Bronchopneumonia = patchy multifocal.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q12. A nurse plans oral intake for a stable pneumonia patient with dysphagia. Which approach reduces aspiration risk?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Follow swallowing assessment and prescribed safe feeding position
 - **B.** Feed rapidly while supine
@@ -240,15 +372,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: A. Follow swallowing assessment and prescribed safe feeding position**
 
-**Kyun sahi hai aur baaki options kyun galat:** Safe swallow assessment and upright appropriate feeding prevent aspiration; supine/rapid feed, coughing during intake, ignoring dysphagia unsafe.
+**Kyun sahi hai?** Dysphagia mein swallowing impaired hoti hai aur food airway mein ja sakta hai. Swallowing assessment, prescribed texture aur appropriate upright feeding position follow karo. Cough ya choking mein feeding stop karke reassess karo.
 
-**Exam trick:** Safe swallow assessment and upright appropriate feeding prevent aspiration.
+**Baaki options kyun galat hain?**
+
+- **B.** Rapid supine feeding aspiration risk badha sakti hai.
+- **C.** Coughing fit mein oral fluid airway mein ja sakta hai.
+- **D.** Oxygen therapy swallowing safety establish nahi karti.
+
+**Exam trick:** Swallow safety before oral intake.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q13. A pneumonia patient has persistent fever and a new infected pleural collection. Which complication is suspected?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Uncomplicated rhinitis
 - **B.** Obstructive sleep apnea
@@ -259,9 +401,19 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: D. Empyema**
 
-**Kyun sahi hai aur baaki options kyun galat:** Infected pus in pleural space empyema; rhinitis nasal, OSA sleep collapse, fibrosis scarring.
+**Kyun sahi hai?** Pleural space mein pus collect hona empyema hai. Pneumonia ke baad persistent fever aur infected pleural collection pleural infection suggest karte hain. Har infected effusion frank pus nahi hoti, lekin given choices mein empyema best suspected complication hai. Urgent medical assessment chahiye.
 
-**Exam trick:** Infected pus in pleural space empyema.
+**Baaki options kyun galat hain?**
+
+- **A.** Rhinitis nasal inflammation hai.
+- **B.** OSA sleep-related upper airway obstruction hai.
+- **C.** Fibrosis scarring hai, pus collection nahi.
+
+**Exam trick:** Empyema = pleural pus.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
@@ -269,7 +421,7 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 ### Q14. Which specimen is most appropriate for a molecular test in suspected pulmonary TB when the patient can expectorate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Saliva collected after drinking water
 - **B.** A routine urine sample only
@@ -280,15 +432,27 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: D. A lower respiratory sputum specimen**
 
-**Kyun sahi hai aur baaki options kyun galat:** Sputum from lungs for NAAT; saliva poor, urine and skin not the ordered pulmonary specimen.
+**Kyun sahi hai?** Deep cough se lower respiratory sputum nikaalne par molecular TB test ke liye appropriate specimen milta hai. Designated collection area, airborne precautions, labeling aur lab transport instructions follow karo.
 
-**Exam trick:** Sputum from lungs for NAAT.
+**Baaki options kyun galat hain?**
+
+- **A.** Saliva lower-airway specimen ka substitute nahi.
+- **B.** Routine urine alone pulmonary sputum test replace nahi karta.
+- **C.** Skin swab pulmonary TB NAAT ka appropriate specimen nahi.
+
+**Exam trick:** Sputum, not saliva.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Day 2 Q50, related concept.
 
 </details>
 
 ### Q15. A sputum NAAT detects Mycobacterium tuberculosis and rifampicin resistance. What is the best next step?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Label the result as latent infection only
 - **B.** Continue an unreviewed standard regimen indefinitely
@@ -299,15 +463,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: C. Promptly notify the TB team for resistance evaluation and appropriate regimen**
 
-**Kyun sahi hai aur baaki options kyun galat:** Resistance needs specialist evaluation and susceptibility testing; latent label, blind routine treatment and ignoring result unsafe.
+**Kyun sahi hai?** NAAT mein rifampicin resistance detect hone par drug-resistant TB pathway ki zarurat ho sakti hai. TB team promptly inform karo aur susceptibility testing aur regimen review arrange karo. Nurse khud regimen select nahi karti.
 
-**Exam trick:** Resistance needs specialist evaluation and susceptibility testing.
+**Baaki options kyun galat hain?**
+
+- **A.** Detected organism aur resistance ko latent label nahi dena chahiye.
+- **B.** Unreviewed standard regimen resistant disease ke liye inadequate ho sakta hai.
+- **D.** Normal X-ray molecular resistance result invalidate nahi karta.
+
+**Exam trick:** Resistance = urgent TB-team review.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q16. Which protective equipment is appropriate for staff entering the room of a patient with infectious pulmonary TB?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** A cloth scarf only
 - **B.** A fit-tested particulate respirator such as N95
@@ -318,15 +492,27 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: B. A fit-tested particulate respirator such as N95**
 
-**Kyun sahi hai aur baaki options kyun galat:** TB airborne; N95 appropriate, scarf/gloves alone inadequate, absence fever infectiousness exclude nahi.
+**Kyun sahi hai?** Infectious pulmonary TB airborne particles se transmit ho sakti hai. Staff appropriate fit-tested respirator jaise N95 aur facility airborne isolation protocol follow kare. Patient transport mein source-control mask as indicated use hota hai.
 
-**Exam trick:** TB airborne.
+**Baaki options kyun galat hain?**
+
+- **A.** Cloth scarf approved respiratory protection nahi hai.
+- **C.** Gloves alone inhaled particles se protection nahi deti.
+- **D.** Fever na hona noninfectiousness prove nahi karta.
+
+**Exam trick:** Airborne protection, not gloves alone.
+
+[Clinical reference](https://www.cdc.gov/tb-healthcare-settings/hcp/infection-control/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q19, related concept.
 
 </details>
 
 ### Q17. A patient on isoniazid reports new tingling in both feet. Which adverse effect should the nurse suspect?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Peripheral neuropathy
 - **B.** Orange discoloration of urine as the primary effect
@@ -337,15 +523,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: A. Peripheral neuropathy**
 
-**Kyun sahi hai aur baaki options kyun galat:** H peripheral neuropathy, report and review pyridoxine; orange R, optic E, uric acid Z.
+**Kyun sahi hai?** Isoniazid peripheral nerves affect kar sakti hai aur pyridoxine metabolism se related neuropathy ho sakti hai. Tingling aur numbness report karo. TB team risk, symptoms aur prescribed pyridoxine review kare. Significant toxicity ignore mat karo.
 
-**Exam trick:** H peripheral neuropathy, report and review pyridoxine.
+**Baaki options kyun galat hain?**
+
+- **B.** Orange fluids rifampicin ka classic effect hai.
+- **C.** Optic neuropathy ethambutol se associated hai.
+- **D.** Hyperuricemia pyrazinamide se associated hai.
+
+**Exam trick:** H: neuropathy, pyridoxine as indicated.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q18. A patient on rifampicin notices orange tears and urine but no other symptoms. What is the most appropriate education?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** This can be an expected drug effect; report other concerning symptoms
 - **B.** It proves acute kidney failure
@@ -356,15 +552,27 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: A. This can be an expected drug effect; report other concerning symptoms**
 
-**Kyun sahi hai aur baaki options kyun galat:** Rifampicin fluids orange-red kar sakti hai; alone renal failure, inactivity or bleeding prove nahi.
+**Kyun sahi hai?** Rifampicin ke saath orange-red tears, sweat aur urine expected ho sakte hain. Soft contact lenses stain ho sakte hain. Lekin dark brown urine, jaundice, abdominal pain ya unexplained vomiting urgent review maangte hain.
 
-**Exam trick:** Rifampicin fluids orange-red kar sakti hai.
+**Baaki options kyun galat hain?**
+
+- **B.** Expected colour change alone kidney failure prove nahi karta.
+- **C.** Colour change drug efficacy absent hone ka evidence nahi.
+- **D.** Orange discoloration systemic bleeding confirm nahi karti.
+
+**Exam trick:** Orange expected, jaundice is warning.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q20, related concept.
 
 </details>
 
 ### Q19. During TB therapy the patient develops painful swollen joints and elevated uric acid. Which drug is classically associated?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Ethambutol
 - **B.** Salbutamol
@@ -375,15 +583,25 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: D. Pyrazinamide**
 
-**Kyun sahi hai aur baaki options kyun galat:** Z hyperuricemia; E optic neuritis, salbutamol tremor/tachycardia, B6 neuropathy prevention.
+**Kyun sahi hai?** Pyrazinamide serum uric acid increase kar sakti hai. Painful swollen joints mein gout ya other cause assess karo aur TB team ko report karo. Asymptomatic elevated uric acid aur symptomatic arthritis alag hain.
 
-**Exam trick:** Z hyperuricemia.
+**Baaki options kyun galat hain?**
+
+- **A.** Ethambutol ka classic concern vision change hai.
+- **B.** Salbutamol tremor aur tachycardia cause kar sakta hai.
+- **C.** Pyridoxine isoniazid-related neuropathy prevention mein prescribed ho sakti hai.
+
+**Exam trick:** Z: uric acid.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q20. Which regimen matches the usual Indian NTEP six-month drug-sensitive pulmonary TB regimen?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 2HR followed by 4Z alone
 - **B.** 6 months of E alone
@@ -394,9 +612,19 @@ Pneumothorax = pleural air, lung collapse possible. A: fluid, air nahi; C: lung 
 
 **Correct answer: C. 2HRZE followed by 4HRE**
 
-**Kyun sahi hai aur baaki options kyun galat:** India standard H/R/Z/E intensive then H/R/E continuation; other options incomplete multidrug therapy; individualized exceptions exist.
+**Kyun sahi hai?** Conventional Indian drug-sensitive TB regimen mein 2 months H, R, Z, E aur 4 months H, R, E hota hai. Ye India-specific six-month regimen recall hai. Actual regimen susceptibility, disease site, age, eligibility aur current NTEP protocol se decide hoti hai.
 
-**Exam trick:** India standard H/R/Z/E intensive then H/R/E continuation.
+**Baaki options kyun galat hain?**
+
+- **A.** 2HR aur 4Z alone adequate standard combination nahi.
+- **B.** Ethambutol monotherapy active TB ka standard treatment nahi.
+- **D.** Rifampicin alone do months standard active TB therapy nahi hai.
+
+**Exam trick:** Indian conventional continuation: HRE.
+
+[Clinical reference](https://ntep.in/node/760/CP-management-eptb)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
