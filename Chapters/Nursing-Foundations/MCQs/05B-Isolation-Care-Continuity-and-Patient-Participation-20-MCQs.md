@@ -319,6 +319,9 @@ D. Transfer all nursing duties to the parent
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q12. A family caregiver who has helped an isolated patient wants to assist an unrelated patient in the adjacent room. What should the nurse advise?
@@ -347,6 +350,9 @@ D. Ask them to contact staff for the other patient's needs and follow exit preca
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#family-and-visitor-participation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -404,6 +410,9 @@ D. Tell the patient that the wound can never be examined
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q15. A patient on contact precautions needs a medically necessary examination in another department. A nurse who has just completed contaminated bedside care offers to push the trolley in the same used gown. What is appropriate?
@@ -430,6 +439,9 @@ D. Remove contaminated PPE, perform hand hygiene and use appropriate clean prote
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -484,6 +496,9 @@ D. Communicate the relevant infection risk and let the receiving team adapt prec
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -657,6 +672,9 @@ D. It helps limit inadvertent contact but does not replace required precautions
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q24. A child admitted with suspected pertussis has a household visitor who reports a recent prolonged cough. What should occur before the visitor enters the ward?
@@ -685,6 +703,9 @@ D. Assume the cough is noninfectious without assessment
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -801,6 +822,9 @@ D. Ask the patient to decide when precautions should stop
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
