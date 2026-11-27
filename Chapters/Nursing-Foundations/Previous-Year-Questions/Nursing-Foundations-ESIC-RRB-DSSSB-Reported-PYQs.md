@@ -44,7 +44,7 @@ Glucometer capillary blood sample ka glucose estimate karta hai. Sphygmomanomete
 
 ### PYQ3. Which gauge is conventionally represented by a pink peripheral IV cannula in standard color coding?
 
-**Reported exam:** DSSSB October 2024
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · **⚪ DSSSB October 2024 — reported attribution, direct verification pending**
 
 [Question source](https://nprep.in/question-answer/what-is-the-size-of-the-pink-colour-coded-iv-cannula-_vj4BTnmn8OKmPqADiHJ0)
 
