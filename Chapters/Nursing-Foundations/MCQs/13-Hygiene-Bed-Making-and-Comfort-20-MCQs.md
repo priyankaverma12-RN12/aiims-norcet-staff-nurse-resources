@@ -4,7 +4,7 @@
 
 ### Q1. When giving a bed bath, which general sequence minimizes transfer of organisms from heavily soiled areas?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Start with any area without changing contaminated supplies
 - **B.** Clean relatively clean areas before more contaminated areas
@@ -31,9 +31,11 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q102](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q102-when-giving-a-bed-bath-which-general-sequence-minimizes-transfer-of-organisms-from-heavily-soiled-areas)
+
 ### Q2. Which direction is generally used for female perineal cleansing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** From front to back
 - **B.** From anus toward urethra
@@ -60,9 +62,11 @@ Female perineum genital aur anal area ke beech ki region hai. Urethral opening a
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q83](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q83-which-direction-is-generally-used-for-female-perineal-cleansing)
+
 ### Q3. After cleaning an uncircumcised patient's glans, which action is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Leave the foreskin retracted indefinitely
 - **B.** Apply a tight band around the glans
@@ -89,9 +93,11 @@ Foreskin penis ke glans yani head ko cover karne wali skin hai. Adult mein agar 
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q92](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q92-after-cleaning-an-uncircumcised-patients-glans-which-action-is-essential)
+
 ### Q4. An unconscious patient requires oral care. Which approach minimizes aspiration risk?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 RRB Nursing Superintendent, 12 March 2026 Shift I — related tested concept only**
 
 - **A.** Keep the patient flat with fluid pooling in the pharynx
 - **B.** Use a loose cotton swab that can detach in the mouth
@@ -120,9 +126,11 @@ Unconscious patient oral fluid ko safely swallow ya spit nahi kar sakta. Aspirat
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q50](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q50-an-unconscious-patient-requires-oral-care-which-approach-minimizes-aspiration-risk)
+
 ### Q5. A patient wears removable dentures. Which action protects the dentures during cleaning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Boil every denture regardless of material
 - **B.** Wrap them in a disposable tissue without labeling
@@ -149,9 +157,11 @@ Dentures removable artificial teeth hain. Inhe drop karne se fracture ho sakta h
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q69](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q69-a-patient-wears-removable-dentures-which-action-protects-the-dentures-during-cleaning)
+
 ### Q6. A patient has diabetes, reduced foot sensation and thick toenails. Which approach is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use a sharp blade to remove callus at bedside without specialist review
 - **B.** Assess foot circulation and sensation and arrange appropriate nail care when risk is high
@@ -178,9 +188,11 @@ Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q49](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q49-a-patient-has-diabetes-reduced-foot-sensation-and-thick-toenails-which-approach-is-safest)
+
 ### Q7. Which bed-making action reduces airborne dispersal of microorganisms from used linen?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Roll soiled linen inward without shaking and place it in the designated container
 - **B.** Shake sheets vigorously in the room
@@ -203,13 +215,15 @@ Used linen par microorganisms aur body fluids ho sakte hain. Shaking se contamin
 
 **Clinical reference:** [CDC linen management](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q7](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q7-which-bed-making-action-reduces-airborne-dispersal-of-microorganisms-from-used-linen)
+
 ### Q8. What is the primary purpose of an occupied bed-making technique?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Transfer every patient to a stretcher regardless of stability
 - **B.** Avoid cleaning the bed when occupied
@@ -232,13 +246,15 @@ Occupied bed making ka matlab patient bed par rehte hue linen safely change karn
 
 **Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q18](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q18-what-is-the-primary-purpose-of-an-occupied-bed-making-technique)
+
 ### Q9. A patient has an IV line and a urinary catheter during an occupied bed change. What should the nurse prioritize?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Disconnect both devices routinely before moving the patient
 - **B.** Pull the tubing to guide body movement
@@ -261,13 +277,15 @@ Repositioning ke waqt IV line ya urinary catheter linen mein snag ho sakte hain.
 
 **Clinical reference:** [CDC CAUTI](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q76](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q76-a-patient-has-an-iv-line-and-a-urinary-catheter-during-an-occupied-bed-change-what-should-the-nurse-prioritize)
+
 ### Q10. Why should wrinkles be minimized in the linen beneath an immobile patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Wrinkles prevent all moisture accumulation
 - **B.** Wrinkles replace the need for skin assessment
@@ -290,13 +308,15 @@ Immobile patient apni position easily change nahi kar paata. Folded linen skin k
 
 **Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q46](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q46-why-should-wrinkles-be-minimized-in-the-linen-beneath-an-immobile-patient)
+
 ### Q11. A patient has fragile skin and adhesive residue after dressing removal. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Peel remaining adhesive rapidly against resistance
 - **B.** Use a suitable gentle removal method according to skin and product guidance
@@ -323,9 +343,11 @@ Fragile skin mein skin layers easily separate ho sakti hain. Adhesive ko forcefu
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q45](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q45-a-patient-has-fragile-skin-and-adhesive-residue-after-dressing-removal-which-action-is-safest)
+
 ### Q12. A patient has dry intact skin after bathing. Which action may improve comfort and barrier function?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Apply a suitable moisturizer as appropriate
 - **B.** Use harsh detergent repeatedly
@@ -352,9 +374,11 @@ Skin barrier outer protective layer hai jo water loss aur irritant entry control
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q48](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q48-a-patient-has-dry-intact-skin-after-bathing-which-action-may-improve-comfort-and-barrier-function)
+
 ### Q13. A patient has persistent moisture from incontinence. Which skin care approach is best?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Clean gently after soiling and apply an appropriate moisture barrier
 - **B.** Leave stool on the skin until the scheduled bath
@@ -381,9 +405,11 @@ Urine aur stool prolonged contact mein skin barrier irritate kar sakte hain. Inc
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q27](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q27-a-patient-has-persistent-moisture-from-incontinence-which-skin-care-approach-is-best)
+
 ### Q14. Which measure supports sleep in a stable hospitalized patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Wake the patient frequently for nonessential activities
 - **B.** Keep bright lights on all night without indication
@@ -410,9 +436,11 @@ Hospital mein noise, light, pain aur frequent interruptions sleep disturb kar sa
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q24](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q24-which-measure-supports-sleep-in-a-stable-hospitalized-patient)
+
 ### Q15. A patient with limited sensation requests a hot-water bottle for comfort. Which response is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Leave the heat source in place without reassessment
 - **B.** Assume no complaint means there is no burn risk
@@ -439,9 +467,11 @@ Reduced sensation wale patient ko heat ka dangerous level feel nahi ho sakta. Ho
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q85](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q85-a-patient-with-limited-sensation-requests-a-hot-water-bottle-for-comfort-which-response-is-safest)
+
 ### Q16. Which action is appropriate when a patient asks for assistance with grooming but can perform part of the task?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Choose grooming preferences without asking
 - **B.** Encourage the patient to do safe portions and assist with the remainder
@@ -468,9 +498,11 @@ Grooming patient ki personal appearance aur hygiene care ka part hai. Agar patie
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q12](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q12-which-action-is-appropriate-when-a-patient-asks-for-assistance-with-grooming-but-can-perform-part-of-the-task)
+
 ### Q17. A patient becomes breathless and exhausted during a bed bath. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume breathlessness is expected and ignore it
 - **B.** Pause care, assess breathing and vital signs, and modify the plan
@@ -497,9 +529,11 @@ Bed bath bhi physical activity hai. Breathlessness aur exhaustion limited cardio
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q106](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q106-a-patient-becomes-breathless-and-exhausted-during-a-bed-bath-what-should-the-nurse-do)
+
 ### Q18. Which comfort device can help a patient who cannot lift heavy bedcovers off painful feet?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** A suitable bed cradle
 - **B.** A tight elastic band around the ankles
@@ -526,9 +560,11 @@ Bed cradle ek frame hai jo bedcovers ko patient ke painful ya sensitive body par
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q91](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q91-which-comfort-device-can-help-a-patient-who-cannot-lift-heavy-bedcovers-off-painful-feet)
+
 ### Q19. A patient has a hearing aid removed before hygiene care. What is the best practice?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Wrap it in unmarked waste tissue
 - **B.** Leave it beside a running tap
@@ -555,9 +591,11 @@ Hearing aid patient ko communication aur orientation mein help karta hai. Hygien
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q101](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q101-a-patient-has-a-hearing-aid-removed-before-hygiene-care-what-is-the-best-practice)
+
 ### Q20. Which action best maintains dignity during a complete bed bath?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Invite unnecessary observers
 - **B.** Complete care without explaining to an alert patient
@@ -583,6 +621,8 @@ Complete bed bath mein patient vulnerable feel kar sakta hai. Nurse care explain
 **Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q48](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q48-which-action-best-maintains-dignity-during-a-complete-bed-bath)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
