@@ -222,7 +222,7 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 ### Q7. Which bed-making action reduces airborne dispersal of microorganisms from used linen?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Roll soiled linen inward without shaking and place it in the designated container
 - **B.** Carry wet linen against the uniform
@@ -245,11 +245,11 @@ Used linen par microorganisms aur body fluids ho sakte hain. Shaking se contamin
 
 **Clinical reference:** [CDC linen management](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q7](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q7](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q7-which-bed-making-action-reduces-airborne-dispersal-of-microorganisms-from-used-linen)
 
 ### Q8. A reusable instrument will enter sterile tissue. Which processing level is generally required?
 
@@ -398,7 +398,7 @@ Near miss safety incident hai jisme error patient tak pahunchne se pehle interce
 
 ### Q12. During an enema, the patient develops marked abdominal pain and bleeding. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop the procedure and obtain prompt clinical assessment
 - **B.** Reinsert the tip repeatedly without assessment
@@ -421,11 +421,11 @@ Enema ke dauran marked pain ya bleeding possible mucosal injury ya serious compl
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q7](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q7](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q7-during-an-enema-the-patient-develops-marked-abdominal-pain-and-bleeding-what-should-the-nurse-do)
 
 ### Q13. Which practice helps prevent urethral traction from an indwelling catheter?
 
@@ -582,7 +582,7 @@ Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beec
 
 ### Q18. What is the primary purpose of an occupied bed-making technique?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Transfer every patient to a stretcher regardless of stability
 - **B.** Avoid cleaning the bed when occupied
@@ -605,11 +605,11 @@ Occupied bed making ka matlab patient bed par rehte hue linen safely change karn
 
 **Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q8](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q8](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q8-what-is-the-primary-purpose-of-an-occupied-bed-making-technique)
 
 ### Q19. A 20-kg child is prescribed 10 mg/kg per dose of a drug. What is the calculated dose per administration?
 
@@ -1459,7 +1459,7 @@ Gentle inversion additive ko blood ke saath distribute karti hai. Excess shaking
 
 ### Q49. A patient has diabetes, reduced foot sensation and thick toenails. Which approach is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess foot circulation and sensation and arrange appropriate nail care when risk is high
 - **B.** Soak feet in very hot water
@@ -1486,7 +1486,7 @@ Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q6](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q6](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q6-a-patient-has-diabetes-reduced-foot-sensation-and-thick-toenails-which-approach-is-safest)
 
 ### Q50. Why can a markedly underfilled citrate tube affect coagulation tests?
 
@@ -1806,7 +1806,7 @@ Henderson ne breathing, eating, elimination aur other basic activities ko nursin
 
 ### Q63. Which specimen handling action is appropriate for a stool sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Mix the sample with disinfectant
 - **B.** Collect the sample from a shared toilet after flushing
@@ -1833,7 +1833,7 @@ Stool test ki reliability specimen ke sahi collection par depend karti hai. Urin
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q5](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q5](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q5-which-specimen-handling-action-is-appropriate-for-a-stool-sample)
 
 ### Q64. After removal of a large volume of ascitic fluid, a patient becomes dizzy and hypotensive. What should the nurse do?
 
@@ -1988,7 +1988,7 @@ TACO mein transfused volume circulation overload kar sakta hai. Breathlessness a
 
 ### Q69. A patient wears removable dentures. Which action protects the dentures during cleaning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Wrap them in a disposable tissue without labeling
 - **B.** Boil every denture regardless of material
@@ -2015,7 +2015,7 @@ Dentures removable artificial teeth hain. Inhe drop karne se fracture ho sakta h
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q5](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q5](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q5-a-patient-wears-removable-dentures-which-action-protects-the-dentures-during-cleaning)
 
 ### Q70. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
 
@@ -2983,7 +2983,7 @@ Telephone medication order mein sound-alike medicine names, dose aur units mishe
 
 ### Q105. Which position is traditionally used for routine rectal enema administration in a suitable patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept only** · **🟣 NHM MP CHO, 27 January 2021 Shift II — related reported concept only**
 
 - **A.** Standing unsupported
 - **B.** Left lateral position with appropriate hip and knee flexion
@@ -3006,11 +3006,13 @@ Routine rectal enema mein suitable patient ko left lateral ya modified Sims posi
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
 
+**Related historical evidence:** [AIIMS Delhi 15 September 2019 memory-based report](https://testbook.com/question-answer/nurse-advised-to-give-enema-for-patient-with-chron--62c258bbc970f2ccd43fa073) · [NHM MP CHO 27 January 2021 Shift II third-party question page](https://testbook.com/question-answer/while-administering-enema-patient-should-be-placed--62e73b207cbf34075de55d9b). Both publisher-reported answers support the related positioning concept. Official papers and keys not authenticated.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q8](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q8](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q8-which-position-is-traditionally-used-for-routine-rectal-enema-administration-in-a-suitable-patient)
 
 ### Q106. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
@@ -3132,7 +3134,7 @@ Hypothermia circulation aur neurological function affect kar sakti hai. Nurse we
 
 ### Q110. A frail patient is prescribed an enema and has severe renal impairment. Which safety check is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume all enema solutions are interchangeable
 - **B.** Increase the volume independently if the first result is poor
@@ -3155,11 +3157,11 @@ Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal imp
 
 **Clinical reference:** [Topic reference](https://medlineplus.gov/druginfo/meds/a614018.html) (indexed guidance, direct page retrieval failed).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q6](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q6](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q6-a-frail-patient-is-prescribed-an-enema-and-has-severe-renal-impairment-which-safety-check-is-important)
 
 ### Q111. Which nonpharmacological measure can supplement prescribed postoperative pain treatment?
 
