@@ -66,7 +66,9 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Outbreak investigation reported MPESB adaptation](30-Environmental-IPC-and-Outbreak-Reported-PYQs.md). Retrieved third-party source, official key not authenticated.
 
-**Current total: 56 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[Reprocessing reported RRB adaptation and consolidated HPSSC source](02A-02B-Reprocessing-Evidence.md). One distinct reported adaptation, official key not authenticated. CSSD-specific evidence pending.
+
+**Current total: 57 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
 
 
 [Surgical hand preparation historical recall and clinical correction](01A-Surgical-Hand-Preparation-Reported-PYQs.md). AIIMS Delhi 2018 source opened. No additional counted PYQ until earlier-source overlap is reconciled. Total remains 56 reported adaptations and two academic adaptations.

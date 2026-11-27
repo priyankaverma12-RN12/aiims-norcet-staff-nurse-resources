@@ -319,3 +319,8 @@ Initial grouped inventory remains 1,200 question slots in 30/30 groups, 56 repor
 ### Individual-topic expansion — surgical hand preparation
 
 30 additional original MCQs (15 Medium and 15 Difficult) with 30 hidden answers, detailed concepts and diagram, indexed videos and a retrieved historical AIIMS Delhi 2018 recall with clinical caveat. Current chapter inventory 1,230 indexed question slots (566 Medium and 664 Difficult), 30/30 initial groups and one supplemental individual-topic bank. No additional counted recruitment adaptation, existing total 56 plus two academic adaptations. Dedicated surgical scrub MCQ video verification and comprehensive semantic audit pending. Next: group 02, audit sterilization methods and monitoring, chemical disinfection and CSSD workflow allocations and expand separately. Chapter mocks 0/10, tracked global 17/350 pending reconciliation. Chapter is not complete.
+
+
+### Individual-topic expansion — CSSD and equipment disinfection
+
+60 new original MCQs in two dedicated banks, two concept guides and diagrams, indexed practice videos, one distinct retrieved RRB 2018 reported adaptation and consolidated HPSSC 2020 source. Initial 1,200 grouped plus 60 expansion = 1,260 (567 Medium and 693 Difficult). 57 reported and two academic adaptations. Compared 120 prior stems, no exact matches. Provisional INC inventory and pending audit recorded in [Individual-topic expansion audit](Infection-Control-and-Microbiology/Concepts/Individual-Topic-Expansion-Audit.md). Next: sterilization methods and monitoring count/top-up then group 3. Chapter mocks 0/10. Official keys, dedicated video gaps and full semantic audit pending.
