@@ -104,7 +104,7 @@
 
 ### Q5. Six consecutive even integers have a mean of 31. Which is the smallest?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 30
 - **B.** 24
@@ -129,7 +129,7 @@
 
 ### Q6. A learner has an average of 68 across four equally weighted tests. What score on the fifth test gives an overall mean of 72?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 88
 - **B.** 76
@@ -154,7 +154,7 @@
 
 ### Q7. A team of 15 people has a mean age of 28 years. A new member aged 44 joins. What is the new mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 27.5 years
 - **B.** 29 years
@@ -179,7 +179,7 @@
 
 ### Q8. A set of 20 measurements has mean 45. An observation of 64 is removed. What is the new mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 41.8
 - **B.** 45
@@ -204,7 +204,7 @@
 
 ### Q9. The mean of 24 recorded values is 32. A value of 18 was entered instead of 42. What is the corrected mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 34
 - **B.** 33
@@ -229,7 +229,7 @@
 
 ### Q10. A group of 16 has mean score 75. One participant scoring 92 is replaced by another scoring 60. What is the new mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 71
 - **B.** 75
@@ -354,7 +354,7 @@
 
 ### Q15. In a score table, values 2, 4 and 7 occur 3, 5 and 2 times respectively. Find the mean.
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 13
 - **B.** 4
@@ -429,7 +429,7 @@
 
 ### Q18. The mean of six values increases by 4 when every value is increased by k. Find k.
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 2/3
 - **B.** 6
@@ -454,7 +454,7 @@
 
 ### Q19. A dataset has mean 12. Each observation is transformed into 3x−5. What is the new mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 36
 - **B.** 21
@@ -527,26 +527,26 @@
 
 </details>
 
-### Q22. Four equal-duration sessions have mean attendance 48. A fifth session raises the mean to 52. How many people attend the fifth?
+### Q22. A collection of nonnegative whole numbers has an exact arithmetic mean of 7.5. Which number of observations is impossible?
 
 **Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
-- **A.** 56
-- **B.** 52
-- **C.** 60
-- **D.** 68
+- **A.** 2
+- **B.** 4
+- **C.** 8
+- **D.** 5
 
 <details><summary>Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. 68**
+**Correct answer: D. 5**
 
-**Kyun sahi hai:** First four total 192 hai. New target 5×52=260 hai. Fifth attendance 260−192=68.
+**Kyun sahi hai:** Whole numbers ka sum hamesha whole number hota hai. Agar count 5 ho, toh sum 7.5 × 5 = 37.5 hoga, jo whole number nahi hai. Isliye exact mean 7.5 possible nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** 56 lene par final mean 49.6 hoga.
-- **B.** 52 lene par mean 48.8 hoga.
-- **C.** 60 lene par mean 50.4 hoga.
+- **A.** Two observations 7 and 8 ka sum 15 hai aur mean 7.5 possible hai.
+- **B.** Four observations mein two 7s aur two 8s ka sum 30 hai, mean 7.5 possible hai.
+- **C.** Eight observations mein four 7s aur four 8s ka sum 60 hai, mean 7.5 possible hai.
 
 [Concept](../Concepts/08-Averages.md#transformations-and-overlapping-groups) · [OpenStax averages](https://openstax.org/books/prealgebra-2e/pages/5-5-averages-and-probability)
 
@@ -579,7 +579,7 @@
 
 ### Q24. The mean of 11 numbers is 30. If the smallest value is 10 and the largest is 50, what is the mean after removing both?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 33
 - **B.** 24.55
@@ -604,7 +604,7 @@
 
 ### Q25. A report states a mean of 42 for six values. After discovering an omitted value, the mean becomes 40 for seven values. What was omitted?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 40
 - **B.** 42
@@ -654,7 +654,7 @@
 
 ### Q27. A vehicle moves for two hours at 36 km/h and one hour at 60 km/h. What is the average speed over these three hours?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 44 km/h
 - **B.** 48 km/h
@@ -679,7 +679,7 @@
 
 ### Q28. The mean monthly consumption over January through March is 90 units. For January and February together, it is 85 units. What is March consumption?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** 5 units
 - **B.** 100 units
@@ -704,7 +704,7 @@
 
 ### Q29. A set of five observations has mean 16. One observation increases by 10 while all others stay fixed. What happens to the mean?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Tag:** Calculation | **Evidence:** Original practice
 
 - **A.** It increases by 5
 - **B.** It stays unchanged
