@@ -30,6 +30,10 @@ Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Acc
 ### Q2. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record that the bath was completed
 - **B.** Discuss the patient's preference and reschedule or modify care safely
@@ -44,6 +48,14 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 
 **Baaki options kyun sahi nahi hain?** Force autonomy violate karti hai. False entry unsafe hai. Permanent cancellation hygiene needs ignore karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q12](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q12-a-patient-refuses-a-scheduled-bath-because-of-fatigue-which-response-reflects-individualized-care-planning) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q12](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1021,6 +1033,10 @@ Moisturizer dry skin mein water loss reduce karne aur barrier support karne mein
 ### Q49. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Complete the planned walk before reassessment
 - **B.** Stop the planned activity and assess the acute symptoms urgently
@@ -1035,6 +1051,14 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 
 **Baaki options kyun sahi nahi hain?** Walking continue karna unsafe ho sakta hai. False documentation galat hai. Symptoms ignore karna delay karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**Topic-bank question:** [Q10](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q10-a-planned-walking-session-is-due-but-the-patient-now-has-new-chest-pain-and-diaphoresis-what-should-the-nurse-do-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q10](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1485,6 +1509,10 @@ Single-use sterile equipment microorganisms aur blood transfer ka risk kam karti
 ### Q71. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Independently prescribe a new antibiotic
 - **B.** Change the surgeon's operative plan
@@ -1499,6 +1527,14 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 
 **Baaki options kyun sahi nahi hain?** Antibiotic prescribing, operative planning aur anesthetic orders authorized clinician ke scope mein hote hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q9](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q9-which-action-is-an-independent-nursing-intervention-within-the-nurses-competence-and-facility-policy) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q9](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2392,6 +2428,10 @@ Midstream technique urethral aur skin contamination reduce karne mein help karti
 ### Q114. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Risk for falls related to impaired balance
 - **B.** Impaired skin integrity evidenced by an open wound
@@ -2406,6 +2446,14 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 
 **Baaki options kyun sahi nahi hain?** Pain, open wound aur retained sputum wale statements existing problems ke evidence dete hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q11](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q11-which-nursing-diagnosis-is-written-as-a-risk-diagnosis-without-current-defining-signs-of-the-problem) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q11](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
