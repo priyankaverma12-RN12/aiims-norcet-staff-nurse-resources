@@ -10,3 +10,5 @@
 | Previous Year Questions | [Research register](Previous-Year-Questions/Renal-and-Urinary-System-Past-Paper-Research-Register.md) |
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-manual-20261127-1651. Scope: Renal chapter-local anatomy and physiology package. Expiry UTC: 2026-11-27T12:05:00Z. No shared index edits while other lanes active. -->
