@@ -26,3 +26,11 @@ Completion research: no new directly verified narrow isolation-care historical m
 ## ▶️ Practice evidence recheck
 
 ADAPT NCLEX REVIEW channel verified through the published description of [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), including the isolation practice chapter at 19:25. Exact scenario and playback remain unverified. [NursingSOS — Transmission Based Precautions](https://www.youtube.com/watch?v=ukitwhGJx8k) is background teaching only. All 30 specific practice mappings remain pending. No timestamps inferred. No original or historical question counts changed.
+
+
+## Further source check — 27 November 2026
+
+- The RMLIMS 7 September 2025 and RRB 6 June 2018 reports were directly reopened and their related-concept status reconfirmed. No new historical adaptation or official key.
+- [Patient masking question from Testbook](https://testbook.com/question-answer/what-type-of-isolation-precautions-is-in-use-when--617b6334703b6540029f70ac) was directly retrieved but has no displayed recruitment exam attribution. It is general practice, not a PYQ. No new exam label.
+- [Open RN Infection, client transport and psychological effects of isolation](https://www.ncbi.nlm.nih.gov/books/NBK610837/) directly retrieved, supporting risk-based transport, handover, patient education and psychosocial care. [Delhi DGHS Public Health Wing](https://dgehs.delhi.gov.in/hi/node/7983) directly retrieved, including essential transport and masking when possible. Its older distance and PPE terminology should not replace current pathogen-specific guidance.
+- [Nootropic Nurse — Top 10 Isolation Precautions](https://www.youtube.com/watch?v=EtNRNAaxc98) indexed description identifies airway precautions and transport as review topics, but not a question-solving session. [NurseInTheMaking — Isolation Precautions](https://www.youtube.com/watch?v=-tYPGKzlQj8) has an explicit C. difficile hand-hygiene quiz in its description, not a specific match to these 30 care-continuity questions. Neither closes a 05B practice gap. All 30 specific mappings remain pending.
