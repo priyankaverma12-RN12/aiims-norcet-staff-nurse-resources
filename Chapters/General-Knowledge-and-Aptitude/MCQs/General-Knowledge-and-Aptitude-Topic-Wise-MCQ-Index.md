@@ -8,7 +8,8 @@
 | [HCF and LCM](02-HCF-and-LCM-30-MCQs.md) | 30 |
 | [Simplification and order of operations](03-Simplification-and-Order-of-Operations-30-MCQs.md) | 30 |
 | [Fractions](04-Fractions-30-MCQs.md) | 30 |
+| [Decimals](05-Decimals-30-MCQs.md) | 30 |
 
 [Four earlier starter items](General-Knowledge-and-Aptitude-Topic-Wise-Starter-MCQs.md) remain separate.
 
-Reverse lane, 27 November 2026: 120 new original aptitude MCQs (63 Medium, 57 Difficult), four preserved Medium starters (124 total slots, 67 Medium, 57 Difficult). Number systems/divisibility, HCF/LCM, simplification/order of operations and fractions each have 30 original questions. Eight reported recruitment concept families with nine counted solved adaptations, plus one solved cross-topic adaptation reserved for time and work. Official keys not authenticated. All 124 question stems compared after whitespace/case normalization, no exact duplicates, four distinct options and matching hidden answer labels and text. Full semantic, cross-chapter and video playback audit pending. Next: decimals, then remaining individual topics and ten chapter-only mocks. Mocks 0/10.
+Reverse lane, 27 November 2026: 150 new original aptitude MCQs (75 Medium, 75 Difficult), four preserved Medium starters (154 slots, 79 Medium, 75 Difficult). Five topics have 30 originals each. Ten counted reported recruitment families with eleven counted solved adaptations, plus one time-and-work reserved adaptation and one disputed-transcription decimal practice. Official keys pending. Exact stem check for new decimals against 124 prior stems passed. Full semantic and cross-chapter audit and video playback pending. Next: percentages. Mocks 0/10.
