@@ -4,7 +4,7 @@ This website reads the public main branch at runtime. No original Markdown, clai
 
 ## Practice features
 
-Select answers, clear, jump, submit or let the countdown expire. A suggested source time is used where recognizable (135 minutes for the tested 120-question mock). Customize 1–300 minutes and opt in or out of one-third negative marking. Scores follow the published source keys, not an independent medical validation. Only unambiguous numbered four-option questions with a single explicit key are eligible. Unsupported items remain readable. Shared diagrams and introductory material remain available in original reading mode. Bookmarks are local to the browser. Attempts reset on reload and are not synchronized. Answers and original rationales are available after submission.
+Select answers, clear, jump, submit or let the countdown expire. A suggested source time is used where recognizable (135 minutes for the tested 120-question mock). Customize 1–300 minutes and opt in or out of one-third negative marking. Scores follow the published source keys, not an independent medical validation. Only unambiguous numbered four-option questions with a single explicit key are eligible. Unsupported items remain readable. Shared diagrams and introductory material remain available in original reading mode. Bookmarks are local to the browser. The latest quiz module can save and resume attempts locally, with source-signature validation. Attempts are not synchronized across devices. Answers and original rationales are available after submission.
 
 ## Preview and regression tests
 
@@ -34,3 +34,5 @@ Proposed root README line (insert once after verifying deployment, with fresh bl
 The manual Pages workflow now runs the Node regression checks and `python website/browser-smoke.py` with Playwright Chromium before publishing. The browser test exercises all chapter pages, a real respiratory diagram, answer visibility, scoring, bookmark persistence after reload, mobile layout and timer expiry using live public source files. The test was prepared but has not run in CI yet. The current execution environment cannot resolve raw.githubusercontent.com, and the GitHub connector cannot configure Pages or dispatch workflows. Enable GitHub Actions publishing and manually run the workflow after merge. A failing test blocks deployment. Do not add the root README launch link until the live URL is verified.
 
 The exact remote parser and score functions passed all eight regression assertions again at checkpoint a1a7cf722f8ce3cf60e60c61a29697ae9ba14eec.
+
+Saved-attempt validation passed four additional function-level checks for valid data, invalid choice, invalid position and changed source key. Browser resume still requires execution of the integration gate.
