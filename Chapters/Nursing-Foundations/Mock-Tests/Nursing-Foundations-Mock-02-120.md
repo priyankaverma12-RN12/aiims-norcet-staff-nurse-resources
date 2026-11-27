@@ -145,9 +145,20 @@ Damp loose dressing catheter site ko contamination se adequately protect nahi ka
 
 **Correct: C. 125 mL/hour**
 
-Pump rate total volume divided by hours hai. 500/4 = 125 mL/hour. Fluid order aur patient ki condition verify karni hai.
+<!-- job5-rationale -->
+Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
-**Baaki options kyun sahi nahi hain?** 250 rate two hours mein finish karega. 2000 multiplication hai. 50 rate ten hours lega.
+**Option-by-option reasoning**
+
+- **A:** 50 × 4 = 200 mL.
+- **B:** 250 × 4 = 1000 mL.
+- **C:** 125 × 4 = 500 mL.
+- **D:** 2000 × 4 = 8000 mL.
+
+**Exam clue:** Pump rate mL/hour mein hota hai. Order aur fluid tolerance verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -522,9 +533,20 @@ Occupied bed technique dependent patient ko bed mein rakhkar linen change karne 
 
 **Correct: C. 200 mg**
 
-Weight-based dose 20 kg x 10 mg/kg = 200 mg hai. Actual administration se pehle drug-specific safe range aur maximum dose verify karni hai.
+<!-- job5-rationale -->
+Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 = 10 mg/kg.
 
-**Baaki options kyun sahi nahi hain?** 20 mg weight ignore karta hai. 2 mg reverse calculation hai aur 2000 mg tenfold error hai.
+**Option-by-option reasoning**
+
+- **A:** 2000 mg gives 100 mg/kg.
+- **B:** 20 mg gives 1 mg/kg.
+- **C:** 200 mg meets the given arithmetic.
+- **D:** 2 mg gives 0.1 mg/kg.
+
+**Exam clue:** Calculated dose ko actual drug-specific maximum se verify karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1731,9 +1753,20 @@ Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko ap
 
 **Correct: C. 240 mg**
 
-Total daily dose 24 x 30 = 720 mg hai. Three equal doses mein 720/3 = 240 mg each hota hai. Safe range verify karni hai.
+<!-- job5-rationale -->
+Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3 /24 = 30 mg/kg/day.
 
-**Baaki options kyun sahi nahi hain?** 720 mg entire day ka dose hai. 80 aur 360 mg incorrect division se milte hain.
+**Option-by-option reasoning**
+
+- **A:** 360 mg per dose gives 1080 mg/day.
+- **B:** 720 mg per dose would give 2160 mg/day.
+- **C:** 240 mg per dose gives 720 mg/day.
+- **D:** 80 mg per dose gives 240 mg/day.
+
+**Exam clue:** mg/kg/day ko dose frequency se divide karo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2277,9 +2310,20 @@ Normal saline commonly blood administration line ke liye compatible solution hai
 
 **Correct: B. 42 gtt/min**
 
-Gravity rate = volume x drop factor / time in minutes. 750 x 20 / 360 = 41.67, yani about 42 drops/min.
+<!-- job5-rationale -->
+6 hours = 360 minutes. Gravity rate = 750 × 20/360 = 41.6667 gtt/min, rounded to 42. Exact reverse: 41.6667 × 360/20 ≈ 750 mL. Rounded rate theoretical 756 mL hai.
 
-**Baaki options kyun sahi nahi hain?** 125 mL/hour hai. 25 wrong factor se aa sakta hai. 250 minutes conversion miss karta hai.
+**Option-by-option reasoning**
+
+- **A:** 250 gtt/min represents 4500 mL in 6 hours.
+- **B:** 42 nearest whole drop hai, observed delivery monitor karo.
+- **C:** 125 gtt/min represents 2250 mL, 125 is actually mL/hour.
+- **D:** 25 gtt/min represents 450 mL.
+
+**Exam clue:** Drop factor gtt/mL aur time minutes mein rakho. Whole-drop rounding end mein.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
