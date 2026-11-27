@@ -102,4 +102,7 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Restraint safety](04C-Restraint-Safety.md), 30 allocated.
 
-Next group 04D incident reporting and quality management, followed by remaining safety hazards. Full clinical and semantic audit pending.
+- [Incident reporting and quality management](04D-Incident-Reporting-and-Quality-Management.md), 30 allocated.
+- [Environmental and equipment safety](04E-Environmental-and-Equipment-Safety.md), 30 allocated.
+
+Next group 05 asepsis and standard precautions. Full clinical and semantic audit pending.
