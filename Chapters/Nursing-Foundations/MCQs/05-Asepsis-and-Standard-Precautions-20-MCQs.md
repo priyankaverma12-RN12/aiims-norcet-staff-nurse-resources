@@ -25,6 +25,8 @@ Standard precautions blood aur body fluid exposure ke risk ko dhyan mein rakhkar
 **Exam evidence:** [NHM Haryana CHO, 24 April 2022](https://testbook.com/question-answer/standard-precautions-are-used-__________--626aefe35525dde4abb70340/amp) — retrieved third-party report on applies to all patients; related tested concept only, not an exact match or authenticated official key.
 
 **▶️ [YouTube MCQ practice — standard precautions, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 1, Q69](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q69-which-practice-applies-to-the-care-of-every-patient-regardless-of-known-infection-status)
 <!-- /job4-metadata -->
 
 </details>
@@ -52,6 +54,8 @@ Gloves remove karte waqt hands contaminate ho sakte hain. Hand hygiene microorga
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 1, Q87](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q87-a-nurse-removes-gloves-after-emptying-a-urinary-drainage-bag-what-should-the-nurse-do-next)
 <!-- /job4-metadata -->
 
 </details>
@@ -79,6 +83,8 @@ Visible dirt aur organic material soap-water se physically remove kiya ja sakta 
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 1, Q80](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q80-when-hands-are-visibly-soiled-which-cleaning-method-is-appropriate)
 <!-- /job4-metadata -->
 
 </details>
@@ -108,6 +114,8 @@ Moisture microorganisms ko material ke through transfer hone mein help kar sakti
 **▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
 
 **Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+
+**Mock revision:** [Mock 1, Q19](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q19-a-sterile-drape-becomes-wet-through-contact-with-a-nonsterile-surface-what-should-the-nurse-do)
 <!-- /job4-metadata -->
 
 </details>
@@ -137,6 +145,8 @@ Bed rail nonsterile surface hai. Contact se glove contaminated ho sakti hai, isl
 **▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
 
 **Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+
+**Mock revision:** [Mock 2, Q23](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q23-during-a-sterile-procedure-a-sterile-glove-touches-the-bed-rail-which-action-is-appropriate)
 <!-- /job4-metadata -->
 
 </details>
@@ -164,6 +174,8 @@ Sterilization validated process hai jo microorganisms aur bacterial spores ko el
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **▶️ [YouTube MCQ practice — sterilization methods, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 2, Q25](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q25-which-method-destroys-all-forms-of-microbial-life-including-bacterial-spores-when-correctly-validated)
 <!-- /job4-metadata -->
 
 </details>
@@ -191,6 +203,8 @@ Sterile tissue mein enter karne wala critical instrument sterile hona chahiye. C
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **▶️ [YouTube MCQ practice — sterilization methods, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 2, Q8](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q8-a-reusable-instrument-will-enter-sterile-tissue-which-processing-level-is-generally-required)
 <!-- /job4-metadata -->
 
 </details>
@@ -218,6 +232,8 @@ Cleaning mein detergent, water aur mechanical action se dirt aur organic materia
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 2, Q61](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q61-which-process-physically-removes-visible-soil-before-disinfection-or-sterilization)
 <!-- /job4-metadata -->
 
 </details>
@@ -245,6 +261,8 @@ Pulmonary TB tiny airborne particles se spread ho sakti hai. Facility airborne p
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **▶️ [YouTube MCQ practice — airborne precautions, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 3, Q86](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q86-a-patient-has-suspected-infectious-pulmonary-tuberculosis-which-additional-precaution-is-generally-appropriate-in-healthcare)
 <!-- /job4-metadata -->
 
 </details>
@@ -272,6 +290,8 @@ Blood splash eyes, nose ya mouth mucosa tak pahunch sakti hai. Nurse face protec
 **Exam evidence:** [ESIC Staff Nurse, 26 February 2019, Shift III](https://testbook.com/question-answer/standard-precaution-requires-the-use-of-protective--619cf7c4fd740c8229c314d8) — retrieved third-party report on facial splash protection; related tested concept only, not an exact match or authenticated official key.
 
 **▶️ [YouTube MCQ practice — PPE, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 3, Q14](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q14-a-nurse-is-performing-a-task-likely-to-splash-blood-toward-the-face-which-ppe-is-required-according-to-exposure-risk)
 <!-- /job4-metadata -->
 
 </details>
@@ -299,6 +319,8 @@ Used needle puncture injury cause kar sakti hai. Immediate safe disposal exposur
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 3, Q63](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q63-a-used-needle-has-just-been-withdrawn-after-an-injection-which-action-is-safest)
 <!-- /job4-metadata -->
 
 </details>
@@ -326,6 +348,8 @@ Needlestick se bloodborne exposure ho sakta hai. Nurse soap-water se site clean 
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 3, Q77](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q77-a-nurse-sustains-an-occupational-needlestick-which-initial-response-is-appropriate)
 <!-- /job4-metadata -->
 
 </details>
@@ -355,6 +379,8 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 **▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
 
 **Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+
+**Mock revision:** [Mock 4, Q55](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q55-what-is-the-purpose-of-surgical-asepsis)
 <!-- /job4-metadata -->
 
 </details>
@@ -384,6 +410,8 @@ Package integrity sterile contents ko environment se protect karti hai. Tear hon
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
 
 **Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+
+**Mock revision:** [Mock 4, Q104](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q104-a-sterile-package-is-torn-although-the-expiration-date-has-not-passed-what-should-the-nurse-do)
 <!-- /job4-metadata -->
 
 </details>
@@ -411,6 +439,8 @@ Respiratory hygiene secretions ko contain karne aur contaminated hands se spread
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 4, Q10](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q10-which-action-is-part-of-respiratory-hygiene-for-a-coughing-patient)
 <!-- /job4-metadata -->
 
 </details>
@@ -438,6 +468,8 @@ Shared equipment microorganisms carry kar sakta hai. Approved cleaning aur disin
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 4, Q67](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q67-a-nurse-has-cared-for-a-patient-under-contact-precautions-and-must-use-shared-equipment-on-another-patient-what-should-happen-first)
 <!-- /job4-metadata -->
 
 </details>
@@ -465,6 +497,8 @@ Antiseptic living tissue par microorganisms reduce karne ke liye use hota hai. P
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 5, Q50](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q50-which-term-describes-the-use-of-a-suitable-antimicrobial-preparation-on-living-skin)
 <!-- /job4-metadata -->
 
 </details>
@@ -492,6 +526,8 @@ Urinary catheter bladder tak microorganisms introduce kar sakta hai. Aseptic ins
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 5, Q85](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q85-a-nurse-prepares-to-insert-an-indwelling-urinary-catheter-in-an-acute-care-setting-which-infection-prevention-approach-is-appropriate)
 <!-- /job4-metadata -->
 
 </details>
@@ -519,6 +555,8 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 **Exam evidence:** [NCL Staff Nurse, November 2020](https://testbook.com/question-answer/for-infection-prevention-what-will-you-do--619d0a28c25138d98f6ce69e) — retrieved third-party report on hand hygiene around patient care; related tested concept only, not an exact match or authenticated official key.
 
 **▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Mock revision:** [Mock 5, Q109](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q109-which-action-corresponds-to-hand-hygiene-before-an-aseptic-task)
 <!-- /job4-metadata -->
 
 </details>
@@ -546,6 +584,8 @@ Disinfectant ko microbes par act karne ke liye specified time aur concentration 
 **Exam evidence:** ⚪ Original practice. Historical match not established.
 
 **YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+
+**Mock revision:** [Mock 5, Q65](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q65-a-chemical-disinfectant-requires-a-specified-wet-contact-time-which-action-preserves-effectiveness)
 <!-- /job4-metadata -->
 
 </details>
