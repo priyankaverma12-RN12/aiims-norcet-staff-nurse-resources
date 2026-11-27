@@ -84,7 +84,7 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 
 ### Q4. Which insertion angle is conventional for a correctly selected intramuscular injection?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 — related reported concept only**
 
 - **A.** 25 degrees
 - **B.** 15 degrees
@@ -112,9 +112,13 @@ Intramuscular ya IM injection ka target skeletal muscle hota hai, jo skin aur su
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS NORCET, 20 November 2021 — third-party report](https://testbook.com/question-answer/intramuscular-injection-angle-is--624ff6b50e642b40ff56012e). Retrieved memory-based report tests conventional IM insertion angle. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q1](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q1](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q1-which-insertion-angle-is-conventional-for-a-correctly-selected-intramuscular-injection)
 
 ### Q5. A healthcare worker finds an adult unresponsive with absent normal breathing and no definite pulse after a check lasting no more than 10 seconds. What should happen next?
 
@@ -760,7 +764,7 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 
 ### Q26. What determines whether a subcutaneous injection is given at 45 or 90 degrees?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Needle length, tissue thickness and product-specific technique
 - **B.** Patient age alone
@@ -788,9 +792,11 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q3](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q3](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q3-what-determines-whether-a-subcutaneous-injection-is-given-at-45-or-90-degrees)
 
 ### Q27. A patient with unilateral leg swelling develops sudden shortness of breath and pleuritic chest pain. Which action has highest priority?
 
@@ -1748,7 +1754,7 @@ Dressing wound ko cover karne wali protective material hai. Exudate wound se nik
 
 ### Q56. Which information is essential during medication reconciliation at admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the name of the most recent hospital
 - **B.** Only medications available on the ward shelf
@@ -1775,7 +1781,7 @@ Medication reconciliation ka matlab patient jo medicines actually le raha hai un
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q3](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q3](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q3-which-information-is-essential-during-medication-reconciliation-at-admission)
 
 ### Q57. A patient has severe new abdominal pain despite normal heart rate and blood pressure. Which response is appropriate?
 
@@ -1878,7 +1884,7 @@ Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se li
 
 ### Q60. Which muscle is commonly used for an adult IM vaccine when muscle mass is adequate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Rectus abdominis
 - **B.** Gastrocnemius
@@ -1908,7 +1914,7 @@ Deltoid upper arm ki muscle hai aur adequate muscle mass wale adults mein routin
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q4](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q4](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q4-which-muscle-is-commonly-used-for-an-adult-im-vaccine-when-muscle-mass-is-adequate)
 
 ## Block 4
 
@@ -2026,7 +2032,7 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 ### Q64. A patient is transferred from ICU to a general ward with a newly changed oxygen target. What is a key handover requirement?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave the old oxygen prescription as the only reference
 - **B.** Report only that the patient was in ICU
@@ -2051,9 +2057,11 @@ Oxygen therapy mein target SpO2 yani blood oxygen saturation ka desired range pa
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q4](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q4](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q4-a-patient-is-transferred-from-icu-to-a-general-ward-with-a-newly-changed-oxygen-target-what-is-a-key-handover-requirement)
 
 ### Q65. Which is an appropriate indication for an indwelling urinary catheter?
 
@@ -2155,7 +2163,7 @@ Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strengt
 
 ### Q68. Which angle is commonly used for an intradermal injection with the bevel facing upward?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPPSC Staff Nurse, 17 December 2017 — related reported concept** · **🟣 BHU Staff Nurse, 22 October 2019 — related reported concept** · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** 45–60 degrees
 - **B.** 90 degrees
@@ -2181,13 +2189,15 @@ Intradermal ya ID injection mein drug epidermis ke neeche dermis ki superficial 
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 
-**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ.
+**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ. [AIIMS Jodhpur 10 December 2019 memory-based report](https://testbook.com/question-answer/the-nurse-should-hold-the-syringe-almost-flat-agai--625fd2a58eb1628dbf110359) also tests bevel-up shallow insertion. Official key unverified.
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q2](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q2](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q2-which-angle-is-commonly-used-for-an-intradermal-injection-with-the-bevel-facing-upward)
 
 ### Q69. Which practice applies to the care of every patient regardless of known infection status?
 
@@ -2294,7 +2304,7 @@ Baseline vitals se transfusion ke dauran new fever, BP changes aur breathing sym
 
 ### Q73. A new admission arrives with severe breathlessness and hypotension. Which action takes priority over routine admission paperwork?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Provide the ward orientation booklet first
 - **B.** Immediate clinical assessment and stabilization with escalation
@@ -2319,9 +2329,11 @@ Severe breathlessness ka matlab ventilation ya oxygenation compromise ho sakti h
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary historical comparison:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported routine admission item](https://testbook.com/question-answer/when-a-patient-arrives-to-the-hospital-for-routine--681c865b99ed7f6194df56dc). Routine admission is not the unstable emergency scenario above. No exact match claimed.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q2](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q2](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q2-a-new-admission-arrives-with-severe-breathlessness-and-hypotension-which-action-takes-priority-over-routine-admission-paperwork)
 
 ### Q74. Which finding is characteristic of peripheral IV phlebitis?
 
@@ -2359,7 +2371,7 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 
 ### Q75. When should discharge planning generally begin for an admitted patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 PGIMER Chandigarh Staff Nurse Grade II, 2015 — related reported concept only**
 
 - **A.** Only after the patient leaves
 - **B.** At admission and continue throughout the stay
@@ -2384,9 +2396,13 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [PGIMER Chandigarh Staff Nurse Grade II, 2015 — third-party report](https://testbook.com/question-answer/discharge-planning-should-begin--62b715b11ab53b7f92c67a23). Reported item tests when discharge planning begins. Official paper/key not independently authenticated.
+
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q1](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q1](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q1-when-should-discharge-planning-generally-begin-for-an-admitted-patient)
 
 ### Q76. A surgical dressing rapidly saturates with fresh blood and the patient's pulse rises. What takes priority?
 
