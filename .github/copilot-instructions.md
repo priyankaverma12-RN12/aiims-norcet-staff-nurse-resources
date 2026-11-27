@@ -20,3 +20,7 @@ Follow the complete publishing checklist there. Highlights:
 If older files contradict this skill, follow the skill and update the conflicting text.
 
 9. **Resume, don't restart:** if learner returns to an earlier topic or sends multiple pushes on the same day, update the matching existing chapter/day files and preserve exact solved English MCQs. New original practice should favor Medium/Difficult application questions. Search source-backed previous papers from across India and relevant topic-specific teaching/MCQ videos. The Cardiovascular chapter is a placeholder until studied.
+
+
+## Latest learner override — 27 November 2026
+Full syllabus advance preparation is authorized. Both lanes must follow the latest mandatory quality audit and question-level source extraction section in the canonical skill and root SKILL.md, including full Roman Hinglish option-by-option hidden rationales, verified YouTube question-solving resources for MCQs, mocks and PYQs, and actual source-traced questions rather than link-only PYQ files. Keep 30–40 original questions per individual topic and ten distinct 120-question mocks per chapter. Respect both work claims and independent read-only audit findings. Do not invent provenance or count link-only leads as questions.
