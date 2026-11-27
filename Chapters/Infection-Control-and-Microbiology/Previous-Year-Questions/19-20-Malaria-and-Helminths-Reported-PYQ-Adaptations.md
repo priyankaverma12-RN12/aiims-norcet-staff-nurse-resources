@@ -1,6 +1,6 @@
 # Malaria and helminths — reported exam adaptations
 
-Independently authored adaptations, not verbatim official papers. Two malaria source pages opened. UPPSC helminth item is indexed evidence, full official paper and answer key not authenticated. Count it separately as a provisional lead until the full question page is checked.
+Independently authored adaptations, not verbatim official papers. Two malaria source pages opened. UPPSC helminth question page was subsequently opened and its third-party key checked. All three adaptations are now counted once. Official paper PDFs and official keys remain unauthenticated.
 
 ### 1. AIIMS NORCET, 20 November 2021 (memory-based)
 
@@ -32,9 +32,9 @@ Which reference parasitological method supports malaria species identification a
 
 </details>
 
-### Provisional — UPPSC Staff Nurse, 10 April 2022
+### 3. UPPSC Staff Nurse, 10 April 2022 (reported)
 
-Indexed question page concerns helminth classification. Independent related practice: Which disease is caused by a parasitic roundworm?
+Retrieved question page concerns helminth classification. Independently adapted practice: Which disease is caused by a parasitic roundworm?
 
 - A. Measles
 - B. Giardiasis
@@ -43,6 +43,6 @@ Indexed question page concerns helminth classification. Independent related prac
 
 <details><summary>Answer</summary>
 
-**C.** Ascaris nematode hai. Measles virus, Giardia protozoan and diphtheria bacterium se associated hain. [Indexed lead](https://testbook.com/question-answer/which-of-the-following-disease-is-caused-by-helmin--625e16b89c295dc670cb4175/amp). Not counted as verified reported adaptation.
+**C.** Ascaris nematode hai. Measles virus, Giardia protozoan and diphtheria bacterium se associated hain. [Retrieved question and third-party key](https://testbook.com/question-answer/which-of-the-following-disease-is-caused-by-helmin--625e16b89c295dc670cb4175). Source reports roundworm as the answer. Original options have been independently rewritten.
 
 </details>
