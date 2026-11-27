@@ -18,10 +18,20 @@ D. Omit all regions
 
 **Correct answer: B. Nontender regions first and tender region last**
 
-- **A (Incorrect):** Firm pressure first pain aur guarding badha sakta hai.
-- **B (Correct):** Tender region last assess karne se discomfort kam hota hai.
-- **C (Incorrect):** Comparison ke liye baaki regions assess karo.
-- **D (Incorrect):** Stable patient mein appropriate examination useful hai.
+<!-- job5-rationale -->
+Abdominal palpation mein pehle nontender areas ko gently assess karte hain aur painful area last mein check karte hain. Isse pain aur involuntary guarding ke kaaran baaki examination difficult hone ka risk kam hota hai. Abdomen mein bowel sounds ko palpation se pehle auscultate karna usual teaching hai. Severe pain, rigidity ya deterioration mein routine examination force na karo, timely clinical review lo.
+
+**Option-by-option reasoning**
+
+- **A:** Painful area par deep pressure first karne se pain aur guarding worsen ho sakti hai.
+- **B:** Nontender areas first comparison aur patient comfort support karte hain.
+- **C:** Sirf tender region examine karne se other relevant findings miss ho sakti hain.
+- **D:** Stable consenting patient mein appropriate assessment useful hai.
+
+**Exam clue:** Abdomen: inspect, auscultate, then percussion/palpation. Tender site last.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596738/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -47,10 +57,20 @@ D. View one shoulder only
 
 **Correct answer: A. Good lighting and limited appropriate exposure**
 
-- **A (Correct):** Lighting aur exposure se symmetry clear dikhti hai aur privacy maintain hoti hai.
-- **B (Incorrect):** Blanket contour hide karta hai.
-- **C (Incorrect):** Dim light subtle changes miss kar sakti hai.
-- **D (Incorrect):** Bilateral comparison incomplete hoga.
+<!-- job5-rationale -->
+Inspection visual assessment hai. Shoulder symmetry, posture, swelling aur contour compare karne ke liye dono sides same lighting aur comparable position mein visible honi chahiye. Sirf necessary area expose karo, remaining body drape karo aur consent maintain karo. Normal anatomical variation ko disease assume mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Good light aur limited exposure reliable comparison aur dignity support karte hain.
+- **B:** Thick blanket anatomical contours hide karta hai.
+- **C:** Dim lighting subtle swelling ya color change miss kar sakti hai.
+- **D:** One shoulder se bilateral symmetry assess nahi hogi.
+
+**Exam clue:** Compare matching sides under the same conditions.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -76,10 +96,20 @@ D. Record refusal without discussion
 
 **Correct answer: C. Pause and clarify the concern before seeking permission to resume**
 
-- **A (Incorrect):** Consent ongoing hoti hai, isliye finish karna priority nahi.
-- **B (Incorrect):** Relative capable patient ki permission replace nahi karta.
-- **C (Correct):** Pause karke discomfort samjho aur permission lo.
-- **D (Incorrect):** Discussion se concern aur possible solution samajh aata hai.
+<!-- job5-rationale -->
+Consent ek ongoing process hai. Capable patient examination ke beech bhi permission withdraw kar sakta hai. Stop karo, pain ya discomfort ka reason poochho, safety assess karo aur modified approach discuss karo. Patient dobara agree kare tabhi routine examination resume karo. Refusal aur relevant action objectively document karo.
+
+**Option-by-option reasoning**
+
+- **A:** Finish first karna withdrawal of consent ignore karta hai.
+- **B:** Relative capable patient's decision override nahi karta.
+- **C:** Pause, clarify aur renewed permission appropriate hai.
+- **D:** Without discussion concern aur alternatives miss ho sakte hain.
+
+**Exam clue:** Consent is continuous, not a one-time signature.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -105,10 +135,20 @@ D. Gentle palpation with finger pads
 
 **Correct answer: D. Gentle palpation with finger pads**
 
-- **A (Incorrect):** Percussion sound se density ka clue deti hai.
-- **B (Incorrect):** Bell sounds sunne ke liye hai.
-- **C (Incorrect):** Distant inspection texture nahi batati.
-- **D (Correct):** Finger pads se size, texture aur tenderness feel kar sakte hain.
+<!-- job5-rationale -->
+Palpation touch se tissue ki size, consistency, mobility, tenderness aur temperature ka clue deti hai. Small superficial lump ko finger pads se gentle pressure use karke characterize karo. Location, estimated size aur associated findings note karo. Suspicious vascular mass par repeated deep pressure avoid karo aur findings report karo.
+
+**Option-by-option reasoning**
+
+- **A:** Percussion tapping se underlying density ka clue deti hai, superficial texture directly nahi.
+- **B:** Bell auscultation low-frequency sounds sunne ke liye hai.
+- **C:** Distant inspection surface appearance batati hai, tactile properties nahi.
+- **D:** Gentle finger-pad palpation superficial lump assess karne ke liye suitable hai.
+
+**Exam clue:** Inspection = look, palpation = feel, percussion = tap, auscultation = listen.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -134,10 +174,20 @@ D. Move stethoscope while patient speaks
 
 **Correct answer: B. Compare corresponding sites on bare skin**
 
-- **A (Incorrect):** Clothing rubbing artifact bana sakti hai.
-- **B (Correct):** Same level par side-to-side comparison se asymmetry detect hoti hai.
-- **C (Incorrect):** Left chest omit karna incomplete assessment hai.
-- **D (Incorrect):** Movement aur speech extra noise banate hain.
+<!-- job5-rationale -->
+Comparative chest auscultation mein stethoscope bare skin par place karke right aur left lung ke matching levels ko alternate karte hain. Isse local reduction ya added sounds distinguish karna easier hai. Comfortable position aur quiet environment maintain karo, patient tolerate kare utni breathing instructions do. Distress ho toh priority emergency assessment hai.
+
+**Option-by-option reasoning**
+
+- **A:** Clothing rubbing noise create kar sakti hai aur one-side exam incomplete hai.
+- **B:** Matching sites on bare skin reliable side-to-side comparison support karte hain.
+- **C:** Left chest omit karne se asymmetry miss ho sakti hai.
+- **D:** Movement aur speech sound artifacts create kar sakte hain.
+
+**Exam clue:** Compare right and left at equivalent levels.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -163,10 +213,20 @@ D. Ignore the concern
 
 **Correct answer: A. Warm the chest piece in the hand**
 
-- **A (Correct):** Hand mein warm karne se comfort improve hota hai.
-- **B (Incorrect):** Pressure discomfort badhata hai.
-- **C (Incorrect):** Towel sounds muffle kar sakta hai.
-- **D (Incorrect):** Avoidable discomfort address karna nursing care hai.
+<!-- job5-rationale -->
+Cold chest piece touch karne se patient uncomfortable ya tense ho sakta hai. Clean stethoscope chest piece ko hand mein gently warm karo aur use se pehle temperature comfortable ensure karo. Excess heating avoid karo aur IPC cleaning maintain karo. Comfort se patient cooperation improve ho sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Gentle hand warming discomfort reduce karta hai.
+- **B:** Hard pressure discomfort increase kar sakta hai.
+- **C:** Folded towel sound transmission muffle kar sakta hai.
+- **D:** Avoidable discomfort ignore karna patient-centered care nahi hai.
+
+**Exam clue:** Warm the chest piece, not by excessive heat.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -192,10 +252,20 @@ D. Hold bell above skin
 
 **Correct answer: C. Place bell lightly on bare skin**
 
-- **A (Incorrect):** Firm pressure skin ko diaphragm jaisa bana sakta hai.
-- **B (Incorrect):** Clothing sound distort kar sakti hai.
-- **C (Correct):** Light contact low-frequency transmission support karta hai.
-- **D (Incorrect):** Contact ke bina proper auscultation nahi hogi.
+<!-- job5-rationale -->
+Traditional separate bell low-frequency sounds, jaise S3, S4 aur kuch low-pitched murmurs, sunne ke liye lightly place hoti hai. Firm pressure skin ko tension dekar diaphragm-like filtering produce kar sakta hai aur low frequencies attenuate ho sakti hain. Tunable diaphragm devices mein manufacturer instructions follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Firm pressure traditional bell ka intended low-frequency response reduce kar sakta hai.
+- **B:** Thick clothing sound distort karti hai aur diaphragm different frequency response deta hai.
+- **C:** Light contact on bare skin correct traditional bell technique hai.
+- **D:** Skin contact ke bina reliable sound transmission nahi hoti.
+
+**Exam clue:** Traditional bell light pressure, diaphragm firmer contact.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -208,7 +278,7 @@ D. Hold bell above skin
 ### Q8. Which percussion note is generally expected over normally aerated lung?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **🟣 NVS Staff Nurse 2022 — related concept**
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **🟣 NVS Staff Nurse 2022 — related concept** · **🟣 DSSSB Nursing Officer 27 August 2019 Shift III — related concept**
 <!-- /job4-metadata -->
 
 A. Flatness
@@ -221,10 +291,22 @@ D. Resonance
 
 **Correct answer: D. Resonance**
 
-- **A (Incorrect):** Flatness dense tissue jaise bone ke upar milti hai.
-- **B (Incorrect):** Dullness solid tissue ya fluid se associated ho sakti hai.
-- **C (Incorrect):** Tympany gas-filled stomach ka typical note hai.
-- **D (Correct):** Aerated lung ka usual note resonance hai.
+<!-- job5-rationale -->
+Percussion sound underlying tissue ki air aur density se influence hota hai. Normally aerated lung par resonant, hollow quality expected hai. Dullness dense tissue ya fluid ke saath, flatness bone/muscle jaise dense areas par aur tympany gas-filled hollow organ par mil sakti hai. Site aur clinical context important hain.
+
+**Option-by-option reasoning**
+
+- **A:** Flatness dense tissues par typical hai, normally aerated lung par nahi.
+- **B:** Dullness relatively dense tissue ya fluid ka clue ho sakti hai.
+- **C:** Tympany commonly gas-filled stomach over heard hoti hai.
+- **D:** Resonance normal aerated lung ka expected note hai.
+
+**Exam clue:** Normal lung = resonance, stomach gas = tympany.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
+<!-- /job5-rationale -->
+
+**Historical evidence:** [DSSSB Nursing Officer 27 August 2019 Shift III](https://testbook.com/question-answer/resonance-is-best-described-as--61d3d3cb065c116991d3bfd7) — publisher question asks normal lung resonance, reported key option 2. Third-party report directly inspected, related concept only, not an exact match or authenticated official key.
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -252,10 +334,20 @@ D. Pneumothorax is proven
 
 **Correct answer: B. Correlate the new finding with other clinical data**
 
-- **A (Incorrect):** Percussion alone pneumonia prove nahi karti.
-- **B (Correct):** Fluid ya consolidation possible hain, baaki findings se correlation chahiye.
-- **C (Incorrect):** Dullness aur resonance different notes hain.
-- **D (Incorrect):** Pneumothorax mein hyperresonance possible hai, dullness proof nahi.
+<!-- job5-rationale -->
+New dull percussion note suggest kar sakti hai ki normally air-filled region ki density increase hui hai. Consolidation, pleural fluid ya collapse possible causes hain, lekin percussion alone se diagnosis confirm nahi hota. Breath sounds, chest movement, symptoms, oxygenation aur indicated imaging correlate karo. Acute distress mein prompt escalation karo.
+
+**Option-by-option reasoning**
+
+- **A:** Pneumonia ek possibility hai, definitive proof nahi.
+- **B:** New finding ko other clinical data se correlate karna correct hai.
+- **C:** Dullness aur resonance separate percussion qualities hain.
+- **D:** Pneumothorax mein hyperresonance possible hai, dullness uska proof nahi.
+
+**Exam clue:** Percussion is a clue, not a standalone diagnosis.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -283,10 +375,20 @@ D. All quadrants assessed
 
 **Correct answer: A. Bowel sound heard at examined site**
 
-- **A (Correct):** Jo actually suna hai wahi accurately record karo.
-- **B (Incorrect):** Ek sound se overall function confirm nahi hota.
-- **C (Incorrect):** Obstruction ek sound se exclude nahi hota.
-- **D (Incorrect):** Ek site all quadrants represent nahi karti.
+<!-- job5-rationale -->
+Bowel sounds gastrointestinal movement se generate hote hain aur abdomen mein conduct ho sakte hain. Ek site par sound sunna sirf us observation ko support karta hai. Yeh motility normal hone, obstruction absent hone ya full examination complete hone ka proof nahi. Local procedure aur symptoms ke hisaab se further assessment karo.
+
+**Option-by-option reasoning**
+
+- **A:** Actual observed sound accurately document karna correct hai.
+- **B:** One sound normal overall bowel function establish nahi karta.
+- **C:** Obstruction ko sound alone se exclude nahi kar sakte.
+- **D:** Examined single site ko all quadrants document karna false hai.
+
+**Exam clue:** Document what you actually examined.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596738/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -312,10 +414,20 @@ D. Wait until next shift
 
 **Correct answer: C. Complete appropriate assessment and promptly report the change**
 
-- **A (Incorrect):** Brief listening definitive diagnosis nahi deti.
-- **B (Incorrect):** Unprescribed laxative unsafe ho sakta hai.
-- **C (Correct):** Symptoms important hain, local protocol se assessment aur timely escalation karo.
-- **D (Incorrect):** Worsening change ko routine maan kar delay unsafe hai.
+<!-- job5-rationale -->
+Postoperative distension aur nausea altered bowel motility, ileus ya other complications ka clue ho sakte hain. Brief listening mein sound na milna absence confirm karne ke liye sufficient nahi. Pain, vomiting, abdomen, vital signs, recent surgery aur medication context assess karo. Worsening symptoms promptly report karo aur unprescribed oral interventions avoid karo.
+
+**Option-by-option reasoning**
+
+- **A:** Brief auscultation ileus definitively diagnose nahi karti.
+- **B:** Unprescribed laxative obstruction concern mein inappropriate ho sakta hai.
+- **C:** Appropriate assessment aur timely escalation patient safety support karte hain.
+- **D:** Next shift tak wait deterioration delay kar sakta hai.
+
+**Exam clue:** Symptoms plus trend matter more than a brief sound check.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596738/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -341,10 +453,20 @@ D. Pitting edema
 
 **Correct answer: D. Pitting edema**
 
-- **A (Incorrect):** Abrasion superficial injury hai.
-- **B (Incorrect):** Spasm involuntary muscle contraction hai.
-- **C (Incorrect):** Cyanosis color change hai.
-- **D (Correct):** Persistent indentation pitting edema hai, site aur extent record karo.
+<!-- job5-rationale -->
+Edema interstitial fluid accumulation hai. Pitting edema mein gentle pressure release karne ke baad indentation temporarily remain karti hai. Site, laterality, extent aur standardized depth/recovery method record karo. Cause venous, cardiac, renal ya other conditions ho sakta hai, indentation alone etiology confirm nahi karti.
+
+**Option-by-option reasoning**
+
+- **A:** Abrasion superficial skin injury hai.
+- **B:** Spasm involuntary muscle contraction hai.
+- **C:** Cyanosis discoloration hai, indentation nahi.
+- **D:** Persistent indentation pitting edema ki characteristic finding hai.
+
+**Exam clue:** Pitting = indentation remaining after pressure.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -370,10 +492,20 @@ D. Use hand elasticity as the only test
 
 **Correct answer: B. Integrate intake, output, mucosa, vital signs and other findings**
 
-- **A (Incorrect):** Age-related skin changes turgor affect karte hain.
-- **B (Correct):** Multiple findings hydration assessment ko stronger banate hain.
-- **C (Incorrect):** Oral dryness useful clue ho sakti hai.
-- **D (Incorrect):** Hand elasticity sole test reliable nahi hai.
+<!-- job5-rationale -->
+Older adult mein age-related skin elasticity changes turgor ko less reliable bana sakte hain. Dry mucosa bhi medicines ya mouth breathing se ho sakti hai. Intake-output, recent weight trend, symptoms, vital signs, mucosa aur indicated lab findings ko integrate karo. Fluid status aur treatment decision patient-specific clinical review se hona chahiye.
+
+**Option-by-option reasoning**
+
+- **A:** Turgor alone dehydration severity reliably establish nahi karta.
+- **B:** Multiple findings hydration assessment ko strengthen karte hain.
+- **C:** Oral dryness relevant clue hai, ignore nahi karna.
+- **D:** Hand elasticity older adults mein especially unreliable sole test ho sakti hai.
+
+**Exam clue:** Hydration assessment = multiple cues, not skin turgor alone.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -399,10 +531,20 @@ D. They identify every cause of discoloration
 
 **Correct answer: A. They provide additional visual clues across different skin tones**
 
-- **A (Correct):** Different sites subtle color changes detect karne mein help karte hain.
-- **B (Incorrect):** Circulation assessment phir bhi chahiye.
-- **C (Incorrect):** Visual exam lab concentration measure nahi karta.
-- **D (Incorrect):** Cause ke liye clinical correlation zaroori hai.
+<!-- job5-rationale -->
+Skin color changes different pigmentation mein detect karna challenging ho sakta hai. Oral mucosa, tongue, conjunctiva aur sclera ko relevant finding ke according inspect karna extra clues deta hai. Scleral yellowing jaundice suggest kar sakti hai aur mucosal color oxygenation ya perfusion concerns ka clue ho sakta hai. Lighting, baseline, vital signs aur indicated tests bhi consider karo.
+
+**Option-by-option reasoning**
+
+- **A:** Additional visual sites useful clues provide karte hain.
+- **B:** Color inspection circulation assessment replace nahi karta.
+- **C:** Visual yellowing bilirubin concentration measure nahi karti.
+- **D:** Color change alone every cause identify nahi karta.
+
+**Exam clue:** Assess relevant sites and correlate, never rely on color alone.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -428,10 +570,20 @@ D. Ignore refill regardless of symptoms
 
 **Correct answer: C. Temperature can affect refill, so correlate with other perfusion findings**
 
-- **A (Incorrect):** Refill alone shock prove nahi karta.
-- **B (Incorrect):** Delayed refill normal circulation prove nahi karta.
-- **C (Correct):** Cold vasoconstriction kar sakti hai, warmth, pulses aur overall status reassess karo.
-- **D (Incorrect):** Concerning symptoms ho toh urgent assessment chahiye.
+<!-- job5-rationale -->
+Capillary refill peripheral perfusion ka bedside clue hai. Cold exposure vasoconstriction ke through refill slow kar sakta hai without proving shock. Standard technique use karke suitable warm environment mein recheck karo aur pulses, skin temperature, BP, mental status aur other findings correlate karo. Unstable patient mein rewarming or repeat test ke liye emergency escalation delay mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Delayed refill alone shock confirm nahi karta.
+- **B:** Delayed refill normal circulation prove bhi nahi karta.
+- **C:** Temperature effect aur broader perfusion assessment correct interpretation hai.
+- **D:** Concerning symptoms ke saath refill finding ignore karna unsafe hai.
+
+**Exam clue:** CRT depends on perfusion, temperature and technique.
+
+[Additional concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -457,10 +609,20 @@ D. Direct pupillary light response
 
 **Correct answer: D. Direct pupillary light response**
 
-- **A (Incorrect):** Accommodation near focus se related hai.
-- **B (Incorrect):** Corneal reflex blink response hai.
-- **C (Incorrect):** Consensual response opposite pupil mein hota hai.
-- **D (Correct):** Illuminated pupil ki constriction direct response hai.
+<!-- job5-rationale -->
+Pupillary light reflex mein light retina par detect hoti hai, afferent signal CN II se aur parasympathetic efferent response CN III se pupil constrict karta hai. Right eye illuminate karne par right pupil constriction direct response hai. Left pupil constriction consensual response hoti hai. Both pupils ki baseline size aur reactivity separately document karo.
+
+**Option-by-option reasoning**
+
+- **A:** Accommodation near-focus response se related hai, isolated light test nahi.
+- **B:** Corneal reflex blink response hai, pupillary constriction nahi.
+- **C:** Left consensual response opposite eye mein observe hoti hai.
+- **D:** Illuminated right pupil constriction direct light response hai.
+
+**Exam clue:** Direct = same eye, consensual = opposite eye.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596731/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -486,10 +648,20 @@ D. Let the patient sleep
 
 **Correct answer: B. Activate urgent stroke or emergency response according to protocol**
 
-- **A (Incorrect):** Routine exam emergency response delay kar sakta hai.
-- **B (Correct):** Sudden focal signs time-sensitive emergency hain, protocol activate karo.
-- **C (Incorrect):** Scheduled check ka wait unsafe hai.
-- **D (Incorrect):** Sleep evaluation ka substitute nahi hai.
+<!-- job5-rationale -->
+New facial droop aur slurred speech acute focal neurological deficit ke warning signs hain. Stroke ya mimic possible hai, exact diagnosis bedside sign alone se nahi hota. Immediately emergency/stroke pathway activate karo, last-known-well time note karo aur airway, breathing, circulation and glucose as protocol assess karo without delaying response. Swallow safety establish hone tak oral intake avoid karo.
+
+**Option-by-option reasoning**
+
+- **A:** Routine examination stroke treatment delay kar sakta hai.
+- **B:** Urgent stroke response time-sensitive assessment facilitate karta hai.
+- **C:** Scheduled review tak wait unsafe hai.
+- **D:** Sleep dena neurological assessment aur escalation ka substitute nahi.
+
+**Exam clue:** FAST: face, arm, speech, time to activate help.
+
+[Additional concept reference](https://www.cdc.gov/stroke/signs-symptoms/index.html)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -515,10 +687,20 @@ D. Measure circumference only
 
 **Correct answer: A. Same safe movement against comparable resistance on each side**
 
-- **A (Correct):** Comparable resistance se bilateral asymmetry assess hoti hai.
-- **B (Incorrect):** Dominant arm only se weakness miss ho sakti hai.
-- **C (Incorrect):** Nurse ki strength standard comparator nahi.
-- **D (Incorrect):** Circumference size batata hai, function nahi.
+<!-- job5-rationale -->
+Bilateral muscle strength compare karne ke liye same movement, comparable positioning aur safe resistance use karo. Patient ki pain, joint restriction, previous injury aur comprehension assess karo. Side-to-side difference document karo, clinically appropriate strength grading scale use kar sakte hain. New focal weakness urgent neurological review maang sakti hai.
+
+**Option-by-option reasoning**
+
+- **A:** Comparable technique bilateral strength difference assess karti hai.
+- **B:** Dominant arm only se other side weakness miss ho sakti hai.
+- **C:** Nurse ki personal strength standardized comparator nahi.
+- **D:** Circumference muscle size ka clue hai, functional strength nahi.
+
+**Exam clue:** Same movement and comparable resistance, both sides.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596731/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -544,10 +726,20 @@ D. Break skin with a sharp tool
 
 **Correct answer: C. Use similar safe light touch at matching sites and ask what is felt**
 
-- **A (Incorrect):** Different stimuli comparison unreliable banate hain.
-- **B (Incorrect):** Expected response batana bias create karta hai.
-- **C (Correct):** Matching sites aur neutral questioning se sensation compare hoti hai.
-- **D (Incorrect):** Skin break karna routine test ke liye unsafe hai.
+<!-- job5-rationale -->
+Light-touch assessment mein similar gentle stimulus matching skin sites par use karte hain. Patient ko expected answer suggest kiye bina poochho ki sensation feel hui ya difference hai. Safe position aur appropriate visual occlusion use kar sakte hain if tolerated. New numbness ka onset, distribution, circulation aur motor findings bhi assess karo.
+
+**Option-by-option reasoning**
+
+- **A:** Different stimuli comparison ko confound karte hain.
+- **B:** Expected response bataane se response bias ho sakta hai.
+- **C:** Matching sites and neutral questioning suitable initial comparison hai.
+- **D:** Skin break karna light touch test nahi aur injury risk hai.
+
+**Exam clue:** Same stimulus, matching site, unbiased response.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596731/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -573,10 +765,20 @@ D. Assess stability first and assist or defer walking
 
 **Correct answer: D. Assess stability first and assist or defer walking**
 
-- **A (Incorrect):** Independent walking se fall risk badhta hai.
-- **B (Incorrect):** Slippery surface unnecessary hazard hai.
-- **C (Incorrect):** Eyes closed aur speed risk badhate hain.
-- **D (Correct):** Stability assessment ke baad safe assistance ya defer karna appropriate hai.
+<!-- job5-rationale -->
+Standing dizziness orthostatic intolerance ya other instability ka clue ho sakti hai. Walking start karne se pehle patient ko safe position mein assist karo, symptoms aur relevant observations assess karo. Appropriate support, gait aid ya defer assessment as necessary choose karo. Marked dizziness mein test force mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Independent walking fall risk increase kar sakti hai.
+- **B:** Slippery surface unnecessary hazard hai.
+- **C:** Fast eyes-closed walking unsafe hai.
+- **D:** Stability assessment aur assisted/deferred walking safest hai.
+
+**Exam clue:** Safety before gait testing.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -602,10 +804,20 @@ D. Bed linen color
 
 **Correct answer: A. Color, swelling, warmth and location of change**
 
-- **A (Correct):** Specific bilateral observations change characterize karte hain.
-- **B (Incorrect):** Shoe size current clinical change explain nahi karta.
-- **C (Incorrect):** Age alone local finding describe nahi karti.
-- **D (Incorrect):** Linen color relevant physical finding nahi hai.
+<!-- job5-rationale -->
+Unilateral leg change characterize karne ke liye both sides ka color, swelling distribution, warmth aur tenderness location assess karo. Onset, recent immobility, injury aur relevant symptoms note karo. New unilateral swelling DVT ya other causes ka concern ho sakti hai, timely clinical review chahiye. Chest pain or sudden breathlessness emergency escalation maangti hai.
+
+**Option-by-option reasoning**
+
+- **A:** Specific bilateral findings meaningful comparison deti hain.
+- **B:** Shoe size alone clinical change explain nahi karta.
+- **C:** Age alone local finding describe nahi karti.
+- **D:** Linen color physical limb assessment nahi hai.
+
+**Exam clue:** Describe site, symmetry, extent and onset.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -631,10 +843,20 @@ D. Escalate for appropriate evaluation
 
 **Correct answer: B. Forcefully dorsiflex the foot to elicit pain as a diagnostic test**
 
-- **A (Incorrect):** Location record karna useful hai.
-- **B (Correct):** Homan sign DVT ka reliable diagnostic test nahi hai, provocative maneuver avoid karo.
-- **C (Incorrect):** Visual comparison nonprovocative hai.
-- **D (Incorrect):** Timely evaluation important hai.
+<!-- job5-rationale -->
+Homan sign historically foot dorsiflexion se calf pain elicit karne ko kehte hain. Yeh DVT diagnose ya exclude karne ka reliable test nahi. Forceful provocative maneuver avoid karo. Suspected DVT ko appropriate clinical probability, D-dimer when indicated aur venous ultrasound pathway se evaluate karte hain. Nurse timely escalation aur nonprovocative observation kare.
+
+**Option-by-option reasoning**
+
+- **A:** Swelling location document karna useful hai.
+- **B:** Forceful dorsiflexion reliable diagnostic test nahi, isliye avoid karna correct hai.
+- **C:** Visible size comparison appropriate nonprovocative observation hai.
+- **D:** Prompt evaluation important hai, avoid nahi karna.
+
+**Exam clue:** Homan sign is not a reliable DVT test.
+
+[Additional concept reference](https://www.nice.org.uk/guidance/NG158/chapter/recommendations)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -660,10 +882,20 @@ D. Omit every respiratory observation
 
 **Correct answer: C. Adapt positioning safely and record limitations**
 
-- **A (Incorrect):** Unheard finding normal likhna inaccurate hai.
-- **B (Incorrect):** Unsupported sitting unsafe ho sakti hai.
-- **C (Correct):** Supported position patient ki condition ke hisaab se choose karo aur limitation document karo.
-- **D (Incorrect):** Accessible respiratory observations useful hain.
+<!-- job5-rationale -->
+Posterior chest assessment ke liye usual upright position har patient tolerate nahi kar sakta. Safe supported sitting, side-lying ya other clinically suitable position use karo, respiratory status aur lines/tubes protect karo. Accessible sites assess karo aur inaccessible areas explicitly document karo. Respiratory distress mein necessary escalation delay mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Unheard sounds normal record karna false documentation hai.
+- **B:** Unsupported sitting falls ya distress cause kar sakti hai.
+- **C:** Safe adapted position aur limitations document karna appropriate hai.
+- **D:** All respiratory observations omit karna unnecessary assessment gap hai.
+
+**Exam clue:** Adapt the exam, document what was not assessed.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -689,10 +921,20 @@ D. Avoid further deep pressure and seek prompt evaluation
 
 **Correct answer: D. Avoid further deep pressure and seek prompt evaluation**
 
-- **A (Incorrect):** Deep palpation unnecessary risk create kar sakti hai.
-- **B (Incorrect):** Exercise evaluation ka substitute nahi hai.
-- **C (Incorrect):** Firm pressure diagnostic proof nahi deti.
-- **D (Correct):** Vascular abnormality possible hai, further deep pressure avoid karke promptly report karo.
+<!-- job5-rationale -->
+New pulsatile abdominal mass vascular pathology including abdominal aortic aneurysm ka concern raise kar sakti hai, although finding alone diagnosis establish nahi karti. Further unnecessary deep pressure avoid karo aur prompt clinical evaluation arrange karo. Severe abdominal/back pain, syncope ya hemodynamic instability mein emergency response activate karo. Appropriate imaging clinical team determine karegi.
+
+**Option-by-option reasoning**
+
+- **A:** Repeated deep pressure unnecessary discomfort/risk hai aur diagnosis confirm nahi karti.
+- **B:** Vigorous exercise evaluation ka substitute nahi aur unsafe ho sakti hai.
+- **C:** Firm pressure se pulsation stop karne ki koshish inappropriate hai.
+- **D:** Further deep pressure avoid karke prompt evaluation correct hai.
+
+**Exam clue:** Pulsatile mass: stop unnecessary provocation and escalate.
+
+[Additional concept reference](https://www.nice.org.uk/guidance/ng156/chapter/Recommendations)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -718,10 +960,20 @@ D. Patient is exaggerating
 
 **Correct answer: A. Left ankle visibly swollen compared with right, skin intact**
 
-- **A (Correct):** Site, comparison aur skin condition specific observation hain.
-- **B (Incorrect):** Heart failure diagnosis additional evaluation se establish hoti hai.
-- **C (Incorrect):** Looks bad vague hai.
-- **D (Incorrect):** Exaggerating unsupported judgment hai.
+<!-- job5-rationale -->
+Objective documentation observed ya measured findings ko specific words mein record karti hai. Left ankle visibly swollen versus right aur skin intact directly observed information hai. Measured circumference, pitting grade if assessed, symptoms aur time add kar sakte hain. Etiology bina evidence declare mat karo aur patient par judgment avoid karo.
+
+**Option-by-option reasoning**
+
+- **A:** Site, comparison aur skin status specific observations hain.
+- **B:** Definitive heart failure diagnosis additional evaluation maangti hai.
+- **C:** Looks bad vague aur nonmeasurable description hai.
+- **D:** Exaggerating unsupported judgment hai.
+
+**Exam clue:** Record observation, not unsupported conclusion.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -747,10 +999,20 @@ D. Continue routine without help
 
 **Correct answer: B. Assess responsiveness and breathing immediately and activate emergency response as indicated**
 
-- **A (Incorrect):** Routine skin assessment wait kar sakta hai.
-- **B (Correct):** Emergency assessment aur help priority hai, trained resuscitation protocol follow karo.
-- **C (Incorrect):** Normal record inaccurate hoga.
-- **D (Incorrect):** Help ke bina routine continue karna unsafe hai.
+<!-- job5-rationale -->
+Sudden unresponsiveness emergency finding hai. Immediate help activate karo, responsiveness aur normal breathing promptly assess karo aur trained resuscitation protocol follow karo. Gasps normal breathing nahi hain. Cardiac arrest suspected ho toh indicated CPR/AED response delay mat karo. Routine exam aur charting patient safety ke baad aate hain.
+
+**Option-by-option reasoning**
+
+- **A:** Skin assessment life-threatening concern se lower priority hai.
+- **B:** Immediate emergency assessment aur help activation correct hai.
+- **C:** Normal findings record karna critical event conceal karta hai.
+- **D:** Routine exam continue karna timely resuscitation delay kar sakta hai.
+
+**Exam clue:** Unresponsive patient: emergency response before routine exam.
+
+[Additional concept reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-basic-life-support-guidelines)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
@@ -776,10 +1038,20 @@ D. Replace both observations with a diagnosis
 
 **Correct answer: C. Use an agreed assessment method with site and extent recorded**
 
-- **A (Incorrect):** Severity guess karna bias create karta hai.
-- **B (Incorrect):** Delayed documentation trend miss karti hai.
-- **C (Correct):** Standard method aur specific location se changes compare hote hain.
-- **D (Incorrect):** Diagnosis objective findings replace nahi karta.
+<!-- job5-rationale -->
+Serial edema assessment useful tab hoti hai jab same site, technique, position aur grading method use ho. Pitting depth/recovery, extent aur circumference if indicated objectively record karo. Different grading scales use hoti hain, isliye agreed local method specify karo. Change over time assess karo, severity guess na karo.
+
+**Option-by-option reasoning**
+
+- **A:** More severe description select karna measurement bias hai.
+- **B:** Delayed charting trend aur continuity lose karti hai.
+- **C:** Agreed assessment method aur specific site/extent comparability improve karte hain.
+- **D:** Diagnosis objective findings ka substitute nahi hai.
+
+**Exam clue:** Standardize method and record actual findings.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
