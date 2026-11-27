@@ -1,89 +1,65 @@
-# Innate and adaptive immunity
+# Innate and adaptive immunity — detailed concepts
 
-**Study-ready, unattempted. Priority high.** [40 original MCQs](../MCQs/21-Innate-and-Adaptive-Immunity-40-MCQs.md) · [Reported examination practice](../Previous-Year-Questions/Innate-and-Adaptive-Immunity-Reported-PYQs.md)
+**Priority High. Study-ready, unattempted.** [40 MCQs](../MCQs/21-Innate-and-Adaptive-Immunity-40-MCQs.md)
 
-## 1. Basic meaning
+## Basic idea
 
-Immunity ko body ka protection system samjho. Jab microorganism body mein enter karne ki koshish karta hai, tab pehle se available barriers aur immune cells uske against response start karte hain. Is defense ko innate immunity kehte hain. Adaptive immunity specific antigen ko identify karke selected B aur T lymphocytes ki response develop karti hai. Antigen ek structure hai jise immune system recognize kar sakta hai. Antigen ka recognized part epitope kehlata hai.
+Immune system ko hospital security ke example se samjho. Skin aur mucosa entrance barrier ki tarah hain. Innate immunity rapid general recognition and response provide karti hai. Adaptive immunity specific antigen identify karti hai aur memory develop kar sakti hai. Dono systems connected hain, independent armies nahi. Innate response microbial patterns recognize karta hai. Adaptive B and T cells diverse receptors use karte hain.
 
-| Feature | Innate immunity | Adaptive immunity |
-|---|---|---|
-| Initial response | Rapid | Primary response takes time |
-| Recognition | Conserved patterns and danger signals | Antigen-specific receptors |
-| Major components | Barriers, phagocytes, NK cells, complement | B and T lymphocytes |
-| Memory | Classical antigen-specific memory is not the usual mechanism | Antigen-specific memory develops |
-| Example | Neutrophil engulfing bacteria | Memory B cell response after a booster |
+## Barrier and cellular defence
 
-Innate immunity ko completely nonspecific kehna basic exam shorthand hai. Iske receptors defined microbial patterns ko recognize karte hain. Trained innate responses bhi possible hain, lekin classical antigen-specific B aur T cell memory adaptive immunity ki hallmark hai.
+Skin, mucus, ciliary movement, tears, gastric acidity and resident microbiota pathogens ki entry or growth limit karte hain. Lysozyme bacterial wall bonds hydrolyze karta hai. Barrier damage, devices and surgery infection risk increase kar sakte hain. Neutrophils acute inflammation mein early phagocytes hain. Macrophages tissue debris clear karte hain and cytokines release kar sakte hain. Dendritic cells antigen processing and naive T-cell activation bridge innate and adaptive responses. NK cells altered or infected cells recognize kar sakte hain without conventional antigen-specific TCR. Perforin and granzymes target-cell apoptosis support karte hain.
 
-## 2. First-line defense
+Inflammation mein vasodilation redness and warmth, increased permeability swelling, inflammatory mediators pain produce kar sakte hain. Selectins rolling, integrins firm adhesion and diapedesis tissue entry support karte hain. Chemotaxis chemical gradient ke direction mein movement hai. Phagocytosis mein particle engulf hota hai, phagosome lysosome ke saath fuse kar sakta hai. Oxidative burst microbial killing support karta hai. Chronic granulomatous disease mein NADPH oxidase dysfunction recurrent severe infection risk badhata hai. Toll-like receptors recurring microbial patterns recognize karte hain. Type I interferons nearby cells mein antiviral responses induce kar sakte hain.
 
-Skin ko protective boundary samjho. Intact epithelium microorganisms ko deeper tissues tak pahunchne se rokta hai. Burn mein ye boundary damage ho jaati hai. Respiratory tract mein mucus particles trap karta hai aur cilia mucus ko move karti hain. Isko mucociliary clearance kehte hain. Tears aur saliva mein antimicrobial factors jaise lysozyme milte hain. Stomach acid kuch ingested microorganisms ko inactivate karne mein help karta hai. Normal microbiota bhi invading pathogens ke against competition provide karti hai.
+## Lymphoid organs and antigen presentation
 
-Nurse skin integrity maintain karti hai, aseptic care follow karti hai aur devices ki necessity assess karwati hai. Patient ki normal defenses weak hone par infection risk badh sakta hai.
+| Organ | Function |
+|---|---|
+| Bone marrow | Blood cell production and B-cell development |
+| Thymus | T-cell maturation and selection |
+| Lymph nodes | Draining lymph antigen surveillance |
+| Spleen | Blood antigen surveillance and aged RBC clearance |
+| MALT | Mucosal immune responses |
 
-## 3. Innate cellular defense and inflammation
-
-Neutrophils acute bacterial infection site par early recruitment kar sakte hain. Macrophages microbes aur debris engulf karte hain aur inflammatory signals release karte hain. Phagocytosis ka matlab cell ka particle ko engulf karna hai. Phagosome lysosomal compartments ke saath fuse karke microbial degradation support karta hai. Oxidative burst mein reactive oxygen species killing mein help karte hain. NADPH oxidase defect mein ye mechanism impaired ho sakta hai.
-
-Pattern recognition receptors common microbial patterns ya tissue damage signals identify karte hain. Cytokines signaling molecules hain jo immune cells aur other tissues ko coordinate karte hain. Vasodilation se blood flow increase hota hai aur redness aur warmth ho sakti hai. Vascular permeability badhne se tissue swelling develop ho sakti hai. Diapedesis leukocyte ka vessel wall cross karna hai. Chemotaxis chemical gradient ke along directional movement hai. Fever inflammatory mediators aur hypothalamic PGE2 signaling se develop ho sakta hai.
-
-Natural killer cells innate lymphocytes hain. Ye activating aur inhibitory signals balance karke abnormal cells ko recognize kar sakte hain. Reduced MHC class I expression ek important missing-self clue ho sakta hai. NK cells perforin aur granzymes use karke target cell apoptosis induce kar sakte hain. Type I interferons nearby cells mein antiviral state develop karne mein help karte hain.
-
-Clinical example: chemotherapy patient mein neutrophils bahut kam hain aur fever start ho gaya hai. Nurse pus ya obvious local redness ka wait nahi karti. Febrile neutropenia serious infection emergency ho sakti hai. Prompt clinical assessment, vital signs, escalation aur prescribed management coordinate karo.
-
-## 4. Adaptive immunity and antigen presentation
-
-B aur T lymphocytes antigen-specific receptors use karte hain. B cells human bone marrow mein mature hote hain. T cell precursors bone marrow se thymus jaate hain aur wahan selection aur maturation hoti hai. Lymph nodes aur spleen secondary lymphoid organs hain jahan immune responses organize ho sakte hain.
-
-Dendritic cells peripheral tissue se antigen capture karke lymph nodes mein T cells ko present kar sakti hain. MHC molecule ko ek display platform samjho. Us par peptide fragment display hota hai jise T cell receptor recognize kar sakta hai. Usual pathway mein MHC class II extracellularly acquired antigen fragments CD4 helper T cells ko present karta hai. MHC class I intracellular peptides CD8 cytotoxic T cells ko present kar sakta hai. MHC I most nucleated cells par hota hai. Cross-presentation exceptions bhi exist karti hain.
-
-Naive T cell ko effective activation ke liye antigen recognition ke saath appropriate costimulation aur signals chahiye hote hain. Costimulation absent ho toh anergy ya inadequate activation ho sakti hai. Negative thymic selection strongly self-reactive cells ko remove karne mein help karti hai. Regulatory T cells peripheral tolerance maintain karne mein role play karte hain.
+MHC class I generally intracellular peptides CD8 T cells ko present karta hai. MHC class II professional APCs par extracellularly acquired peptides CD4 T cells ko present karta hai. Naive T-cell activation mein antigen recognition and costimulation important hain. CD28-B7 classic costimulatory interaction hai. IL-2 T-cell expansion support karta hai.
 
 ```mermaid
 flowchart TD
- A[Pathogen enters tissue] --> B[Innate recognition]
+ A[Barrier breach] --> B[Innate recognition]
  B --> C[Phagocytes and inflammatory signals]
- B --> D[Dendritic cell captures antigen]
- D --> E[Antigen presentation and costimulation]
- E --> F[CD4 helper response]
- E --> G[CD8 cytotoxic response]
- F --> H[B cell activation and antibody secretion]
- H --> I[Memory B cells]
- G --> J[Memory T cells]
+ B --> D[Dendritic antigen presentation]
+ D --> E[CD4 and CD8 activation]
+ E --> F[B cell help and antibody response]
+ E --> G[Cytotoxic response]
+ F --> H[Memory]
+ G --> H
 ```
 
-## 5. Humoral and cell-mediated defense
+## T-cell functions and B-cell response
 
-Humoral immunity mein B cell-derived antibodies major role play karti hain. Activated B cell plasma cell ban sakta hai jo antibodies secrete karta hai. Antibodies pathogens ko neutralize kar sakti hain aur phagocytosis ke liye mark kar sakti hain. Cell-mediated immunity mein T cells important role play karte hain. CD8 cells infected cells ko kill kar sakte hain. CD4 cells cytokine signals ke through macrophage, B cell aur other immune responses coordinate karte hain.
+| Subset | Main exam association |
+|---|---|
+| Th1 | IFN-gamma and macrophage activation |
+| Th2 | Type 2 immunity, IL-5/eosinophils, allergy |
+| Th17 | Mucosal defence and neutrophil recruitment |
+| Tfh | Germinal centre B-cell help |
+| Treg | Regulation and tolerance |
+| CD8 | Cytotoxic killing of target cells |
 
-Clonal expansion ka matlab matching lymphocytes ka number increase hona hai. Germinal center response mein affinity maturation antibody binding improve kar sakti hai. Class switching antibody constant region aur effector function change karti hai while antigen specificity generally retained rehti hai. Conjugate vaccines protein carrier ke through T cell help recruit kar sakti hain, jo polysaccharide-specific memory improve karti hai.
+B cells antigen recognition ke baad plasma cells and memory cells form kar sakti hain. Clonal selection selected responsive clones expand karta hai. Primary response initially slower hota hai. Memory response re-exposure par faster ho sakta hai. Class switching antibody constant region and effector function alter karta hai. Affinity maturation antigen binding improve karne wale clones select karti hai. Humoral immunity antibodies se linked hai. Cell-mediated immunity infected cells and intracellular pathogen responses mein important hai.
 
-## 6. Active and passive immunity
+## Active and passive immunity
 
-| Type | Example | Key distinction |
-|---|---|---|
-| Natural active | Immune response following infection | Body makes its own response |
-| Artificial active | Vaccination | Antigen stimulates own response |
-| Natural passive | Placental maternal antibody transfer | Ready-made maternal antibodies |
-| Artificial passive | Indicated immunoglobulin administration | Ready-made antibodies, typically temporary |
+Natural active immunity infection ke baad host response se develop hoti hai. Artificial active immunity vaccination se develop ho sakti hai. Natural passive immunity maternal antibody transfer hai. Artificial passive immunity administered immunoglobulin hai. Passive protection immediate but temporary hoti hai and transferred antibodies khud recipient memory create nahi karti. Active response develop hone mein time lag sakta hai. Protection duration specific exposure and vaccine par depend karti hai.
 
-Active immunity develop hone mein time lag sakta hai aur duration pathogen ke according vary karti hai. Passive immunity rapid protection provide kar sakti hai lekin usually temporary hoti hai. Booster response memory cells ki wajah se faster ho sakti hai. Natural infection deliberate immunity acquisition ka safe substitute nahi hai. Vaccination recommendations follow karo.
+## Nursing priorities
 
-Herd protection ka matlab effective population-level transmission reduction se susceptible people ko milne wali indirect protection hai. Har vaccine same degree se transmission reduce nahi karti. Har individual ko guaranteed protection nahi milti. Tetanus jaise non-person-to-person infections mein community transmission-based herd protection ka usual concept applicable nahi hai.
+Severe neutropenia with fever emergency hai. Pus or strong fever absent hone se infection exclude nahi hoti. Immunosuppressed patients mein unusual infections, persistent thrush, diarrhea and recurrent severe disease specialist evaluation maangte hain. Live vaccine eligibility individual immune status se check karo. Asplenia mein encapsulated bacterial infection risk increase hota hai. Fever action plan, immunization review and timely care important hain. Older patients atypical infection presentation de sakte hain. CRP inflammation marker hai, organism-specific test nahi.
 
-## 7. Clinical nursing integration
+## Resources
 
-Splenectomy ke baad encapsulated organisms se severe infection risk badh sakta hai. Patient ko prescribed vaccination, fever action plan aur clinician-directed prophylaxis education chahiye. T cell deficiency opportunistic infection risk increase kar sakti hai. B cell depletion new vaccine antibody response reduce kar sakti hai. Nurse immune status, medication history aur vaccine-specific contraindications review karwati hai. Immunosuppressed patient mein fever absent hone par bhi hypotension, confusion ya breathing deterioration ko urgent assess karo.
+[OpenStax innate immunity](https://openstax.org/books/microbiology/pages/17-introduction) · [OpenStax adaptive immunity](https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity) · [OpenStax adaptive summary](https://openstax.org/books/microbiology/pages/18-summary)
 
-## References and videos
-
-- [OpenStax innate response](https://openstax.org/books/biology-2e/pages/42-1-innate-immune-response)
-- [OpenStax adaptive immunity](https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity)
-- [MHC and antigen-presenting cells](https://openstax.org/books/microbiology/pages/18-2-major-histocompatibility-complexes-and-antigen-presenting-cells)
-- [T lymphocytes](https://openstax.org/books/microbiology/pages/18-3-t-lymphocytes-and-cellular-immunity)
-- [B lymphocytes](https://openstax.org/books/microbiology/pages/18-4-b-lymphocytes-and-humoral-immunity)
-- Concept video: [Immunity in One Shot — NORCET & AIIMS 2026 Nursing Concepts, Pari Ma'am](https://www.youtube.com/watch?v=v90KXV5QYCY). Indexed description includes innate versus adaptive response. Full page and channel metadata could not be retrieved.
-- MCQ practice: [Most Important MCQs on Immunity — NORCET, KGMU, SGPGI, RML, RRB, UPUMS and DSSSB](https://www.youtube.com/watch?v=tv96B9IaVVk). Indexed description explicitly includes innate and acquired immunity. Channel metadata and playback unavailable.
-
-Both video URLs and titles are search-indexed, not playback-verified. Full question coverage and answer accuracy remain pending.
+- [Immunity in One Shot, Pari Ma'am — NORCET & AIIMS 2026](https://www.youtube.com/watch?v=v90KXV5QYCY), indexed concept session.
+- [Most Important MCQs on Immunity — NORCET, KGMU, SGPGI, RML, RRB, UPUMS, DSSB](https://www.youtube.com/watch?v=tv96B9IaVVk), indexed dedicated nursing practice session. Channel name and full playback not independently checked.

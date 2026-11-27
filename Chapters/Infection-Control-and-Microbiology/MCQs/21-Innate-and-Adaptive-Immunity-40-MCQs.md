@@ -1,926 +1,926 @@
 # Innate and adaptive immunity — 40 original MCQs
 
-**Study-ready, unattempted.** Original NORCET-style practice, not official PYQs. [Concepts](../Concepts/21-Innate-and-Adaptive-Immunity.md)
+**Study-ready, unattempted.** NORCET, staff nurse and CHO original practice, not official PYQs. [Concepts](../Concepts/21-Innate-and-Adaptive-Immunity.md) · [Chapter](../README.md)
 
-### Q1. A patient has intact skin despite exposure to contaminated material. Which defense initially limits microbial entry?
+[OpenStax innate immunity](https://openstax.org/books/microbiology/pages/17-introduction) · [OpenStax adaptive immunity](https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity) · [OpenStax adaptive summary](https://openstax.org/books/microbiology/pages/18-summary)
 
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Physical epithelial barrier
-- **B.** Antigen-specific memory cells
-- **C.** Circulating cytotoxic T cells
-- **D.** Antibody class switching
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: A. Physical epithelial barrier**
-
-**Kyun sahi hai:** Skin ki continuous layer microbes ko tissue mein enter karne se rokti hai.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Memory cells previous antigen response se bante hain.
-- **C.** Cytotoxic cells infected cells ko target karte hain.
-- **D.** Class switching antibody type change karti hai.
-
-</details>
-
-### Q2. A patient with extensive burns has increased infection risk even before measurable lymphocyte changes. Why?
+### Q1. A patient sustains a large skin abrasion. Which immune defence has been directly breached?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Immediate loss of all memory cells
-- **B.** Increased antibody specificity
-- **C.** Complete suppression of complement synthesis
-- **D.** Loss of the primary epithelial barrier
+- **A.** T-cell memory
+- **B.** Antibody class switching
+- **C.** Thymic selection
+- **D.** Physical epithelial barrier
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. Loss of the primary epithelial barrier**
+**Correct answer: D. Physical epithelial barrier**
 
-**Kyun sahi hai:** Burn mein skin ki protective layer damage hoti hai, isliye microbes ko entry mil sakti hai.
+**Kyun sahi hai:** Intact skin microbes ki entry limit karti hai. Abrasion barrier damage karti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Memory cells automatically sab destroy nahi hote.
-- **B.** Specificity badhna risk ka explanation nahi hai.
-- **C.** Complement synthesis completely band hona necessary nahi hai.
+- **A.** Memory antigen-specific response hai.
+- **B.** B-cell differentiation process hai.
+- **C.** T-cell development process hai.
 
 </details>
 
-### Q3. A patient with impaired airway ciliary function has recurrent respiratory infections. Which defense is compromised?
+### Q2. Which substance in tears can hydrolyze bacterial peptidoglycan?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Antibody affinity maturation
-- **B.** Splenic filtration of blood
-- **C.** Mucociliary clearance
-- **D.** Thymic selection
+- **A.** Insulin
+- **B.** Perforin
+- **C.** Lysozyme
+- **D.** Histamine
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: C. Mucociliary clearance**
+**Correct answer: C. Lysozyme**
 
-**Kyun sahi hai:** Cilia mucus mein trapped particles ko airway se bahar move karti hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Affinity maturation B cell response hai.
-- **B.** Spleen blood filter karta hai, airway mucus nahi.
-- **D.** Thymic selection T cell maturation ka part hai.
-
-</details>
-
-### Q4. A child has reduced tear production. Which antimicrobial enzyme normally present in tears is relevant?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Reverse transcriptase
-- **B.** Lysozyme
-- **C.** Thrombin
-- **D.** Pepsin
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: B. Lysozyme**
-
-**Kyun sahi hai:** Lysozyme bacterial peptidoglycan ko break kar sakta hai aur tears mein innate defense provide karta hai.
+**Kyun sahi hai:** Lysozyme peptidoglycan bonds break karke bacterial defence support karta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Reverse transcriptase nucleic acid synthesis enzyme hai.
-- **C.** Thrombin coagulation mein kaam karta hai.
-- **D.** Pepsin stomach mein protein digest karta hai.
+- **A.** Glucose regulation hormone hai.
+- **B.** Cytotoxic cells use karte hain.
+- **D.** Inflammatory mediator hai.
 
 </details>
 
-### Q5. A patient with markedly reduced gastric acidity has increased susceptibility to some ingested pathogens. Which defense is weakened?
+### Q3. A patient receiving chemotherapy has an absolute neutrophil count of 300 cells per microlitre and fever. What is the priority?
 
-**Difficulty:** Medium | **Priority:** High
+**Difficulty:** Difficult | **Priority:** High
 
-- **A.** Bone marrow B cell maturation
-- **B.** Chemical barrier of the stomach
-- **C.** T cell receptor rearrangement
-- **D.** NK cell recognition of missing self
+- **A.** Administer a live vaccine immediately
+- **B.** Urgent evaluation for neutropenic sepsis
+- **C.** Wait until purulent drainage develops
+- **D.** Routine discharge without assessment
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. Chemical barrier of the stomach**
+**Correct answer: B. Urgent evaluation for neutropenic sepsis**
 
-**Kyun sahi hai:** Acidic stomach environment kuch ingested microbes ko inactivate karne mein help karta hai.
+**Kyun sahi hai:** Fever with severe neutropenia time-critical emergency hai. Rapid clinical escalation karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** B cell maturation marrow mein hoti hai.
-- **C.** T cell receptor formation stomach acid par depend nahi karti.
-- **D.** NK cell recognition alag cellular mechanism hai.
+- **A.** Immunosuppression mein eligibility assess karni hoti hai.
+- **C.** Neutropenia mein pus formation reduced ho sakti hai.
+- **D.** Severe infection risk hai.
 
 </details>
 
-### Q6. Which cell typically arrives early in large numbers at an acute bacterial wound infection?
+### Q4. Which circulating leukocyte is usually a major early phagocyte in acute bacterial inflammation?
 
 **Difficulty:** Medium | **Priority:** High
 
 - **A.** Neutrophil
-- **B.** Plasma cell
-- **C.** Memory B cell
-- **D.** Erythrocyte
+- **B.** Basophil
+- **C.** Erythrocyte
+- **D.** Naive B cell
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **Correct answer: A. Neutrophil**
 
-**Kyun sahi hai:** Neutrophils inflammatory signals follow karke infection site par jaate aur microbes engulf karte hain.
+**Kyun sahi hai:** Neutrophils chemotactic signals follow karke infected tissue mein pahunchte hain.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Plasma cells antibodies banate hain.
-- **C.** Memory B cells antigen-specific recall response dete hain.
-- **D.** RBC oxygen carry karte hain.
+- **B.** Allergic mediator release mein role hai.
+- **C.** Oxygen transport karta hai.
+- **D.** Antigen-specific adaptive response mein role hai.
 
 </details>
 
-### Q7. A patient receiving chemotherapy has severe neutropenia and a new fever. What is the priority?
+### Q5. Which process describes directed movement of leukocytes along a chemical gradient?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Opsonization
+- **B.** Clonal deletion
+- **C.** Chemotaxis
+- **D.** Diapedesis
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Chemotaxis**
+
+**Kyun sahi hai:** Chemokines and microbial products leukocytes ko infection site ki taraf attract kar sakte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Microbe ko recognition ke liye tag karna hai.
+- **B.** Selected lymphocytes eliminate karna hai.
+- **D.** Vessel wall cross karna hai.
+
+</details>
+
+### Q6. A leukocyte squeezes between endothelial cells to enter inflamed tissue. What is this process?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Somatic recombination
+- **B.** Diapedesis
+- **C.** Neutralization
+- **D.** Agglutination
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Diapedesis**
+
+**Kyun sahi hai:** Diapedesis leukocyte ka vascular compartment se tissue mein movement hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Antigen receptor diversity generate hoti hai.
+- **C.** Toxin ya pathogen binding se activity reduce hoti hai.
+- **D.** Particles clump hote hain.
+
+</details>
+
+### Q7. Which adhesion molecule group primarily mediates initial leukocyte rolling on activated endothelium?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Wait for pus formation
-- **B.** Give a live vaccine immediately
-- **C.** Reassure because inflammation is absent
-- **D.** Urgent medical assessment for possible febrile neutropenia
+- **A.** Selectins
+- **B.** Immunoglobulin E
+- **C.** Hemoglobin
+- **D.** Clathrin
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. Urgent medical assessment for possible febrile neutropenia**
+**Correct answer: A. Selectins**
 
-**Kyun sahi hai:** Neutrophils kam hone par severe infection ke signs subtle ho sakte hain. Fever urgent assessment maangta hai.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Pus absent ho tab bhi infection possible hai.
-- **B.** Live vaccine immune status review ke bina unsafe ho sakti hai.
-- **C.** Inflammation kam hona safety prove nahi karta.
-
-</details>
-
-### Q8. A macrophage recognizes bacterial lipopolysaccharide using a pattern-recognition receptor. What type of recognition is illustrated?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Memory B cell selection
-- **B.** T cell recognition of a specific peptide-MHC complex
-- **C.** Innate recognition of a conserved microbial pattern
-- **D.** Antibody class switching
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: C. Innate recognition of a conserved microbial pattern**
-
-**Kyun sahi hai:** Innate receptors common microbial patterns ko recognize karte hain aur early response activate karte hain.
+**Kyun sahi hai:** Selectin-mediated transient binding rolling facilitate karti hai. Integrins firm adhesion mein important hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Memory B selection adaptive process hai.
-- **B.** T cell recognition specific peptide presentation se related hai.
-- **D.** Class switching antibody class change karti hai.
+- **B.** Allergic sensitization mein role hai.
+- **C.** Oxygen carrier hai.
+- **D.** Vesicle trafficking protein hai.
 
 </details>
 
-### Q9. After engulfing a bacterium, which intracellular event supports its degradation by a phagocyte?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Formation of a bacterial capsule by the host cell
-- **B.** Conversion of the bacterium into an antibody
-- **C.** Fusion of the phagosome with lysosomal compartments
-- **D.** Secretion of erythropoietin into the phagosome
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: C. Fusion of the phagosome with lysosomal compartments**
-
-**Kyun sahi hai:** Phagolysosome mein enzymes aur antimicrobial mechanisms engulfed microbes ko degrade karte hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Host phagocyte bacterial capsule nahi banata.
-- **B.** Bacterium antibody mein convert nahi hota.
-- **D.** Erythropoietin RBC production regulate karta hai.
-
-</details>
-
-### Q10. A child has a defect in phagocyte NADPH oxidase. Which defense is impaired?
+### Q8. A child has recurrent bacterial and fungal infections due to defective phagocyte oxidative burst. Which disorder is classically implicated?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** T cell maturation in the thymus
-- **B.** Oxidative killing of engulfed microbes
-- **C.** Antibody binding to antigen alone
-- **D.** Gastric acid secretion
+- **A.** Selective IgA deficiency
+- **B.** DiGeorge syndrome
+- **C.** Hereditary angioedema
+- **D.** Chronic granulomatous disease
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. Oxidative killing of engulfed microbes**
+**Correct answer: D. Chronic granulomatous disease**
 
-**Kyun sahi hai:** NADPH oxidase reactive oxygen species banane mein help karta hai. Defect se phagocyte killing impair ho sakti hai.
+**Kyun sahi hai:** NADPH oxidase dysfunction reactive oxygen-dependent microbial killing impair karta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Thymic maturation separate process hai.
-- **C.** Antibody binding separate mechanism hai.
-- **D.** Gastric acid secretion directly is defect ka target nahi hai.
+- **A.** Mucosal antibody deficiency hai.
+- **B.** Thymic T-cell defect association hai.
+- **C.** Complement regulation defect hai.
 
 </details>
 
-### Q11. A virus-infected cell reduces its surface MHC class I expression. Which innate cell can respond to this missing-self signal?
+### Q9. Which intracellular event supports destruction of an engulfed bacterium?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Viral integration
+- **B.** Phagosome fusion with lysosome
+- **C.** Release of intact bacterium by routine exocytosis
+- **D.** Antibody crossing placenta
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Phagosome fusion with lysosome**
+
+**Kyun sahi hai:** Phagolysosome enzymes aur antimicrobial conditions microbe destruction support karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Retroviral replication step hai.
+- **C.** Killing mechanism nahi hai.
+- **D.** Passive immunity mechanism hai.
+
+</details>
+
+### Q10. Which receptor type recognizes recurring microbial patterns rather than one unique antigen epitope?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Natural killer cell
-- **B.** Naive B cell
-- **C.** Erythrocyte
-- **D.** Basophil
+- **A.** Toll-like receptor
+- **B.** Rearranged B-cell receptor only
+- **C.** Hemoglobin receptor as the sole sensor
+- **D.** Insulin receptor
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. Natural killer cell**
+**Correct answer: A. Toll-like receptor**
 
-**Kyun sahi hai:** NK cells activating aur inhibitory signals balance karte hain. Reduced MHC I se inhibitory signal kam ho sakta hai.
+**Kyun sahi hai:** Toll-like receptors innate pattern recognition receptors hain. Microbial structures inflammatory signaling trigger kar sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Naive B cells specific antigen recognize karte hain.
-- **C.** RBC infected target cell killing nahi karte.
-- **D.** Basophils mainly inflammatory mediators release karte hain.
+- **B.** Antigen-specific receptor hai.
+- **C.** General pattern recognition role nahi hai.
+- **D.** Metabolic signaling receptor hai.
 
 </details>
 
-### Q12. Which mechanism can an activated NK cell use to induce target-cell death?
+### Q11. Which mediator group contributes to an early antiviral state in nearby cells?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Secretion of gastric hydrochloric acid
-- **B.** Production of antigen-specific IgG
-- **C.** Formation of bacterial endospores
-- **D.** Perforin and granzyme release
+- **A.** Erythropoietin
+- **B.** Aldosterone
+- **C.** Gastrin
+- **D.** Type I interferons
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. Perforin and granzyme release**
+**Correct answer: D. Type I interferons**
 
-**Kyun sahi hai:** Perforin aur granzymes target cell apoptosis induce karne mein help karte hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Gastric acid stomach se related hai.
-- **B.** Antibodies plasma cells banate hain.
-- **C.** NK cells spores nahi banate.
-
-</details>
-
-### Q13. Early during viral infection, type I interferons help neighboring cells primarily by which action?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Directly converting viruses into bacteria
-- **B.** Producing antigen-specific antibodies themselves
-- **C.** Stimulating bacterial cell-wall synthesis
-- **D.** Inducing an antiviral state
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: D. Inducing an antiviral state**
-
-**Kyun sahi hai:** Type I interferons neighboring cells mein antiviral genes activate kar sakte hain.
+**Kyun sahi hai:** Interferon alpha and beta antiviral gene expression induce kar sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Viruses bacteria mein convert nahi hote.
-- **B.** Antibodies plasma cells produce karte hain.
-- **C.** Bacterial wall synthesis antiviral defense nahi hai.
+- **A.** RBC production stimulate karta hai.
+- **B.** Sodium balance regulate karta hai.
+- **C.** Gastric acid regulation mein role hai.
 
 </details>
 
-### Q14. A localized infection causes warmth and redness. Which vascular change contributes directly to these findings?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Reduced tissue perfusion from universal vasoconstriction
-- **B.** Loss of every circulating leukocyte
-- **C.** Increased local blood flow from vasodilation
-- **D.** Complete cessation of capillary blood flow
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: C. Increased local blood flow from vasodilation**
-
-**Kyun sahi hai:** Vasodilation se area mein blood flow badhta hai, jisse redness aur warmth ho sakti hai.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Vasoconstriction flow reduce karti hai.
-- **B.** Leukocyte loss required nahi hai.
-- **D.** Complete blood flow loss is pattern ko explain nahi karta.
-
-</details>
-
-### Q15. At an inflamed site, leukocytes move toward increasing concentrations of chemical signals. What is this process?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Osmosis
-- **B.** Chemotaxis
-- **C.** Diapedesis only
-- **D.** Clonal deletion
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: B. Chemotaxis**
-
-**Kyun sahi hai:** Chemotaxis directional movement hai jo chemical gradient ke according hota hai.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Osmosis water movement hai.
-- **C.** Diapedesis vessel wall cross karna hai.
-- **D.** Clonal deletion self-reactive lymphocytes remove kar sakti hai.
-
-</details>
-
-### Q16. A leukocyte squeezes between endothelial cells to enter infected tissue. Which process is demonstrated?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Diapedesis
-- **B.** Antigenic drift
-- **C.** Somatic hypermutation
-- **D.** Hemagglutination
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: A. Diapedesis**
-
-**Kyun sahi hai:** Diapedesis mein leukocyte blood vessel se tissue mein cross karta hai.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Drift viral antigen variation hai.
-- **C.** Hypermutation B cell antibody genes mein changes hai.
-- **D.** Hemagglutination RBC clumping hai.
-
-</details>
-
-### Q17. A patient with infection develops fever after inflammatory cytokine signaling. Which mediator contributes to raising the hypothalamic temperature set point?
+### Q12. A virus-infected cell markedly reduces surface MHC class I expression. Which innate cell can detect this missing-self pattern?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Prostaglandin E2
-- **B.** Insulin
-- **C.** Aldosterone
-- **D.** Bile salts
+- **A.** Mature erythrocyte
+- **B.** Naive helper T cell
+- **C.** Natural killer cell
+- **D.** Plasma cell
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. Prostaglandin E2**
+**Correct answer: C. Natural killer cell**
 
-**Kyun sahi hai:** Inflammatory cytokines PGE2 production stimulate kar sakte hain, jo hypothalamic set point raise karta hai.
+**Kyun sahi hai:** NK inhibitory signaling reduced hone par susceptible target kill kar sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Insulin glucose regulate karta hai.
-- **C.** Aldosterone sodium balance regulate karta hai.
-- **D.** Bile salts fat digestion mein help karte hain.
+- **A.** Immune cytotoxic cell nahi hai.
+- **B.** Specific antigen recognition and activation require karta hai.
+- **D.** Antibody secrete karti hai.
 
 </details>
 
-### Q18. A patient with a splenectomy is concerned about infection risk. Which explanation is most appropriate?
+### Q13. Which mechanism is shared by activated cytotoxic T cells and NK cells?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Complete absence of all antibodies
-- **B.** Loss of all skin barriers
-- **C.** Inability to produce any neutrophils
-- **D.** Reduced clearance of some bloodborne encapsulated bacteria
+- **A.** Perforin and granzyme-mediated target cell death
+- **B.** Secretion of maternal milk IgA
+- **C.** Phagocytosis as their main killing mechanism
+- **D.** Production of complement solely by these cells
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. Reduced clearance of some bloodborne encapsulated bacteria**
+**Correct answer: A. Perforin and granzyme-mediated target cell death**
 
-**Kyun sahi hai:** Spleen bloodborne organisms filter karta hai. Asplenia mein encapsulated bacteria ka risk badh sakta hai, isliye vaccine aur fever plan important hain.
+**Kyun sahi hai:** Perforin and granzymes target-cell apoptosis induce karne mein help karte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Other lymphoid tissues antibodies bana sakte hain.
-- **B.** Skin barrier splenectomy se directly remove nahi hoti.
-- **C.** Bone marrow neutrophils bana sakta hai.
+- **B.** Plasma cells antibody banati hain.
+- **C.** Cytotoxic killing primary role hai.
+- **D.** Complement multiple sources se aata hai.
 
 </details>
 
-### Q19. Which cell is particularly effective at initiating a naive T cell response after capturing antigen in peripheral tissue?
+### Q14. Which cell is particularly effective at priming naive T cells after capturing antigen in peripheral tissue?
 
 **Difficulty:** Medium | **Priority:** High
 
 - **A.** Platelet
-- **B.** Skeletal myocyte
-- **C.** Dendritic cell
-- **D.** Mature erythrocyte
+- **B.** Erythrocyte
+- **C.** Skeletal myocyte
+- **D.** Dendritic cell
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: C. Dendritic cell**
+**Correct answer: D. Dendritic cell**
 
-**Kyun sahi hai:** Dendritic cells antigen process karke lymph nodes mein naive T cells ko activate kar sakti hain.
+**Kyun sahi hai:** Dendritic cells antigen process karke lymph nodes mein naive T cells activate kar sakti hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Platelets primarily hemostasis mein kaam karte hain.
-- **B.** Myocytes professional naive T cell activators nahi hain.
-- **D.** RBC professional antigen-presenting cells nahi hain.
+- **A.** Hemostasis primary role hai.
+- **B.** Antigen presentation function nahi hai.
+- **C.** Professional antigen-presenting cell nahi hai.
 
 </details>
 
-### Q20. A dendritic cell presents extracellular bacterial peptide on MHC class II. Which lymphocyte recognizes this presentation in the usual pathway?
+### Q15. Which lymphoid organ is a principal site of T-cell maturation?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** NK cell via an antigen-specific TCR
-- **B.** CD4 helper T cell
-- **C.** CD8 cytotoxic T cell
-- **D.** Mature erythrocyte
+- **A.** Tonsil only
+- **B.** Liver bile duct
+- **C.** Thymus
+- **D.** Spleen red pulp
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. CD4 helper T cell**
+**Correct answer: C. Thymus**
 
-**Kyun sahi hai:** CD4 T cells peptide-MHC II complex recognize karte hain aur immune response coordinate karte hain.
+**Kyun sahi hai:** Bone marrow precursors thymus mein selection and maturation undergo karte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** NK cells antigen-specific TCR use nahi karte.
-- **C.** CD8 cells usually MHC I recognize karte hain.
-- **D.** RBC T cell receptors nahi rakhte.
+- **A.** Secondary lymphoid tissue hai.
+- **B.** T-cell maturation site nahi hai.
+- **D.** Blood filtration and immune surveillance mein role hai.
 
 </details>
 
-### Q21. An infected nucleated cell displays an endogenous viral peptide on MHC class I. Which adaptive effector is best suited to recognize and kill it?
+### Q16. In humans, where do B cells primarily develop before entering peripheral lymphoid tissues?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Eosinophil through MHC II recognition
-- **B.** CD8 cytotoxic T cell
-- **C.** Plasma cell
-- **D.** Neutrophil through an antigen-specific TCR
+- **A.** Kidney glomerulus
+- **B.** Bone marrow
+- **C.** Thymic cortex
+- **D.** Adrenal medulla
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. CD8 cytotoxic T cell**
+**Correct answer: B. Bone marrow**
 
-**Kyun sahi hai:** CD8 T cell specific peptide-MHC I recognize karke infected cell kill kar sakta hai.
+**Kyun sahi hai:** Bone marrow B lymphocyte development ka primary site hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Eosinophil ka ye classical recognition pathway nahi hai.
-- **C.** Plasma cells antibodies secrete karte hain.
-- **D.** Neutrophils TCR-based adaptive recognition nahi karte.
+- **A.** Filtration structure hai.
+- **C.** T-cell development site hai.
+- **D.** Hormone secretion site hai.
 
 </details>
 
-### Q22. A naive T cell recognizes peptide-MHC but receives inadequate costimulation. What may occur?
+### Q17. Which organ primarily monitors blood-borne antigens and removes aged erythrocytes?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Thymus
+- **B.** Lymph node only
+- **C.** Pancreas
+- **D.** Spleen
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. Spleen**
+
+**Kyun sahi hai:** Spleen white pulp immune response aur red pulp blood filtration support karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** T-cell maturation mein role hai.
+- **B.** Lymph-borne antigen filter karta hai.
+- **C.** Digestive and endocrine functions hain.
+
+</details>
+
+### Q18. Which lymphoid structure primarily receives antigens from draining tissue lymph?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Adrenal gland
+- **B.** Bone cortex
+- **C.** Regional lymph node
+- **D.** Thymus alone
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Regional lymph node**
+
+**Kyun sahi hai:** Lymph nodes tissue drainage se antigen encounter and lymphocyte activation facilitate karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Endocrine organ hai.
+- **B.** Lymph filtration site nahi hai.
+- **D.** Primary lymphoid organ hai.
+
+</details>
+
+### Q19. Which MHC class generally presents intracellular peptides to CD8 T cells?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Anergy or failure of effective activation
-- **B.** Guaranteed maximal clonal expansion
-- **C.** Immediate conversion into a plasma cell
-- **D.** Production of bacterial spores
+- **A.** Complement C3
+- **B.** MHC class I
+- **C.** MHC class II
+- **D.** Secretory IgA
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. Anergy or failure of effective activation**
+**Correct answer: B. MHC class I**
 
-**Kyun sahi hai:** Antigen recognition alone naive T cell activation ke liye sufficient nahi ho sakti. Costimulation absent hone par nonresponsiveness develop ho sakti hai.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Expansion guaranteed nahi hai.
-- **C.** Plasma cell B cell lineage se banta hai.
-- **D.** T cells spores nahi banate.
-
-</details>
-
-### Q23. Which organ is the primary site of T lymphocyte maturation and selection?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Spleen
-- **B.** Pancreas
-- **C.** Gallbladder
-- **D.** Thymus
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: D. Thymus**
-
-**Kyun sahi hai:** T cell precursors marrow se thymus jaate hain jahan selection aur maturation hoti hai.
+**Kyun sahi hai:** Most nucleated cells MHC I express karti hain. Cytotoxic T cells peptide-MHC I recognize kar sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Spleen secondary lymphoid organ hai.
-- **B.** Pancreas digestion aur hormones se related hai.
-- **C.** Gallbladder bile store karta hai.
+- **A.** Complement protein hai.
+- **C.** Usually CD4 T-cell recognition se linked hai.
+- **D.** Antibody class hai.
 
 </details>
 
-### Q24. Where do human B lymphocytes primarily mature before peripheral antigen activation?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Adrenal medulla
-- **B.** Renal collecting duct
-- **C.** Bone marrow
-- **D.** Thymic cortex
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: C. Bone marrow**
-
-**Kyun sahi hai:** B cells human bone marrow mein develop aur mature hote hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Adrenal medulla catecholamines release karti hai.
-- **B.** Collecting duct urine concentration mein role karta hai.
-- **D.** Thymic cortex T cell selection se linked hai.
-
-</details>
-
-### Q25. An immature T cell binds self-antigen too strongly during thymic selection. Which protective process may remove it?
+### Q20. Which MHC molecule on professional antigen-presenting cells typically presents extracellularly acquired peptides to helper T cells?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Complement-mediated bacterial lysis
-- **B.** Passive immunization
-- **C.** Negative selection
-- **D.** Antigenic reassortment
+- **A.** MHC class II
+- **B.** MHC class I exclusively
+- **C.** IgM
+- **D.** C-reactive protein
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: C. Negative selection**
+**Correct answer: A. MHC class II**
 
-**Kyun sahi hai:** Negative selection strongly self-reactive T cells ko eliminate karke tolerance support karti hai.
+**Kyun sahi hai:** MHC II processed peptides CD4 T cells ko present karta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Complement lysis extracellular target defense hai.
-- **B.** Passive immunization ready antibodies provide karti hai.
-- **D.** Reassortment viral genome segments ka mixing hai.
+- **B.** Usually endogenous peptide presentation se related hai.
+- **C.** Antibody class hai.
+- **D.** Acute phase protein hai.
 
 </details>
 
-### Q26. A patient develops impaired regulatory T cell function. Which immune property may be weakened?
+### Q21. Why does antigen recognition alone often fail to fully activate a naive T cell?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Oxygen binding by hemoglobin
-- **B.** Peripheral immune tolerance
-- **C.** Gastric acid production
-- **D.** Platelet aggregation
+- **A.** All T cells are already activated
+- **B.** Antigen is never presented
+- **C.** Costimulatory signals are also required
+- **D.** T cells have no antigen receptors
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. Peripheral immune tolerance**
+**Correct answer: C. Costimulatory signals are also required**
 
-**Kyun sahi hai:** Regulatory T cells excessive ya self-reactive immune response suppress karne mein help karte hain.
+**Kyun sahi hai:** Costimulation appropriate immune activation support karti hai. Inadequate signals tolerance or anergy contribute kar sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Hemoglobin oxygen transport karta hai.
-- **C.** Gastric acid secretion primary Treg function nahi hai.
-- **D.** Platelet aggregation hemostasis hai.
+- **A.** Naive cells require priming.
+- **B.** APCs antigen present karti hain.
+- **D.** TCR present hota hai.
 
 </details>
 
-### Q27. An activated B cell differentiates into a cell specialized for antibody secretion. What is this cell called?
+### Q22. Which interaction provides a classic costimulatory signal to naive T cells?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** C3b binding microbial wall alone
+- **B.** CD28 binding B7 molecules
+- **C.** IgE binding pollen alone
+- **D.** Hemoglobin binding oxygen
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. CD28 binding B7 molecules**
+
+**Kyun sahi hai:** CD28 on T cells and CD80/86 on APCs activation signal support karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Opsonization hai.
+- **C.** Allergy mechanism hai.
+- **D.** Gas transport hai.
+
+</details>
+
+### Q23. Which cytokine is particularly important for proliferation of activated T cells?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** IL-2
+- **B.** Erythropoietin
+- **C.** Thyroxine
+- **D.** Melatonin
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: A. IL-2**
+
+**Kyun sahi hai:** IL-2 activated T-cell expansion and regulatory T-cell maintenance support karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** RBC production mein role hai.
+- **C.** Metabolism hormone hai.
+- **D.** Circadian regulation mein role hai.
+
+</details>
+
+### Q24. Which helper T-cell subset is classically associated with IFN-gamma-mediated macrophage activation?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** Th2
+- **B.** Tfh
+- **C.** Treg
+- **D.** Th1
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. Th1**
+
+**Kyun sahi hai:** Th1 response intracellular pathogens ke against macrophage activation support karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Type 2 immunity and allergy mein role hai.
+- **B.** B-cell follicular help deta hai.
+- **C.** Immune response regulate karta hai.
+
+</details>
+
+### Q25. Which helper subset supports eosinophil responses against helminths?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** CD8 cytotoxic subset
+- **B.** Th2
+- **C.** Th1
+- **D.** Treg
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Th2**
+
+**Kyun sahi hai:** Th2 cytokines including IL-5 eosinophil responses support karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Infected cell killing se associated hai.
+- **C.** Macrophage activation mein prominent hai.
+- **D.** Excess immune response suppress karta hai.
+
+</details>
+
+### Q26. Which subset is important for neutrophil recruitment at mucosal barriers through IL-17-associated signaling?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** Th17
+- **B.** Tfh
+- **C.** Treg
+- **D.** Th2 exclusively
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: A. Th17**
+
+**Kyun sahi hai:** Th17 extracellular bacterial and fungal defence mein important inflammatory signaling support karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Germinal centre B-cell help deta hai.
+- **C.** Tolerance support karta hai.
+- **D.** Type 2 response se related hai.
+
+</details>
+
+### Q27. Which T-cell subset helps B cells in germinal centres undergo affinity maturation?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** NK cells
+- **B.** Neutrophils
+- **C.** Erythrocytes
+- **D.** T follicular helper cells
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. T follicular helper cells**
+
+**Kyun sahi hai:** Tfh signals B-cell selection and antibody response maturation support karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Innate cytotoxic cells hain.
+- **B.** Early phagocytes hain.
+- **C.** Oxygen transport karte hain.
+
+</details>
+
+### Q28. What is a major function of regulatory T cells?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** Engulf every bacterium
+- **B.** Carry oxygen
+- **C.** Limit excessive immune responses and maintain tolerance
+- **D.** Produce all serum antibodies
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Limit excessive immune responses and maintain tolerance**
+
+**Kyun sahi hai:** Treg suppressive mechanisms self-tolerance and immune regulation maintain karne mein help karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Phagocytes ka primary function hai.
+- **B.** Erythrocytes ka role hai.
+- **D.** Plasma cells antibodies banati hain.
+
+</details>
+
+### Q29. Which differentiated B-cell form secretes large amounts of antibody?
 
 **Difficulty:** Medium | **Priority:** High
 
 - **A.** Plasma cell
-- **B.** Cytotoxic T cell
+- **B.** Naive CD8 T cell
 - **C.** Neutrophil
-- **D.** Megakaryocyte
+- **D.** NK cell
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **Correct answer: A. Plasma cell**
 
-**Kyun sahi hai:** Plasma cells large amounts mein specific antibodies produce aur secrete karte hain.
+**Kyun sahi hai:** Activated B cells plasma cells differentiate karke soluble antibodies secrete kar sakti hain.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Cytotoxic T cells target cells kill karte hain.
-- **C.** Neutrophils phagocytosis karte hain.
-- **D.** Megakaryocytes platelets produce karte hain.
+- **B.** Cell-mediated response mein role hai.
+- **C.** Phagocyte hai.
+- **D.** Innate cytotoxicity karta hai.
 
 </details>
 
-### Q28. A vaccine antigen activates a small group of lymphocytes with matching receptors. Their numbers increase. What is this principle?
+### Q30. What does clonal selection mean in adaptive immunity?
 
 **Difficulty:** Medium | **Priority:** High
+
+- **A.** All leukocytes make identical receptors
+- **B.** Microbes reproduce by binary fission
+- **C.** Antibodies become living cells
+- **D.** Antigen-responsive lymphocyte clones preferentially activate and expand
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. Antigen-responsive lymphocyte clones preferentially activate and expand**
+
+**Kyun sahi hai:** Antigen recognition selected B or T cell populations expand karne mein help karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Receptor diversity hoti hai.
+- **B.** Bacterial growth process hai.
+- **C.** Antibody protein hai.
+
+</details>
+
+### Q31. Why is a secondary antigen response usually faster than the primary response?
+
+**Difficulty:** Medium | **Priority:** High
+
+- **A.** All innate cells disappear
+- **B.** Antigen receptors are absent on re-exposure
+- **C.** Antigen-specific memory cells remain after prior exposure
+- **D.** Skin becomes permanently impermeable
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Antigen-specific memory cells remain after prior exposure**
+
+**Kyun sahi hai:** Memory cells rapid expansion and effector responses support kar sakti hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Innate system active rehta hai.
+- **B.** Memory cells recognize antigen.
+- **D.** Barrier change explanation nahi hai.
+
+</details>
+
+### Q32. What changes during immunoglobulin class switching?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** Antibodies become complement proteins
+- **B.** Heavy-chain constant region while antigen specificity is generally retained
+- **C.** All antigen-binding sequences are necessarily replaced
+- **D.** B cells become erythrocytes
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Heavy-chain constant region while antigen specificity is generally retained**
+
+**Kyun sahi hai:** Class switching effector function alter karta hai without necessarily changing antigen specificity.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Different molecules hain.
+- **C.** Class switching primarily constant region change karta hai.
+- **D.** Lineage change nahi hai.
+
+</details>
+
+### Q33. Which process improves average antibody binding strength during a germinal centre response?
+
+**Difficulty:** Difficult | **Priority:** High
 
 - **A.** Diapedesis
-- **B.** Opsonization alone
-- **C.** Antigenic shift
-- **D.** Clonal expansion
+- **B.** Endospore formation
+- **C.** Passive transfer alone
+- **D.** Affinity maturation
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. Clonal expansion**
+**Correct answer: D. Affinity maturation**
 
-**Kyun sahi hai:** Matching lymphocytes multiply karke effector aur memory populations bana sakte hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Diapedesis cell migration hai.
-- **B.** Opsonization microbes ko phagocytosis ke liye mark karti hai.
-- **C.** Antigenic shift influenza variation hai.
-
-</details>
-
-### Q29. Why does a protein-polysaccharide conjugate vaccine often generate better memory in young children than unconjugated polysaccharide?
-
-**Difficulty:** Difficult | **Priority:** High
-
-- **A.** It bypasses all antigen presentation and creates no memory
-- **B.** It delivers preformed antibodies only
-- **C.** It prevents B cell receptor binding
-- **D.** It recruits T cell help for a polysaccharide-specific B cell response
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: D. It recruits T cell help for a polysaccharide-specific B cell response**
-
-**Kyun sahi hai:** Protein carrier T helper response recruit karne mein help karta hai. Isse memory aur class switching improve ho sakti hai.
+**Kyun sahi hai:** Somatic hypermutation and selection higher-affinity B-cell clones favour karte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Memory develop ho sakti hai.
-- **B.** Vaccine active immunization hai, ready antibodies nahi.
-- **C.** B cell antigen recognition important hai.
+- **A.** Leukocyte tissue migration hai.
+- **B.** Bacterial survival process hai.
+- **C.** Recipient B-cell selection nahi hoti.
 
 </details>
 
-### Q30. During an adaptive response, antibody binding strength to antigen improves over time. Which process contributes?
-
-**Difficulty:** Difficult | **Priority:** High
-
-- **A.** Neutrophil diapedesis
-- **B.** Bacterial binary fission
-- **C.** Affinity maturation
-- **D.** Erythrocyte sedimentation
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: C. Affinity maturation**
-
-**Kyun sahi hai:** Germinal centers mein B cell variants select ho sakte hain jinke antibodies antigen ko stronger bind karte hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Diapedesis leukocyte migration hai.
-- **B.** Binary fission bacterial division hai.
-- **D.** ESR inflammatory marker hai.
-
-</details>
-
-### Q31. A B cell changes the antibody constant region while retaining antigen specificity. What process is occurring?
-
-**Difficulty:** Difficult | **Priority:** High
-
-- **A.** Phagolysosomal fusion
-- **B.** Class-switch recombination
-- **C.** Antigenic shift
-- **D.** Negative selection of thymocytes
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: B. Class-switch recombination**
-
-**Kyun sahi hai:** Class switching antibody effector function change kar sakti hai while original antigen recognition generally retained rehta hai.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Fusion phagocytosis mein hoti hai.
-- **C.** Shift viral antigen change hai.
-- **D.** Negative selection T cell tolerance ka part hai.
-
-</details>
-
-### Q32. After a booster dose, antibody levels rise faster than after the first dose. Which mechanism best explains this?
+### Q34. A person develops immunity after recovering from a natural infection. Which category describes the adaptive response?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Activation of antigen-specific memory cells
-- **B.** Loss of every antigen-specific clone
-- **C.** Absence of prior antigen exposure
-- **D.** Universal activation of red blood cells
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: A. Activation of antigen-specific memory cells**
-
-**Kyun sahi hai:** Memory cells previous exposure ke baad persist kar sakte hain aur repeat exposure par faster response dete hain.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Clone loss recall response explain nahi karta.
-- **C.** Booster previous priming ke baad hota hai.
-- **D.** RBC adaptive memory nahi rakhte.
-
-</details>
-
-### Q33. A patient receives a therapeutic agent that depletes B cells. Which consequence is especially relevant when planning a new vaccine response?
-
-**Difficulty:** Difficult | **Priority:** High
-
-- **A.** Reduced capacity to generate a new humoral response
-- **B.** Guaranteed elimination of all pre-existing antibodies immediately
-- **C.** Increased response to every vaccine regardless of timing
-- **D.** Loss of gastric acid in every patient
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: A. Reduced capacity to generate a new humoral response**
-
-**Kyun sahi hai:** B cell depletion new antibody responses impair kar sakti hai. Vaccine timing specialist review se decide hoti hai.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Long-lived plasma cells antibodies maintain kar sakte hain.
-- **C.** Vaccine response timing aur immune status par depend karta hai.
-- **D.** Gastric acid loss required effect nahi hai.
-
-</details>
-
-### Q34. A patient has severe T cell immunodeficiency. Which broad infection concern is especially relevant?
-
-**Difficulty:** Difficult | **Priority:** High
-
-- **A.** Only infections caused by external trauma
-- **B.** No increased risk because neutrophils exist
-- **C.** Exclusive risk of fungal nail disease
-- **D.** Opportunistic infections requiring intact cellular immunity
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: D. Opportunistic infections requiring intact cellular immunity**
-
-**Kyun sahi hai:** T cells intracellular pathogens aur opportunistic infections ke control mein important hain.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Trauma only risk nahi hai.
-- **B.** Innate cells adaptive defect fully compensate nahi karte.
-- **C.** Risk multiple organ systems mein ho sakta hai.
-
-</details>
-
-### Q35. A patient develops protective antibodies after recovering from an infection. Which immunity category applies?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Naturally acquired passive immunity
-- **B.** Innate physical barrier only
+- **A.** Artificial passive immunity
+- **B.** Innate immunity only
 - **C.** Naturally acquired active immunity
-- **D.** Artificial passive immunity
+- **D.** Naturally acquired passive immunity
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **Correct answer: C. Naturally acquired active immunity**
 
-**Kyun sahi hai:** Patient ka immune system natural infection ke baad own response develop karta hai.
+**Kyun sahi hai:** Host khud antigen-specific response generate karta hai. Protection duration infection-specific hoti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Natural passive maternal antibodies jaise transfer se milti hai.
-- **B.** Physical barrier antigen-specific memory response nahi hai.
-- **D.** Artificial passive mein ready antibodies administer hote hain.
+- **A.** Administered antibodies example hain.
+- **B.** Antigen-specific response develop ho sakta hai.
+- **D.** Maternal antibody transfer example hai.
 
 </details>
 
-### Q36. A newborn receives maternal antibodies through the placenta. Which broad immunity type is represented?
+### Q35. A newborn receives maternal antibodies across the placenta. Which immune category applies?
 
 **Difficulty:** Medium | **Priority:** High
 
-- **A.** Innate phagocytic immunity
+- **A.** Innate immunity only
 - **B.** Naturally acquired passive immunity
 - **C.** Artificial active immunity
-- **D.** Naturally acquired active immunity
+- **D.** Natural active immunity
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
 **Correct answer: B. Naturally acquired passive immunity**
 
-**Kyun sahi hai:** Maternal antibodies newborn ko ready-made protection deti hain. Ye gradually decrease hoti hai.
+**Kyun sahi hai:** Maternal ready-made antibody temporary protection provide kar sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Phagocytosis separate innate mechanism hai.
-- **C.** Artificial active vaccine-induced response hai.
-- **D.** Newborn ka own antigen response yahan required nahi hai.
+- **A.** Transferred antibody adaptive origin ki hai.
+- **C.** Vaccination example hai.
+- **D.** Infant khud response generate karta hai.
 
 </details>
 
-### Q37. A clinician administers pathogen-specific immunoglobulin after exposure. Why may protection be rapid?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** The pathogen is converted into a vaccine
-- **B.** Preformed antibodies are supplied directly
-- **C.** New memory cells must first mature for several weeks
-- **D.** All neutrophils become B cells
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: B. Preformed antibodies are supplied directly**
-
-**Kyun sahi hai:** Ready antibodies immediately available ho sakti hain, lekin protection usually temporary hoti hai.
-
-**Baaki options kyun galat hain?**
-
-- **A.** Pathogen conversion required nahi hai.
-- **C.** Memory maturation passive protection ke liye necessary nahi hai.
-- **D.** Neutrophils B cells mein convert nahi hote.
-
-</details>
-
-### Q38. A patient receiving immunosuppressive therapy has no fever but new confusion and hypotension. What is the best nursing response?
+### Q36. An exposed patient receives a prescribed pathogen-specific immunoglobulin. What distinguishes this from vaccination?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Urgently assess and escalate possible severe infection
-- **B.** Exclude infection because fever is absent
-- **C.** Wait for an antibody titer before checking vital signs
-- **D.** Administer a vaccine as emergency sepsis treatment
+- **A.** Immediate passive protection without recipient-generated immune memory from the antibodies themselves
+- **B.** Delayed active response is the only effect
+- **C.** It always replaces indicated vaccine
+- **D.** Protection is necessarily lifelong
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. Urgently assess and escalate possible severe infection**
+**Correct answer: A. Immediate passive protection without recipient-generated immune memory from the antibodies themselves**
 
-**Kyun sahi hai:** Immunosuppressed patient fever ke bina bhi severe infection develop kar sakta hai. ABC aur urgent escalation priority hain.
-
-**Baaki options kyun galat hain?**
-
-- **B.** Fever absence infection rule out nahi karti.
-- **C.** Titer ke liye emergency assessment delay nahi karni chahiye.
-- **D.** Vaccine acute sepsis treatment nahi hai.
-
-</details>
-
-### Q39. A vaccine-preventable respiratory infection has reduced circulation in a highly immunized community. What is the indirect effect on susceptible persons called?
-
-**Difficulty:** Medium | **Priority:** High
-
-- **A.** Individual passive immunoglobulin therapy
-- **B.** Universal sterilizing immunity in every resident
-- **C.** Innate phagocytosis
-- **D.** Herd protection
-
-<details><summary>Sahi answer aur explanation dekho</summary>
-
-**Correct answer: D. Herd protection**
-
-**Kyun sahi hai:** Transmission kam hone se susceptible persons ko indirect protection mil sakti hai. Ye pathogen aur vaccine properties par depend karti hai.
+**Kyun sahi hai:** Passive immunization ready-made antibodies provide karti hai. Active vaccine response different hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Immunoglobulin individual passive protection hai.
-- **B.** Har resident ki complete immunity guaranteed nahi hai.
-- **C.** Phagocytosis cellular defense hai.
+- **B.** Preformed antibodies immediate action de sakti hain.
+- **C.** Both may be needed.
+- **D.** Passive antibodies degrade hoti hain.
 
 </details>
 
-### Q40. A nurse explains why innate and adaptive defenses cooperate rather than operate independently. Which example is most appropriate?
+### Q37. A young infant has persistent thrush, chronic diarrhea and severe recurrent infections. What should the nurse consider?
 
 **Difficulty:** Difficult | **Priority:** High
 
-- **A.** Antibodies replace all epithelial barriers
-- **B.** T cells synthesize bacterial peptidoglycan
-- **C.** Dendritic cells activate T cells after innate antigen capture
-- **D.** RBCs develop antigen-specific memory after every infection
+- **A.** Routine food allergy alone
+- **B.** Immediate live vaccination without evaluation
+- **C.** Possible combined immunodeficiency requiring urgent assessment
+- **D.** Normal immune development without concern
 
-<details><summary>Sahi answer aur explanation dekho</summary>
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: C. Dendritic cells activate T cells after innate antigen capture**
+**Correct answer: C. Possible combined immunodeficiency requiring urgent assessment**
 
-**Kyun sahi hai:** Dendritic cells innate recognition ke baad antigen presentation aur costimulation se adaptive response initiate kar sakti hain.
+**Kyun sahi hai:** Combined defects cellular and humoral immunity affect kar sakte hain. Specialist referral important hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Antibodies barriers ka complete replacement nahi hain.
-- **B.** T cells bacterial wall synthesize nahi karte.
-- **D.** RBC adaptive memory nahi banate.
+- **A.** Serious infection risk assess karna hai.
+- **B.** Immunodeficiency mein live vaccines unsafe ho sakti hain.
+- **D.** Persistent severe symptoms concerning hain.
 
 </details>
 
-## References
-[OpenStax innate defense](https://openstax.org/books/biology-2e/pages/42-1-innate-immune-response) · [Adaptive immunity](https://openstax.org/books/microbiology/pages/18-1-overview-of-specific-adaptive-immunity) · [MHC and APCs](https://openstax.org/books/microbiology/pages/18-2-major-histocompatibility-complexes-and-antigen-presenting-cells) · [T lymphocytes](https://openstax.org/books/microbiology/pages/18-3-t-lymphocytes-and-cellular-immunity) · [B lymphocytes](https://openstax.org/books/microbiology/pages/18-4-b-lymphocytes-and-humoral-immunity)
+### Q38. A patient after splenectomy develops fever and rigors. Why is prompt evaluation critical?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** Fever is always harmless after splenectomy
+- **B.** Risk of rapidly progressive infection with encapsulated bacteria
+- **C.** Splenectomy eliminates all infection risk
+- **D.** Spleen only controls insulin
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Risk of rapidly progressive infection with encapsulated bacteria**
+
+**Kyun sahi hai:** Splenic clearance of opsonized bacteria impaired ho sakti hai. Fever emergency plan follow karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Severe infection possible hai.
+- **C.** Risk increase ho sakta hai.
+- **D.** Immune and filtration roles hain.
+
+</details>
+
+### Q39. A patient has a high CRP result but no identified pathogen. What interpretation is correct?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** CRP indicates inflammation and is not organism-specific
+- **B.** CRP proves a particular bacterial species
+- **C.** CRP alone excludes viral infection
+- **D.** CRP measures antibody class switching
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: A. CRP indicates inflammation and is not organism-specific**
+
+**Kyun sahi hai:** CRP inflammation trend support karta hai. Clinical and microbiological evidence integrate karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Specific organism identification nahi hoti.
+- **C.** Viral inflammation bhi possible hai.
+- **D.** Acute phase marker hai.
+
+</details>
+
+### Q40. Why can an older patient with serious infection have little fever?
+
+**Difficulty:** Difficult | **Priority:** High
+
+- **A.** Absence of fever rules out infection
+- **B.** All older adults have sterile blood
+- **C.** Age guarantees lifelong adaptive immunity
+- **D.** Immune and thermoregulatory responses may be blunted
+
+<details><summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. Immune and thermoregulatory responses may be blunted**
+
+**Kyun sahi hai:** New confusion, tachypnea, poor perfusion or functional decline important warning signs hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Older adults atypical present kar sakte hain.
+- **B.** Infection possible hai.
+- **C.** Immunosenescence risk badha sakti hai.
+
+</details>
+

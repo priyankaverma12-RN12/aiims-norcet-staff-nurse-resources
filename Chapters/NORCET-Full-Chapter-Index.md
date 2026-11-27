@@ -254,3 +254,8 @@ Two additional distinct reported recruitment adaptations (HPSSC 2021 incubation 
 ### Evidence reconciliation — protozoa and helminths
 
 Current chapter inventory verified at 800 question slots across 20/30 topic groups, 366 Medium and 434 Difficult, 45 distinct source-linked reported recruitment adaptations and two academic adaptations. Two malaria PYQ variants from overlapping concurrent work preserved but counted zero additional. UPPSC Staff Nurse 10 April 2022 helminth source opened and promoted from provisional to third-party reported evidence. Added three indexed learning/practice resources across protozoa and helminths and clinical source references. Chapter mocks 0/10, global tracked mocks 17/350 subject to inventory reconciliation. Next: innate and adaptive immunity. Full video playback, official keys, individual-topic expansion and semantic duplicate audit remain pending.
+
+
+### Continuation — innate/adaptive immunity and antibody/complement/hypersensitivity
+
+80 original MCQs across two sequential topic banks, two detailed concept guides and diagrams, two source-linked DSSSB adaptations and indexed NORCET leads, dedicated immunity practice and concept video. Total 880 across 22/30 groups, 47 reported and two academic adaptations. Official keys, video playback, dedicated subtopic coverage and cross-bank semantic audit pending. Next: vaccination, cold chain and passive immunization. Chapter mocks 0/10. Global tracked 17/350 pending reconciliation.

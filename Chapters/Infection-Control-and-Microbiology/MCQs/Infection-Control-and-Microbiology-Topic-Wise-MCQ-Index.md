@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 800 new original MCQs in twenty topic files.** 366 Medium and 434 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 880 new original MCQs in twenty-two topic files.** 403 Medium and 477 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -24,8 +24,8 @@
 | 18. [Medical mycology and opportunistic fungi](18-Medical-Mycology-and-Opportunistic-Fungi-40-MCQs.md) | 40 |
 | 19. [Protozoa and malaria](19-Protozoa-and-Malaria-40-MCQs.md) | 40 |
 | 20. [Helminths and intestinal parasites](20-Helminths-and-Intestinal-Parasites-40-MCQs.md) | 40 |
-| 21. Innate and adaptive immunity | 0 |
-| 22. Immunoglobulins, complement and hypersensitivity | 0 |
+| 21. [Innate and adaptive immunity](21-Innate-and-Adaptive-Immunity-40-MCQs.md) | 40 |
+| 22. [Immunoglobulins, complement and hypersensitivity](22-Immunoglobulins-Complement-and-Hypersensitivity-40-MCQs.md) | 40 |
 | 23. Vaccination, cold chain and passive immunization | 0 |
 | 24. Specimen collection and diagnostic microbiology | 0 |
 | 25. Antimicrobial resistance and stewardship | 0 |
