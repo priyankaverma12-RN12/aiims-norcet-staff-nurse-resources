@@ -4,7 +4,9 @@
 
 ### Q1. A stable patient has localized abdominal tenderness. Which palpation sequence is appropriate?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Painful area first with deep pressure
 B. Nontender regions first and tender region last
@@ -23,11 +25,17 @@ D. Omit all regions
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. Which preparation improves visual comparison of both shoulders?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Good lighting and limited appropriate exposure
 B. Thick blanket over shoulders
@@ -46,11 +54,17 @@ D. View one shoulder only
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A capable patient asks the nurse to stop an examination due to discomfort. What is appropriate?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Finish first
 B. Ask a relative to override the request
@@ -69,11 +83,17 @@ D. Record refusal without discussion
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. Which technique best evaluates a small superficial lump by touch?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Deep percussion
 B. Bell auscultation
@@ -92,11 +112,17 @@ D. Gentle palpation with finger pads
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. Which approach improves comparative chest auscultation?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Listen through clothing on one side
 B. Compare corresponding sites on bare skin
@@ -115,11 +141,17 @@ D. Move stethoscope while patient speaks
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A patient reports discomfort from a cold stethoscope chest piece. What should the nurse do?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Warm the chest piece in the hand
 B. Press it harder
@@ -138,11 +170,17 @@ D. Ignore the concern
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. How should the traditional stethoscope bell be used to hear low-frequency cardiac sounds?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Press firmly until skin is taut
 B. Use diaphragm over thick clothing
@@ -161,11 +199,17 @@ D. Hold bell above skin
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. Which percussion note is generally expected over normally aerated lung?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **🟣 NVS Staff Nurse 2022 — related concept**
+<!-- /job4-metadata -->
 
 A. Flatness
 B. Dullness
@@ -184,11 +228,19 @@ D. Resonance
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [NVS Staff Nurse, 8 March 2022](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a) — percussion principle, retrieved reported question; not exact stem or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A previously resonant chest region now sounds dull on percussion. Which interpretation is appropriate?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **🟣 NVS Staff Nurse 2022 — related concept**
+<!-- /job4-metadata -->
 
 A. Pneumonia is definitively proven
 B. Correlate the new finding with other clinical data
@@ -207,11 +259,19 @@ D. Pneumothorax is proven
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [NVS Staff Nurse, 8 March 2022](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a) — percussion principle, retrieved reported question; not exact stem or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A bowel sound is heard at one abdominal site. Which documentation is justified?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Bowel sound heard at examined site
 B. Normal bowel function proven
@@ -230,11 +290,17 @@ D. All quadrants assessed
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A postoperative patient has increasing abdominal distension and nausea. No bowel sound is heard during brief initial listening. What is best?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Diagnose ileus immediately
 B. Give an unprescribed laxative
@@ -253,11 +319,17 @@ D. Wait until next shift
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A depression remains after gentle pressure over a swollen shin. What is this finding?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Abrasion
 B. Muscle spasm
@@ -276,11 +348,17 @@ D. Pitting edema
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. An older adult has reduced skin elasticity and dry oral mucosa. How should hydration be assessed?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Use turgor alone to grade dehydration
 B. Integrate intake, output, mucosa, vital signs and other findings
@@ -299,11 +377,17 @@ D. Use hand elasticity as the only test
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. Why examine the oral mucosa and sclera when assessing color changes?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. They provide additional visual clues across different skin tones
 B. They eliminate circulation assessment
@@ -322,11 +406,17 @@ D. They identify every cause of discoloration
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A stable patient's cool hand has delayed capillary refill after cold exposure. What is the best interpretation?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Shock is confirmed
 B. Normal circulation is proven
@@ -345,11 +435,17 @@ D. Ignore refill regardless of symptoms
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. The right pupil constricts when light is directed into the right eye. Which response is observed?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Accommodation only
 B. Corneal reflex
@@ -368,11 +464,17 @@ D. Direct pupillary light response
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A patient develops new unilateral facial droop and slurred speech during assessment. What is the priority?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Finish routine exam
 B. Activate urgent stroke or emergency response according to protocol
@@ -391,11 +493,17 @@ D. Let the patient sleep
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. How should upper-limb strength be compared?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Same safe movement against comparable resistance on each side
 B. Test dominant arm only
@@ -414,11 +522,17 @@ D. Measure circumference only
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient reports numbness in one foot. Which initial sensory test approach is best?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Different stimuli on each foot
 B. Tell the expected response in advance
@@ -437,11 +551,17 @@ D. Break skin with a sharp tool
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient reports dizziness on standing before gait assessment. What is safest?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Walk independently
 B. Test on slippery surface
@@ -460,11 +580,17 @@ D. Assess stability first and assist or defer walking
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. One lower leg looks different from the other. Which initial comparison is clinically useful?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Color, swelling, warmth and location of change
 B. Shoe size alone
@@ -483,11 +609,17 @@ D. Bed linen color
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A patient has new unilateral calf swelling and tenderness. Which examination action should be avoided?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Document swelling location
 B. Forcefully dorsiflex the foot to elicit pain as a diagnostic test
@@ -506,11 +638,17 @@ D. Escalate for appropriate evaluation
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A patient cannot sit upright for posterior chest assessment. What should the nurse do?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Record normal posterior sounds without listening
 B. Insist on unsupported sitting
@@ -529,11 +667,17 @@ D. Omit every respiratory observation
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Health Assessment & Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description lists IPPA and heart/lung/abdominal assessment; broad topic-level mapping, specific question/playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A new pulsatile abdominal mass is noted during gentle assessment. What is safest?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Repeat deep palpation
 B. Ask for vigorous abdominal exercise
@@ -552,11 +696,17 @@ D. Avoid further deep pressure and seek prompt evaluation
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. Which entry objectively describes an examination finding?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Left ankle visibly swollen compared with right, skin intact
 B. Patient definitely has heart failure
@@ -575,11 +725,17 @@ D. Patient is exaggerating
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. A patient becomes suddenly unresponsive during a routine examination. What takes priority?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Finish skin assessment
 B. Assess responsiveness and breathing immediately and activate emergency response as indicated
@@ -598,11 +754,17 @@ D. Continue routine without help
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q27. Two nurses describe the same edema differently. What improves serial comparison?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Nursing assessment | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Nursing assessment · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Use the more severe description
 B. Avoid documenting until discharge
@@ -621,6 +783,10 @@ D. Replace both observations with a diagnosis
 
 [Concept](../Concepts/03E-Physical-Examination.md) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK593191/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific assessment scenario not established; the general IPPA resource below remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ## Video mapping and evidence limitations
