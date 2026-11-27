@@ -278,7 +278,7 @@ Cheyne–Stokes mein ventilation cyclically build up aur decrease hoti hai, jisk
 ### Q8. A patient with severe metabolic acidosis has unusually deep sustained respirations. Which traditional description fits?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSSB Staff Nurse October 2020 — related concept**
 <!-- /job4-metadata -->
 
 - **A.** Quiet eupnea
@@ -306,7 +306,7 @@ Severe metabolic acidosis mein body arterial CO2 reduce karke pH disturbance par
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
-**Exam evidence:** ⚪ Original practice; historical match not established.
+**Exam evidence:** Original practice. 🟣 Related tested concept only — [HPSSSB Staff Nurse October 2020](https://testbook.com/question-answer/kussmauls-breathing-is-associated-with--61b99eda908510dedf5de332) — Kussmaul breathing association with DKA, publisher key option 2. Third-party reported source directly retrieved, not an exact match or independently authenticated official key.
 
 **▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
 
@@ -317,7 +317,7 @@ Severe metabolic acidosis mein body arterial CO2 reduce karke pH disturbance par
 ### Q9. A nurse observes clusters of breaths separated by irregular apneic pauses without the gradual crescendo and decrescendo pattern. Which traditional label is most consistent?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 DSSSB Nursing Officer 2019 · Shift III — related concept**
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 DSSSB Nursing Officer 2019 · Shift III — related concept** · **🟣 AIIMS Raipur Nursing Officer 31 August 2019 Shift I (memory-based) — related concept**
 <!-- /job4-metadata -->
 
 - **A.** Biot-type or cluster breathing
@@ -345,7 +345,7 @@ Traditional nursing exam terminology mein Biot-type ya cluster breathing irregul
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
-**Exam evidence:** [DSSSB Nursing Officer 2019 · Shift III](https://testbook.com/question-answer/what-is-biots-respiration--615ffeda0c98a2dcd2b708f9) — cluster breathing with apneic pauses; third-party report retrieved, not exact stem or authenticated key.
+**Exam evidence:** [DSSSB Nursing Officer 2019 · Shift III](https://testbook.com/question-answer/what-is-biots-respiration--615ffeda0c98a2dcd2b708f9) — cluster breathing with apneic pauses; third-party report retrieved, not exact stem or authenticated key. [AIIMS Raipur Nursing Officer 31 August 2019 Shift I (memory-based)](https://testbook.com/question-answer/respiration-which-is-abnormally-shallow-for-two-or--62541c43c6526617de142030) — Biot-type pattern recognition, publisher key option 2. Third-party reported source directly retrieved, not an exact match or independently authenticated official key.
 
 **▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
 
@@ -686,8 +686,8 @@ Stridor harsh high-pitched airway sound hai, often inspiration par prominent. Ne
 **Option-by-option reasoning**
 
 - **A:** Discharge teaching airway emergency se lower priority hai.
-- **B:** Quiet normal breathing mein new stridor expected nahi.
-- **C:** Upper-airway narrowing urgent concern hai.
+- **B:** Upper-airway narrowing urgent concern hai.
+- **C:** Quiet normal breathing mein new stridor expected nahi.
 - **D:** Lower-airway secretions alone assume karna unsupported hai.
 
 **Exam clue:** New stridor = urgent airway assessment.
