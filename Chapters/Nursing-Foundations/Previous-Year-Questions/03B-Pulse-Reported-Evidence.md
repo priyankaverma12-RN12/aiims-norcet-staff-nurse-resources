@@ -13,8 +13,24 @@ Which anatomical landmark usually corresponds to the adult cardiac apical impuls
 
 <details><summary>Answer and explanation</summary>
 
-**C.** Usual adult apex left fifth intercostal space near MCL hai. A and B are more superior cardiac auscultation areas, D not usual apex. Individual anatomy can vary. Palpation of PMI and auscultation of apical rate are related but different. [Retrieved question page](https://testbook.com/question-answer/as-part-of-cardiac-assessment-to-palpate-th--685baa2301bacc852687a084).
+**Correct answer: C. Left fifth intercostal space near the midclavicular line**
 
+<!-- job5-rationale -->
+Adult cardiac apex commonly left fifth intercostal space near midclavicular line par chest wall ke close hota hai. PMI palpation mein localized ventricular impulse feel karte hain, jabki apical pulse auscultation mein stethoscope se heartbeats count karte hain. Dono related anatomical areas use kar sakte hain but assessment technique different hai. Body position, chest anatomy aur cardiac enlargement location change kar sakte hain. Unexpected displaced impulse ko clinical context mein report karo.
+
+**Option-by-option reasoning**
+
+- **A:** Left second intercostal space parasternal area pulmonic auscultation site hai, usual apex nahi.
+- **B:** Right second intercostal space parasternal area aortic auscultation site hai.
+- **C:** Left fifth intercostal space near MCL usual adult apex hai, isliye C correct hai.
+- **D:** Epigastric pulsation abdominal aorta ya transmitted impulse se related ho sakti hai, usual apex landmark nahi.
+
+**Exam clue:** Adult apex = left fifth ICS, MCL. Palpated PMI and auscultated apical rate are distinct.
+
+[Clinical concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
+
+**Source recheck:** Publisher source directly rechecked 27 November 2026: SGPGI Staff Nurse 28 February 2024 Shift I, source key option 1, adapted key C. Official paper/key not authenticated. [Retrieved question page](https://testbook.com/question-answer/as-part-of-cardiac-assessment-to-palpate-th--685baa2301bacc852687a084)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **▶️ [YouTube MCQ practice — Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists apical pulse location; topic-level practice, specific item and playback pending.
