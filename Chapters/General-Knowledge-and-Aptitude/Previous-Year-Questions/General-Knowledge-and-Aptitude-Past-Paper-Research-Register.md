@@ -64,3 +64,7 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [Number and alphabet series evidence](19-Number-and-Alphabet-Series-Reported-Evidence.md): one directly retrieved JIPMER Staff Nurse 23 February 2020 report, independently solved adaptation. Additional alphabet series leads pending.
 
 [Coding and decoding evidence](20-Coding-and-Decoding-Reported-Evidence.md): two directly retrieved reported adaptations, SGPGI Staff Nurse 28 February 2024 shift 1 and DSSSB Nursing Officer 27 August 2019 shift 3. Separate DSSSB 28 August 2019 shift 3 digit-code report has inconsistent straightforward mapping and unavailable source diagrams, excluded. Official keys not authenticated. Chapter total forty-one counted reported families and forty-three solved adaptations. Nine earlier excluded solved items and unverified research leads remain outside counted totals.
+
+[Analogy evidence](21-Analogy-Reported-Evidence.md): indexed ESIC 2016, SGPGI and MPESB leads recorded but not counted, direct historical question retrieval unsuccessful. No new counted adaptation.
+
+[Classification evidence](22-Classification-Reported-Evidence.md): one directly retrieved AIIMS Nagpur Nursing Officer 2020 memory-based regional classification report independently adapted, visible blue provenance label, no authenticated exact official item. Other image-based or inaccessible reports reserved. Chapter total forty-two counted reported families and forty-four counted solved adaptations. Nine earlier excluded solved items and new unverified leads remain outside totals.
