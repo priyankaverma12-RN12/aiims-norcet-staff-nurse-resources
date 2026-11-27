@@ -1,10 +1,9 @@
 # Job 5 — deep explanation and answer audit
 
-State: CLAIMED
-Owner: job5-group01-readonly-20261127
-Scope: Group 01 Q1–20 read-only audit and Job 5 draft only, no chapter writes
-Claimed UTC: 2026-11-27T04:45:40.598Z
-Expiry UTC: 2026-11-27T05:15:40.598Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
@@ -12,3 +11,6 @@ Audit each existing MCQ, mock slot, PYQ and embedded extra MCQ. Keep English ste
 
 ## Initial checkpoint — 2026-11-27
 Zero questions audited by Job 5. Start Chapters/Nursing-Foundations/MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md Q1. Forward claim active until 05:06:59 UTC and reverse claim active until 05:09:30 UTC at initial inspection. Chapter-wide single writer rule prevents edits to Nursing Foundations now. No learner content changed. Job 3 respiratory checkpoint and Job 4 foundation metadata checkpoint observed. Five-minute ChatGPT recurrence unavailable (minimum one hour); no automation created without revised cadence.
+
+## Run 1 — 27 November 2026
+20 existing Group 01 questions Q1–20 inspected at source blob 5ce6762a10c75c1d309c0ad04be6d8866629b359. All 20 keys supported by the stems/options. Expanded 20 full Hinglish rationale drafts with four individual option reasons, exam clue and clinical/nursing reference, saved separately in [Job 5 draft](job5-drafts/Nursing-Foundations-Group-01-Q01-20.md). Commit de1901c396a09d0887770426a5c60c1d1ba0002a, blob 4a7db8eab3f3f6201224d521b615983470fdf18d. Exact readback and 20 details blocks verified. Zero learner-facing edits and zero new original MCQs. Job 2 claim free at inspection, Job 4 actively claimed group 02 of same chapter, so single-writer rule applied conservatively. Job 1 active GK scope, Job 3 free with respiratory next scope. Root and canonical rules, AGENTS, Copilot, reverse checkpoint and audit learning files fetched; key coordination passages examined, complete line-by-line review not certified. Official HPRCA listing search identified codes 26044, 25026 and 26004, three recent candidate cycles, full chronology and actual papers/keys pending. No authenticated exact PYQ or video playback. Existing labels and mapped links untouched. Next run: re-fetch all claims, merge drafted Q1–20 only if safe and unchanged keys/stems/options, verify reference URLs and preserve all Job 4 metadata. Then group 01A. No chapter certified complete. Claim released. Hourly task unchanged.
