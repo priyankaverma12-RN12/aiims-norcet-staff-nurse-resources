@@ -56,7 +56,8 @@ Tonsil ki surgery ke baad blood throat mein ja sakta hai aur child baar-baar swa
 | Retinopathy of prematurity | [Hinglish concepts and two original diagrams](Retinopathy-of-Prematurity-Concepts.md) · [30 original MCQs](../MCQs/Retinopathy-of-Prematurity-30-MCQs.md) · [JIPMER 2020 reported adaptation and evidence gaps](../Previous-Year-Questions/Retinopathy-of-Prematurity-Exam-Evidence.md). Minimum original count reached. Indian guideline versions distinguished. Historical credit reconciliation and exact video mapping pending. |
 | Other retinal disorders | Retinal topic expansion above published; independent audit and missing evidence still pending. |
 | Conjunctivitis | [Detailed Hinglish concepts](Conjunctivitis-Concepts.md) · [30 original MCQs](../MCQs/Conjunctivitis-30-MCQs.md) · [NORCET 7 reported concept adaptation and gaps](../Previous-Year-Questions/Conjunctivitis-Exam-Evidence.md). Includes viral, bacterial, allergic, neonatal and infection-control care, one original diagram. Minimum original count reached. |
-| Keratitis, corneal ulcer, stye, blepharitis, trachoma | Next: keratitis and corneal ulcer. |
+| Keratitis | [Detailed Hinglish concepts and original schematic](Keratitis-Concepts.md) · [30 original MCQs](../MCQs/Keratitis-30-MCQs.md) · [Exam evidence](../Previous-Year-Questions/Keratitis-Exam-Evidence.md). Etiology and differential treatment covered. Minimum question count reached. |
+| Corneal ulcer, stye, chalazion, blepharitis, trachoma | Next: corneal ulcer, then lid disorders. |
 | Eye emergencies, chemical exposure, penetrating injury, foreign bodies, medicines and perioperative nursing | Pending. |
 | Ear anatomy, hearing and balance, Rinne, Weber, audiometry | Pending. |
 | Cerumen, otitis externa/media, perforation, mastoiditis, otosclerosis, hearing loss, tinnitus, vertigo, Ménière disease | Pending. |
