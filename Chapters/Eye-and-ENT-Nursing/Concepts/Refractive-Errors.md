@@ -299,6 +299,102 @@ Contact lens handle karne se pehle hands wash aur dry karo. Lenses ko water se r
 
 Refractive surgery cornea ki optical shape change kar sakti hai. LASIK har patient ke liye suitable nahi hai aur age-related accommodation automatically restore nahi karta. Preoperative evaluation, prescribed eye drops, postoperative precautions aur red flags ka education treating team ke protocol ke hisaab se hota hai.
 
+
+## Expanded refractive optics
+
+[26 additional original MCQs](../MCQs/Refractive-Optics-Additional-26-MCQs.md) + earlier integrated Q24–27 = 30 allocated optics questions. Basic optics and specialist instrument calculations are enrichment, especially for RRB general science. They are not instructions for independently prescribing glasses.
+
+### Optics refraction
+
+**🟠 HIGH YIELD**
+
+Light ki speed different transparent media mein different hoti hai. Refractive index n = c/v hota hai. Yahan c vacuum mein speed aur v medium mein speed hai. Example: c = 3 × 10^8 m/s aur v = 2 × 10^8 m/s toh n = 1.5. Index ki unit nahi hoti. Oblique ray higher index medium mein jaaye toh normal ki taraf bend karti hai. Normal incidence par direction change zaroori nahi hai. Air-cornea interface par significant focusing hoti hai. Water mein cornea aur surrounding medium ke index ka difference kam ho jaata hai, isliye underwater unaided vision blur ho sakti hai.
+
+Lens material different wavelengths ko slightly different amounts bend kar sakta hai. Ise chromatic aberration kehte hain. Coloured fringes optics ki wajah se ho sakti hain, lekin new unexplained visual symptoms ka clinical assessment zaroori hai.
+
+### Optics image formation
+
+**🟠 HIGH YIELD — RRB physics enrichment**
+
+Ideal thin-lens model mein real object distance d_o positive rakho. Real image opposite side par banti hai toh d_i positive hai. Virtual image object side par ho toh d_i negative hai. Converging lens f positive aur diverging lens f negative hota hai. Formula 1/f = 1/d_o + 1/d_i hai. Ye sign convention NCERT Cartesian convention se different notation use karta hai, jahan u negative hota hai aur formula 1/f = 1/v − 1/u hota hai. Dono convention ko mix mat karo.
+
+Example: f = +10 cm, object 20 cm door. 1/d_i = 1/10 − 1/20 = 1/20. Real image +20 cm par banegi. Magnification m = −d_i/d_o = −1. Minus sign inverted aur magnitude 1 equal size batata hai. Image height signed ho toh m = h_i/h_o bhi use kar sakte hain. Real image screen par capture ho sakti hai, virtual image apparent location par direct screen capture nahi hoti.
+
+![Original ideal convex lens image at twice focal length](../Assets/refractive-thin-lens-ray.svg)
+
+Object focal point par ho toh emergent axial rays parallel hoti hain. Convex lens ke andar focal distance se closer object virtual upright magnified image de sakta hai. Eye ka reduced optical model real inverted retinal image banata hai, brain visual signals process karta hai.
+
+### Optics combined power
+
+**🟡 IMPORTANT — numerical enrichment**
+
+Ideal thin lenses in contact ki powers algebraically add hoti hain. P_total = P1 + P2. Focal lengths ko directly add nahi karte. Example: +4 D aur −1.5 D = +2.5 D. Equivalent focal length 1/2.5 = +0.40 m. Equal opposite powers ideally zero net power deti hain. Real separated or thick lenses ke liye additional optics factors matter karte hain.
+
+### Optics prism and fitting
+
+**🟠 HIGH YIELD**
+
+Prism light ki direction change karta hai aur selected binocular alignment problems mein useful ho sakta hai. Prism diopter spherical diopter se different hai. Ek prism diopter ka matlab 1 metre reference plane par 1 cm displacement hai. Prentice rule mein induced prism magnitude = decentration in cm × lens power magnitude in diopters. Example: 4 mm = 0.4 cm, +5 D lens par 0.4 × 5 = 2 prism diopters. Ye simplified spherical case hai. Base direction aur cylinder calculation specialist decide karta hai.
+
+Interpupillary distance pupils ke beech spacing hai. Proper optical centration unwanted prism reduce karne mein help karti hai. Lensmeter existing spectacles ka sphere, cylinder, axis aur prism verify karta hai, eye ka new refraction nahi karta. Vertex distance spectacle lens aur cornea ke beech distance hai. High-power lens mein fit change se corneal plane par effective optical power change ho sakti hai. Aniseikonia ka matlab dono eyes ke perceived image sizes different hona hai. Marked prescription difference ya retinal causes mein ho sakti hai. Persistent double vision ya poor adaptation mein assessment chahiye.
+
+### Optics refraction tools
+
+**🟠 HIGH YIELD**
+
+Retinoscopy aur autorefraction objective estimates provide karte hain. Subjective refraction patient ke clarity responses ke basis par correction refine karti hai. Accommodation aur ocular health final prescription influence karte hain. Autorefractor printout ko bina review final prescription assume mat karo.
+
+Static retinoscopy numerical example: working distance 50 cm = 0.50 m, working-distance power 2 D hai. Gross neutrality +3 D ho toh net +3 − 2 = +1 D under stated assumptions. Procedure trained eye-care clinician karta hai.
+
+### Optics teaching and MCQ resources
+
+- Teaching: [Numericals based on Lens Formula, Vibhuti Ma'am — class 10 physics](https://www.youtube.com/watch?v=iM5EZMZvOCQ). Indexed description confirms lens numericals, not nursing clinical content.
+- MCQ practice: [Light reflection and refraction MCQ/PYQ — Railway general science](https://www.youtube.com/watch?v=9GcegrftvsE). Indexed description lists lens formula, diagrams and power. Q1–14 broad leads only. Creator and playback not independently checked. Q15–26 specific gaps. No invented timestamps.
+- [OpenStax thin lenses](https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses), [equations](https://openstax.org/books/university-physics-volume-3/pages/2-key-equations), [aberrations](https://openstax.org/books/college-physics/pages/26-6-aberrations), [lensometry](https://www.ncbi.nlm.nih.gov/books/NBK597365/), [prisms](https://www.ncbi.nlm.nih.gov/sites/books/NBK580488/), [retinoscopy](https://www.ncbi.nlm.nih.gov/books/NBK597373/) and [AAO aniseikonia](https://eyewiki.aao.org/Aniseikonia). Relevant indexed extracts checked.
+
+## Expanded refractive nursing
+
+[27 additional original MCQs](../MCQs/Refractive-Nursing-Additional-27-MCQs.md) + earlier integrated Q28–30 = 30 allocated originals. This bank covers distinct nursing care and community service applications rather than repeating disease-specific correction questions.
+
+### Nursing lens care
+
+**🔴 MOST IMPORTANT**
+
+Cleaning lens se deposits remove karne mein help karti hai. Disinfection harmful germs ko reduce ya kill karti hai. Saline rinse karne ke liye kuch care systems mein use hoti hai, lekin disinfect nahi karti. Daily cleaner alone disinfection ka replacement nahi hai. Prescribed reusable lens ke liye compatible care product, correct rub/rinse and storage instructions follow karo. Fresh solution use karo. Case ko recommended solution se rub aur rinse karo, clean tissue par upside down caps off dry karo. CDC conventional reusable case ko kam se kam har three months replace karne ki advice deta hai. Product-specific instructions follow karo.
+
+Hydrogen peroxide lens care system special neutralizing case mein use hota hai. Labeled neutralization time poora karna zaroori hai. Unneutralized peroxide ko eye mein directly apply nahi karna. Daily disposable lenses ko use ke baad discard karo. Travel mein backup glasses carry karna useful hai. Solution unavailable ho toh saliva ya water use mat karo. Damaged blister seal wali lens use mat karo. Decorative plano lenses bhi cornea touch karti hain, isliye professional fitting aur safety education important hai. Lens material ke hisaab se compatible solution verify karo.
+
+### Nursing lens complications
+
+**🔴 MOST IMPORTANT**
+
+Water exposure ke saath Acanthamoeba jaise organisms serious keratitis cause kar sakte hain. Bacterial aur fungal causes bhi possible hain. Painful red eye, photophobia aur new blur mein contacts remove karke urgent examination chahiye. Treating team culture ke liye lenses aur case preserve karne ko keh sakti hai. Lens reinsert mat karo. Unprescribed steroids infection ko worsen ya mask kar sakti hain. Treatment ke baad redness improve hone ka matlab complete healing nahi hai. Lens use restart sirf clinician clearance ke baad aur replacement instructions ke according karo. Chemical injury mein immediate irrigation priority hai, as covered in the assessment bank.
+
+### Nursing spectacle safety
+
+**🟠 HIGH YIELD**
+
+Contacts aur ordinary spectacles occupational impact protection ka substitute nahi hain. Work ya sport hazard ke hisaab se rated protective eyewear use karo. Child sports ke liye suitable impact-resistant prescription sports eyewear professional se fit karwao. Dispensing mein patient identity aur correct labeled prescription check karo. Scratched lens se glare aur blur ho sakta hai. Abrasive polishing ki jagah professional optical assessment karao. Prescription ghar par adjust mat karo.
+
+### Nursing community
+
+**🔴 MOST IMPORTANT**
+
+Screening diagnosis nahi hai. Unable-to-test result ko pass mark nahi karna. Age-appropriate chart, understandable instructions aur communication support provide karo. Repeat adapted assessment ya referral protocol follow karo. Referral slip dena treatment completion nahi hai. Transport barrier, cost, stigma aur availability assess karke practical referral pathway coordinate karo. Secure register mein individual result, referral, attendance aur follow-up record karo. Consent aur privacy policy follow karo.
+
+![Original community referral and follow-up diagram](../Assets/refractive-community-referral.svg)
+
+Programme example: 40 referred children mein se 30 attend karte hain. Referral completion = 30/40 × 100 = 75%. Total screened se divide karna different measure hai. WHO effective refractive error coverage (eREC) refractive need wale people mein adequate corrected vision outcome ka proportion assess karti hai. Simplified example: good outcome 60, inadequate correction 20, unmet need 20. eREC = 60/(60+20+20) × 100 = 60%. Actual indicator definition aur better-eye acuity criteria WHO manual ke hisaab se apply hote hain. WHO 2030 global target baseline se 40 percentage points increase hai, absolute 40% coverage ya achieved result nahi.
+
+India ka National Programme for Control of Blindness and Visual Impairment (NPCBVI) refractive errors ko comprehensive eye-care scope mein include karta hai. Detailed programme history, benefits, vitamin A aur community blindness prevention later chapter section mein cover honge. Is bank ke programme MCQs ko double count mat karo. School education aur respectful teacher/caregiver support spectacle stigma reduce karne mein help karte hain. Lower coverage areas mein barriers aur unmet need identify karo.
+
+### Nursing teaching and MCQ resources
+
+- Teaching: [CDC lens care instructions](https://www.cdc.gov/contact-lenses/about/about-cleaning-disinfecting-and-storing-contact-lenses.html), written clinical teaching. Dedicated nursing teaching video pending.
+- Dedicated nursing MCQ practice: no appropriately matched verified video found in search. Contact-lens materials MCQ video was indexed but not used for hygiene questions because topic mismatch. All 27 question-level video mappings pending.
+- [CDC prevention](https://www.cdc.gov/contact-lenses/prevention/index.html), [lens types](https://www.cdc.gov/contact-lenses/about/about-contact-lens-types.html), [FDA decorative lens safety](https://www.fda.gov/consumers/consumer-updates/colored-and-decorative-contact-lenses-prescription-must), [WHO screening handbook](https://www.who.int/publications/i/item/9789240082458), [eREC metadata](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3154), [WHO targets](https://www.who.int/activities/monitoring-and-surveillance-of-global-eye-care-targets), [DGHS NPCBVI](https://dghs.mohfw.gov.in/opthalmology-division.php). Direct CDC care, WHO handbook landing page and DGHS page retrieved. Other source extracts reviewed. No India-specific regulatory claim imported from FDA guidance.
+
+
 ## ▶️ Teaching aur MCQ practice
 
 | Topic | Teaching lead | Separate question-practice lead |
