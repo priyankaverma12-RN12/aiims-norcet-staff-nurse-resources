@@ -27,6 +27,20 @@
 
 ---
 
+### 🗺️ Step-by-step study sequence
+
+1. **Adrenal cortex and medulla** → hormones → functions
+2. **Addison vs Cushing** → symptoms → tests → treatment
+3. **Conn syndrome, pheochromocytoma and CAH**
+4. **Adrenal emergencies** → monitoring → nursing responsibilities
+
+> [!NOTE]
+> **⚡ Quick recall — exam-focused clues**
+>
+> - Cortex: GFR = salt, sugar, sex (glomerulosa, fasciculata, reticularis).
+> - Primary Addison: cortisol ↓, often aldosterone ↓; potassium may rise.
+> - Cushing: cortisol excess; adrenal crisis: urgent circulation support and prescribed steroid.
+
 ### Pehle bilkul basic se samjho
 
 - Dono kidneys ke upar ek-ek adrenal gland hoti hai. Iski bahar wali layer cortex aur andar wali layer medulla hai. Cortex ko Salt, Sugar, Sex trick se yaad karo.
@@ -53,7 +67,9 @@
 🔴 **MOST IMPORTANT:** Addison vs Cushing, adrenal crisis, aldosterone and potassium, pheochromocytoma (HP 2020 reported source).
 
 - Dono kidneys ke upar glands hoti hain. Bahar cortex, andar medulla.
-- Cortex: glomerulosa = aldosterone (salt), fasciculata = cortisol (sugar/stress), reticularis = androgens (sex). Trick: Salt, Sugar, Sex.
+- **Cortex:** glomerulosa = aldosterone (salt), fasciculata = cortisol (sugar/stress), reticularis = androgens (sex).
+  - **Trick:** Salt, Sugar, Sex.
+
 - Aldosterone sodium aur water retain karne mein help karta hai aur potassium excretion badhata hai.
 - Cortisol stress response, glucose regulation aur inflammation control mein role play karta hai.
 
@@ -66,14 +82,32 @@
 | Weight | Loss | Central weight gain |
 | Sodium/potassium | Low Na, high K possible | Variable. low K possible |
 
-- Addison mein ACTH high hota hai. secondary adrenal insufficiency mein skin ka rang gehra hona (hyperpigmentation) aur high potassium (hyperkalemia) usually nahi.
-- Adrenal crisis: severe hypotension, vomiting, weakness, confusion. Urgent ABC, IV hydrocortisone aur isotonic fluids per emergency protocol. glucose/electrolytes monitor.
-- Long-term steroids ko suddenly stop nahi karna. Dose doctor ke bataye plan se dheere-dheere kam karni hoti hai. Sick-day rules aur steroid emergency card important.
-- Cushing syndrome cortisol excess hai. Cushing disease specifically pituitary ACTH-secreting tumor. Steroid use common cause of Cushing syndrome.
-- Cushing nursing: infection, glucose, BP, fragile skin aur falls/fractures monitor.
-- Conn syndrome: primary aldosteronism. hypertension, low potassium ho sakta hai. Aldosterone-renin ratio screening.
-- Pheochromocytoma: catecholamine-producing tumor. episodic headache, sweating, palpitations, hypertension. Plasma free or urinary fractionated metanephrines. preoperative alpha blockade before beta blockade.
-- Congenital adrenal hyperplasia: commonly 21-hydroxylase deficiency. salt-wasting, androgen excess. Infant dehydration/shock emergency.
+- Addison mein ACTH high hota hai.
+  - secondary adrenal insufficiency mein skin ka rang gehra hona (hyperpigmentation) aur high potassium (hyperkalemia) usually nahi.
+
+- **Adrenal crisis:** severe hypotension, vomiting, weakness, confusion.
+  - Urgent ABC, IV hydrocortisone aur isotonic fluids per emergency protocol.
+  - glucose/electrolytes monitor.
+
+- Long-term steroids ko suddenly stop nahi karna.
+  - Dose doctor ke bataye plan se dheere-dheere kam karni hoti hai.
+  - Sick-day rules aur steroid emergency card important.
+
+- Cushing syndrome cortisol excess hai.
+  - Cushing disease specifically pituitary ACTH-secreting tumor.
+  - Steroid use common cause of Cushing syndrome.
+
+- **Cushing nursing:** infection, glucose, BP, fragile skin aur falls/fractures monitor.
+- **Conn syndrome:** primary aldosteronism. hypertension, low potassium ho sakta hai. Aldosterone-renin ratio screening.
+- **Pheochromocytoma:** catecholamine-producing tumor.
+  - episodic headache, sweating, palpitations, hypertension.
+  - Plasma free or urinary fractionated metanephrines.
+  - preoperative alpha blockade before beta blockade.
+
+- **Congenital adrenal hyperplasia:** commonly 21-hydroxylase deficiency.
+  - salt-wasting, androgen excess.
+  - Infant dehydration/shock emergency.
+
 
 ### Diagram — adrenal cortex outside to inside
 
@@ -94,55 +128,152 @@ flowchart TD
 | Cushing syndrome | Late-night salivary cortisol, 24-hour urinary free cortisol or overnight low-dose dexamethasone suppression, selected by clinician | Establish cortisol excess before localizing cause. surgery or cause-directed care. monitor infection and wound healing |
 
 ### 🔴 Addison disease and adrenal crisis
-- Check BP including orthostatic changes, pulse, weight, I/O, sodium, potassium, glucose, nausea/vomiting, weakness and infection. Support safe mobility, doctor ke order ki nutrition and hormone replacement. monitor fludrocortisone response if doctor ke order ki.
-- Teach never abruptly discontinue chronic glucocorticoids. patient ki zaroorat ke hisaab se sick-day dosing plan, medical alert/steroid card, emergency injection teaching for patient/family if doctor ke order ki. Vomiting preventing tablets or severe illness requires urgent care.
-- **Adrenal crisis:** hypotension/shock, vomiting, weakness or altered consciousness. ABC, activate emergency response, IV access, ordered immediate hydrocortisone and isotonic fluid resuscitation. glucose/dextrose and electrolytes as needed per protocol. Do not delay treatment while awaiting cortisol results.
+- Check BP including orthostatic changes, pulse, weight, I/O, sodium, potassium, glucose, nausea/vomiting, weakness and infection.
+  - Support safe mobility, doctor ke order ki nutrition and hormone replacement.
+  - monitor fludrocortisone response if doctor ke order ki.
+
+- Teach never abruptly discontinue chronic glucocorticoids.
+  - patient ki zaroorat ke hisaab se sick-day dosing plan, medical alert/steroid card, emergency injection teaching for patient/family if doctor ke order ki.
+  - Vomiting preventing tablets or severe illness requires urgent care.
+
+- **Adrenal crisis:** hypotension/shock, vomiting, weakness or altered consciousness.
+  - ABC, activate emergency response, IV access, ordered immediate hydrocortisone and isotonic fluid resuscitation.
+  - glucose/dextrose and electrolytes as needed per protocol.
+  - Do not delay treatment while awaiting cortisol results.
+
 
 - **Goal:** restored BP/organs tak blood pahunchna (perfusion), safe glucose and electrolytes.
 
 ### 🟠 Cushing syndrome, Conn syndrome and pheochromocytoma
-- **Cushing:** monitor BP, glucose, weight, edema, infection signs (may be subtle), skin bruising and wounds. Gentle handling/skin protection, fall and fracture prevention, appropriate nutrition, psychosocial support. Do not stop chronic steroids suddenly. After surgery monitor possible adrenal insufficiency.
-- **Conn:** monitor BP, K, renal function, ECG if indicated, weakness/cramps and response to doctor ke order ki mineralocorticoid antagonist or surgery. teach medicine and follow-up safety.
-- **Pheochromocytoma:** monitor BP/HR and headache/sweating/palpitations. minimize distress, avoid unnecessary abdominal tumor manipulation. Confirm doctor ke order ki alpha blockade before beta blockade. perioperative BP aur blood circulation se juda baar-baar check karna, post-op hypotension and hypoglycemia surveillance.
-- **CAH:** in infants monitor feeding, weight, vomiting, dehydration, glucose and electrolytes. suspected salt-wasting crisis requires emergency care. Teach caregiver medication/stress plan and follow-up.
+- **Cushing:** monitor BP, glucose, weight, edema, infection signs (may be subtle), skin bruising and wounds.
+  - Gentle handling/skin protection, fall and fracture prevention, appropriate nutrition, psychosocial support.
+  - Do not stop chronic steroids suddenly.
+  - After surgery monitor possible adrenal insufficiency.
+
+- **Conn:** monitor BP, K, renal function, ECG if indicated, weakness/cramps and response to doctor ke order ki mineralocorticoid antagonist or surgery.
+  - teach medicine and follow-up safety.
+
+- **Pheochromocytoma:** monitor BP/HR and headache/sweating/palpitations.
+  - minimize distress, avoid unnecessary abdominal tumor manipulation.
+  - Confirm doctor ke order ki alpha blockade before beta blockade.
+  - perioperative BP aur blood circulation se juda baar-baar check karna, post-op hypotension and hypoglycemia surveillance.
+
+- **CAH:** in infants monitor feeding, weight, vomiting, dehydration, glucose and electrolytes.
+  - suspected salt-wasting crisis requires emergency care.
+  - Teach caregiver medication/stress plan and follow-up.
+
 
 ---
 
 ## 🟠 Adrenal and other hormone crossovers
-- Cortisol supports vascular response and glucose during stress. aldosterone saves sodium and excretes K. Primary adrenal failure loses both, ACTH rises, skin darkening possible. Central failure usually preserves aldosterone. high potassium (hyperkalemia) less typical.
-- Chronic exogenous steroids suppress HPA axis: sudden stopping unsafe. Screening for Cushing: late-night salivary cortisol, urine free cortisol or low-dose dexamethasone suppression kuch patients mein, not random cortisol alone.
-- Pheochromocytoma: plasma free or urinary fractionated metanephrines. doctor ke order ki alpha blockade before beta blockade, post-op monitor glucose/BP. Primary aldosteronism hypertension with or without low K. aldosterone-renin ratio screening.
+- Cortisol supports vascular response and glucose during stress.
+  - aldosterone saves sodium and excretes K.
+  - Primary adrenal failure loses both, ACTH rises, skin darkening possible.
+  - Central failure usually preserves aldosterone.
+  - high potassium (hyperkalemia) less typical.
+
+- **Chronic exogenous steroids suppress HPA axis:** sudden stopping unsafe.
+  - **Screening for Cushing:** late-night salivary cortisol, urine free cortisol or low-dose dexamethasone suppression kuch patients mein, not random cortisol alone.
+
+- **Pheochromocytoma:** plasma free or urinary fractionated metanephrines.
+  - doctor ke order ki alpha blockade before beta blockade, post-op monitor glucose/BP.
+  - Primary aldosteronism hypertension with or without low K.
+  - aldosterone-renin ratio screening.
+
 
 ---
 
 ## 🟠 HIGH | Cortex and medulla mechanism
-- Cortex cholesterol se steroid hormones synthesize karta hai. Glomerulosa aldosterone mainly RAAS and K controlled. fasciculata cortisol ACTH controlled. reticularis adrenal androgens. Medulla sympathetic chromaffin cells adrenaline/noradrenaline.
-- Low renal organs tak blood pahunchna (perfusion) → renin → angiotensin II → aldosterone → distal nephron sodium reabsorption, potassium secretion. Water sodium follow karta hai. BP support. Cortisol glucose production and vascular catecholamine response support karta hai, immune inflammation suppress karta hai.
+- Cortex cholesterol se steroid hormones synthesize karta hai.
+  - Glomerulosa aldosterone mainly RAAS and K controlled.
+  - fasciculata cortisol ACTH controlled.
+  - reticularis adrenal androgens.
+  - Medulla sympathetic chromaffin cells adrenaline/noradrenaline.
+
+- Low renal organs tak blood pahunchna (perfusion) → renin → angiotensin II → aldosterone → distal nephron sodium reabsorption, potassium secretion.
+  - Water sodium follow karta hai.
+  - BP support.
+  - Cortisol glucose production and vascular catecholamine response support karta hai, immune inflammation suppress karta hai.
+
 
 ---
 
 ## 🔴 VERY HIGH | Addison disease and adrenal crisis
-- Primary adrenal cortex failure (autoimmune, TB and other causes) → cortisol and often aldosterone low → fatigue, weight loss, khade hone par BP girna (orthostatic hypotension), salt craving, low Na, high K, possible hypoglycemia. ACTH rises → skin/mucosal skin ka rang gehra hona (hyperpigmentation). Secondary/tertiary ACTH suppression generally preserves aldosterone → pigmentation/high potassium (hyperkalemia) less typical.
-- Investigations morning cortisol and ACTH. ACTH stimulation adrenal reserve assess. electrolytes and glucose. Suspected crisis treatment labs ke wait mein delay nahi.
-- Chronic treatment glucocorticoid replacement. primary mineralocorticoid deficiency may need fludrocortisone. Monitor BP, orthostasis, K, Na, weight and symptoms. teach stress-dose plan, steroid card, emergency injection training if doctor ke order ki.
-- **Crisis:** vomiting, severe weakness, low BP/shock, confusion, possible low glucose. Emergency ABC, IV access, ordered immediate hydrocortisone and isotonic fluid, glucose/electrolytes monitor. Adult guideline often 100 mg hydrocortisone IV/IM initial then 200 mg/24 h. actual care protocol/medical team, pediatric doses separate.
-- **Case:** Patient on chronic steroids stops abruptly and develops vomiting, hypotension. Suspect adrenal insufficiency/crisis, not routine dehydration alone. Steroid withdrawal suppression important.
+- Primary adrenal cortex failure (autoimmune, TB and other causes) → cortisol and often aldosterone low → fatigue, weight loss, khade hone par BP girna (orthostatic hypotension), salt craving, low Na, high K, possible hypoglycemia.
+  - ACTH rises → skin/mucosal skin ka rang gehra hona (hyperpigmentation).
+  - Secondary/tertiary ACTH suppression generally preserves aldosterone → pigmentation/high potassium (hyperkalemia) less typical.
+
+- Investigations morning cortisol and ACTH.
+  - ACTH stimulation adrenal reserve assess.
+  - electrolytes and glucose.
+  - Suspected crisis treatment labs ke wait mein delay nahi.
+
+- Chronic treatment glucocorticoid replacement.
+  - primary mineralocorticoid deficiency may need fludrocortisone.
+  - Monitor BP, orthostasis, K, Na, weight and symptoms.
+  - teach stress-dose plan, steroid card, emergency injection training if doctor ke order ki.
+
+- **Crisis:** vomiting, severe weakness, low BP/shock, confusion, possible low glucose.
+  - Emergency ABC, IV access, ordered immediate hydrocortisone and isotonic fluid, glucose/electrolytes monitor.
+  - Adult guideline often 100 mg hydrocortisone IV/IM initial then 200 mg/24 h.
+  - actual care protocol/medical team, pediatric doses separate.
+
+- **Case:** Patient on chronic steroids stops abruptly and develops vomiting, hypotension.
+  - Suspect adrenal insufficiency/crisis, not routine dehydration alone.
+  - Steroid withdrawal suppression important.
+
 
 ---
 
 ## 🔴 VERY HIGH | Cushing syndrome
-- Cortisol excess exogenous steroid (common), pituitary ACTH tumor (Cushing disease), ectopic ACTH or adrenal cortisol tumor. Excess cortisol protein breakdown → thin skin, proximal muscle weakness, purple striae. fat redistribution → central obesity, moon face, dorsocervical fat. insulin resistance → glucose high. bone loss, infection, hypertension.
-- Screening tests selected: late-night salivary cortisol, 24h urinary free cortisol or overnight 1-mg dexamethasone suppression. random serum cortisol not screening. After biochemical diagnosis ACTH helps localize cause. imaging next zaroorat aur doctor ke order ke hisaab se.
-- Treatment cause-specific (taper exogenous only supervised, pituitary/adrenal surgery or specialist medication). Nursing skin protection, infection baar-baar check karna, glucose/BP, fall precautions, psychological support. after surgery risk adrenal insufficiency, doctor ke order ki steroid cover.
+- Cortisol excess exogenous steroid (common), pituitary ACTH tumor (Cushing disease), ectopic ACTH or adrenal cortisol tumor.
+  - Excess cortisol protein breakdown → thin skin, proximal muscle weakness, purple striae.
+  - fat redistribution → central obesity, moon face, dorsocervical fat.
+  - insulin resistance → glucose high.
+  - bone loss, infection, hypertension.
+
+- **Screening tests selected:** late-night salivary cortisol, 24h urinary free cortisol or overnight 1-mg dexamethasone suppression.
+  - random serum cortisol not screening.
+  - After biochemical diagnosis ACTH helps localize cause.
+  - imaging next zaroorat aur doctor ke order ke hisaab se.
+
+- Treatment cause-specific (taper exogenous only supervised, pituitary/adrenal surgery or specialist medication).
+  - Nursing skin protection, infection baar-baar check karna, glucose/BP, fall precautions, psychological support.
+  - after surgery risk adrenal insufficiency, doctor ke order ki steroid cover.
+
 
 ---
 
 ## 🟠 HIGH | Conn, pheochromocytoma and CAH
-- Conn/primary aldosteronism excess aldosterone → hypertension, renin suppressed, K loss sometimes, metabolic alkalosis possible. Normal K does not rule out. ARR screen. confirm/localize per specialist (adrenal venous sampling selected). Unilateral adenoma surgery or mineralocorticoid antagonist e.g. spironolactone/eplerenone with K/renal baar-baar check karna.
-- Pheochromocytoma adrenal medulla. paraganglioma outside adrenal. Catecholamine excess episodes headache, sweating, palpitations ± severe BP. Metanephrines before imaging workup patient ki condition ke hisaab se. Alpha blockade before beta to avoid unopposed vasoconstriction. pre-op volume plan, post-op BP and glucose checks. Avoid provoking/manipulating suspected tumor.
-- CAH 21-hydroxylase deficiency common → cortisol low, androgen excess, sometimes aldosterone low. Salt-wasting neonate vomiting/dehydration/high potassium (hyperkalemia)/shock urgent. Newborn 17-OHP screening where available. endocrine follow-up, steroid/stress education, growth baar-baar check karna.
-- Adrenal incidentaloma = imaging-detected mass, evaluate hormone activity and malignancy risk. not all functional. Adrenalectomy monitor bleeding, BP, electrolytes, glucose and doctor ke order ki steroid replacement.
-- **Exam traps:** Addison vs Cushing opposite cortisol. Cushing disease pituitary. GFR Salt/Sugar/Sex. alpha before beta. steroids not abruptly stopped.
+- Conn/primary aldosteronism excess aldosterone → hypertension, renin suppressed, K loss sometimes, metabolic alkalosis possible.
+  - Normal K does not rule out.
+  - ARR screen.
+  - confirm/localize per specialist (adrenal venous sampling selected).
+  - Unilateral adenoma surgery or mineralocorticoid antagonist e.g.
+  - spironolactone/eplerenone with K/renal baar-baar check karna.
+
+- Pheochromocytoma adrenal medulla.
+  - paraganglioma outside adrenal.
+  - Catecholamine excess episodes headache, sweating, palpitations ± severe BP.
+  - Metanephrines before imaging workup patient ki condition ke hisaab se.
+  - Alpha blockade before beta to avoid unopposed vasoconstriction.
+  - pre-op volume plan, post-op BP and glucose checks.
+  - Avoid provoking/manipulating suspected tumor.
+
+- CAH 21-hydroxylase deficiency common → cortisol low, androgen excess, sometimes aldosterone low.
+  - Salt-wasting neonate vomiting/dehydration/high potassium (hyperkalemia)/shock urgent.
+  - Newborn 17-OHP screening where available.
+  - endocrine follow-up, steroid/stress education, growth baar-baar check karna.
+
+- Adrenal incidentaloma = imaging-detected mass, evaluate hormone activity and malignancy risk.
+  - not all functional.
+  - Adrenalectomy monitor bleeding, BP, electrolytes, glucose and doctor ke order ki steroid replacement.
+
+- **Exam traps:** Addison vs Cushing opposite cortisol.
+  - Cushing disease pituitary.
+  - GFR Salt/Sugar/Sex.
+  - alpha before beta.
+  - steroids not abruptly stopped.
 
 
 ---
