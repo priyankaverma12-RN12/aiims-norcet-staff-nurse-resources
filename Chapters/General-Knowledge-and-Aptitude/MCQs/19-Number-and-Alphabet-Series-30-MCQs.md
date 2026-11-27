@@ -6,7 +6,7 @@
 
 ### Q1. Complete the arithmetic pattern: 41, 34, 27, 20, ?, 6.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 14
 - **B.** 13
@@ -93,7 +93,7 @@
 
 ### Q4. Find the next term: 8, 27, 64, 125, 216, ?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 294
 - **B.** 289
@@ -151,7 +151,7 @@
 
 ### Q6. Find the next term: 11, 13, 17, 19, 23, 29, ?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 31
 - **B.** 30
@@ -296,7 +296,7 @@
 
 ### Q11. Find the next term: 6, 18, 16, 48, 46, 138, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 136
 - **B.** 414
@@ -325,7 +325,7 @@
 
 ### Q12. Identify the incorrect term in the intended factorial sequence: 1, 2, 6, 25, 120, 720.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 6
 - **B.** 120
@@ -441,7 +441,7 @@
 
 ### Q16. Find the next letter: C, G, K, O, S, ?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** V
 - **B.** W
@@ -470,7 +470,7 @@
 
 ### Q17. Find the missing letter: Y, U, Q, ?, I, E.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** N
 - **B.** M
@@ -528,7 +528,7 @@
 
 ### Q19. Find the next letter: A, C, F, J, O, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** U
 - **B.** T
@@ -557,7 +557,7 @@
 
 ### Q20. Find the next letter: Z, X, U, Q, L, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** G
 - **B.** E
@@ -586,7 +586,7 @@
 
 ### Q21. Find the next pair: AZ, CX, EV, GT, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** IS
 - **B.** HR
@@ -615,7 +615,7 @@
 
 ### Q22. Complete the sequence: BCD, FGH, JKL, ?, RST.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** NOP
 - **B.** MNO
@@ -644,7 +644,7 @@
 
 ### Q23. Find the next group: ABZ, CDX, EFV, GHT, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** IJS
 - **B.** HIR
@@ -673,7 +673,7 @@
 
 ### Q24. Find the next letter: A, Z, D, W, G, T, J, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** M
 - **B.** Q
@@ -789,7 +789,7 @@
 
 ### Q28. Which term completes the repeated block pattern: A, B, B, C, C, C, D, D, D, D, E, E, E, E, ?, F?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** F
 - **B.** D
@@ -818,7 +818,7 @@
 
 ### Q29. Find the next pair: BA, DC, FE, HG, ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** IJ
 - **B.** IH
