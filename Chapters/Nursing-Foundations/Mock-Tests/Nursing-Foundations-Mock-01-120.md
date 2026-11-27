@@ -538,7 +538,7 @@ Patient identification mein do independent approved person-specific identifiers 
 
 ### Q18. Who developed the Self-Care Deficit Nursing Theory?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 NORCET, 1 September 2020 — related reported concept** · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Sister Callista Roy
 - **B.** Jean Watson
@@ -564,13 +564,13 @@ Self-care ka matlab hai apni health aur daily needs ka dhyan khud rakhna. Jaise 
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated.
+**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated. [AIIMS Delhi 15 September 2019 — memory-based report](https://testbook.com/question-answer/self-care-deficit-theory-proposed-by--62bf0d469af5fc8fa0529b2c) mein self-care deficit theory ki attribution poochhi gayi hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q2](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q2](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q2-who-developed-the-self-care-deficit-nursing-theory)
 
 ### Q19. A sterile drape becomes wet through contact with a nonsterile surface. What should the nurse do?
 
@@ -686,7 +686,7 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 ### Q22. Which nursing theorist emphasized environmental conditions such as ventilation, cleanliness and light in promoting healing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II — related reported concept** · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Florence Nightingale
 - **B.** Hildegard Peplau
@@ -712,13 +712,13 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ.
+**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ. [AIIMS Bhubaneswar 15 September 2019 — memory-based report](https://testbook.com/question-answer/nursing-was-defined-as-the-art-of-utilizing--62580af01c6a3e352caa15ff) mein environment aur recovery ka related concept diya gaya hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q1](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q1](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q1-which-nursing-theorist-emphasized-environmental-conditions-such-as-ventilation-cleanliness-and-light-in-promoting-healing)
 
 ### Q23. A patient is receiving an IV infusion and reports burning at the cannula site. The site is red and warm along the vein, without cool swelling. What should the nurse suspect?
 
@@ -1491,7 +1491,7 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 ### Q46. Which action is appropriate during a preoperative checklist?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Verify identity, planned procedure, site, allergies and relevant preparation
 - **B.** Remove allergy alerts
@@ -1523,7 +1523,7 @@ Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q2](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q2](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q2-which-action-is-appropriate-during-a-preoperative-checklist)
 
 ### Q47. A patient who is drowsy after sedation is scheduled for oral feeding. Which action is appropriate?
 
@@ -2189,7 +2189,7 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 ### Q66. A patient arrives for surgery with an unsigned consent form and asks a new question about risks. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Notify the responsible clinician so informed consent can be completed before the procedure
 - **B.** Ask the patient to sign without explanation
@@ -2215,11 +2215,13 @@ Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko sam
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — informed consent, ADAPT NCLEX REVIEW (13:27)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=807s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported question](https://testbook.com/question-answer/what-legal-preparation-done-for-a-patient-who-is-u--681c8a6025e025e97fd344fc). Is report mein surgery se pehle consent ki zaroorat poochhi gayi hai. Yeh related concept hai, original scenario ka exact match nahi hai. Official paper aur key independently authenticate nahi hue hain.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q1](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q1](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q1-a-patient-arrives-for-surgery-with-an-unsigned-consent-form-and-asks-a-new-question-about-risks-what-should-the-nurse-do)
 
 ### Q67. A patient has an irregular radial pulse. Which approach improves the accuracy of heart rate assessment?
 
@@ -2893,7 +2895,7 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 ### Q86. A patient can bathe the upper body but needs assistance with lower-body hygiene. Which Orem nursing system best fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wholly compensatory system
 - **B.** Supportive-educative system alone with no direct help
@@ -2923,7 +2925,7 @@ Socho patient apna face aur haath khud wash kar sakta hai, lekin pair dhone ke l
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q3](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q3](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q3-a-patient-can-bathe-the-upper-body-but-needs-assistance-with-lower-body-hygiene-which-orem-nursing-system-best-fits)
 
 ### Q87. A nurse removes gloves after emptying a urinary drainage bag. What should the nurse do next?
 
@@ -3055,7 +3057,7 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 ### Q91. Which practice is preferred if hair must be removed before an operation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove all body hair regardless of site
 - **B.** Use suitable clippers according to surgical infection prevention policy
@@ -3085,7 +3087,7 @@ Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se sh
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q4](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q4](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q4-which-practice-is-preferred-if-hair-must-be-removed-before-an-operation)
 
 ### Q92. After cleaning an uncircumcised patient's glans, which action is essential?
 
@@ -3188,7 +3190,7 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 ### Q95. An independent patient needs teaching to manage a new home injection safely. Which Orem system is most appropriate when the patient can perform self-care after instruction?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Environmental control alone
 - **B.** Partly compensatory requiring physical care by definition
@@ -3218,7 +3220,7 @@ Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi t
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q4](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q4](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q4-an-independent-patient-needs-teaching-to-manage-a-new-home-injection-safely-which-orem-system-is-most-appropriate-when-the-patient-can-perform-self-care-after-instruction)
 
 ### Q96. Which finding represents objective assessment data?
 
@@ -3816,7 +3818,7 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 ### Q116. A patient scheduled for anesthesia reports eating shortly before the procedure despite fasting instructions. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore the intake because the meal was small
 - **B.** Document that the patient remained fasting
@@ -3848,7 +3850,7 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q3](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q3](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q3-a-patient-scheduled-for-anesthesia-reports-eating-shortly-before-the-procedure-despite-fasting-instructions-what-should-the-nurse-do)
 
 ### Q117. Two patients need the same limited clinical resource. Which ethical principle guides fair allocation based on relevant criteria?
 
