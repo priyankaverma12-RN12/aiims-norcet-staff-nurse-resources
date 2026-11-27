@@ -4,7 +4,9 @@
 
 ### Q1. Which factor determines whether a removable positioning device functions as a restraint for a particular patient?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Its color
 B. Whether it restricts movement and the patient can independently remove it
@@ -23,11 +25,17 @@ D. Its brand
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending.** [Supplementary restraint question — Archer Review NCLEX](https://www.youtube.com/watch?v=LoRg1MH2xLg). Description confirms a practice question on restraints, but exact concept and answer not inspected.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A restless patient cannot hear staff because the hearing aid battery is depleted. Which action should precede consideration of restraint?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Restore hearing assistance and communicate calmly
 B. Restrict both hands immediately
@@ -46,11 +54,17 @@ D. Remove communication aids
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A patient repeatedly reaches for an IV that is no longer clinically necessary. Which team decision may eliminate the need for restraint?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice · **🟣 PGIMER Chandigarh Staff Nurse Grade II 2015 — related concept**
+<!-- /job4-metadata -->
 
 A. Insert a second IV
 B. Retain the IV solely because it was placed earlier
@@ -69,11 +83,19 @@ D. Restrict movement until discharge
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [PGIMER Chandigarh Staff Nurse Grade II 2015](https://testbook.com/question-answer/which-action-by-a-patient-should-the-nurse-report--62b713536128efc333837720/amp) — Indexed full question and exam attribution checked. Direct reopen failed. Device-protection review is related, not an automatic restraint indication. Not authenticated exact PYQ.
+
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A newly agitated patient has hypoxia and attempts to leave the bed. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Treat agitation as misconduct
 B. Finish routine records
@@ -92,11 +114,17 @@ D. Assess and address physiological threats while arranging safe help
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. Which medication use best illustrates an inappropriate chemical restraint?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Sedating a patient solely to restrict movement for staff convenience
 B. Prescribed insulin for hyperglycemia
@@ -115,11 +143,17 @@ D. Standard indicated treatment for psychiatric illness
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending.** [Supplementary restraint question — Archer Review NCLEX](https://www.youtube.com/watch?v=LoRg1MH2xLg). Description confirms a practice question on restraints, but exact concept and answer not inspected.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. Staff threaten restraint because a patient refuses a routine bath. Which ethical obligation is most directly compromised?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Confidential laboratory reporting
 B. Respect for autonomy and dignity
@@ -138,11 +172,17 @@ D. Instrument sterility
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A family asks that a stable patient be restrained overnight because relatives cannot stay. What should the nurse explain?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Family request alone authorizes restraint
 B. Every overnight admission requires restraint
@@ -161,11 +201,17 @@ D. A family signature is sufficient
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A restrained patient is calm and no longer meets the documented indication. What is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Continue until order expiry
 B. Automatically renew the order
@@ -184,11 +230,17 @@ D. Arrange prompt discontinuation according to protocol and reassess
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A restrained patient's hand becomes cool, swollen and numb. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Promptly relieve restriction safely, assess perfusion and obtain urgent clinical review
 B. Document for the next round
@@ -207,11 +259,17 @@ D. Assume expected discomfort
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A restrained patient develops labored breathing and reduced responsiveness. What takes priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Complete the monitoring form
 B. Activate emergency help and address airway and breathing, removing restrictive hazards safely
@@ -230,11 +288,17 @@ D. Focus only on original behavioral indication
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Why is skin assessment beneath a restraint important?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Determine blood group
 B. Establish psychiatric diagnosis
@@ -253,11 +317,17 @@ D. Avoid documenting device use
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A patient under restraint has not received toileting assistance for several hours. What is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Withhold fluids
 B. Wait until order expiry
@@ -276,11 +346,17 @@ D. Assess and meet elimination and hydration needs safely
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. Which assessment best establishes whether restraint remains necessary?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Current behavior, immediate harm risk and response to alternatives
 B. Admission diagnosis alone
@@ -299,11 +375,17 @@ D. Preference of incoming staff
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. New sweating and agitation occur before the next scheduled restraint observation. What should the nurse do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Wait until the scheduled time
 B. Assess immediately and escalate concerning findings
@@ -322,11 +404,17 @@ D. Increase restriction without assessment
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. Which entry best documents the initiation of a clinically necessary restraint?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Only device name
 B. Only diagnosis
@@ -345,11 +433,17 @@ D. Only the nurse's opinion
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A patient under restraint is transferred to another unit. Which handover supports safe continuity?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Diagnosis only
 B. Let receiving staff discover the device
@@ -368,11 +462,17 @@ D. Indication, alternatives, authorization, recent observations, ongoing needs a
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A patient describes feeling humiliated after restraint. What is the therapeutic response?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Acknowledge the experience, explain the rationale and invite concerns
 B. Tell the patient to forget it
@@ -391,11 +491,17 @@ D. Avoid discussion
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. An audit finds restraints initiated during staffing shortages without documented necessity. What improvement is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Purchase more restrictive devices
 B. Address staffing and processes, review necessity and strengthen alternatives
@@ -414,11 +520,17 @@ D. Reduce documentation
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. Under section 97 of India's Mental Healthcare Act 2017, which measure is prohibited for persons with mental illness?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Supportive conversation
 B. Psychiatric review
@@ -437,11 +549,17 @@ D. Regular clinical observation
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. Who must authorize necessary physical restraint under section 97 at an Indian mental health establishment?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. A visitor
 B. Security supervisor alone
@@ -460,11 +578,17 @@ D. Psychiatrist in charge of the person's treatment
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A person in an Indian mental health establishment is verbally angry but poses no imminent and immediate harm. Staff propose restraint to deter future outbursts. What accords with section 97?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Do not use restraint for deterrence, assess and use appropriate alternatives
 B. Restrain until apology
@@ -483,11 +607,17 @@ D. Restrain for convenience
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. Under section 97, within what period must the nominated representative be informed of each restraint instance?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Seven days
 B. Twenty-four hours
@@ -506,11 +636,17 @@ D. At discharge only
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. Under section 97, how often must the mental health establishment report all restraint instances to the concerned Board?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Annually
 B. Only when injury occurs
@@ -529,11 +665,17 @@ D. Every five years
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. Immediate risk of significant harm has resolved following authorized physical restraint at an Indian mental health establishment. What does section 97 require?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Continue for a fixed 24 hours
 B. Continue for convenience
@@ -552,11 +694,17 @@ D. Do not prolong restraint beyond absolute necessity
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. Under section 95 of the Mental Healthcare Act 2017, which statement about chaining a person as treatment for mental illness is correct?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Indian mental healthcare law · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. It is prohibited
 B. Allowed when beds are unavailable
@@ -575,11 +723,17 @@ D. Required before assessment
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — Indian Mental Healthcare Act-specific question-solving not located. Existing Act text reference retained.
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. A ward records 12 restraint episodes totaling 36 hours. Which additional measure helps distinguish brief episodes from prolonged use?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Bed count only
 B. Episode duration distribution and patient-level exposure
@@ -598,11 +752,17 @@ D. Visitor count
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q27. A unit halves restraint episode count, but the remaining episodes last much longer. What is the best evaluation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Declare improvement from count alone
 B. Assume harm is eliminated
@@ -621,11 +781,17 @@ D. Stop recording duration
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q28. A patient has an immobilization device prescribed for fracture treatment. What distinguishes therapeutic support from restraint use?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Color
 B. Insurance status
@@ -644,11 +810,17 @@ D. Clinical purpose, actual restriction and applicable device policy
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ### Q29. A cooperative patient remains distressed after restraint discontinuation. Which plan best reduces recurrence?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Review triggers with the patient and team, revise prevention and monitor response
 B. Automatically restart restraint
@@ -667,6 +839,10 @@ D. Record only end time
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific restraint scenario not verified. Existing broad practice lead in resource section remains supplementary.
+<!-- /job4-metadata -->
 </details>
 
 ## References and video mapping
