@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run31-20261127-1459
-Scope: Draft-only Group14 remaining legacy explanations under .github/job5-drafts; no learner file, shared mock, index or other job writes while Job4 active. Group15 only after explicit refresh.
+Scope: Draft-only Group14 remaining legacy and Group15 original rationale expansion under .github/job5-drafts. No learner files, shared mocks, indexes or other job writes.
 Claimed UTC: 2026-11-27T14:59:30Z
 Expiry UTC: 2026-11-27T15:29:30Z
 
