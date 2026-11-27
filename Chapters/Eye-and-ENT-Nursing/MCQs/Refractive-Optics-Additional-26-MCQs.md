@@ -382,30 +382,30 @@
 
 </details>
 
-### Q15. A student has added the focal lengths of two thin lenses to estimate their combined power. Which correction should the tutor make?
+### Q15. A patient notices coloured fringes near the edge of a spectacle lens. Which optical phenomenon can contribute to this finding?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Topic:** combined power
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Topic:** refraction
 
-- **A.** Convert each focal length to signed diopters and add powers for lenses in contact
-- **B.** Add focal lengths regardless of sign
-- **C.** Multiply focal lengths and call the result diopters
-- **D.** Ignore the negative lens entirely
+- **A.** Complete absence of refraction
+- **B.** Retinal detachment confirmed by the spectacle lens
+- **C.** Chromatic aberration caused by wavelength-dependent refraction
+- **D.** Identical bending of every wavelength in all materials
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. Convert each focal length to signed diopters and add powers for lenses in contact**
+**Correct answer: C. Chromatic aberration caused by wavelength-dependent refraction**
 
-**Kyun sahi hai:** Lens power reciprocal focal length hai. Contact thin lenses ke liye powers add hoti hain, focal lengths nahi.
+**Kyun sahi hai:** Lens material ki refractive index light ki wavelength ke saath vary kar sakti hai. Different colours thoda different amount bend karti hain. Isse coloured fringes aa sakti hain. Persistent new visual symptoms ko sirf glasses par blame na karke assessment karwao.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Focal length direct addition general rule nahi.
-- **C.** Product focal length squared unit dega.
-- **D.** Negative power net result change karti hai.
+- **A.** Refraction absent hone se wavelength-dependent bending explain nahi hoti.
+- **B.** Spectacle fringes retinal detachment diagnose nahi karti hain.
+- **D.** Chromatic aberration different wavelengths ki unequal bending se hoti hai.
 
-**Revision:** [Related concept](../Concepts/Refractive-Errors.md#optics-combined-power).
+**Revision:** [Related concept](../Concepts/Refractive-Errors.md#optics-refraction).
 
-**YouTube MCQ practice lead:** [Light reflection and refraction MCQ/PYQ — railway general science](https://www.youtube.com/watch?v=9GcegrftvsE). Indexed description includes lens formula, ray diagrams and power. Individual item and channel/playback verification pending.
+**YouTube MCQ practice: pending specific verified mapping.**
 
 </details>
 
@@ -708,4 +708,4 @@
 
 ## References and video gaps
 
-[OpenStax thin lenses](https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses) · [OpenStax equations](https://openstax.org/books/university-physics-volume-3/pages/2-key-equations) · [StatPearls lensometry](https://www.ncbi.nlm.nih.gov/books/NBK597365/) · [Prisms](https://www.ncbi.nlm.nih.gov/sites/books/NBK580488/) · [Retinoscopy](https://www.ncbi.nlm.nih.gov/books/NBK597373/) · [AAO aniseikonia](https://eyewiki.aao.org/Aniseikonia). Indexed extracts checked. 15 description-level practice leads, 11 specific gaps, 26 pending confirmed playback or question matching.
+[OpenStax thin lenses](https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses) · [OpenStax optical aberrations](https://openstax.org/books/college-physics/pages/26-6-aberrations) · [OpenStax equations](https://openstax.org/books/university-physics-volume-3/pages/2-key-equations) · [StatPearls lensometry](https://www.ncbi.nlm.nih.gov/books/NBK597365/) · [Prisms](https://www.ncbi.nlm.nih.gov/sites/books/NBK580488/) · [Retinoscopy](https://www.ncbi.nlm.nih.gov/books/NBK597373/) · [AAO aniseikonia](https://eyewiki.aao.org/Aniseikonia). Indexed extracts checked. 14 description-level practice leads, 12 specific gaps, 26 pending confirmed playback or question matching.
