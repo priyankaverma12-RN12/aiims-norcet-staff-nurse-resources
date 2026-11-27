@@ -46,9 +46,9 @@ function mountQuiz(md,path,content,render,route){
  const btn=(label,fn,cls)=>{const b=el('button',label,cls);b.type='button';b.onclick=fn;return b};
  const root=el('section',undefined,'quiz-panel');root.id='practice';content.before(root);
  const intro=el('div',undefined,'practice-intro');intro.append(el('p','STUDY • PRACTISE • REVIEW','kicker'),el('h2','Interactive practice'));
- const info=el('p',bank.items.length+' scoreable questions out of '+bank.total+' detected numbered headings. '+(bank.rejected.length?'Unsupported headings: '+bank.rejected.join(', ')+'. Use original reading mode for these.':'All detected numbered headings parsed.'),'muted');intro.append(info);root.append(intro);
+ const info=el('p',bank.items.length+' scoreable questions out of '+bank.total+' detected numbered headings. '+(bank.rejected.length?'Unsupported headings: '+bank.rejected.join(', ')+'. Use original reading mode for these.':'All detected numbered headings parsed.'),'muted');intro.append(el('p',typeof knownTitle==='function'?knownTitle(path):'', 'practice-topic'),info);root.append(intro);
  if(!bank.items.length)return;
- const description=el('p','Custom practice using the published source key. Original reading mode preserves unsupported questions and shared notes.','muted');intro.append(description);
+ const description=el('p','Learn at your own pace with instant explanations, or try a timed test with answers hidden until submission.','muted');intro.append(description);
  const config=el('div',undefined,'quiz-config');
  const minutes=el('input');minutes.type='number';minutes.min='1';minutes.max='300';minutes.value=String(Number(md.match(/(?:Suggested time|Time limit)\s*:\s*(\d+)\s*minutes/i)?.[1]||Math.min(bank.items.length,135)));
  const timeLabel=el('label','Timer minutes ');timeLabel.append(minutes);
@@ -69,15 +69,15 @@ function mountQuiz(md,path,content,render,route){
  function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?'Interactive practice':'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';history.replaceState(history.state,'',u.href)}
  function focusHeading(h){h.tabIndex=-1;h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:'instant'})}
  function stopTimer(){clearInterval(timer);timer=null}
- function showSetup(){stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
- function showResults(reason='submitted',focus=true){
+ function showSetup(){delete root.dataset.learning;stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
+ function showResults(reason='submitted',focus=true,celebrate=false){
   stopTimer();for(const dialog of root.querySelectorAll('dialog[open]'))dialog.close();started=true;finished=true;submitReason=reason;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;body.replaceChildren();controls.replaceChildren();setView('results');
   const s=resultMetrics(bank.items,selected,penalty);const saved=persist();
   state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;
   state.classList.add('result-announcement');
   const hero=el('div',undefined,'result-hero'),copy=el('div',undefined,'result-copy'),check=el('span','✓','result-check');check.setAttribute('aria-hidden','true');copy.append(check,el('p','ATTEMPT COMPLETE','result-kicker'));
   const greeting=s.percentage>=80?'Excellent work!':s.percentage>=50?'Well done!':'Keep going — every attempt counts.';
-  const h=el('h2',greeting,'result-heading');copy.append(h,el('p',reason==='expired'?'Time is up. Your answers have been submitted.':'You have completed your practice session. Review your answers and build on what you learned.'));
+  const h=el('h2',greeting,'result-heading');if(celebrate&&s.percentage>=50)hero.classList.add('result-celebration');copy.append(h,el('p',reason==='expired'?'Time is up. Your answers have been submitted.':'You have completed your practice session. Review your answers and build on what you learned.'));
   const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',s.score.toFixed(2)+' / '+s.total),el('span',s.percentage.toFixed(1)+'% of available marks'));hero.append(copy,metric);body.append(hero);
   const stats=el('div',undefined,'result-stats');
   for(const [label,value,cls] of [['Correct',s.correct,'is-correct'],['Incorrect',s.wrong,'is-incorrect'],['Unanswered',s.skipped,'is-skipped'],['Accuracy',s.accuracy===null?'—':s.accuracy.toFixed(1)+'%','']]){const card=el('div',undefined,'result-stat '+cls);card.append(el('span',label),el('strong',String(value)));stats.append(card)}body.append(stats);
@@ -106,7 +106,7 @@ function mountQuiz(md,path,content,render,route){
   }
   drawReview();if(focus)focusHeading(h);
  }
- function finish(reason='submitted'){if(!started||finished)return;showResults(reason)}
+ function finish(reason='submitted'){if(!started||finished)return;showResults(reason,true,true)}
  function tick(){if(!started||finished)return;const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));const text='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(state.textContent!==text)state.textContent=text;if(!remain)finish('expired')}
  function syncProgress(){if(progress)progress.value=Object.keys(selected).length;if(palette){for(const b of palette.querySelectorAll('button[data-index]')){const i=Number(b.dataset.index),yes=!!selected[bank.items[i].id];b.classList.toggle('answered',yes);b.setAttribute('aria-label','Question '+(i+1)+(yes?', answered':', unanswered'));if(i===at)b.setAttribute('aria-current','step');else b.removeAttribute('aria-current')}}}
  function confirmSubmit(){const answered=Object.keys(selected).length,skipped=bank.items.length-answered;
@@ -130,8 +130,36 @@ function mountQuiz(md,path,content,render,route){
   else{selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+Number(minutes.value)*60000;submitReason='submitted'}
   drawPractice(true);tick();if(!finished)timer=setInterval(tick,250)
  }
+
+ // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
+ function startLearning(){
+  stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;setView('practice');root.dataset.learning='true';state.setAttribute('aria-live','polite');
+  let index=0,choice='',checked=0,correct=0,locked=false;
+  function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
+  function drawLearn(){
+   body.replaceChildren();controls.replaceChildren();choice='';locked=false;const q=bank.items[index];
+   state.textContent='Learning mode · '+checked+' / '+bank.items.length+' checked · No timer';
+   const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(index+1)+' / '+bank.items.length);meta.append(h,markButton(q));body.append(meta);
+   const meter=el('progress',undefined,'quiz-progress');meter.max=bank.items.length;meter.value=checked;meter.setAttribute('aria-label','Questions checked');body.append(meter);
+   const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
+   const field=el('fieldset');field.append(el('legend','Choose an answer, then check it'));const optionRows=[];
+   const check=btn('Check answer',()=>{if(!choice||locked)return;locked=true;checked++;const right=choice===q.key;if(right)correct++;
+    for(const [letter,row,input] of optionRows){input.disabled=true;if(letter===q.key){row.classList.add('correct-choice');row.append(el('span','Correct answer','learn-option-label'))}if(letter===choice&&letter!==q.key){row.classList.add('wrong-choice');row.append(el('span','Your answer','learn-option-label'))}}
+    const feedback=el('div',undefined,'learn-feedback '+(right?'learn-correct':'learn-review'));feedback.setAttribute('role','status');
+    feedback.append(el('strong',right?'✓ Nice work! You got it right.':'Good effort — review this answer.'),el('p',right?'You selected '+choice+'. Keep building your understanding.':'You selected '+choice+'. The published answer is '+q.key+'.'));
+    if(right)feedback.classList.add('celebrate-once');body.append(feedback);
+    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original GitHub explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent='Learning mode · '+checked+' / '+bank.items.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
+   },'primary-action');check.disabled=true;
+   for(let i=0;i<4;i++){const letter='ABCD'[i],row=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='learn-choice';input.value=letter;input.onchange=()=>{choice=letter;check.disabled=false};const txt=el('div');render(txt,letter+'. '+q.options[i],path);row.append(input,txt);field.append(row);optionRows.push([letter,row,input])}body.append(field);
+   const next=btn(index===bank.items.length-1?'Finish learning':'Next question →',()=>{if(!locked)return;if(index+1<bank.items.length){index++;drawLearn()}else finishLearning()},'primary-action');next.disabled=true;
+   controls.append(check,next,btn('Exit learning',()=>{if(!checked||confirm('Exit learning? This untimed session is not saved. Your timed attempt is unchanged.'))leave()}));focusHeading(h)
+  }
+  function finishLearning(){body.replaceChildren();controls.replaceChildren();state.textContent=checked+' checked · '+correct+' correct';const h=el('h2','Learning session complete!','result-heading'),panel=el('div',undefined,'learn-feedback learn-correct celebrate-once');panel.append(h,el('p','You reviewed '+checked+' questions and answered '+correct+' correctly. Revisit explanations to strengthen your understanding.'));body.append(panel);controls.append(btn('Back to study material',leave,'primary-action'));focusHeading(h)}
+  drawLearn();
+ }
+
  function drawStartActions(){
-  actions.replaceChildren();const saved=getSaved();const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(saved&&!confirm('Start a new attempt and replace the saved attempt or result?'))return;clearSaved();begin(null)},'primary-action');actions.append(start);
+  actions.replaceChildren();const saved=getSaved();const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(saved&&!confirm('Start a new attempt and replace the saved attempt or result?'))return;clearSaved();begin(null)},'primary-action');actions.append(start,btn('Learn with instant feedback',startLearning,'learning-start'));
   if(saved)actions.append(btn(saved.finished?'Review saved result':'Resume saved attempt',()=>begin(saved)),btn('Discard saved attempt',()=>{if(confirm('Remove the saved attempt or result from this device?')){clearSaved();drawStartActions()}}));
  }
  drawStartActions();const saved=getSaved();if(new URLSearchParams(location.search).get('view')==='results'){if(saved?.finished)begin(saved);else{setView('setup');state.textContent='No saved result is available for this question bank.'}}

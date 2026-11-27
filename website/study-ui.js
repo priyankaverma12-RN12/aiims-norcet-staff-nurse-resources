@@ -1,7 +1,10 @@
 'use strict';
 const metricLabels={mcq:'Topic MCQs',mock:'Mock question slots',pyq:'PYQ / reported practice',imported:'Imported practice',embedded:'Embedded questions'};
-let metricsPromise;
-function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Inventory is unavailable');return r.json()}).catch(()=>null);return metricsPromise}
+let metricsPromise,resourceCatalog={};
+function getResourceMeta(p,heading='',slots=null){return heading?resourceMeta(p,heading,slots??resourceCatalog[p]?.slots??null):(resourceCatalog[p]||resourceMeta(p,'',slots))}
+function knownTitle(p){return getResourceMeta(p).title}
+function linkTitle(target,href,original){try{if(new URL(href).hash)return cleanTitle(original)||knownTitle(target)}catch{}return knownTitle(target)}
+function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Inventory is unavailable');return r.json()}).then(data=>{resourceCatalog=data.resources||{};return data}).catch(()=>null);return metricsPromise}
 function displayTitle(s){return String(s||'').replace(/[*_\x60]/g,'').trim()}
 function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
@@ -22,7 +25,7 @@ async function showMetrics(){
    for(const key of ['mcq','mock','pyq'])chips.append(node('span',c.totals[key]+' '+({mcq:'MCQs',mock:'mock slots',pyq:'PYQ slots'}[key])));
    summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
    const tools=node('div',undefined,'metric-chapter-tools');tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),node('span',c.banks.mock+' mock files · '+c.evidenceFiles+' PYQ notes/registers without detected four-option questions'));card.append(tools);
-   const rows=node('div',undefined,'metric-records');for(const f of matches){const row=node('div',undefined,'metric-record'),left=node('div');left.append(studyLink(displayTitle(f.title),f.path),node('small',metricLabels[f.category]));row.append(left,node('strong',String(f.slots)));rows.append(row)}if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
+   const rows=node('div',undefined,'metric-records');for(const f of matches){const row=node('div',undefined,'metric-record'),left=node('div');left.append(studyLink(knownTitle(f.path),f.path),node('small',getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category]));row.append(left,node('strong',String(f.slots)));rows.append(row)}if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
   }
   if(!list.children.length)list.append(node('p','No matching topics.','empty-state'));
  }
@@ -37,8 +40,8 @@ function compactIndex(content,p,catalog){
  for(const a of content.querySelectorAll('a[href]')){
   let target;try{const u=new URL(a.href);if(u.origin!==location.origin||!u.searchParams.has('doc'))continue;target=u.searchParams.get('doc')}catch{continue}
   if(!safe(target)||target===p||seen.has(a.href)||!a.textContent.trim())continue;
-  const folder=target.split('/')[2]||'Overview',label=({'Concepts':'Theory','MCQs':'MCQs','Mock-Tests':'Mock tests','Previous-Year-Questions':'Previous year questions','Revision':'Revision'}[folder]||'Other study resources');
-  seen.add(a.href);if(!groups.has(label))groups.set(label,[]);groups.get(label).push({text:a.textContent.trim(),href:a.href});
+  const folder=target.split('/')[2]||'Overview',meta=getResourceMeta(target),label=meta.type==='Mock test'?'Mock tests':meta.type==='Draft question set'?'Draft question sets':({'Concepts':'Theory','MCQs':'MCQs','Mock-Tests':'Mock tests','Previous-Year-Questions':'Previous year questions','Revision':'Revision'}[folder]||'Other study resources');
+  seen.add(a.href);if(!groups.has(label))groups.set(label,[]);groups.get(label).push({text:linkTitle(target,a.href,a.textContent.trim()),href:a.href});
  }
  if(!groups.size)return;
  const panel=node('section',undefined,'compact-index'),hint=node('p','Choose a resource below. Study status, provenance notes and the complete original index remain available below.','muted');panel.append(hint);
