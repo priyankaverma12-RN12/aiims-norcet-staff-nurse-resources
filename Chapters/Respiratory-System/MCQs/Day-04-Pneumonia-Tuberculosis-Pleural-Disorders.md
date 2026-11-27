@@ -32,7 +32,7 @@ D. Pyrazinamide
 
 [Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 **Revision mapping:** Earlier attempted item preserved verbatim. Related Day 3 or Advanced bank concept, no new unique count.
 
@@ -444,7 +444,7 @@ D. Bronchitis
 
 [Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 **Revision mapping:** Day 2 Q50, related concept.
 
@@ -475,7 +475,7 @@ D. Bronchitis
 
 [Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 </details>
 
@@ -535,7 +535,7 @@ D. Bronchitis
 
 [Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 </details>
 
@@ -564,7 +564,7 @@ D. Bronchitis
 
 [Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 **Revision mapping:** Advanced Q20, related concept.
 
@@ -595,7 +595,7 @@ D. Bronchitis
 
 [Clinical reference](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 </details>
 
@@ -624,13 +624,13 @@ D. Bronchitis
 
 [Clinical reference](https://ntep.in/node/760/CP-management-eptb)
 
-**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Individual subtopic discussion pending.
 
 </details>
 
 ### Q21. At 60 hours after a Mantoux test there is 18 mm erythema and 11 mm induration. Which measurement is documented for interpretation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice · **🟣 ESIC Staff Nurse 2019 Shift III — related reported concept**
 
 - **A.** 18 mm erythema
 - **B.** 11 mm induration
@@ -641,15 +641,27 @@ D. Bronchitis
 
 **Correct answer: B. 11 mm induration**
 
-**Kyun sahi hai aur baaki options kyun galat:** 48–72 h induration measure, redness not; sum wrong, day seven late. Interpret risk-specific.
+**Kyun sahi hai?** Mantoux reaction ko 48–72 hours mein trained nurse read karti hai. Induration firm raised area hai. Redness nahi, induration ka transverse diameter mm mein measure karte hain. Yahan 11 mm record karo. Positive ya negative interpretation risk factors aur protocol se decide hoti hai.
 
-**Exam trick:** 48–72 h induration measure, redness not.
+**Baaki options kyun galat hain?**
+
+- **A.** 18 mm erythema hai, correct measurement nahi.
+- **C.** Redness aur induration ko add nahi karte.
+- **D.** 60 hours valid reading window mein hai.
+
+**Exam trick:** Induration, not redness.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html)
+
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending.
+
+**Historical evidence:** [ESIC Staff Nurse, 26 February 2019 Shift III — retrieved third-party report](https://testbook.com/question-answer/mantoux-test-purified-protein-derivative-is-sign--619cf0e7ecc1b27849a283c6). Publisher's question/solution incorrectly uses erythema terminology. Clinical practice measures induration and uses risk-based thresholds. This original question is related to the concept, not identical to the historical stem. Official key unverified.
 
 </details>
 
 ### Q22. Which route is used for tuberculin skin testing?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Intramuscular
 - **B.** Intradermal
@@ -660,15 +672,27 @@ D. Bronchitis
 
 **Correct answer: B. Intradermal**
 
-**Kyun sahi hai aur baaki options kyun galat:** PPD dermis mein; muscle, vein, oral routes TST nahi.
+**Kyun sahi hai?** Tuberculin purified protein derivative ko skin ki superficial dermal layer mein inject karte hain. Correct intradermal technique se small wheal ban sakta hai. Trained staff prescribed formulation aur dose use kare.
 
-**Exam trick:** PPD dermis mein.
+**Baaki options kyun galat hain?**
+
+- **A.** Intramuscular injection muscle mein jaati hai.
+- **C.** IV injection vein mein jaati hai.
+- **D.** Oral route Mantoux test ke liye nahi hai.
+
+**Exam trick:** Mantoux = intradermal.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html)
+
+**▶️ [YouTube MCQ practice — VS Nursing Academy, Ritika Mam TB session](https://www.youtube.com/watch?v=8kUoq-2nUvs)** — published description covers diagnosis, drugs and NTEP. Specific exact item and playback pending. Route-specific discussion pending.
+
+**Related source:** [ESIC 2019 report](https://testbook.com/question-answer/mantoux-test-purified-protein-derivative-is-sign--619cf0e7ecc1b27849a283c6) discusses intradermal route in the solution only, not verified as the original tested question.
 
 </details>
 
 ### Q23. An asymptomatic person has a positive IGRA and no evidence of active TB after evaluation. Which concept applies?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** TB infection may be latent and noninfectious
 - **B.** Active pulmonary TB is proven solely by IGRA
@@ -679,15 +703,25 @@ D. Bronchitis
 
 **Correct answer: A. TB infection may be latent and noninfectious**
 
-**Kyun sahi hai aur baaki options kyun galat:** IGRA infection response, active vs latent alone distinguish nahi; clinical evaluation matters, BCG repeat/isolation automatic nahi.
+**Kyun sahi hai?** Positive IGRA immune response to TB antigens suggest karta hai. Jab appropriate evaluation se active disease ka evidence nahi hai, TB infection latent ho sakti hai aur transmissible nahi hoti. Preventive treatment eligibility clinical team assess kare.
 
-**Exam trick:** IGRA infection response, active vs latent alone distinguish nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** IGRA alone active disease establish nahi karta.
+- **C.** Positive result automatically repeat BCG indicate nahi karta.
+- **D.** Latent infection mein indefinite airborne isolation indicated nahi hai.
+
+**Exam trick:** Positive infection test ≠ active TB diagnosis.
+
+[Clinical reference](https://www.cdc.gov/tb/hcp/clinical-overview/latent-tuberculosis-infection.html)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q24. Why is BCG particularly valuable in early childhood?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** It guarantees lifelong prevention of all pulmonary TB
 - **B.** It treats active drug-resistant TB
@@ -698,9 +732,19 @@ D. Bronchitis
 
 **Correct answer: D. It reduces risk of severe disseminated and meningeal TB**
 
-**Kyun sahi hai aur baaki options kyun galat:** BCG severe childhood forms protection; complete lifetime guarantee nahi, therapy/contact investigation replacement nahi.
+**Kyun sahi hai?** BCG childhood mein severe TB forms jaise TB meningitis aur disseminated TB ke risk ko kam karne mein important hai. Protection complete nahi hai. Vaccination national eligibility and contraindications ke according hoti hai.
 
-**Exam trick:** BCG severe childhood forms protection.
+**Baaki options kyun galat hain?**
+
+- **A.** BCG lifelong complete pulmonary TB protection guarantee nahi karti.
+- **B.** Vaccine active drug-resistant TB ka treatment nahi hai.
+- **C.** Contact investigation vaccination ke baad bhi relevant hai.
+
+**Exam trick:** BCG protects especially against severe childhood TB.
+
+[Clinical reference](https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccines-quality/bcg)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
@@ -708,7 +752,7 @@ D. Bronchitis
 
 ### Q25. A nurse positions a stable patient for ultrasound-guided thoracentesis. Which position is usually suitable if tolerated?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Flat prone with face buried in pillow
 - **B.** Trendelenburg regardless of condition
@@ -719,15 +763,27 @@ D. Bronchitis
 
 **Correct answer: C. Sitting upright and leaning forward with arms supported**
 
-**Kyun sahi hai aur baaki options kyun galat:** Sitting supported widens access; alternate positions clinician chooses, prone/head-down/unsupported standing routine nahi.
+**Kyun sahi hai?** Stable patient ko upright sitting with supported arms aur slight forward lean mein position dena usual hai agar tolerate kare. Isse trained clinician ko access aur patient ko stable support milta hai. Ultrasound se safe site decide hoti hai. Position patient condition ke according modify ho sakti hai.
 
-**Exam trick:** Sitting supported widens access.
+**Baaki options kyun galat hain?**
+
+- **A.** Face buried prone position airway access compromise kar sakti hai.
+- **B.** Trendelenburg routine universal position nahi hai.
+- **D.** Unsupported standing procedure ke dauran unsafe ho sakta hai.
+
+**Exam trick:** Supported upright positioning.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q12 positioning. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q26. Pleural protein is 3.6 g/dL and serum protein 6.0 g/dL. What does the protein ratio support under Light's criteria?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Transudate is proven
 - **B.** Pneumothorax
@@ -738,15 +794,27 @@ D. Bronchitis
 
 **Correct answer: C. Exudative effusion**
 
-**Kyun sahi hai aur baaki options kyun galat:** 3.6/6=0.60 >0.5 = exudate criterion; transudate not proven, pneumothorax air, normal not.
+**Kyun sahi hai?** Protein ratio = 3.6 ÷ 6.0 = 0.60. Light criteria mein fluid/serum protein ratio >0.5 exudative classification support karta hai. Teen criteria mein se ek positive hona enough hai, lekin cause separately evaluate hota hai. Diuretic-treated heart failure kabhi misleading exudative values de sakta hai.
 
-**Exam trick:** 3.
+**Baaki options kyun galat hain?**
+
+- **A.** Ratio 0.60 transudate prove nahi karta.
+- **B.** Pneumothorax pleural air hai, protein ratio se diagnose nahi hota.
+- **D.** Abnormal ratio ko ignore nahi kar sakte.
+
+**Exam trick:** 0.60 > 0.5 = exudative criterion.
+
+[Clinical reference](https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q22 Light ratio. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q27. A patient develops acute dyspnea and unilateral chest pain after thoracentesis. Which complication requires prompt assessment?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Chronic sinusitis
 - **B.** Pneumothorax
@@ -757,15 +825,27 @@ D. Bronchitis
 
 **Correct answer: B. Pneumothorax**
 
-**Kyun sahi hai aur baaki options kyun galat:** Post-procedure sudden pain/dyspnea may pleural air; others do not explain acute procedure-related distress.
+**Kyun sahi hai?** Thoracentesis ke baad sudden unilateral chest pain aur breathlessness pneumothorax ka warning ho sakte hain. Patient ka ABC, SpO2 aur vitals urgently assess karo aur clinician ko escalate karo. Bleeding aur re-expansion pulmonary edema bhi possible complications hain.
 
-**Exam trick:** Post-procedure sudden pain/dyspnea may pleural air.
+**Baaki options kyun galat hain?**
+
+- **A.** Sinusitis acute pleural procedure complication nahi.
+- **C.** OSA usually sleep-related obstruction hai.
+- **D.** Rhinitis acute unilateral pleuritic pain explain nahi karti.
+
+**Exam trick:** New distress after pleural procedure needs urgent review.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q12 related procedure care. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q28. A hypotensive patient after chest trauma has severe distress and markedly reduced breath sounds on one side. Suspected tension pneumothorax requires what approach?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Immediate emergency escalation for decompression without delaying for imaging
 - **B.** Routine outpatient radiography tomorrow
@@ -776,15 +856,27 @@ D. Bronchitis
 
 **Correct answer: A. Immediate emergency escalation for decompression without delaying for imaging**
 
-**Kyun sahi hai aur baaki options kyun galat:** Tension impairs venous return; trained decompression emergency; imaging delay/exercise/fluid restriction alone unsafe.
+**Kyun sahi hai?** Trauma ke baad unilateral reduced breath sounds, severe distress aur hypotension tension pneumothorax suggest karte hain. Pleural pressure venous return aur circulation compromise kar sakta hai. Emergency team ko immediately activate karo. Unstable suspected tension pneumothorax mein trained clinician ki decompression imaging ka wait nahi karti.
 
-**Exam trick:** Tension impairs venous return.
+**Baaki options kyun galat hain?**
+
+- **B.** Tomorrow radiography life-saving response delay karegi.
+- **C.** Incentive spirometry tension relieve nahi karti.
+- **D.** Fluid restriction alone emergency respiratory care nahi hai.
+
+**Exam trick:** Unstable suspected tension = no imaging delay.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Clinical Mock Q1 tension emergency. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q29. Why must a conventional chest drainage unit remain below chest level?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** To make suction unnecessary in every case
 - **B.** To stop all water-seal movement
@@ -795,15 +887,25 @@ D. Bronchitis
 
 **Correct answer: D. To reduce risk of drainage flowing back toward the patient**
 
-**Kyun sahi hai aur baaki options kyun galat:** Gravity drainage and backflow prevention; suction needs individualized order, tidaling may normal, routine clamping unsafe.
+**Kyun sahi hai?** Conventional chest drain ko chest se neeche upright rakhne se gravity drainage support hoti hai aur backflow ka risk kam hota hai. Tubing secure aur kink-free rakho. Suction ki need prescribed system ke according hai.
 
-**Exam trick:** Gravity drainage and backflow prevention.
+**Baaki options kyun galat hain?**
+
+- **A.** Below-chest placement har case mein suction need remove nahi karti.
+- **B.** Water seal movement respiratory pressure changes reflect kar sakti hai.
+- **C.** Transfer ke liye routine clamping unsafe ho sakti hai.
+
+**Exam trick:** Drain upright and below chest.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q30. Continuous bubbling newly appears in the water-seal chamber of a chest drain. What should the nurse assess?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Whether the patient has eaten breakfast only
 - **B.** Whether pleural fluid is definitely infected
@@ -814,15 +916,25 @@ D. Bronchitis
 
 **Correct answer: D. Possible air leak and integrity of the drainage system**
 
-**Kyun sahi hai aur baaki options kyun galat:** Water-seal continuous bubbling suggests air leak; assess patient/system; food/infection not direct clues, clamping risks tension.
+**Kyun sahi hai?** Water-seal chamber mein new continuous bubbling possible air leak suggest karta hai. Patient ki breathing aur oxygenation assess karo. Tubing aur connections ki integrity check karo aur appropriate team ko inform karo. Suction chamber bubbling device-specific ho sakti hai, dono chambers confuse mat karo.
 
-**Exam trick:** Water-seal continuous bubbling suggests air leak.
+**Baaki options kyun galat hain?**
+
+- **A.** Breakfast drainage integrity assess nahi karta.
+- **B.** Bubbling infection prove nahi karti.
+- **C.** Actively bubbling drain routine clamp karna tension risk badha sakta hai.
+
+**Exam trick:** Water seal bubbling: assess leak, not routine clamp.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q31. Tidaling in the water seal stops and the patient becomes increasingly breathless. What is the best initial response?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Assume lung re-expansion and leave the patient
 - **B.** Increase suction blindly
@@ -833,15 +945,25 @@ D. Bronchitis
 
 **Correct answer: C. Assess the patient and check tubing for obstruction while escalating**
 
-**Kyun sahi hai aur baaki options kyun galat:** Absent tidaling may expanded lung or blocked tube; distress means urgent check; assumption, blind suction and clamp unsafe.
+**Kyun sahi hai?** Tidaling stop hone ka reason lung re-expansion ya obstruction ho sakta hai. Agar breathlessness badh rahi hai, toh patient deterioration priority hai. ABC assess karo, tubing kink ya compression check karo aur urgent escalation karo. Drain ko blindly manipulate mat karo.
 
-**Exam trick:** Absent tidaling may expanded lung or blocked tube.
+**Baaki options kyun galat hain?**
+
+- **A.** Re-expansion assume karne se blockage miss ho sakta hai.
+- **B.** Suction blindly increase karna cause identify nahi karta.
+- **D.** Routine clamping pleural air evacuation block kar sakti hai.
+
+**Exam trick:** No tidaling + distress = assess patient first.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q32. A chest drain suddenly collects a large amount of fresh blood and the patient's pulse rises. What is the priority?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Empty and discard the measurement without recording
 - **B.** Urgently assess circulation and notify the emergency team
@@ -852,15 +974,25 @@ D. Bronchitis
 
 **Correct answer: B. Urgently assess circulation and notify the emergency team**
 
-**Kyun sahi hai aur baaki options kyun galat:** Fresh large blood + tachycardia may hemorrhage; measure/report, no walking or delay.
+**Kyun sahi hai?** Fresh blood ka sudden large output aur tachycardia bleeding aur hypovolemia ke warning signs hain. ABC, circulation, BP, mental status aur output urgently assess karo. Emergency team ko call karo aur measured output document karo. Specific action threshold clinical context aur protocol par depend karta hai.
 
-**Exam trick:** Fresh large blood + tachycardia may hemorrhage.
+**Baaki options kyun galat hain?**
+
+- **A.** Output discard karne se critical evidence lose hota hai.
+- **C.** Walking unstable circulation mein unsafe hai.
+- **D.** Scheduled dressing ka wait deterioration miss kar sakta hai.
+
+**Exam trick:** Fresh bleeding plus tachycardia is urgent.
+
+[Clinical reference](https://thorax.bmj.com/content/78/Suppl_3/s43)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q33. Which pleural collection is suggested by milky fluid with confirmed chylomicrons?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Chylothorax
 - **B.** Hemothorax
@@ -871,9 +1003,19 @@ D. Bronchitis
 
 **Correct answer: A. Chylothorax**
 
-**Kyun sahi hai aur baaki options kyun galat:** Chyle lymph milky; hemo blood, pneumo air, atelectasis collapsed alveoli.
+**Kyun sahi hai?** Chylothorax mein lymphatic fluid pleural space mein jama hota hai. Milky appearance clue ho sakti hai, lekin confirmed chylomicrons diagnosis strongly support karte hain. Fluid appearance alone enough nahi. Underlying cause clinician investigate kare.
 
-**Exam trick:** Chyle lymph milky.
+**Baaki options kyun galat hain?**
+
+- **B.** Hemothorax blood collection hai.
+- **C.** Pneumothorax air collection hai.
+- **D.** Atelectasis lung tissue collapse hai, pleural chyle collection nahi.
+
+**Exam trick:** Chylomicrons support chylothorax.
+
+[Clinical reference](https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
@@ -881,7 +1023,7 @@ D. Bronchitis
 
 ### Q34. On room air, PaO2 is 52 mmHg and PaCO2 is 36 mmHg. Which respiratory failure pattern fits?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Type I hypoxemic respiratory failure
 - **B.** Isolated type II hypercapnic failure
@@ -892,15 +1034,25 @@ D. Bronchitis
 
 **Correct answer: A. Type I hypoxemic respiratory failure**
 
-**Kyun sahi hai aur baaki options kyun galat:** O2 <60 with normal CO2 supports type I; type II high CO2, not normal oxygen, pH/HCO3 needed for alkalosis.
+**Kyun sahi hai?** Room air PaO2 52 mmHg hypoxemia dikhata hai aur PaCO2 36 normal range mein hai. Classic Type I respiratory failure oxygenation problem hai. Patient ke clinical context aur oxygen support ko dhyan mein rakhna chahiye.
 
-**Exam trick:** O2 <60 with normal CO2 supports type I.
+**Baaki options kyun galat hain?**
+
+- **B.** Type II mein CO2 elevation characteristic hai.
+- **C.** PaO2 52 usual adult room-air range se kam hai.
+- **D.** pH aur bicarbonate absent hain, metabolic alkalosis prove nahi hoti.
+
+**Exam trick:** Type I: low oxygen, not necessarily raised CO2.
+
+[Clinical reference](https://bmjopenrespres.bmj.com/content/4/1/e000170)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q35. A patient with respiratory muscle weakness has PaCO2 68 mmHg and pH 7.24. What mechanism best explains the disturbance?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Excess ventilation eliminating CO2
 - **B.** Loss of pleural fluid alone
@@ -911,15 +1063,27 @@ D. Bronchitis
 
 **Correct answer: D. Inadequate alveolar ventilation causing CO2 retention**
 
-**Kyun sahi hai aur baaki options kyun galat:** Hypoventilation retains CO2 and acidifies; excess ventilation lowers CO2, pleural fluid loss not mechanism, bicarbonate excess alkalinizes.
+**Kyun sahi hai?** Respiratory muscles weak hone par adequate alveolar ventilation maintain nahi ho sakti. CO2 retain hoti hai. PaCO2 68 high aur pH 7.24 acidemia hai. Primary respiratory acidosis strongly supported hai. Exact compensation ke liye HCO3 aur context chahiye. Urgent ventilatory assessment karo.
 
-**Exam trick:** Hypoventilation retains CO2 and acidifies.
+**Baaki options kyun galat hain?**
+
+- **A.** Excess ventilation CO2 kam karti hai.
+- **B.** Pleural fluid loss alone hypercapnic acidemia explain nahi karta.
+- **C.** Bicarbonate excess primary metabolic alkalosis se associated hai.
+
+**Exam trick:** Hypoventilation → CO2 retention.
+
+[Clinical reference](https://bmjopenrespres.bmj.com/content/4/1/e000170)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Advanced Q4 respiratory acidosis. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q36. Which new finding in a previously tachypneic patient is particularly concerning for respiratory exhaustion?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Improved alertness and comfortable breathing
 - **B.** A stable respiratory rate with normal oxygenation
@@ -930,15 +1094,27 @@ D. Bronchitis
 
 **Correct answer: C. Drowsiness with diminishing respiratory effort**
 
-**Kyun sahi hai aur baaki options kyun galat:** Exhaustion reduces effort and alertness; other options indicate relative improvement/stability.
+**Kyun sahi hai?** Tachypneic patient suddenly drowsy ho aur respiratory effort kam ho toh muscles exhaust ho sakti hain. Reduced effort ko recovery assume mat karo. ABC, mental status, oxygenation, ventilation aur emergency escalation priority hain.
 
-**Exam trick:** Exhaustion reduces effort and alertness.
+**Baaki options kyun galat hain?**
+
+- **A.** Improved alertness with comfort generally reassuring trend hai.
+- **B.** Stable rate aur normal oxygenation alone ventilation prove nahi karte, par given options mein drowsiness with diminishing effort most concerning hai.
+- **D.** Comfortably speaking better clinical function suggest kar sakta hai.
+
+**Exam trick:** Drowsiness plus declining effort is dangerous.
+
+[Clinical reference](https://bmjopenrespres.bmj.com/content/4/1/e000170)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Day 3 disease Q15 related fatigue. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q37. Why is pulmonary edema in ARDS called non-cardiogenic?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** It always results solely from left ventricular failure
 - **B.** Inflammatory injury increases alveolar-capillary permeability
@@ -949,15 +1125,25 @@ D. Bronchitis
 
 **Correct answer: B. Inflammatory injury increases alveolar-capillary permeability**
 
-**Kyun sahi hai aur baaki options kyun galat:** Barrier leak in ARDS; LV hydrostatic mechanism cardiogenic, Hb irrelevant, fluid present.
+**Kyun sahi hai?** ARDS mein inflammatory injury alveolar-capillary barrier ko leaky bana deti hai. Fluid alveoli mein ja sakta hai aur gas exchange compromise hoti hai. Edema primarily cardiac pressure overload se explain nahi hoti, although cardiac disease coexist kar sakti hai.
 
-**Exam trick:** Barrier leak in ARDS.
+**Baaki options kyun galat hain?**
+
+- **A.** Left ventricular failure cardiogenic edema cause kar sakti hai, ARDS ka defining mechanism nahi.
+- **C.** Increased hemoglobin ARDS permeability injury ka usual mechanism nahi.
+- **D.** ARDS mein lung fluid accumulation ho sakti hai.
+
+**Exam trick:** ARDS: permeability edema.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870872/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q38. A ventilated ARDS patient has PaO2 72 mmHg on FiO2 0.60 with PEEP 8 cm H2O. What is the P/F ratio and Berlin oxygenation category if other criteria are met?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 43 mmHg, severe
 - **B.** 120 mmHg, moderate
@@ -968,15 +1154,25 @@ D. Bronchitis
 
 **Correct answer: B. 120 mmHg, moderate**
 
-**Kyun sahi hai aur baaki options kyun galat:** 72/0.60=120, >100–200 moderate; multiply wrong; mild >200, 432 wrong.
+**Kyun sahi hai?** P/F ratio = PaO2 ÷ FiO2 decimal = 72 ÷ 0.60 = 120 mmHg. Berlin definition mein moderate >100 to 200 hai jab relevant PEEP aur other criteria meet hon. PEEP 8 cm H2O minimum threshold support karta hai. New global definition selected non-intubated patients ko bhi include karti hai.
 
-**Exam trick:** 72/0.
+**Baaki options kyun galat hain?**
+
+- **A.** 43 multiplication se aata hai, division se nahi.
+- **C.** 120 mild category nahi hai. Mild >200 to 300 hai.
+- **D.** 432 given ratio se nahi milta.
+
+**Exam trick:** Divide by decimal FiO2.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870872/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q39. A patient with predicted body weight 60 kg has a prescribed ARDS target tidal volume of 6 mL/kg. What is the target volume?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 360 mL
 - **B.** 600 mL
@@ -987,15 +1183,27 @@ D. Bronchitis
 
 **Correct answer: A. 360 mL**
 
-**Kyun sahi hai aur baaki options kyun galat:** 60×6=360 mL; other values 10,1,15 mL/kg not prescribed target. Settings clinician decides.
+**Kyun sahi hai?** Target tidal volume = prescribed 6 mL/kg × predicted body weight 60 kg = 360 mL. ARDS lung protective ventilation mein PBW use hota hai, actual body weight nahi. Team pressure, oxygenation aur patient response ke according ventilator manage karti hai.
 
-**Exam trick:** 60×6=360 mL.
+**Baaki options kyun galat hain?**
+
+- **B.** 600 mL 10 mL/kg ke equal hai.
+- **C.** 60 mL 1 mL/kg hai.
+- **D.** 900 mL 15 mL/kg hai, prescribed target nahi.
+
+**Exam trick:** 6 × 60 = 360 mL.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870893/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
+
+**Revision mapping:** Clinical ventilation numericals. Related concept, exact semantic duplication not certified.
 
 </details>
 
 ### Q40. When turning an intubated ARDS patient prone, which nursing preparation is essential?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Turn the patient alone without checking tubes
 - **B.** Disconnect all monitoring for the entire session
@@ -1006,15 +1214,25 @@ D. Bronchitis
 
 **Correct answer: D. Coordinate trained team and secure airway, lines and pressure areas**
 
-**Kyun sahi hai aur baaki options kyun galat:** Proning team protects tube/lines/skin/eyes; solo, disconnecting and eye pressure unsafe.
+**Kyun sahi hai?** Prone positioning mein trained team patient turn karti hai. ETT, vascular lines, drains aur monitoring secure rakho, pressure areas aur eyes protect karo. Turning ke baad tube position, ventilation aur hemodynamics assess karo. Local ICU checklist follow karo.
 
-**Exam trick:** Proning team protects tube/lines/skin/eyes.
+**Baaki options kyun galat hain?**
+
+- **A.** Single-person turn airway dislodgement risk badhata hai.
+- **B.** Monitoring disconnect rehne se deterioration miss ho sakti hai.
+- **C.** Direct eye pressure injury risk badhata hai.
+
+**Exam trick:** Team, tubes, monitoring, pressure protection.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870893/)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q41. A postoperative patient develops abrupt pleuritic pain and tachypnea after prolonged immobility. Which mechanism raises concern for PE?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Airway mucus necessarily fills every alveolus
 - **B.** A bronchial tumor suddenly produces BCG
@@ -1025,15 +1243,25 @@ D. Bronchitis
 
 **Correct answer: C. A venous clot embolizes to pulmonary arteries**
 
-**Kyun sahi hai aur baaki options kyun galat:** Immobility stasis → DVT → PE; mucus obstruction different; BCG unrelated; empyema separate.
+**Kyun sahi hai?** Immobility venous stasis badha sakti hai aur postoperative state clot risk increase kar sakti hai. Venous thrombus embolize hokar pulmonary artery obstruct kar sakta hai. Ventilated alveoli ki perfusion kam ho sakti hai aur sudden dyspnea develop ho sakti hai. Urgent assessment karo.
 
-**Exam trick:** Immobility stasis → DVT → PE.
+**Baaki options kyun galat hain?**
+
+- **A.** Mucus filling airway obstruction mechanism hai, PE vascular obstruction hai.
+- **B.** BCG vaccine tumor se produce nahi hoti.
+- **D.** Pleural infection PE ka defining mechanism nahi.
+
+**Exam trick:** PE: perfusion blockage.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q42. A stable patient has low clinical probability of PE and a negative appropriately selected D-dimer. What is its usual role?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** It confirms massive PE
 - **B.** It measures clot location directly
@@ -1044,15 +1272,25 @@ D. Bronchitis
 
 **Correct answer: C. It may help rule out PE under a validated diagnostic pathway**
 
-**Kyun sahi hai aur baaki options kyun galat:** D-dimer rule-out suitable low probability; positive not definitive; location imaging, other disorders not excluded.
+**Kyun sahi hai?** Validated PE pathway mein low clinical probability ke saath appropriately selected negative D-dimer PE ko rule out karne mein help kar sakta hai. High probability, unstable patient ya unsuitable test context mein negative result alone sufficient nahi. Positive result bhi PE confirm nahi karta.
 
-**Exam trick:** D-dimer rule-out suitable low probability.
+**Baaki options kyun galat hain?**
+
+- **A.** Negative D-dimer massive PE confirm nahi karta.
+- **B.** D-dimer clot breakdown product measure karta hai, location nahi.
+- **D.** Ek test sab respiratory disorders exclude nahi karta.
+
+**Exam trick:** Probability before D-dimer.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q43. Which imaging test commonly evaluates pulmonary arterial thrombus directly in suspected PE?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Routine peak flow recording
 - **B.** CT pulmonary angiography
@@ -1063,15 +1301,25 @@ D. Bronchitis
 
 **Correct answer: B. CT pulmonary angiography**
 
-**Kyun sahi hai aur baaki options kyun galat:** CTPA contrast pulmonary arteries; peak flow airflow, TST TB infection, incentive exercise.
+**Kyun sahi hai?** CT pulmonary angiography contrast imaging se pulmonary arterial filling defects evaluate kar sakti hai. Contrast suitability aur patient condition clinical team assess kare. Selected patients mein V/Q scan alternative ho sakta hai.
 
-**Exam trick:** CTPA contrast pulmonary arteries.
+**Baaki options kyun galat hain?**
+
+- **A.** Peak flow expiratory airflow measure karta hai.
+- **C.** Mantoux TB infection assessment hai.
+- **D.** Incentive spirometry breathing exercise device hai.
+
+**Exam trick:** CTPA evaluates pulmonary arterial clot.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q44. A patient with suspected PE becomes hypotensive and confused. What should the nurse prioritize?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Urgent ABC assessment and emergency escalation
 - **B.** Encourage vigorous ambulation
@@ -1082,15 +1330,25 @@ D. Bronchitis
 
 **Correct answer: A. Urgent ABC assessment and emergency escalation**
 
-**Kyun sahi hai aur baaki options kyun galat:** Hemodynamic instability high-risk PE; emergency team, not ambulation/delay/percussion.
+**Kyun sahi hai?** Hypotension aur confusion suspected PE mein obstructive shock ya another severe emergency ka warning ho sakte hain. ABC, circulation aur oxygenation immediately assess karo aur emergency team activate karo. Diagnostic aur reperfusion planning trained clinicians karte hain.
 
-**Exam trick:** Hemodynamic instability high-risk PE.
+**Baaki options kyun galat hain?**
+
+- **B.** Vigorous ambulation unstable patient ke liye unsafe hai.
+- **C.** Routine outpatient testing ka wait life-saving care delay karta hai.
+- **D.** Chest percussion vascular clot dislodge karne ka treatment nahi.
+
+**Exam trick:** Suspected PE + shock = emergency.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
 ### Q45. Which finding needs prompt reporting during anticoagulation for PE?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original exam-style practice
 
 - **A.** Stable vital signs with no bleeding
 - **B.** Improved breathing without adverse effects
@@ -1101,9 +1359,19 @@ D. Bronchitis
 
 **Correct answer: D. New melena and falling blood pressure**
 
-**Kyun sahi hai aur baaki options kyun galat:** Melena + hypotension possible significant bleeding; others no immediate bleeding clue.
+**Kyun sahi hai?** Melena ka matlab black tarry stool ho sakta hai jo GI bleeding suggest karta hai. Anticoagulation ke saath falling BP significant bleeding ka warning hai. ABC, circulation, vitals aur emergency escalation karo. Medication hold/reversal local emergency protocol aur clinician ke according ho.
 
-**Exam trick:** Melena + hypotension possible significant bleeding.
+**Baaki options kyun galat hain?**
+
+- **A.** Stable vitals without bleeding reassuring hai.
+- **B.** Improved breathing without adverse effects urgent bleeding sign nahi hai.
+- **C.** Normal urine colour alone urgent bleeding finding nahi.
+
+**Exam trick:** Anticoagulation + melena + low BP = urgent review.
+
+[Clinical reference](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**YouTube MCQ practice: verification pending**. Specific tested concept-solving segment not confirmed.
 
 </details>
 
