@@ -62,3 +62,7 @@ report={"markdown_documents":md_count,"assets_copied":len(assets),"image_referen
 (Path(tempfile.gettempdir())/"nursing-mermaid-audit.json").write_text(json.dumps(charts,ensure_ascii=False),encoding="utf-8")
 print("SITE AUDIT:",json.dumps({k:v for k,v in report.items() if k not in ("missing_references","invalid_svg","mermaid_examples")}),"missing references:",len(missing),"invalid SVG:",len(invalid_svg),flush=True)
 for item in (missing+invalid_svg):print("SOURCE ISSUE:",json.dumps(item,ensure_ascii=False),flush=True)
+
+# Inventory is generated from this exact checkout, not from filenames or headline claims.
+import subprocess
+subprocess.run(['node',str(site/'build-metrics.cjs')],check=True)

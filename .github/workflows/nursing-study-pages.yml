@@ -27,6 +27,8 @@ jobs:
         run: |
           node --check website/media.js
           node website/media.test.cjs
+          node --check website/study-ui.js
+          node --check website/build-metrics.cjs
           node --check website/app.js
           node --check website/quiz.js
           node website/quiz.test.cjs
