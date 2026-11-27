@@ -16,10 +16,12 @@ D. Restrict every patient's movement routinely
 
 **Correct answer: C. Reduce risk of accidental rolling from bed in suitable patients**
 
-- **A (Incorrect):** Rails staff assessment aur assistance replace nahi karte.
-- **B (Incorrect):** IV equipment ke liye approved pole use hota hai, rails ka primary purpose yeh nahi.
-- **C (Correct):** Appropriate patient mein rail accidental rolling ka risk reduce karne mein help kar sakti hai, lekin climb-over aur entrapment hazards bhi assess karne chahiye.
-- **D (Incorrect):** Routine restriction safe fall prevention nahi hai aur restraint policy apply ho sakti hai.
+- **A (Incorrect):** Side rails patient assessment, timely supervision aur assistance ko replace nahi karti. Confusion, mobility aur toileting needs ke hisaab se fall prevention plan banana padta hai.
+- **B (Incorrect):** IV bag approved IV pole ya compatible equipment support par hang karna chahiye. Side rail ko IV support samajhne se device displacement ya bed operation mein interference ho sakta hai.
+- **C (Correct):** Suitable patient ke liye appropriately selected side rail accidental rolling from bed ka risk reduce kar sakti hai. Patient ki mobility, cognition, bed-mattress-rail compatibility aur entrapment risk assess karo. Confused patient rail ke upar climb kar sakta hai, jisse greater height se fall ho sakta hai. Individual assessment aur reassessment essential hain.
+- **D (Incorrect):** Har patient ki movement routine restrict karna inappropriate hai. Rail ka intended use aur patient ki ability determine karte hain ki restraint policy apply hoti hai ya nahi.
+
+**Exam clue:** Side rail individualized safety aid hai, universal fall-prevention solution nahi.
 
 [Third-party question report](https://testbook.com/question-answer/the-most-important-intended-outcome-of-using-side--630ddd5ac64ded60a36f6665) · [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention)
 
@@ -45,10 +47,12 @@ D. Apply restraints solely because of fall risk
 
 **Correct answer: A. Provide accessible call bell, safe footwear and patient-specific assistance**
 
-- **A (Correct):** Patient help request kar sakta hai aur suitable footwear plus assessed assistance safety support karte hain.
-- **B (Incorrect):** Sedation balance aur alertness impair kar sakti hai, routine fall prevention nahi hai.
-- **C (Incorrect):** Unsupported mobility assessed assistance need ignore karti hai.
-- **D (Incorrect):** Restraints solely fall prevention ke liye routine intervention nahi hain.
+- **A (Correct):** Accessible call bell se patient help request kar sakta hai. Safe footwear aur clear, well-lit pathway slipping aur tripping risks reduce karte hain. Nurse assessed mobility level ke according assistance aur walking aid arrange karti hai. Plan ko changing condition ke hisaab se update karo.
+- **B (Incorrect):** Sedatives alertness, reaction time aur balance impair kar sakte hain. Sirf fall prevent karne ke liye routine sedation appropriate nahi hai.
+- **C (Incorrect):** Agar assessment assistance ki need batata hai toh unsupported walking patient ko unnecessary risk mein daalti hai. Independence ko safe supervised mobility ke through promote karo.
+- **D (Incorrect):** Fall risk alone routine restraint justify nahi karta. Restraints agitation, climbing, entrapment aur injury ka risk badha sakte hain. Least restrictive alternatives use karo.
+
+**Exam clue:** Fall prevention ka goal safe mobility hai, unnecessary immobility nahi.
 
 [Third-party memory-based report](https://testbook.com/question-answer/nursing-intervention-for-a-patient-at-risk-for-fal--68c94308cd5ef1faf9b15ad1/amp) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/)
 
