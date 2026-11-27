@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: whole-obg-menopause-procedures-1514
-Scope: Gynecology menopause and procedures Q21–Q40, related evidence and chapter README only
+Scope: Gynecology menopause and procedures Q21–Q40, new pelvic floor/prolapse bank, related evidence and local chapter README only
 Claimed UTC: 2026-11-27T15:14:00Z
 Expiry UTC: 2026-11-27T15:44:00Z
 
