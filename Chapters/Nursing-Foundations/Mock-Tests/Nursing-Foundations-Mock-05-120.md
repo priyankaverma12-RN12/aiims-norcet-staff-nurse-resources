@@ -148,9 +148,22 @@ Stridor possible airway obstruction ka clue hai. Immediate assessment aur help p
 
 **Correct: D. Clarify the current authorized plan before applying the dressing**
 
-Incorrect dressing wound damage ya moisture imbalance cause kar sakti hai. Nurse current instructions reconcile karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Random selection, unapproved combination aur assessment ignore karna unsafe hain.
+Conflicting wound care orders se incompatible products, moisture imbalance ya tissue damage ka risk hota hai. Nurse latest assessment aur authorized order reconcile karti hai. Prescribing team se clarification lekar current plan follow karo. Urgent deterioration alag se escalate karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Latest assessment ignore karne se changes miss ho sakte hain.
+- **B (Galat):** Dono dressings bina compatibility review use karna unsafe hai.
+- **C (Galat):** Random selection clinical indication ignore karti hai.
+- **D (Sahi):** Authorized plan clarification safe procedure ensure karti hai.
+
+**Exam clue:** Clarify conflicting orders.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -549,9 +562,22 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 **Correct: B. Urgent assessment and device-specific bleeding emergency management**
 
-Fresh blood aur dizziness significant bleeding indicate kar sakte hain. Nurse patient assess karke urgent help leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Increased suction aur delay bleeding worsen kar sakte hain. Alarm ignore nahi karna chahiye.
+NPWT sealed dressing aur suction se wound fluid manage karti hai. Fresh blood aur dizziness significant bleeding ka clue hai. Urgent help activate karo aur ABC assess karo. V.A.C. jaise devices mein frank bleeding par device instructions ke according suction stop karo, dressing in place rakho aur emergency bleeding control arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Suction badhana bleeding worsen kar sakta hai.
+- **B (Sahi):** Urgent assessment aur device-specific response life-threatening bleeding address karte hain.
+- **C (Galat):** Next dressing tak delay ongoing blood loss mein unsafe hai.
+- **D (Galat):** Alarm silence karke leave karne se deterioration miss ho sakti hai.
+
+**Exam clue:** Fresh blood plus dizziness: bleeding emergency.
+
+**Clinical reference:** [Clinical guidance](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/detail.cfm?mdrfoi__id=20042698&pc=OMP)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1154,9 +1180,22 @@ Core temperature 35°C se below ho toh hypothermia kehlati hai. Severity aur cli
 
 **Correct: C. Moist red or pink granular tissue**
 
-New capillaries aur connective tissue granulation tissue banate hain. Isliye appearance red-pink aur granular ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Eschar dead tissue hai. Pus infection suggest kar sakta hai. Fat granulation tissue se different hai.
+Granulation tissue proliferative healing phase mein new capillaries aur connective tissue se banta hai. Healthy tissue usually moist red ya pink aur granular dikhta hai. Wound appearance, drainage aur perfusion ko saath assess karo. Color alone diagnosis establish nahi karta.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Black eschar devitalized tissue hai.
+- **B (Galat):** Green pus infection ka clue ho sakta hai, granulation nahi.
+- **C (Sahi):** Moist red-pink granular tissue healthy healing ke saath consistent hai.
+- **D (Galat):** Yellow exposed fat new granulation se different tissue hai.
+
+**Exam clue:** Granulation: moist red or pink.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1175,9 +1214,22 @@ New capillaries aur connective tissue granulation tissue banate hain. Isliye app
 
 **Correct: C. Visual inspection without routine removal**
 
-Transparent film se covered site visible rehti hai. Nurse product capacity aur skin condition assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Film unlimited fluid absorb nahi karti. Infection cure aur injury-free use guaranteed nahi hain.
+Transparent film thin adhesive barrier hai jiske through covered site visible rehti hai. Selected low-exudate wounds mein inspection without routine removal allow karti hai. Absorption limited hai. Leakage, fluid accumulation aur adhesive injury monitor karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dressing infection cure guarantee nahi karti.
+- **B (Galat):** Adhesive fragile skin damage kar sakta hai.
+- **C (Sahi):** Transparency covered site inspect karne mein help karti hai.
+- **D (Galat):** Film unlimited absorbent nahi hai.
+
+**Exam clue:** Film: visibility, limited absorption.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
