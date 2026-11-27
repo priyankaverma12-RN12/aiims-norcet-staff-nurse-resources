@@ -4,7 +4,9 @@
 
 ### Q1. Two patients in the ward have the same surname. Which action best prevents a wrong-patient procedure?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Verify two approved identifiers against the order
 - **B.** Use the room number and surname only
@@ -19,11 +21,21 @@ Nurse patient ka naam aur doosra approved identifier, jaise date of birth ya hos
 
 **Baaki options kyun sahi nahi hain?** Room aur bed change ho sakte hain. Neighbor ki identification reliable nahi hai. Missing wristband ko policy se resolve karna hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A confused patient repeatedly attempts to stand after receiving a sedative. Which initial intervention is best?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Apply four-point restraints immediately without assessment
 - **B.** Keep all four side rails raised as the only intervention
@@ -38,11 +50,21 @@ Sedation balance aur alertness reduce kar sakti hai. Nurse toileting, pain, conf
 
 **Baaki options kyun sahi nahi hain?** Restraint least restrictive alternatives ke baad hi indicated ho sakti hai. Rails alone safe nahi hain. Unsupported walking fall risk badhati hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. Which environment most reduces fall risk for an ambulatory older patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Dark corridor to promote sleep during walking
 - **B.** Frequently moved furniture across the walkway
@@ -57,11 +79,21 @@ Low locked bed aur clear pathway patient ko safely transfer aur walk karne mein 
 
 **Baaki options kyun sahi nahi hain?** High unlocked bed, darkness aur clutter injury ka risk badhate hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient is found on the floor after an unwitnessed fall. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Ask the patient to stand unsupported to prove there is no fracture
 - **B.** Assess responsiveness, airway, breathing, circulation and possible injury before moving
@@ -76,11 +108,21 @@ Fall ke baad head, spine ya limb injury ho sakti hai. Nurse pehle immediate thre
 
 **Baaki options kyun sahi nahi hain?** Blind lifting injury worsen kar sakti hai. Reporting assessment ke baad hoti hai. Standing fracture exclude nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A nurse catches a wrong-dose preparation before it reaches the patient. What type of safety event is this?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Sentinel injury in every case
 - **B.** Near miss
@@ -95,11 +137,21 @@ Near miss mein error hua ya hone wala tha, lekin patient tak harm-producing even
 
 **Baaki options kyun sahi nahi hain?** ADR medicine ke harmful response ko describe karti hai. Therapeutic response expected benefit hai. Serious injury necessarily hui nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. Which quality improvement approach primarily seeks to identify system contributors after a serious patient safety event?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Root cause analysis
 - **B.** Punishing the first available worker without investigation
@@ -114,11 +166,21 @@ Root cause analysis mein team event ke contributing factors, jaise communication
 
 **Baaki options kyun sahi nahi hain?** Automatic punishment causes identify nahi karti. Records delete aur system factors ignore karna learning ko prevent karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Allow smoking if the oxygen flow is low
 - **B.** Cover the oxygen equipment with a blanket
@@ -133,11 +195,21 @@ Oxygen khud fuel nahi hai lekin burning ko strongly support karti hai. Nurse ign
 
 **Baaki options kyun sahi nahi hain?** Low flow bhi fire risk eliminate nahi karta. Blanket aur increased flow unsafe ho sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. An electrical device sparks while connected to a patient. Which immediate response is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Pour water on the energized equipment
 - **B.** Continue using the device until the next maintenance visit
@@ -152,11 +224,21 @@ Electrical hazard mein rescuer aur patient dono ki safety important hai. Nurse s
 
 **Baaki options kyun sahi nahi hain?** Wet hands aur water shock risk badhate hain. Faulty equipment continue use nahi karna chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A patient with a documented severe latex allergy is admitted for a procedure. Which preventive action is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Remove the allergy alert after admission
 - **B.** Wait for a reaction before selecting equipment
@@ -171,11 +253,21 @@ Latex exposure sensitized patient mein serious reaction cause kar sakta hai. Cle
 
 **Baaki options kyun sahi nahi hain?** Brief contact bhi reaction trigger kar sakta hai. Alert remove karna aur reaction ka wait unsafe hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. Which action is appropriate when a patient requires a physical restraint under applicable policy?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Use restraints routinely for staff convenience
 - **B.** Use the least restrictive effective option with authorization, reassessment and monitoring
@@ -190,11 +282,21 @@ Restraints injury aur distress cause kar sakti hain. Nurse alternative measures 
 
 **Baaki options kyun sahi nahi hain?** Moving rail attachment tension cause kar sakti hai. Unobserved restraint unsafe hai. Convenience indication nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04C-Restraint-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Which item should be within reach of a patient who requires help with transfers?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Call bell
 - **B.** Unsecured sharp instrument
@@ -209,11 +311,21 @@ Call bell se patient bed se uthne se pehle help mang sakta hai. Isse unassisted 
 
 **Baaki options kyun sahi nahi hain?** Sharp item, wrong medication aur cable safety hazards hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A nurse encounters a barcode mismatch while scanning a medication. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Override the alert because the package looks familiar
 - **B.** Scan a different patient's wristband
@@ -228,11 +340,19 @@ Mismatch wrong patient ya wrong product ka clue ho sakta hai. Nurse administrati
 
 **Baaki options kyun sahi nahi hain?** Override, another wristband aur after-dose verification safety barrier bypass karte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. What is the most appropriate use of a fall-risk assessment tool?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Assume a low score rules out all future falls
 - **B.** Use the same prevention plan regardless of changing condition
@@ -247,11 +367,21 @@ Tool risk factors systematically identify karne mein help karta hai. Condition a
 
 **Baaki options kyun sahi nahi hain?** Low score guarantee nahi hai. Same plan har patient ke liye appropriate nahi hai. Reassessment needed hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. An unfamiliar infusion pump alarm activates and the patient is receiving a high-alert medicine. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Increase the rate without verifying the cause
 - **B.** Disconnect every line without considering treatment interruption
@@ -266,11 +396,21 @@ Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse pati
 
 **Baaki options kyun sahi nahi hain?** Alarm ignore karna problem miss kar sakta hai. Rate change aur indiscriminate disconnection harm kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. Which approach reduces the risk of wrong-site surgery?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Skip verification when staff are familiar with the patient
 - **B.** Participate in the required preprocedure verification and team time-out
@@ -285,11 +425,21 @@ Team time-out mein identity, procedure aur correct site confirm ki jaati hai. Is
 
 **Baaki options kyun sahi nahi hain?** Bed label inadequate hai. Random marking unsafe hai. Familiarity formal verification replace nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**▶️ [YouTube MCQ practice — Surgical checklist, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Title and indexed description confirm checklist questions and answers. Exact item, channel and playback pending.
+
+**Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A patient with swallowing difficulty is given a meal tray containing food outside the prescribed texture plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Withhold the unsafe tray and obtain the correct meal after verification
 - **B.** Encourage rapid eating before the food cools
@@ -304,11 +454,19 @@ Dysphagia mein wrong food consistency aspiration risk badha sakti hai. Nurse pre
 
 **Baaki options kyun sahi nahi hain?** Rapid eating, unapproved consistency changes aur flat positioning unsafe ho sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. Which principle is central to a just culture in patient safety?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Encourage reporting and distinguish human error from reckless behavior
 - **B.** Guarantee that no unsafe behavior is ever reviewed
@@ -323,11 +481,21 @@ Just culture staff ko mistakes report karne mein support karti hai aur behavior 
 
 **Baaki options kyun sahi nahi hain?** Reckless behavior review ho sakta hai. Concealment learning reduce karti hai. Evidence se pehle blame unfair hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A patient's condition suddenly deteriorates while the assigned nurse cannot reach the primary clinician. What is the best next action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Wait indefinitely for the primary clinician to return
 - **B.** Ask another patient to decide whether it is serious
@@ -342,11 +510,19 @@ Acute deterioration time-sensitive hoti hai. Escalation pathway se additional tr
 
 **Baaki options kyun sahi nahi hain?** Indefinite wait, untrained decision aur documentation delay patient safety compromise kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. Which bed-transfer practice is appropriate when moving a patient to a wheelchair?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Ask the patient to hold a loose IV pole for support
 - **B.** Remove all footwear even if the floor is slippery
@@ -361,11 +537,21 @@ Locked brakes chair movement prevent karte hain. Transfer se pehle strength, bal
 
 **Baaki options kyun sahi nahi hain?** Moving chair, loose pole aur slippery surface falls ka risk badhate hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A medication error has reached a patient, but no symptoms are currently evident. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Discard the medication package to prevent investigation
 - **B.** Assess the patient and arrange prompt clinical review and required reporting
@@ -380,6 +566,14 @@ Some medicine effects delayed ho sakte hain. Nurse patient assess karti hai, cli
 
 **Baaki options kyun sahi nahi hain?** Symptoms ka wait unsafe hai. Record change aur evidence destroy karna inappropriate hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
 ## Study references
