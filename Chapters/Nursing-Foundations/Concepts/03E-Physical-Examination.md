@@ -1,8 +1,18 @@
-# Physical examination and health assessment
+<a name="physical-examination-and-health-assessment"></a>
+
+# 📚 Physical examination and health assessment
 
 **Study-ready, not studied.** 🟠 HIGH YIELD. [27 original MCQs](../MCQs/03E-Physical-Examination-27-MCQs.md) + original group 03 Q8–10 = 30 allocated. Nursing assessment is not independent medical diagnosis.
 
-## Methods and preparation
+<a name="methods-and-preparation"></a>
+
+## 🔹 Methods and preparation
+
+<!-- job4-metadata -->
+**Exam evidence:** **🟣 [NVS Staff Nurse — 8 March 2022](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a)** — retrieved reported percussion question, related tested concept only. Official key not independently authenticated.
+
+**▶️ YouTube MCQ practice:** [Physical examination MCQ resource](#sources-and-videos) below; description confirms IPPA techniques. Exact item and playback pending.
+<!-- /job4-metadata -->
 
 Physical examination objective findings collect karne ka systematic method hai. Subjective history bhi important hai. Hand hygiene, identity, explanation, ongoing consent, privacy, equipment aur lighting check karo. Sirf required part expose karo. Unstable patient mein immediate assessment first.
 
@@ -31,7 +41,13 @@ Stethoscope warm kar sakte ho. Bare skin par corresponding sites compare karo. T
 
 [MCQ Q1–11](../MCQs/03E-Physical-Examination-27-MCQs.md) · [Reported technique question](../Previous-Year-Questions/03E-Physical-Examination-Reported-Evidence.md).
 
-## Systematic examination
+<a name="systematic-examination"></a>
+
+## 🔹 Systematic examination
+
+<!-- job4-metadata -->
+**▶️ YouTube MCQ practice:** [Physical examination MCQ resource](#sources-and-videos) below, with indexed heart, lung and abdominal assessment topics. Specific neurological and vascular scenarios remain unverified.
+<!-- /job4-metadata -->
 
 🟠 HIGH YIELD. General survey mein appearance, awareness, mobility aur distress observe karo. Skin color, moisture, warmth, intactness and edema assess karo. Mucosa aur sclera different skin tones mein color change assess karne mein help karte hain. Pitting edema mein gentle pressure release ke baad indentation rehti hai. Site, extent aur agreed grading method record karo. Older adults mein skin elasticity naturally kam ho sakti hai. Hydration ke liye intake/output, mucosa, vitals aur other findings combine karo. Cold temperature refill affect kar sakta hai, capillary refill alone shock establish nahi karta.
 
@@ -41,13 +57,21 @@ Gait assessment se pehle dizziness aur fall risk check karo. Unsupported walking
 
 [MCQ Q12–24](../MCQs/03E-Physical-Examination-27-MCQs.md).
 
-## Documentation and escalation
+<a name="documentation-and-escalation"></a>
+
+## 🔹 Documentation and escalation
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific documentation and escalation scenario coverage not established. [Original practice bank](../MCQs/03E-Physical-Examination-27-MCQs.md).
+<!-- /job4-metadata -->
 
 🔴 MOST IMPORTANT. Objective observations record karo, e.g. left ankle right se visibly swollen hai, skin intact. Observation se disease label automatically conclude mat karo. Serial comparisons ke liye consistent method, site, time aur measurements use karo. Sudden unresponsiveness mein routine examination stop karo, responsiveness and breathing assess karo and emergency response activate karke trained local protocol follow karo. Action aur response record karo.
 
 [MCQ Q25–27](../MCQs/03E-Physical-Examination-27-MCQs.md).
 
-## Sources and videos
+<a name="sources-and-videos"></a>
+
+## ▶️ Sources and videos
 
 - [Open RN general survey](https://www.ncbi.nlm.nih.gov/sites/books/NBK593193/) and [head-to-toe checklist](https://www.ncbi.nlm.nih.gov/books/NBK593191/).
 - [OpenStax general survey](https://openstax.org/books/clinical-nursing-skills/pages/15-1-performing-a-general-survey) and [abdominal assessment](https://openstax.org/books/clinical-nursing-skills/pages/27-2-physical-assessment).
