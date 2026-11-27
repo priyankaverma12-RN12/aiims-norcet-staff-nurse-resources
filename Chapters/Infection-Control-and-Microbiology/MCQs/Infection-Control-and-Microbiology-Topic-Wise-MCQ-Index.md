@@ -47,7 +47,6 @@
 | [Equipment disinfection and endoscope reprocessing](02B-Equipment-Disinfection-and-Endoscope-Reprocessing-30-MCQs.md) | 30 |
 | [Sterilization methods and monitoring](02C-Sterilization-Methods-and-Monitoring-15-MCQs.md) | 15 |
 | [Standard precautions and safe patient care](03A-Standard-Precautions-and-Safe-Patient-Care-30-MCQs.md) | 30 |
-
 | [Transmission-based precautions and isolation](03B-Transmission-Based-Precautions-and-Isolation-20-MCQs.md) | 20 |
 | [PPE selection and safe removal](03C-PPE-Selection-and-Safe-Removal-20-MCQs.md) | 20 |
 
