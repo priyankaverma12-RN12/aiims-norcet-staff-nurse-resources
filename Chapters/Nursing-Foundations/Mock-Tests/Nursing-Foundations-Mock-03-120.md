@@ -310,7 +310,9 @@ EEG scalp electrodes se brain electrical patterns record karta hai. Seizure eval
 
 ### Q14. A nurse is performing a task likely to splash blood toward the face. Which PPE is required according to exposure risk?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 ESIC Staff Nurse 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Appropriate eye and face protection along with other indicated PPE
 - **B.** No protection if the patient has no known infection
@@ -325,9 +327,15 @@ Blood splash eyes, nose ya mouth mucosa tak pahunch sakti hai. Nurse face protec
 
 **Baaki options kyun sahi nahi hain?** Cap aur shoe covers face protect nahi karte. Unknown infection status exposure risk remove nahi karta.
 
+<!-- job4-metadata -->
+**Exam evidence:** [ESIC Staff Nurse, 26 February 2019, Shift III](https://testbook.com/question-answer/standard-precaution-requires-the-use-of-protective--619cf7c4fd740c8229c314d8) — retrieved third-party report on facial splash protection; related tested concept only, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — PPE, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q10](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q10](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q10-a-nurse-is-performing-a-task-likely-to-splash-blood-toward-the-face-which-ppe-is-required-according-to-exposure-risk)
 
 ### Q15. A patient refuses an oral medication after the nurse explains its purpose. Which response is appropriate?
 
@@ -1502,7 +1510,9 @@ End-of-life conflict mein applicable law, valid orders aur patient wishes import
 
 ### Q63. A used needle has just been withdrawn after an injection. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Activate the safety feature if present and discard directly in an appropriate sharps container
 - **B.** Leave it on the patient's bedside table
@@ -1517,9 +1527,15 @@ Used needle puncture injury cause kar sakti hai. Immediate safe disposal exposur
 
 **Baaki options kyun sahi nahi hain?** Two-hand recapping, bending aur bedside storage sharps injury risk badhate hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q11](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q11](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q11-a-used-needle-has-just-been-withdrawn-after-an-injection-which-action-is-safest)
 
 ### Q64. A terminally ill patient says, I do not want my family informed about this detail. What is the appropriate response?
 
@@ -1837,7 +1853,9 @@ Linen change mein lines snag ya pull ho sakti hain. Nurse tubing trace karti hai
 
 ### Q77. A nurse sustains an occupational needlestick. Which initial response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Squeeze the wound aggressively and apply bleach
 - **B.** Conceal the event until symptoms appear
@@ -1852,9 +1870,15 @@ Needlestick se bloodborne exposure ho sakta hai. Nurse soap-water se site clean 
 
 **Baaki options kyun sahi nahi hain?** Bleach tissue harm kar sakta hai. Concealment aur delay time-sensitive prophylaxis ka chance reduce karte hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q12](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q12](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q12-a-nurse-sustains-an-occupational-needlestick-which-initial-response-is-appropriate)
 
 ### Q78. A patient with limited mobility and poor intake is developing constipation. Which mechanism contributes?
 
@@ -2038,7 +2062,9 @@ Pale cool toes aur numbness blood flow ya nerve compression indicate kar sakte h
 
 ### Q86. A patient has suspected infectious pulmonary tuberculosis. Which additional precaution is generally appropriate in healthcare?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Airborne precautions with appropriate respiratory protection and room placement
 - **B.** Standard precautions with no respiratory protection for close care
@@ -2053,9 +2079,15 @@ Pulmonary TB tiny airborne particles se spread ho sakti hai. Facility airborne p
 
 **Baaki options kyun sahi nahi hain?** Contact precautions alone airborne spread address nahi karti. Sterile gloves respiratory protection nahi deti.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — airborne precautions, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q9](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q9](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q9-a-patient-has-suspected-infectious-pulmonary-tuberculosis-which-additional-precaution-is-generally-appropriate-in-healthcare)
 
 ### Q87. Which exercise involves a caregiver moving the patient's joint without active muscle effort from the patient?
 
