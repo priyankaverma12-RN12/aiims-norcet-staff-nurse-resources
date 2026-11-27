@@ -33,6 +33,8 @@
 
 **Referral safety:** NICE NG98 recommends immediate assessment (within 24 hours) for unexplained sudden hearing loss arising within the last 30 days. [NICE NG98](https://www.nice.org.uk/guidance/ng98/chapter/Recommendations). Onset record karna urgent referral ko delay nahi karna chahiye.
 
+**Clinical audit note (27 Nov 2026):** Onset ko exact duration aur last-known-normal hearing ke saath record karo. Sudden hearing loss agar 3 din ya usse kam mein develop hua aur last 30 days ke andar hai, aur external/middle-ear cause nahi milta, toh NICE NG98 immediate referral (24 hours ke andar specialist assessment) recommend karta hai. Documentation referral ko delay nahi karni chahiye.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -59,6 +61,8 @@
 - **D. Kyun galat hai:** Unexplained abnormal reading verify karni chahiye. Ignore karne se exposure continue ho sakta hai.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea).
+
+**Clinical audit note (27 Nov 2026):** Irrigation ko promptly resume karo. EyeWiki ke according target ocular pH approximately 7.0–7.2 hai; irrigation pause ke kam se kam 5 minutes baad recheck karke stability assess karo. Retained particles trained clinician ko identify/remove karne hain. Chemical neutralizing agents use mat karo.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -87,6 +91,8 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea).
 
+**Clinical audit note (27 Nov 2026):** Affected eye se contaminated fluid ko lateral side ki taraf drain hone do; uninjured eye aur staff ko splash exposure se protect karo. Adequate volume se immediate irrigation primary hai; PPE ya equipment arrange karne mein unnecessary delay na ho.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -113,6 +119,8 @@
 - **D. Kyun sahi hai:** Normal eardrum se inner ear normal prove nahi hota. Audiometry different frequencies par thresholds aur loss ka pattern assess karti hai.
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-shl-press-release-fact-sheet/).
+
+**Clinical audit note (27 Nov 2026):** Pure-tone air aur bone conduction thresholds ka comparison conductive aur sensorineural components differentiate karne mein useful hai. AAO-HNS 2019 audiometry jald se jald, onset ke 14 din ke andar recommend karta hai; ye outer limit hai, emergency referral ko 14 din tak postpone karne ka instruction nahi.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -141,6 +149,8 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-shl-press-release-fact-sheet/).
 
+**Clinical audit note (27 Nov 2026):** Residual hearing loss/tinnitus mein rehabilitation ke saath follow-up audiometry bhi plan hoti hai. AAO-HNS treatment end par aur completion ke 6 months ke andar follow-up audiometry recommend karta hai.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -167,6 +177,8 @@
 - **D. Kyun sahi hai:** Goblet cells secreted mucins banati hain, jo ocular surface wettability aur tear stability support karte hain. Chemical injury in cells ko destroy kar sakti hai; chronic surface disease ke liye specialist follow-up important hai.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_%28alkali_and_acid%29_injury_of_the_conjunctiva_and_cornea).
+
+**Clinical audit note (27 Nov 2026):** Goblet cell-derived mucin ki kami tear film ko surface par spread karne aur wetting maintain karne mein difficulty create kar sakti hai. Chemical injury mein aqueous deficiency, lid problems aur limbal disease bhi coexist kar sakte hain; mucin loss sole cause nahi maana jaye.
 
 **YouTube MCQ practice:** Exact question verification pending.
 
@@ -195,6 +207,8 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea).
 
+**Clinical audit note (27 Nov 2026):** Limbal ischemia severe burn ki prognostic sign hai; surviving stem-cell reserve reduce ho sakta hai. Delayed epithelial healing, conjunctivalization aur recurrent defects ke risk ke liye urgent specialist-directed monitoring chahiye.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -221,6 +235,8 @@
 - **D. Kyun galat hai:** Second episode omit karne se important history miss hogi.
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-shl-press-release-fact-sheet/).
+
+**Clinical audit note (27 Nov 2026):** Recurrent sudden loss ke saath bilateral involvement ya focal neurological symptoms bhi specifically document karo. Ye idiopathic unilateral episode se alag cause suggest kar sakte hain. Acute recurrence ko routine follow-up tak defer mat karo.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -249,6 +265,8 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng98/chapter/Recommendations).
 
+**Clinical audit note (27 Nov 2026):** Teach-back mein patient apni language mein consent information repeat karta hai. Preferred communication mode, working hearing aids, written accessible material aur qualified interpreter where needed arrange karo. Family ko involve karna patient ki permission aur wishes ke according ho.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -275,6 +293,8 @@
 - **D. Kyun galat hai:** Chemical identity alone stable decontamination prove nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea).
+
+**Clinical audit note (27 Nov 2026):** Label ya safety data sheet se chemical category, concentration aur exposure context pata chal sakta hai. Rinsing ke baad bhi pH aur tissue injury independently reassess karo; product name alone injury grade establish nahi karta.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -303,6 +323,8 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Pre-Ophthalmologist_Management_of_Eye_Trauma).
 
+**Clinical audit note (27 Nov 2026):** Blunt trauma previous corneal/scleral incision par globe rupture kar sakta hai even if external wound obvious nahi hai. Suspected open globe mein rigid shield without pressure, manipulation/contact tonometry avoid, urgent ophthalmic assessment aur authorized emergency pathway follow karo. [EyeWiki ruptured globe](https://eyewiki.org/Ruptured_Globe).
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -329,6 +351,8 @@
 - **D. Kyun galat hai:** High volume feedback aur discomfort worsen kar sakta hai.
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng98/chapter/Recommendations).
+
+**Clinical audit note (27 Nov 2026):** Check earpiece seating, fit, tubing damage aur possible wax/discharge. Device-specific cleaning instructions follow karo; ear canal mein objects insert mat karo. Persistent feedback audiology review maangta hai. [Cambridge University Hospitals hearing aid troubleshooting](https://www.cuh.nhs.uk/patient-information/nhs-hearing-aids-problem-solving/).
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -357,6 +381,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816671491).
 
+**Clinical audit note (27 Nov 2026):** Persistent unilateral deficit ko cerumen resolution ke baad objectively reassess karo. Audiological/ENT referral onset aur red flags ke according prioritize karo. Sudden unexplained loss ho toh immediate referral rule apply hota hai.
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -383,6 +409,8 @@
 - **D. Kyun galat hai:** Ear canal wax ocular siderosis ke pathophysiology se unrelated hai.
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Siderosis).
+
+**Clinical audit note (27 Nov 2026):** Iron-containing intraocular foreign body se ocular siderosis develop ho sakti hai; lens opacity, retinal dysfunction aur secondary glaucoma possible hain. Specialist assessment urgent hai; ferromagnetic foreign body suspected ho toh MRI safety check zaroori hai.
 
 **YouTube MCQ practice:** Exact question verification pending.
 
@@ -411,6 +439,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aci.health.nsw.gov.au/ecat/adult/ocular).
 
+**Clinical audit note (27 Nov 2026):** Tetanus status mein prior vaccine series aur last booster timing document karo. Wound classification ke according clinician vaccine aur, selected cases mein, immunoglobulin ki need decide karega. Prophylaxis surgical referral ko delay nahi karni chahiye.
+
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
 </details>
@@ -437,6 +467,8 @@
 - **D. Kyun galat hai:** Small non-obstructive wax permanent hearing loss prove nahi karta.
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816671491).
+
+**Clinical audit note (27 Nov 2026):** Cerumen impaction tab clinically relevant hoti hai jab symptoms cause kare ya needed examination block kare. Asymptomatic, nonobstructive wax ko routine instrumentation se remove karna necessary nahi.
 
 **YouTube MCQ practice:** Specific question verification pending.
 
@@ -465,6 +497,8 @@
 
 **Clinical reference:** [Guideline](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816671491).
 
+**Clinical audit note (27 Nov 2026):** 2017 AAO-HNS cerumen guideline previous tympanoplasty/myringoplasty aur certain ear operations ko standard guideline population se exclude karti hai. Isliye general irrigation recommendation ko automatically apply na karo; altered anatomy aur membrane integrity specialist se clarify karo. [AAO-HNS guideline scope and exclusions](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cerumen-impaction/).
+
 **YouTube MCQ practice:** Specific question verification pending.
 
 </details>
@@ -491,6 +525,8 @@
 - **D. Kyun galat hai:** Gum ko bhi perioperative intake policy ke hisab se manage karna chahiye.
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/).
+
+**Clinical audit note (27 Nov 2026):** Suspected open globe mein oral intake hold as directed, last intake record, eye shield without pressure, pain/nausea management as ordered aur urgent ophthalmology referral. Routine fasting interval complete hone ka wait emergency referral delay nahi karna chahiye. [RCH penetrating eye injury](https://www.rch.org.au/clinicalguide/guideline_index/Penetrating_eye_injury/).
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -519,7 +555,9 @@
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Pediatric trapdoor orbital fracture minimal bruising ke saath muscle/tissue entrapment cause kar sakti hai. Nausea, vomiting ya bradycardia oculocardiac reflex ke clues ho sakte hain. Urgent surgical/ophthalmic assessment chahiye, routine review nahi.
+
+**YouTube MCQ practice:** [Smart Optometry: Ocular Trauma — 8 cases (Learn by MCQ)](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Indexed description lists orbital roof fracture, a related topic only; exact floor-fracture task and playback unverified.
 
 </details>
 
@@ -546,7 +584,9 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-acute-otitis-externa-press-release-fact-sheet/).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Pinna movement ya tragal pressure external canal ke inflamed tissue ko move karta hai; tenderness acute otitis externa ka supportive sign hai. Is sign alone se middle-ear disease ya other causes rule out nahi hote.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -575,7 +615,9 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-acute-otitis-externa-press-release-fact-sheet/).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Non-intact tympanic membrane ya tube ke case mein AAO-HNS non-ototoxic topical preparation recommend karta hai. Suspect order ko administration se pehle clarify karo; specific drug aur formulation prescriber confirm kare.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -602,7 +644,9 @@
 
 **Clinical reference:** [Clinical guidance](https://aci.health.nsw.gov.au/ecat/adult/ocular).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Orbital wall fracture mein sinus aur orbital tissue communicate kar sakte hain. Nose blowing se air pressure orbit mein transfer ho sakta hai. Fracture assessment aur surgeon ki instructions follow karo; forceful blowing avoid karo.
+
+**YouTube MCQ practice:** [Smart Optometry: Ocular Trauma — 8 cases (Learn by MCQ)](https://www.youtube.com/watch?v=Yk1mN08r5Z8). Indexed description lists orbital roof fracture, a related topic only; exact floor-fracture task and playback unverified.
 
 </details>
 
@@ -628,6 +672,8 @@
 - **D. Kyun galat hai:** Proptosis ke saath visual decline serious pressure problem ka sign ho sakta hai.
 
 **Clinical reference:** [Clinical guidance](https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/).
+
+**Clinical audit note (27 Nov 2026):** Orbital compartment syndrome sight-threatening emergency hai. Rapidly deteriorating vision ke saath tense proptosis ho toh immediate emergency response and trained clinician-led decompression assessment chahiye; routine imaging ya outpatient delay se vision loss ka risk hai.
 
 **YouTube MCQ practice:** Specific question verification pending. See practice research below.
 
@@ -656,7 +702,9 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-acute-otitis-externa-press-release-fact-sheet/).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Severe canal edema prescribed topical therapy ko affected site tak pahunchne se rok sakti hai. Trained clinician aural toilet, wick ya dono select kar sakta hai; nurse independent forceful cleaning ya dose escalation na kare.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -683,7 +731,9 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-acute-otitis-externa-press-release-fact-sheet/).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Initial therapy ke 48–72 hours mein response na ho toh AAO-HNS diagnosis aur management reassess karne ko kehta hai. Worsening severe pain, diabetes, cranial nerve changes ya systemic illness mein earlier urgent escalation warranted hai.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -710,7 +760,9 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Sickle cell trait/disease mein even small anterior chamber blood load se IOP rise aur perfusion compromise ho sakta hai. Ophthalmologist individualized pressure targets/therapy select karta hai; visible blood size alone reassuring nahi hai.
+
+**YouTube MCQ practice:** [Optometry Fans hyphema lecture with MCQs](https://www.youtube.com/watch?v=eJTDqeVJBUw). Indexed description states MCQ component; mixed teaching/practice lead, exact question and playback unverified.
 
 </details>
 
@@ -737,7 +789,9 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Additional OTC aspirin aur other NSAIDs ke bleeding risk ko clarify karo. Existing prescribed antiplatelet/anticoagulant independently discontinue mat karo; clinician competing thrombotic aur ocular bleeding risk review kare.
+
+**YouTube MCQ practice:** [Optometry Fans hyphema lecture with MCQs](https://www.youtube.com/watch?v=eJTDqeVJBUw). Indexed description states MCQ component; mixed teaching/practice lead, exact question and playback unverified.
 
 </details>
 
@@ -764,7 +818,9 @@
 
 **Clinical reference:** [Guideline](https://www.entnet.org/resource/aao-hnsf-updated-cpg-acute-otitis-externa-press-release-fact-sheet/).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** Severe ongoing otalgia/otorrhea in diabetes raises concern for necrotizing otitis externa, which can extend into skull-base tissues. Urgent ENT/medical assessment chahiye; outpatient routine drops alone par rely nahi karna.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -791,7 +847,9 @@
 
 **Clinical reference:** [Guideline](https://www.nice.org.uk/guidance/ng91/chapter/recommendations).
 
-**YouTube MCQ practice:** Specific question verification pending.
+**Clinical audit note (27 Nov 2026):** NICE NG91 back-up prescription mein symptoms 3 din mein improve hona start na karein ya kisi bhi time worsen ho toh agreed action plan follow karne ki advice deta hai. Rapid/significant deterioration, systemic illness ya suspected complication mein reassessment chahiye. Appropriate analgesia continue as prescribed.
+
+**YouTube MCQ practice:** [Adda247 Nursing pediatric eye and ear disorders](https://www.youtube.com/watch?v=qVPpZQ8qkvs). Indexed description includes otitis media/externa and MCQs; mixed theory/practice lead, not dedicated item-level verification.
 
 </details>
 
@@ -818,7 +876,9 @@
 
 **Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**Clinical audit note (27 Nov 2026):** Rebleeding often first 5 days mein hoti hai, jab original clot break down ho sakta hai. Increasing blood level aur new blurred vision ko urgently escalate karo; IOP elevation, corneal blood staining aur secondary glaucoma risk monitor hota hai.
+
+**YouTube MCQ practice:** [Optometry Fans hyphema lecture with MCQs](https://www.youtube.com/watch?v=eJTDqeVJBUw). Indexed description states MCQ component; mixed teaching/practice lead, exact question and playback unverified.
 
 </details>
 
@@ -3265,6 +3325,8 @@
 </details>
 
 ## Audit and allocation record
+
+- Follow-up audit: Q1–Q30 read in full (120 options and rationales); no answer key changes. Added 30 clinical clarifications with source access limits documented in the mock audit ledger. Q31–Q120 full option-level review remains pending.
 
 - Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Eight overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 24, 33, 37, 46, 60, 87, 104). Final Q14 and Q31 were replaced after comparison with Vitreous Hemorrhage Q8 and Q27, respectively. Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
 - Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. The remaining four topic banks (120 questions) were subsequently screened; two overlapping tasks were corrected. A fresh exact normalized stem check of the corrected 120-item assembled edition against all 974 questions in the 34 topic banks passed with zero exact matches. All 34 topic banks have undergone lexical candidate screening across versions, but exhaustive semantic comparison of the latest replacements, concept-embedded questions, reported adaptations and cross-chapter mocks remains pending. No guarantee of zero semantic duplicates.
