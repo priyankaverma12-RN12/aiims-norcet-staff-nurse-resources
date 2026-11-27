@@ -17,13 +17,13 @@
 
 **Correct answer: B. Reduced overnight evaporation contributes to corneal swelling when endothelial function is impaired**
 
-- **A. Kyun galat hai:** Lens power mein permanent change se daily morning-to-afternoon recovery explain nahi hoti. Is patient mein corneal hydration ka pattern important hai.
+- **A. Kyun galat hai:** Lens ki power se light ko focus karne mein madad milti hai. Agar lens ki power permanently change ho jaaye, toh sirf din ke aage badhne se vision roz theek nahi ho jaayegi. Yahan morning blur ka pattern cornea mein fluid ke badhne aur kam hone se better explain hota hai.
 
-- **B. Kyun sahi hai:** Endothelium cornea ki inner cell layer hai jo extra fluid ko control karne mein help karti hai. Jab ye layer weak hoti hai aur eyelids raat bhar closed rehti hain, evaporation kam hoti hai aur cornea mein fluid badh sakta hai. Din mein evaporation ke saath swelling kam ho sakti hai, isliye vision kuch clear lag sakti hai.
+- **B. Kyun sahi hai:** Cornea aankh ke aage ki transparent layer hai. Iski sabse andar ki cell layer ko endothelium kehte hain, jo extra fluid ko control karke cornea clear rakhne mein madad karti hai. Fuchs dystrophy mein ye cells dheere-dheere kam ya dysfunctional ho jaate hain. Raat ko eyelids band rehne se surface evaporation kam hoti hai, isliye cornea mein swelling badh sakti hai. Din mein aankh khuli rehne par swelling kuch kam ho sakti hai aur vision clear lag sakti hai. Advanced disease mein blur poore din reh sakti hai.
 
-- **C. Kyun galat hai:** Retina ko sleep ke dauran bhi blood supply chahiye. Complete retinal ischemia se serious injury ho sakti hai, jo daily reversible corneal blur ka normal mechanism nahi hai.
+- **C. Kyun galat hai:** Retina ko sleep mein bhi blood aur oxygen ki zaroorat hoti hai. Agar retina ki poori blood supply ruk jaaye, toh serious ischemic damage ho sakta hai. Ye normal sleep ka process nahi hai aur roz subah hone wali corneal haze ko explain nahi karta.
 
-- **D. Kyun galat hai:** Optic nerve har afternoon regenerate nahi hota. Is condition mein symptom fluctuation mainly corneal fluid balance se related hai.
+- **D. Kyun galat hai:** Optic nerve retina se brain tak visual information le jaati hai. Ye nerve roz afternoon mein regenerate nahi hoti. Is patient ke symptoms ko corneal swelling aur endothelial dysfunction se samajhna chahiye.
 
 **Exam clue:** Morning haze aur afternoon improvement mein corneal hydration ka role socho.
 
@@ -46,17 +46,17 @@
 
 **Correct answer: C. It images the corneal endothelial cell layer to assess its condition**
 
-- **A. Kyun galat hai:** Hearing thresholds audiometry se assess hote hain. Specular microscopy eye ke corneal cells ko examine karti hai.
+- **A. Kyun galat hai:** Hearing thresholds measure karne ke liye audiometry ki jaati hai. Specular microscopy aankh ki corneal endothelial layer ka image banati hai, isliye hearing assessment se iska purpose alag hai.
 
-- **B. Kyun galat hai:** Accommodation lens ke focusing mechanism se related hai. Endothelial cell density aur appearance ki information refraction se directly nahi milti.
+- **B. Kyun galat hai:** Accommodation ka matlab lens ka focus near ya distant object ke hisaab se adjust hona hai. Refraction aur visual acuity se optical performance ki information milti hai, lekin corneal endothelial cells ki appearance directly nahi dikhti. Specular microscopy isi cell layer ko assess karne mein useful hai.
 
-- **C. Kyun sahi hai:** Specular microscopy se corneal endothelium ke cells ka image milta hai aur clinician unki density aur morphology assess kar sakta hai. Visual acuity chart functional clarity batata hai, lekin endothelium ki cellular reserve nahi batata. Severe edema mein image quality limited ho sakti hai.
+- **C. Kyun sahi hai:** Specular microscopy reflected light ki help se cornea ki inner cell layer ka magnified image deti hai. Clinician cells ki density, size aur shape assess kar sakta hai, jab image quality sufficient ho. Visual acuity chart batata hai ki patient kitna clearly dekh raha hai, lekin cell layer ki condition nahi dikhata. Fuchs mein guttae aur severe edema ki wajah se cell counting unreliable ho sakti hai. Isliye specialist symptoms, clinical examination aur corneal thickness ya tomography ko bhi consider karta hai.
 
-- **D. Kyun galat hai:** Intraocular pressure tonometry se assess hota hai. Specular microscopy endothelial structure ke liye hoti hai, pressure measurement ka substitute nahi hai.
+- **D. Kyun galat hai:** Intraocular pressure ka matlab aankh ke andar ka pressure hai, jo tonometry se measure kiya jaata hai. Specular microscopy cells ki structure dikhati hai. Ye pressure measure karne ka substitute nahi hai.
 
 **Exam clue:** Cell-layer assessment aur functional vision test ko separate samjho.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Fuchs%E2%80%99_Endothelial_Dystrophy).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Fuchs%E2%80%99_Endothelial_Dystrophy). · [NCBI Specular Microscopy](https://www.ncbi.nlm.nih.gov/books/NBK585127/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -75,13 +75,13 @@
 
 **Correct answer: A. It draws water toward the ocular surface but does not replace lost endothelial cells**
 
-- **A. Kyun sahi hai:** Hypertonic ka matlab solution mein dissolved particles ka concentration relatively zyada hota hai. Osmotic effect se extra corneal water ko surface ki taraf draw karne mein help mil sakti hai. Relief variable hota hai aur medicine dead endothelial cells ko replace nahi karti.
+- **A. Kyun sahi hai:** Hypertonic ka matlab hai ki prescribed saline mein dissolved salt ki concentration relatively zyada hoti hai. Osmosis ki wajah se corneal surface ki taraf extra water move karne mein madad mil sakti hai. Isse swelling aur morning blur kuch patients mein kam ho sakte hain. Lekin effect har patient mein same nahi hota aur ointment lost endothelial cells ko replace nahi karti. Nurse prescribed use samjhayegi aur follow-up encourage karegi.
 
-- **B. Kyun galat hai:** Human corneal endothelium ki regenerative capacity limited hoti hai. Ointment se permanent cell regrowth ki guarantee nahi milti.
+- **B. Kyun galat hai:** Human corneal endothelial cells ki natural regrowth capacity bahut limited hoti hai. Hypertonic ointment ka role fluid-related symptoms manage karna hai, har damaged cell ko permanently regrow karna nahi. Isliye treatment ko disease cure nahi samajhna chahiye.
 
-- **C. Kyun galat hai:** Cataract lens ki opacity hai. Hypertonic saline corneal edema ke liye prescribed ho sakti hai, lens opacity dissolve karne ke liye nahi.
+- **C. Kyun galat hai:** Cataract mein crystalline lens cloudy ho jaata hai, jabki corneal edema cornea mein fluid badhne se hoti hai. Hypertonic saline corneal swelling ke liye use ho sakti hai. Ye cataract ki lens opacity dissolve nahi karti.
 
-- **D. Kyun galat hai:** Medicine symptom management mein help kar sakti hai, lekin inherited gene change ko correct nahi karti. Follow-up aur specialist treatment plan ki need rehti hai.
+- **D. Kyun galat hai:** Fuchs dystrophy mein genetic factors contribute kar sakte hain. Prescribed saline surface fluid balance par kaam karti hai, genetic change par nahi. Isliye specialist monitoring aur zaroorat ke hisaab se further treatment important hain.
 
 **Exam clue:** Osmotic symptomatic treatment ko disease cure mat samjho.
 
@@ -104,17 +104,17 @@
 
 **Correct answer: D. Endothelial reserve and the risk of postoperative corneal edema require specialist assessment when planning surgery**
 
-- **A. Kyun galat hai:** Cataract surgery cloudy lens replace karti hai. Ye cornea ke lost endothelial cells ko automatically restore nahi karti.
+- **A. Kyun galat hai:** Cataract surgery mein cloudy natural lens ko remove karke artificial lens lagaya ja sakta hai. Lekin corneal endothelium alag structure hai. Lens replace karne se pehle se lost endothelial cells apne aap restore nahi hote.
 
-- **B. Kyun galat hai:** Cornea clear hone par hi light properly retina tak ja sakti hai. Corneal edema lens replacement ke baad bhi vision limit kar sakti hai.
+- **B. Kyun galat hai:** Light ko retina tak clearly pahunchne ke liye cornea aur lens dono ka transparent rehna important hai. Agar cornea mein edema hai, toh successful lens replacement ke baad bhi vision cloudy reh sakti hai. Isliye corneal condition ko ignore nahi karna chahiye.
 
-- **C. Kyun galat hai:** Fuchs dystrophy hone se har cataract procedure contraindicated nahi hota. Surgeon individual corneal status aur surgical options assess karta hai.
+- **C. Kyun galat hai:** Fuchs dystrophy wale har patient mein cataract surgery permanently contraindicated nahi hoti. Kuch patients mein cataract surgery alone suitable hoti hai aur kuch mein corneal treatment bhi chahiye hota hai. Surgeon individual risk aur benefit assess karta hai.
 
-- **D. Kyun sahi hai:** Cataract surgery ke dauran additional endothelial cell loss ho sakta hai. Fuchs mein already weak cell layer hone ki wajah se corneal decompensation ka risk badh sakta hai. Specialist decide karega ki cataract surgery alone, combined ya staged corneal procedure suitable hai.
+- **D. Kyun sahi hai:** Cataract surgery ke dauran endothelium par stress aa sakta hai aur kuch cells lose ho sakte hain. Fuchs mein fluid control pehle se weak ho sakta hai, isliye postoperative corneal swelling ya decompensation ka risk badh sakta hai. Surgeon symptoms, corneal examination aur appropriate tests se assess karega ki cataract surgery alone, combined corneal surgery ya staged treatment suitable hai. Nurse patient ko realistic visual expectations samjhayegi aur team ki instructions reinforce karegi.
 
 **Exam clue:** Lens aur cornea dono postoperative visual outcome ko affect karte hain.
 
-**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10011243/).
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10011243/). · [Publisher full-text review](https://link.springer.com/article/10.1007/s40123-022-00637-1)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -133,13 +133,13 @@
 
 **Correct answer: B. Ocular albinism can predominantly affect the visual pathway without obvious generalized skin hypopigmentation**
 
-- **A. Kyun galat hai:** Albinism ke different genetic types hote hain. Ocular albinism mein skin aur hair ka colour relatives jaisa dikh sakta hai, isliye appearance se condition exclude nahi hoti.
+- **A. Kyun galat hai:** Albinism genetic conditions ka group hai jisme pigment aur visual development different ways mein affect ho sakte hain. Ocular albinism mein skin aur hair ka colour family ke doosre members jaisa dikh sakta hai. Isliye sirf external appearance se diagnosis exclude nahi karna chahiye.
 
-- **B. Kyun sahi hai:** Ocular albinism primarily visual system ko affect karta hai. Nystagmus aur iris pigment ki changes ke saath specialist eye assessment aur genetic evaluation useful ho sakte hain. Sirf pigmentation dekh kar final diagnosis nahi karna chahiye.
+- **B. Kyun sahi hai:** Ocular albinism mainly eyes aur visual system ko affect karta hai. Iris mein pigment kam hone se light uske through pass ho sakti hai, aur infantile nystagmus bhi ho sakta hai. Hair aur skin mein obvious colour difference na hone par bhi specialist eye assessment zaroori hai. Genetic evaluation se specific cause clarify ho sakta hai. Nurse family ko samjhayegi ki symptoms ka assessment appearance se zyada important hai.
 
-- **C. Kyun galat hai:** Iris transillumination ka matlab iris se expected se zyada light pass ho sakti hai. Ye finding alone glaucoma establish nahi karti.
+- **C. Kyun galat hai:** Iris transillumination ka matlab hai iris ke through light ka unusually pass hona, jo reduced pigment ka clue ho sakta hai. Glaucoma mein optic nerve damage ka assessment hota hai aur eye pressure bhi evaluate kiya jaata hai. Sirf iris transillumination se glaucoma diagnose nahi hota.
 
-- **D. Kyun galat hai:** Congenital visual findings ko recent infection se automatically explain nahi kar sakte. Clinical history aur examination se differential diagnosis decide hota hai.
+- **D. Kyun galat hai:** Longstanding infantile visual findings developmental ya genetic conditions se related ho sakti hain. Recent infection ko bina evidence cause maan lena sahi nahi hai. History, eye examination aur appropriate tests se clinician differential diagnosis assess karega.
 
 **Exam clue:** Skin colour alone ocular albinism ko rule out nahi karta.
 
@@ -162,13 +162,13 @@
 
 **Correct answer: A. Arrange assessment of the preferred gaze position and its effect on visual function before changing the posture**
 
-- **A. Kyun sahi hai:** Nystagmus mein eyes involuntarily move karti hain. Kuch children ek particular gaze direction mein relatively kam movement experience karte hain, jise null zone kehte hain. Head turn us position mein better vision ke liye compensation ho sakta hai. Eye team se assessment aur comfortable seating plan discuss karo.
+- **A. Kyun sahi hai:** Nystagmus mein eyes involuntarily move karti hain. Kuch patients mein ek particular gaze direction par movement kam ho jaati hai, jise null zone kehte hain. Child head turn karke eyes ko us position mein rakh sakta hai jahan detail better dikh rahi ho. Isliye pehle functional vision aur posture assess karwana chahiye. Eye team aur teacher milkar comfortable seating aur reading support plan kar sakte hain.
 
-- **B. Kyun galat hai:** Rigid collar without indication normal movement restrict karega aur neck discomfort cause kar sakta hai. Ye nystagmus ka routine treatment nahi hai.
+- **B. Kyun galat hai:** Rigid collar neck movement restrict karta hai aur bina indication use karne se discomfort ho sakta hai. Agar head turn better vision ke liye compensation hai, toh collar se visual performance bhi affect ho sakti hai. Ye nystagmus ka routine treatment nahi hai.
 
-- **C. Kyun galat hai:** Head turn functional adaptation ho sakta hai. Behavioural label lagane se visual need miss ho sakti hai.
+- **C. Kyun galat hai:** Har unusual head posture behavioural problem nahi hoti. Child shayad better visual clarity ke liye head turn kar raha hai. Noncompliance maan lene se actual visual difficulty aur required support miss ho sakte hain.
 
-- **D. Kyun galat hai:** Dono eyes cover karne se reading aur mobility impossible ho jayegi. Isse null zone assess ya underlying visual problem treat nahi hoti.
+- **D. Kyun galat hai:** Dono eyes cover karne se child visual reading task complete nahi kar paayega aur movement bhi unsafe ho sakti hai. Isse preferred gaze position assess nahi hoti. Nurse appropriate eye evaluation aur accessible learning support arrange karegi.
 
 **Exam clue:** Preferred gaze ko automatically bad habit mat samjho.
 
@@ -191,13 +191,13 @@
 
 **Correct answer: D. Incomplete development of the central retinal area responsible for high-acuity vision**
 
-- **A. Kyun galat hai:** Nasolacrimal duct tears ko nose tak drain karta hai. Obstruction watering cause kar sakti hai, lekin foveal development ko explain nahi karti.
+- **A. Kyun galat hai:** Nasolacrimal duct tears ko aankh se nose ki taraf drain karta hai. Agar ye blocked ho, toh watering ya discharge ho sakta hai. Ye retina ki central area ki incomplete development ka mechanism nahi hai.
 
-- **B. Kyun galat hai:** Lens opacity cataract hoti hai. Foveal hypoplasia retina ki structural development se related hai, lens opacity se nahi.
+- **B. Kyun galat hai:** Cataract ka matlab crystalline lens ka cloudy ho jaana hai. Foveal hypoplasia retina ki developmental finding hai, na ki lens ki opacity. OCT se retinal structure ka assessment kiya ja sakta hai.
 
-- **C. Kyun galat hai:** Spectacle wear aqueous production mein aisa temporary change cause nahi karta jo foveal structure ko explain kare. OCT retinal layers assess karne mein useful hai.
+- **C. Kyun galat hai:** Aqueous humor aankh ke anterior part ka clear fluid hai. Correct spectacles pehenne se aisa fluid change nahi hota jo foveal hypoplasia explain kare. Yahan problem retinal development ki hai, temporary pressure effect ki nahi.
 
-- **D. Kyun sahi hai:** Fovea retina ka central area hai jahan fine detail dekhne ke liye specialized cells hote hain. Hypoplasia ka matlab incomplete development hai. Isliye correct lens power ke baad bhi acuity limited ho sakti hai. Low-vision support aur realistic functional goals important hain.
+- **D. Kyun sahi hai:** Fovea retina ka central part hai jo fine detail, jaise small letters aur faces, dekhne mein important hai. Hypoplasia ka matlab kisi structure ka poori tarah develop na hona hai. Agar fovea ka development incomplete hai, toh correct spectacle power ke baad bhi fine-detail vision limited reh sakti hai. OCT retinal structure dikhata hai. Nurse family ko realistic goals aur low-vision support ke baare mein guide karegi.
 
 **Exam clue:** Correct refraction se retinal developmental limitation automatically remove nahi hoti.
 
@@ -220,17 +220,17 @@
 
 **Correct answer: C. Regular examinations remain important to detect associated glaucoma, cataract and corneal complications**
 
-- **A. Kyun galat hai:** Aniridia mein iris development abnormal hota hai, lekin visible iris appearance stable rehne par bhi other ocular structures mein disease develop ho sakti hai.
+- **A. Kyun galat hai:** Aniridia mein iris ka development partial ya markedly incomplete ho sakta hai. Lekin disease sirf iris tak limited nahi hoti. Iris ki appearance stable rehne par bhi cornea, lens aur optic nerve se related complications develop ho sakti hain.
 
-- **B. Kyun galat hai:** Aniridia glaucoma aur cataract ke risk ke saath associated hai. Isliye in complications ko actively monitor kiya jata hai.
+- **B. Kyun galat hai:** Aniridia glaucoma aur cataract se protection nahi deti. In conditions ka risk badh sakta hai, isliye specialist follow-up mein inki assessment ki jaati hai. Symptoms ka wait karna safe surveillance strategy nahi hai.
 
-- **C. Kyun sahi hai:** Regular eye examination se clinician pressure, optic nerve, lens, corneal health aur visual function assess kar sakta hai. Early detection se appropriate intervention plan karne mein help milti hai.
+- **C. Kyun sahi hai:** Aniridia mein eye ke multiple structures affect ho sakte hain. Regular examination mein clinician corneal surface, lens, eye pressure, optic nerve aur visual function assess karta hai. Glaucoma jaise complications shuruaat mein bina pain ke bhi progress kar sakte hain. Isliye follow-up ka interval ophthalmologist child ki age aur findings ke hisaab se decide karega.
 
-- **D. Kyun galat hai:** Photographs useful observation ho sakti hain, lekin complete ophthalmic assessment replace nahi karti. Optic nerve changes aur pressure ko trained examination chahiye.
+- **D. Kyun galat hai:** Home photographs external appearance document kar sakti hain, lekin unse eye pressure ya optic nerve damage reliably exclude nahi hota. Isliye photograph regular professional examination ka replacement nahi hai.
 
 **Exam clue:** Stable external appearance future ocular complications ko exclude nahi karti.
 
-**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/aniridia).
+**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/aniridia). · [GeneReviews PAX6 aniridia syndrome](https://www.ncbi.nlm.nih.gov/books/NBK1360/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -249,17 +249,17 @@
 
 **Correct answer: B. Assessment can identify a possible WAGR-associated genetic deletion and guide renal tumor surveillance when indicated**
 
-- **A. Kyun galat hai:** Aniridia isolated ocular disorder bhi ho sakti hai aur genetic syndrome ka part bhi. Har case mein kidney tumor present nahi hota.
+- **A. Kyun galat hai:** Aniridia isolated eye condition bhi ho sakti hai aur kisi genetic syndrome ka part bhi. Har affected child ko kidney tumour nahi hota. Isliye aniridia dekhte hi tumour diagnosis assume nahi karna chahiye.
 
-- **B. Kyun sahi hai:** WAGR spectrum mein aniridia aur Wilms tumor predisposition ka association ho sakta hai, particularly PAX6 aur nearby WT1 region ke deletion mein. Genetic evaluation se risk clarify hota hai aur pediatric team indicated renal surveillance plan kar sakti hai. Tumor assume nahi karna chahiye.
+- **B. Kyun sahi hai:** WAGR spectrum mein chromosome 11 ke ek region mein PAX6 aur WT1 genes ka deletion ho sakta hai. PAX6 eye development mein important hai, jabki WT1 deletion Wilms tumour ka risk badha sakta hai. Wilms tumour bachchon mein hone wala kidney cancer hai. Genetic aur pediatric assessment se specific risk clarify ho sakta hai. Jab indicated ho, pediatric team renal ultrasound surveillance ka plan banayegi, aur nurse family ko referral aur follow-up samjhayegi.
 
-- **C. Kyun galat hai:** Genetic aur pediatric evaluation additional systemic care provide karte hain. Eye follow-up glaucoma aur corneal complications detect karne ke liye fir bhi important hai.
+- **C. Kyun galat hai:** Genetic referral ka purpose associated systemic risk samajhna hai. Eye care phir bhi continue honi chahiye, kyunki glaucoma, cataract aur corneal problems monitor karni hoti hain. Dono teams complementary roles nibhati hain.
 
-- **D. Kyun galat hai:** Negative family history genetic condition ko exclude nahi karti, kyunki new genetic change ho sakta hai. Sporadic congenital aniridia ko appropriate specialist evaluation chahiye.
+- **D. Kyun galat hai:** Family history negative hone par bhi genetic change possible hai. Kuch changes child mein naye develop hote hain. Isliye newly diagnosed congenital aniridia mein appropriate genetic assessment ko sirf affected relative na hone ki wajah se reject nahi karna chahiye.
 
 **Exam clue:** Aniridia mein systemic risk assessment diagnosis-specific hota hai, universal tumor diagnosis nahi.
 
-**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK621298/).
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK621298/). · [AAPOS aniridia](https://www.aapos.org/glossary/aniridia)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -278,17 +278,17 @@
 
 **Correct answer: D. Discuss specialist fitting and non-contact alternatives because corneal surface disease may limit contact lens suitability**
 
-- **A. Kyun galat hai:** Cosmetic lens ka colour surface safety establish nahi karta. Poor fit aur contamination cornea ko damage kar sakte hain.
+- **A. Kyun galat hai:** Lens ka dark colour glare kam kar sakta hai, lekin isse lens ki fitting, cleanliness ya corneal safety confirm nahi hoti. Poorly fitted ya contaminated cosmetic lens fragile cornea ko injure kar sakta hai. Isliye khud se lens purchase aur use karna safe advice nahi hai.
 
-- **B. Kyun galat hai:** Overnight contact lens wear infection ka risk badha sakta hai. Fragile corneal surface mein unsupervised continuous wear particularly unsafe hai.
+- **B. Kyun galat hai:** Contact lens pehenkar sone se corneal infection ka risk badh sakta hai. Aniridia ke saath agar surface already damaged hai, toh unsupervised overnight wear aur bhi concerning hai. Lens use ka schedule specialist ki prescription ke mutabik hona chahiye.
 
-- **C. Kyun galat hai:** Aniridia cornea ki limbal stem cell function ko bhi affect kar sakti hai. Redness, pain ya visual change ko ignore nahi karna chahiye.
+- **C. Kyun galat hai:** Aniridia sirf iris ki problem nahi hai. Cornea ki surface repair mein help karne wale limbal stem cells bhi affect ho sakte hain. Isliye redness, pain ya vision change ko ignore nahi karna chahiye aur prompt eye assessment karwana chahiye.
 
-- **D. Kyun sahi hai:** Specialist filter spectacles ya selected tinted lens consider kar sakta hai. Existing corneal surface problem mein contact lens suitability individually assess karni chahiye. Patient ko unregulated cosmetic lens khud se fit nahi karna chahiye.
+- **D. Kyun sahi hai:** Glare ke liye filter spectacles ya sunglasses jaise non-contact options useful ho sakte hain. Selected patients mein specially fitted tinted lens bhi consider kiya ja sakta hai, lekin fragile corneal surface mein pehle specialist suitability assess karega. Nurse patient ko unregulated cosmetic lens khud se use na karne aur eye team se safe alternatives discuss karne ki advice degi.
 
 **Exam clue:** Glare relief ka option choose karte waqt corneal health ko bhi consider karo.
 
-**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/aniridia).
+**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/aniridia). · [GeneReviews PAX6 aniridia syndrome](https://www.ncbi.nlm.nih.gov/books/NBK1360/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage or timestamp verified.
 
