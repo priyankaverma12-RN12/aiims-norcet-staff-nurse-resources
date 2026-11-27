@@ -324,9 +324,22 @@ Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hon
 
 **Correct: B. Assess respiratory and circulatory status and urgently review the infusion plan**
 
-Heart fluid load handle na kar paaye toh pulmonary congestion develop ho sakti hai. Nurse urgent assessment aur authorized infusion management karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Additional fluid worsen kar sakta hai. Bag empty hone ka wait unsafe hai.
+Cardiac disease mein heart extra IV fluid efficiently handle nahi kar paata toh pulmonary congestion develop ho sakti hai. New crackles aur increased breathing effort urgent deterioration ke clues hain. ABC, oxygen saturation, vital signs aur infusion assess karo. Suspected harmful infusion ko local emergency protocol ke mutabik pause karo aur urgent medical review lo. Prescribed treatment plan follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rate increase overload aur breathing difficulty worsen kar sakta hai.
+- **B (Sahi):** Immediate assessment aur urgent infusion-plan review safest action hai.
+- **C (Galat):** Large oral bolus fluid load worsen kar sakta hai.
+- **D (Galat):** Bag empty hone tak wait respiratory compromise worsen kar sakta hai.
+
+**Exam clue:** New crackles during IV therapy: urgent assessment.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1469,9 +1482,22 @@ Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficu
 
 **Correct: D. A 2-kg rapid gain may reflect approximately 2 L of fluid accumulation**
 
-Rapid weight gain often fluid accumulation se related ho sakta hai. Roughly one kg water one liter ke equal hota hai. Nurse edema, intake-output aur breathing assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Muscle growth overnight unlikely hai. Gain dehydration prove nahi karta. Change clinical context mein important hai.
+Same scale aur comparable conditions mein weight 64 minus 62 = 2 kg badha hai. Water ki density ke hisaab se 1 kg roughly 1 L ke barabar hota hai. Isliye rapid 2 kg gain approximately 2 L retained fluid ka clue ho sakta hai, exact proof nahi. Edema, breathing, intake-output aur measurement accuracy check karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Weight gain dehydration prove nahi karta.
+- **B (Galat):** Overnight 2 kg new muscle formation unlikely hai.
+- **C (Galat):** Rapid weight change ko ignore karne se overload miss ho sakta hai.
+- **D (Sahi):** 2 kg gain roughly 2 L fluid accumulation suggest kar sakta hai.
+
+**Exam clue:** Rapid weight change: about 1 kg per litre of water.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2008,9 +2034,22 @@ May 12 Florence Nightingale ki birth anniversary hai aur International Nurses Da
 
 **Correct: A. Orthostatic dizziness with dry mucosa and reduced urine output**
 
-Fluid loss se perfusion aur urine production kam ho sakti hai. Orthostatic symptoms aur dry mucosa volume assessment guide karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Edema, weight gain aur crackles overload suggest kar sakte hain. Bounding pulse alone depletion prove nahi karta.
+Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid kam ho sakta hai. Orthostatic dizziness standing par perfusion change ka clue hai, dry mucosa aur reduced urine output bhi suggestive hain. BP, pulse, perfusion, intake-output, losses aur labs assess karo. Ek isolated sign diagnosis prove nahi karta.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Orthostatic symptoms, dry mucosa aur low urine output together possible depletion suggest karte hain.
+- **B (Galat):** Bounding pulse alone depletion establish nahi karta.
+- **C (Galat):** Generalized edema alone typical depletion sign nahi hai, although edema aur intravascular depletion coexist kar sakte hain.
+- **D (Galat):** Weight gain aur crackles fluid excess suggest kar sakte hain.
+
+**Exam clue:** Assess multiple volume status clues.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2504,9 +2543,22 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 **Correct: A. +300 mL**
 
-Total output 1200 mL hai. Intake minus output = 1500 minus 1200 = +300 mL. Insensible losses recorded balance mein usually measured nahi hoti.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** −300 reverse subtraction hai. +600 drain omit karta hai. 2700 sum hai.
+Recorded fluid balance mein same observation period ka measured intake minus measured output karte hain. Output = 900 + 300 = 1200 mL. Net = 1500 − 1200 = +300 mL. Positive sign ka matlab recorded intake measured output se zyada hai. Insensible losses aur unrecorded fluids ki wajah se actual body balance different ho sakta hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** 1500 − 1200 = +300 mL correct hai.
+- **B (Galat):** −300 reverse subtraction se aata hai.
+- **C (Galat):** +600 drain output ko omit karta hai.
+- **D (Galat):** 2700 intake aur output ka sum hai, net balance nahi.
+
+**Exam clue:** Intake minus all measured output.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
