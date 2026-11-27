@@ -57,7 +57,24 @@ Glucometer capillary blood sample ka glucose estimate karta hai. Sphygmomanomete
 
 **Correct: C. 20 G**
 
-Common color coding mein pink 20G, green 18G, blue 22G aur yellow 24G hoti hai. Real procedure mein printed gauge aur manufacturer label verify karna zaroori hai.
+<!-- job5-rationale -->
+Common peripheral IV cannula color convention mein pink 20 G hai. Gauge number increase hone par usual outer diameter decrease hota hai. Same gauge ke devices ki length aur internal diameter different ho sakti hai, isliye actual flow rate manufacturer label se verify karo.
+
+**Option-by-option reasoning**
+
+- **A:** 22 G commonly blue hai, pink nahi.
+- **B:** 24 G commonly yellow hai aur comparatively smaller access hai.
+- **C:** 20 G commonly pink hai, isliye stated convention mein correct hai. Printed size confirm karo.
+- **D:** 18 G commonly green hai aur larger access ho sakta hai.
+
+**Exam clue:** Pink = 20 G, verify printed device size rather than color alone.
+
+[Manufacturer 20 G pink catheter reference](https://www.bd.com/en-anz/products-and-solutions/products/product-page.381134) · [Routine and rapid transfusion gauge guidance](https://professionaleducation.blood.ca/en/transfusion/clinical-guide/blood-administration)
+
+**Evidence status:** DSSSB October 2024 attribution indexed, direct source retrieval failed in this run. Official paper and key not authenticated.
+
+[Supplementary teaching and mixed quiz — Bhushan Science Nursing](https://www.youtube.com/watch?v=hdLAKRAOrF8) — indexed chapters 02:15 cannula color teaching, 19:30 mixed exam MCQs. Specific cannula question in quiz and playback not verified. **Dedicated MCQ practice: verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
