@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run34-20261127-1515
-Scope: Draft-only Group16 matching legacy and Group17 existing original rationale expansion under .github/job5-drafts. No learner files or shared indexes.
+Scope: Draft-only Group16 matching legacy, Group17 existing original and matching legacy rationale expansion under .github/job5-drafts. No learner files or shared indexes.
 Claimed UTC: 2026-11-27T15:15:08Z
 Expiry UTC: 2026-11-27T15:45:08Z
 
