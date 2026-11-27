@@ -18,10 +18,20 @@ D. 110
 
 **Correct answer: B. 85**
 
-- **A (Incorrect):** 70 mein 15 points miss hain.
-- **B (Correct):** 25+15+15+20+10=85. Local cutoff aur individual plan follow karo.
-- **C (Incorrect):** 100 mein extra 15 points hain.
-- **D (Incorrect):** 110 mein unsupported 25 extra points hain.
+<!-- job5-rationale -->
+Morse Fall Scale (MFS) mein six items ke assigned points add hote hain. Yahan recent fall 25, secondary diagnosis 15, walker 15, IV 20, weak gait 10 aur apni limitations recognize karne par mental status 0 hai. Stepwise sum 25+15=40, +15=55, +20=75, +10=85, +0=85. Score 85 hai. Local tool aur risk cutoff verify karo. NICE 2025 guidance apne covered population mein prediction tools se fall predict karne ke bajay comprehensive individualized assessment recommend karti hai. Exam score aur clinical prevention decision ko alag samjho.
+
+**Option-by-option reasoning**
+
+- **A:** 70 mein total se 15 points kam hain, jaise secondary diagnosis omit karne par.
+- **B:** 85 all six assigned scores ka correct sum hai.
+- **C:** 100 mein unsupported 15 extra points add hain, jaise mental item incorrectly score karna.
+- **D:** 110 total se 25 extra hai, given scoring support nahi karti.
+
+**Exam clue:** Add each item once. Score does not replace individualized assessment.
+
+[Additional concept reference](https://psnet.ahrq.gov/web-mm/falling-through-crack-bedrails)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -47,10 +57,20 @@ D. Patient has fever
 
 **Correct answer: A. Patient forgets that walking requires assistance**
 
-- **A (Correct):** Own mobility limitations forget karna is item ka risk hai.
-- **B (Incorrect):** Date confusion alone is item ko establish nahi karti.
-- **C (Incorrect):** Glasses separate risk ho sakte hain.
-- **D (Incorrect):** Fever direct mental-status item nahi hai.
+<!-- job5-rationale -->
+Morse mental-status item general orientation test nahi hai. Yeh dekhta hai ki patient apni actual mobility limitations ko realistically recognize karta hai ya unhe bhoolta/overestimate karta hai. Patient ka kehna aur observed ability compare karo. Traditional scoring mein oriented to own ability 0 aur overestimates/forgets limitations 15 points hai. Other cognitive findings bhi clinical fall assessment mein important ho sakti hain.
+
+**Option-by-option reasoning**
+
+- **A:** Assistance ki zaroorat bhoolna directly mental-status item se match karta hai.
+- **B:** Date na batana cognition concern hai, par patient correct assistance mang raha hai, so this alone does not establish the Morse item.
+- **C:** Glasses sensory aid hain, mental mobility awareness ka score directly nahi.
+- **D:** Fever acute illness aur delirium risk affect kar sakta hai, par is item ka direct criterion nahi.
+
+**Exam clue:** MFS mental status = awareness of own mobility ability.
+
+[Additional concept reference](https://psnet.ahrq.gov/web-mm/falling-through-crack-bedrails)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -76,10 +96,20 @@ D. 80
 
 **Correct answer: C. 65**
 
-- **A (Incorrect):** 45 mein gait ke 20 points miss hain.
-- **B (Incorrect):** 50 mein mental-status 15 points miss hain.
-- **C (Correct):** 30+20+15=65. Identified risks ke according care plan banao.
-- **D (Incorrect):** 80 mein extra 15 points hain.
+<!-- job5-rationale -->
+Given item scores ko order mein add karo. Recent fall 0 + secondary diagnosis 0 + furniture support 30 + IV 0 + impaired gait 20 + overestimation 15. Total 30+20=50, phir 50+15=65. Furniture walking prescribed walker ke comparison mein unstable support ho sakti hai. Score ke saath patient ko safe mobility assessment aur tailored assistance chahiye.
+
+**Option-by-option reasoning**
+
+- **A:** 45 furniture 30 plus mental 15 ho sakta hai, gait 20 miss hota hai.
+- **B:** 50 furniture aur impaired gait ka sum hai, mental item 15 missing hai.
+- **C:** 65 all given items ka correct sum hai.
+- **D:** 80 mein extra 15 unsupported hai.
+
+**Exam clue:** Furniture 30, impaired gait 20, forgets limitations 15 in this item set.
+
+[Additional concept reference](https://psnet.ahrq.gov/web-mm/falling-through-crack-bedrails)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -105,10 +135,20 @@ D. Reassess now and revise prevention plan
 
 **Correct answer: D. Reassess now and revise prevention plan**
 
-- **A (Incorrect):** Admission score new risk capture nahi karta.
-- **B (Incorrect):** Fall ka wait preventive care nahi hai.
-- **C (Incorrect):** Guessing score reliable nahi hai.
-- **D (Correct):** New delirium safety affect kar sakta hai, reassessment aur revised plan zaroori hai.
+<!-- job5-rationale -->
+Fall risk dynamic hai. Delirium mein attention fluctuate, judgment impair aur unfamiliar environment mein unsafe attempts badh sakte hain. New confusion par underlying causes aur acute illness assess karo, timely clinical review arrange karo aur observation, orientation, toileting, mobility support individual needs ke hisaab se revise karo. Old low-risk score current safety guarantee nahi karta.
+
+**Option-by-option reasoning**
+
+- **A:** Admission classification condition change reflect nahi karti.
+- **B:** Fall ka wait prevention ka purpose defeat karta hai.
+- **C:** Assessment ke bina score badhana accurate documentation nahi.
+- **D:** Immediate reassessment aur updated prevention plan correct hai.
+
+**Exam clue:** Condition changes → reassess and act.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -134,10 +174,20 @@ D. Fall-risk wristband alone
 
 **Correct answer: A. Scheduled and prompt assisted toileting with safe access**
 
-- **A (Correct):** Toileting assistance actual trigger address karti hai.
-- **B (Incorrect):** Bed rest se toileting need unmet rahegi.
-- **C (Incorrect):** Unapproved fluid restriction harmful ho sakti hai.
-- **D (Incorrect):** Wristband direct assistance replace nahi karta.
+<!-- job5-rationale -->
+Nocturia raat mein baar-baar urination ki need hai. Patient toilet urgently jana chahta hai aur assistance ka wait na kare toh unsafe transfers ho sakte hain. Pattern identify karke timely offered toileting, reachable call bell, clear route, suitable lighting aur required assistance arrange karo. New urinary symptoms ya medicines contributing hon toh team review lo. Fluid needs individualized hain.
+
+**Option-by-option reasoning**
+
+- **A:** Scheduled and prompt assistance directly toileting trigger address karti hai.
+- **B:** Bed rest without toileting support original trigger resolve nahi karta.
+- **C:** Unprescribed fluid restriction dehydration aur other harm cause kar sakti hai.
+- **D:** Wristband alone physical help aur timely toileting replace nahi karta.
+
+**Exam clue:** Address the trigger, not just the risk label.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -150,7 +200,7 @@ D. Fall-risk wristband alone
 ### Q6. A visually impaired patient is newly admitted to an unfamiliar ward. Which orientation is most useful?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept** · **🟣 RRB Nursing Superintendent 12 March 2026 Shift I — related concept**
 <!-- /job4-metadata -->
 
 A. Move essential objects frequently
@@ -163,10 +213,22 @@ D. Switch off lighting overnight
 
 **Correct answer: B. Demonstrate call system and route, keep items consistently accessible**
 
-- **A (Incorrect):** Changing positions orientation difficult bana sakte hain.
-- **B (Correct):** Consistent setup aur demonstration safe navigation support karte hain.
-- **C (Incorrect):** Unsupported memorization risk address nahi karta.
-- **D (Incorrect):** Darkness visual hazards badha sakti hai.
+<!-- job5-rationale -->
+Visual impairment mein unfamiliar room ke obstacles aur call controls identify karna difficult ho sakta hai. Patient ki preferred communication method use karke bed, call bell, toilet route aur essential items orient karo. Safe lighting, contrast where useful, consistent item placement aur assessed mobility assistance maintain karo. Patient ko demonstration repeat karne ka chance do.
+
+**Option-by-option reasoning**
+
+- **A:** Frequent relocation patient ki spatial orientation disrupt kar sakti hai.
+- **B:** Call system demonstration aur consistent accessibility safe independent participation support karte hain.
+- **C:** Unaided memorization sensory barrier ko address nahi karti.
+- **D:** Lighting switch off karna residual vision use karne mein difficulty badha sakta hai.
+
+**Exam clue:** Orientation, consistent placement, accessible call system.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
+
+**Related historical evidence:** [RRB Nursing Superintendent, 12 March 2026 Shift I](https://testbook.com/question-answer/a-nurse-is-caring-for-a-confused-elderly-patient--69df4373ff7df2a01c1b874a) — third-party report on clear pathways and adequate lighting for a confused older patient. Related environmental-safety concept, not the same question or an authenticated official key.
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -194,10 +256,20 @@ D. Permanent cancellation of mobility
 
 **Correct answer: C. Safe seated or lying position, symptom and BP assessment, then planned assistance**
 
-- **A (Incorrect):** Rapid standing fall risk badha sakti hai.
-- **B (Incorrect):** Cane supervision replace nahi karta.
-- **C (Correct):** Symptoms assess karo aur appropriate clinical review aur safe assistance plan karo.
-- **D (Incorrect):** Permanent immobility deconditioning cause kar sakti hai.
+<!-- job5-rationale -->
+New antihypertensive ke baad sitting par dizziness postural BP change ya another clinical problem ka clue hai. Safe sitting/lying position mein support karo, symptoms, BP, pulse aur medication context assess karo. Orthostatic measurements only when safe and appropriate perform karo. Persistent or severe symptoms par escalation karo. Walking tab plan karo jab safety reassess ho.
+
+**Option-by-option reasoning**
+
+- **A:** Rapid standing syncope ya fall precipitate kar sakta hai.
+- **B:** Cane alone current instability resolve nahi karti.
+- **C:** Safe positioning, assessment and planned assistance correct sequence hai.
+- **D:** Permanent immobility deconditioning cause kar sakti hai aur cause evaluation replace nahi karti.
+
+**Exam clue:** Symptoms first, safe mobilization after reassessment.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -223,10 +295,20 @@ D. Bring prescribed aid and assist according to mobility plan
 
 **Correct answer: D. Bring prescribed aid and assist according to mobility plan**
 
-- **A (Incorrect):** Furniture unstable support de sakta hai.
-- **B (Incorrect):** Different aid requires assessment.
-- **C (Incorrect):** Crawling unsafe aur undignified ho sakta hai.
-- **D (Correct):** Prescribed aid aur indicated assistance safe mobility support karte hain.
+<!-- job5-rationale -->
+Walker patient ke balance aur support needs ke hisaab se selected aid hai. Out-of-reach walker patient ko furniture ya other unsafe supports use karne par majboor kar sakta hai. Prescribed aid bring karo, fit aur condition check karo aur documented assistance level follow karo. Bathroom access aur call system accessible rakho.
+
+**Option-by-option reasoning**
+
+- **A:** Furniture move ya tip ho sakta hai, approved mobility aid nahi.
+- **B:** Cane support level walker se different hai, substitution requires assessment.
+- **C:** Crawling injury aur dignity concerns create karta hai.
+- **D:** Prescribed aid plus planned assistance correct hai.
+
+**Exam clue:** Right aid, right assistance, within reach.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -252,10 +334,20 @@ D. Slippery socks on polished floor
 
 **Correct answer: A. Well-fitting shoes with stable nonslip soles**
 
-- **A (Correct):** Secure fit aur traction practical safety measures hain.
-- **B (Incorrect):** Loose worn slippers unstable ho sakti hain.
-- **C (Incorrect):** Oversized shoes trip hazard hain.
-- **D (Incorrect):** Slippery socks traction reduce kar sakte hain.
+<!-- job5-rationale -->
+Safe footwear foot ko adequately hold karti hai aur walking surface par traction provide karti hai. Well-fitting shoes with stable nonslip soles slipping aur tripping reduce kar sakti hain. Patient ki edema, sensation, foot problems aur prescribed footwear needs consider karo. Shoes alone balance impairment solve nahi karte.
+
+**Option-by-option reasoning**
+
+- **A:** Stable fit aur grip walking safety support karte hain.
+- **B:** Loose worn slippers slip off ya catch ho sakti hain.
+- **C:** Oversized shoes fit poor hone se trip risk badha sakte hain.
+- **D:** Slippery socks polished floor par traction reduce karti hain.
+
+**Exam clue:** Fit and traction both matter.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -283,10 +375,20 @@ D. Assume alarm prevents all falls
 
 **Correct answer: B. Review toileting needs and response plan, provide timely help**
 
-- **A (Incorrect):** Volume underlying need address nahi karta.
-- **B (Correct):** Alarm ka reason identify karke tailored support do.
-- **C (Incorrect):** Bina assessment disable karna safety gap create karta hai.
-- **D (Incorrect):** Alarm warning hai, staff response replace nahi karta.
+<!-- job5-rationale -->
+Bed-exit alarm alert hai, physical prevention barrier nahi. Repeated alert toileting need ya delayed response ka clue ho sakta hai. Patient needs, timing, alarm suitability aur assigned response responsibility review karo. Timely assistance aur personalized plan se unsafe attempt ke cause ko address karo. Alarm settings approved policy ke under change karo.
+
+**Option-by-option reasoning**
+
+- **A:** Volume alone unmet toileting need solve nahi karta.
+- **B:** Needs review aur timely assistance underlying trigger address karte hain.
+- **C:** Unreviewed disabling necessary alert remove kar sakti hai.
+- **D:** Alarm staff response ke bina all falls prevent nahi kar sakta.
+
+**Exam clue:** Alarm must trigger effective response.
+
+[Additional concept reference](https://psnet.ahrq.gov/innovation/preventing-falls-through-patient-and-family-engagement-create-customized-prevention)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -312,10 +414,20 @@ D. Pull patient upright by arm
 
 **Correct answer: C. Support and guide to safe seated or lowered position, summon help as needed**
 
-- **A (Incorrect):** Walking continue karna collapse risk badha sakta hai.
-- **B (Incorrect):** Unsupported standing unsafe hai.
-- **C (Correct):** Safe support do aur assessment ke liye help bulao.
-- **D (Incorrect):** Arm traction injury cause kar sakti hai.
+<!-- job5-rationale -->
+Walking ke dauran dizziness balance loss ya fainting ka warning sign ho sakti hai. Patient ko trained safe technique se support karke nearby stable seat ya safe lowered position tak guide karo. Apni aur patient ki safety maintain karo, assistance summon karo, symptoms/vital signs assess karo aur needed escalation karo. Forcefully upright hold ya unsafe lifting avoid karo.
+
+**Option-by-option reasoning**
+
+- **A:** Walking continue karne se fall risk badhta hai.
+- **B:** Patient ko unsupported leave karna unsafe hai.
+- **C:** Controlled safe positioning and help immediate injury prevention hai.
+- **D:** Arm se pull karna injury aur instability cause kar sakta hai.
+
+**Exam clue:** Stop, support safely, summon help, reassess.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -341,10 +453,20 @@ D. Arrange required trained assistance first
 
 **Correct answer: D. Arrange required trained assistance first**
 
-- **A (Incorrect):** Agreement prescribed safety support replace nahi karta.
-- **B (Incorrect):** Untrained visitor safe technique ensure nahi karta.
-- **C (Incorrect):** Unreviewed technique risky ho sakti hai.
-- **D (Correct):** Required assistance level follow karo.
+<!-- job5-rationale -->
+Two-person transfer plan usually patient weight-bearing capacity, balance, equipment aur required trained support ke assessment par based hota hai. One person available hone se requirement automatically change nahi hoti. Trained help arrange karo aur prescribed aid ready rakho. Urgent toileting mein safe alternative assistance coordinate karo. Transfer plan change qualified reassessment ke baad hi karo.
+
+**Option-by-option reasoning**
+
+- **A:** Patient agreement inadequate staff support ko safe nahi banata.
+- **B:** Untrained visitor prescribed competent assistance replace nahi karta.
+- **C:** Without review technique change injury risk badha sakta hai.
+- **D:** Required trained staff arrange karna safest hai.
+
+**Exam clue:** Follow assessed assistance level, not staff convenience.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -370,10 +492,20 @@ D. Document but make no change
 
 **Correct answer: A. Request medication review and maintain safety precautions**
 
-- **A (Correct):** Medicine effects review karne se modifiable risk identify ho sakta hai.
-- **B (Incorrect):** Independent discontinuation harm cause kar sakti hai.
-- **C (Incorrect):** Extra sedation risk badha sakti hai.
-- **D (Incorrect):** Near-falls reassessment ka signal hain.
+<!-- job5-rationale -->
+Sedating medicines alertness, coordination aur postural stability affect kar sakti hain. Multiple medicines ka combined effect bhi matter karta hai. Two near-falls modifiable medication contributor review karne ka signal hain. Prescriber/pharmacist ko actual symptoms, timing aur medicines communicate karo. Current fall precautions continue rakho aur authorized changes monitor karo.
+
+**Option-by-option reasoning**
+
+- **A:** Medication review possible contributing drugs identify karti hai without abrupt unsafe cessation.
+- **B:** All drugs independently stop karna withdrawal ya untreated disease risk create kar sakta hai.
+- **C:** Extra sedation mobility impairment worsen kar sakti hai.
+- **D:** Documentation alone identified risk reduce nahi karti.
+
+**Exam clue:** Review medicines with authorized team, maintain safety.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -401,10 +533,20 @@ D. Previous ward name only
 
 **Correct answer: B. Specific risks, assistance requirements and effective prevention measures**
 
-- **A (Incorrect):** Score alone tailored plan explain nahi karta.
-- **B (Correct):** Receiving team ko risk aur actions dono pata hone chahiye.
-- **C (Incorrect):** Bed number assistance need nahi batata.
-- **D (Incorrect):** Ward name preventive care guide nahi karta.
+<!-- job5-rationale -->
+Handover mein risk number ke saath practical information chahiye. Example: dizziness on standing, walker and two-person assist, scheduled toileting aur successful cueing methods. Receiving team ko current mobility status aur reassessment triggers pata hone se plan continue karna easier hota hai. Patient-specific needs aur responsibilities communicate karo.
+
+**Option-by-option reasoning**
+
+- **A:** Numeric score intervention nahi batata.
+- **B:** Specific risks, assistance and effective actions continuity support karte hain.
+- **C:** Bed number risk assessment ya intervention nahi batata.
+- **D:** Previous ward name care requirements describe nahi karta.
+
+**Exam clue:** Handover actionable risk and intervention details.
+
+[Additional concept reference](https://psnet.ahrq.gov/innovation/preventing-falls-through-patient-and-family-engagement-create-customized-prevention)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -430,10 +572,20 @@ D. Label behavior as deliberate noncompliance
 
 **Correct answer: C. Review toileting needs, rail hazards and less restrictive alternatives**
 
-- **A (Incorrect):** Raised rails climb-over injury risk badha sakti hain.
-- **B (Incorrect):** Sedation solely fall prevention ke liye appropriate nahi hai.
-- **C (Correct):** Underlying need aur equipment risk address karo.
-- **D (Incorrect):** Blame actual problem solve nahi karta.
+<!-- job5-rationale -->
+Patient rail cross kar raha hai toh rail height badhana automatically safe solution nahi. Climbing higher height se fall aur entrapment risk increase ho sakta hai. Toileting urgency, confusion, pain aur mobility needs assess karo. Low bed, timely assistance, appropriate observation aur other least restrictive alternatives review karo. Rails ka use patient-specific risk and policy ke according decide hota hai.
+
+**Option-by-option reasoning**
+
+- **A:** All rails plus no observation unsafe climbing continue kar sakte hain.
+- **B:** Routine sedation fall prevention nahi aur adverse effects cause kar sakti hai.
+- **C:** Trigger and rail hazards review karke tailored alternatives choose karna correct hai.
+- **D:** Noncompliance label cause investigate nahi karta.
+
+**Exam clue:** Rails are not a universal fall-prevention intervention.
+
+[Additional concept reference](https://psnet.ahrq.gov/web-mm/falling-through-crack-bedrails)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -461,10 +613,20 @@ D. Summon urgent help, assess immediate threats and avoid unnecessary movement u
 
 **Correct answer: D. Summon urgent help, assess immediate threats and avoid unnecessary movement until evaluated**
 
-- **A (Incorrect):** Possible spinal injury mein immediate lifting harmful ho sakti hai.
-- **B (Incorrect):** Provocative neck movement unsafe ho sakta hai.
-- **C (Incorrect):** Walking further injury risk badha sakti hai.
-- **D (Correct):** Life threats assess karo aur appropriate spinal precautions follow karo.
+<!-- job5-rationale -->
+Head strike ke saath neck pain possible cervical spine injury ka warning hai. Urgent clinical help summon karo aur immediate airway, breathing, circulation aur consciousness assess karo. Unnecessary movement avoid karo aur trained spinal injury precautions follow karo. Immediate danger or resuscitation required ho toh approved emergency technique use karo. Routine mobility testing injury exclude nahi karti.
+
+**Option-by-option reasoning**
+
+- **A:** Immediate lifting suspected injury worsen kar sakti hai.
+- **B:** Neck rotation provocative maneuver hai, injury exclude karne ka safe bedside shortcut nahi.
+- **C:** Walking possible spinal injury ke context mein inappropriate hai.
+- **D:** Urgent help, immediate-threat assessment and movement precautions correct hain.
+
+**Exam clue:** Assess before moving a patient with suspected spinal injury.
+
+[Additional concept reference](https://www.nice.org.uk/guidance/QS86/chapter/Quality-statement-4-Checks-for-injury-after-an-inpatient-fall)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -490,10 +652,20 @@ D. Assume no pain means no injury
 
 **Correct answer: A. Promptly report and arrange assessment under head-injury protocol**
 
-- **A (Correct):** Bleeding risk increased hai aur symptoms delay ho sakte hain.
-- **B (Incorrect):** Reassurance alone occult bleeding miss kar sakti hai.
-- **C (Incorrect):** Visible bleeding ka wait unsafe hai.
-- **D (Incorrect):** Pain absent hona intracranial injury exclude nahi karta.
+<!-- job5-rationale -->
+Anticoagulants clot formation reduce karte hain, isliye head trauma ke baad intracranial bleeding ka risk important hai. Patient initially well feel kar sakta hai aur visible wound absent ho sakti hai. Promptly head injury pathway activate karo, baseline neurological observations, medicines aur injury timing communicate karo. NICE guidance anticoagulant use ke context mein CT consideration recommend karti hai even without other indications. Imaging decision local protocol aur clinical team karegi.
+
+**Option-by-option reasoning**
+
+- **A:** Prompt assessment delayed bleeding risk address karti hai.
+- **B:** Reassurance alone internal injury exclude nahi karti.
+- **C:** External bleeding ka wait intracranial hemorrhage miss kar sakta hai.
+- **D:** Pain absent hona normal brain imaging ka proof nahi hai.
+
+**Exam clue:** Anticoagulant + head strike requires prompt clinical assessment.
+
+[Additional concept reference](https://www.nice.org.uk/guidance/NG232/chapter/recommendations)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -519,10 +691,20 @@ D. Fall was unavoidable
 
 **Correct answer: B. Time, location, activity, symptoms and witnessed details**
 
-- **A (Incorrect):** Careless label unsupported blame hai.
-- **B (Correct):** Objective context contributing factors identify karne mein help karta hai.
-- **C (Incorrect):** Diagnosis event details replace nahi karta.
-- **D (Incorrect):** Investigation ke pehle unavoidable assume nahi karo.
+<!-- job5-rationale -->
+Post-fall investigation ka aim accurate event reconstruction aur prevention improvement hai. Time, location, pre-fall activity, reported symptoms, actual witnessed observations, relevant environment aur immediate assessment document karo. Unknown facts ko unknown hi likho. Clinical chart aur safety report facility policy ke according complete karo, speculation ya blame avoid karo.
+
+**Option-by-option reasoning**
+
+- **A:** Careless subjective judgment hai, event facts nahi.
+- **B:** Specific time, location, activity, symptoms and witnessed details useful evidence hain.
+- **C:** Diagnosis alone fall circumstances explain nahi karta.
+- **D:** Unavoidable conclusion investigation se pehle unsupported hai.
+
+**Exam clue:** Facts, sources, time and actions, not blame.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -548,10 +730,20 @@ D. Remove all precautions
 
 **Correct answer: C. Document, monitor as indicated and revise prevention plan**
 
-- **A (Incorrect):** Injury delayed appear ho sakti hai.
-- **B (Incorrect):** Repeat event ka wait unsafe hai.
-- **C (Correct):** Monitoring aur contributing factors address karna zaroori hai.
-- **D (Incorrect):** Risk persist ho toh individualized precautions chahiye.
+<!-- job5-rationale -->
+Fall ke baad immediate visible injury absent hone par bhi delayed symptoms ya underlying cause possible hai. Relevant clinical assessment aur indicated monitoring continue karo, fall circumstances aur actions record karo, team notification follow karo. Reassess mobility, medicines, toileting aur environment and update prevention plan. No-injury event future learning ke liye useful hai.
+
+**Option-by-option reasoning**
+
+- **A:** Reassessment cancel karna delayed injury miss kar sakta hai.
+- **B:** Second fall ka wait avoidable recurrence risk hai.
+- **C:** Document, monitor and modify plan correct hai.
+- **D:** Precautions remove karne ka evidence nahi diya hai.
+
+**Exam clue:** No apparent injury does not mean no follow-up.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -577,10 +769,20 @@ D. Explore concerns and agree on safest feasible mobility plan
 
 **Correct answer: D. Explore concerns and agree on safest feasible mobility plan**
 
-- **A (Incorrect):** Indefinite restriction function harm kar sakti hai.
-- **B (Incorrect):** Coercion autonomy undermine karta hai.
-- **C (Incorrect):** Concern unresolved rahega.
-- **D (Correct):** Shared planning independence aur safety balance karta hai.
+<!-- job5-rationale -->
+Patient independence lose karne se concerned hai. Nurse concern respectfully explore kare, current risk aur assistance ka purpose explain kare, patient ki preferences ke saath safe achievable mobility goals agree kare. Capable patient ke informed decisions respect karo. Refusal aur agreed alternatives document karo, capacity concerns ya imminent harm mein local policy follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Indefinite prohibition autonomy aur function compromise kar sakti hai.
+- **B:** Family coercion informed consent ka substitute nahi.
+- **C:** Refusal ignore karne se concern aur safety risk unresolved rehta hai.
+- **D:** Collaborative safest feasible plan autonomy and safety balance karta hai.
+
+**Exam clue:** Shared decisions promote safe independence.
+
+[Additional concept reference](https://psnet.ahrq.gov/innovation/preventing-falls-through-patient-and-family-engagement-create-customized-prevention)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -606,10 +808,20 @@ D. 30
 
 **Correct answer: A. 3**
 
-- **A (Correct):** 6 divided by 2000 times 1000=3.
-- **B (Incorrect):** 6 raw event count hai.
-- **C (Incorrect):** 12 conversion incorrect hai.
-- **D (Incorrect):** 30 tenfold overestimate hai.
+<!-- job5-rationale -->
+Fall rate exposure-adjusted quality indicator hai. Formula falls ÷ patient-days × 1000. Given 6 falls aur 2000 patient-days. 6/2000=0.003 falls per patient-day. Multiply by 1000=3 falls per 1000 patient-days. Patient-days total inpatient exposure represent karte hain, patient count ya occupied beds at one instant nahi.
+
+**Option-by-option reasoning**
+
+- **A:** 3 correct standardized rate hai.
+- **B:** 6 raw event count hai, standardized rate nahi.
+- **C:** 12 given formula se nahi milta, incorrect scaling hai.
+- **D:** 30 tenfold overestimate hai.
+
+**Exam clue:** Falls / patient-days × 1000.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -635,10 +847,20 @@ D. Raw count proves A safer
 
 **Correct answer: B. A has 4 and B 2 per 1,000 patient-days**
 
-- **A (Incorrect):** B ka rate 2 hai.
-- **B (Correct):** A=4 aur B=2. Comparison mein case mix bhi consider karo.
-- **C (Incorrect):** Raw count standardized rate nahi.
-- **D (Incorrect):** Different patient-days raw comparison misleading banate hain.
+<!-- job5-rationale -->
+Different patient exposure wards ka raw count unfair comparison bana sakta hai. Ward A: 4/1000 ×1000=4. Ward B: 6/3000 ×1000=2. B mein total events more hain but rate lower hai. Rates compare karte waqt same event definitions, reporting completeness, case mix aur time period consider karo. Rate alone overall quality prove nahi karti.
+
+**Option-by-option reasoning**
+
+- **A:** B raw count larger hai but standardized rate lower hai.
+- **B:** A=4 and B=2 correct per 1000 patient-days hain.
+- **C:** Neither ward ka standardized rate 6 hai.
+- **D:** Raw count A safer prove nahi karta, exposure adjust karne par A higher hai.
+
+**Exam clue:** Compare rates with equal denominators, not raw counts.
+
+[Additional concept reference](https://psnet.ahrq.gov/primer/falls)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -664,10 +886,20 @@ D. Classify everyone high risk
 
 **Correct answer: C. Link risk factors to documented interventions and audit implementation**
 
-- **A (Incorrect):** Extra score field intervention ensure nahi karta.
-- **B (Incorrect):** Outcome measurement useful hai.
-- **C (Correct):** Tailored actions aur implementation check actual gap address karte hain.
-- **D (Incorrect):** High-risk label individual plan replace nahi karta.
+<!-- job5-rationale -->
+Risk form complete hona process ka first step hai. Assessment findings ko concrete action se connect karna zaroori hai. Example nocturia → timely assisted toileting, weak gait → assessed mobility aid and assistance. Care plan visible aur understood ho, audit check kare ki interventions actual practice mein perform ho rahe hain. Outcome rates and patient feedback improvement monitor karne mein help karte hain.
+
+**Option-by-option reasoning**
+
+- **A:** Extra score field actual prevention gap solve nahi karta.
+- **B:** Falls measurement stop karne se outcome trend lose hota hai.
+- **C:** Individual risks ko action aur implementation audit se connect karna correct hai.
+- **D:** Everyone high-risk label resources misdirect kar sakta hai aur unique needs hide karta hai.
+
+**Exam clue:** Assess, plan, implement, audit.
+
+[Additional concept reference](https://psnet.ahrq.gov/innovation/preventing-falls-through-patient-and-family-engagement-create-customized-prevention)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -693,10 +925,20 @@ D. Coordinate supervised mobility with rehabilitation team
 
 **Correct answer: D. Coordinate supervised mobility with rehabilitation team**
 
-- **A (Incorrect):** Bed rest deconditioning badha sakta hai.
-- **B (Incorrect):** Unrestricted walking current risk ignore karta hai.
-- **C (Incorrect):** Routine restraints fall prevention nahi hain.
-- **D (Correct):** Individualized supervised mobility safety aur function support karti hai.
+<!-- job5-rationale -->
+High fall risk ka matlab all activity stop karna nahi. Prolonged immobility muscle weakness, reduced endurance aur dependence increase kar sakti hai. Rehabilitation team ke saath current ability, goals, appropriate aids, supervision aur progressive safe activity plan karo. Dizziness ya acute condition mein activity adapt karo, progress reassess karo.
+
+**Option-by-option reasoning**
+
+- **A:** Permanent bed rest deconditioning aur other immobility complications create kar sakti hai.
+- **B:** Unrestricted walking known risks ignore karti hai.
+- **C:** Routine restraint mobility and rehabilitation goals conflict kar sakti hai.
+- **D:** Coordinated supervised mobility function and safety balance karti hai.
+
+**Exam clue:** Prevent injury while maintaining safe function.
+
+[Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK615910/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
@@ -709,6 +951,8 @@ D. Coordinate supervised mobility with rehabilitation team
 </details>
 
 ## Teaching and practice
+
+- Q5–24 supplementary fall-specific practice lead: [FALL PREVENTION, Fall Risks factors, Safety Nursing Q&A with Answer](https://www.youtube.com/watch?v=iy8c-tSCnwY). Indexed description confirms fall-risk nursing questions with rationales. Direct video page retrieval failed, channel and specific item coverage/playback/timestamps pending. Not counted as verified question-level coverage.
 
 [AHRQ Fall TIPS](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html) · [World falls guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/) · [Open RN Safety](https://www.ncbi.nlm.nih.gov/books/NBK610816/).
 
