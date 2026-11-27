@@ -4,7 +4,9 @@
 
 [Chapter](../README.md) · [MCQs](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md) · [Previous Year Questions](../Previous-Year-Questions/07A-Dose-Calculation-Reported-Evidence.md)
 
-## Units and dose
+<a name="units-and-dose"></a>
+
+## 🔴 Units and dose
 
 🔴 **MOST IMPORTANT.** Dose ka matlab medicine ka prescribed amount hai. Concentration ka matlab kisi given volume mein medicine kitni hai. Jaise 50 mg/mL ka matlab har 1 mL mein 50 mg drug hai. Agar amount poocha hai toh answer mg mein ho sakta hai. Agar syringe mein kitna liquid lena hai poocha hai toh answer mL mein hoga. Dono units ko mix mat karo.
 
@@ -20,9 +22,13 @@ Example: 225 micrograms order hai, stock 0.15 mg/mL hai. Pehle 225 micrograms ko
 
 Agar 75 mg/mL solution ka 2.4 mL diya gaya hai, toh documented dose 75 × 2.4 = 180 mg hai. Dekho, jab volume se mass nikalna hai toh multiply karte hain. Jab mass se volume nikalna hai toh divide karte hain.
 
-[Practice Q1–6](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md).
+[Practice Q1–6](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md#q1-an-authorized-prescription-requires-375-mg-suitable-whole-tablets-of-250-mg-and-125-mg-are-available-which-combination-delivers-the-dose).
 
-## Reconstitution and labels
+<a name="reconstitution-and-labels"></a>
+
+## 🔴 Reconstitution and labels
+
+🔴 **MOST IMPORTANT.**
 
 Reconstitution mein powder ko product ke approved diluent se prescribed instructions ke according solution banaya jaata hai. Final volume aur added diluent volume hamesha equal nahi hote, kyunki powder bhi volume occupy kar sakta hai. Actual label par stated final concentration use karo.
 
@@ -32,9 +38,13 @@ Agar 1250 mg required hai aur each vial 500 mg in 2 mL provide karti hai, toh 25
 
 Units aur mEq ko mg mein directly convert nahi kar sakte. Drug-specific definition required hai. For a hypothetical stock of 400 units in 2 mL, 150 units = 150/400 × 2 = 0.75 mL. High-alert products require correct device, concentration and authorized independent checks as indicated.
 
-[Practice Q7–11](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md).
+[Practice Q7–11](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md#q7-a-fictional-powder-vial-contains-2-g-its-manufacturer-states-that-adding-7-ml-diluent-produces-a-final-volume-of-8-ml-what-volume-contains-625-mg).
 
-## Concentration and dilution
+<a name="concentration-and-dilution"></a>
+
+## 🟠 Concentration and dilution
+
+🟠 **HIGH YIELD.**
 
 w/v ka matlab weight per final volume hai. 1% w/v = 1 g per 100 mL = 10 mg/mL. Yeh shortcut w/v ke liye hai, w/w aur v/v par apply nahi hota.
 
@@ -56,9 +66,13 @@ flowchart LR
 
 Dilution mein solute mass conserve hota hai if no loss. Formula C1 × V1 = C2 × V2. C1 and C2 ki units same rakho. V2 final volume hai, added diluent volume nahi. Ratio shorthand ko ambiguous medication orders mein use mat karo. Explicit concentration verify karo.
 
-[Practice Q12–17](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md).
+[Practice Q12–17](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md#q12-a-training-solution-contains-18-mg-in-100-ml-what-concentration-is-this-in-micrograms-per-milliliter).
 
-## Rounding and safety
+<a name="rounding-and-safety"></a>
+
+## 🔴 Rounding and safety
+
+🔴 **MOST IMPORTANT.**
 
 Intermediate calculations ko jaldi round karne se final dose change ho sakti hai. Example 17/6 = 2.8333... mL. Agar exercise nearest tenth poochti hai toh 2.8 mL answer hai. Real practice mein syringe graduation, patient-specific dose tolerance and rounding policy decide karte hain. Calculator ka answer correct hone se dose automatically safe nahi ho jaati.
 
@@ -74,7 +88,7 @@ flowchart TD
  E -->|Yes| G[Required clinical and independent checks]
 ```
 
-[Practice Q18–20](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md).
+[Practice Q18–20](../MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md#q18-a-simulated-order-requires-17-mg-from-a-6-mgml-solution-the-exercise-explicitly-requires-rounding-only-the-final-volume-to-the-nearest-tenth-of-a-milliliter-what-is-the-rounded-result).
 
 ## ▶️ Sources and videos
 
@@ -85,3 +99,10 @@ flowchart TD
 | Dilution and rounding | [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing), written reference directly retrieved | Specific MCQ video pending |
 
 [OpenStax Pharmacology for Nurses](https://openstax.org/books/pharmacology/pages/2-4-dosage-calculations) indexed. [Open RN newer Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK596732/?report=classic) indexed, direct retrieval failed. Video descriptions indexed but direct question-session open failed. Actual channel, exact concept-specific coverage and playback pending. No invented timestamps. [Reported exam adaptations](../Previous-Year-Questions/07A-Dose-Calculation-Reported-Evidence.md).
+
+
+## ▶️ Question-level practice and historical evidence recheck — 27 November 2026
+
+- Units and dose: **[🟣 AIIMS NORCET 11 September 2022 — related calculation concept only](https://testbook.com/question-answer/the-drug-prescription-is-20mcg-available-dose-for--6320757f33461993ecaf6e27)** and **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related calculation concept only](https://testbook.com/question-answer/lactulose-20-gm-is-to-be-administered-to-a-patient--61765238277fdc0fd9b895d2)**. The latter has an intermediate arithmetic typo. Its displayed answer is consistent with the stated inputs. Neither report authenticates the original practice scenarios or an official key.
+- [RegisteredNurseRN dosage calculations](https://www.youtube.com/watch?v=hnzZKY8SGbE), existing description-qualified mapping in the question bank for Q1,2,4,5,7,9,12,20. Q3,6,8,10,11,13–19 retain specific gaps. Earlier general practice links are supplementary only. Exact question playback and timestamps remain pending.
+- [Mission High — Tarun Sir drug dose calculation MCQ session](https://www.youtube.com/watch?v=cxa4BaV2m8A), indexed general MCQ-practice description, direct opening failed. No additional specific question coverage credited.
