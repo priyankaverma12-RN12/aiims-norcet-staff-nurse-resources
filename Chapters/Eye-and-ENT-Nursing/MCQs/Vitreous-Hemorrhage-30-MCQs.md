@@ -760,28 +760,28 @@
 
 </details>
 
-### Q29. A patient under observation for vitreous hemorrhage develops a new dark curtain in the visual field. Which instruction should the nurse reinforce?
+### Q29. A patient with dense vitreous hemorrhage in the only functionally seeing eye asks whether the same observation period is mandatory for everyone. Which response is appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original clinical practice
 
-- **A.** Wait for the next planned routine visit
-- **B.** Treat the symptom as expected blood settling without assessment
-- **C.** Seek immediate urgent eye assessment for possible retinal detachment
-- **D.** Cover both eyes until the curtain disappears
+- **A.** Every patient must wait exactly six months regardless of visual needs
+- **B.** Only-eye status rules out any surgical assessment
+- **C.** The retinal team should consider functional dependence, retinal status and individual benefits and risks when deciding intervention timing
+- **D.** Surgery guarantees normal vision if the fellow eye is impaired
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: C. Seek immediate urgent eye assessment for possible retinal detachment**
+**Correct answer: C. The retinal team should consider functional dependence, retinal status and individual benefits and risks when deciding intervention timing**
 
-**Kyun sahi hai:** New curtain retinal detachment indicate kar sakti hai. Existing VH ke context mein bhi emergency reassessment needed hai.
+**Kyun sahi hai:** Agar doosri eye mein usable vision nahi hai toh dense VH daily activities aur independence ko bahut affect kar sakti hai. Retinal pathology, surgery risk aur functional needs ke basis par specialist earlier intervention discuss kar sakta hai. Observation ka interval sabke liye fixed nahi hota.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Routine wait vision threaten kar sakta hai.
-- **B.** Blood settling assumption dangerous hai.
-- **D.** Eye covering cause treat nahi karta.
+- **A.** Fixed waiting period individual risks ignore karta hai.
+- **B.** Only-eye status treatment selection mein important hai, surgical assessment ka absolute contraindication nahi.
+- **D.** Underlying retinal injury ke karan normal vision guaranteed nahi hoti.
 
-**Revision:** [Related concept](../Concepts/Vitreous-Hemorrhage-and-Nursing.md#follow-up) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK559131/).
+**Revision:** [Related concept](../Concepts/Vitreous-Hemorrhage-and-Nursing.md#management) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK559131/).
 
 **YouTube MCQ practice: verification pending.**
 
