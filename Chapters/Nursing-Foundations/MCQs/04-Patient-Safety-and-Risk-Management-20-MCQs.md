@@ -29,6 +29,10 @@ Nurse patient ka naam aur doosra approved identifier, jaise date of birth ya hos
 
 **Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q17](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q17-two-patients-in-the-ward-have-the-same-surname-which-action-best-prevents-a-wrong-patient-procedure) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q2. A confused patient repeatedly attempts to stand after receiving a sedative. Which initial intervention is best?
@@ -58,6 +62,10 @@ Sedation balance aur alertness reduce kar sakti hai. Nurse toileting, pain, conf
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q37](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q37-a-confused-patient-repeatedly-attempts-to-stand-after-receiving-a-sedative-which-initial-intervention-is-best) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q3. Which environment most reduces fall risk for an ambulatory older patient?
@@ -87,6 +95,10 @@ Low locked bed aur clear pathway patient ko safely transfer aur walk karne mein 
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q52](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q52-which-environment-most-reduces-fall-risk-for-an-ambulatory-older-patient) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q4. A patient is found on the floor after an unwitnessed fall. What is the priority?
@@ -116,6 +128,10 @@ Fall ke baad head, spine ya limb injury ho sakti hai. Nurse pehle immediate thre
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q81](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q81-a-patient-is-found-on-the-floor-after-an-unwitnessed-fall-what-is-the-priority) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q5. A nurse catches a wrong-dose preparation before it reaches the patient. What type of safety event is this?
@@ -145,6 +161,10 @@ Near miss mein error hua ya hone wala tha, lekin patient tak harm-producing even
 
 **Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q11](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q11-a-nurse-catches-a-wrong-dose-preparation-before-it-reaches-the-patient-what-type-of-safety-event-is-this) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q6. Which quality improvement approach primarily seeks to identify system contributors after a serious patient safety event?
@@ -174,6 +194,10 @@ Root cause analysis mein team event ke contributing factors, jaise communication
 
 **Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q103](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q103-which-quality-improvement-approach-primarily-seeks-to-identify-system-contributors-after-a-serious-patient-safety-event) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q7. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
@@ -203,6 +227,10 @@ Oxygen khud fuel nahi hai lekin burning ko strongly support karti hai. Nurse ign
 
 **Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q10](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q10-a-patient-receiving-oxygen-asks-to-smoke-near-the-bedside-which-response-is-appropriate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q8. An electrical device sparks while connected to a patient. Which immediate response is safest?
@@ -232,6 +260,10 @@ Electrical hazard mein rescuer aur patient dono ki safety important hai. Nurse s
 
 **Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q82](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q82-an-electrical-device-sparks-while-connected-to-a-patient-which-immediate-response-is-safest) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q9. A patient with a documented severe latex allergy is admitted for a procedure. Which preventive action is appropriate?
@@ -261,6 +293,10 @@ Latex exposure sensitized patient mein serious reaction cause kar sakta hai. Cle
 
 **Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q97](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q97-a-patient-with-a-documented-severe-latex-allergy-is-admitted-for-a-procedure-which-preventive-action-is-appropriate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q10. Which action is appropriate when a patient requires a physical restraint under applicable policy?
@@ -290,6 +326,10 @@ Restraints injury aur distress cause kar sakti hain. Nurse alternative measures 
 
 **Related study:** [Topic concepts](../Concepts/04C-Restraint-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q83](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q83-which-action-is-appropriate-when-a-patient-requires-a-physical-restraint-under-applicable-policy) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q11. Which item should be within reach of a patient who requires help with transfers?
@@ -319,6 +359,10 @@ Call bell se patient bed se uthne se pehle help mang sakta hai. Isse unassisted 
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q42](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q42-which-item-should-be-within-reach-of-a-patient-who-requires-help-with-transfers) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q12. A nurse encounters a barcode mismatch while scanning a medication. What should happen next?
@@ -346,6 +390,10 @@ Mismatch wrong patient ya wrong product ka clue ho sakta hai. Nurse administrati
 
 **YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q11](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q11-a-nurse-encounters-a-barcode-mismatch-while-scanning-a-medication-what-should-happen-next) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q13. What is the most appropriate use of a fall-risk assessment tool?
@@ -375,6 +423,10 @@ Tool risk factors systematically identify karne mein help karta hai. Condition a
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q35](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q35-what-is-the-most-appropriate-use-of-a-fall-risk-assessment-tool) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q14. An unfamiliar infusion pump alarm activates and the patient is receiving a high-alert medicine. Which action is safest?
@@ -404,6 +456,10 @@ Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse pati
 
 **Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q108](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q108-an-unfamiliar-infusion-pump-alarm-activates-and-the-patient-is-receiving-a-high-alert-medicine-which-action-is-safest) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q15. Which approach reduces the risk of wrong-site surgery?
@@ -433,6 +489,10 @@ Team time-out mein identity, procedure aur correct site confirm ki jaati hai. Is
 
 **Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q7](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q7-which-approach-reduces-the-risk-of-wrong-site-surgery) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q16. A patient with swallowing difficulty is given a meal tray containing food outside the prescribed texture plan. What should the nurse do?
@@ -460,6 +520,10 @@ Dysphagia mein wrong food consistency aspiration risk badha sakti hai. Nurse pre
 
 **YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q114](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q114-a-patient-with-swallowing-difficulty-is-given-a-meal-tray-containing-food-outside-the-prescribed-texture-plan-what-should-the-nurse-do) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q17. Which principle is central to a just culture in patient safety?
@@ -489,6 +553,10 @@ Just culture staff ko mistakes report karne mein support karti hai aur behavior 
 
 **Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q25](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q25-which-principle-is-central-to-a-just-culture-in-patient-safety) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q18. A patient's condition suddenly deteriorates while the assigned nurse cannot reach the primary clinician. What is the best next action?
@@ -516,6 +584,10 @@ Acute deterioration time-sensitive hoti hai. Escalation pathway se additional tr
 
 **YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q119](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q119-a-patients-condition-suddenly-deteriorates-while-the-assigned-nurse-cannot-reach-the-primary-clinician-what-is-the-best-next-action) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q19. Which bed-transfer practice is appropriate when moving a patient to a wheelchair?
@@ -545,6 +617,10 @@ Locked brakes chair movement prevent karte hain. Transfer se pehle strength, bal
 
 **Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q41](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q41-which-bed-transfer-practice-is-appropriate-when-moving-a-patient-to-a-wheelchair) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q20. A medication error has reached a patient, but no symptoms are currently evident. What should the nurse do first?
@@ -574,6 +650,10 @@ Some medicine effects delayed ho sakte hain. Nurse patient assess karti hai, cli
 
 **Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q37](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q37-a-medication-error-has-reached-a-patient-but-no-symptoms-are-currently-evident-what-should-the-nurse-do-first) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ## Study references
