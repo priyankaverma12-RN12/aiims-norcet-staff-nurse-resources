@@ -2,6 +2,8 @@
 
 **Mock 01 complete-length practice edition is published; final clinical and exhaustive semantic validation remain pending.** The goal is 10 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
 
+## Test availability
+
 | Mock | Target | Published |
 |---|---:|---|
 | 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |
@@ -15,7 +17,8 @@
 | 9 | 120 | Pending |
 | 10 | 120 | Pending |
 
-[Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
+- [Chapter](../README.md)
+- [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
 
 **Learner correction (27 November 2026):** Every new mock must contain newly authored mock-exclusive questions. No copying, selecting, or superficial rewording of existing MCQs, PYQs, concept practice, revision questions or other mocks. The same concepts may be tested through genuinely different clinical tasks. Compare exact and semantic duplicates against all banks and mocks. Maintain a separate mock-exclusive question inventory, with 120 new questions per mock and 1,200 across ten mocks. Parallel Eye and ENT mock-only preparation is authorized without interfering with the topic authorship scope.
 
@@ -99,4 +102,8 @@ Q031–Q040 independently model-rereviewed, 40 conversational complete-sentence 
 
 Q041–Q050 independently model-rereviewed, 40 complete-sentence conversational Roman Hinglish option rationales expanded. Ten visible question blocks and answer keys unchanged, 10 closed details blocks, difficulty and priority preserved. Content commit 46649e154dbd7eeaa90e9c41b86570ec7e970548, blob 11d77d4f662f66cb5c7c32d103d04ffb56eb58c0, exact remote readback. [Clinical audit ledger](Mock-02-Structural-and-Semantic-Audit.md) commit 98d7c72e5301795199e990f409d235b01f1e6c08, blob 2b3b110bd71f6354240dce9121abda156ba6291d, exact remote readback. Fresh Children's Health Queensland, Perth Children's Hospital, MSD Manual and ENT UK clinical references reviewed. Two supplemental medical MCQ video leads with limitations, eight slots without specific leads and all ten exact-item video mappings pending. No official PYQ claim. Fresh comparison with 230 other mock headings found no normalized exact match, targeted eight-file chapter comparison (94 bank headings plus concepts/evidence) returned no matching terms. Full 38-bank scan exceeded connector call limit; comprehensive external, replacement, unlinked, PYQ, revision and concurrent-addition semantic checks not certified. Both full skill versions retrieved in bounded ranges and unchanged from previous complete read, AGENTS/Copilot unchanged, latest audit-learning excerpt reviewed, full historical log not certified. All five formal claims checked. Cumulative Mock 02 clinical review 50/120 and 200/480 rationales. Combined allocation 240 originals and 960 rationales, 120 Mock 01 clinical notes preserved. One assembled practice edition, zero fully certified mocks. Next Q051–Q060 onward. No Mock 02 assembly or Mock 03 authorship.
 
-<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-clinical-20261127-1921. Scope: Q051–Q060 draft, Mock 02 audit ledger and mock plan only. Claimed UTC: 2026-11-27T19:21:00Z. Expiry UTC: 2026-11-27T19:51:00Z. -->
+## Mock 02 sixth clinical validation batch — 28 November 2026
+
+Q051–Q060 independently model-rereviewed, 40 conversational complete-sentence Roman Hinglish rationales expanded. Ten English visible question blocks and answer keys unchanged, 10 closed details blocks, difficulty and priority preserved. Content commit 57fef290a308922c1fb6cacb9ab29e3744560bff, blob 63c130040c6f6e159b6a426becaab9db55561f74, exact remote readback. [Clinical audit ledger](Mock-02-Structural-and-Semantic-Audit.md) commit 98db108d3b7cf894d6348fedab6898432487ac4c, blob 6e4aeaed5c6fd8a3caa688bd55c4f1d08f809a7c, exact remote readback. Fresh EyeWiki Fuchs, GeneReviews albinism/WAGR and AAPOS aniridia references directly retrieved, additional AAO, NCBI and 2025 consensus evidence indexed. All ten specific video mappings remain pending, teaching/quiz leads not promoted to verified coverage. Fresh 230-other-mock normalized comparison found no exact matches, four related tasks differentiated. Ten-file chapter screen covered 204 bank headings and three concept/evidence files without matching target terms. Q094/Q096/Q103/Q113 replacement headings differentiated from current batch, not a complete external replacement audit. Both full skills retrieved in bounded ranges, hashes unchanged from earlier full reading; AGENTS/Copilot unchanged, latest audit-learning excerpt checked, full historical log not certified. Five formal claims checked and other jobs preserved. Cumulative Mock 02 clinical rereview 60/120 and 240/480 rationales. Combined allocation 240 originals and 960 rationales, 120 Mock 01 clinical notes preserved. One assembled practice edition, zero fully certified mocks. Next Q061–Q070. Comprehensive external semantic, unlinked/PYQ/revision/concurrent-addition comparisons, video playback and rendered UI remain pending. No Mock 02 assembly or Mock 03 authorship.
+
+<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Q051–Q060 clinical rereview and audit ledger. -->
