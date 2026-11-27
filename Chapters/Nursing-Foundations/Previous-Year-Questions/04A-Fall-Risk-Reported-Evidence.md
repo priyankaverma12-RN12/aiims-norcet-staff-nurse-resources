@@ -4,7 +4,7 @@
 
 ### Q1. When appropriately selected for an individual patient, what is one intended safety purpose of a bed side rail?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Evidence:** Third-party reported GMCH Chandigarh Staff Nurse 28 August 2022, question and shift not verified.
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🔵 GMCH Chandigarh Staff Nurse — 28 August 2022 (reported adaptation)** · Question number and shift not verified.
 
 A. Replace all supervision
 B. Provide a surface for hanging IV bags
@@ -23,11 +23,17 @@ D. Restrict every patient's movement routinely
 
 [Third-party question report](https://testbook.com/question-answer/the-most-important-intended-outcome-of-using-side--630ddd5ac64ded60a36f6665) · [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention)
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** Earlier inspected report retained. Direct retrieval failed on 27 November 2026.
+
+**YouTube MCQ practice: verification pending** — specific bed-rail question coverage not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. Which plan is most appropriate for an inpatient who requires assistance to walk?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🔴 MOST IMPORTANT | **Evidence:** RMLIMS Lucknow 7 September 2025 memory-based report, not official wording.
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **🔵 RMLIMS Lucknow — 7 September 2025 (memory-based adaptation)** · Not official wording.
 
 A. Provide accessible call bell, safe footwear and patient-specific assistance
 B. Routinely sedate the patient to prevent movement
@@ -46,6 +52,12 @@ D. Apply restraints solely because of fall risk
 
 [Third-party memory-based report](https://testbook.com/question-answer/nursing-intervention-for-a-patient-at-risk-for-fal--68c94308cd5ef1faf9b15ad1/amp) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/)
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** Earlier inspected memory-based report retained. Direct retrieval failed on 27 November 2026.
+
+**YouTube MCQ practice: verification pending** — specific fall-prevention question coverage not established.
+<!-- /job4-metadata -->
 </details>
 
 ## Evidence limitations and practice
