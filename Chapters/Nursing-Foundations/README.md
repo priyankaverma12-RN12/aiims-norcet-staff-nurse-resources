@@ -5,12 +5,12 @@
 | Section | Open |
 |---|---|
 | Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Original topic-wise questions | [842 original slots (600 initial + 242 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
+| Original topic-wise questions | [866 original slots (600 initial + 266 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
 | Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
 | Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | Video resources | [11 teaching and MCQ video links](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
 
-348 Medium and 494 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+358 Medium and 508 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
@@ -31,3 +31,5 @@
 [Pulse oximetry](Concepts/03D-Pulse-Oximetry-Assessment.md): 30 allocated.
 
 [Physical examination](Concepts/03E-Physical-Examination.md): 30 allocated, including 27 new original questions. [Reported NVS evidence](Previous-Year-Questions/03E-Physical-Examination-Reported-Evidence.md) excluded from cumulative count pending reconciliation. Full clinical, semantic and historical audit remains pending.
+
+[Physical examination](Concepts/03E-Physical-Examination.md): 30 allocated. [Fall risk and prevention](Concepts/04A-Fall-Risk-and-Prevention.md): 30 allocated. [NVS reported evidence](Previous-Year-Questions/03E-Physical-Examination-Reported-Evidence.md) · [Fall-risk reported evidence](Previous-Year-Questions/04A-Fall-Risk-Reported-Evidence.md). Reported count remains 34 pending overlap and official-key audit. Full clinical and semantic verification pending.
