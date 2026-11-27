@@ -4,6 +4,10 @@ Reported third-party question pages, independent adaptations. Not official key a
 
 ### NVS Staff Nurse, September 2019 — retrieved report
 
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial labels · Source-based adaptation
+<!-- /job4-metadata -->
+
 Which response pattern helps a patient explore feelings and clarify meaning?
 
 - A. Arguing and assigning blame
@@ -15,9 +19,19 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 **B.** Reflecting and clarifying help understanding. Other responses can block expression. Closed-ended questions are not universally forbidden and can be useful for urgent focused data. [Retrieved report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe).
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. [NVS Staff Nurse September 2019 report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Independent adaptation, not exact original or authenticated official key. 
+
+**Related concept:** [Study notes](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques)
+<!-- /job4-metadata -->
 </details>
 
 ### RRB Nursing Superintendent, 12 March 2026 shift 1 — indexed report
+
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial labels · Source-based adaptation
+<!-- /job4-metadata -->
 
 An audit shows important nursing records are repeatedly incomplete. What should the nursing administrator investigate first?
 
@@ -30,6 +44,12 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 
 **A.** Missing entries may indicate inconsistency in documentation standards or system barriers. Investigate evidence and improve practice. Others undermine traceability. [Question-level indexed source](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Full page and official key not independently opened.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🔵 Third-party question page retrieved and inspected in this run. [RRB Nursing Superintendent 12 March 2026 shift I report](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Independent adaptation, not exact original or authenticated official key. This is a newer retrieval status than the earlier indexed-only note.
+
+**Related concept:** [Study notes](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability)
+<!-- /job4-metadata -->
 </details>
 
 ### Additional leads and caution
