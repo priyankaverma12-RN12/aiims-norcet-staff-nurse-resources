@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
 State: CLAIMED
-Owner: job2-20261127-043659-incident
-Scope: Nursing Foundations group 04D incident reporting and quality management and local navigation, global index only if unclaimed
-Claimed UTC: 2026-11-27T04:36:59Z
-Expiry UTC: 2026-11-27T05:06:59Z
+Owner: job2-20261127-044334-recovery
+Scope: Nursing Foundations group 04D recovery, group 04E environmental and equipment safety, local indexes only; global index if unclaimed
+Claimed UTC: 2026-11-27T04:43:34Z
+Expiry UTC: 2026-11-27T05:13:34Z
 
 Forward verified content checkpoint 2a3b7629609b5ce0e7d926fb65406deeb031719f. Nursing Foundations 923 indexed original slots (387 Medium, 536 Difficult), 600 initial + 323 expansion. Group 04C restraint safety 29 new plus earlier Q10 = 30 allocated. 132 related stems exact checked without overlap, 29 hidden four-option questions with compact metadata verified. Concepts 44c0120bef22cc9dc6410f46baad07b937f3e7d8 and reported PGIMER 2015 adaptation 6141c734e6332c7001e0a0598d986b6a201e83ae verified. RRB March 2026 shift 1 related fall prevention reserved. India MHCA 2017 sections 95 and 97 indexed text and OpenStax clinical section checked, PDF visual and full clinical/semantic audits pending. MCQ index 50f22682be0bb73f123c38acdcad26aeef7943cd, individual coverage audit 68110950f4622cd301b9f436e073874c61aebdcb, README 5d8db76ff42023674d816ca7f19eb446b0825cc1 and concept coverage map 590c2522c02d735f6755e3c54adb9782bc9a1368 verified. Counted historical total 34 pending overlap and official-key verification, five compiled mocks of ten. Dedicated NORCET restraint and Indian-law MCQ video, playback and timestamps pending. Tool-call limit stopped PYQ index and video guide reconciliation. Global chapter index deferred because reverse claim includes conditional shared edits. Next reconcile these three indexes when safe, continue group 04D incident reporting and quality management, then remaining hazards. Remaining 11 earlier group 04 questions reserved once. Other jobs untouched. Hourly task unchanged.
