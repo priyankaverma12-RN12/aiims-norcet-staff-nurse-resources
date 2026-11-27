@@ -223,9 +223,19 @@ Fixed posture se soft tissues adapt hokar shorten ho sakte hain. Individualized 
 
 **Correct: A. Lithotomy**
 
-Lithotomy mein patient back par hoti hai aur hips-knees flexed aur legs supported hoti hain. Privacy aur safe leg support important hain.
+Lithotomy mein patient supine hota hai, hips aur knees flexed hote hain aur legs supported stirrups mein hoti hain. Pelvic access milta hai. Dono legs coordinated tareeke se support karein aur pressure, nerve stretch aur dignity ka dhyan rakhein.
 
-**Baaki options kyun sahi nahi hain?** Prone face-down hai. Sims side-lying hai. Orthopneic sitting-forward position hai.
+**Option-wise explanation:**
+- **A (Sahi):** Lithotomy pelvic examination ke liye suitable hai kyunki perineum accessible hota hai aur legs supported rehti hain.
+- **B (Galat):** Orthopneic mein patient upright lean karta hai. Yeh breathing support ke liye hai, pelvic stirrup examination ke liye nahi.
+- **C (Galat):** Sims side/semi-prone position hai. Ismein dono legs stirrups mein nahi hoti hain.
+- **D (Galat):** Prone mein patient abdomen par hota hai. Routine pelvic examination ke described access ke liye yeh suitable nahi hai.
+
+**Exam clue:** Stirrups + pelvic examination = lithotomy.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
@@ -299,9 +309,21 @@ Region pain ki location aur radiation pain kis direction mein spread hota hai ba
 
 **Correct: B. High Fowler position**
 
-Upright position mein abdominal organs diaphragm par kam pressure daal sakte hain aur lung expansion easier ho sakti hai. Nurse comfort aur vital signs assess karti hai.
+Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High Fowler mein upright karne se diaphragm ki movement aur chest expansion aasaan ho sakti hai. Saans, oxygen saturation aur BP reassess karein. Severe distress mein emergency assessment ko delay na karein.
 
-**Baaki options kyun sahi nahi hain?** Flat aur head-down positions orthopnea worsen kar sakti hain. Unsupported prone positioning airway safety compromise kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported face-down position mein airway aur observation difficult ho sakte hain. Supervised therapeutic proning alag intervention hai.
+- **B (Sahi):** High Fowler mein chest upright hoti hai. Gravity abdominal pressure ko diaphragm se door karne mein madad karti hai, isliye stable orthopnea mein yeh best listed choice hai.
+- **C (Galat):** Flat supine mein orthopnea badh sakti hai kyunki diaphragm excursion aur pulmonary congestion ki symptoms worsen ho sakti hain.
+- **D (Galat):** Trendelenburg mein sir neeche hota hai. Isse abdomen diaphragm ki taraf shift ho sakta hai aur orthopnea badh sakti hai.
+
+**Exam clue:** Orthopnea + stable BP = upright position, phir ABC reassessment.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**Historical evidence:** RRB Nursing Superintendent 12 March 2026 Shift I high Fowler/lung expansion third-party indexed related concept only, direct page access failed.
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
@@ -864,9 +886,19 @@ Wrong blood transfusion severe hemolysis cause kar sakti hai. Bedside verificati
 
 **Correct: C. Maintain spinal alignment and use coordinated trained assistance according to trauma protocol**
 
-Suspected spine injury mein unnecessary movement cord damage worsen kar sakti hai. Trained team alignment maintain karke coordinated repositioning karti hai.
+Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessary rotation ya flexion secondary neurological injury ka risk badha sakti hai. Trained team local trauma protocol se spine alignment maintain kare. Life-saving airway ya resuscitation ko delay nahi karna chahiye.
 
-**Baaki options kyun sahi nahi hain?** Independent twisting, arm traction aur neck flexion alignment disturb kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported neck flexion possible unstable segment ko move kar sakti hai.
+- **B (Galat):** Arms se kheenchkar upright karna spine aur shoulder par uncontrolled force laga sakta hai.
+- **C (Sahi):** Coordinated trained assistance aur alignment protection uncontrolled movement ko minimize karte hain, jab reposition clinically required ho.
+- **D (Galat):** Head ko trunk se alag turn karne se cervical rotation ho sakti hai. Suspected injury mein yeh unsafe hai.
+
+**Exam clue:** Suspected spinal injury = alignment + trained team + trauma protocol.
+
+**Clinical reference:** [NICE NG41 spinal injury](https://www.nice.org.uk/guidance/ng41/chapter/Recommendations)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -2708,9 +2740,21 @@ Grief mein emotions change ho sakte hain aur fixed stage order necessary nahi ha
 
 **Correct: A. Left lateral Sims position**
 
-Left lateral Sims position rectal access aur descending colon ke anatomical direction mein solution passage facilitate kar sakti hai.
+Rectal examination ya routine cleansing enema ke liye left lateral Sims mein patient left side par semi-prone rehta hai aur upper leg flexed hoti hai. Rectum tak access milta hai aur fluid rectosigmoid direction mein pass ho sakta hai. Privacy, contraindications aur authorized procedure check karein.
 
-**Baaki options kyun sahi nahi hain?** Fowler upright hai. Lithotomy pelvic procedures mein useful ho sakti hai. Reverse Trendelenburg rectal access ka usual position nahi hai.
+**Option-wise explanation:**
+- **A (Sahi):** Left lateral Sims rectum tak access deta hai aur descending-sigmoid colon ki direction ke saath fluid passage support karta hai.
+- **B (Galat):** Reverse Trendelenburg poore bed ko head-up tilt karta hai. Yeh rectal access ka usual choice nahi hai.
+- **C (Galat):** Lithotomy pelvic procedures mein useful hai, lekin har rectal examination ya routine enema ke liye zaroori nahi hai.
+- **D (Galat):** High Fowler mein patient upright hota hai. Is position se rectal access aur enema retention generally difficult hote hain.
+
+**Exam clue:** Enema = left lateral Sims, jab clinically suitable ho.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**Historical evidence:** [RRB Staff Nurse, 21 July 2019 Shift I, reported related question](https://testbook.com/question-answer/which-is-the-most-suitable-position-for-giving-an--61a9b4a77f7461ddba328a8e) — displayed key option 4 left lateral, exact official paper/key not authenticated.
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
