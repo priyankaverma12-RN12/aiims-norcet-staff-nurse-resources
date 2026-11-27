@@ -65,4 +65,4 @@ Pinned snapshot ed5ae868b20433da7d9a80ae1d416b9fd35f79d9: targeted searches acro
 
 Mock 01 ledger follow-up commit 6049584434218249a6686fe29c71ce2385ddc188, blob 34760af79259447b6b1e953fa92318c940a7ce3e, exact readback verified. Assembled Mock 01 blob unchanged, no repeated clinical rereview. Next: Q051 onward, prioritize ten Eye tasks to restore 30/30 balance, then balance remaining blocks to 60/60 at 120. Complete bounded and residual semantic/evidence comparisons and independent validation before assembly. Preserve all other jobs.
 
-<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Q021–Q050 staged publication and Mock 01 replacement follow-up ledger. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-20261127-1649. Scope: Mock 02 Q051 onward and mock-only comparison ledger/plan. Claimed UTC: 2026-11-27T16:49:00Z. Expiry UTC: 2026-11-27T17:19:00Z. -->
