@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" role="img" aria-labelledby="title desc">
+<title id="title">Infusion calculation routes</title><desc id="desc">Gravity flow uses millilitres times drop factor divided by minutes. Pump flow uses millilitres divided by hours. Drug infusion uses hourly drug dose divided by concentration. Convert units and check the result in reverse.</desc>
+<rect width="920" height="480" rx="18" fill="#f4f8fc"/><g font-family="sans-serif" fill="#142b43">
+<text x="460" y="38" text-anchor="middle" font-size="25" font-weight="bold">Infusion maths: pehle units match karo</text>
+<rect x="30" y="65" width="270" height="260" rx="14" fill="#dceefa" stroke="#4179a0"/><rect x="325" y="65" width="270" height="260" rx="14" fill="#e3f3e9" stroke="#4b8562"/><rect x="620" y="65" width="270" height="260" rx="14" fill="#fff0d9" stroke="#af782d"/>
+<g font-size="19" font-weight="bold" text-anchor="middle"><text x="165" y="96">Gravity drip</text><text x="460" y="96">Volume pump</text><text x="755" y="96">Drug infusion</text></g>
+<g font-size="17" text-anchor="middle"><text x="165" y="132">Volume in mL</text><text x="165" y="158">× drop factor (gtt/mL)</text><text x="165" y="184">÷ time in minutes</text><text x="460" y="132">Volume in mL</text><text x="460" y="158">÷ time in hours</text><text x="755" y="132">Ordered mass per hour</text><text x="755" y="158">÷ mass per mL</text><text x="755" y="184">Match mg / mcg / units</text></g>
+<g stroke="#24435c" stroke-width="2" fill="none"><path d="M165 198 v30 l-7 -9 m7 9 l7 -9"/><path d="M460 198 v30 l-7 -9 m7 9 l7 -9"/><path d="M755 198 v30 l-7 -9 m7 9 l7 -9"/></g>
+<g font-size="20" font-weight="bold" text-anchor="middle"><text x="165" y="257">gtt/min</text><text x="460" y="257">mL/hr</text><text x="755" y="257">mL/hr</text></g>
+<g font-size="15" text-anchor="middle"><text x="165" y="286">Round to a whole drop</text><text x="460" y="286">Check device increments</text><text x="755" y="286">Verify concentration</text><text x="755" y="308">and prescribed dose</text></g>
+<rect x="30" y="346" width="860" height="105" rx="12" fill="#ffffff" stroke="#64748b"/>
+<text x="460" y="374" text-anchor="middle" font-size="19" font-weight="bold">Reverse check + patient safety</text>
+<text x="460" y="400" text-anchor="middle" font-size="16">Rate × actual running time = volume</text>
+<text x="460" y="424" text-anchor="middle" font-size="16">Volume rate × concentration = drug mass rate</text>
+<text x="460" y="445" text-anchor="middle" font-size="14">Do not independently increase a prescribed infusion rate to catch up.</text>
+</g></svg>
