@@ -102,4 +102,4 @@ Ectropion expansion, 27 November 2026: resumed c250a58ec22a9f80302cc2e681c3090cf
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-trichiasis-20261127-1400. Scope: Trichiasis Concepts, MCQs, Assets, Previous-Year-Questions, chapter README and local coverage map/register only. Claimed UTC: 2026-11-27T14:00:26Z. Expiry UTC: 2026-11-27T14:30:26Z. -->
