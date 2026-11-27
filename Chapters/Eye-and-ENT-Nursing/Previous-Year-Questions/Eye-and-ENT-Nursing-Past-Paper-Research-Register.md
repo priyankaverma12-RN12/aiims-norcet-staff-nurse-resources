@@ -20,3 +20,9 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [GS India anatomy MCQ video](https://www.youtube.com/watch?v=bSc66vwFzLk) title/description retrieved, exact item coverage and playback pending. Coaching practice is not historical proof.
 
 NORCET, PGIMER, SGPGI, ESIC, JIPMER, DSSSB, HPRCA, CHO and state exact-question extraction pending. No unsupported exam claims.
+
+## Eye assessment — 27 November 2026
+
+[Three reported adaptations](Eye-Assessment-Reported-Exam-Practice.md): ESIC Staff Nurse 19 March 2016 Shift I (Snellen), AIIMS Raipur Nursing Officer 31 August 2019 Shift I (tonometry, memory-based), UPSC ESIC Nursing Officer 7 July 2024 (Romberg versus eye tests). Third-party question pages retrieved. Official original papers, numbering and keys remain pending. JIPMER 2020 child visual acuity lead reserved for age-specific screening criteria review. No new exact official questions claimed.
+
+Video evidence: RRB vision assessment section 47:22 is a published chapter label, not an exact question timestamp. 13 original-question broad leads, 17 pending. One reported adaptation has a broad section lead, two pending. Teaching sources in concept notes. Full playback pending.
