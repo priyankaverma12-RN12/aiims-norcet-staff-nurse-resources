@@ -4,7 +4,7 @@
 
 ### Q1. A bedbound patient has intact skin with persistent nonblanchable redness over the sacrum. Which pressure injury stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 Safdarjung Staff Nurse 28 February 2019 — related reported concept](https://testbook.com/question-answer/which-of-the-following-is-the-earliest-sign-of-pre--6267d00cea6a3829d9b1662e)**
 
 - **A.** Stage 2
 - **B.** Stage 3
@@ -27,13 +27,15 @@ Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q2. Which finding is consistent with a stage 2 pressure injury?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Exposed muscle and bone
 - **B.** Full-thickness loss obscured by eschar
@@ -56,13 +58,15 @@ Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thicknes
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q3. A pressure injury has full-thickness skin loss with visible adipose tissue but no exposed fascia, muscle, tendon or bone. Which stage fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 4
 - **B.** Stage 3
@@ -85,13 +89,15 @@ Full-thickness skin loss mein epidermis aur dermis dono ki poori thickness damag
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q4. A pressure injury exposes tendon and bone at its base. Which stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 4
 - **B.** Stage 2
@@ -114,13 +120,15 @@ Tendon muscle ko bone se jodta hai. Pressure injury mein tendon ya bone expose h
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q5. A pressure injury base is entirely covered by slough and eschar, preventing confirmation of tissue depth. How should it be classified?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 ESIC Staff Nurse 26 February 2019 Shift III — related staging concept, historical management caveat](https://testbook.com/question-answer/to-properly-stage-a-pressure-ulcer--619cfdb9ecc1b27849a42955)**
 
 - **A.** Unstageable pressure injury
 - **B.** Stage 2 by default
@@ -143,13 +151,15 @@ Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usua
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q6. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 2 in every case
 - **B.** Normal blanchable erythema
@@ -172,13 +182,15 @@ Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab
 
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
 
-**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified. Dedicated MCQ video [pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c) indexed description, direct retrieval failed and channel unconfirmed.
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
 </details>
 
 ### Q7. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Massage persistent nonblanchable redness
 - **B.** Keep both heels pressed against the mattress
@@ -201,13 +213,13 @@ Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively k
 
 **Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
 
-**YouTube practice lead:** [Pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c). Indexed topic only, exact coverage, channel and playback unverified.
+**YouTube practice lead:** [Sachin Nursing Classes — Pressure Ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c). Creator and description retrieved, general prevention practice confirmed. Specific heel-offloading coverage, exact question and playback pending. Direct video open failed.
 
 </details>
 
 ### Q8. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Apply pressure staging to all dermatitis
 - **B.** Consider moisture-associated skin damage rather than automatically assigning a pressure stage
@@ -236,7 +248,7 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 ### Q9. Which scale assesses factors such as sensory perception, moisture, activity, mobility, nutrition and friction or shear?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept](https://testbook.com/question-answer/which-condition-is-assessed-using-braden-scale--62d6912f31e5ec63b5258842)**
 
 - **A.** Bishop score
 - **B.** Braden Scale
@@ -265,7 +277,7 @@ Braden Scale patient ke pressure injury risk ko structured way mein assess karti
 
 ### Q10. A patient at high pressure injury risk is on a pressure-redistributing mattress. Which plan remains appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSC Staff Nurse 2021 Series A post code 892 Q9 — related reported concept**
 
 - **A.** Continue individualized repositioning, skin inspection and other prevention measures
 - **B.** Stop all repositioning because the mattress eliminates risk
@@ -290,13 +302,13 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 **Related historical evidence:** [HPSSC Staff Nurse 2021 Series A post code 892 Q9](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/) directly retrieved third-party report includes a traditional two-hour repositioning option. This is related concept evidence only, not this stem. Current practice individualizes intervals. Official key not authenticated.
 
-**YouTube practice lead:** [Pressure ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c). Indexed topic only, exact coverage, channel and playback unverified.
+**▶️ [YouTube MCQ practice — pressure injury prevention and repositioning, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published description confirms dedicated bedsore prevention practice and lists repositioning. Topic-level only, mattress-specific question and playback unverified. Direct video open failed.
 
 </details>
 
 ### Q11. Which phase of wound healing involves formation of granulation tissue and new blood vessels?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Hemostasis alone
 - **B.** Initial inflammatory phase alone
@@ -325,7 +337,7 @@ Wound healing ke overlapping phases mein proliferative phase woh time hai jab fi
 
 ### Q12. A clean surgical incision develops separation of wound edges without visible internal organs. Which term is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS Jodhpur Nursing Officer 10 December 2019 — related reported concept](https://testbook.com/question-answer/on-physical-examination-the-nurse-notes-that-ther--625d56bf0488a30908a9c91e)**
 
 - **A.** Primary intention healing without complication
 - **B.** Maceration only
@@ -354,7 +366,7 @@ Dehiscence ka matlab surgically closed wound ke edges ka partial ya complete sep
 
 ### Q13. A postoperative abdominal wound opens and bowel becomes visible. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Cover the bowel with dry adhesive tape directly
 - **B.** Allow the patient to walk to the treatment room
@@ -383,7 +395,7 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 ### Q14. Which wound drainage is described as thin and clear to pale yellow?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Feculent
 - **B.** Serous
@@ -412,7 +424,7 @@ Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh s
 
 ### Q15. A wound develops increasing pain, spreading warmth and purulent drainage. What is the most appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPRCA Assistant Staff Nurse 20 March 2026 morning Q93 — related reported concept](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**
 
 - **A.** Assess and escalate for possible wound infection
 - **B.** Assume all drainage indicates normal healing
@@ -441,7 +453,7 @@ Wound pain ka increase, spreading warmth aur purulent drainage ek possible infec
 
 ### Q16. Which healing method describes a clean incision with edges brought together using sutures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Secondary intention
 - **B.** Tertiary intention without initial closure
@@ -470,7 +482,7 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 ### Q17. An open wound is allowed to fill with granulation tissue and contract without immediate edge approximation. Which healing type is this?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Primary intention
 - **B.** Immediate surgical closure
@@ -499,7 +511,7 @@ Secondary intention mein wound edges immediately close nahi ki jaati. Wound dept
 
 ### Q18. Why does excess wound exudate increase the risk of periwound maceration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Exudate eliminates every microorganism
 - **B.** Moisture prevents any tissue damage
@@ -528,7 +540,7 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 ### Q19. Which documentation best enables comparison of wound progression over time?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** A different unrecorded measurement technique at every change
 - **B.** Consistent measurements, tissue appearance, drainage, surrounding skin and pain findings
@@ -557,7 +569,7 @@ Wound progression ko compare karne ke liye same standardized measurement techniq
 
 ### Q20. A dry stable heel eschar has no redness, drainage or fluctuation in a patient with poor limb perfusion. What is the safest nursing approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Protect and assess perfusion and obtain wound specialist guidance rather than automatically debriding
 - **B.** Remove the eschar forcefully at bedside
@@ -588,3 +600,12 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
 
 Follow current facility protocols, authorized orders and professional scope.
+
+
+## 📜 Historical and practice evidence recheck — 27 November 2026
+
+- Q1: Safdarjung Staff Nurse 28 February 2019 memory-based report on early skin discoloration. Q9: AIIMS Raipur Nursing Officer 9 September 2017 memory-based report on Braden pressure injury risk assessment. Q12: AIIMS Jodhpur Nursing Officer 10 December 2019 memory-based report on incision separation. All three direct third-party question pages retrieved. They test related concepts, not authenticated exact stems or official answer keys. The Jodhpur explanation uses an unrelated ophthalmic definition of evisceration, which should not replace surgical wound terminology.
+- Q5: ESIC Staff Nurse 26 February 2019 Shift III direct reported question on eschar obscuring pressure injury depth. Its displayed key advocates eschar removal for staging. Do not interpret that as a universal clinical rule. Current [International Guideline fourth edition](https://www.internationalguideline.com/the-international-guideline) and [Wound Healing Society guideline update](https://pmc.ncbi.nlm.nih.gov/articles/PMC11403384/) support the distinction between obscured depth and appropriate clinical debridement decisions. Q20's stable dry ischemic heel protection remains unchanged. The prior HPSSC Q9 evidence for Q10 is retained with its individualized repositioning caveat.
+- Q15: HPRCA Assistant Staff Nurse 20 March 2026 morning third-party response-sheet transcript Q93, question ID 4410091676932, tests escalation of concerning wound discharge during pediatric dressing. Different patient scenario. Original key color and final official key not authenticated. No candidate data copied. No pressure sore, pressure ulcer or bed sore keyword match found in that transcript. HPRCA 21 March paper and September 2026 paper listings remain research leads, not authenticated item-level evidence.
+- SGPGI 28 February 2024 Shift I prevention and AIIMS Jodhpur 2019 evisceration source leads indexed but direct retrieval failed. No additional label or adaptation counted. Other all-India official keys remain pending.
+- Q1–6 and Q10 have qualified topic-level Sachin Nursing Classes practice mappings from the retrieved published description. Q7 retains a general prevention lead, not a specific heel-offloading match. Q8–9 and Q11–20 remain specific practice gaps, including Q9 Braden scale. [NCLEX Bootcamp — Wounds & Hygiene Nursing School Guide](https://www.youtube.com/watch?v=Wu2de43OUwI) has mixed teaching/quick-check segments, but exact tested concepts of each check are not verified. [Adda247 Nursing wound-healing phases short](https://www.youtube.com/watch?v=wM9kG88H4kI) is supplementary teaching, not dedicated question practice. No exact playback or transcript verified. 13 specific practice gaps remain.
