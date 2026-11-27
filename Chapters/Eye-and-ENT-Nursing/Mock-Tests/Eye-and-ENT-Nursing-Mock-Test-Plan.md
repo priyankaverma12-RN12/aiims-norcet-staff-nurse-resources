@@ -23,4 +23,4 @@
 
 27 November 2026: 30 new reserved draft items Q001–Q030, 14 Medium and 16 Difficult, 120 individual option rationales. Draft commit bb5f707e1bb9b760a6a05d95f5964245617b5d57, exact remote readback verified. No copying from topic banks. Exact comparison against four original starter questions passed, broader exact and semantic audit remains pending after connector call limit. Sources and video gaps in draft. No completed mocks or counted completed slots. Next: author Q031–Q120 with balanced Eye/ENT coverage, inspect remaining bank/PYQ stems in bounded batches, validate all four options and clinical references, finish video evidence mapping, and assemble one distinct 120-question mock. Do not allocate these 30 reserved items to any other package. Shared chapter README and other jobs unchanged.
 
-<!-- Mock-only scope claim: FREE. Verified staged draft checkpoint above. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-original-20261127-1424. Scope: Mock-Tests plan, Mock 01 draft Q031 onward and duplicate audit only. Claimed UTC: 2026-11-27T14:24:10Z. Expiry UTC: 2026-11-27T14:54:10Z. -->
