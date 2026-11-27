@@ -14,3 +14,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 ## Question-level evidence added
 [1 source-linked reported questions with English options and Hinglish answers](Obstetric-and-Midwifery-Nursing-Source-Linked-Reported-PYQs.md). Official paper/key matching remains pending.
+
+- [ANC — two source-linked UP NHM Staff Nurse 2021 Shift II adaptations](01-Antenatal-Care-Reported-PYQs.md). Official paper and key remain unverified. Two older OBG adaptations remain separately preserved.
