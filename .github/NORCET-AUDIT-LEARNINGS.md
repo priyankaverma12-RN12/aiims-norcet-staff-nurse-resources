@@ -60,3 +60,29 @@ File: Chapters/Respiratory-System/MCQs/Respiratory-Advanced-Topic-Wise-32.md. Pr
 Clinical source search results consulted: GINA clinical strategy https://pmc.ncbi.nlm.nih.gov/articles/8865583/ and 2026 summary https://ginasthma.org/2026-gina-summary-guide/; FDA https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters; nursing assessment https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/; ERS/ATS lung function https://publications.ersnet.org/content/erj/60/1/2101499; MedlinePlus bronchoscopy https://www.medlineplus.gov/ency/patientinstructions/000988.htm; Merck thoracentesis https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis; OpenStax inhalers https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications; ALA COPD nutrition https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/living-with-copd/nutrition; COPD standard https://www.safetyandquality.gov.au/standards/clinical-care-standards/chronic-obstructive-pulmonary-disease-clinical-care-standard; ERS/ATS NIV https://publications.ersnet.org/lookup/pmid/28860265; 2026 ATS NIV https://academic.oup.com/ajrccm/article/212/9/2135/8721554. Question-level historical exam matches and exact INC depth evidence remain pending. Video metadata: https://www.youtube.com/watch?v=tOxTKjgTcTo and https://www.youtube.com/watch?v=_ETf-t1W-sQ for asthma/COPD practice, https://www.youtube.com/watch?v=l0G7iXaIfOg for teaching breath sounds. No transcripts or exact timestamps verified. Dedicated Q8–12 MCQ video mapping pending.
 
 Prevention: distinguish monitor data from patient stability, never imply delaying emergency care while waiting for a test, calibrate easy recall vs difficult reasoning, add current nursing safety details without implying independent prescribing. Retain exam authenticity distinctions. Next Q19–32, then remaining banks, mocks, concepts and PYQs. Bank-wide semantic duplicate and full exam-specific syllabus audit pending.
+
+
+## 2026-11-27 — granular Q19–32 review
+
+File: Chapters/Respiratory-System/MCQs/Respiratory-Advanced-Topic-Wise-32.md. Before blob 1300c5711b54d606de0eb1d60e65727c5b5e1e24, after b1417a65d7faba01753d1088baf88c170608ad46, commit 53e7b33050e229977b074055aae046083949c0aa. Four English options, original stems and keys retained. All 14 correct and incorrect option rationales expanded in Roman Hinglish, priorities added, difficulty recalibrated. Q20,22,31 regraded. No new original count.
+
+| Q | Key | Difficulty | Clinical finding |
+|---|---|---|---|
+|19|C|Medium|TB airborne precautions and source mask, separate patient and fitted staff respirator.|
+|20|B|Easy|Rifampicin discoloration expected, distinguish serious adverse signs.|
+|21|B|Medium|Ethambutol vision change requires urgent review and suspected toxicity protocol.|
+|22|A|Medium|Light protein ratio 0.6 exceeds 0.5, diagnostic enrichment, not proven historical exam depth.|
+|23|D|Medium|Confusion/hypotension with pneumonia warrants sepsis escalation regardless of normal temperature.|
+|24|C|Medium|Significant hemoptysis and dizziness require emergency airway/circulation assessment.|
+|25|C|Medium|Simple mask 2 L/min inadequate, common 5–10 L/min range and device instructions.|
+|26|B|Medium|Check reservoir inflation, oxygen flow, connections and patient.|
+|27|A|Difficult|High peak unchanged plateau supports resistance with comparable conditions, enrichment.|
+|28|D|Difficult|Both pressures rise with reduced compliance under comparable settings, enrichment.|
+|29|D|Medium|Indicated suction, preoxygenation in adults/children, max 15 seconds, catheter occlusion below half lumen in adults/children.|
+|30|C|Medium|Sudden capnography loss: immediate patient, airway, circuit assessment.|
+|31|B|Medium|Higher intrathoracic pressure may reduce venous return and BP.|
+|32|A|Medium|Appropriate humidification for bypassed upper airway.|
+
+Clinical source search evidence: CDC TB infection control and drug adverse events https://www.cdc.gov/tb-healthcare-settings/hcp/infection-control/ and https://www.cdc.gov/tb/hcp/treatment/adverse-events.html, Merck pleural effusion https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion, CDC sepsis https://www.cdc.gov/sepsis/about/, Indian hemoptysis consensus https://pmc.ncbi.nlm.nih.gov/articles/PMC10289864/, BTS oxygen https://pmc.ncbi.nlm.nih.gov/articles/5531304/, nursing oxygen therapy https://www.ncbi.nlm.nih.gov/books/NBK596733/, ICU respiratory monitoring https://pmc.ncbi.nlm.nih.gov/articles/PMC3681336/, AARC suction https://pubmed.ncbi.nlm.nih.gov/35078900/ and ventilator assessment https://pmc.ncbi.nlm.nih.gov/articles/PMC11298231/, capnography https://www.ncbi.nlm.nih.gov/books/NBK482169/. Video search metadata supports topic-level practice: https://www.youtube.com/watch?v=_dOjXZ6vCck and https://www.youtube.com/watch?v=_ETf-t1W-sQ. No exact historical matches, transcripts or timestamps independently confirmed. Dedicated pleural criteria, hemoptysis, suction and pressure interpretation question-solving videos pending. Exact syllabus depth and semantic duplication across banks remain pending.
+
+Prevention: distinguish expected effects from toxicities, urgent assessment from routine care, physiologic assumptions from definitive diagnosis. Advanced diagnostic/critical care details should be enrichment unless exam evidence establishes required depth. Never equate clinical correctness to verified historical exam appearance. Initial checkpoint write conflict 409 resolved by rereading all claims and retrying without force. All 32 questions now have expanded rationales and priority labels, but full exam provenance and curriculum certification incomplete. Next: Respiratory-Clinical-Mock-20.md Q1 onward, then other respiratory banks and full mocks, concepts and PYQs. Audit every item, keep existing solved status.
