@@ -606,9 +606,22 @@ Vein ke along redness, warmth aur tenderness inflammation suggest karte hain. Nu
 
 **Correct: A. Reposition the bag below bladder level and assess drainage**
 
-Urine gravity se drainage bag tak flow karti hai. Bag bladder ke upar ho toh backflow ka risk ho sakta hai. Nurse bag neeche aur floor se off rakhti hai.
+Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata hai. Jab bag bladder se upar hota hai, drainage ruk sakti hai aur contaminated urine ke wapas jaane ka risk badh sakta hai. Bag ko bladder ke neeche, floor se upar, aur tubing ko kink-free rakho.
 
-**Baaki options kyun sahi nahi hain?** Elevation backflow favor kar sakti hai. Disconnection closed system break karti hai. Floor contamination risk hai.
+**Har option ka reason**
+
+- **A (Sahi):** Bag neeche rakhne se gravity drainage restore ho sakti hai. Nurse urine flow aur patient ke symptoms bhi check karti hai.
+- **B (Galat):** Connection kholna unnecessary hai aur germs ko andar aane ka rasta de sakta hai.
+- **C (Galat):** Floor se bag contaminate ho sakta hai. Use suitable support par rakhna chahiye.
+- **D (Galat):** Bag upar karne se gravity drainage behtar nahi hoti aur reverse flow ka risk ho sakta hai.
+
+**Exam clue:** Bag below bladder, off floor, no kinks.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -1715,9 +1728,22 @@ Transfer ke waqt current respiratory plan clearly communicate karna important ha
 
 **Correct: B. Acute urinary retention when catheterization is clinically indicated**
 
-Urinary retention mein bladder empty nahi ho paata aur catheter indicated ho sakti hai. Nurse indication, alternatives aur order assess karti hai.
+Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient usse theek se bahar nahi nikaal pa raha. Jab acute retention clinically confirm ho aur catheter ki zarurat ho, drainage se bladder ka pressure aur discomfort kam hota hai. Nurse indication aur alternatives assess karti hai aur authorized protocol follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Convenience, independent toileting aur nocturia alone routine indwelling catheter indications nahi hain.
+**Har option ka reason**
+
+- **A (Galat):** Raat ko baar-baar urine aana nocturia hai. Is symptom ki wajah assess karni chahiye, routine catheter lagana zaroori nahi hai.
+- **B (Sahi):** Acute retention mein indicated catheter bladder ko drain kar sakti hai. Iski zarurat roz review karni chahiye.
+- **C (Galat):** Independent patient ko toilet access dena behtar hai. Catheter toileting assistance ka routine substitute nahi hai.
+- **D (Galat):** Chal sakne wale patient ki convenience catheter-related infection aur trauma ka extra risk justify nahi karti.
+
+**Exam clue:** Retention aur incontinence alag problems hain. Catheter sirf appropriate indication ke liye lagti hai.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -2084,9 +2110,22 @@ Fiber stool bulk support karti hai aur adequate fluid-mobility bowel movement he
 
 **Correct: A. Assess the patient and check for kinks, obstruction and bladder distension**
 
-Urine absent ho toh kink, obstruction, retention ya low production possible hai. Nurse patient, tubing aur bladder assess karke timely review arrange karti hai.
+Suprapubic discomfort ka matlab lower abdomen mein bladder ke upar dard ya pressure hai. Urine bag khaali ho aur discomfort ho toh pehle patient ki condition, tubing ki position aur bladder distension check karo. Kink hatane par bhi flow na aaye toh timely escalation aur protocol ke hisaab se bladder assessment chahiye.
 
-**Baaki options kyun sahi nahi hain?** Blind irrigation injury cause kar sakti hai. Extra fluid har cause treat nahi karta. No drainage renal failure prove nahi karti.
+**Har option ka reason**
+
+- **A (Sahi):** Patient aur drainage pathway dono check karne se blockage aur low production ke beech farq samajhne mein madad milti hai.
+- **B (Galat):** Bina fluid status jaane fluids badhane se retention solve nahi hoti aur overload ho sakta hai.
+- **C (Galat):** Do ghante ki absent drainage se permanent renal failure prove nahi hota. Mechanical blockage bhi ho sakta hai.
+- **D (Galat):** Forceful irrigation mucosa ko damage kar sakti hai. Irrigation sirf specific indication aur authorized protocol ke mutabik honi chahiye.
+
+**Exam clue:** No drainage plus bladder discomfort suggests possible obstruction. Assess first, escalate promptly.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -2911,9 +2950,26 @@ Upright position mein food ko safely swallow karne mein help mil sakti hai. Dysp
 
 **Correct: C. Opening connections can introduce microorganisms into the urinary tract**
 
-Closed drainage bacteria entry ke opportunities reduce karti hai. Bag designated outlet se aseptically empty ki ja sakti hai.
+Closed system ka matlab hai ki catheter aur collecting tubing ka connection unnecessary khola nahi jaata. Microorganisms connection se enter karke urinary tract tak pahunch sakte hain. Bag ka approved outlet emptying ke liye use hota hai aur usko clean rakha jaata hai.
 
-**Baaki options kyun sahi nahi hain?** Closed system urine flow allow karti hai. Emptying needed hoti hai. Arterial pressure different device se measure hoti hai.
+**Har option ka reason**
+
+- **A (Galat):** Bag bharne se pehle usse designated outlet se safely empty karna zaroori hai.
+- **B (Galat):** Closed system mein urine freely drain ho sakta hai. Closed ka matlab blocked nahi hota.
+- **C (Sahi):** Unnecessary disconnection se contamination ka rasta banta hai. Isliye aseptic closed drainage maintain karte hain.
+- **D (Galat):** Arterial pressure blood pressure hai aur uske liye alag monitoring equipment use hota hai.
+
+**Exam clue:** Drainage outlet use karo, catheter-tubing junction ko routine mein mat kholo.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**Related exam evidence:** [RRB Nursing Superintendent, 12 March 2026 Shift 2 — third-party reported concept](https://testbook.com/question-answer/in-a-situation-where-an-indwelling-urinary-cathete--69df45cc13e74fe439d55a62). Reported key option 3, not an authenticated exact match.
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+**HPRCA evidence lead:** [Assistant Staff Nurse post code 26004, 21 March 2026 Shift 1](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/26004-shift-1-21-mar-2026) search extract includes indwelling catheter infection prevention. Direct item and answer key retrieval failed. Not an authenticated match.
 
 </details>
 
