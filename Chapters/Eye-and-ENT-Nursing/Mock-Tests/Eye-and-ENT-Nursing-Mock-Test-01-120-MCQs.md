@@ -1,6 +1,6 @@
 # Eye and ENT Nursing — Mock Test 01 (120 original MCQs)
 
-**Complete-length practice edition — provisional validation.** All 120 questions are newly authored for this mock only, not selected from topic banks. This edition is assembled for practice; exhaustive semantic and independent question-level clinical review remain incomplete. It is not an official NORCET or historical paper. No completed certified mock counted yet.
+**Complete-length practice edition — clinical content rereview completed; broader validation provisional.** All 120 questions are newly authored for this mock only, not selected from topic banks. This edition is assembled for practice; exhaustive semantic and independent question-level clinical review remain incomplete. It is not an official NORCET or historical paper. No completed certified mock counted yet.
 
 **Format:** 120 questions, 60 Eye and 60 ENT. 135 minutes suggested; six blocks of 20 questions, +1 correct, −1/3 incorrect, 0 unattempted. Attempt before expanding each answer. Clinical recommendations are for study and subject to local protocols and authorized clinician decisions.
 
@@ -1781,6 +1781,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
 
+**Clinical audit note (27 Nov 2026):** 2022 AAO-HNS KAS1 single OME episode under 3 months mein routine tubes ke against hai. Duration onset se count karo when known; hearing/development concern emerge ho toh timely reevaluation.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -1807,6 +1809,8 @@
 - **D. Kyun sahi hai:** Patching ka purpose stronger eye ka input temporarily restrict karna hai. Agar child patch ke side se dekh raha hai toh prescribed therapy ka effective exposure kam ho jaata hai. Fit ko verify karke team ki recommended patching method follow karo.
 
 **Clinical reference:** [Clinical guidance](https://engage.aapos.org/glossary/patching-tips-for-parents).
+
+**Clinical audit note (27 Nov 2026):** Adhesive patch directly over periocular skin often prevents peeking more effectively than frame-mounted cloth patch. Correct eye, prescribed hours aur spectacles plan verify karo; alternative design team se discuss karo.
 
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -1835,6 +1839,8 @@
 
 **Clinical reference:** [Clinical guidance](https://engage.aapos.org/glossary/patching-tips-for-parents).
 
+**Clinical audit note (27 Nov 2026):** Skin irritation mein adhesive brand/design change ya specialist-recommended alternative useful ho sakta hai. Skin breakdown/infection ho toh clinician review; patch coverage compromise mat karo.
+
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -1861,6 +1867,10 @@
 - **D. Kyun galat hai:** Otoscopy fluid assess karti hai, lekin functional deficit quantify karne ke liye audiology chahiye.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
+
+**Clinical audit note (27 Nov 2026):** OME 3 months or longer or before planned tubes mein age-appropriate hearing evaluation indicated hai. ICMR pediatric hearing workflow also persistent fluid and language delay ko assessment priority maanta hai.
+
+**Indian clinical reference:** [ICMR pediatric hearing impairment workflow, October 2019](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952350_ent_hearing_impairment.pdf) (page 1 visually checked; pediatric context only).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -1889,6 +1899,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
 
+**Clinical audit note (27 Nov 2026):** Recurrent AOM with neither ear showing effusion at candidacy assessment mein 2022 KAS6 recommends no routine tubes. Current examination and later recurrence follow-up important.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -1915,6 +1927,8 @@
 - **D. Kyun galat hai:** 125 percent ke liye 150 effective minutes chahiye hote. Actual duration prescribed duration se kam hai.
 
 **Clinical reference:** [Clinical guidance](https://engage.aapos.org/glossary/patching-tips-for-parents).
+
+**Clinical audit note (27 Nov 2026):** Effective adherence = 90 ÷ 120 × 100 = 75%. Reverse check 0.75 × 120 = 90 min. Ye prescribed effective occlusion ka percentage hai, expected visual improvement ka percentage nahi.
 
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -1943,6 +1957,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aapos.org/glossary/amblyopia).
 
+**Clinical audit note (27 Nov 2026):** Atropine muscarinic blockade se cycloplegia aur pupillary dilation cause karti hai. Prescribed fellow-eye penalization selected amblyopia cases mein effective ho sakti hai. Dose, treated eye aur adverse effects monitor karo.
+
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -1969,6 +1985,10 @@
 - **D. Kyun sahi hai:** Speech-language problem already present hai. Temporary conductive hearing loss bhi learning par disproportionate effect kar sakta hai, isliye at-risk status specialist ko communicate karo.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
+
+**Clinical audit note (27 Nov 2026):** At-risk child with baseline speech/language disorder mein OME of any duration se learning risk consider karo. 2019 ICMR pediatric hearing workflow developmental/language concerns ko early hearing evaluation se link karta hai.
+
+**Indian clinical reference:** [ICMR pediatric hearing impairment workflow, October 2019](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952350_ent_hearing_impairment.pdf) (page 1 visually checked; pediatric context only).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -1997,6 +2017,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
 
+**Clinical audit note (27 Nov 2026):** KAS5 reassessment 3–6 months until resolution, significant hearing loss, or suspected structural abnormality. New developmental or hearing concern ho toh routine interval ka wait necessary nahi.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2023,6 +2045,8 @@
 - **D. Kyun galat hai:** Delay improvement opportunity reduce kar sakta hai. Timely assessment preferred hai.
 
 **Clinical reference:** [Clinical guidance](https://aapos.org/glossary/amblyopia).
+
+**Clinical audit note (27 Nov 2026):** AAO amblyopia PPP indicates that selected older children and teens, especially untreated cases, may respond. Specialist assessment and individualized prognosis important; fixed age cutoff use mat karo.
 
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2051,6 +2075,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aapos.org/glossary/amblyopia).
 
+**Clinical audit note (27 Nov 2026):** Alignment surgery ocular position improve karti hai; monocular visual acuity separately assess karo. Spectacles, occlusion or penalization plan specialist review ke according maintain karo.
+
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -2077,6 +2103,8 @@
 - **D. Kyun sahi hai:** Uncomplicated tubes ke liye routine water restrictions recommended nahi hain. Specific exposure, discomfort, recurrent drainage ya clinician instruction ho toh individualized advice follow karo.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
+
+**Clinical audit note (27 Nov 2026):** KAS15 routine prophylactic water restrictions ke against hai. Active drainage, discomfort, contaminated-water exposure or individualized surgeon advice can change counselling.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2105,6 +2133,8 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
 
+**Clinical audit note (27 Nov 2026):** KAS14 uncomplicated acute tube otorrhea mein topical antibiotic monotherapy supports; high fever, spreading cellulitis or another systemic antibiotic indication alters management.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2131,6 +2161,8 @@
 - **D. Kyun sahi hai:** Stronger eye ki acuity decline over-penalization, refractive change ya testing issue se ho sakti hai. Repeat reliable measurement aur clinician review se cause clarify karna important hai. Nurse independently regimen intensify nahi karegi.
 
 **Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701408/).
+
+**Clinical audit note (27 Nov 2026):** Fellow-eye acuity decline ≥2 lines mein repeat reliable testing, refractive reassessment and prompt clinician review for reverse amblyopia. Specialist may pause or adjust therapy; independent dose escalation avoid.
 
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2159,6 +2191,8 @@
 
 **Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10701408/).
 
+**Clinical audit note (27 Nov 2026):** PPP treatment withdrawal ke baad recurrence possibility highlight karta hai, especially first year. Planned monocular acuity follow-up and specialist-directed retreatment if needed.
+
 **YouTube MCQ practice:** [Amblyopia therapy — 3:04:15, Dr. Sudha, FMGE/NEET PG test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=11055s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -2185,6 +2219,8 @@
 - **D. Kyun galat hai:** Old prescription aur formulation current condition ke liye suitable hona guaranteed nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
+
+**Clinical audit note (27 Nov 2026):** KAS13 no routine postoperative antibiotic ear drops for every tube insertion. A separate specific indication or clinician order may warrant treatment; follow postoperative ear checks.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2213,6 +2249,10 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
 
+**Clinical audit note (27 Nov 2026):** 2025 KAS1A typical symptoms without improvement for ≥10 days or renewed deterioration within 10 days after initial improvement support presumed ABRS. Colour alone not diagnostic.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2239,6 +2279,8 @@
 - **D. Kyun galat hai:** Culture infection diagnosis ke liye hai, visual field deficit measure nahi karta.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa).
+
+**Clinical audit note (27 Nov 2026):** Formal visual fields document peripheral loss despite retained central acuity. Mobility/fall risk and individual rehabilitation assessment also important; field result alone RP diagnosis nahi.
 
 **YouTube MCQ practice:** [Retinitis pigmentosa — 1:07:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=4020s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2267,6 +2309,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa).
 
+**Clinical audit note (27 Nov 2026):** Full-field ERG measures summed retinal electrical response under standardized light stimuli. It complements history, retinal exam, field testing and genetic evaluation, not a cure.
+
 **YouTube MCQ practice:** [Retinitis pigmentosa — 1:07:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=4020s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -2293,6 +2337,10 @@
 - **D. Kyun galat hai:** Suspected orbital ya intracranial spread imaging aur urgent specialist management ki indication ho sakti hai.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
+
+**Clinical audit note (27 Nov 2026):** 2025 KAS1B uncomplicated acute rhinosinusitis mein routine imaging avoid; complication or alternative diagnosis suspected ho toh imaging can be necessary.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2321,7 +2369,9 @@
 
 - **D. Kyun galat hai:** Stored used liquid contamination ka source ho sakta hai.
 
-**Clinical reference:** [Clinical guidance](https://www.cdc.gov/drinking-water/prevention/preventing-waterborne-germs-at-home.html).
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/naegleria/prevention/sinus-rinsing.html).
+
+**Clinical audit note (27 Nov 2026):** CDC nasal rinsing ke liye distilled, sterile, or appropriately boiled-and-cooled water recommends. Clean equipment as instructed; drinking-water quality alone is insufficient.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2350,6 +2400,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/usher-syndrome).
 
+**Clinical audit note (27 Nov 2026):** Usher syndrome inherited hearing and retinal disease association hai; balance impairment can occur depending on subtype. Genetics, audiology and retinal team coordination appropriate.
+
 **YouTube MCQ practice:** [Retinitis pigmentosa and Usher syndrome, 43:50, Dr. Sudha FMGE June 2026 test discussion](https://www.youtube.com/watch?v=tUH9RB7BDi0&t=2630s). Published chapter marker specifically names both concepts; item wording and actual playback not independently verified.
 
 </details>
@@ -2376,6 +2428,8 @@
 - **D. Kyun galat hai:** Current visual function genotype ya transmission risk directly determine nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa).
+
+**Clinical audit note (27 Nov 2026):** RP genetically heterogeneous hai; autosomal dominant, recessive and X-linked patterns can occur. Family-specific risk needs confirmed variant/pedigree rather than universal percentage.
 
 **YouTube MCQ practice:** [Retinitis pigmentosa — 1:07:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=4020s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2404,7 +2458,9 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
 
-**2025 guideline follow-up:** Worsening at any time ya diagnosis ke 3–5 din baad improvement na hone par clinician reassessment arrange karo. Watchful waiting ka matlab indefinite waiting nahi hai.
+**Clinical audit note (27 Nov 2026):** 2025 KAS4 watchful waiting with assured follow-up supports uncomplicated adult ABRS. Typical observation may be 3–5 days after diagnosis but depends on symptom timing and clinical features; worsening prompts earlier review. KAS6 separately addresses antibiotic nonresponse after 3–5 days.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2433,6 +2489,10 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
 
+**Clinical audit note (27 Nov 2026):** 2025 KAS7B objective evidence by rhinoscopy, nasal endoscopy or CT supports clinical CRS diagnosis. Symptoms typically ≥12 weeks; alternative causes of reduced smell/obstruction also evaluate.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2459,6 +2519,8 @@
 - **D. Kyun galat hai:** Delayed dark adaptation ke dauran rapid movement obstacles miss karne ka risk badhata hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa).
+
+**Clinical audit note (27 Nov 2026):** RP night vision and dark adaptation problems increase mobility risk in sudden lighting transitions. Contrast and consistent lighting, rails and individualized orientation/mobility assessment help.
 
 **YouTube MCQ practice:** [Retinitis pigmentosa — 1:07:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=4020s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2487,6 +2549,8 @@
 
 **Clinical reference:** [Clinical guidance](https://webeye.ophth.uiowa.edu/eyeforum/tutorials/sighted-guide-technique.htm).
 
+**Clinical audit note (27 Nov 2026):** Ask patient preferred assistance; offer guide arm above elbow, walk slightly ahead, describe steps/doorways. Never assume every person wants physical guidance; retain their mobility aids as appropriate.
+
 **YouTube MCQ practice:** Exact question verification pending.
 
 </details>
@@ -2513,6 +2577,10 @@
 - **D. Kyun galat hai:** 2025 guidance imaging ya surgery ke liye antibiotics ko mandatory prerequisite nahi maanta.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
+
+**Clinical audit note (27 Nov 2026):** KAS14 routine antibiotics not recommended in stable CRS without acute exacerbation or as obligatory prerequisite to sinus imaging/surgery. Individual infectious complication assessed separately.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2541,6 +2609,10 @@
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
 
+**Clinical audit note (27 Nov 2026):** AERD combines respiratory reactions to aspirin/other COX-1 NSAIDs with asthma and nasal polyposis. Document exact medication and symptoms; avoid unsupervised rechallenge. Acute severe breathing difficulty needs emergency care.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2567,6 +2639,8 @@
 - **D. Kyun sahi hai:** Lacrimal aur salivary glands dono affected ho sakti hain in systemic autoimmune disease. Ocular dryness ke saath oral dryness ko report karne se broader evaluation possible hoti hai. Ye symptoms alone diagnosis confirm nahi karte.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye?ada=1).
+
+**Clinical audit note (27 Nov 2026):** Dry eye plus persistent xerostomia may suggest Sjögren syndrome or other causes including medications. Clinician assessment needed; no diagnosis solely from two symptoms.
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -2595,6 +2669,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye/testing-dry-eye).
 
+**Clinical audit note (27 Nov 2026):** Schirmer strip wetting in millimetres over specified test interval estimates tear secretion; anesthesia and technique influence interpretation. Tear break-up time assesses stability rather than quantity.
+
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
 </details>
@@ -2621,6 +2697,10 @@
 - **D. Kyun galat hai:** Single dose se chronic inflammatory treatment ka full benefit assess nahi hota.
 
 **Clinical reference:** [Clinical guidance](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1002/ohn.1344).
+
+**Clinical audit note (27 Nov 2026):** Regular prescribed intranasal corticosteroid use may take days or longer to show benefit. Technique per product/team, aim away from septum if appropriate, review persistent symptoms and epistaxis.
+
+**Guideline summary:** [AAO-HNS 2025 adult sinusitis key action statements](https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf) (both pages inspected).
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2649,6 +2729,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
 
+**Clinical audit note (27 Nov 2026):** AAO-HNS dysphonia guideline recommends laryngeal exam if no resolution/improvement by 4 weeks, sooner if serious cause suspected. Professional voice users may warrant expedited assessment.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2675,6 +2757,8 @@
 - **D. Kyun galat hai:** Medication changes individual risk-benefit review ke baad hi honi chahiye.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye?ada=1).
+
+**Clinical audit note (27 Nov 2026):** Direct airflow and low humidity increase tear evaporation. Redirect vents, use suitable humidity and prescribed lubrication; persistent symptoms or pain/vision change need review.
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -2703,6 +2787,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye?ada=1).
 
+**Clinical audit note (27 Nov 2026):** Punctal occlusion slows tear drainage rather than directly increasing production. Selection and possible complications such as irritation or extrusion assessed by eye clinician.
+
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
 </details>
@@ -2729,6 +2815,8 @@
 - **D. Kyun galat hai:** Steroids cause identify nahi karte aur symptoms mask kar sakte hain.
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
+
+**Clinical audit note (27 Nov 2026):** Neck mass and tobacco exposure are expedited laryngeal evaluation modifiers. Respiratory distress or stridor warrants emergency airway assessment rather than scheduled review.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2757,6 +2845,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
 
+**Clinical audit note (27 Nov 2026):** AAO-HNS recommends against treating isolated dysphonia with antireflux drugs solely on symptoms attributed to reflux without laryngeal visualization. Other reflux indications managed separately.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2783,6 +2873,8 @@
 - **D. Kyun galat hai:** Dry eye usually bacterial infection ka synonym nahi hai. Cyclosporine antibiotic nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye?ada=1).
+
+**Clinical audit note (27 Nov 2026):** Topical cyclosporine targets inflammatory dry-eye component; benefit may be gradual and burning can occur. Prescribed plan and follow-up needed; not immediate numbing or antibiotic.
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -2811,6 +2903,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.cuh.nhs.uk/patient-information/corneal-transplantation/).
 
+**Clinical audit note (27 Nov 2026):** DALK preserves host endothelium/Descemet membrane when suitable, replacing diseased anterior corneal layers. Endothelial rejection is avoided but stromal/epithelial rejection and other complications can still occur.
+
 **YouTube MCQ practice:** [Keratoplasty — 53:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=3180s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -2837,6 +2931,8 @@
 - **D. Kyun sahi hai:** Laryngoscopy vocal folds directly evaluate karti hai. Findings se pata chalta hai ki imaging required hai aur kis region ki imaging useful hogi.
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
+
+**Clinical audit note (27 Nov 2026):** For primary isolated voice complaint, visualize larynx before routine CT/MRI. Separate emergency or other imaging indication can override ordinary sequence.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2867,6 +2963,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
 
+**Clinical audit note (27 Nov 2026):** AAO-HNS advises diagnostic laryngoscopy before voice therapy with findings communicated to speech-language pathologist. Clinical indication and patient-specific functional goals guide therapy.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -2893,6 +2991,8 @@
 - **D. Kyun galat hai:** Tear drainage occlusion endothelial pump failure treat nahi karti.
 
 **Clinical reference:** [Clinical guidance](https://www.cuh.nhs.uk/patient-information/corneal-transplantation/).
+
+**Clinical audit note (27 Nov 2026):** Endothelial keratoplasty replaces diseased endothelium with Descemet membrane and variable posterior stromal tissue depending on DMEK/DSAEK. Corneal pump function restoration can improve edema.
 
 **YouTube MCQ practice:** [Keratoplasty — 53:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=3180s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -2921,6 +3021,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.cuh.nhs.uk/patient-information/corneal-transplantation/).
 
+**Clinical audit note (27 Nov 2026):** Air/gas bubble supports graft attachment; positioning duration individualized by surgeon. Pain, new vision decline or severe headache may signal pressure or graft complication and need urgent assessment.
+
 **YouTube MCQ practice:** [Keratoplasty — 53:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=3180s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -2947,6 +3049,8 @@
 - **D. Kyun galat hai:** Dental visit count post-intubation laryngeal dysfunction ka relevant determinant nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
+
+**Clinical audit note (27 Nov 2026):** Recent intubation is a guideline modifier for expedited laryngeal evaluation. Assess respiratory status first; new stridor, distress or hypoxia require emergency airway response.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -2975,6 +3079,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-hoarseness-press-release-fact-sheet/).
 
+**Clinical audit note (27 Nov 2026):** Track symptom severity and function meaningful to patient before and after therapy. Voice-related quality of life tools may supplement clinical review.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -3001,6 +3107,8 @@
 - **D. Kyun galat hai:** Antibiotic bacterial infection target karti hai, prescribed anti-inflammatory prophylaxis ka substitute nahi.
 
 **Clinical reference:** [Clinical guidance](https://www.cuh.nhs.uk/patient-information/corneal-transplantation/).
+
+**Clinical audit note (27 Nov 2026):** Long-term prescribed steroids reduce graft rejection risk; regimen differs by graft and patient. IOP, infection and other adverse effects monitored; dose changes corneal team-directed.
 
 **YouTube MCQ practice:** [Keratoplasty — 53:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=3180s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
@@ -3029,6 +3137,8 @@
 
 **Clinical reference:** [Clinical guidance](https://www.cuh.nhs.uk/patient-information/corneal-transplantation/).
 
+**Clinical audit note (27 Nov 2026):** After penetrating keratoplasty, refractive recovery can be prolonged. New redness, pain, photophobia or vision drop requires urgent graft-team review rather than assumed normal healing.
+
 **YouTube MCQ practice:** [Keratoplasty — 53:00, same specialist test discussion](https://www.youtube.com/watch?v=Npz4E-9yL50&t=3180s). Indexed published chapter marker, supplemental broad topic lead only. Specific question and playback verification pending.
 
 </details>
@@ -3055,6 +3165,8 @@
 - **D. Kyun galat hai:** Permanent stoma actual respiratory airway hai.
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/healthcare-staff/emergency-care/ventilation-via-the-stoma).
+
+**Clinical audit note (27 Nov 2026):** Confirmed total laryngectomy means stoma is sole respiratory route. Call airway help, oxygenate/ventilate through stoma per emergency algorithm; oral intubation cannot reach disconnected trachea.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -3083,6 +3195,8 @@
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/healthcare-staff/emergency-care/emergency-tracheostomy-laryngectomy).
 
+**Clinical audit note (27 Nov 2026):** If type of neck stoma unknown, oxygen at face and stoma while identifying anatomy and obtaining help. Once total laryngectomy confirmed, focus oxygenation via stoma; never occlude unassessed airway.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -3109,6 +3223,10 @@
 - **D. Kyun sahi hai:** Retinoblastoma ek genetic pathway se develop ho sakta hai. Unilateral involvement hereditary risk ko automatically exclude nahi karti. Genetic counselling aur testing individualized family surveillance plan support karte hain.
 
 **Clinical reference:** [Clinical guidance](https://aapos.org/public/resources/genetic-info-patients/identifying-genetic-eye-disease-in-children).
+
+**Clinical audit note (27 Nov 2026):** NCI PDQ notes unilateral retinoblastoma can involve germline RB1 variants. Genetic counselling/testing and individualized unaffected-eye surveillance important regardless of apparent unilateral presentation.
+
+**Additional reference:** [NCI retinoblastoma treatment PDQ](https://www.cancer.gov/types/retinoblastoma/hp/retinoblastoma-treatment-pdq).
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -3137,6 +3255,10 @@
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/retinoblastoma).
 
+**Clinical audit note (27 Nov 2026):** Retinoblastoma management prioritizes survival, then safe eye and vision preservation. Stage, laterality, location, extent and treatment resources guide multidisciplinary oncology planning.
+
+**Additional reference:** [NCI retinoblastoma treatment PDQ](https://www.cancer.gov/types/retinoblastoma/hp/retinoblastoma-treatment-pdq).
+
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
 </details>
@@ -3163,6 +3285,8 @@
 - **D. Kyun galat hai:** Normal airway secretions protective hain. Goal complete mucus elimination nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/e-learning-files/NTSP_01_006-The_Patient_With_a_Laryngectomy_lo_pack/d/ELFH_Session_4_10_0/790/tab_1078.html).
+
+**Clinical audit note (27 Nov 2026):** HME conserves moisture and warmth from exhaled air, partly replacing bypassed nasal conditioning. Use prescribed device; obstruction/distress needs airway assessment, not routine humidification alone.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -3191,6 +3315,8 @@
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/storage/files/NTSP_RED_Laryngectomy_Algorithm.pdf).
 
+**Clinical audit note (27 Nov 2026):** NTSP emergency algorithm says do not remove TEP voice prosthesis during initial airway emergency. A TEP is distinct from removable external HME or inner cannula; follow trained emergency sequence.
+
 **YouTube MCQ practice:** Exact question verification pending.
 
 </details>
@@ -3217,6 +3343,8 @@
 - **D. Kyun galat hai:** Socket care aur prosthesis fitting follow-up still needed ho sakte hain.
 
 **Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/enucleation).
+
+**Clinical audit note (27 Nov 2026):** Enucleation removes globe; cosmetic prosthesis does not restore vision. Socket care, fitting, psychosocial support, remaining-eye protection and oncological surveillance continue.
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -3245,6 +3373,8 @@
 
 **Clinical reference:** [Clinical guidance](https://hfwmizoramstg.in/guidelines/vitamin-a-deficiency).
 
+**Clinical audit note (27 Nov 2026):** Vitamin A is fat soluble; lipid malabsorption can cause deficiency despite dietary intake. Evaluate nutritional status and underlying intestinal/hepatobiliary disease under clinician direction.
+
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
 </details>
@@ -3271,6 +3401,8 @@
 - **D. Kyun galat hai:** Essential care needs immediately communicate karna zaroori hai.
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/e-learning-files/NTSP_01_006-The_Patient_With_a_Laryngectomy_lo_pack/d/ELFH_Session_4_10_0/790/tab_1029.html).
+
+**Clinical audit note (27 Nov 2026):** Communication board/writing or accessible electronic tools support immediate expression of symptoms and choices. Speech-language therapy later individualizes electrolarynx, esophageal or prosthetic voice options.
 
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
@@ -3299,6 +3431,8 @@
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/e-learning-files/NTSP_01_006-The_Patient_With_a_Laryngectomy_lo_pack/d/ELFH_Session_4_10_0/790/tab_1029.html).
 
+**Clinical audit note (27 Nov 2026):** Airway separation does not guarantee safe postoperative swallowing or intact pharyngeal wound healing. Follow surgical nutrition plan and swallowing assessment before oral intake advances.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
@@ -3325,6 +3459,8 @@
 - **D. Kyun sahi hai:** Severe vitamin A deficiency epithelial integrity aur corneal tissue ko damage kar sakti hai. Keratomalacia mein corneal necrosis aur melting se perforation aur permanent vision loss ka risk hota hai. Urgent medical aur ophthalmic management chahiye.
 
 **Clinical reference:** [Clinical guidance](https://hfwmizoramstg.in/guidelines/vitamin-a-deficiency).
+
+**Clinical audit note (27 Nov 2026):** Keratomalacia is corneal necrosis from severe vitamin A deficiency and can threaten globe integrity. Urgent medical/ophthalmic management and approved therapeutic vitamin A regimen, not routine prevention schedule, needed.
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
@@ -3353,6 +3489,8 @@
 
 **Clinical reference:** [Clinical guidance](https://hfwmizoramstg.in/guidelines/vitamin-a-deficiency).
 
+**Clinical audit note (27 Nov 2026):** Treat current deficiency and investigate malnutrition, diet/access, malabsorption and intercurrent disease. High-dose schedules are indication and age specific; avoid unprescribed repeated dosing.
+
 **YouTube MCQ practice:** Specific question verification pending. See evidence ledger.
 
 </details>
@@ -3380,13 +3518,15 @@
 
 **Clinical reference:** [Clinical guidance](https://tracheostomy.org.uk/e-learning-files/NTSP_01_006-The_Patient_With_a_Laryngectomy_lo_pack/d/ELFH_Session_4_10_0/790/tab_1078.html).
 
+**Clinical audit note (27 Nov 2026):** Stoma is direct airway; use prescribed non-shedding care supplies and avoid loose fibres/powder. Stoma covering must allow airflow; acute breathing difficulty triggers emergency protocol.
+
 **YouTube MCQ practice:** Exact question verification pending. See evidence ledger below.
 
 </details>
 
 ## Audit and allocation record
 
-- Follow-up audit: Q1–Q60 read in full (240 options and rationales); keys unchanged. Added 60 clinical clarifications. Q35 and Q44 replaced with imaging-purpose and HHT-specific tasks after review of newer lacrimal bank and prior bleeding-task overlap, preserving allocation count. Q61–Q120 full option-level review remains pending.
+- Follow-up audit: Q1–Q120 read in full (480 options and rationales); keys unchanged. Added 120 clinical clarifications in a fresh model-led review against retrieved/indexed references. Q35 and Q44 replaced with imaging-purpose and HHT-specific tasks after review of newer lacrimal bank and prior bleeding-task overlap, preserving allocation count. Source-level gaps remain: some journal text and Indian workflows inaccessible; independent licensed human review and exact video playback not performed.
 
 - Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Ten overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 22, 24, 33, 37, 46, 48, 60, 87, 104). Final Q14 and Q31 were replaced after comparison with Vitreous Hemorrhage Q8 and Q27, respectively. Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
 - Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. The remaining four topic banks (120 questions) were subsequently screened; two overlapping tasks were corrected. A fresh exact normalized stem check of the corrected 120-item assembled edition against all 974 questions in the 34 topic banks passed with zero exact matches. All 34 topic banks have undergone lexical candidate screening across versions, but exhaustive semantic comparison of the latest replacements, concept-embedded questions, reported adaptations and cross-chapter mocks remains pending. No guarantee of zero semantic duplicates.
