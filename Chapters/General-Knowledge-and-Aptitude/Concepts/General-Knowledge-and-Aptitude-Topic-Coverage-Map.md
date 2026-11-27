@@ -46,6 +46,8 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Profit and loss](09-Profit-and-Loss.md) — 30 new questions.
 - [Discount](10-Discount.md) — 30 new questions.
 - [Simple interest](11-Simple-Interest.md) — 30 original questions and sourced adaptations.
-- Compound interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
+- [Compound interest](12-Compound-Interest.md) — 30 original questions and sourced adaptations.
+- Time and work — next.
+- speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
