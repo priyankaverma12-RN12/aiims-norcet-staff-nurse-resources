@@ -260,9 +260,20 @@ Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exuda
 
 **Correct: A. Prevent smoking near oxygen and explain the fire hazard**
 
-Oxygen khud fuel nahi hai lekin burning ko strongly support karti hai. Nurse ignition sources door rakhti hai aur facility safety policy follow karti hai.
+<!-- job5-rationale -->
+Oxygen khud fuel nahi hai, lekin combustion support karti hai. Oxygen-enriched environment mein cigarette spark ya flame se material rapidly ignite aur burn kar sakta hai. Low flow bhi smoking safe nahi banata. Smoking stop karvao, fire safety policy follow karo aur patient ko hazard explain karo. Required oxygen therapy ko bina clinical assessment arbitrarily discontinue mat karo.
 
-**Baaki options kyun sahi nahi hain?** Low flow bhi fire risk eliminate nahi karta. Blanket aur increased flow unsafe ho sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Smoking prevent karna aur fire hazard explain karna appropriate hai.
+- **B:** Low oxygen flow fire risk eliminate nahi karta.
+- **C:** Oxygen flow increase karna smoking aur dangerous banata hai.
+- **D:** Blanket covering fire risk aur equipment safety issues badha sakti hai.
+
+**Exam clue:** Oxygen supports combustion, no smoking near oxygen.
+
+[Concept reference](https://www.nhs.uk/tests-and-treatments/home-oxygen-treatment/)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -291,9 +302,20 @@ Oxygen khud fuel nahi hai lekin burning ko strongly support karti hai. Nurse ign
 
 **Correct: A. Near miss**
 
-Near miss mein error hua ya hone wala tha, lekin patient tak harm-producing event nahi pahucha. Report karne se system weaknesses identify ho sakti hain.
+<!-- job5-rationale -->
+Near miss safety incident hai jisme error patient tak pahunchne se pehle intercept ho jata hai. Yahan wrong dose prepare hui but administration se pehle detect ho gayi. Isliye patient exposed nahi hua. Error reached patient without harm ek different category hai. Near miss report karne se labeling, interruptions ya workflow gaps identify ho sakte hain aur future harm prevent kiya ja sakta hai.
 
-**Baaki options kyun sahi nahi hain?** ADR medicine ke harmful response ko describe karti hai. Therapeutic response expected benefit hai. Serious injury necessarily hui nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Error intercepted before reaching patient near miss hai.
+- **B:** Adverse drug reaction drug exposure ke baad unwanted reaction hai.
+- **C:** Wrong-dose preparation expected treatment response nahi hai.
+- **D:** Every near miss sentinel injury nahi hota, yahan injury described nahi hai.
+
+**Exam clue:** Near miss = error intercepted before reaching patient.
+
+[Concept reference](https://psnet.ahrq.gov/web-mm/near-miss-bedside-medications)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -1971,9 +1993,20 @@ Breathlessness ko palliative care mein actively address kiya jaata hai. Position
 
 **Correct: B. Protect the patient and isolate the power source if it is safe to do so, then summon help**
 
-Electrical hazard mein rescuer aur patient dono ki safety important hai. Nurse safe disconnection aur emergency escalation karti hai.
+<!-- job5-rationale -->
+Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patient aur staff ko further exposure se protect karo. Energized equipment ya patient ko unsafe direct contact na karo. Power source ko only safe and authorized method se isolate karo, emergency help summon karo aur clinically necessary treatment ka safe alternative arrange karo. Faulty device ko further use se remove karna policy ke according hona chahiye.
 
-**Baaki options kyun sahi nahi hain?** Wet hands aur water shock risk badhate hain. Faulty equipment continue use nahi karna chahiye.
+**Option-by-option reasoning**
+
+- **A:** Water electrical hazard worsen kar sakta hai.
+- **B:** Patient protection, safe isolation and help correct priorities hain.
+- **C:** Wet bare hands electrical injury risk increase karte hain.
+- **D:** Damaged device continue use karna shock/fire risk hai.
+
+**Exam clue:** Do not touch energized hazards. Safe isolation and emergency help first.
+
+**Dedicated electrical equipment safety reference:** verification pending. Follow facility emergency and electrical safety procedures.
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2444,9 +2477,20 @@ NG tube accidentally respiratory tract mein ja sakti hai. Initial placement appr
 
 **Correct: A. Root cause analysis**
 
-Root cause analysis mein team event ke contributing factors, jaise communication aur workflow, samajhti hai. Aim recurrence reduce karna hai.
+<!-- job5-rationale -->
+Root cause analysis serious safety event ke baad structured retrospective investigation hai. Team event timeline, human factors, communication, equipment, staffing aur process gaps review karti hai. Sirf ek worker ko blame karne ke bajay system contributors identify karke effective corrective actions aur follow-up measures develop karte hain. RCA and Action ka emphasis implementation par bhi hai.
 
-**Baaki options kyun sahi nahi hain?** Automatic punishment causes identify nahi karti. Records delete aur system factors ignore karna learning ko prevent karta hai.
+**Option-by-option reasoning**
+
+- **A:** RCA system contributors analyze karti hai.
+- **B:** Equipment aur workflow factors event ke important contributors ho sakte hain.
+- **C:** Investigation ke bina punishment underlying hazards solve nahi karta.
+- **D:** Records delete karne se evidence aur learning lose hoti hai.
+
+**Exam clue:** RCA looks backward, corrective action prevents recurrence.
+
+[Concept reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
