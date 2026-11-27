@@ -23,6 +23,12 @@ D. Routine stock turnover indicator
 
 [Direct reported question](https://testbook.com/question-answer/the-measurement-of-serious-undesirable-and-avoida--616423865eedc18b6bdb1f82) · [Clinical reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/sentinel-event-policy-and-procedures) · [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification).
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** DSSSB 28 August 2019 Shift 3 third-party question and reported answer retrieved on 27 November 2026. Not every fall qualifies as a sentinel event. Official key not authenticated.
+
+**YouTube MCQ practice: verification pending.** [Supplementary publisher lesson and quiz, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting) covers patient safety events, with published quiz chapter 08:48. Direct YouTube watch URL and exact item not verified.
+<!-- /job4-metadata -->
 </details>
 
 Source page lines 31–47 showed DSSSB Nursing Officer paper attribution, date, shift, options and reported answer. Stem and options independently adapted and clinical qualification added. Official question number and key unverified.
