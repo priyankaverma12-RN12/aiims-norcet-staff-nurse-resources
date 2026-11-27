@@ -11,3 +11,8 @@
 Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, state PSC/SSB/CHO and NHM exams. Record the exam, year, shift, paper or question number, exact evidence status and source link for each question. Write independently worded practice adaptations where verbatim reproduction is not permitted. Keep answers and complete conversational Hinglish explanations with each item. Dedicated teaching and MCQ video links need topic-specific verification.
 
 [Chapter](../README.md) · [Original questions](../MCQs/Gynecological-and-Reproductive-Nursing-Topic-Wise-Starter-MCQs.md)
+
+
+## RTI/STI/PID historical evidence — 27 November 2026
+
+[Two question-level reported adaptations with hidden answers](04-RTI-STI-Reported-Exam-Adaptations.md): ESIC Staff Nurse 26 February 2019 Shift II and AIIMS Jodhpur 10 December 2019 memory-based. Official keys and question numbers not authenticated. Other retrieved reports and pending all-India evidence are listed in the file.
