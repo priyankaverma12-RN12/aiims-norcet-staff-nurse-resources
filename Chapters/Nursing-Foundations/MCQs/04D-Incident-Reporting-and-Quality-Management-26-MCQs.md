@@ -4,7 +4,9 @@
 
 ### Q1. Using WHO patient safety terminology, a wrong specimen is intercepted before it is used for the intended patient. Which category applies if the incident did not reach the patient?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Harmful incident
 B. Near miss
@@ -23,11 +25,17 @@ D. Natural disease progression
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient receives an unintended extra dose of a drug but assessment shows no discernible injury. Under WHO terminology, how is the event initially classified?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. No-harm incident
 B. Near miss that did not reach the patient
@@ -46,11 +54,17 @@ D. Confirmed harmful incident
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/psf/curriculum-guide/resources/ps-curr-handouts/course01a_handout_patient-safety-definitions.pdf)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A correctly prescribed medicine causes an unpredictable harmful reaction despite appropriate administration. Which distinction is accurate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Every adverse event proves negligence
 B. No adverse event can occur without error
@@ -69,11 +83,17 @@ D. An unpredictable reaction should never be reported
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient develops a serious permanent disability due to a care-related event rather than disease progression. Which action is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice · **🟣 DSSSB Nursing Officer 2019 · Shift 3 — related concept**
+<!-- /job4-metadata -->
 
 A. Classify all such outcomes as unavoidable
 B. Wait until the annual audit
@@ -92,11 +112,19 @@ D. Activate the applicable serious-event response, protect the patient and initi
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/sentinel-event-policy-and-procedures)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [DSSSB Nursing Officer 2019 · Shift 3](https://testbook.com/question-answer/the-measurement-of-serious-undesirable-and-avoida--616423865eedc18b6bdb1f82) — Reported sentinel-event indicator concept, directly retrieved. Not every fall meets sentinel-event criteria. Not authenticated exact PYQ.
+
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A nurse notices a loose wheel on an unused patient trolley. No incident has occurred. What should the nurse do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Remove the trolley from service and report the unsafe condition according to policy
 B. Wait until a patient is injured
@@ -115,11 +143,17 @@ D. Record a patient injury that did not happen
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. Which incident-report entry best distinguishes observed facts from assumptions?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. The careless nurse caused the injury
 B. At 14:10 the patient was found seated on the floor beside the bed, with no witness present
@@ -138,11 +172,17 @@ D. The fall was unavoidable and no review is necessary
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. After stabilization of a patient affected by an incident, which documentation plan is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Place all safety-investigation opinions in the clinical record
 B. Complete only an incident form and omit clinical findings
@@ -161,11 +201,17 @@ D. Remove earlier observations from the chart
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A patient asks what happened after an unexpected care-related injury. Which response is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Deny that anything occurred
 B. Speculate about who is guilty
@@ -184,11 +230,17 @@ D. Communicate established facts honestly and arrange timely disclosure through 
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A nurse submits a safety report but receives no feedback and the same hazard recurs. Which organizational improvement is most useful?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Assign an action owner, track completion and communicate the outcome to relevant staff
 B. Collect more reports without review
@@ -207,11 +259,17 @@ D. Publicly identify the reporter
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A unit's voluntary incident reports increase after confidential reporting is introduced. What is the most defensible interpretation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. True harm incidence has necessarily doubled
 B. Reporting behavior may have changed, so assess independent harm measures and exposure
@@ -230,11 +288,17 @@ D. The reporting system should be discontinued
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A staff member makes an inadvertent selection error in a confusing electronic menu. Which just-culture response is most appropriate after patient safety is addressed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Punish without investigating
 B. Ignore the incident because it was unintentional
@@ -253,11 +317,17 @@ D. Remove all accountability for deliberate unsafe behavior
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A team repeatedly bypasses a required check because the normal workflow is impractical. Which approach best applies just culture?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Assume every bypass is malicious
 B. Approve all workarounds permanently
@@ -276,11 +346,17 @@ D. Examine incentives and barriers, distinguish behavior types and implement a s
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#reporting-and-just-culture) · [Reference](https://psnet.ahrq.gov/primer/reporting-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A hospital plans to introduce a new infusion device and wants to anticipate how its workflow might fail before use. Which method is best suited?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Failure mode and effects analysis
 B. Retrospective mortality review
@@ -299,11 +375,17 @@ D. Final discharge audit alone
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. An investigation finds that similar packaging, interruptions and inaccessible guidance contributed to one incident. Which tool helps organize these potential causes into categories?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. A pain scale
 B. A fishbone diagram
@@ -322,11 +404,17 @@ D. A patient identification wristband
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. An event review concludes that equipment connectors permit incompatible tubing to be joined. Which corrective action is generally stronger than education alone?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Send one reminder email
 B. Repeat a lecture without changing equipment
@@ -345,11 +433,17 @@ D. Ask staff to remember connector colors only
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A team finds that most recurring documentation defects fall into two of eight categories. Which chart best displays categories ranked by frequency to focus initial improvement?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Electrocardiogram
 B. Scatter plot of patient height and weight
@@ -368,11 +462,17 @@ D. Pareto chart
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#investigation-and-prevention) · [Reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A quality team plans a small trial of a new handover prompt on one shift with a prediction and data collection plan. Which PDSA phase is represented by designing this trial?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice · **🟣 AIIMS NORCET 2021 — related concept**
+<!-- /job4-metadata -->
 
 A. Plan
 B. Study
@@ -391,11 +491,19 @@ D. Do
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS NORCET 2021](https://testbook.com/question-answer/pdsa-stands-for--6250027a5e89fec2ed168ce4) — Retrieved 20 November 2021 memory-based report tests PDSA expansion. Not authenticated exact PYQ.
+
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. During a PDSA trial, the team compares the observed results with its original prediction. Which phase is this?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice · **🟣 AIIMS NORCET 2021 — related concept**
+<!-- /job4-metadata -->
 
 A. Plan
 B. Study
@@ -414,11 +522,19 @@ D. Act
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS NORCET 2021](https://testbook.com/question-answer/pdsa-stands-for--6250027a5e89fec2ed168ce4) — Retrieved 20 November 2021 memory-based report tests PDSA expansion. Not authenticated exact PYQ.
+
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A new checklist improves completeness but causes clinically important delays. What should the team do next in the Act phase?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice · **🟣 AIIMS NORCET 2021 — related concept**
+<!-- /job4-metadata -->
 
 A. Adopt it everywhere unchanged
 B. Stop measuring completion
@@ -437,11 +553,19 @@ D. Ignore delays because documentation improved
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS NORCET 2021](https://testbook.com/question-answer/pdsa-stands-for--6250027a5e89fec2ed168ce4) — Retrieved 20 November 2021 memory-based report tests PDSA expansion. Not authenticated exact PYQ.
+
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. Which example is a structure measure in the Donabedian framework?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Percentage of patients receiving a required assessment
 B. Number of patients with complications
@@ -460,11 +584,17 @@ D. Availability of functioning emergency call equipment in the ward
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A unit measures the proportion of eligible patients whose discharge medication reconciliation was completed. What type of measure is it?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Process measure
 B. Structure measure
@@ -483,11 +613,17 @@ D. Population prevalence measure
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A project aims to reduce delays in urgent assessment. Which measure best identifies an unintended negative effect on routine care?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Number of posters displayed
 B. Median waiting time for routine assessments during the project
@@ -506,11 +642,17 @@ D. Number of staff emails
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A documentation audit finds that 72 of 90 eligible records meet the standard. What is the compliance percentage?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. 72%
 B. 90%
@@ -529,11 +671,17 @@ D. 125%
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A unit's compliance improves from 60% to 75%. What is the absolute percentage-point improvement?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. 25 percentage points
 B. 75 percentage points
@@ -552,11 +700,17 @@ D. 15 percentage points
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. An audit identifies poor compliance with a validated standard and a corrective workflow is implemented. Which step is necessary to close the audit cycle?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Re-audit against the same defined standard and evaluate the change
 B. Archive the initial findings permanently
@@ -575,11 +729,17 @@ D. Declare success because training was delivered
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. [Supplementary publisher lesson with quiz at 08:48, Level Up RN](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting). Transcript and quiz chapter available on publisher site, direct YouTube watch URL not established.
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. Two wards report 8 and 12 care-related harm events respectively, but their exposure populations differ substantially. Which comparison is most meaningful?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Compare raw counts only
 B. Use comparable defined event rates with appropriate denominators and consider case mix
@@ -598,6 +758,10 @@ D. Assume the ward with fewer reports has safer care
 
 [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#improvement-and-measurement) · [Reference](https://www.ihi.org/library/model-for-improvement)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — no specific direct YouTube item confirmed. Existing teaching links remain separate from practice.
+<!-- /job4-metadata -->
 </details>
 
 ## ▶️ YouTube practice and teaching
