@@ -134,9 +134,8 @@ Acute hemolytic ya other serious reaction possible hai. Nurse transfusion stop k
 
 ### Q7. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -652,9 +651,8 @@ Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red m
 
 ### Q31. Which entry in an assessment record is subjective data?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -1636,9 +1634,8 @@ Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient a
 
 ### Q77. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -2049,9 +2046,8 @@ Patient physically capable hai lekin knowledge ya skill develop karni hai. Suppo
 
 ### Q96. Which finding represents objective assessment data?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
