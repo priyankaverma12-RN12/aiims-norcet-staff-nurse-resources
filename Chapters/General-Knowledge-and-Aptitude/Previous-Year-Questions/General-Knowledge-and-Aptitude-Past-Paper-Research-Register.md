@@ -14,3 +14,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Number systems evidence](01-Number-Systems-Reported-Evidence.md): one distinct reported RRB concept family and two solved adaptations. Official keys pending.
+
+
+[HCF and LCM evidence](02-HCF-and-LCM-Reported-Evidence.md): four reported recruitment concept families (UPPSC, DSSSB, RRB and OSSSC). Chapter total five counted families, six solved adaptations. Related variants retained without inflating counts. Official keys pending.
