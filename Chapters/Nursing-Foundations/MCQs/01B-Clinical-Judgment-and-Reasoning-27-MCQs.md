@@ -20,14 +20,20 @@
 
 **Correct answer: D. Recognizing a relevant cue**
 
-**Kyun sahi hai:** Cue means patient se milne wala relevant clue. Baseline se new change identify karna recognition hai, interpretation next step hai.
+<!-- job5-rationale -->
+Cue ka matlab patient ki condition ke baare mein important clue hai. Pehle patient normally baat kar raha tha, ab unusually drowsy hai. Baseline se change recognize karna clinical judgment ka starting point hai. New drowsiness serious deterioration ka signal ho sakti hai. Isliye nurse prompt ABCDE assessment, vital signs aur relevant glucose check ke liye protocol follow kare aur zaroorat par help activate kare.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Planning comes after cue interpretation.
-- **B.** No intervention outcome described.
-- **C.** One cue alone diagnosis prove nahi karta.
+- **A:** A care plan develop karna later stage hai.
+- **B:** B evaluation mein intervention ke baad result compare hota hai, jo yahan nahi hua.
+- **C:** C drowsiness alone kisi ek medical diagnosis ko prove nahi karti.
+- **D:** D nurse ne new relevant finding identify ki hai.
 
+**Exam clue:** Recognize = notice the clue, analyze = connect the clues.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -56,14 +62,20 @@
 
 **Correct answer: C. Analyzing cues**
 
-**Kyun sahi hai:** Analyze cues mein related signs ko connect karte hain, possible volume depletion and alternatives consider karte hain. Clinical assessment confirms context.
+<!-- job5-rationale -->
+Poor intake, standing par symptoms aur reduced urine output ko alag facts ki tarah mat dekho. Inko connect karne se fluid volume depletion ki possibility samajh aati hai. Lekin medicines, blood loss, renal ya cardiac problems bhi consider karne pad sakte hain. Nurse blood pressure, pulse, intake-output aur relevant history validate kare. Possible explanation banana analyze cues hai, confirmed diagnosis nahi.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Action may be premature in a stable case.
-- **B.** No treatment response described.
-- **D.** Data collection alone relationship explain nahi karti.
+- **A:** A stable case mein findings samjhe bina action choose karna premature ho sakta hai.
+- **B:** B treatment result describe nahi hua.
+- **C:** C multiple findings ka relationship interpret karta hai.
+- **D:** D data note karta hai lekin unka meaning nahi nikalta.
 
+**Exam clue:** Cues ko cluster karo, possibility ko certainty mat samjho.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -92,14 +104,20 @@
 
 **Correct answer: B. Urgency and potential harm combined with the available supporting evidence**
 
-**Kyun sahi hai:** Prioritize hypothesis mein likelihood and danger dono consider karo. Life-threatening possibilities require prompt action and assessment.
+<!-- job5-rationale -->
+Prioritizing hypotheses ka matlab possible causes ko urgency, likelihood aur potential harm ke according order dena hai. Sabse common cause hamesha sabse urgent nahi hota. Agar acute breathing problem ho toh airway threat ko quickly assess karna zaroori hai, chahe exact diagnosis pending ho. Nurse serious possibilities rule out karne ke liye relevant data aur team input use karti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Convenience safety criterion nahi hai.
-- **C.** Patient-specific urgency determine nahi hoti.
-- **D.** First idea automatically correct nahi hai.
+- **A:** A documentation convenience clinical priority decide nahi karti.
+- **B:** B evidence aur potential harm dono consider karta hai.
+- **C:** C textbook order patient ki actual condition nahi batata.
+- **D:** D first suggestion par blindly rely karne se anchoring ho sakti hai.
 
+**Exam clue:** Likelihood plus severity plus time sensitivity.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -128,14 +146,20 @@
 
 **Correct answer: A. Generating solutions**
 
-**Kyun sahi hai:** Generate solutions means safe feasible options and expected outcomes consider karo, contraindications and scope check karo.
+<!-- job5-rationale -->
+Generating solutions stage mein nurse likely concern ko address karne ke possible safe actions compare karti hai. Stable dehydration concern mein oral intake, prescribed fluid support, swallowing safety aur restrictions review ki ja sakti hain. Heart ya renal condition fluid choice ko affect kar sakti hai. Team ke saath suitable plan select karna hai, automatic fluid administration nahi.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Possible interventions compare kar rahe hain.
-- **C.** No action outcome stated.
-- **D.** Solutions develop karna diagnosis prove nahi karta.
+- **A:** A possible care options develop aur compare karne ka stage hai.
+- **B:** B initial clue recognition already ho chuki hai.
+- **C:** C intervention abhi deliver nahi hui, result evaluate nahi hua.
+- **D:** D treatment options discuss karna definitive diagnosis establish nahi karta.
 
+**Exam clue:** Generate = plan possible actions, take action = perform them.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -164,14 +188,20 @@
 
 **Correct answer: C. Taking action**
 
-**Kyun sahi hai:** Taking action means chosen appropriate intervention safely carry out karna, communicate and document as required.
+<!-- job5-rationale -->
+Clinical judgment ke take action stage mein nurse selected intervention actually perform karti hai. Is case mein assessment aur planning pehle ho chuki hain. Nurse prescription, patient identity, contraindications aur relevant safety checks verify karke intervention deti hai. Patient response assess karna next continuing step hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Intervention ab perform ho rahi hai.
-- **B.** Actual action described hai.
-- **D.** Reasoning preceded the actual action.
+- **A:** A hypotheses prioritize karna reasoning stage hai, intervention execute karna nahi.
+- **B:** B baseline risk identify karna cue recognition hai.
+- **C:** C intervention perform ho rahi hai, isliye correct hai.
+- **D:** D cues analyze karna action se pehle ka cognitive work hai.
 
+**Exam clue:** Action verb perform, administer, assist indicates taking action.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -200,14 +230,20 @@
 
 **Correct answer: B. Reassess both findings and reconsider whether the overall intended outcome has been achieved**
 
-**Kyun sahi hai:** Evaluate outcomes mein multiple relevant results compare karo. One favorable number whole patient improvement prove nahi karta.
+<!-- job5-rationale -->
+Ek numerical variable improve hone ke bawajood patient worse feel kare toh overall outcome successful assume mat karo. For example, saturation reading improve ho sakti hai lekin work of breathing increase ho sakta hai. Nurse measurement validity aur symptoms dono reassess kare. New danger signs par urgent escalation kare. Patient-centered evaluation mein benefit aur adverse effects dono important hain.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Patient may need a different approach.
-- **C.** Other clinically relevant symptoms worsen ho rahe hain.
-- **D.** Data need verification rather than blanket rejection.
+- **A:** A same intervention blindly repeat karne se harm badh sakta hai.
+- **B:** B conflicting outcomes reassess karta hai aur plan reconsider karta hai.
+- **C:** C ek number se total success conclude karta hai.
+- **D:** D measurements ko blanket reject karna validation nahi hai.
 
+**Exam clue:** Treat the patient, not just the number.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -236,14 +272,20 @@
 
 **Correct answer: A. Anchoring on an initial explanation despite important new evidence**
 
-**Kyun sahi hai:** Anchoring ka matlab pehle explanation par atak jana. New cues par alternative causes consider karo and urgent assessment arrange karo.
+<!-- job5-rationale -->
+Anchoring bias tab hota hai jab nurse pehli explanation se chipak jaati hai aur new evidence ke according thinking update nahi karti. New confusion ko sirf age se explain karna unsafe hai. Oxygenation change ko assess karna chahiye. Acute confusion ke multiple causes possible hain, jaise hypoxia, infection ya metabolic problem. New finding par rapid assessment aur timely escalation zaroori hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** New evidence integrate nahi hui.
-- **C.** Intervention result review nahi ho raha.
-- **D.** Age alone individual baseline establish nahi karti.
+- **A:** A first impression par fixation aur new evidence ignore karne ko describe karta hai.
+- **B:** B hypothesis revise nahi hui, isliye effective revision nahi hai.
+- **C:** C intervention ka outcome compare nahi ho raha.
+- **D:** D age individual cognitive baseline ka proof nahi hai.
 
+**Exam clue:** Anchoring = stuck on first idea.
+
+**Supporting reference:** [Clinical or nursing concept](https://psnet.ahrq.gov/primer/diagnostic-errors)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -270,14 +312,20 @@
 
 **Correct answer: D. Confirmation bias**
 
-**Kyun sahi hai:** Confirmation bias preferred idea support karne wali information ko favor karta hai. Opposite evidence actively review karo.
+<!-- job5-rationale -->
+Confirmation bias mein person apni preferred explanation support karne wali findings par focus karta hai aur against evidence ko dismiss karta hai. Isse nurse wrong hypothesis ko strong samajh sakti hai. Safe approach mein deliberately contradictory cues review karo, objective findings validate karo aur alternate explanations consider karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Contradictory evidence check nahi hui.
-- **B.** Urgency based reasoning described nahi hai.
-- **C.** Conflicting findings ignored hain.
+- **A:** A disconfirming evidence search karna bias reduce karta hai, yahan opposite hua.
+- **B:** B urgency-based triage describe nahi hui.
+- **C:** C conflicting findings verify nahi ki gayi.
+- **D:** D selective supporting evidence confirmation bias hai.
 
+**Exam clue:** Confirmation = cherry-picking supportive evidence.
+
+**Supporting reference:** [Clinical or nursing concept](https://psnet.ahrq.gov/primer/diagnostic-errors)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -304,14 +352,20 @@
 
 **Correct answer: B. Premature closure**
 
-**Kyun sahi hai:** Premature closure means conclusion too early accept karna. Dangerous possibilities and red flags assess karo.
+<!-- job5-rationale -->
+Premature closure mein clinician plausible diagnosis milte hi investigation aur alternate causes consider karna jaldi band kar deta hai. Familiar benign explanation correct bhi ho sakti hai, par serious possibilities ko adequate assessment se address karna zaroori hai. Diagnostic uncertainty ko communicate karna aur relevant reassessment karna safer hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Assessment prematurely stopped hai.
-- **C.** Alternative causes consider nahi kiye gaye.
-- **D.** Serious alternative risks adequately evaluate nahi hue.
+- **A:** A validation mein uncertainty check hoti hai, yahan checking stop hui.
+- **B:** B diagnosis process early close karne ko describe karta hai.
+- **C:** C systematic reassessment ongoing review hai.
+- **D:** D risk stratification serious possibilities ki urgency evaluate karti hai, jo missing hai.
 
+**Exam clue:** Premature closure = stop thinking too soon.
+
+**Supporting reference:** [Clinical or nursing concept](https://psnet.ahrq.gov/primer/diagnostic-errors)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -338,14 +392,20 @@
 
 **Correct answer: A. Repeat or validate the measurement using an appropriate technique while assessing the patient**
 
-**Kyun sahi hai:** Unexpected data ko verify karo, but if patient unstable ho urgent action delay mat karo. Clinical picture and measurement dono matter karte hain.
+<!-- job5-rationale -->
+Automated device ka unexpected result true deterioration ya measurement artifact dono ho sakta hai. Stable patient mein correct technique se repeat karo aur current clinical findings review karo. Example: BP cuff size aur arm position reading affect kar sakte hain. Dangerous reading ya symptoms par repeat test ke chakkar mein urgent response delay mat karo. Original result aur repeat accurately record karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** True abnormality miss ho sakti hai.
-- **C.** Artifact and context important hain.
-- **D.** False documentation hai.
+- **A:** A measurement validate karte hue patient ko assess karta hai.
+- **B:** B true abnormality bina evidence dismiss karta hai.
+- **C:** C number alone par action clinical context ignore karta hai.
+- **D:** D previous normal value substitute karna false charting hai.
 
+**Exam clue:** Unexpected number = assess plus validate, never falsify.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -372,14 +432,20 @@
 
 **Correct answer: D. Perform targeted assessment and escalate clinical concern according to policy**
 
-**Kyun sahi hai:** Pattern recognition important clue ho sakta hai. Objective assessment and escalation use karo, score clinical judgment ka substitute nahi hai.
+<!-- job5-rationale -->
+Experienced nurse ka concern subtle change recognize karne se arise ho sakta hai. Intuition ek warning clue hai, diagnosis ka final proof nahi. Patient ki breathing, circulation, consciousness aur relevant observations promptly assess karo. Escalation policy ke according concern communicate karo, even if score fixed threshold tak nahi pahuncha. Delay se deterioration miss ho sakti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Clinical concern may justify earlier escalation.
-- **B.** Intuition hypothesis raise karti hai, diagnosis confirm nahi.
-- **C.** Unaddressed deterioration risk hai.
+- **A:** A fixed score ka wait clinical concern ignore karta hai.
+- **B:** B intuition ko definitive diagnosis bana deta hai.
+- **C:** C concern document karke communicate na karna unsafe hai.
+- **D:** D targeted assessment aur escalation combine karta hai.
 
+**Exam clue:** Clinical concern can justify earlier escalation.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -406,14 +472,20 @@
 
 **Correct answer: C. Assess the unexpected functional change and integrate it with other patient cues**
 
-**Kyun sahi hai:** Team member report valuable cue hai. Nurse verifies significance, assesses cause and adjusts care as indicated.
+<!-- job5-rationale -->
+Daily grooming mein new difficulty functional decline ka clue hai. Assistant ki observation valuable hai, lekin RN ko patient ki current strength, cognition, pain aur mobility assess karni hai. Sudden focal weakness ya consciousness change urgent response maang sakta hai. Cause establish kiye bina permanent dependence label mat karo. Relevant data care plan mein integrate karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Functional decline early deterioration sign ho sakta hai.
-- **B.** Cause and reversibility unclear hain.
-- **D.** Nursing assessment and judgment remain RN responsibilities.
+- **A:** A routine activity mein meaningful baseline change ignore karta hai.
+- **B:** B permanent dependency bina assessment assume karta hai.
+- **C:** C functional change assess karke other findings se connect karta hai.
+- **D:** D assistant report kar sakta hai, independent RN clinical judgment replace nahi karta.
 
+**Exam clue:** New loss of function = important cue.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -440,14 +512,20 @@
 
 **Correct answer: A. Acknowledge the report, reassess relevant factors and communicate persistent concern**
 
-**Kyun sahi hai:** Subjective evidence meaningful hai. Symptoms, history and findings correlate karo, uncertainty honestly communicate karo.
+<!-- job5-rationale -->
+Patient ka symptom subjective hone se fake nahi ho jaata. Pain, dizziness aur nausea jaise symptoms kabhi initial physical examination mein clear sign nahi dikhate. Nurse symptom timing, severity, triggers aur impact clarify kare. Persistent ya worsening concern communicate kare aur suitable reassessment arrange kare. Single symptom se specific disease confirm na karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Subjective symptom real ho sakta hai.
-- **C.** Inaccurate record hai.
-- **D.** More evidence may be required.
+- **A:** A patient experience respect karta hai aur further assessment support karta hai.
+- **B:** B objective sign absent hone ko fabrication ka proof maanta hai.
+- **C:** C opposite symptom record karna false hai.
+- **D:** D report alone se definite diagnosis assume karta hai.
 
+**Exam clue:** Subjective data is valid evidence, not definitive diagnosis.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -474,14 +552,20 @@
 
 **Correct answer: D. Check the time and context of both observations and clarify whether a true change occurred**
 
-**Kyun sahi hai:** Time-linked data important hain. New change may be real or measurement difference. Verify and escalate based on urgency.
+<!-- job5-rationale -->
+Different shift findings ka matlab error zaroori nahi. Patient ki condition time ke saath change ho sakti hai. Nurse observation time, measurement method, body position, treatment aur baseline compare kare. Current finding validate kare aur relevant staff se clarify kare. Agar real deterioration hai toh escalate kare.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Condition may have changed.
-- **B.** Meaningful trend obscure ho sakta hai.
-- **C.** Current patient status miss hoga.
+- **A:** A previous nurse ko bina evidence blame karta hai.
+- **B:** B average meaningful change ko hide kar sakta hai.
+- **C:** C old data copy karne se present condition miss hoti hai.
+- **D:** D context aur timing check karke real trend identify karta hai.
 
+**Exam clue:** Compare timestamp, technique and clinical context.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -508,14 +592,20 @@
 
 **Correct answer: C. It can reveal direction and rate of change relative to the patient's baseline**
 
-**Kyun sahi hai:** Trend worsening detect karne mein useful hai. Single critical value bhi urgent ho sakti hai, context and severity combine karo.
+<!-- job5-rationale -->
+Trend ka matlab multiple observations ka direction over time hai. BP progressively fall ho raha hai ya respiratory rate rise kar raha hai, toh single isolated reading se zyada context mil sakta hai. Baseline aur change ki speed important hain. Lekin sudden critical reading ko trend complete hone tak ignore mat karo. Clinical examination aur urgent response remain necessary.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Acute dangerous finding immediate response maang sakti hai.
-- **B.** Current clinical condition still assess karni hai.
-- **D.** Pattern alone cause confirm nahi karta.
+- **A:** A severe single abnormality ignore karna unsafe hai.
+- **B:** B bedside assessment replace nahi hota.
+- **C:** C direction aur rate of change identify karna trend ka benefit hai.
+- **D:** D trend association dikhata hai, specific cause prove nahi karta.
 
+**Exam clue:** Trend adds context, it never cancels an emergency.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -542,14 +632,20 @@
 
 **Correct answer: B. A high-probability or high-consequence risk can outrank a less urgent existing problem**
 
-**Kyun sahi hai:** Risk vs actual rule absolute nahi hai. Potential harm, timing, likelihood and patient stability assess karo.
+<!-- job5-rationale -->
+Actual versus risk diagnosis ek helpful rule hai, par absolute nahi. Imminent aspiration, fall ya airway compromise ka high-consequence risk routine mild discomfort se pehle address ho sakta hai. Nurse likelihood, severity, timing aur preventive action compare karti hai. Existing problem bhi urgent ho sakta hai, isliye har patient ka context dekho.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Urgency and harm comparison required hai.
-- **C.** Severe imminent risk may be more urgent.
-- **D.** Prevention nursing care ka part hai.
+- **A:** A all risks ko always first rakhna actual emergency miss kar sakta hai.
+- **B:** B high-impact risk ko less urgent actual concern se compare karta hai.
+- **C:** C actual problem always first kehna imminent risk ignore karta hai.
+- **D:** D risk prevention nursing care ka major part hai.
 
+**Exam clue:** Priority depends on urgency and harm, not category alone.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -576,14 +672,20 @@
 
 **Correct answer: D. Explore reasons and acceptable alternatives while respecting the informed decision**
 
-**Kyun sahi hai:** Patient preferences care reasoning ka part hain. Capacity, safety and alternatives consider karo, appropriate communication and record maintain karo.
+<!-- job5-rationale -->
+Stable capable patient informed decision le sakta hai. Nurse refusal ka reason pooche, benefits, risks aur alternatives simple language mein explain kare aur understanding check kare. Low-risk activity ko force nahi karna chahiye. Accepted alternatives aur refusal accurately document karo. Agar capacity ya immediate serious risk concern ho toh applicable policy aur clinical review follow karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Informed refusal respect karna zaroori hai.
-- **B.** Refusal of one activity does not end care.
-- **C.** Inaccurate documentation hai.
+- **A:** A force autonomy violate karta hai.
+- **B:** B one refusal se all unrelated care cancel nahi hoti.
+- **C:** C agreement falsely record karta hai.
+- **D:** D informed choice respect karte hue acceptable solutions explore karta hai.
 
+**Exam clue:** Respect refusal, assess understanding, offer safe alternatives.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -610,14 +712,20 @@
 
 **Correct answer: C. Review credible guidance, patient context and team expertise before proceeding**
 
-**Kyun sahi hai:** Evidence-based nursing combines best available evidence, clinical expertise and patient values. Nonurgent uncertain action review karo.
+<!-- job5-rationale -->
+Evidence-informed practice mein credible current evidence, clinical expertise aur patient values integrate hote hain. Nonurgent uncertain intervention ke liye source quality, contraindications, benefit, harm aur available alternatives assess karo. Facility guidance aur team input check karo. Popularity ya habit reliable clinical evidence nahi hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Current evidence and patient risks matter.
-- **B.** Individual context ignore hota hai.
-- **D.** Popularity evidence quality establish nahi karti.
+- **A:** A old habit use karta hai without safety review.
+- **B:** B patient-specific context aur preference ignore karta hai.
+- **C:** C evidence, patient context aur expertise combine karta hai.
+- **D:** D social media popularity intervention effectiveness prove nahi karti.
 
+**Exam clue:** Evidence plus expertise plus patient preferences.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -644,14 +752,20 @@
 
 **Correct answer: B. Compare supporting and contradictory cues, then agree on immediate safety actions and further assessment**
 
-**Kyun sahi hai:** Collaborative reasoning mein evidence and uncertainty openly review karo. Safety actions and further tests coordinate karo.
+<!-- job5-rationale -->
+Different plausible hypotheses ko openly compare karna teamwork improve karta hai. Nurse bataye kaunse cues har explanation support karte hain aur kaunse contradict karte hain. Team immediate safety actions agree kare aur missing assessment plan kare. Uncertainty ko communicate karna weakness nahi hai. Urgent care agreement ka wait karke delay nahi honi chahiye.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Uncertainty communicate karna patient safety support karta hai.
-- **C.** Authority alone correct interpretation prove nahi karti.
-- **D.** Urgent safety steps may be necessary.
+- **A:** A uncertainty hide karne se important information miss hoti hai.
+- **B:** B evidence compare karte hue safety actions decide karta hai.
+- **C:** C seniority alone clinical correctness guarantee nahi karti.
+- **D:** D absolute agreement ka wait emergency support delay kar sakta hai.
 
+**Exam clue:** Discuss evidence and act on immediate danger.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -678,14 +792,20 @@
 
 **Correct answer: A. Escalate early and arrange suitable monitoring or level-of-care review**
 
-**Kyun sahi hai:** Anticipatory judgment patient trajectory and resource limits consider karta hai. Team se early support maango.
+<!-- job5-rationale -->
+Anticipatory clinical judgment ka matlab harm hone se pehle foreseeable risk identify karna hai. Agar patient ko ward capacity se zyada monitoring chahiye toh nurse responsible team ko early inform kare. Suitable equipment, staffing ya higher level of care review arrange ho sakta hai. Actual monitoring limitations document karo aur escalation ke dauran appropriate safety measures follow karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Anticipatory prevention missed hogi.
-- **C.** Risk uncontrolled hai.
-- **D.** False documentation hai.
+- **A:** A early escalation aur resource review karta hai.
+- **B:** B actual injury ka wait prevention fail karta hai.
+- **C:** C required monitoring ke bina care continue karna risk leave karta hai.
+- **D:** D unavailable monitoring ko provided record karna false hai.
 
+**Exam clue:** Recognize resource mismatch before harm.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -712,14 +832,20 @@
 
 **Correct answer: C. Assess the patient promptly, verify relevant context and communicate the critical result according to protocol**
 
-**Kyun sahi hai:** Critical lab and current condition integrate karo. Required communication and escalation delay mat karo while verifying relevant details.
+<!-- job5-rationale -->
+Critical lab result time-sensitive concern ho sakta hai, especially patient ki condition change ho gayi ho. Nurse patient promptly assess kare, result patient identity aur relevant context se verify kare, aur facility critical-result protocol ke according timely communicate kare. Repeat sampling zaroori ho sakti hai lekin notification unnecessarily delay nahi karna hai. Authorized team management decide karti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Communication delay unsafe ho sakta hai.
-- **B.** Clinical context and authorized management matter.
-- **D.** Critical result timely action maang sakta hai.
+- **A:** A every test repeat karne tak communication postpone karta hai.
+- **B:** B lab alone se all treatment decisions determine nahi hote.
+- **C:** C clinical assessment, verification aur timely communication combine karta hai.
+- **D:** D routine rounds tak wait critical concern miss kar sakta hai.
 
+**Exam clue:** Critical result = assess, verify, communicate promptly.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -746,14 +872,20 @@
 
 **Correct answer: B. Collect the information needed for safe immediate action without delaying necessary escalation**
 
-**Kyun sahi hai:** Assessment and action parallel ho sakte hain. Immediate threat ko address and concise relevant cues communicate karo.
+<!-- job5-rationale -->
+Time-sensitive concern mein complete detailed history se pehle immediate safety information zaroori hoti hai. Nurse ABCDE, relevant vital signs aur immediate risk evaluate kare, saath hi urgent help activate kare. Full diagnostic confirmation baad mein ho sakta hai. Handover mein observed findings aur actions clearly communicate karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Urgent support may precede final diagnosis.
-- **C.** Delay may worsen harm.
-- **D.** Relevant immediate data needed hain.
+- **A:** A full diagnosis confirm hone tak essential care delay karta hai.
+- **B:** B needed data gather karta hai without delaying escalation.
+- **C:** C nonurgent tasks ko emergency se pehle complete karta hai.
+- **D:** D assessment aur communication dono avoid karta hai.
 
+**Exam clue:** Urgent care and focused assessment can happen together.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -780,14 +912,20 @@
 
 **Correct answer: A. Expected onset of effect, patient risk, intervention characteristics and relevant protocol**
 
-**Kyun sahi hai:** Reassessment timing intervention and safety risk ke according decide karo. High-risk change needs closer monitoring.
+<!-- job5-rationale -->
+Reassessment timing intervention ki expected action, patient stability, risk aur applicable protocol par depend karti hai. For example, medication ka onset route aur drug ke hisaab se differ karta hai. High-risk patient ko closer monitoring chahiye ho sakti hai. Nurse intended benefit aur adverse effects dono evaluate kare. Worsening par scheduled interval ka wait na kare.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Different interventions and risks require different timing.
-- **C.** Clinical response assessment priority hai.
-- **D.** Some deterioration may be unnoticed by patient.
+- **A:** A onset, intervention aur patient risk sab consider karta hai.
+- **B:** B one fixed interval different treatments ke liye unsuitable ho sakta hai.
+- **C:** C documentation convenience clinical monitoring decide nahi karti.
+- **D:** D patient har adverse effect recognize ya report nahi kar sakta.
 
+**Exam clue:** Reassess according to onset and risk, sooner if deterioration.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -814,14 +952,20 @@
 
 **Correct answer: D. Reflect on both individual reasoning and system contributors, then implement practical safeguards**
 
-**Kyun sahi hai:** Reflective practice mein what happened, why and prevention steps examine karo. Nonpunitive system improvements support safety.
+<!-- job5-rationale -->
+Near miss ka matlab event jisme harm ho sakta tha par actual harm avoid hua. Interruptions aur unclear labels decision process ko affect kar sakte hain. Just-culture review mein individual reasoning aur system design dono examine karo. Reporting, clear labeling, interruption reduction aur approved safeguards future risk kam kar sakte hain. Accountability ko blame-only response se confuse mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** System causes persist kar sakte hain.
-- **B.** Learning opportunity lose hoti hai.
-- **C.** Reflection and training improve skills.
+- **A:** A person ko blame karke system risk unchanged chhodta hai.
+- **B:** B reporting stop karne se prevention ka data lose hota hai.
+- **C:** C clinical judgment feedback aur practice se improve ho sakta hai.
+- **D:** D individual aur system factors review karke safeguards develop karta hai.
 
+**Exam clue:** Near miss = learning opportunity, not concealment.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -848,14 +992,20 @@
 
 **Correct answer: B. Guided case reasoning with feedback on cue interpretation and decisions**
 
-**Kyun sahi hai:** Scenario practice reasoning steps ko visible banati hai. Feedback helps student identify and correct thinking errors.
+<!-- job5-rationale -->
+Guideline recall declarative knowledge hai, lekin patient case mein apply karna clinical judgment skill hai. Guided scenarios mein student relevant cues identify kare, possibilities compare kare, action choose kare aur reasoning explain kare. Educator feedback se misconception correct ho sakti hai. Different cases par practice transfer of learning improve karti hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Accuracy and justification important hain.
-- **C.** Application gap address nahi hoga.
-- **D.** Reasoning practice delay hogi.
+- **A:** A speed alone safe reasoning measure nahi karti.
+- **B:** B scenario practice aur feedback actual application gap address karte hain.
+- **C:** C isolated facts memorize karne se integration skill automatically develop nahi hoti.
+- **D:** D clinical reasoning practice postpone karne se learning opportunity miss hoti hai.
 
+**Exam clue:** Recall is not the same as application.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -882,14 +1032,20 @@
 
 **Correct answer: A. Assess the quality of the reasoning using information available at the time, not outcome alone**
 
-**Kyun sahi hai:** Hindsight bias avoid karo. Decision process, available cues and system factors review karo while learning from actual outcome.
+<!-- job5-rationale -->
+Outcome bias mein hum decision ko sirf final result ke basis par judge karte hain. Poor outcome reasonable decision ke bawajood ho sakta hai aur good outcome unsafe decision ke bawajood luck se mil sakta hai. Review karo ki us time available evidence, risk, policies aur actions kya the. Outcome ko learning ke liye use karo, par automatically negligence infer mat karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** Outcomes influenced by many factors.
-- **C.** Luck can mask unsafe decisions.
-- **D.** Outcome still provides learning evidence.
+- **A:** A contemporaneous evidence aur reasoning quality evaluate karta hai.
+- **B:** B every poor outcome ko negligence proof samajhta hai.
+- **C:** C good outcome ko correct process ka guarantee maanta hai.
+- **D:** D outcome ignore karne se learning aur safety improvement miss hoti hai.
 
+**Exam clue:** Judge decision process and outcome separately.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
@@ -916,14 +1072,20 @@
 
 **Correct answer: D. Clarify the patient's wishes and consent about family participation and information sharing**
 
-**Kyun sahi hai:** Clinical judgment includes cultural and personal needs. Consent, decision capacity and authorized information sharing clarify karo.
+<!-- job5-rationale -->
+Patient family involvement chahta hai, par iska matlab unlimited confidential information sharing nahi hai. Nurse clarify kare patient kisko involve karna chahta hai, kaunse details share karne ki permission hai aur decision-making preferences kya hain. Capable patient's autonomy central hai. Consent, privacy policy aur documented wishes follow karo. Family support care mein valuable ho sakta hai.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** Consent and privacy requirements matter.
-- **B.** Patient preference meaningful hai.
-- **C.** Capable patient's autonomy remains central.
+- **A:** A preference ko blanket permission assume karta hai.
+- **B:** B patient ki stated preference ignore karta hai.
+- **C:** C capable patient's decision automatically family ko transfer karta hai.
+- **D:** D wishes aur consent clarify karke involvement safe banata hai.
 
+**Exam clue:** Family involvement needs patient-specific consent.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
