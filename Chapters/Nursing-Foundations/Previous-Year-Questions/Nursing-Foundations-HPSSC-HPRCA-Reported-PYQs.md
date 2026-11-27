@@ -38,8 +38,21 @@ ABG sample ko clot hone se bachane ke liye suitable heparinized collection devic
 
 **Correct: D. Lithotomy**
 
-Lithotomy mein patient supine hoti hai aur hips-knees flexed aur legs supported hoti hain. Prone face-down, Fowler sitting aur Trendelenburg head-down tilt hai.
+Lithotomy position mein patient peeth ke bal leti hai. Hips aur knees flexed rehte hain aur dono legs appropriate support par rakhi jaati hain. Isse pelvic aur perineal area examination ke liye accessible ho jaata hai. Nurse privacy, consent, safe leg support aur pressure ya nerve injury ke risk ka dhyan rakhti hai. Har gynecological procedure ke liye lithotomy zaroori nahi hoti. Patient ki condition aur procedure ke hisaab se position select hoti hai.
 
+**Option-wise explanation:**
+- **A (Galat):** Prone mein patient pet ke bal leti hai. Dono legs supported rakhkar pelvic examination ka described access is position se nahi milta.
+- **B (Galat):** High Fowler mein patient ka upper body upright hota hai. Yeh breathing support ke liye useful ho sakti hai, lekin stirrups wali pelvic examination position nahi hai.
+- **C (Galat):** Trendelenburg mein poora bed head-down tilt hota hai. Yeh apne aap mein lithotomy ki leg support aur pelvic access wali position nahi hai.
+- **D (Sahi):** Lithotomy mein hips aur knees flexed aur legs supported rehti hain. Isse pelvic examination ke liye suitable access milta hai.
+
+**Exam clue:** Pelvic examination with both legs supported = lithotomy.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed).
+
+**Historical evidence:** The existing HP General Studies report was directly retrieved. Series A, post code 892, Q2 includes lithotomy as source option 1. This independently worded adaptation has lithotomy as option D. Official original booklet and key were not authenticated. The source question asks more broadly about gynecological procedures, so the adaptation is narrower and clinically safer.
+
+**YouTube MCQ practice:** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Indexed publisher description confirms positioning MCQs broadly. Lithotomy-specific coverage and exact playback are pending.
 </details>
 
 ### PYQ3. Which direct measure helps relieve sustained pressure in a bedbound patient at risk of pressure injury?
