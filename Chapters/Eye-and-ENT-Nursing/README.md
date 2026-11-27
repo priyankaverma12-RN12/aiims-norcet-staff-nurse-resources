@@ -30,4 +30,4 @@
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0454-refraction. Scope refractive errors only, chapter-local files. Expires 2026-11-27T05:24:00Z. -->
