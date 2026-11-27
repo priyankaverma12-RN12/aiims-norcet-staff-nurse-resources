@@ -105,7 +105,7 @@ ECG surface electrodes se cardiac electrical signals record karta hai. Nurse ski
 
 ### Q4. A patient has a deeply embedded object in a wound. Which first aid approach is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Push it deeper to stop movement
 - **B.** Apply direct pressure on its protruding end
@@ -132,7 +132,7 @@ Deeply embedded object wound ke andar injured tissue ya blood vessel ke against 
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q12](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q12](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q12-a-patient-has-a-deeply-embedded-object-in-a-wound-which-first-aid-approach-is-safest)
 
 ### Q5. Which practice prevents contamination during multidose vial access?
 
@@ -1353,7 +1353,7 @@ Indwelling catheter bladder se urine continuously drain karta hai. Home care mei
 
 ### Q44. An adult with severe choking becomes unresponsive. What is the appropriate transition?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Activate emergency help and begin CPR, checking for a visible object before breaths
 - **B.** Continue standing abdominal thrusts indefinitely
@@ -1382,7 +1382,7 @@ Jab severe choking wala adult unresponsive ho jaata hai toh emergency response a
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q10](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q10](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q10-an-adult-with-severe-choking-becomes-unresponsive-what-is-the-appropriate-transition)
 
 ### Q45. A patient has fragile skin and adhesive residue after dressing removal. Which action is safest?
 
@@ -1629,7 +1629,7 @@ Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube co
 
 ### Q53. Which finding is a clinical indication to assess whether airway suction is required?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A fixed schedule regardless of secretion findings
 - **B.** Normal quiet breathing with no secretion concern
@@ -1658,7 +1658,7 @@ Airway suction negative pressure se secretions remove karne ka procedure hai. Ja
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q11](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q11](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q11-which-finding-is-a-clinical-indication-to-assess-whether-airway-suction-is-required)
 
 ### Q54. A patient is confused, pulling at an IV and attempting to climb out of bed. Which intervention should be considered before routine restraint use?
 
@@ -1745,7 +1745,7 @@ Set point normal taraf aane par sweating heat loss support kar sakti hai. Nurse 
 
 ### Q57. A postoperative patient cannot cough effectively because of incisional pain. Which approach may support airway clearance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to suppress every cough
 - **B.** Assess pain and use prescribed analgesia and incision support with coached coughing
@@ -1772,11 +1772,11 @@ Incisional pain ki wajah se patient shallow breathing kar sakta hai aur cough su
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q10](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q10](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q10-a-postoperative-patient-cannot-cough-effectively-because-of-incisional-pain-which-approach-may-support-airway-clearance)
 
 ### Q58. A patient develops marked desaturation and bradycardia during airway suction. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Disconnect oxygen for the next attempt
 - **B.** Continue suction until all secretions are removed
@@ -1805,7 +1805,7 @@ Suction se airway gas temporarily remove ho sakti hai, aur airway stimulation va
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q12](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q12](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q12-a-patient-develops-marked-desaturation-and-bradycardia-during-airway-suction-what-should-the-nurse-do)
 
 ### Q59. A patient has severe malnutrition and is about to restart nutrition. Which electrolyte disturbance is particularly associated with refeeding syndrome?
 
@@ -2483,7 +2483,7 @@ Stoma surgically banaya gaya bowel opening hai. Healthy mucosa mein blood supply
 
 ### Q82. Which first aid action is appropriate for significant external bleeding from a limb?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Wash the wound continuously instead of controlling bleeding
 - **B.** Raise the limb only and ignore ongoing bleeding
@@ -2510,7 +2510,7 @@ External bleeding mein blood body se bahar nikal raha hota hai. Significant limb
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q11](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q11](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q11-which-first-aid-action-is-appropriate-for-significant-external-bleeding-from-a-limb)
 
 ### Q83. Which action is appropriate when a patient requires a physical restraint under applicable policy?
 
@@ -3310,7 +3310,7 @@ Circadian rhythm body ki internal clock hai jo sleep aur wakefulness timing regu
 
 ### Q108. A conscious adult cannot speak or cough effectively because of severe foreign-body airway obstruction. Which sequence is recommended in AHA 2025 adult guidance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Blind finger sweeps repeated until relief
 - **B.** Give water to wash the obstruction down
@@ -3339,7 +3339,7 @@ Severe foreign-body airway obstruction ka matlab hai object airflow ko itna bloc
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q9](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q9](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q9-a-conscious-adult-cannot-speak-or-cough-effectively-because-of-severe-foreign-body-airway-obstruction-which-sequence-is-recommended-in-aha-2025-adult-guidance)
 
 ### Q109. Which teaching objective is measurable and patient-centered?
 
@@ -3599,7 +3599,7 @@ Unexpected visible particles injectable product mein formulation defect, incompa
 
 ### Q118. What is the main purpose of an incentive spirometer after selected surgeries?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Deliver a fixed oxygen concentration
 - **B.** Measure arterial blood gases
@@ -3626,7 +3626,7 @@ Incentive spirometer ek feedback device hai jo patient ko slow deep inspiration 
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q9](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q9](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q9-what-is-the-main-purpose-of-an-incentive-spirometer-after-selected-surgeries)
 
 ### Q119. Which theorist is particularly associated with the Theory of Human Caring and carative or Caritas concepts?
 
