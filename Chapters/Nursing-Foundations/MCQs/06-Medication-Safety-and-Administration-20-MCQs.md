@@ -30,6 +30,10 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q2. Which check addresses the right patient during drug administration?
@@ -59,6 +63,10 @@ Right patient ka matlab actual person ko correct medication order se match karna
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
+
+**▶️ [YouTube MCQ practice — right patient, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
 
 </details>
 
@@ -90,6 +98,8 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q4. Which instruction is appropriate for a sublingual tablet specifically prescribed to dissolve under the tongue?
@@ -119,6 +129,8 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -150,6 +162,8 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q6. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
@@ -179,6 +193,8 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-for-enteral-tube-administration/)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -210,6 +226,8 @@ IV route medicine ko venous blood mein directly deliver karti hai. Absorption st
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — IV route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
 ### Q8. Which tissue layer is targeted in an intradermal injection?
@@ -239,6 +257,8 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -270,6 +290,8 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 [Clinical reference](https://www.cdc.gov/vaccines/hcp/administration/during.html)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — IM route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
 ### Q10. A nurse needs to administer a prescribed high-alert insulin dose. Which practice is appropriate?
@@ -299,6 +321,10 @@ Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyper
 
 [Clinical reference](https://www.ismp.org/system/files/resources/2024-01/ISMP_HighAlert_AcuteCare_List_010924_MS5760.pdf)
 <!-- /job5-rationale -->
+
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -330,6 +356,8 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q12. When should an administered medication normally be documented?
@@ -359,6 +387,10 @@ Medication administration record actual dose, route aur time reflect karna chahi
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 <!-- /job5-rationale -->
+
+**▶️ [YouTube MCQ practice — documentation, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
 
 </details>
 
@@ -390,6 +422,8 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q14. A nurse applies a replacement transdermal patch. Which check helps prevent an unintended excess dose?
@@ -419,6 +453,8 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-introduction)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -450,6 +486,8 @@ Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest kart
 [Clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q16. Which medication order element identifies how a drug is delivered into the body?
@@ -479,6 +517,8 @@ Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
+
+**▶️ [YouTube MCQ practice — right route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
 
 </details>
 
@@ -510,6 +550,10 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — dosage calculation, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
+
 </details>
 
 ### Q18. A prescription states 0.5 mg. Which notation best reduces decimal-related medication errors?
@@ -539,6 +583,10 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 [Clinical reference](https://www.ismp.org/system/files/resources/2024-04/ISMP_ErrorProneAbbreviation_List.pdf)
 <!-- /job5-rationale -->
+
+[Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
@@ -570,6 +618,8 @@ Medication reconciliation mein patient ki best possible current medication histo
 [Clinical reference](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
@@ -599,6 +649,8 @@ Hold parameter ek authorized instruction hai jo unsafe clinical finding par dose
 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
 </details>
 
