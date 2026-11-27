@@ -53,7 +53,9 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Mensuration 3D — surface area and volume](16-Mensuration-3D-Surface-Area-and-Volume.md) — 30 original questions and two reported adaptations.
 - [Data interpretation — tables and bar charts](17-Data-Interpretation-Tables-and-Bar-Charts.md) — 30 originals, one separately recorded provisional adaptation.
 - [Data interpretation — pie charts and line graphs](18-Data-Interpretation-Pie-Charts-and-Line-Graphs.md) — 30 originals, one retrieved reported adaptation.
-- Reasoning — number and alphabet series next.
+- [Number and alphabet series](19-Number-and-Alphabet-Series.md) — 30 originals, one reported JIPMER adaptation, earlier starter Q3 cross-linked without recounting.
+- [Coding and decoding](20-Coding-and-Decoding.md) — 30 originals, two reported adaptations.
+- Reasoning — analogy and classification next.
 - Individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
