@@ -156,6 +156,61 @@ Astigmatism mein cornea ya lens ki curvature different directions mein equal nah
 
 Regular astigmatism ko cylindrical spectacle lens ya toric contact lens se correct kiya ja sakta hai. Prescription mein CYL cylinder power batata hai aur AXIS uski orientation degrees mein batata hai. Sphere aur cylinder ek saath bhi prescribe ho sakte hain, kyunki astigmatism myopia ya hyperopia ke saath coexist kar sakta hai. Keratometry cornea ki curvature measure karti hai aur corneal topography surface curvature ka map deti hai. Irregular astigmatism mein specialist assessment zaroori hai.
 
+## Astigmatism expanded notes
+
+[24 additional originals](../MCQs/Astigmatism-Additional-24-MCQs.md) + six earlier Q13–18 in the [integrated bank](../MCQs/Refractive-Errors-30-MCQs.md) = 30 allocated originals.
+
+### Astigmatism types
+
+**🟠 HIGH YIELD**
+
+Regular astigmatism mein main two principal meridians perpendicular hote hain. Imagine karo ek meridian light ko zyada converge karta hai aur doosra kam. Isliye ek sharp point ki jagah two focal lines banti hain. Unke beech ki axial distance interval of Sturm hai. Ye specialist enrichment hai.
+
+| Type | Principal focal lines of relaxed eye |
+|---|---|
+| Simple myopic | One on retina, one anterior |
+| Compound myopic | Both anterior |
+| Simple hyperopic | One on retina, one posterior |
+| Compound hyperopic | Both posterior |
+| Mixed | One anterior, one posterior |
+
+With-the-rule corneal pattern mein vertical meridian comparatively steeper hota hai, against-the-rule mein horizontal. Oblique pattern mein principal direction tilted hoti hai. Corneal pattern aur spectacle axis ko interchangeable mat samjho.
+
+### Astigmatism clinical assessment
+
+**🔴 MOST IMPORTANT**
+
+Corneal scar ya keratoconus mein optical surface irregular ho sakti hai. Keratoconus mein cornea thin hokar protrude kar sakti hai. Young patient mein rapidly changing asymmetric cylinder, poor corrected acuity ya monocular ghosting ko routine prescription change assume mat karo. Comprehensive corneal evaluation chahiye. Vigorous eye rubbing avoid karne aur itch/allergy ka appropriate review karwane ko bolo. Selected progressive keratoconus mein cross-linking progression stabilize karne ka specialist treatment hai, perfect unaided vision ki guarantee nahi.
+
+Childhood mein significant uncorrected bilateral astigmatism visual development disturb kar sakti hai aur amblyopia risk badha sakti hai. Early correction aur follow-up important hain. Monocular ghosting ek eye cover karne par doosri symptomatic eye mein persist kar sakti hai. Optical irregularity, tear film ya lens problems possible hain. Binocular diplopia usually either eye cover karne par resolve hoti hai. New symptoms ka examination zaroori hai.
+
+Astigmatic dial lines ki unequal clarity assess karta hai. Jackson cross-cylinder subjective refraction mein cylinder power aur axis refine karne mein help karta hai. Ye trained clinician ke procedures hain. Nurse findings document aur referral coordinate karti hai.
+
+### Astigmatism cylinder optics
+
+**🟠 HIGH YIELD — specialist calculation enrichment**
+
+Cylinder axis ke along cylinder power zero hoti hai, perpendicular meridian mein full cylinder power hoti hai. Sphere dono principal powers mein add hota hai.
+
+![Original cylinder power cross](../Assets/astigmatism-power-cross.svg)
+
+Example: +1.00 DS / −2.00 DC × 180°. Axis 180 par +1 D, 90 par +1 − 2 = −1 D. Ye correction lens ka power cross hai, uncorrected eye ke focal points nahi.
+
+Transposition se same lens ko opposite cylinder notation mein likh sakte hain. New sphere = old sphere + old cylinder. New cylinder = old cylinder ka opposite sign. New axis = old axis se 90 degrees shift, 1–180 range mein normalize karo. Example: +2 DS / −1 DC × 180 becomes +1 DS / +1 DC × 90. Dono meridians ki total power verify karo. Actual prescription independently change nahi karni.
+
+### Astigmatism correction and care
+
+**🔴 MOST IMPORTANT**
+
+Regular astigmatism mein prescribed cylindrical spectacles ya toric contact lenses useful hain. Toric contact lens rotate kare toh axis alignment disturb ho sakti hai. Specialist fit review karta hai. Rigid gas-permeable lens aur tear layer selected irregular cornea mein smoother optical surface provide kar sakte hain. Scar remove nahi hota aur infection risk remain karta hai.
+
+New glasses mein persistent distortion ya headache ho toh optical power, axis aur fit verify karwao. Corneal ectasia mein routine LASIK suitable nahi ho sakti. Selected cataract surgery patients mein toric IOL corneal astigmatism reduce kar sakti hai, all spectacle needs remove hone ki guarantee nahi. Injury ke baad pain aur photophobia urgent assessment maangte hain.
+
+### Astigmatism learning resources
+
+Teaching: [Refractive Errors in Hindi — BSc Nursing/GNM](https://www.youtube.com/watch?v=4nOvszLGJas), indexed description names astigmatism. Dedicated practice: [MCQ - Refractive Errors and Accommodation](https://www.youtube.com/watch?v=v4QVL_v3ymY), indexed optometry description names astigmatism. Direct retrieval failed, channel and exact item coverage unconfirmed. No timestamps invented. Clinical support: [NEI types](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors/types-refractive-errors), [StatPearls astigmatism](https://www.ncbi.nlm.nih.gov/books/NBK582142/), [astigmatic dial](https://www.ncbi.nlm.nih.gov/books/NBK589695/), [AAO keratoconus](https://www.aao.org/eye-health/diseases/what-is-keratoconus). Direct NEI text and other search extracts reviewed.
+
+
 ## Presbyopia
 
 **🔴 MOST IMPORTANT**
@@ -170,6 +225,55 @@ Reading glasses mein plus near addition focusing demand kam karti hai. Bifocal m
 | Hyperopia | Relaxed focus retina ke peeche | Plus / convex |
 | Astigmatism | Directions mein different power | Cylinder / toric |
 | Presbyopia | Near accommodation kam | Plus near add, readers, bifocal/progressive as indicated |
+
+## Presbyopia expanded notes
+
+[25 additional originals](../MCQs/Presbyopia-Additional-25-MCQs.md) + five earlier Q19–23 in the [integrated bank](../MCQs/Refractive-Errors-30-MCQs.md) = 30 allocated originals.
+
+### Presbyopia mechanism
+
+**🔴 MOST IMPORTANT**
+
+Age ke saath natural lens ki flexibility kam hone par maximum accommodation decrease hoti hai. Near point yaani closest clear point gradually door move karta hai. Isliye text door karna ya bright light use karna temporary help de sakta hai. Bright light pupil constrict kar sakti hai, jisse depth of focus improve hoti hai. Lens ki aging reverse nahi hoti.
+
+Low myopic patient kabhi distance glasses remove karke read kar sakta hai kyunki uncorrected far point paas hota hai. Iska matlab presbyopia absent nahi hai. Corrected distance vision aur near function separate assess karo.
+
+![Original near-point and accommodation illustration](../Assets/presbyopia-near-point.svg)
+
+### Presbyopia near optics
+
+**🟠 HIGH YIELD**
+
+Distance-corrected eye aur idealized thin-lens model assume karo. Near demand D = 1 / distance in metres. 25 cm par 4 D, 40 cm par 2.5 D, 50 cm par 2 D. Near point 50 cm ho toh maximum amplitude approximately 2 D hai under same assumptions. Real near point testing method aur depth of focus se vary karti hai.
+
+Example: 40 cm task ki demand 2.5 D hai aur available accommodation 1 D hai. Theoretical minimum plus add 2.5 − 1 = +1.5 D. Sustained reading mein accommodative reserve important hai, isliye actual comfortable add clinician task aur examination se decide karta hai. Formula prescribing advice nahi hai. 25 cm standard textbook example hai, har healthy young adult ki actual near point fixed nahi hoti.
+
+### Presbyopia correction
+
+**🔴 MOST IMPORTANT**
+
+Single-vision readers near tasks ke liye hote hain. Distance signs blur hon toh near-only glasses se driving ya walking avoid karo. Bifocal mein distance aur near zones, conventional trifocal mein distance, intermediate aur near, progressive lens mein gradual change aur intermediate corridor hota hai. Task aur fit ke hisaab se choice decide hoti hai.
+
+Ready-made readers usually dono eyes mein equal spherical power deti hain. Cylinder ya unequal eye power mein individualized correction chahiye. Monovision mein ek eye distance aur doosri near ke liye optimize hoti hai. Binocular depth perception affect ho sakti hai, isliye trial aur work-related safety assessment important hain. Multifocal contact lenses elective fitting se pehle ocular surface health check karni hai. Multifocal glasses use karte waqt stair safety, handrail aur correct viewing zone explain karo. Persistent dizziness ya blur mein fitting review karwao.
+
+### Presbyopia clinical care
+
+**🔴 MOST IMPORTANT**
+
+Sudden near blur ko age alone se explain mat karo. Anticholinergic medicines accommodation reduce kar sakti hain. Diabetes ke metabolic changes refraction fluctuate kar sakte hain. New glare aur poor distance acuity mein cataract ya other ocular disease consider karo. Nurse medication history aur symptoms collect karke clinical review arrange karti hai, independent medicine change nahi karti.
+
+Selected adults mein specialist prescribed miotic drops near function improve kar sakti hain. Dim-light vision disturbance mein night driving avoid karo agar vision unsafe hai aur prescriber ko report karo. Pilocarpine product warning mein rare retinal tears aur detachments report hui hain. New flashes, floaters ya sudden vision loss mein urgent ophthalmic evaluation chahiye. No dosing advice. India mein product availability/approval independently verified nahi hai.
+
+### Presbyopia functional nursing
+
+**🔴 MOST IMPORTANT**
+
+Near vision medicine label reading, stitching, grain sorting, phone use aur daily activities affect kar sakti hai. Clear large print, adequate lighting, teach-back aur prescribed correction se patient safety improve karo. Community program mein sirf glasses distribution count nahi, actual task performance aur follow-up evaluate karo. Appropriate correction ke baad bhi low vision ho toh accessible formats aur low-vision rehabilitation consider karo.
+
+### Presbyopia learning resources
+
+Teaching: [Refractive Errors in Hindi — BSc Nursing/GNM](https://www.youtube.com/watch?v=4nOvszLGJas), indexed description. Dedicated practice: [Presbyopia - Learn By MCQ](https://www.youtube.com/watch?v=IfjHwXoDSIU), indexed description mentions age-related lens hardening. Direct retrieval failed, creator and exact item coverage unconfirmed. Numerical and safety practice gaps remain. [NEI presbyopia](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/presbyopia) directly retrieved, [AAO presbyopia](https://www.aao.org/eye-health/glasses-contacts/what-is-presbyopia), [prescribing glasses](https://www.ncbi.nlm.nih.gov/books/NBK589644/), [DailyMed VUITY warnings](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8d806897-8a2a-4518-8c68-0ec3b778de50) search extracts reviewed.
+
 
 ## Lens power aur numericals
 
