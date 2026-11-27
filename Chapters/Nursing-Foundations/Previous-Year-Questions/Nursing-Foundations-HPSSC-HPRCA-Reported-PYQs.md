@@ -57,7 +57,7 @@ Lithotomy position mein patient peeth ke bal leti hai. Hips aur knees flexed reh
 
 ### PYQ3. Which direct measure helps relieve sustained pressure in a bedbound patient at risk of pressure injury?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q9
+**🔵 Reported exam adaptation:** HPSSC Staff Nurse 2021, Series A, post code 892, Q9 · third-party source retrieved, official key pending
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
