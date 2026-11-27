@@ -30,3 +30,11 @@ Dedicated teaching and question-solving video pairs for all 30 topics remain unv
 - [Osmosis — Vital signs: oxygen saturation](https://www.osmosis.org/learn/Vital_signs_-_Oxygen_saturation_%28SpO2%29%3A_Nursing_skills), supplemental teaching, not YouTube.
 
 Dedicated oximetry MCQ-solving video unconfirmed. Related practice not a verified exact question match. No full video transcript or timestamp confirmed. Examination [teaching](https://www.youtube.com/watch?v=yTebyL3FrGY) and [#studyroom31 MCQ practice](https://www.youtube.com/watch?v=aTGm3WCiS9w) indexed leads for next package.
+
+
+## Groups 03E and 04A video mapping
+
+- [Physical examination teaching](https://www.youtube.com/watch?v=yTebyL3FrGY) and [#studyroom31 assessment MCQ practice](https://www.youtube.com/watch?v=aTGm3WCiS9w), [Q1–27](../MCQs/03E-Physical-Examination-27-MCQs.md), indexed subject only, playback and timestamps pending.
+- [VITAL SUPPORT SAS — Morse Scale | Fall Risk Assessment](https://www.youtube.com/watch?v=2avAZyfN1d0), teaching Q1–4 of [fall risk bank](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md), indexed scale components and exercises.
+- [VS Nursing Academy, Ritika Mam — Patient Safety and Positioning MCQ Sessions](https://www.youtube.com/watch?v=SISfTMUsLHg), related risk-prevention practice Q5–24, exact fall questions, dedicated fall MCQ video, playback and timestamps pending.
+- [AHRQ Fall TIPS](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html) · [Open RN Safety](https://www.ncbi.nlm.nih.gov/books/NBK610816/) · [World falls guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/).
