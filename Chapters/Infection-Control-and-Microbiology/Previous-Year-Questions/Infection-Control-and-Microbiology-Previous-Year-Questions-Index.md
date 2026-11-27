@@ -60,4 +60,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [CAUTI reported exam practice](CAUTI-Reported-PYQs.md): one retrieved RRB March 2026 closed drainage adaptation. Other indexed leads excluded pending full retrieval and overlap review.
 
-**Current total: 54 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[CLABSI reported exam practice](CLABSI-Reported-PYQs.md): one retrieved AIIMS Bhopal 2018 shift II adaptation. Other recalled and indexed leads excluded pending clinical and source verification.
+
+**Current total: 55 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
