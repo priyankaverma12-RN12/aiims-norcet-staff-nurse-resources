@@ -4,7 +4,7 @@
 
 ### Q1. A prescription is for 750 mg of a drug available as 250 mg tablets. How many tablets are required?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 2 tablets
 - **B.** 0.33 tablet
@@ -36,7 +36,7 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 
 ### Q2. A prescribed dose is 0.25 g. The available tablet contains 125 mg. How many tablets are needed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 4 tablets
 - **B.** 1 tablet
@@ -68,7 +68,7 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 
 ### Q3. A drug is supplied as 50 mg/mL and the prescribed dose is 35 mg. Which volume is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 0.07 mL
 - **B.** 0.7 mL
@@ -100,7 +100,7 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 ### Q4. A vial contains 1 g after reconstitution to a final volume of 10 mL. What volume contains 300 mg?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 3 mL
 - **B.** 0.3 mL
@@ -132,7 +132,7 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 ### Q5. A 20-kg child is prescribed 10 mg/kg per dose of a drug. What is the calculated dose per administration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 200 mg
 - **B.** 20 mg
@@ -166,7 +166,7 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 ### Q6. A 24-kg child has a prescription for 30 mg/kg/day divided into three equal doses. What is the amount per dose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 720 mg
 - **B.** 80 mg
@@ -200,7 +200,7 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 ### Q7. An order specifies 500 mL IV fluid over 4 hours using an infusion pump. What is the programmed rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 2000 mL/hour
 - **B.** 50 mL/hour
@@ -232,7 +232,7 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 ### Q8. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPSSSB Staff Nurse October 2020 — related calculation concept only](https://testbook.com/question-answer/infusion-of-1000-ml-of-ns-over-12-hrs-require-how--61b9b9238f094c8109585eb0)** · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related calculation concept only](https://testbook.com/question-answer/a-patient-is-ordered-to-receive-500-ml-of-0-9-nor--692eeb0485d5af5dbcd0885a)**
 
 - **A.** 250 gtt/min
 - **B.** 42 gtt/min
@@ -264,7 +264,7 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 ### Q9. A 100-mL infusion is prescribed over 30 minutes using tubing with a drop factor of 15 gtt/mL. What is the calculated rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS NORCET 6 Prelims 2024 — related calculation concept only](https://testbook.com/question-answer/cefuroxime-sodium-1-g-in-50-ml-normal-saline-ns--662a4a4407433d7a1b2a241b)**
 
 - **A.** 15 gtt/min
 - **B.** 50 gtt/min
@@ -296,7 +296,7 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 ### Q10. A microdrip set has a drop factor of 60 gtt/mL. The ordered rate is 80 mL/hour. What is the gravity drip rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 80 gtt/min
 - **B.** 48 gtt/min
@@ -328,7 +328,7 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 ### Q11. A 1-L bag has 350 mL remaining and the pump is running at 100 mL/hour. How long until the remaining volume is infused, assuming no interruption?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 6 hours 30 minutes
 - **B.** 35 minutes
@@ -360,7 +360,7 @@ Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 
 
 ### Q12. A patient receives 200 mL oral fluid, 350 mL IV fluid and 150 mL enteral water during a shift. What is total documented intake?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 500 mL
 - **B.** 350 mL
@@ -392,7 +392,7 @@ Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Re
 
 ### Q13. A patient has measured intake 1800 mL and output 2100 mL. What is the recorded net fluid balance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 3900 mL
 - **B.** 0 mL
@@ -424,7 +424,7 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 
 ### Q14. An order specifies 150 micrograms of a drug. Which value is equivalent in milligrams?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 150 mg
 - **B.** 0.15 mg
@@ -456,7 +456,7 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 
 ### Q15. A liquid contains 2 mg in 4 mL. The required dose is 0.75 mg. What is the calculated volume?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 1.5 mL
 - **B.** 0.75 mL
@@ -488,7 +488,7 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 ### Q16. A solution is labeled 0.9% weight/volume sodium chloride. How much sodium chloride is present in 500 mL?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 0.45 g
 - **B.** 9 g
@@ -520,7 +520,7 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 ### Q17. A 10% weight/volume glucose solution is supplied in a 250-mL container. How many grams of glucose does it contain?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 10 g
 - **B.** 2.5 g
@@ -552,7 +552,7 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 ### Q18. A prescription is written as 2 mg/kg for a patient weighing 66 lb. Using 2.2 lb/kg, what is the calculated dose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 30 mg
 - **B.** 145 mg
@@ -586,7 +586,7 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 
 ### Q19. A nurse calculates a dose of 1.2 mL and has a 1-mL syringe available. Which approach is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Estimate the additional volume by eye
 - **B.** Select a suitable calibrated syringe that can accurately measure the full ordered volume
@@ -618,7 +618,7 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 
 ### Q20. An infusion calculation yields a result ten times greater than the expected rate. What should the nurse do before programming the pump?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Recheck the order, unit conversions and calculation and obtain required verification
 - **B.** Program the rate because arithmetic can never be wrong
@@ -652,3 +652,8 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [OpenStax medication administration](https://openstax.org/books/fundamentals-nursing/pages/11-3-the-medication-administration-process) · [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
 
 Follow facility protocols, current orders and professional scope.
+
+
+## ▶️ Historical and practice evidence recheck — 27 November 2026
+
+The three newly linked third-party reports test gravity drip-rate calculation with different values. Their reported numerical keys were checked using volume × drop factor ÷ minutes. No official answer key authenticated. Q8 and Q9 remain original practice. The earlier video links and six specific gaps remain unchanged. [Mission High — Tarun Sir drug dose calculation MCQ session](https://www.youtube.com/watch?v=cxa4BaV2m8A) has an indexed description confirming general dosage MCQ practice, but direct retrieval failed and specific item coverage is unverified. HPRCA post code 26004 final-key listing is indexed at the [official notice page](https://hprca.hp.gov.in/homepage?id=2). No item-level calculation match verified from the March 2026 transcript. No new counted historical question.
