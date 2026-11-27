@@ -295,9 +295,22 @@ DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unil
 
 **Correct: D. Give one actuation at a time and inhale using the taught device technique**
 
-Spacer aerosol ko inhale karne ka time deta hai. One puff at a time aur correct technique effective delivery support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Multiple simultaneous puffs aur incorrect exhalation drug delivery reduce kar sakte hain. Reassessment useful hai.
+Metered-dose inhaler ya MDI measured aerosol puff release karta hai. Compatible spacer medicine ko temporary chamber mein hold karke actuation aur inhalation coordinate karne mein help karta hai. One actuation at a time aur device-specific breathing instructions follow karna important hai. Har patient ki technique periodically observe karo. All inhaler types spacer-compatible nahi hote.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Multiple puffs chamber mein ek saath spray karne se aerosol deposition aur delivered dose variability badh sakti hai.
+- **B (Galat):** Technique errors time ke saath develop ho sakte hain. Reassessment aur demonstration useful hain.
+- **C (Galat):** Actuation ke waqt spacer mein exhale karne se intended aerosol inhalation disrupt ho sakti hai.
+- **D (Sahi):** Single actuation aur taught compatible-device technique lung delivery support karte hain.
+
+**Exam clue:** Compatible MDI spacer: one puff at a time, assess technique.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -773,9 +786,22 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 
 **Correct: C. Gently pull the pinna upward and backward**
 
-Adult pinna ko gently up-back move karne se canal straighten ho sakti hai. Young children mein technique age-specific hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Downward technique small children mein relevant ho sakti hai. Forceful movement appropriate nahi hai.
+Adult external auditory canal curved hota hai. Pinna ko gently upward aur backward move karne se canal relatively straighten ho sakta hai aur prescribed drops ka passage improve hota hai. Infants aur young children mein anatomical technique age-specific hoti hai. Force avoid karo aur dropper tip ko canal ke andar deep insert mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Downward and forward pulling adult routine technique nahi hai.
+- **B (Galat):** Pinna inward push karne se canal access improve nahi hota aur discomfort ho sakta hai.
+- **C (Sahi):** Gentle upward-backward traction adult ear-drop administration ka conventional approach hai.
+- **D (Galat):** Forceful downward pulling unnecessary trauma kar sakti hai. Pediatric technique bhi gentle hoti hai.
+
+**Exam clue:** Adult ear: up and back, gentle traction.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/14-2-administering-ear-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1031,9 +1057,22 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 **Correct: A. Drug, dose, route, site, actual time and relevant response**
 
-Accurate injection record future doses, site rotation aur adverse reactions track karne mein help karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Prescribed time, syringe size ya ward name alone actual administration describe nahi karte.
+Injection documentation se team ko actual administered treatment aur patient response ka reliable record milta hai. Drug name, dose, route, site, actual administration time aur relevant response record karo. Vaccine ya special products mein required batch/lot information bhi policy ke hisaab se record ho sakti hai. Omitted, refused ya adverse reaction events accurately document aur communicate karo. Pre-charting actual administration ka substitute nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Drug, dose, route, site, time aur response traceability, site rotation aur follow-up support karte hain.
+- **B (Galat):** Syringe size administered medicine, dose aur route establish nahi karti.
+- **C (Galat):** Prescribed time actual administration ka time prove nahi karta.
+- **D (Galat):** Ward name location batata hai, patient-specific treatment details nahi.
+
+**Exam clue:** Record actual administration and response, not only planned details.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3109,9 +3148,22 @@ Bowel documentation patient ka usual pattern aur current changes compare karne m
 
 **Correct: D. Assess bleeding and tissue status, apply suitable pressure and seek review**
 
-Anticoagulation bleeding risk badha sakti hai. Nurse hematoma size, pain aur circulation assess karke timely review leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage aur repeat injection tissue injury badha sakte hain. Enlarging swelling ignore nahi karni chahiye.
+Hematoma ka matlab tissue mein blood collect hona hai. Anticoagulant therapy clotting ability affect kar sakti hai, isliye injection ke baad enlarging swelling ongoing bleeding ka clue ho sakti hai. Nurse size, pain, skin, distal sensation aur circulation assess karti hai. Suitable local pressure aur prompt clinical review arrange karo. Rapid expansion, severe pain, numbness, perfusion change ya systemic instability urgent escalation maangte hain. Anticoagulant medicine khud se stop ya change mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vigorous massage local tissue trauma aur bleeding worsen kar sakti hai.
+- **B (Galat):** Enlarging hematoma ko ignore karne se ongoing bleeding ya tissue compression miss ho sakti hai.
+- **C (Galat):** Swollen abnormal site mein repeat injection further injury aur medication delivery problems cause kar sakti hai.
+- **D (Sahi):** Assessment, appropriate pressure aur prompt review possible bleeding complication address karte hain.
+
+**Exam clue:** Expanding hematoma: assess perfusion, control bleeding, escalate.
+
+**Clinical references:** [Clinical reference 1](https://sps.nhs.uk/articles/using-intramuscular-injections-in-people-on-oral-anticoagulants/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
