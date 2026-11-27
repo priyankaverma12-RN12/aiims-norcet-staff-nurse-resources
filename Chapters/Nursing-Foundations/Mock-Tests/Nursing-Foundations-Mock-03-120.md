@@ -419,10 +419,20 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 
 **Correct: C. Incomplete bladder emptying**
 
-Postvoid residual bladder mein urination ke baad bacha urine hai. Large residual incomplete emptying suggest kar sakta hai aur clinical review chahiye.
+Patient ne 100 mL urine pass kiya, lekin baar-baar scan par large PVR mil raha hai. Iska matlab hai ki urine nikalne ke baad bhi bladder poori tarah empty nahi ho raha. Obstruction, bladder muscle weakness ya medicines jaise causes assess kiye ja sakte hain. Ek universal PVR cutoff har patient par apply mat karo.
 
-**Baaki options kyun sahi nahi hain?** Voided amount alone complete emptying prove nahi karta. Anuria urine absence hai. Residual kidney filtration rate nahi batata.
+**Har option ka reason**
 
+- **A (Galat):** Residual volume bladder emptying ka measure hai, glomerular filtration ka direct measure nahi hai.
+- **B (Galat):** Sirf 100 mL voided volume se complete emptying establish nahi hoti, kyunki residual bhi important hai.
+- **C (Sahi):** Repeated large residual incomplete bladder emptying suggest karta hai aur further assessment chahiye.
+- **D (Galat):** Anuria mein urine production bahut kam ya absent hoti hai. Patient ne urine pass kiya aur bladder mein urine bacha hai, isliye is finding se anuria prove nahi hoti.
+
+**Exam clue:** Voided volume plus PVR tells how well the bladder empties.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q10](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -858,10 +868,20 @@ No output with swelling obstruction ya fluid collection suggest kar sakta hai. N
 
 **Correct: D. Discard the initial 7 AM void, then collect all urine including the final 7 AM void next day**
 
-Initial bladder emptying collection start define karti hai. Uske baad next 24 hours ka saara urine include karna hota hai, including end-time void. Lab storage directions follow karni hain.
+Timed collection ka purpose ek fixed 24-hour interval mein excreted substance measure karna hai. Day 1 par 7 AM ka urine discard karke bladder empty karte hain, taaki collection exactly us waqt se start ho. Iske baad har void collect hota hai aur day 2 par 7 AM ka final void bhi include hota hai. Storage, preservative aur missed sample ke liye laboratory instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** First preperiod urine include karna aur final omit karna timing distort karta hai. Missing voids result inaccurate kar sakti hain.
+**Har option ka reason**
 
+- **A (Galat):** Sirf raat ka urine collect karna poore din ki excretion nahi batata.
+- **B (Galat):** Initial urine mein start se pehle ka urine bhi hota hai aur last void omit karne se measured interval galat ho jaata hai.
+- **C (Galat):** Large volume bhi total ka part hai. Use discard karne se measured excretion falsely low ho sakti hai.
+- **D (Sahi):** Start-time void discard aur end-time void include karne se poore 24 ghante ka urine milta hai.
+
+**Exam clue:** Start empty, collect all, finish empty at exact end time.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q12](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -2578,10 +2598,20 @@ Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 
 
 **Correct: A. Bladder ultrasound scanner**
 
-Bladder scanner ultrasound se bladder volume estimate karta hai. Postvoid residual assessment retention identify karne mein help karti hai.
+Postvoid residual ya PVR urine pass karne ke baad bladder mein bachi quantity hai. Bladder scanner ultrasound waves se volume ka estimate deta hai aur invasive catheterization ke bina retention screen karne mein help karta hai. Result ko symptoms aur clinical context ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Pulse oximeter oxygen saturation, glucometer glucose aur peak flow meter expiratory airflow measure karta hai.
+**Har option ka reason**
 
+- **A (Sahi):** Bladder ultrasound scanner urine ke bache volume ka noninvasive estimate deta hai.
+- **B (Galat):** Pulse oximeter blood oxygen saturation estimate karta hai, bladder volume nahi.
+- **C (Galat):** Peak flow meter saans bahar nikaalne ki maximum flow rate measure karta hai.
+- **D (Galat):** Glucometer blood glucose measure karta hai.
+
+**Exam clue:** PVR = bladder volume after voiding, not urine production.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q9](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -2916,10 +2946,20 @@ RBC rupture se intracellular potassium sample mein release hota hai. Result fals
 
 **Correct: D. Begin voiding, then collect the middle portion without touching the inside of the container**
 
-Midstream technique urethral aur skin contamination reduce karne mein help karti hai. Sterile container interior clean rakhna important hai.
+Clean-catch sample ka goal urine mein surrounding skin ke germs milne ka risk kam karna hai. Patient ko facility instructions ke mutabik genital hygiene samjhao, first portion toilet mein jaane do aur middle portion sterile container mein collect karvao. Container ke andar ya lid ke inner surface ko touch nahi karna chahiye.
 
-**Baaki options kyun sahi nahi hain?** First drops contaminants carry kar sakti hain. Interior touch aur toilet collection specimen contaminate kar sakte hain.
+**Har option ka reason**
 
+- **A (Galat):** Toilet bowl ka water aur microorganisms sample contaminate kar sakte hain.
+- **B (Galat):** First drops mein urethral surface ke contaminants aa sakte hain aur unclean cup result ko unreliable banata hai.
+- **C (Galat):** Container ka andar touch karne se skin organisms specimen mein aa sakte hain.
+- **D (Sahi):** Midstream collection aur container interior untouched rakhne se contamination kam hoti hai.
+
+**Exam clue:** Midstream clean-catch = middle stream, sterile cup, no interior touch.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q11](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
