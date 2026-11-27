@@ -510,7 +510,7 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 ### Q15. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Transfusion-related acute lung injury
 - **B.** A normal post-transfusion change
@@ -542,7 +542,7 @@ TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q6-a-patient-develops-acute-hypoxemia-and-bilateral-lung-infiltrates-during-or-within-hours-of-transfusion-without-clear-circulatory-overload-which-complication-should-be-considered)
 
 ### Q16. Before accessing a needleless IV connector, which action reduces infection risk?
 
@@ -688,7 +688,7 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 ### Q20. Which term describes fever fluctuating above normal without returning to normal during the observed period?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Intermittent fever
 - **B.** Hypothermia
@@ -718,7 +718,7 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q7-which-term-describes-fever-fluctuating-above-normal-without-returning-to-normal-during-the-observed-period)
 
 ## Block 2
 
@@ -1367,7 +1367,7 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 ### Q40. A patient with suspected fever has shaking chills while temperature is rising. Which explanation is most accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Shivering always means the core temperature is normal
 - **B.** Shivering indicates that body heat production has ceased
@@ -1397,7 +1397,7 @@ Fever ki onset mein hypothalamus higher set point establish karta hai. Body ka a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q5-a-patient-with-suspected-fever-has-shaking-chills-while-temperature-is-rising-which-explanation-is-most-accurate)
 
 ## Block 3
 
@@ -1884,7 +1884,7 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 ### Q57. Why should a medication not be added directly to a blood component bag?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It may be incompatible, contaminate the product or cause a dosing or identification error
 - **B.** All drugs are guaranteed compatible with red cells
@@ -1916,7 +1916,7 @@ Blood component ek carefully prepared biological product hai. Direct medicine ad
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q8-why-should-a-medication-not-be-added-directly-to-a-blood-component-bag)
 
 ### Q58. Why should rescuers allow complete chest recoil between compressions?
 
@@ -2257,7 +2257,7 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 ### Q68. During transfusion an older patient develops dyspnea, hypertension and signs of volume overload. Which complication is particularly relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 6 Prelims, 2024 — related reported concept**
 
 - **A.** An uncomplicated vasovagal reaction
 - **B.** Expected therapeutic response
@@ -2285,11 +2285,13 @@ TACO ka full form transfusion-associated circulatory overload hai. Transfused vo
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — circulatory overload versus septicemia, Nursing Wallah by PW (25:21)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1521s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [NORCET 6 Prelims 2024 memory-based report](https://testbook.com/question-answer/after-blood-transfusion-sign-and-symptom-of-circu--662a478cb5c94215148dee68). Is report mein transfusion ke baad circulatory overload ke findings poochhe gaye hain. Official paper aur key authenticate nahi hue hain. Yeh original question related concept test karta hai.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q5-during-transfusion-an-older-patient-develops-dyspnea-hypertension-and-signs-of-volume-overload-which-complication-is-particularly-relevant)
 
 ### Q69. A patient wears removable dentures. Which action protects the dentures during cleaning?
 
@@ -2900,7 +2902,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 ### Q89. Which IV fluid is conventionally compatible with standard red-cell administration, subject to blood bank policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 0.9% sodium chloride
 - **B.** 5% dextrose as the universal compatible solution
@@ -2932,7 +2934,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q7-which-iv-fluid-is-conventionally-compatible-with-standard-red-cell-administration-subject-to-blood-bank-policy)
 
 ### Q90. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
 
@@ -3543,7 +3545,7 @@ New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust 
 
 ### Q109. A patient has a temperature of 35°C after prolonged cold exposure and is becoming confused. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Encourage vigorous exercise without assessment
 - **B.** Give alcohol to increase warmth
@@ -3573,7 +3575,7 @@ Cold exposure aur confusion ke saath 35°C reading concerning hai, chahe exact c
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q8-a-patient-has-a-temperature-of-35c-after-prolonged-cold-exposure-and-is-becoming-confused-which-approach-is-appropriate)
 
 ### Q110. A frail patient is prescribed an enema and has severe renal impairment. Which safety check is important?
 
@@ -3784,7 +3786,7 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 ### Q117. Which temperature pattern returns to normal at least once in a 24-hour period despite fever spikes?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 1 September 2020 — related reported concept**
 
 - **A.** Remittent fever that never reaches normal
 - **B.** Continuous fever
@@ -3816,7 +3818,7 @@ Intermittent fever mein high temperature ke periods ke beech temperature normal 
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q6-which-temperature-pattern-returns-to-normal-at-least-once-in-a-24-hour-period-despite-fever-spikes)
 
 ### Q118. Which tissue layer is targeted in an intradermal injection?
 
