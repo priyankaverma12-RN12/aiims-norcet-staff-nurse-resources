@@ -599,7 +599,7 @@ Wet sterile drape ke through nonsterile surface se microorganisms transfer ho sa
 
 ### Q20. Which direction is generally appropriate when cleansing a simple clean incision using separate swabs?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** From cleaner to less clean areas
 - **B.** Scrubbing vigorously in every case
@@ -629,13 +629,13 @@ Simple clean incision ki suture line comparatively least contaminated area hoti 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q3](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q3](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q3-which-direction-is-generally-appropriate-when-cleansing-a-simple-clean-incision-using-separate-swabs)
 
 ## Block 2
 
 ### Q21. When should a specimen be labeled according to bedside identification policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** After the result returns
 - **B.** Before identifying the patient
@@ -665,7 +665,7 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q2](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q2](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q2-when-should-a-specimen-be-labeled-according-to-bedside-identification-policy)
 
 ### Q22. Which nursing theorist emphasized environmental conditions such as ventilation, cleanliness and light in promoting healing?
 
@@ -1763,7 +1763,7 @@ Therapeutic communication ka purpose patient ko safe environment dena hai jahan 
 
 ### Q55. What is the purpose of an appropriately selected wound dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Prevent all wound inspection
 - **B.** Keep every wound completely dry
@@ -1793,7 +1793,7 @@ Dressing wound ko cover karne wali protective material hai. Exudate wound se nik
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q1](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q1](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q1-what-is-the-purpose-of-an-appropriately-selected-wound-dressing)
 
 ### Q56. Which information is essential during medication reconciliation at admission?
 
@@ -1859,7 +1859,7 @@ New severe abdominal pain serious illness ka symptom ho sakta hai, even jab hear
 
 ### Q58. A dressing adheres to fragile granulation tissue. What is the safest removal approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use an unapproved solvent
 - **B.** Cut blindly into the wound
@@ -1889,11 +1889,11 @@ Granulation tissue naya vascular healing tissue hai. Adhered dressing ko force s
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q4](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q4](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q4-a-dressing-adheres-to-fragile-granulation-tissue-what-is-the-safest-removal-approach)
 
 ### Q59. Two unlabeled blood specimens are found beside different patients. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Label by nearest bed
 - **B.** Follow rejection or recollection policy without guessing identity
@@ -1923,7 +1923,7 @@ Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se li
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q1](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q1](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q1-two-unlabeled-blood-specimens-are-found-beside-different-patients-what-should-the-nurse-do)
 
 ### Q60. Which muscle is commonly used for an adult IM vaccine when muscle mass is adequate?
 
@@ -2479,7 +2479,7 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 ### Q76. A surgical dressing rapidly saturates with fresh blood and the patient's pulse rises. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait until the scheduled dressing round
 - **B.** Change the dressing without checking vital signs
@@ -2509,7 +2509,7 @@ Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood l
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q2](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q2](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q2-a-surgical-dressing-rapidly-saturates-with-fresh-blood-and-the-patients-pulse-rises-what-takes-priority)
 
 ### Q77. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
@@ -3470,7 +3470,7 @@ New consciousness change aur unequal pupils intracranial injury ka warning sign 
 
 ### Q108. What reduces blood culture contamination?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave bottle tops exposed
 - **B.** Palpate the prepared site with unclean fingers
@@ -3500,11 +3500,11 @@ Blood culture blood mein bacteria ya fungi detect karne ke liye hoti hai. Skin p
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q3](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q3](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q3-what-reduces-blood-culture-contamination)
 
 ### Q109. In suspected sepsis, when should ordered blood cultures be collected relative to urgent antibiotics?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Never when antibiotics are ordered
 - **B.** Several hours before antibiotics even if unstable
@@ -3534,7 +3534,7 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q4](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q4](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q4-in-suspected-sepsis-when-should-ordered-blood-cultures-be-collected-relative-to-urgent-antibiotics)
 
 ### Q110. During a medication round, a patient has a newly low blood pressure and is due for an antihypertensive. What is the safest first step?
 
