@@ -61,7 +61,9 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Direction Sense](24-Direction-Sense.md) — 30 original questions, three reported adaptations.
 - [Syllogism](25-Syllogism.md) — 30 original questions, one reported adaptation.
 - [Ordering and Ranking](26-Ordering-and-Ranking.md) — 30 original questions, two reported adaptations.
-- Seating arrangement (linear, then circular) — next.
+- [Linear Seating Arrangement](27-Linear-Seating-Arrangement.md) — 30 original questions in ten puzzle sets, one separately recorded collection adaptation.
+- [Circular Seating Arrangement](28-Circular-Seating-Arrangement.md) — 30 original questions in ten puzzle sets, one retrieved reported RRB 2025 adaptation and one collection adaptation excluded from historical counts.
+- Floor-based puzzles, then scheduling and arrangement puzzles — next.
 - Individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
