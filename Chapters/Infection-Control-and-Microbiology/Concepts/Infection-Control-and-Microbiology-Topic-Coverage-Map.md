@@ -52,7 +52,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 12. Mycobacteria and tuberculosis — 40 original MCQs published
 - 13. Anaerobes and spore-forming pathogens — 40 original MCQs published
 - 14. Spirochetes, atypical bacteria and rickettsiae — 40 original MCQs published
-- 15. Viruses and viral replication — pending
+- 15. Viruses and viral replication — [40 original MCQs](../MCQs/15-Viruses-and-Viral-Replication-40-MCQs.md) and [concepts](15-Viruses-and-Viral-Replication.md)
 - 16. Bloodborne and hepatitis viruses, HIV — pending
 - 17. Respiratory, enteric and vaccine-preventable viruses — pending
 - 18. Medical mycology and opportunistic fungi — pending
