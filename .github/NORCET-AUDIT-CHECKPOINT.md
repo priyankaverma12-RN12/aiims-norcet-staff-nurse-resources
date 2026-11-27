@@ -1,8 +1,8 @@
 # Job 3 — deep audit checkpoint
 
-State: CLAIMED
-Owner: audit-20261127-042402-day01mock
-Scope: Respiratory Day-01-Final-Mock-15.md only
-Expiry UTC: 2026-11-27T04:54:02Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
-Latest: Day-01-Complete-Respiratory-Anatomy-Physiology.md MCQ bank Q1–44 clinical and rationale review, commit 363f278686d0d2dd3c83d9260da4a3c62250495a. All 44 existing stems/options and keys retained, 44 hidden answers and five hints verified, 12 difficulty regrades, six revision overlap flags, stale title corrected. Cumulative 96 question-level clinical rationale reviews, not full exam certification. Learning log commit a5ee33d45a31d1dda04a8bad328f5ec0fd8b78bf. Next: Respiratory Day-01-Final-Mock-15.md Q1 onward, then Day 2 bank and other respiratory files. HPSSC source text Q3 retrieved, screenshot and official key pending; revisit PYQ file evidence when scope claimed. Exact curriculum depth, comprehensive historical matching, video transcript verification, full semantic duplicate audit and missing-topic additions remain pending. No new question count. Recheck all work claims, skills and audit learnings before next scope. No chapter certified complete.
+Latest: Day-01-Final-Mock-15.md Q1–15 clinical and rationale corrections, verified commit 82f6def8658a7dd92ae6cef9b241cb7c0c1ee28e. All 15 original stems/options/keys, scoring and 15 hidden blocks preserved. Three difficulty regrades, 13 revision mappings, no exact normalized stem matches within mock or against Day 1 bank. Cumulative 111 question-level clinical rationale reviews. Learning log commit c8def7833d1ffa894ab1da74fe31f63528907a35. Next: Day-02-Complete-Respiratory-Assessment-Diagnostics.md MCQs Q1 onward, inspect actual count and format before edits. Then remaining banks, full mocks, concepts and PYQs. INC respiratory curriculum text retrieved, screenshot retrieval failed; HPSSC source Q3 confirmed in extracted text, screenshot and official key unavailable. Video transcripts, full historical verification, missing-topic additions and comprehensive semantic reconciliation pending. No new authored count. Recheck all claims, skills and learnings before next scope. No chapter certified complete.
