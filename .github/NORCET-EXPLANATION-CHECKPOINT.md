@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run45-20261127-1829
-Scope: Group22 matching staged legacy rationale integration in Mock01–05 only. No metadata, new questions or indexes.
+Scope: Group22 legacy integration verified. Group07C/08A/08B existing question review and Group23 original and matching legacy rationales only. No metadata, new questions or indexes.
 Claimed UTC: 2026-11-27T18:29:00Z
 Expiry UTC: 2026-11-27T18:59:00Z
 
