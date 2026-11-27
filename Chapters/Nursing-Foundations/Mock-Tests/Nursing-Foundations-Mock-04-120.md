@@ -322,9 +322,22 @@ Partial assistance patient ki independence aur dignity maintain karne mein help 
 
 **Correct: C. A catheter is inserted to drain the bladder and then removed at scheduled or indicated times**
 
-Intermittent catheterization bladder empty karne ke baad device remove kar deti hai. Frequency patient needs aur prescription se decide hoti hai.
+Intermittent catheterization mein catheter ko required interval par bladder drain karne ke liye insert kiya jaata hai aur drainage ke baad nikaal diya jaata hai. Isse continuously indwelling device ki zarurat kuch patients mein kam ho sakti hai. Frequency, technique aur training patient aur setting par depend karte hain.
 
-**Baaki options kyun sahi nahi hain?** Continuous retention indwelling catheter hai. Ureter access separate procedure hai. Intermittent method bladder emptying ke liye hoti hai.
+**Har option ka reason**
+
+- **A (Galat):** Is technique ka purpose bladder empty karna hai, emptying rokna nahi.
+- **B (Galat):** Skin se ureter ya kidney tak drainage access ek alag procedure hai, routine intermittent bladder catheterization nahi.
+- **C (Sahi):** Required interval par insertion, drainage aur removal is method ki defining feature hai.
+- **D (Galat):** Weeks tak continuously rehne wali catheter indwelling catheter hoti hai.
+
+**Exam clue:** Intermittent = insert, drain, remove. Indwelling = stays in place.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -495,9 +508,22 @@ New leakage aur external catheter position change displacement ya access failure
 
 **Correct: A. Stop advancing and seek appropriate clinical assistance**
 
-Resistance obstruction ya incorrect path indicate kar sakti hai. Forceful advancement urethral trauma cause kar sakti hai. Nurse stop karke trained review leti hai.
+Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethral injury ka warning sign ho sakte hain. Force lagane se false passage, bleeding aur further trauma ho sakta hai. Nurse advancement stop karke patient assess karti hai aur appropriate experienced clinician ki help leti hai.
 
-**Baaki options kyun sahi nahi hain?** Force, uncertain balloon inflation aur arbitrary larger catheter injury badha sakte hain.
+**Har option ka reason**
+
+- **A (Sahi):** Stop aur seek assistance se further trauma avoid hota hai aur cause safely evaluate ho sakta hai.
+- **B (Galat):** Bina assessment larger catheter try karne se obstruction aur tissue injury worse ho sakte hain.
+- **C (Galat):** Uncertain placement mein balloon inflate karne se urethra stretch ya tear ho sakti hai.
+- **D (Galat):** Forceful advancement urethral wall ko damage kar sakti hai.
+
+**Exam clue:** Resistance or severe pain means stop, never force.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -1748,10 +1774,20 @@ Shared equipment jaise BP cuff ya thermometer organisms ko ek patient se doosre 
 
 **Correct: D. Assess for infection and other causes, escalate and collect specimens only as indicated**
 
-Fever aur flank pain possible urinary infection ya other serious condition ke signs hain. Nurse vitals aur clinical findings assess karke clinician ko inform karti hai.
+Flank pain side ya back mein kidney ke area ka dard hai. Catheterized patient mein fever aur new flank pain upper urinary tract infection ya kisi aur serious problem ka signal ho sakta hai. Nurse vital signs, pain, urine output aur overall condition assess karti hai, sepsis ke signs par urgent escalation karti hai aur indicated specimens protocol ke hisaab se collect karti hai.
 
-**Baaki options kyun sahi nahi hain?** Cloudiness alone infection diagnose nahi karti. Antibiotic authorization chahiye. Catheter infection risk badha sakti hai.
+**Har option ka reason**
 
+- **A (Galat):** Cloudy urine alone se symptomatic infection diagnose nahi hoti. Colonization ya sediment bhi ho sakta hai.
+- **B (Galat):** Catheter infection risk ko eliminate nahi karti. New fever aur pain ignore karna unsafe hai.
+- **C (Galat):** Unprescribed antibiotics dena unsafe hai aur culture interpretation aur antimicrobial resistance par asar daal sakta hai. Urgent prescribed treatment ko delay bhi nahi karna chahiye.
+- **D (Sahi):** Assessment, timely escalation aur clinically indicated culture appropriate response hai.
+
+**Exam clue:** Symptoms and systemic assessment matter more than urine appearance alone.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/uti/hcp/clinical-guidance/index.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q14](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -1769,9 +1805,22 @@ Fever aur flank pain possible urinary infection ya other serious condition ke si
 
 **Correct: C. Use a separate clean collection container and avoid outlet contact with the container**
 
-Outlet contact se organisms drainage system ya shared equipment contaminate kar sakte hain. Nurse appropriate container aur hand hygiene use karti hai.
+Bag empty karte waqt outlet aur collection container ke beech direct contact se microorganisms transfer ho sakte hain. Har patient ke liye separate clean measuring container use karo, splash avoid karo, outlet ko container se touch na hone do aur hand hygiene follow karo. Measured output accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Shared unclean jug aur floor contact infection spread kar sakte hain.
+**Har option ka reason**
+
+- **A (Galat):** Unclean shared jug microorganisms carry kar sakta hai.
+- **B (Galat):** Floor contaminated surface ho sakta hai. Outlet ko floor par rakhne se drainage system contaminate ho sakta hai.
+- **C (Sahi):** Separate container aur no-touch drainage se cross-contamination kam hoti hai.
+- **D (Galat):** Shared jug ko outlet touch karne se germs ek patient se doosre ke equipment tak ja sakte hain.
+
+**Exam clue:** Dedicated clean jug, no outlet contact, measure and record.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
