@@ -47,4 +47,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Vaccination and cold chain reported exam practice](Vaccination-and-Cold-Chain-Reported-PYQs.md): one retrieved OSSSC 2021 item and provisional indexed leads. Provisional leads excluded.
 
-**Current total: 49 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[Specimen collection reported exam practice](Specimen-Collection-Reported-PYQs.md): one retrieved OSSSC 2021 item. Overlapping UKMSSB lead and historical TB items excluded from this count.
+
+**Current total: 50 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
