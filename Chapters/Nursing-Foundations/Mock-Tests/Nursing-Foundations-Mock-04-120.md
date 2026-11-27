@@ -197,7 +197,7 @@ Cold generally small vessels constrict aur nerve conduction slow kar sakta hai. 
 
 ### Q9. A patient has measured intake 1800 mL and output 2100 mL. What is the recorded net fluid balance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 0 mL
 - **B.** +300 mL
@@ -223,9 +223,11 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical practice — RegisteredNurseRN, Intake and Output Nursing Calculation Practice Problems](https://www.youtube.com/watch?v=a6ovyZIs9tg)** · Published 26 February 2018. Retrieved description explicitly covers intake and output record calculations, including oral, tube and IV fluids and comparing intake with output. Topic-level worked-problem practice only. Exact scenario and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q13](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q13](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q13-a-patient-has-measured-intake-1800-ml-and-output-2100-ml-what-is-the-recorded-net-fluid-balance)
 
 ### Q10. Which action is part of respiratory hygiene for a coughing patient?
 
@@ -463,7 +465,7 @@ Ointment surface par coating bana sakti hai jo drops ki delivery affect kare. Dr
 
 ### Q19. Which observation should prompt assessment of possible IV line dislodgement?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** New leakage around the insertion site and changed external catheter position
 - **B.** A secure dry dressing with stable position
@@ -493,7 +495,7 @@ New leakage aur external catheter position change displacement ya access failure
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q15](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q15](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q15-which-observation-should-prompt-assessment-of-possible-iv-line-dislodgement)
 
 ### Q20. During catheter insertion a patient experiences severe pain and marked resistance. Which action is safest?
 
@@ -575,7 +577,7 @@ Severe arterial insufficiency mein compression blood supply compromise kar sakti
 
 ### Q23. Which site characteristic is most important when selecting a peripheral IV vein?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** A suitable intact vein and surrounding skin appropriate for the prescribed therapy
 - **B.** A site chosen only for staff convenience
@@ -605,7 +607,7 @@ Vein condition, skin integrity, therapy properties, duration, patient preference
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q13](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q13](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q13-which-site-characteristic-is-most-important-when-selecting-a-peripheral-iv-vein)
 
 ### Q24. Which measure supports sleep in a stable hospitalized patient?
 
@@ -630,7 +632,7 @@ Care clustering aur environment adjustment uninterrupted rest support kar sakte 
 
 ### Q25. A liquid contains 2 mg in 4 mL. The required dose is 0.75 mg. What is the calculated volume?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 3 mL
 - **B.** 0.75 mL
@@ -656,9 +658,11 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related liquid dose-volume problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q15](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q15](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q15-a-liquid-contains-2-mg-in-4-ml-the-required-dose-is-075-mg-what-is-the-calculated-volume)
 
 ### Q26. A patient has a convulsive seizure in bed. Which action is appropriate during the event?
 
@@ -1912,7 +1916,7 @@ Inventory aur safe storage loss prevent karne mein help karte hain. Patient ko p
 
 ### Q74. A nurse is preparing to administer a drug that requires a specific IV infusion duration. Which check is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give every IV drug as a rapid bolus
 - **B.** Ignore dilution requirements if the patient has a large vein
@@ -1942,7 +1946,7 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q16](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q16](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q16-a-nurse-is-preparing-to-administer-a-drug-that-requires-a-specific-iv-infusion-duration-which-check-is-essential)
 
 ### Q75. Which finding should be assessed before and after applying a limb bandage?
 
@@ -2482,7 +2486,7 @@ Support aur immobilization movement-related pain aur further injury reduce kar s
 
 ### Q98. A solution is labeled 0.9% weight/volume sodium chloride. How much sodium chloride is present in 500 mL?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 0.45 g
 - **B.** 45 g
@@ -2508,9 +2512,11 @@ Support aur immobilization movement-related pain aur further injury reduce kar s
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q16](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q16](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q16-a-solution-is-labeled-09-weightvolume-sodium-chloride-how-much-sodium-chloride-is-present-in-500-ml)
 
 ### Q99. A patient with reduced peripheral circulation is prescribed cold therapy. Which safety approach is appropriate?
 
@@ -2683,7 +2689,7 @@ Sterile packaging microbial barrier hoti hai. Tear se organisms enter kar sakte 
 
 ### Q105. A patient has persistent bleeding at a peripheral IV removal site while receiving anticoagulation. Which immediate action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply an excessively tight circumferential band indefinitely
 - **B.** Massage the site to promote bleeding
@@ -2713,7 +2719,7 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q14](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q14](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q14-a-patient-has-persistent-bleeding-at-a-peripheral-iv-removal-site-while-receiving-anticoagulation-which-immediate-action-is-appropriate)
 
 ### Q106. After a limb bandage is applied, the patient develops new pallor and tingling distal to it. Which assessment should be performed immediately?
 
@@ -3105,7 +3111,7 @@ Advance care planning future decisions mein patient ke values guide karne mein h
 
 ### Q120. An order specifies 150 micrograms of a drug. Which value is equivalent in milligrams?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 15 mg
 - **B.** 0.15 mg
@@ -3131,7 +3137,9 @@ Advance care planning future decisions mein patient ke values guide karne mein h
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q14](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q14](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q14-an-order-specifies-150-micrograms-of-a-drug-which-value-is-equivalent-in-milligrams)
 
