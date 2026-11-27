@@ -40,4 +40,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-gn-20261127. Scope: renal glomerulonephritis and infection-related GN theory, MCQs, diagram, reported evidence and chapter-local indexes only. Claimed UTC: 2026-11-27T14:05:50.000Z. Expiry UTC: 2026-11-27T14:35:50.000Z. -->
