@@ -931,9 +931,19 @@ Timed collection ka purpose ek fixed 24-hour interval mein excreted substance me
 
 **Correct: B. Obtain urgent surgical or stoma specialist assessment for possible ischemia**
 
-Darkening reduced blood supply ka clue ho sakti hai. Nurse color, moisture aur other findings assess karke urgent review leti hai.
+Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka progressively dark hona ischemia ya venous congestion ka warning sign ho sakta hai. Nurse appearance aur symptoms assess karke urgent surgical or stoma specialist review arrange karti hai. Delay se tissue viability compromise ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Delay, forceful massage aur unauthorized topical drug tissue harm kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Firm massage blood supply safely restore nahi karta aur fragile mucosa injure kar sakta hai.
+- **B (Sahi):** Urgent specialist assessment possible ischemia ko timely identify aur manage karne ke liye best hai.
+- **C (Galat):** Routine discharge tak wait karna potentially serious complication ko delay karta hai.
+- **D (Galat):** Unprescribed vasoconstrictor blood vessels ko narrow kar sakta hai aur perfusion concern worsen kar sakta hai.
+
+**Exam clue:** Progressive dusky or black stoma = urgent surgical review.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
+
+**▶️ [Topic-wise MCQ practice — Colostomy Care, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Publisher description dated 21 June 2026 lists ostomy assessment, stoma care and complications in this MCQ session. Exact item coverage and playback pending.
 
 </details>
 
@@ -1427,9 +1437,21 @@ Plasma mein multiple clotting factors present hote hain. Use bleeding context au
 
 **Correct: D. Possible vagal stimulation, stop and assess circulation promptly**
 
-Rectal stimulation vagus-related reflex response se heart rate slow kar sakti hai. Nurse manipulation stop karke vitals assess aur help arrange karti hai.
+Rectal manipulation se vagal reflex trigger ho sakta hai. Vagus nerve heart rate slow karne wale parasympathetic signals mein role play karti hai. Dizziness aur bradycardia ho toh manipulation stop karo, circulation aur vital signs assess karo aur urgent help lo. Disimpaction sirf authorized trained practice aur appropriate monitoring mein hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Bradycardia ko harmless assume nahi karna chahiye. Forceful stimulation risk worsen kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Symptomatic bradycardia harmless assume nahi karni chahiye. Force se injury aur instability badh sakti hai.
+- **B (Galat):** Rectal pressure badhana reflex aur local tissue injury worsen kar sakta hai.
+- **C (Galat):** Bradycardia se blood pressure rise hona guaranteed nahi hai. Hypotension bhi ho sakti hai.
+- **D (Sahi):** Vagal stimulation possible hai aur manipulation rokna further stimulation se bachata hai.
+
+**Exam clue:** Rectal stimulation plus symptomatic bradycardia = stop and assess.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-4-common-conditions-affecting-bowel-elimination).
+
+**Additional clinical reference:** [Relevant guidance](https://opentextbc.ca/pnapnsupplement/chapter/integrated-nursing-practice-1/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1479,9 +1501,21 @@ Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube co
 
 **Correct: C. Retained secretions with ineffective cough and signs of airway obstruction**
 
-Suction secretions remove karne ke liye use hoti hai jab patient independently clear nahi kar paata. Nurse actual need aur safety assess karti hai.
+Airway suction negative pressure se secretions remove karne ka procedure hai. Jab secretions retained hon aur patient cough se clear na kar pa raha ho, nurse airway patency aur suction ki actual need assess karti hai. Artificial airway mein visible secretions aur abnormal breath sounds useful indicators ho sakte hain. Procedure trained staff aur patient-specific protocol ke mutabik hona chahiye.
 
-**Baaki options kyun sahi nahi hain?** Routine unnecessary suction mucosal injury aur hypoxemia cause kar sakti hai. Normal breathing ya meal request indication nahi hain.
+**Option-wise explanation:**
+- **A (Galat):** Fixed schedule without assessment patient ko unnecessary suction-related hypoxemia aur mucosal injury ke risk mein daal sakta hai.
+- **B (Galat):** Quiet breathing aur secretion concern absent hone par routine suction indication establish nahi hoti.
+- **C (Sahi):** Retained secretions aur ineffective cough airway clearance assessment ko justify karte hain, including suction if indicated.
+- **D (Galat):** Meal request airway secretion obstruction ka indicator nahi hai.
+
+**Exam clue:** Suction for assessed need, not a clock alone.
+
+**Clinical references:** [Reference 1](https://doi.org/10.4187/respcare.09548) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593189/)
+
+**Supplementary practice lead:** [Aarogyam Infinity FON MCQ Series Part 18](https://www.youtube.com/watch?v=m1UM3dvxEv4). Indexed title and tags include tracheostomy and suctioning. Direct retrieval failed. Specific coverage not verified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1583,9 +1617,19 @@ Set point normal taraf aane par sweating heat loss support kar sakti hai. Nurse 
 
 **Correct: B. Assess pain and use prescribed analgesia and incision support with coached coughing**
 
-Pain deep breathing aur cough limit kar sakta hai. Safe analgesia aur incision splinting patient ko effective cough karne mein help kar sakti hain.
+Incisional pain ki wajah se patient shallow breathing kar sakta hai aur cough suppress kar sakta hai. Isse secretions retain ho sakti hain. Nurse pain score, sedation aur breathing assess karti hai, prescribed analgesia ke effect ko monitor karti hai aur suitable incision splinting ke saath coached cough support karti hai. Splinting ka matlab incision ko gentle external support dena hai, wound ke andar pressure lagana nahi.
 
-**Baaki options kyun sahi nahi hain?** Cough suppression secretions retain kar sakti hai. Intense wound pressure injure kar sakta hai. Pain treatment assessment-based honi chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Har cough suppress karne se secretions clear karna mushkil ho sakta hai.
+- **B (Sahi):** Pain assessment, safe analgesia aur appropriate incision support effective cough ko easier bana sakte hain.
+- **C (Galat):** Sab pain treatment rokne se patient shallow breathe kar sakta hai. Analgesia individual risk aur response ke hisaab se assess honi chahiye.
+- **D (Galat):** Intense wound pressure pain aur tissue injury ka risk badha sakta hai.
+
+**Exam clue:** Post-op cough: pain control, gentle support and coaching.
+
+**Clinical references:** [Reference 1](https://pubmed.ncbi.nlm.nih.gov/22008401/) · [Reference 2](https://pubmed.ncbi.nlm.nih.gov/24222709/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1604,9 +1648,21 @@ Pain deep breathing aur cough limit kar sakta hai. Safe analgesia aur incision s
 
 **Correct: C. Stop suction, support oxygenation and ventilation, and reassess urgently**
 
-Suction temporarily oxygenation affect aur vagal response trigger kar sakti hai. Nurse stop karke breathing-circulation support aur urgent assessment karti hai.
+Suction se airway gas temporarily remove ho sakti hai, aur airway stimulation vagal reflex trigger kar sakti hai. Desaturation ka matlab oxygen saturation girna hai aur bradycardia mein heart rate slow ho jaata hai. Marked deterioration par suction immediately stop karo, oxygenation aur ventilation support karo, vital signs assess karo aur urgent help lo. Further suction sirf reassessment aur authorized protocol ke according ho.
 
-**Baaki options kyun sahi nahi hain?** Continued suction, prolonged duration aur oxygen removal deterioration worsen kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Needed oxygen disconnect karna desaturation worsen kar sakta hai.
+- **B (Galat):** All secretions remove karne ka goal acute patient instability se upar nahi hai.
+- **C (Sahi):** Suction rokna further stimulation ko limit karta hai. Oxygenation, ventilation aur urgent circulation assessment priority hain.
+- **D (Galat):** Suction duration badhana oxygen loss aur airway stimulation ko prolong kar sakta hai.
+
+**Exam clue:** Desaturation plus bradycardia during suction = stop and support.
+
+**Clinical references:** [Reference 1](https://doi.org/10.4187/respcare.09548) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593189/)
+
+**Supplementary practice lead:** [Aarogyam Infinity FON MCQ Series Part 18](https://www.youtube.com/watch?v=m1UM3dvxEv4). Indexed title and tags include tracheostomy and suctioning. Direct retrieval failed. Specific coverage not verified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2243,9 +2299,19 @@ Recovery scoring patient ki physiological recovery systematically assess karne m
 
 **Correct: B. Moist pink to red mucosa**
 
-Stoma bowel mucosa se bani hoti hai aur adequate blood supply mein moist pink-red dikh sakti hai. New dusky ya black color urgent assessment maangta hai.
+Stoma surgically banaya gaya bowel opening hai. Healthy mucosa mein blood supply hoti hai, isliye surface generally moist pink ya red dikhti hai. Early postoperative swelling ho sakti hai, lekin progressive dusky, gray ya black change prompt assessment maangta hai.
 
-**Baaki options kyun sahi nahi hain?** Black, gray aur blue color ischemia ke signs ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Dry black tissue possible necrosis ka sign hai, normal viable mucosa nahi.
+- **B (Sahi):** Moist pink-red mucosa adequate perfusion ke saath consistent hai.
+- **C (Galat):** Deep blue hard appearance normal healthy mucosa ki expected finding nahi hai.
+- **D (Galat):** Pale gray tissue without perfusion blood supply problem suggest karti hai.
+
+**Exam clue:** Healthy stoma moist and pink-red. New darkening needs assessment.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
+
+**▶️ [Topic-wise MCQ practice — Colostomy Care, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Publisher description dated 21 June 2026 lists ostomy assessment, stoma care and complications in this MCQ session. Exact item coverage and playback pending.
 
 </details>
 
@@ -2516,9 +2582,21 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 
 **Correct: A. Fit the opening closely around the stoma without constricting it**
 
-Close-fitting barrier effluent ko skin se door rakhne mein help karti hai. Stoma size postoperative period mein change ho sakta hai, isliye remeasure karna useful hai.
+Peristomal skin stoma ke aas-paas ki skin hai. Bowel effluent skin ke contact mein aaye toh irritation aur breakdown ho sakta hai. Pouch barrier ka opening stoma ke size ke hisaab se close fit hona chahiye, bina mucosa ko compress kiye. Postoperative size changes ke liye remeasure karo aur appliance instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Large gap leakage kar sakta hai. Small opening pressure injury aur direct adhesive mucosal injury cause kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Close nonconstricting fit skin exposure ko reduce karta hai aur stoma ko pressure se bachata hai.
+- **B (Galat):** Too-small opening stoma par pressure aur tissue injury ka risk badhati hai.
+- **C (Galat):** Wide gap se effluent skin par leak ho sakta hai.
+- **D (Galat):** Ordinary adhesive directly mucosa par lagane se trauma aur poor seal ho sakti hai.
+
+**Exam clue:** Fit closely, not tightly. Measure again as swelling changes.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
+
+**Additional clinical reference:** [Relevant guidance](https://psag.wocn.org/index.html).
+
+**▶️ [Topic-wise MCQ practice — Colostomy Care, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Publisher description dated 21 June 2026 lists ostomy assessment, stoma care and complications in this MCQ session. Exact item coverage and playback pending.
 
 </details>
 
@@ -3242,9 +3320,19 @@ Unexpected particles product defect ya contamination ka clue ho sakte hain. Nurs
 
 **Correct: C. Encourage slow sustained inspiration as part of a broader lung expansion plan**
 
-Incentive spirometer patient ko deep controlled breath lene ka feedback deta hai. Appropriate pain control aur mobilization ke saath lung expansion support kar sakta hai.
+Incentive spirometer ek feedback device hai jo patient ko slow deep inspiration lene mein guide karti hai. Selected postoperative patients mein coached lung expansion plan ka part ho sakti hai. Iska independent routine use har surgery ke baad complications prevent karne ki guarantee nahi hai. Appropriate pain control, directed coughing, positioning aur early mobilization bhi important hain.
 
-**Baaki options kyun sahi nahi hain?** Device oxygen supply ya ABG measure nahi karta. Other prevention measures still important hain.
+**Option-wise explanation:**
+- **A (Galat):** Incentive spirometer oxygen source nahi hai aur controlled FiO2 deliver nahi karti.
+- **B (Galat):** Arterial blood gas sample oxygenation, ventilation aur acid-base status assess karta hai. Incentive spirometer yeh measurements nahi karti.
+- **C (Sahi):** Slow sustained inspiration lung expansion support karne ka intended role hai jab use suitable broader plan ke part ke roop mein kiya jaaye.
+- **D (Galat):** Device mobilization aur adequate analgesia replace nahi karti. Yeh measures alag benefits provide karte hain.
+
+**Exam clue:** Incentive spirometry is a selected adjunct, not universal stand-alone prevention.
+
+**Clinical references:** [Reference 1](https://pubmed.ncbi.nlm.nih.gov/22008401/) · [Reference 2](https://pubmed.ncbi.nlm.nih.gov/24222709/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
