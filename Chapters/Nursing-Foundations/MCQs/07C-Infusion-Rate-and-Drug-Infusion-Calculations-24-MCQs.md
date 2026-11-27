@@ -29,7 +29,7 @@ D. 125 mL/hr
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#gravity-and-pump) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
@@ -58,7 +58,7 @@ D. 10 gtt/mL
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#gravity-and-pump) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
@@ -87,7 +87,7 @@ D. 84 mL
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#gravity-and-pump) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
@@ -116,7 +116,7 @@ D. 280 mL
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#time-and-volume) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
@@ -145,7 +145,7 @@ D. 13:20
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#time-and-volume) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
@@ -232,7 +232,7 @@ D. 138 mL
 
 [Related concept](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md#time-and-volume) · [Open RN multi-step calculation reference](https://wtcs.pressbooks.pub/nursingskills/chapter/5-17-multi-step-calculations/) · [OpenStax dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description lists IV flow and drops/min. Related topic practice only, exact exercise and playback pending.
 
 </details>
 
