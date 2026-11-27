@@ -50,7 +50,7 @@ Leg muscles move blood toward the heart during activity. Bed rest mein muscle pu
 
 ### Q3. A peripheral IV site becomes swollen, cool and pale during infusion of a nonvesicant fluid. Which complication is most likely?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only](https://testbook.com/question-answer/which-assessment-finding-would-lead-the-nurse-to-s--61766870613e4705166811dc)** · Legacy topic-bank reuse
 
 - **A.** Normal venous filling
 - **B.** Air embolism proven by local swelling
@@ -80,7 +80,7 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q1](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q1](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q1-a-peripheral-iv-site-becomes-swollen-cool-and-pale-during-infusion-of-a-nonvesicant-fluid-which-complication-is-most-likely)
 
 ### Q4. Which insertion angle is conventional for a correctly selected intramuscular injection?
 
@@ -394,7 +394,7 @@ Nerve damage abnormal electrical signaling cause kar sakti hai. Burning ya elect
 
 ### Q16. A prescription is for 750 mg of a drug available as 250 mg tablets. How many tablets are required?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 0.33 tablet
 - **B.** 2 tablets
@@ -420,9 +420,11 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related tablet calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q1](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q1](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q1-a-prescription-is-for-750-mg-of-a-drug-available-as-250-mg-tablets-how-many-tablets-are-required)
 
 ### Q17. Two patients in the ward have the same surname. Which action best prevents a wrong-patient procedure?
 
@@ -651,7 +653,7 @@ Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata h
 
 ### Q25. A nurse meets unexpected resistance while flushing a peripheral cannula. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop and assess for obstruction, position and infiltration according to protocol
 - **B.** Use a sharp instrument to clear the catheter
@@ -681,7 +683,7 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q4](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q4](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q4-a-nurse-meets-unexpected-resistance-while-flushing-a-peripheral-cannula-what-should-happen-next)
 
 ### Q26. What determines whether a subcutaneous injection is given at 45 or 90 degrees?
 
@@ -1696,7 +1698,7 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 ### Q63. A vial contains 1 g after reconstitution to a final volume of 10 mL. What volume contains 300 mg?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 30 mL
 - **B.** 10 mL
@@ -1722,9 +1724,11 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV reconstitution problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q4](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q4](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q4-a-vial-contains-1-g-after-reconstitution-to-a-final-volume-of-10-ml-what-volume-contains-300-mg)
 
 ### Q64. A patient is transferred from ICU to a general ward with a newly changed oxygen target. What is a key handover requirement?
 
@@ -1992,7 +1996,7 @@ Breathing aur circulation compromise time-sensitive ho sakta hai. Nurse ABC asse
 
 ### Q74. Which finding is characteristic of peripheral IV phlebitis?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 ESIC Staff Nurse 26 February 2019 Shift III — related tested concept only](https://testbook.com/question-answer/patient-complains-of-pain-and-has-redness-with-swe--619ce31a248341eb1e6ab242)** · Legacy topic-bank reuse
 
 - **A.** Painless cool swelling as the classic inflammatory finding
 - **B.** An intact site without symptoms
@@ -2022,7 +2026,7 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q3](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q3](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q3-which-finding-is-characteristic-of-peripheral-iv-phlebitis)
 
 ### Q75. When should discharge planning generally begin for an admitted patient?
 
@@ -2512,7 +2516,7 @@ Retracted foreskin wapas na laayein toh glans ke peeche tight ring ban sakti hai
 
 ### Q93. A prescribed dose is 0.25 g. The available tablet contains 125 mg. How many tablets are needed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 0.002 tablet
 - **B.** 1 tablet
@@ -2538,9 +2542,11 @@ Retracted foreskin wapas na laayein toh glans ke peeche tight ring ban sakti hai
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversions and tablets problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q2](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q2](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q2-a-prescribed-dose-is-025-g-the-available-tablet-contains-125-mg-how-many-tablets-are-needed)
 
 ### Q94. A medication order reads 10 mg but the usual dose is much lower and the nurse suspects an error. What is the safest action?
 
@@ -2804,7 +2810,7 @@ Hot drink mouth ki local temperature increase kar sakti hai. Nurse device policy
 
 ### Q104. A drug is supplied as 50 mg/mL and the prescribed dose is 35 mg. Which volume is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 1.4 mL
 - **B.** 0.7 mL
@@ -2830,9 +2836,11 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related dose-volume calculation problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q3](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q3](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q3-a-drug-is-supplied-as-50-mgml-and-the-prescribed-dose-is-35-mg-which-volume-is-correct)
 
 ### Q105. A patient coughs repeatedly and develops a wet voice while drinking water after stroke. What should the nurse do?
 
@@ -3021,7 +3029,7 @@ Closed system ka matlab hai ki catheter aur collecting tubing ka connection unne
 
 ### Q113. A vesicant infusion leaks into surrounding tissue. Which first response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Flush the line forcefully to disperse the vesicant
 - **B.** Massage the area vigorously
@@ -3051,7 +3059,7 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q2](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q2](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q2-a-vesicant-infusion-leaks-into-surrounding-tissue-which-first-response-is-appropriate)
 
 ### Q114. Which term describes elevated body temperature due to a raised hypothalamic set point?
 
