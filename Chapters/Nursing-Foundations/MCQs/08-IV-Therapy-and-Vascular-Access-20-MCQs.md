@@ -32,6 +32,8 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 **▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q3](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q3-a-peripheral-iv-site-becomes-swollen-cool-and-pale-during-infusion-of-a-nonvesicant-fluid-which-complication-is-most-likely)
+
 </details>
 
 ### Q2. A vesicant infusion leaks into surrounding tissue. Which first response is appropriate?
@@ -63,6 +65,8 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 01, Q113](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q113-a-vesicant-infusion-leaks-into-surrounding-tissue-which-first-response-is-appropriate)
 
 </details>
 
@@ -96,6 +100,8 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 **▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q74](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q74-which-finding-is-characteristic-of-peripheral-iv-phlebitis)
+
 </details>
 
 ### Q4. A nurse meets unexpected resistance while flushing a peripheral cannula. What should happen next?
@@ -127,6 +133,8 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 01, Q25](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q25-a-nurse-meets-unexpected-resistance-while-flushing-a-peripheral-cannula-what-should-happen-next)
 
 </details>
 
@@ -160,6 +168,8 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q83](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q83-which-solution-is-commonly-used-for-routine-compatible-peripheral-iv-flushing-when-prescribed-and-appropriate)
+
 </details>
 
 ### Q6. An IV dressing is damp and loose. What is the appropriate nursing action?
@@ -191,6 +201,8 @@ Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 02, Q4](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q4-an-iv-dressing-is-damp-and-loose-what-is-the-appropriate-nursing-action)
 
 </details>
 
@@ -224,6 +236,8 @@ Connector surface organisms carry kar sakta hai. Hand hygiene, approved antisept
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q16](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q16-before-accessing-a-needleless-iv-connector-which-action-reduces-infection-risk)
+
 </details>
 
 ### Q8. Two IV medicines are ordered through the same lumen and compatibility is unknown. What should the nurse do?
@@ -255,6 +269,8 @@ Physical precipitate ke alawa invisible degradation ya potency loss possible hai
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 02, Q120](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q120-two-iv-medicines-are-ordered-through-the-same-lumen-and-compatibility-is-unknown-what-should-the-nurse-do)
 
 </details>
 
@@ -288,6 +304,8 @@ Rapid fluids ke baad crackles, dyspnea aur low saturation pulmonary congestion s
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q96](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q96-an-older-patient-develops-new-crackles-breathlessness-and-worsening-oxygenation-during-rapid-iv-fluid-administration-which-action-is-appropriate)
+
 </details>
 
 ### Q10. Which device delivers a prescribed IV volume at a controlled programmed rate?
@@ -319,6 +337,8 @@ Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 12
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 03, Q22](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q22-which-device-delivers-a-prescribed-iv-volume-at-a-controlled-programmed-rate)
 
 </details>
 
@@ -352,6 +372,8 @@ Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, ase
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q66](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q66-a-central-line-dressing-is-removed-for-a-planned-change-which-measure-is-especially-important)
+
 </details>
 
 ### Q12. A patient develops sudden dyspnea and hypotension during manipulation of a central venous line. Which response is appropriate?
@@ -383,6 +405,8 @@ Sudden dyspnea aur hypotension central-line manipulation ke waqt venous air embo
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 03, Q12](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q12-a-patient-develops-sudden-dyspnea-and-hypotension-during-manipulation-of-a-central-venous-line-which-response-is-appropriate)
 
 </details>
 
@@ -416,6 +440,8 @@ Vein condition, skin integrity, therapy properties, duration, patient preference
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q23](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q23-which-site-characteristic-is-most-important-when-selecting-a-peripheral-iv-vein)
+
 </details>
 
 ### Q14. A patient has persistent bleeding at a peripheral IV removal site while receiving anticoagulation. Which immediate action is appropriate?
@@ -447,6 +473,8 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 04, Q105](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q105-a-patient-has-persistent-bleeding-at-a-peripheral-iv-removal-site-while-receiving-anticoagulation-which-immediate-action-is-appropriate)
 
 </details>
 
@@ -480,6 +508,8 @@ New leakage aur external catheter position change displacement ya access failure
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q19](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q19-which-observation-should-prompt-assessment-of-possible-iv-line-dislodgement)
+
 </details>
 
 ### Q16. A nurse is preparing to administer a drug that requires a specific IV infusion duration. Which check is essential?
@@ -511,6 +541,8 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 04, Q74](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q74-a-nurse-is-preparing-to-administer-a-drug-that-requires-a-specific-iv-infusion-duration-which-check-is-essential)
 
 </details>
 
@@ -544,6 +576,8 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 05, Q114](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q114-what-should-the-nurse-document-after-peripheral-iv-insertion)
+
 </details>
 
 ### Q18. Which principle guides the ongoing need for an invasive vascular catheter?
@@ -575,6 +609,8 @@ Unnecessary invasive access infection, thrombosis aur device complications ka ex
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 05, Q14](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q14-which-principle-guides-the-ongoing-need-for-an-invasive-vascular-catheter)
 
 </details>
 
@@ -608,6 +644,8 @@ Chills, dyspnea aur back pain serious transfusion reaction suggest karte hain. T
 **▶️ [YouTube MCQ practice — transfusion reaction priorities, Nursing Wallah by PW](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s)** · Published 18 March 2026. Published chapter 17:50 in the MCQ countdown session covers reaction priorities. Topic-level only, exact question and playback not verified.
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 05, Q120](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q120-a-patient-receiving-a-blood-product-through-an-iv-develops-chills-dyspnea-and-back-pain-which-immediate-nursing-response-is-appropriate)
+
 </details>
 
 ### Q20. Before starting an ordered IV infusion after transfer, the pump displays a different rate from the current prescription. Which action is correct?
@@ -639,6 +677,8 @@ Transfer par previous setting current order se mismatch ho sakti hai. Patient co
 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 05, Q103](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q103-before-starting-an-ordered-iv-infusion-after-transfer-the-pump-displays-a-different-rate-from-the-current-prescription-which-action-is-correct)
 
 </details>
 
