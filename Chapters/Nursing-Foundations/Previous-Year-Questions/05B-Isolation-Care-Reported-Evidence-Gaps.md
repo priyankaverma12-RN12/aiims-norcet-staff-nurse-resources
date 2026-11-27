@@ -14,3 +14,15 @@ Further searches for NORCET, HPRCA/HPSSC, PGIMER, SGPGI, JIPMER, ESIC, DSSSB, CH
 
 
 Completion research: no new directly verified narrow isolation-care historical match was found. Indexed coaching material and general barrier nursing leads are not counted. Blueprint Nursing published practice question chapter 03:32 and Thatnursingprof question invitation are general supplementary leads only, specific coverage and playback pending.
+
+
+## 📜 Evidence recheck — 27 November 2026
+
+- **[🟣 RMLIMS Lucknow 7 September 2025 — related tested concept only](https://testbook.com/question-answer/what-is-the-role-of-a-nurse-in-barrier-nursing--68c93f6d10f63a7af7510e9d).** Direct third-party memory-based question and answer now retrieved. It tests prevention of cross-infection, not the family-caregiver scenario in Q12. Supersedes the earlier retrieval failure above. No official key or new adaptation.
+- **[🟣 RRB JPR Staff Nurse 6 June 2018 — related tested concept only](https://testbook.com/question-answer/droplet-precautions-require--61a0ce41a8580d61bed188a7).** Direct third-party report retrieved. It tests staff masking during droplet precautions, not urgent patient transport or mask intolerance (Q22). Historical distance wording is not a universal modern rule. No official key or new adaptation.
+- [PGIMER Sangrur Nursing Officer 2023 report](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-sangrur-no-2023) — indexed Q84 concerns loneliness during internal radiation isolation, a different clinical setting. Direct retrieval failed. No exam label assigned to this bank.
+- RRB March 2026 psychological care and PGIMER 2020 influenza precaution direct retrieval failed. Other India-wide search results were broader IPC or general nursing topics. Narrow historical matches and official keys remain pending, including HPRCA and HPSSC.
+
+## ▶️ Practice evidence recheck
+
+ADAPT NCLEX REVIEW channel verified through the published description of [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), including the isolation practice chapter at 19:25. Exact scenario and playback remain unverified. [NursingSOS — Transmission Based Precautions](https://www.youtube.com/watch?v=ukitwhGJx8k) is background teaching only. All 30 specific practice mappings remain pending. No timestamps inferred. No original or historical question counts changed.
