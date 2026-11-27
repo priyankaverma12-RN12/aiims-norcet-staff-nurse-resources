@@ -31,3 +31,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [One independently worded reported adaptation](11-Pelvic-Floor-and-Prolapse-Reported-Exam-Adaptations.md): UPSC ESIC Nursing Officer 7 July 2024 classical procidentia terminology. AIIMS Bhubaneswar 15 September 2019 reported cystocele concept overlaps the original bank. Official booklets and keys pending.
 
 **Current indexed adaptation count: seven.** No claim of complete all-India PYQ coverage. Question-specific practice video verification remains pending.
+
+
+## Breast, PCOS and pelvic floor historical evidence — 27 November 2026
+
+[Two reported adaptations and five related exam reports](09-11-Breast-PCOS-Pelvic-Floor-Reported-Exam-Evidence.md): AIIMS NORCET 20 November 2021 Shift II triple breast assessment, DSSSB Nursing Officer 28 August 2019 Shift 3 detrusor overactivity. Additional NORCET 9, NORCET 6, NORCET 2020 and AIIMS Raipur reports mapped to existing topics, without duplicate counting. Official booklets and keys not authenticated. **Nine reported adaptations indexed in total.** Exact question-level YouTube verification and further India-wide evidence pending.
