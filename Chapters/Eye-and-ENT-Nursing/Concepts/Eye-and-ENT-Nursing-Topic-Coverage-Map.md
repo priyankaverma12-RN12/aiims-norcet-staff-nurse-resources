@@ -38,8 +38,8 @@ Tonsil ki surgery ke baad blood throat mein ja sakta hai aur child baar-baar swa
 | Topic | Status |
 |---|---|
 | Eye anatomy and physiology | [Detailed Hinglish notes and two diagrams](Eye-Anatomy-and-Physiology.md), [30 original MCQs](../MCQs/Eye-Anatomy-and-Physiology-30-MCQs.md), [one reported RRB adaptation](../Previous-Year-Questions/RRB-2019-Eye-Anatomy-Reported-Practice.md). |
-| Eye assessment and diagnostics | Next: history, Snellen, near vision, visual field, colour vision, pupils, tonometry, ophthalmoscopy. |
-| Refractive errors | Pending: myopia, hypermetropia, astigmatism, presbyopia. |
+| Eye assessment and diagnostics | [Detailed notes and schematic](Eye-Assessment-and-Diagnostics.md), [30 original MCQs](../MCQs/Eye-Assessment-and-Diagnostics-30-MCQs.md), [3 reported exam adaptations](../Previous-Year-Questions/Eye-Assessment-Reported-Exam-Practice.md). Exact video-question evidence pending. |
+| Refractive errors | Next: myopia, hypermetropia, astigmatism, presbyopia. |
 | Cataract, glaucoma, retinal disorders | Pending. |
 | Conjunctivitis, keratitis, corneal ulcer, stye, blepharitis, trachoma | Pending. |
 | Eye emergencies, chemical exposure, penetrating injury, foreign bodies, medicines and perioperative nursing | Pending. |
