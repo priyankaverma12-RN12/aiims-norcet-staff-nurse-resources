@@ -38,7 +38,7 @@
 
 **Correct answer: D. 720**
 
-**Kyun sahi hai:** Highest prime powers 2⁴×3²×5=720. Ye teeno ko divide karta hai.
+**Kyun sahi hai:** Highest prime powers 2⁴×3²×5=720. Ye teeno given numbers se exactly divisible hai.
 
 **Baaki options kyun galat hain?**
 
