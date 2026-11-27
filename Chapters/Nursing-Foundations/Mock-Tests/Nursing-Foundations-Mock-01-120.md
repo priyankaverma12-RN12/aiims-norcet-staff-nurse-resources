@@ -61,9 +61,22 @@ Leg muscles move blood toward the heart during activity. Bed rest mein muscle pu
 
 **Correct: C. Infiltration**
 
-Infiltration mein nonvesicant fluid vein ke bahar tissue mein leak hota hai. Swelling, coolness aur infusion difficulty ho sakti hai. Nurse infusion stop karke site assess karti hai.
+<!-- job5-rationale -->
+Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration kehte hain. Infusion stop karo, solution identify karo, site aur distal circulation assess karo aur catheter management protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Phlebitis often warmth aur tenderness deti hai. Air embolism systemic concern hai. Swelling normal filling nahi maanni chahiye.
+**Option-by-option reasoning**
+
+- **A:** New swelling normal venous filling nahi hai.
+- **B:** Air embolism systemic respiratory/circulatory emergency ho sakti hai, local swelling alone proof nahi.
+- **C:** Cool pale swelling aur flow change nonvesicant infiltration ke typical cues hain.
+- **D:** Phlebitis vein inflammation hai, usually warm, red aur tender site hoti hai.
+
+**Exam clue:** Cool pale swelling = suspect infiltration.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-1-principles-of-intravenous-therapy)
+
+**▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
+<!-- /job5-rationale -->
 
 </details>
 
@@ -612,9 +625,22 @@ Urine gravity se drainage bag tak flow karti hai. Bag bladder ke upar ho toh bac
 
 **Correct: A. Stop and assess for obstruction, position and infiltration according to protocol**
 
-Resistance occlusion ya malposition ka clue ho sakti hai. Forceful flushing catheter damage ya tissue injury kar sakti hai.
+<!-- job5-rationale -->
+Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sakti hai. Flush stop karo, tubing aur site assess karo, patency establish na ho toh line use mat karo.
 
-**Baaki options kyun sahi nahi hain?** Maximum pressure aur alarm limit change unsafe hain. Sharp instrument catheter damage kar sakta hai.
+**Option-by-option reasoning**
+
+- **A:** Assessment of obstruction and site before further use correct hai.
+- **B:** Sharp object catheter puncture ya break kar sakta hai.
+- **C:** Forceful flush tissue injury ya catheter damage kar sakta hai.
+- **D:** Pump pressure limit badalne se underlying obstruction solve nahi hoti.
+
+**Exam clue:** Never force a resistant flush.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1915,9 +1941,22 @@ Breathing aur circulation compromise time-sensitive ho sakta hai. Nurse ABC asse
 
 **Correct: D. Pain, warmth and erythema along the vein**
 
-Phlebitis vein ki inflammation hai. Site par tenderness, redness aur warmth ho sakti hai. Nurse line aur patient assess karti hai.
+<!-- job5-rationale -->
+Mechanical, chemical ya infectious irritation vein wall inflammation cause kar sakti hai. Tenderness, warmth, erythema aur palpable cord assess karo. Affected peripheral line ka use stop karke removal aur review policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Cool swelling infiltration suggest kar sakti hai. Intact asymptomatic site phlebitis ka evidence nahi hai. Temperature alone diagnosis nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Cool painless swelling infiltration suggest karti hai.
+- **B:** Asymptomatic intact site phlebitis ka evidence nahi.
+- **C:** Normal temperature local inflammation exclude nahi karti.
+- **D:** Pain, warmth aur redness along vein characteristic hain.
+
+**Exam clue:** Phlebitis may occur without fever.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2885,9 +2924,22 @@ Closed drainage bacteria entry ke opportunities reduce karti hai. Bag designated
 
 **Correct: C. Stop the infusion and follow the drug-specific extravasation protocol, leaving access in place initially if directed**
 
-Extravasation tissue damage kar sakti hai. Nurse drug delivery stop karti hai aur protocol se aspiration, antidote ya other management decide karwati hai.
+<!-- job5-rationale -->
+Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately stop karo, assistance lo, flush mat karo aur agent-specific protocol ke according access initially retain karo for aspiration or indicated treatment. Compress aur antidote drug-specific hain.
 
-**Baaki options kyun sahi nahi hain?** Flushing drug tissue mein aur push kar sakti hai. Continued infusion aur massage injury badha sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Flushing residual vesicant ko tissue mein push kar sakti hai.
+- **B:** Vigorous massage drug spread aur injury worsen kar sakti hai.
+- **C:** Stop delivery and activate drug-specific protocol correct priority hai.
+- **D:** Lower rate par bhi ongoing exposure injury badha sakta hai.
+
+**Exam clue:** Stop, seek help, no flush, retain access initially as directed.
+
+[Clinical reference](https://www.eviq.org.au/clinical-resources/extravasation/4156-extravasation-management-clinical-procedure)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
