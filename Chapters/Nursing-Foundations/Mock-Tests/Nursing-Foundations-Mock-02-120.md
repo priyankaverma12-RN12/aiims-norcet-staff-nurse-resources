@@ -1197,9 +1197,23 @@ Ventrogluteal region mein sciatic nerve injury ka risk relatively lower ho sakta
 
 **Correct: D. Ensure no one is touching the patient, deliver the shock as directed and resume CPR promptly**
 
-AED shock ke waqt contact avoid karna rescuer safety ke liye important hai. Shock ke baad CPR promptly resume hoti hai according to algorithm.
+AED rhythm analyse karke shockable rhythm mein shock advise karta hai. Shock se pehle sabko patient se contact hatana chahiye, aur device prompts follow karne chahiye. Shock ke turant baad usual algorithm mein chest compressions resume hoti hain, jab tak clear signs ya team assessment se circulation return ka indication na ho. Long unnecessary pause se perfusion gir sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Touching unsafe hai. History aur long pause perfusion delay karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Shock ke baad minutes tak wait karna CPR interruption ko badha deta hai.
+- **B (Galat):** Complete history ka wait indicated shock ko unnecessarily delay karta hai.
+- **C (Galat):** Shock ke waqt patient ko touch karna rescuer safety risk create karta hai.
+- **D (Sahi):** Clear contact, deliver advised shock, then promptly resume CPR according to device and team protocol.
+
+**Exam clue:** AED: clear, shock if advised, resume CPR promptly.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1282,9 +1296,19 @@ Fever onset mein set point raise hota hai. Body current temperature ko relative 
 
 **Correct: B. Numeric rating scale**
 
-Numeric rating mein zero no pain aur ten worst imaginable pain represent karta hai. Nurse same scale se response compare kar sakti hai.
+Numeric rating scale ya NRS patient ko number se intensity express karne deti hai. Common 0–10 scale mein 0 no pain aur 10 worst imaginable pain ko represent karta hai. Patient se scale ka meaning confirm karo. Reassessment mein same appropriate scale aur functional goal use karne se response compare kar sakte hain.
 
-**Baaki options kyun sahi nahi hain?** GCS consciousness, Braden pressure risk aur Apgar newborn adaptation assess karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Apgar score newborn ki immediate adaptation assess karta hai, adult pain rating nahi.
+- **B (Sahi):** Numeric rating scale 0–10 numbers use karti hai aur suitable communicative patients ke liye appropriate hai.
+- **C (Galat):** Glasgow Coma Scale consciousness ko assess karti hai. Yeh pain intensity score nahi hai.
+- **D (Galat):** Braden Scale pressure injury risk assess karti hai, pain intensity nahi.
+
+**Exam clue:** NRS = pain 0–10, not GCS or Braden.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1679,9 +1703,23 @@ Blood component controlled product hai. Unapproved addition reaction, contaminat
 
 **Correct: B. Recoil supports venous return and cardiac filling**
 
-Compression release hone par chest pressure decrease hota hai aur blood heart ki taraf return kar sakta hai. Leaning is filling ko impair kar sakti hai.
+Recoil ka matlab har compression ke baad chest ko apni normal position mein poora wapas aane dena hai. Jab chest release hoti hai toh venous blood ko heart ki taraf return karne ka mauka milta hai. Agar rescuer chest par leaned rehta hai toh filling aur circulation compromise ho sakti hai. Hands ko position par rakho lekin residual pressure release karo.
 
-**Baaki options kyun sahi nahi hain?** Continuous pressure normal recoil rokta hai. Recoil har compression cycle mein important hai.
+**Option-wise explanation:**
+- **A (Galat):** Recoil har compression cycle ka part hai. Defibrillation ke baad hi zaroori nahi hota.
+- **B (Sahi):** Complete recoil heart filling aur agle compression ke liye blood flow support karta hai.
+- **C (Galat):** Recoil heart ko blood receive karne se nahi rokta. Yeh filling support karta hai.
+- **D (Galat):** Leaning intrathoracic pressure ko elevated rakh sakti hai aur venous return impair kar sakti hai.
+
+**Exam clue:** Press, release fully, avoid leaning.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2271,9 +2309,19 @@ Unconfirmed tube respiratory tract mein ho sakti hai. Feed, water ya medicines i
 
 **Correct: C. Only the patient should activate the dose button unless a specifically authorized protocol applies**
 
-PCA patient ko pain ke according prescribed bolus request karne deti hai. Patient asleep ya oversedated ho toh self-activation naturally kam hoti hai. Proxy dosing overdose risk create kar sakti hai.
+Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescribed bolus request karta hai. Lockout ka matlab dose ke baad set interval tak next bolus automatically nahi milti. Patient ka alert enough hona ek safety protection hai. Unauthorized proxy dosing is protection ko bypass kar sakti hai. Nurse pump settings, pain, sedation aur breathing monitor karti hai. Special clinician-controlled analgesia sirf explicitly authorized separate protocol ke under hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Family or staff unauthorized activation safety barrier bypass karti hai. Lockout disable karna unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Unresponsive patient ko proxy bolus dene ki jagah urgent airway, breathing aur sedation assessment chahiye.
+- **B (Galat):** Prescribed lockout disable karne se repeated doses aur overdose ka risk badhta hai.
+- **C (Sahi):** Routine PCA button sirf patient press kare. Special authorized protocol ko routine family dosing se confuse mat karo.
+- **D (Galat):** Sleeping patient ke behalf par family ka button press karna sedation aur respiratory depression ka risk badha sakta hai.
+
+**Exam clue:** PCA: patient presses, lockout stays enabled.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-5-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2696,9 +2744,23 @@ Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adher
 
 **Correct: C. It is abnormal breathing that can occur during cardiac arrest**
 
-Agonal gasps ineffective breathing ho sakte hain. Nurse rapid pulse check aur arrest assessment karke appropriate CPR start karti hai.
+Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh effective normal ventilation nahi hoti. Cardiac arrest ke early phase mein gasps present ho sakte hain. Healthcare worker responsiveness, breathing aur pulse ko rapidly assess karta hai. Definite pulse 10 seconds ke andar feel na ho toh CPR start karna chahiye. Lay rescuer normal breathing absent hone par emergency dispatcher guidance follow kare.
 
-**Baaki options kyun sahi nahi hain?** Gasping normal ventilation ya definite pulse prove nahi karti.
+**Option-wise explanation:**
+- **A (Galat):** Gasping se return of spontaneous circulation prove nahi hota. Iske liye clinical assessment chahiye.
+- **B (Galat):** Occasional gasps effective normal breathing establish nahi karte.
+- **C (Sahi):** Gasping abnormal breathing hai aur cardiac arrest mein ho sakti hai.
+- **D (Galat):** Gasping serious emergency ka sign ho sakti hai. Assessment skip nahi karna chahiye.
+
+**Exam clue:** Agonal gasps are not normal breathing.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3176,9 +3238,19 @@ Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal imp
 
 **Correct: A. Positioning, relaxation and suitable incision support**
 
-Relaxation aur positioning muscle tension aur discomfort reduce kar sakte hain. Incision support movement ke waqt useful ho sakti hai.
+Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning uncomfortable tension kam kar sakti hai. Gentle relaxation anxiety aur muscle tension kam karne mein help karti hai. Coached incision support movement ya coughing ko easier bana sakti hai. Ye measures individualized analgesic plan ko supplement karte hain, replace nahi.
 
-**Baaki options kyun sahi nahi hain?** Analgesic withholding aur forced movement unnecessary pain badha sakte hain. Uncontrolled heat burns cause kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Safe positioning, relaxation aur suitable incision support multimodal comfort plan ke useful components hain.
+- **B (Galat):** Painful exercise force karne se patient injure ho sakta hai. Activity plan assessment-based hona chahiye.
+- **C (Galat):** Prescribed analgesia automatically withhold karna unnecessary pain aur poor function ka risk badha sakta hai.
+- **D (Galat):** Insensate skin temperature injury notice nahi kar paati. Uncontrolled heat burn kar sakti hai.
+
+**Exam clue:** Combine non-drug measures with indicated analgesia.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/medical-surgical-nursing/pages/27-2-postoperative-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3260,9 +3332,23 @@ Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve f
 
 **Correct: A. Approximately every two minutes or sooner if fatigued**
 
-CPR physically tiring hai aur fatigue se compression quality gir sakti hai. Around two-minute switch short interruption ke saath quality maintain karne mein help karta hai.
+Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone par compressions shallow ya irregular ho sakti hain, kabhi fatigue notice hone se pehle bhi. Do trained rescuers available hon toh approximately har 2 minutes mein compressor change karo, ya fatigue hone par pehle. Switch ko rhythm analysis ya planned brief pause ke saath coordinate karo taaki interruption minimum ho.
 
-**Baaki options kyun sahi nahi hain?** Long delay fatigue badhati hai. Every compression switch unnecessary interruption karega. ROSC tak wait nahi karna chahiye.
+**Option-wise explanation:**
+- **A (Sahi):** Around two-minute rotation compression quality maintain karne mein help karti hai. Fatigue pehle ho toh sooner switch appropriate hai.
+- **B (Galat):** Consciousness return ka wait karna rotation ka criterion nahi hai. CPR quality abhi maintain karni hai.
+- **C (Galat):** Ten minutes tak same compressor rakhne se fatigue ke karan quality decline ho sakti hai.
+- **D (Galat):** Har single compression ke baad switch karne se unnecessary interruptions aur coordination problem hongi.
+
+**Exam clue:** Switch compressor about every 2 minutes, with minimal interruption.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3357,9 +3443,19 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 **Correct: D. Assess respiratory status and sedation urgently and follow the opioid safety protocol**
 
-Increasing sedation opioid respiratory depression ka early warning ho sakti hai. Nurse breathing aur responsiveness check karke protocol se intervention arrange karti hai.
+Opioids brain ke breathing drive ko suppress kar sakte hain. Increasing sedation, yani patient ka progressively zyada drowsy ya difficult to arouse hona, respiratory depression se pehle warning ho sakti hai. Nurse responsiveness, breathing rate, depth, oxygenation aur appropriate ventilation monitoring urgently assess karti hai. Further opioid safety protocol ke hisaab se hold/review karo aur urgent help ya naloxone as indicated arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Quietness safety prove nahi karti. Additional opioid deterioration worsen kar sakti hai. Monitoring required hai.
+**Option-wise explanation:**
+- **A (Galat):** Quiet patient oversedated ho sakta hai. Additional opioid breathing ko aur depress kar sakti hai.
+- **B (Galat):** Pain improve hone par bhi adverse effects develop ho sakte hain. Monitoring continue honi chahiye.
+- **C (Galat):** Sedation adequate analgesia ka reliable proof nahi hai. Excessive sedation unsafe ho sakti hai.
+- **D (Sahi):** Urgent assessment aur opioid safety protocol preventable deterioration ko identify aur treat karne mein help karte hain.
+
+**Exam clue:** Increasing sedation after opioid = respiratory safety check, not extra opioid.
+
+**Clinical references:** [Clinical reference 1](https://www.apsf.org/article/using-the-2018-guidelines-from-the-joint-commission-to-kickstart-your-hospitals-program-to-reduce-opioid-induced-ventilatory-impairment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
