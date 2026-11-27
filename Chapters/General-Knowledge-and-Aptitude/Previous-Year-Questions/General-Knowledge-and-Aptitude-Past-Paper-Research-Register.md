@@ -26,3 +26,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Decimal evidence](05-Decimals-Evidence-and-Sample-Practice.md): two counted reported families (SGPGI 2024 Q2 and DSSSB 2019 shift 2 Q150), one disputed SGPGI transcription explicitly excluded from PYQ counts. Ten counted families, eleven counted solved adaptations, one reserved and one disputed practice adaptation.
+
+
+[Percentage reported evidence](06-Percentages-Reported-Evidence.md): four counted families (AIIMS Delhi 2019 memory-based, DSSSB August 2019 shift 3, OSSSC 2021 and 2023), plus one disputed-key OSSSC adaptation excluded from counts. Chapter total fourteen counted families, fifteen counted solved adaptations, one reserved and two disputed-source adaptations. Official keys pending.
