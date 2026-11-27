@@ -123,7 +123,7 @@ Problem-focused diagnosis mein problem, contributing factor aur evidence identif
 
 ### Q4. An IV dressing is damp and loose. What is the appropriate nursing action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reinforce it indefinitely without inspecting the site
 - **B.** Cover it with a used towel
@@ -153,11 +153,11 @@ Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q6](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q6](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q6-an-iv-dressing-is-damp-and-loose-what-is-the-appropriate-nursing-action)
 
 ### Q5. An order specifies 500 mL IV fluid over 4 hours using an infusion pump. What is the programmed rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 50 mL/hour
 - **B.** 250 mL/hour
@@ -183,9 +183,11 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV flow mL/hour problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q7](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q7](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q7-an-order-specifies-500-ml-iv-fluid-over-4-hours-using-an-infusion-pump-what-is-the-programmed-rate)
 
 ### Q6. When adjusting a walker for a patient, which finding generally indicates a suitable handgrip height?
 
@@ -483,7 +485,7 @@ TRALI transfusion-related acute lung injury hai jisme pulmonary edema aur oxygen
 
 ### Q16. Before accessing a needleless IV connector, which action reduces infection risk?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Touch the connector opening with bare fingers
 - **B.** Skip cleaning if the previous nurse used it recently
@@ -513,7 +515,7 @@ Connector surface organisms carry kar sakta hai. Hand hygiene, approved antisept
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q7](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q7](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q7-before-accessing-a-needleless-iv-connector-which-action-reduces-infection-risk)
 
 ### Q17. The apical pulse is 112/min and simultaneous radial pulse is 98/min. What is the pulse deficit?
 
@@ -581,7 +583,7 @@ Occupied bed technique dependent patient ko bed mein rakhkar linen change karne 
 
 ### Q19. A 20-kg child is prescribed 10 mg/kg per dose of a drug. What is the calculated dose per administration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 2000 mg
 - **B.** 20 mg
@@ -607,9 +609,11 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related weight-based dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q5](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q5](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q5-a-20-kg-child-is-prescribed-10-mgkg-per-dose-of-a-drug-what-is-the-calculated-dose-per-administration)
 
 ### Q20. Which term describes fever fluctuating above normal without returning to normal during the observed period?
 
@@ -1817,7 +1821,7 @@ Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko ap
 
 ### Q67. A 24-kg child has a prescription for 30 mg/kg/day divided into three equal doses. What is the amount per dose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 360 mg
 - **B.** 720 mg
@@ -1843,9 +1847,11 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related pediatric dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q6](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q6](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q6-a-24-kg-child-has-a-prescription-for-30-mgkgday-divided-into-three-equal-doses-what-is-the-amount-per-dose)
 
 ### Q68. During transfusion an older patient develops dyspnea, hypertension and signs of volume overload. Which complication is particularly relevant?
 
@@ -2219,7 +2225,7 @@ Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patie
 
 ### Q83. Which solution is commonly used for routine compatible peripheral IV flushing when prescribed and appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Sterile 0.9% sodium chloride
 - **B.** Tap water
@@ -2249,7 +2255,7 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q5](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q5](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q5-which-solution-is-commonly-used-for-routine-compatible-peripheral-iv-flushing-when-prescribed-and-appropriate)
 
 ### Q84. A patient develops sudden dyspnea and unilateral reduced breath sounds after thoracentesis. What is the priority?
 
@@ -2409,7 +2415,7 @@ Normal saline commonly blood administration line ke liye compatible solution hai
 
 ### Q90. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPSSSB Staff Nurse October 2020 — related calculation concept only](https://testbook.com/question-answer/infusion-of-1000-ml-of-ns-over-12-hrs-require-how--61b9b9238f094c8109585eb0)** · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related calculation concept only](https://testbook.com/question-answer/a-patient-is-ordered-to-receive-500-ml-of-0-9-nor--692eeb0485d5af5dbcd0885a)** · Legacy topic-bank reuse
 
 - **A.** 250 gtt/min
 - **B.** 42 gtt/min
@@ -2435,9 +2441,11 @@ Normal saline commonly blood administration line ke liye compatible solution hai
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q8](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q8](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q8-a-750-ml-iv-infusion-is-prescribed-over-6-hours-with-a-drop-factor-of-20-gttml-what-is-the-nearest-whole-drop-rate)
 
 ### Q91. Which intervention helps preserve muscle function in a stable bedbound patient who can contract muscles but cannot yet walk?
 
@@ -3153,7 +3161,7 @@ Increasing sedation opioid respiratory depression ka early warning ho sakti hai.
 
 ### Q120. Two IV medicines are ordered through the same lumen and compatibility is unknown. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume no interaction if the doses are small
 - **B.** Use the mixture even if a precipitate appears
@@ -3183,5 +3191,5 @@ Physical precipitate ke alawa invisible degradation ya potency loss possible hai
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q8](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q8](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q8-two-iv-medicines-are-ordered-through-the-same-lumen-and-compatibility-is-unknown-what-should-the-nurse-do)
 
