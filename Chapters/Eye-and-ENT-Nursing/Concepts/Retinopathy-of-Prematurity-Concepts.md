@@ -85,5 +85,6 @@ Discharge/transfer se pehle next ROP date, location, ophthalmologist contact aur
 - [NHM detailed revised screening guideline p37](https://nhm.gov.in/images/pdf/programmes/RBSK/Resource_Documents/Revised_ROP_Guidelines-Web_Optimized.pdf) text and page image inspected. [Indian operational summary 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001189/) indexed.
 - [ICROP3 2021](https://www.aaojournal.org/article/S0161-6420%2821%2900416-4/fulltext) indexed abstract/text, PMC direct CAPTCHA. [ETROP original trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC1280104/) indexed.
 - [NNF neonatal oxygen 2021](https://www.nnfi.org/assests/upload/usefull-links-pdf/Oxygen_therapy_in_neonates_NNFI_CPG_Dec2021.pdf) indexed recommendation, full PDF verification pending.
+- [AAO EyeWiki post-treatment follow-up](https://eyewiki.aao.org/Retinopathy_of_Prematurity) directly retrieved, including prolonged anti-VEGF monitoring to at least 65 weeks PMA.
 - [CPS recent screening guidance](https://cps.ca/en/documents/position/retinopathy-of-prematurity-screening) indexed, international reference not Indian eligibility.
 - [RCH NICU eye-examination nursing guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Neonatal_eye_examination_on_the_Newborn_Intensive_Care_Unit_Butterfly_Ward/) indexed.
