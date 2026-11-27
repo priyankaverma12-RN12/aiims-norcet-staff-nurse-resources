@@ -2,13 +2,27 @@
 
 **Topic-wise practice and five chapter-only mocks are study-ready, not yet studied.** Full detailed theory notes and exhaustive official PYQ authentication remain pending.
 
-| Section | Open |
-|---|---|
-| Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Original topic-wise questions | [1,175 original slots (600 initial + 575 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
-| Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
-| Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
-| Video resources | [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
+## Study resources
+
+### Concepts and coverage
+
+- [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md)
+
+### Original topic-wise questions
+
+- [1,175 original slots (600 initial + 575 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md)
+
+### Full chapter mocks
+
+- [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md)
+
+### Previous Year Questions
+
+- [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md)
+
+### Video resources
+
+- [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md)
 
 488 Medium and 687 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
