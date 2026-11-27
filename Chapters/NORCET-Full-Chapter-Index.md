@@ -13,7 +13,7 @@
 | Other 29 chapters | 0 |
 | **Total** | **17 of 350** |
 
-Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks and 600 original questions per chapter, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks. Anatomy has 600 original questions and Nursing Foundations now has 866 indexed original questions, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -27,7 +27,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
-| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [710 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
+| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [866 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [560 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [31 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
@@ -404,3 +404,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Forward group 03D oximetry
 
 29 new original MCQs, 30 allocated. Nursing Foundations 815 slots (330 Medium, 485 Difficult), 215 expansion, five compiled mocks of ten, 34 counted reported adaptations pending source reconciliation. Next physical examination. Reverse, audit and labels scopes preserved.
+
+
+### Forward lane — Nursing Foundations physical examination and fall prevention
+
+Verified 866 indexed originals (358 Medium, 508 Difficult), 600 initial + 266 expansion. Group 03E added 27 originals and Group 04A added 24, each 30 allocated with earlier unique questions. Chapter concepts, MCQ inventory, reported evidence and video navigation reconciled. Five existing compiled mocks of ten, counted historical adaptations 34 pending overlap reconciliation. Next group 04B patient identification and procedure safety. Full clinical, semantic, official historical and video playback audits pending. Other lanes' content untouched.
