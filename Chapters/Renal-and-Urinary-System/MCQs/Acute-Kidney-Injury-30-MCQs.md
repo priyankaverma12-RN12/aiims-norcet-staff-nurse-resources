@@ -176,7 +176,7 @@
 
 [📖 Related concept](../Concepts/Acute-Kidney-Injury.md#1-aki-kya-hai-aur-kaise-diagnose-karte-hain) · [Clinical reference](https://www.ukkidney.org/clinical-resources/aki-guide-resources/background/)
 
-**▶️ [Related MCQ practice — Aarogyam Infinity Part 26](https://www.youtube.com/watch?v=HxPTSOYf4o0&t=2448s)**. Published chapter marker covers oliguria only. Exact question and playback verification pending.
+**YouTube MCQ practice: verification pending**
 
 </details>
 
@@ -439,7 +439,7 @@
 
 [📖 Related concept](../Concepts/Acute-Kidney-Injury.md#2-prerenal-intrinsic-aur-postrenal-causes) · [Clinical reference](https://www.ukkidney.org/clinical-resources/aki-guide-resources/background/)
 
-**▶️ [Related MCQ practice — Aarogyam Infinity Part 26](https://www.youtube.com/watch?v=HxPTSOYf4o0&t=2643s)**. Published chapter marker covers prerenal FENa only. Exact question and playback verification pending.
+**YouTube MCQ practice: verification pending**
 
 </details>
 
