@@ -29,6 +29,10 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 1, Q77](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q2. Which entry in an assessment record is subjective data?
@@ -58,6 +62,12 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 1, Q31](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+
+**Additional exam reference:** [GMCH 2025 recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760) · [Question booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Earlier extracted text evidence recorded, direct PDF retrieval failed this run.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q3. Which finding represents objective assessment data?
@@ -87,6 +97,12 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 1, Q96](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+
+**Additional exam reference:** [GMCH 2025 recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760) · [Question booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Earlier extracted text evidence recorded, direct PDF retrieval failed this run.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q4. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
@@ -116,6 +132,10 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 1, Q7](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q5. Which statement is an example of a patient-centered measurable nursing outcome?
@@ -145,6 +165,10 @@ Measurable outcome mein patient ka expected action, distance aur time clear hai.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 2, Q1](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q6. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
@@ -174,6 +198,10 @@ Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 2, Q106](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q7. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
@@ -203,6 +231,10 @@ Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis 
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 2, Q3](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q8. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
@@ -232,6 +264,10 @@ Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effe
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 2, Q66](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q9. Which action is an independent nursing intervention within the nurse's competence and facility policy?
@@ -261,6 +297,10 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 3, Q71](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q10. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
@@ -290,6 +330,10 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 3, Q49](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q11. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
@@ -319,6 +363,10 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 3, Q114](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q12. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
@@ -348,6 +396,10 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 3, Q2](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q13. Which source is generally the primary source of a conscious patient's health history?
@@ -377,6 +429,10 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 4, Q29](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q14. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
@@ -406,6 +462,10 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 4, Q56](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q15. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
@@ -435,6 +495,10 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 4, Q111](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q16. Which statement distinguishes a nursing diagnosis from a medical diagnosis?
@@ -464,6 +528,10 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 4, Q61](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q17. Four patients need assistance. Which patient should the nurse assess first?
@@ -493,6 +561,10 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 5, Q89](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q18. Which outcome is best suited to evaluation of a pressure injury prevention plan?
@@ -522,6 +594,10 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 5, Q99](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q19. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
@@ -551,6 +627,10 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 5, Q110](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ### Q20. Which care plan statement describes an intervention rather than an outcome?
@@ -580,6 +660,10 @@ Intervention nurse ya team ka planned action hai. Range-of-motion exercises assi
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**Mock revision:** [Mock 5, Q43](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+<!-- /job4-link-addition -->
 </details>
 
 ## Study references
