@@ -69,3 +69,8 @@ jobs:
           curl --fail --location --retry 5 --retry-all-errors --retry-delay 5 --max-time 30 "$SITE_URL" -o /tmp/nursing-home.html
           grep -F 'Nursing Study Hub' /tmp/nursing-home.html
           echo "Verified published homepage: $SITE_URL"
+
+      - name: Verify published metrics and study UI
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: python website/published-smoke.py
