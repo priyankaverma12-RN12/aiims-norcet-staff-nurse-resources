@@ -304,3 +304,8 @@ Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 5
 ### Continuation — VAP and SSI prevention
 
 40 original MCQs with hidden rationales, concept guide and diagram, three indexed videos and undated practice. Compared 240 existing parsed stems from six related banks with new bank, no exact normalized overlap. Full comparison exceeded connector call limit and remains pending. Total 1,160 across 29/30 groups (543 Medium and 617 Difficult), 55 reported and two academic adaptations. Dedicated SSI video and recruitment evidence pending, no new PYQ count. Next: environmental IPC, outbreak investigation and surveillance calculations. Chapter mocks 0/10. Individual-topic expansion and comprehensive semantic audit pending.
+
+
+### Continuation — environmental IPC, outbreak investigation and calculations
+
+40 original MCQs, concept guide with diagram and calculations, indexed teaching and practice videos, one retrieved MPESB reported adaptation. Compared 280 parsed stems from related banks against new bank, no exact normalized overlap. Total 1,200 across all 30 initial defined topic groups (551 Medium and 649 Difficult), 56 reported recruitment adaptations and two academic adaptations. Initial grouped target reached, chapter NOT complete under individual-topic rule. Next: reconcile individual topic inventory with INC curriculum, expand undercovered topics and audit overlap before ten independent 120-question mocks. Chapter mocks 0/10. Dedicated environmental practice video, official keys and full semantic audit pending.

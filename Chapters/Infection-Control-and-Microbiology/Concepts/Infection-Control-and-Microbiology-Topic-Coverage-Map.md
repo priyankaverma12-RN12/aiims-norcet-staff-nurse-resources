@@ -67,7 +67,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 27. CAUTI prevention — [40 original MCQs](../MCQs/27-CAUTI-Prevention-40-MCQs.md) and [concepts](27-CAUTI-Prevention.md)
 - 28. CLABSI and vascular device infection prevention — [40 original MCQs](../MCQs/28-CLABSI-and-Vascular-Device-Infection-Prevention-40-MCQs.md) and [concepts](28-CLABSI-and-Vascular-Device-Infection-Prevention.md)
 - 29. VAP and surgical site infection prevention — [40 original MCQs](../MCQs/29-VAP-and-Surgical-Site-Infection-Prevention-40-MCQs.md) and [concepts](29-VAP-and-Surgical-Site-Infection-Prevention.md)
-- 30. Environmental IPC, outbreak investigation and surveillance calculations — pending
+- 30. Environmental IPC, outbreak investigation and surveillance calculations — [40 original MCQs](../MCQs/30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations-40-MCQs.md) and [concepts](30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations.md)
 
 [Topic-wise index](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [Videos](Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
 

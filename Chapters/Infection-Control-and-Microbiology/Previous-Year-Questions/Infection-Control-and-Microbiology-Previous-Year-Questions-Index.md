@@ -64,4 +64,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [VAP and SSI practice and evidence gaps](29-VAP-SSI-Practice-and-Evidence-Gaps.md). Undated practice excluded from recruitment count.
 
-**Current total: 55 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[Outbreak investigation reported MPESB adaptation](30-Environmental-IPC-and-Outbreak-Reported-PYQs.md). Retrieved third-party source, official key not authenticated.
+
+**Current total: 56 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
