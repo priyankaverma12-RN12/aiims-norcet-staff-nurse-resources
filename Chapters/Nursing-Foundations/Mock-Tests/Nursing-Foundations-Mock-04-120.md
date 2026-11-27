@@ -50,7 +50,7 @@ Effluent skin ko irritate kar sakta hai. Nurse leakage source aur barrier fit as
 
 ### Q3. Which is a key advantage of enteral nutrition when the gastrointestinal tract is functional and accessible?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** It uses the gastrointestinal tract and supports gut function
 - **B.** It always eliminates aspiration risk
@@ -77,7 +77,7 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q15](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q15](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q15-which-is-a-key-advantage-of-enteral-nutrition-when-the-gastrointestinal-tract-is-functional-and-accessible)
 
 ### Q4. A patient with new lower-limb weakness is being assessed for transfer ability. Which finding is most relevant?
 
@@ -102,7 +102,7 @@ Safe transfer patient ke actual strength, balance aur instructions follow karne 
 
 ### Q5. Which measurement helps monitor longer-term nutritional and fluid trends when obtained under consistent conditions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** The patient's bed number
 - **B.** Serial body weight
@@ -129,7 +129,7 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q13](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q13](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q13-which-measurement-helps-monitor-longer-term-nutritional-and-fluid-trends-when-obtained-under-consistent-conditions)
 
 ### Q6. Before an MRI, a patient reports an implanted device but does not know its type. What is the safest action?
 
@@ -1008,7 +1008,7 @@ Fall-risk scale screening aur structured assessment support karti hai, but patie
 
 ### Q36. A wound develops increasing pain, spreading warmth and purulent drainage. What is the most appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 HPRCA Assistant Staff Nurse 20 March 2026 morning Q93 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Massage the surrounding inflamed skin forcefully
 - **B.** Assess and escalate for possible wound infection
@@ -1035,7 +1035,7 @@ Wound pain ka increase, spreading warmth aur purulent drainage ek possible infec
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q15](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q15](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q15-a-wound-develops-increasing-pain-spreading-warmth-and-purulent-drainage-what-is-the-most-appropriate-response)
 
 ### Q37. Which pulse characteristic describes the strength of the arterial pulsation felt by the nurse?
 
@@ -1200,7 +1200,7 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 
 ### Q43. A patient receiving parenteral nutrition through a central line develops fever and rigors. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Mix an unprescribed antibiotic into the nutrition bag
 - **B.** Assess urgently for possible bloodstream infection and follow line and sepsis protocols
@@ -1227,7 +1227,7 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q16](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q16](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q16-a-patient-receiving-parenteral-nutrition-through-a-central-line-develops-fever-and-rigors-which-response-is-appropriate)
 
 ### Q44. A patient requests a religious dietary accommodation that appears compatible with treatment. What should the nurse do?
 
@@ -1636,7 +1636,7 @@ Removal timing wound site aur healing par depend karti hai. Nurse edges assess k
 
 ### Q59. A patient on continuous enteral nutrition has an interruption because of a procedure and receives glucose-lowering medication. Which risk should the nurse consider?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Guaranteed hyperglycemia in every case
 - **B.** Immediate protein overload
@@ -1663,7 +1663,7 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q14](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q14](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q14-a-patient-on-continuous-enteral-nutrition-has-an-interruption-because-of-a-procedure-and-receives-glucose-lowering-medication-which-risk-should-the-nurse-consider)
 
 ### Q60. Which details belong on a specimen label and request as required?
 
@@ -1753,7 +1753,7 @@ Compressed gas cylinder damage hone par serious hazard create kar sakti hai. Sec
 
 ### Q63. Which healing method describes a clean incision with edges brought together using sutures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Tertiary intention without initial closure
 - **B.** Healing by pressure necrosis
@@ -1780,7 +1780,7 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q16](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q16](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q16-which-healing-method-describes-a-clean-incision-with-edges-brought-together-using-sutures)
 
 ### Q64. On which date is International Nurses Day observed annually?
 
@@ -2198,7 +2198,7 @@ Edge separation dehiscence ka sign ho sakti hai. Further removal stop karke woun
 
 ### Q81. A postoperative abdominal wound opens and bowel becomes visible. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Allow the patient to walk to the treatment room
 - **B.** Push the bowel back into the abdomen
@@ -2225,7 +2225,7 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q13](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q13](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q13-a-postoperative-abdominal-wound-opens-and-bowel-becomes-visible-what-is-the-priority)
 
 ### Q82. A patient's output includes 900 mL urine and 300 mL drain fluid while measured intake is 1500 mL. What is recorded net balance?
 
@@ -2725,7 +2725,7 @@ Advanced illness mein appetite aur swallowing ability change ho sakti hain. Nurs
 
 ### Q102. Which wound drainage is described as thin and clear to pale yellow?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Sanguineous
 - **B.** Purulent
@@ -2752,7 +2752,7 @@ Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh s
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q14](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q14](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q14-which-wound-drainage-is-described-as-thin-and-clear-to-pale-yellow)
 
 ### Q103. A nurse discovers that a fall occurred without apparent injury. What should be recorded in the patient's clinical chart?
 
