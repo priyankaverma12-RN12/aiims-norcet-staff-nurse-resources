@@ -599,6 +599,10 @@ Hemiplegia mein shoulder muscles joint stabilize nahi kar paati hain. Arm suppor
 ### Q29. Which source is generally the primary source of a conscious patient's health history?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient
 - **B.** A ward census sheet
@@ -613,6 +617,14 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 **Baaki options kyun sahi nahi hain?** Discharge summary secondary source hai. Unfamiliar visitor reliable primary source nahi hai. Census sheet clinical history nahi deti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**Topic-bank question:** [Q13](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q13-which-source-is-generally-the-primary-source-of-a-conscious-patients-health-history) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q13](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1168,6 +1180,10 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 ### Q56. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume nodding confirms understanding
 - **B.** Use a qualified interpreter and ask the patient to explain the schedule in their own words
@@ -1182,6 +1198,14 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 
 **Baaki options kyun sahi nahi hain?** Nodding comprehension prove nahi karti. Loud speech translation nahi hai. Unrelated visitor patient ki understanding accurately assess nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q14](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q14-a-patient-with-limited-english-proficiency-nods-during-teaching-but-cannot-explain-the-medication-schedule-which-action-best-evaluates-understanding) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q14](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1275,6 +1299,10 @@ Sample identity, type aur collection time correct processing aur interpretation 
 ### Q61. Which statement distinguishes a nursing diagnosis from a medical diagnosis?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A nursing diagnosis always names the underlying pathogen
 - **B.** Both terms are always interchangeable
@@ -1289,6 +1317,14 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 
 **Baaki options kyun sahi nahi hain?** Pathogen disease cause ho sakta hai. Intervention action hota hai. Dono diagnoses ka purpose different hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q16](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q16-which-statement-distinguishes-a-nursing-diagnosis-from-a-medical-diagnosis) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q16](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2329,6 +2365,10 @@ Barthel Index daily activities aur mobility mein assistance level assess karne m
 ### Q111. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Skip further assessment because evaluation is the final step
 - **B.** Continue an ineffective plan indefinitely
@@ -2343,6 +2383,14 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 
 **Baaki options kyun sahi nahi hain?** Ineffective plan continue karna helpful nahi hai. Previous observations preserve karne chahiye. Evaluation ke baad reassessment possible hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q15](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q15-a-nurse-identifies-a-new-problem-during-evaluation-what-is-the-most-appropriate-next-step) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q15](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
