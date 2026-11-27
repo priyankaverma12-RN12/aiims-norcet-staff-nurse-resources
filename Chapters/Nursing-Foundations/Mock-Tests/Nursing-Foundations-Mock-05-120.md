@@ -52,9 +52,22 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 **Correct: B. Reduce direct thermal injury risk**
 
-Protective barrier temperature exposure ko moderate kar sakti hai. Nurse duration aur skin condition monitor karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Barrier all heat transfer stop nahi karti. Monitoring still needed hai. Aim injury reduce karna hai.
+Protective layer device aur skin ke direct contact ko moderate karti hai. Isse excessive heat ya cold se burns aur tissue injury ka risk kam ho sakta hai. Barrier use karna monitoring ka replacement nahi hai. Indication, sensation, circulation, temperature aur duration check karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Skin checks aur temperature monitoring still required hain.
+- **B (Sahi):** Direct thermal injury risk reduce karna barrier ka intended purpose hai.
+- **C (Galat):** Barrier heat transfer ko slow kar sakti hai, completely prevent nahi karti.
+- **D (Galat):** Barrier ka purpose skin damage reduce karna hai, increase nahi.
+
+**Exam clue:** Barrier plus monitoring, not barrier alone.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1174,9 +1187,22 @@ Medication error patient tak pahunch chuki hai, even if current symptoms absent 
 
 **Correct: A. Hypothermia**
 
-Core temperature 35°C se below ho toh hypothermia kehlati hai. Severity aur clinical management measured temperature aur symptoms par depend karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hyperpyrexia very high fever hai. Normothermia normal temperature aur pyrexia fever hai.
+Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat loss production se exceed kar sakta hai. Severity ke hisaab se shivering, confusion, slow pulse ya breathing changes develop ho sakte hain. Clinical symptoms aur reliable core measurement se assessment karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Core temperature below 35°C hypothermia ki standard definition hai.
+- **B (Galat):** Hyperpyrexia extremely high fever ke liye use hota hai.
+- **C (Galat):** Normothermia normal temperature state hai.
+- **D (Galat):** Pyrexia fever ka term hai.
+
+**Exam clue:** Hypothermia: core temperature below 35°C.
+
+**Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/hypothermia/)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -1623,9 +1649,22 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 
 **Correct: C. Reassess clinical condition, hydration and possible cause and communicate relevant changes**
 
-Antipyretic fever symptoms reduce kar sakti hai lekin cause treat nahi karti. Persistent fever mein patient ki overall condition aur treatment response assess karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unapproved redosing overdose risk badhati hai. Other symptoms important hain. Heat exposure worsen kar sakta hai.
+Antipyretic fever ko kam karne mein help kar sakti hai, lekin underlying infection ya other cause ko automatically treat nahi karti. Persistent fever mein nurse vital signs, hydration, consciousness, other symptoms aur medication timing assess karti hai. Relevant changes responsible clinician ko communicate karo. Prescribed interval aur maximum dose follow karo, aur deterioration mein urgent escalation karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Highest heat exposure body temperature aur discomfort worsen kar sakta hai.
+- **B (Galat):** Automatic early repeat dose toxicity ya overdose risk create kar sakti hai.
+- **C (Sahi):** Whole-patient reassessment aur clinical communication persistent fever ka safe response hai.
+- **D (Galat):** Temperature fall hone par bhi other serious symptoms clinically important rehte hain.
+
+**Exam clue:** Treat the patient, not only the temperature number.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2690,9 +2729,24 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 
 **Correct: B. Arrange urgent assessment and infection precautions as indicated**
 
-Fever ke saath neck stiffness aur confusion serious CNS infection ya other emergency indicate kar sakte hain. Nurse urgent assessment aur appropriate precautions arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Temperature-only treatment cause address nahi karti. Delay unsafe hai. Uncomplicated fever assume nahi karni chahiye.
+Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningitis, ya other emergency ka warning pattern hai. ABC, consciousness aur vital signs assess karo aur urgent medical help activate karo. Suspected meningococcal disease mein standard plus droplet precautions as indicated initiate karo. Temperature-only care se emergency assessment delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Temperature treat karna underlying emergency ka substitute nahi hai.
+- **B (Sahi):** Urgent assessment aur appropriate infection precautions serious cause aur transmission risk address karte hain.
+- **C (Galat):** Hot bath assessment delay aur thermal injury risk create kar sakta hai.
+- **D (Galat):** Fever with neurological changes uncomplicated assume karna unsafe hai.
+
+**Exam clue:** Fever plus new neurological red flags: urgent escalation.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng240/chapter/recommendations)
+
+**Additional clinical reference:** [CDC meningococcal precautions](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/meningococcal-disease.html).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
