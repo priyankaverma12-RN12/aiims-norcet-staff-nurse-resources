@@ -103,9 +103,19 @@ ECG surface electrodes se cardiac electrical signals record karta hai. Nurse ski
 
 **Correct: D. Stabilize the object, control bleeding around it and obtain urgent help**
 
-Embedded object remove karne se bleeding worsen ho sakti hai. Nurse object stabilize karke around-wound pressure aur urgent care arrange karti hai.
+Deeply embedded object wound ke andar injured tissue ya blood vessel ke against pressure bana raha ho sakta hai. Field mein object nikalne se bleeding ya injury suddenly worsen ho sakti hai. Object ko movement se protect karo, bleeding ke liye suitable pressure uske aas-paas do, protruding object par nahi. Urgent clinical care arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Removal, pushing aur direct pressure on object deeper tissue damage kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Object deeper push karne se blood vessels, nerves aur tissues ko further injury ho sakti hai.
+- **B (Galat):** Protruding end par pressure object ko andar move kar sakta hai aur injury worsen kar sakta hai.
+- **C (Galat):** Object pull karne se clot ya injured vessel disturb ho sakti hai.
+- **D (Sahi):** Object stabilize karke around-wound bleeding control aur urgent help safest listed action hai.
+
+**Exam clue:** Embedded object: do not remove or press on it. Stabilize and escalate.
+
+**Clinical references:** [Clinical reference 1](https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -983,9 +993,19 @@ Coughing infectious aerosols produce kar sakti hai. Suitable ventilation aur res
 
 **Correct: D. Reduce nonessential noise and coordinate routine care around rest periods**
 
-Hospital environment sleep disrupt kar sakta hai. Quiet periods aur coordinated care rest improve karte hain, while essential observations continue hoti hain.
+Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep ko fragment kar sakte hain. Patient se specific causes poochho. Nonessential noise kam karo, lights suitable rakho aur routine care ko coordinate karo. Essential observations, time-critical medicines aur safety monitoring postpone nahi karni chahiye. Pain aur breathing problems bhi assess karo.
 
-**Baaki options kyun sahi nahi hain?** Stimulation aur bright light sleep delay kar sakti hain. Sedative independent prescription nursing scope mein nahi hai.
+**Option-wise explanation:**
+- **A (Galat):** Bina assessment sedative prescription appropriate nahi hai aur nursing authorization limits apply hoti hain.
+- **B (Galat):** Midnight stimulation sleep onset ko delay kar sakti hai.
+- **C (Galat):** Bright light biological sleep-wake cues disturb kar sakti hai. Safety ke liye suitable low lighting preferable ho sakti hai.
+- **D (Sahi):** Noise reduction aur safe care coordination stated modifiable environmental cause ko address karti hai.
+
+**Exam clue:** Protect sleep without omitting essential clinical care.
+
+**Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1237,9 +1257,21 @@ Patient ko closed drainage aur bag below bladder maintain karna sikhana importan
 
 **Correct: A. Activate emergency help and begin CPR, checking for a visible object before breaths**
 
-Unresponsive choking patient ko safe surface par CPR start karna hota hai. Mouth open karte waqt visible object remove kiya ja sakta hai, blind sweep nahi.
+Jab severe choking wala adult unresponsive ho jaata hai toh emergency response activate karo agar pehle nahi kiya. Safe surface par chest compressions se CPR begin karo. Jab airway breaths dene ke liye open karo toh visible foreign body ko remove karo. Agar object visible nahi hai toh finger blindly andar mat daalo. Team ya dispatcher algorithm follow karo.
 
-**Baaki options kyun sahi nahi hain?** Standing thrusts unresponsive patient ke liye suitable nahi hain. Delay oxygenation compromise kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Unresponsive choking mein CPR start karna aur visible object check karna recommended transition hai.
+- **B (Galat):** Unresponsive patient ko standing position mein abdominal thrusts dete rehna appropriate nahi hai.
+- **C (Galat):** Spontaneous cough ka wait airway obstruction aur oxygen deprivation ko prolong karta hai.
+- **D (Galat):** Blind sweep se object deeper push ho sakta hai. Sirf clearly visible object remove karo.
+
+**Exam clue:** Unresponsive choking: CPR starting with compressions. Visible object only.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2330,9 +2362,19 @@ Stoma surgically banaya gaya bowel opening hai. Healthy mucosa mein blood supply
 
 **Correct: C. Apply firm direct pressure using suitable dressing and activate help**
 
-Direct pressure bleeding vessel par compression provide karke blood loss reduce karti hai. Severe life-threatening limb bleeding mein trained tourniquet use may be indicated.
+External bleeding mein blood body se bahar nikal raha hota hai. Significant limb bleeding mein suitable dressing ke saath firm direct pressure lagane se injured vessel se blood loss kam ho sakta hai. Emergency help activate karo aur available PPE use karo. Life-threatening limb bleeding mein direct pressure ineffective ya impractical ho toh trained provider appropriate tourniquet use kar sakta hai. Shock signs aur ongoing bleeding monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Clot removal bleeding restart kar sakta hai. Washing aur elevation alone major bleeding control replace nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Washing alone significant bleeding stop nahi karti. Pehle hemorrhage control priority hai.
+- **B (Galat):** Elevation alone persistent major bleeding ke liye adequate treatment nahi hai.
+- **C (Sahi):** Direct pressure bleeding control ka basic intervention hai. Significant blood loss mein urgent help bhi zaroori hai.
+- **D (Galat):** Forming clot baar-baar remove karne se bleeding restart ho sakti hai.
+
+**Exam clue:** Bleeding control: direct pressure and urgent escalation. Tourniquet for indicated severe limb bleeding.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines) · [Clinical reference 2](https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3003,9 +3045,19 @@ Slow breathing aur reduced alertness respiratory depression suggest kar sakte ha
 
 **Correct: C. Rapid eye movements and markedly reduced skeletal muscle tone**
 
-REM mein brain activity aur dreaming prominent ho sakti hai aur most skeletal muscle tone suppress hoti hai. Breathing continue hoti hai.
+REM ka full form rapid eye movement hai. Is stage mein eyes rapidly move kar sakti hain aur brain activity relatively active hoti hai. Most skeletal muscles ka tone markedly reduced hota hai, jise atonia kehte hain. Breathing aur essential muscle activity continue rehti hai. Dreaming REM mein common hai, lekin dreams sirf REM tak limited nahi hain.
 
-**Baaki options kyun sahi nahi hain?** High tone defining feature nahi hai. Brain aur respiratory activity present rehti hain.
+**Option-wise explanation:**
+- **A (Galat):** REM mein cerebral activity absent nahi hoti. Brain active reh sakta hai.
+- **B (Galat):** Most skeletal muscles mein tone reduce hota hai. Universal sustained high tone typical REM nahi hai.
+- **C (Sahi):** Rapid eye movements aur reduced skeletal muscle tone REM ki characteristic findings hain.
+- **D (Galat):** Respiration continue rehti hai, although pattern variable ho sakta hai. Complete cessation normal REM feature nahi hai.
+
+**Exam clue:** REM = active brain, rapid eye movements, reduced skeletal tone.
+
+**Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3058,9 +3110,19 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 **Correct: C. Maintain a regular sleep-wake schedule and limit late caffeine**
 
-Regular schedule body clock ko stabilize karne mein help karta hai. Late caffeine alertness badha sakti hai, isliye timing manage karna useful hai.
+Circadian rhythm body ki internal clock hai jo sleep aur wakefulness timing regulate karti hai. Consistent sleep-wake schedule is rhythm ko stable rakhne mein help karta hai. Caffeine ek stimulant hai jo alertness maintain kar sakti hai. Isliye late caffeine aur bedtime stimulation limit karna generally useful hai.
 
-**Baaki options kyun sahi nahi hain?** Coffee aur stimulating activities sleep onset delay kar sakti hain. Irregular schedule circadian rhythm disturb kar sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** Bedtime par strong coffee alertness badha kar sleep onset delay kar sakti hai.
+- **B (Galat):** Stimulating activities bed ko wakefulness se associate kar sakti hain. Bed ko rest ke liye use karna helpful hota hai.
+- **C (Sahi):** Regular schedule aur late caffeine restriction healthy sleep habits ke consistent hain.
+- **D (Galat):** Roz several hours timing change karne se regular body-clock cues disturb ho sakte hain.
+
+**Exam clue:** Consistent timing, quiet environment, limit late caffeine.
+
+**Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) · [Clinical reference 2](https://www.nhlbi.nih.gov/health/insomnia/treatment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3079,9 +3141,21 @@ Regular schedule body clock ko stabilize karne mein help karta hai. Late caffein
 
 **Correct: D. Cycles of five back blows followed by five abdominal thrusts**
 
-Severe choking mein effective cough absent ho sakti hai. AHA 2025 back blows aur abdominal thrusts alternate karne ko kehti hai. Pregnancy ya inability to encircle abdomen mein chest thrusts use ho sakti hain.
+Severe foreign-body airway obstruction ka matlab hai object airflow ko itna block kar raha hai ki patient effective cough, bolna ya saans lena nahi kar pa raha. Emergency help activate karo. AHA 2025 conscious adult mein 5 back blows aur phir 5 abdominal thrusts ke repeated cycles recommend karti hai. Late pregnancy ya abdomen encircle na kar paane par abdominal thrusts ki jagah chest thrusts use hoti hain. Effective cough wale mild obstruction mein cough encourage karo aur monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Blind sweep object deeper push kar sakta hai. Water unsafe hai. Unresponsive hone par CPR algorithm follow hota hai.
+**Option-wise explanation:**
+- **A (Galat):** Blind finger sweep object ko aur andar dhakel sakta hai aur trauma kar sakta hai.
+- **B (Galat):** Water dena airway mein ja sakta hai aur obstruction treat nahi karta.
+- **C (Galat):** Responsive choking adult mein routine CPR compressions pehla step nahi hain. Unresponsive ho jaaye toh CPR transition hoti hai.
+- **D (Sahi):** Five back blows followed by five abdominal thrusts 2025 AHA conscious severe adult choking sequence hai.
+
+**Exam clue:** 2025 update: 5 back blows + 5 abdominal thrusts, not older thrust-only teaching.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3121,9 +3195,19 @@ Specific action aur deadline se nurse outcome evaluate kar sakti hai. Inhaler de
 
 **Correct: A. Coordinate analgesic timing with expected onset before the procedure**
 
-Medicine ka onset time consider karne se procedure ke waqt pain relief improve ho sakti hai. Nurse sedation aur response bhi monitor karti hai.
+Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time hai. Painful dressing change plan karte waqt route, medication onset, prescribed dose, patient risk aur previous response consider karo. Procedure se pehle sufficient time par authorized analgesia dene se avoidable pain kam ho sakta hai. Procedure ke dauran aur baad response aur adverse effects reassess karo.
 
-**Baaki options kyun sahi nahi hain?** After-procedure-only dosing avoidable pain cause kar sakti hai. Double dose unauthorized hai. Reassessment essential hai.
+**Option-wise explanation:**
+- **A (Sahi):** Expected onset ke saath prescribed analgesic timing coordinate karna proactive pain management hai.
+- **B (Galat):** Unauthorized dose doubling overdose aur adverse effects ka risk create karti hai.
+- **C (Galat):** Har baar procedure ke baad hi analgesia dene se procedure-related pain prevent karne ka chance miss hota hai.
+- **D (Galat):** Expected pain hone se reassessment ki zaroorat khatam nahi hoti. Effectiveness aur safety dono check karo.
+
+**Exam clue:** Premedicate according to authorized dose and onset, then reassess.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
