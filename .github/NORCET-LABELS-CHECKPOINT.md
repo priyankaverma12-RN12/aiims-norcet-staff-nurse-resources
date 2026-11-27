@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job4-20261127-135741-06mocks
-Scope: Nursing Foundations Group 06 initial bank and five existing shared mock files, Group 06 slots only. Group 07 standalone banks only if safe. No shared indexes or new authorship.
+Scope: Nursing Foundations Group 07A and 07B standalone concept and evidence files only. Group 06 mock and Group 07 bank edits completed. No shared mocks, shared indexes or new authorship.
 Claimed UTC: 2026-11-27T13:57:41Z
 Expiry UTC: 2026-11-27T14:27:41Z
 
