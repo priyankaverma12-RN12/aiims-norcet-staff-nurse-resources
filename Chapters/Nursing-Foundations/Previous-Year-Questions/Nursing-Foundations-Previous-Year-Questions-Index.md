@@ -23,3 +23,6 @@
 ## Group 03 source-linked evidence
 
 [BP](03A-BP-Reported-Evidence.md) · [Pulse](03B-Pulse-Reported-Evidence.md) · [Respiration](03C-Respiration-Reported-Evidence.md) · [Oximetry](03D-Oximetry-Reported-Evidence.md). Oximetry includes self-contained GMCH 2022 and memory-based NORCET 2020 adaptations with hidden option-specific explanations. Count 34 unchanged pending reconciliation. Video question-level evidence and official keys not authenticated.
+
+
+[Physical examination — reported NVS 2022 adaptation](03E-Physical-Examination-Reported-Evidence.md) · [Fall risk — reported GMCH 2022 and memory-based RMLIMS 2025 adaptations](04A-Fall-Risk-Reported-Evidence.md). Three additional study adaptations excluded from cumulative 34 pending source overlap reconciliation. No official key claim. Ambiguous AIIMS Bhopal 2018 and DSSSB 2019 incident lead reserved.
