@@ -35,3 +35,8 @@ New 40 stems checked against 80 previous parsed related stems from groups 01, 02
 ## Group 03D oximetry checkpoint
 
 29 new original MCQs + prior group Q7 = 30 working slots. 815 total (330 Medium, 485 Difficult), 215 expansion. 66 related prior stems compared, no exact normalized matches. All new options explained and video mapping present with specific practice-source gap. Retrieved GMCH 2022 and indexed NORCET 2020 adaptations separately, counted historical total 34 pending reconciliation. Next physical examination. Full semantic/clinical/curriculum and transcript audits pending.
+
+
+## Group 03E physical examination checkpoint
+
+27 new originals (18 Medium, 9 Difficult) + old Q8–10 = 30 allocated. 842 indexed slots (348 Medium, 494 Difficult), 242 new expansion. Respiration earlier allocation corrected to Q6,12,15,19 + 26 new = 30. Reserve Q13 for systemic fever and clinical escalation and Q14 for pain assessment. Do not count reserved slots again as new authorship. 165 related prior stems compared with no exact normalized overlap. 27 hidden blocks and four options validated, complete option-specific rationales present. Semantic and full clinical audit pending. MCQ commit 9b29c1fa4aa3d8cf4480bd85a5db20f506ab203d, concept 6d8128f2d99bd89d58c354d9cfdcb05cbad27975, reported adaptation 7f2cf7924368e3f0f78c7257978694341203830a. NVS 8 March 2022 question inspected at third-party source, official key and cumulative overlap unverified. Historical count stays 34. Topic teaching and practice video indexed, full playback pending. Five compiled mocks of ten, no new mock. Next group 04 Patient Safety and Risk Management, after group 03 navigation and full evidence gaps recorded.
