@@ -172,7 +172,7 @@
 
 ### Q7. During auscultation, a wheeze disappears as a patient with severe asthma becomes exhausted. What is the safest interpretation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Asthma has definitely resolved
 - **B.** The patient has developed normal lung sounds
@@ -183,21 +183,23 @@
 
 **Correct: D. Air movement may be critically reduced**
 
-**Kyun sahi hai?** Severe narrowing mein air itni kam ja sakti hai ki wheeze bhi sunai nahi deti. Saans, alertness aur oxygen assess karo aur urgent help lo.
+**Kyun sahi hai?** Dekho, wheeze tab sunai deti hai jab narrowed airway mein air move karti hai. Severe asthma mein patient exhaust ho raha ho aur wheeze gayab ho jaaye, toh airflow critically kam ho sakta hai. Isko silent chest ka warning sign samjho. Airway, breathing, consciousness aur oxygenation assess karte hue turant emergency help bulao.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Improvement prove nahi hua
-- **B.** Silent chest normal nahi
-- **C.** Treatment review ki zaroorat hai
+- **A.** Wheeze band hone se recovery prove nahi hoti, khaaskar jab patient exhaust ho raha hai.
+- **B.** Severe distress mein breath sounds ka kam hona normal finding nahi hai.
+- **C.** Treatment rokne ka decision is finding par nahi le sakte. Patient ko urgent treatment aur reassessment chahiye.
 
-**Exam trick:** Quiet chest with exhaustion is danger.
+**Exam trick:** Exhaustion ke saath silent chest emergency hai.
+
+**Clinical reference:** [GINA asthma guidance](https://ginasthma.org/2026-gina-summary-guide/) · [GINA clinical strategy](https://pmc.ncbi.nlm.nih.gov/articles/8865583/) · [Nursing respiratory assessment](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
 
 </details>
 
 ### Q8. A pulse oximeter reading fluctuates widely on a cold finger with a weak pulse. What should the nurse do first?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Increase oxygen to maximum without assessment
 - **B.** Ignore respiratory symptoms
@@ -208,21 +210,23 @@
 
 **Correct: C. Check perfusion and repeat using a reliable site**
 
-**Kyun sahi hai?** Cold finger mein blood flow kam hone se reading unreliable ho sakti hai. Patient ki condition aur signal quality check karo.
+**Kyun sahi hai?** Cold finger aur weak pulse ka matlab peripheral blood flow kam ho sakta hai. Pulse oximeter ko reliable pulsatile signal chahiye. Patient ki breathing aur circulation turant assess karo, probe fit aur signal check karo aur appropriate site par reading repeat karo. Agar patient hypoxic ya unstable lag raha hai, toh reliable reading ka wait karke necessary emergency care delay mat karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Oxygen patient ki need se do
-- **B.** Symptoms ignore karna unsafe hai
-- **D.** Highest value cherry-picking hai
+- **A.** Bina assessment maximum oxygen dena har patient ke liye suitable nahi hai. Oxygen clinical condition aur protocol ke according titrate hoti hai.
+- **B.** Unreliable monitor reading ka matlab symptoms ignore karna nahi hai.
+- **D.** Highest reading choose karne se actual condition galat document ho sakti hai.
 
-**Exam trick:** Check the patient, not only the monitor.
+**Exam trick:** Monitor ke saath patient ko bhi assess karo.
+
+**Clinical reference:** [FDA pulse oximeter limitations](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 
 </details>
 
 ### Q9. A patient has pleuritic pain and a localized grating sound that continues with inspiration and expiration but stops when breathing stops. Which finding is most likely?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Stridor
 - **B.** Fine inspiratory crackles
@@ -233,21 +237,23 @@
 
 **Correct: C. Pleural friction rub**
 
-**Kyun sahi hai?** Pleura ki swollen surfaces ek doosre se rub karti hain. Saans rokne par rubbing band ho sakti hai.
+**Kyun sahi hai?** Pleura ki inflamed rough surfaces breathing ke dauran ek doosre par move karti hain. Isse localized grating ya rubbing sound aa sakti hai. Jab patient breathing stop karta hai, pleural movement bhi rukta hai, isliye sound disappear ho sakti hai. Pleuritic pain aur breathing se linked sound milkar pleural friction rub ko support karte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Stridor upper airway se hai
-- **B.** Crackles chhoti popping sounds hain
-- **D.** Murmur heartbeat se linked hai
+- **A.** Stridor aam taur par upper airway narrowing ka harsh, high-pitched sound hai.
+- **B.** Fine crackles chhoti discontinuous popping sounds hoti hain, jo is localized grating pattern se alag hain.
+- **D.** Cardiac murmur blood flow aur cardiac cycle se associated hota hai, sirf breathing cycle se nahi.
 
-**Exam trick:** Pleural rub follows breathing.
+**Exam trick:** Pleural rub breathing ke saath linked hota hai.
+
+**Clinical reference:** [Nursing respiratory assessment](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/) · [Pleural friction rub](https://www.ncbi.nlm.nih.gov/books/NBK537118/) · [Breath sounds teaching video](https://www.youtube.com/watch?v=l0G7iXaIfOg)
 
 </details>
 
 ### Q10. A spirometry report shows FEV1/FVC below the lower limit of normal and a low FVC. Which test helps confirm whether restriction is also present?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🟡 IMPORTANT — diagnostic application | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Sputum Gram stain
 - **B.** Total lung capacity measurement
@@ -258,21 +264,23 @@
 
 **Correct: B. Total lung capacity measurement**
 
-**Kyun sahi hai?** Low FVC obstruction mein air trapping se bhi ho sakti hai. Restriction confirm karne ke liye total lung capacity kam honi chahiye.
+**Kyun sahi hai?** FEV1/FVC lower limit of normal se kam ho toh obstruction support hoti hai. Saath mein FVC kam hone ka reason air trapping bhi ho sakta hai, isliye sirf spirometry se additional restriction confirm nahi kar sakte. Lung volume measurement se TLC dekhi jaati hai. Agar TLC bhi lower limit of normal se kam hai, toh mixed obstructive-restrictive pattern support hota hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sputum infection test hai
-- **C.** SpO2 volume nahi measure karta
-- **D.** Peak flow restriction confirm nahi karta
+- **A.** Sputum Gram stain infection ki evaluation mein useful hai, lung volumes confirm nahi karta.
+- **C.** Pulse oximetry oxygen saturation estimate karti hai, TLC measure nahi karti.
+- **D.** Peak expiratory flow airflow ka estimate hai, total lung capacity ka measurement nahi.
 
-**Exam trick:** Low FVC alone does not prove restriction.
+**Exam trick:** Low FVC alone restriction confirm nahi karti.
+
+**Clinical reference:** [ERS/ATS pulmonary function interpretation](https://publications.ersnet.org/content/erj/60/1/2101499). Specialist test interpretation beyond basic spirometry is enrichment unless exam evidence is established.
 
 </details>
 
 ### Q11. After bronchoscopy under local pharyngeal anesthesia, which assessment is needed before giving oral water?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Easy | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Return of protective swallowing and gag function per policy
 - **B.** Absence of knee pain
@@ -283,21 +291,23 @@
 
 **Correct: A. Return of protective swallowing and gag function per policy**
 
-**Kyun sahi hai?** Gale ki sensation kam hai toh paani lungs mein ja sakta hai. Swallowing safety confirm karni hai.
+**Kyun sahi hai?** Bronchoscopy ke liye throat ko numb karne wali medicine protective gag aur cough reflex temporarily reduce kar sakti hai. Agar is dauran patient paani peeta hai toh aspiration ka risk hota hai. Oral intake tabhi resume karo jab protective swallowing function return ho aur procedure team ki policy ke according patient ready ho.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Knee pain swallow se related nahi
-- **C.** Bowel sounds airway protect nahi karte
-- **D.** Walking swallow prove nahi karta
+- **B.** Knee pain ka throat sensation ya aspiration risk se direct relation nahi hai.
+- **C.** Normal bowel sounds se swallowing safety establish nahi hoti.
+- **D.** Patient ka independently walk kar pana protective airway reflex return hone ka proof nahi hai.
 
-**Exam trick:** After throat anesthesia, protect airway first.
+**Exam trick:** Throat anesthesia ke baad oral intake se pehle airway protection check karo.
+
+**Clinical reference:** [MedlinePlus bronchoscopy aftercare](https://www.medlineplus.gov/ency/patientinstructions/000988.htm)
 
 </details>
 
 ### Q12. A patient is scheduled for thoracentesis. Which position usually helps expose the posterior pleural space if tolerated?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Easy | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Prone with face unsupported
 - **B.** Flat supine without support
@@ -308,15 +318,17 @@
 
 **Correct: D. Sitting upright and leaning forward with arms supported**
 
-**Kyun sahi hai?** Aage jhukkar support lene se ribs ke beech access milta hai. Position patient tolerate kare aur clinician ke plan se ho.
+**Kyun sahi hai?** Thoracentesis mein pleural space se fluid remove karna hota hai. Agar patient tolerate kar sake, toh upright baithakar thoda aage jhukana aur arms ko support dena ribs ke beech access aur comfort mein help karta hai. Nurse patient ki breathing, comfort aur stability monitor kare. Actual position aur site clinician ke plan aur ultrasound findings ke according hoti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Prone generally first choice nahi
-- **B.** Supine posterior access mushkil
-- **C.** Head-down breathing ko worsen kar sakta hai
+- **A.** Unsupported prone position routine preferred position nahi hai aur comfort ya breathing mein problem de sakti hai.
+- **B.** Flat supine position selected patients mein use ho sakti hai, lekin question usual tolerated position pooch raha hai.
+- **C.** Trendelenburg routine thoracentesis position nahi hai aur breathlessness badha sakti hai.
 
-**Exam trick:** Thoracentesis often upright, leaning forward.
+**Exam trick:** Thoracentesis mein usual position sitting, leaning forward with supported arms hai.
+
+**Clinical reference:** [Merck thoracentesis](https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis) · [NSW clinical guidance](https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/pleural-effusion/pleural-tap-thoracentesis)
 
 </details>
 
@@ -324,7 +336,7 @@
 
 ### Q13. A patient uses salbutamol several times daily for worsening asthma symptoms. What does this pattern suggest?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Adequate control because relief occurs
 - **B.** Permanent cure of airway inflammation
@@ -335,21 +347,23 @@
 
 **Correct: D. Poor control requiring prompt treatment review**
 
-**Kyun sahi hai?** Reliever se tube khul sakti hai par baar-baar zaroorat inflammation ya poor control ka sign hai. Review chahiye.
+**Kyun sahi hai?** Salbutamol airway smooth muscle ko relax karke temporary symptom relief deta hai. Agar worsening symptoms ke liye din mein baar-baar reliever chahiye, toh asthma poorly controlled ho sakta hai ya exacerbation develop ho rahi ho sakti hai. Nurse symptoms, severity, inhaler technique, adherence aur prescribed action plan review karwaye. Severe symptoms mein urgent care chahiye. Long-term asthma care mein ICS-containing treatment important hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Temporary relief long-term control nahi
-- **B.** Inflammation cure nahi hui
-- **C.** Action plan useful hai
+- **A.** Relief milna achha hai, lekin frequent reliever requirement adequate control ka proof nahi hai.
+- **B.** Salbutamol airway inflammation ka permanent cure nahi karta.
+- **C.** Written action plan patient ko worsening symptoms pehchanne aur timely help lene mein guide karta hai.
 
-**Exam trick:** Reliever frequency is a control clue.
+**Exam trick:** Repeated SABA use with worsening symptoms needs prompt review.
+
+**Clinical reference:** [GINA asthma guidance](https://ginasthma.org/2026-gina-summary-guide/) · [GINA clinical strategy](https://pmc.ncbi.nlm.nih.gov/articles/8865583/)
 
 </details>
 
 ### Q14. A patient taking an inhaled corticosteroid develops white patches in the mouth. Which teaching reduces this risk?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Easy | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Stop every prescribed inhaler immediately
 - **B.** Use the inhaler only during meals
@@ -360,21 +374,23 @@
 
 **Correct: C. Rinse the mouth and spit after the dose**
 
-**Kyun sahi hai?** Medicine mouth mein reh jaaye toh fungal infection ho sakta hai. Rinse aur spit medicine residue kam karta hai.
+**Kyun sahi hai?** Inhaled corticosteroid ka kuch medicine mouth aur throat mein deposit ho sakta hai. Isse oral candidiasis ka risk badhta hai. Prescribed maintenance dose ke baad mouth ko water se rinse karke spit karna residue kam karne mein help karta hai. White patches already present hain toh clinical review bhi zaroori hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sab inhalers band unsafe
-- **B.** Meal timing prevention nahi
-- **D.** Paani nigalna required nahi
+- **A.** Sab inhalers apne aap band karne se asthma control kharab ho sakta hai.
+- **B.** Sirf meals ke time inhaler use karna thrush prevent nahi karta aur prescribed schedule disturb kar sakta hai.
+- **D.** Rinse water swallow karne ki zaroorat nahi hai, use spit karna chahiye.
 
-**Exam trick:** ICS mouth rinse helps prevent thrush.
+**Exam trick:** Maintenance ICS ke baad rinse and spit.
+
+**Clinical reference:** [GINA 2026 strategy summary](https://academic.oup.com/ajrccm/article/212/12/2919/8885525?searchresult=1) · [OpenStax inhaled medications](https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications)
 
 </details>
 
 ### Q15. A patient with severe COPD becomes drowsy despite an SpO2 of 91% on controlled oxygen. Which investigation is most useful for detecting rising carbon dioxide?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Repeat oxygen saturation alone
 - **B.** Arterial blood gas analysis
@@ -385,21 +401,23 @@
 
 **Correct: B. Arterial blood gas analysis**
 
-**Kyun sahi hai?** SpO2 oxygen batata hai, CO2 nahi. Drowsiness CO2 badhne ka clue ho sakta hai. ABG se CO2 aur pH pata chalte hain.
+**Kyun sahi hai?** SpO2 oxygen saturation ka estimate hai, CO2 level nahi batata. COPD patient ka drowsy hona rising CO2 ya kisi doosri serious problem ka warning sign ho sakta hai. ABG se PaCO2, pH aur oxygenation assess kar sakte hain. Nurse turant clinical escalation aur airway-breathing assessment kare, ABG ka wait karke emergency response delay na kare.
 
 **Baaki options kyun galat hain?**
 
-- **A.** SpO2 se CO2 nahi milta
-- **C.** Color CO2 nahi batata
-- **D.** Chest size ventilation prove nahi
+- **A.** Repeat SpO2 oxygenation trend de sakta hai, lekin hypercapnia ko detect nahi karta.
+- **C.** Sputum color infection assessment mein help kar sakta hai, blood CO2 measure nahi karta.
+- **D.** Chest circumference se arterial CO2 ya acid-base status nahi pata chalta.
 
-**Exam trick:** COPD with drowsiness needs ventilation assessment.
+**Exam trick:** Normal ya target SpO2 se adequate ventilation prove nahi hoti.
+
+**Clinical reference:** [COPD clinical care standard](https://www.safetyandquality.gov.au/standards/clinical-care-standards/chronic-obstructive-pulmonary-disease-clinical-care-standard)
 
 </details>
 
 ### Q16. A patient using a dry-powder inhaler cannot generate an adequate inspiratory flow during a severe exacerbation. Which action is appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Request assessment for an appropriate alternative delivery device
 - **B.** Attach a standard spacer to the dry-powder inhaler
@@ -410,21 +428,23 @@
 
 **Correct: A. Request assessment for an appropriate alternative delivery device**
 
-**Kyun sahi hai?** DPI powder ko andar kheenchne ke liye enough inspiratory flow chahiye. Alternative device review karo.
+**Kyun sahi hai?** Dry powder inhaler mein patient ki inspiratory effort powder ko disperse karke lungs tak pahunchane mein help karti hai. Severe exacerbation mein patient sufficient quick deep breath nahi le pa raha ho toh delivery unreliable ho sakti hai. Prescriber aur medical team ko promptly involve karo taaki suitable device aur urgent treatment choose ho sake.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Spacer usually pMDI ke liye hota hai
-- **C.** DPI mein exhale se moisture aa sakti hai
-- **D.** Poor flow mein delivery unreliable
+- **B.** Standard spacer pressurized metered-dose inhaler ke saath use hota hai, DPI ke saath routinely nahi.
+- **C.** Device ke andar exhale karne se moisture aur powder disturbance ho sakti hai. Patient ko device se door exhale karna chahiye.
+- **D.** Poor inspiratory flow mein full dose lungs tak pahunchne ka assumption safe nahi hai.
 
-**Exam trick:** Match inhaler to patient ability.
+**Exam trick:** Inhaler device patient ki breathing ability ke according select karo.
+
+**Clinical reference:** [OpenStax inhaled medications](https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications) · [Australian Asthma Handbook](https://www.asthmahandbook.org.au/management/adults-and-adolescents/principles-of-management/selecting-inhalers-for-adults-and-adolescents)
 
 </details>
 
 ### Q17. A COPD patient reports that meals cause breathlessness and early fatigue. Which nursing suggestion is most appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Easy | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Small frequent meals with rest before eating
 - **B.** One very large meal each day
@@ -435,21 +455,23 @@
 
 **Correct: A. Small frequent meals with rest before eating**
 
-**Kyun sahi hai?** Bada meal diaphragm ko upar daba sakta hai. Chhote meals aur rest energy bachate hain.
+**Kyun sahi hai?** COPD mein breathing ka effort already zyada ho sakta hai. Ek bada meal stomach fullness aur breathing discomfort badha sakta hai. Chhote frequent meals aur eating se pehle rest lene se patient ko adequate nutrition lena aasaan ho sakta hai. Diet patient ki nutritional needs aur clinical condition ke according individualize karo.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Large meal breathlessness badha sakta hai
-- **C.** Flat position breathing mushkil kar sakti hai
-- **D.** Protein zaroori ho sakta hai
+- **B.** Ek hi bahut bada meal fullness aur fatigue badha sakta hai.
+- **C.** Meal ke turant baad flat letna breathing ya reflux symptoms worsen kar sakta hai.
+- **D.** Protein muscle strength aur nutrition ke liye important hai. Bina clinical indication sab protein-rich foods avoid nahi karne chahiye.
 
-**Exam trick:** Small meals can ease dyspnea.
+**Exam trick:** COPD nutrition mein small frequent meals aur rest useful hain.
+
+**Clinical reference:** [American Lung Association COPD nutrition](https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/living-with-copd/nutrition)
 
 </details>
 
 ### Q18. A COPD exacerbation patient has pH 7.28, PaCO2 72 mmHg and is alert enough to protect the airway. Which respiratory support should be considered with the medical team?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Incentive spirometry as sole emergency therapy
 - **B.** Withhold all ventilatory support
@@ -460,15 +482,17 @@
 
 **Correct: D. Noninvasive bilevel ventilation if appropriate**
 
-**Kyun sahi hai?** CO2 high aur pH low hai. Bilevel NIV breathing muscles ko support dekar CO2 nikalne mein help kar sakti hai.
+**Kyun sahi hai?** pH 7.28 acidic hai aur PaCO2 72 mmHg high hai. Ye COPD exacerbation ke saath acute hypercapnic respiratory acidosis ko support karta hai. Suitable patient mein bilevel NIV breathing effort kam karke ventilation improve kar sakti hai. Medical team ke saath urgent assessment, contraindications, monitoring aur repeat ABG zaroori hain. Deterioration ya NIV failure mein invasive ventilation assessment delay nahi karna hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Spirometer acute ventilatory failure ka treatment nahi
-- **B.** Support delay unsafe
-- **C.** Oxygen akeli CO2 clearance solve nahi karti
+- **A.** Incentive spirometry acute hypercapnic respiratory failure ka sole emergency treatment nahi hai.
+- **B.** Ventilatory support completely withhold karna patient ki condition worsen kar sakta hai.
+- **C.** Controlled oxygen important ho sakti hai, lekin oxygen alone inadequate CO2 clearance ko reliably correct nahi karti.
 
-**Exam trick:** Hypercapnic acidotic COPD may benefit from NIV.
+**Exam trick:** Acidotic hypercapnic COPD mein suitable patient ke liye bilevel NIV consider karo.
+
+**Clinical reference:** [COPD clinical care standard](https://www.safetyandquality.gov.au/standards/clinical-care-standards/chronic-obstructive-pulmonary-disease-clinical-care-standard) · [ERS/ATS NIV guideline](https://publications.ersnet.org/lookup/pmid/28860265) · [2026 ATS guideline](https://academic.oup.com/ajrccm/article/212/9/2135/8721554)
 
 </details>
 
@@ -838,3 +862,9 @@
 - [Merck acid-base compensation](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders) (Q3–5).
 - [AARC suction guideline](https://pubmed.ncbi.nlm.nih.gov/35078900/) (Q29).
 - Specific numerical A&P, spirometry and ventilator MCQ video mapping pending. Full option-by-option prose expansion pending.
+
+
+### Q7–18 practice video mapping
+- [Aarogyam Infinity NORCET 10 respiratory MCQs, Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) — respiratory system, asthma/COPD topic practice, video metadata supports Q7 and Q13–18 topics. Exact matching question timestamps not verified.
+- [Iram Fatima respiratory disorders MCQs](https://www.youtube.com/watch?v=_ETf-t1W-sQ) — asthma and COPD topic practice Q13–18. Historical PYQ claims not authenticated.
+- [RegisteredNurseRN lung sounds teaching](https://www.youtube.com/watch?v=l0G7iXaIfOg) — concept demonstration Q7/Q9, not counted as MCQ-specific video. Dedicated question-solving links for Q8–12 pending.
