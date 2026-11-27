@@ -9,3 +9,8 @@
 | **Total** | **24** |
 
 All entries are source-linked practice adaptations, not verbatim authenticated official exam papers. Further HPRCA, RRB, DSSSB, JIPMER, AIIMS and state-paper research remains pending. [Research register](Infection-Control-and-Microbiology-Past-Paper-Research-Register.md)
+
+
+## Additional academic examination evidence — separate from recruitment PYQs
+
+[AIIMS Kalyani B.Sc. Nursing August 2024 — two gram-negative microbiology practice adaptations](AIIMS-Kalyani-2024-Microbiology-Gram-Negative-Adaptations.md). Institution library paper text retrieved, screenshot unavailable, answer key not independently authenticated. Not included in recruitment PYQ count.

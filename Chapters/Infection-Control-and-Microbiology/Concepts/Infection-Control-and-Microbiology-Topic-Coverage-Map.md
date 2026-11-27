@@ -47,7 +47,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 7. Bacterial structure, classification and growth — 40 original MCQs published
 - 8. Staining, microscopy and bacterial culture — 40 original MCQs published
 - 9. Gram-positive cocci and bacilli — [40 original MCQs published](../MCQs/09-Gram-Positive-Cocci-and-Bacilli-40-MCQs.md)
-- 10. Gram-negative cocci and enteric bacilli — pending
+- 10. Gram-negative cocci and enteric bacilli — [40 original MCQs published](../MCQs/10-Gram-Negative-Cocci-and-Enteric-Bacilli-40-MCQs.md)
 - 11. Nonfermenters and hospital bacterial pathogens — pending
 - 12. Mycobacteria and tuberculosis — pending
 - 13. Anaerobes and spore-forming pathogens — pending
