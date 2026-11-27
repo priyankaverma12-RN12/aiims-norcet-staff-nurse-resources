@@ -25,7 +25,15 @@ async function showMetrics(){
    for(const key of ['mcq','mock','pyq'])chips.append(node('span',c.totals[key]+' '+({mcq:'MCQs',mock:'mock slots',pyq:'PYQ slots'}[key])));
    summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
    const tools=node('div',undefined,'metric-chapter-tools');tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),node('span',c.banks.mock+' mock files · '+c.evidenceFiles+' PYQ notes/registers without detected four-option questions'));card.append(tools);
-   const rows=node('div',undefined,'metric-records');for(const f of matches){const row=node('div',undefined,'metric-record'),left=node('div');left.append(studyLink(knownTitle(f.path),f.path),node('small',getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category]));row.append(left,node('strong',String(f.slots)));rows.append(row)}if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
+   const rows=node('div',undefined,'metric-records');for(const f of matches){
+    const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
+    row.href=route(f.path);row.dataset.category=f.category;
+    const glyph=node('span',({mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
+    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));
+    const count=node('div',undefined,'metric-record-count');count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
+    const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
+    row.append(glyph,left,count,arrow);rows.append(row)
+   }if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
   }
   if(!list.children.length)list.append(node('p','No matching topics.','empty-state'));
  }

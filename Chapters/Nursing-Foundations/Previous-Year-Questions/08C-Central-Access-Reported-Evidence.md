@@ -31,7 +31,7 @@ D. A central catheter in a vein measures systemic arterial pressure without furt
 
 [ISCCM hemodynamic monitoring guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC9989872/) · [CVP measurement review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12351226/)
 
-**▶️ [NORCET 10 cardiovascular MCQ series — published CVP chapter at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s)** — Ye related topic-level lead hai. Exact question coverage, channel aur playback confirm nahi hua hai.
+**YouTube MCQ practice: verification pending.** [Supplementary CVP chapter-marker lead at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s). Direct access dobara nahi mila. Isliye exact question coverage, channel aur playback confirm nahi hue hain.
 
 </details>
 

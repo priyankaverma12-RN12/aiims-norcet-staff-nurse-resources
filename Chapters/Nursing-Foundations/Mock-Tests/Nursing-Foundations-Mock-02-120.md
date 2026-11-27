@@ -510,7 +510,7 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 ### Q15. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Transfusion-related acute lung injury
 - **B.** A normal post-transfusion change
@@ -542,7 +542,7 @@ TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q6-a-patient-develops-acute-hypoxemia-and-bilateral-lung-infiltrates-during-or-within-hours-of-transfusion-without-clear-circulatory-overload-which-complication-should-be-considered)
 
 ### Q16. Before accessing a needleless IV connector, which action reduces infection risk?
 
@@ -688,7 +688,7 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 ### Q20. Which term describes fever fluctuating above normal without returning to normal during the observed period?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Intermittent fever
 - **B.** Hypothermia
@@ -718,7 +718,7 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q7-which-term-describes-fever-fluctuating-above-normal-without-returning-to-normal-during-the-observed-period)
 
 ## Block 2
 
@@ -1367,7 +1367,7 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 ### Q40. A patient with suspected fever has shaking chills while temperature is rising. Which explanation is most accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Shivering always means the core temperature is normal
 - **B.** Shivering indicates that body heat production has ceased
@@ -1397,7 +1397,7 @@ Fever ki onset mein hypothalamus higher set point establish karta hai. Body ka a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q5-a-patient-with-suspected-fever-has-shaking-chills-while-temperature-is-rising-which-explanation-is-most-accurate)
 
 ## Block 3
 
@@ -1884,7 +1884,7 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 ### Q57. Why should a medication not be added directly to a blood component bag?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It may be incompatible, contaminate the product or cause a dosing or identification error
 - **B.** All drugs are guaranteed compatible with red cells
@@ -1916,7 +1916,7 @@ Blood component ek carefully prepared biological product hai. Direct medicine ad
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q8-why-should-a-medication-not-be-added-directly-to-a-blood-component-bag)
 
 ### Q58. Why should rescuers allow complete chest recoil between compressions?
 
@@ -2062,7 +2062,7 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 ### Q62. Which theorist is associated with fourteen basic human needs and helping patients gain independence?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Martha Rogers
 - **B.** Hildegard Peplau
@@ -2088,11 +2088,11 @@ Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient k
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q5-which-theorist-is-associated-with-fourteen-basic-human-needs-and-helping-patients-gain-independence)
 
 ### Q63. Which specimen handling action is appropriate for a stool sample?
 
@@ -2257,7 +2257,7 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 ### Q68. During transfusion an older patient develops dyspnea, hypertension and signs of volume overload. Which complication is particularly relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 6 Prelims, 2024 — related reported concept**
 
 - **A.** An uncomplicated vasovagal reaction
 - **B.** Expected therapeutic response
@@ -2285,11 +2285,13 @@ TACO ka full form transfusion-associated circulatory overload hai. Transfused vo
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — circulatory overload versus septicemia, Nursing Wallah by PW (25:21)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1521s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [NORCET 6 Prelims 2024 memory-based report](https://testbook.com/question-answer/after-blood-transfusion-sign-and-symptom-of-circu--662a478cb5c94215148dee68). Is report mein transfusion ke baad circulatory overload ke findings poochhe gaye hain. Official paper aur key authenticate nahi hue hain. Yeh original question related concept test karta hai.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q5-during-transfusion-an-older-patient-develops-dyspnea-hypertension-and-signs-of-volume-overload-which-complication-is-particularly-relevant)
 
 ### Q69. A patient wears removable dentures. Which action protects the dentures during cleaning?
 
@@ -2388,7 +2390,7 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 ### Q72. During the initial meeting, a nurse and patient identify the presenting concern and establish roles. Which phase of Peplau's relationship is illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Termination
 - **B.** Resolution after goals are achieved
@@ -2418,7 +2420,7 @@ Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti 
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q7-during-the-initial-meeting-a-nurse-and-patient-identify-the-presenting-concern-and-establish-roles-which-phase-of-peplaus-relationship-is-illustrated)
 
 ### Q73. A patient's fingers are cold and a pulse oximeter reading fluctuates widely with a poor waveform. What should the nurse do?
 
@@ -2505,7 +2507,7 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 ### Q76. Which goal is served by preoperative instruction in deep breathing and mobilization?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Eliminate the need to reassess after surgery
 - **B.** Replace postoperative pain management
@@ -2516,13 +2518,26 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 **Correct: D. Prepare the patient for appropriate postoperative recovery activities**
 
-Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. Surgery ke baad nurse condition aur restrictions ke according practice reinforce karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching complications completely prevent nahi karti. Pain control aur assessment still important hain.
+Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow breathing kar sakta hai aur kam move kar sakta hai. Isse lung ke air sacs collapse hone aur immobility-related complications ka risk badh sakta hai. Surgery se pehle nurse suitable deep breathing, coughing aur mobilization techniques samjha sakti hai. Baad mein stability, pain aur surgical restrictions dekhkar exercises reinforce ki jaati hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Teaching postoperative assessment ki zaroorat khatam nahi karti.
+- **B (Galat):** Pain management ke bina patient deep breath ya movement comfortably nahi kar paata.
+- **C (Galat):** Koi exercise sabhi possible postoperative complications ko prevent karne ki guarantee nahi deti.
+- **D (Sahi):** Preoperative instruction patient ko recovery activities ke liye mentally aur practically prepare karti hai.
+
+**Exam clue:** Recovery exercises ko patient ki current condition ke hisaab se reinforce karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**▶️ [YouTube MCQ practice — deep breathing and postoperative teaching, ADAPT NCLEX REVIEW (11:31)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=691s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q6-which-goal-is-served-by-preoperative-instruction-in-deep-breathing-and-mobilization)
 
 ### Q77. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
 
@@ -2609,7 +2624,7 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 ### Q80. A postoperative patient in recovery has gurgling respirations and reduced consciousness. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Teach discharge exercises before assessment
 - **B.** Check the meal preference first
@@ -2620,13 +2635,26 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 **Correct: D. Assess airway patency and breathing and obtain appropriate airway support**
 
-Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced consciousness ke saath airway compromise urgent priority hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Oral fluid aspiration risk badhati hai. Meal aur discharge teaching breathing stabilize hone ke baad appropriate hain.
+Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab consciousness kam hoti hai, toh patient airway ko khud protect nahi kar paata. Nurse turant airway aur breathing assess karti hai, emergency help leti hai aur trained team ke saath indicated airway positioning, suction, oxygen ya ventilation support arrange karti hai. Routine care ke liye emergency assessment delay nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Discharge exercises immediate life-threatening problems manage hone ke baad sikhayi jaati hain.
+- **B (Galat):** Meal preference breathing compromise address nahi karti aur assessment delay kar sakti hai.
+- **C (Galat):** Reduced consciousness mein oral fluid lungs mein ja sakta hai.
+- **D (Sahi):** Airway aur breathing first priority hain, kyunki oxygen supply rukne par patient rapidly deteriorate ho sakta hai.
+
+**Exam clue:** Reduced consciousness aur abnormal breathing mein airway aur breathing ko priority do.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q7-a-postoperative-patient-in-recovery-has-gurgling-respirations-and-reduced-consciousness-what-takes-priority)
 
 ## Block 5
 
@@ -2874,7 +2902,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 ### Q89. Which IV fluid is conventionally compatible with standard red-cell administration, subject to blood bank policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 0.9% sodium chloride
 - **B.** 5% dextrose as the universal compatible solution
@@ -2906,7 +2934,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q7-which-iv-fluid-is-conventionally-compatible-with-standard-red-cell-administration-subject-to-blood-bank-policy)
 
 ### Q90. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
 
@@ -2965,7 +2993,7 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 ### Q92. A patient in recovery has rapidly falling BP, rising pulse and increasing wound drainage. Which complication is most concerning?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A simple knowledge deficit
 - **B.** Normal sleep physiology
@@ -2976,13 +3004,26 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 **Correct: D. Postoperative hemorrhage with impaired perfusion**
 
-Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poor perfusion suggest karte hain, isliye urgent surgical review chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ye stable recovery ka expected pattern nahi hai. Sleep aur knowledge deficit blood loss explain nahi karte.
+Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta hai, toh organs tak oxygen aur blood pahunchne mein dikkat ho sakti hai. Pulse badhna, BP girna aur wound drainage rapidly badhna ongoing blood loss ke warning signs hain. Nurse ABC, vital signs, perfusion aur wound assess karke urgent surgical help activate karti hai aur hemorrhage protocol follow karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Knowledge deficit teaching ki need dikhata hai, lekin physiological deterioration urgent hai.
+- **B (Galat):** Normal sleep increasing wound blood loss aur circulatory instability explain nahi karti.
+- **C (Galat):** Rapidly falling BP aur increasing drainage routine recovery ka expected pattern nahi hai.
+- **D (Sahi):** Hemorrhage circulating volume kam kar sakta hai, isliye tachycardia aur hypotension impaired perfusion ka concern hain.
+
+**Exam clue:** Falling BP, rising pulse aur increasing bloody drainage ko urgent bleeding warning samjho.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q8-a-patient-in-recovery-has-rapidly-falling-bp-rising-pulse-and-increasing-wound-drainage-which-complication-is-most-concerning)
 
 ### Q93. What is the usual purpose of flushing an enteral feeding tube with prescribed water?
 
@@ -3170,7 +3211,7 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 ### Q99. Which nursing theory primarily emphasizes therapeutic nurse-patient interpersonal relationships?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Roy's adaptation model
 - **B.** Peplau's theory
@@ -3196,11 +3237,11 @@ Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trus
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q6-which-nursing-theory-primarily-emphasizes-therapeutic-nurse-patient-interpersonal-relationships)
 
 ### Q100. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
@@ -3504,7 +3545,7 @@ New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust 
 
 ### Q109. A patient has a temperature of 35°C after prolonged cold exposure and is becoming confused. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Encourage vigorous exercise without assessment
 - **B.** Give alcohol to increase warmth
@@ -3534,7 +3575,7 @@ Cold exposure aur confusion ke saath 35°C reading concerning hai, chahe exact c
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q8-a-patient-has-a-temperature-of-35c-after-prolonged-cold-exposure-and-is-becoming-confused-which-approach-is-appropriate)
 
 ### Q110. A frail patient is prescribed an enema and has severe renal impairment. Which safety check is important?
 
@@ -3600,7 +3641,7 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 ### Q112. Which theorist developed the Adaptation Model of nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lydia Hall
 - **B.** Dorothy Johnson
@@ -3626,15 +3667,15 @@ Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q8-which-theorist-developed-the-adaptation-model-of-nursing)
 
 ### Q113. A patient has a known latex allergy before surgery. Which action is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait for allergic symptoms before changing equipment
 - **B.** Use latex equipment if the surgery is brief
@@ -3645,13 +3686,26 @@ Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke
 
 **Correct: C. Communicate the allergy and ensure a latex-safe perioperative plan**
 
-Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko allergy pehle se pata hona chahiye taaki suitable equipment ready ho.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Brief exposure aur premedication risk eliminate nahi karte. Reaction ka wait unsafe hai.
+Latex allergy mein immune system natural rubber latex ke proteins par react kar sakta hai. Severe reaction mein airway swelling, breathing problem aur low BP ho sakta hai. Nurse allergy ko record aur communicate karti hai aur team ke saath latex-safe gloves, devices aur environment arrange karti hai. Premedication exposure avoid karne ka replacement nahi hoti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Symptoms ka wait karne se preventable exposure aur serious reaction ho sakti hai.
+- **B (Galat):** Brief surgery mein bhi latex reaction trigger kar sakta hai.
+- **C (Sahi):** Team ko pehle inform karne aur latex-safe plan banane se exposure risk kam hota hai.
+- **D (Galat):** Premedication allergy risk completely khatam nahi karti, isliye alert remove karna unsafe hai.
+
+**Exam clue:** Known latex allergy mein exposure prevent karo.
+
+**Clinical reference:** [Clinical guidance](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/operating-suite)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q5-a-patient-has-a-known-latex-allergy-before-surgery-which-action-is-important)
 
 ### Q114. A patient receiving prescribed compression stockings reports toe numbness and the stockings have rolled into a tight band. What should the nurse do?
 
@@ -3732,7 +3786,7 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 ### Q117. Which temperature pattern returns to normal at least once in a 24-hour period despite fever spikes?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 1 September 2020 — related reported concept**
 
 - **A.** Remittent fever that never reaches normal
 - **B.** Continuous fever
@@ -3764,7 +3818,7 @@ Intermittent fever mein high temperature ke periods ke beech temperature normal 
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q6-which-temperature-pattern-returns-to-normal-at-least-once-in-a-24-hour-period-despite-fever-spikes)
 
 ### Q118. Which tissue layer is targeted in an intradermal injection?
 

@@ -4,7 +4,7 @@
 
 ### Q1. A patient arrives for surgery with an unsigned consent form and asks a new question about risks. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Proceed because admission implies surgical consent
 - **B.** Notify the responsible clinician so informed consent can be completed before the procedure
@@ -28,13 +28,17 @@ Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko sam
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported question](https://testbook.com/question-answer/what-legal-preparation-done-for-a-patient-who-is-u--681c8a6025e025e97fd344fc). Is report mein surgery se pehle consent ki zaroorat poochhi gayi hai. Yeh related concept hai, original scenario ka exact match nahi hai. Official paper aur key independently authenticate nahi hue hain.
+
+**▶️ [YouTube MCQ practice — informed consent, ADAPT NCLEX REVIEW (13:27)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=807s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q66](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q66-a-patient-arrives-for-surgery-with-an-unsigned-consent-form-and-asks-a-new-question-about-risks-what-should-the-nurse-do)
+
 ### Q2. Which action is appropriate during a preoperative checklist?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Verify identity, planned procedure, site, allergies and relevant preparation
 - **B.** Confirm only the bed number
@@ -64,9 +68,11 @@ Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho 
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q46](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q46-which-action-is-appropriate-during-a-preoperative-checklist)
+
 ### Q3. A patient scheduled for anesthesia reports eating shortly before the procedure despite fasting instructions. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Document that the patient remained fasting
 - **B.** Induce vomiting at bedside
@@ -96,9 +102,11 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q116](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q116-a-patient-scheduled-for-anesthesia-reports-eating-shortly-before-the-procedure-despite-fasting-instructions-what-should-the-nurse-do)
+
 ### Q4. Which practice is preferred if hair must be removed before an operation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Remove all body hair regardless of site
 - **B.** Use an unapproved chemical depilatory on damaged skin
@@ -126,9 +134,11 @@ Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se sh
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q91](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q91-which-practice-is-preferred-if-hair-must-be-removed-before-an-operation)
+
 ### Q5. A patient has a known latex allergy before surgery. Which action is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Remove the allergy label after premedication
 - **B.** Wait for allergic symptoms before changing equipment
@@ -156,9 +166,11 @@ Latex allergy mein immune system natural rubber latex ke proteins par react kar 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q113](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q113-a-patient-has-a-known-latex-allergy-before-surgery-which-action-is-important)
+
 ### Q6. Which goal is served by preoperative instruction in deep breathing and mobilization?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Eliminate the need to reassess after surgery
 - **B.** Prepare the patient for appropriate postoperative recovery activities
@@ -182,13 +194,15 @@ Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow brea
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — deep breathing and postoperative teaching, ADAPT NCLEX REVIEW (11:31)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=691s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q76](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q76-which-goal-is-served-by-preoperative-instruction-in-deep-breathing-and-mobilization)
+
 ### Q7. A postoperative patient in recovery has gurgling respirations and reduced consciousness. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess airway patency and breathing and obtain appropriate airway support
 - **B.** Offer oral fluids
@@ -216,9 +230,11 @@ Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab conscio
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q80](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q80-a-postoperative-patient-in-recovery-has-gurgling-respirations-and-reduced-consciousness-what-takes-priority)
+
 ### Q8. A patient in recovery has rapidly falling BP, rising pulse and increasing wound drainage. Which complication is most concerning?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Routine pain-free recovery
 - **B.** Normal sleep physiology
@@ -246,9 +262,11 @@ Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q92](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q92-a-patient-in-recovery-has-rapidly-falling-bp-rising-pulse-and-increasing-wound-drainage-which-complication-is-most-concerning)
+
 ### Q9. Which factor is assessed using the Aldrete-type postanesthesia recovery score?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only the pain score
 - **B.** Only wound drainage color
@@ -276,9 +294,11 @@ Aldrete-type recovery score anesthesia ke baad physiological recovery assess kar
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q80](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q80-which-factor-is-assessed-using-the-aldrete-type-postanesthesia-recovery-score)
+
 ### Q10. A postoperative patient has nausea, retching and a high aspiration risk. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Keep the patient flat despite active vomiting without assessing airway
 - **B.** Ignore the symptoms because anesthesia is finished
@@ -306,9 +326,11 @@ Anesthesia ke baad nausea aur vomiting ho sakti hai. Agar vomit airway mein chal
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q7](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q7-a-postoperative-patient-has-nausea-retching-and-a-high-aspiration-risk-which-action-is-appropriate)
+
 ### Q11. Why is early safe postoperative mobilization encouraged when not contraindicated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** It replaces all postoperative observations
 - **B.** It supports functional recovery and reduces complications of immobility
@@ -336,9 +358,11 @@ Jab patient bahut der bed par rehta hai, toh leg muscles ki pumping kam ho jaati
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q68](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q68-why-is-early-safe-postoperative-mobilization-encouraged-when-not-contraindicated)
+
 ### Q12. A postoperative patient has not voided and reports increasing suprapubic discomfort. What is the best initial assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess bladder distension and use bladder scanning if indicated
 - **B.** Give repeated unprescribed diuretics
@@ -366,9 +390,11 @@ Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar 
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q24](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q24-a-postoperative-patient-has-not-voided-and-reports-increasing-suprapubic-discomfort-what-is-the-best-initial-assessment)
+
 ### Q13. Which nursing intervention is appropriate to support postoperative venous thrombosis prevention?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Apply prescribed mechanical prophylaxis correctly and encourage suitable mobility
 - **B.** Massage every calf deeply
@@ -396,9 +422,11 @@ Venous thrombosis ka matlab vein ke andar blood clot ban jaana hai. Surgery aur 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q57](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q57-which-nursing-intervention-is-appropriate-to-support-postoperative-venous-thrombosis-prevention)
+
 ### Q14. A patient receiving spinal anesthesia develops new hypotension and nausea. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume low BP is harmless after every spinal anesthetic
 - **B.** Encourage standing immediately
@@ -426,9 +454,11 @@ Spinal anesthesia spinal nerves ke signals temporarily block karti hai. Isse sym
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q116](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q116-a-patient-receiving-spinal-anesthesia-develops-new-hypotension-and-nausea-which-action-is-appropriate)
+
 ### Q15. A sterile instrument falls below the sterile working field during a procedure. What is the correct action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Wipe it with a dry towel and reuse
 - **B.** Ask the patient whether it looks sterile
@@ -456,9 +486,11 @@ Sterile ka matlab microorganisms se free hona hai. Sterile field controlled aur 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q21](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q21-a-sterile-instrument-falls-below-the-sterile-working-field-during-a-procedure-what-is-the-correct-action)
+
 ### Q16. What is the purpose of counting surgical sponges and instruments according to the operative policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Replace the surgical time-out
 - **B.** Reduce the risk of unintended retained surgical items
@@ -488,9 +520,11 @@ Operation mein sponges, needles aur instruments use hote hain. Agar item patient
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q77](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q77-what-is-the-purpose-of-counting-surgical-sponges-and-instruments-according-to-the-operative-policy)
+
 ### Q17. The final surgical count is incorrect. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Assume the missing item is outside the room
 - **B.** Immediately communicate the discrepancy and follow the retained-item prevention protocol
@@ -520,9 +554,11 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q54](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q54-the-final-surgical-count-is-incorrect-what-is-the-appropriate-nursing-response)
+
 ### Q18. Which item is especially important to confirm before transferring a postoperative patient to the ward?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Current airway and vital status, procedure details, orders and recovery criteria
 - **B.** Only the time the surgeon arrived
@@ -550,9 +586,11 @@ Postoperative handover mein ek team doosri team ko patient ki important informat
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q66](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q66-which-item-is-especially-important-to-confirm-before-transferring-a-postoperative-patient-to-the-ward)
+
 ### Q19. A patient develops severe disproportionate limb pain and new paresthesia after surgery with a tight cast. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give extra bedding and reassess tomorrow
 - **B.** Massage beneath the cast blindly
@@ -580,9 +618,11 @@ Compartment syndrome mein muscle ke around closed space ka pressure itna badh sa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q3](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q3-a-patient-develops-severe-disproportionate-limb-pain-and-new-paresthesia-after-surgery-with-a-tight-cast-what-should-the-nurse-do)
+
 ### Q20. Which postoperative education is important before a patient leaves the hospital?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Avoid discussing when to seek help
 - **B.** Tell the patient to change medication doses independently
@@ -609,6 +649,8 @@ Discharge education se patient ghar par recovery safely manage kar sakta hai. Nu
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q86](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q86-which-postoperative-education-is-important-before-a-patient-leaves-the-hospital)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)

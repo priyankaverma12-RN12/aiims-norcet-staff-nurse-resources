@@ -155,7 +155,7 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 ### Q6. A patient develops fever, chills and flank pain soon after a red cell transfusion starts. What is the immediate action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 11 September 2022 — related reported concept** · **🟣 AIIMS NORCET 9 Mains, 27 September 2025 — related reported concept**
 
 - **A.** Administer the next unit
 - **B.** Finish the current unit before reporting
@@ -183,11 +183,13 @@ Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — transfusion-reaction priority interventions, Nursing Wallah by PW (17:50)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [NORCET 2022 memory-based report](https://testbook.com/question-answer/patient-is-undergoing-blood-transfusion-and-sudden--632048b3fc9b126a3aefd06b) · [NORCET 9 Mains 2025 memory-based report](https://testbook.com/question-answer/during-a-blood-transfusion-a-patient-suddenly-dev--692ee9e35f2b488969718e97). Dono third-party reports suspected transfusion reaction mein transfusion rokne ki priority test karti hain. Official papers aur keys independently authenticate nahi hue hain. Current protocol ke hisaab se assessment aur venous access manage karo.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q3](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q3](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q3-a-patient-develops-fever-chills-and-flank-pain-soon-after-a-red-cell-transfusion-starts-what-is-the-immediate-action)
 
 ### Q7. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
@@ -536,7 +538,7 @@ Patient identification mein do independent approved person-specific identifiers 
 
 ### Q18. Who developed the Self-Care Deficit Nursing Theory?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 NORCET, 1 September 2020 — related reported concept** · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Sister Callista Roy
 - **B.** Jean Watson
@@ -562,13 +564,13 @@ Self-care ka matlab hai apni health aur daily needs ka dhyan khud rakhna. Jaise 
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated.
+**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated. [AIIMS Delhi 15 September 2019 — memory-based report](https://testbook.com/question-answer/self-care-deficit-theory-proposed-by--62bf0d469af5fc8fa0529b2c) mein self-care deficit theory ki attribution poochhi gayi hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q2](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q2](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q2-who-developed-the-self-care-deficit-nursing-theory)
 
 ### Q19. A sterile drape becomes wet through contact with a nonsterile surface. What should the nurse do?
 
@@ -684,7 +686,7 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 ### Q22. Which nursing theorist emphasized environmental conditions such as ventilation, cleanliness and light in promoting healing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II — related reported concept** · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Florence Nightingale
 - **B.** Hildegard Peplau
@@ -710,13 +712,13 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ.
+**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ. [AIIMS Bhubaneswar 15 September 2019 — memory-based report](https://testbook.com/question-answer/nursing-was-defined-as-the-art-of-utilizing--62580af01c6a3e352caa15ff) mein environment aur recovery ka related concept diya gaya hai. Official paper aur key independently authenticate nahi hue hain.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q1](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q1](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q1-which-nursing-theorist-emphasized-environmental-conditions-such-as-ventilation-cleanliness-and-light-in-promoting-healing)
 
 ### Q23. A patient is receiving an IV infusion and reports burning at the cannula site. The site is red and warm along the vein, without cool swelling. What should the nurse suspect?
 
@@ -1015,7 +1017,7 @@ Subjective data patient ka personal experience hai. Burning sensation nurse dire
 
 ### Q32. Before starting a blood transfusion, which verification is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Check only the blood bag color
 - **B.** Use the room number as identification
@@ -1047,7 +1049,7 @@ Blood transfusion mein kisi doosre patient ke liye compatible unit galti se lag 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q1](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q1](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q1-before-starting-a-blood-transfusion-which-verification-is-essential)
 
 ### Q33. A patient with a suspected cervical spinal injury must be repositioned. Which approach is appropriate?
 
@@ -1455,7 +1457,7 @@ Hearing loss communication barrier hai, automatically cognitive impairment nahi.
 
 ### Q45. Which temperature site is generally avoided in an unconscious patient who cannot safely hold an oral thermometer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** An appropriate core monitoring device if indicated
 - **B.** A correctly used tympanic route if suitable
@@ -1485,11 +1487,11 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q1](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q1](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q1-which-temperature-site-is-generally-avoided-in-an-unconscious-patient-who-cannot-safely-hold-an-oral-thermometer)
 
 ### Q46. Which action is appropriate during a preoperative checklist?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Verify identity, planned procedure, site, allergies and relevant preparation
 - **B.** Remove allergy alerts
@@ -1500,13 +1502,28 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 **Correct: A. Verify identity, planned procedure, site, allergies and relevant preparation**
 
-Checklist multiple safety details confirm karti hai. Isse preventable mismatch aur preparation errors identify ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bed number identity proof nahi hai. Allergy aur verification checks familiarity se unnecessary nahi hote.
+Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho do patients ka surname same ho, toh sirf naam ya bed number dekhne se galat patient select ho sakta hai. Nurse approved identifiers, planned procedure, site, consent, allergies aur preparation verify karti hai. Surgical team prescribed sign-in, time-out aur sign-out checks bhi karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Multiple safety details verify karne se wrong-patient, wrong-site aur preparation-related errors identify ho sakte hain.
+- **B (Galat):** Allergy alert remove karne se team important risk miss kar sakti hai.
+- **C (Galat):** Bed number badal sakta hai, isliye woh reliable patient identifier nahi hai.
+- **D (Galat):** Surgeon patient ko pehchanta ho tab bhi standardized checks zaroori hain.
+
+**Exam clue:** Har patient ke liye prescribed checklist follow karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q2](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q2](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q2-which-action-is-appropriate-during-a-preoperative-checklist)
 
 ### Q47. A patient who is drowsy after sedation is scheduled for oral feeding. Which action is appropriate?
 
@@ -2172,7 +2189,7 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 ### Q66. A patient arrives for surgery with an unsigned consent form and asks a new question about risks. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Notify the responsible clinician so informed consent can be completed before the procedure
 - **B.** Ask the patient to sign without explanation
@@ -2183,13 +2200,28 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 **Correct: A. Notify the responsible clinician so informed consent can be completed before the procedure**
 
-Informed consent mein patient ko procedure, relevant risks aur alternatives samajhne ka chance milna chahiye. Nurse unanswered question ko responsible clinician tak pahunchati hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unexplained signature adequate consent nahi hai. Unauthorized signing aur assumed consent patient rights compromise karte hain.
+Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko samajh aana chahiye ki operation kyun ho raha hai, important risks kya hain aur kya alternatives hain. Jab patient naya sawal poochta hai aur consent incomplete hai, toh nurse procedure aage badhane se pehle responsible clinician ko inform karti hai. Nurse patient ki understanding aur voluntary decision ko support karti hai, lekin authorized clinician ki explanation replace nahi karti.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Responsible clinician ko inform karne se unanswered risk question clarify ho sakta hai aur valid consent complete kiya ja sakta hai.
+- **B (Galat):** Bina samjhaye signature lene se patient informed decision nahi le paata.
+- **C (Galat):** Nurse patient ki taraf se bina legal authority sign nahi kar sakti.
+- **D (Galat):** Hospital admission se specific surgery ke liye consent automatically nahi milta.
+
+**Exam clue:** Consent incomplete ho toh procedure se pehle clarification arrange karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**▶️ [YouTube MCQ practice — informed consent, ADAPT NCLEX REVIEW (13:27)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=807s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported question](https://testbook.com/question-answer/what-legal-preparation-done-for-a-patient-who-is-u--681c8a6025e025e97fd344fc). Is report mein surgery se pehle consent ki zaroorat poochhi gayi hai. Yeh related concept hai, original scenario ka exact match nahi hai. Official paper aur key independently authenticate nahi hue hain.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q1](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q1](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q1-a-patient-arrives-for-surgery-with-an-unsigned-consent-form-and-asks-a-new-question-about-risks-what-should-the-nurse-do)
 
 ### Q67. A patient has an irregular radial pulse. Which approach improves the accuracy of heart rate assessment?
 
@@ -2314,7 +2346,7 @@ Standard precautions ka matlab hai ki har patient ki care mein infection spread 
 
 ### Q70. After a suspected transfusion reaction, what should happen to the implicated blood bag and tubing?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reuse them for another patient
 - **B.** Discard immediately without reporting
@@ -2346,7 +2378,7 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q4](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q4](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q4-after-a-suspected-transfusion-reaction-what-should-happen-to-the-implicated-blood-bag-and-tubing)
 
 ### Q71. Four patients call simultaneously. Which needs assessment first?
 
@@ -2371,7 +2403,7 @@ Injection ke baad wheeze aur facial swelling anaphylaxis suggest kar sakte hain.
 
 ### Q72. Which observation provides a baseline for monitoring transfusion reactions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only a weight from last year
 - **B.** Only the bag volume
@@ -2399,11 +2431,11 @@ Baseline vital signs transfusion se pehle patient ki condition ka starting recor
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — transfusion vital-sign monitoring, Nursing Wallah by PW (44:25)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=2665s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q2](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q2](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q2-which-observation-provides-a-baseline-for-monitoring-transfusion-reactions)
 
 ### Q73. A new admission arrives with severe breathlessness and hypotension. Which action takes priority over routine admission paperwork?
 
@@ -2863,7 +2895,7 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 ### Q86. A patient can bathe the upper body but needs assistance with lower-body hygiene. Which Orem nursing system best fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wholly compensatory system
 - **B.** Supportive-educative system alone with no direct help
@@ -2893,7 +2925,7 @@ Socho patient apna face aur haath khud wash kar sakta hai, lekin pair dhone ke l
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q3](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q3](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q3-a-patient-can-bathe-the-upper-body-but-needs-assistance-with-lower-body-hygiene-which-orem-nursing-system-best-fits)
 
 ### Q87. A nurse removes gloves after emptying a urinary drainage bag. What should the nurse do next?
 
@@ -2937,7 +2969,7 @@ Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar s
 
 ### Q88. A patient exposed to extreme heat has very high temperature and altered mental status. Which action is a priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wrap the patient in warm blankets
 - **B.** Activate emergency help and begin appropriate rapid cooling and supportive care
@@ -2969,7 +3001,7 @@ Extreme heat exposure ke baad very high temperature aur altered mental status he
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q4](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q4](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q4-a-patient-exposed-to-extreme-heat-has-very-high-temperature-and-altered-mental-status-which-action-is-a-priority)
 
 ### Q89. A patient has new black tarry stool with dizziness and hypotension. What is the priority?
 
@@ -3025,7 +3057,7 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 ### Q91. Which practice is preferred if hair must be removed before an operation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove all body hair regardless of site
 - **B.** Use suitable clippers according to surgical infection prevention policy
@@ -3036,13 +3068,26 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 **Correct: B. Use suitable clippers according to surgical infection prevention policy**
 
-Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf clinically necessary ho toh policy ke according karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Razor microcuts infection risk badha sakti hain. Universal hair removal aur damaged skin par chemical use inappropriate hain.
+Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se shave karne par skin mein chhote cuts ban sakte hain, jahan microorganisms enter kar sakte hain. Jab hair removal clinically necessary ho, toh appropriate electric clippers aur infection-prevention policy follow karo. NICE single-use clipper head ke saath surgery ke din removal recommend karta hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har body part ke hair remove karne se unnecessary skin injury ho sakti hai.
+- **B (Sahi):** Suitable clippers razor ke comparison mein skin microtrauma ka risk kam karte hain.
+- **C (Galat):** Damaged skin par unapproved chemical irritation ya injury badha sakta hai.
+- **D (Galat):** Razor shaving routine use ke liye preferred nahi hai, kyunki cuts infection ka risk badha sakte hain.
+
+**Exam clue:** Hair removal sirf zaroorat par approved clippers se karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng125/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q4](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q4](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q4-which-practice-is-preferred-if-hair-must-be-removed-before-an-operation)
 
 ### Q92. After cleaning an uncircumcised patient's glans, which action is essential?
 
@@ -3145,7 +3190,7 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 ### Q95. An independent patient needs teaching to manage a new home injection safely. Which Orem system is most appropriate when the patient can perform self-care after instruction?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Environmental control alone
 - **B.** Partly compensatory requiring physical care by definition
@@ -3175,7 +3220,7 @@ Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi t
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q4](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q4](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q4-an-independent-patient-needs-teaching-to-manage-a-new-home-injection-safely-which-orem-system-is-most-appropriate-when-the-patient-can-perform-self-care-after-instruction)
 
 ### Q96. Which finding represents objective assessment data?
 
@@ -3383,7 +3428,7 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 ### Q103. Why should a recent hot drink be considered before measuring oral temperature?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 JIPMER Staff Nurse, 4 June 2013 — related reported concept**
 
 - **A.** It always lowers oral temperature
 - **B.** It may temporarily elevate the local measurement
@@ -3415,7 +3460,7 @@ Oral temperature mouth ke andar ki local temperature measure karti hai. Hot drin
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q2](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q2](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q2-why-should-a-recent-hot-drink-be-considered-before-measuring-oral-temperature)
 
 ### Q104. A drug is supplied as 50 mg/mL and the prescribed dose is 35 mg. Which volume is correct?
 
@@ -3718,7 +3763,7 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 ### Q114. Which term describes elevated body temperature due to a raised hypothalamic set point?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Hyperthermia without set-point change
 - **B.** Hypothermia
@@ -3748,7 +3793,7 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q3](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q3](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q3-which-term-describes-elevated-body-temperature-due-to-a-raised-hypothalamic-set-point)
 
 ### Q115. Which principle is illustrated by avoiding an unnecessary invasive procedure that may injure a patient?
 
@@ -3773,7 +3818,7 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 ### Q116. A patient scheduled for anesthesia reports eating shortly before the procedure despite fasting instructions. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore the intake because the meal was small
 - **B.** Document that the patient remained fasting
@@ -3784,13 +3829,28 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 **Correct: C. Communicate actual intake and timing to the anesthesia team before proceeding**
 
-Anesthesia ke dauran protective airway reflexes reduce ho sakte hain. Recent intake aspiration risk affect kar sakti hai, isliye anesthetist decision leta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False record, induced vomiting aur unassessed proceeding unsafe hain.
+Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar stomach ka material upar aakar lungs mein chala jaaye, toh ise aspiration kehte hain. Nurse actual food aur time document karke anesthesia team ko inform karti hai. Fasting ka safe interval food type, patient ki condition aur procedure ki urgency par depend karta hai. Anesthesia team risk aur benefit assess karke next decision leti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Small meal ko bina assessment harmless nahi maana ja sakta, kyunki stomach emptying vary karti hai.
+- **B (Galat):** False fasting record anesthesia team ko galat risk information deta hai.
+- **C (Sahi):** Actual intake aur timing communicate karne se team patient-specific aspiration risk assess kar sakti hai.
+- **D (Galat):** Vomiting induce karna aspiration risk badha sakta hai aur fasting violation ka safe solution nahi hai.
+
+**Exam clue:** Fasting instructions break hon toh actual intake document karke anesthesia team se decision lo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7413358/)
+
+**Additional clinical reference:** [2026 international peri-operative fasting consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161736/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q3](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q3](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q3-a-patient-scheduled-for-anesthesia-reports-eating-shortly-before-the-procedure-despite-fasting-instructions-what-should-the-nurse-do)
 
 ### Q117. Two patients need the same limited clinical resource. Which ethical principle guides fair allocation based on relevant criteria?
 

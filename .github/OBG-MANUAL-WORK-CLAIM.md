@@ -1,10 +1,10 @@
 # OBG manual scope claim
 
 State: CLAIMED
-Owner: manual-obg-physiology-20261127-1258
-Scope: Obstetric-and-Midwifery-Nursing physiological changes original MCQ bank and local README only
-Claimed UTC: 2026-11-27T12:58:22Z
-Expiry UTC: 2026-11-27T13:28:22Z
+Owner: manual-obg-physiology-20261127-1915
+Scope: Obstetric-and-Midwifery-Nursing physiological changes of pregnancy concepts, original MCQ bank, original diagram, reported exam evidence, and chapter-local README/topic map only. No other chapter or shared global tracker.
+Claimed UTC: 2026-11-27T19:14:58Z
+Expiry UTC: 2026-11-27T19:44:58Z
 
 Verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts published at commit 1bebd39ba675c47de34f01ff52eee29a002e16f5, blob 7e9e330cc6fd0d49ed175eaaaf2189786f78e66f. Remote exact content readback: 20 numbered questions, 20 hidden answer blocks, 4 parts. Chapter README indexed and verified at commit e0bc7f2460fb6cee00d3a939101fabec9cd5f3eb, blob 2fa5fb802c31ab4280a9648c71ececdba17864f2. OBG obstetric total now 44 original slots including 4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis. Existing two reported ANC adaptations preserved. No new PYQs or mocks in this run. All five job claims were FREE at initial inspection, separate OBG scope claimed and verified before writing. Both skill contents fetched but full independent clinical verification, semantic duplicate audit across all parallel chapters, direct medical references and question-level YouTube evidence remain pending. Do not label this a fully certified bank. Next: physiological changes of pregnancy, then remaining OBG topics, evidence-backed PYQs and ten distinct mocks. Recheck claims and file SHAs before every write. Other jobs untouched.
 

@@ -17,17 +17,17 @@
 
 **Correct answer: B. A supine roll test by a trained clinician**
 
-- **A. Kyun galat hai:** Pure-tone audiometry hearing thresholds measure karti hai. Isse horizontal semicircular canal mein displaced particles ka effect identify nahi hota.
+- **A. Kyun galat hai:** Pure-tone audiometry mein patient ko alag frequency ki sounds sunai jaati hain aur hearing threshold measure hota hai. BPPV mein balance wala inner ear canal involved hota hai, isliye sirf hearing test se horizontal canal BPPV confirm nahi hoga.
 
-- **B. Kyun sahi hai:** Nystagmus aankhon ki involuntary rhythmic movement hai. Horizontal pattern lateral canal BPPV ka clue ho sakta hai. Supine roll test trained clinician ko is possibility ko evaluate karne mein help karta hai. Patient ki neck mobility aur safety bhi assess honi chahiye.
+- **B. Kyun sahi hai:** Nystagmus ka matlab hai aankhon ka apne aap rhythmic tareeke se hilna. BPPV mein inner ear ke chhote calcium particles apni jagah se nikal kar balance canal mein chale jaate hain. Jab Dix-Hallpike test mein horizontal nystagmus milta hai, toh trained clinician supine roll test se lateral canal ko assess kar sakta hai. Nurse patient ki neck movement, comfort aur fall safety ka dhyan rakhegi.
 
-- **C. Kyun galat hai:** Schirmer test tears ki quantity measure karta hai. Iska positional vertigo ya vestibular canal se direct relation nahi hai.
+- **C. Kyun galat hai:** Schirmer test mein aankh ke tears ki quantity assess ki jaati hai. Ye dry eye ke liye useful hai, lekin head position se hone wale vertigo ka canal identify nahi karta.
 
-- **D. Kyun galat hai:** Sinus radiography nasal sinuses evaluate karti hai. Typical positional vestibular symptoms ke liye routine sinus imaging se canal involvement establish nahi hota.
+- **D. Kyun galat hai:** Sinus radiography se nose ke aas-paas ke sinuses dekhe jaate hain. Typical positional vertigo mein ye test inner ear ke balance particles ki problem nahi batata. Agar atypical neurological signs milte hain, toh clinician alag investigation decide karega.
 
 **Exam clue:** Dix-Hallpike par horizontal response aaye toh lateral canal evaluation ka clue yaad rakho.
 
-**Clinical reference:** [Clinical guidance](https://wptest.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
+**Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -46,17 +46,17 @@
 
 **Correct answer: A. Routine postural restrictions are not recommended after this procedure**
 
-- **A. Kyun sahi hai:** Canalith repositioning ka purpose displaced particles ko aisi location par le jaana hai jahan woh abnormal positional signal na banayein. Guideline routine postural restrictions recommend nahi karti. Individual medical restrictions aur safe mobility advice fir bhi follow karo.
+- **A. Kyun sahi hai:** BPPV mein chhote calcium particles balance canal mein galat jagah par aa jaate hain. Repositioning manoeuvre un particles ko canal se bahar aisi jagah le jaane ki koshish karta hai jahan woh galat movement signal na dein. AAO-HNS routine upright sleeping ya doosri postural restrictions recommend nahi karta. Patient ki apni medical limitations aur fall prevention advice phir bhi follow karni chahiye.
 
-- **B. Kyun galat hai:** Har patient ko saat raat upright sone ki instruction evidence-based routine requirement nahi hai. Sleep aur comfort unnecessarily disturb ho sakte hain.
+- **B. Kyun galat hai:** Saat raat seedha baithkar sona har patient ke liye zaroori nahi hai. Isse patient ki neend aur comfort disturb ho sakte hain, jabki successful posterior canal treatment ke baad aisi blanket restriction recommend nahi ki jaati.
 
-- **C. Kyun galat hai:** Head movement ko indefinitely avoid karne se normal activity aur mobility affect ho sakti hai. Fall prevention aur individual symptom guidance alag baat hain.
+- **C. Kyun galat hai:** Head movement ko hamesha ke liye rok dene se daily activities aur mobility par bura asar pad sakta hai. Agar patient dizzy hai, toh nurse safe movement aur assistance ke baare mein batayegi, lekin permanent movement ban nahi lagayegi.
 
-- **D. Kyun galat hai:** Cervical collar neck support ke selected indications mein use hota hai. Uncomplicated BPPV repositioning ke baad sabko collar lagana required nahi hai.
+- **D. Kyun galat hai:** Rigid cervical collar selected neck problems mein support ya immobilization ke liye use hota hai. Uncomplicated posterior canal BPPV ke baad har patient ko collar lagane ka clinical reason nahi hai.
 
 **Exam clue:** Routine restriction aur patient-specific safety advice ko alag rakho.
 
-**Clinical reference:** [Clinical guidance](https://wptest.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
+**Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -75,17 +75,17 @@
 
 **Correct answer: C. Routine reliance on suppressants is not guideline-based and may add fall risk**
 
-- **A. Kyun galat hai:** Otoconia inner ear ke tiny calcium particles hain. Sedating drugs symptoms ko temporarily suppress kar sakti hain, lekin particles ko mechanically reposition nahi karti.
+- **A. Kyun galat hai:** Otoconia inner ear ke bahut chhote calcium particles hote hain. Sedating medicines dizziness ya nausea ko kuch samay ke liye kam kar sakti hain, lekin woh particles ko physically canal se bahar nahi le jaati.
 
-- **B. Kyun galat hai:** Is patient mein previous falls already important risk hain. Balance aur mobility assessment ko medicine replace nahi karti.
+- **B. Kyun galat hai:** Is older adult ko pehle fall ho chuka hai, isliye nurse ko walking, transfers aur balance assess karna hi chahiye. Medicine dene se patient ki functional safety apne aap establish nahi hoti.
 
-- **C. Kyun sahi hai:** BPPV mein routine vestibular suppressant therapy recommend nahi hoti. Older adult mein sedation aur impaired alertness falls ka risk badha sakte hain. Prescriber se plan clarify karo aur suitable repositioning referral discuss karo.
+- **C. Kyun sahi hai:** BPPV mein routine vestibular suppressants, jaise sedating antihistamines ya benzodiazepines, recommend nahi hote. Ye medicines alertness kam kar sakti hain aur older patient ke fall risk ko aur badha sakti hain. Nurse prescriber se plan clarify karegi aur trained clinician ke repositioning assessment ki baat karegi.
 
-- **D. Kyun galat hai:** BPPV recur kar sakta hai. Suppressant use future recurrence ko permanently prevent karne ki guarantee nahi deta.
+- **D. Kyun galat hai:** BPPV treatment ke baad bhi dobara ho sakta hai. Suppressants symptoms kam kar sakte hain, lekin future mein particles dobara displace nahi honge, is baat ki guarantee nahi dete.
 
 **Exam clue:** Symptom suppression particle repositioning ke barabar nahi hai.
 
-**Clinical reference:** [Clinical guidance](https://wptest.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
+**Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -104,17 +104,17 @@
 
 **Correct answer: D. Arrange reassessment of symptom persistence and possible alternative vestibular or central causes**
 
-- **A. Kyun galat hai:** Unsupervised repeated treatment se alternate cause miss ho sakta hai. Persistent symptoms mein trained clinician ko diagnosis aur response reassess karna chahiye.
+- **A. Kyun galat hai:** Agar dizziness treatment ke baad bhi bani hui hai, toh baar-baar wahi home manoeuvre karne se doosri problem miss ho sakti hai. Trained clinician ko pehle check karna chahiye ki BPPV ab bhi present hai ya cause kuch aur hai.
 
-- **B. Kyun galat hai:** Hearing loss hona follow-up ki condition nahi hai. Persistent dizziness khud reassessment ka reason hai.
+- **B. Kyun galat hai:** Follow-up ke liye complete hearing loss hona zaroori nahi hai. Patient ki dizziness ka continue rehna hi treatment response assess karne ka reason hai.
 
-- **C. Kyun galat hai:** Anxiety dizziness ke experience ko affect kar sakti hai, lekin bina assessment ke structural ya neurological causes exclude nahi hote.
+- **C. Kyun galat hai:** Anxiety dizziness ko zyada distressing bana sakti hai, lekin har persistent symptom ko anxiety kehna safe nahi hai. Pehle vestibular aur neurological causes ka appropriate assessment hona chahiye.
 
-- **D. Kyun sahi hai:** Initial observation ya treatment ke ek mahine ke andar reassessment recommended hai. Persistent symptoms unresolved BPPV ya doosre vestibular ya central nervous system disorder se ho sakte hain. New neurological red flags mein routine appointment ka wait nahi karna chahiye.
+- **D. Kyun sahi hai:** Guideline ke mutabik initial observation ya treatment ke ek mahine ke andar patient ki reassessment honi chahiye. Agar symptoms continue hote hain, toh BPPV resolve na hua ho sakta hai ya inner ear aur brain ke balance pathways ki doosri problem ho sakti hai. Agar new weakness, speech problem ya achanak severe imbalance aaye, toh routine appointment ka wait nahi karna chahiye.
 
 **Exam clue:** Treatment ke baad persistence ko documented outcome samjho, automatic recovery nahi.
 
-**Clinical reference:** [Clinical guidance](https://wptest.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
+**Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -133,17 +133,17 @@
 
 **Correct answer: B. Impaired mobility and lack of home support**
 
-- **A. Kyun galat hai:** Spectacle brand se home fall risk ka reliable assessment nahi hota. Visual function relevant ho sakta hai, brand nahi.
+- **A. Kyun galat hai:** Spectacles se patient ko dekhne mein madad mil sakti hai aur poor vision fall risk ko badha sakti hai. Lekin spectacles ka brand nahi batata ki patient bathroom tak safely chal sakta hai ya ghar mein help milegi.
 
-- **B. Kyun sahi hai:** Brief vertigo bhi unsafe turning ya walking ke time fall cause kar sakta hai. Walking frame, previous falls aur home support ki kami ko combine karke safe transfer, assistance aur follow-up plan individualized karna chahiye.
+- **B. Kyun sahi hai:** BPPV mein head ghumane par kuch seconds ka vertigo bhi patient ko girane ke liye kaafi ho sakta hai. Is patient ko walking frame chahiye, pehle fall hua hai aur ghar mein koi saath nahi hai. Isliye nurse safe transfer, bathroom safety, available assistance aur follow-up ko patient ki actual needs ke hisaab se plan karegi.
 
-- **C. Kyun galat hai:** Spicy food preference typical positional BPPV ke discharge fall plan ka main determinant nahi hai.
+- **C. Kyun galat hai:** Spicy food ki pasand se head movement ke waqt balance ya ghar ki safety assess nahi hoti. Discharge plan mein pehle fall aur support ki problem address karni chahiye.
 
-- **D. Kyun galat hai:** Earwax colour external ear finding hai. Ye vestibular fall risk ya home assistance establish nahi karta.
+- **D. Kyun galat hai:** Earwax outer ear canal mein hota hai, jabki BPPV inner ear ke balance system ki problem hai. Wax ka colour dekhkar patient ke walking ya home assistance ki requirement decide nahi ki ja sakti.
 
 **Exam clue:** Same diagnosis ke patients ki functional safety needs alag ho sakti hain.
 
-**Clinical reference:** [Clinical guidance](https://wptest.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
+**Clinical reference:** [Clinical guidance](https://www.entnet.org/resource/aao-hnsf-updated-cpg-bppv-press-release-fact-sheet/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -162,13 +162,13 @@
 
 **Correct answer: A. Ask the implant team to arrange indicated pneumococcal vaccination in advance of surgery**
 
-- **A. Kyun sahi hai:** Implant recipients mein pneumococcal meningitis ka risk increased hota hai. CDC ke hisaab se indicated pneumococcal doses ideally surgery se kam se kam do hafte pehle complete honi chahiye. Nurse vaccine record verify karke local schedule aur implant team se coordination karegi.
+- **A. Kyun sahi hai:** Cochlear implant wale patients mein pneumococcal meningitis ka risk zyada hota hai. Ismein bacteria brain aur spinal cord ki protective coverings ko infect kar sakte hain. CDC recommended pneumococcal doses ko surgery se kam se kam do hafte pehle dene ki salah deta hai. Nurse vaccine history verify karegi aur implant team ke saath local immunization policy ke mutabik schedule coordinate karegi.
 
-- **B. Kyun galat hai:** Processor activation surgery ke baad hota hai. Vaccine protection ki planning preoperative period mein honi chahiye.
+- **B. Kyun galat hai:** External sound processor ki activation surgery ke baad hoti hai. Infection risk ki preventive planning surgery se pehle karni chahiye, isliye activation tak discussion postpone karna sahi nahi hai.
 
-- **C. Kyun galat hai:** Influenza aur pneumococcal vaccines alag infectious organisms target karti hain. Ek doosre ka automatic substitute nahi hai.
+- **C. Kyun galat hai:** Influenza vaccine flu virus se protection ke liye hai, jabki pneumococcal vaccine Streptococcus pneumoniae bacteria ke selected types se protection deti hai. Ek vaccine doosri ki indicated dose ko replace nahi karti.
 
-- **D. Kyun galat hai:** Hearing loss vaccine response fail hone ka proof nahi hai. Age, vaccine history aur medical risk factors ke hisaab se schedule decide hota hai.
+- **D. Kyun galat hai:** Hearing loss ka hona apne aap mein vaccine ineffective hone ka proof nahi hai. Vaccine selection aur dose schedule age, previous doses aur medical condition ke hisaab se clinician decide karta hai.
 
 **Exam clue:** Implant candidate ka vaccine record surgery se pehle review karo. CDC guidance ko local immunization policy ke saath apply karo.
 
@@ -191,17 +191,17 @@
 
 **Correct answer: C. Arrange emergency clinical assessment because vaccination does not exclude meningitis**
 
-- **A. Kyun galat hai:** Device mapping sound settings adjust karti hai. Fever aur neck stiffness ko routine audiology visit tak delay karna unsafe hai.
+- **A. Kyun galat hai:** Device mapping mein audiologist sound stimulation ki settings adjust karta hai. Ye fever, severe headache aur neck stiffness ki emergency assessment nahi hai, isliye routine visit tak delay karna unsafe hai.
 
-- **B. Kyun galat hai:** External processor remove karne se meningeal infection treat nahi hoti. Patient ko urgent medical evaluation chahiye.
+- **B. Kyun galat hai:** External processor hatane se sirf device ka bahar wala hissa remove hota hai. Isse brain aur spinal cord ki coverings ka possible infection treat nahi hoga. Patient ko emergency medical assessment chahiye.
 
-- **C. Kyun sahi hai:** Meningitis brain aur spinal cord ki protective coverings ki inflammation hai. Vaccine specific organisms ya strains se protection reduce karta hai, har cause ko exclude nahi karta. Fever, severe headache aur neck stiffness emergency red flags hain. Nurse emergency protocol activate karke timely assessment arrange karegi.
+- **C. Kyun sahi hai:** Meningitis ka matlab brain aur spinal cord ki protective coverings mein inflammation hai, jo infection ki wajah se bhi ho sakti hai. Pneumococcal vaccine kuch bacterial types se meningitis ka risk kam karti hai, lekin har cause ya har infection ko prevent nahi karti. Fever, severe headache aur stiff neck ko emergency warning signs samjho. Nurse emergency protocol ke mutabik patient ki vital signs aur clinical condition assess karke turant medical evaluation arrange karegi.
 
-- **D. Kyun galat hai:** Healed incision reassuring local finding ho sakti hai, lekin intracranial infection ko exclude nahi karti. Symptoms ki urgency alag assess karo.
+- **D. Kyun galat hai:** Healed surgical scar se pata chal sakta hai ki skin ka wound theek hua hai. Lekin isse brain ke aas-paas infection hone ki possibility khatam nahi hoti, isliye patient ke symptoms ko alag se urgent assess karna hoga.
 
 **Exam clue:** Vaccination risk kam karti hai, emergency warning signs ko cancel nahi karti.
 
-**Clinical reference:** [Clinical guidance](https://www.cdc.gov/pneumococcal/vaccines/cochlear-implants.html).
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/pneumococcal/vaccines/cochlear-implants.html) · [CDC meningitis emergency guidance](https://www.cdc.gov/meningitis/about/).
 
 **YouTube MCQ practice:** verification pending. No specific question-solving coverage or timestamp verified.
 
@@ -220,13 +220,13 @@
 
 **Correct answer: D. Withhold MRI clearance until the exact implant and manufacturer-specific conditions are verified by the MRI team**
 
-- **A. Kyun galat hai:** External processor hatane se implanted magnet aur internal components body se nahi nikalte. Strong magnetic field se interaction ka risk abhi bhi ho sakta hai.
+- **A. Kyun galat hai:** External processor remove karne ke baad bhi internal implant aur uska magnet body ke andar rehte hain. MRI ka strong magnetic field unke saath interact kar sakta hai, isliye sirf processor hatana scan ki safety confirm nahi karta.
 
-- **B. Kyun galat hai:** Generic head bandage har implant ke liye sufficient nahi hoti. Manufacturer-specific MRI instructions aur approved accessories ki zaroorat ho sakti hai.
+- **B. Kyun galat hai:** Kuch specific implant models mein manufacturer-approved splint ya bandage kit required ho sakti hai, lekin ek ordinary head bandage har model ko safe nahi bana deti. MRI team ko exact implant ki instructions verify karni hongi.
 
-- **C. Kyun galat hai:** Kuch implants specified conditions mein MRI allow karte hain. Permanent blanket cancellation appropriate nahi hai. Referring aur radiology team alternate imaging bhi consider kar sakti hain.
+- **C. Kyun galat hai:** Kuch cochlear implants specified conditions mein MRI ke liye suitable hote hain, jabki kuch MR Unsafe hote hain. Bina model confirm kiye har future scan cancel karna bhi sahi nahi hai. Referring aur radiology team clinical need ke hisaab se safe alternative decide kar sakti hain.
 
-- **D. Kyun sahi hai:** Implant card ya operative record se exact model verify karo. MR Conditional ka matlab sirf defined conditions mein scan safe hai. MRI staff scanner strength aur manufacturer instructions confirm karein, tabhi clearance ho.
+- **D. Kyun sahi hai:** Nurse implant card ya operative record se exact brand aur model identify karne mein help karegi. MR Conditional ka matlab hai ki device sirf manufacturer ki specified conditions ke andar MRI mein use ho sakta hai. MRI team field strength, magnet management aur doosri required conditions confirm karegi. Tab tak scan proceed nahi karna chahiye.
 
 **Exam clue:** External processor removal internal implant ki MRI safety establish nahi karta.
 
@@ -249,13 +249,13 @@
 
 **Correct answer: A. Promptly notify the surgical team of possible facial nerve dysfunction and arrange eye protection as directed**
 
-- **A. Kyun sahi hai:** Facial nerve face muscles ko movement signals deta hai aur surgery site ke paas se guzarta hai. New unilateral weakness possible complication hai. Prompt surgical assessment aur incomplete eyelid closure mein corneal protection ki planning important hai.
+- **A. Kyun sahi hai:** Facial nerve face ki muscles ko movement ka signal deta hai aur middle ear ke paas se guzarta hai. Surgery ke baad mouth ki new weakness aur eyelid poori close na hona possible nerve dysfunction ka sign hai. Nurse surgical team ko promptly report karegi. Jab eyelid close nahi hoti, toh cornea dry ya injured ho sakta hai, isliye prescribed lubrication aur protection arrange karna important hai.
 
-- **B. Kyun galat hai:** Auditory improvement hearing function se related hai. New facial motor weakness ko expected benefit nahi maana ja sakta.
+- **B. Kyun galat hai:** Hearing improve hona auditory system ka outcome hai. Mouth aur eyelid ki movement kam hona facial nerve ka motor finding hai, isliye ise expected auditory improvement kehna galat hai.
 
-- **C. Kyun galat hai:** Processor volume auditory stimulation se related hai. Isse damaged facial motor function treat nahi hota.
+- **C. Kyun galat hai:** Processor volume change karne se hearing stimulation ki setting change hoti hai. Ye facial muscle weakness ka treatment nahi hai, aur new neurological finding ko surgical assessment ki zaroorat hai.
 
-- **D. Kyun galat hai:** New neurological deficit ki documentation aur reporting immediately honi chahiye. Speech training tak delay karna safe nahi hai.
+- **D. Kyun galat hai:** New facial weakness ko observe karte hi nurse ko uski timing aur findings document karke team ko report karna chahiye. Speech training tak wait karne se important assessment aur eye protection delay ho sakte hain.
 
 **Exam clue:** Postoperative hearing improvement aur facial motor deficit ko confuse mat karo.
 
@@ -278,13 +278,13 @@
 
 **Correct answer: B. Audiology mapping and listening rehabilitation remain important because speech understanding develops variably**
 
-- **A. Kyun galat hai:** Sound detection aur meaningful speech discrimination different skills hain. Brain ko naye electrical sound patterns interpret karne mein time lag sakta hai.
+- **A. Kyun galat hai:** Kisi sound ka sunai dena aur us sound ko meaningful speech ke roop mein samajhna alag skills hain. Implant ke electrical signals ko brain dheere-dheere interpret karna seekhta hai, isliye first activation par normal conversation samajhna guaranteed nahi hai.
 
-- **B. Kyun sahi hai:** Cochlear implant damaged sensory hair cell function ko bypass karke auditory nerve ko electrical stimulation deta hai. Audiology mapping device ke stimulation settings individualize karti hai. Listening practice aur speech rehabilitation se communication improve ho sakti hai, lekin result person to person vary karta hai.
+- **B. Kyun sahi hai:** Cochlear implant damaged inner ear structures ko bypass karke auditory nerve ko electrical signals deta hai. Mapping mein audiologist stimulation settings ko patient ke response ke hisaab se adjust karta hai. Listening practice aur speech rehabilitation se patient dheere-dheere sounds aur words pehchanna seekh sakta hai. Har patient ka result aur learning speed alag hoti hai, isliye follow-up important hai.
 
-- **C. Kyun galat hai:** First activation par unclear speech immediate device failure ya surgical removal ka proof nahi hai. Implant team response evaluate karke rehabilitation plan banati hai.
+- **C. Kyun galat hai:** First activation par speech unclear hona device failure ka pakka sign nahi hai. Implant team device function aur patient ke response ko assess karke mapping aur rehabilitation plan adjust karegi, isliye immediate surgical removal appropriate nahi hai.
 
-- **D. Kyun galat hai:** Ek tone sun lena daily communication ka complete outcome nahi hai. Follow-up se device settings, speech perception aur practical goals monitor hote hain.
+- **D. Kyun galat hai:** Ek tone detect karna sirf ek basic hearing response hai. Follow-up visits se audiologist device settings, speech understanding aur daily communication goals assess karta hai. Isliye tone sunne ke baad bhi rehabilitation continue karni chahiye.
 
 **Exam clue:** Activation rehabilitation ki shuruaat hai, normal hearing ki guarantee nahi.
 
