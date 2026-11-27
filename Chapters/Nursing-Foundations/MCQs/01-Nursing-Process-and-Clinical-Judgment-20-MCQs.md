@@ -4,9 +4,8 @@
 
 ### Q1. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -37,9 +36,8 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 
 ### Q2. Which entry in an assessment record is subjective data?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 
 ### Q3. Which finding represents objective assessment data?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -107,9 +104,8 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 
 ### Q4. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -140,9 +136,8 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 
 ### Q5. Which statement is an example of a patient-centered measurable nursing outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -173,9 +168,8 @@ Measurable outcome mein patient ka expected action, distance aur time clear hai.
 
 ### Q6. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -206,9 +200,8 @@ Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai.
 
 ### Q7. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -239,9 +232,8 @@ Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis 
 
 ### Q8. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -272,9 +264,8 @@ Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effe
 
 ### Q9. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -305,9 +296,8 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 
 ### Q10. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -338,9 +328,8 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 
 ### Q11. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -371,9 +360,8 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 
 ### Q12. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -404,9 +392,8 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 
 ### Q13. Which source is generally the primary source of a conscious patient's health history?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -437,9 +424,8 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 ### Q14. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -470,9 +456,8 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 
 ### Q15. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -503,9 +488,8 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 
 ### Q16. Which statement distinguishes a nursing diagnosis from a medical diagnosis?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -536,9 +520,8 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 
 ### Q17. Four patients need assistance. Which patient should the nurse assess first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -569,9 +552,8 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 
 ### Q18. Which outcome is best suited to evaluation of a pressure injury prevention plan?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -602,9 +584,8 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 
 ### Q19. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -635,9 +616,8 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 
 ### Q20. Which care plan statement describes an intervention rather than an outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
