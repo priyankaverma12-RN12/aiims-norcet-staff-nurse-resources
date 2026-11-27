@@ -40,6 +40,9 @@ Standard precautions ka matlab hai ki har patient ki care mein infection spread 
 **Mock revision:** [Mock 1, Q69](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q69-which-practice-applies-to-the-care-of-every-patient-regardless-of-known-infection-status)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q2. A nurse removes gloves after emptying a urinary drainage bag. What should the nurse do next?
@@ -80,6 +83,9 @@ Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar s
 **Mock revision:** [Mock 1, Q87](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q87-a-nurse-removes-gloves-after-emptying-a-urinary-drainage-bag-what-should-the-nurse-do-next)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q3. When hands are visibly soiled, which cleaning method is appropriate?
@@ -119,6 +125,9 @@ Visible soil mein organic material hota hai jo effective hand cleaning mein inte
 
 **Mock revision:** [Mock 1, Q80](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q80-when-hands-are-visibly-soiled-which-cleaning-method-is-appropriate)
 <!-- /job4-metadata -->
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -364,6 +373,9 @@ Pulmonary TB mein infectious particles air mein remain kar sakte hain aur inhala
 **Mock revision:** [Mock 3, Q86](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q86-a-patient-has-suspected-infectious-pulmonary-tuberculosis-which-additional-precaution-is-generally-appropriate-in-healthcare)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q10. A nurse is performing a task likely to splash blood toward the face. Which PPE is required according to exposure risk?
@@ -403,6 +415,9 @@ Blood splash eyes, nose aur mouth ki mucous membranes tak pahunch sakta hai. Tas
 
 **Mock revision:** [Mock 3, Q14](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q14-a-nurse-is-performing-a-task-likely-to-splash-blood-toward-the-face-which-ppe-is-required-according-to-exposure-risk)
 <!-- /job4-metadata -->
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -444,6 +459,9 @@ Used sharp skin puncture karke bloodborne pathogens transmit kar sakta hai. Devi
 **Mock revision:** [Mock 3, Q63](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q63-a-used-needle-has-just-been-withdrawn-after-an-injection-which-action-is-safest)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q12. A nurse sustains an occupational needlestick. Which initial response is appropriate?
@@ -483,6 +501,9 @@ Needlestick mein skin barrier break hota hai aur bloodborne pathogen exposure po
 
 **Mock revision:** [Mock 3, Q77](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q77-a-nurse-sustains-an-occupational-needlestick-which-initial-response-is-appropriate)
 <!-- /job4-metadata -->
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
@@ -608,6 +629,9 @@ Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hon
 **Mock revision:** [Mock 4, Q10](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q10-which-action-is-part-of-respiratory-hygiene-for-a-coughing-patient)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q16. A nurse has cared for a patient under contact precautions and must use shared equipment on another patient. What should happen first?
@@ -728,6 +752,9 @@ Indwelling catheter urethra se bladder tak route create karta hai. Acute-care in
 **Mock revision:** [Mock 5, Q85](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q85-a-nurse-prepares-to-insert-an-indwelling-urinary-catheter-in-an-acute-care-setting-which-infection-prevention-approach-is-appropriate)
 <!-- /job4-metadata -->
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q19. Which action corresponds to hand hygiene before an aseptic task?
@@ -767,6 +794,9 @@ WHO Moment 2 clean ya aseptic procedure se immediately pehle hand hygiene hai. V
 
 **Mock revision:** [Mock 5, Q109](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q109-which-action-corresponds-to-hand-hygiene-before-an-aseptic-task)
 <!-- /job4-metadata -->
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
 
 </details>
 
