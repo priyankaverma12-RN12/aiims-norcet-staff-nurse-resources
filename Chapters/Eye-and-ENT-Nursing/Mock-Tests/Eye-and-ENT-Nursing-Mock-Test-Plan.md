@@ -17,6 +17,6 @@
 
 [Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
 
-Topic banks first. Do not count starter questions or unassembled items as completed mock slots.
+**Learner correction (27 November 2026):** Every new mock must contain newly authored mock-exclusive questions. No copying, selecting, or superficial rewording of existing MCQs, PYQs, concept practice, revision questions or other mocks. The same concepts may be tested through genuinely different clinical tasks. Compare exact and semantic duplicates against all banks and mocks. Maintain a separate mock-exclusive question inventory, with 120 new questions per mock and 1,200 across ten mocks. Parallel Eye and ENT mock-only preparation is authorized without interfering with the topic authorship scope.
 
-<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock01-20261127-1406. Scope: Mock-Tests plan, Mock 01 and reuse ledger only. Explicit learner parallel exception. Claimed UTC: 2026-11-27T14:06:00Z. Expiry UTC: 2026-11-27T14:36:00Z. -->
+<!-- Mock-only scope claim: FREE. Released after learner correction. No mock questions published. Next: author 120 new mock-exclusive questions. -->
