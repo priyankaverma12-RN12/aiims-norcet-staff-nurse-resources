@@ -81,6 +81,12 @@ Choose a chapter below. Each chapter overview links to its available study mater
 - [Geriatric Nursing](Chapters/Geriatric-Nursing/README.md)
 - [General Knowledge and Aptitude](Chapters/General-Knowledge-and-Aptitude/README.md)
 
+## Additional preserved study material
+
+- [Nervous System — separate preserved study package](Chapters/Nervous-System/README.md)
+
+This package is retained alongside the 35-chapter curriculum. Its questions and mocks are not double-counted as a separate curriculum chapter.
+
 ## Study and evidence standards
 
 - New original practice and source-based exam adaptations are tracked separately. A reported recall or adaptation is not an authenticated official question.
