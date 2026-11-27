@@ -108,6 +108,8 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Bedside sterile-field clinical judgment](05A-Bedside-Sterile-Field-Clinical-Judgment.md), 30 allocated.
 
 - [Group 05 cross-chapter legacy allocation](05-IPC-Cross-Chapter-Allocation.md), 16 remaining earlier slots mapped once.
-- [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation.md), 20/30 partial initial numerical target.
+- [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation.md), 30/30 initial numerical target.
 
-Next: finish genuinely distinct Group 05B gaps, then Group 06 medication safety. Full clinical and semantic audit pending.
+- [Medication verification and error prevention](06A-Medication-Verification-and-Error-Prevention.md), 30 allocated.
+
+Next: Group 06B medication routes and formulations, followed by monitoring and response. Full clinical and semantic audit pending.
