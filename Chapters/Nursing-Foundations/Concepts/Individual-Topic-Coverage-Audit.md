@@ -25,3 +25,8 @@ New 40 stems checked against 80 previous parsed related stems from groups 01, 02
 ## Group 03B pulse checkpoint
 
 27 new original MCQs + Q4,5,16 earlier = 30. Inventory 760 (314 Medium, 446 Difficult), 160 expansion. 43 prior related stems exact checked, no matches. Concept, flowchart, indexed practice, retrieved SGPGI and HPSSC/RRB/ESIC historical leads. Count remains 34 pending reconciliation. Next respiration, then oximetry and physical examination. Full semantic, cross-chapter and official source audit pending.
+
+
+## Group 03C respiration checkpoint
+
+26 new original MCQs plus four earlier assigned Q6,12,13,15 = 30 provisional slots. Q13 systemic deterioration allocation relevance needs review. Inventory 786 (322 Medium, 464 Difficult), 186 expansion. 47 related prior stems exact checked, no overlap. Concept and diagram, indexed procedure and MCQ practice, historical ESIC/DSSSB/RRB/HPSSC/PGIMER leads with limitations. Count remains 34. Next: pulse oximetry, then physical examination. Full semantic/cross-chapter/clinical and source audits pending.
