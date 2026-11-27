@@ -36,3 +36,6 @@
 - [Incident reporting and quality management](04D-Incident-Quality-Reported-Evidence.md): DSSSB Nursing Officer 28 August 2019 Shift 3 reported adaptation, RRB and SGPGI leads pending.
 
 - [Environmental and equipment safety](04E-Environmental-Safety-Reported-Evidence.md): two reported adaptations based on JIPMER 2020, RRB 2026 Shift 3 and AIIMS Bathinda 2019. Repeated RACE concept consolidated, official key and historical count reconciliation pending.
+
+
+- [Group 05A — bedside sterile-field clinical judgment](05A-Asepsis-Reported-Evidence.md): one independent adaptation of directly retrieved AIIMS Delhi Nursing Officer 15 September 2019 memory-based report. Official key and overlap not authenticated, historical count remains 34. ESIC 2024 and MPESB 2022 indexed only; RRB 2026 catheter lead reserved.
