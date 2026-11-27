@@ -6,9 +6,8 @@
 
 ### Q1. A patient says, "Everyone tells me I should be grateful, but I feel disappointed." Which response is most therapeutic?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -39,9 +38,8 @@
 
 ### Q2. A patient is discussing several worries at once and has difficulty identifying the main concern. Which technique is most helpful?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@
 
 ### Q3. Which response is an example of offering self rather than giving false reassurance?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -105,9 +102,8 @@
 
 ### Q4. A patient says the treatment plan seems overwhelming. The nurse replies, "You sound concerned about managing several new tasks." Which technique is most evident?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -138,9 +134,8 @@
 
 ### Q5. At the end of an interview, the nurse reviews the patient's main concerns and agreed next steps. What is the primary purpose?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -171,9 +166,8 @@
 
 ### Q6. A patient describes a fear that the nurse believes is unlikely to occur. Which response best maintains trust?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -204,9 +198,8 @@
 
 ### Q7. A patient who speaks a different language must understand a complex treatment decision. Which communication arrangement is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -237,9 +230,8 @@
 
 ### Q8. During an interpreted conversation, the nurse uses lengthy paragraphs containing technical terms. Which adjustment is best?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -270,9 +262,8 @@
 
 ### Q9. A patient with low vision needs teaching about an unfamiliar device. What is the best adaptation?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -303,9 +294,8 @@
 
 ### Q10. A patient has difficulty speaking because of a temporary airway device but is alert and able to communicate. Which nursing intervention promotes autonomy?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -336,9 +326,8 @@
 
 ### Q11. A patient becomes overwhelmed when given many discharge instructions together. Which strategy best reduces cognitive load?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -369,9 +358,8 @@
 
 ### Q12. A nurse asks a patient, "Did you understand everything?" The patient says yes but looks uncertain. What is a better communication check?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -402,9 +390,8 @@
 
 ### Q13. Which feature makes a closed-ended question appropriate during a time-critical assessment?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -435,9 +422,8 @@
 
 ### Q14. A patient's cultural practice differs from the nurse's usual expectations regarding eye contact. Which response supports respectful communication?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -468,9 +454,8 @@
 
 ### Q15. A patient asks the nurse to meet socially outside the hospital to maintain their relationship. What is the most appropriate professional response?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -501,9 +486,8 @@
 
 ### Q16. At the first encounter, what should a nurse establish to support the orientation phase of a therapeutic relationship?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -534,9 +518,8 @@
 
 ### Q17. During the working phase of a therapeutic relationship, which activity is most characteristic?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -567,9 +550,8 @@
 
 ### Q18. A planned therapeutic relationship is nearing discharge. Which action best supports termination?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -600,9 +582,8 @@
 
 ### Q19. A patient asks for the nurse's personal opinion about choosing between two reasonable care options. Which response supports informed decision-making?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -633,9 +614,8 @@
 
 ### Q20. A patient appears upset during a video consultation and the connection repeatedly interrupts the conversation. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -666,9 +646,8 @@
 
 ### Q21. A patient repeatedly provides different answers to a sensitive question when visitors are present. Which approach is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
