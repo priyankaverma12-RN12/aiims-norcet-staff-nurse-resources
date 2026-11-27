@@ -538,3 +538,68 @@ Two existing Respiratory-System/Concepts files corrected in place, with all eigh
 Current clinical sources: https://ginasthma.org/2026-gina-summary-guide/ (PDF screenshots reviewed), https://goldcopd.org/2027-gold-report-and-pocket-guide/ (v1.1 20 Nov 2026 text, screenshot cache miss), https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug, https://bmjopenrespres.bmj.com/content/4/1/e000170, https://www.ncbi.nlm.nih.gov/books/NBK596733/, https://www.lung.org/lung-health-diseases/wellness/breathing-exercises. Do not generalize acute asthma 92–95% target to every diagnosis. Distinguish older guidance thresholds from current guideline versions. Preserve historical source key separately from clinical recommendations. INC BSc curriculum text indexed at https://www.legitquest.com/act/indian-nursing-council-revised-regulations-and-curriculum-for-bsc-nursing-program-regulations-2020/cbd2 supports respiratory management, oxygen, nebulization, assessment and rehabilitation. AIIMS NORCET official notice index https://www.aiimsexams.ac.in/landingpage/courses/advertisement/66ab7926ebb3815a4b707804 surfaced NORCET-11. Full official notice/INC GNM/PB BSc depth and exam-frequency audit pending. No new authenticated PYQs. Reused prior source-traced BHU 2019, HPSSSB Oct 2020 and RRB July 2019 evidence, rechecked indexed reports, not exact official keys.
 
 Video checks: Bhushan Science Nursing asthma teaching https://www.youtube.com/watch?v=phDl0DkMrW4 (09:10 published pathophysiology chapter), UC Davis Health MDI/spacer https://www.youtube.com/watch?v=1Ba5Tbv8C9o, Level Up RN oxygen https://www.youtube.com/watch?v=1BZXEL7a0TA, Health Sector nebulization https://www.youtube.com/watch?v=G92xglQ7OTg, National Jewish Health pursed-lip breathing https://www.youtube.com/watch?v=AqIPW474azk. Nursing Wallah Part 25 https://www.youtube.com/watch?v=tOxTKjgTcTo description and published chapter metadata: 09:41 traditional COPD comparison, 11:58 acute asthma drug, 14:19 status asthmaticus, 34:43 COPD oxygen discussion (not counted as dedicated practice), 37:29 Venturi MCQ, 44:00 barrel chest. No playback, transcripts or exact question matches. Five of eight broad topic groups have fresh teaching metadata (asthma and four care topics), three disease teaching groups rely on earlier unconfirmed lead. Specific MCQ coverage gaps remain despite some topic-level leads. Original diagrams day-03-airway-alveoli.svg, day-03-peak-flow-cor-pulmonale.svg, day-03-pursed-lip-breathing.svg fetched and SVG presence verified, not visually rendered or fully medically re-audited. Original chat wording/visual fidelity not independently established. Existing main headings preserved, no full fragment/relative-link audit. References.md and shared indexes not modified in concept-only scope. Both skills retrieved; output truncation prevented certifying a full fresh line-by-line review of both despite canonical sections and applicable rules reviewed. All five claims checked, nursing-care write initially hit GitHub 409 concurrent-head conflict, refreshed claims/target and safely retried, readback verified exact blobs. No force push. Next: inspect Day 3 revision for inconsistency with GINA 2026 and GOLD 2027, then Day 4 respiratory bank and remaining sources. Reconcile updated guideline-specific MCQ coverage only after examining existing banks. Earlier cumulative 325 clinical/rationale reviews and four new source-traced adaptations unchanged. No chapter certified complete.
+
+
+## 2026-11-27 — Day 3 revision and Day 4 pneumonia/TB/pleural/respiratory failure/ARDS/PE corrective audit
+
+|File|Before blob|After blob|Verified final content commit|
+|---|---|---|---|
+|Revision/Day-03-Quick-Revision.md|0d60feee3239814a1fdce54a1dea06d04d3bf6d0|521eb1ef4a762f6f213470ab4814eae5940a91da|42a6aece5c940ce42ab2ad521beca34ba1972332|
+|Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md|179d9a8357181e0286cc0c87190e10422bb19b70|3d68ef7c908f0c0adc69d498c55089f6dcf7ecad|1d1215a98a7849481a691077eb8ad71437e4e6d6|
+|MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md|d6ce0a2795b94d3a59fa772002bacd9a0680f61d|8e53010ffd9d606493b1821f23324c9f4a03c356|26c1341ff3ec6358d8518d81931d13369377b225|
+
+Day 4 MCQ Q1–20 intermediate commit 693ae042be3ddc9e0635926abe8ce3c08742079f; Q21–45 final above. Exact comparison against file at checkpoint cf8b64e7e0a0623c6fcdc1069725cbeec5b08c8c confirms all 45 stems, four options and keys unchanged. All 45 hidden answers, single priority/difficulty rows, 135 wrong-option explanations and individual video status verified. Twelve difficulty regrades Q14,16,24,26,28,29,31,34,35,39,43,44. First five attempted identities and learner status preserved. Related revision mappings added, not a complete semantic duplicate audit. Cumulative 370 clinical/rationale reviews plus four prior reported-source adaptation slots. No new MCQ/PYQ count. Concept original headings and diagram reference preserved, new explanations marked study-ready. Original chat and rendered SVG/UI not independently inspected. No new diagram authored.
+
+|Q|Key|Topic|Status|
+|---|---|---|---|
+|1|C|Ethambutol optic neuropathy|TB topic-level lead|
+|2|B|Variable airflow|Specific practice pending|
+|3|B|Chronic bronchitis definition|Specific practice pending|
+|4|C|Controlled oxygen|Specific practice pending|
+|5|B|Pleural air|Specific practice pending|
+|6|B|HAP timing|Specific practice pending|
+|7|A|Consolidation|Specific practice pending|
+|8|D|Sepsis escalation|Specific practice pending|
+|9|C|Aspiration pneumonitis|Specific practice pending|
+|10|C|CURB65 = 2|Specific practice pending|
+|11|B|Patchy consolidation|Specific practice pending|
+|12|A|Dysphagia|Specific practice pending|
+|13|D|Empyema|Specific practice pending|
+|14|D|Sputum NAAT|Regraded; TB topic-level lead|
+|15|C|Rifampicin resistance|TB topic-level lead|
+|16|B|N95|Regraded; Specific practice pending|
+|17|A|Isoniazid neuropathy|TB topic-level lead|
+|18|A|Rifampicin expected fluids|TB topic-level lead|
+|19|D|Pyrazinamide hyperuricemia|TB topic-level lead|
+|20|C|India regimen|TB topic-level lead|
+|21|B|Mantoux induration|TB topic-level lead|
+|22|B|Intradermal|TB topic-level lead|
+|23|A|Latent infection|Specific practice pending|
+|24|D|BCG|Regraded; Specific practice pending|
+|25|C|Thoracentesis position|Specific practice pending|
+|26|C|Light ratio 0.60|Regraded; Specific practice pending|
+|27|B|Post-procedure pneumothorax|Specific practice pending|
+|28|A|Tension emergency|Regraded; Specific practice pending|
+|29|D|Drain position|Regraded; Specific practice pending|
+|30|D|Water-seal air leak|Specific practice pending|
+|31|C|Absent tidaling with distress|Regraded; Specific practice pending|
+|32|B|Bleeding|Specific practice pending|
+|33|A|Chylothorax|Specific practice pending|
+|34|A|Type I failure|Regraded; Specific practice pending|
+|35|D|Hypercapnic acidosis|Regraded; Specific practice pending|
+|36|C|Exhaustion|Specific practice pending|
+|37|B|ARDS permeability|Specific practice pending|
+|38|B|P/F 120 moderate|Specific practice pending|
+|39|A|PBW 360 mL|Regraded; Specific practice pending|
+|40|D|Prone safety|Specific practice pending|
+|41|C|PE venous clot|Specific practice pending|
+|42|C|D-dimer rule-out|Specific practice pending|
+|43|B|CTPA|Regraded; Specific practice pending|
+|44|A|PE shock|Regraded; Specific practice pending|
+|45|D|Anticoagulant bleeding|Specific practice pending|
+
+Clinical evidence: GINA 2026 summary PDF https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf figure 9 page 36 visually verified. Acute asthma age ≥6, oxygen when indicated (generally SpO2 below 92%, target 92–95%), age ≤5 severe acute wheeze/asthma target ≥92% when given per GINA executive summary https://academic.oup.com/ajrccm/article/212/12/2919/8885525. Do not copy adult targets into neonatal care. GOLD 2027 v1.0 https://goldcopd.org/wp-content/uploads/2026/11/GOLD-2027-POCKET-GUIDE-v1.0-15Nov2026_WMV.pdf figure 2.14 extracted text verifies ABE and separate spirometric grade, screenshot cache miss. Group E ≥1 moderate/severe exacerbation, threshold already changed in GOLD 2026, not a uniquely new 2027 change. Revision synchronized with current notes and FDA warning. NICE NG250 pneumonia https://www.nice.org.uk/guidance/ng250/chapter/Recommendations indexed guidance supports CURB65 and clinical judgement; direct reopen 403. CDC TB adverse effects https://www.cdc.gov/tb/hcp/treatment/adverse-events.html directly opened, serious toxicity needs prompt review/hold protocol, distinguish expected orange fluids from hepatic warning symptoms. WHO diagnosis https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/ search extract rapid molecular testing; NTEP https://ntep.in/node/394 and https://ntep.in/node/760/CP-management-eptb indexed, direct retrieval failed. Retain conventional Indian 2HRZE/4HRE vs global 2HRZE/4HR and individualized regimen, latest operational protocol verification pending. CDC Mantoux https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html, WHO BCG https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccines-quality/bcg. BTS pleural procedures https://thorax.bmj.com/content/78/Suppl_3/s43 and Merck https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion indexed. Distinguish water-seal vs suction bubbling, no routine clamp of actively bubbling drain, specific controlled fluid drainage exception. ATS 2024 https://pmc.ncbi.nlm.nih.gov/articles/PMC10870893/ and ARDS global definition https://pmc.ncbi.nlm.nih.gov/articles/PMC10870872/ indexed, distinguish Berlin exam criteria from expanded nonintubated global definition. NICE PE https://www.nice.org.uk/guidance/ng158/chapter/recommendations indexed, D-dimer probability pathway and anticoagulant bleeding. Broad syllabus fit based on previously reviewed INC scope, not fresh full GNM/PB BSc and actual official exam-depth audit. Other clinical source references mostly search-level, full-text verification not complete.
+
+Historical: ESIC Staff Nurse 26 Feb 2019 Shift III third-party question retrieved https://testbook.com/question-answer/mantoux-test-purified-protein-derivative-is-sign--619cf0e7ecc1b27849a283c6. Reported stem and explanation incorrectly call measurement erythema; clinical rule measures induration and thresholds risk-dependent. Q21 visible purple related-concept tag, source caveat inside answer. Q22 route in source solution only, not claimed historical tested item. No official key authenticated. Other exact historical sources not authenticated. Reserve this source for Day 4 reported PYQ repair, avoid duplicate adaptation.
+
+Video evidence: Bhushan Science Nursing pneumonia teaching https://www.youtube.com/watch?v=WZMk1lGnL5o description confirms pathology/causes/stages. VS Nursing Academy Ritika Mam TB MCQ session https://www.youtube.com/watch?v=8kUoq-2nUvs description covers diagnosis, Mantoux, anti-TB drugs and NTEP. Nine broad topic-level question mappings Q1,14,15,17–22; individual subtopic discussion and exact playback pending. 36 explicit specific-video gaps. Nursing Wallah Part 25 https://www.youtube.com/watch?v=tOxTKjgTcTo published chapters 17:30 CAP cause, 29:26 PE symptoms, 33:34 pleural effusion symptom linked in concept file only, not exact coverage for current question stems. Separate TB/pleural/ARDS/PE teaching and targeted MCQ videos pending. No new high-yield original count, no full semantic comparison. Both skill files retrieved, current hashes same as preceding run and applicable sections reviewed; fresh full line-by-line reading of both and entire long learning log not certified due to output truncation. AGENTS/Copilot applicable rules checked. All five numbered job claims checked before content writes, no overlapping scope. Manual Eye/ENT separate claim not independently retrieved this run. Shared indexes and References.md untouched. Next: inspect Day 4 bronchiectasis/remaining respiratory topic inventory and audit next unreviewed bank/concepts, then repair Day 4 reported PYQ leads with ESIC evidence and revisit video gaps, revision consistency, syllabus and semantic coverage. No chapter certified complete.
