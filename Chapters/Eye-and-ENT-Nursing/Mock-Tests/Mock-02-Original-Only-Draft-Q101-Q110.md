@@ -62,32 +62,32 @@
 
 </details>
 
-### Q103. A patient with an uncomplicated clean traumatic tympanic membrane perforation asks whether prophylactic antibiotic ear drops are automatically required. No contamination or infection has been identified. Which explanation is appropriate?
+### Q103. A patient with a traumatic tympanic membrane perforation is scheduled for audiometry before treatment and again after recovery. Why is documenting hearing at both times useful?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Every clean perforation requires indefinite antibiotic drops
-- **B.** Routine prophylactic drops are generally unnecessary in a clean uncomplicated injury unless a clinician identifies an indication
-- **C.** Antibiotic drops close the perforation mechanically
-- **D.** Routine prophylactic systemic antibiotics are required for every injury
+- **A.** It guarantees that an injured ossicle will heal
+- **B.** It helps distinguish hearing impairment already caused by the injury from a subsequent treatment-associated change
+- **C.** It directly measures middle-ear bacterial load
+- **D.** It proves that every perforation requires surgery
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. Routine prophylactic drops are generally unnecessary in a clean uncomplicated injury unless a clinician identifies an indication**
+**Correct answer: B. It helps distinguish hearing impairment already caused by the injury from a subsequent treatment-associated change**
 
-- **A. Kyun galat hai:** Indefinite antibiotics unnecessary exposure aur adverse effects cause kar sakte hain. Treatment need injury aur infection assessment par depend karti hai.
+- **A. Kyun galat hai:** Audiometry hearing function measure karti hai. Test karne se ossicular injury heal hone ki guarantee nahi milti.
 
-- **B. Kyun sahi hai:** Clean uncomplicated traumatic perforation mein spontaneous healing possible hai. Routine antibiotic drops usually necessary nahi hote, unless contamination ya infection ke basis par clinician prescribe kare. Dry-ear precautions aur follow-up ka plan maintain karo.
+- **B. Kyun sahi hai:** Treatment se pehle hearing threshold record karne se baseline milta hai. Follow-up audiogram se change compare kar sakte hain. Is comparison se initial trauma ki wajah se present deficit aur treatment ke baad aaye change ko distinguish karne mein help milti hai. Persistent loss mein specialist further assessment kar sakta hai.
 
-- **C. Kyun galat hai:** Antibiotic drops bacterial infection manage karne mein help kar sakte hain. Ye tissue hole ko mechanical patch ki tarah close nahi karte.
+- **C. Kyun galat hai:** Audiometry sound perception aur hearing threshold evaluate karti hai. Bacteria identify ya quantify karne ke liye microbiological tests alag hote hain.
 
-- **D. Kyun galat hai:** Systemic antibiotics har clean perforation ke liye routine requirement nahi hain. Infection aur other clinical indications ke according prescriber decide karega.
+- **D. Kyun galat hai:** Bahut se uncomplicated traumatic perforations spontaneously heal hote hain. Surgery ki need persistent defect, associated injury aur specialist assessment par depend karti hai.
 
-**Exam clue:** Clean injury aur contaminated injury mein prophylaxis ka indication alag hota hai.
+**Exam clue:** Pre-treatment audiogram = baseline, post-treatment audiogram = comparison of functional outcome.
 
-**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/ear-nose-and-throat-disorders/middle-ear-and-tympanic-membrane-disorders/traumatic-perforation-of-the-tympanic-membrane).
+**Clinical reference:** [Merck Manual: Traumatic perforation of the tympanic membrane](https://www.merckmanuals.com/professional/ear-nose-and-throat-disorders/middle-ear-and-tympanic-membrane-disorders/traumatic-perforation-of-the-tympanic-membrane).
 
-**YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
+**YouTube MCQ practice:** Exact-item practice verification pending.
 
 </details>
 
