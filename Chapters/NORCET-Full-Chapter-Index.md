@@ -13,7 +13,7 @@
 | Other 29 chapters | 0 |
 | **Total** | **17 of 350** |
 
-Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks. Anatomy has 600 original questions and Nursing Foundations now has 1,021 indexed original questions, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
+Six of 35 chapters have at least one full-length mock. Seventeen tests contain 2040 practice slots. 333 further tests are needed to reach ten per chapter. Anatomy and Physiology and Nursing Foundations each have five published mocks. Anatomy has 600 original questions and Nursing Foundations now has 1,124 indexed original questions, but neither meets the new ten-mock and 30–40 per-topic targets. Mocks reuse topic-bank questions for revision. Older snapshots below are historical, not the current count.
 
 
 **35 study chapters, organized into eight workstreams.** This is a practical repository structure, not an official AIIMS chapter count. The INC syllabus covers broad nursing subjects. The adult health units are split into body systems. The three existing chapters are preserved. Newly created chapters are starter-stage, not completed or studied.
@@ -27,7 +27,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
-| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [1,021 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
+| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [1,124 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [560 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [31 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
@@ -424,3 +424,8 @@ Current inventory 975 original slots (412 Medium, 563 Difficult), 600 initial pl
 ### Forward lane — Group 05 reconciliation and isolation care
 
 Nursing Foundations 1,021 original slots (433 Medium, 588 Difficult), initial 600 plus 421 expansion. All 16 remaining Group 05 legacy slots allocated once, 15 cross-linked to existing IPC resources and Q18 reserved for catheter care. 05B isolation care continuity 20 new originals, partial 20/30 initial target, no padding. [Group 05B bank](Nursing-Foundations/MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md). Content checkpoint cbc471d77a5107f7d9c2a6037fc24c8f681b4b58, cross-chapter allocation 8d006ccc5493014ac30776aeb688baeec3e5264b. No new counted historical adaptations, 34 pending authentication and overlap. Five of ten compiled mocks. Finish distinct 05B gaps and then Group 06. All video, full clinical, curriculum and semantic audits remain pending. No sibling counts added.
+
+
+### Forward lane — Group 06B/06C and Group 07A
+
+Nursing Foundations 1,124 indexed originals (476 Medium, 648 Difficult), initial 600 +524 expansion. 06B routes/formulations and 06C monitoring/response each 30 allocated, 51 new combined. 07A dose units/concentration/reconstitution 20 new plus ten legacy IDs, 30 allocated. [07A bank](Nursing-Foundations/MCQs/07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md) verified commit df8ecde36c576fa38b300d062636e91019469791. All 20 arithmetic and reverse checks passed. Chapter README, concept, video, historical and MCQ indexes reconciled. Historical count remains 34 pending verification and overlap. Five of ten compiled mocks. Next weight-based dosing and safe range followed by infusion calculations. Full semantic, clinical, curriculum, question-video and official exam audits pending.
