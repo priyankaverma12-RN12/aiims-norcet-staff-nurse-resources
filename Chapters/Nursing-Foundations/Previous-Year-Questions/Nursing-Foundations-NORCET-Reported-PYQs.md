@@ -165,7 +165,20 @@ Z-track skin aur subcutaneous tissue displace karke needle pathway offset karti 
 
 **Correct: C. Stage 2**
 
-Stage 2 partial-thickness loss hai. Stage 1 skin intact hoti hai. Stage 3 full-thickness skin loss aur stage 4 exposed or palpable deeper structures se related hai. Current staging definitions use ki gayi hain rather than older wording.
+Stage 2 pressure injury mein skin ki upper layer ka kuch hissa lose hota hai aur dermis yani epidermis ke neeche ki layer expose ho sakti hai. Wound pink ya red moist dikh sakta hai, ya serum-filled blister ho sakta hai. Is stage mein fat, granulation tissue, slough aur eschar visible nahi hote. Pressure-related cause confirm karna zaroori hai. Moisture-associated dermatitis ya skin tear ko automatically pressure injury stage mat do.
 
+**Option-wise explanation:**
+- **A (Galat):** Stage 3 mein poori skin thickness lost hoti hai aur subcutaneous fat dikh sakta hai. Yeh partial-thickness description se match nahi karta.
+- **B (Galat):** Stage 4 mein fascia, muscle, tendon, cartilage ya bone jaise deeper structures exposed ya directly palpable ho sakte hain. Stem mein aisa nahi hai.
+- **C (Sahi):** Stage 2 ki definition partial-thickness skin loss with exposed dermis hai, jab visible fat aur deeper structures absent hon aur pressure cause supported ho.
+- **D (Galat):** Stage 1 mein skin intact rehti hai aur localized nonblanchable color change hota hai. Dermis exposed nahi hoti.
+
+**Exam clue:** Stage 2: exposed dermis without visible fat, slough or deeper tissue.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK553107/).
+
+**Evidence status:** Existing NORCET 4 2023 transcription attribution retained. Source indexed but direct question retrieval failed this run. Clinical answer checked independently. Original wording and official key unverified.
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 </details>
 
