@@ -321,7 +321,7 @@ Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medicati
 
 ### Q14. Which principle guides the ongoing need for an invasive vascular catheter?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Review indication regularly and remove it when no longer required under policy
 - **B.** Replace a working catheter solely because a patient asks for a different color
@@ -351,7 +351,7 @@ Unnecessary invasive access infection, thrombosis aur device complications ka ex
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q18](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q18](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q18-which-principle-guides-the-ongoing-need-for-an-invasive-vascular-catheter)
 
 ### Q15. A patient develops severe wheezing and hypotension after an allergen exposure. What is the priority under anaphylaxis protocol?
 
@@ -698,7 +698,7 @@ NPO ka matlab oral intake restriction hai, oral hygiene restriction nahi. Mouth 
 
 ### Q29. An infusion calculation yields a result ten times greater than the expected rate. What should the nurse do before programming the pump?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Recheck the order, unit conversions and calculation and obtain required verification
 - **B.** Ask the patient to choose the rate
@@ -724,9 +724,11 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q20](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q20](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q20-an-infusion-calculation-yields-a-result-ten-times-greater-than-the-expected-rate-what-should-the-nurse-do-before-programming-the-pump)
 
 ### Q30. Which finding is an appropriate measurable rehabilitation outcome?
 
@@ -1451,7 +1453,7 @@ Gentle relaxation aur supportive conversation tension reduce karne mein help kar
 
 ### Q58. A nurse calculates a dose of 1.2 mL and has a 1-mL syringe available. Which approach is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Round the prescribed dose down to 1 mL without authorization
 - **B.** Select a suitable calibrated syringe that can accurately measure the full ordered volume
@@ -1477,9 +1479,11 @@ Gentle relaxation aur supportive conversation tension reduce karne mein help kar
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q19](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q19](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q19-a-nurse-calculates-a-dose-of-12-ml-and-has-a-1-ml-syringe-available-which-approach-is-most-appropriate)
 
 ### Q59. A dry stable heel eschar has no redness, drainage or fluctuation in a patient with poor limb perfusion. What is the safest nursing approach?
 
@@ -2391,7 +2395,7 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 ### Q94. A 10% weight/volume glucose solution is supplied in a 250-mL container. How many grams of glucose does it contain?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 250 g
 - **B.** 10 g
@@ -2417,9 +2421,11 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q17](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q17](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q17-a-10-weightvolume-glucose-solution-is-supplied-in-a-250-ml-container-how-many-grams-of-glucose-does-it-contain)
 
 ### Q95. Which nursing action reflects accountability?
 
@@ -2614,7 +2620,7 @@ Slide sheet surface friction kam karne mein help karti hai. Nurse trained techni
 
 ### Q103. Before starting an ordered IV infusion after transfer, the pump displays a different rate from the current prescription. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Program a faster rate to make up for lost time
 - **B.** Average the two rates
@@ -2644,7 +2650,7 @@ Transfer par previous setting current order se mismatch ho sakti hai. Patient co
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q20](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q20](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q20-before-starting-an-ordered-iv-infusion-after-transfer-the-pump-displays-a-different-rate-from-the-current-prescription-which-action-is-correct)
 
 ### Q104. Which observation is particularly important when assessing tolerance of enteral feeding?
 
@@ -2920,7 +2926,7 @@ Postoperative restrictions procedure aur patient ke hisaab se hoti hain. Suitabl
 
 ### Q114. What should the nurse document after peripheral IV insertion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** The time of the next nurse's meal break
 - **B.** Only the color of the dressing
@@ -2950,7 +2956,7 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q17](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q17](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q17-what-should-the-nurse-document-after-peripheral-iv-insertion)
 
 ### Q115. A nurse has a conflict of interest in recommending a paid product to a patient. Which action is appropriate?
 
@@ -2996,7 +3002,7 @@ High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result ve
 
 ### Q117. A prescription is written as 2 mg/kg for a patient weighing 66 lb. Using 2.2 lb/kg, what is the calculated dose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 60 mg
 - **B.** 30 mg
@@ -3022,9 +3028,11 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related weight conversion and dosing problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q18](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q18](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q18-a-prescription-is-written-as-2-mgkg-for-a-patient-weighing-66-lb-using-22-lbkg-what-is-the-calculated-dose)
 
 ### Q118. A patient is transferred to another ward while an important laboratory result is still pending. What is the safest handover action?
 
@@ -3109,7 +3117,7 @@ Sudden deterioration time-sensitive situation hai. Primary clinician unavailable
 
 ### Q120. A patient receiving a blood product through an IV develops chills, dyspnea and back pain. Which immediate nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related tested concept only](https://testbook.com/question-answer/during-a-blood-transfusion-a-patient-suddenly-dev--692ee9e35f2b488969718e97)** · Legacy topic-bank reuse
 
 - **A.** Give the next blood unit without investigation
 - **B.** Discard the bag and tubing before notifying anyone
@@ -3134,10 +3142,10 @@ Chills, dyspnea aur back pain serious transfusion reaction suggest karte hain. T
 
 [Clinical reference](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [YouTube MCQ practice — transfusion reaction priorities, Nursing Wallah by PW](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s)** · Published 18 March 2026. Published chapter 17:50 in the MCQ countdown session covers reaction priorities. Topic-level only, exact question and playback not verified.
 <!-- /job5-rationale -->
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q19](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q19](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q19-a-patient-receiving-a-blood-product-through-an-iv-develops-chills-dyspnea-and-back-pain-which-immediate-nursing-response-is-appropriate)
 
