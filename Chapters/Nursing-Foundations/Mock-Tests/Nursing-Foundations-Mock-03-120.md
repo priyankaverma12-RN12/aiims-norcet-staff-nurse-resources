@@ -372,9 +372,20 @@ Blood splash eyes, nose aur mouth ki mucous membranes tak pahunch sakta hai. Tas
 
 **Correct: A. Assess the reason, respect refusal, communicate and document according to policy**
 
-Competent patient ko informed refusal ka right hota hai. Nurse concern samajhti hai aur treatment team ko notify karti hai taaki safe alternatives discuss ho sakein.
+<!-- job5-rationale -->
+Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risks explain karo, alternatives discuss karo aur responsible clinician ko inform karke actual refusal document karo. Capacity concern ho toh applicable policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Force aur covert administration autonomy violate kar sakte hain. False documentation unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Respectful assessment, communication aur documentation appropriate hai.
+- **B:** Secretly medicine dena consent aur formulation safety compromise kar sakta hai.
+- **C:** Force karne se autonomy violate aur aspiration/injury risk ho sakta hai.
+- **D:** Given document karna jab medicine nahi di gayi false record hai.
+
+**Exam clue:** Refusal ko assess, respect, report and record karo.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -498,9 +509,20 @@ Standing par gravity se blood lower body mein pool hota hai. Normally autonomic 
 
 **Correct: C. Verify the insulin type, concentration, dose and required independent checks under policy**
 
-Insulin types aur concentrations different ho sakti hain. Wrong product ya dose severe glucose changes cause kar sakti hai, isliye policy-based checks important hain.
+<!-- job5-rationale -->
+Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyperglycemia cause kar sakta hai. Product type, concentration, dose units, glucose, meal timing aur correct delivery device verify karo. Independent double check local policy ke according use karo.
 
-**Baaki options kyun sahi nahi hain?** Interchangeability assume nahi karni chahiye. Wrong syringe dosing error kar sakti hai. Early documentation inaccurate ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Administration se pehle given record karna inaccurate hai.
+- **B:** Incompatible syringe markings incorrect volume aur dose cause kar sakti hain.
+- **C:** Product aur dose verification plus indicated checks high-risk error reduce karte hain.
+- **D:** Insulin formulations ki onset, duration aur concentration differ kar sakti hai.
+
+**Exam clue:** Insulin: verify type, strength, units and device.
+
+[Clinical reference](https://www.ismp.org/system/files/resources/2024-01/ISMP_HighAlert_AcuteCare_List_010924_MS5760.pdf)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2242,9 +2264,20 @@ Pen cartridge mein blood contamination ho sakti hai. Needle change ke baad bhi p
 
 **Correct: A. Anterolateral thigh using the vastus lateralis muscle**
 
-Infant ka vastus lateralis accessible muscle hai aur routine IM vaccination ke liye preferred site hoti hai. Exact site aur needle choice age, size aur guideline par depend karti hai.
+<!-- job5-rationale -->
+Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccination ke liye preferred site hota hai. Muscle mass aur underlying structures ke hisaab se appropriate needle select karte hain.
 
-**Baaki options kyun sahi nahi hain?** Dorsogluteal site nerve injury concern rakhti hai. Dermis ID aur abdominal fat SC route se related hain.
+**Option-by-option reasoning**
+
+- **A:** Vastus lateralis infant vaccination ke liye recommended muscle site hai.
+- **B:** Abdominal fat subcutaneous route hai, IM vaccination site nahi.
+- **C:** Buttock routine infant vaccination ke liye preferred nahi hai, sciatic nerve injury aur fat deposition ka risk hai.
+- **D:** Forearm dermis intradermal route hai.
+
+**Exam clue:** Infant IM vaccination: anterolateral thigh.
+
+[Clinical reference](https://www.cdc.gov/vaccines/hcp/administration/during.html)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2347,9 +2380,20 @@ Monitor malfunction ya disconnected electrode flat tracing produce kar sakti hai
 
 **Correct: C. After actual administration according to the facility process**
 
-Record actual administration reflect karna chahiye. Isse next nurse duplicate ya missed dose avoid kar sakti hai.
+<!-- job5-rationale -->
+Medication administration record actual dose, route aur time reflect karna chahiye. Give karne ke baad timely document karo aur relevant response assess karo. Late entry ko facility correction procedure se clearly identify karo.
 
-**Baaki options kyun sahi nahi hain?** Advance record false ho sakta hai. Invented time inaccurate hai. Har administered medicine ka documentation important hai.
+**Option-by-option reasoning**
+
+- **A:** Adverse effect ho ya na ho, administered medicine record karni hoti hai.
+- **B:** Before receipt documentation se refusal ya missed dose falsely given dikh sakti hai.
+- **C:** Actual administration ke baad entry accurate hoti hai.
+- **D:** Invented time record integrity compromise karta hai.
+
+**Exam clue:** Document actual administration, not intention.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
