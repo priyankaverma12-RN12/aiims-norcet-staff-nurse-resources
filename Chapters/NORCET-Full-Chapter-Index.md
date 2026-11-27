@@ -324,3 +324,8 @@ Initial grouped inventory remains 1,200 question slots in 30/30 groups, 56 repor
 ### Individual-topic expansion — CSSD and equipment disinfection
 
 60 new original MCQs in two dedicated banks, two concept guides and diagrams, indexed practice videos, one distinct retrieved RRB 2018 reported adaptation and consolidated HPSSC 2020 source. Initial 1,200 grouped plus 60 expansion = 1,260 (567 Medium and 693 Difficult). 57 reported and two academic adaptations. Compared 120 prior stems, no exact matches. Provisional INC inventory and pending audit recorded in [Individual-topic expansion audit](Infection-Control-and-Microbiology/Concepts/Individual-Topic-Expansion-Audit.md). Next: sterilization methods and monitoring count/top-up then group 3. Chapter mocks 0/10. Official keys, dedicated video gaps and full semantic audit pending.
+
+
+### Reconciled individual-topic checkpoint — group 02
+
+Concurrent 15-question sterilization methods and monitoring bank verified, 8 Medium and 7 Difficult, allocated with 25 existing questions for 40 on the individual topic. All 105 expansion stems distinct by exact normalization across the four supplemental banks, answer mappings and four options passed. Current inventory 1305 indexed slots (590 Medium and 715 Difficult), 1,200 initial plus 105 expansion. Prior total omitted concurrent uploads, superseded. 57 reported and two academic adaptations. Next: group 03 standard precautions, transmission-based precautions and PPE individual-topic allocation and expansion. Mocks 0/10. Official keys, full video playback, older rationale improvements and comprehensive semantic audit pending.

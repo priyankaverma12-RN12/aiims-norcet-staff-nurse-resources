@@ -42,3 +42,8 @@ Complete individual-topic expansion beginning with surgical hand preparation, th
 ## Expansion update — surgical hand preparation
 
 Published [30 additional questions](../MCQs/01A-Surgical-Hand-Preparation-30-MCQs.md), [concept guide with diagram](01A-Surgical-Hand-Preparation.md) and [historical AIIMS recall with clinical caveat](../Previous-Year-Questions/01A-Surgical-Hand-Preparation-Reported-PYQs.md). The bank has 30 distinct exact stems internally, 30 hidden answers, 15 Medium and 15 Difficult. Earlier general-purpose question preserved. Current total 1,230 question slots. Full semantic overlap and dedicated practice video playback remain pending. Next: group 02, separate sterilization methods and monitoring, chemical disinfection and CSSD workflow. Audit existing allocation before writing new questions.
+
+
+## Reconciled checkpoint — group 02
+
+Verified 105 supplemental slots in four remote files with matching answers, four options, hidden answers and 105 distinct normalized stems across these supplemental files. Surgical hand preparation 30, CSSD 30, equipment disinfection 30 and sterilization methods and monitoring 15 new + 25 earlier allocated = 40 for the latter topic. Current inventory 1305 slots (590 Medium and 715 Difficult), 57 reported recruitment and two academic adaptations. Earlier tracker omitted concurrent surgical and sterilization additions, corrected here. [Sterilization methods](02C-Sterilization-Methods-and-Monitoring.md). Group 02 individual allocations met initial numerical target, comprehensive semantic, clinical and older rationale audit pending. Next: group 03 standard precautions, transmission-based precautions and PPE individual-topic allocation and expansion. Mocks 0/10.

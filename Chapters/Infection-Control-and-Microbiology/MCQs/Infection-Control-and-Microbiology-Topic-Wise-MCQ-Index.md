@@ -38,20 +38,13 @@
 [Chapter](../README.md)
 
 
-## Individual-topic expansion (additional to initial 1,200)
-
-| Topic | Additional questions | Difficulty |
-|---|---:|---|
-| [01A Surgical hand preparation](01A-Surgical-Hand-Preparation-30-MCQs.md) | 30 | 15 Medium, 15 Difficult |
-
-Current indexed inventory: **1,230 original question slots**, 566 Medium and 664 Difficult, excluding earlier four starter items. Initial 30 grouped banks are populated. Revised individual-topic target remains in progress. Exact and semantic overlap with all other chapters still pending.
-
-
-## Individual-topic expansion (additional authorship)
+## Individual-topic expansion (additional original questions)
 
 | Bank | New questions |
 |---|---:|
+| [Surgical hand preparation](01A-Surgical-Hand-Preparation-30-MCQs.md) | 30 |
 | [CSSD workflow and quality assurance](02A-CSSD-Workflow-Quality-Assurance-30-MCQs.md) | 30 |
 | [Equipment disinfection and endoscope reprocessing](02B-Equipment-Disinfection-and-Endoscope-Reprocessing-30-MCQs.md) | 30 |
+| [Sterilization methods and monitoring](02C-Sterilization-Methods-and-Monitoring-15-MCQs.md) | 15 |
 
-Initial 1,200 + 60 new expansion questions = **1,260 original questions** (including 567 Medium and 693 Difficult). Four legacy starter items separate. [Individual-topic audit](../Concepts/Individual-Topic-Expansion-Audit.md).
+**Current indexed inventory: 1,305 original question slots**, 590 Medium and 715 Difficult, excluding four legacy starter items. Initial 1,200 plus 105 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.

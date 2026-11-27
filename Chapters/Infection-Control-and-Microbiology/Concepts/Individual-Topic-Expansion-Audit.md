@@ -25,3 +25,8 @@ The [INC B.Sc. Nursing revised curriculum notification search](https://indiannur
 Current new expansion: [CSSD 30](../MCQs/02A-CSSD-Workflow-Quality-Assurance-30-MCQs.md) and [equipment disinfection 30](../MCQs/02B-Equipment-Disinfection-and-Endoscope-Reprocessing-30-MCQs.md). Exact normalized comparisons against 120 prior stems in groups 1, 2 and 30 found no matches. This is not comprehensive semantic validation. Existing group 2 related concepts remain preserved but new questions address different applications and processing stages. Dedicated evidence gaps in [reprocessing register](../Previous-Year-Questions/02A-02B-Reprocessing-Evidence.md).
 
 **Next:** complete sterilization methods and monitoring individual-topic count and any necessary top-up, then group 3 sequentially. Only after all individual topic targets are audited and achievable gaps addressed, publish ten unique chapter mocks. No chapter complete claim.
+
+
+## Superseded checkpoint
+
+See [authoritative coverage and quality audit](Individual-Topic-Coverage-and-Quality-Audit.md) for latest counts and next steps. Current total 1305 slots, including concurrent surgical and sterilization banks. This historical working file preserved. Next: group 03 standard precautions, transmission-based precautions and PPE individual-topic allocation and expansion.
