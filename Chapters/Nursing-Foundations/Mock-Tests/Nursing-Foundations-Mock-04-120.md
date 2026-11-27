@@ -444,9 +444,22 @@ Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin c
 
 **Correct: A. Rectal insertion may cause mucosal trauma and bleeding**
 
-Rectal instrumentation mucosa injure kar sakti hai. Thrombocytopenia mein bleeding risk high ho sakta hai, isliye safer route choose karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Rectal route selected cases mein use ho sakti hai. Hyperthermia inevitable nahi hai. Platelets hemostasis mein important hain.
+Platelets blood clot ke initial plug formation mein help karte hain. Thrombocytopenia mein platelet count kam hota hai. Rectal thermometer insertion mucosa ko traumatize kar sakti hai aur bleeding risk badha sakti hai, especially existing bleeding mein. Patient-specific contraindications assess karke suitable noninvasive route choose karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Rectal mucosal trauma se bleeding ho sakti hai, isliye is patient mein safer route appropriate hai.
+- **B (Galat):** Platelet count bleeding risk ko influence karta hai.
+- **C (Galat):** Rectal route har patient mein prohibited nahi hai, selection clinical indication par depend karta hai.
+- **D (Galat):** Rectal measurement se hyperthermia inevitable nahi hai.
+
+**Exam clue:** Bleeding risk: avoid unnecessary rectal instrumentation.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1389,9 +1402,22 @@ Culturally safe care patient ki own preferences poochti hai. Dietitian aur team 
 
 **Correct: C. Reduced sensation may prevent recognition of excessive heat and burns**
 
-Neuropathy mein temperature sensation impaired ho sakti hai. Nurse approved device, protective barrier aur reassessment use karti hai if heat appropriate hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** No complaint burn absence prove nahi karta. Unlimited application aur no inspection unsafe hain.
+Peripheral neuropathy mein nerves ki sensation impaired ho sakti hai, jisse patient excessive warmth ya early burn feel nahi kar pata. Routine heating pad ko insensate skin par avoid karo aur clinician-approved alternative plan lo. Agar specialist thermal treatment indicate kare toh device settings, barrier, time aur frequent skin checks protocol ke according honi chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Complaint absent hona safe temperature ka proof nahi hai.
+- **B (Galat):** Skin inspection aur sensation assessment aur bhi important hote hain.
+- **C (Sahi):** Reduced sensation thermal injury detect karna difficult bana sakti hai.
+- **D (Galat):** Neuropathy thermal injury se protection nahi deti, risk badha sakti hai.
+
+**Exam clue:** Reduced sensation: avoid routine heat and check safety.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2881,9 +2907,22 @@ Intact nonblanchable change early pressure injury indicate kar sakti hai. Offloa
 
 **Correct: A. Increasing pallor, numbness or pain**
 
-Cold vasoconstriction cause kar sakti hai aur poor perfusion mein tissue risk increase ho sakta hai. New pallor-numbness par application stop aur assessment appropriate hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Normal perfusion aur comfort reassuring ho sakte hain, lekin routine checks phir bhi required hain.
+Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vasoconstriction, yani blood vessels ka narrow hona, cause kar sakti hai. Poorly perfused area par routine cold therapy generally avoid karte hain. Increasing pallor, pain ya numbness par application stop karo, skin aur distal circulation assess karo aur urgent review as indicated arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Increasing pallor, numbness ya pain compromised circulation ya cold injury ka warning hai.
+- **B (Galat):** Planned reassessment safe care ka part hai, deterioration ka sign nahi.
+- **C (Galat):** Normal distal circulation alone future safety guarantee nahi karti, lekin listed urgent warning nahi hai.
+- **D (Galat):** Stable comfort aur intact skin reassuring ho sakti hai, lekin monitoring still needed hai.
+
+**Exam clue:** New pallor, pain or numbness: stop cold application and assess.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3654,9 +3693,22 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Correct: B. Use a consistent suitable route and document route and device when relevant**
 
-Different sites aur devices readings vary kar sakte hain. Consistency aur route documentation trend interpretation improve karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unrecorded site changes aur exact interchangeability assume karna misleading ho sakta hai.
+Different sites aur devices temperature ko different tarike se estimate karte hain. Serial readings ko same suitable route se lena trend comparison improve karta hai. Agar clinical need ki wajah se route change ho toh actual site, device aur time record karo. Fixed conversion se har patient ka exact core temperature infer mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rounded values without route aur context trend ko misleading bana sakti hain.
+- **B (Sahi):** Consistent suitable route aur documentation meaningful comparison support karte hain.
+- **C (Galat):** Undocumented random site change artificial trend create kar sakta hai.
+- **D (Galat):** Different site readings exactly interchangeable nahi hoti hain.
+
+**Exam clue:** Record route and device for serial temperature trends.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
