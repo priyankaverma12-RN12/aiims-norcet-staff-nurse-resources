@@ -1091,7 +1091,7 @@ Palliative care serious illness mein pain, breathlessness aur emotional concerns
 
 ### Q39. A patient reports several days without stool, severe abdominal pain, vomiting and distension. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give high-dose fiber before assessing the abdomen
 - **B.** Administer a large cleansing enema immediately
@@ -1118,7 +1118,7 @@ Severe pain, vomiting, distension aur stool na aana sirf simple constipation nah
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q2](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q2](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q2-a-patient-reports-several-days-without-stool-severe-abdominal-pain-vomiting-and-distension-what-should-the-nurse-do)
 
 ### Q40. During adult CPR before placement of an advanced airway, what compression-to-ventilation ratio is generally used by trained healthcare providers?
 
@@ -1426,7 +1426,7 @@ Difficult news ke baad silence patient ko information process karne aur emotion 
 
 ### Q50. An unconscious patient requires oral care. Which approach minimizes aspiration risk?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 12 March 2026 Shift I — related tested concept only**
 
 - **A.** Use safe positioning and suction-assisted oral care according to assessment and policy
 - **B.** Pour a large volume of water into the mouth
@@ -1455,7 +1455,7 @@ Unconscious patient oral fluid ko safely swallow ya spit nahi kar sakta. Aspirat
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q4](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q4](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q4-an-unconscious-patient-requires-oral-care-which-approach-minimizes-aspiration-risk)
 
 ### Q51. Which phrase demonstrates clarification in a therapeutic conversation?
 
@@ -2212,7 +2212,7 @@ Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planni
 
 ### Q78. Which intervention may help prevent constipation in a stable patient without dietary or fluid restrictions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use repeated enemas without assessing bowel habits
 - **B.** Encourage suitable fiber, fluids, mobility and regular toileting
@@ -2239,7 +2239,7 @@ Constipation mein stool hard ho sakta hai ya bowel movement patient ke usual pat
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q1](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q1](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q1-which-intervention-may-help-prevent-constipation-in-a-stable-patient-without-dietary-or-fluid-restrictions)
 
 ### Q79. A catheterized patient has no urine in the bag for two hours and reports suprapubic discomfort. What should the nurse do first?
 
@@ -2361,7 +2361,7 @@ Unwitnessed fall mein head injury, fracture ya acute illness ka possibility hota
 
 ### Q82. Which stool description suggests melena?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Black tarry stool
 - **B.** Bright yellow watery stool
@@ -2388,11 +2388,11 @@ Melena ka matlab black, tar jaisa stool hai. Jab blood digestive tract mein bada
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q3](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q3](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q3-which-stool-description-suggests-melena)
 
 ### Q83. Which direction is generally used for female perineal cleansing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** From anus toward urethra
 - **B.** From front to back
@@ -2419,7 +2419,7 @@ Female perineum genital aur anal area ke beech ki region hai. Urethral opening a
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q2](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q2](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q2-which-direction-is-generally-used-for-female-perineal-cleansing)
 
 ### Q84. A patient reports a previous severe reaction to a drug in the same class as a newly ordered medicine. What should the nurse do?
 
@@ -2560,7 +2560,7 @@ Heatstroke mein body heat dangerously accumulate kar sakti hai aur brain functio
 
 ### Q89. A patient has new black tarry stool with dizziness and hypotension. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give a routine stool softener and reassess tomorrow
 - **B.** Assess circulation and escalate urgently for possible gastrointestinal bleeding
@@ -2587,7 +2587,7 @@ Black tarry stool ke saath hypotension aur dizziness circulation compromise ka w
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q4](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q4](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q4-a-patient-has-new-black-tarry-stool-with-dizziness-and-hypotension-what-is-the-priority)
 
 ### Q90. Which procedure removes fluid from the pleural space for diagnosis or symptom relief?
 
@@ -2633,7 +2633,7 @@ Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf 
 
 ### Q92. After cleaning an uncircumcised patient's glans, which action is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Avoid reassessing swelling or discomfort
 - **B.** Leave the foreskin retracted indefinitely
@@ -2660,7 +2660,7 @@ Foreskin penis ke glans yani head ko cover karne wali skin hai. Adult mein agar 
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q3](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q3](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q3-after-cleaning-an-uncircumcised-patients-glans-which-action-is-essential)
 
 ### Q93. A prescribed dose is 0.25 g. The available tablet contains 125 mg. How many tablets are needed?
 
@@ -2928,7 +2928,7 @@ Rectal examination ya routine cleansing enema ke liye left lateral Sims mein pat
 
 ### Q102. When giving a bed bath, which general sequence minimizes transfer of organisms from heavily soiled areas?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Clean relatively clean areas before more contaminated areas
 - **B.** Clean the perineum before the face with the same cloth
@@ -2955,7 +2955,7 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q1](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q1](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q1-when-giving-a-bed-bath-which-general-sequence-minimizes-transfer-of-organisms-from-heavily-soiled-areas)
 
 ### Q103. Why should a recent hot drink be considered before measuring oral temperature?
 
