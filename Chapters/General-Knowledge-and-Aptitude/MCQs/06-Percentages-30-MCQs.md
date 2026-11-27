@@ -117,7 +117,7 @@
 
 </details>
 
-### Q6. A group of 240 applicants has 18% absent. Given that the attendance percentage is rounded to the nearest whole percent, which number of absentees could fit?
+### Q6. A group has 240 applicants. The absent percentage is reported as 18% after rounding to the nearest whole percent. Which number of absentees could fit?
 
 **Difficulty:** Difficult | **Priority:** High
 
