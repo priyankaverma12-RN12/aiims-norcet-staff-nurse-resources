@@ -1,10 +1,9 @@
 # Job 5 — deep explanation and answer audit
 
-State: CLAIMED
-Owner: job5-run15-physical
-Scope: Nursing Foundations Group 03E completed, Group 03 related mock and reported adaptation rationales only; no shared indexes
-Claimed UTC: 2026-11-27T09:34:34.070Z
-Expiry UTC: 2026-11-27T10:04:34.070Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
@@ -67,3 +66,7 @@ Resumed 290 live blocks. Group 03D Pulse Oximetry Q1–29 integrated, commit e73
 
 ## Run 15 — 27 November 2026 (topic bank)
 Resumed 319 live blocks. Group 03E Physical Examination Q1–27 expanded, commit 1a12df22433b008cf8a477a397bdc63412f45be3 blob e45066f270aba5d54f18e1f34ce5999a0ebc1dfd, exact readback, all key/option text matches and rationale-only reversal before metadata addition verified. 27 explanations, 108 individual reasons, 27 exam clues and 27 additional concept links. Q8 DSSSB Nursing Officer 27 Aug 2019 Shift III resonance report directly retrieved, publisher key 2, related concept only, not authenticated official key. GMCH 2019 abdominal sequence report also directly retrieved, not an exact match. Open RN abdomen and NICE DVT pages directly opened; respiratory and neurological pages indexed but direct retrieval cache miss, NICE AAA 403, CDC stroke and RCUK 2025 BLS indexed. HPRCA 26004 Apr28 and 25026 May29 final-key notices and 26044 Sept25 schedule indexed, no official item authenticated. Existing study Room physical examination 40 MCQ video description rechecked, playback and item timestamps pending. Existing question text/keys/metadata/links preserved. All claims checked before write. Both complete skills, AGENTS, Copilot, audit learnings and reverse checkpoint retrieved, applicable excerpts reviewed, fresh full line-by-line review not certified. Cumulative 346 live blocks (302 original-bank,40 reused mock,4 reported adaptations),1384 option reasons, zero drafts. All 152 Group 03 topic-bank questions now have expanded rationales. Next Group 03 reused mock slots and reported adaptations. Claim retained for this scope.
+
+
+### Run 15 — mock continuation
+Group 03 Mock01 Q29/43/62/67 mapped to source Q2/3/1/4, commit 6af5586e961e4ec3314c8129698b044fa8590af4 blob 065941890dc3baeaff02be57f21f49418d917e05. Mock02 Q17/28/73/86 to Q5/8/7/6, commit a754f409d26d1a3bb41824405cb83e7d0d989bff blob 54e2b750709bcdd9729e62ccfe2aaa98d48352b2. Mock03 Q18/39/61/75 to Q11/9/12/10, commit 357aea093094321506179ecde1b0992e1ee83bbd blob e2feae24b5f5ec97b23e629ec3c63c3683105840. Mock04 Q37/47/53/84 to Q16/15/13/14, commit 1108d8cfa25ef6bc4a27cafd6ab8ed8a439dec1e blob 62abb8cbb91c68cf6c5f1dc915a0089840a3f909. All 16 exact stem, option identity and answer text mapping checks, reversible rationale-only changes and exact readback passed. All claim blobs and target/source blobs checked via fresh tree before each mock write. Existing labels, answers, learner content and links preserved. 16 new live mock explanations, 64 option reasons. Cumulative 362 live blocks (302 original-bank,56 reused mock slots,4 reported adaptations),1448 option reasons. Run total 43 integrated explanations. Connector call limit interrupted before verified Mock05; recheck it before continuing, then audit Group 03A-E five reported evidence files and Group 04. No new questions, no pending drafts, no schedule/global index changes. Claim released.
