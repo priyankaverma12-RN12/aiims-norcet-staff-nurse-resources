@@ -38,7 +38,9 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Alternate malaria revision wording](Protozoa-and-Malaria-Reported-PYQs.md) preserves two overlapping source questions and adds zero to the unique historical item count.
 
-**Current total: 45 reported recruitment adaptations (24 + 4 + 5 + 2 + 4 + 3 + 3).** Two academic-paper adaptations remain separate.
+[Innate and adaptive immunity reported exam practice](Innate-and-Adaptive-Immunity-Reported-PYQs.md): one retrieved ESIC 2019 question and two provisional indexed leads (UP NHM and HSSC). Provisional leads excluded from counted total.
+
+**Current total: 46 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
 
 
 [Two DSSSB immunity and antibody adaptations, indexed NORCET leads](21-22-Immunity-and-Antibodies-Reported-PYQ-Adaptations.md). Third-party pages opened for DSSSB, official keys not authenticated. Indexed leads excluded from confirmed count.
