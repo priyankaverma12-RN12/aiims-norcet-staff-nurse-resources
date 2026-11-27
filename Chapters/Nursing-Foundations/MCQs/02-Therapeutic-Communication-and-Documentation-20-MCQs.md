@@ -4,9 +4,8 @@
 
 ### Q1. A patient says, I am afraid of my surgery tomorrow. Which response best encourages therapeutic communication?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -33,9 +32,8 @@ Open-ended question patient ko apni concern explain karne ka chance deta hai. Nu
 
 ### Q2. A patient remains silent after receiving difficult news. Which initial nursing response is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -62,9 +60,8 @@ Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse su
 
 ### Q3. A patient with hearing loss appears confused during instruction. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -91,9 +88,8 @@ Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur 
 
 ### Q4. Which phrase demonstrates clarification in a therapeutic conversation?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -120,9 +116,8 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 
 ### Q5. During handover using SBAR, which information belongs in the Recommendation section?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -149,9 +144,8 @@ Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent re
 
 ### Q6. Which documentation entry is most objective?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -178,9 +172,8 @@ Distance, device aur assistance observable facts hain. Objective record doosri n
 
 ### Q7. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -207,9 +200,8 @@ Health record mein correction transparent honi chahiye. Approved amendment origi
 
 ### Q8. A nurse receives a telephone medication order under a policy that permits it. What is the safest verification step?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -236,9 +228,8 @@ Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sa
 
 ### Q9. A family member asks for a competent adult patient's test results without the patient's permission. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -265,9 +256,8 @@ Adult patient ki health information confidential hai. Nurse authorized disclosur
 
 ### Q10. Which communication technique involves restating the main meaning of a patient's message to confirm understanding?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -294,9 +284,8 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 
 ### Q11. A patient with aphasia becomes frustrated while answering questions. Which strategy is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -323,9 +312,8 @@ Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient
 
 ### Q12. A patient describes pain as 7/10. Which entry records both subjective data and a relevant observation?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -352,9 +340,8 @@ Pain score patient ki report hai aur guarding observed behavior hai. Dono record
 
 ### Q13. A nurse discovers that a fall occurred without apparent injury. What should be recorded in the patient's clinical chart?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -381,9 +368,8 @@ Fall ke baad hidden injury possible hai. Nurse assessment, action aur communicat
 
 ### Q14. Which instruction best applies teach-back before discharge?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -410,9 +396,8 @@ Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha
 
 ### Q15. A patient expresses anger about a long wait. Which response is most therapeutic?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -439,9 +424,8 @@ Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear
 
 ### Q16. Which part of a SOAP note contains the patient's own report of symptoms?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -468,9 +452,8 @@ SOAP mein S patient-reported symptoms record karta hai. O observed findings, A c
 
 ### Q17. A patient is transferred to another ward while an important laboratory result is still pending. What is the safest handover action?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -497,9 +480,8 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 
 ### Q18. A patient says, I feel alone since my family left. Which response reflects empathy?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -526,9 +508,8 @@ Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse
 
 ### Q19. A nurse receives a critical laboratory result for a deteriorating patient. Which communication approach best closes the loop?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -555,9 +536,8 @@ Critical result timely action maangta hai. Closed-loop communication mein receiv
 
 ### Q20. Which practice is appropriate when using abbreviations in clinical documentation?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
