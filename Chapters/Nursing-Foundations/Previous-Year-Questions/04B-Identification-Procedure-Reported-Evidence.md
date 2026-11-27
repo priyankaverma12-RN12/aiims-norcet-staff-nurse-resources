@@ -4,7 +4,7 @@
 
 ### Q1. Before administering a scheduled medicine to a patient who can communicate, which identification workflow is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Reported-source adaptation · AIIMS NORCET 6 Prelims 2024, memory-based report
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **🔵 AIIMS NORCET 6 Prelims 2024 — memory-based adaptation**
 
 A. Confirm the patient's bed number and medicine order
 B. Ask the patient to state two approved identifiers and match these to the identification band and medication record
@@ -23,13 +23,19 @@ D. Check the medication record without identifying the person at the bedside
 
 [Reported Testbook question](https://testbook.com/question-answer/while-administering-medication-to-prevent-error-pa--662a49c56624fd068ec30a62) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/) · [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification)
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** Earlier directly inspected source retained. Direct retrieval failed on 27 November 2026.
+
+**YouTube MCQ practice: verification pending** — dedicated identity question coverage not established. **🎬 [Teaching — Barcodes vs. Wristbands](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, description confirms two-identifier checks. Teaching only.
+<!-- /job4-metadata -->
 </details>
 
 Source page explicitly labels NORCET 6 Prelims memory-based paper 2024. Direct page lines 31–46 showed question, options and reported answer. Adaptation changes wording and options. Shift and official question number unverified. Reserve as a shared concept with medication safety, do not count twice.
 
 ### Q2. Immediately before an elective surgical incision, what is the nurse's key contribution during the team safety pause?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Reported-source adaptation · RMLIMS Lucknow 7 September 2025, memory-based report
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **🔵 RMLIMS Lucknow — 7 September 2025 (memory-based adaptation)**
 
 A. Complete the discharge teaching checklist
 B. Record the final instrument count as complete before surgery begins
@@ -48,6 +54,12 @@ D. Perform the postoperative pain assessment
 
 [Reported Testbook question](https://testbook.com/question-answer/nurses-role-in-time-out-procedure-is-tonb--68c94187cfcf95e287e51108) · [WHO reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions) · [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety)
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** Earlier directly inspected source retained. Direct retrieval failed on 27 November 2026.
+
+**▶️ YouTube MCQ practice:** See Q2's linked surgical checklist question-and-answer video in the resource section below. Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 Direct non-AMP page lines 24–43 showed RMLIMS Lucknow 07-Sep-2025 memory-based attribution, four options and reported answer. Official paper and key unavailable. This adaptation is not exact reproduced wording.
