@@ -204,3 +204,8 @@ Verified 280 original MCQs across seven of 30 topic groups, 121 Medium and 159 D
 ### Continuation — staining, microscopy and culture
 
 40 new original MCQs added. Total 320 across eight of 30 groups. Next: Gram-positive cocci and bacilli. Chapter mocks 0/10, overall 17/350. Fresh source retrieval, PYQ authentication and detailed concepts for this batch remain pending.
+
+
+### Continuation — Gram-positive cocci and bacilli
+
+40 new original MCQs with detailed answers, concept notes, a classification diagram and two indexed video resources published. Total 360 across nine of 30 topic groups. Next: Gram-negative cocci and enteric bacilli. Chapter mocks 0/10, overall tracked mocks 17/350. Further question-level PYQ verification and remaining 21 topic groups are pending. Reconcile duplicate neurological chapter directories before final inventory count.
