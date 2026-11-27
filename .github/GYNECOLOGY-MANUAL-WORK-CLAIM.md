@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-rti-expansion-132018
+Scope: Gynecology RTI/STI/PID Q21–Q40 and local README, excluding Obstetrics
+Claimed UTC: 2026-11-27T13:20:18Z
+Expiry UTC: 2026-11-27T13:50:18Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
