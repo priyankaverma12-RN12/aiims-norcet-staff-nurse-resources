@@ -136,7 +136,7 @@ Deeply embedded object wound ke andar injured tissue ya blood vessel ke against 
 
 ### Q5. Which practice prevents contamination during multidose vial access?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reenter with a used patient syringe
 - **B.** Leave a needle in the stopper permanently
@@ -168,7 +168,7 @@ Multidose vial manufacturer ki approval ke according repeated withdrawal ke liye
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q11](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q11](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q11-which-practice-prevents-contamination-during-multidose-vial-access)
 
 ### Q6. A patient has limited literacy and speaks a different language. Which education approach is best?
 
@@ -261,9 +261,24 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 **Correct: C. Packed red blood cells**
 
-Red cells hemoglobin carry karti hain jo oxygen bind karta hai. Transfusion indication symptoms, Hb aur clinical context se decide hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Platelets hemostasis, plasma clotting factors aur cryoprecipitate fibrinogen replacement mein use ho sakte hain.
+Red blood cells mein hemoglobin hota hai jo lungs se oxygen tissues tak carry karta hai. Packed red cells transfusion se circulating red-cell mass aur oxygen-carrying capacity increase ho sakti hai. Transfusion ka decision Hb value alone par nahi, bleeding, symptoms aur clinical context par depend karta hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Platelets primary clot formation mein help karte hain, oxygen capacity replace nahi karte.
+- **B (Galat):** Cryoprecipitate mainly fibrinogen-rich component hai.
+- **C (Sahi):** Packed red cells hemoglobin aur red-cell mass provide karte hain.
+- **D (Galat):** Plasma soluble clotting factors provide karti hai, red-cell concentrate nahi.
+
+**Exam clue:** PRBC: oxygen-carrying capacity.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1110,9 +1125,24 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 **Correct: A. Cryoprecipitate**
 
-Cryoprecipitate fibrinogen-rich component hai jo selected bleeding conditions mein use ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** RBC hemoglobin provide karti hain. Crystalloid aur saline clotting proteins nahi provide karte.
+Cryoprecipitate plasma ka cold-insoluble fraction hai. Isme concentrated fibrinogen aur factor VIII, XIII, von Willebrand factor jaise selected proteins hote hain. Fibrinogen fibrin clot banane mein important hai. Specific bleeding aur low fibrinogen situation mein authorized replacement plan follow karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Cryoprecipitate fibrinogen-rich blood component hai.
+- **B (Galat):** Crystalloid fluid aur electrolytes provide kar sakti hai, coagulation proteins nahi.
+- **C (Galat):** Saline clotting proteins supply nahi karti.
+- **D (Galat):** Packed red cells mainly hemoglobin supply karte hain.
+
+**Exam clue:** Cryoprecipitate: fibrinogen-rich component.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1324,7 +1354,7 @@ Assisted transfer required patient ko help request karne ka accessible method ch
 
 ### Q43. A patient with an indwelling catheter will be discharged with the device temporarily. Which skill should be confirmed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Keeping the bag above the bladder during sleep
 - **B.** Routine disconnection of the system several times daily
@@ -1351,7 +1381,7 @@ Indwelling catheter bladder se urine continuously drain karta hai. Home care mei
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q12](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q12](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q12-a-patient-with-an-indwelling-catheter-will-be-discharged-with-the-device-temporarily-which-skill-should-be-confirmed)
 
 ### Q44. An adult with severe choking becomes unresponsive. What is the appropriate transition?
 
@@ -1557,9 +1587,24 @@ Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi a
 
 **Correct: B. Provide soluble coagulation factors**
 
-Plasma mein multiple clotting factors present hote hain. Use bleeding context aur authorized indication ke according hota hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Platelet aur RBC concentrates separate components hain. Plasma fluid volume bhi add karti hai.
+Coagulation factors blood proteins hain jo clot ko stable banane ke liye cascade mein kaam karte hain. Plasma multiple soluble factors contain karti hai. Specific bleeding situation aur factor deficiency mein authorized indication ke according plasma use ho sakti hai. Routine volume expansion ya isolated lab abnormality alone automatic indication nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Plasma fluid volume bhi deliver karti hai aur all electrolyte replacement ka product nahi hai.
+- **B (Sahi):** Soluble coagulation factors replace karna relevant purpose hai.
+- **C (Galat):** Red-cell concentrate plasma se alag component hai.
+- **D (Galat):** Platelet count badhana plasma ka primary role nahi hai.
+
+**Exam clue:** Plasma: multiple coagulation factors when indicated.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1737,9 +1782,22 @@ Subjective data patient ka personal experience hai, jaise pain rating. Objective
 
 **Correct: B. Assess hydration and comfort, replace fluids as appropriate and monitor temperature trend**
 
-Set point normal taraf aane par sweating heat loss support kar sakti hai. Nurse hydration, wet clothing aur temperature trend assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Impermeable covering heat loss reduce kar sakti hai. Fever recurrence possible hai. Fluid loss monitor karni chahiye.
+Fever ka set point lower hone par body excess heat lose karne ke liye sweating aur vasodilation use kar sakti hai. Heavy sweating se fluid loss ho sakta hai. Nurse hydration, vital signs, intake-output aur comfort assess karti hai. Prescribed fluid allowance ke according replacement arrange karo aur underlying illness ki monitoring continue rakho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Sweat fluid loss contribute karti hai, isliye hydration assessment zaroori hai.
+- **B (Sahi):** Hydration, comfort aur temperature trend assess karna appropriate supportive care hai.
+- **C (Galat):** Fever fall hone se cause resolve ya recurrence impossible prove nahi hota.
+- **D (Galat):** Impermeable covering evaporation aur heat loss obstruct kar sakti hai.
+
+**Exam clue:** Fever falling with sweating: reassess fluid status.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1999,9 +2057,22 @@ Competent patient information sharing preferences express kar sakta hai. Nurse c
 
 **Correct: B. Conduction**
 
-Direct contact se heat warmer surface se colder surface ki taraf transfer hoti hai. Cold examination table iska example hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Convection moving air-fluid, radiation distance par heat transfer aur evaporation liquid-to-vapor process hai.
+Conduction mein heat do objects ke direct physical contact se transfer hoti hai. Jab warm skin colder examination table ko touch karti hai, heat skin se table ki taraf ja sakti hai. Insulating sheet direct heat transfer reduce kar sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Evaporation liquid ko vapor mein badalne se heat remove karti hai.
+- **B (Sahi):** Direct contact between warmer and cooler surfaces conduction hai.
+- **C (Galat):** Convection moving air ya water ke through heat transfer hai.
+- **D (Galat):** Radiation electromagnetic waves ke through heat transfer hai, direct contact required nahi.
+
+**Exam clue:** Conduction = direct contact.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2095,7 +2166,7 @@ Mobilization circulation, lung expansion aur muscle function support kar sakti h
 
 ### Q69. Which item is most relevant to a discharge plan for a patient at high risk of falls?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Home mobility support, medication review and individualized fall prevention teaching
 - **B.** The nurse's shift schedule
@@ -2122,11 +2193,11 @@ Fall risk ghar par bhi present ho sakta hai, especially weakness, balance proble
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q11](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q11](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q11-which-item-is-most-relevant-to-a-discharge-plan-for-a-patient-at-high-risk-of-falls)
 
 ### Q70. Which injection equipment practice is safe?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use a new sterile syringe and needle for each injection as indicated
 - **B.** Reuse a needle wiped with alcohol
@@ -2158,7 +2229,7 @@ Needle aur syringe skin barrier cross karte hain, isliye asepsis important hai. 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q10](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q10](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q10-which-injection-equipment-practice-is-safe)
 
 ### Q71. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
@@ -2215,9 +2286,22 @@ Patient ko reposition karne se pressure redistribute hota hai aur immobility-rel
 
 **Correct: B. Convection**
 
-Moving air skin ke paas warm air replace karti hai. Cooler air hone par heat transfer convection se badh sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Conduction direct contact hai. Osmosis water movement hai. Thermogenesis heat production hai.
+Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air ki layer ko cooler moving air replace kare toh heat loss badh sakta hai. Environmental temperature aur humidity overall cooling effect ko influence karte hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Thermogenesis body mein heat production hai.
+- **B (Sahi):** Moving cooler air skin se heat carry kare toh convection hoti hai.
+- **C (Galat):** Conduction alone moving fluid ka effect explain nahi karti.
+- **D (Galat):** Osmosis membrane ke across water movement hai, heat transfer mechanism nahi.
+
+**Exam clue:** Convection = moving air or liquid.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2257,9 +2341,24 @@ Airway-breathing emergency planned procedure se higher priority hai. Contaminate
 
 **Correct: D. Platelet concentrate**
 
-Platelet transfusion selected low-count ya dysfunctional platelet situations mein hemostasis support kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Red cells oxygen carry karti hain. Saline aur albumin platelet count replace nahi karte.
+Platelets chhote cell fragments hain jo injured blood vessel par primary plug banane mein help karte hain. Clinically indicated thrombocytopenia, yani low platelet count, ya selected platelet dysfunction mein platelet concentrate prescribe ho sakta hai. Bleeding risk aur condition-specific thresholds consider hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Normal saline fluid volume provide karti hai, platelets nahi.
+- **B (Galat):** Packed red cells platelet replacement ka standard component nahi.
+- **C (Galat):** Albumin plasma protein solution hai, platelets provide nahi karti.
+- **D (Sahi):** Platelet concentrate indicated platelet replacement ke liye appropriate hai.
+
+**Exam clue:** Platelets: primary hemostasis.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2558,7 +2657,7 @@ Restraint patient ki free movement restrict kar sakti hai aur skin injury, circu
 
 ### Q84. Which transfer action protects the continuity of care for a patient with an active IV infusion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Ask the patient to manage all pump alarms during transfer
 - **B.** Disconnect the infusion automatically without reviewing the treatment
@@ -2585,7 +2684,7 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q9](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q9](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q9-which-transfer-action-protects-the-continuity-of-care-for-a-patient-with-an-active-iv-infusion)
 
 ### Q85. After elastic bandaging, toes become pale, cool and numb. What is the priority?
 
@@ -2715,7 +2814,7 @@ Hall model body care, person as core aur disease treatment as cure ko connect ka
 
 ### Q89. Which practice is required for an insulin pen used in a hospital?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use another patient's pen if the insulin type matches
 - **B.** Share it after each needle change
@@ -2747,7 +2846,7 @@ Insulin pen mein reusable patient-specific cartridge ya reservoir hota hai. Inje
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q9](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q9](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q9-which-practice-is-required-for-an-insulin-pen-used-in-a-hospital)
 
 ### Q90. Which injection site is generally preferred for routine intramuscular vaccination in infants?
 
@@ -2839,7 +2938,7 @@ Sedation aur throat anesthesia protective reflexes impair kar sakti hain. Nurse 
 
 ### Q93. A patient chooses to leave before recommended treatment is complete. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Physically detain every competent patient by default
 - **B.** Assess capacity and immediate risk, inform the team, explain risks and document according to policy
@@ -2866,7 +2965,7 @@ Patient recommended care complete hone se pehle leave karna chahe toh decision-m
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q10](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q10](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q10-a-patient-chooses-to-leave-before-recommended-treatment-is-complete-what-should-the-nurse-do)
 
 ### Q94. A patient receiving ECG monitoring has a flat trace but is awake with a palpable regular pulse. What should the nurse do first?
 
@@ -3414,9 +3513,22 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 **Correct: D. Evaporation**
 
-Sweat evaporate hone ke liye heat energy use karta hai. Is energy loss se skin aur body cool ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Radiation aur conduction separate heat transfer routes hain. Thermogenesis heat create karti hai.
+Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahiye, jo skin se heat ke form mein aa sakti hai. Isliye effective sweat evaporation cooling karti hai. Humid environment mein evaporation kam ho sakti hai even when sweating continues.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Radiation waves se heat transfer hai, liquid-to-vapor change nahi.
+- **B (Galat):** Muscle thermogenesis heat produce karti hai.
+- **C (Galat):** Conduction contact se heat transfer hai.
+- **D (Sahi):** Sweat ka vapor mein change evaporation hai aur heat loss support karta hai.
+
+**Exam clue:** Evaporation = liquid to vapor.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3573,7 +3685,7 @@ Neuman model stressors aur protective lines ke through system stability samjhata
 
 ### Q117. An injectable solution contains unexpected visible particles. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Shake it until clear without checking
 - **B.** Withhold it and check product integrity with pharmacy
@@ -3603,7 +3715,7 @@ Unexpected visible particles injectable product mein formulation defect, incompa
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q12](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q12](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q12-an-injectable-solution-contains-unexpected-visible-particles-what-should-the-nurse-do)
 
 ### Q118. What is the main purpose of an incentive spirometer after selected surgeries?
 

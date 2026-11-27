@@ -52,9 +52,22 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 **Correct: B. Reduce direct thermal injury risk**
 
-Protective barrier temperature exposure ko moderate kar sakti hai. Nurse duration aur skin condition monitor karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Barrier all heat transfer stop nahi karti. Monitoring still needed hai. Aim injury reduce karna hai.
+Protective layer device aur skin ke direct contact ko moderate karti hai. Isse excessive heat ya cold se burns aur tissue injury ka risk kam ho sakta hai. Barrier use karna monitoring ka replacement nahi hai. Indication, sensation, circulation, temperature aur duration check karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Skin checks aur temperature monitoring still required hain.
+- **B (Sahi):** Direct thermal injury risk reduce karna barrier ka intended purpose hai.
+- **C (Galat):** Barrier heat transfer ko slow kar sakti hai, completely prevent nahi karti.
+- **D (Galat):** Barrier ka purpose skin damage reduce karna hai, increase nahi.
+
+**Exam clue:** Barrier plus monitoring, not barrier alone.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -182,9 +195,22 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 **Correct: D. 0.9% sodium chloride**
 
-Normal saline extracellular fluid ke similar effective tonicity rakhti hai. Ye volume replacement mein selected indications ke liye use ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** 3% hypertonic aur 0.45% hypotonic hai. Sterile water alone IV administration ke liye unsafe hai.
+Isotonic crystalloid ka effective tonicity plasma ke approximately similar hota hai. 0.9% sodium chloride commonly used isotonic crystalloid hai aur extracellular volume expand kar sakti hai. Fluid indication, sodium, chloride, renal aur cardiac status monitor karo. Large saline volumes hyperchloremia aur acidosis contribute kar sakti hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 0.45% saline hypotonic hai.
+- **B (Galat):** 3% saline hypertonic hai.
+- **C (Galat):** Sterile water alone IV infusion se hemolysis ka risk hai.
+- **D (Sahi):** 0.9% saline conventional isotonic crystalloid hai.
+
+**Exam clue:** 0.9% saline isotonic, 0.45% hypotonic, 3% hypertonic.
+
+**Clinical reference:** [Clinical guidance](https://ncbi.nlm.nih.gov/sites/books/NBK500033/?report=printable)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -297,7 +323,7 @@ DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unil
 
 ### Q11. A metered-dose inhaler is used with a compatible spacer. Which instruction is generally correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Spray all puffs together into the spacer
 - **B.** Never check inhalation technique again
@@ -327,7 +353,7 @@ Metered-dose inhaler ya MDI measured aerosol puff release karta hai. Compatible 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q18](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q18](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q18-a-metered-dose-inhaler-is-used-with-a-compatible-spacer-which-instruction-is-generally-correct)
 
 ### Q12. Which response commonly occurs with suitable local superficial heat application?
 
@@ -468,7 +494,7 @@ Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur
 
 ### Q16. Which handover content helps prevent missed treatment after a ward transfer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the patient's room number
 - **B.** Scheduled and recent medications, pending tests and immediate care priorities
@@ -493,9 +519,11 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q17](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q17](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q17-which-handover-content-helps-prevent-missed-treatment-after-a-ward-transfer)
 
 ### Q17. A death may require medicolegal investigation. What should the nurse do before removing lines or altering the body?
 
@@ -520,7 +548,7 @@ Medicolegal case mein lines aur other material investigation ke liye relevant ho
 
 ### Q18. A patient has a mobility aid prescribed for home but the device has not arrived. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to walk without support regardless of assessment
 - **B.** Discuss a safe interim or delayed discharge plan with the team rather than assuming the patient can manage
@@ -547,7 +575,7 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q18](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q18](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q18-a-patient-has-a-mobility-aid-prescribed-for-home-but-the-device-has-not-arrived-which-action-is-appropriate)
 
 ### Q19. A patient with negative-pressure wound therapy develops fresh blood in the tubing and dizziness. What is the priority?
 
@@ -801,7 +829,7 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 
 ### Q27. How is the adult external ear canal usually straightened for ear drops?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Pull downward and forward
 - **B.** Push inward
@@ -831,7 +859,7 @@ Adult external auditory canal curved hota hai. Pinna ko gently upward aur backwa
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q17](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q17](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q17-how-is-the-adult-external-ear-canal-usually-straightened-for-ear-drops)
 
 ### Q28. Which intervention supports oral health in a patient who is not eating by mouth?
 
@@ -1072,7 +1100,7 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 ### Q36. What should an injection administration record include?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Drug, dose, route, site, actual time and relevant response
 - **B.** Only the syringe size
@@ -1102,7 +1130,7 @@ Injection documentation se team ko actual administered treatment aur patient res
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q20](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q20](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q20-what-should-an-injection-administration-record-include)
 
 ### Q37. A medication error has reached a patient, but no symptoms are currently evident. What should the nurse do first?
 
@@ -1159,9 +1187,22 @@ Medication error patient tak pahunch chuki hai, even if current symptoms absent 
 
 **Correct: A. Hypothermia**
 
-Core temperature 35°C se below ho toh hypothermia kehlati hai. Severity aur clinical management measured temperature aur symptoms par depend karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hyperpyrexia very high fever hai. Normothermia normal temperature aur pyrexia fever hai.
+Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat loss production se exceed kar sakta hai. Severity ke hisaab se shivering, confusion, slow pulse ya breathing changes develop ho sakte hain. Clinical symptoms aur reliable core measurement se assessment karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Core temperature below 35°C hypothermia ki standard definition hai.
+- **B (Galat):** Hyperpyrexia extremely high fever ke liye use hota hai.
+- **C (Galat):** Normothermia normal temperature state hai.
+- **D (Galat):** Pyrexia fever ka term hai.
+
+**Exam clue:** Hypothermia: core temperature below 35°C.
+
+**Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/hypothermia/)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -1608,9 +1649,22 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 
 **Correct: C. Reassess clinical condition, hydration and possible cause and communicate relevant changes**
 
-Antipyretic fever symptoms reduce kar sakti hai lekin cause treat nahi karti. Persistent fever mein patient ki overall condition aur treatment response assess karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unapproved redosing overdose risk badhati hai. Other symptoms important hain. Heat exposure worsen kar sakta hai.
+Antipyretic fever ko kam karne mein help kar sakti hai, lekin underlying infection ya other cause ko automatically treat nahi karti. Persistent fever mein nurse vital signs, hydration, consciousness, other symptoms aur medication timing assess karti hai. Relevant changes responsible clinician ko communicate karo. Prescribed interval aur maximum dose follow karo, aur deterioration mein urgent escalation karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Highest heat exposure body temperature aur discomfort worsen kar sakta hai.
+- **B (Galat):** Automatic early repeat dose toxicity ya overdose risk create kar sakti hai.
+- **C (Sahi):** Whole-patient reassessment aur clinical communication persistent fever ka safe response hai.
+- **D (Galat):** Temperature fall hone par bhi other serious symptoms clinically important rehte hain.
+
+**Exam clue:** Treat the patient, not only the temperature number.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2262,7 +2316,7 @@ Hematoma ya arterial complication distal perfusion compromise kar sakti hai. Nur
 
 ### Q75. A patient returns from another department with a new procedure-related restriction not reflected in the ward care plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Continue the outdated plan without clarification
 - **B.** Verify the updated restriction, modify nursing care and communicate it to the team
@@ -2289,7 +2343,7 @@ Procedure ke baad diet, activity, monitoring ya device-related restrictions chan
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q20](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q20](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q20-a-patient-returns-from-another-department-with-a-new-procedure-related-restriction-not-reflected-in-the-ward-care-plan-what-should-the-nurse-do)
 
 ### Q76. Which assessment finding should be reported as an objective sign of increased breathing effort?
 
@@ -2430,9 +2484,22 @@ Self-harm thoughts immediate safety assessment maangte hain regardless of grief 
 
 **Correct: D. They contribute to administered fluid volume**
 
-Liquid medicines aur flushes bhi water deliver karti hain. Fluid restriction ya strict balance mein inhe count karna important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Absorption possible hai. Small volumes add up ho sakte hain. Intake oral water alone nahi hai.
+Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral feeds, tube flushes aur IV fluids patient ko measurable volume deliver karte hain. Same period mein inhe appropriate intake categories mein record karo. Strict fluid restriction mein small repeated volumes bhi important hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Small volumes add up ho sakte hain, especially repeated doses mein.
+- **B (Galat):** Water alone total intake represent nahi karta.
+- **C (Galat):** Liquid medicines aur flushes body fluid balance contribute kar sakte hain.
+- **D (Sahi):** Administered liquid volumes ko count karna recorded balance accurate banata hai.
+
+**Exam clue:** Count all measurable administered fluid.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2463,7 +2530,7 @@ Home mein patient ko transfers, toileting aur skin prevention ke liye practical 
 
 ### Q82. Which nursing action respects patient participation during discharge planning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Ignore cultural or practical preferences
 - **B.** Make all decisions without asking the patient
@@ -2490,7 +2557,7 @@ Patient-centered discharge mein patient ki goals, preferences, home situation au
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q19](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q19](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q19-which-nursing-action-respects-patient-participation-during-discharge-planning)
 
 ### Q83. An adult with diabetes is alert, has low measured glucose and can swallow safely. Which initial response is commonly appropriate under a hypoglycemia protocol?
 
@@ -2536,9 +2603,22 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 **Correct: C. It can alter sodium and water distribution rapidly, with serious complications if mismanaged**
 
-Hypertonic saline extracellular tonicity aur sodium change kar sakti hai. Rate, indication aur repeat labs specific protocol se manage hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Free water opposite tonicity effect rakhta hai. Sodium response aur rate clinically important hain.
+Hypertonic saline plasma ke comparison mein higher effective solute concentration rakhti hai. Isse water cells se extracellular space ki taraf shift ho sakta hai aur serum sodium rise kar sakta hai. Severe symptomatic hyponatremia jaise selected indications mein prescribed protocol use hota hai. Rapid inappropriate correction osmotic demyelination aur fluid overload jaise harms cause kar sakti hai. Repeat sodium, neurological status aur fluid status monitor karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Free water ka tonicity effect different hota hai.
+- **B (Galat):** Any rate par universal safety nahi hai.
+- **C (Sahi):** Sodium aur water distribution rapidly change ho sakte hain, isliye close monitoring zaroori hai.
+- **D (Galat):** Hypertonic saline serum sodium change kar sakti hai.
+
+**Exam clue:** Hypertonic saline requires protocol and repeat sodium monitoring.
+
+**Clinical reference:** [Clinical guidance](https://ncbi.nlm.nih.gov/sites/books/NBK500033/?report=printable)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2649,9 +2729,24 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 
 **Correct: B. Arrange urgent assessment and infection precautions as indicated**
 
-Fever ke saath neck stiffness aur confusion serious CNS infection ya other emergency indicate kar sakte hain. Nurse urgent assessment aur appropriate precautions arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Temperature-only treatment cause address nahi karti. Delay unsafe hai. Uncomplicated fever assume nahi karni chahiye.
+Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningitis, ya other emergency ka warning pattern hai. ABC, consciousness aur vital signs assess karo aur urgent medical help activate karo. Suspected meningococcal disease mein standard plus droplet precautions as indicated initiate karo. Temperature-only care se emergency assessment delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Temperature treat karna underlying emergency ka substitute nahi hai.
+- **B (Sahi):** Urgent assessment aur appropriate infection precautions serious cause aur transmission risk address karte hain.
+- **C (Galat):** Hot bath assessment delay aur thermal injury risk create kar sakta hai.
+- **D (Galat):** Fever with neurological changes uncomplicated assume karna unsafe hai.
+
+**Exam clue:** Fever plus new neurological red flags: urgent escalation.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng240/chapter/recommendations)
+
+**Additional clinical reference:** [CDC meningococcal precautions](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/meningococcal-disease.html).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3241,7 +3336,7 @@ Bowel documentation patient ka usual pattern aur current changes compare karne m
 
 ### Q108. A patient taking anticoagulants develops an enlarging hematoma after an injection. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Massage the swelling vigorously
 - **B.** Ignore it until the next routine visit
@@ -3271,7 +3366,7 @@ Hematoma ka matlab tissue mein blood collect hona hai. Anticoagulant therapy clo
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q19](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q19](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q19-a-patient-taking-anticoagulants-develops-an-enlarging-hematoma-after-an-injection-what-is-appropriate)
 
 ### Q109. Which action corresponds to hand hygiene before an aseptic task?
 
@@ -3518,9 +3613,22 @@ Conflict patient-centered judgment influence kar sakta hai. Transparency aur pol
 
 **Correct: C. Assess the patient, verify the result and infusion, and urgently follow the escalation protocol**
 
-High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result verify karke urgent clinical review leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continued or increased potassium unsafe ho sakti hai. Rapid IV potassium bolus dangerous hai.
+Hyperkalemia yani blood potassium zyada hona heart ke electrical conduction ko affect kar sakta hai. Unexpected high result mein patient ko assess karo, ECG aur urgent clinical review arrange karo, sample hemolysis aur infusion contents verify karo. Potassium-containing infusion ko local urgent safety protocol ke mutabik withhold ya pause karo jab tak responsible team review kare. Severe clinical concern mein repeat sample ke liye emergency care delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Extra potassium delivery arrhythmia ka risk badhati hai.
+- **B (Galat):** Rapid unprescribed IV potassium bolus life-threatening arrhythmia cause kar sakta hai.
+- **C (Sahi):** Assessment, infusion safety check aur escalation potentially dangerous potassium elevation address karte hain.
+- **D (Galat):** Unchanged infusion se potassium aur badh sakta hai.
+
+**Exam clue:** High potassium: urgent assessment, stop additional potassium exposure per protocol.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

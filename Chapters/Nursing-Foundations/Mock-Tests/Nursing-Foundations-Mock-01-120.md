@@ -84,7 +84,7 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 
 ### Q4. Which insertion angle is conventional for a correctly selected intramuscular injection?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 — related reported concept only**
 
 - **A.** 25 degrees
 - **B.** 15 degrees
@@ -112,9 +112,13 @@ Intramuscular ya IM injection ka target skeletal muscle hota hai, jo skin aur su
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS NORCET, 20 November 2021 — third-party report](https://testbook.com/question-answer/intramuscular-injection-angle-is--624ff6b50e642b40ff56012e). Retrieved memory-based report tests conventional IM insertion angle. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q1](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q1](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q1-which-insertion-angle-is-conventional-for-a-correctly-selected-intramuscular-injection)
 
 ### Q5. A healthcare worker finds an adult unresponsive with absent normal breathing and no definite pulse after a check lasting no more than 10 seconds. What should happen next?
 
@@ -162,9 +166,24 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 **Correct: C. Stop the transfusion and initiate the reaction protocol with patient assessment**
 
-Acute hemolytic ya other serious reaction possible hai. Nurse transfusion stop karke ABC assess karti hai aur team-blood bank notify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Further blood exposure harm badha sakta hai. Reporting delay unsafe hai.
+Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination jaisi serious reaction ka warning ho sakte hain. Transfusion immediately stop karo. ABC, vitals aur patient identity assess karo, urgent medical help aur blood bank ko notify karo. Existing blood tubing se flush mat karo. Local protocol ke hisaab se new tubing aur compatible saline se access maintain karo, aur implicated unit preserve karo. Is serious reaction mein transfusion restart mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Agli unit lagana cause clarify hone se pehle unsafe hai.
+- **B (Galat):** Current unit complete hone tak wait karna reaction worsen kar sakta hai.
+- **C (Sahi):** Stop karna further exposure rokta hai aur reaction protocol timely activate karta hai.
+- **D (Galat):** Rate badhane se suspected harmful exposure aur badh sakta hai.
+
+**Exam clue:** Suspected serious transfusion reaction: stop, assess, escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -760,7 +779,7 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 
 ### Q26. What determines whether a subcutaneous injection is given at 45 or 90 degrees?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Needle length, tissue thickness and product-specific technique
 - **B.** Patient age alone
@@ -788,9 +807,11 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q3](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q3](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q3-what-determines-whether-a-subcutaneous-injection-is-given-at-45-or-90-degrees)
 
 ### Q27. A patient with unilateral leg swelling develops sudden shortness of breath and pleuritic chest pain. Which action has highest priority?
 
@@ -975,9 +996,24 @@ Subjective data patient ka personal experience hai. Burning sensation nurse dire
 
 **Correct: D. Match patient identifiers, compatibility details, component and prescription using approved checks**
 
-Wrong blood transfusion severe hemolysis cause kar sakti hai. Bedside verification patient aur unit ko correctly match karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Color, room number aur delivery assumption compatibility prove nahi karte.
+Blood transfusion mein kisi doosre patient ke liye compatible unit galti se lag jaaye toh severe hemolysis, yani red cells ka tootna, ho sakta hai. Bedside par approved independent check ke through patient ke verified identifiers, prescription, component, unit number, compatibility label, expiry aur bag integrity check karo. Mismatch ho toh transfusion start mat karo aur blood bank se clarify karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bag color blood group ya compatibility confirm nahi karta.
+- **B (Galat):** Room number patient ka unique identifier nahi hota.
+- **C (Galat):** Blood bank delivery alone bedside verification replace nahi karti.
+- **D (Sahi):** Patient aur component ka complete match wrong-blood transfusion ka risk kam karta hai.
+
+**Exam clue:** Patient-unit match before transfusion.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1400,9 +1436,22 @@ Hearing loss communication barrier hai, automatically cognitive impairment nahi.
 
 **Correct: D. Oral route**
 
-Unconscious patient oral thermometer ko safely hold nahi kar paata. Nurse aspiration aur injury risk dekhkar suitable alternative choose karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Nonoral, tympanic ya core monitoring routes patient-specific assessment aur device guidance ke according suitable ho sakte hain.
+Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing aur protective reflexes impaired ho sakte hain. Oral device se injury ya aspiration ka risk ho sakta hai. Nurse patient ki condition aur monitoring requirement ke according validated nonoral route choose karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Appropriate core temperature device critical monitoring mein indicated ho sakta hai.
+- **B (Galat):** Tympanic measurement ear injury ya other contraindication na ho toh suitable alternative ho sakti hai.
+- **C (Galat):** Approved nonoral route patient aur device ke hisaab se suitable ho sakti hai.
+- **D (Sahi):** Oral route mein cooperation aur safe positioning chahiye, jo unconscious patient mein possible nahi ho sakta.
+
+**Exam clue:** Unconscious patient: avoid oral thermometer.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -1748,7 +1797,7 @@ Dressing wound ko cover karne wali protective material hai. Exudate wound se nik
 
 ### Q56. Which information is essential during medication reconciliation at admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the name of the most recent hospital
 - **B.** Only medications available on the ward shelf
@@ -1775,7 +1824,7 @@ Medication reconciliation ka matlab patient jo medicines actually le raha hai un
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q3](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q3](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q3-which-information-is-essential-during-medication-reconciliation-at-admission)
 
 ### Q57. A patient has severe new abdominal pain despite normal heart rate and blood pressure. Which response is appropriate?
 
@@ -1878,7 +1927,7 @@ Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se li
 
 ### Q60. Which muscle is commonly used for an adult IM vaccine when muscle mass is adequate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Rectus abdominis
 - **B.** Gastrocnemius
@@ -1908,7 +1957,7 @@ Deltoid upper arm ki muscle hai aur adequate muscle mass wale adults mein routin
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q4](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q4](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q4-which-muscle-is-commonly-used-for-an-adult-im-vaccine-when-muscle-mass-is-adequate)
 
 ## Block 4
 
@@ -2026,7 +2075,7 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 ### Q64. A patient is transferred from ICU to a general ward with a newly changed oxygen target. What is a key handover requirement?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave the old oxygen prescription as the only reference
 - **B.** Report only that the patient was in ICU
@@ -2051,9 +2100,11 @@ Oxygen therapy mein target SpO2 yani blood oxygen saturation ka desired range pa
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q4](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q4](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q4-a-patient-is-transferred-from-icu-to-a-general-ward-with-a-newly-changed-oxygen-target-what-is-a-key-handover-requirement)
 
 ### Q65. Which is an appropriate indication for an indwelling urinary catheter?
 
@@ -2155,7 +2206,7 @@ Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strengt
 
 ### Q68. Which angle is commonly used for an intradermal injection with the bevel facing upward?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPPSC Staff Nurse, 17 December 2017 — related reported concept** · **🟣 BHU Staff Nurse, 22 October 2019 — related reported concept** · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** 45–60 degrees
 - **B.** 90 degrees
@@ -2181,13 +2232,15 @@ Intradermal ya ID injection mein drug epidermis ke neeche dermis ki superficial 
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 
-**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ.
+**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ. [AIIMS Jodhpur 10 December 2019 memory-based report](https://testbook.com/question-answer/the-nurse-should-hold-the-syringe-almost-flat-agai--625fd2a58eb1628dbf110359) also tests bevel-up shallow insertion. Official key unverified.
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q2](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q2](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q2-which-angle-is-commonly-used-for-an-intradermal-injection-with-the-bevel-facing-upward)
 
 ### Q69. Which practice applies to the care of every patient regardless of known infection status?
 
@@ -2242,9 +2295,24 @@ Standard precautions ka matlab hai ki har patient ki care mein infection spread 
 
 **Correct: D. Retain and handle them according to the blood bank investigation protocol**
 
-Blood bank implicated unit aur tubing investigate kar sakta hai. Nurse policy ke according preserve aur return karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Disposal evidence lose kar sakta hai. Reuse infection aur mismatch risk hai. Concealment unsafe hai.
+Reaction ke baad bag aur administration tubing investigation mein important evidence hote hain. Blood bank unit identity, compatibility aur suspected contamination evaluate kar sakta hai. Bag aur set ko approved biohazard handling ke saath preserve aur return karo. Required fresh patient samples aur incident documentation local protocol ke hisaab se arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Reuse se contamination aur wrong-patient exposure ka serious risk hai.
+- **B (Galat):** Immediate disposal investigation ke evidence ko destroy kar sakti hai.
+- **C (Galat):** Concealment urgent investigation aur patient safety delay karta hai.
+- **D (Sahi):** Protocol ke according retained unit aur tubing investigation support karte hain.
+
+**Exam clue:** Preserve implicated component and set.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2284,9 +2352,24 @@ Injection ke baad wheeze aur facial swelling anaphylaxis suggest kar sakte hain.
 
 **Correct: D. Vital signs and relevant clinical status before starting**
 
-Baseline vitals se transfusion ke dauran new fever, BP changes aur breathing symptoms compare karne mein help milti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Old weight, volume aur age alone reaction detection ke liye insufficient hain.
+Baseline vital signs transfusion se pehle patient ki condition ka starting record hain. Temperature, pulse, BP, respiratory rate, oxygen saturation as indicated aur existing symptoms document karo. Initial period mein closely observe karo aur local policy ke according monitoring repeat karo. New symptoms baseline se compare karne par reaction jaldi identify ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Purana weight current physiological condition nahi batata.
+- **B (Galat):** Bag volume patient ki baseline status nahi batata.
+- **C (Galat):** Age risk assessment mein useful ho sakti hai, lekin reaction ke liye baseline vitals nahi hai.
+- **D (Sahi):** Baseline vital signs aur clinical status new deterioration identify karne mein help karte hain.
+
+**Exam clue:** Baseline assessment before blood administration.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2294,7 +2377,7 @@ Baseline vitals se transfusion ke dauran new fever, BP changes aur breathing sym
 
 ### Q73. A new admission arrives with severe breathlessness and hypotension. Which action takes priority over routine admission paperwork?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Provide the ward orientation booklet first
 - **B.** Immediate clinical assessment and stabilization with escalation
@@ -2319,9 +2402,11 @@ Severe breathlessness ka matlab ventilation ya oxygenation compromise ho sakti h
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary historical comparison:** [RRB Nursing Superintendent, 29 April 2025 Shift I — reported routine admission item](https://testbook.com/question-answer/when-a-patient-arrives-to-the-hospital-for-routine--681c865b99ed7f6194df56dc). Routine admission is not the unstable emergency scenario above. No exact match claimed.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q2](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q2](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q2-a-new-admission-arrives-with-severe-breathlessness-and-hypotension-which-action-takes-priority-over-routine-admission-paperwork)
 
 ### Q74. Which finding is characteristic of peripheral IV phlebitis?
 
@@ -2359,7 +2444,7 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 
 ### Q75. When should discharge planning generally begin for an admitted patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 PGIMER Chandigarh Staff Nurse Grade II, 2015 — related reported concept only**
 
 - **A.** Only after the patient leaves
 - **B.** At admission and continue throughout the stay
@@ -2384,9 +2469,13 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [PGIMER Chandigarh Staff Nurse Grade II, 2015 — third-party report](https://testbook.com/question-answer/discharge-planning-should-begin--62b715b11ab53b7f92c67a23). Reported item tests when discharge planning begins. Official paper/key not independently authenticated.
+
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q1](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q1](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q1-when-should-discharge-planning-generally-begin-for-an-admitted-patient)
 
 ### Q76. A surgical dressing rapidly saturates with fresh blood and the patient's pulse rises. What takes priority?
 
@@ -2816,9 +2905,24 @@ Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar s
 
 **Correct: B. Activate emergency help and begin appropriate rapid cooling and supportive care**
 
-Heatstroke mein body heat dangerously accumulate kar sakti hai aur brain function affect hota hai. Rapid cooling aur emergency supportive care time-sensitive hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Antipyretic heatstroke ka primary treatment nahi hai. Blankets heat retain kar sakti hain. Sweating ka wait unsafe hai.
+Extreme heat exposure ke baad very high temperature aur altered mental status heatstroke ka serious warning hai. Body heat control fail ho sakta hai aur brain, kidney, liver aur circulation damage ho sakte hain. Emergency help activate karo, ABC assess karo aur appropriate rapid active cooling turant shuru karo. Cooling method trained team aur setting ke hisaab se choose karo. Altered consciousness mein oral fluids force mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Warm blankets heat retain kar sakti hain.
+- **B (Sahi):** Rapid cooling aur emergency supportive care organ damage kam karne ke liye time-sensitive hain.
+- **C (Galat):** Routine antipyretics heatstroke ka mechanism correct nahi karte aur sole treatment unsafe hai.
+- **D (Galat):** Sweating present ya absent ho sakti hai. Emergency help ke liye sweating ka wait nahi karte.
+
+**Exam clue:** Heatstroke: urgent active cooling plus emergency support.
+
+**Clinical reference:** [Clinical guidance](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke)
+
+**Indian guidance:** [MoHFW heatwave preparedness and rapid cooling](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2026709&lang=2&reg=48).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3234,9 +3338,24 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 **Correct: B. It may temporarily elevate the local measurement**
 
-Hot drink mouth ki local temperature increase kar sakti hai. Nurse device policy ke according wait ya suitable alternate route select karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Permanent core rise expected nahi hai. Cold drink lower reading de sakti hai. Oral measurement local conditions se affect hoti hai.
+Oral temperature mouth ke andar ki local temperature measure karti hai. Hot drink se oral tissue temporarily warm ho sakta hai, isliye reading falsely high aa sakti hai. Cold drink opposite effect de sakti hai. Device instructions aur local policy ke according wait karo ya suitable alternate route use karo. Urgent clinical assessment ko wait ke liye delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hot drink local oral reading ko generally increase kar sakti hai, lower karna universal effect nahi hai.
+- **B (Sahi):** Local warming se temporarily higher reading mil sakti hai, even when core temperature unchanged ho.
+- **C (Galat):** Recent food ya drink oral measurement ko affect kar sakti hai.
+- **D (Galat):** Hot drink se core temperature permanently several degrees increase hona expected nahi hai.
+
+**Exam clue:** Recent food or drink: check timing before oral measurement.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+
+**Related historical evidence:** [🟣 JIPMER Staff Nurse, 4 June 2013 — related oral-temperature timing concept](https://testbook.com/question-answer/how-long-should-a-nurse-wait-after-taking-cold-mil--6221ef7b278136a4444593cc). Retrieved third-party report concerns cold milk and reports 20–30 minutes. Actual device instructions and policy govern timing. Official key not independently authenticated.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -3554,9 +3673,22 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 **Correct: C. Fever**
 
-Fever mein inflammatory signals hypothalamus ka target temperature increase kar sakte hain. Body shivering aur heat retention se new target tak pahunchne ki koshish karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hyperthermia mein heat accumulation set-point rise ke bina ho sakti hai. Hypothermia low temperature aur normothermia normal range hai.
+Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory signals uska target temperature, yani set point, higher kar sakte hain. Body heat conserve aur produce karke higher target tak pahunchti hai. Isliye fever mein chills aur vasoconstriction ho sakte hain. Hyperthermia mein heat production ya exposure heat loss se exceed hota hai without raised set point.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hyperthermia without raised set point fever se physiologically different hai.
+- **B (Galat):** Hypothermia core temperature abnormally low hone ki condition hai.
+- **C (Sahi):** Raised hypothalamic set point fever ka mechanism hai.
+- **D (Galat):** Normothermia expected normal temperature regulation ko describe karti hai.
+
+**Exam clue:** Fever = raised set point.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 

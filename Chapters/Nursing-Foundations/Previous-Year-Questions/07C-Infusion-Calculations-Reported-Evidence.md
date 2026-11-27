@@ -31,7 +31,7 @@ Pehle 5 hours ko 300 minutes mein convert karo. Target = 500 × 20/300 = 33.33 g
 
 [Direct NPrep report — HPSSC Staff Nurse 2021](https://nprep.in/question-answer/500-ml-of-iv-fluid-need-to-be-administered-over-5-hours-PHHIwH5iwe_kHYXcouAAB). Direct text retrieved 27 November 2026. Source reports a direct drip-rate calculation. This adaptation asks for comparison with an observed rate instead. Official key, post code, shift and booklet question number not authenticated.
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description covers gravity flow. Exact item, timestamp and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description covers gravity flow. Exact item, timestamp and playback pending.
 
 </details>
 
@@ -62,7 +62,7 @@ First set mein 50 × 15/30 = 25 gtt/min hota hai. Doosre set mein 50 × 20/30 = 
 
 [Direct Testbook reported NORCET 6 Prelims 2024 question](https://testbook.com/question-answer/cefuroxime-sodium-1-g-in-50-ml-normal-saline-ns--662a4a4407433d7a1b2a241b). Retrieved 27 November 2026. Source has one gravity set and a medication example. This new exercise compares two verified training sets, removes actual medication selection and is not verbatim. Official key and shift not authenticated.
 
-**▶️ [VS Nursing Academy — Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed IV flow and drop-rate practice. Exact question and playback pending.
+**▶️ [YouTube MCQ practice — IV flow calculations, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed IV flow and drop-rate practice. Exact question and playback pending.
 
 </details>
 

@@ -324,9 +324,22 @@ Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hon
 
 **Correct: B. Assess respiratory and circulatory status and urgently review the infusion plan**
 
-Heart fluid load handle na kar paaye toh pulmonary congestion develop ho sakti hai. Nurse urgent assessment aur authorized infusion management karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Additional fluid worsen kar sakta hai. Bag empty hone ka wait unsafe hai.
+Cardiac disease mein heart extra IV fluid efficiently handle nahi kar paata toh pulmonary congestion develop ho sakti hai. New crackles aur increased breathing effort urgent deterioration ke clues hain. ABC, oxygen saturation, vital signs aur infusion assess karo. Suspected harmful infusion ko local emergency protocol ke mutabik pause karo aur urgent medical review lo. Prescribed treatment plan follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rate increase overload aur breathing difficulty worsen kar sakta hai.
+- **B (Sahi):** Immediate assessment aur urgent infusion-plan review safest action hai.
+- **C (Galat):** Large oral bolus fluid load worsen kar sakta hai.
+- **D (Galat):** Bag empty hone tak wait respiratory compromise worsen kar sakta hai.
+
+**Exam clue:** New crackles during IV therapy: urgent assessment.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -431,9 +444,22 @@ Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin c
 
 **Correct: A. Rectal insertion may cause mucosal trauma and bleeding**
 
-Rectal instrumentation mucosa injure kar sakti hai. Thrombocytopenia mein bleeding risk high ho sakta hai, isliye safer route choose karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Rectal route selected cases mein use ho sakti hai. Hyperthermia inevitable nahi hai. Platelets hemostasis mein important hain.
+Platelets blood clot ke initial plug formation mein help karte hain. Thrombocytopenia mein platelet count kam hota hai. Rectal thermometer insertion mucosa ko traumatize kar sakti hai aur bleeding risk badha sakti hai, especially existing bleeding mein. Patient-specific contraindications assess karke suitable noninvasive route choose karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Rectal mucosal trauma se bleeding ho sakti hai, isliye is patient mein safer route appropriate hai.
+- **B (Galat):** Platelet count bleeding risk ko influence karta hai.
+- **C (Galat):** Rectal route har patient mein prohibited nahi hai, selection clinical indication par depend karta hai.
+- **D (Galat):** Rectal measurement se hyperthermia inevitable nahi hai.
+
+**Exam clue:** Bleeding risk: avoid unnecessary rectal instrumentation.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -475,7 +501,7 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 
 ### Q17. Where should routine ophthalmic drops be instilled?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Into the lacrimal duct using the tip
 - **B.** Directly onto the cornea with tip contact
@@ -505,11 +531,11 @@ Lower eyelid gently pull karne par conjunctival sac, yani lid aur eyeball ke bee
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q15](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q15](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q15-where-should-routine-ophthalmic-drops-be-instilled)
 
 ### Q18. An eye drop and ointment are prescribed together for the same eye. Which sequence is generally appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Drops before ointment with the recommended interval
 - **B.** Mix them in the same dropper
@@ -539,7 +565,7 @@ Eye drops liquid preparation hoti hain aur ointment semi-solid preparation hai. 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q14](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q14](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q14-an-eye-drop-and-ointment-are-prescribed-together-for-the-same-eye-which-sequence-is-generally-appropriate)
 
 ### Q19. Which observation should prompt assessment of possible IV line dislodgement?
 
@@ -1194,7 +1220,7 @@ Brain ko glucose continuously chahiye. Unsafe swallow mein oral treatment aspira
 
 ### Q39. Why should patients receive explicit warning signs and follow-up contact information at discharge?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** They need to recognize deterioration and know how to obtain timely help
 - **B.** All complications can be prevented by a leaflet alone
@@ -1221,11 +1247,11 @@ Hospital se ghar jaane ke baad patient ko continuous bedside monitoring nahi mil
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q13](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q13](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q13-why-should-patients-receive-explicit-warning-signs-and-follow-up-contact-information-at-discharge)
 
 ### Q40. A patient with low health literacy is discharged with a complex treatment plan. Which education strategy is most useful?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to sign without explanation
 - **B.** Assume literacy from the patient's educational history
@@ -1252,7 +1278,7 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q16](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q16](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q16-a-patient-with-low-health-literacy-is-discharged-with-a-complex-treatment-plan-which-education-strategy-is-most-useful)
 
 ## Block 3
 
@@ -1376,9 +1402,22 @@ Culturally safe care patient ki own preferences poochti hai. Dietitian aur team 
 
 **Correct: C. Reduced sensation may prevent recognition of excessive heat and burns**
 
-Neuropathy mein temperature sensation impaired ho sakti hai. Nurse approved device, protective barrier aur reassessment use karti hai if heat appropriate hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** No complaint burn absence prove nahi karta. Unlimited application aur no inspection unsafe hain.
+Peripheral neuropathy mein nerves ki sensation impaired ho sakti hai, jisse patient excessive warmth ya early burn feel nahi kar pata. Routine heating pad ko insensate skin par avoid karo aur clinician-approved alternative plan lo. Agar specialist thermal treatment indicate kare toh device settings, barrier, time aur frequent skin checks protocol ke according honi chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Complaint absent hona safe temperature ka proof nahi hai.
+- **B (Galat):** Skin inspection aur sensation assessment aur bhi important hote hain.
+- **C (Sahi):** Reduced sensation thermal injury detect karna difficult bana sakti hai.
+- **D (Galat):** Neuropathy thermal injury se protection nahi deti, risk badha sakti hai.
+
+**Exam clue:** Reduced sensation: avoid routine heat and check safety.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1469,9 +1508,22 @@ Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficu
 
 **Correct: D. A 2-kg rapid gain may reflect approximately 2 L of fluid accumulation**
 
-Rapid weight gain often fluid accumulation se related ho sakta hai. Roughly one kg water one liter ke equal hota hai. Nurse edema, intake-output aur breathing assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Muscle growth overnight unlikely hai. Gain dehydration prove nahi karta. Change clinical context mein important hai.
+Same scale aur comparable conditions mein weight 64 minus 62 = 2 kg badha hai. Water ki density ke hisaab se 1 kg roughly 1 L ke barabar hota hai. Isliye rapid 2 kg gain approximately 2 L retained fluid ka clue ho sakta hai, exact proof nahi. Edema, breathing, intake-output aur measurement accuracy check karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Weight gain dehydration prove nahi karta.
+- **B (Galat):** Overnight 2 kg new muscle formation unlikely hai.
+- **C (Galat):** Rapid weight change ko ignore karne se overload miss ho sakta hai.
+- **D (Sahi):** 2 kg gain roughly 2 L fluid accumulation suggest kar sakta hai.
+
+**Exam clue:** Rapid weight change: about 1 kg per litre of water.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1632,7 +1684,7 @@ Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring
 
 ### Q54. Where is a buccal tablet placed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Under the lower eyelid
 - **B.** On the external cheek skin
@@ -1662,7 +1714,7 @@ Buccal route mein specially prescribed medicine gum aur inner cheek ke beech rak
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q13](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q13](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q13-where-is-a-buccal-tablet-placed)
 
 ### Q55. What is the purpose of surgical asepsis?
 
@@ -2008,9 +2060,22 @@ May 12 Florence Nightingale ki birth anniversary hai aur International Nurses Da
 
 **Correct: A. Orthostatic dizziness with dry mucosa and reduced urine output**
 
-Fluid loss se perfusion aur urine production kam ho sakti hai. Orthostatic symptoms aur dry mucosa volume assessment guide karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Edema, weight gain aur crackles overload suggest kar sakte hain. Bounding pulse alone depletion prove nahi karta.
+Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid kam ho sakta hai. Orthostatic dizziness standing par perfusion change ka clue hai, dry mucosa aur reduced urine output bhi suggestive hain. BP, pulse, perfusion, intake-output, losses aur labs assess karo. Ek isolated sign diagnosis prove nahi karta.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Orthostatic symptoms, dry mucosa aur low urine output together possible depletion suggest karte hain.
+- **B (Galat):** Bounding pulse alone depletion establish nahi karta.
+- **C (Galat):** Generalized edema alone typical depletion sign nahi hai, although edema aur intravascular depletion coexist kar sakte hain.
+- **D (Galat):** Weight gain aur crackles fluid excess suggest kar sakte hain.
+
+**Exam clue:** Assess multiple volume status clues.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2144,7 +2209,7 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 ### Q70. During interfacility transfer a patient needs continuous oxygen. Which preparation is most important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ensure adequate oxygen supply, suitable monitoring, trained escort and receiving-team coordination
 - **B.** Assume transport time will always be short
@@ -2171,7 +2236,7 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q14](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q14](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q14-during-interfacility-transfer-a-patient-needs-continuous-oxygen-which-preparation-is-most-important)
 
 ### Q71. A patient becomes exhausted midway through a rehabilitation session. Which action is appropriate?
 
@@ -2230,7 +2295,7 @@ ABG ke liye trained authorized clinician appropriate heparinized device use kart
 
 ### Q73. Which patient belongings practice is appropriate during admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Leave valuables unlabeled in a shared drawer
 - **B.** Discard all personal items routinely
@@ -2257,7 +2322,7 @@ Admission par patient ke belongings, especially valuables aur assistive devices,
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q15](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q15](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q15-which-patient-belongings-practice-is-appropriate-during-admission)
 
 ### Q74. A nurse is preparing to administer a drug that requires a specific IV infusion duration. Which check is essential?
 
@@ -2504,9 +2569,22 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 **Correct: A. +300 mL**
 
-Total output 1200 mL hai. Intake minus output = 1500 minus 1200 = +300 mL. Insensible losses recorded balance mein usually measured nahi hoti.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** −300 reverse subtraction hai. +600 drain omit karta hai. 2700 sum hai.
+Recorded fluid balance mein same observation period ka measured intake minus measured output karte hain. Output = 900 + 300 = 1200 mL. Net = 1500 − 1200 = +300 mL. Positive sign ka matlab recorded intake measured output se zyada hai. Insensible losses aur unrecorded fluids ki wajah se actual body balance different ho sakta hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** 1500 − 1200 = +300 mL correct hai.
+- **B (Galat):** −300 reverse subtraction se aata hai.
+- **C (Galat):** +600 drain output ko omit karta hai.
+- **D (Galat):** 2700 intake aur output ka sum hai, net balance nahi.
+
+**Exam clue:** Intake minus all measured output.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2514,7 +2592,7 @@ Total output 1200 mL hai. Intake minus output = 1500 minus 1200 = +300 mL. Insen
 
 ### Q83. A patient reports dizziness when cold ear drops are administered. What can help prevent this?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Instill the drops as cold as possible
 - **B.** Allow drops to reach an appropriate temperature according to instructions
@@ -2544,7 +2622,7 @@ Cold ear drops vestibular system, yani balance control karne wale inner-ear mech
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q16](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q16](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q16-a-patient-reports-dizziness-when-cold-ear-drops-are-administered-what-can-help-prevent-this)
 
 ### Q84. A patient is unable to communicate verbally but has a possible painful procedure. How should pain be assessed?
 
@@ -2829,9 +2907,22 @@ Intact nonblanchable change early pressure injury indicate kar sakti hai. Offloa
 
 **Correct: A. Increasing pallor, numbness or pain**
 
-Cold vasoconstriction cause kar sakti hai aur poor perfusion mein tissue risk increase ho sakta hai. New pallor-numbness par application stop aur assessment appropriate hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Normal perfusion aur comfort reassuring ho sakte hain, lekin routine checks phir bhi required hain.
+Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vasoconstriction, yani blood vessels ka narrow hona, cause kar sakti hai. Poorly perfused area par routine cold therapy generally avoid karte hain. Increasing pallor, pain ya numbness par application stop karo, skin aur distal circulation assess karo aur urgent review as indicated arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Increasing pallor, numbness ya pain compromised circulation ya cold injury ka warning hai.
+- **B (Galat):** Planned reassessment safe care ka part hai, deterioration ka sign nahi.
+- **C (Galat):** Normal distal circulation alone future safety guarantee nahi karti, lekin listed urgent warning nahi hai.
+- **D (Galat):** Stable comfort aur intact skin reassuring ho sakti hai, lekin monitoring still needed hai.
+
+**Exam clue:** New pallor, pain or numbness: stop cold application and assess.
+
+**Clinical reference:** [Clinical guidance](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/ice-and-heat-treatment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3602,9 +3693,22 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Correct: B. Use a consistent suitable route and document route and device when relevant**
 
-Different sites aur devices readings vary kar sakte hain. Consistency aur route documentation trend interpretation improve karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unrecorded site changes aur exact interchangeability assume karna misleading ho sakta hai.
+Different sites aur devices temperature ko different tarike se estimate karte hain. Serial readings ko same suitable route se lena trend comparison improve karta hai. Agar clinical need ki wajah se route change ho toh actual site, device aur time record karo. Fixed conversion se har patient ka exact core temperature infer mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rounded values without route aur context trend ko misleading bana sakti hain.
+- **B (Sahi):** Consistent suitable route aur documentation meaningful comparison support karte hain.
+- **C (Galat):** Undocumented random site change artificial trend create kar sakta hai.
+- **D (Galat):** Different site readings exactly interchangeable nahi hoti hain.
+
+**Exam clue:** Record route and device for serial temperature trends.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
