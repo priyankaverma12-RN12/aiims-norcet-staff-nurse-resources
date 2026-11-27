@@ -26,3 +26,7 @@ NORCET, PGIMER, SGPGI, ESIC, JIPMER, DSSSB, HPRCA, CHO and state exact-question 
 [Three reported adaptations](Eye-Assessment-Reported-Exam-Practice.md): ESIC Staff Nurse 19 March 2016 Shift I (Snellen), AIIMS Raipur Nursing Officer 31 August 2019 Shift I (tonometry, memory-based), UPSC ESIC Nursing Officer 7 July 2024 (Romberg versus eye tests). Third-party question pages retrieved. Official original papers, numbering and keys remain pending. JIPMER 2020 child visual acuity lead reserved for age-specific screening criteria review. No new exact official questions claimed.
 
 Video evidence: RRB vision assessment section 47:22 is a published chapter label, not an exact question timestamp. 13 original-question broad leads, 17 pending. One reported adaptation has a broad section lead, two pending. Teaching sources in concept notes. Full playback pending.
+
+## Refractive errors — 27 November 2026
+
+[Two reported adaptations and source links](Refractive-Errors-Reported-Exam-Practice.md): ESIC 19 March 2016 Shift I, RRB 21 July 2019 Shift II and Safdarjung 28 February 2019 recall grouped as one myopia correction family. HPSSC Staff Nurse 1 August 2021 hypermetropia correction is a separate family. RRB 20 July 2019 Shift I terminology report reserved. HPRCA 2026 key listings codes 26004 and 25026 located, no matching papers/keys authenticated. Direct NEI reference reviewed, OpenStax and CDC indexed. 23 broad indexed video leads, seven no dedicated lead, all 30 pending confirmed topic/question coverage. YouTube direct fetch failed. No official exact count.
