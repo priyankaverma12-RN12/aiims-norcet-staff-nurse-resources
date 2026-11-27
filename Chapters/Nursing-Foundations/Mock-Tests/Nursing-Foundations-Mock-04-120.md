@@ -612,10 +612,18 @@ Hemiplegia mein shoulder muscles joint stabilize nahi kar paati hain. Arm suppor
 
 **Correct: A. The patient**
 
-Patient apne symptoms aur history directly bata sakta hai. Nurse other records se information verify ya supplement karti hai.
+<!-- job5-rationale -->
+Primary source generally woh person hai jiske health experiences ke baare mein information collect ho rahi hai. Conscious patient jo reliably communicate kar sakta hai, symptoms, allergies aur history directly bata sakta hai. Agar communication ya cognition impaired hai, nurse appropriate interpreter, caregiver aur records se information supplement ya validate karti hai.
 
-**Baaki options kyun sahi nahi hain?** Discharge summary secondary source hai. Unfamiliar visitor reliable primary source nahi hai. Census sheet clinical history nahi deti.
+**Option-by-option reasoning**
 
+- **A:** Patient direct history de sakta hai. A correct hai.
+- **B:** Census sheet bed ya patient count batati hai, individual health history nahi.
+- **C:** Discharge summary previous clinical record hai. Yeh useful secondary source hai, sole primary source nahi.
+- **D:** Unfamiliar visitor patient ki history reliably nahi jaanta.
+
+**Exam clue:** Primary source patient. Secondary sources family, records aur other team members ho sakte hain.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1206,10 +1214,18 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 
 **Correct: B. Use a qualified interpreter and ask the patient to explain the schedule in their own words**
 
-Teach-back mein patient apne words mein plan batata hai. Qualified interpreter language barrier reduce karta hai aur nurse misunderstanding correct kar sakti hai.
+<!-- job5-rationale -->
+Language barrier mein nod karna polite response ho sakta hai, understanding ka proof nahi. Qualified interpreter ke through medication timing aur dose clear karo. Phir patient ko apne words mein samjhane ko bolo ki medicine kab aur kaise lega. Agar confusion mile toh blame ki jagah explanation aur example badlo aur teach-back repeat karo. Isse nurse apni communication ki effectiveness check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Nodding comprehension prove nahi karti. Loud speech translation nahi hai. Unrelated visitor patient ki understanding accurately assess nahi karta.
+**Option-by-option reasoning**
 
+- **A:** Nodding se comprehension confirm nahi hota.
+- **B:** Interpreter aur teach-back milkar language access aur understanding evaluate karte hain. B correct hai.
+- **C:** Unrelated visitor patient ki understanding establish nahi kar sakta. Privacy ka concern bhi hai.
+- **D:** Volume badhane se unfamiliar language samajh nahi aati.
+
+**Exam clue:** Teach-back patient ki exam nahi, teaching ki effectiveness ka check hai.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1326,10 +1342,18 @@ Sample identity, type aur collection time correct processing aur interpretation 
 
 **Correct: D. A nursing diagnosis describes human responses that nursing care can address**
 
-Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki response jaise pain, mobility difficulty ya self-care need par focus karti hai.
+<!-- job5-rationale -->
+Medical diagnosis disease ya pathological condition identify karti hai. Nursing diagnosis patient ki actual ya potential human response ko describe karti hai, jaise impaired mobility ya ineffective airway clearance. Ek hi medical diagnosis wale do patients ki nursing needs alag ho sakti hain. Nurse assessment se relevant response identify karke goals aur interventions plan karti hai.
 
-**Baaki options kyun sahi nahi hain?** Pathogen disease cause ho sakta hai. Intervention action hota hai. Dono diagnoses ka purpose different hai.
+**Option-by-option reasoning**
 
+- **A:** Pathogen infection ka cause ho sakta hai. Nursing diagnosis hamesha pathogen name nahi karti.
+- **B:** Dono terms ka focus alag hai, isliye interchangeable nahi.
+- **C:** Intervention care action hai, medical diagnosis disease identification hai.
+- **D:** Human response aur nursing care par focus hai. D correct hai.
+
+**Exam clue:** Disease vs response yaad rakho. Pneumonia disease hai, airway clearance concern nursing focus ho sakta hai.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -2429,10 +2453,18 @@ Barthel Index daily activities aur mobility mein assistance level assess karne m
 
 **Correct: D. Reassess and revise the diagnosis or care plan as indicated**
 
-Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data collect karke plan modify karti hai.
+<!-- job5-rationale -->
+Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nurse relevant fresh data collect karti hai, urgency assess karti hai aur diagnosis ya plan ko findings ke hisaab se revise karti hai. Purane accurate observations record mein rehne chahiye. New findings ke liye immediate action bhi zaroori ho sakta hai.
 
-**Baaki options kyun sahi nahi hain?** Ineffective plan continue karna helpful nahi hai. Previous observations preserve karne chahiye. Evaluation ke baad reassessment possible hai.
+**Option-by-option reasoning**
 
+- **A:** Evaluation last named step hai, lekin process khatam nahi hota.
+- **B:** Ineffective plan ko bina review continue karna patient ki needs address nahi karta.
+- **C:** Previous observations delete karne se clinical timeline aur record integrity damage hoti hai.
+- **D:** New data aur plan revision continuous nursing process ko reflect karte hain. D correct hai.
+
+**Exam clue:** ADPIE cycle hai, straight line nahi.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
