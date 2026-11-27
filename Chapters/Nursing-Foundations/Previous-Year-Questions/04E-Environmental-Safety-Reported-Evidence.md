@@ -25,6 +25,12 @@ D. Recover, Arrange, Check, Escape
 
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description includes RACE/PASS and advertises an end quiz. Exact item and topic-specific quiz content not inspected. Timestamp and playback pending.
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** Both JIPMER 2020 and RRB 2026 Shift 3 third-party RACE question pages directly retrieved 27 November 2026. Contain/confine are the reported wording variants. Official keys not authenticated.
+
+**▶️ [YouTube MCQ practice — Fire-response question, Nursing Wallah by PW (17:13)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1033s)** · Published chapter explicitly identifies a rescue-first fire MCQ. Related concept practice only, exact item and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A small electrical fire starts in a patient room. A person is in immediate danger and the nurse has a safe route to assist. Which action best reflects the life-safety priority?
@@ -50,6 +56,12 @@ D. Assist the person to safety if possible without endangering yourself, promptl
 
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description-level fire safety and quiz lead only. Exact question, topic-specific quiz content and timestamp pending.
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** AIIMS Bhatinda 29 September 2019 memory-based electrical-fire question directly retrieved on 27 November 2026. This independently adapted scenario retains its safety qualification. Official key not authenticated.
+
+**▶️ [YouTube MCQ practice — Fire-response question, Nursing Wallah by PW (17:13)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1033s)** · Published chapter explicitly identifies a rescue-first fire MCQ. Related concept practice only, exact item and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ## Evidence register
