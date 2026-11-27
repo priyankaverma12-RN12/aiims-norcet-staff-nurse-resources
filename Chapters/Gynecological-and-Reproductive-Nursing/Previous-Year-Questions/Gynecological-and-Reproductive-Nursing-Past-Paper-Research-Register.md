@@ -21,3 +21,13 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 ## Cervical screening and cancer historical evidence — 27 November 2026
 
 [Two source-linked reported exam adaptations](06-Cervical-Cancer-Reported-Exam-Adaptations.md) cover HPSSC Hamirpur Staff Nurse 5 August 2021 (radiation safety) and Haryana HSSC Staff Nurse 2019 (screening and prevention). Official keys and question numbers are pending. NVS and UPPSC leads noted without counting additional PYQs.
+
+## Menopause and procedures historical evidence — 27 November 2026
+
+[Two independently worded reported adaptations](07-08-Menopause-and-Gynecological-Procedures-Reported-Exam-Adaptations.md): RPSC Nursing Tutor 2011 and one combined RRB Staff Nurse 20 July 2019 Shift I / ESIC Staff Nurse 19 March 2016 Shift I instrument concept. Third-party reports retrieved, official booklets and keys not authenticated. Overlapping and misleading reports noted separately.
+
+## Pelvic floor and prolapse historical evidence — 27 November 2026
+
+[One independently worded reported adaptation](11-Pelvic-Floor-and-Prolapse-Reported-Exam-Adaptations.md): UPSC ESIC Nursing Officer 7 July 2024 classical procidentia terminology. AIIMS Bhubaneswar 15 September 2019 reported cystocele concept overlaps the original bank. Official booklets and keys pending.
+
+**Current indexed adaptation count: seven.** No claim of complete all-India PYQ coverage. Question-specific practice video verification remains pending.
