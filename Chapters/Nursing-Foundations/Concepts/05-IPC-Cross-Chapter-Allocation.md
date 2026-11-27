@@ -17,7 +17,7 @@
 
 ## Distinct bedside application
 
-[05B isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation.md) — 20 new originals, 20/30 initial target. No legacy slots allocated here. Topic focuses missed essential care, psychosocial support, accessible communication, family participation and clinical transition decisions. It does not duplicate the complete pathogen-by-pathogen IPC teaching. Further expansion only for distinct scenarios after semantic audit. No padding.
+[05B isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation.md) — 30 new originals, 30/30 initial numerical target. No legacy slots allocated here. Topic focuses missed essential care, psychosocial support, accessible communication, family participation and clinical transition decisions. It does not duplicate the complete pathogen-by-pathogen IPC teaching. Ten additional distinct scenarios appended to the existing bank, filename retained. Full semantic audit pending.
 
 ## Coverage boundaries
 
