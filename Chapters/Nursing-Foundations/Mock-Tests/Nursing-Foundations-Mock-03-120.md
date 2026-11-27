@@ -1066,7 +1066,7 @@ Pulmonary TB mein infectious aerosols cough ke saath air mein spread ho sakte ha
 
 ### Q35. A patient reports difficulty falling asleep due to repeated noise and nighttime interruptions. Which intervention addresses the likely modifiable cause?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Automatically prescribe a sedative without assessment
 - **B.** Provide stimulating activities at midnight
@@ -1091,9 +1091,11 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary practice lead:** [Comfort, rest and sleep MCQ — Medical Knowledge Online](https://www.youtube.com/watch?v=u7MrNDEEEK0). Publisher description confirms broad topic, exact intervention coverage unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q11](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q11](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q11-a-patient-reports-difficulty-falling-asleep-due-to-repeated-noise-and-nighttime-interruptions-which-intervention-addresses-the-likely-modifiable-cause)
 
 ### Q36. Which blood component contains concentrated fibrinogen and selected clotting proteins?
 
@@ -3214,7 +3216,7 @@ Slow breathing aur reduced alertness respiratory depression suggest kar sakte ha
 
 ### Q105. Which finding is most typical of REM sleep?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPSC ESIC Nursing Officer, 7 July 2024 — related reported concept only**
 
 - **A.** No cerebral activity
 - **B.** Continuous high skeletal muscle tone in every person
@@ -3239,9 +3241,13 @@ REM ka full form rapid eye movement hai. Is stage mein eyes rapidly move kar sak
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [UPSC ESIC Nursing Officer, 7 July 2024 — third-party question page](https://testbook.com/question-answer/sleepwalking-and-enuresis-occur-in-which-stage-of--668e6288b703444436984b3f). Retrieved third-party item tests NREM parasomnias and distinguishes REM features. Older stage 4 terminology is now grouped within N3. Official paper and key not authenticated.
+
+**Supplementary teaching and practice lead:** [Sleep and pain — ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=0i9wMyrm9sA). Published REM teaching chapter and separate practice chapters, specific REM MCQ unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q10](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q10](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q10-which-finding-is-most-typical-of-rem-sleep)
 
 ### Q106. A 100-mL infusion is prescribed over 30 minutes using tubing with a drop factor of 15 gtt/mL. What is the calculated rate?
 
@@ -3279,7 +3285,7 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 ### Q107. Which sleep hygiene instruction is generally appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Drink strong coffee immediately before bed
 - **B.** Use the bed primarily for stimulating activities
@@ -3304,9 +3310,11 @@ Circadian rhythm body ki internal clock hai jo sleep aur wakefulness timing regu
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching and practice lead:** [Sleep and pain — ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=0i9wMyrm9sA). Sleep hygiene teaching chapter and separate practice chapters, exact item unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q12](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q12](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q12-which-sleep-hygiene-instruction-is-generally-appropriate)
 
 ### Q108. A conscious adult cannot speak or cough effectively because of severe foreign-body airway obstruction. Which sequence is recommended in AHA 2025 adult guidance?
 
@@ -3364,7 +3372,7 @@ Specific action aur deadline se nurse outcome evaluate kar sakti hai. Inhaler de
 
 ### Q110. A patient is scheduled for a painful dressing change and has an appropriate prescribed analgesic. What is the best planning approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Coordinate analgesic timing with expected onset before the procedure
 - **B.** Double the dose without authorization
@@ -3391,7 +3399,7 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q9](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q9](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q9-a-patient-is-scheduled-for-a-painful-dressing-change-and-has-an-appropriate-prescribed-analgesic-what-is-the-best-planning-approach)
 
 ### Q111. Which process removes heat when sweat changes from liquid to vapor?
 
