@@ -239,3 +239,8 @@ Two additional distinct reported recruitment adaptations (HPSSC 2021 incubation 
 ### Continuation — hepatitis, HIV and respiratory/enteric viral diseases
 
 80 original MCQs, two concept guides, two diagrams, four source-linked reported question adaptations and indexed practice videos published. Total 680 across 17/30 defined topic groups. 39 reported recruitment adaptations and two academic adaptations. Chapter mocks 0/10. Next: medical mycology and opportunistic fungi. Dedicated hepatitis and individual respiratory/enteric video verification, official keys and cross-bank semantic audit remain pending. Global tracked mock progress 17/350 pending inventory reconciliation.
+
+
+### Continuation — medical mycology and opportunistic fungi
+
+40 original MCQs with 40 hidden answers, detailed concepts, a Mermaid diagram, two indexed concept videos, one uncertain MCQ video lead and three reported recruitment adaptations (NORCET 2022, AIIMS Bhubaneswar 2019, SGPGI 2024) published. Total 720 across 18/30 defined topic groups (329 Medium and 391 Difficult), 42 reported recruitment adaptations and two academic adaptations. Chapter mocks 0/10. Tracked global mocks 17/350 pending neurological reconciliation. Next: protozoa and malaria. Dedicated human mycology nursing MCQ video, full playback, official answer keys, individual-topic expansion and semantic duplicate audit remain pending.
