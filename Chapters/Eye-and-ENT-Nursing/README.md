@@ -81,4 +81,4 @@ Keratitis expansion, 27 November 2026: resumed eeb7b966c8cbadc85ed944415a9e07481
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-111425-ulcer. Scope: corneal ulcer chapter-local package only. Claimed UTC 2026-11-27T11:14:25Z. Expiry UTC 2026-11-27T11:44:25Z. -->
