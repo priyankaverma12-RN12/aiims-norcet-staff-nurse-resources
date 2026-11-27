@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-fibroid-cancer-133608
+Scope: Gynecology fibroids/endometriosis Q21–Q40 and cancer/screening Q21–Q40, matching PYQ evidence and local README only
+Claimed UTC: 2026-11-27T13:36:08Z
+Expiry UTC: 2026-11-27T14:06:08Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
