@@ -729,15 +729,27 @@
 - **C.** A normal breath
 - **D.** After full expiration
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** FEV₁ = forced expiration ke **first 1 second** ka volume.
+**Correct answer: A. First 1 second of forced expiration**
 
-**Baaki options kyun nahi?** FEV₁ ka '1' exactly **first second of forced exhalation** ko show karta hai. Normal quiet breath, 3 sec ya full expiration FEV₁ ki definition nahi.
+**Kyun sahi hai?** FEV₁ forced expiration ke first second mein exhaled volume hai. Patient maximal inspiration ke baad forceful exhalation karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Normal expiration ke first 3 seconds FEV₁ nahi hain.
+- **C.** Normal breath ka volume TV hota hai.
+- **D.** Full expiration ke baad remaining volume RV hai.
 
 **Exam trick:** FEV₁ = forced expiratory volume in ONE second.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -750,15 +762,27 @@
 - **C.** Resting tidal volume
 - **D.** Peak inspiratory flow
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** FVC = maximum inspiration ke baad **total forcefully expired volume**.
+**Correct answer: B. Total forcibly exhaled air after maximal inspiration**
 
-**Baaki options kyun nahi?** **FVC** patient maximal inhale ke baad forcefully exhale kar sakti total volume hai. RV remaining air hota hai, TV ordinary breath aur PEF ek flow rate hai—not total forced expired volume.
+**Kyun sahi hai?** FVC maximal inspiration ke baad forcefully exhale ki gayi total measurable air hai. Ye ek volume hai, airflow speed nahi.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Remaining air RV hai.
+- **C.** Resting tidal volume normal breath ka volume hai.
+- **D.** Peak inspiratory flow air enter hone ki maximum speed hai.
 
 **Exam trick:** FVC = total exhaled; FEV₁ = first second.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -771,15 +795,27 @@
 - **C.** 75%
 - **D.** 80%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** (2.4 ÷ 3.2) × 100 = **75%**.
+**Correct answer: C. 75%**
 
-**Baaki options kyun nahi?** Correct numerator **FEV₁=2.4 L**, denominator **FVC=3.2 L**. (2.4/3.2)×100=**75%**. Inverse ratio ya bina 100 multiply wrong ho jayega.
+**Kyun sahi hai?** FEV₁/FVC × 100 = 2.4 ÷ 3.2 × 100 = 75%. Ye ratio hai, diagnosis ke liye reference limit aur test quality bhi dekho.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 60% given division se nahi milta.
+- **B.** 70% correct ratio nahi hai.
+- **D.** 80% given volumes ka ratio nahi hai.
 
 **Exam trick:** FEV₁/FVC = fraction first second; interpret with reference criteria.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -792,15 +828,27 @@
 - **C.** TV
 - **D.** RV
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **RV** lungs mein maximum expiration ke baad bachi air hai, isliye simple spirometry directly measure nahi karti.
+**Correct answer: D. RV**
 
-**Baaki options kyun nahi?** **RV** maximum forced expiration ke baad lungs mein remain karta hai, isliye routine simple spirometry isko measure nahi karti. FEV₁ aur FVC forced exhalation se milte hain; TV bhi basic breathing maneuver se assess ho sakta hai.
+**Kyun sahi hai?** Maximal expiration ke baad RV lungs mein bacha rehta hai. Simple spirometry exhaled ya inhaled air measure karti hai, isliye RV directly measure nahi hota.
+
+**Baaki options kyun galat hain?**
+
+- **A.** FEV₁ forced exhalation se measure hota hai.
+- **B.** FVC forcefully expired volume hai.
+- **C.** TV suitable spirometric recording se measure kiya ja sakta hai.
 
 **Exam trick:** Simple spirometry → RV not directly measurable.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -813,15 +861,27 @@
 - **C.** Confirmed restrictive disease
 - **D.** Pulmonary edema by itself
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Reduced ratio **airflow obstruction** suggest karta hai. Correct interpretation context aur reference values par depend karti hai.
+**Correct answer: A. Airflow obstruction**
 
-**Baaki options kyun nahi?** Reduced **FEV₁/FVC** airflow obstruction suggest karta hai. Sirf ratio se specific disease ya edema diagnose nahi; restriction confirm karne ke liye TLC chahiye.
+**Kyun sahi hai?** FEV₁/FVC appropriate lower limit of normal se kam ho toh obstructive ventilatory pattern suggest hota hai. Diagnosis ke liye test quality, history aur condition-specific criteria bhi chahiye.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Reduced ratio ko automatically normal nahi maan sakte.
+- **C.** Restriction confirm karne ke liye TLC kam hona chahiye.
+- **D.** Pulmonary edema ka diagnosis sirf ratio se nahi hota.
 
 **Exam trick:** Fixed 70% universal cutoff mat samajhna; age-dependent reference values important.
+
+[Clinical reference](https://publications.ersnet.org/content/erj/60/1/2101499)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -834,15 +894,27 @@
 - **C.** Proves asthma
 - **D.** Always means normal lungs
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Restriction **suspect** ho sakti hai, lekin **TLC** measure kiye bina confirm nahi hoti.
+**Correct answer: B. Can suggest restriction, requiring TLC confirmation**
 
-**Baaki options kyun nahi?** Low FVC se restriction suspect ho sakti hai **par confirm nahi**. TLC low hona confirmatory hai. FVC low obstruction, effort aur other factors se bhi ho sakti hai, isliye baaki options too absolute hain.
+**Kyun sahi hai?** Low FVC aur preserved ratio possible restriction suggest karte hain, par poor effort ya air trapping bhi contribute kar sakte hain. TLC lower limit se kam mile toh restrictive impairment confirm hoti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Low FVC alone restriction prove nahi karti.
+- **C.** Ye pattern asthma prove nahi karta.
+- **D.** Low FVC ko hamesha normal nahi keh sakte.
 
 **Exam trick:** Low FVC ≠ confirmed restriction.
+
+[Clinical reference](https://publications.ersnet.org/content/erj/60/1/2101499)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -865,15 +937,25 @@
 - **C.** Percussion hammer
 - **D.** Stethoscope
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Pulse oximeter** SpO₂ percentage estimate karta hai.
+**Correct answer: A. Pulse oximeter**
 
-**Baaki options kyun nahi?** **Pulse oximeter** finger pe clip se SpO₂ estimate karta hai. Spirometer airflow measure, percussion hammer tapping aur stethoscope sounds sunta hai.
+**Kyun sahi hai?** Pulse oximeter light-based measurement se peripheral arterial oxygen saturation estimate karta hai. Ye PaCO₂ ya oxygen content directly measure nahi karta.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Spirometer respiratory volumes aur airflow assess karta hai.
+- **C.** Percussion hammer oxygen saturation measure nahi karta.
+- **D.** Stethoscope sounds sunne ke liye hai.
 
 **Exam trick:** SpO₂ = percentage; PaO₂ = pressure.
+
+[Clinical reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+
+**YouTube MCQ practice: verification pending**.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -886,15 +968,29 @@
 - **C.** Spirometry
 - **D.** Routine auscultation
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap · **🟣 AIIMS NORCET 2020 — related concept (reported)**
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **ABG (arterial blood gas)** pH, PaCO₂ aur PaO₂ jaise parameters batata hai.
+**Correct answer: B. ABG**
 
-**Baaki options kyun nahi?** **ABG** arterial sample se pH aur PaCO₂ deta hai. CXR image deta, spirometry airflow aur auscultation sounds batata hai. In methods ko interchange mat karna.
+**Kyun sahi hai?** ABG arterial blood se pH aur PaCO₂ ke saath PaO₂ assess karta hai. Acid-base aur ventilation evaluate karne mein useful hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Chest X-ray structural image deta hai.
+- **C.** Spirometry flow aur volume measure karti hai.
+- **D.** Auscultation sounds assess karti hai, arterial gas values nahi.
 
 **Exam trick:** ABG = oxygenation + acid-base assessment.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
+
+**Revision mapping:** Q20 / Advanced Q15 related ABG measurement. Preserve learner history; do not count this as new unique authorship without reconciliation.
+
+[Reported NORCET 2020 source](https://testbook.com/question-answer/identify-the-procedure-being-performed-in-the-imag--6171640c721aa8f143c00d16) — 1 September 2020 memory-based ABG procedure identification. Allen test is explained in source solution, not independently established as the original tested item. Official key unverified.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -907,15 +1003,25 @@
 - **C.** Spirometry
 - **D.** Chest X-ray
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** **Spirometry** forced airflow aur expiratory volumes assess karti hai.
+**Correct answer: C. Spirometry**
 
-**Baaki options kyun nahi?** Forced expiratory flow/volume **spirometry** assess karti hai. Sputum culture microorganisms, pulse oximetry saturation aur CXR chest anatomy image assess karta hai.
+**Kyun sahi hai?** Spirometry forced exhalation ke dauran airflow aur volume record karti hai. FEV₁ aur FVC common measurements hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Culture organisms identify karne mein useful hai.
+- **B.** Oximetry saturation estimate karti hai.
+- **D.** X-ray structural changes dikhata hai.
 
 **Exam trick:** Spirometry = FEV₁, FVC, ratio.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -940,7 +1046,7 @@ These use only assessment, ABG and spirometry concepts already studied. Each ans
 - **C.** Percussion
 - **D.** Auscultation
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -949,11 +1055,23 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Ye **palpation** hai: tactile fremitus ko haath se feel kiya jaata hai.
+**Correct answer: B. Palpation**
 
-**Baaki options kyun nahi?** Question mein nurse vibration **hands se feel** kar rahi hai—ye tactile **fremitus / palpation** hai. Auscultation mein stethoscope se sound suna jaata hai; percussion tapping hoti hai.
+**Kyun sahi hai?** Voice se transmitted vibration ko hands se feel karna tactile fremitus assessment hai, jo palpation ka part hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Inspection visual observation hai.
+- **C.** Percussion tapping technique hai.
+- **D.** Auscultation stethoscope se sounds sunna hai.
 
 **Exam trick:** 'ninety-nine' + feel = palpation.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**▶️ [YouTube MCQ practice — Studyroom31, physical assessment](https://www.youtube.com/watch?v=aTGm3WCiS9w)** — prior description-level IPPA mapping, exact fremitus item pending.
+
+**Revision mapping:** Q5 tactile fremitus method. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -966,7 +1084,7 @@ Question mein vibration **feel** ho rahi hai, sound sunna nahi.
 - **C.** Respiratory alkalosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -975,11 +1093,23 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** pH high + PaCO₂ low → **respiratory alkalosis** (simple uncompensated example).
+**Correct answer: C. Respiratory alkalosis**
 
-**Baaki options kyun nahi?** pH **7.50** above normal hai; PaCO₂ **30** below normal, HCO₃⁻ normal hai. Primary respiratory alkalosis ki pattern banti hai. Acidosis mein pH low hota.
+**Kyun sahi hai?** pH 7.50 high aur PaCO₂ 30 low hai, isliye primary respiratory alkalosis best pattern hai. HCO₃⁻ 24 usual interval mein hai, par exact compensation stage rounded values se confirm nahi hoti.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Respiratory acidosis mein primary CO₂ elevation hoti hai.
+- **B.** Metabolic acidosis mein primary HCO₃⁻ reduction hoti hai.
+- **D.** Metabolic alkalosis mein primary bicarbonate elevation hoti hai.
 
 **Exam trick:** pH high + CO₂ low = respiratory alkalosis.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
+
+**Revision mapping:** Q18 primary respiratory alkalosis. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -992,7 +1122,7 @@ pH acidic side hai ya alkaline? Fir CO₂ aur bicarbonate compare karo.
 - **C.** Fine crackles
 - **D.** Rhonchi
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -1001,11 +1131,23 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Stridor**. Ye upper-airway obstruction ka possible sign hai, so urgent assessment chahiye.
+**Correct answer: B. Stridor**
 
-**Baaki options kyun nahi?** **Stridor** loud harsh upper-airway noise hai, inspiration mein prominent ho sakti hai. Vesicular normal soft, crackles pops, rhonchi low snoring hain. Stridor ko routine wheeze mat samajhna.
+**Kyun sahi hai?** Stridor harsh, often inspiratory upper-airway sound hai. Isse airway narrowing ka suspicion hota hai. Airway aur breathing turant assess karo, distress mein urgent help bulao.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Vesicular peripheral lung ki usual soft sound hai.
+- **C.** Fine crackles discontinuous popping sounds hain.
+- **D.** Rhonchi usually low-pitched continuous sound hai.
 
 **Exam trick:** Upper airway sign, urgent attention needed.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q15 stridor recall. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -1018,7 +1160,7 @@ Harsh **upper airway** inspiratory sound ko musical chest wheeze se confuse mat 
 - **C.** 65%
 - **D.** 70%
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -1027,11 +1169,25 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** 1.8 ÷ 3.0 × 100 = **60%**. Ye mathematical ratio hai; interpretation ke liye appropriate reference criteria dekhne honge.
+**Correct answer: B. 60%**
 
-**Baaki options kyun nahi?** (1.8/3.0)×100 = **60%**. Agar 3.0/1.8 karoge ratio invalid ho jayega; answer options mein correct 60% B hai. Exact interpretation age/sex/height reference limits se hogi.
+**Kyun sahi hai?** Ratio = 1.8 ÷ 3.0 × 100 = 60%. Is value ko clinical interpretation ke liye appropriate reference aur manoeuvre quality se compare karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 50% tab hota agar numerator denominator ka aadha hota.
+- **C.** 65% correct division nahi hai.
+- **D.** 70% bhi given volumes se nahi milta.
 
 **Exam trick:** FEV₁ first second / FVC full forced exhalation.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q25 same ratio calculation method. Preserve learner history; do not count this as new unique authorship without reconciliation.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -1044,7 +1200,7 @@ FEV₁ numerator aur FVC denominator hoga; phir 100 se multiply karo.
 - **C.** A low FVC is always a normal spirometry result
 - **D.** Spirometry directly measures residual volume
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India) · Revision overlap
 
 <details><summary>💡 Hint (answer-neutral)</summary>
 
@@ -1053,11 +1209,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 </details>
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Low FVC alone restriction confirm nahi karta**. Restriction confirm karne ke liye **TLC** chahiye.
+**Correct answer: A. A low FVC alone can suggest restriction, but TLC is needed for confirmation**
 
-**Baaki options kyun nahi?** **Low FVC alone restriction prove nahi karti**; TLC measurement se confirm hoti hai. Options 'always normal' aur 'always obstructive' bhi galat hain. Spirometry RV directly measure nahi karti.
+**Kyun sahi hai?** Low FVC possible restriction ka clue hai, lekin restriction confirm karne ke liye measured TLC lower limit se kam honi chahiye. Spirometry alone se final classification mat karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Obstruction assess karne mein FEV₁/FVC ratio important hai.
+- **C.** Low FVC ko automatically normal nahi maan sakte.
+- **D.** Residual volume basic spirometry se directly measure nahi hota.
 
 **Exam trick:** ATS/ERS interpretation: low FVC may suggest, not prove, restriction.
+
+[Clinical reference](https://publications.ersnet.org/content/erj/60/1/2101499)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q28 restriction confirmation. Preserve learner history; do not count this as new unique authorship without reconciliation.
+
+[Concept teaching — Geeky Medics spirometry](https://www.youtube.com/watch?v=qW8ujyrLZxk) — NDLI description confirms interpretation teaching, not a dedicated MCQ video.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -1085,7 +1255,7 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 ### Q37. A patient who has undergone bronchoscopy requests water. What should the nurse do first?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Revision overlap
 
 - **A.** Give water immediately
 - **B.** Place the patient in Trendelenburg position
@@ -1096,19 +1266,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. Assess the return of gag reflex and safe swallowing before giving water**
 
-**Kyun sahi hai:** Sedation/local anaesthesia protective swallowing reflex impair kar sakti hai; safe swallowing aur alertness confirm karo.
+**Kyun sahi hai?** Bronchoscopy mein local anesthesia aur sedation protective airway function temporarily impair kar sakte hain. Water dene se pehle alertness, swallowing safety aur procedure team ki clearance check karo. Gag reflex alone safe swallowing ka guarantee nahi hai.
 
-**Baaki options kyun nahi:** Immediate water aspiration risk hai; Trendelenburg reflex restore nahi karta; straw impaired swallowing safe nahi banata.
+**Baaki options kyun galat hain?**
+
+- **A.** Immediately water dene se aspiration risk ho sakta hai.
+- **B.** Trendelenburg airway protection restore nahi karta.
+- **C.** Straw use karne se impaired swallowing ka risk eliminate nahi hota.
 
 **Exam trick:** Safe swallow first, then oral intake.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.medlineplus.gov/ency/patientinstructions/000988.htm)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Advanced Q11 post-bronchoscopy oral intake. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
 ### Q38. A sputum culture is ordered. Which specimen is most useful?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Deeply coughed lower respiratory secretion
 - **B.** Saliva
@@ -1119,19 +1297,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Deeply coughed lower respiratory secretion**
 
-**Kyun sahi hai:** Actual lower airway secretion organism identify karne mein useful hai.
+**Kyun sahi hai?** Lower respiratory tract se deeply coughed sputum culture ke liye suitable sample hota hai. Lab instructions, correct labeling aur prompt transport follow karo.
 
-**Baaki options kyun nahi:** Saliva oral contamination; nasal discharge upper airway; exhaled air sputum nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** Saliva oral flora se contaminate ho sakti hai.
+- **C.** Nasal discharge lower respiratory sample ka substitute nahi hai.
+- **D.** Exhaled air routine sputum culture specimen nahi hai.
 
 **Exam trick:** Sputum = deep cough, not saliva.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://medlineplus.gov/ency/article/003723.htm)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q39. A stable patient has suspected pneumothorax. Why may a chest radiograph be ordered?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Identify pleural air and assess lung expansion
 - **B.** Identify bacteria
@@ -1142,19 +1326,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Identify pleural air and assess lung expansion**
 
-**Kyun sahi hai:** X-ray pleural air aur lung expansion ka structural clue deta hai.
+**Kyun sahi hai?** Stable suspected pneumothorax mein chest X-ray pleural air aur lung collapse ka clue de sakta hai. Small pneumothorax miss ho sakta hai. Unstable suspected tension pneumothorax mein emergency response imaging ka wait nahi karta.
 
-**Baaki options kyun nahi:** pH ABG se; bacteria culture se; FEV1 spirometry se. Unstable emergency mein imaging ke liye care delay nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** Bacteria identify karne ke liye microbiological test chahiye.
+- **C.** Arterial pH ABG se milta hai.
+- **D.** FEV1 spirometry se milta hai.
 
 **Exam trick:** X-ray structure, ABG gases.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q40. Which test provides cross-sectional images of lung anatomy?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Pulse oximetry
 - **B.** Computed tomography
@@ -1165,19 +1355,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Computed tomography**
 
-**Kyun sahi hai:** CT detailed anatomical slices deta hai.
+**Kyun sahi hai?** CT X-ray data se cross-sectional images reconstruct karta hai, jisse lung aur surrounding structures ka detail milta hai.
 
-**Baaki options kyun nahi:** Capnography CO2; culture microbes; oximetry saturation estimate.
+**Baaki options kyun galat hain?**
+
+- **A.** Pulse ox saturation estimate karta hai.
+- **C.** Capnography exhaled CO₂ monitor karti hai.
+- **D.** Culture organisms assess karta hai.
 
 **Exam trick:** CT = detailed slices.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q41. Which procedure directly visualizes an abnormality inside the bronchial lumen?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Bronchoscopy
 - **B.** Percussion
@@ -1188,19 +1384,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Bronchoscopy**
 
-**Kyun sahi hai:** Bronchoscope airway lumen ka direct view deta hai.
+**Kyun sahi hai?** Bronchoscope airway ke andar direct visualization deta hai. Indication ke according sample bhi liya ja sakta hai, trained team procedure karti hai.
 
-**Baaki options kyun nahi:** Thoracentesis pleural fluid; percussion external assessment; ABG gases/pH.
+**Baaki options kyun galat hain?**
+
+- **B.** Percussion chest wall se indirect examination hai.
+- **C.** Thoracentesis pleural space se fluid obtain karti hai.
+- **D.** ABG blood gas parameters assess karta hai.
 
 **Exam trick:** Bronchoscopy = scope inside bronchus.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.medlineplus.gov/ency/patientinstructions/000988.htm)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q42. A patient has pleural effusion. Which procedure obtains pleural fluid for analysis?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Thoracentesis
 - **B.** Bronchoscopy
@@ -1211,19 +1413,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Thoracentesis**
 
-**Kyun sahi hai:** Thoracentesis pleural space se fluid sample leti hai.
+**Kyun sahi hai?** Thoracentesis pleural space se fluid obtain karne ka procedure hai. Sample biochemical, microbiological ya cytological analysis ke liye bheja ja sakta hai. Trained team appropriate imaging aur safety protocol follow kare.
 
-**Baaki options kyun nahi:** Spirometry airflow; bronchoscopy lumen; capnography expired CO2.
+**Baaki options kyun galat hain?**
+
+- **B.** Bronchoscopy airway lumen visualize karti hai.
+- **C.** Spirometry airflow aur volume assess karti hai.
+- **D.** Capnography exhaled CO₂ measure karti hai.
 
 **Exam trick:** Pleural fluid = thoracentesis.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q43. Which procedure obtains lung tissue for histopathology?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Lung biopsy
 - **B.** Chest radiography
@@ -1234,19 +1442,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Lung biopsy**
 
-**Kyun sahi hai:** Biopsy tissue architecture examine karti hai.
+**Kyun sahi hai?** Lung biopsy tissue sample provide karti hai jiska histopathological examination ho sakta hai. Method indication aur patient risk ke according choose hota hai.
 
-**Baaki options kyun nahi:** Sputum secretions; oximetry saturation; radiograph image, tissue nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** Radiograph structure ki image deta hai, tissue nahi.
+- **C.** Sputum microscopy secretions mein cells ya organisms evaluate karti hai.
+- **D.** Oximetry saturation estimate karti hai.
 
 **Exam trick:** Biopsy = tissue.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q44. Which investigation compares regional airflow and pulmonary blood flow?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Bronchoscopy
 - **B.** Ventilation-perfusion scan
@@ -1257,19 +1471,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Ventilation-perfusion scan**
 
-**Kyun sahi hai:** V/Q scan regional ventilation aur perfusion compare karta hai.
+**Kyun sahi hai?** V/Q scan regional ventilation aur perfusion ka distribution assess karta hai. Mismatch pulmonary embolism evaluation mein useful ho sakta hai, par interpretation clinical context par depend karti hai.
 
-**Baaki options kyun nahi:** Peak flow expiratory speed; bronchoscopy lumen; culture organisms.
+**Baaki options kyun galat hain?**
+
+- **A.** Bronchoscopy airway ka view deti hai.
+- **C.** Peak flow maximum expiratory flow measure karta hai.
+- **D.** Culture microorganisms identify karne mein help karta hai.
 
 **Exam trick:** V = air; Q = blood flow.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://medlineplus.gov/lab-tests/vq-scan/)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q45. A monitor displays end-tidal carbon dioxide in mmHg. What does this represent?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Tidal volume
 - **B.** Blood bicarbonate
@@ -1280,19 +1500,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. CO2 at the end of exhalation**
 
-**Kyun sahi hai:** ETCO2 exhalation ke end ka CO2 pressure hai; PaCO2 exactly equal zaroori nahi.
+**Kyun sahi hai?** ETCO₂ expiration ke end par measured carbon dioxide partial pressure hai. Ye ventilation ka useful trend hai, lekin PaCO₂ se difference perfusion, dead space aur other factors se change ho sakta hai.
 
-**Baaki options kyun nahi:** Saturation %; volume mL; bicarbonate mEq/L.
+**Baaki options kyun galat hain?**
+
+- **A.** Tidal volume air volume hai, pressure nahi.
+- **B.** Bicarbonate blood acid-base parameter hai.
+- **C.** Arterial saturation percentage mein hoti hai, CO₂ pressure nahi.
 
 **Exam trick:** End tidal = end of breath out.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q46. A drowsy patient has adequate SpO2 but suspected CO2 retention. Which test establishes arterial CO2 and pH?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Revision overlap
 
 - **A.** Chest radiograph alone
 - **B.** Sputum culture
@@ -1303,19 +1529,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. ABG analysis**
 
-**Kyun sahi hai:** SpO2 adequate hone par bhi CO2 retain ho sakti hai; ABG PaCO2 aur pH batata hai.
+**Kyun sahi hai?** SpO₂ adequate hone se CO₂ retention exclude nahi hoti. ABG arterial PaCO₂ aur pH establish karta hai. Drowsiness acute deterioration ho sakti hai, isliye immediate clinical assessment aur escalation ko test result ke liye delay mat karo.
 
-**Baaki options kyun nahi:** Oximetry CO2 nahi batata; X-ray anatomy; culture infection.
+**Baaki options kyun galat hain?**
+
+- **A.** Radiograph PaCO₂ directly measure nahi karta.
+- **B.** Culture infection identify karta hai.
+- **C.** Repeat oximetry oxygenation ka estimate hai, CO₂ measurement nahi.
 
 **Exam trick:** Normal SpO2 does not rule out hypercapnia.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
+
+**Revision mapping:** Advanced Q15 CO₂ retention and ABG. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
 ### Q47. SpO2 falls while a patient moves the monitored finger. What is the safest immediate approach?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Revision overlap
 
 - **A.** Remove monitoring permanently
 - **B.** Assess the patient and verify probe signal and placement
@@ -1326,19 +1560,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Assess the patient and verify probe signal and placement**
 
-**Kyun sahi hai:** Motion artifact possible hai, lekin actual hypoxemia exclude karo.
+**Kyun sahi hai?** Finger movement signal artifact create kar sakta hai. Patient ki breathing aur circulation pehle assess karo, probe position aur signal quality check karo aur reliable reading repeat karo. True hypoxemia ko assume karke ignore mat karo, unstable patient mein urgent care delay nahi honi chahiye.
 
-**Baaki options kyun nahi:** Unverified record unreliable; assuming stability unsafe; monitoring remove karne se deterioration miss hogi.
+**Baaki options kyun galat hain?**
+
+- **A.** Monitoring permanently remove karne se useful trend lose hoga.
+- **C.** Unverified reading document karna misleading ho sakta hai.
+- **D.** Movement artifact possible hai, par stability assume nahi kar sakte.
 
 **Exam trick:** Patient first, probe second.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Advanced Q8 oximetry signal safety, different artifact. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
 ### Q48. The identification band does not match the respiratory investigation order. What should the nurse do?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Proceed using bed number
 - **B.** Change the order independently
@@ -1349,19 +1591,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. Pause and resolve the discrepancy**
 
-**Kyun sahi hai:** Wrong-patient procedure prevent karna priority hai.
+**Kyun sahi hai?** Identification mismatch par procedure pause karo. Approved two identifiers, jaise name aur date of birth ya hospital ID, order aur band ke saath verify karo. Discrepancy authorized team se resolve aur document karo.
 
-**Baaki options kyun nahi:** Bed number unique ID nahi; another patient reliable nahi; unauthorized change unsafe.
+**Baaki options kyun galat hain?**
+
+- **A.** Bed number unique patient identifier nahi hai.
+- **B.** Order independently change karna unsafe hai.
+- **C.** Doosre patient ki informal confirmation approved identification nahi hai.
 
 **Exam trick:** Two identifiers, then procedure.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/patient-safety-solutions)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q49. Which test can show the gross distribution of suspected pleural fluid on an initial chest image?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Peak flow
 - **B.** Chest radiography
@@ -1372,19 +1620,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Chest radiography**
 
-**Kyun sahi hai:** Radiograph pleural fluid ka gross clue de sakta hai.
+**Kyun sahi hai?** Chest radiography pleural fluid ke gross distribution ka initial clue de sakti hai. Ultrasound small effusion detect aur procedure guidance mein useful ho sakti hai. X-ray alone fluid ka exact cause prove nahi karta.
 
-**Baaki options kyun nahi:** Sputum microbes/cells; capnography CO2; peak flow airflow.
+**Baaki options kyun galat hain?**
+
+- **A.** Peak flow airflow assess karta hai.
+- **C.** Capnography exhaled CO₂ assess karti hai.
+- **D.** Sputum microscopy specimen cells ya organisms assess karti hai.
 
 **Exam trick:** Fluid location = imaging.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q50. A sputum specimen is requested for suspected pulmonary tuberculosis. Which approach is appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Wait until cough resolves
 - **B.** Collect the ordered respiratory specimen with appropriate infection precautions
@@ -1395,19 +1649,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Collect the ordered respiratory specimen with appropriate infection precautions**
 
-**Kyun sahi hai:** Respiratory specimen aur airborne precautions protocol follow karo.
+**Kyun sahi hai?** Suspected infectious pulmonary TB mein ordered sputum specimen appropriate airborne precautions ke saath collect karo. Designated isolated ventilated area, correct container, staff respirator policy aur lab transport instructions follow karo.
 
-**Baaki options kyun nahi:** Saliva poor specimen and exposure risk; urine wrong specimen; delay diagnosis postpone karta hai.
+**Baaki options kyun galat hain?**
+
+- **A.** Cough resolve hone ka wait diagnosis delay kar sakta hai.
+- **C.** Urine routine pulmonary sputum specimen ka substitute nahi hai.
+- **D.** Saliva lower airway sample nahi hai aur crowded room transmission risk badhata hai.
 
 **Exam trick:** Specimen quality plus infection safety.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 ### Q51. An abnormal radiograph requires more anatomical detail without immediate tissue sampling. Which test best meets the goal?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Revision overlap
 
 - **A.** Thoracentesis
 - **B.** Capnography
@@ -1418,13 +1678,21 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: C. Chest CT**
 
-**Kyun sahi hai:** CT detailed imaging deta hai without tissue sampling.
+**Kyun sahi hai?** Chest CT cross-sectional anatomical detail provide karta hai bina immediate tissue sampling ke. Contrast ki need aur patient risks clinical team assess kare.
 
-**Baaki options kyun nahi:** Biopsy invasive tissue; capnography CO2; thoracentesis pleural fluid.
+**Baaki options kyun galat hain?**
+
+- **A.** Thoracentesis pleural fluid sampling procedure hai.
+- **B.** Capnography exhaled CO₂ monitor karti hai.
+- **D.** Biopsy tissue sampling karti hai, jabki question non-sampling imaging pooch raha hai.
 
 **Exam trick:** Need anatomical detail, not tissue: CT.
 
-[Day 2 Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q40 CT imaging. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
@@ -1437,7 +1705,7 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 ### Q52. A patient with chronic hypoventilation has pH 7.36, PaCO2 60 mmHg and HCO3 33 mEq/L. Which pattern is most consistent?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟡 IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** All ABG values normal
 - **B.** Uncompensated metabolic acidosis
@@ -1448,15 +1716,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: C. Chronic respiratory acidosis with renal compensation**
 
-**Kyun sahi aur baaki options galat:** CO2 high with HCO3 high and near-normal pH supports renal compensation. CO2/HCO3 abnormal, metabolic acidosis low HCO3, respiratory alkalosis low CO2.
+**Kyun sahi hai?** PaCO₂ 60 high hai aur HCO₃⁻ 33 elevated hai. Chronic CO₂ retention mein kidneys bicarbonate retain karti hain, jisse pH normal ke paas aa sakta hai. Given history chronic respiratory acidosis with compensation support karti hai. Approximate expected bicarbonate 30–32 hai agar baseline 24 aur CO₂ 40 ho, isliye exact isolated disorder assert nahi karna chahiye.
+
+**Baaki options kyun galat hain?**
+
+- **A.** CO₂ aur bicarbonate dono abnormal hain.
+- **B.** Primary metabolic acidosis mein bicarbonate low hota hai.
+- **D.** Respiratory alkalosis mein primary CO₂ reduction hoti hai.
 
 **Exam trick:** CO2 high with HCO3 high and near-normal pH supports renal compensation.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
 
 </details>
 
 ### Q53. In metabolic acidosis, HCO3 is 16 mEq/L. By Winter's formula, which PaCO2 range is expected?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟡 IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original) · Revision overlap
 
 - **A.** 14–18 mmHg
 - **B.** 40–44 mmHg
@@ -1467,15 +1745,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. 30–34 mmHg**
 
-**Kyun sahi aur baaki options galat:** 1.5×16+8=32±2, 30–34. Other ranges calculation wrong; compare actual PaCO2 for mixed disorder.
+**Kyun sahi hai?** Winter formula expected PaCO₂ = 1.5 × HCO₃⁻ + 8 ± 2 hai. 1.5 × 16 + 8 = 32, range 30–34 mmHg. Ye advanced ABG enrichment hai, exact exam depth established nahi hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 14–18 formula ka result nahi hai.
+- **B.** 40–44 expected range se higher hai.
+- **C.** 50–54 aur higher hai, expected compensation nahi.
 
 **Exam trick:** 1.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
+
+**Revision mapping:** Advanced Q5 Winter formula method. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
 ### Q54. A patient with metabolic acidosis has HCO3 10 mEq/L and PaCO2 37 mmHg. What does Winter's formula suggest?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟡 IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original) · Revision overlap
 
 - **A.** Additional respiratory acidosis
 - **B.** Appropriate respiratory compensation
@@ -1486,15 +1776,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Additional respiratory acidosis**
 
-**Kyun sahi aur baaki options galat:** Expected 1.5×10+8=23±2 (21–25), actual 37 too high → additional respiratory acidosis. Lower actual would suggest alkalosis; compensation not appropriate, values not normal.
+**Kyun sahi hai?** Expected PaCO₂ = 1.5 × 10 + 8 = 23 ± 2, yaani 21–25 mmHg. Actual 37 is range se upar hai, bhale usual normal interval ke paas ho. Isliye additional respiratory acidosis suggest hoti hai. Basic ABG ke baad ye advanced calculation practice karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Appropriate compensation mein measured value expected range ke andar hoti.
+- **C.** Additional respiratory alkalosis mein measured CO₂ expected range se kam hoti.
+- **D.** Normal CO₂ alone normal acid-base status prove nahi karti.
 
 **Exam trick:** Expected 1.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**▶️ [YouTube MCQ practice — Ambition Nursing Classes, ABG](https://www.youtube.com/watch?v=G_2-0P9EfAg)** — description tags indicate ABG/acid-base practice, exact subtopic and item playback not verified.
+
+**Revision mapping:** Q19 / Advanced Q5 compensation application. Preserve learner history; do not count this as new unique authorship without reconciliation.
 
 </details>
 
 ### Q55. Before radial arterial sampling, the clinician performs a modified Allen test. What circulation is primarily being assessed?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / PGIMER (original) · **🟣 AIIMS NORCET 2020 — related concept (reported)**
 
 - **A.** Pulmonary arterial perfusion directly
 - **B.** Collateral hand perfusion through the ulnar artery
@@ -1505,9 +1807,21 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Collateral hand perfusion through the ulnar artery**
 
-**Kyun sahi aur baaki options galat:** Collateral hand blood flow via ulnar artery; pulmonary/coronary unrelated and venous saturation not measured. Test limitations and local protocol matter.
+**Kyun sahi hai?** Modified Allen test radial blood sampling se pehle ulnar artery ke through collateral hand perfusion assess karne ke liye use ho sakta hai. Test perfect predictor nahi hai. Local policy, trained assessment aur alternate site decision follow karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Pulmonary arterial circulation test nahi hoti.
+- **C.** Coronary artery patency assess nahi hoti.
+- **D.** Venous oxygen saturation measure nahi hoti.
 
 **Exam trick:** Collateral hand blood flow via ulnar artery.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK138652/?report=printable)
+
+**YouTube MCQ practice: verification pending**.
+
+[Reported NORCET 2020 source](https://testbook.com/question-answer/identify-the-procedure-being-performed-in-the-imag--6171640c721aa8f143c00d16) — 1 September 2020 memory-based ABG procedure identification. Allen test is explained in source solution, not independently established as the original tested item. Official key unverified.
 
 </details>
 
@@ -1518,7 +1832,7 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 ### Q56. A patient alternates progressively deeper breaths, progressively shallower breaths and periods of apnea. Which pattern is described?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / PGIMER / HP Staff Nurse (original)
 
 - **A.** Kussmaul respiration
 - **B.** Cheyne-Stokes respiration
@@ -1529,15 +1843,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: B. Cheyne-Stokes respiration**
 
-**Kyun sahi aur baaki options galat:** Crescendo-decrescendo with apnea Cheyne-Stokes; Kussmaul deep sustained, eupnea normal, orthopnea positional.
+**Kyun sahi hai?** Cheyne-Stokes breathing mein breaths gradually deepen aur phir shallow hoti hain, beech mein central apnea periods aa sakte hain. Ye heart failure ya neurological conditions mein ho sakti hai. New abnormal breathing pattern ki assessment aur escalation zaroori hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Kussmaul sustained deep breathing hai, typical cyclical apnea pattern nahi.
+- **C.** Eupnea normal quiet breathing hai.
+- **D.** Orthopnea lying flat par breathlessness hai.
 
 **Exam trick:** Crescendo-decrescendo with apnea Cheyne-Stokes.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK448165/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — MediNext Live breathing patterns](https://www.youtube.com/watch?v=Yk4dMs5xJCM) — description lists these topics; lecture, not counted as MCQ practice.
 
 </details>
 
 ### Q57. A patient with severe metabolic acidosis develops sustained deep and rapid breathing. Which pattern is classically associated?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / PGIMER / HP Staff Nurse (original)
 
 - **A.** Cheyne-Stokes respiration
 - **B.** Normal quiet breathing
@@ -1548,15 +1874,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: C. Kussmaul respiration**
 
-**Kyun sahi aur baaki options galat:** Deep breathing compensates by eliminating CO2; Cheyne-Stokes cyclical with apnea, eupnea normal, apnea absent breathing.
+**Kyun sahi hai?** Severe metabolic acidosis mein sustained deep breathing CO₂ elimination badhakar respiratory compensation karne ki koshish karti hai. Is classical pattern ko Kussmaul respiration kehte hain. Cause assess karna aur urgent treatment arrange karna important hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Cheyne-Stokes cyclical depth change aur apnea se associated hai.
+- **B.** Normal quiet breathing mein severe compensatory effort nahi hota.
+- **D.** Apnea breathing absence hai, sustained deep breathing nahi.
 
 **Exam trick:** Deep breathing compensates by eliminating CO2.
+
+[Clinical reference](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — MediNext Live breathing patterns](https://www.youtube.com/watch?v=Yk4dMs5xJCM) — description lists these topics; lecture, not counted as MCQ practice.
 
 </details>
 
 ### Q58. A patient reports breathlessness specifically when lying flat that improves after sitting upright. Which term describes it?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / PGIMER / HP Staff Nurse (original)
 
 - **A.** Hemoptysis
 - **B.** Bradypnea
@@ -1567,15 +1905,27 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: D. Orthopnea**
 
-**Kyun sahi aur baaki options galat:** Orthopnea positional dyspnea; hemoptysis cough blood, bradypnea slow breathing, anosmia loss of smell.
+**Kyun sahi hai?** Orthopnea mein patient ko lying flat par breathlessness hoti hai aur upright position se relief mil sakta hai. Heart failure aur respiratory conditions mein ho sakti hai. Nurse severity aur associated symptoms assess kare.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Hemoptysis coughing up blood hai.
+- **B.** Bradypnea slow respiratory rate hai.
+- **C.** Anosmia smell loss hai.
 
 **Exam trick:** Orthopnea positional dyspnea.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
+
+**YouTube MCQ practice: verification pending**.
+
+[Concept teaching — MediNext Live breathing patterns](https://www.youtube.com/watch?v=Yk4dMs5xJCM) — description lists these topics; lecture, not counted as MCQ practice.
 
 </details>
 
 ### Q59. A patient labelled as having uncomplicated COPD develops new digital clubbing. What is the best nursing interpretation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / PGIMER / HP Staff Nurse (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / PGIMER / HP Staff Nurse (original)
 
 - **A.** Report and assess for another associated condition such as bronchiectasis or malignancy
 - **B.** Clubbing is inevitable in every COPD patient
@@ -1586,10 +1936,25 @@ Low FVC se restriction **suspect** hoti hai; confirm kis lung capacity se hoti h
 
 **Correct answer: A. Report and assess for another associated condition such as bronchiectasis or malignancy**
 
-**Kyun sahi aur baaki options galat:** New clubbing not typical uncomplicated COPD, evaluate cause; not inevitable, no proof of oxygenation, smoking alone insufficient.
+**Kyun sahi hai?** Digital clubbing uncomplicated COPD ka typical finding nahi hai. New clubbing bronchiectasis, lung malignancy ya interstitial lung disease jaise associated causes ka clue ho sakta hai. Patient ko assess karke clinician ko report karo, finding se cancer diagnose mat karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Har COPD patient mein clubbing nahi hoti.
+- **C.** Clubbing normal oxygenation prove nahi karti.
+- **D.** Smoking history new clubbing ko ignore karne ka reason nahi hai.
 
 **Exam trick:** New clubbing not typical uncomplicated COPD, evaluate cause.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK559281/)
+
+**YouTube MCQ practice: verification pending**.
 
 </details>
 
 [Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Chapter](../README.md)
+
+
+## ▶️ Question-level practice video gap queue — Q23–59
+
+Topic-level practice leads (description-level, playback pending): Q30,32,33,46,52–54. Dedicated video verification pending for Q23, Q24, Q25, Q26, Q27, Q28, Q29, Q31, Q34, Q35, Q36, Q37, Q38, Q39, Q40, Q41, Q42, Q43, Q44, Q45, Q47, Q48, Q49, Q50, Q51, Q55, Q56, Q57, Q58, Q59. Concept lectures are not counted as MCQ practice. No authenticated exact video-question matches. Earlier Q1–22 require individual video-link retrofit under the updated skill.
