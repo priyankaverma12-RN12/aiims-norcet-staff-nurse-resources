@@ -42,3 +42,9 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [Glomerulonephritis: one reported adaptation](Glomerulonephritis-Reported-Evidence.md), MP Vyapam Group 5 Staff Nurse 27 June 2023 Shift 2 Q82, third-party hosted PDF text retrieved (QID 2752100), screenshot cache miss. BHU 2015 reports indexed but direct retrieval failed. No official key authentication. One original and one adaptation related MCQ video chapter marker, no exact playback.
 
 - [Nephritic syndrome: one reported adaptation](Nephritic-Syndrome-Reported-Evidence.md), UPSC ESIC Nursing Officer 7 July 2024 retrieved report. DSSSB 2019, AIIMS Bathinda 2019 and GSSSB 2022 related records retrieved, not counted again. One adaptation topic-level MCQ video marker, all original specific practice videos pending. No official key authentication.
+
+## 27 November 2026 — Nephrotic syndrome
+
+- [Two independently worded reported adaptations](Nephrotic-Syndrome-Reported-Evidence.md): ESIC Nursing Officer 7 July 2024 characteristic features and RRB Staff Nurse 21 July 2019 Shift II steroid treatment objective; both retrieved third-party reports, not authenticated official keys.
+- NHM MP CHO 27 January 2021 Shift 1 daily weight report retrieved, mapped to existing renal assessment concept without adding a duplicate. RRB 25 November 2026 memory-based lead indexed, direct retrieval failed, not counted.
+- One related nephrotic-features MCQ chapter marker (Nursing Wallah 38:40), exact playback pending; other adaptation and all 30 originals lack specific verified practice-video mapping. Wider all-India extraction pending.
