@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-050328-global-only
+Scope: Global syllabus index Nursing Foundations count reconciliation only, no chapter writes while Jobs 4 and 5 active
+Claimed UTC: 2026-11-27T05:03:28Z
+Expiry UTC: 2026-11-27T05:33:28Z
 
 Forward verified content checkpoint 96a35e56fdaa9eca21fbb971cbe9928b7cb802cd. Nursing Foundations 975 indexed original slots (412 Medium, 563 Difficult), 600 initial +375 expansion. Group 04E 26 new plus earlier Q7,8,9,14 =30 allocated, 26 questions and hidden answers read back exactly. Earlier draft 86 related exact-normalized comparisons, no matches, final stems unchanged, option order remapped. Concept 8d290a1ae7715a9f429df70ecf116739ed89589a, evidence 027d8b5de05c613d458c2f6f23d36abd1cabb1e9 verified. Two reported adaptations, three direct reports (JIPMER 23 Feb 2020, RRB 12 Mar 2026 Shift 3, AIIMS Bathinda 29 Sep 2019 memory-based), official keys and cumulative overlap pending. MoHFW 2026 fire guideline text retrieved, screenshot failed. FDA guidance directly retrieved, oxygen/latex indexed. Eight description-level quiz leads, 18 missing specific leads, all 26 exact and fully confirmed topic-level practice pending. Two reported adaptations also description-level only. MCQ index 52112b9e445ae8345acd2d97e523169f825f793d, audit 2bfe54f02169494d60dd9922f479d565da39ba71, README 647bb0afda3819f936e83624b83e54f38f935d96, concept map 5a4b2488425d53bbb11cc99baf595f3a12c86c40, PYQ index 230d5b72602c2256bc2bdd7c11636c1eacd13900, video guide a16c2f5f15b87ce2c71899ccd924706f15d41daa verified. Prior 04D navigation and 04C–04E video gaps reconciled. Global index deferred due to reverse claim. Five Group 04 allocations of 30 reached. Reserve Q12 medication safety, Q16 feeding safety and Q18 escalation for later, count each once. Next Group 05 asepsis and standard precautions, compare sibling Infection Control chapter before authoring and reconcile shared global index when safe. Historical count 34 pending source overlap, 5/10 compiled mocks. Full clinical/semantic/curriculum, video playback, official-key and rendered UI review pending. All five job claims checked, other lanes untouched. Hourly automation unchanged.
