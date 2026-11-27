@@ -920,7 +920,7 @@ Timed collection ka purpose ek fixed 24-hour interval mein excreted substance me
 
 ### Q33. A new stoma becomes dusky and progressively dark. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Massage the stoma firmly
 - **B.** Obtain urgent surgical or stoma specialist assessment for possible ischemia
@@ -947,7 +947,7 @@ Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka pr
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q11](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q11](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q11-a-new-stoma-becomes-dusky-and-progressively-dark-which-action-is-appropriate)
 
 ### Q34. Which measure is appropriate during sputum collection for suspected infectious pulmonary TB?
 
@@ -1247,7 +1247,7 @@ Unresponsive choking patient ko safe surface par CPR start karna hota hai. Mouth
 
 ### Q45. A patient has fragile skin and adhesive residue after dressing removal. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Peel remaining adhesive rapidly against resistance
 - **B.** Use a suitable gentle removal method according to skin and product guidance
@@ -1274,11 +1274,11 @@ Fragile skin mein skin layers easily separate ho sakti hain. Adhesive ko forcefu
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q11](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q11](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q11-a-patient-has-fragile-skin-and-adhesive-residue-after-dressing-removal-which-action-is-safest)
 
 ### Q46. Why should wrinkles be minimized in the linen beneath an immobile patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Wrinkles replace the need for skin assessment
 - **B.** Wrinkles can create localized pressure and friction
@@ -1301,11 +1301,11 @@ Immobile patient apni position easily change nahi kar paata. Folded linen skin k
 
 **Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q10](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q10](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q10-why-should-wrinkles-be-minimized-in-the-linen-beneath-an-immobile-patient)
 
 ### Q47. A patient has a documented do-not-attempt-resuscitation order. Which interpretation is correct?
 
@@ -1330,7 +1330,7 @@ DNAR order cardiac arrest ke waqt CPR decision address karta hai. Other treatmen
 
 ### Q48. A patient has dry intact skin after bathing. Which action may improve comfort and barrier function?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Rub bony prominences forcefully
 - **B.** Use harsh detergent repeatedly
@@ -1357,7 +1357,7 @@ Skin barrier outer protective layer hai jo water loss aur irritant entry control
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q12](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q12](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q12-a-patient-has-dry-intact-skin-after-bathing-which-action-may-improve-comfort-and-barrier-function)
 
 ### Q49. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
 
@@ -1426,7 +1426,7 @@ Plasma mein multiple clotting factors present hote hain. Use bleeding context au
 
 ### Q51. During manual disimpaction under an authorized plan, a patient becomes dizzy and bradycardic. What should the nurse suspect and do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Normal harmless response, continue forcefully
 - **B.** A need to increase rectal pressure
@@ -1455,7 +1455,7 @@ Rectal manipulation se vagal reflex trigger ho sakta hai. Vagus nerve heart rate
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q9](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q9](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q9-during-manual-disimpaction-under-an-authorized-plan-a-patient-becomes-dizzy-and-bradycardic-what-should-the-nurse-suspect-and-do)
 
 ### Q52. Which practice is appropriate when administering several compatible prescribed medicines through an enteral tube?
 
@@ -2142,7 +2142,7 @@ Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani h
 
 ### Q76. A patient has an IV line and a urinary catheter during an occupied bed change. What should the nurse prioritize?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Maintain device security and avoid traction while repositioning
 - **B.** Pull the tubing to guide body movement
@@ -2165,11 +2165,11 @@ Repositioning ke waqt IV line ya urinary catheter linen mein snag ho sakte hain.
 
 **Clinical reference:** [CDC CAUTI](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
-**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q9](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q9](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q9-a-patient-has-an-iv-line-and-a-urinary-catheter-during-an-occupied-bed-change-what-should-the-nurse-prioritize)
 
 ### Q77. A nurse sustains an occupational needlestick. Which initial response is appropriate?
 
@@ -2288,7 +2288,7 @@ Recovery scoring patient ki physiological recovery systematically assess karne m
 
 ### Q81. What appearance is expected of a healthy newly created intestinal stoma after initial assessment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Dry black tissue
 - **B.** Moist pink to red mucosa
@@ -2315,7 +2315,7 @@ Stoma surgically banaya gaya bowel opening hai. Healthy mucosa mein blood supply
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q10](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q10](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q10-what-appearance-is-expected-of-a-healthy-newly-created-intestinal-stoma-after-initial-assessment)
 
 ### Q82. Which first aid action is appropriate for significant external bleeding from a limb?
 
@@ -2571,7 +2571,7 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 
 ### Q91. Which action protects peristomal skin when selecting an ostomy appliance?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Fit the opening closely around the stoma without constricting it
 - **B.** Cut the opening smaller than the stoma to create pressure
@@ -2600,7 +2600,7 @@ Peristomal skin stoma ke aas-paas ki skin hai. Bowel effluent skin ke contact me
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q12](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q12](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q12-which-action-protects-peristomal-skin-when-selecting-an-ostomy-appliance)
 
 ### Q92. A patient is returning from an upper GI endoscopy with residual sedation and topical throat anesthesia. Which assessment is important before oral intake?
 
