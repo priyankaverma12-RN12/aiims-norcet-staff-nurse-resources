@@ -60,7 +60,7 @@
 
 [Related concept](../Concepts/Nephritic-Syndrome.md#1-clinical-pattern-and-mechanism) · [Clinical reference](https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-nephritic-syndrome)
 
-**▶️ [Related PSGN features MCQ practice — Nursing Wallah, 58:29](https://www.youtube.com/watch?v=FzjMv67IJA8&t=3509s)**. Indexed chapter marker includes PSGN clinical features. Exact item and playback pending.
+**YouTube MCQ practice: verification pending**
 
 </details>
 
@@ -89,7 +89,7 @@
 
 [Related concept](../Concepts/Nephritic-Syndrome.md#1-clinical-pattern-and-mechanism) · [Clinical reference](https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-nephritic-syndrome)
 
-**▶️ [Related PSGN features MCQ practice — Nursing Wallah, 58:29](https://www.youtube.com/watch?v=FzjMv67IJA8&t=3509s)**. Indexed chapter marker includes PSGN clinical features. Exact item and playback pending.
+**YouTube MCQ practice: verification pending**
 
 </details>
 
@@ -118,7 +118,7 @@
 
 [Related concept](../Concepts/Nephritic-Syndrome.md#1-clinical-pattern-and-mechanism) · [Clinical reference](https://www.merckmanuals.com/professional/nephrology/glomerular-disorders/overview-of-nephritic-syndrome)
 
-**▶️ [Related PSGN features MCQ practice — Nursing Wallah, 58:29](https://www.youtube.com/watch?v=FzjMv67IJA8&t=3509s)**. Indexed chapter marker includes PSGN clinical features. Exact item and playback pending.
+**YouTube MCQ practice: verification pending**
 
 </details>
 
