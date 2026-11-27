@@ -34,6 +34,8 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 01, Q94](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q94-a-medication-order-reads-10-mg-but-the-usual-dose-is-much-lower-and-the-nurse-suspects-an-error-what-is-the-safest-action)
+
 </details>
 
 ### Q2. Which check addresses the right patient during drug administration?
@@ -68,6 +70,8 @@ Right patient ka matlab actual person ko correct medication order se match karna
 
 [Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
 
+[Practice this question in Mock 01, Q10](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q10-which-check-addresses-the-right-patient-during-drug-administration)
+
 </details>
 
 ### Q3. A patient reports a previous severe reaction to a drug in the same class as a newly ordered medicine. What should the nurse do?
@@ -99,6 +103,8 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
+[Practice this question in Mock 01, Q84](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q84-a-patient-reports-a-previous-severe-reaction-to-a-drug-in-the-same-class-as-a-newly-ordered-medicine-what-should-the-nurse-do)
 
 </details>
 
@@ -132,6 +138,8 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 01, Q35](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q35-which-instruction-is-appropriate-for-a-sublingual-tablet-specifically-prescribed-to-dissolve-under-the-tongue)
+
 </details>
 
 ### Q5. A patient cannot swallow an extended-release tablet. Which action is safest?
@@ -163,6 +171,8 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
+[Practice this question in Mock 02, Q29](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q29-a-patient-cannot-swallow-an-extended-release-tablet-which-action-is-safest)
 
 </details>
 
@@ -196,6 +206,8 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 02, Q33](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q33-a-patient-has-an-order-for-an-enteric-coated-medication-via-a-feeding-tube-what-should-the-nurse-do)
+
 </details>
 
 ### Q7. Which route delivers a prescribed drug directly into systemic venous circulation?
@@ -227,6 +239,8 @@ IV route medicine ko venous blood mein directly deliver karti hai. Absorption st
 <!-- /job5-rationale -->
 
 **▶️ [YouTube MCQ practice — IV route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Practice this question in Mock 02, Q27](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q27-which-route-delivers-a-prescribed-drug-directly-into-systemic-venous-circulation)
 
 </details>
 
@@ -260,6 +274,8 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 02, Q118](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q118-which-tissue-layer-is-targeted-in-an-intradermal-injection)
+
 </details>
 
 ### Q9. Which injection site is generally preferred for routine intramuscular vaccination in infants?
@@ -291,6 +307,8 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 <!-- /job5-rationale -->
 
 **▶️ [YouTube MCQ practice — IM route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Practice this question in Mock 03, Q90](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q90-which-injection-site-is-generally-preferred-for-routine-intramuscular-vaccination-in-infants)
 
 </details>
 
@@ -326,6 +344,8 @@ Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyper
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 03, Q19](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q19-a-nurse-needs-to-administer-a-prescribed-high-alert-insulin-dose-which-practice-is-appropriate)
+
 </details>
 
 ### Q11. A patient refuses an oral medication after the nurse explains its purpose. Which response is appropriate?
@@ -357,6 +377,8 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
+[Practice this question in Mock 03, Q15](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q15-a-patient-refuses-an-oral-medication-after-the-nurse-explains-its-purpose-which-response-is-appropriate)
 
 </details>
 
@@ -392,6 +414,8 @@ Medication administration record actual dose, route aur time reflect karna chahi
 
 [Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
 
+[Practice this question in Mock 03, Q95](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q95-when-should-an-administered-medication-normally-be-documented)
+
 </details>
 
 ### Q13. A PRN analgesic is requested by a patient who received another sedating drug recently. Which action is most appropriate?
@@ -423,6 +447,8 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
+[Practice this question in Mock 04, Q16](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q16-a-prn-analgesic-is-requested-by-a-patient-who-received-another-sedating-drug-recently-which-action-is-most-appropriate)
 
 </details>
 
@@ -456,6 +482,8 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 04, Q42](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q42-a-nurse-applies-a-replacement-transdermal-patch-which-check-helps-prevent-an-unintended-excess-dose)
+
 </details>
 
 ### Q15. A patient receives an IV drug and immediately develops wheezing, hypotension and facial swelling. What is the priority?
@@ -488,6 +516,8 @@ Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest kart
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 04, Q107](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q107-a-patient-receives-an-iv-drug-and-immediately-develops-wheezing-hypotension-and-facial-swelling-what-is-the-priority)
+
 </details>
 
 ### Q16. Which medication order element identifies how a drug is delivered into the body?
@@ -519,6 +549,8 @@ Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya
 <!-- /job5-rationale -->
 
 **▶️ [YouTube MCQ practice — right route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
+[Practice this question in Mock 04, Q86](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q86-which-medication-order-element-identifies-how-a-drug-is-delivered-into-the-body)
 
 </details>
 
@@ -554,6 +586,8 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 [Indian reference — ESIC dispensary SOPs 2025](https://esic.gov.in/attachments/publicationfile/Standard_Operating_Procedures_SOPs_for_Dispensaries_under_ESIC_ESI_Scheme_2025_1753855147.pdf) · Indexed medication identification, dosage verification and documentation guidance. Full document and visual verification pending. Apply relevant institutional policy.
 
+[Practice this question in Mock 05, Q93](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q93-a-liquid-medicine-is-ordered-as-125-mg-and-supplied-as-250-mg-per-5-ml-how-much-should-be-measured)
+
 </details>
 
 ### Q18. A prescription states 0.5 mg. Which notation best reduces decimal-related medication errors?
@@ -588,6 +622,8 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 05, Q21](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q21-a-prescription-states-05-mg-which-notation-best-reduces-decimal-related-medication-errors)
+
 </details>
 
 ### Q19. What is the principal purpose of medication reconciliation during admission or transfer?
@@ -620,6 +656,8 @@ Medication reconciliation mein patient ki best possible current medication histo
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
 
+[Practice this question in Mock 05, Q92](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q92-what-is-the-principal-purpose-of-medication-reconciliation-during-admission-or-transfer)
+
 </details>
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
@@ -651,6 +689,8 @@ Hold parameter ek authorized instruction hai jo unsafe clinical finding par dose
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
+[Practice this question in Mock 05, Q20](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q20-a-patient-has-a-prescribed-medicine-but-an-essential-pre-administration-parameter-is-outside-the-stated-hold-limit-what-should-the-nurse-do)
 
 </details>
 
