@@ -21,6 +21,21 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 **B.** Reflecting and clarifying help understanding. Other responses can block expression. Closed-ended questions are not universally forbidden and can be useful for urgent focused data. [Retrieved report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe).
 
+<!-- job5-rationale -->
+Therapeutic communication mein nurse patient ko apna experience aur feelings explore karne ka safe space deti hai. Reflection ka matlab patient ki expressed emotion ko gently acknowledge karna hai, jaise patient worried hai toh nurse keh sakti hai ki aapko is situation se anxiety ho rahi lagti hai. Clarification unclear words ka meaning verify karti hai, jaise weakness se patient ka matlab fatigue hai ya dizziness. Dono techniques se nurse assumption kam karti hai aur patient ko correction ya elaboration ka chance deti hai. Closed-ended questions bhi focused clinical assessment mein useful ho sakte hain, isliye har closed question ko forbidden mat samjho.
+
+**Option-by-option reasoning**
+
+- **A:** A arguing aur blame se patient defensive ho sakta hai aur concern share karna band kar sakta hai.
+- **B:** B reflection feelings acknowledge karti hai aur clarification meaning verify karti hai, dono therapeutic hain.
+- **C:** C unsolicited personal advice patient ki independent decision-making aur actual concern explore karne ko limit kar sakti hai. Clinically appropriate education alag cheez hai.
+- **D:** D uncomfortable topic change karne se important emotional concern unaddressed reh sakta hai.
+
+**Exam clue:** Reflect feeling, clarify meaning. Advice dene se pehle concern samjho.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
+<!-- /job5-rationale -->
+
 
 <!-- job4-metadata -->
 **Exam evidence:** Retrieved third-party reported question. Source linked in the explanation above. Independent adaptation, not exact original or authenticated official key.  Direct source reopened and inspected.
@@ -49,6 +64,21 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 <details><summary>Answer</summary>
 
 **A.** Missing entries may indicate inconsistency in documentation standards or system barriers. Investigate evidence and improve practice. Others undermine traceability. [Question-level indexed source](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Full page and official key not independently opened.
+
+<!-- job5-rationale -->
+Incomplete nursing records se receiving team ko patient ki current condition, interventions, response ya pending tasks ka reliable picture nahi mil sakta. Nursing administrator ko actual record sample, documentation requirements, workflow, staffing, training aur EHR barriers compare karne chahiye. Pehle gap ki nature aur patient safety impact samjho, phir targeted education ya system correction aur re-audit plan karo. Unrecorded action ko automatically completed ya absent assume mat karo. Missing data ko authorized transparent late-entry procedure ke through hi correct karna hai, speculation se nahi.
+
+**Option-by-option reasoning**
+
+- **A:** A documentation standard aur actual workflow dono investigate karta hai. Isse individual aur system causes identify ho sakte hain.
+- **B:** B oral handover useful hai lekin permanent clinical record aur accountability replace nahi kar sakta.
+- **C:** C missing data ko normal assume karna deterioration miss kar sakta hai aur record inaccurate banata hai.
+- **D:** D errors conceal karne se root cause aur safety improvement opportunities lose hoti hain.
+
+**Exam clue:** Audit gap → verify standard and workflow → correct safely → re-audit.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
