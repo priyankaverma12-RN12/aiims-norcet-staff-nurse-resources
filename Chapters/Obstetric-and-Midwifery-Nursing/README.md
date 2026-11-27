@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Starter stage, not studied.** This chapter has 64 original questions (4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis and 20 Physiological Changes During Pregnancy questions). It is not complete yet.
+**Starter stage, not studied.** This chapter has 94 original questions (4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 Physiological Changes During Pregnancy overview questions and 30 maternal cardiovascular/hematological questions). It is not complete yet.
 
 | Section | Open |
 |---|---|
@@ -9,6 +9,7 @@
 | Antenatal Care | [20 original MCQs — four parts](MCQs/01-Antenatal-Care-20-MCQs.md) · [2 reported PYQ adaptations](Previous-Year-Questions/01-Antenatal-Care-Reported-PYQs.md) |
 | Pregnancy Diagnosis | [20 original MCQs — four parts](MCQs/02-Pregnancy-Diagnosis-20-MCQs.md) |
 | Physiological Changes During Pregnancy | [Detailed Hinglish concepts](Concepts/03-Physiological-Changes-During-Pregnancy.md) · [20 original MCQs](MCQs/03-Physiological-Changes-During-Pregnancy-20-MCQs.md) · [1 new reported adaptation](Previous-Year-Questions/03-Physiological-Changes-Reported-Exam-Practice.md) · [Original diagram](Assets/maternal-circulation-and-hemodilution.svg) |
+| Maternal cardiovascular and hematological changes | [30 original clinical MCQs](MCQs/03A-Maternal-Cardiovascular-and-Hematological-Changes-30-MCQs.md) · [1 reported exam adaptation and related evidence](Previous-Year-Questions/03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -16,8 +17,13 @@
 
 [1 source-linked reported Previous Year Questions](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Source-Linked-Reported-PYQs.md). These are adapted, not authenticated verbatim official questions.
 
-[1 older HPSSC reported linea nigra adaptation](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-India-Wide-Additional-Reported-PYQs.md) was previously published but omitted from this index. Total: 5 reported adaptations across four files, none represented as authenticated verbatim official questions.
+[1 older HPSSC reported linea nigra adaptation](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-India-Wide-Additional-Reported-PYQs.md) was previously published but omitted from this index. Total before the cardiovascular/hematological expansion: 5 reported adaptations across four files, none represented as authenticated verbatim official questions.
 
 ## OBG manual preparation checkpoint
 
 20 distinct original questions per meaningful topic as requested in this OBG run. Ten OBG mock tests requested, none published in this run. ANC original bank complete at 20 for this target. Full topic inventory, additional original banks, mocks, exhaustive exam research, detailed concepts and direct video authentication remain pending. Pregnancy Diagnosis 20 original questions published in four parts. Physiological Changes During Pregnancy: 20 original MCQs with 80 option explanations, detailed system-wise concepts, one original diagram and one new HPSSC 2021 reported adaptation published. The existing HPSSC 2022 adaptation has been indexed without counting it as new. Next: reconcile remaining individual maternal physiology subtopics and then fetal development, placenta and fetal assessment in curriculum order. Comprehensive cross-chapter semantic audit, official paper/key authentication and exact video playback verification remain pending. Preserve the separate Gynecological and Reproductive Nursing chapter.
+
+
+## Verified practice update — 28 November 2026
+
+Ab is chapter mein 94 original MCQs hain, jismein 30 naye cardiovascular aur hematological clinical practice questions hain. Naye bank mein 15 cardiovascular aur 15 hematological questions hain, aur purane overview questions bhi safe hain. Six reported exam adaptations alag se indexed hain. Har individual topic ka 30–40 question target abhi complete nahi hai. Aage maternal cardiovascular aur hematological subtopics ki remaining depth, respiratory, renal/GI, endocrine adaptations, fetal development, placenta, membranes, fetal assessment, labour, complications aur postpartum nursing ko cover karna hai. Topic banks ke baad ten original-only 120-question mocks banenge. Koi existing question mock mein reuse nahi hoga. Clinical, semantic, historical evidence aur video verification ki remaining gaps ko bhi review karna hai.
