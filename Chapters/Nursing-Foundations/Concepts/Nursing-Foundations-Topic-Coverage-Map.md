@@ -92,7 +92,10 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Blood pressure](03A-Blood-Pressure-Measurement.md), 30 allocated.
 - [Pulse](03B-Pulse-Assessment.md), 30 allocated.
-- [Respiration](03C-Respiration-Assessment.md), 30 provisional, earlier Q13 relevance pending.
+- [Respiration](03C-Respiration-Assessment.md), 30 allocated, earlier Q19 replaces Q13, which is reserved for fever.
 - [Pulse oximetry](03D-Pulse-Oximetry-Assessment.md), 30 allocated.
 
-Physical examination expansion next. Full clinical and semantic audit pending.
+- [Physical examination](03E-Physical-Examination.md), 30 allocated.
+- [Fall risk and prevention](04A-Fall-Risk-and-Prevention.md), 30 allocated.
+
+Next group 04B patient identification and procedure safety. Full clinical and semantic audit pending.
