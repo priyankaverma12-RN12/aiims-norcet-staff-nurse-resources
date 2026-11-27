@@ -4,7 +4,7 @@
 
 ### Q1. A medication order reads 10 mg but the usual dose is much lower and the nurse suspects an error. What is the safest action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Give half without authorization
 - **B.** Ask the patient to choose the dose
@@ -38,7 +38,7 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 ### Q2. Which check addresses the right patient during drug administration?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS NORCET 6 Prelims 2024 — related tested concept only](https://testbook.com/question-answer/while-administering-medication-to-prevent-error-pa--662a49c56624fd068ec30a62)**
 
 - **A.** Ask a visitor whether the tablet looks familiar
 - **B.** Match two approved patient identifiers to the medication record
@@ -72,7 +72,7 @@ Right patient ka matlab actual person ko correct medication order se match karna
 
 ### Q3. A patient reports a previous severe reaction to a drug in the same class as a newly ordered medicine. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Clarify the allergy history and order before administration
 - **B.** Administer first because the prescription is signed
@@ -104,7 +104,7 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 
 ### Q4. Which instruction is appropriate for a sublingual tablet specifically prescribed to dissolve under the tongue?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Swallow it immediately with a full meal
 - **B.** Crush it into a large glass of water
@@ -136,7 +136,7 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 
 ### Q5. A patient cannot swallow an extended-release tablet. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Crush every extended-release tablet automatically
 - **B.** Double the next dose after omitting it
@@ -168,7 +168,7 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 ### Q6. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Mix it with all other medications in one syringe
 - **B.** Inject the oral product into an IV line
@@ -200,7 +200,7 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 ### Q7. Which route delivers a prescribed drug directly into systemic venous circulation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Topical
 - **B.** Intravenous
@@ -232,7 +232,7 @@ IV route medicine ko venous blood mein directly deliver karti hai. Absorption st
 
 ### Q8. Which tissue layer is targeted in an intradermal injection?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Dermis
 - **B.** Skeletal muscle
@@ -264,7 +264,7 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 ### Q9. Which injection site is generally preferred for routine intramuscular vaccination in infants?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Anterolateral thigh using the vastus lateralis muscle
 - **B.** Dorsogluteal region as the universal first choice
@@ -296,7 +296,7 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 
 ### Q10. A nurse needs to administer a prescribed high-alert insulin dose. Which practice is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assume all insulin products are interchangeable unit for unit without verification
 - **B.** Use a syringe with incompatible unit markings
@@ -330,7 +330,7 @@ Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyper
 
 ### Q11. A patient refuses an oral medication after the nurse explains its purpose. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Crush it secretly into the meal
 - **B.** Record it as administered without giving it
@@ -362,7 +362,7 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 
 ### Q12. When should an administered medication normally be documented?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 HSSC Staff Nurse 2019, held 25 July 2021 — related tested concept only](https://testbook.com/question-answer/the-six-rights-for-medication-administration-are-a--62c299abec23ce2463d1d92c)**
 
 - **A.** Only if the patient experiences an adverse effect
 - **B.** After actual administration according to the facility process
@@ -396,7 +396,7 @@ Medication administration record actual dose, route aur time reflect karna chahi
 
 ### Q13. A PRN analgesic is requested by a patient who received another sedating drug recently. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Administer double the dose to ensure relief
 - **B.** Assess pain, sedation, respiratory status and timing before giving the prescribed dose
@@ -428,7 +428,7 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 
 ### Q14. A nurse applies a replacement transdermal patch. Which check helps prevent an unintended excess dose?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Locate and remove the previous patch as instructed before applying the new one
 - **B.** Apply the new patch over the old patch in every case
@@ -460,7 +460,7 @@ Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakt
 
 ### Q15. A patient receives an IV drug and immediately develops wheezing, hypotension and facial swelling. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Slowly increase the infusion rate
 - **B.** Leave the patient alone to obtain routine paperwork
@@ -492,7 +492,7 @@ Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest kart
 
 ### Q16. Which medication order element identifies how a drug is delivered into the body?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 NHM MP CHO 27 Jan 2021 Shift 1 — related tested concept only](https://testbook.com/question-answer/nurses-must-consider-the-following-five-rights-whi--62e80544dc9b900c1485fb02/amp)**
 
 - **A.** Manufacturer logo
 - **B.** Patient's room temperature
@@ -524,7 +524,7 @@ Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya
 
 ### Q17. A liquid medicine is ordered as 125 mg and supplied as 250 mg per 5 mL. How much should be measured?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 10 mL
 - **B.** 0.5 mL
@@ -558,7 +558,7 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 ### Q18. A prescription states 0.5 mg. Which notation best reduces decimal-related medication errors?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 5.0 mg
 - **B.** 0.5 mg with a leading zero and no unnecessary trailing zero
@@ -592,7 +592,7 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 ### Q19. What is the principal purpose of medication reconciliation during admission or transfer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Identify and resolve differences between the actual medication list and new orders
 - **B.** Automatically discontinue every home drug
@@ -624,7 +624,7 @@ Medication reconciliation mein patient ki best possible current medication histo
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Administer automatically because the dose is scheduled
 - **B.** Change the parameter in the record
