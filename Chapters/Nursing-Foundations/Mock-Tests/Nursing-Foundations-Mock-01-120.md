@@ -1088,9 +1088,19 @@ Palliative care serious illness mein pain, breathlessness aur emotional concerns
 
 **Correct: D. Arrange urgent assessment for possible obstruction before giving routine laxatives**
 
-Pain, vomiting aur distension bowel obstruction ke clues ho sakte hain. Nurse urgent review leti hai kyunki routine constipation treatment obstruction mein unsafe ho sakta hai.
+Severe pain, vomiting, distension aur stool na aana sirf simple constipation nahi bhi ho sakta. Bowel obstruction ka matlab intestine ke andar contents ke passage mein blockage hai. Is situation mein routine laxative ya enema dene se pehle urgent clinical assessment chahiye. Vitals, pain, vomiting aur last stool/flatus assess karo aur emergency escalation protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Enema aur high fiber obstruction worsen kar sakte hain. Delay serious complication miss kar sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** High-dose fiber blockage ke suspicion mein routine solution nahi hai aur distension badha sakta hai.
+- **B (Galat):** Bina obstruction exclude kiye cleansing enema dena unsafe ho sakta hai.
+- **C (Galat):** Delay se dehydration, bowel injury aur serious complications miss ho sakti hain.
+- **D (Sahi):** Urgent assessment blockage ko identify karne aur safe treatment decide karne mein madad karti hai.
+
+**Exam clue:** Pain plus vomiting plus distension ko constipation maan kar treat mat karo.
+
+**Clinical reference:** [Topic reference](https://www.mayoclinic.org/diseases-conditions/intestinal-obstruction/symptoms-causes/syc-20351460).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2187,9 +2197,19 @@ Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planni
 
 **Correct: B. Encourage suitable fiber, fluids, mobility and regular toileting**
 
-Fiber stool bulk support karti hai aur adequate fluid-mobility bowel movement help karte hain. Nurse patient-specific restrictions check karti hai.
+Constipation mein stool hard ho sakta hai ya bowel movement patient ke usual pattern se kam ho sakti hai. Fiber stool ka bulk badhata hai aur suitable fluid usse soft rakhne mein madad karta hai. Mobility aur regular toilet access se bowel emptying support hoti hai. Patient ki fluid restriction, swallowing safety aur possible obstruction pehle assess karo.
 
-**Baaki options kyun sahi nahi hain?** Fluid restriction aur immobility constipation worsen kar sakte hain. Repeated enemas cause assess kiye bina unsafe ho sakti hain.
+**Option-wise explanation:**
+- **A (Galat):** Repeated enema cause ko address nahi karti aur rectal injury ya electrolyte disturbance ka risk la sakti hai.
+- **B (Sahi):** Suitable diet, fluids, movement aur regular toileting milkar normal bowel function support karte hain.
+- **C (Galat):** Unnecessary fluid restriction se stool hard ho sakta hai aur dehydration ka risk badhta hai.
+- **D (Galat):** Bed rest se bowel movement slow ho sakti hai. Bina indication activity rokna constipation prevention nahi hai.
+
+**Exam clue:** Routine prevention mein pehle reversible causes aur patient-specific restrictions dekho.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-2-factors-affecting-bowel-elimination).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2326,9 +2346,19 @@ Unwitnessed fall mein head injury, fracture ya acute illness ka possibility hota
 
 **Correct: A. Black tarry stool**
 
-Melena usually digested blood ki wajah se black aur tarry stool hoti hai. Iron ya certain medicines bhi stool dark kar sakti hain, isliye assessment important hai.
+Melena ka matlab black, tar jaisa stool hai. Jab blood digestive tract mein badal jaata hai toh stool ka color aur consistency aisi ho sakti hai. Yeh aksar upper GI bleeding se related hota hai, lekin source sirf color se confirm nahi hota. Iron ya bismuth stool dark kar sakte hain, isliye symptoms aur medication history bhi assess karo.
 
-**Baaki options kyun sahi nahi hain?** Pale, yellow aur mucus stools melena ka classic description nahi hain.
+**Option-wise explanation:**
+- **A (Sahi):** Black tarry appearance melena ka classic description hai.
+- **B (Galat):** Yellow watery stool diarrhea ka pattern ho sakta hai, melena ka typical description nahi.
+- **C (Galat):** Pale formed stool melena ki typical appearance nahi hai. Persistent pale stool ki alag assessment chahiye.
+- **D (Galat):** Mucus alone digested blood ki characteristic appearance nahi batata.
+
+**Exam clue:** Black color alone aur black tarry stool mein farq samjho.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2515,9 +2545,19 @@ Heatstroke mein body heat dangerously accumulate kar sakti hai aur brain functio
 
 **Correct: B. Assess circulation and escalate urgently for possible gastrointestinal bleeding**
 
-Black tarry stool aur low BP significant blood loss indicate kar sakte hain. Nurse ABC aur perfusion assess karke urgent team help leti hai.
+Black tarry stool ke saath hypotension aur dizziness circulation compromise ka warning sign hai. Blood loss ke karan organs ko adequate perfusion nahi mil sakti. Nurse urgent help activate karti hai, airway, breathing aur circulation assess karti hai, vital signs monitor karti hai aur emergency management protocol follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Laxative bleeding address nahi karta. Walking fall risk badhati hai. Vitals essential hain.
+**Option-wise explanation:**
+- **A (Galat):** Stool softener blood loss ya shock treat nahi karta. Kal tak wait karna unsafe hai.
+- **B (Sahi):** Circulation assess karke urgent escalation karna possible GI hemorrhage mein priority hai.
+- **C (Galat):** Sirf stool color note karna instability ko address nahi karta. Immediate vital assessment zaroori hai.
+- **D (Galat):** Dizziness aur low BP mein patient ko bina support chalana fall aur collapse ka risk badhata hai.
+
+**Exam clue:** Melena with hypotension = urgent bleeding assessment, not routine bowel care.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
