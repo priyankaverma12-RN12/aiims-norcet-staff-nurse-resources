@@ -1,0 +1,13 @@
+# Job 5 — deep explanation and answer audit
+
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
+
+## Operating rules
+Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
+Audit each existing MCQ, mock slot, PYQ and embedded extra MCQ. Keep English stems/options and hidden details. Independently verify answer and all four options. Write complete beginner-friendly Roman Hinglish sentences explaining concepts and each distractor, no semicolons. Math/reasoning: formula, derivation, steps, units, alternate method and traps where relevant. GK: factual context, date and authoritative references. Nursing: clinical mechanism, priorities and safety. Preserve learner history and existing color tags, avoid duplicate labels. Correct errors transparently, distinguish ambiguity. Research official AIIMS NORCET, HPRCA/HPSSC/HPSCA, PGIMER, state recruitment, ESIC, RRB, DSSSB and coaching sources; prioritize recent three HP recruitment papers. Use verified paper links, exam/year/shift/question only when supported, distinguish official, recall, related concept and original practice. Relevant specific YouTube links with verified title/channel and timestamps only if inspected. Record gaps rather than inventing. Add missing PYQs only if lawful, verified, distinct and coordinated. No duplicate counts. Preserve other jobs' files and metadata. Read back changes and record exact file/question ranges, keys, commits and pending evidence. Manual next-run button each report.
+
+## Initial checkpoint — 2026-11-27
+Zero questions audited by Job 5. Start Chapters/Nursing-Foundations/MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md Q1. Forward claim active until 05:06:59 UTC and reverse claim active until 05:09:30 UTC at initial inspection. Chapter-wide single writer rule prevents edits to Nursing Foundations now. No learner content changed. Job 3 respiratory checkpoint and Job 4 foundation metadata checkpoint observed. Five-minute ChatGPT recurrence unavailable (minimum one hour); no automation created without revised cadence.
