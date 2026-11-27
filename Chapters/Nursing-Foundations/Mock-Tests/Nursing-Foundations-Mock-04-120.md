@@ -134,7 +134,9 @@ MRI magnetic field certain devices ke function ya safety affect kar sakti hai. D
 
 ### Q7. Which approach reduces the risk of wrong-site surgery?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Rely solely on the patient's bed label
 - **B.** Skip verification when staff are familiar with the patient
@@ -149,9 +151,17 @@ Team time-out mein identity, procedure aur correct site confirm ki jaati hai. Is
 
 **Baaki options kyun sahi nahi hain?** Bed label inadequate hai. Random marking unsafe hai. Familiarity formal verification replace nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**▶️ [YouTube MCQ practice — Surgical checklist, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Title and indexed description confirm checklist questions and answers. Exact item, channel and playback pending.
+
+**Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q15](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q15](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q15-which-approach-reduces-the-risk-of-wrong-site-surgery)
 
 ### Q8. Which physiological effect is commonly associated with local cold application?
 
@@ -757,7 +767,9 @@ Supported sitting stool passage aur abdominal muscle coordination facilitate kar
 
 ### Q35. What is the most appropriate use of a fall-risk assessment tool?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Complete it once and never reassess
 - **B.** Assume a low score rules out all future falls
@@ -772,9 +784,17 @@ Tool risk factors systematically identify karne mein help karta hai. Condition a
 
 **Baaki options kyun sahi nahi hain?** Low score guarantee nahi hai. Same plan har patient ke liye appropriate nahi hai. Reassessment needed hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q13](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q13](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q13-what-is-the-most-appropriate-use-of-a-fall-risk-assessment-tool)
 
 ### Q36. A wound develops increasing pain, spreading warmth and purulent drainage. What is the most appropriate response?
 
@@ -2400,7 +2420,9 @@ Ye findings severe allergic reaction indicate kar sakti hain. Nurse trigger stop
 
 ### Q108. An unfamiliar infusion pump alarm activates and the patient is receiving a high-alert medicine. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Silence the alarm and leave the infusion unassessed
 - **B.** Disconnect every line without considering treatment interruption
@@ -2415,9 +2437,17 @@ Alarm obstruction, empty bag ya other problem indicate kar sakta hai. Nurse pati
 
 **Baaki options kyun sahi nahi hain?** Alarm ignore karna problem miss kar sakta hai. Rate change aur indiscriminate disconnection harm kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q14](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q14](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q14-an-unfamiliar-infusion-pump-alarm-activates-and-the-patient-is-receiving-a-high-alert-medicine-which-action-is-safest)
 
 ### Q109. A patient expresses anger about a long wait. Which response is most therapeutic?
 
@@ -2559,7 +2589,9 @@ Intimate care mein privacy aur comfort important hain. Nurse feasible accommodat
 
 ### Q114. A patient with swallowing difficulty is given a meal tray containing food outside the prescribed texture plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Allow the patient to eat while lying flat
 - **B.** Withhold the unsafe tray and obtain the correct meal after verification
@@ -2574,9 +2606,15 @@ Dysphagia mein wrong food consistency aspiration risk badha sakti hai. Nurse pre
 
 **Baaki options kyun sahi nahi hain?** Rapid eating, unapproved consistency changes aur flat positioning unsafe ho sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q16](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q16](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q16-a-patient-with-swallowing-difficulty-is-given-a-meal-tray-containing-food-outside-the-prescribed-texture-plan-what-should-the-nurse-do)
 
 ### Q115. What is appropriate immediate first aid for a small recent thermal burn when safe water is available?
 
