@@ -118,3 +118,57 @@ File: Chapters/Respiratory-System/MCQs/Respiratory-Clinical-Mock-20.md. Before b
 Sources: BTS pleural statement https://thorax.bmj.com/content/78/Suppl_3/s43; AARC guideline index https://www.aarc.org/resource/clinical-practice-guidelines/; Merck shock, lung abscess, respiratory alkalosis and ARDS references; OpenStax nursing chapters 11, 27, 35 and clinical skills 26; CDC TB diagnosis https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html; SCCM 2026 sepsis guidelines https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026; GINA 2026 strategy landing page; Asthma + Lung UK inhaler technique and MedlinePlus oxygen safety. Evidence largely retrieved search extracts, not comprehensive full-text validation of all sources. CPAP mechanism Q7 and cor pulmonale Q20 clinical keys reviewed but dedicated external source depth pending. Official NORCET 10 notice search extract states essential qualification nursing syllabus and case scenarios, not item-level syllabus endorsement. AARC PDF search extracts consulted, full PDF not inspected. Q6,10,12 marked enrichment. NORCET 7 2024 reported Q59 CPAP concept search result and 2025 reported water-seal air leak search result are leads only, latter direct retrieval failed. No official keys or exact matches authenticated. Video descriptions Aarogyam Part 25 and Iram Fatima verified at search level, PE chapter timestamp 29:26 published, playback and transcripts not verified. Dedicated video gaps remain. No new PYQ questions added without verified source and duplicate audit.
 
 Prevention: use one colored metadata row, never repeat existing tags. Distinguish SBT and extubation readiness, clinical association and definitive diagnosis, water seal and suction chamber, severity recognition and clinician-authorized procedure. Avoid calling simple recall Difficult. Next: Respiratory Day-01 MCQ bank Q1 onwards, then remaining banks, full mocks, concepts, PYQs and cross-bank coverage. 52 clinical rationale reviews cumulatively across advanced bank and clinical mock, not full chapter certification.
+
+
+## 2026-11-27 — Day 1 respiratory anatomy and physiology audit
+
+File: Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md. Before blob 0fbd4841dca21bc3dc3ec721f233b7c434094289, after a3edbce6484c139a0984e4bfaf28b17bd6d7024e, commit 363f278686d0d2dd3c83d9260da4a3c62250495a. All 44 existing stems/options and keys retained; corrected stale 40-question heading to 44 practice slots, not unique questions. Four options and 44 hidden answer blocks, five hints and one difficulty/priority row per item verified by readback. All 44 rationales rewritten as complete Hinglish sentences with individual wrong-option reasons. 12 difficulty regrades. Markdown source validation, not rendered UI. No new question count. Base recall questions intentionally retained for learner revision; high-yield tags editorial, not verified recurrence. Q35 has binary-style alternatives and weak distractors; preserve existing solved-question identity and add a fresh nonduplicate clinical item only after whole-bank reconciliation. Six overlap flags: Q4 complements Q3, Q20 overlaps Clinical Mock Q19, Q37 repeats Q28 method, Q38 repeats Q30 calculation, Q39 repeats Q22 recall, Q41 closely overlaps Advanced Q2. Do not silently count as separate unique authorship. Q31 and Q40 share pH interval concept but different presentation. Other cross-bank overlap checks pending.
+
+|Q|Key|Topic|Review|
+|---|---|---|---|
+|1|B|Larynx|Clinical key retained, rationale expanded|
+|2|C|Epiglottis|Clinical key retained, rationale expanded|
+|3|A|Terminal bronchiole|Clinical key retained, rationale expanded|
+|4|D|Respiratory bronchiole|Clinical key retained, rationale expanded, overlap flagged|
+|5|B|Nasal conditioning|Clinical key retained, rationale expanded|
+|6|B|Right lung lobes|Clinical key retained, rationale expanded|
+|7|C|Cardiac notch|Clinical key retained, rationale expanded|
+|8|B|Adult aspiration|Clinical key retained, rationale expanded|
+|9|D|Pulmonary venous return|Clinical key retained, rationale expanded|
+|10|A|Pulmonary arterial flow|Clinical key retained, rationale expanded|
+|11|B|Type II cells|Clinical key retained, rationale expanded|
+|12|C|Type I cells|Clinical key retained, rationale expanded|
+|13|A|Alveolar macrophages|Clinical key retained, rationale expanded|
+|14|B|Surfactant deficiency|Clinical key retained, rationale expanded|
+|15|D|Diffusion|Clinical key retained, rationale expanded|
+|16|B|Visceral pleura|Clinical key retained, rationale expanded|
+|17|C|Pleural fluid|Clinical key retained, rationale expanded|
+|18|A|Inspiration|Clinical key retained, rationale expanded|
+|19|D|Quiet expiration|Clinical key retained, rationale expanded|
+|20|B|Phrenic roots|Clinical key retained, rationale expanded, overlap flagged|
+|21|C|RV|Clinical key retained, rationale expanded|
+|22|B|FRC|Clinical key retained, rationale expanded|
+|23|B|IRV calculation 2950|Clinical key retained, rationale expanded|
+|24|A|IRV calculation 3000|Clinical key retained, rationale expanded|
+|25|C|FRC calculation 2300|Clinical key retained, rationale expanded|
+|26|A|MV 6.8|Clinical key retained, rationale expanded|
+|27|C|RR 18|Clinical key retained, rationale expanded|
+|28|C|TV 450|Clinical key retained, rationale expanded|
+|29|D|MV unchanged|Clinical key retained, rationale expanded|
+|30|C|25 percent increase|Clinical key retained, rationale expanded|
+|31|C|pH 7.46|Clinical key retained, rationale expanded|
+|32|B|RR 16|Clinical key retained, rationale expanded|
+|33|D|PaCO2 39|Clinical key retained, rationale expanded|
+|34|D|SpO2 98|Clinical key retained, rationale expanded|
+|35|B|SpO2 vs PaO2|Clinical key retained, rationale expanded, legacy binary-style distractors need alternate fresh item|
+|36|C|RV 1.3 L|Clinical key retained, rationale expanded|
+|37|C|TV 440|Clinical key retained, rationale expanded, overlap flagged|
+|38|B|25 percent increase|Clinical key retained, rationale expanded, overlap flagged|
+|39|B|FRC|Clinical key retained, rationale expanded, overlap flagged|
+|40|D|pH 7.47|Clinical key retained, rationale expanded|
+|41|C|AV 4.2 vs 2.4|Clinical key retained, rationale expanded, overlap flagged|
+|42|D|Shunt V/Q zero|Clinical key retained, rationale expanded|
+|43|A|Alveolar dead space|Clinical key retained, rationale expanded|
+|44|B|Right shift|Clinical key retained, rationale expanded|
+
+Source evidence: INC 2020 BSc nursing curriculum text reproduction https://www.legitquest.com/act/indian-nursing-council-revised-regulations-and-curriculum-for-bsc-nursing-program-regulations-2020/cbd2 includes applied respiratory anatomy, breathing muscles, physiology, pulmonary circulation, ventilation and gas exchange, transport of gases, regulation, hypoxia, cyanosis, dyspnea, periodic breathing, exercise changes and nursing application. Q1–44 broadly consistent with core anatomy and physiology; exact exam depth for numerical V/Q and curve questions remains pending. OpenStax full section 22.1 text directly read (terminal bronchioles end conducting zone, respiratory bronchioles start respiratory zone); its chapter summary misleadingly includes terminal bronchioles in respiratory zone, so use detailed chapter and NCBI bronchial anatomy https://www.ncbi.nlm.nih.gov/books/NBK537353/ instead. Other clinical search evidence: OpenStax 22.2–22.5, NCBI phrenic nerve https://www.ncbi.nlm.nih.gov/books/NBK513325/, MedlinePlus ABG https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/, pulse ox https://medlineplus.gov/lab-tests/pulse-oximetry/, adult RR https://medlineplus.gov/ency/article/007198.htm, V/Q physiology https://pmc.ncbi.nlm.nih.gov/articles/PMC13090562/. HPSSC Post Code 933 2022 scanned booklet extracted text directly confirms Q3 macrophage topic; page screenshot attempts failed cache miss, key not official, adaptation remains labeled. Raman Academy page directly inaccessible. Q13 mapped to source concept, no exact match asserted. New video mapping Aarogyam Infinity Part 27 https://www.youtube.com/watch?v=lAy0Cb9o5ss, existing Dear Competitive Exams https://www.youtube.com/watch?v=nLSz8qI5Pgo metadata checked. No full transcript/playback or exact timestamps verified this run. No new PYQs added. Preserve solved status, don't inflate original counts, audit related concept repetitions before new MCQ authorship. Next: Day-01-Final-Mock-15.md, then Day 2 bank. Cumulative 96 question-level clinical/rationale reviews, not full chapter certification.
