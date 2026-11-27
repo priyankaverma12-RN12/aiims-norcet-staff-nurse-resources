@@ -477,7 +477,9 @@ Capacity decision-specific aur time-specific ho sakti hai. Delirium understandin
 
 ### Q22. Which documentation entry is most objective?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario · **🟣 SGPGI Staff Nurse 2024 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Patient behaved badly
 - **B.** Patient walked 10 meters with a walker and one-person assistance
@@ -492,6 +494,16 @@ Distance, device aur assistance observable facts hain. Objective record doosri n
 
 **Baaki options kyun sahi nahi hain?** Lazy, badly aur careless judgmental labels hain jo actual observations clearly record nahi karte.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q6](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q6-which-documentation-entry-is-most-objective)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q6](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -750,7 +762,9 @@ Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sak
 
 ### Q35. During handover using SBAR, which information belongs in the Recommendation section?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Describe only the past medical history
 - **B.** List only the current vital signs without a request
@@ -765,6 +779,16 @@ Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent re
 
 **Baaki options kyun sahi nahi hain?** Name Situation ka part ho sakta hai. History Background hai. Current findings Assessment mein aati hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**▶️ [YouTube MCQ practice — SBAR, ADAPT NCLEX REVIEW (42:52)](https://www.youtube.com/watch?v=RZixQ8gliGE&t=2572s)** · Published chapter title supports SBAR topic practice, not verified exact question; supplementary NCLEX, playback pending.
+
+**Topic-bank question:** [Q5](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q5-during-handover-using-sbar-which-information-belongs-in-the-recommendation-section)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q5](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -834,7 +858,9 @@ AED shock ke waqt contact avoid karna rescuer safety ke liye important hai. Shoc
 
 ### Q39. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application · **🟣 RRB Nursing Superintendent 2026 · Shift III — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Correct it through the approved amendment process with an audit trail
 - **B.** Delete the original entry secretly
@@ -849,6 +875,16 @@ Health record mein correction transparent honi chahiye. Approved amendment origi
 
 **Baaki options kyun sahi nahi hain?** Secret deletion, another login aur known error ignore karna record integrity ko harm karte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift III reported question](https://testbook.com/question-answer/what-is-the-most-appropriate-action-for-a-nurse-if--69df4796a0ef8fa701f49667). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q7](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q7-a-nurse-notices-an-incorrect-medication-entry-in-an-electronic-health-record-what-is-the-appropriate-action)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q7](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2220,7 +2256,9 @@ Root cause analysis mein team event ke contributing factors, jaise communication
 
 ### Q104. A nurse receives a telephone medication order under a policy that permits it. What is the safest verification step?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Patient safety · Clinical application
+<!-- /job4-metadata -->
 
 - **A.** Record only the medicine color
 - **B.** Ask the patient to guess the missing dose
@@ -2235,6 +2273,16 @@ Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sa
 
 **Baaki options kyun sahi nahi hain?** Memory unreliable ho sakti hai. Patient guess nahi karna chahiye. Color drug order identify nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
+
+**Topic-bank question:** [Q8](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q8-a-nurse-receives-a-telephone-medication-order-under-a-policy-that-permits-it-what-is-the-safest-verification-step)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q8](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
