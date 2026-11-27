@@ -1,6 +1,6 @@
 # Gynecological and Reproductive Nursing
 
-**Advance-preparation, not marked studied.** This chapter has 204 original question slots: 4 preserved starters, 40 Menstrual Cycle/Ovulation MCQs, 40 Infertility MCQs, 40 Contraception MCQs, 40 RTI/STI/PID MCQs, 20 Fibroids/Endometriosis MCQs and 20 Gynecological Cancers/Cervical Screening MCQs. Two source-linked reported RTI exam adaptations are indexed separately. It is not complete yet.
+**Advance-preparation, not marked studied.** This chapter has 284 original question slots: 4 preserved starters, 40 Menstrual Cycle/Ovulation MCQs, 40 Infertility MCQs, 40 Contraception MCQs, 40 RTI/STI/PID MCQs, 40 Fibroids/Endometriosis MCQs, 40 Gynecological Cancers/Cervical Screening MCQs, 20 Menopause/Perimenopause MCQs and 20 Gynecological Procedures MCQs. Four source-linked reported exam adaptations are indexed separately. It is not complete yet.
 
 | Section | Open |
 |---|---|
@@ -16,8 +16,12 @@
 | RTI, STI and PID | [Q1–Q20 — 20 original MCQs](MCQs/04-Reproductive-Tract-Infections-STIs-and-PID-20-MCQs.md) |
 | RTI clinical expansion | [Q21–Q40 — 20 original MCQs](MCQs/04B-RTI-STI-PID-Clinical-Expansion-Q21-40.md) |
 | Fibroids and Endometriosis | [Q1–Q20 — 20 original MCQs](MCQs/05-Fibroids-and-Endometriosis-20-MCQs.md) |
+| Fibroids and Endometriosis expansion | [Q21–Q40 — 20 clinical MCQs](MCQs/05B-Fibroids-Endometriosis-Clinical-Expansion-Q21-40.md) |
 | Gynecological Cancers and Cervical Screening | [Q1–Q20 — 20 original MCQs](MCQs/06-Gynecological-Cancers-and-Cervical-Screening-20-MCQs.md) |
+| Gynecological Cancers and Screening expansion | [Q21–Q40 — 20 clinical MCQs](MCQs/06B-Gynecological-Cancers-Screening-Expansion-Q21-40.md) |
+| Menopause and Perimenopause | [Q1–Q20 — 20 original MCQs](MCQs/07-Menopause-and-Perimenopause-20-MCQs.md) |
+| Gynecological procedures and postoperative nursing | [Q1–Q20 — 20 original MCQs](MCQs/08-Gynecological-Procedures-Postoperative-Care-and-Nursing-Responsibilities-20-MCQs.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Gynecological-and-Reproductive-Nursing-Mock-Test-Plan.md) |
-| Previous Year Questions | [Research register](Previous-Year-Questions/Gynecological-and-Reproductive-Nursing-Past-Paper-Research-Register.md) · [2 reported RTI adaptations](Previous-Year-Questions/04-RTI-STI-Reported-Exam-Adaptations.md) |
+| Previous Year Questions | [Research register](Previous-Year-Questions/Gynecological-and-Reproductive-Nursing-Past-Paper-Research-Register.md) · [2 reported RTI adaptations](Previous-Year-Questions/04-RTI-STI-Reported-Exam-Adaptations.md) · [2 reported cervical cancer adaptations](Previous-Year-Questions/06-Cervical-Cancer-Reported-Exam-Adaptations.md) |
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
