@@ -22,3 +22,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [Renal assessment — two reported adaptations](Renal-Assessment-Reported-Exam-Questions.md), directly retrieved HPSSC Staff Nurse 1 August 2021 and BHU Nursing Officer 2019 reports. Official booklet/key and specific MCQ videos pending. Additional indexed leads and retrieval failures logged in evidence file.
 
 - [AKI — one NCL Staff Nurse November 2020 reported adaptation](Acute-Kidney-Injury-Reported-Exam-Questions.md). Direct third-party source retrieved, official keys and specific MCQ practice pending. Three related original-question video leads only. ICMR July 2026 and UK Kidney Association clinical sources reviewed.
+
+- [CKD — two reported adaptations](Chronic-Kidney-Disease-Reported-Exam-Questions.md). AIIMS Delhi 15 September 2019 memory-based diet question and UPSC ESIC Nursing Officer 7 July 2024 reported uremia question directly retrieved, with current clinical caveats. Official keys and specific MCQ videos pending. NORCET proteinuria and electrolyte leads reserved for dedicated topics.
