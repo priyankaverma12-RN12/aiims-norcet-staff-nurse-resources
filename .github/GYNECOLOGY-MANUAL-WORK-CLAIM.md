@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-manual-contraception-131610
+Scope: Gynecology contraception expansion Q21–Q40 and local README, no Obstetrics edits
+Claimed UTC: 2026-11-27T13:16:10Z
+Expiry UTC: 2026-11-27T13:46:10Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
