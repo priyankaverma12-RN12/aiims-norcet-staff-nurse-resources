@@ -62,28 +62,28 @@
 
 </details>
 
-### Q113. A child with Stargardt disease reads a large single word more easily by looking slightly to one side of it rather than directly at its center. Which visual rehabilitation concept should the nurse recognize?
+### Q113. A school-aged child with progressive bilateral central visual loss is being evaluated for suspected Stargardt disease. Refraction does not explain the degree of impairment. Which fundus finding would most directly support this particular diagnostic suspicion?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Use of an eccentric viewing strategy to work around a central scotoma
-- **B.** A sign that the child is intentionally failing the vision test
-- **C.** Proof that central visual acuity is normal
-- **D.** A need to prohibit use of residual peripheral vision
+- **A.** A sharply demarcated superficial subconjunctival blood patch
+- **B.** Yellowish retinal flecks in the macular region
+- **C.** Purulent material emerging from the lacrimal punctum
+- **D.** A loose foreign body in the external auditory canal
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. Use of an eccentric viewing strategy to work around a central scotoma**
+**Correct answer: B. Yellowish retinal flecks in the macular region**
 
-- **A. Kyun sahi hai:** Central scotoma ka matlab central visual field mein reduced ya missing area hai. Eccentric viewing mein patient target ko thoda side se dekh kar better-functioning retinal area use kar sakta hai. Low-vision specialist functional training aur appropriate reading aids select karega.
+- **A. Kyun galat hai:** Subconjunctival hemorrhage eye surface ke neeche blood ka patch hota hai. Iska presence Stargardt-associated macular changes establish nahi karta aur usually central retinal visual function directly affect nahi karta.
 
-- **B. Kyun galat hai:** Side se dekhna visual adaptation ho sakta hai. Isko intentional noncooperation kehne se child's functional needs miss ho sakti hain.
+- **B. Kyun sahi hai:** Stargardt disease mein retinal cells ke andar vitamin A-related byproducts ka abnormal accumulation ho sakta hai. Fundus examination mein yellowish flecks macula ke aas-paas dikh sakte hain. Progressive central visual deficit ke context mein ye finding suspicion support karti hai. Specialist imaging aur genetic assessment se diagnosis clarify karega, kyunki flecks alone final proof nahi hain.
 
-- **C. Kyun galat hai:** Word identify kar pana central acuity normal prove nahi karta. Patient residual vision use kar raha ho sakta hai.
+- **C. Kyun galat hai:** Lacrimal punctum tear drainage system ka opening hai. Purulent discharge drainage infection suggest kar sakta hai, macular dystrophy ka retinal sign nahi hai.
 
-- **D. Kyun galat hai:** Residual vision ko use karna rehabilitation ka useful part hai. Peripheral vision prohibit karne se independence reduce ho sakti hai.
+- **D. Kyun galat hai:** External auditory canal ear ka part hai. Foreign body hearing ko affect kar sakta hai, central retinal visual loss ko explain nahi karta.
 
-**Exam clue:** Central field loss mein residual visual function ka effective use support karo.
+**Exam clue:** Central visual loss plus characteristic macular flecks inherited retinal disease evaluation ka clue hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/stargardt-disease).
 
@@ -299,3 +299,7 @@
 NEI Stargardt text, NCI uveal melanoma PDQ and plaque radiotherapy definition directly retrieved. MSK ocular brachytherapy, EyeWiki radiation retinopathy and solar retinopathy, AAO solar eye safety indexed. Q113 rehabilitation concept requires a specific additional source check before assembly. Historical search yielded specialty medical exam and sample-paper leads, not authenticated staff nurse items. No historical attribution asserted. Dedicated YouTube searches for Stargardt disease, choroidal melanoma and solar retinopathy found no defensible specific question-practice mapping. All ten exact-item video mappings remain pending.
 
 Pinned snapshot 1dd6a9e79828a1da62a82ba462b898e4c8172237: 38 chapter topic banks screened for candidate terms (Stargardt, ABCA4, melanoma, plaque, solar and radiation retinal injury), no matching stem or key. Prior 230 mock stems checked by exact normalization. Q113 needs targeted comparison against prior low-vision and AMD rehabilitation items. Q116 requires cross-chapter radiation nursing safety review. Q118–120 differ from prior chemical injury tasks, but comprehensive cross-chapter and linked concept/PYQ comparison remains pending. No deliberate reuse or universal uniqueness certification. Complete 120-item draft allocation is not a final assembled or clinically certified mock.
+
+### Replacement review — 27 November 2026
+
+Q113 replaced before assembly because the prior eccentric-viewing task duplicated AMD Q27. The replacement tests a specific Stargardt fundus finding supported by NEI clinical text. No new allocated slot counted. Original historical draft preserved in Git history. Fresh comparison and video verification remain pending.
