@@ -31,3 +31,12 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 [Indian Nursing Council curriculum](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf) · [AIIMS NORCET 10 official notice](https://www.aiimsraipur.edu.in/upload/vacancies/69a2c1a491171_Advertisement%20for%20NORCET%2010.pdf) · [NORCET 11 notice copy](https://dshelpingforever.co.in/wp-content/uploads/2026/07/AIIMS-NORCET-11-Recruitment-2026-Notification-PDF.pdf) · [OpenStax nursing textbooks](https://www2.openstax.org/nursing-2026)
 
 [Chapter](../README.md) · [MCQs](../MCQs/General-Knowledge-and-Aptitude-Topic-Wise-Starter-MCQs.md)
+
+
+## Individual-topic plan
+
+- [Number systems and divisibility](01-Number-Systems-and-Divisibility.md) — 30 new questions.
+- HCF and LCM — next.
+- Simplification and fractions, decimals, percentages, ratios and proportion, averages, profit/loss and discount, interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
+
+This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
