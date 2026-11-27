@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: CLAIMED
-Owner: whole-obg-menopause-procedures-1514
-Scope: Gynecology menopause and procedures Q21–Q40, new pelvic floor/prolapse bank, related evidence and local chapter README only
-Claimed UTC: 2026-11-27T15:14:00Z
-Expiry UTC: 2026-11-27T15:44:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
@@ -43,3 +43,14 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 - Cancers/Screening expansion Q21–Q40: 20 originals, 20 hidden answers, 80 option rationales, one original India VIA referral Mermaid flow. Commit af43a2a6b1f249b4fad67107e705485feb1ebee8, blob 5e65541aeb3ff7f10c9602e84732ffc2d14398e6; exact readback passed, zero exact matches against 244 prior Gynecology stems. MoHFW PIB 26 July 2025 retrieved directly, WHO/IARC/NCI indexed extracts. Topic-level video lead Q7S9IEkpUDM, exact playback/creator/mapping pending. Both combined banks now 40 slots each, not certification of 40 per individual disease.
 - Two new reported adaptations HPSSC Hamirpur Staff Nurse 5 August 2021 (radiation safety) and Haryana HSSC Staff Nurse 2019 (secondary prevention), direct third-party reports retrieved, official paper and key pending. Commit 578fe4ada50451c25483d3f7147bd30d979feadd, blob 2a17eb09e1ad309d05739239e72b536cd00f538c, exact readback, two hidden answers and eight option rationales. NVS 2022 ambiguous screening item and UPPSC 2017 indexed fibroid lead not counted. Register updated and read back f3353a8be5b113c7cda4323fcaa3084da2f42c92.
 - README reconciled 284 original slots across 16 files including 20 Menopause and 20 Procedures from parallel jobs, four reported adaptations separately indexed. Commit 5f6e3e5845e6ef545a2e1e5200f0808af82e767a, blob dbbabc58b5217240e959b4031b1503f0473b5b12; exact readback. All 284 question headings and answer blocks counted across inventory plus late procedure bank. No standalone theory or mocks added. Both skill files retrieved at unchanged SHAs; relevant rules previously reviewed, full fresh line-by-line review of both and audit history not certified. Mermaid render not verified. Next: recheck all claims, inventory and Obstetrics current count, expand menopause/perimenopause and procedures/postoperative nursing Q21–Q40, then pelvic floor/prolapse, menstrual disorders, ovarian cysts, breast disorders as syllabus requires, remaining subtopic depth, all-India PYQs, video mappings and ten distinct 120-question mocks after topic banks. Preserve other jobs' work.
+
+
+## Verified manual continuation — 27 November 2026
+
+- Menopause Q21–Q40: 20 originals, 80 individual option explanations, 20 hidden answers and matching correct option text structurally verified after initial tool-limit interruption. Commit f74ee62d37d34d696ebbd1d72f1cb66a2646a0eb, blob 99b1ad7801710b41d24f073282a4e96368e5eef4. Exact original draft equality not independently rechecked after interruption. Normalized stem comparison against then-current inventory completed before write.
+- Procedures/postoperative Q21–Q40: 20 originals, 80 option rationales, 20 hidden answers, exact readback. Commit 7a54e3d1855d20b742ee416dc473e5d8c4cd42f4, blob 9e2203508550ca80a568b382493d188c726aa7fd. Exact stem comparison against 104 related originals, no full semantic audit claimed.
+- Pelvic floor/prolapse Q1–Q30: 30 originals, 120 option rationales, exact readback. Commit 8bd472ff0916c06a01b53f682f86aad4a57341a9, blob 6b41fdc76ebfddcc79b42bf81a4f99c7b6c4593a. 30 distinct normalized stems compared with 164 related existing stems, no exact match. Three original Mermaid diagrams across new original banks. Rendering untested.
+- Three independently worded reported adaptations: menopause/procedures file commit 43deee488c389d1881f656354fdb2e39ba496f4d (two questions; RPSC 2011, RRB 2019 / ESIC 2016 same concept), pelvic floor file commit 12a560681cb9321b6eafd5765a53e8d7f788387d (one question; reported UPSC ESIC 7 July 2024). Exact readbacks passed. No official paper/key claim. Total seven gynecology adaptations. Research register commit 292f64a221e2feaca6be37607811e1b55c76455e, exact readback.
+- Reconciled parallel breast Q1–20 and PCOS Q1–20, verified 20 headings and 20 details each. Gynecology README 394 original slots including 4 starters, 7 adaptations separately, commit d07c3658a73e656e8658cc2567b19a4efdfeb947 exact readback. 70 original questions and 3 adaptations added in this run. 40 parallel originals preserved and indexed. Obstetrics last checked 44 original slots and left untouched. No new standalone theory or mocks; no global tracker edit.
+- Both complete SKILL.md files reviewed, latest audit excerpt read (not full historical audit log). NICE/IMS sources partly indexed due access blocks, RCOG pages and NHS resources retrieved. Topic-level MCQ video leads only, no item-specific playback verified; pelvic videos pending. Further clinical source mapping and full semantic audit remain pending. New pelvic bank cycles answer letters, to consider for future quality audit without replacing historical records.
+- Next: check all claims and fresh inventory, complete pelvic Q31–40 and remaining breast and PCOS/hormonal Q21–40, map remaining individual disorders and Obstetrics gaps, expand sourced reported exam coverage. Ten separate original-only 120-question chapter mocks after topic banks, without reuse. Preserve all existing files and independent claims.
