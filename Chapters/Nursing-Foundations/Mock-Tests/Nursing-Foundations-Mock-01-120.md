@@ -1014,10 +1014,18 @@ Cuff deflate karne par artery mein blood spurts start hote hain. First clear tap
 
 **Correct: B. Check hearing aids, reduce background noise and face the patient clearly**
 
-Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur environment improve karke clear speech use karti hai.
+<!-- job5-rationale -->
+Hearing loss communication barrier hai, automatically cognitive impairment nahi. Nurse patient ki preferred communication method pooche, hearing aid function check kare, noise reduce kare aur face visible rakhe. Normal clear voice aur suitable pace use kare. Written support ya interpreter patient ki need ke according arrange karo aur understanding verify karo.
 
-**Baaki options kyun sahi nahi hain?** Shouting sound distort kar sakti hai. Hearing loss dementia prove nahi karta. Facing away visual cues reduce karta hai.
+**Option-by-option reasoning**
 
+- **A:** A face away karne se visual speech cues aur clarity kam hoti hai.
+- **B:** B sensory access improve karta hai, isliye first appropriate response hai.
+- **C:** C shouting speech distort kar sakti hai aur discomfort create kar sakti hai.
+- **D:** D hearing barrier ko dementia assume karna unsupported hai.
+
+**Exam clue:** First remove communication barriers, then assess understanding.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -1131,10 +1139,18 @@ Grief natural response hai aur har person ka pattern different ho sakta hai. Nur
 
 **Correct: A. Remain present quietly and allow time for the patient to respond**
 
-Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse supportive presence maintain kar sakti hai.
+<!-- job5-rationale -->
+Difficult news ke baad silence patient ko information process karne aur emotion settle karne ka time de sakta hai. Therapeutic silence ka matlab nurse attentive presence maintain karti hai, patient ko abandon nahi karti. Patient ready ho toh gently invite karo ki woh apni feeling share kare. Distress ke saath acute safety concern ho toh promptly assess karo.
 
-**Baaki options kyun sahi nahi hain?** Demand pressure create karti hai. Topic change aur crying rokna feelings dismiss kar sakte hain.
+**Option-by-option reasoning**
 
+- **A:** A quiet supportive presence aur adequate response time deta hai.
+- **B:** B crying ko suppress karta hai aur emotion expression discourage karta hai.
+- **C:** C pressure create karta hai jab patient ready nahi ho sakta.
+- **D:** D emotional concern se topic divert karta hai.
+
+**Exam clue:** Silence with presence is an active therapeutic technique.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
@@ -1185,10 +1201,18 @@ Unconscious patient secretions safely swallow nahi kar paata. Suitable side or h
 
 **Correct: A. When you say you feel weak, do you mean dizziness or difficulty moving your legs?**
 
-Clarification vague information ko specific banati hai. Nurse patient se meaning confirm karke assessment accurate karti hai.
+<!-- job5-rationale -->
+Clarification ka matlab ambiguous message ka exact meaning patient se verify karna hai. Weakness word dizziness, fatigue ya movement difficulty ke liye use ho sakta hai. Nurse options poochkar meaning clear karti hai aur patient ko other description ka chance bhi deti hai. Sudden focal weakness ya acute dizziness mein urgent clinical assessment bhi zaroori ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Exact feelings assume karna, advice impose karna aur disbelief communication block kar sakte hain.
+**Option-by-option reasoning**
 
+- **A:** A unclear term ka meaning verify karne ki koshish karta hai.
+- **B:** B patient ki statement reject karta hai.
+- **C:** C unsolicited directive patient ki own perspective explore nahi karti.
+- **D:** D exact feeling know karne ka assumption hai, clarification nahi.
+
+**Exam clue:** Clarify ambiguous words, never assume their meaning.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
@@ -1270,10 +1294,18 @@ Adult CPR mein 100–120 compressions per minute recommended hain. Rate ke saath
 
 **Correct: D. Can you tell me what worries you most about the surgery?**
 
-Open-ended question patient ko apni concern explain karne ka chance deta hai. Nurse phir specific information aur support de sakti hai.
+<!-- job5-rationale -->
+Therapeutic communication ka purpose patient ko safe environment dena hai jahan woh apne concerns honestly share kar sake. Surgery ka fear pain, anesthesia, outcome ya family concern se related ho sakta hai. Open-ended question patient ko apne words mein main worry batane deta hai. Nurse phir specific information aur support de sakti hai. Pehle fear explore karo, phir reassure karne ki jagah factual explanation do.
 
-**Baaki options kyun sahi nahi hain?** False reassurance, comparison aur feelings dismiss karna communication ko block kar sakta hai.
+**Option-by-option reasoning**
 
+- **A:** A patient ko batata hai ki uski feeling galat hai, jo judgmental hai.
+- **B:** B outcome ke baare mein unsupported reassurance deta hai.
+- **C:** C fear ko trivialize karta hai aur patient ko bolne se rokta hai.
+- **D:** D specific concern explore karta hai aur conversation open rakhta hai.
+
+**Exam clue:** Open-ended question = explore, not dismiss.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
