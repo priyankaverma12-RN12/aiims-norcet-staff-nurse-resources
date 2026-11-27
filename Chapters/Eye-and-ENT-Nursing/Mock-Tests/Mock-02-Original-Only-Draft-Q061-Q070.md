@@ -17,13 +17,13 @@
 
 **Correct answer: B. Install and maintain suitable gas and smoke alarms and use food safety dates rather than smell**
 
-- **A. Kyun galat hai:** Anosmia mein smell perceive nahi hoti ya bahut impaired hoti hai. Gas ki smell par depend karna unsafe ho sakta hai, kyunki leak ka warning signal patient miss kar sakta hai.
+- **A. Kyun galat hai:** Anosmia ka matlab smell ki sense ka poori tarah loss hona hai. Gas mein warning ke liye jo smell milayi jaati hai, patient use pehchan nahi paayega. Isliye gas leak ka pata lagane ke liye uski smell par bharosa karna unsafe hai.
 
-- **B. Kyun sahi hai:** Suitable functioning alarms se gas leak aur fire ke warnings smell ke bina mil sakte hain. Food storage aur expiry guidance follow karo, kyunki spoiled food ki odour identify karna bhi difficult ho sakta hai. Household safety plan individual setup ke according banana chahiye.
+- **B. Kyun sahi hai:** Smell humein aag, gas leak aur kharab khane jaise dangers ka warning signal deti hai. Jab patient smell nahi kar paata, toh suitable fuel-gas detector aur smoke alarm se bina smell ke warning mil sakti hai. Nurse patient ko alarms ki maintenance aur testing samjhayegi. Khane ke liye safe storage, use-by date aur storage time follow karna bhi zaroori hai. Agar food ki safety par doubt ho, toh use discard karein. Sirf date se bhi har food ki safety guarantee nahi hoti.
 
-- **C. Kyun galat hai:** Perfume underlying smell loss ko restore nahi karta aur dangerous odours detect karne ka reliable method nahi hai.
+- **C. Kyun galat hai:** Perfume ki smell badhane se lost olfactory function wapas nahi aata. Isse gas leak ya smoke detect karne ka reliable system bhi nahi banta. Patient ko actual safety devices aur practical precautions ki zaroorat hai.
 
-- **D. Kyun galat hai:** Suspected spoiled food taste karne se infection ya food poisoning ka risk ho sakta hai. Safe storage aur date information use karo.
+- **D. Kyun galat hai:** Kuch harmful bacteria ya toxins food mein hone par smell aur taste normal bhi ho sakte hain. Isliye suspicious food ko taste karke check karna food poisoning ka risk badha sakta hai. Nurse safe storage aur doubtful food ko discard karne ki advice degi.
 
 **Exam clue:** Loss of smell ka nursing impact sirf appetite nahi, household safety bhi hai.
 
@@ -46,13 +46,13 @@
 
 **Correct answer: A. Parosmia**
 
-- **A. Kyun sahi hai:** Parosmia mein actual odour present hoti hai, lekin patient uski quality distorted perceive karta hai. Yahan coffee real stimulus hai aur uski perceived smell badal gayi hai.
+- **A. Kyun sahi hai:** Parosmia mein koi real smell present hoti hai, lekin brain us smell ko pehle se alag tarah perceive karta hai. Yahan coffee sach mein saamne hai, par patient ko rotten vegetables jaisi smell aa rahi hai. Isliye is symptom ko parosmia kehte hain. Nurse trigger aur symptoms ki duration record karegi.
 
-- **B. Kyun galat hai:** Phantosmia mein person aisi smell perceive karta hai jab corresponding external odour stimulus present nahi hota. Yahan actual coffee stimulus present hai.
+- **B. Kyun galat hai:** Phantosmia mein patient ko smell mehsoos hoti hai jab us smell ka actual external source nahi hota. Is case mein coffee present hai aur uski smell distorted hai. Isliye phantosmia ke bajay parosmia zyada accurate term hai.
 
-- **C. Kyun galat hai:** Anosmia complete loss of smell ko describe karti hai. Patient odour perceive kar raha hai, lekin altered form mein.
+- **C. Kyun galat hai:** Anosmia mein patient ki smell sense poori tarah chali jaati hai. Is patient ko coffee ki smell mehsoos ho rahi hai, bas uski quality badal gayi hai. Isliye complete smell loss wali term yahan fit nahi hoti.
 
-- **D. Kyun galat hai:** Hyposmia reduced smell sensitivity hai. Is stem ka main finding intensity kam hona nahi, smell quality ka distorted hona hai.
+- **D. Kyun galat hai:** Hyposmia ka matlab smells detect karne ki ability kam ho jaana hai. Misal ke liye normal perfume bahut faint lag sakta hai. Yahan main complaint smell ki intensity kam hona nahi, balki coffee ki smell galat quality mein mehsoos hona hai.
 
 **Exam clue:** Real stimulus ki distorted smell parosmia hai. Stimulus ke bina smell phantosmia hai.
 
@@ -75,13 +75,13 @@
 
 **Correct answer: C. Ask the treating clinician about structured smell training and realistic recovery expectations**
 
-- **A. Kyun galat hai:** Household cleaning chemicals irritant ya toxic ho sakte hain. Smell rehabilitation ke naam par hazardous vapours inhale nahi karne chahiye.
+- **A. Kyun galat hai:** Cleaning chemicals ke vapours naak aur lungs ki lining ko irritate kar sakte hain. Kuch chemicals toxic bhi hote hain. Olfactory rehabilitation ke liye unsafe household chemicals ko inhale karne ki salah nahi deni chahiye.
 
-- **B. Kyun galat hai:** Post-viral smell dysfunction automatically bacterial infection nahi hoti. Unnecessary antibiotics adverse effects aur resistance ka risk badhate hain.
+- **B. Kyun galat hai:** Viral illness ke baad smell system ki functioning disturb ho sakti hai. Isse bacterial infection prove nahi hoti. Bina indication antibiotics lene se side effects aur antibiotic resistance ka risk badhta hai, aur smell loss ka underlying cause bhi address nahi hota.
 
-- **C. Kyun sahi hai:** Smell training mein selected safe familiar odours ko structured manner mein repeatedly identify karne ki practice hoti hai. Kuch patients mein benefit ho sakta hai, lekin recovery guaranteed nahi hai. Underlying cause aur clinical advice ke according plan follow karo.
+- **C. Kyun sahi hai:** Smell training mein patient safe aur pehchani hui smells ko regularly smell karne ki practice karta hai. Isse kuch post-viral patients mein smell function improve ho sakta hai, lekin recovery sab mein ek jaisi nahi hoti. Nurse clinician ke assessment aur advised training plan ko support karegi. Patient ko household safety precautions bhi jaari rakhne chahiye.
 
-- **D. Kyun galat hai:** Recovery duration variable hoti hai aur smell loss kabhi persistent bhi reh sakta hai. Fixed one-week guarantee accurate counselling nahi hai.
+- **D. Kyun galat hai:** Viral illness ke baad smell recovery mein weeks ya months lag sakte hain aur kuch patients mein problem persistent reh sakti hai. Ek hafte mein complete recovery ki guarantee dena accurate counselling nahi hai. Persistent ya changing symptoms par clinician follow-up zaroori hai.
 
 **Exam clue:** Structured rehabilitation aur unsafe irritant exposure ko confuse mat karo.
 
@@ -104,13 +104,13 @@
 
 **Correct answer: D. Rebound congestion associated with prolonged topical decongestant use**
 
-- **A. Kyun galat hai:** History alone bacterial sinusitis confirm nahi karti. Medication duration aur relief ke baad worsening ka pattern drug-related problem ka strong clue hai.
+- **A. Kyun galat hai:** Bacterial sinusitis ka diagnosis symptoms, unki duration aur clinical assessment se hota hai. Is history mein spray ke baad relief aur phir zyada congestion ka repeated pattern medicine overuse ki taraf ishara karta hai. Sirf history se bacterial infection confirm nahi kar sakte.
 
-- **B. Kyun galat hai:** Topical vasoconstrictor initially blood vessels constrict karke congestion temporarily reduce karta hai. Repeated prolonged use se persistent benefit guaranteed nahi hota.
+- **B. Kyun galat hai:** Oxymetazoline nasal lining ki blood vessels ko temporarily narrow karta hai, jisse swelling aur blockage kuch samay ke liye kam hoti hai. Iska effect permanent nahi hai. Recommended duration se zyada use karne par effect kam ho sakta hai aur congestion worsen ho sakti hai.
 
-- **C. Kyun galat hai:** Oxymetazoline ka primary action nasal vascular congestion par hota hai. Ye olfactory nerve regeneration ki medicine nahi hai.
+- **C. Kyun galat hai:** Oxymetazoline ka main action nasal blood vessels par hota hai. Ye damaged olfactory nerve ko regenerate karne ki medicine nahi hai. Isliye patient ke temporary relief ko nerve recovery nahi samajhna chahiye.
 
-- **D. Kyun sahi hai:** Prolonged topical decongestant use se rebound swelling aur rhinitis medicamentosa develop ho sakti hai. Patient blockage ko original illness samajh kar dose badha sakta hai, jisse overuse cycle continue hota hai. Medication review aur clinical guidance arrange karo.
+- **D. Kyun sahi hai:** Rhinitis medicamentosa ka matlab topical nasal decongestant ke overuse se hone wali persistent congestion hai. Jab medicine ka effect khatam hota hai, toh nasal lining dobara swell ho sakti hai. Patient ko lagta hai ki aur spray chahiye, isliye overuse ka cycle chalne lagta hai. Nurse dose aur duration ki history legi aur clinician se withdrawal plan discuss karwayegi. UK MHRA ki 2026 guidance in drugs ko paanch consecutive din se zyada use na karne ki salah deti hai. Local product instructions aur clinician advice bhi check karein.
 
 **Exam clue:** Dose ke baad temporary relief aur effect khatam hone par worsening rebound cycle ka clue hai.
 
@@ -133,13 +133,13 @@
 
 **Correct answer: B. Explain that temporary rebound may occur and contact the treating clinician about the agreed withdrawal and symptom-control plan**
 
-- **A. Kyun galat hai:** Frequent unsupervised restart overuse cycle ko maintain kar sakta hai. Treating clinician ki withdrawal plan se deviation discuss karna chahiye.
+- **A. Kyun galat hai:** Same high-frequency spray dobara shuru karne se temporary relief mil sakta hai, lekin rebound congestion ka cycle phir continue ho sakta hai. Nurse patient ko agreed withdrawal plan follow karne aur difficulty hone par clinician se contact karne ko kahegi.
 
-- **B. Kyun sahi hai:** Withdrawal ke baad nasal congestion temporarily worse ho sakti hai. Isse treatment failure automatically prove nahi hota. Patient ko expected course samjhao aur prescribed support aur follow-up plan clarify karo. New severe symptoms mein medical assessment chahiye.
+- **B. Kyun sahi hai:** Jab overused topical decongestant ko withdraw kiya jaata hai, toh nasal blockage kuch samay ke liye aur badh sakti hai. Iska matlab zaroori nahi ki treatment fail ho gaya hai. Nurse patient ko expected rebound samjhayegi aur clinician ke agreed gradual withdrawal aur symptom-control plan ko reinforce karegi. Worsening ya severe symptoms par reassessment ki zaroorat hai.
 
-- **C. Kyun galat hai:** Temporary worsening se permanent structural obstruction establish nahi hota. Examination aur response to treatment se cause assess hota hai.
+- **C. Kyun galat hai:** Withdrawal ke baad temporary congestion hone se permanent structural obstruction prove nahi hota. Clinician nasal examination aur recovery ke pattern ko dekhkar decide karega ki koi doosra cause bhi present hai ya nahi.
 
-- **D. Kyun galat hai:** Doosre vasoconstrictor ka indefinite use bhi rebound problem cause kar sakta hai. Drug switch se underlying overuse automatically resolve nahi hota.
+- **D. Kyun galat hai:** Doosra topical vasoconstrictor bhi prolonged use par rebound congestion ka risk rakh sakta hai. Ek spray ko doosre spray se indefinitely replace karne se underlying overuse cycle khatam nahi hota. Alternative treatment clinician ke plan ke according hona chahiye.
 
 **Exam clue:** Withdrawal counselling se patient rebound ko galat tarah treatment failure nahi samjhega.
 
@@ -162,13 +162,13 @@
 
 **Correct answer: C. Clinician-directed skin testing or serum allergen-specific IgE testing**
 
-- **A. Kyun galat hai:** Skull radiography allergy sensitization identify nahi karti. Typical allergic rhinitis mein routine sinonasal imaging indicated nahi hoti.
+- **A. Kyun galat hai:** Skull X-ray se kisi specific allergen ke against immune sensitization ka pata nahi chalta. Typical allergic rhinitis ke assessment mein routine sinonasal imaging ki zaroorat nahi hoti. Imaging kisi doosre suspected structural problem ke liye clinician decide kar sakta hai.
 
-- **B. Kyun galat hai:** Rhinitis ke routine evaluation mein broad food testing recommended nahi hai. Clinical history ke according relevant aeroallergen select karna important hai.
+- **B. Kyun galat hai:** Allergic rhinitis aksar hawa mein present allergens, jaise pollen ya dust mites, ke exposure se hoti hai. Unselected food intolerance testing is patient ke symptoms ka reliable primary investigation nahi hai. History ke basis par relevant allergen select karna chahiye.
 
-- **C. Kyun sahi hai:** Specific IgE testing skin ya blood ke through suspected allergen sensitization assess kar sakti hai. Results ko exposure aur symptoms ke saath correlate karna chahiye, kyunki positive sensitization alone clinical allergy establish nahi karti.
+- **C. Kyun sahi hai:** Allergen-specific IgE antibodies immune sensitization ka evidence de sakti hain. Skin prick testing ya blood mein specific IgE measurement se relevant trigger identify karne mein madad mil sakti hai. Jab empiric treatment se control nahi milta ya diagnosis unclear ho, toh guideline targeted testing support karti hai. Positive test ko symptoms aur actual exposure se match karna zaroori hai, kyunki sensitization akeli symptomatic allergy prove nahi karti.
 
-- **D. Kyun galat hai:** Sputum culture lower respiratory infection evaluate karne ke selected situations mein useful hai. Is case mein primary diagnostic question allergen identification hai.
+- **D. Kyun galat hai:** Sputum culture lower respiratory infection ke selected cases mein organism identify karne mein help kar sakti hai. Lekin nasal allergy ke trigger ka pata lagane ke liye routine sputum cultures useful nahi hain. Test clinical question ke according choose hona chahiye.
 
 **Exam clue:** Empiric therapy failure ya uncertain diagnosis mein targeted allergy testing useful ho sakti hai.
 
@@ -191,13 +191,13 @@
 
 **Correct answer: A. Allergen-specific immunotherapy assessment by a suitably trained clinician**
 
-- **A. Kyun sahi hai:** Allergen immunotherapy selected patients mein relevant allergen ke prati immune response modify karne ka approach hai. Specialist confirmed trigger, symptom burden, contraindications aur risk assess karke appropriate route decide karta hai. Ye immediate self-treatment nahi hai.
+- **A. Kyun sahi hai:** Allergen-specific immunotherapy mein selected allergen ke against immune response ko time ke saath modify karne ki koshish ki jaati hai. Jab suitable medicines aur reasonable exposure control ke bawajood symptoms remain karein, toh trained specialist assessment consider kar sakta hai. Specialist trigger confirm karega aur asthma control, contraindications aur reaction risk assess karega. Patient khud se immunotherapy start nahi karega.
 
-- **B. Kyun galat hai:** Allergic rhinitis immune-mediated condition hai. Long-term antibiotics allergy response treat nahi karte aur unnecessary harms cause kar sakte hain.
+- **B. Kyun galat hai:** Antibiotics bacteria ke against kaam karti hain, jabki allergic rhinitis immune reaction ke kaaran hoti hai. Isliye bina bacterial infection ke indefinite antibiotics allergy control nahi karengi aur unnecessary harms ka risk badhayengi.
 
-- **C. Kyun galat hai:** Nasal septum ko routinely remove karna allergy ka treatment nahi hai. Structural surgery ka indication separate assessment se decide hota hai.
+- **C. Kyun galat hai:** Nasal septum dono nostrils ke beech ki wall hai. Structural obstruction ke selected cases mein surgery useful ho sakti hai, lekin routinely septum remove karna allergic immune response ka treatment nahi hai.
 
-- **D. Kyun galat hai:** All outdoor activity permanently stop karna unnecessary restriction ho sakta hai. Exposure advice identified triggers aur patient ke practical needs ke according individualized honi chahiye.
+- **D. Kyun galat hai:** Har patient ka trigger alag ho sakta hai. Permanent outdoor activity ban se daily life aur physical activity unnecessary restrict ho sakti hai. Exposure precautions identified allergen aur patient ki needs ke hisaab se plan karni chahiye.
 
 **Exam clue:** Inadequate control ke baad specialist immunotherapy assessment consider ho sakta hai.
 
@@ -220,13 +220,13 @@
 
 **Correct answer: D. Document and escalate the lower-airway symptoms for asthma assessment**
 
-- **A. Kyun galat hai:** Allergic rhinitis aur asthma coexist kar sakte hain. Sirf nose ke symptoms record karne se important respiratory problem miss ho sakti hai.
+- **A. Kyun galat hai:** Naak aur lungs ki airway problems ek hi patient mein saath ho sakti hain. Allergic rhinitis ke saath asthma bhi present ho sakta hai. Sirf nasal symptoms record karne se important breathing problem miss ho sakti hai.
 
-- **B. Kyun galat hai:** Wheezing aur night cough asthma ke possible clues hain, lekin infection ya other causes bhi consider hote hain. Pneumonia diagnosis bina assessment establish nahi karna chahiye.
+- **B. Kyun galat hai:** Night-time cough aur wheeze asthma ke clues ho sakte hain, lekin infection aur doosre causes bhi possible hain. Bina respiratory assessment pneumonia ka diagnosis confirm nahi karna chahiye. Nurse symptoms aur vital signs report karegi.
 
-- **C. Kyun galat hai:** Prescribed inhalers ko independently stop karna unsafe ho sakta hai. Medication review treating clinician ke saath hona chahiye.
+- **C. Kyun galat hai:** Prescribed inhalers ko achanak band karne se asthma control worsen ho sakta hai. Medicine mein changes clinician ke assessment ke baad hone chahiye. Nurse inhaler use ki history aur adherence check karegi, lekin independently medicine stop nahi karegi.
 
-- **D. Kyun sahi hai:** Nasal allergy review mein associated asthma symptoms assess aur document karna guideline-supported hai. Lower-airway symptoms ke liye clinical assessment arrange karo, aur acute respiratory distress ho toh immediate escalation karo.
+- **D. Kyun sahi hai:** Asthma mein lower airways narrow aur inflamed ho sakti hain, jisse wheezing aur raat mein cough ho sakta hai. Allergic rhinitis review mein associated asthma symptoms assess karna important hai. Nurse breathing, oxygen saturation jab indicated ho, symptoms ka pattern aur prescribed inhaler use assess karke clinician ko report karegi. Acute respiratory distress ho toh immediate emergency assessment chahiye.
 
 **Exam clue:** Upper aur lower airway symptoms ko integrated assessment mein dekho.
 
@@ -249,13 +249,13 @@
 
 **Correct answer: A. Avoid strenuous lifting during the surgeon-advised recovery period because it may increase swelling and bleeding**
 
-- **A. Kyun sahi hai:** Early recovery mein heavy lifting se swelling aur bleeding ka risk badh sakta hai. Surgeon ki individualized activity restrictions follow karo. Mild expected blockage ho sakti hai, lekin worsening pain, fever ya significant bleeding report karo.
+- **A. Kyun sahi hai:** Septoplasty ke baad andar ki nasal lining aur operated tissues heal ho rahe hote hain. Heavy lifting ya strenuous activity se swelling aur bleeding ka risk badh sakta hai. Nurse surgeon ki recovery restrictions reinforce karegi. Mild blockage healing ke dauran expected ho sakti hai, lekin significant bleeding, increasing pain, fever ya worsening obstruction par medical review chahiye.
 
-- **B. Kyun galat hai:** Physical exertion surgically corrected septum ko align karne ka safe method nahi hai. Isse healing disturb ho sakti hai.
+- **B. Kyun galat hai:** Septum ko surgeon operation ke dauran correct karta hai. Heavy load uthane se septum ko safely align nahi kiya ja sakta. Iske badle exertion healing tissues par stress daal sakta hai aur bleeding ka risk badha sakta hai.
 
-- **C. Kyun galat hai:** Postoperative blockage swelling ya dressings ki wajah se ho sakti hai. Exercise se ise forcefully resolve karne ka advice appropriate nahi hai.
+- **C. Kyun galat hai:** Postoperative swelling aur nasal dressings ki wajah se nose blocked feel ho sakti hai. Strenuous exercise is swelling ko forcefully remove karne ka treatment nahi hai. Patient ko prescribed care aur gradual return to activity follow karni chahiye.
 
-- **D. Kyun galat hai:** Early obstruction expected healing phase ka part ho sakti hai. Final outcome follow-up examination se assess hota hai, immediate symptoms se permanent failure conclude nahi karte.
+- **D. Kyun galat hai:** Early postoperative blockage ka matlab hamesha surgery fail hona nahi hai. Swelling settle hone mein samay lag sakta hai. Surgeon follow-up examination se healing aur final breathing outcome assess karega. Worsening symptoms ko phir bhi ignore nahi karna chahiye.
 
 **Exam clue:** Nasal surgery ke baad exertion restriction bleeding prevention ka part hai.
 
@@ -278,13 +278,13 @@
 
 **Correct answer: B. Contact the surgical service and avoid manipulating the splint until individualized advice is obtained**
 
-- **A. Kyun galat hai:** External splint healing nasal structures ko protect aur support karta hai. Unplanned removal se protection kam ho sakti hai. Surgical team se instructions lena appropriate hai.
+- **A. Kyun galat hai:** External splint healing nasal bones aur tissues ko support aur protect karta hai. Patient ko ise scheduled review se pehle khud kheenchkar nahi nikalna chahiye. Loose splint ke liye surgical service se advice lena safer hai.
 
-- **B. Kyun sahi hai:** Loose splint ko khud manipulate karne ke bajay operating service ko inform karo. Team decide karegi ki earlier review ya adjustment needed hai. Injury ya significant bleeding ho toh urgency assess karo.
+- **B. Kyun sahi hai:** Septorhinoplasty ke baad external splint reshaped nasal structures ko support karta hai. Agar splint loose ho raha hai, toh nurse patient ko operating surgical service se contact karne ko kahegi. Team decide karegi ki earlier examination ya adjustment chahiye. Patient tab tak splint ko forcefully manipulate nahi karega. Significant bleeding ya injury par urgent assessment chahiye.
 
-- **C. Kyun galat hai:** Rigid object insert karne se skin aur healing tissues injure ho sakte hain. Splint adjustment trained staff ke advice par hona chahiye.
+- **C. Kyun galat hai:** Splint ke neeche rigid object daalne se skin aur healing nasal structures ko injury ho sakti hai. Patient ko ghar par splint tighten karne ki koshish nahi karni chahiye. Adjustment ki zaroorat surgical team assess karegi.
 
-- **D. Kyun galat hai:** Healing nose par forceful pressure surgical result compromise kar sakta hai. Shape assessment aur correction specialist ka kaam hai.
+- **D. Kyun galat hai:** Operation ke baad nose ki bones aur soft tissues abhi heal ho rahe hote hain. Forceful pressure unki position ya healing disturb kar sakta hai. Nose ki shape ko khud se correct karne ke bajay patient ko specialist review lena chahiye.
 
 **Exam clue:** Protective splint ki problem ko report karo, self-adjustment avoid karo.
 
@@ -293,6 +293,10 @@
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
 </details>
+
+## Clinical rereview — 28 November 2026
+
+All ten questions and 40 option rationales independently model-rereviewed, expanded into complete conversational Roman Hinglish sentences. Existing English stems, options, answer keys, difficulty, priority and hidden answers preserved. NHS smell guidance, 2026 MHRA safety update, March 2026 StatPearls, AAO-HNS allergic rhinitis and NHS hospital postoperative guidance directly retrieved. Additional NIDCD smell definitions and NIH olfactory training sources indexed. Dedicated question-specific video coverage remains pending, existing three supplementary descriptions retained. See [audit ledger](Mock-02-Structural-and-Semantic-Audit.md).
 
 ## Research and bounded validation — 27 November 2026
 
