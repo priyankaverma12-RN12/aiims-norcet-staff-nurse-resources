@@ -2,8 +2,6 @@
 
 **Mock 01 complete-length practice edition is published; final clinical and exhaustive semantic validation remain pending.** The goal is 10 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
 
-## Test availability
-
 | Mock | Target | Published |
 |---|---:|---|
 | 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |
@@ -81,4 +79,4 @@ Publication and replacement commits: 23aae2cd49fc974541a6b1a28ac069f222baa584; 1
 
 All 1,094 indexed bank headings compared against then-current 120 stems with zero exact matches; bounded semantic candidate review and post-replacement targeted screening completed. Fresh targeted concept/PYQ, full-length mocks and revision comparisons recorded in ledger. Unlinked material and exhaustive post-replacement comparison remain pending. All 40 new exact-item video mappings unverified, two description-level supplementary leads only. Full independent clinical rereview of all 120 items/480 rationales, comprehensive source and semantic validation and rendered UI check pending. Both skills retrieved in bounded ranges, AGENTS and Copilot read, current audit learning excerpts and claims checked. Full historical audit log reread not certified. Next: finish Mock 02 validation before safe assembly; do not begin Mock 03 prematurely. Preserve completed Mock 01 rereview.
 
-<!-- Mock-only scope claim: FREE. Owner: none. Released after verified 120 staged slots and audit ledger. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-clinical-20261127-1855. Scope: Mock 02 Q001–Q010 draft, Mock 02 audit ledger and mock plan only. Claimed UTC: 2026-11-27T18:55:25Z. Expiry UTC: 2026-11-27T19:25:25Z. -->

@@ -4,7 +4,7 @@
 
 ### Q1. Two unlabeled blood specimens are found beside different patients. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Follow rejection or recollection policy without guessing identity
 - **B.** Label by nearest bed
@@ -32,9 +32,11 @@ Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se li
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q59](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q59-two-unlabeled-blood-specimens-are-found-beside-different-patients-what-should-the-nurse-do)
+
 ### Q2. When should a specimen be labeled according to bedside identification policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** At the nursing station hours later
 - **B.** Before identifying the patient
@@ -62,9 +64,11 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q21](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q21-when-should-a-specimen-be-labeled-according-to-bedside-identification-policy)
+
 ### Q3. What reduces blood culture contamination?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Collect from any line without reviewing indication
 - **B.** Leave bottle tops exposed
@@ -92,9 +96,11 @@ Blood culture blood mein bacteria ya fungi detect karne ke liye hoti hai. Skin p
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q108](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q108-what-reduces-blood-culture-contamination)
+
 ### Q4. In suspected sepsis, when should ordered blood cultures be collected relative to urgent antibiotics?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Never when antibiotics are ordered
 - **B.** Before antibiotics when feasible without meaningful treatment delay
@@ -122,9 +128,11 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q109](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q109-in-suspected-sepsis-when-should-ordered-blood-cultures-be-collected-relative-to-urgent-antibiotics)
+
 ### Q5. Which additive is commonly used for a CBC sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Delhi Nursing Officer, 16 September 2018 — related reported concept**
 
 - **A.** No additive with clot formation
 - **B.** EDTA
@@ -148,13 +156,17 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
 
+**Related historical evidence:** [AIIMS Delhi Nursing Officer, 16 September 2018 — memory-based report](https://testbook.com/question-answer/anticoagulant-present-in-hemogram-vial--62bd5c0ecc48a16cb684456c). Yeh third-party question hemogram ke anticoagulant ka concept test karta hai. Official paper aur key independently authenticate nahi hue hain. Yeh exact PYQ nahi hai.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q30](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q30-which-additive-is-commonly-used-for-a-cbc-sample)
+
 ### Q6. Which additive is used for routine PT and aPTT samples?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Sodium citrate with correct blood-to-additive ratio
 - **B.** EDTA as the standard
@@ -182,9 +194,11 @@ PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clo
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q52](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q52-which-additive-is-used-for-routine-pt-and-aptt-samples)
+
 ### Q7. Why can a markedly underfilled citrate tube affect coagulation tests?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It improves accuracy
 - **B.** It prevents all calcium binding
@@ -212,9 +226,11 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q50](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q50-why-can-a-markedly-underfilled-citrate-tube-affect-coagulation-tests)
+
 ### Q8. How should a filled anticoagulant tube be mixed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Open and stir with a nonsterile stick
 - **B.** Allow it to clot completely
@@ -242,9 +258,11 @@ Anticoagulant ko collected blood mein uniformly mix hona chahiye. Manufacturer k
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q48](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q48-how-should-a-filled-anticoagulant-tube-be-mixed)
+
 ### Q9. An unexpectedly high potassium result comes from a hemolyzed sample. What should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Hemolysis always causes low potassium
 - **B.** No patient assessment is needed
@@ -272,9 +290,11 @@ Hemolysis ka matlab blood cells ka tootna hai. Red blood cells ke andar potassiu
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q112](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q112-an-unexpectedly-high-potassium-result-comes-from-a-hemolyzed-sample-what-should-be-considered)
+
 ### Q10. Why is a specimen collected near an active IV infusion potentially unreliable?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** The blood becomes arterial
 - **B.** Infused fluid may dilute or contaminate the sample
@@ -302,9 +322,11 @@ IV infusion mein saline, glucose ya prescribed medicines blood ke saath mix ho s
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q38](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q38-why-is-a-specimen-collected-near-an-active-iv-infusion-potentially-unreliable)
+
 ### Q11. Which sample is suitable for routine sputum culture when expectoration is possible?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Deep respiratory sputum in the specified container
 - **B.** Saliva from the lips
@@ -332,9 +354,11 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q23](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q23-which-sample-is-suitable-for-routine-sputum-culture-when-expectoration-is-possible)
+
 ### Q12. Which measure is appropriate during sputum collection for suspected infectious pulmonary TB?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use a crowded waiting room
 - **B.** Ask the patient to cough toward staff
@@ -364,9 +388,11 @@ Pulmonary TB mein infectious aerosols cough ke saath air mein spread ho sakte ha
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q34](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q34-which-measure-is-appropriate-during-sputum-collection-for-suspected-infectious-pulmonary-tb)
+
 ### Q13. Which details belong on a specimen label and request as required?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only the bed number
 - **B.** Only the expected result
@@ -394,9 +420,11 @@ Label aur request form laboratory ko batate hain ki specimen kis patient ka hai,
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q60](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q60-which-details-belong-on-a-specimen-label-and-request-as-required)
+
 ### Q14. A wound culture is ordered for suspected infection. Which sampling approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Sample unrelated intact skin
 - **B.** Omit the site information
@@ -424,9 +452,11 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q78](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q78-a-wound-culture-is-ordered-for-suspected-infection-which-sampling-approach-is-appropriate)
+
 ### Q15. Which specimen requires prompt handling under laboratory transport instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only specimens requested by patients
 - **B.** Arterial blood gas specimen
@@ -454,9 +484,11 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q95](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q95-which-specimen-requires-prompt-handling-under-laboratory-transport-instructions)
+
 ### Q16. Which handling method is appropriate for arterial blood gas collection?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use the specified heparinized device and minimize air contamination
 - **B.** Leave the syringe open to air
@@ -484,9 +516,11 @@ ABG ke liye trained authorized clinician appropriate heparinized device use kart
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q72](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q72-which-handling-method-is-appropriate-for-arterial-blood-gas-collection)
+
 ### Q17. Why is direct pressure applied after arterial sampling?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Control puncture-site bleeding
 - **B.** Increase bleeding
@@ -514,9 +548,11 @@ Artery mein pressure vein se generally higher hota hai. Sampling puncture ke baa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q68](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q68-why-is-direct-pressure-applied-after-arterial-sampling)
+
 ### Q18. A patient ate before a prescribed fasting laboratory test. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Document that fasting occurred
 - **B.** Assume the result is normal
@@ -544,9 +580,11 @@ Fasting ka matlab prescribed period mein test-specific food ya drink restriction
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q70](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q70-a-patient-ate-before-a-prescribed-fasting-laboratory-test-what-is-appropriate)
+
 ### Q19. Which transport method reduces specimen leakage and exposure?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Place beside food
 - **B.** Remove hazard labeling
@@ -574,9 +612,11 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q44](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q44-which-transport-method-reduces-specimen-leakage-and-exposure)
+
 ### Q20. A laboratory rejects a specimen because identifiers conflict with the order. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ask the patient to guess
 - **B.** Investigate and recollect or correct only through verified policy
@@ -603,6 +643,8 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q97](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q97-a-laboratory-rejects-a-specimen-because-identifiers-conflict-with-the-order-what-should-happen)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)

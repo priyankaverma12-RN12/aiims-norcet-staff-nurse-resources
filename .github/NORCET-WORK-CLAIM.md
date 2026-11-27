@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-08c-20261127-1856
+Scope: Nursing Foundations new Group08C central venous access package and chapter-local indexes only. No 08A/08B or Group20/21 edits, no existing learner banks or mocks, no global tracker. Job4 expressly excludes other topics and shared indexes.
+Claimed UTC: 2026-11-27T18:56:00Z
+Expiry UTC: 2026-11-27T19:26:00Z
 
 Verified forward chapter-local checkpoint 85b419279ba75bce3eafadd76063fbcf3a4a3a70. Nursing Foundations 1,222 indexed originals (511 Medium,711 Difficult), 600 initial +622 expansion. Group 08B IV complications and compatibility: 25 new originals plus five preserved Group 08 Q1,2,3,8,15 =30 allocated. Bank 0aa4270ef40b6116c98215a7616dac03f0bb14c2, concepts 960eefcd86830e548f772d87ccf71116ed8927e2, diagram 3664ee5a58fda4bfca1b54d283b4fc21cd641cd9, evidence bf7a92b45e5dd6e6bfbb13070256bc46982bdda2, exact readbacks. Initial diagram/concept connector interruption recovered after confirming both paths absent. 132 related stems from five banks compared with zero exact normalized overlaps; 25 answer mappings, 100 individual rationales and closed blocks verified structurally. One AIIMS Bhopal 23 May 2018 Shift II source-based interpretation exercise with four rationales, related learning-task overlap with original Q14 explicitly recorded, not counted as a new historical item. OSSSC 7 February 2021 report directly opened, NVS and AIIMS Delhi/Bhatinda 2019 indexed; counted historical total stays 34. RCH extravasation and PIV management, eviQ and Open RN directly opened. ADAPT NCLEX REVIEW published phlebitis practice chapter 14:20 mapped to Q12–15 and adaptation at related-topic level only, 21 original specific video gaps, all exact playback pending. Level Up RN teaching description indexed. Six chapter-local updates exact readback: MCQ index 6cac55c3679e4d0c349032ca87945edf69cea7b4, audit 2ba27e2a3af90a4809b1b37f3f734fb4bd74535c, map a67cc454216eeb0aad9dd55fc2040306f1a137a5, PYQ index 7c5e930bbdd9f4b84cb267964edd08d48a5f0740, video guide d83c84d9045a591f09be083ca4aa28b1491fcdd5, README 85b419279ba75bce3eafadd76063fbcf3a4a3a70. Both full skills retrieved unchanged and prior full readings applied, AGENTS and Copilot retrieved, recent audit excerpt reviewed, fresh full line-by-line skills and historical audit log reread not certified. Five formal claims and identified manual scopes checked. Global tracker deferred due unresolved stale manual claims (last verified row 1,124). All legacy questions and mocks preserved, no other jobs or schedules modified. Next Group 08C central venous access, reserve Group 08 Q11,12 once, compare IPC Group28 and existing clinical banks, target 28 genuinely distinct new questions if supported by scope. Full independent clinical, comprehensive semantic, curriculum, official key and rendered UI audits pending. Ten new original-only mocks remain pending after topic coverage. Own claim released.
 
