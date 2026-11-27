@@ -53,4 +53,4 @@ AMD and retinal artery occlusion expansion, 27 November 2026: resumed at newer l
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0838-rvo. Scope retinal vein occlusion, chapter-local files only. Claimed UTC 2026-11-27T08:38:00Z. Expires 2026-11-27T09:08:00Z. -->
