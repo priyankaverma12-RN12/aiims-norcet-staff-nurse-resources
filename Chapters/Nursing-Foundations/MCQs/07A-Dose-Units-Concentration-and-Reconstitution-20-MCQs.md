@@ -97,7 +97,7 @@ D. 2.5 mL
 
 ### Q4. A previous oral liquid supplied 80 mg per 5 mL. Its replacement supplies 40 mg per 5 mL. The authorized dose remains 80 mg. What volume is now required?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Calculation · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Calculation · Original practice · **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related calculation concept only](https://testbook.com/question-answer/lactulose-20-gm-is-to-be-administered-to-a-patient--61765238277fdc0fd9b895d2)**
 
 A. 2.5 mL
 B. 5 mL
@@ -128,7 +128,7 @@ D. 10 mL
 
 ### Q5. An order specifies 225 micrograms of a hypothetical medicine supplied at 0.15 mg/mL. What volume corresponds to the order?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Calculation · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Calculation · Original practice · **[🟣 AIIMS NORCET 11 September 2022 — related calculation concept only](https://testbook.com/question-answer/the-drug-prescription-is-20mcg-available-dose-for--6320757f33461993ecaf6e27)**
 
 A. 1.5 mL
 B. 0.15 mL
@@ -359,8 +359,6 @@ D. 180 micrograms/mL
 **Exam clue:** Convert mass then divide by total volume.
 
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#concentration-and-dilution) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
-
-**YouTube MCQ practice: specific verification pending.**
 
 **▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric conversions problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
@@ -594,8 +592,6 @@ D. Both state the same concentration
 
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#rounding-and-safety) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
-**YouTube MCQ practice: specific verification pending.**
-
 **▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric concentration conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
@@ -603,3 +599,6 @@ D. Both state the same concentration
 ## ▶️ Teaching and practice
 
 [Desired Over Have Dosage Calculations — RegisteredNurseRN](https://www.youtube.com/watch?v=hQY4otRR4TA), indexed formula-method description, teaching and worked examples, playback pending. [Drug Dose Calculation MCQ Sessions for NORCET 10 — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ), indexed title and description, direct open failed. No confirmed exact or concept-specific question coverage. Q1–11 have general numerical leads, all 20 specific mappings pending. [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/) indexed and [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing) directly retrieved.
+
+
+**Historical evidence recheck — 27 November 2026:** Two third-party recall reports retrieved. The Bhatinda dose-volume report has an arithmetic typo in its intermediate solution, but the displayed key is consistent with desired dose × available volume ÷ available mass. NORCET 11 September 2022 tests the same general dose-volume relationship. Original scenarios are distinct. No official keys authenticated. The OSSSC 2021 tablet lead failed direct retrieval. No additional adaptation counted.
