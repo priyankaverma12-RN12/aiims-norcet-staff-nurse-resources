@@ -367,7 +367,9 @@ Dose calculate karne ke liye prescribed amount ko one tablet ki strength se divi
 
 ### Q17. Two patients in the ward have the same surname. Which action best prevents a wrong-patient procedure?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Use the room number and surname only
 - **B.** Use the bed location if the wristband is missing
@@ -382,9 +384,17 @@ Nurse patient ka naam aur doosra approved identifier, jaise date of birth ya hos
 
 **Baaki options kyun sahi nahi hain?** Room aur bed change ho sakte hain. Neighbor ki identification reliable nahi hai. Missing wristband ko policy se resolve karna hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q1](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q1](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q1-two-patients-in-the-ward-have-the-same-surname-which-action-best-prevents-a-wrong-patient-procedure)
 
 ### Q18. Who developed the Self-Care Deficit Nursing Theory?
 
@@ -822,7 +832,9 @@ Stage 4 full-thickness skin aur tissue loss hai jisme fascia, muscle, tendon, ca
 
 ### Q37. A confused patient repeatedly attempts to stand after receiving a sedative. Which initial intervention is best?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Assess the cause, arrange supervision and implement individualized fall precautions
 - **B.** Apply four-point restraints immediately without assessment
@@ -837,9 +849,17 @@ Sedation balance aur alertness reduce kar sakti hai. Nurse toileting, pain, conf
 
 **Baaki options kyun sahi nahi hain?** Restraint least restrictive alternatives ke baad hi indicated ho sakti hai. Rails alone safe nahi hain. Unsupported walking fall risk badhati hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q2](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q2](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q2-a-confused-patient-repeatedly-attempts-to-stand-after-receiving-a-sedative-which-initial-intervention-is-best)
 
 ### Q38. What is the main goal of palliative care?
 
@@ -1185,7 +1205,9 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 
 ### Q52. Which environment most reduces fall risk for an ambulatory older patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Frequently moved furniture across the walkway
 - **B.** Low locked bed, accessible call bell and clear well-lit walking path
@@ -1200,9 +1222,17 @@ Low locked bed aur clear pathway patient ko safely transfer aur walk karne mein 
 
 **Baaki options kyun sahi nahi hain?** High unlocked bed, darkness aur clutter injury ka risk badhate hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q3](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q3](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q3-which-environment-most-reduces-fall-risk-for-an-ambulatory-older-patient)
 
 ### Q53. Which chest compression rate is recommended for adult CPR under the AHA 2025 guidance?
 
@@ -1853,7 +1883,9 @@ Visible dirt aur organic material soap-water se physically remove kiya ja sakta 
 
 ### Q81. A patient is found on the floor after an unwitnessed fall. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Assess responsiveness, airway, breathing, circulation and possible injury before moving
 - **B.** Complete an incident report before examining the patient
@@ -1868,9 +1900,17 @@ Fall ke baad head, spine ya limb injury ho sakti hai. Nurse pehle immediate thre
 
 **Baaki options kyun sahi nahi hain?** Blind lifting injury worsen kar sakti hai. Reporting assessment ke baad hoti hai. Standing fracture exclude nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q4](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q4](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q4-a-patient-is-found-on-the-floor-after-an-unwitnessed-fall-what-is-the-priority)
 
 ### Q82. Which stool description suggests melena?
 
