@@ -284,3 +284,8 @@ Current chapter inventory verified at 800 question slots across 20/30 topic grou
 ### Continuation — HAI surveillance definitions
 
 40 new original questions, concepts and diagram, three indexed practice/teaching resources and historical question evidence leads with timing correction. Total 1,040 across 26/30 groups. Reported adaptations remain 51 plus two academic adaptations, overlapping HAI lead not counted. Next: CAUTI prevention. Chapter mocks 0/10. Individual-topic expansion, full playback, official PYQ keys and cross-bank semantic audit pending.
+
+
+### Evidence reconciliation — HAI surveillance
+
+Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 554 Difficult. Concurrent update replaced the initial HAI question bank and published its concept guide. Both versions are in history, counted only once. Two distinct reported exam adaptations added (AIIMS 2018 and RRB 2026 historical timing consolidated, HSSC 2023 incidence). Total 53 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked 17/350. Next: CAUTI prevention. Official keys, video playback, individual-topic expansion and comprehensive semantic audit remain pending.
