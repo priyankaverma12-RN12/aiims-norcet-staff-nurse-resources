@@ -34,4 +34,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-mbd-20261127. Scope: CKD mineral bone disorder concept, MCQ, SVG, reported evidence and chapter-local indexes. Claimed UTC: 2026-11-27T13:42:37.000Z. Expiry UTC: 2026-11-27T14:12:37.000Z. -->
