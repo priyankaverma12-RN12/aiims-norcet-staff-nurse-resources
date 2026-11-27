@@ -41,7 +41,7 @@ Jab albumin urine se nikalta hai, toh blood mein paani rokne ki ability kam ho j
 | Sequence | Topic | Status |
 |---|---|---|
 | 01 | Kidney, nephron and urinary tract anatomy | [Detailed theory and diagrams](Kidney-Nephron-and-Urinary-Tract-Anatomy.md) · [30 original MCQs](../MCQs/Kidney-Nephron-and-Urinary-Tract-Anatomy-30-MCQs.md) · [Reported exam practice](../Previous-Year-Questions/Kidney-Anatomy-Reported-Exam-Questions.md) |
-| 02 | Urine formation, GFR, tubular transport, concentration, RAAS, ADH, endocrine functions, micturition | Pending detailed package |
+| 02 | Urine formation, GFR, tubular transport, concentration, RAAS, ADH, endocrine functions, micturition | [Detailed theory and diagrams](Renal-Physiology-Urine-Formation-and-Regulation.md) · [30 original MCQs](../MCQs/Renal-Physiology-Urine-Formation-and-Regulation-30-MCQs.md) · [Reported exam practice](../Previous-Year-Questions/Renal-Physiology-Reported-Exam-Questions.md) |
 | 03 | Renal assessment, urine output and fluid balance, urinalysis, creatinine/eGFR, ACR, culture, imaging, biopsy | Pending |
 | 04 | Acute kidney injury (prerenal/intrinsic/postrenal, staging, emergency nursing), chronic kidney disease and staging | Pending. One AKI starter preserved. |
 | 05 | Fluid overload, hyperkalemia, acidosis, anemia, mineral bone disorder, renal diet and pharmacology | Pending |
