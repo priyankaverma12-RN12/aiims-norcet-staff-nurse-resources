@@ -374,9 +374,20 @@ Rectal instrumentation mucosa injure kar sakti hai. Thrombocytopenia mein bleedi
 
 **Correct: A. Assess pain, sedation, respiratory status and timing before giving the prescribed dose**
 
-PRN medicine need-based hoti hai, lekin prescribed interval aur safety assessment apply hote hain. Sedating drugs combined effect se breathing suppress kar sakti hain.
+<!-- job5-rationale -->
+PRN ka matlab as needed within prescribed indication, interval aur maximum limits hai. Sedating medicines combined effect se alertness aur breathing depress ho sakti hai. Pain score, sedation, respiration, last dose aur order check karo. Unsafe findings par dose clarify karo.
 
-**Baaki options kyun sahi nahi hain?** PRN unlimited nahi hai. Prior sedative relevant hai. Double dose unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Assessment se benefit aur additive sedation risk evaluate hota hai.
+- **B:** Double dose unauthorized hai aur sedation risk badha sakti hai.
+- **C:** PRN unlimited frequency ya dose nahi hai.
+- **D:** Previous sedative interaction aur respiratory risk ke liye relevant hai.
+
+**Exam clue:** PRN requires assessment before and response review after.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1006,9 +1017,20 @@ Capillary glucose testing small blood sample use karti hai. Hand hygiene, device
 
 **Correct: A. Locate and remove the previous patch as instructed before applying the new one**
 
-Old patch medicine release continue kar sakti hai. Nurse prescribed replacement schedule aur skin site verify karti hai.
+<!-- job5-rationale -->
+Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakti hai. Old patch remain hone par unintended extra exposure ho sakta hai. Prescribed schedule ke according old patch locate/remove, site inspect aur disposal policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Patch stacking overdose cause kar sakti hai. Cutting aur heat delivery alter kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Old patch remove karna accidental stacking prevent karta hai.
+- **B:** External heat kuch patches ki absorption increase kar sakti hai.
+- **C:** Cutting kuch patches ki delivery system disrupt kar sakti hai. Product-specific approval chahiye.
+- **D:** New patch old patch par lagane se additional dose exposure ho sakta hai.
+
+**Exam clue:** Check for previous patch before replacement.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-introduction)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2072,9 +2094,20 @@ Reduced sensation mein patient excessive heat detect nahi kar paata. Nurse suita
 
 **Correct: D. Route**
 
-Route batata hai drug oral, IV, IM ya other method se deni hai. Route change se absorption aur safety change ho sakti hai.
+<!-- job5-rationale -->
+Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya IM. Same drug ki formulation aur dose route-specific ho sakti hai, isliye wrong route serious harm cause kar sakta hai.
 
-**Baaki options kyun sahi nahi hain?** Lot number traceability mein help karta hai. Logo aur room temperature route define nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Manufacturer logo brand identity clue hai, administration route nahi.
+- **B:** Lot number batch traceability ke liye hai.
+- **C:** Room temperature environmental condition hai, prescribed route nahi.
+- **D:** Route delivery pathway identify karta hai.
+
+**Exam clue:** Route is the prescribed delivery pathway.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2576,9 +2609,20 @@ Distal pallor aur tingling perfusion ya nerve compromise suggest kar sakte hain.
 
 **Correct: D. Stop the suspected drug and activate emergency anaphylaxis management**
 
-Ye findings severe allergic reaction indicate kar sakti hain. Nurse trigger stop karti hai, airway-circulation assess karti hai aur emergency protocol activate karti hai.
+<!-- job5-rationale -->
+Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest karte hain. Suspected drug stop karo, emergency help activate karo, ABC assess karo aur protocol follow karo. General anaphylaxis mein IM adrenaline first-line hoti hai. IV access ko safe manner mein maintain karna team protocol par depend karta hai.
 
-**Baaki options kyun sahi nahi hain?** Infusion increase exposure badhati hai. Patient ko alone chhodna unsafe hai. Solid food airway concern mein inappropriate hai.
+**Option-by-option reasoning**
+
+- **A:** Airway compromise mein solid food aspiration risk badha sakta hai.
+- **B:** Infusion increase karne se trigger exposure aur deterioration badh sakti hai.
+- **C:** Patient ko alone chhodna emergency monitoring aur rescue delay karta hai.
+- **D:** Drug stop aur emergency response immediate safety priorities hain.
+
+**Exam clue:** Suspect anaphylaxis: stop trigger, call help, ABC and adrenaline protocol.
+
+[Clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
+<!-- /job5-rationale -->
 
 </details>
 
