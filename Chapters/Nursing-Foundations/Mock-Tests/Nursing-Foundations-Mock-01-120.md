@@ -1436,9 +1436,22 @@ Hearing loss communication barrier hai, automatically cognitive impairment nahi.
 
 **Correct: D. Oral route**
 
-Unconscious patient oral thermometer ko safely hold nahi kar paata. Nurse aspiration aur injury risk dekhkar suitable alternative choose karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Nonoral, tympanic ya core monitoring routes patient-specific assessment aur device guidance ke according suitable ho sakte hain.
+Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing aur protective reflexes impaired ho sakte hain. Oral device se injury ya aspiration ka risk ho sakta hai. Nurse patient ki condition aur monitoring requirement ke according validated nonoral route choose karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Appropriate core temperature device critical monitoring mein indicated ho sakta hai.
+- **B (Galat):** Tympanic measurement ear injury ya other contraindication na ho toh suitable alternative ho sakti hai.
+- **C (Galat):** Approved nonoral route patient aur device ke hisaab se suitable ho sakti hai.
+- **D (Sahi):** Oral route mein cooperation aur safe positioning chahiye, jo unconscious patient mein possible nahi ho sakta.
+
+**Exam clue:** Unconscious patient: avoid oral thermometer.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -2892,9 +2905,24 @@ Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar s
 
 **Correct: B. Activate emergency help and begin appropriate rapid cooling and supportive care**
 
-Heatstroke mein body heat dangerously accumulate kar sakti hai aur brain function affect hota hai. Rapid cooling aur emergency supportive care time-sensitive hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Antipyretic heatstroke ka primary treatment nahi hai. Blankets heat retain kar sakti hain. Sweating ka wait unsafe hai.
+Extreme heat exposure ke baad very high temperature aur altered mental status heatstroke ka serious warning hai. Body heat control fail ho sakta hai aur brain, kidney, liver aur circulation damage ho sakte hain. Emergency help activate karo, ABC assess karo aur appropriate rapid active cooling turant shuru karo. Cooling method trained team aur setting ke hisaab se choose karo. Altered consciousness mein oral fluids force mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Warm blankets heat retain kar sakti hain.
+- **B (Sahi):** Rapid cooling aur emergency supportive care organ damage kam karne ke liye time-sensitive hain.
+- **C (Galat):** Routine antipyretics heatstroke ka mechanism correct nahi karte aur sole treatment unsafe hai.
+- **D (Galat):** Sweating present ya absent ho sakti hai. Emergency help ke liye sweating ka wait nahi karte.
+
+**Exam clue:** Heatstroke: urgent active cooling plus emergency support.
+
+**Clinical reference:** [Clinical guidance](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke)
+
+**Indian guidance:** [MoHFW heatwave preparedness and rapid cooling](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2026709&lang=2&reg=48).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3310,9 +3338,24 @@ Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas
 
 **Correct: B. It may temporarily elevate the local measurement**
 
-Hot drink mouth ki local temperature increase kar sakti hai. Nurse device policy ke according wait ya suitable alternate route select karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Permanent core rise expected nahi hai. Cold drink lower reading de sakti hai. Oral measurement local conditions se affect hoti hai.
+Oral temperature mouth ke andar ki local temperature measure karti hai. Hot drink se oral tissue temporarily warm ho sakta hai, isliye reading falsely high aa sakti hai. Cold drink opposite effect de sakti hai. Device instructions aur local policy ke according wait karo ya suitable alternate route use karo. Urgent clinical assessment ko wait ke liye delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hot drink local oral reading ko generally increase kar sakti hai, lower karna universal effect nahi hai.
+- **B (Sahi):** Local warming se temporarily higher reading mil sakti hai, even when core temperature unchanged ho.
+- **C (Galat):** Recent food ya drink oral measurement ko affect kar sakti hai.
+- **D (Galat):** Hot drink se core temperature permanently several degrees increase hona expected nahi hai.
+
+**Exam clue:** Recent food or drink: check timing before oral measurement.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
+
+**Related historical evidence:** [🟣 JIPMER Staff Nurse, 4 June 2013 — related oral-temperature timing concept](https://testbook.com/question-answer/how-long-should-a-nurse-wait-after-taking-cold-mil--6221ef7b278136a4444593cc). Retrieved third-party report concerns cold milk and reports 20–30 minutes. Actual device instructions and policy govern timing. Official key not independently authenticated.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -3630,9 +3673,22 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 
 **Correct: C. Fever**
 
-Fever mein inflammatory signals hypothalamus ka target temperature increase kar sakte hain. Body shivering aur heat retention se new target tak pahunchne ki koshish karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hyperthermia mein heat accumulation set-point rise ke bina ho sakti hai. Hypothermia low temperature aur normothermia normal range hai.
+Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory signals uska target temperature, yani set point, higher kar sakte hain. Body heat conserve aur produce karke higher target tak pahunchti hai. Isliye fever mein chills aur vasoconstriction ho sakte hain. Hyperthermia mein heat production ya exposure heat loss se exceed hota hai without raised set point.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hyperthermia without raised set point fever se physiologically different hai.
+- **B (Galat):** Hypothermia core temperature abnormally low hone ki condition hai.
+- **C (Sahi):** Raised hypothalamic set point fever ka mechanism hai.
+- **D (Galat):** Normothermia expected normal temperature regulation ko describe karti hai.
+
+**Exam clue:** Fever = raised set point.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
