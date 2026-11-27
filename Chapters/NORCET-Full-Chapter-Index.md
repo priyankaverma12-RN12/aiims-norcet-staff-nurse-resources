@@ -364,3 +364,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Individual HIV occupational PEP top-up
 
 10 additional original questions, 30 allocated HIV occupational questions with 20 earlier, 120 exact comparison stems including group 16. Inventory 1,465 (664 Medium, 801 Difficult), 57 reported and two academic adaptations. Next: individual HBV occupational exposure expansion (12 allocated, needs at least 18 additional distinct questions), then HCV (8 allocated). Chapter mocks 0/10. Current guideline and source gaps documented.
+
+
+### Individual HBV occupational top-up
+
+18 new MCQs plus 12 earlier allocated = 30. Inventory 1,483 (667 Medium, 816 Difficult). 130 prior related exact stem comparisons passed. HCV 8 allocated remains next. 57 counted recruitment adaptations plus two academic adaptations. Mocks 0/10. Full evidence and semantic audits pending.

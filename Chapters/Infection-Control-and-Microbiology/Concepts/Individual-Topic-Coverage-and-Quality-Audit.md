@@ -82,3 +82,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Individual HIV PEP top-up
 
 10 new questions plus 20 existing allocated = 30 occupational HIV slots. Exact normalized comparison against 120 earlier stems including group 16 passed. Named US 2025 guidance, clinical concept and diagram, indexed teaching/practice and reported evidence links. Inventory 1,465 (664 Medium, 801 Difficult), 57 counted recruitment and two academic adaptations. HBV 12 and HCV 8 need independent expansion. Next: individual HBV occupational exposure expansion (12 allocated, needs at least 18 additional distinct questions), then HCV (8 allocated). Full semantic and clinical audit, India schedule and playback pending. Mocks 0/10.
+
+
+### Individual HBV occupational top-up
+
+18 new questions plus 12 earlier allocated = 30 working HBV slots. 130 prior related stems compared for exact normalized duplication, no overlap. Concept guide, diagram, named CDC references, indexed teaching/quiz and historical evidence. Total 1,483 (667 Medium, 816 Difficult), 57 counted recruitment plus two academic adaptations. HIV 30, HCV 8 needs expansion. Full semantic review, local guideline, official keys and dedicated nursing MCQ video pending. Next: individual HCV occupational exposure expansion (8 allocated, needs at least 22 additional distinct questions). Mocks 0/10.
