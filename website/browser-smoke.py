@@ -122,6 +122,12 @@ try:
         fallback.scroll_into_view_if_needed()
         page.wait_for_function("Array.from(document.querySelectorAll('#content img')).some(i => i.src.includes('media-cache') && i.src.includes('airway-zones.svg') && i.complete && i.naturalWidth > 0)", timeout=30000)
         page.unroute("https://raw.githubusercontent.com/**/airway-zones.svg")
+        page.route("https://api.github.com/repos/**/contents/**", lambda route: route.abort())
+        page.goto(base + "?" + urlencode({"doc":"Chapters/Nursing-Foundations/Concepts/"}))
+        ready(page)
+        expect(page.locator(".file-card").first).to_be_visible()
+        expect(page.locator("#sections [aria-current=page]")).to_have_text("Theory")
+        page.unroute("https://api.github.com/repos/**/contents/**")
         print("Breadcrumb, active section, real Mermaid flowchart and image fallback passed.", flush=True)
         desktop.close()
         for width, height in [(320, 720), (390, 844), (430, 932), (768, 1024), (844, 390)]:
@@ -154,6 +160,14 @@ try:
             mobile.clock.fast_forward(61000)
             expect(mobile.locator(".quiz-panel [role=status]")).to_contain_text("44 skipped")
             no_overflow(mobile)
+            if width == 320:
+                mobile.goto(base + "?" + urlencode({"doc": flow}))
+                ready(mobile)
+                small_chart=mobile.locator(".flowchart-card").first
+                small_chart.scroll_into_view_if_needed()
+                expect(small_chart).to_have_attribute("data-diagram-state", "ready", timeout=90000)
+                no_overflow(mobile)
+                assert mobile.locator(".reading-location").evaluate("(e) => getComputedStyle(e).position === 'sticky'")
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
         browser.close()
