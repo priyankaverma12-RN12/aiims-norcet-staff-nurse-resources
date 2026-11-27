@@ -114,7 +114,20 @@ Hands microorganisms transfer kar sakte hain. Indicated moments par hand hygiene
 
 **Correct: A. Front to back with the approved aseptic technique**
 
-Front-to-back cleansing contamination risk reduce karne mein help karti hai. Exact sterile preparation facility protocol se follow hoti hai. Reverse wiping aur used swab reuse organisms transfer kar sakte hain.
+Female urinary meatus anus ke paas hota hai. Anus ke area mein gut bacteria ho sakte hain, isliye cleansing front se back ki taraf ki jaati hai. Acute-care catheter insertion mein approved aseptic preparation aur fresh sterile supplies follow karna zaroori hai. Routine catheter maintenance hygiene ko insertion preparation se confuse mat karo.
+
+**Har option ka reason**
+
+- **A (Sahi):** Front-to-back cleaning anus se urethra ki taraf contamination transfer ka risk kam karti hai. Approved insertion protocol follow karna chahiye.
+- **B (Galat):** Back-to-front wiping anal organisms urethral opening tak la sakti hai. Used swab reuse karna contamination aur badha sakta hai.
+- **C (Galat):** Anus se urethra ki taraf repeatedly wiping karne se contamination ka risk badhta hai.
+- **D (Galat):** Insertion se pehle indicated aseptic preparation skip karna infection prevention ke against hai.
+
+**Exam clue:** Front to back during preparation, each swab as protocol directs.
+
+**Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). Historical source attribution pending direct verification. **YouTube MCQ practice:** Specific verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
