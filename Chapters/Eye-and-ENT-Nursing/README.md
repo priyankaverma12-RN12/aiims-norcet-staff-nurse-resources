@@ -111,4 +111,4 @@ Dacryocystitis expansion, 27 November 2026: resumed at f04bd3e76db4ac73c919acfe0
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-cnldo-20261127-1459. Scope: congenital nasolacrimal duct obstruction topic Concepts, MCQs, Assets, Previous-Year-Questions and local topic indexes only. Excludes Mock-Tests and global indexes. Claimed UTC: 2026-11-27T14:58:55Z. Expiry UTC: 2026-11-27T15:28:55Z. -->
