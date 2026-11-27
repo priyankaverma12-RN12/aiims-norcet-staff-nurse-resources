@@ -5,7 +5,7 @@ Independently adapted practice from third-party reports, not verbatim or authent
 ### GMCH Nursing Officer, 29 June 2025 — reported
 
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial labels · Source-based adaptation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition · Source-based adaptation
 <!-- /job4-metadata -->
 
 Which information is the main evidence base for identifying an individual patient's nursing care problems?
@@ -30,7 +30,7 @@ Which information is the main evidence base for identifying an individual patien
 ### AIIMS Jodhpur Nursing Officer, 10 December 2019 — memory-based report
 
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial labels · Source-based adaptation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition · Source-based adaptation
 <!-- /job4-metadata -->
 
 Which phase involves gathering and verifying information about a patient's actual and potential care needs?
@@ -46,7 +46,7 @@ Which phase involves gathering and verifying information about a patient's actua
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 [AIIMS Jodhpur Nursing Officer 10 December 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
+**Exam evidence:** 🔵 AIIMS Jodhpur Nursing Officer, 10 December 2019 — memory-based report (source linked in the explanation above). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
 
 **Related concept:** [Nursing process](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [OpenStax nursing process](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 <!-- /job4-metadata -->
