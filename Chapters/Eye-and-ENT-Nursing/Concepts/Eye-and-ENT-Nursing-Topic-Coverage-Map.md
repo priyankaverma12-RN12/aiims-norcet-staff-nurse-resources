@@ -58,7 +58,8 @@ Tonsil ki surgery ke baad blood throat mein ja sakta hai aur child baar-baar swa
 | Conjunctivitis | [Detailed Hinglish concepts](Conjunctivitis-Concepts.md) · [30 original MCQs](../MCQs/Conjunctivitis-30-MCQs.md) · [NORCET 7 reported concept adaptation and gaps](../Previous-Year-Questions/Conjunctivitis-Exam-Evidence.md). Includes viral, bacterial, allergic, neonatal and infection-control care, one original diagram. Minimum original count reached. |
 | Keratitis | [Detailed Hinglish concepts and original schematic](Keratitis-Concepts.md) · [30 original MCQs](../MCQs/Keratitis-30-MCQs.md) · [Exam evidence](../Previous-Year-Questions/Keratitis-Exam-Evidence.md). Etiology and differential treatment covered. Minimum question count reached. |
 | Corneal ulcer | [Detailed Hinglish concepts and original depth schematic](Corneal-Ulcer-Concepts.md) · [30 original MCQs](../MCQs/Corneal-Ulcer-30-MCQs.md) · [Exam evidence and gaps](../Previous-Year-Questions/Corneal-Ulcer-Exam-Evidence.md). Assessment, structural complications, emergency care, surgery and healing. Minimum question count reached. |
-| Stye, chalazion, blepharitis, trachoma | Next: stye and chalazion, then blepharitis and trachoma. |
+| Stye (hordeolum) | [Roman Hinglish concepts and eyelid schematic](Stye-Hordeolum-Concepts.md) · [30 original MCQs](../MCQs/Stye-Hordeolum-30-MCQs.md) · [Exam evidence and gaps](../Previous-Year-Questions/Stye-Hordeolum-Exam-Evidence.md). External/internal disease, antibiotics scope and complication nursing. Minimum original count reached. |
+| Chalazion, blepharitis, trachoma | Next: chalazion, then blepharitis and trachoma. |
 | Eye emergencies, chemical exposure, penetrating injury, foreign bodies, medicines and perioperative nursing | Pending. |
 | Ear anatomy, hearing and balance, Rinne, Weber, audiometry | Pending. |
 | Cerumen, otitis externa/media, perforation, mastoiditis, otosclerosis, hearing loss, tinnitus, vertigo, Ménière disease | Pending. |
