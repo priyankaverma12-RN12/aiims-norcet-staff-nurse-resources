@@ -398,9 +398,22 @@ Marked pain aur bleeding mucosal injury ya other complication suggest kar sakte 
 
 **Correct: A. Use an appropriate securement device and allow adequate slack**
 
-Securement catheter movement limit karti hai aur slack patient movement ke dauran urethral pulling kam karta hai. Location anatomy aur policy se choose hoti hai.
+Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta hai ya bag heavy hota hai, tube kheench sakti hai aur dard, bleeding ya tissue damage ho sakta hai. Appropriate securement aur enough slack movement ke dauran is khinchav ko kam karte hain.
 
-**Baaki options kyun sahi nahi hain?** Tight tubing, hanging bag aur rail movement traction badha sakte hain.
+**Har option ka reason**
+
+- **A (Sahi):** Suitable securement catheter ko stable rakhta hai aur slack patient movement allow karta hai. Site anatomy aur policy par depend karti hai.
+- **B (Galat):** Tube tight rakhna movement ko catheter par transfer karta hai aur trauma ka risk badhata hai.
+- **C (Galat):** Bag ka weight catheter par padne se urethra par pull badhta hai.
+- **D (Galat):** Moving rail se tube bandhne par rail upar-neeche hone se catheter khinch sakta hai.
+
+**Exam clue:** Secure catheter and support bag separately.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -1859,10 +1872,22 @@ Denture drop hone par break ho sakti hai. Lined basin aur labeled storage accide
 
 **Correct: D. From the designated sampling port using aseptic technique**
 
-Sampling port fresh urine collect karne mein help karta hai without unnecessarily breaking system. Nurse port disinfect karke protocol follow karti hai.
+Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urine patient ke fresh bladder urine ko accurately represent nahi kar sakta. Fresh sample ke liye designated needleless sampling port ko disinfect karke sterile syringe ya compatible adaptor se aseptic collection karo. Arbitrary tubing puncture mat karo.
 
-**Baaki options kyun sahi nahi hain?** Old bag urine bacterial growth se misleading ho sakti hai. Disconnection infection risk badhati hai. Skin wash urine specimen nahi hai.
+**Har option ka reason**
 
+- **A (Galat):** Skin wash fluid mein urine sample nahi hota aur contamination misleading result de sakti hai.
+- **B (Galat):** Tubing disconnect karna unnecessary contamination aur CAUTI risk badhata hai.
+- **C (Galat):** Din bhar bag mein pada urine contaminated ya colonized ho sakta hai, isliye culture ke liye appropriate nahi hai.
+- **D (Sahi):** Designated port fresh sample lene deta hai aur closed connection preserve karta hai. Sample ko label karke lab instructions follow karo.
+
+**Exam clue:** Culture = fresh aseptic sampling port. Old bag urine ya arbitrary puncture nahi.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**Related exam evidence:** [AIIMS NORCET, 20 November 2021 Shift II — memory-based report](https://testbook.com/question-answer/a-patient-is-unconscious-nurse-is-going-to-take-th--65f82ec5c3d23f0c2a353e20). Reported option 4 uses older ambiguous aspiration wording. Current CDC guidance favors the designated needleless sampling port, not arbitrary tubing puncture.
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q6](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -2534,9 +2559,22 @@ Tubing continuous pressure aur friction create kar sakti hai. Skin inspection au
 
 **Correct: D. Review removal eligibility and remove promptly according to authorized protocol**
 
-Catheter jitni der unnecessary rahegi utna infection aur trauma exposure badh sakta hai. Nurse daily indication review aur removal pathway follow karti hai.
+Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone aur infection develop karne ka zyada mauka milta hai. Jab initial indication resolve ho jaaye, removal eligibility check karke authorized nurse-led protocol ya order ke under prompt removal karo. Baad mein voiding aur retention ke signs monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic retention avoid karna chahiye. Indefinite clamping aur larger catheter unnecessary harm kar sakte hain.
+**Har option ka reason**
+
+- **A (Galat):** Larger size lagana resolved indication ko solve nahi karta aur trauma badha sakta hai.
+- **B (Galat):** Indefinite clamping bladder distension kar sakti hai. Routine clamping before removal required nahi hai.
+- **C (Galat):** Rest of admission tak automatically rakhne se unnecessary catheter-days badhte hain.
+- **D (Sahi):** Indication resolve hone par safe removal assess karna infection prevention ka important step hai.
+
+**Exam clue:** Daily review and prompt removal. Routine clamping nahi.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -2787,9 +2825,22 @@ Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse
 
 **Correct: C. Provide routine hygiene and clean after soiling according to policy**
 
-Routine gentle hygiene secretions aur soil remove karti hai. Har patient mein repeated antiseptic cleaning CAUTI prevent karne ka standard substitute nahi hai.
+Meatus urethra ka external opening hai. Catheter ke around routine gentle cleaning se stool, sweat aur secretions remove hote hain. CAUTI rokne ke liye catheter in place hone par baar-baar antiseptic lagana recommended routine substitute nahi hai. Insertion ke waqt aseptic preparation ek alag baat hai.
 
-**Baaki options kyun sahi nahi hain?** Strong chemicals irritation cause kar sakte hain. No cleaning aur abrasive brushes skin damage risk badhate hain.
+**Har option ka reason**
+
+- **A (Galat):** Cleaning avoid karne se stool aur secretions jama ho sakte hain aur discomfort badhta hai.
+- **B (Galat):** Abrasive brush delicate mucosa ko injure kar sakta hai.
+- **C (Sahi):** Gentle routine hygiene aur soiling ke baad cleaning skin ko clean aur comfortable rakhte hain.
+- **D (Galat):** Strong antiseptics routine preventive benefit establish nahi karte aur tissue irritation kar sakte hain.
+
+**Exam clue:** Routine hygiene during catheter care, sterile technique during acute-care insertion.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
