@@ -208,9 +208,20 @@ Cold generally small vessels constrict aur nerve conduction slow kar sakta hai. 
 
 **Correct: C. −300 mL**
 
-Net fluid balance intake minus output hai. 1800 minus 2100 = −300 mL. Unmeasured losses aur clinical assessment bhi matter karte hain.
+<!-- job5-rationale -->
+Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2100 − 300 = 1800 mL.
 
-**Baaki options kyun sahi nahi hain?** +300 reverse subtraction hai. 3900 sum hai. Zero tab hota jab measured intake aur output equal hote.
+**Option-by-option reasoning**
+
+- **A:** Zero tab hota jab intake equals output.
+- **B:** +300 mL sign reversed hai.
+- **C:** −300 mL means measured output exceeds intake by 300 mL.
+- **D:** 3900 mL sum hai, balance nahi.
+
+**Exam clue:** Recorded balance alone hydration status prove nahi karta.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -576,9 +587,20 @@ Care clustering aur environment adjustment uninterrupted rest support kar sakte 
 
 **Correct: C. 1.5 mL**
 
-Concentration 2/4 = 0.5 mg/mL hai. 0.75/0.5 = 1.5 mL.
+<!-- job5-rationale -->
+Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5 = 0.75 mg.
 
-**Baaki options kyun sahi nahi hain?** 0.75 mL 0.375 mg, 3 mL 1.5 mg aur 6 mL 3 mg deti hai.
+**Option-by-option reasoning**
+
+- **A:** 3 mL gives 1.5 mg.
+- **B:** 0.75 mL gives 0.375 mg.
+- **C:** 1.5 mL gives 0.75 mg.
+- **D:** 6 mL gives 3 mg.
+
+**Exam clue:** Pehle concentration per mL nikalo.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2377,9 +2399,20 @@ Support aur immobilization movement-related pain aur further injury reduce kar s
 
 **Correct: D. 4.5 g**
 
-0.9% w/v ka matlab 0.9 g per 100 mL hai. 500 mL mein 0.9 x 5 = 4.5 g hota hai.
+<!-- job5-rationale -->
+0.9% w/v = 0.9 g/100 mL. Mass = 0.9 × 500/100 = 4.5 g. Reverse: 4.5/500 × 100 = 0.9 g per 100 mL.
 
-**Baaki options kyun sahi nahi hain?** 0.45 g 50 mL ka content hai. 9 g one liter mein hai. 45 g tenfold error hai.
+**Option-by-option reasoning**
+
+- **A:** 0.45 g in 500 mL gives 0.09% w/v.
+- **B:** 45 g gives 9% w/v.
+- **C:** 9 g gives 1.8% w/v.
+- **D:** 4.5 g gives 0.9% w/v.
+
+**Exam clue:** Percent w/v means grams per 100 mL final solution.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2974,9 +3007,20 @@ Advance care planning future decisions mein patient ke values guide karne mein h
 
 **Correct: B. 0.15 mg**
 
-One mg mein 1000 micrograms hote hain. 150/1000 = 0.15 mg.
+<!-- job5-rationale -->
+1 mg = 1000 micrograms. 150/1000 = 0.15 mg. Reverse: 0.15 × 1000 = 150 micrograms.
 
-**Baaki options kyun sahi nahi hain?** 1.5 mg tenfold, 15 mg hundredfold aur 150 mg thousandfold higher hain.
+**Option-by-option reasoning**
+
+- **A:** 15 mg = 15000 micrograms.
+- **B:** 0.15 mg = 150 micrograms.
+- **C:** 1.5 mg = 1500 micrograms.
+- **D:** 150 mg = 150000 micrograms.
+
+**Exam clue:** Microgram to mg: divide by 1000, leading zero rakho.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
