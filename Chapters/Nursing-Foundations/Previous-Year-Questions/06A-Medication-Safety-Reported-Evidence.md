@@ -61,3 +61,16 @@ D. Ignore the discrepancy if the patient currently feels well
 - Existing Group 04B NORCET 6 Prelims 2024 identity report already adapted. Do not duplicate.
 - RRB 12 March 2026 Shift 1 pediatric dosing weight report indexed with question and answer, reserved for Group 07 calculation evidence.
 - Further HPRCA/HPSSC, PGIMER, SGPGI, JIPMER, ESIC, DSSSB, CHO and state official paper/key authentication pending. No new counted historical credit. Cumulative 34 unchanged.
+
+
+## 📜 Historical evidence recheck — 27 November 2026
+
+- Existing HSSC 25 July 2021 and RRB 12 March 2026 Shift 3 reports reopened and the displayed four options and reported answers confirmed. Existing two adaptations are unchanged and already visibly highlighted. No official original key independently authenticated.
+- **[🟣 HPRCA Assistant Staff Nurse — 20 March 2026 morning session, related tested concepts only](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**. Third-party candidate-response-sheet transcript displays date and morning session. Q74, ID 4410091671169, tests patient identification before recording medication in the electronic record. Q108, ID 4410091002742, tests conventional medication rights. The text displays candidate-selected responses, not a reliable reconstruction of the original green answer-key coloring. These are source leads with retrieved question text, not authenticated exact official keys. No additional adaptation because medication rights and identity concepts already exist in this chapter. Do not publish candidate information.
+- **[🟣 NHM MP CHO — 27 January 2021 Shift 1, related tested concept only](https://testbook.com/question-answer/nurses-must-consider-the-following-five-rights-whi--62e80544dc9b900c1485fb02/amp)**. Third-party item and displayed answer directly retrieved. General medication rights. No duplicate adaptation.
+- **[🟣 AIIMS NORCET 6 Prelims 2024 — related tested concept only](https://testbook.com/question-answer/while-administering-medication-to-prevent-error-pa--662a49c56624fd068ec30a62)**. Memory-based patient identity source reopened, already owned by Group 04B. No new adaptation.
+- Further HPRCA March 21 and May 4–5 2026 documentation/allergy report leads from Rojgarbee were indexed but direct retrieval failed. Official HPRCA keys and source-overlap reconciliation remain pending.
+
+## ▶️ Practice recheck
+
+Health Notes & Mcqs — the existing Drug Administration & Safety_Nursing MCQs link above has a retrieved indexed channel and description covering medication rights, routes, dose and error prevention. Q1 has general related rights coverage only, not an exact six-right item. Q2 still lacks specific record-discrepancy practice. Direct playback and exact question timestamps are pending. No new counted practice or historical adaptation credit.
