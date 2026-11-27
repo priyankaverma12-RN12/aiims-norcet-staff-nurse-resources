@@ -43,17 +43,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           for attempt in $(seq 1 12); do
-            if gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages" --jq '.artifacts[] | select(.name == "github-pages" and .expired == false) | .id' | grep -E '^[0-9]+        id: deployment
-        uses: actions/deploy-pages@v4
-      - name: Verify published homepage
-        env:
-          SITE_URL: ${{ steps.deployment.outputs.page_url }}
-        run: |
-          test -n "$SITE_URL"
-          curl --fail --location --retry 5 --retry-all-errors --retry-delay 5 --max-time 30 "$SITE_URL" -o /tmp/nursing-home.html
-          grep -F 'Nursing Study Hub' /tmp/nursing-home.html
-          echo "Verified published homepage: $SITE_URL"
-; then
+            if gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages" --jq '.artifacts[] | select(.name == "github-pages" and .expired == false) | .id' | grep -E '^[0-9]+$'; then
               echo "Pages artifact is visible."
               exit 0
             fi
