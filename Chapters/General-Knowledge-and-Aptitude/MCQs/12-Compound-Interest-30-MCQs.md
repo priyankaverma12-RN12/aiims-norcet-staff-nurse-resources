@@ -218,7 +218,7 @@
 
 </details>
 
-### Q9. A bank offers 10% nominal annual interest compounded half-yearly. Another offers 10.2% compounded annually. On ₹40,000 for one year, which balance is greater and by how much?
+### Q9. A bank offers 10% nominal annual interest compounded half-yearly. Another offers 10.2% compounded annually. On ₹40,000 for one year, by how much is the first bank's balance greater?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
@@ -596,30 +596,30 @@
 
 </details>
 
-### Q23. A fixed deposit pays 9% annually compounded once a year. What initial sum is required to receive ₹23,762 after 2 years?
+### Q23. A ₹20,000 deposit earns 10% compounded annually. The contract explicitly applies simple prorated interest to the last incomplete year. What is the balance after 2 years and 3 months?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
-- **A.** ₹20,137.29
-- **B.** ₹20,000
-- **C.** ₹21,800
-- **D.** ₹23,762
+- **A.** ₹24,200
+- **B.** ₹24,805
+- **C.** ₹24,700
+- **D.** ₹24,500
 
 <details><summary>Sahi answer aur explanation dekho</summary>
 
-**Correct answer: B. ₹20,000**
+**Correct answer: B. ₹24,805**
 
-**Kyun sahi hai:** Amount factor 1.09² = 1.1881 hai. 23762/1.1881 = 20000.
+**Kyun sahi hai:** Pehle do complete years ka balance 20000×1.1² = 24200 hai. Last three months ka interest contract ke hisaab se 24200×0.10×3/12 = 605 hai. Total 24200+605 = 24805 hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Yeh simple-interest factor 1.18 use karta hai.
-- **C.** Yeh year 1 balance hai.
-- **D.** Yeh final amount hai.
+- **A.** Yeh sirf do complete years ka amount hai.
+- **C.** Yeh last quarter ka interest original principal 20000 par calculate karta hai, current 24200 par nahi.
+- **D.** Yeh poore 2.25 years par simple interest lagata hai aur compounding ignore karta hai.
 
-**Exam trick:** Cash flow ka exact timing aur multiplier check karo. Same principal ko bina wajah dobara add mat karo.
+**Exam trick:** Incomplete compounding period ka treatment question ke contract se decide karo. Apne aap simple proration assume mat karo.
 
-[Concept](../Concepts/12-Compound-Interest.md#changing-rates-and-cash-flows) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
+[Concept](../Concepts/12-Compound-Interest.md#annual-and-periodic-compounding) · [Reference](https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)
 
 </details>
 
