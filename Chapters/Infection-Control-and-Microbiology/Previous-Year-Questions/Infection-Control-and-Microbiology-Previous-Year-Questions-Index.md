@@ -75,3 +75,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [GMCH 2025 sterilization-monitoring report and overlapping historical leads](02C-Sterilization-Methods-Reported-Evidence.md). One retrieved reported source, overlap with existing positive-BI concept, no additional counted adaptation pending earlier-source reconciliation. Current total remains 57 reported adaptations and two academic adaptations.
+
+
+[Standard precautions historical evidence](03A-Standard-Precautions-Reported-Evidence.md): retrieved AIIMS Bhubaneswar 2019 and RRB 2019 source-linked adaptations, excluded from additional counted total pending overlap review. Current count remains 57 plus two academic adaptations.
