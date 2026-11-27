@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-091805-calculations
+Scope: Nursing Foundations Group 06 navigation and Group 07 dose calculations, chapter-local files only
+Claimed UTC: 2026-11-27T09:18:05Z
+Expiry UTC: 2026-11-27T09:48:05Z
 
 Verified forward content checkpoint 8e4a3e266b60cd7c2c097a9039188c9ab9e44889. Nursing Foundations 1,104 indexed originals (469 Medium,635 Difficult), 600 initial +504 expansion. 06B 25 new (11 Medium,14 Difficult), legacy Group 06 Q4,5,6,14,16 = 30 allocated. MCQ 47ec8d71c2047934d9ac5bfb2290b02e502da941, concepts ff0fe9ca244390a052cf37a514372011882d86a1, evidence ab2abe04e8def9bb36fdb7175bf971a832f7b8fa verified. 06C 26 new (12 Medium,14 Difficult), legacy Group 06 Q11,13,15,20 =30 allocated. Concepts 43f4ddb1038f425a4fe5cb03752514b3757fd931, evidence f0a84e9701a30bae1148b761986474f1b372167b verified. All 13 remaining legacy IDs mapped once: reserve Q17 for Group 07 and Q7,8,9 for Group 19. MCQ index a505c18dd14dc7b9260078a9f93fee388282da58 and coverage audit 0350eda46ab414373ed12c1f871a11e93b20d579 verified. Tool limit interrupted remaining README, coverage map, video guide and PYQ index reconciliation. Global index deferred while Job 3 active. Three independent indexed report adaptations HPSSC 2020 inunction and diazepam, HSSC 31 Dec 2023 S2 topical, direct retrieval failed, official key and overlap pending, historical count 34 unchanged. 82 and 133 related stems compared with zero exact normalized matches, 51 hidden answers and four option reasons per question. Full independent semantic and clinical audit pending. NHS SPS, Open RN and RCUK clinical references retrieved or indexed as recorded. Dedicated MCQ video leads indexed but all 51 specific original and three adaptation mappings and playback pending. Both full skills fetched and applicable rules reviewed, fresh complete line-by-line reread not certified. All five job claims and Eye/ENT scope checked before writes. Five compiled mocks of ten. Next reconcile remaining local and global navigation, then Group 07 dose and infusion calculations. Preserve Group 06 Q17 reservation and avoid fluid-balance/IV duplication. Hourly task unchanged.
