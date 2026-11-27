@@ -598,9 +598,8 @@ Hemiplegia mein shoulder muscles joint stabilize nahi kar paati hain. Arm suppor
 
 ### Q29. Which source is generally the primary source of a conscious patient's health history?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -1179,9 +1178,8 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 
 ### Q56. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -1298,9 +1296,8 @@ Sample identity, type aur collection time correct processing aur interpretation 
 
 ### Q61. Which statement distinguishes a nursing diagnosis from a medical diagnosis?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -2364,9 +2361,8 @@ Barthel Index daily activities aur mobility mein assistance level assess karne m
 
 ### Q111. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
