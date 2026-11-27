@@ -16,10 +16,14 @@ D. Whether the patient knows the tablet color
 
 **Correct answer: C. Pain and functional ability reassessed at an appropriate interval**
 
-- **A (Incorrect):** Signature authorization show karta hai, outcome nahi.
-- **B (Incorrect):** Empty cup relief prove nahi karta.
-- **C (Correct):** Pain score aur functional improvement compare karo. Appropriate time drug onset and route par depend karta hai.
-- **D (Incorrect):** Color recognition efficacy measure nahi karta.
+- **A (Incorrect):** Signed prescription treatment authorization batati hai, pain relief ka actual evidence nahi.
+- **B (Incorrect):** Empty medication cup dose receipt ya therapeutic benefit prove nahi karta.
+- **C (Correct):** Analgesic ka therapeutic effect pain reduction aur meaningful functional improvement se assess karo. Baseline pain score 7/10 se post-dose score compare karo, movement aur comfort assess karo aur medicine ki onset aur route ke according reassessment time choose karo. Sedation aur respiratory status bhi as indicated check karo.
+- **D (Incorrect):** Tablet color identify karna patient education ka part ho sakta hai, efficacy measurement nahi.
+
+**Exam clue:** Evaluate both therapeutic response and adverse effects.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -41,10 +45,14 @@ D. Ask the patient to walk independently
 
 **Correct answer: A. Activate urgent help, support airway and breathing, and follow the authorized opioid-toxicity protocol**
 
-- **A (Correct):** Reduced consciousness and ventilation life-threatening opioid effect indicate kar sakte hain. Emergency response and reversal as indicated promptly arrange karo.
-- **B (Incorrect):** Delay respiratory compromise worsen kar sakta hai.
-- **C (Incorrect):** Additional opioid respiratory depression worsen kar sakta hai.
-- **D (Incorrect):** Walking unsafe hai and respiratory emergency address nahi karti.
+- **A (Correct):** Difficult arousal aur slow shallow breathing opioid-induced ventilatory impairment ke warning signs hain. Further opioid administration rok kar urgent help activate karo, airway aur breathing support do, emergency protocol ke according naloxone administer karo if indicated and authorized, aur response monitor karo. Naloxone ka effect kuch opioids se shorter ho sakta hai, isliye recurrent depression ke liye monitoring zaroori hai.
+- **B (Incorrect):** Routine assessment tak wait karne se hypoxia aur respiratory arrest develop ho sakte hain.
+- **C (Incorrect):** Next opioid dose respiratory depression worsen kar sakti hai.
+- **D (Incorrect):** Drowsy patient ko independent walking karana fall risk badhata hai aur breathing problem treat nahi karta.
+
+**Exam clue:** Opioid toxicity: breathing support and urgent reversal protocol.
+
+[Additional clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -66,10 +74,14 @@ D. Assess symptoms and blood pressure with appropriate postural measurements whe
 
 **Correct answer: D. Assess symptoms and blood pressure with appropriate postural measurements when safe**
 
-- **A (Incorrect):** Symptom reporting essential hai.
-- **B (Incorrect):** Temperature alone BP-related symptoms explain nahi karti.
-- **C (Incorrect):** Expiry check safety barrier hai but current response assess nahi karta.
-- **D (Correct):** Postural symptoms and BP relationship evaluate karna useful hai. Fall protection and clinical review as needed karo.
+- **A (Incorrect):** Dizziness report discourage karne se hypotension aur fall risk miss ho sakta hai.
+- **B (Incorrect):** Temperature infection assess karne mein useful hai, postural BP change ka direct measure nahi.
+- **C (Incorrect):** Expiry check medication quality ke liye important hai, symptomatic BP response assess nahi karta.
+- **D (Correct):** Standing dizziness orthostatic hypotension suggest kar sakti hai. Patient ko safe position mein assist karo, BP aur pulse assess karo aur safe ho toh approved postural measurement protocol follow karo. Severe symptoms mein standing test force mat karo. Results aur medication timing clinician ko communicate karo.
+
+**Exam clue:** Postural symptoms require safe BP assessment and fall prevention.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -91,10 +103,14 @@ D. Remove the monitoring equipment
 
 **Correct answer: B. Assess ventilation, consciousness and breathing urgently rather than rely on oxygen saturation alone**
 
-- **A (Incorrect):** SpO2 alone ventilation prove nahi karta.
-- **B (Correct):** Supplemental oxygen saturation maintain kar sakti hai even when ventilation inadequate hai. Clinical respiratory assessment and urgent escalation zaroori hai.
-- **C (Incorrect):** Further sedation respiratory depression worsen kar sakti hai.
-- **D (Incorrect):** Monitoring remove karna risk recognition delay karta hai.
+- **A (Incorrect):** Supplemental oxygen SpO2 normal maintain kar sakti hai even when ventilation inadequate ho. Normal saturation alone safe breathing prove nahi karti.
+- **B (Correct):** Ventilation ka matlab air ka lungs mein aana aur jaana hai. Sedation se shallow respiration aur CO2 retention ho sakti hai. Respiratory rate, depth, consciousness aur indicated capnography assess karo, urgent help lo aur airway/breathing support arrange karo.
+- **C (Incorrect):** Additional sedation respiratory drive further depress kar sakti hai.
+- **D (Incorrect):** Monitoring equipment remove karne se deterioration detect karna difficult hoga.
+
+**Exam clue:** Oxygenation and ventilation are different. Assess both.
+
+[Additional clinical reference](https://www.apsf.org/article/monitoring-for-opioid-induced-respiratory-depression/)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -116,10 +132,14 @@ D. The label color
 
 **Correct answer: B. Temperature trend at a clinically appropriate time together with comfort**
 
-- **A (Incorrect):** Stock count patient response nahi hai.
-- **B (Correct):** Temperature aur comfort therapeutic response indicate kar sakte hain, underlying cause evaluation still required.
-- **C (Incorrect):** Height fever treatment outcome nahi hai.
-- **D (Incorrect):** Label color efficacy establish nahi karta.
+- **A (Incorrect):** Stock count resource measure hai, patient fever response nahi.
+- **B (Correct):** Antipyretic fever reduce karne wali medicine hai. Baseline temperature aur discomfort ko drug-specific appropriate interval par reassess karo. Hydration aur overall clinical status bhi assess karo, kyunki fever relief underlying cause cure hone ka proof nahi hai.
+- **C (Incorrect):** Patient height antipyretic response measure nahi karti.
+- **D (Incorrect):** Label color drug effect nahi batata.
+
+**Exam clue:** Antipyretic response = temperature trend plus comfort.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -141,10 +161,14 @@ D. Discontinue all observation because the medication worked
 
 **Correct answer: C. The improvement in fever does not exclude deterioration, so assess and escalate urgently**
 
-- **A (Incorrect):** Routine delay unsafe hai.
-- **B (Incorrect):** Temperature alone recovery prove nahi karti.
-- **C (Correct):** One target response improve hone se serious deterioration exclude nahi hoti. Hypotension and confusion urgent assessment require karte hain.
-- **D (Incorrect):** Monitoring essential hai despite symptom relief.
+- **A (Incorrect):** Confusion aur falling BP urgent deterioration ke signs hain. Routine care without reassessment unsafe hai.
+- **B (Incorrect):** Fever reduce hona antipyretic effect ho sakta hai, underlying infection ya shock resolution ka evidence nahi.
+- **C (Correct):** Hypotension aur new confusion impaired circulation ya serious illness, including sepsis, suggest kar sakte hain. Immediate ABC assessment, vital signs aur authorized emergency escalation follow karo. Lower temperature ko reassurance mat samjho.
+- **D (Incorrect):** Observation discontinue karne se worsening perfusion miss ho sakti hai.
+
+**Exam clue:** Improved symptom does not exclude serious deterioration.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-response) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -166,10 +190,14 @@ D. Change the dose independently
 
 **Correct answer: A. Assess severity, timing, associated findings and the medicine-specific plan**
 
-- **A (Correct):** Nausea known side effect or other illness se ho sakti hai. Context assess karo, report and manage as appropriate.
-- **B (Incorrect):** Nausea alone anaphylaxis establish nahi karti.
-- **C (Incorrect):** Common symptoms bhi distress or dehydration cause kar sakte hain.
-- **D (Incorrect):** Dose change authorized decision hai.
+- **A (Correct):** Nausea medicine effect, illness ya another cause se ho sakti hai. Onset, severity, vomiting, hydration, associated symptoms aur medicine timing assess karo. Drug-specific advice aur clinician review as indicated arrange karo. Serious warning signs par urgent escalation karo.
+- **B (Incorrect):** Nausea alone anaphylaxis establish nahi karti. Airway, breathing aur circulation symptoms bhi assess karo.
+- **C (Incorrect):** Common adverse effect bhi patient intake aur adherence compromise kar sakta hai. Ignore mat karo.
+- **D (Incorrect):** Independent dose alteration efficacy aur safety compromise kar sakti hai.
+
+**Exam clue:** Assess adverse effects rather than assume or dismiss.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg183/chapter/Recommendations)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -191,10 +219,14 @@ D. Treat as suspected anaphylaxis and activate emergency response, including pro
 
 **Correct answer: D. Treat as suspected anaphylaxis and activate emergency response, including prompt IM adrenaline per protocol**
 
-- **A (Incorrect):** Standing collapse risk badha sakti hai.
-- **B (Incorrect):** Rash absent hona anaphylaxis exclude nahi karta.
-- **C (Incorrect):** Antihistamine alone life-threatening reaction treat nahi karti.
-- **D (Correct):** Airway and circulation compromise anaphylaxis indicate kar sakte hain even without skin changes. Emergency response, ABC support and IM adrenaline essential hain.
+- **A (Incorrect):** Circulatory compromise mein patient ko stand ya walk karana collapse risk increase kar sakta hai.
+- **B (Incorrect):** Anaphylaxis skin rash ke bina bhi ho sakti hai. Rash ka wait emergency care delay karega.
+- **C (Incorrect):** Oral antihistamine airway obstruction ya shock ke liye first-line lifesaving treatment nahi hai.
+- **D (Correct):** Sudden stridor airway narrowing ka sign hai aur circulatory compromise severe systemic reaction suggest karta hai. Suspected trigger stop karo if possible, emergency help activate karo, appropriate positioning aur ABC support do aur prompt IM adrenaline protocol follow karo.
+
+**Exam clue:** Anaphylaxis may occur without skin findings. Adrenaline is first-line.
+
+[Additional clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment-anaphylactic-reactions)
 
@@ -216,10 +248,14 @@ D. Record only the antibiotic's color
 
 **Correct answer: C. Record the exact reported reaction and clarify allergy versus intolerance with the clinical team**
 
-- **A (Incorrect):** Deleting history clinically relevant information lose karta hai.
-- **B (Incorrect):** Diarrhea alone immune-mediated allergy prove nahi karti.
-- **C (Correct):** Specific symptom and history future risk assessment help karte hain. Allergy label clinical review ke baad clarify karo.
-- **D (Incorrect):** Color reaction describe nahi karta.
+- **A (Incorrect):** Reported reaction delete karne se future review ke liye important history lose ho jaati hai.
+- **B (Incorrect):** Diarrhea alone confirmed anaphylaxis nahi hai. Inaccurate severe allergy label future antibiotic options unnecessarily restrict kar sakta hai.
+- **C (Correct):** Exact medicine, symptoms, timing, severity aur treatment history document karo. Isolated GI symptoms allergy se less suggestive ho sakte hain, lekin final classification clinical review se decide karo. Allergy aur nonallergic intolerance ko clearly distinguish karo.
+- **D (Incorrect):** Drug color reaction mechanism ya medicine identity reliably establish nahi karta.
+
+**Exam clue:** Record actual reaction, not an unsupported allergy diagnosis.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg183/chapter/Recommendations)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -241,10 +277,14 @@ D. Ask the patient to take an additional dose
 
 **Correct answer: B. Arrange urgent medical evaluation and follow the suspected severe drug-reaction protocol**
 
-- **A (Incorrect):** Moisturizer serious reaction address nahi karta.
-- **B (Correct):** Blistering aur mucosal involvement serious cutaneous reaction indicate kar sakte hain. Urgent escalation and medication review essential hai.
-- **C (Incorrect):** Delay severe progression risk badha sakta hai.
-- **D (Incorrect):** Further exposure potentially harmful hai.
+- **A (Incorrect):** Blistering rash aur mouth sores severe cutaneous drug reaction ka warning sign ho sakte hain. Moisturizer alone appropriate treatment nahi hai.
+- **B (Correct):** Suspected Stevens-Johnson syndrome ya toxic epidermal necrolysis jaise serious reaction mein urgent medical assessment chahiye. Suspect medicine ki further dose ke baare mein emergency protocol aur responsible clinician se immediate action lo. Skin, mucosal involvement aur systemic status assess karo.
+- **C (Incorrect):** Spontaneous resolution wait karna serious progression aur organ involvement risk ignore karta hai.
+- **D (Incorrect):** Additional dose suspect exposure worsen kar sakti hai.
+
+**Exam clue:** Blistering rash with mucosal lesions requires urgent evaluation.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg183/chapter/Recommendations)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -266,10 +306,14 @@ D. Advise stopping every medicine for any mild symptom
 
 **Correct answer: A. Explain specific warning symptoms, whom to contact and when emergency help is needed**
 
-- **A (Correct):** Actionable education early recognition and response support karti hai.
-- **B (Incorrect):** Serious symptoms annual visit tak wait nahi kar sakte.
-- **C (Incorrect):** Advance education important hai.
-- **D (Incorrect):** All medicines abruptly stop karna unsafe ho sakta hai.
+- **A (Correct):** Drug-specific expected effects, common manageable symptoms aur serious warning signs explain karo. Patient ko clinician contact aur emergency help ki indications batao. Teach-back se understanding check karo aur written plan provide karo where possible.
+- **B (Incorrect):** Annual visit tak wait serious reaction treatment delay kar sakta hai.
+- **C (Incorrect):** Proactive teaching patient ko symptoms early recognize karne mein help karti hai.
+- **D (Incorrect):** Every mild symptom par all medicines stop karna unnecessary treatment interruption cause kar sakta hai.
+
+**Exam clue:** Teach specific red flags and what action to take.
+
+[Additional clinical reference](https://ipc.gov.in/PvPI/faq.html)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -291,10 +335,14 @@ D. Objective symptoms, medicine exposure, timing, interventions and response, fo
 
 **Correct answer: D. Objective symptoms, medicine exposure, timing, interventions and response, followed by appropriate reporting**
 
-- **A (Incorrect):** Delayed reporting safety signal miss kar sakti hai.
-- **B (Incorrect):** Unverified causality claim misleading hai.
-- **C (Incorrect):** Price clinical chronology establish nahi karta.
-- **D (Correct):** Suspected ADR reporting certainty require nahi karta. Objective timeline review support karti hai.
+- **A (Incorrect):** Suspected ADR report ke liye definite causality establish hona necessary nahi hai.
+- **B (Incorrect):** Bina assessment confirmed causal diagnosis record karna misleading hai.
+- **C (Incorrect):** Purchase price clinical reaction evaluation ke liye relevant evidence nahi hai.
+- **D (Correct):** Objective symptoms, suspected medicine name, dose, route, exposure timing, interventions aur outcome document karo. Clinical team aur institutional reporting pathway ko inform karo. India mein suspected reactions PvPI ke ADR monitoring centre ko report ki ja sakti hain even when causality uncertain ho.
+
+**Exam clue:** Suspected ADRs can be reported before causality is proven.
+
+[Additional clinical reference](https://ipc.gov.in/PvPI/faq.html)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -316,10 +364,14 @@ D. Discard the result without notifying the team
 
 **Correct answer: B. Report the actual sampling and administration times and arrange clarification before interpreting the result as a trough**
 
-- **A (Incorrect):** Incorrect label unsafe clinical decision cause kar sakta hai.
-- **B (Correct):** Trough normally next dose se pehle drug-specific timing par measured hota hai. Wrong timing interpretation change karti hai.
-- **C (Incorrect):** Dose adjustment authorized interpretation require karta hai.
-- **D (Incorrect):** Communication and traceability preserve karo.
+- **A (Incorrect):** Post-dose sample ko trough label karna misleading concentration interpretation create karega.
+- **B (Correct):** Trough generally next scheduled dose se pehle measured drug concentration hota hai, exact timing drug-specific hai. Actual last dose aur sample times document karo, laboratory aur clinical team ko inform karo aur appropriate repeat sampling arrange karo as instructed.
+- **C (Incorrect):** Incorrectly timed result se independent adjustment underdose ya toxicity cause kar sakti hai.
+- **D (Incorrect):** Result silently discard karne se clinical team useful information aur sampling error history lose karegi.
+
+**Exam clue:** Correct sampling time is essential for therapeutic drug monitoring.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -341,10 +393,14 @@ D. The same monitoring is required for every medication
 
 **Correct answer: C. Small changes in exposure may increase toxicity or reduce effectiveness, requiring drug-specific monitoring**
 
-- **A (Incorrect):** Assessment essential hai.
-- **B (Incorrect):** Toxicity possible hai.
-- **C (Correct):** Effective aur toxic exposure ke beech small margin mein monitoring important hai.
-- **D (Incorrect):** Monitoring medication-specific hoti hai.
+- **A (Incorrect):** Narrow therapeutic window mein drug response aur toxicity assess karna particularly important hai.
+- **B (Incorrect):** Small exposure changes toxicity risk increase kar sakte hain, drug toxicity-free nahi hai.
+- **C (Correct):** Therapeutic window effective aur toxic exposure ke beech ka range hai. Narrow range mein comparatively small changes clinically important ho sakte hain. Drug-specific levels, renal function, symptoms aur monitoring schedule review karo. Sab drugs mein serum levels mandatory nahi hote.
+- **D (Incorrect):** Monitoring drug ke pharmacology aur patient risk ke according vary karti hai.
+
+**Exam clue:** Narrow therapeutic window requires individualized monitoring.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -366,10 +422,14 @@ D. Ignore the finding until discharge
 
 **Correct answer: A. Promptly review actual timing, patient status and the result with the clinical team before the next dose decision**
 
-- **A (Correct):** Sampling time, renal function and symptoms interpretation affect karte hain. Next dose promptly clarify karo.
-- **B (Incorrect):** High result potential toxicity signal ho sakta hai.
-- **C (Incorrect):** Double dose harm risk badhata hai.
-- **D (Incorrect):** Delay unsafe ho sakta hai.
+- **A (Correct):** High level actual toxicity ya incorrectly timed sample reflect kar sakta hai. Patient symptoms, last dose, specimen timing, renal function aur result promptly review karo. Next dose ke liye authorized hold or adjustment decision obtain karo. Severe toxicity signs mein emergency response delay mat karo.
+- **B (Incorrect):** High result ko false assume karne se actual toxicity worsen ho sakti hai.
+- **C (Incorrect):** Double dose high concentration ko stabilize nahi karti, exposure badha sakti hai.
+- **D (Incorrect):** Discharge tak delay time-sensitive dose review miss karta hai.
+
+**Exam clue:** Unexpected level: assess patient, verify timing, escalate.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -391,10 +451,14 @@ D. Explain the expected time course, follow-up plan and warning signs without en
 
 **Correct answer: D. Explain the expected time course, follow-up plan and warning signs without encouraging unauthorized dose changes**
 
-- **A (Incorrect):** Premature stopping therapy compromise kar sakta hai.
-- **B (Incorrect):** Immediate benefit promise inaccurate ho sakta hai.
-- **C (Incorrect):** Dose doubling unsafe hai.
-- **D (Correct):** Expected onset vary karta hai. Follow-up aur side-effect education adherence support karti hai.
+- **A (Incorrect):** One day mein effect absent hona delayed-onset medicine failure prove nahi karta. Permanent discontinuation unauthorized ho sakti hai.
+- **B (Incorrect):** Full relief after first dose promise karna inaccurate ho sakta hai.
+- **C (Incorrect):** Doubling dose se toxicity badh sakti hai without faster therapeutic benefit.
+- **D (Correct):** Expected onset, gradual benefit, prescribed schedule aur review timing explain karo. Warning signs aur missed-dose instructions drug-specific honi chahiye. Patient ko unauthorized dose changes se bachne aur concern report karne ko bolo.
+
+**Exam clue:** Delayed onset requires realistic expectations and follow-up.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -416,10 +480,14 @@ D. Delay reporting until the next routine clinic visit
 
 **Correct answer: C. Prompt clinical assessment and escalation for possible bleeding, with medication review under protocol**
 
-- **A (Incorrect):** Additional anticoagulation bleeding worsen kar sakti hai.
-- **B (Incorrect):** Bleeding potentially serious hai.
-- **C (Correct):** Melena and weakness bleeding indicate kar sakte hain. Urgent assessment, hemodynamic status and authorized management needed hai.
-- **D (Incorrect):** Delay may allow deterioration.
+- **A (Incorrect):** Extra anticoagulant possible bleeding worsen kar sakta hai.
+- **B (Incorrect):** Anticoagulant-associated bleeding serious ya life-threatening ho sakti hai.
+- **C (Correct):** Black tarry stools melena suggest karte hain, jo GI bleeding ka sign ho sakta hai. New weakness blood loss ya poor perfusion se related ho sakti hai. Vital signs, consciousness aur bleeding assess karo, urgent clinical escalation aur authorized anticoagulant review arrange karo.
+- **D (Incorrect):** Routine visit tak wait significant hemorrhage treatment delay kar sakta hai.
+
+**Exam clue:** Anticoagulant plus melena and weakness = urgent assessment.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -441,10 +509,14 @@ D. Record only fluid intake
 
 **Correct answer: B. Assess vital signs and rhythm as indicated, review electrolytes and notify the clinical team promptly**
 
-- **A (Incorrect):** Increased urine output toxicity or imbalance exclude nahi karta.
-- **B (Correct):** Electrolyte disturbance possible hai. Symptoms, rhythm and laboratory review guide timely care.
-- **C (Incorrect):** Potassium replacement assessment and authorization require karti hai.
-- **D (Incorrect):** Intake alone relevant risk assess nahi karta.
+- **A (Incorrect):** Increased urine output intended diuretic effect ho sakta hai, lekin new weakness aur palpitations normal assume nahi karte.
+- **B (Correct):** Diuretics fluid aur electrolyte balance change kar sakte hain. Potassium ya magnesium disturbance rhythm problem aur muscle weakness cause kar sakti hai. Vital signs, cardiac rhythm as indicated, current electrolytes aur renal function review karke clinical team ko promptly notify karo.
+- **C (Incorrect):** Unprescribed potassium unsafe hai, kyunki some diuretics potassium increase bhi kar sakte hain.
+- **D (Incorrect):** Only fluid intake electrolyte disturbance aur cardiac status capture nahi karta.
+
+**Exam clue:** Diuretic symptoms: assess rhythm and electrolytes before replacement.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -466,10 +538,14 @@ D. Suggest another sedating medicine before driving
 
 **Correct answer: A. Review drug-specific impairment warnings and advise against driving while impaired**
 
-- **A (Correct):** Sedation, reaction time and judgment impair ho sakte hain. Product and clinical instructions follow karo.
-- **B (Incorrect):** Prescription status impairment eliminate nahi karta.
-- **C (Incorrect):** Speed risk increase karti hai.
-- **D (Incorrect):** Additional sedation risk badhati hai.
+- **A (Correct):** Sedating medicines alertness, reaction time aur judgment impair kar sakti hain. Drug-specific label aur clinician instructions review karo, impairment ke dauran driving avoid karne ko bolo aur safe transport arrange karo if needed.
+- **B (Incorrect):** Prescription status driving safety guarantee nahi karta.
+- **C (Incorrect):** Faster driving impairment ka risk reduce nahi karti, accident risk badha sakti hai.
+- **D (Incorrect):** Additional sedative impairment worsen kar sakti hai.
+
+**Exam clue:** Prescribed does not mean safe to drive while impaired.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -491,10 +567,14 @@ D. Assess and promptly communicate the trend for drug-specific renal monitoring 
 
 **Correct answer: D. Assess and promptly communicate the trend for drug-specific renal monitoring and treatment review**
 
-- **A (Incorrect):** Delay appropriate evaluation prevent karta hai.
-- **B (Incorrect):** Initial tolerance later injury exclude nahi karti.
-- **C (Incorrect):** Extra doses accumulation and harm cause kar sakti hain.
-- **D (Correct):** Renal injury or other causes possible hain. Trend urgent review guide karta hai, dose decision authorized team kare.
+- **A (Incorrect):** Declining urine output aur rising creatinine timely assessment warrant karte hain. Arbitrary delay unsafe hai.
+- **B (Incorrect):** First dose tolerate hone se later cumulative nephrotoxicity rule out nahi hoti.
+- **C (Incorrect):** Extra dose renal clearance reduced hone par drug accumulation worsen kar sakti hai.
+- **D (Correct):** Nephrotoxic ka matlab kidney ko damage kar sakne wali medicine hai. Urine output, fluid status, creatinine trend aur concurrent drugs assess karo, results promptly communicate karo aur drug-specific monitoring aur treatment review arrange karo.
+
+**Exam clue:** Renal deterioration requires prompt review, not routine continuation.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -516,10 +596,14 @@ D. Culture results are unrelated to therapy
 
 **Correct answer: B. Results may guide whether the current treatment remains appropriate**
 
-- **A (Incorrect):** Stronger drug automatically better nahi hai.
-- **B (Correct):** Organism, susceptibility and clinical status therapy review guide karte hain.
-- **C (Incorrect):** Duration infection-specific hoti hai.
-- **D (Incorrect):** Culture relevant evidence provide karta hai.
+- **A (Incorrect):** Culture result stronger or broader drug always require nahi karta. Narrower appropriate therapy possible ho sakti hai.
+- **B (Correct):** Culture organism identify karne aur susceptibility test suitable antimicrobial select karne mein help karta hai. Clinical diagnosis, site, patient response aur resistance data ke saath review karke team treatment continue, narrow, change ya stop kar sakti hai.
+- **C (Incorrect):** Positive culture colonization ya contamination bhi represent kar sakti hai. Lifelong treatment universal nahi hai.
+- **D (Incorrect):** Culture information antimicrobial stewardship aur targeted treatment mein relevant hai.
+
+**Exam clue:** Culture results support targeted antibiotic review.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -541,10 +625,14 @@ D. Repeat the PRN dose immediately
 
 **Correct answer: C. Document both therapeutic relief and concerning sedation, assess safety and escalate as indicated**
 
-- **A (Incorrect):** Pain relief actual response hai, document karo.
-- **B (Incorrect):** Only benefit record risk miss karta hai.
-- **C (Correct):** Benefit and adverse effects separately evaluate karo. Sedation and respiratory safety assess karo.
-- **D (Incorrect):** Repeat dose sedation worsen kar sakti hai.
+- **A (Incorrect):** Pain relief aur adverse effect dono actual response ka part hain. No response record karna inaccurate hai.
+- **B (Incorrect):** Only pain improvement record karne se concerning sedation hide ho jaayegi.
+- **C (Correct):** Therapeutic pain relief aur new marked drowsiness separately document karo. Consciousness, respiratory rate/depth aur vital signs assess karo, further sedating doses review karo aur urgency ke according escalate karo.
+- **D (Incorrect):** Immediate repeat dose sedation aur respiratory depression risk increase kar sakti hai.
+
+**Exam clue:** Evaluate benefit and harm together.
+
+[Additional clinical reference](https://www.apsf.org/article/monitoring-for-opioid-induced-respiratory-depression/)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -566,10 +654,14 @@ D. Threaten to withdraw other nursing care
 
 **Correct answer: A. Explore the concern, assess understanding and discuss alternatives with the responsible team**
 
-- **A (Correct):** Respect autonomy and explore reason. Information and authorized alternatives support informed choice.
-- **B (Incorrect):** Covert medication without lawful process violates consent.
-- **C (Incorrect):** False record unsafe hai.
-- **D (Incorrect):** Coercion inappropriate hai.
+- **A (Correct):** Patient ka unpleasant effect aur concern samjho, severity aur understanding assess karo, prescribed treatment ka purpose explain karo aur responsible team se suitable alternatives discuss karo. Capable informed refusal respect karo aur actual decision document karo.
+- **B (Incorrect):** Covert administration bina appropriate legal/clinical authorization consent compromise kar sakti hai.
+- **C (Incorrect):** Medicine given record karna jab patient ne refuse kiya inaccurate hai.
+- **D (Incorrect):** Other nursing care withdraw karne ki threat coercion hai aur therapeutic trust damage karti hai.
+
+**Exam clue:** Explore refusal without coercion and coordinate alternatives.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#continuity-and-refusal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -591,10 +683,14 @@ D. Arrange urgent assessment and clarification, documenting any delay and escala
 
 **Correct answer: D. Arrange urgent assessment and clarification, documenting any delay and escalating according to policy**
 
-- **A (Incorrect):** Independent rescheduling appropriate nahi hai.
-- **B (Incorrect):** Silent omission missed treatment risk hai.
-- **C (Incorrect):** Missing critical assessment unsafe ho sakti hai.
-- **D (Correct):** Time-critical therapy and safety prerequisites dono important hain. Urgent escalation delay minimize karti hai.
+- **A (Incorrect):** Next day move karna time-critical drug ka therapeutic schedule disrupt kar sakta hai.
+- **B (Incorrect):** Silent omission patient safety aur handover compromise karti hai.
+- **C (Incorrect):** Essential assessment missing ho toh administration contraindication ya hold condition miss kar sakti hai.
+- **D (Correct):** Required assessment urgently arrange karo, responsible clinician/pharmacy se clarification lo aur delay minimize karo. Actual reason, escalation, revised authorized timing aur patient monitoring document karo.
+
+**Exam clue:** Time-critical dose: urgently resolve barriers, never bypass safety checks.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#continuity-and-refusal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -616,10 +712,14 @@ D. Only the time of ward admission
 
 **Correct answer: C. Expected effects, monitoring plan, recent findings and escalation triggers**
 
-- **A (Incorrect):** Prescriber name alone inadequate hai.
-- **B (Incorrect):** Color monitoring guide nahi karta.
-- **C (Correct):** Receiving team ko clinical response, next checks and warning signs pata hone chahiye.
-- **D (Incorrect):** Admission time current medication risk explain nahi karta.
+- **A (Incorrect):** Prescriber name useful contact detail ho sakta hai, monitoring requirements explain nahi karta.
+- **B (Incorrect):** Brand color drug effect ya escalation criteria convey nahi karta.
+- **C (Correct):** Handover mein medicine name, indication, dose/time, expected response, required monitoring, latest findings aur clear escalation triggers include karo. Pending tests aur next review time bhi communicate karo as relevant.
+- **D (Incorrect):** Admission time alone medication observation plan communicate nahi karta.
+
+**Exam clue:** Handover must convey monitoring and escalation requirements.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#continuity-and-refusal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
@@ -641,10 +741,14 @@ D. Document only the last normal glucose reading
 
 **Correct answer: B. Review the pattern, meal timing and administered therapy with the clinical team to prevent recurrence**
 
-- **A (Incorrect):** Medication and meal timing relevant ho sakte hain.
-- **B (Correct):** Acute hypoglycemia treat karke recurrent pattern ka cause review karo. Authorized regimen changes and education prevent recurrence.
-- **C (Incorrect):** Permanent discontinuation without review unsafe hai.
-- **D (Incorrect):** Normal reading alone recurrent events hide karti hai.
+- **A (Incorrect):** Recurrent symptoms meal timing, insulin ya other glucose-lowering therapy, renal function aur illness se related ho sakte hain. Medication link ignore nahi karo.
+- **B (Correct):** Immediate hypoglycemia treatment ke baad glucose trend, symptoms, administered doses, nutrition aur precipitating factors review karo. Clinical team se authorized regimen modification aur patient education coordinate karo, kyunki recurrence prevention important hai.
+- **C (Incorrect):** All medicines permanently stop karna hyperglycemia ya other treatment harm cause kar sakta hai.
+- **D (Incorrect):** Only last normal reading document karne se repeated low glucose episodes aur treatment response hide ho jaayenge.
+
+**Exam clue:** Treat acute hypoglycemia, then review the regimen to prevent recurrence.
+
+[Additional clinical reference](https://diabetesjournals.org/care/article/49/Supplement_1/S339/163925/16-Diabetes-Care-in-the-Hospital-Standards-of-Care)
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#continuity-and-refusal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
