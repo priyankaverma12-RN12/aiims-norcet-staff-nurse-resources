@@ -84,4 +84,4 @@ Corneal ulcer expansion, 27 November 2026: resumed a0c9fbde1bc0f0ba3b17dc93454d2
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-112250-stye. Scope: stye chapter-local package only. Claimed UTC 2026-11-27T11:22:50Z. Expiry UTC 2026-11-27T11:52:50Z. -->
