@@ -26,3 +26,6 @@
 
 
 [Physical examination — reported NVS 2022 adaptation](03E-Physical-Examination-Reported-Evidence.md) · [Fall risk — reported GMCH 2022 and memory-based RMLIMS 2025 adaptations](04A-Fall-Risk-Reported-Evidence.md). Three additional study adaptations excluded from cumulative 34 pending source overlap reconciliation. No official key claim. Ambiguous AIIMS Bhopal 2018 and DSSSB 2019 incident lead reserved.
+
+
+[Group 04B — patient identification and procedure safety](04B-Identification-Procedure-Reported-Evidence.md): two independently adapted items from directly retrieved NORCET 6 Prelims 2024 and RMLIMS 7 September 2025 memory-based reports. Count remains 34 pending overlap reconciliation and official key authentication.
