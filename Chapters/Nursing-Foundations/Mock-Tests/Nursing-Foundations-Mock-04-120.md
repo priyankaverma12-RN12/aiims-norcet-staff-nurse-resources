@@ -313,7 +313,7 @@ Partial assistance patient ki independence aur dignity maintain karne mein help 
 
 ### Q13. What does intermittent catheterization mean?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** The patient never empties the bladder
 - **B.** A catheter is inserted into the ureter through the skin in every case
@@ -343,7 +343,7 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q15](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q15](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q15-what-does-intermittent-catheterization-mean)
 
 ### Q14. Why is regular skin inspection important under an orthosis or splint?
 
@@ -499,7 +499,7 @@ New leakage aur external catheter position change displacement ya access failure
 
 ### Q20. During catheter insertion a patient experiences severe pain and marked resistance. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop advancing and seek appropriate clinical assistance
 - **B.** Use a larger catheter automatically
@@ -529,7 +529,7 @@ Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethra
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q16](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q16](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q16-during-catheter-insertion-a-patient-experiences-severe-pain-and-marked-resistance-which-action-is-safest)
 
 ## Block 2
 
@@ -708,7 +708,7 @@ Urine-stool exposure skin barrier damage kar sakti hai. Gentle cleansing aur bar
 
 ### Q28. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Lift the patient by the affected wrist
 - **B.** Allow the arm to hang without support during transfer
@@ -731,11 +731,11 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q14](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q14](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q14-a-patient-with-a-weak-hemiplegic-arm-is-being-transferred-which-action-protects-the-shoulder)
 
 ### Q29. Which source is generally the primary source of a conscious patient's health history?
 
@@ -822,7 +822,7 @@ SOAP structured notes ka format hai. S subjective yani patient ke own symptoms a
 
 ### Q31. Which positioning principle helps prevent foot drop during prolonged bed rest?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Keep the ankles plantarflexed continuously
 - **B.** Avoid inspecting the heels
@@ -845,11 +845,11 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q13](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q13](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q13-which-positioning-principle-helps-prevent-foot-drop-during-prolonged-bed-rest)
 
 ### Q32. Which principle applies to suction catheter selection for an artificial airway?
 
@@ -1286,7 +1286,7 @@ Rapid weight gain often fluid accumulation se related ho sakta hai. Roughly one 
 
 ### Q49. Which intervention helps reduce deconditioning during a prolonged hospital stay?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Avoiding all active movement after admission
 - **B.** Routine strict bed rest for every patient
@@ -1309,11 +1309,11 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q15](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q15](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q15-which-intervention-helps-reduce-deconditioning-during-a-prolonged-hospital-stay)
 
 ### Q50. Which stool characteristic is generally expected from a functioning ileostomy compared with a distal colostomy?
 
@@ -1797,7 +1797,7 @@ Shared equipment jaise BP cuff ya thermometer organisms ko ek patient se doosre 
 
 ### Q68. A catheterized patient develops fever and new flank pain. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Diagnose infection solely from cloudy urine
 - **B.** Ignore symptoms because a catheter is present
@@ -1824,11 +1824,11 @@ Flank pain side ya back mein kidney ke area ka dard hai. Catheterized patient me
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q14](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q14](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q14-a-catheterized-patient-develops-fever-and-new-flank-pain-what-is-the-appropriate-nursing-response)
 
 ### Q69. A urinary drainage bag needs emptying. Which technique reduces cross-contamination?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use the same unclean jug for every patient
 - **B.** Place the outlet on the floor while measuring
@@ -1858,7 +1858,7 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q13](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q13](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q13-a-urinary-drainage-bag-needs-emptying-which-technique-reduces-cross-contamination)
 
 ### Q70. During interfacility transfer a patient needs continuous oxygen. Which preparation is most important?
 
@@ -3078,7 +3078,7 @@ Spinal block sympathetic tone reduce karke vasodilation aur hypotension cause ka
 
 ### Q117. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Encourage rapid walking to improve circulation
 - **B.** Assist the patient to a safe sitting or lying position and assess vital signs
@@ -3101,11 +3101,11 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q16](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q16](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q16-during-first-ambulation-after-surgery-a-patient-becomes-pale-and-dizzy-which-action-is-safest)
 
 ### Q118. Which nursing action supports accurate comparison of serial temperatures?
 
