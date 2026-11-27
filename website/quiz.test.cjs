@@ -24,3 +24,14 @@ assert.equal(validateAttempt({...saved,penalty:1},bank.items),null);
 assert.equal(validateAttempt(saved,parseBank(md.replace('Example 1?','Updated question?')).items),null);
 assert.deepEqual(validateAttempt({...saved,finished:true},bank.items),{...saved,finished:true});
 console.log('Saved-attempt validation tests passed.');
+
+const {resultMetrics,answerStatus}=require('./quiz.js');
+const result=resultMetrics(bank.items,{'1-0':'A','2-1':'D'},1/3);
+assert.equal(result.answered,2);assert.equal(result.accuracy,50);assert(Math.abs(result.percentage-100*result.score/3)<1e-10);
+assert.equal(resultMetrics(bank.items,{},1/3).accuracy,null);
+assert.equal(resultMetrics(bank.items,{'1-0':'B'},1/3).percentage<0,true);
+assert.equal(answerStatus(bank.items[0],{'1-0':'A'}),'correct');
+assert.equal(answerStatus(bank.items[0],{'1-0':'B'}),'incorrect');
+assert.equal(answerStatus(bank.items[0],{}),'skipped');
+assert.equal(bank.items[0].explanation,'**Correct answer: A. Explanation**\n\nOriginal rationale.');
+console.log('Results, classification and original rationale preservation tests passed.');
