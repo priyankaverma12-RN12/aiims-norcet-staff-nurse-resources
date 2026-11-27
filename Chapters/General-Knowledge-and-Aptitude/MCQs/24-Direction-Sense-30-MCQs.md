@@ -584,32 +584,32 @@
 
 </details>
 
-### Q21. In a relabelled compass, true north is called east, true east is called south, true south is called west and true west is called north. A person travels in the direction labelled north. What is the true direction?
+### Q21. A movement code uses R for a 2 m sideways step to the person's right without turning, F for a 3 m forward step, and L for a 90° left turn without moving. Initially facing north at the origin, a person executes R, F, L, F. What is the final position relative to the origin?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** West
-- **B.** East
-- **C.** North
-- **D.** South
+- **A.** 1 m west and 3 m north
+- **B.** 5 m east and 3 m north
+- **C.** 2 m east and 6 m north
+- **D.** 3 m west and 5 m north
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: A. West**
+**Correct answer: A. 1 m west and 3 m north**
 
-**Kyun sahi hai:** Label north true west ko diya gaya hai. Question label se actual direction poochta hai, isliye inverse mapping use karo.
+**Kyun sahi hai:** R ke baad person 2 m east hai aur ab bhi north face karta hai. F se position (2,3) hoti hai. L se facing west hoti hai, lekin position change nahi hoti. Final F se x-coordinate 2−3=−1 hota hai aur y=3 same rehta hai. Isliye 1 m west aur 3 m north final position hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** True north ka label east hai, lekin question reverse mapping poochta hai.
-- **C.** Label aur actual direction same nahi hain.
-- **D.** True south ka label west hai.
+- **B.** Final forward movement ko east maan liya, jabki person west face kar raha hai.
+- **C.** Last forward movement ko north maan liya aur left turn ignore kiya.
+- **D.** Sideways step ko northward move maana, jabki R initially east mein 2 m tha.
 
-**Exam trick:** Label ka actual compass direction se mapping check karo. Reference frame ko fixed rakho.
+**Exam trick:** Translation aur rotation ko separate rakho. Sideways movement se facing change nahi hoti jab rule aisa diya ho.
 
 [Concept](../Concepts/24-Direction-Sense.md#coded-and-rotated-directions) · [SATHEE direction practice](https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/topic-wise-practice/reasoning/direction/)
 
-**▶️ [YouTube MCQ practice — Parcham Classes, direction transformation questions at 8:51](https://www.youtube.com/watch?v=ZPr2rnKfOY8&t=531s)**. Published chapter metadata inspected. Related topic only, exact item and playback pending.
+**YouTube MCQ practice: verification pending.** Specific mixed translation and rotation code question not confirmed.
 
 </details>
 
@@ -847,7 +847,7 @@
 
 ### Q30. At a junction, a person faces an unknown cardinal direction. After a right turn they face east, then they turn around and walk west. Which direction did they initially face?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** South
 - **B.** East
@@ -876,6 +876,6 @@
 
 ## ▶️ Practice video status
 
-29 description-level or named-chapter practice leads, one explicit gap (Q19). Exact item matches and verified playback 0. Source SATHEE direct reopen failed, indexed reference only. Parcham Classes video chapter descriptions explicitly identify related solved-question types. No nursing exam provenance inferred from this video.
+28 description-level or named-chapter practice leads, two explicit gaps (Q19 and Q21). Exact item matches and verified playback 0. Source SATHEE direct reopen failed, indexed reference only. Parcham Classes video chapter descriptions explicitly identify related solved-question types. No nursing exam provenance inferred from this video.
 
 [Chapter](../README.md) · [Concepts](../Concepts/24-Direction-Sense.md) · [Previous Year Questions](../Previous-Year-Questions/24-Direction-Sense-Reported-Evidence.md)
