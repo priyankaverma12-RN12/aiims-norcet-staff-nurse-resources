@@ -33,7 +33,7 @@ D. Whether the patient knows the tablet color
 
 ### Q2. A patient receiving an opioid is difficult to awaken and has slow shallow breathing. Which response is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice · **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only](https://testbook.com/question-answer/which-of-the-following-objective-assessment-data-w--61766ff4277fdc0fd9bc45b5)**
 
 A. Activate urgent help, support airway and breathing, and follow the authorized opioid-toxicity protocol
 B. Wait until the next pain assessment
@@ -381,7 +381,7 @@ D. Discard the result without notifying the team
 
 ### Q14. What does a narrow therapeutic window imply for nursing care?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **[🟣 AIIMS NORCET 20 November 2021 — related tested concept only](https://testbook.com/question-answer/for-long-term-use-of-which-of-the-following-drug-i--625e7efd16b9b2e873d669ce)**
 
 A. The drug requires no assessment after administration
 B. The drug never causes toxicity
@@ -468,7 +468,7 @@ D. Explain the expected time course, follow-up plan and warning signs without en
 
 ### Q17. A patient prescribed an anticoagulant reports black tarry stools and new weakness. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related tested concept only](https://testbook.com/question-answer/a-patient-receiving-an-unfractionated-heparin-infu--692ef2ee1077d5c8bfea7647)**
 
 A. Give an extra anticoagulant dose
 B. Reassure the patient that bleeding is always harmless
