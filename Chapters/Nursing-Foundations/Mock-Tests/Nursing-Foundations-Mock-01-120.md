@@ -231,9 +231,20 @@ Lithotomy mein patient back par hoti hai aur hips-knees flexed aur legs supporte
 
 **Correct: D. Match two approved patient identifiers to the medication record**
 
-Identity confirmation se wrong-patient dose prevent hoti hai. Nurse approved identifiers aur medication record compare karti hai.
+<!-- job5-rationale -->
+Right patient ka matlab actual person ko correct medication order se match karna hai. Do approved identifiers jaise full name aur unique hospital ID verify karo. Patient se active confirmation lo where possible aur wristband aur record compare karo.
 
-**Baaki options kyun sahi nahi hain?** Room change ho sakta hai. Same diagnosis multiple patients ko ho sakta hai. Tablet appearance identity prove nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Room number location hai, identity nahi.
+- **B:** Tablet familiar hone se patient identity prove nahi hoti.
+- **C:** Same diagnosis multiple patients ko ho sakta hai.
+- **D:** Do approved person-specific identifiers wrong-patient error reduce karte hain.
+
+**Exam clue:** Two identifiers, never bed or room number alone.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -843,9 +854,20 @@ Dysphagia mein different textures swallow karne ki difficulty vary karti hai. As
 
 **Correct: B. Place it under the tongue and allow it to dissolve as directed**
 
-Sublingual route mein drug tongue ke neeche mucosa se absorb ho sakti hai. Product instructions follow karne se intended effect milne mein help hoti hai.
+<!-- job5-rationale -->
+Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse kuch drugs ka first-pass liver metabolism avoid ho sakta hai. Product-specific instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Swallowing aur crushing absorption change kar sakte hain. Ear canal unrelated route hai.
+**Option-by-option reasoning**
+
+- **A:** Immediately swallow karne se intended mucosal absorption aur drug effect change ho sakta hai.
+- **B:** Tongue ke neeche dissolve hone dena prescribed route maintain karta hai.
+- **C:** Ear canal otic route hai, sublingual nahi.
+- **D:** Crushing ya water mein mix karna prescribed formulation ka intended use change karta hai.
+
+**Exam clue:** Sublingual means under the tongue.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2144,9 +2166,20 @@ Front-to-back cleaning stool organisms ko urethral opening ki taraf le jaane ka 
 
 **Correct: C. Clarify the allergy history and order before administration**
 
-Previous severe reaction important safety information hai. Nurse reaction details verify karke prescriber-pharmacist review leti hai before exposure.
+<!-- job5-rationale -->
+Severe previous reaction allergy ya another serious adverse reaction ho sakti hai. Exact medicine, symptoms aur timing assess karo. Same class ke drugs mein cross-reactivity drug-specific hoti hai, isliye pharmacist/prescriber se clarify karna zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** Signed order allergy risk eliminate nahi karta. Record deletion aur unapproved premedication unsafe hain.
+**Option-by-option reasoning**
+
+- **A:** Allergy entry bina authorized review remove karna future exposure risk badhata hai.
+- **B:** Unprescribed antihistamine serious reaction prevent karne ki guarantee nahi hai aur unsafe order ko safe nahi banata.
+- **C:** Clarification aur allergy verification potentially serious re-exposure prevent karte hain.
+- **D:** Signed prescription se allergy risk eliminate nahi hota.
+
+**Exam clue:** Allergy history verify before giving the drug.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2373,9 +2406,20 @@ One gram mein 1000 mg hote hain. 0.25 g = 250 mg, aur 250/125 = 2 tablets.
 
 **Correct: B. Withhold the questionable dose and clarify with the prescriber or pharmacist**
 
-Unusual dose possible prescribing error ho sakti hai. Nurse administration se pehle order verify karti hai taaki overdose ya undertreatment avoid ho.
+<!-- job5-rationale -->
+Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indication ki wajah se dose alag bhi ho sakti hai. Nurse questionable dose ko administration se pehle verify kare, patient ki urgency assess kare aur prescriber ya pharmacist se clarification le.
 
-**Baaki options kyun sahi nahi hain?** Blind administration unsafe hai. Half dose independently select karna unauthorized change hai. Patient guess safe verification nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Patient ki information useful hai, lekin dose verification trained clinical team ki responsibility hai.
+- **B:** Clarification tak questionable dose rokna preventable harm se bachata hai. Time-critical medicine ke liye immediately escalate karo.
+- **C:** Half dose khud select karne se underdose ya unauthorized dose change ho sakta hai.
+- **D:** Signed order bhi error-free hone ki guarantee nahi hai.
+
+**Exam clue:** Questionable order ko guess mat karo, promptly clarify karo.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
