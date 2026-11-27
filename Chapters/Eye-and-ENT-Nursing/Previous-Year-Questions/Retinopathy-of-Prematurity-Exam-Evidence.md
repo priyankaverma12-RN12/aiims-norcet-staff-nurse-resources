@@ -2,9 +2,9 @@
 
 [Concepts](../Concepts/Retinopathy-of-Prematurity-Concepts.md) · [30 originals](../MCQs/Retinopathy-of-Prematurity-30-MCQs.md)
 
-## 🔵 AIIMS NORCET 2020 — third-party reported Q8
+## 🔵 JIPMER Nursing Officer 2020 — retrieved third-party report
 
-[Retrieved report](https://proudofnurses.com/norce-aiims-nursing-officer-answer-key-2020/), site transcription Q8, official shift/number/key not authenticated. Independently worded adaptation, separate from original count. Count provisionally pending repository-wide provenance reconciliation.
+[Retrieved NPrep report](https://nprep.in/question-answer/complication-of-high-flow-oxygen-in-pre-term-babies-hOwDkLMRFPUmZnAgl0rh2), explicitly attributed to JIPMER Nursing Officer 2020, reported answer retrolental fibroplasia. Official shift/number/key not authenticated. A [mixed-paper page titled NORCET 2020](https://proudofnurses.com/norce-aiims-nursing-officer-answer-key-2020/) has a similar Q8 but restarts question numbering after other papers without a clear section header, so NORCET attribution remains unverified and is not counted. One question family only. Independently worded adaptation, separate from original count. Count provisionally pending repository-wide provenance reconciliation.
 
 A nurse explains why excessive oxygen exposure in a premature infant requires careful prevention. Which retinal complication is particularly associated with this exposure?
 
@@ -27,7 +27,7 @@ Premature retina ki vascular development incomplete ho sakti hai. Unregulated ex
 
 </details>
 
-All-India targeted searches covered NORCET, RRB, ESIC, staff nurse and HPRCA terminology. Other paper directory leads: [NextNurse](https://nextnurse.in/pyq), [HPRCA official downloads](https://hprca.hp.gov.in/DownloadCategory.aspx). No additional attributable specific ROP nursing item authenticated. PGIMER, SGPGI, JIPMER, DSSSB and state paper-level review remains pending. Neonatal and Child Health starter banks and reported adaptations checked, no ROP item found there. Repository-wide historical reconciliation pending.
+All-India targeted searches covered NORCET, RRB, ESIC, staff nurse and HPRCA terminology. Other paper directory leads: [NextNurse](https://nextnurse.in/pyq), [HPRCA official downloads](https://hprca.hp.gov.in/DownloadCategory.aspx). No additional specific ROP nursing item authenticated. A NORCET 7 plus-disease lead from a third-party tutoring site remains unverified and is not counted. PGIMER, SGPGI, JIPMER, DSSSB and state paper-level review remains pending. Neonatal and Child Health starter banks and reported adaptations checked, no ROP item found there. Repository-wide historical reconciliation pending.
 
 ## Video status
 
