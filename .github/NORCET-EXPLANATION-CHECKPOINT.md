@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run44-20261127-1825
-Scope: Group22 Blood Transfusion and Fluid Balance original bank only. No shared legacy mocks, indexes or new questions.
+Scope: Group22 original bank published. Stage 20 matching legacy rationales under .github/job5-drafts only, no shared learner mocks, indexes or new questions.
 Claimed UTC: 2026-11-27T18:25:00Z
 Expiry UTC: 2026-11-27T18:55:00Z
 
