@@ -20,3 +20,13 @@ The public video titles and descriptions were checked, and the procedure links a
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [National Cancer Institute nursing procedures manual](https://ftp.nciindia.gov.in/images/pdf/Departments_Centers/Nursing%20Services/Manual%20%20of%20Nursing%20Procedures%202022.pdf) · [AHA 2025 adult BLS](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support) · [CDC catheter prevention](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [NHS NG placement safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [WHO medication safety](https://www.who.int/initiatives/medication-without-harm/) · [NPrep fundamentals NORCET](https://nprep.in/blogs/fundamentals-of-nursing-for-norcet) · [NPrep RRB fundamentals](https://nprep.in/blogs/rrb-nursing-fundamentals-of-nursing) · [Careers360 foundation study plan](https://medicine.careers360.com/articles/how-to-prepare-nursing-foundation-for-norcet-11-in-15-days) · [HPRCA exam topics](https://nprep.in/blogs/hprca-staff-nurse-important-topics-2026-high-weightage-areas--pyq-based-smart-preparation-guide).
 
 Dedicated teaching and question-solving video pairs for all 30 topics remain unverified. [Chapter](../README.md)
+
+
+## Group 03 resources and gaps
+
+- [Nidhya Medical Academy — Vital Signs MCQs](https://www.youtube.com/watch?v=MGcl1u11Na4), NG Naik Sir, indexed BP, pulse, respiration and temperature practice.
+- [VS Nursing Academy — Ritika Ma'am Vital Signs MCQs](https://www.youtube.com/watch?v=LM37c_byRHs), indexed mixed vital signs.
+- [Voogly/Sahu Sir — Pulse Oximetry Procedure SpO2](https://www.youtube.com/watch?v=OlRQpfldOIY), indexed teaching and error prevention.
+- [Osmosis — Vital signs: oxygen saturation](https://www.osmosis.org/learn/Vital_signs_-_Oxygen_saturation_%28SpO2%29%3A_Nursing_skills), supplemental teaching, not YouTube.
+
+Dedicated oximetry MCQ-solving video unconfirmed. Related practice not a verified exact question match. No full video transcript or timestamp confirmed. Examination [teaching](https://www.youtube.com/watch?v=yTebyL3FrGY) and [#studyroom31 MCQ practice](https://www.youtube.com/watch?v=aTGm3WCiS9w) indexed leads for next package.
