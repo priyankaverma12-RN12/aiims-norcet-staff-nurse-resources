@@ -261,9 +261,24 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 **Correct: C. Packed red blood cells**
 
-Red cells hemoglobin carry karti hain jo oxygen bind karta hai. Transfusion indication symptoms, Hb aur clinical context se decide hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Platelets hemostasis, plasma clotting factors aur cryoprecipitate fibrinogen replacement mein use ho sakte hain.
+Red blood cells mein hemoglobin hota hai jo lungs se oxygen tissues tak carry karta hai. Packed red cells transfusion se circulating red-cell mass aur oxygen-carrying capacity increase ho sakti hai. Transfusion ka decision Hb value alone par nahi, bleeding, symptoms aur clinical context par depend karta hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Platelets primary clot formation mein help karte hain, oxygen capacity replace nahi karte.
+- **B (Galat):** Cryoprecipitate mainly fibrinogen-rich component hai.
+- **C (Sahi):** Packed red cells hemoglobin aur red-cell mass provide karte hain.
+- **D (Galat):** Plasma soluble clotting factors provide karti hai, red-cell concentrate nahi.
+
+**Exam clue:** PRBC: oxygen-carrying capacity.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1110,9 +1125,24 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 **Correct: A. Cryoprecipitate**
 
-Cryoprecipitate fibrinogen-rich component hai jo selected bleeding conditions mein use ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** RBC hemoglobin provide karti hain. Crystalloid aur saline clotting proteins nahi provide karte.
+Cryoprecipitate plasma ka cold-insoluble fraction hai. Isme concentrated fibrinogen aur factor VIII, XIII, von Willebrand factor jaise selected proteins hote hain. Fibrinogen fibrin clot banane mein important hai. Specific bleeding aur low fibrinogen situation mein authorized replacement plan follow karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Cryoprecipitate fibrinogen-rich blood component hai.
+- **B (Galat):** Crystalloid fluid aur electrolytes provide kar sakti hai, coagulation proteins nahi.
+- **C (Galat):** Saline clotting proteins supply nahi karti.
+- **D (Galat):** Packed red cells mainly hemoglobin supply karte hain.
+
+**Exam clue:** Cryoprecipitate: fibrinogen-rich component.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1557,9 +1587,24 @@ Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi a
 
 **Correct: B. Provide soluble coagulation factors**
 
-Plasma mein multiple clotting factors present hote hain. Use bleeding context aur authorized indication ke according hota hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Platelet aur RBC concentrates separate components hain. Plasma fluid volume bhi add karti hai.
+Coagulation factors blood proteins hain jo clot ko stable banane ke liye cascade mein kaam karte hain. Plasma multiple soluble factors contain karti hai. Specific bleeding situation aur factor deficiency mein authorized indication ke according plasma use ho sakti hai. Routine volume expansion ya isolated lab abnormality alone automatic indication nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Plasma fluid volume bhi deliver karti hai aur all electrolyte replacement ka product nahi hai.
+- **B (Sahi):** Soluble coagulation factors replace karna relevant purpose hai.
+- **C (Galat):** Red-cell concentrate plasma se alag component hai.
+- **D (Galat):** Platelet count badhana plasma ka primary role nahi hai.
+
+**Exam clue:** Plasma: multiple coagulation factors when indicated.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2257,9 +2302,24 @@ Airway-breathing emergency planned procedure se higher priority hai. Contaminate
 
 **Correct: D. Platelet concentrate**
 
-Platelet transfusion selected low-count ya dysfunctional platelet situations mein hemostasis support kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Red cells oxygen carry karti hain. Saline aur albumin platelet count replace nahi karte.
+Platelets chhote cell fragments hain jo injured blood vessel par primary plug banane mein help karte hain. Clinically indicated thrombocytopenia, yani low platelet count, ya selected platelet dysfunction mein platelet concentrate prescribe ho sakta hai. Bleeding risk aur condition-specific thresholds consider hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Normal saline fluid volume provide karti hai, platelets nahi.
+- **B (Galat):** Packed red cells platelet replacement ka standard component nahi.
+- **C (Galat):** Albumin plasma protein solution hai, platelets provide nahi karti.
+- **D (Sahi):** Platelet concentrate indicated platelet replacement ke liye appropriate hai.
+
+**Exam clue:** Platelets: primary hemostasis.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK594497/)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
