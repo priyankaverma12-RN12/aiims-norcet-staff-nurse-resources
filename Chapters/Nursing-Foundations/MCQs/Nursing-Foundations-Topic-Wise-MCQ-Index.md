@@ -56,8 +56,9 @@
 | [Patient identification and procedure safety](04B-Patient-Identification-and-Procedure-Safety-28-MCQs.md) | 28 | 30 |
 | [Restraint safety](04C-Restraint-Safety-29-MCQs.md) | 29 | 30 |
 | [Incident reporting and quality management](04D-Incident-Reporting-and-Quality-Management-26-MCQs.md) | 26 | 30 |
+| [Environmental and equipment safety](04E-Environmental-and-Equipment-Safety-26-MCQs.md) | 26 | 30 |
 
-Current inventory **949 original question slots** (399 Medium, 550 Difficult), initial 600 + 349 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **975 original question slots** (412 Medium, 563 Difficult), initial 600 + 375 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -76,3 +77,5 @@ Group 04B: original Q1 and Q15 + 28 new = 30 allocated. [Reported evidence](../P
 Group 04C: original Q10 plus 29 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04C-Restraint-Reported-Evidence.md). Remaining 11 earlier group 04 questions reserved once for later topics.
 
 Group 04D: earlier Q5, Q6, Q17 and Q20 plus 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04D-Incident-Quality-Reported-Evidence.md). Seven original Group 04 items remain reserved once: Q7,8,9,12,14,16,18.
+
+Group 04E: original Q7, Q8, Q9 and Q14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md). Group 04 has five individual allocations of 30 each. Reserve Q12 for medication safety, Q16 feeding safety and Q18 clinical escalation without counting them twice. Full semantic and clinical audit pending.
