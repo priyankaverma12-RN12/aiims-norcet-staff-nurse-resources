@@ -22,6 +22,7 @@ jobs:
           node --check website/app.js
           node --check website/quiz.js
           node website/quiz.test.cjs
+          node website/navigation.test.cjs
       - name: Install browser test dependencies
         run: |
           python -m pip install playwright==1.56.0
