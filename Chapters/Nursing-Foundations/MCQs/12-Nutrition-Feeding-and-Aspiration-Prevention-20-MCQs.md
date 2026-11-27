@@ -4,7 +4,7 @@
 
 ### Q1. A patient with impaired swallowing is about to receive a meal. Which position usually reduces aspiration risk when tolerated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 NORCET 9 Mains 27 September 2025 — related aspiration-prevention concept](https://testbook.com/question-answer/a-68-year-old-patient-has-just-received-enteral-nu--692eebf93e5062de751da5a1)**
 
 - **A.** Upright sitting with individualized swallowing recommendations
 - **B.** Flat supine
@@ -27,13 +27,13 @@ Dysphagia ka matlab nigalne mein dikkat hai. Aspiration tab hoti hai jab food, s
 
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
-**Dedicated YouTube MCQ practice:** verification pending.
+**▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact question and playback pending. Direct open failed.
 
 </details>
 
 ### Q2. A patient coughs repeatedly and develops a wet voice while drinking water after stroke. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Encourage larger sips to improve swallowing
 - **B.** Continue the meal because coughing is normal in all patients
@@ -56,13 +56,13 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
-**Dedicated YouTube MCQ practice:** verification pending.
+**▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact scenario and playback pending. Direct open failed.
 
 </details>
 
 ### Q3. What is the purpose of a prescribed texture-modified diet in dysphagia?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Replace swallowing assessment permanently
 - **B.** Increase choking risk deliberately
@@ -91,7 +91,7 @@ Texture modification mein food ki consistency aur liquid ki thickness assessment
 
 ### Q4. A patient who is drowsy after sedation is scheduled for oral feeding. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Use a straw regardless of swallowing plan
 - **B.** Reassess alertness and swallowing safety before offering food
@@ -120,7 +120,7 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 ### Q5. Which method best supports independence in a patient with limited hand strength during feeding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Require use of standard utensils despite difficulty
 - **B.** Provide suitable adaptive utensils and assistance only as needed
@@ -149,7 +149,7 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 ### Q6. A newly inserted nasogastric tube is intended for feeding. Which action is essential before first use?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 JIPMER Staff Nurse 23 February 2020 — related reported concept](https://testbook.com/question-answer/a-nurse-has-just-performed-an-ng-tube-insertion-pr--625e730a1f273d67e1fab908)** · **[🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept](https://testbook.com/question-answer/what-is-the-widely-use-method-to-confirm-the-posit--62d648633f4043e0dd372dac)**
 
 - **A.** Confirm placement using the approved evidence-based method and document authorization for use
 - **B.** Inject air and rely on an abdominal whoosh alone
@@ -174,11 +174,13 @@ Nasogastric ya NG tube nose se stomach tak jaane ke liye insert hoti hai, lekin 
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
+**▶️ [YouTube MCQ practice — NG/NET placement, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4797s)** · Published chapter 1:19:57 identifies tube-placement confirmation. Topic-level only, exact question and playback pending. Direct open failed.
+
 </details>
 
 ### Q7. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Advance the tube blindly to the old marking and resume
 - **B.** Increase feeding rate to compensate for interruption
@@ -207,7 +209,7 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 
 ### Q8. What is the usual purpose of flushing an enteral feeding tube with prescribed water?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Sterilize the stomach
 - **B.** Replace all nutritional requirements
@@ -236,7 +238,7 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 ### Q9. Which practice is appropriate when administering several compatible prescribed medicines through an enteral tube?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Use an IV syringe connected to an enteral line
 - **B.** Skip all flushes to save time
@@ -265,7 +267,7 @@ Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube co
 
 ### Q10. An enterally fed patient develops sudden coughing, breathlessness and oxygen desaturation. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Wait until the current bag empties
 - **B.** Stop feeding, assess and support breathing and seek urgent help
@@ -294,7 +296,7 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 ### Q11. Which information should be included when monitoring nutritional intake?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Actual amount consumed and relevant tolerance findings
 - **B.** Only the amount delivered on the tray
@@ -323,7 +325,7 @@ Nutritional intake delivered food se nahi, actual consumed amount se assess hoti
 
 ### Q12. A patient has severe malnutrition and is about to restart nutrition. Which electrolyte disturbance is particularly associated with refeeding syndrome?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Hyperphosphatemia as the typical defining early shift
 - **B.** Isolated high sodium in every patient
@@ -352,7 +354,7 @@ Severe malnutrition mein body prolonged low intake ke according adapt ho jaati h
 
 ### Q13. Which measurement helps monitor longer-term nutritional and fluid trends when obtained under consistent conditions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A single room temperature reading
 - **B.** The number of available meal trays
@@ -381,7 +383,7 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 
 ### Q14. A patient on continuous enteral nutrition has an interruption because of a procedure and receives glucose-lowering medication. Which risk should the nurse consider?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Immediate protein overload
 - **B.** No need for monitoring because feeding has stopped
@@ -410,7 +412,7 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 ### Q15. Which is a key advantage of enteral nutrition when the gastrointestinal tract is functional and accessible?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** It provides nutrition directly into an artery
 - **B.** It uses the gastrointestinal tract and supports gut function
@@ -439,7 +441,7 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 
 ### Q16. A patient receiving parenteral nutrition through a central line develops fever and rigors. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assess urgently for possible bloodstream infection and follow line and sepsis protocols
 - **B.** Assume fever is a normal nutrient response
@@ -468,7 +470,7 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 ### Q17. Which intervention supports oral health in a patient who is not eating by mouth?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Provide regular individualized oral care despite the NPO order
 - **B.** Avoid oral hygiene until oral meals resume
@@ -497,7 +499,7 @@ NPO ka matlab nil per os yani mouth se food, drink ya medicines restricted as or
 
 ### Q18. Which action is appropriate when a patient has a prescribed fluid restriction and receives enteral tube flushes?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Exclude all tube flushes from intake
 - **B.** Increase flush volume without reviewing the order
@@ -526,7 +528,7 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 ### Q19. Which observation is particularly important when assessing tolerance of enteral feeding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** The brand of the bedside table
 - **B.** Only whether the feeding bag is transparent
@@ -555,7 +557,7 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 ### Q20. A patient has a new prescription for nutritional supplementation but reports a severe allergy to an ingredient. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Dilute the supplement and assume the allergen is harmless
 - **B.** Withhold the product until the ingredient and safe alternatives are verified
@@ -586,3 +588,10 @@ Food allergy mein immune system specific ingredient ko harmful samajhkar reactio
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
 
 Follow current facility protocols, authorized orders and professional scope.
+
+
+## 📜 Historical and practice evidence recheck — 27 November 2026
+
+- NORCET 9 Mains 27 September 2025 memory-based report tests positioning after gastrostomy feeding, not the exact oral dysphagia scenario in Q1. JIPMER 23 February 2020 and AIIMS Raipur 9 September 2017 reports test NG placement confirmation (Q6 related concepts). Direct third-party pages retrieved, official keys not authenticated. The JIPMER source also describes outdated air-auscultation and water-bubbling methods. These are not reliable confirmation methods and should not be followed. Preserve current approved placement-confirmation protocol.
+- HPRCA 20 March 2026 third-party transcript Q105 concerns school-based nutrition screening, not a matching bedside scenario. No label added. Official post code 26004 final-key notice located, no item-level official key authenticated. GMCH 2019 continuous feeding report direct open failed. Other India-wide leads remain pending.
+- Q1, Q2 and Q6 now have topic-level ADAPT NCLEX question-chapter markers. Six existing broad enteral/parenteral practice leads retained without counting them as specific coverage. Q3–5, Q7–20 remain specific video gaps (17). No exact playback or transcript verified.
