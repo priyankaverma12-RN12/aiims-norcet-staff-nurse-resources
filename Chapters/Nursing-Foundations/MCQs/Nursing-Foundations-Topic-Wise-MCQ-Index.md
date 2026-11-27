@@ -54,8 +54,9 @@
 | [Physical examination](03E-Physical-Examination-27-MCQs.md) | 27 | 30 |
 | [Fall risk and prevention](04A-Fall-Risk-and-Prevention-24-MCQs.md) | 24 | 30 |
 | [Patient identification and procedure safety](04B-Patient-Identification-and-Procedure-Safety-28-MCQs.md) | 28 | 30 |
+| [Restraint safety](04C-Restraint-Safety-29-MCQs.md) | 29 | 30 |
 
-Current inventory **894 original question slots** (372 Medium, 522 Difficult), initial 600 + 294 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **923 original question slots** (387 Medium, 536 Difficult), initial 600 + 323 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -70,3 +71,5 @@ Oximetry allocation one prior Q7 + 29 new = 30. Physical examination Q8–10 + 2
 Group 04A fall prevention: original Q2,3,4,11,13,19 + 24 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04A-Fall-Risk-Reported-Evidence.md). Remaining 14 earlier group 04 items reserved for later individual topics. No double counting.
 
 Group 04B: original Q1 and Q15 + 28 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04B-Identification-Procedure-Reported-Evidence.md). Remaining 12 original group 04 questions reserved once for later topics.
+
+Group 04C: original Q10 plus 29 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04C-Restraint-Reported-Evidence.md). Remaining 11 earlier group 04 questions reserved once for later topics.
