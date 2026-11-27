@@ -63,8 +63,9 @@
 | [Medication routes and formulations](06B-Medication-Routes-and-Formulations-25-MCQs.md) | 25 | 30 |
 | [Medication monitoring and response](06C-Medication-Monitoring-and-Response-26-MCQs.md) | 26 | 30 |
 | [Dose units, concentration and reconstitution](07A-Dose-Units-Concentration-and-Reconstitution-20-MCQs.md) | 20 | 30 |
+| [Weight-based dosing and safe-dose range](07B-Weight-Based-Dosing-and-Safe-Dose-Range-27-MCQs.md) | 27 | 30 |
 
-Current inventory **1,124 original question slots** (476 Medium, 648 Difficult), initial 600 + 524 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,151 original question slots** (480 Medium, 671 Difficult), initial 600 + 551 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -94,4 +95,6 @@ Group 06A: 22 new originals + Group 06 Q1,2,3,10,12,18,19 and Group 04 Q12 = 30 
 
 Group 06B: 25 new + original Group 06 Q4,5,6,14,16 = 30 allocated. Group 06C: 26 new + Q11,13,15,20 = 30 allocated. Reserve Q17 once for Group 07 calculations and Q7,8,9 once for Group 19 injection techniques. All 13 reconciled. [06B concepts](../Concepts/06B-Medication-Routes-and-Formulations.md) · [06C concepts](../Concepts/06C-Medication-Monitoring-and-Response.md). Full semantic, clinical and video audit pending.
 
-Group 07A: 20 new + original Group 07 Q1–4, Q14–17, Q19 and reserved Group 06 Q17 = 30 allocated. Group 07 Q5,6,18 reserve for weight-based dosing. Q7–11,20 reserve for infusion calculations. Q12–13 reserve for fluid balance scope. All 20 earlier Group 07 IDs reconciled once, no duplicate credit. [Concept guide](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md) · [Reported evidence](../Previous-Year-Questions/07A-Dose-Calculation-Reported-Evidence.md).
+Group 07A: 20 new + original Group 07 Q1–4, Q14–17, Q19 and reserved Group 06 Q17 = 30 allocated. Group 07 Q5,6,18 allocated once to 07B weight-based dosing. Q7–11,20 reserve for infusion calculations. Q12–13 reserve for fluid balance scope. All 20 earlier Group 07 IDs reconciled once, no duplicate credit. [Concept guide](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md) · [Reported evidence](../Previous-Year-Questions/07A-Dose-Calculation-Reported-Evidence.md).
+
+Group 07B: 27 new + original Group 07 Q5,6,18 = 30 allocated. [Concept guide](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md) · [Reported evidence](../Previous-Year-Questions/07B-Weight-Based-Dose-Reported-Evidence.md). Q7–11,20 remain reserved for infusion calculations, Q12,13 for fluid balance. Full clinical and semantic audit pending.
