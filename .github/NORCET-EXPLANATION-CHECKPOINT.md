@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-group02a-run7
-Scope: Read-only Group 02A and 02B review and separate explanation drafts
+Scope: Nursing Foundations Group 01 PYQ and Group 02, 02A, 02B rationale integration only; Group 02C drafting; no shared indexes
 Claimed UTC: 2026-11-27T05:29:34.121Z
 Expiry UTC: 2026-11-27T05:59:34.121Z
 
