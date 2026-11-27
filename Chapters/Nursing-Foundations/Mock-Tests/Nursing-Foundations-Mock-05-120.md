@@ -1285,9 +1285,19 @@ Wound progression ko compare karne ke liye same standardized measurement techniq
 
 **Correct: D. Explain the care, provide privacy and expose only the area being cleaned**
 
-Privacy aur explanation se patient ko control aur respect ka feeling milta hai. Limited exposure comfort aur warmth maintain karta hai.
+Complete bed bath mein patient vulnerable feel kar sakta hai. Nurse care explain karti hai, consent aur preferences respect karti hai, curtain ya door se privacy maintain karti hai aur sirf jis area ko clean kar rahi hai usse expose karti hai. Isse dignity, warmth aur comfort protect hote hain.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary exposure aur observers dignity compromise karte hain. Explanation patient participation support karti hai.
+**Option-wise explanation:**
+- **A (Galat):** Alert patient ko explanation na dena informed participation reduce karta hai.
+- **B (Galat):** Unnecessary observers patient ki privacy compromise kar sakte hain.
+- **C (Galat):** Whole body continuously expose karna unnecessary heat loss aur embarrassment cause kar sakta hai.
+- **D (Sahi):** Explanation, privacy aur limited exposure patient-centered care ke key steps hain.
+
+**Exam clue:** Explain, obtain cooperation, cover all but the care area.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax hygiene practices](https://openstax.org/books/clinical-nursing-skills/pages/7-1-hygiene-practices)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2407,9 +2417,19 @@ Diagnostic procedure ke dauran bhi acute deterioration possible hai. Nurse patie
 
 **Correct: B. A suitable bed cradle**
 
-Bed cradle bedcovers ka weight feet se door rakhne mein help karta hai. Nurse device placement aur skin pressure check karti hai.
+Bed cradle ek frame hai jo bedcovers ko patient ke painful ya sensitive body part se upar support kar sakta hai. Isse blanket ka direct weight feet par nahi padta. Suitable device ko safely position karo aur contact points, circulation aur skin regularly check karo. Heel offloading ki need alag assess hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Elastic band, hard ring aur restraint pressure ya circulation problems cause kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Tight band ankle circulation aur skin pressure compromise kar sakta hai.
+- **B (Sahi):** Suitable bed cradle bedcovers ko feet se door hold karta hai aur comfort support kar sakta hai.
+- **C (Galat):** Restraint comfort device nahi hai aur movement/circulation risk add karta hai.
+- **D (Galat):** Hard ring focal pressure create kar sakti hai aur bedcovers lift nahi karti.
+
+**Exam clue:** Bed cradle lifts covers, not a pressure-offloading substitute.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2679,9 +2699,19 @@ Nursing process dynamic hai aur patient status change hone par priorities adjust
 
 **Correct: D. Label and store it safely, and return it when appropriate**
 
-Hearing aid important communication device hai. Labeled dry storage loss aur damage prevent karne mein help karti hai.
+Hearing aid patient ko communication aur orientation mein help karta hai. Hygiene care se pehle remove karna indicated ho toh manufacturer instructions ke mutabik dry protective labeled storage use karo. Patient ki consent aur communication needs maintain karo, aur care ke baad appropriate time par device return karo.
 
-**Baaki options kyun sahi nahi hain?** Waste tissue aur water exposure device loss ya damage cause kar sakte hain. Hearing difficulty discard karne ka reason nahi hai.
+**Option-wise explanation:**
+- **A (Galat):** Hearing difficulty device discard karne ka indication nahi hai.
+- **B (Galat):** Running tap ke paas moisture damage ka risk hai.
+- **C (Galat):** Unmarked waste tissue mein device accidentally discard ho sakta hai.
+- **D (Sahi):** Safe labeled storage aur timely return hearing aid loss prevent aur communication support karte hain.
+
+**Exam clue:** Label, protect and return personal aids.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2817,9 +2847,19 @@ Supports neutral alignment aur pressure distribution mein help kar sakte hain. P
 
 **Correct: A. Pause care, assess breathing and vital signs, and modify the plan**
 
-Hygiene activity bhi energy demand badha sakti hai. New breathlessness ko assess karna aur rest ya modified care arrange karna zaroori hai.
+Bed bath bhi physical activity hai. Breathlessness aur exhaustion limited cardiopulmonary reserve ya acute deterioration ka signal ho sakte hain. Activity pause karo, patient ko safely support karo, airway, breathing, oxygen saturation aur vital signs assess karo. Severe ya persistent symptoms mein timely urgent escalation karo. Stable hone par rest breaks aur modified hygiene plan consider karo.
 
-**Baaki options kyun sahi nahi hain?** Forceful completion aur unassessed positioning respiratory distress worsen kar sakte hain. Symptoms ignore nahi karne chahiye.
+**Option-wise explanation:**
+- **A (Sahi):** Care pause aur assessment immediate safety prioritize karte hain.
+- **B (Galat):** Bina assessment flat karne se kuch patients mein breathing worsen ho sakti hai.
+- **C (Galat):** New breathlessness ko routine maan kar ignore karna deterioration miss kar sakta hai.
+- **D (Galat):** Bath jaldi finish karna oxygen demand aur distress badha sakta hai.
+
+**Exam clue:** New dyspnea during hygiene: stop, assess, modify/escalate.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
