@@ -2,14 +2,32 @@
 
 **Starter stage, not studied.** This chapter has 44 original questions (4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis questions). It is not complete yet.
 
-| Section | Open |
-|---|---|
-| Concepts and topic coverage | [Topic map](Concepts/Obstetric-and-Midwifery-Nursing-Topic-Coverage-Map.md) |
-| Topic-wise original questions | [4 starter MCQs](MCQs/Obstetric-and-Midwifery-Nursing-Topic-Wise-Starter-MCQs.md) |
-| Antenatal Care | [20 original MCQs — four parts](MCQs/01-Antenatal-Care-20-MCQs.md) · [2 reported PYQ adaptations](Previous-Year-Questions/01-Antenatal-Care-Reported-PYQs.md) |
-| Pregnancy Diagnosis | [20 original MCQs — four parts](MCQs/02-Pregnancy-Diagnosis-20-MCQs.md) |
-| Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
-| Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
+## Study resources
+
+### Concepts and topic coverage
+
+- [Topic map](Concepts/Obstetric-and-Midwifery-Nursing-Topic-Coverage-Map.md)
+
+### Topic-wise original questions
+
+- [4 starter MCQs](MCQs/Obstetric-and-Midwifery-Nursing-Topic-Wise-Starter-MCQs.md)
+
+### Antenatal Care
+
+- [20 original MCQs — four parts](MCQs/01-Antenatal-Care-20-MCQs.md)
+- [2 reported PYQ adaptations](Previous-Year-Questions/01-Antenatal-Care-Reported-PYQs.md)
+
+### Pregnancy Diagnosis
+
+- [20 original MCQs — four parts](MCQs/02-Pregnancy-Diagnosis-20-MCQs.md)
+
+### Chapter-only mocks
+
+- [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md)
+
+### Previous Year Questions
+
+- [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md)
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
