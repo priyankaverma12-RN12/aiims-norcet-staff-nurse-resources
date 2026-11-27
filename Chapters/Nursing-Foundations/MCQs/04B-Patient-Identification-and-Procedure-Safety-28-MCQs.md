@@ -4,7 +4,9 @@
 
 ### Q1. A patient changes beds after a ward transfer. Which identifier must not be used as a substitute for a person-specific identifier?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Hospital record number
 B. Bed number
@@ -23,11 +25,19 @@ D. Registered full name
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient responds yes when asked whether their name is Sunita Devi. What improves the reliability of this check?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Ask the patient to state their registered name and date of birth without prompting
 B. Repeat the same leading question twice
@@ -46,11 +56,19 @@ D. Use the diagnosis as the second identifier
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A patient with hearing impairment cannot hear the usual identity questions but can read and write. What is the best adaptation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Ask another patient to identify them
 B. Omit verbal and other identity checks
@@ -69,11 +87,19 @@ D. Use only a bed card
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. An unconscious unidentified trauma patient needs immediate life-saving treatment. What is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Delay resuscitation until legal name is established
 B. Use another patient's hospital number temporarily
@@ -92,11 +118,17 @@ D. Use the emergency temporary identification protocol while providing urgent ca
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A stable inpatient's identification wristband is illegible before a planned bedside procedure. What should the nurse do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Pause the procedure and verify identity and replace the band according to policy
 B. Write a guessed name on the damaged band
@@ -115,11 +147,19 @@ D. Ask the patient to carry the chart instead
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. Two newborn twins have similar temporary names. Which control best distinguishes them before routine care?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Use their mother's name alone
 B. Use distinct assigned newborn identifiers and verify each infant against the matching record
@@ -138,11 +178,19 @@ D. Use birth weight alone
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient's name appears differently in two records after a registration correction. Which action is safest before a scheduled test?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Select the shorter name
 B. Create an independent second chart
@@ -161,11 +209,19 @@ D. Assume both records belong to the same person
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A barcode scanner reads the expected patient number but the printed date of birth conflicts with the chart. What is the correct response?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Trust the scanner because it is electronic
 B. Ignore the printed discrepancy
@@ -184,11 +240,19 @@ D. Pause and reconcile the conflicting identifiers before nonurgent care
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A nurse prepares to collect samples from several patients. Which workflow best limits label mix-ups?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Collect and label one patient's specimens at the point of collection after verification
 B. Collect all specimens and label them together later
@@ -207,11 +271,19 @@ D. Use only the phlebotomy schedule to assign samples
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. An unlabeled routine blood specimen arrives at the laboratory. The collector thinks they remember its source. What is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Accept recollection as sufficient proof
 B. Follow laboratory rejection and recollection policy rather than guessing identity
@@ -230,11 +302,19 @@ D. Run the sample and assign the result later
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A specimen container is labeled left breast but the requisition states right breast. What should happen before processing?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Use the requisition because it is typed
 B. Use the container because it is physically attached
@@ -253,11 +333,19 @@ D. Remove laterality from both records
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A patient receives a printed laboratory result that contains another person's name. What is the nurse's appropriate response?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Explain the result as though it belongs to the patient
 B. Ask the patient to decide whether the value looks familiar
@@ -276,11 +364,19 @@ D. Prevent use of the mismatched result and notify the responsible team for corr
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A planned procedure is listed under the correct patient but the consent describes a different intervention. What is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Hold the planned procedure until the discrepancy is resolved with the authorized clinician and patient
 B. Proceed using the theatre schedule
@@ -299,11 +395,17 @@ D. Use the procedure with the shorter duration
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A competent patient says the proposed procedure differs from what was explained earlier. Which action best supports safety?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Reassure the patient that the schedule is always correct
 B. Pause and arrange clarification before seeking agreement to proceed
@@ -322,11 +424,17 @@ D. Treat earlier consent as irreversible
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. Why is a site mark placed according to an approved protocol before a laterality-dependent procedure?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. To replace verbal confirmation
 B. To identify the operating room
@@ -345,11 +453,17 @@ D. To document the patient's diagnosis
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. The patient has been positioned and draped but the required site mark cannot be seen. What is best before incision?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Assume the mark was checked earlier
 B. Ask only the surgeon whether it is correct
@@ -368,11 +482,17 @@ D. Resolve visibility and site verification according to policy before starting
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. When is the WHO surgical checklist Sign In phase performed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Before induction of anesthesia
 B. After skin incision
@@ -391,11 +511,17 @@ D. After arrival in the recovery unit
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. During a surgical time-out, an active team member continues another task and does not acknowledge the checks. What is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Record completion because the form is present
 B. Ensure active team participation and resolve incomplete verification before incision
@@ -414,11 +540,17 @@ D. Perform the time-out retrospectively
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient needs two distinct procedures performed by different teams during one anesthetic session. Which safety plan is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Complete a single check only at admission
 B. Use the first team's confirmation for every later procedure
@@ -437,11 +569,17 @@ D. Wait until discharge to reconcile procedure records
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A senior clinician asks the nurse to skip the time-out because the procedure is running late. What is best for a stable elective case?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Accept the instruction without discussion
 B. Document a completed time-out without doing it
@@ -460,11 +598,17 @@ D. Speak up and insist on resolving the required safety check before proceeding
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. Which action best distinguishes pre-procedure verification from the final time-out?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Review relevant records and consent in advance, then actively reconfirm immediately before the procedure
 B. Complete the final time-out several days in advance
@@ -483,11 +627,17 @@ D. Do not review records if the site is marked
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A bedside invasive procedure is planned outside the operating theatre. Which principle applies?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Identity checks are needed only in theatre
 B. Use applicable procedure verification and a time-out according to institutional policy
@@ -506,11 +656,17 @@ D. Perform safety verification only after complications occur
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. At surgical Sign Out, which concern should be communicated to the receiving care team?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Only the patient's admission date
 B. Only the operating room number
@@ -529,11 +685,17 @@ D. The next patient's scheduled procedure
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. Two containers from different anatomical sites are collected during a procedure. Which workflow supports accurate specimen identification?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Use identical site labels for both
 B. Label by collection order alone without site information
@@ -552,11 +714,17 @@ D. Verify each specimen's patient identifiers and specific anatomical site using
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. A patient asks why staff repeatedly confirm their name and date of birth during the same admission. Which explanation is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Different care encounters need their own safety verification to prevent mix-ups
 B. Staff do not trust the patient
@@ -575,11 +743,19 @@ D. The checks are necessary only for unfamiliar staff
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. An emergency temporary record is later linked to a confirmed identity. What protects continuity of care?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Delete the temporary record without reconciliation
 B. Use an authorized record-linking process that preserves traceability of results and treatments
@@ -598,11 +774,19 @@ D. Continue using two unrelated records permanently
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q27. An identity-check audit finds that staff scan wristbands but rarely ask capable patients to state their identifiers. Which improvement is best?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Remove all barcode scanners
 B. Increase the number of audit forms only
@@ -621,11 +805,19 @@ D. Use the percentage of scanned bands as proof of complete verification
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — dedicated coverage of this identity or procedure scenario not confirmed.
+
+**🎬 [Teaching — Barcodes vs. Wristbands: Which is the correct identification?](https://www.youtube.com/watch?v=Bp0g3k1anV8)** · Nursing and Patient Safety, indexed description covers identity checks, newborn identification, barcodes and sample labeling. Teaching only, not counted as MCQ practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q28. During a final check, imaging shows a different side from the procedure booking. The patient is already anesthetized and the case is nonurgent. What is the safest action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · Original practice
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical safety · ⚪ Original practice
+<!-- /job4-metadata -->
 
 A. Proceed with the booking side because the patient is asleep
 B. Use the imaging side without consulting the team
@@ -644,6 +836,10 @@ D. Stop progression and reconcile imaging, consent, site and intended procedure 
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Questions and Answers on Surgical Check List, Sign In, Sign Out and Time Out](https://www.youtube.com/watch?v=rPGaGw-eSoI)** · Indexed description confirms checklist Q&A. Exact item, channel and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 ## Teaching and practice
