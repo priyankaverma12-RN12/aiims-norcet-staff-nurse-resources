@@ -264,3 +264,8 @@ Current chapter inventory verified at 800 question slots across 20/30 topic grou
 ### Evidence reconciliation — immunity
 
 880 question slots across 22/30 defined groups, 403 Medium and 477 Difficult per remote MCQ index. Both current immunity banks contain 40 hidden answer blocks. Concurrent update replaced the initially published topic 21 bank, so no extra question authorship counted. Added separately retrieved ESIC Staff Nurse 26 February 2019 shift II NK-cell item and two indexed provisional leads. Current reported recruitment adaptations: 48 (45 prior, two DSSSB, one ESIC), plus two academic adaptations. Provisional leads excluded. Chapter mocks 0/10 and global tracked mocks 17/350. Next: vaccination, cold chain and passive immunization. Video playback, official keys, individual-topic expansion and semantic audit remain pending.
+
+
+### Continuation — vaccination and cold chain
+
+40 original MCQs with hidden rationales, concept guide and diagram, three indexed video resources (two with retrieved channel attribution), one retrieved OSSSC 2021 question adaptation and provisional source leads. Total 920 across 23/30 defined topic groups (425 Medium and 495 Difficult), 49 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10 and global tracked mocks 17/350 pending reconciliation. Next: specimen collection and diagnostic microbiology. Official keys, full playback, individual-topic expansion and semantic duplicate audit remain pending.
