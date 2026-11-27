@@ -1,5 +1,7 @@
 # NORCET Full Chapter Index — curriculum-based study map
 
+<a name="current-mock-progress--26-november-2026"></a>
+
 ## Current mock progress — 27 November 2026
 
 | Chapter | Published 120-question tests |

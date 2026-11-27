@@ -59,6 +59,8 @@ Ye original revision diagram hai. Neeche poora concept samjho.
 - Dono crisis mein emergency clinician review chahiye.
 - Edrophonium testing routine modern bedside distinction nahi hai.
 
+<a name="guillain-barr-syndrome"></a>
+
 ## Guillain-Barré syndrome
 
 - GBS immune-mediated peripheral nerve disorder hai.

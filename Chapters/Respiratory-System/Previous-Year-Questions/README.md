@@ -6,10 +6,16 @@
 
 ## Kaunsa paper available hai?
 
-| Exam | Kya mila? | Original English question | Open karo |
-|---|---|---|---|
-| **HP Staff Nurse 2022 — Post Code 933** | Purane scanned paper ke **5 respiratory questions** | Five self-contained independently worded adaptations with hidden answers, exact wording and key pending | [2022 paper ke 5 questions](HP-Staff-Nurse-2022-Respiratory.md) |
-| **NORCET 10 (2026)** | **1 memory-based reported question** | English question online source ke according; official paper se verify nahi hua | [Memory-based question](NORCET-10-2026-Memory-Based.md) |
+- **HP Staff Nurse 2022 — Post Code 933**
+  - **Kya mila?:** Purane scanned paper ke **5 respiratory questions**
+  - **Original English question:** Five self-contained independently worded adaptations with hidden answers, exact wording and key pending
+  - **Open karo:** [2022 paper ke 5 questions](HP-Staff-Nurse-2022-Respiratory.md)
+
+- **NORCET 10 (2026)**
+  - **Kya mila?:** **1 memory-based reported question**
+  - **Original English question:** English question online source ke according; official paper se verify nahi hua
+  - **Open karo:** [Memory-based question](NORCET-10-2026-Memory-Based.md)
+
 
 > **Dhyan de:** Scanned paper aur memory-based sawaal alag hain. Har paper ka source link diya hai. Bina proof question ko official nahi kahenge.
 

@@ -3,15 +3,27 @@
 
 Checked 26 November 2026.
 
-| Topic | Source |
-|---|---|
-| Gross anatomy, heart wall, skeleton | [OpenStax A&P 2e, Heart Anatomy](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy) |
-| Surfaces, borders, grooves and sinuses | [TeachMeAnatomy](https://teachmeanatomy.info/thorax/organs/heart/borders-sinuses-sulci/) |
-| Attachments, nerves, blood supply | [TeachMeAnatomy Pericardium](https://teachmeanatomy.info/THORAX/ORGANS/HEART/PERICARDIUM/) |
-| Histology, junctions, muscle electrical properties | [OpenStax Cardiac Muscle and Electrical Activity](https://openstax.org/books/anatomy-and-physiology/pages/19-2-cardiac-muscle-and-electrical-activity) |
-| Fluid, tamponade | [StatPearls Tamponade](https://www.ncbi.nlm.nih.gov/books/NBK431090/); [Effusion](https://www.ncbi.nlm.nih.gov/books/NBK431089/) |
-| Fluid removal | [StatPearls Pericardiocentesis](https://www.ncbi.nlm.nih.gov/sites/books/NBK470347/?report=reader) |
-| Dextrocardia | [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK556074/?report=classic) |
+- Gross anatomy, heart wall, skeleton
+  - **Source:** [OpenStax A&P 2e, Heart Anatomy](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy)
+
+- Surfaces, borders, grooves and sinuses
+  - **Source:** [TeachMeAnatomy](https://teachmeanatomy.info/thorax/organs/heart/borders-sinuses-sulci/)
+
+- Attachments, nerves, blood supply
+  - **Source:** [TeachMeAnatomy Pericardium](https://teachmeanatomy.info/thorax/organs/heart/pericardium/)
+
+- Histology, junctions, muscle electrical properties
+  - **Source:** [OpenStax Cardiac Muscle and Electrical Activity](https://openstax.org/books/anatomy-and-physiology/pages/19-2-cardiac-muscle-and-electrical-activity)
+
+- Fluid, tamponade
+  - **Source:** [StatPearls Tamponade](https://www.ncbi.nlm.nih.gov/books/NBK431090/); [Effusion](https://www.ncbi.nlm.nih.gov/books/NBK431089/)
+
+- Fluid removal
+  - **Source:** [StatPearls Pericardiocentesis](https://www.ncbi.nlm.nih.gov/books/NBK470347/)
+
+- Dextrocardia
+  - **Source:** [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK556074/)
+
 
 New source check, 26 November 2026: [NCBI embryology](https://www.ncbi.nlm.nih.gov/books/NBK537313/), [NCBI heart/pericardium](https://ncbi.nlm.nih.gov/sites/books/NBK482452/), [OpenStax cardiac muscle 2e](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity), [HPSSC scanned booklet Q43 printed page 10](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=10) (page visually checked, official key not verified). [Additional MCQs](Concepts/Extra-High-Yield-Concepts-and-MCQs.md).
 
