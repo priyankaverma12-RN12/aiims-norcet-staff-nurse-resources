@@ -4,7 +4,7 @@
 
 ### Q1. Which insertion angle is conventional for a correctly selected intramuscular injection?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS NORCET, 20 November 2021 — related reported concept only**
 
 - **A.** 15 degrees
 - **B.** 25 degrees
@@ -28,13 +28,19 @@ Intramuscular ya IM injection ka target skeletal muscle hota hai, jo skin aur su
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications) · [Clinical reference 2](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
 
+**Related historical evidence:** [AIIMS NORCET, 20 November 2021 — third-party report](https://testbook.com/question-answer/intramuscular-injection-angle-is--624ff6b50e642b40ff56012e). Retrieved memory-based report tests conventional IM insertion angle. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q4](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q4-which-insertion-angle-is-conventional-for-a-correctly-selected-intramuscular-injection)
+
 ### Q2. Which angle is commonly used for an intradermal injection with the bevel facing upward?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 UPPSC Staff Nurse, 17 December 2017 — related reported concept** · **🟣 BHU Staff Nurse, 22 October 2019 — related reported concept** · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** 90 degrees
 - **B.** 70–80 degrees
@@ -58,15 +64,19 @@ Intradermal ya ID injection mein drug epidermis ke neeche dermis ki superficial 
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 
-**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ.
+**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ. [AIIMS Jodhpur 10 December 2019 memory-based report](https://testbook.com/question-answer/the-nurse-should-hold-the-syringe-almost-flat-agai--625fd2a58eb1628dbf110359) also tests bevel-up shallow insertion. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q68](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q68-which-angle-is-commonly-used-for-an-intradermal-injection-with-the-bevel-facing-upward)
+
 ### Q3. What determines whether a subcutaneous injection is given at 45 or 90 degrees?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** A universal 45-degree rule
 - **B.** Needle length, tissue thickness and product-specific technique
@@ -90,13 +100,17 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q26](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q26-what-determines-whether-a-subcutaneous-injection-is-given-at-45-or-90-degrees)
+
 ### Q4. Which muscle is commonly used for an adult IM vaccine when muscle mass is adequate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Deltoid
 - **B.** Forearm flexor
@@ -124,9 +138,11 @@ Deltoid upper arm ki muscle hai aur adequate muscle mass wale adults mein routin
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q60](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q60-which-muscle-is-commonly-used-for-an-adult-im-vaccine-when-muscle-mass-is-adequate)
+
 ### Q5. Why is ventrogluteal placement often preferred to dorsogluteal placement for a suitable non-vaccine IM drug?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It is relatively distant from the sciatic nerve and major vessels
 - **B.** It absorbs all drugs faster than IV delivery
@@ -150,13 +166,17 @@ Ventrogluteal site hip ke lateral region mein gluteal muscles ko access karti ha
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q37](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q37-why-is-ventrogluteal-placement-often-preferred-to-dorsogluteal-placement-for-a-suitable-non-vaccine-im-drug)
+
 ### Q6. Which statement about aspiration before routine IM vaccination reflects current guidance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It is mandatory for every vaccine
 - **B.** It is performed only after vaccine delivery
@@ -184,9 +204,11 @@ Aspiration ka matlab needle insert karne ke baad injection se pehle plunger with
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q45](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q45-which-statement-about-aspiration-before-routine-im-vaccination-reflects-current-guidance)
+
 ### Q7. What is the purpose of the Z-track technique for selected IM medications?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 HPSSSB Staff Nurse, October 2020 — related reported concept only**
 
 - **A.** Increase venous access
 - **B.** Prevent every drug allergy
@@ -210,13 +232,19 @@ Z-track technique mein selected IM medicine ke liye skin aur underlying subcutan
 
 **Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
 
+**Related historical evidence:** [HPSSSB Staff Nurse, October 2020 — third-party report](https://testbook.com/question-answer/which-of-the-following-is-injected-deep-i-m-by--61b9c14d908510dedf620a9a). Retrieved historical item tests a drug associated with Z-track and discusses prevention of leakage. Related concept only, not a present-day drug-route recommendation. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q55](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q55-what-is-the-purpose-of-the-z-track-technique-for-selected-im-medications)
+
 ### Q8. A patient injecting insulin repeatedly into one spot develops firm fatty lumps. Which teaching is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use the identical puncture point daily
 - **B.** Rotate sites systematically and avoid abnormal tissue according to guidance
@@ -244,9 +272,11 @@ Lipohypertrophy ka matlab repeated insulin exposure aur local injection trauma k
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q60](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q60-a-patient-injecting-insulin-repeatedly-into-one-spot-develops-firm-fatty-lumps-which-teaching-is-appropriate)
+
 ### Q9. Which practice is required for an insulin pen used in a hospital?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use another patient's pen if the insulin type matches
 - **B.** Dedicate it to one patient even when the needle is changed
@@ -276,9 +306,11 @@ Insulin pen mein reusable patient-specific cartridge ya reservoir hota hai. Inje
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q89](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q89-which-practice-is-required-for-an-insulin-pen-used-in-a-hospital)
+
 ### Q10. Which injection equipment practice is safe?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Use a new sterile syringe and needle for each injection as indicated
 - **B.** Reuse the syringe between patients after changing needles
@@ -308,9 +340,11 @@ Needle aur syringe skin barrier cross karte hain, isliye asepsis important hai. 
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q70](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q70-which-injection-equipment-practice-is-safe)
+
 ### Q11. Which practice prevents contamination during multidose vial access?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reenter with a used patient syringe
 - **B.** Leave a needle in the stopper permanently
@@ -340,9 +374,11 @@ Multidose vial manufacturer ki approval ke according repeated withdrawal ke liye
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q5](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q5-which-practice-prevents-contamination-during-multidose-vial-access)
+
 ### Q12. An injectable solution contains unexpected visible particles. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Shake it until clear without checking
 - **B.** Administer it slowly regardless of particles
@@ -370,9 +406,11 @@ Unexpected visible particles injectable product mein formulation defect, incompa
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q117](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q117-an-injectable-solution-contains-unexpected-visible-particles-what-should-the-nurse-do)
+
 ### Q13. Where is a buccal tablet placed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Inside the ear canal
 - **B.** On the external cheek skin
@@ -400,9 +438,11 @@ Buccal route mein specially prescribed medicine gum aur inner cheek ke beech rak
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q54](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q54-where-is-a-buccal-tablet-placed)
+
 ### Q14. An eye drop and ointment are prescribed together for the same eye. Which sequence is generally appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Apply both to the closed eyelid
 - **B.** Drops before ointment with the recommended interval
@@ -430,9 +470,11 @@ Eye drops liquid preparation hoti hain aur ointment semi-solid preparation hai. 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q18](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q18-an-eye-drop-and-ointment-are-prescribed-together-for-the-same-eye-which-sequence-is-generally-appropriate)
+
 ### Q15. Where should routine ophthalmic drops be instilled?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Lower conjunctival sac without touching the dropper tip
 - **B.** Directly onto the cornea with tip contact
@@ -460,9 +502,11 @@ Lower eyelid gently pull karne par conjunctival sac, yani lid aur eyeball ke bee
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q17](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q17-where-should-routine-ophthalmic-drops-be-instilled)
+
 ### Q16. A patient reports dizziness when cold ear drops are administered. What can help prevent this?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Boil the bottle
 - **B.** Insert the dropper against the eardrum
@@ -490,9 +534,11 @@ Cold ear drops vestibular system, yani balance control karne wale inner-ear mech
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q83](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q83-a-patient-reports-dizziness-when-cold-ear-drops-are-administered-what-can-help-prevent-this)
+
 ### Q17. How is the adult external ear canal usually straightened for ear drops?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Pull downward and forward
 - **B.** Push inward
@@ -520,9 +566,11 @@ Adult external auditory canal curved hota hai. Pinna ko gently upward aur backwa
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q27](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q27-how-is-the-adult-external-ear-canal-usually-straightened-for-ear-drops)
+
 ### Q18. A metered-dose inhaler is used with a compatible spacer. Which instruction is generally correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Exhale into the spacer during actuation
 - **B.** Never check inhalation technique again
@@ -550,9 +598,11 @@ Metered-dose inhaler ya MDI measured aerosol puff release karta hai. Compatible 
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q11](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q11-a-metered-dose-inhaler-is-used-with-a-compatible-spacer-which-instruction-is-generally-correct)
+
 ### Q19. A patient taking anticoagulants develops an enlarging hematoma after an injection. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ignore it until the next routine visit
 - **B.** Assess bleeding and tissue status, apply suitable pressure and seek review
@@ -580,9 +630,11 @@ Hematoma ka matlab tissue mein blood collect hona hai. Anticoagulant therapy clo
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q108](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q108-a-patient-taking-anticoagulants-develops-an-enlarging-hematoma-after-an-injection-what-is-appropriate)
+
 ### Q20. What should an injection administration record include?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Drug, dose, route, site, actual time and relevant response
 - **B.** Only the prescribed time
@@ -609,6 +661,8 @@ Injection documentation se team ko actual administered treatment aur patient res
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q36](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q36-what-should-an-injection-administration-record-include)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
