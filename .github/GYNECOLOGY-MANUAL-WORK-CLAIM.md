@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: CLAIMED
-Owner: gyne-infertility-contraception-20261127
-Scope: Gynecology infertility Q21-Q40, contraception bank and chapter README only, disjoint from active Obstetrics
-Claimed UTC: 2026-11-27T13:20:00Z
-Expiry UTC: 2026-11-27T13:50:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
@@ -19,3 +19,9 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 - Infertility and Couple Assessment Q1–Q20, four five-question parts, 20 unique stems and 20 hidden answer blocks, full option-by-option rationales. Commit 430591635faa880aefc66ff3d3417ca188958f29, blob 3856e1d15d7998d668ba3838c02b40faed0117ce, exact readback verified. Detailed semantic, independent clinical audit and video/source evidence remain pending.
 - Gynecology README updated and verified, commit 7efad26f0597bcd8005f6bcf0fe0590f44ff2b61. Current 64 original slots: 4 starters, 40 menstrual, 20 infertility. No Gynecology mocks or new PYQs claimed. Parallel Obstetrics claim and files untouched.
 - Next: expand Infertility Q21–Q40 if truly distinct and needed, then contraception, reproductive tract infections, gynecological cancers, fibroids/endometriosis, menopause, reproductive surgery and other curriculum topics. Complete all banks before ten distinct chapter-only mocks, then India-wide sourced PYQs. Verify all active claims and target SHA before each write.
+
+## Latest verified Gynecology run — 27 November 2026
+- Infertility Q21–Q40: 20 original English four-option questions, four five-question parts, 20 hidden detailed Hinglish answers. Commit f990f80d3df8ceed5aa424b5af8d3fe837150333, blob 264b9296116a39127382be4424d7083d85b9bfbd, exact remote readback passed. 20 unique normalized new stems and zero exact match with earlier 20 infertility stems. Full semantic and independent medical audit pending.
+- Contraception and Counseling Q1–Q20: 20 original English four-option questions, four parts, 20 hidden detailed Hinglish answers. Existing IUD/STI starter preserved, not repeated verbatim. Commit 03f0f47877d50933f33664ea55b4530908997210, blob 005a1ef3a510ceb0366471719ccfcba75d2416fb, exact remote readback passed. Full semantic and clinical audit pending.
+- README updated to 104 originals, commit 81ec47cd9741b0be9ecb060ddceb12cb53a4d189, exact readback passed. Composition 4 preserved starters, 40 menstrual, 40 infertility, 20 contraception. No mocks or new PYQs. No claim of official exam provenance or verified YouTube mappings. Obstetrics parallel owner and files untouched.
+- Next: contraception expansion Q21–Q40 with distinct clinical topics, then remaining Gynecology curriculum topic banks (RTI/STI/PID, endometriosis/fibroids, gynecological malignancies, menopause, surgery). After all topics ten distinct chapter-only mocks, then India-wide question-level sourced PYQs. Recheck claims, exact and semantic duplicates, answer accuracy and readback. No full chapter completion claim.
