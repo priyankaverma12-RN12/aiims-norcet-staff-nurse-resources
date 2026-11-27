@@ -100,4 +100,6 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Patient identification and procedure safety](04B-Patient-Identification-and-Procedure-Safety.md), 30 allocated.
 
-Next group 04C restraint safety. Full clinical and semantic audit pending.
+- [Restraint safety](04C-Restraint-Safety.md), 30 allocated.
+
+Next group 04D incident reporting and quality management, followed by remaining safety hazards. Full clinical and semantic audit pending.
