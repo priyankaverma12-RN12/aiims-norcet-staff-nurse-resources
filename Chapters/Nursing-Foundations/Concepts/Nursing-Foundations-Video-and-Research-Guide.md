@@ -46,3 +46,15 @@ Dedicated oximetry MCQ-solving video unconfirmed. Related practice not a verifie
 - [Surgical checklist questions and answers](https://www.youtube.com/watch?v=rPGaGw-eSoI), indexed question-practice lead for Q13–24 and Q28, direct playback failed, channel and timestamps unconfirmed.
 - Existing VS Nursing Academy patient-safety practice link is related to Q1–12 and Q25–27 at topic level only. Exact identity items and dedicated identity question video pending.
 - [Open RN patient identification](https://www.ncbi.nlm.nih.gov/books/NBK596717/) and [WHO Safe Surgery](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions) directly retrieved. [Reported exam adaptations](../Previous-Year-Questions/04B-Identification-Procedure-Reported-Evidence.md).
+
+## Group 04C restraint safety
+
+[29 original questions](../MCQs/04C-Restraint-Safety-29-MCQs.md). [Level Up RN teaching](https://www.youtube.com/watch?v=B54Y3q3DIrg) and [NGN QOTW restraint practice lead](https://www.youtube.com/watch?v=TAf3VKwhT0g), indexed only, not exact question matches. Dedicated Indian law and NORCET practice pending.
+
+## Group 04D incident reporting and quality management
+
+[26 original questions](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md). [Hospital Quality Insights teaching](https://www.youtube.com/watch?v=9q-XjOLD9sM) and [Quality Assurance & Audit lecture](https://www.youtube.com/watch?v=uHc64TxyQ8s). Dedicated question-practice verification pending Q1–26, and [reported DSSSB adaptation](../Previous-Year-Questions/04D-Incident-Quality-Reported-Evidence.md). Teaching is not MCQ-solving evidence.
+
+## Group 04E environmental and equipment safety
+
+[26 original questions](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md). [Level Up RN — Inpatient Safety](https://www.youtube.com/watch?v=RsZZ1WhtM40), description confirms RACE/PASS, equipment malfunction, chemical exposure and end-of-video quiz. Related description-level leads Q1–4, Q6, Q13, Q17, Q25 (8/26). Exact question or verified topic-specific question solving 0/26. Other 18 lack specific leads. [Two reported adaptations](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md) use the same description-level lead, 0/2 exact or confirmed topic-specific matches. Playback and timestamps pending. [India 2026 fire guideline](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) retrieved text, screenshot failed. No teaching-only source counted as verified practice.
