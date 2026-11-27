@@ -33,4 +33,4 @@ Refractive errors: concepts a5592cf4267ff1ff2c49c692cda2accdcbebbdb3, corrected 
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0502-individual-refraction. Scope Myopia and hypermetropia expansion, chapter-local files only. Expires 2026-11-27T05:32:00Z. -->
