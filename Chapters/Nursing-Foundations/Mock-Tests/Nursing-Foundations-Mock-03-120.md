@@ -374,7 +374,7 @@ Blood splash eyes, nose aur mouth ki mucous membranes tak pahunch sakta hai. Tas
 
 ### Q15. A patient refuses an oral medication after the nurse explains its purpose. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assess the reason, respect refusal, communicate and document according to policy
 - **B.** Crush it secretly into the meal
@@ -400,9 +400,11 @@ Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risk
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q11](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q11](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q11-a-patient-refuses-an-oral-medication-after-the-nurse-explains-its-purpose-which-response-is-appropriate)
 
 ### Q16. A patient voids 100 mL and has a large postvoid residual on repeated bladder assessment. Which problem is suggested?
 
@@ -511,7 +513,7 @@ Standing par gravity se blood lower body mein pool hota hai. Normally autonomic 
 
 ### Q19. A nurse needs to administer a prescribed high-alert insulin dose. Which practice is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Document administration before preparing the drug
 - **B.** Use a syringe with incompatible unit markings
@@ -537,9 +539,11 @@ Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyper
 [Clinical reference](https://www.ismp.org/system/files/resources/2024-01/ISMP_HighAlert_AcuteCare_List_010924_MS5760.pdf)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q10](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q10](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q10-a-nurse-needs-to-administer-a-prescribed-high-alert-insulin-dose-which-practice-is-appropriate)
 
 ### Q20. Which intervention supports functional independence during rehabilitation?
 
@@ -2303,7 +2307,7 @@ Pen cartridge mein blood contamination ho sakti hai. Needle change ke baad bhi p
 
 ### Q90. Which injection site is generally preferred for routine intramuscular vaccination in infants?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Anterolateral thigh using the vastus lateralis muscle
 - **B.** Abdominal subcutaneous fat
@@ -2329,9 +2333,11 @@ Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccinatio
 [Clinical reference](https://www.cdc.gov/vaccines/hcp/administration/during.html)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — IM route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q9](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q9](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q9-which-injection-site-is-generally-preferred-for-routine-intramuscular-vaccination-in-infants)
 
 ### Q91. Which action protects peristomal skin when selecting an ostomy appliance?
 
@@ -2419,7 +2425,7 @@ Monitor malfunction ya disconnected electrode flat tracing produce kar sakti hai
 
 ### Q95. When should an administered medication normally be documented?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 HSSC Staff Nurse 2019, held 25 July 2021 — related tested concept only](https://testbook.com/question-answer/the-six-rights-for-medication-administration-are-a--62c299abec23ce2463d1d92c)**
 
 - **A.** Only if the patient experiences an adverse effect
 - **B.** Before the nurse confirms the patient received it
@@ -2445,9 +2451,11 @@ Medication administration record actual dose, route aur time reflect karna chahi
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — documentation, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q12](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q12](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q12-when-should-an-administered-medication-normally-be-documented)
 
 ### Q96. An older patient develops new crackles, breathlessness and worsening oxygenation during rapid IV fluid administration. Which action is appropriate?
 
