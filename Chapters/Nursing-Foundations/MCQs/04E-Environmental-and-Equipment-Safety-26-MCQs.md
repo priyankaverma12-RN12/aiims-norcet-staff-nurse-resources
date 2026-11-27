@@ -18,12 +18,14 @@ D. Activate the fire alarm and initiate the facility response from a safe locati
 
 **Correct answer: D. Activate the fire alarm and initiate the facility response from a safe location**
 
-- **A (Incorrect):** Visible flame ka wait emergency response delay karega.
-- **B (Incorrect):** Unsafe room enter karne se smoke inhalation aur injury ho sakti hai.
-- **C (Incorrect):** Supplies retrieve karna unnecessary exposure hai.
-- **D (Correct):** Koi patient immediate danger mein nahi hai aur alarm accessible hai. Alarm activate karke facility response initiate karo.
+- **A (Incorrect):** Visible flame dikhne se pehle bhi smoke serious fire ka warning sign ho sakta hai. Wait karne se response team late pahunch sakti hai.
+- **B (Incorrect):** Smoke wale room mein bina training aur protection enter karne se toxic smoke exposure aur escape route lose hone ka risk hai. Source investigate karna trained responders ka kaam hai.
+- **C (Incorrect):** Cleaning supplies retrieve karna life safety se important nahi hai. Isse nurse ko unnecessary exposure ho sakta hai.
+- **D (Correct):** Is scenario mein room unoccupied hai aur nurse safe location par alarm ke paas hai. Isliye immediate fire alarm activate karke hospital emergency response shuru karna sahi hai. RACE mnemonic mein rescue tab priority hota hai jab koi immediate danger mein ho aur rescue safely possible ho.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md)
+**Exam clue:** RACE ko situation ke hisab se apply karo. Unoccupied room mein safe alarm activation ko delay mat karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **Exam evidence:** [JIPMER Staff Nurse, 23 February 2020](https://testbook.com/question-answer/in-terms-of-response-to-fire-accidents-in-hospital--625ebae9a8cbd66c4743e94c) and [RRB Nursing Superintendent, 12 March 2026 Shift 3](https://testbook.com/question-answer/what-does-the-acronym-race-stand-for-in-the-conte--69df4781c951cbb7b9e0d515). Both reported RACE questions reopened. This original scenario differs from the reported stems.
@@ -51,12 +53,14 @@ D. At the ceiling above the fire
 
 **Correct answer: C. At the base of the fire**
 
-- **A (Incorrect):** Smoke target karne se burning fuel address nahi hota.
-- **B (Incorrect):** Exit clear hona chahiye, nozzle exit par aim nahi karte.
-- **C (Correct):** PASS ka A aim at base hai, jahan burning material present hai. Use only when trained and safe.
-- **D (Incorrect):** Ceiling target karna standard technique nahi hai.
+- **A (Incorrect):** Smoke burning material se upar uthta hai. Sirf smoke par extinguisher aim karne se burning fuel effectively address nahi hota.
+- **B (Incorrect):** Safe exit available hona zaroori hai, lekin nozzle ko exit ki taraf aim karna fire ko control nahi karega.
+- **C (Correct):** PASS ka matlab Pull, Aim, Squeeze, Sweep hai. Aim ka matlab nozzle ko fire ke base ki taraf rakhna hai, jahan fuel burn ho raha hai. Suitable extinguisher ka use sirf trained person kare jab fire small ho aur safe escape possible ho.
+- **D (Incorrect):** Ceiling par aim karna PASS ka standard step nahi hai. Target burning material ka base hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** PASS mein A = Aim at base. Life safety extinguisher use se pehle aati hai.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -82,12 +86,14 @@ D. Continue extinguisher use until the cylinder empties
 
 **Correct answer: B. Withdraw to safety, alert the response team and follow evacuation instructions**
 
-- **A (Incorrect):** Records important hain, lekin immediate life safety pehle hai.
-- **B (Correct):** Safe withdrawal, alarm aur organized evacuation priority hain. Apni safety compromise karke fire fight mat karo.
-- **C (Incorrect):** Door open karne se smoke exposure badh sakta hai.
-- **D (Incorrect):** Growing fire aur compromised exit mein extinguisher attempt unsafe hai.
+- **A (Incorrect):** Charts useful hote hain, lekin smoke aur fire mein unko collect karne se evacuation delay ho sakti hai. Immediate life safety pehle hai.
+- **B (Correct):** Rapidly growing fire aur threatened exit ka matlab hai ki nurse ke paas safe firefighting conditions nahi hain. Safe jagah retreat karo, response team ko alert karo aur hospital evacuation instructions follow karo. Trained rescuers ko situation communicate karo.
+- **C (Incorrect):** Smoke-filled room ka door open karne se smoke spread aur exposure badh sakte hain. Ventilation ka improvisation trained fire response ki jagah nahi le sakta.
+- **D (Incorrect):** Extinguisher empty hone tak fight karna unsafe hai jab fire grow kar rahi ho ya exit threatened ho. Escape route preserve karna zaroori hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** Agar safe exit threatened hai toh fire fight continue mat karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -111,12 +117,14 @@ D. Limit the spread of smoke and fire between protected compartments
 
 **Correct answer: D. Limit the spread of smoke and fire between protected compartments**
 
-- **A (Incorrect):** Cylinder temperature storage management ka part hai.
-- **B (Incorrect):** Open airflow smoke movement increase kar sakta hai.
-- **C (Incorrect):** Fire door emergency access obstruct karne ke liye nahi hai.
-- **D (Correct):** Fire-rated doors compartment boundaries maintain karte hain aur smoke/fire spread delay karte hain.
+- **A (Incorrect):** Oxygen cylinder temperature ko safe storage aur heat separation se manage karte hain. Fire door ka main purpose cylinder cooling nahi hai.
+- **B (Incorrect):** Open airflow smoke ko doosre areas mein spread kar sakta hai. Fire doors ka purpose smoke movement limit karna hai, increase karna nahi.
+- **C (Incorrect):** Fire doors ko staff ke emergency access ko permanently block karne ke liye nahi lagaya jaata. Approved doors protected escape aur compartmentalization support karte hain.
+- **D (Correct):** Fire compartment ka matlab hospital ka fire-resistant boundary se separated area hai. Designated fire doors band hone par smoke aur fire ka spread delay hota hai, jisse safe movement ke liye time mil sakta hai. Unhe wedge karke open nahi rakhna chahiye.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** Fire doors smoke aur fire ko limit karte hain, evacuation ke liye time protect karte hain.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -140,12 +148,14 @@ D. Move the patient alone with the bed and request help later
 
 **Correct answer: A. Coordinate trained transport personnel, appropriate portable ventilation and monitoring before movement as circumstances permit**
 
-- **A (Correct):** Critical patient movement mein respiratory support, monitoring, trained help aur safe route coordinate karo. Immediate danger mein emergency command follow karo.
-- **B (Incorrect):** Ventilation interrupt karne se severe hypoxia ho sakti hai.
-- **C (Incorrect):** Routine documentation life safety delay nahi karni chahiye.
-- **D (Incorrect):** Solo transport critical support needs meet nahi karta.
+- **A (Correct):** Ventilator-dependent patient khud adequate ventilation maintain nahi kar pa sakta. Trained transport team, portable ventilation, oxygen supply, battery capacity aur appropriate monitoring ko situation ke hisab se coordinate karo. Immediate fire danger mein incident command ke safe evacuation plan ko follow karo, preparation ke liye unsafe delay mat karo.
+- **B (Incorrect):** Ventilatory support abruptly hataane se hypoxia aur cardiac arrest ka risk ho sakta hai. Movement ke dauran suitable backup support chahiye.
+- **C (Incorrect):** Routine charting complete karna patient ko immediate danger se nikalne se pehle zaroori nahi hai. Essential handover aur safety details team ko communicate karo.
+- **D (Incorrect):** Single nurse ko airway, lines, monitoring aur bed movement sab manage karna mushkil ho sakta hai. Trained help aur equipment coordinate karna safer hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** Critical patient evacuation mein movement ke saath essential life support continue rakho.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -169,12 +179,14 @@ D. Moving patients to a protected safe compartment on the same floor
 
 **Correct answer: D. Moving patients to a protected safe compartment on the same floor**
 
-- **A (Incorrect):** Different floor vertical movement hai aur elevator use incident plan par depend karta hai.
-- **B (Incorrect):** Interfacility transfer different process hai.
-- **C (Incorrect):** Roof movement same-floor transfer nahi hai.
-- **D (Correct):** Horizontal evacuation same level par protected compartment mein movement hai. Facility plan safe route decide karta hai.
+- **A (Incorrect):** Doosre floor par movement vertical evacuation hota hai. Ordinary lift ka use fire emergency mein default safe option nahi hai. Facility plan aur authorized instructions follow karo.
+- **B (Incorrect):** Doosre hospital ya city mein transfer interfacility evacuation hai. Yeh same-floor horizontal evacuation nahi hai.
+- **C (Incorrect):** Roof par movement same-floor protected compartment ka meaning nahi hai. Roof ko automatic safe destination assume nahi karte.
+- **D (Correct):** Horizontal evacuation mein patient ko same floor par fire-resisting protected compartment mein shift karte hain. Isse stairs use kiye bina dependent patients ko immediate threatened area se door le jaane mein help milti hai. Safe route incident team decide karti hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** Horizontal = same level. Vertical = different floor.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -198,12 +210,14 @@ D. Leave oxygen isolation decisions to the nearest visitor
 
 **Correct answer: C. Coordinate authorized zone isolation with incident leadership and alternative oxygen support for affected patients**
 
-- **A (Incorrect):** Uncoordinated shutoff se dependent patients ka life support interrupt ho sakta hai.
-- **B (Incorrect):** Oxygen flow indiscriminately increase karna unsafe hai aur fire intensity badha sakta hai.
-- **C (Correct):** Authorized team zone isolation coordinate kare aur affected patients ka alternative support ensure kare.
-- **D (Incorrect):** Visitor authorized clinical or engineering decision maker nahi hai.
+- **A (Incorrect):** Sabhi oxygen valves bina coordination close karne se unrelated ICU aur oxygen-dependent patients ka treatment ruk sakta hai. Isliye unauthorized blanket shutdown unsafe hai.
+- **B (Incorrect):** Indiscriminate oxygen increase smoke exposure ka treatment nahi hai. Oxygen enrichment fire ko intensify kar sakta hai aur flow clinical need ke according prescribed hona chahiye.
+- **C (Correct):** Central oxygen isolation sirf authorized staff aur incident command ke coordination se honi chahiye. Affected zone aur dependent patients identify karke alternative oxygen ya ventilation support arrange karna zaroori hai, as emergency conditions permit.
+- **D (Incorrect):** Visitor ko hospital medical gas system aur patient dependencies ka authorized knowledge nahi hota. Yeh decision trained clinical aur engineering team ka hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf)
+**Exam clue:** Oxygen fire safety aur life support dono protect karo. Uncoordinated valve closure mat karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#fire-response-and-evacuation) · [Reference](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf) · [Additional verification](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257800&lang=2&reg=48)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -227,12 +241,14 @@ D. Oxygen prevents combustion by cooling materials
 
 **Correct answer: C. Oxygen supports combustion and can intensify burning**
 
-- **A (Incorrect):** Ignition source oxygen-enriched environment mein especially dangerous hai.
-- **B (Incorrect):** Oxygen fuel nahi hai, oxidizer hai.
-- **C (Correct):** Oxygen combustion support karta hai aur materials more readily burn kar sakte hain.
-- **D (Incorrect):** Oxygen fire ko extinguish nahi karta.
+- **A (Incorrect):** Oxygen-enriched atmosphere mein ignition source zyada dangerous ho sakta hai, harmless nahi. Isliye smoking aur open flames avoid karte hain.
+- **B (Incorrect):** Oxygen khud flammable fuel nahi hai. Yeh oxidizer hai, matlab burning process ko support karta hai.
+- **C (Correct):** Combustion mein fuel aur oxygen reaction karte hain. Oxygen enrichment se combustible materials easily ignite ho sakte hain aur zyada intensely burn kar sakte hain. Medical oxygen ko ignition aur combustible materials se safely separate rakhte hain.
+- **D (Incorrect):** Oxygen fire extinguishing agent nahi hai. Oxygen ki presence combustion ko support karti hai, cooling se fire automatically stop nahi hoti.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
+**Exam clue:** Oxygen burns nahi karti, burning ko support karti hai.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf) · [Additional verification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115648&lang=2&reg=3)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice — Nursing Wallah by PW, RRB practice session, 08:08](https://www.youtube.com/watch?v=1EIouS8ulsY&t=488s)** · Published chapter identifies oxygen as a supporter of combustion. Topic-level chapter verified, exact item and playback pending.
@@ -256,12 +272,14 @@ D. Connect it at a lower flow rate
 
 **Correct answer: A. Keep it out of service and obtain an approved clean replacement**
 
-- **A (Correct):** Contaminated regulator use mat karo. Approved replacement aur authorized inspection arrange karo.
-- **B (Incorrect):** Tape hazard remove nahi karti aur defect hide kar sakti hai.
-- **C (Incorrect):** Oil ya grease oxygen equipment par combustion hazard create karta hai.
-- **D (Incorrect):** Low flow contamination safe nahi banata.
+- **A (Correct):** Regulator pressure control karta hai. Oil ya grease oxygen-rich environment mein dangerous ignition hazard create kar sakta hai. Contaminated regulator ko isolate karo aur authorized clean compatible replacement lo. Inspection trained personnel karein.
+- **B (Incorrect):** Tape contamination remove nahi karti. Isse defect hide ho sakta hai aur agla user danger se unaware reh sakta hai.
+- **C (Incorrect):** Oily lubricant contamination aur badha sakta hai. Oxygen equipment par sirf manufacturer-approved oxygen-compatible materials use hote hain.
+- **D (Incorrect):** Low flow se contaminated regulator safe establish nahi hota. Problem equipment contamination hai, prescribed oxygen flow nahi.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
+**Exam clue:** Oxygen fittings par oil ya grease nahi. Suspect equipment ko use se hatao.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf) · [Additional verification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115648&lang=2&reg=3)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -285,12 +303,14 @@ D. Secure cylinders in an approved ventilated area away from heat and ignition s
 
 **Correct answer: D. Secure cylinders in an approved ventilated area away from heat and ignition sources**
 
-- **A (Incorrect):** Combustibles ke paas oxygen cylinders fire risk increase karte hain.
-- **B (Incorrect):** Exit obstruction evacuation unsafe banata hai.
-- **C (Incorrect):** Loose cylinder fall aur heater ignition risk create karte hain.
-- **D (Correct):** Approved storage, fall prevention aur ignition separation mechanical and fire hazards reduce karte hain.
+- **A (Incorrect):** Combustible waste fuel ka source hai. Oxygen cylinders ke paas aise materials rakhne se fire hazard badhta hai.
+- **B (Incorrect):** Escape corridor ko clear rakhna zaroori hai. Cylinder storage se emergency evacuation obstruct nahi honi chahiye.
+- **C (Incorrect):** Loose pressurized cylinder girkar damage ho sakta hai. Heater ke paas storage additional heat aur ignition hazard create karta hai.
+- **D (Correct):** Cylinders ko authorized ventilated storage mein securely restrain karte hain, heat aur ignition sources se door. Isse cylinder fall, valve damage aur oxygen-enrichment fire hazards reduce hote hain. Full aur empty cylinders ko facility procedure ke according identify aur segregate karo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
+**Exam clue:** Cylinder safety = secure storage, ventilation, correct identification aur heat se separation.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf) · [Additional verification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115648&lang=2&reg=3)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -314,12 +334,14 @@ D. Attach the usual regulator and observe the pressure reading
 
 **Correct answer: B. Do not use it until the gas identity is confirmed through the authorized supply process**
 
-- **A (Incorrect):** Color convention alone gas identity confirm nahi karta.
-- **B (Correct):** Label aur verified supply information essential hain. Cylinder segregate karke authorized team notify karo.
-- **C (Incorrect):** Patient par unknown gas test karna dangerous hai.
-- **D (Incorrect):** Pressure reading gas composition confirm nahi karti.
+- **A (Incorrect):** Cylinder paint color ek supplementary clue ho sakta hai, lekin gas identity ka reliable replacement nahi hai. Color conventions supplier ya jurisdiction ke hisab se differ kar sakti hain.
+- **B (Correct):** Missing label ka matlab gas identity verify nahi hui. Cylinder ko use se alag rakho aur authorized gas supplier ya engineering team se identity confirm karvao. Patient ko sirf confirmed correct gas supply do.
+- **C (Incorrect):** Unknown gas patient ko dene se oxygen deprivation, toxicity ya serious injury ho sakti hai. Patient ko testing method banana unsafe hai.
+- **D (Incorrect):** Pressure gauge cylinder pressure batata hai, gas ka chemical identity nahi. Usual regulator fit hone se bhi gas identity prove nahi hoti.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
+**Exam clue:** Medical gas ko label aur authorized supply verification se identify karo, sirf color se nahi.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf) · [Additional verification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115648&lang=2&reg=3)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -343,12 +365,14 @@ D. Apply it to the oxygen tubing instead
 
 **Correct answer: C. Avoid petroleum products near oxygen equipment and seek an approved compatible alternative**
 
-- **A (Incorrect):** Flow adjust karna product compatibility solve nahi karta.
-- **B (Incorrect):** Petroleum products combustible ho sakte hain.
-- **C (Correct):** Facility-approved compatible product choose karo aur prescribed oxygen unnecessary stop mat karo.
-- **D (Incorrect):** Tubing par combustible product lagana unsafe hai.
+- **A (Incorrect):** Prescribed oxygen flow ko bina clinical reason badalna unsafe hai. Flow badalne se petroleum product compatible nahi ban jaata.
+- **B (Incorrect):** Petroleum-based product combustible ho sakta hai. Oxygen-rich area mein thick application fire hazard badha sakti hai.
+- **C (Correct):** Family ko samjhao ki oxygen burning support karti hai aur petroleum products near oxygen equipment avoid karne chahiye. Dry nostrils ke liye clinical team se approved oxygen-compatible alternative lo. Prescribed oxygen ko bina medical indication stop mat karo.
+- **D (Incorrect):** Tubing par petroleum lagana bhi combustible contamination introduce kar sakta hai. Tubing manufacturer ke instructions ke according clean aur use hoti hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf)
+**Exam clue:** Oxygen ke saath approved compatible products use karo. Oxygen therapy unnecessary discontinue mat karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#oxygen-and-medical-gas-safety) · [Reference](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf) · [Additional verification](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115648&lang=2&reg=3)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -372,12 +396,14 @@ D. Cover the damage with a temporary dressing and use it
 
 **Correct answer: C. Keep the device out of service, label the defect and notify biomedical engineering**
 
-- **A (Incorrect):** Different socket exposed wire ko safe nahi banata.
-- **B (Incorrect):** Patient exposure se safety test nahi karte.
-- **C (Correct):** Damaged insulation shock aur fire risk create karti hai. Equipment isolate aur authorized repair arrange karo.
-- **D (Incorrect):** Temporary covering certified electrical repair nahi hai.
+- **A (Incorrect):** Socket change karne se cable ki damaged insulation repair nahi hoti. Exposed conductor energized ho sakta hai aur shock ka risk rahega.
+- **B (Incorrect):** Patient ko tingling report karne ke liye kehna unko avoidable electrical hazard mein expose karta hai. Safety testing trained technical staff karein.
+- **C (Correct):** Insulation electric current ko safe conductor ke andar contain karti hai. Exposed wire shock, burn ya fire cause kar sakta hai. Device ko out of service mark karo, safe tareeke se isolate karo aur biomedical engineering ko inspection aur repair ke liye notify karo.
+- **D (Incorrect):** Dressing electrical insulation ke approved repair ka substitute nahi hai. Temporary cover ke neeche defect chhupa rahega.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
+**Exam clue:** Damaged electrical device ko test on patient nahi karna. Tag, isolate aur authorized repair.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic) · [Additional verification](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -401,12 +427,14 @@ D. Wipe the energized socket with a wet cloth
 
 **Correct answer: A. Keep people clear and arrange safe electrical isolation by authorized personnel before cleanup**
 
-- **A (Correct):** Wet energized area mein shock risk hai. Access restrict aur authorized isolation arrange karo.
-- **B (Incorrect):** Additional equipment circuit hazard increase kar sakta hai.
-- **C (Incorrect):** Metal conductor electric shock ka risk badhata hai.
-- **D (Incorrect):** Wet cloth electrical exposure increase kar sakta hai.
+- **A (Correct):** Wet energized socket ke paas electric current body tak pahunch sakta hai. Logon ko area se door rakho aur authorized personnel se circuit safely isolate karvao. Electrical hazard control confirm hone ke baad hi spill cleanup shuru karo.
+- **B (Incorrect):** Additional equipment switch on karne se faulty circuit aur expose ho sakta hai. Isse safety verify nahi hoti.
+- **C (Incorrect):** Metal instrument current conduct kar sakta hai. Energized socket mein instrument daalne se serious shock ka risk hai.
+- **D (Incorrect):** Wet cloth se energized socket wipe karna unsafe hai. Moisture current ke liye path bana sakti hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
+**Exam clue:** Water plus electricity mein pehle safe isolation, phir cleanup.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic) · [Additional verification](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -430,12 +458,14 @@ D. They improve device grounding automatically
 
 **Correct answer: A. They can compromise electrical protection and cause overheating**
 
-- **A (Correct):** Overload heat aur fire risk create karta hai, unsuitable adapters electrical safety protections affect karte hain.
-- **B (Incorrect):** Adapter battery duration guarantee nahi karta.
-- **C (Incorrect):** Alarm noise reduce karna electrical connection ka purpose nahi hai.
-- **D (Incorrect):** Improper adapter protective earth compromise kar sakta hai.
+- **A (Correct):** Overloaded board rated current se zyada load le sakta hai, jisse heating aur fire ka risk badhta hai. Unauthorized adapter protective grounding ya device compatibility ko compromise kar sakta hai. Hospital-approved connections use karo.
+- **B (Incorrect):** Adapter battery life increase karne ki guarantee nahi deta. Battery duration charge, device load aur battery condition par depend karti hai.
+- **C (Incorrect):** Alarm sound electrical adapter se appropriately manage nahi hoti. Alarm ko clinical purpose ke according set karte hain.
+- **D (Incorrect):** Improper adapter protective earth connection ko bypass ya damage kar sakta hai. Grounding improve hona automatic nahi hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
+**Exam clue:** Electrical equipment mein approved rating aur protective grounding important hain.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic) · [Additional verification](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -459,12 +489,14 @@ D. Turn off all patient monitoring until power returns
 
 **Correct answer: B. Verify ongoing function and battery status, escalate and prepare approved backup support**
 
-- **A (Incorrect):** Critical support interrupt karna harm cause kar sakta hai.
-- **B (Correct):** Patient support confirm karo, backup plan activate karo aur responsible team notify karo.
-- **C (Incorrect):** Battery capacity limited hoti hai aur device state verify karna zaroori hai.
-- **D (Incorrect):** Monitoring stop karne se deterioration miss ho sakti hai.
+- **A (Incorrect):** Critical device ko disconnect karne se essential therapy abruptly stop ho sakti hai. Battery conserve karne ke liye life support ko bina alternative band nahi karte.
+- **B (Correct):** Battery mode activate hone ke baad nurse ko patient ki condition, device ka actual function aur remaining battery status verify karna chahiye. Responsible team ko inform karke approved backup power ya equipment arrange karo. Battery fail hone se pehle transition plan ready hona chahiye.
+- **C (Incorrect):** Battery capacity limited hoti hai aur old battery expected se jaldi discharge ho sakti hai. Indefinite function assume karna unsafe hai.
+- **D (Incorrect):** Monitoring band karne se hypoxia, hypotension ya therapy interruption miss ho sakta hai. Essential monitoring ko backup se maintain karo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
+**Exam clue:** Power failure mein device display ke saath patient aur battery status bhi check karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#electrical-and-power-safety) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic) · [Additional verification](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -488,10 +520,12 @@ D. Transfer the prescribed therapy safely using approved replacement equipment a
 
 **Correct answer: D. Transfer the prescribed therapy safely using approved replacement equipment and quarantine the faulty pump**
 
-- **A (Incorrect):** Unapproved concentration change medication error cause kar sakta hai.
-- **B (Incorrect):** Error history investigation mein useful hai, faulty device stock mein nahi jana chahiye.
-- **C (Incorrect):** Maintenance date ka wait ongoing harm risk create karta hai.
-- **D (Correct):** Therapy continuity ensure karke suspect equipment isolate, label aur report karo. Replacement settings verify karo.
+- **A (Incorrect):** Prescribed drug concentration ko pump defect compensate karne ke liye change karna serious dose error cause kar sakta hai. Prescription aur approved concentration maintain karo.
+- **B (Incorrect):** Error history incident investigation ke liye useful evidence hai. Faulty device ko clear karke stock mein bhejna repeat exposure ka risk create karta hai.
+- **C (Incorrect):** Next maintenance date tak faulty pump chalate rehne se over-infusion ya under-infusion ho sakti hai. Critical therapy ko safe backup chahiye.
+- **D (Correct):** Patient aur prescribed infusion ko assess karo. Trained team approved replacement pump par therapy ko safely transfer kare, correct settings aur drug concentration verify kare aur interruption minimize kare. Suspect pump ko tag karke quarantine aur report karo. Error logs preserve karo.
+
+**Exam clue:** Patient therapy pehle safe karo, phir faulty equipment isolate aur report karo.
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 
@@ -517,12 +551,14 @@ D. Force saline through the line until resistance disappears
 
 **Correct answer: C. Examine the patient, access site and tubing, and follow the device-specific protocol without force-flushing**
 
-- **A (Incorrect):** Pressure limit increase karne se underlying obstruction mask ho sakta hai.
-- **B (Incorrect):** Permanent silencing ongoing hazard hide karta hai.
-- **C (Correct):** Patient aur line assess karo, obstruction identify karo aur approved troubleshooting follow karo.
-- **D (Incorrect):** Force flush catheter or tissue injury aur unintended bolus risk create kar sakta hai.
+- **A (Incorrect):** Occlusion ka matlab flow path block ya restricted hona hai. Pressure limit badha dene se actual cause hide ho sakta hai aur tissue ya device risk increase ho sakta hai.
+- **B (Incorrect):** Alarm permanently silence karne se continuing obstruction aur missed therapy ka warning signal khatam ho jaayega.
+- **C (Correct):** Patient ki condition, IV access site aur tubing check karo. Kink, clamp, infiltration ya device fault jaise causes ko approved protocol ke hisab se assess karo. Patency doubtful ho toh force-flush mat karo. Drug interruption aur pressure release se unintended bolus ke risk ko device instructions ke hisab se manage karo.
+- **D (Incorrect):** Resistance ke against force-flush karne se catheter damage, extravasation ya unintended drug delivery ho sakti hai. Pehle cause identify karo aur trained help lo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
+**Exam clue:** Pump alarm ko sirf silence mat karo. Patient aur line assess karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians) · [Additional verification](https://www.fda.gov/medical-devices/infusion-pumps/examples-reported-infusion-pump-problems)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -546,12 +582,14 @@ D. Use clinically appropriate patient-specific settings under policy and address
 
 **Correct answer: D. Use clinically appropriate patient-specific settings under policy and address avoidable false alarms**
 
-- **A (Incorrect):** Uniform settings patient-specific needs ignore karti hain.
-- **B (Incorrect):** Alarms disable karne se critical warning miss ho sakti hai.
-- **C (Incorrect):** Maximum volume alone alarm burden solve nahi karta.
-- **D (Correct):** Appropriate limits, sensor placement aur maintenance unnecessary alarms reduce karte hain while meaningful alerts remain active.
+- **A (Incorrect):** Same limit sab patients ke liye suitable nahi hoti. Individual baseline aur clinical condition ke hisab se unnecessary ya missed alarms ho sakte hain.
+- **B (Incorrect):** Overnight alarms disable karne se deteriorating patient ka warning miss ho sakta hai. Essential alarms active rehne chahiye.
+- **C (Incorrect):** Maximum volume se alarms zyada stressful ho sakte hain, lekin false alarm ka cause fix nahi hota. Audible settings safe policy ke hisab se honi chahiye.
+- **D (Correct):** Alarm fatigue tab hoti hai jab bahut frequent unnecessary alarms se staff ki responsiveness kam ho sakti hai. Authorized patient-specific limits, correct sensor placement aur equipment maintenance avoidable alarms ko reduce karte hain. Clinically important alerts preserve karo aur promptly respond karo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
+**Exam clue:** Alarm fatigue ka solution safe personalization aur false-alarm causes fix karna hai, alarm band karna nahi.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians) · [Additional verification](https://www.jointcommission.org/-/media/tjc/documents/standards/national-patient-safety-goals/2025/hap-npsg-chapter-2025.pdf)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -575,12 +613,14 @@ D. Read the device manual in another room before examining the patient
 
 **Correct answer: B. Assess the patient immediately and summon trained help to maintain ventilation as needed**
 
-- **A (Incorrect):** Family untrained equipment adjustment ke liye responsible nahi hai.
-- **B (Correct):** Patient-first assessment, urgent help aur appropriate backup ventilation support critical priority hain.
-- **C (Incorrect):** Alarm fatigue false reassurance nahi deni chahiye.
-- **D (Incorrect):** Manual helpful hai but breathing compromise assessment delay nahi karna chahiye.
+- **A (Incorrect):** Family ko ventilator reset karne ke liye kehna unsafe hai. Critical respiratory equipment trained staff handle karein.
+- **B (Correct):** Reduced chest movement effective ventilation kam hone ka sign ho sakta hai. Nurse patient ka airway, breathing, oxygenation aur circulation immediately assess kare, emergency trained help bulaye aur protocol ke hisab se appropriate backup ventilation ensure kare. Patient stable hone ke saath device cause troubleshoot karo.
+- **C (Incorrect):** Frequent alarms false ho sakte hain, lekin is patient mein chest movement reduced hai. Alarm ignore karna actual respiratory compromise miss kar sakta hai.
+- **D (Incorrect):** Manual device troubleshooting ke liye useful hai, lekin patient ko breathing support chahiye toh assessment delay nahi kar sakte.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
+**Exam clue:** Ventilator alarm mein patient first, machine second. Effective ventilation maintain karna priority hai.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians) · [Additional verification](https://www.ncbi.nlm.nih.gov/sites/books/NBK526044/)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -604,10 +644,12 @@ D. Powder-free natural rubber latex
 
 **Correct answer: A. Verified not made with natural rubber latex, with appropriate protective performance**
 
-- **A (Correct):** Verified non-latex material exposure avoid karta hai, barrier performance procedure ke suitable honi chahiye.
-- **B (Incorrect):** Hypoallergenic label latex-free guarantee nahi karta.
-- **C (Incorrect):** Low protein risk reduce kar sakta hai but confirmed allergy mein exposure avoid karo.
-- **D (Incorrect):** Powder-free latex mein latex proteins still present ho sakte hain.
+- **A (Correct):** Natural rubber latex mein proteins allergic reaction trigger kar sakte hain. Confirmed allergy mein verified non-latex glove select karo, jaise suitable nitrile product, aur procedure ke liye required barrier performance ensure karo.
+- **B (Incorrect):** Hypoallergenic ka label natural rubber latex absence prove nahi karta. Latex proteins ab bhi present ho sakte hain.
+- **C (Incorrect):** Low-protein latex exposure kam kar sakta hai, lekin confirmed allergy mein trigger completely avoid karna preferable hai.
+- **D (Incorrect):** Powder-free latex gloves airborne powder reduce kar sakte hain, lekin latex proteins remove hone ki guarantee nahi hai.
+
+**Exam clue:** Confirmed latex allergy mein verified not made with natural rubber latex choose karo, sirf powder-free nahi.
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
@@ -633,10 +675,12 @@ D. Verify catheter material and obtain a suitable non-latex product before the p
 
 **Correct answer: D. Verify catheter material and obtain a suitable non-latex product before the procedure**
 
-- **A (Incorrect):** Sterility material composition prove nahi karti.
-- **B (Incorrect):** Glove selection other latex-containing products ka exposure eliminate nahi karti.
-- **C (Incorrect):** Antihistamine unknown latex exposure ko safe nahi banata.
-- **D (Correct):** Catheter material verify karo because mucosal exposure serious reaction cause kar sakta hai.
+- **A (Incorrect):** Sterility microorganisms ke control ke baare mein batati hai. Sterile catheter natural rubber latex se bana ho sakta hai.
+- **B (Incorrect):** Non-latex gloves use karne se sirf glove-related exposure avoid hota hai. Catheter aur other supplies bhi verify karne chahiye.
+- **C (Incorrect):** Topical antihistamine severe systemic allergic reaction prevent karne ki reliable strategy nahi hai. Unknown material ko use karna safe nahi ban jaata.
+- **D (Correct):** Catheter directly mucosal tissue ke contact mein aata hai. Confirmed latex allergy mein manufacturer information se catheter material verify karo aur suitable verified non-latex catheter arrange karo. Team ko allergy aur latex precautions communicate karo.
+
+**Exam clue:** Latex precaution sirf gloves nahi. Patient ke contact mein aane wale sab relevant products check karo.
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
@@ -662,10 +706,12 @@ D. Irritant dermatitis is possible, but clinical evaluation is needed to disting
 
 **Correct answer: D. Irritant dermatitis is possible, but clinical evaluation is needed to distinguish causes**
 
-- **A (Incorrect):** Anaphylaxis acute systemic reaction hai, localized dryness alone sufficient nahi hai.
-- **B (Incorrect):** Occupational dermatitis possible hai, exclude nahi hua.
-- **C (Incorrect):** Dry cracked skin alone IgE-mediated allergy establish nahi karta.
-- **D (Correct):** Irritant dermatitis, delayed allergy aur immediate allergy different mechanisms hain. Evaluation aur exposure history chahiye.
+- **A (Incorrect):** Anaphylaxis acute severe systemic allergic reaction hai jo airway, breathing ya circulation compromise kar sakti hai. Local dry cracked skin alone ise prove nahi karti.
+- **B (Incorrect):** Frequent handwashing aur irritant exposure occupational skin condition cause kar sakte hain. Yeh finding work-related dermatitis ko exclude nahi karti.
+- **C (Incorrect):** IgE-mediated immediate allergy immune reaction hai jo exposure ke shortly after hives, wheeze ya systemic symptoms produce kar sakti hai. Dry skin alone uska diagnostic proof nahi hai.
+- **D (Correct):** Irritant dermatitis mein repeated water, soap ya chemicals skin barrier damage kar sakte hain. Delayed allergic contact dermatitis aur immediate IgE-mediated latex allergy alag mechanisms hain. Occupational exposure history aur clinical evaluation se cause distinguish karo.
+
+**Exam clue:** Dry cracked hands = possible irritant dermatitis, automatic latex allergy ya anaphylaxis nahi.
 
 [Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
 
@@ -691,12 +737,14 @@ D. Finish the procedure before reporting the symptoms
 
 **Correct answer: A. Stop suspected exposure, activate emergency response and initiate anaphylaxis management according to protocol**
 
-- **A (Correct):** Airway, breathing and circulation support aur urgent protocol-directed treatment priority hain. IM adrenaline first-line treatment hai when indicated.
-- **B (Incorrect):** Lab confirmation emergency treatment delay nahi karni chahiye.
-- **C (Incorrect):** Moisturizer systemic reaction treat nahi karta.
-- **D (Incorrect):** Procedure continue karna exposure aur deterioration prolong kar sakta hai.
+- **A (Correct):** Wheezing breathing compromise, hypotension circulation compromise aur generalized urticaria systemic allergic reaction suggest karte hain. Suspected exposure safely stop karo, emergency help activate karo aur ABC support ke saath anaphylaxis protocol follow karo. IM adrenaline first-line hai in general anaphylaxis management. Specialist perioperative situations mein trained team apna specific emergency protocol follow karti hai. Lab confirmation ka wait mat karo.
+- **B (Incorrect):** Anaphylaxis rapidly life-threatening ho sakti hai. Emergency treatment clinical recognition ke basis par start hota hai, lab result ka wait nahi karte.
+- **C (Incorrect):** Moisturizer dry skin ke liye useful ho sakta hai. Yeh bronchospasm, shock aur systemic allergic reaction treat nahi karta.
+- **D (Incorrect):** Procedure continue karne se trigger exposure aur respiratory or circulatory deterioration badh sakti hai. Immediate safety response zaroori hai.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy)
+**Exam clue:** Sudden wheeze plus hypotension after exposure = suspect anaphylaxis and activate urgent treatment.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/latex-allergy) · [Additional verification](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
@@ -720,12 +768,14 @@ D. Clean it immediately without checking the safety data sheet
 
 **Correct answer: A. Restrict access, move exposed people to safety when possible and activate the chemical-spill protocol**
 
-- **A (Correct):** Area isolate aur trained response activate karo. Product-specific SDS and PPE guidance follow karo.
-- **B (Incorrect):** Smelling chemical deliberately exposure increase karta hai.
-- **C (Incorrect):** Unknown chemicals mix karne se toxic reaction possible hai.
-- **D (Incorrect):** Unprotected cleanup unsafe ho sakta hai, SDS and local protocol important hain.
+- **A (Correct):** Unknown chemical fumes breathing aur eyes ko irritate kar sakte hain. Area restrict karo, exposed persons ko safe location tak move karo jab rescue safely possible ho, aur trained chemical-spill response activate karo. Safety Data Sheet yani SDS se product hazard, protective equipment aur safe cleanup instructions identify hote hain.
+- **B (Incorrect):** Chemical ko smell karke identify karna deliberate inhalation exposure create karta hai. Unprotected staff ko hazardous area mein nahi bhejna chahiye.
+- **C (Incorrect):** Unknown chemicals mix karne se toxic gas ya dangerous reaction ho sakta hai. Neutralization sirf known product-specific approved procedure se trained staff karein.
+- **D (Incorrect):** SDS aur protective equipment guidance ke bina cleanup staff ko chemical exposure mein daal sakta hai. Area secure karke trained response ka wait karo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic)
+**Exam clue:** Unknown chemical spill mein isolate, alert aur SDS-based trained cleanup. Chemicals ko mix mat karo.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#latex-and-chemical-exposure) · [Reference](https://www.ncbi.nlm.nih.gov/books/NBK610816/?report=classic) · [Additional verification](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/hazardous-chemicals)
 
 <!-- job4-video -->
 **▶️ [YouTube MCQ practice lead — Inpatient Safety, Level Up RN](https://www.youtube.com/watch?v=RsZZ1WhtM40)** — description confirms broad topic and end-of-video quiz. Exact item and topic-specific question playback pending.
@@ -749,12 +799,14 @@ D. Discard the device without recording its identification
 
 **Correct answer: A. Record the device identification, preserve relevant evidence, quarantine it and report through facility channels**
 
-- **A (Correct):** Device ID, event details, quarantine aur reporting investigation and recurrence prevention support karte hain.
-- **B (Incorrect):** Power-on test safe function establish nahi karta.
-- **C (Incorrect):** Bedside unauthorized repair further hazard create kar sakti hai.
-- **D (Incorrect):** Unrecorded disposal traceability and evidence destroy karta hai.
+- **A (Correct):** Immediate burn care ke baad device ka model, serial ya asset ID, settings aur event details available evidence ke according document karo. Device ko tagged quarantine mein rakho, relevant records preserve karo aur facility safety aur biomedical team ko report karo. Isse cause investigate karke repeat injury prevent karne mein help milti hai.
+- **B (Incorrect):** Device ka power on hona normal temperature control ya electrical safety prove nahi karta. Authorized testing ke bina stock mein return nahi karna chahiye.
+- **C (Incorrect):** Unauthorized internal repair se electrical hazard badh sakta hai aur original evidence change ho sakta hai. Trained biomedical personnel investigation karein.
+- **D (Incorrect):** Unrecorded disposal se device traceability aur malfunction evidence lose ho sakta hai. Facility-approved quarantine aur disposal process follow karo.
 
-[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
+**Exam clue:** Device-related injury mein patient care ke baad traceability, quarantine, evidence preservation aur reporting zaroori hain.
+
+[Concept](../Concepts/04E-Environmental-and-Equipment-Safety.md#equipment-and-alarms) · [Reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians) · [Additional verification](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 
 <!-- job4-video -->
 **YouTube MCQ practice: verification pending.**
