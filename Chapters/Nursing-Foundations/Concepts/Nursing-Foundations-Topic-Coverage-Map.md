@@ -118,4 +118,6 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Weight-based dosing and safe-dose range](07B-Weight-Based-Dosing-and-Safe-Dose-Range.md), 30 allocated.
 
-Next: Group 07C infusion rates and drug infusion calculations. Full clinical and semantic audit pending.
+- [Infusion rate and drug infusion calculations](07C-Infusion-Rate-and-Drug-Infusion-Calculations.md), 30 allocated (24 new + six existing). [Original diagram](../Assets/07C-Infusion-Calculation-Routes.svg) · [Original MCQs](../MCQs/07C-Infusion-Rate-and-Drug-Infusion-Calculations-24-MCQs.md) · [Reported evidence](../Previous-Year-Questions/07C-Infusion-Calculations-Reported-Evidence.md).
+
+Next: Group 08 IV therapy and vascular access subdivisions. Group 07 Q12 and Q13 reserved for fluid balance. Full clinical and semantic audit pending.
