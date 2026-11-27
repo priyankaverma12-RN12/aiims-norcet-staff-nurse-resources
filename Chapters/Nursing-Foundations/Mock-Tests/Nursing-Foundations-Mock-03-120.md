@@ -229,9 +229,19 @@ Red cells hemoglobin carry karti hain jo oxygen bind karta hai. Transfusion indi
 
 **Correct: B. The prescribed weight-bearing restriction, balance and therapist's assessment**
 
-Gait pattern patient ke affected limb par allowed load aur balance par depend karta hai. Nurse prescribed restriction reinforce karti hai.
+Partial weight bearing ka matlab affected limb par prescribed limited load allowed hai. Gait device, balance, strength, cognition aur prescribed restriction ke hisaab se choose hoti hai. Therapist training aur supervised practice zaroori hain.
 
-**Baaki options kyun sahi nahi hain?** Universal gait unsuitable ho sakti hai. Age aur material alone weight-bearing capacity determine nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Age fall risk ko affect kar sakti hai, par akeli age allowed loading nahi batati.
+- **B (Sahi):** Prescribed restriction, functional balance aur therapist assessment milkar safe gait choice determine karte hain.
+- **C (Galat):** Crutch material device ka ek feature hai. Yeh prescribed weight-bearing status decide nahi karta.
+- **D (Galat):** Har patient ka gait same nahi ho sakta. Non-weight-bearing aur partial-weight-bearing restrictions different hoti hain.
+
+**Exam clue:** Weight-bearing order pehle, gait pattern baad mein.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -1753,9 +1763,19 @@ Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, ase
 
 **Correct: C. Withhold manipulation of the affected calf and arrange prompt assessment for possible thrombosis**
 
-Unilateral painful swelling DVT ka warning sign ho sakta hai. Nurse manipulation avoid karke urgent clinical assessment arrange karti hai.
+Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri acute condition ka warning sign hai. Routine manipulation rok kar prompt clinical assessment arrange karein. Sudden dyspnea, chest pain ya collapse ho to emergency escalation karein. Sirf calf symptoms se DVT confirm nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Massage aur forceful stretching possible clot ya tissue injury mein unsafe hain. New swelling ignore nahi karni chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Forceful stretching swelling ka cause treat nahi karti aur pain ya tissue injury badha sakti hai.
+- **B (Galat):** Vigorous massage suspected thrombosis ya tissue injury mein inappropriate hai aur assessment delay karta hai.
+- **C (Sahi):** Manipulation rokna aur possible thrombosis ki timely assessment patient safety priority hai. Diagnosis aur activity plan clinician determine karega.
+- **D (Galat):** New unilateral swelling expected immobility symptom maan kar ignore nahi karni chahiye.
+
+**Exam clue:** New painful swollen calf = stop manipulation, assess urgently.
+
+**Clinical reference:** [NICE NG158 VTE](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -2275,9 +2295,19 @@ Pulmonary TB mein infectious particles air mein remain kar sakte hain aur inhala
 
 **Correct: A. Passive range-of-motion exercise**
 
-Passive ROM mein caregiver joint ko safe range mein move karta hai jab patient actively movement nahi kar paata. Isse mobility maintain karne mein help mil sakti hai.
+Passive ROM mein patient joint ko actively contract karke move nahi karta. Caregiver ya prescribed device gentle movement deta hai. Joint ko support karein aur pain, resistance, injury aur restrictions ka dhyan rakhein. Forceful stretch nahi karein.
 
-**Baaki options kyun sahi nahi hain?** Active ROM patient khud karta hai. Isometric mein tension produce hoti hai. Ambulation walking hai.
+**Option-wise explanation:**
+- **A (Sahi):** Passive ROM mein external assistance joint move karti hai jab patient active effort nahi karta.
+- **B (Galat):** Resisted isometric exercise mein muscle tension generate hoti hai, joint angle usually change nahi hota. Yeh passive movement nahi hai.
+- **C (Galat):** Active ROM mein patient apni muscle power se joint move karta hai. Isliye given description se match nahi karta.
+- **D (Galat):** Independent ambulation active walking hai, caregiver-driven joint movement nahi.
+
+**Exam clue:** Passive = caregiver moves. Active = patient moves.
+
+**Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -3124,9 +3154,21 @@ Watson caring relationship, dignity aur holistic human experience ko nursing ke 
 
 **Correct: A. Support body weight through the handgrips rather than the axillae**
 
-Axilla mein nerves aur vessels superficial hoti hain. Weight hands par transfer karne se axillary compression risk kam hota hai.
+Axillary crutch par body weight handgrips se transfer hona chahiye. Axilla mein brachial plexus aur vessels compression se hurt ho sakte hain. Proper clearance, elbow bend aur crutch fitting assessment zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** Armpit weight bearing aur tight fit nerve injury cause kar sakte hain. Fit assessment essential hai.
+**Option-wise explanation:**
+- **A (Sahi):** Handgrips load ko arms ke through distribute karte hain aur axillary compression se bachate hain.
+- **B (Galat):** Fit check na karne se unsuitable height, unstable gait aur pressure injury ka risk badh sakta hai.
+- **C (Galat):** Entire body weight axillary pad par dene se nerve compression aur pain ya weakness ho sakti hai.
+- **D (Galat):** Armpit ke bilkul tight crutches fit rakhna axillary tissues par pressure badhata hai.
+
+**Exam clue:** Crutch weight = hands, not armpits.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**Historical evidence:** [NORCET 20 November 2021 Shift II memory-based related crutch-fit question](https://testbook.com/question-answer/appropriate-position-for-crutches-from-axilla--65f844165b486df88a5ab8ad). Related fit concept, not this exact stem or authenticated official key.
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
