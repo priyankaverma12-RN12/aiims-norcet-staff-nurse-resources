@@ -42,3 +42,20 @@ C. perfringens alpha toxin phospholipase activity tissue injury contribute kar s
 
 - [PW Nursing Wallah: RRB Nursing Superintendent important MCQs part 3](https://www.youtube.com/watch?v=e3E44rDhtgY&t=1529s), indexed chapter marker 25:29 identifies neonatal tetanus practice. Mixed-topic session, not a full anaerobe course.
 - [NORCET 2026–27 Microbiology and Infection Control MCQs](https://www.youtube.com/watch?v=VIes9-YHn_w), indexed mixed-topic practice. Dedicated full anaerobe video remains pending. Full videos not independently reviewed.
+
+
+## Dedicated learning and question practice — additional research
+
+- Concept: [Med in 5 — Clostridium Made Simple](https://www.youtube.com/watch?v=cIdc3AxgDM4). Indexed description covers tetanus, botulism, gas gangrene and CDI.
+- Concept: [Dr G Bhanu Prakash — Clostridium Species, NEET PG Core Revision](https://www.youtube.com/watch?v=AOOuG_MybmY). Medical entrance-level mechanism review, not a substitute for nursing guidelines.
+- MCQ practice: [Clostridium MCQ Questions](https://www.youtube.com/watch?v=l7UAudwai4o). Indexed description specifically identifies four-option questions with answers. Channel metadata and full playback remain unverified.
+- NORCET quick revision: [Tetanus — High-Yield NORCET Points](https://www.youtube.com/watch?v=yy_TRnukkkI). Indexed Vandana Nursing Classes tag, channel and full playback remain unverified.
+- Additional clinical references: [ICMR gas gangrene](https://amrtg.icmr.org.in/section-info/10/3), [IDSA skin and soft tissue infections](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/), [WHO tetanus](https://www.who.int/news-room/fact-sheets/detail/tetanus).
+
+Search results confirm these titles and URLs, not playback or every answer. Topic-specific full-length nursing video for non-spore-forming anaerobes remains pending.
+
+### Practical clinical example
+
+Maan lo kisi patient ke crush injury ke baad wound pain bahut jaldi badh raha hai aur BP gir raha hai. Skin par gas feel na bhi ho, toh early myonecrosis exclude nahi hoti. Nurse emergency team ko jaldi inform karti hai aur prescribed resuscitation aur urgent surgical assessment coordinate karti hai. Culture confirmation ka wait karke source control delay nahi karna chahiye. Source control ka matlab infection ke focus ko remove ya drain karna hai. C. septicum ki spontaneous invasive infection mein clinician underlying colorectal ya hematologic disease bhi evaluate kar sakta hai.
+
+[Additional reported HPSSC and UPPSC exam evidence](../Previous-Year-Questions/Anaerobes-and-Rickettsiae-Reported-PYQ-Adaptations.md)
