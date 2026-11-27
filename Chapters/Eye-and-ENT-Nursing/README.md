@@ -10,3 +10,5 @@
 | Previous Year Questions | [Research register](Previous-Year-Questions/Eye-and-ENT-Nursing-Past-Paper-Research-Register.md) |
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+
+<!-- Manual Eye/ENT scope claim: CLAIMED, owner eye-ent-manual-20261127-0442, expires 2026-11-27T05:12:00Z. Scope Eye-and-ENT-Nursing only. No shared index writes. -->
