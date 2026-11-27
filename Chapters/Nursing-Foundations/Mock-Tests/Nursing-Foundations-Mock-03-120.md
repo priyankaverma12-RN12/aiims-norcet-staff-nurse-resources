@@ -785,7 +785,7 @@ Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise 
 
 ### Q28. A clean surgical incision develops separation of wound edges without visible internal organs. Which term is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 AIIMS Jodhpur Nursing Officer 10 December 2019 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Maceration only
 - **B.** Dehiscence
@@ -812,11 +812,11 @@ Dehiscence ka matlab surgically closed wound ke edges ka partial ya complete sep
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q12](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q12](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q12-a-clean-surgical-incision-develops-separation-of-wound-edges-without-visible-internal-organs-which-term-is-appropriate)
 
 ### Q29. Which information should be included when monitoring nutritional intake?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the amount delivered on the tray
 - **B.** The food preferences of the neighboring patient
@@ -843,7 +843,7 @@ Nutritional intake delivered food se nahi, actual consumed amount se assess hoti
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q11](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q11](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q11-which-information-should-be-included-when-monitoring-nutritional-intake)
 
 ### Q30. Which action is appropriate for a patient using an intermittent pneumatic compression device?
 
@@ -1004,7 +1004,7 @@ Cryoprecipitate fibrinogen-rich component hai jo selected bleeding conditions me
 
 ### Q37. A patient at high pressure injury risk is on a pressure-redistributing mattress. Which plan remains appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSC Staff Nurse 2021 Series A post code 892 Q9 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Place additional firm objects under bony prominences
 - **B.** Inspect the skin only at discharge
@@ -1033,7 +1033,7 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q10](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q10](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q10-a-patient-at-high-pressure-injury-risk-is-on-a-pressure-redistributing-mattress-which-plan-remains-appropriate)
 
 ### Q38. Why is a specimen collected near an active IV infusion potentially unreliable?
 
@@ -1099,7 +1099,7 @@ Routine abdominal examination ka conventional sequence IAPP hai: inspection, aus
 
 ### Q40. Which phase of wound healing involves formation of granulation tissue and new blood vessels?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Initial inflammatory phase alone
 - **B.** Complete remodeling only
@@ -1126,7 +1126,7 @@ Wound healing ke overlapping phases mein proliferative phase woh time hai jab fi
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q11](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q11](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q11-which-phase-of-wound-healing-involves-formation-of-granulation-tissue-and-new-blood-vessels)
 
 ## Block 3
 
@@ -1437,7 +1437,7 @@ Rectal stimulation vagus-related reflex response se heart rate slow kar sakti ha
 
 ### Q52. Which practice is appropriate when administering several compatible prescribed medicines through an enteral tube?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Skip all flushes to save time
 - **B.** Crush every medication together into the feeding formula
@@ -1464,7 +1464,7 @@ Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube co
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q9](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q9](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q9-which-practice-is-appropriate-when-administering-several-compatible-prescribed-medicines-through-an-enteral-tube)
 
 ### Q53. Which finding is a clinical indication to assess whether airway suction is required?
 
@@ -1614,7 +1614,7 @@ Suction temporarily oxygenation affect aur vagal response trigger kar sakti hai.
 
 ### Q59. A patient has severe malnutrition and is about to restart nutrition. Which electrolyte disturbance is particularly associated with refeeding syndrome?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Hyperphosphatemia as the typical defining early shift
 - **B.** Hypophosphatemia
@@ -1641,7 +1641,7 @@ Severe malnutrition mein body prolonged low intake ke according adapt ho jaati h
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q12](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q12](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q12-a-patient-has-severe-malnutrition-and-is-about-to-restart-nutrition-which-electrolyte-disturbance-is-particularly-associated-with-refeeding-syndrome)
 
 ### Q60. A patient with a recent stroke has neglect of the affected side during grooming. Which approach is appropriate?
 
@@ -2178,7 +2178,7 @@ Physical inactivity bowel motility reduce kar sakti hai aur inadequate fluid sto
 
 ### Q79. An enterally fed patient develops sudden coughing, breathlessness and oxygen desaturation. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Lay the patient flat and continue formula
 - **B.** Increase feeding rate
@@ -2205,7 +2205,7 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q10](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q10](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q10-an-enterally-fed-patient-develops-sudden-coughing-breathlessness-and-oxygen-desaturation-which-action-is-appropriate)
 
 ### Q80. Which factor is assessed using the Aldrete-type postanesthesia recovery score?
 
@@ -2862,7 +2862,7 @@ Wrong identity wrong-patient medication risk create karti hai. Nurse approved id
 
 ### Q103. Which scale assesses factors such as sensory perception, moisture, activity, mobility, nutrition and friction or shear?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Apgar score
 - **B.** Glasgow Coma Scale
@@ -2889,7 +2889,7 @@ Braden Scale patient ke pressure injury risk ko structured way mein assess karti
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q9](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q9](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q9-which-scale-assesses-factors-such-as-sensory-perception-moisture-activity-mobility-nutrition-and-friction-or-shear)
 
 ### Q104. A patient with severe pain is prescribed opioid analgesia but is currently difficult to arouse with a respiratory rate of 8/min. Which response is best?
 
