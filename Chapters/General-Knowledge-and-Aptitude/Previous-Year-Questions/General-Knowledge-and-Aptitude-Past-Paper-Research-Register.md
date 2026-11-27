@@ -68,3 +68,7 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [Analogy evidence](21-Analogy-Reported-Evidence.md): indexed ESIC 2016, SGPGI and MPESB leads recorded but not counted, direct historical question retrieval unsuccessful. No new counted adaptation.
 
 [Classification evidence](22-Classification-Reported-Evidence.md): one directly retrieved AIIMS Nagpur Nursing Officer 2020 memory-based regional classification report independently adapted, visible blue provenance label, no authenticated exact official item. Other image-based or inaccessible reports reserved. Chapter total forty-two counted reported families and forty-four counted solved adaptations. Nine earlier excluded solved items and new unverified leads remain outside totals.
+
+[Blood Relations evidence](23-Blood-Relations-Reported-Evidence.md): two retrieved HPSSSB October 2020 and ESIC 19 March 2016 shift I reports, independently adapted with explicit family assumptions. Other leads excluded from counts.
+
+[Direction Sense evidence](24-Direction-Sense-Reported-Evidence.md): three retrieved RRB 20 July 2019 shift III, AIIMS Bhopal 23 May 2018 shift II and NORCET 1 September 2020 memory-based reports. NORCET displayed key agrees with clarified stem logic but source explanation contradicts it. Additional retrieved AIIMS Delhi 2019 relative-position report and inaccessible leads recorded without new solved counts. Chapter total forty-seven counted families and forty-nine solved adaptations. Official keys not authenticated.
