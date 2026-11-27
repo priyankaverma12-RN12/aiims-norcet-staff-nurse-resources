@@ -1358,7 +1358,7 @@ Fever onset mein set point raise hota hai. Body current temperature ko relative 
 
 ### Q41. Which pain scale commonly uses numbers from 0 to 10 for a patient who can understand numerical ratings?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 MPESB Nursing Officer, 25 November 2022 Shift I — related reported concept only**
 
 - **A.** Apgar score
 - **B.** Numeric rating scale
@@ -1383,9 +1383,13 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [MPESB Nursing Officer, 25 November 2022 Shift I — third-party question page](https://testbook.com/question-answer/a-nurse-is-assessing-a-client-with-bone-cancer-pai--677d2fa6d6ad1b93a093ab1c). The retrieved third-party item tests pain intensity in bone cancer. Its explanation discusses numerical pain assessment. This is related evidence, not the same stem or an authenticated official key.
+
+**Supplementary practice lead:** [Pain and pain scale — JINC E-NURSING](https://www.youtube.com/watch?v=nYuWCxkc4m0). Publisher title identifies guide solution and description includes MCQ tags, exact coverage unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q5](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q5](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q5-which-pain-scale-commonly-uses-numbers-from-0-to-10-for-a-patient-who-can-understand-numerical-ratings)
 
 ### Q42. A patient has been on bed rest for weeks and is beginning rehabilitation. Why should upright activity be progressed gradually?
 
@@ -2467,7 +2471,7 @@ Unconfirmed tube respiratory tract mein ho sakti hai. Feed, water ya medicines i
 
 ### Q79. A patient has a patient-controlled analgesia pump. Which teaching is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Press repeatedly on behalf of an unresponsive patient
 - **B.** Disable the prescribed lockout interval
@@ -2490,11 +2494,11 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-5-pain-management)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q6](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q6](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q6-a-patient-has-a-patient-controlled-analgesia-pump-which-teaching-is-most-appropriate)
 
 ### Q80. A postoperative patient in recovery has gurgling respirations and reduced consciousness. What takes priority?
 
@@ -3417,7 +3421,7 @@ Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal imp
 
 ### Q111. Which nonpharmacological measure can supplement prescribed postoperative pain treatment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Positioning, relaxation and suitable incision support
 - **B.** Force painful exercise without assessment
@@ -3444,7 +3448,7 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q8](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q8](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q8-which-nonpharmacological-measure-can-supplement-prescribed-postoperative-pain-treatment)
 
 ### Q112. Which theorist developed the Adaptation Model of nursing?
 
@@ -3622,7 +3626,7 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 ### Q119. Following opioid administration, a patient has worsening sedation before respiratory rate falls markedly. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS Bathinda Nursing Officer, 29 September 2019 — related reported concept only**
 
 - **A.** Give another opioid because the patient is quiet
 - **B.** Stop all monitoring once pain improves
@@ -3645,11 +3649,13 @@ Opioids brain ke breathing drive ko suppress kar sakte hain. Increasing sedation
 
 **Clinical references:** [Clinical reference 1](https://www.apsf.org/article/using-the-2018-guidelines-from-the-joint-commission-to-kickstart-your-hospitals-program-to-reduce-opioid-induced-ventilatory-impairment/)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
+
+**Related historical evidence:** [AIIMS Bathinda Nursing Officer, 29 September 2019 — third-party question page](https://testbook.com/question-answer/which-of-the-following-objective-assessment-data-w--61766ff4277fdc0fd9bc45b5). Retrieved memory-based report concerns respiratory assessment before opioid administration. Related opioid safety concept, not this post-dose sedation scenario. Official key unverified.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q7](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q7](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q7-following-opioid-administration-a-patient-has-worsening-sedation-before-respiratory-rate-falls-markedly-which-action-is-most-appropriate)
 
 ### Q120. Two IV medicines are ordered through the same lumen and compatibility is unknown. What should the nurse do?
 
