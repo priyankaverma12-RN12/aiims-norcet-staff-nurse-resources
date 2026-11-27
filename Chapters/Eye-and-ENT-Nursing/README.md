@@ -29,4 +29,4 @@
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0449-assessment. Scope Eye assessment and diagnostic tests, chapter-local files only. Expires 2026-11-27T05:19:00Z. -->
