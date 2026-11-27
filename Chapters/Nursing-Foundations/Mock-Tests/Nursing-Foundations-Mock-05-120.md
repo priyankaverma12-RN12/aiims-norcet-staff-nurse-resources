@@ -19,9 +19,21 @@
 
 **Correct: D. Activate emergency help and follow the tracheostomy airway emergency algorithm**
 
-Tracheostomy obstruction ya displacement life-threatening ho sakti hai. Nurse trained emergency protocol se oxygenation aur airway patency urgently assess karti hai.
+Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distress tube blockage, displacement ya doosre airway problem se ho sakti hai. Emergency team ko call karo aur patient-specific tracheostomy emergency algorithm follow karo. Oxygenation priority hai aur upper airway patent hai ya patient total laryngectomy ke baad hai, is distinction se support ka route decide hota hai. Blind force ya untrained tube replacement avoid karo.
 
-**Baaki options kyun sahi nahi hain?** Blind force injury cause kar sakti hai. Delay unsafe hai. All openings seal karna ventilation rok sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** Sab airway openings seal karne se available airflow band ho sakta hai. Airway anatomy assess karni chahiye.
+- **B (Galat):** Sudden severe respiratory distress ko anxiety assume karna life-threatening obstruction miss kar sakta hai.
+- **C (Galat):** Blind force se tissue injury, false passage ya tube displacement worsen ho sakta hai.
+- **D (Sahi):** Urgent help aur established tracheostomy algorithm systematic airway evaluation aur oxygenation support karte hain.
+
+**Exam clue:** Tracheostomy emergency: call for help and follow patient-specific airway algorithm.
+
+**Clinical references:** [Reference 1](https://tracheostomy.org.uk/healthcare-staff/emergency-care/emergency-algorithm-tracheostomy) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593189/)
+
+**Supplementary practice lead:** [Aarogyam Infinity FON MCQ Series Part 18](https://www.youtube.com/watch?v=m1UM3dvxEv4). Indexed title and tags include tracheostomy and suctioning. Direct retrieval failed. Specific coverage not verified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -166,9 +178,21 @@ Normal saline extracellular fluid ke similar effective tonicity rakhti hai. Ye v
 
 **Correct: D. Explain its purpose, assess baseline respiratory status and verify the correct device**
 
-Baseline assessment treatment effect compare karne mein help karti hai. Correct device aur open required ports expected gas delivery support karte hain.
+Oxygen ek treatment hai jiska device, flow aur target patient ki clinical requirement ke according choose hota hai. Baseline respiratory rate, effort, saturation aur mental status record karne se baad ka response compare ho sakta hai. Patient ko mask ka purpose explain karo, correct fit aur adapter verify karo aur required openings open rakho. Emergency mein assessment aur oxygen support ko unnecessary delay mat karo.
 
-**Baaki options kyun sahi nahi hain?** Oxygen therapy assessment maangti hai. Color alone device suitability nahi batata. Port blockage concentration alter kar sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** Air-entrainment openings block karne se Venturi mixture aur delivered concentration change ho sakti hai.
+- **B (Galat):** Oxygen useful hai lekin inappropriate dose ya device se harm ho sakta hai. Assessment zaroori hai.
+- **C (Galat):** Color coding manufacturer-specific ho sakti hai. Sirf color dekh kar correct oxygen device ya concentration confirm nahi hoti.
+- **D (Sahi):** Explanation, baseline assessment aur correct device verification safe administration ke important steps hain.
+
+**Exam clue:** Explain, assess, verify device and reassess.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1622,9 +1646,19 @@ Repeated loss emotional stress create kar sakti hai. Confidential debriefing, su
 
 **Correct: B. Kinks, disconnections or empty supply can interrupt oxygen delivery**
 
-Transport ke dauran tubing bend ya disconnect ho sakti hai. Nurse sufficient supply aur correct delivery maintain karke patient monitor karti hai.
+Transfer ke dauran oxygen tubing pull, kink ya disconnect ho sakti hai. Portable source ka supply limited ho sakta hai. Nurse adequate remaining supply, correct flow setting, tubing connection aur patient response check karti hai. Unstable patient ke liye appropriate escort aur emergency plan chahiye.
 
-**Baaki options kyun sahi nahi hain?** Tubing aur source essential hain. Transfer flow automatically increase nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Kinked ya disconnected tubing oxygen flow interrupt kar sakti hai. Isliye tubing ka function important hai.
+- **B (Sahi):** Kinks, disconnections aur depleted cylinder preventable delivery failures hain. Transfer mein inko check karna appropriate hai.
+- **C (Galat):** Oxygen source finite ho sakta hai aur interruption ke baad therapy continue nahi hoti.
+- **D (Galat):** Transfer apne aap oxygen flow increase nahi karta. Device setting prescribed requirement se match honi chahiye.
+
+**Exam clue:** Before and during transfer: supply, flow, connection and response.
+
+**Clinical references:** [Reference 1](https://www.england.nhs.uk/publication/national-patient-safety-alert-use-of-oxygen-cylinders-where-patients-do-not-have-access-to-medical-gas-pipeline-systems/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1851,9 +1885,19 @@ Arterial pressure high hota hai, isliye adequate compression puncture-site bleed
 
 **Correct: A. Schedule toileting at consistent times, often after meals**
 
-Consistent routine aur gastrocolic reflex ka use bowel emptying promote kar sakta hai. Nurse patient ke usual habits respect karti hai.
+Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consistent toilet timing, often after meals, is natural reflex ka use kar sakti hai. Patient ke usual bowel habits, privacy, mobility aur safe access ko plan mein include karo.
 
-**Baaki options kyun sahi nahi hain?** Unpredictable timing aur urge suppression routine disrupt karte hain. Restraint routine toileting measure nahi hai.
+**Option-wise explanation:**
+- **A (Sahi):** Consistent timing patient ko routine develop karne aur meal-related bowel activity ka benefit lene mein madad karti hai.
+- **B (Galat):** Physical restraint normal bowel training intervention nahi hai aur unnecessary harm kar sakta hai.
+- **C (Galat):** Har din unpredictable timing se routine establish karna mushkil hota hai.
+- **D (Galat):** Urge ignore karne se stool retention aur constipation ka risk badh sakta hai.
+
+**Exam clue:** After-meal toileting can use the gastrocolic reflex.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-2-factors-affecting-bowel-elimination).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2100,9 +2144,21 @@ Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, l
 
 **Correct: A. Assess hydration, stool pattern and possible infectious causes and follow isolation or testing guidance**
 
-Antibiotics gut flora disturb kar sakti hain aur some infections ka risk badha sakti hain. Nurse dehydration, symptoms aur indicated precautions assess karti hai.
+Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent watery diarrhea mein dehydration aur C. difficile infection consider karna chahiye, lekin har antibiotic-associated diarrhea CDI nahi hoti. Stool frequency, symptoms, hydration aur recent laxatives assess karo. Suspected infectious diarrhea mein local isolation, contact precautions aur indicated testing pathway follow karo.
 
-**Baaki options kyun sahi nahi hain?** Blind antidiarrheal inappropriate ho sakta hai. Diarrhea always harmless nahi hai. Fluid restriction dehydration worsen kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Assessment aur indicated infection-control measures underlying cause aur transmission risk address karte hain.
+- **B (Galat):** Bina indication oral fluids rokne se fluid deficit badh sakta hai.
+- **C (Galat):** Antibiotic-associated diarrhea severe infection ya dehydration se related ho sakti hai. Ignore karna unsafe hai.
+- **D (Galat):** Bina assessment automatic antidiarrheal dena infectious diarrhea mein inappropriate ho sakta hai.
+
+**Exam clue:** New watery diarrhea on antibiotics: consider CDI, assess and follow precautions.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/c-diff/hcp/clinical-overview/).
+
+**Additional clinical reference:** [Relevant guidance](https://www.cdc.gov/c-diff/hcp/clinical-guidance/index.html).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2310,9 +2366,19 @@ Patient ko procedure-specific recovery plan samajhna chahiye. Clear warning sign
 
 **Correct: A. Device, flow or concentration, saturation, respiratory status and response**
 
-Oxygen therapy details aur patient response trend monitoring aur handover mein help karte hain. Nurse target aur changes document karti hai.
+Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki treatment kis device aur setting par diya gaya aur patient ka response kya tha. SpO2, respiratory rate, work of breathing, clinical symptoms, prescribed target aur time of change relevant hain. Zarurat par escalation aur clinician communication bhi record karo. Record ke saath ongoing reassessment continue hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Outlet color aur name alone clinical response describe nahi karte. Improvement bhi record karna important hai.
+**Option-wise explanation:**
+- **A (Sahi):** Device, flow ya concentration, saturation aur respiratory status record karne se treatment effectiveness aur handover support hota hai.
+- **B (Galat):** Wall outlet ka color delivered dose ya patient response establish nahi karta.
+- **C (Galat):** Nurse ka naam accountability ka part ho sakta hai, lekin clinical observations replace nahi karta.
+- **D (Galat):** Saturation improve ho tab bhi setting aur response document karna continuity of care ke liye important hai.
+
+**Exam clue:** Document the dose/device, target, patient response and time.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://pubmed.ncbi.nlm.nih.gov/34728574/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2571,9 +2637,21 @@ Accountability mein nurse apne actions aur professional decisions ki responsibil
 
 **Correct: B. Overflow around fecal impaction**
 
-Impacted hard stool ke around liquid stool leak ho sakta hai. Nurse abdominal findings aur bowel history assess karke appropriate evaluation arrange karti hai.
+Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta hai. Kabhi liquid stool hard mass ke aas-paas se leak hota hai, jise overflow diarrhea kehte hain. Isliye liquid stool dekh kar retention exclude mat karo. Bowel history, abdominal findings aur authorized assessment ke basis par care decide karo.
 
-**Baaki options kyun sahi nahi hain?** Liquid stool retention exclude nahi karta. Blind antidiarrheal impaction worsen kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Stool retention possible hai aur assessment se hi clarify hoga.
+- **B (Sahi):** Severe constipation ke saath small liquid stools overflow around impaction ka clue ho sakte hain.
+- **C (Galat):** Liquid stool complete emptying prove nahi karta kyunki retained mass ke around leak ho sakta hai.
+- **D (Galat):** Bina assessment antidiarrheal dene se underlying retention worsen ho sakti hai.
+
+**Exam clue:** Constipation history plus small watery leaks = consider overflow.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-4-common-conditions-affecting-bowel-elimination).
+
+**Additional clinical reference:** [Relevant guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK448094/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2878,9 +2956,19 @@ Bed bath bhi physical activity hai. Breathlessness aur exhaustion limited cardio
 
 **Correct: B. Identify changes and guide individualized assessment and care**
 
-Bowel record trends identify karne mein help karta hai aur constipation, diarrhea ya bleeding ka assessment guide kar sakta hai.
+Bowel documentation patient ka usual pattern aur current changes compare karne mein help karti hai. Frequency, consistency, color, amount, pain, blood, associated symptoms aur interventions ka response note karo as appropriate. Trends se individualized care aur escalation guide hoti hai, lekin records clinical assessment replace nahi karte.
 
-**Baaki options kyun sahi nahi hain?** Same diagnosis inappropriate hai. Acute abdomen physical assessment maangta hai. Future pattern guaranteed nahi hota.
+**Option-wise explanation:**
+- **A (Galat):** Bowel records future movements exactly predict nahi kar sakte.
+- **B (Sahi):** Accurate trends change detect karne aur patient-specific assessment plan banane mein help karte hain.
+- **C (Galat):** Acute abdomen mein documentation alone sufficient nahi hai. Prompt physical and clinical assessment chahiye.
+- **D (Galat):** Different patients mein same stool pattern ke different causes ho sakte hain. Universal diagnosis appropriate nahi hai.
+
+**Exam clue:** Document patterns and changes, then act on clinical red flags.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-4-common-conditions-affecting-bowel-elimination).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
