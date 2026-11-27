@@ -37,7 +37,7 @@ Consolidation mein lung tissue air ke bajay inflammatory material se bhar jaata 
 
 Aspiration pneumonitis mein gastric acid se chemical lung injury hoti hai. Bacterial aspiration pneumonia infection hai. Antibiotics har chemical aspiration event ke liye automatic nahi hain. Dysphagia mein prescribed swallowing assessment aur safe feeding position follow karo. Oral intake ke dauran cough ya choking ho toh stop karke reassess karo.
 
-**Teaching:** [Bhushan Science Nursing — Pneumonia pathology](https://www.youtube.com/watch?v=WZMk1lGnL5o). Published description pathophysiology, stages and causes cover karti hai. **▶️ [Nursing Wallah Part 25 — CAP cause MCQ 17:30](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=1050s)**. Ye related pneumonia practice hai, CURB-65 ya aspiration ke exact items verify nahi hue. [Day 4 Q1–8 additional practice](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md).
+**Teaching:** [Bhushan Science Nursing — Pneumonia pathology](https://www.youtube.com/watch?v=WZMk1lGnL5o). Published description pathophysiology, stages and causes cover karti hai. **▶️ [Nursing Wallah Part 25 — CAP cause MCQ 17:30](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=1050s)**. Ye related pneumonia practice hai, CURB-65 ya aspiration ke exact items verify nahi hue. [Day 4 Q6–13 additional practice](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md).
 
 ## 2. Pulmonary tuberculosis
 
@@ -66,7 +66,7 @@ Rifampicin se orange tears aur urine expected ho sakte hain. Lekin dark brown ur
 
 India-specific conventional drug-sensitive regimen 2HRZE followed by 4HRE ko global 2HRZE/4HR teaching se confuse mat karo. Actual duration, drug combinations aur shorter eligible regimens treating TB team current NTEP guidance, age, disease site aur susceptibility ke according decide karti hai. [NTEP regimen reference](https://ntep.in/node/760/CP-management-eptb) indexed text confirms conventional Indian regimen. Latest operational document direct retrieval pending.
 
-**Practice:** [Day 4 additional Q9–15](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). Dedicated TB teaching and drug-specific MCQ video verification pending. Existing mixed respiratory practice link is not evidence of exact drug questions.
+**Practice:** [Day 4 Q14–20](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). **▶️ [VS Nursing Academy — Ritika Mam TB MCQ session](https://www.youtube.com/watch?v=8kUoq-2nUvs)**. Description diagnosis, Mantoux, anti-TB drugs aur NTEP topics cover karti hai. Individual drug questions, playback aur exact timestamps pending. Dedicated TB teaching video verification pending.
 
 ## 3. Pleural disorders
 
@@ -85,6 +85,16 @@ Presence of air in pleural space causing partial or complete lung collapse. Sudd
 ### Chest tube drainage
 
 Drain below chest level, tubing kink-free, connections secure; monitor output, colour, respiratory status and insertion site. Water seal tidaling may reflect pressure changes; absent tidaling could mean lung expansion or blockage, so assess patient and system. Continuous bubbling in water-seal chamber may indicate air leak; suction chamber behavior is device-dependent. **Never routinely clamp a chest tube**, especially an actively bubbling drain. Avoid routine stripping/milking; report disconnection, displacement or abrupt changes and follow local emergency protocol.
+
+### 🟠 Pleural fluid and drain troubleshooting — study-ready expansion
+
+Pleural space mein normally thin fluid layer lungs ko smoothly move karne mein help karti hai. Jab fluid excessively jama hota hai toh lung expand karne ke liye available space kam ho sakti hai. Transudate usually pressure imbalance se banta hai. Exudate inflammation ya vascular permeability changes se related ho sakta hai.
+
+**Light's criteria example:** Pleural protein 3.6 g/dL aur serum protein 6.0 g/dL hai. Ratio = 3.6 ÷ 6.0 = 0.60. Ye 0.5 se zyada hai aur exudate support karta hai. Ratio cause establish nahi karta. Diuretics lene wale heart failure patients mein interpretation tricky ho sakti hai. Chylothorax mein lymphatic fluid jama hota hai. Milky appearance alone diagnosis nahi hai. Chylomicrons se confirmation support hota hai.
+
+Chest drainage mein water-seal chamber aur suction chamber alag kaam karte hain. Water seal mein new continuous bubbling air leak suggest kar sakti hai. Patient ki breathing assess karo aur connections check karo. Agar tidaling band hai aur dyspnea badh rahi hai, toh re-expansion assume mat karo. Kink, compression ya obstruction assess karo aur urgent help lo. Actively bubbling drain routine clamp nahi karna. Pleural fluid drainage ke dauran repetitive cough ya chest pain jaise symptoms mein trained team prescribed controlled-drainage protocol follow kare. Ye routine clamping se alag clinical exception hai. Fresh blood ka sudden large output aur tachycardia mein emergency circulation assessment chahiye.
+
+[BTS pleural procedures](https://thorax.bmj.com/content/78/Suppl_3/s43) · [Merck pleural effusion](https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion). [Practice Q25–33](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). **▶️ [Nursing Wallah — pleural effusion symptom MCQ 33:34](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=2014s)** published chapter verified, exact drainage questions pending. Dedicated teaching and chest-drain-specific MCQ videos pending.
 
 ## Quick revision
 
@@ -166,6 +176,18 @@ Emergency nursing: ABC, urgent escalation, oxygen if hypoxemic, hemodynamic moni
 
 **Exam traps:** PE = perfusion obstruction; ARDS = permeability edema; Type II = CO2 retention. Sudden hypotension with suspected PE requires emergency response.
 
+### 🔴 Respiratory failure, ARDS and PE — clinical distinctions
+
+Type I respiratory failure mein oxygenation problem prominent hai. Example: room air PaO2 52 aur PaCO2 36 mmHg hai. Low oxygen aur normal CO2 classic Type I pattern support karte hain. Type II mein inadequate alveolar ventilation se CO2 retain hoti hai. SpO2 normal dikhne se ventilation normal prove nahi hoti. New drowsiness aur diminishing breathing effort urgent warning hain.
+
+**ARDS definitions:** Berlin oxygenation criteria ko classic exam recall ke liye retain karo. 2024 global consensus definition selected non-intubated HFNO patients (flow ≥30 L/min) aur suitable SpO2/FiO2 assessment ko bhi include karti hai. Other criteria bhi meet hone chahiye. Resource-limited settings ke liye separate modifications hain. Sirf oxygen flow ya P/F ratio se ARDS diagnose mat karo. [Global definition](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870872/).
+
+**Example:** PaO2 72 mmHg aur FiO2 0.60 par ratio 120 mmHg hai. PEEP 8 aur remaining Berlin criteria meet hon toh moderate oxygenation category hai. Predicted body weight 60 kg par prescribed 6 mL/kg tidal volume = 360 mL. Actual body weight use mat karo. ATS 2024 guideline lung-protective ventilation mein 4–8 mL/kg predicted body weight aur plateau pressure <30 cm H2O recommend karti hai. Prone positioning trained ICU team ki responsibility hai. ETT, lines, monitoring, pressure areas aur eyes ko protect karo. [ATS 2024 update](https://pmc.ncbi.nlm.nih.gov/articles/PMC10870893/).
+
+PE mein clot blood flow ko obstruct karta hai. D-dimer clot location nahi batata. Low clinical probability aur validated pathway mein negative D-dimer rule-out mein help karta hai. High probability ya unstable patient mein test alone sufficient nahi hai. CTPA common imaging hai. Hypotension aur confusion emergency escalation maangte hain. Anticoagulation ke dauran new melena aur falling BP significant bleeding suggest kar sakte hain. Urgent circulation assessment aur medication safety protocol follow karo. [NICE NG158](https://www.nice.org.uk/guidance/ng158/chapter/recommendations).
+
+[Practice Q34–45](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). **▶️ [Nursing Wallah — PE symptom triad MCQ 29:26](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=1766s)** is related practice. Exact D-dimer, ARDS numerical and anticoagulation item videos pending. Dedicated teaching videos for these three topics pending.
+
 ### Sources and verification
 
 - [ATS ARDS management guideline](https://www.thoracic.org/statements/resources/cc/ards-guidelines.pdf)
@@ -177,6 +199,17 @@ Emergency nursing: ABC, urgent escalation, oxygen if hypoxemic, hemodynamic moni
 ## India-specific TB extension — 26 November 2026
 NTEP = National Tuberculosis Elimination Programme; RNTCP older name; DOTS = Directly Observed Treatment, Short-course; CBNAAT cartridge-based nucleic acid amplification test; Ni-kshay notification/management; MDR-TB resistance to at least H and R. Indian NTEP standard drug-sensitive regimen 2HRZE intensive + 4HRE continuation (selected patients require different regimen); [ICMR/NTEP source](https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964686_2_ntep_18032022.pdf). Mantoux intradermal, read 48–72 hours, measure induration mm not redness; risk-based interpretation, positive test alone does not prove active TB. BCG live attenuated, protects mainly young children against severe TB (meningeal/disseminated). [WHO TST](https://tbksp.who.int/en/node/2029) · [CDC TST](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html).
 
+### 🟠 Mantoux and BCG — exam correction
+
+Mantoux ko 48–72 hours mein read karte hain. Firm swelling ko induration kehte hain. Forearm ke across induration ka diameter mm mein measure karo, redness nahi. Example: 18 mm redness aur 11 mm induration hai toh 11 mm document karo. Risk-based threshold aur clinical evaluation se interpretation decide hoti hai.
+
+**🟣 [ESIC Staff Nurse, 26 February 2019 Shift III — related reported question](https://testbook.com/question-answer/mantoux-test-purified-protein-derivative-is-sign--619cf0e7ecc1b27849a283c6):** Third-party source redness ki terminology incorrectly use karta hai. Official key verify nahi hui. Clinical rule induration hai. [CDC skin test](https://www.cdc.gov/tb/hcp/testing-diagnosis/tuberculin-skin-test.html). BCG severe disseminated aur meningeal childhood TB ka risk kam karti hai, complete lifelong pulmonary TB protection guarantee nahi karti. [WHO BCG](https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccines-quality/bcg).
+
+[Practice Q21–24](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). **▶️ [VS Nursing Academy TB MCQs](https://www.youtube.com/watch?v=8kUoq-2nUvs)** description mein Mantoux topic listed hai. Exact item and playback pending. Specific BCG practice video pending.
+
 ## Completion practice
 
 [Matching MCQs](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Day 4 quick revision](../Revision/Day-04-Quick-Revision.md) · [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md) · [Reported Previous Year Questions](../Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). New practice unattempted.
+
+
+**Audit 27 November 2026:** New clarification study-ready hai. Previous learner status unchanged. Pneumonia, TB, pleural care, respiratory failure, ARDS and PE broadly adult-health nursing scope mein fit hote hain. Full INC GNM/PB BSc syllabus-depth and official exam-frequency verification pending. All 45 existing questions have been reviewed in the corresponding bank. Specific video gaps explicit hain. No new questions or official PYQs counted.
