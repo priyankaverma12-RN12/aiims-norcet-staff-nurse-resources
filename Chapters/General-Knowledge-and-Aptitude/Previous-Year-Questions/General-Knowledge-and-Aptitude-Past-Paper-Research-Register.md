@@ -72,3 +72,7 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [Blood Relations evidence](23-Blood-Relations-Reported-Evidence.md): two retrieved HPSSSB October 2020 and ESIC 19 March 2016 shift I reports, independently adapted with explicit family assumptions. Other leads excluded from counts.
 
 [Direction Sense evidence](24-Direction-Sense-Reported-Evidence.md): three retrieved RRB 20 July 2019 shift III, AIIMS Bhopal 23 May 2018 shift II and NORCET 1 September 2020 memory-based reports. NORCET displayed key agrees with clarified stem logic but source explanation contradicts it. Additional retrieved AIIMS Delhi 2019 relative-position report and inaccessible leads recorded without new solved counts. Chapter total forty-seven counted families and forty-nine solved adaptations. Official keys not authenticated.
+
+[ Syllogism evidence](25-Syllogism-Reported-Evidence.md): one directly retrieved NVS Staff Nurse September 2019 report, independently adapted with the existence assumption explicitly stated. Other inaccessible or unattributed leads excluded.
+
+[Ordering and Ranking evidence](26-Ordering-and-Ranking-Reported-Evidence.md): two directly retrieved DSSSB Nursing Officer 29 August 2019 Shift III and NVS Staff Nurse 12 January 2018 reports, independently adapted with clearly distinguished derived keys. Additional NVS March 2022 indexed report and other leads excluded. Chapter total fifty counted reported families and fifty-two solved adaptations. No official key authentication or exact video-item matches.
