@@ -5,6 +5,10 @@
 ### Q1. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Implementation
 - **B.** Assessment
@@ -19,11 +23,21 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 
 **Baaki options kyun sahi nahi hain?** Planning assessment ke baad hoti hai. Implementation mein plan execute hota hai. Evaluation mein result check hota hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Same tested concept only — [AIIMS Jodhpur Nursing Officer, 10 December 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. Which entry in an assessment record is subjective data?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient reports burning pain on urination
 - **B.** Temperature is 38.4°C
@@ -38,11 +52,21 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 
 **Baaki options kyun sahi nahi hain?** Temperature aur urine output measurable findings hain. Visible abdominal distension objective observation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. Which finding represents objective assessment data?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Patient reports dizziness
 - **B.** Patient describes anxiety
@@ -57,11 +81,21 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 
 **Baaki options kyun sahi nahi hain?** Dizziness, anxiety aur itching ke statements patient ke personal experiences hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [GMCH Nursing Officer, 29 June 2025 third-party transcription](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab). Not an exact match or official key verification.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient after abdominal surgery is restless, has a respiratory rate of 32/min and an oxygen saturation of 86%. Which problem should be addressed first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Knowledge deficit about the discharge diet
 - **B.** Risk of constipation
@@ -76,11 +110,21 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 
 **Baaki options kyun sahi nahi hain?** Sleep, teaching aur constipation important hain lekin immediate breathing problem se less urgent hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. Which statement is an example of a patient-centered measurable nursing outcome?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient will improve someday
 - **B.** The nurse will understand mobility
@@ -95,11 +139,21 @@ Measurable outcome mein patient ka expected action, distance aur time clear hai.
 
 **Baaki options kyun sahi nahi hain?** Excellent care vague hai. Someday mein time limit nahi hai. Nurse ki understanding patient outcome nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Effective tissue perfusion as a confirmed problem
 - **B.** Risk for impaired skin integrity
@@ -114,11 +168,21 @@ Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai.
 
 **Baaki options kyun sahi nahi hain?** Open ulcer aur wound documented nahi hain. Effective perfusion ko current problem nahi kaha ja sakta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Defining characteristics
 - **B.** Etiology alone
@@ -133,11 +197,21 @@ Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis 
 
 **Baaki options kyun sahi nahi hain?** Etiology retained secretions hai. Outcomes desired results hain. Interventions nurse ke actions hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Initial diagnosis only
 - **B.** Planning only
@@ -152,11 +226,21 @@ Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effe
 
 **Baaki options kyun sahi nahi hain?** Diagnosis problem identify karta hai. Planning goals aur actions decide karti hai. Registration administrative process hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Independently prescribe a new antibiotic
 - **B.** Change the surgeon's operative plan
@@ -171,11 +255,21 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 
 **Baaki options kyun sahi nahi hain?** Antibiotic prescribing, operative planning aur anesthetic orders authorized clinician ke scope mein hote hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Document the goal as met without walking
 - **B.** Ask the patient to ignore the discomfort
@@ -190,11 +284,21 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 
 **Baaki options kyun sahi nahi hain?** Walking continue karna unsafe ho sakta hai. False documentation galat hai. Symptoms ignore karna delay karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ineffective airway clearance evidenced by retained sputum
 - **B.** Risk for falls related to impaired balance
@@ -209,11 +313,21 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 
 **Baaki options kyun sahi nahi hain?** Pain, open wound aur retained sputum wale statements existing problems ke evidence dete hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Discuss the patient's preference and reschedule or modify care safely
 - **B.** Force the bath because the written schedule cannot change
@@ -228,11 +342,21 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 
 **Baaki options kyun sahi nahi hain?** Force autonomy violate karti hai. False entry unsafe hai. Permanent cancellation hygiene needs ignore karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. Which source is generally the primary source of a conscious patient's health history?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient
 - **B.** A previous discharge summary alone
@@ -247,11 +371,21 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 
 **Baaki options kyun sahi nahi hain?** Discharge summary secondary source hai. Unfamiliar visitor reliable primary source nahi hai. Census sheet clinical history nahi deti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A patient with limited English proficiency nods during teaching but cannot explain the medication schedule. Which action best evaluates understanding?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume nodding confirms understanding
 - **B.** Repeat the same instructions louder
@@ -266,11 +400,21 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 
 **Baaki options kyun sahi nahi hain?** Nodding comprehension prove nahi karti. Loud speech translation nahi hai. Unrelated visitor patient ki understanding accurately assess nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Delete all previous observations
 - **B.** Skip further assessment because evaluation is the final step
@@ -285,11 +429,21 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 
 **Baaki options kyun sahi nahi hain?** Ineffective plan continue karna helpful nahi hai. Previous observations preserve karne chahiye. Evaluation ke baad reassessment possible hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. Which statement distinguishes a nursing diagnosis from a medical diagnosis?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Both terms are always interchangeable
 - **B.** A nursing diagnosis describes human responses that nursing care can address
@@ -304,11 +458,21 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 
 **Baaki options kyun sahi nahi hain?** Pathogen disease cause ho sakta hai. Intervention action hota hai. Dono diagnoses ka purpose different hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. Four patients need assistance. Which patient should the nurse assess first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A patient asking for a discharge leaflet
 - **B.** A patient with sudden stridor after medication administration
@@ -323,11 +487,21 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 
 **Baaki options kyun sahi nahi hain?** Bath, blanket aur leaflet routine needs hain. Inhe airway emergency ke baad address karna chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. Which outcome is best suited to evaluation of a pressure injury prevention plan?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient's heels remain intact without new nonblanchable discoloration during the shift
 - **B.** The nurse is always busy
@@ -342,11 +516,21 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 
 **Baaki options kyun sahi nahi hain?** Nurse ki busyness result nahi batati. Hypertension unrelated diagnosis hai. Ongoing reassessment required hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Give an unprescribed extra dose immediately
 - **B.** Record that the pain has resolved
@@ -361,11 +545,21 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 
 **Baaki options kyun sahi nahi hain?** Unprescribed dose harm kar sakti hai. False documentation galat hai. Pain assessment continue honi chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. Which care plan statement describes an intervention rather than an outcome?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient will demonstrate safe use of the walker
 - **B.** The patient's skin will remain intact
@@ -380,6 +574,12 @@ Intervention nurse ya team ka planned action hai. Range-of-motion exercises assi
 
 **Baaki options kyun sahi nahi hain?** Pain score, walker demonstration aur intact skin patient ke expected outcomes hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+<!-- /job4-metadata -->
 </details>
 
 ## Study references
