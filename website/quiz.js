@@ -66,10 +66,10 @@ function mountQuiz(md,path,content,render,route){
  function loadMarks(){try{const v=JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]');return Array.isArray(v)?v.filter(m=>m&&typeof m.path==='string'&&typeof m.stem==='string'):[]}catch{return []}}
  function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked';b.setAttribute('aria-pressed',String(!exists))}catch{b.textContent='Bookmark unavailable'}}
  function markButton(q){const saved=loadMarks().some(m=>m.path===path&&m.stem===q.stem);const b=btn(saved?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,b));b.setAttribute('aria-pressed',String(saved));return b}
- function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?'Interactive practice':'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';history.replaceState(history.state,'',u.href)}
+ function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?(root.dataset.learning==='true'?'Learning mode':'Interactive practice'):'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';history.replaceState(history.state,'',u.href)}
  function focusHeading(h){h.tabIndex=-1;h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:'instant'})}
  function stopTimer(){clearInterval(timer);timer=null}
- function showSetup(){delete root.dataset.learning;stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
+ function showSetup(){delete root.dataset.learning;stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';state.classList.remove('result-announcement');state.setAttribute('aria-live','off');intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
  function showResults(reason='submitted',focus=true,celebrate=false){
   stopTimer();for(const dialog of root.querySelectorAll('dialog[open]'))dialog.close();started=true;finished=true;submitReason=reason;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;body.replaceChildren();controls.replaceChildren();setView('results');
   const s=resultMetrics(bank.items,selected,penalty);const saved=persist();
@@ -133,7 +133,7 @@ function mountQuiz(md,path,content,render,route){
 
  // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
  function startLearning(){
-  stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;setView('practice');root.dataset.learning='true';state.setAttribute('aria-live','polite');
+  stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;root.dataset.learning='true';setView('practice');state.setAttribute('aria-live','polite');
   let index=0,choice='',checked=0,correct=0,locked=false;
   function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
   function drawLearn(){

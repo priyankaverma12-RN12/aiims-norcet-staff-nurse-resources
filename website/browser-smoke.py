@@ -100,6 +100,8 @@ try:
         expect(page.locator(".learn-feedback")).to_contain_text("Nice work")
         expect(page.locator(".original-explanation")).to_be_visible()
         expect(page.locator(".quiz-option.correct-choice")).to_contain_text("Correct answer")
+        assert page.locator(".learn-feedback").evaluate("(e)=>getComputedStyle(e).animationName")=="learning-check"
+        assert page.locator(".explanation-body").text_content().strip()==page.evaluate("""async()=>{const q=parseBank(await read(new URLSearchParams(location.search).get('doc'))).items[0];const h=document.createElement('div');h.innerHTML=DOMPurify.sanitize(marked.parse(q.explanation,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return h.textContent.trim()}""")
         page.get_by_role("button",name="Next question").click()
         expect(page.locator(".original-explanation")).to_have_count(0)
         key=page.evaluate("""async()=>parseBank(await read(new URLSearchParams(location.search).get('doc'))).items[1].key""")
@@ -171,6 +173,37 @@ try:
         expect(page.locator(".answer-comparison")).to_contain_text("Your answer: A")
         expect(page.locator(".answer-comparison")).to_contain_text("Correct answer: B")
         print("Incorrect answer highlighting, negative marking and saved attempt resume passed.",flush=True)
+        # Learning mode must not replace the saved timed result.
+        saved_before=page.evaluate("(p)=>localStorage.getItem('nursing-attempt-v1:'+p)",sample)
+        page.get_by_role("button",name="Back to study material").click()
+        page.get_by_role("button",name="Learn with instant feedback").click()
+        page.locator("input[name=learn-choice][value=B]").check()
+        page.get_by_role("button",name="Check answer").click()
+        page.once("dialog",lambda dialog:dialog.accept())
+        page.get_by_role("button",name="Exit learning").click()
+        assert page.evaluate("(p)=>localStorage.getItem('nursing-attempt-v1:'+p)",sample)==saved_before
+        page.once("dialog",lambda dialog:dialog.accept())
+        page.get_by_role("button",name="Start timed practice").click()
+        keys=page.evaluate("""async()=>parseBank(await read(new URLSearchParams(location.search).get('doc'))).items.map(q=>q.key)""")
+        for i,key in enumerate(keys):
+            page.locator(f".quiz-option input[value={key}]").check()
+            assert page.locator(".original-explanation").count()==0
+            assert page.locator(".learn-feedback").count()==0
+            if i+1 in [11,22,33,44]:
+                expect(page.locator(".practice-milestone")).to_be_visible()
+                assert "correct" not in page.locator(".practice-milestone").text_content().lower()
+            if i+1<len(keys):
+                page.get_by_role("button",name="Next →",exact=True).click()
+        expect(page.locator(".practice-milestone")).to_contain_text("All questions answered")
+        page.get_by_role("button",name="Submit test").click()
+        page.get_by_role("button",name="Submit and see results").click()
+        expect(page.locator(".result-score")).to_contain_text("100.0%")
+        expect(page.locator(".result-celebration")).to_be_visible()
+        page.reload()
+        expect(page.locator(".result-heading")).to_be_visible(timeout=30000)
+        expect(page.locator(".result-celebration")).to_have_count(0)
+        print("Learning preserves saved timed result, all four progress milestones, hidden timed answers and one-time result celebration passed.",flush=True)
+
 
         page.goto(base)
         page.reload()

@@ -11,6 +11,7 @@ function resourceMeta(p,sourceHeading='',slots=null){
  let type=sectionNames[folder]||'Study resource',title=cleanTitle(sourceHeading)||filename;
  const draft=/(?:^|[-_ ])draft(?:[-_ .]|$)/i.test(name);
  if(isFolder){title=sectionNames[name]||words(name);type='Resource collection'}
+ else if(parts.length===2){title=cleanTitle(sourceHeading)||filename;type='Study index'}
  else if(parts.length===3&&name==='README.md'){title=chapter;type='Chapter overview'}
  else if(name==='README.md'){title=(sectionNames[folder]||words(folder))+' index';type='Resource index'}
  else if(/(?:[- ]Index|[- ]Plan|[- ]Map|[- ]Register|[- ]Audit|[- ]Guide|[- ]Gaps|References)\.md$/i.test(name)){type=/Audit|Register|Gaps/i.test(name)?'Research and evidence notes':'Study guide'}
@@ -25,7 +26,7 @@ function resourceMeta(p,sourceHeading='',slots=null){
   title=title.replace(/(?:\s*[:—–-]\s*|\s+)\d[\d,]*\s+(?:(?:new|original|practice|topic-wise|clinical)\s+)*(?:MCQs?|questions?|slots?)(?:\s+slots?)?(?:\s*\([^)]*\))?$/i,'').replace(/\s*\(\d[\d,]*\s+(?:questions?|MCQs?)\)$/i,'').trim();
   title=title.replace(/\s*[:—–-]\s*(?:Hamara illustrated complete chapter|complete chapter|easy Roman Hinglish notes)\s*$/i,'').trim();
  }
- if(!title||/^(?:README|MCQs?|Theory|Notes|Questions|Index|Practice|Mock test|Study resource)$/i.test(title))title=filename||chapter;
+ if(!isFolder&&(!title||/^(?:README|MCQs?|Theory|Notes|Questions|Index|Practice|Mock test|Study resource|Day\s*\d+|(?:Topic[- ]wise )?(?:Practice )?(?:MCQs|Questions))$/i.test(title)))title=filename.replace(/\s+\d[\d,]*\s+(?:MCQs?|questions?|slots?)$/i,'').trim()||chapter;
  // Preserve day labels, question ranges and evidence distinctions; no invented topic names.
  title=titleCaseFirst(title);
  const subtitle=[type,Number.isInteger(slots)&&slots>0?slots.toLocaleString('en-IN')+' question slots':''].filter(Boolean).join(' · ');
