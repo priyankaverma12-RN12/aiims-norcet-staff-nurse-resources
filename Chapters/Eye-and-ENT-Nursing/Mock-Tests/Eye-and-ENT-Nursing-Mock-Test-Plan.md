@@ -2,6 +2,8 @@
 
 **Mock 01 complete-length practice edition is published; final clinical and exhaustive semantic validation remain pending.** The goal is 10 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
 
+## Test availability
+
 | Mock | Target | Published |
 |---|---:|---|
 | 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |

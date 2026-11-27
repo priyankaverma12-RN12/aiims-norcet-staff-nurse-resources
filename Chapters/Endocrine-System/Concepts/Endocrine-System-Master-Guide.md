@@ -1,6 +1,10 @@
 # 🧠 Endocrine System — Complete Concepts Index
 
-[🏠 Chapter](../README.md) · [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md) · [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
+- [🏠 Chapter](../README.md)
+- [📝 MCQs](../MCQs/Endocrine-Topic-Wise.md)
+- [🎯 Mocks](../MCQs/Endocrine-Mixed-Mocks.md)
+- [🏥 Previous Year Questions](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)
+- [⚡ Revision](../Revision/Endocrine-Quick-Revision.md)
 
 ![Endocrine overview](../Assets/gland-map.svg)
 
@@ -24,16 +28,46 @@
 
 ---
 
-| Part | Detailed notes | Priority | Main topics |
-|---|---|---|---|
-| 1 | [Anatomy, hormones, feedback and assessment](01-Endocrine-Anatomy-Hormones-Feedback-Assessment.md) | 🟠 High | Gland locations, hormone receptors, HPT/HPA/HPG axes, primary vs central failure, lab and physical assessment |
-| 2 | [Pituitary disorders, DI and SIADH](02-Pituitary-Disorders-DI-SIADH.md) | 🔴 Very High | GH, prolactin, Sheehan syndrome, pituitary tumors, postoperative care and sodium/water balance |
-| 3 | [Thyroid disorders, emergencies and surgery](03-Thyroid-Disorders-Emergencies-Surgery.md) | 🔴 Very High | Hormone synthesis, hypo/hyper, Graves, Hashimoto, goiter, thyroid cancers, storm, myxedema, thyroidectomy |
-| 4 | [Parathyroid, calcium and bone disorders](04-Parathyroid-Calcium-Bone-Disorders.md) | 🔴 Very High | PTH, vitamin D, tetany, calcium emergencies, hungry bone syndrome, osteoporosis, CKD-MBD |
-| 5 | [Adrenal disorders](05-Adrenal-Addison-Cushing-Conn-Pheochromocytoma.md) | 🔴 Very High | Cortex, medulla, Addison, crisis, Cushing, Conn, pheochromocytoma, CAH, surgery |
-| 6 | [Pancreas, diabetes, insulin and drugs](06-Pancreas-Diabetes-Insulin-Drugs.md) | 🔴 Very High | Types, diagnosis, insulin onset/peak/duration, injections, mixing, numericals, drugs and diet |
-| 7 | [Hypoglycemia, DKA and HHS](07-Hypoglycemia-DKA-HHS.md) | 🔴 Very High | Clinical signs, emergency sequence, criteria, osmolality, potassium safety, monitoring |
-| 8 | [Diabetes complications, community and other hormones](08-Diabetes-Complications-Community-Other-Hormones.md) | 🟠 High | Foot/eye/kidney care, NP-NCD, NIDDCP, GDM, PCOS, MEN and other endocrine organs |
+- 1
+  - **Detailed notes:** [Anatomy, hormones, feedback and assessment](01-Endocrine-Anatomy-Hormones-Feedback-Assessment.md)
+  - **Priority:** 🟠 High
+  - **Main topics:** Gland locations, hormone receptors, HPT/HPA/HPG axes, primary vs central failure, lab and physical assessment
+
+- 2
+  - **Detailed notes:** [Pituitary disorders, DI and SIADH](02-Pituitary-Disorders-DI-SIADH.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** GH, prolactin, Sheehan syndrome, pituitary tumors, postoperative care and sodium/water balance
+
+- 3
+  - **Detailed notes:** [Thyroid disorders, emergencies and surgery](03-Thyroid-Disorders-Emergencies-Surgery.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** Hormone synthesis, hypo/hyper, Graves, Hashimoto, goiter, thyroid cancers, storm, myxedema, thyroidectomy
+
+- 4
+  - **Detailed notes:** [Parathyroid, calcium and bone disorders](04-Parathyroid-Calcium-Bone-Disorders.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** PTH, vitamin D, tetany, calcium emergencies, hungry bone syndrome, osteoporosis, CKD-MBD
+
+- 5
+  - **Detailed notes:** [Adrenal disorders](05-Adrenal-Addison-Cushing-Conn-Pheochromocytoma.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** Cortex, medulla, Addison, crisis, Cushing, Conn, pheochromocytoma, CAH, surgery
+
+- 6
+  - **Detailed notes:** [Pancreas, diabetes, insulin and drugs](06-Pancreas-Diabetes-Insulin-Drugs.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** Types, diagnosis, insulin onset/peak/duration, injections, mixing, numericals, drugs and diet
+
+- 7
+  - **Detailed notes:** [Hypoglycemia, DKA and HHS](07-Hypoglycemia-DKA-HHS.md)
+  - **Priority:** 🔴 Very High
+  - **Main topics:** Clinical signs, emergency sequence, criteria, osmolality, potassium safety, monitoring
+
+- 8
+  - **Detailed notes:** [Diabetes complications, community and other hormones](08-Diabetes-Complications-Community-Other-Hormones.md)
+  - **Priority:** 🟠 High
+  - **Main topics:** Foot/eye/kidney care, NP-NCD, NIDDCP, GDM, PCOS, MEN and other endocrine organs
+
 
 ## 📋 Coverage and sources
 - INC Adult Health Nursing I broad endocrine curriculum: anatomy/physiology, assessment, pituitary/thyroid/parathyroid/adrenal disorders including hypo/hyperfunction and tumors, diabetes, investigations, medical/surgical/nutrition/nursing care and insulin skills. [Indian Nursing Council regulations PDF](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf) · [OpenStax endocrine nursing](https://openstax.org/books/medical-surgical-nursing/pages/21-introduction) · [ADA 2026 hospital care](https://doi.org/10.2337/dc26-s016).
@@ -45,12 +79,22 @@
 
 [Open updated topic-wise teaching and MCQ video guide](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md).
 
-| Topic | Concept | Practice |
-|---|---|---|
-| Glands / physiology | [PW Nursing Wallah Aarogyam A&P](https://www.youtube.com/watch?v=_bPmrRWgrTQ) | [Endocrine mixed MCQs 2026](https://www.youtube.com/watch?v=W00an2mL_5w) |
-| Pituitary / thyroid | [NORCET 10 introduction and thyroid](https://www.youtube.com/watch?v=BalA29k0tuM) | [Mixed MCQs](https://www.youtube.com/watch?v=W00an2mL_5w) |
-| Thyroid emergencies | [NORCET 10 endocrine countdown](https://www.youtube.com/watch?v=GnwsrLcZzEs) | [Topic-wise practice](../MCQs/Endocrine-Topic-Wise.md) |
-| Adrenal, diabetes, community | [Mixed endocrine lecture — relevant sections](https://www.youtube.com/watch?v=GnwsrLcZzEs) | [Topic-wise practice](../MCQs/Endocrine-Topic-Wise.md) |
+- Glands / physiology
+  - **Concept:** [PW Nursing Wallah Aarogyam A&P](https://www.youtube.com/watch?v=_bPmrRWgrTQ)
+  - **Practice:** [Endocrine mixed MCQs 2026](https://www.youtube.com/watch?v=W00an2mL_5w)
+
+- Pituitary / thyroid
+  - **Concept:** [NORCET 10 introduction and thyroid](https://www.youtube.com/watch?v=BalA29k0tuM)
+  - **Practice:** [Mixed MCQs](https://www.youtube.com/watch?v=W00an2mL_5w)
+
+- Thyroid emergencies
+  - **Concept:** [NORCET 10 endocrine countdown](https://www.youtube.com/watch?v=GnwsrLcZzEs)
+  - **Practice:** [Topic-wise practice](../MCQs/Endocrine-Topic-Wise.md)
+
+- Adrenal, diabetes, community
+  - **Concept:** [Mixed endocrine lecture — relevant sections](https://www.youtube.com/watch?v=GnwsrLcZzEs)
+  - **Practice:** [Topic-wise practice](../MCQs/Endocrine-Topic-Wise.md)
+
 
 **Dhyan de:** Video titles/descriptions check hue; full playback/transcript review nahi hua. Dedicated teaching + MCQ videos for every subtopic still pending. No official repetition claim from video titles.
 
