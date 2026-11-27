@@ -44,7 +44,7 @@
 
 **Correct: D. 500 mL x 12 breaths/min**
 
-**Kyun sahi hai?** Pehle pattern mein (500 minus 150) x 12 = 4.2 L/min. Chhoti rapid breaths mein dead space ka hissa badh jaata hai.
+**Kyun sahi hai?** Option D mein (500 minus 150) x 12 = 4200 mL/min, yaani 4.2 L/min alveolar ventilation hai. Chhoti rapid breaths mein dead space ka proportion badh jaata hai. Isliye same total ventilation ke bawajood fresh air alveoli tak kam pahunch sakti hai.
 
 **Baaki options kyun galat hain?**
 
@@ -727,7 +727,7 @@
 
 **Correct: D. Preoxygenate as indicated and suction only when needed using the protocol**
 
-**Kyun sahi hai?** Suction secretion nikalta hai par oxygen bhi kam kar sakta hai. Short passes aur appropriate catheter size zaroori hain.
+**Kyun sahi hai?** Suction airway se secretions nikalta hai, lekin oxygenation temporarily gir sakti hai. Adult aur pediatric artificial airway suctioning se pehle preoxygenation guideline ke mutabik karni chahiye. Suction pass 15 seconds se zyada nahi hona chahiye. Appropriate catheter size use karo aur patient ko monitor karo.
 
 **Baaki options kyun galat hain?**
 
@@ -818,3 +818,11 @@
 [OpenStax respiratory nursing](https://openstax.org/books/medical-surgical-nursing/pages/11-introduction) · [Critical care respiratory concerns](https://openstax.org/books/medical-surgical-nursing/pages/35-3-respiratory-concerns) · [AARC airway suction guideline](https://www.aarc.org/wp-content/uploads/2022/10/cpg-artificial-airway-suctioning.pdf)
 
 [Chapter](../README.md) · [Other practice](Respiratory-Clinical-Mock-20.md)
+
+
+## Question-solving resources
+- [Respiratory MCQ series](https://www.youtube.com/watch?v=_dOjXZ6vCck) — search metadata supports respiratory disorders, oxygen and ABG practice (Q3–9, Q13–26 topic-level mapping). Individual question timestamps pending.
+- [Respiratory disorders question practice](https://www.youtube.com/watch?v=_ETf-t1W-sQ) — metadata supports general respiratory disorders practice (Q13–24). PYQ provenance not independently authenticated.
+- [Merck acid-base compensation](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders) (Q3–5).
+- [AARC suction guideline](https://pubmed.ncbi.nlm.nih.gov/35078900/) (Q29).
+- Specific numerical A&P, spirometry and ventilator MCQ video mapping pending. Full option-by-option prose expansion pending.
