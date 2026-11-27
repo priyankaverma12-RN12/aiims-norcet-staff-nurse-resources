@@ -8,7 +8,7 @@
 
 ### Q1. A patient has an anatomical dead space of 150 mL, tidal volume of 400 mL and respiratory rate of 25/min. What is alveolar ventilation?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** 6.25 L/min
 - **B.** 10 L/min
@@ -19,21 +19,23 @@
 
 **Correct: A. 6.25 L/min**
 
-**Kyun sahi hai?** Har breath mein 400 minus 150 = 250 mL fresh air alveoli tak jaati hai. 250 x 25 = 6250 mL/min.
+**Kyun sahi hai?** Dekho, har breath ki poori air gas exchange ke liye available nahi hoti. Tidal volume 400 mL mein se 150 mL anatomical dead space ghatao. Simplified calculation mein 250 mL fresh air per breath milti hai. Ab 250 ko respiratory rate 25 se multiply karo. Answer 6250 mL/min, yaani 6.25 L/min hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Total minute ventilation hai
-- **C.** Sirf dead space ventilation hai
-- **D.** Dead space ko galat joda hai
+- **B.** 10 L/min total minute ventilation hai. Ismein dead space ki air bhi include hoti hai.
+- **C.** 3.75 L/min dead space ventilation hai, jo 150 x 25 se milti hai.
+- **D.** 13.75 L/min dead space ko add karne se milta hai. Humein gas exchange ke liye available air calculate karni hai, isliye subtract karna hai.
 
-**Exam trick:** Alveolar = (TV minus dead space) x RR
+**Exam trick:** Alveolar ventilation = (tidal volume − dead space) × respiratory rate.
+
+**Clinical / practice reference:** [Nursing physiology reference](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing) · [Dead space question practice at 15:58 (published video chapter)](https://www.youtube.com/watch?v=lAy0Cb9o5ss&t=958s).
 
 </details>
 
 ### Q2. Two patients have minute ventilation of 6 L/min. Which pattern provides greater alveolar ventilation if dead space is 150 mL?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🟡 IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** 250 mL x 24 breaths/min
 - **B.** 200 mL x 30 breaths/min
@@ -44,21 +46,23 @@
 
 **Correct: D. 500 mL x 12 breaths/min**
 
-**Kyun sahi hai?** Option D mein (500 minus 150) x 12 = 4200 mL/min, yaani 4.2 L/min alveolar ventilation hai. Chhoti rapid breaths mein dead space ka proportion badh jaata hai. Isliye same total ventilation ke bawajood fresh air alveoli tak kam pahunch sakti hai.
+**Kyun sahi hai?** Dono patients ki total minute ventilation same ho sakti hai, lekin fresh air alveoli tak kitni pahunchti hai ye breathing pattern par depend karta hai. Option D mein (500 − 150) × 12 = 4200 mL/min, yaani 4.2 L/min hai. Isliye D sabse zyada alveolar ventilation deta hai, agar diye gaye simplified dead-space assumptions apply hon.
 
 **Baaki options kyun galat hain?**
 
-- **A.** 2.4 L/min hai
-- **B.** 1.5 L/min hai
-- **C.** Fresh alveolar ventilation lagbhag zero hai
+- **A.** (250 − 150) × 24 = 2400 mL/min hai, jo D se kam hai.
+- **B.** (200 − 150) × 30 = 1500 mL/min hai. Rapid shallow breathing mein har breath ka bada hissa dead space mein jaata hai.
+- **C.** Tidal volume aur dead space dono 150 mL hain. Simplified calculation mein fresh alveolar ventilation zero hai, lekin real patient physiology ko is ek calculation se poora describe nahi kar sakte.
 
-**Exam trick:** Same minute ventilation does not mean same gas exchange.
+**Exam trick:** Same minute ventilation ka matlab same alveolar ventilation nahi hota.
+
+**Clinical / practice reference:** [Respiratory physiology reference](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing) · [Dead space MCQ video](https://www.youtube.com/watch?v=lAy0Cb9o5ss&t=958s).
 
 </details>
 
 ### Q3. A patient with prolonged vomiting has pH 7.49, HCO3 34 mEq/L and PaCO2 46 mmHg. Which primary disorder is present?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Metabolic acidosis
 - **B.** Respiratory acidosis
@@ -69,21 +73,23 @@
 
 **Correct: C. Metabolic alkalosis with respiratory compensation**
 
-**Kyun sahi hai?** Vomiting mein stomach acid nikalta hai. Bicarbonate high aur pH high hai. CO2 badhna compensation ho sakta hai.
+**Kyun sahi hai?** pH 7.49 hone ka matlab blood alkaline side par hai. HCO3 34 mEq/L elevated hai aur prolonged vomiting se stomach acid lose ho sakta hai. Isliye primary problem metabolic alkalosis hai. PaCO2 46 mmHg ka mildly elevated hona respiratory compensation ke saath consistent hai. Diye gaye values se compensation ko exact mathematical certainty se prove nahi karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Bicarbonate low nahi hai
-- **B.** pH acidic nahi hai
-- **D.** CO2 low nahi hai
+- **A.** Metabolic acidosis mein primary bicarbonate kam hota hai. Yahan bicarbonate elevated hai.
+- **B.** Primary respiratory acidosis mein CO2 retention pH ko acidic side par le jaata hai. Yahan elevated bicarbonate aur alkalemia metabolic cause ko support karte hain.
+- **D.** Primary respiratory alkalosis mein PaCO2 kam hota hai, jo yahan nahi hai.
 
-**Exam trick:** Pehle pH phir HCO3 aur CO2 dekho.
+**Exam trick:** Pehle pH, phir primary HCO3 ya PaCO2 change dekho.
+
+**Clinical / practice reference:** [Merck compensation reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders).
 
 </details>
 
 ### Q4. An ABG shows pH 7.26, PaCO2 60 mmHg and HCO3 26 mEq/L soon after opioid administration. What explains the result?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Primary metabolic acidosis
 - **B.** Acute respiratory acidosis from hypoventilation
@@ -94,21 +100,23 @@
 
 **Correct: B. Acute respiratory acidosis from hypoventilation**
 
-**Kyun sahi hai?** Opioid saans ki speed aur depth kam kar sakta hai. CO2 rukne se blood acidic ho gaya.
+**Kyun sahi hai?** Opioid respiratory drive ko depress kar sakta hai. Jab ventilation kam hoti hai, CO2 retain hoti hai aur pH girta hai. Yahan pH 7.26 aur PaCO2 60 acute respiratory acidosis ko support karte hain. HCO3 26 ka small rise acute compensation ke saath compatible hai. Nurse ko patient ki airway, breathing aur alertness assess karke urgent help leni chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Bicarbonate primary low nahi
-- **C.** pH acid hai aur bicarbonate high nahi
-- **D.** CO2 high hai, low nahi
+- **A.** Primary metabolic acidosis mein bicarbonate kam hota hai. Yahan primary abnormality elevated PaCO2 hai.
+- **C.** Metabolic alkalosis mein primary bicarbonate elevation hoti hai. Yahan pH acidic hai aur onset opioid ke baad acute hai.
+- **D.** Hyperventilation CO2 kam karti hai. Yahan CO2 high hai, isliye respiratory alkalosis nahi hai.
 
-**Exam trick:** Slow breathing retains CO2.
+**Exam trick:** Opioid-related hypoventilation se CO2 retention ho sakti hai.
+
+**Clinical / practice reference:** [Merck compensation reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders).
 
 </details>
 
 ### Q5. A patient has pH 7.31, bicarbonate 14 mEq/L and PaCO2 29 mmHg. Using Winter's formula, how should the PaCO2 be interpreted?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🟡 IMPORTANT — advanced ABG enrichment | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** No metabolic disturbance
 - **B.** Appropriate respiratory compensation
@@ -119,21 +127,23 @@
 
 **Correct: B. Appropriate respiratory compensation**
 
-**Kyun sahi hai?** Expected CO2 = 1.5 x 14 + 8 = 29, plus or minus 2. Patient ka CO2 isi range mein hai.
+**Kyun sahi hai?** Metabolic acidosis mein lungs CO2 nikal kar pH ko balance karne ki koshish karte hain. Winter formula se expected PaCO2 = 1.5 × 14 + 8 = 29 mmHg milta hai. Do mmHg dono taraf allow karne par expected range 27–31 hai. Measured PaCO2 29 hai, isliye respiratory compensation appropriate hai. Ye advanced interpretation practice hai. Basic ABG identification ko pehle master karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Bicarbonate low aur pH acid hai
-- **C.** CO2 expected se high nahi
-- **D.** CO2 expected se low nahi
+- **A.** pH low aur bicarbonate low hain. Isliye primary metabolic acidosis present hai.
+- **C.** Additional respiratory acidosis ka suspicion tab hota jab measured PaCO2 expected range se high hota.
+- **D.** Additional respiratory alkalosis ka suspicion tab hota jab measured PaCO2 expected range se low hota.
 
-**Exam trick:** Winter formula metabolic acidosis ke liye hai.
+**Exam trick:** Winter formula sirf metabolic acidosis ki respiratory compensation assess karne ke liye use karo.
+
+**Clinical / practice reference:** [Merck acid-base disorders](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders). Exact historical exam appearance not established.
 
 </details>
 
 ### Q6. A patient has severe anemia but an SpO2 of 98%. Which statement best explains the remaining risk?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Oxygen content may still be low because hemoglobin is reduced
 - **B.** SpO2 proves total oxygen delivery is normal
@@ -144,15 +154,17 @@
 
 **Correct: A. Oxygen content may still be low because hemoglobin is reduced**
 
-**Kyun sahi hai?** Pulse oximeter batata hai kitne percent hemoglobin par oxygen lagi hai. Hemoglobin hi kam ho toh total oxygen kam ho sakti hai.
+**Kyun sahi hai?** SpO2 batata hai ki available hemoglobin ka kitna percentage oxygen se saturated hai. Ye hemoglobin ki total quantity nahi batata. Severe anemia mein hemoglobin kam hai, isliye 98 percent saturation ke bawajood blood ka total oxygen-carrying capacity kam ho sakta hai. Patient ke symptoms, perfusion aur hemoglobin result ko bhi assess karna zaroori hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Saturation content nahi hai
-- **C.** Anemia se CO2 hamesha high nahi
-- **D.** Hemoglobin kam hota hai
+- **B.** Normal saturation se oxygen content ya tissue oxygen delivery normal prove nahi hoti. Delivery cardiac output par bhi depend karti hai.
+- **C.** Anemia ka hona PaCO2 elevated hone ko zaroori nahi banata. CO2 ventilation se closely related hai.
+- **D.** Anemia mein hemoglobin kam hota hai, na ki badhta hai.
 
-**Exam trick:** SpO2 normal does not rule out anemia.
+**Exam trick:** Normal SpO2 anemia ko rule out nahi karta.
+
+**Clinical / practice reference:** [OpenStax oxygenation and perfusion](https://openstax.org/books/medical-surgical-nursing/pages/11-1-concepts-of-oxygenation-and-perfusion) · [Nursing pulse oximetry](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration).
 
 </details>
 
