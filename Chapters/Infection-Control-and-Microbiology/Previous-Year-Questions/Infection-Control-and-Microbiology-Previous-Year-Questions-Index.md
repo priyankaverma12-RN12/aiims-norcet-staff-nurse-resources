@@ -49,4 +49,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Specimen collection reported exam practice](Specimen-Collection-Reported-PYQs.md): one retrieved OSSSC 2021 item. Overlapping UKMSSB lead and historical TB items excluded from this count.
 
-**Current total: 50 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[AMR reported exam practice](AMR-Reported-PYQs.md): one MRSA abbreviation adaptation consolidated from three retrieved RRB, ESIC and MPESB exam reports. Prior MRSA precaution question tests a separate concept.
+
+**Current total: 51 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
