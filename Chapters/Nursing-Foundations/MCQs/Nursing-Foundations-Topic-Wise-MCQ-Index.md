@@ -52,8 +52,9 @@
 | [Respiration assessment](03C-Respiration-Assessment-26-MCQs.md) | 26 | 30 |
 | [Pulse oximetry assessment](03D-Pulse-Oximetry-Assessment-29-MCQs.md) | 29 | 30 |
 | [Physical examination](03E-Physical-Examination-27-MCQs.md) | 27 | 30 |
+| [Fall risk and prevention](04A-Fall-Risk-and-Prevention-24-MCQs.md) | 24 | 30 |
 
-Current inventory **842 original question slots** (348 Medium, 494 Difficult), initial 600 + 242 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **866 original question slots** (358 Medium, 508 Difficult), initial 600 + 266 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -64,3 +65,5 @@ Respiration allocation Q6,12,15,19 prior + 26 new. Q13 systemic deterioration re
 Oximetry allocation one prior Q7 + 29 new = 30. Physical examination Q8–10 + 27 new = 30. Q14 reserved for later pain assessment. All original items retained. [Oximetry evidence](../Previous-Year-Questions/03D-Oximetry-Reported-Evidence.md).
 
 [Physical examination reported evidence](../Previous-Year-Questions/03E-Physical-Examination-Reported-Evidence.md). Full semantic and clinical audit pending.
+
+Group 04A fall prevention: original Q2,3,4,11,13,19 + 24 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04A-Fall-Risk-Reported-Evidence.md). Remaining 14 earlier group 04 items reserved for later individual topics. No double counting.
