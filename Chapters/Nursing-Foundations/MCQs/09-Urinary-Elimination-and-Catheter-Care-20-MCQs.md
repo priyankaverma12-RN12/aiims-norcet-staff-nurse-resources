@@ -32,6 +32,8 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 01, Q65](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q65-which-is-an-appropriate-indication-for-an-indwelling-urinary-catheter) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q2. An indwelling catheter drainage bag is found above the level of the bladder. What should the nurse do?
@@ -63,6 +65,8 @@ Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata h
 **YouTube MCQ practice:** Specific coverage verification pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+[Legacy mock practice: Mock 01, Q24](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q24-an-indwelling-catheter-drainage-bag-is-found-above-the-level-of-the-bladder-what-should-the-nurse-do) — same topic-bank question, not a new original.
 
 </details>
 
@@ -100,6 +104,8 @@ Closed system ka matlab hai ki catheter aur collecting tubing ka connection unne
 
 **HPRCA evidence lead:** [Assistant Staff Nurse post code 26004, 21 March 2026 Shift 1](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/26004-shift-1-21-mar-2026) search extract includes indwelling catheter infection prevention. Direct item and answer key retrieval failed. Not an authenticated match.
 
+[Legacy mock practice: Mock 01, Q112](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q112-why-should-a-urinary-drainage-system-normally-remain-closed) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q4. A catheterized patient has no urine in the bag for two hours and reports suprapubic discomfort. What should the nurse do first?
@@ -131,6 +137,8 @@ Suprapubic discomfort ka matlab lower abdomen mein bladder ke upar dard ya press
 **YouTube MCQ practice:** Specific coverage verification pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+[Legacy mock practice: Mock 01, Q79](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q79-a-catheterized-patient-has-no-urine-in-the-bag-for-two-hours-and-reports-suprapubic-discomfort-what-should-the-nurse-do-first) — same topic-bank question, not a new original.
 
 </details>
 
@@ -164,6 +172,8 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 02, Q13](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q13-which-practice-helps-prevent-urethral-traction-from-an-indwelling-catheter) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q6. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
@@ -195,6 +205,8 @@ Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urin
 **Related exam evidence:** [AIIMS NORCET, 20 November 2021 Shift II — memory-based report](https://testbook.com/question-answer/a-patient-is-unconscious-nurse-is-going-to-take-th--65f82ec5c3d23f0c2a353e20). Reported option 4 uses older ambiguous aspiration wording. Current CDC guidance favors the designated needleless sampling port, not arbitrary tubing puncture.
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 02, Q70](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q70-a-urine-culture-is-ordered-for-a-patient-with-an-existing-indwelling-catheter-where-should-a-fresh-specimen-usually-be-obtained) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q7. Which approach is appropriate for routine meatal hygiene in a catheterized patient?
@@ -226,6 +238,8 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 **YouTube MCQ practice:** Specific coverage verification pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+[Legacy mock practice: Mock 02, Q107](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q107-which-approach-is-appropriate-for-routine-meatal-hygiene-in-a-catheterized-patient) — same topic-bank question, not a new original.
 
 </details>
 
@@ -259,6 +273,8 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 02, Q98](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q98-a-patient-has-an-indwelling-catheter-solely-because-of-a-now-resolved-short-term-indication-what-is-the-best-next-step) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q9. Which device can noninvasively estimate urine remaining in the bladder after voiding?
@@ -288,6 +304,8 @@ Postvoid residual ya PVR urine pass karne ke baad bladder mein bachi quantity ha
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 03, Q99](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q99-which-device-can-noninvasively-estimate-urine-remaining-in-the-bladder-after-voiding) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q10. A patient voids 100 mL and has a large postvoid residual on repeated bladder assessment. Which problem is suggested?
@@ -317,6 +335,8 @@ Patient ne 100 mL urine pass kiya, lekin baar-baar scan par large PVR mil raha h
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 03, Q16](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q16-a-patient-voids-100-ml-and-has-a-large-postvoid-residual-on-repeated-bladder-assessment-which-problem-is-suggested) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q11. Which instruction is appropriate for a midstream clean-catch urine specimen?
@@ -346,6 +366,8 @@ Clean-catch sample ka goal urine mein surrounding skin ke germs milne ka risk ka
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
 
 **▶️ [YouTube MCQ practice — clean-catch urine collection, Med-Surg Tutor](https://www.youtube.com/watch?v=UCaIIc3GCko)** · 27 May 2025. Published description identifies 12 practice questions and clean-catch collection. Topic-level only, exact question and playback pending.
+[Legacy mock practice: Mock 03, Q113](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q113-which-instruction-is-appropriate-for-a-midstream-clean-catch-urine-specimen) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q12. A timed 24-hour urine collection begins at 7 AM. What is the usual collection procedure?
@@ -375,6 +397,8 @@ Timed collection ka purpose ek fixed 24-hour interval mein excreted substance me
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 03, Q32](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q32-a-timed-24-hour-urine-collection-begins-at-7-am-what-is-the-usual-collection-procedure) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q13. A urinary drainage bag needs emptying. Which technique reduces cross-contamination?
@@ -407,6 +431,8 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 04, Q69](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q69-a-urinary-drainage-bag-needs-emptying-which-technique-reduces-cross-contamination) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q14. A catheterized patient develops fever and new flank pain. What is the appropriate nursing response?
@@ -436,6 +462,8 @@ Flank pain side ya back mein kidney ke area ka dard hai. Catheterized patient me
 **Clinical reference:** [Topic reference](https://www.cdc.gov/uti/hcp/clinical-guidance/index.html).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 04, Q68](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q68-a-catheterized-patient-develops-fever-and-new-flank-pain-what-is-the-appropriate-nursing-response) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q15. What does intermittent catheterization mean?
@@ -467,6 +495,8 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 **YouTube MCQ practice:** Specific coverage verification pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+[Legacy mock practice: Mock 04, Q13](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q13-what-does-intermittent-catheterization-mean) — same topic-bank question, not a new original.
 
 </details>
 
@@ -500,6 +530,8 @@ Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethra
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 04, Q20](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q20-during-catheter-insertion-a-patient-experiences-severe-pain-and-marked-resistance-which-action-is-safest) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q17. Before inflating an indwelling urinary catheter balloon, what must be confirmed?
@@ -532,6 +564,8 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
+[Legacy mock practice: Mock 05, Q46](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q46-before-inflating-an-indwelling-urinary-catheter-balloon-what-must-be-confirmed) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q18. Which intervention supports dignity for a patient who needs help using a bedpan?
@@ -561,6 +595,8 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 05, Q67](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q67-which-intervention-supports-dignity-for-a-patient-who-needs-help-using-a-bedpan) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q19. A patient with functional incontinence can sense bladder fullness but cannot reach the toilet in time due to limited mobility. Which plan addresses the main problem?
@@ -590,6 +626,8 @@ Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, l
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 05, Q77](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q77-a-patient-with-functional-incontinence-can-sense-bladder-fullness-but-cannot-reach-the-toilet-in-time-due-to-limited-mobility-which-plan-addresses-the-main-problem) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q20. A postoperative patient has low urine output despite a patent catheter. Which assessment is most appropriate?
@@ -619,6 +657,8 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 **Clinical reference:** [Topic reference](https://www.nice.org.uk/guidance/ng148/chapter/Recommendations).
 
 **YouTube MCQ practice:** Specific coverage verification pending.
+[Legacy mock practice: Mock 05, Q51](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q51-a-postoperative-patient-has-low-urine-output-despite-a-patent-catheter-which-assessment-is-most-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ## Study references
