@@ -239,7 +239,9 @@ Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exuda
 
 ### Q10. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Prevent smoking near oxygen and explain the fire hazard
 - **B.** Allow smoking if the oxygen flow is low
@@ -254,13 +256,23 @@ Oxygen khud fuel nahi hai lekin burning ko strongly support karti hai. Nurse ign
 
 **Baaki options kyun sahi nahi hain?** Low flow bhi fire risk eliminate nahi karta. Blanket aur increased flow unsafe ho sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q7](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q7](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q7-a-patient-receiving-oxygen-asks-to-smoke-near-the-bedside-which-response-is-appropriate)
 
 ### Q11. A nurse catches a wrong-dose preparation before it reaches the patient. What type of safety event is this?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Near miss
 - **B.** Confirmed adverse drug reaction
@@ -275,9 +287,17 @@ Near miss mein error hua ya hone wala tha, lekin patient tak harm-producing even
 
 **Baaki options kyun sahi nahi hain?** ADR medicine ke harmful response ko describe karti hai. Therapeutic response expected benefit hai. Serious injury necessarily hui nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q5](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q5](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q5-a-nurse-catches-a-wrong-dose-preparation-before-it-reaches-the-patient-what-type-of-safety-event-is-this)
 
 ### Q12. During an enema, the patient develops marked abdominal pain and bleeding. What should the nurse do?
 
@@ -1848,7 +1868,9 @@ Breathlessness ko palliative care mein actively address kiya jaata hai. Position
 
 ### Q82. An electrical device sparks while connected to a patient. Which immediate response is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Pour water on the energized equipment
 - **B.** Protect the patient and isolate the power source if it is safe to do so, then summon help
@@ -1863,9 +1885,17 @@ Electrical hazard mein rescuer aur patient dono ki safety important hai. Nurse s
 
 **Baaki options kyun sahi nahi hain?** Wet hands aur water shock risk badhate hain. Faulty equipment continue use nahi karna chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q8](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q8](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q8-an-electrical-device-sparks-while-connected-to-a-patient-which-immediate-response-is-safest)
 
 ### Q83. Which solution is commonly used for routine compatible peripheral IV flushing when prescribed and appropriate?
 
@@ -2301,7 +2331,9 @@ NG tube accidentally respiratory tract mein ja sakti hai. Initial placement appr
 
 ### Q103. Which quality improvement approach primarily seeks to identify system contributors after a serious patient safety event?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Root cause analysis
 - **B.** Ignoring equipment and workflow factors
@@ -2316,9 +2348,17 @@ Root cause analysis mein team event ke contributing factors, jaise communication
 
 **Baaki options kyun sahi nahi hain?** Automatic punishment causes identify nahi karti. Records delete aur system factors ignore karna learning ko prevent karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04D-Incident-Reporting-and-Quality-Management.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q6](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q6](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q6-which-quality-improvement-approach-primarily-seeks-to-identify-system-contributors-after-a-serious-patient-safety-event)
 
 ### Q104. A nurse receives a telephone medication order under a policy that permits it. What is the safest verification step?
 
