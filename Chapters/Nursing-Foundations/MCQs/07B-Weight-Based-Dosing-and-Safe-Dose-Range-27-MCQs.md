@@ -18,10 +18,14 @@ D. 60 mg and 60 mg
 
 **Correct answer: A. 60 mg and 132 mg**
 
-- **A (Correct):** 44/2.2 = 20 kg. Correct dose 20 × 3 = 60 mg. Wrong entry 44 × 3 = 132 mg, 2.2 times higher. Weight unit verify karna zaroori hai.
-- **B (Incorrect):** Dono calculations reverse kar diye gaye hain.
-- **C (Incorrect):** Yeh weight values hain, dose nahi.
-- **D (Incorrect):** Wrong weight se dose bhi change hoti hai.
+**Formula, steps aur reverse check:** 44 lb / 2.2 lb/kg = 20 kg. Correct dose 20 × 3 = 60 mg, erroneous dose 44 × 3 = 132 mg. Reverse: 60/3 = 20 kg, 132/3 = 44 kg. Error factor 132/60 = 2.2.
+
+- **A (Correct):** Correct aur erroneous values respectively 60 aur 132 mg hain.
+- **B (Incorrect):** Values reverse hain.
+- **C (Incorrect):** 20 aur 44 weights hain, doses nahi.
+- **D (Incorrect):** Wrong weight se 132 mg aayega, 60 nahi.
+
+**Exam clue:** Weight ki unit verify karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -43,10 +47,14 @@ D. 2.4 mL
 
 **Correct answer: C. 1.2 mL**
 
-- **A (Incorrect):** 12 mL se 120 mg milega, tenfold excess.
-- **B (Incorrect):** 0.12 mL se 1.2 mg milega.
-- **C (Correct):** 2400 g = 2.4 kg. Dose 2.4 × 5 = 12 mg. Volume 12/10 = 1.2 mL. Real neonatal dose and concentration separately verify karo.
-- **D (Incorrect):** 2.4 mL se 24 mg milega.
+**Formula, steps aur reverse check:** 2400 g/1000 = 2.4 kg. Dose = 2.4 × 5 = 12 mg. Volume = 12/10 = 1.2 mL. Reverse: 1.2 × 10/2.4 = 5 mg/kg.
+
+- **A (Incorrect):** 12 mL = 120 mg, tenfold.
+- **B (Incorrect):** 0.12 mL = 1.2 mg, tenfold kam.
+- **C (Correct):** 1.2 mL = 12 mg.
+- **D (Incorrect):** 2.4 mL = 24 mg, double.
+
+**Exam clue:** Grams ko kg mein convert karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -68,10 +76,14 @@ D. 432 mg
 
 **Correct answer: B. 216 mg**
 
-- **A (Incorrect):** 72 mg sirf ek dose hai.
-- **B (Correct):** Per dose 18 × 4 = 72 mg. 24/8 = 3 doses. Total 72 × 3 = 216 mg hai.
-- **C (Incorrect):** 288 mg four doses ka total hota.
-- **D (Incorrect):** 432 mg six doses ka total hota.
+**Formula, steps aur reverse check:** Per dose = 18 × 4 = 72 mg. Doses/day = 24/8 = 3. Daily total = 72 × 3 = 216 mg. Reverse: 216/3/18 = 4 mg/kg/dose.
+
+- **A (Incorrect):** 72 mg ek dose hai.
+- **B (Correct):** 216 mg teen doses ka total hai.
+- **C (Incorrect):** 288 mg implies four doses.
+- **D (Incorrect):** 432 mg implies six doses.
+
+**Exam clue:** Every 8 hours = three scheduled doses in 24 hours.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -93,10 +105,14 @@ D. 6 mL
 
 **Correct answer: D. 6 mL**
 
-- **A (Incorrect):** 24 mL poori daily dose hai.
-- **B (Incorrect):** 12 mL half daily dose hai.
-- **C (Incorrect):** 3 mL se 24 mg milega, half single dose.
-- **D (Correct):** Daily 12 × 16 = 192 mg. Each 192/4 = 48 mg. Stock 24/3 = 8 mg/mL. 48/8 = 6 mL.
+**Formula, steps aur reverse check:** Daily = 16 × 12 = 192 mg. Each = 192/4 = 48 mg. Concentration = 24/3 = 8 mg/mL. Volume = 48/8 = 6 mL. Reverse: 6 × 8 × 4/16 = 12 mg/kg/day.
+
+- **A (Incorrect):** 24 mL gives entire daily mass 192 mg at once.
+- **B (Incorrect):** 12 mL gives 96 mg, twice per dose.
+- **C (Incorrect):** 3 mL gives 24 mg, half per dose.
+- **D (Correct):** 6 mL gives 48 mg.
+
+**Exam clue:** Daily mass ko frequency se divide karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -118,10 +134,14 @@ D. 24 mg and 168 mg
 
 **Correct answer: A. 12 mg and 84 mg**
 
-- **A (Correct):** 0.5 × 24 = 12 mg once weekly. Daily entry se 12 × 7 = 84 mg per week. Frequency confusion serious harm cause kar sakti hai. Order clarify karo.
-- **B (Incorrect):** Correct and incorrect totals reverse hain.
-- **C (Incorrect):** Daily frequency seven doses create karti hai.
-- **D (Incorrect):** 0.5 factor ignore kar diya hai.
+**Formula, steps aur reverse check:** 0.5 × 24 = 12 mg per intended weekly dose. Erroneous daily schedule gives 12 × 7 = 84 mg in seven days. Reverse: 84/7 = 12 mg.
+
+- **A (Correct):** 12 mg intended, 84 mg erroneous total hai.
+- **B (Incorrect):** Dono totals reverse hain.
+- **C (Incorrect):** Daily frequency se weekly total sevenfold hoga.
+- **D (Incorrect):** 24 mg per dose implies 1 mg/kg, double.
+
+**Exam clue:** Weekly/daily discrepancy promptly clarify karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -143,10 +163,14 @@ D. 225 mg
 
 **Correct answer: C. 180 mg**
 
-- **A (Incorrect):** 200 mg weight formula se aata hai but cap exceed karta hai.
-- **B (Incorrect):** 160 mg given rule se derive nahi hota.
-- **C (Correct):** 8 × 25 = 200 mg, but cap 180 mg hai. Authorized capped protocol mein lower specified amount use hota hai. Actual order discrepancy clarify karo.
-- **D (Incorrect):** 225 mg cap se zyada hai.
+**Formula, steps aur reverse check:** Weight calculation = 25 × 8 = 200 mg. Stated cap = 180 mg. Lower of both = 180 mg. Reverse: 180/25 = 7.2 mg/kg, cap respected.
+
+- **A (Incorrect):** 200 mg cap se 20 mg zyada hai.
+- **B (Incorrect):** 160 mg arbitrary reduction hai, specified cap rule ka result nahi.
+- **C (Correct):** 180 mg protocol cap ke according correct hai.
+- **D (Incorrect):** 225 mg cap se 45 mg zyada.
+
+**Exam clue:** Weight-based amount aur absolute cap dono check karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#dose-limits-and-ranges) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -168,10 +192,14 @@ D. 250 mg
 
 **Correct answer: B. 80 mg**
 
-- **A (Incorrect):** 330 mg total daily limit hai.
-- **B (Correct):** 22 × 15 = 330 mg. Already 250 mg given, so remaining 80 mg. Yeh arithmetic allowance hai, automatic additional dose instruction nahi.
-- **C (Incorrect):** 180 mg ek prior dose ignore karta hai.
-- **D (Incorrect):** 250 mg already administered amount hai.
+**Formula, steps aur reverse check:** Daily allowance = 22 × 15 = 330 mg. Given = 100 + 150 = 250 mg. Remaining = 330 − 250 = 80 mg. Reverse: 250 + 80 = 330 mg.
+
+- **A (Incorrect):** 330 mg full daily allowance hai.
+- **B (Correct):** 80 mg remaining hai.
+- **C (Incorrect):** 180 mg only 150 mg dose subtract karta hai.
+- **D (Incorrect):** 250 mg already administered hai.
+
+**Exam clue:** Remaining allowance next dose authorization nahi hai.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#dose-limits-and-ranges) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -193,10 +221,14 @@ D. Below lower limit by 12 mg
 
 **Correct answer: D. Below lower limit by 12 mg**
 
-- **A (Incorrect):** Minimum 72 mg hai, so 60 mg within nahi hai.
-- **B (Incorrect):** Upper limit 120 mg hai, order usse kam hai.
-- **C (Incorrect):** 60 mg upper boundary se difference hai, lower boundary se nahi.
-- **D (Correct):** Range 72–120 mg hai. 60 mg lower bound se 12 mg kam hai. Clinical indication and order clarify karo.
+**Formula, steps aur reverse check:** Lower = 12 × 6 = 72 mg, upper = 12 × 10 = 120 mg. Ordered 60 mg, lower se 72 − 60 = 12 mg kam. Reverse: 60/12 = 5 mg/kg.
+
+- **A (Incorrect):** 60 mg range 72–120 mg ke andar nahi.
+- **B (Incorrect):** Upper bound 120 mg hai, 60 mg usse above nahi.
+- **C (Incorrect):** Difference 12 mg hai, 60 mg nahi.
+- **D (Correct):** 12 mg below lower bound correct hai.
+
+**Exam clue:** Lower aur upper limits separately calculate karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#dose-limits-and-ranges) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -218,10 +250,14 @@ D. Daily total exceeds the limit by 540 mg
 
 **Correct answer: A. Per-dose amount fits, but daily total exceeds the limit by 180 mg**
 
-- **A (Correct):** Single 180 mg fits. Four doses = 720 mg. Daily cap 18 × 30 = 540 mg, excess 180 mg. Frequency clarify karo.
-- **B (Incorrect):** Daily cap exceeded hai.
-- **C (Incorrect):** Per dose 18 × 10 = 180 mg, exactly fits.
-- **D (Incorrect):** 540 mg limit hai, excess nahi.
+**Formula, steps aur reverse check:** Per-dose limit = 18 × 10 = 180 mg. Daily max = 18 × 30 = 540 mg. Every 6h = 4 doses/day. Total = 180 × 4 = 720 mg/day. Excess = 720 − 540 = 180 mg. Reverse: 720/18 = 40 mg/kg/day.
+
+- **A (Correct):** Per-dose limit met, daily excess 180 mg hai.
+- **B (Incorrect):** Daily max cross hota hai.
+- **C (Incorrect):** Each dose equals per-dose limit.
+- **D (Incorrect):** 540 mg daily limit hai, excess nahi.
+
+**Exam clue:** Per-dose aur daily limits independently verify karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#dose-limits-and-ranges) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -243,10 +279,14 @@ D. 4–6 mg
 
 **Correct answer: C. 120–150 mg**
 
-- **A (Incorrect):** 180 mg absolute cap exceed karta hai.
-- **B (Incorrect):** 150 mg se below 120–149 mg bhi specified range mein hai.
-- **C (Correct):** Weight range 120–180 mg hai. Cap 150 apply karke allowed intersection 120–150 mg hai. Patient-specific reference confirm karo.
-- **D (Incorrect):** Yeh per-kg values hain, calculated mass nahi.
+**Formula, steps aur reverse check:** Weight range = 30 × 4 to 30 × 6 = 120–180 mg. Absolute cap 150 mg, so valid intersection 120–150 mg. Reverse: 120/30 = 4, 150/30 = 5 mg/kg.
+
+- **A (Incorrect):** 120–180 allows above cap.
+- **B (Incorrect):** 150–180 omits valid lower doses and exceeds cap.
+- **C (Correct):** 120–150 meets both constraints.
+- **D (Incorrect):** 4–6 mg/kg rate hai, total mg nahi.
+
+**Exam clue:** Upper bound ko cap se restrict karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#dose-limits-and-ranges) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -268,10 +308,14 @@ D. 98 mL
 
 **Correct answer: B. 14 mL**
 
-- **A (Incorrect):** 7 mL se 49 mg, half dose.
-- **B (Correct):** Dose 14 × 7 = 98 mg. Concentration 35/5 = 7 mg/mL. Volume 98/7 = 14 mL.
-- **C (Incorrect):** 20 mL se 140 mg milega.
-- **D (Incorrect):** 98 mg ko mL samajhna unit error hai.
+**Formula, steps aur reverse check:** Dose = 14 × 7 = 98 mg. Concentration = 35/5 = 7 mg/mL. Volume = 98/7 = 14 mL. Reverse: 14 × 7/14 = 7 mg/kg.
+
+- **A (Incorrect):** 7 mL = 49 mg.
+- **B (Correct):** 14 mL = 98 mg.
+- **C (Incorrect):** 20 mL = 140 mg.
+- **D (Incorrect):** 98 mL = 686 mg.
+
+**Exam clue:** mg/kg se mass, phir concentration se volume.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -293,10 +337,14 @@ D. 2 mL
 
 **Correct answer: D. 2 mL**
 
-- **A (Incorrect):** 0.2 mL se 80 micrograms milengi.
-- **B (Incorrect):** 20 mL se 8000 micrograms milengi.
-- **C (Incorrect):** 0.8 mg calculated mass hai, volume nahi.
-- **D (Correct):** 25 × 32 = 800 micrograms = 0.8 mg. 0.8/0.4 = 2 mL. Units align karna crucial hai.
+**Formula, steps aur reverse check:** 25 × 32 = 800 micrograms = 0.8 mg. Volume = 0.8/0.4 = 2 mL. Reverse: 2 × 0.4 × 1000/32 = 25 micrograms/kg.
+
+- **A (Incorrect):** 0.2 mL = 80 micrograms.
+- **B (Incorrect):** 20 mL = 8000 micrograms.
+- **C (Incorrect):** 0.8 mL = 320 micrograms.
+- **D (Correct):** 2 mL = 800 micrograms.
+
+**Exam clue:** Mass units match karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -318,10 +366,14 @@ D. 180 mL
 
 **Correct answer: A. 3 mL**
 
-- **A (Correct):** 12 × 15 = 180 units. 180/60 = 3 mL. Drug-specific unit and device instructions verify karo.
-- **B (Incorrect):** 0.3 mL se 18 units milengi.
-- **C (Incorrect):** 12 mL se 720 units milengi.
-- **D (Incorrect):** 180 units mass/activity amount hai, volume nahi.
+**Formula, steps aur reverse check:** Dose = 12 × 15 = 180 units. Volume = 180/60 = 3 mL. Reverse: 3 × 60/15 = 12 units/kg.
+
+- **A (Correct):** 3 mL = 180 units.
+- **B (Incorrect):** 0.3 mL = 18 units.
+- **C (Incorrect):** 12 mL = 720 units.
+- **D (Incorrect):** 180 mL = 10800 units.
+
+**Exam clue:** Units ko mg assume mat karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -343,10 +395,14 @@ D. 75 mg
 
 **Correct answer: C. 60 mg**
 
-- **A (Incorrect):** 80 mg tab hota if BSA 1 square meter hoti.
-- **B (Incorrect):** 80/0.75 wrong operation hai.
-- **C (Correct):** Dose 80 × 0.75 = 60 mg. BSA-based calculation only when authorized protocol specifies it.
-- **D (Incorrect):** 75 mg BSA ko percent maan ke calculate kiya gaya hai.
+**Formula, steps aur reverse check:** 0.75 m² × 80 mg/m² = 60 mg. Reverse: 60/0.75 = 80 mg/m².
+
+- **A (Incorrect):** 80 mg would correspond to 1 m².
+- **B (Incorrect):** 106.7 mg is approximately 80/0.75, multiply required.
+- **C (Correct):** 60 mg correct mass hai.
+- **D (Incorrect):** 75 mg implies 100 mg/m².
+
+**Exam clue:** Verified BSA use karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -368,10 +424,14 @@ D. 83.3 mg
 
 **Correct answer: B. 50 mg**
 
-- **A (Incorrect):** BSA square root step omit karne par 41.7 aata hai.
-- **B (Correct):** 100 × 25/3600 = 0.69444. Square root = 0.83333 square meters. 60 × 0.83333 = 50 mg. Real protocol's BSA method verify karo.
-- **C (Incorrect):** 60 mg BSA 1 assume karta hai.
-- **D (Incorrect):** 83.3 BSA × 100 hai, ordered dose nahi.
+**Formula, steps aur reverse check:** BSA = √(100 × 25/3600) = √(25/36) = 5/6 m². Dose = 60 × 5/6 = 50 mg. Reverse: (50/60)² × 3600 = 2500 = 100 × 25.
+
+- **A (Incorrect):** 41.7 mg is result of skipping square root.
+- **B (Correct):** 50 mg exact before rounding hai.
+- **C (Incorrect):** 60 mg assumes BSA 1 m².
+- **D (Incorrect):** 83.3 mg implies dose rate 100 mg/m², not 60.
+
+**Exam clue:** Mosteller formula mein square root important hai.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -393,10 +453,14 @@ D. 30 mg
 
 **Correct answer: D. 30 mg**
 
-- **A (Incorrect):** 6 mg per kg rate hai, difference nahi.
-- **B (Incorrect):** 120 mg new calculated mass hai.
-- **C (Incorrect):** 150 mg old mass hai.
-- **D (Correct):** Old 25 × 6 = 150 mg. New 20 × 6 = 120 mg. Difference 30 mg. Authorized dose adjustment requires clinical review.
+**Formula, steps aur reverse check:** Old = 25 × 6 = 150 mg, new = 20 × 6 = 120 mg. Difference = 30 mg. Reverse: (25 − 20) × 6 = 30 mg.
+
+- **A (Incorrect):** 6 mg/kg rate hai, difference nahi.
+- **B (Incorrect):** 120 mg new dose hai.
+- **C (Incorrect):** 150 mg old dose hai.
+- **D (Correct):** 30 mg difference hai.
+
+**Exam clue:** Weight change par authorized review karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -418,10 +482,14 @@ D. 100 mg
 
 **Correct answer: A. 60 mg**
 
-- **A (Correct):** 20 kg second band ka inclusive lower boundary hai, isliye 60 mg. Actual protocol and patient factors verify karo.
-- **B (Incorrect):** First band 20 kg include nahi karta.
-- **C (Incorrect):** Bands average karna specified rule nahi hai.
-- **D (Incorrect):** Both bands add nahi karte.
+**Formula, steps aur reverse check:** First interval 10 se below 20 kg hai, second 20 through 30 kg. Exactly 20 second band mein aata hai. Reverse check: 20 excluded from first, included in second.
+
+- **A (Correct):** 60 mg applies at boundary.
+- **B (Incorrect):** 40 mg applies only below 20 kg.
+- **C (Incorrect):** 50 mg interpolation stated protocol mein nahi.
+- **D (Incorrect):** 100 mg adds both bands incorrectly.
+
+**Exam clue:** Inclusive aur exclusive boundary padho.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -443,10 +511,14 @@ D. 70 mg
 
 **Correct answer: C. 140 mg**
 
-- **A (Incorrect):** 200 mg actual weight use karta hai, specified dosing weight nahi.
-- **B (Incorrect):** 170 mg dono weights add karne se aata hai.
-- **C (Correct):** Protocol dosing weight 70 kg hai. 70 × 2 = 140 mg. Nurse independently actual or adjusted weight select nahi karti.
-- **D (Incorrect):** 70 mg weight value hai, calculated dose nahi.
+**Formula, steps aur reverse check:** Protocol dosing weight 70 kg hai. 70 × 2 = 140 mg. Reverse: 140/2 = 70 kg.
+
+- **A (Incorrect):** 200 mg actual 100 kg use karta hai.
+- **B (Incorrect):** 170 mg implies 85 kg, not given.
+- **C (Correct):** 140 mg stated dosing weight se calculated hai.
+- **D (Incorrect):** 70 mg weight ko dose samajhta hai.
+
+**Exam clue:** Dosing weight drug-specific authorized rule se choose hoti hai.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -468,10 +540,14 @@ D. 200 mg/kg
 
 **Correct answer: B. 10 mg/kg**
 
-- **A (Incorrect):** 20 mg/kg full scheduled day hai.
-- **B (Correct):** Daily 200 mg planned, one equal dose 100 mg documented. 100/10 = 10 mg/kg actually documented. Missing dose verify and escalate karo, automatically double mat do.
-- **C (Incorrect):** 100 mg administered mass hai, per-kg nahi.
-- **D (Incorrect):** 200 mg full daily mass hai, per-kg nahi.
+**Formula, steps aur reverse check:** Planned daily = 10 × 20 = 200 mg. Two doses = 100 mg each. Actual documented one dose = 100 mg. Per kg = 100/10 = 10 mg/kg. Reverse: 10 × 10 = 100 mg.
+
+- **A (Incorrect):** 20 mg/kg intended daily amount hai.
+- **B (Correct):** 10 mg/kg actual documented amount hai.
+- **C (Incorrect):** 100 mg actual mass hai, mg/kg nahi.
+- **D (Incorrect):** 200 mg planned daily mass hai.
+
+**Exam clue:** Planned and actual amounts distinguish karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -493,10 +569,14 @@ D. 6 mg/kg
 
 **Correct answer: D. 6 mg/kg**
 
-- **A (Incorrect):** 90 mg actual mass hai, per-kg nahi.
-- **B (Incorrect):** 15 kg weight hai.
-- **C (Incorrect):** 15/90 inverse calculation hai.
-- **D (Correct):** 90 mg/15 kg = 6 mg/kg per dose. Compare appropriate per-dose reference, not daily range.
+**Formula, steps aur reverse check:** Dose per kg = 90 mg/15 kg = 6 mg/kg per dose. Reverse: 6 × 15 = 90 mg.
+
+- **A (Incorrect):** 90 mg total mass hai.
+- **B (Incorrect):** 15 kg body weight hai.
+- **C (Incorrect):** 0.167 is inverted ratio 15/90.
+- **D (Correct):** 6 mg/kg correct comparison hai.
+
+**Exam clue:** Reference units match karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -518,10 +598,14 @@ D. 60 mg/day versus 180 mg/day
 
 **Correct answer: A. 180 mg/day versus 540 mg/day**
 
-- **A (Correct):** First daily 9 × 20 = 180 mg, each dose 60 mg. Second each 180 mg × 3 = 540 mg/day. Per day vs per dose wording clarify karo.
-- **B (Incorrect):** Totals reversed hain.
-- **C (Incorrect):** Second schedule three 180 mg doses deta hai.
-- **D (Incorrect):** 60 mg first per-dose hai, daily total nahi.
+**Formula, steps aur reverse check:** First: 9 × 20 = 180 mg/day, divided into 3 = 60 mg each. Second: 9 × 20 = 180 mg/dose, 3 × 180 = 540 mg/day. Reverse: 180/20 = 9 mg/kg/day and 540/3/20 = 9 mg/kg/dose.
+
+- **A (Correct):** 180 vs 540 correct daily totals.
+- **B (Incorrect):** Totals reverse hain.
+- **C (Incorrect):** Second daily amount 540 mg hai.
+- **D (Incorrect):** 60 mg first per-dose amount hai.
+
+**Exam clue:** mg/kg/day aur mg/kg/dose different hain.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -543,10 +627,14 @@ D. 5 mg
 
 **Correct answer: C. 30 mg**
 
-- **A (Incorrect):** 45 mg every 8 hours regimen se aata hai.
-- **B (Incorrect):** 15 mg ek dose hai.
-- **C (Correct):** 5 × 3 = 15 mg each. Every 12 hours means 2 doses, total 30 mg/day. Age-specific reference verify karo.
-- **D (Incorrect):** 5 mg/kg rate hai, total daily amount nahi.
+**Formula, steps aur reverse check:** Confirmed group q12h. Dose = 3 × 5 = 15 mg. 24/12 = 2 doses, daily = 30 mg. Reverse: 30/2/3 = 5 mg/kg/dose.
+
+- **A (Incorrect):** 45 mg q8h group ka total hai.
+- **B (Incorrect):** 15 mg one dose hai.
+- **C (Correct):** 30 mg correct daily total.
+- **D (Incorrect):** 5 mg/kg rate hai, total mass nahi.
+
+**Exam clue:** Age-specific interval verify karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -568,10 +656,14 @@ D. 160 mg
 
 **Correct answer: B. 32 mg**
 
-- **A (Incorrect):** 8 mg/kg rate hai.
-- **B (Correct):** Maximum 16 × 8 = 128 mg. Proposed 160 − 128 = 32 mg excess. Pause and clarify, independently reduce mat karo.
-- **C (Incorrect):** 128 mg maximum hai, excess nahi.
+**Formula, steps aur reverse check:** Maximum = 16 × 8 = 128 mg. Excess = 160 − 128 = 32 mg. Reverse: 128 + 32 = 160 mg, proposed rate 10 mg/kg.
+
+- **A (Incorrect):** 8 mg/kg rate hai, excess nahi.
+- **B (Correct):** 32 mg excess hai.
+- **C (Incorrect):** 128 mg maximum hai.
 - **D (Incorrect):** 160 mg proposed dose hai.
+
+**Exam clue:** Excess = proposed minus allowed maximum.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -593,10 +685,14 @@ D. It delivers 360 mg/day, three times the planned total
 
 **Correct answer: D. It delivers 360 mg/day, three times the planned total**
 
-- **A (Incorrect):** 6 mL daily volume hai, each dose nahi.
-- **B (Incorrect):** Proposed 18 mL/day exceeds requirement, half nahi.
-- **C (Incorrect):** 120 mg one 6 mL administration provides.
-- **D (Correct):** Correct per dose 40 mg = 2 mL. Proposed 6 mL × 20 × 3 = 360 mg/day, threefold error. Clarify karo.
+**Formula, steps aur reverse check:** Planned each = 120/3 = 40 mg = 2 mL. Proposed 6 mL × 20 = 120 mg each, ×3 = 360 mg/day. Reverse: 360/120 = 3.
+
+- **A (Incorrect):** 6 mL is total daily planned volume, not each time.
+- **B (Incorrect):** Proposed amount triple hai, half nahi.
+- **C (Incorrect):** 120 mg proposed per-dose mass hai.
+- **D (Correct):** 360 mg/day triple planned total hai.
+
+**Exam clue:** Daily volume ko per-dose volume mat samjho.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -618,10 +714,14 @@ D. From 0.84 mg to 0.84 mg
 
 **Correct answer: A. From 0.84 mg to 0.90 mg**
 
-- **A (Correct):** Measured 2.8 × 0.3 = 0.84 mg. Rounded 3 × 0.3 = 0.90 mg. Intermediate weight rounding changes dose, policy and precision follow karo.
-- **B (Incorrect):** Actual and rounded results reverse hain.
-- **C (Incorrect):** Decimal tenfold error hai.
-- **D (Incorrect):** Weight change calculation affect karta hai.
+**Formula, steps aur reverse check:** 2.8 × 0.3 = 0.84 mg, rounded weight 3 × 0.3 = 0.90 mg. Difference 0.06 mg. Reverse: 0.84/0.3 = 2.8 kg and 0.90/0.3 = 3 kg.
+
+- **A (Correct):** 0.84 to 0.90 mg correct.
+- **B (Incorrect):** Values reverse hain.
+- **C (Incorrect):** 8.4 and 9 mg tenfold errors hain.
+- **D (Incorrect):** Weight rounding changes dose.
+
+**Exam clue:** Premature rounding avoid karo.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -643,10 +743,14 @@ D. 0.25 mg/kg/day
 
 **Correct answer: C. 4 mg/kg/day**
 
-- **A (Incorrect):** 48 mg/day total hai, per-kg nahi.
-- **B (Incorrect):** 12 kg body weight hai.
-- **C (Correct):** 48 mg/day ÷ 12 kg = 4 mg/kg/day. Daily versus per-dose reference matching important hai.
-- **D (Incorrect):** 12/48 inverse calculation hai.
+**Formula, steps aur reverse check:** 48 mg/day /12 kg = 4 mg/kg/day. Reverse: 4 × 12 = 48 mg/day.
+
+- **A (Incorrect):** 48 mg/day absolute daily mass hai.
+- **B (Incorrect):** 12 kg weight hai.
+- **C (Correct):** 4 mg/kg/day correct hai.
+- **D (Incorrect):** 0.25 is inverted ratio 12/48.
+
+**Exam clue:** Daily mass divide by kg.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
@@ -668,10 +772,14 @@ D. At the lower bound of 24 mg
 
 **Correct answer: B. At the upper bound of 40 mg**
 
-- **A (Incorrect):** Actual proposed 40 mg below nahi hai.
-- **B (Correct):** Range 8 × 3 = 24 mg to 8 × 5 = 40 mg. 4 × 10 = 40 mg, upper boundary. Numeric fit alone clinical authorization prove nahi karta.
-- **C (Incorrect):** 40 mg upper limit ke equal hai.
-- **D (Incorrect):** Lower bound 24 mg hai, actual 40 mg.
+**Formula, steps aur reverse check:** Range = 8 × 3 to 8 × 5 = 24–40 mg. Proposed = 4 mL × 10 = 40 mg. Reverse: 40/8 = 5 mg/kg, exactly upper bound.
+
+- **A (Incorrect):** 16 mg range width hai, proposed below nahi.
+- **B (Correct):** 40 mg upper bound equal hai.
+- **C (Incorrect):** Excess 40 − 40 = 0 mg, not 10.
+- **D (Incorrect):** 24 mg lower bound hai, actual 40 mg.
+
+**Exam clue:** Numeric fit alone clinical authorization prove nahi karta.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
