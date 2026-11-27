@@ -55,7 +55,18 @@ try:
         for href in hrefs:
             page.goto(href)
             ready(page)
-        print(f"All {count} chapter pages loaded in Chromium", flush=True)
+            no_overflow(page)
+        print(f"All {count} chapter pages loaded in Chromium without desktop horizontal overflow", flush=True)
+        # A navigation-only fixture checks responsive resource cards and site-local return links.
+        assert page.evaluate("""() => {
+            const holder=document.createElement('div');
+            renderQuiz(holder,'# Fixture\\n\\n| Section | Open |\\n|---|---|\\n| Concepts | [Read concepts](Concepts) |\\n| Home | [Repository home](../../README.md) |',
+                       'Chapters/Nursing-Foundations/README.md');
+            const links=[...holder.querySelectorAll('a')];
+            return holder.querySelectorAll('.navigation-resource-list > li').length===2 &&
+                   links[0].getAttribute('href').includes(encodeURIComponent('Chapters/Nursing-Foundations/Concepts/')) &&
+                   links[1].getAttribute('href')==='./#library';
+        }"""), "Navigation card or return link regression"
         # A chapter overview uses Assets/... relative to its own directory.
         page.goto(base + "?" + urlencode({"doc":"Chapters/Respiratory-System/README.md"}))
         ready(page)
