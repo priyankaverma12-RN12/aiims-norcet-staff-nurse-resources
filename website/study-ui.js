@@ -3,7 +3,7 @@ const metricLabels={mcq:'Topic MCQs',mock:'Mock question slots',pyq:'PYQ / repor
 let metricsPromise,resourceCatalog={};
 function getResourceMeta(p,heading='',slots=null){return heading?resourceMeta(p,heading,slots??resourceCatalog[p]?.slots??null):(resourceCatalog[p]||resourceMeta(p,'',slots))}
 function knownTitle(p){return getResourceMeta(p).title}
-function linkTitle(target,href,original){try{if(new URL(href).hash)return cleanTitle(original)||knownTitle(target)}catch{}return knownTitle(target)}
+function linkTitle(target,href,original){try{const hash=new URL(href).hash;if(hash){const label=cleanTitle(original),section=resourceCatalog[target]?.anchors?.[decodeURIComponent(hash.slice(1))];return /^(?:open|read|view|click|go to)(?:\s|$)|^(?:theory|MCQs?|notes|revision|details|source|here)$/i.test(label)?cleanTitle(section)||knownTitle(target):label||knownTitle(target)}}catch{}return knownTitle(target)}
 function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Inventory is unavailable');return r.json()}).then(data=>{resourceCatalog=data.resources||{};return data}).catch(()=>null);return metricsPromise}
 function displayTitle(s){return String(s||'').replace(/[*_\x60]/g,'').trim()}
 function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}

@@ -40,7 +40,7 @@ for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){
  const records=[],totals=blank(),banks=blank();let evidenceFiles=0;const evidencePaths=[];
  for(const f of walk(path.join(chapterRoot,ent.name))){
   const rel=path.relative(root,f).split(path.sep).join('/'),md=fs.readFileSync(f,'utf8'),kind=category(rel),slots=countSlots(md);
-  const sourceHeading=md.match(/^#\s+(.+)$/m)?.[1]||'';const meta=resourceMeta(rel,sourceHeading,slots);resources[rel]=meta;assert(meta.title&&meta.type&&meta.subtitle,'Missing display metadata: '+rel);
+  const sourceHeading=md.match(/^#\s+(.+)$/m)?.[1]||'';const meta=resourceMeta(rel,sourceHeading,slots);const anchors={};const used=new Map();let named='';for(const line of md.split(/\r?\n/)){const explicit=line.match(/<a\s+[^>]*name=["']([^"']+)["']/i);if(explicit)named=explicit[1];const h=line.match(/^#{1,6}\s+(.+)$/);if(!h)continue;if(/^Q(?:uestion)?\s*\d+[.):]/i.test(h[1])){named='';continue}const label=h[1].trim().replace(/[*_\x60]/g,'');const slug=label.toLowerCase().replace(/[^\p{L}\p{N}_ -]/gu,'').replace(/ /g,'-');const n=used.get(slug)||0;used.set(slug,n+1);if(slug)anchors[slug+(n?'-'+n:'')]=label;if(named){anchors[named]=label;named=''}}meta.anchors=anchors;resources[rel]=meta;assert(meta.title&&meta.type&&meta.subtitle,'Missing display metadata: '+rel);
   if(!slots){if(kind==='pyq'){evidenceFiles++;evidencePaths.push(rel)}continue}
   const scoreable=parseBank(md).items.length;
   const heading=md.match(/^#\s+(.+)$/m)?.[1]||path.basename(f,'.md').replace(/-/g,' ');

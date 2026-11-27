@@ -183,7 +183,7 @@ try:
         flow = "Chapters/Nursing-Foundations/Concepts/01A-Nursing-Process-and-Care-Planning.md"
         page.goto(base + "?" + urlencode({"doc": flow}))
         ready(page)
-        expect(page.locator("#breadcrumbs [aria-current=page]")).to_contain_text("Nursing Process")
+        expect(page.locator("#breadcrumbs [aria-current=page]")).to_contain_text("Nursing process")
         expect(page.locator("#sections [aria-current=page]")).to_have_text("Theory")
         expect(page.locator("#breadcrumbs a").first).to_have_text("Library")
         expect(page.locator("#reading-chapter")).to_contain_text("Nursing Foundations")

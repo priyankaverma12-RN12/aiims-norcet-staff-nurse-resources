@@ -29,6 +29,6 @@ function resourceMeta(p,sourceHeading='',slots=null){
  // Preserve day labels, question ranges and evidence distinctions; no invented topic names.
  title=titleCaseFirst(title);
  const subtitle=[type,Number.isInteger(slots)&&slots>0?slots.toLocaleString('en-IN')+' question slots':''].filter(Boolean).join(' · ');
- return {title,chapter,type,subtitle,sourceTitle:cleanTitle(sourceHeading),draft};
+ return {title,chapter,type,subtitle,sourceTitle:cleanTitle(sourceHeading),draft,slots:Number.isInteger(slots)?slots:null};
 }
 if(typeof module!=='undefined')module.exports={cleanTitle,resourceMeta};

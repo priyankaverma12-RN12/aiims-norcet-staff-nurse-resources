@@ -54,10 +54,10 @@ function mountQuiz(md,path,content,render,route){
  const timeLabel=el('label','Timer minutes ');timeLabel.append(minutes);
  const neg=el('input');neg.type='checkbox';neg.checked=/[−–-]\s*1\s*\/\s*3/.test(md);const negLabel=el('label',' Deduct ⅓ for incorrect answers');negLabel.prepend(neg);config.append(timeLabel,negLabel);root.append(config);
  const actions=el('div',undefined,'practice-start-actions');root.append(actions);
- const state=el('p');state.setAttribute('role','status');state.setAttribute('aria-live','polite');root.append(state);
+ const state=el('p');state.setAttribute('role','status');state.setAttribute('aria-live','off');root.append(state);
  const body=el('div',undefined,'practice-body');root.append(body);
  const controls=el('div',undefined,'quiz-controls');root.append(controls);
- let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0,reviewFilter='all',reviewPage=0,submitReason='submitted',palette=null,progress=null;
+ let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0,reviewFilter='all',reviewPage=0,submitReason='submitted',palette=null,progress=null,milestone=null,highestMilestone=0;
  const attemptKey='nursing-attempt-v1:'+path;
  const signature=bankSignature(bank.items);
  function persist(){try{localStorage.setItem(attemptKey,JSON.stringify({signature,selected,finished,deadline,penalty,at,submitReason}));return true}catch{return false}}
@@ -74,7 +74,7 @@ function mountQuiz(md,path,content,render,route){
   stopTimer();for(const dialog of root.querySelectorAll('dialog[open]'))dialog.close();started=true;finished=true;submitReason=reason;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;body.replaceChildren();controls.replaceChildren();setView('results');
   const s=resultMetrics(bank.items,selected,penalty);const saved=persist();
   state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;
-  state.classList.add('result-announcement');
+  state.classList.add('result-announcement');state.setAttribute('aria-live','polite');
   const hero=el('div',undefined,'result-hero'),copy=el('div',undefined,'result-copy'),check=el('span','✓','result-check');check.setAttribute('aria-hidden','true');copy.append(check,el('p','ATTEMPT COMPLETE','result-kicker'));
   const greeting=s.percentage>=80?'Excellent work!':s.percentage>=50?'Well done!':'Keep going — every attempt counts.';
   const h=el('h2',greeting,'result-heading');if(celebrate&&s.percentage>=50)hero.classList.add('result-celebration');copy.append(h,el('p',reason==='expired'?'Time is up. Your answers have been submitted.':'You have completed your practice session. Review your answers and build on what you learned.'));
@@ -108,19 +108,19 @@ function mountQuiz(md,path,content,render,route){
  }
  function finish(reason='submitted'){if(!started||finished)return;showResults(reason,true,true)}
  function tick(){if(!started||finished)return;const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));const text='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(state.textContent!==text)state.textContent=text;if(!remain)finish('expired')}
- function syncProgress(){if(progress)progress.value=Object.keys(selected).length;if(palette){for(const b of palette.querySelectorAll('button[data-index]')){const i=Number(b.dataset.index),yes=!!selected[bank.items[i].id];b.classList.toggle('answered',yes);b.setAttribute('aria-label','Question '+(i+1)+(yes?', answered':', unanswered'));if(i===at)b.setAttribute('aria-current','step');else b.removeAttribute('aria-current')}}}
+ function syncProgress(announce=false){const answered=Object.keys(selected).length;if(progress)progress.value=answered;if(announce&&milestone){const reached=Math.floor(4*answered/bank.items.length);if(reached>highestMilestone){highestMilestone=reached;milestone.textContent=reached>=4?'All questions answered. Review your selections before submitting.':reached>=2?'Good progress — '+answered+' questions answered.':'Nice start — keep going.';milestone.hidden=false;milestone.classList.remove('celebrate-once');void milestone.offsetWidth;milestone.classList.add('celebrate-once')}}if(palette){for(const b of palette.querySelectorAll('button[data-index]')){const i=Number(b.dataset.index),yes=!!selected[bank.items[i].id];b.classList.toggle('answered',yes);b.setAttribute('aria-label','Question '+(i+1)+(yes?', answered':', unanswered'));if(i===at)b.setAttribute('aria-current','step');else b.removeAttribute('aria-current')}}}
  function confirmSubmit(){const answered=Object.keys(selected).length,skipped=bank.items.length-answered;
   if(typeof HTMLDialogElement==='undefined'||typeof HTMLDialogElement.prototype.showModal!=='function'){if(confirm('Submit '+answered+' answered and '+skipped+' unanswered questions?'))finish();return}
   const d=el('dialog',undefined,'submit-dialog'),h=el('h2','Ready to submit?');h.id='submit-dialog-title';d.setAttribute('aria-labelledby',h.id);d.append(h,el('p','You have answered '+answered+' of '+bank.items.length+' questions. '+skipped+' will remain unanswered. You can review the correct answers and explanations after submission.'));
   const row=el('div',undefined,'result-actions');row.append(btn('Keep practising',()=>d.close()),btn('Submit and see results',()=>{d.close();finish()},'primary-action'));d.append(row);root.append(d);d.addEventListener('close',()=>d.remove(),{once:true});d.showModal()
  }
  function drawPractice(focus=false){
-  body.replaceChildren();controls.replaceChildren();state.classList.remove('result-announcement');if(!started||finished)return;persist();const q=bank.items[at];const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(at+1)+' / '+bank.items.length);meta.append(h,markButton(q));body.append(meta);
-  progress=el('progress',undefined,'quiz-progress');progress.max=bank.items.length;progress.setAttribute('aria-label','Questions answered');body.append(progress);
+  state.setAttribute('aria-live','off');body.replaceChildren();controls.replaceChildren();state.classList.remove('result-announcement');if(!started||finished)return;persist();const q=bank.items[at];const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(at+1)+' / '+bank.items.length);meta.append(h,markButton(q));body.append(meta);
+  progress=el('progress',undefined,'quiz-progress');progress.max=bank.items.length;progress.setAttribute('aria-label','Questions answered');body.append(progress);milestone=el('p',undefined,'practice-milestone');milestone.setAttribute('aria-live','polite');milestone.hidden=true;body.append(milestone);
   const questionMap=el('details',undefined,'question-map');questionMap.append(el('summary','Question navigator'));palette=el('div',undefined,'question-palette');for(let i=0;i<bank.items.length;i++){const b=btn(String(i+1),()=>{at=i;drawPractice(true)});b.dataset.index=String(i);palette.append(b)}questionMap.append(palette);body.append(questionMap);syncProgress();
   const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
   const field=el('fieldset');field.append(el('legend','Select one answer'));
-  for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.onchange=()=>{selected[q.id]=letter;syncProgress();persist();tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);field.append(label)}body.append(field);
+  for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.onchange=()=>{selected[q.id]=letter;syncProgress(true);persist();tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);field.append(label)}body.append(field);
   const prev=btn('← Previous',()=>{at--;drawPractice(true)});prev.disabled=at===0;const next=btn('Next →',()=>{at++;drawPractice(true)},'primary-action');next.disabled=at===bank.items.length-1;const jump=el('select');jump.setAttribute('aria-label','Jump to question');bank.items.forEach((x,i)=>{const op=el('option',String(i+1)+(selected[x.id]?' ✓':''));op.value=String(i);op.selected=i===at;jump.append(op)});jump.onchange=()=>{at=Number(jump.value);drawPractice(true)};controls.append(prev,jump,next,btn('Clear answer',()=>{delete selected[q.id];drawPractice();tick()}),btn('Submit test',confirmSubmit,'primary-action'));
   controls.append(btn('Save & exit',()=>{persist();showSetup();focusHeading(intro.querySelector('h2'))}));if(focus)focusHeading(h)
  }
@@ -128,7 +128,7 @@ function mountQuiz(md,path,content,render,route){
   stopTimer();started=true;finished=false;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;setView('practice');
   if(saved){({selected,finished,deadline,penalty,at}=saved);submitReason=saved.submitReason||'submitted';if(finished){showResults(submitReason);return}}
   else{selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+Number(minutes.value)*60000;submitReason='submitted'}
-  drawPractice(true);tick();if(!finished)timer=setInterval(tick,250)
+  highestMilestone=Math.floor(4*Object.keys(selected).length/bank.items.length);drawPractice(true);tick();if(!finished)timer=setInterval(tick,250)
  }
 
  // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
