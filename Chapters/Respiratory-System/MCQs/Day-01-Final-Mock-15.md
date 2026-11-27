@@ -8,7 +8,7 @@
 
 **15 questions · Har sahi answer = 1 mark.** Pehle khud solve karo, phir explanation kholo. Ye Day 1 ka practice mock hai.
 
-[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+[🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 44 practice slots](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
 ![Right aur left lung lobes diagram](../Assets/lung-lobes-comparison.svg)
 
@@ -22,13 +22,21 @@
 - C. Trachea → larynx → pharynx → bronchi
 - D. Bronchi → larynx → trachea → pharynx
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**A.** Pharynx → Larynx → Trachea → Bronchi. Hawa isi sequence se neeche jaati hai.
+**Correct answer: A. Pharynx → larynx → trachea → bronchi**
 
-**Baaki options kyun nahi?** Pharynx larynx se pehle aata hai, fir windpipe **trachea**, fir bronchi. Options jisme larynx pharynx se pehle ya bronchi trachea se pehle hain, wo wrong order hain. Exam mein sequence ko arrow banakar socho.
+**Kyun sahi hai?** Nose se air pharynx, phir larynx, trachea aur main bronchi tak jaati hai. Is sequence ko upper airway se lower airway ki taraf follow karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Pharynx larynx se pehle aur trachea bronchi se pehle hoti hai.
+- **C.** Trachea larynx ke baad aati hai, pehle nahi.
+- **D.** Bronchi trachea ke branches hain. Normal inward airflow bronchi se pharynx ki taraf start nahi hoti.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system)
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -40,13 +48,23 @@
 - C. Warm, filter and humidify air
 - D. Carry pulmonary venous blood
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**C.** Nose incoming air ko **warm, filter aur humidify** karta hai.
+**Correct answer: C. Warm, filter and humidify air**
 
-**Baaki options kyun nahi?** Nose ka main kaam air ko warm, filter aur humidify karna hai; gas exchange **alveoli**, surfactant **Type II cells**, pulmonary venous blood **vessels** se related hai. Anatomical location ke hisaab se option eliminate karo.
+**Kyun sahi hai?** Nasal passages incoming air ko warm, filter aur humidify karti hain. Mucus aur nasal structures particles trap karne mein help karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Main oxygen exchange alveolar-capillary membrane par hota hai.
+- **B.** Pulmonary surfactant Type II alveolar cells banate hain.
+- **D.** Pulmonary venous blood vessels mein flow karta hai, nasal air passage mein nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system)
+
+**Revision mapping:** Day 1 bank Q5. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -58,13 +76,23 @@
 - C. Both 3
 - D. Both 2
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**B.** **Right 3 lobes, Left 2 lobes**. Ye fact pakka yaad rakho.
+**Correct answer: B. Right 3; left 2**
 
-**Baaki options kyun nahi?** Right lung mein superior, middle, inferior = **3 lobes**; left mein superior, inferior = **2 lobes**, cardiac notch ke karan. Dono lungs equal lobe count nahi rakhte. Right 3, Left 2 ek-line trick hai.
+**Kyun sahi hai?** Healthy adult right lung ke superior, middle aur inferior lobes hote hain. Left lung ke superior aur inferior lobes hote hain. Left side mein cardiac notch aur heart ke liye space hoti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Right aur left ka count ulta diya hai.
+- **C.** Left lung mein normally teen lobes nahi hote.
+- **D.** Right lung mein normally do nahi, teen lobes hote hain.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
+
+**Revision mapping:** Day 1 bank Q6–7. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -76,13 +104,23 @@
 - C. Trachea
 - D. Respiratory bronchiole
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**D.** **Respiratory bronchiole** se respiratory zone start hoti hai; terminal bronchiole conducting ka last part hai.
+**Correct answer: D. Respiratory bronchiole**
 
-**Baaki options kyun nahi?** Terminal bronchiole conducting zone ka last part hai. Primary bronchus aur trachea bhi conducting airways hain; **respiratory bronchiole** se alveolar gas exchange region start hota hai.
+**Kyun sahi hai?** Terminal bronchiole conducting zone ka last segment hai. Respiratory bronchiole respiratory zone ka first part hai, jahan walls mein alveoli ki wajah se gas exchange possible hota hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Primary bronchus conducting airway hai.
+- **B.** Terminal bronchiole conducting zone ke end par hai.
+- **C.** Trachea conducting airway hai, gas exchange zone ka first part nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system)
+
+**Revision mapping:** Day 1 bank Q3–4. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -94,13 +132,25 @@
 - C. Type II
 - D. Ciliated epithelium
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**A.** **Alveolar macrophages** phagocytosis ke through germs aur dust remove karte hain.
+**Correct answer: A. Alveolar macrophage**
 
-**Baaki options kyun nahi?** Macrophages immune cleaning cells hain: dust/germs ko engulf karte hain. Type I gas exchange, Type II surfactant. Ciliated epithelium airways mein mucus clearance mein help karta hai, alveolar phagocytosis ka main cell nahi.
+**Kyun sahi hai?** Alveolar macrophages inhaled dust aur microbes ko engulf karke lung defense mein help karte hain. Is process ko phagocytosis kehte hain.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Type I pneumocytes thin gas-exchange surface provide karte hain.
+- **C.** Type II pneumocytes surfactant produce karte hain.
+- **D.** Ciliated epithelium conducting airway mein mucus transport mein help karti hai, alveolar phagocytosis ka primary cell nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system)
+
+**Revision mapping:** Day 1 bank Q13. Existing revision item, not additional unique authorship.
+
+**Related historical evidence:** HPSSC Staff Nurse Post Code 933, Series A, 10 April 2022, Q3 tests alveolar macrophages. The third-party [paper scan](https://www.snowstudy.in/wp-content/uploads/2022/09/Staff-Nurse-933-Post-Code-Question-Paper.pdf#page=3) extracted text supports the topic, not an exact match to this practice item. Official answer key unverified.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -112,13 +162,23 @@
 - C. More prone to collapse
 - D. Produce more oxygen
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**C.** Surfactant kam hone par **surface tension badhti** hai aur alveoli collapse ka risk badhta hai.
+**Correct answer: C. More prone to collapse**
 
-**Baaki options kyun nahi?** Surfactant Type II cells banate hain aur tension ko normally reduce karta hai. Jab surfactant kam ho, surface tension **badhti** hai, alveoli collapse ka risk badhta hai. Expand easily ya extra oxygen production answers galat hain.
+**Kyun sahi hai?** Surfactant alveolar fluid ki surface tension kam karta hai. Jab surfactant insufficient ho, alveoli ko inflate rakhna harder ho sakta hai aur collapse tendency badhti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Deficiency se lung expansion easy nahi hoti.
+- **B.** Surfactant kam hone se surface tension badhne ki tendency hoti hai.
+- **D.** Alveoli oxygen generate nahi karti, gas exchange karti hain.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q14. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -130,13 +190,23 @@
 - C. Pericardium
 - D. Mucosa
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**B.** **Visceral pleura** directly lung se attached hoti hai.
+**Correct answer: B. Visceral pleura**
 
-**Baaki options kyun nahi?** **Visceral** pleura directly lung surface cover karti hai; **parietal** chest wall lining hai. Pericardium heart ke around membrane hai aur mucosa lung surface ki pleural covering nahi.
+**Kyun sahi hai?** Visceral pleura lung ki surface se attached hoti hai. Parietal pleura thoracic cavity ki inner wall aur related surfaces line karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Parietal pleura chest wall side par hoti hai.
+- **C.** Pericardium heart ki covering hai.
+- **D.** Mucosa internal passages ki lining hai, lung surface ki pleural covering nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
+
+**Revision mapping:** Day 1 bank Q16. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -148,13 +218,23 @@
 - C. Diaphragm relaxation and falling alveolar pressure
 - D. Diaphragm contraction and increased chest volume
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**D.** Diaphragm **contract karke neeche** jaata hai aur thoracic volume **increase** hota hai.
+**Correct answer: D. Diaphragm contraction and increased chest volume**
 
-**Baaki options kyun nahi?** Quiet inspiration mein diaphragm contract karke neeche jaata hai, thoracic volume badhta hai, alveolar pressure atmosphere se briefly neeche hota hai, air enter karti hai. Relax/ascend expiration se associated hai.
+**Kyun sahi hai?** Quiet inspiration mein diaphragm contract karke flatten aur descend hota hai. Thoracic volume badhta hai aur airflow ke dauran alveolar pressure atmospheric pressure se kam hota hai. Air lungs mein enter karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Diaphragm relaxation usual quiet expiration se related hai.
+- **B.** Diaphragm contraction se thoracic volume increase hota hai, decrease nahi.
+- **C.** Quiet inspiration ka primary mechanism relaxation nahi, contraction hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q18. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -166,13 +246,23 @@
 - C. Right ventricle
 - D. Left ventricle
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**A.** Pulmonary veins lungs se **left atrium** mein oxygenated blood return karti hain.
+**Correct answer: A. Left atrium**
 
-**Baaki options kyun nahi?** Pulmonary veins **lungs → left atrium** oxygenated blood laati hain. Right heart se lungs ki taraf deoxygenated blood pulmonary arteries le jaati hain. Left ventricle blood **left atrium ke baad** leta hai.
+**Kyun sahi hai?** Pulmonary veins oxygenated blood lungs se left atrium tak return karti hain. Phir blood mitral valve cross karke left ventricle mein jaata hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Right atrium normally systemic venous blood receive karta hai.
+- **C.** Right ventricle blood pulmonary arteries ke through lungs bhejta hai.
+- **D.** Left ventricle blood left atrium ke through receive karta hai, pulmonary veins directly nahi.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
+
+**Revision mapping:** Day 1 bank Q9. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -184,13 +274,23 @@
 - C. 2650 mL
 - D. 3750 mL
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**C.** IC = TLC − FRC = 5400 − 2200 = 3200. IRV = IC − TV = 3200 − 550 = **2650 mL**.
+**Correct answer: C. 2650 mL**
 
-**Baaki options kyun nahi?** Formula **TLC = IC + FRC**, toh IC = 5400−2200 = 3200. Fir **IC = TV + IRV**, toh IRV = 3200−550 = **2650 mL**. Common trap: pehle FRC subtract karna bhool jaate hain.
+**Kyun sahi hai?** TLC = IC + FRC. IC = 5400 − 2200 = 3200 mL. IC = TV + IRV, isliye IRV = 3200 − 550 = 2650 mL. Pehle capacity find karo, phir known volume subtract karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 2100 mL given formulas ka correct result nahi hai.
+- **B.** 3200 mL IC hai, IRV alone nahi.
+- **D.** 3750 mL IC mein TV add karne se aata hai, jabki subtract karna hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q23/Q25 combined calculation, not identical. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -202,13 +302,23 @@
 - C. 20/min
 - D. 22/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**B.** 8.64 L = 8640 mL. RR = MV ÷ TV = 8640 ÷ 480 = **18/min**.
+**Correct answer: B. 18/min**
 
-**Baaki options kyun nahi?** MV = RR × TV, isliye RR = MV/TV. MV 8.64 L/min ko **8640 mL/min** banao; 8640/480 = **18/min**. L aur mL mix karke bina conversion ke answer mat dena.
+**Kyun sahi hai?** Minute ventilation = RR × TV. 8.64 L/min = 8640 mL/min. RR = 8640 ÷ 480 = 18 breaths/min.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 16 × 480 = 7680 mL/min, given 8640 nahi.
+- **C.** 20 × 480 = 9600 mL/min.
+- **D.** 22 × 480 = 10560 mL/min.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q27 same calculation method. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -220,13 +330,23 @@
 - C. 30%
 - D. 25%
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**D.** Old MV 7200; new MV 9000 mL/min. (9000−7200)/7200 × 100 = **25%**.
+**Correct answer: D. 25%**
 
-**Baaki options kyun nahi?** Old MV 18×400=7200, new MV 20×450=9000 mL/min. Increase = 1800; percentage = **1800/7200×100 =25%**. Old value denominator hai—new se divide karne par wrong %. 
+**Kyun sahi hai?** Old MV = 18 × 400 = 7200 mL/min. New MV = 20 × 450 = 9000 mL/min. Increase = 1800 mL/min. Percentage increase = 1800 ÷ 7200 × 100 = 25%. Old value denominator use karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 12.5% given before-after volumes se match nahi karta.
+- **B.** 20% new value ko denominator lene se aata hai.
+- **C.** 30% correct relative increase nahi hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q38 same ventilation values, additional RR/TV calculations. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -238,13 +358,23 @@
 - C. RR 24/min AND PaCO₂ 50
 - D. pH 7.48 AND RR 9/min
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**A.** **RR 14/min aur PaCO₂ 43 mmHg** dono commonly normal textbook range mein hain.
+**Correct answer: A. RR 14/min AND PaCO₂ 43 mmHg**
 
-**Baaki options kyun nahi?** RR 14/min = 12–20 ke beech aur PaCO₂ 43 mmHg = 35–45 mein. Other options mein pH 7.48, RR 24/9 ya PaCO₂ 50 aise values hain jo usual adult reference se bahar hain.
+**Kyun sahi hai?** RR 14/min common resting adult 12–20 range mein hai. PaCO2 43 mmHg usual 35–45 teaching interval mein hai. Dono measurements acceptable hain, clinical context aur lab reference intervals bhi matter karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **B.** pH 7.48 usual 7.35–7.45 se high hai. SpO2 94% bhi typical healthy sea-level teaching interval ke lower side par hai.
+- **C.** RR 24/min aur PaCO2 50 mmHg usual reference intervals se high hain.
+- **D.** pH 7.48 elevated aur RR 9/min usual resting range se low hai.
+
+[Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK593208/) · [Clinical reference 2](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/)
+
+**Revision mapping:** Day 1 bank Q31–34 combined reference-range application. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -256,13 +386,23 @@
 - C. Only if PaCO₂ is high
 - D. Only during forced inspiration
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**A.** **Haan, true**. Usual reference ~**80–100 mmHg** hai; altitude aur patient condition matter karte hain.
+**Correct answer: A. True**
 
-**Baaki options kyun nahi?** Common sea-level teaching range PaO₂ approx 80–100 mmHg hai; 89 iske andar hai. Lekin actual normal range age, laboratory aur altitude se vary kar sakti hai. PaO₂ ko SpO₂ (%) se confuse mat karna.
+**Kyun sahi hai?** PaO2 89 mmHg common nursing teaching interval 80–100 mmHg mein aata hai. MedlinePlus 75–100 mmHg bhi list karta hai. Age, altitude, inspired oxygen aur lab interval ke hisaab se interpretation vary karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** 89 mmHg ko universally abnormal kehna correct nahi hai.
+- **C.** Is value ko normal interval mein hone ke liye PaCO2 high hona required nahi hai.
+- **D.** Forced inspiration bhi required condition nahi hai.
+
+[Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK593208/) · [Clinical reference 2](https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/)
+
+**Audit note:** Legacy true/false-style item retained for attempt history. Use stronger four-option clinical questions for future mocks.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -274,13 +414,23 @@
 - C. VC
 - D. RV
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**D.** **RV (Residual Volume)**. Normal quiet expiration ke baad bachi air **FRC** hoti hai.
+**Correct answer: D. RV**
 
-**Baaki options kyun nahi?** RV = air jo **maximum forced expiration** ke baad lungs mein bachti hai. FRC **normal quiet expiration** ke baad air (ERV + RV) hai. IC aur VC combinations of movable volumes hain, maximum exhalation ke baad remaining RV nahi.
+**Kyun sahi hai?** Maximum forced expiration ke baad lungs mein jo air bachi rehti hai usse residual volume kehte hain. Normal quiet expiration ke baad FRC = ERV + RV remains.
+
+**Baaki options kyun galat hain?**
+
+- **A.** FRC normal expiration ke end par remaining air hai, maximal forced expiration ke end par nahi.
+- **B.** IC normal expiration ke baad maximum inspiration tak inhale ki ja sakne wali air hai.
+- **C.** VC maximal inspiration ke baad maximum voluntarily exhaled air hai.
+
+[Clinical reference 1](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
+
+**Revision mapping:** Day 1 bank Q21. Existing revision item, not additional unique authorship.
 
 [📖 Day 1 concept details](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Question examples](../Previous-Year-Questions/README.md)
 
@@ -291,4 +441,11 @@
 
 ---
 
-**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 40 MCQs](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+**🔗 Aage navigate karo:** [🏠 Chapter](../README.md) · [📖 Day 1 Concepts](../Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [📝 44 practice slots](Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
+
+
+## Post-mock video and evidence review
+
+- [Aarogyam Infinity NORCET respiratory MCQ Part 27](https://www.youtube.com/watch?v=lAy0Cb9o5ss) — indexed description supports respiratory muscles and lung volumes (Q8, Q10–12, Q15 topic practice). Playback and exact timestamps not verified, direct page retrieval failed.
+- [HPSSC Post Code 933 paper discussion](https://www.youtube.com/watch?v=hOx-iFU-JcU) — title identifies the 10 April 2022 examination, useful historical research lead for Q5. Transcript and specific question coverage not verified, not an official answer key.
+- This is a legacy revision mock. Original scoring and question IDs retained. Do not count reused concepts or calculations as automatically new unique questions. Dedicated video mapping for ABG reference intervals and full historical verification pending.
