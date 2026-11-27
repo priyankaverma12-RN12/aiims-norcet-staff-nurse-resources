@@ -207,7 +207,7 @@ D. Change the dose independently
 
 ### Q8. A patient develops sudden stridor and circulatory compromise shortly after a new medication, without a visible rash. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice · **[🟣 RRB Nursing Superintendent 12 March 2026 Shift 2 — related tested concept only](https://testbook.com/question-answer/which-nursing-intervention-is-most-appropriate-whe--69df45cb479c93fb94e236c1)** · **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only, memory-based report](https://testbook.com/question-answer/anaphylactic-shock-is-treated-with-which-of-the-fo--61764e896cfb45d93d5714ba)**
 
 A. Ask the patient to stand and walk
 B. Wait for a rash to confirm the reaction
@@ -230,7 +230,7 @@ D. Treat as suspected anaphylaxis and activate emergency response, including pro
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#adverse-reactions) · [Clinical reference](https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment-anaphylactic-reactions)
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — anaphylaxis, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=UD-vn2-tR8Y&t=2860s)** · Published question chapter 47:40, 19 May 2026. Topic-level match only, exact scenario and playback not verified.
 
 </details>
 
@@ -404,7 +404,7 @@ D. The same monitoring is required for every medication
 
 [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#therapeutic-monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK595006/)
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — therapeutic drug monitoring, Nursing Wallah by PW](https://www.youtube.com/watch?v=blBobDCyZWQ&t=5790s)** · Published question chapter 01:36:30, 1 April 2026, aminoglycoside TDM example. Related topic practice, exact narrow-window question and playback not verified.
 
 </details>
 
