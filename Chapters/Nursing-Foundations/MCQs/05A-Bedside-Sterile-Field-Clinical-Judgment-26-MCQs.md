@@ -104,7 +104,7 @@ D. Replace the contacted item
 
 ### Q5. A nurse places a sterile instrument on the drape hanging below the trolley's tabletop. Which judgment is correct?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 UPSC ESIC Nursing Officer — 7 July 2024, related tested concept**
 
 A. Replace it because the hanging portion is outside the sterile working plane
 B. It is sterile because the drape was initially sterile
@@ -122,6 +122,8 @@ D. Trolley height guarantees sterility
 - **D (Incorrect):** Height alone sterility establish nahi karti.
 
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#field-preparation-and-boundaries) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
+
+**Exam evidence:** [Retrieved ESIC report — operating-room sterile table boundary](https://testbook.com/question-answer/consider-the-following-statements-regarding-the-pr--668e5c23740a221bd11bef8a). Related tested principle only, not an exact question match or authenticated official key.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -504,7 +506,7 @@ D. Protect key parts and sites with hand hygiene, approved non-touch technique a
 
 ### Q21. Which statement best distinguishes medical asepsis from surgical asepsis in bedside care?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 MPESB Nursing Officer — 25 November 2022 Shift 2, related tested concept**
 
 A. Medical asepsis reduces microbial spread, while surgical asepsis maintains a sterile working field for indicated procedures
 B. Medical asepsis requires a sterile field for every routine activity
@@ -523,7 +525,11 @@ D. Both permit touching sterile key parts with bare hands
 
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#clean-versus-sterile-and-key-parts) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
+**Exam evidence:** [Retrieved MPESB report — medical versus surgical asepsis](https://testbook.com/question-answer/which-one-of-the-following-is-true-of-surgical-ase--677e31cec4ab74accceeaef8). Related tested concept only, not an exact question match or authenticated official key.
+
 **▶️ [YouTube MCQ practice — Sahu Sir, Medical vs Surgical Asepsis](https://www.youtube.com/watch?v=VzpNPFxvlBo)** — indexed topic description only, specific item unverified.
+
+**▶️ [YouTube MCQ practice — Bhushan Science - Nursing, medical vs surgical asepsis](https://www.youtube.com/watch?v=OvVeBRQ9t2E)** — indexed description explicitly lists MCQs comparing clean and sterile techniques. Topic-level only, exact question and playback pending.
 
 </details>
 
@@ -654,4 +660,4 @@ D. Test only the definition of asepsis
 
 ## ▶️ YouTube practice and evidence gaps
 
-Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6g), published sections 1:14 medical asepsis, 1:27 surgical asepsis, 3:33 preparation. [Lecturio sterile kit](https://www.youtube.com/watch?v=B35gtcgxQ9M), published sections 1:18 inspection, 2:20 opening, 6:30 border. Teaching is not question practice. Q18–21 have a description-level medical/surgical asepsis MCQ lead, Q1–17 and Q22–26 need dedicated question-solving verification. All 26 exact question matches and playback pending. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md).
+Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6g), published sections 1:14 medical asepsis, 1:27 surgical asepsis, 3:33 preparation. [Lecturio sterile kit](https://www.youtube.com/watch?v=B35gtcgxQ9M), published sections 1:18 inspection, 2:20 opening, 6:30 border. Teaching is not question practice. Q21 has an additional topic-level medical-versus-surgical asepsis MCQ resource with indexed description checked. Q18–20 retain the existing broad Sahu Sir lead, but specific key-part and field-selection MCQ coverage is unverified. Q1–20 and Q22–26 need specific dedicated question-solving verification. All 26 exact question matches and playback pending. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md).
