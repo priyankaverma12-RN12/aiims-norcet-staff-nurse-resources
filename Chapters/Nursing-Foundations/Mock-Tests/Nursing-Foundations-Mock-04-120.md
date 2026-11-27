@@ -219,9 +219,19 @@ Wrong-site surgery prevention mein preprocedure verification, site marking where
 
 **Correct: C. Vasoconstriction and reduced local metabolic activity**
 
-Cold generally small vessels constrict aur nerve conduction slow kar sakta hai. Isse swelling aur pain temporarily reduce ho sakte hain.
+Local controlled cold se blood vessels commonly narrow hoti hain. Is process ko vasoconstriction kehte hain. Tissue metabolic activity aur nerve conduction temporarily slow ho sakti hain, jisse pain aur swelling selected conditions mein kam ho sakte hain. Response exposure, tissue condition aur duration par depend karta hai. Excessive cold harmful hai.
 
-**Baaki options kyun sahi nahi hain?** Vasodilation context-specific later response ho sakti hai. Unlimited metabolic rise aur permanent numbness desired effects nahi hain.
+**Option-wise explanation:**
+- **A (Galat):** Permanent sensation loss desired therapeutic outcome nahi hai. Yeh tissue ya nerve injury indicate kar sakta hai.
+- **B (Galat):** Cold usually metabolism slow karti hai, unlimited increase expected nahi hai.
+- **C (Sahi):** Vasoconstriction aur reduced local metabolic activity controlled cooling ke common physiological effects hain.
+- **D (Galat):** Immediate sustained vasodilation universal cold response nahi hai. Prolonged exposure mein vascular response change ho sakta hai.
+
+**Exam clue:** Cold = vasoconstriction and slower local activity.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/medical-surgical-nursing/pages/7-4-nonpharmacological-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -729,9 +739,19 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 **Correct: A. Protect from injury, time the seizure and assess airway and breathing**
 
-Seizure mein involuntary movement injury cause kar sakti hai. Nurse nearby hazards remove karti hai aur airway-breathing assess karti hai. Prolonged seizure urgent help maangta hai.
+Convulsive seizure mein brain ki abnormal electrical activity ke karan involuntary movements ho sakti hain. Patient ke aas-paas hazards remove karo, head protect karo aur seizure ka time note karo. Breathing assess karo aur safe ho toh seizure ke baad side positioning consider karo. Patient ko restrain mat karo aur mouth mein object mat daalo. First seizure, 5 minutes se lamba seizure, repeated seizures without recovery ya breathing problem urgent emergency help maangte hain. In-hospital escalation protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Objects mouth mein daalne, restraint aur oral medicines aspiration ya injury cause kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Injury prevention, timing aur airway-breathing assessment seizure first aid ke central actions hain.
+- **B (Galat):** Active convulsions mein oral tablets aspiration ya choking ka risk create karti hain.
+- **C (Galat):** Limbs tightly restrain karne se muscle, joint aur soft-tissue injury ho sakti hai.
+- **D (Galat):** Spoon teeth ke beech force karne se dental injury, airway obstruction aur rescuer injury ho sakti hai.
+
+**Exam clue:** Protect, time, assess breathing. Nothing forced into mouth.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1318,9 +1338,19 @@ Neuropathy mein temperature sensation impaired ho sakti hai. Nurse approved devi
 
 **Correct: B. The electrical source has been safely isolated**
 
-Electrical source active ho toh rescuer bhi shock receive kar sakta hai. Scene safety aur power isolation ke baad emergency assessment start hoti hai.
+Electrical injury mein patient live source ke contact mein ho toh rescuer bhi current ke path ka part ban sakta hai. Pehle scene safety ensure karo aur source ko safely isolate karwao. High-voltage scene mein trained emergency personnel ke clearance ke bina approach mat karo. Scene safe hone ke baad responsiveness, breathing, circulation aur injuries assess karo. Collapse mein BLS aur emergency response as indicated shuru karo.
 
-**Baaki options kyun sahi nahi hain?** Wet contact, water aur live-source contact dangerous hain.
+**Option-wise explanation:**
+- **A (Galat):** Live electrical equipment par water pour karna conduction aur shock hazard badha sakta hai.
+- **B (Sahi):** Safe power isolation rescuer aur patient dono ko continued electrical exposure se protect karti hai.
+- **C (Galat):** Live contact ke dauran person ko touch ya lift karna rescuer ko bhi shock de sakta hai.
+- **D (Galat):** Wet bare hands se direct contact electrical shock ka serious risk hai.
+
+**Exam clue:** Electrical injury: scene safe before patient contact.
+
+**Clinical references:** [Clinical reference 1](https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps) · [Clinical reference 2](https://www.redcross.org/take-a-class/resources/learn-first-aid/burns)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1484,9 +1514,19 @@ Previous severe reaction future exposure ke liye important risk factor ho sakti 
 
 **Correct: B. Possible sleep-disordered breathing with increased respiratory depression risk**
 
-Witnessed apneas obstructive sleep apnea ya other breathing problem suggest kar sakti hain. Sedatives respiratory risk worsen kar sakti hain, isliye monitoring aur review needed hai.
+Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring aur pauses obstructive sleep apnea ya doosri sleep-disordered breathing ka clue ho sakte hain. Postoperative sedatives aur opioids airway tone ya breathing drive ko affect kar sakte hain. Nurse breathing, responsiveness, oxygenation aur appropriate ventilation monitoring assess karti hai aur prompt clinical review leti hai. Diagnosis sirf snoring se confirm nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Snoring alone airway safety prove nahi karta. Additional sedation unsafe ho sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Witnessed pauses ko routine harmless sleep assume karna deterioration miss kar sakta hai.
+- **B (Sahi):** Observed pauses aur sedating medicines respiratory risk ko justify karte hain. Assessment aur monitoring appropriate hain.
+- **C (Galat):** Snoring narrowed airway ka sign bhi ho sakti hai. Complete patency prove nahi karti.
+- **D (Galat):** Additional sedative bina respiratory review risk badha sakti hai.
+
+**Exam clue:** Snoring + witnessed pauses + sedatives = assess respiratory risk.
+
+**Clinical references:** [Clinical reference 1](https://www.apsf.org/article/using-the-2018-guidelines-from-the-joint-commission-to-kickstart-your-hospitals-program-to-reduce-opioid-induced-ventilatory-impairment/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2690,9 +2730,19 @@ Meter readings technique, perfusion aur strip issues se affect ho sakti hain. Sy
 
 **Correct: A. Support the injured limb in its found position and avoid unnecessary movement**
 
-Support aur immobilization movement-related pain aur further injury reduce kar sakte hain. Distal circulation-sensation check important hai.
+Fracture bone ke break ya crack ko kehte hain. Suspected fracture mein movement se pain, bleeding aur surrounding nerve-vessel injury worsen ho sakti hai. Limb ko found position mein support karo aur unnecessary movement avoid karo. Distal color, warmth, sensation aur circulation assess karo. Severe bleeding, absent distal circulation ya open fracture urgent professional care maangte hain. Forceful realignment routine first aid nahi hai.
 
-**Baaki options kyun sahi nahi hain?** Forceful realignment, massage aur weight testing tissue damage worsen kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Found position mein support movement-related harm ko reduce karta hai jab trained help ka wait ho.
+- **B (Galat):** Vigorous massage fracture site ko stabilize nahi karti aur bleeding/pain worsen kar sakti hai.
+- **C (Galat):** Force se limb straight karne se displaced bone nearby tissue injure kar sakti hai.
+- **D (Galat):** Weight-bearing test suspected fracture mein displacement ya further injury kar sakta hai.
+
+**Exam clue:** Support as found, check distal circulation, arrange assessment.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines) · [Clinical reference 2](https://www.redcross.org/take-a-class/resources/learn-first-aid/fractures)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2745,9 +2795,19 @@ Support aur immobilization movement-related pain aur further injury reduce kar s
 
 **Correct: A. Verify suitability, use protective measures and reassess skin and circulation**
 
-Poor circulation aur reduced sensation thermal injury risk badha sakte hain. Cold therapy patient-specific assessment aur time limits ke saath use hoti hai.
+Cold application tissue temperature kam karti hai aur local blood vessels narrow kar sakti hai. Poor peripheral circulation mein tissue ko already limited blood supply mil sakti hai. Reduced sensation ho toh patient excessive cold notice bhi nahi kar paata. Suitability aur contraindications verify karo, approved protective barrier aur duration follow karo aur skin/circulation reassess karo. Concern ho toh application stop karke review lo.
 
-**Baaki options kyun sahi nahi hain?** Direct prolonged ice aur unattended tight wrapping tissue damage kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Patient-specific suitability, protection aur ongoing assessment correct safety approach hai.
+- **B (Galat):** Tight wrapping circulation aur compromise kar sakti hai. Unobserved therapy unsafe hai.
+- **C (Galat):** Unlimited direct ice cold injury aur tissue damage ka risk badhati hai.
+- **D (Galat):** Reduced sensation injury detect karna mushkil banati hai. Yeh protection nahi hai.
+
+**Exam clue:** Cold therapy: assess perfusion and sensation first.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/medical-surgical-nursing/pages/7-4-nonpharmacological-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2766,9 +2826,19 @@ Poor circulation aur reduced sensation thermal injury risk badha sakte hain. Col
 
 **Correct: B. Provide approved lip and oral care while maintaining aspiration precautions**
 
-NPO mein swallowing restriction hoti hai, lekin suitable mouth care dryness reduce kar sakti hai. Nurse airway safety maintain karti hai.
+NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips aur mouth discomfort ho sakta hai. Approved oral hygiene aur lip care comfort maintain kar sakti hai bina NPO order violate kiye. Patient ki swallowing ability, consciousness, aspiration risk aur specific preprocedure instructions check karo. Suitable suction-assisted care trained staff kar sakta hai if indicated.
 
-**Baaki options kyun sahi nahi hain?** Unrestricted drinking unsafe ho sakti hai. No care dryness worsen karti hai. Irritant tissue harm kar sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** Unrestricted water NPO restriction violate kar sakta hai aur aspiration ya procedure safety risk la sakta hai.
+- **B (Sahi):** Approved oral and lip care with aspiration precautions comfort aur safety ko balance karti hai.
+- **C (Galat):** Oral care avoid karne se dryness, discomfort aur hygiene worsen ho sakte hain.
+- **D (Galat):** Unapproved irritating chemical mucosa damage kar sakta hai.
+
+**Exam clue:** NPO does not automatically mean no mouth care.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/25-3-the-nurses-role-in-hygiene)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3251,9 +3321,21 @@ Dysphagia mein swallowing coordination ya airway protection impaired ho sakti ha
 
 **Correct: D. Cool the burn with cool running water and avoid ice**
 
-Cool running water residual heat remove karne mein help karti hai. Large burns mein hypothermia avoid karna aur medical assessment important hai.
+Thermal burn heat ke karan skin injury hai. Small recent burn mein cool clean running water heat ko remove karne aur ongoing tissue damage limit karne mein help karti hai. Cooling ke dauran baaki body ko warm rakho. Loose jewelry ko swelling se pehle hatao agar safely possible ho. Large, deep, electrical, special-site ya inhalation-risk burn mein urgent clinical assessment chahiye.
 
-**Baaki options kyun sahi nahi hain?** Ice cold injury kar sakti hai. Toothpaste contamination aur blister breaking infection risk badha sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Toothpaste burn treatment nahi hai. Isse contamination aur assessment difficulty ho sakti hai.
+- **B (Galat):** Ice directly skin par lagane se cold injury ho sakti hai aur tissue damage badh sakta hai.
+- **C (Galat):** Blister skin ko protective covering provide kar sakta hai. Routine breaking se infection risk badh sakta hai.
+- **D (Sahi):** Cool running water immediate suitable cooling method hai. Direct ice avoid karo.
+
+**Exam clue:** Cool the burn, not the whole patient. Do not use ice or toothpaste.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines) · [Clinical reference 2](https://www.redcross.org/take-a-class/resources/learn-first-aid/burns)
+
+**Supplementary mixed teaching/practice lead:** [Mission Nursing Success — First Aid class with questions and answers](https://www.youtube.com/watch?v=LkOA-iGGxec). Indexed title and description mention burns and snakebite, specific question coverage and playback unverified. Not a dedicated verified mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
