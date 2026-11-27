@@ -354,3 +354,47 @@ File Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md. Before blob 3c8c
 Clinical evidence: directly retrieved GINA 2026 summary PDF https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf, page 8 visually checked by screenshot. Adult bronchodilator response criterion ≥12% AND ≥200 mL in FEV1 or FVC relative to pre-bronchodilator baseline. Q10 240 mL/15%, Q11 150 mL/15%. Negative response does not exclude asthma. Distinguish this diagnostic criterion from other spirometry interpretation standards. GOLD 2026 report https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf text directly retrieved, screenshot failed cache miss. Post-BD FEV1/FVC below 0.7 in suitable clinical context and repeat on separate occasion if 0.60–0.80, Q23 0.636. Q24/25 spirometric grade 2/4, not overall severity or A/B/E group. Peak flow highest of three and zones checked against American Lung Association https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow and AAAAI description, individual plan/symptoms matter. Australian Asthma Handbook acute care https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9678134/ search extracts support severe attack escalation, CO2 trend, ipratropium and selective IV magnesium. NCBI phenotype https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/ and pathology https://pmc.ncbi.nlm.nih.gov/articles/PMC7265076/ support IgE/eosinophil/mucus casts/crystals, pulsus paradoxus. Pathology Q18–20 enrichment; item-level NORCET depth not established. Earlier INC broad nursing respiratory disease scope applies, no new official curriculum retrieval this batch. No new PYQ counts. HSSC Staff Nurse 2019 IgE lead and AIIMS Bathinda 29 Sep 2019 positioning lead indexed but direct source retrieval failed. Pending source only, not exact match. Existing Day 3 PYQ file still mostly link-only and answer-revealing table, needs self-contained source-checked adaptations in own scope. RMLIMS acute asthma drug search lead direct retrieval failed. 
 
 Video: 9/25 description/chapter-level links, 16/25 explicit pending. Aarogyam Part 34 https://www.youtube.com/watch?v=JzSbnEGoL5M published chapter labels at 20:49 silent chest, 1:44:50 peak-flow green zone (Q4,15; Q7–9). Part 25 https://www.youtube.com/watch?v=tOxTKjgTcTo description asthma drugs/status asthmaticus (Q12–14 general topic, exact subtopic not verified). NORCET countdown https://www.youtube.com/watch?v=tVX4Q7LwYu4 52:51 asthma trigger chapter (Q2 pediatric context). No video playback/transcript/exact item authenticated. Missing video Q1,3,5,6,10,11,16–25. Prior learning link preserved. No rendered UI inspection. Prevention: classify spirometric grade independently from clinical severity, never use CO2 normalization in deterioration as reassurance, use individual action plan, separate ICS-containing long-term strategy from acute rescue. Retain learner history and do not double-count related calculation methods. No new high-yield originals until coverage/semantic reconciliation. Next same file Q26–55; then Day 3 nursing MCQs and mocks, concepts and source-traced PYQs. Revisit all pending video and historical gaps before certification.
+
+
+## 2026-11-27 — Day 3 COPD, chronic bronchitis and emphysema Q26–55
+
+File Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md. Before blob a139fd534199cc209b0e4b02bd4d8c5a81802afc, after 5325b4405869cf47eda16a71876643255bcf725f, commit 84f60f38f7f5ab9778642b53ab5ec9fc9d7a58ab. All 30 existing English stems, four options and keys retained. Expanded 30 correct and 90 distractor rationales, 13 difficulty regrades, 11 related revision mappings (not necessarily duplicates). Readback confirmed all 55 headings and hidden blocks, Q26–55 each four options, 3 wrong-option explanations, one colored difficulty/priority row and explicit video status. No new authored questions. Cumulative 250 clinical/rationale reviews. All 55 disease bank items reviewed clinically, not full chapter/official exam certification.
+
+|Q|Key|Topic|Difficulty|Video status|
+|---|---|---|---|---|
+|26|C|Obstruction GOLD 1|Difficult|Video pending|
+|27|B|Smoking cessation|Easy|Video pending|
+|28|C|Rehabilitation|Medium|Video pending|
+|29|B|Exacerbation|Medium|Video pending|
+|30|A|NIV|Difficult|Video pending|
+|31|B|Antibiotics|Medium|Video pending|
+|32|D|LTOT|Difficult|Video pending|
+|33|D|Secondary erythrocytosis|Medium|Video pending|
+|34|B|Cor pulmonale|Medium|Topic/section-level lead|
+|35|D|Assessment vs grading|Medium|Video pending|
+|36|D|Chronic bronchitis definition|Easy|Topic/section-level lead|
+|37|A|Mucus hypersecretion|Easy|Topic/section-level lead|
+|38|A|Infection risk|Medium|Video pending|
+|39|D|Legacy blue bloater|Easy|Topic/section-level lead|
+|40|D|Hypoxia and edema|Medium|Topic/section-level lead|
+|41|D|Duration criterion|Medium|Video pending|
+|42|C|Bronchial airways|Easy|Topic/section-level lead|
+|43|B|Acute deterioration|Medium|Video pending|
+|44|B|Rhonchi|Medium|Video pending|
+|45|D|Bronchitis without obstruction|Medium|Video pending|
+|46|D|Emphysema structure|Easy|Topic/section-level lead|
+|47|D|Gas exchange area|Medium|Topic/section-level lead|
+|48|A|Elastic recoil|Medium|Topic/section-level lead|
+|49|C|Centriacinar|Medium|Video pending|
+|50|C|Alpha-1 antitrypsin|Medium|Video pending|
+|51|B|Paraseptal|Medium|Video pending|
+|52|D|Barrel chest|Easy|Video pending|
+|53|B|Pneumothorax|Medium|Video pending|
+|54|A|Traditional phenotype|Easy|Topic/section-level lead|
+|55|C|Overlap of phenotypes|Medium|Topic/section-level lead|
+
+Latest clinical source: GOLD 2027 pocket guide v1.1 dated 20 Nov 2026 https://goldcopd.org/wp-content/uploads/2026/11/GOLD-2027-POCKET-GUIDE-v1.1-20Nov2026_WMV.pdf directly retrieved as text. Figure 2.11 grading, 2.14 ABE assessment, 3.22 oxygen criteria verified in extracted text. Screenshot requests failed (cache miss). Q26: ratio 0.58 establishes obstruction in context, FEV1 82% is GOLD 1 in confirmed COPD. Q32 PaO2 53 meets severe resting hypoxemia threshold for LTOT evaluation, not autonomous prescription. Q30 respiratory acidosis warrants consideration of suitable prescribed bilevel NIV. Clinical sources: Merck COPD https://www.merckmanuals.com/professional/pulmonary-disorders/chronic-obstructive-pulmonary-disease-and-related-disorders/chronic-obstructive-pulmonary-disease-copd, StatPearls COPD https://www.ncbi.nlm.nih.gov/books/NBK559281/, radiologic-pathologic correlation https://pmc.ncbi.nlm.nih.gov/articles/PMC6635572/ and Fleischner glossary https://pmc.ncbi.nlm.nih.gov/articles/PMC10902601/ (search extracts). Q39/54 historical blue bloater/pink puffer mnemonic not modern treatment classification. Q49/51 advanced pathology enrichment. Broad nursing syllabus fit from prior INC review, precise exam-depth evidence pending. No new official curriculum retrieval. 
+
+Historical source leads: directly retrieved third-party reported HPSSSB Staff Nurse October 2020 breathing exercise for chronic bronchitis https://testbook.com/question-answer/howa-nurse-will-teach-breathing-exercise-for--61b9a1aec3c5dc3695351680 and RRB Staff Nurse 20 July 2019 Shift I COPD intervention/pursed-lip breathing https://testbook.com/question-answer/which-is-an-intervention-for-a-patient-with-chroni--619e1e567a81b38e9a40f07b. These relate to upcoming nursing-care bank, not current disease questions. Reconcile with existing PYQs before adding independently worded source-traced adaptations. Official keys/papers not independently authenticated. Safdarjung 28 Feb 2019 alveolar-wall destruction and RRB 21 July 2019 Shift II COPD entity classification indexed only, direct retrieval failed. Pending leads inside Q46/55, not confirmed tags. No new PYQ count.
+
+Videos: 11/30 topic/section-level leads, of which 6 broad disease-section leads (Q36,37,42,46,47,48) require specific concept verification; Q39,54,55 Aarogyam Part 25 description https://www.youtube.com/watch?v=tOxTKjgTcTo; Q34,40 NCLEX cor pulmonale published chapter 05:53 https://www.youtube.com/watch?v=4mm6WFuggSw; Q36,37,42,46,47,48 NORCET 10 Mains respiratory section 05:38 https://www.youtube.com/watch?v=A4bsIHewLOM direct retrieval failed. 19/30 dedicated video pending. No exact matches, playback or transcripts verified. Channel verification pending for NCLEX and countdown videos. Whole disease bank 20 topic/section leads, 35 explicit gaps. No rendered UI inspection. No additional high-yield originals before coverage/semantic reconciliation. Checked new Job 5 explanation claim as well as Jobs 1,2,4; scopes disjoint. Next Day-03-Drugs-Oxygen-Nursing-45.md Q1 onward, then Day 3 mock, concepts/PYQs, historical and video gaps. Prevention: distinguish disease grade from symptom burden, old phenotype mnemonics from modern classification, chronic bronchitis from spirometrically confirmed COPD, clinical associations from definitive diagnosis. Recheck GOLD 2027 update throughout COPD care and concept files.
