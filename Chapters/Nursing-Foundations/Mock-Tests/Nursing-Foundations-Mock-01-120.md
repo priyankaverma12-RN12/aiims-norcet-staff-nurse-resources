@@ -118,7 +118,7 @@ Intramuscular ya IM injection ka target skeletal muscle hota hai, jo skin aur su
 
 ### Q5. A healthcare worker finds an adult unresponsive with absent normal breathing and no definite pulse after a check lasting no more than 10 seconds. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Observe for five minutes before initiating CPR
 - **B.** Activate emergency response, start CPR and obtain an AED
@@ -143,13 +143,11 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q1](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q1](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q1-a-healthcare-worker-finds-an-adult-unresponsive-with-absent-normal-breathing-and-no-definite-pulse-after-a-check-lasting-no-more-than-10-seconds-what-should-happen-next)
 
 ### Q6. A patient develops fever, chills and flank pain soon after a red cell transfusion starts. What is the immediate action?
 
@@ -815,7 +813,7 @@ Leg clot lungs ki artery mein travel kar sakta hai. Sudden dyspnea aur chest pai
 
 ### Q28. A patient requires a controlled and relatively precise oxygen concentration. Which device is commonly selected?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 20 November 2021 Shift II — related reported concept** · **🟣 HPSSC Hamirpur Staff Nurse 5 August 2021 — related reported concept**
 
 - **A.** A disconnected reservoir mask
 - **B.** Nasal cannula with no attention to breathing pattern
@@ -838,15 +836,13 @@ FiO2 ka matlab inhaled gas mein oxygen ka fraction hai. Venturi mask oxygen jet 
 
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Related historical evidence:** [🟣 AIIMS NORCET 20 November 2021 Shift II — reported related concept](https://testbook.com/question-answer/venturi-mask-has-high-rate-of-o2-supply-to-the-pat--65f83910807d07269f49ed17). Retrieved third-party report asks about Venturi concentration range, not this exact stem. Official key unverified. Percentage range is FiO2, not flow.
+**Related historical evidence:** [🟣 AIIMS NORCET 20 November 2021 Shift II — reported related concept](https://testbook.com/question-answer/venturi-mask-has-high-rate-of-o2-supply-to-the-pat--65f83910807d07269f49ed17). Retrieved third-party report asks about Venturi concentration range, not this exact stem. Official key unverified. Percentage range is FiO2, not flow. [HPSSC Hamirpur Staff Nurse 5 August 2021 — publisher-reported question](https://testbook.com/question-answer/the-nurse-must-know-that-the-most-accurate-oxygen--697b2d68bfca0b8e8a516498). The retrieved third-party item concerns controlled oxygen delivery. Official paper and key not authenticated. Use the current clinical references for oxygen targets.
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — Venturi mask, Nursing Wallah by PW (32:48)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=1968s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q2](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q2](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q2-a-patient-requires-a-controlled-and-relatively-precise-oxygen-concentration-which-device-is-commonly-selected)
 
 ### Q29. A patient's arm is unsupported and held below heart level during BP measurement. Which effect is expected?
 
@@ -1208,7 +1204,7 @@ Severe pain, vomiting, distension aur stool na aana sirf simple constipation nah
 
 ### Q40. During adult CPR before placement of an advanced airway, what compression-to-ventilation ratio is generally used by trained healthcare providers?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 UPSC ESIC Nursing Officer 7 July 2024 — related reported concept**
 
 - **A.** 30:2
 - **B.** 15:2
@@ -1235,13 +1231,13 @@ Adult cardiac arrest mein trained rescuer advanced airway placement se pehle 30 
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/for-adults-the-ratio-of-chest-compression-to-venti--668e616f740a221bd11c9b7f). Retrieved third-party item concerns adult single-rescuer compression-to-ventilation ratio. Official paper and key not independently authenticated.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q4](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q4](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q4-during-adult-cpr-before-placement-of-an-advanced-airway-what-compression-to-ventilation-ratio-is-generally-used-by-trained-healthcare-providers)
 
 ## Block 3
 
@@ -1278,7 +1274,7 @@ Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein
 
 ### Q42. Why must a simple oxygen face mask be used at an appropriate minimum flow specified by the device?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Low flow always increases oxygen concentration safely
 - **B.** Adequate flow helps clear exhaled carbon dioxide from the mask
@@ -1301,13 +1297,11 @@ Jab patient exhale karta hai, carbon dioxide wali gas mask ke andar temporarily 
 
 **Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — simple face mask minimum flow, Nursing Wallah by PW (02:18)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=138s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q3](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q3](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q3-why-must-a-simple-oxygen-face-mask-be-used-at-an-appropriate-minimum-flow-specified-by-the-device)
 
 ### Q43. Which Korotkoff sound normally identifies systolic pressure during manual adult BP measurement?
 
@@ -1644,7 +1638,7 @@ Fall prevention environment ka purpose tripping aur unsafe transfer ke hazards r
 
 ### Q53. Which chest compression rate is recommended for adult CPR under the AHA 2025 guidance?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 100–120/min
 - **B.** 60–80/min
@@ -1669,13 +1663,11 @@ Chest compression mein sternum ko rhythmically press karke heart se blood flow s
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q2](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q2](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q2-which-chest-compression-rate-is-recommended-for-adult-cpr-under-the-aha-2025-guidance)
 
 ### Q54. A patient says, I am afraid of my surgery tomorrow. Which response best encourages therapeutic communication?
 
@@ -1920,7 +1912,7 @@ Deltoid upper arm ki muscle hai aur adequate muscle mass wale adults mein routin
 
 ### Q61. What is the recommended manual chest compression depth for an average adult during CPR?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPPSC Staff Nurse 17 December 2017 — related reported concept**
 
 - **A.** About 5–6 cm
 - **B.** About 7–9 cm
@@ -1945,13 +1937,13 @@ Compression depth batati hai chest ko kitna neeche press karna hai. Average adul
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/ques--614b00db6eb16cadcca4a96c). Third-party reported compression-depth item. Official key not authenticated. Historical explanation is not the current CPR sequence. Follow AHA 2025.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q3](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q3](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q3-what-is-the-recommended-manual-chest-compression-depth-for-an-average-adult-during-cpr)
 
 ### Q62. A nurse uses a blood pressure cuff that is too small for the patient's arm. Which measurement error is most likely?
 
@@ -3109,7 +3101,7 @@ Opening pressure posture aur strain se affect ho sakti hai. Standard lateral dec
 
 ### Q99. A reservoir mask bag collapses substantially during inspiration. Which nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Cover the reservoir bag with a heavy object
 - **B.** Ignore the bag because collapse proves adequate delivery
@@ -3132,13 +3124,11 @@ Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Ag
 
 **Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — non-rebreathing mask, Nursing Wallah by PW (39:38)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2378s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q4](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q4](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q4-a-reservoir-mask-bag-collapses-substantially-during-inspiration-which-nursing-response-is-appropriate)
 
 ### Q100. A family member feels angry and sad at different times after a death. What explanation is accurate?
 
@@ -3654,7 +3644,7 @@ New neurological deterioration raised intracranial pressure ya other emergency k
 
 ### Q119. Which device commonly provides low-flow supplemental oxygen while allowing a stable patient to speak and eat?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Nasal cannula
 - **B.** Non-rebreather mask continuously during meals
@@ -3677,13 +3667,11 @@ Nasal cannula ek flexible tube hai jiske do small prongs nostrils mein oxygen pa
 
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nasal cannula, Nursing Wallah by PW (07:51)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=471s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q1](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q1](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q1-which-device-commonly-provides-low-flow-supplemental-oxygen-while-allowing-a-stable-patient-to-speak-and-eat)
 
 ### Q120. A pressure injury has full-thickness skin loss with visible adipose tissue but no exposed fascia, muscle, tendon or bone. Which stage fits?
 
