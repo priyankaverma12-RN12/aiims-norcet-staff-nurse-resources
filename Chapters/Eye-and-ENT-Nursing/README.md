@@ -66,4 +66,4 @@ Vitreomacular traction expansion, 27 November 2026: resumed at e7ed701d0a1604fca
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-091800-csc. Scope: central serous chorioretinopathy chapter-local package only. Claimed UTC 2026-11-27T09:18:00Z. Expiry UTC 2026-11-27T09:48:00Z. -->
