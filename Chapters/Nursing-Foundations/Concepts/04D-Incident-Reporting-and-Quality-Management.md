@@ -2,7 +2,13 @@
 
 **Study-ready, unattempted.** 🔴 MOST IMPORTANT — nursing patient safety. [26 new MCQs](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md) plus earlier Group 04 Q5, Q6, Q17 and Q20 = 30 allocated.
 
-## Event classification
+<a name="event-classification"></a>
+
+## 🔹 Event classification
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending.** [Supplementary Level Up RN lesson and quiz](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting) — publisher transcript and 08:48 quiz chapter available. Direct YouTube watch URL and specific question verification pending. Existing DSSSB reported concept source reopened.
+<!-- /job4-metadata -->
 
 Patient safety incident ka meaning care-related event ya circumstance hai jo unnecessary harm cause kar sakta tha ya kar chuka hai. WHO terminology mein distinction important hai:
 
@@ -19,7 +25,13 @@ Sentinel event ek particularly serious safety event category hai. Current applic
 
 [MCQs Q1–5](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md). [🔵 DSSSB Nursing Officer 28 August 2019 Shift 3 — reported concept](../Previous-Year-Questions/04D-Incident-Quality-Reported-Evidence.md).
 
-## Reporting and just culture
+<a name="reporting-and-just-culture"></a>
+
+## 🔹 Reporting and just culture
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific just-culture questions not confirmed. Existing teaching links below are separate.
+<!-- /job4-metadata -->
 
 Immediate patient care first. Assess, stabilize, notify appropriate clinician and supervisor, monitor according to clinical risk, then complete required safety reporting. Clinical record mein actual event, findings, intervention, notifications and response document karo. Separate incident report institutional policy ke according complete karo. Report care documentation replace nahi karta. Facts aur assumptions separate rakho. Preserve records, do not retrospectively conceal or falsify information. Communicate established facts honestly through appropriate disclosure process.
 
@@ -38,7 +50,13 @@ Just culture means fair accountability and systems learning, not blame-free immu
 
 [MCQs Q6–12](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 
-## Investigation and prevention
+<a name="investigation-and-prevention"></a>
+
+## 🔹 Investigation and prevention
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific RCA, FMEA and improvement-tool question coverage not confirmed. [Related original bank](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
+<!-- /job4-metadata -->
 
 | Method | Purpose |
 |---|---|
@@ -51,7 +69,15 @@ Example: Wrong connection happened because two incompatible systems could physic
 
 [MCQs Q13–16](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 
-## Improvement and measurement
+<a name="improvement-and-measurement"></a>
+
+## 🔹 Improvement and measurement
+
+<!-- job4-metadata -->
+**Exam evidence:** **🟣 [AIIMS NORCET 2021 — related PDSA concept](https://testbook.com/question-answer/pdsa-stands-for--6250027a5e89fec2ed168ce4)** — memory-based report dated 20 November 2021 retrieved, not an exact original practice question.
+
+**YouTube MCQ practice: verification pending** — specific PDSA and audit-measurement question videos not established. [Related MCQs](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
+<!-- /job4-metadata -->
 
 PDSA = Plan, Do, Study, Act. Aim and prediction set karo, small-scale change test karo, data compare karo, then adapt, adopt or abandon and retest. Audit cycle compares actual practice against a defined standard, implements change and re-audits.
 
