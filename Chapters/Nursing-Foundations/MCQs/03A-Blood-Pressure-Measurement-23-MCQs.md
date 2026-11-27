@@ -4,7 +4,9 @@
 
 ### Q1. A stable adult arrives for a routine office BP check immediately after smoking a cigarette. What is the appropriate standardized approach?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Allow the recommended interval after tobacco use and a quiet rest before measuring
 - **B.** Measure immediately and subtract an estimated tobacco effect
@@ -23,11 +25,21 @@
 - **C.** Breathing manipulation can alter the reading.
 - **D.** Cuff size arm circumference par depend karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient sits with legs crossed and feet unsupported before routine BP measurement. Which preparation is preferable?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Feet dangling with back unsupported
 - **B.** Cross legs more firmly
@@ -46,11 +58,21 @@
 - **B.** Crossed legs may elevate BP.
 - **C.** Different posture changes context.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A patient needs to urinate before a planned routine BP reading. What should the nurse arrange?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Apply abdominal pressure
 - **B.** Select the lowest arbitrary reading
@@ -69,11 +91,21 @@
 - **B.** Selection bias introduce hota hai.
 - **D.** Full bladder may elevate BP.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient's shirt sleeve is tightly rolled above the proposed upper-arm BP cuff. What is the best correction?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Select cuff by shirt size
 - **B.** Remove constrictive clothing and apply cuff to bare arm
@@ -92,11 +124,21 @@
 - **C.** Fit and signal affected ho sakte hain.
 - **D.** Constriction may influence reading.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. The patient's upper-arm circumference is outside the marked range of the available cuff. What should be done?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Force the available cuff to close
 - **B.** Select an upper-arm cuff using thigh circumference
@@ -115,11 +157,23 @@
 - **B.** Wrong anatomical measurement hai.
 - **C.** Fit compromised ho sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**Unverified lead:** [NORCET 9 Prelims 2025 undersized cuff](https://testbook.com/question-answer/what-happens-to-a-blood-pressure-reading-if-a-cuff--69299d5173689bb7bafbcdca/amp) indexed, direct retrieval failed.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. According to the AHA 2019 BP measurement statement, which bladder length is appropriate relative to upper-arm circumference?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 37–50%
 - **B.** Exactly 150%
@@ -138,11 +192,23 @@
 - **B.** Not recommended.
 - **D.** Too short for stated recommendation.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**Unverified lead:** [NORCET 6 2024 bladder ratio](https://testbook.com/question-answer/suppose-you-are-a-nurse-on-duty-and-you-are-asked--662a4857e3ed1d91b2866eec) prior indexed lead, direct retrieval failed.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. Why identify the brachial pulse before applying a manual upper-arm BP cuff?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🟣 NORCET 7 Prelims 2024 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** To select cuff size without measuring arm
 - **B.** To align the cuff artery marker and identify the auscultation site
@@ -161,11 +227,21 @@
 - **C.** Routine upper-arm sounds brachial artery par heard hote hain.
 - **D.** Pulse oximetry separate hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [NORCET 7 Prelims 2024](https://testbook.com/question-answer/when-measuring-blood-pressure-the-nurse-places-th--67a2efd17c9026fd432d5810) — Brachial artery auscultation site in memory-based report; retrieved third-party report, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. Why obtain a palpatory systolic estimate before manual auscultation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** It helps choose inflation pressure and avoid missing an auscultatory gap
 - **B.** It directly measures diastolic pressure
@@ -184,11 +260,21 @@
 - **C.** Both techniques have different capabilities.
 - **D.** Additional information required hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. Korotkoff sounds disappear temporarily and then return before finally disappearing. What is important?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Reinflate repeatedly without full deflation
 - **B.** Diagnose a particular valve disorder
@@ -207,11 +293,21 @@
 - **B.** Gap alone cause prove nahi karta.
 - **D.** Sounds can return below the gap.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. Which cuff deflation rate is typically appropriate during standard adult manual auscultation?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Immediate complete release after first sound
 - **B.** About 2 mmHg per second
@@ -230,11 +326,21 @@
 - **C.** Rapid deflation may miss endpoints.
 - **D.** Very slow deflation may cause congestion and discomfort.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Which Korotkoff event usually defines diastolic pressure in routine adult measurement?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Phase V, disappearance of sounds
 - **B.** Phase I, first repeated tapping
@@ -253,11 +359,21 @@
 - **C.** Intermediate phase hai.
 - **D.** Not usual diastolic endpoint.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. Korotkoff sounds remain audible to very low cuff pressure in an adult. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Invent the diastolic pressure from last shift
 - **B.** Assume systolic equals diastolic
@@ -276,11 +392,21 @@
 - **B.** No basis hai.
 - **C.** Inflation pressure is not BP endpoint.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. Initial properly measured BP differs between arms in a stable adult. What is the routine follow-up?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Diagnose acute obstruction from one reading
 - **B.** Repeat to confirm, document both arms and use the consistently higher arm for later routine readings
@@ -299,11 +425,21 @@
 - **C.** May underestimate pressure.
 - **D.** Guidance generally uses higher arm.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A patient has an established hemodialysis fistula in the left arm. Which BP plan is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Use a suitable alternative arm or approved site rather than routinely compressing the fistula arm
 - **B.** Prefer fistula arm due to high flow
@@ -322,11 +458,21 @@
 - **C.** Extra compression inappropriate hai.
 - **D.** Alternative assessment needed hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. An oscillometric BP device gives inconsistent readings in a patient with markedly irregular rhythm. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Record the largest displayed value as definitive
 - **B.** Assume all automated devices are equally accurate in arrhythmia
@@ -345,11 +491,21 @@
 - **B.** Validation differs.
 - **C.** Appropriate rhythm assessment needed hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A wrist BP device gives different readings as the wrist position changes. Which advice is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Turn wrist device upside down to improve signal
 - **B.** Assume wrist reading equals direct arterial pressure
@@ -368,11 +524,21 @@
 - **B.** Noninvasive device estimates pressure.
 - **D.** Hydrostatic error possible hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. Two standardized seated readings are 146/84 and 138/80 mmHg. What is the component-wise average?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 142/82 mmHg
 - **B.** 146/80 mmHg
@@ -391,11 +557,21 @@
 - **C.** Incorrect arithmetic.
 - **D.** Sum hai, average nahi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A patient has BP 150/90 mmHg at a regular resting heart rate. What is the approximate MAP?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 UP NHM Staff Nurse 2021 · Shift I — related concept**
+<!-- /job4-metadata -->
 
 - **A.** 120 mmHg
 - **B.** 60 mmHg
@@ -414,11 +590,21 @@
 - **B.** Pulse pressure hai.
 - **C.** Diastolic alone MAP nahi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [UP NHM Staff Nurse 2021 · Shift I](https://testbook.com/question-answer/the-formula-for-calculating-mean-arterial-pressure--62db9ea9e5c26dc612394d97) — MAP formula topic; source typography lacks parentheses; use (SBP + 2 × DBP)/3 at ordinary resting rate; retrieved third-party report, not an exact match or authenticated official key.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. Why should chronic hypertension not generally be diagnosed solely from one routine elevated reading in a stable adult?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Office readings are never clinically useful
 - **B.** All repeated readings must be low to prove accuracy
@@ -437,11 +623,21 @@
 - **B.** Persistent elevation valid ho sakti hai.
 - **D.** True hypertension possible hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP components, measurement errors and precautions; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient becomes markedly dizzy before an orthostatic test's planned standing interval is complete. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Record a normal standing value without measuring
 - **B.** Assist to safe position and assess rather than force continued standing
@@ -460,11 +656,21 @@
 - **C.** Fall risk hai.
 - **D.** Unsafe testing progression hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#orthostatic-assessment-and-perfusion)
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. Supine BP is 132/76 and standing BP is 118/65 within three minutes. Which interpretation matches usual orthostatic criteria?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** No criterion met because systolic fall is under 20
 - **B.** Systolic fall is 24 mmHg
@@ -483,11 +689,21 @@
 - **B.** Actual difference 14 hai.
 - **C.** Etiology needs clinical review.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#orthostatic-assessment-and-perfusion)
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. BP must be measured at an approved alternative limb site because both upper arms are unsuitable. What should be documented?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Compare directly with all arm readings without noting site
 - **B.** Cuff color alone
@@ -506,11 +722,21 @@
 - **B.** Technique details missing hain.
 - **D.** Site affects interpretation.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#standardized-routine-adult-assessment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A critically unwell patient has worsening perfusion despite a normal oscillometric BP display. What should guide nursing action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Treat BP as direct tissue oxygen delivery measurement
 - **B.** Assess clinical condition and verify hemodynamics promptly while escalating concern
@@ -529,5 +755,13 @@
 - **C.** Perfusion can deteriorate despite preserved pressure.
 - **D.** Urgent assessment may be needed.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific BP technique, calculation or scenario not established.
+
+**Related study:** [Blood pressure concepts](../Concepts/03A-Blood-Pressure-Measurement.md#orthostatic-assessment-and-perfusion)
+<!-- /job4-metadata -->
 </details>
 
