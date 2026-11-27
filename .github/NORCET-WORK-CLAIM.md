@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-042417-identification
+Scope: Nursing Foundations group 04B patient identification and procedure safety, topic files and chapter navigation, global index only if unclaimed
+Claimed UTC: 2026-11-27T04:24:17Z
+Expiry UTC: 2026-11-27T04:54:17Z
 
 Forward verified content checkpoint b44edca0f362052a523159fc6603138d5652f9bb. Nursing Foundations 866 indexed original slots (358 Medium, 508 Difficult), 600 initial + 266 expansion. Group 04A fall prevention 24 new originals + earlier Q2,3,4,11,13,19 = 30 allocated. 107 related prior stems exact checked without overlap, 24 four-option hidden-answer questions verified. Concepts cf57eaa573d106a633022ae82dea0c6a4df59ac0, evidence 21b8794709ccb43662871aee64464491219f3858 (GMCH 2022, RMLIMS 2025 reported adaptations, official keys unverified). MCQ inventory aaa6b3d25a2db05d11f16f233673571738b499c6, coverage audit 283d88c1353f50dfac82b2f407375c1c13e15025, chapter README a4305a24cf5b2b0ee0f6d06c39b1639bcc8749d7, concept map 2cb80b19ba2de69ba5c0d8797b718a1481ae6b6f, PYQ index eca9faded5c4f6d33edb304230c53ff3caa3d555, video guide f6b513ecb80b750aa6f83c35827ea1fcd70c11b2 and global chapter index 18b6151660d85fbad683e6af0c353e50fce5204e reconciled for groups 03E and 04A and read back. Counted historical total 34 pending overlap, five compiled mocks of ten. Dedicated fall-question video, specific question mapping and playback/timestamps, full clinical/semantic/official evidence audits pending. Next group 04B patient identification and procedure safety, then restraint safety and incident/quality management, reserve remaining 14 old group 04 items only once. AIIMS Bhopal ambiguous historical lead excluded, DSSSB incident indicator reserved. Other jobs' scopes preserved, concurrent head conflict safely resolved. Hourly task unchanged.
