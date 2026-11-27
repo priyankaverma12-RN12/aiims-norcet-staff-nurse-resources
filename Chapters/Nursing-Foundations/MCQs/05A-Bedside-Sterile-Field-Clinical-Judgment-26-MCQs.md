@@ -29,6 +29,9 @@ D. Use the patient's bedding instead
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q2. In the conventional four-flap sterile kit opening method, which flap is opened first?
@@ -87,6 +90,11 @@ D. Wipe the central field with a clean cloth
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
+
 </details>
 
 ### Q4. A sterile item touches the outer one-inch margin of a conventional sterile field. What is appropriate?
@@ -115,6 +123,9 @@ D. Replace the contacted item
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#field-preparation-and-boundaries) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
 
 </details>
 
@@ -147,6 +158,9 @@ D. Trolley height guarantees sterility
 
 **YouTube MCQ practice: verification pending.**
 
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
+
 </details>
 
 ### Q6. A nurse leaves an open sterile field unattended to answer an urgent call. What should happen before the planned procedure resumes?
@@ -175,6 +189,9 @@ D. Cover it on return and continue
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#field-preparation-and-boundaries) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
 
 </details>
 
@@ -350,6 +367,11 @@ D. Replace compromised gloves aseptically before sterile work
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
+
 </details>
 
 ### Q13. Before patient contact, a nurse notices a pinhole in a sterile glove used to handle a sterile instrument. What is safest?
@@ -378,6 +400,9 @@ D. Cover it with a clean examination glove
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#gloves-and-breach-response) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
 
 </details>
 
@@ -437,6 +462,9 @@ D. Move instruments to another corner of the same field
 
 **YouTube MCQ practice: verification pending.**
 
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
+
 </details>
 
 ### Q16. A visitor repeatedly leans over a prepared field during a stable patient's dressing change. What is appropriate?
@@ -494,6 +522,9 @@ D. Ignore cough because it is not physical touch
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#gloves-and-breach-response) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
 
 </details>
 
@@ -613,6 +644,9 @@ D. Both permit touching sterile key parts with bare hands
 
 **▶️ [YouTube MCQ practice — Sahu Sir, Medical vs Surgical Asepsis](https://www.youtube.com/watch?v=VzpNPFxvlBo)** — indexed topic description only, specific item unverified. · **[Bhushan Science - Nursing, medical vs surgical asepsis MCQ practice](https://www.youtube.com/watch?v=OvVeBRQ9t2E)** — indexed description explicitly lists MCQs comparing clean and sterile techniques. Topic-level only, exact question and playback pending.
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ### Q22. A sterile kit has been opened for a procedure that is postponed. A colleague proposes keeping it open until the next shift. What should guide the decision?
@@ -700,6 +734,9 @@ D. Pause and obtain the correct sterile item while protecting or replacing the f
 
 **YouTube MCQ practice: verification pending.**
 
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
+
 </details>
 
 ### Q25. A nurse observes a colleague breach the sterile field but the colleague considers it insignificant. What is the best response?
@@ -728,6 +765,11 @@ D. Ignore the breach if the colleague is experienced
 [Concept](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md#clinical-judgment-and-audit) · [Open RN aseptic technique](https://www.ncbi.nlm.nih.gov/books/NBK596727/)
 
 **YouTube MCQ practice: verification pending.**
+
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
+**▶️ [Supplementary MCQ practice lead — Vikas Nursing Prep, infection control and asepsis quiz](https://www.youtube.com/watch?v=DsMUSYwLTXo)** · Indexed description lists sterile-field contamination among quiz themes. Related concept only. Exact scenario, transcript, playback and timestamp unverified. Existing specific-video gap remains open.
 
 </details>
 
@@ -758,8 +800,11 @@ D. Test only the definition of asepsis
 
 **YouTube MCQ practice: verification pending.**
 
+
+[Indian clinical reference — NCDC/MoHFW national IPC guidelines, 2020](https://ncdc.mohfw.gov.in/wp-content/uploads/2024/09/NGIPC.pdf) — Chapter 4 infection prevention principles and relevant device-care guidance. Text checked 27 November 2026, visual PDF verification unavailable.
+
 </details>
 
 ## ▶️ YouTube practice and evidence gaps
 
-Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6g), published sections 1:14 medical asepsis, 1:27 surgical asepsis, 3:33 preparation. [Lecturio sterile kit](https://www.youtube.com/watch?v=B35gtcgxQ9M), published sections 1:18 inspection, 2:20 opening, 6:30 border. Teaching is not question practice. Q21 has an additional topic-level medical-versus-surgical asepsis MCQ resource with indexed description checked. Q18–20 retain the existing broad Sahu Sir lead, but specific key-part and field-selection MCQ coverage is unverified. Q1–20 and Q22–26 need specific dedicated question-solving verification. All 26 exact question matches and playback pending. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md).
+Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6g), published sections 1:14 medical asepsis, 1:27 surgical asepsis, 3:33 preparation. [Lecturio sterile kit](https://www.youtube.com/watch?v=B35gtcgxQ9M), published sections 1:18 inspection, 2:20 opening, 6:30 border. Teaching is not question practice. Q21 has an additional topic-level medical-versus-surgical asepsis MCQ resource with indexed description checked. Q18–20 retain the existing broad Sahu Sir lead, but specific key-part and field-selection MCQ coverage is unverified. Q1–20 and Q22–26 need specific dedicated question-solving verification. Additional description-level sterile-field contamination quiz lead mapped to Q3, Q4, Q5, Q6, Q12, Q13, Q15, Q17, Q24, Q25. Exact scenario verification remains pending. All 26 exact question matches and playback pending. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md).
