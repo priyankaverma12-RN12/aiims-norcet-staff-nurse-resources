@@ -500,7 +500,7 @@
 
 ### Q19. A patient with suspected pulmonary tuberculosis is coughing in a crowded waiting area. Which action reduces transmission while arranging evaluation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Place the patient with immunocompromised patients
 - **B.** Use only routine surface cleaning
@@ -511,21 +511,23 @@
 
 **Correct: C. Provide a medical mask and move the patient to a well-ventilated separated area**
 
-**Kyun sahi hai?** TB hawa se spread hoti hai. Source mask, ventilation aur separation exposure kam karte hain. Staff proper respirator policy follow kare.
+**Kyun sahi hai?** Pulmonary TB infectious particles hawa mein release kar sakti hai. Patient ko medical mask dene se source par particles ka spread kam hota hai. Crowded area se alag karke airborne isolation arrange karo. Staff ko appropriate fitted respirator aur infection-control protocol follow karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** High-risk patients ko exposure
-- **B.** Surface cleaning airborne risk solve nahi
-- **D.** Mask hatane se droplets/aerosol spread
+- **A.** Immunocompromised patients ko infection ka risk zyada hota hai, isliye unke paas suspected infectious patient ko nahi rakhna chahiye.
+- **B.** Surface cleaning useful hai, lekin airborne transmission ko akeli prevent nahi karti.
+- **D.** Mask remove karne se respiratory particles ka spread badh sakta hai.
 
 **Exam trick:** TB needs airborne precautions.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/tb-healthcare-settings/hcp/infection-control/)
 
 </details>
 
 ### Q20. A patient on rifampicin reports orange-red urine but no other symptoms. Which response is appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Easy | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Encourage taking double doses
 - **B.** Explain that discoloration can be expected and review other warning signs
@@ -536,21 +538,23 @@
 
 **Correct: B. Explain that discoloration can be expected and review other warning signs**
 
-**Kyun sahi hai?** Rifampicin body fluids orange-red kar sakti hai. Jaundice ya serious symptoms ho toh report karna hai.
+**Kyun sahi hai?** Rifampicin se urine, tears aur doosre body fluids orange-red ho sakte hain. Agar sirf expected discoloration hai toh patient ko reassure karo aur prescribed regimen follow karne ki importance samjhao. Jaundice, dark urine with systemic symptoms, persistent vomiting ya doosre serious symptoms ko promptly report karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Double dose unsafe
-- **C.** Course apne aap band nahi
-- **D.** Color alone kidney failure prove nahi
+- **A.** Double dose se adverse effects ka risk badh sakta hai aur discoloration treat nahi hoti.
+- **C.** Expected harmless discoloration ke liye poora TB regimen apne aap band karna appropriate nahi hai.
+- **D.** Urine color alone kidney failure diagnose nahi karta.
 
 **Exam trick:** Rifampicin colors body fluids.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
 </details>
 
 ### Q21. A patient receiving ethambutol notices reduced color discrimination. What should the nurse do?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Advise covering one eye and continuing without review
 - **B.** Arrange urgent clinical review for possible optic toxicity
@@ -561,21 +565,23 @@
 
 **Correct: B. Arrange urgent clinical review for possible optic toxicity**
 
-**Kyun sahi hai?** Ethambutol optic nerve ko affect kar sakti hai. Color vision ya sight change important warning hai.
+**Kyun sahi hai?** Ethambutol optic nerve ko damage kar sakti hai. Nayi color vision problem ya blurred vision important warning sign hai. Nurse ko dose continue karwane se pehle urgent prescriber review arrange karna chahiye aur suspected drug toxicity ke liye local hold protocol follow karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Review delay unsafe
-- **C.** Harmless assume unsafe
-- **D.** Dose badhana risk
+- **A.** Ek eye cover karne se toxicity treat nahi hoti aur review delay ho sakta hai.
+- **C.** Visual change ko harmless assume karne se permanent damage ka risk ignore ho sakta hai.
+- **D.** Dose badhana suspected toxicity mein unsafe hai.
 
 **Exam trick:** Ethambutol = eye monitoring.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html)
 
 </details>
 
 ### Q22. Pleural fluid has a protein ratio to serum of 0.6 and an LDH ratio of 0.5. What does the protein ratio indicate under Light's criteria?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🟡 IMPORTANT — diagnostic enrichment | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** The effusion meets an exudative criterion
 - **B.** The effusion must be transudative
@@ -586,21 +592,23 @@
 
 **Correct: A. The effusion meets an exudative criterion**
 
-**Kyun sahi hai?** Protein ratio 0.5 se zyada hai. Ek bhi Light criterion meet ho toh exudate classify ho sakta hai.
+**Kyun sahi hai?** Light criteria mein pleural fluid protein divided by serum protein agar 0.5 se zyada ho toh exudative criterion meet hota hai. Yahan ratio 0.6 hai. Ek criterion meet hona classification ke liye enough ho sakta hai, lekin clinical context aur other results bhi dekhne hain. Ye advanced diagnostic interpretation practice hai, exact NORCET exam depth established nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Criterion meet hai
-- **C.** Cause confirm nahi hua
-- **D.** Infection exclude nahi hui
+- **B.** Protein ratio already exudative criterion meet karta hai, isliye transudate definite nahi keh sakte.
+- **C.** Exudate malignancy ke alawa infection aur inflammation se bhi ho sakta hai.
+- **D.** Light criteria infection ko exclude nahi karte.
 
 **Exam trick:** Light criteria classify fluid, not final cause.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion)
 
 </details>
 
 ### Q23. A patient with pneumonia becomes more confused and hypotensive while temperature falls to normal. Which action is most appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Assume infection has resolved
 - **B.** Delay reassessment until the next shift
@@ -611,21 +619,23 @@
 
 **Correct: D. Assess for sepsis and escalate urgently**
 
-**Kyun sahi hai?** Confusion aur BP girna organs ko blood kam milne ka sign ho sakta hai. Normal temperature se sepsis exclude nahi hoti.
+**Kyun sahi hai?** Pneumonia ke patient mein nayi confusion aur hypotension organ perfusion ki problem ya sepsis ka warning sign ho sakte hain. Temperature normal ho jaane se sepsis exclude nahi hoti. Nurse ko airway, breathing, circulation aur vitals assess karke urgent escalation aur sepsis protocol activate karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Fever alone recovery proof nahi
-- **B.** Delay risky
-- **C.** Hypotensive patient fall risk
+- **A.** Normal temperature se infection resolve hone ka proof nahi milta.
+- **B.** Next shift tak wait karne se deterioration aur shock ka risk badh sakta hai.
+- **C.** Hypotensive confused patient ko bina support chalana fall risk badhata hai aur urgent assessment delay karta hai.
 
 **Exam trick:** Trend of perfusion matters more than fever alone.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/sepsis/about/)
 
 </details>
 
 ### Q24. A patient with bronchiectasis has a large increase in bloody sputum and dizziness. Which nursing response is best?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Ask the patient to walk to clear secretions
 - **B.** Wait for the next routine sputum collection
@@ -636,15 +646,17 @@
 
 **Correct: C. Assess airway and circulation and arrange emergency evaluation**
 
-**Kyun sahi hai?** Zyada bleeding airway block aur blood loss kar sakti hai. Pehle saans aur BP assess karo.
+**Kyun sahi hai?** Bronchiectasis mein bleeding airway ko block kar sakti hai aur circulation compromise kar sakti hai. Bloody sputum ka sudden increase aur dizziness urgent warning signs hain. Patient ki airway, breathing aur circulation turant assess karo aur emergency team ko bulao. Routine airway clearance ko emergency stabilization se pehle prioritize mat karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Walking delay aur fall risk
-- **B.** Routine sample priority nahi
-- **D.** Percussion active bleeding mein unsafe ho sakti hai
+- **A.** Walking se unstable patient gir sakta hai aur emergency care delay ho sakti hai.
+- **B.** Routine sputum collection airway aur circulation stabilize karne se pehle priority nahi hai.
+- **D.** Active significant bleeding ke dauran vigorous percussion appropriate immediate response nahi hai.
 
 **Exam trick:** Significant hemoptysis is an airway emergency.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10289864/)
 
 </details>
 
@@ -652,7 +664,7 @@
 
 ### Q25. A patient on a simple face mask is receiving oxygen at 2 L/min. Which concern should the nurse recognize?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** A low flow guarantees normal ventilation
 - **B.** The mask prevents all room-air mixing
@@ -663,21 +675,23 @@
 
 **Correct: C. Inadequate flow may allow carbon dioxide rebreathing**
 
-**Kyun sahi hai?** Simple mask ko exhaled CO2 bahar flush karne ke liye adequate flow chahiye, often at least 5 L/min per device.
+**Kyun sahi hai?** Simple mask mein exhaled gas clear karne ke liye adequate oxygen flow chahiye. Adult simple masks aam taur par 5–10 L/min range mein use hote hain, lekin device instructions follow karna zaroori hai. 2 L/min par CO2 rebreathing ka risk ho sakta hai. Patient ki oxygenation assess karke prescribed target aur suitable device ke according flow correct karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Ventilation guarantee nahi
-- **B.** Room air mix ho sakti hai
-- **D.** Fixed 100% nahi
+- **A.** Low oxygen flow se adequate ventilation guarantee nahi hoti.
+- **B.** Simple mask ke side openings se room air mix ho sakti hai.
+- **D.** Simple mask fixed 100 percent oxygen deliver nahi karta.
 
 **Exam trick:** Simple mask minimum flow device instructions se.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/5531304/)
 
 </details>
 
 ### Q26. A nonrebreather reservoir bag collapses almost completely during inspiration. What should the nurse check?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Clamp the reservoir tubing
 - **B.** Oxygen flow, connections and reservoir inflation
@@ -688,21 +702,23 @@
 
 **Correct: B. Oxygen flow, connections and reservoir inflation**
 
-**Kyun sahi hai?** Bag inflate rehna chahiye taaki patient ko oxygen milti rahe. Flow aur system check karo.
+**Kyun sahi hai?** Nonrebreather ka reservoir oxygen store karta hai taaki inspiration ke time available gas mil sake. Bag ka almost completely collapse hona flow insufficient ya connection problem ka clue ho sakta hai. Patient ko assess karo aur flow, tubing, reservoir aur valves check karke device protocol follow karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Clamp gas supply rok sakta hai
-- **C.** Lower flow collapse badha sakta hai
-- **D.** Oxygen interruption unsafe
+- **A.** Tubing clamp karne se gas supply obstruct ho sakti hai.
+- **C.** Flow aur kam karne se reservoir fill hone mein aur problem aa sakti hai.
+- **D.** Oxygen source remove karne se hypoxic patient ki condition worsen ho sakti hai.
 
 **Exam trick:** Reservoir should not fully collapse.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
 
 </details>
 
 ### Q27. An intubated patient has an abrupt rise in peak inspiratory pressure with unchanged plateau pressure. Which problem is most likely?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🟡 IMPORTANT — critical care enrichment | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Increased airway resistance such as secretions or tube kinking
 - **B.** Reduced lung compliance as the only cause
@@ -713,21 +729,23 @@
 
 **Correct: A. Increased airway resistance such as secretions or tube kinking**
 
-**Kyun sahi hai?** Peak high par plateau same hai. Airway se air jaane mein resistance badha hai, tube ya secretions check karo.
+**Kyun sahi hai?** Peak inspiratory pressure airway resistance aur respiratory system compliance dono se affect hota hai. Plateau pressure unchanged ho aur flow, tidal volume aur measurement conditions comparable hon toh increased resistive pressure ka pattern support hota hai. Tube kinking, secretions ya bronchospasm consider karo. Nurse pehle patient aur airway assess kare aur team ko involve kare.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Compliance issue plateau bhi badhata hai
-- **C.** Disconnection often low pressure
-- **D.** Leak usually low pressure/volume
+- **B.** Reduced compliance usually plateau pressure bhi increase karti hai, agar settings comparable hon.
+- **C.** Circuit disconnect aam taur par delivered pressure aur volume loss ka cause hota hai.
+- **D.** Cuff leak se pressure ya exhaled volume kam ho sakta hai, isolated resistance pattern typical nahi hai.
 
 **Exam trick:** Peak versus plateau helps locate resistance.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC3681336/)
 
 </details>
 
 ### Q28. A ventilated patient develops simultaneous increases in peak and plateau pressure. Which cause should be considered?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Difficult | **Priority:** 🟡 IMPORTANT — critical care enrichment | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** A simple circuit leak
 - **B.** An isolated loose connection
@@ -738,21 +756,23 @@
 
 **Correct: D. Reduced respiratory-system compliance**
 
-**Kyun sahi hai?** Lungs ya chest stiff ho toh same volume ke liye zyada pressure chahiye. Dono readings badh sakti hain.
+**Kyun sahi hai?** Agar tidal volume, flow aur PEEP comparable hain aur peak aur plateau dono pressure badh rahe hain, toh respiratory system ki compliance kam ho sakti hai. ARDS, edema ya chest wall problems jaise causes consider kiye ja sakte hain. Patient ki breathing, oxygenation aur hemodynamic status assess karo. Pressure pattern alone definitive diagnosis nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Leak pressure gira sakta hai
-- **B.** Loose connection low pressure de sakta hai
-- **C.** Face mask reservoir ventilator reading se unrelated
+- **A.** Simple leak se aam taur par pressure ya volume loss hota hai.
+- **B.** Loose connection typical simultaneous pressure rise ka explanation nahi hai.
+- **C.** Face mask reservoir invasive ventilation pressure measurements ka direct cause nahi hai.
 
 **Exam trick:** Both pressures rise with poor compliance.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC3681336/)
 
 </details>
 
 ### Q29. A ventilator waveform and coarse breath sounds suggest retained secretions. Which suctioning approach is appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Instill saline routinely before every pass
 - **B.** Suction continuously for one minute
@@ -763,21 +783,23 @@
 
 **Correct: D. Preoxygenate as indicated and suction only when needed using the protocol**
 
-**Kyun sahi hai?** Suction airway se secretions nikalta hai, lekin oxygenation temporarily gir sakti hai. Adult aur pediatric artificial airway suctioning se pehle preoxygenation guideline ke mutabik karni chahiye. Suction pass 15 seconds se zyada nahi hona chahiye. Appropriate catheter size use karo aur patient ko monitor karo.
+**Kyun sahi hai?** Coarse breath sounds aur waveform changes retained secretions suggest kar sakte hain. Suction clinically indicated ho tab use karo. Adult aur pediatric artificial airway suction se pehle preoxygenation recommended hai. Patient ko monitor karo, appropriate catheter use karo aur suction 15 seconds se zyada apply mat karo. Open suction mein sterile technique aur local protocol follow karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Routine saline generally avoid
-- **B.** Long suction causes hypoxia
-- **C.** Tube occlusion restricts ventilation
+- **A.** Har pass se pehle saline routinely instill karna generally recommended nahi hai.
+- **B.** Ek minute continuous suction hypoxemia aur mucosal injury ka risk badha sakta hai.
+- **C.** Tube completely occlude karne wala catheter ventilation obstruct kar sakta hai. Adults aur children mein catheter lumen ka aadhe se kam hissa occlude kare.
 
 **Exam trick:** Artificial airway suction is brief and need-based.
+
+**Clinical reference:** [Clinical guidance](https://pubmed.ncbi.nlm.nih.gov/35078900/)
 
 </details>
 
 ### Q30. An intubated patient suddenly has no detectable waveform capnography after a bed transfer. What should the nurse prioritize?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Wait for a routine chest X-ray without assessing breathing
 - **B.** Increase sedation without assessment
@@ -788,21 +810,23 @@
 
 **Correct: C. Assess the patient and tube/circuit immediately and summon help**
 
-**Kyun sahi hai?** CO2 waveform gayab hona tube displacement, disconnection ya circulation problem ka sign ho sakta hai.
+**Kyun sahi hai?** Transfer ke baad capnography waveform suddenly disappear ho toh accidental tube displacement, circuit disconnection, obstruction, equipment fault ya severely reduced pulmonary blood flow possible hain. Patient ki breathing aur circulation turant assess karo, airway aur circuit check karo aur help bulao. Clinical emergency ko monitor fault maan kar ignore mat karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Assessment delay unsafe
-- **B.** Sedation cause treat nahi karti
-- **D.** Fault assume karna unsafe
+- **A.** Routine X-ray ka wait karne se ventilation failure ki recognition delay ho sakti hai.
+- **B.** Assessment ke bina sedation badhana underlying cause correct nahi karta.
+- **D.** Monitor fault possible hai, lekin pehle patient aur airway safety confirm karna zaroori hai.
 
 **Exam trick:** Lost ETCO2 waveform needs immediate assessment.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK482169/)
 
 </details>
 
 ### Q31. A patient receiving positive-pressure ventilation develops hypotension after a substantial increase in PEEP. What mechanism may explain it?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Immediate increase in blood glucose
 - **B.** Reduced venous return from increased intrathoracic pressure
@@ -813,21 +837,23 @@
 
 **Correct: B. Reduced venous return from increased intrathoracic pressure**
 
-**Kyun sahi hai?** Chest ke andar pressure badhne se heart tak venous blood kam aa sakta hai. BP gir sakta hai.
+**Kyun sahi hai?** PEEP increase karne se intrathoracic pressure badh sakta hai. Kuch patients mein venous return kam hone se cardiac output aur BP gir sakte hain, especially agar circulating volume kam ho. Har patient mein effect same nahi hota. Nurse hypotension ko urgently assess kare aur other causes bhi consider karke medical team ko inform kare.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Glucose mechanism unrelated
-- **C.** Venous return often kam hota hai
-- **D.** Hemoglobin minutes mein nahi banta
+- **A.** Immediate glucose rise PEEP-induced hypotension ka primary mechanism nahi hai.
+- **C.** Positive pressure venous return ko har patient mein increase nahi karta.
+- **D.** Hemoglobin synthesis itni jaldi nahi hoti aur immediate BP drop explain nahi karti.
 
 **Exam trick:** PEEP can affect circulation.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC11298231/)
 
 </details>
 
 ### Q32. A tracheostomy patient has thick secretions despite adequate systemic hydration. Which intervention addresses loss of upper-airway conditioning?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse
+**Difficulty:** Medium | **Priority:** 🔴 MOST IMPORTANT | **Exam focus:** NORCET / Staff Nurse
 
 - **A.** Ensure appropriate humidification of inspired gas
 - **B.** Remove humidification permanently
@@ -838,15 +864,17 @@
 
 **Correct: A. Ensure appropriate humidification of inspired gas**
 
-**Kyun sahi hai?** Tracheostomy mein naak ka warming aur moistening ka kaam bypass ho jaata hai. Humidification secretion patli rakhne mein help karti hai.
+**Kyun sahi hai?** Tracheostomy upper airway ka warming, filtering aur humidifying function bypass karti hai. Inspired gas dry hone se mucus thick ho sakta hai. Appropriate humidification device aur airway care protocol ke according use karo. Secretions, tube patency aur hydration assess karte raho.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Dry gas secretions thick kar sakti hai
-- **C.** Water restriction cause solve nahi
-- **D.** Dry high flow worse ho sakta hai
+- **B.** Humidification permanently remove karne se secretion drying aur blockage risk badh sakta hai.
+- **C.** Paani restrict karne se upper airway conditioning restore nahi hoti aur dehydration ka risk ho sakta hai.
+- **D.** Dry oxygen maximum flow par dena humidification problem solve nahi karta aur oxygen delivery patient need ke according honi chahiye.
 
 **Exam trick:** Bypassed upper airway needs humidification.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC11298231/)
 
 </details>
 
@@ -861,10 +889,15 @@
 - [Respiratory disorders question practice](https://www.youtube.com/watch?v=_ETf-t1W-sQ) — metadata supports general respiratory disorders practice (Q13–24). PYQ provenance not independently authenticated.
 - [Merck acid-base compensation](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders) (Q3–5).
 - [AARC suction guideline](https://pubmed.ncbi.nlm.nih.gov/35078900/) (Q29).
-- Specific numerical A&P, spirometry and ventilator MCQ video mapping pending. Full option-by-option prose expansion pending.
+- Specific numerical A&P, spirometry and ventilator MCQ video mapping pending. Full option-by-option prose expanded Q1–32. Historical evidence and bank-wide semantic audit pending.
 
 
 ### Q7–18 practice video mapping
 - [Aarogyam Infinity NORCET 10 respiratory MCQs, Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo) — respiratory system, asthma/COPD topic practice, video metadata supports Q7 and Q13–18 topics. Exact matching question timestamps not verified.
 - [Iram Fatima respiratory disorders MCQs](https://www.youtube.com/watch?v=_ETf-t1W-sQ) — asthma and COPD topic practice Q13–18. Historical PYQ claims not authenticated.
 - [RegisteredNurseRN lung sounds teaching](https://www.youtube.com/watch?v=l0G7iXaIfOg) — concept demonstration Q7/Q9, not counted as MCQ-specific video. Dedicated question-solving links for Q8–12 pending.
+
+
+### Q19–32 practice video mapping
+- [NORCET 2026 Respiratory System MCQ Series](https://www.youtube.com/watch?v=_dOjXZ6vCck) — published description includes TB, pneumonia and oxygen therapy (Q19–21, Q23, Q25–26 topic relevance).
+- [Iram Fatima respiratory MCQs](https://www.youtube.com/watch?v=_ETf-t1W-sQ) — published description includes TB, oxygen and mechanical ventilation (Q19–21, Q25–32 topic relevance). Exact item/timestamp and historical PYQ provenance not verified. Dedicated practice on pleural criteria, hemoptysis, suction and pressure interpretation still pending.
