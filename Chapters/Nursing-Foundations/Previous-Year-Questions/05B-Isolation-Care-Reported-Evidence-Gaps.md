@@ -10,4 +10,7 @@
 
 Further searches for NORCET, HPRCA/HPSSC, PGIMER, SGPGI, JIPMER, ESIC, DSSSB, CHO and other state-specific isolation-care questions, official papers and keys remain pending. No official key authenticated. Existing cumulative historical count remains 34. No link-only lead counted as a solved PYQ.
 
-[20 original practice questions](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) are independently authored and have hidden answers. All specific MCQ-video mappings pending. General IPC teaching and a published isolation case-review timestamp are supplementary leads only.
+[30 original practice questions](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) are independently authored and have hidden answers. All specific MCQ-video mappings pending. General IPC teaching and a published isolation case-review timestamp are supplementary leads only.
+
+
+Completion research: no new directly verified narrow isolation-care historical match was found. Indexed coaching material and general barrier nursing leads are not counted. Blueprint Nursing published practice question chapter 03:32 and Thatnursingprof question invitation are general supplementary leads only, specific coverage and playback pending.
