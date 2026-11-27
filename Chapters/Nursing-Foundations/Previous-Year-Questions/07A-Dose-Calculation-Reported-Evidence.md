@@ -16,10 +16,14 @@ D. 28 mL
 
 **Correct answer: B. 14 mL**
 
-- **A (Incorrect):** 7 mL mein 14 micrograms milengi, jo ordered amount ka half hai.
-- **B (Correct):** 42/21 = 2 micrograms/mL. Ab 28/2 = 14 mL. Reverse check 14 × 2 = 28 micrograms hai. Original reported numbers differ, tested formula same hai.
-- **C (Incorrect):** 21 mL poori 42 micrograms provide karti hai.
-- **D (Incorrect):** 28 mL × 2 = 56 micrograms hai, jo double dose hai.
+**Formula aur clinical safety:** Given concentration = 42 micrograms/21 mL = 2 micrograms/mL. Desired volume = 28/2 = 14 mL. Alternate ratio: 28/42 × 21 = 14 mL. Reverse: 14 × 2 = 28 micrograms.
+
+- **A (Incorrect):** 7 mL × 2 = 14 micrograms, half required.
+- **B (Correct):** 14 mL × 2 = 28 micrograms, exact prescribed mass.
+- **C (Incorrect):** 21 mL × 2 = 42 micrograms, entire supplied mass.
+- **D (Incorrect):** 28 mL × 2 = 56 micrograms, double required.
+
+**Exam clue:** Desired mass aur supplied mass same units mein rakho.
 
 [OpenStax calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing) · [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#units-and-dose)
 
@@ -43,16 +47,22 @@ D. 12 mL
 
 **Correct answer: D. 12 mL**
 
-- **A (Incorrect):** 6 mL mein 12 mEq milengi, required dose ka half.
-- **B (Incorrect):** 18 mL mein full 36 mEq hain.
-- **C (Incorrect):** 24 mL se 48 mEq milengi.
-- **D (Correct):** 36/18 = 2 mEq/mL. 24/2 = 12 mL. Yeh stock-volume arithmetic hai, administration volume ya infusion instruction nahi. Concentrated potassium chloride must never be given IV push. Pharmacy-approved dilution, rate, monitoring and high-alert policy required hain.
+**Formula aur clinical safety:** Stock concentration = 36 mEq/18 mL = 2 mEq/mL. Stock volume = 24/2 = 12 mL. Reverse: 12 × 2 = 24 mEq. Yeh arithmetic-only stock measurement hai. Concentrated potassium chloride must never be administered by IV push. Clinical preparation, dilution, infusion rate and monitoring require an authorized protocol and pharmacy verification.
+
+- **A (Incorrect):** 6 mL × 2 = 12 mEq, half required.
+- **B (Incorrect):** 18 mL × 2 = 36 mEq, full stock label amount.
+- **C (Incorrect):** 24 mL × 2 = 48 mEq, double required.
+- **D (Correct):** 12 mL × 2 = 24 mEq, calculated stock amount only.
+
+**Exam clue:** Stock volume is not final infusion volume. Never treat a historical question as an administration protocol.
 
 [OpenStax calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing) · [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#reconstitution-and-labels)
 
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
+
+[WHO concentrated electrolyte safety](https://www.who.int/publications/m/item/patient-safety-solution-control-of-concentrated-electrolyte-solutions) — clinical safety reference.
 
 Direct source lines 30–46 show NORCET 2020 memory-based attribution and reported answer. Original calculation 30/40 × 20 = 15 mL, independently checked. Do not infer the original question's preparation is a universal clinical protocol.
 
