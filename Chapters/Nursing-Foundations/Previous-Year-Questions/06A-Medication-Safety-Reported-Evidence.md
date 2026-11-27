@@ -1,10 +1,10 @@
 # 📜 Medication verification — reported historical evidence
 
-**Study-ready, unattempted.** Two independently worded practice adaptations from third-party indexed question reports with full question, choices and reported answer visible in search extracts. Direct page opening failed. No official wording, paper or key authenticated. Excluded from cumulative reported count pending source and overlap reconciliation.
+**Study-ready, unattempted.** Two independently worded practice adaptations from third-party question reports. Both direct pages were retrieved on 27 November 2026 and the displayed questions, four choices and reported answers inspected. No independently authenticated official booklet or key. Excluded from cumulative reported count pending source and overlap reconciliation.
 
 ### Q1. Which check completes the conventional six-right framework in addition to correct patient, medicine, dose, route and time?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🔵 HSSC Staff Nurse 2019, held 25 July 2021 — retrieved indexed report**
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🔵 HSSC Staff Nurse 2019, held 25 July 2021 — directly retrieved third-party report**
 
 A. Right ward location
 B. Right documentation
@@ -31,7 +31,7 @@ D. Right brand familiarity
 
 ### Q2. During handover, the nurse discovers a medication administration record discrepancy that could affect the next scheduled dose. Which response is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **🔵 RRB Nursing Superintendent 12 March 2026 Shift 3 — retrieved indexed report**
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **🔵 RRB Nursing Superintendent 12 March 2026 Shift 3 — directly retrieved third-party report**
 
 A. Remove the conflicting entry without an audit trail
 B. Wait for the following shift regardless of clinical urgency
