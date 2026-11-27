@@ -4,7 +4,7 @@
 
 ### Q1. A patient has orthopnea and is hemodynamically stable. Which position usually facilitates breathing?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Trendelenburg
 - **B.** Prone with the face unsupported
@@ -35,7 +35,7 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 ### Q2. Which position is commonly used for a rectal examination or a routine cleansing enema when appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 RRB Staff Nurse 21 July 2019 Shift I — related reported concept** · **[🟣 RRB Staff Nurse 20 July 2019 Shift III — related reported concept](https://testbook.com/question-answer/the-most-suitable-position-for-giving-an-enema-is--61ae0cbd6056094d7be1fa44)** · **[🟣 HPRCA Assistant Staff Nurse 20 March 2026 morning Q103 — related reported concept](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**
 
 - **A.** Reverse Trendelenburg
 - **B.** Left lateral Sims position
@@ -66,7 +66,7 @@ Rectal examination ya routine cleansing enema ke liye left lateral Sims mein pat
 
 ### Q3. Which position is commonly used for a pelvic examination with the legs supported in stirrups?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Lithotomy
 - **B.** Prone
@@ -95,7 +95,7 @@ Lithotomy mein patient supine hota hai, hips aur knees flexed hote hain aur legs
 
 ### Q4. A patient with a suspected cervical spinal injury must be repositioned. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Turn the head independently while the trunk remains fixed
 - **B.** Pull the patient upright by both arms
@@ -120,11 +120,13 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q5. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Hold the load far away and twist the trunk
 - **B.** Keep knees rigid while bending from the waist
@@ -153,7 +155,7 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 
 ### Q6. A patient requires maximal assistance and cannot bear weight. Which transfer method is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Attempt an unsupported stand-pivot transfer
 - **B.** Have the patient hold the nurse's neck for support
@@ -178,11 +180,13 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q7. When adjusting a walker for a patient, which finding generally indicates a suitable handgrip height?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Grips at eye level
 - **B.** Slight elbow flexion while standing upright with hands on the grips
@@ -207,11 +211,13 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q8. A patient has unilateral leg weakness and is learning to walk with a cane. In which hand is the cane usually held?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** The hand opposite the weaker leg
 - **B.** The hand on the weaker side in all cases
@@ -236,11 +242,13 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**▶️ [YouTube MCQ practice — cane ambulation, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=4178s)** · Published question chapter 1:09:38, 24 November 2024. Topic-level only, exact item and playback pending.
+
 </details>
 
 ### Q9. Which crutch instruction helps avoid pressure-related nerve injury?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 NORCET 20 November 2021 Shift II — related reported concept**
 
 - **A.** Support body weight through the handgrips rather than the axillae
 - **B.** Rest the entire body weight on the axillary pads
@@ -267,11 +275,13 @@ Axillary crutch par body weight handgrips se transfer hona chahiye. Axilla mein 
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**▶️ [YouTube MCQ practice — crutches and cane, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=2025s)** · Published question chapter 33:45, 24 November 2024. Topic-level only, exact nerve-injury item and playback pending.
+
 </details>
 
 ### Q10. A patient using crutches is permitted partial weight bearing. What determines the appropriate gait pattern?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** A single standard gait for every patient
 - **B.** The patient's age alone
@@ -296,11 +306,13 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q11. Which exercise involves a caregiver moving the patient's joint without active muscle effort from the patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Resisted isometric exercise
 - **B.** Independent ambulation
@@ -325,11 +337,13 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q12. An immobile patient has a painful swollen calf before scheduled leg exercises. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Ignore the finding because immobility is expected
 - **B.** Withhold manipulation of the affected calf and arrange prompt assessment for possible thrombosis
@@ -354,11 +368,13 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q13. Which positioning principle helps prevent foot drop during prolonged bed rest?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Avoid inspecting the heels
 - **B.** Maintain neutral ankle alignment using appropriate support and reassess the skin
@@ -383,11 +399,13 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q14. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Support the affected arm and avoid pulling on it
 - **B.** Lift the patient by the affected wrist
@@ -412,11 +430,13 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q15. Which intervention helps reduce deconditioning during a prolonged hospital stay?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Routine strict bed rest for every patient
 - **B.** Avoiding all active movement after admission
@@ -441,11 +461,13 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q16. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Leave the patient standing while obtaining equipment
 - **B.** Encourage rapid walking to improve circulation
@@ -470,11 +492,13 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q17. Which bed position raises the head while keeping the bed surface angled with the head higher than the feet?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Lithotomy
 - **B.** Sims
@@ -503,7 +527,7 @@ Reverse Trendelenburg mein entire bed tilted hota hai aur head feet se higher ho
 
 ### Q18. A patient slides repeatedly down a raised bed. Which tissue-damaging force is especially relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Active transport
 - **B.** Shear
@@ -532,7 +556,7 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 
 ### Q19. Which equipment is appropriate for reducing friction during repositioning of a dependent patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A suitable slide sheet or transfer aid
 - **B.** Dragging directly across rough linen
@@ -557,11 +581,13 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q20. A patient has a new restriction against hip flexion beyond the prescribed limit. Which nursing approach is appropriate during toileting?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Use a very low toilet seat regardless of the restriction
 - **B.** Flex the hip forcefully to improve range
@@ -586,9 +612,18 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 
 **Dedicated MCQ video:** specific verified question mapping pending.
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
 
 Follow current facility protocols, authorized orders and professional scope.
+
+
+## 📜 Historical and video evidence recheck — 27 November 2026
+
+- Q2: Direct RRB 20 July 2019 Shift III report tests routine enema positioning. Prior 21 July Shift I report retained (fresh AMP reopen failed). HPRCA Assistant Staff Nurse 20 March 2026 morning third-party response-sheet transcript Q103, ID 4410091002772, tests rectal examination positioning. Text retrieved, original color markings and official final key not authenticated. No candidate information copied. Distinguish left lateral/Sims variations and individual procedure needs.
+- Q9: NORCET 20 November 2021 Shift II crutch-fit report reopened. It tests clearance below the axilla rather than this exact instruction. Device fitting, hand support and therapist guidance remain important. No new adaptation counted.
+- Q8 and Q9 have published question-chapter topic mappings, exact playback unverified. Six earlier VS Nursing Academy description-only general positioning practice leads are retained but not promoted to specific scenario coverage. [RegisteredNurseRN assistive devices](https://www.youtube.com/watch?v=k2-w3LZlCVk) is supplementary teaching and links a separate quiz, not verified in-video MCQ coverage. Other 18 specific mappings pending. No official keys authenticated.
