@@ -1700,9 +1700,19 @@ Dressing wound ko protect karti hai aur exudate manage kar sakti hai. Selection 
 
 **Correct: D. Actual current prescription, OTC and relevant supplement use including doses and timing**
 
-Complete medication history interactions, omissions aur duplicates identify karne mein help karti hai. Nurse patient, caregiver aur records se verify kar sakti hai.
+Medication reconciliation ka matlab patient jo medicines actually le raha hai unki accurate list banana aur current authorized orders se compare karna hai. Prescription, over-the-counter medicines aur relevant supplements ke naam, dose, route, schedule, recent use aur allergy history collect karo. Patient, caregiver, pharmacy ya available records se verify karo. Differences ko responsible clinician se clarify karna important hai.
 
-**Baaki options kyun sahi nahi hain?** Shelf list aur colors actual use establish nahi karte. Hospital name alone medication list nahi hai.
+**Option-wise explanation:**
+- **A (Galat):** Previous hospital ka naam complete medication history replace nahi karta.
+- **B (Galat):** Ward stock se patient ki home medicines ka pata nahi chalta.
+- **C (Galat):** Tablet color brand change hone par different ho sakta hai. Yeh reliable medication identification nahi hai.
+- **D (Sahi):** Actual current medicine history omissions, duplication aur interactions identify karne mein help karti hai.
+
+**Exam clue:** Reconcile actual use with current orders, not a stock list.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/settings/hospital/match/chapter-7.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1929,9 +1939,19 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 **Correct: D. Communicate the current target, device, recent trends and escalation instructions**
 
-Transfer ke waqt current respiratory plan clearly communicate karna important hai. Receiving nurse target aur deterioration signs samajhkar monitoring continue kar sakti hai.
+Oxygen therapy mein target SpO2 yani blood oxygen saturation ka desired range patient ki condition ke hisaab se prescribed hota hai. ICU se transfer par receiving nurse ko latest authorized target, device, flow ya concentration, recent response aur escalation criteria batao. Old order aur new order mein discrepancy ho toh team se resolve karo. Monitoring transfer ke baad bhi continue hoti hai.
 
-**Baaki options kyun sahi nahi hain?** ICU location clinical plan nahi batati. Old order outdated ho sakta hai. Universal targets inappropriate ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Old prescription se changed target miss ho sakta hai aur incorrect oxygen delivery ho sakti hai.
+- **B (Galat):** ICU history alone current respiratory requirements nahi batati.
+- **C (Galat):** Sab patients ke oxygen targets same nahi hote. Individual risk aur prescription matter karte hain.
+- **D (Sahi):** Latest respiratory plan aur deterioration criteria communicate karna treatment continuity support karta hai.
+
+**Exam clue:** Handover current orders and trends, not outdated orders.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2172,9 +2192,19 @@ Baseline vitals se transfusion ke dauran new fever, BP changes aur breathing sym
 
 **Correct: B. Immediate clinical assessment and stabilization with escalation**
 
-Breathing aur circulation compromise time-sensitive ho sakta hai. Nurse ABC assessment aur urgent help arrange karti hai. Administrative tasks baad mein complete ho sakte hain.
+Severe breathlessness ka matlab ventilation ya oxygenation compromise ho sakti hai. Hypotension low blood pressure hai jo inadequate circulation ka clue ho sakta hai. Nurse immediate ABCDE assessment karti hai, urgent help bulati hai aur scope/protocol ke according stabilization support karti hai. Life-threatening problems ko milte hi address karo. Paperwork clinical care ke baad complete ho sakta hai.
 
-**Baaki options kyun sahi nahi hain?** Paperwork, inventory aur orientation emergency stabilization se lower priority hain.
+**Option-wise explanation:**
+- **A (Galat):** Orientation useful hai, lekin acute respiratory aur circulatory compromise ke waqt first priority nahi hai.
+- **B (Sahi):** Immediate assessment, stabilization aur escalation patient ke time-sensitive threats ko address karte hain.
+- **C (Galat):** Demographic form complete karte hue treatment delay ho sakti hai.
+- **D (Galat):** Belongings inventory important hai, lekin unstable patient ke airway, breathing aur circulation se pehle nahi.
+
+**Exam clue:** Unstable admission: ABCDE and urgent help before administrative work.
+
+**Clinical references:** [Clinical reference 1](https://www.resus.org.uk/library/abcde-approach) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2227,9 +2257,19 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 
 **Correct: B. At admission and continue throughout the stay**
 
-Discharge needs early identify karne se teaching, equipment, follow-up aur family support arrange karne ka time milta hai. Plan condition ke saath update hota hai.
+Discharge planning ka matlab hospital se ghar ya next care setting mein safe transition ki preparation hai. Admission ke time se patient ki mobility, home support, medicines, equipment aur teaching needs assess karo. Condition aur goals change hone par plan update karo. Actual discharge ka decision authorized team clinical readiness aur practical safety ke hisaab se leti hai.
 
-**Baaki options kyun sahi nahi hain?** Late planning avoidable delays aur unsafe transitions cause kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Patient ke leave karne ke baad planning start karna preventable transition problems ko timely address nahi karta.
+- **B (Sahi):** Admission se planning start karne par barriers early identify hote hain aur poore stay mein address kiye ja sakte hain.
+- **C (Galat):** Medical records archive karna discharge planning start karne ka clinical criterion nahi hai.
+- **D (Galat):** Transport aane tak wait karne se teaching aur equipment arrange karne ka time nahi mil sakta.
+
+**Exam clue:** Discharge planning starts at admission, not discharge day.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
