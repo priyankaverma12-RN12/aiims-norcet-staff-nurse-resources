@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-041341-cleanup
-Scope: Nursing Foundations 02A/02B/02C MCQs and group 01 mock metadata, previously tagged concepts/evidence only
-Expiry UTC: 2026-11-27T04:43:41Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -43,3 +43,14 @@ All eight files read back exactly. Stripping new metadata restored original text
 
 ## Learner UI correction — 27 November 2026
 Mandatory deduplication rules saved and verified in root skill (378862e09cbec19be6729474e1786557e6171c70) and canonical skill (49c77995ec65ecdf2d5d46a6b48899359a2501c1). Color-format existing metadata in place. One difficulty and one priority per question; do not add redundant label rows. Original difficulty and priority values take precedence over undocumented conflicting editorial overlays. Keep distinct tags, references and all study text. Existing red overrides without separate audit were normalized to the original priority mapping (16 entries across four files); reserve red for justified top-priority items. Verified 80 original MCQ entries polished, not new questions: 02 initial 20 b88458bb9956e600a6306d670246ccb10a2afcda; 01 initial 20 3a0cc7787239d7c7ecb69fcbf02a2d1e61e27972; 01A 13 6de7f372825c6d0d1838969da96b903a52ed6a5c; 01B 27 10066811ad88cbddc555eebde78cb990256d8df7. Readback exact and non-label content unchanged, rendered UI not visually inspected. Attempt at 02A encountered GitHub 409 concurrent head change; stopped study file writes and fetched fresh target: 21 old label rows, 0 consolidated rows. Next priority: finish cleanup 02A/02B/02C (70 original MCQs), previously tagged 20 mock slots and inspect 15 concept sections and four reported adaptations for duplicate labels/status/links. Then continue group 02 mocks and group 03 using the single-row standard. No overlapping scope writes. Do not count cleanup as new tagging. Claim released.
+
+
+## Verified UI cleanup continuation — 27 November 2026
+- 02A 21 entries: bd773790c416c4c556679edf2d8e3f720ecfa59a.
+- 02B 23 entries: e55cabbb067f272b1640ff1b54579a5045e51ea3.
+- 02C 26 entries: ba528bd28f907cdaa58dc2eed157e171d6be4866.
+- Mock 01 four group 01 slots: c507541f8c6f7213d3ea1752e914ed7546ff3356.
+- Mock 02 four slots: b40c718a4a7753297cc07a4bfabce711fc0868db.
+- Mock 03 four slots: 170d9f4fc4315fcdddcadfcd9118f0b3ab9aba70.
+- Mock 04 four slots: bdfea0bedfb8c8f20b51d7f4ff8f2ef7181b1599.
+All seven files read back exactly and comparison after stripping changed label rows confirms every other byte, including references and hidden answers, preserved. 70 original MCQs plus 16 reused mock slots polished this run, no newly tagged questions. All previously tagged 150 original MCQs now cleaned; 16/20 previously tagged mock slots cleaned. Retained original priority mapping for 24 MCQs and two mock slots with conflicting added red overrides. NVS September 2019 reflection/clarification reported source and OpenStax therapeutic communication reopened successfully; RRB shift I direct retrieval failed this run, preserve previous reported evidence and pending recheck. No new historical claims. Rendered GitHub UI not visually inspected. Mock 05 write encountered concurrent GitHub 409, stopped study file writes and refetched target: 4 duplicate rows, 0 consolidated rows. Next: clean remaining mock 05 group 01 slots, inspect previously tagged 15 concept sections and four reported adaptations for duplicates, then tag group 02 mock slots using single-row standard. Recheck all claims. No chapter certified complete. Claim released.
