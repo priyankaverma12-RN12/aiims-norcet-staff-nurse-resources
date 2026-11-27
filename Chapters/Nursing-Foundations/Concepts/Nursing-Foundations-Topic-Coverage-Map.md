@@ -86,3 +86,13 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Therapeutic communication](02A-Therapeutic-Communication.md), 30 allocated.
 - [Nursing documentation and records](02B-Nursing-Documentation-and-Records.md), 30 allocated.
 - [Clinical handover and team communication](02C-Clinical-Handover-and-Team-Communication.md), 30 allocated. Groups 03–30 remain to audit.
+
+
+## Group 03 detailed guides — verified so far
+
+- [Blood pressure](03A-Blood-Pressure-Measurement.md), 30 allocated.
+- [Pulse](03B-Pulse-Assessment.md), 30 allocated.
+- [Respiration](03C-Respiration-Assessment.md), 30 provisional, earlier Q13 relevance pending.
+- [Pulse oximetry](03D-Pulse-Oximetry-Assessment.md), 30 allocated.
+
+Physical examination expansion next. Full clinical and semantic audit pending.
