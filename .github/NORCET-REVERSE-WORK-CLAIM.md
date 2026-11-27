@@ -1,9 +1,9 @@
 # NORCET reverse lane work claim
 
-State: CLAIMED
-Owner: reverse-20261127-040553-gk09
-Scope: General Knowledge and Aptitude — profit and loss, then discount, local files and reverse checkpoint only.
-Claimed UTC: 2026-11-27T04:05:53Z
-Expiry UTC: 2026-11-27T04:35:53Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Previous checkpoint: 0c63be80d39b8c402641edc61a4903e333299037. Forward, audit and labels scopes separate.
+Verified checkpoint: b625c7c4c5ed78c1844c1eac922e5429c176054b, General Knowledge and Aptitude, 300 new originals plus four earlier starters, 304 slots. Next: simple interest, then compound interest. Check both publishing claims and review scopes, both skills and audit learnings. Forward and review lanes preserved.
