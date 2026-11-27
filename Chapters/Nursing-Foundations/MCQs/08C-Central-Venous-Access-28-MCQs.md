@@ -594,7 +594,7 @@ D. Direct measurement of left ventricular ejection fraction
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
-**▶️ [NORCET 10 cardiovascular MCQ series — CVP topic at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s)** — Published chapter marker only. Exact question, playback and channel attribution pending.
+**YouTube MCQ practice: verification pending.** [Supplementary CVP chapter-marker lead at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s). Pehle record kiya gaya chapter marker ek research lead hai. Dobara direct access nahi mila, isliye channel, exact question aur playback confirm nahi hue hain.
 
 </details>
 
@@ -621,7 +621,7 @@ D. Relevel the transducer and use a consistent documented measurement method
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
-**▶️ [NORCET 10 cardiovascular MCQ series — CVP topic at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s)** — Published chapter marker only. Exact question, playback and channel attribution pending.
+**YouTube MCQ practice: verification pending.** [Supplementary CVP chapter-marker lead at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s). Pehle record kiya gaya chapter marker ek research lead hai. Dobara direct access nahi mila, isliye channel, exact question aur playback confirm nahi hue hain.
 
 </details>
 
@@ -648,7 +648,7 @@ D. The patient definitely gained intravascular fluid
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
-**▶️ [NORCET 10 cardiovascular MCQ series — CVP topic at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s)** — Published chapter marker only. Exact question, playback and channel attribution pending.
+**YouTube MCQ practice: verification pending.** [Supplementary CVP chapter-marker lead at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s). Pehle record kiya gaya chapter marker ek research lead hai. Dobara direct access nahi mila, isliye channel, exact question aur playback confirm nahi hue hain.
 
 </details>
 
@@ -675,7 +675,7 @@ D. CVP directly measures left ventricular stroke volume
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
-**▶️ [NORCET 10 cardiovascular MCQ series — CVP topic at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s)** — Published chapter marker only. Exact question, playback and channel attribution pending.
+**YouTube MCQ practice: verification pending.** [Supplementary CVP chapter-marker lead at 2:40:37](https://www.youtube.com/watch?v=TKqG10U7Pco&t=9637s). Pehle record kiya gaya chapter marker ek research lead hai. Dobara direct access nahi mila, isliye channel, exact question aur playback confirm nahi hue hain.
 
 </details>
 
@@ -762,4 +762,4 @@ D. Use the line because the patient arrived from a hospital
 
 ## Video evidence
 
-Q22–25 ke liye published CVP chapter marker ek topic-level lead hai. Exact question coverage aur playback confirm nahi hua hai. Baaki 24 questions ke liye specific practice mapping pending hai. [Concepts](../Concepts/08C-Central-Venous-Access.md#video-resources) · [Chapter](../README.md)
+Sabhi 28 questions ke liye specific MCQ practice verification pending hai. Q22–25 ka pehle record kiya gaya CVP chapter marker supplementary lead hai, lekin direct access, channel aur playback confirm nahi hue hain. [Concepts](../Concepts/08C-Central-Venous-Access.md#video-resources) · [Chapter](../README.md)
