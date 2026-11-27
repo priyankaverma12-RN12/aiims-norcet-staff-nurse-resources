@@ -18,10 +18,18 @@ D. Its brand
 
 **Correct answer: B. Whether it restricts movement and the patient can independently remove it**
 
-- **A (Incorrect):** Color actual movement restriction establish nahi karta.
-- **B (Correct):** Device ka actual effect aur patient ki removal ability assess karo.
-- **C (Incorrect):** Price clinical classification decide nahi karta.
-- **D (Incorrect):** Brand alone patient-specific effect nahi batata.
+<!-- job5-rationale -->
+Restraint ka classification device ke actual effect aur particular patient ki ability par depend karta hai. Agar positioning device movement restrict kare aur patient independently easily remove na kar sake, toh applicable restraint definition aur policy check karni hai. Same device ek patient ke liye therapeutic positioning support aur doosre ke liye restraint function kar sakti hai. Purpose, clinical need aur actual effect assess karo.
+
+**Option-by-option reasoning**
+
+- **A:** Color movement restriction decide nahi karta.
+- **B:** Restriction aur independently remove karne ki ability main assessment factors hain.
+- **C:** Cost safety classification establish nahi karti.
+- **D:** Brand alone individual effect nahi batata.
+
+**Exam clue:** Assess function, not the name of the device.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -47,10 +55,18 @@ D. Remove communication aids
 
 **Correct answer: A. Restore hearing assistance and communicate calmly**
 
-- **A (Correct):** Hearing restore karne se misunderstanding aur distress reduce ho sakte hain.
-- **B (Incorrect):** Immediate restriction reversible cause ignore karti hai.
-- **C (Incorrect):** Convenience sedation appropriate treatment nahi hai.
-- **D (Incorrect):** Communication remove karna fear badha sakta hai.
+<!-- job5-rationale -->
+Hearing aid battery depleted hone se patient instructions nahi samajh pa raha ho sakta hai aur frustration increase ho sakti hai. Pehle communication barrier correct karo, patient ko calmly orient karo aur actual needs assess karo. Appropriate hearing aid support se distress kam ho sakta hai without restricting movement. Agitation ka cause assume mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Hearing assistance restore karna modifiable trigger address karta hai.
+- **B:** Immediate hand restriction cause assess nahi karti.
+- **C:** Convenience sedation harmful aur unjustified ho sakti hai.
+- **D:** Communication aids remove karna barrier worsen karta hai.
+
+**Exam clue:** Correct reversible triggers before considering restriction.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -76,10 +92,18 @@ D. Restrict movement until discharge
 
 **Correct answer: C. Review the indication and arrange removal if no longer required**
 
-- **A (Incorrect):** Second IV unnecessary risk create kar sakta hai.
-- **B (Incorrect):** Past insertion ongoing necessity prove nahi karti.
-- **C (Correct):** Unneeded device remove karne se triggering risk eliminate ho sakta hai.
-- **D (Incorrect):** Discharge tak restriction justified nahi hai.
+<!-- job5-rationale -->
+Unnecessary IV device irritation, discomfort aur pulling behavior trigger kar sakti hai. Team current indication review kare aur authorized removal arrange kare if no longer needed. Essential access ko bina review remove nahi karna. Removing unnecessary treatment burden may eliminate reason for restraint and reduce other device risks.
+
+**Option-by-option reasoning**
+
+- **A:** Second IV extra discomfort aur risks add karti hai.
+- **B:** Earlier placement current indication prove nahi karti.
+- **C:** Review and authorized removal of unnecessary IV directly addresses trigger.
+- **D:** Discharge tak restriction clinical necessity ignore karti hai.
+
+**Exam clue:** Review whether the device is still needed.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -107,10 +131,18 @@ D. Assess and address physiological threats while arranging safe help
 
 **Correct answer: D. Assess and address physiological threats while arranging safe help**
 
-- **A (Incorrect):** Misconduct label underlying illness miss kar sakta hai.
-- **B (Incorrect):** Documentation urgent care delay nahi karni chahiye.
-- **C (Incorrect):** Hypoxia agitation cause kar sakti hai.
-- **D (Correct):** Oxygenation aur immediate safety assess karo, appropriate help arrange karo.
+<!-- job5-rationale -->
+New agitation hypoxia, delirium, pain, hypoglycemia ya other acute illness ka manifestation ho sakti hai. Known hypoxia urgent physiological concern hai. Patient safety maintain karte hue airway, breathing, circulation and consciousness assess karo, indicated treatment aur emergency help arrange karo. Behavioral label ke basis par underlying illness ignore mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Misconduct label physiological danger address nahi karta.
+- **B:** Routine records immediate safety se lower priority hain.
+- **C:** Psychiatric diagnosis hypoxia ka explanation automatically nahi.
+- **D:** Address physiological threats and summon appropriate support correct priority hai.
+
+**Exam clue:** Acute agitation may signal physiological deterioration.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -136,10 +168,18 @@ D. Standard indicated treatment for psychiatric illness
 
 **Correct answer: A. Sedating a patient solely to restrict movement for staff convenience**
 
-- **A (Correct):** Convenience ke liye movement restrict karna inappropriate chemical restraint ho sakta hai.
-- **B (Incorrect):** Insulin metabolic condition treat karta hai.
-- **C (Incorrect):** Analgesia pain treat karti hai.
-- **D (Incorrect):** Indicated treatment automatically restraint nahi hota.
+<!-- job5-rationale -->
+Chemical restraint concept medication ke purpose aur use par depend karta hai. Solely staff convenience ke liye movement restrict karne wali sedation clinically indicated treatment se different hai. Appropriate prescribed analgesia, insulin ya psychiatric treatment patient ki clinical need address kar sakte hain. Indication, dose, consent/authorization and monitoring applicable law and policy se verify karo. US terminology ko automatic Indian statutory definition mat samjho.
+
+**Option-by-option reasoning**
+
+- **A:** Convenience-only sedation inappropriate restrictive use illustrate karti hai.
+- **B:** Insulin glucose management ke liye indicated treatment hai.
+- **C:** Analgesia pain treat karti hai when appropriately prescribed.
+- **D:** Indicated standard psychiatric treatment automatically restraint nahi hai.
+
+**Exam clue:** Purpose and clinical justification matter.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -165,10 +205,18 @@ D. Instrument sterility
 
 **Correct answer: B. Respect for autonomy and dignity**
 
-- **A (Incorrect):** Yahan private laboratory result disclose nahi hua.
-- **B (Correct):** Punishment se patient ki autonomy aur dignity undermine hoti hai.
-- **C (Incorrect):** Dose calculation issue nahi hai.
-- **D (Incorrect):** Sterility is scenario se unrelated hai.
+<!-- job5-rationale -->
+Routine bath refusal par restraint ki threat coercion hai. Capable patient ki choices, privacy, bodily autonomy aur dignity respect karna nursing obligation hai. Refusal ka reason poochho, timing ya method modify karne ke options offer karo aur necessary care implications explain karo. Punishment ke liye restriction justified nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Laboratory confidentiality separate obligation hai.
+- **B:** Threat autonomy and dignity directly compromise karti hai.
+- **C:** Dose calculation is not the central ethical issue.
+- **D:** Instrument sterility is unrelated to coercion.
+
+**Exam clue:** Refusal is not a reason for punishment.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -194,10 +242,18 @@ D. A family signature is sufficient
 
 **Correct answer: C. Clinical necessity, alternatives and required authorization must be assessed**
 
-- **A (Incorrect):** Family preference clinical indication replace nahi karti.
-- **B (Incorrect):** Overnight admission alone indication nahi hai.
-- **C (Correct):** Patient-specific risk, less restrictive alternatives aur policy assess karo.
-- **D (Incorrect):** Signature alone legal aur clinical requirements fulfill nahi karta.
+<!-- job5-rationale -->
+Family safety concerns listen karna important hai, lekin request alone restraint authorization nahi hai. Nurse patient ki current condition, specific harm risk, alternatives aur applicable legal/clinical authorization assess karvati hai. Observation, toileting, orientation and other support needs review karo. Staffing or visitor absence alone restraint justify nahi karta.
+
+**Option-by-option reasoning**
+
+- **A:** Family request clinical and legal criteria replace nahi karti.
+- **B:** Overnight admission automatically restraint indicate nahi karta.
+- **C:** Necessity, alternatives and authorization assess karna correct hai.
+- **D:** Signature alone unjustified intervention ko appropriate nahi banati.
+
+**Exam clue:** Family request does not establish clinical necessity.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -223,10 +279,18 @@ D. Arrange prompt discontinuation according to protocol and reassess
 
 **Correct answer: D. Arrange prompt discontinuation according to protocol and reassess**
 
-- **A (Incorrect):** Order expiry maximum duration ho sakti hai, compulsory duration nahi.
-- **B (Incorrect):** Automatic renewal current need prove nahi karta.
-- **C (Incorrect):** Delay unnecessary restriction prolong karta hai.
-- **D (Correct):** Indication resolve ho toh earliest safe discontinuation karo.
+<!-- job5-rationale -->
+Restraint ongoing intervention hai jisme current indication repeatedly reassess hoti hai. Patient calm hai aur documented indication no longer meet hoti hai toh unnecessarily restriction continue nahi karna. Approved discontinuation procedure follow karo, patient condition reassess karo aur alternative safety plan maintain karo. Order expiry maximum permission ho sakti hai, minimum duration nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Order expiry tak continue karna unnecessary restriction hai.
+- **B:** Automatic renewal current indication ignore karta hai.
+- **C:** Next shift wait unjustified prolongation ho sakti hai.
+- **D:** Prompt safe discontinuation and reassessment correct hai.
+
+**Exam clue:** Stop as soon as clinically justified need ends.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -252,10 +316,18 @@ D. Assume expected discomfort
 
 **Correct answer: A. Promptly relieve restriction safely, assess perfusion and obtain urgent clinical review**
 
-- **A (Correct):** Neurovascular compromise possible hai, urgent assessment aur safe relief chahiye.
-- **B (Incorrect):** Delay ischemic injury worsen kar sakta hai.
-- **C (Incorrect):** Additional restriction harm badha sakti hai.
-- **D (Incorrect):** New coolness aur numbness normal nahi hain.
+<!-- job5-rationale -->
+Cool, swollen, numb hand neurovascular compromise ka warning sign hai. Restriction safely relieve karo according to immediate clinical safety needs, help summon karo aur distal circulation, sensation, movement, pain and swelling assess karo. Urgent clinician review arrange karo. Severe compromise ko routine observation tak postpone nahi karna.
+
+**Option-by-option reasoning**
+
+- **A:** Safe relief plus urgent neurovascular assessment correct hai.
+- **B:** Next round tak wait tissue injury risk badhata hai.
+- **C:** Additional restriction compromise worsen kar sakti hai.
+- **D:** New coolness, swelling and numbness expected discomfort nahi hain.
+
+**Exam clue:** Neurovascular change requires immediate assessment.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -281,10 +353,18 @@ D. Focus only on original behavioral indication
 
 **Correct answer: B. Activate emergency help and address airway and breathing, removing restrictive hazards safely**
 
-- **A (Incorrect):** Forms life-threatening care delay nahi karne chahiye.
-- **B (Correct):** Breathing compromise emergency hai, trained response aur safe release urgent hai.
-- **C (Incorrect):** Routine review ka wait unsafe hai.
-- **D (Incorrect):** New physiological threat original behavior se priority leti hai.
+<!-- job5-rationale -->
+Labored breathing aur reduced responsiveness potentially life-threatening deterioration hai. Emergency response activate karo aur airway, breathing, circulation assess karke indicated support initiate karo. Restrictive hazards trained safe process se remove karo without delaying resuscitation. Original behavioral concern secondary ho jata hai.
+
+**Option-by-option reasoning**
+
+- **A:** Monitoring form lifesaving response replace nahi karta.
+- **B:** Emergency help and airway/breathing priorities correct hain.
+- **C:** Routine review wait unsafe hai.
+- **D:** Behavioral indication focus acute physiological threat miss karta hai.
+
+**Exam clue:** ABC and emergency response before documentation.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -310,10 +390,18 @@ D. Avoid documenting device use
 
 **Correct answer: C. Detect pressure or friction injury early**
 
-- **A (Incorrect):** Blood group lab test se establish hota hai.
-- **B (Incorrect):** Skin finding psychiatric diagnosis prove nahi karti.
-- **C (Correct):** Pressure aur friction skin damage kar sakte hain, early detection helpful hai.
-- **D (Incorrect):** Documentation necessary hai.
+<!-- job5-rationale -->
+Device pressure aur friction skin barrier damage, redness, bruising ya pressure injury cause kar sakte hain. Skin beneath and around device inspect karo, circulation and comfort bhi assess karo. New skin changes document and act on karo, device necessity and safe fit review karo. Assessment frequency applicable protocol and patient condition se guided hai.
+
+**Option-by-option reasoning**
+
+- **A:** Blood group laboratory testing se establish hota hai.
+- **B:** Skin examination psychiatric diagnosis establish nahi karti.
+- **C:** Early pressure/friction injury detection correct purpose hai.
+- **D:** Device documentation still required hai.
+
+**Exam clue:** Skin and neurovascular monitoring are essential.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -339,10 +427,18 @@ D. Assess and meet elimination and hydration needs safely
 
 **Correct answer: D. Assess and meet elimination and hydration needs safely**
 
-- **A (Incorrect):** Unapproved fluid restriction harmful ho sakti hai.
-- **B (Incorrect):** Basic needs expiry tak postpone nahi karni chahiye.
-- **C (Incorrect):** Discomfort ignore karne se distress badh sakta hai.
-- **D (Correct):** Restriction ke dauran bhi hydration, elimination aur dignity maintain karo.
+<!-- job5-rationale -->
+Restraint patient ki basic needs ko cancel nahi karta. Toileting delay pain, agitation, skin damage aur loss of dignity cause kar sakta hai. Hydration, elimination, nutrition, comfort and movement needs assess karo aur required help safely provide karo. Medical fluid restrictions only authorized clinical plan se follow karo, convenience ke liye nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Withholding fluids without indication dehydration risk create karta hai.
+- **B:** Order expiry basic care defer karne ka reason nahi.
+- **C:** Discomfort tolerate karne ko kehna need neglect karta hai.
+- **D:** Safe elimination and hydration support correct hai.
+
+**Exam clue:** Restricted movement does not mean restricted basic care.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -368,10 +464,18 @@ D. Preference of incoming staff
 
 **Correct answer: A. Current behavior, immediate harm risk and response to alternatives**
 
-- **A (Correct):** Current risk aur alternatives ka response ongoing necessity evaluate karte hain.
-- **B (Incorrect):** Diagnosis alone dangerous behavior establish nahi karta.
-- **C (Incorrect):** Equipment age clinical justification nahi hai.
-- **D (Incorrect):** Staff preference valid indication nahi hai.
+<!-- job5-rationale -->
+Continued restraint justification current patient state par based hona chahiye. Specific behavior, immediate harm risk, underlying triggers aur attempted alternatives ka response review karo. If criteria no longer met, approved discontinuation follow karo. Diagnosis alone future behavior predict nahi karti.
+
+**Option-by-option reasoning**
+
+- **A:** Current risk and alternatives response directly necessity assess karte hain.
+- **B:** Admission diagnosis alone current harm risk prove nahi karti.
+- **C:** Equipment age clinical indication nahi.
+- **D:** Incoming staff preference restraint justification nahi.
+
+**Exam clue:** Reassess present necessity, not historical labels.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -397,10 +501,18 @@ D. Increase restriction without assessment
 
 **Correct answer: B. Assess immediately and escalate concerning findings**
 
-- **A (Incorrect):** New symptoms routine schedule ka wait nahi karte.
-- **B (Correct):** Current symptoms aur safety assess karo, help as indicated.
-- **C (Incorrect):** Previous normal findings current condition represent nahi karte.
-- **D (Incorrect):** Unassessed escalation harm increase kar sakti hai.
+<!-- job5-rationale -->
+New sweating and agitation pain, hypoglycemia, respiratory compromise, medication effect ya other deterioration ka cue ho sakta hai. Scheduled observation interval maximum routine check plan ho sakta hai, new symptom ko ignore karne ki permission nahi. Immediate assessment, indicated observations and escalation karo, restriction safety reassess karo.
+
+**Option-by-option reasoning**
+
+- **A:** Scheduled time tak wait acute problem miss kar sakta hai.
+- **B:** Immediate assessment and escalation correct hai.
+- **C:** Old observation copy karna current status misrepresent karta hai.
+- **D:** Assessment ke bina restriction increase cause worsen kar sakti hai.
+
+**Exam clue:** New symptoms override scheduled observation timing.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -426,10 +538,18 @@ D. Only the nurse's opinion
 
 **Correct answer: C. Specific behavior, alternatives tried, authorization, time and initial assessment**
 
-- **A (Incorrect):** Device name clinical need explain nahi karta.
-- **B (Incorrect):** Diagnosis alone current risk establish nahi karta.
-- **C (Correct):** Objective facts aur authorization decision traceable banate hain.
-- **D (Incorrect):** Opinion objective evidence replace nahi karti.
+<!-- job5-rationale -->
+Restraint documentation specific and factual honi chahiye. Indication ke actual behaviors, imminent risk, attempted alternatives and response, required authorization, start time, device/method and initial clinical status record karo. Ongoing monitoring, reassessment and discontinuation details later add karo. Applicable Indian law and institutional policy follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Device name alone clinical justification nahi batata.
+- **B:** Diagnosis alone specific current risk explain nahi karti.
+- **C:** Behavior, alternatives, authorization, time and assessment comprehensive initiation record hai.
+- **D:** Opinion alone objective evidence provide nahi karti.
+
+**Exam clue:** Document why, what, when, authorization and assessment.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -455,10 +575,18 @@ D. Indication, alternatives, authorization, recent observations, ongoing needs a
 
 **Correct answer: D. Indication, alternatives, authorization, recent observations, ongoing needs and release criteria**
 
-- **A (Incorrect):** Diagnosis alone current safety needs nahi batata.
-- **B (Incorrect):** Unplanned handover continuity compromise karta hai.
-- **C (Incorrect):** Expiry alone release criteria nahi batati.
-- **D (Correct):** Complete handover se receiving team timely reassessment aur safe care kar sakti hai.
+<!-- job5-rationale -->
+Transfer ke time receiving team ko current restraint indication, authorization status, less restrictive measures tried, monitoring findings, basic needs, complications and release criteria pata hona chahiye. Device and patient verify karo aur current necessity receiving team reassess kare. Transfer order expiry alone sufficient handover nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Diagnosis only active care needs omit karta hai.
+- **B:** Discovery par depend karna monitoring gap create karta hai.
+- **C:** Expiry time alone indication and patient status nahi batata.
+- **D:** Comprehensive handover ongoing assessment and release planning support karta hai.
+
+**Exam clue:** Handover must include current risk and release criteria.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -484,10 +612,18 @@ D. Avoid discussion
 
 **Correct answer: A. Acknowledge the experience, explain the rationale and invite concerns**
 
-- **A (Correct):** Respectful discussion trust aur dignity restore karne mein help karti hai.
-- **B (Incorrect):** Dismissal distress worsen kar sakta hai.
-- **C (Incorrect):** Punishment inappropriate hai.
-- **D (Incorrect):** Avoidance concern unresolved rakhti hai.
+<!-- job5-rationale -->
+Restraint distress, fear ya humiliation ka experience create kar sakti hai. Patient ki feeling acknowledge karo without judgment. Clear truthful explanation do, concerns listen karo aur care team ke saath triggers and preferences review karo. Explanation justification ke naam par patient's suffering dismiss nahi karni chahiye.
+
+**Option-by-option reasoning**
+
+- **A:** Empathy, explanation and invitation to discuss concerns therapeutic hain.
+- **B:** Forget it kehna experience dismiss karta hai.
+- **C:** Punishment framing inappropriate hai.
+- **D:** Avoidance trust aur recurrence prevention opportunity lose karti hai.
+
+**Exam clue:** Acknowledge distress and support recovery.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -513,10 +649,20 @@ D. Reduce documentation
 
 **Correct answer: B. Address staffing and processes, review necessity and strengthen alternatives**
 
-- **A (Incorrect):** More devices underlying problem address nahi karte.
-- **B (Correct):** System risks aur unnecessary restriction dono address karo.
-- **C (Incorrect):** Longer orders unjustified restriction prolong karte hain.
-- **D (Incorrect):** Reduced documentation accountability weaken karti hai.
+<!-- job5-rationale -->
+Staff shortage ke time restraint use system problem ka signal hai, automatic clinical indication nahi. Audit specific necessity, alternative support, staffing, training and response processes examine kare. Leadership adequate resources and least restrictive care strengthen kare. Indian mental health establishment mein section 97(4) staff shortage alone ko basis banane se mana karta hai.
+
+**Option-by-option reasoning**
+
+- **A:** More devices underlying staffing/assessment gap resolve nahi karte.
+- **B:** Staffing, processes and alternatives address karna appropriate quality improvement hai.
+- **C:** All orders extend karna unnecessary restriction prolong karta hai.
+- **D:** Documentation reduce karna accountability undermine karta hai.
+
+**Exam clue:** Staff shortage is not a restraint indication.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#monitoring-and-documentation) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -542,10 +688,20 @@ D. Regular clinical observation
 
 **Correct answer: C. Seclusion or solitary confinement**
 
-- **A (Incorrect):** Supportive conversation appropriate care hai.
-- **B (Incorrect):** Psychiatric review care ka part hai.
-- **C (Correct):** Section 97 seclusion aur solitary confinement prohibit karta hai.
-- **D (Incorrect):** Regular observation safety support karti hai.
+<!-- job5-rationale -->
+India's Mental Healthcare Act 2017 section 97(1) person with mental illness ko seclusion ya solitary confinement mein rakhne se mana karta hai. Necessary physical restraint sirf specific immediate harm-prevention and psychiatrist authorization conditions mein allowed hai. General international textbook practices ko Indian law ke saath mix mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Supportive conversation nonrestrictive therapeutic care hai.
+- **B:** Psychiatric review necessary clinical assessment ho sakti hai.
+- **C:** Seclusion or solitary confinement section 97(1) ke under prohibited hai.
+- **D:** Regular clinical observation restraint monitoring ke context mein required bhi ho sakti hai.
+
+**Exam clue:** Section 97: no seclusion or solitary confinement.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -571,10 +727,20 @@ D. Psychiatrist in charge of the person's treatment
 
 **Correct answer: D. Psychiatrist in charge of the person's treatment**
 
-- **A (Incorrect):** Visitor statutory authority nahi rakhta.
-- **B (Incorrect):** Security staff psychiatrist authorization replace nahi karte.
-- **C (Incorrect):** Roommate clinical authority nahi rakhta.
-- **D (Correct):** Section 97 psychiatrist in charge ki authorization require karta hai.
+<!-- job5-rationale -->
+Section 97(1) mein physical restraint ke liye do conditions hain: imminent and immediate harm prevent karne ka only available means ho aur mental health establishment mein treatment in-charge psychiatrist authorize kare. Authorization alone sufficient nahi if clinical condition absent hai. Required recording and supervision follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Visitor statutory authorizer nahi.
+- **B:** Security supervisor alone statutory authorization fulfill nahi karta.
+- **C:** Roommate authorize nahi kar sakta.
+- **D:** Treatment in-charge psychiatrist section 97(1)(b) ke according authorizer hai.
+
+**Exam clue:** Section 97(1): necessity plus psychiatrist authorization.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -600,10 +766,20 @@ D. Restrain for convenience
 
 **Correct answer: A. Do not use restraint for deterrence, assess and use appropriate alternatives**
 
-- **A (Correct):** Deterrence prohibited hai aur immediate harm prevention ke liye necessity establish honi chahiye.
-- **B (Incorrect):** Apology tak restriction punishment hai.
-- **C (Incorrect):** Verbal anger alone statutory threshold establish nahi karta.
-- **D (Incorrect):** Convenience lawful justification nahi hai.
+<!-- job5-rationale -->
+Section 97(4) restraint ko punishment ya deterrence ke form mein prohibit karta hai. Sirf verbal anger, without imminent immediate harm, given statutory necessity fulfill nahi karti. Nurse calm communication, de-escalation, trigger assessment and safe observation arrange kare. Clinical deterioration ya changing risk ho toh reassess promptly.
+
+**Option-by-option reasoning**
+
+- **A:** Deterrence avoid karna and alternatives assess karna statutory principle match karta hai.
+- **B:** Apology tak restraint punishment hai.
+- **C:** Verbal anger alone statutory immediate harm criterion establish nahi karti.
+- **D:** Convenience restraint justification nahi hai.
+
+**Exam clue:** Never use restraint as punishment or deterrence.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -629,10 +805,20 @@ D. At discharge only
 
 **Correct answer: B. Twenty-four hours**
 
-- **A (Incorrect):** Seven days legal period se zyada hai.
-- **B (Correct):** Section 97(5) 24 hours specify karta hai.
-- **C (Incorrect):** Monthly report Board ke liye separate requirement hai.
-- **D (Incorrect):** Discharge tak delay statutory timing meet nahi karta.
+<!-- job5-rationale -->
+Section 97(5) nominated representative ko every restraint instance ke baare mein twenty-four hours ke andar inform karne ki requirement deta hai. Yeh notification deadline hai, permitted restraint duration nahi. Start/end time, clinical justification and communication record applicable process se maintain karo.
+
+**Option-by-option reasoning**
+
+- **A:** Seven days prescribed notification period nahi hai.
+- **B:** Twenty-four hours correct statutory deadline hai.
+- **C:** Thirty days deadline se far beyond hai.
+- **D:** Discharge-only notification required time limit miss kar sakti hai.
+
+**Exam clue:** 24 hours = nominated representative notification.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -658,10 +844,20 @@ D. Every five years
 
 **Correct answer: C. Monthly**
 
-- **A (Incorrect):** Annual frequency prescribed nahi hai.
-- **B (Incorrect):** All instances report honi chahiye, only injury events nahi.
-- **C (Correct):** Section 97(7) monthly report specify karta hai.
-- **D (Incorrect):** Five years statutory timing se inconsistent hai.
+<!-- job5-rationale -->
+Section 97(7) mental health establishment ko concerned Board ke monthly report mein all restraint instances include karne ko kehta hai. Injury present hona reporting prerequisite nahi. Individual event notes and nominated representative notification separately required hain. Monthly reporting oversight and accountability support karti hai.
+
+**Option-by-option reasoning**
+
+- **A:** Annual frequency statutory monthly requirement match nahi karti.
+- **B:** Only injury cases report karna all instances omit karta hai.
+- **C:** Monthly report correct hai.
+- **D:** Five-year period statutory frequency nahi hai.
+
+**Exam clue:** Monthly = Board report of all instances.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -687,10 +883,20 @@ D. Do not prolong restraint beyond absolute necessity
 
 **Correct answer: D. Do not prolong restraint beyond absolute necessity**
 
-- **A (Incorrect):** Fixed 24-hour duration law prescribe nahi karta.
-- **B (Incorrect):** Convenience prohibited ground hai.
-- **C (Incorrect):** Family arrival clinical duration decide nahi karti.
-- **D (Correct):** Section 97(2) necessity-based duration require karta hai.
+<!-- job5-rationale -->
+Section 97(2) physical restraint duration ko immediate significant harm risk prevent karne ke liye absolutely necessary period tak limit karta hai. Risk resolved hone par prompt safe discontinuation appropriate hai. Fixed duration, convenience ya family arrival ka wait justification nahi. Ongoing assessment and documentation required hain.
+
+**Option-by-option reasoning**
+
+- **A:** 24 hours notification deadline se confused ho sakta hai, restraint duration nahi.
+- **B:** Convenience prolongation unjustified hai.
+- **C:** Family arrival clinical necessity ka substitute nahi.
+- **D:** Absolute necessity se beyond restraint prolong nahi karna correct hai.
+
+**Exam clue:** Shortest necessary duration, not fixed time.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -716,10 +922,20 @@ D. Required before assessment
 
 **Correct answer: A. It is prohibited**
 
-- **A (Correct):** Section 95 chaining prohibit karta hai.
-- **B (Incorrect):** Bed shortage prohibition override nahi karti.
-- **C (Incorrect):** Visitor signature prohibited practice authorize nahi karta.
-- **D (Incorrect):** Assessment chaining require nahi karti.
+<!-- job5-rationale -->
+Mental Healthcare Act section 95(1)(d) persons with mental illness ko chain karne par prohibition specify karta hai. Bed shortage ya family signature prohibition remove nahi karte. Safe care, assessment and rights-respecting alternatives use karna chahiye. Is prohibited procedure ko section 97 ke limited authorized physical restraint conditions ke saath confuse mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Chaining prohibited hai.
+- **B:** Bed unavailability exception establish nahi karti.
+- **C:** Visitor signature prohibition override nahi karta.
+- **D:** Chaining assessment prerequisite nahi hai.
+
+**Exam clue:** Section 95: chaining prohibited.
+
+[Official India Code Act, sections 95 and 97, printed pages 40–41](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#indian-mental-healthcare-law) · [Reference](https://indiankanoon.org/doc/14507371/)
 
@@ -745,10 +961,18 @@ D. Visitor count
 
 **Correct answer: B. Episode duration distribution and patient-level exposure**
 
-- **A (Incorrect):** Bed count duration pattern nahi batata.
-- **B (Correct):** Duration distribution aur individual exposure repeated or prolonged restriction identify karte hain.
-- **C (Incorrect):** Signatures clinical exposure quantify nahi karti.
-- **D (Incorrect):** Visitor count direct measure nahi hai.
+<!-- job5-rationale -->
+Episode count frequency measure karta hai, duration separate burden measure hai. Given 36 hours divided by 12 episodes gives mean 3 hours per episode, lekin mean se longest duration ya same patient repeated exposure pata nahi chalta. Duration distribution, total exposure and patient-level data review karo. Definitions consistent rakho.
+
+**Option-by-option reasoning**
+
+- **A:** Bed count exposure duration identify nahi karta.
+- **B:** Episode duration distribution and patient-level exposure brief vs prolonged use clarify karte hain.
+- **C:** Staff signatures time burden measure nahi karti.
+- **D:** Visitors restraint duration explain nahi karte.
+
+**Exam clue:** Mean duration 3 hours, but inspect distribution too.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -774,10 +998,18 @@ D. Stop recording duration
 
 **Correct answer: C. Review frequency, total duration, injuries and use of alternatives together**
 
-- **A (Incorrect):** Episode count prolonged use miss kar sakta hai.
-- **B (Incorrect):** Harm eliminated hone ka evidence nahi hai.
-- **C (Correct):** Multiple measures balanced assessment support karte hain.
-- **D (Incorrect):** Duration omit karna important safety information lose karta hai.
+<!-- job5-rationale -->
+Count half hone par bhi long episodes increase ho sakte hain. Quality evaluation frequency, total hours, duration distribution, patient-level exposure, injuries, alternative interventions and patient outcomes combine kare. Reporting completeness and denominator check karo. Single count improvement declare karne se actual burden hide ho sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Count alone incomplete evidence hai.
+- **B:** Harm eliminated hone ka proof nahi diya hai.
+- **C:** Multiple measures and alternatives combined review best hai.
+- **D:** Duration recording stop karna prolonged use hide karta hai.
+
+**Exam clue:** Fewer episodes do not necessarily mean less restriction.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -803,10 +1035,18 @@ D. Clinical purpose, actual restriction and applicable device policy
 
 **Correct answer: D. Clinical purpose, actual restriction and applicable device policy**
 
-- **A (Incorrect):** Color purpose decide nahi karta.
-- **B (Incorrect):** Insurance classification establish nahi karti.
-- **C (Incorrect):** Supply location function nahi batata.
-- **D (Correct):** Therapeutic indication aur movement effect ke according device policy apply karo.
+<!-- job5-rationale -->
+Fracture immobilization clinical healing and alignment support ke purpose se prescribed ho sakti hai. Therapeutic device classification actual effect, intended treatment and applicable policy par depend karta hai. Skin, circulation and patient comfort monitor karo, prescribed immobilization independently alter mat karo. Therapeutic support ko behavior control se distinguish karo.
+
+**Option-by-option reasoning**
+
+- **A:** Color clinical purpose establish nahi karta.
+- **B:** Insurance status classification decide nahi karti.
+- **C:** Supplying ward effect establish nahi karta.
+- **D:** Clinical purpose, actual restriction and policy relevant factors hain.
+
+**Exam clue:** Therapeutic immobilization and behavioral restraint are distinct.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -832,10 +1072,18 @@ D. Record only end time
 
 **Correct answer: A. Review triggers with the patient and team, revise prevention and monitor response**
 
-- **A (Correct):** Trigger review aur shared plan prevention strengthen karte hain.
-- **B (Incorrect):** Current cooperation mein automatic restart unjustified hai.
-- **C (Incorrect):** Patient involvement dignity aur prevention support karta hai.
-- **D (Incorrect):** End time important hai but alone prevention plan nahi.
+<!-- job5-rationale -->
+Restraint discontinuation ke baad patient distress remain kar sakti hai even when immediate harm risk resolved hai. Supportive debriefing, trigger review, patient preferences, alternatives and staff response examine karo. Prevention plan revise karo and clinical response monitor karo. New restraint consideration requires fresh appropriate necessity assessment.
+
+**Option-by-option reasoning**
+
+- **A:** Shared trigger review and updated prevention plan recurrence risk address karte hain.
+- **B:** Automatic restart without current need unjustified hai.
+- **C:** Patient exclusion autonomy and useful feedback lose karta hai.
+- **D:** End time alone learning and prevention plan complete nahi karta.
+
+**Exam clue:** Debrief, revise prevention and reassess.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04C-Restraint-Safety.md#quality-improvement) · [Reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 
@@ -848,7 +1096,7 @@ D. Record only end time
 ## References and video mapping
 
 - [OpenStax Clinical Nursing Skills, 9.5](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices), general principles. US-specific rules are not universal Indian requirements.
-- [Mental Healthcare Act 2017 text](https://indiankanoon.org/doc/14507371/) · [India Code Act PDF](https://www.indiacode.nic.in/bitstream/123456789/15313/1/mental_healthcare_act%2C_2017.pdf), indexed text, PDF visual verification pending.
+- [Mental Healthcare Act 2017 text](https://indiankanoon.org/doc/14507371/) · [India Code Act PDF](https://www.indiacode.nic.in/bitstream/123456789/15313/1/mental_healthcare_act%2C_2017.pdf), indexed text of existing link. Additional official [India Code Act](https://www.indiacode.nic.in/bitstream/123456789/2249/1/A2017-10.pdf), printed pages 40–41 text and visual screenshots verified 27 November 2026 for sections 95 and 97.
 - Teaching Q1–18 and Q28–29: [Level Up RN — Fall Prevention and Restraints](https://www.youtube.com/watch?v=B54Y3q3DIrg), indexed metadata.
 - Related question practice Q1–18 and Q28–29: [NGN QOTW: Restraints](https://www.youtube.com/watch?v=TAf3VKwhT0g), NCLEX practice lead, channel and exact questions or timestamps not verified. US exam rules differ from Indian law.
 - Dedicated Indian law and NORCET-specific restraint MCQ video pending. Q19–25 use Act text. [Reported historical evidence](../Previous-Year-Questions/04C-Restraint-Reported-Evidence.md).
