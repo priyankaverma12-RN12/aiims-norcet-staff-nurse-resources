@@ -42,4 +42,4 @@ Cataract expansion: MCQs ea889f459afabfc07ed3157fed65f89c4747f5e3, notes 2175722
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0642-glaucoma. Scope glaucoma and retinal disorders, chapter-local files only. Expires 2026-11-27T07:12:00Z. -->
