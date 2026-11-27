@@ -791,7 +791,7 @@ Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic
 
 ### Q30. Which finding is consistent with a stage 2 pressure injury?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Full-thickness loss obscured by eschar
 - **B.** Intact skin with nonblanchable redness only
@@ -818,7 +818,7 @@ Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thicknes
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q2](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q2](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q2-which-finding-is-consistent-with-a-stage-2-pressure-injury)
 
 ### Q31. Which entry in an assessment record is subjective data?
 
@@ -918,7 +918,7 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 ### Q34. What is the purpose of a prescribed texture-modified diet in dysphagia?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Increase choking risk deliberately
 - **B.** Replace swallowing assessment permanently
@@ -945,7 +945,7 @@ Texture modification mein food ki consistency aur liquid ki thickness assessment
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q3](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q3](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q3-what-is-the-purpose-of-a-prescribed-texture-modified-diet-in-dysphagia)
 
 ### Q35. Which instruction is appropriate for a sublingual tablet specifically prescribed to dissolve under the tongue?
 
@@ -983,7 +983,7 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 
 ### Q36. A pressure injury exposes tendon and bone at its base. Which stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stage 4
 - **B.** Stage 3 without deeper structure exposure
@@ -1010,7 +1010,7 @@ Tendon muscle ko bone se jodta hai. Pressure injury mein tendon ya bone expose h
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q4](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q4](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q4-a-pressure-injury-exposes-tendon-and-bone-at-its-base-which-stage-is-consistent)
 
 ### Q37. A confused patient repeatedly attempts to stand after receiving a sedative. Which initial intervention is best?
 
@@ -1131,7 +1131,7 @@ Adult conventional CPR mein 30 compressions ke baad two breaths diye jaate hain.
 
 ### Q41. A bedbound patient has intact skin with persistent nonblanchable redness over the sacrum. Which pressure injury stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 Safdarjung Staff Nurse 28 February 2019 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Stage 2
 - **B.** Unstageable
@@ -1158,7 +1158,7 @@ Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q1](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q1](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q1-a-bedbound-patient-has-intact-skin-with-persistent-nonblanchable-redness-over-the-sacrum-which-pressure-injury-stage-is-consistent)
 
 ### Q42. Why must a simple oxygen face mask be used at an appropriate minimum flow specified by the device?
 
@@ -1307,7 +1307,7 @@ Checklist multiple safety details confirm karti hai. Isse preventable mismatch a
 
 ### Q47. A patient who is drowsy after sedation is scheduled for oral feeding. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use a straw regardless of swallowing plan
 - **B.** Reassess alertness and swallowing safety before offering food
@@ -1334,7 +1334,7 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q4](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q4](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q4-a-patient-who-is-drowsy-after-sedation-is-scheduled-for-oral-feeding-which-action-is-appropriate)
 
 ### Q48. Which response is most therapeutic when a newly bereaved person begins crying?
 
@@ -2976,7 +2976,7 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 ### Q105. A patient coughs repeatedly and develops a wet voice while drinking water after stroke. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop oral intake temporarily, assess airway and arrange swallowing evaluation
 - **B.** Give tablets with water before assessment
@@ -2999,11 +2999,11 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
-**Dedicated YouTube MCQ practice:** verification pending.
+**▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact scenario and playback pending. Direct open failed.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q2](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q2](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q2-a-patient-coughs-repeatedly-and-develops-a-wet-voice-while-drinking-water-after-stroke-what-should-the-nurse-do)
 
 ### Q106. Which position is commonly used to facilitate lumbar puncture when appropriate?
 
@@ -3112,7 +3112,7 @@ Low BP mein antihypertensive further hypotension cause kar sakti hai. Nurse curr
 
 ### Q111. A patient with impaired swallowing is about to receive a meal. Which position usually reduces aspiration risk when tolerated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 NORCET 9 Mains 27 September 2025 — related aspiration-prevention concept** · Legacy topic-bank reuse
 
 - **A.** Prone without assessment
 - **B.** Head-down tilt
@@ -3135,11 +3135,11 @@ Dysphagia ka matlab nigalne mein dikkat hai. Aspiration tab hoti hai jab food, s
 
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
-**Dedicated YouTube MCQ practice:** verification pending.
+**▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact question and playback pending. Direct open failed.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q1](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q1](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q1-a-patient-with-impaired-swallowing-is-about-to-receive-a-meal-which-position-usually-reduces-aspiration-risk-when-tolerated)
 
 ### Q112. Why should a urinary drainage system normally remain closed?
 
@@ -3341,7 +3341,7 @@ Nasal cannula nares mein oxygen deliver karti hai aur mouth relatively free reht
 
 ### Q120. A pressure injury has full-thickness skin loss with visible adipose tissue but no exposed fascia, muscle, tendon or bone. Which stage fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stage 1
 - **B.** Stage 2
@@ -3368,5 +3368,5 @@ Full-thickness skin loss mein epidermis aur dermis dono ki poori thickness damag
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q3](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q3](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q3-a-pressure-injury-has-full-thickness-skin-loss-with-visible-adipose-tissue-but-no-exposed-fascia-muscle-tendon-or-bone-which-stage-fits)
 
