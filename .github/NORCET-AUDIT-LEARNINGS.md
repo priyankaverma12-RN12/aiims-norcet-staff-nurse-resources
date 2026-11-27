@@ -86,3 +86,35 @@ File: Chapters/Respiratory-System/MCQs/Respiratory-Advanced-Topic-Wise-32.md. Be
 Clinical source search evidence: CDC TB infection control and drug adverse events https://www.cdc.gov/tb-healthcare-settings/hcp/infection-control/ and https://www.cdc.gov/tb/hcp/treatment/adverse-events.html, Merck pleural effusion https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pleural-effusion, CDC sepsis https://www.cdc.gov/sepsis/about/, Indian hemoptysis consensus https://pmc.ncbi.nlm.nih.gov/articles/PMC10289864/, BTS oxygen https://pmc.ncbi.nlm.nih.gov/articles/5531304/, nursing oxygen therapy https://www.ncbi.nlm.nih.gov/books/NBK596733/, ICU respiratory monitoring https://pmc.ncbi.nlm.nih.gov/articles/PMC3681336/, AARC suction https://pubmed.ncbi.nlm.nih.gov/35078900/ and ventilator assessment https://pmc.ncbi.nlm.nih.gov/articles/PMC11298231/, capnography https://www.ncbi.nlm.nih.gov/books/NBK482169/. Video search metadata supports topic-level practice: https://www.youtube.com/watch?v=_dOjXZ6vCck and https://www.youtube.com/watch?v=_ETf-t1W-sQ. No exact historical matches, transcripts or timestamps independently confirmed. Dedicated pleural criteria, hemoptysis, suction and pressure interpretation question-solving videos pending. Exact syllabus depth and semantic duplication across banks remain pending.
 
 Prevention: distinguish expected effects from toxicities, urgent assessment from routine care, physiologic assumptions from definitive diagnosis. Advanced diagnostic/critical care details should be enrichment unless exam evidence establishes required depth. Never equate clinical correctness to verified historical exam appearance. Initial checkpoint write conflict 409 resolved by rereading all claims and retrying without force. All 32 questions now have expanded rationales and priority labels, but full exam provenance and curriculum certification incomplete. Next: Respiratory-Clinical-Mock-20.md Q1 onward, then other respiratory banks and full mocks, concepts and PYQs. Audit every item, keep existing solved status.
+
+
+## 2026-11-27 — Respiratory clinical mock 20 corrective audit
+
+File: Chapters/Respiratory-System/MCQs/Respiratory-Clinical-Mock-20.md. Before blob e9965f0b3869926a88d0b9ad3ecc839b0f561241, after b66ce0970953625459e2c5fa2003801df5ce89e0. Verified commit 0fc524ca064a6358bae9ba0aae099c11d6264a18. All 20 original questions and keys retained, 20 full correct and distractor rationales expanded, 9 difficulty labels recalibrated, one compact color-coded difficulty/priority line per question. All 20 hidden answer blocks preserved. No new authorship count. Exact normalized stems unique within this mock and no exact overlap with 32 advanced questions. Cross-bank semantic review remains incomplete, especially shared emergency themes (asthma and sepsis), which test different clinical clues but require comparison with other banks.
+
+| Q | Key | Difficulty | Question-level audit finding |
+|---|---|---|---|
+|1|B|Medium|Tension pneumothorax: urgent ABC and escalation, avoid imaging delay.|
+|2|A|Easy|Drain below insertion site, no routine clamping.|
+|3|D|Medium|Stable postoperative atelectasis: pain control, lung expansion and early mobility.|
+|4|C|Medium|PE shock mechanism and emergency escalation.|
+|5|C|Medium|Speech limitation in asthma is a severity clue, urgent rescue care.|
+|6|B|Difficult|Predicted weight lung-protective ventilation, critical care enrichment.|
+|7|A|Easy|OSA CPAP splints upper airway, no official historical match.|
+|8|D|Medium|Flail chest fatigue needs respiratory support assessment.|
+|9|D|Easy|Aspiration/dysphagia lung abscess risk, symptoms not definitive diagnosis.|
+|10|C|Difficult|Shunt physiology with severe consolidation, enrichment, distinguish V/Q mismatch.|
+|11|B|Medium|Spacer one actuation at a time, device-specific technique.|
+|12|A|Difficult|Alkalemia decreases ionized calcium, enrichment.|
+|13|A|Medium|Re-expansion edema possible, assess competing complications.|
+|14|D|Easy|Oxygen fire safety, no petroleum products freely.|
+|15|C|Medium|Continuous water-seal bubbling suggests air leak; not same as suction chamber.|
+|16|B|Medium|Negative TB smear does not rule out disease.|
+|17|B|Medium|Sepsis perfusion signs, lactate alone not definitive.|
+|18|A|Medium|SBT readiness not equivalent to extubation readiness.|
+|19|D|Easy|Phrenic C3–5 recall, not difficult.|
+|20|C|Medium|Chronic pulmonary pressure load and right heart failure.|
+
+Sources: BTS pleural statement https://thorax.bmj.com/content/78/Suppl_3/s43; AARC guideline index https://www.aarc.org/resource/clinical-practice-guidelines/; Merck shock, lung abscess, respiratory alkalosis and ARDS references; OpenStax nursing chapters 11, 27, 35 and clinical skills 26; CDC TB diagnosis https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html; SCCM 2026 sepsis guidelines https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026; GINA 2026 strategy landing page; Asthma + Lung UK inhaler technique and MedlinePlus oxygen safety. Evidence largely retrieved search extracts, not comprehensive full-text validation of all sources. CPAP mechanism Q7 and cor pulmonale Q20 clinical keys reviewed but dedicated external source depth pending. Official NORCET 10 notice search extract states essential qualification nursing syllabus and case scenarios, not item-level syllabus endorsement. AARC PDF search extracts consulted, full PDF not inspected. Q6,10,12 marked enrichment. NORCET 7 2024 reported Q59 CPAP concept search result and 2025 reported water-seal air leak search result are leads only, latter direct retrieval failed. No official keys or exact matches authenticated. Video descriptions Aarogyam Part 25 and Iram Fatima verified at search level, PE chapter timestamp 29:26 published, playback and transcripts not verified. Dedicated video gaps remain. No new PYQ questions added without verified source and duplicate audit.
+
+Prevention: use one colored metadata row, never repeat existing tags. Distinguish SBT and extubation readiness, clinical association and definitive diagnosis, water seal and suction chamber, severity recognition and clinician-authorized procedure. Avoid calling simple recall Difficult. Next: Respiratory Day-01 MCQ bank Q1 onwards, then remaining banks, full mocks, concepts, PYQs and cross-bank coverage. 52 clinical rationale reviews cumulatively across advanced bank and clinical mock, not full chapter certification.
