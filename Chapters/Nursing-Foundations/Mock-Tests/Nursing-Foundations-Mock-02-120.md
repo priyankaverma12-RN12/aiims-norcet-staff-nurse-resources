@@ -50,7 +50,7 @@ Nursing outcome patient mein expected change ko describe karta hai. SMART ka mat
 
 ### Q2. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lift with one hand while reaching across the body
 - **B.** Keep knees rigid while bending from the waist
@@ -77,7 +77,7 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q5](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q5](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q5-which-body-mechanics-technique-reduces-spinal-strain-when-moving-an-object-within-safe-lifting-limits)
 
 ### Q3. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
@@ -191,7 +191,7 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 ### Q6. When adjusting a walker for a patient, which finding generally indicates a suitable handgrip height?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Slight elbow flexion while standing upright with hands on the grips
 - **B.** Grips at eye level
@@ -214,11 +214,11 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q7](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q7](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q7-when-adjusting-a-walker-for-a-patient-which-finding-generally-indicates-a-suitable-handgrip-height)
 
 ### Q7. Which bed-making action reduces airborne dispersal of microorganisms from used linen?
 
@@ -409,7 +409,7 @@ Marked pain aur bleeding mucosal injury ya other complication suggest kar sakte 
 
 ### Q13. Which practice helps prevent urethral traction from an indwelling catheter?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use an appropriate securement device and allow adequate slack
 - **B.** Attach the tubing tightly so the catheter pulls during movement
@@ -439,7 +439,7 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q5](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q5](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q5-which-practice-helps-prevent-urethral-traction-from-an-indwelling-catheter)
 
 ### Q14. What is the purpose of a closed suction surgical drain?
 
@@ -1494,7 +1494,7 @@ Safe home care ke liye practical skill important hai. Nurse teach-back, demonstr
 
 ### Q54. A patient requires maximal assistance and cannot bear weight. Which transfer method is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Attempt an unsupported stand-pivot transfer
 - **B.** Have the patient hold the nurse's neck for support
@@ -1517,11 +1517,11 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q6](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q6](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q6-a-patient-requires-maximal-assistance-and-cannot-bear-weight-which-transfer-method-is-safest)
 
 ### Q55. What is the purpose of the Z-track technique for selected IM medications?
 
@@ -1897,7 +1897,7 @@ Denture drop hone par break ho sakti hai. Lined basin aur labeled storage accide
 
 ### Q70. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 NORCET 20 November 2021 Shift II — related reported concept** · Legacy topic-bank reuse
 
 - **A.** From fluid used to wash the patient's skin
 - **B.** By disconnecting the tubing at any point
@@ -1926,7 +1926,7 @@ Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urin
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q6](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q6](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q6-a-urine-culture-is-ordered-for-a-patient-with-an-existing-indwelling-catheter-where-should-a-fresh-specimen-usually-be-obtained)
 
 ### Q71. Which method best supports independence in a patient with limited hand strength during feeding?
 
@@ -2363,7 +2363,7 @@ Access barrier treatment interruption cause kar sakta hai. Nurse social work, ph
 
 ### Q88. A patient has unilateral leg weakness and is learning to walk with a cane. In which hand is the cane usually held?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The hand on the weaker side in all cases
 - **B.** Either hand without evaluating gait
@@ -2386,11 +2386,11 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**▶️ [YouTube MCQ practice — cane ambulation, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=4178s)** · Published question chapter 1:09:38, 24 November 2024. Topic-level only, exact item and playback pending.
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q8](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q8](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q8-a-patient-has-unilateral-leg-weakness-and-is-learning-to-walk-with-a-cane-in-which-hand-is-the-cane-usually-held)
 
 ### Q89. Which IV fluid is conventionally compatible with standard red-cell administration, subject to blood bank policy?
 
@@ -2596,7 +2596,7 @@ Tubing continuous pressure aur friction create kar sakti hai. Skin inspection au
 
 ### Q98. A patient has an indwelling catheter solely because of a now-resolved short-term indication. What is the best next step?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Replace it with a larger catheter regardless of need
 - **B.** Clamp it indefinitely to test bladder strength
@@ -2626,7 +2626,7 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q8](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q8](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q8-a-patient-has-an-indwelling-catheter-solely-because-of-a-now-resolved-short-term-indication-what-is-the-best-next-step)
 
 ### Q99. Which nursing theory primarily emphasizes therapeutic nurse-patient interpersonal relationships?
 
@@ -2862,7 +2862,7 @@ Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse
 
 ### Q107. Which approach is appropriate for routine meatal hygiene in a catheterized patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Avoid all perineal cleaning
 - **B.** Use abrasive brushes on the urethral opening
@@ -2892,7 +2892,7 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q7](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q7](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q7-which-approach-is-appropriate-for-routine-meatal-hygiene-in-a-catheterized-patient)
 
 ### Q108. A postoperative patient is due to ambulate, but reports unilateral calf pain and new swelling. Which plan is safest?
 
