@@ -752,9 +752,20 @@ Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho 
 
 **Correct: B. Intravenous**
 
-IV route medicine ko directly vein mein deliver karta hai. Onset rapid ho sakta hai, isliye correct dose aur monitoring especially important hain.
+<!-- job5-rationale -->
+IV route medicine ko venous blood mein directly deliver karti hai. Absorption step bypass hota hai, isliye effect aur adverse reaction rapidly occur kar sakte hain. Dose, dilution, rate aur compatibility verify karo.
 
-**Baaki options kyun sahi nahi hain?** Intradermal skin layer mein, oral mouth se aur topical body surface par drug apply hoti hai.
+**Option-by-option reasoning**
+
+- **A:** Intradermal injection dermis mein hota hai.
+- **B:** Intravenous route directly venous circulation mein jaati hai.
+- **C:** Topical route body surface par apply hoti hai.
+- **D:** Oral medicine gastrointestinal tract se absorb hoti hai.
+
+**Exam clue:** IV bypasses absorption.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -814,9 +825,20 @@ Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se
 
 **Correct: B. Check with the pharmacist or prescriber for a suitable alternative formulation**
 
-Extended-release tablet medicine slowly release karne ke liye designed ho sakti hai. Crushing se dose ek saath release ho sakti hai. Alternative formulation verify karna important hai.
+<!-- job5-rationale -->
+Extended-release tablet medicine ko gradually release karne ke liye designed hoti hai. Crushing se kuch products mein dose dumping, yani medicine ka bahut jaldi release, ho sakta hai. Swallowing difficulty assess karke approved alternative formulation arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic crushing harmful ho sakti hai. Double dose unauthorized hai. Food mein hide karna aspiration aur consent concern raise karta hai.
+**Option-by-option reasoning**
+
+- **A:** Next dose double karne se overdose ho sakta hai aur omission compensate karna reliable nahi hai.
+- **B:** Pharmacist/prescriber suitable liquid, alternative product ya route select karne mein help karte hain.
+- **C:** Intact tablet food mein hide karna dysphagia aur consent problems solve nahi karta.
+- **D:** Har extended-release tablet crush karna unsafe hai.
+
+**Exam clue:** Modified release ko routine crush mat karo.
+
+[Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -898,9 +920,20 @@ Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur outpu
 
 **Correct: D. Confirm tube-compatible formulation and administration guidance with pharmacy**
 
-Enteric coating stomach acid se protection ya delayed intestinal release provide kar sakti hai. Nurse formulation verify karti hai, kyunki crushing effect change kar sakti hai.
+<!-- job5-rationale -->
+Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti hai. Feeding tube ka tip kahan hai, tube size aur drug formulation matter karte hain. Pharmacy se compatibility confirm karke medicines separately administer aur prescribed flush plan follow karo.
 
-**Baaki options kyun sahi nahi hain?** Routine crushing unsafe ho sakti hai. Multiple drugs mixing incompatibility cause kar sakti hai. Oral product IV dena dangerous hai.
+**Option-by-option reasoning**
+
+- **A:** Oral formulation ko IV line mein inject karna dangerous wrong-route error hai.
+- **B:** Multiple medicines ek syringe mein mix karne se incompatibility aur blockage ka risk hai.
+- **C:** Routine crushing enteric coating ka intended function destroy kar sakti hai.
+- **D:** Tube-compatible product aur technique verify karna correct action hai.
+
+**Exam clue:** Enteral route is not intravenous. Check formulation first.
+
+[Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-for-enteral-tube-administration/)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2896,9 +2929,20 @@ Intermittent fever mein temperature periodically normal range tak aa sakta hai. 
 
 **Correct: B. Dermis**
 
-Intradermal injection skin ki dermal layer mein small amount deliver karti hai. Certain diagnostic tests mein ye route use hota hai.
+<!-- job5-rationale -->
+Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial dermal tissue mein small amount deliver karta hai, jaise certain diagnostic tests. Product-specific technique follow karo.
 
-**Baaki options kyun sahi nahi hain?** IM muscle target karta hai. SC fat layer target karti hai. Bone marrow intraosseous access se related hai.
+**Option-by-option reasoning**
+
+- **A:** Skeletal muscle intramuscular route ka target hai.
+- **B:** Dermis intended intradermal tissue hai.
+- **C:** Bone marrow intraosseous access se related hai.
+- **D:** Subcutaneous fat SC route ka target hai.
+
+**Exam clue:** ID = dermis, SC = fat, IM = muscle.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
