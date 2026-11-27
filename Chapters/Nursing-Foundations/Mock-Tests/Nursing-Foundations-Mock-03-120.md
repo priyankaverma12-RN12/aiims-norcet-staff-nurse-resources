@@ -1248,9 +1248,19 @@ Unresponsive choking patient ko safe surface par CPR start karna hota hai. Mouth
 
 **Correct: B. Use a suitable gentle removal method according to skin and product guidance**
 
-Fragile skin mein aggressive removal skin tear cause kar sakti hai. Gentle technique skin barrier preserve karne mein help karti hai.
+Fragile skin mein skin layers easily separate ho sakti hain. Adhesive ko forcefully pull karne se epidermal stripping ya skin tear ho sakta hai. Product instructions ke hisaab se suitable gentle removal technique use karo, surrounding skin support karo aur approved adhesive remover consider karo. Skin condition aur allergy reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Scrubbing, unapproved solvent aur forceful peeling injury risk badhate hain.
+**Option-wise explanation:**
+- **A (Galat):** Rapid peeling se fragile surface skin lift ya tear ho sakti hai.
+- **B (Sahi):** Gentle product-appropriate removal mechanical damage kam kar sakti hai.
+- **C (Galat):** Unapproved solvent chemical irritation ya skin barrier damage cause kar sakta hai.
+- **D (Galat):** Vigorous scrubbing friction injury aur redness badha sakta hai.
+
+**Exam clue:** Support skin, remove adhesive gently according to product guidance.
+
+**Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -1269,9 +1279,19 @@ Fragile skin mein aggressive removal skin tear cause kar sakti hai. Gentle techn
 
 **Correct: B. Wrinkles can create localized pressure and friction**
 
-Uneven linen se skin par focal pressure aur friction ho sakti hai. Smooth dry surface comfort aur prevention mein help karti hai.
+Immobile patient apni position easily change nahi kar paata. Folded linen skin ke neeche uneven contact aur friction create kar sakta hai. Smooth, dry linen comfort improve karti hai aur avoidable local stress kam kar sakti hai. Yeh pressure-redistributing surface, skin assessment ya individualized repositioning ka replacement nahi hai.
 
-**Baaki options kyun sahi nahi hain?** Wrinkles pressure relief device nahi hain. Moisture aur skin assessment separately manage karni hain.
+**Option-wise explanation:**
+- **A (Galat):** Skin assessment zaroori rehti hai, chahe linen smooth ho.
+- **B (Sahi):** Uneven folds local mechanical stress aur friction contribute kar sakte hain.
+- **C (Galat):** Wrinkles har situation mein pressure distribution improve nahi karti hain.
+- **D (Galat):** Wrinkles moisture accumulation ko prevent nahi karti hain.
+
+**Exam clue:** Smooth linen supports comfort, not a substitute for repositioning.
+
+**Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
 
 </details>
 
@@ -1311,9 +1331,19 @@ DNAR order cardiac arrest ke waqt CPR decision address karta hai. Other treatmen
 
 **Correct: D. Apply a suitable moisturizer as appropriate**
 
-Moisturizer dry skin mein water loss reduce karne aur barrier support karne mein help karti hai. Product allergy aur clinical restrictions check karna chahiye.
+Skin barrier outer protective layer hai jo water loss aur irritant entry control karti hai. Dry skin mein suitable moisturizer moisture retention support kar sakta hai. Bathing ke baad skin gently dry karo aur assessed product apply karo. Allergy, wound location aur device instructions consider karo.
 
-**Baaki options kyun sahi nahi hain?** Harsh detergent dryness worsen kar sakta hai. Forceful massage bony prominence par injury risk badha sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Forceful rubbing bony prominences par fragile tissue damage kar sakti hai.
+- **B (Galat):** Harsh detergents natural surface oils remove karke dryness worsen kar sakte hain.
+- **C (Galat):** Dry skin ko suitable hydration support se benefit ho sakta hai. Blanket avoidance justified nahi hai.
+- **D (Sahi):** Suitable moisturizer dryness reduce aur barrier function support kar sakta hai.
+
+**Exam clue:** Gentle cleansing plus suitable moisturizer for dry intact skin.
+
+**Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2067,9 +2097,19 @@ Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani h
 
 **Correct: A. Maintain device security and avoid traction while repositioning**
 
-Linen change mein lines snag ya pull ho sakti hain. Nurse tubing trace karti hai aur repositioning ke dauran device alignment aur drainage maintain karti hai.
+Repositioning ke waqt IV line ya urinary catheter linen mein snag ho sakte hain. Traction yani khinchav insertion site injure kar sakta hai ya device dislodge kar sakta hai. Tubing trace karo, adequate slack aur securement maintain karo, aur urinary bag bladder se neeche aur floor se upar rakho. Patient movement aur device checks coordinate karo.
 
-**Baaki options kyun sahi nahi hain?** Routine disconnection infection risk badhati hai. Pulling aur inappropriate bag height unsafe hain.
+**Option-wise explanation:**
+- **A (Sahi):** Security, slack aur line checks repositioning ke dauran traction aur dislodgement prevent karne mein help karte hain.
+- **B (Galat):** Tubing ko pulling handle ki tarah use karna insertion site ko injure kar sakta hai.
+- **C (Galat):** Urinary drainage bag bladder se upar rakhna drainage compromise kar sakta hai.
+- **D (Galat):** Routine disconnection closed systems compromise kar sakti hai aur contamination ya therapy interruption ka risk badhati hai.
+
+**Exam clue:** Trace lines before moving, secure without traction.
+
+**Clinical reference:** [CDC CAUTI](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**YouTube MCQ practice lead:** [Bed Making & Safety Questions](https://www.youtube.com/watch?v=rD_VJjoezVs). Indexed description specifically mentions bed-making MCQs. Direct retrieval failed, creator and exact item/playback unverified.
 
 </details>
 
