@@ -1,6 +1,6 @@
-# 📝 Isolation care continuity and patient participation — 20 additional original MCQs
+# 📝 Isolation care continuity and patient participation — 30 additional original MCQs
 
-**Study-ready, unattempted.** Distinct bedside nursing applications of transmission precautions, emphasizing missed care, psychological support, family involvement and continuity. No additional legacy question allocation to this new topic. 20/30 initial target, do not pad with repeated IPC or communication items. Original practice, not historical exam questions. Use authorized local policies and disease-specific guidance.
+**Study-ready, unattempted.** Distinct bedside nursing applications of transmission precautions, emphasizing missed care, psychological support, family involvement and continuity. No additional legacy question allocation to this new topic. 30/30 initial numerical target. Original filename retained to preserve existing links. Original practice, not historical exam questions. Use authorized local policies and disease-specific guidance.
 
 ### Q1. A patient on contact precautions needs scheduled analgesia and an early pain reassessment. The nurse proposes postponing reassessment to the next medication round to conserve gowns. Which plan is best?
 
@@ -502,6 +502,258 @@ D. The absence of any visitor regardless of patient preference
 
 </details>
 
+### Q21. A patient under routine Contact Precautions asks whether all used meal plates must be discarded. The hospital has an approved mechanical dishwashing process and no special pathogen-specific restriction. Which response is best?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Use only disposable plates for every isolated patient
+B. Use reusable utensils processed through the approved dishwashing system
+C. Wash the plates in the patient's handwashing basin
+D. Send the used plates home unwashed
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Use reusable utensils processed through the approved dishwashing system**
+
+- **A (Incorrect):** Isolation alone disposable plates mandatory nahi banata. Unnecessary waste avoid karna chahiye.
+- **B (Correct):** Approved dishwasher mein detergent aur heat se routine dishware safely process hota hai. Special disease instructions hon toh woh follow karo.
+- **C (Incorrect):** Handwashing sink food utensil processing ke liye designated nahi hai.
+- **D (Incorrect):** Unwashed utensils contamination carry kar sakte hain.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q22. A patient on Droplet Precautions needs urgent diagnostic transport but cannot tolerate a mask because of respiratory distress. Which nursing decision is appropriate?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Delay urgent evaluation until the patient can tolerate the mask
+B. Force the mask tightly onto the patient
+C. Assess and support breathing, alert the transport and receiving teams, and arrange appropriate risk-based precautions
+D. Remove all precautions during transport
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Assess and support breathing, alert the transport and receiving teams, and arrange appropriate risk-based precautions**
+
+- **A (Incorrect):** Urgent care ko mask tolerance ke liye delay karna harmful ho sakta hai.
+- **B (Incorrect):** Force karne se distress worsen ho sakti hai. Clinical assessment zaroori hai.
+- **C (Correct):** Mask if tolerated guidance hai. Breathing needs address karke team ko alert karo aur safe transport precautions arrange karo.
+- **D (Incorrect):** Mask intolerance transmission risk eliminate nahi karti.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q23. A stable patient on Contact Precautions shares an approved room with another patient. Which instruction about the privacy curtain is accurate?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. It replaces hand hygiene between the patients
+B. It changes both patients to Airborne Precautions
+C. It means the two patients may share all personal items
+D. It helps limit inadvertent contact but does not replace required precautions
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. It helps limit inadvertent contact but does not replace required precautions**
+
+- **A (Incorrect):** Curtain hand hygiene ka substitute nahi hai.
+- **B (Incorrect):** Curtain airborne engineering control nahi hai.
+- **C (Incorrect):** Personal items share karne se indirect transmission ho sakti hai.
+- **D (Correct):** Physical separation aur curtain contact opportunities kam karte hain. Each patient ke liye required hygiene and protective measures continue rakho.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q24. A child admitted with suspected pertussis has a household visitor who reports a recent prolonged cough. What should occur before the visitor enters the ward?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Arrange appropriate symptom and exposure screening and follow the visitor restriction policy
+B. Permit entry because household members already share exposure
+C. Ask the visitor to wait in a crowded pediatric play area
+D. Assume the cough is noninfectious without assessment
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: A. Arrange appropriate symptom and exposure screening and follow the visitor restriction policy**
+
+- **A (Correct):** Household exposure aur symptoms pertussis risk indicate kar sakte hain. Staff screening aur clinical advice before entry essential hai.
+- **B (Incorrect):** Previous household contact visitor ko other vulnerable patients ke liye safe prove nahi karta.
+- **C (Incorrect):** Crowded area mein possible respiratory spread badh sakta hai.
+- **D (Incorrect):** Cough ka cause bina assessment establish nahi hota.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q25. A patient requires assistance with communication and brings a personally owned electronic tablet into an isolation room. What should guide its continued use?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Discard the device automatically
+B. Agree on safe individual use and a manufacturer-compatible cleaning plan under facility policy
+C. Share the tablet with other patients without processing
+D. Clean the device by immersing it in any available disinfectant
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Agree on safe individual use and a manufacturer-compatible cleaning plan under facility policy**
+
+- **A (Incorrect):** Automatic disposal unnecessary loss aur communication barrier create kar sakti hai.
+- **B (Correct):** Personal communication aid preserve karna patient participation support karta hai. Compatible approved cleaning se contamination risk manage karo.
+- **C (Incorrect):** Sharing unprocessed device indirect transmission cause kar sakta hai.
+- **D (Incorrect):** Immersion device damage kar sakti hai and electrical risk bhi ho sakta hai.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q26. An isolated patient with cognitive impairment repeatedly forgets the instructions for containing respiratory secretions. Which plan best supports adherence?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Label the patient as noncompliant and stop teaching
+B. Use restraints solely to enforce cough etiquette
+C. Provide supervised cues and accessible supplies, and review placement and protection needs with the team
+D. Assume a written notice is sufficient
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Provide supervised cues and accessible supplies, and review placement and protection needs with the team**
+
+- **A (Incorrect):** Memory difficulty intentional noncompliance nahi hai. Teaching adapt karna chahiye.
+- **B (Incorrect):** Routine restraint infection prevention ka appropriate substitute nahi hai.
+- **C (Correct):** Repeated simple cues, tissues and hand hygiene access support adherence. Placement aur staff protection risk ke according review karo.
+- **D (Incorrect):** Written notice alone cognitive impairment mein inadequate ho sakta hai.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q27. A patient asks staff not to display the full infectious diagnosis on a publicly visible door sign. Which response balances confidentiality and safety?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Remove all precaution signage immediately
+B. Write the entire medical history on the sign
+C. Tell other patients the diagnosis verbally
+D. Use the facility-approved sign conveying necessary precautions and share sensitive details securely with the care team
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: D. Use the facility-approved sign conveying necessary precautions and share sensitive details securely with the care team**
+
+- **A (Incorrect):** Sign removal staff aur visitors ko required measures se unaware chhod sakta hai.
+- **B (Incorrect):** Full medical history precaution instructions ke liye necessary nahi hai.
+- **C (Incorrect):** Unnecessary disclosure confidentiality breach ho sakti hai.
+- **D (Correct):** Necessary precautions visible rakho while diagnosis and private details authorized team ko securely communicate karo.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q28. A patient is clinically improving but the required isolation review has not yet occurred. Which action avoids unnecessary restriction without introducing infection risk?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Request a timely disease-specific review and retain indicated precautions until the authorized decision
+B. Stop precautions based on the patient's improved appetite
+C. Continue isolation indefinitely without review
+D. Ask the patient to decide when precautions should stop
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: A. Request a timely disease-specific review and retain indicated precautions until the authorized decision**
+
+- **A (Correct):** Regular review unnecessary duration reduce kar sakti hai. Clinical criteria and local authority ke decision tak required precautions continue karo.
+- **B (Incorrect):** Improved appetite infectious period end hone ka proof nahi hai.
+- **C (Incorrect):** Indefinite restriction without review avoidable psychosocial harm cause kar sakti hai.
+- **D (Incorrect):** Patient participation useful hai but discontinuation clinical criteria se guided hoti hai.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q29. During an isolation-care review, a nurse finds that a patient's physiotherapy session was missed because the therapist had not been trained in the required precautions. What should the nurse coordinate?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Cancel rehabilitation permanently
+B. Arrange trained staff and appropriate protection so the clinically indicated session can be rescheduled safely
+C. Send the patient to the therapy gym without notifying staff
+D. Ask the patient to perform all exercises alone despite needing assistance
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: B. Arrange trained staff and appropriate protection so the clinically indicated session can be rescheduled safely**
+
+- **A (Incorrect):** Rehabilitation need isolation ki wajah se automatically end nahi hoti.
+- **B (Correct):** Training gap resolve karke safe therapy restore karo. Session ki clinical urgency bhi consider karo.
+- **C (Incorrect):** Unplanned gym attendance exposure risk create kar sakti hai.
+- **D (Incorrect):** Unsupported exercises falls ya other injury cause kar sakti hain.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
+### Q30. A patient on isolation precautions is due to receive a hearing assessment. A reusable test accessory cannot be processed safely using the facility's available method. Which plan is best?
+
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+
+A. Use the unprocessed accessory for this patient only and return it to stock
+B. Disinfect it with a chemical not approved for that device
+C. Coordinate a compatible single-patient or safely processable alternative before the examination
+D. Omit the hearing assessment without informing the patient
+
+<details>
+<summary>✅ Sahi answer aur explanation dekho</summary>
+
+**Correct answer: C. Coordinate a compatible single-patient or safely processable alternative before the examination**
+
+- **A (Incorrect):** Return to stock without safe processing future patients expose kar sakta hai.
+- **B (Incorrect):** Unapproved chemical device damage kar sakta hai or ineffective ho sakta hai.
+- **C (Correct):** Appropriate alternative access to care preserve karta hai while preventing device-related transmission.
+- **D (Incorrect):** Examination omit karne se unmet need aur communication difficulty persist ho sakti hai.
+
+[Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+**YouTube MCQ practice: verification pending.**
+
+</details>
+
 ## ▶️ Teaching and practice evidence
 
-[RegisteredNurseRN isolation precautions](https://www.youtube.com/watch?v=vLq6B3Qjy98), indexed general teaching, not specific care-continuity question practice. [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), published 19:25 isolation case review, channel and actual question unverified. Supplementary general IPC lead only, none of these 20 specific questions has verified dedicated video practice. [Evidence gap register](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Full official exam evidence and semantic review pending.
+[RegisteredNurseRN isolation precautions](https://www.youtube.com/watch?v=vLq6B3Qjy98), indexed general teaching, not specific care-continuity question practice. [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), published 19:25 isolation case review, channel and actual question unverified. Supplementary general IPC lead only, none of these 30 specific questions has verified dedicated video practice. [Evidence gap register](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Full official exam evidence and semantic review pending.
+
+[Blueprint Nursing — NCLEX Prep: Isolations Precautions](https://www.youtube.com/watch?v=CIkbKuWUHwU), published practice-question chapter 03:32, actual question and applicability to specific bedside care items not verified. [Thatnursingprof — TYPES OF ISOLATION AND PPE](https://www.youtube.com/watch?v=lsoVrJcioFA), description invites answering questions, actual question contents not retrieved. Supplementary leads, not counted as confirmed specific question practice.
