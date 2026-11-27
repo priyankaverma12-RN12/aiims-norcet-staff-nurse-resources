@@ -266,7 +266,7 @@ Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish k
 
 ### Q10. A patient with acute unexplained unilateral calf swelling requests massage and heat. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume swelling is harmless if skin is intact
 - **B.** Avoid the requested treatment until possible thrombosis and other causes are assessed
@@ -293,7 +293,7 @@ DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unil
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q18](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q18](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q18-a-patient-with-acute-unexplained-unilateral-calf-swelling-requests-massage-and-heat-what-should-the-nurse-do)
 
 ### Q11. A metered-dose inhaler is used with a compatible spacer. Which instruction is generally correct?
 
@@ -331,7 +331,7 @@ Metered-dose inhaler ya MDI measured aerosol puff release karta hai. Compatible 
 
 ### Q12. Which response commonly occurs with suitable local superficial heat application?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Complete cessation of circulation
 - **B.** Immediate freezing of tissue
@@ -358,7 +358,7 @@ Suitable superficial heat local blood vessels ko widen kar sakti hai. Isse vasod
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q17](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q17](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q17-which-response-commonly-occurs-with-suitable-local-superficial-heat-application)
 
 ### Q13. Which practice is appropriate when using abbreviations in clinical documentation?
 
@@ -1618,7 +1618,7 @@ Antipyretic fever symptoms reduce kar sakti hai lekin cause treat nahi karti. Pe
 
 ### Q53. A patient reports pain reduced from 8/10 to 4/10 after treatment but remains unable to deep breathe. How should the nurse evaluate the intervention?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Automatically repeat every medication dose early
 - **B.** Assess both pain relief and functional goal achievement and revise the plan if needed
@@ -1645,7 +1645,7 @@ Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q19](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q19](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q19-a-patient-reports-pain-reduced-from-810-to-410-after-treatment-but-remains-unable-to-deep-breathe-how-should-the-nurse-evaluate-the-intervention)
 
 ### Q54. The final surgical count is incorrect. What is the appropriate nursing response?
 
@@ -1712,7 +1712,7 @@ Fatigue concentration aur recall affect kar sakti hai. Nurse essential safety in
 
 ### Q57. Which approach supports a patient experiencing persistent anxiety-related tension before sleep?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Offer relaxation breathing and discuss concerns while assessing underlying causes
 - **B.** Encourage rapid hyperventilation
@@ -1739,7 +1739,7 @@ Anxiety-related tension sleep onset difficult bana sakti hai. Gentle slow breath
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q20](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q20](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q20-which-approach-supports-a-patient-experiencing-persistent-anxiety-related-tension-before-sleep)
 
 ### Q58. A nurse calculates a dose of 1.2 mL and has a 1-mL syringe available. Which approach is most appropriate?
 
