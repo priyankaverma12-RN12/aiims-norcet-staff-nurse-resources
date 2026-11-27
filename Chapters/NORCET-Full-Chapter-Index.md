@@ -289,3 +289,8 @@ Current chapter inventory verified at 800 question slots across 20/30 topic grou
 ### Evidence reconciliation — HAI surveillance
 
 Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 554 Difficult. Concurrent update replaced the initial HAI question bank and published its concept guide. Both versions are in history, counted only once. Two distinct reported exam adaptations added (AIIMS 2018 and RRB 2026 historical timing consolidated, HSSC 2023 incidence). Total 53 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked 17/350. Next: CAUTI prevention. Official keys, video playback, individual-topic expansion and comprehensive semantic audit remain pending.
+
+
+### Continuation — CAUTI prevention
+
+40 original MCQs with hidden rationales, concept guide and diagram, three indexed videos including an Adda247 catheterization MCQ session with retrieved channel attribution, and one distinct retrieved RRB March 2026 reported question adaptation. Total 1,080 across 27/30 defined groups (507 Medium and 573 Difficult), 54 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending inventory reconciliation. Next: CLABSI and vascular device infection prevention. Official keys, full video playback, individual-topic expansion and comprehensive semantic duplicate audit remain pending.
