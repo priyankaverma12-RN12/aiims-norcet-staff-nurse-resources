@@ -11,3 +11,6 @@
 Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, state PSC/SSB/CHO and NHM exams. Record the exam, year, shift, paper or question number, exact evidence status and source link for each question. Write independently worded practice adaptations where verbatim reproduction is not permitted. Keep answers and complete conversational Hinglish explanations with each item. Dedicated teaching and MCQ video links need topic-specific verification.
 
 [Chapter](../README.md) · [Original questions](../MCQs/General-Knowledge-and-Aptitude-Topic-Wise-Starter-MCQs.md)
+
+
+[Number systems evidence](01-Number-Systems-Reported-Evidence.md): one distinct reported RRB concept family and two solved adaptations. Official keys pending.
