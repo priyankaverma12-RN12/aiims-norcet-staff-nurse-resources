@@ -32,7 +32,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -64,7 +66,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -96,14 +100,16 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient says the treatment plan seems overwhelming. The nurse replies, "You sound concerned about managing several new tasks." Which technique is most evident?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition · **🟣 NVS Staff Nurse 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -128,7 +134,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** 🟣 Same tested concept only — [NVS Staff Nurse September 2019 third-party report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reflection/clarification concept. Not an exact historical question or official key.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -160,7 +168,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -192,7 +202,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -224,7 +236,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -256,7 +270,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -288,7 +304,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**YouTube MCQ practice: verification pending** — specific accessibility, telehealth or privacy scenario not established. [Supplementary general communication MCQs](https://www.youtube.com/watch?v=rugVZApzrjM) (description indexed, specific scenario coverage unverified).
 <!-- /job4-metadata -->
 </details>
 
@@ -320,7 +338,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**YouTube MCQ practice: verification pending** — specific accessibility, telehealth or privacy scenario not established. [Supplementary general communication MCQs](https://www.youtube.com/watch?v=rugVZApzrjM) (description indexed, specific scenario coverage unverified).
 <!-- /job4-metadata -->
 </details>
 
@@ -352,7 +372,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -384,7 +406,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -416,7 +440,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -448,7 +474,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -480,7 +508,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -512,7 +542,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -544,7 +576,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -576,7 +610,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -608,7 +644,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#professional-relationship) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication and nurse–patient relationship](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description supports communication techniques, barriers, relationship and case-based MCQs; exact item, channel and playback pending. Not historical NORCET 11 evidence.
 <!-- /job4-metadata -->
 </details>
 
@@ -640,7 +678,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**YouTube MCQ practice: verification pending** — specific accessibility, telehealth or privacy scenario not established. [Supplementary general communication MCQs](https://www.youtube.com/watch?v=rugVZApzrjM) (description indexed, specific scenario coverage unverified).
 <!-- /job4-metadata -->
 </details>
 
@@ -672,7 +712,9 @@
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
-**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication) · [NORCET 11 communication practice](https://www.youtube.com/watch?v=rugVZApzrjM) (topic indexed, playback and exact coverage pending).
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**YouTube MCQ practice: verification pending** — specific accessibility, telehealth or privacy scenario not established. [Supplementary general communication MCQs](https://www.youtube.com/watch?v=rugVZApzrjM) (description indexed, specific scenario coverage unverified).
 <!-- /job4-metadata -->
 </details>
 
