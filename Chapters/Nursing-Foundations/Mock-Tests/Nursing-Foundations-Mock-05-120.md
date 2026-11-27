@@ -918,7 +918,9 @@ Intervention nurse ya team ka planned action hai. Range-of-motion exercises assi
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q20](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q20-which-care-plan-statement-describes-an-intervention-rather-than-an-outcome) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q20](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q20-which-care-plan-statement-describes-an-intervention-rather-than-an-outcome)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -1899,7 +1901,9 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 
-**Topic-bank question:** [Q17](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q17-four-patients-need-assistance-which-patient-should-the-nurse-assess-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q17](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q17-four-patients-need-assistance-which-patient-should-the-nurse-assess-first)
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -2120,7 +2124,9 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q18](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q18-which-outcome-is-best-suited-to-evaluation-of-a-pressure-injury-prevention-plan) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q18](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q18-which-outcome-is-best-suited-to-evaluation-of-a-pressure-injury-prevention-plan)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -2364,7 +2370,9 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q19](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q19-a-postoperative-patient-has-pain-despite-the-prescribed-intervention-and-no-new-emergency-findings-which-next-step-is-most-appropriate) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q19](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q19-a-postoperative-patient-has-pain-despite-the-prescribed-intervention-and-no-new-emergency-findings-which-next-step-is-most-appropriate)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
