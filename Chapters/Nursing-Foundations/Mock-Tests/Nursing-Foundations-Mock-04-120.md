@@ -231,9 +231,20 @@ Net fluid balance intake minus output hai. 1800 minus 2100 = −300 mL. Unmeasur
 
 **Correct: B. Provide tissues or a suitable mask as tolerated and encourage hand hygiene**
 
-Respiratory hygiene secretions ko contain karne aur contaminated hands se spread reduce karne mein help karti hai.
+<!-- job5-rationale -->
+Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hone ko limit karna hai. Patient ko tissues, suitable mask as tolerated, hand hygiene aur appropriate separation provide karo. Suspected pathogen ke according additional precautions implement karo.
 
-**Baaki options kyun sahi nahi hain?** Direct coughing, shared tissues aur poor hand hygiene transmission badha sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Used tissues contaminated secretions carry kar sakte hain.
+- **B:** Tissues, source control mask aur hand hygiene spread reduce karte hain.
+- **C:** Secretions handle karne ke baad hand hygiene zaroori hai.
+- **D:** Doosre patients ki direction mein coughing exposure increase karti hai.
+
+**Exam clue:** Source control starts at first encounter.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1308,9 +1319,20 @@ Buccal medicine cheek ki inner mucosa se absorb hoti hai. Product ki dissolution
 
 **Correct: A. Maintain a sterile field and prevent contamination by microorganisms**
 
-Surgical asepsis sterile instruments aur field ko microorganisms se protect karne ka approach hai. Invasive procedures mein contamination avoid karna important hai.
+<!-- job5-rationale -->
+Surgical asepsis ka goal sterile field aur critical supplies ko contamination se protect karna hai. Sterile item ko sirf verified sterile item ya intended sterile field se contact karna chahiye. Agar break in technique ho toh patient contact se pehle correct karo.
 
-**Baaki options kyun sahi nahi hain?** Visible cleanliness sterility nahi hai. Hand hygiene still needed hai. Clean surfaces necessarily sterile nahi hain.
+**Option-by-option reasoning**
+
+- **A:** Sterile field maintain karna surgical asepsis ka main purpose hai.
+- **B:** Hand hygiene sterile technique ka essential preparation step hai.
+- **C:** Visible dust remove karna enough nahi hai kyunki microorganisms microscopic hote hain.
+- **D:** Clean surface necessarily sterile nahi hoti.
+
+**Exam clue:** Medical asepsis reduces spread, surgical asepsis maintains sterility.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1614,9 +1636,20 @@ Crimean War ke dauran Nightingale sanitation aur nursing organization reforms ke
 
 **Correct: A. Clean and disinfect the equipment using the approved method**
 
-Shared equipment microorganisms carry kar sakta hai. Approved cleaning aur disinfection next patient se pehle transmission risk kam karti hai.
+<!-- job5-rationale -->
+Shared equipment jaise BP cuff ya thermometer organisms ko ek patient se doosre tak carry kar sakta hai. Contact precautions mein dedicated equipment preferable hai. Agar share karna necessary ho toh compatible approved cleaning and disinfection process complete karo before next patient.
 
-**Baaki options kyun sahi nahi hain?** Visible cleanliness contamination exclude nahi karti. Glove cover processing replace nahi karta. Delayed disinfection unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Approved processing before reuse cross-transmission reduce karti hai.
+- **B:** Visible cleanliness microbial contamination exclude nahi karti.
+- **C:** Second patient ke baad disinfection karne se pehle hi transmission ho sakti hai.
+- **D:** Sterile glove cover proper reprocessing ka substitute nahi hai.
+
+**Exam clue:** Clean and disinfect between patients.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -2461,9 +2494,20 @@ Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. 
 
 **Correct: C. Do not use it as sterile and replace the package**
 
-Package integrity sterile contents ko environment se protect karti hai. Tear hone par contamination possible hai even if date valid hai.
+<!-- job5-rationale -->
+Sterile packaging microbial barrier hoti hai. Tear se organisms enter kar sakte hain even when expiration date valid ho. Package ko sterile use ke liye reject karo aur intact replacement lo. Facility event-related sterility aur manufacturer policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Date alone sterility guarantee nahi karti. Tape ya water original sterile barrier restore nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Valid date intact barrier ki requirement ko replace nahi karti.
+- **B:** Water package ko wet karke contamination risk aur badha sakta hai.
+- **C:** Torn package ko sterile treat nahi karna chahiye.
+- **D:** Ordinary tape original validated sterile seal restore nahi karti.
+
+**Exam clue:** Check integrity, moisture and expiry before opening.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
