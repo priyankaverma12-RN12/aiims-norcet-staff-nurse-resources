@@ -5,19 +5,19 @@
 | Section | Open |
 |---|---|
 | Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Original topic-wise questions | [1,001 original slots (600 initial + 401 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
+| Original topic-wise questions | [1,021 original slots (600 initial + 421 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
 | Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
 | Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | Video resources | [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
 
-424 Medium and 577 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+433 Medium and 588 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
 
 ## Revised individual-topic progress
 
-[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five of ten custom chapter mocks published, five remaining and full semantic audit pending. Next: reconcile remaining Group 05 allocations and cross-chapter Infection Control links.
+[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five of ten custom chapter mocks published, five remaining and full semantic audit pending. Next: finish distinct Group 05B isolation care gaps, then Group 06 medication safety.
 
 
 [Communication](Concepts/02A-Therapeutic-Communication.md) · [Documentation](Concepts/02B-Nursing-Documentation-and-Records.md) · [Handover](Concepts/02C-Clinical-Handover-and-Team-Communication.md). Group 02 three allocations of 30 each. Total five individual allocations met at initial numerical target.
@@ -43,3 +43,5 @@
 [Environmental and equipment safety](Concepts/04E-Environmental-and-Equipment-Safety.md): 30 allocated (26 new). [MCQs](MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md) · [Reported evidence](Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md). Five Group 04 numerical targets reached. Official keys, full clinical/semantic audit and dedicated video question verification pending.
 
 [Bedside sterile-field clinical judgment](Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md): 30 allocated (26 new). [MCQs](MCQs/05A-Bedside-Sterile-Field-Clinical-Judgment-26-MCQs.md) · [Reported AIIMS 2019 evidence](Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md). Sibling IPC banks linked without duplicate count. Dedicated question-video coverage and full audits pending.
+
+[Group 05 IPC allocation](Concepts/05-IPC-Cross-Chapter-Allocation.md): all 16 remaining legacy IDs reconciled, 15 sibling IPC references and Q18 reserved for catheter care. [Isolation care continuity](Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md): 20/30 partial initial target (20 new). [MCQs](MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) · [Historical evidence gaps](Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). No new counted reported adaptations. No duplicate sibling counts.
