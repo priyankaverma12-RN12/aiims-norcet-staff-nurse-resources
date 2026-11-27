@@ -6,9 +6,8 @@
 
 ### Q1. A stable patient reports a weight loss of 5 kg, but serial recorded weights show a decrease of only 1 kg. What should the nurse do before finalizing the assessment?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -39,9 +38,8 @@
 
 ### Q2. A patient is admitted with an established chronic illness. Which assessment best provides a baseline for subsequent individualized care?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@
 
 ### Q3. A stable inpatient reports a new localized skin itch following use of a different adhesive. Which assessment approach best matches this new complaint?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -105,9 +102,8 @@
 
 ### Q4. A patient with limited consciousness cannot provide a reliable history. Which approach to nursing assessment is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -138,9 +134,8 @@
 
 ### Q5. Which combination best supports an individualized nursing diagnosis rather than an unsupported assumption?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application
 <!-- /job4-metadata -->
 
 
@@ -171,9 +166,8 @@
 
 ### Q6. A nurse writes a care-plan problem as 'diabetes mellitus related to excessive thirst'. What is the main correction needed?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -204,9 +198,8 @@
 
 ### Q7. A patient wants to regain independence in dressing, while the nurse initially proposes a different functional goal. Which planning action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -237,9 +230,8 @@
 
 ### Q8. A care plan says the patient will drink adequate fluids by evening. Why should this outcome be revised?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -270,9 +262,8 @@
 
 ### Q9. A ward nurse writes a discharge goal for a patient learning a new self-care skill. Which measure best tests actual performance?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -303,9 +294,8 @@
 
 ### Q10. An intervention in a care plan requires equipment unavailable on the ward. What is the best implementation decision?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Patient safety · Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -336,9 +326,8 @@
 
 ### Q11. A nurse carries out a prescribed treatment and adds appropriate comfort measures within scope. How should the actions be recorded?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application
 <!-- /job4-metadata -->
 
 
@@ -369,9 +358,8 @@
 
 ### Q12. An outcome is partially achieved because a patient can transfer with one assistant but not independently as planned. What is the best evaluation?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -402,9 +390,8 @@
 
 ### Q13. A patient's care-plan goal has been achieved and remains stable on reassessment. Which action best demonstrates ongoing nursing process?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
