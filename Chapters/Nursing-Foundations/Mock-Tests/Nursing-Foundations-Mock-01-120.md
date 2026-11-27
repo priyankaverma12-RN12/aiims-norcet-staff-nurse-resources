@@ -1401,9 +1401,21 @@ Difficult news ke baad silence patient ko information process karne aur emotion 
 
 **Correct: A. Use safe positioning and suction-assisted oral care according to assessment and policy**
 
-Unconscious patient secretions safely swallow nahi kar paata. Suitable side or head position aur suction se fluid accumulation kam karne mein help milti hai.
+Unconscious patient oral fluid ko safely swallow ya spit nahi kar sakta. Aspiration ka matlab liquid ya secretions ka airway mein jaana hai. Clinical condition aur positioning restrictions assess karke suitable lateral/head position ya head elevation use karo. Trained suction-assisted oral care se excess fluid remove karo. Small controlled amounts aur secure supplies use karo. Airway safety aur urgent assessment ko priority do.
 
-**Baaki options kyun sahi nahi hain?** Large fluid, flat pooling aur loose swab aspiration risk badha sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Appropriate positioning aur suction excess fluid manage karne aur airway protect karne mein help karte hain.
+- **B (Galat):** Large amount water pour karne se uncontrolled aspiration ka risk badhta hai.
+- **C (Galat):** Flat position mein fluid pharynx ki taraf collect ho sakta hai.
+- **D (Galat):** Loose swab detach hokar foreign body ya aspiration risk create kar sakta hai.
+
+**Exam clue:** Unconscious oral care: positioning, suction, controlled fluid.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion)
+
+**Related historical evidence:** [RRB Nursing Superintendent, 12 March 2026 Shift I — third-party reported concept](https://testbook.com/question-answer/when-providing-oral-care-to-an-unconscious-patient--69df438194d6093e085a42b1). Retrieved report gives option 3, side-lying and soft toothbrush. This is related evidence, not an authenticated exact match. HPSSC oral-care source indexed, direct retrieval failed.
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2335,9 +2347,19 @@ Melena usually digested blood ki wajah se black aur tarry stool hoti hai. Iron y
 
 **Correct: B. From front to back**
 
-Front-to-back cleaning stool organisms ko urethral opening ki taraf le jaane ka risk kam karti hai. Har pass ke liye clean surface use karna chahiye.
+Female perineum genital aur anal area ke beech ki region hai. Urethral opening anus ke aage hoti hai. Stool ke bacteria urethra tak transfer ho sakte hain, isliye gentle front-to-back cleansing aur har pass ke liye fresh clean surface use karo. Routine care aur sterile catheter insertion alag procedures hain.
 
-**Baaki options kyun sahi nahi hain?** Reverse ya repeated contaminated wiping organisms transfer kar sakti hai. Complete hygiene mein relevant areas gently clean hote hain.
+**Option-wise explanation:**
+- **A (Galat):** Anus se urethra ki taraf wiping contamination transfer kar sakti hai.
+- **B (Sahi):** Front-to-back wiping fecal organisms ko urethra ki taraf le jaane ka risk kam karti hai.
+- **C (Galat):** Sirf anus clean karne se baaki indicated perineal hygiene incomplete reh sakti hai.
+- **D (Galat):** Same soiled surface se back-and-forth wiping organisms redistribute kar sakti hai.
+
+**Exam clue:** Front to back, fresh surface each pass.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2556,9 +2578,19 @@ Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf 
 
 **Correct: D. Return the foreskin to its normal position**
 
-Retracted foreskin wapas na laayein toh glans ke peeche tight ring ban sakti hai. Isse swelling aur compromised blood flow, yani paraphimosis, ho sakti hai.
+Foreskin penis ke glans yani head ko cover karne wali skin hai. Adult mein agar woh easily retract hoti hai toh gentle cleaning ke baad usse normal position mein wapas lao. Retracted foreskin glans ke peeche tight ho jaaye toh swelling aur blood flow compromise ho sakta hai, jise paraphimosis kehte hain. Foreskin ko forcefully retract mat karo. Agar wapas na aaye ya painful swelling ho toh urgent medical assessment chahiye.
 
-**Baaki options kyun sahi nahi hain?** Prolonged retraction aur tight band unsafe hain. Swelling urgent assessment maang sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Swelling aur pain vascular compromise ke warning signs ho sakte hain, inhe ignore mat karo.
+- **B (Galat):** Retracted foreskin ko indefinitely chhodne se paraphimosis ho sakti hai.
+- **C (Galat):** Tight band venous drainage aur blood supply ko compromise kar sakta hai.
+- **D (Sahi):** Foreskin ko normal position mein return karna constricting ring formation ka risk kam karta hai.
+
+**Exam clue:** Retract gently only if possible, replace after cleaning.
+
+**Clinical reference:** [NHS foreskin safety](https://www.nhs.uk/conditions/phimosis/) · [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2829,9 +2861,19 @@ Rectal examination ya routine cleansing enema ke liye left lateral Sims mein pat
 
 **Correct: A. Clean relatively clean areas before more contaminated areas**
 
-Relatively clean areas pehle clean karne se organisms heavily soiled areas se transfer hone ka risk kam hota hai. Nurse supplies change karti hai aur hand hygiene follow karti hai.
+Bed bath mein patient ko bed par hi clean kiya jaata hai. Relatively clean areas pehle aur heavily soiled areas baad mein clean karne se organisms ek area se doosre area tak transfer hone ka risk kam hota hai. Cloth ka clean portion ya fresh supplies use karo aur soiling ke baad gloves aur hand hygiene facility policy ke hisaab se manage karo.
 
-**Baaki options kyun sahi nahi hain?** Same contaminated cloth aur random sequence cross-contamination badha sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Relatively clean se more contaminated area ki taraf jaana cross-contamination kam karne ka useful principle hai.
+- **B (Galat):** Perineum ke organisms same cloth se face tak pahunch sakte hain.
+- **C (Galat):** Visibly dirty cloth ko repeatedly use karna contamination badhata hai.
+- **D (Galat):** Random sequence aur contaminated supplies se germs clean skin tak transfer ho sakte hain.
+
+**Exam clue:** Clean to less clean, change soiled supplies.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [International Guideline preventive skin care](https://www.internationalguideline.com/skincare)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
