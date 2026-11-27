@@ -22,10 +22,18 @@
 
 **Correct: A. The patient will walk 20 meters with assistance by 6 PM**
 
-Measurable outcome mein patient ka expected action, distance aur time clear hai. Nurse baad mein check kar sakti hai ki goal meet hua ya nahi.
+<!-- job5-rationale -->
+Nursing outcome patient mein expected change ko describe karta hai. SMART ka matlab Specific, Measurable, Achievable, Relevant aur Time-bound hai. Yahan 20 meters ek measurable distance hai, assistance safety condition hai aur 6 PM deadline hai. Patient ki actual capacity ke according goal decide hoga. Nurse baad mein actual performance compare kar sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Excellent care vague hai. Someday mein time limit nahi hai. Nurse ki understanding patient outcome nahi hai.
+**Option-by-option reasoning**
 
+- **A:** Patient, action, distance, help aur time clear hain. A measurable outcome hai.
+- **B:** Excellent care vague phrase hai aur nurse ka action describe karta hai, patient ka measurable result nahi.
+- **C:** Improve someday mein na exact result hai na definite deadline. Isko reliably evaluate nahi kar sakte.
+- **D:** Nurse ki understanding patient ki functional improvement ko measure nahi karti.
+
+**Exam clue:** Outcome mein patient kya karega, kitna aur kab tak, ye dekho.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -77,10 +85,18 @@ Load body ke paas ho toh spine par leverage kam padta hai. Stable stance aur leg
 
 **Correct: C. Defining characteristics**
 
-Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis mein inhe defining characteristics kehte hain.
+<!-- job5-rationale -->
+Problem-focused diagnosis mein problem, contributing factor aur evidence identify karte hain. Weak cough ka matlab patient secretions effectively clear nahi kar paa raha ho sakta hai. Coarse breath sounds retained secretions ke saath compatible hain. Given statement mein ye dono signs evidence ke roop mein likhe hain. Nurse actual assessment se cause aur severity validate karegi.
 
-**Baaki options kyun sahi nahi hain?** Etiology retained secretions hai. Outcomes desired results hain. Interventions nurse ke actions hain.
+**Option-by-option reasoning**
 
+- **A:** Expected outcomes future target hain, jaise effective cough aur improved airway clearance.
+- **B:** Etiology yahan retained secretions hai. Signs ko etiology alone bolna category mix kar deta hai.
+- **C:** Weak cough aur coarse sounds problem ke supporting cues hain. C correct hai.
+- **D:** Intervention nurse ka action hai, jaise appropriate airway clearance support. Observed signs action nahi hain.
+
+**Exam clue:** PES mein signs/symptoms aur related factor alag identify karo.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -1455,10 +1471,20 @@ Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support cal
 
 **Correct: B. Evaluation**
 
-Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effect toh nahi hai. Is comparison se care ki effectiveness evaluate hoti hai.
+<!-- job5-rationale -->
+Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko appropriate interval par check karti hai. Patient ki breathing aur adverse effects bhi medicine aur condition ke hisaab se assess karne chahiye. Baseline aur target se compare karke pata chalta hai ki treatment effective aur safe hai ya modification chahiye. Is comparison ko evaluation kehte hain.
 
-**Baaki options kyun sahi nahi hain?** Diagnosis problem identify karta hai. Planning goals aur actions decide karti hai. Registration administrative process hai.
+**Option-by-option reasoning**
 
+- **A:** Initial diagnosis problem identify karta hai. Is question mein treatment already diya gaya hai.
+- **B:** Treatment ke baad pain aur sedation ka result check ho raha hai. B correct hai.
+- **C:** Planning desired result aur actions select karta hai. Result comparison evaluation hai.
+- **D:** Admission registration administrative task hai.
+
+**Exam clue:** Medicine dena implementation, effect check karna evaluation.
+
+**Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
@@ -2324,10 +2350,18 @@ Left lateral position rectal access aur colon ke anatomical direction mein fluid
 
 **Correct: D. Risk for impaired skin integrity**
 
-Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai. Risk diagnosis potential problem ko identify karta hai.
+<!-- job5-rationale -->
+Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse tissue blood supply compromise ho sakti hai. Incontinence se skin par moisture aur irritation badh sakte hain. Skin intact hai aur existing injury ka evidence nahi diya gaya. Nurse risk assess kare, skin inspect kare aur individualized pressure relief aur moisture management plan banaye. Risk diagnosis future problem ki susceptibility ko batata hai.
 
-**Baaki options kyun sahi nahi hain?** Open ulcer aur wound documented nahi hain. Effective perfusion ko current problem nahi kaha ja sakta.
+**Option-by-option reasoning**
 
+- **A:** Effective perfusion ko confirmed problem bolna given findings se supported nahi hai.
+- **B:** Documented wound ya pain ka evidence nahi hai. B unsupported hai.
+- **C:** Open ulcer question mein nahi diya hai. Actual skin breakdown assume nahi kar sakte.
+- **D:** D risk factors aur current intact skin dono ko reflect karta hai.
+
+**Exam clue:** Risk factor present hone ka matlab actual injury confirmed hona nahi hai.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
