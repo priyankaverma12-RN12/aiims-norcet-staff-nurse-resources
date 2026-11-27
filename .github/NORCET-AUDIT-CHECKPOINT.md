@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job3-day04-bronchiectasis-20261127
-Scope: Respiratory Day-04-Atelectasis-CPT-Pulmonary-Edema-Bronchiectasis concept and MCQ files and Day-04-Reported-Exam-Leads only
+Scope: Respiratory Day-04-Atelectasis-CPT-Pulmonary-Edema-Bronchiectasis concept and MCQ files and Day-04-Reported-Exam-Leads plus local Previous-Year-Questions README only
 Claimed UTC: 2026-11-27T07:54:28.280Z
 Expiry UTC: 2026-11-27T08:24:28.283Z
 
