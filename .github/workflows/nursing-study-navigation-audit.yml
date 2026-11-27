@@ -4,7 +4,7 @@ on:
     branches: [main]
     paths:
       - 'README.md'
-      - 'Chapters/**/README.md'
+      - 'Chapters/**/*.md'
       - 'website/**'
       - '.github/workflows/nursing-study-navigation-audit.yml'
   push:
@@ -23,6 +23,9 @@ jobs:
         run: |
           node --check website/media.js
           node website/media.test.cjs
+          node --check website/study-ui.js
+          node --check website/titles.js
+          node --check website/build-metrics.cjs
           node --check website/app.js
           node --check website/quiz.js
           node website/quiz.test.cjs
@@ -38,6 +41,18 @@ jobs:
         run: python website/navigation-smoke.py
       - name: Full reader and quiz integration gate
         run: python website/browser-smoke.py
+      - name: Enforce local navigation quality gate
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          audit = json.loads(Path('website/navigation-audit.json').read_text(encoding='utf-8'))
+          keys = ('missing_local_paths', 'possible_missing_fragments', 'unchecked_fragments', 'malformed_urls')
+          failures = {key: len(audit[key]) for key in keys if audit[key]}
+          if failures:
+              raise SystemExit(f'Navigation audit requires review: {failures}')
+          print('Local navigation quality gate passed; external URL relevance is a separate review.')
+          PY
       - name: Upload source audit report
         if: always()
         uses: actions/upload-artifact@v4

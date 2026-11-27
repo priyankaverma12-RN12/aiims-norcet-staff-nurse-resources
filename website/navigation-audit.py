@@ -17,7 +17,7 @@ SITE = ROOT / "website"
 REPO = "priyankaverma12-RN12/aiims-norcet-staff-nurse-resources"
 PARSER = MarkdownIt("commonmark", {"html": True}).enable("table")
 NAVIGATION = re.compile(
-    r"readme|index|overview|master.guide|coverage.map|mock.test.plan|references|research.guide",
+    r"readme|index|overview|master.guide|coverage.map|mock.test.plan|references|research.guide|research.register",
     re.I,
 )
 documents = sorted(ROOT.glob("*.md")) + sorted((ROOT / "Chapters").rglob("*.md"))
