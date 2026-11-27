@@ -361,30 +361,30 @@
 
 </details>
 
-### Q14. A metal fragment is visibly embedded in the eye after industrial trauma. Which information should accompany the request for urgent imaging?
+### Q14. A patient is referred months after an unnoticed penetrating occupational eye injury. The clinician identifies an iron-containing intraocular foreign body and progressive lens and retinal changes. Which tissue injury mechanism is most consistent with ocular siderosis?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Possible metallic intraocular foreign body requiring imaging safety review
-- **B.** MRI can proceed without metallic foreign-body screening
-- **C.** A normal external photograph excludes all internal metal
-- **D.** The fragment must be removed by the triage nurse before imaging
+- **A.** Iron deposition and associated cellular toxicity
+- **B.** Isolated excess mucin secretion from conjunctival goblet cells
+- **C.** Temporary accommodation of the crystalline lens during near work
+- **D.** Increased cerumen secretion in the external auditory canal
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. Possible metallic intraocular foreign body requiring imaging safety review**
+**Correct answer: A. Iron deposition and associated cellular toxicity**
 
-- **A. Kyun sahi hai:** Metal fragment eye ke andar ho sakta hai. Radiology ko mechanism aur possible metal batana zaroori hai taki suitable modality select ho aur unsafe MRI avoid ki ja sake.
+- **A. Kyun sahi hai:** Retained iron-containing fragment se iron ions tissues mein release ho sakte hain. Oxidative injury lens aur retinal cells ko damage kar sakti hai, isliye delayed presentation bhi specialist assessment maangti hai.
 
-- **B. Kyun galat hai:** Ferromagnetic material MRI field mein move ho sakta hai. Screening essential hai.
+- **B. Kyun galat hai:** Mucin tear film ko support karta hai. Is mechanism se intraocular iron-related toxicity explain nahi hoti.
 
-- **C. Kyun galat hai:** Small entry wound ya retained fragment photograph mein miss ho sakta hai.
+- **C. Kyun galat hai:** Accommodation reversible focusing mechanism hai, retained metallic foreign body se tissue degeneration nahi.
 
-- **D. Kyun galat hai:** Embedded object remove karne se wound enlarge ya tissue extrusion ho sakti hai. Specialist management chahiye.
+- **D. Kyun galat hai:** Ear canal wax ocular siderosis ke pathophysiology se unrelated hai.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Pre-Ophthalmologist_Management_of_Eye_Trauma).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Siderosis).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** Exact question verification pending.
 
 </details>
 
@@ -822,30 +822,30 @@
 
 </details>
 
-### Q31. A child with a dense persistent hyphema has prolonged obstruction of the visual axis. Which age-specific complication adds urgency to specialist planning?
+### Q31. After blunt ocular trauma, an ophthalmologist identifies individual erythrocytes suspended in the anterior chamber on slit-lamp examination, without a visible layered blood level. Which term best describes this observation?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Age-related presbyopia
-- **B.** Deprivation amblyopia
-- **C.** Normal maturation of stereopsis regardless of image quality
-- **D.** Sensorineural hearing loss from blocked light
+- **A.** Hypopyon
+- **B.** Microhyphema
+- **C.** Vitreous hemorrhage
+- **D.** Subconjunctival hemorrhage
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. Deprivation amblyopia**
+**Correct answer: B. Microhyphema**
 
-- **A. Kyun galat hai:** Presbyopia aging lens accommodation se related hai, childhood visual deprivation se nahi.
+- **A. Kyun galat hai:** Hypopyon mainly inflammatory white cells ka collection hai. Is finding mein erythrocytes document kiye gaye hain.
 
-- **B. Kyun sahi hai:** Developing visual system ko clear visual input chahiye. Long-standing obstruction se brain visual pathway properly develop nahi kar sakta aur amblyopia ho sakti hai.
+- **B. Kyun sahi hai:** Microhyphema mein anterior chamber ke aqueous humor mein individual red blood cells present ho sakti hain bina macroscopic layered blood ke. Absence of blood level bleeding rule out nahi karti; specialist follow-up aur pressure monitoring as appropriate important hai.
 
-- **C. Kyun galat hai:** Binocular visual development clear coordinated input par depend karti hai.
+- **C. Kyun galat hai:** Vitreous hemorrhage posterior vitreous cavity mein blood ko describe karta hai, anterior chamber ke suspended erythrocytes ko nahi.
 
-- **D. Kyun galat hai:** Light obstruction auditory nerve dysfunction directly cause nahi karta.
+- **D. Kyun galat hai:** Subconjunctival hemorrhage conjunctiva ke neeche extraocular blood hota hai. Slit lamp par anterior chamber cells alag location mein hain.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.org/Hyphema).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Slit_Lamp_Examination).
 
-**YouTube MCQ practice:** Specific question verification pending. See practice research below.
+**YouTube MCQ practice:** Exact question verification pending.
 
 </details>
 
@@ -3266,8 +3266,8 @@
 
 ## Audit and allocation record
 
-- Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Six overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 24, 33, 60, 87, 104). Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
-- Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. Remaining banks, concept-embedded questions and cross-chapter mocks are not exhaustively verified. No guarantee of zero semantic duplicates.
+- Source allocation: four reserved original-only Mock 01 drafts, same mock identity. Eight overlapping or near-repeated learning tasks were replaced with newly written distinct tasks (old draft IDs 19, 24, 33, 37, 46, 60, 87, 104). Final Q14 and Q31 were replaced after comparison with Vitreous Hemorrhage Q8 and Q27, respectively. Old drafts remain historical provenance, not additional question inventory. Final numbers mapped to old reserved IDs below.
+- Structural checks: 120 distinct normalized stems, 480 option-specific rationales, correct answer text matches four-option set for all questions. Prior exact scan against 974 existing topic questions and 27 extracted exam adaptations passed for the original draft; replacement items require renewed full exact and semantic cross-bank scan. This run screened internal nearest pairs and three bounded batches of 30 existing banks (854 questions), using word overlap of stem plus key and manual candidate review. The remaining four topic banks (120 questions) were subsequently compared with the first assembled edition. All 34 topic banks have been screened across versions; exact and semantic comparison of the latest replacement items against every bank, concept-embedded questions and cross-chapter mocks remains pending. No guarantee of zero semantic duplicates.
 - Current reference rechecks: AAO-HNS 2019 sudden hearing loss and tonsillectomy, 2022 tympanostomy tubes, 2025 sinusitis, 2018 dysphonia, 2020 epistaxis; NICE NG98, EyeWiki September 2026 chemical injury and Merck red-eye guidance, NEI RP/Usher and NTSP red algorithm (page 1 visually checked). Added explicit sudden hearing loss referral timing, updated sinusitis watchful-waiting detail, repaired pediatric tonsillectomy links and added Usher-specific source. Full independent review of every rationale and Indian guidance pending. References and gap notes from source drafts remain part of evidence record.
 - Practice evidence: Q corresponding to old draft Q101 now has a specifically named RP/Usher video chapter marker; other existing leads are broad topic leads. Actual playback, transcripts and exact individual practice mappings remain unverified for all items. No invented timestamps.
 - 60 Eye + 60 ENT; answer placement counts A 28, B 31, C 29, D 32. Difficulty 56 Medium, 64 Difficult (one replacement upgraded from medium). No official exam claim. Do not allocate these items to later mocks or topic banks.
