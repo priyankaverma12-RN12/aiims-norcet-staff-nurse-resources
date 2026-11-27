@@ -1261,7 +1261,7 @@ Ventrogluteal site hip ke lateral region mein gluteal muscles ko access karti ha
 
 ### Q38. An AED announces that a shock is advised. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait several minutes after shock before resuming compressions
 - **B.** Delay shock until a complete clinical history is obtained
@@ -1286,13 +1286,11 @@ AED rhythm analyse karke shockable rhythm mein shock advise karta hai. Shock se 
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q7](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q7](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q7-an-aed-announces-that-a-shock-is-advised-which-action-is-correct)
 
 ### Q39. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
 
@@ -1433,7 +1431,7 @@ Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family f
 
 ### Q44. What is the role of pulse oximetry in oxygen therapy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Replace assessment of breathing effort
 - **B.** Estimate peripheral arterial oxygen saturation and track trends with clinical assessment
@@ -1456,11 +1454,11 @@ Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta
 
 **Clinical references:** [Reference 1](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — pulse oximetry, Nursing Wallah by PW (43:28)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2608s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q5](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q5](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q5-what-is-the-role-of-pulse-oximetry-in-oxygen-therapy)
 
 ### Q45. Which statement about aspiration before routine IM vaccination reflects current guidance?
 
@@ -1498,7 +1496,7 @@ Aspiration ka matlab needle insert karne ke baad injection se pehle plunger with
 
 ### Q46. A patient on oxygen suddenly becomes confused, tachypneic and cyanotic. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait until the prescribed oxygen bag is empty
 - **B.** Remove monitoring because readings may be abnormal
@@ -1525,7 +1523,7 @@ New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious 
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q8](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q8](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q8-a-patient-on-oxygen-suddenly-becomes-confused-tachypneic-and-cyanotic-which-response-is-appropriate)
 
 ### Q47. Which practice improves patient orientation after admission?
 
@@ -1852,7 +1850,7 @@ Blood component controlled product hai. Unapproved addition reaction, contaminat
 
 ### Q58. Why should rescuers allow complete chest recoil between compressions?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Recoil is needed only after defibrillation
 - **B.** Recoil supports venous return and cardiac filling
@@ -1877,17 +1875,15 @@ Recoil ka matlab har compression ke baad chest ko apni normal position mein poor
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q5](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q5](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q5-why-should-rescuers-allow-complete-chest-recoil-between-compressions)
 
 ### Q59. A patient at risk of hypercapnic respiratory failure has an oxygen prescription specifying a target saturation range. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Titrate oxygen to the prescribed target and arrange indicated blood gas assessment
 - **B.** Withhold oxygen during severe hypoxemia solely because COPD is present
@@ -1912,11 +1908,11 @@ Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch pa
 
 **Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — oxygen therapy in COPD, Nursing Wallah by PW (34:43)](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=2083s).** Publisher chapter list for the 29 December 2025 respiratory MCQ session confirms this topic. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q6](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q6](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q6-a-patient-at-risk-of-hypercapnic-respiratory-failure-has-an-oxygen-prescription-specifying-a-target-saturation-range-which-action-is-appropriate)
 
 ### Q60. A patient injecting insulin repeatedly into one spot develops firm fatty lumps. Which teaching is appropriate?
 
@@ -2929,7 +2925,7 @@ Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy 
 
 ### Q95. An adult is unresponsive and makes occasional gasping sounds. How should a trained responder interpret gasping?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It proves spontaneous circulation has returned
 - **B.** It establishes effective normal breathing
@@ -2954,13 +2950,11 @@ Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh e
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
-
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q8](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q8](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q8-an-adult-is-unresponsive-and-makes-occasional-gasping-sounds-how-should-a-trained-responder-interpret-gasping)
 
 ### Q96. Which nursing action maintains dignity when providing personal care to a dying patient?
 
@@ -2985,7 +2979,7 @@ Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse
 
 ### Q97. Which nursing action reduces skin injury from a nasal cannula?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Tighten tubing maximally against the skin
 - **B.** Assess pressure points around the ears and nose and use suitable protective measures
@@ -3012,7 +3006,7 @@ Nasal cannula tubing ear aur nostril ke aas-paas pressure aur friction bana sakt
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q7](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q7](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q7-which-nursing-action-reduces-skin-injury-from-a-nasal-cannula)
 
 ### Q98. A patient has an indwelling catheter solely because of a now-resolved short-term indication. What is the best next step?
 
@@ -3517,7 +3511,7 @@ Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve f
 
 ### Q115. When two trained rescuers are available, how often should the chest compressor generally change during adult CPR?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent 29 April 2025 Shift II — related reported concept**
 
 - **A.** Approximately every two minutes or sooner if fatigued
 - **B.** Only when the patient regains consciousness
@@ -3542,13 +3536,13 @@ Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone pa
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/while-performing-cpr-in-a-patient-who-had-cardiac--681c89fac2c0bed03160e486). Retrieved third-party item concerns rescuer switching interval. Official paper and key not independently authenticated.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q6](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q6](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q6-when-two-trained-rescuers-are-available-how-often-should-the-chest-compressor-generally-change-during-adult-cpr)
 
 ### Q116. Which step should occur before developing an individualized patient education plan?
 
