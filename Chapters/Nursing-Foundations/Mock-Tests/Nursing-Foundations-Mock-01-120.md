@@ -116,9 +116,23 @@ IM injection ko muscle tak pahunchna hai. Perpendicular angle correct needle aur
 
 **Correct: B. Activate emergency response, start CPR and obtain an AED**
 
-Definite pulse na mile aur normal breathing absent ho toh cardiac arrest suspect hota hai. Emergency help aur CPR organs tak blood flow maintain karne ke liye jaldi start karni chahiye.
+Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de pa raha hai. Agar adult unresponsive hai, normal breathing nahi hai aur trained healthcare worker ko 10 seconds ke andar definite pulse nahi milti, toh cardiac arrest assume karo. Emergency system activate karo, chest compressions shuru karo aur AED mangwao. AED ek device hai jo rhythm analyse karke zaroorat hone par shock advise karta hai. Trained team ventilation bhi provide karti hai.
 
-**Baaki options kyun sahi nahi hain?** Waiting perfusion delay karti hai. Oral water unsafe hai. Pulse absent hone par compressions zaroori hain.
+**Option-wise explanation:**
+- **A (Galat):** Paanch minute observe karne se circulation restore karne ka precious time waste hota hai.
+- **B (Sahi):** CPR aur emergency response se brain aur heart ko blood supply milne ka chance improve hota hai. AED jaldi available hona bhi important hai.
+- **C (Galat):** Rescue breathing alone definite pulse hone par respiratory arrest ke liye useful ho sakti hai. Pulseless arrest mein compressions zaroori hain.
+- **D (Galat):** Unresponsive patient safely swallow nahi kar sakta. Water airway mein ja sakta hai.
+
+**Exam clue:** No definite pulse within 10 seconds with absent normal breathing = start CPR.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -288,9 +302,19 @@ Right patient ka matlab actual person ko correct medication order se match karna
 
 **Correct: C. Region and radiation**
 
-Region pain ki location aur radiation pain kis direction mein spread hota hai batata hai. Ye information possible cause identify karne mein help karti hai.
+PQRST ek structured symptom assessment mnemonic hai. P provocation/palliation, Q quality, R region/radiation, S severity aur T timing ko refer karta hai. Region se pata chalta hai pain kahan hai. Radiation batata hai kya pain kisi aur area tak ja raha hai. In findings ko associated symptoms aur examination ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Respiratory rate separate vital sign hai. Renal function aur recovery score PQRST ke R ka usual meaning nahi hain.
+**Option-wise explanation:**
+- **A (Galat):** Respiratory rate vital sign hai, lekin PQRST ka R usually respiratory rate nahi hai.
+- **B (Galat):** Recovery score recovery assessment ka tool ho sakta hai, lekin PQRST ka R nahi hai.
+- **C (Sahi):** Region aur radiation pain ki location aur spread ko describe karte hain. Yeh correct mnemonic expansion hai.
+- **D (Galat):** Renal function relevant investigation ho sakti hai, par mnemonic ka R yeh nahi batata.
+
+**Exam clue:** R = Region and Radiation.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -384,9 +408,19 @@ Autonomy ka matlab person apne healthcare decisions informed manner mein le sakt
 
 **Correct: D. Neuropathic pain**
 
-Nerve damage abnormal electrical signaling cause kar sakti hai. Burning ya electric-shock descriptors neuropathic pain suggest karte hain.
+Neuropathic pain tab ho sakti hai jab somatosensory nervous system, yani sensation carry karne wala system, disease ya injury se affected ho. Damaged nerves abnormal signals bhej sakti hain. Burning, shooting aur electric-shock jaisi sensations is mechanism ka clue hain. Nurse sensory changes aur injury history assess karti hai. Sirf description se diagnosis final nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Visceral pain organs se arise hoti hai. Referred pain location relationship describe karti hai. Pain absence nahi hai.
+**Option-wise explanation:**
+- **A (Galat):** Referred pain ka matlab source se different location par pain feel hona hai. Diye gaye descriptors alone referred pain prove nahi karte.
+- **B (Galat):** Patient painful sensation report kar raha hai, isliye absence of pain iska meaning nahi hai.
+- **C (Galat):** Visceral nociceptive pain internal organs ke pain receptors se arise hoti hai. Nerve injury ke context ko purely visceral kehna appropriate nahi hai.
+- **D (Sahi):** Nerve injury ke saath burning aur electric-shock pain neuropathic mechanism suggest karti hai.
+
+**Exam clue:** Burning and electric shocks after nerve injury suggest neuropathic pain.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-1-the-pain-process)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1133,9 +1167,25 @@ Severe pain, vomiting, distension aur stool na aana sirf simple constipation nah
 
 **Correct: A. 30:2**
 
-Adult conventional CPR mein 30 compressions ke baad two breaths diye jaate hain. Advanced airway ke baad ventilation pattern different ho sakta hai.
+Adult cardiac arrest mein trained rescuer advanced airway placement se pehle 30 chest compressions ke baad 2 breaths deta hai. Breaths se visible chest rise hona chahiye, excessive ventilation nahi. Is ratio se circulation aur oxygenation dono support hote hain. Advanced airway lagne ke baad trained team continuous compressions aur asynchronous ventilation ka protocol follow kar sakti hai.
 
-**Baaki options kyun sahi nahi hain?** 15:2 certain two-rescuer pediatric situations mein hai. 3:1 neonatal resuscitation mein use ho sakta hai. 5:1 standard adult ratio nahi hai.
+**Option-wise explanation:**
+- **A (Sahi):** 30:2 conventional adult CPR before advanced airway ka standard ratio hai.
+- **B (Galat):** 15:2 two-rescuer pediatric CPR ke selected situations mein use hota hai, routine adult CPR mein nahi.
+- **C (Galat):** 3:1 birth ke samay selected neonatal resuscitation ka ratio hai. Yeh routine adult CPR ka ratio nahi hai.
+- **D (Galat):** 5:1 current conventional adult CPR ka standard ratio nahi hai.
+
+**Exam clue:** Adult pre-advanced airway: 30:2. Two-rescuer pediatric: 15:2.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Related tested concept:** [AIIMS NORCET 6 Prelims 2024 — third-party memory-based report](https://testbook.com/question-answer/normal-compression-to-ventilation-ratio--662a417c532eac8383c8778d). Retrieved source reports adult 30:2 ratio. Original official paper and key not authenticated. This bank item is original.
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1553,9 +1603,23 @@ Fall prevention environment ka purpose tripping aur unsafe transfer ke hazards r
 
 **Correct: A. 100–120/min**
 
-Adult CPR mein 100–120 compressions per minute recommended hain. Rate ke saath depth, recoil aur minimum interruptions bhi important hain.
+Chest compression mein sternum ko rhythmically press karke heart se blood flow support kiya jaata hai. AHA 2025 adult CPR ke liye 100–120 compressions per minute ka target rakhti hai. Rate ke saath proper depth, full chest recoil aur chhoti interruptions bhi zaroori hain. Sirf fast compressions karne se quality automatically achhi nahi hoti.
 
-**Baaki options kyun sahi nahi hain?** Bahut slow rate inadequate perfusion aur excessive rate poor depth-recoil contribute kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** 100–120/min adult CPR ka recommended range hai. Depth aur recoil bhi maintain karo.
+- **B (Galat):** 60–80/min recommended adult CPR rate se kam hai. Isse per minute compressions kam ho sakti hain.
+- **C (Galat):** 40–60/min adult CPR ke liye bahut slow hai aur adequate circulation support nahi kar sakta.
+- **D (Galat):** 140–160/min recommended upper range se zyada hai. Itni speed par adequate depth aur recoil maintain karna mushkil ho sakta hai.
+
+**Exam clue:** Adult CPR: 100–120/min, full recoil.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1657,9 +1721,19 @@ Complete medication history interactions, omissions aur duplicates identify karn
 
 **Correct: D. Accept the pain report and assess possible serious causes**
 
-Pain ke saath vital signs normal bhi reh sakte hain. Nurse patient report respect karke location, onset, examination aur urgent signs assess karti hai.
+New severe abdominal pain serious illness ka symptom ho sakta hai, even jab heart rate aur BP normal hon. Physiological response patient, timing aur medicines se vary karta hai. Nurse pain report accept karke onset, site, character, abdominal findings, vomiting, bleeding aur other red flags assess karti hai. Urgent clinical review arrange karo aur deterioration monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Normal BP pain exclude nahi karta. Judgment aur delay assessment ko compromise karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Normal vital signs severe pain ya dangerous abdominal condition ko rule out nahi karte.
+- **B (Galat):** Tachycardia aane tak wait karne se important diagnosis delay ho sakti hai.
+- **C (Galat):** Attention-seeking assume karne se real illness miss ho sakti hai. Patient report ko objectively assess karo.
+- **D (Sahi):** Pain ko accept karke serious causes evaluate karna patient-centered aur safe response hai.
+
+**Exam clue:** Normal vital signs do not rule out severe pain or serious disease.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1743,9 +1817,23 @@ Deltoid adult routine IM vaccine ke liye standard site hai. Correct landmarks au
 
 **Correct: A. About 5–6 cm**
 
-Adult chest ko at least 5 cm compress karna hai aur excessive depth greater than 6 cm avoid karni hai. Isse blood flow aur safety balance karne ki koshish hoti hai.
+Compression depth batati hai chest ko kitna neeche press karna hai. Average adult mein at least 5 cm depth target hoti hai aur 6 cm se zyada excessive compression avoid karni chahiye. Adequate depth blood flow support karti hai. Rescuer ko firm support aur correct hand position ke saath quality monitor karni chahiye.
 
-**Baaki options kyun sahi nahi hain?** Shallow compression inadequate ho sakti hai. Excess depth injury risk badha sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Approximately 5–6 cm adult depth recommended range ko represent karti hai.
+- **B (Galat):** 7–9 cm recommended adult depth se zyada hai aur unnecessary trauma ka risk badha sakti hai.
+- **C (Galat):** 1 cm compression average adult mein effective circulation ke liye insufficient hai.
+- **D (Galat):** 2–3 cm usual adult target se kam hai. Is depth par blood flow inadequate ho sakta hai.
+
+**Exam clue:** Adult depth 5–6 cm. Pediatric depth rules alag hain.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**Supplementary MCQ practice lead:** [AIIMS NORCET 11 — BLS and Cardiac Arrest MCQs with Rationales](https://www.youtube.com/watch?v=ztNcRcHC05U). Indexed publisher description mentions arrest recognition, CPR sequence, AED use and compression quality. Direct retrieval failed. Specific question coverage, channel identity and playback remain unverified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2468,9 +2556,19 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 
 **Correct: C. The patient's self-report using a suitable scale**
 
-Pain personal experience hai. Patient ka self-report intensity assess karne ka primary source hai. Nurse associated signs aur cause bhi assess karti hai.
+Pain ek personal experience hai. Agar patient communicate kar sakta hai toh intensity ka sabse useful starting point uska apna report hai. Suitable scale patient ki language aur understanding ke hisaab se choose karo. Nurse location, onset, quality, function, associated symptoms aur possible cause bhi assess karti hai. Patient ka report respect karne ka matlab serious causes ki assessment skip karna nahi hai.
 
-**Baaki options kyun sahi nahi hain?** Facial expression aur BP pain severity independently prove nahi karte. Bed location irrelevant hai.
+**Option-wise explanation:**
+- **A (Galat):** Bed ki location pain intensity ke baare mein reliable information nahi deti.
+- **B (Galat):** Facial expression useful additional clue hai, lekin kuch patients severe pain mein bhi grimace nahi karte.
+- **C (Sahi):** Patient apne experience ko suitable scale se bata sakta hai, isliye yeh best starting point hai.
+- **D (Galat):** BP pain, medicines aur bahut saare doosre factors se change ho sakta hai. Isse intensity alone establish nahi hoti.
+
+**Exam clue:** Self-report first when possible, clinical assessment alongside.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
