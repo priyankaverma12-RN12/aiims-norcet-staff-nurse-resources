@@ -59,7 +59,7 @@ function mountQuiz(md,path,content,render,route){
  function loadMarks(){try{const v=JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]');return Array.isArray(v)?v.filter(m=>m&&typeof m.path==='string'&&typeof m.stem==='string'):[]}catch{return []}}
  function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked'}catch{state.textContent='Bookmark storage unavailable.'}}
  function finish(){if(!started||finished)return;finished=true;clearInterval(timer);persist();const s=scoreBank(bank.items,selected,penalty);state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
- function tick(){const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));state.textContent='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(!remain)finish()}
+ function tick(){const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));const status='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(state.textContent!==status)state.textContent=status;if(!remain)finish()}
  function draw(){body.replaceChildren();controls.replaceChildren();if(!started)return;persist();const q=bank.items[at];const h=el('h3','Question '+(at+1)+' / '+bank.items.length);body.append(h);const mark=btn(loadMarks().some(m=>m.path===path&&m.stem===q.stem)?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,mark));body.append(mark);
  const stem=el('div');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
  const field=el('fieldset');field.append(el('legend','Select one answer'));
@@ -69,7 +69,7 @@ function mountQuiz(md,path,content,render,route){
  if(!finished){controls.append(btn('Clear answer',()=>{delete selected[q.id];draw();tick()}),btn('Submit test',()=>{if(confirm('Submit this attempt?'))finish()}))}
  controls.append(btn('Exit to original reading',()=>{if(!finished&&!confirm('Discard this attempt?'))return;clearInterval(timer);clearSaved();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';config.hidden=false;start.hidden=false;content.hidden=false}));
  }
- const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}started=true;finished=false;selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+mins*60000;config.hidden=true;start.hidden=true;content.hidden=true;draw();tick();if(!finished)timer=setInterval(tick,250)});
+ const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(getSaved()&&!confirm('Replace your saved attempt with a new test?'))return;started=true;finished=false;selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+mins*60000;config.hidden=true;start.hidden=true;content.hidden=true;draw();tick();if(!finished)timer=setInterval(tick,250)});
  root.append(start);
  const saved=getSaved();
  if(saved){
