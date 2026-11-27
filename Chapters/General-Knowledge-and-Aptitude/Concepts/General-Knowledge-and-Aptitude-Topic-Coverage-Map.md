@@ -43,7 +43,9 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Percentages](06-Percentages.md) — 30 new questions.
 - [Ratios and proportion](07-Ratios-and-Proportion.md) — 30 new questions.
 - [Averages](08-Averages.md) — 30 new questions.
-- Profit and loss — next.
-- Discount, interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
+- [Profit and loss](09-Profit-and-Loss.md) — 30 new questions.
+- [Discount](10-Discount.md) — 30 new questions.
+- Simple interest — next.
+- Compound interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
