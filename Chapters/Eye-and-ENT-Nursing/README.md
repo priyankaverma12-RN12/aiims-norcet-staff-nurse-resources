@@ -93,4 +93,4 @@ Blepharitis expansion, 27 November 2026: resumed ef30c809ef7f59b01088fd23e268af8
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-115105-trachoma. Scope: trachoma chapter-local package only. Claimed UTC 2026-11-27T11:51:05Z. Expiry UTC 2026-11-27T12:21:05Z. -->
