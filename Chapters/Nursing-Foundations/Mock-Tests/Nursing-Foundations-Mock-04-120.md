@@ -1166,9 +1166,19 @@ Brain ko glucose continuously chahiye. Unsafe swallow mein oral treatment aspira
 
 **Correct: A. They need to recognize deterioration and know how to obtain timely help**
 
-Discharge ke baad patient ko new symptoms identify aur help access karni hoti hai. Clear return precautions delayed treatment risk reduce kar sakte hain.
+Hospital se ghar jaane ke baad patient ko continuous bedside monitoring nahi milti. Isliye condition-specific warning signs aur kis service ko kab contact karna hai clear hona chahiye. Emergency symptoms ko routine appointment tak delay nahi karna chahiye. Written instructions aur teach-back se understanding confirm karo.
 
-**Baaki options kyun sahi nahi hain?** Leaflet complications guarantee se prevent nahi karti. Follow-up condition-specific important hai. Aim safety hai, anxiety nahi.
+**Option-wise explanation:**
+- **A (Sahi):** Deterioration recognize karna aur help access karna safe transition ka central goal hai.
+- **B (Galat):** Leaflet alone saari complications prevent karne ki guarantee nahi de sakti.
+- **C (Galat):** Follow-up condition aur treatment ke hisaab se important ho sakta hai.
+- **D (Galat):** Warning signs dene ka purpose patient ko daraana nahi, timely action sikhana hai.
+
+**Exam clue:** Explain red flags and how to obtain timely help.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1187,9 +1197,19 @@ Discharge ke baad patient ko new symptoms identify aur help access karni hoti ha
 
 **Correct: C. Use plain language, simple written or pictorial aids and teach-back**
 
-Plain language aur teach-back actual understanding assess karte hain. Nurse confusing steps correct aur practical support arrange kar sakti hai.
+Health literacy ka matlab health-related information ko samajh aur use kar paane ki ability hai. Complex treatment plan ko simple words aur small steps mein explain karo. Suitable visual aid ya qualified interpreter use karo when needed. Teach-back mein patient apne words mein bataata hai ki ghar par kya karega. Agar misunderstanding ho toh teaching improve karke dobara check karo.
 
-**Baaki options kyun sahi nahi hain?** Technical material aur signature alone understanding establish nahi karte. Assumed literacy unreliable hai.
+**Option-wise explanation:**
+- **A (Galat):** Signature actual understanding prove nahi karta. Explanation aur comprehension assessment zaroori hain.
+- **B (Galat):** Educational qualification se health literacy reliably predict nahi hoti.
+- **C (Sahi):** Plain language, visual support aur teach-back understanding assess karne mein help karte hain.
+- **D (Galat):** Highly technical instructions confusing ho sakti hain aur treatment errors cause kar sakti hain.
+
+**Exam clue:** Teach-back checks our explanation, not the patient's intelligence.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/settings/hospital/match/chapter-7.html) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2057,9 +2077,19 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 **Correct: A. Ensure adequate oxygen supply, suitable monitoring, trained escort and receiving-team coordination**
 
-Transport mein oxygen source hospital wall se portable supply par shift ho sakti hai. Adequate supply aur monitoring treatment continuity maintain karte hain.
+Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab transport route, duration, oxygen requirement aur deterioration risk assess kiye jaayen. Portable source mein adequate usable supply aur contingency reserve verify karo. Correct delivery, secure equipment, appropriate monitoring, trained escort aur receiving team readiness confirm karo. Transfer suitability clinical team decide karti hai.
 
-**Baaki options kyun sahi nahi hain?** Short time assumption unsafe hai. Oxygen interruption aur poor handover deterioration cause kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Adequate oxygen, monitoring, trained support aur handover together continuity maintain karte hain.
+- **B (Galat):** Traffic, waiting aur transport problems planned duration badha sakte hain. Short transfer assume karna unsafe hai.
+- **C (Galat):** Needed oxygen interrupt karne se hypoxemia aur deterioration ho sakti hai.
+- **D (Galat):** Respiratory needs communicate na karne par receiving team required equipment aur monitoring ready nahi kar paayegi.
+
+**Exam clue:** Transport oxygen requires supply, reserve, monitoring and trained escort.
+
+**Clinical references:** [Clinical reference 1](https://www.england.nhs.uk/publication/national-patient-safety-alert-use-of-oxygen-cylinders-where-patients-do-not-have-access-to-medical-gas-pipeline-systems/) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2120,9 +2150,19 @@ Air bubbles oxygen aur CO2 values distort kar sakti hain. Correct collection dev
 
 **Correct: D. Document and safeguard valuables according to facility policy and patient preference**
 
-Inventory aur safe storage loss prevent karne mein help karte hain. Patient ko process explain karna important hai.
+Admission par patient ke belongings, especially valuables aur assistive devices, facility policy ke according record aur safeguard karna important hai. Patient ki preference aur consent consider karo, suitable secure storage ya authorized handover document karo. Items aur recipient ki identity verify karo. Essential glasses, hearing aids aur mobility devices safe access mein rakho.
 
-**Baaki options kyun sahi nahi hain?** Discarding, unlabeled storage aur another patient ko transfer inappropriate hain.
+**Option-wise explanation:**
+- **A (Galat):** Unlabeled shared storage loss ya wrong patient ko property milne ka risk badhata hai.
+- **B (Galat):** Routine disposal se personal property loss aur patient rights concern ho sakte hain.
+- **C (Galat):** Another patient ko belongings dena privacy aur accountability compromise karta hai.
+- **D (Sahi):** Documented safeguarding policy aur patient preference dono respect karta hai.
+
+**Exam clue:** Inventory and secure valuables with traceable documentation.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
