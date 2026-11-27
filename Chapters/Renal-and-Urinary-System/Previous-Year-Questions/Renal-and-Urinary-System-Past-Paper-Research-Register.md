@@ -48,3 +48,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [Two independently worded reported adaptations](Nephrotic-Syndrome-Reported-Evidence.md): ESIC Nursing Officer 7 July 2024 characteristic features and RRB Staff Nurse 21 July 2019 Shift II steroid treatment objective; both retrieved third-party reports, not authenticated official keys.
 - NHM MP CHO 27 January 2021 Shift 1 daily weight report retrieved, mapped to existing renal assessment concept without adding a duplicate. RRB 25 November 2026 memory-based lead indexed, direct retrieval failed, not counted.
 - One related nephrotic-features MCQ chapter marker (Nursing Wallah 38:40), exact playback pending; other adaptation and all 30 originals lack specific verified practice-video mapping. Wider all-India extraction pending.
+
+- [RPGN: JSSC Grade A Nurse 16 July 2022 reported adaptation](RPGN-Reported-Evidence.md), Type II hypersensitivity in anti-GBM disease. Direct question page retrieved. Official key and dedicated video verification pending.
