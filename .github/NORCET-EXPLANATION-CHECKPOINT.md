@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run42-20261127-1613
-Scope: Group19 existing reported PYQs Z-track and infant IM site, Group20 original bank and existing ABG reported PYQ only. No shared mocks or indexes.
+Scope: Group19/20 reported and original publications verified. Group20 20 matching legacy mock rationales across existing Mock01–05. No metadata, new questions or indexes.
 Claimed UTC: 2026-11-27T16:13:00Z
 Expiry UTC: 2026-11-27T16:43:00Z
 
