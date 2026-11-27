@@ -31,6 +31,8 @@ Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
+[Legacy revision practice: Mock 01, Q41](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q41-a-bedbound-patient-has-intact-skin-with-persistent-nonblanchable-redness-over-the-sacrum-which-pressure-injury-stage-is-consistent) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q2. Which finding is consistent with a stage 2 pressure injury?
@@ -61,6 +63,8 @@ Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thicknes
 **▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q30](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q30-which-finding-is-consistent-with-a-stage-2-pressure-injury) — same topic-bank question, not a new original.
 
 </details>
 
@@ -93,6 +97,8 @@ Full-thickness skin loss mein epidermis aur dermis dono ki poori thickness damag
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
+[Legacy revision practice: Mock 01, Q120](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q120-a-pressure-injury-has-full-thickness-skin-loss-with-visible-adipose-tissue-but-no-exposed-fascia-muscle-tendon-or-bone-which-stage-fits) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q4. A pressure injury exposes tendon and bone at its base. Which stage is consistent?
@@ -123,6 +129,8 @@ Tendon muscle ko bone se jodta hai. Pressure injury mein tendon ya bone expose h
 **▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q36](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q36-a-pressure-injury-exposes-tendon-and-bone-at-its-base-which-stage-is-consistent) — same topic-bank question, not a new original.
 
 </details>
 
@@ -155,6 +163,8 @@ Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usua
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
+[Legacy revision practice: Mock 02, Q26](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q26-a-pressure-injury-base-is-entirely-covered-by-slough-and-eschar-preventing-confirmation-of-tissue-depth-how-should-it-be-classified) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q6. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
@@ -186,6 +196,8 @@ Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab
 
 **Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
 
+[Legacy revision practice: Mock 02, Q34](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q34-a-patient-has-persistent-deep-maroon-discoloration-of-intact-heel-skin-after-prolonged-pressure-which-category-should-be-considered) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q7. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
@@ -214,6 +226,8 @@ Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively k
 **Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
 
 **YouTube practice lead:** [Sachin Nursing Classes — Pressure Ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c). Creator and description retrieved, general prevention practice confirmed. Specific heel-offloading coverage, exact question and playback pending. Direct video open failed.
+
+[Legacy revision practice: Mock 02, Q65](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q65-which-intervention-directly-reduces-sustained-pressure-on-the-heels-in-a-bedbound-patient) — same topic-bank question, not a new original.
 
 </details>
 
@@ -244,6 +258,8 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 02, Q100](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q100-a-patient-has-incontinence-diffuse-irregular-superficial-redness-across-the-buttocks-and-no-clear-pressure-point-pattern-which-assessment-is-important) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q9. Which scale assesses factors such as sensory perception, moisture, activity, mobility, nutrition and friction or shear?
@@ -272,6 +288,8 @@ Braden Scale patient ke pressure injury risk ko structured way mein assess karti
 **Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification) · [Reference 2](https://www.internationalguideline.com/assessment)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 03, Q103](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q103-which-scale-assesses-factors-such-as-sensory-perception-moisture-activity-mobility-nutrition-and-friction-or-shear) — same topic-bank question, not a new original.
 
 </details>
 
@@ -304,6 +322,8 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 **▶️ [YouTube MCQ practice — pressure injury prevention and repositioning, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published description confirms dedicated bedsore prevention practice and lists repositioning. Topic-level only, mattress-specific question and playback unverified. Direct video open failed.
 
+[Legacy revision practice: Mock 03, Q37](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q37-a-patient-at-high-pressure-injury-risk-is-on-a-pressure-redistributing-mattress-which-plan-remains-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q11. Which phase of wound healing involves formation of granulation tissue and new blood vessels?
@@ -332,6 +352,8 @@ Wound healing ke overlapping phases mein proliferative phase woh time hai jab fi
 **Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://openstax.org/books/medical-surgical-nursing/pages/28-2-wound-healing-process)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 03, Q40](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q40-which-phase-of-wound-healing-involves-formation-of-granulation-tissue-and-new-blood-vessels) — same topic-bank question, not a new original.
 
 </details>
 
@@ -362,6 +384,8 @@ Dehiscence ka matlab surgically closed wound ke edges ka partial ya complete sep
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 03, Q28](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q28-a-clean-surgical-incision-develops-separation-of-wound-edges-without-visible-internal-organs-which-term-is-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q13. A postoperative abdominal wound opens and bowel becomes visible. What is the priority?
@@ -390,6 +414,8 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q81](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q81-a-postoperative-abdominal-wound-opens-and-bowel-becomes-visible-what-is-the-priority) — same topic-bank question, not a new original.
 
 </details>
 
@@ -420,6 +446,8 @@ Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh s
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 04, Q102](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q102-which-wound-drainage-is-described-as-thin-and-clear-to-pale-yellow) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q15. A wound develops increasing pain, spreading warmth and purulent drainage. What is the most appropriate response?
@@ -448,6 +476,8 @@ Wound pain ka increase, spreading warmth aur purulent drainage ek possible infec
 **Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q36](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q36-a-wound-develops-increasing-pain-spreading-warmth-and-purulent-drainage-what-is-the-most-appropriate-response) — same topic-bank question, not a new original.
 
 </details>
 
@@ -478,6 +508,8 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 04, Q63](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q63-which-healing-method-describes-a-clean-incision-with-edges-brought-together-using-sutures) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q17. An open wound is allowed to fill with granulation tissue and contract without immediate edge approximation. Which healing type is this?
@@ -506,6 +538,8 @@ Secondary intention mein wound edges immediately close nahi ki jaati. Wound dept
 **Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q24](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q24-an-open-wound-is-allowed-to-fill-with-granulation-tissue-and-contract-without-immediate-edge-approximation-which-healing-type-is-this) — same topic-bank question, not a new original.
 
 </details>
 
@@ -536,6 +570,8 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 05, Q35](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q35-why-does-excess-wound-exudate-increase-the-risk-of-periwound-maceration) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q19. Which documentation best enables comparison of wound progression over time?
@@ -565,6 +601,8 @@ Wound progression ko compare karne ke liye same standardized measurement techniq
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
 
+[Legacy revision practice: Mock 05, Q47](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q47-which-documentation-best-enables-comparison-of-wound-progression-over-time) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q20. A dry stable heel eschar has no redness, drainage or fluctuation in a patient with poor limb perfusion. What is the safest nursing approach?
@@ -593,6 +631,8 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 **Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
 
 **Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q59](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q59-a-dry-stable-heel-eschar-has-no-redness-drainage-or-fluctuation-in-a-patient-with-poor-limb-perfusion-what-is-the-safest-nursing-approach) — same topic-bank question, not a new original.
 
 </details>
 
