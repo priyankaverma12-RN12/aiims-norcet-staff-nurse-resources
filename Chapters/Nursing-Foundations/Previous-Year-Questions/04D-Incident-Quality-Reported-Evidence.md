@@ -16,10 +16,12 @@ D. Routine stock turnover indicator
 
 **Correct answer: C. Sentinel event indicator**
 
-- **A (Incorrect):** Fertility population reproductive health measure hai, serious hospital safety incident tracking nahi.
-- **B (Incorrect):** Attendance staffing process metric hai, severe care-related harm indicator nahi.
-- **C (Correct):** Sentinel-event monitoring particularly serious safety events identify karta hai aur prompt investigation and corrective actions support karta hai. All falls automatically sentinel events nahi hain. Applicable institutional and accreditation criteria check karo.
-- **D (Incorrect):** Stock turnover inventory management metric hai, harm-event classification nahi.
+- **A (Incorrect):** Fertility indicator population mein janm aur reproductive patterns ko measure karta hai. Yeh hospital ke care-related serious harm events ko identify nahi karta.
+- **B (Incorrect):** Attendance indicator staffing availability ke baare mein data deta hai. Kam staffing safety risk badha sakti hai, lekin attendance measure khud sentinel event indicator nahi hai.
+- **C (Correct):** Sentinel event ek particularly serious patient safety event hota hai. Applicable accreditation definition mein death, permanent harm ya severe harm jaise outcomes important hain, aur kuch specified events alag se listed hote hain. Such events ko promptly report karke investigation, system-level corrective action aur follow-up karna chahiye. Har fall ya near miss automatically sentinel event nahi hota. Is adaptation ke liye C sabse appropriate indicator category hai.
+- **D (Incorrect):** Stock turnover inventory kitni jaldi use ya replace ho rahi hai yeh batata hai. Yeh serious patient injury ki event classification nahi hai.
+
+**Exam clue:** Sentinel event indicator serious harm ki monitoring se juda hai. Near miss aur har incident ko sentinel event mat samjho.
 
 [Direct reported question](https://testbook.com/question-answer/the-measurement-of-serious-undesirable-and-avoida--616423865eedc18b6bdb1f82) · [Clinical reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/sentinel-event-policy-and-procedures) · [Concept](../Concepts/04D-Incident-Reporting-and-Quality-Management.md#event-classification).
 
