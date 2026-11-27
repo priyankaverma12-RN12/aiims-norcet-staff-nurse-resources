@@ -2516,9 +2516,22 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 **Correct: D. Prepare the patient for appropriate postoperative recovery activities**
 
-Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. Surgery ke baad nurse condition aur restrictions ke according practice reinforce karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching complications completely prevent nahi karti. Pain control aur assessment still important hain.
+Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow breathing kar sakta hai aur kam move kar sakta hai. Isse lung ke air sacs collapse hone aur immobility-related complications ka risk badh sakta hai. Surgery se pehle nurse suitable deep breathing, coughing aur mobilization techniques samjha sakti hai. Baad mein stability, pain aur surgical restrictions dekhkar exercises reinforce ki jaati hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Teaching postoperative assessment ki zaroorat khatam nahi karti.
+- **B (Galat):** Pain management ke bina patient deep breath ya movement comfortably nahi kar paata.
+- **C (Galat):** Koi exercise sabhi possible postoperative complications ko prevent karne ki guarantee nahi deti.
+- **D (Sahi):** Preoperative instruction patient ko recovery activities ke liye mentally aur practically prepare karti hai.
+
+**Exam clue:** Recovery exercises ko patient ki current condition ke hisaab se reinforce karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2620,9 +2633,22 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 **Correct: D. Assess airway patency and breathing and obtain appropriate airway support**
 
-Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced consciousness ke saath airway compromise urgent priority hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Oral fluid aspiration risk badhati hai. Meal aur discharge teaching breathing stabilize hone ke baad appropriate hain.
+Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab consciousness kam hoti hai, toh patient airway ko khud protect nahi kar paata. Nurse turant airway aur breathing assess karti hai, emergency help leti hai aur trained team ke saath indicated airway positioning, suction, oxygen ya ventilation support arrange karti hai. Routine care ke liye emergency assessment delay nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Discharge exercises immediate life-threatening problems manage hone ke baad sikhayi jaati hain.
+- **B (Galat):** Meal preference breathing compromise address nahi karti aur assessment delay kar sakti hai.
+- **C (Galat):** Reduced consciousness mein oral fluid lungs mein ja sakta hai.
+- **D (Sahi):** Airway aur breathing first priority hain, kyunki oxygen supply rukne par patient rapidly deteriorate ho sakta hai.
+
+**Exam clue:** Reduced consciousness aur abnormal breathing mein airway aur breathing ko priority do.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2976,9 +3002,22 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 **Correct: D. Postoperative hemorrhage with impaired perfusion**
 
-Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poor perfusion suggest karte hain, isliye urgent surgical review chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ye stable recovery ka expected pattern nahi hai. Sleep aur knowledge deficit blood loss explain nahi karte.
+Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta hai, toh organs tak oxygen aur blood pahunchne mein dikkat ho sakti hai. Pulse badhna, BP girna aur wound drainage rapidly badhna ongoing blood loss ke warning signs hain. Nurse ABC, vital signs, perfusion aur wound assess karke urgent surgical help activate karti hai aur hemorrhage protocol follow karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Knowledge deficit teaching ki need dikhata hai, lekin physiological deterioration urgent hai.
+- **B (Galat):** Normal sleep increasing wound blood loss aur circulatory instability explain nahi karti.
+- **C (Galat):** Rapidly falling BP aur increasing drainage routine recovery ka expected pattern nahi hai.
+- **D (Sahi):** Hemorrhage circulating volume kam kar sakta hai, isliye tachycardia aur hypotension impaired perfusion ka concern hain.
+
+**Exam clue:** Falling BP, rising pulse aur increasing bloody drainage ko urgent bleeding warning samjho.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3645,9 +3684,22 @@ Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke
 
 **Correct: C. Communicate the allergy and ensure a latex-safe perioperative plan**
 
-Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko allergy pehle se pata hona chahiye taaki suitable equipment ready ho.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Brief exposure aur premedication risk eliminate nahi karte. Reaction ka wait unsafe hai.
+Latex allergy mein immune system natural rubber latex ke proteins par react kar sakta hai. Severe reaction mein airway swelling, breathing problem aur low BP ho sakta hai. Nurse allergy ko record aur communicate karti hai aur team ke saath latex-safe gloves, devices aur environment arrange karti hai. Premedication exposure avoid karne ka replacement nahi hoti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Symptoms ka wait karne se preventable exposure aur serious reaction ho sakti hai.
+- **B (Galat):** Brief surgery mein bhi latex reaction trigger kar sakta hai.
+- **C (Sahi):** Team ko pehle inform karne aur latex-safe plan banane se exposure risk kam hota hai.
+- **D (Galat):** Premedication allergy risk completely khatam nahi karti, isliye alert remove karna unsafe hai.
+
+**Exam clue:** Known latex allergy mein exposure prevent karo.
+
+**Clinical reference:** [Clinical guidance](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/operating-suite)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
