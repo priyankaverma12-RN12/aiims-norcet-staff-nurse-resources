@@ -17,3 +17,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [HCF and LCM evidence](02-HCF-and-LCM-Reported-Evidence.md): four reported recruitment concept families (UPPSC, DSSSB, RRB and OSSSC). Chapter total five counted families, six solved adaptations. Related variants retained without inflating counts. Official keys pending.
+
+
+[Simplification reported evidence](03-Simplification-Reported-Evidence.md): three reported recruitment question families, RRB March 2026 shifts 2 and 3 and DSSSB August 2019 shift 2. Chapter total eight counted families and nine solved adaptations. Official keys pending.
