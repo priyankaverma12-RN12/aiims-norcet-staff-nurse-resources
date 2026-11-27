@@ -86,9 +86,22 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 **Correct: B. Urgently assess neurovascular status and escalate for possible compartment syndrome**
 
-Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Severe pain aur paresthesia urgent signs hain. Pulses present hone par bhi condition possible hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Delay aur blind massage harmful ho sakte hain. Pulse alone exclusion nahi karta.
+Compartment syndrome mein muscle ke around closed space ka pressure itna badh sakta hai ki blood supply aur nerves compromise ho jaati hain. Tight cast ke baad disproportionate pain aur paresthesia, yani tingling ya abnormal sensation, urgent warning signs hain. Nurse distal colour, temperature, sensation, movement, capillary refill, pulse aur pain assess karti hai aur urgent surgical review activate karti hai. Compression relieve karne ke authorized emergency protocol follow karo. Palpable pulse se early compartment syndrome exclude nahi hota.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Kal tak wait karne se pressure-related muscle aur nerve injury badh sakti hai.
+- **B (Sahi):** Urgent neurovascular assessment aur escalation time-sensitive condition identify aur treat karne mein help karti hai.
+- **C (Galat):** Blind massage pressure problem treat nahi karti aur tissue injury ka risk hai.
+- **D (Galat):** Pulse early stage mein present ho sakta hai, isliye pulse alone condition rule out nahi karta.
+
+**Exam clue:** Disproportionate pain aur new tingling ko urgent warning samjho, chahe pulse present ho.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK448124/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1744,9 +1757,24 @@ Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 
 
 **Correct: B. Immediately communicate the discrepancy and follow the retained-item prevention protocol**
 
-Incorrect count retained item ka risk indicate kar sakta hai. Team ko promptly informed hona chahiye taaki systematic search aur indicated imaging ho sake.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False count, concealment aur assumption patient safety compromise karte hain.
+Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse discrepancy immediately surgeon aur team ko batati hai, taaki systematic recount, search aur indicated imaging local protocol ke hisaab se ho sakein. Closure ke baare mein responsible team patient safety aur urgency dekhkar decision leti hai. Actual count aur actions accurately document karna zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Incorrect count ko correct document karna false record hai aur safety risk hide karta hai.
+- **B (Sahi):** Discrepancy communicate aur protocol follow karne se problem timely address ho sakti hai.
+- **C (Galat):** Bina search assume karne se retained item miss ho sakta hai.
+- **D (Galat):** Record discard karne se important information kho sakti hai.
+
+**Exam clue:** Incorrect count ko conceal mat karo. Turant team ko inform karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2107,9 +2135,22 @@ Disinfectant ko organisms par effective action ke liye manufacturer-specified co
 
 **Correct: B. Current airway and vital status, procedure details, orders and recovery criteria**
 
-Postoperative transfer safe tab hota hai jab stability aur monitoring needs assessed hon. Receiving nurse ko procedure, orders aur risk information chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Arrival time, decor aur meal preference alone safe transfer determine nahi karte.
+Postoperative handover mein ek team doosri team ko patient ki important information deti hai. Ward transfer se pehle nurse airway, breathing, vital signs, consciousness aur recovery status assess karti hai. Receiving nurse ko procedure, anesthesia, allergies, complications, lines, drains, medicines, orders aur monitoring needs batayi jaati hain. Patient ko authorized recovery criteria meet karne chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Room decoration physiological recovery criteria se related nahi hai.
+- **B (Sahi):** Current stability aur complete handover se receiving team safe care continue kar sakti hai.
+- **C (Galat):** Surgeon ka arrival time patient stability establish nahi karta.
+- **D (Galat):** Meal preference comfort information hai lekin safe transfer ka main criterion nahi hai.
+
+**Exam clue:** Ward transfer se pehle current condition aur clinical handover verify karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2737,9 +2778,22 @@ Indwelling catheter urethra se bladder tak route create karta hai. Acute-care in
 
 **Correct: D. Explain wound care, medication, activity restrictions and warning signs according to the procedure**
 
-Patient ko procedure-specific recovery plan samajhna chahiye. Clear warning signs aur follow-up instructions timely help access support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal plan unsuitable ho sakta hai. Warning signs omit karna aur independent dose change unsafe hain.
+Discharge education se patient ghar par recovery safely manage kar sakta hai. Nurse procedure-specific wound care, medicines ka dose aur timing, activity restrictions, follow-up aur warning signs samjhati hai. Increasing wound redness, heavy bleeding, severe pain ya breathing difficulty par kab urgent help leni hai, yeh clearly batana chahiye. Teach-back mein patient apne words mein instructions repeat karta hai, jisse misunderstanding identify ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Medication dose independently change karne se adverse effects ya inadequate treatment ho sakta hai.
+- **B (Galat):** Har surgery ki wound care aur restrictions same nahi hoti.
+- **C (Galat):** Warning signs omit karne se serious complication mein help lene mein delay ho sakta hai.
+- **D (Sahi):** Procedure-specific instructions safe home care aur timely help-seeking support karti hain.
+
+**Exam clue:** Home care, restrictions, follow-up aur warning signs clearly samjhao.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
