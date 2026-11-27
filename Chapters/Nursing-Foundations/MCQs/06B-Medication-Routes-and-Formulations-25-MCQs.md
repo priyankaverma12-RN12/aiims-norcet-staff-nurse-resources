@@ -16,10 +16,14 @@ D. Check formulation suitability with pharmacy and the swallowing plan before ad
 
 **Correct answer: D. Check formulation suitability with pharmacy and the swallowing plan before administering**
 
-- **A (Incorrect):** Straw use cannot guarantee safe swallowing.
-- **B (Incorrect):** Liquid form alone aspiration risk eliminate nahi karti.
-- **C (Incorrect):** Dilution se fluid aur thin ho sakta hai.
-- **D (Correct):** Liquid medicine bhi thin fluid ho sakti hai. Swallowing assessment aur pharmacist advice se safe formulation and consistency choose karo.
+- **A (Incorrect):** Straw se thin liquid fast flow kar sakti hai. Dysphagia yani swallowing difficulty mein aspiration ka risk individualized assessment se decide hota hai.
+- **B (Incorrect):** Liquid medicine thin bhi ho sakti hai. Liquid form alone safe swallowing guarantee nahi karti.
+- **C (Incorrect):** Water add karne se consistency aur thin ho sakti hai aur prescribed swallowing plan violate ho sakta hai.
+- **D (Correct):** Pharmacist aur swallowing team se suitable formulation aur required consistency verify karo. Kuch medicines thickeners ke saath interact kar sakti hain, isliye bina guidance modify mat karo. Aspiration ka matlab liquid ya food airway mein chala jaana hai.
+
+**Exam clue:** Liquid medicine does not automatically mean safe for dysphagia.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/why-and-how-medicines-are-given-with-soft-food-or-thickened-fluid/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -41,10 +45,14 @@ D. It can always be administered through any feeding tube
 
 **Correct answer: B. Its administration follows the product instructions and is not automatically equivalent to a sublingual drug**
 
-- **A (Incorrect):** Oral disintegration ka meaning transmucosal absorption automatically nahi hai.
-- **B (Correct):** Tablet mouth mein disintegrate ho sakti hai but drug swallowing ke baad GI absorption bhi ho sakti hai. Label follow karo.
-- **C (Incorrect):** Crushing usually required nahi hoti unless product instructions specify.
-- **D (Incorrect):** Tube suitability formulation-specific hai.
+- **A (Incorrect):** Orally disintegrating tablet mouth mein break hoti hai, lekin drug necessarily sublingual mucosa se absorb nahi hoti.
+- **B (Correct):** ODT ki formulation mouth mein disintegrate karne ke liye designed hoti hai. Kai products swallow hone ke baad GI tract se absorb hote hain. Product label ke according administration karo aur sublingual route assume mat karo.
+- **C (Incorrect):** ODT ko crush karna automatically required nahi hai.
+- **D (Incorrect):** Feeding tube compatibility particle size, formulation aur tube-tip location par depend karti hai.
+
+**Exam clue:** ODT and sublingual are not synonymous.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -66,10 +74,12 @@ D. Whether the tablet color is similar
 
 **Correct answer: A. Whether the release profile, dose schedule and authorized order are appropriate**
 
-- **A (Correct):** Release profile change se peak and duration change ho sakti hai. Prescriber and pharmacy se regimen confirm karo.
-- **B (Incorrect):** Packaging equivalence establish nahi karti.
-- **C (Incorrect):** Preference important hai but dose safety verify karni hogi.
-- **D (Incorrect):** Color pharmacokinetics nahi batata.
+- **A (Correct):** Immediate-release aur modified-release formulations ki drug release rate aur duration differ kar sakti hai. Same ingredient hone ke bawajood schedule aur total dose verify karna chahiye. Authorized order aur pharmacy guidance se substitution confirm karo.
+- **B (Incorrect):** Identical packaging pharmacokinetic equivalence prove nahi karti.
+- **C (Incorrect):** Brand preference relevant ho sakti hai lekin release profile aur authorized dose ka substitute nahi hai.
+- **D (Incorrect):** Color formulation ya release rate establish nahi karta.
+
+**Exam clue:** Same ingredient does not guarantee same dosing schedule.
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -91,10 +101,14 @@ D. The patient's request alone
 
 **Correct answer: C. Product-specific instructions and pharmacy advice**
 
-- **A (Incorrect):** Size splitting suitability establish nahi karta.
-- **B (Incorrect):** Line alone equal dose guarantee nahi karti.
-- **C (Correct):** Score line sometimes dose splitting ke liye hoti hai but label confirm karna essential hai. Product-specific advice dose accuracy protect karti hai.
-- **D (Incorrect):** Preference ke saath approved formulation check bhi chahiye.
+- **A (Incorrect):** Small tablet size uniform drug distribution ya safe splitting prove nahi karti.
+- **B (Incorrect):** Visible score line kabhi swallowing ease ke liye bhi ho sakti hai. Equal dose splitting ka approval verify karo.
+- **C (Correct):** Product instructions aur pharmacy advice se check karo ki splitting dose accuracy, stability aur release mechanism affect karegi ya nahi. Modified-release aur coated products mein particular caution chahiye.
+- **D (Incorrect):** Patient request ko consider karo, lekin safety criteria aur authorized dose follow karo.
+
+**Exam clue:** A score line alone is not proof of safe dose splitting.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/checking-if-tablets-can-be-crushed-or-capsules-opened/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -116,10 +130,14 @@ D. Assume all capsules with the same ingredient have the same instructions
 
 **Correct answer: B. Administer intact granules in the permitted vehicle as instructed**
 
-- **A (Incorrect):** Grinding release-controlling coating damage kar sakta hai.
-- **B (Correct):** Product-specific permission ke according intact granules use karo. Chewing ya crushing release pattern alter kar sakti hai.
-- **C (Incorrect):** Hot water suitability established nahi hai.
-- **D (Incorrect):** Brands aur formulations differ kar sakte hain.
+- **A (Incorrect):** Grinding granules ki modified-release coating destroy kar sakta hai, jisse drug rapidly release ho sakti hai.
+- **B (Correct):** Specific product capsule opening allow karta hai toh intact granules approved food ya liquid vehicle mein administer karo. Granules chew ya crush na karne ki instruction explain karo aur complete dose consume hona ensure karo.
+- **C (Incorrect):** Boiling water coating aur drug stability alter kar sakta hai. Product instructions ke bina use mat karo.
+- **D (Incorrect):** Same active ingredient ke different brands aur formulations ki instructions different ho sakti hain.
+
+**Exam clue:** Opening a capsule is not the same as crushing its granules.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/checking-if-tablets-can-be-crushed-or-capsules-opened/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -141,10 +159,14 @@ D. Heat the bottle until the sediment disappears
 
 **Correct answer: C. Resuspend according to label instructions before measuring**
 
-- **A (Incorrect):** Sediment mein active drug ho sakta hai.
-- **B (Incorrect):** Upper liquid intended concentration represent nahi kar sakta.
-- **C (Correct):** Label ke according shake or resuspend karo taaki particles evenly distribute hon.
-- **D (Incorrect):** Heating stability alter kar sakti hai.
+- **A (Incorrect):** Sediment discard karne se active drug ka part remove ho sakta hai aur measured dose incorrect hogi.
+- **B (Incorrect):** Clear upper liquid mein intended drug concentration nahi ho sakti kyunki suspended particles settle ho jaate hain.
+- **C (Correct):** Suspension mein insoluble drug particles liquid mein dispersed hote hain. Storage ke dauran settling ho sakti hai. Label ke according resuspend karke calibrated device se measure karo.
+- **D (Incorrect):** Heating product stability change kar sakti hai aur approved preparation method nahi hai.
+
+**Exam clue:** Suspension: resuspend as directed, then measure.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -166,10 +188,14 @@ D. Crush it in the shared ward tablet crusher
 
 **Correct answer: A. Consult pharmacy for a safe formulation and hazardous-drug handling plan**
 
-- **A (Correct):** Pharmacy product-specific alternative and handling controls identify karegi. Unapproved manipulation avoid karo.
-- **B (Incorrect):** Family ko unassessed hazard transfer karna safe nahi hai.
-- **C (Incorrect):** Powder exposure inhalation or skin contact se harm cause kar sakta hai.
-- **D (Incorrect):** Shared equipment contamination aur staff exposure cause kar sakta hai.
+- **A (Correct):** Hazardous oral drug crush karne se dust exposure patient, nurse aur caregiver ke liye risk create kar sakta hai. Pharmacy se suitable alternative aur approved containment, PPE aur handling plan verify karo.
+- **B (Incorrect):** Family ko unprotected crushing karne ko kehna exposure risk transfer karta hai.
+- **C (Incorrect):** Open bedside crushing airborne dust aur surface contamination spread kar sakti hai.
+- **D (Incorrect):** Shared crusher se hazardous residue next patient's medicine contaminate kar sakta hai.
+
+**Exam clue:** Hazardous medicine modification requires pharmacy-led risk controls.
+
+[Additional clinical reference](https://www.cdc.gov/niosh/docs/2023-130/default.html)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -191,10 +217,14 @@ D. A suitable graduated oral syringe
 
 **Correct answer: D. A suitable graduated oral syringe**
 
-- **A (Incorrect):** IV connector and needle unnecessary wrong-route and sharps hazard hain.
-- **B (Incorrect):** Household spoons variable capacity ke hote hain.
-- **C (Incorrect):** Unmarked cup accurate measurement nahi karta.
-- **D (Correct):** Oral syringe accurate volume measure karta hai and route-specific design wrong-route risk reduce karta hai.
+- **A (Incorrect):** Needle-attached IV syringe wrong-route connection aur sharps injury risk create karti hai.
+- **B (Incorrect):** Household teaspoons standardized volume nahi dete.
+- **C (Incorrect):** Unmarked cup small volume accurately measure nahi kar sakta.
+- **D (Correct):** Graduated oral syringe small liquid dose accurately measure karne mein help karti hai aur route-specific design IV misconnections ka risk reduce karta hai. Correct units aur concentration verify karo.
+
+**Exam clue:** Use a calibrated oral device for oral liquids.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#oral-formulations) · [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 
@@ -216,10 +246,14 @@ D. Move the tube independently into the stomach
 
 **Correct answer: B. Confirm tube-tip location and medicine suitability with pharmacy before administration**
 
-- **A (Incorrect):** Different tube-tip sites drug absorption affect kar sakti hain.
-- **B (Correct):** Drug-specific absorption and formulation check karo. Jejunal delivery oral or gastric route ke equivalent nahi ho sakti.
-- **C (Incorrect):** Empirical dose doubling unsafe hai.
-- **D (Incorrect):** Tube repositioning authorized clinical procedure hai.
+- **A (Incorrect):** Gastric aur jejunal tube ka delivery site different hota hai. Drug absorption, acidity aur formulation performance change ho sakte hain.
+- **B (Correct):** Jejunal tube stomach bypass karti hai. Drug ki site-specific absorption aur formulation requirements pharmacy se verify karo. Tube tip position aur authorized administration route confirm karke alternative plan arrange karo if unsuitable.
+- **C (Incorrect):** Double dose independently dene se unpredictable absorption aur toxicity ho sakti hai.
+- **D (Incorrect):** Tube position independently change karna invasive unsafe action ho sakta hai. Authorized clinical team review required hai.
+
+**Exam clue:** Enteral tube tip location matters for drug suitability.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/choosing-medicines-for-enteral-tube-administration/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -241,10 +275,12 @@ D. Crush all medicines together regardless of formulation
 
 **Correct answer: C. Prepare and administer each separately with prescribed flushing between them**
 
-- **A (Incorrect):** Mixing interactions and obstruction cause kar sakti hai.
-- **B (Incorrect):** Feed bag mein dose delivery uncertain ho sakti hai.
-- **C (Correct):** Separate administration and suitable flushes residual drug clear karte hain and interactions reduce karte hain. Fluid limits follow karo.
-- **D (Incorrect):** Formulation-specific crush suitability check required hai.
+- **A (Incorrect):** Same syringe mein mixing chemical incompatibility, precipitation ya blockage cause kar sakti hai.
+- **B (Incorrect):** Full feed container mein medicines add karne se dose delivery incomplete aur drug-feed interaction possible hai.
+- **C (Correct):** Har medicine separately compatible form mein prepare karo aur approved water/flush plan follow karo before, between and after medicines. Flush amount fluid restriction, age aur device instructions ke according individualize karo.
+- **D (Incorrect):** All tablets together crush karna release coating aur formulation safety ignore karta hai.
+
+**Exam clue:** Separate medicines and flush according to individualized instructions.
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -266,10 +302,14 @@ D. Stop all nutrition for the entire day
 
 **Correct answer: A. Use a drug-specific feed-break and restart plan agreed with the clinical team**
 
-- **A (Correct):** Drug-specific timing and flush plan se absorption support hoti hai and unnecessary nutrition loss avoid hota hai.
-- **B (Incorrect):** Feed interaction absorption reduce kar sakti hai.
-- **C (Incorrect):** Dose adjustment authorized decision hai.
-- **D (Incorrect):** Unnecessary long interruption nutrition compromise karti hai.
+- **A (Correct):** Drug-feed interaction se absorption reduce ya effect alter ho sakta hai. Drug-specific feed hold aur restart timing pharmacist, dietitian aur clinical team ke saath agree karo. Nutrition loss minimize aur plan document karo.
+- **B (Incorrect):** Prescription ka hona interaction risk remove nahi karta.
+- **C (Incorrect):** Independent dose increase se feed timing change hone par overdose ho sakta hai.
+- **D (Incorrect):** Whole-day nutrition stop karna unnecessarily calorie aur fluid deficit cause kar sakta hai.
+
+**Exam clue:** Feed breaks must be drug-specific, not universal.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/managing-interactions-between-medicines-and-enteral-feeds/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -291,10 +331,14 @@ D. Stop and assess tube patency using the approved blockage protocol
 
 **Correct answer: D. Stop and assess tube patency using the approved blockage protocol**
 
-- **A (Incorrect):** Previous patency current safety establish nahi karti.
-- **B (Incorrect):** Force tube damage or injury cause kar sakta hai.
-- **C (Incorrect):** Unapproved chemicals tube and patient harm cause kar sakte hain.
-- **D (Correct):** Resistance obstruction or kink indicate kar sakti hai. Patency verify karo before medication.
+- **A (Incorrect):** Yesterday patency current tube patency guarantee nahi karti.
+- **B (Incorrect):** Forceful push tube damage, dislodgement ya uncontrolled drug delivery cause kar sakta hai.
+- **C (Incorrect):** Unapproved chemicals tube material damage kar sakte hain aur patient harm cause kar sakte hain.
+- **D (Correct):** Resistance milne par stop karo, clamp, kink aur position-related concerns assess karo aur approved blockage protocol follow karo. Patency uncertain ho toh medicine administer mat karo.
+
+**Exam clue:** Do not force medication through an obstructed tube.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/preventing-and-managing-enteral-feeding-tube-blockages/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -316,10 +360,12 @@ D. Record only the medicine volume
 
 **Correct answer: A. Agree safe flush volumes with the team and include them in fluid accounting**
 
-- **A (Correct):** Individual fluid restriction aur tube requirements balance karo. Flush water intake mein count karo.
-- **B (Incorrect):** Omitting flushes blockage and incomplete doses cause kar sakta hai.
-- **C (Incorrect):** Fixed large volumes inappropriate ho sakti hain.
-- **D (Incorrect):** Flush volume bhi patient ke intake ka part hai.
+- **A (Correct):** Flushes tube patency maintain karte hain lekin strict fluid allowance mein unka volume total intake mein count hota hai. Team ke saath safe individualized flush plan agree karo aur medication aur flush volumes document karo.
+- **B (Incorrect):** All flushes omit karne se obstruction aur medicine retention ho sakti hai.
+- **C (Incorrect):** Same maximum volume every patient ke liye suitable nahi hai, especially pediatric aur fluid-restricted patients.
+- **D (Incorrect):** Only medicine volume record karne se actual fluid intake underestimate hoga.
+
+**Exam clue:** Flush water is part of total fluid intake.
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -341,10 +387,12 @@ D. It guarantees the prescribed dose is correct
 
 **Correct answer: C. It helps prevent accidental connection of enteral medication to an intravenous line**
 
-- **A (Incorrect):** Connector design sterility prove nahi karta.
-- **B (Incorrect):** Other checks still required hain.
-- **C (Correct):** Route-specific incompatible connectors wrong-route connections prevent karne ka engineering control hain.
-- **D (Incorrect):** Dose verification separate process hai.
+- **A (Incorrect):** Connector design drug sterility establish nahi karta. Preparation and handling separately verify hote hain.
+- **B (Incorrect):** Wrong-route risk reduce hota hai, lekin dose, identity aur other errors possible rehte hain.
+- **C (Correct):** Enteral-specific connectors physical incompatibility se IV access ke saath accidental connection prevent karne mein help karte hain. Isse safety memory alone par depend nahi karti. Correct route verification still required hai.
+- **D (Incorrect):** Connector prescribed dose calculate ya verify nahi karta.
+
+**Exam clue:** Route-specific connectors reduce misconnections.
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#enteral-tube-safety) · [Clinical reference](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
@@ -366,10 +414,14 @@ D. The intended local or systemic effect and prescribed formulation must be revi
 
 **Correct answer: D. The intended local or systemic effect and prescribed formulation must be reviewed before substitution**
 
-- **A (Incorrect):** Skin routes ke effects and absorption vary karte hain.
-- **B (Incorrect):** Topical products often local effect ke liye hote hain, systemic absorption possible hai.
-- **C (Incorrect):** Patch application site label-specific hoti hai.
-- **D (Correct):** Transdermal product systemic delivery ke liye designed ho sakta hai. Authorized therapeutic substitution review required hai.
+- **A (Incorrect):** Skin products ka intended effect aur absorption different ho sakta hai.
+- **B (Incorrect):** Topical cream usually local effect ke liye hoti hai, systemic absorption product-specific hoti hai.
+- **C (Incorrect):** Patch ko lesion par apply karna instructions violate kar sakta hai aur altered skin absorption risk create kar sakta hai.
+- **D (Correct):** Topical preparation local effect ke liye prescribed ho sakti hai, jabki transdermal patch skin se systemic drug delivery provide karti hai. Indication, dose aur authorized formulation review ke bina substitute mat karo.
+
+**Exam clue:** Topical and transdermal are not automatically interchangeable.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-introduction)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -391,10 +443,14 @@ D. The patch should be covered with a hot wet towel
 
 **Correct answer: B. Avoid external heat over the patch because it may increase drug delivery**
 
-- **A (Incorrect):** Patch activation ke liye heat generally required nahi hai.
-- **B (Correct):** External heat absorption or drug release increase kar sakti hai and overdose risk badh sakta hai. Product-specific warnings follow karo.
-- **C (Incorrect):** Heat adverse effects prevent nahi karti.
-- **D (Incorrect):** Hot towel bhi unsafe heat exposure hai.
+- **A (Incorrect):** Heat har patch ko activate karne ke liye required nahi hai.
+- **B (Correct):** External heat skin blood flow aur fentanyl absorption increase kar sakti hai. Isse sedation aur life-threatening respiratory depression ka risk badhta hai. Heating pad aur other direct heat avoid karne ki product guidance explain karo.
+- **C (Incorrect):** Heat opioid adverse effects prevent nahi karti, risk badha sakti hai.
+- **D (Incorrect):** Hot wet towel bhi external heat exposure hai aur patch adhesion affect kar sakta hai.
+
+**Exam clue:** Fentanyl patch plus external heat can cause overdose.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/using-transdermal-patches-safely-in-healthcare-settings/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -416,10 +472,14 @@ D. Cover the patch with metallic foil
 
 **Correct answer: A. Check the specific patch's MRI compatibility and coordinate removal and replacement if required**
 
-- **A (Correct):** Some patches contain metal and MRI burns cause kar sakte hain. Product instructions and MRI team se plan confirm karo.
-- **B (Incorrect):** Permanent discontinuation therapy interrupt kar sakti hai.
-- **C (Incorrect):** All products identical nahi hote.
-- **D (Incorrect):** Metal foil risk increase kar sakta hai.
+- **A (Correct):** Some patches metal-containing backing rakhte hain jo MRI mein heating aur burn risk create kar sakta hai. Specific product compatibility verify karo aur MRI team/pharmacy ke saath removal, replacement timing aur treatment continuity coordinate karo.
+- **B (Incorrect):** Every patch permanently remove karne se necessary therapy interrupt ho sakti hai.
+- **C (Incorrect):** All patches MRI safe nahi hote. Product-specific check needed hai.
+- **D (Incorrect):** Metallic foil additional MRI hazard create kar sakti hai.
+
+**Exam clue:** MRI patch safety depends on the specific product.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/managing-problems-when-using-transdermal-patches/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -441,10 +501,14 @@ D. Apply the cut patch with extra adhesive
 
 **Correct answer: C. Check product-specific instructions and obtain an authorized suitable strength or alternative**
 
-- **A (Incorrect):** Cutting delivery mechanism disrupt kar sakta hai.
-- **B (Incorrect):** Duration change dose rate safely compensate nahi karta.
-- **C (Correct):** Do not improvise cutting. Pharmacy and prescriber se appropriate formulation arrange karo.
-- **D (Incorrect):** Extra adhesive altered release correct nahi karti.
+- **A (Incorrect):** All patches cut nahi kiye ja sakte. Reservoir system cutting se uncontrolled drug release ho sakti hai.
+- **B (Incorrect):** Higher-strength patch ko shorter duration use karna prescribed release rate ya total absorption reliably match nahi karta.
+- **C (Correct):** Suitable licensed strength ya alternative formulation obtain karo. Cutting exceptional off-label decision ho sakta hai aur specific product design, pharmacy guidance aur authorized plan required hai.
+- **D (Incorrect):** Extra adhesive release profile aur cut-edge risks correct nahi karta.
+
+**Exam clue:** Never routinely cut a higher-strength patch.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/cutting-or-masking-transdermal-patches-safely/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -466,10 +530,14 @@ D. Follow product-specific safe disposal instructions because residual drug may 
 
 **Correct answer: D. Follow product-specific safe disposal instructions because residual drug may remain**
 
-- **A (Incorrect):** Residual drug used patch mein reh sakta hai.
-- **B (Incorrect):** Children or pets accidental exposure se harm ho sakte hain.
-- **C (Incorrect):** Sink disposal product guidance ke bina appropriate nahi hai.
-- **D (Correct):** Used patch safely contain and dispose karo as manufacturer and local policy direct.
+- **A (Incorrect):** Used patch mein clinically significant residual medicine remain ho sakti hai.
+- **B (Incorrect):** Child exposure especially opioid patch mein severe poisoning cause kar sakta hai.
+- **C (Incorrect):** Sink mein wash karna exposure aur environmental contamination risk create kar sakta hai.
+- **D (Correct):** Product-specific disposal instructions aur local pharmaceutical waste policy follow karo. Used patch ko children, pets aur unintended skin contact se protect karo. Folding adhesive sides together where instructed useful ho sakta hai.
+
+**Exam clue:** Used patch may still contain active medicine.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/using-transdermal-patches-safely-in-healthcare-settings/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -491,10 +559,14 @@ D. Ignore detachment until the next scheduled change
 
 **Correct answer: B. Check the specific product's instructions and obtain advice on securing or replacing it**
 
-- **A (Incorrect):** Additional patches excess exposure cause kar sakte hain.
-- **B (Correct):** Detachment dose delivery affect kar sakti hai. Approved product-specific management follow karo.
-- **C (Incorrect):** Some adhesives or coverings delivery affect kar sakte hain.
-- **D (Incorrect):** Detachment therapy interruption cause kar sakti hai.
+- **A (Incorrect):** Extra patches unintended excessive dose produce kar sakti hain.
+- **B (Correct):** Partial detachment se drug delivery unreliable ho sakti hai. Product instructions check karo, time aur adhesion issue document karo aur approved securing or replacement plan obtain karo. Previous dose exposure consider karo.
+- **C (Incorrect):** Every patch par arbitrary tape ya dressing use karna absorption ya adhesion affect kar sakta hai.
+- **D (Incorrect):** Detachment ignore karne se inadequate therapy ya accidental exposure ho sakta hai.
+
+**Exam clue:** Check product-specific adhesion and replacement instructions.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/managing-problems-when-using-transdermal-patches/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#topical-and-transdermal) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596720/)
 
@@ -516,10 +588,14 @@ D. Change the prescribed route to intramuscular
 
 **Correct answer: B. Follow the product-specific food timing instructions and coordinate with the meal schedule**
 
-- **A (Incorrect):** Food effect medicine-specific hota hai.
-- **B (Correct):** Prescribed timing se absorption and efficacy support hoti hai. Label and order check karo.
-- **C (Incorrect):** Food interaction reduce bioavailability kar sakti hai.
-- **D (Incorrect):** Route independently change nahi karte.
+- **A (Incorrect):** Food kuch drugs ki absorption increase aur kuch ki reduce kar sakta hai. Universal meal advice incorrect hai.
+- **B (Correct):** Empty-stomach instructions drug-specific food interaction ya absorption requirements ke liye hoti hain. Label timing verify karke meals aur other medicines se coordinate karo. Patient ko exact approved schedule samjhao.
+- **C (Incorrect):** Full meal mixing empty-stomach requirement violate kar sakti hai.
+- **D (Incorrect):** Route independently IM change karna unauthorized aur potentially unsafe hai.
+
+**Exam clue:** Food timing is product-specific.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/checking-if-medicines-can-be-given-with-food/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
@@ -541,10 +617,14 @@ D. Record the original dose as never administered without explanation
 
 **Correct answer: C. Assess the situation and obtain a drug-specific authorized decision before any replacement dose**
 
-- **A (Incorrect):** Absorbed amount unknown ho sakti hai, repeat dose overdose cause kar sakti hai.
-- **B (Incorrect):** Visible fragments absorption uncertainty show karte hain.
-- **C (Correct):** Timing, formulation and patient status review karke authorized advice lo. Event document karo.
-- **D (Incorrect):** Actual administration and vomiting accurately record karo.
+- **A (Incorrect):** Vomiting ke baad full repeat dose se absorbed portion ke upar extra dose add ho sakti hai.
+- **B (Incorrect):** Fragments visible hone se complete absorption ya no absorption prove nahi hota.
+- **C (Correct):** Vomiting timing, drug type, observed fragments, patient condition aur repeat-dose toxicity assess karo. Prescriber/pharmacist se drug-specific authorized decision lo aur actual dose/vomiting document karo.
+- **D (Incorrect):** Original administration ko erase karne se exposure history inaccurate ho jaati hai.
+
+**Exam clue:** Vomited dose: do not automatically repeat.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
@@ -566,10 +646,14 @@ D. Only the patient's oral fluid intake
 
 **Correct answer: A. The prescribed indication, route and any relevant rectal contraindications**
 
-- **A (Correct):** Route-specific risk such as recent rectal surgery or bleeding and local policy assess karo.
-- **B (Incorrect):** Rectal formulation oral administration ke liye automatically suitable nahi hai.
-- **C (Incorrect):** Color route identify nahi karta.
-- **D (Incorrect):** Fluid intake alone suitability decide nahi karta.
+- **A (Correct):** Rectal route local ya systemic effect ke liye use ho sakti hai. Indication, formulation, bleeding, recent rectal surgery ya other relevant contraindications assess karo. Consent, privacy aur facility technique follow karo.
+- **B (Incorrect):** Rectal formulation oral use ke liye automatically suitable nahi hai.
+- **C (Incorrect):** Color correct route establish nahi karta.
+- **D (Incorrect):** Oral fluid intake alone rectal medication suitability assess nahi karti.
+
+**Exam clue:** Verify indication and contraindications for the prescribed rectal route.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
@@ -591,10 +675,14 @@ D. The authorized replacement dose may differ because bioavailability and formul
 
 **Correct answer: D. The authorized replacement dose may differ because bioavailability and formulation vary by route**
 
-- **A (Incorrect):** IV and oral pharmacokinetics different ho sakti hain.
-- **B (Incorrect):** Milligram equality exposure equality guarantee nahi karti.
-- **C (Incorrect):** Route decision clinical indication and authorization par depend karti hai.
-- **D (Correct):** Route change absorption and first-pass effects alter kar sakta hai. Authorized conversion and monitoring plan chahiye.
+- **A (Incorrect):** Oral aur IV routes ka absorption aur first-pass metabolism differ kar sakta hai.
+- **B (Incorrect):** Same milligram dose every route mein equivalent exposure guarantee nahi karti.
+- **C (Incorrect):** Fastest route select karna indication, formulation aur safety ignore kar sakta hai.
+- **D (Correct):** Bioavailability ka matlab administered dose ka fraction jo systemic circulation tak pahunchta hai. Oral absorption aur first-pass metabolism IV se differ karte hain. Authorized conversion drug-specific dose aur monitoring plan par based honi chahiye.
+
+**Exam clue:** Route conversion is not automatically milligram-for-milligram.
+
+[Additional clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-introduction)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
@@ -616,10 +704,14 @@ D. Crush it into the patient's feeding formula without verification
 
 **Correct answer: C. Dissolve it according to the product instructions and administer the prepared solution**
 
-- **A (Incorrect):** Dry swallowing intended formulation use ke against hai.
-- **B (Incorrect):** Skin route prescribed nahi hai.
-- **C (Correct):** Specific water volume and dissolution instructions follow karo. Fluid or sodium restrictions relevant ho sakti hain.
-- **D (Incorrect):** Enteral formula mixing without compatibility check unsafe hai.
+- **A (Incorrect):** Dry effervescent tablet swallow karna intended preparation nahi hai aur irritation risk ho sakta hai.
+- **B (Incorrect):** Topical application prescribed oral formulation ka intended route nahi hai.
+- **C (Correct):** Product instructions ke specified water volume mein tablet dissolve karo aur prepared solution administer karo. Sodium content, fluid allowance aur swallowing suitability check karo when relevant.
+- **D (Incorrect):** Unverified feed mixing compatibility aur dose delivery problems cause kar sakti hai.
+
+**Exam clue:** Effervescent tablets are dissolved as directed before administration.
+
+[Additional clinical reference](https://sps.nhs.uk/articles/assessing-the-clinical-impact-of-sodium-content-in-medicines/)
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
