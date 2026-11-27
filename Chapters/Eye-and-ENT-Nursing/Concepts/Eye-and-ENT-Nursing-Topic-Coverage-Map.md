@@ -65,7 +65,8 @@ Tonsil ki surgery ke baad blood throat mein ja sakta hai aur child baar-baar swa
 | Entropion | [Hinglish concepts and original schematic](Entropion-Concepts.md) · [30 original MCQs](../MCQs/Entropion-30-MCQs.md) · [Exam evidence and gaps](../Previous-Year-Questions/Entropion-Exam-Evidence.md). Structural mechanisms, clinical tests, surface protection and repair. Minimum original count reached. |
 | Ectropion | [Hinglish concepts and original diagram](Ectropion-Concepts.md) · [30 original MCQs](../MCQs/Ectropion-30-MCQs.md) · [Exam evidence and gaps](../Previous-Year-Questions/Ectropion-Exam-Evidence.md). Punctal eversion, tear drainage, exposure and cause-specific repair. Minimum original count reached. |
 | Trichiasis | [Detailed Hinglish concepts and original diagram](Trichiasis-Concepts.md) · [30 original MCQs](../MCQs/Trichiasis-30-MCQs.md) · [Exam evidence and gaps](../Previous-Year-Questions/Trichiasis-Exam-Evidence.md). Minimum original count reached. Independent clinical/semantic audit and nursing-specific practice video gaps pending. |
-| Remaining eyelid and lacrimal disorders | Next: ptosis, dacryocystitis and other distinct topics, with overlap checks. |
+| Ptosis | [Detailed Hinglish concepts and original diagram](Ptosis-Concepts.md) · [30 original MCQs](../MCQs/Ptosis-30-MCQs.md) · [Indexed DSSSB lead and evidence gaps](../Previous-Year-Questions/Ptosis-Exam-Evidence.md). Minimum original count reached. Independent clinical/semantic audit and exact practice video checks pending. |
+| Remaining eyelid and lacrimal disorders | Next: dacryocystitis and other distinct topics, with overlap checks. |
 | Eye emergencies, chemical exposure, penetrating injury, foreign bodies, medicines and perioperative nursing | Pending. |
 | Ear anatomy, hearing and balance, Rinne, Weber, audiometry | Pending. |
 | Cerumen, otitis externa/media, perforation, mastoiditis, otosclerosis, hearing loss, tinnitus, vertigo, Ménière disease | Pending. |
