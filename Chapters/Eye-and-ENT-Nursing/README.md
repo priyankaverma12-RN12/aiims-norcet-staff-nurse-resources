@@ -49,4 +49,4 @@ Diabetic retinopathy expansion: question bank readback blob 71ce879678e84fd110a6
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0827-amd. Scope age-related macular degeneration and retinal vascular disorders, chapter-local files only. Claimed UTC 2026-11-27T08:27:00Z. Expires 2026-11-27T08:57:00Z. -->
