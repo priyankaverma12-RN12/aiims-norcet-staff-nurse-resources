@@ -70,8 +70,21 @@ Lithotomy position mein patient peeth ke bal leti hai. Hips aur knees flexed reh
 
 **Correct: C. Individualized repositioning at an appropriate interval**
 
-Traditional paper two-hourly repositioning ko test karta tha. Current practice mein interval skin, support surface, tolerance aur risk assessment ke according individualize hota hai. Hygiene, moisture control aur nutrition bhi prevention bundle ka part hain.
+Bedbound patient apni position khud change nahi kar paata. Jab body ka weight ek hi bony area par der tak padta hai, toh tissue deform ho sakta hai aur blood supply affect ho sakti hai. Repositioning ka matlab patient ko safely nayi position mein lana hai, taaki pehle loaded pressure points se pressure hat sake. 2026 International Guideline R4–R7 ke mutabik interval patient ki skin response, mobility, clinical condition, comfort aur support surface ke hisaab se individualize karna chahiye. Appropriate pressure redistribution surface par kai at-risk patients ke liye do ya teen ghante ka interval consider ho sakta hai, lekin yeh conditional recommendation hai aur sab par fixed rule nahi hai. Nutrition, moisture management aur skin checks bhi continue karo.
 
+**Option-wise explanation:**
+- **A (Galat):** Nutrition healing aur tissue health support karti hai, lekin nutrition alone se loaded bony point ka pressure directly nahi hatta.
+- **B (Galat):** Moisture control skin barrier protect karta hai, lekin prolonged mechanical pressure ko apne aap relieve nahi karta.
+- **C (Sahi):** Individualized repositioning loaded area se pressure redistribute karti hai. Isliye given choices mein sustained pressure ko directly reduce karne wala action hai.
+- **D (Galat):** Bathing cleanliness maintain karti hai, lekin sirf daily bath se prolonged pressure ka risk address nahi hota.
+
+**Exam clue:** Pressure relief directly by repositioning, interval individualized.
+
+**Clinical reference:** [Clinical guidance](https://www.internationalguideline.com/repositioning).
+
+**Evidence status:** Historical source directly retrieved: HPSSC Staff Nurse 1 August 2021, Series A, post code 892, Q9. The third-party [reported key](https://testbook.com/question-answer/most-effective-way-to-prevent-bed-sore-in-bedridde--697c404f56992687f107db88) gives source option 1 (two-hourly position change). This adaptation uses current individualized guidance and key C. Official original booklet/key not authenticated.
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 </details>
 
 ### PYQ4. Which hospital emergency code commonly signals a cardiac arrest response in facilities using this conventional code system?
