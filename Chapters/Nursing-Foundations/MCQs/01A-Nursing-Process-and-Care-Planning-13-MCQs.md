@@ -33,13 +33,15 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient is admitted with an established chronic illness. Which assessment best provides a baseline for subsequent individualized care?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical scenario · **🟣 AIIMS Jodhpur Nursing Officer 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -65,13 +67,15 @@
 **Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q3. A stable inpatient reports a new localized skin itch following use of a different adhesive. Which assessment approach best matches this new complaint?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · **🟣 AIIMS Jodhpur Nursing Officer 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -97,13 +101,15 @@
 **Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient with limited consciousness cannot provide a reliable history. Which approach to nursing assessment is appropriate?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · **🟣 AIIMS Jodhpur Nursing Officer 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -129,13 +135,15 @@
 **Exam evidence:** 🟣 Related tested concept only — [AIIMS Jodhpur Nursing Officer, 10 Dec 2019 memory-based assessment report](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79). Not an exact match.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q5. Which combination best supports an individualized nursing diagnosis rather than an unsupported assumption?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept application · **🟣 GMCH Nursing Officer 2025 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -161,6 +169,8 @@
 **Exam evidence:** 🟣 Same tested concept — [GMCH Nursing Officer 29 June 2025, recruitment booklet Q18 / Q5 / Q57 / Q32 depending on set](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Official paper text inspected, page image and official key not confirmed. Original scenario is not an exact past question.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -193,6 +203,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -225,6 +237,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -257,6 +271,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -289,6 +305,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -321,6 +339,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -353,6 +373,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -385,6 +407,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -417,6 +441,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process and ADPIE scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms ADPIE clinical scenario question practice; supplementary NCLEX topic-level revision, not Indian exam evidence. Specific care-plan item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
