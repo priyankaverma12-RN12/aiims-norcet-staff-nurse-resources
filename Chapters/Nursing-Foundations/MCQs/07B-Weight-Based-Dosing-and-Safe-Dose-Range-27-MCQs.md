@@ -6,7 +6,7 @@
 
 ### Q1. A child weighs 44 lb, but an electronic calculation incorrectly treats 44 as kilograms. For a fictional 3 mg/kg order, using 2.2 lb/kg, what correct dose and erroneous dose would result?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice · **[🟣 AIIMS Nursing Officer Nagpur 2020 — related calculation concept only](https://testbook.com/question-answer/an-order-for-prednisolone-reads-10-mg-four-times-a--6171007417dfb802631324f2)**
 
 A. 60 mg and 132 mg
 B. 132 mg and 60 mg
@@ -414,8 +414,6 @@ D. 75 mg
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
-**YouTube MCQ practice: specific verification pending.**
-
 **▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related body surface area calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
@@ -444,8 +442,6 @@ D. 83.3 mg
 **Exam clue:** Mosteller formula mein square root important hai.
 
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
-
-**YouTube MCQ practice: specific verification pending.**
 
 **▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related body surface area calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
@@ -804,3 +800,6 @@ D. At the lower bound of 24 mg
 ## ▶️ Teaching and practice
 
 [Level Up RN — Safe Dosage Range: Pediatric Dose Calculations for Nursing Students](https://www.youtube.com/watch?v=AKKEpDjR5ck), indexed description of a specific worked safe-range problem. Direct opening failed. [Ritika Mam — Drug Dose Calculation MCQ Sessions](https://www.youtube.com/watch?v=b6CtL33WFQQ), indexed description explicitly lists pediatric calculations. Actual channel for second link, full content and exact question timestamps unverified. Specific evidence for BSA and other special calculations pending. [Open RN](https://www.ncbi.nlm.nih.gov/books/NBK596732/?report=printable) indexed, direct opening failed. [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing) retrieved earlier this run.
+
+
+**Historical evidence recheck — 27 November 2026:** The Nagpur 2020 memory-based report was directly retrieved and tests reverse weight determination from daily dosing. Q1 tests the related pounds/kilograms distinction with different values and direction. No official key or exact historical match authenticated. No new adaptation counted.
