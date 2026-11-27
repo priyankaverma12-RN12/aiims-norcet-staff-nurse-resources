@@ -210,9 +210,20 @@ Soiled linen ko gently contain karne se microorganisms aur contaminants spread k
 
 **Correct: C. Sterilization after appropriate cleaning**
 
-Sterile tissue mein enter karne wala critical instrument sterile hona chahiye. Cleaning organic material remove karke subsequent sterilization effective banane mein help karti hai.
+<!-- job5-rationale -->
+Spaulding classification mein critical items woh hain jo sterile tissue ya vascular system mein enter karte hain. Contaminated critical device microorganisms directly normally sterile site mein introduce kar sakta hai. Isliye compatible cleaning ke baad validated sterilization required hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Surface disinfection, water rinse aur dry wiping critical device ke liye adequate nahi hain.
+**Option-by-option reasoning**
+
+- **A:** Dry wiping microorganisms aur spores eliminate nahi karti.
+- **B:** Tap water rinse soil ka kuch part remove kar sakta hai, sterility establish nahi karta.
+- **C:** Cleaning ke baad sterilization critical device ke liye correct processing level hai.
+- **D:** Low-level disinfection noncritical items ke liye suitable ho sakti hai, sterile tissue entry ke liye nahi.
+
+**Exam clue:** Critical = sterilization, semicritical = at least high-level disinfection when appropriate.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -619,9 +630,20 @@ Objective documentation observable facts ko describe karti hai, personality judg
 
 **Correct: B. Replace the contaminated glove using aseptic technique**
 
-Bed rail nonsterile surface hai. Contact se glove contaminated ho sakti hai, isliye nurse further sterile contact se pehle glove replace karti hai.
+<!-- job5-rationale -->
+Bed rail routine high-touch surface hai aur sterile nahi hoti. Sterile glove rail touch kare toh glove ka contaminated part sterile field ko touch nahi karna chahiye. Procedure safely pause karo aur aseptic technique se glove replace karo, agar field bhi contaminate hui hai toh use restore karo.
 
-**Baaki options kyun sahi nahi hain?** Clean-looking surface sterile nahi hoti. Wiping sterility restore nahi karti. Supplies touch karne se contamination spread ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Replacement se pehle supplies touch karne se contamination spread hoti hai.
+- **B:** Contaminated glove replace karne se sterile task safe manner mein resume ho sakta hai.
+- **C:** Clean-looking rail par bhi microorganisms ho sakte hain.
+- **D:** Sterile field par glove wipe karne se field contaminate ho sakti hai.
+
+**Exam clue:** Sterile glove touches nonsterile surface = replace.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [UPSC ESIC Nursing Officer, 7 July 2024](https://testbook.com/question-answer/consider-the-following-statements-regarding-the-pr--668e5c23740a221bd11bef8a) — retrieved third-party report on sterile field and nonsterile contact; related tested concept only, not an exact match or authenticated official key.
@@ -671,9 +693,20 @@ Obstruction, kink ya low urine production possible causes hain. Nurse simple dev
 
 **Correct: C. Sterilization**
 
-Sterilization validated process hai jo microorganisms aur bacterial spores ko eliminate karne ke liye use hota hai.
+<!-- job5-rationale -->
+Sterilization validated physical ya chemical process hai jo viable microbial life including resistant bacterial spores eliminate karta hai. Cleaning pehle karna zaroori hai, kyunki soil sterilant ya heat ke access mein interfere kar sakti hai. Device aur method ke liye manufacturer instructions aur cycle monitoring follow karo.
 
-**Baaki options kyun sahi nahi hain?** Cleaning debris reduce karti hai. Low-level disinfection spores reliably destroy nahi karti. Handwashing hands ko sterile nahi banati.
+**Option-by-option reasoning**
+
+- **A:** Low-level disinfection most vegetative organisms ko target karti hai, spores reliably destroy nahi karti.
+- **B:** Handwashing hands par microbial load kam karti hai, sterile nahi banati.
+- **C:** Validated sterilization bacterial spores tak eliminate karne ka intended process hai.
+- **D:** Cleaning soil remove karti hai, complete microbial destruction guarantee nahi karti.
+
+**Exam clue:** Sterilization includes spores.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1499,9 +1532,20 @@ Repeated injections lipohypertrophy cause kar sakti hain aur insulin absorption 
 
 **Correct: C. Cleaning**
 
-Cleaning mein detergent, water aur mechanical action se dirt aur organic material remove hote hain. Isse next processing step better kaam kar sakta hai.
+<!-- job5-rationale -->
+Cleaning physical soil, blood aur organic material ko water, detergent aur appropriate friction se remove karne ka process hai. Agar soil device par rahe toh disinfectant ya sterilant ka effective contact reduce ho sakta hai. Device-specific reprocessing instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Isolation transmission limit karti hai. Vaccination immune protection deti hai. Antibiotics device cleaning nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Antibiotic prophylaxis selected patient infection risk ko reduce kar sakti hai, instrument processing nahi karti.
+- **B:** Isolation infectious patient se transmission reduce karti hai, device soil remove nahi karti.
+- **C:** Cleaning disinfection ya sterilization se pehle required physical soil removal hai.
+- **D:** Vaccination immune protection provide karti hai, equipment clean nahi karti.
+
+**Exam clue:** Clean first, then appropriate disinfection or sterilization.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
