@@ -1,6 +1,6 @@
 # 📚 Isolation care continuity and patient participation
 
-**Study-ready, not studied.** [20 new original MCQs](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md), partial individual-topic allocation 20/30. Core pathogen-specific precautions and PPE are already taught in the Infection Control chapter. This guide covers nursing care that must continue despite isolation. Follow facility policy, clinical assessment and pathogen-specific guidance.
+**Study-ready, not studied.** [30 new original MCQs](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md), initial numerical allocation 30/30. Core pathogen-specific precautions and PPE are already taught in the Infection Control chapter. This guide covers nursing care that must continue despite isolation. Follow facility policy, clinical assessment and pathogen-specific guidance.
 
 ## Essential care
 
@@ -50,6 +50,25 @@ Audit mein sirf PPE consumption ya isolation sign count nahi, timely clinically 
 
 [MCQ Q19–20](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md).
 
+## Additional bedside decisions
+
+Q21–30 extend the care plan beyond the initial essential care, family support and transfer examples.
+
+| Decision | Practical nursing explanation |
+|---|---|
+| Meal utensils | Routine transmission precautions alone disposable crockery require nahi karti. Approved dishwasher processing appropriate hai unless specific pathogen or facility instructions differ. Handwashing basin mein utensils clean mat karo. |
+| Mask intolerance | Urgent transport mein breathing assessment first. Mask if tolerated, clinical support and receiving team notification. Required precautions ko risk-based adapt karo, abandon nahi. |
+| Shared approved room | Physical separation and privacy curtain incidental contact kam karte hain. Separate patient-care activities, hand hygiene and prescribed protection still required. |
+| Symptomatic household visitor | Suspected pertussis jaise infections mein exposure and symptom screening before visit. Household exposure already hona other patients ko safe nahi banata. |
+| Personal communication aid | Patient ka own device useful ho sakta hai. Individual use and compatible safe cleaning arrange karo. |
+| Cognitive impairment | Accessible tissues, supported reminders and risk-based placement. Routine restraint or blame appropriate nahi. |
+| Confidentiality | Approved precaution sign necessary entry precautions communicate kare. Sensitive diagnosis authorized staff ko secure channel se share karo. |
+| Precaution review | Improvement alone transmission end hone ka proof nahi. Timely disease-specific review request karo, authorized decision tak required measures continue. |
+| Missed physiotherapy | Clinical need reassess karke trained staff and protection arrange karo. |
+| Diagnostic accessory | Processing-compatible or single-patient option choose karo, necessary hearing assessment abandon mat karo. |
+
+[MCQ Q21–30](../MCQs/05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md). Filename retained to preserve earlier links. [CDC precautions](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html), [fundamental elements including dishware and visitor screening](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html) and [recommendations](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html) retrieved. [Blueprint Nursing NCLEX Prep: Isolations Precautions](https://www.youtube.com/watch?v=CIkbKuWUHwU), published chapter 03:32 practice question, and [Thatnursingprof TYPES OF ISOLATION AND PPE](https://www.youtube.com/watch?v=lsoVrJcioFA), indexed question invitation, are supplementary practice leads. Actual question content and specific Q21–30 matches not verified. All specific dedicated practice pending.
+
 ## 📖 Clinical sources and practice
 
 - [Open RN Nursing Fundamentals, Infection](https://www.ncbi.nlm.nih.gov/books/NBK610837/) — directly retrieved client transport and psychosocial effects of isolation sections.
@@ -57,6 +76,6 @@ Audit mein sirf PPE consumption ya isolation sign count nahi, timely clinically 
 - [CDC fundamental elements](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html) — indexed compassionate visitor guidance, not a blanket exception.
 - [UCLH patient isolation information](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/patient-information-isolation-procedures) — directly retrieved patient and visitor education and discharge context. Facility-specific rules not universal.
 
-Teaching for background: [RegisteredNurseRN standard and isolation precautions](https://www.youtube.com/watch?v=vLq6B3Qjy98), indexed general IPC lecture. Supplementary practice lead: [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), indexed 19:25 isolation case review, exact question/channel/playback unverified. Neither proves specific care-continuity question coverage. All 20 dedicated practice mappings pending.
+Teaching for background: [RegisteredNurseRN standard and isolation precautions](https://www.youtube.com/watch?v=vLq6B3Qjy98), indexed general IPC lecture. Supplementary practice lead: [NCLEX Infection Control Made Easy](https://www.youtube.com/watch?v=8uiMSnMblXA), indexed 19:25 isolation case review, exact question/channel/playback unverified. Neither proves specific care-continuity question coverage. All 30 dedicated practice mappings pending.
 
 [Group 05 cross-chapter allocation](05-IPC-Cross-Chapter-Allocation.md) · [Reported evidence gaps](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md).
