@@ -16,3 +16,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 - [Kidney anatomy — four reported adaptations](Kidney-Anatomy-Reported-Exam-Questions.md), based on five directly retrieved reported exam sources: RRB Staff Nurse 2019 Shift I, HSSC Staff Nurse 2023 Shift 2, JIPMER Nursing Officer 2024, MP NHM CHO 2024 Shift 2 and NHM UP Staff Nurse 2019. RRB Shift III location is a separate concept-only match. Official paper/key authentication pending. Dedicated MCQ video gap queue in linked file.
 - [Two preserved earlier reported adaptations](Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md). Their prior evidence classification is unchanged. Re-audit official keys and video links in appropriate topic packages.
+
+- [Renal physiology — three reported adaptations](Renal-Physiology-Reported-Exam-Questions.md), based on Haryana USHR Staff Nurse 2022, DSSSB Public Health Nurse 2015, ESIC Nursing Officer 2019 Shift 1, and RRB Nursing Superintendent 2019 Shift 1 reports. Same-concept records grouped. Official keys and question-specific videos pending. Haryana stable direct source link pending.
