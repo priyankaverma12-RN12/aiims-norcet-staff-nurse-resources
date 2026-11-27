@@ -49,3 +49,8 @@ Stool egg or larva testing species and stage dependent hai. Single negative stoo
 
 - [Utkarsh Nursing, Sagar Sir: Worm Infestation in One Shot](https://www.youtube.com/watch?v=qLRMxe5k-50), indexed teaching video about types, symptoms and treatment. Full playback not reviewed.
 - [PW NORCET 10 digestive MCQ countdown](https://www.youtube.com/watch?v=UIeDEjRQPrA), broad practice lead only. Exact helminth segment not verified. Dedicated helminth MCQ video remains pending.
+
+
+## Additional question-solving resource
+
+[Parasitology Quiz 4 — Multiple Choice Questions](https://www.youtube.com/watch?v=2aktcffdgww). Indexed description and tags cover protozoa, helminths and diagnostic parasitology, including Ascaris, Trichuris, hookworm, Strongyloides and Enterobius. Mixed laboratory and clinical practice, not a verified NORCET-specific session. Channel metadata and full playback not independently verified. [Utkarsh Nursing worm infestation teaching video](https://www.youtube.com/watch?v=qLRMxe5k-50) has verified indexed channel attribution and a 6 June 2025 publication date. [UPPSC Staff Nurse 2022 reported helminth question](../Previous-Year-Questions/19-20-Malaria-and-Helminths-Reported-PYQ-Adaptations.md) was opened and checked against the third-party source. Dedicated nursing helminth MCQ session still pending.
