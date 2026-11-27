@@ -1,4 +1,4 @@
-# 📝 Day 2 — Respiratory Assessment & Diagnostics: 36 Practice MCQs
+# 📝 Day 2 — Respiratory Assessment & Diagnostics: 59 Practice MCQ slots
 
 [🏠 Chapter](../README.md) · [📖 Day 2 Concepts](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [⚡ Revision](../Revision/Day-02-Quick-Revision.md) · [🏥 Previous Year Questions](../Previous-Year-Questions/README.md)
 
@@ -10,7 +10,7 @@
 
 - **Concept video:** [Alka Medical Education — IPPA Hindi](https://www.youtube.com/watch?v=PdbeHsh1OPM)
 - **MCQ practice:** [Ambition Nursing Classes — ABG MCQs](https://www.youtube.com/watch?v=G_2-0P9EfAg)
-- [Day 2 ke subtopic-wise video links](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md). IPPA, auscultation aur spirometry MCQ videos separately verified nahi mile; page ke 36 MCQs solve karo.
+- [Day 2 ke subtopic-wise video links](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md). [Health Assessment & Physical Examination MCQs — Studyroom31](https://www.youtube.com/watch?v=aTGm3WCiS9w) ka published description IPPA practice cover karta hai (Q1–11). [Respiratory mixed MCQs](https://www.youtube.com/watch?v=_dOjXZ6vCck) ka description ABG practice cover karta hai (Q17–22). Exact question mapping, transcripts aur dedicated auscultation/spirometry MCQ video verification pending. Page mein 59 practice slots hain.
 
 ### Kaise solve karna hai?
 
@@ -35,15 +35,25 @@
 - **C.** Auscultation
 - **D.** Palpation
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Inspection** pehle hota hai: patient ko dekhkar breathing observe karte hain.
+**Correct answer: B. Inspection**
 
-**Baaki options kyun nahi?** Palpation mein hand se feel, percussion mein tap, auscultation mein stethoscope use hota hai. **Inspection** mein nurse pehle visual signs—RR, symmetry, work of breathing—observe karti hai.
+**Kyun sahi hai?** Routine stable respiratory examination mein pehle inspection hoti hai. Nurse breathing pattern, rate, effort aur chest symmetry observe karti hai. Agar patient unstable hai toh routine sequence se pehle emergency ABC assessment aur help priority hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Percussion tapping se underlying sound assess karti hai.
+- **C.** Auscultation stethoscope se sounds sunna hai.
+- **D.** Palpation touch se tenderness, movement aur vibration assess karti hai.
 
 **Exam trick:** IPPA = Dekho, Feel, Tap, Suno.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
+
+**Related reported exam concept:** NVS Staff Nurse, 8 March 2022, third-party question about percussion technique. [Source](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a). Not an exact match or independently verified official key.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -56,15 +66,23 @@
 - **C.** Percussion note
 - **D.** Breath sound
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Inspection** mein chest ka rise/fall aur symmetry **dekhte** hain.
+**Correct answer: A. Chest expansion symmetry**
 
-**Baaki options kyun nahi?** **Chest expansion symmetry** eyes se dekh sakte hain; fremitus ko touch se feel karna padta hai. Percussion note tapping se aur breath sounds stethoscope se assess karte hain.
+**Kyun sahi hai?** Chest ka visible rise aur fall observe karne se symmetry assess ho sakti hai. Chest expansion ko palpation se bhi compare kiya ja sakta hai. Yahan other options dekhne ke bajay touch, tapping aur listening require karte hain.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Tactile fremitus hand se feel hota hai.
+- **C.** Percussion note tapping se assess hota hai.
+- **D.** Breath sounds auscultation se assess hote hain.
 
 **Exam trick:** Method ko observation ke verb se match karo.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -77,15 +95,23 @@
 - **C.** Tachypnea
 - **D.** Apnea
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Common adult resting RR 12–20/min hai. **26/min fast** hai, so **tachypnea**.
+**Correct answer: C. Tachypnea**
 
-**Baaki options kyun nahi?** Tachypnea fast breathing hai. Bradypnea slow, apnea breathing absent hoti hai. RR 26/min adult resting 12–20 se upar hai, isliye option C best hai.
+**Kyun sahi hai?** Adult resting RR ka common nursing teaching range 12–20/min hai. 26/min fast breathing, yaani tachypnea hai. Nurse rate ke saath depth, work of breathing, oxygenation aur clinical context dekhe.
+
+**Baaki options kyun galat hain?**
+
+- **A.** 26 usual 12–20 range ke bahar hai.
+- **B.** Bradypnea abnormally slow breathing hai.
+- **D.** Apnea mein breathing temporarily absent hoti hai.
 
 **Exam trick:** RR normal value ke saath clinical context bhi dekhna chahiye.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -108,15 +134,23 @@
 - **C.** Bronchial breathing
 - **D.** PaCO₂
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Chest expansion** palpation se feel karke compare ki jaati hai.
+**Correct answer: A. Chest expansion**
 
-**Baaki options kyun nahi?** **Chest expansion** dono hemithorax mein hands se compare hoti hai. Percussion sound tapping se aur bronchial sound stethoscope se sunte hain. PaCO₂ ABG ka component hai, haath se nahi milta.
+**Kyun sahi hai?** Posterior chest par hands rakhkar inspiration ke dauran bilateral movement compare karna palpation se chest expansion assess karna hai. Asymmetry further respiratory assessment ka clue ho sakti hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Percussion note tapping se milta hai.
+- **C.** Bronchial breathing auscultation finding hai.
+- **D.** PaCO₂ arterial blood gas se measure hota hai.
 
 **Exam trick:** Palpation = chest movement feel.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -129,15 +163,23 @@
 - **C.** Wheeze
 - **D.** Stridor
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Ye **tactile fremitus** hai: bolne par chest wall pe feel hone wali vibration.
+**Correct answer: B. Fremitus**
 
-**Baaki options kyun nahi?** **Fremitus** patient bolte waqt palpable vibration hai. Resonance percussion sound hai; wheeze aur stridor breath sounds hain. Question mein FEEL word ek clue hai.
+**Kyun sahi hai?** Patient ke bolne se chest wall tak transmitted vibration ko tactile fremitus kehte hain. Nurse corresponding areas ko hands se compare karti hai. Underlying tissue aur pleural changes transmission affect kar sakte hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Resonance percussion note hai.
+- **C.** Wheeze musical breath sound hai.
+- **D.** Stridor usually upper airway se aane wali harsh sound hai.
 
 **Exam trick:** Voice vibration feel = tactile fremitus.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -150,15 +192,23 @@
 - **C.** Lung consolidation with open bronchus
 - **D.** Large airway obstruction
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** **Consolidation** mein agar bronchus open ho toh voice vibrations better transmit ho sakti hain.
+**Correct answer: C. Lung consolidation with open bronchus**
 
-**Baaki options kyun nahi?** Consolidated lung tissue, agar bronchus patent/open hai, vibration ko better conduct kar sakta hai. Pleural effusion/pneumothorax mein pleural space vibration ko insulate karta hai, toh fremitus often **decreased** hoti hai.
+**Kyun sahi hai?** Consolidated lung tissue voice vibration ko air-filled lung se better conduct kar sakta hai jab bronchus patent ho. Isliye fremitus increase ho sakta hai. Finding alone pneumonia confirm nahi karti.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Pleural fluid vibration transmission reduce kar sakta hai.
+- **B.** Pleural air chest wall tak transmission reduce kar sakti hai.
+- **D.** Obstructed airway voice transmission reduce kar sakta hai.
 
 **Exam trick:** Increased = consolidation (open airway); decreased = fluid/air around lung.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -171,15 +221,23 @@
 - **C.** Not palpable
 - **D.** Midline
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Trachea normally approximately **midline** hoti hai.
+**Correct answer: D. Midline**
 
-**Baaki options kyun nahi?** Right/left deviation normal finding nahi. Trachea normally approximately **midline** feel hoti hai; abnormal deviation urgent broader assessment ki indication ho sakta hai.
+**Kyun sahi hai?** Normal trachea approximately midline hoti hai. Deviation ko clinical context mein assess karo. Acute distress aur hypotension ke saath deviation serious pathology ka clue ho sakti hai, lekin emergency recognition ke liye deviation ka wait nahi karna hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Right deviation usual normal position nahi hai.
+- **B.** Left deviation usual normal position nahi hai.
+- **C.** Palpability examination technique aur anatomy par depend kar sakti hai. Normal location ka best answer midline hai.
 
 **Exam trick:** Trachea position ko isolated diagnosis na banao.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -202,15 +260,23 @@
 - **C.** Flatness
 - **D.** Tympany
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** Healthy aerated lung pe usual percussion note **resonant** hota hai.
+**Correct answer: B. Resonance**
 
-**Baaki options kyun nahi?** Healthy peripheral lung normal air-filled hota hai, isliye **resonant** note aata hai. Dullness dense/fluid tissue se; flatness bone/muscle pe, tympany hollow gas structures se hota hai.
+**Kyun sahi hai?** Normal air-filled peripheral lung percussion par resonant, hollow note deta hai. Nurse corresponding areas compare karti hai aur finding ko baaki examination ke saath interpret karti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Dullness dense tissue ya fluid se associated ho sakti hai.
+- **C.** Flatness dense structures jaise bone par expected ho sakti hai.
+- **D.** Tympany drum-like sound hai, normal peripheral lung ka usual note nahi.
 
 **Exam trick:** Normal lung percussion = resonant.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -223,15 +289,23 @@
 - **C.** Dullness
 - **D.** Normal resonance
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Fluid sound ko dull banata hai, so pleural effusion mein **dullness** mil sakti hai.
+**Correct answer: C. Dullness**
 
-**Baaki options kyun nahi?** Pleural fluid sound ko dampen karta hai, isliye **dullness** expected hai. Hyperresonance extra air mein, tympany air-filled hollow structure mein zyada hota hai.
+**Kyun sahi hai?** Pleural space mein fluid percussion sound ko dampen karta hai. Isse dull ya marked dull note aa sakta hai. Effusion confirm karne ke liye clinical assessment aur imaging ki zaroorat ho sakti hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Hyperresonance excess air suggest kar sakti hai.
+- **B.** Tympany hollow air-containing structures se related hai.
+- **D.** Normal resonance healthy aerated lung mein expected hoti hai.
 
 **Exam trick:** Effusion = dull; pneumothorax = hyperresonant (often).
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -244,15 +318,23 @@
 - **C.** Pleural effusion
 - **D.** Bone
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Hyperresonance **extra air** suggest karta hai, e.g., pneumothorax. Alone diagnosis confirm nahi karta.
+**Correct answer: A. Extra air**
 
-**Baaki options kyun nahi?** **Hyperresonance** excessive air se associated hai. Consolidation/effusion dense tissue ya fluid ke karan generally dull note dete hain; bone flat ho sakti hai.
+**Kyun sahi hai?** Hyperresonance increased air content ka clue ho sakti hai, jaise pneumothorax ya hyperinflation. Ye single finding definitive diagnosis nahi hai. Sudden distress mein patient ki ABC assessment priority hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Consolidation generally percussion dullness se related hai.
+- **C.** Pleural fluid dullness produce kar sakta hai.
+- **D.** Bone generally flat note deti hai.
 
 **Exam trick:** Extra air vs fluid ko separate rakho.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -265,15 +347,25 @@
 - **C.** Test over clothing
 - **D.** Compare corresponding areas
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Right aur left ki **corresponding areas** ko compare karna chahiye.
+**Correct answer: D. Compare corresponding areas**
 
-**Baaki options kyun nahi?** Reliable comparison ke liye same level par right-left side alternating assess karo. Sirf sternum ya ek apex se compare nahi ho payega; clothing ke through tap karna sound distort kar sakta hai.
+**Kyun sahi hai?** Chest examination mein same level ke right aur left lung fields ko compare karne se asymmetry identify karna aasaan hota hai. Appropriate exposure, privacy aur trained technique follow karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Sirf ek apex assess karne se bilateral comparison nahi hota.
+- **B.** Sternum par listening percussion comparison nahi hai.
+- **C.** Clothing sound quality aur consistent technique interfere kar sakti hai.
 
 **Exam trick:** Percussion symmetric sites pe karo.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596716/)
+
+**Related reported exam concept:** NVS Staff Nurse, 8 March 2022, third-party question about percussion technique. [Source](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a). Not an exact match or independently verified official key.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -296,15 +388,23 @@
 - **C.** Stridor
 - **D.** Pleural rub
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** **Vesicular** breath sound normally peripheral lungs mein soft aur low pitched hoti hai.
+**Correct answer: B. Vesicular**
 
-**Baaki options kyun nahi?** **Vesicular** soft normal peripheral sound hai. Bronchial trachea ke paas normal; stridor urgent upper-airway sound aur pleural rub abnormal grating hai.
+**Kyun sahi hai?** Healthy peripheral lung fields mein vesicular breath sounds usually soft aur low-pitched hoti hain. Inspiration expiratory component se relatively prominent hoti hai. Location aur clinical context important hain.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Bronchial sounds central airway par normal ho sakti hain, peripheral lung par unexpected ho sakti hain.
+- **C.** Stridor upper airway obstruction ka warning sign hai.
+- **D.** Pleural rub inflamed pleural surfaces se associated adventitious sound hai.
 
 **Exam trick:** Sound ka quality ke saath location bhi important.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -317,15 +417,23 @@
 - **C.** Friction rub
 - **D.** Absent breath sound
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** **Wheeze** musical whistle jaisi sound hai, usually narrowed airways se associated.
+**Correct answer: A. Wheeze**
 
-**Baaki options kyun nahi?** **Wheeze** musical/whistling sound hota hai, usually narrowed airways mein. Crackles pops, friction rub grating, absent sounds air movement kam hone ka observation hai.
+**Kyun sahi hai?** Wheeze continuous musical sound hai, often narrowed lower airways mein airflow ke saath sunai deti hai. Asthma ya COPD mein ho sakti hai, lekin wheeze alone specific diagnosis nahi hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Crackles short discontinuous popping sounds hain.
+- **C.** Friction rub grating sound hoti hai.
+- **D.** Absent breath sound mein audible airflow sound markedly reduced ya absent hoti hai.
 
 **Exam trick:** Musical continuous = wheeze.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -338,15 +446,23 @@
 - **C.** Crackles
 - **D.** Bronchial breathing
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** Popping/discontinuous sounds **crackles (rales)** hote hain.
+**Correct answer: C. Crackles**
 
-**Baaki options kyun nahi?** **Crackles** short discontinuous popping sounds hain; stridor upper-airway harsh, rhonchi low/coarse snoring aur normal bronchial breath sound tubular hota hai.
+**Kyun sahi hai?** Crackles short, discontinuous popping sounds hoti hain. Ye small airway reopening ya fluid-associated lung conditions mein sunai de sakti hain. Clinical cause ko history aur assessment se determine karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Stridor harsh upper airway sound hai.
+- **B.** Rhonchi usually low-pitched continuous sound hoti hain.
+- **D.** Bronchial breathing tubular sound hai, popping nahi.
 
 **Exam trick:** Popping = crackles; musical = wheeze.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -359,15 +475,23 @@
 - **C.** Crackles
 - **D.** Stridor
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** Ye **stridor** hai. Upper airway obstruction ho sakta hai aur urgent assessment important hai.
+**Correct answer: D. Stridor**
 
-**Baaki options kyun nahi?** **Stridor** usually upper airway mein harsh, mostly inspiratory hota hai. Rhonchi low pitched; vesicular normal peripheral; crackles popping. Ye sound upper-airway obstruction ki possibility batata hai.
+**Kyun sahi hai?** Neck par loud harsh inspiratory sound stridor suggest karti hai. Ye potentially serious upper airway narrowing ka clue hai. Patient ki airway aur breathing turant assess karo aur distress mein emergency escalation karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Rhonchi low-pitched airway sound hoti hain.
+- **B.** Vesicular sounds normal peripheral lung sounds hain.
+- **C.** Crackles discontinuous popping sounds hain.
 
 **Exam trick:** Stridor + difficulty breathing = urgent clinical assessment.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -380,15 +504,23 @@
 - **C.** Bronchovesicular
 - **D.** Rhonchi
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Ye **pleural friction rub** hai, jo inflamed pleural surfaces se associated hai.
+**Correct answer: A. Pleural friction rub**
 
-**Baaki options kyun nahi?** **Pleural friction rub** pleural surfaces ki rubbing/creaking se hota hai. Wheeze airway narrowing, bronchovesicular normal intermediary breath sound aur rhonchi low pitched secretion-like sound hai.
+**Kyun sahi hai?** Inflamed pleural surfaces respiration ke dauran rub kar sakti hain, jisse grating ya creaking sound aati hai. Pleural rub ko breathing cycle aur other clinical findings ke saath assess karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Wheeze narrowed airway ka musical sound hai.
+- **C.** Bronchovesicular sound central lung areas mein normal ho sakti hai.
+- **D.** Rhonchi low-pitched continuous airway sounds hain.
 
 **Exam trick:** Rub = pleura friction; wheeze = narrowed airway.
+
+[Clinical reference](https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -411,15 +543,25 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** pH **low** aur PaCO₂ **high** hai; HCO₃⁻ normal hai. Basic pattern = **respiratory acidosis**.
+**Correct answer: A. Respiratory acidosis**
 
-**Baaki options kyun nahi?** pH **7.29** low (acidemia). PaCO₂ **53** high, jo pH ko acidic direction mein push karta hai. HCO₃⁻ 24 usual normal, isliye **primary respiratory acidosis**. Metabolic acidosis hoti toh HCO₃⁻ low hota.
+**Kyun sahi hai?** pH 7.29 se acidemia aur PaCO₂ 53 mmHg se CO₂ retention dikh rahi hai. HCO₃⁻ 24 usual interval mein hai, isliye given options mein primary respiratory acidosis best hai. Rounded values se exact compensation stage assume mat karo.
+
+**Baaki options kyun galat hain?**
+
+- **B.** Respiratory alkalosis mein primary PaCO₂ decrease hoti hai.
+- **C.** Metabolic acidosis mein primary HCO₃⁻ decrease hota hai.
+- **D.** Metabolic alkalosis mein primary HCO₃⁻ increase hota hai.
 
 **Exam trick:** ABG sequence: pH → CO₂ → HCO₃⁻.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
+
+**Historical research lead:** NORCET-3 Shift 2 (2022), reported Q139 respiratory acidosis topic, [indexed source](https://nextnurse.in/pyq/norcet/norcet-norcet-3-shift-2). Direct retrieval failed, exact wording and key pending.
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -432,15 +574,23 @@
 - **C.** Respiratory acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** pH **high**, CO₂ **low**, HCO₃⁻ usual range mein → **respiratory alkalosis**.
+**Correct answer: B. Respiratory alkalosis**
 
-**Baaki options kyun nahi?** pH **7.49** high = alkalemia. PaCO₂ **31** low, CO₂ kam hone se pH high direction mein jaata hai. HCO₃⁻ 24 normal; primary respiratory alkalosis. Respiratory acidosis mein CO₂ high hota.
+**Kyun sahi hai?** pH 7.49 alkalemia hai aur PaCO₂ 31 low hai. Isliye primary respiratory alkalosis best answer hai. HCO₃⁻ 24 usual teaching interval mein hai, lekin acute compensation aur rounding ki wajah se values ko simple pattern se aage clinical context mein assess karo.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Metabolic acidosis primary low bicarbonate aur acidemia se associated hai.
+- **C.** Respiratory acidosis primary high PaCO₂ se associated hai.
+- **D.** Metabolic alkalosis primary bicarbonate elevation se associated hai.
 
 **Exam trick:** CO₂ aur pH opposite direction in primary respiratory disorders.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -453,15 +603,23 @@
 - **C.** Metabolic acidosis
 - **D.** Metabolic alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**C.** pH **low** + HCO₃⁻ **low** → **metabolic acidosis**, simple teaching pattern.
+**Correct answer: C. Metabolic acidosis**
 
-**Baaki options kyun nahi?** pH **7.27** low. HCO₃⁻ **17** low, metabolic component se acidity badh rahi hai. PaCO₂ 40 common normal range mein. Metabolic alkalosis mein bicarbonate high hota.
+**Kyun sahi hai?** pH 7.27 acidemia aur HCO₃⁻ 17 low hai, isliye primary metabolic acidosis best answer hai. Important: PaCO₂ 40 reference interval mein hone ke bawajood compensation appropriate nahi ho sakti. Winter formula se expected PaCO₂ 33.5 ±2 mmHg hai. Actual 40 higher hai, jo additional respiratory acidosis suggest karta hai. Given options mein mixed disorder nahi hai, isliye primary answer C preserve hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Respiratory alkalosis primary low PaCO₂ se associated hai.
+- **B.** Additional respiratory acidosis possible hai, lekin low bicarbonate primary metabolic component bhi dikhata hai.
+- **D.** Metabolic alkalosis mein bicarbonate high hota hai.
 
 **Exam trick:** HCO₃⁻ down + pH down = metabolic acidosis.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -474,15 +632,23 @@
 - **C.** PaO₂
 - **D.** PaCO₂
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**D.** **PaCO₂** respiratory component hai. HCO₃⁻ metabolic component hai.
+**Correct answer: D. PaCO₂**
 
-**Baaki options kyun nahi?** **PaCO₂** lungs ki CO₂ removal ko reflect karta hai, isliye respiratory acid-base component hai. HCO₃⁻ metabolic; PaO₂ oxygenation; hemoglobin oxygen transport se related hai.
+**Kyun sahi hai?** PaCO₂ arterial carbon dioxide pressure hai aur ventilation ke respiratory acid-base component ko reflect karta hai. CO₂ removal kam hone se PaCO₂ badh sakti hai. HCO₃⁻ metabolic component hai.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Bicarbonate primary metabolic component hai.
+- **B.** Hemoglobin oxygen carrying capacity mein important hai, primary respiratory acid-base variable nahi.
+- **C.** PaO₂ oxygenation ka partial pressure hai, CO₂-related acid-base component nahi.
 
 **Exam trick:** CO₂ = respiratory; HCO₃⁻ = metabolic.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -495,15 +661,23 @@
 - **C.** 7.45–7.55
 - **D.** 7.15–7.25
 
-**Difficulty:** Easy | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**A.** Usual arterial pH **7.35–7.45** hota hai.
+**Correct answer: A. 7.35–7.45**
 
-**Baaki options kyun nahi?** pH interval **7.35–7.45** usual textbook range hai. B aur D acidic-side ranges, C alkaline-side range hai. Sirf last digit nahi, complete decimal range dekho.
+**Kyun sahi hai?** Usual arterial blood pH teaching interval 7.35–7.45 hai. Patient ka clinical context aur laboratory reference bhi dekho. pH low acidemia aur pH high alkalemia ko indicate karta hai.
+
+**Baaki options kyun galat hain?**
+
+- **B.** 7.25–7.35 ka major portion usual range se low hai.
+- **C.** 7.45–7.55 ka major portion usual range se high hai.
+- **D.** 7.15–7.25 usual interval se low hai.
 
 **Exam trick:** pH normal 7.35–7.45; PaCO₂ normal 35–45.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
@@ -516,15 +690,23 @@
 - **C.** Respiratory acidosis
 - **D.** Respiratory alkalosis
 
-**Difficulty:** Medium | **Exam focus:** NORCET / Staff Nurse (All India)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse (All India)
 
 <details><summary>✅ Answer aur easy explanation dekho</summary>
 
-**B.** pH **high** aur HCO₃⁻ **high** → **metabolic alkalosis**.
+**Correct answer: B. Metabolic alkalosis**
 
-**Baaki options kyun nahi?** pH **7.48** alkalemic, HCO₃⁻ **30** high, PaCO₂ 40 normal: primary **metabolic alkalosis**. Respiratory alkalosis mein mainly CO₂ kam hota; acidosis patterns mein pH low hota.
+**Kyun sahi hai?** pH 7.48 high aur HCO₃⁻ 30 high hai, jo primary metabolic alkalosis support karta hai. PaCO₂ 40 normal range mein hai, lekin metabolic alkalosis mein compensatory CO₂ rise expected ho sakta hai. Isliye absent ya inadequate compensation ya additional respiratory alkalosis possible hai. Given options mein B best primary pattern hai, mixed disorder exclude nahi hua.
+
+**Baaki options kyun galat hain?**
+
+- **A.** Metabolic acidosis mein bicarbonate low hota hai.
+- **C.** Respiratory acidosis mein primary PaCO₂ elevation hoti hai.
+- **D.** Respiratory alkalosis mein primary PaCO₂ reduction hoti hai.
 
 **Exam trick:** Uncompensated textbook example; actual patient ABG complex ho sakta hai.
+
+[Clinical reference](https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders)
 
 [📖 Concept detail se padho](../Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [📚 Paper-linked questions](../Previous-Year-Questions/README.md)
 
