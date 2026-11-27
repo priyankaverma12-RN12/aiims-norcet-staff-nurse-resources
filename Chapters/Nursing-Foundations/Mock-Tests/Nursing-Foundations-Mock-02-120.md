@@ -1196,7 +1196,7 @@ SBAR structured handover method hai. S mein present concern, B mein relevant pre
 
 ### Q36. Which document element is essential for safe discharge medication instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the date of admission
 - **B.** Only the color of each tablet
@@ -1223,11 +1223,11 @@ Safe medication instruction mein patient ko clearly pata hona chahiye kaunsi med
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q7](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q7](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q7-which-document-element-is-essential-for-safe-discharge-medication-instructions)
 
 ### Q37. Why is ventrogluteal placement often preferred to dorsogluteal placement for a suitable non-vaccine IM drug?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is relatively distant from the sciatic nerve and major vessels
 - **B.** It eliminates the need to assess anatomy
@@ -1255,9 +1255,11 @@ Ventrogluteal site hip ke lateral region mein gluteal muscles ko access karti ha
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q5](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q5](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q5-why-is-ventrogluteal-placement-often-preferred-to-dorsogluteal-placement-for-a-suitable-non-vaccine-im-drug)
 
 ### Q38. An AED announces that a shock is advised. Which action is correct?
 
@@ -1466,7 +1468,7 @@ Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta
 
 ### Q45. Which statement about aspiration before routine IM vaccination reflects current guidance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is performed only after vaccine delivery
 - **B.** It is not recommended at correctly selected vaccine sites
@@ -1496,7 +1498,7 @@ Aspiration ka matlab needle insert karne ke baad injection se pehle plunger with
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q6](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q6](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q6-which-statement-about-aspiration-before-routine-im-vaccination-reflects-current-guidance)
 
 ### Q46. A patient on oxygen suddenly becomes confused, tachypneic and cyanotic. Which response is appropriate?
 
@@ -1531,7 +1533,7 @@ New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious 
 
 ### Q47. Which practice improves patient orientation after admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Keep the call bell out of reach
 - **B.** Avoid answering questions until discharge
@@ -1556,9 +1558,11 @@ New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
+
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q5](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q5](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q5-which-practice-improves-patient-orientation-after-admission)
 
 ### Q48. How should a filled anticoagulant tube be mixed?
 
@@ -1716,7 +1720,7 @@ PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clo
 
 ### Q53. A patient has a new ostomy and is being discharged tomorrow but cannot demonstrate appliance care. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Tell the patient to improvise without equipment
 - **B.** Mark teaching complete because a leaflet was provided
@@ -1743,7 +1747,7 @@ Ostomy ek surgically created opening hai jisse intestinal contents pouch mein co
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q6](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q6](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q6-a-patient-has-a-new-ostomy-and-is-being-discharged-tomorrow-but-cannot-demonstrate-appliance-care-what-should-the-nurse-do)
 
 ### Q54. A patient requires maximal assistance and cannot bear weight. Which transfer method is safest?
 
@@ -1778,7 +1782,7 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 ### Q55. What is the purpose of the Z-track technique for selected IM medications?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 HPSSSB Staff Nurse, October 2020 — related reported concept only**
 
 - **A.** Create a dermal wheal
 - **B.** Increase venous access
@@ -1806,9 +1810,13 @@ Z-track technique mein selected IM medicine ke liye skin aur underlying subcutan
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [HPSSSB Staff Nurse, October 2020 — third-party report](https://testbook.com/question-answer/which-of-the-following-is-injected-deep-i-m-by--61b9c14d908510dedf620a9a). Retrieved historical item tests a drug associated with Z-track and discusses prevention of leakage. Related concept only, not a present-day drug-route recommendation. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
+
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q7](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q7](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q7-what-is-the-purpose-of-the-z-track-technique-for-selected-im-medications)
 
 ### Q56. Which complication is associated with reduced deep breathing and secretion clearance during immobility?
 
@@ -1920,7 +1928,7 @@ Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch pa
 
 ### Q60. A patient injecting insulin repeatedly into one spot develops firm fatty lumps. Which teaching is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use the identical puncture point daily
 - **B.** Rotate sites systematically and avoid abnormal tissue according to guidance
@@ -1950,7 +1958,7 @@ Lipohypertrophy ka matlab repeated insulin exposure aur local injection trauma k
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q8](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q8](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q8-a-patient-injecting-insulin-repeatedly-into-one-spot-develops-firm-fatty-lumps-which-teaching-is-appropriate)
 
 ## Block 4
 
@@ -2705,7 +2713,7 @@ Respiration normally automatic hoti hai lekin patient conscious effort se breath
 
 ### Q87. A patient is medically ready for discharge but has no safe means of obtaining essential medication. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Advise the patient to stop all prescribed medication
 - **B.** Discharge without mentioning the issue
@@ -2732,7 +2740,7 @@ Medically ready hone ke bawajood essential medicine obtain na kar paana safe dis
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q8](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q8](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q8-a-patient-is-medically-ready-for-discharge-but-has-no-safe-means-of-obtaining-essential-medication-what-is-the-appropriate-nursing-response)
 
 ### Q88. A patient has unilateral leg weakness and is learning to walk with a cane. In which hand is the cane usually held?
 
