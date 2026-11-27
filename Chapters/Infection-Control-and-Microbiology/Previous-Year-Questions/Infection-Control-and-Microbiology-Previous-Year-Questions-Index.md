@@ -17,3 +17,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Four reported TB exam adaptations](TB-India-Wide-Reported-PYQs.md). Third-party indexed evidence, not official-key authenticated.
+
+
+[Three reported anaerobe and rickettsial recruitment question adaptations](Anaerobes-and-Rickettsiae-Reported-PYQ-Adaptations.md). Third-party pages opened. Official keys not authenticated.

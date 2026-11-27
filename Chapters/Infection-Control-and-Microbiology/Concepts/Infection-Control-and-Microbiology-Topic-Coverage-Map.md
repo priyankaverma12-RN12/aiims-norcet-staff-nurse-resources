@@ -50,8 +50,8 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 10. Gram-negative cocci and enteric bacilli — [40 original MCQs published](../MCQs/10-Gram-Negative-Cocci-and-Enteric-Bacilli-40-MCQs.md)
 - 11. Nonfermenters and hospital bacterial pathogens — 40 original MCQs published
 - 12. Mycobacteria and tuberculosis — 40 original MCQs published
-- 13. Anaerobes and spore-forming pathogens — pending
-- 14. Spirochetes, atypical bacteria and rickettsiae — pending
+- 13. Anaerobes and spore-forming pathogens — 40 original MCQs published
+- 14. Spirochetes, atypical bacteria and rickettsiae — 40 original MCQs published
 - 15. Viruses and viral replication — pending
 - 16. Bloodborne and hepatitis viruses, HIV — pending
 - 17. Respiratory, enteric and vaccine-preventable viruses — pending

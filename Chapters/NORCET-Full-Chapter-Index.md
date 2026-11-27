@@ -28,7 +28,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
 | [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [600 topic-wise questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
-| [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [480 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [28 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
+| [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [560 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [31 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
 
@@ -219,3 +219,8 @@ Verified 280 original MCQs across seven of 30 topic groups, 121 Medium and 159 D
 ### Continuation — nonfermenters and tuberculosis
 
 80 new original MCQs across two topic banks, detailed concept notes, two diagrams, four reported TB past-exam adaptations, and indexed mixed and dedicated TB practice videos. 480 across 12/30 groups. Dedicated nonfermenter practice video and recruitment PYQ evidence remain open. Next: anaerobes and spore-forming pathogens. Chapter mocks 0/10. Overall tracked 17/350 pending neurological inventory reconciliation. Cross-repository semantic duplicate audit remains pending.
+
+
+### Continuation — anaerobes and spirochetes/atypical bacteria/rickettsiae
+
+80 original MCQs across two sequential topic banks, two concept guides with diagrams, three reported recruitment question adaptations from opened third-party pages, and indexed practice resources. Total 560 across 14/30 groups. Next: viruses and viral replication. Chapter mocks 0/10. Global tracked mocks 17/350 pending inventory reconciliation. Dedicated full-topic practice videos and official PYQ keys remain unverified. Cross-repository duplicate audit pending.
