@@ -7,6 +7,10 @@
 ### Q1. A nurse realizes at the end of a shift that a care event was not documented when it occurred. Which action is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Backdate the entry to make it appear contemporaneous
 - **B.** Ask the next nurse to sign the event as their own
@@ -25,11 +29,21 @@
 - **B.** Accountability wrong person par transfer hogi.
 - **C.** Relevant clinical information missing rahegi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift II reported question](https://testbook.com/question-answer/during-a-health-camp-a-nurse-ensures-that-all-pat--69df45d9ad0cd59c4a82a634). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. In a handwritten record a nurse makes a minor factual error. What is the usual safe correction principle?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Write a correct value over the incorrect one
 - **B.** Remove the whole page and rewrite without trace
@@ -48,11 +62,21 @@
 - **B.** Record integrity compromised hai.
 - **D.** Audit trail lose ho sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. An electronic record automatically carries forward a previous shift's physical examination. What should the nurse do before accepting it?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Delete the patient's entire historical examination
 - **B.** Verify each relevant finding against the current assessment and update inaccuracies
@@ -71,11 +95,21 @@
 - **C.** Old observations current condition represent nahi karte.
 - **D.** Clinical content still outdated ho sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A nurse plans to administer a scheduled drug in ten minutes. Which medication documentation practice is safest?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record administration after it actually occurs, with accurate time and relevant details
 - **B.** Mark it administered in advance to save time
@@ -94,11 +128,21 @@
 - **C.** They have not performed or verified the actual event.
 - **D.** Scheduled order and actual administration different hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift II reported question](https://testbook.com/question-answer/during-a-health-camp-a-nurse-ensures-that-all-pat--69df45d9ad0cd59c4a82a634). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A patient refuses an offered medication. Which record is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Patient described only as uncooperative
 - **B.** Delete the prescribed medication from the record independently
@@ -117,11 +161,21 @@
 - **B.** Order change requires authority.
 - **D.** False documentation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A nurse documents, "Patient was difficult all morning." What is the key improvement needed?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Document another patient's experience as comparison
 - **B.** Replace the label with relevant observable behavior, direct statements and nursing actions
@@ -140,11 +194,21 @@
 - **C.** Judgmental wording remain karegi.
 - **D.** Relevant care information may be lost.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient tells the nurse about a symptom using an unusual expression. Which documentation method best preserves the subjective information?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record the relevant patient statement in quotation marks with context and observations
 - **B.** Replace the statement with a definitive diagnosis immediately
@@ -163,11 +227,21 @@
 - **C.** Original symptom meaning change ho sakta hai.
 - **D.** Important subjective information omit ho sakti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A hospital uses problem-oriented documentation with SOAP. Which entry belongs primarily in the Assessment component?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A direct quotation of the patient's symptom alone
 - **B.** A measured temperature without interpretation
@@ -186,11 +260,21 @@
 - **B.** Objective data hai.
 - **C.** Plan component hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. In a SOAP record, which example belongs primarily under Plan?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Current evidence suggests disturbed sleep pattern.
 - **B.** Reassess the patient's agreed functional goal at the next specified review
@@ -209,11 +293,21 @@
 - **C.** Subjective information hai.
 - **D.** Objective measurement hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. Which nursing documentation format explicitly links a stated problem to interventions and their evaluation?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** PIE charting
 - **B.** Source-oriented charting by professional department
@@ -232,11 +326,21 @@
 - **C.** Summary does not necessarily use PIE structure.
 - **D.** Repeated measurements record karta hai, all problem-intervention links nahi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. In focus charting, what does the R in DAR usually represent?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Routine scheduled treatment
 - **B.** Reason for admission
@@ -255,11 +359,21 @@
 - **B.** This can be data, not the usual R meaning.
 - **C.** Referral may be action or plan.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A unit uses charting by exception. What prerequisite makes this method meaningful?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A rule that no patient-specific information may be recorded
 - **B.** A separate narrative for every normal observation regardless of policy
@@ -278,11 +392,21 @@
 - **B.** That defeats intended efficiency and may not be required.
 - **D.** Exceptions and required assessments still need recording.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. Which record is most useful for visualizing repeated observations over time?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A properly maintained clinical flow sheet
 - **B.** A single admission narrative with no later values
@@ -301,11 +425,21 @@
 - **C.** Staff scheduling record hai.
 - **D.** Clinical observations track nahi karta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A nurse finds a duplicate patient identifier in an electronic chart before entering assessment findings. What is the safest response?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Choose the first chart because it is already open
 - **B.** Enter findings in both charts to ensure availability
@@ -324,11 +458,21 @@
 - **B.** One patient's data another record mein contaminate ho sakti hai.
 - **C.** Room allocation may change and is not sufficient identifier.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. The electronic health record is temporarily unavailable. Which documentation approach supports safe continuity?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Use personal unapproved cloud notes containing identifiers
 - **B.** Record no medication administration during downtime
@@ -347,11 +491,21 @@
 - **B.** Duplicate or missed dose risk increases.
 - **D.** Events and medication details may be forgotten.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A colleague asks to use the nurse's electronic login because their account is locked. What is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Ask the colleague to chart under a generic patient name
 - **B.** Decline credential sharing and arrange authorized access support
@@ -370,11 +524,21 @@
 - **C.** Actions may be attributed to the wrong user.
 - **D.** False accountability hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A nurse needs to review records of a patient from another unit for an assigned consultation. Which privacy principle applies?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Open all available unrelated records for learning
 - **B.** Download the entire chart to a personal phone
@@ -393,11 +557,21 @@
 - **B.** Unapproved storage privacy risk hai.
 - **C.** Care continuity may suffer.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. An electronic system retains the date, user identity and prior versions of changed entries. What is the main purpose of this feature?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Permission to alter clinical data without explanation
 - **B.** A replacement for individual user credentials
@@ -416,11 +590,21 @@
 - **B.** User identity is essential for audit trail.
 - **D.** Accurate judgment requires separate review.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A nurse provides teaching on a complex home procedure. Which documentation most clearly demonstrates the teaching outcome?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Copy another patient's education record
 - **B.** Content taught, patient's return demonstration, remaining difficulty and follow-up plan
@@ -439,11 +623,21 @@
 - **C.** Teaching delivery alone does not establish skill.
 - **D.** Vague judgment objective result nahi batata.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A clinician is reviewing an incident that caused a minor injury. Which distinction between clinical chart and safety incident report is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Chart clinical facts, assessment, care and notification, and complete the separate incident reporting process as required
 - **B.** Replace the clinical record entirely with the safety report
@@ -462,11 +656,21 @@
 - **C.** Unsupported conclusions inappropriate hain.
 - **D.** Relevant clinical findings must be documented securely.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q8, ID 34](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A nurse records that an urgent concern was communicated to the provider. Which detail improves continuity most?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Only the nurse's assumption that someone will respond
 - **B.** Every unrelated conversation from the shift
@@ -485,11 +689,21 @@
 - **B.** Relevant information becomes obscured.
 - **D.** Follow-up accountability unclear rahegi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. An audit finds many nursing entries missing the patient's response to interventions. Which improvement is most useful?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume all patients responded well if no complaint is recorded
 - **B.** Review workflow and train staff to document outcome reassessment with relevant objective evidence
@@ -508,11 +722,21 @@
 - **C.** Missing response still remains.
 - **D.** Care evaluation evidence lost ho sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift I reported question](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A patient requests access to their clinical record. What should the nurse do?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Explain and facilitate the approved access process under applicable law and policy
 - **B.** Promise unrestricted access to every other patient's record
@@ -531,5 +755,11 @@
 - **C.** Patient access rights and procedures need consideration.
 - **D.** Privacy and identity verification risks hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+<!-- /job4-metadata -->
 </details>
 
