@@ -645,9 +645,22 @@ Sterile field ke outside contact ya uncontrolled exposure contamination concern 
 
 **Correct: C. Arterial perfusion and clinical suitability for compression**
 
-Severe arterial insufficiency mein compression blood supply compromise kar sakti hai. Nurse arterial status aur authorized plan verify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dressing size aur age alone perfusion nahi batate. All ulcers venous nahi hote.
+Leg ulcer venous, arterial ya mixed cause ka ho sakta hai. Strong compression venous return support kar sakti hai lekin arterial insufficiency mein blood supply compromise kar sakti hai. Vascular assessment aur appropriate ABPI ya alternative test verify karo. Diabetes mein ABPI misleading ho sakta hai. Authorized specialist compression plan follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dressing size blood supply establish nahi karta.
+- **B (Galat):** Age alone arterial perfusion ka measure nahi hai.
+- **C (Sahi):** Arterial perfusion aur suitability evaluate karne se compression-related harm kam hota hai.
+- **D (Galat):** Sab ulcers venous nahi hote.
+
+**Exam clue:** Assess arterial perfusion before strong compression.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/htg677/chapter/2-The-diagnostic-tests)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1769,9 +1782,22 @@ Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte h
 
 **Correct: C. Verify the order and assess wound approximation before removal**
 
-Removal timing wound site aur healing par depend karti hai. Nurse edges assess karke prescribed plan follow karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal timing aur unassessed forceful removal wound separation cause kar sakte hain.
+Sutures wound edges ko saath hold karte hain. Removal timing body site, healing aur authorized order par depend karti hai. Nurse wound approximation, infection aur separation assess karti hai. Removal ke dauran separation ho toh stop aur review lo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Inspection skip karne se poor healing miss ho sakti hai.
+- **B (Galat):** Embedded suture forcefully pull karne se trauma ho sakta hai.
+- **C (Sahi):** Order aur approximation verify karna premature removal se bachata hai.
+- **D (Galat):** Universal removal day har operation ke liye suitable nahi.
+
+**Exam clue:** Check order and wound healing.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2280,9 +2306,22 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 
 **Correct: B. Distal circulation, sensation and movement**
 
-Baseline aur post-application neurovascular assessment se excessive compression identify ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Color, temperature alone aur length distal circulation aur nerve function adequately assess nahi karte.
+Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging se pehle baseline aur baad mein distal color, temperature, pulse, capillary refill, sensation, movement aur pain compare karo. New changes excessive pressure identify karne mein help karte hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Body temperature alone limb blood flow aur sensation nahi batati.
+- **B (Sahi):** Circulation, sensation aur movement relevant baseline aur follow-up hain.
+- **C (Galat):** Bandage length se nerve function assess nahi hota.
+- **D (Galat):** Bandage color patient perfusion establish nahi karta.
+
+**Exam clue:** Compare distal neurovascular status.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2398,9 +2437,22 @@ Procedure ke baad clinical needs change ho sakti hain. Reassessment, order recon
 
 **Correct: B. Stop removal, support the wound and seek surgical assessment**
 
-Edge separation dehiscence ka sign ho sakti hai. Further removal stop karke wound protect aur review karna important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continued removal separation worsen kar sakti hai. Contamination aur delay unsafe hain.
+Staple removal ke waqt edges separate hona dehiscence ka warning sign hai. Dehiscence ka matlab wound closure khulna hai. Further removal stop karo, wound approved method se support aur protect karo aur surgical assessment lo. Significant separation ya exposed organs emergency hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Wound unattended chhodna separation aur contamination worsen kar sakta hai.
+- **B (Sahi):** Stopping and supporting wound further separation reduce karte hain.
+- **C (Galat):** Unclean instrument infection aur injury ka risk badhata hai.
+- **D (Galat):** Remaining staples rapidly remove karne se wound aur open ho sakta hai.
+
+**Exam clue:** Dehiscence: stop removal and escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
