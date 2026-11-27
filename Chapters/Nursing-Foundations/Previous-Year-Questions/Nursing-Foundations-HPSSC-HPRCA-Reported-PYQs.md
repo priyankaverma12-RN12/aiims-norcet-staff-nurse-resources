@@ -152,7 +152,24 @@ Ishihara plates colored dot patterns use karti hain jisme numbers ya shapes iden
 
 **Correct: C. 20 G**
 
-20G commonly pink hoti hai aur routine transfusion selected patient mein suitable ho sakti hai. Urgent rapid transfusion may need larger access. Original question ka color-size combination ambiguous hai, isliye current accurate principle use kiya gaya hai. Printed gauge aur blood bank policy verify karo.
+<!-- job5-rationale -->
+20 G commonly pink hoti hai. Routine adult red-cell transfusion ke liye suitable patient mein 20–22 G access acceptable ho sakta hai. Rapid transfusion mein larger suitable access often needed hota hai. Device patency, patient vein, urgency aur local blood bank policy verify karo. Historical source Q51 mein color-size combinations ambiguous hain, isliye current adaptation specifically pink 20 G convention test karti hai.
+
+**Option-by-option reasoning**
+
+- **A:** 24 G commonly yellow hai. Small access selected patients mein usable ho sakta hai, but pink convention nahi hai.
+- **B:** 18 G commonly green hai. Rapid transfusion mein suitable ho sakta hai, par stated pink color ka answer nahi.
+- **C:** 20 G commonly pink hai aur suitable routine adult transfusion access ho sakti hai.
+- **D:** 22 G commonly blue hai. Routine transfusion mein suitable ho sakti hai, par pink color nahi.
+
+**Exam clue:** Pink = 20 G, verify printed device size rather than color alone.
+
+[Manufacturer 20 G pink catheter reference](https://www.bd.com/en-anz/products-and-solutions/products/product-page.381134) · [Routine and rapid transfusion gauge guidance](https://professionaleducation.blood.ca/en/transfusion/clinical-guide/blood-administration)
+
+**Evidence status:** HPSSC Staff Nurse 2021 Series A post code 892 Q51 third-party transcription directly retrieved, original choices inspected. Original key not authenticated. Corrected concept, not verbatim PYQ.
+
+[Supplementary teaching and mixed quiz — Bhushan Science Nursing](https://www.youtube.com/watch?v=hdLAKRAOrF8) — indexed chapters 02:15 cannula color teaching, 19:30 mixed exam MCQs. Specific cannula question in quiz and playback not verified. **Dedicated MCQ practice: verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
