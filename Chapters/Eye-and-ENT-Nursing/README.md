@@ -63,4 +63,4 @@ Epiretinal membrane expansion, 27 November 2026: resumed at checkpoint 9a36487da
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-090550-vmt. Scope: vitreomacular traction chapter-local package only. Claimed UTC 2026-11-27T09:05:50Z. Expiry UTC 2026-11-27T09:35:50Z. -->
