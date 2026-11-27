@@ -6,7 +6,7 @@
 
 ### PYQ1. Which general nursing measure prevents traction on an indwelling urinary catheter?
 
-**Reported exam:** PGIMER Nursing Officer, 2020
+**⚪ Reported exam attribution pending:** PGIMER Nursing Officer, 2020 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/a-patient-with-urinary-catheterization-is-admitted-to-the-ward-what-should-jlsUytxqVRurBzpBd2WXD)
 
@@ -38,7 +38,7 @@ Urinary catheter par tension se urethral lining injure ho sakti hai. Securement 
 
 ### PYQ2. For a female patient with a urinary catheter, where is a suitable securement device commonly placed if consistent with local policy?
 
-**Reported exam:** PGIMER Sangrur Nursing Officer, 2023
+**⚪ Reported exam attribution pending:** PGIMER Sangrur Nursing Officer, 2023 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/a-female-patient-with-urinary-catheterization-is-admitted-to-the-ward-what-yHWA4fJ21qaSGO5pHApTH)
 
@@ -70,7 +70,7 @@ Female catheter ki tubing ko commonly upper thigh par appropriate device se secu
 
 ### PYQ3. Which routine practice is inappropriate for catheter-associated urinary tract infection prevention?
 
-**Reported exam:** SGPGI Nursing Officer, 2022
+**⚪ Reported exam attribution pending:** SGPGI Nursing Officer, 2022 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/which-of-the-following-interventions-is-not-included-in-the-prevention-of-DYbU_Vku_z8etLmvNrUo2)
 
