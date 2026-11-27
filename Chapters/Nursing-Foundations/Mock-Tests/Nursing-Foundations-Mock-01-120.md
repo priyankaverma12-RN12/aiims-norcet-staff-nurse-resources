@@ -158,7 +158,9 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 
-**Topic-bank question:** [Q4](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q4-a-patient-after-abdominal-surgery-is-restless-has-a-respiratory-rate-of-32min-and-an-oxygen-saturation-of-86-which-problem-should-be-addressed-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q4](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q4-a-patient-after-abdominal-surgery-is-restless-has-a-respiratory-rate-of-32min-and-an-oxygen-saturation-of-86-which-problem-should-be-addressed-first)
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -652,7 +654,7 @@ Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red m
 ### Q31. Which entry in an assessment record is subjective data?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 GMCH Nursing Officer 2025 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -675,7 +677,9 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 
-**Topic-bank question:** [Q2](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q2-which-entry-in-an-assessment-record-is-subjective-data) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q2](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q2-which-entry-in-an-assessment-record-is-subjective-data)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 
 **Additional source:** [GMCH 2025 recruitment booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf) (previously inspected text, direct retrieval failed this run) · [Recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760).
 <!-- /job4-metadata -->
@@ -1635,7 +1639,7 @@ Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient a
 ### Q77. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application · **🟣 AIIMS Jodhpur Nursing Officer 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -1658,7 +1662,9 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 
-**Topic-bank question:** [Q1](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q1-during-admission-a-patient-reports-severe-nausea-but-the-nurse-has-not-yet-assessed-vital-signs-or-hydration-which-nursing-process-step-is-currently-required) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q1](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q1-during-admission-a-patient-reports-severe-nausea-but-the-nurse-has-not-yet-assessed-vital-signs-or-hydration-which-nursing-process-step-is-currently-required)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -2047,7 +2053,7 @@ Patient physically capable hai lekin knowledge ya skill develop karni hai. Suppo
 ### Q96. Which finding represents objective assessment data?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 GMCH Nursing Officer 2025 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -2070,7 +2076,9 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data)
 
-**Topic-bank question:** [Q3](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q3-which-finding-represents-objective-assessment-data) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q3](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q3-which-finding-represents-objective-assessment-data)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 
 **Additional source:** [GMCH 2025 recruitment booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf) (previously inspected text, direct retrieval failed this run) · [Recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760).
 <!-- /job4-metadata -->
