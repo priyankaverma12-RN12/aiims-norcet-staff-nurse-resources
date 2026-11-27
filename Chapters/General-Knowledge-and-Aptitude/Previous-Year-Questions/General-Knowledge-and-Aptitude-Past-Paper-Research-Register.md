@@ -29,3 +29,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Percentage reported evidence](06-Percentages-Reported-Evidence.md): four counted families (AIIMS Delhi 2019 memory-based, DSSSB August 2019 shift 3, OSSSC 2021 and 2023), plus one disputed-key OSSSC adaptation excluded from counts. Chapter total fourteen counted families, fifteen counted solved adaptations, one reserved and two disputed-source adaptations. Official keys pending.
+
+
+[Ratio and proportion evidence](07-Ratios-and-Proportion-Reported-Evidence.md): one directly inspected RRB 21 July 2019 shift I reported adaptation and two provisional DSSSB 29 August 2019 shift I indexed adaptations (Q63, Q70, direct retrieval failed). Fifteen counted families, sixteen counted solved adaptations, five additional reserved/disputed/provisional items. Official keys pending.
