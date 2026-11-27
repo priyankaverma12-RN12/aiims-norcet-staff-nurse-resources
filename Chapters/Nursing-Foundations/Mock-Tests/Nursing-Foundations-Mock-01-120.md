@@ -302,7 +302,7 @@ Right patient ka matlab actual person ko correct medication order se match karna
 
 ### Q11. In PQRST pain assessment, what does R commonly represent?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Respiratory rate only
 - **B.** Recovery score
@@ -327,9 +327,11 @@ PQRST ek structured symptom assessment mnemonic hai. P provocation/palliation, Q
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary practice lead:** [Pain assessment tools and scales — LPN Launchpad](https://www.youtube.com/watch?v=_ifGoZyhhkc). Published OPQRST teaching chapter and separate quiz chapters, exact question unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q3](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q3](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q3-in-pqrst-pain-assessment-what-does-r-commonly-represent)
 
 ### Q12. A patient has orthopnea and is hemodynamically stable. Which position usually facilitates breathing?
 
@@ -408,7 +410,7 @@ Autonomy ka matlab person apne healthcare decisions informed manner mein le sakt
 
 ### Q15. A patient reports burning, electric-shock pain after nerve injury. Which pain mechanism is most likely?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Referred pain proven by the description alone
 - **B.** Normal absence of pain sensation
@@ -435,7 +437,7 @@ Neuropathic pain tab ho sakti hai jab somatosensory nervous system, yani sensati
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q2](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q2](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q2-a-patient-reports-burning-electric-shock-pain-after-nerve-injury-which-pain-mechanism-is-most-likely)
 
 ### Q16. A prescription is for 750 mg of a drug available as 250 mg tablets. How many tablets are required?
 
@@ -1777,7 +1779,7 @@ Medication reconciliation ka matlab patient jo medicines actually le raha hai un
 
 ### Q57. A patient has severe new abdominal pain despite normal heart rate and blood pressure. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Dismiss pain because vital signs are normal
 - **B.** Delay assessment until tachycardia develops
@@ -1804,7 +1806,7 @@ New severe abdominal pain serious illness ka symptom ho sakta hai, even jab hear
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q4](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q4](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q4-a-patient-has-severe-new-abdominal-pain-despite-normal-heart-rate-and-blood-pressure-which-response-is-appropriate)
 
 ### Q58. A dressing adheres to fragile granulation tissue. What is the safest removal approach?
 
@@ -2709,7 +2711,7 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 
 ### Q85. Which assessment is the most reliable starting point for pain intensity in a patient who can communicate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** The location of the hospital bed
 - **B.** The nurse's estimate based on facial expression alone
@@ -2734,9 +2736,11 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Supplementary practice lead:** [Pain assessment tools and scales — LPN Launchpad](https://www.youtube.com/watch?v=_ifGoZyhhkc). Indexed mixed teaching and practice chapters, specific MCQ content unverified.
+
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q1](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q1](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q1-which-assessment-is-the-most-reliable-starting-point-for-pain-intensity-in-a-patient-who-can-communicate)
 
 ### Q86. A patient can bathe the upper body but needs assistance with lower-body hygiene. Which Orem nursing system best fits?
 
