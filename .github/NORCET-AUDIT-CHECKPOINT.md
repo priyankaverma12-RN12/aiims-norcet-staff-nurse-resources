@@ -1,8 +1,8 @@
 # Job 3 — deep audit checkpoint
 
-State: CLAIMED
-Owner: job3-day03-asthma-20261127
-Scope: Respiratory Day-03-Asthma-COPD-55.md Q1–25 only
-Expiry UTC: 2026-11-27T05:13:41.381Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
-Latest: Day-02-Final-Mock-25.md Q1–25 corrected and read back, commit 1364c07dfe6d9ef6cf3f26fc7720f865c79f0167. All 25 keys/options/IDs preserved, Q9/Q11 pH corrected for internal ABG consistency, 16 difficulty regrades, 23 revision mappings, 25 hidden answers, 10 topic-level video leads and 15 explicit pending gaps. One visible KGMU 2023 related reported concept tag, no authenticated exact PYQ. Learning log commit 7e3d7d368482416bc8340cc3f37215107491bb0a. Cumulative 195 question-level clinical/rationale reviews, not full historical or chapter certification. Next: Respiratory Day-03-Asthma-COPD-55.md Q1 onward, then remaining banks, full mocks, concepts, PYQs and outstanding video/historical/semantic gaps. No new authored count. Recheck all claims, both skills and audit learnings before next scope. No chapter certified complete.
+Latest: Day-03-Asthma-COPD-55.md Q1–25 corrected and read back, commit 4d1d9ea1021fd954372393db419fdfb6c7c77205. All 55 headings and hidden answers preserved; first 25 keys/options retained, expanded rationales, 3 difficulty regrades, 8 related revision mappings, 9 topic-level video leads and 16 explicit video gaps. GINA 2026 diagnostic criteria visually verified, GOLD 2026 text retrieved but screenshot failed. Historical source direct retrieval failed, no new authenticated PYQ. Learning log commit c3d26821a69185b4c526dafd41f298ee3439d545. Cumulative 220 clinical/rationale reviews. Next: same Day 3 disease MCQ bank Q26–55, then Day 3 care MCQs and mock, concepts, PYQs (existing Day 3 file still link-only with answer table). Historical authentication, dedicated videos, comprehensive syllabus depth and semantic reconciliation and new high-yield additions pending. No new authored count. No chapter certified complete. Read both skills, all work claims and learnings before acquiring next scope.
