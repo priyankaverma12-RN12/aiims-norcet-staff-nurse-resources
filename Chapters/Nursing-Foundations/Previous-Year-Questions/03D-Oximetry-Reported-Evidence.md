@@ -19,14 +19,22 @@ Which pair of measurements is normally displayed by a conventional bedside pulse
 
 **Correct answer: A. Peripheral oxygen saturation and pulse rate**
 
-**Kyun sahi hai:** Conventional pulse oximeter optical pulsatile signal se SpO2 aur pulse rate estimate karta hai. Yeh noninvasive monitoring hai.
+<!-- job5-rationale -->
+Conventional pulse oximeter red aur infrared light absorption ke difference aur pulsatile blood volume signal se peripheral arterial Hb saturation ka estimate banata hai. Pulses ke intervals se pulse rate bhi estimate hoti hai. SpO2 oxygen-bound Hb fraction batati hai, Hb quantity ya ventilation directly nahi. Poor perfusion, motion, pigmentation aur dyshemoglobins reading accuracy affect kar sakte hain. Symptoms aur waveform quality as available correlate karo.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **B.** PaCO2 blood gas se assess hota hai, respiratory rate separately count ya appropriate monitor se measure karte hain.
-- **C.** Hemoglobin concentration aur pH laboratory measurements hain, ordinary oximeter inhe measure nahi karta.
-- **D.** Systolic aur diastolic BP pressure measurement se milte hain, oximetry optical saturation assessment hai.
+- **A:** SpO2 aur peripheral optical pulse rate conventional device ke main outputs hain.
+- **B:** PaCO2 blood gas se assess hoti hai aur respiratory rate separately count ya appropriate respiratory monitor se milti hai.
+- **C:** Hb concentration laboratory blood count se aur pH blood gas analysis se milta hai.
+- **D:** SBP aur DBP pressure-measuring device se milte hain, ordinary pulse oximeter se nahi.
 
+**Exam clue:** SpO2 + pulse rate, not BP, PaCO2 or Hb.
+
+[Clinical concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+
+**Source recheck:** Publisher source directly rechecked 27 November 2026: GMCH 28 August 2022, source key option 3 both oxygen saturation and pulse rate, adaptation key A. Official key not authenticated.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **▶️ [YouTube MCQ practice — Nursing Margdarshan R.N.M., image-based equipment questions](https://www.youtube.com/watch?v=tUteiKjol8s)** · Indexed description includes pulse oximeter among expected equipment questions; device-level supplementary practice only. Exact question coverage and playback pending.
@@ -52,14 +60,22 @@ Which finding cannot be directly obtained from a conventional standalone pulse o
 
 **Correct answer: C. Electrocardiographic changes**
 
-**Kyun sahi hai:** ECG cardiac electrical activity measure karta hai. Standalone pulse oximeter light absorption aur pulsatile blood flow se information estimate karta hai, electrical tracing directly record nahi karta.
+<!-- job5-rationale -->
+ECG skin electrodes ke through cardiac electrical potential changes record karta hai. Pulse oximeter optical photoplethysmography se peripheral blood volume changes aur estimated saturation detect karta hai. Dono heart-related information de sakte hain, lekin electrical rate aur peripheral pulse rate arrhythmia ya weak perfusion mein differ kar sakte hain. Pleth waveform ECG tracing nahi hoti. Standalone pulse oximeter ECG changes directly identify nahi karta.
 
-**Baaki options kyun galat hain?**
+**Option-by-option reasoning**
 
-- **A.** SpO2 conventional oximeter ka primary measurement estimate hai.
-- **B.** Pulse rate optical pulsation se estimate kiya ja sakta hai, but ECG se distinction maintain karo.
-- **D.** Waveform-capable oximeter plethysmographic optical signal display kar sakta hai. Yeh ECG waveform nahi hai.
+- **A:** Estimated oxygen saturation percentage standard optical output hai.
+- **B:** Peripheral optical pulse rate pulsatile signal se estimate hoti hai.
+- **C:** ECG changes record karne ke liye electrical ECG measurement chahiye, isliye C correct hai.
+- **D:** Waveform-capable model optical plethysmogram display kar sakta hai, which is not ECG.
 
+**Exam clue:** ECG = electrical, pleth = optical blood volume change.
+
+[Clinical concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
+
+**Source recheck:** Publisher source directly rechecked 27 November 2026: NORCET 1 September 2020 memory-based, source key option 3 ECG changes, adaptation key C. Original oxygen wording was ambiguous and adaptation clarifies the measurement distinction. Official key not authenticated.
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Evidence update:** [Direct non-AMP question page retrieved 27 November 2026](https://testbook.com/question-answer/the-activity-not-recorded-by-pulse-oximeter--6177b8dc6b46604c7256c0c6); memory-based exam attribution and options confirmed at third-party level. Original AMP source limitation below refers to earlier retrieval. Not an authenticated official key.
