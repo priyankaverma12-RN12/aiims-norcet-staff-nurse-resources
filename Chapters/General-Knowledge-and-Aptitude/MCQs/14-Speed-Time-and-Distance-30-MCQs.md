@@ -112,7 +112,7 @@
 
 ### Q5. A bus must cover 180 km in 4 hours including a 30-minute stop. What constant moving speed is required, rounded to two decimal places?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 45 km/h
 - **B.** 51.43 km/h
@@ -220,7 +220,7 @@
 
 ### Q9. Two vehicles leave towns 210 km apart at the same time, travelling towards each other at 45 km/h and 60 km/h. How far from the first town do they meet?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 120 km
 - **B.** 105 km
@@ -247,7 +247,7 @@
 
 ### Q10. Two vehicles travel along a straight road in opposite directions from the same point. After 45 minutes, they are 78 km apart. One moves at 48 km/h. Find the other speed.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 56 km/h
 - **B.** 30 km/h
@@ -328,7 +328,7 @@
 
 ### Q13. A train of length 180 m passes a stationary pole in 12 seconds. Find its speed in km/h.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 15 km/h
 - **B.** 54 km/h
@@ -355,7 +355,7 @@
 
 ### Q14. A 160 m train moves at 72 km/h. How many seconds are needed to completely clear a 240 m tunnel from the instant its front enters?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 12 seconds
 - **B.** 8 seconds
@@ -382,7 +382,7 @@
 
 ### Q15. A train crosses a 150 m platform in 24 seconds at a constant speed of 15 m/s. How long is the train?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 210 m
 - **B.** 360 m
@@ -409,7 +409,7 @@
 
 ### Q16. A 210 m train moving at 54 km/h overtakes a pedestrian walking at 1 m/s in the same direction. How long does it take to pass the pedestrian completely?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 14 seconds
 - **B.** 13.125 seconds
@@ -436,7 +436,7 @@
 
 ### Q17. Two trains of lengths 120 m and 180 m move in opposite directions at 36 km/h and 54 km/h. How long do they take to pass each other completely?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 60 seconds
 - **B.** 4.8 seconds
@@ -463,7 +463,7 @@
 
 ### Q18. A 140 m train travelling at 72 km/h overtakes a 220 m train travelling at 54 km/h on a parallel track. How many seconds are needed from first contact to complete clearance?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 72 seconds
 - **B.** 10.29 seconds
@@ -517,7 +517,7 @@
 
 ### Q20. Two equally long trains move at 20 m/s and 12 m/s. They take 30 seconds to pass completely in the same direction. What is the length of each train?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 240 m
 - **B.** 120 m
@@ -544,7 +544,7 @@
 
 ### Q21. A boat has a speed of 12 km/h in still water and the current flows at 3 km/h. How long does a 30 km upstream journey take?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 2 hours
 - **B.** 3 hours 20 minutes
@@ -679,7 +679,7 @@
 
 ### Q26. Two runners start at the same point on a 400 m circular track in opposite directions at 3 m/s and 5 m/s. When do they first meet again?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 50 seconds
 - **B.** 200 seconds
@@ -706,7 +706,7 @@
 
 ### Q27. Two runners start together on a 300 m circular track in the same direction at 4 m/s and 6 m/s. How long until the faster runner first gains one complete lap on the slower one?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 30 seconds
 - **B.** 50 seconds
@@ -733,7 +733,7 @@
 
 ### Q28. In a 200 m race, runner A finishes in 25 seconds while B runs at 6 m/s. How far behind A is B at the instant A finishes?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 150 m
 - **B.** 50 m
@@ -760,7 +760,7 @@
 
 ### Q29. A traveller moves at 24 km/h for 30 minutes towards a destination, then returns along the same route at 16 km/h for 15 minutes. How far from the starting point is the traveller now?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 16 km
 - **B.** 8 km
