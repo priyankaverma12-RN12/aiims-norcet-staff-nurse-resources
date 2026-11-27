@@ -290,9 +290,22 @@ Barcode mismatch patient identity, medication, dose, order ya scanning issue ind
 
 **Correct: B. Stop the suspected source of air entry if safe and activate emergency assessment immediately**
 
-Central line manipulation ke dauran air embolism ya other emergency possible hai. Nurse further air entry prevent karti hai aur emergency ABC support arrange karti hai.
+<!-- job5-rationale -->
+Sudden dyspnea aur hypotension central-line manipulation ke waqt venous air embolism ya other emergency indicate kar sakte hain. Further air entry safely stop karo, emergency help activate karo, ABC support aur oxygen as indicated arrange karo. Positioning patient status aur specialist protocol par depend karti hai.
 
-**Baaki options kyun sahi nahi hain?** Open line air entry badha sakti hai. Walking aur delayed assessment unsafe hain.
+**Option-by-option reasoning**
+
+- **A:** Imaging se pehle immediate stabilization zaroori hai.
+- **B:** Source control and emergency assessment appropriate hai.
+- **C:** Open catheter further air entry allow kar sakta hai.
+- **D:** Walking unstable patient mein collapse risk badhata hai.
+
+**Exam clue:** Suspected air embolism: prevent further entry, activate emergency care.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-1-principles-of-intravenous-therapy)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -596,9 +609,22 @@ Gradual goal-based practice patient ki ability improve karne mein help karti hai
 
 **Correct: C. Infusion pump**
 
-Infusion pump set rate par fluid deliver karne mein help karta hai. Nurse correct programming aur patient monitoring phir bhi karti hai.
+<!-- job5-rationale -->
+Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 125 mL/h. Reverse: 125 × 4 = 500 mL. Correct order, settings, tubing aur site monitor karo, pump infiltration exclude nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Peak flow airflow, sphygmomanometer BP aur spirometer breathing exercise se related hain.
+**Option-by-option reasoning**
+
+- **A:** Peak flow meter expiratory airflow measure karta hai.
+- **B:** Sphygmomanometer BP measure karta hai.
+- **C:** Infusion pump prescribed programmed flow deliver karne ke liye hai.
+- **D:** Incentive spirometer lung expansion exercise ke liye hai.
+
+**Exam clue:** Rate mL/h = volume mL ÷ time hours.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1669,9 +1695,22 @@ Direct contact se heat warmer surface se colder surface ki taraf transfer hoti h
 
 **Correct: A. Maintain aseptic technique and use the indicated sterile dressing and skin preparation**
 
-Central line bloodstream tak direct access deti hai. Aseptic dressing change aur appropriate skin antisepsis infection risk reduce karte hain.
+<!-- job5-rationale -->
+Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, aseptic technique, appropriate sterile dressing, indicated skin antisepsis aur drying follow karo. Age, allergy aur device-specific requirements consider karo.
 
-**Baaki options kyun sahi nahi hain?** Exposure, powder aur repeated unclean contact contamination risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Aseptic dressing and skin prep contamination risk reduce karte hain.
+- **B:** Repeated unclean contact insertion site contaminate karta hai.
+- **C:** Site exposed chhodne se barrier remove hota hai.
+- **D:** Nonsterile powder contamination cause kar sakta hai.
+
+**Exam clue:** Use indicated sterile dressing and aseptic technique.
+
+[Clinical reference](https://www.who.int/publications/i/item/9789240121805)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2423,9 +2462,22 @@ Medication administration record actual dose, route aur time reflect karna chahi
 
 **Correct: D. Assess urgently for fluid overload and follow escalation and infusion management instructions**
 
-Excess fluid circulation overload aur pulmonary congestion contribute kar sakta hai. Nurse breathing aur vitals assess karke urgent team review leti hai.
+<!-- job5-rationale -->
+Rapid fluids ke baad crackles, dyspnea aur low saturation pulmonary congestion suggest kar sakte hain. ABC, vital signs, oxygenation aur fluid status urgently assess karo. Suspected causative fluid pause/manage as appropriate under emergency protocol, help activate karo aur other causes assess karo.
 
-**Baaki options kyun sahi nahi hain?** Extra fluid overload worsen kar sakta hai. Bag complete hone ka wait unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** More fluid pulmonary congestion increase kar sakta hai.
+- **B:** Extra oral fluid suspected overload worsen kar sakta hai.
+- **C:** Bag empty hone ka wait urgent care delay karta hai.
+- **D:** Immediate assessment and escalation correct action hai.
+
+**Exam clue:** New breathlessness during IV fluid requires urgent review.
+
+[Clinical reference](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
