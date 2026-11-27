@@ -453,9 +453,19 @@ Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur
 
 **Correct: B. Scheduled and recent medications, pending tests and immediate care priorities**
 
-Receiving team ko recent doses aur next due times pata hona chahiye. Pending tests aur priorities communicate karne se delay aur duplicate treatment reduce ho sakte hain.
+Handover ka purpose receiving team ko enough current information dena hai taaki ongoing treatment safely continue ho. Recent medicines, next due doses, pending tests, current clinical status aur immediate care priorities structured format mein share karo. Pending results ka follow-up kiski responsibility hai, yeh clarify karo. Receiving team ko questions aur confirmation ka mauka do.
 
-**Baaki options kyun sahi nahi hain?** Room, staff list aur date alone clinical continuity ke liye insufficient hain.
+**Option-wise explanation:**
+- **A (Galat):** Room number location batata hai, clinical handover replace nahi karta.
+- **B (Sahi):** Medication timing, pending investigations aur priorities missing ya duplicate care reduce karne mein help karte hain.
+- **C (Galat):** Previous staff names clinical treatment schedule explain nahi karte.
+- **D (Galat):** Admission date alone patient ki current condition ya next treatment nahi batati.
+
+**Exam clue:** Handover what is due, pending, and urgent.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -495,9 +505,19 @@ Medicolegal case mein lines aur other material investigation ke liye relevant ho
 
 **Correct: B. Discuss a safe interim or delayed discharge plan with the team rather than assuming the patient can manage**
 
-Required equipment absent ho toh home safety compromised ho sakti hai. Nurse safe alternatives aur discharge timing team ke saath review karti hai.
+Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke liye select kiya gaya ho sakta hai. Device absent hone par home safety aur caregiver availability reassess karo. Physiotherapy, occupational therapy aur discharge team se safe alternative ya revised timing discuss karo. Actual arrangement verify aur accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Unsupported walking aur unstable chair fall risk badhate hain. False documentation unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Team ke saath safe interim ya delayed discharge plan discuss karna unresolved equipment barrier address karta hai.
+- **B (Sahi):** Assessment ignore karke unsupported walking fall aur injury risk badha sakti hai.
+- **C (Galat):** Unstable chair purpose-built walking aid ka safe replacement nahi hai.
+- **D (Galat):** Equipment deliver na hone par delivered document karna inaccurate hai aur risk hide karta hai.
+
+**Exam clue:** Do not assume equipment is available: confirm before discharge.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2123,9 +2143,19 @@ Hematoma ya arterial complication distal perfusion compromise kar sakti hai. Nur
 
 **Correct: B. Verify the updated restriction, modify nursing care and communicate it to the team**
 
-Procedures ke baad activity, diet ya device care instructions change ho sakti hain. Nurse current authorized instructions reconcile karke care update karti hai.
+Procedure ke baad diet, activity, monitoring ya device-related restrictions change ho sakti hain. Nurse current authorized instruction verify karti hai, discrepancy clarify karti hai aur relevant nursing care plan update karti hai. Team aur patient ko change communicate karo. Restriction ka reason aur duration clear hona chahiye. Unclear order par assumption laga kar old plan continue mat karo.
 
-**Baaki options kyun sahi nahi hain?** Outdated plan aur assumptions complication risk badha sakte hain. Comfort restriction override nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Outdated plan follow karne se procedure-specific complication ka risk ho sakta hai.
+- **B (Sahi):** New instruction verify, care update aur team communication continuity of care maintain karte hain.
+- **C (Galat):** Department change hone se restriction automatically expire nahi hoti.
+- **D (Galat):** Patient comfortable feel kare toh bhi safety restriction ka clinical reason present ho sakta hai.
+
+**Exam clue:** Reconcile post-procedure instructions before continuing care.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-2-patient-transfer) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2314,9 +2344,19 @@ Home mein patient ko transfers, toileting aur skin prevention ke liye practical 
 
 **Correct: C. Include the patient and chosen support persons with consent in care discussions**
 
-Patient apni daily needs aur barriers best explain kar sakta hai. Shared planning adherence aur feasibility improve kar sakti hai.
+Patient-centered discharge mein patient ki goals, preferences, home situation aur practical barriers consider kiye jaate hain. Patient ki permission se chosen support person ko teaching aur planning mein include karo. Confidentiality maintain karo aur decisions mein patient participation support karo. Capacity aur applicable consent rules ke according appropriate surrogate involvement arrange karo if needed.
 
-**Baaki options kyun sahi nahi hain?** Patient exclusion autonomy reduce karti hai. Unauthorized disclosure privacy compromise karti hai. Preferences relevant hain.
+**Option-wise explanation:**
+- **A (Galat):** Cultural aur practical preferences treatment feasibility aur acceptance affect kar sakti hain.
+- **B (Galat):** Patient ko exclude karne se autonomy aur practical needs miss ho sakti hain.
+- **C (Sahi):** Patient aur consented support persons ko include karne se feasible aur understandable care plan develop ho sakta hai.
+- **D (Galat):** Confidential information relatives ko bina relevant consent ya legal basis disclose nahi karni chahiye.
+
+**Exam clue:** Shared planning with consent and confidentiality.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
