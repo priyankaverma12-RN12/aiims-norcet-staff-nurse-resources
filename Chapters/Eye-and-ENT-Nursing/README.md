@@ -114,4 +114,4 @@ CNLDO expansion, 27 November 2026: resumed at 1892068bf3dfee4f22583b054b59be9bb4
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-dacryoadenitis-20261127-1506. Scope: Dacryoadenitis Concepts, MCQs, Assets, Previous-Year-Questions and chapter-local indexes only. Excludes Mock-Tests and shared indexes. Claimed UTC: 2026-11-27T15:06:00Z. Expiry UTC: 2026-11-27T15:36:00Z. -->
