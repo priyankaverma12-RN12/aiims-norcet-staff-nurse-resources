@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: CLAIMED
-Owner: whole-obg-rti-expansion-132018
-Scope: Gynecology RTI/STI/PID Q21–Q40, separate topic PYQ adaptations, local README and evidence references, excluding Obstetrics
-Claimed UTC: 2026-11-27T13:20:18Z
-Expiry UTC: 2026-11-27T13:50:18Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
@@ -30,3 +30,9 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 ## Whole OBG continuation — contraception expansion, 27 November 2026
 - Published 20 original Q21–Q40, four five-question parts, 20 hidden answers and 80 option-specific Roman Hinglish rationales, commit 1b5514e348649ebad16f9cc0b3a264e02ea2ea98, blob 21a0591f110c430b14b2301e9b3b04fb4f65083b. Exact remote readback passed. Zero exact normalized matches against 104 previous Gynecology stems and 20 distinct new stems. Clinical and community focus: LAM, Antara, Chhaya, IUCD lifespan/postplacental insertion, missed pills, ulipristal, DMPA, missing strings, postpartum expulsion, breast cancer, rifampicin, STI screening, active gonorrhoea, misoprostol, BP, postpartum CHC, amenorrhea and unmet need. CDC 2024 SPR/MEC and NHM programme references linked question-wise, NHM PDFs indexed excerpts only, full PDF visual review pending. No independent complete clinical or semantic cross-repository audit. Specific video search found direct indexed MCQ lead wPDK3gUSnzU, direct playback retrieval throttled, all 20 exact question video mappings pending. Careers360 reported NORCET OBG Q1–3 retrieved, no individual year or official key authenticated. No new historical adaptations counted, avoid repeating DMPA timing already tested in Q29. Both skill files retrieved and key sections checked, complete fresh line-by-line review of both and long audit log not certified. No standalone theory or images added.
 - README updated to 124 Gynecology originals (4 starters + 40 menstrual + 40 infertility + 40 contraception), commit ba4cea97a04b70e217ff0ea43ade2ef15c4109d4, blob 0676ad20211ddecb94a2a52a47a87055178dbef8, exact readback passed. Obstetrics claim untouched. No new mocks or PYQs in this batch. Next: RTI/STI/PID original bank, then remaining mapped topics, evidence gaps, ten distinct 120-question mocks and all-India sourced Previous Year Questions. Verify all claims and current inventory before writing.
+
+
+## Whole OBG continuation — RTI/STI/PID expansion, 27 November 2026
+- Published 20 new originals Q21–Q40 in four parts, 6 Difficult, 11 Medium, 3 Easy, 20 hidden answers and 80 option-specific explanations. Commit cce4ef3b8d4d24126a668338c4341beb8d5b9022, blob 445bbc4eda43a917d76290f8a98bfd9fe17883a5. Exact readback passed. 20 distinct normalized new stems, zero exact matches against 164 prior Gynecology stems. First 20 RTI originals preserved. One original inline Mermaid PID follow-up flow in hidden Q21 answer, rendered UI not tested. Clinical source links CDC PID, contraceptive IUD/PID guidance, chlamydia, gonorrhea, syphilis, VVC, BV, trichomoniasis, HSV, NACO services, 2024 India guideline summary and indexed WHO RTI framework. Source-level review performed, full independent semantic/clinical/curriculum audit pending. Q35 Aarogyam Prime OBG Part 6 video description marker 1:03:26 for whiff test, playback throttled, topic-level only. Remaining specific original question video mappings pending.
+- Published two separately labeled reported exam adaptations, ESIC Staff Nurse 26 February 2019 Shift II and AIIMS Jodhpur memory-based 10 December 2019, commit 334602375b9cd0550213ee7d0c9308c02c7bcf33, blob f17b2552dd927d50ab82ee14d01f5da88300e844. Exact readback, two hidden answers, eight option rationales. No official exact exam question or official key authenticated. Other reported AIIMS Bhubaneswar and RRB sources recorded as evidence leads only. Research register update verified da209cdfd729272e02bb7b226036c1e624077a97. Both adaptation-specific MCQ video mappings pending.
+- README reconciled 204 originals across 12 files, all 204 question headings and hidden answers checked, including parallel RTI first 20, Fibroids/Endometriosis 20 and Cancers/Cervical Screening 20, commit 22e4b028224ab6f967aff10bf1c158e6ea122114, blob dfecb442e28addcb58681aa0f374502f629c66ae, exact readback passed. Two reported adaptations indexed separately. No standalone theory or mock added. Other claims and content preserved. Both full skill files retrieved at unchanged SHAs, relevant sections reviewed, complete fresh line-by-line reread and complete audit log review not certified. Next: expand Fibroids/Endometriosis and Cancers/Cervical Screening to 30–40 where distinct, then remaining meaningful Gynecology topic banks (including menopause, pelvic floor, gynecological surgery), deepen RTI/STI/PID subtopic coverage, verify India-wide PYQs and question-specific MCQ videos, ten distinct 120-question chapter mocks after topics. Obstetrics parallel active claim untouched. Refresh all claims and inventory before starting.
