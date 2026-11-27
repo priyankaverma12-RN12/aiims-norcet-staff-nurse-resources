@@ -40,9 +40,21 @@ Herbal products medicines ke effect ya bleeding risk change kar sakte hain. Resp
 
 **Correct: A. Assess skin and stoma fit and replace the leaking appliance appropriately**
 
-Effluent skin ko irritate kar sakta hai. Nurse leakage source aur barrier fit assess karke appropriate replacement aur skin protection karti hai.
+Ostomy leakage se enzymes aur bowel contents surrounding skin ko irritate kar sakte hain. Painful skin ko inspect karo aur leakage ka cause, stoma size, skin folds aur appliance fit assess karo. Suitable barrier aur pouch replace karo, skin ko gentle care do aur persistent breakdown par ostomy specialist review lo.
 
-**Baaki options kyun sahi nahi hain?** Reinforcement alone leak resolve nahi karti. Harsh chemical injury aur oversized opening exposure badha sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Skin aur fit assess karke leaking appliance replace karna actual leakage cause ko address karta hai.
+- **B (Galat):** Leaking edge ko indefinitely reinforce karne se hidden skin damage continue ho sakta hai.
+- **C (Galat):** Universal oversized opening skin exposure badha sakta hai.
+- **D (Galat):** Harsh chemicals already irritated skin ko aur injure kar sakte hain.
+
+**Exam clue:** Leakage means assess the seal and skin, not just add tape.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
+
+**Additional clinical reference:** [Relevant guidance](https://psag.wocn.org/index.html).
+
+**▶️ [Topic-wise MCQ practice — Colostomy Care, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Publisher description dated 21 June 2026 lists ostomy assessment, stoma care and complications in this MCQ session. Exact item coverage and playback pending.
 
 </details>
 
@@ -914,9 +926,21 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **Correct: C. Choose an appropriate catheter size relative to the airway lumen and follow protocol**
 
-Oversized catheter airway lumen occupy karke airflow aur oxygenation reduce kar sakti hai. Nurse device-specific appropriate size choose karti hai.
+Suction catheter artificial airway ke andar space occupy karti hai. Agar catheter bahut large ho toh gas passage restrict ho sakta hai aur suction ke dauran negative pressure ka effect badh sakta hai. AARC guidance adult aur pediatric endotracheal tubes mein catheter se lumen ka less than 50% occlusion recommend karti hai, neonatal limit alag hai. Age, tube internal size aur local validated sizing chart follow karo.
 
-**Baaki options kyun sahi nahi hain?** Largest catheter aur complete occlusion unsafe hain. Bed number size determine nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Airway ko completely block karne wala catheter airflow compromise kar sakta hai.
+- **B (Galat):** Largest available catheter har tube mein suitable nahi hai. Excessive occlusion harm kar sakti hai.
+- **C (Sahi):** Tube lumen ke relative correct catheter sizing gas passage aur suction safety support karti hai.
+- **D (Galat):** Bed number patient ya tube ke anatomical size ka indicator nahi hai.
+
+**Exam clue:** Catheter size depends on airway lumen, age and protocol.
+
+**Clinical references:** [Reference 1](https://doi.org/10.4187/respcare.09548) · [Reference 2](https://www.ncbi.nlm.nih.gov/sites/books/NBK593189/)
+
+**Supplementary practice lead:** [Aarogyam Infinity FON MCQ Series Part 18](https://www.youtube.com/watch?v=m1UM3dvxEv4). Indexed title and tags include tracheostomy and suctioning. Direct retrieval failed. Specific coverage not verified.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -956,9 +980,19 @@ Palliative care mein new pain ko bhi assess karna important hai. Cause aur patie
 
 **Correct: A. Sitting with appropriate foot support and privacy**
 
-Supported sitting stool passage aur abdominal muscle coordination facilitate kar sakti hai. Privacy aur enough time patient ko relax karne mein help karte hain.
+Normal defecation mein pelvic floor relaxation aur abdominal muscle coordination important hai. Stable ambulatory patient ko supported sitting, foot support, privacy aur sufficient time dena useful hai. Individual mobility, fall risk aur medical restrictions ke hisaab se assistance arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Unsupported ya head-down positions unsafe ho sakti hain. Flat posture usual toilet mechanics support nahi karti.
+**Option-wise explanation:**
+- **A (Sahi):** Supported sitting aur privacy normal toileting mechanics aur comfort support karte hain.
+- **B (Galat):** Ek pair par standing unstable hai aur defecation support nahi karti.
+- **C (Galat):** Head-down tilt routine toileting posture nahi hai aur safety compromise kar sakta hai.
+- **D (Galat):** Rigid flat posture normal toilet position ka benefit nahi deti.
+
+**Exam clue:** Safe supported toileting and privacy promote elimination.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-2-factors-affecting-bowel-elimination).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1398,9 +1432,19 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 **Correct: B. More liquid or paste-like effluent**
 
-Ileostomy small intestine se output deti hai aur colon ka water absorption bypass hota hai. Isliye effluent usually distal colostomy se more liquid hota hai.
+Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein stool colon ke zyada hissa se guzarta hai jahan water absorb hota hai. Isliye ileostomy output generally softer, liquid ya paste-like hota hai. Diet, hydration aur adaptation se consistency change ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Fully dry stool typical nahi hai. Digestive contents present hote hain. Blood-only output abnormal concern hai.
+**Option-wise explanation:**
+- **A (Galat):** Fully formed dry stool ileostomy ka universal expected output nahi hai.
+- **B (Sahi):** Liquid ya paste-like output distal colostomy ke comparison mein ileostomy ka expected pattern ho sakta hai.
+- **C (Galat):** Blood-only output normal bowel effluent nahi hai. Significant bleeding assess karni chahiye.
+- **D (Galat):** Ileostomy mein digestive contents aur fluid present hote hain.
+
+**Exam clue:** More colon bypass = generally more liquid stool.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/fundamentals-nursing/pages/27-1-gastrointestinal-tract-structures-and-functions).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1743,9 +1787,19 @@ Medical diagnosis disease ya pathological condition identify karti hai. Nursing 
 
 **Correct: C. Secure the cylinder in an approved holder and protect it from impact**
 
-Compressed gas cylinder damage hone par serious hazard create kar sakti hai. Secure holder aur proper handling important hain.
+Medical oxygen cylinder high-pressure gas contain karti hai. Agar cylinder gir jaaye ya valve damage ho toh serious mechanical hazard ho sakta hai. Oxygen khud fuel nahi hai lekin combustion ko support karti hai. Isliye approved secure carrier, impact protection aur oil-free compatible equipment use karo. Patient transfer se pehle adequate oxygen supply aur equipment function check karo.
 
-**Baaki options kyun sahi nahi hain?** Unsecured movement impact risk badhati hai. Oil oxygen equipment ke saath fire hazard create kar sakta hai.
+**Option-wise explanation:**
+- **A (Galat):** Unsecured cylinder lap se gir sakti hai aur patient ya staff ko injure kar sakti hai.
+- **B (Galat):** Oil ya grease oxygen-rich environment mein ignition risk badha sakte hain. Oxygen fittings par unauthorized lubricant mat lagao.
+- **C (Sahi):** Approved holder cylinder movement aur impact risk reduce karta hai.
+- **D (Galat):** Cylinder ko trolley par freely roll karne se impact aur valve damage ka risk badhta hai.
+
+**Exam clue:** Secure cylinder, protect valve and keep oil or grease away.
+
+**Clinical references:** [Reference 1](https://www.who.int/publications/m/item/oxygen-cylinder-safety) · [Reference 2](https://www.england.nhs.uk/publication/national-patient-safety-alert-use-of-oxygen-cylinders-where-patients-do-not-have-access-to-medical-gas-pipeline-systems/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2448,9 +2502,19 @@ Health literacy practical health decisions aur services navigate karne se relate
 
 **Correct: D. Nasopharyngeal airway**
 
-Suspected skull base injury mein nasal instrumentation serious injury ka risk rakh sakti hai. Trained airway team alternative support select karti hai.
+Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyngeal airway ya NPA nose ke through pharynx tak jaati hai. Suspected skull-base injury, especially cribriform plate involvement, mein blind nasal instrumentation rare lekin serious harm ka risk rakhti hai. Trained emergency airway team safe alternative choose karti hai.
 
-**Baaki options kyun sahi nahi hain?** External mask, oximeter aur stethoscope nasal passage mein enter nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Stethoscope breath sounds assess karne ke liye external device hai. Yeh nasal instrument nahi hai.
+- **B (Galat):** External oxygen mask face ke bahar apply hoti hai aur skull base ke through instrument pass nahi karti.
+- **C (Galat):** Pulse oximeter peripheral saturation estimate karne ke liye external sensor hai.
+- **D (Sahi):** NPA nose mein insert hoti hai. Suspected skull-base fracture mein blind insertion avoid karna chahiye.
+
+**Exam clue:** Suspected basilar skull fracture: avoid blind NPA insertion.
+
+**Clinical references:** [Reference 1](https://www.merckmanuals.com/professional/critical-care-medicine/how-to-do-basic-airway-procedures/how-to-insert-a-nasopharyngeal-airway?media=full) · [Reference 2](https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control?qt=Airway)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2490,9 +2554,19 @@ After-death care mein dignity, correct identity aur family-cultural needs mainta
 
 **Correct: C. Dehydration and electrolyte loss requiring assessment**
 
-Ileostomy output water aur sodium contain kar sakta hai. High output se dehydration aur electrolyte imbalance ho sakti hai. Nurse output, vitals aur clinical status assess karti hai.
+Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly watery output se fluid aur sodium loss ho sakta hai. Dizziness, reduced urine aur low BP dehydration ke clues ho sakte hain. Nurse output, fluid balance, vitals aur ordered electrolyte/renal assessment review karke prompt clinical help leti hai. Fluid replacement plan individual condition ke mutabik hona chahiye.
 
-**Baaki options kyun sahi nahi hain?** Fluid loss real hai. High output alone overload prove nahi karta. Complete water restriction unsafe ho sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Ileostomy output mein fluid loss hota hai. Isko absent assume karna galat hai.
+- **B (Galat):** Sab fluids indefinitely rokne se dehydration worsen ho sakti hai. Specific fluid plan clinician decide karta hai.
+- **C (Sahi):** High watery output ke saath dizziness fluid aur electrolyte loss ka important concern hai.
+- **D (Galat):** Increased output alone fluid overload prove nahi karta. Volume depletion consider karni chahiye.
+
+**Exam clue:** High ileostomy output plus dizziness = fluid and electrolyte assessment.
+
+**Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3085,9 +3159,19 @@ Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nur
 
 **Correct: B. Oropharyngeal airway**
 
-Oropharyngeal airway gag reflex present hone par gagging, vomiting aur aspiration provoke kar sakti hai. Device selection consciousness aur airway assessment se decide hoti hai.
+Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wala adjunct hai. Intact gag reflex wale conscious patient mein OPA posterior throat ko stimulate karke gagging, vomiting aur aspiration ka risk la sakti hai. Device selection trained airway assessment, consciousness aur protective reflexes par depend karti hai.
 
-**Baaki options kyun sahi nahi hain?** Oxygen, positioning aur indicated suction appropriate ho sakte hain depending on clinical need.
+**Option-wise explanation:**
+- **A (Galat):** Visible secretions ki clinically indicated suction patient assessment aur appropriate technique ke saath possible hai.
+- **B (Sahi):** Intact gag reflex ke saath OPA generally inappropriate hai kyunki patient ise tolerate nahi kar sakta.
+- **C (Galat):** Suitable supplemental oxygen device nasal ya mouth passage mein rigid OPA insert kiye bina oxygenation support kar sakti hai.
+- **D (Galat):** Safe positioning airway patency maintain karne mein help kar sakti hai. Trauma restrictions consider karni chahiye.
+
+**Exam clue:** OPA usually for unresponsive patients without gag reflex.
+
+**Clinical references:** [Reference 1](https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control?qt=Airway) · [Reference 2](https://www.merckmanuals.com/professional/critical-care-medicine/how-to-do-basic-airway-procedures/how-to-insert-a-nasopharyngeal-airway?media=full)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
