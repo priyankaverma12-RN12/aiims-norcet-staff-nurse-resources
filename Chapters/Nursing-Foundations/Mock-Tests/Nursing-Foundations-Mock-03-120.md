@@ -136,7 +136,7 @@ Deeply embedded object wound ke andar injured tissue ya blood vessel ke against 
 
 ### Q5. Which practice prevents contamination during multidose vial access?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reenter with a used patient syringe
 - **B.** Leave a needle in the stopper permanently
@@ -168,7 +168,7 @@ Multidose vial manufacturer ki approval ke according repeated withdrawal ke liye
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q11](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q11](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q11-which-practice-prevents-contamination-during-multidose-vial-access)
 
 ### Q6. A patient has limited literacy and speaks a different language. Which education approach is best?
 
@@ -1324,7 +1324,7 @@ Assisted transfer required patient ko help request karne ka accessible method ch
 
 ### Q43. A patient with an indwelling catheter will be discharged with the device temporarily. Which skill should be confirmed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Keeping the bag above the bladder during sleep
 - **B.** Routine disconnection of the system several times daily
@@ -1351,7 +1351,7 @@ Indwelling catheter bladder se urine continuously drain karta hai. Home care mei
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q12](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q12](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q12-a-patient-with-an-indwelling-catheter-will-be-discharged-with-the-device-temporarily-which-skill-should-be-confirmed)
 
 ### Q44. An adult with severe choking becomes unresponsive. What is the appropriate transition?
 
@@ -2095,7 +2095,7 @@ Mobilization circulation, lung expansion aur muscle function support kar sakti h
 
 ### Q69. Which item is most relevant to a discharge plan for a patient at high risk of falls?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Home mobility support, medication review and individualized fall prevention teaching
 - **B.** The nurse's shift schedule
@@ -2122,11 +2122,11 @@ Fall risk ghar par bhi present ho sakta hai, especially weakness, balance proble
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q11](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q11](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q11-which-item-is-most-relevant-to-a-discharge-plan-for-a-patient-at-high-risk-of-falls)
 
 ### Q70. Which injection equipment practice is safe?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use a new sterile syringe and needle for each injection as indicated
 - **B.** Reuse a needle wiped with alcohol
@@ -2158,7 +2158,7 @@ Needle aur syringe skin barrier cross karte hain, isliye asepsis important hai. 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q10](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q10](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q10-which-injection-equipment-practice-is-safe)
 
 ### Q71. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
@@ -2558,7 +2558,7 @@ Restraint patient ki free movement restrict kar sakti hai aur skin injury, circu
 
 ### Q84. Which transfer action protects the continuity of care for a patient with an active IV infusion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Ask the patient to manage all pump alarms during transfer
 - **B.** Disconnect the infusion automatically without reviewing the treatment
@@ -2585,7 +2585,7 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q9](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q9](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q9-which-transfer-action-protects-the-continuity-of-care-for-a-patient-with-an-active-iv-infusion)
 
 ### Q85. After elastic bandaging, toes become pale, cool and numb. What is the priority?
 
@@ -2715,7 +2715,7 @@ Hall model body care, person as core aur disease treatment as cure ko connect ka
 
 ### Q89. Which practice is required for an insulin pen used in a hospital?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use another patient's pen if the insulin type matches
 - **B.** Share it after each needle change
@@ -2747,7 +2747,7 @@ Insulin pen mein reusable patient-specific cartridge ya reservoir hota hai. Inje
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q9](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q9](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q9-which-practice-is-required-for-an-insulin-pen-used-in-a-hospital)
 
 ### Q90. Which injection site is generally preferred for routine intramuscular vaccination in infants?
 
@@ -2839,7 +2839,7 @@ Sedation aur throat anesthesia protective reflexes impair kar sakti hain. Nurse 
 
 ### Q93. A patient chooses to leave before recommended treatment is complete. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Physically detain every competent patient by default
 - **B.** Assess capacity and immediate risk, inform the team, explain risks and document according to policy
@@ -2866,7 +2866,7 @@ Patient recommended care complete hone se pehle leave karna chahe toh decision-m
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q10](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q10](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q10-a-patient-chooses-to-leave-before-recommended-treatment-is-complete-what-should-the-nurse-do)
 
 ### Q94. A patient receiving ECG monitoring has a flat trace but is awake with a palpable regular pulse. What should the nurse do first?
 
@@ -3573,7 +3573,7 @@ Neuman model stressors aur protective lines ke through system stability samjhata
 
 ### Q117. An injectable solution contains unexpected visible particles. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Shake it until clear without checking
 - **B.** Withhold it and check product integrity with pharmacy
@@ -3603,7 +3603,7 @@ Unexpected visible particles injectable product mein formulation defect, incompa
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q12](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q12](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q12-an-injectable-solution-contains-unexpected-visible-particles-what-should-the-nurse-do)
 
 ### Q118. What is the main purpose of an incentive spirometer after selected surgeries?
 
