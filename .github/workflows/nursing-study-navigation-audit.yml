@@ -1,0 +1,45 @@
+name: Nursing Study navigation validation
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'Chapters/**/README.md'
+      - 'website/**'
+      - '.github/workflows/nursing-study-navigation-audit.yml'
+  push:
+    branches: [ux/readme-navigation-audit-20261127]
+permissions:
+  contents: read
+jobs:
+  navigation:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: JavaScript syntax and regression checks
+        run: |
+          node --check website/media.js
+          node website/media.test.cjs
+          node --check website/app.js
+          node --check website/quiz.js
+          node website/quiz.test.cjs
+      - name: Browser test dependencies
+        run: |
+          python -m pip install playwright==1.56.0
+          python -m playwright install --with-deps chromium
+      - name: Build source inventory and media cache
+        run: python website/build-site-data.py
+      - name: Test checked-out navigation at three widths
+        run: python website/navigation-smoke.py
+      - name: Full reader and quiz integration gate
+        run: python website/browser-smoke.py
+      - name: Upload source audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-source-audit
+          path: website/source-audit.json
+          if-no-files-found: ignore

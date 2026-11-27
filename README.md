@@ -1,191 +1,142 @@
-<div align="center">
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="-aiims-norcet--hp-staff-nurse--study-resources"></a>
+<a name="aiims-norcet--hp-staff-nurse--study-resources"></a>
+<a name="easy-hinglish-notes--english-mcqs--previous-year-questions--diagrams"></a>
 
-# 🩺 AIIMS NORCET & HP Staff Nurse — Study Resources
+# Nursing Study Hub
 
-### Easy Hinglish notes • English MCQs • Previous Year Questions • Diagrams
+AIIMS NORCET and India-wide Staff Nurse / Nursing Officer exam preparation.
 
-**NORCET 12 + HP Staff Nurse (HPRCA) preparation**
+**[Open the study website](https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/)** · [Full curriculum and coverage index](Chapters/NORCET-Full-Chapter-Index.md)
 
-**[🚀 Launch Nursing Study Hub](https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/)**
+Study concepts in simple Roman Hinglish, practise English MCQs, review answer explanations and explore source-linked previous-year questions.
 
-</div>
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="-hamara-complete-study-to-push-workflow"></a>
+<a name="hamara-complete-study-to-push-workflow"></a>
+<a name="-kaise-padhna-hai"></a>
+<a name="kaise-padhna-hai"></a>
 
-> Ye hamari step-by-step nursing preparation ka repo hai. **Study-ready material bhi publish kiya ja sakta hai jab learner explicitly poora syllabus taiyar karne ko bole.** Medical words English mein, explanation simple Hindi-English mein.
+## How to study
 
-## 📌 GitHub par notes kaise add karenge?
+1. Choose a chapter from the list below.
+2. Read its concepts and diagrams, then solve the topic-wise MCQs.
+3. Review the hidden answers and explanations before attempting a mock test.
+4. Use the previous-year question resources and revision notes to revisit weak topics.
 
-**Jab bhi hum bolen "push this to GitHub"**, ye rules follow honge: [Nursing Study Publisher SKILL.md](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md). Sirf padhe hue topics, detailed Hinglish Concepts, **unchanged English MCQs/options**, Easy/Medium/Difficult labels, detailed answers, sourced Previous Year Questions, useful YouTube videos aur diagrams add karenge.
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="-abhi-available-chapters"></a>
+<a name="abhi-available-chapters"></a>
+<a name="full-norcet-syllabus-expansion"></a>
 
+## Browse chapters
 
-**Extra revision rule:** Agar existing studied chapter mein important concepts/MCQs miss hue hon, toh usi chapter ke **Concepts/** ke andar **ek hi cumulative combined file** mein extra Concepts + 30+ unique English MCQs add karenge. Answers hidden dropdown mein, detailed Hinglish explanations aur diagrams ke saath. Repeated MCQs ya bekaar filler add nahi hoga. [Full skill](.github/skills/norcet-staff-nurse-github-publisher/SKILL.md).
+The 35 curriculum chapters below are grouped by subject. Chapter pages describe what is available and what remains in preparation.
 
-GitHub agent ke rules: [AGENTS.md](AGENTS.md) · [.github/copilot-instructions.md](.github/copilot-instructions.md).
+### Foundations and infection control
 
-## 🧭 Hamara complete study-to-push workflow
+- [Nursing Foundations](Chapters/Nursing-Foundations/README.md)
+- [Infection Control and Microbiology](Chapters/Infection-Control-and-Microbiology/README.md)
 
-Pehle topic ko detail mein padho → doubts clear karo → original English MCQs solve karo → **Push this to GitHub** bolo. Day 1/2 par baad mein wapas aaogi, toh **usi chapter aur existing Day wali files ko update** karenge. Missed points ke liye ek hi `Concepts/Extra-High-Yield-Concepts-and-MCQs.md` file (jab useful ho), aur exam-level Medium/Difficult questions. GK ya next chapter alag rahega, par tabhi active hoga jab padha hoga.
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="--respiratory-system-overview-kholo"></a>
+<a name="respiratory-system-overview-kholo"></a>
+<a name="-cardiovascular-system--day-4-started"></a>
+<a name="cardiovascular-system--day-4-started"></a>
+<a name="-endocrine-system--study-ready-notes"></a>
+<a name="endocrine-system--study-ready-notes"></a>
+<a name="nervous-system--study-ready-notes-and-120-mcqs"></a>
 
-## 📚 Abhi available chapters
+### Adult Medical-Surgical Nursing
 
-**[Day 4 — Last 7 extra high-yield topics: Flail chest to Mantoux](Chapters/Respiratory-System/README.md#day-4--last-7-extra-high-yield-topics-flail-chest-to-mantoux)**
+- [Respiratory System](Chapters/Respiratory-System/README.md)
+- [Cardiovascular System](Chapters/Cardiovascular-System/README.md)
+- [Endocrine System](Chapters/Endocrine-System/README.md)
+- [Neurological System](Chapters/Neurological-System/README.md)
+- [Renal and Urinary System](Chapters/Renal-and-Urinary-System/README.md)
+- [Gastrointestinal System](Chapters/Gastrointestinal-System/README.md)
+- [Liver, Biliary and Pancreatic Disorders](Chapters/Hepatobiliary-and-Pancreatic-System/README.md)
+- [Hematology and Blood Disorders](Chapters/Hematology-and-Blood-Disorders/README.md)
+- [Musculoskeletal System](Chapters/Musculoskeletal-System/README.md)
+- [Skin, Wounds and Burns](Chapters/Integumentary-System-and-Burns/README.md)
+- [Eye and ENT Nursing](Chapters/Eye-and-ENT-Nursing/README.md)
+- [Oncology and Palliative Care](Chapters/Oncology-and-Palliative-Care/README.md)
 
+### Acute care and special systems
 
+- [Emergency and Critical Care Nursing](Chapters/Emergency-and-Critical-Care-Nursing/README.md)
+- [Perioperative Nursing](Chapters/Perioperative-Nursing/README.md)
+- [Fluids, Electrolytes and Acid-Base](Chapters/Fluids-Electrolytes-and-Acid-Base/README.md)
+- [Immunology, Allergy and Rheumatology](Chapters/Immunology-Allergy-and-Rheumatology/README.md)
 
-| Chapter | Read | Practice | Previous Year Questions |
-|---|---|---|---|
-| **🫁 [Respiratory System](Chapters/Respiratory-System/README.md)** | [Day 1 full guide](Chapters/Respiratory-System/Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [Day 2 full guide](Chapters/Respiratory-System/Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 3 diseases](Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing care](Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [40 Day 1 MCQs](Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) · [51 Day 2 MCQs](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [HP scanned 2022 + NORCET memory-based](Chapters/Respiratory-System/Previous-Year-Questions/README.md) |
+### Communicable diseases
 
-### 🫁 [👉 Respiratory System overview kholo](Chapters/Respiratory-System/README.md)
+- [Communicable and Tropical Diseases](Chapters/Communicable-and-Tropical-Diseases/README.md)
 
-### ❤️ [Cardiovascular System — Day 4 started](Chapters/Cardiovascular-System/README.md)
+### Maternal and child health
 
-[Heart Anatomy, Pericardium and Cardiac Muscle concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [8 original English MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) · [40 additional topic-wise MCQs](Chapters/Cardiovascular-System/Concepts/Extra-High-Yield-Concepts-and-MCQs.md) · [Previous Year Questions evidence](Chapters/Cardiovascular-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Heart-Anatomy-Quick-Revision.md). Sirf actual studied anatomy content; practice in progress.
+- [Obstetric and Midwifery Nursing](Chapters/Obstetric-and-Midwifery-Nursing/README.md)
+- [Gynecological and Reproductive Nursing](Chapters/Gynecological-and-Reproductive-Nursing/README.md)
+- [Child Health and Pediatric Nursing](Chapters/Child-Health-Nursing/README.md)
+- [Neonatal and Newborn Nursing](Chapters/Neonatal-Nursing/README.md)
 
-**Topic 2 — Chambers, Valves, Septum and Great Vessels:** [Detailed concepts](Chapters/Cardiovascular-System/Concepts/Day-04-Chambers-Valves.md) · [50 topic-wise MCQs](Chapters/Cardiovascular-System/MCQs/Day-04-Chambers-Valves.md) · [30 mixed practice mock](Chapters/Cardiovascular-System/MCQs/Day-04-Cardio-Studied-Topics-Mixed-Mock-30.md) · [Quick revision](Chapters/Cardiovascular-System/Revision/Day-04-Chambers-Valves-Quick-Revision.md).
+### Community and mental health
 
-**Cardio total: 168 original practice questions** — 128 prior + 40 new clinical practice questions (unattempted). [Full cardiovascular master study guide](Chapters/Cardiovascular-System/Concepts/Cardiovascular-System-Master-Guide.md) — physiology, ECG, diseases, emergency care, pharmacology, diagrams and source-labeled exam research. New theory is study-ready, not marked completed.
+- [Community Health Nursing](Chapters/Community-Health-Nursing/README.md)
+- [Mental Health and Psychiatric Nursing](Chapters/Mental-Health-Nursing/README.md)
 
-### 🧠 [Endocrine System — Study-ready notes](Chapters/Endocrine-System/README.md)
+### Applied sciences and pharmacology
 
-[Endocrine Master Guide](Chapters/Endocrine-System/Concepts/Endocrine-System-Master-Guide.md) · [113 topic-wise MCQs](Chapters/Endocrine-System/MCQs/Endocrine-Topic-Wise.md) · [25 mock questions](Chapters/Endocrine-System/MCQs/Endocrine-Mixed-Mocks.md) · [Previous Year Questions evidence](Chapters/Endocrine-System/Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [Revision](Chapters/Endocrine-System/Revision/Endocrine-Quick-Revision.md). Study-ready, not marked studied; official PYQ authentication pending.
+- [Pharmacology](Chapters/Pharmacology/README.md)
+- [Nutrition and Dietetics](Chapters/Nutrition-and-Dietetics/README.md)
+- [Applied Anatomy and Physiology](Chapters/Anatomy-and-Physiology/README.md)
+- [Biochemistry and General Pathology](Chapters/Biochemistry-and-Pathology/README.md)
 
-## 🧭 Kaise padhna hai?
+### Professional subjects and aptitude
 
-1. **Concepts** se start karo — long notes mein diagrams, formulas aur Hinglish explanations hain.
-2. **MCQs** solve karo — pehle answer guess karo, phir **why correct / why other options wrong** expand karo.
-3. **Previous Year Questions** mein source-traced older HP paper aur clearly labeled NORCET memory-based questions dekho.
-4. **Revision** sheets aur final mock se apna recall check karo.
-
-## ✨ Humara minimal folder structure
-
-~~~text
-Chapters/
-└── Respiratory-System/
-    ├── README.md
-    ├── Concepts/        # 4 long concept guides
-    ├── MCQs/            # Day-wise original practice and mocks
-    ├── Previous-Year-Questions/            # Sourced historic paper / memory-based
-    ├── Revision/
-    ├── Assets/          # 19 original study SVG diagrams
-    └── References.md
-~~~
-
-**Future chapters:** Learner ne ab poora syllabus advance mein taiyar karne ko kaha hai. Starter-stage ko completed nahi kahenge.
-
-**Source honesty:** Original practice ko *actual official Previous Year Question* nahi bolenge. Scanned historic paper aur memory-based NORCET content mein clear difference rakhenge. Reference ranges clinical context aur altitude se vary hoti hain.
-
-[🔎 Medical fact-check sources](Chapters/Respiratory-System/References.md) · [📋 Notes add karne ke rules](CONTRIBUTING.md)
-
-
-## Day 4 — Pneumonia, TB and pleural disorders
-
-[Detailed Hinglish concepts and quick revision](Chapters/Respiratory-System/Concepts/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [45 original English MCQs (5 earlier attempted)](Chapters/Respiratory-System/MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md) · [Original schematic](Chapters/Respiratory-System/Assets/day-04-alveoli-pleura.svg)
-
-Asthma and COPD revision stays in Day 3. Day 4 includes high-yield extensions within the studied diseases; respiratory failure, ARDS and PE theory presented.
-
-## Day 2–3 — 170 new practice questions
-
-[Day 2 bank (51 total)](Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) · [Day 2 mock (25)](Chapters/Respiratory-System/MCQs/Day-02-Final-Mock-25.md) · [Day 3 diseases (55)](Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md) · [Day 3 nursing (45)](Chapters/Respiratory-System/MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [Day 3 mock (30)](Chapters/Respiratory-System/MCQs/Day-03-Final-Mock-30.md). All newly added questions are unattempted practice, not official papers.
-
-## Respiratory completion — 156 new MCQs
-
-[Complete topic-wise index](Chapters/Respiratory-System/README.md#day-4--completion-practice) · [50-question grand mock](Chapters/Respiratory-System/MCQs/Respiratory-System-Grand-Mock-50.md) · [Day 4 quick revision](Chapters/Respiratory-System/Revision/Day-04-Quick-Revision.md) · [Exam research](Chapters/Respiratory-System/Previous-Year-Questions/Day-04-Reported-Exam-Leads.md). All new questions are unattempted, original practice. Total respiratory bank: 422.
-
-**Endocrine resources:** [Exam-wise named Previous Year Questions](Chapters/Endocrine-System/Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) · [Topic-wise teaching and MCQ videos](Chapters/Endocrine-System/Endocrine-YouTube-Teaching-and-MCQ-Practice.md).
-
-
-## Learner's plain-language rule — 26 November 2026
-
-- Teach a beginner who has never heard the medical word before. Use everyday Roman Hindi with common English words. Explain the word immediately, then explain what happens in the body, why it happens, what the nurse sees and what the nurse does. For example: "Insulin ko ek chaabi samjho. Ye glucose ko blood se muscle aur fat cells ke andar jaane mein madad karta hai. Jab insulin kam ho ya kaam na kare, blood mein glucose badh jaata hai."
-- Use short complete sentences. One idea per sentence. Use simple headings, numbered steps, comparisons and practical examples. Avoid clipped textbook English, unexplained abbreviations and unnecessarily complex vocabulary. Keep necessary English medical terms for the exam.
-- Never type semicolon punctuation in learner-facing notes, answers, explanations, navigation or new question stems/options. Use a full stop or a new bullet instead. Do not damage existing exact English exam questions, URLs, code, HTML entities or SVG syntax. Preserve old question wording.
-- Group 3–4 related topics in descriptive concept filenames. README is a navigation and rules page, not the actual study bank. Keep actual MCQs and mocks in MCQs, exam-source questions in Previous-Year-Questions, and relevant video links in concept pages.
-- For requested extra practice, add 50+ per requested chapter when enough distinct learning points exist, mainly NORCET-level clinical and numerical Medium/Difficult questions, with a separate named mock. Do not inflate counts with duplicates. Four English options, hidden answers, everyday Hinglish reasoning for each distractor, and a useful exam clue. Mark unattempted. Original practice is not an official Previous Year Question.
-- When a learner requests full chapter preparation, clearly label it study-ready and not yet studied. Re-fetch the rules before future GitHub changes.
-
-
-## New NORCET clinical practice — 156 additional questions
-
-Har chapter mein 32 naye topic-wise questions aur 20-question mixed mock. Sabhi unattempted original practice hain. Medical words English mein, explanation simple daily-use Roman Hinglish mein.
-
-| Chapter | 32 topic-wise MCQs | 20-question mock |
-|---|---|---|
-| Respiratory | [Open questions](Chapters/Respiratory-System/MCQs/Respiratory-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Respiratory-System/MCQs/Respiratory-Clinical-Mock-20.md) |
-| Cardiovascular | [Open questions](Chapters/Cardiovascular-System/MCQs/Cardiovascular-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Cardiovascular-System/MCQs/Cardiovascular-Clinical-Mock-20.md) |
-| Endocrine | [Open questions](Chapters/Endocrine-System/MCQs/Endocrine-Advanced-Topic-Wise-32.md) | [Open mock](Chapters/Endocrine-System/MCQs/Endocrine-Clinical-Mock-20.md) |
-
-**Total: 96 topic-wise + 60 mock questions = 156 new original practice entries.** 83 Medium and 73 Difficult. Previous Year Questions remain separate.
-
-
-## Learner rule — complete sentences and conversational teaching
-
-- Write explanations the way a friendly nursing teacher would actually speak to the learner in a one-to-one conversation. Use natural, everyday Roman Hinglish with complete grammatical sentences, including the subject, verb and necessary connecting words. Do not write telegraphic notes, half sentences or strings of disconnected facts.
-- Explain every medical term in simple words when first introduced. Then connect the cause, what happens inside the body, the signs the patient develops, and what the nurse should do. Use words such as "kyunki", "isliye", "jab", "toh" and "iska matlab hai" naturally so the reasoning flows.
-- Use short, connected paragraphs by default for teaching. Bullets or numbered steps are allowed when they help organize information, but each explanatory bullet must still contain complete sentences. Tables, diagram labels, formulas, headings and very short revision mnemonics may remain compact. Never use those as a substitute for the full explanation.
-- Apply this style to all three existing systems, all future chapters, chat teaching, clinical examples, nursing management, MCQ answer rationales, wrong-option explanations and mock-test solutions. Keep English question stems and options intact. Retain detailed NORCET-level medical content, priority labels, diagrams, video links and source evidence. Do not simplify by removing important concepts.
-- Do not use semicolon punctuation in newly authored learner-facing prose. Use full stops and natural transitions instead. Preserve exact sourced question wording and technical syntax when required.
-- Before publishing, read the explanations as if speaking them aloud. If any sentence sounds unfinished, overly compressed or difficult for a beginner, rewrite it. A quick beginner introduction alone does not satisfy this rule. The detailed body of each explanation must also be conversational.
-
-**Example of what to avoid:** "Prolactin milk banata, oxytocin milk let-down. Dopamine normally prolactin inhibit karta hai."
-
-**Required style:** "Dekho, prolactin ek hormone hai jo delivery ke baad breast mein doodh banne mein madad karta hai. Jab baby doodh peeta hai, tab oxytocin hormone breast ki chhoti muscles ko contract karne ka signal deta hai. Isse bana hua doodh breast se bahar aata hai. Isi process ko milk let-down reflex kehte hain. Ab dopamine ka role samjho. Brain ka hypothalamus dopamine release karta hai, jo normally pituitary gland ko prolactin kam release karne ka signal deta hai. Jab baby breastfeed karta hai, tab dopamine ka ye rokne wala signal kam ho jaata hai. Is wajah se prolactin ka level badh sakta hai aur doodh banne mein madad milti hai. Exam ke liye yaad rakho ki prolactin doodh banane mein madad karta hai aur oxytocin doodh bahar nikalne mein madad karta hai."
-
-This rule strengthens all earlier plain-language and formatting rules. It does not replace them.
-
-
-## Full NORCET syllabus expansion
-
-[**Open all 35 study chapters**](Chapters/NORCET-Full-Chapter-Index.md) · [India-wide research sources](Chapters/NORCET-India-Wide-Research-Register.md)
-
-32 additional chapters contain 128 original starter questions and 14 source-linked reported exam adaptations. All new material is unattempted. Detailed topic banks and full mock series are still pending. Existing chapters remain intact.
-
-## Learner-approved full NORCET repository expansion
-
-The learner explicitly requests all curriculum chapters prepared in advance. This overrides the earlier studied-only restriction for this expansion. Mark prepared material as study-ready or starter-stage and never as already studied. Organize adult systems and nursing subjects using a curriculum map, not an invented official chapter count. Keep Concepts, MCQs, Mock-Tests and Previous-Year-Questions as sibling directories. Create descriptive named study files. For each actual topic aim for 10–30 or more distinct original exam-style questions, primarily Medium/Difficult, with four English options and full conversational Roman Hinglish explanations of correct and incorrect choices. No semicolons in new prose. For every chapter aim for 5–6 separate 120-question chapter-only mocks with no internal duplicates. The 120-question length is learner-defined practice, not the official NORCET pattern. Preserve older mocks. Research India-wide exams and record question-level source links and evidence status. List actual independently worded question practice with each reference, not just archive links. Never invent exact questions, official years or keys. Add checked teaching and question-solving video links. Verify every published file and report remaining work, not completion claims for an empty directory.
-
-
-## Chapter-only 120-question mocks — initial published sets
-
-[Respiratory: 3 tests](Chapters/Respiratory-System/Mock-Tests/Respiratory-System-Mock-Test-Plan.md) · [Cardiovascular: 1 test](Chapters/Cardiovascular-System/Mock-Tests/Cardiovascular-System-Mock-Test-Plan.md) · [Endocrine: 1 test](Chapters/Endocrine-System/Mock-Tests/Endocrine-System-Mock-Test-Plan.md).
-
-600 question slots selected from prior original question banks. These are not 600 new questions. Full 5–6 mock series for all 35 chapters is pending. [Live repository coverage index](Chapters/NORCET-Full-Chapter-Index.md).
-
-
-**Additional paper research:** 19 more source-linked adapted questions, bringing this expansion to 33. [Chapter-specific links](Chapters/NORCET-Full-Chapter-Index.md#additional-india-wide-paper-research).
-
-
-[Neurological mock 01: 120 questions](Chapters/Neurological-System/Mock-Tests/Neurological-System-Mock-01-120.md). New clinical question banks total 120. That update brought the full-length mock count to six.
-
-
-**Historical mock progress: 7/175 across 4/35 chapters.** [Current status and direct mock links](Chapters/NORCET-Full-Chapter-Index.md#current-mock-progress--26-november-2026). This update adds 176 newly authored practice questions. 168 full-length mocks remained pending at that update.
-
-
-### [Nervous System — Study-ready notes and 120 MCQs](Chapters/Nervous-System/README.md)
-
-[Concepts and topic plan](Chapters/Nervous-System/README.md) · [Previous Year Questions](Chapters/Nervous-System/Previous-Year-Questions/README.md) · [Quick revision](Chapters/Nervous-System/Revision/Nervous-System-Quick-Revision.md).
-
-**Nervous System practice:** [120 original topic-wise questions across 8 groups](Chapters/Nervous-System/README.md) · [120-question compiled mock](Chapters/Nervous-System/Mock-Tests/Nervous-System-Mock-01-120.md). Full mock expansion pending.
-
-
-## Learner rule — topic-first chapter-by-chapter preparation
-
-Start with Applied Anatomy and Physiology and proceed chapter by chapter. Do not scatter small starter sets across unrelated chapters in place of completing a chapter. Map the complete nursing-level syllabus using INC curriculum and staff nurse exam scope. Publish 20–30 or more distinct original English MCQs for every meaningful topic before assembling its five to six 120-question chapter-only mocks. Include Medium and Difficult clinical/application questions and relevant factual questions. Use complete everyday Roman Hinglish answer reasoning and explanations of incorrect options, with no semicolon punctuation. Use descriptive filenames. Keep mock stems distinct between the chapter's five tests where feasible and label topic-bank revision reuse rather than double-counting it. Research question-level NORCET, PGIMER, AIIMS, HPRCA/HPSSC, ESIC, RRB, DSSSB, SGPGI and other Indian staff nurse/CHO papers and coaching/video sources. List questions with answers and references, not just links. Distinguish official evidence, third-party transcripts and recall leads. Report incomplete authentication and theory honestly. Verify published counts before moving to another chapter.
-
-
-## Applied Anatomy and Physiology — topic-first milestone
-
-[600 original MCQs in 30 topic files](Chapters/Anatomy-and-Physiology/MCQs/Anatomy-and-Physiology-Topic-Wise-MCQ-Index.md) · [Five 120-question mocks](Chapters/Anatomy-and-Physiology/Mock-Tests/Anatomy-and-Physiology-Mock-Test-Plan.md) · [40 source-linked reported PYQ entries](Chapters/Anatomy-and-Physiology/Previous-Year-Questions/Anatomy-and-Physiology-Previous-Year-Questions-Index.md).
-
-Historical overall mock progress at the anatomy milestone: 12/175 across 5/35 chapters. Full detailed theory notes and exhaustive official PYQ authentication are not complete.
-
-
-## Nursing Foundations — topic-first milestone
-
-[600 topic-wise questions](Chapters/Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) · [Five 120-question mocks](Chapters/Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) · [34 source-linked PYQ adaptations](Chapters/Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) · [11 videos](Chapters/Nursing-Foundations/Concepts/Nursing-Foundations-Video-and-Research-Guide.md).
-
-Historical five-mock milestone: **17/175 across 6/35 chapters**. Revised target: **17/350**, with 333 remaining and no chapter yet confirmed to meet ten mocks. Topic banks and mocks reuse the same original stems for revision. Full theory notes and official PYQ key authentication remain incomplete. Next chapter: Infection Control and Microbiology.
-
-
-## Updated learner target — 27 November 2026
-
-This supersedes earlier numerical targets. For every curriculum chapter, publish 30–40 distinct original MCQs per meaningful topic, targeting 40 where possible, before building ten chapter-only mocks of 120 questions each. Aim for 1,200 distinct mock stems per chapter. If topic banks contain fewer than 1,200, author and validate additional chapter-specific questions rather than silently repeating stems or padding with trivial variants. Keep earlier questions and mocks and audit them for quality and coverage. Use plausible distractors, realistic NORCET-style clinical reasoning and medium/difficult questions, plus relevant Indian staff nurse factual concepts. Difficulty and priority are editorial labels. English stems and options, complete natural Roman Hinglish explanations of correct and incorrect options, no semicolon punctuation in newly authored study prose. Deeply research INC curriculum, current clinical guidelines, NORCET, AIIMS, PGIMER, SGPGI, JIPMER, ESIC, RRB, DSSSB, HPSSC/HPRCA, state nursing and CHO exams, coaching and YouTube. List individual source-linked PYQ practice questions with four options and detailed rationales, exam/year/shift where evidenced, and evidence status. Use exact wording only when lawful and supported by the source. Label adaptations, recall and provisional leads honestly. Keep Concepts, MCQs, Mock-Tests and Previous-Year-Questions separate with descriptive filenames. Include detailed plain-language concepts, relevant diagrams and checked video resources. Resume from verified repository progress on every continuation. Commit manageable validated batches to main without force, read back the files, update chapter and global progress, and record the next unfinished task. Do not count incomplete files or claim that exhaustive historical official papers were authenticated. Continue chapter by chapter until all tracked chapters satisfy the achievable targets and document any remaining evidence gaps.
+- [Psychology and Sociology](Chapters/Psychology-and-Sociology/README.md)
+- [Nursing Research and Statistics](Chapters/Nursing-Research-and-Statistics/README.md)
+- [Nursing Management and Education](Chapters/Nursing-Management-and-Education/README.md)
+- [Professional Ethics, Law and Nursing Informatics](Chapters/Professional-Ethics-Law-and-Informatics/README.md)
+- [Geriatric Nursing](Chapters/Geriatric-Nursing/README.md)
+- [General Knowledge and Aptitude](Chapters/General-Knowledge-and-Aptitude/README.md)
+
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="new-norcet-clinical-practice--156-additional-questions"></a>
+
+### Additional preserved study package
+
+- [Nervous System — existing study package](Chapters/Nervous-System/README.md) — retained separately from the 35-chapter curriculum map.
+
+## Exam practice and source evidence
+
+- Original MCQs are practice material, not official previous-year questions.
+- Reported questions, recall-based items and adaptations must be distinguished from authenticated official questions.
+- The custom chapter mock target is ten independent 120-question tests per chapter. Older compiled revision mocks remain available and are not counted as newly authored questions.
+- [India-wide exam research register](Chapters/NORCET-India-Wide-Research-Register.md)
+
+<!-- Compatibility anchors for the historical homepage. -->
+<a name="-github-par-notes-kaise-add-karenge"></a>
+<a name="github-par-notes-kaise-add-karenge"></a>
+<a name="-humara-minimal-folder-structure"></a>
+<a name="humara-minimal-folder-structure"></a>
+<a name="day-4--pneumonia-tb-and-pleural-disorders"></a>
+<a name="day-23--170-new-practice-questions"></a>
+<a name="respiratory-completion--156-new-mcqs"></a>
+<a name="learners-plain-language-rule--26-november-2026"></a>
+<a name="learner-rule--complete-sentences-and-conversational-teaching"></a>
+<a name="learner-approved-full-norcet-repository-expansion"></a>
+<a name="chapter-only-120-question-mocks--initial-published-sets"></a>
+<a name="learner-rule--topic-first-chapter-by-chapter-preparation"></a>
+<a name="applied-anatomy-and-physiology--topic-first-milestone"></a>
+<a name="nursing-foundations--topic-first-milestone"></a>
+<a name="updated-learner-target--27-november-2026"></a>
+
+## Repository information
+
+- [Contributing and publishing guidance](CONTRIBUTING.md)
+- [Current publishing rules](SKILL.md)
+- [Repository instructions](AGENTS.md)
+- [Historical homepage and progress announcements](README-History.md)
+
+Study-ready resources do not imply that a chapter has been completed or fully independently audited.

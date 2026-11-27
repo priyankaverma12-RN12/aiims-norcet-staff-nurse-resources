@@ -74,4 +74,11 @@ function decorateDiagrams(target,p){
   if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){observer.disconnect();schedule()}},{rootMargin:'250px'});observer.observe(figure)}else schedule();
  }
 }
-if(typeof module!=='undefined')module.exports={resolveResource,encodeRepoPath,diagramSource};
+function findStudyFragment(root,hash){
+ if(typeof hash!=='string'||!hash.startsWith('#')||hash.length<2)return null;
+ let key;try{key=decodeURIComponent(hash.slice(1))}catch{return null}
+ // Prefer exact heading IDs, then legacy Markdown anchors. Never resolve outside the document.
+ const byId=Array.from(root.querySelectorAll('[id]')).find(el=>el.id===key);
+ return byId||Array.from(root.querySelectorAll('a[name]')).find(el=>el.getAttribute('name')===key)||null;
+}
+if(typeof module!=='undefined')module.exports={resolveResource,encodeRepoPath,diagramSource,findStudyFragment};
