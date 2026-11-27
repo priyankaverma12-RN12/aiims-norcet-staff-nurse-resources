@@ -1,5 +1,5 @@
 """Build a deployment snapshot of public image assets and audit local Markdown references."""
-import json, re, shutil, posixpath, collections
+import json, re, shutil, posixpath, collections, tempfile
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from xml.etree import ElementTree as ET
@@ -33,7 +33,7 @@ def local_target(raw,doc):
     if u.scheme: return None
     if path.lstrip("/").startswith(("Chapters/","Assets/")): return posixpath.normpath(path.lstrip("/"))
     return posixpath.normpath(posixpath.join(posixpath.dirname(doc),path))
-missing=[];invalid_svg=[];chart_count=0;image_refs=0;link_refs=0;md_count=0;chart_samples=[]
+missing=[];invalid_svg=[];chart_count=0;image_refs=0;link_refs=0;md_count=0;chart_samples=[];charts=[]
 for name,p in sorted(files.items()):
     if p.suffix.lower()==".svg":
         try: ET.parse(p)
@@ -42,6 +42,7 @@ for name,p in sorted(files.items()):
     md_count+=1;s=p.read_text(encoding="utf-8",errors="replace")
     for m in re.finditer(r"(?m)^ *\x60\x60\x60mermaid[^\n]*\n([\s\S]*?)^ *\x60\x60\x60",s):
         chart_count+=1
+        charts.append({"document":name,"source":m.group(1)})
         if len(chart_samples)<6: chart_samples.append(name)
     # Inline Markdown and HTML attributes; external sites and fragment anchors are not certified by this scan.
     refs=[(m.group(1)=="!",m.group(2)) for m in re.finditer(r"(!?)\[[^\]\n]*\]\(\s*(<[^>\n]+>|[^\s)\n]+)",s)]
@@ -54,9 +55,10 @@ for name,p in sorted(files.items()):
         if dest is None:continue
         if dest not in files and dest not in directories and not (root/dest).is_file() and not (root/dest).is_dir():
             missing.append({"document":name,"reference":ref,"target":dest,"type":"image" if image else "link"})
-catalog={"directories":{k:list(v.values()) for k,v in directories.items()},"asset_count":len(assets)}
+catalog={"directories":{k:list(v.values()) for k,v in directories.items()},"asset_count":len(assets),"assets":assets}
 (site/"site-catalog.json").write_text(json.dumps(catalog,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
 report={"markdown_documents":md_count,"assets_copied":len(assets),"image_references":image_refs,"link_references":link_refs,"mermaid_blocks":chart_count,"missing_references":missing,"invalid_svg":invalid_svg,"mermaid_examples":chart_samples}
 (site/"source-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
+(Path(tempfile.gettempdir())/"nursing-mermaid-audit.json").write_text(json.dumps(charts,ensure_ascii=False),encoding="utf-8")
 print("SITE AUDIT:",json.dumps({k:v for k,v in report.items() if k not in ("missing_references","invalid_svg","mermaid_examples")}),"missing references:",len(missing),"invalid SVG:",len(invalid_svg),flush=True)
 for item in (missing+invalid_svg)[:30]:print("SOURCE ISSUE:",json.dumps(item,ensure_ascii=False),flush=True)

@@ -58,7 +58,7 @@ function diagramSource(text){
 function decorateDiagrams(target,p){
  for(const code of target.querySelectorAll('pre > code.language-mermaid')){
   const pre=code.parentElement,source=code.textContent,figure=document.createElement('figure');figure.className='flowchart-card';figure.dataset.diagramState='waiting';
-  const title=document.createElement('figcaption');title.textContent='Interactive flowchart';const view=document.createElement('div');view.className='flowchart-view';view.textContent='Preparing diagram…';
+  const title=document.createElement('figcaption');title.textContent='Study flowchart';const view=document.createElement('div');view.className='flowchart-view';view.textContent='Preparing diagram…';
   const detail=document.createElement('details'),summary=document.createElement('summary');summary.textContent='View original flowchart code';detail.append(summary);pre.before(figure);detail.append(pre);figure.append(title,view,detail);
   function schedule(){if(figure.dataset.diagramState!=='waiting')return;figure.dataset.diagramState='loading';
    diagramQueue=diagramQueue.catch(()=>{}).then(async()=>{
