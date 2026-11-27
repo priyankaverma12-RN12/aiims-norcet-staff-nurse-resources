@@ -118,8 +118,6 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 **Clinical reference:** [NICE NG41 spinal injury](https://www.nice.org.uk/guidance/ng41/chapter/Recommendations)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -178,8 +176,6 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -209,8 +205,6 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -239,8 +233,6 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 **Exam clue:** Weak left leg → cane usually right hand.
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **▶️ [YouTube MCQ practice — cane ambulation, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=4178s)** · Published question chapter 1:09:38, 24 November 2024. Topic-level only, exact item and playback pending.
 
@@ -273,8 +265,6 @@ Axillary crutch par body weight handgrips se transfer hona chahiye. Axilla mein 
 
 **Historical evidence:** [NORCET 20 November 2021 Shift II memory-based related crutch-fit question](https://testbook.com/question-answer/appropriate-position-for-crutches-from-axilla--65f844165b486df88a5ab8ad). Related fit concept, not this exact stem or authenticated official key.
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **▶️ [YouTube MCQ practice — crutches and cane, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=2025s)** · Published question chapter 33:45, 24 November 2024. Topic-level only, exact nerve-injury item and playback pending.
 
 </details>
@@ -303,8 +293,6 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 **Exam clue:** Weight-bearing order pehle, gait pattern baad mein.
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **YouTube MCQ practice: specific verification pending.**
 
@@ -335,8 +323,6 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -365,8 +351,6 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 **Exam clue:** New painful swollen calf = stop manipulation, assess urgently.
 
 **Clinical reference:** [NICE NG158 VTE](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **YouTube MCQ practice: specific verification pending.**
 
@@ -397,8 +381,6 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -427,8 +409,6 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 **Exam clue:** Hemiplegic shoulder = support, never pull on affected arm.
 
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **YouTube MCQ practice: specific verification pending.**
 
@@ -459,8 +439,6 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -489,8 +467,6 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 **Exam clue:** Dizzy during ambulation = stop, support, assess.
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **YouTube MCQ practice: specific verification pending.**
 
@@ -579,8 +555,6 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [International pressure injury guideline](https://www.internationalguideline.com/repositioning)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
-
 **YouTube MCQ practice: specific verification pending.**
 
 </details>
@@ -609,8 +583,6 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 **Exam clue:** Specific prescribed hip limit > generic rules.
 
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
-
-**Dedicated MCQ video:** specific verified question mapping pending.
 
 **YouTube MCQ practice: specific verification pending.**
 
