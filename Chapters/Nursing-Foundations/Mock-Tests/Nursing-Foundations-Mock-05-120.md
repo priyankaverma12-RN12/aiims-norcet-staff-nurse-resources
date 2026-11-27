@@ -572,7 +572,7 @@ Clear communication uncertainty kam karne mein help karti hai. Patient consent a
 
 ### Q24. An open wound is allowed to fill with granulation tissue and contract without immediate edge approximation. Which healing type is this?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Immediate surgical closure
 - **B.** Secondary intention
@@ -599,7 +599,7 @@ Secondary intention mein wound edges immediately close nahi ki jaati. Wound dept
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q17](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q17](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q17-an-open-wound-is-allowed-to-fill-with-granulation-tissue-and-contract-without-immediate-edge-approximation-which-healing-type-is-this)
 
 ### Q25. Which principle is central to a just culture in patient safety?
 
@@ -697,7 +697,7 @@ Adult pinna ko gently up-back move karne se canal straighten ho sakti hai. Young
 
 ### Q28. Which intervention supports oral health in a patient who is not eating by mouth?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use oral care as a replacement for prescribed nutrition
 - **B.** Provide regular individualized oral care despite the NPO order
@@ -724,7 +724,7 @@ NPO ka matlab nil per os yani mouth se food, drink ya medicines restricted as or
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q17](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q17](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q17-which-intervention-supports-oral-health-in-a-patient-who-is-not-eating-by-mouth)
 
 ### Q29. An infusion calculation yields a result ten times greater than the expected rate. What should the nurse do before programming the pump?
 
@@ -804,7 +804,7 @@ Routine care trained assistant ko delegate ho sakti hai if patient condition sta
 
 ### Q32. A patient has a new prescription for nutritional supplementation but reports a severe allergy to an ingredient. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give a small trial dose without authorization
 - **B.** Remove the allergy alert because it is food-related
@@ -831,7 +831,7 @@ Food allergy mein immune system specific ingredient ko harmful samajhkar reactio
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q20](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q20](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q20-a-patient-has-a-new-prescription-for-nutritional-supplementation-but-reports-a-severe-allergy-to-an-ingredient-what-should-the-nurse-do)
 
 ### Q33. A patient has BP 118/72 mmHg. What is the pulse pressure?
 
@@ -903,7 +903,7 @@ Advocacy mein nurse patient ki needs, rights aur preferences treatment team tak 
 
 ### Q35. Why does excess wound exudate increase the risk of periwound maceration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Exudate permanently strengthens the epidermal barrier
 - **B.** Moisture prevents any tissue damage
@@ -930,7 +930,7 @@ Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q18](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q18](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q18-why-does-excess-wound-exudate-increase-the-risk-of-periwound-maceration)
 
 ### Q36. What should an injection administration record include?
 
@@ -1243,7 +1243,7 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 ### Q47. Which documentation best enables comparison of wound progression over time?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Dressing brand without wound findings
 - **B.** Only the phrase wound looks better
@@ -1270,7 +1270,7 @@ Wound progression ko compare karne ke liye same standardized measurement techniq
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q19](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q19](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q19-which-documentation-best-enables-comparison-of-wound-progression-over-time)
 
 ### Q48. Which action best maintains dignity during a complete bed bath?
 
@@ -1557,7 +1557,7 @@ Gentle relaxation aur supportive conversation tension reduce karne mein help kar
 
 ### Q59. A dry stable heel eschar has no redness, drainage or fluctuation in a patient with poor limb perfusion. What is the safest nursing approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Classify it as stage 2 and massage it
 - **B.** Soak it continuously to soften it without an assessment
@@ -1584,7 +1584,7 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q20](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q20](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q20-a-dry-stable-heel-eschar-has-no-redness-drainage-or-fluctuation-in-a-patient-with-poor-limb-perfusion-what-is-the-safest-nursing-approach)
 
 ### Q60. A nurse feels emotionally overwhelmed after repeated patient deaths. Which professional response is appropriate?
 
@@ -1882,7 +1882,7 @@ Food intake kuch test values influence kar sakta hai. Actual fasting status resu
 
 ### Q71. Which action is appropriate when a patient has a prescribed fluid restriction and receives enteral tube flushes?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Count flush water and other measurable fluids toward the ordered allowance
 - **B.** Stop essential flushes without obtaining a plan
@@ -1909,7 +1909,7 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q18](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q18](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q18-which-action-is-appropriate-when-a-patient-has-a-prescribed-fluid-restriction-and-receives-enteral-tube-flushes)
 
 ### Q72. A nurse is assigned a procedure outside their competence. What is the appropriate professional action?
 
@@ -2784,7 +2784,7 @@ Transfer par previous setting current order se mismatch ho sakti hai. Patient co
 
 ### Q104. Which observation is particularly important when assessing tolerance of enteral feeding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Nausea, abdominal discomfort or distension, stool pattern and respiratory symptoms
 - **B.** Only whether the feeding bag is transparent
@@ -2811,7 +2811,7 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q19](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q19](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q19-which-observation-is-particularly-important-when-assessing-tolerance-of-enteral-feeding)
 
 ### Q105. Which intervention helps maintain joint alignment in a patient unable to reposition independently?
 
