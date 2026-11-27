@@ -68,15 +68,21 @@ try:
                 visit(page, target, "#" + fragment)
                 anchor = page.locator(f'#content a[name="{fragment}"]')
                 expect(anchor).to_have_count(1)
-                assert page.evaluate("""({fragment, heading}) => {
+                expected = page.locator("#content h2").filter(has_text=heading).first
+                expect(expected).to_be_in_viewport(timeout=10000)
+                outcome = page.evaluate("""({fragment, heading}) => {
                     const content = document.querySelector('#content');
                     const anchor = findStudyFragment(content, '#' + fragment);
-                    const following = anchor?.nextElementSibling;
-                    return Boolean(anchor && following &&
-                        following.textContent.includes(heading) &&
-                        anchor.getBoundingClientRect().top >= -5 &&
-                        anchor.getBoundingClientRect().top <= innerHeight);
-                }""", {"fragment": fragment, "heading": heading}), target
+                    const target = studyFragmentTarget(content, '#' + fragment);
+                    const rect = target?.getBoundingClientRect();
+                    return {anchorFound: !!anchor, targetTag: target?.tagName,
+                            targetText: target?.textContent, top: rect?.top,
+                            bottom: rect?.bottom, viewport: innerHeight,
+                            correct: Boolean(anchor && target && /^H[1-6]$/.test(target.tagName) &&
+                                target.textContent.includes(heading) && rect.top >= -5 &&
+                                rect.bottom <= innerHeight + 2)};
+                }""", {"fragment": fragment, "heading": heading})
+                assert outcome["correct"], (target, outcome)
             print(f"Actual historical deep links verified at {width}x{height}.", flush=True)
             # Exercise the actual DOM fragment resolver with named and normal anchors.
             assert page.evaluate("""() => {
