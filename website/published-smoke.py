@@ -20,7 +20,7 @@ for c in expected["chapters"]:
 
 with sync_playwright() as p:
     api=p.request.new_context(timeout=30000)
-    for filename,wanted in [("study-metrics.json",expected),("source-audit.json",audit)]:
+    for filename,wanted in [("study-metrics.json",expected),("source-audit.json",audit),("title-audit.json",json.loads((site/"title-audit.json").read_text(encoding="utf-8")))]:
         for attempt in range(8):
             try:
                 response=api.get(urljoin(base,filename)+"?build="+commit,headers={"Cache-Control":"no-cache"})
@@ -84,6 +84,7 @@ with sync_playwright() as p:
         expect(page.locator(".learn-feedback")).to_contain_text("Nice work")
         assert page.locator(".learn-feedback").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         expect(page.locator(".original-explanation")).to_be_visible()
+        assert page.locator(".explanation-body").text_content().strip()==page.evaluate("""async()=>{const q=parseBank(await read(new URLSearchParams(location.search).get('doc'))).items[0];const h=document.createElement('div');h.innerHTML=DOMPurify.sanitize(marked.parse(q.explanation,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return h.textContent.trim()}""")
         fit()
         print(f"Published V7 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)
         ctx.close()
