@@ -37,7 +37,7 @@ Source page lines 31–47 showed DSSSB Nursing Officer paper attribution, date, 
 
 ## Evidence gaps and practice
 
-- ⚪ [RRB Nursing Superintendent 12 March 2026 Shift 1 RCA lead](https://testbook.com/question-answer/during-a-ward-audit-it-is-found-that-medication-e--69df43722711ff51ba599226), search-indexed question and reported key, direct and AMP retrieval failed. Not counted.
+- **[🟣 RRB Nursing Superintendent — 12 March 2026, Shift 1 (related tested concept)](https://testbook.com/question-answer/during-a-ward-audit-it-is-found-that-medication-e--69df43722711ff51ba599226)** · Third-party question and reported key (source option 3, structured root cause analysis with nursing staff) directly retrieved on 27 November 2026. Earlier retrieval failure resolved. Related to existing Group 04 Q6 and 04D investigation concepts. Official booklet and key not authenticated. Not a new adaptation or count.
 - ⚪ [SGPGI incident report lead](https://testbook.com/question-answer/a-nurse-taking-rounds-during-her-evening-shi--685ba186246bcec980f23913/amp), direct and AMP retrieval failed, exam date and options not confirmed. Not counted.
 - [Hospital Quality Insights teaching](https://www.youtube.com/watch?v=9q-XjOLD9sM), topic-level lecture Q1, not MCQ-solving evidence. Dedicated question-solving video missing for Q1, no exact match or timestamp.
 - [Written practice](https://testustad.com/subjects/nursing-management-and-ethics/quality-and-patient-safety) is supplementary only, not historical evidence. Other recruitment sources and official-key matching remain pending.
