@@ -19,9 +19,22 @@
 
 **Correct: A. Amount, color, character and time for each drain**
 
-Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Accurate measurement aur identification important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Brand aur admission date actual output nahi batate. Combined output source-specific changes hide kar sakta hai.
+Drain output ka individual record recovery aur bleeding ke changes track karta hai. Har drain ka amount mL mein, color, character aur time separately record karo. Sudden fresh blood, purulent drainage ya cessation ko patient assessment ke context mein review karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Separate volume, color, character aur time useful trend dete hain.
+- **B (Galat):** Combined amount source-specific change hide kar sakta hai.
+- **C (Galat):** Admission date current drainage establish nahi karti.
+- **D (Galat):** Brand clinical output nahi batata.
+
+**Exam clue:** Measure every drain separately.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -212,9 +225,24 @@ Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti h
 
 **Correct: B. Figure-of-eight turn**
 
-Figure-of-eight turns joint ke above aur below cross karke support provide kar sakti hain. Distal perfusion reassess karni hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Recurrent aur spiral techniques different regions mein useful hoti hain. Tight knot pressure injury cause kar sakti hai.
+Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya knee ke contour ko cover karne aur support dene ke liye commonly taught technique hai. Tension aur distal circulation, sensation, movement reassess karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Recurrent turn rounded body ends ke liye commonly use hoti hai.
+- **B (Sahi):** Figure-of-eight joint support ka conventional turn hai.
+- **C (Galat):** Spiral reverse tapered limb regions mein useful ho sakti hai, har joint mein exclusive nahi.
+- **D (Galat):** Tight knot focal pressure aur perfusion compromise kar sakta hai.
+
+**Exam clue:** Joint bandage: figure-of-eight.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Related historical evidence:** [🟣 UPSSSC Health Worker (Female), 8 May 2022 — related tested concept](https://testbook.com/question-answer/ques--62823d89bc95727498cec40b). Third-party question and reported key retrieved. Official paper/key not authenticated. Original practice, not exact PYQ.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -917,9 +945,22 @@ IPC sleeves intermittent pressure se venous flow support karti hain. Nurse corre
 
 **Correct: D. Assess for obstruction or retained fluid and escalate**
 
-No output with swelling obstruction ya fluid collection suggest kar sakta hai. Nurse site aur tubing assess karke surgical team ko inform karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Forceful stripping device-tissue damage kar sakti hai. No output recovery prove nahi karta. Removal authorized honi chahiye.
+Drainage ka stop hona alone healing prove nahi karta. Swelling aur pain ke saath obstruction, kink ya retained fluid suspect karo. Patient, surgical site aur system assess karke promptly surgical team ko inform karo. Bina authorized instructions forceful manipulation ya removal mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Forceful stripping tissue trauma aur excessive negative pressure cause kar sakti hai.
+- **B (Galat):** Unauthorized removal retained fluid aur injury risk badhati hai.
+- **C (Galat):** No output alone recovery prove nahi karta.
+- **D (Sahi):** Assessment aur escalation possible obstruction address karte hain.
+
+**Exam clue:** No output plus swelling: assess and escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -2557,9 +2598,22 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 **Correct: A. Assess distal neurovascular status and relieve inappropriate compression according to protocol**
 
-Pale cool toes aur numbness blood flow ya nerve compression indicate kar sakte hain. Nurse immediate assessment aur corrective action leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Tightening, delay aur blind massage injury worsen kar sakte hain.
+Pale cool numb toes bandage ke baad arterial supply ya nerve compression ke warning signs hain. Distal pulse, color, temperature, capillary refill, sensation, movement aur pain assess karo. Inappropriate compression promptly relieve karo aur urgent review lo, especially persistent symptoms mein.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Immediate assessment aur compression relief threatened circulation protect karte hain.
+- **B (Galat):** Aggressive massage ischemia correct nahi karti aur injury badha sakti hai.
+- **C (Galat):** Next shift tak waiting tissue damage ka risk badhati hai.
+- **D (Galat):** Tightening perfusion aur nerve function further compromise kar sakti hai.
+
+**Exam clue:** New neurovascular signs need urgent action.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
