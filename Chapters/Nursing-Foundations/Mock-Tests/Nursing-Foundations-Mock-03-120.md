@@ -263,7 +263,7 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 ### Q9. Which blood component primarily increases oxygen-carrying capacity in an anemic patient when transfusion is indicated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Platelet concentrate
 - **B.** Cryoprecipitate
@@ -295,7 +295,7 @@ Red blood cells mein hemoglobin hota hai jo lungs se oxygen tissues tak carry ka
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q9](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q9](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q9-which-blood-component-primarily-increases-oxygen-carrying-capacity-in-an-anemic-patient-when-transfusion-is-indicated)
 
 ### Q10. A patient using crutches is permitted partial weight bearing. What determines the appropriate gait pattern?
 
@@ -1153,7 +1153,7 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 ### Q36. Which blood component contains concentrated fibrinogen and selected clotting proteins?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cryoprecipitate
 - **B.** Crystalloid
@@ -1181,11 +1181,11 @@ Cryoprecipitate plasma ka cold-insoluble fraction hai. Isme concentrated fibrino
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — cryoprecipitate, Nursing Wallah by PW (10:14)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=614s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q12](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q12](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q12-which-blood-component-contains-concentrated-fibrinogen-and-selected-clotting-proteins)
 
 ### Q37. A patient at high pressure injury risk is on a pressure-redistributing mattress. Which plan remains appropriate?
 
@@ -1615,7 +1615,7 @@ Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi a
 
 ### Q50. A patient with a clinically indicated multiple clotting factor deficiency receives plasma. Which purpose is relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Replace all electrolytes without volume
 - **B.** Provide soluble coagulation factors
@@ -1647,7 +1647,7 @@ Coagulation factors blood proteins hain jo clot ko stable banane ke liye cascade
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q11](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q11](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q11-a-patient-with-a-clinically-indicated-multiple-clotting-factor-deficiency-receives-plasma-which-purpose-is-relevant)
 
 ### Q51. During manual disimpaction under an authorized plan, a patient becomes dizzy and bradycardic. What should the nurse suspect and do?
 
@@ -1810,7 +1810,7 @@ Subjective data patient ka personal experience hai, jaise pain rating. Objective
 
 ### Q56. A febrile patient is sweating heavily as the temperature begins falling. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore fluid loss entirely
 - **B.** Assess hydration and comfort, replace fluids as appropriate and monitor temperature trend
@@ -1840,7 +1840,7 @@ Fever ka set point lower hone par body excess heat lose karne ke liye sweating a
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q12](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q12](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q12-a-febrile-patient-is-sweating-heavily-as-the-temperature-begins-falling-which-response-is-appropriate)
 
 ### Q57. A postoperative patient cannot cough effectively because of incisional pain. Which approach may support airway clearance?
 
@@ -2085,7 +2085,7 @@ Competent patient information sharing preferences express kar sakta hai. Nurse c
 
 ### Q65. Which mechanism transfers heat from a warm body to a colder solid surface in direct contact?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Evaporation
 - **B.** Conduction
@@ -2115,7 +2115,7 @@ Conduction mein heat do objects ke direct physical contact se transfer hoti hai.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q9](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q9](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q9-which-mechanism-transfers-heat-from-a-warm-body-to-a-colder-solid-surface-in-direct-contact)
 
 ### Q66. A central-line dressing is removed for a planned change. Which measure is especially important?
 
@@ -2327,7 +2327,7 @@ Patient ko reposition karne se pressure redistribute hota hai aur immobility-rel
 
 ### Q72. Which heat transfer mechanism is involved when moving cool air carries heat away from the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** Thermogenesis
 - **B.** Convection
@@ -2355,9 +2355,11 @@ Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air 
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS Jodhpur 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-the-principal-heat-excha--625ee35a1a33612ae9adeefb). Is question mein incubator ke heat exchange mode ko convection se relate kiya gaya hai. Yeh air movement ke same basic mechanism ka related evidence hai. Publisher ki neonatal age aur phototherapy wali explanation ko clinical guidance na samjho. Official paper aur key independently authenticate nahi hue hain.
+
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q10](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q10](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q10-which-heat-transfer-mechanism-is-involved-when-moving-cool-air-carries-heat-away-from-the-skin)
 
 ### Q73. A nurse is preparing a sterile dressing and a patient suddenly develops severe respiratory distress. What takes priority?
 
@@ -2382,7 +2384,7 @@ Airway-breathing emergency planned procedure se higher priority hai. Contaminate
 
 ### Q74. Which blood component is commonly prescribed to replace platelets in clinically indicated thrombocytopenia?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Normal saline
 - **B.** Packed red cells
@@ -2414,7 +2416,7 @@ Platelets chhote cell fragments hain jo injured blood vessel par primary plug ba
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q10](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q10](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q10-which-blood-component-is-commonly-prescribed-to-replace-platelets-in-clinically-indicated-thrombocytopenia)
 
 ### Q75. A nurse uses the dorsal surface of the hand to compare the warmth of two areas. Which assessment technique is being used?
 
@@ -3580,7 +3582,7 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 ### Q111. Which process removes heat when sweat changes from liquid to vapor?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Radiation alone
 - **B.** Muscle thermogenesis
@@ -3610,7 +3612,7 @@ Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahi
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q11](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q11](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q11-which-process-removes-heat-when-sweat-changes-from-liquid-to-vapor)
 
 ### Q112. An unexpectedly high potassium result comes from a hemolyzed sample. What should be considered?
 
