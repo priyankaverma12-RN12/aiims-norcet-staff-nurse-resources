@@ -16,3 +16,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 ## RTI/STI/PID historical evidence — 27 November 2026
 
 [Two question-level reported adaptations with hidden answers](04-RTI-STI-Reported-Exam-Adaptations.md): ESIC Staff Nurse 26 February 2019 Shift II and AIIMS Jodhpur 10 December 2019 memory-based. Official keys and question numbers not authenticated. Other retrieved reports and pending all-India evidence are listed in the file.
+
+
+## Cervical screening and cancer historical evidence — 27 November 2026
+
+[Two source-linked reported exam adaptations](06-Cervical-Cancer-Reported-Exam-Adaptations.md) cover HPSSC Hamirpur Staff Nurse 5 August 2021 (radiation safety) and Haryana HSSC Staff Nurse 2019 (screening and prevention). Official keys and question numbers are pending. NVS and UPPSC leads noted without counting additional PYQs.
