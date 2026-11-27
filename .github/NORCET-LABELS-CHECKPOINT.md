@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-043636-headings
-Scope: Nursing Foundations group 01 and 02 reported evidence visible heading tags only
-Expiry UTC: 2026-11-27T05:06:36Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -85,3 +85,5 @@ Root skill b2a2252b0d0da0ddbdfc4e4dceab49eec89239b0 and canonical skill ae77a925
 
 ## Learner correction — visible heading tags and UI design
 Updated root skill 96ab8f27623225250387d998a740ea11fe1d9fd2, canonical skill b438afdcc7ce0cb89132c7a5f416df6bcdd35045, AGENTS.md 1b1c8dd660b23f116d90deab356dacff04608b6a and Copilot instructions a0af80c0fbabaf3a117dafb6ecb88cad100544bf. Added reusable Assets/study-ui.css d0bc8c8b14c1ef9bb987e76c67f3efeb51964db8; native GitHub Markdown does not apply custom CSS; no site deployment modified. Existing hourly Job 4 prompt updated successfully, schedule unchanged. Prioritize visible evidence markers at exam headings or existing metadata rows, maintain original anchors and no duplicate badges, preserve hidden answer and video references. Continue prior pending concept and mock UI work and all-India exam/video gap verification.
+
+- Verified visible exam headings in Group 02 reported evidence (NVS and RRB) commit c9bec699652203fa439d665dbb0a2a55ea0d31d3 and Group 01 reported evidence (GMCH and AIIMS Jodhpur) commit 4b090eca1cd9a1e0ab1bf94652755773d0663bf2. Four existing headings color-marked in place, duplicated exam-name labels removed from hidden metadata while evidence qualifiers retained, legacy fragment anchors added, existing URL sets and non-metadata study text preserved, exact readback verified. No new question count, no new exam or video evidence claimed. CSS asset is not loaded by native github.com Markdown; site configuration not established, rendered GitHub view and anchor behavior not visually tested. All four rule files and existing hourly Job 4 instructions updated; no deployment/access changes. Next: retrofit visible exam labels in all previously tagged MCQs/mocks and concept subsections, finish prior concept polish, correct misleading Group 01 practice video mappings, complete Group 02 mock slots then Group 03 and remaining chapters. Preserve source evidence, practice links, exact versus topic-level video gap counts and no duplicate labels. Claim released.
