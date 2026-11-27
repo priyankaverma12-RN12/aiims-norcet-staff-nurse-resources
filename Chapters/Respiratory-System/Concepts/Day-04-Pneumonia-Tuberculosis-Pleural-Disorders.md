@@ -8,7 +8,7 @@
 
 ## 1. Pneumonia
 
-Pneumonia is an infection of lung parenchyma involving alveoli, causing inflammation and filling of alveoli with fluid or exudate. Easy language: alveoli mein air ki jagah inflammatory fluid aa jata hai, isliye oxygen blood tak pahunchne mein difficulty hoti hai.
+Pneumonia lungs ke functional tissue ka infection hai. Alveoli chhoti air sacs hain jahan oxygen blood mein transfer hoti hai. Infection se inflammation hoti hai aur kuch alveoli mein exudate, yaani inflammatory fluid, jama ho sakta hai. Jab air ki jagah fluid hota hai, toh blood tak oxygen pahunchna difficult ho jaata hai. Isliye patient ko saans lene mein problem aur low oxygen saturation ho sakti hai.
 
 ![Original schematic of alveolar and pleural changes](../Assets/day-04-alveoli-pleura.svg)
 
@@ -27,9 +27,21 @@ Nursing care: semi-Fowler's/High Fowler's, respiratory rate, oxygen saturation, 
 
 **High-yield extension:** Lobar pneumonia ek lobe ka relatively uniform consolidation; bronchopneumonia patchy multifocal involvement. Aspiration pneumonitis chemical injury hai, bacterial aspiration pneumonia infection hai; dono automatically same treatment nahi. CURB-65 severity aid: Confusion, Urea >7 mmol/L, RR ≥30, BP systolic <90 or diastolic ≤60, age ≥65. Har criterion 1 point; score clinical judgment replace nahi karta.
 
+### 🟠 Pneumonia assessment and nursing decisions — study-ready clarification
+
+Community-acquired pneumonia (CAP) hospital ke bahar ya admission ke time community-acquired infection ke roop mein present ho sakti hai. Hospital-acquired pneumonia (HAP) ka usual definition admission ke kam se kam 48 hours baad develop hui pneumonia hai jo admission par incubating nahi thi. Ventilator-associated pneumonia ka separate clinical context hota hai.
+
+Consolidation mein lung tissue air ke bajay inflammatory material se bhar jaata hai. Perfusion chal sakti hai lekin ventilation kam ho jaati hai. Is mismatch ki wajah se hypoxemia ho sakti hai. Auscultation aur percussion clues hain, final diagnosis ke liye clinical assessment aur appropriate investigations chahiye.
+
+**CURB-65 example:** 68-year-old alert patient ka RR 32/min, BP 120/76 aur serum urea 6 mmol/L hai. Age aur RR ke ek-ek point se score 2 aata hai. Confusion, high urea aur low BP ke zero points hain. Ye adult CAP hospital mortality assessment aid hai. Sepsis ya rapidly rising oxygen demand mein score ka wait nahi karna hai. [NICE NG250](https://www.nice.org.uk/guidance/ng250/chapter/Recommendations).
+
+Aspiration pneumonitis mein gastric acid se chemical lung injury hoti hai. Bacterial aspiration pneumonia infection hai. Antibiotics har chemical aspiration event ke liye automatic nahi hain. Dysphagia mein prescribed swallowing assessment aur safe feeding position follow karo. Oral intake ke dauran cough ya choking ho toh stop karke reassess karo.
+
+**Teaching:** [Bhushan Science Nursing — Pneumonia pathology](https://www.youtube.com/watch?v=WZMk1lGnL5o). Published description pathophysiology, stages and causes cover karti hai. **▶️ [Nursing Wallah Part 25 — CAP cause MCQ 17:30](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=1050s)**. Ye related pneumonia practice hai, CURB-65 ya aspiration ke exact items verify nahi hue. [Day 4 Q1–8 additional practice](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md).
+
 ## 2. Pulmonary tuberculosis
 
-Tuberculosis is an infectious disease caused by Mycobacterium tuberculosis. Lungs mainly affected, but extrapulmonary disease bhi ho sakti hai. Infectious pulmonary/laryngeal TB coughing, speaking or singing se airborne particles release karti hai. Sharing utensils or handshakes usually transmission route nahi hai.
+Tuberculosis (TB) Mycobacterium tuberculosis naam ke bacteria se hone wali disease hai. Ye lungs ko commonly affect karti hai, lekin body ke doosre organs mein bhi TB ho sakti hai. Ise extrapulmonary TB kehte hain. Infectious pulmonary/laryngeal TB coughing, speaking or singing se airborne particles release karti hai. Sharing utensils or handshakes usually transmission route nahi hai.
 
 Cough ≥2 weeks, hemoptysis, fever, night sweats, weight loss, loss of appetite and fatigue important findings hain. Symptoms duration alone se TB exclude nahi karte. Sputum NAAT (CBNAAT/Truenat), smear microscopy, culture and drug susceptibility testing, chest X-ray use hote hain. X-ray alone confirmation nahi hai.
 
@@ -40,11 +52,21 @@ Cough ≥2 weeks, hemoptysis, fever, night sweats, weight loss, loss of appetite
 | Pyrazinamide | Z | Hyperuricemia, hepatotoxicity |
 | Ethambutol | E | Optic neuritis, red-green colour vision changes |
 
-**NORCET high-yield: Ethambutol → optic neuritis.** Visual changes promptly report karo. Isoniazid ke saath pyridoxine prescribed in at-risk patients helps prevent neuropathy. HRZE common first-line drugs hain; regimen duration disease site, susceptibility and national guidelines par depend karta hai. Medicines independently stop mat karo; suspected significant toxicity urgently report karo.
+**NORCET high-yield: Ethambutol → optic neuritis.** Visual changes promptly report karo. Isoniazid ke saath pyridoxine prescribed in at-risk patients helps prevent neuropathy. HRZE common first-line drugs hain; regimen duration disease site, susceptibility and national guidelines par depend karta hai. Routine treatment apne aap discontinue mat karo. Lekin new blurred vision, colour vision change, jaundice ya serious drug reaction mein urgent TB-team review chahiye. Suspected serious toxicity mein next dose hold karne aur tests ke liye applicable TB safety protocol follow karo. Patient ko symptoms ke bawajood medicine continue karne ko mat bolo. [CDC adverse events](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html).
 
 Nursing: airborne precautions, fit-tested N95 respirator for staff, appropriate isolation/ventilation, patient mask during necessary transport, cough etiquette, adherence support, nutrition and prescribed follow-up sputum testing.
 
-**High-yield extension:** Latent TB infection generally asymptomatic/noninfectious; active pulmonary TB infectious ho sakti hai. TST/IGRA infection suggest karte hain, active disease distinguish nahi karte. MDR-TB means resistance to at least isoniazid and rifampicin. NTEP = National Tuberculosis Elimination Programme; DOT = directly observed treatment, adherence support ka part. Drug-resistant disease needs susceptibility-guided specialist regimen.
+**High-yield extension:** Latent TB infection generally asymptomatic aur noninfectious hoti hai. Active pulmonary TB infectious ho sakti hai. TST/IGRA infection suggest karte hain, active disease distinguish nahi karte. MDR-TB means resistance to at least isoniazid and rifampicin. NTEP = National Tuberculosis Elimination Programme; DOT = directly observed treatment, adherence support ka part. Drug-resistant disease needs susceptibility-guided specialist regimen.
+
+### 🔴 TB diagnosis and drug monitoring — study-ready clarification
+
+Suspected pulmonary TB mein deep cough se nikla lower respiratory sputum collect karo, saliva nahi. Appropriate designated ventilated collection area aur airborne precautions follow karo. WHO rapid molecular testing ko initial diagnostic test ke roop mein recommend karta hai. NAAT bacteria ke genetic material ko detect karta hai. Rifampicin resistance result aaye toh TB team ko promptly inform karo aur drug susceptibility evaluation arrange karo. Ek normal chest X-ray ya negative single test se TB hamesha exclude nahi hoti. [WHO TB diagnostic recommendations](https://www.ncbi.nlm.nih.gov/sites/books/NBK614638/) · [NTEP diagnosis](https://ntep.in/node/394).
+
+Rifampicin se orange tears aur urine expected ho sakte hain. Lekin dark brown urine, jaundice, unexplained vomiting aur abdominal pain serious liver injury ke clues ho sakte hain. Isoniazid se tingling aur numbness ho sakti hai. Pyridoxine ki need patient risk aur prescription ke according assess hoti hai. Ethambutol se vision changes ko immediately report karo. Pyrazinamide uric acid badha sakti hai. Painful swollen joint ko assess karo, asymptomatic laboratory elevation aur clinical gout alag hain. [CDC drug adverse effects](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html).
+
+India-specific conventional drug-sensitive regimen 2HRZE followed by 4HRE ko global 2HRZE/4HR teaching se confuse mat karo. Actual duration, drug combinations aur shorter eligible regimens treating TB team current NTEP guidance, age, disease site aur susceptibility ke according decide karti hai. [NTEP regimen reference](https://ntep.in/node/760/CP-management-eptb) indexed text confirms conventional Indian regimen. Latest operational document direct retrieval pending.
+
+**Practice:** [Day 4 additional Q9–15](../MCQs/Day-04-Pneumonia-Tuberculosis-Pleural-Disorders.md). Dedicated TB teaching and drug-specific MCQ video verification pending. Existing mixed respiratory practice link is not evidence of exact drug questions.
 
 ## 3. Pleural disorders
 
