@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-aub-20261127-2242
+Scope: Gynecology dedicated abnormal uterine bleeding and menstrual disorders MCQ bank, related evidence and local README only
+Claimed UTC: 2026-11-27T22:42:00Z
+Expiry UTC: 2026-11-27T23:12:00Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
