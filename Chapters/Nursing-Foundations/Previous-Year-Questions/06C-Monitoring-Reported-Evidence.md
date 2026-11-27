@@ -16,10 +16,12 @@ D. Predictably increased blood pressure
 
 **Correct answer: C. Impaired coordination and possible drowsiness**
 
-- **A (Incorrect):** Benzodiazepine CNS depressant effect motor coordination impair kar sakta hai. Improved balance expected effect nahi.
-- **B (Incorrect):** Diazepam visual acuity improve karne ke liye indicated medicine nahi hai.
-- **C (Correct):** Diazepam sedation and impaired motor control cause kar sakta hai. Fall risk, driving and other hazardous activities ke baare mein teach karo. Excessive sedation or respiratory compromise urgent review require karti hai.
-- **D (Incorrect):** Increased BP predictable therapeutic response nahi hai. Individual response and observations assess karo.
+- **A (Incorrect):** Diazepam benzodiazepine hai jo central nervous system activity ko suppress karta hai. Isse muscle coordination aur reaction time impair ho sakte hain, improved balance expected nahi hai.
+- **B (Incorrect):** Diazepam vision improve karne ki medicine nahi hai. Sedation ya visual disturbance activities ko less safe bana sakti hai.
+- **C (Correct):** Diazepam se drowsiness, dizziness aur impaired coordination ho sakti hai. Patient ko fall precautions, safe mobility aur driving impairment ke baare mein samjhao. Alcohol ya other sedatives additive CNS depression produce kar sakte hain. Severe drowsiness ya breathing difficulty par urgent clinical assessment chahiye.
+- **D (Incorrect):** Blood pressure predictably increase hona diazepam ka expected therapeutic effect nahi hai. Individual symptoms aur vital signs assess karo.
+
+**Exam clue:** Benzodiazepines can impair alertness and coordination. Avoid driving while impaired.
 
 [Open RN CNS pharmacology](https://www.ncbi.nlm.nih.gov/books/NBK594993/) · [Concept](../Concepts/06C-Medication-Monitoring-and-Response.md#clinical-warning-signs)
 
