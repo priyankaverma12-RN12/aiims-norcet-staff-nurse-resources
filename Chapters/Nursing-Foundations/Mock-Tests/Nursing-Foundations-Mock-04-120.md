@@ -1821,9 +1821,22 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 **Correct: C. Verified identifiers, specimen type and collection time**
 
-Sample identity, type aur collection time correct processing aur interpretation support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bed number identity proof nahi hai. Expected result aur lab name alone clinical sample identify nahi karte.
+Label aur request form laboratory ko batate hain ki specimen kis patient ka hai, kis source se aaya hai aur kab collect hua. Do approved identifiers, sample type/site, date-time aur test-specific details local policy ke according record karo. Label aur request ka match processing se pehle verify hona chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Laboratory name destination batata hai, specimen ka patient link nahi.
+- **B (Galat):** Expected result sample identity ya collection history establish nahi karta.
+- **C (Sahi):** Verified identifiers, type aur time traceability aur correct interpretation support karte hain.
+- **D (Galat):** Bed number stable unique patient identifier nahi hai.
+
+**Exam clue:** Identity plus source plus time, with matching request.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/lab-quality/php/preventing-adult-blood-culture-contamination/collect.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2168,9 +2181,22 @@ Fatigue normal exertion ya clinical deterioration se related ho sakti hai. Nurse
 
 **Correct: B. Use the specified heparinized device and minimize air contamination**
 
-Air bubbles oxygen aur CO2 values distort kar sakti hain. Correct collection device clotting prevent karti hai aur accurate measurement support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Open air aur bubbles gas exchange kar sakte hain. Clotted serum ABG sample nahi hai.
+ABG ke liye trained authorized clinician appropriate heparinized device use karta hai. Heparin clotting prevent karti hai aur air exposure kam rakhna zaroori hai. Room air se gas exchange PaO2 ko ambient equilibrium ki taraf aur PaCO2 ko change kar sakta hai. Correct volume, gentle mixing, secure closure aur prompt transport lab protocol se follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Large air bubble gas partial pressures ko change kar sakta hai. Bubbles deliberately add nahi karte.
+- **B (Sahi):** Specified heparinized device clotting aur air contamination ke common errors kam karne mein help karti hai.
+- **C (Galat):** Clotted serum standard arterial whole-blood gas specimen nahi hai.
+- **D (Galat):** Open syringe mein room air ke saath gas exchange ho sakta hai aur blood gas result distort ho sakta hai.
+
+**Exam clue:** ABG: heparinized device, minimize air, transport promptly.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK138661/?report=reader)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2317,9 +2343,22 @@ Counts team ko used items reconcile karne mein help karte hain. Discrepancy proc
 
 **Correct: B. Use the approved representative collection method after appropriate cleansing**
 
-Surface contaminants actual wound organisms se different ho sakte hain. Representative sample aur site documentation result interpretation improve karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Old dressing aur unrelated skin misleading organisms collect kar sakti hain. Site omission context lose karti hai.
+Wound culture ka goal suspected infection mein clinically relevant organisms identify karna hai. Old dressing aur wound surface par colonizing organisms ho sakte hain. Appropriate cleansing ke baad approved representative technique use karo. Deep tissue ya aspirate indicated ho toh authorized clinician aur lab protocol follow karo. Wound site aur clinical context document karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dried outer dressing mein environmental ya superficial organisms ho sakte hain. Yeh wound bed ka reliable sample nahi.
+- **B (Sahi):** Cleansing ke baad approved representative method superficial contamination kam karke useful culture support karta hai.
+- **C (Galat):** Site information omit karne se lab aur clinician result ka context lose kar sakte hain.
+- **D (Galat):** Unrelated intact skin par normal flora mil sakti hai. Yeh infected wound ka representative sample nahi.
+
+**Exam clue:** Wound culture: representative source, proper preparation and documentation.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2780,9 +2819,22 @@ Indian Nursing Council nursing education standards aur recognized qualifications
 
 **Correct: C. Arterial blood gas specimen**
 
-Delay aur temperature blood gas values alter kar sakte hain. ABG sample ko validated timing aur transport guidance se handle karna chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Indefinite delay unsafe hai. Label color aur patient request stability determine nahi karte.
+ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism karte rehte hain. Delay, temperature aur air exposure gas aur pH values change kar sakte hain. Specified transport time, device aur storage condition lab se follow karo. Har ABG ko automatically ice par rakhna universal rule nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Label color alone sample stability decide nahi karta. Test-specific instructions chahiye.
+- **B (Galat):** Patient request urgency ka only criterion nahi hai. Test stability aur clinical condition important hain.
+- **C (Sahi):** ABG time-sensitive sample hai. Prompt validated handling accurate result support karti hai.
+- **D (Galat):** Indefinite delay se gas values aur doosre unstable analytes change ho sakte hain.
+
+**Exam clue:** ABG: prompt transport and lab-specific temperature policy.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK138661/?report=reader)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
