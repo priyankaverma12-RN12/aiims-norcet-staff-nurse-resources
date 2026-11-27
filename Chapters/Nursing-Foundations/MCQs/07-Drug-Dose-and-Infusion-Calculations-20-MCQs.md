@@ -32,6 +32,8 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related tablet calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
+[Legacy revision practice: Mock 01, Q16](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q16-a-prescription-is-for-750-mg-of-a-drug-available-as-250-mg-tablets-how-many-tablets-are-required)
+
 </details>
 
 ### Q2. A prescribed dose is 0.25 g. The available tablet contains 125 mg. How many tablets are needed?
@@ -63,6 +65,8 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversions and tablets problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 01, Q93](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q93-a-prescribed-dose-is-025-g-the-available-tablet-contains-125-mg-how-many-tablets-are-needed)
 
 </details>
 
@@ -96,6 +100,8 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related dose-volume calculation problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
+[Legacy revision practice: Mock 01, Q104](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q104-a-drug-is-supplied-as-50-mgml-and-the-prescribed-dose-is-35-mg-which-volume-is-correct)
+
 </details>
 
 ### Q4. A vial contains 1 g after reconstitution to a final volume of 10 mL. What volume contains 300 mg?
@@ -127,6 +133,8 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV reconstitution problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 01, Q63](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q63-a-vial-contains-1-g-after-reconstitution-to-a-final-volume-of-10-ml-what-volume-contains-300-mg)
 
 </details>
 
@@ -162,6 +170,8 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 [Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
+[Legacy revision practice: Mock 02, Q19](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q19-a-20-kg-child-is-prescribed-10-mgkg-per-dose-of-a-drug-what-is-the-calculated-dose-per-administration)
+
 </details>
 
 ### Q6. A 24-kg child has a prescription for 30 mg/kg/day divided into three equal doses. What is the amount per dose?
@@ -196,6 +206,8 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 [Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
+[Legacy revision practice: Mock 02, Q67](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q67-a-24-kg-child-has-a-prescription-for-30-mgkgday-divided-into-three-equal-doses-what-is-the-amount-per-dose)
+
 </details>
 
 ### Q7. An order specifies 500 mL IV fluid over 4 hours using an infusion pump. What is the programmed rate?
@@ -227,6 +239,8 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV flow mL/hour problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 02, Q5](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q5-an-order-specifies-500-ml-iv-fluid-over-4-hours-using-an-infusion-pump-what-is-the-programmed-rate)
 
 </details>
 
@@ -260,6 +274,8 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
+[Legacy revision practice: Mock 02, Q90](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q90-a-750-ml-iv-infusion-is-prescribed-over-6-hours-with-a-drop-factor-of-20-gttml-what-is-the-nearest-whole-drop-rate)
+
 </details>
 
 ### Q9. A 100-mL infusion is prescribed over 30 minutes using tubing with a drop factor of 15 gtt/mL. What is the calculated rate?
@@ -291,6 +307,8 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 03, Q106](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q106-a-100-ml-infusion-is-prescribed-over-30-minutes-using-tubing-with-a-drop-factor-of-15-gttml-what-is-the-calculated-rate)
 
 </details>
 
@@ -324,6 +342,8 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
+[Legacy revision practice: Mock 03, Q21](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q21-a-microdrip-set-has-a-drop-factor-of-60-gttml-the-ordered-rate-is-80-mlhour-what-is-the-gravity-drip-rate)
+
 </details>
 
 ### Q11. A 1-L bag has 350 mL remaining and the pump is running at 100 mL/hour. How long until the remaining volume is infused, assuming no interruption?
@@ -355,6 +375,8 @@ Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related infusion time problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 03, Q98](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q98-a-1-l-bag-has-350-ml-remaining-and-the-pump-is-running-at-100-mlhour-how-long-until-the-remaining-volume-is-infused-assuming-no-interruption)
 
 </details>
 
@@ -388,6 +410,8 @@ Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Re
 
 **▶️ [Numerical practice — RegisteredNurseRN, Intake and Output Nursing Calculation Practice Problems](https://www.youtube.com/watch?v=a6ovyZIs9tg)** · Published 26 February 2018. Retrieved description explicitly covers intake and output record calculations, including oral, tube and IV fluids and comparing intake with output. Topic-level worked-problem practice only. Exact scenario and playback not verified.
 
+[Legacy revision practice: Mock 03, Q101](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q101-a-patient-receives-200-ml-oral-fluid-350-ml-iv-fluid-and-150-ml-enteral-water-during-a-shift-what-is-total-documented-intake)
+
 </details>
 
 ### Q13. A patient has measured intake 1800 mL and output 2100 mL. What is the recorded net fluid balance?
@@ -419,6 +443,8 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 <!-- /job5-rationale -->
 
 **▶️ [Numerical practice — RegisteredNurseRN, Intake and Output Nursing Calculation Practice Problems](https://www.youtube.com/watch?v=a6ovyZIs9tg)** · Published 26 February 2018. Retrieved description explicitly covers intake and output record calculations, including oral, tube and IV fluids and comparing intake with output. Topic-level worked-problem practice only. Exact scenario and playback not verified.
+
+[Legacy revision practice: Mock 04, Q9](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q9-a-patient-has-measured-intake-1800-ml-and-output-2100-ml-what-is-the-recorded-net-fluid-balance)
 
 </details>
 
@@ -452,6 +478,8 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
+[Legacy revision practice: Mock 04, Q120](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q120-an-order-specifies-150-micrograms-of-a-drug-which-value-is-equivalent-in-milligrams)
+
 </details>
 
 ### Q15. A liquid contains 2 mg in 4 mL. The required dose is 0.75 mg. What is the calculated volume?
@@ -483,6 +511,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 <!-- /job5-rationale -->
 
 **▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related liquid dose-volume problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Legacy revision practice: Mock 04, Q25](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q25-a-liquid-contains-2-mg-in-4-ml-the-required-dose-is-075-mg-what-is-the-calculated-volume)
 
 </details>
 
@@ -516,6 +546,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy revision practice: Mock 04, Q98](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q98-a-solution-is-labeled-09-weightvolume-sodium-chloride-how-much-sodium-chloride-is-present-in-500-ml)
+
 </details>
 
 ### Q17. A 10% weight/volume glucose solution is supplied in a 250-mL container. How many grams of glucose does it contain?
@@ -547,6 +579,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy revision practice: Mock 05, Q94](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q94-a-10-weightvolume-glucose-solution-is-supplied-in-a-250-ml-container-how-many-grams-of-glucose-does-it-contain)
 
 </details>
 
@@ -582,6 +616,8 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 
 [Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
+[Legacy revision practice: Mock 05, Q117](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q117-a-prescription-is-written-as-2-mgkg-for-a-patient-weighing-66-lb-using-22-lbkg-what-is-the-calculated-dose)
+
 </details>
 
 ### Q19. A nurse calculates a dose of 1.2 mL and has a 1-mL syringe available. Which approach is most appropriate?
@@ -614,6 +650,8 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy revision practice: Mock 05, Q58](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q58-a-nurse-calculates-a-dose-of-12-ml-and-has-a-1-ml-syringe-available-which-approach-is-most-appropriate)
+
 </details>
 
 ### Q20. An infusion calculation yields a result ten times greater than the expected rate. What should the nurse do before programming the pump?
@@ -645,6 +683,8 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 <!-- /job5-rationale -->
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy revision practice: Mock 05, Q29](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q29-an-infusion-calculation-yields-a-result-ten-times-greater-than-the-expected-rate-what-should-the-nurse-do-before-programming-the-pump)
 
 </details>
 
