@@ -112,4 +112,8 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Medication verification and error prevention](06A-Medication-Verification-and-Error-Prevention.md), 30 allocated.
 
-Next: Group 06B medication routes and formulations, followed by monitoring and response. Full clinical and semantic audit pending.
+- [Medication routes and formulations](06B-Medication-Routes-and-Formulations.md), 30 allocated.
+- [Medication monitoring and response](06C-Medication-Monitoring-and-Response.md), 30 allocated.
+- [Dose units, concentration and reconstitution](07A-Dose-Units-Concentration-and-Reconstitution.md), 30 allocated.
+
+Next: Group 07B weight-based dosing and safe dose range, then infusion calculations. Full clinical and semantic audit pending.
