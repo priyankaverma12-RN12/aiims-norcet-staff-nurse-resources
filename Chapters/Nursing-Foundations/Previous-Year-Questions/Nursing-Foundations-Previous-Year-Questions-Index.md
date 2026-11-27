@@ -29,3 +29,6 @@
 
 
 [Group 04B — patient identification and procedure safety](04B-Identification-Procedure-Reported-Evidence.md): two independently adapted items from directly retrieved NORCET 6 Prelims 2024 and RMLIMS 7 September 2025 memory-based reports. Count remains 34 pending overlap reconciliation and official key authentication.
+
+
+[Group 04C — restraint safety](04C-Restraint-Reported-Evidence.md): one independently adapted PGIMER Chandigarh Staff Nurse Grade II 2015 reported item, directly retrieved with clinical qualification. RRB March 2026 shift 1 fall-prevention report reserved. Count remains 34 pending reconciliation and official-key checks.
