@@ -15,9 +15,20 @@
 
 **Correct: B. Protect tissue and manage exudate in a suitable healing environment**
 
-Dressing wound ko protect karti hai aur exudate manage kar sakti hai. Selection wound depth, drainage aur skin condition se decide hoti hai.
+Dressing wound ko cover karne wali protective material hai. Exudate wound se nikalne wala fluid hai. Suitable dressing contamination aur trauma se protection ke saath fluid ko manage karti hai. Moisture balance wound ki depth, perfusion, infection aur tissue ke hisaab se decide hota hai.
 
-**Baaki options kyun sahi nahi hain?** Universal dryness ya compression harmful ho sakti hai. Wound reassessment continue karni chahiye.
+**Option-wise explanation:**
+
+- **A (Galat):** Inspection prevent karne se infection ya deterioration miss ho sakti hai.
+- **B (Sahi):** Protection aur fluid management suitable healing environment banate hain.
+- **C (Galat):** Har wound ko dry rakhna appropriate nahi hai. Ischemic wounds ka plan alag ho sakta hai.
+- **D (Galat):** Maximum pressure tissue perfusion compromise kar sakta hai.
+
+**Exam clue:** Match dressing to wound assessment.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -34,9 +45,20 @@ Dressing wound ko protect karti hai aur exudate manage kar sakti hai. Selection 
 
 **Correct: A. Assess circulation and bleeding and obtain urgent surgical help**
 
-Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient assess karke urgent help leti hai.
+Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood loss circulating volume kam kar sakta hai aur shock develop ho sakta hai. Nurse ABC, vital signs aur bleeding assess karke urgent surgical help activate karti hai. Local hemorrhage protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Dressing-only care blood loss miss kar sakti hai. Waiting aur walking unsafe hain.
+**Option-wise explanation:**
+
+- **A (Sahi):** Urgent circulation assessment aur surgical help blood loss ko timely address karte hain.
+- **B (Galat):** Dressing-only change shock ke signs miss kar sakti hai.
+- **C (Galat):** Scheduled round tak delay ongoing bleeding mein dangerous hai.
+- **D (Galat):** Walking unstable patient mein fall aur deterioration ka risk badhati hai.
+
+**Exam clue:** Fresh blood plus tachycardia: urgent ABC.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/28-5-wound-care-and-dressing)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -53,9 +75,20 @@ Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient a
 
 **Correct: D. From cleaner to less clean areas**
 
-Clean-to-less-clean approach contamination transfer kam karti hai. Fresh swabs aur procedure-specific technique use karni chahiye.
+Simple clean incision ki suture line comparatively least contaminated area hoti hai. Separate fresh swabs aur approved cleansing solution se clean to less clean direction follow karo. Aseptic non-touch technique aur wound-specific plan zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** Dirty-to-clean wiping aur reuse organisms transfer kar sakte hain. Forceful scrubbing healing tissue damage karti hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Drain ki contamination clean incision tak transfer ho sakti hai.
+- **B (Galat):** Soiled swab repeat karne se organisms wapas transfer ho sakte hain.
+- **C (Galat):** Vigorous scrubbing fragile tissue damage kar sakti hai.
+- **D (Sahi):** Cleaner se less clean direction transfer risk kam karti hai.
+
+**Exam clue:** Clean to less clean, fresh swabs.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/28-5-wound-care-and-dressing)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -72,9 +105,20 @@ Clean-to-less-clean approach contamination transfer kam karti hai. Fresh swabs a
 
 **Correct: C. Use an approved atraumatic method, including moistening if indicated**
 
-New granulation tissue easily bleed kar sakti hai. Nurse dressing type ke according gentle removal karti hai.
+Granulation tissue naya vascular healing tissue hai. Adhered dressing ko force se remove karne par tissue tear, bleeding aur pain ho sakte hain. Dressing type ke hisaab se gentle release method use karo. Approved solution se moistening tab karo jab indicated ho.
 
-**Baaki options kyun sahi nahi hain?** Rapid pulling, cutting aur solvent tissue injury cause kar sakte hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Blind cutting wound tissue damage kar sakti hai.
+- **B (Galat):** Unapproved solvent irritation ya toxicity cause kar sakta hai.
+- **C (Sahi):** Atraumatic method fragile tissue protect karti hai.
+- **D (Galat):** Rapid pulling tissue tear aur bleeding cause kar sakti hai.
+
+**Exam clue:** Protect new tissue during removal.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -91,9 +135,20 @@ New granulation tissue easily bleed kar sakti hai. Nurse dressing type ke accord
 
 **Correct: C. Moderate exudate when the product is appropriate**
 
-Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exudate level check karna important hai.
+Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exudate wound mein moisture balance aur cushioning support karti hai. Product capacity, wound depth, surrounding skin aur saturation assess karo.
 
-**Baaki options kyun sahi nahi hain?** Dry ischemic wound aur exposed organ ko different clinical plan chahiye. Assessment skip nahi karni chahiye.
+**Option-wise explanation:**
+
+- **A (Galat):** Assessment ke bina exudate aur tissue condition pata nahi chalegi.
+- **B (Galat):** Exposed organ emergency protection aur surgical assessment maangta hai.
+- **C (Sahi):** Moderate exudate foam ke absorption se manage ho sakta hai.
+- **D (Galat):** Dry ischemic wound mein perfusion assessment aur individualized plan chahiye.
+
+**Exam clue:** Foam for suitable exuding wounds.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -110,9 +165,20 @@ Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exuda
 
 **Correct: B. A moderately to heavily exuding wound**
 
-Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adhere kar sakta hai.
+Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy exudate wale selected wounds mein useful hoti hain. Dry wound mein gel banne ke liye fluid nahi milta aur dressing adhere kar sakti hai. Product aur secondary dressing instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Dry wound aur intact skin universal indications nahi hain. Dressing exudate aur tissue ke hisaab se choose hoti hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Har wound mein alginate suitable nahi hoti.
+- **B (Sahi):** Moderate-heavy exudate alginate ki absorption property se manage ho sakta hai.
+- **C (Galat):** Dry wound mein unnecessary drying ya adherence ho sakti hai.
+- **D (Galat):** Intact skin par bina indication alginate ki zaroorat nahi.
+
+**Exam clue:** Alginate absorbs fluid and forms gel.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -129,9 +195,20 @@ Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adher
 
 **Correct: A. Remove and collect fluid from a surgical space**
 
-Drain blood aur serous fluid collect kar sakti hai. Output trends surgical healing aur complications assess karne mein help karte hain.
+Closed suction drain surgery ke baad operative space mein jama blood ya serous fluid nikalti hai. Tubing reservoir se connected hoti hai aur prescribed negative pressure fluid removal support karta hai. Nurse seal, output aur site assess karti hai.
 
-**Baaki options kyun sahi nahi hain?** Enteral tube feeding, BP device aur sutures different functions perform karte hain.
+**Option-wise explanation:**
+
+- **A (Sahi):** Surgical space se fluid collect karna drain ka purpose hai.
+- **B (Galat):** Enteral feeding GI tract mein nutrition deti hai.
+- **C (Galat):** Arterial BP cuff ya arterial monitoring device se measure hota hai.
+- **D (Galat):** Sutures incision edges hold karte hain, drain unka replacement nahi.
+
+**Exam clue:** Closed drain removes operative-space fluid.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -148,9 +225,20 @@ Drain blood aur serous fluid collect kar sakti hai. Output trends surgical heali
 
 **Correct: D. Assess the system and restore suction using the approved device procedure**
 
-Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur output check karke approved method se suction restore karti hai.
+Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded bulb suction loss ka clue hai. Tubing, seal, output aur connections assess karo. Approved emptying aur recompression process follow karo aur unresolved loss of suction report karo.
 
-**Baaki options kyun sahi nahi hain?** Puncture aur disconnection contamination risk badhate hain. Prescribed suction ignore nahi karni chahiye.
+**Option-wise explanation:**
+
+- **A (Galat):** Puncture se closed system damage aur contamination ho sakti hai.
+- **B (Galat):** Disconnection suction fail rakhti hai aur infection risk badhati hai.
+- **C (Galat):** Ignore karne se fluid retention ya malfunction miss ho sakta hai.
+- **D (Sahi):** Assessment aur approved restoration safe device care hai.
+
+**Exam clue:** JP drain: maintain prescribed suction.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -167,9 +255,20 @@ Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur outpu
 
 **Correct: D. Amount, color, character and time for each drain**
 
-Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Accurate measurement aur identification important hain.
+Drain output ka individual record recovery aur bleeding ke changes track karta hai. Har drain ka amount mL mein, color, character aur time separately record karo. Sudden fresh blood, purulent drainage ya cessation ko patient assessment ke context mein review karo.
 
-**Baaki options kyun sahi nahi hain?** Brand aur admission date actual output nahi batate. Combined output source-specific changes hide kar sakta hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Brand clinical output nahi batata.
+- **B (Galat):** Admission date current drainage establish nahi karti.
+- **C (Galat):** Combined amount source-specific change hide kar sakta hai.
+- **D (Sahi):** Separate volume, color, character aur time useful trend dete hain.
+
+**Exam clue:** Measure every drain separately.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -186,9 +285,20 @@ Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Acc
 
 **Correct: C. Assess for obstruction or retained fluid and escalate**
 
-No output with swelling obstruction ya fluid collection suggest kar sakta hai. Nurse site aur tubing assess karke surgical team ko inform karti hai.
+Drainage ka stop hona alone healing prove nahi karta. Swelling aur pain ke saath obstruction, kink ya retained fluid suspect karo. Patient, surgical site aur system assess karke promptly surgical team ko inform karo. Bina authorized instructions forceful manipulation ya removal mat karo.
 
-**Baaki options kyun sahi nahi hain?** Forceful stripping device-tissue damage kar sakti hai. No output recovery prove nahi karta. Removal authorized honi chahiye.
+**Option-wise explanation:**
+
+- **A (Galat):** No output alone recovery prove nahi karta.
+- **B (Galat):** Unauthorized removal retained fluid aur injury risk badhati hai.
+- **C (Sahi):** Assessment aur escalation possible obstruction address karte hain.
+- **D (Galat):** Forceful stripping tissue trauma aur excessive negative pressure cause kar sakti hai.
+
+**Exam clue:** No output plus swelling: assess and escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
@@ -205,9 +315,22 @@ No output with swelling obstruction ya fluid collection suggest kar sakta hai. N
 
 **Correct: B. Figure-of-eight turn**
 
-Figure-of-eight turns joint ke above aur below cross karke support provide kar sakti hain. Distal perfusion reassess karni hoti hai.
+Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya knee ke contour ko cover karne aur support dene ke liye commonly taught technique hai. Tension aur distal circulation, sensation, movement reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Recurrent aur spiral techniques different regions mein useful hoti hain. Tight knot pressure injury cause kar sakti hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Spiral reverse tapered limb regions mein useful ho sakti hai, har joint mein exclusive nahi.
+- **B (Sahi):** Figure-of-eight joint support ka conventional turn hai.
+- **C (Galat):** Recurrent turn rounded body ends ke liye commonly use hoti hai.
+- **D (Galat):** Tight knot focal pressure aur perfusion compromise kar sakta hai.
+
+**Exam clue:** Joint bandage: figure-of-eight.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Related historical evidence:** [🟣 UPSSSC Health Worker (Female), 8 May 2022 — related tested concept](https://testbook.com/question-answer/ques--62823d89bc95727498cec40b). Third-party question and reported key retrieved. Official paper/key not authenticated. Original practice, not exact PYQ.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -224,9 +347,20 @@ Figure-of-eight turns joint ke above aur below cross karke support provide kar s
 
 **Correct: A. Assess distal neurovascular status and relieve inappropriate compression according to protocol**
 
-Pale cool toes aur numbness blood flow ya nerve compression indicate kar sakte hain. Nurse immediate assessment aur corrective action leti hai.
+Pale cool numb toes bandage ke baad arterial supply ya nerve compression ke warning signs hain. Distal pulse, color, temperature, capillary refill, sensation, movement aur pain assess karo. Inappropriate compression promptly relieve karo aur urgent review lo, especially persistent symptoms mein.
 
-**Baaki options kyun sahi nahi hain?** Tightening, delay aur blind massage injury worsen kar sakte hain.
+**Option-wise explanation:**
+
+- **A (Sahi):** Immediate assessment aur compression relief threatened circulation protect karte hain.
+- **B (Galat):** Tightening perfusion aur nerve function further compromise kar sakti hai.
+- **C (Galat):** Next shift tak waiting tissue damage ka risk badhati hai.
+- **D (Galat):** Aggressive massage ischemia correct nahi karti aur injury badha sakti hai.
+
+**Exam clue:** New neurovascular signs need urgent action.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -243,9 +377,20 @@ Pale cool toes aur numbness blood flow ya nerve compression indicate kar sakte h
 
 **Correct: A. Distal circulation, sensation and movement**
 
-Baseline aur post-application neurovascular assessment se excessive compression identify ho sakti hai.
+Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging se pehle baseline aur baad mein distal color, temperature, pulse, capillary refill, sensation, movement aur pain compare karo. New changes excessive pressure identify karne mein help karte hain.
 
-**Baaki options kyun sahi nahi hain?** Color, temperature alone aur length distal circulation aur nerve function adequately assess nahi karte.
+**Option-wise explanation:**
+
+- **A (Sahi):** Circulation, sensation aur movement relevant baseline aur follow-up hain.
+- **B (Galat):** Bandage color patient perfusion establish nahi karta.
+- **C (Galat):** Body temperature alone limb blood flow aur sensation nahi batati.
+- **D (Galat):** Bandage length se nerve function assess nahi hota.
+
+**Exam clue:** Compare distal neurovascular status.
+
+**Clinical reference:** [Clinical guidance](https://journals.sagepub.com/doi/full/10.1177/0268355520909066)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -262,9 +407,20 @@ Baseline aur post-application neurovascular assessment se excessive compression 
 
 **Correct: D. Arterial perfusion and clinical suitability for compression**
 
-Severe arterial insufficiency mein compression blood supply compromise kar sakti hai. Nurse arterial status aur authorized plan verify karti hai.
+Leg ulcer venous, arterial ya mixed cause ka ho sakta hai. Strong compression venous return support kar sakti hai lekin arterial insufficiency mein blood supply compromise kar sakti hai. Vascular assessment aur appropriate ABPI ya alternative test verify karo. Diabetes mein ABPI misleading ho sakta hai. Authorized specialist compression plan follow karo.
 
-**Baaki options kyun sahi nahi hain?** Dressing size aur age alone perfusion nahi batate. All ulcers venous nahi hote.
+**Option-wise explanation:**
+
+- **A (Galat):** Dressing size blood supply establish nahi karta.
+- **B (Galat):** Age alone arterial perfusion ka measure nahi hai.
+- **C (Galat):** Sab ulcers venous nahi hote.
+- **D (Sahi):** Arterial perfusion aur suitability evaluate karne se compression-related harm kam hota hai.
+
+**Exam clue:** Assess arterial perfusion before strong compression.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/htg677/chapter/2-The-diagnostic-tests)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -281,9 +437,20 @@ Severe arterial insufficiency mein compression blood supply compromise kar sakti
 
 **Correct: C. Verify the order and assess wound approximation before removal**
 
-Removal timing wound site aur healing par depend karti hai. Nurse edges assess karke prescribed plan follow karti hai.
+Sutures wound edges ko saath hold karte hain. Removal timing body site, healing aur authorized order par depend karti hai. Nurse wound approximation, infection aur separation assess karti hai. Removal ke dauran separation ho toh stop aur review lo.
 
-**Baaki options kyun sahi nahi hain?** Universal timing aur unassessed forceful removal wound separation cause kar sakte hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Inspection skip karne se poor healing miss ho sakti hai.
+- **B (Galat):** Embedded suture forcefully pull karne se trauma ho sakta hai.
+- **C (Sahi):** Order aur approximation verify karna premature removal se bachata hai.
+- **D (Galat):** Universal removal day har operation ke liye suitable nahi.
+
+**Exam clue:** Check order and wound healing.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -300,9 +467,20 @@ Removal timing wound site aur healing par depend karti hai. Nurse edges assess k
 
 **Correct: B. Stop removal, support the wound and seek surgical assessment**
 
-Edge separation dehiscence ka sign ho sakti hai. Further removal stop karke wound protect aur review karna important hai.
+Staple removal ke waqt edges separate hona dehiscence ka warning sign hai. Dehiscence ka matlab wound closure khulna hai. Further removal stop karo, wound approved method se support aur protect karo aur surgical assessment lo. Significant separation ya exposed organs emergency hain.
 
-**Baaki options kyun sahi nahi hain?** Continued removal separation worsen kar sakti hai. Contamination aur delay unsafe hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Wound unattended chhodna separation aur contamination worsen kar sakta hai.
+- **B (Sahi):** Stopping and supporting wound further separation reduce karte hain.
+- **C (Galat):** Remaining staples rapidly remove karne se wound aur open ho sakta hai.
+- **D (Galat):** Unclean instrument infection aur injury ka risk badhata hai.
+
+**Exam clue:** Dehiscence: stop removal and escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -319,9 +497,20 @@ Edge separation dehiscence ka sign ho sakti hai. Further removal stop karke woun
 
 **Correct: B. Visual inspection without routine removal**
 
-Transparent film se covered site visible rehti hai. Nurse product capacity aur skin condition assess karti hai.
+Transparent film thin adhesive barrier hai jiske through covered site visible rehti hai. Selected low-exudate wounds mein inspection without routine removal allow karti hai. Absorption limited hai. Leakage, fluid accumulation aur adhesive injury monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Film unlimited fluid absorb nahi karti. Infection cure aur injury-free use guaranteed nahi hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Adhesive fragile skin damage kar sakta hai.
+- **B (Sahi):** Transparency covered site inspect karne mein help karti hai.
+- **C (Galat):** Film unlimited absorbent nahi hai.
+- **D (Galat):** Dressing infection cure guarantee nahi karti.
+
+**Exam clue:** Film: visibility, limited absorption.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -338,9 +527,20 @@ Transparent film se covered site visible rehti hai. Nurse product capacity aur s
 
 **Correct: A. Urgent assessment and device-specific bleeding emergency management**
 
-Fresh blood aur dizziness significant bleeding indicate kar sakte hain. Nurse patient assess karke urgent help leti hai.
+NPWT sealed dressing aur suction se wound fluid manage karti hai. Fresh blood aur dizziness significant bleeding ka clue hai. Urgent help activate karo aur ABC assess karo. V.A.C. jaise devices mein frank bleeding par device instructions ke according suction stop karo, dressing in place rakho aur emergency bleeding control arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Increased suction aur delay bleeding worsen kar sakte hain. Alarm ignore nahi karna chahiye.
+**Option-wise explanation:**
+
+- **A (Sahi):** Urgent assessment aur device-specific response life-threatening bleeding address karte hain.
+- **B (Galat):** Suction badhana bleeding worsen kar sakta hai.
+- **C (Galat):** Alarm silence karke leave karne se deterioration miss ho sakti hai.
+- **D (Galat):** Next dressing tak delay ongoing blood loss mein unsafe hai.
+
+**Exam clue:** Fresh blood plus dizziness: bleeding emergency.
+
+**Clinical reference:** [Clinical guidance](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/detail.cfm?mdrfoi__id=20042698&pc=OMP)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -357,9 +557,20 @@ Fresh blood aur dizziness significant bleeding indicate kar sakte hain. Nurse pa
 
 **Correct: D. Moist red or pink granular tissue**
 
-New capillaries aur connective tissue granulation tissue banate hain. Isliye appearance red-pink aur granular ho sakti hai.
+Granulation tissue proliferative healing phase mein new capillaries aur connective tissue se banta hai. Healthy tissue usually moist red ya pink aur granular dikhta hai. Wound appearance, drainage aur perfusion ko saath assess karo. Color alone diagnosis establish nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Eschar dead tissue hai. Pus infection suggest kar sakta hai. Fat granulation tissue se different hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Black eschar devitalized tissue hai.
+- **B (Galat):** Green pus infection ka clue ho sakta hai, granulation nahi.
+- **C (Galat):** Yellow exposed fat new granulation se different tissue hai.
+- **D (Sahi):** Moist red-pink granular tissue healthy healing ke saath consistent hai.
+
+**Exam clue:** Granulation: moist red or pink.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -376,9 +587,20 @@ New capillaries aur connective tissue granulation tissue banate hain. Isliye app
 
 **Correct: C. Clarify the current authorized plan before applying the dressing**
 
-Incorrect dressing wound damage ya moisture imbalance cause kar sakti hai. Nurse current instructions reconcile karti hai.
+Conflicting wound care orders se incompatible products, moisture imbalance ya tissue damage ka risk hota hai. Nurse latest assessment aur authorized order reconcile karti hai. Prescribing team se clarification lekar current plan follow karo. Urgent deterioration alag se escalate karo.
 
-**Baaki options kyun sahi nahi hain?** Random selection, unapproved combination aur assessment ignore karna unsafe hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Dono dressings bina compatibility review use karna unsafe hai.
+- **B (Galat):** Latest assessment ignore karne se changes miss ho sakte hain.
+- **C (Sahi):** Authorized plan clarification safe procedure ensure karti hai.
+- **D (Galat):** Random selection clinical indication ignore karti hai.
+
+**Exam clue:** Clarify conflicting orders.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
