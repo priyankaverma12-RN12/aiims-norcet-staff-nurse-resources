@@ -73,22 +73,35 @@ try:
         page.goto(base)
         expect(page.locator("#recent .recent-card").first).to_be_visible()
         desktop.close()
-        for width, height in [(390, 844), (320, 720)]:
+        for width, height in [(320, 720), (390, 844), (430, 932), (768, 1024), (844, 390)]:
             ctx = browser.new_context(viewport={"width": width, "height": height}, is_mobile=True, has_touch=True)
             mobile = ctx.new_page()
             mobile.goto(base)
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
             no_overflow(mobile)
+            mobile.locator("#search").fill("Respiratory")
+            expect(mobile.locator("#chapters .chapter")).to_have_count(1)
+            assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
+            mobile.locator("#theme").tap()
+            theme = mobile.locator("html").get_attribute("data-theme")
+            mobile.reload()
+            expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
+            assert mobile.locator("html").get_attribute("data-theme") == theme
+            no_overflow(mobile)
             mobile.goto(base + "?" + urlencode({"doc": sample}))
             ready(mobile)
             no_overflow(mobile)
+            expect(mobile.locator("#toggle")).to_be_visible()
+            assert mobile.locator("#toggle").bounding_box()["height"] >= 43
             mobile.clock.install()
             mobile.locator(".quiz-config input[type=number]").fill("1")
-            mobile.get_by_role("button", name="Start timed practice").click()
+            mobile.get_by_role("button", name="Start timed practice").tap()
+            assert mobile.locator(".quiz-option").first.bounding_box()["height"] >= 51
             no_overflow(mobile)
             mobile.clock.fast_forward(61000)
             expect(mobile.locator(".quiz-panel [role=status]")).to_contain_text("44 skipped")
             no_overflow(mobile)
+            print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
         browser.close()
         print("Desktop/mobile integration, real diagram, hidden answers, score, bookmark reload, and timer expiry passed.", flush=True)

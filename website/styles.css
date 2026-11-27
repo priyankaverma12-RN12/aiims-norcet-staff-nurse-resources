@@ -4,3 +4,36 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 @media(max-width:900px){.chapter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.reader-layout{grid-template-columns:1fr}.reader-aside{position:static;max-height:none;flex-direction:row}.aside-card{flex:1;min-width:0}.aside-card:first-child nav{max-height:9rem;overflow:auto}.reader-main{grid-row:1}.hero{grid-template-columns:minmax(0,1fr) minmax(0,.65fr)}}@media(max-width:600px){html{scroll-padding-top:20px}.topbar{position:static}.topbar-inner{padding:.8rem;align-items:flex-start;flex-direction:column;gap:.8rem}.topbar nav{gap:.7rem;max-width:100%}.topbar nav>a{font-size:.78rem}.github-link{display:none}.theme-button{padding:.3rem .6rem;font-size:.75rem}.brand-mark{width:36px;height:36px}.brand{font-size:1.1rem}main{padding:.8rem}.hero{display:block;border-radius:17px;padding:1.35rem}.hero-visual{display:none}.hero h1{font-size:clamp(1.9rem,8vw,2.8rem)}.hero-actions{gap:.7rem}.hero-secondary{font-size:.82rem}.stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem;margin-bottom:1.7rem}.stat{padding:.75rem}.stat span{font-size:.59rem}.stat strong{font-size:1.5rem}.stat small{font-size:.72rem}.recent-grid,.chapter-grid{grid-template-columns:1fr}.workspace,.library{margin-bottom:1.9rem}.filter-bar{align-items:stretch;flex-direction:column}.filter-wrap{justify-content:space-between}.filter-wrap select{min-width:0;max-width:75%;width:75%}.chapter{min-height:70px;padding:.85rem}.chapter-links{padding:.6rem .85rem}.reader-head{padding:1rem}.tabs{gap:.3rem}.tabs a{padding:.45rem .58rem;font-size:.75rem}.reader-aside{flex-direction:column}.reader-main{grid-row:auto}.reader-aside{display:none}.study-ui,.quiz-panel{padding:.85rem;border-radius:13px}.study-ui{font-size:.92rem}.quiz-config{align-items:flex-start;flex-direction:column}.quiz-controls button,.quiz-controls select{min-height:44px}.quiz-panel .question-meta{align-items:flex-start}.toolbar{gap:.6rem}.reader-context{flex-basis:100%;order:3}footer{padding:1rem}.hero-actions .cta{font-size:.9rem}.mark-row a{min-width:130px}}@media(prefers-reduced-motion:no-preference){.chapter-card,.recent-card,.cta,button{transition:border-color .15s,background .15s,box-shadow .15s}.chapter-card:hover{box-shadow:0 6px 22px rgba(31,84,71,.12)}}
 /* Keep answer controls and outline accessible at phone widths. */
 @media(max-width:600px){.reader-aside{display:flex;flex-direction:column;gap:.55rem}.reader-aside .aside-card{padding:.7rem .85rem}.reader-aside .aside-card:first-child nav{max-height:5.5rem}.reader-aside .aside-card:nth-child(2){display:flex;align-items:center;gap:.6rem;flex-wrap:wrap}.reader-aside .aside-card:nth-child(2) .kicker{margin:0;flex:1}.reader-aside .aside-card:nth-child(2) button{width:auto}.reader-aside .aside-card:nth-child(2) .muted{display:none}.reader-main{grid-row:auto}.chapter-group h3{flex-wrap:wrap}.group-count{white-space:nowrap}.search-wrap{min-width:0}.mark-row a{min-width:0}}
+
+/* Touch-first refinement: comfortable targets, readable form text and safe narrow layouts. */
+@media (max-width:600px), (pointer:coarse){
+ .topbar nav>a,.topbar .theme-button,.hero-actions>a,.toolbar>a,.tabs a,.chapter-links a,.mark-row button,.reader-aside button,.quiz-panel button,.quiz-panel select{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+ .chapter-links a{padding:.35rem .55rem;border:1px solid var(--line);border-radius:8px;font-size:.81rem;flex:1 0 auto}
+ .chapter-links{gap:.4rem}
+ .chapter-card .chapter{min-height:76px}
+ .search-wrap input,.filter-wrap select,.study-ui input[type=search],.quiz-config input[type=number],.quiz-panel select{font-size:16px;min-height:44px}
+ .quiz-option{min-height:52px;align-items:center;padding:.8rem .9rem}
+ .quiz-option input[type=radio]{width:20px;height:20px;margin:0;flex:none}
+ .quiz-panel .primary-action{min-height:48px}
+ .study-ui summary,.quiz-panel summary{min-height:44px;display:list-item;padding:.45rem 0}
+ .reader-aside nav a{padding:.45rem .15rem}
+}
+@media(max-width:600px){
+ .topbar-inner{gap:.4rem}
+ .topbar nav{gap:.2rem .65rem}
+ .topbar nav>a{font-size:.85rem}
+ .hero-copy>p:not(.eyebrow){font-size:1rem}
+ .chapter strong{font-size:1.04rem}
+ .study-ui{font-size:1rem;line-height:1.65}
+ .reader-head h1{font-size:1.65rem}
+ .quiz-controls{gap:.4rem}
+ .quiz-controls button{flex:1 1 auto}
+ .quiz-panel .primary-action{width:100%}
+ .quiz-config label{max-width:100%;flex-wrap:wrap}
+ .quiz-panel .question-stem{font-size:1rem}
+ .study-ui table{overscroll-behavior-inline:contain}
+ .reader-aside .aside-card:first-child nav{max-height:6.5rem}
+ .filter-wrap select{width:72%;max-width:72%}
+ .reader-main,.chapter-grid,.chapter-card,.chapter,.quiz-panel,.study-ui{min-width:0}
+}
+@media(max-width:360px){.topbar nav{gap:.2rem .45rem}.chapter-links a{padding:.3rem .4rem}.hero-actions>a{min-height:44px}.quiz-config label{gap:.35rem}.filter-wrap{flex-wrap:wrap}.filter-wrap select{max-width:100%;width:100%}.section-heading>a{min-height:44px;display:inline-flex;align-items:center}}
