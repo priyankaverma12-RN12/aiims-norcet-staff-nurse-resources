@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-infertility-contraception-20261127
+Scope: Gynecology infertility Q21-Q40, contraception bank and chapter README only, disjoint from active Obstetrics
+Claimed UTC: 2026-11-27T13:20:00Z
+Expiry UTC: 2026-11-27T13:50:00Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
