@@ -5,19 +5,19 @@
 | Section | Open |
 |---|---|
 | Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Original topic-wise questions | [1,175 original slots (600 initial + 575 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
+| Original topic-wise questions | [1,197 original slots (600 initial + 597 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
 | Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
 | Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | Video resources | [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
 
-488 Medium and 687 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+500 Medium and 697 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
 
 ## Revised individual-topic progress
 
-[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Next: Group 08 IV therapy and vascular access subdivisions.
+[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Next: Group 08B infusion complications and compatibility, then 08C central access.
 
 
 [Communication](Concepts/02A-Therapeutic-Communication.md) · [Documentation](Concepts/02B-Nursing-Documentation-and-Records.md) · [Handover](Concepts/02C-Clinical-Handover-and-Team-Communication.md). Group 02 three allocations of 30 each. Total five individual allocations met at initial numerical target.
@@ -57,3 +57,5 @@
 [Weight-based dosing and safe-dose range](Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md) · [27 new solved MCQs](MCQs/07B-Weight-Based-Dosing-and-Safe-Dose-Range-27-MCQs.md) · [Reported Nagpur and HPSSSB evidence](Previous-Year-Questions/07B-Weight-Based-Dose-Reported-Evidence.md). 30 allocated, all 27 arithmetic and reverse checks passed. Historical count remains 34 pending overlap and official verification. Full semantic/clinical and video audit pending.
 
 [Infusion rate and drug infusion calculations](Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md) · [24 new MCQs](MCQs/07C-Infusion-Rate-and-Drug-Infusion-Calculations-24-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/07C-Infusion-Calculations-Reported-Evidence.md) · [Original diagram](Assets/07C-Infusion-Calculation-Routes.svg). 30 allocated (24 new plus six preserved). 24 numerical/decision checks and 96 individual option rationales verified structurally, counted historical total remains 34. Full semantic, clinical, exam-key and video audit pending. Next Group 08 subdivisions.
+
+[Peripheral IV access and maintenance](Concepts/08A-Peripheral-IV-Access-and-Maintenance.md) · [22 new MCQs](MCQs/08A-Peripheral-IV-Access-and-Maintenance-22-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/08A-Peripheral-IV-Reported-Evidence.md) · [Original care pathway](Assets/08A-Peripheral-IV-Care-Pathway.svg). 30 allocated (22 new plus eight preserved). All 20 legacy Group 08 IDs allocated once in the [topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md). One uncounted reported adaptation. Full semantic, clinical, official-key and specific video verification pending. Next 08B complications and compatibility.
