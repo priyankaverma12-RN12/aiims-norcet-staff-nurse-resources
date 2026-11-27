@@ -38,4 +38,4 @@ Research lead: [SGPGI Staff Nurse 2024 Shift 1 paper (third-party PDF)](https://
 
 ## Day 4 reported exam leads
 
-[NORCET, HPRCA May 2026 and PGIMER 2025](Day-04-Reported-Exam-Leads.md) — topic-based leads, not verified exact official papers. [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md).
+[📝 Four source-traced corrective practice questions and remaining exam leads](Day-04-Reported-Exam-Leads.md) — ESIC 2019, JIPMER 2013, JSSC 2022 and RRB 2025 retrieved reports. Four independently worded adaptations with hidden Hinglish solutions, not authenticated exact PYQs. Remaining NORCET, HPRCA and PGIMER collection-level leads await question-level verification. All four specific MCQ-video mappings pending. [Grand mock](../MCQs/Respiratory-System-Grand-Mock-50.md).
