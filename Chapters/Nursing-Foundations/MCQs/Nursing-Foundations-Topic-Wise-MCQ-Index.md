@@ -66,8 +66,9 @@
 | [Weight-based dosing and safe-dose range](07B-Weight-Based-Dosing-and-Safe-Dose-Range-27-MCQs.md) | 27 | 30 |
 | [Infusion rate and drug infusion calculations](07C-Infusion-Rate-and-Drug-Infusion-Calculations-24-MCQs.md) | 24 | 30 |
 | [Peripheral IV access and maintenance](08A-Peripheral-IV-Access-and-Maintenance-22-MCQs.md) | 22 | 30 |
+| [IV complications and compatibility](08B-IV-Complications-and-Compatibility-25-MCQs.md) | 25 | 30 |
 
-Current inventory **1,197 original question slots** (500 Medium, 697 Difficult), initial 600 + 597 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,222 original question slots** (511 Medium, 711 Difficult), initial 600 + 622 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -103,4 +104,6 @@ Group 07B: 27 new + original Group 07 Q5,6,18 = 30 allocated. [Concept guide](..
 
 Group 07C: 24 new + Group 07 Q7–11 and Q20 = 30 allocated. [Concepts](../Concepts/07C-Infusion-Rate-and-Drug-Infusion-Calculations.md) · [Reported evidence](../Previous-Year-Questions/07C-Infusion-Calculations-Reported-Evidence.md). Q12,13 remain reserved for fluid balance. All new slots counted once. Next Group 08 subdivisions, with full semantic and clinical audit pending.
 
-Group 08A: 22 new + Group 08 Q4–7,13,14,17,18 = 30 allocated. [Concepts](../Concepts/08A-Peripheral-IV-Access-and-Maintenance.md) · [Reported evidence](../Previous-Year-Questions/08A-Peripheral-IV-Reported-Evidence.md). Group 08 legacy allocation (20 IDs exactly once): 08A Q4,5,6,7,13,14,17,18 (8); 08B complications and compatibility Q1,2,3,8,15 (5 reserved); 08C central access Q11,12 (2 reserved); Group 07C infusion delivery cross-reference Q10,16,20 (3, no new credit); Group 22 blood transfusion and fluid balance Q9,19 (2 reserved). These are allocation decisions, not additional new authorship. Q12–13 of Group 07 remain reserved for Group 22. Cross-chapter IPC Group 28 referenced, not counted.
+Group 08A: 22 new + Group 08 Q4–7,13,14,17,18 = 30 allocated. [Concepts](../Concepts/08A-Peripheral-IV-Access-and-Maintenance.md) · [Reported evidence](../Previous-Year-Questions/08A-Peripheral-IV-Reported-Evidence.md). Group 08 legacy allocation (20 IDs exactly once): 08A Q4,5,6,7,13,14,17,18 (8); 08B complications and compatibility Q1,2,3,8,15 (5 allocated); 08C central access Q11,12 (2 reserved); Group 07C infusion delivery cross-reference Q10,16,20 (3, no new credit); Group 22 blood transfusion and fluid balance Q9,19 (2 reserved). These are allocation decisions, not additional new authorship. Q12–13 of Group 07 remain reserved for Group 22. Cross-chapter IPC Group 28 referenced, not counted.
+
+Group 08B: 25 new + five previously reserved Group 08 Q1,2,3,8,15 = 30 allocated. [Concepts](../Concepts/08B-IV-Complications-and-Compatibility.md) · [Reported evidence](../Previous-Year-Questions/08B-IV-Complications-Reported-Evidence.md). Group 08C Q11,12 remain reserved. No duplicate count.
