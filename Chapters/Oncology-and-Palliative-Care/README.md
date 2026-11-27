@@ -1,12 +1,12 @@
 # Oncology and Palliative Care
 
+[Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+
 **Starter stage, not studied.** This chapter has 4 original questions. It is not complete yet.
 
-| Section | Open |
-|---|---|
-| Concepts and topic coverage | [Topic map](Concepts/Oncology-and-Palliative-Care-Topic-Coverage-Map.md) |
-| Topic-wise original questions | [4 starter MCQs](MCQs/Oncology-and-Palliative-Care-Topic-Wise-Starter-MCQs.md) |
-| Chapter-only mocks | [Mock plan](Mock-Tests/Oncology-and-Palliative-Care-Mock-Test-Plan.md) |
-| Previous Year Questions | [Research register](Previous-Year-Questions/Oncology-and-Palliative-Care-Past-Paper-Research-Register.md) |
+**Study resources**
 
-[Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+- **Concepts and topic coverage** — [Topic map](Concepts/Oncology-and-Palliative-Care-Topic-Coverage-Map.md)
+- **Topic-wise original questions** — [4 starter MCQs](MCQs/Oncology-and-Palliative-Care-Topic-Wise-Starter-MCQs.md)
+- **Chapter-only mocks** — [Mock plan](Mock-Tests/Oncology-and-Palliative-Care-Mock-Test-Plan.md)
+- **Previous Year Questions** — [Research register](Previous-Year-Questions/Oncology-and-Palliative-Care-Past-Paper-Research-Register.md)
