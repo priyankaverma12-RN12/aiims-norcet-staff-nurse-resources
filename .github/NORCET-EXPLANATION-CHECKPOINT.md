@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-run27-20261127-1424
-Scope: Group 11 existing legacy mock and reported adaptation rationale drafts only in .github/job5-drafts while Job 4 owns Nursing Foundations. No learner-facing writes until claims free.
+Scope: Group 11 existing 22 staged legacy and reported blocks and Group 12 original Q1–20 draft-only in .github/job5-drafts. No learner-facing writes until claims free.
 Claimed UTC: 2026-11-27T14:24:30Z
 Expiry UTC: 2026-11-27T14:54:30Z
 
