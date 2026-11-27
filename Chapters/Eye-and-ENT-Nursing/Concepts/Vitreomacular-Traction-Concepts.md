@@ -8,7 +8,7 @@ Vitreous aankh ke pichhle bade chamber mein bhara transparent gel hai. Iska oute
 
 Ek plastic sheet ko smooth surface se uthate hue imagine karo. Agar sheet ke beech ka point abhi chipka hua ho aur baaki part uth jaaye, toh central point par tension pad sakti hai. Isi tarah jab vitreous macula ke aas-paas separate ho lekin ek hissa chipka rahe, toh macula kheench sakti hai. Macula fine detail aur reading vision ke liye important hai. Agar attachment retina ko deform kar rahi hai toh isse VMT kehte hain. Sirf attachment without structural change ko VMA kaha jaata hai. Ye earlier macular hole bank Q3 mein already tested hai.
 
-Liquefaction aur adhesion weakening ka balance important hai. Agar gel liquefy ho jaaye lekin central attachment strong rahe, toh incomplete separation se traction ho sakti hai. Retina ke andar small spaces, swelling ya local elevation develop ho sakti hai. Severe cases mein actual macular hole bhi ban sakta hai. Har patient mein progression zaroori nahi hai.
+Liquefaction aur adhesion weakening ka balance important hai. Agar gel liquefy ho jaaye lekin central attachment strong rahe, toh incomplete separation se traction ho sakti hai. Retina ke andar small spaces, swelling ya local elevation develop ho sakti hai. Severe cases mein actual macular hole bhi ban sakta hai. Har patient mein progression zaroori nahi hai. Rapid gaze shifts ke waqt vitreous aur attached retina ke beech relative movement changing mechanical stress transmit kar sakti hai. Sirf patient ke symptoms se is force ki amount measure nahi ki ja sakti.
 
 ![Original VMT schematic](../Assets/vitreomacular-traction-schematic.svg)
 
@@ -42,7 +42,7 @@ Significant functional loss, progression ya threatening structural change mein s
 
 **Historical pharmacological option:** Ocriplasmin ek proteolytic enzyme hai jo vitreoretinal interface proteins ko cleave karne ke liye develop hua tha. Iska goal attachment release karna tha. Selected focal VMT without ERM mein historical response better ho sakta tha. Transient vision reduction aur color perception changes jaise adverse effects report hue. EU marketing authorization 30 August 2023 ko commercial reasons se withdraw hui. NICE guidance bhi marketing discontinuation note karti hai. India mein current availability is run mein establish nahi hui. Isko routinely available current therapy ya nursing-administered treatment assume nahi karna.
 
-**Specialist evidence:** Pneumatic vitreolysis mein intravitreal gas se vitreous separation induce karne ki koshish ki gayi. DRCR Retina Network AG/AH trials retinal tears aur detachments ke safety concerns ke kaaran early stop hue. Isliye gas injection ko harmless standard first-line alternative mat batao. General gas precautions already [retinal detachment notes](Retinal-Detachment-and-Surgical-Nursing.md) mein covered hain.
+**Specialist evidence:** Pneumatic vitreolysis mein intravitreal gas se vitreous separation induce karne ki koshish ki gayi. DRCR Retina Network AG/AH trials retinal tears aur detachments ke safety concerns ke kaaran early stop hue. Isliye gas injection ko harmless standard first-line alternative mat batao. Trial interpretation mein attachment release aur actual macular hole closure separate outcomes hain. Traction release hone se existing full-thickness defect automatically close ho gaya, aisa assume nahi karna. General gas precautions already [retinal detachment notes](Retinal-Detachment-and-Surgical-Nursing.md) mein covered hain.
 
 ## Nursing and follow-up
 
