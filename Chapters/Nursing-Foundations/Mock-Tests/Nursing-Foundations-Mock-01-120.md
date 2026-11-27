@@ -802,9 +802,19 @@ Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic
 
 **Correct: D. Partial-thickness skin loss with exposed dermis and no visible adipose tissue**
 
-Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red moist hota hai. Fat aur deeper structures visible nahi hone chahiye.
+Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thickness loss se viable pink ya red moist dermis dikh sakti hai. Serum-filled blister bhi ho sakta hai. Fat, granulation tissue, slough aur eschar stage 2 mein nahi hone chahiye. Pressure-related cause confirm karo. Moisture dermatitis aur skin tear ko stage 2 label mat karo.
 
-**Baaki options kyun sahi nahi hain?** Intact redness stage 1 hai. Muscle-bone stage 4 indicate kar sakte hain. Obscured depth unstageable hai.
+**Option-wise explanation:**
+- **A (Galat):** Eschar agar full-thickness damage ki depth hide kare toh unstageable injury consider hoti hai.
+- **B (Galat):** Intact nonblanchable redness stage 1 ki finding hai.
+- **C (Galat):** Exposed muscle ya bone stage 4 ke saath consistent hai.
+- **D (Sahi):** Exposed dermis aur visible fat na hona stage 2 ki depth ko describe karta hai, agar wound pressure-related hai.
+
+**Exam clue:** Stage 2 = partial thickness, dermis visible, no fat/slough/eschar.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -919,9 +929,19 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 **Correct: C. Provide a consistency suited to the patient's assessed swallowing ability**
 
-Dysphagia mein different textures swallow karne ki difficulty vary karti hai. Assessment-based consistency safer intake support kar sakti hai.
+Texture modification mein food ki consistency aur liquid ki thickness assessment ke basis par adjust hoti hai. Iska goal patient ko aisi consistency dena hai jise woh comparatively safely aur efficiently swallow kar sake. Thickened liquids har patient ke liye best nahi hote aur hydration ya intake affect kar sakte hain. Prescribed texture follow karo aur tolerance reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Universal diet individualized need ignore karti hai. Texture plan assessment replace nahi karta. Aim choking risk reduce karna hai.
+**Option-wise explanation:**
+- **A (Galat):** Diet ka aim choking aur unsafe swallowing ka risk kam karna hai, badhana nahi.
+- **B (Galat):** Swallowing ability time ke saath badal sakti hai. Texture plan future assessment replace nahi karta.
+- **C (Sahi):** Assessed ability ke hisaab se consistency select karna individualized dysphagia care ka part hai.
+- **D (Galat):** Har patient ka swallowing impairment same nahi hota. Universal diet unsuitable ho sakti hai.
+
+**Exam clue:** Texture is prescribed after assessment, not universally thickened.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care) · [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -974,9 +994,19 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 
 **Correct: A. Stage 4**
 
-Stage 4 full-thickness skin aur tissue loss hai jisme fascia, muscle, tendon, cartilage ya bone exposed ya directly palpable ho sakte hain.
+Tendon muscle ko bone se jodta hai. Pressure injury mein tendon ya bone expose hone ka matlab damage skin se kaafi neeche pahunch chuka hai. Yeh stage 4 ki finding hai. Patient ki perfusion, infection ke signs, pain aur wound extent assess karo aur specialist ko involve karo. Exposed bone se osteomyelitis ka suspicion ho sakta hai, lekin bone exposure akela infection confirm nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 intact skin hai. Stage 2 dermis tak limited hai. Stage 3 mein deeper structures exposed nahi hote.
+**Option-wise explanation:**
+- **A (Sahi):** Stage 4 mein full-thickness tissue loss ke saath tendon ya bone exposed ya palpable ho sakta hai.
+- **B (Galat):** Stage 3 mein tendon ya bone expose nahi hoti, jo yahan present hai.
+- **C (Galat):** Stage 1 mein skin intact hoti hai.
+- **D (Galat):** Stage 2 mein sirf partial-thickness skin loss hota hai.
+
+**Exam clue:** Exposed/palpable tendon or bone in pressure injury = stage 4.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1102,9 +1132,19 @@ Adult conventional CPR mein 30 compressions ke baad two breaths diye jaate hain.
 
 **Correct: C. Stage 1**
 
-Stage 1 mein skin intact hoti hai lekin localized nonblanchable redness ya color change present ho sakta hai. Dark skin mein warmth, firmness aur pain bhi assess karna chahiye.
+Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein rehta hai, pressure aur shear se tissue ka blood supply aur cell function affect ho sakte hain. Agar skin abhi intact hai lekin localized redness pressure release karne par bhi fade nahi hoti, toh stage 1 consider karte hain. Dark skin mein visible redness kam clear ho sakti hai, isliye surrounding skin se color, warmth, firmness aur pain compare karo. Pressure offload karo aur reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Stage 2 partial-thickness skin loss hai. Stage 3 full-thickness loss hai. Unstageable mein depth obscured hoti hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 2 mein skin ka partial-thickness loss ya serum-filled blister hota hai, jo is stem mein nahi hai.
+- **B (Galat):** Unstageable mein open full-thickness injury ki depth slough ya eschar se hidden hoti hai.
+- **C (Sahi):** Intact skin par persistent nonblanchable redness aur pressure history stage 1 ko support karti hai.
+- **D (Galat):** Stage 3 mein skin ki poori thickness lost hoti hai aur fat visible ho sakta hai. Yahan skin intact hai.
+
+**Exam clue:** Intact skin + nonblanchable localized redness = stage 1.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1268,9 +1308,19 @@ Checklist multiple safety details confirm karti hai. Isse preventable mismatch a
 
 **Correct: B. Reassess alertness and swallowing safety before offering food**
 
-Safe swallow ke liye alertness aur coordination important hain. Sedated patient mein aspiration risk increase ho sakta hai. Nurse feeding safety reassess karti hai.
+Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti hai. Agar patient fully awake nahi hai toh food mouth mein retain ya airway mein enter ho sakta hai. Nurse meal se pehle responsiveness aur safe swallow status assess karti hai. Unsafe findings mein oral feed defer karke team ko inform karo.
 
-**Baaki options kyun sahi nahi hain?** Rapid feeding, unresponsive feeding aur unapproved straw use unsafe ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Straw kuch patients mein helpful aur doosron mein unsuitable ho sakta hai. Assessment ke bina use mat karo.
+- **B (Sahi):** Alertness aur swallow safety reassess karna aspiration risk identify karta hai.
+- **C (Galat):** Unresponsive patient ko orally feed karna airway protection compromise karta hai.
+- **D (Galat):** Rapid feeding coordination improve nahi karti aur choking risk badha sakti hai.
+
+**Exam clue:** Alert enough and cleared to swallow before oral feeding.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2855,9 +2905,19 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 **Correct: A. Stop oral intake temporarily, assess airway and arrange swallowing evaluation**
 
-Cough aur wet voice aspiration risk ke clues hain. Nurse feeding stop karke breathing assess karti hai aur safe swallowing plan confirm karti hai.
+Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur wet ya gurgly voice liquid ke airway ke paas pahunchne ka warning sign ho sakte hain. Oral intake rok kar airway aur breathing assess karo. Agar severe distress hai toh emergency help activate karo. Trained swallowing assessment aur safe alternative medication/nutrition plan arrange karo. Cough absent hona bhi aspiration ko rule out nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Larger sips aur continued oral intake aspiration worsen kar sakte hain. Tablets bhi unsafe swallow ho sakti hain.
+**Option-wise explanation:**
+- **A (Sahi):** Feeding stop karna, airway assess karna aur swallowing evaluation arrange karna patient safety prioritize karta hai.
+- **B (Galat):** Tablets aur water bhi aspirate ho sakte hain. Oral medication route reassess karna chahiye.
+- **C (Galat):** Repeated coughing ko routine maan kar feeding continue karna unsafe hai.
+- **D (Galat):** Large sips patient ki swallowing capacity exceed kar sakte hain.
+
+**Exam clue:** Cough or wet voice during intake = stop, assess, refer.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2981,9 +3041,19 @@ Low BP mein antihypertensive further hypotension cause kar sakti hai. Nurse curr
 
 **Correct: C. Upright sitting with individualized swallowing recommendations**
 
-Upright position mein food ko safely swallow karne mein help mil sakti hai. Dysphagia specialist ki recommended posture aur texture follow karna important hai.
+Dysphagia ka matlab nigalne mein dikkat hai. Aspiration tab hoti hai jab food, saliva ya liquid airway mein chala jaata hai. Agar patient oral intake ke liye assessed safe hai, toh upright position aur prescribed head posture swallowing control mein help karte hain. Patient ko small manageable bites aur individualized feeding assistance do. Sirf upright bithane se unsafe swallow safe nahi ho jaata.
 
-**Baaki options kyun sahi nahi hain?** Flat aur head-down positions aspiration risk badha sakti hain. Unassessed prone feeding unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Bina assessment prone feeding mein airway aur swallowing monitor karna difficult ho sakta hai.
+- **B (Galat):** Head-down tilt routine oral feeding posture nahi hai aur swallowing safety compromise kar sakta hai.
+- **C (Sahi):** Upright sitting aur assessed swallow plan food ka control aur airway protection support karte hain. Yeh best listed choice hai.
+- **D (Galat):** Flat supine mein food aur liquid ko safely control karna mushkil ho sakta hai.
+
+**Exam clue:** Position plus individualized swallow plan, not position alone.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -3200,9 +3270,19 @@ Nasal cannula nares mein oxygen deliver karti hai aur mouth relatively free reht
 
 **Correct: C. Stage 3**
 
-Stage 3 mein entire skin thickness lost ho sakti hai aur fat visible ho sakta hai. Exposed deeper supporting structures stage 4 suggest karte hain.
+Full-thickness skin loss mein epidermis aur dermis dono ki poori thickness damage ho chuki hoti hai. Stage 3 mein subcutaneous adipose tissue yani skin ke neeche ka fat dikh sakta hai. Wound ki depth body site ke hisaab se vary karti hai. Agar fascia, muscle, tendon, ligament, cartilage ya bone exposed ya directly palpable ho, toh stage 4 consider karo. Slough poori depth hide kare toh stage confirm nahi kar sakte.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 skin intact hai. Stage 2 superficial loss hai. Stage 4 deeper tissue exposure se related hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 1 mein skin intact hoti hai, isliye fat visible nahi hota.
+- **B (Galat):** Stage 2 dermis tak limited hota hai aur fat visible nahi hota.
+- **C (Sahi):** Visible adipose tissue aur deeper structure exposure na hona stage 3 ke saath consistent hai.
+- **D (Galat):** Stage 4 ke liye deeper supporting structure exposed ya directly palpable hona chahiye.
+
+**Exam clue:** Visible fat without exposed deeper structures = stage 3, when depth is assessable.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
