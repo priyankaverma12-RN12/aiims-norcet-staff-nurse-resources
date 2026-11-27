@@ -2,7 +2,9 @@
 
 Independently adapted practice from third-party reports, not verbatim or authenticated official keys.
 
-### GMCH Nursing Officer, 29 June 2025 — reported
+<a name="gmch-nursing-officer-29-june-2025--reported"></a>
+
+### 🟣 GMCH Nursing Officer, 29 June 2025 — reported
 
 <!-- job4-metadata -->
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition · Source-based adaptation
@@ -21,7 +23,7 @@ Which information is the main evidence base for identifying an individual patien
 
 
 <!-- job4-metadata -->
-**Exam evidence:** **🟣 [GMCH Nursing Officer — 29 June 2025 · Related tested concept](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf)** (booklet Q18/Q5/Q57/Q32 in different sets, previously inspected extracted text). Third-party question source in the explanation was reopened. Page image retrieval failed. Official answer key not confirmed. This practice item is independently adapted, not a verbatim PYQ.
+**Exam evidence:** Related tested concept — [official recruitment booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf) (booklet Q18/Q5/Q57/Q32 in different sets, previously inspected extracted text). Third-party question source in the explanation was reopened. Page image retrieval failed. Official answer key not confirmed. This practice item is independently adapted, not a verbatim PYQ.
 
 **Related concept:** [Nursing process](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [OpenStax nursing process](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
@@ -29,7 +31,9 @@ Which information is the main evidence base for identifying an individual patien
 <!-- /job4-metadata -->
 </details>
 
-### AIIMS Jodhpur Nursing Officer, 10 December 2019 — memory-based report
+<a name="aiims-jodhpur-nursing-officer-10-december-2019--memory-based-report"></a>
+
+### 🔵 AIIMS Jodhpur Nursing Officer, 10 December 2019 — memory-based report
 
 <!-- job4-metadata -->
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition · Source-based adaptation
@@ -48,7 +52,7 @@ Which phase involves gathering and verifying information about a patient's actua
 
 
 <!-- job4-metadata -->
-**Exam evidence:** **🔵 AIIMS Jodhpur Nursing Officer — 10 December 2019 · Memory-based report** (source linked in the explanation above, reopened). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
+**Exam evidence:** Retrieved memory-based report (source linked in the explanation above, reopened). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
 
 **Related concept:** [Nursing process](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [OpenStax nursing process](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
