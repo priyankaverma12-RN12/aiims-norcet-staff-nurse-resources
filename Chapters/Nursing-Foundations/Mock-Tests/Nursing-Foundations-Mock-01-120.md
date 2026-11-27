@@ -380,9 +380,20 @@ Dose calculate karne ke liye prescribed amount ko one tablet ki strength se divi
 
 **Correct: D. Verify two approved identifiers against the order**
 
-Nurse patient ka naam aur doosra approved identifier, jaise date of birth ya hospital ID, order se match karti hai. Same surname hone par ye check especially important hai.
+<!-- job5-rationale -->
+Patient identification mein do independent approved person-specific identifiers use karte hain, jaise full name aur hospital registration number ya date of birth. Patient se possible ho toh identifiers actively state karvao aur wristband/record ko intended order se match karo. Same surname patients mein sirf naam ka ek part reliable nahi. Mismatch ya missing wristband ko approved process se resolve kiye bina nonurgent procedure start mat karo.
 
-**Baaki options kyun sahi nahi hain?** Room aur bed change ho sakte hain. Neighbor ki identification reliable nahi hai. Missing wristband ko policy se resolve karna hai.
+**Option-by-option reasoning**
+
+- **A:** Room number patient ka permanent identifier nahi, aur surname duplicate ho sakta hai.
+- **B:** Bed location change ho sakti hai, missing band ko policy se resolve karo.
+- **C:** Neighbor authorized reliable identification source nahi hai.
+- **D:** Two approved identifiers order se match karna wrong-patient risk reduce karta hai.
+
+**Exam clue:** Two identifiers, not room or bed number.
+
+[Concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -865,9 +876,20 @@ Stage 4 full-thickness skin aur tissue loss hai jisme fascia, muscle, tendon, ca
 
 **Correct: A. Assess the cause, arrange supervision and implement individualized fall precautions**
 
-Sedation balance aur alertness reduce kar sakti hai. Nurse toileting, pain, confusion aur mobility needs assess karke close support arrange karti hai.
+<!-- job5-rationale -->
+Sedative alertness, balance aur reaction time impair kar sakta hai. Confused patient ka restlessness pain, toileting need, delirium, hypoxia ya medicine effect se related ho sakta hai. Pehle immediate safety ensure karo, cause assess karo, appropriate observation aur assistance arrange karo. Individualized precautions aur least restrictive measures use karo. Restraints only applicable authorization and safety criteria ke under use hote hain.
 
-**Baaki options kyun sahi nahi hain?** Restraint least restrictive alternatives ke baad hi indicated ho sakti hai. Rails alone safe nahi hain. Unsupported walking fall risk badhati hai.
+**Option-by-option reasoning**
+
+- **A:** Cause assessment, supervision aur tailored prevention appropriate hain.
+- **B:** Four-point restraints without assessment unnecessary harm aur restriction create karte hain.
+- **C:** All four rails alone climbing injury or entrapment risk create kar sakte hain aur circumstances mein restraint bhi ho sakte hain.
+- **D:** Unsupervised walking sedation aur confusion mein fall risk badhati hai.
+
+**Exam clue:** Treat the cause and use least restrictive prevention.
+
+[Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -1272,9 +1294,20 @@ Clarification ka matlab ambiguous message ka exact meaning patient se verify kar
 
 **Correct: B. Low locked bed, accessible call bell and clear well-lit walking path**
 
-Low locked bed aur clear pathway patient ko safely transfer aur walk karne mein help karte hain. Call bell accessible ho toh patient help bula sakta hai.
+<!-- job5-rationale -->
+Fall prevention environment ka purpose tripping aur unsafe transfer ke hazards reduce karna hai. Low locked bed stable access provide karta hai, reachable call bell se patient assistance mang sakta hai, clear well-lit pathway obstacles identify karne mein help karta hai. Appropriate footwear, mobility aid aur personal risk plan bhi ensure karo. Environment alone every fall prevent nahi kar sakta.
 
-**Baaki options kyun sahi nahi hain?** High unlocked bed, darkness aur clutter injury ka risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Frequently moved furniture unpredictable obstacles create karti hai.
+- **B:** Low locked bed, call bell aur clear lighting safer combination hain.
+- **C:** Dark corridor visibility reduce karta hai.
+- **D:** High unlocked bed aur unreachable footwear unsafe transfer promote karte hain.
+
+**Exam clue:** Low, locked, lit and reachable.
+
+[Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -1996,9 +2029,20 @@ Visible dirt aur organic material soap-water se physically remove kiya ja sakta 
 
 **Correct: A. Assess responsiveness, airway, breathing, circulation and possible injury before moving**
 
-Fall ke baad head, spine ya limb injury ho sakti hai. Nurse pehle immediate threats check karti hai aur safe movement ke liye help arrange karti hai.
+<!-- job5-rationale -->
+Unwitnessed fall mein head injury, fracture ya acute illness ka possibility hota hai. Patient ko automatically lift mat karo. Responsiveness aur ABC promptly assess karo, emergency help activate karo as indicated, pain, bleeding, neurological status aur possible injury assess karo. Movement only immediate danger ya indicated resuscitation ki requirement ke hisaab se trained protocol follow karke karo. Documentation patient assessment ke baad hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Blind lifting injury worsen kar sakti hai. Reporting assessment ke baad hoti hai. Standing fracture exclude nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Immediate ABC and injury assessment priority hai.
+- **B:** Incident reporting important hai but emergency care se pehle nahi.
+- **C:** Unassessed lifting injury worsen kar sakti hai.
+- **D:** Unsupported standing further injury cause kar sakti hai.
+
+**Exam clue:** Patient first, report after immediate care.
+
+[Concept reference](https://www.ahrq.gov/patient-safety/settings/long-term-care/resource/injuries/fallspx/man2.html)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
