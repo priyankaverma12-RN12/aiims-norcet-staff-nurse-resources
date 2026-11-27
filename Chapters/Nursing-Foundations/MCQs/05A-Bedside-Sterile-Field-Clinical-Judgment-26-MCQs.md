@@ -527,9 +527,7 @@ D. Both permit touching sterile key parts with bare hands
 
 **Exam evidence:** [Retrieved MPESB report — medical versus surgical asepsis](https://testbook.com/question-answer/which-one-of-the-following-is-true-of-surgical-ase--677e31cec4ab74accceeaef8). Related tested concept only, not an exact question match or authenticated official key.
 
-**▶️ [YouTube MCQ practice — Sahu Sir, Medical vs Surgical Asepsis](https://www.youtube.com/watch?v=VzpNPFxvlBo)** — indexed topic description only, specific item unverified.
-
-**▶️ [YouTube MCQ practice — Bhushan Science - Nursing, medical vs surgical asepsis](https://www.youtube.com/watch?v=OvVeBRQ9t2E)** — indexed description explicitly lists MCQs comparing clean and sterile techniques. Topic-level only, exact question and playback pending.
+**▶️ [YouTube MCQ practice — Sahu Sir, Medical vs Surgical Asepsis](https://www.youtube.com/watch?v=VzpNPFxvlBo)** — indexed topic description only, specific item unverified. · **[Bhushan Science - Nursing, medical vs surgical asepsis MCQ practice](https://www.youtube.com/watch?v=OvVeBRQ9t2E)** — indexed description explicitly lists MCQs comparing clean and sterile techniques. Topic-level only, exact question and playback pending.
 
 </details>
 
