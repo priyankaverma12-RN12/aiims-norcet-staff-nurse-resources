@@ -2,7 +2,9 @@
 
 **Study-ready, not studied.** [26 additional original questions](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md) plus original Group 06 Q11,13,15,20 = 30 allocated. This guide emphasizes nursing evaluation, early deterioration recognition and escalation. It is not a prescribing or emergency dosing manual. Use drug-specific references, authorized clinical protocols and supervised competence.
 
-## Therapeutic response
+<a name="therapeutic-response"></a>
+
+## 🟠 Therapeutic response
 
 🟠 **HIGH YIELD.** Medication dene ke baad nursing responsibility finish nahi hoti. Assess karo ki intended effect achieve hua ya nahi and unintended effects develop hue ya nahi. Baseline assessment se comparison possible hota hai. Reassessment timing onset, route, clinical urgency and hospital policy par depend karti hai.
 
@@ -15,9 +17,11 @@
 
 Example: oxygen support par SpO2 normal ho sakti hai despite inadequate ventilation. New shallow breathing, difficulty waking or severe circulatory changes ko normal reading ke basis par ignore mat karo. Urgent assessment and escalation required. Opioid toxicity suspected ho toh emergency support, ventilation and authorized reversal protocol follow karo.
 
-[Q1–6](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md).
+[Q1–6](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md#q1-a-patient-receives-an-analgesic-for-pain-rated-7-out-of-10-which-observation-best-evaluates-its-therapeutic-effect).
 
-## Adverse reactions
+<a name="adverse-reactions"></a>
+
+## 🔴 Adverse reactions
 
 🔴 **MOST IMPORTANT.** Therapeutic effect intended benefit hai. Side effect additional effect hai jo known ho sakta hai. ADR harmful unintended reaction hai during medicine use, even when medicine correctly given. Side effect and ADR terminology may overlap. Allergy immune-mediated reaction ho sakti hai, intolerance alag mechanism se ho sakti hai. Report exact symptoms and timing rather than automatically assign allergy label.
 
@@ -25,17 +29,25 @@ Anaphylaxis mein airway, breathing or circulation compromise rapidly develop ho 
 
 Suspected ADR ka record: medicine, dose, route, timing, symptoms, observations, actions and outcome. Causality fully proven hona necessary nahi for suspected reaction reporting. Local pharmacovigilance route follow karo. Report patient response and update allergy or adverse reaction record after appropriate clinical review.
 
-[Q7–12](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md).
+[Q7–12](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md#q7-a-patient-reports-mild-nausea-after-starting-a-medication-what-should-guide-the-nurses-response).
 
-## Therapeutic monitoring
+<a name="therapeutic-monitoring"></a>
+
+## 🟠 Therapeutic monitoring
+
+🟠 **HIGH YIELD.**
 
 Narrow therapeutic window mein effective exposure and toxic exposure ke beech safety margin limited ho sakti hai. Drug-specific concentration monitoring required ho sakti hai. Trough sample usually next dose se pehle specified timing par collect hota hai. Exact sampling schedule drug-specific hai. Mistimed sample ko valid trough label mat karo. Actual sample and dose time record karke laboratory and clinical team ko clarify karo. Unexpected level mein symptoms, dosing timeline and organ function assess karo. Independently dose change mat karo.
 
 Some therapies ka expected benefit weeks mein develop hota hai. Patient ko realistic response timing and follow-up explain karo. Early lack of relief se automatic extra dose safe nahi ho jaati.
 
-[Q13–16](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md).
+[Q13–16](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md#q13-a-drug-level-was-ordered-as-a-trough-but-the-blood-specimen-was-taken-shortly-after-administration-what-should-the-nurse-do).
 
-## Clinical warning signs
+<a name="clinical-warning-signs"></a>
+
+## 🔴 Clinical warning signs
+
+🔴 **MOST IMPORTANT.**
 
 | Scenario | Nursing judgment |
 |---|---|
@@ -48,9 +60,13 @@ Some therapies ka expected benefit weeks mein develop hota hai. Patient ko reali
 
 Disease-specific pharmacology and exact therapeutic ranges remain in the relevant system and drug-class packages. A single finding does not establish the cause. Monitor actual response and communicate trends.
 
-[Q17–22](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md).
+[Q17–22](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md#q17-a-patient-prescribed-an-anticoagulant-reports-black-tarry-stools-and-new-weakness-what-is-the-priority).
 
-## Continuity and refusal
+<a name="continuity-and-refusal"></a>
+
+## 🟠 Continuity and refusal
+
+🟠 **HIGH YIELD.**
 
 Patient refusal mein concern explore karo, understanding assess karo and authorized alternatives discuss karo. Coercion or false administration record unacceptable hai. Time-critical medicine ke essential pre-check pending ho toh urgent assessment and escalation arrange karo, silent omission or unsafe administration nahi. Handover mein intended response, adverse effects, upcoming tests and escalation triggers include karo. Recurrent hypoglycemia mein immediate protocol-based treatment ke baad pattern review and recurrence prevention plan necessary hai.
 
@@ -65,7 +81,7 @@ flowchart TD
  F --> G
 ```
 
-[Q23–26](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md).
+[Q23–26](../MCQs/06C-Medication-Monitoring-and-Response-26-MCQs.md#q23-a-patient-refuses-a-scheduled-medication-because-of-a-previous-unpleasant-effect-what-should-the-nurse-do-first).
 
 ## 📖 References and practice
 
@@ -75,3 +91,16 @@ flowchart TD
 - Teaching: [Adda247 Nursing NORCET 11 Pharmacology Complete Episode 1](https://www.youtube.com/watch?v=ELnHRHgqIIQ), indexed description mentions monitoring and ADRs.
 - MCQ practice leads: [NORCET 7 MSN/Pharmacology MCQ series](https://www.youtube.com/watch?v=qykY09t1nFI), indexed ADR and interaction description, [NORCET 10 most important questions](https://www.youtube.com/watch?v=2ImABAT3XTA), indexed chapter 08:32:15 dose-response and ADRs. Channel and actual question discussion not verified. No specific item mapping confirmed. All Q1–26 remain pending.
 - [Reported HPSSC question adaptation](../Previous-Year-Questions/06C-Monitoring-Reported-Evidence.md).
+
+
+## ▶️ Evidence and practice update — 27 November 2026
+
+| Subsection | Source and practice status |
+|---|---|
+| Therapeutic response Q1–6 | **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only](https://testbook.com/question-answer/which-of-the-following-objective-assessment-data-w--61766ff4277fdc0fd9bc45b5)**, retrieved memory-based report about respiratory assessment before opioids. Different clinical scenario. Specific practice pending. |
+| Adverse reactions Q7–12 | **[🟣 RRB Nursing Superintendent 12 March 2026 Shift 2 — related tested concept only](https://testbook.com/question-answer/which-nursing-intervention-is-most-appropriate-whe--69df45cb479c93fb94e236c1)** and **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only](https://testbook.com/question-answer/anaphylactic-shock-is-treated-with-which-of-the-fo--61764e896cfb45d93d5714ba)**. **▶️ [ADAPT NCLEX REVIEW anaphylaxis MCQ](https://www.youtube.com/watch?v=UD-vn2-tR8Y&t=2860s)**, published chapter 47:40 for Q8 topic only. Other five practice gaps remain. |
+| Therapeutic monitoring Q13–16 | **[🟣 AIIMS NORCET 20 November 2021 — related tested concept only](https://testbook.com/question-answer/for-long-term-use-of-which-of-the-following-drug-i--625e7efd16b9b2e873d669ce)**, reported lithium monitoring. **▶️ [Nursing Wallah by PW — TDM practice](https://www.youtube.com/watch?v=blBobDCyZWQ&t=5790s)**, published chapter 01:36:30 aminoglycosides, Q14 topic-level only. Other three gaps remain. |
+| Clinical warning signs Q17–22 | **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related tested concept only](https://testbook.com/question-answer/a-patient-receiving-an-unfractionated-heparin-infu--692ef2ee1077d5c8bfea7647)**, reported excessive anticoagulation response. Different scenario and drug-specific protocol. Specific practice pending. |
+| Continuity and refusal Q23–26 | Specific MCQ practice pending. |
+
+All historical labels refer to third-party reports. No official keys authenticated. Published video chapter markers are not proof of exact-question playback. [Evidence register](../Previous-Year-Questions/06C-Monitoring-Reported-Evidence.md).
