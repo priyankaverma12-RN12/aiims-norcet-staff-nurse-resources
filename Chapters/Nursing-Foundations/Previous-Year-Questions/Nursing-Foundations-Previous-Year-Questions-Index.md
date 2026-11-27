@@ -39,3 +39,6 @@
 
 
 - [Group 05A — bedside sterile-field clinical judgment](05A-Asepsis-Reported-Evidence.md): one independent adaptation of directly retrieved AIIMS Delhi Nursing Officer 15 September 2019 memory-based report. Official key and overlap not authenticated, historical count remains 34. ESIC 2024 and MPESB 2022 indexed only; RRB 2026 catheter lead reserved.
+
+
+- [Group 05B isolation care continuity historical evidence gaps](05B-Isolation-Care-Reported-Evidence-Gaps.md): RMLIMS and RRB indexed leads could not be directly retrieved and do not establish the narrow tested concept. NVS broad IPC lead reserved. Zero new counted adaptations, count remains 34 pending cumulative overlap and official authentication.
