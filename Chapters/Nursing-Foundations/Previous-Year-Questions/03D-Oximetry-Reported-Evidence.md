@@ -2,11 +2,13 @@
 
 Third-party question-level evidence. Wording and option order independently adapted. Official paper and key not independently authenticated. Both historical concepts have been retrieved at question level, but count stays 34 until full historical overlap reconciliation.
 
-### PYQ1. GMCH Chandigarh Staff Nurse — 28 August 2022 (third-party reported paper)
+<a name="pyq1-gmch-chandigarh-staff-nurse--28-august-2022-third-party-reported-paper"></a>
+
+### 🔵 PYQ1. GMCH Chandigarh Staff Nurse — 28 August 2022 (third-party reported paper)
 
 Which pair of measurements is normally displayed by a conventional bedside pulse oximeter?
 
-**Difficulty:** Easy | **Priority:** High
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Peripheral oxygen saturation and pulse rate
 - **B.** Arterial carbon dioxide pressure and respiratory rate
@@ -25,15 +27,21 @@ Which pair of measurements is normally displayed by a conventional bedside pulse
 - **C.** Hemoglobin concentration aur pH laboratory measurements hain, ordinary oximeter inhe measure nahi karta.
 - **D.** Systolic aur diastolic BP pressure measurement se milte hain, oximetry optical saturation assessment hai.
 
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Nursing Margdarshan R.N.M., image-based equipment questions](https://www.youtube.com/watch?v=tUteiKjol8s)** · Indexed description includes pulse oximeter among expected equipment questions; device-level supplementary practice only. Exact question coverage and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 Source: [GMCH reported question and answer, full page inspected](https://testbook.com/question-answer/pulse-oximeter-is-used-to-measure--630dab74426ebd28603fbbf2). Paper question number not established.
 
-### PYQ2. AIIMS NORCET — 1 September 2020 (memory-based report, indexed full question/options/key)
+<a name="pyq2-aiims-norcet--1-september-2020-memory-based-report-indexed-full-questionoptionskey"></a>
+
+### 🔵 PYQ2. AIIMS NORCET — 1 September 2020 (memory-based report, indexed full question/options/key)
 
 Which finding cannot be directly obtained from a conventional standalone pulse oximeter?
 
-**Difficulty:** Easy | **Priority:** High
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Estimated oxygen saturation percentage
 - **B.** Optical pulse rate
@@ -52,6 +60,12 @@ Which finding cannot be directly obtained from a conventional standalone pulse o
 - **B.** Pulse rate optical pulsation se estimate kiya ja sakta hai, but ECG se distinction maintain karo.
 - **D.** Waveform-capable oximeter plethysmographic optical signal display kar sakta hai. Yeh ECG waveform nahi hai.
 
+
+<!-- job4-metadata -->
+**Evidence update:** [Direct non-AMP question page retrieved 27 November 2026](https://testbook.com/question-answer/the-activity-not-recorded-by-pulse-oximeter--6177b8dc6b46604c7256c0c6); memory-based exam attribution and options confirmed at third-party level. Original AMP source limitation below refers to earlier retrieval. Not an authenticated official key.
+
+**▶️ [YouTube MCQ practice — Nursing Margdarshan R.N.M., image-based equipment questions](https://www.youtube.com/watch?v=tUteiKjol8s)** · Indexed description includes pulse oximeter among expected equipment questions; device-level supplementary practice only. Exact question coverage and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 Source: [NORCET 2020 memory-based indexed question](https://testbook.com/question-answer/the-activity-not-recorded-by-pulse-oximeter--6177b8dc6b46604c7256c0c6/amp). Search result displayed original options and reported key, direct page reopening failed. Paper question number unavailable. Option D independently clarified rather than reproduce ambiguous oxygen wording.
