@@ -46,5 +46,6 @@
 | [CSSD workflow and quality assurance](02A-CSSD-Workflow-Quality-Assurance-30-MCQs.md) | 30 |
 | [Equipment disinfection and endoscope reprocessing](02B-Equipment-Disinfection-and-Endoscope-Reprocessing-30-MCQs.md) | 30 |
 | [Sterilization methods and monitoring](02C-Sterilization-Methods-and-Monitoring-15-MCQs.md) | 15 |
+| [Standard precautions and safe patient care](03A-Standard-Precautions-and-Safe-Patient-Care-30-MCQs.md) | 30 |
 
-**Current indexed inventory: 1,305 original question slots**, 590 Medium and 715 Difficult, excluding four legacy starter items. Initial 1,200 plus 105 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
+**Current indexed inventory: 1,335 original question slots**, 604 Medium and 731 Difficult, excluding four legacy starter items. Initial 1,200 plus 135 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
