@@ -7,7 +7,7 @@
 ### Q1. A nurse realizes at the end of a shift that a care event was not documented when it occurred. Which action is appropriate?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 RRB Nursing Superintendent 2026 · Shift II — related concept**
 <!-- /job4-metadata -->
 
 
@@ -33,6 +33,8 @@
 **Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift II reported question](https://testbook.com/question-answer/during-a-health-camp-a-nurse-ensures-that-all-pat--69df45d9ad0cd59c4a82a634). Reported question page inspected. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -65,6 +67,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -97,13 +101,15 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
 ### Q4. A nurse plans to administer a scheduled drug in ten minutes. Which medication documentation practice is safest?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety · **🟣 RRB Nursing Superintendent 2026 · Shift II — related concept**
 <!-- /job4-metadata -->
 
 
@@ -129,6 +135,8 @@
 **Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift II reported question](https://testbook.com/question-answer/during-a-health-camp-a-nurse-ensures-that-all-pat--69df45d9ad0cd59c4a82a634). Reported question page inspected. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -161,13 +169,15 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q6. A nurse documents, "Patient was difficult all morning." What is the key improvement needed?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -193,13 +203,15 @@
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient tells the nurse about a symptom using an unusual expression. Which documentation method best preserves the subjective information?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -225,6 +237,8 @@
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -257,6 +271,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -289,6 +305,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -321,6 +339,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -353,6 +373,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -385,6 +407,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -417,6 +441,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -449,6 +475,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -481,6 +509,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -513,6 +543,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -545,6 +577,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Client dignity and privacy, ADAPT NCLEX REVIEW (04:48)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=288s)** · Published topic chapter, supplementary NCLEX practice; not Indian legal guidance or exact question verification.
 <!-- /job4-metadata -->
 </details>
 
@@ -577,6 +611,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -609,13 +645,15 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
 ### Q20. A clinician is reviewing an incident that caused a minor injury. Which distinction between clinical chart and safety incident report is appropriate?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety · **🟣 SGPGI Staff Nurse 2024 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -641,6 +679,8 @@
 **Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q8, ID 34](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#common-formats) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -673,13 +713,15 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
 ### Q22. An audit finds many nursing entries missing the patient's response to interventions. Which improvement is most useful?
 
 <!-- job4-metadata -->
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 RRB Nursing Superintendent 2026 · Shift I — related concept**
 <!-- /job4-metadata -->
 
 
@@ -705,6 +747,8 @@
 **Exam evidence:** 🟣 Related tested concept only — [RRB Nursing Superintendent 12 March 2026 shift I reported question](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Reported question page inspected. Not an exact match or independently authenticated official key.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed description confirms dedicated nursing foundations MCQs; specific format/item, channel and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -737,6 +781,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation). Dedicated practice video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific electronic-record, charting, privacy or teaching-documentation scenario not established.
 <!-- /job4-metadata -->
 </details>
 
