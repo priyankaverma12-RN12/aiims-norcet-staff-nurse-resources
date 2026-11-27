@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-manual-run46-20261127-1856
-Scope: Group24 original bank verified. Stage matching 20 legacy rationales under .github/job5-drafts only. No shared mocks, indexes or new questions.
+Scope: Group24 original and staging verified. Integrate 20 matching legacy rationales in Mock01–05 only. No metadata, indexes or new questions.
 Claimed UTC: 2026-11-27T18:56:00Z
 Expiry UTC: 2026-11-27T19:26:00Z
 
