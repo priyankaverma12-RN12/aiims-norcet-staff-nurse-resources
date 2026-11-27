@@ -29,9 +29,8 @@ Individual drain trends bleeding ya fluid collection ke clues de sakte hain. Acc
 
 ### Q2. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -1032,9 +1031,8 @@ Moisturizer dry skin mein water loss reduce karne aur barrier support karne mein
 
 ### Q49. A planned walking session is due, but the patient now has new chest pain and diaphoresis. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -1508,9 +1506,8 @@ Single-use sterile equipment microorganisms aur blood transfer ka risk kam karti
 
 ### Q71. Which action is an independent nursing intervention within the nurse's competence and facility policy?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -2427,9 +2424,8 @@ Midstream technique urethral aur skin contamination reduce karne mein help karti
 
 ### Q114. Which nursing diagnosis is written as a risk diagnosis without current defining signs of the problem?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
