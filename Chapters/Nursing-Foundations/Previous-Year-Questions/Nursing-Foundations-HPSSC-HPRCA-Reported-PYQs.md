@@ -328,7 +328,24 @@ Fried's rule historical infant dose formula hai. Young age in years aur Clark we
 
 **Correct: B. Immediate clinical assessment and vital signs with escalation as needed**
 
-Acute patient mein ABC aur vital signs assess karna routine paperwork se pehle important hai. Indexed question admission ke first nursing step par tha, lekin full page reopen nahi hua. Isliye scenario independently clarify kiya gaya hai aur exact official answer claim nahi kiya.
+Clinically unstable patient mein airway, breathing ya circulation compromise ho sakta hai. Nurse immediate ABCDE assessment karti hai, vital signs check karti hai aur urgent help activate karti hai. Life-threatening problem milne par authorized emergency care assessment ke saath hi shuru karo. Paperwork aur routine orientation baad mein ki ja sakti hain. Patient ko safe monitoring aur appropriate team support ki zaroorat hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Meal schedule routine orientation ka part hai. Respiratory ya circulatory deterioration ko pehle address karna zaroori hai.
+- **B (Sahi):** Immediate assessment, vital signs aur escalation potentially life-threatening problems ko identify aur treat karne ki priority hain.
+- **C (Galat):** Full administrative form pehle complete karne se urgent care delay ho sakti hai.
+- **D (Galat):** Belongings inventory useful hai lekin unstable patient ki immediate clinical safety se pehle nahi.
+
+**Exam clue:** Unstable admission = assess and stabilize before paperwork.
+
+**Clinical references:** [Resuscitation Council UK ABCDE approach](https://www.resus.org.uk/library/abcde-approach) · [OpenStax Patient Admission](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission).
+
+**Historical evidence limitation:** Existing source attribution remains provisional. The indexed third-party paper was located again, but direct retrieval failed. HPRCA Post Code 25026 final-key listing dated 29 May 2026 was indexed, not the official item or its matching answer. This independently clarified adaptation is not an authenticated exact question.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Previous evidence note (preserved):** Acute patient mein ABC aur vital signs assess karna routine paperwork se pehle important hai. Indexed question admission ke first nursing step par tha, lekin full page reopen nahi hua. Isliye scenario independently clarify kiya gaya hai aur exact official answer claim nahi kiya.
 
 </details>
 
