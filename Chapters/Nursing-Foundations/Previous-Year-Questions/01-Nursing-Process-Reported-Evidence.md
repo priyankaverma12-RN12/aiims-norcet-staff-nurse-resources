@@ -21,9 +21,11 @@ Which information is the main evidence base for identifying an individual patien
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🟣 Official recruitment paper concept verified in extracted text — [GMCH 29 June 2025 booklet, Q18/Q5/Q57/Q32 in different sets](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Page image retrieval failed. Official answer key not confirmed. This practice item is independently adapted, not a verbatim PYQ.
+**Exam evidence:** **🟣 [GMCH Nursing Officer — 29 June 2025 · Related tested concept](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf)** (booklet Q18/Q5/Q57/Q32 in different sets, previously inspected extracted text). Third-party question source in the explanation was reopened. Page image retrieval failed. Official answer key not confirmed. This practice item is independently adapted, not a verbatim PYQ.
 
 **Related concept:** [Nursing process](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [OpenStax nursing process](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Supplementary ADPIE practice, topic and MCQ format indicated in indexed description; direct playback unavailable, exact question coverage and timestamps pending. Not Indian exam provenance. Dedicated Indian exam practice verification pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -46,9 +48,11 @@ Which phase involves gathering and verifying information about a patient's actua
 
 
 <!-- job4-metadata -->
-**Exam evidence:** 🔵 AIIMS Jodhpur Nursing Officer, 10 December 2019 — memory-based report (source linked in the explanation above). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
+**Exam evidence:** **🔵 AIIMS Jodhpur Nursing Officer — 10 December 2019 · Memory-based report** (source linked in the explanation above, reopened). Official paper not authenticated. This practice item is independently adapted, not a verbatim PYQ.
 
 **Related concept:** [Nursing process](../Concepts/01A-Nursing-Process-and-Care-Planning.md#assessment-and-data-validation) · [OpenStax nursing process](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**▶️ [YouTube MCQ practice — Nursing process, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Supplementary ADPIE practice, topic and MCQ format indicated in indexed description; direct playback unavailable, exact question coverage and timestamps pending. Not Indian exam provenance. Dedicated Indian exam practice verification pending.
 <!-- /job4-metadata -->
 </details>
 
