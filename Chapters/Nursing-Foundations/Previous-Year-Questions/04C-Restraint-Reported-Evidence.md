@@ -4,7 +4,7 @@
 
 ### Q1. Which patient behavior warrants prompt clinical review for the safety of an essential treatment device and possible need for additional protective measures?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Reported adaptation · PGIMER Chandigarh Staff Nurse Grade II 2015, shift and question number unverified
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🔵 PGIMER Chandigarh Staff Nurse Grade II 2015 — reported adaptation** · Shift and question number unverified
 
 A. Quietly reading a book in bed
 B. Repeatedly attempting to remove a clinically essential IV despite supportive measures
@@ -23,6 +23,12 @@ D. Requesting assistance before standing
 
 [Third-party Testbook question source](https://testbook.com/question-answer/which-action-by-a-patient-should-the-nurse-report--62b713536128efc333837720) · [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices) · [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care)
 
+
+<!-- job4-metadata -->
+**Evidence recheck:** [Indexed full AMP question and attribution](https://testbook.com/question-answer/which-action-by-a-patient-should-the-nurse-report--62b713536128efc333837720/amp) inspected 27 November 2026. Direct page reopening failed. The earlier inspected source is retained. No authenticated official key. Threat to an essential device warrants review, not automatic restraint.
+
+**YouTube MCQ practice: verification pending.** [Supplementary restraint question — Archer Review NCLEX](https://www.youtube.com/watch?v=LoRg1MH2xLg). Description confirms restraint-question practice, exact scenario and playback pending.
+<!-- /job4-metadata -->
 </details>
 
 The directly retrieved PGIMER report lines 31–49 identify the exam and the IV-removal answer. The original report presents a restraint-need question. Adaptation explicitly avoids teaching automatic restraint and changes wording and options. Official paper and answer key unavailable.
