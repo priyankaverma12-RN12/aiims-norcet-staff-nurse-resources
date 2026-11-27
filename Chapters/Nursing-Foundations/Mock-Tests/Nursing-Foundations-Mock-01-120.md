@@ -591,9 +591,22 @@ Wet sterile drape ke through nonsterile surface se microorganisms transfer ho sa
 
 **Correct: A. From cleaner to less clean areas**
 
-Clean-to-less-clean approach contamination transfer kam karti hai. Fresh swabs aur procedure-specific technique use karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dirty-to-clean wiping aur reuse organisms transfer kar sakte hain. Forceful scrubbing healing tissue damage karti hai.
+Simple clean incision ki suture line comparatively least contaminated area hoti hai. Separate fresh swabs aur approved cleansing solution se clean to less clean direction follow karo. Aseptic non-touch technique aur wound-specific plan zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Cleaner se less clean direction transfer risk kam karti hai.
+- **B (Galat):** Vigorous scrubbing fragile tissue damage kar sakti hai.
+- **C (Galat):** Drain ki contamination clean incision tak transfer ho sakti hai.
+- **D (Galat):** Soiled swab repeat karne se organisms wapas transfer ho sakte hain.
+
+**Exam clue:** Clean to less clean, fresh swabs.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/28-5-wound-care-and-dressing)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1718,9 +1731,22 @@ Therapeutic communication ka purpose patient ko safe environment dena hai jahan 
 
 **Correct: D. Protect tissue and manage exudate in a suitable healing environment**
 
-Dressing wound ko protect karti hai aur exudate manage kar sakti hai. Selection wound depth, drainage aur skin condition se decide hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal dryness ya compression harmful ho sakti hai. Wound reassessment continue karni chahiye.
+Dressing wound ko cover karne wali protective material hai. Exudate wound se nikalne wala fluid hai. Suitable dressing contamination aur trauma se protection ke saath fluid ko manage karti hai. Moisture balance wound ki depth, perfusion, infection aur tissue ke hisaab se decide hota hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Inspection prevent karne se infection ya deterioration miss ho sakti hai.
+- **B (Galat):** Har wound ko dry rakhna appropriate nahi hai. Ischemic wounds ka plan alag ho sakta hai.
+- **C (Galat):** Maximum pressure tissue perfusion compromise kar sakta hai.
+- **D (Sahi):** Protection aur fluid management suitable healing environment banate hain.
+
+**Exam clue:** Match dressing to wound assessment.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1801,9 +1827,22 @@ New severe abdominal pain serious illness ka symptom ho sakta hai, even jab hear
 
 **Correct: D. Use an approved atraumatic method, including moistening if indicated**
 
-New granulation tissue easily bleed kar sakti hai. Nurse dressing type ke according gentle removal karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Rapid pulling, cutting aur solvent tissue injury cause kar sakte hain.
+Granulation tissue naya vascular healing tissue hai. Adhered dressing ko force se remove karne par tissue tear, bleeding aur pain ho sakte hain. Dressing type ke hisaab se gentle release method use karo. Approved solution se moistening tab karo jab indicated ho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Unapproved solvent irritation ya toxicity cause kar sakta hai.
+- **B (Galat):** Blind cutting wound tissue damage kar sakti hai.
+- **C (Galat):** Rapid pulling tissue tear aur bleeding cause kar sakti hai.
+- **D (Sahi):** Atraumatic method fragile tissue protect karti hai.
+
+**Exam clue:** Protect new tissue during removal.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2368,9 +2407,22 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 **Correct: C. Assess circulation and bleeding and obtain urgent surgical help**
 
-Fresh bleeding aur tachycardia hemorrhage ke warning signs hain. Nurse patient assess karke urgent help leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dressing-only care blood loss miss kar sakti hai. Waiting aur walking unsafe hain.
+Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood loss circulating volume kam kar sakta hai aur shock develop ho sakta hai. Nurse ABC, vital signs aur bleeding assess karke urgent surgical help activate karti hai. Local hemorrhage protocol follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Scheduled round tak delay ongoing bleeding mein dangerous hai.
+- **B (Galat):** Dressing-only change shock ke signs miss kar sakti hai.
+- **C (Sahi):** Urgent circulation assessment aur surgical help blood loss ko timely address karte hain.
+- **D (Galat):** Walking unstable patient mein fall aur deterioration ka risk badhati hai.
+
+**Exam clue:** Fresh blood plus tachycardia: urgent ABC.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/28-5-wound-care-and-dressing)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
