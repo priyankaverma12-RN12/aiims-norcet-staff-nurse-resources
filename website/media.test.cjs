@@ -17,3 +17,15 @@ assert.equal(resolveResource('Assets/respiratory-tract.svg','Chapters/Respirator
 assert.equal(resolveResource('/Assets/study-ui.css',p).path,'Assets/study-ui.css');
 assert.equal(resolveResource('Assets/a.svg',p).path,'Chapters/Respiratory-System/Concepts/Assets/a.svg');
 console.log('Chapter-relative and root-relative Assets regression tests passed.');
+
+const {findStudyFragment}=require('./media.js');
+const heading={id:'day-1'},legacy={getAttribute:n=>n==='name'?'old heading':null},shadow={getAttribute:n=>n==='name'?'day-1':null};
+const root={querySelectorAll:s=>s==='[id]'?[heading]:s==='a[name]'?[legacy,shadow]:[]};
+assert.equal(findStudyFragment(root,'#day-1'),heading);
+assert.equal(findStudyFragment(root,'#old%20heading'),legacy);
+assert.equal(findStudyFragment(root,'#missing'),null);
+assert.equal(findStudyFragment(root,'#%zz'),null);
+assert.equal(findStudyFragment(root,'#'),null);
+assert.equal(findStudyFragment(root,'day-1'),null);
+assert.equal(findStudyFragment(root,'#%22%5D'),null);
+console.log('Study fragment and legacy anchor regression tests passed.');
