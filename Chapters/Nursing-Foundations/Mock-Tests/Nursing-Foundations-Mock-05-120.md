@@ -150,7 +150,7 @@ Stridor possible airway obstruction ka clue hai. Immediate assessment aur help p
 
 ### Q6. Two wound care instructions conflict. What is the safest approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore the latest assessment
 - **B.** Apply both dressings without review
@@ -180,7 +180,7 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q20](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q20](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q20-two-wound-care-instructions-conflict-what-is-the-safest-approach)
 
 ### Q7. Which solution is an isotonic crystalloid in common clinical use?
 
@@ -579,7 +579,7 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 ### Q19. A patient with negative-pressure wound therapy develops fresh blood in the tubing and dizziness. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase suction
 - **B.** Urgent assessment and device-specific bleeding emergency management
@@ -609,7 +609,7 @@ NPWT sealed dressing aur suction se wound fluid manage karti hai. Fresh blood au
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q18](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q18](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q18-a-patient-with-negative-pressure-wound-therapy-develops-fresh-blood-in-the-tubing-and-dizziness-what-is-the-priority)
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
 
@@ -1210,7 +1210,7 @@ Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat l
 
 ### Q39. Which appearance is consistent with healthy granulation tissue?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Dry black eschar
 - **B.** Thick green pus
@@ -1238,13 +1238,15 @@ Granulation tissue proliferative healing phase mein new capillaries aur connecti
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — third-party report](https://testbook.com/question-answer/in-which-phase-of-wound-healing-the-wound-appears--681c9290941b1c2fa82d45c7). Report wound healing mein pink vascular appearance ka related concept test karti hai. Official paper aur key independently authenticate nahi hue hain.
+
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q19](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q19](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q19-which-appearance-is-consistent-with-healthy-granulation-tissue)
 
 ### Q40. Which advantage does a transparent film dressing offer in an appropriate low-exudate situation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Guaranteed infection cure
 - **B.** Absence of all adhesive injury
@@ -1274,7 +1276,7 @@ Transparent film thin adhesive barrier hai jiske through covered site visible re
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q17](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q17](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q17-which-advantage-does-a-transparent-film-dressing-offer-in-an-appropriate-low-exudate-situation)
 
 ## Block 3
 
@@ -1385,7 +1387,7 @@ Intervention woh planned action hai jo nurse ya care team patient goal achieve k
 
 ### Q44. Which transport method reduces specimen leakage and exposure?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove hazard labeling
 - **B.** Open cup in a pocket
@@ -1415,7 +1417,7 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q19](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q19](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q19-which-transport-method-reduces-specimen-leakage-and-exposure)
 
 ### Q45. A patient refuses a student nurse's participation in an intimate procedure. What should the supervising nurse do?
 
@@ -2103,7 +2105,7 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 
 ### Q68. Why is direct pressure applied after arterial sampling?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Stop all limb circulation permanently
 - **B.** Change arterial blood into venous blood
@@ -2133,7 +2135,7 @@ Artery mein pressure vein se generally higher hota hai. Sampling puncture ke baa
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q17](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q17](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q17-why-is-direct-pressure-applied-after-arterial-sampling)
 
 ### Q69. Which method helps establish a bowel training routine when suitable?
 
@@ -2168,7 +2170,7 @@ Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consiste
 
 ### Q70. A patient ate before a prescribed fasting laboratory test. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Record actual fasting status and clarify whether to proceed
 - **B.** Hide the history from the laboratory
@@ -2198,7 +2200,7 @@ Fasting ka matlab prescribed period mein test-specific food ya drink restriction
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q18](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q18](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q18-a-patient-ate-before-a-prescribed-fasting-laboratory-test-what-is-appropriate)
 
 ### Q71. Which action is appropriate when a patient has a prescribed fluid restriction and receives enteral tube flushes?
 
@@ -3006,7 +3008,7 @@ Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta ha
 
 ### Q97. A laboratory rejects a specimen because identifiers conflict with the order. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Investigate and recollect or correct only through verified policy
 - **B.** Ask the patient to guess
@@ -3036,7 +3038,7 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q20](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q20](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q20-a-laboratory-rejects-a-specimen-because-identifiers-conflict-with-the-order-what-should-happen)
 
 ### Q98. What is the purpose of checking a diagnostic procedure's preparation instructions before transport?
 
