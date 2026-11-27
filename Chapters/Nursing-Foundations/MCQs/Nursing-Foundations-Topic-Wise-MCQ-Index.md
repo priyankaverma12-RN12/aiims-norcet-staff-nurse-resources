@@ -58,8 +58,9 @@
 | [Incident reporting and quality management](04D-Incident-Reporting-and-Quality-Management-26-MCQs.md) | 26 | 30 |
 | [Environmental and equipment safety](04E-Environmental-and-Equipment-Safety-26-MCQs.md) | 26 | 30 |
 | [Bedside sterile-field clinical judgment](05A-Bedside-Sterile-Field-Clinical-Judgment-26-MCQs.md) | 26 | 30 |
+| [Isolation care continuity and patient participation](05B-Isolation-Care-Continuity-and-Patient-Participation-20-MCQs.md) | 20 | 20/30 partial |
 
-Current inventory **1,001 original question slots** (424 Medium, 577 Difficult), initial 600 + 401 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,021 original question slots** (433 Medium, 588 Difficult), initial 600 + 421 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -81,4 +82,6 @@ Group 04D: earlier Q5, Q6, Q17 and Q20 plus 26 new = 30 allocated. [Reported evi
 
 Group 04E: original Q7, Q8, Q9 and Q14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md). Group 04 has five individual allocations of 30 each. Reserve Q12 for medication safety, Q16 feeding safety and Q18 clinical escalation without counting them twice. Full semantic and clinical audit pending.
 
-Group 05A: original Group 05 Q4,5,13,14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md). Remaining 16 initial Group 05 questions reserved once, map existing Infection Control banks for cross-chapter revision rather than count their originals again. Q18 catheter insertion reserved for catheter scope. Full semantic review pending.
+Group 05A: original Group 05 Q4,5,13,14 + 26 new = 30 allocated. [Reported evidence](../Previous-Year-Questions/05A-Asepsis-Reported-Evidence.md). Remaining 16 initial Group 05 questions reconciled in [cross-chapter allocation](../Concepts/05-IPC-Cross-Chapter-Allocation.md): 15 linked to sibling IPC topics and Q18 reserved once for catheter scope. No additional cross-chapter authorship counts. Full semantic review pending.
+
+Group 05B isolation care continuity: 20 new original slots, 20/30 partial target, no legacy slots added. [Concepts](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md) · [Evidence gaps](../Previous-Year-Questions/05B-Isolation-Care-Reported-Evidence-Gaps.md). Further distinct scenarios and full semantic audit pending, no padding.
