@@ -660,7 +660,7 @@ Sterile field ke outside contact ya uncontrolled exposure contamination concern 
 
 ### Q22. Before applying strong compression to a leg ulcer, which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Only the size of the dressing
 - **B.** Only the patient's age
@@ -690,7 +690,7 @@ Leg ulcer venous, arterial ya mixed cause ka ho sakta hai. Strong compression ve
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q14](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q14](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q14-before-applying-strong-compression-to-a-leg-ulcer-which-assessment-is-important)
 
 ### Q23. Which site characteristic is most important when selecting a peripheral IV vein?
 
@@ -1823,7 +1823,7 @@ Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte h
 
 ### Q58. Which principle applies to removing sutures from a surgical incision?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove them without inspecting the wound
 - **B.** Pull deeply embedded sutures forcefully
@@ -1853,7 +1853,7 @@ Sutures wound edges ko saath hold karte hain. Removal timing body site, healing 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q15](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q15](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q15-which-principle-applies-to-removing-sutures-from-a-surgical-incision)
 
 ### Q59. A patient on continuous enteral nutrition has an interruption because of a procedure and receives glucose-lowering medication. Which risk should the nurse consider?
 
@@ -1888,7 +1888,7 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 ### Q60. Which details belong on a specimen label and request as required?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the laboratory name
 - **B.** Only the expected result
@@ -1918,7 +1918,7 @@ Label aur request form laboratory ko batate hain ki specimen kis patient ka hai,
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q13](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q13](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q13-which-details-belong-on-a-specimen-label-and-request-as-required)
 
 ## Block 4
 
@@ -2261,7 +2261,7 @@ Fatigue normal exertion ya clinical deterioration se related ho sakti hai. Nurse
 
 ### Q72. Which handling method is appropriate for arterial blood gas collection?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Mix with a large air bubble
 - **B.** Use the specified heparinized device and minimize air contamination
@@ -2291,7 +2291,7 @@ ABG ke liye trained authorized clinician appropriate heparinized device use kart
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q16](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q16](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q16-which-handling-method-is-appropriate-for-arterial-blood-gas-collection)
 
 ### Q73. Which patient belongings practice is appropriate during admission?
 
@@ -2360,7 +2360,7 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 
 ### Q75. Which finding should be assessed before and after applying a limb bandage?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the patient's temperature
 - **B.** Distal circulation, sensation and movement
@@ -2390,7 +2390,7 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q13](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q13](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q13-which-finding-should-be-assessed-before-and-after-applying-a-limb-bandage)
 
 ### Q76. Which theorist is associated with a framework of twenty-one nursing problems?
 
@@ -2436,7 +2436,7 @@ Counts team ko used items reconcile karne mein help karte hain. Discrepancy proc
 
 ### Q78. A wound culture is ordered for suspected infection. Which sampling approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Swab the dried outer dressing only
 - **B.** Use the approved representative collection method after appropriate cleansing
@@ -2466,7 +2466,7 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q14](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q14](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q14-a-wound-culture-is-ordered-for-suspected-infection-which-sampling-approach-is-appropriate)
 
 ### Q79. A patient returns from a procedure with new oxygen requirements and a pending urgent laboratory test. What is the safest nursing action?
 
@@ -2491,7 +2491,7 @@ Procedure ke baad clinical needs change ho sakti hain. Reassessment, order recon
 
 ### Q80. During staple removal the wound edges begin to separate. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave it open until tomorrow
 - **B.** Stop removal, support the wound and seek surgical assessment
@@ -2521,7 +2521,7 @@ Staple removal ke waqt edges separate hona dehiscence ka warning sign hai. Dehis
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q16](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q16](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q16-during-staple-removal-the-wound-edges-begin-to-separate-what-should-happen)
 
 ## Block 5
 
@@ -2951,7 +2951,7 @@ Indian Nursing Council nursing education standards aur recognized qualifications
 
 ### Q95. Which specimen requires prompt handling under laboratory transport instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only specimens with red labels
 - **B.** Only specimens requested by patients
@@ -2981,7 +2981,7 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q15](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q15](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q15-which-specimen-requires-prompt-handling-under-laboratory-transport-instructions)
 
 ### Q96. A bedside glucose meter result is inconsistent with a symptomatic patient's condition. Which action is appropriate?
 
