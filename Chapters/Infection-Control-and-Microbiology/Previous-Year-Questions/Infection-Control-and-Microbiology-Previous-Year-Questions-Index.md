@@ -40,7 +40,9 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Innate and adaptive immunity reported exam practice](Innate-and-Adaptive-Immunity-Reported-PYQs.md): one retrieved ESIC 2019 question and two provisional indexed leads (UP NHM and HSSC). Provisional leads excluded from counted total.
 
-**Current total: 46 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+
 
 
 [Two DSSSB immunity and antibody adaptations, indexed NORCET leads](21-22-Immunity-and-Antibodies-Reported-PYQ-Adaptations.md). Third-party pages opened for DSSSB, official keys not authenticated. Indexed leads excluded from confirmed count.
+
+**Current total: 48 reported recruitment adaptations (45 prior + 1 ESIC + 2 DSSSB).** Two academic-paper adaptations remain separate. Two indexed UP NHM/HSSC leads are excluded from this total.
