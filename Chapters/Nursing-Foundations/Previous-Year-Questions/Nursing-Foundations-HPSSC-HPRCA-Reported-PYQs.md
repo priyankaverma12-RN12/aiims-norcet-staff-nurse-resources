@@ -19,7 +19,22 @@
 
 **Correct: A. Heparin**
 
-ABG sample ko clot hone se bachane ke liye suitable heparinized collection device use hoti hai. Actual practice mein balanced dry heparin device aur lab instructions follow karni hain. Adrenaline aur dopamine vasopressors hain, warfarin oral anticoagulant hai.
+ABG yani arterial blood gas mein arterial blood ki oxygen, carbon dioxide aur acid-base condition measure ki jaati hai. Agar sample clot ho jaaye toh analyzer ka result unreliable ho sakta hai. Isliye lab-approved preheparinized device, preferably balanced dry heparin, aur correct sample volume use karo. Air bubbles aur transport delay bhi avoid karne hain.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Heparin sample ke andar clot formation kam karti hai. Approved ABG syringe mein yahi suitable anticoagulant hai.
+- **B (Galat):** Warfarin oral medicine hai jo liver mein vitamin K dependent clotting factors par effect karti hai. Tablet ko sample mein daalna valid ABG collection technique nahi hai.
+- **C (Galat):** Adrenaline emergency medicine hai jo cardiovascular response par effect karti hai. Yeh ABG sample ka anticoagulant nahi hai.
+- **D (Galat):** Dopamine cardiovascular support ke liye use ho sakti hai. Iska role collected blood ko clot-free rakhna nahi hai.
+
+**Exam clue:** ABG ke liye lab-approved heparinized device yaad rakho.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK138661/?report=reader)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Third-party 2021 paper page retrieved. Exact original item and official key authentication remain pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -121,7 +136,22 @@ Code Blue commonly cardiac arrest ya medical resuscitation response indicate kar
 
 **Correct: B. Anterolateral thigh, vastus lateralis**
 
-Vastus lateralis infant mein suitable muscle mass aur anatomical access provide karti hai. Other sites route ya age suitability ke hisaab se different hain. Needle size aur vaccine-specific guidance check karni chahiye.
+Infant ke thigh ke front aur outer side par vastus lateralis muscle hoti hai. Is age mein routine IM vaccination ke liye yeh generally preferred site hai. Nurse age, muscle mass, vaccine instructions aur correct needle length check karti hai. Is rule ko har age aur har medicine par blindly apply nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Abdominal fat selected subcutaneous medicines ke liye use ho sakta hai. Routine infant IM vaccine ka target skeletal muscle hai.
+- **B (Sahi):** Vastus lateralis infant mein suitable muscle mass aur safe anatomical access provide karti hai. Routine infant IM vaccine ke liye yeh best listed option hai.
+- **C (Galat):** Posterior gluteal region universal first choice nahi hai. Sciatic nerve injury aur unintended fat deposition ke concerns bhi hain.
+- **D (Galat):** Forearm dermis intradermal tests ya selected intradermal products ke liye relevant ho sakti hai. Yeh routine IM vaccine ka target nahi hai.
+
+**Exam clue:** Infant routine IM vaccine = anterolateral thigh.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Third-party 2021 paper page retrieved. Exact original item and official key authentication remain pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
