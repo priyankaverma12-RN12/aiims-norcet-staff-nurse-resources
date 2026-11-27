@@ -48,4 +48,9 @@
 | [Sterilization methods and monitoring](02C-Sterilization-Methods-and-Monitoring-15-MCQs.md) | 15 |
 | [Standard precautions and safe patient care](03A-Standard-Precautions-and-Safe-Patient-Care-30-MCQs.md) | 30 |
 
-**Current indexed inventory: 1,335 original question slots**, 604 Medium and 731 Difficult, excluding four legacy starter items. Initial 1,200 plus 135 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
+| [Transmission-based precautions and isolation](03B-Transmission-Based-Precautions-and-Isolation-20-MCQs.md) | 20 |
+| [PPE selection and safe removal](03C-PPE-Selection-and-Safe-Removal-20-MCQs.md) | 20 |
+
+**Current indexed inventory: 1,375 original question slots**, 617 Medium and 758 Difficult, excluding four legacy starter items. Initial 1,200 plus 175 expansion questions. Sterilization methods and monitoring has 25 linked earlier items + 15 new questions = 40 allocated, not counted twice. [Authoritative coverage audit](../Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Full semantic and cross-chapter audit pending.
+
+Group 03 allocations: standard precautions 8 earlier + 30 new = 38, transmission precautions 20 earlier + 20 new = 40, PPE 12 earlier + 20 new = 32. Earlier group items allocated once, not new authorship.

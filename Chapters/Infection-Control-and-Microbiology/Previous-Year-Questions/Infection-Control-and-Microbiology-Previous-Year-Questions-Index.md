@@ -78,3 +78,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Standard precautions historical evidence](03A-Standard-Precautions-Reported-Evidence.md): retrieved AIIMS Bhubaneswar 2019 and RRB 2019 source-linked adaptations, excluded from additional counted total pending overlap review. Current count remains 57 plus two academic adaptations.
+
+
+[Isolation and PPE reported ESIC adaptation and historical leads](03B-03C-Isolation-and-PPE-Reported-Evidence.md). No additional counted recruitment PYQ pending overlap review. Current counted total 57 plus two academic adaptations.
