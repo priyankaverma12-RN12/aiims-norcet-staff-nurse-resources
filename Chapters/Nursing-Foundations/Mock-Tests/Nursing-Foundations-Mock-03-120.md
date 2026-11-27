@@ -357,7 +357,9 @@ Postvoid residual bladder mein urination ke baad bacha urine hai. Large residual
 
 ### Q17. Which communication technique involves restating the main meaning of a patient's message to confirm understanding?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 NVS Staff Nurse 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Changing the subject
 - **B.** Paraphrasing
@@ -372,6 +374,16 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 
 **Baaki options kyun sahi nahi hain?** Subject change discussion divert karta hai. Unsolicited advice aur false reassurance feelings explore nahi karti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [NVS Staff Nurse September 2019 reported question](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe). Reported question page inspected. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q10](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q10-which-communication-technique-involves-restating-the-main-meaning-of-a-patients-message-to-confirm-understanding)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q10](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -569,7 +581,9 @@ King theory nurse aur patient ke mutual communication aur shared goals par focus
 
 ### Q27. A patient with aphasia becomes frustrated while answering questions. Which strategy is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Assume the patient cannot understand anything
 - **B.** Use short questions, communication aids and sufficient response time
@@ -584,6 +598,18 @@ Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient
 
 **Baaki options kyun sahi nahi hain?** Caregiver-only conversation autonomy reduce karti hai. Comprehension assume nahi karni chahiye. Guessing meaning inaccurate ho sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#barriers-and-adaptation) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Research lead (unverified):** [HPSSC Hamirpur Staff Nurse, 5 August 2021 — expressive aphasia](https://testbook.com/question-answer/what-would-be-the-most-therapeutic-nursing-action--697b2633b4063bcc21acf69f). Indexed exam and topic only; direct retrieval failed. No verified exam appearance claimed.
+
+**Topic-bank question:** [Q11](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q11-a-patient-with-aphasia-becomes-frustrated-while-answering-questions-which-strategy-is-most-appropriate)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q11](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -1172,7 +1198,9 @@ Confusion pain, infection, medication ya toileting need se related ho sakti hai.
 
 ### Q55. A patient describes pain as 7/10. Which entry records both subjective data and a relevant observation?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario · **🟣 SGPGI Staff Nurse 2024 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Patient has no pain because vital signs are normal
 - **B.** Patient reports pain 7/10 and guards the incision during movement
@@ -1187,6 +1215,16 @@ Pain score patient ki report hai aur guarding observed behavior hai. Dono record
 
 **Baaki options kyun sahi nahi hain?** Exaggeration aur difficult judgmental hain. Normal vitals pain ko exclude nahi karte.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** 🟣 Related tested concept only — [SGPGI Staff Nurse 28 February 2024 shift I third-party paper copy Q7, ID 33](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/16124443/SGPGI-Staff-Nurse-Official-Paper-Held-On_-28-Feb-2024-Shift-1.pdf). Paper text inspected, page image unavailable. Not an exact match or independently authenticated official key.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q12](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q12-a-patient-describes-pain-as-710-which-entry-records-both-subjective-data-and-a-relevant-observation)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q12](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2134,7 +2172,9 @@ Bladder scanner ultrasound se bladder volume estimate karta hai. Postvoid residu
 
 ### Q100. A family member asks for a competent adult patient's test results without the patient's permission. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** Protect confidentiality and verify the patient's consent before disclosure
 - **B.** Post the report in a group chat
@@ -2149,6 +2189,16 @@ Adult patient ki health information confidential hai. Nurse authorized disclosur
 
 **Baaki options kyun sahi nahi hain?** Family status alone unrestricted permission nahi hai. Group chat aur public corridor privacy breach kar sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#privacy-and-accountability) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
+
+**Topic-bank question:** [Q9](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q9-a-family-member-asks-for-a-competent-adult-patients-test-results-without-the-patients-permission-what-should-the-nurse-do)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q9](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
