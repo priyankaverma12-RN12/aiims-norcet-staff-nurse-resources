@@ -740,9 +740,23 @@ Leg clot lungs ki artery mein travel kar sakta hai. Sudden dyspnea aur chest pai
 
 **Correct: D. Venturi mask with the correct adapter and flow**
 
-Venturi system fixed air-oxygen entrainment se specified concentration deliver karne mein help karti hai. Correct adapter aur flow manufacturer instructions se match karna chahiye.
+FiO2 ka matlab inhaled gas mein oxygen ka fraction hai. Venturi mask oxygen jet ke saath measured amount mein room air mix karti hai. Sahi adapter aur manufacturer-specified flow use karne se relatively controlled concentration milti hai, jab total gas flow patient ki demand ke liye adequate ho. Air entrainment ports open rakho aur prescribed saturation reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Simple mask aur cannula delivered concentration vary kar sakti hain. Disconnected mask oxygen deliver nahi karti.
+**Option-wise explanation:**
+- **A (Galat):** Disconnected reservoir mask source se oxygen receive nahi karti. Yeh safe oxygen delivery nahi hai.
+- **B (Galat):** Nasal cannula mein oxygen room air ke saath variable proportion mein mix hoti hai. Delivered FiO2 breathing pattern se change ho sakti hai.
+- **C (Galat):** Simple mask mein arbitrarily low flow carbon dioxide rebreathing ka risk la sakta hai aur precise FiO2 establish nahi karta.
+- **D (Sahi):** Venturi device ka calibrated adapter aur suitable flow controlled FiO2 provide karte hain. Isliye listed devices mein yeh best hai.
+
+**Exam clue:** Venturi = controlled concentration, not one universal flow setting.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
+
+**Related historical evidence:** [🟣 AIIMS NORCET 20 November 2021 Shift II — reported related concept](https://testbook.com/question-answer/venturi-mask-has-high-rate-of-o2-supply-to-the-pat--65f83910807d07269f49ed17). Retrieved third-party report asks about Venturi concentration range, not this exact stem. Official key unverified. Percentage range is FiO2, not flow.
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1173,9 +1187,21 @@ Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein
 
 **Correct: B. Adequate flow helps clear exhaled carbon dioxide from the mask**
 
-Mask ke andar exhaled gas collect ho sakti hai. Appropriate flow CO2 washout support karta hai. Device-specific minimum follow karna important hai.
+Jab patient exhale karta hai, carbon dioxide wali gas mask ke andar temporarily aa sakti hai. Sufficient fresh oxygen flow aur unobstructed exhalation ports is gas ko clear karne mein help karte hain. Conventional simple masks mein minimum flow commonly 5–6 L/min ke aas-paas hota hai, lekin specific device instructions follow karna zaroori hai. Low flow ko automatically safe mat samjho.
 
-**Baaki options kyun sahi nahi hain?** Arbitrarily low flow rebreathing cause kar sakta hai. Flow gas clearance affect karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Flow kam karne se oxygen concentration hamesha safely increase nahi hoti. Rebreathing ka risk ho sakta hai.
+- **B (Sahi):** Adequate flow fresh gas supply karta hai aur exhaled carbon dioxide washout mein help karta hai.
+- **C (Galat):** Flow aur open mask ports gas clearance mein role play karte hain.
+- **D (Galat):** Mask ke dead space mein exhaled gas reh sakti hai. Isliye rebreathing ka possibility hota hai.
+
+**Exam clue:** Simple mask: respect device minimum flow and keep ports open.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2824,9 +2850,21 @@ Opening pressure posture aur strain se affect ho sakti hai. Standard lateral dec
 
 **Correct: C. Check oxygen supply, flow, fit and valves and reassess the patient urgently if needed**
 
-Reservoir bag oxygen store karti hai. Excess collapse inadequate supply ya high patient demand indicate kar sakti hai. Nurse device aur oxygenation check karti hai.
+Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Agar bag inspiration ke dauran bahut zyada collapse ho rahi hai toh oxygen supply patient demand se kam ho sakti hai, tubing kink ho sakti hai ya device problem ho sakta hai. Nurse patient ki breathing aur saturation check karte hue source, appropriate flow, fit aur valves verify karti hai. Deterioration par urgent help leti hai.
 
-**Baaki options kyun sahi nahi hain?** Source off karna delivery rokta hai. Collapse reassuring sign nahi hai. External weight reservoir function impair karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Heavy object reservoir ko compress karke usable gas supply aur mask function impair kar sakta hai.
+- **B (Galat):** Bag collapse adequate delivery prove nahi karti. Yeh inadequate available gas ka warning ho sakti hai.
+- **C (Sahi):** Source, flow aur equipment ki prompt assessment potentially reversible delivery failure ko identify karti hai. Patient assessment saath mein zaroori hai.
+- **D (Galat):** Oxygen source band karne se patient ko needed oxygen milna ruk sakta hai.
+
+**Exam clue:** Reservoir bag should remain sufficiently inflated during use.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3331,9 +3369,21 @@ New neurological deterioration raised intracranial pressure ya other emergency k
 
 **Correct: A. Nasal cannula**
 
-Nasal cannula nares mein oxygen deliver karti hai aur mouth relatively free rehta hai. Actual flow aur target clinical order se decide hote hain.
+Nasal cannula ek flexible tube hai jiske do small prongs nostrils mein oxygen pahunchate hain. Isse mouth largely free rehta hai, isliye stable patient assessed safe hone par baat aur meal le sakta hai. Conventional adult cannula mein flow aam taur par 1–6 L/min hota hai. Actual inspired oxygen concentration breathing pattern aur flow se vary karti hai. Nurse prescribed saturation target aur patient response check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Masks meal access limit kar sakti hain. Endotracheal tube aur bag-mask ventilation advanced support ke liye hain.
+**Option-wise explanation:**
+- **A (Sahi):** Nasal cannula mouth access preserve karti hai aur conventional low-flow oxygen delivery ka common option hai.
+- **B (Galat):** Reservoir mask higher oxygen requirement mein useful hai, lekin face cover karta hai aur meal ke dauran ise bina alternative plan remove karna unsafe ho sakta hai.
+- **C (Galat):** Bag-mask device assisted ventilation ke liye hoti hai, stable patient ko meal ke saath routine oxygen dene ke liye nahi.
+- **D (Galat):** Endotracheal tube airway mein insert ki jaati hai aur advanced airway support ke liye hoti hai. Yeh routine low-flow oxygen device nahi hai.
+
+**Exam clue:** Conventional nasal cannula = variable FiO2, relatively free mouth.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596733/) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
