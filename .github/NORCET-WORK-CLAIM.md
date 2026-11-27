@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job2-20261127-054629-isolation-completion
+Scope: Nursing Foundations 05B completion and Group 06 medication safety, chapter-local files and global Nursing Foundations row only when free
+Claimed UTC: 2026-11-27T05:46:29Z
+Expiry UTC: 2026-11-27T06:16:29Z
 
 Forward verified content checkpoint cbc471d77a5107f7d9c2a6037fc24c8f681b4b58. Nursing Foundations 1,021 indexed original slots (433 Medium, 588 Difficult), 600 initial +421 expansion. Group 05 remaining 16 legacy questions reconciled: 15 cross-referenced to sibling IPC resources, Q18 reserved once for catheter care. Allocation commit 8d006ccc5493014ac30776aeb688baeec3e5264b verified. Group 05B isolation care continuity and patient participation 20 new original questions, no legacy allocations, partial 20/30 initial topic target. No padding with repeat pathogen selection, standard precautions or generic communication questions. Draft 20 stems unchanged from comparison with 343 related prior stems across 13 banks, zero exact normalized matches. Final option order and corresponding key/reasons remapped, 20 four-option hidden blocks verified by exact readback. Full independent semantic review pending. Concepts 11d36f079a14ae4fad538f6cb3f2dbcd31cc5590, evidence gap register b3f421f99c0d04cc0e783dc621cd8075530635da, MCQ index a5e07da5b5245572e56524a3326bdd2e8df9211b, coverage audit fe672e740cd55feb12cef29271e5b4eb99010c14, chapter README f34de5d22185f05df5cc07f20a4acce1974cb59f, coverage map fa08afb1d06aa6831ee4e8a9cae5499aa2f55874, PYQ index b94c5b990cd2b93957a1a1451fc637fe4a5fc378, video guide a95c82d4aa716962dd7a277c25f59e3eb1bc4af5, global index 38b8adc6321d01e4d381a8f2ccb5426ed507ef63 verified. Open RN, CDC core and isolation recommendations, UCLH patient guidance directly retrieved, CDC visitor guidance indexed. RMLIMS/RRB direct retrieval failed, NVS general barrier lead reserved, no new counted historical adaptations, count remains 34. All 20 exact and concept-specific video mappings pending, general teaching and 19:25 indexed isolation case review are supplementary only. Full clinical, curriculum, semantic, official key, video playback and rendered UI audits pending. Both complete skills fetched, relevant rules reviewed with prior context, fresh full line-by-line review not certified. AGENTS, Copilot and audit learning excerpts checked. All five job claims and Eye/ENT scope checked before writes, global claim extended only after all other claims free, sibling IPC files unchanged. Five compiled mocks of ten. Next: review and finish genuinely distinct 05B topic gaps up to 30 without filler, then Group 06 medication safety and administration, reserve Group 04 Q12 once. Hourly task unchanged.
