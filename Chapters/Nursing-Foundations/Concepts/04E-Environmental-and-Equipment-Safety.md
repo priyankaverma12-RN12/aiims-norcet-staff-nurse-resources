@@ -2,7 +2,13 @@
 
 **Study-ready, unattempted.** 🔴 MOST IMPORTANT. [26 new MCQs](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md) plus original Group 04 Q7, Q8, Q9 and Q14 = 30 allocated. This guide is a nursing exam resource, not a substitute for authorized facility emergency training.
 
-## Fire response and evacuation
+<a name="fire-response-and-evacuation"></a>
+
+## 🔹 Fire response and evacuation
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Fire response, Nursing Wallah by PW (17:13)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1033s)** · Published rescue-first MCQ chapter, exact item and playback pending. [PASS teaching chapter (21:45)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=1305s) is separate. JIPMER 2020, RRB 2026 and AIIMS Bathinda 2019 reports reopened. Apply the facility fire plan and current scenario.
+<!-- /job4-metadata -->
 
 Fire needs fuel, heat and an oxidizer. Hospital mein oxygen enrichment, electrical faults and combustible material important risks hain. Fire exits aur emergency equipment access clear rakho. Designated fire doors ko wedge open mat karo. Staff ko manual alarm point, approved evacuation route and role allocation pata hona chahiye.
 
@@ -26,7 +32,13 @@ Horizontal evacuation = same floor ke protected compartment mein move karna. Ver
 
 [MCQs Q1–7](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md). [🟣 Related JIPMER 2020 and RRB 2026 Shift 3 RACE concept and AIIMS Bathinda 2019 fire response](../Previous-Year-Questions/04E-Environmental-Safety-Reported-Evidence.md).
 
-## Oxygen and medical gas safety
+<a name="oxygen-and-medical-gas-safety"></a>
+
+## 🔹 Oxygen and medical gas safety
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Oxygen supports combustion, Nursing Wallah by PW (08:08)](https://www.youtube.com/watch?v=1EIouS8ulsY&t=488s)** · Published MCQ chapter. Exact item/playback pending. Cylinder identification, storage and pipeline-specific question coverage remains pending. Never rely on cylinder paint alone.
+<!-- /job4-metadata -->
 
 Oxygen khud fuel nahi hai, combustion support karta hai. Oxygen-enriched area mein materials easily ignite aur intensely burn kar sakte hain. No smoking, no open flame, no oil or grease on oxygen equipment. Petroleum products near oxygen avoid karo and approved compatible alternatives use karo. Contaminated regulator remove from use and replace through authorized channel.
 
@@ -34,7 +46,13 @@ Cylinder label se gas verify karo, color alone sufficient nahi. Store secured ag
 
 [MCQs Q8–12](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md).
 
-## Electrical and power safety
+<a name="electrical-and-power-safety"></a>
+
+## 🔹 Electrical and power safety
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific electrical hazard and power failure questions not established. Existing broad safety quiz lead remains supplementary.
+<!-- /job4-metadata -->
 
 Pre-use inspection mein cord, plug, casing and approved maintenance status check karo. Exposed wiring, hot socket or damaged device ho toh safe isolation and biomedical engineering review arrange karo. Energized wet equipment ko touch mat karo. Unapproved adapters and overloading avoid karo. Electrical fire mein water use unsafe ho sakta hai. Approved extinguisher and trained response follow karo.
 
@@ -42,7 +60,13 @@ Power cut ke baad battery backup automatically work kare toh bhi patient support
 
 [MCQs Q13–16](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md).
 
-## Equipment and alarms
+<a name="equipment-and-alarms"></a>
+
+## 🔹 Equipment and alarms
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific infusion pump, alarm and ventilator scenarios not established. Existing clinical references and broad quiz lead retained.
+<!-- /job4-metadata -->
 
 Alarm ka purpose possible patient or equipment problem identify karna hai. Pehle patient assess karo, phir device, access site and tubing check karo. Repeated alarms ignore ya permanently disable mat karo. Patient-specific settings and approved sensor placement unnecessary alarms reduce kar sakte hain. Occlusion alarm mein force flushing or arbitrary pressure increase unsafe hai. Device-specific troubleshooting follow karo.
 
@@ -50,7 +74,13 @@ If an essential device malfunctions, safe replacement aur correct settings verif
 
 [MCQs Q17–20 and Q26](../MCQs/04E-Environmental-and-Equipment-Safety-26-MCQs.md).
 
-## Latex and chemical exposure
+<a name="latex-and-chemical-exposure"></a>
+
+## 🔹 Latex and chemical exposure
+
+<!-- job4-metadata -->
+**▶️ [YouTube MCQ practice — Latex allergy prioritization, ADAPT NCLEX REVIEW (06:47)](https://www.youtube.com/watch?v=toTwrTkRX2Y&t=407s)** · Published practice chapter, specific product-selection item and playback pending. Chemical spill-specific MCQ video verification pending.
+<!-- /job4-metadata -->
 
 Natural rubber latex allergy patient and healthcare workers dono mein possible hai. Powder-free, low-protein or hypoallergenic latex label non-latex guarantee nahi karta. Confirmed allergy mein material verify karo, suitable non-latex protective gloves and devices use karo, including catheters where relevant. Irritant dermatitis and delayed contact allergy are distinct from immediate IgE-mediated allergy. Exposure history and clinical evaluation needed.
 
@@ -72,7 +102,9 @@ Unknown chemical spill mein area isolate karo, affected persons ko safely remove
 
 Q5 and Q7 specialist evacuation/oxygen coordination practice also pending. Total 8 description-level quiz leads, 18 no specific practice lead, 0 fully verified question-level matches and 0 fully confirmed topic-level question-solving matches. Playback, exact quiz questions and timestamps pending. No lecture or written source counted as verified video question practice.
 
-## References
+<a name="references"></a>
+
+## ▶️ References
 
 - [MoHFW National Guidelines on Fire and Life Safety in Healthcare Facilities 2026](https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/62dc36c7ac9aeedefb0e969de50686d1.pdf), extracted text directly retrieved, including ICU RACE section. Screenshot failed, visual verification pending.
 - [MoHFW National Guidelines on Medical Oxygen Management 2025](https://www.mohfw.gov.in/sites/default/files/Oxygen%20Guideline%20finalized%202025.pdf), indexed guidance on storage, labels, clean handling.
