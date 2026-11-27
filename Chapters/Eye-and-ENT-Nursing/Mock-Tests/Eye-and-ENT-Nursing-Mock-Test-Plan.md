@@ -18,3 +18,5 @@
 [Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
 
 Topic banks first. Do not count starter questions or unassembled items as completed mock slots.
+
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock01-20261127-1406. Scope: Mock-Tests plan, Mock 01 and reuse ledger only. Explicit learner parallel exception. Claimed UTC: 2026-11-27T14:06:00Z. Expiry UTC: 2026-11-27T14:36:00Z. -->
