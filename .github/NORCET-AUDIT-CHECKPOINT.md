@@ -1,9 +1,8 @@
 # Job 3 — deep audit checkpoint
 
-State: CLAIMED
-Owner: audit-20261127-035208-respiratory
-Scope: Respiratory System HP Staff Nurse PYQ file, PYQ index, advanced 32 MCQs and mock plan only.
-Claimed UTC: 2026-11-27T03:52:08Z
-Expiry UTC: 2026-11-27T04:22:08Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
-Both publisher claims and labels checkpoint read FREE before acquisition. Other jobs must defer overlapping scope. Next: safe corrections and evidence ledger.
+Latest audit: Respiratory System initial pass, learning log commit 7ebd707803ca910539a65864e91f044b522f988e. Five source-based practice adaptations repaired, PYQ index corrected, ten-mock plan corrected, advanced Q2/Q29 explanations corrected. 32 advanced stems read, full external validation pending. Next: Respiratory-Advanced-Topic-Wise-32.md Q1 onward granular rationale, priority, curriculum and clinical evidence review, then remaining banks, individual mock contents and all PYQs/concepts. Re-read both publishing claims and labels checkpoint before acquiring new audit scope. No chapter is certified complete. Five-minute schedule unsupported.
