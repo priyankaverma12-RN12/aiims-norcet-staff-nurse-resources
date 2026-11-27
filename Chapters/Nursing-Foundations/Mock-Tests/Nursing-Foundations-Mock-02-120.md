@@ -789,7 +789,7 @@ Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho 
 
 ### Q27. Which route delivers a prescribed drug directly into systemic venous circulation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Intradermal
 - **B.** Intravenous
@@ -815,9 +815,11 @@ IV route medicine ko venous blood mein directly deliver karti hai. Absorption st
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — IV route, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q7](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q7](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q7-which-route-delivers-a-prescribed-drug-directly-into-systemic-venous-circulation)
 
 ### Q28. Which assessment technique uses a stethoscope to listen to internal body sounds?
 
@@ -862,7 +864,7 @@ Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se
 
 ### Q29. A patient cannot swallow an extended-release tablet. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Double the next dose after omitting it
 - **B.** Check with the pharmacist or prescriber for a suitable alternative formulation
@@ -888,9 +890,11 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q5](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q5](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q5-a-patient-cannot-swallow-an-extended-release-tablet-which-action-is-safest)
 
 ### Q30. Which additive is commonly used for a CBC sample?
 
@@ -957,7 +961,7 @@ Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur outpu
 
 ### Q33. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Inject the oral product into an IV line
 - **B.** Mix it with all other medications in one syringe
@@ -983,9 +987,11 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 [Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-for-enteral-tube-administration/)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q6](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q6](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q6-a-patient-has-an-order-for-an-enteric-coated-medication-via-a-feeding-tube-what-should-the-nurse-do)
 
 ### Q34. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
 
@@ -3001,7 +3007,7 @@ Intermittent fever mein temperature periodically normal range tak aa sakta hai. 
 
 ### Q118. Which tissue layer is targeted in an intradermal injection?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Skeletal muscle
 - **B.** Dermis
@@ -3027,9 +3033,11 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q8](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q8](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q8-which-tissue-layer-is-targeted-in-an-intradermal-injection)
 
 ### Q119. Following opioid administration, a patient has worsening sedation before respiratory rate falls markedly. Which action is most appropriate?
 
