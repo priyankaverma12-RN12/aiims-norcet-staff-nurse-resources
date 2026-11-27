@@ -816,9 +816,19 @@ Sterilization validated physical ya chemical process hai jo viable microbial lif
 
 **Correct: B. Unstageable pressure injury**
 
-Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho sakti. Isliye unstageable category use hoti hai until appropriate assessment possible ho.
+Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usually dry dark necrotic tissue ki layer hoti hai. Jab yeh wound base ko cover karke tissue loss ki actual extent nahi dekhne dete, toh unstageable pressure injury classify karte hain. Sirf staging karne ke liye stable dry heel eschar ya ischemic limb eschar ko remove nahi karna chahiye. Perfusion aur specialist assessment important hain.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 intact skin hai. Stage 2 superficial depth confirmed chahiye. Healed stage 4 ka evidence nahi diya gaya hai.
+**Option-wise explanation:**
+- **A (Galat):** Healed stage 4 kehne ke liye healing history chahiye. Current obscured wound ko healed assume nahi kar sakte.
+- **B (Sahi):** Depth obscured hone se stage 3 aur stage 4 ke beech reliable distinction nahi ho sakta, isliye unstageable correct hai.
+- **C (Galat):** Stage 1 mein skin intact hoti hai, wound base par necrotic covering nahi hoti.
+- **D (Galat):** Stage 2 mein visible dermis hoti hai aur slough ya eschar nahi hota.
+
+**Exam clue:** Unstageable = full-thickness injury whose depth is obscured.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1043,9 +1053,19 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 **Correct: C. Deep tissue pressure injury**
 
-Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sakti hai. Pressure history aur clinical assessment important hain kyunki other causes bhi possible hain.
+Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab pressure aur shear bone ke paas tissues ko affect karte hain. Surface skin intact reh sakti hai, lekin deep red, maroon ya purple nonblanchable discoloration dikh sakti hai. Pressure history, skin temperature, pain aur perfusion assess karo. Vascular ischemia, trauma ya doosre causes ko exclude karo, kyunki color akela diagnosis confirm nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Stage 2 exposed dermis hai. Persistent maroon change normal blanching nahi hai. Skin tear separate injury mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 2 mein exposed dermis ya serum-filled blister hota hai, har maroon area stage 2 nahi hota.
+- **B (Galat):** Skin tear mechanical trauma se skin layers separate hone ki injury hai. Is stem se skin tear establish nahi hoti.
+- **C (Sahi):** Prolonged pressure ke baad persistent maroon change deep tissue pressure injury ka warning pattern hai.
+- **D (Galat):** Persistent maroon discoloration normal temporary blanchable redness se different hai.
+
+**Exam clue:** Maroon/purple nonblanchable pressure-related change → consider DTPI.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1767,9 +1787,19 @@ Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur d
 
 **Correct: C. Offload the heels with appropriate support and reassess positioning**
 
-Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support calf ko distribute karke heel free rakhne mein help karta hai.
+Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively kam hota hai. Sustained pressure se local tissue damage ho sakta hai. Heel ko bed surface se completely offload karne ke liye appropriate calf support ya assessed heel suspension device use karo. Device fit, skin, circulation aur alignment regularly reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Hard ring localized pressure create kar sakti hai. Redness massage tissue damage worsen kar sakti hai. Continuous contact pressure maintain karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Heel mattress se pressed rahe toh sustained pressure kam nahi hoga.
+- **B (Galat):** Hard ring edge par concentrated pressure bana sakti hai aur safe offloading ka substitute nahi hai.
+- **C (Sahi):** Appropriate offloading heel aur mattress ka contact pressure kam karti hai. Reassessment se naya pressure point identify hota hai.
+- **D (Galat):** Nonblanchable redness massage karne se vulnerable tissue par aur mechanical force pad sakti hai.
+
+**Exam clue:** Float the heel safely and check skin/device fit.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -1941,9 +1971,19 @@ Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urin
 
 **Correct: A. Provide suitable adaptive utensils and assistance only as needed**
 
-Adaptive utensils grip aur control improve kar sakte hain. Nurse patient ko jitna safely possible ho khud eat karne deti hai.
+Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le jaane mein difficulty feel kar sakta hai. Adapted handle, suitable utensil aur assessed positioning se patient apna kaam jitna safely possible ho khud kar sakta hai. Nurse adequate time, dignity aur required help provide karti hai.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary full assistance independence reduce kar sakti hai. Meal remove karna intake reduce karta hai. Standard utensils barrier ho sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Adaptive utensils grip aur control improve karte hain. Need-based assistance independence maintain karti hai.
+- **B (Galat):** Ability check kiye bina complete feeding patient ki remaining skills use karne ka chance kam karti hai.
+- **C (Galat):** Slow eating ki wajah se tray remove karna nutritional intake reduce kar sakta hai.
+- **D (Galat):** Standard utensils force karne se fatigue aur frustration badh sakti hai.
+
+**Exam clue:** Promote safe self-feeding with appropriate aids.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2087,9 +2127,19 @@ Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. S
 
 **Correct: B. Stop feeding and re-establish placement according to protocol before further use**
 
-External length change tube migration indicate kar sakti hai. Nurse feed stop karke position verify karwati hai.
+External marking tube ke nose ke paas visible length batati hai. Marking mein major change tube migrate hone ka warning hai. Tube tip esophagus ya airway mein shift ho sakti hai. Feed aur medicines stop karo, patient assess karo aur approved method se placement dobara confirm karvao. Confirmed safe use se pehle flush ya feed resume mat karo.
 
-**Baaki options kyun sahi nahi hain?** Blind advancement airway injury ya malposition cause kar sakti hai. Faster rate aur ignoring change unsafe hain.
+**Option-wise explanation:**
+- **A (Galat):** Rate increase displacement correct nahi karta.
+- **B (Sahi):** Feed hold aur placement re-verification wrong-route administration prevent karte hain.
+- **C (Galat):** Cough absent hone se wrong placement exclude nahi hota.
+- **D (Galat):** Blind advancement tube ko wrong route mein le ja sakta hai aur tissue damage kar sakta hai.
+
+**Exam clue:** Changed external length = hold, check, confirm before use.
+
+**Clinical references:** [NHS England NG safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
@@ -2502,9 +2552,19 @@ Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poo
 
 **Correct: B. Maintain tube patency and provide ordered water when appropriate**
 
-Water flush formula aur medicines ke residues clear karke blockage risk reduce kar sakti hai. Amount fluid restriction aur protocol ke hisaab se hoti hai.
+Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke particles tube mein collect hokar blockage bana sakte hain. Prescribed water flush residue clear karne aur planned hydration mein help karta hai. Tube placement pehle verify hona chahiye. Water type aur volume route, clinical condition aur fluid allowance ke hisaab se choose karo. Resistance par forceful flushing mat karo.
 
-**Baaki options kyun sahi nahi hain?** Flushing position proof nahi hai. Stomach sterilize nahi hota. Water calories aur nutrients replace nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Water nutrition ke calories, protein aur micronutrients provide nahi karta.
+- **B (Sahi):** Appropriate flushing tube open rakhne aur ordered water dene mein help karti hai.
+- **C (Galat):** Water flush stomach ko sterile nahi banata.
+- **D (Galat):** Flush easily pass hone se tip stomach mein hai, yeh confirm nahi hota.
+
+**Exam clue:** Flush for patency/hydration, not placement confirmation.
+
+**Clinical references:** [NHS SPS medicines via enteral tubes](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
@@ -2662,9 +2722,19 @@ Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation a
 
 **Correct: D. Consider moisture-associated skin damage rather than automatically assigning a pressure stage**
 
-Urine-stool exposure se moisture-associated dermatitis ho sakti hai. Distribution, depth aur pressure history compare karke correct classification karna chahiye.
+Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin ko fragile bana sakti hai. Incontinence-associated dermatitis aksar diffuse, irregular aur superficial hoti hai. Pressure injury commonly localized pressure ya device contact se related hoti hai. Dono conditions ek saath bhi ho sakti hain. Nurse cause, distribution, depth, moisture aur pressure history assess karke prevention aur skin protection plan banati hai.
 
-**Baaki options kyun sahi nahi hain?** Stage 3 full-thickness pressure loss hai. Moisture injury real problem hai. Dermatitis ko automatically pressure stage nahi diya jaata.
+**Option-wise explanation:**
+- **A (Galat):** Har dermatitis pressure-related nahi hoti, isliye pressure stages automatically apply nahi karte.
+- **B (Galat):** Moisture presence skin ko normal nahi banati. Barrier damage aur discomfort assess karna chahiye.
+- **C (Galat):** Stage 3 full-thickness pressure injury hoti hai. Diffuse superficial redness se stage 3 prove nahi hota.
+- **D (Sahi):** Moisture-associated damage ko differential mein consider karna correct hai. Final classification full assessment par depend karti hai.
+
+**Exam clue:** Pressure injury staging is not used for IAD alone.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
@@ -2706,9 +2776,19 @@ Transfusion reaction confirm hone se pehle further exposure stop karna important
 
 **Correct: D. Confirm placement using the approved evidence-based method and document authorization for use**
 
-NG tube accidentally respiratory tract mein ja sakti hai. Initial placement approved method, such as radiography when indicated, se confirm karna essential hai. Local protocol follow karna chahiye.
+Nasogastric ya NG tube nose se stomach tak jaane ke liye insert hoti hai, lekin galti se airway mein bhi ja sakti hai. Feed, medicine ya flush dene se pehle approved placement confirmation zaroori hai. NHS England standard mein approved gastric aspirate pH 1–5.5 ya appropriately interpreted X-ray acceptable hain. Agar aspirate unavailable ya pH unsafe ho toh protocol ke mutabik X-ray ya escalation chahiye. Kuch settings initial X-ray require karti hain. Documented clearance se pehle tube mein kuch introduce mat karo.
 
-**Baaki options kyun sahi nahi hain?** Air auscultation reliable confirmation nahi hai. Speech aur external length alone correct location prove nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Air inject karke whoosh sunna reliable location test nahi hai. Airway tube mein bhi misleading sound mil sakti hai.
+- **B (Galat):** Patient speak kar paaye toh bhi tube respiratory tract mein ho sakti hai.
+- **C (Galat):** External length insertion estimate deta hai, tip ki actual location prove nahi karta.
+- **D (Sahi):** Evidence-based placement confirmation aur documentation wrong-route feeding se harm prevent karte hain.
+
+**Exam clue:** No first use before approved placement confirmation. Never rely on whoosh.
+
+**Clinical references:** [NHS England NG safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
