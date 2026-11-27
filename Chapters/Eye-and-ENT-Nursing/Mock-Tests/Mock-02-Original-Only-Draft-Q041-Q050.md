@@ -207,32 +207,32 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 </details>
 
-### Q48. A patient receiving treatment for acute bacterial sialadenitis develops persistent fever and an enlarging localized tender fluctuant swelling despite the initial treatment plan. What complication should prompt urgent reassessment?
+### Q48. A patient with recurrent mealtime submandibular pain has a small salivary duct stone. The specialist proposes sialendoscopy. Which explanation describes the purpose of this gland-preserving procedure?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original mock-exclusive practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** Normal return of salivary secretion
-- **B.** Uncomplicated allergic rhinitis
-- **C.** Expected temporary hearing loss
-- **D.** Salivary gland abscess requiring evaluation for drainage
+- **A.** Remove the entire salivary gland routinely
+- **B.** Deliver radiotherapy to the salivary gland
+- **C.** Visualize the salivary duct and retrieve an accessible stone using suitable instruments
+- **D.** Test auditory nerve conduction
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: D. Salivary gland abscess requiring evaluation for drainage**
+**Correct answer: C. Visualize the salivary duct and retrieve an accessible stone using suitable instruments**
 
-- **A. Kyun galat hai:** Persistent fever aur enlarging fluctuant swelling normal salivary recovery nahi hai.
+- **A. Kyun galat hai:** Sialendoscopy ka goal selected cases mein gland ko preserve karna hai. Gland excision kuch complex cases mein zaroori ho sakta hai par routine sialendoscopy ka meaning excision nahi hai.
 
-- **B. Kyun galat hai:** Allergic rhinitis nasal symptoms cause karti hai. Localized painful fluctuant salivary swelling ko explain nahi karti.
+- **B. Kyun galat hai:** Radiotherapy duct mein phanse stone ko endoscopically identify aur remove karne ka method nahi hai.
 
-- **C. Kyun galat hai:** Hearing loss salivary abscess ka expected treatment response nahi hai.
+- **C. Kyun sahi hai:** Chhota endoscope salivary duct ke andar direct visualization deta hai. Stone accessible ho toh suitable retrieval instruments se nikala ja sakta hai. Stone ki size aur position dekhkar specialist decide karta hai ki ye technique appropriate hai ya additional approach chahiye.
 
-- **D. Kyun sahi hai:** Localized collection abscess suggest kar sakti hai. Urgent clinical reassessment, appropriate imaging aur drainage if indicated ki zaroorat ho sakti hai.
+- **D. Kyun galat hai:** Auditory nerve testing hearing assessment se related hai. Salivary duct obstruction ka isse direct evaluation nahi hota.
 
-**Exam clue:** Antibiotic treatment ke bawajood focal fluctuant swelling source-control assessment ka clue hai.
+**Exam clue:** Sialendoscopy = selected duct obstruction ka direct visualization aur gland-preserving management.
 
-**Clinical reference:** [Clinical guidance](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/sialadenitis).
+**Clinical reference:** [MSD Manual: Salivary stones](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/salivary-stones).
 
-**YouTube MCQ practice:** Dedicated relevant question-practice video not verified. Evidence gap remains.
+**YouTube MCQ practice:** Exact-item practice verification pending.
 
 </details>
 
