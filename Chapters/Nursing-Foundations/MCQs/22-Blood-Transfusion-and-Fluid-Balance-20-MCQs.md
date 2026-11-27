@@ -4,7 +4,7 @@
 
 ### Q1. Before starting a blood transfusion, which verification is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use the room number as identification
 - **B.** Assume all units from the blood bank are for this patient
@@ -34,9 +34,11 @@ Blood transfusion mein kisi doosre patient ke liye compatible unit galti se lag 
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q32](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q32-before-starting-a-blood-transfusion-which-verification-is-essential)
+
 ### Q2. Which observation provides a baseline for monitoring transfusion reactions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only the patient's age
 - **B.** Vital signs and relevant clinical status before starting
@@ -62,13 +64,15 @@ Baseline vital signs transfusion se pehle patient ki condition ka starting recor
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — transfusion vital-sign monitoring, Nursing Wallah by PW (44:25)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=2665s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q72](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q72-which-observation-provides-a-baseline-for-monitoring-transfusion-reactions)
+
 ### Q3. A patient develops fever, chills and flank pain soon after a red cell transfusion starts. What is the immediate action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 AIIMS NORCET, 11 September 2022 — related reported concept** · **🟣 AIIMS NORCET 9 Mains, 27 September 2025 — related reported concept**
 
 - **A.** Stop the transfusion and initiate the reaction protocol with patient assessment
 - **B.** Increase the rate
@@ -94,13 +98,17 @@ Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [NORCET 2022 memory-based report](https://testbook.com/question-answer/patient-is-undergoing-blood-transfusion-and-sudden--632048b3fc9b126a3aefd06b) · [NORCET 9 Mains 2025 memory-based report](https://testbook.com/question-answer/during-a-blood-transfusion-a-patient-suddenly-dev--692ee9e35f2b488969718e97). Dono third-party reports suspected transfusion reaction mein transfusion rokne ki priority test karti hain. Official papers aur keys independently authenticate nahi hue hain. Current protocol ke hisaab se assessment aur venous access manage karo.
+
+**▶️ [YouTube MCQ practice — transfusion-reaction priority interventions, Nursing Wallah by PW (17:50)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q6](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q6-a-patient-develops-fever-chills-and-flank-pain-soon-after-a-red-cell-transfusion-starts-what-is-the-immediate-action)
+
 ### Q4. After a suspected transfusion reaction, what should happen to the implicated blood bag and tubing?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Discard immediately without reporting
 - **B.** Reuse them for another patient
@@ -130,9 +138,11 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q70](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q70-after-a-suspected-transfusion-reaction-what-should-happen-to-the-implicated-blood-bag-and-tubing)
+
 ### Q5. During transfusion an older patient develops dyspnea, hypertension and signs of volume overload. Which complication is particularly relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 AIIMS NORCET 6 Prelims, 2024 — related reported concept**
 
 - **A.** Isolated iron deficiency
 - **B.** Expected therapeutic response
@@ -158,13 +168,17 @@ TACO ka full form transfusion-associated circulatory overload hai. Transfused vo
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [NORCET 6 Prelims 2024 memory-based report](https://testbook.com/question-answer/after-blood-transfusion-sign-and-symptom-of-circu--662a478cb5c94215148dee68). Is report mein transfusion ke baad circulatory overload ke findings poochhe gaye hain. Official paper aur key authenticate nahi hue hain. Yeh original question related concept test karta hai.
+
+**▶️ [YouTube MCQ practice — circulatory overload versus septicemia, Nursing Wallah by PW (25:21)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1521s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q68](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q68-during-transfusion-an-older-patient-develops-dyspnea-hypertension-and-signs-of-volume-overload-which-complication-is-particularly-relevant)
+
 ### Q6. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Simple dehydration
 - **B.** A normal post-transfusion change
@@ -194,9 +208,11 @@ TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q15](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q15-a-patient-develops-acute-hypoxemia-and-bilateral-lung-infiltrates-during-or-within-hours-of-transfusion-without-clear-circulatory-overload-which-complication-should-be-considered)
+
 ### Q7. Which IV fluid is conventionally compatible with standard red-cell administration, subject to blood bank policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** An arbitrary calcium-containing solution
 - **B.** 0.9% sodium chloride
@@ -226,9 +242,11 @@ TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q89](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q89-which-iv-fluid-is-conventionally-compatible-with-standard-red-cell-administration-subject-to-blood-bank-policy)
+
 ### Q8. Why should a medication not be added directly to a blood component bag?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It may be incompatible, contaminate the product or cause a dosing or identification error
 - **B.** Blood products neutralize every medication
@@ -258,9 +276,11 @@ Blood component ek carefully prepared biological product hai. Direct medicine ad
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q57](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q57-why-should-a-medication-not-be-added-directly-to-a-blood-component-bag)
+
 ### Q9. Which blood component primarily increases oxygen-carrying capacity in an anemic patient when transfusion is indicated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Packed red blood cells
 - **B.** Platelet concentrate
@@ -290,9 +310,11 @@ Red blood cells mein hemoglobin hota hai jo lungs se oxygen tissues tak carry ka
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q9](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q9-which-blood-component-primarily-increases-oxygen-carrying-capacity-in-an-anemic-patient-when-transfusion-is-indicated)
+
 ### Q10. Which blood component is commonly prescribed to replace platelets in clinically indicated thrombocytopenia?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Packed red cells
 - **B.** Normal saline
@@ -322,9 +344,11 @@ Platelets chhote cell fragments hain jo injured blood vessel par primary plug ba
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q74](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q74-which-blood-component-is-commonly-prescribed-to-replace-platelets-in-clinically-indicated-thrombocytopenia)
+
 ### Q11. A patient with a clinically indicated multiple clotting factor deficiency receives plasma. Which purpose is relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Provide only concentrated red cells
 - **B.** Replace all electrolytes without volume
@@ -354,9 +378,11 @@ Coagulation factors blood proteins hain jo clot ko stable banane ke liye cascade
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q50](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q50-a-patient-with-a-clinically-indicated-multiple-clotting-factor-deficiency-receives-plasma-which-purpose-is-relevant)
+
 ### Q12. Which blood component contains concentrated fibrinogen and selected clotting proteins?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Platelet-poor saline
 - **B.** Cryoprecipitate
@@ -382,13 +408,15 @@ Cryoprecipitate plasma ka cold-insoluble fraction hai. Isme concentrated fibrino
 
 **Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — cryoprecipitate, Nursing Wallah by PW (10:14)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=614s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q36](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q36-which-blood-component-contains-concentrated-fibrinogen-and-selected-clotting-proteins)
+
 ### Q13. A patient weighs 62 kg yesterday and 64 kg today using the same scale and comparable conditions. What should the nurse consider?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** The change should never be assessed
 - **B.** A 2-kg rapid gain may reflect approximately 2 L of fluid accumulation
@@ -416,9 +444,11 @@ Same scale aur comparable conditions mein weight 64 minus 62 = 2 kg badha hai. W
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q48](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q48-a-patient-weighs-62-kg-yesterday-and-64-kg-today-using-the-same-scale-and-comparable-conditions-what-should-the-nurse-consider)
+
 ### Q14. A patient's output includes 900 mL urine and 300 mL drain fluid while measured intake is 1500 mL. What is recorded net balance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** +300 mL
 - **B.** −300 mL
@@ -442,13 +472,15 @@ Recorded fluid balance mein same observation period ka measured intake minus mea
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — intake/output calculations, Nursing Guru Kannada](https://www.youtube.com/watch?v=4KjbdI4RNmc).** 12 September 2026 ki published description mein positive aur negative fluid balance ke calculation MCQs diye gaye hain. Video Kannada mein hai. Exact question, timestamp aur playback confirm nahi hue hain.
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q82](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q82-a-patients-output-includes-900-ml-urine-and-300-ml-drain-fluid-while-measured-intake-is-1500-ml-what-is-recorded-net-balance)
+
 ### Q15. Which finding is consistent with possible extracellular fluid volume depletion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** New generalized edema as the only sign
 - **B.** Progressive weight gain with crackles
@@ -476,9 +508,11 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q65](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q65-which-finding-is-consistent-with-possible-extracellular-fluid-volume-depletion)
+
 ### Q16. A patient with cardiac disease receives IV fluid and develops new crackles and increasing work of breathing. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Encourage a large oral fluid bolus
 - **B.** Wait for the bag to empty
@@ -506,9 +540,11 @@ Cardiac disease mein heart extra IV fluid efficiently handle nahi kar paata toh 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q11](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q11-a-patient-with-cardiac-disease-receives-iv-fluid-and-develops-new-crackles-and-increasing-work-of-breathing-what-should-the-nurse-do)
+
 ### Q17. Which solution is an isotonic crystalloid in common clinical use?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** 0.45% sodium chloride
 - **B.** Sterile water for IV infusion alone
@@ -536,9 +572,11 @@ Isotonic crystalloid ka effective tonicity plasma ke approximately similar hota 
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q7](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q7-which-solution-is-an-isotonic-crystalloid-in-common-clinical-use)
+
 ### Q18. Why must hypertonic saline administration be closely monitored?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It is safe at any rate for every patient
 - **B.** It can alter sodium and water distribution rapidly, with serious complications if mismanaged
@@ -566,9 +604,11 @@ Hypertonic saline plasma ke comparison mein higher effective solute concentratio
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q84](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q84-why-must-hypertonic-saline-administration-be-closely-monitored)
+
 ### Q19. A patient receiving a potassium-containing IV solution has an unexpectedly high potassium result. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess the patient, verify the result and infusion, and urgently follow the escalation protocol
 - **B.** Continue unchanged regardless of the result
@@ -596,9 +636,11 @@ Hyperkalemia yani blood potassium zyada hona heart ke electrical conduction ko a
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q116](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q116-a-patient-receiving-a-potassium-containing-iv-solution-has-an-unexpectedly-high-potassium-result-which-action-is-safest)
+
 ### Q20. Why should measurable liquid medication and tube flushes be included in intake records?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** They cannot enter the body's water compartments
 - **B.** They are always negligible
@@ -625,6 +667,8 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q80](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q80-why-should-measurable-liquid-medication-and-tube-flushes-be-included-in-intake-records)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index)
