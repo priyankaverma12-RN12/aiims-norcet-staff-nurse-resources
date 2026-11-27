@@ -45,4 +45,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [Two DSSSB immunity and antibody adaptations, indexed NORCET leads](21-22-Immunity-and-Antibodies-Reported-PYQ-Adaptations.md). Third-party pages opened for DSSSB, official keys not authenticated. Indexed leads excluded from confirmed count.
 
-**Current total: 48 reported recruitment adaptations (45 prior + 1 ESIC + 2 DSSSB).** Two academic-paper adaptations remain separate. Two indexed UP NHM/HSSC leads are excluded from this total.
+[Vaccination and cold chain reported exam practice](Vaccination-and-Cold-Chain-Reported-PYQs.md): one retrieved OSSSC 2021 item and provisional indexed leads. Provisional leads excluded.
+
+**Current total: 49 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
