@@ -105,4 +105,6 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Incident reporting and quality management](04D-Incident-Reporting-and-Quality-Management.md), 30 allocated.
 - [Environmental and equipment safety](04E-Environmental-and-Equipment-Safety.md), 30 allocated.
 
-Next group 05 asepsis and standard precautions. Full clinical and semantic audit pending.
+- [Bedside sterile-field clinical judgment](05A-Bedside-Sterile-Field-Clinical-Judgment.md), 30 allocated.
+
+Next: reconcile remaining Group 05 legacy allocations against sibling Infection Control banks, then distinct bedside application gaps. Full clinical and semantic audit pending.
