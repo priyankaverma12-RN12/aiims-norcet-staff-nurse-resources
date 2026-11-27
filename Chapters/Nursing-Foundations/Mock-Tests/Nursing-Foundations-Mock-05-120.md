@@ -460,7 +460,7 @@ Fresh blood aur dizziness significant bleeding indicate kar sakte hain. Nurse pa
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Change the parameter in the record
 - **B.** Give an unrelated medicine to normalize the parameter without an order
@@ -486,15 +486,17 @@ Hold parameter ek authorized instruction hai jo unsafe clinical finding par dose
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q20](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q20](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q20-a-patient-has-a-prescribed-medicine-but-an-essential-pre-administration-parameter-is-outside-the-stated-hold-limit-what-should-the-nurse-do)
 
 ## Block 2
 
 ### Q21. A prescription states 0.5 mg. Which notation best reduces decimal-related medication errors?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 0.5 mg with a leading zero and no unnecessary trailing zero
 - **B.** 5.0 mg
@@ -520,9 +522,11 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 [Clinical reference](https://www.ismp.org/system/files/resources/2024-04/ISMP_ErrorProneAbbreviation_List.pdf)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q18](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q18](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q18-a-prescription-states-05-mg-which-notation-best-reduces-decimal-related-medication-errors)
 
 ### Q22. A nurse identifies a gap between routine ward practice and current research evidence. What is the appropriate evidence-based practice approach?
 
@@ -2276,7 +2280,7 @@ Bed cradle bedcovers ka weight feet se door rakhne mein help karta hai. Nurse de
 
 ### Q92. What is the principal purpose of medication reconciliation during admission or transfer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Copy old orders without checking changes
 - **B.** Identify and resolve differences between the actual medication list and new orders
@@ -2302,13 +2306,15 @@ Medication reconciliation mein patient ki best possible current medication histo
 [Clinical reference](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q19](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q19](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q19-what-is-the-principal-purpose-of-medication-reconciliation-during-admission-or-transfer)
 
 ### Q93. A liquid medicine is ordered as 125 mg and supplied as 250 mg per 5 mL. How much should be measured?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** 2.5 mL
 - **B.** 10 mL
@@ -2334,9 +2340,11 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — dosage calculation, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q17](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q17](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q17-a-liquid-medicine-is-ordered-as-125-mg-and-supplied-as-250-mg-per-5-ml-how-much-should-be-measured)
 
 ### Q94. A 10% weight/volume glucose solution is supplied in a 250-mL container. How many grams of glucose does it contain?
 
