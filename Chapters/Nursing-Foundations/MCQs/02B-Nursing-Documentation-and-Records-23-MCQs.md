@@ -6,9 +6,8 @@
 
 ### Q1. A nurse realizes at the end of a shift that a care event was not documented when it occurred. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -39,9 +38,8 @@
 
 ### Q2. In a handwritten record a nurse makes a minor factual error. What is the usual safe correction principle?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@
 
 ### Q3. An electronic record automatically carries forward a previous shift's physical examination. What should the nurse do before accepting it?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -105,9 +102,8 @@
 
 ### Q4. A nurse plans to administer a scheduled drug in ten minutes. Which medication documentation practice is safest?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -138,9 +134,8 @@
 
 ### Q5. A patient refuses an offered medication. Which record is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -171,9 +166,8 @@
 
 ### Q6. A nurse documents, "Patient was difficult all morning." What is the key improvement needed?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -204,9 +198,8 @@
 
 ### Q7. A patient tells the nurse about a symptom using an unusual expression. Which documentation method best preserves the subjective information?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -237,9 +230,8 @@
 
 ### Q8. A hospital uses problem-oriented documentation with SOAP. Which entry belongs primarily in the Assessment component?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -270,9 +262,8 @@
 
 ### Q9. In a SOAP record, which example belongs primarily under Plan?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -303,9 +294,8 @@
 
 ### Q10. Which nursing documentation format explicitly links a stated problem to interventions and their evaluation?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -336,9 +326,8 @@
 
 ### Q11. In focus charting, what does the R in DAR usually represent?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -369,9 +358,8 @@
 
 ### Q12. A unit uses charting by exception. What prerequisite makes this method meaningful?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -402,9 +390,8 @@
 
 ### Q13. Which record is most useful for visualizing repeated observations over time?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -435,9 +422,8 @@
 
 ### Q14. A nurse finds a duplicate patient identifier in an electronic chart before entering assessment findings. What is the safest response?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -468,9 +454,8 @@
 
 ### Q15. The electronic health record is temporarily unavailable. Which documentation approach supports safe continuity?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -501,9 +486,8 @@
 
 ### Q16. A colleague asks to use the nurse's electronic login because their account is locked. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -534,9 +518,8 @@
 
 ### Q17. A nurse needs to review records of a patient from another unit for an assigned consultation. Which privacy principle applies?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -567,9 +550,8 @@
 
 ### Q18. An electronic system retains the date, user identity and prior versions of changed entries. What is the main purpose of this feature?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -600,9 +582,8 @@
 
 ### Q19. A nurse provides teaching on a complex home procedure. Which documentation most clearly demonstrates the teaching outcome?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -633,9 +614,8 @@
 
 ### Q20. A clinician is reviewing an incident that caused a minor injury. Which distinction between clinical chart and safety incident report is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -666,9 +646,8 @@
 
 ### Q21. A nurse records that an urgent concern was communicated to the provider. Which detail improves continuity most?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -699,9 +678,8 @@
 
 ### Q22. An audit finds many nursing entries missing the patient's response to interventions. Which improvement is most useful?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -732,9 +710,8 @@
 
 ### Q23. A patient requests access to their clinical record. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
