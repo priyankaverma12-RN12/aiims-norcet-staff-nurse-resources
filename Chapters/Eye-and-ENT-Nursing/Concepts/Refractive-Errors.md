@@ -22,6 +22,67 @@ Concave ya minus lens incoming light ko diverge karta hai. Iska matlab rays pehl
 
 **Reported exam evidence:** [ESIC Staff Nurse 2016](https://testbook.com/question-answer/myopia-is-corrected-by--6241c53a0eb7d4f00fab8e4e), [RRB 2019 Shift II](https://testbook.com/question-answer/myopia-is-corrected-by-using--61a9f81425363842160e4b3a), [Safdarjung 2019 recall](https://testbook.com/question-answer/concave-lens-is-used-to-correct--6267cdc866ee819ba1a078ee). Same correction concept, official keys pending.
 
+## Myopia expanded clinical notes
+
+[24 additional original MCQs](../MCQs/Myopia-Additional-24-MCQs.md) · [Six earlier myopia questions Q1–6](../MCQs/Refractive-Errors-30-MCQs.md). Total 30 allocated originals, separate from reported questions.
+
+### Classification
+
+**🟠 HIGH YIELD**
+
+Myopia mein eye ki optical power aur eye ki length ka balance bigad jaata hai. Agar eye ki length zyada hai toh axial myopia kehte hain. Agar normal-length eye mein cornea ya lens ki optical power primary problem hai toh refractive myopia kehte hain. Specific drug ya disease se related change secondary myopia ho sakta hai. Ye terms reason samajhne ke liye useful hain.
+
+IMI research classification ke hisaab se relaxed accommodation mein spherical equivalent −0.50 D ya isse more negative ho toh myopia hai. −6.00 D ya more negative high myopia hai. Other public-health definitions different cutoffs use kar sakti hain. Spherical equivalent (SE) ek summary value hai. Formula SE = sphere + cylinder/2. Example: sphere −3 D aur cylinder −2 D hai toh SE = −3 + (−2/2) = −4 D. Ye full spectacle prescription ka replacement nahi hai.
+
+High myopia aur pathologic myopia same nahi hain. High myopia refractive magnitude describe karti hai. Pathologic myopia mein posterior eyeball mein tissue-level damage hota hai. Posterior staphyloma ka matlab eye wall ka local outward bulge hai. Myopic maculopathy mein central vision ke important retinal area mein structural changes aa sakte hain. Sirf minus prescription dekhkar tissue damage diagnose mat karo.
+
+### Risk and monitoring
+
+**🟠 HIGH YIELD**
+
+Family mein myopia, especially both parents mein, aur childhood mein early onset future progression risk ko assess karne mein helpful clues hain. Child grow karta hai toh axial length bhi change ho sakti hai. Isliye same prescription wale do children ka future risk same hona zaroori nahi hai. Safe outdoor activity aur reasonable near-work breaks encourage karo. Inse existing refractive error cure hone ka promise nahi karna.
+
+Follow-up mein old aur new refraction ko comparable testing conditions mein compare karo. Example: −1.50 D se −2.25 D in 12 months. Difference −0.75 D hai. Myopic magnitude 0.75 D badhi hai. Nurse records compare karne aur appointments track karne mein help karti hai. Ocular biometry axial length directly measure kar sakti hai. Clinician age, growth aur treatment ke context mein result interpret karta hai.
+
+### Assessment and correction
+
+**🔴 MOST IMPORTANT**
+
+School screening mein child symptom report na kare tab bhi each eye ka result important hai. Failed screening ko normal assume mat karo. Parents ko result explain karo, proper referral arrange karo aur follow-up completion track karo. Classroom mein seating adjust karna temporary help hai, examination aur correction ka replacement nahi.
+
+Child ki active accommodation measurement ko more negative bana sakti hai. Isliye authorized clinician cycloplegic refraction use kar sakta hai. Cycloplegia temporary focusing relaxation hai. Agar noncycloplegic aur cycloplegic results different hain, clinician pseudomyopia ya accommodation-related shift assess karta hai. Sirf short-term difference se eyeball growth diagnose nahi karte.
+
+Suitable spectacles clear distance vision provide karti hain. Prescribed correction ko jaan-boojhkar kam karna established myopia-control method nahi hai. Agar good correction ke baad bhi acuity poor hai, ocular pathology ya visual development problem investigate karni hai. Driver ko safe distance vision aur applicable licensing standard follow karne ko bolo.
+
+### Myopia control and safety
+
+**🟠 HIGH YIELD**
+
+Myopia correction aur progression control mein difference samjho. Ordinary glasses current blur correct karti hain. Specialist selected children mein special spectacle/contact lens designs ya low-dose atropine jaise options consider kar sakta hai, jinka goal progression slow karna hai. Har child ka response same nahi hota. Dose aur product choice ophthalmologist decide karega.
+
+Atropine pupil dilation aur near focusing change cause kar sakti hai. Mild glare ya near blur ko assess aur report karo. Severe systemic signs jaise confusion, fever, flushing ya suspected overdose mein urgent medical evaluation chahiye. Medicine ko child ki reach se door rakho. Nurse independent concentration change nahi karti.
+
+Orthokeratology mein special rigid contact lens cornea ki shape temporarily change karti hai. Ye specialist-fitted treatment hai aur strict lens safety, hygiene aur review chahiye. Isko unsupervised overnight lens wear ke permission ki tarah mat samjho. Growing child mein elective LASIK generally routine myopia management nahi hai.
+
+![Original screening, referral, treatment and monitoring flowchart](../Assets/myopia-nursing-follow-up.svg)
+
+### Complications
+
+**🔴 MOST IMPORTANT**
+
+Highly myopic eye mein posterior tissues ke changes aur retinal complications ka risk badh sakta hai. Clear vision after glasses ya refractive surgery ka matlab risk completely khatam hona nahi hai. Clinician ke schedule ke according dilated retinal review follow karo. New flashes, sudden floaters, curtain-like field shadow, sudden visual loss ya central distortion ko routine glasses issue samajhkar delay mat karo.
+
+Very young child mein unusually severe myopia ke saath developmental ya skeletal abnormalities hon toh timely pediatric eye specialist evaluation chahiye. Specialist zaroorat par other disciplines involve kar sakta hai.
+
+### Teaching and separate MCQ practice
+
+- Concept lecture lead: [Refractive Errors in Hindi — BSc Nursing/GNM](https://www.youtube.com/watch?v=4nOvszLGJas). Published description indexed, direct playback throttled, channel confirmation pending.
+- Dedicated MCQ lead: [Myopia — A complete revision (Learn by MCQ: Part 1)](https://www.youtube.com/watch?v=Vgksz7DvqtY). Indexed title, direct fetch throttled. Optometry-oriented, exact nursing-level coverage and creator unconfirmed. Do not count as verified per-question video.
+- Specific risk, clinical safety and progression calculation MCQ video gaps remain.
+
+**Clinical sources checked 27 November 2026:** [NEI myopia](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/nearsightedness-myopia), [Indian national consensus, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10491088/), [AAPOS child myopia](https://aapos.org/glossary/myopia-and-treatment-of-myopia-in-children), [IMI classification](https://pubmed.ncbi.nlm.nih.gov/30817826/), [IMI 2025 interventions](https://pmc.ncbi.nlm.nih.gov/articles/PMC12448128/), [DailyMed ophthalmic atropine safety](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b39f5876-5d6f-4a8f-bd24-bd4be24ff568). Clinical sources support the notes, not a claim of exam appearance. Some specialist classification and treatment items are nursing enrichment.
+
+
 ## Hypermetropia
 
 **🔴 MOST IMPORTANT**
