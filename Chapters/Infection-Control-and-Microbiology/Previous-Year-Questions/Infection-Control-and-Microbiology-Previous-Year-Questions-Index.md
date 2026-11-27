@@ -81,3 +81,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 
 [Isolation and PPE reported ESIC adaptation and historical leads](03B-03C-Isolation-and-PPE-Reported-Evidence.md). No additional counted recruitment PYQ pending overlap review. Current counted total 57 plus two academic adaptations.
+
+
+[Biomedical waste reported examination evidence](04A-04B-BMW-Reported-Evidence.md): two retrieved AIIMS historical reports retained without count increment pending earlier-source overlap review. Current count 57 plus two academic adaptations.
