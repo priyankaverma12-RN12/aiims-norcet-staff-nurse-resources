@@ -48,7 +48,10 @@
 | [Nursing documentation and records](02B-Nursing-Documentation-and-Records-23-MCQs.md) | 23 | 30 |
 | [Clinical handover and team communication](02C-Clinical-Handover-and-Team-Communication-26-MCQs.md) | 26 | 30 |
 | [Blood pressure measurement](03A-Blood-Pressure-Measurement-23-MCQs.md) | 23 | 30 |
+| [Pulse assessment](03B-Pulse-Assessment-27-MCQs.md) | 27 | 30 |
 
-Current inventory **733 original question slots** (302 Medium, 431 Difficult), initial 600 + 133 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **760 original question slots** (314 Medium, 446 Difficult), initial 600 + 160 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
+
+Pulse allocation 3 prior + 27 new. Ten initial group 03 slots remain to allocate to respiration, oximetry, physical examination. [Pulse evidence](../Previous-Year-Questions/03B-Pulse-Reported-Evidence.md).

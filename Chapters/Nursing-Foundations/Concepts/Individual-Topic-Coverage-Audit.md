@@ -20,3 +20,8 @@ New 40 stems checked against 80 previous parsed related stems from groups 01, 02
 ## Group 03A BP checkpoint
 
 23 new original MCQs + 7 earlier allocated = 30. Current 733 slots (302 Medium, 431 Difficult), 133 expansion. 20 prior group 03 stems compared for exact matches, none. Concept and flowchart, indexed teaching and practice and retrieved NORCET 7 source. Counted PYQs 34 unchanged pending reconciliation. Next pulse, respiration, oximetry and physical examination individually. Full semantic and clinical audit pending.
+
+
+## Group 03B pulse checkpoint
+
+27 new original MCQs + Q4,5,16 earlier = 30. Inventory 760 (314 Medium, 446 Difficult), 160 expansion. 43 prior related stems exact checked, no matches. Concept, flowchart, indexed practice, retrieved SGPGI and HPSSC/RRB/ESIC historical leads. Count remains 34 pending reconciliation. Next respiration, then oximetry and physical examination. Full semantic, cross-chapter and official source audit pending.

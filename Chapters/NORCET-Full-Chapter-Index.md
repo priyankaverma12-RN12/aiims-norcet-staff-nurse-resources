@@ -389,3 +389,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Forward group 03A BP
 
 23 new MCQs, 30 allocated including seven earlier. Nursing Foundations 733 slots (302 Medium, 431 Difficult), 133 expansion, 34 counted reported adaptations, 5/10 compiled mocks. Next pulse, respiration, oximetry and physical examination. Reverse untouched. Full source and duplicate audit pending.
+
+
+### Forward group 03B pulse
+
+27 new MCQs, 30 allocated. Nursing Foundations 760 slots (314 Medium, 446 Difficult), 160 expansion. 34 counted historical adaptations, 5/10 compiled mocks. Next respiration, oximetry and physical examination. Reverse untouched. Full source and duplication audit pending.
