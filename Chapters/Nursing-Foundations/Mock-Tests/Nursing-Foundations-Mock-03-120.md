@@ -204,9 +204,22 @@ Language aur literacy barriers treatment misunderstanding cause kar sakte hain. 
 
 **Correct: D. Assess airway and alertness, position safely and give prescribed treatment as indicated**
 
-Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti hai. Nurse airway safety aur prescribed antiemetic plan assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Large meal aur unsafe flat position aspiration risk badha sakte hain. Symptoms ignore nahi karne chahiye.
+Anesthesia ke baad nausea aur vomiting ho sakti hai. Agar vomit airway mein chala jaaye, toh aspiration se breathing compromise ho sakti hai. Nurse alertness, airway aur breathing assess karti hai aur procedure aur clinical condition ke hisaab se safe position deti hai. Prescribed antiemetic, suction aur appropriate help arrange ki ja sakti hai. Oral intake tabhi resume karo jab safe ho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Large solid meal active nausea aur aspiration risk ke dauran vomiting worsen kar sakta hai.
+- **B (Galat):** Anesthesia finish hone ke baad bhi nausea aur airway complications ho sakti hain.
+- **C (Galat):** Active vomiting mein flat position airway risk badha sakti hai.
+- **D (Sahi):** Airway assessment, safe positioning aur indicated treatment aspiration risk aur nausea dono ko address karte hain.
+
+**Exam clue:** Postoperative vomiting mein airway safety pehle assess karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -771,9 +784,22 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 **Correct: D. Assess bladder distension and use bladder scanning if indicated**
 
-Anesthesia, pain aur medicines urinary retention cause kar sakti hain. Bladder assessment retained urine aur low production differentiate karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Diuretics ya fluids retention necessarily solve nahi karte. Renal failure assume nahi karni chahiye.
+Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar nahi nikal pa raha. Anesthesia aur medicines bladder sensation ya contraction affect kar sakti hain. Suprapubic discomfort, yani lower abdomen mein bladder ke upar pain, distension ka clue ho sakta hai. Nurse bladder assess karti hai, indicated scan se volume check karti hai aur local protocol ke according timely review leti hai. Low urine production bhi alag possibility hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Large fluid intake bladder aur distend kar sakta hai aur fluid restrictions violate kar sakta hai.
+- **B (Galat):** Unprescribed diuretic urine production badha sakti hai lekin blocked emptying solve nahi karti.
+- **C (Galat):** Voiding na hone se renal failure confirm nahi hota, kyunki retention bhi possible hai.
+- **D (Sahi):** Bladder assessment aur scan se retained urine aur khaali bladder differentiate karne mein help milti hai.
+
+**Exam clue:** Urine pass na ho aur bladder discomfort ho, toh retention assess karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK549844/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2169,9 +2195,22 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 **Correct: B. It supports functional recovery and reduces complications of immobility**
 
-Mobilization circulation, lung expansion aur muscle function support kar sakti hai. Nurse surgical restrictions aur stability check karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Other prevention measures still needed ho sakte hain. Universal unrestricted activity unsafe hai.
+Jab patient bahut der bed par rehta hai, toh leg muscles ki pumping kam ho jaati hai aur veins mein blood flow slow ho sakta hai. Muscles weak ho sakti hain aur lung expansion bhi kam ho sakta hai. Early safe mobilization recovery support karti hai. Nurse BP, pain, balance, fall risk aur surgical restrictions check karke suitable assistance ke saath patient ko move karwati hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Mobility alone har patient mein thrombosis prevention ke liye sufficient nahi hai.
+- **B (Sahi):** Safe movement muscle function aur venous return support karta hai aur immobility complications ka risk kam kar sakta hai.
+- **C (Galat):** Mobilization ke baad bhi vital signs aur surgical complications assess karna zaroori hai.
+- **D (Galat):** Har operation ke baad unrestricted activity safe nahi hoti, kyunki restrictions alag ho sakti hain.
+
+**Exam clue:** Early mobilization ka matlab safe individualized movement hai.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2554,9 +2593,22 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 **Correct: D. Activity, respiration, circulation, consciousness and oxygenation**
 
-Recovery scoring patient ki physiological recovery systematically assess karne mein help karti hai. Actual discharge criteria facility protocol se determine hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Pain, wound aur fasting separately important ho sakte hain, lekin standard recovery score in tak limited nahi hai.
+Aldrete-type recovery score anesthesia ke baad physiological recovery assess karne mein help karta hai. Common modern score mein movement, breathing, circulation, consciousness aur oxygen saturation check ki jaati hai. Original score mein colour use hota tha aur modified versions oxygenation use karte hain. Score alone safe discharge guarantee nahi karta, kyunki pain, bleeding, nausea aur procedure-specific criteria bhi assess karne hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Wound drainage colour alone overall anesthesia recovery nahi batata.
+- **B (Galat):** Pain important assessment hai, lekin Aldrete-type score sirf pain par based nahi hota.
+- **C (Galat):** Fasting duration preoperative information hai aur current physiological recovery score ka component nahi hai.
+- **D (Sahi):** Activity, respiration, circulation, consciousness aur oxygenation common modified Aldrete domains hain.
+
+**Exam clue:** Five physiological domains yaad rakho aur discharge ke facility criteria bhi check karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK594237/?report=classic)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
