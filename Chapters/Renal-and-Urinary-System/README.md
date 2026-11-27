@@ -28,4 +28,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-hyperkalemia-20261127-1238. Scope: hyperkalemia chapter-local only. Claimed UTC: 2026-11-27T12:38:00Z. Expiry UTC: 2026-11-27T13:08:00Z. -->
