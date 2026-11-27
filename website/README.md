@@ -28,3 +28,9 @@ Proposed root README line (insert once after verifying deployment, with fresh bl
 - Final parser matched 221/221 numbered headings across five current source files: Respiratory Day 1 (44), Nursing Foundations Mock 01 (120), incident reporting (26), Eye anatomy (30), and medication-monitoring reported adaptation (1). Separate hint and answer blocks are supported.
 - Exact remote quiz.js and styles.css were copied to local Chromium component fixtures and Git blob hashes matched. At 1440×900, 390×844 and 320×720, score, wrong/correct classes, answer dropdown, synthetic SVG, mocked bookmark state and no horizontal overflow passed. Clock fast-forward auto-submission passed. The original GitHub airway-zones.svg source was retrieved.
 - Live browser navigation and external network requests were blocked. Real CDN integration, actual diagram rendering, browser storage persistence across reload and all child-link rendering remain pending. Do not describe the site as production-tested.
+
+## Deployment gate
+
+The manual Pages workflow now runs the Node regression checks and `python website/browser-smoke.py` with Playwright Chromium before publishing. The browser test exercises all chapter pages, a real respiratory diagram, answer visibility, scoring, bookmark persistence after reload, mobile layout and timer expiry using live public source files. The test was prepared but has not run in CI yet. The current execution environment cannot resolve raw.githubusercontent.com, and the GitHub connector cannot configure Pages or dispatch workflows. Enable GitHub Actions publishing and manually run the workflow after merge. A failing test blocks deployment. Do not add the root README launch link until the live URL is verified.
+
+The exact remote parser and score functions passed all eight regression assertions again at checkpoint a1a7cf722f8ce3cf60e60c61a29697ae9ba14eec.
