@@ -1,0 +1,80 @@
+/* NORCET study UI — optional stylesheet for a compatible Markdown renderer.
+   GitHub's native .md viewer does not load repository CSS.
+   Apply the study-ui class to the rendered content container.
+   Semantic exam classes may be supplied by the renderer; keep emoji/text fallback. */
+.study-ui {
+  color-scheme: light dark;
+  --ink: #18263b;
+  --muted: #475569;
+  --surface: #ffffff;
+  --soft: #f1f5f9;
+  --border: #cbd5e1;
+  --heading: #174b79;
+  --subheading: #12645c;
+  --link: #0759ad;
+  --exact: #166534;
+  --exact-bg: #dcfce7;
+  --reported: #1e40af;
+  --reported-bg: #dbeafe;
+  --related: #6b21a8;
+  --related-bg: #f3e8ff;
+  --pending: #475569;
+  --pending-bg: #e2e8f0;
+  --high: #9a3412;
+  --high-bg: #ffedd5;
+  --urgent: #991b1b;
+  --urgent-bg: #fee2e2;
+  --medium: #854d0e;
+  --medium-bg: #fef9c3;
+  max-width: 78ch;
+  margin-inline: auto;
+  padding: clamp(1rem, 3vw, 2rem);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ink);
+  background: var(--surface);
+  overflow-wrap: anywhere;
+}
+@media (prefers-color-scheme: dark) {
+  .study-ui {
+    --ink: #e2e8f0; --muted: #cbd5e1; --surface: #111827;
+    --soft: #1e293b; --border: #475569; --heading: #93c5fd;
+    --subheading: #99f6e4; --link: #93c5fd;
+    --exact: #bbf7d0; --exact-bg: #14532d;
+    --reported: #bfdbfe; --reported-bg: #1e3a8a;
+    --related: #e9d5ff; --related-bg: #581c87;
+    --pending: #e2e8f0; --pending-bg: #334155;
+    --high: #fed7aa; --high-bg: #7c2d12;
+    --urgent: #fecaca; --urgent-bg: #7f1d1d;
+    --medium: #fef08a; --medium-bg: #713f12;
+  }
+}
+.study-ui h1, .study-ui h2, .study-ui h3, .study-ui h4 {
+  line-height: 1.35; scroll-margin-top: 1rem; margin-block: 1.6em .65em;
+}
+.study-ui h1 { color: var(--heading); font-size: clamp(1.8rem, 4vw, 2.5rem); }
+.study-ui h2 { color: var(--heading); border-bottom: 2px solid var(--border); padding-bottom: .35em; }
+.study-ui h3, .study-ui h4 { color: var(--subheading); }
+.study-ui a { color: var(--link); text-decoration: underline; text-underline-offset: .18em; }
+.study-ui a:focus-visible, .study-ui summary:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; }
+.study-ui details { border: 1px solid var(--border); border-radius: .7rem; padding: .75rem 1rem; margin-block: 1rem; }
+.study-ui summary { font-weight: 650; cursor: pointer; color: var(--heading); }
+.study-ui blockquote { border-inline-start: .25rem solid var(--heading); background: var(--soft); padding: .65rem 1rem; margin-inline: 0; }
+.study-ui table { border-collapse: collapse; display: block; overflow-x: auto; max-width: 100%; }
+.study-ui th, .study-ui td { padding: .6rem .75rem; border: 1px solid var(--border); text-align: start; }
+.study-ui th { background: var(--soft); }
+.study-ui img { max-width: 100%; height: auto; }
+.study-ui pre { overflow-x: auto; padding: .9rem; background: var(--soft); border-radius: .6rem; }
+.study-ui .badge { display: inline-block; font-weight: 650; font-size: .88rem; line-height: 1.4; padding: .2em .6em; border-radius: .4rem; margin-block: .12rem; }
+.study-ui .exam-exact { color: var(--exact); background: var(--exact-bg); }
+.study-ui .exam-reported { color: var(--reported); background: var(--reported-bg); }
+.study-ui .exam-related { color: var(--related); background: var(--related-bg); }
+.study-ui .exam-pending { color: var(--pending); background: var(--pending-bg); }
+.study-ui .priority-high { color: var(--high); background: var(--high-bg); }
+.study-ui .priority-urgent, .study-ui .difficulty-difficult { color: var(--urgent); background: var(--urgent-bg); }
+.study-ui .difficulty-medium, .study-ui .priority-important { color: var(--medium); background: var(--medium-bg); }
+.study-ui .difficulty-easy, .study-ui .priority-foundation { color: var(--exact); background: var(--exact-bg); }
+.study-ui .video-practice { font-weight: 650; color: var(--link); }
+.study-ui hr { border: 0; border-top: 1px solid var(--border); margin-block: 1.6rem; }
+@media print { .study-ui { background: white; color: black; max-width: none; padding: 0; } .study-ui a { color: black; } }
