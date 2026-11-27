@@ -44,6 +44,13 @@ try:
         assert page.locator("html").get_attribute("data-theme") in ("dark", "light")
         hrefs = cards.evaluate_all("(items) => items.map(a => a.href)")
         assert len(set(hrefs)) == count
+        catalog_at_start=json.loads((site/"site-catalog.json").read_text(encoding="utf-8"))
+        from urllib.parse import parse_qs, urlsplit
+        shortcuts=page.locator(".chapter-links a").evaluate_all("(links) => links.map(a => a.href)")
+        for href in shortcuts:
+            target=parse_qs(urlsplit(href).query)["doc"][0].rstrip("/")
+            assert target in catalog_at_start["directories"], f"Missing navigation target: {target}"
+        print(f"All {len(shortcuts)} chapter resource shortcuts match real repository folders.",flush=True)
         no_overflow(page)
         for href in hrefs:
             page.goto(href)
