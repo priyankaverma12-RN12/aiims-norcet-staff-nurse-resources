@@ -36,3 +36,13 @@
 | [Integrated clinical prioritization and nursing judgment](30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md) | 20 |
 
 [Chapter](../README.md) · [Five chapter mocks](../Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md)
+
+
+## Individual-topic expansion
+
+| Additional bank | New questions | Allocated topic total |
+|---|---:|---:|
+| [Nursing process and care planning](01A-Nursing-Process-and-Care-Planning-13-MCQs.md) | 13 | 30 |
+| [Clinical judgment and reasoning](01B-Clinical-Judgment-and-Reasoning-27-MCQs.md) | 27 | 30 |
+
+Current inventory **640 original question slots** (268 Medium, 372 Difficult), initial 600 + 40 new. Old 20 group 01 allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.

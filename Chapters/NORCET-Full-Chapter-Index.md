@@ -27,7 +27,7 @@ Recent NORCET format: Prelims 100 questions (80 nursing and 20 GK/aptitude), 90 
 
 | Chapter | Concepts | Practice | Mocks | Previous papers |
 |---|---|---|---|---|
-| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [600 topic-wise questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
+| [Nursing Foundations](Nursing-Foundations/README.md) | [Topic map](Nursing-Foundations/Concepts/) | [640 indexed original questions](Nursing-Foundations/MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) | [Five full mocks](Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) | [34 reported adaptations](Nursing-Foundations/Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | [Infection Control and Microbiology](Infection-Control-and-Microbiology/README.md) | [Topic map](Infection-Control-and-Microbiology/Concepts/) | [560 new original questions](Infection-Control-and-Microbiology/MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) | [Mock plan](Infection-Control-and-Microbiology/Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) | [31 reported and 2 academic adaptations](Infection-Control-and-Microbiology/Previous-Year-Questions/) |
 
 ## Workstream 2 — Adult Medical-Surgical Nursing
@@ -374,3 +374,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Individual HCV occupational top-up
 
 22 new questions, concept and flowchart, indexed resources and historical evidence gap. 30 working HCV slots including 8 earlier. Group 05 allocations sharps 40, HIV 30, HBV 30, HCV 30. 148 related stems compared with no exact overlap. Inventory 1,505 (671 Medium, 834 Difficult), 57 reported recruitment and two academic adaptations. Next: group 06 chain of infection and microbial transmission individual-topic allocation and expansion. Chapter mocks 0/10. Full audits remain pending.
+
+
+### Forward lane — Nursing Foundations group 01
+
+40 new original questions, 13 nursing process/care planning and 27 clinical judgment, with 17 and 3 earlier allocated respectively for 30 each. Inventory 640 (268 Medium, 372 Difficult), 34 counted reported adaptations unchanged, five existing compiled mocks of ten. Two detailed concept guides and diagrams, indexed practice/teaching, two retrieved reported source adaptations pending count reconciliation. 80 related exact comparisons passed. Next group 02 communication, documentation and handover. [Coverage audit](Nursing-Foundations/Concepts/Individual-Topic-Coverage-Audit.md). Full semantic, INC, official keys and video audits pending. Reverse lane separate, no reverse files changed.

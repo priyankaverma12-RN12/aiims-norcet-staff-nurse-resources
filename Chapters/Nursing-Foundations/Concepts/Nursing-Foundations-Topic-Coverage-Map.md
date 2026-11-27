@@ -73,3 +73,11 @@ Urine gravity se bag mein jaata hai. Bag bladder ke upar hoga toh urine wapas ja
 | [Integrated clinical prioritization and nursing judgment](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md) | 20 |
 
 All 30 defined groups have 20 questions. Detailed notes and original illustrations remain pending. Detailed microbiology, biomedical waste categories and advanced infection-control procedures are also assigned to the sibling Infection Control and Microbiology chapter. [Video and research guide](Nursing-Foundations-Video-and-Research-Guide.md).
+
+
+## Individual-topic detailed guides
+
+- [Nursing process and care planning](01A-Nursing-Process-and-Care-Planning.md), 30 allocated.
+- [Clinical judgment and reasoning](01B-Clinical-Judgment-and-Reasoning.md), 30 allocated.
+
+[Individual-topic coverage audit](Individual-Topic-Coverage-Audit.md). Remaining 29 grouped banks require individual coverage counts, expansion and detailed concepts.
