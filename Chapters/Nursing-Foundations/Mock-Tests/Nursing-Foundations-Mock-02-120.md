@@ -9,6 +9,10 @@
 ### Q1. Which statement is an example of a patient-centered measurable nursing outcome?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient will walk 20 meters with assistance by 6 PM
 - **B.** The nurse will provide excellent care
@@ -23,6 +27,14 @@ Measurable outcome mein patient ka expected action, distance aur time clear hai.
 
 **Baaki options kyun sahi nahi hain?** Excellent care vague hai. Someday mein time limit nahi hai. Nurse ki understanding patient outcome nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q5](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q5-which-statement-is-an-example-of-a-patient-centered-measurable-nursing-outcome) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q5](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -51,6 +63,10 @@ Load body ke paas ho toh spine par leverage kam padta hai. Stable stance aur leg
 ### Q3. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Expected outcomes
 - **B.** Etiology alone
@@ -65,6 +81,14 @@ Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis 
 
 **Baaki options kyun sahi nahi hain?** Etiology retained secretions hai. Outcomes desired results hain. Interventions nurse ke actions hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q7](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q7-a-nurse-documents-ineffective-airway-clearance-related-to-retained-secretions-as-evidenced-by-weak-cough-and-coarse-breath-sounds-what-do-the-weak-cough-and-breath-sounds-represent) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q7](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1380,6 +1404,10 @@ Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support cal
 ### Q66. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Initial diagnosis only
 - **B.** Evaluation
@@ -1394,6 +1422,14 @@ Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effe
 
 **Baaki options kyun sahi nahi hain?** Diagnosis problem identify karta hai. Planning goals aur actions decide karti hai. Registration administrative process hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q8](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q8-a-patient-receives-an-analgesic-according-to-the-care-plan-the-nurse-reassesses-pain-and-sedation-at-the-appropriate-interval-which-nursing-process-phase-is-illustrated-by-reassessment-of-the-outcome) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q8](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2224,6 +2260,10 @@ Left lateral position rectal access aur colon ke anatomical direction mein fluid
 ### Q106. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Effective tissue perfusion as a confirmed problem
 - **B.** Acute pain due to a documented wound
@@ -2238,6 +2278,14 @@ Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai.
 
 **Baaki options kyun sahi nahi hain?** Open ulcer aur wound documented nahi hain. Effective perfusion ko current problem nahi kaha ja sakta.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q6](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q6-a-patient-has-intact-skin-but-is-immobile-and-incontinent-which-nursing-diagnosis-best-describes-the-current-skin-concern) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q6](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
