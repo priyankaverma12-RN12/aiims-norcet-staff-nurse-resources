@@ -39,7 +39,7 @@ Tonsil ki surgery ke baad blood throat mein ja sakta hai aur child baar-baar swa
 |---|---|
 | Eye anatomy and physiology | [Detailed Hinglish notes and two diagrams](Eye-Anatomy-and-Physiology.md), [30 original MCQs](../MCQs/Eye-Anatomy-and-Physiology-30-MCQs.md), [one reported RRB adaptation](../Previous-Year-Questions/RRB-2019-Eye-Anatomy-Reported-Practice.md). |
 | Eye assessment and diagnostics | [Detailed notes and schematic](Eye-Assessment-and-Diagnostics.md), [30 original MCQs](../MCQs/Eye-Assessment-and-Diagnostics-30-MCQs.md), [3 reported exam adaptations](../Previous-Year-Questions/Eye-Assessment-Reported-Exam-Practice.md). Exact video-question evidence pending. |
-| Refractive errors | Next: myopia, hypermetropia, astigmatism, presbyopia. |
+| Refractive errors | [Detailed concepts and ray diagram](Refractive-Errors.md) · [30 integrated original MCQs](../MCQs/Refractive-Errors-30-MCQs.md) · [2 reported adaptations](../Previous-Year-Questions/Refractive-Errors-Reported-Exam-Practice.md). Next: expand myopia (6 existing, 24–34 more), hyperopia (6 existing), astigmatism (6 existing), presbyopia (5 existing), then optics and nursing application where distinct. Four optics and three nursing questions allocated separately. Individual topic targets and video verification pending. |
 | Cataract, glaucoma, retinal disorders | Pending. |
 | Conjunctivitis, keratitis, corneal ulcer, stye, blepharitis, trachoma | Pending. |
 | Eye emergencies, chemical exposure, penetrating injury, foreign bodies, medicines and perioperative nursing | Pending. |
