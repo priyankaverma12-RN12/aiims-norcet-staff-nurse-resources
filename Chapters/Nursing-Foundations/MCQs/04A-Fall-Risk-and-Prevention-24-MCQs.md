@@ -4,7 +4,9 @@
 
 ### Q1. A patient has a recent fall, secondary diagnosis, walker, IV, weak gait and recognizes limitations. Using respective Morse item scores of 25, 15, 15, 20, 10 and 0, what is the total?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Calculation | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. 70
 B. 85
@@ -23,11 +25,17 @@ D. 110
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. Morse Scale teaching resource below is not counted as question practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. Which finding directly scores the Morse mental-status risk item?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Patient forgets that walking requires assistance
 B. Patient cannot state date but correctly requests assistance
@@ -46,11 +54,17 @@ D. Patient has fever
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. Morse Scale teaching resource below is not counted as question practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A patient has no recent fall, no secondary diagnosis, uses furniture for support, no IV, impaired gait and overestimates ability. Given scores 0, 0, 30, 0, 20 and 15, what is the total?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Calculation | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. 45
 B. 50
@@ -69,11 +83,17 @@ D. 80
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. Morse Scale teaching resource below is not counted as question practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient initially classified as low fall risk develops delirium. What is appropriate?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Keep admission score until discharge
 B. Reassess only after a fall
@@ -92,11 +112,17 @@ D. Reassess now and revise prevention plan
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#risk-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. Morse Scale teaching resource below is not counted as question practice.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A patient repeatedly walks unassisted to the toilet because of nocturia. What best addresses the trigger?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Scheduled and prompt assisted toileting with safe access
 B. Bed rest without toileting support
@@ -115,11 +141,17 @@ D. Fall-risk wristband alone
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A visually impaired patient is newly admitted to an unfamiliar ward. Which orientation is most useful?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 A. Move essential objects frequently
 B. Demonstrate call system and route, keep items consistently accessible
@@ -138,11 +170,19 @@ D. Switch off lighting overnight
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — reported fall-prevention question, related concept only, not authenticated exact PYQ. Reported options are ambiguous about sedation. Neither routine sedation nor routine restraints is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. After a new antihypertensive dose, a patient feels lightheaded on sitting up. What should precede walking?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Rapid standing test
 B. Unassisted walking with a cane
@@ -161,11 +201,17 @@ D. Permanent cancellation of mobility
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A walker-dependent patient needs the bathroom but the walker is across the room. What is appropriate?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Use furniture for support
 B. Substitute a cane without assessment
@@ -184,11 +230,17 @@ D. Bring prescribed aid and assist according to mobility plan
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. Which footwear is most appropriate for assisted walking?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 A. Well-fitting shoes with stable nonslip soles
 B. Loose worn slippers
@@ -207,11 +259,19 @@ D. Slippery socks on polished floor
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — reported fall-prevention question, related concept only, not authenticated exact PYQ. Reported options are ambiguous about sedation. Neither routine sedation nor routine restraints is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. A bed-exit alarm sounds repeatedly when a patient needs the toilet. What is best?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Increase alarm volume alone
 B. Review toileting needs and response plan, provide timely help
@@ -230,11 +290,17 @@ D. Assume alarm prevents all falls
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A patient becomes dizzy during assisted walking. What is safest immediately?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Continue walking
 B. Leave patient standing while getting equipment
@@ -253,11 +319,17 @@ D. Pull patient upright by arm
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. The current transfer plan requires two trained staff, but only one is present. What should the nurse do?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Transfer alone if patient agrees
 B. Ask untrained visitor to assist
@@ -276,11 +348,17 @@ D. Arrange required trained assistance first
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. An older patient on several sedating medicines has two near-falls. What addresses a modifiable risk?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 A. Request medication review and maintain safety precautions
 B. Stop all medicines independently
@@ -299,11 +377,19 @@ D. Document but make no change
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — reported fall-prevention question, related concept only, not authenticated exact PYQ. Reported options are ambiguous about sedation. Neither routine sedation nor routine restraints is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. Which transfer handover best supports fall prevention?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Numeric score only
 B. Specific risks, assistance requirements and effective prevention measures
@@ -322,11 +408,17 @@ D. Previous ward name only
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A patient climbs over raised rails to reach the toilet. What should the nurse do?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 A. Raise all rails and leave patient alone
 B. Sedate routinely to prevent movement
@@ -345,11 +437,19 @@ D. Label behavior as deliberate noncompliance
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#individualized-prevention) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — reported fall-prevention question, related concept only, not authenticated exact PYQ. Reported options are ambiguous about sedation. Neither routine sedation nor routine restraints is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A patient reports neck pain after falling and striking the head. What is safest?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🔴 MOST IMPORTANT | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Lift patient into bed immediately
 B. Ask patient to rotate neck
@@ -368,11 +468,17 @@ D. Summon urgent help, assess immediate threats and avoid unnecessary movement u
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A patient on anticoagulants hits the head in a fall but feels well. What is the priority?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🔴 MOST IMPORTANT | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Promptly report and arrange assessment under head-injury protocol
 B. Routine reassurance only
@@ -391,11 +497,17 @@ D. Assume no pain means no injury
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. Which documentation best supports post-fall investigation?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Patient was careless
 B. Time, location, activity, symptoms and witnessed details
@@ -414,11 +526,17 @@ D. Fall was unavoidable
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient has no apparent injury after a fall. Which follow-up remains indicated?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Cancel reassessment
 B. Wait for second fall
@@ -437,11 +555,17 @@ D. Remove all precautions
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient refuses mobility assistance because of fear of losing independence. What is best?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Prohibit mobility indefinitely
 B. Ask family to force cooperation
@@ -460,11 +584,17 @@ D. Explore concerns and agree on safest feasible mobility plan
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#post-fall-assessment) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A ward records six falls in 2,000 patient-days. What is the rate per 1,000 patient-days?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Calculation | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. 3
 B. 6
@@ -483,11 +613,17 @@ D. 30
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. Ward A has four falls in 1,000 patient-days and B has six in 3,000 patient-days. Which statement is correct?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Calculation | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. B has higher rate
 B. A has 4 and B 2 per 1,000 patient-days
@@ -506,11 +642,17 @@ D. Raw count proves A safer
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. An audit shows completed risk scores but missing personalized care plans. What should improve?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Clinical application · **Evidence:** ⚪ Original practice, historical match pending
+<!-- /job4-metadata -->
 
 A. Add another score field only
 B. Stop measuring falls
@@ -529,11 +671,17 @@ D. Classify everyone high risk
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A high fall-risk patient requires rehabilitation to regain strength. Which approach balances goals?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Type:** Clinical application | **Evidence:** Original practice, historical match pending
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 A. Permanent bed rest
 B. Unrestricted walking
@@ -552,6 +700,12 @@ D. Coordinate supervised mobility with rehabilitation team
 
 [Concept](../Concepts/04A-Fall-Risk-and-Prevention.md#quality-and-mobility) · [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK610816/)
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — reported fall-prevention question, related concept only, not authenticated exact PYQ. Reported options are ambiguous about sedation. Neither routine sedation nor routine restraints is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific fall-risk question coverage not confirmed. General patient-safety MCQ resource below remains supplementary, not a verified specific fall question.
+<!-- /job4-metadata -->
 </details>
 
 ## Teaching and practice
