@@ -895,6 +895,10 @@ New neurological symptoms device-related compression ka sign ho sakte hain. Nurs
 ### Q43. Which care plan statement describes an intervention rather than an outcome?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient will demonstrate safe use of the walker
 - **B.** Assist the patient with prescribed range-of-motion exercises twice daily
@@ -909,6 +913,14 @@ Intervention nurse ya team ka planned action hai. Range-of-motion exercises assi
 
 **Baaki options kyun sahi nahi hain?** Pain score, walker demonstration aur intact skin patient ke expected outcomes hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q20](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q20-which-care-plan-statement-describes-an-intervention-rather-than-an-outcome) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q20](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -1865,6 +1877,10 @@ Fever ke saath neck stiffness aur confusion serious CNS infection ya other emerg
 ### Q89. Four patients need assistance. Which patient should the nurse assess first?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A patient requesting a blanket
 - **B.** A patient with sudden stridor after medication administration
@@ -1879,6 +1895,14 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 
 **Baaki options kyun sahi nahi hain?** Bath, blanket aur leaflet routine needs hain. Inhe airway emergency ke baad address karna chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**Topic-bank question:** [Q17](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q17-four-patients-need-assistance-which-patient-should-the-nurse-assess-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q17](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2075,6 +2099,10 @@ Different investigations ki preparation different hoti hai. Nurse procedure-spec
 ### Q99. Which outcome is best suited to evaluation of a pressure injury prevention plan?
 
 **Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The nurse is always busy
 - **B.** The patient receives a diagnosis of hypertension
@@ -2089,6 +2117,14 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 
 **Baaki options kyun sahi nahi hain?** Nurse ki busyness result nahi batati. Hypertension unrelated diagnosis hai. Ongoing reassessment required hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q18](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q18-which-outcome-is-best-suited-to-evaluation-of-a-pressure-injury-prevention-plan) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q18](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
@@ -2308,6 +2344,10 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 ### Q110. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Record that the pain has resolved
 - **B.** Stop pain assessment for the remainder of admission
@@ -2322,6 +2362,14 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 
 **Baaki options kyun sahi nahi hain?** Unprescribed dose harm kar sakti hai. False documentation galat hai. Pain assessment continue honi chahiye.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Further verification pending.
+
+**Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#evaluation-and-clinical-example) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
+
+**Topic-bank question:** [Q19](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q19-a-postoperative-patient-has-pain-despite-the-prescribed-intervention-and-no-new-emergency-findings-which-next-step-is-most-appropriate) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Nursing process and clinical judgment, Q19](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md)
