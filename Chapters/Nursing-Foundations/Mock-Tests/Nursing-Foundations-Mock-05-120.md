@@ -176,7 +176,9 @@ Baseline assessment treatment effect compare karne mein help karti hai. Correct 
 
 ### Q9. A patient says, I feel alone since my family left. Which response reflects empathy?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical scenario
+<!-- /job4-metadata -->
 
 - **A.** I will tell your family everything without asking
 - **B.** You should be grateful you have a bed
@@ -191,6 +193,16 @@ Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse
 
 **Baaki options kyun sahi nahi hain?** Gratitude force karna aur comparison feelings dismiss karte hain. Unauthorized disclosure privacy harm karti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02A-Therapeutic-Communication.md#meaning-and-techniques) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/2-4-therapeutic-communication)
+
+**▶️ [YouTube MCQ practice — NORCET 11 communication](https://www.youtube.com/watch?v=rugVZApzrjM)** · Indexed description confirms case-based communication techniques and barriers; exact item, channel and playback pending. Not historical NORCET 11 evidence.
+
+**Topic-bank question:** [Q18](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q18-a-patient-says-i-feel-alone-since-my-family-left-which-response-reflects-empathy)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q18](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -260,7 +272,9 @@ Controlled heat vessels dilate kar sakti hai aur muscle relaxation support kar s
 
 ### Q13. Which practice is appropriate when using abbreviations in clinical documentation?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+<!-- /job4-metadata -->
 
 - **A.** Invent personal abbreviations to save time
 - **B.** Use only approved unambiguous abbreviations and write unclear terms in full
@@ -275,6 +289,16 @@ Approved language medication aur care errors kam karne mein help karti hai. Ambi
 
 **Baaki options kyun sahi nahi hain?** Personal shortcuts aur confusing symbols misinterpret ho sakte hain. Staff ki interpretation always same nahi hoti.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02B-Nursing-Documentation-and-Records.md#practical-recording) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
+
+**▶️ [YouTube MCQ practice — Documentation and Reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Indexed dedicated MCQ description; specific item, channel and playback pending.
+
+**Topic-bank question:** [Q20](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q20-which-practice-is-appropriate-when-using-abbreviations-in-clinical-documentation)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q20](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2401,7 +2425,9 @@ Dose error severe ya delayed effects cause kar sakta hai. Nurse patient assessme
 
 ### Q112. A nurse receives a critical laboratory result for a deteriorating patient. Which communication approach best closes the loop?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
+<!-- /job4-metadata -->
 
 - **A.** Ask a visitor to relay the result
 - **B.** Leave an unread message without checking receipt
@@ -2416,6 +2442,16 @@ Critical result timely action maangta hai. Closed-loop communication mein receiv
 
 **Baaki options kyun sahi nahi hain?** Unread message, delay aur visitor relay urgent information miss karwa sakte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
+
+**Topic-bank question:** [Q19](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q19-a-nurse-receives-a-critical-laboratory-result-for-a-deteriorating-patient-which-communication-approach-best-closes-the-loop)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q19](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
@@ -2527,7 +2563,9 @@ High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result ve
 
 ### Q118. A patient is transferred to another ward while an important laboratory result is still pending. What is the safest handover action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Patient safety · Clinical application
+<!-- /job4-metadata -->
 
 - **A.** Identify the pending result and assign responsibility for follow-up
 - **B.** Assume the receiving nurse will discover it automatically
@@ -2542,6 +2580,16 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 
 **Baaki options kyun sahi nahi hain?** Automatic discovery guaranteed nahi hai. Omission communication gap hai. Unknown result ko normal likhna false entry hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [Learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific topic not established.
+
+**Topic-bank question:** [Q17](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md#q17-a-patient-is-transferred-to-another-ward-while-an-important-laboratory-result-is-still-pending-what-is-the-safest-handover-action)
+<!-- /job4-metadata -->
 </details>
 
 [Source topic bank: Therapeutic communication, documentation and handover, Q17](../MCQs/02-Therapeutic-Communication-and-Documentation-20-MCQs.md)
