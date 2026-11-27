@@ -239,7 +239,9 @@ Gait pattern patient ke affected limb par allowed load aur balance par depend ka
 
 ### Q11. A nurse encounters a barcode mismatch while scanning a medication. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Override the alert because the package looks familiar
 - **B.** Scan a different patient's wristband
@@ -254,9 +256,15 @@ Mismatch wrong patient ya wrong product ka clue ho sakta hai. Nurse administrati
 
 **Baaki options kyun sahi nahi hain?** Override, another wristband aur after-dose verification safety barrier bypass karte hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q12](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q12](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q12-a-nurse-encounters-a-barcode-mismatch-while-scanning-a-medication-what-should-happen-next)
 
 ### Q12. A patient develops sudden dyspnea and hypotension during manipulation of a central venous line. Which response is appropriate?
 
@@ -940,7 +948,9 @@ Psychomotor domain actual physical skill se related hai. Verbal knowledge ke baw
 
 ### Q42. Which item should be within reach of a patient who requires help with transfers?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** A trailing electrical cable
 - **B.** Unsecured sharp instrument
@@ -955,9 +965,17 @@ Call bell se patient bed se uthne se pehle help mang sakta hai. Isse unassisted 
 
 **Baaki options kyun sahi nahi hain?** Sharp item, wrong medication aur cable safety hazards hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04A-Fall-Risk-and-Prevention.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q11](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q11](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q11-which-item-should-be-within-reach-of-a-patient-who-requires-help-with-transfers)
 
 ### Q43. A patient with an indwelling catheter will be discharged with the device temporarily. Which skill should be confirmed?
 
@@ -1881,7 +1899,9 @@ Direct pressure bleeding vessel par compression provide karke blood loss reduce 
 
 ### Q83. Which action is appropriate when a patient requires a physical restraint under applicable policy?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 AIIMS Bhopal Nursing Officer 2018 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Use restraints routinely for staff convenience
 - **B.** Tie the restraint to a moving side rail
@@ -1896,9 +1916,17 @@ Restraints injury aur distress cause kar sakti hain. Nurse alternative measures 
 
 **Baaki options kyun sahi nahi hain?** Moving rail attachment tension cause kar sakti hai. Unobserved restraint unsafe hai. Convenience indication nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [AIIMS Bhopal Nursing Officer, 23 May 2018, Shift II](https://testbook.com/question-answer/fall-risk-interventions-do-not-include--6295d3038df0620303a3f97e) — retrieved reported fall-prevention question. Related concept only, not an authenticated exact PYQ. The reported options are ambiguous about sedation. Neither sedation nor routine restraint is a fall-prevention intervention.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04C-Restraint-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q10](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q10](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q10-which-action-is-appropriate-when-a-patient-requires-a-physical-restraint-under-applicable-policy)
 
 ### Q84. Which transfer action protects the continuity of care for a patient with an active IV infusion?
 
@@ -2175,7 +2203,9 @@ Excess fluid circulation overload aur pulmonary congestion contribute kar sakta 
 
 ### Q97. A patient with a documented severe latex allergy is admitted for a procedure. Which preventive action is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Identify the allergy and arrange latex-safe equipment before care
 - **B.** Use latex gloves if contact is brief
@@ -2190,9 +2220,17 @@ Latex exposure sensitized patient mein serious reaction cause kar sakta hai. Cle
 
 **Baaki options kyun sahi nahi hain?** Brief contact bhi reaction trigger kar sakta hai. Alert remove karna aur reaction ka wait unsafe hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice, historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific question coverage not confirmed.
+
+**Related study:** [Topic concepts](../Concepts/04E-Environmental-and-Equipment-Safety.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Patient safety and risk management, Q9](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md)
+[Source topic bank: Patient safety and risk management, Q9](../MCQs/04-Patient-Safety-and-Risk-Management-20-MCQs.md#q9-a-patient-with-a-documented-severe-latex-allergy-is-admitted-for-a-procedure-which-preventive-action-is-appropriate)
 
 ### Q98. A 1-L bag has 350 mL remaining and the pump is running at 100 mL/hour. How long until the remaining volume is infused, assuming no interruption?
 
