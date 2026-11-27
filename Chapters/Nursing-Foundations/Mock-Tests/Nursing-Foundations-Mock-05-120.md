@@ -1158,7 +1158,9 @@ Unconscious patient oral intake aspirate kar sakta hai. Nurse airway support aur
 
 ### Q50. Which term describes the use of a suitable antimicrobial preparation on living skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Antisepsis
 - **B.** Sterilization of all body tissues
@@ -1173,9 +1175,15 @@ Antiseptic living tissue par microorganisms reduce karne ke liye use hota hai. P
 
 **Baaki options kyun sahi nahi hain?** Sterilization living skin par practical goal nahi hai. Incineration burning hai. Fumigation environmental process hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q17](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q17](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q17-which-term-describes-the-use-of-a-suitable-antimicrobial-preparation-on-living-skin)
 
 ### Q51. A postoperative patient has low urine output despite a patent catheter. Which assessment is most appropriate?
 
@@ -1497,7 +1505,9 @@ Healthcare evidence aur procedures time ke saath update hote hain. Continuing le
 
 ### Q65. A chemical disinfectant requires a specified wet contact time. Which action preserves effectiveness?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Wipe the product dry immediately regardless of directions
 - **B.** Mix it with another chemical without compatibility guidance
@@ -1512,9 +1522,15 @@ Disinfectant ko microbes par act karne ke liye specified time aur concentration 
 
 **Baaki options kyun sahi nahi hain?** Immediate drying contact time reduce kar sakti hai. Arbitrary dilution ineffective ho sakti hai. Chemical mixing hazardous ho sakti hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q20](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q20](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q20-a-chemical-disinfectant-requires-a-specified-wet-contact-time-which-action-preserves-effectiveness)
 
 ### Q66. Which item is especially important to confirm before transferring a postoperative patient to the ward?
 
@@ -1959,7 +1975,9 @@ Hypertonic saline extracellular tonicity aur sodium change kar sakti hai. Rate, 
 
 ### Q85. A nurse prepares to insert an indwelling urinary catheter in an acute-care setting. Which infection prevention approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Use a previously opened catheter stored on the bedside table
 - **B.** Disconnect the drainage system routinely after insertion
@@ -1974,9 +1992,15 @@ Urinary catheter bladder tak microorganisms introduce kar sakta hai. Aseptic ins
 
 **Baaki options kyun sahi nahi hain?** Opened equipment contaminated ho sakta hai. Gloves hand hygiene replace nahi karti. Routine disconnection infection risk badhati hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific topic or procedure coverage not confirmed.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q18](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q18](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q18-a-nurse-prepares-to-insert-an-indwelling-urinary-catheter-in-an-acute-care-setting-which-infection-prevention-approach-is-appropriate)
 
 ### Q86. Which postoperative education is important before a patient leaves the hospital?
 
@@ -2509,7 +2533,9 @@ Anticoagulation bleeding risk badha sakti hai. Nurse hematoma size, pain aur cir
 
 ### Q109. Which action corresponds to hand hygiene before an aseptic task?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 NCL Staff Nurse 2020 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Clean hands only at the end of the shift
 - **B.** Wear the same gloves from a previous patient
@@ -2524,9 +2550,15 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 
 **Baaki options kyun sahi nahi hain?** End-of-shift cleaning insufficient hai. Prior cleaning ke baad recontamination possible hai. Used gloves transfer risk badhati hain.
 
+<!-- job4-metadata -->
+**Exam evidence:** [NCL Staff Nurse, November 2020](https://testbook.com/question-answer/for-infection-prevention-what-will-you-do--619d0a28c25138d98f6ce69e) — retrieved third-party report on hand hygiene around patient care; related tested concept only, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q19](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q19](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q19-which-action-corresponds-to-hand-hygiene-before-an-aseptic-task)
 
 ### Q110. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
 
