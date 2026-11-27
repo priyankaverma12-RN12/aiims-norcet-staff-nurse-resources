@@ -40,7 +40,8 @@ Pressure ka formula force divided by area hai. Same force chhoti area par lage t
 - [Simplification and order of operations](03-Simplification-and-Order-of-Operations.md) — 30 new questions.
 - [Fractions](04-Fractions.md) — 30 new questions.
 - [Decimals](05-Decimals.md) — 30 new questions.
-- Percentages — next.
-- Percentages, ratios and proportion, averages, profit/loss and discount, interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
+- [Percentages](06-Percentages.md) — 30 new questions.
+- Ratios and proportion — next.
+- averages, profit/loss and discount, interest, time and work, speed/time/distance, mensuration, data interpretation, individual reasoning topics, general science, polity, health institutions, static GK and dated current affairs — allocation and expansion pending.
 
 This is a working exam-oriented scope, not an official detailed NORCET syllabus. Finish individual topics before ten chapter mocks.
