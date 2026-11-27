@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: reverse-20261127-035535-gk07
-Scope: General Knowledge and Aptitude — ratios and proportion, local files and reverse checkpoint.
+Scope: General Knowledge and Aptitude — ratios and proportion completed, averages next, local files and reverse checkpoint.
 Claimed UTC: 2026-11-27T03:55:35Z
 Expiry UTC: 2026-11-27T04:25:35Z
 
