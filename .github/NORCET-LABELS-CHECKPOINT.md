@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-042627-polish
-Scope: Nursing Foundations mock 05 group 01 metadata, group 01–02 concept and evidence metadata and group 02 mock slots only
-Expiry UTC: 2026-11-27T04:56:27Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -54,3 +54,11 @@ Mandatory deduplication rules saved and verified in root skill (378862e09cbec19b
 - Mock 03 four slots: 170d9f4fc4315fcdddcadfcd9118f0b3ab9aba70.
 - Mock 04 four slots: bdfea0bedfb8c8f20b51d7f4ff8f2ef7181b1599.
 All seven files read back exactly and comparison after stripping changed label rows confirms every other byte, including references and hidden answers, preserved. 70 original MCQs plus 16 reused mock slots polished this run, no newly tagged questions. All previously tagged 150 original MCQs now cleaned; 16/20 previously tagged mock slots cleaned. Retained original priority mapping for 24 MCQs and two mock slots with conflicting added red overrides. NVS September 2019 reflection/clarification reported source and OpenStax therapeutic communication reopened successfully; RRB shift I direct retrieval failed this run, preserve previous reported evidence and pending recheck. No new historical claims. Rendered GitHub UI not visually inspected. Mock 05 write encountered concurrent GitHub 409, stopped study file writes and refetched target: 4 duplicate rows, 0 consolidated rows. Next: clean remaining mock 05 group 01 slots, inspect previously tagged 15 concept sections and four reported adaptations for duplicates, then tag group 02 mock slots using single-row standard. Recheck all claims. No chapter certified complete. Claim released.
+
+
+## UI cleanup continuation — mock 05 and concept/evidence inspection (27 November 2026)
+- Mock 05 four previously tagged group 01 slots consolidated in place, commit 0f4d7a49388b333691ead18dc7d3c75ef7a10ad5. Readback exact; comparison excluding changed label rows confirms all other bytes preserved, including references and hidden answers. One conflicting red overlay normalized to original priority.
+- Cumulative 150/150 previously tagged original MCQs and 20/20 previously tagged mock slots now have single colored difficulty/priority rows. Four slots polished this run, no newly tagged questions.
+- Inspected all five previously tagged concept files (15 metadata sections) and both reported-evidence files (four adaptations). 01B has duplicate topic-level priority in heading metadata and existing study-status line. Other four have separate topic-level vs subsection priorities, which should be explicitly distinguished and existing topic priority colorized in place. Repeated links across distinct subsections may be intentional navigation, retain unless redundant in same scope. PYQ files have repeated source links inside AIIMS Jodhpur, NVS and RRB items; keep original rationale links, consolidate only added metadata link duplicates, retain all evidence qualifiers and distinct GMCH official booklet lead. RRB older indexed-only status and newer successful retrieval should be distinguished without changing rationale. 01A evaluation metadata has redundant punctuation and unhelpful exact-match disclaimer despite no identified source. Normalize only metadata. No concept or PYQ edits verified this run.
+- Reopened and inspected Testbook AIIMS Jodhpur 10 Dec 2019 memory-based assessment, NVS Sep 2019 reflection/clarification and RRB Nursing Superintendent 12 Mar 2026 shift I incomplete documentation reports, and OpenStax therapeutic communication section. RRB prior retrieval gap resolved at third-party page level. No official keys authenticated or new historical matches claimed. Rendered UI not visually inspected.
+- PYQ 01 update encountered concurrent GitHub 409; stopped learner-file writes and refetched target: 2 prior style rows, 0 normalized rows. Next: complete PYQ 01/02 metadata cleanup and concept topic-priority/duplicate cleanup, then group 02 mock slots using single row style, reciprocal links and source status. Follow both skills, check claims, avoid duplicate counts and preserve original content. Claim released.
