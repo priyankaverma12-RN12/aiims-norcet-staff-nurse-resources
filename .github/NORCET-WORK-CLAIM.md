@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-20261127-032459-foundations01
+Scope: Nursing Foundations group 01 nursing process and clinical judgment, individual topic MCQs, concepts, evidence and local/global trackers.
+Claimed UTC: 2026-11-27T03:24:59Z
+Expiry UTC: 2026-11-27T03:54:59Z
 
-Forward lane: Nursing Foundations, first chapter in global curriculum index. Next: Nursing Process and Clinical Judgment individual-topic audit and expansion. Initial indexed inventory 600 original questions across 30 groups and five compiled mocks, 34 reported adaptations. Infection Control historical checkpoint c6f4a3d7ee2bfbdc381e2b539d4bc07f38040e88 preserved (1,505 indexed MCQs, next group 06); resume after Nursing Foundations completion. Reverse claim untouched. FREE alone does not establish legacy inactivity. See SKILL.md.
+Reverse lane remains separate. See SKILL.md. Prior Infection Control checkpoint preserved.
