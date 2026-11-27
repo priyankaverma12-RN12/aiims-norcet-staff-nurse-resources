@@ -332,9 +332,22 @@ Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medicati
 
 **Correct: A. Review indication regularly and remove it when no longer required under policy**
 
-Unnecessary catheter patient ko infection aur device complication risk mein rakhti hai. Nurse need reassess karti hai aur removal protocol follow karti hai.
+<!-- job5-rationale -->
+Unnecessary invasive access infection, thrombosis aur device complications ka exposure badhata hai. Indication regularly reassess karo aur no longer needed device policy ke according remove karo. Replacement schedule device aur clinical policy specific hai.
 
-**Baaki options kyun sahi nahi hain?** Routine prolonged retention risk badhati hai. Color clinical indication nahi hai. Infection signs urgent assessment maangte hain.
+**Option-by-option reasoning**
+
+- **A:** Regular indication review and timely removal correct hai.
+- **B:** Color preference alone replacement indication nahi.
+- **C:** Infection signs assessment aur action require karte hain.
+- **D:** Discharge tak automatic retention unnecessary exposure hai.
+
+**Exam clue:** Remove unnecessary vascular access promptly.
+
+[Clinical reference](https://www.who.int/publications/i/item/9789240093829)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2561,9 +2574,22 @@ Slide sheet surface friction kam karne mein help karti hai. Nurse trained techni
 
 **Correct: C. Reconcile the order and pump settings before continuing and assess the patient's condition**
 
-Transfer mein orders change ya settings mismatch ho sakti hain. Nurse current authorized order, bag label aur pump verify karke discrepancy resolve karti hai.
+<!-- job5-rationale -->
+Transfer par previous setting current order se mismatch ho sakti hai. Patient condition, bag label, concentration, remaining volume, authorized prescription, units aur pump program reconcile karo. Time-critical infusion mein promptly escalate karke safe continuity arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Old setting correct assume nahi karni chahiye. Averaging aur catch-up rate unauthorized changes hain.
+**Option-by-option reasoning**
+
+- **A:** Catch-up rate overdose ya overload cause kar sakta hai.
+- **B:** Average rate authorized plan nahi hai.
+- **C:** Reconcile and assess before continuation correct hai.
+- **D:** Previous setting current order override nahi karti.
+
+**Exam clue:** Reconcile pump settings at handover.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2854,9 +2880,22 @@ Postoperative restrictions procedure aur patient ke hisaab se hoti hain. Suitabl
 
 **Correct: C. Site, catheter details, time, relevant assessment and patient response according to policy**
 
-Documentation device location aur condition future monitoring mein help karti hai. Difficult insertion ya response bhi relevant ho sakta hai.
+<!-- job5-rationale -->
+Documentation future assessment aur traceability support karti hai. Site/laterality, device type and size, insertion time, attempts and response as required accurately record karo.
 
-**Baaki options kyun sahi nahi hain?** Dressing color alone insufficient hai. Meal break irrelevant hai. Successful insertion bhi record karni chahiye.
+**Option-by-option reasoning**
+
+- **A:** Meal break unrelated hai.
+- **B:** Dressing color alone insufficient hai.
+- **C:** Relevant device aur patient details continuity support karte hain.
+- **D:** Successful insertion bhi document karna chahiye.
+
+**Exam clue:** Document actual insertion details and response.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -3030,9 +3069,22 @@ Sudden deterioration time-sensitive situation hai. Primary clinician unavailable
 
 **Correct: C. Stop the transfusion, assess the patient and initiate the transfusion reaction protocol**
 
-Symptoms acute transfusion reaction suggest kar sakte hain. Nurse transfusion stop karti hai, patient assess karti hai aur protocol ke according blood bank aur treatment team ko inform karti hai.
+<!-- job5-rationale -->
+Chills, dyspnea aur back pain serious transfusion reaction suggest karte hain. Transfusion immediately stop karo, ABC/vitals assess karo, urgent clinical help aur blood bank inform karo. IV access approved separate/new setup se maintain karo if required, implicated blood tubing flush mat karo. Bag/tubing investigation ke liye preserve karo as directed. Serious reaction mein restart mat karo.
 
-**Baaki options kyun sahi nahi hain?** Continuing exposure harm kar sakta hai. Bag aur tubing investigation ke liye preserve karne ki need ho sakti hai. Next unit bina review unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Next unit without review further harm cause kar sakti hai.
+- **B:** Discard karne se investigation evidence lose ho sakta hai.
+- **C:** Stop, assess and activate reaction protocol correct priority hai.
+- **D:** Faster transfusion suspected trigger exposure badhati hai.
+
+**Exam clue:** Stop first, assess, notify, preserve evidence.
+
+[Clinical reference](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
