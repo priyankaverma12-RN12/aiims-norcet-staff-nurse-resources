@@ -28,7 +28,7 @@ async function home(){drawMarks();drawRecent();const [md,catalog]=await Promise.
  $('search').oninput=draw;$('group-filter').onchange=draw;draw()}
 function renderQuiz(target,md,p){
  target.innerHTML=DOMPurify.sanitize(marked.parse(md,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});
- for(const a of target.querySelectorAll('a[href]')){const href=a.getAttribute('href');if(href.startsWith('#'))continue;const r=resolveResource(href,p);if(!r){a.removeAttribute('href');continue}if(!r.external){const t=r.path;if(safe(t)&&(/\.md$/i.test(t)||t.endsWith('/')))a.href=route(t,r.hash);else a.href=sourceLink(t)+r.hash}else{a.href=r.url;a.target='_blank';a.rel='noopener noreferrer'}}
+ for(const a of target.querySelectorAll('a[href]')){const href=a.getAttribute('href');if(href.startsWith('#'))continue;const r=resolveResource(href,p);if(!r){a.removeAttribute('href');continue}if(!r.external){let t=r.path;if(!t.endsWith('/')&&Object.hasOwn(getCatalog.data?.directories||{},t))t+='/';if(safe(t)&&(/\.md$/i.test(t)||t.endsWith('/')))a.href=route(t,r.hash);else a.href=sourceLink(t)+r.hash}else{a.href=r.url;a.target='_blank';a.rel='noopener noreferrer'}}
  decorateImages(target,p);decorateDiagrams(target,p);
 }
 function makeBreadcrumb(p){

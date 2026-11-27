@@ -11,4 +11,8 @@ assert.equal(resolveResource('../Assets/a%20b.svg',p).raw,'https://raw.githubuse
 assert.equal(resolveResource('javascript:alert(1)',p),null);
 assert.equal(resolveResource('https://example.com/a.png',p).external,true);
 assert.equal(diagramSource('%%{init: {"securityLevel":"loose"}}%%\nflowchart TD\nA-->B'),'flowchart TD\nA-->B');
+assert.equal(resolveResource('Assets/heart-anatomy-overview.svg','Chapters/Cardiovascular-System/README.md').path,'Chapters/Cardiovascular-System/Assets/heart-anatomy-overview.svg');
+assert.equal(resolveResource('Assets/gland-map.svg','Chapters/Endocrine-System/README.md').path,'Chapters/Endocrine-System/Assets/gland-map.svg');
+assert.equal(resolveResource('/Assets/study-ui.css',p).path,'Assets/study-ui.css');
+assert.equal(resolveResource('Chapters/Respiratory-System/README.md',p).path,'Chapters/Respiratory-System/README.md');
 console.log('Media resolver and diagram source regression tests passed.');

@@ -52,9 +52,17 @@ try:
             assert target in catalog_at_start["directories"], f"Missing navigation target: {target}"
         print(f"All {len(shortcuts)} chapter resource shortcuts match real repository folders.",flush=True)
         no_overflow(page)
+        overview_image_count=0
         for href in hrefs:
             page.goto(href)
             ready(page)
+            images=page.locator("#content img[src]")
+            for image in images.all():
+                image.evaluate("(i) => i.loading='eager'")
+                expect(image).to_be_visible(timeout=30000)
+                assert image.evaluate("(i) => i.complete && i.naturalWidth > 0") or image.evaluate("(i) => i.decode().then(()=>i.naturalWidth>0).catch(()=>false)"), f"Broken chapter overview image: {image.get_attribute('src')}"
+                overview_image_count+=1
+        print(f"All {overview_image_count} chapter overview images loaded.",flush=True)
         print(f"All {count} chapter pages loaded in Chromium", flush=True)
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)
@@ -97,14 +105,22 @@ try:
         no_overflow(page)
         # Validate all source Mermaid blocks and all staged image files, not just the sample.
         charts = json.loads((Path(tempfile.gettempdir())/"nursing-mermaid-audit.json").read_text(encoding="utf-8"))
-        chart_errors = page.evaluate("""async (charts) => {
-            const engine = await loadDiagramEngine(), failures = [];
-            for (const item of charts) {
+        chart_audit = page.evaluate("""async (charts) => {
+            const engine = await loadDiagramEngine(), failures = [], renderFailures = []; let rendered=0;
+            for (const [i,item] of charts.entries()) {
               try { await engine.parse(diagramSource(item.source)); }
-              catch (e) { failures.push({document:item.document,error:String(e).slice(0,250)}); }
+              catch (e) { failures.push({document:item.document,error:String(e).slice(0,250)});continue; }
+              try {
+                const result=await engine.render('audit-diagram-'+i,diagramSource(item.source));
+                const url=URL.createObjectURL(new Blob([result.svg],{type:'image/svg+xml'}));
+                try {const image=new Image();image.src=url;await image.decode();if(!image.naturalWidth)throw Error('Empty SVG');rendered++;}
+                finally{URL.revokeObjectURL(url)}
+              }catch(e){renderFailures.push({document:item.document,block:i,error:String(e).slice(0,250)})}
             }
-            return failures;
+            return {failures,renderFailures,rendered};
         }""", charts)
+        chart_errors=chart_audit["failures"]
+        render_errors=chart_audit["renderFailures"]
         catalog = json.loads((site/"site-catalog.json").read_text(encoding="utf-8"))
         image_errors = page.evaluate("""async (assets) => {
             const failed = [];
@@ -118,10 +134,11 @@ try:
         }""", catalog["assets"])
         report_path=site/"source-audit.json"
         report=json.loads(report_path.read_text(encoding="utf-8"))
-        report.update({"mermaid_parse_failures":chart_errors,"image_decode_failures":image_errors,"mermaid_blocks_parsed":len(charts),"image_assets_decoded":len(catalog["assets"])})
+        report.update({"mermaid_parse_failures":chart_errors,"mermaid_render_failures":render_errors,"mermaid_blocks_rendered":chart_audit["rendered"],"chapter_overview_images_loaded":overview_image_count,"image_decode_failures":image_errors,"mermaid_blocks_parsed":len(charts),"image_assets_decoded":len(catalog["assets"])})
         report_path.write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
         print(f"VISUAL AUDIT: {len(charts)} Mermaid blocks parsed ({len(chart_errors)} failed), {len(catalog['assets'])} image assets decoded ({len(image_errors)} failed).",flush=True)
-        for issue in (chart_errors+image_errors)[:15]: print("VISUAL SOURCE ISSUE:",issue,flush=True)
+        print(f"FLOWCHART RENDER AUDIT: {chart_audit['rendered']} rendered and decoded; {len(render_errors)} failed.",flush=True)
+        for issue in chart_errors+render_errors+image_errors: print("VISUAL SOURCE ISSUE:",issue,flush=True)
         page.route("https://raw.githubusercontent.com/**/airway-zones.svg", lambda route: route.abort())
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)

@@ -5,7 +5,7 @@ const MEDIA_RAW='https://raw.githubusercontent.com/'+MEDIA_REPO+'/main/';
 function encodeRepoPath(p){return p.split('/').map(encodeURIComponent).join('/')}
 function resolveResource(input,base){
  const value=String(input||'').trim();if(!value)return null;
- const root=/^\/?(Chapters|Assets)\//i.test(value);
+ const root=/^Chapters\//.test(value)||/^\/(?:Chapters|Assets)\//.test(value);
  let u;try{u=new URL(root?MEDIA_RAW+value.replace(/^\//,''):value,MEDIA_RAW+encodeRepoPath(base))}catch{return null}
  if(!['https:','http:'].includes(u.protocol))return null;
  const rawPrefix='/'+MEDIA_REPO.toLowerCase()+'/';
@@ -29,7 +29,7 @@ function resolveResource(input,base){
  return {url:u.href,external:true};
 }
 function sourceLink(target){return 'https://github.com/'+MEDIA_REPO+'/'+(target.endsWith('/')?'tree':'blob')+'/main/'+encodeRepoPath(target)}
-function getCatalog(){if(!getCatalog.promise)getCatalog.promise=fetch('./site-catalog.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Catalog unavailable');return r.json()}).catch(()=>null);return getCatalog.promise}
+function getCatalog(){if(!getCatalog.promise)getCatalog.promise=fetch('./site-catalog.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Catalog unavailable');return r.json()}).then(data=>{getCatalog.data=data;return data}).catch(()=>null);return getCatalog.promise}
 function decorateImages(target,p){
  for(const img of target.querySelectorAll('img[src]')){
   const source=img.getAttribute('src'),r=resolveResource(source,p);
