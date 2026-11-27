@@ -4,7 +4,7 @@
 
 ### Q1. A healthcare worker finds an adult unresponsive with absent normal breathing and no definite pulse after a check lasting no more than 10 seconds. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Activate emergency response, start CPR and obtain an AED
 - **B.** Observe for five minutes before initiating CPR
@@ -29,13 +29,15 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q5](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q5-a-healthcare-worker-finds-an-adult-unresponsive-with-absent-normal-breathing-and-no-definite-pulse-after-a-check-lasting-no-more-than-10-seconds-what-should-happen-next)
+
 ### Q2. Which chest compression rate is recommended for adult CPR under the AHA 2025 guidance?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** 60–80/min
 - **B.** 140–160/min
@@ -60,13 +62,15 @@ Chest compression mein sternum ko rhythmically press karke heart se blood flow s
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q53](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q53-which-chest-compression-rate-is-recommended-for-adult-cpr-under-the-aha-2025-guidance)
+
 ### Q3. What is the recommended manual chest compression depth for an average adult during CPR?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 UPPSC Staff Nurse 17 December 2017 — related reported concept**
 
 - **A.** About 7–9 cm
 - **B.** Only 1 cm
@@ -91,13 +95,17 @@ Compression depth batati hai chest ko kitna neeche press karna hai. Average adul
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/ques--614b00db6eb16cadcca4a96c). Third-party reported compression-depth item. Official key not authenticated. Historical explanation is not the current CPR sequence. Follow AHA 2025.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q61](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q61-what-is-the-recommended-manual-chest-compression-depth-for-an-average-adult-during-cpr)
+
 ### Q4. During adult CPR before placement of an advanced airway, what compression-to-ventilation ratio is generally used by trained healthcare providers?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 UPSC ESIC Nursing Officer 7 July 2024 — related reported concept**
 
 - **A.** 3:1
 - **B.** 30:2
@@ -124,13 +132,17 @@ Adult cardiac arrest mein trained rescuer advanced airway placement se pehle 30 
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/for-adults-the-ratio-of-chest-compression-to-venti--668e616f740a221bd11c9b7f). Retrieved third-party item concerns adult single-rescuer compression-to-ventilation ratio. Official paper and key not independently authenticated.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q40](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q40-during-adult-cpr-before-placement-of-an-advanced-airway-what-compression-to-ventilation-ratio-is-generally-used-by-trained-healthcare-providers)
+
 ### Q5. Why should rescuers allow complete chest recoil between compressions?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Recoil is needed only after defibrillation
 - **B.** Recoil supports venous return and cardiac filling
@@ -155,13 +167,15 @@ Recoil ka matlab har compression ke baad chest ko apni normal position mein poor
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q58](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q58-why-should-rescuers-allow-complete-chest-recoil-between-compressions)
+
 ### Q6. When two trained rescuers are available, how often should the chest compressor generally change during adult CPR?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 RRB Nursing Superintendent 29 April 2025 Shift II — related reported concept**
 
 - **A.** Approximately every two minutes or sooner if fatigued
 - **B.** Only every ten minutes
@@ -186,13 +200,17 @@ Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone pa
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/while-performing-cpr-in-a-patient-who-had-cardiac--681c89fac2c0bed03160e486). Retrieved third-party item concerns rescuer switching interval. Official paper and key not independently authenticated.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q115](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q115-when-two-trained-rescuers-are-available-how-often-should-the-chest-compressor-generally-change-during-adult-cpr)
+
 ### Q7. An AED announces that a shock is advised. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Keep a hand on the patient during shock
 - **B.** Delay shock until a complete clinical history is obtained
@@ -217,13 +235,15 @@ AED rhythm analyse karke shockable rhythm mein shock advise karta hai. Shock se 
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q38](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q38-an-aed-announces-that-a-shock-is-advised-which-action-is-correct)
+
 ### Q8. An adult is unresponsive and makes occasional gasping sounds. How should a trained responder interpret gasping?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It excludes the need for emergency assessment
 - **B.** It proves spontaneous circulation has returned
@@ -248,13 +268,15 @@ Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh e
 
 **Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q95](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q95-an-adult-is-unresponsive-and-makes-occasional-gasping-sounds-how-should-a-trained-responder-interpret-gasping)
+
 ### Q9. A conscious adult cannot speak or cough effectively because of severe foreign-body airway obstruction. Which sequence is recommended in AHA 2025 adult guidance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give water to wash the obstruction down
 - **B.** Begin routine chest compressions while the patient remains responsive
@@ -283,9 +305,11 @@ Severe foreign-body airway obstruction ka matlab hai object airflow ko itna bloc
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q108](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q108-a-conscious-adult-cannot-speak-or-cough-effectively-because-of-severe-foreign-body-airway-obstruction-which-sequence-is-recommended-in-aha-2025-adult-guidance)
+
 ### Q10. An adult with severe choking becomes unresponsive. What is the appropriate transition?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Wait for spontaneous coughing before taking action
 - **B.** Activate emergency help and begin CPR, checking for a visible object before breaths
@@ -314,9 +338,11 @@ Jab severe choking wala adult unresponsive ho jaata hai toh emergency response a
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q44](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q44-an-adult-with-severe-choking-becomes-unresponsive-what-is-the-appropriate-transition)
+
 ### Q11. Which first aid action is appropriate for significant external bleeding from a limb?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Apply firm direct pressure using suitable dressing and activate help
 - **B.** Remove the developing clot repeatedly
@@ -343,9 +369,11 @@ External bleeding mein blood body se bahar nikal raha hota hai. Significant limb
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q82](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q82-which-first-aid-action-is-appropriate-for-significant-external-bleeding-from-a-limb)
+
 ### Q12. A patient has a deeply embedded object in a wound. Which first aid approach is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Pull the object out immediately
 - **B.** Push it deeper to stop movement
@@ -372,9 +400,11 @@ Deeply embedded object wound ke andar injured tissue ya blood vessel ke against 
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q4](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q4-a-patient-has-a-deeply-embedded-object-in-a-wound-which-first-aid-approach-is-safest)
+
 ### Q13. What is appropriate immediate first aid for a small recent thermal burn when safe water is available?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Apply ice directly for a prolonged period
 - **B.** Apply toothpaste to the injured skin
@@ -403,9 +433,11 @@ Thermal burn heat ke karan skin injury hai. Small recent burn mein cool clean ru
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q115](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q115-what-is-appropriate-immediate-first-aid-for-a-small-recent-thermal-burn-when-safe-water-is-available)
+
 ### Q14. A person collapses following electrical contact. What must a responder ensure before touching the person?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Water is poured over the electrical device
 - **B.** The person is lifted while still contacting the live source
@@ -432,9 +464,11 @@ Electrical injury mein patient live source ke contact mein ho toh rescuer bhi cu
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q46](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q46-a-person-collapses-following-electrical-contact-what-must-a-responder-ensure-before-touching-the-person)
+
 ### Q15. A patient has a convulsive seizure in bed. Which action is appropriate during the event?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give oral tablets during active convulsions
 - **B.** Protect from injury, time the seizure and assess airway and breathing
@@ -461,9 +495,11 @@ Convulsive seizure mein brain ki abnormal electrical activity ke karan involunta
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q26](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q26-a-patient-has-a-convulsive-seizure-in-bed-which-action-is-appropriate-during-the-event)
+
 ### Q16. An alert patient with a suspected limb fracture awaits emergency assessment. Which first aid principle is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Support the injured limb in its found position and avoid unnecessary movement
 - **B.** Force the limb straight regardless of pain
@@ -490,9 +526,11 @@ Fracture bone ke break ya crack ko kehte hain. Suspected fracture mein movement 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q97](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q97-an-alert-patient-with-a-suspected-limb-fracture-awaits-emergency-assessment-which-first-aid-principle-is-appropriate)
+
 ### Q17. An adult with diabetes is alert, has low measured glucose and can swallow safely. Which initial response is commonly appropriate under a hypoglycemia protocol?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give a measured fast-acting carbohydrate and recheck glucose at the specified interval
 - **B.** Give additional insulin immediately
@@ -519,9 +557,11 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q83](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q83-an-adult-with-diabetes-is-alert-has-low-measured-glucose-and-can-swallow-safely-which-initial-response-is-commonly-appropriate-under-a-hypoglycemia-protocol)
+
 ### Q18. A hypoglycemic patient is unconscious and cannot swallow safely. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Pour sweet liquid into the patient's mouth
 - **B.** Force the patient to swallow tablets
@@ -548,9 +588,11 @@ Severe hypoglycemia brain function disturb kar sakti hai aur patient unconscious
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q49](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q49-a-hypoglycemic-patient-is-unconscious-and-cannot-swallow-safely-what-should-the-nurse-do)
+
 ### Q19. A person with a suspected venomous snakebite is waiting for transport. Which first aid principle is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Apply ice and a tightly occlusive arterial tourniquet
 - **B.** Encourage running to the hospital
@@ -579,9 +621,11 @@ Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient k
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q4](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q4-a-person-with-a-suspected-venomous-snakebite-is-waiting-for-transport-which-first-aid-principle-is-appropriate)
+
 ### Q20. A patient develops severe wheezing and hypotension after an allergen exposure. What is the priority under anaphylaxis protocol?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Allow the patient to stand and walk alone
 - **B.** Activate emergency help and give indicated intramuscular epinephrine promptly under protocol
@@ -607,6 +651,8 @@ Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q15](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q15-a-patient-develops-severe-wheezing-and-hypotension-after-an-allergen-exposure-what-is-the-priority-under-anaphylaxis-protocol)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [AHA 2025 adult basic life support](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support) · [OpenStax discharge](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
