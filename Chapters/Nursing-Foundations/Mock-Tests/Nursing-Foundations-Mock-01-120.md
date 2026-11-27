@@ -166,9 +166,24 @@ Cardiac arrest ka matlab hai heart body ko effective blood circulation nahi de p
 
 **Correct: C. Stop the transfusion and initiate the reaction protocol with patient assessment**
 
-Acute hemolytic ya other serious reaction possible hai. Nurse transfusion stop karke ABC assess karti hai aur team-blood bank notify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Further blood exposure harm badha sakta hai. Reporting delay unsafe hai.
+Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination jaisi serious reaction ka warning ho sakte hain. Transfusion immediately stop karo. ABC, vitals aur patient identity assess karo, urgent medical help aur blood bank ko notify karo. Existing blood tubing se flush mat karo. Local protocol ke hisaab se new tubing aur compatible saline se access maintain karo, aur implicated unit preserve karo. Is serious reaction mein transfusion restart mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Agli unit lagana cause clarify hone se pehle unsafe hai.
+- **B (Galat):** Current unit complete hone tak wait karna reaction worsen kar sakta hai.
+- **C (Sahi):** Stop karna further exposure rokta hai aur reaction protocol timely activate karta hai.
+- **D (Galat):** Rate badhane se suspected harmful exposure aur badh sakta hai.
+
+**Exam clue:** Suspected serious transfusion reaction: stop, assess, escalate.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -981,9 +996,24 @@ Subjective data patient ka personal experience hai. Burning sensation nurse dire
 
 **Correct: D. Match patient identifiers, compatibility details, component and prescription using approved checks**
 
-Wrong blood transfusion severe hemolysis cause kar sakti hai. Bedside verification patient aur unit ko correctly match karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Color, room number aur delivery assumption compatibility prove nahi karte.
+Blood transfusion mein kisi doosre patient ke liye compatible unit galti se lag jaaye toh severe hemolysis, yani red cells ka tootna, ho sakta hai. Bedside par approved independent check ke through patient ke verified identifiers, prescription, component, unit number, compatibility label, expiry aur bag integrity check karo. Mismatch ho toh transfusion start mat karo aur blood bank se clarify karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bag color blood group ya compatibility confirm nahi karta.
+- **B (Galat):** Room number patient ka unique identifier nahi hota.
+- **C (Galat):** Blood bank delivery alone bedside verification replace nahi karti.
+- **D (Sahi):** Patient aur component ka complete match wrong-blood transfusion ka risk kam karta hai.
+
+**Exam clue:** Patient-unit match before transfusion.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2252,9 +2282,24 @@ Standard precautions ka matlab hai ki har patient ki care mein infection spread 
 
 **Correct: D. Retain and handle them according to the blood bank investigation protocol**
 
-Blood bank implicated unit aur tubing investigate kar sakta hai. Nurse policy ke according preserve aur return karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Disposal evidence lose kar sakta hai. Reuse infection aur mismatch risk hai. Concealment unsafe hai.
+Reaction ke baad bag aur administration tubing investigation mein important evidence hote hain. Blood bank unit identity, compatibility aur suspected contamination evaluate kar sakta hai. Bag aur set ko approved biohazard handling ke saath preserve aur return karo. Required fresh patient samples aur incident documentation local protocol ke hisaab se arrange karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Reuse se contamination aur wrong-patient exposure ka serious risk hai.
+- **B (Galat):** Immediate disposal investigation ke evidence ko destroy kar sakti hai.
+- **C (Galat):** Concealment urgent investigation aur patient safety delay karta hai.
+- **D (Sahi):** Protocol ke according retained unit aur tubing investigation support karte hain.
+
+**Exam clue:** Preserve implicated component and set.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2294,9 +2339,24 @@ Injection ke baad wheeze aur facial swelling anaphylaxis suggest kar sakte hain.
 
 **Correct: D. Vital signs and relevant clinical status before starting**
 
-Baseline vitals se transfusion ke dauran new fever, BP changes aur breathing symptoms compare karne mein help milti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Old weight, volume aur age alone reaction detection ke liye insufficient hain.
+Baseline vital signs transfusion se pehle patient ki condition ka starting record hain. Temperature, pulse, BP, respiratory rate, oxygen saturation as indicated aur existing symptoms document karo. Initial period mein closely observe karo aur local policy ke according monitoring repeat karo. New symptoms baseline se compare karne par reaction jaldi identify ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Purana weight current physiological condition nahi batata.
+- **B (Galat):** Bag volume patient ki baseline status nahi batata.
+- **C (Galat):** Age risk assessment mein useful ho sakti hai, lekin reaction ke liye baseline vitals nahi hai.
+- **D (Sahi):** Baseline vital signs aur clinical status new deterioration identify karne mein help karte hain.
+
+**Exam clue:** Baseline assessment before blood administration.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
