@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: whole-obg-rti-expansion-132018
-Scope: Gynecology RTI/STI/PID Q21–Q40 and local README, excluding Obstetrics
+Scope: Gynecology RTI/STI/PID Q21–Q40, separate topic PYQ adaptations, local README and evidence references, excluding Obstetrics
 Claimed UTC: 2026-11-27T13:20:18Z
 Expiry UTC: 2026-11-27T13:50:18Z
 
