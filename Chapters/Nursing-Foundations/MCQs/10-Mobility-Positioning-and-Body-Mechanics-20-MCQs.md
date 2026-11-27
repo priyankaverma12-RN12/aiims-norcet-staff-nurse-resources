@@ -31,6 +31,8 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
+[Legacy mock practice: Mock 01, Q12](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q12-a-patient-has-orthopnea-and-is-hemodynamically-stable-which-position-usually-facilitates-breathing) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q2. Which position is commonly used for a rectal examination or a routine cleansing enema when appropriate?
@@ -62,6 +64,8 @@ Rectal examination ya routine cleansing enema ke liye left lateral Sims mein pat
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
+[Legacy mock practice: Mock 01, Q101](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q101-which-position-is-commonly-used-for-a-rectal-examination-or-a-routine-cleansing-enema-when-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q3. Which position is commonly used for a pelvic examination with the legs supported in stirrups?
@@ -90,6 +94,8 @@ Lithotomy mein patient supine hota hai, hips aur knees flexed hote hain aur legs
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
+
+[Legacy mock practice: Mock 01, Q9](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q9-which-position-is-commonly-used-for-a-pelvic-examination-with-the-legs-supported-in-stirrups) — same topic-bank question, not a new original.
 
 </details>
 
@@ -120,6 +126,8 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 01, Q33](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q33-a-patient-with-a-suspected-cervical-spinal-injury-must-be-repositioned-which-approach-is-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q5. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
@@ -148,6 +156,8 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
+
+[Legacy mock practice: Mock 02, Q2](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q2-which-body-mechanics-technique-reduces-spinal-strain-when-moving-an-object-within-safe-lifting-limits) — same topic-bank question, not a new original.
 
 </details>
 
@@ -178,6 +188,8 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 02, Q54](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q54-a-patient-requires-maximal-assistance-and-cannot-bear-weight-which-transfer-method-is-safest) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q7. When adjusting a walker for a patient, which finding generally indicates a suitable handgrip height?
@@ -207,6 +219,8 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 02, Q6](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q6-when-adjusting-a-walker-for-a-patient-which-finding-generally-indicates-a-suitable-handgrip-height) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q8. A patient has unilateral leg weakness and is learning to walk with a cane. In which hand is the cane usually held?
@@ -235,6 +249,8 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
 **▶️ [YouTube MCQ practice — cane ambulation, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=4178s)** · Published question chapter 1:09:38, 24 November 2024. Topic-level only, exact item and playback pending.
+
+[Legacy mock practice: Mock 02, Q88](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q88-a-patient-has-unilateral-leg-weakness-and-is-learning-to-walk-with-a-cane-in-which-hand-is-the-cane-usually-held) — same topic-bank question, not a new original.
 
 </details>
 
@@ -267,6 +283,8 @@ Axillary crutch par body weight handgrips se transfer hona chahiye. Axilla mein 
 
 **▶️ [YouTube MCQ practice — crutches and cane, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=2025s)** · Published question chapter 33:45, 24 November 2024. Topic-level only, exact nerve-injury item and playback pending.
 
+[Legacy mock practice: Mock 03, Q120](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q120-which-crutch-instruction-helps-avoid-pressure-related-nerve-injury) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q10. A patient using crutches is permitted partial weight bearing. What determines the appropriate gait pattern?
@@ -295,6 +313,8 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy mock practice: Mock 03, Q10](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q10-a-patient-using-crutches-is-permitted-partial-weight-bearing-what-determines-the-appropriate-gait-pattern) — same topic-bank question, not a new original.
 
 </details>
 
@@ -325,6 +345,8 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 03, Q87](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q87-which-exercise-involves-a-caregiver-moving-the-patients-joint-without-active-muscle-effort-from-the-patient) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q12. An immobile patient has a painful swollen calf before scheduled leg exercises. What should the nurse do?
@@ -353,6 +375,8 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 **Clinical reference:** [NICE NG158 VTE](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy mock practice: Mock 03, Q67](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q67-an-immobile-patient-has-a-painful-swollen-calf-before-scheduled-leg-exercises-what-should-the-nurse-do) — same topic-bank question, not a new original.
 
 </details>
 
@@ -383,6 +407,8 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 04, Q31](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q31-which-positioning-principle-helps-prevent-foot-drop-during-prolonged-bed-rest) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q14. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
@@ -411,6 +437,8 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy mock practice: Mock 04, Q28](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q28-a-patient-with-a-weak-hemiplegic-arm-is-being-transferred-which-action-protects-the-shoulder) — same topic-bank question, not a new original.
 
 </details>
 
@@ -441,6 +469,8 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 04, Q49](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q49-which-intervention-helps-reduce-deconditioning-during-a-prolonged-hospital-stay) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q16. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
@@ -469,6 +499,8 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy mock practice: Mock 04, Q117](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q117-during-first-ambulation-after-surgery-a-patient-becomes-pale-and-dizzy-which-action-is-safest) — same topic-bank question, not a new original.
 
 </details>
 
@@ -499,6 +531,8 @@ Reverse Trendelenburg mein entire bed tilted hota hai aur head feet se higher ho
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
+[Legacy mock practice: Mock 05, Q62](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q62-which-bed-position-raises-the-head-while-keeping-the-bed-surface-angled-with-the-head-higher-than-the-feet) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q18. A patient slides repeatedly down a raised bed. Which tissue-damaging force is especially relevant?
@@ -527,6 +561,8 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 **Clinical reference:** [International pressure injury guideline](https://www.internationalguideline.com/repositioning)
 
 **MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
+
+[Legacy mock practice: Mock 05, Q26](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q26-a-patient-slides-repeatedly-down-a-raised-bed-which-tissue-damaging-force-is-especially-relevant) — same topic-bank question, not a new original.
 
 </details>
 
@@ -557,6 +593,8 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 **YouTube MCQ practice: specific verification pending.**
 
+[Legacy mock practice: Mock 05, Q102](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q102-which-equipment-is-appropriate-for-reducing-friction-during-repositioning-of-a-dependent-patient) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q20. A patient has a new restriction against hip flexion beyond the prescribed limit. Which nursing approach is appropriate during toileting?
@@ -585,6 +623,8 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Legacy mock practice: Mock 05, Q113](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q113-a-patient-has-a-new-restriction-against-hip-flexion-beyond-the-prescribed-limit-which-nursing-approach-is-appropriate-during-toileting) — same topic-bank question, not a new original.
 
 </details>
 
