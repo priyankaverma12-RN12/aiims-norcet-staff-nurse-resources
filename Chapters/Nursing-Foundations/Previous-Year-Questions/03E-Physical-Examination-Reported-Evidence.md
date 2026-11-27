@@ -16,10 +16,22 @@ D. Palpation
 
 **Correct answer: B. Percussion**
 
-- **A (Incorrect):** Inspection mein appearance observe karte hain, tapping sound main method nahi hai.
-- **B (Correct):** Percussion mein body surface tap karke sound se tissue density ka indirect clue milta hai.
-- **C (Incorrect):** Auscultation mein internal body sounds listen karte hain, usually stethoscope se.
-- **D (Incorrect):** Palpation mein touch aur pressure se texture, warmth, tenderness aur size assess hoti hai.
+<!-- job5-rationale -->
+Percussion mein body surface ko gently tap karke produced sound aur vibration se underlying air, fluid ya tissue density ka indirect clue milta hai. Normally aerated lung resonance aur dense tissue dullness produce kar sakta hai. Gas-filled stomach par tympany commonly heard hoti hai. Finding ko symptoms aur other exam observations se correlate karo. Percussion alone disease confirm nahi karti.
+
+**Option-by-option reasoning**
+
+- **A:** Inspection visual appearance, symmetry aur movement observe karti hai, tapping nahi.
+- **B:** Percussion mein examiner tapping se sound produce karke interpret karta hai, isliye B correct hai.
+- **C:** Auscultation mein body-generated sounds listen karte hain, usually stethoscope se.
+- **D:** Palpation touch se tenderness, warmth, texture aur size assess karti hai.
+
+**Exam clue:** IPPA: look, feel, tap, listen. Abdomen uses conventional IAPP order.
+
+[Clinical concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
+
+**Source recheck:** Publisher source directly rechecked 27 November 2026: NVS Staff Nurse 8 March 2022, source key option 3 tapping, adaptation key B. Official key not authenticated.
+<!-- /job5-rationale -->
 
 [Reported question source](https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a) · [Concept](../Concepts/03E-Physical-Examination.md#methods-and-preparation)
 
