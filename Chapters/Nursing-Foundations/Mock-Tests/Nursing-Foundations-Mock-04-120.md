@@ -208,7 +208,7 @@ Wrong-site surgery prevention mein preprocedure verification, site marking where
 
 ### Q8. Which physiological effect is commonly associated with local cold application?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Permanent loss of all sensation
 - **B.** Increased local metabolism without limit
@@ -235,7 +235,7 @@ Local controlled cold se blood vessels commonly narrow hoti hain. Is process ko 
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q16](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q16](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q16-which-physiological-effect-is-commonly-associated-with-local-cold-application)
 
 ### Q9. A patient has measured intake 1800 mL and output 2100 mL. What is the recorded net fluid balance?
 
@@ -1562,7 +1562,7 @@ Previous severe reaction future exposure ke liye important risk factor ho sakti 
 
 ### Q52. An older postoperative patient snores loudly, has witnessed pauses in breathing and receives sedatives. Which concern deserves assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Normal sleep that requires no observation
 - **B.** Possible sleep-disordered breathing with increased respiratory depression risk
@@ -1589,7 +1589,7 @@ Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q13](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q13](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q13-an-older-postoperative-patient-snores-loudly-has-witnessed-pauses-in-breathing-and-receives-sedatives-which-concern-deserves-assessment)
 
 ### Q53. A patient has a temperature of 39.2°C with new confusion and low blood pressure. Which nursing action is most appropriate?
 
@@ -2980,7 +2980,7 @@ Fracture bone ke break ya crack ko kehte hain. Suspected fracture mein movement 
 
 ### Q99. A patient with reduced peripheral circulation is prescribed cold therapy. Which safety approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Verify suitability, use protective measures and reassess skin and circulation
 - **B.** Cover the site tightly and leave it unobserved
@@ -3007,11 +3007,11 @@ Cold application tissue temperature kam karti hai aur local blood vessels narrow
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q15](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q15](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q15-a-patient-with-reduced-peripheral-circulation-is-prescribed-cold-therapy-which-safety-approach-is-appropriate)
 
 ### Q100. Which intervention commonly supports comfort in a patient with dry lips and an NPO order?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Give unrestricted water despite the order
 - **B.** Provide approved lip and oral care while maintaining aspiration precautions
@@ -3038,7 +3038,7 @@ NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips a
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q14](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q14](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q14-which-intervention-commonly-supports-comfort-in-a-patient-with-dry-lips-and-an-npo-order)
 
 ## Block 6
 
