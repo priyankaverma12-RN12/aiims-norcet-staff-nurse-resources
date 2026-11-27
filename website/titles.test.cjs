@@ -10,3 +10,11 @@ m=resourceMeta('Chapters/Respiratory-System/Previous-Year-Questions/Day-03-Repor
 assert.equal(resourceMeta('Chapters/Respiratory-System/README.md','🫁 Respiratory System — Hamara Illustrated Complete Chapter').title,'Respiratory System');
 assert.equal(resourceMeta('Chapters/Renal-and-Urinary-System/Concepts/').title,'Theory');
 console.log('Consistent title, resource type, draft status and topic preservation tests passed.');
+
+for(const [folder,title] of [['Concepts','Theory'],['MCQs','MCQs'],['Mock-Tests','Mock tests'],['Previous-Year-Questions','Previous year questions'],['Revision','Revision']]){
+ assert.equal(resourceMeta('Chapters/Example/'+folder+'/').title,title);
+ assert.equal(resourceMeta('Chapters/Example/'+folder+'/').type,'Resource collection');
+}
+assert.equal(resourceMeta('Chapters/Example/MCQs/Asthma-30-MCQs.md','MCQs',30).title,'Asthma');
+assert.equal(resourceMeta('Chapters/NORCET-Full-Chapter-Index.md','NORCET Full Chapter Index').type,'Study index');
+console.log('Folder names and generic heading fallbacks passed.');
