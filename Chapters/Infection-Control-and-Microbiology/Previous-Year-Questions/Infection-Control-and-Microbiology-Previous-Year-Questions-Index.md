@@ -51,7 +51,11 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [AMR reported exam practice](AMR-Reported-PYQs.md): one MRSA abbreviation adaptation consolidated from three retrieved RRB, ESIC and MPESB exam reports. Prior MRSA precaution question tests a separate concept.
 
-**Current total: 51 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+
 
 
 [HAI reported source leads and timing correction](../Concepts/26-HAI-Prevention-and-Surveillance-Definitions.md#historical-exam-evidence). AIIMS Bhopal 2018 retrieved, overlapping terminology leads not counted pending reconciliation, OSSSC cross-infection page unavailable.
+
+[HAI surveillance reported exam practice](HAI-Surveillance-Reported-PYQs.md): two distinct adaptations from retrieved AIIMS/RRB timing and HSSC incidence questions. Related timing sources counted once.
+
+**Current total: 53 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
