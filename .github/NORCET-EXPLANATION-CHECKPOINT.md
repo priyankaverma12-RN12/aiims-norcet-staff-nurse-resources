@@ -1,10 +1,10 @@
 # Job 5 — deep explanation and answer audit
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job5-run26-20261127-1412
+Scope: Group 10 remaining eight mock and one reported adaptation rationale draft only in .github/job5-drafts. No learner-file changes while Job4 claims Nursing Foundations.
+Claimed UTC: 2026-11-27T14:12:10Z
+Expiry UTC: 2026-11-27T14:42:10Z
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
