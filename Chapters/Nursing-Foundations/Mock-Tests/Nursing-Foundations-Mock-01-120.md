@@ -233,7 +233,7 @@ Lithotomy mein patient back par hoti hai aur hips-knees flexed aur legs supporte
 
 ### Q10. Which check addresses the right patient during drug administration?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS NORCET 6 Prelims 2024 — related tested concept only](https://testbook.com/question-answer/while-administering-medication-to-prevent-error-pa--662a49c56624fd068ec30a62)**
 
 - **A.** Match the room number to the drug label
 - **B.** Ask a visitor whether the tablet looks familiar
@@ -259,9 +259,11 @@ Right patient ka matlab actual person ko correct medication order se match karna
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**▶️ [YouTube MCQ practice — right patient, Paramedics & Nursing World](https://www.youtube.com/watch?v=rxmj0fDsq2I)** · Published 6 April 2026. Description lists this broader topic in a 50-question session. Specific scenario, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q2](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q2](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q2-which-check-addresses-the-right-patient-during-drug-administration)
 
 ### Q11. In PQRST pain assessment, what does R commonly represent?
 
@@ -880,7 +882,7 @@ Dysphagia mein different textures swallow karne ki difficulty vary karti hai. As
 
 ### Q35. Which instruction is appropriate for a sublingual tablet specifically prescribed to dissolve under the tongue?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Swallow it immediately with a full meal
 - **B.** Place it under the tongue and allow it to dissolve as directed
@@ -906,9 +908,11 @@ Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse 
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q4](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q4](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q4-which-instruction-is-appropriate-for-a-sublingual-tablet-specifically-prescribed-to-dissolve-under-the-tongue)
 
 ### Q36. A pressure injury exposes tendon and bone at its base. Which stage is consistent?
 
@@ -2216,7 +2220,7 @@ Front-to-back cleaning stool organisms ko urethral opening ki taraf le jaane ka 
 
 ### Q84. A patient reports a previous severe reaction to a drug in the same class as a newly ordered medicine. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Remove the allergy entry without review
 - **B.** Give an unprescribed antihistamine and proceed
@@ -2242,9 +2246,11 @@ Severe previous reaction allergy ya another serious adverse reaction ho sakti ha
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q3](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q3](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q3-a-patient-reports-a-previous-severe-reaction-to-a-drug-in-the-same-class-as-a-newly-ordered-medicine-what-should-the-nurse-do)
 
 ### Q85. Which assessment is the most reliable starting point for pain intensity in a patient who can communicate?
 
@@ -2467,7 +2473,7 @@ Retracted foreskin wapas na laayein toh glans ke peeche tight ring ban sakti hai
 
 ### Q94. A medication order reads 10 mg but the usual dose is much lower and the nurse suspects an error. What is the safest action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Ask the patient to choose the dose
 - **B.** Withhold the questionable dose and clarify with the prescriber or pharmacist
@@ -2493,9 +2499,11 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: verification pending** — no verified specific item or topic coverage established.
+
 </details>
 
-[Source topic bank: Medication safety and administration, Q1](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md)
+[Source topic bank: Medication safety and administration, Q1](../MCQs/06-Medication-Safety-and-Administration-20-MCQs.md#q1-a-medication-order-reads-10-mg-but-the-usual-dose-is-much-lower-and-the-nurse-suspects-an-error-what-is-the-safest-action)
 
 ### Q95. An independent patient needs teaching to manage a new home injection safely. Which Orem system is most appropriate when the patient can perform self-care after instruction?
 
