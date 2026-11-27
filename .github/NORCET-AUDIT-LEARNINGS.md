@@ -231,3 +231,54 @@ File: Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Di
 |22|B|Metabolic alkalosis with compensation caveat|Primary key retained, mixed disorder caveat added|
 
 Clinical: MSD pulmonary evaluation directly retrieved https://www.msdmanuals.com/professional/pulmonary-disorders/approach-to-the-pulmonary-patient/evaluation-of-the-patient-with-pulmonary-issues, Merck compensation table directly retrieved https://www.merckmanuals.com/professional/multimedia/table/primary-changes-and-compensations-in-simple-acid-base-disorders. Open RN assessment indexed https://www.ncbi.nlm.nih.gov/books/NBK596716/ direct retrieval failed; INC-aligned BSc university curriculum indexed (respiratory inspection, palpation, percussion and auscultation), official item-depth verification pending. Q19 expected CO2 33.5 ±2, measured 40 suggests additional respiratory acidosis despite normal range. Q22 expected compensatory rise, measured 40 may suggest additional respiratory alkalosis or inadequate compensation. Preserve primary answer keys, do not assert isolated disorder. Q2 chest expansion may be assessed visually or by palpation, explain context. Q15 emphasize urgent upper-airway assessment. Q7 normal midline is not necessary to exclude emergency. NVS Staff Nurse 8 Mar 2022 percussion question direct third-party page retrieved https://testbook.com/question-answer/what-is-called-percussion-in-physical-examination--624d4e073de2bf986ba48f0a, related concept Q1/Q11, already reported by forward lane in foundations, do not count duplicate authorship. NORCET-3 Shift 2 Q139 respiratory acidosis indexed https://nextnurse.in/pyq/norcet/norcet-norcet-3-shift-2 direct retrieval failed; lead only. YouTube Studyroom31 IPPA MCQs https://www.youtube.com/watch?v=aTGm3WCiS9w and respiratory MCQ series https://www.youtube.com/watch?v=_dOjXZ6vCck description checked; playback/transcripts/item mapping pending. No new PYQ counts or new high-yield questions until cross-bank coverage reconciled. Existing Q16 overlaps Advanced Q9 concept, Q17–22 related ABG themes; full semantic audit pending. Next Q23–59 from this same file. Cumulative 133 clinical/rationale question reviews, not full chapter certification.
+
+
+## 2026-11-27 — Day 2 respiratory diagnostics Q23–59
+
+File: Chapters/Respiratory-System/MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md. Before blob e28301cdb86787b0ed1cc48b62088069feb0346f, after 5d50b41e5c8eeb625d12a2e4fac0fbc549cf6723. Corrective commit dd58cbb693dc8b094331853e7a8a5f11061b4d8a; follow-up Allen-test provenance correction b1a893aa5d8cc8f60aef9cfa88e7a20fb7284291. Reviewed all 37 remaining stems, options and keys, retained original question identities, expanded correct and 111 wrong-option rationales, 13 difficulty regrades, 12 related/repeated revision mappings (not all semantic duplicates). Verified readback: 59 headings, 59 hidden answers, five hints, all Q23–59 four options, three distractor reasons, single compact difficulty/priority row and individual video status. Markdown only, rendered UI not inspected. All 59 clinical/rationale reviews complete across two batches, not full historical, syllabus-depth, video or semantic certification. Cumulative 170 question-level clinical/rationale reviews. No new authored or PYQ count. 
+
+|Q|Key|Topic|Difficulty|Audit status|
+|---|---|---|---|---|
+|23|A|FEV1|Easy|Video pending|
+|24|B|FVC|Easy|Video pending|
+|25|C|Ratio 75%|Medium|Video pending|
+|26|D|RV not measured|Easy|Video pending|
+|27|A|Obstruction|Medium|Video pending|
+|28|B|TLC confirmation|Medium|Video pending|
+|29|A|Pulse oximetry|Easy|Video pending|
+|30|B|ABG|Easy|Overlap flagged; Topic-level video lead|
+|31|C|Spirometry|Easy|Video pending|
+|32|B|Fremitus palpation|Easy|Overlap flagged; Topic-level video lead|
+|33|C|Respiratory alkalosis|Medium|Overlap flagged; Topic-level video lead|
+|34|B|Stridor|Medium|Overlap flagged; Video pending|
+|35|B|Ratio 60%|Medium|Overlap flagged; Video pending|
+|36|A|Restriction confirmation|Medium|Overlap flagged; Video pending|
+|37|D|Bronchoscopy aftercare|Medium|Overlap flagged; Video pending|
+|38|A|Sputum culture|Easy|Video pending|
+|39|A|Stable pneumothorax imaging|Medium|Video pending|
+|40|B|CT|Easy|Video pending|
+|41|A|Bronchoscopy|Easy|Video pending|
+|42|A|Thoracentesis|Easy|Video pending|
+|43|A|Biopsy|Easy|Video pending|
+|44|B|V/Q scan|Easy|Video pending|
+|45|D|ETCO2|Medium|Video pending|
+|46|D|CO2 retention|Medium|Overlap flagged; Topic-level video lead|
+|47|B|Motion artifact|Medium|Overlap flagged; Video pending|
+|48|D|Patient identification|Medium|Video pending|
+|49|B|Pleural fluid imaging|Easy|Video pending|
+|50|B|TB sputum precautions|Medium|Video pending|
+|51|C|Chest CT|Medium|Overlap flagged; Video pending|
+|52|C|Chronic respiratory acidosis|Difficult|Topic-level video lead|
+|53|D|Winter 30–34|Difficult|Overlap flagged; Topic-level video lead|
+|54|A|Winter mixed acidosis|Difficult|Overlap flagged; Topic-level video lead|
+|55|B|Modified Allen test|Medium|Video pending|
+|56|B|Cheyne-Stokes|Medium|Video pending|
+|57|C|Kussmaul|Medium|Video pending|
+|58|D|Orthopnea|Easy|Video pending|
+|59|A|Clubbing|Medium|Video pending|
+
+Clinical evidence: Indian Chest Society/NCCP spirometry guideline https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/ and ERS/ATS https://publications.ersnet.org/content/erj/60/1/2101499 (Q23–28,31,35–36), FDA pulse oximetry https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters (Q29,47), Merck acid-base regulation https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation (Q30,33,46,52–54,57), MedlinePlus bronchoscopy aftercare https://www.medlineplus.gov/ency/patientinstructions/000988.htm (Q37), sputum culture https://medlineplus.gov/ency/article/003723.htm (Q38), V/Q scan https://medlineplus.gov/lab-tests/vq-scan/ (Q44), WHO patient safety solutions https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/patient-safety-solutions (Q48), CDC TB diagnosis https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html (Q50), WHO phlebotomy Allen test https://www.ncbi.nlm.nih.gov/sites/books/NBK138652/?report=printable (Q55), NCBI breathing pattern https://www.ncbi.nlm.nih.gov/books/NBK448165/ and COPD https://www.ncbi.nlm.nih.gov/books/NBK559281/. Sources assessed chiefly via search extracts and earlier MSD pulmonary evaluation retrieval, not comprehensive full-text source validation for each item. Q37 gag reflex alone is insufficient, ensure safe swallowing and alertness. Q46 clinical escalation before waiting for ABG. Q52 bicarbonate 33 slightly above rough expected 30–32, compensation likely but do not exclude mixed disorder. Q53–54 formula enrichment not proven exam depth. Q59 clubbing warrants assessment, not assumed normal COPD. Broad nursing curriculum fit based on earlier INC scope, specific exam-depth audit remains pending. 
+
+Historical: directly retrieved third-party AIIMS NORCET 1 Sep 2020 memory-based image-identification ABG question https://testbook.com/question-answer/identify-the-procedure-being-performed-in-the-imag--6171640c721aa8f143c00d16 (Q30 related tested concept); Q55 Allen test discussed in explanation only, not verified exam appearance, explicitly ⚪ pending. No exact match, official key or actual image verification. AIIMS Mangalagiri 21 Sep 2019 Cheyne-Stokes lead https://testbook.com/question-answer/ques--62972e399feb329d2f695a04 direct retrieval failed; no question provenance asserted. 
+
+Video coverage Q23–59: 7 topic-level practice leads (Q30,32,33,46,52–54), 30 explicit pending gaps (Q23–29,31,34–45,47–51,55–59). Ambition Nursing Classes ABG video https://www.youtube.com/watch?v=G_2-0P9EfAg search metadata/hashtags confirm general ABG practice, exact formula subtopic not verified; Studyroom31 previously description-mapped IPPA https://www.youtube.com/watch?v=aTGm3WCiS9w. 11 concept lecture mappings (spirometry 8 via NDLI description, breathing patterns 3 via MediNext Live description), not counted as MCQ videos. No playback/transcripts or authenticated exact-item timestamps. Earlier Q1–22 still require individual video status and visible exam tag retrofit. Do not treat missing video notices as completion. No additional high-yield originals added before coverage and duplicate reconciliation. Next: inspect respiratory inventory for a Day 2 standalone mock, then Day 3 disease MCQs if absent; keep explicit video gap revisit before chapter certification. Avoid conflicts and preserve historical scores. 
