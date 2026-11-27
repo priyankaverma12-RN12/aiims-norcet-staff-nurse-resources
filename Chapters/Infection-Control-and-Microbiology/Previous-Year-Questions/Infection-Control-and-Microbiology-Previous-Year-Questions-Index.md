@@ -62,4 +62,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [CLABSI reported exam practice](CLABSI-Reported-PYQs.md): one retrieved AIIMS Bhopal 2018 shift II adaptation. Other recalled and indexed leads excluded pending clinical and source verification.
 
+[VAP and SSI practice and evidence gaps](29-VAP-SSI-Practice-and-Evidence-Gaps.md). Undated practice excluded from recruitment count.
+
 **Current total: 55 reported recruitment adaptations.** Two academic-paper adaptations remain separate.

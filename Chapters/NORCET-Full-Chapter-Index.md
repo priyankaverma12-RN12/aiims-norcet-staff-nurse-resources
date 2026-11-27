@@ -299,3 +299,8 @@ Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 5
 ### Continuation — CLABSI and vascular device infection prevention
 
 40 original MCQs, concept guide and diagram, four indexed video resources with retrieved channel descriptions, one reported AIIMS Bhopal 2018 shift II adaptation. Total 1,120 across 28/30 defined topic groups (531 Medium and 589 Difficult), 55 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending inventory reconciliation. Next: VAP and surgical site infection prevention. Full playback, dedicated CLABSI-only question video, official keys, individual-topic expansion and semantic audit remain pending.
+
+
+### Continuation — VAP and SSI prevention
+
+40 original MCQs with hidden rationales, concept guide and diagram, three indexed videos and undated practice. Compared 240 existing parsed stems from six related banks with new bank, no exact normalized overlap. Full comparison exceeded connector call limit and remains pending. Total 1,160 across 29/30 groups (543 Medium and 617 Difficult), 55 reported and two academic adaptations. Dedicated SSI video and recruitment evidence pending, no new PYQ count. Next: environmental IPC, outbreak investigation and surveillance calculations. Chapter mocks 0/10. Individual-topic expansion and comprehensive semantic audit pending.

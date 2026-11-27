@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 1,120 new original MCQs in twenty-eight topic files.** 531 Medium and 589 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 1,160 new original MCQs in twenty-nine topic files.** 543 Medium and 617 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -32,7 +32,7 @@
 | 26. [HAI prevention and surveillance definitions](26-HAI-Prevention-and-Surveillance-Definitions-40-MCQs.md) | 40 |
 | 27. [CAUTI prevention](27-CAUTI-Prevention-40-MCQs.md) | 40 |
 | 28. [CLABSI and vascular device infection prevention](28-CLABSI-and-Vascular-Device-Infection-Prevention-40-MCQs.md) | 40 |
-| 29. VAP and surgical site infection prevention | 0 |
+| 29. [VAP and surgical site infection prevention](29-VAP-and-Surgical-Site-Infection-Prevention-40-MCQs.md) | 40 |
 | 30. Environmental IPC, outbreak investigation and surveillance calculations | 0 |
 
 [Chapter](../README.md)
