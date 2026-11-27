@@ -105,4 +105,4 @@ Trichiasis expansion, 27 November 2026: resumed at bc3677f2ff78d3efcfb6c0701ab95
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ptosis-topic-20261127-1439. Scope: Ptosis Concepts, MCQs, Assets, Previous-Year-Questions, chapter README, coverage map and research register only. Excludes all Mock-Tests and global indexes. Claimed UTC: 2026-11-27T14:39:14Z. Expiry UTC: 2026-11-27T15:09:14Z. -->
