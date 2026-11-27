@@ -29,6 +29,8 @@ Dysphagia ka matlab nigalne mein dikkat hai. Aspiration tab hoti hai jab food, s
 
 **▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact question and playback pending. Direct open failed.
 
+[Legacy revision practice: Mock 01, Q111](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q111-a-patient-with-impaired-swallowing-is-about-to-receive-a-meal-which-position-usually-reduces-aspiration-risk-when-tolerated) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q2. A patient coughs repeatedly and develops a wet voice while drinking water after stroke. What should the nurse do?
@@ -57,6 +59,8 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
 **▶️ [YouTube MCQ practice — swallowing safety, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4693s)** · Published chapter 1:18:13 identifies dysphagia swallowing safety. Topic-level only, exact scenario and playback pending. Direct open failed.
+
+[Legacy revision practice: Mock 01, Q105](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q105-a-patient-coughs-repeatedly-and-develops-a-wet-voice-while-drinking-water-after-stroke-what-should-the-nurse-do) — same topic-bank question, not a new original.
 
 </details>
 
@@ -87,6 +91,8 @@ Texture modification mein food ki consistency aur liquid ki thickness assessment
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 01, Q34](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q34-what-is-the-purpose-of-a-prescribed-texture-modified-diet-in-dysphagia) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q4. A patient who is drowsy after sedation is scheduled for oral feeding. Which action is appropriate?
@@ -116,6 +122,8 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 01, Q47](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q47-a-patient-who-is-drowsy-after-sedation-is-scheduled-for-oral-feeding-which-action-is-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q5. Which method best supports independence in a patient with limited hand strength during feeding?
@@ -144,6 +152,8 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 02, Q71](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q71-which-method-best-supports-independence-in-a-patient-with-limited-hand-strength-during-feeding) — same topic-bank question, not a new original.
 
 </details>
 
@@ -176,6 +186,8 @@ Nasogastric ya NG tube nose se stomach tak jaane ke liye insert hoti hai, lekin 
 
 **▶️ [YouTube MCQ practice — NG/NET placement, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4797s)** · Published chapter 1:19:57 identifies tube-placement confirmation. Topic-level only, exact question and playback pending. Direct open failed.
 
+[Legacy revision practice: Mock 02, Q102](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q102-a-newly-inserted-nasogastric-tube-is-intended-for-feeding-which-action-is-essential-before-first-use) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q7. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
@@ -204,6 +216,8 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 **Clinical references:** [NHS England NG safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
+
+[Legacy revision practice: Mock 02, Q77](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q77-during-enteral-feeding-the-tubes-external-marking-changes-substantially-what-should-the-nurse-do) — same topic-bank question, not a new original.
 
 </details>
 
@@ -234,6 +248,8 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
+[Legacy revision practice: Mock 02, Q93](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q93-what-is-the-usual-purpose-of-flushing-an-enteral-feeding-tube-with-prescribed-water) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q9. Which practice is appropriate when administering several compatible prescribed medicines through an enteral tube?
@@ -262,6 +278,8 @@ Enteral medicine tube se gut mein jaati hai. Har drug ka formulation aur tube co
 **Clinical references:** [NHS SPS medicines via enteral tubes](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 03, Q52](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q52-which-practice-is-appropriate-when-administering-several-compatible-prescribed-medicines-through-an-enteral-tube) — same topic-bank question, not a new original.
 
 </details>
 
@@ -292,6 +310,8 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 03, Q79](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q79-an-enterally-fed-patient-develops-sudden-coughing-breathlessness-and-oxygen-desaturation-which-action-is-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q11. Which information should be included when monitoring nutritional intake?
@@ -320,6 +340,8 @@ Nutritional intake delivered food se nahi, actual consumed amount se assess hoti
 **Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) · [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 03, Q29](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q29-which-information-should-be-included-when-monitoring-nutritional-intake) — same topic-bank question, not a new original.
 
 </details>
 
@@ -350,6 +372,8 @@ Severe malnutrition mein body prolonged low intake ke according adapt ho jaati h
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 03, Q59](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q59-a-patient-has-severe-malnutrition-and-is-about-to-restart-nutrition-which-electrolyte-disturbance-is-particularly-associated-with-refeeding-syndrome) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q13. Which measurement helps monitor longer-term nutritional and fluid trends when obtained under consistent conditions?
@@ -378,6 +402,8 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 **Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 04, Q5](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q5-which-measurement-helps-monitor-longer-term-nutritional-and-fluid-trends-when-obtained-under-consistent-conditions) — same topic-bank question, not a new original.
 
 </details>
 
@@ -408,6 +434,8 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 04, Q59](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q59-a-patient-on-continuous-enteral-nutrition-has-an-interruption-because-of-a-procedure-and-receives-glucose-lowering-medication-which-risk-should-the-nurse-consider) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q15. Which is a key advantage of enteral nutrition when the gastrointestinal tract is functional and accessible?
@@ -436,6 +464,8 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 **Clinical references:** [NICE CG32 nutrition support](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
+
+[Legacy revision practice: Mock 04, Q3](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q3-which-is-a-key-advantage-of-enteral-nutrition-when-the-gastrointestinal-tract-is-functional-and-accessible) — same topic-bank question, not a new original.
 
 </details>
 
@@ -466,6 +496,8 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
+[Legacy revision practice: Mock 04, Q43](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q43-a-patient-receiving-parenteral-nutrition-through-a-central-line-develops-fever-and-rigors-which-response-is-appropriate) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q17. Which intervention supports oral health in a patient who is not eating by mouth?
@@ -494,6 +526,8 @@ NPO ka matlab nil per os yani mouth se food, drink ya medicines restricted as or
 **Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 05, Q28](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q28-which-intervention-supports-oral-health-in-a-patient-who-is-not-eating-by-mouth) — same topic-bank question, not a new original.
 
 </details>
 
@@ -524,6 +558,8 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 **Dedicated YouTube MCQ practice:** verification pending.
 
+[Legacy revision practice: Mock 05, Q71](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q71-which-action-is-appropriate-when-a-patient-has-a-prescribed-fluid-restriction-and-receives-enteral-tube-flushes) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q19. Which observation is particularly important when assessing tolerance of enteral feeding?
@@ -553,6 +589,8 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 **YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
+[Legacy revision practice: Mock 05, Q104](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q104-which-observation-is-particularly-important-when-assessing-tolerance-of-enteral-feeding) — same topic-bank question, not a new original.
+
 </details>
 
 ### Q20. A patient has a new prescription for nutritional supplementation but reports a severe allergy to an ingredient. What should the nurse do?
@@ -581,6 +619,8 @@ Food allergy mein immune system specific ingredient ko harmful samajhkar reactio
 **Clinical references:** [FDA food allergy safety](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)
 
 **Dedicated YouTube MCQ practice:** verification pending.
+
+[Legacy revision practice: Mock 05, Q32](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q32-a-patient-has-a-new-prescription-for-nutritional-supplementation-but-reports-a-severe-allergy-to-an-ingredient-what-should-the-nurse-do) — same topic-bank question, not a new original.
 
 </details>
 
