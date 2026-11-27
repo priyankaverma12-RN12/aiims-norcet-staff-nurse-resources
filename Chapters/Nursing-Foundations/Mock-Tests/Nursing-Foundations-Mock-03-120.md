@@ -8,7 +8,7 @@
 
 ### Q1. Which drain output information is essential for monitoring?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Amount, color, character and time for each drain
 - **B.** A combined amount without identifying separate drains
@@ -38,7 +38,7 @@ Drain output ka individual record recovery aur bleeding ke changes track karta h
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q9](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q9](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q9-which-drain-output-information-is-essential-for-monitoring)
 
 ### Q2. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
@@ -214,7 +214,7 @@ Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti h
 
 ### Q8. Which bandage turn is commonly used around joints such as the ankle?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPSSSC Health Worker (Female), 8 May 2022 — related reported concept**
 
 - **A.** Recurrent turn only
 - **B.** Figure-of-eight turn
@@ -246,7 +246,7 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q11](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q11](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q11-which-bandage-turn-is-commonly-used-around-joints-such-as-the-ankle)
 
 ### Q9. Which blood component primarily increases oxygen-carrying capacity in an anemic patient when transfusion is indicated?
 
@@ -726,7 +726,7 @@ Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 12
 
 ### Q23. Which sample is suitable for routine sputum culture when expectoration is possible?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Saliva from the lips
 - **B.** Deep respiratory sputum in the specified container
@@ -756,7 +756,7 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q11](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q11](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q11-which-sample-is-suitable-for-routine-sputum-culture-when-expectoration-is-possible)
 
 ### Q24. A postoperative patient has not voided and reports increasing suprapubic discomfort. What is the best initial assessment?
 
@@ -949,7 +949,7 @@ IPC sleeves intermittent pressure se venous flow support karti hain. Nurse corre
 
 ### Q31. Drainage abruptly stops while the surgical site becomes swollen and painful. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Strip the tubing forcefully regardless of policy
 - **B.** Remove the drain without authorization
@@ -979,7 +979,7 @@ Drainage ka stop hona alone healing prove nahi karta. Swelling aur pain ke saath
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q10](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q10](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q10-drainage-abruptly-stops-while-the-surgical-site-becomes-swollen-and-painful-which-response-is-appropriate)
 
 ### Q32. A timed 24-hour urine collection begins at 7 AM. What is the usual collection procedure?
 
@@ -1045,7 +1045,7 @@ Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka pr
 
 ### Q34. Which measure is appropriate during sputum collection for suspected infectious pulmonary TB?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to cough toward staff
 - **B.** Remove respiratory precautions
@@ -1077,7 +1077,7 @@ Pulmonary TB mein infectious aerosols cough ke saath air mein spread ho sakte ha
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q12](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q12](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q12-which-measure-is-appropriate-during-sputum-collection-for-suspected-infectious-pulmonary-tb)
 
 ### Q35. A patient reports difficulty falling asleep due to repeated noise and nighttime interruptions. Which intervention addresses the likely modifiable cause?
 
@@ -1183,7 +1183,7 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 ### Q38. Why is a specimen collected near an active IV infusion potentially unreliable?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** IV fluid cannot alter any lab result
 - **B.** The blood becomes arterial
@@ -1213,7 +1213,7 @@ IV infusion mein saline, glucose ya prescribed medicines blood ke saath mix ho s
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q10](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q10](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q10-why-is-a-specimen-collected-near-an-active-iv-infusion-potentially-unreliable)
 
 ### Q39. Which order is conventionally used during routine abdominal physical examination?
 
@@ -2688,7 +2688,7 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 ### Q85. After elastic bandaging, toes become pale, cool and numb. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess distal neurovascular status and relieve inappropriate compression according to protocol
 - **B.** Massage aggressively
@@ -2718,7 +2718,7 @@ Pale cool numb toes bandage ke baad arterial supply ya nerve compression ke warn
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q12](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q12](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q12-after-elastic-bandaging-toes-become-pale-cool-and-numb-what-is-the-priority)
 
 ### Q86. A patient has suspected infectious pulmonary tuberculosis. Which additional precaution is generally appropriate in healthcare?
 
@@ -3536,7 +3536,7 @@ Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahi
 
 ### Q112. An unexpectedly high potassium result comes from a hemolyzed sample. What should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Pseudohyperkalemia from release of intracellular potassium
 - **B.** No patient assessment is needed
@@ -3566,7 +3566,7 @@ Hemolysis ka matlab blood cells ka tootna hai. Red blood cells ke andar potassiu
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q9](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q9](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q9-an-unexpectedly-high-potassium-result-comes-from-a-hemolyzed-sample-what-should-be-considered)
 
 ### Q113. Which instruction is appropriate for a midstream clean-catch urine specimen?
 

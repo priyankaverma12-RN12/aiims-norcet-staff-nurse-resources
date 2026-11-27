@@ -2,6 +2,8 @@
 
 **Mock 01 complete-length practice edition is published; final clinical and exhaustive semantic validation remain pending.** The goal is 10 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
 
+## Test availability
+
 | Mock | Target | Published |
 |---|---:|---|
 | 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |
@@ -79,4 +81,8 @@ Publication and replacement commits: 23aae2cd49fc974541a6b1a28ac069f222baa584; 1
 
 All 1,094 indexed bank headings compared against then-current 120 stems with zero exact matches; bounded semantic candidate review and post-replacement targeted screening completed. Fresh targeted concept/PYQ, full-length mocks and revision comparisons recorded in ledger. Unlinked material and exhaustive post-replacement comparison remain pending. All 40 new exact-item video mappings unverified, two description-level supplementary leads only. Full independent clinical rereview of all 120 items/480 rationales, comprehensive source and semantic validation and rendered UI check pending. Both skills retrieved in bounded ranges, AGENTS and Copilot read, current audit learning excerpts and claims checked. Full historical audit log reread not certified. Next: finish Mock 02 validation before safe assembly; do not begin Mock 03 prematurely. Preserve completed Mock 01 rereview.
 
-<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-clinical-20261127-1855. Scope: Mock 02 Q001–Q010 draft, Mock 02 audit ledger and mock plan only. Claimed UTC: 2026-11-27T18:55:25Z. Expiry UTC: 2026-11-27T19:25:25Z. -->
+## Mock 02 clinical validation checkpoint — 28 November 2026
+
+Q001–Q010 independently clinically rereviewed and all 40 individual option rationales expanded into conversational complete-sentence Roman Hinglish. Verified content commit 8edb53f1883fd6dc8f2f0731fe1610f33b80dafe, blob 4697fcae7cc77d1af2b4ca66dda77c774744c947. [Clinical audit ledger](Mock-02-Structural-and-Semantic-Audit.md) updated and exact readback verified at 128a9e8f1ac9745b259a9cbc222fd0d0c069db75, blob d86e8c5b0ed62ec90e961fac412a36b1276434a0. Ten English stems, four options each, keys, difficulty/priority and closed answers preserved. Mock 02 clinical rereview 10/120, rationales reviewed 40/480. No new original allocation. Combined 240 originals and 960 option rationales, 120 preserved Mock 01 clinical notes. One assembled practice edition, zero fully certified mocks. Current clinical references checked and dedicated video research recorded honestly, all ten specific mappings remain pending. Both skills completely read in bounded ranges, AGENTS/Copilot checked, latest audit learning excerpt reviewed (full historical log not reread). Formal job claims rechecked, disjoint active Nursing Foundations scopes untouched. Remaining clinical review Q011–Q120, comprehensive semantic checks including five replacements and concurrent additions, practice video verification, rendered UI and final assembly remain pending. Next Q011–Q020, then sequential batches. Do not start Mock 03 until Mock 02 validation gates reconciled.
+
+<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Q001–Q010 clinical rereview and audit ledger. -->
