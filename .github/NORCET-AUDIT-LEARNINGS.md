@@ -282,3 +282,38 @@ Clinical evidence: Indian Chest Society/NCCP spirometry guideline https://pmc.nc
 Historical: directly retrieved third-party AIIMS NORCET 1 Sep 2020 memory-based image-identification ABG question https://testbook.com/question-answer/identify-the-procedure-being-performed-in-the-imag--6171640c721aa8f143c00d16 (Q30 related tested concept); Q55 Allen test discussed in explanation only, not verified exam appearance, explicitly ⚪ pending. No exact match, official key or actual image verification. AIIMS Mangalagiri 21 Sep 2019 Cheyne-Stokes lead https://testbook.com/question-answer/ques--62972e399feb329d2f695a04 direct retrieval failed; no question provenance asserted. 
 
 Video coverage Q23–59: 7 topic-level practice leads (Q30,32,33,46,52–54), 30 explicit pending gaps (Q23–29,31,34–45,47–51,55–59). Ambition Nursing Classes ABG video https://www.youtube.com/watch?v=G_2-0P9EfAg search metadata/hashtags confirm general ABG practice, exact formula subtopic not verified; Studyroom31 previously description-mapped IPPA https://www.youtube.com/watch?v=aTGm3WCiS9w. 11 concept lecture mappings (spirometry 8 via NDLI description, breathing patterns 3 via MediNext Live description), not counted as MCQ videos. No playback/transcripts or authenticated exact-item timestamps. Earlier Q1–22 still require individual video status and visible exam tag retrofit. Do not treat missing video notices as completion. No additional high-yield originals added before coverage and duplicate reconciliation. Next: inspect respiratory inventory for a Day 2 standalone mock, then Day 3 disease MCQs if absent; keep explicit video gap revisit before chapter certification. Avoid conflicts and preserve historical scores. 
+
+
+## 2026-11-27 — Day 2 final mock corrective audit
+
+File Chapters/Respiratory-System/MCQs/Day-02-Final-Mock-25.md; before 3e33b79a984ba6279602d7944b25031b2cb5b059, after 60d5f4a942484fbc605fc8c80a63f9fc384c7d38, verified commit 1364c07dfe6d9ef6cf3f26fc7720f865c79f0167. All 25 IDs, keys, four options and scoring preserved. Two internally inconsistent ABG stems corrected: Q9 pH 7.31 to 7.25 with PaCO2 59 and HCO3 25; Q11 pH 7.24 to 7.29 with PaCO2 30 and HCO3 14. Henderson–Hasselbalch pH = 6.1 + log10(HCO3/(0.03 × PaCO2)); exact calculated 7.24996 and 7.29189 approximately. Answer letters unchanged. Explicit correction notes in file. All 25 rationales and 75 distractor explanations expanded, 16 difficulty regrades; new breakdown Easy 7, Medium 16, Difficult 2. 23 revision mappings (related concepts/methods, not necessarily duplicates). Zero exact normalized stem matches within mock or against Day 2 bank. Q23 weak distractors retained, future questions should use plausible alternatives. No new authorship or PYQ count.
+
+|Q|Key|Topic|Difficulty E/M/D|Evidence status|
+|---|---|---|---|---|
+|1|B|Retractions|M|Topic-level lead|
+|2|A|Asymmetric expansion|M|Topic-level lead|
+|3|A|Pleural effusion|D|Video pending|
+|4|D|Consolidation|M|Video pending; KGMU related concept|
+|5|A|Rhonchi|M|Video pending|
+|6|D|Stridor escalation|M|Video pending|
+|7|A|Pleural rub|M|Video pending|
+|8|D|Bilateral auscultation|E|Topic-level lead|
+|9|A|Respiratory acidosis|M|Topic-level lead; pH corrected|
+|10|B|Respiratory alkalosis|M|Topic-level lead|
+|11|A|Metabolic acidosis|M|Topic-level lead; pH corrected|
+|12|A|Metabolic alkalosis|M|Topic-level lead|
+|13|A|Noninvasive assessment|E|Video pending|
+|14|D|FEV1/FVC ratio 44 vs 80|M|Video pending|
+|15|B|Residual volume|M|Topic-level lead|
+|16|C|Early spirometry termination|M|Video pending|
+|17|D|SpO2 vs PaO2|E|Video pending|
+|18|D|ETCO2 40|E|Video pending|
+|19|C|Pleural fluid specimen|E|Video pending|
+|20|C|V/Q imaging|E|Video pending|
+|21|C|Postprocedure distress|M|Video pending|
+|22|C|Speech limitation|M|Video pending|
+|23|D|Work of breathing|E|Topic-level lead|
+|24|C|Compensated ABG|D|Topic-level lead|
+|25|D|Integrated assessment|M|Video pending|
+
+Clinical references checked via search extracts: Open RN assessment https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/, OpenStax breath sounds https://openstax.org/books/clinical-nursing-skills/pages/23-3-breath-sounds-and-lung-assessment, vocal fremitus https://www.ncbi.nlm.nih.gov/sites/books/NBK499838/, Merck acid-base regulation https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation, ABG equation https://pmc.ncbi.nlm.nih.gov/articles/PMC9416819/, Indian Chest Society/NCCP spirometry https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/, ATS/ERS technical standard https://pmc.ncbi.nlm.nih.gov/articles/PMC6794117/, FDA pulse oximetry https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters, capnography https://www.ncbi.nlm.nih.gov/sites/books/NBK539754/?report=classic, BTS pleural disease/procedures https://thorax.bmj.com/content/78/Suppl_3/s1 and https://thorax.bmj.com/content/78/Suppl_3/s43, V/Q scan https://medlineplus.gov/lab-tests/vq-scan/. Broad nursing scope matches earlier curriculum review; specific exam depth and comprehensive full-text verification remain pending. Historical direct text retrieval KGMU Nursing Officer 2023 memory-based question https://testbook.com/question-answer/a-nurse-is-performing-respiratory-assessment-ofnb--6819aab320ac2f27cadf0fc4 verifies related consolidation/fremitus concept for Q4, visible purple evidence-qualified label; no exact or official claim. NORCET 2020 memory-based ABG procedure-identification question re-opened, distinct task from interpretation, not used as exact match. No separate adaptation added until existing PYQ inventory checked. Video leads: 10/25 (Q1,2,8,23 generic respiratory assessment description https://www.youtube.com/watch?v=QrBjOPU2RRA; Q9–12,24 ABG topic hashtags https://www.youtube.com/watch?v=G_2-0P9EfAg; Q15 specific spirometry/RV topic search description https://www.youtube.com/watch?v=SB9FPVpKzLA). Direct video retrieval failed for assessment/spirometry; no playback/transcript/exact timestamp. 15/25 explicit gaps. Rendered UI not inspected; Markdown validated. Prevention: all ABG triples must obey Henderson–Hasselbalch within rounding, avoid diagnostic certainty from single physical signs, classify clinical urgency and difficulty independently, keep video evidence per item, do not inflate unique counts. Cumulative 195 question-level clinical/rationale reviews. Next Day-03-Asthma-COPD-55.md Q1 onward; revisit Day 2 video and historical gaps before certification.
