@@ -4,7 +4,7 @@
 
 ### Q1. During bedside assessment, the nurse taps a body surface and interprets the resulting sound. Which technique is being used?
 
-**Difficulty:** 🟢 Easy | **Priority:** 🟠 HIGH YIELD | **Evidence:** Third-party reported source adaptation, NVS Staff Nurse 8 March 2022, shift and question number not established.
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **🔵 NVS Staff Nurse — 8 March 2022 (reported adaptation)** · Shift and question number not established.
 
 A. Inspection
 B. Percussion
@@ -27,6 +27,6 @@ D. Palpation
 
 Testbook reports NVS Staff Nurse paper dated 8 March 2022 and tapping as correct answer. Wording and option order independently adapted. No official authenticity claimed.
 
-[40 Health Assessment & Physical Examination MCQs 2026 — #studyroom31](https://www.youtube.com/watch?v=aTGm3WCiS9w) indexed IPPA practice lead for Q1. Exact video item and timestamp unverified, not evidence of historical occurrence.
+**▶️ [YouTube MCQ practice — 40 Health Assessment & Physical Examination MCQs, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists IPPA, including percussion. Topic-level practice for Q1, exact video item, playback and timestamp unverified; not evidence of historical occurrence.
 
 Official paper and key searches for NORCET, HPRCA/HPSSC, PGIMER, SGPGI, ESIC, RRB, DSSSB, JIPMER, CHO and state exams remain pending.
