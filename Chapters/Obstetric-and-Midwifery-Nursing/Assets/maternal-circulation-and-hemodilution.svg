@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+<title id="title">Maternal circulation and hemodilution in pregnancy</title>
+<desc id="desc">Schematic showing reduced systemic vascular resistance and increased cardiac output, illustrative plasma and red cell expansion, and reduced venous return when the gravid uterus compresses the vena cava in the supine position.</desc>
+<rect width="900" height="480" rx="18" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#172554" font-size="19">
+<text x="450" y="34" font-size="25" font-weight="bold" text-anchor="middle">Normal pregnancy: circulation adapts</text>
+<rect x="25" y="55" width="410" height="395" rx="14" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+<text x="230" y="84" text-anchor="middle" font-weight="bold">Illustrative blood volume model</text>
+<text x="122" y="118" text-anchor="middle">Before</text><text x="327" y="96" text-anchor="middle" font-size="14">Pregnancy</text>
+<rect x="70" y="271" width="105" height="72" rx="3" fill="#b91c1c"/>
+<rect x="70" y="163" width="105" height="108" rx="3" fill="#facc15"/>
+<rect x="275" y="249.4" width="105" height="93.6" rx="3" fill="#b91c1c"/>
+<rect x="275" y="98.2" width="105" height="151.2" rx="3" fill="#facc15"/>
+<text x="123" y="221" text-anchor="middle" font-size="15">Plasma</text><text x="123" y="313" text-anchor="middle" font-size="15" fill="#fff">RBC mass</text>
+<text x="327" y="171" text-anchor="middle" font-size="15">Plasma ↑</text><text x="327" y="304" text-anchor="middle" font-size="15" fill="#fff">RBC mass ↑</text>
+<text x="230" y="372" text-anchor="middle" font-size="17" font-weight="bold">Plasma rises proportionally more</text>
+<text x="230" y="398" text-anchor="middle" font-size="17">Hematocrit can fall</text>
+<text x="230" y="424" text-anchor="middle" font-size="14">Schematic only, not measured volumes</text>
+<rect x="455" y="55" width="420" height="395" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<text x="665" y="85" text-anchor="middle" font-weight="bold">Supine hypotension</text>
+<rect x="482" y="106" width="365" height="55" rx="10" fill="#fff" stroke="#92400e"/>
+<text x="665" y="138" text-anchor="middle">Enlarged uterus presses IVC</text>
+<path d="M665 164 V184" stroke="#92400e" stroke-width="3"/><path d="M657 177 L665 187 L673 177" fill="none" stroke="#92400e" stroke-width="3"/>
+<rect x="482" y="190" width="365" height="55" rx="10" fill="#fff" stroke="#92400e"/>
+<text x="665" y="222" text-anchor="middle">Venous return and output fall</text>
+<path d="M665 248 V268" stroke="#92400e" stroke-width="3"/><path d="M657 261 L665 271 L673 261" fill="none" stroke="#92400e" stroke-width="3"/>
+<rect x="482" y="274" width="365" height="55" rx="10" fill="#fff" stroke="#92400e"/>
+<text x="665" y="306" text-anchor="middle">Dizziness and low blood pressure</text>
+<rect x="482" y="350" width="365" height="76" rx="10" fill="#dcfce7" stroke="#166534"/>
+<text x="665" y="377" text-anchor="middle" font-weight="bold" fill="#166534">Left lateral positioning</text>
+<text x="665" y="403" text-anchor="middle" font-size="15">Reassess and escalate if unwell</text>
+</g></svg>
