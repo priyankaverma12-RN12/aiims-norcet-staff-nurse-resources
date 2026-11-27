@@ -15,3 +15,8 @@ New 40 stems checked against 80 previous parsed related stems from groups 01, 02
 ## Group 02 initial individual-topic allocations
 
 70 new originals, communication 9 prior + 21 = 30, documentation 7 + 23 = 30, handover 4 + 26 = 30. Old group 02 Q1–4,10–11,14–15,18 communication, Q6–7,9,12–13,16,20 documentation, Q5,8,17,19 handover. Total 710 slots (294 Medium, 416 Difficult), 110 new since expansion began, five individual allocations of 30. 140 related previous stems compared with no exact normalized overlap. Concept guides, diagrams, indexed practice/teaching resources and historical evidence register. Counted historical adaptations remain 34 pending overlap review. Dedicated handover MCQ video, official keys, full semantic/clinical/curriculum audit and playback pending. Next group 03 vital signs and physical assessment. Five existing mocks of ten.
+
+
+## Group 03A BP checkpoint
+
+23 new original MCQs + 7 earlier allocated = 30. Current 733 slots (302 Medium, 431 Difficult), 133 expansion. 20 prior group 03 stems compared for exact matches, none. Concept and flowchart, indexed teaching and practice and retrieved NORCET 7 source. Counted PYQs 34 unchanged pending reconciliation. Next pulse, respiration, oximetry and physical examination individually. Full semantic and clinical audit pending.

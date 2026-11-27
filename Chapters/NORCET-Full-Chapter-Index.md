@@ -384,3 +384,8 @@ Published 23 additional sharps prevention and response questions (14 Medium, 9 D
 ### Forward lane — Nursing Foundations group 02
 
 70 new original MCQs, three detailed concept guides and diagrams. Three allocations of 30 each (21 communication, 23 documentation, 26 handover new plus 20 earlier allocated). Total 710 (294 Medium, 416 Difficult), 110 expansion, five individual topic allocations. 140 related exact stem comparisons passed. One retrieved reported NVS question and indexed RRB/NORCET/SGPGI leads preserved without increasing 34 counted adaptations. Five compiled mocks remain, next group 03 vital signs and physical assessment. Official keys, video playback, dedicated handover MCQ video and comprehensive semantic/curriculum audits pending. No reverse-lane changes.
+
+
+### Forward group 03A BP
+
+23 new MCQs, 30 allocated including seven earlier. Nursing Foundations 733 slots (302 Medium, 431 Difficult), 133 expansion, 34 counted reported adaptations, 5/10 compiled mocks. Next pulse, respiration, oximetry and physical examination. Reverse untouched. Full source and duplicate audit pending.
