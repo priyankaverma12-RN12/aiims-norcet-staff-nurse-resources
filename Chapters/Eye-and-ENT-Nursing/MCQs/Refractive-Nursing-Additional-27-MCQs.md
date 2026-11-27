@@ -355,26 +355,26 @@
 
 </details>
 
-### Q14. A patient with severe ocular discomfort after accidental exposure to unneutralized contact lens peroxide asks to wait for a routine visit. What is the immediate priority?
+### Q14. A contact lens wearer has completed initial treatment for microbial keratitis and asks when lens wear may restart. Which response is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · **Topic:** lens complications
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **Topic:** lens complications
 
-- **A.** Neutralize the chemical in the eye with another household chemical
-- **B.** Remove lenses if readily possible while beginning prompt copious irrigation and arrange urgent evaluation
-- **C.** Patch the eye tightly before irrigation
-- **D.** Wait for a full refraction before any irrigation
+- **A.** Resume the same lenses as soon as the redness is less noticeable
+- **B.** Restart contact lens wear only when the treating eye-care clinician confirms it is safe and follow the replacement instructions
+- **C.** Use a borrowed pair of lenses until the next visit
+- **D.** Restart lens wear while the corneal infection is still being actively assessed
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: B. Remove lenses if readily possible while beginning prompt copious irrigation and arrange urgent evaluation**
+**Correct answer: B. Restart contact lens wear only when the treating eye-care clinician confirms it is safe and follow the replacement instructions**
 
-**Kyun sahi hai:** Chemical injury mein irrigation delay nahi karni. Lens readily remove ho sake toh irrigation ke saath remove karo. Urgent assessment corneal damage evaluate karegi.
+**Kyun sahi hai:** Keratitis ke baad redness kam hona complete corneal healing prove nahi karta. Clinician ocular surface aur infection status assess karke batayega ki lens wear kab safe hai. Old lenses, case aur care products ke replacement instructions follow karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Household chemical se neutralization additional injury kar sakti hai.
-- **C.** Pressure patch irrigation delay karti hai.
-- **D.** Refraction urgent decontamination se pehle priority nahi.
+- **A.** Sirf redness kam hone se recovery confirm nahi hoti aur old lenses contamination ka source ho sakti hain.
+- **C.** Borrowed lenses fitting aur cross-infection risks laati hain.
+- **D.** Active infection evaluation ke dauran lens wear se healing disturb ho sakti hai.
 
 **Revision:** [Related concept](../Concepts/Refractive-Errors.md#nursing-lens-complications).
 
