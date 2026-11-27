@@ -18,3 +18,8 @@
 
 
 [Group 02 communication, documentation and handover reported evidence](02-Communication-Documentation-Handover-Reported-Evidence.md). Count unchanged at 34 pending reconciliation, one retrieved NVS source and indexed RRB/NORCET/SGPGI leads.
+
+
+## Group 03 source-linked evidence
+
+[BP](03A-BP-Reported-Evidence.md) · [Pulse](03B-Pulse-Reported-Evidence.md) · [Respiration](03C-Respiration-Reported-Evidence.md) · [Oximetry](03D-Oximetry-Reported-Evidence.md). Oximetry includes self-contained GMCH 2022 and memory-based NORCET 2020 adaptations with hidden option-specific explanations. Count 34 unchanged pending reconciliation. Video question-level evidence and official keys not authenticated.
