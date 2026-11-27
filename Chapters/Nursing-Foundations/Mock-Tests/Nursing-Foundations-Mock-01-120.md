@@ -419,7 +419,9 @@ Orem theory ke according nursing tab needed hoti hai jab person apni self-care n
 
 ### Q19. A sterile drape becomes wet through contact with a nonsterile surface. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Cover it with a clean nonsterile towel and continue
 - **B.** Treat the affected field as contaminated and replace it
@@ -434,9 +436,17 @@ Moisture microorganisms ko material ke through transfer hone mein help kar sakti
 
 **Baaki options kyun sahi nahi hain?** Drying sterility restore nahi karti. Nonsterile towel sterile barrier nahi hai. Germs visible hona zaroori nahi hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — aseptic technique, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+
+**Related study:** [Bedside sterile-field clinical judgment](../Concepts/05A-Bedside-Sterile-Field-Clinical-Judgment.md)
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q4](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q4](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q4-a-sterile-drape-becomes-wet-through-contact-with-a-nonsterile-surface-what-should-the-nurse-do)
 
 ### Q20. Which direction is generally appropriate when cleansing a simple clean incision using separate swabs?
 
@@ -1682,7 +1692,9 @@ ID injection dermis ki shallow layer mein di jaati hai. Low angle se needle supe
 
 ### Q69. Which practice applies to the care of every patient regardless of known infection status?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 NHM Haryana CHO 2022 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Sterile gloves for all conversations
 - **B.** Airborne isolation for every encounter
@@ -1697,9 +1709,15 @@ Standard precautions blood aur body fluid exposure ke risk ko dhyan mein rakhkar
 
 **Baaki options kyun sahi nahi hain?** Airborne isolation specific indications par hai. Sterile gloves routine conversation mein needed nahi hain. Hand hygiene always relevant hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** [NHM Haryana CHO, 24 April 2022](https://testbook.com/question-answer/standard-precautions-are-used-__________--626aefe35525dde4abb70340/amp) — retrieved third-party report on applies to all patients; related tested concept only, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — standard precautions, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q1](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q1](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q1-which-practice-applies-to-the-care-of-every-patient-regardless-of-known-infection-status)
 
 ### Q70. After a suspected transfusion reaction, what should happen to the implicated blood bag and tubing?
 
@@ -1934,7 +1952,9 @@ Urine absent ho toh kink, obstruction, retention ya low production possible hai.
 
 ### Q80. When hands are visibly soiled, which cleaning method is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Putting clean gloves over dirty hands
 - **B.** Alcohol hand rub alone without removing visible soil
@@ -1949,9 +1969,15 @@ Visible dirt aur organic material soap-water se physically remove kiya ja sakta 
 
 **Baaki options kyun sahi nahi hain?** Alcohol rub visible dirt remove nahi karta. Dry tissue adequate cleaning nahi hai. Gloves ke andar contamination reh sakti hai.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q3](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q3](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q3-when-hands-are-visibly-soiled-which-cleaning-method-is-appropriate)
 
 ## Block 5
 
@@ -2093,7 +2119,9 @@ Partly compensatory mein patient kuch self-care khud karta hai aur nurse remaini
 
 ### Q87. A nurse removes gloves after emptying a urinary drainage bag. What should the nurse do next?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Wash the gloves for routine reuse
 - **B.** Reuse the same gloves for another patient
@@ -2108,9 +2136,15 @@ Gloves remove karte waqt hands contaminate ho sakte hain. Hand hygiene microorga
 
 **Baaki options kyun sahi nahi hain?** Immediate contact contamination spread kar sakta hai. Disposable gloves reuse nahi karni chahiye.
 
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical match not established.
+
+**▶️ [YouTube MCQ practice — hand hygiene, Health Notes & Mcqs](https://www.youtube.com/watch?v=cbSEgg0HdkU)** · Published description explicitly lists this topic in a 20-MCQ session. Exact question, transcript and playback pending. Supplementary practice, not Indian exam provenance.
+<!-- /job4-metadata -->
+
 </details>
 
-[Source topic bank: Asepsis and standard precautions, Q2](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md)
+[Source topic bank: Asepsis and standard precautions, Q2](../MCQs/05-Asepsis-and-Standard-Precautions-20-MCQs.md#q2-a-nurse-removes-gloves-after-emptying-a-urinary-drainage-bag-what-should-the-nurse-do-next)
 
 ### Q88. A patient exposed to extreme heat has very high temperature and altered mental status. Which action is a priority?
 
