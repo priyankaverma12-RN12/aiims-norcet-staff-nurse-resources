@@ -8,9 +8,8 @@
 
 ### Q1. Which statement is an example of a patient-centered measurable nursing outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -62,9 +61,8 @@ Load body ke paas ho toh spine par leverage kam padta hai. Stable stance aur leg
 
 ### Q3. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -1403,9 +1401,8 @@ Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support cal
 
 ### Q66. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -2259,9 +2256,8 @@ Left lateral position rectal access aur colon ke anatomical direction mein fluid
 
 ### Q106. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
