@@ -53,12 +53,21 @@ Ye topics final audit mein padhe the. Alag-alag existing concept guides mein sav
 
 ## 📖 Yahan se start karo — apna day select karo
 
-| Day | Full concept guide | MCQ practice | Extra |
-|---|---|---|---|
-| **Day 1 — Respiratory A&P** | [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [📝 44 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md) | [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md) |
-| **Day 2 — Assessment & Diagnostics** | [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [📝 59 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md) | [⚡ Revision](Revision/Day-02-Quick-Revision.md) |
+- **Day 1 — Respiratory A&P**
+  - **Full concept guide:** [📚 Complete Day 1 Hinglish Notes](Concepts/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+  - **MCQ practice:** [📝 44 MCQs — detailed explanations](MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md)
+  - **Extra:** [⚡ Revision](Revision/Day-01-Quick-Revision.md) · [🎯 15-question Mock](MCQs/Day-01-Final-Mock-15.md)
 
-| **Day 3 — Asthma, COPD & nursing care** | [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) | [55 disease MCQs](MCQs/Day-03-Asthma-COPD-55.md) · [45 care MCQs](MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [30-question mock](MCQs/Day-03-Final-Mock-30.md) (unattempted) | [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md) |
+- **Day 2 — Assessment & Diagnostics**
+  - **Full concept guide:** [📚 Complete Day 2 Hinglish Notes](Concepts/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+  - **MCQ practice:** [📝 59 MCQs — detailed explanations](MCQs/Day-02-Complete-Respiratory-Assessment-Diagnostics.md)
+  - **Extra:** [⚡ Revision](Revision/Day-02-Quick-Revision.md)
+
+- **Day 3 — Asthma, COPD & nursing care**
+  - **Full concept guide:** [Diseases](Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Inhalers, oxygen, nebulization & care](Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md)
+  - **MCQ practice:** [55 disease MCQs](MCQs/Day-03-Asthma-COPD-55.md) · [45 care MCQs](MCQs/Day-03-Drugs-Oxygen-Nursing-45.md) · [30-question mock](MCQs/Day-03-Final-Mock-30.md) (unattempted)
+  - **Extra:** [Revision](Revision/Day-03-Quick-Revision.md) · [Reported Previous Year Questions](Previous-Year-Questions/Day-03-Reported-Nursing-Exam-Questions.md)
+
 
 ### Practice ka level — base bank vs new exam-level practice
 
@@ -110,10 +119,8 @@ Diagrams ko **full notes aur MCQ banks ke relevant sections ke andar bhi embed**
 | Day 2 | [Breath-sounds summary](Assets/breath-sounds-revision.svg) | Wheeze, crackles, stridor etc. |
 | Day 2 | [ABG simple interpretation](Assets/abg-interpretation-grid.svg) | Four basic patterns |
 | Day 2 | [FEV₁/FVC spirometry graph](Assets/spirometry-ratio.svg) | First second vs full exhalation |
-
 | Day 3 | [Airway and alveoli](Assets/day-03-airway-alveoli.svg) | Asthma, bronchitis, emphysema |
 | Day 3 | [Pursed-lip breathing](Assets/day-03-pursed-lip-breathing.svg) | Inhale 2, exhale 4 seconds |
-
 | Day 3 | [Peak flow zones and cor pulmonale](Assets/day-03-peak-flow-cor-pulmonale.svg) | Personal best and right-heart overload |
 
 **Gallery preview:**
