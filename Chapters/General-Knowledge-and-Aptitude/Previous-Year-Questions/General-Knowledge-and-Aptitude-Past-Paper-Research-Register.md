@@ -20,3 +20,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Simplification reported evidence](03-Simplification-Reported-Evidence.md): three reported recruitment question families, RRB March 2026 shifts 2 and 3 and DSSSB August 2019 shift 2. Chapter total eight counted families and nine solved adaptations. Official keys pending.
+
+
+[Fractions evidence and allocation](04-Fractions-Reported-Evidence.md): existing RRB simplification question cross-linked without double counting, one additional solved DSSSB work/fraction adaptation reserved for time and work, no new counted family. Chapter total eight counted families and nine counted solved adaptations, plus one reserved. Official keys pending.
