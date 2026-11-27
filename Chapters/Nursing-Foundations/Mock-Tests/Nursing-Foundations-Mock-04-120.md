@@ -719,9 +719,19 @@ Urine-stool exposure skin barrier damage kar sakti hai. Gentle cleansing aur bar
 
 **Correct: D. Support the affected arm and avoid pulling on it**
 
-Hemiplegia mein shoulder muscles joint stabilize nahi kar paati hain. Arm support traction aur subluxation risk reduce karta hai.
+Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam ho sakti hai. Unsupported arm ke weight se joint traction aur pain ho sakte hain. Transfer mein affected arm support karein aur trained technique use karein.
 
-**Baaki options kyun sahi nahi hain?** Wrist lifting, unsupported hanging aur forced movement injury cause kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Affected wrist se lift karna force shoulder tak transmit karta hai aur pain ya injury cause kar sakta hai.
+- **B (Galat):** Arm ko unsupported hang karne se weak shoulder par gravitational traction badh sakti hai.
+- **C (Galat):** Resistance ke against forced movement soft tissue damage kar sakti hai. Therapist-guided range aur scapular movement ka dhyan rakhein.
+- **D (Sahi):** Affected arm support karke pulling avoid karne se shoulder traction aur soft-tissue injury ka risk kam hota hai.
+
+**Exam clue:** Hemiplegic shoulder = support, never pull on affected arm.
+
+**Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -823,9 +833,19 @@ SOAP structured notes ka format hai. S subjective yani patient ke own symptoms a
 
 **Correct: C. Maintain neutral ankle alignment using appropriate support and reassess the skin**
 
-Foot drop risk mein ankle ko neutral alignment mein support karna useful ho sakta hai. Nurse skin pressure aur comfort regularly assess karti hai.
+Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur contracture develop ho sakti hai. Neutral alignment ko suitable support se maintain karein. Foot drop neurological weakness se bhi ho sakta hai, isliye support alone treatment nahi hai. Heel offloading aur skin checks zaroori hain.
 
-**Baaki options kyun sahi nahi hain?** Prolonged plantarflexion contracture favor karti hai. Heavy bedding pressure add kar sakti hai. Heel inspection important hai.
+**Option-wise explanation:**
+- **A (Galat):** Continuous plantarflexion Achilles-calf shortening aur ankle contracture ka risk badhata hai.
+- **B (Galat):** Heel inspection avoid karne se pressure damage early identify nahi hoga.
+- **C (Sahi):** Neutral ankle support prolonged plantarflexion ko limit karta hai. Skin, circulation aur comfort reassessment se device-related pressure harm avoid karte hain.
+- **D (Galat):** Heavy bedding toes par force daal kar plantarflexion aur pressure injury badha sakti hai.
+
+**Exam clue:** Neutral ankle alignment + skin checks, no prolonged plantarflexion.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -1277,9 +1297,19 @@ Rapid weight gain often fluid accumulation se related ho sakta hai. Roughly one 
 
 **Correct: C. Early individualized mobilization when clinically safe**
 
-Safe mobilization muscle strength, circulation aur functional independence support karti hai. Activity patient ki stability ke according progress hoti hai.
+Deconditioning prolonged inactivity se muscle strength, endurance aur function kam hone ko kehte hain. Clinically safe individualized mobilization se function maintain karne mein madad milti hai. Vitals, weight-bearing orders aur fall risk check karke gradual activity badhayein.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary bed rest aur fixed positioning weakness aur complications badha sakti hain.
+**Option-wise explanation:**
+- **A (Galat):** Sab active movement avoid karne se strength aur joint function deteriorate ho sakte hain.
+- **B (Galat):** Har patient ko strict bed rest dena unnecessary muscle loss aur complications badha sakta hai.
+- **C (Sahi):** Early individualized activity jab safe ho, strength, functional independence aur endurance support karti hai.
+- **D (Galat):** Ek position mein din bhar rehne se pressure injury aur functional decline ka risk badhta hai.
+
+**Exam clue:** Safe early mobility, not universal bed rest.
+
+**Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -3059,9 +3089,19 @@ Spinal block sympathetic tone reduce karke vasodilation aur hypotension cause ka
 
 **Correct: B. Assist the patient to a safe sitting or lying position and assess vital signs**
 
-Dizziness aur pallor orthostatic hypotension ya other problem indicate kar sakte hain. Nurse fall prevent karke vitals aur symptoms assess karti hai.
+First postoperative ambulation mein pallor aur dizziness postural BP drop, blood loss, medication effect ya doosre cause se ho sakti hai. Walking stop karein, patient ko supported sitting ya lying position mein safely assist karein, vitals aur symptoms assess karein aur persistent ya severe abnormality escalate karein.
 
-**Baaki options kyun sahi nahi hain?** Walking insist karna aur unsupported standing injury risk badhate hain.
+**Option-wise explanation:**
+- **A (Galat):** Rapid walking cause resolve nahi karti aur instability worsen kar sakti hai.
+- **B (Sahi):** Safe sitting/lying fall prevent karti hai aur BP, pulse, oxygenation aur clinical condition check karne ka mauka deti hai.
+- **C (Galat):** Distance complete karna safety se important nahi hai. Symptoms ke baad activity continue karna unsafe hai.
+- **D (Galat):** Patient ko unsupported standing chhodne se fall aur injury ka immediate risk hai.
+
+**Exam clue:** Dizzy during ambulation = stop, support, assess.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
