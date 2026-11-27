@@ -443,9 +443,20 @@ Orem theory ke according nursing tab needed hoti hai jab person apni self-care n
 
 **Correct: B. Treat the affected field as contaminated and replace it**
 
-Moisture microorganisms ko material ke through transfer hone mein help kar sakti hai. Nurse contaminated field replace karke asepsis maintain karti hai.
+<!-- job5-rationale -->
+Wet sterile drape ke through nonsterile surface se microorganisms transfer ho sakte hain. Isko strike-through contamination kehte hain. Affected field ko replace karo aur procedure continue karne se pehle aseptic setup restore karo.
 
-**Baaki options kyun sahi nahi hain?** Drying sterility restore nahi karti. Nonsterile towel sterile barrier nahi hai. Germs visible hona zaroori nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Nonsterile towel contaminated barrier ko sterile nahi banata.
+- **B:** Wet compromised field ko contaminated maan kar replace karna patient exposure prevent karta hai.
+- **C:** Microorganisms naked eye se dikhna zaroori nahi hai.
+- **D:** Drape dry hone se transferred organisms remove nahi hote.
+
+**Exam clue:** Wet barrier touching nonsterile surface = contamination.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -1738,9 +1749,20 @@ ID injection dermis ki shallow layer mein di jaati hai. Low angle se needle supe
 
 **Correct: D. Standard precautions**
 
-Standard precautions blood aur body fluid exposure ke risk ko dhyan mein rakhkar har patient ke liye apply hoti hain. PPE task ke risk ke hisaab se choose hoti hai.
+<!-- job5-rationale -->
+Standard precautions ka matlab hai ki har patient ki care mein infection spread rokne ke basic rules follow kiye jaate hain, chahe diagnosis confirm ho ya nahi. Hand hygiene, safe injection, equipment cleaning aur exposure ke according PPE inka part hain. Extra isolation suspected transmission route ke according add hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Airborne isolation specific indications par hai. Sterile gloves routine conversation mein needed nahi hain. Hand hygiene always relevant hai.
+**Option-by-option reasoning**
+
+- **A:** Routine conversation mein sterile gloves ki zaroorat nahi hoti. Gloves actual exposure risk ke hisaab se select hote hain.
+- **B:** Airborne isolation specific airborne infection ke suspicion ya confirmation par add hoti hai.
+- **C:** Diagnosis negative ya unknown hone se infection ka risk zero nahi hota. Isliye hand hygiene skip nahi karte.
+- **D:** Har patient ke liye basic precautions apply hoti hain aur PPE procedure ke exposure risk se select hoti hai.
+
+**Exam clue:** Standard precautions sabke liye, additional precautions transmission route ke liye.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [NHM Haryana CHO, 24 April 2022](https://testbook.com/question-answer/standard-precautions-are-used-__________--626aefe35525dde4abb70340/amp) — retrieved third-party report on applies to all patients; related tested concept only, not an exact match or authenticated official key.
@@ -1998,9 +2020,20 @@ Urine absent ho toh kink, obstruction, retention ya low production possible hai.
 
 **Correct: C. Soap and water**
 
-Visible dirt aur organic material soap-water se physically remove kiya ja sakta hai. Gloves clean hands ka substitute nahi hain.
+<!-- job5-rationale -->
+Visible soil mein organic material hota hai jo effective hand cleaning mein interfere kar sakta hai. Soap aur running water friction aur rinsing ke through soil aur organisms remove karte hain. Alcohol-based hand rub most routine clinical situations mein preferred hai jab hands visibly soiled na hon.
 
-**Baaki options kyun sahi nahi hain?** Alcohol rub visible dirt remove nahi karta. Dry tissue adequate cleaning nahi hai. Gloves ke andar contamination reh sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Gloves pehenne se dirt aur microorganisms hands par reh jaate hain.
+- **B:** Alcohol rub alone visible dirt physically remove nahi karta.
+- **C:** Soap aur water visible contamination remove karne ke liye appropriate hain.
+- **D:** Dry tissue proper washing aur rinsing provide nahi karta.
+
+**Exam clue:** Visible dirt = soap and water.
+
+[Clinical reference](https://www.cdc.gov/clean-hands/hcp/clinical-safety/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -2176,9 +2209,20 @@ Partly compensatory mein patient kuch self-care khud karta hai aur nurse remaini
 
 **Correct: D. Perform hand hygiene**
 
-Gloves remove karte waqt hands contaminate ho sakte hain. Hand hygiene microorganisms transfer hone ka risk kam karti hai.
+<!-- job5-rationale -->
+Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar sakte hain. Gloves utarte waqt microorganisms hands par transfer ho sakte hain, isliye immediately hand hygiene karo. Hands visibly dirty hon toh soap aur water use karo, otherwise alcohol-based hand rub generally preferred hai.
 
-**Baaki options kyun sahi nahi hain?** Immediate contact contamination spread kar sakta hai. Disposable gloves reuse nahi karni chahiye.
+**Option-by-option reasoning**
+
+- **A:** Disposable gloves wash karne se protective integrity aur contamination control reliable nahi rehte.
+- **B:** Disposable gloves ek patient se doosre patient ke liye reuse nahi karte.
+- **C:** Next patient ke equipment ko touch karne se organisms transfer ho sakte hain.
+- **D:** Gloves remove karne ke turant baad hand hygiene transmission chain break karti hai.
+
+**Exam clue:** Gloves hand hygiene ka replacement nahi hain.
+
+[Clinical reference](https://www.cdc.gov/clean-hands/hcp/clinical-safety/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
