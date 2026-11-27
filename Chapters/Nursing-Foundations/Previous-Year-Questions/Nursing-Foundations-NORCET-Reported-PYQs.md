@@ -101,7 +101,7 @@ Hands microorganisms transfer kar sakte hain. Indicated moments par hand hygiene
 
 ### PYQ6. During female urinary catheter preparation, which cleaning direction helps avoid transfer of organisms from the anal area toward the urethra?
 
-**Reported exam:** NORCET 4, 2023, reported paper transcription
+**⚪ Reported exam attribution pending:** NORCET 4, 2023, reported paper transcription · direct source verification pending
 
 [Question source](https://nextnurse.in/pyq/norcet/norcet-norcet-4)
 
