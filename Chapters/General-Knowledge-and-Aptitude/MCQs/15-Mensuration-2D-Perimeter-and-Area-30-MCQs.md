@@ -238,7 +238,7 @@
 
 ### Q9. A triangular sign has a base of 18 cm and a perpendicular height of 7 cm. Find its area.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 126 cm²
 - **B.** 63 cm²
@@ -354,7 +354,7 @@
 
 ### Q13. A parallelogram has base 15 cm, perpendicular height 8 cm and slanted side 10 cm. Find its area.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 150 cm²
 - **B.** 50 cm²
@@ -412,7 +412,7 @@
 
 ### Q15. The diagonals of a rhombus measure 16 cm and 30 cm. Find its area.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 480 cm²
 - **B.** 46 cm²
@@ -470,7 +470,7 @@
 
 ### Q17. A circular badge has circumference 44 cm. Using π = 22/7, find its area.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** 44 cm²
 - **B.** 154 cm²
@@ -528,7 +528,7 @@
 
 ### Q19. A semicircular mat has radius 14 cm. Using π = 22/7, find the length of its complete boundary.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 72 cm
 - **B.** 44 cm
@@ -586,7 +586,7 @@
 
 ### Q21. A sector has radius 21 cm and central angle 120°. Using π = 22/7, find its complete perimeter.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 44 cm
 - **B.** 65 cm
@@ -615,7 +615,7 @@
 
 ### Q22. A circular ring has outer radius 14 cm and inner radius 7 cm. Using π = 22/7, find the ring's area.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 462 cm²
 - **B.** 154 cm²
@@ -644,7 +644,7 @@
 
 ### Q23. A square of side 14 cm contains the largest possible circular cut-out. Using π = 22/7, what area of the square remains?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 154 cm²
 - **B.** 196 cm²
@@ -690,7 +690,7 @@
 
 - **A.** Yeh diameter ko half karke circumference nikaalta hai.
 - **C.** Yeh centimetres ki value ko metres label karta hai.
-- **D.** Yeh diameter ka half hai, total distance nahi.
+- **D.** 35 ki value diameter ke half se aati hai, woh 35 cm hai. Total travel distance metres mein chahiye.
 
 **Exam trick:** Diameter aur radius ko alag rakho. Sirf requested boundary count karo.
 
@@ -719,7 +719,7 @@
 
 - **A.** Yeh openings ignore karta hai.
 - **C.** Yeh sirf door subtract karta hai.
-- **D.** Yeh window area add karta hai.
+- **D.** Yeh poore wall area mein window area add karta hai aur door ko exclude nahi karta.
 
 **Exam trick:** Pehle units match karo aur overlapping ya excluded area ka hisaab rakho.
 
@@ -789,7 +789,7 @@
 
 ### Q28. Two similar triangles have corresponding sides in the ratio 3:5. The smaller triangle has area 54 cm². Find the larger area.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 90 cm²
 - **B.** 54 cm²
