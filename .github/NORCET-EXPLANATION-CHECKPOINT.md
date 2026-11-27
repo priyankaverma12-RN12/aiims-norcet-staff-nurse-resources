@@ -1,10 +1,10 @@
 # Job 5 — deep explanation and answer audit
 
-State: CLAIMED
-Owner: job5-manual-run36-20261127-1520
-Scope: Integrate remaining 32 staged Group16 and Group17 legacy rationale blocks in Mock02–05 only, preserving metadata. No new authorship or shared indexes.
-Claimed UTC: 2026-11-27T15:20:09Z
-Expiry UTC: 2026-11-27T15:50:09Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
@@ -210,3 +210,7 @@ Group17 Pain Rest Sleep and Comfort Therapy original 20 explanations and 80 reas
 
 ## Run 35 — 27 November 2026 — Partial Group16/17 staged integration
 Resumed Run34 e1fc57bf6994aaf526dcb97f930dfd82ed5abe68, 1208 live explanations and 4832 reasons, 60 staged blocks. Job4 released scope, all five formal claims rechecked, own integration claim 278a39c21d8c8a008e7e93e9f559375b89456825 acquired and read back. Three draft blobs verified. All target question identities and four reasons per block checked. Group17 originals Q1–20 commit 0b77aeb9e450e63e9ea521570567c01ddaa1a9b0 blob afa9ddc995b6ecccd08e98a61097c86974ec30ed; Mock01 Group16 Q5,40,53,61 and Group17 Q11,15,57,85 commit d50a89068c9f10987b1a6d3a34bad5b3979717b2 blob 9892da4acf4c9cabb9cc3137af873942f29338ec. Exact readbacks and unchanged nonrationale text verified, current tree blobs matched. Connector tool-call cap interrupted remaining batch. 28 newly verified live blocks (20 originals,8 legacy),112 reasons. Cumulative 1236 live explanations (891 originals,308 legacy,37 reported),4944 reasons. Remaining 32 staged blocks across Mock02–05, 128 reasons. Reconcile Mock02 latest state before retry (current tree blob c05790eee6d574b64af0b224d64a0541ff7ec817). Expected post-integration 1268 live,5072 reasons only after exact verification. No new question authorship or other job changes. Evidence limits and gaps carry forward from Run34. Next integrate remaining staged blocks, scan Group17 reported adaptations and proceed Group18 when safe. Own claim released. No chapter certified complete.
+
+
+## Run 36 — 27 November 2026 — Group16/17 partial integration continuation
+Resumed Run35 feff12bf2412f243549c3e47ec30b62d5b986f72, 1236 live explanations and 4944 reasons. All five formal claims and Eye/ENT and Renal manual scopes checked, free at inspection. Group07C and additional 08 subdivisions absent. Root and canonical skill versions matched prior full reviews, not freshly reread in full, AGENTS/Copilot/audit-learning blob versions checked, fresh full review pending. All three final Run34 draft blobs matched checkpoint, own narrow integration claim de05af1c8f292b8781e87974ce409488b53033e9 acquired and read back. Before each learner write all other formal claims rechecked. Mock02 Group16 Q38,58,95,115 and Group17 Q41,79,111,119 commit ec2b4afc28627001ba31dfef0a39809f1b4d15dd blob 824dbe06a5518b31ba1b91c0102d2feace2e7451; Mock03 Group16 Q4,44,82,108 and Group17 Q35,105,107,110 commit 2208703ba65eb3fb3706435c36daeb51a2c896c9 blob bb26cae1b0a8e7c5fec075ff985a6f63cb768d4e. Sixteen exact stem/options/order/key and four reasons per question checks, preserved nonrationale text and metadata, exact remote readbacks. Final tree verified those two published blobs and unchanged pending Mock04/05 blobs. Connector call limit interrupted rest. Run36 adds 16 live legacy blocks and 64 reasons, cumulative 1252 live explanations (891 originals,324 legacy,37 reported),5008 reasons. Remaining 16 staged blocks,64 reasons, Mock04 Group16 Q26,46,97,115 and Group17 Q8,52,99,100; Mock05 Group16 Q4,15,49,83 and Group17 Q10,12,53,57. Expected total 1268 live and 5072 reasons after exact readback. Prior clinical and historical evidence qualifications and video gaps retained, no new independent source authentication in this integration-only run. Next integrate remaining two mock files, scan Group17 reported adaptations and then Group18. No new question authorship, shared indexes or schedules changed. Own claim released. No chapter certified complete.
