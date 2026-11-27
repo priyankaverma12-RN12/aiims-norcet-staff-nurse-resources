@@ -8,7 +8,7 @@
 
 ### Q1. A patient has a tracheostomy and suddenly develops severe respiratory distress. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Seal all airway openings without assessment
 - **B.** Assume distress is anxiety and wait
@@ -37,7 +37,7 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q19](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q19](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q19-a-patient-has-a-tracheostomy-and-suddenly-develops-severe-respiratory-distress-which-approach-is-appropriate)
 
 ### Q2. What is the purpose of a protective layer between an approved heat or cold device and the skin?
 
@@ -83,7 +83,7 @@ Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Sever
 
 ### Q4. A person with a suspected venomous snakebite is waiting for transport. Which first aid principle is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Cut the wound and suck out venom
 - **B.** Apply ice and a tightly occlusive arterial tourniquet
@@ -112,7 +112,7 @@ Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient k
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q19](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q19](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q19-a-person-with-a-suspected-venomous-snakebite-is-waiting-for-transport-which-first-aid-principle-is-appropriate)
 
 ### Q5. Two urgent tasks compete: a stable patient needs scheduled oral medication and another has new stridor. What is the best prioritization?
 
@@ -192,7 +192,7 @@ Normal saline extracellular fluid ke similar effective tonicity rakhti hai. Ye v
 
 ### Q8. Which action is appropriate before applying a prescribed oxygen mask?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cover the mask's required air-entrainment openings
 - **B.** Skip assessment because oxygen is always harmless
@@ -221,7 +221,7 @@ Oxygen ek treatment hai jiska device, flow aur target patient ki clinical requir
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q18](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q18](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q18-which-action-is-appropriate-before-applying-a-prescribed-oxygen-mask)
 
 ### Q9. A patient says, I feel alone since my family left. Which response reflects empathy?
 
@@ -437,7 +437,7 @@ Unnecessary invasive access infection, thrombosis aur device complications ka ex
 
 ### Q15. A patient develops severe wheezing and hypotension after an allergen exposure. What is the priority under anaphylaxis protocol?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Allow the patient to stand and walk alone
 - **B.** Activate emergency help and give indicated intramuscular epinephrine promptly under protocol
@@ -464,7 +464,7 @@ Anaphylaxis severe allergic reaction hai jisme airway swelling, bronchospasm aur
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q20](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q20](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q20-a-patient-develops-severe-wheezing-and-hypotension-after-an-allergen-exposure-what-is-the-priority-under-anaphylaxis-protocol)
 
 ### Q16. Which handover content helps prevent missed treatment after a ward transfer?
 
@@ -1495,7 +1495,7 @@ Complete bed bath mein patient vulnerable feel kar sakta hai. Nurse care explain
 
 ### Q49. A hypoglycemic patient is unconscious and cannot swallow safely. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Pour sweet liquid into the patient's mouth
 - **B.** Wait until the patient becomes alert without monitoring
@@ -1522,7 +1522,7 @@ Severe hypoglycemia brain function disturb kar sakti hai aur patient unconscious
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q18](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q18](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q18-a-hypoglycemic-patient-is-unconscious-and-cannot-swallow-safely-what-should-the-nurse-do)
 
 ### Q50. Which term describes the use of a suitable antimicrobial preparation on living skin?
 
@@ -1831,7 +1831,7 @@ Repeated loss emotional stress create kar sakti hai. Confidential debriefing, su
 
 ### Q61. Why should oxygen delivery tubing be checked during a patient's transfer?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Tubing has no influence on oxygen delivery
 - **B.** Kinks, disconnections or empty supply can interrupt oxygen delivery
@@ -1858,7 +1858,7 @@ Transfer ke dauran oxygen tubing pull, kink ya disconnect ho sakti hai. Portable
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q17](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q17](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q17-why-should-oxygen-delivery-tubing-be-checked-during-a-patients-transfer)
 
 ### Q62. Which bed position raises the head while keeping the bed surface angled with the head higher than the feet?
 
@@ -2494,7 +2494,7 @@ Patient-centered discharge mein patient ki goals, preferences, home situation au
 
 ### Q83. An adult with diabetes is alert, has low measured glucose and can swallow safely. Which initial response is commonly appropriate under a hypoglycemia protocol?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Withhold carbohydrate until loss of consciousness
 - **B.** Give a large high-fat meal as the only rapid intervention
@@ -2521,7 +2521,7 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q17](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q17](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q17-an-adult-with-diabetes-is-alert-has-low-measured-glucose-and-can-swallow-safely-which-initial-response-is-commonly-appropriate-under-a-hypoglycemia-protocol)
 
 ### Q84. Why must hypertonic saline administration be closely monitored?
 
@@ -2607,7 +2607,7 @@ Patient ko procedure-specific recovery plan samajhna chahiye. Clear warning sign
 
 ### Q87. Which finding should be documented after an oxygen therapy adjustment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Device, flow or concentration, saturation, respiratory status and response
 - **B.** Only the wall outlet color
@@ -2634,7 +2634,7 @@ Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki tr
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q20](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q20](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q20-which-finding-should-be-documented-after-an-oxygen-therapy-adjustment)
 
 ### Q88. A patient with fever has new neck stiffness, confusion and a rapidly worsening condition. Which action is appropriate?
 
