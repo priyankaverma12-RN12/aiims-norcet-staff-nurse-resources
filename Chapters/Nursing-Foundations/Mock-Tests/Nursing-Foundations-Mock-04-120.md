@@ -475,7 +475,7 @@ PRN ka matlab as needed within prescribed indication, interval aur maximum limit
 
 ### Q17. Where should routine ophthalmic drops be instilled?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Into the lacrimal duct using the tip
 - **B.** Directly onto the cornea with tip contact
@@ -505,11 +505,11 @@ Lower eyelid gently pull karne par conjunctival sac, yani lid aur eyeball ke bee
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q15](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q15](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q15-where-should-routine-ophthalmic-drops-be-instilled)
 
 ### Q18. An eye drop and ointment are prescribed together for the same eye. Which sequence is generally appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Drops before ointment with the recommended interval
 - **B.** Mix them in the same dropper
@@ -539,7 +539,7 @@ Eye drops liquid preparation hoti hain aur ointment semi-solid preparation hai. 
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q14](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q14](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q14-an-eye-drop-and-ointment-are-prescribed-together-for-the-same-eye-which-sequence-is-generally-appropriate)
 
 ### Q19. Which observation should prompt assessment of possible IV line dislodgement?
 
@@ -1194,7 +1194,7 @@ Brain ko glucose continuously chahiye. Unsafe swallow mein oral treatment aspira
 
 ### Q39. Why should patients receive explicit warning signs and follow-up contact information at discharge?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** They need to recognize deterioration and know how to obtain timely help
 - **B.** All complications can be prevented by a leaflet alone
@@ -1221,11 +1221,11 @@ Hospital se ghar jaane ke baad patient ko continuous bedside monitoring nahi mil
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q13](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q13](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q13-why-should-patients-receive-explicit-warning-signs-and-follow-up-contact-information-at-discharge)
 
 ### Q40. A patient with low health literacy is discharged with a complex treatment plan. Which education strategy is most useful?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to sign without explanation
 - **B.** Assume literacy from the patient's educational history
@@ -1252,7 +1252,7 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q16](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q16](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q16-a-patient-with-low-health-literacy-is-discharged-with-a-complex-treatment-plan-which-education-strategy-is-most-useful)
 
 ## Block 3
 
@@ -1632,7 +1632,7 @@ Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring
 
 ### Q54. Where is a buccal tablet placed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Under the lower eyelid
 - **B.** On the external cheek skin
@@ -1662,7 +1662,7 @@ Buccal route mein specially prescribed medicine gum aur inner cheek ke beech rak
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q13](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q13](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q13-where-is-a-buccal-tablet-placed)
 
 ### Q55. What is the purpose of surgical asepsis?
 
@@ -2144,7 +2144,7 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 ### Q70. During interfacility transfer a patient needs continuous oxygen. Which preparation is most important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ensure adequate oxygen supply, suitable monitoring, trained escort and receiving-team coordination
 - **B.** Assume transport time will always be short
@@ -2171,7 +2171,7 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q14](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q14](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q14-during-interfacility-transfer-a-patient-needs-continuous-oxygen-which-preparation-is-most-important)
 
 ### Q71. A patient becomes exhausted midway through a rehabilitation session. Which action is appropriate?
 
@@ -2230,7 +2230,7 @@ ABG ke liye trained authorized clinician appropriate heparinized device use kart
 
 ### Q73. Which patient belongings practice is appropriate during admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Leave valuables unlabeled in a shared drawer
 - **B.** Discard all personal items routinely
@@ -2257,7 +2257,7 @@ Admission par patient ke belongings, especially valuables aur assistive devices,
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q15](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q15](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q15-which-patient-belongings-practice-is-appropriate-during-admission)
 
 ### Q74. A nurse is preparing to administer a drug that requires a specific IV infusion duration. Which check is essential?
 
@@ -2514,7 +2514,7 @@ Total output 1200 mL hai. Intake minus output = 1500 minus 1200 = +300 mL. Insen
 
 ### Q83. A patient reports dizziness when cold ear drops are administered. What can help prevent this?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Instill the drops as cold as possible
 - **B.** Allow drops to reach an appropriate temperature according to instructions
@@ -2544,7 +2544,7 @@ Cold ear drops vestibular system, yani balance control karne wale inner-ear mech
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q16](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q16](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q16-a-patient-reports-dizziness-when-cold-ear-drops-are-administered-what-can-help-prevent-this)
 
 ### Q84. A patient is unable to communicate verbally but has a possible painful procedure. How should pain be assessed?
 
