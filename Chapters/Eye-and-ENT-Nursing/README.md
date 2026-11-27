@@ -78,4 +78,4 @@ Conjunctivitis expansion, 27 November 2026: resumed newer verified checkpoint 66
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-104020-keratitis. Scope: keratitis chapter-local package only. Claimed UTC 2026-11-27T10:40:20Z. Expiry UTC 2026-11-27T11:10:20Z. -->
