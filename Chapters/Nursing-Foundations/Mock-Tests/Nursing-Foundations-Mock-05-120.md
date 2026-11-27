@@ -1168,9 +1168,22 @@ Patient ko intimate care aur observer participation ke baare mein informed choic
 
 **Correct: A. Correct bladder placement according to the insertion protocol**
 
-Balloon bladder ke andar hona chahiye. Urethra mein inflation severe injury kar sakti hai, isliye urine return aur procedure-specific placement confirmation important hain.
+Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehkar catheter ko place par rakhta hai. Urethra mein balloon inflate karne se serious trauma ho sakta hai. Urine return aur protocol ke mutabik sufficient advancement se bladder placement confirm karo. Agar placement uncertain ho toh balloon inflate na karo aur assistance lo.
 
-**Baaki options kyun sahi nahi hain?** Pain correct position prove nahi karta. Urethral inflation unsafe hai. Drainage disconnection confirmation nahi hai.
+**Har option ka reason**
+
+- **A (Sahi):** Correct bladder placement confirm karna balloon inflation ki necessary safety condition hai.
+- **B (Galat):** Urethra mein balloon inflate karna tissue injury aur bleeding cause kar sakta hai.
+- **C (Galat):** Bag disconnect karna bladder placement prove nahi karta aur infection risk badhata hai.
+- **D (Galat):** Severe pain warning sign hai, correct placement ka proof nahi.
+
+**Exam clue:** Urine return alone may not establish balloon position. Follow device-specific insertion protocol.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -1292,10 +1305,20 @@ Antisepsis mein living skin ya tissue par suitable antimicrobial preparation app
 
 **Correct: D. Assess fluid balance, perfusion, vital signs and possible renal causes and escalate as indicated**
 
-Patent catheter ke saath low urine output renal perfusion, dehydration ya kidney injury se related ho sakta hai. Nurse whole patient assess karti hai.
+Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine output ho toh low circulating volume, bleeding, poor perfusion, acute kidney injury ya postoperative factors assess karo. Vitals, intake-output trend, fluid status aur relevant labs review karo. At-risk adults mein 0.5 mL/kg/hour se kam output ek important warning threshold hai, lekin urgent clinical response ke liye diagnostic duration ka wait mat karo.
 
-**Baaki options kyun sahi nahi hain?** Catheter replacement production problem solve nahi karti. Blind fluids overload kar sakte hain. False output documentation unsafe hai.
+**Har option ka reason**
 
+- **A (Galat):** Har patient ko large unprescribed bolus dene se heart ya kidney problem mein overload ho sakta hai.
+- **B (Galat):** Measurement ke bina normal output document karna inaccurate aur unsafe hai.
+- **C (Galat):** Patent catheter replace karna kidney perfusion ya urine production problem ka direct treatment nahi hai.
+- **D (Sahi):** Whole-patient assessment low urine production ki possible cause identify karta hai aur timely treatment guide karta hai.
+
+**Exam clue:** Patent catheter plus oliguria = assess perfusion and renal causes, not automatic fluids.
+
+**Clinical reference:** [Topic reference](https://www.nice.org.uk/guidance/ng148/chapter/Recommendations).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q20](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -1682,10 +1705,20 @@ Postoperative transfer safe tab hota hai jab stability aur monitoring needs asse
 
 **Correct: A. Provide privacy, explain the procedure and ensure timely assistance**
 
-Elimination personal need hai. Privacy aur timely support patient ki dignity aur comfort maintain karte hain.
+Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provide karti hai, procedure explain karti hai aur patient ko safe position mein timely help deti hai. Call bell accessible rakho aur skin hygiene aur comfort ka dhyan rakho. Patient ki dignity care ka essential part hai.
 
-**Baaki options kyun sahi nahi hain?** Open door aur public discussion privacy breach kar sakte hain. Delay incontinence aur discomfort increase kar sakti hai.
+**Har option ka reason**
 
+- **A (Sahi):** Privacy, explanation aur timely assistance patient ki comfort, autonomy aur trust protect karte hain.
+- **B (Galat):** Bina consent door khula rakhne se personal privacy compromise ho sakti hai.
+- **C (Galat):** Help delay karne se discomfort, incontinence, skin exposure aur unsafe independent movement ho sakte hain.
+- **D (Galat):** Corridor mein personal information loudly discuss karna confidentiality breach hai.
+
+**Exam clue:** Privacy and timely assistance are core nursing care.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q18](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
@@ -1932,10 +1965,20 @@ Accessory respiratory muscles jaise sternocleidomastoid ya scalene muscles visib
 
 **Correct: A. Provide accessible toileting, scheduled assistance and suitable mobility support**
 
-Functional incontinence mein bladder control se zyada access ya mobility problem ho sakti hai. Timely toilet support actual barrier address karta hai.
+Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, lekin mobility, cognition ya environment ki wajah se toilet tak time par nahi pahunch pata. Is case mein limited mobility main barrier hai. Accessible commode, scheduled assistance, call bell aur safe mobility support se main problem address hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Sensation present hai. Routine catheter infection risk add karti hai. Complete fluid restriction dehydration cause kar sakti hai.
+**Har option ka reason**
 
+- **A (Sahi):** Accessible toilet aur scheduled safe help patient ko time par bladder empty karne mein support karte hain.
+- **B (Galat):** Complete fluid restriction se dehydration ho sakti hai. Fluids individualized clinical plan ke mutabik dene chahiye.
+- **C (Galat):** Routine indwelling catheter se infection aur injury risk badhta hai aur mobility barrier solve nahi hota.
+- **D (Galat):** Stem mein bladder sensation present hai. Permanent sensation loss assume karna evidence ke against hai.
+
+**Exam clue:** Functional incontinence = access barrier. Improve access rather than routine catheter.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
 [Source topic bank: Urinary elimination and catheter care, Q19](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
