@@ -35,3 +35,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Averages evidence](08-Averages-Reported-Evidence.md): one directly inspected DSSSB 28 August 2019 shift III adaptation, one RRB 20 July 2019 shift II statistics report reserved for cross-topic reconciliation, and one ambiguous AIIMS Raipur 31 August 2019 shift II memory-based report clarified as practice and excluded from counted historical evidence. Chapter total sixteen counted families, seventeen counted solved adaptations, seven additional reserved/disputed/provisional items. Official keys pending.
+
+
+[Profit and loss evidence](09-Profit-and-Loss-Reported-Evidence.md): three inspected RRB, ESIC and DSSSB reports, two distinct concept families. [Discount evidence](10-Discount-Reported-Evidence.md): three inspected DSSSB and AIIMS Bhopal reports, three distinct concept families. Chapter total twenty-one counted families and twenty-three counted solved adaptations, seven reserved/disputed/provisional items excluded. Official keys not authenticated. Related variants and cross-topic questions not counted twice.
