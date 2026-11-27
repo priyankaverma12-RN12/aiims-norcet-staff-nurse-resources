@@ -706,7 +706,9 @@ Food allergy severe reaction cause kar sakti hai. Nurse label aur allergy histor
 
 ### Q33. A patient has BP 118/72 mmHg. What is the pulse pressure?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 72 mmHg
 - **B.** 95 mmHg
@@ -721,9 +723,19 @@ Pulse pressure systolic minus diastolic BP hota hai. 118 minus 72 = 46 mmHg.
 
 **Baaki options kyun sahi nahi hain?** 72 diastolic value hai. 95 approximate simple average hai. 190 sum hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**Unverified lead:** [AIIMS NORCET 2021 pulse pressure](https://testbook.com/question-answer/a-patients-blood-pressure-is-16080-mm-hg-the--65f83f1c81d914ea44a05a50) indexed, direct retrieval failed.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q17](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q17](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q17-a-patient-has-bp-11872-mmhg-what-is-the-pulse-pressure)
 
 ### Q34. Which nursing role is illustrated when a nurse communicates a patient's expressed concerns to the treatment team?
 
@@ -1361,7 +1373,9 @@ Reverse Trendelenburg mein whole bed tilt hoti hai aur head feet se higher hota 
 
 ### Q63. A patient has BP 84/48 mmHg. What is the approximate mean arterial pressure at a regular resting heart rate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 UP NHM Staff Nurse 2021 · Shift I — related concept**
+<!-- /job4-metadata -->
 
 - **A.** 66 mmHg
 - **B.** 132 mmHg
@@ -1376,9 +1390,17 @@ MAP ka common estimate diastolic BP plus one-third pulse pressure hai. 48 + (84 
 
 **Baaki options kyun sahi nahi hain?** 36 pulse pressure hai. 66 simple mean hai. 132 sum hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [UP NHM Staff Nurse 2021 · Shift I](https://testbook.com/question-answer/the-formula-for-calculating-mean-arterial-pressure--62db9ea9e5c26dc612394d97) — MAP formula topic; source typography lacks clear parentheses; use (SBP + 2 × DBP)/3 at ordinary resting rate, not literal unparenthesized expression; retrieved third-party report, not an exact match or authenticated official key.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q18](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q18](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q18-a-patient-has-bp-8448-mmhg-what-is-the-approximate-mean-arterial-pressure-at-a-regular-resting-heart-rate)
 
 ### Q64. Which activity is an example of continuing professional development?
 
@@ -1571,7 +1593,9 @@ Professional accountability mein competence limits recognize karna important hai
 
 ### Q73. A nurse measures a surprisingly high BP in a clinically stable patient immediately after the patient climbs stairs. What is the next appropriate action?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Allow appropriate rest, repeat with correct technique and assess symptoms
 - **B.** Diagnose chronic hypertension from this single reading
@@ -1586,9 +1610,17 @@ Exercise temporarily BP change kar sakta hai. Standardized rest aur correct cuff
 
 **Baaki options kyun sahi nahi hain?** Single post-exercise reading chronic diagnosis establish nahi karti. Ignore karna inappropriate hai. Small cuff falsely high result de sakta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists BP, pulse, respiratory rate, common errors and precautions; topic-level practice, specific question and playback pending.
+
+**Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q20](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q20](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q20-a-nurse-measures-a-surprisingly-high-bp-in-a-clinically-stable-patient-immediately-after-the-patient-climbs-stairs-what-is-the-next-appropriate-action)
 
 ### Q74. Following a procedure involving arterial access, a patient develops increasing puncture-site swelling and a weak distal pulse. What should the nurse do?
 
@@ -1634,7 +1666,9 @@ Procedures ke baad activity, diet ya device care instructions change ho sakti ha
 
 ### Q76. Which assessment finding should be reported as an objective sign of increased breathing effort?
 
-**Difficulty:** Medium | **Priority:** Medium
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+<!-- /job4-metadata -->
 
 - **A.** Patient prefers a blue blanket
 - **B.** Patient reports hunger
@@ -1649,9 +1683,17 @@ Accessory muscles ka use nurse observe kar sakti hai aur ye increased work of br
 
 **Baaki options kyun sahi nahi hain?** Breathlessness report subjective hai. Blanket preference aur hunger respiratory effort ke objective signs nahi hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
+
+**Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
+<!-- /job4-metadata -->
 </details>
 
-[Source topic bank: Vital signs and physical assessment, Q19](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md)
+[Source topic bank: Vital signs and physical assessment, Q19](../MCQs/03-Vital-Signs-and-Physical-Assessment-20-MCQs.md#q19-which-assessment-finding-should-be-reported-as-an-objective-sign-of-increased-breathing-effort)
 
 ### Q77. A patient with functional incontinence can sense bladder fullness but cannot reach the toilet in time due to limited mobility. Which plan addresses the main problem?
 
