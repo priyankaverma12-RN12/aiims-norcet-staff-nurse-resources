@@ -33,6 +33,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -65,6 +69,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -97,6 +105,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -129,6 +141,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -161,6 +177,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -193,6 +213,10 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#clinical-judgment-and-reasoning) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
+
+**🎬 [Teaching — Clinical Judgment Measurement Model](https://www.youtube.com/watch?v=V_5xgAx-07Q)** · Center for Medical Education, indexed description explains model components; teaching only, not counted as question practice.
 <!-- /job4-metadata -->
 </details>
 
@@ -225,6 +249,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -257,6 +283,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -289,6 +317,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -321,6 +351,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -353,6 +385,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -385,6 +419,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -417,6 +453,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -449,6 +487,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -481,6 +521,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -513,6 +555,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -545,6 +589,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -577,6 +623,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -609,6 +657,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -641,6 +691,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -673,6 +725,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -705,6 +759,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -737,6 +793,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**▶️ [YouTube MCQ practice — Clinical reasoning and nursing-process scenarios, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published description confirms critical-thinking question practice and clinical prioritization chapters; supplementary NCLEX topic practice, exact item/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -769,6 +827,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -801,6 +861,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -833,6 +895,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#common-cognitive-errors) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
@@ -865,6 +929,8 @@
 **Exam evidence:** ⚪ Original practice. Exact historical appearance not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific reasoning, communication, ethics or cognitive-bias topic not established.
 <!-- /job4-metadata -->
 </details>
 
