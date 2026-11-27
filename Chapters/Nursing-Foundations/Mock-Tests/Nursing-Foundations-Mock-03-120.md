@@ -564,9 +564,20 @@ Gradual goal-based practice patient ki ability improve karne mein help karti hai
 
 **Correct: D. 80 gtt/min**
 
-Microdrip mein 60 drops one mL ke equal hote hain. 80 x 60 / 60 = 80 drops/min.
+<!-- job5-rationale -->
+80 mL/hour × 60 gtt/mL ÷ 60 min/hour = 80 gtt/min. Reverse: 80 × 60/60 = 80 mL/hour.
 
-**Baaki options kyun sahi nahi hain?** 48 wrong multiplication hai. 60 drop factor hai. 1.33 mL/min hai.
+**Option-by-option reasoning**
+
+- **A:** 48 gtt/min gives 48 mL/hour.
+- **B:** 1.33 gtt/min gives 1.33 mL/hour, not the 1.33 mL/min conversion.
+- **C:** 60 gtt/min gives 60 mL/hour.
+- **D:** 80 matches the ordered rate.
+
+**Exam clue:** Only 60 gtt/mL microdrip gives numerical equality.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2475,9 +2486,20 @@ Severe latex allergy mein natural rubber latex proteins exposure hypersensitivit
 
 **Correct: A. 3 hours 30 minutes**
 
-Remaining time 350/100 = 3.5 hours hai, yani 3 hours 30 minutes.
+<!-- job5-rationale -->
+Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 = 30 min. Reverse: 100 × 3.5 = 350 mL.
 
-**Baaki options kyun sahi nahi hain?** 6.5 hours already infused 650 mL ka time ho sakta hai. 35 minutes decimal conversion error hai. 10 hours full bag ka time hai.
+**Option-by-option reasoning**
+
+- **A:** 3 hours 30 minutes gives 350 mL.
+- **B:** 35 minutes gives about 58.3 mL.
+- **C:** 6.5 hours gives 650 mL, already infused volume.
+- **D:** 10 hours gives full 1000 mL.
+
+**Exam clue:** Decimal hours ko minutes mein convert karne ke liye × 60.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2560,9 +2582,20 @@ Competent adult patient ko apni confidential health information par control ka a
 
 **Correct: B. 700 mL**
 
-Intake mein measured oral, IV aur enteral water include hote hain. 200 + 350 + 150 = 700 mL.
+<!-- job5-rationale -->
+Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Reverse: 700 − 350 − 150 = 200 mL oral.
 
-**Baaki options kyun sahi nahi hain?** 550 enteral water omit karta hai. 500 oral fluid omit karta hai. 350 sirf IV intake hai.
+**Option-by-option reasoning**
+
+- **A:** 500 mL omits oral intake.
+- **B:** 700 mL includes all three sources.
+- **C:** 350 mL only IV intake hai.
+- **D:** 550 mL omits enteral water.
+
+**Exam clue:** Include all documented intake sources once.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2665,9 +2698,20 @@ REM mein brain activity aur dreaming prominent ho sakti hai aur most skeletal mu
 
 **Correct: C. 50 gtt/min**
 
-100 x 15 / 30 = 50 drops/min. Actual delivery method aur medication-specific infusion instructions verify karni hain.
+<!-- job5-rationale -->
+Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
-**Baaki options kyun sahi nahi hain?** 3 approximate mL/min hai. 200 mL/hour hai. 15 tubing factor hai, flow rate nahi.
+**Option-by-option reasoning**
+
+- **A:** 3 gtt/min delivers 6 mL.
+- **B:** 200 gtt/min delivers 400 mL, 200 is the pump rate in mL/hour.
+- **C:** 50 gtt/min delivers 100 mL.
+- **D:** 15 gtt/min delivers 30 mL in 30 minutes.
+
+**Exam clue:** Drop factor aur drip rate alag quantities hain.
+
+[Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+<!-- /job5-rationale -->
 
 </details>
 
