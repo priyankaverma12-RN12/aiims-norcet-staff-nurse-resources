@@ -69,3 +69,10 @@ Source lines 27–44 show HPSSSB October 2020 attribution and reported answer Fr
 - [RRB Nursing Superintendent 12 March 2026 S1 pediatric medication weight report](https://testbook.com/question-answer/hn/when-planning-care-for-a-pediatric-patient-which--69df4383e520d898dcf9caf2) full indexed report and key option 4 inspected 27 November 2026, direct page failed to open. Related tested concept for current measured weight, not exact match or authenticated official paper. No additional adaptation, count or question label.
 - [AIIMS NORCET 20 November 2021 Shift II pediatric adrenaline](https://testbook.com/question-answer/recommended-dose-of-adrenaline-epinephrine-used--65f845b52a0767bb27bffbcf) indexed, reserve for pediatric resuscitation chapter with current protocol verification.
 - Further HPRCA, SGPGI, PGIMER, ESIC, DSSSB, JIPMER, RRB and state official-paper/key checks remain pending. No authenticated exact PYQ or counted new historical credit.
+
+
+## 📜 Evidence recheck — 27 November 2026
+
+- Both existing historical reports directly reopened. AIIMS Nagpur 2020 reverse-weight report displays a key of 44 lb, consistent with its stated arithmetic and rounding. HPSSSB October 2020 report identifies Fried's rule as the answer to a historical formula question. Historical age formulas are not modern clinical pediatric prescribing rules. No official key authenticated. Existing questions, options, explanations and labels unchanged.
+- RRB March 2026 pediatric-weight source direct retrieval again failed. Remains a source lead only. HPRCA March 2026 final-key listing located, no authenticated matching item. No additional adaptation or historical count.
+- Existing general pediatric dose practice link is retained for Q1 as a broad lead only. Exact reverse-weight and historical-rule practice for both adaptations remains pending. No new specific video evidence claimed.
