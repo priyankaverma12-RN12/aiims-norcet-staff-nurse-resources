@@ -293,7 +293,7 @@ Spaulding classification mein critical items woh hain jo sterile tissue ya vascu
 
 ### Q9. Which wound characteristic commonly favors an absorbent foam dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** An exposed organ needing emergency coverage
 - **B.** A wound needing no assessment
@@ -323,7 +323,7 @@ Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exu
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q5-which-wound-characteristic-commonly-favors-an-absorbent-foam-dressing)
 
 ### Q10. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
 
@@ -476,7 +476,7 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 ### Q14. What is the purpose of a closed suction surgical drain?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove and collect fluid from a surgical space
 - **B.** Replace wound sutures
@@ -506,7 +506,7 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q7-what-is-the-purpose-of-a-closed-suction-surgical-drain)
 
 ### Q15. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
@@ -1029,7 +1029,7 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 ### Q30. Which additive is commonly used for a CBC sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Delhi Nursing Officer, 16 September 2018 — related reported concept**
 
 - **A.** EDTA
 - **B.** No additive with clot formation
@@ -1057,9 +1057,11 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS Delhi Nursing Officer, 16 September 2018 — memory-based report](https://testbook.com/question-answer/anticoagulant-present-in-hemogram-vial--62bd5c0ecc48a16cb684456c). Yeh third-party question hemogram ke anticoagulant ka concept test karta hai. Official paper aur key independently authenticate nahi hue hain. Yeh exact PYQ nahi hai.
+
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q5-which-additive-is-commonly-used-for-a-cbc-sample)
 
 ### Q31. Which action demonstrates veracity in nursing?
 
@@ -1084,7 +1086,7 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 ### Q32. A Jackson-Pratt drain bulb is fully expanded and prescribed suction is lost. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess the system and restore suction using the approved device procedure
 - **B.** Ignore the loss of suction
@@ -1114,7 +1116,7 @@ Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q8-a-jackson-pratt-drain-bulb-is-fully-expanded-and-prescribed-suction-is-lost-what-should-the-nurse-do)
 
 ### Q33. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
 
@@ -1607,7 +1609,7 @@ New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka
 
 ### Q48. How should a filled anticoagulant tube be mixed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Gently invert it according to manufacturer directions
 - **B.** Open and stir with a nonsterile stick
@@ -1637,7 +1639,7 @@ Anticoagulant ko collected blood mein uniformly mix hona chahiye. Manufacturer k
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q8-how-should-a-filled-anticoagulant-tube-be-mixed)
 
 ### Q49. A patient has diabetes, reduced foot sensation and thick toenails. Which approach is safest?
 
@@ -1672,7 +1674,7 @@ Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce
 
 ### Q50. Why can a markedly underfilled citrate tube affect coagulation tests?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The ratio never affects the result
 - **B.** Excess citrate relative to blood may prolong measured clotting time
@@ -1702,7 +1704,7 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q7-why-can-a-markedly-underfilled-citrate-tube-affect-coagulation-tests)
 
 ### Q51. A dying patient has dry mouth, limited oral intake and an aspiration risk. Which comfort measure is appropriate?
 
@@ -1727,7 +1729,7 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 ### Q52. Which additive is used for routine PT and aPTT samples?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** EDTA as the standard
 - **B.** Sodium citrate with correct blood-to-additive ratio
@@ -1757,7 +1759,7 @@ PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clo
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q6-which-additive-is-used-for-routine-pt-and-aptt-samples)
 
 ### Q53. A patient has a new ostomy and is being discharged tomorrow but cannot demonstrate appliance care. What should the nurse do?
 
@@ -2989,7 +2991,7 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 ### Q94. Which wound is typically suited to an alginate dressing when clinically indicated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Any wound regardless of exudate
 - **B.** A moderately to heavily exuding wound
@@ -3019,7 +3021,7 @@ Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q6-which-wound-is-typically-suited-to-an-alginate-dressing-when-clinically-indicated)
 
 ### Q95. An adult is unresponsive and makes occasional gasping sounds. How should a trained responder interpret gasping?
 
