@@ -37,7 +37,7 @@
 
 ### Q2. A student notices that the right kidney lies slightly lower on an otherwise normal scan. Which adjacent organ best explains this finding?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Spleen
 - **B.** Urinary bladder
@@ -66,7 +66,7 @@
 
 ### Q3. During a kidney dissection, which structure is directly adherent to the outer renal parenchyma?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · 🟣 [NHM UP Staff Nurse 2019 — related tested concept](https://nprep.in/question-answer/a-thin-smooth-layer-of-fibrous-membrane-that-protects-the-kidney-is-WN5ZzdojSeuyFcZKxJWJf)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · 🟣 [NHM UP Staff Nurse 2019 — related tested concept](https://nprep.in/question-answer/a-thin-smooth-layer-of-fibrous-membrane-that-protects-the-kidney-is-WN5ZzdojSeuyFcZKxJWJf)
 
 - **A.** Fibrous renal capsule
 - **B.** Renal fascia
@@ -95,7 +95,7 @@
 
 ### Q4. A nurse is reviewing a cross-sectional kidney image. Which structure contains the renal corpuscles?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Renal pelvis
 - **B.** Renal papilla
@@ -124,7 +124,7 @@
 
 ### Q5. Which tissue extends between adjacent renal pyramids?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Minor calyces
 - **B.** Renal fascia
@@ -153,7 +153,7 @@
 
 ### Q6. A lesion blocks the opening at the tip of a renal pyramid. Which structure normally receives urine directly from the papillary ducts?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Major calyx
 - **B.** Minor calyx
@@ -240,7 +240,7 @@
 
 ### Q9. Which vessel directly supplies blood to each kidney from the abdominal aorta?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Renal vein
 - **B.** Inferior vena cava
@@ -271,7 +271,7 @@
 
 ### Q10. An imaging report identifies a vessel running between two renal pyramids before reaching the corticomedullary junction. Which artery is this?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Interlobar artery
 - **B.** Arcuate artery
@@ -300,7 +300,7 @@
 
 ### Q11. A labelled diagram shows the tiny vessel carrying blood into the glomerular capillary tuft. Which label is correct?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Efferent arteriole
 - **B.** Peritubular venule
@@ -329,7 +329,7 @@
 
 ### Q12. Which structure receives blood immediately after it leaves the glomerular capillaries?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Renal vein
 - **B.** Efferent arteriole
@@ -358,7 +358,7 @@
 
 ### Q13. Which feature makes the renal microcirculation unusual compared with a typical systemic capillary bed?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** A capillary bed connected directly to the ureter
 - **B.** Two capillary beds connected by an arteriole
@@ -387,7 +387,7 @@
 
 ### Q14. A microscopic section contains a capillary tuft surrounded by a cup-shaped epithelial structure. Together, these form which part of a nephron?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Renal tubule
 - **B.** Collecting duct
@@ -416,7 +416,7 @@
 
 ### Q15. Which space receives the initial ultrafiltrate after it crosses the glomerular filtration barrier?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Bowman's urinary space
 - **B.** Efferent arteriole lumen
@@ -445,7 +445,7 @@
 
 ### Q16. A biopsy shows injury to the epithelial foot processes of the glomerular filtration barrier. Which cell type is affected?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Juxtaglomerular granular cell
 - **B.** Macula densa cell
@@ -474,7 +474,7 @@
 
 ### Q17. A student lists four possible components of the glomerular filtration barrier. Which does NOT form part of that barrier?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Fenestrated capillary endothelium
 - **B.** Glomerular basement membrane
@@ -503,7 +503,7 @@
 
 ### Q18. Which tubular segment normally follows Bowman's capsule directly?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Proximal convoluted tubule
 - **B.** Distal convoluted tubule
@@ -561,7 +561,7 @@
 
 ### Q20. Which statement about collecting ducts is anatomically correct?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** They carry arterial blood into glomeruli
 - **B.** They form the visceral layer of Bowman's capsule
@@ -590,7 +590,7 @@
 
 ### Q21. A nephron has its corpuscle near the corticomedullary junction and a loop extending deep into the medulla. Which classification is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · 🟣 [MP NHM CHO 2024 Shift 2 — related tested concept](https://nprep.in/question-answer/type-of-nephrons-have-short-loops-of-henle-that-do-not-dip-abIShZ5MyCBJOqp6PniZ0)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · 🟣 [MP NHM CHO 2024 Shift 2 — related tested concept](https://nprep.in/question-answer/type-of-nephrons-have-short-loops-of-henle-that-do-not-dip-abIShZ5MyCBJOqp6PniZ0)
 
 - **A.** Juxtamedullary nephron
 - **B.** Superficial cortical nephron
@@ -619,7 +619,7 @@
 
 ### Q22. Which vascular structure is particularly associated with the long loops of juxtamedullary nephrons?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Hepatic portal vein
 - **B.** Glomerular capsule
@@ -648,7 +648,7 @@
 
 ### Q23. Which cells at the vascular pole of a glomerulus directly monitor tubular sodium chloride delivery?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · 🟣 [JIPMER Nursing Officer 2024 — related tested concept](https://nprep.in/question-answer/the-group-of-modified-cells-lying-adjacent-to-the-afferent-and-efferent-bT8KM6KtsI0igT4aXiGcA)
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT · 🟣 [JIPMER Nursing Officer 2024 — related tested concept](https://nprep.in/question-answer/the-group-of-modified-cells-lying-adjacent-to-the-afferent-and-efferent-bT8KM6KtsI0igT4aXiGcA)
 
 - **A.** Podocytes
 - **B.** Detrusor cells
@@ -677,7 +677,7 @@
 
 ### Q24. Which structure contains the granular cells that synthesize and release renin?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Renal papillary duct epithelium
 - **B.** Mainly the afferent arteriolar wall
@@ -737,7 +737,7 @@
 
 ### Q26. A calculus becomes lodged where the ureter enters the bladder. Which anatomical junction is involved?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Ureteropelvic junction
 - **B.** Internal urethral meatus
@@ -766,7 +766,7 @@
 
 ### Q27. Which three openings define the bladder trigone?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Two urethral openings and one ureteric opening
 - **B.** Renal artery, renal vein and renal pelvis
@@ -795,7 +795,7 @@
 
 ### Q28. During normal bladder emptying, which muscle forms the major contractile wall of the urinary bladder?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** External urethral sphincter
 - **B.** Detrusor muscle
@@ -824,7 +824,7 @@
 
 ### Q29. Which anatomical factor contributes to a higher risk of ascending urinary infection in adult women?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD
 
 - **A.** A relatively short urethra
 - **B.** A longer urethra than in men
@@ -853,7 +853,7 @@
 
 ### Q30. A patient can voluntarily delay voiding for a short time despite feeling the urge. Which muscle provides direct voluntary outlet control?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🟢 Easy · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Detrusor smooth muscle
 - **B.** Ureteral smooth muscle
