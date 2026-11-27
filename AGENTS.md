@@ -27,3 +27,8 @@ https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources
 
 
 **Full syllabus exception:** The learner has explicitly requested advance preparation of the entire NORCET nursing curriculum. The earlier studied-only rule is overridden for this requested expansion. Keep prepared material marked starter-stage or study-ready, not studied. Use sibling Concepts, MCQs, Mock-Tests and Previous-Year-Questions directories. Aim for 10–30+ original questions per actual topic and 5–6 distinct 120-question chapter-only practice tests. The official NORCET lengths remain 100 and 160 in the recent notice. List actual source-linked reported exam questions with evidence labels and references, not only archive links. Follow the complete conversational Hinglish and no-semicolon rule in new explanations. Never claim unfinished banks are complete. See the canonical skill.
+
+
+## Current publishing workflow
+
+Follow the latest learner rule in both SKILL.md files. Complete each topic and chapter in sequence, maximize validated output per run, use 30–40 unique questions per topic and ten unique 120-question mocks per chapter, and verify the published checkpoint before moving on. Research source-linked PYQs and separate YouTube MCQ-practice resources. Never fabricate evidence or duplicate questions.
