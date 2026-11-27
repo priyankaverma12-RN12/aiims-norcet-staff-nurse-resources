@@ -386,7 +386,7 @@ Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Re
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [Numerical practice — RegisteredNurseRN, Intake and Output Nursing Calculation Practice Problems](https://www.youtube.com/watch?v=a6ovyZIs9tg)** · Published 26 February 2018. Retrieved description explicitly covers intake and output record calculations, including oral, tube and IV fluids and comparing intake with output. Topic-level worked-problem practice only. Exact scenario and playback not verified.
 
 </details>
 
@@ -418,7 +418,7 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [Numerical practice — RegisteredNurseRN, Intake and Output Nursing Calculation Practice Problems](https://www.youtube.com/watch?v=a6ovyZIs9tg)** · Published 26 February 2018. Retrieved description explicitly covers intake and output record calculations, including oral, tube and IV fluids and comparing intake with output. Topic-level worked-problem practice only. Exact scenario and playback not verified.
 
 </details>
 
@@ -656,4 +656,4 @@ Follow facility protocols, current orders and professional scope.
 
 ## ▶️ Historical and practice evidence recheck — 27 November 2026
 
-The three newly linked third-party reports test gravity drip-rate calculation with different values. Their reported numerical keys were checked using volume × drop factor ÷ minutes. No official answer key authenticated. Q8 and Q9 remain original practice. The earlier video links and six specific gaps remain unchanged. [Mission High — Tarun Sir drug dose calculation MCQ session](https://www.youtube.com/watch?v=cxa4BaV2m8A) has an indexed description confirming general dosage MCQ practice, but direct retrieval failed and specific item coverage is unverified. HPRCA post code 26004 final-key listing is indexed at the [official notice page](https://hprca.hp.gov.in/homepage?id=2). No item-level calculation match verified from the March 2026 transcript. No new counted historical question.
+The three newly linked third-party reports test gravity drip-rate calculation with different values. Their reported numerical keys were checked using volume × drop factor ÷ minutes. No official answer key authenticated. Q8 and Q9 remain original practice. The earlier video links are retained. Q12 and Q13 now have topic-level intake/output practice. Four specific gaps remain. [Mission High — Tarun Sir drug dose calculation MCQ session](https://www.youtube.com/watch?v=cxa4BaV2m8A) has an indexed description confirming general dosage MCQ practice, but direct retrieval failed and specific item coverage is unverified. HPRCA post code 26004 final-key listing is indexed at the [official notice page](https://hprca.hp.gov.in/homepage?id=2). No item-level calculation match verified from the March 2026 transcript. No new counted historical question.
