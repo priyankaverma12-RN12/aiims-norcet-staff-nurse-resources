@@ -33,6 +33,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -65,6 +67,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -97,6 +101,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -129,6 +135,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR Recommendation and escalation, Scrub IQ](https://www.youtube.com/watch?v=-AOmWmXptRs)** · Indexed description names recommendation and chain-of-command escalation scenarios; supplementary NCLEX practice, exact item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -161,6 +169,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -193,6 +203,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -225,6 +237,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -257,6 +271,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -289,6 +305,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -321,6 +339,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -353,6 +373,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -385,6 +407,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -417,6 +441,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -449,6 +475,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -481,6 +509,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -513,6 +543,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -545,6 +577,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -577,6 +611,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — Client privacy, ADAPT NCLEX REVIEW (04:48)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=288s)** · Published privacy chapter; supplementary NCLEX practice, not India-specific legal guidance. Exact item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -609,6 +645,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -641,6 +679,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -673,6 +713,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -705,6 +747,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR Recommendation and escalation, Scrub IQ](https://www.youtube.com/watch?v=-AOmWmXptRs)** · Indexed description names recommendation and chain-of-command escalation scenarios; supplementary NCLEX practice, exact item and playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -737,6 +781,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**▶️ [YouTube MCQ practice — SBAR and hand-off communication, ADAPT NCLEX REVIEW (16:08)](https://www.youtube.com/watch?v=U6DHO19qvr4&t=968s)** · Published topic chapter in question-solving video; supplementary NCLEX practice, specific handover scenario and playback unverified.
 <!-- /job4-metadata -->
 </details>
 
@@ -769,6 +815,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -801,6 +849,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
@@ -833,6 +883,8 @@
 **Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
 
 **Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+
+**YouTube MCQ practice: verification pending** — specific TeamSTEPPS, I-PASS or closed-loop technique not confirmed in a question-solving video.
 <!-- /job4-metadata -->
 </details>
 
