@@ -56,4 +56,4 @@ Retinal vein occlusion expansion, 27 November 2026: resumed at latest 434-origin
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0844-vh. Scope vitreous hemorrhage and macular disorders, chapter-local files only. Claimed UTC 2026-11-27T08:44:00Z. Expires 2026-11-27T09:14:00Z. -->
