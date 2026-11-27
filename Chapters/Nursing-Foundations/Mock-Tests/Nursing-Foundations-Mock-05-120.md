@@ -635,7 +635,7 @@ Just culture ka goal learning aur fair accountability dono maintain karna hai. U
 
 ### Q26. A patient slides repeatedly down a raised bed. Which tissue-damaging force is especially relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Osmosis
 - **B.** Shear
@@ -662,7 +662,7 @@ Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se pa
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q18](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q18](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q18-a-patient-slides-repeatedly-down-a-raised-bed-which-tissue-damaging-force-is-especially-relevant)
 
 ### Q27. How is the adult external ear canal usually straightened for ear drops?
 
@@ -1169,7 +1169,7 @@ Patient ko intimate care aur observer participation ke baare mein informed choic
 
 ### Q46. Before inflating an indwelling urinary catheter balloon, what must be confirmed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 2023 NORCET/CRE compilation Q28 — related reported concept, precise exam unverified** · Legacy topic-bank reuse
 
 - **A.** Correct bladder placement according to the insertion protocol
 - **B.** That the balloon is positioned in the urethra
@@ -1193,13 +1193,13 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
-**YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — Foley catheter insertion, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=3944s)** · Published question chapter 1:05:44, 24 November 2024. Topic-level insertion steps only, exact balloon-confirmation item and playback pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q17](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q17](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q17-before-inflating-an-indwelling-urinary-catheter-balloon-what-must-be-confirmed)
 
 ### Q47. Which documentation best enables comparison of wound progression over time?
 
@@ -1306,7 +1306,7 @@ Antisepsis mein living skin ya tissue par suitable antimicrobial preparation app
 
 ### Q51. A postoperative patient has low urine output despite a patent catheter. Which assessment is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give a large unprescribed fluid bolus to every patient
 - **B.** Document normal output without measuring
@@ -1333,7 +1333,7 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q20](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q20](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q20-a-postoperative-patient-has-low-urine-output-despite-a-patent-catheter-which-assessment-is-most-appropriate)
 
 ### Q52. A patient has persistent fever despite antipyretic treatment. Which nursing response is appropriate?
 
@@ -1562,7 +1562,7 @@ Transport ke dauran tubing bend ya disconnect ho sakti hai. Nurse sufficient sup
 
 ### Q62. Which bed position raises the head while keeping the bed surface angled with the head higher than the feet?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Reverse Trendelenburg
 - **B.** Sims
@@ -1589,7 +1589,7 @@ Reverse Trendelenburg mein entire bed tilted hota hai aur head feet se higher ho
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q17](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q17](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q17-which-bed-position-raises-the-head-while-keeping-the-bed-surface-angled-with-the-head-higher-than-the-feet)
 
 ### Q63. A patient has BP 84/48 mmHg. What is the approximate mean arterial pressure at a regular resting heart rate?
 
@@ -1718,7 +1718,7 @@ Postoperative transfer safe tab hota hai jab stability aur monitoring needs asse
 
 ### Q67. Which intervention supports dignity for a patient who needs help using a bedpan?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide privacy, explain the procedure and ensure timely assistance
 - **B.** Leave the door open without consent
@@ -1745,7 +1745,7 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q18](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q18](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q18-which-intervention-supports-dignity-for-a-patient-who-needs-help-using-a-bedpan)
 
 ### Q68. Why is direct pressure applied after arterial sampling?
 
@@ -1978,7 +1978,7 @@ Accessory respiratory muscles jaise sternocleidomastoid ya scalene muscles visib
 
 ### Q77. A patient with functional incontinence can sense bladder fullness but cannot reach the toilet in time due to limited mobility. Which plan addresses the main problem?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Provide accessible toileting, scheduled assistance and suitable mobility support
 - **B.** Restrict all fluid intake throughout the day
@@ -2005,7 +2005,7 @@ Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, l
 **YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q19](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q19](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q19-a-patient-with-functional-incontinence-can-sense-bladder-fullness-but-cannot-reach-the-toilet-in-time-due-to-limited-mobility-which-plan-addresses-the-main-problem)
 
 ### Q78. A patient has frequent watery stools during antibiotic therapy. What should the nurse do?
 
@@ -2619,7 +2619,7 @@ Hearing aid important communication device hai. Labeled dry storage loss aur dam
 
 ### Q102. Which equipment is appropriate for reducing friction during repositioning of a dependent patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** A suitable slide sheet or transfer aid
 - **B.** Pulling the patient by the elbows
@@ -2642,11 +2642,11 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [International pressure injury guideline](https://www.internationalguideline.com/repositioning)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q19](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q19](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q19-which-equipment-is-appropriate-for-reducing-friction-during-repositioning-of-a-dependent-patient)
 
 ### Q103. Before starting an ordered IV infusion after transfer, the pump displays a different rate from the current prescription. Which action is correct?
 
@@ -2935,7 +2935,7 @@ Closed-loop communication mein message bhejna enough nahi hota. Sender ensure ka
 
 ### Q113. A patient has a new restriction against hip flexion beyond the prescribed limit. Which nursing approach is appropriate during toileting?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore the restriction if the patient reports no pain
 - **B.** Flex the hip forcefully to improve range
@@ -2958,11 +2958,11 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
 
-**Dedicated MCQ video:** specific verified question mapping pending.
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q20](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q20](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q20-a-patient-has-a-new-restriction-against-hip-flexion-beyond-the-prescribed-limit-which-nursing-approach-is-appropriate-during-toileting)
 
 ### Q114. What should the nurse document after peripheral IV insertion?
 
