@@ -68,7 +68,7 @@ Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata h
 
 ### Q3. Why should a urinary drainage system normally remain closed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **🟣 RRB Nursing Superintendent 12 March 2026 Shift II — related reported concept** · **⚪ HPRCA 21 March 2026 Shift I — source verification pending**
 
 - **A.** A closed system stops all urine flow
 - **B.** The bag must never be emptied under any circumstances
@@ -168,7 +168,7 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 ### Q6. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 NORCET 20 November 2021 Shift II — related reported concept](https://testbook.com/question-answer/a-patient-is-unconscious-nurse-is-going-to-take-th--65f82ec5c3d23f0c2a353e20)**
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 NORCET 20 November 2021 Shift II — related reported concept**
 
 - **A.** From fluid used to wash the patient's skin
 - **B.** From the designated sampling port using aseptic technique
