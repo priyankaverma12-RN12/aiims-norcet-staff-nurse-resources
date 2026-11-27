@@ -4,7 +4,9 @@
 
 ### Q1. When counting respiratory rate by observing chest movement, what represents one breath?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Two successive inspirations
 - **B.** One complete heart sound pair
@@ -23,11 +25,21 @@
 - **B.** That is a cardiac cycle.
 - **D.** Rate would be approximately doubled.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A stable adult has eight regular breaths during a 30-second observation. What is the respiratory rate?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 32 breaths/min
 - **B.** 16 breaths/min
@@ -46,11 +58,21 @@
 - **C.** Observation half minute thi.
 - **D.** Incorrect multiplication.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A patient's breathing is irregular with intermittent pauses. Which counting technique is preferable?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Observe for a full minute, noting the pattern and pauses
 - **B.** Count for five seconds and multiply by twelve
@@ -69,11 +91,21 @@
 - **C.** Actual pattern distort hoga.
 - **D.** Different variables hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. A patient has a normal respiratory rate but markedly shallow breaths. What does the rate fail to establish?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Whether the frequency is within the stated reference range
 - **B.** Whether breaths were counted over time
@@ -92,11 +124,21 @@
 - **B.** Rate is a frequency measure.
 - **C.** That is possible.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A nurse counts a respiratory rate immediately after the patient walks to the bathroom. What information is important when recording it?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Assume persistent symptoms are normal because activity occurred
 - **B.** Activity context and whether the patient has recovered toward resting status
@@ -115,11 +157,21 @@
 - **C.** Context would be inaccurate.
 - **D.** Individual responses vary.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. The patient is talking continuously during a planned routine respiratory-rate measurement. What is the best approach if the patient is stable?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Allow a quiet interval and assess spontaneous breathing
 - **B.** Ask the patient to speak faster throughout counting
@@ -138,11 +190,21 @@
 - **C.** Words are not respiratory cycles.
 - **D.** Current assessment not performed.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Description-indexed respiration practice; exact item and playback pending.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. A patient has gradually increasing and then decreasing respiratory depth followed by apnea in repeated cycles. What is this pattern called?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🟣 UPSC ESIC Nursing Officer 2024 — related concept** · **🟣 PGIMER Chandigarh Staff Nurse 2015 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Kussmaul respiration
 - **B.** Eupnea
@@ -161,11 +223,21 @@
 - **B.** Quiet regular breathing.
 - **C.** Rate elevation alone does not describe the cycle.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [UPSC ESIC Nursing Officer 2024](https://testbook.com/question-answer/which-one-of-the-following-breathing-patterns-indi--668e61cc48fdcf6e24fe6ebc) — rhythm abnormality; third-party report retrieved, not exact stem or authenticated key. [PGIMER Chandigarh Staff Nurse 2015](https://testbook.com/question-answer/a-nurse-would-assess-that-a-client-is-experiencing--62b71382a1d4d4397be49032) — Cheyne–Stokes respiratory pattern; third-party report retrieved, not exact stem or authenticated key.
+
+**▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A patient with severe metabolic acidosis has unusually deep sustained respirations. Which traditional description fits?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Quiet eupnea
 - **B.** Apnea
@@ -184,11 +256,21 @@
 - **B.** Breathing is present.
 - **D.** Cyclic waxing-waning and apnea differs.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A nurse observes clusters of breaths separated by irregular apneic pauses without the gradual crescendo and decrescendo pattern. Which traditional label is most consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 DSSSB Nursing Officer 2019 · Shift III — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Biot-type or cluster breathing
 - **B.** Cheyne–Stokes breathing
@@ -207,11 +289,21 @@
 - **C.** Apneic pauses not normal quiet rhythm.
 - **D.** Does not capture clusters and pauses.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [DSSSB Nursing Officer 2019 · Shift III](https://testbook.com/question-answer/what-is-biots-respiration--615ffeda0c98a2dcd2b708f9) — cluster breathing with apneic pauses; third-party report retrieved, not exact stem or authenticated key.
+
+**▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. Which term describes a respiratory frequency above the expected range for age and clinical context?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Bradypnea
 - **B.** Orthopnea
@@ -230,11 +322,21 @@
 - **B.** Breathlessness when lying flat.
 - **C.** Absence of breathing.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. A patient has a respiratory rate of 28/min but breaths are shallow. Why is tachypnea not synonymous with hyperventilation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Hyperventilation means absence of respiratory effort
 - **B.** Tachypnea is defined by blood oxygen content alone
@@ -253,11 +355,21 @@
 - **B.** It describes breathing frequency.
 - **D.** Depth and dead space influence alveolar ventilation.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. What does orthopnea describe?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** An elevated respiratory rate during exercise only
 - **B.** Breathlessness when lying flat that improves on sitting or standing
@@ -276,11 +388,21 @@
 - **C.** Odynophagia.
 - **D.** Not a positional symptom definition.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published description identifies breathing patterns and a practice-question segment at 06:12. Supplementary respiratory-therapy exam resource; specific question and playback not verified. Do not infer etiology from pattern alone.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#procedure)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A patient reports breathlessness but the nurse observes no obvious increased respiratory effort at that moment. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Reject the report because visible distress is absent
 - **B.** Diagnose a psychiatric cause immediately
@@ -299,11 +421,21 @@
 - **B.** Organic and other causes need evaluation.
 - **C.** False documentation hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. Which observation best differentiates retractions from a simple increase in breathing frequency?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** A stronger palpable radial pulse
 - **B.** A temperature above baseline
@@ -322,11 +454,21 @@
 - **B.** Not the mechanical breathing sign.
 - **D.** Frequency alone does not identify retractions.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. An infant has nasal flaring during breathing. What should the nurse recognize?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** It guarantees adequate ventilation
 - **B.** It may indicate increased respiratory effort and requires assessment in context
@@ -345,11 +487,21 @@
 - **C.** Many causes possible hain.
 - **D.** Rate and pattern still relevant.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. A patient sits leaning forward with arms supported while struggling to breathe. What is the best nursing interpretation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** The posture may help breathing mechanics but can indicate significant respiratory distress
 - **B.** The ability to sit proves respiration is adequate
@@ -368,11 +520,21 @@
 - **C.** Multiple causes possible hain.
 - **D.** May worsen breathlessness.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A patient with known respiratory disease suddenly becomes quieter after a period of visibly strenuous breathing and appears exhausted. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Wait until the next scheduled observation
 - **B.** Document resolution without reassessment
@@ -391,11 +553,21 @@
 - **B.** Response not established.
 - **D.** Fatigue can reduce effort as deterioration progresses.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. An adult develops new audible inspiratory stridor. Which interpretation is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** A finding that can wait for routine discharge teaching
 - **B.** Possible upper-airway narrowing requiring urgent assessment
@@ -414,11 +586,21 @@
 - **C.** Stridor is abnormal.
 - **D.** Upper-airway origin is a concern.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. Which descriptive finding most closely represents an expiratory grunt in an infant?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** A brief sound during expiration that may accompany increased respiratory effort
 - **B.** A normal heart sound heard twice each cycle
@@ -437,11 +619,21 @@
 - **C.** That describes apnea.
 - **D.** Different assessment.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient has one side of the chest moving less than the other during respiration. What is the safest interpretation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** It proves a specific diagnosis without other findings
 - **B.** It is irrelevant whenever rate is normal
@@ -460,11 +652,21 @@
 - **B.** Symmetry is a separate finding.
 - **C.** May worsen distress and delay evaluation.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A patient's respiratory rate rises from 16 to 24/min over several hours with no obvious exertion. Which approach is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Replace the new value with the earlier normal value
 - **B.** Review the trend and assess for causes or early deterioration
@@ -483,11 +685,21 @@
 - **C.** Trend is clinically meaningful.
 - **D.** Other causes must be considered.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A postoperative patient avoids deep breaths because of pain. Which nursing assessment is most useful before adjusting care?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Assess pain, depth of breathing, sedation and other relevant respiratory findings
 - **B.** Assess pain score only and assume ventilation is normal
@@ -506,11 +718,21 @@
 - **C.** Cause requires clinical evaluation.
 - **D.** Early intervention may prevent deterioration.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A respiratory rate obtained by a monitor changes abruptly while the awake patient appears to breathe steadily. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Treat every monitor number as definitive
 - **B.** Disable all monitoring without review
@@ -529,11 +751,21 @@
 - **B.** Safety monitoring may remain needed.
 - **C.** Selective documentation inaccurate hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A patient is breathing 20 times per minute with an estimated tidal volume of 300 mL. What is the approximate total minute ventilation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 20 L/min
 - **B.** 60 L/min
@@ -552,11 +784,21 @@
 - **B.** Tenfold overestimate.
 - **D.** Tenfold underestimate.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. Two patients have the same total minute ventilation but one has much smaller tidal volumes and faster breaths. Why can their alveolar ventilation differ?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** A larger fraction of each shallow breath may ventilate dead space rather than gas-exchanging alveoli
 - **B.** Dead space disappears whenever breathing is fast
@@ -575,11 +817,21 @@
 - **C.** Dead-space ventilation makes them different.
 - **D.** Different physiological variables.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. An adult stops breathing normally and becomes unresponsive during assessment. What is the correct priority regarding the observation chart?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSC Staff Nurse 2021 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Finish the scheduled one-minute count before calling for help
 - **B.** Wait for a specific apnea duration before assessing circulation
@@ -598,5 +850,13 @@
 - **B.** Unresponsiveness and abnormal breathing need immediate action.
 - **C.** Critical deterioration is being missed.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [HPSSC Staff Nurse 2021](https://testbook.com/question-answer/cessation-of-breathing-for-20-seconds-is-known-as--697c5eab8e1d34a2a65f6a18) — apnea terminology only; historical duration is not a reason to delay emergency response; third-party report retrieved, not exact stem or authenticated key.
+
+**YouTube MCQ practice: verification pending** — specific scenario not established.
+
+**Related study:** [Respiration assessment](../Concepts/03C-Respiration-Assessment.md#recognition-of-distress)
+<!-- /job4-metadata -->
 </details>
 
