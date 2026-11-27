@@ -31,6 +31,10 @@ Small cuff artery compress karne ke liye extra pressure require kar sakta hai. I
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q62](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q62-a-nurse-uses-a-blood-pressure-cuff-that-is-too-small-for-the-patients-arm-which-measurement-error-is-most-likely) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q2. A patient's arm is unsupported and held below heart level during BP measurement. Which effect is expected?
@@ -60,6 +64,10 @@ Arm heart ke below ho toh hydrostatic pressure reading badha sakta hai. Unsuppor
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q29](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q29-a-patients-arm-is-unsupported-and-held-below-heart-level-during-bp-measurement-which-effect-is-expected) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q3. Which Korotkoff sound normally identifies systolic pressure during manual adult BP measurement?
@@ -89,6 +97,10 @@ Cuff deflate karne par artery mein blood spurts start hote hain. First clear tap
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q43](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q43-which-korotkoff-sound-normally-identifies-systolic-pressure-during-manual-adult-bp-measurement) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q4. A patient has an irregular radial pulse. Which approach improves the accuracy of heart rate assessment?
@@ -118,6 +130,10 @@ Irregular beats mein short count inaccurate ho sakta hai. Apical pulse full minu
 
 **Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 1, Q67](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q67-a-patient-has-an-irregular-radial-pulse-which-approach-improves-the-accuracy-of-heart-rate-assessment) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q5. The apical pulse is 112/min and simultaneous radial pulse is 98/min. What is the pulse deficit?
@@ -147,6 +163,10 @@ Pulse deficit apical aur peripheral pulse ka difference hai. 112 minus 98 = 14 b
 
 **Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q17](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q17-the-apical-pulse-is-112min-and-simultaneous-radial-pulse-is-98min-what-is-the-pulse-deficit) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q6. Which approach minimizes the effect of conscious breathing control when assessing respiratory rate?
@@ -176,6 +196,10 @@ Patient ko pata chale ki breathing count ho rahi hai toh pattern change ho sakta
 
 **Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q86](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q86-which-approach-minimizes-the-effect-of-conscious-breathing-control-when-assessing-respiratory-rate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q7. A patient's fingers are cold and a pulse oximeter reading fluctuates widely with a poor waveform. What should the nurse do?
@@ -205,6 +229,10 @@ Cold fingers mein peripheral perfusion low ho sakti hai aur signal unreliable ho
 
 **Related study:** [Concept notes](../Concepts/03D-Pulse-Oximetry-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q73](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q73-a-patients-fingers-are-cold-and-a-pulse-oximeter-reading-fluctuates-widely-with-a-poor-waveform-what-should-the-nurse-do) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q8. Which assessment technique uses a stethoscope to listen to internal body sounds?
@@ -234,6 +262,10 @@ Auscultation mein nurse heart, lungs ya bowel sounds sunne ke liye stethoscope u
 
 **Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 2, Q28](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q28-which-assessment-technique-uses-a-stethoscope-to-listen-to-internal-body-sounds) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q9. Which order is conventionally used during routine abdominal physical examination?
@@ -263,6 +295,10 @@ Abdomen mein pehle observe aur bowel sounds listen karte hain. Palpation aur per
 
 **Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q39](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q39-which-order-is-conventionally-used-during-routine-abdominal-physical-examination) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q10. A nurse uses the dorsal surface of the hand to compare the warmth of two areas. Which assessment technique is being used?
@@ -292,6 +328,10 @@ Palpation touch se temperature, tenderness aur texture assess karne mein help ka
 
 **Related study:** [Concept notes](../Concepts/03E-Physical-Examination.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q75](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q75-a-nurse-uses-the-dorsal-surface-of-the-hand-to-compare-the-warmth-of-two-areas-which-assessment-technique-is-being-used) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q11. A patient has BP 128/78 mmHg supine and 100/62 mmHg within three minutes of standing, with dizziness. Which finding is supported?
@@ -321,6 +361,10 @@ Systolic BP 28 aur diastolic 16 mmHg girti hai. Ye usual orthostatic threshold s
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q18](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q18-a-patient-has-bp-12878-mmhg-supine-and-10062-mmhg-within-three-minutes-of-standing-with-dizziness-which-finding-is-supported) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q12. Which factor can temporarily increase both heart rate and respiratory rate?
@@ -350,6 +394,10 @@ Exercise mein tissues ki oxygen demand aur CO2 production badhti hai. Heart aur 
 
 **Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 3, Q61](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q61-which-factor-can-temporarily-increase-both-heart-rate-and-respiratory-rate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q13. A patient has a temperature of 39.2°C with new confusion and low blood pressure. Which nursing action is most appropriate?
@@ -377,6 +425,10 @@ Fever ke saath confusion aur hypotension serious infection ya other emergency in
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q53](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q53-a-patient-has-a-temperature-of-392c-with-new-confusion-and-low-blood-pressure-which-nursing-action-is-most-appropriate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q14. A patient is unable to communicate verbally but has a possible painful procedure. How should pain be assessed?
@@ -404,6 +456,10 @@ Nonverbal patient pain feel kar sakta hai. Facial expression, movement aur other
 
 **YouTube MCQ practice: verification pending** — dedicated coverage of the specific calculation, device, emergency or assessment scenario not established.
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q84](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q84-a-patient-is-unable-to-communicate-verbally-but-has-a-possible-painful-procedure-how-should-pain-be-assessed) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q15. A patient's respiratory rate drops to 7/min after opioid administration and the patient is difficult to arouse. What is the priority?
@@ -433,6 +489,10 @@ Opioid breathing drive suppress kar sakti hai. Slow breathing aur reduced alertn
 
 **Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q47](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q47-a-patients-respiratory-rate-drops-to-7min-after-opioid-administration-and-the-patient-is-difficult-to-arouse-what-is-the-priority) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q16. Which pulse characteristic describes the strength of the arterial pulsation felt by the nurse?
@@ -462,6 +522,10 @@ Amplitude pulse ki strength ya volume describe karti hai. Weak ya bounding pulse
 
 **Related study:** [Concept notes](../Concepts/03B-Pulse-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 4, Q37](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q37-which-pulse-characteristic-describes-the-strength-of-the-arterial-pulsation-felt-by-the-nurse) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q17. A patient has BP 118/72 mmHg. What is the pulse pressure?
@@ -493,6 +557,10 @@ Pulse pressure systolic minus diastolic BP hota hai. 118 minus 72 = 46 mmHg.
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q33](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q33-a-patient-has-bp-11872-mmhg-what-is-the-pulse-pressure) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q18. A patient has BP 84/48 mmHg. What is the approximate mean arterial pressure at a regular resting heart rate?
@@ -522,6 +590,10 @@ MAP ka common estimate diastolic BP plus one-third pulse pressure hai. 48 + (84 
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q63](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q63-a-patient-has-bp-8448-mmhg-what-is-the-approximate-mean-arterial-pressure-at-a-regular-resting-heart-rate) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q19. Which assessment finding should be reported as an objective sign of increased breathing effort?
@@ -551,6 +623,10 @@ Accessory muscles ka use nurse observe kar sakti hai aur ye increased work of br
 
 **Related study:** [Concept notes](../Concepts/03C-Respiration-Assessment.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q76](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q76-which-assessment-finding-should-be-reported-as-an-objective-sign-of-increased-breathing-effort) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ### Q20. A nurse measures a surprisingly high BP in a clinically stable patient immediately after the patient climbs stairs. What is the next appropriate action?
@@ -580,6 +656,10 @@ Exercise temporarily BP change kar sakta hai. Standardized rest aur correct cuff
 
 **Related study:** [Concept notes](../Concepts/03A-Blood-Pressure-Measurement.md)
 <!-- /job4-metadata -->
+
+<!-- job4-link-addition -->
+**🧪 Mock revision:** [Mock 5, Q73](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q73-a-nurse-measures-a-surprisingly-high-bp-in-a-clinically-stable-patient-immediately-after-the-patient-climbs-stairs-what-is-the-next-appropriate-action) · Same original stem, shuffled options (not a new question).
+<!-- /job4-link-addition -->
 </details>
 
 ## Study references
