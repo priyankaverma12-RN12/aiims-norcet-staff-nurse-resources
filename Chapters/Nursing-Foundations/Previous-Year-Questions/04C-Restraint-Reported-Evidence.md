@@ -16,10 +16,12 @@ D. Requesting assistance before standing
 
 **Correct answer: B. Repeatedly attempting to remove a clinically essential IV despite supportive measures**
 
-- **A (Incorrect):** Quiet reading immediate safety threat establish nahi karti.
-- **B (Correct):** Essential treatment device removal harm cause kar sakta hai, isliye clinical review aur tailored alternatives chahiye. Behavior alone automatic restraint indication nahi hai. Restraint last resort, clinically necessary and appropriately authorized honi chahiye.
-- **C (Incorrect):** Room lighting adjust karna patient comfort aur orientation support kar sakta hai.
-- **D (Incorrect):** Assistance request karna safe mobility behavior hai.
+- **A (Incorrect):** Quiet reading se essential device removal ya immediate injury ka evidence nahi milta. Normal independent activity ko unnecessary restriction ka indication nahi banana chahiye.
+- **B (Correct):** Clinically essential IV ko repeatedly remove karne ki attempt se treatment interruption, bleeding ya injury ho sakti hai. Nurse pain, delirium, confusion, discomfort aur treatment ki ongoing need assess kare. Reorientation, supervision, appropriate device protection aur less restrictive alternatives consider kare. Restraint automatic nahi hai, sirf clinically justified last resort with applicable authorization, monitoring aur early discontinuation. Indian mental health establishments mein Mental Healthcare Act section 97 ki specific requirements apply hoti hain, jo general ward policy se distinguish karni chahiye.
+- **C (Incorrect):** Lighting adjust karne ki request comfort aur orientation improve kar sakti hai. Is behavior se immediate harmful device-removal risk establish nahi hota.
+- **D (Incorrect):** Standing se pehle assistance request karna safety awareness aur cooperation dikhata hai. Is behavior ko support karna chahiye, restrain nahi karna chahiye.
+
+**Exam clue:** Threat to essential treatment warrants prompt assessment, not automatic restraint.
 
 [Third-party Testbook question source](https://testbook.com/question-answer/which-action-by-a-patient-should-the-nurse-report--62b713536128efc333837720) · [Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices) · [Concept](../Concepts/04C-Restraint-Safety.md#least-restrictive-care)
 
