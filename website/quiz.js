@@ -6,9 +6,10 @@ function parseBank(md){
   const m=starts[i],end=starts[i+1]?.index??md.length,body=md.slice(m.index+m[0].length,end);
   const answers=[...body.matchAll(/<details\b[^>]*>([\s\S]*?)<\/details>/gi)];
   const before=body.split(/<details\b/i)[0].replace(/<!--[\s\S]*?-->/g,'');
-  const opts=[...before.matchAll(/^\s*(?:[-*]\s+)?(?:\*\*)?([A-D])[.)](?:\*\*)?\s+(.+)$/gm)];
+  const opts=[...before.matchAll(/^[ \t]*(?:[-*][ \t]+)?(?:\*\*)?([A-D])[.)](?:\*\*)?[ \t]+(.+)$/gm)];
+  const splitOption=opts.slice(0,-1).some((o,j)=>before.slice(o.index+o[0].length,opts[j+1].index).trim()!=='');
   const keys=answers.flatMap((a,j)=>[...a[1].matchAll(/^\s*(?:\*\*)?(?:Correct(?:\s+answer)?|Answer)\s*:\s*(?:\*\*)?([A-D])(?:[.)\s]|$)/gim)].map(k=>({letter:k[1],block:j})));
-  if(opts.length!==4||opts.map(x=>x[1]).join('')!=='ABCD'||keys.length!==1||!m[2].trim()){rejected.push(m[1]);continue}
+  if(splitOption||opts.length!==4||opts.map(x=>x[1]).join('')!=='ABCD'||keys.length!==1||!m[2].trim()){rejected.push(m[1]);continue}
   const stem=m[2].trim();
   // Keep any non-option prompt lines and source metadata, including question diagrams.
   const extra=before.split('\n').filter(line=>!opts.some(o=>o[0].trim()===line.trim())).join('\n').trim();
@@ -29,6 +30,7 @@ function mountQuiz(md,path,content,render,route){
  const title=el('h2','Interactive practice');root.append(title);
  const info=el('p',bank.items.length+' scoreable questions out of '+bank.total+' detected numbered headings. '+(bank.rejected.length?'Unsupported headings: '+bank.rejected.join(', ')+'. Use original reading mode for these.':'All detected numbered headings parsed.'));
  root.append(info);if(!bank.items.length)return;
+ root.append(el('p','Custom practice only. Original source remains available for shared diagrams, notes and unsupported questions. Scores use the published key, not an independent clinical revalidation.'));
  const minutes=el('input');minutes.type='number';minutes.min='1';minutes.max='300';minutes.value=String(Number(md.match(/(?:Suggested time|Time limit)\s*:\s*(\d+)\s*minutes/i)?.[1]||Math.min(bank.items.length,135)));
  const timeLabel=el('label','Timer minutes (custom practice) ');timeLabel.append(minutes);
  const neg=el('input');neg.type='checkbox';neg.checked=/[−–-]\s*1\s*\/\s*3/.test(md);const negLabel=el('label',' Deduct ⅓ for incorrect answers');negLabel.prepend(neg);
