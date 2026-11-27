@@ -1,6 +1,6 @@
 # Nursing process — retrieved historical exam evidence
 
-Independently adapted practice from third-party reports, not verbatim or authenticated official keys.
+Yahan practice ke liye third-party reports se questions ko independently adapt kiya gaya hai. Ye original exam ke word-for-word questions nahi hain aur inki official answer keys authenticate nahi hui hain.
 
 <a name="gmch-nursing-officer-29-june-2025--reported"></a>
 
@@ -21,14 +21,14 @@ Which information is the main evidence base for identifying an individual patien
 
 **B.**
 
-Nursing diagnosis patient ki actual ya potential response ko identify karti hai. Iske liye nurse subjective data yani patient ki report aur objective data yani observed ya measured findings collect karti hai. For example, pneumonia ka medical label disease batata hai. Patient ki breathing difficulty, cough, oxygenation aur activity tolerance assess karne se uski individual nursing needs samajh aati hain. Nurse related cues ko group karke relevant problem identify karti hai aur uncertainty ho toh further assessment karti hai. Medical diagnosis context deta hai, lekin patient ki nursing response ka complete evidence nahi hota.
+Nursing diagnosis ka matlab hai ki nurse patient ki health condition ki wajah se usme present problem ya future problem ka risk identify karti hai. Iske liye nurse subjective data, yaani patient ki khud batayi hui takleef, aur objective data, yaani observed ya measured findings, dono collect karti hai. Maan lo patient ko pneumonia hai. Medical diagnosis se disease ka naam pata chal gaya, lekin nurse ko abhi ye bhi samajhna hai ki patient ko saans lene mein kitni dikkat hai, cough kaisa hai, oxygenation kaisi hai aur daily activities karne mein kitni problem ho rahi hai. Nurse related findings ko ek saath dekhti hai aur evidence ke basis par individual care problem identify karti hai. Agar koi finding clear nahi hai, toh nurse further assessment karti hai. Disease ka naam useful context deta hai, lekin usse patient ki saari individual nursing needs automatically pata nahi chalti hain.
 
-- **A:** Sirf physician ka disease label patient ki individual mobility, breathing, pain ya self-care needs establish nahi karta.
-- **B:** Correct hai kyunki patient-reported symptoms aur observed findings dono nursing diagnosis ko evidence provide karte hain.
-- **C:** Ward bed allocation administrative information hai. Isse patient's clinical response establish nahi hoti.
-- **D:** Standard discharge date ek administrative planning detail ho sakti hai, lekin current nursing care problem ka evidence nahi hai.
+- **A:** Physician ka disease label batata hai ki patient ko kaunsi medical condition hai. Lekin same disease wale do patients ki breathing, pain, mobility aur self-care needs alag ho sakti hain. Isliye sirf disease label se nursing problem establish nahi hoti.
+- **B:** Patient ki batayi hui takleef aur nurse ki observed ya measured findings ko saath mein dekhne se nursing diagnosis ke liye relevant evidence milta hai. Isliye B sahi hai.
+- **C:** Ward mein bed allotment administrative information hai. Isse patient ki actual health response ya nursing care ki zaroorat ka pata nahi chalta.
+- **D:** Discharge date planning mein useful ho sakti hai, lekin ye patient ki current nursing problem ka clinical evidence nahi hai. Nurse ko patient ki actual findings assess karni chahiye.
 
-**Exam clue:** Assessment data se nursing diagnosis banti hai. Disease label aur human response ko alag rakho.
+**Exam clue:** Nursing diagnosis banane ke liye patient ka relevant assessment data use karo. Medical disease aur us disease ke prati patient ki response ko alag samjho.
 
 [Retrieved source](https://testbook.com/question-answer/while-using-the-nursing-process-a-nurse-formulate--6866268d04e56c1c826323ab).
 
@@ -61,14 +61,14 @@ Which phase involves gathering and verifying information about a patient's actua
 
 **C.**
 
-Assessment nursing process ka first named step hai, lekin data gathering poore care period mein ongoing rehti hai. Nurse interview, observation, physical examination aur relevant records se patient ke present symptoms, baseline function aur future risks samajhti hai. Conflicting findings ko validate karna bhi assessment ka part hai. For example, patient dizziness report kare toh nurse onset, associated symptoms aur appropriate observations assess karegi. Us data ke basis par nursing diagnosis, goals aur interventions decide honge. Emergency findings mein urgent care aur rapid assessment parallel chal sakte hain.
+Assessment nursing process ka pehla named step hai, lekin nurse patient ki dekhbhaal ke dauran bhi information collect karti rehti hai. Nurse patient se baat karti hai, observations leti hai, physical examination karti hai aur relevant records check karti hai. Isse current symptoms, pehle ki functional condition aur future risks samajh aate hain. Maan lo patient chakkar aane ki complaint karta hai. Nurse poochti hai ki chakkar kab shuru hua, saath mein aur kya symptoms hain aur relevant observations check karti hai. Agar findings match nahi karti hain, toh unhe verify karti hai. Isi data ke basis par nursing diagnosis, goals aur interventions decide kiye jaate hain. Agar emergency finding milti hai, toh rapid assessment ke saath zaroori urgent care bhi shuru ki ja sakti hai.
 
-- **A:** Implementation mein planned nursing interventions perform kiye jaate hain. Question data collect karne ki phase pooch raha hai.
-- **B:** Planning mein expected goals aur safe interventions select hote hain. Inke liye assessment data pehle available hona chahiye.
-- **C:** Assessment correct hai kyunki gathering aur validation dono patient ki actual aur potential care needs identify karne mein help karte hain.
-- **D:** Evaluation mein actual outcome ko planned target se compare karke care effectiveness judge ki jaati hai. Reassessment is phase mein bhi ho sakti hai, par question ka main focus information collection hai.
+- **A:** Implementation mein nurse planned nursing interventions actually perform karti hai. Yahan question pooch raha hai ki patient ki needs samajhne ke liye information kis phase mein collect aur verify ki jaati hai. Isliye implementation best answer nahi hai.
+- **B:** Planning mein nurse patient ke expected goals aur safe interventions decide karti hai. Patient ki needs samjhe bina suitable plan banana mushkil hai, isliye assessment data pehle chahiye.
+- **C:** Assessment mein nurse patient ki actual aur potential care needs identify karne ke liye relevant information collect aur verify karti hai. Isliye C sahi hai.
+- **D:** Evaluation mein nurse care ke baad actual outcome ko planned target ke saath compare karti hai. Is dauran reassessment bhi ho sakti hai, lekin is question ka main focus patient ki needs ke baare mein information collect karna hai. Isliye assessment best answer hai.
 
-**Exam clue:** ADPIE mein A = Assessment, D = Diagnosis, P = Planning, I = Implementation, E = Evaluation.
+**Exam clue:** ADPIE mein A ka matlab Assessment, D ka Diagnosis, P ka Planning, I ka Implementation aur E ka Evaluation hai. Jab question mein information collect aur verify karne ki baat ho, toh Assessment consider karo.
 
 [Retrieved memory-based question](https://testbook.com/question-answer/which-of-the-following-is-a-stage-of-the-nursing-p--625d555433fbce0163e0cb79).
 
