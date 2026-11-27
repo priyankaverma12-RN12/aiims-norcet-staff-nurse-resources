@@ -15,9 +15,22 @@
 
 **Correct: A. Infiltration**
 
-Infiltration mein nonvesicant fluid vein ke bahar tissue mein leak hota hai. Swelling, coolness aur infusion difficulty ho sakti hai. Nurse infusion stop karke site assess karti hai.
+<!-- job5-rationale -->
+Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration kehte hain. Infusion stop karo, solution identify karo, site aur distal circulation assess karo aur catheter management protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Phlebitis often warmth aur tenderness deti hai. Air embolism systemic concern hai. Swelling normal filling nahi maanni chahiye.
+**Option-by-option reasoning**
+
+- **A:** Cool pale swelling aur flow change nonvesicant infiltration ke typical cues hain.
+- **B:** Phlebitis vein inflammation hai, usually warm, red aur tender site hoti hai.
+- **C:** Air embolism systemic respiratory/circulatory emergency ho sakti hai, local swelling alone proof nahi.
+- **D:** New swelling normal venous filling nahi hai.
+
+**Exam clue:** Cool pale swelling = suspect infiltration.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-1-principles-of-intravenous-therapy)
+
+**▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
+<!-- /job5-rationale -->
 
 </details>
 
@@ -34,9 +47,22 @@ Infiltration mein nonvesicant fluid vein ke bahar tissue mein leak hota hai. Swe
 
 **Correct: D. Stop the infusion and follow the drug-specific extravasation protocol, leaving access in place initially if directed**
 
-Extravasation tissue damage kar sakti hai. Nurse drug delivery stop karti hai aur protocol se aspiration, antidote ya other management decide karwati hai.
+<!-- job5-rationale -->
+Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately stop karo, assistance lo, flush mat karo aur agent-specific protocol ke according access initially retain karo for aspiration or indicated treatment. Compress aur antidote drug-specific hain.
 
-**Baaki options kyun sahi nahi hain?** Flushing drug tissue mein aur push kar sakti hai. Continued infusion aur massage injury badha sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Flushing residual vesicant ko tissue mein push kar sakti hai.
+- **B:** Lower rate par bhi ongoing exposure injury badha sakta hai.
+- **C:** Vigorous massage drug spread aur injury worsen kar sakti hai.
+- **D:** Stop delivery and activate drug-specific protocol correct priority hai.
+
+**Exam clue:** Stop, seek help, no flush, retain access initially as directed.
+
+[Clinical reference](https://www.eviq.org.au/clinical-resources/extravasation/4156-extravasation-management-clinical-procedure)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -53,9 +79,22 @@ Extravasation tissue damage kar sakti hai. Nurse drug delivery stop karti hai au
 
 **Correct: C. Pain, warmth and erythema along the vein**
 
-Phlebitis vein ki inflammation hai. Site par tenderness, redness aur warmth ho sakti hai. Nurse line aur patient assess karti hai.
+<!-- job5-rationale -->
+Mechanical, chemical ya infectious irritation vein wall inflammation cause kar sakti hai. Tenderness, warmth, erythema aur palpable cord assess karo. Affected peripheral line ka use stop karke removal aur review policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Cool swelling infiltration suggest kar sakti hai. Intact asymptomatic site phlebitis ka evidence nahi hai. Temperature alone diagnosis nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Asymptomatic intact site phlebitis ka evidence nahi.
+- **B:** Normal temperature local inflammation exclude nahi karti.
+- **C:** Pain, warmth aur redness along vein characteristic hain.
+- **D:** Cool painless swelling infiltration suggest karti hai.
+
+**Exam clue:** Phlebitis may occur without fever.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
+<!-- /job5-rationale -->
 
 </details>
 
@@ -72,9 +111,22 @@ Phlebitis vein ki inflammation hai. Site par tenderness, redness aur warmth ho s
 
 **Correct: B. Stop and assess for obstruction, position and infiltration according to protocol**
 
-Resistance occlusion ya malposition ka clue ho sakti hai. Forceful flushing catheter damage ya tissue injury kar sakti hai.
+<!-- job5-rationale -->
+Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sakti hai. Flush stop karo, tubing aur site assess karo, patency establish na ho toh line use mat karo.
 
-**Baaki options kyun sahi nahi hain?** Maximum pressure aur alarm limit change unsafe hain. Sharp instrument catheter damage kar sakta hai.
+**Option-by-option reasoning**
+
+- **A:** Sharp object catheter puncture ya break kar sakta hai.
+- **B:** Assessment of obstruction and site before further use correct hai.
+- **C:** Forceful flush tissue injury ya catheter damage kar sakta hai.
+- **D:** Pump pressure limit badalne se underlying obstruction solve nahi hoti.
+
+**Exam clue:** Never force a resistant flush.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -91,9 +143,22 @@ Resistance occlusion ya malposition ka clue ho sakti hai. Forceful flushing cath
 
 **Correct: B. Sterile 0.9% sodium chloride**
 
-Sterile normal saline suitable compatible lines ko maintain karne ke liye commonly use hoti hai. Exact volume aur technique device policy se decide hoti hai.
+<!-- job5-rationale -->
+Sterile normal saline suitable compatible peripheral access ke routine flushing mein common hai. Volume, technique aur frequency device, drug compatibility, fluid restriction aur policy ke according choose karo.
 
-**Baaki options kyun sahi nahi hain?** Tap water sterile IV product nahi hai. Oral syrup aur antiseptic vascular injection ke liye inappropriate hain.
+**Option-by-option reasoning**
+
+- **A:** Undiluted antiseptic IV injection ke liye appropriate nahi.
+- **B:** Sterile 0.9% NaCl compatible routine flush ka correct choice hai.
+- **C:** Tap water sterile parenteral preparation nahi hai.
+- **D:** Oral syrup parenteral administration ke liye nahi hai.
+
+**Exam clue:** Use approved sterile compatible flush.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -110,9 +175,22 @@ Sterile normal saline suitable compatible lines ko maintain karne ke liye common
 
 **Correct: A. Assess the site and replace the dressing aseptically according to protocol**
 
-Damp loose dressing catheter site ko contamination se adequately protect nahi kar sakti. Nurse site inspect karke sterile dressing replace karti hai.
+<!-- job5-rationale -->
+Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke baad site inspect karo aur aseptic technique se indicated sterile dressing replace karo. Infection/dislodgement signs par escalate karo.
 
-**Baaki options kyun sahi nahi hain?** Indefinite reinforcement aur ignoring infection signs miss kar sakte hain. Used towel contamination risk hai.
+**Option-by-option reasoning**
+
+- **A:** Assessment and aseptic replacement barrier restore karte hain.
+- **B:** Indefinite reinforcement moisture aur infection signs hide kar sakti hai.
+- **C:** Normal fluid flow site safety prove nahi karta.
+- **D:** Used towel contamination introduce kar sakta hai.
+
+**Exam clue:** Damp, loose or soiled dressing replace karo.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -129,9 +207,22 @@ Damp loose dressing catheter site ko contamination se adequately protect nahi ka
 
 **Correct: D. Disinfect the connector using the approved method and allow appropriate drying**
 
-Connector surface par microorganisms ho sakte hain. Approved disinfection aur drying access-related bloodstream infection risk kam karti hai.
+<!-- job5-rationale -->
+Connector surface organisms carry kar sakta hai. Hand hygiene, approved antiseptic friction/contact time aur adequate drying before aseptic access follow karo. Product-specific instructions important hain.
 
-**Baaki options kyun sahi nahi hain?** Bare contact, tap water aur cleaning skip karna contamination introduce kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Bare fingers critical surface contaminate kar sakti hain.
+- **B:** Tap water validated antisepsis nahi hai.
+- **C:** Previous use current cleanliness prove nahi karta.
+- **D:** Approved disinfection aur drying bloodstream infection risk reduce karte hain.
+
+**Exam clue:** Scrub and dry hub before access.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -148,9 +239,22 @@ Connector surface par microorganisms ho sakte hain. Approved disinfection aur dr
 
 **Correct: C. Verify compatibility and obtain a safe administration plan before combining them**
 
-IV drugs chemically react ya precipitate kar sakti hain. Nurse pharmacy reference aur facility policy se compatibility confirm karti hai.
+<!-- job5-rationale -->
+Physical precipitate ke alawa invisible degradation ya potency loss possible hai. Drug, concentration, diluent, Y-site/lumen aur timing pharmacy-approved reference se verify karo. If incompatible, authorized separate administration plan obtain karo.
 
-**Baaki options kyun sahi nahi hain?** Clear appearance compatibility prove nahi karti. Small dose bhi interact kar sakti hai. Visible precipitate unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Small doses bhi incompatible ho sakti hain.
+- **B:** Precipitate particulate exposure aur blockage risk hai.
+- **C:** Compatibility verify karna before mixing correct hai.
+- **D:** Clear appearance chemical compatibility prove nahi karti.
+
+**Exam clue:** Clear does not mean compatible.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -167,9 +271,22 @@ IV drugs chemically react ya precipitate kar sakti hain. Nurse pharmacy referenc
 
 **Correct: C. Assess urgently for fluid overload and follow escalation and infusion management instructions**
 
-Excess fluid circulation overload aur pulmonary congestion contribute kar sakta hai. Nurse breathing aur vitals assess karke urgent team review leti hai.
+<!-- job5-rationale -->
+Rapid fluids ke baad crackles, dyspnea aur low saturation pulmonary congestion suggest kar sakte hain. ABC, vital signs, oxygenation aur fluid status urgently assess karo. Suspected causative fluid pause/manage as appropriate under emergency protocol, help activate karo aur other causes assess karo.
 
-**Baaki options kyun sahi nahi hain?** Extra fluid overload worsen kar sakta hai. Bag complete hone ka wait unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Extra oral fluid suspected overload worsen kar sakta hai.
+- **B:** Bag empty hone ka wait urgent care delay karta hai.
+- **C:** Immediate assessment and escalation correct action hai.
+- **D:** More fluid pulmonary congestion increase kar sakta hai.
+
+**Exam clue:** New breathlessness during IV fluid requires urgent review.
+
+[Clinical reference](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -186,9 +303,22 @@ Excess fluid circulation overload aur pulmonary congestion contribute kar sakta 
 
 **Correct: B. Infusion pump**
 
-Infusion pump set rate par fluid deliver karne mein help karta hai. Nurse correct programming aur patient monitoring phir bhi karti hai.
+<!-- job5-rationale -->
+Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 125 mL/h. Reverse: 125 × 4 = 500 mL. Correct order, settings, tubing aur site monitor karo, pump infiltration exclude nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Peak flow airflow, sphygmomanometer BP aur spirometer breathing exercise se related hain.
+**Option-by-option reasoning**
+
+- **A:** Incentive spirometer lung expansion exercise ke liye hai.
+- **B:** Infusion pump prescribed programmed flow deliver karne ke liye hai.
+- **C:** Peak flow meter expiratory airflow measure karta hai.
+- **D:** Sphygmomanometer BP measure karta hai.
+
+**Exam clue:** Rate mL/h = volume mL ÷ time hours.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -205,9 +335,22 @@ Infusion pump set rate par fluid deliver karne mein help karta hai. Nurse correc
 
 **Correct: A. Maintain aseptic technique and use the indicated sterile dressing and skin preparation**
 
-Central line bloodstream tak direct access deti hai. Aseptic dressing change aur appropriate skin antisepsis infection risk reduce karte hain.
+<!-- job5-rationale -->
+Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, aseptic technique, appropriate sterile dressing, indicated skin antisepsis aur drying follow karo. Age, allergy aur device-specific requirements consider karo.
 
-**Baaki options kyun sahi nahi hain?** Exposure, powder aur repeated unclean contact contamination risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Aseptic dressing and skin prep contamination risk reduce karte hain.
+- **B:** Site exposed chhodne se barrier remove hota hai.
+- **C:** Nonsterile powder contamination cause kar sakta hai.
+- **D:** Repeated unclean contact insertion site contaminate karta hai.
+
+**Exam clue:** Use indicated sterile dressing and aseptic technique.
+
+[Clinical reference](https://www.who.int/publications/i/item/9789240121805)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -224,9 +367,22 @@ Central line bloodstream tak direct access deti hai. Aseptic dressing change aur
 
 **Correct: D. Stop the suspected source of air entry if safe and activate emergency assessment immediately**
 
-Central line manipulation ke dauran air embolism ya other emergency possible hai. Nurse further air entry prevent karti hai aur emergency ABC support arrange karti hai.
+<!-- job5-rationale -->
+Sudden dyspnea aur hypotension central-line manipulation ke waqt venous air embolism ya other emergency indicate kar sakte hain. Further air entry safely stop karo, emergency help activate karo, ABC support aur oxygen as indicated arrange karo. Positioning patient status aur specialist protocol par depend karti hai.
 
-**Baaki options kyun sahi nahi hain?** Open line air entry badha sakti hai. Walking aur delayed assessment unsafe hain.
+**Option-by-option reasoning**
+
+- **A:** Open catheter further air entry allow kar sakta hai.
+- **B:** Walking unstable patient mein collapse risk badhata hai.
+- **C:** Imaging se pehle immediate stabilization zaroori hai.
+- **D:** Source control and emergency assessment appropriate hai.
+
+**Exam clue:** Suspected air embolism: prevent further entry, activate emergency care.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-1-principles-of-intravenous-therapy)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -243,9 +399,22 @@ Central line manipulation ke dauran air embolism ya other emergency possible hai
 
 **Correct: D. A suitable intact vein and surrounding skin appropriate for the prescribed therapy**
 
-Vein size, skin condition, therapy duration aur drug properties site selection guide karte hain. Suitable site complications kam karne mein help karti hai.
+<!-- job5-rationale -->
+Vein condition, skin integrity, therapy properties, duration, patient preference aur access restrictions evaluate karo. Suitable device and vein selection infiltration, infection aur phlebitis risk reduce karta hai.
 
-**Baaki options kyun sahi nahi hain?** Infected skin aur bruised area avoid karne ki need ho sakti hai. Convenience alone safe selection nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Infected skin se insertion infection risk badhata hai.
+- **B:** Bruising vessel injury aur assessment difficulty indicate kar sakti hai.
+- **C:** Staff convenience clinical suitability replace nahi karti.
+- **D:** Suitable intact vein and skin appropriate selection hai.
+
+**Exam clue:** Match device and site to therapy and patient.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -262,9 +431,22 @@ Vein size, skin condition, therapy duration aur drug properties site selection g
 
 **Correct: C. Apply appropriate direct pressure and reassess bleeding and circulation**
 
-Catheter remove hone par puncture site se bleeding ho sakti hai, especially anticoagulation mein. Direct pressure clot formation support karti hai. Persistent bleeding ko escalate karna chahiye.
+<!-- job5-rationale -->
+Anticoagulation clot formation affect karti hai. Appropriate direct pressure puncture bleeding control mein help karti hai. Bleeding aur distal circulation reassess karo, persistent bleeding or instability urgently escalate karo.
 
-**Baaki options kyun sahi nahi hain?** Massage bleeding increase kar sakti hai. No pressure bleeding continue hone de sakta hai. Excess tight band perfusion compromise kar sakti hai.
+**Option-by-option reasoning**
+
+- **A:** No pressure bleeding continue hone de sakta hai.
+- **B:** Excessively tight band distal perfusion compromise kar sakta hai.
+- **C:** Direct pressure and reassessment correct hai.
+- **D:** Massage puncture site disturb karke bleeding worsen kar sakti hai.
+
+**Exam clue:** Pressure with reassessment, not an indefinite tight band.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -281,9 +463,22 @@ Catheter remove hone par puncture site se bleeding ho sakti hai, especially anti
 
 **Correct: B. New leakage around the insertion site and changed external catheter position**
 
-Leakage aur position change catheter displacement indicate kar sakte hain. Nurse infusion stop ya manage karke access integrity assess karti hai.
+<!-- job5-rationale -->
+New leakage aur external catheter position change displacement ya access failure indicate kar sakte hain. Infusion stop karo if integrity uncertain, site/device assess karo, appropriate replacement protocol follow karo. Exposed segment blindly advance mat karo.
 
-**Baaki options kyun sahi nahi hain?** Stable dry site reassuring ho sakti hai. Correct rate dislodgement exclude nahi karta. Meal request unrelated hai.
+**Option-by-option reasoning**
+
+- **A:** Meal request access integrity cue nahi hai.
+- **B:** Leakage plus position change dislodgement assessment require karta hai.
+- **C:** Stable dry secure site reassuring hai, ongoing monitoring still required.
+- **D:** Correct rate catheter tip location prove nahi karta.
+
+**Exam clue:** Check access before continuing if displacement suspected.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -300,9 +495,22 @@ Leakage aur position change catheter displacement indicate kar sakte hain. Nurse
 
 **Correct: A. Verify the manufacturer's or pharmacy-approved concentration, rate and administration instructions**
 
-Some IV medicines rapid administration par serious reactions cause kar sakti hain. Nurse drug-specific dilution, rate aur monitoring confirm karti hai.
+<!-- job5-rationale -->
+IV drug concentration, dilution, duration aur monitoring drug-specific hote hain. Rapid administration severe hypotension, arrhythmia ya infusion reaction cause kar sakti hai. Approved instructions, order aur compatibility verify karo. Correct arithmetic unsafe concentration ko safe nahi banati.
 
-**Baaki options kyun sahi nahi hain?** Universal bolus aur same rate unsafe hain. Large vein compatibility aur dosing requirements remove nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Drug-specific approved concentration aur rate check correct hai.
+- **B:** Universal rapid bolus unsafe hai.
+- **C:** Same rate for all medicines inappropriate hai.
+- **D:** Large vein dilution requirements remove nahi karti.
+
+**Exam clue:** Drug-specific rate and concentration always verify.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -319,9 +527,22 @@ Some IV medicines rapid administration par serious reactions cause kar sakti hai
 
 **Correct: A. Site, catheter details, time, relevant assessment and patient response according to policy**
 
-Documentation device location aur condition future monitoring mein help karti hai. Difficult insertion ya response bhi relevant ho sakta hai.
+<!-- job5-rationale -->
+Documentation future assessment aur traceability support karti hai. Site/laterality, device type and size, insertion time, attempts and response as required accurately record karo.
 
-**Baaki options kyun sahi nahi hain?** Dressing color alone insufficient hai. Meal break irrelevant hai. Successful insertion bhi record karni chahiye.
+**Option-by-option reasoning**
+
+- **A:** Relevant device aur patient details continuity support karte hain.
+- **B:** Dressing color alone insufficient hai.
+- **C:** Meal break unrelated hai.
+- **D:** Successful insertion bhi document karna chahiye.
+
+**Exam clue:** Document actual insertion details and response.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -338,9 +559,22 @@ Documentation device location aur condition future monitoring mein help karti ha
 
 **Correct: D. Review indication regularly and remove it when no longer required under policy**
 
-Unnecessary catheter patient ko infection aur device complication risk mein rakhti hai. Nurse need reassess karti hai aur removal protocol follow karti hai.
+<!-- job5-rationale -->
+Unnecessary invasive access infection, thrombosis aur device complications ka exposure badhata hai. Indication regularly reassess karo aur no longer needed device policy ke according remove karo. Replacement schedule device aur clinical policy specific hai.
 
-**Baaki options kyun sahi nahi hain?** Routine prolonged retention risk badhati hai. Color clinical indication nahi hai. Infection signs urgent assessment maangte hain.
+**Option-by-option reasoning**
+
+- **A:** Discharge tak automatic retention unnecessary exposure hai.
+- **B:** Color preference alone replacement indication nahi.
+- **C:** Infection signs assessment aur action require karte hain.
+- **D:** Regular indication review and timely removal correct hai.
+
+**Exam clue:** Remove unnecessary vascular access promptly.
+
+[Clinical reference](https://www.who.int/publications/i/item/9789240093829)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -357,9 +591,22 @@ Unnecessary catheter patient ko infection aur device complication risk mein rakh
 
 **Correct: C. Stop the transfusion, assess the patient and initiate the transfusion reaction protocol**
 
-Symptoms acute transfusion reaction suggest kar sakte hain. Nurse transfusion stop karti hai, patient assess karti hai aur protocol ke according blood bank aur treatment team ko inform karti hai.
+<!-- job5-rationale -->
+Chills, dyspnea aur back pain serious transfusion reaction suggest karte hain. Transfusion immediately stop karo, ABC/vitals assess karo, urgent clinical help aur blood bank inform karo. IV access approved separate/new setup se maintain karo if required, implicated blood tubing flush mat karo. Bag/tubing investigation ke liye preserve karo as directed. Serious reaction mein restart mat karo.
 
-**Baaki options kyun sahi nahi hain?** Continuing exposure harm kar sakta hai. Bag aur tubing investigation ke liye preserve karne ki need ho sakti hai. Next unit bina review unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Discard karne se investigation evidence lose ho sakta hai.
+- **B:** Next unit without review further harm cause kar sakti hai.
+- **C:** Stop, assess and activate reaction protocol correct priority hai.
+- **D:** Faster transfusion suspected trigger exposure badhati hai.
+
+**Exam clue:** Stop first, assess, notify, preserve evidence.
+
+[Clinical reference](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -376,9 +623,22 @@ Symptoms acute transfusion reaction suggest kar sakte hain. Nurse transfusion st
 
 **Correct: B. Reconcile the order and pump settings before continuing and assess the patient's condition**
 
-Transfer mein orders change ya settings mismatch ho sakti hain. Nurse current authorized order, bag label aur pump verify karke discrepancy resolve karti hai.
+<!-- job5-rationale -->
+Transfer par previous setting current order se mismatch ho sakti hai. Patient condition, bag label, concentration, remaining volume, authorized prescription, units aur pump program reconcile karo. Time-critical infusion mein promptly escalate karke safe continuity arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Old setting correct assume nahi karni chahiye. Averaging aur catch-up rate unauthorized changes hain.
+**Option-by-option reasoning**
+
+- **A:** Catch-up rate overdose ya overload cause kar sakta hai.
+- **B:** Reconcile and assess before continuation correct hai.
+- **C:** Previous setting current order override nahi karti.
+- **D:** Average rate authorized plan nahi hai.
+
+**Exam clue:** Reconcile pump settings at handover.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
