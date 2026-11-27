@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-041140-ui
-Scope: Nursing Foundations group 01 and 02 already tagged MCQ metadata deduplication only
-Expiry UTC: 2026-11-27T04:41:40Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -39,3 +39,7 @@ All six files read back, stripping only added metadata restored pre-edit content
 - Two existing reported adaptations tagged: 316b9e8bde7b703a1d863f90a9013756d38a5f32. RRB shift I third-party page now retrieved, supersedes earlier indexed-only status without rewriting.
 - Concept subsections 02A (3): 77fab1314bcfca19e561ea5c66c3a1e426555b54; 02B (3): 7cfd21c787fb86a49cfa6f4bfe8a2f9b77ec2726; 02C (2): ee757669ba06841c3c57721f102b4663302d1804.
 All eight files read back exactly. Stripping new metadata restored original text. 90 original MCQ entries tagged, 13 historical concept links, two existing reported adaptations and eight concept sections tagged. Cumulative 150 original MCQ entries, 20 reused mock slots, four reported adaptations and 15 concept sections. Twenty historical concept links on originals, none asserted exact official PYQs. NVS Sep 2019 and RRB 12 Mar 2026 shifts I–III question pages inspected. SGPGI 28 Feb 2024 shift I third-party PDF text Q7/ID33 and Q8/ID34 inspected; screenshot failed, official key authenticity not established. NPrep NORCET 6 reflection and HP Staff Nurse 2026 Q79 leads could not be opened. NORCET 11 communication video indexed, playback and question-level verification pending. Dedicated documentation and handover videos pending. Editorial existing difficulty labels retained. Next: group 02 original 20 question slots across mocks 1–5 with reciprocal anchors, then remaining group 02 concept/mock cross-links and group 03. Do not double count original stems. Claims checked, no overlapping edits. No chapter certified complete. Claim released.
+
+
+## Learner UI correction — 27 November 2026
+Mandatory deduplication rules saved and verified in root skill (378862e09cbec19be6729474e1786557e6171c70) and canonical skill (49c77995ec65ecdf2d5d46a6b48899359a2501c1). Color-format existing metadata in place. One difficulty and one priority per question; do not add redundant label rows. Original difficulty and priority values take precedence over undocumented conflicting editorial overlays. Keep distinct tags, references and all study text. Existing red overrides without separate audit were normalized to the original priority mapping (16 entries across four files); reserve red for justified top-priority items. Verified 80 original MCQ entries polished, not new questions: 02 initial 20 b88458bb9956e600a6306d670246ccb10a2afcda; 01 initial 20 3a0cc7787239d7c7ecb69fcbf02a2d1e61e27972; 01A 13 6de7f372825c6d0d1838969da96b903a52ed6a5c; 01B 27 10066811ad88cbddc555eebde78cb990256d8df7. Readback exact and non-label content unchanged, rendered UI not visually inspected. Attempt at 02A encountered GitHub 409 concurrent head change; stopped study file writes and fetched fresh target: 21 old label rows, 0 consolidated rows. Next priority: finish cleanup 02A/02B/02C (70 original MCQs), previously tagged 20 mock slots and inspect 15 concept sections and four reported adaptations for duplicate labels/status/links. Then continue group 02 mocks and group 03 using the single-row standard. No overlapping scope writes. Do not count cleanup as new tagging. Claim released.
