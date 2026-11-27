@@ -1298,7 +1298,7 @@ Wound progression ko compare karne ke liye same standardized measurement techniq
 
 ### Q48. Which action best maintains dignity during a complete bed bath?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Complete care without explaining to an alert patient
 - **B.** Invite unnecessary observers
@@ -1325,7 +1325,7 @@ Complete bed bath mein patient vulnerable feel kar sakta hai. Nurse care explain
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q20](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q20](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q20-which-action-best-maintains-dignity-during-a-complete-bed-bath)
 
 ### Q49. A hypoglycemic patient is unconscious and cannot swallow safely. What should the nurse do?
 
@@ -1874,7 +1874,7 @@ Arterial pressure high hota hai, isliye adequate compression puncture-site bleed
 
 ### Q69. Which method helps establish a bowel training routine when suitable?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Schedule toileting at consistent times, often after meals
 - **B.** Use physical restraints during every toilet visit
@@ -1901,7 +1901,7 @@ Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consiste
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q18](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q18](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q18-which-method-helps-establish-a-bowel-training-routine-when-suitable)
 
 ### Q70. A patient ate before a prescribed fasting laboratory test. What is appropriate?
 
@@ -2133,7 +2133,7 @@ Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, l
 
 ### Q78. A patient has frequent watery stools during antibiotic therapy. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess hydration, stool pattern and possible infectious causes and follow isolation or testing guidance
 - **B.** Stop all oral fluids without clinical review
@@ -2162,7 +2162,7 @@ Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent wat
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q17](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q17](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q17-a-patient-has-frequent-watery-stools-during-antibiotic-therapy-what-should-the-nurse-do)
 
 ### Q79. A bereaved person reports inability to manage daily activities and expresses thoughts of self-harm. What is the priority?
 
@@ -2472,7 +2472,7 @@ Diagnostic procedure ke dauran bhi acute deterioration possible hai. Nurse patie
 
 ### Q91. Which comfort device can help a patient who cannot lift heavy bedcovers off painful feet?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** A tight elastic band around the ankles
 - **B.** A suitable bed cradle
@@ -2499,7 +2499,7 @@ Bed cradle ek frame hai jo bedcovers ko patient ke painful ya sensitive body par
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q18](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q18](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q18-which-comfort-device-can-help-a-patient-who-cannot-lift-heavy-bedcovers-off-painful-feet)
 
 ### Q92. What is the principal purpose of medication reconciliation during admission or transfer?
 
@@ -2626,7 +2626,7 @@ Accountability mein nurse apne actions aur professional decisions ki responsibil
 
 ### Q96. An immobile patient has frequent small liquid stools but a history of severe constipation. Which issue should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Absence of any stool retention
 - **B.** Overflow around fecal impaction
@@ -2655,7 +2655,7 @@ Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta ha
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q19](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q19](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q19-an-immobile-patient-has-frequent-small-liquid-stools-but-a-history-of-severe-constipation-which-issue-should-be-considered)
 
 ### Q97. A laboratory rejects a specimen because identifiers conflict with the order. What should happen?
 
@@ -2766,7 +2766,7 @@ Nursing process dynamic hai aur patient status change hone par priorities adjust
 
 ### Q101. A patient has a hearing aid removed before hygiene care. What is the best practice?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Discard it when the patient cannot hear well
 - **B.** Leave it beside a running tap
@@ -2793,7 +2793,7 @@ Hearing aid patient ko communication aur orientation mein help karta hai. Hygien
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q19](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q19](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q19-a-patient-has-a-hearing-aid-removed-before-hygiene-care-what-is-the-best-practice)
 
 ### Q102. Which equipment is appropriate for reducing friction during repositioning of a dependent patient?
 
@@ -2914,7 +2914,7 @@ Supports neutral alignment aur pressure distribution mein help kar sakte hain. P
 
 ### Q106. A patient becomes breathless and exhausted during a bed bath. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Pause care, assess breathing and vital signs, and modify the plan
 - **B.** Lay the patient flat without assessment
@@ -2941,11 +2941,11 @@ Bed bath bhi physical activity hai. Breathlessness aur exhaustion limited cardio
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q17](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q17](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q17-a-patient-becomes-breathless-and-exhausted-during-a-bed-bath-what-should-the-nurse-do)
 
 ### Q107. What is the principal role of documenting bowel frequency, consistency and associated symptoms?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Predict all future bowel movements exactly
 - **B.** Identify changes and guide individualized assessment and care
@@ -2972,7 +2972,7 @@ Bowel documentation patient ka usual pattern aur current changes compare karne m
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q20](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q20](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q20-what-is-the-principal-role-of-documenting-bowel-frequency-consistency-and-associated-symptoms)
 
 ### Q108. A patient taking anticoagulants develops an enlarging hematoma after an injection. What is appropriate?
 
