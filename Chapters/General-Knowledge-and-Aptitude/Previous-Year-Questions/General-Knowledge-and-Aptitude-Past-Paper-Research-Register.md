@@ -41,3 +41,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Simple interest evidence](11-Simple-Interest-Reported-Evidence.md): three counted reported families (DSSSB 2024 shift 3 Q14, RRB 2015 reported shifts 2 Q28 and 3 Q41), one separately retained DSSSB 2019 rounding discrepancy. Chapter total twenty-four counted families and twenty-six counted solved adaptations, eight reserved/disputed/provisional items excluded. Third-party paper text inspected, screenshot retrieval failed. Official keys and complete paper coverage pending.
+
+
+[Compound interest evidence](12-Compound-Interest-Reported-Evidence.md): three counted reported question families (RRB 2015 reported shift 2 Q29, shift 3 Q42, DSSSB 2024 shift 3 Q16). Chapter total twenty-seven counted families and twenty-nine counted solved adaptations, eight reserved/disputed/provisional items excluded. Extracted third-party paper text inspected, screenshots failed. Official keys and further nursing recruitment sources pending. RRB 2018 and DSSSB 2025 indexed leads not counted.
