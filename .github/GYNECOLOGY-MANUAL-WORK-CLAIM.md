@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: CLAIMED
-Owner: whole-obg-pelvic-breast-pcos-1605
-Scope: Pelvic Q31–Q40, breast Q21–Q40, PCOS Q21–Q40 and Gynecology README/evidence only
-Claimed UTC: 2026-11-27T16:05:05Z
-Expiry UTC: 2026-11-27T16:35:05Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
@@ -54,3 +54,12 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 - Reconciled parallel breast Q1–20 and PCOS Q1–20, verified 20 headings and 20 details each. Gynecology README 394 original slots including 4 starters, 7 adaptations separately, commit d07c3658a73e656e8658cc2567b19a4efdfeb947 exact readback. 70 original questions and 3 adaptations added in this run. 40 parallel originals preserved and indexed. Obstetrics last checked 44 original slots and left untouched. No new standalone theory or mocks; no global tracker edit.
 - Both complete SKILL.md files reviewed, latest audit excerpt read (not full historical audit log). NICE/IMS sources partly indexed due access blocks, RCOG pages and NHS resources retrieved. Topic-level MCQ video leads only, no item-specific playback verified; pelvic videos pending. Further clinical source mapping and full semantic audit remain pending. New pelvic bank cycles answer letters, to consider for future quality audit without replacing historical records.
 - Next: check all claims and fresh inventory, complete pelvic Q31–40 and remaining breast and PCOS/hormonal Q21–40, map remaining individual disorders and Obstetrics gaps, expand sourced reported exam coverage. Ten separate original-only 120-question chapter mocks after topic banks, without reuse. Preserve all existing files and independent claims.
+
+
+## Verified manual continuation — 27 November 2026
+
+- Pelvic floor Q31–Q40: 10 original questions, 40 option explanations, exact readback, commit cf2fc16eb9a76727ca095c72e5b4dbf0f2d60e8e, blob 5e934e5b0f650e9222c0670b71d540a2d93a2643.
+- Breast Q21–Q40: 20 originals, 80 option explanations, exact readback, commit 08f2454499901b42ba6c167d53abc4c0e325e68c, blob 8605c7af1449395604a2dbe5ad4779adc679032c. Initial concurrent head 409 resolved by refreshed claim/inventory and retry. PCOS Q21–Q40: 20 originals, 80 option explanations, exact readback, commit 5a7ee765c53e51ec9c56bdf3616cbb209d4bd9ef, blob 7607fe9228acc4ad1eae42656e64cf7b743a8518. Two original Mermaid diagrams, rendered UI not checked. All 50 new stems distinct and zero exact normalized matches against all 394 prior Gynecology bank stems. All 50 correct-answer texts match options and hidden blocks close. Full cross-chapter semantic and independent clinical audit pending.
+- Two independently worded reported exam adaptations (NORCET 20 Nov 2021 Shift II and DSSSB 28 Aug 2019 Shift 3), eight rationales, plus five related evidence reports mapped without duplicate counting: commit 5b91ecdfb65725efbcdff3b3524df4a55f9cf0ac, blob b8787809b59c75fe9f071108fe4a0e690d9dd5db. Exact readback; no official key authentication. Register commit fd59d193a11b368118eb332bd745dfff58405f9d and README commit 505d92eb31308617f22fddb9f820fc135ffebc42 verified. Inventory 444 original slots across 24 files, nine separate reported adaptations. All eleven current combined banks 40 each plus four starters. Not individual-topic completion.
+- Both skill files fetched with unchanged SHAs versus prior complete reading (root 476a90781a246d55055da79eeedba49fe0f5ad37, canonical 30e910871a083b91a058e248bcf5afd30b453caa); applied prior complete review and rechecked current excerpts, not fresh full line-by-line reread. Audit learnings fetched and latest excerpt reviewed, not full history. Active claim headers checked. Clinical references from ASRM/RCOG direct pages, NICE/NCI/NHM/ABM indexed guidance; NICE access 403, full source PDF visual checks pending. Video leads/title or published chapter marker only, no exact playback verification. No standalone theory, mocks or global tracker edits.
+- Obstetrics inventory remains 44 original slots across three files. Existing physiology claim is expired but still marked CLAIMED under another owner; left untouched pending safe stale-claim reconciliation. Next: after checking all claims, prioritize dedicated abnormal uterine bleeding/menstrual disorders, amenorrhea/endocrine differential, pelvic fistulas, vulvar/Bartholin conditions, ovarian mass subtypes and other syllabus gaps. Reconcile stale Obstetrics claim safely, then physiology and remaining antenatal, labor, emergencies, postpartum topics. Ten 120-question original-only mocks after topic banks, no reuse. Continue official exam evidence, video mapping, and full semantic/clinical audit.
