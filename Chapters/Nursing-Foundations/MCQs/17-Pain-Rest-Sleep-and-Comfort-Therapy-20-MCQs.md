@@ -4,7 +4,7 @@
 
 ### Q1. Which assessment is the most reliable starting point for pain intensity in a patient who can communicate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** The location of the hospital bed
 - **B.** The patient's self-report using a suitable scale
@@ -27,13 +27,17 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
 
+**Supplementary practice lead:** [Pain assessment tools and scales — LPN Launchpad](https://www.youtube.com/watch?v=_ifGoZyhhkc). Indexed mixed teaching and practice chapters, specific MCQ content unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q85](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q85-which-assessment-is-the-most-reliable-starting-point-for-pain-intensity-in-a-patient-who-can-communicate)
+
 ### Q2. A patient reports burning, electric-shock pain after nerve injury. Which pain mechanism is most likely?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Neuropathic pain
 - **B.** Purely visceral nociceptive pain in every case
@@ -60,9 +64,11 @@ Neuropathic pain tab ho sakti hai jab somatosensory nervous system, yani sensati
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q15](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q15-a-patient-reports-burning-electric-shock-pain-after-nerve-injury-which-pain-mechanism-is-most-likely)
+
 ### Q3. In PQRST pain assessment, what does R commonly represent?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Respiratory rate only
 - **B.** Renal function
@@ -85,13 +91,17 @@ PQRST ek structured symptom assessment mnemonic hai. P provocation/palliation, Q
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
 
+**Supplementary practice lead:** [Pain assessment tools and scales — LPN Launchpad](https://www.youtube.com/watch?v=_ifGoZyhhkc). Published OPQRST teaching chapter and separate quiz chapters, exact question unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q11](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q11-in-pqrst-pain-assessment-what-does-r-commonly-represent)
+
 ### Q4. A patient has severe new abdominal pain despite normal heart rate and blood pressure. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume the patient wants attention
 - **B.** Delay assessment until tachycardia develops
@@ -118,9 +128,11 @@ New severe abdominal pain serious illness ka symptom ho sakta hai, even jab hear
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q57](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q57-a-patient-has-severe-new-abdominal-pain-despite-normal-heart-rate-and-blood-pressure-which-response-is-appropriate)
+
 ### Q5. Which pain scale commonly uses numbers from 0 to 10 for a patient who can understand numerical ratings?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 MPESB Nursing Officer, 25 November 2022 Shift I — related reported concept only**
 
 - **A.** Braden Scale
 - **B.** Apgar score
@@ -143,13 +155,19 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
 
+**Related historical evidence:** [MPESB Nursing Officer, 25 November 2022 Shift I — third-party question page](https://testbook.com/question-answer/a-nurse-is-assessing-a-client-with-bone-cancer-pai--677d2fa6d6ad1b93a093ab1c). The retrieved third-party item tests pain intensity in bone cancer. Its explanation discusses numerical pain assessment. This is related evidence, not the same stem or an authenticated official key.
+
+**Supplementary practice lead:** [Pain and pain scale — JINC E-NURSING](https://www.youtube.com/watch?v=nYuWCxkc4m0). Publisher title identifies guide solution and description includes MCQ tags, exact coverage unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q41](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q41-which-pain-scale-commonly-uses-numbers-from-0-to-10-for-a-patient-who-can-understand-numerical-ratings)
+
 ### Q6. A patient has a patient-controlled analgesia pump. Which teaching is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Disable the prescribed lockout interval
 - **B.** Only the patient should activate the dose button unless a specifically authorized protocol applies
@@ -172,13 +190,15 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 **Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-5-pain-management)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q79](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q79-a-patient-has-a-patient-controlled-analgesia-pump-which-teaching-is-most-appropriate)
+
 ### Q7. Following opioid administration, a patient has worsening sedation before respiratory rate falls markedly. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 AIIMS Bathinda Nursing Officer, 29 September 2019 — related reported concept only**
 
 - **A.** Assess respiratory status and sedation urgently and follow the opioid safety protocol
 - **B.** Treat sedation as proof of ideal pain control
@@ -201,13 +221,17 @@ Opioids brain ke breathing drive ko suppress kar sakte hain. Increasing sedation
 
 **Clinical references:** [Clinical reference 1](https://www.apsf.org/article/using-the-2018-guidelines-from-the-joint-commission-to-kickstart-your-hospitals-program-to-reduce-opioid-induced-ventilatory-impairment/)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**Related historical evidence:** [AIIMS Bathinda Nursing Officer, 29 September 2019 — third-party question page](https://testbook.com/question-answer/which-of-the-following-objective-assessment-data-w--61766ff4277fdc0fd9bc45b5). Retrieved memory-based report concerns respiratory assessment before opioid administration. Related opioid safety concept, not this post-dose sedation scenario. Official key unverified.
+
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q119](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q119-following-opioid-administration-a-patient-has-worsening-sedation-before-respiratory-rate-falls-markedly-which-action-is-most-appropriate)
+
 ### Q8. Which nonpharmacological measure can supplement prescribed postoperative pain treatment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Withhold every prescribed analgesic
 - **B.** Force painful exercise without assessment
@@ -234,9 +258,11 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q111](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q111-which-nonpharmacological-measure-can-supplement-prescribed-postoperative-pain-treatment)
+
 ### Q9. A patient is scheduled for a painful dressing change and has an appropriate prescribed analgesic. What is the best planning approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Administer it only after the procedure in every case
 - **B.** Double the dose without authorization
@@ -263,9 +289,11 @@ Analgesic onset ka matlab dose dene ke baad effect start hone ka expected time h
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q110](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q110-a-patient-is-scheduled-for-a-painful-dressing-change-and-has-an-appropriate-prescribed-analgesic-what-is-the-best-planning-approach)
+
 ### Q10. Which finding is most typical of REM sleep?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 UPSC ESIC Nursing Officer, 7 July 2024 — related reported concept only**
 
 - **A.** No cerebral activity
 - **B.** Complete cessation of respiration
@@ -288,13 +316,19 @@ REM ka full form rapid eye movement hai. Is stage mein eyes rapidly move kar sak
 
 **Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
 
+**Related historical evidence:** [UPSC ESIC Nursing Officer, 7 July 2024 — third-party question page](https://testbook.com/question-answer/sleepwalking-and-enuresis-occur-in-which-stage-of--668e6288b703444436984b3f). Retrieved third-party item tests NREM parasomnias and distinguishes REM features. Older stage 4 terminology is now grouped within N3. Official paper and key not authenticated.
+
+**Supplementary teaching and practice lead:** [Sleep and pain — ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=0i9wMyrm9sA). Published REM teaching chapter and separate practice chapters, specific REM MCQ unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q105](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q105-which-finding-is-most-typical-of-rem-sleep)
+
 ### Q11. A patient reports difficulty falling asleep due to repeated noise and nighttime interruptions. Which intervention addresses the likely modifiable cause?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Automatically prescribe a sedative without assessment
 - **B.** Reduce nonessential noise and coordinate routine care around rest periods
@@ -317,13 +351,17 @@ Hospital mein alarms, conversations, lights aur unnecessary interruptions sleep 
 
 **Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
 
+**Supplementary practice lead:** [Comfort, rest and sleep MCQ — Medical Knowledge Online](https://www.youtube.com/watch?v=u7MrNDEEEK0). Publisher description confirms broad topic, exact intervention coverage unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q35](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q35-a-patient-reports-difficulty-falling-asleep-due-to-repeated-noise-and-nighttime-interruptions-which-intervention-addresses-the-likely-modifiable-cause)
+
 ### Q12. Which sleep hygiene instruction is generally appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Maintain a regular sleep-wake schedule and limit late caffeine
 - **B.** Drink strong coffee immediately before bed
@@ -346,13 +384,17 @@ Circadian rhythm body ki internal clock hai jo sleep aur wakefulness timing regu
 
 **Clinical references:** [Clinical reference 1](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) · [Clinical reference 2](https://www.nhlbi.nih.gov/health/insomnia/treatment)
 
+**Supplementary teaching and practice lead:** [Sleep and pain — ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=0i9wMyrm9sA). Sleep hygiene teaching chapter and separate practice chapters, exact item unverified.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q107](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q107-which-sleep-hygiene-instruction-is-generally-appropriate)
+
 ### Q13. An older postoperative patient snores loudly, has witnessed pauses in breathing and receives sedatives. Which concern deserves assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Possible sleep-disordered breathing with increased respiratory depression risk
 - **B.** Normal sleep that requires no observation
@@ -379,9 +421,11 @@ Witnessed apnea ka matlab kisi ne breathing pause observe kiya hai. Loud snoring
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q52](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q52-an-older-postoperative-patient-snores-loudly-has-witnessed-pauses-in-breathing-and-receives-sedatives-which-concern-deserves-assessment)
+
 ### Q14. Which intervention commonly supports comfort in a patient with dry lips and an NPO order?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Give unrestricted water despite the order
 - **B.** Avoid all oral care
@@ -408,9 +452,11 @@ NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips a
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q100](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q100-which-intervention-commonly-supports-comfort-in-a-patient-with-dry-lips-and-an-npo-order)
+
 ### Q15. A patient with reduced peripheral circulation is prescribed cold therapy. Which safety approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume reduced sensation protects against cold injury
 - **B.** Cover the site tightly and leave it unobserved
@@ -437,9 +483,11 @@ Cold application tissue temperature kam karti hai aur local blood vessels narrow
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q99](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q99-a-patient-with-reduced-peripheral-circulation-is-prescribed-cold-therapy-which-safety-approach-is-appropriate)
+
 ### Q16. Which physiological effect is commonly associated with local cold application?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Permanent loss of all sensation
 - **B.** Vasoconstriction and reduced local metabolic activity
@@ -466,9 +514,11 @@ Local controlled cold se blood vessels commonly narrow hoti hain. Is process ko 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q8](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q8-which-physiological-effect-is-commonly-associated-with-local-cold-application)
+
 ### Q17. Which response commonly occurs with suitable local superficial heat application?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Immediate freezing of tissue
 - **B.** Vasodilation and improved local blood flow
@@ -495,9 +545,11 @@ Suitable superficial heat local blood vessels ko widen kar sakti hai. Isse vasod
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q12](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q12-which-response-commonly-occurs-with-suitable-local-superficial-heat-application)
+
 ### Q18. A patient with acute unexplained unilateral calf swelling requests massage and heat. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Avoid the requested treatment until possible thrombosis and other causes are assessed
 - **B.** Massage deeply immediately
@@ -524,9 +576,11 @@ DVT ya deep vein thrombosis mein deep vein ke andar clot ban sakta hai. New unil
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q10](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q10-a-patient-with-acute-unexplained-unilateral-calf-swelling-requests-massage-and-heat-what-should-the-nurse-do)
+
 ### Q19. A patient reports pain reduced from 8/10 to 4/10 after treatment but remains unable to deep breathe. How should the nurse evaluate the intervention?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Declare complete success from the score alone
 - **B.** Ignore the breathing limitation
@@ -553,9 +607,11 @@ Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q53](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q53-a-patient-reports-pain-reduced-from-810-to-410-after-treatment-but-remains-unable-to-deep-breathe-how-should-the-nurse-evaluate-the-intervention)
+
 ### Q20. Which approach supports a patient experiencing persistent anxiety-related tension before sleep?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Encourage rapid hyperventilation
 - **B.** Guarantee immediate sleep without assessment
@@ -581,6 +637,8 @@ Anxiety-related tension sleep onset difficult bana sakti hai. Gentle slow breath
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q57](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q57-which-approach-supports-a-patient-experiencing-persistent-anxiety-related-tension-before-sleep)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [AHA 2025 adult basic life support](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support) · [OpenStax discharge](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
