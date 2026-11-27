@@ -328,7 +328,7 @@
 
 ### Q13. The combined rates of A and B, B and C, and C and A are 7, 9 and 10 units per day respectively. What is C's individual rate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 13 units/day
 - **B.** 9 units/day
@@ -463,7 +463,7 @@
 
 ### Q18. A team of experienced workers completes 72 units in 6 hours. A trainee completes half as many units per hour as one experienced worker. If the team originally has 4 experienced workers, what is the output per hour after 2 trainees join?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 18 units/hour
 - **B.** 12 units/hour
@@ -490,7 +490,7 @@
 
 ### Q19. A project pays ₹9,600 divided in proportion to work done. A works for 6 days at 5 units/day and B for 10 days at 3 units/day. What amount does A receive?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** ₹4,800
 - **B.** ₹3,600
@@ -517,7 +517,7 @@
 
 ### Q20. A, B and C contribute to a project at rates of 2, 3 and 4 units/day. A works 5 days, B 4 days and C 2 days. Of a ₹15,000 payment shared by work done, how much should B receive?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** ₹5,000
 - **B.** ₹4,500
@@ -544,7 +544,7 @@
 
 ### Q21. A machine produces 120 acceptable items per hour. A second produces 90 per hour, but 10% of its output fails inspection. How long will both take to produce 1,005 acceptable items?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 4.79 hours
 - **B.** 8.38 hours
@@ -598,7 +598,7 @@
 
 ### Q23. A scanner processes 240 records in 4 hours. Each subsequent hour its speed drops to half of the original rate due to a fixed low-power mode. How many total hours are needed for 420 records?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 7 hours
 - **B.** 6 hours
@@ -625,7 +625,7 @@
 
 ### Q24. Two independent machines have rates of 14 and 10 items/hour. Their joint operating setup imposes a fixed 2-item/hour loss. How long does the setup take to produce 198 items?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 9 hours
 - **B.** 8.25 hours
@@ -652,7 +652,7 @@
 
 ### Q25. A factory must complete two consecutive stages. Stage 1 requires 180 units at 30 units/hour and stage 2 requires 120 units at 40 units/hour. Stage 2 cannot begin until stage 1 finishes. Find total elapsed time.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 6 hours
 - **B.** 9 hours
@@ -679,7 +679,7 @@
 
 ### Q26. A machine performs a task in 30 hours. A second machine works 20% faster than the first, and a third works 25% slower than the second. Which individual machine completes the task fastest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** First machine
 - **B.** Third machine
@@ -706,7 +706,7 @@
 
 ### Q27. A worker completes 60% of a job in 9 days. At the same rate, what percentage of the original job will be unfinished after a further 4 days?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Calculation · Original practice
 
 - **A.** 13⅓%
 - **B.** 40%
