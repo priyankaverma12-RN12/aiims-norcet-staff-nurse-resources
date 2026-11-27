@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: whole-obg-aub-20261127-2242
-Scope: Gynecology dedicated abnormal uterine bleeding and menstrual disorders MCQ bank, related evidence and local README only
+Scope: Gynecology dedicated AUB bank and amenorrhea/endocrine differential bank, related evidence and local README only
 Claimed UTC: 2026-11-27T22:42:00Z
 Expiry UTC: 2026-11-27T23:12:00Z
 
