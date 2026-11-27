@@ -325,7 +325,7 @@
 
 ### Q12. A pipe has outer radius 5 cm, inner radius 3 cm and length 20 cm. What volume of material does it contain in terms of π?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 500π cm³
 - **B.** 320π cm³
@@ -429,7 +429,7 @@
 
 - **A.** Yeh perpendicular sides ko add karta hai.
 - **C.** Yeh vertical height hai.
-- **D.** Yeh difference of squares ka correct square root nahi.
+- **D.** 7 cm slant height nahi ho sakti kyunki hypotenuse dono perpendicular sides se lambi hoti hai.
 
 **Exam trick:** Cone volume mein one-third aata hai aur curved surface mein slant height aati hai.
 
@@ -441,7 +441,7 @@
 
 ### Q16. A cone has radius 6 cm and perpendicular height 10 cm. Express its volume in terms of π.
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 360π cm³
 - **B.** 60π cm³
@@ -457,7 +457,7 @@
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh cylinder ka volume hai.
-- **B.** Yeh radius ko square karne ki jagah linear use karta hai aur incorrect coefficient lagata hai.
+- **B.** Yeh correct cone volume coefficient 120 ka half hai. Cone ke formula mein extra half factor nahi lagana.
 - **C.** Yeh half-cylinder volume maan leta hai.
 
 **Exam trick:** Cone volume mein one-third aata hai aur curved surface mein slant height aati hai.
@@ -470,7 +470,7 @@
 
 ### Q17. A cone has radius 7 cm and vertical height 24 cm. Using π = 22/7, find its curved surface area.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 528 cm²
 - **B.** 704 cm²
@@ -499,7 +499,7 @@
 
 ### Q18. A right circular cone has slant height 13 cm and radius 5 cm. What is its total surface area in terms of π?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 90π cm²
 - **B.** 65π cm²
@@ -615,7 +615,7 @@
 
 ### Q22. A solid sphere of radius 9 cm is melted into smaller identical spheres of radius 3 cm with no loss. How many small spheres are formed?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 3 spheres
 - **B.** 9 spheres
@@ -673,7 +673,7 @@
 
 ### Q24. A solid hemisphere of radius 3 cm is joined to the top of a cylinder of the same radius and height 8 cm. Express the total volume in terms of π.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 108π cm³
 - **B.** 72π cm³
@@ -731,7 +731,7 @@
 
 ### Q26. A right triangular prism has a triangular base with perpendicular sides 6 cm and 8 cm. Its length is 15 cm. Find its volume.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 360 cm³
 - **B.** 720 cm³
@@ -789,7 +789,7 @@
 
 ### Q28. A frustum of a right circular cone has radii 6 cm and 3 cm at its parallel ends and perpendicular height 4 cm. Express its volume in terms of π.
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 60π cm³
 - **B.** 84π cm³
