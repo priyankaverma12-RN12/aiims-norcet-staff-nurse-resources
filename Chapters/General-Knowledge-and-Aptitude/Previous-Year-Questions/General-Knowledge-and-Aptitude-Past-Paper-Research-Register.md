@@ -38,3 +38,6 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 
 [Profit and loss evidence](09-Profit-and-Loss-Reported-Evidence.md): three inspected RRB, ESIC and DSSSB reports, two distinct concept families. [Discount evidence](10-Discount-Reported-Evidence.md): three inspected DSSSB and AIIMS Bhopal reports, three distinct concept families. Chapter total twenty-one counted families and twenty-three counted solved adaptations, seven reserved/disputed/provisional items excluded. Official keys not authenticated. Related variants and cross-topic questions not counted twice.
+
+
+[Simple interest evidence](11-Simple-Interest-Reported-Evidence.md): three counted reported families (DSSSB 2024 shift 3 Q14, RRB 2015 reported shifts 2 Q28 and 3 Q41), one separately retained DSSSB 2019 rounding discrepancy. Chapter total twenty-four counted families and twenty-six counted solved adaptations, eight reserved/disputed/provisional items excluded. Third-party paper text inspected, screenshot retrieval failed. Official keys and complete paper coverage pending.
