@@ -90,4 +90,4 @@ Chalazion expansion, 27 November 2026: resumed 72942c472c491a407fccaaec0a2323bb5
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-114710-bleph. Scope: blepharitis chapter-local package only. Claimed UTC 2026-11-27T11:47:10Z. Expiry UTC 2026-11-27T12:17:10Z. -->
