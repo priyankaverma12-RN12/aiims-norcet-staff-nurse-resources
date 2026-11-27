@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: CLAIMED
-Owner: job4-20261127-040326-mock01
-Scope: Nursing Foundations existing mock 01–05 group 01 question metadata only, group 01 MCQ source additions
-Expiry UTC: 2026-11-27T04:33:26Z
+State: FREE
+Owner: none
+Scope: none
+Expiry UTC: none
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -19,3 +19,13 @@ Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgm
 - Four concept subsections 01A: 87ee50fd46652874c259df150f9ec4d42c82b6e2.
 - Three concept sections 01B: caac40e56c8db8637ca074f0cf3a0f74c5008971.
 All five files read back exactly and removing only new metadata restored original content. Cumulative 60 original MCQ entries, two reported adaptations, seven concept sections tagged. Seven historical concept links across original questions, not exact matches. GMCH official booklet text retrieved Q18/Q5/Q57/Q32 across sets, PDF screenshots failed; AIIMS Jodhpur source remains memory-based. DSSSB evaluation and 2024 paper retrieval failed; question-level video evidence and mock links pending. Existing difficulty labels retained as editorial, not independently validated. Next: verify group 01 mock index and map group 01 entries in existing mock files, upgrade prior GMCH third-party links to official booklet where relevant, verify anchors and video coverage, then group 02. Respect active writer and audit scopes. No chapter certified complete.
+
+
+## Verified run 3 — 27 November 2026
+- Mock 01 group 01 Q7,31,77,96: 71d9d6613d48823e4924d91320898174a4051d25.
+- Mock 02 Q1,3,66,106: b35f33b4174520c6b7af58590667973630fe3ca6.
+- Mock 03 Q2,49,71,114: 4dcc9b54700dc094c6592ba935934d0bee89ac26.
+- Mock 04 Q29,56,61,111: cb9d6bf997602c3686b30fc1416103085129617f.
+- Mock 05 Q43,89,99,110: f4a111beb78b264ecb0736582adac6767103ea92.
+- Original group 01 20-question bank: added reciprocal mock references and qualified topic video links, GMCH recruitment listing and booklet leads for Q2/3, fc7f86541d2d124c04ae673689204d9bbd4b2264.
+All six files read back, stripping only added metadata restored pre-edit contents exactly. 20 mock slots tagged (revision reuse, not new originals), 20 bank entries enriched. Cumulative 60 original MCQ entries + 20 mock slots + 2 reported adaptations + 7 concept sections. Seven historical concept links on originals, three carried to mock entries. AIIMS Jodhpur third-party question contents reopened successfully. GMCH official listing indexed, prior PDF evidence recorded but direct PDF returned 404 and screenshot unavailable in this run. Aarogyam Prime FON MCQ and Iram Fatima nursing-process coverage indexed in descriptions; direct video retrieval failed, no transcript, timestamps or exact video-question match verified. Mock video links are topic-level practice leads, not PYQ evidence. Dedicated clinical-prioritization video pending. No question or concept rewriting. Next: group 02 therapeutic communication and documentation (bank and concepts, reported evidence and matching mock slots), verify group 01 remaining video/anchor gaps as available. Existing mock plan states obsolete target of five/six, flag to Jobs 2/3 for correction; Job 4 does not rewrite study content. No chapter certified complete. Claim released.
