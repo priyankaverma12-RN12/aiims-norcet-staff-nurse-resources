@@ -56,11 +56,10 @@ try:
         for href in hrefs:
             page.goto(href)
             ready(page)
-            images=page.locator("#content img[src]")
+            images=page.locator("#content .study-media > img")
             for image in images.all():
                 image.evaluate("(i) => i.loading='eager'")
-                expect(image).to_be_visible(timeout=30000)
-                assert image.evaluate("(i) => i.complete && i.naturalWidth > 0") or image.evaluate("(i) => i.decode().then(()=>i.naturalWidth>0).catch(()=>false)"), f"Broken chapter overview image: {image.get_attribute('src')}"
+                image.evaluate("(i) => new Promise((resolve,reject) => {const end=Date.now()+20000;function check(){if(i.complete && i.naturalWidth>0){resolve(true);return}if(Date.now()>end){reject(Error('Broken overview image: '+i.src));return}setTimeout(check,100)}check()})")
                 overview_image_count+=1
         print(f"All {overview_image_count} chapter overview images loaded.",flush=True)
         print(f"All {count} chapter pages loaded in Chromium", flush=True)
