@@ -18,10 +18,20 @@ D. Registered full name
 
 **Correct answer: B. Bed number**
 
-- **A (Incorrect):** Record number patient-specific hota hai.
-- **B (Correct):** Bed number location batata hai, patient identity nahi. Bed change hone se mismatch ho sakta hai.
-- **C (Incorrect):** DOB approved identifier ho sakta hai.
-- **D (Incorrect):** Registered name approved second identifier ke saath useful hai.
+<!-- job5-rationale -->
+Patient identifier person-specific information hai, jaise registered full name aur hospital record number. Bed number patient ki current location hai. Transfer ke baad bed change ho sakta hai aur same bed par doosra patient aa sakta hai. Isliye procedure ya treatment ke pehle do approved identifiers intended order aur record se match karo. Wristband information ka carrier hai, khud separate identifier nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Hospital record number institution-assigned person-specific identifier hai.
+- **B:** Bed number location hai, identity substitute nahi, isliye B correct hai.
+- **C:** DOB approved identifying information ho sakti hai.
+- **D:** Registered full name approved identifier hai, doosre approved identifier ke saath use karo.
+
+**Exam clue:** Identify the person, not the location.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -49,10 +59,20 @@ D. Use the diagnosis as the second identifier
 
 **Correct answer: A. Ask the patient to state their registered name and date of birth without prompting**
 
-- **A (Correct):** Open-ended response ko band aur record se match karne par mistaken agreement ka risk kam hota hai.
-- **B (Incorrect):** Leading question repeat karna independent confirmation nahi hai.
-- **C (Incorrect):** Room location patient-specific nahi.
-- **D (Incorrect):** Diagnosis multiple patients mein same ho sakti hai.
+<!-- job5-rationale -->
+Leading question mein patient sirf yes bol sakta hai even if naam galat suna ho ya patient confused ho. Capable patient ko apne words mein registered name aur DOB state karne do, phir approved record aur wristband details se match karo. Open-ended verification active confirmation hai. Agar patient reliably answer nahi de sakta toh local alternative identification process follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Unprompted name aur DOB active verification improve karte hain.
+- **B:** Same leading question repeat karna original error repeat kar sakta hai.
+- **C:** Room number person-specific identity nahi hai.
+- **D:** Diagnosis multiple patients mein same ho sakti hai.
+
+**Exam clue:** Ask, do not suggest the answer.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -80,10 +100,20 @@ D. Use only a bed card
 
 **Correct answer: C. Use accessible written communication and verify approved identifiers against the record**
 
-- **A (Incorrect):** Doosre patient ki assumption reliable nahi hai.
-- **B (Incorrect):** Communication difficulty safety checks remove nahi karti.
-- **C (Correct):** Written communication se patient participate kar sakta hai aur identifiers verify hote hain.
-- **D (Incorrect):** Bed card independently patient identity establish nahi karta.
+<!-- job5-rationale -->
+Hearing impairment patient ki identity ya comprehension automatically unreliable nahi banati. Agar patient read aur write kar sakta hai toh accessible written questions se approved identifiers obtain karo aur record/wristband ke against verify karo. Preferred communication method poochho, privacy protect karo aur zaroorat par trained interpreter ya local support arrange karo.
+
+**Option-by-option reasoning**
+
+- **A:** Other patient ka guess reliable authorized identification nahi hai.
+- **B:** Communication barrier ke kaaran safety checks omit nahi karte.
+- **C:** Written accessible communication aur record matching correct adaptation hai.
+- **D:** Bed card location se separate ho sakta hai aur alone insufficient hai.
+
+**Exam clue:** Adapt communication, not the safety standard.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -111,10 +141,20 @@ D. Use the emergency temporary identification protocol while providing urgent ca
 
 **Correct answer: D. Use the emergency temporary identification protocol while providing urgent care**
 
-- **A (Incorrect):** Life-saving care identity paperwork ke liye delay nahi karni chahiye.
-- **B (Incorrect):** Doosre patient ka number records mix karega.
-- **C (Incorrect):** Untracked name traceability compromise karta hai.
-- **D (Correct):** Unique temporary ID aur consistent documentation se emergency care aur traceability dono maintain hote hain.
+<!-- job5-rationale -->
+Unidentified unconscious trauma patient mein lifesaving ABC care delay nahi honi chahiye. Facility ke emergency registration protocol se unique temporary identity assign hoti hai. Is identity ko orders, specimens, medicines aur treatments se consistently link karo. Confirmed identity available hone par authorized reconciliation karo. Random names ya another patient number record mix-up create karte hain.
+
+**Option-by-option reasoning**
+
+- **A:** Legal name confirm hone tak resuscitation delay unsafe hai.
+- **B:** Another patient's number wrong-patient treatment aur records create kar sakta hai.
+- **C:** Informal undocumented name reliable traceability nahi deta.
+- **D:** Approved temporary identification ke saath urgent care continue karna correct hai.
+
+**Exam clue:** Emergency care plus unique temporary ID.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -140,10 +180,20 @@ D. Ask the patient to carry the chart instead
 
 **Correct answer: A. Pause the procedure and verify identity and replace the band according to policy**
 
-- **A (Correct):** Correct identifiers re-establish karke approved band replace karna safer hai.
-- **B (Incorrect):** Guessing wrong identity create kar sakti hai.
-- **C (Incorrect):** Familiarity formal verification replace nahi karti.
-- **D (Incorrect):** Chart carry karna required bedside identity check replace nahi karta.
+<!-- job5-rationale -->
+Illegible wristband ka matlab patient identifiers reliably read nahi ho rahe. Stable planned procedure ko pause karo, patient ki approved identity record aur available independent evidence se verify karo aur authorized replacement band lagao. Replacement ke baad order aur patient details dobara match karo. Familiar appearance identity proof nahi hai.
+
+**Option-by-option reasoning**
+
+- **A:** Pause, verify and replace per policy identity gap resolve karta hai.
+- **B:** Guess kiya naam wrong record associate kar sakta hai.
+- **C:** Familiarity human error ko eliminate nahi karti.
+- **D:** Chart patient se separate ho sakta hai, approved identification workflow replace nahi karta.
+
+**Exam clue:** Missing or illegible ID: resolve before nonurgent care.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -171,10 +221,20 @@ D. Use birth weight alone
 
 **Correct answer: B. Use distinct assigned newborn identifiers and verify each infant against the matching record**
 
-- **A (Incorrect):** Maternal name dono infants mein same hai.
-- **B (Correct):** Distinct assigned identifiers aur matching record twin mix-up reduce karte hain.
-- **C (Incorrect):** Cot position change ho sakti hai.
-- **D (Incorrect):** Weight similar ya changing ho sakta hai.
+<!-- job5-rationale -->
+Twins same maternal surname, birth date ya similar temporary names share kar sakte hain. Distinct newborn naming/numbering method, matching infant records aur institution-approved banding ya alert system use karo. Har newborn ko independently verify karo before treatment, specimen or feeding as applicable. Mother ka name alone dono infants distinguish nahi karta.
+
+**Option-by-option reasoning**
+
+- **A:** Mother ka name twins mein common hai.
+- **B:** Distinct assigned newborn identifiers and matching record correct control hain.
+- **C:** Cot position change ho sakti hai.
+- **D:** Birth weight similar ho sakta hai aur unique ID nahi.
+
+**Exam clue:** Twins need distinct newborn identity, not shared maternal identity.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001460)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -202,10 +262,20 @@ D. Assume both records belong to the same person
 
 **Correct answer: C. Resolve the discrepancy through the approved registration process before proceeding**
 
-- **A (Incorrect):** Name length identity evidence nahi hai.
-- **B (Incorrect):** Duplicate chart se history fragment ho sakti hai.
-- **C (Correct):** Authorized reconciliation se correct identity aur record continuity verify hoti hai.
-- **D (Incorrect):** Assumption se wrong-patient test ho sakta hai.
+<!-- job5-rationale -->
+Registration correction ke baad spelling ya name differences genuine update bhi ho sakte hain aur wrong-record match bhi. Scheduled test ke pehle authorized registration/health information team se identity reconcile karo. Verified identifiers aur correct linked record use karo. Independent duplicate chart future allergies, tests aur treatment history fragment kar sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Shorter name select karna identity proof nahi hai.
+- **B:** Independent duplicate chart continuity risk create karta hai.
+- **C:** Approved discrepancy resolution correct hai.
+- **D:** Same person assume karna wrong-patient test cause kar sakta hai.
+
+**Exam clue:** Resolve demographic discrepancies through authorized workflow.
+
+[Additional concept reference](https://healthit.gov/resources/2025-safer-guide-patient-identification/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -233,10 +303,20 @@ D. Pause and reconcile the conflicting identifiers before nonurgent care
 
 **Correct answer: D. Pause and reconcile the conflicting identifiers before nonurgent care**
 
-- **A (Incorrect):** Technology incorrect data bhi retrieve kar sakti hai.
-- **B (Incorrect):** Conflicting DOB meaningful warning hai.
-- **C (Incorrect):** Unverified replacement error conceal kar sakta hai.
-- **D (Correct):** Mismatch resolve hone tak planned care pause karna patient safety protect karta hai.
+<!-- job5-rationale -->
+Barcode electronic information read karta hai, lekin correct scanning alone conflicting DOB explain nahi karti. Printed band, active patient identifiers aur record compare karo. Nonurgent care pause karo aur mismatch authorized process se correct karvao. Barcode error, wrong band ya record discrepancy possibilities hain, guess nahi karna.
+
+**Option-by-option reasoning**
+
+- **A:** Electronic reading infallible nahi hai.
+- **B:** Printed discrepancy ignore karna important safety cue lose karta hai.
+- **C:** Unverified label replacement error propagate kar sakti hai.
+- **D:** Pause and reconcile both identifiers before proceeding correct hai.
+
+**Exam clue:** Technology supports, but does not replace verification.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#identity-verification) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -264,10 +344,20 @@ D. Use only the phlebotomy schedule to assign samples
 
 **Correct answer: A. Collect and label one patient's specimens at the point of collection after verification**
 
-- **A (Correct):** One-patient workflow aur immediate bedside labeling specimen identity preserve karte hain.
-- **B (Incorrect):** Batch labeling se tubes interchange ho sakti hain.
-- **C (Incorrect):** Loose shared labels mismatch risk badhate hain.
-- **D (Incorrect):** Schedule actual collected sample verify nahi karta.
+<!-- job5-rationale -->
+Specimen collection pre-analytical stage hai jahan wrong-patient labeling serious diagnostic harm cause kar sakti hai. One patient at a time identify karo, ordered sample collect karo aur patient's presence mein approved identifiers se label verify karo. Blood tubes ko different patients ke liye beforehand batch label karke match karna unsafe hai. Time/site details test policy ke according add karo.
+
+**Option-by-option reasoning**
+
+- **A:** One-patient workflow and point-of-collection labeling mix-ups reduce karta hai.
+- **B:** Batch labeling later memory and sample swaps ka risk badhata hai.
+- **C:** Shared loose labels wrong tube par lag sakte hain.
+- **D:** Schedule identity verify nahi karta.
+
+**Exam clue:** Verify, collect, label in patient presence.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -295,10 +385,20 @@ D. Run the sample and assign the result later
 
 **Correct answer: B. Follow laboratory rejection and recollection policy rather than guessing identity**
 
-- **A (Incorrect):** Memory traceable identity proof nahi hai.
-- **B (Correct):** Routine sample ko policy ke according reject aur recollect karna wrong result attribution se bachata hai.
-- **C (Incorrect):** Likely patient guess karna unsafe hai.
-- **D (Incorrect):** Result baad mein assign karna bhi identity problem solve nahi karta.
+<!-- job5-rationale -->
+Unlabeled routine blood specimen ki identity confidently establish nahi ho sakti based on memory alone. Lab rejection aur recollection policy follow karo, clinical team ko notify karo aur safely new specimen collect karo. Irreplaceable specimens ke exceptions formal documented protocol se managed ho sakte hain, lekin routine recollectable sample mein guessing acceptable nahi.
+
+**Option-by-option reasoning**
+
+- **A:** Recollection memory objective traceability provide nahi karti.
+- **B:** Rejection and recollection according to policy correct hai.
+- **C:** Most likely record select karna result wrong patient ko assign kar sakta hai.
+- **D:** Testing first identity uncertainty solve nahi karti.
+
+**Exam clue:** Routine unlabeled sample: reject/recollect per policy.
+
+[Additional concept reference](https://labmed.washington.edu/test-guide/view/specimen_collection)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -326,10 +426,20 @@ D. Remove laterality from both records
 
 **Correct answer: C. Stop and obtain documented clarification through the specimen discrepancy protocol**
 
-- **A (Incorrect):** Typed entry bhi wrong ho sakti hai.
-- **B (Incorrect):** Container label alone discrepancy resolve nahi karta.
-- **C (Correct):** Correct site confirm aur traceable resolution essential hai, especially irreplaceable specimen mein.
-- **D (Incorrect):** Laterality delete karne se clinically important information lost hogi.
+<!-- job5-rationale -->
+Laterality mismatch specimen identification error ka warning hai. Left breast label aur right breast requisition mein se kisi ek ko automatically correct assume nahi karna chahiye. Processing/reporting progression ko hold karke lab, collector aur responsible team se documented clarification lo. Irreplaceable tissue ko discard ya alter na karo without approved discrepancy management. Correct site treatment planning ko affect kar sakti hai.
+
+**Option-by-option reasoning**
+
+- **A:** Typed request bhi error contain kar sakti hai.
+- **B:** Attached label bhi wrong site describe kar sakta hai.
+- **C:** Documented clarification preserves specimen traceability.
+- **D:** Laterality remove karne se important clinical information lose hoti hai.
+
+**Exam clue:** Resolve site mismatch, never guess or erase laterality.
+
+[Additional concept reference](https://labmed.washington.edu/test-guide/view/specimen_collection)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -357,10 +467,20 @@ D. Prevent use of the mismatched result and notify the responsible team for corr
 
 **Correct answer: D. Prevent use of the mismatched result and notify the responsible team for correction**
 
-- **A (Incorrect):** Wrong result par interpretation harm cause kar sakti hai.
-- **B (Incorrect):** Patient guess identity verify nahi karta.
-- **C (Incorrect):** Copy karne se error propagate hoga.
-- **D (Correct):** Mismatch contain karke correction aur appropriate confidentiality process follow karo.
+<!-- job5-rationale -->
+Wrong name wala result current patient ka result assume nahi kiya ja sakta. Use current clinical decision se exclude karo, privacy maintain karo aur responsible lab/clinical team ko promptly notify karo for correction and valid result. Actual identity discrepancy document karo. Urgent clinical concern ho toh appropriate evaluation continue karo, wrong result par treatment base mat karo.
+
+**Option-by-option reasoning**
+
+- **A:** Wrong result explain karna misinformation aur privacy risk hai.
+- **B:** Patient familiarity result ownership establish nahi karti.
+- **C:** Value current chart mein copy karne se record contaminate hota hai.
+- **D:** Prevent use and notify responsible team correct hai.
+
+**Exam clue:** Wrong-patient result: quarantine from decision, notify and reconcile.
+
+[Additional concept reference](https://healthit.gov/resources/2025-safer-guide-patient-identification/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#specimen-and-record-traceability) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 
@@ -388,10 +508,20 @@ D. Use the procedure with the shorter duration
 
 **Correct answer: A. Hold the planned procedure until the discrepancy is resolved with the authorized clinician and patient**
 
-- **A (Correct):** Order, consent aur intended intervention align hone chahiye. Unresolved discrepancy mein elective procedure stop karo.
-- **B (Incorrect):** Schedule consent replace nahi karta.
-- **C (Incorrect):** Unauthorized alteration inappropriate hai.
-- **D (Incorrect):** Duration correct procedure decide nahi karti.
+<!-- job5-rationale -->
+Informed consent intended procedure ki explanation aur patient's voluntary agreement se related hai. Correct identity ke bawajood consent and booking different hon toh planned procedure unsafe hai. Authorized clinician aur patient ke saath intended intervention verify karo, consent clarification/correction approved procedure se complete karo. Nonurgent intervention tab tak hold rahe jab tak discrepancy resolve na ho.
+
+**Option-by-option reasoning**
+
+- **A:** Holding and authorized reconciliation correct hai.
+- **B:** Theatre schedule consent discrepancy override nahi karta.
+- **C:** Nurse independently wording change karke informed consent create nahi kar sakti.
+- **D:** Procedure duration patient agreement establish nahi karti.
+
+**Exam clue:** Correct person is not enough: confirm consent and procedure.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -417,10 +547,20 @@ D. Treat earlier consent as irreversible
 
 **Correct answer: B. Pause and arrange clarification before seeking agreement to proceed**
 
-- **A (Incorrect):** Schedule infallible nahi hai.
-- **B (Correct):** Patient concern wrong procedure ya misunderstanding reveal kar sakta hai. Clarification aur valid consent required hai.
-- **C (Incorrect):** Blank consent informed decision establish nahi karta.
-- **D (Incorrect):** Consent ongoing process hai.
+<!-- job5-rationale -->
+Patient statement important safety cue hai. Proposed procedure earlier explanation se different lage toh pause karo aur responsible clinician se accurate information clarify karvao. Patient ko questions ka opportunity aur informed voluntary decision ka time do. Capable patient's earlier consent can be withdrawn. Applicable consent policy follow karo.
+
+**Option-by-option reasoning**
+
+- **A:** Schedule always correct assume karna discrepancy dismiss karta hai.
+- **B:** Pause, clarification and informed agreement safety support karte hain.
+- **C:** Blank form informed consent nahi hai.
+- **D:** Consent irrevocable nahi hota.
+
+**Exam clue:** Listen to patient concerns before proceeding.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -446,10 +586,20 @@ D. To document the patient's diagnosis
 
 **Correct answer: C. To make the intended anatomical site visible for subsequent verification**
 
-- **A (Incorrect):** Mark verbal checks replace nahi karta.
-- **B (Incorrect):** Room identification iska purpose nahi.
-- **C (Correct):** Visible approved site marking laterality error prevent karne ka extra barrier hai.
-- **D (Incorrect):** Diagnosis documentation separate hai.
+<!-- job5-rationale -->
+Site marking laterality ya multiple possible anatomical locations mein intended site ko visible banata hai. Approved mark appropriate person aur protocol ke according placed hota hai, where possible patient involvement ke saath. It must remain identifiable after preparation/draping as applicable. Site mark final verbal team verification replace nahi karta.
+
+**Option-by-option reasoning**
+
+- **A:** Site mark complementary safeguard hai, verbal confirmation replacement nahi.
+- **B:** OR number anatomical site nahi hai.
+- **C:** Visible intended anatomical site later verification support karta hai.
+- **D:** Diagnosis documentation site mark ka primary purpose nahi.
+
+**Exam clue:** Site mark plus active time-out.
+
+[Additional concept reference](https://www.jointcommission.org/en/knowledge-library/support-center/standards-interpretation/standards-faqs/000001461)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -475,10 +625,20 @@ D. Resolve visibility and site verification according to policy before starting
 
 **Correct answer: D. Resolve visibility and site verification according to policy before starting**
 
-- **A (Incorrect):** Earlier checks current final verification replace nahi karte.
-- **B (Incorrect):** Single assurance collective verification nahi hai.
-- **C (Incorrect):** Drape se site guess karna unsafe hai.
-- **D (Correct):** Approved method se correct site confirm karna required hai before nonurgent incision.
+<!-- job5-rationale -->
+Required site mark draping ke baad invisible ho toh team final verification incomplete ho sakti hai. Incision se pehle stop karo, approved approach se site visibility ya documented authorized alternative resolve karo, relevant consent and imaging match karo. Blindly drape position se mark create karna wrong-site risk badha sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Earlier check final verification gap remove nahi karta.
+- **B:** Single person's reassurance active team confirmation replace nahi karti.
+- **C:** Drape position reliable anatomical evidence nahi.
+- **D:** Resolve visibility and site before starting correct hai.
+
+**Exam clue:** Required mark must be verifiable at final check.
+
+[Additional concept reference](https://www.jointcommission.org/en/knowledge-library/support-center/standards-interpretation/standards-faqs/000001461)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -504,10 +664,18 @@ D. After arrival in the recovery unit
 
 **Correct answer: A. Before induction of anesthesia**
 
-- **A (Correct):** Sign In anesthesia se pehle patient aur key anesthesia risks confirm karta hai.
-- **B (Incorrect):** Incision se pehle Time Out bhi required hai.
-- **C (Incorrect):** Closure ke around Sign Out hota hai.
-- **D (Incorrect):** Recovery arrival Sign In ke liye too late hai.
+<!-- job5-rationale -->
+WHO surgical safety checklist mein Sign In anesthesia induction se pehle hota hai. Identity, procedure, site and consent review, anesthesia safety, allergy, difficult airway/aspiration risk aur anticipated blood loss relevant checks hain. Time Out incision se pehle aur Sign Out patient OR leave karne se pehle hota hai. Local checklist applicable adaptations include kar sakti hai.
+
+**Option-by-option reasoning**
+
+- **A:** Before induction correct Sign In timing hai.
+- **B:** After incision Sign In ke liye too late hai.
+- **C:** Wound closure period Sign Out-related checks ka context ho sakta hai.
+- **D:** Recovery arrival se pehle surgical checklist ke phases complete hone chahiye.
+
+**Exam clue:** Sign In → induction, Time Out → incision, Sign Out → before OR exit.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -533,10 +701,20 @@ D. Perform the time-out retrospectively
 
 **Correct answer: B. Ensure active team participation and resolve incomplete verification before incision**
 
-- **A (Incorrect):** Form presence actual check prove nahi karti.
-- **B (Correct):** Shared pause mein team ko relevant checks confirm karne chahiye.
-- **C (Incorrect):** Proxy signing participation establish nahi karta.
-- **D (Incorrect):** Retrospective check wrong procedure prevent nahi kar sakta.
+<!-- job5-rationale -->
+Time-out ek active team pause hai, form presence alone sufficient nahi. Relevant participants apni ongoing activity stop karke patient, procedure, site aur applicable concerns confirm karte hain. Missing acknowledgment ya discrepancy ho toh incision se pehle resolve karo. Completion actually perform hone par accurately document karo.
+
+**Option-by-option reasoning**
+
+- **A:** Form present hona actual team verification prove nahi karta.
+- **B:** Active participation and resolution before incision correct hai.
+- **C:** One signature everyone ki independent confirmation replace nahi karti.
+- **D:** Retrospective time-out preventive barrier nahi banta.
+
+**Exam clue:** Time-out is a team action, not a paperwork tick.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -562,10 +740,20 @@ D. Wait until discharge to reconcile procedure records
 
 **Correct answer: C. Verify each procedure and perform required time-outs according to the local protocol**
 
-- **A (Incorrect):** Admission check later procedure-specific risk address nahi karta.
-- **B (Incorrect):** Different team aur procedure ke liye verification repeat karna zaroori ho sakta hai.
-- **C (Correct):** Each intervention ke patient, site aur procedure verify karo, local policy follow karo.
-- **D (Incorrect):** Discharge reconciliation too late hai.
+<!-- job5-rationale -->
+Same anesthetic session mein distinct procedures ka patient common ho sakta hai, lekin site, procedure, team aur risks change ho sakte hain. Har procedure ki correct documentation and applicable time-out requirements local protocol ke according verify karo. Team change ya new procedure mein shared understanding re-establish karna important hai.
+
+**Option-by-option reasoning**
+
+- **A:** Admission-only check later procedure differences miss karta hai.
+- **B:** First team confirmation automatically all later interventions cover nahi karti.
+- **C:** Procedure-specific verification and required pauses correct hain.
+- **D:** Discharge reconciliation wrong procedure prevent nahi kar sakti.
+
+**Exam clue:** Each distinct procedure requires applicable safety verification.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -591,10 +779,20 @@ D. Speak up and insist on resolving the required safety check before proceeding
 
 **Correct answer: D. Speak up and insist on resolving the required safety check before proceeding**
 
-- **A (Incorrect):** Hierarchy safety barrier remove karne ka reason nahi hai.
-- **B (Incorrect):** False documentation unsafe hai.
-- **C (Incorrect):** Patient approval team verification replace nahi karta.
-- **D (Correct):** Professional speaking up aur escalation preventable harm reduce karte hain.
+<!-- job5-rationale -->
+Running late hona stable elective case mein safety checks omit karne ka justification nahi. Nurse respectfully concern state kare, required time-out completion insist kare aur unresolved issue par approved escalation or stop-work pathway follow kare. Team hierarchy safety responsibility ko cancel nahi karti. Performed verification accurately document karo.
+
+**Option-by-option reasoning**
+
+- **A:** Without discussion unsafe instruction accept karna preventive check remove karta hai.
+- **B:** Unperformed time-out chart karna false record hai.
+- **C:** Patient permission mandatory team safety process replace nahi karti.
+- **D:** Speak up and resolve required safety checks correct hai.
+
+**Exam clue:** Time pressure never substitutes for elective safety verification.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -620,10 +818,20 @@ D. Do not review records if the site is marked
 
 **Correct answer: A. Review relevant records and consent in advance, then actively reconfirm immediately before the procedure**
 
-- **A (Correct):** Advance review missing information identify karta hai, final pause immediate shared confirmation hai.
-- **B (Incorrect):** Days earlier check immediate risk capture nahi karta.
-- **C (Incorrect):** Verification routine preventive process hai.
-- **D (Incorrect):** Site mark documents aur consent replace nahi karta.
+<!-- job5-rationale -->
+Preprocedure verification process earlier and ongoing checks hai jisme relevant consent, records, imaging, site and equipment requirements reconcile hote hain. Final time-out immediate pre-start pause hai jahan active team reconfirm karti hai ki correct patient, site aur procedure agreed hain. Dono complementary layers hain.
+
+**Option-by-option reasoning**
+
+- **A:** Advance review plus immediate active reconfirmation distinction correctly describes karta hai.
+- **B:** Days earlier final time-out immediate final pause nahi hota.
+- **C:** Known discrepancy absent hone par bhi verification necessary hai.
+- **D:** Site mark record review replace nahi karta.
+
+**Exam clue:** Advance verification plus final active pause.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -649,10 +857,20 @@ D. Perform safety verification only after complications occur
 
 **Correct answer: B. Use applicable procedure verification and a time-out according to institutional policy**
 
-- **A (Incorrect):** Wrong-patient aur wrong-site risk ward mein bhi exist karta hai.
-- **B (Correct):** Appropriate procedure-specific checks location se independent safety support karte hain.
-- **C (Incorrect):** Room number unreliable identifier hai.
-- **D (Incorrect):** Complication ke baad check prevention nahi hai.
+<!-- job5-rationale -->
+Wrong-patient, wrong-site aur wrong-procedure risk bedside invasive procedures mein bhi exist karta hai. Local institution procedure type ke hisaab se identity confirmation, consent, site verification aur time-out requirements define karti hai. Nurse applicable process before procedure follow kare. Every procedure ke liye identical checklist assume nahi karna.
+
+**Option-by-option reasoning**
+
+- **A:** Theatre-only restriction bedside risks ignore karta hai.
+- **B:** Applicable verification and time-out per institutional policy correct hai.
+- **C:** Room number unique patient identifier nahi hai.
+- **D:** Complication ke baad check preventive purpose miss karta hai.
+
+**Exam clue:** Safety checks follow the procedure, not the room.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -678,10 +896,18 @@ D. The next patient's scheduled procedure
 
 **Correct answer: C. Relevant recovery concerns and agreed postoperative management priorities**
 
-- **A (Incorrect):** Admission date recovery plan guide nahi karti.
-- **B (Incorrect):** Room number relevant clinical risks nahi batata.
-- **C (Correct):** Recovery concerns share karne se monitoring aur follow-up continuity improve hoti hai.
-- **D (Incorrect):** Next patient's information unrelated hai.
+<!-- job5-rationale -->
+Sign Out patient operating room leave karne se pehle team review hai. Procedure performed, counts as applicable, specimen identification, equipment issues aur key recovery concerns clarify kiye jaate hain. Receiving team ko agreed postoperative priorities, monitoring needs aur unresolved risks structured handover se communicate karo.
+
+**Option-by-option reasoning**
+
+- **A:** Admission date alone recovery safety needs nahi batati.
+- **B:** OR number location information hai, clinical priorities nahi.
+- **C:** Relevant recovery concerns and postoperative plan continuity support karte hain.
+- **D:** Next patient's schedule current patient's recovery se unrelated hai.
+
+**Exam clue:** Sign Out connects surgery to safe recovery.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -707,10 +933,18 @@ D. Verify each specimen's patient identifiers and specific anatomical site using
 
 **Correct answer: D. Verify each specimen's patient identifiers and specific anatomical site using a documented team check**
 
-- **A (Incorrect):** Identical site labels anatomical distinction lose karte hain.
-- **B (Incorrect):** Collection order alone site prove nahi karta.
-- **C (Incorrect):** Appearance se site guess unreliable hai.
-- **D (Correct):** Correct patient aur specific site ka team confirmation diagnostic traceability maintain karta hai.
+<!-- job5-rationale -->
+Different anatomical sites ke specimens ko individually traceable labels chahiye. Approved patient identifiers, exact site and laterality where applicable, specimen description and requisition match karo. Team read-back or documented check as local protocol helps prevent swaps. Wrong site label pathology interpretation aur treatment affect kar sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Identical site labels different specimens distinguish nahi karte.
+- **B:** Order alone anatomical origin confirm nahi karta.
+- **C:** Appearance se origin infer karna unreliable hai.
+- **D:** Patient and specific anatomical site verification correct hai.
+
+**Exam clue:** Each specimen needs its own correct site identity.
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#procedure-safety) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -736,10 +970,20 @@ D. The checks are necessary only for unfamiliar staff
 
 **Correct answer: A. Different care encounters need their own safety verification to prevent mix-ups**
 
-- **A (Correct):** Repeated checks independent safety barriers hain, patient involvement encourage karo.
-- **B (Incorrect):** Trust issue nahi, process safety hai.
-- **C (Incorrect):** Lost records assume karna wrong hai.
-- **D (Incorrect):** Familiar staff bhi verification follow karte hain.
+<!-- job5-rationale -->
+Repeated verification patient ko irritate kar sakti hai, lekin every care encounter mein new order, medication, specimen ya procedure wrong patient se match hone ka risk hota hai. Explain karo ki name and DOB jaise approved identifiers confirm karna standard safety step hai, lack of trust nahi. Patient ko mismatch notice hone par speak up karne encourage karo.
+
+**Option-by-option reasoning**
+
+- **A:** Different encounters ki safety verification accurate explanation hai.
+- **B:** Distrust identity policy ka purpose nahi.
+- **C:** Repeated checks records lost hone ka proof nahi.
+- **D:** Familiar staff bhi wrong-patient errors kar sakte hain.
+
+**Exam clue:** Every relevant care encounter, verify again.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -767,10 +1011,20 @@ D. Continue using two unrelated records permanently
 
 **Correct answer: B. Use an authorized record-linking process that preserves traceability of results and treatments**
 
-- **A (Incorrect):** Deletion se treatments aur results lost ho sakte hain.
-- **B (Correct):** Approved linking se previous emergency care correct patient se traceably connect hoti hai.
-- **C (Incorrect):** Partial copying incomplete history create karta hai.
-- **D (Incorrect):** Unrelated records fragmented care risk badhate hain.
+<!-- job5-rationale -->
+Emergency temporary ID ke under tests, medicines, imaging aur treatment history generate ho sakti hai. Legal identity confirm hone par authorized health-information workflow use karke records link or merge karo with audit trail and clinical reconciliation. Duplicate record risk resolve karo without losing prior results, orders or allergies. Incorrect merge bhi harm cause kar sakta hai.
+
+**Option-by-option reasoning**
+
+- **A:** Temporary record delete karna care history lose kar sakta hai.
+- **B:** Authorized record-linking with traceability correct hai.
+- **C:** Only latest vitals copy karna incomplete history transfer hai.
+- **D:** Permanent unrelated records fragmented care create karte hain.
+
+**Exam clue:** Reconcile temporary and confirmed IDs safely.
+
+[Additional concept reference](https://healthit.gov/resources/2025-safer-guide-patient-identification/)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -798,10 +1052,20 @@ D. Use the percentage of scanned bands as proof of complete verification
 
 **Correct answer: C. Train and observe the approved active identification workflow and address barriers to compliance**
 
-- **A (Incorrect):** Scanner useful barrier hai, removal solution nahi.
-- **B (Incorrect):** Extra forms behavior improve karna ensure nahi karte.
-- **C (Correct):** Active confirmation aur technology ko correct workflow mein combine karke observed compliance improve karo.
-- **D (Incorrect):** Scan metric alone full two-identifier verification prove nahi karta.
+<!-- job5-rationale -->
+Barcode scan rate ek process indicator hai, complete active identification ka proof nahi. Audit approved workflow observe kare, capable patients se identifiers actively obtain karne mein barriers samjhe, staff training and feedback provide kare. Accessible alternatives noncommunicative patients ke liye defined hone chahiye. Compliance and error outcomes re-audit karo.
+
+**Option-by-option reasoning**
+
+- **A:** All scanners remove karna useful safety support unnecessarily eliminate karta hai.
+- **B:** Extra forms behavior gap automatically correct nahi karte.
+- **C:** Training, observation and barrier resolution actual gap address karte hain.
+- **D:** Scan count full verification measure nahi hai.
+
+**Exam clue:** Audit actual behavior, not only electronic completion.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
@@ -829,10 +1093,20 @@ D. Stop progression and reconcile imaging, consent, site and intended procedure 
 
 **Correct answer: D. Stop progression and reconcile imaging, consent, site and intended procedure with the responsible team**
 
-- **A (Incorrect):** Anesthesia discrepancy ignore karne ka reason nahi hai.
-- **B (Incorrect):** Imaging alone bhi wrong patient ya wrong orientation ho sakti hai.
-- **C (Incorrect):** Nurse ko guess nahi karna chahiye.
-- **D (Correct):** All relevant evidence reconcile karke documented agreement tak nonurgent procedure hold karo.
+<!-- job5-rationale -->
+Imaging aur booking laterality mismatch final verification mein major warning hai. Anesthetized patient se clarification immediately possible nahi, isliye team ko existing consent, verified records, correct imaging orientation aur site mark reconcile karna hai. Nonurgent procedure hold karo until authorized documented agreement and any required consent process satisfied. Neither booking nor image alone should automatically override all evidence.
+
+**Option-by-option reasoning**
+
+- **A:** Anesthesia consent or site discrepancy resolve nahi karti.
+- **B:** Imaging wrong orientation ya wrong record possibility verify karni hai.
+- **C:** Circulating nurse ka guess authorized determination nahi.
+- **D:** Stop progression and reconcile all relevant evidence correct hai.
+
+**Exam clue:** Unresolved laterality discrepancy: no nonurgent incision.
+
+[Additional concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001458)
+<!-- /job5-rationale -->
 
 [Concept](../Concepts/04B-Patient-Identification-and-Procedure-Safety.md#implementation-and-audit) · [Clinical reference](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions)
 
