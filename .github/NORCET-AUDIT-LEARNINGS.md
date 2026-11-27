@@ -398,3 +398,62 @@ Latest clinical source: GOLD 2027 pocket guide v1.1 dated 20 Nov 2026 https://go
 Historical source leads: directly retrieved third-party reported HPSSSB Staff Nurse October 2020 breathing exercise for chronic bronchitis https://testbook.com/question-answer/howa-nurse-will-teach-breathing-exercise-for--61b9a1aec3c5dc3695351680 and RRB Staff Nurse 20 July 2019 Shift I COPD intervention/pursed-lip breathing https://testbook.com/question-answer/which-is-an-intervention-for-a-patient-with-chroni--619e1e567a81b38e9a40f07b. These relate to upcoming nursing-care bank, not current disease questions. Reconcile with existing PYQs before adding independently worded source-traced adaptations. Official keys/papers not independently authenticated. Safdarjung 28 Feb 2019 alveolar-wall destruction and RRB 21 July 2019 Shift II COPD entity classification indexed only, direct retrieval failed. Pending leads inside Q46/55, not confirmed tags. No new PYQ count.
 
 Videos: 11/30 topic/section-level leads, of which 6 broad disease-section leads (Q36,37,42,46,47,48) require specific concept verification; Q39,54,55 Aarogyam Part 25 description https://www.youtube.com/watch?v=tOxTKjgTcTo; Q34,40 NCLEX cor pulmonale published chapter 05:53 https://www.youtube.com/watch?v=4mm6WFuggSw; Q36,37,42,46,47,48 NORCET 10 Mains respiratory section 05:38 https://www.youtube.com/watch?v=A4bsIHewLOM direct retrieval failed. 19/30 dedicated video pending. No exact matches, playback or transcripts verified. Channel verification pending for NCLEX and countdown videos. Whole disease bank 20 topic/section leads, 35 explicit gaps. No rendered UI inspection. No additional high-yield originals before coverage/semantic reconciliation. Checked new Job 5 explanation claim as well as Jobs 1,2,4; scopes disjoint. Next Day-03-Drugs-Oxygen-Nursing-45.md Q1 onward, then Day 3 mock, concepts/PYQs, historical and video gaps. Prevention: distinguish disease grade from symptom burden, old phenotype mnemonics from modern classification, chronic bronchitis from spirometrically confirmed COPD, clinical associations from definitive diagnosis. Recheck GOLD 2027 update throughout COPD care and concept files.
+
+
+## 2026-11-27 — Day 3 drugs, oxygen and nursing management Q1–45
+
+File Chapters/Respiratory-System/MCQs/Day-03-Drugs-Oxygen-Nursing-45.md. Before blob 08d06ad95d83780c39d4941324f29df7c278bc9f, after 4ff9cac52f8a93943f0575c51c3766897d15611b, verified commit b602690d2b9b1521fb5f188c905f7c1dc2cda43a. All 45 existing English stems/options and keys preserved, 45 correct and 135 distractor rationales expanded, 22 difficulty regrades, 14 related revision mappings (not necessarily duplicates). All 45 question headings/hidden answer blocks, four options, three wrong-option reasons, single difficulty and priority labels and explicit video status checked by readback. Cumulative 295 clinical/rationale reviews, not chapter certification. No new authored or official PYQ count.
+
+|Q|Key|Topic|Difficulty|Evidence|
+|---|---|---|---|---|
+|1|C|Salbutamol receptor|Easy|Video pending|
+|2|D|Salbutamol adverse effects|Medium|Video pending|
+|3|D|Ipratropium mechanism|Easy|Video pending|
+|4|A|Tiotropium|Easy|Video pending|
+|5|A|ICS candidiasis|Medium|Video pending|
+|6|B|ICS adherence|Medium|Video pending|
+|7|B|LABA with ICS|Medium|Video pending|
+|8|B|Montelukast|Easy|Video pending|
+|9|D|Montelukast warning|Medium|Video pending|
+|10|B|Theophylline toxicity|Medium|Video pending|
+|11|C|Cromoglycate|Easy|Video pending|
+|12|B|Omalizumab|Easy|Video pending|
+|13|A|pMDI technique|Medium|Video pending|
+|14|B|Spacer|Medium|Video pending|
+|15|D|DPI technique|Medium|Video pending|
+|16|B|Room air|Easy|Video pending|
+|17|A|Cannula estimate 32%|Medium|Topic-level video lead|
+|18|A|Variable FiO2|Medium|Topic-level video lead|
+|19|D|Simple mask minimum flow|Medium|Topic-level video lead|
+|20|D|Partial rebreather|Easy|Video pending|
+|21|A|Emergency NRB|Medium|Topic-level video lead|
+|22|C|Reservoir collapse|Medium|Topic-level video lead|
+|23|B|Venturi 28%|Medium|Topic-level video lead|
+|24|A|Venturi entrainment|Medium|Topic-level video lead|
+|25|A|Controlled oxygen target|Medium|Video pending|
+|26|A|Hypoxia vs hypoxemia|Easy|Video pending|
+|27|B|Restlessness|Medium|Video pending|
+|28|A|Oxygen toxicity|Easy|Video pending|
+|29|C|HFNC|Easy|Video pending|
+|30|A|BVM|Easy|Video pending|
+|31|A|Nebulizer function|Easy|Video pending|
+|32|D|Baseline assessment|Medium|Video pending|
+|33|B|Upright positioning|Easy|Video pending|
+|34|B|Air-driven nebulizer|Difficult|Video pending|
+|35|A|MDI vs nebulizer|Medium|Video pending|
+|36|B|Tripod|Medium|Video pending|
+|37|D|Pursed-lip breathing|Easy|Topic-level video lead|
+|38|A|Gentle exhalation|Medium|Topic-level video lead|
+|39|C|Nutrition|Medium|Video pending|
+|40|C|Fire safety|Easy|Video pending|
+|41|B|Vaccination|Easy|Video pending|
+|42|C|Drowsiness|Medium|Video pending|
+|43|C|Tachycardia|Medium|Video pending|
+|44|B|Triage|Medium|Video pending|
+|45|D|Teach-back|Easy|Video pending|
+
+Clinical evidence retrieved at search level: GINA 2026 executive summary https://academic.oup.com/ajrccm/article/212/12/2919/8885525 (ICS-containing plans, LABA distinction and spacer technique); FDA montelukast boxed warning https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug (stop and contact clinician for new neuropsychiatric symptoms); DailyMed albuterol solution https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ecc00500-58b8-491f-80df-dc6c89a08cae; NCBI theophylline toxicity https://www.ncbi.nlm.nih.gov/books/NBK532962/; OpenStax inhaled medication administration https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications; Open RN oxygen https://www.ncbi.nlm.nih.gov/books/NBK596733/; BTS adult oxygen https://bmjopenrespres.bmj.com/content/4/1/e000170; GOLD 2023 executive summary https://doi.org/10.1183/13993003.00239-2023 (2027 text reviewed in previous run, not newly retrieved here); ALA breathing exercises/nutrition, MedlinePlus home oxygen safety. Clinical search extracts rather than exhaustive full-text verification for each item. Q19 minimum mask flow varies 5 versus 6 L/min by guidance/device, follow manufacturer and protocol. Q25 target 88–92% for hypercapnia risk pending ABG, never blanket withhold oxygen. Q34 air-driven nebulizer with separately titrated oxygen when indicated. Q42 deterioration requires urgent assessment before waiting for ABG. Q7 distinguish formoterol-based prescribed reliever from salmeterol. Q11–12 legacy/specialist pharmacology enrichment, precise NORCET depth pending. Nursing relevance broadly consistent with prior INC respiratory scope, no new official syllabus retrieval. 
+
+Historical: direct third-party text retrieved for BHU Staff Nurse 22 Oct 2019 Venturi mask https://testbook.com/question-answer/for-a-chronic-obstructive-pulmonary-disease-patien--619ba1d1c03703fc10d7edde (Q23 related concept, visible purple tag; source's blanket 4 L/min restriction outdated); RRB Staff Nurse 20 July 2019 Shift I pursed-lip breathing https://testbook.com/question-answer/which-is-an-intervention-for-a-patient-with-chroni--619e1e567a81b38e9a40f07b (Q37/38 related concept); HPSSSB Staff Nurse October 2020 diaphragmatic breathing https://testbook.com/question-answer/howa-nurse-will-teach-breathing-exercise-for--61b9a1aec3c5dc3695351680 (distinct concept, not purposed as a pursed-lip match). Source keys not official. OSSSC Venturi direct retrieval failed. Existing Day 3 PYQ file must be repaired with self-contained source-traced adaptations and hidden answers after checking inventory; reserve these sources, do not double count. 
+
+Video: 9/45 topic-level links, Q17–19,21–24 NORCET 10 Mains Oxygen Therapy FON Class 2 https://www.youtube.com/watch?v=GRozFrA3VCg published labels 02:18 simple mask, 07:51 cannula, 32:48 Venturi, 39:38 NRB (direct retrieval failed); Q37–38 Aarogyam Prime NORCET 11 MCQ Series Part 01 https://www.youtube.com/watch?v=tPdkmmU7_ks published 23:46 pursed-lip breathing. Exact item, playback, transcripts pending, no fabricated matches. 36/45 explicit gaps. No new high-yield additions until coverage and duplication reconciliation. Rendered GitHub UI not inspected. Coordination claims Jobs 1,2,4,5 checked and no overlapping scope. Next Day-03-Final-Mock-30.md after verifying inventory, then Day 3 concept/actual PYQ repair and all pending video/semantic gaps. Prevention: preserve device-specific flow limitations, distinguish source key from current clinical standards, do not turn exam-style labels into historical provenance, teach-back and emergency escalation must be concrete.
