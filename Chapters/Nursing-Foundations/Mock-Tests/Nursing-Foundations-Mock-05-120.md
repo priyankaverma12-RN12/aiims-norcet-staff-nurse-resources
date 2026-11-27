@@ -458,9 +458,20 @@ Fresh blood aur dizziness significant bleeding indicate kar sakte hain. Nurse pa
 
 **Correct: D. Follow the hold instruction, assess the patient and notify the appropriate clinician**
 
-Hold parameter patient-specific safety ke liye prescribed hota hai. Nurse current findings assess karke dose hold aur escalation instructions follow karti hai.
+<!-- job5-rationale -->
+Hold parameter ek authorized instruction hai jo unsafe clinical finding par dose temporarily rokne ko kehta hai. Patient assess karo, measurement confirm karo if appropriate, hold instruction follow karo aur clinician ko timely notify karo. Actual decision document karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic administration harm kar sakti hai. Record alteration false hai. Unrelated drug independently dena unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Record value change karna falsification hai aur actual risk hide karta hai.
+- **B:** Unrelated drug without authorization dena new harm cause kar sakta hai.
+- **C:** Scheduled timing safety hold criteria override nahi karti.
+- **D:** Hold, assess aur notify patient safety preserve karta hai.
+
+**Exam clue:** Check parameters before administration, not after harm.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -481,9 +492,20 @@ Hold parameter patient-specific safety ke liye prescribed hota hai. Nurse curren
 
 **Correct: A. 0.5 mg with a leading zero and no unnecessary trailing zero**
 
-Leading zero decimal ko clearly visible banata hai. Unnecessary trailing zero avoid karne se decimal miss hone par tenfold error ka risk kam hota hai.
+<!-- job5-rationale -->
+Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehle leading zero use karo aur unnecessary trailing zero avoid karo. Isliye 0.5 mg clearest notation hai.
 
-**Baaki options kyun sahi nahi hain?** .5 ko 5 read kiya ja sakta hai. Trailing zero ambiguity add karti hai. 5.0 prescribed dose se ten times zyada hai.
+**Option-by-option reasoning**
+
+- **A:** 0.5 mg mein leading zero clear hai aur unnecessary trailing zero nahi hai.
+- **B:** 5.0 mg intended 0.5 mg ka tenfold dose hai.
+- **C:** .5 mg mein decimal miss ho toh 5 mg read ho sakta hai.
+- **D:** 0.50 mg ka value same hai lekin unnecessary trailing zero misreading risk badhata hai.
+
+**Exam clue:** Leading zero yes, trailing zero no.
+
+[Clinical reference](https://www.ismp.org/system/files/resources/2024-04/ISMP_ErrorProneAbbreviation_List.pdf)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2230,9 +2252,20 @@ Bed cradle bedcovers ka weight feet se door rakhne mein help karta hai. Nurse de
 
 **Correct: B. Identify and resolve differences between the actual medication list and new orders**
 
-Reconciliation mein nurse aur team patient ke actual drugs, doses aur schedules verify karti hain. Missing, duplicate ya conflicting orders identify ho sakte hain.
+<!-- job5-rationale -->
+Medication reconciliation mein patient ki best possible current medication history collect karke new orders se compare karte hain. Unintentional omission, duplication, dose differences aur interactions identify karke responsible team ke saath resolve karte hain.
 
-**Baaki options kyun sahi nahi hain?** All drugs stop karna inappropriate hai. Blind copying errors carry kar sakti hai. Supplements prescribed therapy replace nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Old orders blindly copy karne se changed therapy aur previous errors carry forward hote hain.
+- **B:** Actual list aur new orders reconcile karne se transition errors reduce hote hain.
+- **C:** Supplements prescribed medicines ka universal substitute nahi hain.
+- **D:** All home drugs automatically discontinue karna needed therapy interrupt kar sakta hai.
+
+**Exam clue:** Reconcile at admission, transfer and discharge.
+
+[Clinical reference](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2251,9 +2284,20 @@ Reconciliation mein nurse aur team patient ke actual drugs, doses aur schedules 
 
 **Correct: A. 2.5 mL**
 
-Desired dose 125 mg hai aur stock 250 mg in 5 mL hai. 125/250 x 5 = 2.5 mL. Calibrated oral measuring device use karna chahiye.
+<!-- job5-rationale -->
+Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 50 mg/mL = 2.5 mL. Reverse check: 2.5 × 50 = 125 mg. Correct oral measuring device use karo.
 
-**Baaki options kyun sahi nahi hain?** 5 mL full 250 mg hai. 10 mL 500 mg hai. 0.5 mL sirf 25 mg hai.
+**Option-by-option reasoning**
+
+- **A:** 2.5 mL exactly 125 mg deliver karta hai.
+- **B:** 10 mL mein 500 mg milega, jo required dose se four times hai.
+- **C:** 0.5 mL mein 25 mg milega, insufficient dose.
+- **D:** 5 mL mein 250 mg hai, double dose.
+
+**Exam clue:** Desired dose / available dose × available volume.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
