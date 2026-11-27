@@ -234,3 +234,8 @@ Two additional distinct reported recruitment adaptations (HPSSC 2021 incubation 
 ### Continuation — viruses and viral replication
 
 40 original MCQs with 40 hidden answers, detailed concepts, two diagrams, four indexed videos and two reported recruitment question adaptations (HPSSC 2021 and RRB 2025) published. 600 original questions across 15/30 defined topic groups, 270 Medium and 330 Difficult, 35 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, tracked global mocks 17/350 pending neurological reconciliation. Next: bloodborne and hepatitis viruses, HIV. Official keys, playback, individual-topic coverage and global semantic duplicate audit remain pending.
+
+
+### Continuation — hepatitis, HIV and respiratory/enteric viral diseases
+
+80 original MCQs, two concept guides, two diagrams, four source-linked reported question adaptations and indexed practice videos published. Total 680 across 17/30 defined topic groups. 39 reported recruitment adaptations and two academic adaptations. Chapter mocks 0/10. Next: medical mycology and opportunistic fungi. Dedicated hepatitis and individual respiratory/enteric video verification, official keys and cross-bank semantic audit remain pending. Global tracked mock progress 17/350 pending inventory reconciliation.

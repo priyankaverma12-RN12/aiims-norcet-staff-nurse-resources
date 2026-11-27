@@ -1,6 +1,6 @@
 # Infection Control and Microbiology — topic-wise question bank
 
-**In progress. 600 new original MCQs in fifteen topic files.** 270 Medium and 330 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
+**In progress. 680 new original MCQs in seventeen topic files.** 305 Medium and 375 Difficult labels. Earlier four starter items are preserved separately. Target 40 questions for each of the 30 defined groups, subject to syllabus audit. No full mock yet because the topic-first bank is incomplete.
 
 | Topic | New questions published |
 |---|---:|
@@ -19,8 +19,8 @@
 | 13. [Anaerobes and spore-forming pathogens](13-Anaerobes-and-Spore-Forming-Pathogens-40-MCQs.md) | 40 |
 | 14. [Spirochetes, atypical bacteria and rickettsiae](14-Spirochetes-Atypical-Bacteria-and-Rickettsiae-40-MCQs.md) | 40 |
 | 15. [Viruses and viral replication](15-Viruses-and-Viral-Replication-40-MCQs.md) | 40 |
-| 16. Bloodborne and hepatitis viruses, HIV | 0 |
-| 17. Respiratory, enteric and vaccine-preventable viruses | 0 |
+| 16. [Bloodborne and hepatitis viruses, HIV](16-Bloodborne-and-Hepatitis-Viruses-HIV-40-MCQs.md) | 40 |
+| 17. [Respiratory, enteric and vaccine-preventable viruses](17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses-40-MCQs.md) | 40 |
 | 18. Medical mycology and opportunistic fungi | 0 |
 | 19. Protozoa and malaria | 0 |
 | 20. Helminths and intestinal parasites | 0 |
