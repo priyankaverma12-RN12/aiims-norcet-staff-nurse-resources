@@ -93,6 +93,61 @@ Convex ya plus lens light ko converge karta hai. Matlab rays ko andar ki taraf b
 
 **Reported exam evidence:** [🔵 HPSSC Staff Nurse 1 August 2021 — convex correction](https://testbook.com/question-answer/which-is-used-for-correcting-hypermetropia--697c8326cda47ca28dacf515). Official key pending.
 
+## Hypermetropia expanded clinical notes
+
+[24 additional original MCQs](../MCQs/Hypermetropia-Additional-24-MCQs.md) · [Six earlier Q7–12](../MCQs/Refractive-Errors-30-MCQs.md). Total 30 allocated originals.
+
+### Hyperopia classification
+
+**🟠 HIGH YIELD**
+
+Hyperopia sirf short eyeball se nahi hoti. Agar cornea flat hai ya lens ki optical power kam hai toh normal axial length ke saath bhi hyperopic error ho sakta hai. Young children mein mild symmetric hyperopia normal development ka part ho sakti hai. Emmetropization ka matlab growing eye ka optical balance emmetropia ke closer aana hai. Har child mein spontaneous correction guaranteed nahi hoti. Age, acuity, alignment aur specialist examination ke basis par prescription decide hoti hai.
+
+Total hyperopia ka latent portion tonic accommodation se hidden ho sakta hai. Manifest portion routine noncycloplegic assessment se identify hota hai. Manifest portion ka facultative component accommodation se compensate ho sakta hai, absolute component available accommodation se overcome nahi hota. Ye classifications specialist enrichment hain.
+
+### Hyperopia optics and assessment
+
+**🟠 HIGH YIELD — simplified calculations**
+
+Total = manifest + latent. Manifest = facultative + absolute. Example: Total +4 D aur manifest +2.50 D ho toh latent +1.50 D. Agar manifest +2.50 D mein absolute +1 D hai toh facultative +1.50 D. Ye calculations prescription advice nahi hain.
+
+Near demand simplified model mein 1/distance in metres hai. Uncorrected +1 D hyperope agar distance par compensate kar sakta hai aur 50 cm par read karta hai, toh total demand 1 + 2 = 3 D. Distance hyperopia properly corrected ho toh ideal model mein near task ki 2 D demand remain karti hai. Actual response aur vertex distance vary karte hain.
+
+Asthenopia visual fatigue ya eyestrain hai. Reading-related brow discomfort refractive problem ka clue ho sakta hai, lekin symptom alone hyperopia confirm nahi karta. Onset, task pattern, pain, monocular acuity aur near function assess karo. Sudden visual change ya severe pain ko routine refraction ke liye delay mat karo.
+
+Retinoscopy mein trained examiner light reflex observe karke refractive error estimate karta hai. Ye chhote child mein useful hai jo subjective lens choices reliably nahi bata sakta. Cycloplegia specialist indication aur protocol ke according hoti hai. Nurse independently prescription change nahi karti.
+
+### Hyperopia child care
+
+**🔴 MOST IMPORTANT**
+
+Accommodation aur convergence near response mein connected hain. Jab hyperopic child clear image banane ke liye extra accommodation karta hai, susceptible child ki eyes andar turn kar sakti hain. Ise accommodative esotropia kehte hain. Har hyperopic child mein crossing nahi hoti. Prescribed plus correction extra focusing demand kam kar sakti hai aur alignment improve ho sakti hai.
+
+![Original mechanism of accommodative esotropia and plus correction](../Assets/hyperopia-accommodative-esotropia.svg)
+
+Known accommodative esotropia mein glasses utarne par inward turn wapas aa sakta hai. Isse alone treatment failure prove nahi hota. Prescribed full-time wear aur specialist follow-up support karo. Correct glasses pehenne ke baad bhi deviation persist kare toh reassessment chahiye. Nurse ghar par power change ya random patching recommend nahi karti.
+
+Anisometropia ka matlab dono eyes ki refractive correction alag hona hai. Agar ek eye consistently blurred image deti hai, developing brain clearer eye prefer kar sakta hai. Isse amblyopia ka risk hota hai. Child complaint na bhi kare toh monocular assessment important hai. Patching prescribe hui ho toh correct eye aur exact timing follow karo. Spectacles clinician ke plan ke hisaab se continue karo. Frame comfort aur proper positioning adherence mein help karte hain.
+
+### Hyperopia clinical safety
+
+**🔴 MOST IMPORTANT**
+
+Aphakia mein natural lens absent hoti hai. Lens ki converging power loss hone se marked hyperopic shift ho sakti hai agar implant ya other correction absent ho. Specialist individual optical rehabilitation decide karta hai.
+
+Short hyperopic eyes mein anterior chamber crowded ho sakta hai. Isliye angle closure susceptibility consider ki ja sakti hai. Hyperopia se glaucoma diagnose nahi hota. Severe pain, halos, vomiting ya sudden blur mein urgent assessment zaroori hai.
+
+Community nurse affordable correction, referral completion aur functional needs assess karti hai. Poor near vision mein label reading, medicine identification aur daily work affect ho sakta hai. Sirf prescription likhna rehabilitation complete hone ka proof nahi hai.
+
+### Teaching and separate MCQ practice
+
+- Teaching lead: [Refractive Errors in Hindi — BSc Nursing/GNM](https://www.youtube.com/watch?v=4nOvszLGJas). Indexed description, direct fetch throttled.
+- MCQ lead: [Hypermetropia or Long sightedness — Learn By MCQ Part 1](https://www.youtube.com/watch?v=G0GkxCm_QEc). Indexed title, optometry-oriented, exact content and channel unconfirmed.
+- Child care, safety and numerical question-specific MCQ video verification pending.
+
+**Clinical sources checked 27 November 2026:** [NEI hyperopia](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/farsightedness-hyperopia), [AAPOS accommodative esotropia](https://aapos.org/browse/glossary/entry?GlossaryKey=072d05d4-c183-49e5-9ab3-2b7b87f3f796), [AAPOS anisometropia](https://aapos.org/glossary/anisometropia), [AAPOS glasses for children](https://www.aapos.org/glossary/glasses-for-children), [StatPearls hyperopia](https://www.ncbi.nlm.nih.gov/books/NBK560716/) (indexed, direct fetch blocked), [retinoscopy](https://www.ncbi.nlm.nih.gov/books/NBK597373/) (indexed). [HPSSC 1 August 2021 reported correction question](../Previous-Year-Questions/Refractive-Errors-Reported-Exam-Practice.md) retained. No authenticated new official hyperopia question located.
+
+
 ## Astigmatism
 
 **🟠 HIGH YIELD**
