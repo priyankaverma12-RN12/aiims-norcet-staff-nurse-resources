@@ -1303,9 +1303,22 @@ Intervention woh planned action hai jo nurse ya care team patient goal achieve k
 
 **Correct: D. Closed correct container and approved secondary packaging**
 
-Leak-resistant container aur secondary packaging staff ko body fluid exposure se protect karti hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Open container, food contact aur missing identification contamination risk badhate hain.
+Clinical specimen mein infectious material ho sakta hai. Primary container compatible, securely closed aur leak-resistant hona chahiye. Approved secondary packaging accidental leakage aur exposure kam karti hai. Request form ko contamination se protect karo aur transport classification, labeling, time aur temperature policy follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Required hazard labeling remove karne se handlers ko risk ka pata nahi chalega.
+- **B (Galat):** Open cup pocket mein carry karne se spill, sample loss aur exposure ho sakta hai.
+- **C (Galat):** Specimen ko food ke paas rakhna cross-contamination ka risk create karta hai.
+- **D (Sahi):** Correct closed primary container aur secondary packaging leakage aur exposure risk kam karte hain.
+
+**Exam clue:** Closed primary container plus approved secondary packaging.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/MMWR/preview/mmwrhtml/su6101a1.htm)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1995,9 +2008,22 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 
 **Correct: D. Control puncture-site bleeding**
 
-Arterial pressure high hota hai, isliye adequate compression puncture-site bleeding reduce karti hai. Anticoagulation mein longer observation needed ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bleeding increase desired nahi hai. Entire limb perfusion stop nahi karni chahiye. Blood type change nahi hota.
+Artery mein pressure vein se generally higher hota hai. Sampling puncture ke baad blood tissue ya skin ke bahar leak ho sakta hai. Direct pressure bleeding stop hone tak maintain karo aur puncture site, swelling aur distal circulation check karo. Anticoagulant use ya bleeding disorder mein longer compression aur observation required ho sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Local compression ka aim bleeding control hai, limb ki circulation permanently stop karna nahi.
+- **B (Galat):** Pressure arterial blood ko venous blood mein convert nahi karta.
+- **C (Galat):** Bleeding increase karna procedure ka objective nahi hai.
+- **D (Sahi):** Direct pressure puncture-site bleeding control karta hai aur hematoma risk kam karne mein help karta hai.
+
+**Exam clue:** Arterial puncture: hemostasis and distal perfusion check.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK138661/?report=reader)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2047,9 +2073,22 @@ Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consiste
 
 **Correct: A. Record actual fasting status and clarify whether to proceed**
 
-Food intake kuch test values influence kar sakta hai. Actual fasting status result interpretation aur recollection decision ke liye important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False record aur hidden history misleading hain. Normal result guaranteed nahi hai.
+Fasting ka matlab prescribed period mein test-specific food ya drink restrictions follow karna hai. Food glucose aur lipid jaise analytes ko affect kar sakta hai, lekin sab tests ko fasting chahiye aisa nahi hai. Patient ne kya aur kab consume kiya honestly record karo aur laboratory ya ordering team se clarify karo ki sample ab lena hai ya reschedule karna hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Actual fasting status record karke clarification lena test-specific safe decision support karta hai.
+- **B (Galat):** History hide karne se lab result ko galat context mein interpret kiya ja sakta hai.
+- **C (Galat):** Fasting nahi hui toh fasting document karna false record hoga.
+- **D (Galat):** Food intake ke baad bhi result normal ya abnormal ho sakta hai. Guess nahi kar sakte.
+
+**Exam clue:** Fasting status sach record karo, test-specific instruction follow karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2831,9 +2870,22 @@ Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta ha
 
 **Correct: A. Investigate and recollect or correct only through verified policy**
 
-Mismatch wrong-patient specimen ka risk hai. Nurse approved verification aur recollection process follow karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Assumed relabeling unsafe hai. Rejected result definitive nahi hai. Guessing identity verification replace nahi karti.
+Order aur specimen identifiers match na karein toh sample kisi doosre patient ka ho sakta hai. Laboratory rejection safety barrier hai, punishment nahi. Responsible team ko inform karo, mismatch investigate karo aur safe recollection arrange karo. Correction sirf approved verified exceptional policy mein ho sakti hai. Assumption se kabhi relabel mat karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Investigation aur policy-based recollection ya verified correction wrong-patient result prevent karte hain.
+- **B (Galat):** Patient se guess karwana actual specimen identity establish nahi karta.
+- **C (Galat):** Rejected sample ko definitive result maan kar treatment karna unreliable aur unsafe ho sakta hai.
+- **D (Galat):** Assumption se relabel karna mismatch ko hide karta hai aur wrong diagnosis ka risk badhata hai.
+
+**Exam clue:** Identifier mismatch: stop, investigate, verify or recollect.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/lab-quality/php/preventing-adult-blood-culture-contamination/collect.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
