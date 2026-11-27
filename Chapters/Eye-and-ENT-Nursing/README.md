@@ -72,4 +72,4 @@ Hypertensive retinopathy expansion, 27 November 2026: resumed at ba16135a79b4e25
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner: eye-ent-20261127-102400-rop. Scope: retinopathy of prematurity chapter-local package only. Claimed UTC 2026-11-27T10:24:00Z. Expiry UTC 2026-11-27T10:54:00Z. -->
