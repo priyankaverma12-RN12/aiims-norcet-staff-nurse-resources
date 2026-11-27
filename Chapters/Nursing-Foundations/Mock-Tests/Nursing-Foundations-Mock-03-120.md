@@ -53,7 +53,9 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q12](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q12-a-patient-refuses-a-scheduled-bath-because-of-fatigue-which-response-reflects-individualized-care-planning) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q12](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q12-a-patient-refuses-a-scheduled-bath-because-of-fatigue-which-response-reflects-individualized-care-planning)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -1055,7 +1057,9 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 
 **Related study:** [Concept](../Concepts/01B-Clinical-Judgment-and-Reasoning.md#nursing-role-and-examples) · [Learning reference](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 
-**Topic-bank question:** [Q10](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q10-a-planned-walking-session-is-due-but-the-patient-now-has-new-chest-pain-and-diaphoresis-what-should-the-nurse-do-first) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q10](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q10-a-planned-walking-session-is-due-but-the-patient-now-has-new-chest-pain-and-diaphoresis-what-should-the-nurse-do-first)
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-metadata -->
 </details>
 
@@ -1530,7 +1534,9 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q9](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q9-which-action-is-an-independent-nursing-intervention-within-the-nurses-competence-and-facility-policy) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q9](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q9-which-action-is-an-independent-nursing-intervention-within-the-nurses-competence-and-facility-policy)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
@@ -2448,7 +2454,9 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 
 **Related study:** [Concept](../Concepts/01A-Nursing-Process-and-Care-Planning.md#diagnosis-planning-and-implementation) · [Learning reference](https://openstax.org/books/clinical-nursing-skills/pages/1-3-nursing-process)
 
-**Topic-bank question:** [Q11](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q11-which-nursing-diagnosis-is-written-as-a-risk-diagnosis-without-current-defining-signs-of-the-problem) · [Aarogyam Prime nursing-process practice](https://www.youtube.com/watch?v=xZ3swc0zCeM) (topic indexed in video description, exact question and transcript not verified).
+**Topic-bank question:** [Q11](../MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md#q11-which-nursing-diagnosis-is-written-as-a-risk-diagnosis-without-current-defining-signs-of-the-problem)
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-metadata -->
 </details>
 
