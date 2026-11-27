@@ -31,6 +31,8 @@ D. Two 125-mg tablets
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
 
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related tablet calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q2. A prescribed medicine is given as 0.4 g per dose. Three doses were documented during the day. What total mass was administered in milligrams?
@@ -59,6 +61,8 @@ D. 4000 mg
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#units-and-dose) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric conversions problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -118,6 +122,8 @@ D. 10 mL
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
 
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related oral liquid calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q5. An order specifies 225 micrograms of a hypothetical medicine supplied at 0.15 mg/mL. What volume corresponds to the order?
@@ -146,6 +152,8 @@ D. 150 mL
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#units-and-dose) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric dose conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -205,6 +213,8 @@ D. 4 mL
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
 
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related IV reconstitution problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q8. An approved training label lists two separately prepared concentrations, 100 mg/mL and 200 mg/mL. The verified product is 200 mg/mL. What volume contains 360 mg?
@@ -262,6 +272,8 @@ D. 1 vial and 2.5 mL
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#reconstitution-and-labels) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
 **▶️ [Drug dose calculation MCQ session — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed general numerical practice, exact concept and channel/playback pending.
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related IV dose-volume calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -349,6 +361,8 @@ D. 180 micrograms/mL
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#concentration-and-dilution) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
 **YouTube MCQ practice: specific verification pending.**
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric conversions problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -581,6 +595,8 @@ D. Both state the same concentration
 [Concept](../Concepts/07A-Dose-Units-Concentration-and-Reconstitution.md#rounding-and-safety) · [OpenStax Dosing](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 
 **YouTube MCQ practice: specific verification pending.**
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related metric concentration conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
