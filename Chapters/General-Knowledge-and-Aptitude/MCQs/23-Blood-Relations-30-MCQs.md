@@ -729,28 +729,28 @@
 
 </details>
 
-### Q26. A man has two daughters. His elder daughter's only child is a boy and his younger daughter's only child is a girl. What is the boy's relationship to the girl?
+### Q26. A woman's father has exactly two daughters, the woman and her full sister. Each daughter has two children. The woman's son is asked how many distinct first cousins he has through his mother's sister. What is the answer?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Brother
-- **B.** Uncle
-- **C.** Nephew
-- **D.** First cousin
+- **A.** Zero
+- **B.** One
+- **C.** Three
+- **D.** Two
 
 <details><summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Correct answer: D. First cousin**
+**Correct answer: D. Two**
 
-**Kyun sahi hai:** Boy aur girl ki mothers sisters hain. Sisters ke children first cousins hain.
+**Kyun sahi hai:** Boy ki mother ki full sister uski maternal aunt hai. Aunt ke dono children boy ke first cousins hain. Boy ki mother ka doosra child uska sibling hai, cousin nahi. Isliye requested maternal aunt ki side se two distinct first cousins hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Mothers alag hain aur additional shared parent link nahi diya.
-- **B.** Boy same generation mein hai.
-- **C.** Boy girl ke sibling ka son nahi hai.
+- **A.** Maternal aunt ke children diye gaye hain, isliye zero nahi.
+- **B.** Aunt ke two children mein se ek miss ho jaata hai.
+- **C.** Boy ka own sibling bhi cousin count karne se galat total three milta hai.
 
-**Exam trick:** Jo relation facts se certain hai sirf wahi choose karo. Extra gender ya marriage assumption mat lagao.
+**Exam trick:** Count karte waqt sirf requested branch ke relatives include karo. Sibling aur cousin alag relations hain.
 
 [Concept](../Concepts/23-Blood-Relations.md#extended-family-and-data-sufficiency) · [SATHEE reference](https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/quick-revision/reasoning/reasoning-blood-relations-master/)
 
