@@ -252,9 +252,20 @@ Gait pattern patient ke affected limb par allowed load aur balance par depend ka
 
 **Correct: C. Stop administration and resolve the mismatch using the approved verification process**
 
-Mismatch wrong patient ya wrong product ka clue ho sakta hai. Nurse administration rok kar identity aur order verify karti hai.
+<!-- job5-rationale -->
+Barcode mismatch patient identity, medication, dose, order ya scanning issue indicate kar sakta hai. Alert bypass karne se safety barrier fail hota hai. Administration pause karo, approved identifiers aur current order compare karo, package label verify karo aur pharmacy/authorized team se discrepancy resolve karo. Emergency circumstances mein approved alternate verification protocol follow karo, random workaround nahi.
 
-**Baaki options kyun sahi nahi hain?** Override, another wristband aur after-dose verification safety barrier bypass karte hain.
+**Option-by-option reasoning**
+
+- **A:** Familiar package correct medication prove nahi karta.
+- **B:** Different patient wristband scan karna false verification hai.
+- **C:** Stop and resolve mismatch through approved process correct hai.
+- **D:** Administer first se wrong-dose or wrong-patient exposure ho sakta hai.
+
+**Exam clue:** Barcode alert is a reason to verify, not bypass.
+
+[Concept reference](https://psnet.ahrq.gov/primer/medication-administration-errors)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -1007,9 +1018,20 @@ Psychomotor domain actual physical skill se related hai. Verbal knowledge ke baw
 
 **Correct: D. Call bell**
 
-Call bell se patient bed se uthne se pehle help mang sakta hai. Isse unassisted transfer ka risk kam ho sakta hai.
+<!-- job5-rationale -->
+Assisted transfer required patient ko help request karne ka accessible method chahiye. Call bell reachable aur functional rakho, patient ko use demonstrate karo aur timely response arrange karo. Patient cognition, mobility aur communication limitations ke according alternate assistance plan bhi necessary ho sakta hai. Unsafe objects walking path se remove karo.
 
-**Baaki options kyun sahi nahi hain?** Sharp item, wrong medication aur cable safety hazards hain.
+**Option-by-option reasoning**
+
+- **A:** Trailing cable trip hazard hai.
+- **B:** Unsecured sharp instrument injury hazard hai.
+- **C:** Another patient's medication wrong-drug risk hai.
+- **D:** Call bell patient ko transfer se pehle help request karne deta hai.
+
+**Exam clue:** Call bell within reach, plus timely response.
+
+[Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2002,9 +2024,20 @@ Direct pressure bleeding vessel par compression provide karke blood loss reduce 
 
 **Correct: C. Use the least restrictive effective option with authorization, reassessment and monitoring**
 
-Restraints injury aur distress cause kar sakti hain. Nurse alternative measures try karti hai aur indicated restraint ko policy ke according monitor karti hai.
+<!-- job5-rationale -->
+Restraint patient ki free movement restrict kar sakti hai aur skin injury, circulation problems, distress, entrapment ya other harm ka risk rakhti hai. Alternatives assess karo aur only clinically justified least restrictive effective method use karo under applicable authorization. Ongoing observation, comfort, circulation, skin, basic needs aur continued necessity reassess karo. Restraint as soon as safe discontinue karna goal hai.
 
-**Baaki options kyun sahi nahi hain?** Moving rail attachment tension cause kar sakti hai. Unobserved restraint unsafe hai. Convenience indication nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Staff convenience restraint indication nahi hai.
+- **B:** Moving side rail se restraint attach karna movement-related injury risk create karta hai.
+- **C:** Least restrictive method, authorization and monitoring patient safety support karte hain.
+- **D:** Unobserved patient mein complications miss ho sakte hain.
+
+**Exam clue:** Least restrictive, shortest necessary, reassess and document.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
@@ -2314,9 +2347,20 @@ Excess fluid circulation overload aur pulmonary congestion contribute kar sakta 
 
 **Correct: A. Identify the allergy and arrange latex-safe equipment before care**
 
-Latex exposure sensitized patient mein serious reaction cause kar sakta hai. Clear alert aur latex-safe equipment se exposure prevent karne mein help milti hai.
+<!-- job5-rationale -->
+Severe latex allergy mein natural rubber latex proteins exposure hypersensitivity reaction trigger kar sakte hain, including anaphylaxis. Allergy alert verify aur communicate karo, gloves ke saath procedure-related equipment aur other products ki compatibility check karo. Latex-safe alternatives before exposure arrange karo. Reaction develop ho toh emergency protocol follow karo.
 
-**Baaki options kyun sahi nahi hain?** Brief contact bhi reaction trigger kar sakta hai. Alert remove karna aur reaction ka wait unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Latex-safe preparation and communication preventive action hain.
+- **B:** Brief latex contact bhi sensitized patient mein reaction trigger kar sakta hai.
+- **C:** Reaction ka wait preventable exposure create karta hai.
+- **D:** Allergy alert remove karne se prevention information lose hoti hai.
+
+**Exam clue:** Known allergy: prevent exposure before procedure.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/6-4-infection-control-and-patient-safety)
+<!-- /job5-rationale -->
 
 
 <!-- job4-metadata -->
