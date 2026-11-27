@@ -36,16 +36,16 @@ function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.
 const chapterRoot=path.join(root,'Chapters'),chapters=[];
 for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){
  if(!ent.isDirectory()||!fs.existsSync(path.join(chapterRoot,ent.name,'README.md')))continue;
- const records=[],totals=blank(),banks=blank();let evidenceFiles=0;
+ const records=[],totals=blank(),banks=blank();let evidenceFiles=0;const evidencePaths=[];
  for(const f of walk(path.join(chapterRoot,ent.name))){
   const rel=path.relative(root,f).split(path.sep).join('/'),md=fs.readFileSync(f,'utf8'),kind=category(rel),slots=countSlots(md);
-  if(!slots){if(kind==='pyq')evidenceFiles++;continue}
+  if(!slots){if(kind==='pyq'){evidenceFiles++;evidencePaths.push(rel)}continue}
   const scoreable=parseBank(md).items.length;
   const heading=md.match(/^#\s+(.+)$/m)?.[1]||path.basename(f,'.md').replace(/-/g,' ');
   records.push({path:rel,title:heading,category:kind,slots,scoreable});totals[kind]+=slots;banks[kind]++;
  }
  records.sort((a,b)=>a.path.localeCompare(b.path,undefined,{numeric:true}));
- chapters.push({id:ent.name,name:ent.name.replace(/-/g,' '),totals,banks,evidenceFiles,records});
+ chapters.push({id:ent.name,name:ent.name.replace(/-/g,' '),totals,banks,evidenceFiles,evidencePaths,records});
 }
 const totals=blank(),banks=blank();for(const c of chapters)for(const k of cats){totals[k]+=c.totals[k];banks[k]+=c.banks[k];assert.equal(c.totals[k],c.records.filter(x=>x.category===k).reduce((s,x)=>s+x.slots,0))}
 const output={schema:1,generatedAt:new Date().toISOString(),sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),method:'Detected A–D option sequences outside answer details, grouped by source file. These are published question occurrences, not unique original questions or authenticated PYQs. Mock slots may reuse bank questions. Unsupported formats and evidence-only entries are not counted.',chapters,totals,banks};

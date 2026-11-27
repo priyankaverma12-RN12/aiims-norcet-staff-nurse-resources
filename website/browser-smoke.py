@@ -67,6 +67,7 @@ try:
         ready(page)
         expect(page.locator(".pyq-card").first).to_be_visible()
         expect(page.locator(".pyq-card").first.locator(".pyq-options li")).to_have_count(4)
+        expect(page.locator(".pyq-card").first.locator(".pyq-exam-source a")).to_be_visible()
         expect(page.locator(".pyq-card").first.locator(".pyq-explanation")).not_to_have_attribute("open","")
         page.locator(".pyq-card").first.locator(".pyq-explanation summary").click()
         expect(page.locator(".pyq-card").first.locator(".pyq-source-links a.video-link").first).to_be_visible()
