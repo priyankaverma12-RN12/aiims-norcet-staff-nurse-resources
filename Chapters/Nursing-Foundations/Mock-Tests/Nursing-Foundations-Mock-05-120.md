@@ -894,9 +894,8 @@ New neurological symptoms device-related compression ka sign ho sakte hain. Nurs
 
 ### Q43. Which care plan statement describes an intervention rather than an outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -1876,9 +1875,8 @@ Fever ke saath neck stiffness aur confusion serious CNS infection ya other emerg
 
 ### Q89. Four patients need assistance. Which patient should the nurse assess first?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical scenario · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -2098,9 +2096,8 @@ Different investigations ki preparation different hoti hai. Nurse procedure-spec
 
 ### Q99. Which outcome is best suited to evaluation of a pressure injury prevention plan?
 
-**Difficulty:** Medium | **Priority:** Medium
 <!-- job4-metadata -->
-**🟡 Medium** | **🟡 IMPORTANT** | Clinical application · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
 <!-- /job4-metadata -->
 
 
@@ -2343,9 +2340,8 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 
 ### Q110. A postoperative patient has pain despite the prescribed intervention and no new emergency findings. Which next step is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical application · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application
 <!-- /job4-metadata -->
 
 
