@@ -1,9 +1,9 @@
 # Job 4 — metadata-only checkpoint
 
-State: FREE
-Owner: none
-Scope: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job4-20261127-043232-highlight
+Scope: Nursing Foundations group 02 reported evidence formatting and mapped topic video only
+Expiry UTC: 2026-11-27T05:02:32Z
 
 Start: Nursing Foundations, first MCQ file 01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md. Follow full chapter index order. No question or concept wording changes. Both writer claims must be checked before edits. Initial research confirmed third-party AIIMS Jodhpur 10 Dec 2019 memory-based assessment question and GMCH 29 June 2025 assessment-data diagnosis question, not official keys. Source URLs in chapter Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md. OpenStax nursing process reference opened. Existing priority colors retained. Pending: all learner-facing file metadata edits and detailed evidence mapping. Rules commits a61a079f3165c2eaf29662bc05625427ded88420 and 6dd5a643676960297092bf0977e1e5aa2e2b067b.
 
@@ -69,3 +69,7 @@ All seven files read back exactly and comparison after stripping changed label r
 - Communication/documentation reported evidence: two existing adaptations normalized; duplicate NVS and RRB links removed from added metadata only, original links and evidence qualifiers retained. Commit 27342c4556aaf51a6034dfe2f36cf692d9934a29.
 - Both files read back exactly; non-metadata text unchanged byte-for-byte. Four previously tagged reported adaptations polished; three redundant link copies removed, no unique source removed, no newly tagged questions. Cumulative 150/150 previously tagged original MCQs and 20/20 previously tagged mock slots cleaned; four/four previously tagged adaptations normalized. Fifteen concept sections remain for UI cleanup. Reopened Testbook AIIMS Jodhpur 10 Dec 2019 assessment, GMCH 29 Jun 2025 assessment data, NVS Sep 2019 reflection/clarification and RRB 12 Mar 2026 shift I documentation question pages and inspected reported exam metadata and content. Third-party evidence only; no new official key authentication or exact match claims. Rendered GitHub UI not visually inspected.
 - Initial claim write hit concurrent head conflict; refreshed all claims and acquired verified non-overlapping scope. Subsequent 01B concept write hit GitHub 409 concurrent head change; stopped learner-file writes as required, refetched target: old priority present true, new topic priority present false. Next: 01B clinical judgment topic priority consolidation and subsection labels; 01A, 02A/B/C topic-priority colorization, subsection labels and redundant punctuation/links as appropriate; then group 02 mock slots with single-row format. Do not duplicate counts or change original study text. Claim released.
+
+
+## Learner refinement — highlighted exam labels and question-mapped YouTube references
+Both skills updated and read back: root 66b67c1c5a45dfde23aca06ce8a167ad12682dc2; canonical 1ac9880746f4024270689b8a91e18052267c487a. Use bold colored-emoji exam names, distinguish authenticated exact (green), reported recall (blue), related concept (purple), unverified pending. Keep one row, preserve existing source links, add question-specific video links only when verified; topic practice links explicitly qualified, exact timestamps only when confirmed. Apply all packages, all jobs; retrofit previous batches without duplication. Continue pending concept UI and group 02 mock work after initial highlighted example. No invented historical or video evidence.
