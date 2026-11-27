@@ -7,6 +7,10 @@
 ### Q1. A nurse begins an SBAR call about an abrupt change in a patient's condition. What belongs in Situation?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A complete list of every possible differential diagnosis
 - **B.** Only the eventual discharge plan
@@ -25,11 +29,21 @@
 - **B.** Current urgent concern is missing.
 - **D.** Relevant history belongs mainly in Background.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. During SBAR communication, which information best belongs in Background?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** A closing confirmation from the receiver
 - **B.** Relevant diagnosis, recent procedure and treatment history that explain the current concern
@@ -48,11 +62,21 @@
 - **C.** Recommendation or request hai.
 - **D.** Assessment component hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. A nurse reports an important current finding and states concern about the patient's deteriorating condition. Which SBAR component is this?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assessment
 - **B.** Background only
@@ -71,11 +95,21 @@
 - **C.** Recommendation states requested action.
 - **D.** Situation briefly introduces immediate issue.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. Which statement best demonstrates a clear action request during urgent team communication?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** I thought I should mention something sometime.
 - **B.** The chart contains more information if you want it.
@@ -94,11 +128,21 @@
 - **B.** Recipient needs focused relevant message.
 - **C.** Unresolved concern can remain dangerous.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. A clinician asks the nurse to repeat a communicated numerical result and then confirms it is correct. Which communication mechanism is demonstrated?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Silent acknowledgment without content confirmation
 - **B.** Check-back or closed-loop verification
@@ -117,11 +161,21 @@
 - **C.** Receiver repeats and sender confirms, so loop closes.
 - **D.** This is staff-to-staff message verification.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A nurse repeats an instruction incorrectly during a check-back. What should the sender do?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Correct the misunderstanding and request renewed confirmation
 - **B.** Accept the response because repetition occurred
@@ -140,11 +194,21 @@
 - **C.** False assurance hai.
 - **D.** Shared understanding establish nahi hogi.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. During a rapidly evolving team emergency, one nurse announces a critical observation aloud so the entire responding team is aware. Which TeamSTEPPS communication tool is most closely represented?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Private written discharge summary
 - **B.** Routine one-to-one counselling
@@ -163,11 +227,21 @@
 - **B.** Not a team-wide emergency message.
 - **C.** Documentation format hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. A team leader assigns a specific urgent task to a staff member by role or name. Why should the recipient acknowledge the assignment?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** To eliminate need for later outcome communication
 - **B.** To make documentation unnecessary
@@ -186,11 +260,21 @@
 - **B.** Appropriate record and communication remain required.
 - **D.** Task assignment and overall clinical accountability differ.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. Which component of I-PASS indicates how clinically stable or unstable the patient is?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Illness severity
 - **B.** Action list
@@ -209,11 +293,21 @@
 - **C.** Receiver summarizes understanding.
 - **D.** Clinical course and context describe karta hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. In I-PASS, which information belongs mainly in the Action list?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** The patient's entire childhood history
 - **B.** A general statement that the patient is stable without tasks
@@ -232,11 +326,21 @@
 - **B.** Illness severity describes status.
 - **C.** Synthesis by receiver hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Which handover statement best demonstrates situation awareness and contingency planning?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Read the notes if any problem occurs.
 - **B.** Wait for the outgoing nurse to return before acting.
@@ -255,11 +359,21 @@
 - **B.** Receiving team needs clear current responsibility.
 - **D.** Clinical status can change.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. Why is synthesis by the receiver included in I-PASS handover?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** It makes sender clarification unnecessary
 - **B.** It allows the receiving clinician to confirm understanding and clarify responsibilities
@@ -278,11 +392,21 @@
 - **C.** Handover aims shared understanding.
 - **D.** Documentation remains important.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A nurse hands over a patient with an ongoing infusion. Which information is most important to verify at the transition?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Only the color of the infusion label
 - **B.** The pump's purchase date without current settings
@@ -301,11 +425,21 @@
 - **B.** Current therapy safety is priority.
 - **C.** Not patient-specific information.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A patient is moving to another unit and has an active isolation requirement. What is the correct handover principle?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Discontinue precautions solely because location changes
 - **B.** Avoid telling receiving staff to protect confidentiality
@@ -324,11 +458,21 @@
 - **B.** Authorized care communication of relevant precautions is appropriate.
 - **D.** Exposure and care delays possible hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. An outgoing nurse reports that a patient has an allergy, but the exact reaction is unclear. What should the receiving nurse do?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Avoid communicating it until a reaction occurs
 - **B.** Clarify the documented allergen and reaction history, and verify relevant records before exposure to the agent
@@ -347,11 +491,21 @@
 - **C.** Uncertain history should be reviewed, not silently removed.
 - **D.** Reaction type and severity differ.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. During transfer, a patient carries an order for restricted oral intake that is absent from the receiving unit's summary. Which action is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Resolve the discrepancy with current authorized orders and communicate the confirmed restriction
 - **B.** Offer food based only on the routine ward schedule
@@ -370,11 +524,21 @@
 - **C.** Patient-specific orders matter.
 - **D.** Unnecessary restriction can also harm care.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A shift handover is repeatedly interrupted by unrelated nonurgent requests. Which system improvement best protects communication quality?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Omit unstable patients to shorten the handover
 - **B.** Replace communication entirely with an unreviewed written list
@@ -393,11 +557,21 @@
 - **B.** Questions and transfer of responsibility still needed hain.
 - **D.** Immediate patient safety can require interruption.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A bedside handover includes information the patient has requested be discussed privately. What is the best approach?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Discuss the details in a public corridor instead
 - **B.** Respect privacy, clarify consent and communicate sensitive details through an appropriate private channel
@@ -416,11 +590,21 @@
 - **C.** Privacy request and context matter.
 - **D.** Authorized team needs safety information.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient notices a discrepancy during bedside handover about their usual mobility assistance. How should the team respond?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Acknowledge the input and verify the correct current assistance plan before care
 - **B.** Dismiss the patient because only staff can contribute to handover
@@ -439,11 +623,21 @@
 - **C.** Current safety needs require assessment.
 - **D.** Convenience is not safety evidence.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A nurse receives a nonurgent routine report by secure message, but the receiving clinician has not acknowledged a time-sensitive task. What is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Assume a sent message proves action will occur
 - **B.** Send repeated messages to unrelated staff accounts
@@ -462,11 +656,21 @@
 - **B.** Privacy and responsibility problems arise.
 - **C.** Actual completion has not occurred.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. An outgoing nurse is asked to hand over an unfamiliar patient immediately after receiving incomplete information. What is safest?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Copy an unrelated patient's handover template without checking it
 - **B.** Clearly state known facts and uncertainties, verify critical items and arrange follow-up ownership
@@ -485,11 +689,21 @@
 - **C.** Assumptions may create harmful errors.
 - **D.** Necessary transfer of relevant facts may be delayed.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A nurse has escalated a serious clinical concern but the initial recipient dismisses it despite persistent concerning findings. What is the safest next step?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Restate the concern with supporting evidence and use the approved further escalation pathway
 - **B.** Accept dismissal regardless of continued deterioration
@@ -508,11 +722,21 @@
 - **C.** Delay may increase harm.
 - **D.** Conflict may distract from urgent care.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A transfer summary includes a pending consultation but no identified person responsible for following it up. What should be corrected?
 
 **Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Leave responsibility implicit because every team member can read the record
 - **B.** Ask the patient to independently coordinate all clinical follow-up
@@ -531,11 +755,21 @@
 - **B.** Clinical responsibility should be explicit.
 - **C.** Important continuity information lost ho sakti hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#transfer-and-shift-safety) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A team conducts a short discussion before a planned complex procedure to clarify roles, resources and anticipated risks. Which teamwork activity is this?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Routine discharge counselling
 - **B.** A retrospective incident investigation
@@ -554,11 +788,21 @@
 - **B.** Occurs after an event, not planned preparation.
 - **D.** Debrief reviews performance afterward.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. During a shift, unexpected workload and patient deterioration change the unit's priorities. Which short team meeting is most appropriate to reassess the current plan?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Huddle
 - **B.** Orientation interview with a new patient
@@ -577,11 +821,21 @@
 - **C.** Not real-time adjustment.
 - **D.** Current situation requires timely replanning.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. After a difficult transfer, staff review what worked, what communication failed and how to improve next time. Which teamwork activity is demonstrated?
 
 **Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+<!-- /job4-metadata -->
+
 
 - **A.** Pre-procedure brief
 - **B.** Call-out of a current critical finding
@@ -600,5 +854,11 @@
 - **B.** Call-out immediate information exchange hai.
 - **C.** Different communication purpose hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice. Historical exam match not established. Verification pending.
+
+**Related study:** [Concept](../Concepts/02C-Clinical-Handover-and-Team-Communication.md#sbar-and-i-pass) · [AHRQ learning reference](https://www.ahrq.gov/teamstepps-program/resources/modules/index.html). Dedicated question-solving video verification pending.
+<!-- /job4-metadata -->
 </details>
 
