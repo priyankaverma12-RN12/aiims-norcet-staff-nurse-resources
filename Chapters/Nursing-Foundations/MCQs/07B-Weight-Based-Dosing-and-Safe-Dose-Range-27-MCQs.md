@@ -31,6 +31,8 @@ D. 60 mg and 60 mg
 
 **▶️ [Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description specifically lists pediatric dose calculation, exact item and playback pending.
 
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
+
 </details>
 
 ### Q2. A neonatal arithmetic exercise uses a measured weight of 2400 g and a fictional order of 5 mg/kg per dose. The solution contains 10 mg/mL. What volume is calculated?
@@ -59,6 +61,8 @@ D. 2.4 mL
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#weight-and-frequency) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
 **▶️ [Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description specifically lists pediatric dose calculation, exact item and playback pending.
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
 </details>
 
@@ -321,6 +325,8 @@ D. 98 mL
 
 **▶️ [Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description specifically lists pediatric dose calculation, exact item and playback pending.
 
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
+
 </details>
 
 ### Q12. A simulated order specifies 25 micrograms/kg for a 32-kg patient. Stock concentration is 0.4 mg/mL. What volume contains the calculated dose?
@@ -349,6 +355,8 @@ D. 2 mL
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
 **▶️ [Ritika Mam drug-dose MCQ session](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — indexed description specifically lists pediatric dose calculation, exact item and playback pending.
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
 </details>
 
@@ -408,6 +416,8 @@ D. 75 mg
 
 **YouTube MCQ practice: specific verification pending.**
 
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related body surface area calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q15. In a nonclinical BSA exercise, height is 100 cm and weight is 25 kg. Using BSA = square root of (height in cm × weight in kg / 3600) and a dose of 60 mg per square meter, what dose results before rounding?
@@ -436,6 +446,8 @@ D. 83.3 mg
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#concentration-and-dosing-basis) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
 **YouTube MCQ practice: specific verification pending.**
+
+**▶️ [Numerical question practice — RegisteredNurseRN](https://www.youtube.com/watch?v=hnzZKY8SGbE)** — published description inspected 27 November 2026, explicitly covers related body surface area calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -726,6 +738,8 @@ D. From 0.84 mg to 0.84 mg
 [Concept](../Concepts/07B-Weight-Based-Dosing-and-Safe-Dose-Range.md#review-and-error-prevention) · [Open RN Math Calculations](https://www.ncbi.nlm.nih.gov/books/NBK593207/)
 
 **YouTube MCQ practice: specific verification pending.**
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
 </details>
 
