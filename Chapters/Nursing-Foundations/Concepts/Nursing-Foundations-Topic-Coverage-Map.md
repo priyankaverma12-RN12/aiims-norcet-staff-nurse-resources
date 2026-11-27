@@ -122,8 +122,10 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 
 - [Peripheral IV access and maintenance](08A-Peripheral-IV-Access-and-Maintenance.md), 30 allocated (22 new + eight preserved). [Diagram](../Assets/08A-Peripheral-IV-Care-Pathway.svg) · [MCQs](../MCQs/08A-Peripheral-IV-Access-and-Maintenance-22-MCQs.md) · [Reported evidence](../Previous-Year-Questions/08A-Peripheral-IV-Reported-Evidence.md).
 
-Group 08 legacy allocation (20 IDs exactly once): 08A Q4,5,6,7,13,14,17,18 (8); 08B complications and compatibility Q1,2,3,8,15 (5 allocated); 08C central access Q11,12 (2 reserved); Group 07C infusion delivery cross-reference Q10,16,20 (3, no new credit); Group 22 blood transfusion and fluid balance Q9,19 (2 reserved). These are allocation decisions, not additional new authorship. Q12–13 of Group 07 remain reserved for Group 22. Cross-chapter IPC Group 28 referenced, not counted.
+Group 08 legacy allocation (20 IDs exactly once): 08A Q4,5,6,7,13,14,17,18 (8); 08B complications and compatibility Q1,2,3,8,15 (5 allocated); 08C central access Q11,12 (2 allocated); Group 07C infusion delivery cross-reference Q10,16,20 (3, no new credit); Group 22 blood transfusion and fluid balance Q9,19 (2 reserved). These are allocation decisions, not additional new authorship. Q12–13 of Group 07 remain reserved for Group 22. Cross-chapter IPC Group 28 referenced, not counted.
 
 - [IV complications and compatibility](08B-IV-Complications-and-Compatibility.md), 30 allocated (25 new + five preserved). [Diagram](../Assets/08B-IV-Complication-Response.svg) · [MCQs](../MCQs/08B-IV-Complications-and-Compatibility-25-MCQs.md) · [Reported evidence](../Previous-Year-Questions/08B-IV-Complications-Reported-Evidence.md).
 
-Next: Group 08C central venous access. Full clinical and semantic audit pending.
+- [Central venous access](08C-Central-Venous-Access.md) mein 28 naye aur do purane questions milakar 30 allocate hue hain. [Diagram](../Assets/08C-Central-Access-Devices.svg) · [MCQs](../MCQs/08C-Central-Venous-Access-28-MCQs.md) · [Reported evidence](../Previous-Year-Questions/08C-Central-Access-Reported-Evidence.md).
+
+Ab Group 09 urinary elimination aur catheter care ke individual topics cover karne hain. Full clinical aur semantic audit abhi baaki hai.
