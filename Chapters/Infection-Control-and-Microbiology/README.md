@@ -1,13 +1,13 @@
 # Infection Control and Microbiology
 
-**In progress, not studied.** Eighteen of 30 defined topic groups now contain 40 new original MCQs each. Four earlier starter questions remain separately preserved. No full chapter mock is claimed yet.
+**In progress, not studied.** Twenty of 30 defined topic groups now contain 40 new original MCQs each. Four earlier starter questions remain separately preserved. No full chapter mock is claimed yet.
 
 | Section | Open |
 |---|---|
-| Concepts and coverage | [Topic map](Concepts/Infection-Control-and-Microbiology-Topic-Coverage-Map.md) · [Transmission and bacterial growth notes](Concepts/06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md) · [Gram-positive bacteria](Concepts/09-Gram-Positive-Cocci-and-Bacilli.md) · [Gram-negative bacteria](Concepts/10-Gram-Negative-Cocci-and-Enteric-Bacilli.md) · [Nonfermenters](Concepts/11-Nonfermenters-and-Hospital-Bacterial-Pathogens.md) · [TB](Concepts/12-Mycobacteria-and-Tuberculosis.md) · [Anaerobes](Concepts/13-Anaerobes-and-Spore-Forming-Pathogens.md) · [Spirochetes and atypical bacteria](Concepts/14-Spirochetes-Atypical-Bacteria-and-Rickettsiae.md) · [Viral replication](Concepts/15-Viruses-and-Viral-Replication.md) · [Hepatitis and HIV](Concepts/16-Bloodborne-and-Hepatitis-Viruses-HIV.md) · [Respiratory and enteric viruses](Concepts/17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses.md) · [Mycology](Concepts/18-Medical-Mycology-and-Opportunistic-Fungi.md) |
-| Topic-wise original questions | [720 new MCQs](MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) |
+| Concepts and coverage | [Topic map](Concepts/Infection-Control-and-Microbiology-Topic-Coverage-Map.md) · [Transmission and bacterial growth notes](Concepts/06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md) · [Gram-positive bacteria](Concepts/09-Gram-Positive-Cocci-and-Bacilli.md) · [Gram-negative bacteria](Concepts/10-Gram-Negative-Cocci-and-Enteric-Bacilli.md) · [Nonfermenters](Concepts/11-Nonfermenters-and-Hospital-Bacterial-Pathogens.md) · [TB](Concepts/12-Mycobacteria-and-Tuberculosis.md) · [Anaerobes](Concepts/13-Anaerobes-and-Spore-Forming-Pathogens.md) · [Spirochetes and atypical bacteria](Concepts/14-Spirochetes-Atypical-Bacteria-and-Rickettsiae.md) · [Viral replication](Concepts/15-Viruses-and-Viral-Replication.md) · [Hepatitis and HIV](Concepts/16-Bloodborne-and-Hepatitis-Viruses-HIV.md) · [Respiratory and enteric viruses](Concepts/17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses.md) · [Mycology](Concepts/18-Medical-Mycology-and-Opportunistic-Fungi.md) · [Protozoa](Concepts/19-Protozoa-and-Malaria.md) · [Helminths](Concepts/20-Helminths-and-Intestinal-Parasites.md) |
+| Topic-wise original questions | [800 new MCQs](MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) — 0/10 |
-| Previous-year questions | [42 reported adaptations and 2 academic paper adaptations](Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md) |
+| Previous-year questions | [44 reported adaptations and 2 academic paper adaptations](Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md) |
 | Videos and sources | [Research guide](Concepts/Infection-Control-and-Microbiology-Video-and-Research-Guide.md) |
 
-Next: Protozoa and malaria. Detailed concepts, diagrams, ten complete mocks and expanded PYQ verification remain pending. [Full syllabus index](../NORCET-Full-Chapter-Index.md)
+Next: Innate and adaptive immunity. Detailed concepts, diagrams, ten complete mocks and expanded PYQ verification remain pending. [Full syllabus index](../NORCET-Full-Chapter-Index.md)

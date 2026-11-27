@@ -56,8 +56,8 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 16. Bloodborne and hepatitis viruses, HIV — 40 original MCQs published
 - 17. Respiratory, enteric and vaccine-preventable viruses — 40 original MCQs published
 - 18. Medical mycology and opportunistic fungi — [40 original MCQs](../MCQs/18-Medical-Mycology-and-Opportunistic-Fungi-40-MCQs.md) and [concepts](18-Medical-Mycology-and-Opportunistic-Fungi.md)
-- 19. Protozoa and malaria — pending
-- 20. Helminths and intestinal parasites — pending
+- 19. Protozoa and malaria — 40 original MCQs published
+- 20. Helminths and intestinal parasites — 40 original MCQs published
 - 21. Innate and adaptive immunity — pending
 - 22. Immunoglobulins, complement and hypersensitivity — pending
 - 23. Vaccination, cold chain and passive immunization — pending

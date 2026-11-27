@@ -32,3 +32,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 [Three reported mycology and differential diagnosis exam adaptations](Mycology-Reported-Recruitment-PYQs.md). Retrieved third-party question pages, including two memory-based AIIMS items. Official keys not authenticated. Do not double-count the scabies differential in parasitology.
 
 **Current total: 42 reported recruitment adaptations (24 + 4 + 5 + 2 + 4 + 3).** Two academic-paper adaptations are separate.
+
+
+[Two malaria exam adaptations and provisional UPPSC helminth lead](19-20-Malaria-and-Helminths-Reported-PYQ-Adaptations.md). Official keys not authenticated. Provisional lead excluded from counts.

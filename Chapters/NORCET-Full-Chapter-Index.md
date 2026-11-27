@@ -244,3 +244,8 @@ Two additional distinct reported recruitment adaptations (HPSSC 2021 incubation 
 ### Continuation — medical mycology and opportunistic fungi
 
 40 original MCQs with 40 hidden answers, detailed concepts, a Mermaid diagram, two indexed concept videos, one uncertain MCQ video lead and three reported recruitment adaptations (NORCET 2022, AIIMS Bhubaneswar 2019, SGPGI 2024) published. Total 720 across 18/30 defined topic groups (329 Medium and 391 Difficult), 42 reported recruitment adaptations and two academic adaptations. Chapter mocks 0/10. Tracked global mocks 17/350 pending neurological reconciliation. Next: protozoa and malaria. Dedicated human mycology nursing MCQ video, full playback, official answer keys, individual-topic expansion and semantic duplicate audit remain pending.
+
+
+### Continuation — protozoa/malaria and helminths
+
+80 original MCQs across two sequential topics, two concept files with diagrams, two opened third-party reported malaria adaptations, provisional UPPSC helminth lead and indexed video resources. 800 across 20/30 groups, 44 reported and two academic adaptations. Dedicated helminth and nonmalaria protozoa MCQ videos, official keys, and cross-bank semantic audit pending. Next: innate and adaptive immunity. Chapter mocks 0/10, global tracked 17/350 pending inventory reconciliation.
