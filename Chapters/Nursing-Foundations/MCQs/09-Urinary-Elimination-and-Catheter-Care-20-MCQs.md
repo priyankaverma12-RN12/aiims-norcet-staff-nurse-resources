@@ -4,7 +4,7 @@
 
 ### Q1. Which is an appropriate indication for an indwelling urinary catheter?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Preventing every episode of nocturia
 - **B.** Acute urinary retention when catheterization is clinically indicated
@@ -36,7 +36,7 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 ### Q2. An indwelling catheter drainage bag is found above the level of the bladder. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Reposition the bag below bladder level and assess drainage
 - **B.** Keep it elevated to increase urine collection
@@ -68,7 +68,7 @@ Bladder urine ka storage organ hai aur drainage bag tak urine gravity se jaata h
 
 ### Q3. Why should a urinary drainage system normally remain closed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A closed system stops all urine flow
 - **B.** The bag must never be emptied under any circumstances
@@ -104,7 +104,7 @@ Closed system ka matlab hai ki catheter aur collecting tubing ka connection unne
 
 ### Q4. A catheterized patient has no urine in the bag for two hours and reports suprapubic discomfort. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Increase IV fluids regardless of fluid status
 - **B.** Assume the kidneys have permanently failed
@@ -136,7 +136,7 @@ Suprapubic discomfort ka matlab lower abdomen mein bladder ke upar dard ya press
 
 ### Q5. Which practice helps prevent urethral traction from an indwelling catheter?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Leave the heavy drainage bag hanging from the catheter
 - **B.** Tie the tubing to a moving bed rail with no slack
@@ -168,7 +168,7 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 ### Q6. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 NORCET 20 November 2021 Shift II — related reported concept](https://testbook.com/question-answer/a-patient-is-unconscious-nurse-is-going-to-take-th--65f82ec5c3d23f0c2a353e20)**
 
 - **A.** From fluid used to wash the patient's skin
 - **B.** From the designated sampling port using aseptic technique
@@ -199,7 +199,7 @@ Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urin
 
 ### Q7. Which approach is appropriate for routine meatal hygiene in a catheterized patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Provide routine hygiene and clean after soiling according to policy
 - **B.** Apply strong antiseptic repeatedly as a universal CAUTI prevention method
@@ -231,7 +231,7 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 
 ### Q8. A patient has an indwelling catheter solely because of a now-resolved short-term indication. What is the best next step?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Keep the catheter for the rest of admission automatically
 - **B.** Clamp it indefinitely to test bladder strength
@@ -263,7 +263,7 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 ### Q9. Which device can noninvasively estimate urine remaining in the bladder after voiding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Pulse oximeter
 - **B.** Glucometer
@@ -292,7 +292,7 @@ Postvoid residual ya PVR urine pass karne ke baad bladder mein bachi quantity ha
 
 ### Q10. A patient voids 100 mL and has a large postvoid residual on repeated bladder assessment. Which problem is suggested?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Anuria proven by the result
 - **B.** Excessive renal filtration proven by residual volume
@@ -321,7 +321,7 @@ Patient ne 100 mL urine pass kiya, lekin baar-baar scan par large PVR mil raha h
 
 ### Q11. Which instruction is appropriate for a midstream clean-catch urine specimen?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 BHU Staff Nurse 22 October 2019 — related reported concept](https://testbook.com/question-answer/what-is-the-recommended-protocol-for-collection-of--619ba7364edd34370063ddfb)**
 
 - **A.** Collect urine from the toilet bowl
 - **B.** Begin voiding, then collect the middle portion without touching the inside of the container
@@ -345,12 +345,12 @@ Clean-catch sample ka goal urine mein surrounding skin ke germs milne ka risk ka
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-1-urine-specimen).
 
-**YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — clean-catch urine collection, Med-Surg Tutor](https://www.youtube.com/watch?v=UCaIIc3GCko)** · 27 May 2025. Published description identifies 12 practice questions and clean-catch collection. Topic-level only, exact question and playback pending.
 </details>
 
 ### Q12. A timed 24-hour urine collection begins at 7 AM. What is the usual collection procedure?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Discard the initial 7 AM void, then collect all urine including the final 7 AM void next day
 - **B.** Collect the first void and stop before the final scheduled void
@@ -379,7 +379,7 @@ Timed collection ka purpose ek fixed 24-hour interval mein excreted substance me
 
 ### Q13. A urinary drainage bag needs emptying. Which technique reduces cross-contamination?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Use a separate clean collection container and avoid outlet contact with the container
 - **B.** Touch the drainage outlet to the shared measuring jug
@@ -411,7 +411,7 @@ Bag empty karte waqt outlet aur collection container ke beech direct contact se 
 
 ### Q14. A catheterized patient develops fever and new flank pain. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Diagnose infection solely from cloudy urine
 - **B.** Automatically start an unprescribed antibiotic
@@ -440,7 +440,7 @@ Flank pain side ya back mein kidney ke area ka dard hai. Catheterized patient me
 
 ### Q15. What does intermittent catheterization mean?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A catheter is inserted into the ureter through the skin in every case
 - **B.** The patient never empties the bladder
@@ -472,7 +472,7 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 
 ### Q16. During catheter insertion a patient experiences severe pain and marked resistance. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Use a larger catheter automatically
 - **B.** Stop advancing and seek appropriate clinical assistance
@@ -504,7 +504,7 @@ Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethra
 
 ### Q17. Before inflating an indwelling urinary catheter balloon, what must be confirmed?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 2023 NORCET/CRE compilation Q28 — related reported concept, precise exam unverified](https://mcqzone.in/staff-nurse-norcet-aiims-previous-questions-2023/)**
 
 - **A.** That the drainage bag has already been disconnected
 - **B.** Correct bladder placement according to the insertion protocol
@@ -528,7 +528,7 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/19-4-nursing-management-of-elimination).
 
-**YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — Foley catheter insertion, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=3944s)** · Published question chapter 1:05:44, 24 November 2024. Topic-level insertion steps only, exact balloon-confirmation item and playback pending.
 
 **Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
@@ -536,7 +536,7 @@ Foley balloon ek chhota retaining balloon hai jo bladder ke andar inflated rehka
 
 ### Q18. Which intervention supports dignity for a patient who needs help using a bedpan?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Provide privacy, explain the procedure and ensure timely assistance
 - **B.** Leave the door open without consent
@@ -565,7 +565,7 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 
 ### Q19. A patient with functional incontinence can sense bladder fullness but cannot reach the toilet in time due to limited mobility. Which plan addresses the main problem?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assume permanent loss of bladder sensation
 - **B.** Insert an indwelling catheter routinely without reviewing alternatives
@@ -594,7 +594,7 @@ Functional incontinence mein patient ko bladder fullness ka pata ho sakta hai, l
 
 ### Q20. A postoperative patient has low urine output despite a patent catheter. Which assessment is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Give a large unprescribed fluid bolus to every patient
 - **B.** Document normal output without measuring
@@ -625,3 +625,11 @@ Patent catheter ka matlab hai drainage pathway open hai. Phir bhi low urine outp
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [OpenStax medication administration](https://openstax.org/books/fundamentals-nursing/pages/11-3-the-medication-administration-process) · [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
 
 Follow facility protocols, current orders and professional scope.
+
+
+## 📜 Historical and video evidence recheck — 27 November 2026
+
+- Q6: NORCET 2021 Shift II reported catheter specimen item retrieved. Older source wording about needle aspiration must not be used as a recommendation to puncture ordinary tubing. Use the disinfected designed sampling port and approved device as described by [CDC CAUTI recommendations, III.U.1](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). No official key authenticated.
+- Q11: BHU 2019 report retrieved, tests midstream collection. Timing depends on the ordered specimen. Q17: third-party combined 2023 NORCET/CRE collection, Q28, tests insertion sequence. Precise exam attribution and official key remain unverified. Its specific cleansing/lubricant choices are not universal. No new adaptation counted.
+- HPRCA post code 26004 official final-key listing indexed. Direct key link failed. March 21 Shift I catheter-infection report indexed, direct page failed. March 20 transcript had no catheter match. DSSSB August 2024 securement lead indexed, direct source failed. These are not verified historical labels.
+- Q11 and Q17 now have qualified topic-level practice links. Nurses Pro general catheterization practice leads retained but not counted as specific matches. Other 18 scenario-level practice gaps remain. [Nurse Educator Collective urinary elimination lecture](https://www.youtube.com/watch?v=WPvnLkdU5MU) is supplementary teaching only. Exact question playback and transcripts not verified.
