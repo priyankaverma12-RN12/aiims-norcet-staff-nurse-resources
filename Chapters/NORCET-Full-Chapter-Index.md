@@ -269,3 +269,8 @@ Current chapter inventory verified at 800 question slots across 20/30 topic grou
 ### Continuation — vaccination and cold chain
 
 40 original MCQs with hidden rationales, concept guide and diagram, three indexed video resources (two with retrieved channel attribution), one retrieved OSSSC 2021 question adaptation and provisional source leads. Total 920 across 23/30 defined topic groups (425 Medium and 495 Difficult), 49 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10 and global tracked mocks 17/350 pending reconciliation. Next: specimen collection and diagnostic microbiology. Official keys, full playback, individual-topic expansion and semantic duplicate audit remain pending.
+
+
+### Continuation — specimen collection and diagnostic microbiology
+
+40 original MCQs with hidden rationales, concept guide and diagram, three indexed videos with channel attribution and one retrieved OSSSC 2021 exam adaptation. Total 960 across 24/30 defined topic groups (447 Medium and 513 Difficult), 50 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, global tracked mocks 17/350 pending reconciliation. Next: antimicrobial resistance and stewardship. Official keys, full playback, individual-topic expansion and semantic duplicate audit remain pending.
