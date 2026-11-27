@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-01A-draft-run3
-Scope: Read-only chapter audit and separate Group 01A explanation draft
+Scope: Read-only chapter audit and separate Group 01A and 01B explanation drafts
 Claimed UTC: 2026-11-27T04:49:43.750Z
 Expiry UTC: 2026-11-27T05:19:43.750Z
 
