@@ -60,7 +60,7 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 20. Helminths and intestinal parasites — 40 original MCQs published
 - 21. Innate and adaptive immunity — 40 original MCQs published
 - 22. Immunoglobulins, complement and hypersensitivity — 40 original MCQs published
-- 23. Vaccination, cold chain and passive immunization — pending
+- 23. Vaccination, cold chain and passive immunization — [40 original MCQs](../MCQs/23-Vaccination-Cold-Chain-and-Passive-Immunization-40-MCQs.md) and [concepts](23-Vaccination-Cold-Chain-and-Passive-Immunization.md)
 - 24. Specimen collection and diagnostic microbiology — pending
 - 25. Antimicrobial resistance and stewardship — pending
 - 26. HAI prevention and surveillance definitions — pending
