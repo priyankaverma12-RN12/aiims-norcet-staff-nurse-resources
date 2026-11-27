@@ -16,10 +16,14 @@ D. Remove contact precautions during the reassessment
 
 **Correct answer: B. Reassess at the clinically appropriate time using required precautions**
 
-- **A (Incorrect):** Patient help request na bhi kare toh inadequate relief ya adverse effects ho sakte hain.
-- **B (Correct):** Pain treatment ki response timely assess karna zaroori hai. PPE use karke clinical interval maintain karo, supply concern separately resolve karo.
-- **C (Incorrect):** Discharge assessment current response capture nahi karega.
-- **D (Incorrect):** Pain reassessment ke liye indicated precautions remove nahi karte.
+- **A (Incorrect):** Patient request na kare toh bhi pain relief insufficient ho sakta hai. Sedation ya confusion ki wajah se patient khud help nahi maang paata.
+- **B (Correct):** Analgesia ke baad response aur adverse effects ko drug, route aur patient condition ke according timely assess karna hota hai. Required PPE pehenkar reassessment karo. Gown shortage ko supervisor ke saath address karo, clinical care ko delay mat karo.
+- **C (Incorrect):** Discharge tak wait karne se current pain control aur medicine-related problems detect nahi hongi.
+- **D (Incorrect):** Contact precautions ka purpose transmission reduce karna hai. Reassessment ke liye indicated precautions remove nahi karte.
+
+**Exam clue:** Isolation does not change clinically required reassessment timing.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -41,10 +45,14 @@ D. Arrange timely protected assistance and verify actual intake
 
 **Correct answer: D. Arrange timely protected assistance and verify actual intake**
 
-- **A (Incorrect):** Food type change assistance need automatically solve nahi karta.
-- **B (Incorrect):** Delivered tray consumed meal ke equal nahi hai.
-- **C (Incorrect):** Skipping meals nutritional harm cause kar sakta hai.
-- **D (Correct):** Required precautions follow karke feeding support do and actual intake assess karo.
+- **A (Incorrect):** Utensil-free food kuch patients ki help kar sakta hai, lekin swallowing, weakness aur feeding assistance needs ka assessment phir bhi chahiye.
+- **B (Incorrect):** Tray delivery se actual consumption confirm nahi hota. Patient ko khane mein help na mile toh intake inadequate reh sakta hai.
+- **C (Incorrect):** Meals skip karne se malnutrition, dehydration aur recovery delay ka risk badhta hai.
+- **D (Correct):** Required PPE aur hand hygiene ke saath timely feeding assistance arrange karo. Actual food aur fluid intake assess aur document karo, aur swallowing safety needs follow karo. Isolation ke karan essential nutrition care miss nahi honi chahiye.
+
+**Exam clue:** Delivered meal is not the same as consumed meal.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -66,10 +74,14 @@ D. Stop repositioning until transmission risk resolves
 
 **Correct answer: A. Plan efficient visits while preserving individualized repositioning and assessment intervals**
 
-- **A (Correct):** Tasks cluster kar sakte hain but pressure injury prevention aur monitoring intervals maintain karna essential hai.
-- **B (Incorrect):** Family support trained nursing accountability replace nahi karta.
-- **C (Incorrect):** Fixed visit frequency patient-specific needs ignore karti hai.
-- **D (Incorrect):** Immobility complications isolation ke dauran bhi develop ho sakti hain.
+- **A (Correct):** Care tasks ko cluster karna exposure aur unnecessary entries kam kar sakta hai, lekin patient-specific repositioning aur assessment intervals preserve karo. Weakness aur immobility se pressure injury, discomfort aur functional decline ka risk badhta hai. Skin condition, support surface aur mobility ke according plan banao.
+- **B (Incorrect):** Family caregiver support useful ho sakta hai, lekin trained assessment aur nursing responsibility unko transfer nahi karte.
+- **C (Incorrect):** One fixed visit per shift patient ki changing risk aur immediate needs ignore karti hai.
+- **D (Incorrect):** Repositioning stop karne se prolonged pressure aur immobility-related complications ho sakti hain.
+
+**Exam clue:** Cluster care without delaying essential interventions.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -91,10 +103,14 @@ D. Wait for the next routine round
 
 **Correct answer: C. Check the call system is accessible and working and establish a reliable response plan**
 
-- **A (Incorrect):** Door position pathogen-specific containment requirements follow karna chahiye.
-- **B (Incorrect):** Shouting unreliable aur tiring ho sakta hai.
-- **C (Correct):** Accessible functioning call bell and timely response patient safety maintain karte hain.
-- **D (Incorrect):** Assistance delay falls aur unmet needs cause kar sakta hai.
+- **A (Incorrect):** Door ko open rakhna airborne containment ya facility-specific placement requirements compromise kar sakta hai. Door policy pehle verify karo.
+- **B (Incorrect):** Shouting weak patient ke liye tiring aur unreliable ho sakta hai. Staff tak timely signal pahunchna guaranteed nahi hai.
+- **C (Correct):** Call bell ko patient ki reach mein rakho, function test karo aur patient ko use demonstrate karne do. Team ko response plan batao aur zaroorat ke according scheduled checks arrange karo. Isse isolation room mein unmet needs aur unsafe self-mobilization ka risk kam hota hai.
+- **D (Incorrect):** Routine round ka wait urgent toileting, pain ya deterioration ki assistance delay kar sakta hai.
+
+**Exam clue:** Accessible call system plus reliable response is essential.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -116,10 +132,14 @@ D. Move the patient to a crowded communal space without reviewing risk
 
 **Correct answer: C. Provide suitable clock and calendar cues, regular reorientation and usual day-night routines**
 
-- **A (Incorrect):** Limited interaction orientation needs neglect karti hai.
-- **B (Incorrect):** Constant darkness normal day-night cues disturb karti hai.
-- **C (Correct):** Orientation cues and interaction confusion risk reduce karne mein help karte hain. Required precautions continue rakho.
-- **D (Incorrect):** Unreviewed relocation transmission risk create kar sakti hai.
+- **A (Incorrect):** Sirf medication times par conversation se orientation aur psychological support inadequate ho sakta hai.
+- **B (Incorrect):** Din bhar darkness normal sleep-wake cues disturb kar sakti hai aur confusion badha sakti hai.
+- **C (Correct):** Visible clock, calendar, daytime light aur regular simple reorientation se patient ko time aur place samajhne mein help milti hai. Night sleep protect karo aur sensory aids, hydration aur mobility needs assess karo. Required transmission precautions continue rakho.
+- **D (Incorrect):** Crowded area mein bina risk review shift karne se infection spread ho sakta hai.
+
+**Exam clue:** Delirium prevention needs orientation, mobility and sleep support.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg103/chapter/Recommendations)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -141,10 +161,14 @@ D. Remove the mobility goal from the care plan
 
 **Correct answer: B. Arrange safe prescribed movement within the room or other approved setting**
 
-- **A (Incorrect):** Isolation bed rest ka indication nahi hai.
-- **B (Correct):** Mobility plan ko transmission precautions ke saath adapt karo to preserve function and safety.
-- **C (Incorrect):** Unrestricted corridor movement transmission risk create kar sakti hai.
-- **D (Incorrect):** Mobility need continue rehti hai, plan modify karo rather than abandon.
+- **A (Incorrect):** Isolation infection transmission control ke liye hai, automatic bed-rest order nahi. Unnecessary immobility muscle weakness aur thrombosis risk badha sakti hai.
+- **B (Correct):** Prescribed mobility level ke according room mein ya approved area mein safe activity arrange karo. Falls risk, assistance aur equipment needs assess karo aur precautions maintain rakho. Physiotherapy team se coordinate karo.
+- **C (Incorrect):** Unsupervised corridor movement se patient fall ya infection transmission risk create ho sakta hai.
+- **D (Incorrect):** Mobility goal remove karne se functional recovery neglect hogi. Plan ko safe setting ke according adapt karo.
+
+**Exam clue:** Isolation is not an indication for immobility.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -166,10 +190,14 @@ D. Continue routine care without explanation
 
 **Correct answer: A. Use accessible written or approved communication aids and confirm understanding while retaining protection**
 
-- **A (Correct):** Accessible communication se patient participate kar sakta hai without sacrificing infection control.
-- **B (Incorrect):** Untrained interpretation clinical misunderstanding cause kar sakti hai.
-- **C (Incorrect):** Required PPE remove karna exposure risk create karta hai.
-- **D (Incorrect):** Explanation omit karna consent and safety compromise karta hai.
+- **A (Correct):** Patient ki communication preference assess karo aur accessible written information, hearing aid, approved visual aid ya qualified interpreter arrange karo. Teach-back se understanding confirm karo. Required mask ya respirator ko retain karke informed participation support karo.
+- **B (Incorrect):** Visitor clinical instructions accurately interpret kar paaye yeh assume nahi karna chahiye. Consent aur confidentiality bhi consider karo.
+- **C (Incorrect):** Close range mein required respiratory PPE remove karne se worker aur patient exposure badh sakta hai.
+- **D (Incorrect):** Explanation ke bina patient instructions, consent aur safety decisions samajh nahi paayega.
+
+**Exam clue:** Adapt communication, not required protection.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -191,10 +219,14 @@ D. Explain the clinical reason for precautions and invite the patient to discuss
 
 **Correct answer: D. Explain the clinical reason for precautions and invite the patient to discuss concerns**
 
-- **A (Incorrect):** Isolation punishment nahi hai, blaming stigma badhata hai.
-- **B (Incorrect):** Unknown duration ka promise misleading hai.
-- **C (Incorrect):** Concern ignore karne se anxiety persist ho sakti hai.
-- **D (Correct):** Simple explanation aur questions se rationale understand karna aur distress reduce karna possible hai.
+- **A (Incorrect):** Isolation ko penalty batana inaccurate hai aur stigma badha sakta hai.
+- **B (Incorrect):** Precaution duration pathogen, symptoms aur clinical criteria par depend karti hai. Bina review fixed date promise nahi karo.
+- **C (Incorrect):** Topic avoid karne se patient ka guilt aur anxiety remain ho sakti hai.
+- **D (Correct):** Simple words mein samjhao ki precautions microorganisms ko doosron tak spread hone se rokne ke liye hain, punishment nahi hain. Expected care, communication aur review process explain karo aur patient ke questions invite karo.
+
+**Exam clue:** Explain clinical purpose without blame or false promises.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -216,10 +248,14 @@ D. End isolation without clinical review
 
 **Correct answer: B. Assess mood, unmet needs and safety, and plan meaningful contact within the required precautions**
 
-- **A (Incorrect):** Silence well-being prove nahi karti.
-- **B (Correct):** Withdrawal possible distress ya unmet need ka sign hai. Nursing assessment aur individualized support zaroori hai.
-- **C (Incorrect):** Further reduced contact distress worsen kar sakta hai.
-- **D (Incorrect):** Precautions stop karne ka decision transmission risk aur policy par depend karta hai.
+- **A (Incorrect):** Silence se coping confirm nahi hoti. Patient pain, anxiety, depression ya hypoactive delirium ki wajah se withdrawn ho sakta hai.
+- **B (Correct):** Mood, orientation, sleep, pain, nutrition, safety aur unmet care needs assess karo. Meaningful regular contact arrange karo aur concerning changes clinical team ko escalate karo. Precautions maintain karte hue patient ko support do.
+- **C (Incorrect):** Visits aur kam karne se loneliness aur missed care worsen ho sakti hai.
+- **D (Incorrect):** Isolation discontinuation disease-specific criteria aur authorized review se decide hoti hai, withdrawal alone se nahi.
+
+**Exam clue:** Withdrawal is a cue to assess, not a reason to reduce contact.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg103/chapter/Recommendations)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -241,10 +277,14 @@ D. Advise the patient to avoid all social contact until discharge
 
 **Correct answer: C. Facilitate a safe telephone or video contact according to patient preference and privacy**
 
-- **A (Incorrect):** Visiting restrictions clinically justified ho sakti hain.
-- **B (Incorrect):** Public disclosure confidentiality compromise karti hai.
-- **C (Correct):** Remote communication social connection maintain kar sakti hai while required precautions continue.
-- **D (Incorrect):** Unnecessary social disconnection loneliness worsen kar sakti hai.
+- **A (Incorrect):** Unrestricted access vulnerable patients aur visitors ko infection exposure de sakta hai. Visiting risk assess karna zaroori hai.
+- **B (Incorrect):** Patient ki permission ke bina clinical details publicly share karna confidentiality compromise karta hai.
+- **C (Correct):** Patient preference ke according phone ya video call facilitate karo, device cleaning aur privacy arrange karo. Remote contact se social support maintain ho sakta hai jab in-person visiting limited ho.
+- **D (Incorrect):** All social contact avoid karna unnecessary isolation aur distress badha sakta hai.
+
+**Exam clue:** Maintain safe social connection and confidentiality.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -266,10 +306,14 @@ D. Transfer all nursing duties to the parent
 
 **Correct answer: A. Assess the parent's exposure risk and facility rules, then enable safe involvement where feasible**
 
-- **A (Correct):** Risk-based education and safe participation child support aur IPC balance karte hain.
-- **B (Incorrect):** Family caregiver transmission risk se exempt nahi hai.
-- **C (Incorrect):** Automatic exclusion child and family needs ignore kar sakta hai.
-- **D (Incorrect):** Nursing assessment and accountability parent ko transfer nahi karte.
+- **A (Correct):** Child ke emotional support aur caregiver exposure risk dono assess karo. Parent ko hand hygiene, required PPE aur movement restrictions samjhao, phir local policy ke according safe involvement arrange karo. Clinical accountability nursing team ke paas rahegi.
+- **B (Incorrect):** Family members bhi organisms acquire aur transmit kar sakte hain. Required protection ignore nahi karte.
+- **C (Incorrect):** Automatic exclusion har child aur infection scenario ke liye necessary nahi hota. Risk-based review karo.
+- **D (Incorrect):** Parent support nursing assessment, medication safety aur professional accountability replace nahi karta.
+
+**Exam clue:** Family-centered pediatric care with risk-based protection.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#family-and-visitor-participation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -291,10 +335,14 @@ D. Ask them to contact staff for the other patient's needs and follow exit preca
 
 **Correct answer: D. Ask them to contact staff for the other patient's needs and follow exit precautions**
 
-- **A (Incorrect):** Direct movement cross-transmission create kar sakti hai.
-- **B (Incorrect):** Used protective equipment microorganisms carry kar sakta hai.
-- **C (Incorrect):** Visitors and caregivers bhi transmission contribute kar sakte hain.
-- **D (Correct):** Staff assistance arrange karo aur caregiver ko approved hygiene and exit steps follow karwao.
+- **A (Incorrect):** Directly doosre patient ke room mein jaane se contaminated hands ya clothing organisms transfer kar sakte hain.
+- **B (Incorrect):** Used PPE ko retain karke doosre patient ke contact mein jaana cross-contamination risk badhata hai.
+- **C (Incorrect):** Visitors aur caregivers bhi infectious organisms carry kar sakte hain, sirf staff nahi.
+- **D (Correct):** Caregiver ko doosre patient ke liye staff assistance request karne ko bolo. Required PPE removal, hand hygiene aur exit instructions supervise karo. Doosre room mein unauthorized direct care avoid karvao.
+
+**Exam clue:** Do not transfer contaminated PPE between patients.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#family-and-visitor-participation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -316,10 +364,14 @@ D. Ask the relative to visit all other patients first
 
 **Correct answer: A. Discuss a risk-assessed compassionate exception with the responsible team, including protective measures or safe alternatives**
 
-- **A (Correct):** Compassionate care aur exposure risks ko team ke saath balance karo. Exception automatic nahi hai and local rules apply.
-- **B (Incorrect):** End-of-life status other people ka exposure risk remove nahi karta.
-- **C (Incorrect):** Individual review appropriate alternatives identify kar sakti hai.
-- **D (Incorrect):** Other patient exposure increase karna unsafe hai.
+- **A (Correct):** End-of-life care mein emotional connection important hai, lekin symptomatic visitor se staff aur doosre vulnerable patients ko exposure ho sakta hai. Responsible team aur IPC staff ke saath compassionate exception review karo. Source control, appropriate PPE, safe route ya remote visit consider karo.
+- **B (Incorrect):** Dying patient ki condition doosre logon ke infection risk ko eliminate nahi karti.
+- **C (Incorrect):** Blanket refusal individual circumstances aur safe alternatives ko miss kar sakta hai. Exception guaranteed nahi hai.
+- **D (Incorrect):** Other patients ko pehle visit karwana potential respiratory transmission badha sakta hai.
+
+**Exam clue:** Compassionate exceptions require individualized risk review.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#family-and-visitor-participation) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
@@ -341,10 +393,12 @@ D. Tell the patient that the wound can never be examined
 
 **Correct answer: C. Explain why the covering limits exposure and arrange any necessary wound review with staff**
 
-- **A (Incorrect):** Uncontained drainage transmission risk badha sakti hai.
-- **B (Incorrect):** Visitor contact contamination cause kar sakta hai.
-- **C (Correct):** Covering ka purpose samjhao and trained staff se indicated wound assessment arrange karo.
-- **D (Incorrect):** Clinical wound examination still important hai.
+- **A (Incorrect):** Wound uncovered rakhne se infectious drainage surfaces, clothing ya visitors tak pahunch sakti hai.
+- **B (Incorrect):** Visitors ko dressing handle karne dena contamination aur wound disturbance create kar sakta hai.
+- **C (Correct):** Patient ko explain karo ki covering drainage contain karke environmental contamination reduce karti hai. Necessary wound inspection trained staff indicated precautions ke saath karein. Patient ko questions aur safe participation ka opportunity do.
+- **D (Incorrect):** Wound examination ko permanently prohibit karna clinical assessment aur healing review delay karega.
+
+**Exam clue:** Contain drainage while preserving indicated wound assessment.
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#family-and-visitor-participation) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -366,10 +420,12 @@ D. Remove contaminated PPE, perform hand hygiene and use appropriate clean prote
 
 **Correct answer: D. Remove contaminated PPE, perform hand hygiene and use appropriate clean protection at the destination according to policy**
 
-- **A (Incorrect):** Used gown corridor surfaces contaminate kar sakti hai.
-- **B (Incorrect):** Glove removal alone clothing contamination address nahi karti.
-- **C (Incorrect):** Necessary examination ko isolation end hone tak delay nahi karna chahiye.
-- **D (Correct):** Contact transport mein contaminated PPE removal and hand hygiene zaroori hain. Destination care ke liye appropriate clean PPE use karo.
+- **A (Incorrect):** Contaminated gown corridor, trolley handles aur other surfaces par microorganisms transfer kar sakti hai.
+- **B (Incorrect):** Sirf gloves remove karne se contaminated gown ka exposure risk resolve nahi hota.
+- **C (Incorrect):** Medically necessary examination isolation discontinue hone tak delay nahi karna chahiye.
+- **D (Correct):** Contaminated PPE ko appropriate exit step par remove karo aur hand hygiene perform karo. Patient ki infectious sites contain karo aur receiving department ko precautions communicate karo. Transport aur destination par task-specific clean PPE local policy ke according use karo.
+
+**Exam clue:** Contact transport: contain source, remove contaminated PPE, communicate.
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -391,10 +447,12 @@ D. Transport the patient through crowded areas without planning
 
 **Correct answer: B. Discuss portable imaging with the clinical team and arrange the required equipment processing**
 
-- **A (Incorrect):** Indicated diagnostic care cancel karna missed care create karta hai.
-- **B (Correct):** Bedside equivalent service unnecessary transport reduce kar sakti hai, equipment IPC bhi plan karo.
-- **C (Incorrect):** Imaging ke liye required precautions discontinue nahi karte.
-- **D (Incorrect):** Unplanned movement exposure risk badha sakti hai.
+- **A (Incorrect):** Isolation ke karan clinically indicated investigation cancel karna missed care aur diagnosis delay cause kar sakta hai.
+- **B (Correct):** Agar portable imaging diagnostically equivalent hai toh team se coordinate karke unnecessary transport avoid karo. Equipment aur staff ke required PPE, cleaning aur disinfection plan pehle arrange karo. Image quality aur clinical urgency compromise nahi honi chahiye.
+- **C (Incorrect):** Imaging procedure transmission precautions automatically discontinue nahi karta.
+- **D (Incorrect):** Crowded area mein unplanned movement se additional exposures aur delays ho sakte hain.
+
+**Exam clue:** Use equivalent bedside service when suitable, with equipment reprocessing.
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -416,10 +474,12 @@ D. Communicate the relevant infection risk and let the receiving team adapt prec
 
 **Correct answer: D. Communicate the relevant infection risk and let the receiving team adapt precautions to its setting and patient needs**
 
-- **A (Incorrect):** Transfer precautions indicated risk ke according continue rakho.
-- **B (Incorrect):** Hospital infrastructure har setting mein identical nahi hoti.
-- **C (Incorrect):** Clinical stability transmission risk exclude nahi karti.
-- **D (Correct):** Receiving setting ka design aur vulnerable residents matter karte hain. Appropriate communication se local risk-based plan possible hai.
+- **A (Incorrect):** Transfer ke during infection risk automatically disappear nahi hota. Indicated transport precautions continue karo.
+- **B (Incorrect):** Residential facility ka infrastructure aur resident needs acute hospital se different ho sakte hain. Same room plan blindly copy nahi karna chahiye.
+- **C (Incorrect):** Clinical stability se infectiousness ya colonization exclude nahi hoti. Receiving team ko relevant information chahiye.
+- **D (Correct):** Receiving facility ko pathogen, relevant transmission risk aur required precautions securely communicate karo. Transport team ko bhi inform karo. Receiving team local infrastructure aur vulnerable residents ke according suitable plan adapt karegi.
+
+**Exam clue:** Interfacility handover includes infection risk and precautions.
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -441,10 +501,14 @@ D. Advise the family to avoid all contact permanently
 
 **Correct answer: B. Explain the diagnosis-specific home precautions and clarify their duration with the treating team**
 
-- **A (Incorrect):** Indefinite PPE har infection mein required nahi hota.
-- **B (Correct):** Home environment and disease-specific transmission risk ke according advice do. Necessary precautions and follow-up clearly explain karo.
-- **C (Incorrect):** Some diseases require continued home measures, blanket reassurance unsafe hai.
-- **D (Incorrect):** Permanent separation unsupported aur harmful ho sakti hai.
+- **A (Incorrect):** Lifelong hospital PPE advice har diagnosis ke liye appropriate nahi hai. Unnecessary restriction family life affect kar sakti hai.
+- **B (Correct):** Home precautions pathogen aur household vulnerability ke according explain karo, jaise hand hygiene, source control ya specific cleaning as indicated. Treating team se duration aur stopping criteria clarify karo. Patient aur family ki understanding verify karo.
+- **C (Incorrect):** All home precautions immediately stop karna kuch infectious illnesses mein unsafe ho sakta hai.
+- **D (Incorrect):** Permanent separation generally unsupported hai aur emotional harm cause kar sakti hai.
+
+**Exam clue:** Home precautions are disease-specific, not automatically hospital-level.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#transfer-and-home-continuity) · [Clinical reference](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/patient-information-isolation-procedures)
 
@@ -466,10 +530,14 @@ D. Measure only the number of gowns used
 
 **Correct answer: A. Investigate workflow barriers and improve clinically required assessment completion while retaining indicated precautions**
 
-- **A (Correct):** Missed care ka cause identify karo, supplies and staffing review karke timely assessments restore karo.
-- **B (Incorrect):** Transmission-based precautions clinically indicated ho sakti hain.
-- **C (Incorrect):** Patient refusal assume karna actual system barrier hide karta hai.
-- **D (Incorrect):** Gown consumption actual assessment quality measure nahi karta.
+- **A (Correct):** Overdue assessments ke reasons investigate karo, jaise PPE availability, workload, entry workflow aur scheduling. Required precautions retain karke care process improve karo. Timely assessments aur patient outcomes ko remeasure karo aur case mix consider karo.
+- **B (Incorrect):** All isolation remove karne se transmission risk increase ho sakta hai. Care frequency improve karne ke liye clinically indicated precautions compromise nahi karte.
+- **C (Incorrect):** Patient refusal assume karne se system barriers hide ho sakte hain. Actual documented reasons assess karo.
+- **D (Incorrect):** Gown use resource measure hai, patient assessment completion ya quality ka direct proof nahi hai.
+
+**Exam clue:** Audit missed care and fix barriers without removing indicated precautions.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#quality-evaluation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -491,10 +559,14 @@ D. The absence of any visitor regardless of patient preference
 
 **Correct answer: C. Required precautions maintained, necessary care delivered and patient concerns addressed**
 
-- **A (Incorrect):** Sign count patient outcomes establish nahi karta.
-- **B (Incorrect):** Restriction duration alone appropriate care prove nahi karti.
-- **C (Correct):** IPC and patient-centered care dono evaluate karo, including timely essential care and emotional support.
-- **D (Incorrect):** Visitor absence holistic success ka measure nahi hai.
+- **A (Incorrect):** Printed signs count karne se actual precaution adherence ya nursing care delivery prove nahi hoti.
+- **B (Incorrect):** Room restriction duration alone clinical necessity aur care quality dono establish nahi karti.
+- **C (Correct):** Effective care plan transmission prevention aur patient-centered care dono evaluate karta hai. Required precautions maintained hain ya nahi, essential treatments timely mile ya nahi aur patient ki emotional aur communication needs address hui ya nahi assess karo.
+- **D (Incorrect):** Visitor absence alone success measure nahi hai. Safe family involvement patient ke liye beneficial ho sakti hai.
+
+**Exam clue:** Good isolation care protects others while meeting the patient's needs.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#quality-evaluation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
@@ -516,10 +588,14 @@ D. Send the used plates home unwashed
 
 **Correct answer: B. Use reusable utensils processed through the approved dishwashing system**
 
-- **A (Incorrect):** Isolation alone disposable plates mandatory nahi banata. Unnecessary waste avoid karna chahiye.
-- **B (Correct):** Approved dishwasher mein detergent aur heat se routine dishware safely process hota hai. Special disease instructions hon toh woh follow karo.
-- **C (Incorrect):** Handwashing sink food utensil processing ke liye designated nahi hai.
-- **D (Incorrect):** Unwashed utensils contamination carry kar sakte hain.
+- **A (Incorrect):** Routine Contact Precautions mein disposable dishware universally required nahi hai. Special pathogen-specific policy alag ho sakti hai.
+- **B (Correct):** Approved mechanical dishwashing mein detergent aur appropriate heat process routine reusable utensils ko safely process kar sakta hai. Local food-service protocol aur special pathogen restrictions follow karo. Sirf isolation label ki wajah se utensils discard karna necessary nahi hai.
+- **C (Incorrect):** Patient handwashing basin approved dishwashing process nahi hai aur cross-contamination risk create kar sakta hai.
+- **D (Incorrect):** Unwashed plates ghar bhejne se contamination outside facility transfer ho sakti hai.
+
+**Exam clue:** Routine isolation does not automatically require disposable dishware.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
@@ -541,10 +617,14 @@ D. Remove all precautions during transport
 
 **Correct answer: C. Assess and support breathing, alert the transport and receiving teams, and arrange appropriate risk-based precautions**
 
-- **A (Incorrect):** Urgent care ko mask tolerance ke liye delay karna harmful ho sakta hai.
-- **B (Incorrect):** Force karne se distress worsen ho sakti hai. Clinical assessment zaroori hai.
-- **C (Correct):** Mask if tolerated guidance hai. Breathing needs address karke team ko alert karo aur safe transport precautions arrange karo.
-- **D (Incorrect):** Mask intolerance transmission risk eliminate nahi karti.
+- **A (Incorrect):** Mask tolerance ka wait urgent diagnostic care delay kar sakta hai aur respiratory deterioration worsen ho sakti hai.
+- **B (Incorrect):** Respiratory distress mein tight mask force karne se patient ki breathing aur anxiety worsen ho sakti hai.
+- **C (Correct):** Pehle airway, breathing aur oxygenation assess karo aur indicated support do. Mask source control as tolerated use hota hai. Transport aur receiving teams ko risk inform karke appropriate route aur staff protection arrange karo without delaying urgent care.
+- **D (Incorrect):** Mask tolerate na karna transmission risk eliminate nahi karta. Other indicated measures continue rakhna zaroori hai.
+
+**Exam clue:** Urgent breathing needs first, coordinate alternative precautions.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
@@ -566,10 +646,12 @@ D. It helps limit inadvertent contact but does not replace required precautions
 
 **Correct answer: D. It helps limit inadvertent contact but does not replace required precautions**
 
-- **A (Incorrect):** Curtain hand hygiene ka substitute nahi hai.
-- **B (Incorrect):** Curtain airborne engineering control nahi hai.
-- **C (Incorrect):** Personal items share karne se indirect transmission ho sakti hai.
-- **D (Correct):** Physical separation aur curtain contact opportunities kam karte hain. Each patient ke liye required hygiene and protective measures continue rakho.
+- **A (Incorrect):** Curtain physical barrier hai, hand hygiene ka replacement nahi. Hands se organisms still transfer ho sakte hain.
+- **B (Incorrect):** Privacy curtain airborne isolation room ya negative-pressure engineering control nahi hai.
+- **C (Incorrect):** Personal items share karne se indirect contact transmission ho sakti hai. Dedicated items prefer karo.
+- **D (Correct):** Approved shared room mein physical separation aur curtain accidental direct contact reduce kar sakte hain. Har patient ke contact ke beech hand hygiene, appropriate PPE change aur equipment processing continue karo.
+
+**Exam clue:** Curtain supplements precautions, never replaces them.
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -591,10 +673,14 @@ D. Assume the cough is noninfectious without assessment
 
 **Correct answer: A. Arrange appropriate symptom and exposure screening and follow the visitor restriction policy**
 
-- **A (Correct):** Household exposure aur symptoms pertussis risk indicate kar sakte hain. Staff screening aur clinical advice before entry essential hai.
-- **B (Incorrect):** Previous household contact visitor ko other vulnerable patients ke liye safe prove nahi karta.
-- **C (Incorrect):** Crowded area mein possible respiratory spread badh sakta hai.
-- **D (Incorrect):** Cough ka cause bina assessment establish nahi hota.
+- **A (Correct):** Prolonged cough aur household pertussis exposure possible infectious risk indicate karte hain. Visitor entry se pehle symptom aur exposure screening karo aur responsible clinical/IPC team se policy-based advice lo. Vulnerable children ko unassessed exposure se protect karo.
+- **B (Incorrect):** Household mein previous exposure ka matlab yeh nahi hai ki visitor ward ke doosre patients ke liye safe hai.
+- **C (Incorrect):** Crowded pediatric play area possible respiratory spread aur vulnerable children ke exposure ko increase kar sakta hai.
+- **D (Incorrect):** Cough ka cause bina assessment establish nahi kar sakte. Noninfectious assume karna unsafe hai.
+
+**Exam clue:** Screen symptomatic visitors before entry, especially in pediatric settings.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
@@ -616,10 +702,14 @@ D. Clean the device by immersing it in any available disinfectant
 
 **Correct answer: B. Agree on safe individual use and a manufacturer-compatible cleaning plan under facility policy**
 
-- **A (Incorrect):** Automatic disposal unnecessary loss aur communication barrier create kar sakti hai.
-- **B (Correct):** Personal communication aid preserve karna patient participation support karta hai. Compatible approved cleaning se contamination risk manage karo.
-- **C (Incorrect):** Sharing unprocessed device indirect transmission cause kar sakta hai.
-- **D (Incorrect):** Immersion device damage kar sakti hai and electrical risk bhi ho sakta hai.
+- **A (Incorrect):** Automatic device disposal communication loss aur unnecessary financial burden create kar sakti hai. Safe use possible hai ya nahi assess karo.
+- **B (Correct):** Personal tablet patient ko communication, consent aur social connection mein help kar sakta hai. Individual use aur manufacturer-compatible approved cleaning schedule agree karo. Hand hygiene aur device sharing restrictions follow karo.
+- **C (Incorrect):** Unprocessed device share karne se microorganisms ek patient se doosre tak transfer ho sakte hain.
+- **D (Incorrect):** Electronic device ko arbitrary disinfectant mein immerse karne se damage aur electrical hazard ho sakta hai.
+
+**Exam clue:** Preserve communication aids with compatible cleaning.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
@@ -641,10 +731,14 @@ D. Assume a written notice is sufficient
 
 **Correct answer: C. Provide supervised cues and accessible supplies, and review placement and protection needs with the team**
 
-- **A (Incorrect):** Memory difficulty intentional noncompliance nahi hai. Teaching adapt karna chahiye.
-- **B (Incorrect):** Routine restraint infection prevention ka appropriate substitute nahi hai.
-- **C (Correct):** Repeated simple cues, tissues and hand hygiene access support adherence. Placement aur staff protection risk ke according review karo.
-- **D (Incorrect):** Written notice alone cognitive impairment mein inadequate ho sakta hai.
+- **A (Incorrect):** Cognitive impairment ki wajah se patient instructions forget kar sakta hai. Blame karna cause address nahi karta aur cooperation reduce kar sakta hai.
+- **B (Incorrect):** Restraint solely cough etiquette enforce karne ke liye appropriate routine intervention nahi hai. Least restrictive support use karo.
+- **C (Correct):** Simple repeated cues, supervision, accessible tissues, waste bin aur hand hygiene supplies provide karo. Clinical team se placement aur protection requirements review karo. Patient ki comprehension aur functional ability ke according teaching adapt karo.
+- **D (Incorrect):** Written notice alone memory ya comprehension difficulty wale patient ke liye inadequate ho sakta hai.
+
+**Exam clue:** Support adherence according to cognitive ability, not blame.
+
+[Additional clinical reference](https://www.nice.org.uk/guidance/cg103/chapter/Recommendations)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
@@ -666,10 +760,14 @@ D. Use the facility-approved sign conveying necessary precautions and share sens
 
 **Correct answer: D. Use the facility-approved sign conveying necessary precautions and share sensitive details securely with the care team**
 
-- **A (Incorrect):** Sign removal staff aur visitors ko required measures se unaware chhod sakta hai.
-- **B (Incorrect):** Full medical history precaution instructions ke liye necessary nahi hai.
-- **C (Incorrect):** Unnecessary disclosure confidentiality breach ho sakti hai.
-- **D (Correct):** Necessary precautions visible rakho while diagnosis and private details authorized team ko securely communicate karo.
+- **A (Incorrect):** Precaution sign completely remove karne se staff aur visitors required PPE aur entry steps miss kar sakte hain.
+- **B (Incorrect):** Full medical history publicly display karna safety instructions ke liye necessary nahi hai aur privacy compromise karta hai.
+- **C (Incorrect):** Other patients ko diagnosis unnecessarily batana confidentiality breach ho sakta hai.
+- **D (Correct):** Facility-approved sign par required precaution category aur practical entry instructions communicate karo. Sensitive diagnosis details sirf authorized care team ko secure handover mein share karo. Isse minimum necessary disclosure aur safety dono maintain hote hain.
+
+**Exam clue:** Display required precautions, protect private diagnosis details.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
@@ -691,10 +789,14 @@ D. Ask the patient to decide when precautions should stop
 
 **Correct answer: A. Request a timely disease-specific review and retain indicated precautions until the authorized decision**
 
-- **A (Correct):** Regular review unnecessary duration reduce kar sakti hai. Clinical criteria and local authority ke decision tak required precautions continue karo.
-- **B (Incorrect):** Improved appetite infectious period end hone ka proof nahi hai.
-- **C (Incorrect):** Indefinite restriction without review avoidable psychosocial harm cause kar sakti hai.
-- **D (Incorrect):** Patient participation useful hai but discontinuation clinical criteria se guided hoti hai.
+- **A (Correct):** Improvement ke baad timely disease-specific review request karo. Infectious period, treatment response aur relevant testing criteria clinical team assess karegi. Authorized discontinuation tak indicated precautions maintain karo, unnecessary delay avoid karo.
+- **B (Incorrect):** Improved appetite general recovery sign hai, infectiousness end hone ka reliable proof nahi hai.
+- **C (Incorrect):** Indefinite isolation without review loneliness, immobility aur missed care ka risk unnecessarily prolong kar sakti hai.
+- **D (Incorrect):** Patient preference important hai, lekin stopping precautions clinical transmission criteria aur authorized decision par depend karta hai.
+
+**Exam clue:** Review regularly, discontinue according to pathogen-specific criteria.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
@@ -716,10 +818,14 @@ D. Ask the patient to perform all exercises alone despite needing assistance
 
 **Correct answer: B. Arrange trained staff and appropriate protection so the clinically indicated session can be rescheduled safely**
 
-- **A (Incorrect):** Rehabilitation need isolation ki wajah se automatically end nahi hoti.
-- **B (Correct):** Training gap resolve karke safe therapy restore karo. Session ki clinical urgency bhi consider karo.
-- **C (Incorrect):** Unplanned gym attendance exposure risk create kar sakti hai.
-- **D (Incorrect):** Unsupported exercises falls ya other injury cause kar sakti hain.
+- **A (Incorrect):** Rehabilitation permanently cancel karne se strength aur function deteriorate ho sakte hain. Isolation therapy need automatically end nahi karti.
+- **B (Correct):** Therapist ka training gap identify karke trained staff, required protection aur compatible equipment arrange karo. Session ki urgency consider karke safe rescheduling ya bedside therapy coordinate karo. Missed session aur follow-up document karo.
+- **C (Incorrect):** Therapy gym mein unplanned transfer doosre patients ko exposure de sakta hai aur staff unprepared rahenge.
+- **D (Incorrect):** Assistance required hone par unsupported exercises falls aur injury risk increase kar sakti hain.
+
+**Exam clue:** Resolve staff training barriers to maintain rehabilitation.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
@@ -741,10 +847,14 @@ D. Omit the hearing assessment without informing the patient
 
 **Correct answer: C. Coordinate a compatible single-patient or safely processable alternative before the examination**
 
-- **A (Incorrect):** Return to stock without safe processing future patients expose kar sakta hai.
-- **B (Incorrect):** Unapproved chemical device damage kar sakta hai or ineffective ho sakta hai.
-- **C (Correct):** Appropriate alternative access to care preserve karta hai while preventing device-related transmission.
-- **D (Incorrect):** Examination omit karne se unmet need aur communication difficulty persist ho sakti hai.
+- **A (Incorrect):** Unprocessed accessory ko stock mein return karne se future patients contaminated equipment ke contact mein aa sakte hain.
+- **B (Incorrect):** Unapproved chemical device performance damage kar sakta hai aur effective disinfection bhi guarantee nahi karta.
+- **C (Correct):** Hearing assessment clinically indicated hai, isliye approved compatible single-patient accessory ya validated safely reprocessable alternative arrange karo. Manufacturer instructions aur facility processing policy follow karo. Isse infection prevention aur access to care dono preserve hote hain.
+- **D (Incorrect):** Assessment silently omit karne se communication impairment aur unmet clinical needs remain ho sakti hain.
+
+**Exam clue:** Use a compatible safe alternative rather than unsafe reuse or missed care.
+
+[Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
 
