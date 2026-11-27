@@ -840,10 +840,20 @@ Increasing pain, spreading redness-warmth aur pus infection suggest kar sakte ha
 
 **Correct: A. Amplitude**
 
-Amplitude pulse ki strength ya volume describe karti hai. Weak ya bounding pulse circulation assessment mein useful clue ho sakti hai.
+<!-- job5-rationale -->
+Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, vascular tone aur arterial condition se influence ho sakti hai. Nurse rate yani beats/min, rhythm yani regularity, amplitude yani strength aur symmetry evaluate karti hai. Weak or bounding pulse ko local documented grading scale ke according record karo. Pulse strength alone exact blood pressure ya diagnosis prove nahi karti.
 
-**Baaki options kyun sahi nahi hain?** Rhythm beats ki regularity hai. Rate beats per minute hai. Temperature heat measurement hai.
+**Option-by-option reasoning**
 
+- **A:** amplitude palpated pulsation ki strength hai.
+- **B:** rate per minute beats count karta hai.
+- **C:** rhythm intervals ki regularity describe karta hai.
+- **D:** temperature thermal finding hai, pulse strength nahi.
+
+**Exam clue:** Rate = how many, rhythm = regularity, amplitude = strength.
+
+[Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1062,10 +1072,20 @@ Electrical source active ho toh rescuer bhi shock receive kar sakta hai. Scene s
 
 **Correct: B. Assess and support airway and ventilation and activate urgent clinical help**
 
-Opioid breathing drive suppress kar sakti hai. Slow breathing aur reduced alertness urgent respiratory compromise ke signs hain. Nurse airway support aur protocol-based emergency care arrange karti hai.
+<!-- job5-rationale -->
+Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficult arousal severe respiratory depression ke warning signs hain. Priority airway patency aur effective ventilation assess aur support karna hai, urgent emergency help activate karo, further opioid administration rok kar facility protocol follow karo. Authorized naloxone aur ventilatory support as indicated arrange karo aur repeated monitoring karo kyunki respiratory depression recur ho sakti hai. Oxygen saturation normal dikhe tab bhi ventilation inadequate ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Extra opioid worsen kar sakti hai. Waiting unsafe hai. Oral fluids aspiration risk badha sakti hain.
+**Option-by-option reasoning**
 
+- **A:** reduced consciousness mein oral fluids aspiration risk badhate hain.
+- **B:** immediate airway, ventilation aur escalation life-threatening problem address karte hain.
+- **C:** additional opioid respiratory depression worsen kar sakta hai.
+- **D:** routine observation tak wait potentially fatal delay create karta hai.
+
+**Exam clue:** Opioid + slow breathing + poor arousal = airway/ventilation emergency.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1198,10 +1218,20 @@ Witnessed apneas obstructive sleep apnea ya other breathing problem suggest kar 
 
 **Correct: D. Promptly assess for acute deterioration and escalate care**
 
-Fever ke saath confusion aur hypotension serious infection ya other emergency indicate kar sakte hain. Nurse ABC assessment aur urgent escalation karti hai.
+<!-- job5-rationale -->
+39.2°C fever ke saath new confusion aur hypotension systemic deterioration ka warning pattern hai. Infection ke context mein sepsis possible hai, lekin single combination se cause confirmed nahi hota. Nurse ABCDE rapid assessment kare, urgent clinical help activate kare, perfusion, oxygenation, consciousness aur other relevant findings assess kare. Facility sepsis ya emergency pathway follow karo. Antipyretic se fever kam ho sakta hai lekin shock ya underlying cause treat nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Blanket alone cause address nahi karti. Circulation ignore karna unsafe hai. Findings normal assume nahi karni chahiye.
+**Option-by-option reasoning**
 
+- **A:** blanket aur delayed review time-sensitive care postpone karte hain.
+- **B:** sirf temperature treat karne se circulatory compromise miss ho sakta hai.
+- **C:** exercise ka normal response assume karna hypotension aur new confusion explain nahi karta.
+- **D:** acute deterioration recognize aur escalate karta hai.
+
+**Exam clue:** Fever plus hypotension plus new confusion = urgent assessment, not fever-only care.
+
+[Concept reference](https://www.resus.org.uk/library/abcde-approach)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
@@ -1903,10 +1933,20 @@ Cold liquid vestibular stimulation se dizziness cause kar sakti hai. Product ki 
 
 **Correct: D. Use an appropriate validated behavioral pain tool and clinical assessment**
 
-Nonverbal patient pain feel kar sakta hai. Facial expression, movement aur other validated behavioral signs clinical assessment mein help karte hain.
+<!-- job5-rationale -->
+Pain personal sensory aur emotional experience hai. Patient verbally report nahi kar paa raha toh pain absent assume nahi karna hai. Communication ability pehle check karo, available self-report method use karo aur agar reliable self-report unavailable hai toh population-specific validated behavioral tool select karo, jaise critical-care patient mein CPOT ya suitable dementia context mein PAINAD. Facial expression, guarding, movement aur procedure context assess karo. Tool score ko clinical assessment aur intervention response ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Speech absence pain absence nahi hai. Temperature pain intensity directly nahi batata. Assessment delay unnecessary suffering badha sakta hai.
+**Option-by-option reasoning**
 
+- **A:** temperature nonspecific hai aur pain intensity score nahi hai.
+- **B:** inability to speak pain absent prove nahi karti.
+- **C:** patient ko relief ya assessment ke bina wait karwana harm kar sakta hai.
+- **D:** validated behavioral assessment aur clinical context pain recognition support karte hain.
+
+**Exam clue:** Nonverbal does not mean no pain. Use appropriate validated tool.
+
+[Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610831/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice; historical match not established.
