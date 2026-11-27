@@ -1,9 +1,9 @@
 # NORCET shared work claim
 
-State: CLAIMED
-Owner: manual-20261127-031946-g06
-Scope: Infection Control and Microbiology group 06, chain of infection and transmission; planned 06A/06B MCQs and concepts, reported evidence, chapter and global indexes, coverage audit.
-Claimed UTC: 2026-11-27T03:19:46Z
-Expiry UTC: 2026-11-27T03:49:46Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Checkpoint before claim: c6f4a3d7ee2bfbdc381e2b539d4bc07f38040e88. Cooperative single-writer lease. See SKILL.md.
+Forward lane checkpoint: c6f4a3d7ee2bfbdc381e2b539d4bc07f38040e88, 1,505 indexed MCQs; next group 06 chain of infection and microbial transmission. Manual group 06 authoring stopped without publication due to learner's reverse-lane reassignment. Forward lane may resume after checking activity. Reverse lane has its own claim under the two-lane override in SKILL.md. FREE alone does not establish older sessions are inactive.
