@@ -35,4 +35,4 @@ Individual expansion: myopia MCQs e7157edaa92d841bdebb167cff01d9b64df2d9c2, hype
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Eye/ENT scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Eye/ENT scope claim: CLAIMED. Owner eye-ent-manual-20261127-0527-astig-presby. Scope Astigmatism and Presbyopia, chapter-local files only. Expires 2026-11-27T05:57:00Z. -->
