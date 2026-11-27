@@ -2,12 +2,49 @@
 
 **In progress, not studied.** All 30 of 30 defined topic groups now contain 40 new original MCQs each. Four earlier starter questions remain separately preserved. No full chapter mock is claimed yet.
 
-| Section | Open |
-|---|---|
-| Concepts and coverage | [Topic map](Concepts/Infection-Control-and-Microbiology-Topic-Coverage-Map.md) · [Transmission and bacterial growth notes](Concepts/06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md) · [Gram-positive bacteria](Concepts/09-Gram-Positive-Cocci-and-Bacilli.md) · [Gram-negative bacteria](Concepts/10-Gram-Negative-Cocci-and-Enteric-Bacilli.md) · [Nonfermenters](Concepts/11-Nonfermenters-and-Hospital-Bacterial-Pathogens.md) · [TB](Concepts/12-Mycobacteria-and-Tuberculosis.md) · [Anaerobes](Concepts/13-Anaerobes-and-Spore-Forming-Pathogens.md) · [Spirochetes and atypical bacteria](Concepts/14-Spirochetes-Atypical-Bacteria-and-Rickettsiae.md) · [Viral replication](Concepts/15-Viruses-and-Viral-Replication.md) · [Hepatitis and HIV](Concepts/16-Bloodborne-and-Hepatitis-Viruses-HIV.md) · [Respiratory and enteric viruses](Concepts/17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses.md) · [Mycology](Concepts/18-Medical-Mycology-and-Opportunistic-Fungi.md) · [Protozoa](Concepts/19-Protozoa-and-Malaria.md) · [Helminths](Concepts/20-Helminths-and-Intestinal-Parasites.md) · [Innate and adaptive immunity](Concepts/21-Innate-and-Adaptive-Immunity.md) · [Antibodies and hypersensitivity](Concepts/22-Immunoglobulins-Complement-and-Hypersensitivity.md) · [Vaccination and cold chain](Concepts/23-Vaccination-Cold-Chain-and-Passive-Immunization.md) · [Specimen collection](Concepts/24-Specimen-Collection-and-Diagnostic-Microbiology.md) · [AMR and stewardship](Concepts/25-Antimicrobial-Resistance-and-Stewardship.md) · [HAI surveillance](Concepts/26-HAI-Prevention-and-Surveillance-Definitions.md) · [CAUTI prevention](Concepts/27-CAUTI-Prevention.md) · [CLABSI prevention](Concepts/28-CLABSI-and-Vascular-Device-Infection-Prevention.md) · [VAP and SSI prevention](Concepts/29-VAP-and-Surgical-Site-Infection-Prevention.md) · [Environmental IPC and outbreak calculations](Concepts/30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations.md) |
-| Topic-wise original questions | [1,505 MCQs (1,200 grouped + 305 expansion)](MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) |
-| Chapter-only mocks | [Mock plan](Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) — 0/10 |
-| Previous-year questions | [57 reported adaptations and 2 academic paper adaptations](Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md) |
-| Videos and sources | [Research guide](Concepts/Infection-Control-and-Microbiology-Video-and-Research-Guide.md) |
+## Study resources
+
+### Concepts and coverage
+
+- [Topic map](Concepts/Infection-Control-and-Microbiology-Topic-Coverage-Map.md)
+- [Transmission and bacterial growth notes](Concepts/06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md)
+- [Gram-positive bacteria](Concepts/09-Gram-Positive-Cocci-and-Bacilli.md)
+- [Gram-negative bacteria](Concepts/10-Gram-Negative-Cocci-and-Enteric-Bacilli.md)
+- [Nonfermenters](Concepts/11-Nonfermenters-and-Hospital-Bacterial-Pathogens.md)
+- [TB](Concepts/12-Mycobacteria-and-Tuberculosis.md)
+- [Anaerobes](Concepts/13-Anaerobes-and-Spore-Forming-Pathogens.md)
+- [Spirochetes and atypical bacteria](Concepts/14-Spirochetes-Atypical-Bacteria-and-Rickettsiae.md)
+- [Viral replication](Concepts/15-Viruses-and-Viral-Replication.md)
+- [Hepatitis and HIV](Concepts/16-Bloodborne-and-Hepatitis-Viruses-HIV.md)
+- [Respiratory and enteric viruses](Concepts/17-Respiratory-Enteric-and-Vaccine-Preventable-Viruses.md)
+- [Mycology](Concepts/18-Medical-Mycology-and-Opportunistic-Fungi.md)
+- [Protozoa](Concepts/19-Protozoa-and-Malaria.md)
+- [Helminths](Concepts/20-Helminths-and-Intestinal-Parasites.md)
+- [Innate and adaptive immunity](Concepts/21-Innate-and-Adaptive-Immunity.md)
+- [Antibodies and hypersensitivity](Concepts/22-Immunoglobulins-Complement-and-Hypersensitivity.md)
+- [Vaccination and cold chain](Concepts/23-Vaccination-Cold-Chain-and-Passive-Immunization.md)
+- [Specimen collection](Concepts/24-Specimen-Collection-and-Diagnostic-Microbiology.md)
+- [AMR and stewardship](Concepts/25-Antimicrobial-Resistance-and-Stewardship.md)
+- [HAI surveillance](Concepts/26-HAI-Prevention-and-Surveillance-Definitions.md)
+- [CAUTI prevention](Concepts/27-CAUTI-Prevention.md)
+- [CLABSI prevention](Concepts/28-CLABSI-and-Vascular-Device-Infection-Prevention.md)
+- [VAP and SSI prevention](Concepts/29-VAP-and-Surgical-Site-Infection-Prevention.md)
+- [Environmental IPC and outbreak calculations](Concepts/30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations.md)
+
+### Topic-wise original questions
+
+- [1,505 MCQs (1,200 grouped + 305 expansion)](MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md)
+
+### Chapter-only mocks
+
+- [Mock plan](Mock-Tests/Infection-Control-and-Microbiology-Mock-Test-Plan.md) — 0/10
+
+### Previous-year questions
+
+- [57 reported adaptations and 2 academic paper adaptations](Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md)
+
+### Videos and sources
+
+- [Research guide](Concepts/Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
 
 Individual-topic expansion: [surgical hand preparation](MCQs/01A-Surgical-Hand-Preparation-30-MCQs.md), [CSSD](MCQs/02A-CSSD-Workflow-Quality-Assurance-30-MCQs.md), [equipment disinfection](MCQs/02B-Equipment-Disinfection-and-Endoscope-Reprocessing-30-MCQs.md), [sterilization methods top-up](MCQs/02C-Sterilization-Methods-and-Monitoring-15-MCQs.md). [Standard precautions](MCQs/03A-Standard-Precautions-and-Safe-Patient-Care-30-MCQs.md). [Transmission precautions](MCQs/03B-Transmission-Based-Precautions-and-Isolation-20-MCQs.md) · [PPE](MCQs/03C-PPE-Selection-and-Safe-Removal-20-MCQs.md). [Waste segregation](MCQs/04A-Biomedical-Waste-Segregation-15-MCQs.md) · [Waste treatment and regulation](MCQs/04B-Biomedical-Waste-Treatment-and-Regulation-25-MCQs.md). [Sharps prevention](MCQs/05A-Sharps-Injury-Prevention-and-Exposure-Response-23-MCQs.md) · [Post-exposure management](MCQs/05B-Pathogen-Specific-Post-Exposure-Management-17-MCQs.md). [HIV PEP top-up](MCQs/05C-Occupational-HIV-PEP-Top-Up-10-MCQs.md). [HBV top-up](MCQs/05D-Occupational-HBV-Top-Up-18-MCQs.md). [HCV top-up](MCQs/05E-Occupational-HCV-Top-Up-22-MCQs.md). Current inventory 1,505 indexed question slots, excluding four legacy items. Next: group 06 chain of infection and microbial transmission individual-topic allocation and expansion. [Individual-topic audit](Concepts/Individual-Topic-Coverage-and-Quality-Audit.md). Chapter not complete, mocks 0/10. [Full syllabus index](../NORCET-Full-Chapter-Index.md)
