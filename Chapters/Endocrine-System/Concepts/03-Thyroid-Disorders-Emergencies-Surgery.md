@@ -7,6 +7,26 @@
 **Topics:** 1. Thyroid physiology and tests · 2. Hypo/hyperthyroidism and goiter · 3. Thyroiditis/nodules/tumors · 4. Emergencies and surgery
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Hypo/hyperthyroidism, thyroid storm, myxedema coma, thyroidectomy |
+| 🟠 **HIGH — next revise** | Hormone synthesis, tests, thyroiditis and tumors |
+| 🟢 **FOUNDATION — understand first** | T3, T4, calcitonin and gland location |
+
+> [!TIP]
+> **🧠 Memory trick:** Hypo = slow and cold; hyper = fast and hot.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Thyroidectomy ke baad stridor ya expanding neck swelling → emergency airway escalation.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Thyroid gale ke saamne butterfly jaisi gland hai. T3 aur T4 hormones body ke kaam karne ki speed control karte hain. Metabolism ka matlab body khane se energy banakar kaise use karti hai.
@@ -23,6 +43,8 @@
 - [🔴 VERY HIGH | Hypothyroidism vs hyperthyroidism — why symptoms?](#-very-high--hypothyroidism-vs-hyperthyroidism--why-symptoms)
 - [🟠 HIGH | Thyroid tumors](#-high--thyroid-tumors)
 - [🔴 VERY HIGH | Emergency nursing — comparison and sequence](#-very-high--emergency-nursing--comparison-and-sequence)
+
+---
 
 ## 5. 🟠 Thyroid gland
 
@@ -67,6 +89,7 @@
 - Routine care: monitor HR/BP, temperature, weight, fatigue, constipation and skin. provide comfortable warmth, skin care, gradual activity and bowel support appropriate to condition.
 - Give doctor ke order ki levothyroxine consistently, usually on empty stomach. separate iron/calcium by about 4 hours. explain long-term follow-up and symptoms of excess replacement (palpitations, tremor).
 - **Myxedema coma:** altered mental status + hypothermia + slow breathing/bradycardia. Activate emergency team, assess airway/ventilation, monitor ECG, glucose and electrolytes, maintain gentle/passive warmth, administer ordered IV thyroid hormone/glucocorticoid and supportive care. Avoid unprescribed sedatives or aggressive external warming.
+
 - **Goal:** adequate ventilation, stable circulation, improving mental status.
 
 ### 🔴 Hyperthyroidism, Graves disease and thyroid storm
@@ -74,6 +97,7 @@
 - Administer doctor ke order ki antithyroid drugs and beta blockers. report fever/sore throat promptly (agranulocytosis concern) and jaundice/dark urine (liver injury concern). Teach medication adherence and labs.
 - Graves eye care: lubricants as ordered, head elevation, protect eyes and report new diplopia or loss of vision/color vision.
 - **Thyroid storm:** high fever, severe tachycardia, agitation/confusion. ABC, urgent escalation, ECG, oxygen if indicated, cooling, fluid support as ordered. give doctor ke order ki drugs in correct sequence (iodine after thionamide when applicable). Avoid aspirin for fever in thyroid storm unless specifically directed for another indication.
+
 - **Goal:** falling temperature/HR and improved mental status. prevent cardiac failure.
 
 ### 🔴 Thyroidectomy — preoperative, postoperative, discharge
@@ -81,13 +105,18 @@
 - Post-op: airway first. assess breathing, stridor, swallowing, voice, neck swelling/tightness and bleeding. Maintain semi-Fowler if appropriate with neck supported. Ensure oxygen/suction and emergency airway equipment accessible per policy. sudden neck swelling or respiratory distress → emergency surgical/airway escalation immediately.
 - Monitor calcium/PTH as ordered and tingling around mouth/fingers, cramps, carpal spasm, tetany. report promptly, administer ordered calcium and monitor ECG zaroorat aur doctor ke order ke hisaab se. Voice change may indicate laryngeal nerve dysfunction. persistent change needs evaluation.
 - Wound/pain care, safe oral intake after swallowing assessment patient ki condition ke hisaab se, medication teaching (thyroid hormone or calcium if doctor ke order ki). Return urgently for breathing difficulty, progressive swelling or severe spasms.
+
 - **Exam trap:** stridor/neck swelling overrides routine pain assessment. symptomatic hypocalcemia also requires prompt action.
+
+---
 
 ## 🔴 Thyroid and calcium — clinical why
 - T3/T4 metabolism accelerate karte hain. Low hormone means slow gut, cold intolerance, bradycardia. high means heat, fast HR, frequent stool. Graves antibodies TSH receptor stimulate karte hain. Hashimoto autoimmune destruction. Graves eye disease har thyrotoxicosis mein nahi hoti.
 - Goiter size hormone level nahi batata. euthyroid goiter possible. Ultrasound structural nodule ko assess karta hai. uptake testing selected cases, radioactive iodine pregnancy mein avoid. FNA nodule risk/size ke hisaab se.
 - Thyroid storm severe systemic decompensation hai. myxedema coma mein coma mandatory nahi. Postoperative expanding hematoma airway compress kar sakta hai.
 - Low magnesium PTH release/action impair kar sakta hai. Low albumin total calcium ko kam dikha sakta hai even with normal ionized Ca. Symptoms and ionized Ca matter.
+
+---
 
 ## 🟠 HIGH | Thyroid hormone synthesis and investigations
 - Follicles colloid store karte hain. thyroglobulin protein par iodine attach hota hai. Thyroid peroxidase iodination and coupling mein help. MIT + DIT = T3, DIT + DIT = T4. Thyroid mostly T4 releases. peripheral conversion produces active T3.
@@ -100,12 +129,18 @@
 | Subclinical hyperthyroidism | Low | Normal FT4/T3 |
 | Central hypothyroidism | Low/inappropriate normal | Low |
 - Anti-TPO supports autoimmune thyroiditis. TRAb supports Graves. Ultrasound structure, uptake functional activity, FNAC suspicious nodule cytology. High uptake often Graves/toxic nodules. low uptake thyroiditis/exogenous hormone (context matters).
+
+---
+
 ## 🔴 VERY HIGH | Hypothyroidism vs hyperthyroidism — why symptoms?
 - Hypothyroid: cellular heat production low → cold intolerance. gut motility slow → constipation. cardiac rate slows → bradycardia. dry skin, fatigue, menstrual changes. Causes Hashimoto, thyroidectomy, radioiodine, iodine imbalance, some medicines, central pituitary disease.
 - Levothyroxine replacement consistent timing, generally empty stomach 30–60 min before breakfast or bedtime sufficiently after food per instructions. calcium/iron ~4 h separation. TSH recheck commonly 6–8 weeks after dose change (primary disease). Central disease FT4 guides therapy.
 - Hyperthyroid: increased metabolism → heat intolerance, weight loss despite appetite. sympathetic sensitivity → tachycardia, tremor. Graves diffuse autoimmune stimulation. eye signs due orbital inflammation, not just T3/T4 level. Toxic multinodular goiter and toxic adenoma autonomous.
 - Methimazole/carbimazole decrease synthesis. PTU also reduces peripheral conversion. PTU preferred in selected first-trimester pregnancy or storm protocols. specialist selection due liver risk. Fever/sore throat → urgent CBC/medical review before further dosing. jaundice/dark urine urgent liver assessment. Beta blockers reduce symptoms, not hormone synthesis itself.
 - Subacute painful thyroiditis hormone leakage may give temporary thyrotoxicosis then hypo phase. Thionamide usually not useful in destructive thyroiditis. Postpartum thyroiditis may have transient phases. Follow tests.
+
+---
+
 ## 🟠 HIGH | Thyroid tumors
 | Type | Key exam clue |
 |---|---|
@@ -115,6 +150,9 @@
 | Anaplastic | Aggressive, rapidly enlarging mass, airway risk |
 - Thyroid nodule normal hormone tests ke saath bhi cancer ho sakta hai. New hoarseness, compressive symptoms, rapid growth evaluate. Ultrasound-guided FNA selection. follicular carcinoma invasion histology se differentiate hota hai. Radioiodine selected differentiated cancers, not routine medullary.
 - Congenital hypothyroidism early screening and treatment neurodevelopment protect karte hain. Older exam term for untreated severe congenital disease is historical, use current respectful clinical terminology.
+
+---
+
 ## 🔴 VERY HIGH | Emergency nursing — comparison and sequence
 | Feature | Thyroid storm | Myxedema emergency |
 |---|---|---|
@@ -131,6 +169,8 @@
 - **Reported exam evidence:** postoperative calcium concept reported in two NORCET-labelled collections (2022/2024). Official exact papers not verified. [Source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md).
 
 
+---
+
 ## 🎬 Study resources
 
 [NORCET thyroid teaching](https://www.youtube.com/watch?v=BalA29k0tuM) · [Mixed endocrine MCQ rationales](https://www.youtube.com/watch?v=xcwJd5RbBb4)
@@ -138,6 +178,8 @@
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [OpenStax thyroid/parathyroid](https://openstax.org/books/medical-surgical-nursing/pages/21-3-thyroid-and-parathyroid-disorders) · [American Thyroid Association](https://www.thyroid.org/)

@@ -7,6 +7,26 @@
 **Topics:** 1. Glands and anatomy · 2. Hormones and receptors · 3. Feedback · 4. Assessment and tests
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Feedback axes, primary vs central failure |
+| 🟠 **HIGH — next revise** | Hormone receptors, investigations and assessment |
+| 🟢 **FOUNDATION — understand first** | Gland locations and basic hormone functions |
+
+> [!TIP]
+> **🧠 Memory trick:** Hormone = message, receptor = lock. Negative feedback = AC thermostat.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** TSH ko FT4 ke saath interpret karo; sirf ek result se diagnosis nahi.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Gland body ka ek chhota hissa hai jo koi zaroori cheez banata hai. Hormone ek chemical message hai. Ye blood ke saath doosri jagah jaakar body ko batata hai ki kya karna hai.
@@ -24,6 +44,8 @@
 - [🟠 HIGH | Hormone classification](#-high--hormone-classification)
 - [🔴 VERY HIGH | Feedback axes — exam reasoning](#-very-high--feedback-axes--exam-reasoning)
 - [🟠 HIGH | Assessment and investigation](#-high--assessment-and-investigation)
+
+---
 
 ## 1. 🟢 Endocrine system kya hai?
 
@@ -46,6 +68,8 @@
 | Ovaries/testes | Estrogen, progesterone/testosterone | Reproduction |
 | Thymus | Thymic factors | T-cell development |
 
+
+---
 
 ## 2. 🟠 Feedback mechanism
 
@@ -94,11 +118,15 @@ flowchart TD
 - Use medication rights, patient identification and infection prevention. Communicate deterioration with SBAR (situation, background, assessment, recommendation). Document intervention, response and handover.
 - Discharge: written action plan, warning signs, medicine schedule, follow-up and teach-back (patient apne shabdon mein samjhaye).
 
+---
+
 ## 🟠 Hormone action and diagnostic reasoning
 - Hormone ko message samjho, receptor ko lock. Peptide hormone (insulin) cell surface receptor se signal bhejta hai. steroid (cortisol) cell ke andar receptor se gene expression change karta hai. Thyroid hormones nuclear receptors se act karte hain.
 - Hypothalamus anterior pituitary ko portal blood se control karta hai. posterior pituitary axons se ADH/oxytocin release karta hai. Primary gland failure mein final hormone low aur upstream stimulating hormone usually high. central failure mein signal inadequate.
 - Cortisol normally morning higher. random cortisol se Cushing diagnose nahi. Steroid medicines, biotin, pregnancy aur acute illness test interpretation change kar sakte hain. Sample time aur medicine history document karo.
 - **Exam trick:** Normal TSH central hypothyroidism exclude nahi karta. low FT4 ignore mat karo.
+
+---
 
 ## 🟠 HIGH | Anatomy ko visualize karo
 - Hypothalamus brain mein pituitary ke upar hai. Pituitary sella turcica mein, optic chiasm ke paas. Isliye tumor side vision ko affect kar sakta hai.
@@ -106,6 +134,9 @@ flowchart TD
 - Adrenals kidneys ke upar, pancreas stomach ke peeche. islets blood mein hormones release karte hain, acini pancreatic duct mein enzymes.
 - **Analogy:** Endocrine gland = message sender, blood = delivery route, target receptor = correct address. Har cell har hormone ka response nahi deta.
 - Nervous system usually rapid electrical signal. endocrine chemical messages often slower and longer lasting. Adrenaline jaise hormones seconds mein act bhi karte hain.
+
+---
+
 ## 🟠 HIGH | Hormone classification
 | Type | Example | Receptor / action |
 |---|---|---|
@@ -115,6 +146,9 @@ flowchart TD
 - Insulin receptor tyrosine kinase. many peptide hormones G-protein pathways use karte hain. GH receptor JAK-STAT. exam mein basic location pehle.
 - T4 largely protein-bound. free hormone biological signal ka useful measure. Binding proteins pregnancy/illness se change ho sakte hain. Total and free hormone same nahi.
 - Hormone ka half-life batata hai kitni jaldi blood concentration half hoti hai. T4 long half-life, catecholamines short. medicine baar-baar check karna timing alag hoti hai.
+
+---
+
 ## 🔴 VERY HIGH | Feedback axes — exam reasoning
 | Axis | Hypothalamus | Anterior pituitary | Target |
 |---|---|---|---|
@@ -126,6 +160,9 @@ flowchart TD
 - **Example:** Thyroid gland fails → FT4 falls → pituitary TSH rises. Pituitary fails → TSH response inadequate → FT4 low. Yahi primary vs central logic adrenal/gonadal axes mein bhi useful.
 - Positive feedback labor example: cervical stretch → oxytocin → contraction → more stretch. Birth ke baad loop ends.
 - Pulsatile secretion: ek random GH result acromegaly diagnose nahi karta. Cortisol timing, recent steroid doses, illness aur stress test affect karte hain.
+
+---
+
 ## 🟠 HIGH | Assessment and investigation
 - History: weight trend, appetite, thirst, urine zyada aana (polyuria), heat/cold intolerance, bowel changes, periods, sexual function, growth, sleep, medication and family history.
 - Physical: HR, BP (standing BP when safe), RR, temperature, hydration, BMI, skin pigmentation, tremor, eyes, thyroid swelling, visual fields, foot sensation and pulses as relevant.
@@ -136,6 +173,8 @@ flowchart TD
 - **Exam traps:** posterior pituitary hormones hypothalamus mein made. PTH vs calcitonin. cortisol circadian rhythm. primary vs central failure. endocrine vs exocrine.
 
 
+---
+
 ## 🎬 Study resources
 
 [NORCET endocrine introduction](https://www.youtube.com/watch?v=BalA29k0tuM) · [Mixed endocrine MCQ rationales](https://www.youtube.com/watch?v=xcwJd5RbBb4)
@@ -143,6 +182,8 @@ flowchart TD
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [OpenStax endocrine A&P](https://openstax.org/books/medical-surgical-nursing/pages/21-1-review-of-endocrine-anatomy-and-physiology)

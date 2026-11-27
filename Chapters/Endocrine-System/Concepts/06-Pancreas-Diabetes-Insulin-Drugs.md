@@ -7,6 +7,26 @@
 **Topics:** 1. Pancreas and glucose · 2. Diabetes types/diagnosis · 3. Insulin administration · 4. Non-insulin drugs and diet
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Diabetes diagnosis, insulin timing, administration and safety |
+| 🟠 **HIGH — next revise** | Non-insulin medicines, diet and glucose monitoring |
+| 🟢 **FOUNDATION — understand first** | Pancreatic cells and insulin/glucagon |
+
+> [!TIP]
+> **🧠 Memory trick:** Insulin = glucose ko cells tak pahunchane mein help; glucagon = blood glucose badhata hai.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Insulin type, dose, glucose, meal timing and hypoglycemia risk verify karo.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Pancreas pet mein stomach ke peeche hota hai. Iske beta cells insulin banate hain aur alpha cells glucagon banate hain.
@@ -22,6 +42,8 @@
 - [🔴 VERY HIGH | Diabetes types and diagnosis](#-very-high--diabetes-types-and-diagnosis)
 - [🔴 VERY HIGH | Insulin — practical examples](#-very-high--insulin--practical-examples)
 - [🟠 HIGH | Non-insulin drugs — nursing action](#-high--non-insulin-drugs--nursing-action)
+
+---
 
 ## 8. 🔴 Pancreas aur Diabetes mellitus
 
@@ -103,22 +125,34 @@ Approximate textbook ranges only. specific formulation, dose and manufacturer in
 - Verify patient/order, insulin type, concentration, units, device, glucose and meal availability. follow independent check policy. Rotate SC injection sites, avoid injection ki jagah charbi ki ganth (lipohypertrophy), use safe sharps disposal, never share pens. Match doctor ke order ki meal insulin timing. type 1 basal insulin must not be omitted without an appropriate alternative plan.
 - Monitor hypoglycemia and hyperglycemia. document readings, doses, food, symptoms, corrective actions and response. Report recurrent lows and seek regimen review. Do not adjust independently unless authorized protocol.
 - Foot care: daily inspection, protect feet, appropriate footwear, no barefoot walking, no self-cutting corns, prompt ulcer/infection review. Assess sensation and pulses. Teach patient ki zaroorat ke hisaab se meal plan, activity, glucose baar-baar check karna, medication storage, sick-day plan and follow-up eye/kidney checks.
+
 - **Goal:** glucose within patient ki zaroorat ke hisaab se target without hypoglycemia, intact skin, patient demonstrates safe self-care.
+
+---
 
 ## 🟠 HIGH | Pancreas and glucose homeostasis
 - Islets of Langerhans: beta insulin, alpha glucagon, delta somatostatin, PP pancreatic polypeptide. Acinar cells digestive enzymes. Insulin receptor signal skeletal muscle/adipose GLUT4 uptake promotes, liver glycogen storage increases, hepatic glucose output and lipolysis decrease.
 - Glucagon fasting state liver glycogen breakdown/gluconeogenesis increases. Somatostatin inhibits selected hormone release. Insulin and glucagon balance fed vs fasting.
+
+---
+
 ## 🔴 VERY HIGH | Diabetes types and diagnosis
 - Type 1 autoimmune beta-cell destruction → absolute insulin deficiency, ketosis risk. Type 2 insulin resistance + progressive beta-cell dysfunction, can also need insulin. LADA adult autoimmune. MODY monogenic. pancreatic disease, steroids can cause secondary diabetes.
 - Symptoms polyuria (glucose ke saath urine mein paani zyada nikalna (osmotic diuresis)), polydipsia (water loss), polyphagia (impaired fuel handling), weight loss (catabolism). Type 2 may be asymptomatic for years.
 - **Diagnosis vs management:** fasting plasma glucose ≥126 after ≥8h fast. HbA1c ≥6.5%. 2h 75g OGTT ≥200. random plasma glucose ≥200 with classic symptoms/crisis. Confirm if not unequivocal. Many adult treatment targets fasting/premeal 80–130 and postmeal <180, patient ki zaroorat ke hisaab se. do not use targets as diagnosis cutoffs.
 - HbA1c measures glycation of RBCs, affected by anemia, transfusion, altered RBC turnover, hemoglobin variants. C-peptide reflects endogenous insulin, injected insulin lacks C-peptide. autoantibodies help classification.
+
+---
+
 ## 🔴 VERY HIGH | Insulin — practical examples
 - Basal insulin covers background liver glucose production. bolus covers food and corrections. Type 1 fasting still needs basal plan. IV regular insulin common DKA protocol. not all insulin products IV.
 - Mixing regular + NPH only if compatible/doctor ke order ki: air cloudy → air clear → draw clear → draw cloudy. Clear glargine also exists but never mix with NPH. clear appearance does not imply compatibility.
 - U-40 40 units/mL and U-100 100 units/mL. Example 12 U in U-40 = 0.3 mL, U-100 = 0.12 mL. actual matching device essential. Dose written in units, not ambiguous U abbreviation if local safety policy.
 - Before administration: glucose, meal availability, order, insulin name/concentration, correct device, dose, expiration, site. SC injection rotation within region. abdomen often faster absorption, avoid injection ki jagah charbi ki ganth (lipohypertrophy). Cold chain unopened 2–8°C, do not freeze. in-use duration product-specific. Never share pens even if needle changed.
 - Monitor glucose when meals delayed, vomiting, steroid changes, exercise and illness. coordinate doctor ke order ki dose. Hypoglycemia response Part 7.
+
+---
+
 ## 🟠 HIGH | Non-insulin drugs — nursing action
 | Class | How it works | Important nurse check |
 |---|---|---|
@@ -135,6 +169,8 @@ Approximate textbook ranges only. specific formulation, dose and manufacturer in
 - **Exam traps:** alpha vs beta, basal vs bolus, clear before cloudy (only compatible), A1c diagnosis vs goal, SGLT2 euglycemic DKA, sulfonylurea hypoglycemia.
 
 
+---
+
 ## 🎬 Study resources
 
 [Diabetes mellitus and insulin lecture](https://www.youtube.com/watch?v=JQ5FiVbojC8) · [Mixed endocrine practice](https://www.youtube.com/watch?v=xcwJd5RbBb4)
@@ -142,6 +178,8 @@ Approximate textbook ranges only. specific formulation, dose and manufacturer in
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [ADA 2026 pharmacology](https://doi.org/10.2337/dc26-S009) · [NIDDK diabetes testing](https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis)

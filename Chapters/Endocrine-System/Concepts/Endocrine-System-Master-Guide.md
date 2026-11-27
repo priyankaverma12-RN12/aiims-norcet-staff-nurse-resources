@@ -6,6 +6,24 @@
 
 **Study-ready, not marked studied.** Ab ek long notes file mein sab kuch nahi hai. Respiratory chapter ki tarah 3–4 related major topics club karke 8 detailed concept files banaye hain. Part numbers study sequence hain, completed days nahi.
 
+## 🎨 Revision dashboard — choose your next topic
+
+| 🔴 VERY HIGH — core clinical areas | 🟠 HIGH — build understanding |
+|---|---|
+| [Pituitary: DI / SIADH](02-Pituitary-Disorders-DI-SIADH.md) | [Glands, feedback and assessment](01-Endocrine-Anatomy-Hormones-Feedback-Assessment.md) |
+| [Thyroid emergencies and surgery](03-Thyroid-Disorders-Emergencies-Surgery.md) | [Community nursing and other hormones](08-Diabetes-Complications-Community-Other-Hormones.md) |
+| [PTH and calcium](04-Parathyroid-Calcium-Bone-Disorders.md) | 🟢 Foundation: gland map, normal function and receptors |
+| [Addison and Cushing](05-Adrenal-Addison-Cushing-Conn-Pheochromocytoma.md) | 🟡 Important: additional tumors and reproductive crossovers |
+| [Diabetes and insulin](06-Pancreas-Diabetes-Insulin-Drugs.md) | ⭐ [Source-linked PYQ index](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md) |
+| [Hypoglycemia, DKA and HHS](07-Hypoglycemia-DKA-HHS.md) | 📝 [Topic-wise MCQs](../MCQs/Endocrine-Topic-Wise.md) |
+
+> [!NOTE]
+> 🔴 Very High = revise first · 🟠 High = revise next · 🟡 Important = cover thoroughly · 🟢 Foundation = basics. These are preparation priorities, not verified exam repetition counts. **All topics remain in the detailed notes.**
+
+**How to study:** Basic idea → diagram → compare disorders → investigations → nursing first action → MCQ → rapid revision.
+
+---
+
 | Part | Detailed notes | Priority | Main topics |
 |---|---|---|---|
 | 1 | [Anatomy, hormones, feedback and assessment](01-Endocrine-Anatomy-Hormones-Feedback-Assessment.md) | 🟠 High | Gland locations, hormone receptors, HPT/HPA/HPG axes, primary vs central failure, lab and physical assessment |

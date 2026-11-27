@@ -7,6 +7,26 @@
 **Topics:** 1. Long-term diabetes complications · 2. Community screening and prevention · 3. Pregnancy and reproductive crossover · 4. Other endocrine glands and tumors
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Diabetic foot, kidney, eye and neuropathy care |
+| 🟠 **HIGH — next revise** | Community screening, GDM, PCOS, pregnancy and neonatal crossover |
+| 🟡 **IMPORTANT — cover after core** | Other hormones, MEN and endocrine tumors |
+
+> [!TIP]
+> **🧠 Memory trick:** Diabetes complications: eyes, kidneys, nerves, feet — regularly assess.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Foot injury ko ignore mat karo; daily inspection and appropriate follow-up.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Lambe time tak glucose high rahe toh chhoti aur badi blood vessels ko nuksan ho sakta hai. Chhoti vessels se aankh, kidney aur nerves par asar hota hai. Badi vessels se heart attack, stroke aur pair mein blood kam pahunchne ka risk badhta hai.
@@ -23,6 +43,8 @@
 - [🟠 HIGH | Community nursing in India](#-high--community-nursing-in-india)
 - [🟠 HIGH | Pregnancy, neonate and reproductive endocrine](#-high--pregnancy-neonate-and-reproductive-endocrine)
 - [🟡 IMPORTANT | Other glands, endocrine tumors](#-important--other-glands-endocrine-tumors)
+
+---
 
 ## 10. 🟡 Other endocrine topics — clubbed
 
@@ -48,6 +70,8 @@
 - Gestational diabetes: reinforce doctor ke order ki glucose targets, diet/medicine safety and antenatal follow-up. coordinate maternal/newborn baar-baar check karna and postpartum glucose testing.
 - Pineal/sleep disturbances: sleep history, sleep hygiene education, medication review and referral if persistent. Thymus-related problems: assess infection risk where immune dysfunction exists. specialist ke bataye plan ke hisaab se care.
 
+---
+
 ## 🔴 Diabetes and community nursing (India)
 ![Community screening and prevention](../Assets/community.svg)
 - Insulin high-alert drug: U-100 means 100 units/mL. Match syringe/pen concentration, check units, type, meal timing and glucose. Pen kabhi share mat karo. NPO type 1 still needs basal insulin plan.
@@ -63,6 +87,8 @@
 - ADH V2 receptor inserts aquaporin-2 channels in collecting duct. Dopamine inhibits prolactin. antipsychotics can raise it. Pituitary apoplexy sudden severe headache/vision changes and possible adrenal crisis is emergency.
 - Menopause lower estrogen removes negative feedback, FSH rises. PCOS diagnosis after excluding mimics. metabolic screening and respectful care. MEN1/MEN2 and pancreatic NETs require specialist assessment. rare subtypes overview only.
 
+---
+
 ## 🔴 VERY HIGH | Diabetes complications — understand vessel and nerve damage
 - Chronic hyperglycemia damages small vessels and nerves. duration, BP, lipids, smoking and kidney status influence risk. Microvascular = retina, kidney, neuropathy. macrovascular = MI, stroke, PAD.
 - Retinopathy: early no symptoms. dilated eye assessment according to diabetes type/duration and clinician schedule. Sudden visual change urgent.
@@ -70,21 +96,32 @@
 - Peripheral neuropathy: numbness, burning, loss of protective sensation. monofilament plus other sensation testing, inspect pulses/skin. Autonomic neuropathy may cause orthostatic dizziness, gastroparesis, bladder dysfunction, hypoglycemia unawareness.
 - Foot ulcer: neuropathy + pressure ± poor arterial supply/infection. Daily inspect sole/toe gaps, wash and dry especially between toes, protective shoes, no barefoot, no hot water/heating pad, no self-cutting corns. Ulcer needs offloading, vascular/infection assessment. no pain does not mean safe.
 - **Case:** patient has painless plantar ulcer with red spreading skin and fever. Urgent diabetic foot assessment. evaluate systemic infection, organs tak blood pahunchna (perfusion), glucose. do not simply dress and discharge.
+
+---
+
 ## 🟠 HIGH | Community nursing in India
 - NP-NCD population screening age 30 years and above. ASHA mobilizes, family risk assessment and health education. ANM/CHO screening at appropriate facility/community setting, referral and follow-up. Facility confirms diagnosis per protocol. Symptoms warrant assessment regardless of age.
 - Primary prevention healthy food, activity, tobacco cessation. Secondary early screening/diagnosis. Tertiary established disease care, disability/complication prevention and rehabilitation. Track referral completion, adherence, missed follow-up and medicine supply.
 - **NIDDCP:** iodine deficiency causes goiter and may affect pregnancy/child neurodevelopment. Use adequately iodized salt instead of plain salt. not more salt. India programme monitors iodine status and salt quality, education and surveys. Adequately iodized salt at consumer level typically ≥15 ppm (Indian standard. product/programme context). Iodine supplementation pregnancy per clinical guidance, not unsupervised high-dose.
 - Teach-back: ask patient to demonstrate glucose check, injection, foot inspection and what to do for hypoglycemia. Respect literacy, diet affordability and language. Maintain privacy in community records.
+
+---
+
 ## 🟠 HIGH | Pregnancy, neonate and reproductive endocrine
 - GDM placental hormone-related insulin resistance. pregnancy-specific screening and diagnostic criteria (India and ADA protocols differ). Maternal risks preeclampsia and later T2DM. neonatal macrosomia, hypoglycemia, birth complications. Coordinate antenatal glucose care, doctor ke order ki diet/medicine, newborn baar-baar check karna. postpartum 75g OGTT around 4–12 weeks per ADA and ongoing screening.
 - PCOS ovulatory dysfunction, hyperandrogenism ± polycystic ovarian morphology, exclude mimics. metabolic risks, irregular periods and fertility needs. Respectful counseling, patient ki zaroorat ke hisaab se treatment. Menopause estrogen falls, FSH rises. primary vs central hypogonadism based on gonadotropins.
 - Congenital hypothyroidism screen and early treatment. neonatal CAH salt wasting emergency. Detailed maternity/pediatric protocols belong also to those subjects.
+
+---
+
 ## 🟡 IMPORTANT | Other glands, endocrine tumors
 - Pineal melatonin darkness-related circadian signal. thymus T-cell maturation. renal renin, erythropoietin and calcitriol. cardiac ANP/BNP natriuresis. GI gastrin/secretin/CCK. Placental hCG supports corpus luteum early, hPL contributes insulin resistance.
 - MEN1 = parathyroid, pituitary, pancreatic/duodenal NET. MEN2 = medullary thyroid carcinoma, pheochromocytoma, sometimes parathyroid (2A). Specialist genetic counseling. pheochromocytoma evaluation before thyroid surgery in MEN2.
 - Insulinoma recurrent hypoglycemia (Whipple triad: symptoms, documented low glucose, relief after correction). Glucagonoma hyperglycemia, weight loss, necrolytic migratory erythema. somatostatinoma rare. Tumor specialist evaluation not self-diagnosis.
 - **Exam trick:** insulinoma causes low glucose. glucagonoma high glucose. medullary thyroid C cells calcitonin. MEN1 3 Ps. MEN2 medullary + pheochromocytoma.
 
+
+---
 
 ## 🎬 Study resources
 
@@ -93,6 +130,8 @@
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [MoHFW NP-NCD](https://www.mohfw.gov.in/sites/default/files/NP-NCD%20Operational%20Guidelines.pdf) · [DGHS NIDDCP](https://dghs.mohfw.gov.in/niddcp.php) · [ADA Standards](https://professional.diabetes.org/standards-of-care)

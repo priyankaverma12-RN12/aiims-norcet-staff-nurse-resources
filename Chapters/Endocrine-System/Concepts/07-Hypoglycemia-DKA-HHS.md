@@ -7,6 +7,26 @@
 **Topics:** 1. Hypoglycemia · 2. Diabetic ketoacidosis · 3. Hyperosmolar hyperglycemic state · 4. Emergency treatment monitoring and numericals
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Hypoglycemia, DKA vs HHS, emergency nursing and potassium |
+| 🟠 **HIGH — next revise** | Osmolality, numerical reasoning and monitoring |
+| 🟢 **FOUNDATION — understand first** | Normal glucose regulation recap |
+
+> [!TIP]
+> **🧠 Memory trick:** DKA = ketones + acidosis; HHS = hyperosmolality and severe dehydration.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Altered consciousness mein oral glucose nahi; DKA/HHS mein potassium safety and prescribed protocol.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Hypoglycemia ka matlab blood sugar kam. Dimaag ko glucose chahiye, isliye sugar bahut girne par confusion, behoshi ya jhatke aa sakte hain. Agar patient hosh mein hai aur nigal sakta hai tab jaldi glucose dena useful hai. Behosh patient ko muh se kuch mat do.
@@ -21,6 +41,8 @@
 - [🔴 VERY HIGH | DKA — why acidosis?](#-very-high--dka--why-acidosis)
 - [🔴 VERY HIGH | HHS — why neurological signs?](#-very-high--hhs--why-neurological-signs)
 - [🔴 VERY HIGH | Adult crisis nursing sequence](#-very-high--adult-crisis-nursing-sequence)
+
+---
 
 ## 9. 🔴 Hypoglycemia, DKA aur HHS
 
@@ -69,10 +91,15 @@
 - Identify precipitating illness (infection, omitted insulin, medicines etc.). monitor for overload in older patients or cardiac/renal impairment. Adult DKA/HHS protocols differ from pediatric/pregnancy protocols.
 - In IV insulin transition, ensure doctor ke order ki overlap with SC basal insulin to avoid rebound hyperglycemia/DKA. Confirm patient/caregiver has supplies and follow-up before discharge.
 
+---
+
 ## 🔴 VERY HIGH | Hypoglycemia — first recognize then act
 - Causes insulin/sulfonylurea excess relative to food, skipped meals, exercise, renal impairment (drug clearance), alcohol/illness. Autonomic warning sweating, tremor, hunger, palpitations. dimaag ko glucose kam milne wale confusion, behavior change, seizure, unconsciousness. Repeated lows may impair awareness.
 - Level 1 54–69 mg/dL. level 2 <54. level 3 severe requiring assistance regardless of glucose. If safely swallowing, rapid carbohydrate usually 15 g, recheck 15 min, repeat if still low. follow meal/snack plan. If unable to swallow no oral food/drink. emergency assistance, glucose/glucagon according to protocol.
 - **Case:** Glucose 48 and drowsy unable to swallow. No juice. ABC, emergency response, parenteral treatment as ordered, repeated glucose and evaluate cause. Long-acting insulin or sulfonylurea may cause recurrent low.
+
+---
+
 ## 🔴 VERY HIGH | DKA — why acidosis?
 ```mermaid
 flowchart TD
@@ -88,10 +115,16 @@ flowchart TD
 - Insulin low → lipolysis → liver ketones (beta-hydroxybutyrate, acetoacetate). acid accumulates. Deep Kussmaul breathing compensates by blowing off CO2. fruity breath from acetone. Vomiting, pain, dehydration, tachycardia. Glucose may be modest with SGLT2/pregnancy/fasting.
 - Triggers infection, omitted insulin, new diabetes, MI, stress, medication. Treat cause as well as metabolic crisis. Blood ketones preferred when available.
 - Initial K can be normal/high despite total body depletion. Insulin pushes K intracellularly. low K before insulin dangerous arrhythmia. Adult 2024 consensus delay insulin if K <3.5 until corrected >3.5. Older exam source 3.3 may differ.
+
+---
+
 ## 🔴 VERY HIGH | HHS — why neurological signs?
 - Relative insulin sufficient to limit major ketosis but not severe hyperglycemia → prolonged glucose ke saath urine mein paani zyada nikalna (osmotic diuresis) → water loss > sodium loss → high osmolality → confusion/seizures/coma possible. Common older type 2 with illness and limited water access. DKA/HHS overlap possible.
 - **Numerical example:** Na 148, glucose 900 mg/dL → effective osmolality = 296 + 50 = 346 mOsm/kg. Very high, but HHS requires all criteria including absence of significant ketosis ya acidosis.
 - HHS correction must be gradual. monitor osmolality and neurologic status, fluid overload especially heart/kidney disease.
+
+---
+
 ## 🔴 VERY HIGH | Adult crisis nursing sequence
 1. ABC, vital signs, mental status, ECG, IV access, glucose/ketones/electrolytes/venous pH/renal function and precipitant assessment.
 2. doctor ke order ki isotonic or balanced crystalloid, adjust with organs tak blood pahunchna (perfusion) and saath mein maujood doosri diseases. assess urine and fluid balance.
@@ -100,8 +133,11 @@ flowchart TD
 5. DKA resolution ketones <0.6 mmol/L AND (pH ≥7.3 OR bicarbonate ≥18). HHS resolution depends osmolality, hydration, cognition and glucose. not glucose alone. Transition with doctor ke order ki basal overlap before IV insulin stop.
 - Bicarbonate not routine DKA, bahut severe acidosis mein doctor kuch cases mein use kar sakte hain. Phosphate not routine unless clinically indicated. Pediatric DKA cerebral injury risk and fluid/insulin protocols distinct.
 - **Sick-day education:** do not omit doctor ke order ki basal insulin, monitor glucose and ketones, maintain tolerated fluids, know urgent symptoms (vomiting, abdominal pain, fast breathing, confusion, persistent ketones). Individual written plan.
+
 - **Exam trap:** Kussmaul = compensatory respiratory response to metabolic acidosis (blood mein acid badhna). No routine oral treatment when unconscious. Normal glucose alone does not equal DKA resolved.
 
+
+---
 
 ## 🎬 Study resources
 
@@ -110,6 +146,8 @@ flowchart TD
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [ADA 2026 hospital care](https://doi.org/10.2337/dc26-s016) · [ADA glycemic emergencies](https://doi.org/10.2337/dc26-s006) · [2024 adult crisis consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/)

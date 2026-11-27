@@ -7,6 +7,26 @@
 **Topics:** 1. Adrenal hormones · 2. Addison and crisis · 3. Cushing · 4. Conn, pheochromocytoma and CAH
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | Addison vs Cushing, adrenal crisis |
+| 🟠 **HIGH — next revise** | Conn syndrome, pheochromocytoma, CAH and adrenal surgery |
+| 🟢 **FOUNDATION — understand first** | Cortex vs medulla, adrenal hormones |
+
+> [!TIP]
+> **🧠 Memory trick:** Cortex: salt, sugar, sex (aldosterone, cortisol, androgens).
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Adrenal crisis mein circulation aur urgent prescribed treatment priority; steroid abruptly stop nahi.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Dono kidneys ke upar ek-ek adrenal gland hoti hai. Iski bahar wali layer cortex aur andar wali layer medulla hai. Cortex ko Salt, Sugar, Sex trick se yaad karo.
@@ -23,6 +43,8 @@
 - [🔴 VERY HIGH | Addison disease and adrenal crisis](#-very-high--addison-disease-and-adrenal-crisis)
 - [🔴 VERY HIGH | Cushing syndrome](#-very-high--cushing-syndrome)
 - [🟠 HIGH | Conn, pheochromocytoma and CAH](#-high--conn-pheochromocytoma-and-cah)
+
+---
 
 ## 7. 🟠 Adrenal glands
 
@@ -75,6 +97,7 @@ flowchart TD
 - Check BP including orthostatic changes, pulse, weight, I/O, sodium, potassium, glucose, nausea/vomiting, weakness and infection. Support safe mobility, doctor ke order ki nutrition and hormone replacement. monitor fludrocortisone response if doctor ke order ki.
 - Teach never abruptly discontinue chronic glucocorticoids. patient ki zaroorat ke hisaab se sick-day dosing plan, medical alert/steroid card, emergency injection teaching for patient/family if doctor ke order ki. Vomiting preventing tablets or severe illness requires urgent care.
 - **Adrenal crisis:** hypotension/shock, vomiting, weakness or altered consciousness. ABC, activate emergency response, IV access, ordered immediate hydrocortisone and isotonic fluid resuscitation. glucose/dextrose and electrolytes as needed per protocol. Do not delay treatment while awaiting cortisol results.
+
 - **Goal:** restored BP/organs tak blood pahunchna (perfusion), safe glucose and electrolytes.
 
 ### 🟠 Cushing syndrome, Conn syndrome and pheochromocytoma
@@ -83,24 +106,37 @@ flowchart TD
 - **Pheochromocytoma:** monitor BP/HR and headache/sweating/palpitations. minimize distress, avoid unnecessary abdominal tumor manipulation. Confirm doctor ke order ki alpha blockade before beta blockade. perioperative BP aur blood circulation se juda baar-baar check karna, post-op hypotension and hypoglycemia surveillance.
 - **CAH:** in infants monitor feeding, weight, vomiting, dehydration, glucose and electrolytes. suspected salt-wasting crisis requires emergency care. Teach caregiver medication/stress plan and follow-up.
 
+---
+
 ## 🟠 Adrenal and other hormone crossovers
 - Cortisol supports vascular response and glucose during stress. aldosterone saves sodium and excretes K. Primary adrenal failure loses both, ACTH rises, skin darkening possible. Central failure usually preserves aldosterone. high potassium (hyperkalemia) less typical.
 - Chronic exogenous steroids suppress HPA axis: sudden stopping unsafe. Screening for Cushing: late-night salivary cortisol, urine free cortisol or low-dose dexamethasone suppression kuch patients mein, not random cortisol alone.
 - Pheochromocytoma: plasma free or urinary fractionated metanephrines. doctor ke order ki alpha blockade before beta blockade, post-op monitor glucose/BP. Primary aldosteronism hypertension with or without low K. aldosterone-renin ratio screening.
 
+---
+
 ## 🟠 HIGH | Cortex and medulla mechanism
 - Cortex cholesterol se steroid hormones synthesize karta hai. Glomerulosa aldosterone mainly RAAS and K controlled. fasciculata cortisol ACTH controlled. reticularis adrenal androgens. Medulla sympathetic chromaffin cells adrenaline/noradrenaline.
 - Low renal organs tak blood pahunchna (perfusion) → renin → angiotensin II → aldosterone → distal nephron sodium reabsorption, potassium secretion. Water sodium follow karta hai. BP support. Cortisol glucose production and vascular catecholamine response support karta hai, immune inflammation suppress karta hai.
+
+---
+
 ## 🔴 VERY HIGH | Addison disease and adrenal crisis
 - Primary adrenal cortex failure (autoimmune, TB and other causes) → cortisol and often aldosterone low → fatigue, weight loss, khade hone par BP girna (orthostatic hypotension), salt craving, low Na, high K, possible hypoglycemia. ACTH rises → skin/mucosal skin ka rang gehra hona (hyperpigmentation). Secondary/tertiary ACTH suppression generally preserves aldosterone → pigmentation/high potassium (hyperkalemia) less typical.
 - Investigations morning cortisol and ACTH. ACTH stimulation adrenal reserve assess. electrolytes and glucose. Suspected crisis treatment labs ke wait mein delay nahi.
 - Chronic treatment glucocorticoid replacement. primary mineralocorticoid deficiency may need fludrocortisone. Monitor BP, orthostasis, K, Na, weight and symptoms. teach stress-dose plan, steroid card, emergency injection training if doctor ke order ki.
 - **Crisis:** vomiting, severe weakness, low BP/shock, confusion, possible low glucose. Emergency ABC, IV access, ordered immediate hydrocortisone and isotonic fluid, glucose/electrolytes monitor. Adult guideline often 100 mg hydrocortisone IV/IM initial then 200 mg/24 h. actual care protocol/medical team, pediatric doses separate.
 - **Case:** Patient on chronic steroids stops abruptly and develops vomiting, hypotension. Suspect adrenal insufficiency/crisis, not routine dehydration alone. Steroid withdrawal suppression important.
+
+---
+
 ## 🔴 VERY HIGH | Cushing syndrome
 - Cortisol excess exogenous steroid (common), pituitary ACTH tumor (Cushing disease), ectopic ACTH or adrenal cortisol tumor. Excess cortisol protein breakdown → thin skin, proximal muscle weakness, purple striae. fat redistribution → central obesity, moon face, dorsocervical fat. insulin resistance → glucose high. bone loss, infection, hypertension.
 - Screening tests selected: late-night salivary cortisol, 24h urinary free cortisol or overnight 1-mg dexamethasone suppression. random serum cortisol not screening. After biochemical diagnosis ACTH helps localize cause. imaging next zaroorat aur doctor ke order ke hisaab se.
 - Treatment cause-specific (taper exogenous only supervised, pituitary/adrenal surgery or specialist medication). Nursing skin protection, infection baar-baar check karna, glucose/BP, fall precautions, psychological support. after surgery risk adrenal insufficiency, doctor ke order ki steroid cover.
+
+---
+
 ## 🟠 HIGH | Conn, pheochromocytoma and CAH
 - Conn/primary aldosteronism excess aldosterone → hypertension, renin suppressed, K loss sometimes, metabolic alkalosis possible. Normal K does not rule out. ARR screen. confirm/localize per specialist (adrenal venous sampling selected). Unilateral adenoma surgery or mineralocorticoid antagonist e.g. spironolactone/eplerenone with K/renal baar-baar check karna.
 - Pheochromocytoma adrenal medulla. paraganglioma outside adrenal. Catecholamine excess episodes headache, sweating, palpitations ± severe BP. Metanephrines before imaging workup patient ki condition ke hisaab se. Alpha blockade before beta to avoid unopposed vasoconstriction. pre-op volume plan, post-op BP and glucose checks. Avoid provoking/manipulating suspected tumor.
@@ -109,6 +145,8 @@ flowchart TD
 - **Exam traps:** Addison vs Cushing opposite cortisol. Cushing disease pituitary. GFR Salt/Sugar/Sex. alpha before beta. steroids not abruptly stopped.
 
 
+---
+
 ## 🎬 Study resources
 
 [Addison disease lecture](https://www.youtube.com/watch?v=jxUXq7WoXhw) · [Mixed endocrine practice](https://www.youtube.com/watch?v=xcwJd5RbBb4)
@@ -116,6 +154,8 @@ flowchart TD
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [Endocrine Society adrenal insufficiency](https://academic.oup.com/jcem/article/101/2/364/2810222) · [NIDDK Cushing](https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome)

@@ -7,6 +7,26 @@
 **Topics:** 1. Anterior pituitary disorders · 2. Pituitary tumors and surgery · 3. DI · 4. SIADH
 
 
+## 🧭 Start here — 60-second priority map
+
+| Study priority | Is part mein pehle kya padhein? |
+|---|---|
+| 🔴 **VERY HIGH — first revise** | DI vs SIADH, sodium balance, GH disorders, postoperative care |
+| 🟠 **HIGH — next revise** | Prolactin, pituitary tumors and hypopituitarism |
+| 🟢 **FOUNDATION — understand first** | Anterior vs posterior pituitary hormones |
+
+> [!TIP]
+> **🧠 Memory trick:** DI = paani bahar; SIADH = paani body mein retain.
+
+> [!IMPORTANT]
+> **🏥 Nursing / exam alert:** Fluid balance, urine output, sodium and neurological status ko saath mein dekho.
+
+**Reading route:** 🧩 Basic concept → 🔬 mechanism → 📋 signs & tests → 💊 management → 🏥 nursing priorities → 📝 MCQ practice.
+
+*Priority is a study recommendation, not a verified PYQ frequency ranking. Read all detailed sections below.*
+
+---
+
 ### Pehle bilkul basic se samjho
 
 - Pituitary brain ke neeche ek matar jaisi chhoti gland hai. Brain ka hypothalamus isko signal bhejta hai. Pituitary phir doosri glands ko kaam karne ka message deti hai.
@@ -23,6 +43,8 @@
 - [🟠 HIGH | Prolactin, hypopituitarism and tumors](#-high--prolactin-hypopituitarism-and-tumors)
 - [🔴 VERY HIGH | Water balance — mechanism not just definition](#-very-high--water-balance--mechanism-not-just-definition)
 
+---
+
 ## 3. 🟠 Pituitary gland
 
 🔴 **MOST IMPORTANT:** ADH kahan banta hai aur kahan se release hota hai. Anterior vs posterior pituitary. Sheehan syndrome. Post-surgery urine output. 🟠 HP 2026 source reports posterior pituitary question ([source register](../Previous-Year-Questions/Endocrine-Previous-Year-Questions-Index.md)).
@@ -37,6 +59,8 @@
 - Sheehan syndrome: severe postpartum bleeding ke baad pituitary damage. milk na banna aur periods na aana clues hain.
 - Transsphenoidal surgery ke baad urine output, sodium, neurological status aur clear nasal drainage monitor karo. CSF leak suspect ho toh report karo. Nose blowing/straining se bachne ki advice surgeon ke protocol ke hisaab se.
 
+
+---
 
 ## 4. 🔴 ADH, Diabetes insipidus aur SIADH
 
@@ -90,6 +114,7 @@ flowchart TD
 - **Assessment:** measure urine volume, concentration/specific gravity, fluid intake, daily weight, pulse, BP, serum sodium and osmolality. Look for dry mucosa, tachycardia, khade hone par BP girna (orthostatic hypotension) and altered consciousness.
 - **Action:** provide access to water if alert and permitted. support ordered fluid replacement, monitor response and administer doctor ke order ki desmopressin in central DI. Inability to drink or missed desmopressin in hospital can lead to severe dehydration. escalate early.
 - **Safety:** excessive desmopressin/water can cause low sodium (hyponatremia). Monitor urine and sodium after treatment. supervised diagnostic water deprivation only.
+
 - **Goal:** stable circulation, hydration, sodium and urine trends. **Exam priority:** prevent dehydration and high sodium (hypernatremia).
 
 ### 🔴 SIADH
@@ -97,16 +122,23 @@ flowchart TD
 - Implement ordered fluid restriction including oral/IV sources. explain rationale, provide mouth care. Severe symptomatic low sodium (hyponatremia) is an emergency: protect airway, seizure safety, rapid escalation, ordered hypertonic saline with close sodium checks. Avoid overly rapid correction.
 - Monitor improvement in consciousness and sodium. report rapid changes. **Exam priority:** neurologic safety and controlled sodium correction.
 
+---
+
 ## 🔴 Water balance — numerical and clinical reasoning
 - Total serum osmolality approximate = 2 × Na + glucose/18 + BUN/2.8 (glucose and BUN mg/dL). Effective osmolality excludes BUN. Example Na 140, glucose 90, BUN 14: total ~290 mOsm/kg, effective ~285.
 - DI mein urine dilute hota hai despite water loss. Patient freely drink kare toh sodium normal bhi ho sakta hai. SIADH usually hypotonic euvolemic low sodium (hyponatremia) with urine zaroorat se zyada concentrated hai (paani kam). adrenal/thyroid failure and other causes exclude karte hain. Water deprivation supervised specialist test hai.
 - Severe symptomatic low sodium (hyponatremia) mein airway/seizure safety first, doctor ke order ki hypertonic saline and close sodium baar-baar check karna. Overly rapid correction se osmotic demyelination ho sakti hai. correction limits clinical context par depend karti hain.
+
+---
 
 ## 🔴 VERY HIGH | GH excess and deficiency
 - GH protein synthesis, growth and fat metabolism mein role karta hai. liver IGF-1 GH ke growth effects mediate karta hai.
 - Gigantism: growth plate closure se pehle excess GH → excessive linear height. Acromegaly: closure ke baad bones length mein nahi, thickness aur soft tissue increase. ring/shoe size badhna, jaw protrusion, coarse facial features, sweating, sleep apnea, hypertension, diabetes risk.
 - GH deficiency children: slow growth velocity, proportionate short stature. growth chart important. Adults mein fatigue/body composition changes nonspecific. Specialist stimulation testing and treatment.
 - **Investigations:** age-adjusted IGF-1, sometimes oral glucose suppression GH, pituitary MRI. Acromegaly mein glucose ke baad GH appropriate suppress nahi hota. Treatment resectable adenoma surgery, somatostatin analogues, pegvisomant or selected radiotherapy. Monitor glucose, airway, cardiovascular and vision.
+
+---
+
 ## 🟠 HIGH | Prolactin, hypopituitarism and tumors
 - Dekho, prolactin ek hormone hai jo delivery ke baad breast mein doodh banne mein madad karta hai. Jab baby doodh peeta hai, tab oxytocin breast ki chhoti muscles ko contract karne ka signal deta hai. Isse bana hua doodh breast se bahar aata hai. Isi process ko milk let-down reflex kehte hain.
 - Ab dopamine ka role samjho. Brain ka hypothalamus dopamine release karta hai, jo normally pituitary gland ko prolactin kam release karne ka signal deta hai. Jab baby breastfeed karta hai, tab dopamine ka ye rokne wala signal kam ho jaata hai. Is wajah se prolactin ka level badh sakta hai aur doodh banne mein madad milti hai.
@@ -117,6 +149,9 @@ flowchart TD
 - Sheehan syndrome postpartum major hemorrhage → ischemic pituitary damage → failed lactation, periods na aana (amenorrhea), fatigue. may present late.
 - Pituitary apoplexy sudden severe headache, visual impairment, eye movement problem or shock = urgent evaluation. Acute cortisol deficiency possible.
 - Transsphenoidal surgery nose/sphenoid route se. Pre-op baseline vision, sodium, hormones. Post-op neuro observations, strict I/O, daily weight, urine concentration and serum sodium. clear watery nasal fluid/metallic salty taste report possible CSF leak. No independent nasal instrumentation/nose blowing. follow surgeon restrictions. Early DI and delayed SIADH can both occur.
+
+---
+
 ## 🔴 VERY HIGH | Water balance — mechanism not just definition
 - ADH collecting duct V2 receptor activate karta hai → aquaporin-2 water channels → water returns to blood → urine concentrates. DI mein signal absent (central) or kidney resistance (nephrogenic, e.g. lithium). Primary pyaas zyada lagna (polydipsia) also dilute urine, so specialist test differentiates.
 - **Case:** 5 L dilute urine/day after pituitary surgery, increasing thirst, sodium 150: suspect DI. assess organs tak blood pahunchna (perfusion), I/O, notify team and give doctor ke order ki replacement/desmopressin. Fluid restriction is wrong for uncontrolled DI.
@@ -127,6 +162,8 @@ flowchart TD
 - **Nursing evaluation:** stable mental status, organs tak blood pahunchna (perfusion), safe sodium trend, correct fluid intake and medication teach-back.
 
 
+---
+
 ## 🎬 Study resources
 
 [DI vs SIADH recap](https://www.youtube.com/watch?v=0ugdQ6pf3Kg) · [DI/SIADH question-solving segment](https://www.youtube.com/watch?v=xcwJd5RbBb4&t=1238s)
@@ -134,6 +171,8 @@ flowchart TD
 [All topic-wise teaching and MCQ videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
 
 [Chapter video table](Endocrine-System-Master-Guide.md) · [Topic-wise English MCQs](../MCQs/Endocrine-Topic-Wise.md). Video ka title aur description check kiya hai. Poora video nahi dekha gaya.
+
+---
 
 ## Clinical references
 [OpenStax pituitary nursing](https://openstax.org/books/medical-surgical-nursing/pages/21-4-pituitary-disorders) · [NIDDK acromegaly](https://www.niddk.nih.gov/health-information/endocrine-diseases/acromegaly)
