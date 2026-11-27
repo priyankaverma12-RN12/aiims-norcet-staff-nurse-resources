@@ -28,4 +28,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Verified chapter-local checkpoint above. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-ckd-20261127. Scope: CKD chapter-local package. Release after readback. -->
