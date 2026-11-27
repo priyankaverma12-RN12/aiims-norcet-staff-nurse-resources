@@ -4,7 +4,7 @@
 
 ### Q1. Which intervention may help prevent constipation in a stable patient without dietary or fluid restrictions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Avoid activity throughout admission
 - **B.** Use repeated enemas without assessing bowel habits
@@ -31,9 +31,11 @@ Constipation mein stool hard ho sakta hai ya bowel movement patient ke usual pat
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q78](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q78-which-intervention-may-help-prevent-constipation-in-a-stable-patient-without-dietary-or-fluid-restrictions)
+
 ### Q2. A patient reports several days without stool, severe abdominal pain, vomiting and distension. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ignore the symptoms until a week has passed
 - **B.** Arrange urgent assessment for possible obstruction before giving routine laxatives
@@ -60,9 +62,11 @@ Severe pain, vomiting, distension aur stool na aana sirf simple constipation nah
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q39](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q39-a-patient-reports-several-days-without-stool-severe-abdominal-pain-vomiting-and-distension-what-should-the-nurse-do)
+
 ### Q3. Which stool description suggests melena?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Black tarry stool
 - **B.** Pale formed stool alone
@@ -89,9 +93,11 @@ Melena ka matlab black, tar jaisa stool hai. Jab blood digestive tract mein bada
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q82](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q82-which-stool-description-suggests-melena)
+
 ### Q4. A patient has new black tarry stool with dizziness and hypotension. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give a routine stool softener and reassess tomorrow
 - **B.** Encourage unassisted ambulation
@@ -118,9 +124,11 @@ Black tarry stool ke saath hypotension aur dizziness circulation compromise ka w
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q89](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q89-a-patient-has-new-black-tarry-stool-with-dizziness-and-hypotension-what-is-the-priority)
+
 ### Q5. Which specimen handling action is appropriate for a stool sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Collect the sample from a shared toilet after flushing
 - **B.** Mix the sample with disinfectant
@@ -147,9 +155,11 @@ Stool test ki reliability specimen ke sahi collection par depend karti hai. Urin
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q63](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q63-which-specimen-handling-action-is-appropriate-for-a-stool-sample)
+
 ### Q6. A frail patient is prescribed an enema and has severe renal impairment. Which safety check is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use a phosphate product without checking renal function
 - **B.** Increase the volume independently if the first result is poor
@@ -172,13 +182,15 @@ Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal imp
 
 **Clinical reference:** [Topic reference](https://medlineplus.gov/druginfo/meds/a614018.html) (indexed guidance, direct page retrieval failed).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q110](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q110-a-frail-patient-is-prescribed-an-enema-and-has-severe-renal-impairment-which-safety-check-is-important)
+
 ### Q7. During an enema, the patient develops marked abdominal pain and bleeding. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reinsert the tip repeatedly without assessment
 - **B.** Stop the procedure and obtain prompt clinical assessment
@@ -201,13 +213,15 @@ Enema ke dauran marked pain ya bleeding possible mucosal injury ya serious compl
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q12](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q12-during-an-enema-the-patient-develops-marked-abdominal-pain-and-bleeding-what-should-the-nurse-do)
+
 ### Q8. Which position is traditionally used for routine rectal enema administration in a suitable patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept only** · **🟣 NHM MP CHO, 27 January 2021 Shift II — related reported concept only**
 
 - **A.** Left lateral position with appropriate hip and knee flexion
 - **B.** High Fowler position
@@ -230,13 +244,17 @@ Routine rectal enema mein suitable patient ko left lateral ya modified Sims posi
 
 **Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
 
+**Related historical evidence:** [AIIMS Delhi 15 September 2019 memory-based report](https://testbook.com/question-answer/nurse-advised-to-give-enema-for-patient-with-chron--62c258bbc970f2ccd43fa073) · [NHM MP CHO 27 January 2021 Shift II third-party question page](https://testbook.com/question-answer/while-administering-enema-patient-should-be-placed--62e73b207cbf34075de55d9b). Both publisher-reported answers support the related positioning concept. Official papers and keys not authenticated.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q105](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q105-which-position-is-traditionally-used-for-routine-rectal-enema-administration-in-a-suitable-patient)
+
 ### Q9. During manual disimpaction under an authorized plan, a patient becomes dizzy and bradycardic. What should the nurse suspect and do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Possible vagal stimulation, stop and assess circulation promptly
 - **B.** Normal harmless response, continue forcefully
@@ -263,9 +281,11 @@ Rectal manipulation se vagal reflex trigger ho sakta hai. Vagus nerve heart rate
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q51](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q51-during-manual-disimpaction-under-an-authorized-plan-a-patient-becomes-dizzy-and-bradycardic-what-should-the-nurse-suspect-and-do)
+
 ### Q10. What appearance is expected of a healthy newly created intestinal stoma after initial assessment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Dry black tissue
 - **B.** Pale gray tissue without perfusion
@@ -288,13 +308,15 @@ Stoma surgically banaya gaya bowel opening hai. Healthy mucosa mein blood supply
 
 **Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — stoma assessment and care, VS Nursing Academy Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Published 21 June 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q81](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q81-what-appearance-is-expected-of-a-healthy-newly-created-intestinal-stoma-after-initial-assessment)
+
 ### Q11. A new stoma becomes dusky and progressively dark. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Massage the stoma firmly
 - **B.** Apply an unprescribed vasoconstrictor
@@ -317,13 +339,15 @@ Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka pr
 
 **Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — stoma assessment and care, VS Nursing Academy Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Published 21 June 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q33](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q33-a-new-stoma-becomes-dusky-and-progressively-dark-which-action-is-appropriate)
+
 ### Q12. Which action protects peristomal skin when selecting an ostomy appliance?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Use ordinary adhesive directly on the stoma
 - **B.** Fit the opening closely around the stoma without constricting it
@@ -346,13 +370,15 @@ Peristomal skin stoma ke aas-paas ki skin hai. Bowel effluent skin ke contact me
 
 **Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — stoma assessment and care, VS Nursing Academy Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Published 21 June 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q91](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q91-which-action-protects-peristomal-skin-when-selecting-an-ostomy-appliance)
+
 ### Q13. A patient with an ileostomy has markedly increased watery output and dizziness. Which concern is most important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** A need to stop all drinking indefinitely
 - **B.** Dehydration and electrolyte loss requiring assessment
@@ -379,9 +405,11 @@ Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly wa
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q91](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q91-a-patient-with-an-ileostomy-has-markedly-increased-watery-output-and-dizziness-which-concern-is-most-important)
+
 ### Q14. Which stool characteristic is generally expected from a functioning ileostomy compared with a distal colostomy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** More liquid or paste-like effluent
 - **B.** Always fully formed dry stool
@@ -408,9 +436,11 @@ Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein st
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q50](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q50-which-stool-characteristic-is-generally-expected-from-a-functioning-ileostomy-compared-with-a-distal-colostomy)
+
 ### Q15. A patient has stool leaking beneath the ostomy skin barrier and painful surrounding skin. What is the best intervention?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reinforce the leaking edge indefinitely without inspection
 - **B.** Apply harsh chemicals to irritated skin
@@ -433,13 +463,15 @@ Ostomy leakage se enzymes aur bowel contents surrounding skin ko irritate kar sa
 
 **Clinical reference:** [Topic reference](https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications).
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — stoma assessment and care, VS Nursing Academy Ritika Mam](https://www.youtube.com/watch?v=sYwF3P326SQ).** Published 21 June 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q2](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q2-a-patient-has-stool-leaking-beneath-the-ostomy-skin-barrier-and-painful-surrounding-skin-what-is-the-best-intervention)
+
 ### Q16. Which position usually supports normal defecation for an ambulatory stable patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Standing on one foot
 - **B.** Head-down tilt
@@ -466,9 +498,11 @@ Normal defecation mein pelvic floor relaxation aur abdominal muscle coordination
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q34](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q34-which-position-usually-supports-normal-defecation-for-an-ambulatory-stable-patient)
+
 ### Q17. A patient has frequent watery stools during antibiotic therapy. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ignore because all antibiotic-associated diarrhea is harmless
 - **B.** Stop all oral fluids without clinical review
@@ -495,9 +529,11 @@ Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent wat
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q78](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q78-a-patient-has-frequent-watery-stools-during-antibiotic-therapy-what-should-the-nurse-do)
+
 ### Q18. Which method helps establish a bowel training routine when suitable?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Use physical restraints during every toilet visit
 - **B.** Schedule toileting at consistent times, often after meals
@@ -524,9 +560,11 @@ Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consiste
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q69](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q69-which-method-helps-establish-a-bowel-training-routine-when-suitable)
+
 ### Q19. An immobile patient has frequent small liquid stools but a history of severe constipation. Which issue should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Overflow around fecal impaction
 - **B.** Normal complete emptying proven by liquid stool
@@ -553,9 +591,11 @@ Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta ha
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q96](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q96-an-immobile-patient-has-frequent-small-liquid-stools-but-a-history-of-severe-constipation-which-issue-should-be-considered)
+
 ### Q20. What is the principal role of documenting bowel frequency, consistency and associated symptoms?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Assign the same diagnosis to every patient
 - **B.** Replace physical assessment in an acute abdomen
@@ -581,6 +621,8 @@ Bowel documentation patient ka usual pattern aur current changes compare karne m
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q107](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q107-what-is-the-principal-role-of-documenting-bowel-frequency-consistency-and-associated-symptoms)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
