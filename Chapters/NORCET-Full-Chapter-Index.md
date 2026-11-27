@@ -229,3 +229,8 @@ Verified 280 original MCQs across seven of 30 topic groups, 121 Medium and 159 D
 ### Evidence supplement — anaerobe topic
 
 Two additional distinct reported recruitment adaptations (HPSSC 2021 incubation and UPPSC 2021 gas gangrene), four indexed dedicated Clostridium learning/practice or quick-revision videos, and clinical source-control reasoning published. Current reported recruitment adaptations 33, plus two academic adaptations. Topic bank count remains 560 across 14/30 groups, chapter mocks 0/10, tracked global mocks 17/350. Next: viruses and viral replication. Full video playback and official answer keys pending. Do not double-count the replaced concurrent 40-question bank.
+
+
+### Continuation — viruses and viral replication
+
+40 original MCQs with 40 hidden answers, detailed concepts, two diagrams, four indexed videos and two reported recruitment question adaptations (HPSSC 2021 and RRB 2025) published. 600 original questions across 15/30 defined topic groups, 270 Medium and 330 Difficult, 35 reported recruitment adaptations plus two academic adaptations. Chapter mocks 0/10, tracked global mocks 17/350 pending neurological reconciliation. Next: bloodborne and hepatitis viruses, HIV. Official keys, playback, individual-topic coverage and global semantic duplicate audit remain pending.
