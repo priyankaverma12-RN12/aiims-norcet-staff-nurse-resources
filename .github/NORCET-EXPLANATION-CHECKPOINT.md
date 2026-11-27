@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-run15-physical
-Scope: Nursing Foundations Group 03E physical examination rationales only; no shared indexes
+Scope: Nursing Foundations Group 03E completed, Group 03 related mock and reported adaptation rationales only; no shared indexes
 Claimed UTC: 2026-11-27T09:34:34.070Z
 Expiry UTC: 2026-11-27T10:04:34.070Z
 
@@ -63,3 +63,7 @@ Remote Run 12 superseded requested Run 11; 264 live explanations and 1056 option
 
 ## Run 14 — 27 November 2026
 Resumed 290 live blocks. Group 03D Pulse Oximetry Q1–29 integrated, commit e7309cc17f2a33b426d3bb7bfe5f7792022a56d6 blob 70ca06972acf6ae0c43429ab5985dec7614038f7, exact readback and reversible rationale-only edit verified. All 29 keys retained, 116 individual option reasons, 29 clues, 22 concept links, one new description-level MCQ video lead (GRozFrA3VCg at 43:28 pulse oximetry/Hb binding, exact item/channel/playback pending). FDA, CDC CO, RCUK ABCDE and StatPearls indexed extracts reviewed, full direct source retrieval incomplete. Device policy refs Q11/12/22/23/29 pending. HPRCA official archive and 26044 schedule lead indexed, no item-level official key authenticated, no new historical labels. Existing question text/options/metadata/links preserved. Both skills, AGENTS, Copilot, learning and reverse logs fetched, applicable excerpts examined, full fresh line-by-line review not certified. Claims checked; Job 3 and Eye/ENT disjoint. Cumulative 319 live blocks (275 original, 40 mock, 4 reported adaptations), 1276 option reasons, no staged drafts or new question slots. Next 03E physical exam 27, Group 03 mocks and PYQs, then Group 04. First checkpoint write concurrent head conflict; fresh own claim and target readback checked before retry. Claim released. No shared index or schedule changes.
+
+
+## Run 15 — 27 November 2026 (topic bank)
+Resumed 319 live blocks. Group 03E Physical Examination Q1–27 expanded, commit 1a12df22433b008cf8a477a397bdc63412f45be3 blob e45066f270aba5d54f18e1f34ce5999a0ebc1dfd, exact readback, all key/option text matches and rationale-only reversal before metadata addition verified. 27 explanations, 108 individual reasons, 27 exam clues and 27 additional concept links. Q8 DSSSB Nursing Officer 27 Aug 2019 Shift III resonance report directly retrieved, publisher key 2, related concept only, not authenticated official key. GMCH 2019 abdominal sequence report also directly retrieved, not an exact match. Open RN abdomen and NICE DVT pages directly opened; respiratory and neurological pages indexed but direct retrieval cache miss, NICE AAA 403, CDC stroke and RCUK 2025 BLS indexed. HPRCA 26004 Apr28 and 25026 May29 final-key notices and 26044 Sept25 schedule indexed, no official item authenticated. Existing study Room physical examination 40 MCQ video description rechecked, playback and item timestamps pending. Existing question text/keys/metadata/links preserved. All claims checked before write. Both complete skills, AGENTS, Copilot, audit learnings and reverse checkpoint retrieved, applicable excerpts reviewed, fresh full line-by-line review not certified. Cumulative 346 live blocks (302 original-bank,40 reused mock,4 reported adaptations),1384 option reasons, zero drafts. All 152 Group 03 topic-bank questions now have expanded rationales. Next Group 03 reused mock slots and reported adaptations. Claim retained for this scope.
