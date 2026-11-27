@@ -646,9 +646,19 @@ Just culture ka goal learning aur fair accountability dono maintain karna hai. U
 
 **Correct: B. Shear**
 
-Shear mein skin surface relatively fixed reh sakti hai jab deeper tissue slide karti hai. Isse vessels stretch aur tissue injury ho sakti hai.
+Shear mein tissue layers ek doosre ke relative shift hoti hain. Raised bed se patient slide kare to skin surface bedding ke saath resist kar sakti hai jab deeper structures move karte hain. Blood vessels distort aur tissue damage ho sakta hai. Friction-reducing repositioning aid aur clinically appropriate bed elevation use karein. Breathing ya aspiration indication ko ignore nahi karein.
 
-**Baaki options kyun sahi nahi hain?** Osmosis water movement hai. Radiation heat transfer aur active transport cellular mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Osmosis semipermeable membrane ke across water movement hai. Yeh mechanical sliding force nahi hai.
+- **B (Sahi):** Shear deeper tissue aur surface ke relative movement se hoti hai. Sacral pressure ke saath tissue injury risk badh sakta hai.
+- **C (Galat):** Radiation heat transfer ka mechanism hai. Raised bed se sliding mein specific force shear hai.
+- **D (Galat):** Active transport cellular energy-dependent substance movement hai. Bed sliding se tissue layers ki mechanical distortion ko explain nahi karta.
+
+**Exam clue:** Sliding down raised bed = shear. Friction surface rubbing hai.
+
+**Clinical reference:** [International pressure injury guideline](https://www.internationalguideline.com/repositioning)
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
@@ -1563,9 +1573,19 @@ Transport ke dauran tubing bend ya disconnect ho sakti hai. Nurse sufficient sup
 
 **Correct: A. Reverse Trendelenburg**
 
-Reverse Trendelenburg mein whole bed tilt hoti hai aur head feet se higher hota hai. Ye Fowler se different hai jahan bed ka head section bend hota hai.
+Reverse Trendelenburg mein entire bed tilted hota hai aur head feet se higher hota hai. Fowler mein mainly head section elevate hota hai, hip flexion bhi ho sakti hai. Indication, BP aur sliding risk assess karein.
 
-**Baaki options kyun sahi nahi hain?** Trendelenburg head-down tilt hai. Lithotomy aur Sims body positions hain.
+**Option-wise explanation:**
+- **A (Sahi):** Reverse Trendelenburg mein bed surface head-up tilt hoti hai. Yeh stem ki exact definition hai.
+- **B (Galat):** Sims lateral-semi-prone body position hai, head-up whole-bed tilt nahi.
+- **C (Galat):** Trendelenburg mein head feet se lower hota hai. Yeh opposite direction hai.
+- **D (Galat):** Lithotomy mein legs supported aur hips-knees flexed rehte hain. Yeh whole-bed tilt nahi hai.
+
+**Exam clue:** Reverse Trendelenburg = whole bed head-up.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
@@ -2610,9 +2630,19 @@ Hearing aid important communication device hai. Labeled dry storage loss aur dam
 
 **Correct: A. A suitable slide sheet or transfer aid**
 
-Slide sheet surface friction kam karne mein help karti hai. Nurse trained technique aur equipment capacity follow karti hai.
+Slide sheet ya approved transfer aid dependent patient ki repositioning mein friction aur manual force kam karne ke liye use hota hai. Patient size, equipment capacity, staff assistance aur lines check karein. Manufacturer instructions aur facility protocol follow karein.
 
-**Baaki options kyun sahi nahi hain?** Dragging aur elbow traction skin-joint injury kar sakte hain. Improvised sling unsafe ho sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Approved slide sheet friction reduce karta hai aur controlled repositioning mein help karta hai.
+- **B (Galat):** Elbows se pulling joint aur skin injury kar sakti hai aur controlled full-body support nahi deti.
+- **C (Galat):** Rough linen par direct dragging friction aur skin trauma badhata hai.
+- **D (Galat):** Unassessed pillowcase lifting sling ke roop mein load-rated nahi hota. Tear ya fall ka risk hai.
+
+**Exam clue:** Approved slide aid, not dragging or improvised sling.
+
+**Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [International pressure injury guideline](https://www.internationalguideline.com/repositioning)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
@@ -2916,9 +2946,19 @@ Closed-loop communication mein message bhejna enough nahi hota. Sender ensure ka
 
 **Correct: C. Use suitable equipment and transfer technique that respects the specific restriction**
 
-Postoperative restrictions procedure aur patient ke hisaab se hoti hain. Suitable raised seat aur assistance prescribed angle maintain karne mein help kar sakte hain.
+Hip flexion restriction surgeon ke specific procedure aur patient plan par depend karti hai. Toileting ke liye assessed raised seat, commode ya assistance prescribed range maintain kar sakte hain. Har hip replacement patient ko same precaution ya fixed angle mandatory nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Low seat aur forceful flexion restriction violate kar sakti hain. Pain absent hona safety prove nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Pain absent hona restriction safe to break hone ka proof nahi hai.
+- **B (Galat):** Forceful flexion prescribed protection ko violate karti hai aur pain, tissue injury ya dislocation risk badha sakti hai.
+- **C (Sahi):** Suitable equipment aur individualized transfer technique prescribed restriction maintain karte hain aur safe toileting support karte hain.
+- **D (Galat):** Very low seat se sit-to-stand ke waqt hip flexion badh sakti hai aur prescribed limit violate ho sakti hai.
+
+**Exam clue:** Specific prescribed hip limit > generic rules.
+
+**Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
+
+**Dedicated MCQ video:** specific verified question mapping pending.
 
 </details>
 
