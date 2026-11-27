@@ -38,3 +38,11 @@ Dedicated oximetry MCQ-solving video unconfirmed. Related practice not a verifie
 - [VITAL SUPPORT SAS — Morse Scale | Fall Risk Assessment](https://www.youtube.com/watch?v=2avAZyfN1d0), teaching Q1–4 of [fall risk bank](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md), indexed scale components and exercises.
 - [VS Nursing Academy, Ritika Mam — Patient Safety and Positioning MCQ Sessions](https://www.youtube.com/watch?v=SISfTMUsLHg), related risk-prevention practice Q5–24, exact fall questions, dedicated fall MCQ video, playback and timestamps pending.
 - [AHRQ Fall TIPS](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html) · [Open RN Safety](https://www.ncbi.nlm.nih.gov/books/NBK610816/) · [World falls guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/).
+
+
+## Group 04B patient identification and procedure safety
+
+- [MediQuality Partners — WHO Surgical Safety Checklist, 3 Pauses](https://www.youtube.com/watch?v=4JLzNVARbO0), indexed teaching for Q13–24 and Q28 of [the bank](../MCQs/04B-Patient-Identification-and-Procedure-Safety-28-MCQs.md).
+- [Surgical checklist questions and answers](https://www.youtube.com/watch?v=rPGaGw-eSoI), indexed question-practice lead for Q13–24 and Q28, direct playback failed, channel and timestamps unconfirmed.
+- Existing VS Nursing Academy patient-safety practice link is related to Q1–12 and Q25–27 at topic level only. Exact identity items and dedicated identity question video pending.
+- [Open RN patient identification](https://www.ncbi.nlm.nih.gov/books/NBK596717/) and [WHO Safe Surgery](https://www.who.int/news-room/questions-and-answers/item/safe-surgery-saves-lives-frequently-asked-questions) directly retrieved. [Reported exam adaptations](../Previous-Year-Questions/04B-Identification-Procedure-Reported-Evidence.md).
