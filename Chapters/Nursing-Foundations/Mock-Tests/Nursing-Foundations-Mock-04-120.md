@@ -313,7 +313,7 @@ Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hon
 
 ### Q11. A patient with cardiac disease receives IV fluid and develops new crackles and increasing work of breathing. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase fluid rate
 - **B.** Assess respiratory and circulatory status and urgently review the infusion plan
@@ -343,7 +343,7 @@ Cardiac disease mein heart extra IV fluid efficiently handle nahi kar paata toh 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q16](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q16](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q16-a-patient-with-cardiac-disease-receives-iv-fluid-and-develops-new-crackles-and-increasing-work-of-breathing-what-should-the-nurse-do)
 
 ### Q12. Which action is appropriate when a patient asks for assistance with grooming but can perform part of the task?
 
@@ -433,7 +433,7 @@ Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin c
 
 ### Q15. A patient has low platelet count and mucosal bleeding. Why may rectal temperature measurement be inappropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Rectal insertion may cause mucosal trauma and bleeding
 - **B.** Platelet count has no relationship to bleeding risk
@@ -463,7 +463,7 @@ Platelets blood clot ke initial plug formation mein help karte hain. Thrombocyto
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q13](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q13](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q13-a-patient-has-low-platelet-count-and-mucosal-bleeding-why-may-rectal-temperature-measurement-be-inappropriate)
 
 ### Q16. A PRN analgesic is requested by a patient who received another sedating drug recently. Which action is most appropriate?
 
@@ -1404,7 +1404,7 @@ Culturally safe care patient ki own preferences poochti hai. Dietitian aur team 
 
 ### Q45. A patient with peripheral neuropathy requests a heating pad. Which risk should the nurse recognize?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Heat is safe indefinitely if the patient does not complain
 - **B.** Skin inspection becomes unnecessary
@@ -1434,7 +1434,7 @@ Peripheral neuropathy mein nerves ki sensation impaired ho sakti hai, jisse pati
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q15](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q15](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q15-a-patient-with-peripheral-neuropathy-requests-a-heating-pad-which-risk-should-the-nurse-recognize)
 
 ### Q46. A person collapses following electrical contact. What must a responder ensure before touching the person?
 
@@ -1510,7 +1510,7 @@ Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficu
 
 ### Q48. A patient weighs 62 kg yesterday and 64 kg today using the same scale and comparable conditions. What should the nurse consider?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It proves dehydration
 - **B.** It proves 2 kg of new muscle was formed overnight
@@ -1540,7 +1540,7 @@ Same scale aur comparable conditions mein weight 64 minus 62 = 2 kg badha hai. W
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q13](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q13](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q13-a-patient-weighs-62-kg-yesterday-and-64-kg-today-using-the-same-scale-and-comparable-conditions-what-should-the-nurse-consider)
 
 ### Q49. Which intervention helps reduce deconditioning during a prolonged hospital stay?
 
@@ -2088,7 +2088,7 @@ International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence
 
 ### Q65. Which finding is consistent with possible extracellular fluid volume depletion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Orthostatic dizziness with dry mucosa and reduced urine output
 - **B.** Bounding pulse with no other assessment
@@ -2118,7 +2118,7 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q15](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q15](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q15-which-finding-is-consistent-with-possible-extracellular-fluid-volume-depletion)
 
 ### Q66. Which historical event is closely associated with Florence Nightingale's nursing reforms?
 
@@ -2638,7 +2638,7 @@ Evisceration mein abdominal incision open ho jaata hai aur internal organ wound 
 
 ### Q82. A patient's output includes 900 mL urine and 300 mL drain fluid while measured intake is 1500 mL. What is recorded net balance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** +300 mL
 - **B.** −300 mL
@@ -2664,11 +2664,11 @@ Recorded fluid balance mein same observation period ka measured intake minus mea
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — intake/output calculations, Nursing Guru Kannada](https://www.youtube.com/watch?v=4KjbdI4RNmc).** 12 September 2026 ki published description mein positive aur negative fluid balance ke calculation MCQs diye gaye hain. Video Kannada mein hai. Exact question, timestamp aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q14](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q14](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q14-a-patients-output-includes-900-ml-urine-and-300-ml-drain-fluid-while-measured-intake-is-1500-ml-what-is-recorded-net-balance)
 
 ### Q83. A patient reports dizziness when cold ear drops are administered. What can help prevent this?
 
@@ -2976,7 +2976,7 @@ Intact nonblanchable change early pressure injury indicate kar sakti hai. Offloa
 
 ### Q93. A patient has a cold application over a poorly perfused limb. Which finding requires immediate reassessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increasing pallor, numbness or pain
 - **B.** A planned reassessment interval
@@ -3006,7 +3006,7 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q16](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q16](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q16-a-patient-has-a-cold-application-over-a-poorly-perfused-limb-which-finding-requires-immediate-reassessment)
 
 ### Q94. Which organization establishes statutory educational standards for nursing qualifications in India under its governing legislation?
 
@@ -3790,7 +3790,7 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 ### Q118. Which nursing action supports accurate comparison of serial temperatures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Record only rounded values without context
 - **B.** Use a consistent suitable route and document route and device when relevant
@@ -3820,7 +3820,7 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q14](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q14](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q14-which-nursing-action-supports-accurate-comparison-of-serial-temperatures)
 
 ### Q119. What is the purpose of advance care planning?
 
