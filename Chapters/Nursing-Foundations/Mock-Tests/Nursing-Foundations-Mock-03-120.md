@@ -8,7 +8,7 @@
 
 ### Q1. Which drain output information is essential for monitoring?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Amount, color, character and time for each drain
 - **B.** A combined amount without identifying separate drains
@@ -38,7 +38,7 @@ Drain output ka individual record recovery aur bleeding ke changes track karta h
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q9](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q9](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q9-which-drain-output-information-is-essential-for-monitoring)
 
 ### Q2. A patient refuses a scheduled bath because of fatigue. Which response reflects individualized care planning?
 
@@ -214,7 +214,7 @@ Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti h
 
 ### Q8. Which bandage turn is commonly used around joints such as the ankle?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 UPSSSC Health Worker (Female), 8 May 2022 — related reported concept**
 
 - **A.** Recurrent turn only
 - **B.** Figure-of-eight turn
@@ -246,7 +246,7 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q11](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q11](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q11-which-bandage-turn-is-commonly-used-around-joints-such-as-the-ankle)
 
 ### Q9. Which blood component primarily increases oxygen-carrying capacity in an anemic patient when transfusion is indicated?
 
@@ -726,7 +726,7 @@ Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 12
 
 ### Q23. Which sample is suitable for routine sputum culture when expectoration is possible?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Saliva from the lips
 - **B.** Deep respiratory sputum in the specified container
@@ -756,7 +756,7 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q11](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q11](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q11-which-sample-is-suitable-for-routine-sputum-culture-when-expectoration-is-possible)
 
 ### Q24. A postoperative patient has not voided and reports increasing suprapubic discomfort. What is the best initial assessment?
 
@@ -813,9 +813,22 @@ Spiritual care patient ke meaning, beliefs aur sources of comfort respect karti 
 
 **Correct: C. Imogene King's Goal Attainment Theory**
 
-King theory nurse aur patient ke mutual communication aur shared goals par focus karti hai. Agreed mobility goal transaction ka example hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Other models bhi care guide karte hain lekin mutual goal attainment King ka specific emphasis hai.
+King ki theory mein nurse aur patient milkar realistic goal decide karte hain. Jaise patient bed se chair tak safely jaana chahta hai, toh nurse uske saath required help aur action plan decide karti hai. Dono ka agreed goal aur uske liye action choose karna King ke transaction aur goal attainment concept ko dikhata hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Nightingale recovery ke liye suitable environment banane par focus karti hain.
+- **B (Galat):** Rogers person aur environment ko integrated whole ke roop mein samjhati hain. Mutual goal setting unka main identifying feature nahi hai.
+- **C (Sahi):** King ki theory mein nurse aur patient ki communication, interaction aur agreed goals central hain.
+- **D (Galat):** Johnson behavioral systems aur unke balance ko samjhati hain.
+
+**Exam clue:** Jab nurse aur patient milkar goal aur action decide karte hain, toh King ki theory yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -949,7 +962,7 @@ IPC sleeves intermittent pressure se venous flow support karti hain. Nurse corre
 
 ### Q31. Drainage abruptly stops while the surgical site becomes swollen and painful. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Strip the tubing forcefully regardless of policy
 - **B.** Remove the drain without authorization
@@ -979,7 +992,7 @@ Drainage ka stop hona alone healing prove nahi karta. Swelling aur pain ke saath
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q10](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q10](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q10-drainage-abruptly-stops-while-the-surgical-site-becomes-swollen-and-painful-which-response-is-appropriate)
 
 ### Q32. A timed 24-hour urine collection begins at 7 AM. What is the usual collection procedure?
 
@@ -1045,7 +1058,7 @@ Ischemia ka matlab tissue ko adequate blood supply na milna hai. New stoma ka pr
 
 ### Q34. Which measure is appropriate during sputum collection for suspected infectious pulmonary TB?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to cough toward staff
 - **B.** Remove respiratory precautions
@@ -1077,7 +1090,7 @@ Pulmonary TB mein infectious aerosols cough ke saath air mein spread ho sakte ha
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q12](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q12](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q12-which-measure-is-appropriate-during-sputum-collection-for-suspected-infectious-pulmonary-tb)
 
 ### Q35. A patient reports difficulty falling asleep due to repeated noise and nighttime interruptions. Which intervention addresses the likely modifiable cause?
 
@@ -1183,7 +1196,7 @@ Pressure-redistributing mattress body weight ko larger surface par distribute ka
 
 ### Q38. Why is a specimen collected near an active IV infusion potentially unreliable?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** IV fluid cannot alter any lab result
 - **B.** The blood becomes arterial
@@ -1213,7 +1226,7 @@ IV infusion mein saline, glucose ya prescribed medicines blood ke saath mix ho s
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q10](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q10](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q10-why-is-a-specimen-collected-near-an-active-iv-infusion-potentially-unreliable)
 
 ### Q39. Which order is conventionally used during routine abdominal physical examination?
 
@@ -2688,7 +2701,7 @@ Active IV infusion transfer ke dauran kink, disconnection, pump battery failure 
 
 ### Q85. After elastic bandaging, toes become pale, cool and numb. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess distal neurovascular status and relieve inappropriate compression according to protocol
 - **B.** Massage aggressively
@@ -2718,7 +2731,7 @@ Pale cool numb toes bandage ke baad arterial supply ya nerve compression ke warn
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q12](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q12](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q12-after-elastic-bandaging-toes-become-pale-cool-and-numb-what-is-the-priority)
 
 ### Q86. A patient has suspected infectious pulmonary tuberculosis. Which additional precaution is generally appropriate in healthcare?
 
@@ -2804,9 +2817,22 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Correct: C. Lydia Hall**
 
-Hall model body care, person as core aur disease treatment as cure ko connect karta hai. Nurse holistic role samajh sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Henderson needs, Peplau relationship aur Roy adaptation models hain.
+Lydia Hall ne nursing ko three connected circles se samjhaya. Care ka matlab body ki nursing care hai, jaise hygiene aur comfort. Core patient khud hai, jiske goals aur feelings important hain. Cure illness ke treatment ka hissa hai, jisme nurse other professionals ke saath kaam karti hai. Teenon milkar patient ki overall care ko samjhate hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Peplau nurse-patient therapeutic relationship ke phases samjhati hain.
+- **B (Galat):** Roy patient ki adaptation aur changes ke saath adjustment par focus karti hain.
+- **C (Sahi):** Hall ke model mein care, core aur cure teen interconnected circles hain.
+- **D (Galat):** Henderson fourteen basic needs aur patient independence par focus karti hain.
+
+**Exam clue:** Care, core aur cure saath aayein, toh Lydia Hall yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3536,7 +3562,7 @@ Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahi
 
 ### Q112. An unexpectedly high potassium result comes from a hemolyzed sample. What should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Pseudohyperkalemia from release of intracellular potassium
 - **B.** No patient assessment is needed
@@ -3566,7 +3592,7 @@ Hemolysis ka matlab blood cells ka tootna hai. Red blood cells ke andar potassiu
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q9](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q9](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q9-an-unexpectedly-high-potassium-result-comes-from-a-hemolyzed-sample-what-should-be-considered)
 
 ### Q113. Which instruction is appropriate for a midstream clean-catch urine specimen?
 
@@ -3675,9 +3701,22 @@ Return demonstration mein patient task khud karke dikhata hai. Nurse mistakes ob
 
 **Correct: A. Betty Neuman Systems Model**
 
-Neuman model stressors aur protective lines ke through system stability samjhata hai. Prevention interventions stress impact reduce karne par focus kar sakti hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Henderson needs, Orem self-care aur Watson caring par primary focus karti hain.
+Neuman patient ko open system maanti hain, yani body ke andar aur bahar ke changes ka us par asar pad sakta hai. Stressors aise factors hain jo patient ki stability disturb kar sakte hain, jaise illness ya emotional stress. Model protective defenses aur resistance ko samjhata hai. Nurse prevention aur care se stressors ka impact kam karne ki koshish karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Neuman Systems Model mein stressors, lines of defense aur system stability central concepts hain.
+- **B (Galat):** Watson caring relationship aur dignity par focus karti hain.
+- **C (Galat):** Orem ka model patient ki care ki need aur self-care ability ka gap explain karta hai.
+- **D (Galat):** Henderson fourteen basic needs organize karti hain. Unki theory ka identifying feature lines of defense nahi hai.
+
+**Exam clue:** Stressors aur lines of defense ko Neuman se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3761,9 +3800,22 @@ Incentive spirometer ek feedback device hai jo patient ko slow deep inspiration 
 
 **Correct: D. Jean Watson**
 
-Watson caring relationship, dignity aur holistic human experience ko nursing ke central parts maanti hain. Caritas concepts is approach se related hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Abdellah nursing problems aur Hall care-core-cure se associated hain.
+Watson ki Human Caring Theory mein patient ko sirf disease ya bed number nahi maana jaata. Nurse uski feelings, dignity, values aur individual experience samajhkar caring relationship develop karti hai. Caritas concepts caring ko everyday professional actions se jodte hain, jaise dhyan se sunna aur respect dena. Caring evidence-based treatment ka replacement nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Orem self-care deficit aur patient ki independence ke liye help dene par focus karti hain.
+- **B (Galat):** Abdellah patient-centered nursing problems identify aur manage karne ka framework deti hain.
+- **C (Galat):** Hall care, core aur cure ke three circles se associated hain.
+- **D (Sahi):** Jean Watson ki theory mein human caring aur Caritas concepts central hain.
+
+**Exam clue:** Carative aur Caritas terms ko Jean Watson se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

@@ -15,9 +15,20 @@
 
 **Correct: B. Notify the responsible clinician so informed consent can be completed before the procedure**
 
-Informed consent mein patient ko procedure, relevant risks aur alternatives samajhne ka chance milna chahiye. Nurse unanswered question ko responsible clinician tak pahunchati hai.
+Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko samajh aana chahiye ki operation kyun ho raha hai, important risks kya hain aur kya alternatives hain. Jab patient naya sawal poochta hai aur consent incomplete hai, toh nurse procedure aage badhane se pehle responsible clinician ko inform karti hai. Nurse patient ki understanding aur voluntary decision ko support karti hai, lekin authorized clinician ki explanation replace nahi karti.
 
-**Baaki options kyun sahi nahi hain?** Unexplained signature adequate consent nahi hai. Unauthorized signing aur assumed consent patient rights compromise karte hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Hospital admission se specific surgery ke liye consent automatically nahi milta.
+- **B (Sahi):** Responsible clinician ko inform karne se unanswered risk question clarify ho sakta hai aur valid consent complete kiya ja sakta hai.
+- **C (Galat):** Bina samjhaye signature lene se patient informed decision nahi le paata.
+- **D (Galat):** Nurse patient ki taraf se bina legal authority sign nahi kar sakti.
+
+**Exam clue:** Consent incomplete ho toh procedure se pehle clarification arrange karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -34,9 +45,22 @@ Informed consent mein patient ko procedure, relevant risks aur alternatives sama
 
 **Correct: A. Verify identity, planned procedure, site, allergies and relevant preparation**
 
-Checklist multiple safety details confirm karti hai. Isse preventable mismatch aur preparation errors identify ho sakte hain.
+Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho do patients ka surname same ho, toh sirf naam ya bed number dekhne se galat patient select ho sakta hai. Nurse approved identifiers, planned procedure, site, consent, allergies aur preparation verify karti hai. Surgical team prescribed sign-in, time-out aur sign-out checks bhi karti hai.
 
-**Baaki options kyun sahi nahi hain?** Bed number identity proof nahi hai. Allergy aur verification checks familiarity se unnecessary nahi hote.
+**Option-wise explanation:**
+
+- **A (Sahi):** Multiple safety details verify karne se wrong-patient, wrong-site aur preparation-related errors identify ho sakte hain.
+- **B (Galat):** Bed number badal sakta hai, isliye woh reliable patient identifier nahi hai.
+- **C (Galat):** Allergy alert remove karne se team important risk miss kar sakti hai.
+- **D (Galat):** Surgeon patient ko pehchanta ho tab bhi standardized checks zaroori hain.
+
+**Exam clue:** Har patient ke liye prescribed checklist follow karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -53,9 +77,22 @@ Checklist multiple safety details confirm karti hai. Isse preventable mismatch a
 
 **Correct: D. Communicate actual intake and timing to the anesthesia team before proceeding**
 
-Anesthesia ke dauran protective airway reflexes reduce ho sakte hain. Recent intake aspiration risk affect kar sakti hai, isliye anesthetist decision leta hai.
+Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar stomach ka material upar aakar lungs mein chala jaaye, toh ise aspiration kehte hain. Nurse actual food aur time document karke anesthesia team ko inform karti hai. Fasting ka safe interval food type, patient ki condition aur procedure ki urgency par depend karta hai. Anesthesia team risk aur benefit assess karke next decision leti hai.
 
-**Baaki options kyun sahi nahi hain?** False record, induced vomiting aur unassessed proceeding unsafe hain.
+**Option-wise explanation:**
+
+- **A (Galat):** False fasting record anesthesia team ko galat risk information deta hai.
+- **B (Galat):** Vomiting induce karna aspiration risk badha sakta hai aur fasting violation ka safe solution nahi hai.
+- **C (Galat):** Small meal ko bina assessment harmless nahi maana ja sakta, kyunki stomach emptying vary karti hai.
+- **D (Sahi):** Actual intake aur timing communicate karne se team patient-specific aspiration risk assess kar sakti hai.
+
+**Exam clue:** Fasting instructions break hon toh actual intake document karke anesthesia team se decision lo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7413358/)
+
+**Additional clinical reference:** [2026 international peri-operative fasting consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161736/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -72,9 +109,20 @@ Anesthesia ke dauran protective airway reflexes reduce ho sakte hain. Recent int
 
 **Correct: C. Use suitable clippers according to surgical infection prevention policy**
 
-Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf clinically necessary ho toh policy ke according karni chahiye.
+Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se shave karne par skin mein chhote cuts ban sakte hain, jahan microorganisms enter kar sakte hain. Jab hair removal clinically necessary ho, toh appropriate electric clippers aur infection-prevention policy follow karo. NICE single-use clipper head ke saath surgery ke din removal recommend karta hai.
 
-**Baaki options kyun sahi nahi hain?** Razor microcuts infection risk badha sakti hain. Universal hair removal aur damaged skin par chemical use inappropriate hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Har body part ke hair remove karne se unnecessary skin injury ho sakti hai.
+- **B (Galat):** Damaged skin par unapproved chemical irritation ya injury badha sakta hai.
+- **C (Sahi):** Suitable clippers razor ke comparison mein skin microtrauma ka risk kam karte hain.
+- **D (Galat):** Razor shaving routine use ke liye preferred nahi hai, kyunki cuts infection ka risk badha sakte hain.
+
+**Exam clue:** Hair removal sirf zaroorat par approved clippers se karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng125/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -91,9 +139,20 @@ Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf 
 
 **Correct: C. Communicate the allergy and ensure a latex-safe perioperative plan**
 
-Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko allergy pehle se pata hona chahiye taaki suitable equipment ready ho.
+Latex allergy mein immune system natural rubber latex ke proteins par react kar sakta hai. Severe reaction mein airway swelling, breathing problem aur low BP ho sakta hai. Nurse allergy ko record aur communicate karti hai aur team ke saath latex-safe gloves, devices aur environment arrange karti hai. Premedication exposure avoid karne ka replacement nahi hoti.
 
-**Baaki options kyun sahi nahi hain?** Brief exposure aur premedication risk eliminate nahi karte. Reaction ka wait unsafe hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Premedication allergy risk completely khatam nahi karti, isliye alert remove karna unsafe hai.
+- **B (Galat):** Symptoms ka wait karne se preventable exposure aur serious reaction ho sakti hai.
+- **C (Sahi):** Team ko pehle inform karne aur latex-safe plan banane se exposure risk kam hota hai.
+- **D (Galat):** Brief surgery mein bhi latex reaction trigger kar sakta hai.
+
+**Exam clue:** Known latex allergy mein exposure prevent karo.
+
+**Clinical reference:** [Clinical guidance](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/operating-suite)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -110,9 +169,20 @@ Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko alle
 
 **Correct: B. Prepare the patient for appropriate postoperative recovery activities**
 
-Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. Surgery ke baad nurse condition aur restrictions ke according practice reinforce karti hai.
+Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow breathing kar sakta hai aur kam move kar sakta hai. Isse lung ke air sacs collapse hone aur immobility-related complications ka risk badh sakta hai. Surgery se pehle nurse suitable deep breathing, coughing aur mobilization techniques samjha sakti hai. Baad mein stability, pain aur surgical restrictions dekhkar exercises reinforce ki jaati hain.
 
-**Baaki options kyun sahi nahi hain?** Teaching complications completely prevent nahi karti. Pain control aur assessment still important hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Teaching postoperative assessment ki zaroorat khatam nahi karti.
+- **B (Sahi):** Preoperative instruction patient ko recovery activities ke liye mentally aur practically prepare karti hai.
+- **C (Galat):** Koi exercise sabhi possible postoperative complications ko prevent karne ki guarantee nahi deti.
+- **D (Galat):** Pain management ke bina patient deep breath ya movement comfortably nahi kar paata.
+
+**Exam clue:** Recovery exercises ko patient ki current condition ke hisaab se reinforce karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -129,9 +199,20 @@ Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. S
 
 **Correct: A. Assess airway patency and breathing and obtain appropriate airway support**
 
-Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced consciousness ke saath airway compromise urgent priority hai.
+Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab consciousness kam hoti hai, toh patient airway ko khud protect nahi kar paata. Nurse turant airway aur breathing assess karti hai, emergency help leti hai aur trained team ke saath indicated airway positioning, suction, oxygen ya ventilation support arrange karti hai. Routine care ke liye emergency assessment delay nahi karna chahiye.
 
-**Baaki options kyun sahi nahi hain?** Oral fluid aspiration risk badhati hai. Meal aur discharge teaching breathing stabilize hone ke baad appropriate hain.
+**Option-wise explanation:**
+
+- **A (Sahi):** Airway aur breathing first priority hain, kyunki oxygen supply rukne par patient rapidly deteriorate ho sakta hai.
+- **B (Galat):** Reduced consciousness mein oral fluid lungs mein ja sakta hai.
+- **C (Galat):** Meal preference breathing compromise address nahi karti aur assessment delay kar sakti hai.
+- **D (Galat):** Discharge exercises immediate life-threatening problems manage hone ke baad sikhayi jaati hain.
+
+**Exam clue:** Reduced consciousness aur abnormal breathing mein airway aur breathing ko priority do.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -148,9 +229,20 @@ Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced conscio
 
 **Correct: D. Postoperative hemorrhage with impaired perfusion**
 
-Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poor perfusion suggest karte hain, isliye urgent surgical review chahiye.
+Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta hai, toh organs tak oxygen aur blood pahunchne mein dikkat ho sakti hai. Pulse badhna, BP girna aur wound drainage rapidly badhna ongoing blood loss ke warning signs hain. Nurse ABC, vital signs, perfusion aur wound assess karke urgent surgical help activate karti hai aur hemorrhage protocol follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Ye stable recovery ka expected pattern nahi hai. Sleep aur knowledge deficit blood loss explain nahi karte.
+**Option-wise explanation:**
+
+- **A (Galat):** Rapidly falling BP aur increasing drainage routine recovery ka expected pattern nahi hai.
+- **B (Galat):** Normal sleep increasing wound blood loss aur circulatory instability explain nahi karti.
+- **C (Galat):** Knowledge deficit teaching ki need dikhata hai, lekin physiological deterioration urgent hai.
+- **D (Sahi):** Hemorrhage circulating volume kam kar sakta hai, isliye tachycardia aur hypotension impaired perfusion ka concern hain.
+
+**Exam clue:** Falling BP, rising pulse aur increasing bloody drainage ko urgent bleeding warning samjho.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -167,9 +259,20 @@ Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poo
 
 **Correct: D. Activity, respiration, circulation, consciousness and oxygenation**
 
-Recovery scoring patient ki physiological recovery systematically assess karne mein help karti hai. Actual discharge criteria facility protocol se determine hote hain.
+Aldrete-type recovery score anesthesia ke baad physiological recovery assess karne mein help karta hai. Common modern score mein movement, breathing, circulation, consciousness aur oxygen saturation check ki jaati hai. Original score mein colour use hota tha aur modified versions oxygenation use karte hain. Score alone safe discharge guarantee nahi karta, kyunki pain, bleeding, nausea aur procedure-specific criteria bhi assess karne hote hain.
 
-**Baaki options kyun sahi nahi hain?** Pain, wound aur fasting separately important ho sakte hain, lekin standard recovery score in tak limited nahi hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Pain important assessment hai, lekin Aldrete-type score sirf pain par based nahi hota.
+- **B (Galat):** Wound drainage colour alone overall anesthesia recovery nahi batata.
+- **C (Galat):** Fasting duration preoperative information hai aur current physiological recovery score ka component nahi hai.
+- **D (Sahi):** Activity, respiration, circulation, consciousness aur oxygenation common modified Aldrete domains hain.
+
+**Exam clue:** Five physiological domains yaad rakho aur discharge ke facility criteria bhi check karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK594237/?report=classic)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -186,9 +289,20 @@ Recovery scoring patient ki physiological recovery systematically assess karne m
 
 **Correct: C. Assess airway and alertness, position safely and give prescribed treatment as indicated**
 
-Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti hai. Nurse airway safety aur prescribed antiemetic plan assess karti hai.
+Anesthesia ke baad nausea aur vomiting ho sakti hai. Agar vomit airway mein chala jaaye, toh aspiration se breathing compromise ho sakti hai. Nurse alertness, airway aur breathing assess karti hai aur procedure aur clinical condition ke hisaab se safe position deti hai. Prescribed antiemetic, suction aur appropriate help arrange ki ja sakti hai. Oral intake tabhi resume karo jab safe ho.
 
-**Baaki options kyun sahi nahi hain?** Large meal aur unsafe flat position aspiration risk badha sakte hain. Symptoms ignore nahi karne chahiye.
+**Option-wise explanation:**
+
+- **A (Galat):** Active vomiting mein flat position airway risk badha sakti hai.
+- **B (Galat):** Anesthesia finish hone ke baad bhi nausea aur airway complications ho sakti hain.
+- **C (Sahi):** Airway assessment, safe positioning aur indicated treatment aspiration risk aur nausea dono ko address karte hain.
+- **D (Galat):** Large solid meal active nausea aur aspiration risk ke dauran vomiting worsen kar sakta hai.
+
+**Exam clue:** Postoperative vomiting mein airway safety pehle assess karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -205,9 +319,20 @@ Anesthesia ke baad nausea-vomiting aspiration aur wound stress cause kar sakti h
 
 **Correct: B. It supports functional recovery and reduces complications of immobility**
 
-Mobilization circulation, lung expansion aur muscle function support kar sakti hai. Nurse surgical restrictions aur stability check karti hai.
+Jab patient bahut der bed par rehta hai, toh leg muscles ki pumping kam ho jaati hai aur veins mein blood flow slow ho sakta hai. Muscles weak ho sakti hain aur lung expansion bhi kam ho sakta hai. Early safe mobilization recovery support karti hai. Nurse BP, pain, balance, fall risk aur surgical restrictions check karke suitable assistance ke saath patient ko move karwati hai.
 
-**Baaki options kyun sahi nahi hain?** Other prevention measures still needed ho sakte hain. Universal unrestricted activity unsafe hai.
+**Option-wise explanation:**
+
+- **A (Galat):** Mobilization ke baad bhi vital signs aur surgical complications assess karna zaroori hai.
+- **B (Sahi):** Safe movement muscle function aur venous return support karta hai aur immobility complications ka risk kam kar sakta hai.
+- **C (Galat):** Mobility alone har patient mein thrombosis prevention ke liye sufficient nahi hai.
+- **D (Galat):** Har operation ke baad unrestricted activity safe nahi hoti, kyunki restrictions alag ho sakti hain.
+
+**Exam clue:** Early mobilization ka matlab safe individualized movement hai.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -224,9 +349,20 @@ Mobilization circulation, lung expansion aur muscle function support kar sakti h
 
 **Correct: A. Assess bladder distension and use bladder scanning if indicated**
 
-Anesthesia, pain aur medicines urinary retention cause kar sakti hain. Bladder assessment retained urine aur low production differentiate karne mein help karti hai.
+Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar nahi nikal pa raha. Anesthesia aur medicines bladder sensation ya contraction affect kar sakti hain. Suprapubic discomfort, yani lower abdomen mein bladder ke upar pain, distension ka clue ho sakta hai. Nurse bladder assess karti hai, indicated scan se volume check karti hai aur local protocol ke according timely review leti hai. Low urine production bhi alag possibility hai.
 
-**Baaki options kyun sahi nahi hain?** Diuretics ya fluids retention necessarily solve nahi karte. Renal failure assume nahi karni chahiye.
+**Option-wise explanation:**
+
+- **A (Sahi):** Bladder assessment aur scan se retained urine aur khaali bladder differentiate karne mein help milti hai.
+- **B (Galat):** Unprescribed diuretic urine production badha sakti hai lekin blocked emptying solve nahi karti.
+- **C (Galat):** Voiding na hone se renal failure confirm nahi hota, kyunki retention bhi possible hai.
+- **D (Galat):** Large fluid intake bladder aur distend kar sakta hai aur fluid restrictions violate kar sakta hai.
+
+**Exam clue:** Urine pass na ho aur bladder discomfort ho, toh retention assess karo.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK549844/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -243,9 +379,20 @@ Anesthesia, pain aur medicines urinary retention cause kar sakti hain. Bladder a
 
 **Correct: A. Apply prescribed mechanical prophylaxis correctly and encourage suitable mobility**
 
-Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte hain. Nurse skin, fit aur contraindications assess karti hai.
+Venous thrombosis ka matlab vein ke andar blood clot ban jaana hai. Surgery aur immobility ke baad blood flow slow ho sakta hai aur clot risk badh sakta hai. Prescribed compression device aur suitable movement venous flow support kar sakte hain. Nurse VTE aur bleeding risk, skin, device fit aur contraindications check karti hai. Anticoagulant prophylaxis bhi individualized prescription ke hisaab se required ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Massage possible DVT mein unsafe hai. Bed rest stasis badhati hai. Prophylaxis removal plan se hona chahiye.
+**Option-wise explanation:**
+
+- **A (Sahi):** Prescribed mechanical prophylaxis correctly apply karna aur safe mobility encourage karna clot prevention plan ka hissa hai.
+- **B (Galat):** Deep calf massage approved prevention nahi hai. Suspected DVT mein massage avoid karke review lena chahiye.
+- **C (Galat):** Indefinite bed rest venous stasis, yani slow blood flow, badha sakti hai.
+- **D (Galat):** Prophylaxis bina review remove karne se prevention plan interrupt ho sakta hai.
+
+**Exam clue:** Prescribed devices, mobility aur individualized risk assessment ko saath consider karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -262,9 +409,20 @@ Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte h
 
 **Correct: D. Assess circulation and urgently notify the anesthesia team while following the treatment protocol**
 
-Spinal block sympathetic tone reduce karke vasodilation aur hypotension cause kar sakta hai. Nurse BP, pulse aur symptoms assess karke rapid review leti hai.
+Spinal anesthesia spinal nerves ke signals temporarily block karti hai. Isse sympathetic nerves ka control kam ho sakta hai aur blood vessels wider ho sakti hain. Jab vessels dilate hoti hain, toh BP gir sakta hai aur nausea ya dizziness ho sakti hai. Nurse circulation, pulse, oxygenation aur breathing assess karti hai, anesthesia team ko urgent inform karti hai aur authorized protocol follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Hypotension organ perfusion affect kar sakti hai. Standing aur antihypertensive medicine worsen kar sakte hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Spinal anesthesia ke baad low BP possible hai, lekin symptomatic hypotension harmless nahi hai.
+- **B (Galat):** Standing se BP aur gir sakta hai aur patient collapse kar sakta hai.
+- **C (Galat):** Antihypertensive medicine BP aur kam kar sakti hai. Unprescribed medicine unsafe hai.
+- **D (Sahi):** Circulation assessment aur urgent anesthesia review low BP ka cause identify aur treatment start karne mein help karte hain.
+
+**Exam clue:** Spinal block ke baad nausea aur hypotension ko urgently assess aur escalate karo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7276328/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -281,9 +439,20 @@ Spinal block sympathetic tone reduce karke vasodilation aur hypotension cause ka
 
 **Correct: C. Consider it contaminated and replace it appropriately**
 
-Sterile field ke outside contact ya uncontrolled exposure contamination concern create karta hai. Nurse suitable replacement arrange karti hai.
+Sterile ka matlab microorganisms se free hona hai. Sterile field controlled aur visible rakhna zaroori hai, kyunki bahar gire instrument ki contamination ka risk ho sakta hai. Agar instrument sterile field se neeche gir jaaye, toh nurse use contaminated maan kar appropriate replacement arrange karti hai. Sirf dekhne se microorganisms identify nahi hote.
 
-**Baaki options kyun sahi nahi hain?** Visual appearance sterility prove nahi karti. Dry wiping aur patient opinion sterile processing replace nahi karte.
+**Option-wise explanation:**
+
+- **A (Galat):** Dry towel se wipe karna approved sterilization process nahi hai.
+- **B (Galat):** Patient ki opinion instrument ki microbiological sterility verify nahi karti.
+- **C (Sahi):** Contaminated instrument remove karke sterile replacement use karne se infection risk kam ho sakta hai.
+- **D (Galat):** Instrument visually clean ho sakta hai lekin us par microorganisms ho sakte hain.
+
+**Exam clue:** Sterile field ke bahar gire instrument ko contaminated maan kar replace karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -300,9 +469,22 @@ Sterile field ke outside contact ya uncontrolled exposure contamination concern 
 
 **Correct: B. Reduce the risk of unintended retained surgical items**
 
-Counts team ko used items reconcile karne mein help karte hain. Discrepancy procedure-specific safety pathway se resolve ki jaati hai.
+Operation mein sponges, needles aur instruments use hote hain. Agar item patient ke andar reh jaaye, toh infection, pain ya doosri surgery ki zaroorat ho sakti hai. Surgical count se team used items ko policy ke hisaab se reconcile karti hai. Count ek safety layer hai, complete surgical checklist ka replacement nahi hai. Discrepancy par approved protocol follow hota hai.
 
-**Baaki options kyun sahi nahi hain?** Blood group, anesthesia calculation aur time-out separate safety processes hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Time-out patient, site aur procedure verify karne ka separate check hai.
+- **B (Sahi):** Count se team missing item identify kar sakti hai aur retained surgical item ka risk kam ho sakta hai.
+- **C (Galat):** Blood group laboratory compatibility testing se establish hota hai, count se nahi.
+- **D (Galat):** Anesthesia dose patient aur drug-specific plan se decide hoti hai.
+
+**Exam clue:** Surgical count ka purpose unintended retained surgical items prevent karna hai.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -319,9 +501,22 @@ Counts team ko used items reconcile karne mein help karte hain. Discrepancy proc
 
 **Correct: B. Immediately communicate the discrepancy and follow the retained-item prevention protocol**
 
-Incorrect count retained item ka risk indicate kar sakta hai. Team ko promptly informed hona chahiye taaki systematic search aur indicated imaging ho sake.
+Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse discrepancy immediately surgeon aur team ko batati hai, taaki systematic recount, search aur indicated imaging local protocol ke hisaab se ho sakein. Closure ke baare mein responsible team patient safety aur urgency dekhkar decision leti hai. Actual count aur actions accurately document karna zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** False count, concealment aur assumption patient safety compromise karte hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Bina search assume karne se retained item miss ho sakta hai.
+- **B (Sahi):** Discrepancy communicate aur protocol follow karne se problem timely address ho sakti hai.
+- **C (Galat):** Incorrect count ko correct document karna false record hai aur safety risk hide karta hai.
+- **D (Galat):** Record discard karne se important information kho sakti hai.
+
+**Exam clue:** Incorrect count ko conceal mat karo. Turant team ko inform karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -338,9 +533,20 @@ Incorrect count retained item ka risk indicate kar sakta hai. Team ko promptly i
 
 **Correct: A. Current airway and vital status, procedure details, orders and recovery criteria**
 
-Postoperative transfer safe tab hota hai jab stability aur monitoring needs assessed hon. Receiving nurse ko procedure, orders aur risk information chahiye.
+Postoperative handover mein ek team doosri team ko patient ki important information deti hai. Ward transfer se pehle nurse airway, breathing, vital signs, consciousness aur recovery status assess karti hai. Receiving nurse ko procedure, anesthesia, allergies, complications, lines, drains, medicines, orders aur monitoring needs batayi jaati hain. Patient ko authorized recovery criteria meet karne chahiye.
 
-**Baaki options kyun sahi nahi hain?** Arrival time, decor aur meal preference alone safe transfer determine nahi karte.
+**Option-wise explanation:**
+
+- **A (Sahi):** Current stability aur complete handover se receiving team safe care continue kar sakti hai.
+- **B (Galat):** Surgeon ka arrival time patient stability establish nahi karta.
+- **C (Galat):** Room decoration physiological recovery criteria se related nahi hai.
+- **D (Galat):** Meal preference comfort information hai lekin safe transfer ka main criterion nahi hai.
+
+**Exam clue:** Ward transfer se pehle current condition aur clinical handover verify karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -357,9 +563,20 @@ Postoperative transfer safe tab hota hai jab stability aur monitoring needs asse
 
 **Correct: D. Urgently assess neurovascular status and escalate for possible compartment syndrome**
 
-Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Severe pain aur paresthesia urgent signs hain. Pulses present hone par bhi condition possible hai.
+Compartment syndrome mein muscle ke around closed space ka pressure itna badh sakta hai ki blood supply aur nerves compromise ho jaati hain. Tight cast ke baad disproportionate pain aur paresthesia, yani tingling ya abnormal sensation, urgent warning signs hain. Nurse distal colour, temperature, sensation, movement, capillary refill, pulse aur pain assess karti hai aur urgent surgical review activate karti hai. Compression relieve karne ke authorized emergency protocol follow karo. Palpable pulse se early compartment syndrome exclude nahi hota.
 
-**Baaki options kyun sahi nahi hain?** Delay aur blind massage harmful ho sakte hain. Pulse alone exclusion nahi karta.
+**Option-wise explanation:**
+
+- **A (Galat):** Kal tak wait karne se pressure-related muscle aur nerve injury badh sakti hai.
+- **B (Galat):** Blind massage pressure problem treat nahi karti aur tissue injury ka risk hai.
+- **C (Galat):** Pulse early stage mein present ho sakta hai, isliye pulse alone condition rule out nahi karta.
+- **D (Sahi):** Urgent neurovascular assessment aur escalation time-sensitive condition identify aur treat karne mein help karti hai.
+
+**Exam clue:** Disproportionate pain aur new tingling ko urgent warning samjho, chahe pulse present ho.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK448124/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -376,9 +593,20 @@ Compartment pressure tissue perfusion aur nerves compromise kar sakta hai. Sever
 
 **Correct: C. Explain wound care, medication, activity restrictions and warning signs according to the procedure**
 
-Patient ko procedure-specific recovery plan samajhna chahiye. Clear warning signs aur follow-up instructions timely help access support karte hain.
+Discharge education se patient ghar par recovery safely manage kar sakta hai. Nurse procedure-specific wound care, medicines ka dose aur timing, activity restrictions, follow-up aur warning signs samjhati hai. Increasing wound redness, heavy bleeding, severe pain ya breathing difficulty par kab urgent help leni hai, yeh clearly batana chahiye. Teach-back mein patient apne words mein instructions repeat karta hai, jisse misunderstanding identify ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Universal plan unsuitable ho sakta hai. Warning signs omit karna aur independent dose change unsafe hain.
+**Option-wise explanation:**
+
+- **A (Galat):** Warning signs omit karne se serious complication mein help lene mein delay ho sakta hai.
+- **B (Galat):** Medication dose independently change karne se adverse effects ya inadequate treatment ho sakta hai.
+- **C (Sahi):** Procedure-specific instructions safe home care aur timely help-seeking support karti hain.
+- **D (Galat):** Har surgery ki wound care aur restrictions same nahi hoti.
+
+**Exam clue:** Home care, restrictions, follow-up aur warning signs clearly samjhao.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

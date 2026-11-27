@@ -4,7 +4,7 @@
 
 ### Q1. What is the purpose of an appropriately selected wound dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Prevent all wound inspection
 - **B.** Protect tissue and manage exudate in a suitable healing environment
@@ -32,9 +32,11 @@ Dressing wound ko cover karne wali protective material hai. Exudate wound se nik
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q55](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q55-what-is-the-purpose-of-an-appropriately-selected-wound-dressing)
+
 ### Q2. A surgical dressing rapidly saturates with fresh blood and the patient's pulse rises. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess circulation and bleeding and obtain urgent surgical help
 - **B.** Change the dressing without checking vital signs
@@ -62,9 +64,11 @@ Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood l
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q76](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q76-a-surgical-dressing-rapidly-saturates-with-fresh-blood-and-the-patients-pulse-rises-what-takes-priority)
+
 ### Q3. Which direction is generally appropriate when cleansing a simple clean incision using separate swabs?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** From a contaminated drain across the incision
 - **B.** Repeated passes with the same soiled swab
@@ -92,9 +96,11 @@ Simple clean incision ki suture line comparatively least contaminated area hoti 
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q20](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q20-which-direction-is-generally-appropriate-when-cleansing-a-simple-clean-incision-using-separate-swabs)
+
 ### Q4. A dressing adheres to fragile granulation tissue. What is the safest removal approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Cut blindly into the wound
 - **B.** Use an unapproved solvent
@@ -122,9 +128,11 @@ Granulation tissue naya vascular healing tissue hai. Adhered dressing ko force s
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q58](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q58-a-dressing-adheres-to-fragile-granulation-tissue-what-is-the-safest-removal-approach)
+
 ### Q5. Which wound characteristic commonly favors an absorbent foam dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** A wound needing no assessment
 - **B.** An exposed organ needing emergency coverage
@@ -152,9 +160,11 @@ Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exu
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q9](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q9-which-wound-characteristic-commonly-favors-an-absorbent-foam-dressing)
+
 ### Q6. Which wound is typically suited to an alginate dressing when clinically indicated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Any wound regardless of exudate
 - **B.** A moderately to heavily exuding wound
@@ -182,9 +192,11 @@ Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q94](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q94-which-wound-is-typically-suited-to-an-alginate-dressing-when-clinically-indicated)
+
 ### Q7. What is the purpose of a closed suction surgical drain?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Remove and collect fluid from a surgical space
 - **B.** Administer enteral feeding
@@ -212,9 +224,11 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q14](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q14-what-is-the-purpose-of-a-closed-suction-surgical-drain)
+
 ### Q8. A Jackson-Pratt drain bulb is fully expanded and prescribed suction is lost. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Puncture the bulb
 - **B.** Leave the tubing disconnected
@@ -242,9 +256,11 @@ Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q32](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q32-a-jackson-pratt-drain-bulb-is-fully-expanded-and-prescribed-suction-is-lost-what-should-the-nurse-do)
+
 ### Q9. Which drain output information is essential for monitoring?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Only the brand name
 - **B.** Only the day of admission
@@ -272,9 +288,11 @@ Drain output ka individual record recovery aur bleeding ke changes track karta h
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q1](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q1-which-drain-output-information-is-essential-for-monitoring)
+
 ### Q10. Drainage abruptly stops while the surgical site becomes swollen and painful. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume healing is complete
 - **B.** Remove the drain without authorization
@@ -302,9 +320,11 @@ Drainage ka stop hona alone healing prove nahi karta. Swelling aur pain ke saath
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q31](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q31-drainage-abruptly-stops-while-the-surgical-site-becomes-swollen-and-painful-which-response-is-appropriate)
+
 ### Q11. Which bandage turn is commonly used around joints such as the ankle?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 UPSSSC Health Worker (Female), 8 May 2022 — related reported concept**
 
 - **A.** Spiral reverse only in all joints
 - **B.** Figure-of-eight turn
@@ -334,9 +354,11 @@ Figure-of-eight turn joint ke upar aur neeche cross hota hai. Ankle, elbow ya kn
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q8](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q8-which-bandage-turn-is-commonly-used-around-joints-such-as-the-ankle)
+
 ### Q12. After elastic bandaging, toes become pale, cool and numb. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess distal neurovascular status and relieve inappropriate compression according to protocol
 - **B.** Tighten the bandage
@@ -364,9 +386,11 @@ Pale cool numb toes bandage ke baad arterial supply ya nerve compression ke warn
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q85](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q85-after-elastic-bandaging-toes-become-pale-cool-and-numb-what-is-the-priority)
+
 ### Q13. Which finding should be assessed before and after applying a limb bandage?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Distal circulation, sensation and movement
 - **B.** Only the bandage color
@@ -394,9 +418,11 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q75](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q75-which-finding-should-be-assessed-before-and-after-applying-a-limb-bandage)
+
 ### Q14. Before applying strong compression to a leg ulcer, which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Only the size of the dressing
 - **B.** Only the patient's age
@@ -424,9 +450,11 @@ Leg ulcer venous, arterial ya mixed cause ka ho sakta hai. Strong compression ve
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q22](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q22-before-applying-strong-compression-to-a-leg-ulcer-which-assessment-is-important)
+
 ### Q15. Which principle applies to removing sutures from a surgical incision?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Remove them without inspecting the wound
 - **B.** Pull deeply embedded sutures forcefully
@@ -454,9 +482,11 @@ Sutures wound edges ko saath hold karte hain. Removal timing body site, healing 
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q58](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q58-which-principle-applies-to-removing-sutures-from-a-surgical-incision)
+
 ### Q16. During staple removal the wound edges begin to separate. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Leave it open until tomorrow
 - **B.** Stop removal, support the wound and seek surgical assessment
@@ -484,9 +514,11 @@ Staple removal ke waqt edges separate hona dehiscence ka warning sign hai. Dehis
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q80](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q80-during-staple-removal-the-wound-edges-begin-to-separate-what-should-happen)
+
 ### Q17. Which advantage does a transparent film dressing offer in an appropriate low-exudate situation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Absence of all adhesive injury
 - **B.** Visual inspection without routine removal
@@ -514,9 +546,11 @@ Transparent film thin adhesive barrier hai jiske through covered site visible re
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q40](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q40-which-advantage-does-a-transparent-film-dressing-offer-in-an-appropriate-low-exudate-situation)
+
 ### Q18. A patient with negative-pressure wound therapy develops fresh blood in the tubing and dizziness. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Urgent assessment and device-specific bleeding emergency management
 - **B.** Increase suction
@@ -544,9 +578,11 @@ NPWT sealed dressing aur suction se wound fluid manage karti hai. Fresh blood au
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q19](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q19-a-patient-with-negative-pressure-wound-therapy-develops-fresh-blood-in-the-tubing-and-dizziness-what-is-the-priority)
+
 ### Q19. Which appearance is consistent with healthy granulation tissue?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Dry black eschar
 - **B.** Thick green pus
@@ -570,13 +606,17 @@ Granulation tissue proliferative healing phase mein new capillaries aur connecti
 
 **Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
 
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — third-party report](https://testbook.com/question-answer/in-which-phase-of-wound-healing-the-wound-appears--681c9290941b1c2fa82d45c7). Report wound healing mein pink vascular appearance ka related concept test karti hai. Official paper aur key independently authenticate nahi hue hain.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q39](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q39-which-appearance-is-consistent-with-healthy-granulation-tissue)
+
 ### Q20. Two wound care instructions conflict. What is the safest approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Apply both dressings without review
 - **B.** Ignore the latest assessment
@@ -603,6 +643,8 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q6](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q6-two-wound-care-instructions-conflict-what-is-the-safest-approach)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index)

@@ -293,7 +293,7 @@ Spaulding classification mein critical items woh hain jo sterile tissue ya vascu
 
 ### Q9. Which wound characteristic commonly favors an absorbent foam dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** An exposed organ needing emergency coverage
 - **B.** A wound needing no assessment
@@ -323,7 +323,7 @@ Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exu
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q5-which-wound-characteristic-commonly-favors-an-absorbent-foam-dressing)
 
 ### Q10. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
 
@@ -476,7 +476,7 @@ Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta
 
 ### Q14. What is the purpose of a closed suction surgical drain?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove and collect fluid from a surgical space
 - **B.** Replace wound sutures
@@ -506,7 +506,7 @@ Closed suction drain surgery ke baad operative space mein jama blood ya serous f
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q7-what-is-the-purpose-of-a-closed-suction-surgical-drain)
 
 ### Q15. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
@@ -1029,7 +1029,7 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 ### Q30. Which additive is commonly used for a CBC sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Delhi Nursing Officer, 16 September 2018 — related reported concept**
 
 - **A.** EDTA
 - **B.** No additive with clot formation
@@ -1057,9 +1057,11 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [AIIMS Delhi Nursing Officer, 16 September 2018 — memory-based report](https://testbook.com/question-answer/anticoagulant-present-in-hemogram-vial--62bd5c0ecc48a16cb684456c). Yeh third-party question hemogram ke anticoagulant ka concept test karta hai. Official paper aur key independently authenticate nahi hue hain. Yeh exact PYQ nahi hai.
+
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q5-which-additive-is-commonly-used-for-a-cbc-sample)
 
 ### Q31. Which action demonstrates veracity in nursing?
 
@@ -1084,7 +1086,7 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 ### Q32. A Jackson-Pratt drain bulb is fully expanded and prescribed suction is lost. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess the system and restore suction using the approved device procedure
 - **B.** Ignore the loss of suction
@@ -1114,7 +1116,7 @@ Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q8-a-jackson-pratt-drain-bulb-is-fully-expanded-and-prescribed-suction-is-lost-what-should-the-nurse-do)
 
 ### Q33. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
 
@@ -1607,7 +1609,7 @@ New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka
 
 ### Q48. How should a filled anticoagulant tube be mixed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Gently invert it according to manufacturer directions
 - **B.** Open and stir with a nonsterile stick
@@ -1637,7 +1639,7 @@ Anticoagulant ko collected blood mein uniformly mix hona chahiye. Manufacturer k
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q8-how-should-a-filled-anticoagulant-tube-be-mixed)
 
 ### Q49. A patient has diabetes, reduced foot sensation and thick toenails. Which approach is safest?
 
@@ -1672,7 +1674,7 @@ Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce
 
 ### Q50. Why can a markedly underfilled citrate tube affect coagulation tests?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The ratio never affects the result
 - **B.** Excess citrate relative to blood may prolong measured clotting time
@@ -1702,7 +1704,7 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q7-why-can-a-markedly-underfilled-citrate-tube-affect-coagulation-tests)
 
 ### Q51. A dying patient has dry mouth, limited oral intake and an aspiration risk. Which comfort measure is appropriate?
 
@@ -1727,7 +1729,7 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 ### Q52. Which additive is used for routine PT and aPTT samples?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** EDTA as the standard
 - **B.** Sodium citrate with correct blood-to-additive ratio
@@ -1757,7 +1759,7 @@ PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clo
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q6-which-additive-is-used-for-routine-pt-and-aptt-samples)
 
 ### Q53. A patient has a new ostomy and is being discharged tomorrow but cannot demonstrate appliance care. What should the nurse do?
 
@@ -2071,9 +2073,22 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 **Correct: D. Virginia Henderson**
 
-Henderson ne breathing, eating, elimination aur other basic activities ko nursing assistance se connect kiya. Aim patient independence support karna hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Peplau relationship, Rogers unitary human beings aur King goal attainment theory se associated hain.
+Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient ko saans lene, khane, movement, rest aur hygiene mein help ki zaroorat ho sakti hai. Nurse strength, knowledge aur ability assess karke help deti hai, taaki patient jitna possible ho independent ban sake.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rogers person aur environment ko ek integrated whole ke roop mein samjhati hain.
+- **B (Galat):** Peplau ka focus therapeutic relationship aur communication par hai, fourteen needs par nahi.
+- **C (Galat):** King ka focus nurse aur patient ke milkar goal decide karne aur achieve karne par hai.
+- **D (Sahi):** Henderson ki fourteen basic needs patient ki nursing care aur independence ko assess karne ka framework deti hain.
+
+**Exam clue:** Fourteen basic needs aur independence ka clue Henderson se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2384,9 +2399,22 @@ Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le j
 
 **Correct: D. Orientation**
 
-Orientation phase mein nurse aur patient meet karke problem identify aur relationship ki purpose establish karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Termination ya resolution relationship conclude hone par hoti hai. Initial interaction necessary hai.
+Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti hai, toh apna role batati hai, patient ki concerns sunti hai aur care ka purpose clarify karti hai. Isse trust build hota hai. Peplau ke original framework mein orientation, identification, exploitation aur resolution phases hain. Modern teaching mein beech ke phases ko working phase ke andar bhi samjhaya jaata hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Termination relationship ke end ko describe karti hai, pehli meeting ko nahi.
+- **B (Galat):** Resolution mein goals aur needs review hone ke baad professional relationship conclude hota hai.
+- **C (Galat):** Bina patient se interaction kiye evaluation karna initial relationship establish nahi karta.
+- **D (Sahi):** Orientation mein initial meeting, concerns identify karna aur roles clarify karna hota hai.
+
+**Exam clue:** Pehli meeting aur roles clarify karne ko orientation se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2488,9 +2516,22 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 **Correct: D. Prepare the patient for appropriate postoperative recovery activities**
 
-Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. Surgery ke baad nurse condition aur restrictions ke according practice reinforce karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching complications completely prevent nahi karti. Pain control aur assessment still important hain.
+Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow breathing kar sakta hai aur kam move kar sakta hai. Isse lung ke air sacs collapse hone aur immobility-related complications ka risk badh sakta hai. Surgery se pehle nurse suitable deep breathing, coughing aur mobilization techniques samjha sakti hai. Baad mein stability, pain aur surgical restrictions dekhkar exercises reinforce ki jaati hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Teaching postoperative assessment ki zaroorat khatam nahi karti.
+- **B (Galat):** Pain management ke bina patient deep breath ya movement comfortably nahi kar paata.
+- **C (Galat):** Koi exercise sabhi possible postoperative complications ko prevent karne ki guarantee nahi deti.
+- **D (Sahi):** Preoperative instruction patient ko recovery activities ke liye mentally aur practically prepare karti hai.
+
+**Exam clue:** Recovery exercises ko patient ki current condition ke hisaab se reinforce karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2592,9 +2633,22 @@ Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescri
 
 **Correct: D. Assess airway patency and breathing and obtain appropriate airway support**
 
-Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced consciousness ke saath airway compromise urgent priority hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Oral fluid aspiration risk badhati hai. Meal aur discharge teaching breathing stabilize hone ke baad appropriate hain.
+Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab consciousness kam hoti hai, toh patient airway ko khud protect nahi kar paata. Nurse turant airway aur breathing assess karti hai, emergency help leti hai aur trained team ke saath indicated airway positioning, suction, oxygen ya ventilation support arrange karti hai. Routine care ke liye emergency assessment delay nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Discharge exercises immediate life-threatening problems manage hone ke baad sikhayi jaati hain.
+- **B (Galat):** Meal preference breathing compromise address nahi karti aur assessment delay kar sakti hai.
+- **C (Galat):** Reduced consciousness mein oral fluid lungs mein ja sakta hai.
+- **D (Sahi):** Airway aur breathing first priority hain, kyunki oxygen supply rukne par patient rapidly deteriorate ho sakta hai.
+
+**Exam clue:** Reduced consciousness aur abnormal breathing mein airway aur breathing ko priority do.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2948,9 +3002,22 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 **Correct: D. Postoperative hemorrhage with impaired perfusion**
 
-Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poor perfusion suggest karte hain, isliye urgent surgical review chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ye stable recovery ka expected pattern nahi hai. Sleep aur knowledge deficit blood loss explain nahi karte.
+Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta hai, toh organs tak oxygen aur blood pahunchne mein dikkat ho sakti hai. Pulse badhna, BP girna aur wound drainage rapidly badhna ongoing blood loss ke warning signs hain. Nurse ABC, vital signs, perfusion aur wound assess karke urgent surgical help activate karti hai aur hemorrhage protocol follow karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Knowledge deficit teaching ki need dikhata hai, lekin physiological deterioration urgent hai.
+- **B (Galat):** Normal sleep increasing wound blood loss aur circulatory instability explain nahi karti.
+- **C (Galat):** Rapidly falling BP aur increasing drainage routine recovery ka expected pattern nahi hai.
+- **D (Sahi):** Hemorrhage circulating volume kam kar sakta hai, isliye tachycardia aur hypotension impaired perfusion ka concern hain.
+
+**Exam clue:** Falling BP, rising pulse aur increasing bloody drainage ko urgent bleeding warning samjho.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2989,7 +3056,7 @@ Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke partic
 
 ### Q94. Which wound is typically suited to an alginate dressing when clinically indicated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Any wound regardless of exudate
 - **B.** A moderately to heavily exuding wound
@@ -3019,7 +3086,7 @@ Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q6-which-wound-is-typically-suited-to-an-alginate-dressing-when-clinically-indicated)
 
 ### Q95. An adult is unresponsive and makes occasional gasping sounds. How should a trained responder interpret gasping?
 
@@ -3153,9 +3220,22 @@ Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone au
 
 **Correct: B. Peplau's theory**
 
-Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation aur working phases mein trust aur problem solving important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Roy adaptation aur Nightingale environment par focus karti hain.
+Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trust, communication aur support se patient ko problem manage karne mein help karti hai. Peplau ke model mein nurse patient ki concerns sunti hai, milkar goals par kaam karti hai aur professional boundaries maintain karti hai. Care sirf procedure karne tak limited nahi rehti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Roy patient ke physical aur emotional changes ke saath adjustment par focus karti hain.
+- **B (Sahi):** Peplau ka model nurse-patient relationship ko therapeutic care ka central part maanta hai.
+- **C (Galat):** Orem patient ki self-care ability aur care ki need ke gap par focus karti hain.
+- **D (Galat):** Nightingale patient ke environment ko recovery ke liye suitable banane par focus karti hain.
+
+**Exam clue:** Jab question therapeutic interpersonal relationship par ho, toh Peplau ko yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3570,9 +3650,22 @@ Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning
 
 **Correct: D. Sister Callista Roy**
 
-Roy model person ko adaptive system ke roop mein dekhta hai. Nursing physiological, self-concept, role aur interdependence adaptation support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Johnson behavioral systems, Hall care-core-cure aur Abdellah nursing problems se associated hain.
+Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke ke baad patient ko movement, apne baare mein soch aur ghar ke roles mein changes face karne pad sakte hain. Roy ke model mein nurse physiological needs, self-concept, role function aur relationships mein adjustment assess karke patient ko support karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hall ka model care, core aur cure ke three circles se associated hai.
+- **B (Galat):** Johnson ka model organized behavioral patterns aur unke balance par focus karta hai.
+- **C (Galat):** Abdellah ka framework twenty-one nursing problems ko organize karta hai.
+- **D (Sahi):** Sister Callista Roy ke model mein patient ko changes ke saath adjust karne mein support diya jaata hai.
+
+**Exam clue:** Adaptation aur four adaptive modes ko Roy se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3591,9 +3684,22 @@ Roy model person ko adaptive system ke roop mein dekhta hai. Nursing physiologic
 
 **Correct: C. Communicate the allergy and ensure a latex-safe perioperative plan**
 
-Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko allergy pehle se pata hona chahiye taaki suitable equipment ready ho.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Brief exposure aur premedication risk eliminate nahi karte. Reaction ka wait unsafe hai.
+Latex allergy mein immune system natural rubber latex ke proteins par react kar sakta hai. Severe reaction mein airway swelling, breathing problem aur low BP ho sakta hai. Nurse allergy ko record aur communicate karti hai aur team ke saath latex-safe gloves, devices aur environment arrange karti hai. Premedication exposure avoid karne ka replacement nahi hoti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Symptoms ka wait karne se preventable exposure aur serious reaction ho sakti hai.
+- **B (Galat):** Brief surgery mein bhi latex reaction trigger kar sakta hai.
+- **C (Sahi):** Team ko pehle inform karne aur latex-safe plan banane se exposure risk kam hota hai.
+- **D (Galat):** Premedication allergy risk completely khatam nahi karti, isliye alert remove karna unsafe hai.
+
+**Exam clue:** Known latex allergy mein exposure prevent karo.
+
+**Clinical reference:** [Clinical guidance](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/operating-suite)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

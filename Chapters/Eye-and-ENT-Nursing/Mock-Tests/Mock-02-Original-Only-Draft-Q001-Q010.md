@@ -17,13 +17,13 @@
 
 **Correct answer: B. Vestibular rehabilitation for chronic imbalance**
 
-- **A. Kyun galat hai:** Repositioning displaced otoconia in BPPV ko target karti hai. Chronic Ménière imbalance automatically BPPV prove nahi karta.
+- **A. Kyun galat hai:** BPPV mein inner ear ke chhote calcium particles, jinhe otoconia kehte hain, galat jagah chale jaate hain. Canalith repositioning un particles ko sahi jagah pahunchane ke liye ki jaati hai. Is patient mein positional vertigo ka evidence nahi hai, isliye baar-baar ye manoeuvre karna sahi nahi hai.
 
-- **B. Kyun sahi hai:** Chronic interictal imbalance mein supervised vestibular rehabilitation gaze stabilization, balance aur functional compensation support kar sakti hai. AAO-HNS 2020 guideline chronic imbalance ke liye referral recommend karti hai, acute spinning attacks ke management ke liye nahi.
+- **B. Kyun sahi hai:** Attack khatam hone ke baad bhi balance system se brain ko milne wale signals theek se coordinate nahi ho sakte hain. Vestibular rehabilitation mein trained therapist nazar ko stable rakhne, balance aur chalne ki exercises karwata hai. Isse brain ko naye signals ke saath adjust karne mein madad mil sakti hai. Nurse fall risk assess karegi aur safe referral arrange karegi. AAO-HNS chronic imbalance mein ye therapy recommend karti hai, acute attack ke treatment ke liye nahi.
 
-- **C. Kyun galat hai:** Prolonged suppressant use sedation aur vestibular compensation issues create kar sakta hai. Guideline attack-related limited use support karti hai.
+- **C. Kyun galat hai:** Vestibular suppressants chakkar aur nausea ko kuch samay ke liye kam kar sakte hain. Lekin inhe lagataar lene se neend aur girne ka risk badh sakta hai aur brain ke balance signals ke saath adjust karne mein dikkat ho sakti hai. Guideline acute attacks ke dauran limited course recommend karti hai.
 
-- **D. Kyun galat hai:** Unnecessary bed rest deconditioning aur independence loss cause kar sakta hai. Safe mobility aur fall precautions individualize karo.
+- **D. Kyun galat hai:** Bed rest se attack ke dauran temporary safety mil sakti hai. Lekin har attack ke beech bed par rehne se muscles kamzor ho sakti hain aur patient ki independence kam ho sakti hai. Nurse patient ki capacity ke hisaab se supervised mobility aur fall precautions plan karegi.
 
 **Clinical reference:** [Clinical guidance](https://doi.org/10.1177/0194599820909438).
 
@@ -44,13 +44,13 @@
 
 **Correct answer: D. Assess whether diagnostic criteria for vestibular migraine are met**
 
-- **A. Kyun galat hai:** Nausea multiple vestibular aur neurological disorders mein common hai. Complete symptom pattern aur hearing assessment chahiye.
+- **A. Kyun galat hai:** Nausea ka matlab ulti jaisa mann hona hai. Ye kai inner ear aur neurological disorders mein ho sakta hai, isliye sirf nausea se Ménière disease diagnose nahi hoti. Vertigo ka pattern aur hearing assessment bhi zaroori hain.
 
-- **B. Kyun galat hai:** Migraine aur auditory symptoms coexist kar sakte hain. Ear pressure alone migraine exclude nahi karta.
+- **B. Kyun galat hai:** Migraine wale patient ko bhi ear pressure ya tinnitus jaise symptoms ho sakte hain. Dono conditions saath bhi ho sakti hain. Isliye ear symptoms milne par migraine ko automatically exclude nahi karna chahiye.
 
-- **C. Kyun galat hai:** Normal interictal testing episodic disease exclude nahi karti. Clinical pattern aur audiometry important hain.
+- **C. Kyun galat hai:** Interictal ka matlab attacks ke beech ka samay hai. Jab patient ka attack nahi chal raha hota, tab kuch balance tests normal aa sakte hain. Isliye ek normal test se har episodic vestibular disorder ko exclude nahi kar sakte.
 
-- **D. Kyun sahi hai:** KAS2 possible Ménière disease evaluation mein vestibular migraine criteria assess karne ko kehta hai. Migraine history, duration aur associated features specialist differentiation mein useful hain.
+- **D. Kyun sahi hai:** Vestibular migraine ek condition hai jisme migraine ke saath balance ki problem ya vertigo ho sakta hai. Photophobia ka matlab roshni se takleef hona hai, jo migraine ka ek clue hai. AAO-HNS KAS 2 ke mutabik suspected Ménière disease mein vestibular migraine ke diagnostic criteria bhi assess karne chahiye. Nurse attack duration, headache history aur associated symptoms record karke clinician ko batayegi.
 
 **Clinical reference:** [Clinical guidance](https://doi.org/10.1177/0194599820909438).
 
@@ -71,13 +71,13 @@
 
 **Correct answer: A. It may control vertigo through vestibular toxicity but can also worsen hearing**
 
-- **A. Kyun sahi hai:** Selected refractory cases mein gentamicin vestibular function reduce karke attacks control kar sakti hai. Cochlear toxicity aur additional hearing loss possible hain. Baseline hearing, alternatives aur informed consent specialist review ka part hain.
+- **A. Kyun sahi hai:** Gentamicin ek antibiotic hai jo inner ear ke balance cells ko bhi damage kar sakti hai. Specialist ise selected refractory Ménière cases mein middle ear ke through deta hai, jab pehle ke nonablative treatments se active attacks control nahi hote. Balance signals kam hone se vertigo kam ho sakta hai, lekin hearing ke sensory cells ko bhi nuksan ho sakta hai. Isliye nurse hearing loss ke risk ko samjhayegi aur specialist ke consent aur baseline hearing assessment ko support karegi.
 
-- **B. Kyun galat hai:** Gentamicin hair cell regeneration treatment nahi hai. Vestibular toxicity iske selected therapeutic effect se related hai.
+- **B. Kyun galat hai:** Cochlear hair cells inner ear mein awaaz ko nerve signals mein badalne mein madad karte hain. Gentamicin in cells ko dobara banane ki dawa nahi hai. Isse hearing cells ko damage bhi ho sakta hai.
 
-- **C. Kyun galat hai:** Wax external canal problem hai. Intratympanic route inner ear effect ke liye use hota hai.
+- **C. Kyun galat hai:** Earwax outer ear canal mein jama hota hai. Is treatment mein medicine middle ear mein di jaati hai taaki inner ear ke balance system par effect ho. Iska purpose wax nikalna nahi hai.
 
-- **D. Kyun galat hai:** Local delivery target tissue toxicity eliminate nahi karti. Hearing preservation guarantee nahi di ja sakti.
+- **D. Kyun galat hai:** Medicine local jagah par dene se poore body mein exposure kam ho sakta hai, lekin inner ear ke cells ko damage hone ka risk khatam nahi hota. Isliye hearing bilkul unchanged rahegi, aisi guarantee nahi di ja sakti.
 
 **Clinical reference:** [Clinical guidance](https://doi.org/10.1177/0194599820909438).
 
@@ -98,13 +98,13 @@
 
 **Correct answer: C. The adjacent 1 and 2 kHz frequencies meet the criterion for considering MRI of the internal auditory meati**
 
-- **A. Kyun galat hai:** All frequencies ka qualify karna necessary nahi. Any two adjacent specified frequencies sufficient ho sakti hain.
+- **A. Kyun galat hai:** Audiometry mein alag-alag sound frequencies par dono kaanon ki hearing compare ki jaati hai. NICE ke is rule mein har frequency par 15 dB ka difference hona zaroori nahi hai. Di gayi frequencies mein do lagataar frequencies par ye difference milna kaafi hai.
 
-- **B. Kyun galat hai:** One isolated difference specified two-adjacent-frequency criterion ke equal nahi hai. Here dono qualify karte hain.
+- **B. Kyun galat hai:** Sirf ek frequency par bada difference milna is particular NICE rule ko satisfy nahi karta. Is question mein humein check karna hai ki do lagataar test frequencies par kam se kam 15 dB ka difference hai ya nahi.
 
-- **C. Kyun sahi hai:** At 1 kHz difference 15 dB hai aur 2 kHz par 20 dB. Dono adjacent aur at least 15 dB criterion satisfy karte hain. Clinician MRI consider kar sakta hai, audiogram tumor confirm nahi karta.
+- **C. Kyun sahi hai:** Sensorineural hearing loss mein inner ear ya hearing nerve se judi problem hoti hai. Is patient mein 1 kHz par 15 dB aur 2 kHz par 20 dB ka difference hai. Dono frequencies test list mein lagataar hain aur dono 15 dB ki minimum limit poori karti hain. Isliye NICE NG98 ke mutabik clinician MRI of internal auditory meati consider kar sakta hai. Is scan se hearing nerve ke aas-paas ki problem dekhi ja sakti hai, lekin audiogram akela tumour prove nahi karta. Ye guideline-specific advanced interpretation hai, independent nursing order nahi.
 
-- **D. Kyun galat hai:** Localising signs MRI offer karne ki separate indication hain. Qualifying asymmetry without localising signs mein MRI consider ki ja sakti hai.
+- **D. Kyun galat hai:** Facial weakness jaise localising neurological signs MRI offer karne ki alag wajah ho sakte hain. Lekin aise signs na hone par bhi qualifying asymmetric hearing loss mein MRI consider ki ja sakti hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng98/chapter/recommendations).
 
@@ -125,13 +125,13 @@
 
 **Correct answer: B. Follow-up remains necessary because residual or recurrent disease may not produce early symptoms**
 
-- **A. Kyun galat hai:** No drainage reassuring ho sakta hai, lekin residual epithelial disease definitively exclude nahi karta.
+- **A. Kyun galat hai:** Kaan se discharge band hona achhi baat ho sakti hai. Lekin cholesteatoma, yani middle ear mein skin jaise cells ka abnormal collection, andar bacha reh sakta hai ya dobara ban sakta hai. Sirf dry ear se disease ka poori tarah khatam hona prove nahi hota.
 
-- **B. Kyun sahi hai:** Cholesteatoma surgery ke baad residual/recurrent disease ka concern persist ho sakta hai. Surgeon operation type ke according examination, imaging ya second-look plan select karta hai. Asymptomatic patient bhi appointment attend kare.
+- **B. Kyun sahi hai:** Surgery ke baad kuch abnormal skin cells andar bache reh sakte hain ya naya cholesteatoma ban sakta hai. Shuru mein patient ko koi naya symptom mehsoos na ho, phir bhi damage ho sakta hai. Isliye ENT follow-up zaroori hai. Surgeon operation aur risk ke hisaab se examination, special MRI ya selected second-look surgery plan kar sakta hai. Nurse patient ko appointment attend karne ka reason samjhayegi.
 
-- **C. Kyun galat hai:** Audiogram functional information deta hai. Structural assessment ka complete substitute nahi.
+- **C. Kyun galat hai:** Audiogram batata hai ki patient alag-alag awaazon ko kitni achhi tarah sun pa raha hai. Lekin ye andar bache abnormal skin cells ko seedha nahi dikha sakta. Isliye structural follow-up ko sirf hearing test se replace nahi kar sakte.
 
-- **D. Kyun galat hai:** Repeat procedure har patient ke liye mandatory nahi. Individual risk aur findings decision guide karte hain.
+- **D. Kyun galat hai:** Har patient mein operation ka type aur disease dobara hone ka risk alag hota hai. Isliye sabko ek hi fixed interval par second operation ki zaroorat nahi hoti. ENT team individual findings ke hisaab se decision leti hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/cholesteatoma/).
 
@@ -152,13 +152,13 @@
 
 **Correct answer: D. Check the operating surgeon's specific advice before flying**
 
-- **A. Kyun galat hai:** External healing internal reconstruction ki recovery prove nahi karti.
+- **A. Kyun galat hai:** Bahar ka wound band dikhne ka matlab ye nahi hai ki middle ear ke andar ki repair bhi poori tarah heal ho gayi hai. Isliye nurse incision dekhkar flight ko safe declare nahi karegi.
 
-- **B. Kyun galat hai:** Decongestant complication risk eliminate nahi karta aur contraindications possible hain. Surgical clearance replace nahi hoti.
+- **B. Kyun galat hai:** Decongestant naak ki swelling kam kar sakta hai, lekin ye ear surgery ke baad pressure-related damage se protection ki guarantee nahi deta. Iske side effects aur contraindications bhi ho sakte hain. Surgeon ki clearance ki jagah medicine nahi le sakti.
 
-- **C. Kyun galat hai:** Permanent blanket restriction appropriate nahi. Recovery aur procedure ke according timing vary karti hai.
+- **C. Kyun galat hai:** Ear surgery ke baad flight restriction aksar recovery se judi hoti hai. Har procedure aur patient ki healing alag hoti hai, isliye sabhi patients ke liye permanent ban sahi nahi hai.
 
-- **D. Kyun sahi hai:** NHS guidance flight se pehle surgeon se check karne ko kehti hai. Pressure changes healing middle ear tissues ko affect kar sakte hain. Surgery type aur recovery ke basis par clearance individualized hai.
+- **D. Kyun sahi hai:** Flight ke dauran cabin pressure badalta hai aur middle ear ke pressure ko adjust hona padta hai. Agar andar ki repair abhi heal ho rahi hai toh dikkat ho sakti hai. NHS cholesteatoma advice bhi flight se pehle operating surgeon se poochhne ko kehti hai. Nurse booking ko safe declare karne ke bajay individual surgical advice check karwayegi.
 
 **Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/cholesteatoma/).
 
@@ -179,13 +179,13 @@
 
 **Correct answer: A. Restoring mechanical sound transmission may improve the conductive component while a sensorineural component may persist**
 
-- **A. Kyun sahi hai:** Stapes procedure mechanical transmission improve karti hai. Cochlear ya neural deficit ka mechanism different hai, isliye mixed hearing loss mein sensorineural component persist ho sakta hai. Audiometric follow-up outcome assess karta hai.
+- **A. Kyun sahi hai:** Stapes middle ear ki ek bahut chhoti haddi hai jo sound vibrations ko inner ear tak pahunchati hai. Otosclerosis mein ye haddi fixed ho sakti hai. Surgery fixed haddi ke effect ko bypass karke mechanical sound transmission improve kar sakti hai. Lekin agar inner ear ke hearing cells ya nerve mein pehle se damage hai, toh sensorineural hearing loss reh sakta hai. Isliye nurse patient ko realistic expectations samjhayegi aur audiometry follow-up encourage karegi.
 
-- **B. Kyun galat hai:** Stapes prosthesis ossicular transmission bypass karti hai. Cochlear cells replace nahi karti.
+- **B. Kyun galat hai:** Stapes prosthesis ek artificial device hai jo sound vibrations pass karne mein madad karta hai. Ye inner ear ke cochlear hair cells ko replace ya regenerate nahi karta.
 
-- **C. Kyun galat hai:** Residual hearing difficulty ke multiple causes hain including pre-existing SNHL. Wax assume karna unsafe hai.
+- **C. Kyun galat hai:** Surgery ke baad hearing mein dikkat ki kai wajah ho sakti hain, jaise pehle se maujood inner ear hearing loss. Sirf residual hearing problem se earwax ka hona prove nahi hota. Patient ka examination aur hearing test zaroori hain.
 
-- **D. Kyun galat hai:** Auditory nerve disorders middle ear fixation se alag hain. Stapes surgery every neural loss cure nahi karti.
+- **D. Kyun galat hai:** Auditory nerve awaaz ke signals brain tak le jaati hai. Stapes surgery middle ear ki mechanical problem ko address karti hai, har type ke nerve damage ko nahi. Isliye neural hearing loss cure hone ki guarantee nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nidcd.nih.gov/health/otosclerosis).
 
@@ -206,13 +206,13 @@
 
 **Correct answer: C. A suitably fitted hearing aid after audiological assessment**
 
-- **A. Kyun galat hai:** Otosclerosis abnormal bone remodeling hai, routine infection nahi. Antibiotics fixation reverse nahi karti.
+- **A. Kyun galat hai:** Otosclerosis mein ear ki haddi ka remodeling abnormal ho jaata hai aur stapes fixed ho sakti hai. Ye routine bacterial infection nahi hai. Isliye long-term antibiotics se fixed stapes ko free nahi kiya ja sakta.
 
-- **B. Kyun galat hai:** Irrigation wax remove kar sakti hai, middle ear fixed stapes ko mobilise nahi karti.
+- **B. Kyun galat hai:** Ear irrigation ka use selected patients mein outer ear ka wax nikalne ke liye hota hai. Stapes middle ear ke andar hoti hai. Bahar ka canal wash karne se fixed stapes move nahi karne lagegi.
 
-- **C. Kyun sahi hai:** Mild otosclerosis mein amplification suitable nonoperative option hai. Audiologist hearing profile, comfort aur communication goals ke according device select karta hai. Surgery discussion individualized rahegi.
+- **C. Kyun sahi hai:** Hearing aid awaaz ko amplify karta hai, yani awaaz ko patient ke liye zyada sunne layak banata hai. Mild otosclerosis mein hearing aid surgery ke bina communication improve karne ka ek option ho sakta hai. Audiologist hearing test aur patient ki zarooraton ke hisaab se device fit karega. Nurse patient ke concerns ko specialist tak pahunchayegi.
 
-- **D. Kyun galat hai:** Suppressants selected vertigo symptoms target karti hain, mechanical transmission restore nahi karti.
+- **D. Kyun galat hai:** Vestibular suppressants selected patients mein vertigo ke symptoms kam karte hain. Lekin ye sound vibrations ko fixed stapes ke through pass karne ki problem ko repair nahi karte. Isliye conductive hearing loss ke treatment ke liye ye sahi option nahi hai.
 
 **Clinical reference:** [Clinical guidance](https://www.nidcd.nih.gov/health/otosclerosis).
 
@@ -233,13 +233,13 @@
 
 **Correct answer: B. Clinician-directed imaging assessment for pulsatile tinnitus**
 
-- **A. Kyun galat hai:** Pulse-synchronous tinnitus vascular ya structural causes se related ho sakti hai. Persistent symptoms investigate karna important hai.
+- **A. Kyun galat hai:** Tinnitus ka matlab bina external sound ke kaan mein awaaz mehsoos hona hai. Agar ye awaaz pulse ke saath match karti hai, toh kabhi-kabhi blood vessels ya nearby structures ki problem ho sakti hai. Isliye bina assessment ke ise harmless kehna sahi nahi hai.
 
-- **B. Kyun sahi hai:** NICE NG155 pulsatile tinnitus mein imaging recommend karta hai. Modality examination aur suspected cause ke according select hoti hai. Acute severe or neurological symptoms urgency increase karte hain.
+- **B. Kyun sahi hai:** Pulse ke saath match karne wali awaaz ko pulsatile tinnitus kehte hain. NICE NG155 is pattern mein imaging offer karne ki recommendation deta hai, kyunki blood vessels ya doosri structural causes identify karni pad sakti hain. Doctor examination aur hearing assessment ke hisaab se suitable imaging select karega. Nurse new neurological symptoms ya sudden hearing loss par urgent escalation karegi.
 
-- **C. Kyun galat hai:** Wax auditory symptoms cause kar sakti hai, pulsatile tinnitus source evaluation ka substitute nahi.
+- **C. Kyun galat hai:** Earwax se blocked ear aur hearing symptoms ho sakte hain. Lekin pulse ke saath match karne wali awaaz ka source sirf wax assume nahi kar sakte. Wax removal zaroori assessment aur indicated imaging ka substitute nahi hai.
 
-- **D. Kyun galat hai:** Amplification selected hearing loss mein useful hai, lekin potentially vascular cause evaluation ko delay nahi karni chahiye.
+- **D. Kyun galat hai:** Hearing aid hearing loss ke saath communication improve karne mein help kar sakta hai. Lekin possible vascular cause ki investigation ko pehle hearing aid trial ke liye delay nahi karna chahiye.
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng155/chapter/Recommendations).
 
@@ -260,13 +260,13 @@
 
 **Correct answer: D. Routine imaging is not indicated for this uncomplicated symmetrical presentation**
 
-- **A. Kyun galat hai:** Imaging pattern aur associated findings par depend karti hai. Routine MRI every case mein supported nahi.
+- **A. Kyun galat hai:** Tinnitus ka pattern aur saath mein milne wale symptoms imaging ka decision guide karte hain. Har patient ko MRI ki zaroorat nahi hoti. Is uncomplicated symmetrical presentation mein routine MRI recommend nahi ki jaati.
 
-- **B. Kyun galat hai:** CT selected structural indications mein useful hai, is presentation mein routine prerequisite nahi.
+- **B. Kyun galat hai:** CT scan selected patients mein bone ya middle ear ki structural problem dekhne ke liye useful ho sakta hai. Lekin is patient mein koi aisa associated finding nahi diya gaya hai jo routine CT ko zaroori banaye. Counselling ko CT ke liye rokna sahi nahi hai.
 
-- **C. Kyun galat hai:** Annual imaging blanket plan supported nahi. New asymmetry, pulsatility ya neurological symptoms develop ho toh reassess karo.
+- **C. Kyun galat hai:** Agar symptoms stable hain aur imaging ki indication nahi hai, toh har saal scan karwana routine recommendation nahi hai. Agar baad mein awaaz ek taraf ho jaaye, pulse ke saath match kare ya neurological symptoms aayein, toh patient ka dobara assessment hona chahiye.
 
-- **D. Kyun sahi hai:** NICE NG155 is presentation mein imaging offer na karne ko kehta hai. Audiological assessment, symptom impact, support aur safety-net advice still relevant hain.
+- **D. Kyun sahi hai:** Is patient ko dono kaanon mein ek jaisi tinnitus hai, jo pulse ke saath match nahi karti. Assessment mein hearing, ear, nervous system ya head aur neck ki associated warning findings bhi nahi mili hain. NICE NG155 ke mutabik is pattern mein routine imaging offer nahi karni chahiye. Iska matlab ye nahi hai ki patient ki problem ignore karni hai. Nurse hearing assessment, sleep aur distress ke baare mein poochhegi, counselling support karegi aur naye warning symptoms par follow-up samjhayegi.
 
 **Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng155/chapter/Recommendations).
 
@@ -275,6 +275,8 @@
 </details>
 
 ## Validation and evidence
+
+28 November 2026: independent model-led clinical rereview Q1–10 and all 40 option rationales completed against AAO-HNS 2020 (KAS 2, 7, 12, 14a/14b), NICE NG98 and NG155 (including NCBI guideline text), NHS cholesteatoma and NIDCD otosclerosis. All ten keys and English stems/options unchanged. Full-sentence Roman Hinglish retrofit applied to every option. Q4 remains guideline-specific enrichment. See [audit ledger](Mock-02-Structural-and-Semantic-Audit.md) for residual gaps. This is not licensed specialist certification.
 
 Ten new reserved questions, 3 Medium/7 Difficult, 40 individual Roman Hinglish option rationales. Exact normalized stem comparison against current Mock 01 passed. Full current topic-bank, concept/PYQ, cross-chapter semantic review and independent clinical audit remain required before assembly. Q4 calculation checked: 15 and 20 dB at adjacent 1 and 2 kHz meet the criterion. AAO-HNS Ménière 2020 journal summary and official landing page indexed. NICE NG98/NG155 indexed recommendations, direct access returned 403. NHS cholesteatoma and NIDCD otosclerosis full HTML retrieved. No Indian-specific guideline equivalence claim. Q5/Q6 have indexed related MCQ topic lead only; all 10 exact playback mappings unverified. No completed mock slots counted.
 

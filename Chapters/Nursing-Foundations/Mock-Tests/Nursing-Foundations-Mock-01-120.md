@@ -547,9 +547,24 @@ Patient identification mein do independent approved person-specific identifiers 
 
 **Correct: D. Dorothea Orem**
 
-Orem theory ke according nursing tab needed hoti hai jab person apni self-care needs independently meet nahi kar paata. Nurse assistance aur teaching provide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Henderson basic needs, Roy adaptation aur Watson caring theory se associated hain.
+Self-care ka matlab hai apni health aur daily needs ka dhyan khud rakhna. Jaise patient apne aap naha sakta hai ya prescribed medicine manage kar sakta hai. Orem ke hisaab se jab care ki zaroorat patient ki ability se zyada ho jaati hai, toh self-care deficit hota hai. Nurse is gap ko assess karke help ya teaching deti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Roy ka model patient ke badli hui condition ke saath adjust karne ki ability par focus karta hai.
+- **B (Galat):** Watson ka model caring relationship aur patient ke human experience par focus karta hai.
+- **C (Galat):** Henderson ne fourteen basic needs aur independence par zor diya tha, lekin self-care deficit theory Orem ki hai.
+- **D (Sahi):** Orem ne self-care, self-care deficit aur nursing systems ko ek framework mein samjhaya hai.
+
+**Exam clue:** Jab patient apni care ki zaroorat khud poori nahi kar paata, toh Orem ki theory yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Related historical evidence:** [🟣 NORCET, 1 September 2020 memory-based paper](https://testbook.com/question-answer/self-care-deficit-theory-given-by--6177b3271f9fefb1556073fc). Retrieved report tests Orem attribution. Official paper/key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -599,7 +614,7 @@ Wet sterile drape ke through nonsterile surface se microorganisms transfer ho sa
 
 ### Q20. Which direction is generally appropriate when cleansing a simple clean incision using separate swabs?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** From cleaner to less clean areas
 - **B.** Scrubbing vigorously in every case
@@ -629,13 +644,13 @@ Simple clean incision ki suture line comparatively least contaminated area hoti 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q3](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q3](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q3-which-direction-is-generally-appropriate-when-cleansing-a-simple-clean-incision-using-separate-swabs)
 
 ## Block 2
 
 ### Q21. When should a specimen be labeled according to bedside identification policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** After the result returns
 - **B.** Before identifying the patient
@@ -665,7 +680,7 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q2](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q2](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q2-when-should-a-specimen-be-labeled-according-to-bedside-identification-policy)
 
 ### Q22. Which nursing theorist emphasized environmental conditions such as ventilation, cleanliness and light in promoting healing?
 
@@ -680,9 +695,24 @@ Sample ko patient ke paas verify karke label karne se tube aur actual patient ka
 
 **Correct: A. Florence Nightingale**
 
-Nightingale ne environment ko patient recovery ka important part maana. Cleanliness, fresh air aur suitable surroundings nursing care mein relevant hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Peplau interpersonal relations aur Neuman systems theory se associated hain.
+Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein madad karta hai. Jaise gande bed linen se infection ka risk badh sakta hai aur shor se patient ki neend disturb hoti hai. Isliye nurse safai, suitable ventilation, roshni aur rest par dhyan deti hai. Aaj ke time mein current infection-control precautions aur prescribed treatment bhi zaroori hain.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Nightingale ki approach environment ko improve karke patient ki recovery support karti hai.
+- **B (Galat):** Peplau ka focus nurse aur patient ke therapeutic relationship, yani care mein madad karne wale professional rishte, par hai.
+- **C (Galat):** Orem ka focus patient ki khud care karne ki ability par hai, ventilation ya roshni par nahi.
+- **D (Galat):** Neuman ka model stressors aur patient ki protective defenses ko samjhata hai.
+
+**Exam clue:** Safai, ventilation aur roshni ko healing se jodne wala question aaye, toh Nightingale ko yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Related historical evidence:** [🟣 AIIMS Bhopal Nursing Officer, 23 May 2018 Shift II](https://testbook.com/question-answer/_______-is-acknowledged-to-be-the-first-nursing-th--6294c6085aa5538dce8c8494). Retrieved third-party item tests Nightingale as early nursing theorist. Official key not authenticated. Original practice, not exact PYQ.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1470,9 +1500,24 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 **Correct: A. Verify identity, planned procedure, site, allergies and relevant preparation**
 
-Checklist multiple safety details confirm karti hai. Isse preventable mismatch aur preparation errors identify ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Bed number identity proof nahi hai. Allergy aur verification checks familiarity se unnecessary nahi hote.
+Preoperative checklist operation se pehle safety checks ki list hoti hai. Socho do patients ka surname same ho, toh sirf naam ya bed number dekhne se galat patient select ho sakta hai. Nurse approved identifiers, planned procedure, site, consent, allergies aur preparation verify karti hai. Surgical team prescribed sign-in, time-out aur sign-out checks bhi karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Multiple safety details verify karne se wrong-patient, wrong-site aur preparation-related errors identify ho sakte hain.
+- **B (Galat):** Allergy alert remove karne se team important risk miss kar sakti hai.
+- **C (Galat):** Bed number badal sakta hai, isliye woh reliable patient identifier nahi hai.
+- **D (Galat):** Surgeon patient ko pehchanta ho tab bhi standardized checks zaroori hain.
+
+**Exam clue:** Har patient ke liye prescribed checklist follow karo.
+
+**Clinical reference:** [Clinical guidance](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 20 November 2021 Shift II — WHO checklist sequence](https://testbook.com/question-answer/right-sequence-of-whos-surgical-safety-checks--65f84033c57a0e3e35610f37). Retrieved third-party memory-based report. Related checklist concept only, official key not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1763,7 +1808,7 @@ Therapeutic communication ka purpose patient ko safe environment dena hai jahan 
 
 ### Q55. What is the purpose of an appropriately selected wound dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Prevent all wound inspection
 - **B.** Keep every wound completely dry
@@ -1793,7 +1838,7 @@ Dressing wound ko cover karne wali protective material hai. Exudate wound se nik
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q1](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q1](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q1-what-is-the-purpose-of-an-appropriately-selected-wound-dressing)
 
 ### Q56. Which information is essential during medication reconciliation at admission?
 
@@ -1859,7 +1904,7 @@ New severe abdominal pain serious illness ka symptom ho sakta hai, even jab hear
 
 ### Q58. A dressing adheres to fragile granulation tissue. What is the safest removal approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use an unapproved solvent
 - **B.** Cut blindly into the wound
@@ -1889,11 +1934,11 @@ Granulation tissue naya vascular healing tissue hai. Adhered dressing ko force s
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q4](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q4](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q4-a-dressing-adheres-to-fragile-granulation-tissue-what-is-the-safest-removal-approach)
 
 ### Q59. Two unlabeled blood specimens are found beside different patients. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Label by nearest bed
 - **B.** Follow rejection or recollection policy without guessing identity
@@ -1923,7 +1968,7 @@ Specimen ka matlab patient se liya gaya sample hai. Agar sample ka patient se li
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q1](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q1](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q1-two-unlabeled-blood-specimens-are-found-beside-different-patients-what-should-the-nurse-do)
 
 ### Q60. Which muscle is commonly used for an adult IM vaccine when muscle mass is adequate?
 
@@ -2153,9 +2198,22 @@ Urinary retention ka matlab hai ki bladder mein urine jama hai, lekin patient us
 
 **Correct: A. Notify the responsible clinician so informed consent can be completed before the procedure**
 
-Informed consent mein patient ko procedure, relevant risks aur alternatives samajhne ka chance milna chahiye. Nurse unanswered question ko responsible clinician tak pahunchati hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unexplained signature adequate consent nahi hai. Unauthorized signing aur assumed consent patient rights compromise karte hain.
+Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko samajh aana chahiye ki operation kyun ho raha hai, important risks kya hain aur kya alternatives hain. Jab patient naya sawal poochta hai aur consent incomplete hai, toh nurse procedure aage badhane se pehle responsible clinician ko inform karti hai. Nurse patient ki understanding aur voluntary decision ko support karti hai, lekin authorized clinician ki explanation replace nahi karti.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Responsible clinician ko inform karne se unanswered risk question clarify ho sakta hai aur valid consent complete kiya ja sakta hai.
+- **B (Galat):** Bina samjhaye signature lene se patient informed decision nahi le paata.
+- **C (Galat):** Nurse patient ki taraf se bina legal authority sign nahi kar sakti.
+- **D (Galat):** Hospital admission se specific surgery ke liye consent automatically nahi milta.
+
+**Exam clue:** Consent incomplete ho toh procedure se pehle clarification arrange karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2479,7 +2537,7 @@ Discharge planning ka matlab hospital se ghar ya next care setting mein safe tra
 
 ### Q76. A surgical dressing rapidly saturates with fresh blood and the patient's pulse rises. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait until the scheduled dressing round
 - **B.** Change the dressing without checking vital signs
@@ -2509,7 +2567,7 @@ Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood l
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q2](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q2](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q2-a-surgical-dressing-rapidly-saturates-with-fresh-blood-and-the-patients-pulse-rises-what-takes-priority)
 
 ### Q77. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
@@ -2844,9 +2902,22 @@ Pain ek personal experience hai. Agar patient communicate kar sakta hai toh inte
 
 **Correct: C. Partly compensatory system**
 
-Partly compensatory mein patient kuch self-care khud karta hai aur nurse remaining tasks mein help karti hai. Is case mein dono care participate karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wholly compensatory mein patient largely unable hota hai. Supportive-educative mainly teaching-guidance situation hai.
+Socho patient apna face aur haath khud wash kar sakta hai, lekin pair dhone ke liye nurse ki help chahiye. Partly compensatory system mein patient aur nurse dono direct care mein hissa lete hain. Nurse utni help deti hai jitni patient ko zaroorat hai, taaki uski bachi hui ability aur independence maintain rahe.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Wholly compensatory system mein nurse relevant self-care activities patient ke behalf par karti hai. Yahan patient kuch kaam khud kar raha hai.
+- **B (Galat):** Supportive-educative system mein mainly teaching aur guidance ki zaroorat hoti hai. Is case mein direct physical help bhi chahiye.
+- **C (Sahi):** Partly compensatory system mein patient kuch care khud karta hai aur nurse baaki care mein help karti hai.
+- **D (Galat):** Yeh situation self-care ki need aur ability ke gap se related hai. Unrelated system is problem ko explain nahi karta.
+
+**Exam clue:** Jab patient aur nurse dono direct care mein hissa lete hain, toh partly compensatory system choose karo.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2993,9 +3064,22 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 **Correct: B. Use suitable clippers according to surgical infection prevention policy**
 
-Clippers skin microtrauma kam karne mein help kar sakte hain. Hair removal sirf clinically necessary ho toh policy ke according karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Razor microcuts infection risk badha sakti hain. Universal hair removal aur damaged skin par chemical use inappropriate hain.
+Surgery se pehle hair removal har patient ke liye zaroori nahi hoti. Razor se shave karne par skin mein chhote cuts ban sakte hain, jahan microorganisms enter kar sakte hain. Jab hair removal clinically necessary ho, toh appropriate electric clippers aur infection-prevention policy follow karo. NICE single-use clipper head ke saath surgery ke din removal recommend karta hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har body part ke hair remove karne se unnecessary skin injury ho sakti hai.
+- **B (Sahi):** Suitable clippers razor ke comparison mein skin microtrauma ka risk kam karte hain.
+- **C (Galat):** Damaged skin par unapproved chemical irritation ya injury badha sakta hai.
+- **D (Galat):** Razor shaving routine use ke liye preferred nahi hai, kyunki cuts infection ka risk badha sakte hain.
+
+**Exam clue:** Hair removal sirf zaroorat par approved clippers se karo.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/ng125/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3113,9 +3197,22 @@ Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indic
 
 **Correct: D. Supportive-educative**
 
-Patient physically capable hai lekin knowledge ya skill develop karni hai. Supportive-educative system education aur confidence building par focus karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wholly aur partly compensatory systems direct care assistance ke different levels describe karte hain.
+Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi technique aur safety checks nahi pata. Supportive-educative system mein nurse samjhati hai, demonstration deti hai aur supervised practice se check karti hai ki patient safely injection manage kar sakta hai. Agar skill ya safety concern baaki hai, toh discharge plan mein aur support arrange karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Environment ko safe banana useful hai, lekin yahan main need injection ki teaching aur practice hai.
+- **B (Galat):** Partly compensatory system mein nurse aur patient direct physical care share karte hain. Yahan aisi help ki zaroorat nahi batayi gayi hai.
+- **C (Galat):** Wholly compensatory system mein nurse patient ke behalf par care karti hai. Is case mein patient seekhkar khud kar sakta hai.
+- **D (Sahi):** Supportive-educative system fit hota hai kyunki patient instruction ke baad apni care khud kar sakta hai.
+
+**Exam clue:** Patient capable hai aur use sikhane ki zaroorat hai, toh supportive-educative system yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3470,7 +3567,7 @@ New consciousness change aur unequal pupils intracranial injury ka warning sign 
 
 ### Q108. What reduces blood culture contamination?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave bottle tops exposed
 - **B.** Palpate the prepared site with unclean fingers
@@ -3500,11 +3597,11 @@ Blood culture blood mein bacteria ya fungi detect karne ke liye hoti hai. Skin p
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q3](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q3](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q3-what-reduces-blood-culture-contamination)
 
 ### Q109. In suspected sepsis, when should ordered blood cultures be collected relative to urgent antibiotics?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Never when antibiotics are ordered
 - **B.** Several hours before antibiotics even if unstable
@@ -3534,7 +3631,7 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q4](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q4](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q4-in-suspected-sepsis-when-should-ordered-blood-cultures-be-collected-relative-to-urgent-antibiotics)
 
 ### Q110. During a medication round, a patient has a newly low blood pressure and is due for an antihypertensive. What is the safest first step?
 
@@ -3728,9 +3825,24 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 **Correct: C. Communicate actual intake and timing to the anesthesia team before proceeding**
 
-Anesthesia ke dauran protective airway reflexes reduce ho sakte hain. Recent intake aspiration risk affect kar sakti hai, isliye anesthetist decision leta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** False record, induced vomiting aur unassessed proceeding unsafe hain.
+Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar stomach ka material upar aakar lungs mein chala jaaye, toh ise aspiration kehte hain. Nurse actual food aur time document karke anesthesia team ko inform karti hai. Fasting ka safe interval food type, patient ki condition aur procedure ki urgency par depend karta hai. Anesthesia team risk aur benefit assess karke next decision leti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Small meal ko bina assessment harmless nahi maana ja sakta, kyunki stomach emptying vary karti hai.
+- **B (Galat):** False fasting record anesthesia team ko galat risk information deta hai.
+- **C (Sahi):** Actual intake aur timing communicate karne se team patient-specific aspiration risk assess kar sakti hai.
+- **D (Galat):** Vomiting induce karna aspiration risk badha sakta hai aur fasting violation ka safe solution nahi hai.
+
+**Exam clue:** Fasting instructions break hon toh actual intake document karke anesthesia team se decision lo.
+
+**Clinical reference:** [Clinical guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7413358/)
+
+**Additional clinical reference:** [2026 international peri-operative fasting consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161736/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 

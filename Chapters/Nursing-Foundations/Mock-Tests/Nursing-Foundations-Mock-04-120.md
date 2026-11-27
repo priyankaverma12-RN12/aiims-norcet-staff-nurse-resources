@@ -660,7 +660,7 @@ Sterile field ke outside contact ya uncontrolled exposure contamination concern 
 
 ### Q22. Before applying strong compression to a leg ulcer, which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Only the size of the dressing
 - **B.** Only the patient's age
@@ -690,7 +690,7 @@ Leg ulcer venous, arterial ya mixed cause ka ho sakta hai. Strong compression ve
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q14](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q14](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q14-before-applying-strong-compression-to-a-leg-ulcer-which-assessment-is-important)
 
 ### Q23. Which site characteristic is most important when selecting a peripheral IV vein?
 
@@ -1823,7 +1823,7 @@ Mechanical devices aur mobility venous stasis reduce karne mein help kar sakte h
 
 ### Q58. Which principle applies to removing sutures from a surgical incision?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove them without inspecting the wound
 - **B.** Pull deeply embedded sutures forcefully
@@ -1853,7 +1853,7 @@ Sutures wound edges ko saath hold karte hain. Removal timing body site, healing 
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q15](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q15](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q15-which-principle-applies-to-removing-sutures-from-a-surgical-incision)
 
 ### Q59. A patient on continuous enteral nutrition has an interruption because of a procedure and receives glucose-lowering medication. Which risk should the nurse consider?
 
@@ -1888,7 +1888,7 @@ Continuous feed carbohydrate supply deti hai. Agar feed interrupt ho jaaye lekin
 
 ### Q60. Which details belong on a specimen label and request as required?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the laboratory name
 - **B.** Only the expected result
@@ -1918,7 +1918,7 @@ Label aur request form laboratory ko batate hain ki specimen kis patient ka hai,
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q13](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q13](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q13-which-details-belong-on-a-specimen-label-and-request-as-required)
 
 ## Block 4
 
@@ -2039,9 +2039,22 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 **Correct: B. May 12**
 
-May 12 Florence Nightingale ki birth anniversary hai aur International Nurses Day isi date ko observe hota hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** April 7 World Health Day, March 8 International Women's Day aur December 1 World AIDS Day hai.
+International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence Nightingale ki birth anniversary hai. Is din nursing profession ki service aur challenges ko highlight kiya jaata hai. Annual theme badal sakti hai, lekin date 12 May rehti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 1 December World AIDS Day hai, International Nurses Day nahi.
+- **B (Sahi):** 12 May Nightingale ki birth anniversary hai aur ICN isi din International Nurses Day observe karta hai.
+- **C (Galat):** 7 April World Health Day hai, jo broader public health issues par focus karta hai.
+- **D (Galat):** 8 March International Women's Day hai, International Nurses Day nahi.
+
+**Exam clue:** International Nurses Day ki date 12 May yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://www.icn.ch/how-we-do-it/campaigns/international-nurses-day)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2094,9 +2107,22 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 **Correct: D. Care of soldiers during the Crimean War**
 
-Crimean War ke dauran Nightingale sanitation aur nursing organization reforms ke liye known hui. Baad mein professional nursing education mein important role raha.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** ABO Landsteiner, penicillin Fleming aur polio vaccine Salk-Sabin se related milestones hain.
+Crimean War ke dauran Florence Nightingale ne sick aur injured soldiers ki nursing care mein kaam kiya. Unhone sanitation, hospital conditions aur nursing organization improve karne ki importance dikhayi. Unke work aur later education reforms ka professional nursing par bada asar raha. Other staff aur public-health reforms ka contribution bhi important tha.
+
+**Option-wise explanation:**
+
+- **A (Galat):** ABO blood groups ki discovery Karl Landsteiner se associated hai.
+- **B (Galat):** First widely used polio vaccine Jonas Salk se associated hai aur later oral vaccine Albert Sabin se. Yeh Crimean War ke reforms nahi hain.
+- **C (Galat):** Penicillin ki discovery Alexander Fleming se associated hai, Nightingale ke nursing reforms se nahi.
+- **D (Sahi):** Crimean War mein soldiers ki care aur hospital sanitation Nightingale ke historical work se closely related hain.
+
+**Exam clue:** Crimean War aur sanitation reforms ko Nightingale se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2261,7 +2287,7 @@ Fatigue normal exertion ya clinical deterioration se related ho sakti hai. Nurse
 
 ### Q72. Which handling method is appropriate for arterial blood gas collection?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Mix with a large air bubble
 - **B.** Use the specified heparinized device and minimize air contamination
@@ -2291,7 +2317,7 @@ ABG ke liye trained authorized clinician appropriate heparinized device use kart
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q16](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q16](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q16-which-handling-method-is-appropriate-for-arterial-blood-gas-collection)
 
 ### Q73. Which patient belongings practice is appropriate during admission?
 
@@ -2360,7 +2386,7 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 
 ### Q75. Which finding should be assessed before and after applying a limb bandage?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the patient's temperature
 - **B.** Distal circulation, sensation and movement
@@ -2390,7 +2416,7 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q13](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q13](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q13-which-finding-should-be-assessed-before-and-after-applying-a-limb-bandage)
 
 ### Q76. Which theorist is associated with a framework of twenty-one nursing problems?
 
@@ -2405,9 +2431,22 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 **Correct: B. Faye Glenn Abdellah**
 
-Abdellah ne patient-centered nursing problems ki framework develop ki. Ye nursing assessment aur problem solving ko organize karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Watson caring, Rogers unitary human beings aur Neuman systems se associated hain.
+Abdellah ne nursing ko patient ki problems identify aur solve karne ke approach se joda. Unke twenty-one nursing problems framework mein physical, emotional aur social care ki zarooratein samajhne mein help milti hai. Nurse sirf disease ka naam dekhkar care nahi karti, balki patient ki actual nursing needs assess karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Watson Human Caring Theory aur caring relationship se associated hain.
+- **B (Sahi):** Abdellah ka framework twenty-one nursing problems ke naam se jaana jaata hai.
+- **C (Galat):** Rogers ka Science of Unitary Human Beings person-environment relationship ka alag approach hai.
+- **D (Galat):** Neuman stressors, defenses aur system stability par focus karti hain.
+
+**Exam clue:** Twenty-one nursing problems ko Abdellah se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2436,7 +2475,7 @@ Counts team ko used items reconcile karne mein help karte hain. Discrepancy proc
 
 ### Q78. A wound culture is ordered for suspected infection. Which sampling approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Swab the dried outer dressing only
 - **B.** Use the approved representative collection method after appropriate cleansing
@@ -2466,7 +2505,7 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q14](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q14](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q14-a-wound-culture-is-ordered-for-suspected-infection-which-sampling-approach-is-appropriate)
 
 ### Q79. A patient returns from a procedure with new oxygen requirements and a pending urgent laboratory test. What is the safest nursing action?
 
@@ -2491,7 +2530,7 @@ Procedure ke baad clinical needs change ho sakti hain. Reassessment, order recon
 
 ### Q80. During staple removal the wound edges begin to separate. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Leave it open until tomorrow
 - **B.** Stop removal, support the wound and seek surgical assessment
@@ -2521,7 +2560,7 @@ Staple removal ke waqt edges separate hona dehiscence ka warning sign hai. Dehis
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q16](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q16](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q16-during-staple-removal-the-wound-edges-begin-to-separate-what-should-happen)
 
 ## Block 5
 
@@ -2941,9 +2980,24 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 **Correct: D. Indian Nursing Council**
 
-Indian Nursing Council nursing education standards aur recognized qualifications se related statutory role rakhti hai. State-level registration aur regulation ke separate roles bhi hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** IMA medical professional body hai. WHO aur ICRC Indian nursing education ke statutory regulator nahi hain.
+Nursing education standards ka purpose hai ki nursing courses mein required knowledge aur skills maintain hon. Indian Nursing Council Act, 1947 ke framework mein INC ko uniform training standards ka statutory role mila tha. November 2026 mein INC ki public website ab bhi educational notifications dikha rahi hai. National Nursing and Midwifery Commission Act, 2023 naya regulatory framework introduce karta hai. Current legal questions mein applicable commencement aur transition notifications verify karna zaroori hai. Listed choices mein INC correct hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Indian Medical Association doctors ki professional association hai. Yeh nursing education standards establish karne wala statutory council nahi hai.
+- **B (Galat):** WHO international health guidance deta hai, lekin WHO alone Indian nursing education ka statutory regulator nahi hai.
+- **C (Galat):** ICRC humanitarian work karta hai. Indian nursing education standards establish karna iska statutory role nahi hai.
+- **D (Sahi):** Indian Nursing Council ka statutory nursing education standards se sambandh hai. State registration aur current regulatory arrangements ko alag se samajhna chahiye.
+
+**Exam clue:** INC Act 1947 ka role yaad rakho aur current legal position ke liye latest notifications check karo.
+
+**Reference:** [Nursing theory or professional guidance](https://indiannursingcouncil.org/)
+
+**Regulatory transition:** [National Nursing and Midwifery Commission Act, 2023](https://www.indiacode.nic.in/bitstream/123456789/19796/1/a2023-26.pdf). Indexed legal text notes phased commencement. Full transition notification audit pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2951,7 +3005,7 @@ Indian Nursing Council nursing education standards aur recognized qualifications
 
 ### Q95. Which specimen requires prompt handling under laboratory transport instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only specimens with red labels
 - **B.** Only specimens requested by patients
@@ -2981,7 +3035,7 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q15](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q15](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q15-which-specimen-requires-prompt-handling-under-laboratory-transport-instructions)
 
 ### Q96. A bedside glucose meter result is inconsistent with a symptomatic patient's condition. Which action is appropriate?
 

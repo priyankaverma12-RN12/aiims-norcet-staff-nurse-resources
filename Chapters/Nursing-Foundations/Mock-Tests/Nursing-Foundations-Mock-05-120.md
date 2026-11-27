@@ -150,7 +150,7 @@ Stridor possible airway obstruction ka clue hai. Immediate assessment aur help p
 
 ### Q6. Two wound care instructions conflict. What is the safest approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore the latest assessment
 - **B.** Apply both dressings without review
@@ -180,7 +180,7 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q20](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q20](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q20-two-wound-care-instructions-conflict-what-is-the-safest-approach)
 
 ### Q7. Which solution is an isotonic crystalloid in common clinical use?
 
@@ -579,7 +579,7 @@ Prescribed mobility aid patient ko safe transfer aur ambulation support dene ke 
 
 ### Q19. A patient with negative-pressure wound therapy develops fresh blood in the tubing and dizziness. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase suction
 - **B.** Urgent assessment and device-specific bleeding emergency management
@@ -609,7 +609,7 @@ NPWT sealed dressing aur suction se wound fluid manage karti hai. Fresh blood au
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q18](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q18](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q18-a-patient-with-negative-pressure-wound-therapy-develops-fresh-blood-in-the-tubing-and-dizziness-what-is-the-priority)
 
 ### Q20. A patient has a prescribed medicine but an essential pre-administration parameter is outside the stated hold limit. What should the nurse do?
 
@@ -694,9 +694,22 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 **Correct: B. Combine best available evidence, clinical expertise and patient preferences**
 
-Evidence-based practice research, clinical expertise aur patient preference integrate karti hai. Nurse policy aur applicable evidence evaluate karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Single social post weak evidence hai. Patient values aur local clinical context important hain.
+Evidence-based practice ka matlab hai patient care ke decisions mein best available research, nurse ki clinical expertise aur patient ki values ko saath consider karna. Agar ward mein purani practice chal rahi hai, toh nurse reliable evidence check karti hai aur dekhti hai ki woh patient aur local setting mein apply ho sakta hai ya nahi. Change responsible team aur approved policy ke through implement karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har research finding har clinical setting mein apply nahi hoti. Patient condition, resources aur policy consider karna zaroori hai.
+- **B (Sahi):** Research evidence, clinical experience aur patient preferences combine karna evidence-based practice ka core hai.
+- **C (Galat):** Ek social media post ki quality aur accuracy establish nahi hoti. Sirf uske basis par care badalna unsafe ho sakta hai.
+- **D (Galat):** Patient values ignore karne se care uski informed preferences ke according nahi rahegi.
+
+**Exam clue:** Evidence-based practice ke teen parts research, clinical expertise aur patient preferences hain.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/15-1-evidence-based-research)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1059,9 +1072,24 @@ Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Syst
 
 **Correct: C. Patient advocate**
 
-Advocacy mein nurse patient ki needs, rights aur preferences treatment team tak communicate karti hai. Isse shared decisions support ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Manufacturer aur auditor unrelated roles hain. Nursing advocacy medical diagnosis establish karna nahi hai.
+Advocate ka matlab hai patient ki baat, rights aur needs ko respect ke saath saamne rakhna. Jaise patient treatment se worried hai aur doctor se baat karne mein hesitant hai, toh nurse appropriate permission aur confidentiality ke saath concern communicate kar sakti hai. Nurse patient ko decision mein participate karne mein help karti hai, apni preference impose nahi karti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Financial auditor financial records review karta hai. Clinical concerns communicate karna alag role hai.
+- **B (Galat):** Equipment manufacturer medical devices banata hai. Patient ki concern represent karna iska main role nahi hai.
+- **C (Sahi):** Patient advocate patient ki voice aur preferences treatment team tak pahunchane mein help karta hai. Yahan nurse wahi kar rahi hai.
+- **D (Galat):** Nurse authorized scope mein assessment aur decisions leti hai. Har case mein independent medical diagnosis dena advocacy nahi hai.
+
+**Exam clue:** Patient ki voice aur rights ko support karna nursing advocacy hai.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1210,7 +1238,7 @@ Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat l
 
 ### Q39. Which appearance is consistent with healthy granulation tissue?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift I — related reported concept**
 
 - **A.** Dry black eschar
 - **B.** Thick green pus
@@ -1238,13 +1266,15 @@ Granulation tissue proliferative healing phase mein new capillaries aur connecti
 
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift I — third-party report](https://testbook.com/question-answer/in-which-phase-of-wound-healing-the-wound-appears--681c9290941b1c2fa82d45c7). Report wound healing mein pink vascular appearance ka related concept test karti hai. Official paper aur key independently authenticate nahi hue hain.
+
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q19](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q19](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q19-which-appearance-is-consistent-with-healthy-granulation-tissue)
 
 ### Q40. Which advantage does a transparent film dressing offer in an appropriate low-exudate situation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Guaranteed infection cure
 - **B.** Absence of all adhesive injury
@@ -1274,7 +1304,7 @@ Transparent film thin adhesive barrier hai jiske through covered site visible re
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q17](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q17](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q17-which-advantage-does-a-transparent-film-dressing-offer-in-an-appropriate-low-exudate-situation)
 
 ## Block 3
 
@@ -1385,7 +1415,7 @@ Intervention woh planned action hai jo nurse ya care team patient goal achieve k
 
 ### Q44. Which transport method reduces specimen leakage and exposure?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove hazard labeling
 - **B.** Open cup in a pocket
@@ -1415,7 +1445,7 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q19](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q19](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q19-which-transport-method-reduces-specimen-leakage-and-exposure)
 
 ### Q45. A patient refuses a student nurse's participation in an intimate procedure. What should the supervising nurse do?
 
@@ -2001,9 +2031,24 @@ Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka es
 
 **Correct: D. Participating in relevant training and updating clinical knowledge**
 
-Healthcare evidence aur procedures time ke saath update hote hain. Continuing learning nurse ki knowledge aur competence maintain karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Guidelines avoid karna aur feedback ignore karna practice improvement limit karte hain.
+Continuing professional development ya CPD ka matlab hai initial nursing training ke baad bhi knowledge aur skills update karte rehna. Jab guideline change hoti hai, toh nurse approved training attend karke recommendation samajh sakti hai aur supervised practice se skill improve kar sakti hai. Reflection aur feedback se patient care ki quality maintain hoti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Initial training foundation deti hai, lekin changing evidence aur procedures ke liye lifelong learning zaroori hai.
+- **B (Galat):** Clinical error ke baad feedback avoid karne se safety improvement ka mauka miss hota hai.
+- **C (Galat):** New guidelines review na karne se outdated practice continue ho sakti hai.
+- **D (Sahi):** Relevant training aur updated clinical knowledge CPD ke examples hain, kyunki inse competence improve hoti hai.
+
+**Exam clue:** CPD mein regular learning se safe professional competence maintain ki jaati hai.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2103,7 +2148,7 @@ Bedpan ki zarurat patient ki personal elimination need hai. Nurse privacy provid
 
 ### Q68. Why is direct pressure applied after arterial sampling?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Stop all limb circulation permanently
 - **B.** Change arterial blood into venous blood
@@ -2133,7 +2178,7 @@ Artery mein pressure vein se generally higher hota hai. Sampling puncture ke baa
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q17](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q17](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q17-why-is-direct-pressure-applied-after-arterial-sampling)
 
 ### Q69. Which method helps establish a bowel training routine when suitable?
 
@@ -2168,7 +2213,7 @@ Gastrocolic reflex ka matlab meal ke baad colon ki activity badhna hai. Consiste
 
 ### Q70. A patient ate before a prescribed fasting laboratory test. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Record actual fasting status and clarify whether to proceed
 - **B.** Hide the history from the laboratory
@@ -2198,7 +2243,7 @@ Fasting ka matlab prescribed period mein test-specific food ya drink restriction
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q18](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q18](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q18-a-patient-ate-before-a-prescribed-fasting-laboratory-test-what-is-appropriate)
 
 ### Q71. Which action is appropriate when a patient has a prescribed fluid restriction and receives enteral tube flushes?
 
@@ -2244,9 +2289,24 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 **Correct: D. Communicate the limitation and arrange competent supervision or assistance**
 
-Professional accountability mein competence limits recognize karna important hai. Nurse patient safety maintain karke training ya suitable support arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Untrained practice aur delegation unsafe hain. False documentation professional violation hai.
+Competence ka matlab hai required knowledge, skill aur judgement ke saath procedure safely karne ki ability. Agar nurse ko assigned procedure safely karna nahi aata, toh use responsible senior ko limitation batani chahiye. Competent assistance ya authorized supervision arrange karne se patient ko safe care milti hai. Urgent care mein timely escalation karna zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Bina procedure kiye completion document karna false record hai. Subsequent care galat information par based ho sakti hai.
+- **B (Galat):** Untrained attendant ko procedure dene se patient safety compromise ho sakti hai. Delegation mein competence verify karna zaroori hai.
+- **C (Galat):** Inexperienced dikhne ke fear se unsupervised procedure karna patient ko avoidable harm ke risk mein daalta hai.
+- **D (Sahi):** Limitation communicate karke competent help lena professional accountability aur patient safety ko support karta hai.
+
+**Exam clue:** Jab skill competence se bahar ho, toh timely help lo aur safe care arrange karo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/16-2-ethics-in-nursing-practice)
+
+**Professional guidance:** [ICN Code of Ethics revision](https://www.icn.ch/news/revised-icn-code-ethics-nurses-reflects-lessons-learned-covid-19-pandemic).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3006,7 +3066,7 @@ Fecal impaction mein hard stool ka mass rectum ya lower colon mein atak sakta ha
 
 ### Q97. A laboratory rejects a specimen because identifiers conflict with the order. What should happen?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Investigate and recollect or correct only through verified policy
 - **B.** Ask the patient to guess
@@ -3036,7 +3096,7 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q20](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q20](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q20-a-laboratory-rejects-a-specimen-because-identifiers-conflict-with-the-order-what-should-happen)
 
 ### Q98. What is the purpose of checking a diagnostic procedure's preparation instructions before transport?
 
