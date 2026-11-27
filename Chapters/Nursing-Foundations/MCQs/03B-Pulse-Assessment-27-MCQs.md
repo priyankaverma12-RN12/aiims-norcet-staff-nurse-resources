@@ -4,7 +4,9 @@
 
 ### Q1. Why should the examiner avoid using their thumb to palpate a patient's radial pulse?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** The thumb always completely obstructs the artery
 - **B.** The thumb detects only venous flow
@@ -23,11 +25,21 @@
 - **B.** It can feel an arterial pulsation.
 - **C.** Palpation is not ECG.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q2. A patient's palpable pulse is 84/min with repeated early beats followed by pauses. Which record is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Diagnose atrial fibrillation from palpation alone
 - **B.** Exclude early beats from the count
@@ -46,11 +58,21 @@
 - **B.** Actual observed pulse pattern distort hoga.
 - **D.** Rate and rhythm alag characteristics hain.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q3. When auscultating the apical heart rate, what constitutes one heartbeat?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Each respiratory sound
 - **B.** One complete S1–S2 sound pair
@@ -69,11 +91,21 @@
 - **C.** Rate approximately double count hoga.
 - **D.** Rate underestimate hoga.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q4. Which landmark is usual for adult apical pulse assessment in ordinary cardiac anatomy?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSC Staff Nurse 2021 — related concept** · **🟣 SGPGI Staff Nurse 2024 · Shift I — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Left fifth intercostal space near the midclavicular line
 - **B.** Right second intercostal space parasternal
@@ -92,11 +124,21 @@
 - **C.** Pulmonic area hai.
 - **D.** Not cardiac apex.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [HPSSC Staff Nurse 2021](https://testbook.com/question-answer/location-of-auscultation-for-apical-pulse-is--697c4a25d11d912710e86065) — Apical auscultation landmark, reported 1 August 2021; retrieved third-party report, not an exact match or authenticated official key. [SGPGI Staff Nurse 2024 · Shift I](https://testbook.com/question-answer/as-part-of-cardiac-assessment-to-palpate-th--685baa2301bacc852687a084) — Related apical palpation landmark, not identical technique; retrieved third-party report, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Physical Examination, study Room](https://www.youtube.com/watch?v=aTGm3WCiS9w)** · Description explicitly lists apical pulse location; topic-level practice, exact question and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q5. Why should apical and radial rates be measured during the same interval when assessing a pulse deficit?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 RRB Staff Nurse 2019 · Shift II — related concept** · **🟣 AIIMS Bhatinda Nursing Officer 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Separate intervals always produce identical rates
 - **B.** Radial rate alone establishes deficit
@@ -115,11 +157,21 @@
 - **B.** Comparison needs both rates.
 - **D.** Measurement treatment nahi hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q6. A radial pulse has a regular rhythm but is very weak. What is the correct interpretation?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Amplitude can be calculated from rhythm alone
 - **B.** Rhythm and amplitude are independent pulse characteristics
@@ -138,11 +190,21 @@
 - **C.** Weak amplitude and perfusion require review.
 - **D.** Rate is separate.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q7. The dorsalis pedis pulse is not palpable on one side, but the foot is warm. What is a suitable next assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Compare both limbs and verify using appropriate Doppler assessment if indicated
 - **B.** Declare limb nonviable solely from palpation
@@ -161,11 +223,21 @@
 - **C.** Unverified finding inaccurate hai.
 - **D.** Potential vascular problem needs assessment.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q8. When clinically indicated, how should carotid pulse palpation be performed in a stable patient?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Compress both carotids simultaneously
 - **B.** Massage both carotid sinuses to strengthen the pulse
@@ -184,11 +256,21 @@
 - **B.** May provoke adverse response.
 - **C.** Unnecessary compression can be harmful.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q9. A newborn requires routine heart-rate assessment. Which technique is generally preferred for accurate counting?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Count umbilical cord pulsation in every infant beyond newborn period
 - **B.** Auscultate the apical heart rate for a full minute
@@ -207,11 +289,21 @@
 - **C.** Peripheral pulse may be difficult and short count unreliable.
 - **D.** Age-specific range matters.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q10. Where is the posterior tibial pulse normally sought?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Behind and below the medial malleolus
 - **B.** On the dorsum of the foot between extensor tendons
@@ -230,11 +322,21 @@
 - **C.** Not posterior tibial site.
 - **D.** Popliteal pulse is behind knee, not over patella.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q11. Which anatomical site is used to palpate a popliteal pulse?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Anterior ankle near the extensor tendons
 - **B.** Medial wrist below thumb
@@ -253,11 +355,21 @@
 - **B.** Radial pulse site hai.
 - **C.** Brachial site hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q12. A nurse is asked to locate the brachial pulse in an infant during routine assessment. Which region is appropriate?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Dorsal wrist near little finger
 - **B.** Posterior neck at the midline
@@ -276,11 +388,21 @@
 - **B.** Not appropriate pulse site.
 - **D.** Not brachial site.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q13. A nurse uses a common 0–4+ peripheral pulse amplitude scale. Which finding usually corresponds to 2+?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Expected or normal palpable amplitude
 - **B.** Absent pulsation
@@ -299,11 +421,21 @@
 - **C.** Typically 1+.
 - **D.** Typically 4+.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q14. A pulse is easily palpable with unusually large amplitude. Which documentation is most descriptive?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Pulse deficit automatically present
 - **B.** Normal rhythm proves normal amplitude
@@ -322,11 +454,21 @@
 - **B.** Separate properties hain.
 - **C.** Etiology needs wider assessment.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q15. A nurse counts 39 regular radial beats in 30 seconds in a stable adult. What rate should be recorded?
 
-**Difficulty:** Medium | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** 117/min
 - **B.** 156/min
@@ -345,11 +487,21 @@
 - **B.** Fourfold conversion wrong hai.
 - **D.** Count was only half a minute.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q16. Why is counting an irregular pulse for only 15 seconds and multiplying by four less reliable?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 ESIC Staff Nurse 2019 · Shift III — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Short counting eliminates pulse deficit
 - **B.** Uneven intervals may make the short sample unrepresentative
@@ -368,11 +520,21 @@
 - **C.** Irregular timing disproves this assumption.
 - **D.** It still counts pulsations.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [ESIC Staff Nurse 2019 · Shift III](https://testbook.com/question-answer/when-a-pulse-rate-is-irregular-it-is-best-to-coun--619cfc8ec37377aece1592c7) — Full-minute apical counting for irregular pulse; retrieved third-party report, not an exact match or authenticated official key.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#sites-and-methods)
+<!-- /job4-metadata -->
 </details>
 
 ### Q17. A stable endurance athlete has a resting pulse of 54/min without symptoms. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Diagnose pathological heart block from rate alone
 - **B.** Assume no athlete can develop symptomatic bradycardia
@@ -391,11 +553,21 @@
 - **B.** Conditioning does not exclude disease.
 - **C.** Actual measured value document karo.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q18. A patient has a newly slow pulse with dizziness and low BP. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Ask the patient to exercise until pulse rises
 - **B.** Record only pulse without other assessment
@@ -414,11 +586,21 @@
 - **B.** Symptoms and perfusion require immediate review.
 - **D.** This patient has symptomatic deterioration.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q19. A patient's pulse becomes faster after a prescribed bronchodilator. What is an appropriate assessment principle?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Infer drug overdose from pulse alone
 - **B.** Compare timing, dose, baseline and symptoms, and assess whether review is required
@@ -437,11 +619,21 @@
 - **C.** Drug effect and other causes need consideration.
 - **D.** Treatment decisions need authorized clinical review.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q20. A patient's heart rate is elevated while they are febrile and dehydrated. What interpretation is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Both physiological stressors may contribute, but assess the full clinical context
 - **B.** Tachycardia always proves a primary arrhythmia
@@ -460,11 +652,21 @@
 - **C.** Response individual hota hai.
 - **D.** Volume depletion can increase heart rate.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q21. A patient's radial pulse is weak bilaterally during an episode of cool clammy skin and worsening alertness. What is the best interpretation?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Confirmed irreversible arterial blockage in both wrists
 - **B.** Only the wrist temperature needs documentation
@@ -483,11 +685,21 @@
 - **B.** Overall circulation and clinical status matter.
 - **D.** Cluster of new signs is concerning.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q22. A nurse compares radial pulses and finds a newly marked asymmetry after a vascular procedure. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Increase palpation pressure until both feel the same
 - **B.** Perform prompt focused neurovascular assessment and report the new difference
@@ -506,11 +718,21 @@
 - **C.** New asymmetry after procedure may be significant.
 - **D.** Actual change matters.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q23. A patient has an absent palpable distal pulse and the nurse detects an arterial signal using Doppler. What is the correct record?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Document that the pulse was not palpable but a Doppler signal was detected, with relevant clinical findings
 - **B.** Document a normal 2+ palpable pulse
@@ -529,11 +751,21 @@
 - **C.** Finding misrepresented hoga.
 - **D.** Signal alone does not establish overall perfusion.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q24. A patient has alternating strong and weak pulse beats despite a regular rhythm. Which descriptive term may apply?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Pulsus paradoxus defined by inspiratory BP fall
 - **B.** Pulse deficit automatically established
@@ -552,11 +784,21 @@
 - **B.** Requires apical-radial comparison.
 - **C.** Normal breathing term hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q25. A student asks whether the term pulsus paradoxus means the pulse reverses direction. Which explanation is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** A simple difference between apical and radial rate
 - **B.** It describes an exaggerated inspiratory fall in systolic pressure, conventionally more than 10 mmHg
@@ -575,11 +817,21 @@
 - **C.** Not the definition.
 - **D.** Pulsus alternans description hai.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q26. A nurse measures pulse after the patient has completed a walking exercise. What information should accompany the recorded rate?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+<!-- /job4-metadata -->
 
 - **A.** Activity, measurement timing, symptoms and recovery trend as appropriate
 - **B.** Only the rate labeled as resting
@@ -598,11 +850,21 @@
 - **C.** Individual responses vary.
 - **D.** Exertional increase can be physiological.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** ⚪ Original practice; historical match not established.
+
+**▶️ [YouTube MCQ practice — Vital Signs, Ritika Ma'am, VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs)** · Published description lists pulse characteristics, sites, abnormalities and factors affecting vital signs; broad topic-level practice, this specific item and playback pending.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
 ### Q27. A patient has an irregular peripheral pulse while a monitor displays a regular electrical heart rate. Why should the nurse evaluate the discrepancy?
 
-**Difficulty:** Difficult | **Priority:** High
+<!-- job4-metadata -->
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 RRB Staff Nurse 2019 · Shift II — related concept** · **🟣 AIIMS Bhatinda Nursing Officer 2019 — related concept**
+<!-- /job4-metadata -->
 
 - **A.** Every electrical beat guarantees equal peripheral perfusion
 - **B.** Palpation establishes exact ECG rhythm diagnosis
@@ -621,5 +883,13 @@
 - **B.** Electrical rhythm assessment required hai.
 - **C.** Artifacts and clinical context matter.
 
+
+<!-- job4-metadata -->
+**Exam evidence:** [RRB Staff Nurse 2019 · Shift II](https://testbook.com/question-answer/what-is-pulse-deficit--61a8a4a934f46b35766a7916) — Pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key. [AIIMS Bhatinda Nursing Officer 2019](https://testbook.com/question-answer/pulse-deficit-is-the-difference-between--617655fdd2f531c4f1ae5444) — Memory-based pulse deficit definition; retrieved third-party report, not an exact match or authenticated official key.
+
+**YouTube MCQ practice: verification pending** — dedicated coverage of this specific deficit, vascular or clinical scenario not established.
+
+**Related study:** [Pulse assessment](../Concepts/03B-Pulse-Assessment.md#nursing-judgment)
+<!-- /job4-metadata -->
 </details>
 
