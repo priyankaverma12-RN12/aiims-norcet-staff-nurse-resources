@@ -27,7 +27,7 @@
 - **C.** Edema energy intake directly measure nahi karta.
 - **D.** Scale weight alone tissue loss ko miss kar sakta hai.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Edema can hide tissue loss.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -56,7 +56,7 @@
 - **B.** Inflammation albumin concentration reduce kar sakti hai.
 - **C.** Albumin direct daily intake measurement nahi.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Albumin is affected by inflammation and dilution.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -85,7 +85,7 @@
 - **C.** Unintentional loss ko expected weight control nahi samjho.
 - **D.** Weakness nonspecific hai aur phosphate alone se cause establish nahi hota.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Unintended muscle and weight loss warrant PEW assessment.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -114,7 +114,7 @@
 - **B.** Blood urea intake ke alawa renal clearance and catabolism se affected hai.
 - **D.** Favorite dish alone total diet represent nahi karti.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Record portions and cooking ingredients, not just food names.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -143,7 +143,7 @@
 - **B.** High protein supplements universally kidney-protective nahi hain.
 - **C.** Protein completely eliminate karna malnutrition cause kar sakta hai.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** KDIGO high-protein warning: above 1.3 g/kg/day in at-risk adults.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -172,7 +172,7 @@
 - **C.** Acute metabolic instability mein severe restriction inappropriate hai.
 - **D.** Protein and essential amino acids body function ke liye needed hain.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Very-low-protein diets require specialist supervision and supplementation.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -201,7 +201,7 @@
 - **C.** Creatinine normalize hone ka wait unnecessary nutrition delay cause kar sakta hai.
 - **D.** Stable outpatient target acute illness par automatically applicable nahi.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Metabolic instability changes nutritional needs.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -230,7 +230,7 @@
 - **B.** Unnecessary weight loss muscle loss worsen kar sakta hai.
 - **D.** Dialysis status and overall condition determine prescription.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Frailty may require more protein and calories.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -259,7 +259,7 @@
 - **C.** Protein essential nutrient hai.
 - **D.** Weight loss plan growth needs consider kiye bina unsafe hai.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Growth needs take priority in pediatric nutrition.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -288,7 +288,7 @@
 - **B.** 64 kg reference weight hai, protein amount nahi.
 - **C.** 704 decimal-place error hai.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Multiply the prescribed protein factor by the reference weight.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://doi.org/10.1053/j.ajkd.2020.05.006)
 
@@ -317,7 +317,7 @@
 - **B.** PD effluent mein protein loss possible hai and peritonitis mein increase ho sakta hai.
 - **D.** Protein, energy and electrolytes sab clinical context mein relevant hain.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Peritonitis can increase PD protein losses.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://www.jrnjournal.org/article/S1051-2276%2826%2900151-2/fulltext)
 
@@ -346,7 +346,7 @@
 - **C.** 680 implies 10 kcal/kg.
 - **D.** 3,000 specified weight and factor ka product nahi.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Energy target = kcal/kg × reference kg.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://doi.org/10.1053/j.ajkd.2020.05.006)
 
@@ -375,7 +375,7 @@
 - **B.** Full target food se plus dialysate energy count karna double counting hai.
 - **C.** 350 absorbed amount hai, remaining dietary goal nahi.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** Subtract estimated dialysate calories from the specified total goal.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://www.jrnjournal.org/article/S1051-2276%2826%2900151-2/fulltext)
 
@@ -404,7 +404,7 @@
 - **C.** Blanket restriction malnutrition risk badha sakti hai.
 - **D.** Cooked food weight and protein nutrient content different hain.
 
-**Exam clue:** Assess nutrition using multiple findings, not one lab.
+**Exam clue:** A varied vegetarian plan can meet amino acid needs.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#1-nutritional-assessment-and-protein-energy-needs) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -435,7 +435,7 @@
 - **B.** 10 g sodium high intake hai.
 - **D.** 5 g salt and 5 g sodium equal nahi.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Distinguish sodium mass from salt mass.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -464,7 +464,7 @@
 - **C.** 0.39 g one gram salt ka approximate sodium content hai.
 - **D.** 10.26 g reverse division se incorrect result hai.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Multiply salt grams by approximately 0.39 to estimate sodium grams.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -493,7 +493,7 @@
 - **C.** Prescribed intake documentation safety support karti hai.
 - **D.** Electrolyte testing salt loss evaluate karne mein helpful hai.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Sodium-wasting nephropathy is an exception to usual restriction.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf#page=10)
 
@@ -522,7 +522,7 @@
 - **B.** Higher intake without review hyperkalemia worsen kar sakta hai.
 - **C.** Meals replace karna energy and protein imbalance cause kar sakta hai.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Concentration and portion determine potassium load.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -551,7 +551,7 @@
 - **C.** Protein-free hona potassium reduction ka mechanism nahi.
 - **D.** All potassium removal guaranteed nahi.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Discard cooking water when instructed to reduce potassium.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -580,7 +580,7 @@
 - **B.** Dialysate prescription independently change nahi karni.
 - **D.** Dialysis does not guarantee hyperkalemia.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Hypokalemia can occur in dialysis too.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -609,7 +609,7 @@
 - **C.** Protein content alone phosphate bioavailability establish nahi karta.
 - **D.** Additive-free food mein natural phosphate, potassium or sodium still ho sakta hai.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Added inorganic phosphate may be highly absorbable.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -638,7 +638,7 @@
 - **B.** General trend opposite hai.
 - **C.** Serum creatinine alone absorption determine nahi karta.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Plant phytate can reduce phosphorus bioavailability.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -667,7 +667,7 @@
 - **B.** Added phosphate load worsen kar sakta hai.
 - **D.** Binder discontinuation without review phosphate control impair kar sakta hai.
 
-**Exam clue:** Compare the clinical condition and prescribed nutrient goal.
+**Exam clue:** Protect adequate protein while controlling phosphate.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#2-sodium-potassium-and-phosphate) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -698,7 +698,7 @@
 - **C.** Fluid allowance exceed karna volume risk create kar sakta hai.
 - **D.** Beverages fluid record mein count hote hain.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Coordinate meal and fluid timing to support intake.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -727,7 +727,7 @@
 - **B.** Insulin increase low glucose worsen kar sakta hai.
 - **C.** Carbohydrate elimination without review hypoglycemia risk badha sakti hai.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Reduced intake plus insulin can increase hypoglycemia risk.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -756,7 +756,7 @@
 - **C.** Higher exposure glucose increase kar sakti hai, response variable hai.
 - **D.** Diet and prescribed medication still relevant hain.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** PD glucose absorption affects energy and glycemia.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://www.jrnjournal.org/article/S1051-2276%2826%2900151-2/fulltext)
 
@@ -785,7 +785,7 @@
 - **B.** Higher dose accumulation risk increase kar sakta hai.
 - **D.** Magnesium-containing products important medication history hain.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Review magnesium-containing supplements for accumulation risk.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -814,7 +814,7 @@
 - **C.** Alternative foods often possible hain.
 - **D.** Skipping meals nutrition compromise kar sakta hai.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Affordable culturally acceptable plans support adherence.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -843,7 +843,7 @@
 - **B.** One-way repetition learning assess nahi karti.
 - **C.** Signature understanding prove nahi karti.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Teach-back tests understanding in the patient's own words.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
@@ -872,7 +872,7 @@
 - **C.** Unintentional loss concern hai, automatically success nahi.
 - **D.** Diet plan labs and clinical condition ke saath change hota hai.
 
-**Exam clue:** Review the actual intake and the current clinical context.
+**Exam clue:** Unintended weight loss warrants reassessment of restrictions.
 
 [📖 Related concept](../Concepts/Renal-Diet-and-Nutrition.md#3-fluid-special-situations-and-nursing-counseling) · [Clinical reference](https://indianjnephrol.org/how-to-give-dietary-advice-to-patients-with-kidney-disease/)
 
