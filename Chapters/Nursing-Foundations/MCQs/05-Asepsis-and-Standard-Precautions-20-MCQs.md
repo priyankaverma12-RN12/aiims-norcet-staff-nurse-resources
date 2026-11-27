@@ -17,9 +17,20 @@
 
 **Correct: B. Standard precautions**
 
-Standard precautions blood aur body fluid exposure ke risk ko dhyan mein rakhkar har patient ke liye apply hoti hain. PPE task ke risk ke hisaab se choose hoti hai.
+<!-- job5-rationale -->
+Standard precautions ka matlab hai ki har patient ki care mein infection spread rokne ke basic rules follow kiye jaate hain, chahe diagnosis confirm ho ya nahi. Hand hygiene, safe injection, equipment cleaning aur exposure ke according PPE inka part hain. Extra isolation suspected transmission route ke according add hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Airborne isolation specific indications par hai. Sterile gloves routine conversation mein needed nahi hain. Hand hygiene always relevant hai.
+**Option-by-option reasoning**
+
+- **A:** Diagnosis negative ya unknown hone se infection ka risk zero nahi hota. Isliye hand hygiene skip nahi karte.
+- **B:** Har patient ke liye basic precautions apply hoti hain aur PPE procedure ke exposure risk se select hoti hai.
+- **C:** Airborne isolation specific airborne infection ke suspicion ya confirmation par add hoti hai.
+- **D:** Routine conversation mein sterile gloves ki zaroorat nahi hoti. Gloves actual exposure risk ke hisaab se select hote hain.
+
+**Exam clue:** Standard precautions sabke liye, additional precautions transmission route ke liye.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [NHM Haryana CHO, 24 April 2022](https://testbook.com/question-answer/standard-precautions-are-used-__________--626aefe35525dde4abb70340/amp) — retrieved third-party report on applies to all patients; related tested concept only, not an exact match or authenticated official key.
@@ -46,9 +57,20 @@ Standard precautions blood aur body fluid exposure ke risk ko dhyan mein rakhkar
 
 **Correct: A. Perform hand hygiene**
 
-Gloves remove karte waqt hands contaminate ho sakte hain. Hand hygiene microorganisms transfer hone ka risk kam karti hai.
+<!-- job5-rationale -->
+Urine bag empty karte waqt gloves urine aur contaminated spigot se contact kar sakte hain. Gloves utarte waqt microorganisms hands par transfer ho sakte hain, isliye immediately hand hygiene karo. Hands visibly dirty hon toh soap aur water use karo, otherwise alcohol-based hand rub generally preferred hai.
 
-**Baaki options kyun sahi nahi hain?** Immediate contact contamination spread kar sakta hai. Disposable gloves reuse nahi karni chahiye.
+**Option-by-option reasoning**
+
+- **A:** Gloves remove karne ke turant baad hand hygiene transmission chain break karti hai.
+- **B:** Next patient ke equipment ko touch karne se organisms transfer ho sakte hain.
+- **C:** Disposable gloves ek patient se doosre patient ke liye reuse nahi karte.
+- **D:** Disposable gloves wash karne se protective integrity aur contamination control reliable nahi rehte.
+
+**Exam clue:** Gloves hand hygiene ka replacement nahi hain.
+
+[Clinical reference](https://www.cdc.gov/clean-hands/hcp/clinical-safety/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -75,9 +97,20 @@ Gloves remove karte waqt hands contaminate ho sakte hain. Hand hygiene microorga
 
 **Correct: D. Soap and water**
 
-Visible dirt aur organic material soap-water se physically remove kiya ja sakta hai. Gloves clean hands ka substitute nahi hain.
+<!-- job5-rationale -->
+Visible soil mein organic material hota hai jo effective hand cleaning mein interfere kar sakta hai. Soap aur running water friction aur rinsing ke through soil aur organisms remove karte hain. Alcohol-based hand rub most routine clinical situations mein preferred hai jab hands visibly soiled na hon.
 
-**Baaki options kyun sahi nahi hain?** Alcohol rub visible dirt remove nahi karta. Dry tissue adequate cleaning nahi hai. Gloves ke andar contamination reh sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Alcohol rub alone visible dirt physically remove nahi karta.
+- **B:** Dry tissue proper washing aur rinsing provide nahi karta.
+- **C:** Gloves pehenne se dirt aur microorganisms hands par reh jaate hain.
+- **D:** Soap aur water visible contamination remove karne ke liye appropriate hain.
+
+**Exam clue:** Visible dirt = soap and water.
+
+[Clinical reference](https://www.cdc.gov/clean-hands/hcp/clinical-safety/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -104,9 +137,20 @@ Visible dirt aur organic material soap-water se physically remove kiya ja sakta 
 
 **Correct: C. Treat the affected field as contaminated and replace it**
 
-Moisture microorganisms ko material ke through transfer hone mein help kar sakti hai. Nurse contaminated field replace karke asepsis maintain karti hai.
+<!-- job5-rationale -->
+Wet sterile drape ke through nonsterile surface se microorganisms transfer ho sakte hain. Isko strike-through contamination kehte hain. Affected field ko replace karo aur procedure continue karne se pehle aseptic setup restore karo.
 
-**Baaki options kyun sahi nahi hain?** Drying sterility restore nahi karti. Nonsterile towel sterile barrier nahi hai. Germs visible hona zaroori nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Nonsterile towel contaminated barrier ko sterile nahi banata.
+- **B:** Microorganisms naked eye se dikhna zaroori nahi hai.
+- **C:** Wet compromised field ko contaminated maan kar replace karna patient exposure prevent karta hai.
+- **D:** Drape dry hone se transferred organisms remove nahi hote.
+
+**Exam clue:** Wet barrier touching nonsterile surface = contamination.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -135,9 +179,20 @@ Moisture microorganisms ko material ke through transfer hone mein help kar sakti
 
 **Correct: C. Replace the contaminated glove using aseptic technique**
 
-Bed rail nonsterile surface hai. Contact se glove contaminated ho sakti hai, isliye nurse further sterile contact se pehle glove replace karti hai.
+<!-- job5-rationale -->
+Bed rail routine high-touch surface hai aur sterile nahi hoti. Sterile glove rail touch kare toh glove ka contaminated part sterile field ko touch nahi karna chahiye. Procedure safely pause karo aur aseptic technique se glove replace karo, agar field bhi contaminate hui hai toh use restore karo.
 
-**Baaki options kyun sahi nahi hain?** Clean-looking surface sterile nahi hoti. Wiping sterility restore nahi karti. Supplies touch karne se contamination spread ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Sterile field par glove wipe karne se field contaminate ho sakti hai.
+- **B:** Replacement se pehle supplies touch karne se contamination spread hoti hai.
+- **C:** Contaminated glove replace karne se sterile task safe manner mein resume ho sakta hai.
+- **D:** Clean-looking rail par bhi microorganisms ho sakte hain.
+
+**Exam clue:** Sterile glove touches nonsterile surface = replace.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [UPSC ESIC Nursing Officer, 7 July 2024](https://testbook.com/question-answer/consider-the-following-statements-regarding-the-pr--668e5c23740a221bd11bef8a) — retrieved third-party report on sterile field and nonsterile contact; related tested concept only, not an exact match or authenticated official key.
@@ -166,9 +221,20 @@ Bed rail nonsterile surface hai. Contact se glove contaminated ho sakti hai, isl
 
 **Correct: B. Sterilization**
 
-Sterilization validated process hai jo microorganisms aur bacterial spores ko eliminate karne ke liye use hota hai.
+<!-- job5-rationale -->
+Sterilization validated physical ya chemical process hai jo viable microbial life including resistant bacterial spores eliminate karta hai. Cleaning pehle karna zaroori hai, kyunki soil sterilant ya heat ke access mein interfere kar sakti hai. Device aur method ke liye manufacturer instructions aur cycle monitoring follow karo.
 
-**Baaki options kyun sahi nahi hain?** Cleaning debris reduce karti hai. Low-level disinfection spores reliably destroy nahi karti. Handwashing hands ko sterile nahi banati.
+**Option-by-option reasoning**
+
+- **A:** Handwashing hands par microbial load kam karti hai, sterile nahi banati.
+- **B:** Validated sterilization bacterial spores tak eliminate karne ka intended process hai.
+- **C:** Cleaning soil remove karti hai, complete microbial destruction guarantee nahi karti.
+- **D:** Low-level disinfection most vegetative organisms ko target karti hai, spores reliably destroy nahi karti.
+
+**Exam clue:** Sterilization includes spores.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -195,9 +261,20 @@ Sterilization validated process hai jo microorganisms aur bacterial spores ko el
 
 **Correct: A. Sterilization after appropriate cleaning**
 
-Sterile tissue mein enter karne wala critical instrument sterile hona chahiye. Cleaning organic material remove karke subsequent sterilization effective banane mein help karti hai.
+<!-- job5-rationale -->
+Spaulding classification mein critical items woh hain jo sterile tissue ya vascular system mein enter karte hain. Contaminated critical device microorganisms directly normally sterile site mein introduce kar sakta hai. Isliye compatible cleaning ke baad validated sterilization required hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Surface disinfection, water rinse aur dry wiping critical device ke liye adequate nahi hain.
+**Option-by-option reasoning**
+
+- **A:** Cleaning ke baad sterilization critical device ke liye correct processing level hai.
+- **B:** Low-level disinfection noncritical items ke liye suitable ho sakti hai, sterile tissue entry ke liye nahi.
+- **C:** Tap water rinse soil ka kuch part remove kar sakta hai, sterility establish nahi karta.
+- **D:** Dry wiping microorganisms aur spores eliminate nahi karti.
+
+**Exam clue:** Critical = sterilization, semicritical = at least high-level disinfection when appropriate.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -224,9 +301,20 @@ Sterile tissue mein enter karne wala critical instrument sterile hona chahiye. C
 
 **Correct: D. Cleaning**
 
-Cleaning mein detergent, water aur mechanical action se dirt aur organic material remove hote hain. Isse next processing step better kaam kar sakta hai.
+<!-- job5-rationale -->
+Cleaning physical soil, blood aur organic material ko water, detergent aur appropriate friction se remove karne ka process hai. Agar soil device par rahe toh disinfectant ya sterilant ka effective contact reduce ho sakta hai. Device-specific reprocessing instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Isolation transmission limit karti hai. Vaccination immune protection deti hai. Antibiotics device cleaning nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Isolation infectious patient se transmission reduce karti hai, device soil remove nahi karti.
+- **B:** Vaccination immune protection provide karti hai, equipment clean nahi karti.
+- **C:** Antibiotic prophylaxis selected patient infection risk ko reduce kar sakti hai, instrument processing nahi karti.
+- **D:** Cleaning disinfection ya sterilization se pehle required physical soil removal hai.
+
+**Exam clue:** Clean first, then appropriate disinfection or sterilization.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -253,9 +341,20 @@ Cleaning mein detergent, water aur mechanical action se dirt aur organic materia
 
 **Correct: D. Airborne precautions with appropriate respiratory protection and room placement**
 
-Pulmonary TB tiny airborne particles se spread ho sakti hai. Facility airborne protocol mein suitable ventilation aur fit-tested respirator important hain.
+<!-- job5-rationale -->
+Pulmonary TB mein infectious particles air mein remain kar sakte hain aur inhalation se infection spread ho sakta hai. Suspected infectious TB mein standard precautions ke saath airborne precautions, suitable airborne isolation room where available aur fit-tested N95 ya equivalent respirator use karo. Transport clinically necessary ho toh patient source control aur receiving team coordination ensure karo.
 
-**Baaki options kyun sahi nahi hain?** Contact precautions alone airborne spread address nahi karti. Sterile gloves respiratory protection nahi deti.
+**Option-by-option reasoning**
+
+- **A:** Contact precautions alone airborne inhalation route address nahi karti.
+- **B:** Standard precautions without indicated respiratory protection insufficient hain.
+- **C:** Sterile gloves hands protect karti hain, infectious aerosol inhale hone se nahi.
+- **D:** Airborne precautions respiratory protection aur appropriate room placement se transmission risk reduce karti hain.
+
+**Exam clue:** Suspected infectious pulmonary TB = airborne precautions.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -282,9 +381,20 @@ Pulmonary TB tiny airborne particles se spread ho sakti hai. Facility airborne p
 
 **Correct: C. Appropriate eye and face protection along with other indicated PPE**
 
-Blood splash eyes, nose ya mouth mucosa tak pahunch sakti hai. Nurse face protection aur task-specific gloves, gown aur mask use karti hai.
+<!-- job5-rationale -->
+Blood splash eyes, nose aur mouth ki mucous membranes tak pahunch sakta hai. Task ke risk ke according goggles plus mask ya suitable face shield and mask as indicated, gloves aur gown select karo. PPE remove karte waqt contamination avoid karo aur hand hygiene perform karo.
 
-**Baaki options kyun sahi nahi hain?** Cap aur shoe covers face protect nahi karte. Unknown infection status exposure risk remove nahi karta.
+**Option-by-option reasoning**
+
+- **A:** Shoe covers face aur mucous membranes protect nahi karte.
+- **B:** Known diagnosis absent hone se bloodborne exposure safe nahi ho jaata.
+- **C:** Eye and face protection anticipated splash exposure ke liye relevant barrier hai.
+- **D:** Head cap eyes, nose aur mouth ko adequate splash protection nahi deta.
+
+**Exam clue:** PPE task risk se select karo, diagnosis alone se nahi.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [ESIC Staff Nurse, 26 February 2019, Shift III](https://testbook.com/question-answer/standard-precaution-requires-the-use-of-protective--619cf7c4fd740c8229c314d8) — retrieved third-party report on facial splash protection; related tested concept only, not an exact match or authenticated official key.
@@ -311,9 +421,20 @@ Blood splash eyes, nose ya mouth mucosa tak pahunch sakti hai. Nurse face protec
 
 **Correct: B. Activate the safety feature if present and discard directly in an appropriate sharps container**
 
-Used needle puncture injury cause kar sakti hai. Immediate safe disposal exposure risk kam karta hai.
+<!-- job5-rationale -->
+Used sharp skin puncture karke bloodborne pathogens transmit kar sakta hai. Device safety feature manufacturer instructions ke according activate karo aur needle ko immediately close-at-hand puncture-resistant designated sharps container mein discard karo. Indian biomedical waste segregation mein waste sharps ke liye applicable white translucent container policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Two-hand recapping, bending aur bedside storage sharps injury risk badhate hain.
+**Option-by-option reasoning**
+
+- **A:** Bedside table par needle rakhne se accidental injury ho sakti hai.
+- **B:** Direct safe disposal unnecessary handling kam karta hai.
+- **C:** Two-handed recapping mein hand needle tip ke path mein aa sakta hai.
+- **D:** Manual bending needle puncture aur breakage risk badhata hai.
+
+**Exam clue:** No routine recapping, bending or manual handling.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -340,9 +461,20 @@ Used needle puncture injury cause kar sakti hai. Immediate safe disposal exposur
 
 **Correct: A. Wash the site promptly, report the exposure and seek urgent exposure assessment**
 
-Needlestick se bloodborne exposure ho sakta hai. Nurse soap-water se site clean karti hai aur promptly report karke post-exposure evaluation arrange karti hai.
+<!-- job5-rationale -->
+Needlestick mein skin barrier break hota hai aur bloodborne pathogen exposure possible hai. Site ko promptly soap aur water se wash karo, supervisor aur occupational exposure service ko report karo, aur urgent HIV, HBV aur HCV risk assessment lo. Indicated HIV PEP time-sensitive hoti hai, isliye assessment delay mat karo. HBV immunization status aur follow-up testing bhi assess hote hain.
 
-**Baaki options kyun sahi nahi hain?** Bleach tissue harm kar sakta hai. Concealment aur delay time-sensitive prophylaxis ka chance reduce karte hain.
+**Option-by-option reasoning**
+
+- **A:** Prompt washing, reporting aur urgent assessment appropriate first response hai.
+- **B:** Aggressive squeezing aur bleach tissue injury cause kar sakte hain, reliable prevention nahi hain.
+- **C:** Symptoms ka wait karne se early prophylaxis aur baseline evaluation miss ho sakti hai.
+- **D:** Several weeks delay time-sensitive assessment aur treatment opportunity khatam kar sakta hai.
+
+**Exam clue:** Wash, report, urgent exposure assessment.
+
+[Clinical reference](https://www.cdc.gov/niosh/topics/bbp/controls.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -369,9 +501,20 @@ Needlestick se bloodborne exposure ho sakta hai. Nurse soap-water se site clean 
 
 **Correct: A. Maintain a sterile field and prevent contamination by microorganisms**
 
-Surgical asepsis sterile instruments aur field ko microorganisms se protect karne ka approach hai. Invasive procedures mein contamination avoid karna important hai.
+<!-- job5-rationale -->
+Surgical asepsis ka goal sterile field aur critical supplies ko contamination se protect karna hai. Sterile item ko sirf verified sterile item ya intended sterile field se contact karna chahiye. Agar break in technique ho toh patient contact se pehle correct karo.
 
-**Baaki options kyun sahi nahi hain?** Visible cleanliness sterility nahi hai. Hand hygiene still needed hai. Clean surfaces necessarily sterile nahi hain.
+**Option-by-option reasoning**
+
+- **A:** Sterile field maintain karna surgical asepsis ka main purpose hai.
+- **B:** Visible dust remove karna enough nahi hai kyunki microorganisms microscopic hote hain.
+- **C:** Hand hygiene sterile technique ka essential preparation step hai.
+- **D:** Clean surface necessarily sterile nahi hoti.
+
+**Exam clue:** Medical asepsis reduces spread, surgical asepsis maintains sterility.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -400,9 +543,20 @@ Surgical asepsis sterile instruments aur field ko microorganisms se protect karn
 
 **Correct: D. Do not use it as sterile and replace the package**
 
-Package integrity sterile contents ko environment se protect karti hai. Tear hone par contamination possible hai even if date valid hai.
+<!-- job5-rationale -->
+Sterile packaging microbial barrier hoti hai. Tear se organisms enter kar sakte hain even when expiration date valid ho. Package ko sterile use ke liye reject karo aur intact replacement lo. Facility event-related sterility aur manufacturer policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Date alone sterility guarantee nahi karti. Tape ya water original sterile barrier restore nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Valid date intact barrier ki requirement ko replace nahi karti.
+- **B:** Ordinary tape original validated sterile seal restore nahi karti.
+- **C:** Water package ko wet karke contamination risk aur badha sakta hai.
+- **D:** Torn package ko sterile treat nahi karna chahiye.
+
+**Exam clue:** Check integrity, moisture and expiry before opening.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/6-3-sterile-technique)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -431,9 +585,20 @@ Package integrity sterile contents ko environment se protect karti hai. Tear hon
 
 **Correct: C. Provide tissues or a suitable mask as tolerated and encourage hand hygiene**
 
-Respiratory hygiene secretions ko contain karne aur contaminated hands se spread reduce karne mein help karti hai.
+<!-- job5-rationale -->
+Respiratory hygiene ka goal cough aur sneeze se infectious secretions spread hone ko limit karna hai. Patient ko tissues, suitable mask as tolerated, hand hygiene aur appropriate separation provide karo. Suspected pathogen ke according additional precautions implement karo.
 
-**Baaki options kyun sahi nahi hain?** Direct coughing, shared tissues aur poor hand hygiene transmission badha sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Used tissues contaminated secretions carry kar sakte hain.
+- **B:** Secretions handle karne ke baad hand hygiene zaroori hai.
+- **C:** Tissues, source control mask aur hand hygiene spread reduce karte hain.
+- **D:** Doosre patients ki direction mein coughing exposure increase karti hai.
+
+**Exam clue:** Source control starts at first encounter.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -460,9 +625,20 @@ Respiratory hygiene secretions ko contain karne aur contaminated hands se spread
 
 **Correct: B. Clean and disinfect the equipment using the approved method**
 
-Shared equipment microorganisms carry kar sakta hai. Approved cleaning aur disinfection next patient se pehle transmission risk kam karti hai.
+<!-- job5-rationale -->
+Shared equipment jaise BP cuff ya thermometer organisms ko ek patient se doosre tak carry kar sakta hai. Contact precautions mein dedicated equipment preferable hai. Agar share karna necessary ho toh compatible approved cleaning and disinfection process complete karo before next patient.
 
-**Baaki options kyun sahi nahi hain?** Visible cleanliness contamination exclude nahi karti. Glove cover processing replace nahi karta. Delayed disinfection unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Second patient ke baad disinfection karne se pehle hi transmission ho sakti hai.
+- **B:** Approved processing before reuse cross-transmission reduce karti hai.
+- **C:** Visible cleanliness microbial contamination exclude nahi karti.
+- **D:** Sterile glove cover proper reprocessing ka substitute nahi hai.
+
+**Exam clue:** Clean and disinfect between patients.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -489,9 +665,20 @@ Shared equipment microorganisms carry kar sakta hai. Approved cleaning aur disin
 
 **Correct: B. Antisepsis**
 
-Antiseptic living tissue par microorganisms reduce karne ke liye use hota hai. Product aur site ke instructions follow karna chahiye.
+<!-- job5-rationale -->
+Antisepsis mein living skin ya tissue par suitable antimicrobial preparation apply karte hain taaki microorganisms reduce ho. Product site, age, allergies aur procedure ke according choose hota hai. Required application aur drying instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Sterilization living skin par practical goal nahi hai. Incineration burning hai. Fumigation environmental process hai.
+**Option-by-option reasoning**
+
+- **A:** Fumigation environmental treatment hai, living skin preparation nahi.
+- **B:** Antisepsis living skin par microbial load reduce karti hai.
+- **C:** Living tissues ko sterilize karna routine clinical goal nahi hai aur tissue damage ho sakta hai.
+- **D:** Incineration waste ko burn karne ka process hai.
+
+**Exam clue:** Antiseptic = living tissue, disinfectant = inanimate surface.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -518,9 +705,20 @@ Antiseptic living tissue par microorganisms reduce karne ke liye use hota hai. P
 
 **Correct: A. Use aseptic insertion technique and sterile equipment by trained staff**
 
-Urinary catheter bladder tak microorganisms introduce kar sakta hai. Aseptic insertion aur sterile equipment risk reduce karte hain. Hand hygiene aur closed drainage bhi important hain.
+<!-- job5-rationale -->
+Indwelling catheter urethra se bladder tak route create karta hai. Acute-care insertion mein trained staff hand hygiene, aseptic technique aur sterile equipment use karte hain. Insertion ke baad closed drainage maintain karo aur daily necessity review karo taaki catheter-associated UTI risk kam ho.
 
-**Baaki options kyun sahi nahi hain?** Opened equipment contaminated ho sakta hai. Gloves hand hygiene replace nahi karti. Routine disconnection infection risk badhati hai.
+**Option-by-option reasoning**
+
+- **A:** Sterile equipment aur aseptic insertion critical infection prevention steps hain.
+- **B:** Previously opened catheter ki sterility reliable nahi hai.
+- **C:** Sterile gloves hand hygiene replace nahi karti.
+- **D:** Routine drainage disconnection microorganisms ke entry pathway create kar sakti hai.
+
+**Exam clue:** Acute care catheter = aseptic insertion, closed drainage, early removal.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
@@ -547,9 +745,20 @@ Urinary catheter bladder tak microorganisms introduce kar sakta hai. Aseptic ins
 
 **Correct: D. Clean hands immediately before preparing to access a vascular line**
 
-Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se protect karti hai. Line access se pehle appropriate technique needed hai.
+<!-- job5-rationale -->
+WHO Moment 2 clean ya aseptic procedure se immediately pehle hand hygiene hai. Vascular line access mein microorganisms directly bloodstream tak pahunch sakte hain. Hand hygiene ke baad approved hub antisepsis aur no-touch technique follow karo.
 
-**Baaki options kyun sahi nahi hain?** End-of-shift cleaning insufficient hai. Prior cleaning ke baad recontamination possible hai. Used gloves transfer risk badhati hain.
+**Option-by-option reasoning**
+
+- **A:** Shift ke end mein cleaning earlier aseptic tasks protect nahi karti.
+- **B:** Contaminated dressing ke baad cleaning important hai, lekin next aseptic task se pehle bhi indicated hygiene zaroori hai.
+- **C:** Previous patient's gloves organisms carry kar sakti hain.
+- **D:** Line access se immediately pehle cleaning Moment 2 ko represent karti hai.
+
+**Exam clue:** Moment 2 protects patient before an aseptic task.
+
+[Clinical reference](https://www.who.int/publications/m/item/five-moments-for-hand-hygiene)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** [NCL Staff Nurse, November 2020](https://testbook.com/question-answer/for-infection-prevention-what-will-you-do--619d0a28c25138d98f6ce69e) — retrieved third-party report on hand hygiene around patient care; related tested concept only, not an exact match or authenticated official key.
@@ -576,9 +785,20 @@ Aseptic task se pehle hand hygiene patient ko microorganisms introduce hone se p
 
 **Correct: C. Keep the surface wet for the required time according to product instructions**
 
-Disinfectant ko microbes par act karne ke liye specified time aur concentration chahiye. Nurse manufacturer aur facility instructions follow karti hai.
+<!-- job5-rationale -->
+Disinfectant ko organisms par effective action ke liye manufacturer-specified concentration aur wet contact time chahiye. Soil pehle remove karo as instructed aur surface required duration tak wet rakho. PPE, ventilation aur material compatibility check karo.
 
-**Baaki options kyun sahi nahi hain?** Immediate drying contact time reduce kar sakti hai. Arbitrary dilution ineffective ho sakti hai. Chemical mixing hazardous ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Arbitrary dilution se active concentration insufficient ho sakti hai.
+- **B:** Unapproved mixing se toxic reaction ya product inactivation ho sakti hai.
+- **C:** Required wet contact time complete karna disinfection effectiveness support karta hai.
+- **D:** Immediate wiping se disinfectant ko required action time nahi milta.
+
+**Exam clue:** Contact time means surface remains wet for specified duration.
+
+[Clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
+<!-- /job5-rationale -->
 
 <!-- job4-metadata -->
 **Exam evidence:** ⚪ Original practice. Historical match not established.
