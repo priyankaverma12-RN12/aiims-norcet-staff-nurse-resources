@@ -182,9 +182,22 @@ Conflicting wound care orders se incompatible products, moisture imbalance ya ti
 
 **Correct: D. 0.9% sodium chloride**
 
-Normal saline extracellular fluid ke similar effective tonicity rakhti hai. Ye volume replacement mein selected indications ke liye use ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** 3% hypertonic aur 0.45% hypotonic hai. Sterile water alone IV administration ke liye unsafe hai.
+Isotonic crystalloid ka effective tonicity plasma ke approximately similar hota hai. 0.9% sodium chloride commonly used isotonic crystalloid hai aur extracellular volume expand kar sakti hai. Fluid indication, sodium, chloride, renal aur cardiac status monitor karo. Large saline volumes hyperchloremia aur acidosis contribute kar sakti hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 0.45% saline hypotonic hai.
+- **B (Galat):** 3% saline hypertonic hai.
+- **C (Galat):** Sterile water alone IV infusion se hemolysis ka risk hai.
+- **D (Sahi):** 0.9% saline conventional isotonic crystalloid hai.
+
+**Exam clue:** 0.9% saline isotonic, 0.45% hypotonic, 3% hypertonic.
+
+**Clinical reference:** [Clinical guidance](https://ncbi.nlm.nih.gov/sites/books/NBK500033/?report=printable)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2432,9 +2445,22 @@ Self-harm thoughts immediate safety assessment maangte hain regardless of grief 
 
 **Correct: D. They contribute to administered fluid volume**
 
-Liquid medicines aur flushes bhi water deliver karti hain. Fluid restriction ya strict balance mein inhe count karna important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Absorption possible hai. Small volumes add up ho sakte hain. Intake oral water alone nahi hai.
+Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral feeds, tube flushes aur IV fluids patient ko measurable volume deliver karte hain. Same period mein inhe appropriate intake categories mein record karo. Strict fluid restriction mein small repeated volumes bhi important hote hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Small volumes add up ho sakte hain, especially repeated doses mein.
+- **B (Galat):** Water alone total intake represent nahi karta.
+- **C (Galat):** Liquid medicines aur flushes body fluid balance contribute kar sakte hain.
+- **D (Sahi):** Administered liquid volumes ko count karna recorded balance accurate banata hai.
+
+**Exam clue:** Count all measurable administered fluid.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2538,9 +2564,22 @@ Hypoglycemia ka matlab blood glucose low hona hai. Alert adult jo safely swallow
 
 **Correct: C. It can alter sodium and water distribution rapidly, with serious complications if mismanaged**
 
-Hypertonic saline extracellular tonicity aur sodium change kar sakti hai. Rate, indication aur repeat labs specific protocol se manage hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Free water opposite tonicity effect rakhta hai. Sodium response aur rate clinically important hain.
+Hypertonic saline plasma ke comparison mein higher effective solute concentration rakhti hai. Isse water cells se extracellular space ki taraf shift ho sakta hai aur serum sodium rise kar sakta hai. Severe symptomatic hyponatremia jaise selected indications mein prescribed protocol use hota hai. Rapid inappropriate correction osmotic demyelination aur fluid overload jaise harms cause kar sakti hai. Repeat sodium, neurological status aur fluid status monitor karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Free water ka tonicity effect different hota hai.
+- **B (Galat):** Any rate par universal safety nahi hai.
+- **C (Sahi):** Sodium aur water distribution rapidly change ho sakte hain, isliye close monitoring zaroori hai.
+- **D (Galat):** Hypertonic saline serum sodium change kar sakti hai.
+
+**Exam clue:** Hypertonic saline requires protocol and repeat sodium monitoring.
+
+**Clinical reference:** [Clinical guidance](https://ncbi.nlm.nih.gov/sites/books/NBK500033/?report=printable)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -3520,9 +3559,22 @@ Conflict patient-centered judgment influence kar sakta hai. Transparency aur pol
 
 **Correct: C. Assess the patient, verify the result and infusion, and urgently follow the escalation protocol**
 
-High potassium cardiac rhythm affect kar sakta hai. Nurse infusion aur result verify karke urgent clinical review leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continued or increased potassium unsafe ho sakti hai. Rapid IV potassium bolus dangerous hai.
+Hyperkalemia yani blood potassium zyada hona heart ke electrical conduction ko affect kar sakta hai. Unexpected high result mein patient ko assess karo, ECG aur urgent clinical review arrange karo, sample hemolysis aur infusion contents verify karo. Potassium-containing infusion ko local urgent safety protocol ke mutabik withhold ya pause karo jab tak responsible team review kare. Severe clinical concern mein repeat sample ke liye emergency care delay mat karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Extra potassium delivery arrhythmia ka risk badhati hai.
+- **B (Galat):** Rapid unprescribed IV potassium bolus life-threatening arrhythmia cause kar sakta hai.
+- **C (Sahi):** Assessment, infusion safety check aur escalation potentially dangerous potassium elevation address karte hain.
+- **D (Galat):** Unchanged infusion se potassium aur badh sakta hai.
+
+**Exam clue:** High potassium: urgent assessment, stop additional potassium exposure per protocol.
+
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
