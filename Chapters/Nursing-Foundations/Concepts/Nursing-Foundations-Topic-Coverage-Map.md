@@ -116,4 +116,6 @@ All 30 defined groups have 20 questions. Detailed notes and original illustratio
 - [Medication monitoring and response](06C-Medication-Monitoring-and-Response.md), 30 allocated.
 - [Dose units, concentration and reconstitution](07A-Dose-Units-Concentration-and-Reconstitution.md), 30 allocated.
 
-Next: Group 07B weight-based dosing and safe dose range, then infusion calculations. Full clinical and semantic audit pending.
+- [Weight-based dosing and safe-dose range](07B-Weight-Based-Dosing-and-Safe-Dose-Range.md), 30 allocated.
+
+Next: Group 07C infusion rates and drug infusion calculations. Full clinical and semantic audit pending.
