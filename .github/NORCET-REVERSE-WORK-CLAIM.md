@@ -1,9 +1,9 @@
 # NORCET reverse lane work claim
 
-State: CLAIMED
-Owner: reverse-20261127-033019-gk03
-Scope: General Knowledge and Aptitude, fractions after completed simplification, chapter-local files and reverse checkpoint.
-Claimed UTC: 2026-11-27T03:30:19Z
-Expiry UTC: 2026-11-27T04:00:19Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Checkpoint: cfaab92779e4af6b3f737a79619e7114cf2d4fea. Forward Nursing Foundations claim remains separate.
+Verified checkpoint: b73ad8a23604d6ccfddb3a72c3ac1a6be9c1253e, General Knowledge and Aptitude, 120 original questions plus four earlier starters. Next decimals. Check both claims and reverse checkpoint before starting. Forward lane preserved.
