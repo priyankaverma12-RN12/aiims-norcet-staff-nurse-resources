@@ -6,9 +6,8 @@
 
 ### Q1. A nurse begins an SBAR call about an abrupt change in a patient's condition. What belongs in Situation?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -39,9 +38,8 @@
 
 ### Q2. During SBAR communication, which information best belongs in Background?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -72,9 +70,8 @@
 
 ### Q3. A nurse reports an important current finding and states concern about the patient's deteriorating condition. Which SBAR component is this?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -105,9 +102,8 @@
 
 ### Q4. Which statement best demonstrates a clear action request during urgent team communication?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -138,9 +134,8 @@
 
 ### Q5. A clinician asks the nurse to repeat a communicated numerical result and then confirms it is correct. Which communication mechanism is demonstrated?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -171,9 +166,8 @@
 
 ### Q6. A nurse repeats an instruction incorrectly during a check-back. What should the sender do?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -204,9 +198,8 @@
 
 ### Q7. During a rapidly evolving team emergency, one nurse announces a critical observation aloud so the entire responding team is aware. Which TeamSTEPPS communication tool is most closely represented?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -237,9 +230,8 @@
 
 ### Q8. A team leader assigns a specific urgent task to a staff member by role or name. Why should the recipient acknowledge the assignment?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -270,9 +262,8 @@
 
 ### Q9. Which component of I-PASS indicates how clinically stable or unstable the patient is?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -303,9 +294,8 @@
 
 ### Q10. In I-PASS, which information belongs mainly in the Action list?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -336,9 +326,8 @@
 
 ### Q11. Which handover statement best demonstrates situation awareness and contingency planning?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -369,9 +358,8 @@
 
 ### Q12. Why is synthesis by the receiver included in I-PASS handover?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -402,9 +390,8 @@
 
 ### Q13. A nurse hands over a patient with an ongoing infusion. Which information is most important to verify at the transition?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -435,9 +422,8 @@
 
 ### Q14. A patient is moving to another unit and has an active isolation requirement. What is the correct handover principle?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -468,9 +454,8 @@
 
 ### Q15. An outgoing nurse reports that a patient has an allergy, but the exact reaction is unclear. What should the receiving nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -501,9 +486,8 @@
 
 ### Q16. During transfer, a patient carries an order for restricted oral intake that is absent from the receiving unit's summary. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -534,9 +518,8 @@
 
 ### Q17. A shift handover is repeatedly interrupted by unrelated nonurgent requests. Which system improvement best protects communication quality?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -567,9 +550,8 @@
 
 ### Q18. A bedside handover includes information the patient has requested be discussed privately. What is the best approach?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -600,9 +582,8 @@
 
 ### Q19. A patient notices a discrepancy during bedside handover about their usual mobility assistance. How should the team respond?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🟠 HIGH YIELD** | Clinical scenario · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical scenario
 <!-- /job4-metadata -->
 
 
@@ -633,9 +614,8 @@
 
 ### Q20. A nurse receives a nonurgent routine report by secure message, but the receiving clinician has not acknowledged a time-sensitive task. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -666,9 +646,8 @@
 
 ### Q21. An outgoing nurse is asked to hand over an unfamiliar patient immediately after receiving incomplete information. What is safest?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -699,9 +678,8 @@
 
 ### Q22. A nurse has escalated a serious clinical concern but the initial recipient dismisses it despite persistent concerning findings. What is the safest next step?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -732,9 +710,8 @@
 
 ### Q23. A transfer summary includes a pending consultation but no identified person responsible for following it up. What should be corrected?
 
-**Difficulty:** Difficult | **Priority:** High
 <!-- job4-metadata -->
-**🔴 Difficult** | **🔴 MOST IMPORTANT** | Clinical application · Patient safety · Editorial tags
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Clinical application · Patient safety
 <!-- /job4-metadata -->
 
 
@@ -765,9 +742,8 @@
 
 ### Q24. A team conducts a short discussion before a planned complex procedure to clarify roles, resources and anticipated risks. Which teamwork activity is this?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -798,9 +774,8 @@
 
 ### Q25. During a shift, unexpected workload and patient deterioration change the unit's priorities. Which short team meeting is most appropriate to reassess the current plan?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
@@ -831,9 +806,8 @@
 
 ### Q26. After a difficult transfer, staff review what worked, what communication failed and how to improve next time. Which teamwork activity is demonstrated?
 
-**Difficulty:** Medium | **Priority:** High
 <!-- job4-metadata -->
-**🟡 Medium** | **🟠 HIGH YIELD** | Concept recognition · Editorial tags
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Concept recognition
 <!-- /job4-metadata -->
 
 
