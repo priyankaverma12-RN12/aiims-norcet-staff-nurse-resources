@@ -58,6 +58,26 @@ try:
                 visit(page, f"Chapters/{chapter}/README.md")
             if (root / "Chapters/Nervous-System/README.md").is_file():
                 visit(page, "Chapters/Nervous-System/README.md")
+            # Verify the two actual historical aliases through reader deep links.
+            for target, fragment, heading in [
+                ("Chapters/NORCET-Full-Chapter-Index.md",
+                 "current-mock-progress--26-november-2026", "Current mock progress"),
+                ("Chapters/Nervous-System/Concepts/07-Parkinson-MS-MG-GBS.md",
+                 "guillain-barr-syndrome", "Guillain-Barré syndrome"),
+            ]:
+                visit(page, target, "#" + fragment)
+                anchor = page.locator(f'#content a[name="{fragment}"]')
+                expect(anchor).to_have_count(1)
+                assert page.evaluate("""({fragment, heading}) => {
+                    const content = document.querySelector('#content');
+                    const anchor = findStudyFragment(content, '#' + fragment);
+                    const following = anchor?.nextElementSibling;
+                    return Boolean(anchor && following &&
+                        following.textContent.includes(heading) &&
+                        anchor.getBoundingClientRect().top >= -5 &&
+                        anchor.getBoundingClientRect().top <= innerHeight);
+                }""", {"fragment": fragment, "heading": heading}), target
+            print(f"Actual historical deep links verified at {width}x{height}.", flush=True)
             # Exercise the actual DOM fragment resolver with named and normal anchors.
             assert page.evaluate("""() => {
                 const doc = document.createElement('div');
