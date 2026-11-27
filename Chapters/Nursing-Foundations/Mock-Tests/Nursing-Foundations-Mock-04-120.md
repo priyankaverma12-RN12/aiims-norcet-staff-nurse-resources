@@ -767,7 +767,7 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 ### Q26. A patient has a convulsive seizure in bed. Which action is appropriate during the event?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Protect from injury, time the seizure and assess airway and breathing
 - **B.** Give oral tablets during active convulsions
@@ -794,7 +794,7 @@ Convulsive seizure mein brain ki abnormal electrical activity ke karan involunta
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q15](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q15](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q15-a-patient-has-a-convulsive-seizure-in-bed-which-action-is-appropriate-during-the-event)
 
 ### Q27. A patient has persistent moisture from incontinence. Which skin care approach is best?
 
@@ -974,7 +974,7 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 ### Q32. Which principle applies to suction catheter selection for an artificial airway?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use a catheter that completely blocks the airway
 - **B.** Use the largest available catheter regardless of tube size
@@ -1003,7 +1003,7 @@ Suction catheter artificial airway ke andar space occupy karti hai. Agar cathete
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q13](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q13](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q13-which-principle-applies-to-suction-catheter-selection-for-an-artificial-airway)
 
 ### Q33. A patient with advanced disease develops new severe pain that is different from the usual symptoms. What should the nurse do?
 
@@ -1386,7 +1386,7 @@ Neuropathy mein temperature sensation impaired ho sakti hai. Nurse approved devi
 
 ### Q46. A person collapses following electrical contact. What must a responder ensure before touching the person?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Water is poured over the electrical device
 - **B.** The electrical source has been safely isolated
@@ -1413,7 +1413,7 @@ Electrical injury mein patient live source ke contact mein ho toh rescuer bhi cu
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q14](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q14](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q14-a-person-collapses-following-electrical-contact-what-must-a-responder-ensure-before-touching-the-person)
 
 ### Q47. A patient's respiratory rate drops to 7/min after opioid administration and the patient is difficult to arouse. What is the priority?
 
@@ -1914,7 +1914,7 @@ Medical diagnosis disease ya pathological condition identify karti hai. Nursing 
 
 ### Q62. Which action helps maintain oxygen-cylinder safety during transport?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Carry it unsecured on the patient's lap
 - **B.** Apply oil to the valve connections
@@ -1941,7 +1941,7 @@ Medical oxygen cylinder high-pressure gas contain karti hai. Agar cylinder gir j
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q16](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q16](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q16-which-action-helps-maintain-oxygen-cylinder-safety-during-transport)
 
 ### Q63. Which healing method describes a clean incision with edges brought together using sutures?
 
@@ -2714,7 +2714,7 @@ Health literacy practical health decisions aur services navigate karne se relate
 
 ### Q89. A patient with a suspected basal skull fracture requires airway assessment. Which adjunct should not be inserted blindly through the nose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A stethoscope
 - **B.** A properly applied external oxygen mask
@@ -2741,7 +2741,7 @@ Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyn
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q15](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q15](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q15-a-patient-with-a-suspected-basal-skull-fracture-requires-airway-assessment-which-adjunct-should-not-be-inserted-blindly-through-the-nose)
 
 ### Q90. Which action is appropriate after a patient's death once required verification and instructions are complete?
 
@@ -2915,7 +2915,7 @@ Meter readings technique, perfusion aur strip issues se affect ho sakti hain. Sy
 
 ### Q97. An alert patient with a suspected limb fracture awaits emergency assessment. Which first aid principle is appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Support the injured limb in its found position and avoid unnecessary movement
 - **B.** Massage the fracture site vigorously
@@ -2942,7 +2942,7 @@ Fracture bone ke break ya crack ko kehte hain. Suspected fracture mein movement 
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q16](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q16](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q16-an-alert-patient-with-a-suspected-limb-fracture-awaits-emergency-assessment-which-first-aid-principle-is-appropriate)
 
 ### Q98. A solution is labeled 0.9% weight/volume sodium chloride. How much sodium chloride is present in 500 mL?
 
@@ -3414,7 +3414,7 @@ Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nur
 
 ### Q112. A conscious patient with an intact gag reflex needs airway support. Which device is generally inappropriate without special indications?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Clinically indicated suction of visible secretions
 - **B.** Oropharyngeal airway
@@ -3441,7 +3441,7 @@ Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wa
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q14](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q14](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q14-a-conscious-patient-with-an-intact-gag-reflex-needs-airway-support-which-device-is-generally-inappropriate-without-special-indications)
 
 ### Q113. Which approach is appropriate when a patient prefers a same-gender caregiver for intimate hygiene?
 
@@ -3506,7 +3506,7 @@ Dysphagia mein swallowing coordination ya airway protection impaired ho sakti ha
 
 ### Q115. What is appropriate immediate first aid for a small recent thermal burn when safe water is available?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Apply toothpaste to the injured skin
 - **B.** Apply ice directly for a prolonged period
@@ -3535,7 +3535,7 @@ Thermal burn heat ke karan skin injury hai. Small recent burn mein cool clean ru
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q13](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q13](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q13-what-is-appropriate-immediate-first-aid-for-a-small-recent-thermal-burn-when-safe-water-is-available)
 
 ### Q116. A patient receiving spinal anesthesia develops new hypotension and nausea. Which action is appropriate?
 
