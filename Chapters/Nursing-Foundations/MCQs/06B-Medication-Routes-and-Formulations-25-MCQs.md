@@ -657,7 +657,7 @@ D. Only the patient's oral fluid intake
 
 [Concept](../Concepts/06B-Medication-Routes-and-Formulations.md#route-specific-decisions) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK596740/)
 
-**YouTube MCQ practice: verification pending.**
+**▶️ [YouTube MCQ practice — rectal suppository administration, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=UD-vn2-tR8Y&t=2272s)** · Published practice chapter 37:52, 19 May 2026. Topic-level match only, exact question and playback not verified.
 
 </details>
 
