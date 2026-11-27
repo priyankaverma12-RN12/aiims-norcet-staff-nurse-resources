@@ -15,9 +15,20 @@
 
 **Correct: C. Withhold the questionable dose and clarify with the prescriber or pharmacist**
 
-Unusual dose possible prescribing error ho sakti hai. Nurse administration se pehle order verify karti hai taaki overdose ya undertreatment avoid ho.
+<!-- job5-rationale -->
+Unusual dose prescription error ho sakti hai, lekin kabhi patient-specific indication ki wajah se dose alag bhi ho sakti hai. Nurse questionable dose ko administration se pehle verify kare, patient ki urgency assess kare aur prescriber ya pharmacist se clarification le.
 
-**Baaki options kyun sahi nahi hain?** Blind administration unsafe hai. Half dose independently select karna unauthorized change hai. Patient guess safe verification nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Half dose khud select karne se underdose ya unauthorized dose change ho sakta hai.
+- **B:** Patient ki information useful hai, lekin dose verification trained clinical team ki responsibility hai.
+- **C:** Clarification tak questionable dose rokna preventable harm se bachata hai. Time-critical medicine ke liye immediately escalate karo.
+- **D:** Signed order bhi error-free hone ki guarantee nahi hai.
+
+**Exam clue:** Questionable order ko guess mat karo, promptly clarify karo.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -34,9 +45,20 @@ Unusual dose possible prescribing error ho sakti hai. Nurse administration se pe
 
 **Correct: B. Match two approved patient identifiers to the medication record**
 
-Identity confirmation se wrong-patient dose prevent hoti hai. Nurse approved identifiers aur medication record compare karti hai.
+<!-- job5-rationale -->
+Right patient ka matlab actual person ko correct medication order se match karna hai. Do approved identifiers jaise full name aur unique hospital ID verify karo. Patient se active confirmation lo where possible aur wristband aur record compare karo.
 
-**Baaki options kyun sahi nahi hain?** Room change ho sakta hai. Same diagnosis multiple patients ko ho sakta hai. Tablet appearance identity prove nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Tablet familiar hone se patient identity prove nahi hoti.
+- **B:** Do approved person-specific identifiers wrong-patient error reduce karte hain.
+- **C:** Room number location hai, identity nahi.
+- **D:** Same diagnosis multiple patients ko ho sakta hai.
+
+**Exam clue:** Two identifiers, never bed or room number alone.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -53,9 +75,20 @@ Identity confirmation se wrong-patient dose prevent hoti hai. Nurse approved ide
 
 **Correct: A. Clarify the allergy history and order before administration**
 
-Previous severe reaction important safety information hai. Nurse reaction details verify karke prescriber-pharmacist review leti hai before exposure.
+<!-- job5-rationale -->
+Severe previous reaction allergy ya another serious adverse reaction ho sakti hai. Exact medicine, symptoms aur timing assess karo. Same class ke drugs mein cross-reactivity drug-specific hoti hai, isliye pharmacist/prescriber se clarify karna zaroori hai.
 
-**Baaki options kyun sahi nahi hain?** Signed order allergy risk eliminate nahi karta. Record deletion aur unapproved premedication unsafe hain.
+**Option-by-option reasoning**
+
+- **A:** Clarification aur allergy verification potentially serious re-exposure prevent karte hain.
+- **B:** Signed prescription se allergy risk eliminate nahi hota.
+- **C:** Allergy entry bina authorized review remove karna future exposure risk badhata hai.
+- **D:** Unprescribed antihistamine serious reaction prevent karne ki guarantee nahi hai aur unsafe order ko safe nahi banata.
+
+**Exam clue:** Allergy history verify before giving the drug.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -72,9 +105,20 @@ Previous severe reaction important safety information hai. Nurse reaction detail
 
 **Correct: D. Place it under the tongue and allow it to dissolve as directed**
 
-Sublingual route mein drug tongue ke neeche mucosa se absorb ho sakti hai. Product instructions follow karne se intended effect milne mein help hoti hai.
+<!-- job5-rationale -->
+Sublingual route mein medicine tongue ke neeche mucosa se absorb hoti hai. Isse kuch drugs ka first-pass liver metabolism avoid ho sakta hai. Product-specific instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Swallowing aur crushing absorption change kar sakte hain. Ear canal unrelated route hai.
+**Option-by-option reasoning**
+
+- **A:** Immediately swallow karne se intended mucosal absorption aur drug effect change ho sakta hai.
+- **B:** Crushing ya water mein mix karna prescribed formulation ka intended use change karta hai.
+- **C:** Ear canal otic route hai, sublingual nahi.
+- **D:** Tongue ke neeche dissolve hone dena prescribed route maintain karta hai.
+
+**Exam clue:** Sublingual means under the tongue.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -91,9 +135,20 @@ Sublingual route mein drug tongue ke neeche mucosa se absorb ho sakti hai. Produ
 
 **Correct: D. Check with the pharmacist or prescriber for a suitable alternative formulation**
 
-Extended-release tablet medicine slowly release karne ke liye designed ho sakti hai. Crushing se dose ek saath release ho sakti hai. Alternative formulation verify karna important hai.
+<!-- job5-rationale -->
+Extended-release tablet medicine ko gradually release karne ke liye designed hoti hai. Crushing se kuch products mein dose dumping, yani medicine ka bahut jaldi release, ho sakta hai. Swallowing difficulty assess karke approved alternative formulation arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic crushing harmful ho sakti hai. Double dose unauthorized hai. Food mein hide karna aspiration aur consent concern raise karta hai.
+**Option-by-option reasoning**
+
+- **A:** Har extended-release tablet crush karna unsafe hai.
+- **B:** Next dose double karne se overdose ho sakta hai aur omission compensate karna reliable nahi hai.
+- **C:** Intact tablet food mein hide karna dysphagia aur consent problems solve nahi karta.
+- **D:** Pharmacist/prescriber suitable liquid, alternative product ya route select karne mein help karte hain.
+
+**Exam clue:** Modified release ko routine crush mat karo.
+
+[Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-formulations-in-swallowing-difficulties/)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -110,9 +165,20 @@ Extended-release tablet medicine slowly release karne ke liye designed ho sakti 
 
 **Correct: C. Confirm tube-compatible formulation and administration guidance with pharmacy**
 
-Enteric coating stomach acid se protection ya delayed intestinal release provide kar sakti hai. Nurse formulation verify karti hai, kyunki crushing effect change kar sakti hai.
+<!-- job5-rationale -->
+Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti hai. Feeding tube ka tip kahan hai, tube size aur drug formulation matter karte hain. Pharmacy se compatibility confirm karke medicines separately administer aur prescribed flush plan follow karo.
 
-**Baaki options kyun sahi nahi hain?** Routine crushing unsafe ho sakti hai. Multiple drugs mixing incompatibility cause kar sakti hai. Oral product IV dena dangerous hai.
+**Option-by-option reasoning**
+
+- **A:** Multiple medicines ek syringe mein mix karne se incompatibility aur blockage ka risk hai.
+- **B:** Oral formulation ko IV line mein inject karna dangerous wrong-route error hai.
+- **C:** Tube-compatible product aur technique verify karna correct action hai.
+- **D:** Routine crushing enteric coating ka intended function destroy kar sakti hai.
+
+**Exam clue:** Enteral route is not intravenous. Check formulation first.
+
+[Clinical reference](https://sps.nhs.uk/articles/choosing-medicines-for-enteral-tube-administration/)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -129,9 +195,20 @@ Enteric coating stomach acid se protection ya delayed intestinal release provide
 
 **Correct: B. Intravenous**
 
-IV route medicine ko directly vein mein deliver karta hai. Onset rapid ho sakta hai, isliye correct dose aur monitoring especially important hain.
+<!-- job5-rationale -->
+IV route medicine ko venous blood mein directly deliver karti hai. Absorption step bypass hota hai, isliye effect aur adverse reaction rapidly occur kar sakte hain. Dose, dilution, rate aur compatibility verify karo.
 
-**Baaki options kyun sahi nahi hain?** Intradermal skin layer mein, oral mouth se aur topical body surface par drug apply hoti hai.
+**Option-by-option reasoning**
+
+- **A:** Topical route body surface par apply hoti hai.
+- **B:** Intravenous route directly venous circulation mein jaati hai.
+- **C:** Intradermal injection dermis mein hota hai.
+- **D:** Oral medicine gastrointestinal tract se absorb hoti hai.
+
+**Exam clue:** IV bypasses absorption.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -148,9 +225,20 @@ IV route medicine ko directly vein mein deliver karta hai. Onset rapid ho sakta 
 
 **Correct: A. Dermis**
 
-Intradermal injection skin ki dermal layer mein small amount deliver karti hai. Certain diagnostic tests mein ye route use hota hai.
+<!-- job5-rationale -->
+Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial dermal tissue mein small amount deliver karta hai, jaise certain diagnostic tests. Product-specific technique follow karo.
 
-**Baaki options kyun sahi nahi hain?** IM muscle target karta hai. SC fat layer target karti hai. Bone marrow intraosseous access se related hai.
+**Option-by-option reasoning**
+
+- **A:** Dermis intended intradermal tissue hai.
+- **B:** Skeletal muscle intramuscular route ka target hai.
+- **C:** Subcutaneous fat SC route ka target hai.
+- **D:** Bone marrow intraosseous access se related hai.
+
+**Exam clue:** ID = dermis, SC = fat, IM = muscle.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -167,9 +255,20 @@ Intradermal injection skin ki dermal layer mein small amount deliver karti hai. 
 
 **Correct: A. Anterolateral thigh using the vastus lateralis muscle**
 
-Infant ka vastus lateralis accessible muscle hai aur routine IM vaccination ke liye preferred site hoti hai. Exact site aur needle choice age, size aur guideline par depend karti hai.
+<!-- job5-rationale -->
+Infant mein anterolateral thigh ka vastus lateralis muscle routine IM vaccination ke liye preferred site hota hai. Muscle mass aur underlying structures ke hisaab se appropriate needle select karte hain.
 
-**Baaki options kyun sahi nahi hain?** Dorsogluteal site nerve injury concern rakhti hai. Dermis ID aur abdominal fat SC route se related hain.
+**Option-by-option reasoning**
+
+- **A:** Vastus lateralis infant vaccination ke liye recommended muscle site hai.
+- **B:** Buttock routine infant vaccination ke liye preferred nahi hai, sciatic nerve injury aur fat deposition ka risk hai.
+- **C:** Forearm dermis intradermal route hai.
+- **D:** Abdominal fat subcutaneous route hai, IM vaccination site nahi.
+
+**Exam clue:** Infant IM vaccination: anterolateral thigh.
+
+[Clinical reference](https://www.cdc.gov/vaccines/hcp/administration/during.html)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -186,9 +285,20 @@ Infant ka vastus lateralis accessible muscle hai aur routine IM vaccination ke l
 
 **Correct: D. Verify the insulin type, concentration, dose and required independent checks under policy**
 
-Insulin types aur concentrations different ho sakti hain. Wrong product ya dose severe glucose changes cause kar sakti hai, isliye policy-based checks important hain.
+<!-- job5-rationale -->
+Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyperglycemia cause kar sakta hai. Product type, concentration, dose units, glucose, meal timing aur correct delivery device verify karo. Independent double check local policy ke according use karo.
 
-**Baaki options kyun sahi nahi hain?** Interchangeability assume nahi karni chahiye. Wrong syringe dosing error kar sakti hai. Early documentation inaccurate ho sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Insulin formulations ki onset, duration aur concentration differ kar sakti hai.
+- **B:** Incompatible syringe markings incorrect volume aur dose cause kar sakti hain.
+- **C:** Administration se pehle given record karna inaccurate hai.
+- **D:** Product aur dose verification plus indicated checks high-risk error reduce karte hain.
+
+**Exam clue:** Insulin: verify type, strength, units and device.
+
+[Clinical reference](https://www.ismp.org/system/files/resources/2024-01/ISMP_HighAlert_AcuteCare_List_010924_MS5760.pdf)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -205,9 +315,20 @@ Insulin types aur concentrations different ho sakti hain. Wrong product ya dose 
 
 **Correct: C. Assess the reason, respect refusal, communicate and document according to policy**
 
-Competent patient ko informed refusal ka right hota hai. Nurse concern samajhti hai aur treatment team ko notify karti hai taaki safe alternatives discuss ho sakein.
+<!-- job5-rationale -->
+Capable patient informed refusal kar sakta hai. Reason samjho, benefits aur risks explain karo, alternatives discuss karo aur responsible clinician ko inform karke actual refusal document karo. Capacity concern ho toh applicable policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Force aur covert administration autonomy violate kar sakte hain. False documentation unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Secretly medicine dena consent aur formulation safety compromise kar sakta hai.
+- **B:** Given document karna jab medicine nahi di gayi false record hai.
+- **C:** Respectful assessment, communication aur documentation appropriate hai.
+- **D:** Force karne se autonomy violate aur aspiration/injury risk ho sakta hai.
+
+**Exam clue:** Refusal ko assess, respect, report and record karo.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -224,9 +345,20 @@ Competent patient ko informed refusal ka right hota hai. Nurse concern samajhti 
 
 **Correct: B. After actual administration according to the facility process**
 
-Record actual administration reflect karna chahiye. Isse next nurse duplicate ya missed dose avoid kar sakti hai.
+<!-- job5-rationale -->
+Medication administration record actual dose, route aur time reflect karna chahiye. Give karne ke baad timely document karo aur relevant response assess karo. Late entry ko facility correction procedure se clearly identify karo.
 
-**Baaki options kyun sahi nahi hain?** Advance record false ho sakta hai. Invented time inaccurate hai. Har administered medicine ka documentation important hai.
+**Option-by-option reasoning**
+
+- **A:** Adverse effect ho ya na ho, administered medicine record karni hoti hai.
+- **B:** Actual administration ke baad entry accurate hoti hai.
+- **C:** Before receipt documentation se refusal ya missed dose falsely given dikh sakti hai.
+- **D:** Invented time record integrity compromise karta hai.
+
+**Exam clue:** Document actual administration, not intention.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -243,9 +375,20 @@ Record actual administration reflect karna chahiye. Isse next nurse duplicate ya
 
 **Correct: B. Assess pain, sedation, respiratory status and timing before giving the prescribed dose**
 
-PRN medicine need-based hoti hai, lekin prescribed interval aur safety assessment apply hote hain. Sedating drugs combined effect se breathing suppress kar sakti hain.
+<!-- job5-rationale -->
+PRN ka matlab as needed within prescribed indication, interval aur maximum limits hai. Sedating medicines combined effect se alertness aur breathing depress ho sakti hai. Pain score, sedation, respiration, last dose aur order check karo. Unsafe findings par dose clarify karo.
 
-**Baaki options kyun sahi nahi hain?** PRN unlimited nahi hai. Prior sedative relevant hai. Double dose unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Double dose unauthorized hai aur sedation risk badha sakti hai.
+- **B:** Assessment se benefit aur additive sedation risk evaluate hota hai.
+- **C:** PRN unlimited frequency ya dose nahi hai.
+- **D:** Previous sedative interaction aur respiratory risk ke liye relevant hai.
+
+**Exam clue:** PRN requires assessment before and response review after.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -262,9 +405,20 @@ PRN medicine need-based hoti hai, lekin prescribed interval aur safety assessmen
 
 **Correct: A. Locate and remove the previous patch as instructed before applying the new one**
 
-Old patch medicine release continue kar sakti hai. Nurse prescribed replacement schedule aur skin site verify karti hai.
+<!-- job5-rationale -->
+Transdermal patch drug ko skin ke through sustained manner mein deliver kar sakti hai. Old patch remain hone par unintended extra exposure ho sakta hai. Prescribed schedule ke according old patch locate/remove, site inspect aur disposal policy follow karo.
 
-**Baaki options kyun sahi nahi hain?** Patch stacking overdose cause kar sakti hai. Cutting aur heat delivery alter kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** Old patch remove karna accidental stacking prevent karta hai.
+- **B:** New patch old patch par lagane se additional dose exposure ho sakta hai.
+- **C:** Cutting kuch patches ki delivery system disrupt kar sakti hai. Product-specific approval chahiye.
+- **D:** External heat kuch patches ki absorption increase kar sakti hai.
+
+**Exam clue:** Check for previous patch before replacement.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/14-introduction)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -281,9 +435,20 @@ Old patch medicine release continue kar sakti hai. Nurse prescribed replacement 
 
 **Correct: D. Stop the suspected drug and activate emergency anaphylaxis management**
 
-Ye findings severe allergic reaction indicate kar sakti hain. Nurse trigger stop karti hai, airway-circulation assess karti hai aur emergency protocol activate karti hai.
+<!-- job5-rationale -->
+Wheezing, hypotension aur facial swelling after IV drug anaphylaxis suggest karte hain. Suspected drug stop karo, emergency help activate karo, ABC assess karo aur protocol follow karo. General anaphylaxis mein IM adrenaline first-line hoti hai. IV access ko safe manner mein maintain karna team protocol par depend karta hai.
 
-**Baaki options kyun sahi nahi hain?** Infusion increase exposure badhati hai. Patient ko alone chhodna unsafe hai. Solid food airway concern mein inappropriate hai.
+**Option-by-option reasoning**
+
+- **A:** Infusion increase karne se trigger exposure aur deterioration badh sakti hai.
+- **B:** Patient ko alone chhodna emergency monitoring aur rescue delay karta hai.
+- **C:** Airway compromise mein solid food aspiration risk badha sakta hai.
+- **D:** Drug stop aur emergency response immediate safety priorities hain.
+
+**Exam clue:** Suspect anaphylaxis: stop trigger, call help, ABC and adrenaline protocol.
+
+[Clinical reference](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -300,9 +465,20 @@ Ye findings severe allergic reaction indicate kar sakti hain. Nurse trigger stop
 
 **Correct: C. Route**
 
-Route batata hai drug oral, IV, IM ya other method se deni hai. Route change se absorption aur safety change ho sakti hai.
+<!-- job5-rationale -->
+Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya IM. Same drug ki formulation aur dose route-specific ho sakti hai, isliye wrong route serious harm cause kar sakta hai.
 
-**Baaki options kyun sahi nahi hain?** Lot number traceability mein help karta hai. Logo aur room temperature route define nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Manufacturer logo brand identity clue hai, administration route nahi.
+- **B:** Room temperature environmental condition hai, prescribed route nahi.
+- **C:** Route delivery pathway identify karta hai.
+- **D:** Lot number batch traceability ke liye hai.
+
+**Exam clue:** Route is the prescribed delivery pathway.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -319,9 +495,20 @@ Route batata hai drug oral, IV, IM ya other method se deni hai. Route change se 
 
 **Correct: C. 2.5 mL**
 
-Desired dose 125 mg hai aur stock 250 mg in 5 mL hai. 125/250 x 5 = 2.5 mL. Calibrated oral measuring device use karna chahiye.
+<!-- job5-rationale -->
+Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 50 mg/mL = 2.5 mL. Reverse check: 2.5 × 50 = 125 mg. Correct oral measuring device use karo.
 
-**Baaki options kyun sahi nahi hain?** 5 mL full 250 mg hai. 10 mL 500 mg hai. 0.5 mL sirf 25 mg hai.
+**Option-by-option reasoning**
+
+- **A:** 10 mL mein 500 mg milega, jo required dose se four times hai.
+- **B:** 0.5 mL mein 25 mg milega, insufficient dose.
+- **C:** 2.5 mL exactly 125 mg deliver karta hai.
+- **D:** 5 mL mein 250 mg hai, double dose.
+
+**Exam clue:** Desired dose / available dose × available volume.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/12-1-administering-oral-medications)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -338,9 +525,20 @@ Desired dose 125 mg hai aur stock 250 mg in 5 mL hai. 125/250 x 5 = 2.5 mL. Cali
 
 **Correct: B. 0.5 mg with a leading zero and no unnecessary trailing zero**
 
-Leading zero decimal ko clearly visible banata hai. Unnecessary trailing zero avoid karne se decimal miss hone par tenfold error ka risk kam hota hai.
+<!-- job5-rationale -->
+Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehle leading zero use karo aur unnecessary trailing zero avoid karo. Isliye 0.5 mg clearest notation hai.
 
-**Baaki options kyun sahi nahi hain?** .5 ko 5 read kiya ja sakta hai. Trailing zero ambiguity add karti hai. 5.0 prescribed dose se ten times zyada hai.
+**Option-by-option reasoning**
+
+- **A:** 5.0 mg intended 0.5 mg ka tenfold dose hai.
+- **B:** 0.5 mg mein leading zero clear hai aur unnecessary trailing zero nahi hai.
+- **C:** .5 mg mein decimal miss ho toh 5 mg read ho sakta hai.
+- **D:** 0.50 mg ka value same hai lekin unnecessary trailing zero misreading risk badhata hai.
+
+**Exam clue:** Leading zero yes, trailing zero no.
+
+[Clinical reference](https://www.ismp.org/system/files/resources/2024-04/ISMP_ErrorProneAbbreviation_List.pdf)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -357,9 +555,20 @@ Leading zero decimal ko clearly visible banata hai. Unnecessary trailing zero av
 
 **Correct: A. Identify and resolve differences between the actual medication list and new orders**
 
-Reconciliation mein nurse aur team patient ke actual drugs, doses aur schedules verify karti hain. Missing, duplicate ya conflicting orders identify ho sakte hain.
+<!-- job5-rationale -->
+Medication reconciliation mein patient ki best possible current medication history collect karke new orders se compare karte hain. Unintentional omission, duplication, dose differences aur interactions identify karke responsible team ke saath resolve karte hain.
 
-**Baaki options kyun sahi nahi hain?** All drugs stop karna inappropriate hai. Blind copying errors carry kar sakti hai. Supplements prescribed therapy replace nahi karte.
+**Option-by-option reasoning**
+
+- **A:** Actual list aur new orders reconcile karne se transition errors reduce hote hain.
+- **B:** All home drugs automatically discontinue karna needed therapy interrupt kar sakta hai.
+- **C:** Old orders blindly copy karne se changed therapy aur previous errors carry forward hote hain.
+- **D:** Supplements prescribed medicines ka universal substitute nahi hain.
+
+**Exam clue:** Reconcile at admission, transfer and discharge.
+
+[Clinical reference](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
+<!-- /job5-rationale -->
 
 </details>
 
@@ -376,9 +585,20 @@ Reconciliation mein nurse aur team patient ke actual drugs, doses aur schedules 
 
 **Correct: D. Follow the hold instruction, assess the patient and notify the appropriate clinician**
 
-Hold parameter patient-specific safety ke liye prescribed hota hai. Nurse current findings assess karke dose hold aur escalation instructions follow karti hai.
+<!-- job5-rationale -->
+Hold parameter ek authorized instruction hai jo unsafe clinical finding par dose temporarily rokne ko kehta hai. Patient assess karo, measurement confirm karo if appropriate, hold instruction follow karo aur clinician ko timely notify karo. Actual decision document karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic administration harm kar sakti hai. Record alteration false hai. Unrelated drug independently dena unsafe hai.
+**Option-by-option reasoning**
+
+- **A:** Scheduled timing safety hold criteria override nahi karti.
+- **B:** Record value change karna falsification hai aur actual risk hide karta hai.
+- **C:** Unrelated drug without authorization dena new harm cause kar sakta hai.
+- **D:** Hold, assess aur notify patient safety preserve karta hai.
+
+**Exam clue:** Check parameters before administration, not after harm.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration)
+<!-- /job5-rationale -->
 
 </details>
 
