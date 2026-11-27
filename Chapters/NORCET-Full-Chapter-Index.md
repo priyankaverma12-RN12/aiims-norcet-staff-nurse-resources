@@ -314,3 +314,8 @@ Current remote inventory 1,040 questions in 26/30 topic groups, 486 Medium and 5
 ### Individual-topic audit checkpoint
 
 Initial grouped inventory remains 1,200 question slots in 30/30 groups, 56 reported recruitment adaptations and two academic adaptations. [Individual-topic coverage and quality audit](Infection-Control-and-Microbiology/Concepts/Individual-Topic-Coverage-and-Quality-Audit.md) published. Files 01–06 and 25–30 checked for question counts, four options, hidden answers and answer mappings, all passed. Each six-bank sample has 240 internally distinct normalized stems, cross-sample and semantic audit pending. Full 30-bank retrieval exceeded connector call limit. No new original questions counted in this reconciliation. Next: surgical hand preparation expansion, then remaining individual topics in sequence. Mocks 0/10, tracked global 17/350 pending reconciliation. Fixed stale mock-plan inventory.
+
+
+### Individual-topic expansion — surgical hand preparation
+
+30 additional original MCQs (15 Medium and 15 Difficult) with 30 hidden answers, detailed concepts and diagram, indexed videos and a retrieved historical AIIMS Delhi 2018 recall with clinical caveat. Current chapter inventory 1,230 indexed question slots (566 Medium and 664 Difficult), 30/30 initial groups and one supplemental individual-topic bank. No additional counted recruitment adaptation, existing total 56 plus two academic adaptations. Dedicated surgical scrub MCQ video verification and comprehensive semantic audit pending. Next: group 02, audit sterilization methods and monitoring, chemical disinfection and CSSD workflow allocations and expand separately. Chapter mocks 0/10, tracked global 17/350 pending reconciliation. Chapter is not complete.
