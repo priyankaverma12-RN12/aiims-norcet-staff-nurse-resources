@@ -58,4 +58,6 @@ All entries are source-linked practice adaptations, not verbatim authenticated o
 
 [HAI surveillance reported exam practice](HAI-Surveillance-Reported-PYQs.md): two distinct adaptations from retrieved AIIMS/RRB timing and HSSC incidence questions. Related timing sources counted once.
 
-**Current total: 53 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
+[CAUTI reported exam practice](CAUTI-Reported-PYQs.md): one retrieved RRB March 2026 closed drainage adaptation. Other indexed leads excluded pending full retrieval and overlap review.
+
+**Current total: 54 reported recruitment adaptations.** Two academic-paper adaptations remain separate.
