@@ -27,3 +27,7 @@ Full syllabus advance preparation is authorized. Both lanes must follow the late
 
 
 Follow the latest Job 3 deep corrective audit and feedback loop in both SKILL.md files. All jobs must read .github/NORCET-AUDIT-LEARNINGS.md on every run and respect audit scope claims, question-level syllabus validation, source-traced complete PYQs, and correction requirements.
+
+
+## Mandatory visible exam tags, UI polish and YouTube practice
+Follow the latest visible exam heading tags and repository-wide visual design section in both SKILL.md files. Exam identity and evidence color must be visible at heading or existing metadata row, not buried in answers; preserve exact study text, historical source, unique labels and backward-compatible heading anchors. Apply to all packages and jobs. Use dedicated MCQ practice video links per question with verified coverage and gap tracking. Use GitHub-safe Markdown and the reusable Assets/study-ui.css only in compatible renderers; native GitHub cannot apply custom CSS. Do not silently change deployment settings. Read shared claims and checkpoints before edits.
