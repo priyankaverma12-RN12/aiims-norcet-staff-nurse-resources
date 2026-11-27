@@ -317,3 +317,40 @@ File Chapters/Respiratory-System/MCQs/Day-02-Final-Mock-25.md; before 3e33b79a98
 |25|D|Integrated assessment|M|Video pending|
 
 Clinical references checked via search extracts: Open RN assessment https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/, OpenStax breath sounds https://openstax.org/books/clinical-nursing-skills/pages/23-3-breath-sounds-and-lung-assessment, vocal fremitus https://www.ncbi.nlm.nih.gov/sites/books/NBK499838/, Merck acid-base regulation https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-regulation, ABG equation https://pmc.ncbi.nlm.nih.gov/articles/PMC9416819/, Indian Chest Society/NCCP spirometry https://pmc.ncbi.nlm.nih.gov/articles/PMC6489506/, ATS/ERS technical standard https://pmc.ncbi.nlm.nih.gov/articles/PMC6794117/, FDA pulse oximetry https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters, capnography https://www.ncbi.nlm.nih.gov/sites/books/NBK539754/?report=classic, BTS pleural disease/procedures https://thorax.bmj.com/content/78/Suppl_3/s1 and https://thorax.bmj.com/content/78/Suppl_3/s43, V/Q scan https://medlineplus.gov/lab-tests/vq-scan/. Broad nursing scope matches earlier curriculum review; specific exam depth and comprehensive full-text verification remain pending. Historical direct text retrieval KGMU Nursing Officer 2023 memory-based question https://testbook.com/question-answer/a-nurse-is-performing-respiratory-assessment-ofnb--6819aab320ac2f27cadf0fc4 verifies related consolidation/fremitus concept for Q4, visible purple evidence-qualified label; no exact or official claim. NORCET 2020 memory-based ABG procedure-identification question re-opened, distinct task from interpretation, not used as exact match. No separate adaptation added until existing PYQ inventory checked. Video leads: 10/25 (Q1,2,8,23 generic respiratory assessment description https://www.youtube.com/watch?v=QrBjOPU2RRA; Q9–12,24 ABG topic hashtags https://www.youtube.com/watch?v=G_2-0P9EfAg; Q15 specific spirometry/RV topic search description https://www.youtube.com/watch?v=SB9FPVpKzLA). Direct video retrieval failed for assessment/spirometry; no playback/transcript/exact timestamp. 15/25 explicit gaps. Rendered UI not inspected; Markdown validated. Prevention: all ABG triples must obey Henderson–Hasselbalch within rounding, avoid diagnostic certainty from single physical signs, classify clinical urgency and difficulty independently, keep video evidence per item, do not inflate unique counts. Cumulative 195 question-level clinical/rationale reviews. Next Day-03-Asthma-COPD-55.md Q1 onward; revisit Day 2 video and historical gaps before certification.
+
+
+## 2026-11-27 — Day 3 asthma/COPD Q1–25
+
+File Chapters/Respiratory-System/MCQs/Day-03-Asthma-COPD-55.md. Before blob 3c8c3ccec14aac08e31794d275c3d96811cda65d, after a139fd534199cc209b0e4b02bd4d8c5a81802afc, commit 4d1d9ea1021fd954372393db419fdfb6c7c77205. All 25 existing stems/options and keys preserved, correct and 75 individual wrong-option rationales expanded, three difficulty regrades (Q14,22,23), eight related revision mappings, one compact color-coded metadata row per reviewed item. Readback verifies 55 headings/hidden answers and all first 25 four-option format, answer mapping, individual distractor reasons and video status. No new authored count. Q26–55 pending. Cumulative 220 clinical/rationale reviews, not chapter certification.
+
+|Q|Key|Topic|Difficulty|Video status|
+|---|---|---|---|---|
+|1|A|Asthma narrowing|Easy|Video pending|
+|2|D|Variable symptoms|Medium|Topic-level lead|
+|3|C|Prolonged expiration|Medium|Video pending|
+|4|A|Silent chest|Medium|Topic-level lead|
+|5|A|Rising PaCO2|Difficult|Video pending|
+|6|D|Early ABG|Medium|Video pending|
+|7|C|PEF 75%|Medium|Topic-level lead|
+|8|A|Best of three 77.5%|Difficult|Topic-level lead|
+|9|C|PEF 83.3%|Medium|Topic-level lead|
+|10|D|BD response 240 mL 15%|Difficult|Video pending|
+|11|C|BD response 150 mL 15%|Difficult|Video pending|
+|12|B|ICS-containing therapy|Medium|Topic-level lead|
+|13|A|Ipratropium|Medium|Topic-level lead|
+|14|B|IV magnesium|Medium|Topic-level lead|
+|15|C|Drowsiness and reduced air entry|Medium|Topic-level lead|
+|16|A|IgE|Easy|Video pending|
+|17|C|Eosinophils|Easy|Video pending|
+|18|D|Curschmann spirals|Medium|Video pending|
+|19|A|Charcot-Leyden crystals|Medium|Video pending|
+|20|B|Pulsus paradoxus 14 mmHg|Difficult|Video pending|
+|21|A|Air trapping|Medium|Video pending|
+|22|C|Biomass exposure|Easy|Video pending|
+|23|A|COPD ratio 0.64|Medium|Video pending|
+|24|D|GOLD 2|Medium|Video pending|
+|25|B|GOLD 4|Medium|Video pending|
+
+Clinical evidence: directly retrieved GINA 2026 summary PDF https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf, page 8 visually checked by screenshot. Adult bronchodilator response criterion ≥12% AND ≥200 mL in FEV1 or FVC relative to pre-bronchodilator baseline. Q10 240 mL/15%, Q11 150 mL/15%. Negative response does not exclude asthma. Distinguish this diagnostic criterion from other spirometry interpretation standards. GOLD 2026 report https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf text directly retrieved, screenshot failed cache miss. Post-BD FEV1/FVC below 0.7 in suitable clinical context and repeat on separate occasion if 0.60–0.80, Q23 0.636. Q24/25 spirometric grade 2/4, not overall severity or A/B/E group. Peak flow highest of three and zones checked against American Lung Association https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow and AAAAI description, individual plan/symptoms matter. Australian Asthma Handbook acute care https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9678134/ search extracts support severe attack escalation, CO2 trend, ipratropium and selective IV magnesium. NCBI phenotype https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/ and pathology https://pmc.ncbi.nlm.nih.gov/articles/PMC7265076/ support IgE/eosinophil/mucus casts/crystals, pulsus paradoxus. Pathology Q18–20 enrichment; item-level NORCET depth not established. Earlier INC broad nursing respiratory disease scope applies, no new official curriculum retrieval this batch. No new PYQ counts. HSSC Staff Nurse 2019 IgE lead and AIIMS Bathinda 29 Sep 2019 positioning lead indexed but direct source retrieval failed. Pending source only, not exact match. Existing Day 3 PYQ file still mostly link-only and answer-revealing table, needs self-contained source-checked adaptations in own scope. RMLIMS acute asthma drug search lead direct retrieval failed. 
+
+Video: 9/25 description/chapter-level links, 16/25 explicit pending. Aarogyam Part 34 https://www.youtube.com/watch?v=JzSbnEGoL5M published chapter labels at 20:49 silent chest, 1:44:50 peak-flow green zone (Q4,15; Q7–9). Part 25 https://www.youtube.com/watch?v=tOxTKjgTcTo description asthma drugs/status asthmaticus (Q12–14 general topic, exact subtopic not verified). NORCET countdown https://www.youtube.com/watch?v=tVX4Q7LwYu4 52:51 asthma trigger chapter (Q2 pediatric context). No video playback/transcript/exact item authenticated. Missing video Q1,3,5,6,10,11,16–25. Prior learning link preserved. No rendered UI inspection. Prevention: classify spirometric grade independently from clinical severity, never use CO2 normalization in deterioration as reassurance, use individual action plan, separate ICS-containing long-term strategy from acute rescue. Retain learner history and do not double-count related calculation methods. No new high-yield originals until coverage/semantic reconciliation. Next same file Q26–55; then Day 3 nursing MCQs and mocks, concepts and source-traced PYQs. Revisit all pending video and historical gaps before certification.
