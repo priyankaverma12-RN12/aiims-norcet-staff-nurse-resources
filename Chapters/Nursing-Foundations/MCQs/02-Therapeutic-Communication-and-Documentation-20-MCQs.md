@@ -18,9 +18,16 @@
 
 **Correct: C. Can you tell me what worries you most about the surgery?**
 
-Open-ended question patient ko apni concern explain karne ka chance deta hai. Nurse phir specific information aur support de sakti hai.
+Therapeutic communication ka purpose patient ko safe environment dena hai jahan woh apne concerns honestly share kar sake. Surgery ka fear pain, anesthesia, outcome ya family concern se related ho sakta hai. Open-ended question patient ko apne words mein main worry batane deta hai. Nurse phir specific information aur support de sakti hai. Pehle fear explore karo, phir reassure karne ki jagah factual explanation do.
 
-**Baaki options kyun sahi nahi hain?** False reassurance, comparison aur feelings dismiss karna communication ko block kar sakta hai.
+**Option-by-option reasoning**
+
+- **A:** A fear ko trivialize karta hai aur patient ko bolne se rokta hai.
+- **B:** B patient ko batata hai ki uski feeling galat hai, jo judgmental hai.
+- **C:** C specific concern explore karta hai aur conversation open rakhta hai.
+- **D:** D outcome ke baare mein unsupported reassurance deta hai.
+
+**Exam clue:** Open-ended question = explore, not dismiss.
 
 
 <!-- job4-metadata -->
@@ -52,9 +59,16 @@ Open-ended question patient ko apni concern explain karne ka chance deta hai. Nu
 
 **Correct: B. Remain present quietly and allow time for the patient to respond**
 
-Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse supportive presence maintain kar sakti hai.
+Difficult news ke baad silence patient ko information process karne aur emotion settle karne ka time de sakta hai. Therapeutic silence ka matlab nurse attentive presence maintain karti hai, patient ko abandon nahi karti. Patient ready ho toh gently invite karo ki woh apni feeling share kare. Distress ke saath acute safety concern ho toh promptly assess karo.
 
-**Baaki options kyun sahi nahi hain?** Demand pressure create karti hai. Topic change aur crying rokna feelings dismiss kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** A crying ko suppress karta hai aur emotion expression discourage karta hai.
+- **B:** B quiet supportive presence aur adequate response time deta hai.
+- **C:** C pressure create karta hai jab patient ready nahi ho sakta.
+- **D:** D emotional concern se topic divert karta hai.
+
+**Exam clue:** Silence with presence is an active therapeutic technique.
 
 
 <!-- job4-metadata -->
@@ -86,9 +100,16 @@ Therapeutic silence patient ko feelings process karne ka time deta hai. Nurse su
 
 **Correct: A. Check hearing aids, reduce background noise and face the patient clearly**
 
-Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur environment improve karke clear speech use karti hai.
+Hearing loss communication barrier hai, automatically cognitive impairment nahi. Nurse patient ki preferred communication method pooche, hearing aid function check kare, noise reduce kare aur face visible rakhe. Normal clear voice aur suitable pace use kare. Written support ya interpreter patient ki need ke according arrange karo aur understanding verify karo.
 
-**Baaki options kyun sahi nahi hain?** Shouting sound distort kar sakti hai. Hearing loss dementia prove nahi karta. Facing away visual cues reduce karta hai.
+**Option-by-option reasoning**
+
+- **A:** A sensory access improve karta hai, isliye first appropriate response hai.
+- **B:** B shouting speech distort kar sakti hai aur discomfort create kar sakti hai.
+- **C:** C hearing barrier ko dementia assume karna unsupported hai.
+- **D:** D face away karne se visual speech cues aur clarity kam hoti hai.
+
+**Exam clue:** First remove communication barriers, then assess understanding.
 
 
 <!-- job4-metadata -->
@@ -120,9 +141,16 @@ Hearing difficulty communication ko affect kar sakti hai. Nurse sensory aid aur 
 
 **Correct: D. When you say you feel weak, do you mean dizziness or difficulty moving your legs?**
 
-Clarification vague information ko specific banati hai. Nurse patient se meaning confirm karke assessment accurate karti hai.
+Clarification ka matlab ambiguous message ka exact meaning patient se verify karna hai. Weakness word dizziness, fatigue ya movement difficulty ke liye use ho sakta hai. Nurse options poochkar meaning clear karti hai aur patient ko other description ka chance bhi deti hai. Sudden focal weakness ya acute dizziness mein urgent clinical assessment bhi zaroori ho sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Exact feelings assume karna, advice impose karna aur disbelief communication block kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** A exact feeling know karne ka assumption hai, clarification nahi.
+- **B:** B unsolicited directive patient ki own perspective explore nahi karti.
+- **C:** C patient ki statement reject karta hai.
+- **D:** D unclear term ka meaning verify karne ki koshish karta hai.
+
+**Exam clue:** Clarify ambiguous words, never assume their meaning.
 
 
 <!-- job4-metadata -->
@@ -154,9 +182,16 @@ Clarification vague information ko specific banati hai. Nurse patient se meaning
 
 **Correct: D. Request immediate bedside review and specify the concern**
 
-Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent review request team ko priority samajhne mein help karti hai.
+SBAR structured handover method hai. S mein present concern, B mein relevant previous context, A mein assessment aur interpretation, R mein required action ya request batate hain. Agar patient deteriorate kar raha hai toh clearly specify karo ki immediate review chahiye aur kyun. Emergency response ko routine communication ke liye delay mat karo.
 
-**Baaki options kyun sahi nahi hain?** Name Situation ka part ho sakta hai. History Background hai. Current findings Assessment mein aati hain.
+**Option-by-option reasoning**
+
+- **A:** A name patient identification hai, complete recommendation nahi.
+- **B:** B history Background mein aati hai.
+- **C:** C vital signs assessment aur current situation ka part hain, request absent hai.
+- **D:** D required bedside review aur concern specify karta hai.
+
+**Exam clue:** R = request or recommendation, not merely report.
 
 
 <!-- job4-metadata -->
@@ -188,9 +223,16 @@ Recommendation mein nurse clear batati hai ki next action kya chahiye. Urgent re
 
 **Correct: C. Patient walked 10 meters with a walker and one-person assistance**
 
-Distance, device aur assistance observable facts hain. Objective record doosri nurses ko actual mobility level samajhne mein help karta hai.
+Objective documentation observable facts ko describe karti hai, personality judgment ko nahi. Walking distance, walker aur assistance level actual functional performance measure karne mein help karte hain. Isse next nurse baseline compare kar sakti hai aur mobility plan adjust kar sakti hai. Patient ka own report ho toh explicitly attribute karo.
 
-**Baaki options kyun sahi nahi hain?** Lazy, badly aur careless judgmental labels hain jo actual observations clearly record nahi karte.
+**Option-by-option reasoning**
+
+- **A:** A badly vague judgment hai, actual behavior specify nahi karta.
+- **B:** B careless assumption hai, observed action nahi.
+- **C:** C distance, equipment aur assistance measurable facts hain.
+- **D:** D lazy label stigmatizing hai aur actual behavior explain nahi karta.
+
+**Exam clue:** Record what was observed, not your opinion.
 
 
 <!-- job4-metadata -->
@@ -222,9 +264,16 @@ Distance, device aur assistance observable facts hain. Objective record doosri n
 
 **Correct: B. Correct it through the approved amendment process with an audit trail**
 
-Health record mein correction transparent honi chahiye. Approved amendment original entry aur correction ka trace preserve karti hai.
+Electronic record mein error correct karna zaroori hai, lekin original entry aur correction history traceable rehni chahiye. Approved amendment function use karo aur correct time, reason aur identity policy ke according record karo. Medication error ka patient safety impact assess karo aur responsible team ko required notification do. Never hide the original record.
 
-**Baaki options kyun sahi nahi hain?** Secret deletion, another login aur known error ignore karna record integrity ko harm karte hain.
+**Option-by-option reasoning**
+
+- **A:** A wrong information future treatment ko affect kar sakti hai.
+- **B:** B approved amendment aur audit trail record integrity maintain karte hain.
+- **C:** C secret deletion traceability destroy karta hai.
+- **D:** D another login use karna accountability aur access security violate karta hai.
+
+**Exam clue:** Correct transparently, never erase the audit trail.
 
 
 <!-- job4-metadata -->
@@ -256,9 +305,16 @@ Health record mein correction transparent honi chahiye. Approved amendment origi
 
 **Correct: A. Read the order back to the prescriber and obtain confirmation**
 
-Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sahi suni gayi hain. Nurse policy ke according documentation karti hai.
+Telephone medication order mein sound-alike medicine names, dose aur units mishear ho sakte hain. Sirf permitted situations mein authorized prescriber ka order document karo aur drug, dose, route, frequency jaise required details read back karo. Prescriber se confirmation lo aur unclear instructions clarify karo. Local authentication and medication safety requirements follow karo.
 
-**Baaki options kyun sahi nahi hain?** Memory unreliable ho sakti hai. Patient guess nahi karna chahiye. Color drug order identify nahi karta.
+**Option-by-option reasoning**
+
+- **A:** A read-back communication error detect karne ka safety check hai.
+- **B:** B memory par depend karne se information lose ya change ho sakti hai.
+- **C:** C patient dose guess karne ka authorized source nahi hai.
+- **D:** D medicine color se identity, dose ya route establish nahi hote.
+
+**Exam clue:** Read back, confirm, document according to policy.
 
 
 <!-- job4-metadata -->
@@ -290,9 +346,16 @@ Read-back se prescriber confirm kar sakta hai ki drug, dose, route aur timing sa
 
 **Correct: A. Protect confidentiality and verify the patient's consent before disclosure**
 
-Adult patient ki health information confidential hai. Nurse authorized disclosure aur patient consent check karti hai, unless lawful exception applies.
+Competent adult patient ko apni confidential health information par control ka adhikar hota hai, applicable legal exceptions ke subject mein. Family relation automatic access permission nahi hai. Nurse patient ki wishes, authorized recipient aur information scope verify kare. Required legal disclosures facility procedure se handle kare, unnecessary sharing avoid kare.
 
-**Baaki options kyun sahi nahi hain?** Family status alone unrestricted permission nahi hai. Group chat aur public corridor privacy breach kar sakte hain.
+**Option-by-option reasoning**
+
+- **A:** A consent aur confidentiality dono protect karta hai.
+- **B:** B family status blanket permission nahi deta.
+- **C:** C group chat uncontrolled disclosure create kar sakta hai.
+- **D:** D public corridor mein discussion unauthorized persons sun sakte hain.
+
+**Exam clue:** Family involvement is not blanket consent.
 
 
 <!-- job4-metadata -->
@@ -324,9 +387,16 @@ Adult patient ki health information confidential hai. Nurse authorized disclosur
 
 **Correct: D. Paraphrasing**
 
-Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Patient confirm ya correct kar sakta hai.
+Paraphrasing mein nurse patient ki baat ka main meaning apne words mein restate karti hai. Isse patient confirm kar sakta hai ki nurse ne uski baat sahi samjhi hai. Example, patient kehta hai ki treatment se tired feel hota hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha. Exact meaning impose mat karo.
 
-**Baaki options kyun sahi nahi hain?** Subject change discussion divert karta hai. Unsolicited advice aur false reassurance feelings explore nahi karti.
+**Option-by-option reasoning**
+
+- **A:** A subject change karta hai aur concern explore nahi karta.
+- **B:** B advice deta hai bina understanding verify kiye.
+- **C:** C false reassurance realistic concern dismiss kar sakti hai.
+- **D:** D meaning ko own words mein restate karna paraphrasing hai.
+
+**Exam clue:** Paraphrase meaning, clarify uncertainty, reflect feelings.
 
 
 <!-- job4-metadata -->
@@ -358,9 +428,16 @@ Paraphrasing mein nurse patient ki baat ko apne words mein repeat karti hai. Pat
 
 **Correct: C. Use short questions, communication aids and sufficient response time**
 
-Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient ki actual ability assess karke communication support provide karti hai.
+Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise neurological causes se ho sakti hai. Patient ki comprehension aur expression abilities individually assess karo. Short clear questions, pictures, writing ya communication board use karo aur response ka time do. New sudden aphasia emergency assessment maang sakti hai. Existing aphasia mein patient ki participation preserve karo.
 
-**Baaki options kyun sahi nahi hain?** Caregiver-only conversation autonomy reduce karti hai. Comprehension assume nahi karni chahiye. Guessing meaning inaccurate ho sakta hai.
+**Option-by-option reasoning**
+
+- **A:** A language difficulty ko complete lack of comprehension assume karta hai.
+- **B:** B response finish karne se actual meaning distort ho sakta hai.
+- **C:** C accessible communication aur sufficient time support karta hai.
+- **D:** D patient ki available ability aur autonomy ignore karta hai.
+
+**Exam clue:** Aphasia does not automatically mean loss of intelligence.
 
 
 <!-- job4-metadata -->
@@ -394,9 +471,16 @@ Aphasia language expression ya comprehension affect kar sakti hai. Nurse patient
 
 **Correct: B. Patient reports pain 7/10 and guards the incision during movement**
 
-Pain score patient ki report hai aur guarding observed behavior hai. Dono record karne se assessment useful banti hai.
+Subjective data patient ka personal experience hai, jaise pain rating. Objective observation nurse directly dekh sakti hai, jaise movement par incision protect karna. Dono document karne se symptoms aur behavior ki clinical picture clear hoti hai. Normal vital signs pain ko rule out nahi karte. Pain severity aur response ko reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Exaggeration aur difficult judgmental hain. Normal vitals pain ko exclude nahi karte.
+**Option-by-option reasoning**
+
+- **A:** A judgmental description hai, clinical pain data nahi.
+- **B:** B patient report aur observable guarding dono record karta hai.
+- **C:** C exaggeration ka unsupported assumption hai.
+- **D:** D normal vital signs ke basis par patient ka pain reject karta hai.
+
+**Exam clue:** Patient reports pain = subjective, observed guarding = objective.
 
 
 <!-- job4-metadata -->
@@ -428,9 +512,16 @@ Pain score patient ki report hai aur guarding observed behavior hai. Dono record
 
 **Correct: B. Objective assessment findings, actions taken and notifications**
 
-Fall ke baad hidden injury possible hai. Nurse assessment, action aur communication clinical record mein accurately document karti hai. Separate incident report policy ke according complete hoti hai.
+Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. Nurse patient ki condition, pain, mobility, neurological findings aur fall circumstances protocol ke according assess kare. Required monitoring, interventions aur notifications clinical chart mein factually document karo. Separate incident reporting bhi local policy ke according complete karo.
 
-**Baaki options kyun sahi nahi hain?** Incident report clinical documentation replace nahi karti. Blame speculation inappropriate hai. No visible injury documentation ki need remove nahi karti.
+**Option-by-option reasoning**
+
+- **A:** A clinical event omit karta hai aur delayed injury miss ho sakti hai.
+- **B:** B objective findings, care aur notifications continuity support karte hain.
+- **C:** C incident number clinical assessment ka substitute nahi hai.
+- **D:** D colleague par speculation factual charting nahi hai.
+
+**Exam clue:** Clinical chart records care, incident system supports safety review.
 
 
 <!-- job4-metadata -->
@@ -462,9 +553,16 @@ Fall ke baad hidden injury possible hai. Nurse assessment, action aur communicat
 
 **Correct: A. Please show me how you will use the inhaler at home**
 
-Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha hai. Mistake ho toh technique dobara teach ki ja sakti hai.
+Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi ya nahi. Inhaler jaise physical skill ke liye show-me ya return demonstration better check hai. Patient ko device-specific steps demonstrate karne do, incorrect step gently correct karo aur repeat demonstration lo. Isse nurse teaching improve kar sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Yes-no question actual skill confirm nahi karta. Signature understanding prove nahi karti. Rote repetition practical skill se different hai.
+**Option-by-option reasoning**
+
+- **A:** A actual skill performance verify karta hai.
+- **B:** B yes-no question understanding ka reliable proof nahi.
+- **C:** C signature education comprehension establish nahi karta.
+- **D:** D exact words repeat karna safe technique demonstrate nahi karta.
+
+**Exam clue:** Teach-back for understanding, show-me for practical skills.
 
 
 <!-- job4-metadata -->
@@ -496,9 +594,16 @@ Demonstration se nurse dekh sakti hai ki patient real task correctly kar pa raha
 
 **Correct: D. Acknowledge the frustration and explain what can be done next**
 
-Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear next steps uncertainty kam kar sakte hain.
+Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. Nurse calm tone mein frustration acknowledge kare aur realistic next action explain kare. Actual waiting time uncertain ho toh honest communication do. Threatening behavior ho toh safe distance aur facility de-escalation policy follow karo. Respect maintain karte hue appropriate boundaries set karo.
 
-**Baaki options kyun sahi nahi hain?** Argument anger badha sakta hai. Unrealistic promise misleading hai. Ignoring concern trust reduce karti hai.
+**Option-by-option reasoning**
+
+- **A:** A argument confrontation badha sakta hai.
+- **B:** B unsupported promise trust damage kar sakti hai.
+- **C:** C ignoring se patient ki concern unresolved rehti hai.
+- **D:** D emotion acknowledge karta hai aur actionable next step deta hai.
+
+**Exam clue:** Acknowledge emotion, explain realistic action.
 
 
 <!-- job4-metadata -->
@@ -530,9 +635,16 @@ Nurse frustration acknowledge karke patient ko respectfully sun sakti hai. Clear
 
 **Correct: C. Subjective**
 
-SOAP mein S patient-reported symptoms record karta hai. O observed findings, A clinical assessment aur P planned actions represent karte hain.
+SOAP structured notes ka format hai. S subjective yani patient ke own symptoms aur experiences, O objective yani examination aur measured findings, A assessment yani available information ki clinical interpretation, P plan yani next care actions. Agar patient burning pain report kare toh S section mein source clearly attribute karo. Test result O mein aayega.
 
-**Baaki options kyun sahi nahi hain?** Objective measured findings hain. Assessment interpretation hai. Plan future care steps hain.
+**Option-by-option reasoning**
+
+- **A:** A Assessment data ka interpretation hai.
+- **B:** B Plan future interventions aur review describe karta hai.
+- **C:** C Subjective patient ka own report capture karta hai.
+- **D:** D Objective observed ya measured findings record karta hai.
+
+**Exam clue:** SOAP = Subjective, Objective, Assessment, Plan.
 
 
 <!-- job4-metadata -->
@@ -564,9 +676,16 @@ SOAP mein S patient-reported symptoms record karta hai. O observed findings, A c
 
 **Correct: C. Identify the pending result and assign responsibility for follow-up**
 
-Pending investigation bhi safety concern ho sakti hai. Clear ownership se result miss hone aur treatment delay ka risk kam hota hai.
+Transfer ke samay pending result ek unfinished clinical responsibility hai. Handover mein test name, collection status, clinical importance, expected availability aur follow-up owner clear karo. Receiving team se responsibility acknowledge karvao. Agar critical result aa jaaye toh escalation plan follow karo. Pending ko normal result ki tarah record mat karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic discovery guaranteed nahi hai. Omission communication gap hai. Unknown result ko normal likhna false entry hai.
+**Option-by-option reasoning**
+
+- **A:** A important unfinished task hide karta hai.
+- **B:** B unreported result ko normal likhna inaccurate hai.
+- **C:** C pending test aur follow-up responsibility clarify karta hai.
+- **D:** D automatic discovery assume karne se result miss ho sakta hai.
+
+**Exam clue:** Handover transfers responsibility, not only information.
 
 
 <!-- job4-metadata -->
@@ -598,9 +717,16 @@ Pending investigation bhi safety concern ho sakti hai. Clear ownership se result
 
 **Correct: B. It sounds like being alone here is difficult for you**
 
-Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse patient apni feelings share karne mein comfortable ho sakta hai.
+Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish karna hai, bina judgment ya false claim ke. Patient alone feel kar raha hai, toh nurse emotion reflect kar sakti hai aur preferred support explore kar sakti hai. Patient permission se family contact ya other appropriate support arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Gratitude force karna aur comparison feelings dismiss karte hain. Unauthorized disclosure privacy harm karti hai.
+**Option-by-option reasoning**
+
+- **A:** A confidential information bina permission share karne ka promise karta hai.
+- **B:** B loneliness acknowledge karta hai aur understanding show karta hai.
+- **C:** C patient ko grateful hone ke liye judge karta hai.
+- **D:** D comparison patient ki feeling minimize karta hai.
+
+**Exam clue:** Empathy acknowledges feelings without judging them.
 
 
 <!-- job4-metadata -->
@@ -632,9 +758,16 @@ Empathy mein nurse patient ki emotion recognize karti hai bina judgment ke. Isse
 
 **Correct: A. Notify the responsible clinician promptly, confirm receipt and document the action**
 
-Critical result timely action maangta hai. Closed-loop communication mein receiver receipt confirm karta hai aur nurse escalation ka record rakhti hai.
+Closed-loop communication mein message bhejna enough nahi hota. Sender ensure karta hai ki right receiver ne message receive aur understand kiya hai. Critical result ke saath deterioration ho toh immediate patient assessment, urgent escalation aur policy ke according confirmation zaroori hai. Notification ka time, receiver aur actions accurately document karo.
 
-**Baaki options kyun sahi nahi hain?** Unread message, delay aur visitor relay urgent information miss karwa sakte hain.
+**Option-by-option reasoning**
+
+- **A:** A timely notification, confirmation aur record loop close karte hain.
+- **B:** B unread message se receipt establish nahi hoti.
+- **C:** C routine rounds ka wait deterioration worsen kar sakta hai.
+- **D:** D visitor clinical communication chain ka appropriate substitute nahi hai.
+
+**Exam clue:** Send, confirm receipt, act and document.
 
 
 <!-- job4-metadata -->
@@ -666,9 +799,16 @@ Critical result timely action maangta hai. Closed-loop communication mein receiv
 
 **Correct: D. Use only approved unambiguous abbreviations and write unclear terms in full**
 
-Approved language medication aur care errors kam karne mein help karti hai. Ambiguous term ko full form mein likhna safer hai.
+Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medication ya care errors cause kar sakte hain. Approved list aur prohibited abbreviation rules facility policy ke according follow karo. Agar term unclear hai toh full form likho aur unclear orders clarify karo. Units aur numerical notation clear rakho.
 
-**Baaki options kyun sahi nahi hain?** Personal shortcuts aur confusing symbols misinterpret ho sakte hain. Staff ki interpretation always same nahi hoti.
+**Option-by-option reasoning**
+
+- **A:** A personal abbreviations other staff differently interpret kar sakte hain.
+- **B:** B units aur zero confuse hone se dose errors ho sakte hain.
+- **C:** C shared interpretation assume karna unsafe hai.
+- **D:** D approved clear terms ambiguity reduce karte hain.
+
+**Exam clue:** When in doubt, write it out and clarify.
 
 
 <!-- job4-metadata -->
