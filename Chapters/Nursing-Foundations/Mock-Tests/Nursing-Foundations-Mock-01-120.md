@@ -95,9 +95,22 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 
 **Correct: D. 90 degrees**
 
-IM injection ko muscle tak pahunchna hai. Perpendicular angle correct needle aur site ke saath ismein help karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** 15, 25 aur 5 degrees shallow approaches hain jo routine IM technique nahi hain.
+Intramuscular ya IM injection ka target skeletal muscle hota hai, jo skin aur subcutaneous fat ke neeche hoti hai. Conventional perpendicular approach mein needle skin ke plane se 90 degrees par enter karti hai. Sirf angle correct hona enough nahi hai. Nurse prescribed route, medication, patient anatomy, suitable site aur needle length verify karti hai taaki medicine intended tissue mein deliver ho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 25 degrees ka angle muscle tak reliable delivery establish nahi karta. IV access ke angles situation ke according different ho sakte hain.
+- **B (Galat):** 15 degrees shallow approach hai aur intradermal route ke liye commonly relevant hai, routine IM ke liye nahi.
+- **C (Galat):** 5 degrees almost parallel approach hai, jo dermis jaise superficial tissue ke liye suitable ho sakti hai.
+- **D (Sahi):** 90 degrees conventional IM insertion angle hai. Appropriate landmark aur needle length bhi essential hain.
+
+**Exam clue:** IM = 90 degrees, but site and needle selection matter.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications) · [Clinical reference 2](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -732,9 +745,22 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 
 **Correct: A. Needle length, tissue thickness and product-specific technique**
 
-SC injection ka target fat layer hai. Needle length aur tissue thickness ke hisaab se angle choose karna muscle penetration avoid karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dose aur age alone depth nahi batate. Universal angle har device ke liye suitable nahi hai.
+Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deliver hoti hai. Needle length, skinfold thickness aur product/device instructions determine karte hain ki 45 ya 90 degrees suitable hai. Short insulin pen needles aur longer conventional needles ki techniques same nahi hoti. Patient-specific assessment se unintended muscle delivery avoid karne mein help milti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Needle length, tissue thickness aur specific technique target tissue ki depth determine karne ke relevant factors hain.
+- **B (Galat):** Age important ho sakti hai lekin body composition, needle aur product ke bina angle decide nahi karti.
+- **C (Galat):** Universal 45-degree rule har needle aur product par apply nahi hota.
+- **D (Galat):** Dose in milligrams drug quantity batati hai, skin aur fat depth nahi.
+
+**Exam clue:** SC angle is device- and patient-dependent.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -1804,9 +1830,22 @@ Wrong specimen identity wrong diagnosis aur treatment cause kar sakti hai. Nurse
 
 **Correct: C. Deltoid**
 
-Deltoid adult routine IM vaccine ke liye standard site hai. Correct landmarks aur needle length verify karni hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Forearm, abdomen aur calf muscles routine adult vaccination ke preferred sites nahi hain.
+Deltoid upper arm ki muscle hai aur adequate muscle mass wale adults mein routine IM vaccination ke liye preferred site hoti hai. Correct anatomical landmark, needle length, vaccine-specific route aur contraindications check karo. Anterolateral thigh kuch circumstances mein alternative ho sakti hai. Routine adult vaccine site aur non-vaccine IM drug site ko same rule mat samjho.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rectus abdominis routine adult IM vaccine ke liye recommended muscle nahi hai. Abdominal fat selected SC medicines ke liye use ho sakta hai.
+- **B (Galat):** Calf ka gastrocnemius standard adult IM vaccination site nahi hai.
+- **C (Sahi):** Deltoid recommended adult IM vaccine site hai jab anatomy aur product suitable hon.
+- **D (Galat):** Forearm flexor routine IM vaccine site nahi hai. Forearm skin selected intradermal tests ke liye relevant ho sakti hai.
+
+**Exam clue:** Adult routine IM vaccine: deltoid when suitable.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -2068,9 +2107,24 @@ Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strengt
 
 **Correct: C. 5–15 degrees**
 
-ID injection dermis ki shallow layer mein di jaati hai. Low angle se needle superficial plane mein rehti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Higher angles deeper tissue tak ja sakte hain, jo ID route ka target nahi hai.
+Intradermal ya ID injection mein drug epidermis ke neeche dermis ki superficial layer mein deliver hoti hai. Bevel up aur approximately 5–15 degrees ka shallow approach needle tip ko intended layer mein rakhne mein help karta hai. Skin testing mein small wheal expected ho sakti hai. Product-specific technique aur trained clinical protocol follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** 45–60 degrees ID target ke liye steep hai aur subcutaneous tissue tak placement ka risk ho sakta hai.
+- **B (Galat):** 90 degrees perpendicular approach routine IM technique se associated hai aur ID ke liye unnecessarily deep ho sakti hai.
+- **C (Sahi):** 5–15 degrees bevel-up approach superficial intradermal placement ke liye conventional range hai.
+- **D (Galat):** 70–80 degrees steep approach hai. Needle dermis se deeper tissue mein ja sakti hai.
+
+**Exam clue:** ID = shallow 5–15 degrees, bevel up.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/) · [Clinical reference 2](https://openstax.org/books/clinical-nursing-skills/pages/12-2-administering-parenteral-medications)
+
+**Related historical evidence:** [🟣 UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/ques--614afd7356dd4fdbb83da9c0) · [🟣 BHU Staff Nurse, 22 October 2019](https://testbook.com/question-answer/intradermal-injection-is-given-at--619c8d81684563454ef38ef5). Both retrieved third-party reports test the ID angle and report 15 degrees. Official paper/key not authenticated. This is the original bank question testing the related concept, not an exact PYQ.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
