@@ -31,7 +31,7 @@
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh actual absent total ka aadha hai.
-- **C.** Yeh passed aur appeared ka sahi subtraction nahi hai.
+- **C.** Yeh appeared se passed subtract karke 300 failed candidates nikaalta hai, absent nahi.
 - **D.** Yeh appeared total hai, absent nahi.
 
 **Exam trick:** Registered, appeared aur passed ke denominators ko alag rakho.
@@ -911,7 +911,7 @@ The exact values are reproduced in the tables below for accessibility.
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** 7:3
-- **B.** 14:6
+- **B.** 14:1
 - **C.** 3:7
 - **D.** 9:1
 
@@ -924,7 +924,7 @@ The exact values are reproduced in the tables below for accessibility.
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh actual counts ka ratio hai, truncated heights ka nahi.
-- **B.** Yeh bhi actual count ratio hai, displayed heights nahi.
+- **B.** Yeh 140 ko 10 se compare karta hai, dono displayed heights ko nahi.
 - **C.** Yeh actual count ratio reverse karta hai.
 
 **Exam trick:** Axis baseline, total aur requested quantity check karo.
