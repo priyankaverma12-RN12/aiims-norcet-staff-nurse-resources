@@ -323,9 +323,19 @@ Heart fluid load handle na kar paaye toh pulmonary congestion develop ho sakti h
 
 **Correct: C. Encourage the patient to do safe portions and assist with the remainder**
 
-Partial assistance patient ki independence aur dignity maintain karne mein help karti hai. Nurse fatigue, mobility aur preferences consider karti hai.
+Grooming patient ki personal appearance aur hygiene care ka part hai. Agar patient kuch steps independently kar sakta hai, toh nurse uski retained abilities use karne mein help karti hai. Preferred routine, fatigue, range of movement aur safety assess karke sirf required assistance do.
 
-**Baaki options kyun sahi nahi hain?** Full takeover autonomy reduce kar sakta hai. No assistance unmet needs create karti hai. Preferences patient-centered honi chahiye.
+**Option-wise explanation:**
+- **A (Galat):** All assistance refuse karne se hygiene aur comfort needs unmet reh sakti hain.
+- **B (Galat):** Unnecessary full assistance patient ki remaining skills use karne ka chance kam karti hai.
+- **C (Sahi):** Safe parts independently karne aur remaining tasks mein help dene se dignity aur independence support hoti hai.
+- **D (Galat):** Preference poochhe bina decisions lena patient autonomy ignore karta hai.
+
+**Exam clue:** Assist only as needed, respect preferences.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax hygiene practices](https://openstax.org/books/clinical-nursing-skills/pages/7-1-hygiene-practices)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -642,9 +652,19 @@ Vein condition, skin integrity, therapy properties, duration, patient preference
 
 **Correct: A. Cluster nonurgent care when feasible and reduce unnecessary noise and light**
 
-Care clustering aur environment adjustment uninterrupted rest support kar sakte hain. Required clinical monitoring phir bhi continue hoti hai.
+Hospital mein noise, light, pain aur frequent interruptions sleep disturb kar sakte hain. Stable patient ke liye nonurgent care ko coordinate karne se rest period protect ho sakta hai. Required observations, medication timing aur safety checks ko skip nahi karo. Patient preference aur clinical condition ke according plan banao.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary waking, bright light aur caffeine sleep disrupt kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Nonurgent care clustering aur environmental noise/light reduction rest support karte hain.
+- **B (Galat):** Bedtime caffeine stimulant effect ki wajah se sleep onset delay kar sakti hai.
+- **C (Galat):** Unnecessary bright light sleep-wake rhythm affect kar sakti hai.
+- **D (Galat):** Nonessential frequent waking sleep continuity disturb karti hai.
+
+**Exam clue:** Protect rest without delaying indicated monitoring.
+
+**Clinical reference:** [Inpatient sleep systematic review](https://pubmed.ncbi.nlm.nih.gov/38284637/)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -718,9 +738,19 @@ Seizure mein involuntary movement injury cause kar sakti hai. Nurse nearby hazar
 
 **Correct: C. Clean gently after soiling and apply an appropriate moisture barrier**
 
-Urine-stool exposure skin barrier damage kar sakti hai. Gentle cleansing aur barrier product irritants se protection provide karte hain.
+Urine aur stool prolonged contact mein skin barrier irritate kar sakte hain. Incontinence-associated dermatitis mein skin red, sore ya superficially damaged ho sakti hai. Soiling ke baad gentle cleansing, drying aur suitable barrier product use karo. Incontinence management aur pressure assessment bhi continue rakho.
 
-**Baaki options kyun sahi nahi hain?** Delayed cleaning, harsh scrubbing aur prolonged wet occlusion damage worsen kar sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Har episode par strong antiseptic aur scrubbing barrier damage worsen kar sakte hain.
+- **B (Galat):** Damp skin ko indefinitely occlude karne se excess moisture aur maceration badh sakti hai.
+- **C (Sahi):** Timely gentle cleansing aur appropriate barrier irritant exposure aur skin damage reduce karte hain.
+- **D (Galat):** Stool ko skin par chhodne se irritants ka contact time badhta hai.
+
+**Exam clue:** Clean promptly, protect barrier, reassess skin.
+
+**Clinical reference:** [International Guideline preventive skin care](https://www.internationalguideline.com/skincare)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
@@ -2291,9 +2321,19 @@ Pain personal sensory aur emotional experience hai. Patient verbally report nahi
 
 **Correct: D. Assess sensation and skin, and use only an approved temperature-controlled method if appropriate**
 
-Reduced sensation mein patient excessive heat detect nahi kar paata. Nurse suitable temperature, protective barrier aur regular skin checks use karti hai.
+Reduced sensation wale patient ko heat ka dangerous level feel nahi ho sakta. Hot-water bottle skin contact se thermal burn cause kar sakti hai. Pehle skin, circulation aur sensation assess karo. Insensate foot ya contraindicated site par direct heat avoid karo. Sirf assessed and approved method use karo agar appropriate ho, protective measures aur repeat checks ke saath. Alternative comfort measures consider karo.
 
-**Baaki options kyun sahi nahi hain?** Direct intense heat aur unattended application burns cause kar sakti hain. No complaint safety prove nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Pain complaint absent hone se skin safe prove nahi hoti, kyunki sensation impaired hai.
+- **B (Galat):** Unattended heat exposure injury ko unnoticed progress karne de sakti hai.
+- **C (Galat):** Very hot water direct skin contact se burn ho sakta hai.
+- **D (Sahi):** Assessment aur approved method ki suitability check karna burn prevention prioritize karta hai. Heat unsuitable ho toh avoid karo.
+
+**Exam clue:** Reduced sensation: no unassessed heat, use safer alternatives.
+
+**Clinical reference:** [ADA 2026 foot care](https://doi.org/10.2337/dc26-s012) · [ADA daily foot care](https://diabetes.org/health-wellness/diabetes-and-your-feet/foot-care-tips)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
