@@ -595,10 +595,10 @@ Tracheostomy neck ke stoma se trachea mein airway access deti hai. Severe distre
 Oxygen therapy adjustment ke baad documentation se team ko pata chalta hai ki treatment kis device aur setting par diya gaya aur patient ka response kya tha. SpO2, respiratory rate, work of breathing, clinical symptoms, prescribed target aur time of change relevant hain. Zarurat par escalation aur clinician communication bhi record karo. Record ke saath ongoing reassessment continue hoti hai.
 
 **Option-wise explanation:**
-- **A (Sahi):** Wall outlet ka color delivered dose ya patient response establish nahi karta.
-- **B (Galat):** Nurse ka naam accountability ka part ho sakta hai, lekin clinical observations replace nahi karta.
-- **C (Galat):** Saturation improve ho tab bhi setting aur response document karna continuity of care ke liye important hai.
-- **D (Galat):** Device, flow ya concentration, saturation aur respiratory status record karne se treatment effectiveness aur handover support hota hai.
+- **A (Sahi):** Device, flow ya concentration, saturation aur respiratory status record karne se treatment effectiveness aur handover support hota hai.
+- **B (Galat):** Wall outlet ka color delivered dose ya patient response establish nahi karta.
+- **C (Galat):** Nurse ka naam accountability ka part ho sakta hai, lekin clinical observations replace nahi karta.
+- **D (Galat):** Saturation improve ho tab bhi setting aur response document karna continuity of care ke liye important hai.
 
 **Exam clue:** Document the dose/device, target, patient response and time.
 
