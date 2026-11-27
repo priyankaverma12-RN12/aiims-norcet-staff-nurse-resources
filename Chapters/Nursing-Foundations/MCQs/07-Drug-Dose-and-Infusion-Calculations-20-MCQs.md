@@ -30,6 +30,8 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related tablet calculations problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q2. A prescribed dose is 0.25 g. The available tablet contains 125 mg. How many tablets are needed?
@@ -59,6 +61,8 @@ Required tablets = prescribed mg / mg per tablet. 750/250 = 3 tablets. Reverse: 
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversions and tablets problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -90,6 +94,8 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related dose-volume calculation problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q4. A vial contains 1 g after reconstitution to a final volume of 10 mL. What volume contains 300 mg?
@@ -119,6 +125,8 @@ Volume = dose / concentration = 35 mg / 50 mg/mL = 0.7 mL. Reverse: 0.7 × 50 = 
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV reconstitution problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -150,6 +158,10 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related weight-based dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
+
 </details>
 
 ### Q6. A 24-kg child has a prescription for 30 mg/kg/day divided into three equal doses. What is the amount per dose?
@@ -179,6 +191,10 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related pediatric dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
 </details>
 
@@ -210,6 +226,8 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV flow mL/hour problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q8. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
@@ -239,6 +257,8 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -270,6 +290,8 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q10. A microdrip set has a drop factor of 60 gtt/mL. The ordered rate is 80 mL/hour. What is the gravity drip rate?
@@ -299,6 +321,8 @@ Rate = 100 mL × 15 gtt/mL /30 min = 50 gtt/min. Reverse: 50 × 30/15 = 100 mL.
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -330,6 +354,8 @@ Time = remaining volume / rate = 350/100 = 3.5 hours. Fractional 0.5 hour × 60 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related infusion time problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q12. A patient receives 200 mL oral fluid, 350 mL IV fluid and 150 mL enteral water during a shift. What is total documented intake?
@@ -359,6 +385,8 @@ Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Re
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
@@ -390,6 +418,8 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q14. An order specifies 150 micrograms of a drug. Which value is equivalent in milligrams?
@@ -419,6 +449,8 @@ Net recorded balance = intake − output = 1800 − 2100 = −300 mL. Reverse: 2
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related metric conversion problems. Topic-level mapping only, exact question, timestamp and playback not verified.
 
 </details>
 
@@ -450,6 +482,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related liquid dose-volume problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
 ### Q16. A solution is labeled 0.9% weight/volume sodium chloride. How much sodium chloride is present in 500 mL?
@@ -479,6 +513,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
@@ -510,6 +546,8 @@ Concentration = 2/4 = 0.5 mg/mL. Volume = 0.75/0.5 = 1.5 mL. Reverse: 1.5 × 0.5
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q18. A prescription is written as 2 mg/kg for a patient weighing 66 lb. Using 2.2 lb/kg, what is the calculated dose?
@@ -539,6 +577,10 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related weight conversion and dosing problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
+[Pediatric metric dosing and measurement safety — AAP](https://publications.aap.org/pediatrics/article/135/4/e20150072/33600/Metric-Units-and-the-Preferred-Dosing-of-Orally) — clinical context, not a drug-specific dose reference.
 
 </details>
 
@@ -570,6 +612,8 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**YouTube MCQ practice: specific verification pending.**
+
 </details>
 
 ### Q20. An infusion calculation yields a result ten times greater than the expected rate. What should the nurse do before programming the pump?
@@ -599,6 +643,8 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
+
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
