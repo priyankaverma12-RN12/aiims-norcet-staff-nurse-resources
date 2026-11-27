@@ -10,7 +10,7 @@
 
 ### Q1. Which combination best explains narrowing during an asthma attack?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Bronchospasm, inflammation and excess mucus
 - **B.** Alveolar wall destruction only
@@ -21,11 +21,19 @@
 
 **Correct answer: A. Bronchospasm, inflammation and excess mucus**
 
-**Kyun sahi hai:** Asthma mein smooth muscle spasm, lining swelling, secretions milkar lumen narrow karte hain.
+**Kyun sahi hai?** Asthma attack mein airway ki smooth muscles contract karti hain, lining swollen ho sakti hai aur mucus lumen ko aur narrow kar sakta hai. Isliye air ko bahar nikalna mushkil hota hai aur wheeze aa sakti hai.
 
-**Baaki options kyun nahi:** Pleural fluid unrelated; alveolar destruction emphysema; nasal obstruction lower airway disease explain nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** Alveolar wall destruction emphysema ka characteristic feature hai.
+- **C.** Pleural fluid, fibrosis aur RBC changes asthma ke typical immediate airway mechanism nahi hain.
+- **D.** Nasal obstruction alone lower airway narrowing explain nahi karti.
 
 **Exam trick:** 3S: spasm, swelling, secretions.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -33,7 +41,7 @@
 
 ### Q2. A patient has episodic wheeze after dust exposure but feels well between episodes. Which feature most supports asthma?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Isolated pleural pain
 - **B.** Progressive fixed breathlessness only
@@ -44,11 +52,19 @@
 
 **Correct answer: D. Variable respiratory symptoms associated with triggers**
 
-**Kyun sahi hai:** Asthma symptoms trigger ke saath fluctuate karte hain.
+**Kyun sahi hai?** Asthma mein symptoms ki frequency aur intensity time ke saath change hoti hai. Dust jaise trigger se wheeze ho sakti hai aur episodes ke beech patient theek feel kar sakta hai. Diagnosis ko objective airflow variability se support karna chahiye.
 
-**Baaki options kyun nahi:** Fixed progressive COPD pattern; chronic sputum bronchitis clue; pleural pain nonspecific.
+**Baaki options kyun galat hain?**
+
+- **A.** Isolated pleural pain asthma ka characteristic variable symptom pattern nahi hai.
+- **B.** Fixed progressive breathlessness alone doosre chronic lung disorders ka clue ho sakti hai.
+- **C.** Daily purulent sputum without variation chronic airway infection ya bronchiectasis jaise causes ki assessment maangta hai.
 
 **Exam trick:** Asthma varies over time.
+
+[Clinical reference](https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf)
+
+**▶️ [YouTube MCQ practice — NORCET 10 Countdown, asthma triggers at 52:51](https://www.youtube.com/watch?v=tVX4Q7LwYu4&t=3171s)** — pediatric context and published topic label, not exact adult question. Playback pending.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -56,7 +72,7 @@
 
 ### Q3. Why is expiration often prolonged in bronchial asthma?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** The alveolar walls always rupture
 - **B.** Pleural space fills with blood
@@ -67,11 +83,19 @@
 
 **Correct answer: C. Narrowed lower airways increase resistance to outflow**
 
-**Kyun sahi hai:** Narrow airway se breath out slow hota hai.
+**Kyun sahi hai?** Jab bronchi narrow ho jaati hain, air ko bahar nikalne mein resistance badhta hai. Isliye expiration prolonged ho sakti hai aur severe obstruction mein air trapping ho sakti hai.
 
-**Baaki options kyun nahi:** Diaphragm paralysis universal nahi; pleural bleeding and wall rupture defining mechanism nahi.
+**Baaki options kyun galat hain?**
+
+- **A.** Alveolar rupture har asthma episode mein nahi hoti.
+- **B.** Pleural bleeding asthma obstruction ka usual mechanism nahi hai.
+- **D.** Diaphragm paralysis asthma ki defining feature nahi hai.
 
 **Exam trick:** Airway narrowing makes outflow difficult.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -79,7 +103,7 @@
 
 ### Q4. A patient's wheeze becomes almost inaudible while respiratory effort increases. What does this indicate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Critically reduced air movement
 - **B.** Definite recovery
@@ -90,11 +114,21 @@
 
 **Correct answer: A. Critically reduced air movement**
 
-**Kyun sahi hai:** Silent chest severe obstruction mein airflow bahut low hone ka sign hai.
+**Kyun sahi hai?** Wheeze tab sunai deti hai jab narrowed airway se air move karti hai. Worsening effort ke saath wheeze almost disappear ho toh airflow critically low ho sakta hai. ABC assessment aur emergency escalation karo.
 
-**Baaki options kyun nahi:** Recovery assume unsafe; sleep does not explain distress; inflammation resolve prove nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** Kam wheeze ke saath badhta distress recovery prove nahi karta.
+- **C.** Normal sleep worsening respiratory effort explain nahi karti.
+- **D.** Wheeze ka kam hona inflammation resolve hone ka proof nahi hai.
 
 **Exam trick:** Quiet chest can be dangerous.
+
+[Clinical reference](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 34, silent chest at 20:49](https://www.youtube.com/watch?v=JzSbnEGoL5M&t=1249s)** — published chapter label supports related concept. Exact item and playback pending.
+
+**Revision mapping:** Advanced Q7 silent chest. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -102,7 +136,7 @@
 
 ### Q5. Severe asthma initially shows PaCO2 28 mmHg; later it reaches 43 mmHg while distress worsens. What is the best interpretation?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Possible respiratory muscle fatigue and impending ventilatory failure
 - **B.** Primary metabolic alkalosis is confirmed
@@ -113,11 +147,19 @@
 
 **Correct answer: A. Possible respiratory muscle fatigue and impending ventilatory failure**
 
-**Kyun sahi hai:** Worsening distress mein CO2 normalize/rise hona ventilation fail hone ka warning hai.
+**Kyun sahi hai?** Early attack mein hyperventilation se PaCO2 kam ho sakti hai. Agar distress badh raha hai aur CO2 28 se 43 ho gayi hai, toh effective ventilation girne aur respiratory muscles fatigue hone ka concern hai. Emergency team ko involve karo, normal-range value se reassure mat ho.
 
-**Baaki options kyun nahi:** Normal number alone recovery nahi; HCO3/pH without data metabolic diagnosis nahi; assessment essential.
+**Baaki options kyun galat hain?**
+
+- **B.** pH aur bicarbonate ke bina primary metabolic alkalosis confirm nahi hoti.
+- **C.** Worsening distress mein repeated assessment zaroori hai.
+- **D.** Normal-range CO2 deteriorating patient mein recovery prove nahi karti.
 
 **Exam trick:** Trend + patient, not number alone.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC9678134/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -125,7 +167,7 @@
 
 ### Q6. An early asthma exacerbation causes hyperventilation. Which ABG trend is expected?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** PaO2 is always normal
 - **B.** HCO3 increases as the immediate primary change
@@ -136,11 +178,21 @@
 
 **Correct answer: D. PaCO2 decreases and pH tends to rise**
 
-**Kyun sahi hai:** Fast ventilation CO2 remove karti hai; respiratory alkalosis pattern.
+**Kyun sahi hai?** Hyperventilation mein CO2 elimination production se zyada ho sakti hai. PaCO2 girti hai aur pH alkaline side ja sakta hai. Severe attack mein gas exchange impaired ho sakta hai, isliye oxygenation bhi assess karo.
 
-**Baaki options kyun nahi:** CO2 rise acidifies; bicarbonate primary driver nahi; oxygen low bhi ho sakta hai.
+**Baaki options kyun galat hain?**
+
+- **A.** PaO2 har exacerbation mein normal nahi hoti.
+- **B.** Immediate primary change CO2 ka fall hai, bicarbonate rise nahi.
+- **C.** CO2 rise generally pH ko acidic direction mein le jaati hai.
 
 **Exam trick:** Early asthma may be alkalotic.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC9678134/)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Day 2 Q18/Q33 respiratory alkalosis application. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -148,7 +200,7 @@
 
 ### Q7. The personal best PEF is 500 L/min and today's best is 375 L/min. Which action-plan zone applies?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Cannot calculate
 - **B.** Red zone
@@ -159,11 +211,21 @@
 
 **Correct answer: C. Yellow zone**
 
-**Kyun sahi hai:** 375/500 x100=75%; 50 to below 80 yellow.
+**Kyun sahi hai?** 375 ko personal best 500 se divide karke 100 se multiply karo. Result 75% hai. Common traffic-light plan mein 50% se below 80% yellow zone hai. Patient prescribed written action plan follow kare aur symptoms ko bhi assess kare.
 
-**Baaki options kyun nahi:** Green ≥80; red <50; data available.
+**Baaki options kyun galat hain?**
+
+- **A.** Personal best aur current reading dono diye gaye hain, calculation possible hai.
+- **B.** Red zone usually 50% se kam hota hai.
+- **D.** Green zone usually 80% ya usse zyada hota hai.
 
 **Exam trick:** PEF divide by personal best.
+
+[Clinical reference](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 34, peak flow zones at 1:44:50](https://www.youtube.com/watch?v=JzSbnEGoL5M&t=6290s)** — published chapter topic, not exact numerical item. Playback pending.
+
+**Revision mapping:** Q8–9 related peak-flow calculations. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -171,7 +233,7 @@
 
 ### Q8. Peak flow attempts are 260, 310 and 290 L/min. Personal best is 400 L/min. Which recording and zone are correct?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** 310 L/min; yellow
 - **B.** 287 L/min; green
@@ -182,11 +244,19 @@
 
 **Correct answer: A. 310 L/min; yellow**
 
-**Kyun sahi hai:** Highest 310 record; 310/400=77.5%, yellow.
+**Kyun sahi hai?** Teen acceptable efforts mein highest reading 310 L/min record karo. 310 ÷ 400 × 100 = 77.5%, jo usual yellow zone hai. Average nahi lena hai. Individual written action plan aur symptoms ko bhi follow karo.
 
-**Baaki options kyun nahi:** 260/400=65 not red; average not recorded; 290 also yellow, not highest.
+**Baaki options kyun galat hain?**
+
+- **B.** 287 average ke paas hai, highest reading nahi. Ye green zone bhi nahi hai.
+- **C.** 260 highest nahi hai aur 65% red nahi, yellow hai.
+- **D.** 290 highest nahi hai aur 72.5% bhi yellow hai.
 
 **Exam trick:** Best of three, not average.
+
+[Clinical reference](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 34, peak flow zones at 1:44:50](https://www.youtube.com/watch?v=JzSbnEGoL5M&t=6290s)** — published chapter topic, not exact numerical item. Playback pending.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -194,7 +264,7 @@
 
 ### Q9. An adult has personal best PEF 420 L/min and now records 350 L/min. Which classification is most accurate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Yellow zone because PEF is below personal best
 - **B.** Red zone, regardless of symptoms
@@ -205,11 +275,21 @@
 
 **Correct answer: C. Green zone, interpret symptoms too**
 
-**Kyun sahi hai:** 350/420=83.3%, green; symptoms may still require action.
+**Kyun sahi hai?** 350 ÷ 420 × 100 = 83.3%. Usual green zone mein 80–100% aata hai. Lekin symptoms present hon toh unhe ignore nahi karna hai, patient ka action plan follow karo.
 
-**Baaki options kyun nahi:** Red <50%; yellow <80%; asthma can occur with normal PEF.
+**Baaki options kyun galat hain?**
+
+- **A.** Personal best se thoda kam hona automatically yellow zone nahi hai.
+- **B.** 83.3% red threshold ke neeche nahi hai.
+- **D.** Green reading se asthma diagnosis exclude nahi hota.
 
 **Exam trick:** Green does not exclude symptoms.
+
+[Clinical reference](https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 34, peak flow zones at 1:44:50](https://www.youtube.com/watch?v=JzSbnEGoL5M&t=6290s)** — published chapter topic, not exact numerical item. Playback pending.
+
+**Revision mapping:** Q7–8 related peak-flow method. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -217,7 +297,7 @@
 
 ### Q10. FEV1 increases from 1.60 to 1.84 L after bronchodilator. Which statement matches the taught adult criterion?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Increase of 240 mL but only 5%
 - **B.** This proves COPD and excludes asthma
@@ -228,11 +308,19 @@
 
 **Correct answer: D. Increase of 240 mL and 15% supports variable airflow limitation**
 
-**Kyun sahi hai:** 0.24 L=240 mL; 0.24/1.60=15%; ≥12% and ≥200 mL meet criterion.
+**Kyun sahi hai?** FEV1 difference 1.84 − 1.60 = 0.24 L, yaani 240 mL. Baseline 1.60 se divide karke 100 multiply karo toh 15% increase milta hai. GINA 2026 adult asthma criterion mein FEV1 ya FVC ka baseline se kam se kam 12% aur 200 mL rise supportive hai. Ye alone asthma aur COPD ko definitively differentiate nahi karta.
 
-**Baaki options kyun nahi:** Unit conversion wrong; percent wrong; reversibility alone not disease-specific.
+**Baaki options kyun galat hain?**
+
+- **A.** Absolute rise 240 mL hai, lekin percentage 15% hai, 5% nahi.
+- **B.** Bronchodilator response alone COPD prove ya asthma exclude nahi karta.
+- **C.** 0.24 L = 240 mL, 24 mL nahi.
 
 **Exam trick:** Both volume and percentage.
+
+[Clinical reference](https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -240,7 +328,7 @@
 
 ### Q11. FEV1 rises from 1.00 to 1.15 L. Why does it not meet the usual taught adult 12% and 200 mL response criterion?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Percentage is only 1.5%
 - **B.** Absolute improvement exceeds 200 mL
@@ -251,11 +339,21 @@
 
 **Correct answer: C. Percentage is sufficient but absolute improvement is too small**
 
-**Kyun sahi hai:** 15% rise hai, but 150 mL <200 mL.
+**Kyun sahi hai?** 1.15 − 1.00 = 0.15 L, yaani 150 mL. Baseline se 15% increase hai, par 200 mL criterion meet nahi hota. GINA adult criterion mein dono conditions chahiye. Ek negative test se asthma exclude nahi hota, clinician repeat testing consider kar sakta hai.
 
-**Baaki options kyun nahi:** 150 not >200; percent 15; one negative response does not exclude asthma.
+**Baaki options kyun galat hain?**
+
+- **A.** Percentage 15% hai, 1.5% nahi.
+- **B.** Absolute change 150 mL hai, jo 200 mL se kam hai.
+- **D.** Single negative response asthma ko definitively rule out nahi karta.
 
 **Exam trick:** AND means both criteria.
+
+[Clinical reference](https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q10 bronchodilator response method. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -263,7 +361,7 @@
 
 ### Q12. Which treatment strategy addresses the underlying airway inflammation in asthma?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Oxygen alone as long-term disease control
 - **B.** ICS-containing therapy
@@ -274,11 +372,19 @@
 
 **Correct answer: B. ICS-containing therapy**
 
-**Kyun sahi hai:** ICS inflammation aur exacerbation risk reduce karta hai.
+**Kyun sahi hai?** ICS ka matlab inhaled corticosteroid hai. Ye airway inflammation control karne aur future exacerbations ka risk kam karne mein help karta hai. GINA mein ICS-containing treatment central hai. Prescribed regimen aur inhaler technique patient ko samjhao.
 
-**Baaki options kyun nahi:** SABA opens airway but alone inadequate; antibiotics not universal; oxygen treats hypoxemia not inflammation.
+**Baaki options kyun galat hain?**
+
+- **A.** Oxygen hypoxemia treat kar sakti hai, underlying chronic inflammation control nahi karti.
+- **C.** SABA airway temporarily open karta hai, lekin long-term SABA-only strategy recommended nahi hai.
+- **D.** Har asthma episode bacterial infection ki wajah se nahi hota, antibiotics routine nahi hain.
 
 **Exam trick:** Controller targets inflammation.
+
+[Clinical reference](https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 25, asthma medications and status asthmaticus](https://www.youtube.com/watch?v=tOxTKjgTcTo)** — general topic description, individual drug question pending.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -286,7 +392,7 @@
 
 ### Q13. A patient with severe asthma remains distressed after initial inhaled bronchodilator treatment. Which prescribed drug may add bronchodilation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Ipratropium
 - **B.** Budesonide as immediate sole rescue
@@ -297,11 +403,19 @@
 
 **Correct answer: A. Ipratropium**
 
-**Kyun sahi hai:** Ipratropium short-acting muscarinic blockade se add-on bronchodilation deta hai.
+**Kyun sahi hai?** Ipratropium short-acting muscarinic antagonist hai. Ye airway smooth muscle ki cholinergic narrowing ko reduce karta hai. Severe acute asthma mein prescribed SABA ke saath adjunct ho sakta hai. Response monitor karo aur escalation delay mat karo.
 
-**Baaki options kyun nahi:** ICS inflammation, montelukast and cromoglycate preventive roles; not sole immediate rescue.
+**Baaki options kyun galat hain?**
+
+- **B.** Budesonide alone immediate bronchodilator rescue nahi hai.
+- **C.** Montelukast immediate sole emergency bronchodilator nahi hai.
+- **D.** Cromoglycate preventive role rakhta hai, acute rescue ka substitute nahi hai.
 
 **Exam trick:** Severe exacerbation may use SABA + SAMA.
+
+[Clinical reference](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 25, asthma medications and status asthmaticus](https://www.youtube.com/watch?v=tOxTKjgTcTo)** — general topic description, individual drug question pending.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -309,7 +423,7 @@
 
 ### Q14. A severe asthma attack responds poorly to initial recommended treatment. Which additional clinician-directed therapy may be considered in selected cases?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Long-term tiotropium as sole emergency treatment
 - **B.** Intravenous magnesium sulphate
@@ -320,11 +434,19 @@
 
 **Correct answer: B. Intravenous magnesium sulphate**
 
-**Kyun sahi hai:** IV magnesium selected severe poor responders mein adjunct ho sakta hai.
+**Kyun sahi hai?** IV magnesium sulphate selected severe attacks mein initial appropriate treatment ke inadequate response par clinician consider kar sakta hai. Ye routine first-line treatment nahi hai. Nurse prescribed infusion aur monitoring protocol follow kare, respiratory support assessment delay na ho.
 
-**Baaki options kyun nahi:** Sedative respiratory depression risk; water not treatment; LAMA not sole emergency rescue.
+**Baaki options kyun galat hain?**
+
+- **A.** Tiotropium maintenance medicine ho sakti hai, sole acute rescue nahi hai.
+- **C.** Oral water severe bronchospasm ka definitive treatment nahi hai.
+- **D.** Routine sedative respiratory drive depress kar sakta hai aur deterioration mask kar sakta hai.
 
 **Exam trick:** Magnesium is an adjunct, not routine first line.
+
+[Clinical reference](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 25, asthma medications and status asthmaticus](https://www.youtube.com/watch?v=tOxTKjgTcTo)** — general topic description, individual drug question pending.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -332,7 +454,7 @@
 
 ### Q15. Which sign in an asthma exacerbation demands urgent escalation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Mild transient cough with normal breathing
 - **B.** Reduced respiratory effort with clear improvement
@@ -343,11 +465,23 @@
 
 **Correct answer: C. Increasing drowsiness with reduced air entry**
 
-**Kyun sahi hai:** Drowsiness and poor air entry ventilatory failure warning ho sakte hain.
+**Kyun sahi hai?** Drowsiness aur reduced air entry worsening ventilation aur impending respiratory failure ke signs ho sakte hain. Immediate ABC assessment, emergency escalation aur prescribed treatment ki preparation karo.
 
-**Baaki options kyun nahi:** Mild cough alone lower priority; speech improves; clear clinical improvement different.
+**Baaki options kyun galat hain?**
+
+- **A.** Mild cough with normal breathing alone same severity signal nahi hai.
+- **B.** Clear clinical improvement ke saath effort kam hona alag context hai.
+- **D.** Speech improve hona generally response ka supportive clue hai, lekin overall assessment zaroori hai.
 
 **Exam trick:** Consciousness + airflow = red flags.
+
+[Clinical reference](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed/)
+
+**▶️ [YouTube MCQ practice — Aarogyam Infinity Part 34, silent chest at 20:49](https://www.youtube.com/watch?v=JzSbnEGoL5M&t=1249s)** — published chapter label supports related concept. Exact item and playback pending.
+
+**Revision mapping:** Q4 and Advanced Q7 deterioration recognition. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
+
+**⚪ Historical lead pending:** AIIMS Bathinda Nursing Officer 29 September 2019 reported status asthmaticus positioning question. Direct retrieval failed, not the same question. [Source lead](https://testbook.com/question-answer/a-client-with-status-asthmaticus-is-in-severe-resp--617650cfe76cb9af8976a763/amp).
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -355,7 +489,7 @@
 
 ### Q16. Which antibody is classically associated with allergic asthma?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** IgE
 - **B.** IgA alone
@@ -366,11 +500,21 @@
 
 **Correct answer: A. IgE**
 
-**Kyun sahi hai:** Allergic/type I response mein IgE important hai.
+**Kyun sahi hai?** Allergic asthma mein allergen-specific IgE mast cells ki activation se linked ho sakti hai. Isse inflammatory mediators release ho sakte hain. Har asthma allergic ya IgE-mediated nahi hota.
 
-**Baaki options kyun nahi:** Other immunoglobulins have different roles, classic type I mediator nahi.
+**Baaki options kyun galat hain?**
+
+- **B.** IgA mucosal defense mein important hai, classical immediate allergic pathway ka main antibody nahi.
+- **C.** IgG ke multiple immune roles hain, par classical allergic sensitization IgE se associated hai.
+- **D.** IgM early immune response mein important hai, usual allergic asthma association nahi.
 
 **Exam trick:** Allergy = IgE.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/)
+
+**YouTube MCQ practice: verification pending**.
+
+**⚪ Historical lead pending:** HSSC Staff Nurse 2019 reported IgE question. Search index only, direct retrieval failed. [Source lead](https://testbook.com/question-answer/the-levels-of-which-of-the-following-immunoglobuli--698d6f088d4209bac044b883).
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -378,7 +522,7 @@
 
 ### Q17. Which cells are commonly associated with type 2 airway inflammation in asthma?
 
-**Difficulty:** Easy | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Platelets
 - **B.** Osteocytes
@@ -389,11 +533,19 @@
 
 **Correct answer: C. Eosinophils**
 
-**Kyun sahi hai:** Eosinophils many allergic/type 2 asthma phenotypes mein involved.
+**Kyun sahi hai?** Type 2 airway inflammation mein eosinophils commonly involved hote hain. Inke inflammatory mediators airway injury aur symptoms mein contribute kar sakte hain. Normal eosinophil count asthma exclude nahi karta.
 
-**Baaki options kyun nahi:** RBC oxygen transport; platelets clot; osteocytes bone cells.
+**Baaki options kyun galat hain?**
+
+- **A.** Platelets clotting mein primary role rakhte hain.
+- **B.** Osteocytes bone cells hain.
+- **D.** Erythrocytes oxygen transport karte hain, typical type 2 inflammatory cells nahi.
 
 **Exam trick:** Eosinophil is classic, not universal.
+
+[Clinical reference](https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -401,7 +553,7 @@
 
 ### Q18. Curschmann spirals found in respiratory secretions are primarily what?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT — pathology/assessment enrichment · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Pleural cholesterol crystals
 - **B.** Fragments of alveolar bone
@@ -412,11 +564,19 @@
 
 **Correct answer: D. Coiled mucus plugs**
 
-**Kyun sahi hai:** Mucus airway obstruction ke saath spiral plugs form kar sakta hai.
+**Kyun sahi hai?** Curschmann spirals airway mucus ke coiled casts hain jo respiratory secretions mein mil sakte hain. Ye classic asthma pathology clue hain, lekin asthma-specific diagnostic proof nahi.
 
-**Baaki options kyun nahi:** Bone fragments unrelated; RBC casts renal; pleural crystals separate.
+**Baaki options kyun galat hain?**
+
+- **A.** Pleural cholesterol crystals alag finding hain.
+- **B.** Alveoli mein normal bone fragments nahi hote.
+- **C.** RBC casts urinary sediment mein renal pathology se related hote hain.
 
 **Exam trick:** Spiral = mucus.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC7265076/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -424,7 +584,7 @@
 
 ### Q19. Which statement correctly describes Charcot-Leyden crystals in allergic airway disease?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT — pathology/assessment enrichment · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** They arise from eosinophil-derived proteins
 - **B.** They are bacterial colonies
@@ -435,11 +595,19 @@
 
 **Correct answer: A. They arise from eosinophil-derived proteins**
 
-**Kyun sahi hai:** Eosinophil-derived protein crystallization classic finding hai.
+**Kyun sahi hai?** Charcot-Leyden crystals eosinophil-associated protein galectin-10 se bante hain. Ye eosinophilic inflammation mein mil sakte hain. Inhe asthma ka exclusive diagnostic sign nahi maana jaata.
 
-**Baaki options kyun nahi:** Bacteria not source; rib calcium unrelated; spirals mucus, crystals protein.
+**Baaki options kyun galat hain?**
+
+- **B.** Ye bacterial colonies nahi hain.
+- **C.** Ye ribs se aayi calcium deposits nahi hain.
+- **D.** Curschmann spirals mucus casts hain, jabki Charcot-Leyden crystals protein crystals hain.
 
 **Exam trick:** Crystal = eosinophil protein.
+
+[Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC7265076/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -447,7 +615,7 @@
 
 ### Q20. Systolic BP is 128 mmHg during expiration and 114 during inspiration. Which interpretation is correct in a distressed asthma patient?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟡 IMPORTANT — pathology/assessment enrichment · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** This confirms asthma without other assessment
 - **B.** A 14 mmHg inspiratory fall suggests pulsus paradoxus
@@ -458,11 +626,19 @@
 
 **Correct answer: B. A 14 mmHg inspiratory fall suggests pulsus paradoxus**
 
-**Kyun sahi hai:** 128−114=14 mmHg; >10 fall pulsus paradoxus support karta hai.
+**Kyun sahi hai?** 128 − 114 = 14 mmHg inspiratory systolic BP fall hai. Usual definition mein 10 mmHg se zyada inspiratory fall pulsus paradoxus suggest karta hai. Severe asthma mein ho sakta hai, par doosri conditions mein bhi milta hai. Distress ki urgent assessment karo.
 
-**Baaki options kyun nahi:** Direction fall, calculation not 4, finding nonspecific and cannot alone diagnose.
+**Baaki options kyun galat hain?**
+
+- **A.** Pulsus paradoxus asthma-specific nahi hai.
+- **C.** Difference 14 mmHg hai, 4 nahi.
+- **D.** BP rise nahi, fall hua hai aur magnitude normal threshold se zyada hai.
 
 **Exam trick:** Inspiratory SBP drop >10.
+
+[Clinical reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK526018/)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -472,7 +648,7 @@
 
 ### Q21. Why does a patient with COPD often feel unable to empty the lungs?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** Persistent airflow obstruction and air trapping
 - **B.** Air cannot enter the nose in every case
@@ -483,11 +659,21 @@
 
 **Correct answer: A. Persistent airflow obstruction and air trapping**
 
-**Kyun sahi hai:** Expiratory outflow limited hone se trapped air aur hyperinflation ho sakte hain.
+**Kyun sahi hai?** COPD mein small airway disease aur loss of elastic recoil ki wajah se expiratory airflow limited ho sakta hai. Air trapping aur hyperinflation se patient ko lungs empty karne mein difficulty feel ho sakti hai.
 
-**Baaki options kyun nahi:** Nasal blockage not universal; effusion not defining; TV not zero.
+**Baaki options kyun galat hain?**
+
+- **B.** Nasal obstruction har COPD patient ka mechanism nahi hai.
+- **C.** Tidal volume zero nahi hota jab patient spontaneous breathing kar raha ho.
+- **D.** Pleural fluid COPD ki compulsory feature nahi hai.
 
 **Exam trick:** COPD = difficulty breathing out.
+
+[Clinical reference](https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** related airflow obstruction in Day 2 Q27. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -495,7 +681,7 @@
 
 ### Q22. Which exposure history is important in a nonsmoker with suspected COPD in a rural household?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Routine drinking water intake
 - **B.** Daily tooth brushing
@@ -506,11 +692,19 @@
 
 **Correct answer: C. Long-term biomass smoke exposure**
 
-**Kyun sahi hai:** Chulhe/biomass smoke prolonged airway and lung injury kar sakta hai.
+**Kyun sahi hai?** Indoor biomass fuel smoke, jaise wood ya dung fuel ka prolonged exposure, COPD ka risk factor ho sakta hai. Nonsmoker mein cooking smoke, occupational dust aur other exposures bhi assess karo.
 
-**Baaki options kyun nahi:** Other habits not recognized COPD exposures.
+**Baaki options kyun galat hain?**
+
+- **A.** Routine water intake typical inhaled pollutant exposure nahi hai.
+- **B.** Tooth brushing COPD ka established inhalation exposure nahi hai.
+- **D.** Occasional reading COPD risk exposure nahi hai.
 
 **Exam trick:** Smoking is not the only cause.
+
+[Clinical reference](https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -518,7 +712,7 @@
 
 ### Q23. Post-bronchodilator FEV1 is 1.4 L and FVC 2.2 L. Which interpretation fits the GOLD diagnostic threshold in an appropriate clinical context?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** Ratio about 0.64 supports persistent obstruction
 - **B.** Ratio 0.64 confirms restriction
@@ -529,11 +723,19 @@
 
 **Correct answer: A. Ratio about 0.64 supports persistent obstruction**
 
-**Kyun sahi hai:** 1.4/2.2=0.636; <0.70 supports persistent airflow limitation.
+**Kyun sahi hai?** 1.4 ÷ 2.2 = 0.636, approximately 0.64. GOLD ka post-bronchodilator threshold 0.70 se kam hai, appropriate symptoms aur risk factors ke saath obstruction support hoti hai. Ratio 0.60–0.80 ho toh separate occasion par repeat spirometry se confirm karna recommended hai.
 
-**Baaki options kyun nahi:** Inverse ratio wrong; low ratio not restriction; FEV1 alone insufficient.
+**Baaki options kyun galat hain?**
+
+- **B.** Low ratio restriction confirm nahi karta.
+- **C.** 1.57 inverse division se aata hai, correct ratio nahi.
+- **D.** FEV1 alone diagnostic ratio aur clinical context replace nahi karta.
 
 **Exam trick:** Post-BD ratio <0.70 with context.
+
+[Clinical reference](https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -541,7 +743,7 @@
 
 ### Q24. A patient with confirmed COPD has post-bronchodilator FEV1 63% predicted. Which spirometric grade applies?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
 
 - **A.** GOLD 4
 - **B.** GOLD 1
@@ -552,11 +754,19 @@
 
 **Correct answer: D. GOLD 2**
 
-**Kyun sahi hai:** 50 to <80% predicted = grade 2.
+**Kyun sahi hai?** Confirmed COPD mein post-bronchodilator FEV1 63% predicted GOLD 2 airflow obstruction grade mein aata hai, jo 50 se below 80% hai. Ye overall disease severity ya A/B/E symptom-exacerbation group ke barabar nahi hai.
 
-**Baaki options kyun nahi:** GOLD1 ≥80, GOLD3 30–<50, GOLD4 <30.
+**Baaki options kyun galat hain?**
+
+- **A.** GOLD 4 mein FEV1 30% predicted se kam hai.
+- **B.** GOLD 1 mein FEV1 80% predicted ya zyada hai.
+- **C.** GOLD 3 mein FEV1 30 se below 50% predicted hai.
 
 **Exam trick:** Grade uses % predicted, not ratio.
+
+[Clinical reference](https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf)
+
+**YouTube MCQ practice: verification pending**.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
@@ -564,7 +774,7 @@
 
 ### Q25. A confirmed COPD patient has FEV1 27% predicted. Which grade fits?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / Nursing Officer (original exam-style)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / HP Staff Nurse / Nursing Officer (original exam-style) · Related revision
 
 - **A.** GOLD 1
 - **B.** GOLD 4
@@ -575,11 +785,21 @@
 
 **Correct answer: B. GOLD 4**
 
-**Kyun sahi hai:** Below 30% predicted = very severe airflow obstruction.
+**Kyun sahi hai?** Confirmed COPD mein post-bronchodilator FEV1 27% predicted GOLD 4 spirometric airflow obstruction grade hai, kyunki ye 30% se kam hai. Symptoms, exacerbations aur comorbidities separately assess hoti hain.
 
-**Baaki options kyun nahi:** Other grades ≥30%.
+**Baaki options kyun galat hain?**
+
+- **A.** GOLD 1 ka cutoff 80% ya zyada hai.
+- **C.** GOLD 3 mein FEV1 30 se below 50% hai.
+- **D.** GOLD 2 mein FEV1 50 se below 80% hai.
 
 **Exam trick:** <30 = grade 4.
+
+[Clinical reference](https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf)
+
+**YouTube MCQ practice: verification pending**.
+
+**Revision mapping:** Q24 spirometric grading method. Related method or concept, not necessarily exact duplicate. Preserve history and reconcile unique counts.
 
 [Day 3 disease Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Asthma-COPD-Chronic-Bronchitis-Emphysema.md) · [Day 3 nursing Concepts](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/blob/main/Chapters/Respiratory-System/Concepts/Day-03-Inhalers-Oxygen-Nebulization-Nursing-Management.md) · [Chapter](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System) · [Previous Year Questions](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Previous-Year-Questions) · [Revision](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/tree/main/Chapters/Respiratory-System/Revision)
 
