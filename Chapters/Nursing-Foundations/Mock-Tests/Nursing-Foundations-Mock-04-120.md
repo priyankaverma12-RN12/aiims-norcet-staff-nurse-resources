@@ -459,9 +459,22 @@ Ointment surface par coating bana sakti hai jo drops ki delivery affect kare. Dr
 
 **Correct: A. New leakage around the insertion site and changed external catheter position**
 
-Leakage aur position change catheter displacement indicate kar sakte hain. Nurse infusion stop ya manage karke access integrity assess karti hai.
+<!-- job5-rationale -->
+New leakage aur external catheter position change displacement ya access failure indicate kar sakte hain. Infusion stop karo if integrity uncertain, site/device assess karo, appropriate replacement protocol follow karo. Exposed segment blindly advance mat karo.
 
-**Baaki options kyun sahi nahi hain?** Stable dry site reassuring ho sakti hai. Correct rate dislodgement exclude nahi karta. Meal request unrelated hai.
+**Option-by-option reasoning**
+
+- **A:** Leakage plus position change dislodgement assessment require karta hai.
+- **B:** Stable dry secure site reassuring hai, ongoing monitoring still required.
+- **C:** Meal request access integrity cue nahi hai.
+- **D:** Correct rate catheter tip location prove nahi karta.
+
+**Exam clue:** Check access before continuing if displacement suspected.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -545,9 +558,22 @@ Severe arterial insufficiency mein compression blood supply compromise kar sakti
 
 **Correct: A. A suitable intact vein and surrounding skin appropriate for the prescribed therapy**
 
-Vein size, skin condition, therapy duration aur drug properties site selection guide karte hain. Suitable site complications kam karne mein help karti hai.
+<!-- job5-rationale -->
+Vein condition, skin integrity, therapy properties, duration, patient preference aur access restrictions evaluate karo. Suitable device and vein selection infiltration, infection aur phlebitis risk reduce karta hai.
 
-**Baaki options kyun sahi nahi hain?** Infected skin aur bruised area avoid karne ki need ho sakti hai. Convenience alone safe selection nahi hai.
+**Option-by-option reasoning**
+
+- **A:** Suitable intact vein and skin appropriate selection hai.
+- **B:** Staff convenience clinical suitability replace nahi karti.
+- **C:** Infected skin se insertion infection risk badhata hai.
+- **D:** Bruising vessel injury aur assessment difficulty indicate kar sakti hai.
+
+**Exam clue:** Match device and site to therapy and patient.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -1844,9 +1870,22 @@ Inventory aur safe storage loss prevent karne mein help karte hain. Patient ko p
 
 **Correct: C. Verify the manufacturer's or pharmacy-approved concentration, rate and administration instructions**
 
-Some IV medicines rapid administration par serious reactions cause kar sakti hain. Nurse drug-specific dilution, rate aur monitoring confirm karti hai.
+<!-- job5-rationale -->
+IV drug concentration, dilution, duration aur monitoring drug-specific hote hain. Rapid administration severe hypotension, arrhythmia ya infusion reaction cause kar sakti hai. Approved instructions, order aur compatibility verify karo. Correct arithmetic unsafe concentration ko safe nahi banati.
 
-**Baaki options kyun sahi nahi hain?** Universal bolus aur same rate unsafe hain. Large vein compatibility aur dosing requirements remove nahi karti.
+**Option-by-option reasoning**
+
+- **A:** Universal rapid bolus unsafe hai.
+- **B:** Large vein dilution requirements remove nahi karti.
+- **C:** Drug-specific approved concentration aur rate check correct hai.
+- **D:** Same rate for all medicines inappropriate hai.
+
+**Exam clue:** Drug-specific rate and concentration always verify.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
@@ -2600,9 +2639,22 @@ Sterile packaging microbial barrier hoti hai. Tear se organisms enter kar sakte 
 
 **Correct: D. Apply appropriate direct pressure and reassess bleeding and circulation**
 
-Catheter remove hone par puncture site se bleeding ho sakti hai, especially anticoagulation mein. Direct pressure clot formation support karti hai. Persistent bleeding ko escalate karna chahiye.
+<!-- job5-rationale -->
+Anticoagulation clot formation affect karti hai. Appropriate direct pressure puncture bleeding control mein help karti hai. Bleeding aur distal circulation reassess karo, persistent bleeding or instability urgently escalate karo.
 
-**Baaki options kyun sahi nahi hain?** Massage bleeding increase kar sakti hai. No pressure bleeding continue hone de sakta hai. Excess tight band perfusion compromise kar sakti hai.
+**Option-by-option reasoning**
+
+- **A:** Excessively tight band distal perfusion compromise kar sakta hai.
+- **B:** Massage puncture site disturb karke bleeding worsen kar sakti hai.
+- **C:** No pressure bleeding continue hone de sakta hai.
+- **D:** Direct pressure and reassessment correct hai.
+
+**Exam clue:** Pressure with reassessment, not an indefinite tight band.
+
+[Clinical reference](https://openstax.org/books/clinical-nursing-skills/pages/13-2-intravenous-device-insertion)
+
+**YouTube MCQ practice: specific verification pending.**
+<!-- /job5-rationale -->
 
 </details>
 
