@@ -4,7 +4,7 @@
 
 ### Q1. Which temperature site is generally avoided in an unconscious patient who cannot safely hold an oral thermometer?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** An approved nonoral route
 - **B.** A correctly used tympanic route if suitable
@@ -32,9 +32,11 @@ Unconscious patient oral thermometer ko safely hold nahi kar sakta. Swallowing a
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q45](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q45-which-temperature-site-is-generally-avoided-in-an-unconscious-patient-who-cannot-safely-hold-an-oral-thermometer)
+
 ### Q2. Why should a recent hot drink be considered before measuring oral temperature?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 JIPMER Staff Nurse, 4 June 2013 — related reported concept**
 
 - **A.** It always lowers oral temperature
 - **B.** It has no influence on oral measurement
@@ -64,9 +66,11 @@ Oral temperature mouth ke andar ki local temperature measure karti hai. Hot drin
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q103](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q103-why-should-a-recent-hot-drink-be-considered-before-measuring-oral-temperature)
+
 ### Q3. Which term describes elevated body temperature due to a raised hypothalamic set point?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Normothermia
 - **B.** Fever
@@ -94,9 +98,11 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q114](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q114-which-term-describes-elevated-body-temperature-due-to-a-raised-hypothalamic-set-point)
+
 ### Q4. A patient exposed to extreme heat has very high temperature and altered mental status. Which action is a priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Activate emergency help and begin appropriate rapid cooling and supportive care
 - **B.** Give a routine antipyretic as the sole treatment
@@ -126,9 +132,11 @@ Extreme heat exposure ke baad very high temperature aur altered mental status he
 
 </details>
 
+[Legacy revision reuse: Mock 01, Q88](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q88-a-patient-exposed-to-extreme-heat-has-very-high-temperature-and-altered-mental-status-which-action-is-a-priority)
+
 ### Q5. A patient with suspected fever has shaking chills while temperature is rising. Which explanation is most accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** The body's current temperature may be below the newly raised set point
 - **B.** Shivering always means the core temperature is normal
@@ -156,9 +164,11 @@ Fever ki onset mein hypothalamus higher set point establish karta hai. Body ka a
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q40](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q40-a-patient-with-suspected-fever-has-shaking-chills-while-temperature-is-rising-which-explanation-is-most-accurate)
+
 ### Q6. Which temperature pattern returns to normal at least once in a 24-hour period despite fever spikes?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS NORCET, 1 September 2020 — related reported concept**
 
 - **A.** Continuous fever
 - **B.** Remittent fever that never reaches normal
@@ -188,9 +198,11 @@ Intermittent fever mein high temperature ke periods ke beech temperature normal 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q117](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q117-which-temperature-pattern-returns-to-normal-at-least-once-in-a-24-hour-period-despite-fever-spikes)
+
 ### Q7. Which term describes fever fluctuating above normal without returning to normal during the observed period?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Normothermia
 - **B.** Hypothermia
@@ -218,9 +230,11 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q20](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q20-which-term-describes-fever-fluctuating-above-normal-without-returning-to-normal-during-the-observed-period)
+
 ### Q8. A patient has a temperature of 35°C after prolonged cold exposure and is becoming confused. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give alcohol to increase warmth
 - **B.** Assess urgently, prevent further heat loss and initiate suitable rewarming under protocol
@@ -248,9 +262,11 @@ Cold exposure aur confusion ke saath 35°C reading concerning hai, chahe exact c
 
 </details>
 
+[Legacy revision reuse: Mock 02, Q109](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q109-a-patient-has-a-temperature-of-35c-after-prolonged-cold-exposure-and-is-becoming-confused-which-approach-is-appropriate)
+
 ### Q9. Which mechanism transfers heat from a warm body to a colder solid surface in direct contact?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Evaporation
 - **B.** Conduction
@@ -278,9 +294,11 @@ Conduction mein heat do objects ke direct physical contact se transfer hoti hai.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q65](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q65-which-mechanism-transfers-heat-from-a-warm-body-to-a-colder-solid-surface-in-direct-contact)
+
 ### Q10. Which heat transfer mechanism is involved when moving cool air carries heat away from the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** Convection
 - **B.** Conduction alone
@@ -304,13 +322,17 @@ Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air 
 
 **Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/15-4-temperature)
 
+**Related historical evidence:** [AIIMS Jodhpur 2019 memory-based report](https://testbook.com/question-answer/which-of-the-following-is-the-principal-heat-excha--625ee35a1a33612ae9adeefb). Is question mein incubator ke heat exchange mode ko convection se relate kiya gaya hai. Yeh air movement ke same basic mechanism ka related evidence hai. Publisher ki neonatal age aur phototherapy wali explanation ko clinical guidance na samjho. Official paper aur key independently authenticate nahi hue hain.
+
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q72](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q72-which-heat-transfer-mechanism-is-involved-when-moving-cool-air-carries-heat-away-from-the-skin)
+
 ### Q11. Which process removes heat when sweat changes from liquid to vapor?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Radiation alone
 - **B.** Conduction alone
@@ -338,9 +360,11 @@ Evaporation mein sweat liquid se vapor banta hai. Is change ke liye energy chahi
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q111](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q111-which-process-removes-heat-when-sweat-changes-from-liquid-to-vapor)
+
 ### Q12. A febrile patient is sweating heavily as the temperature begins falling. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume fever cannot recur
 - **B.** Ignore fluid loss entirely
@@ -368,9 +392,11 @@ Fever ka set point lower hone par body excess heat lose karne ke liye sweating a
 
 </details>
 
+[Legacy revision reuse: Mock 03, Q56](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q56-a-febrile-patient-is-sweating-heavily-as-the-temperature-begins-falling-which-response-is-appropriate)
+
 ### Q13. A patient has low platelet count and mucosal bleeding. Why may rectal temperature measurement be inappropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** The route always causes hyperthermia
 - **B.** Platelet count has no relationship to bleeding risk
@@ -398,9 +424,11 @@ Platelets blood clot ke initial plug formation mein help karte hain. Thrombocyto
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q15](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q15-a-patient-has-low-platelet-count-and-mucosal-bleeding-why-may-rectal-temperature-measurement-be-inappropriate)
+
 ### Q14. Which nursing action supports accurate comparison of serial temperatures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Record only rounded values without context
 - **B.** Use a consistent suitable route and document route and device when relevant
@@ -428,9 +456,11 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q118](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q118-which-nursing-action-supports-accurate-comparison-of-serial-temperatures)
+
 ### Q15. A patient with peripheral neuropathy requests a heating pad. Which risk should the nurse recognize?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reduced sensation may prevent recognition of excessive heat and burns
 - **B.** Neuropathy eliminates all thermal injury risk
@@ -458,9 +488,11 @@ Peripheral neuropathy mein nerves ki sensation impaired ho sakti hai, jisse pati
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q45](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q45-a-patient-with-peripheral-neuropathy-requests-a-heating-pad-which-risk-should-the-nurse-recognize)
+
 ### Q16. A patient has a cold application over a poorly perfused limb. Which finding requires immediate reassessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Stable comfort with intact skin
 - **B.** A planned reassessment interval
@@ -488,9 +520,11 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 </details>
 
+[Legacy revision reuse: Mock 04, Q93](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q93-a-patient-has-a-cold-application-over-a-poorly-perfused-limb-which-finding-requires-immediate-reassessment)
+
 ### Q17. What is the purpose of a protective layer between an approved heat or cold device and the skin?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Increase skin damage
 - **B.** Make temperature monitoring unnecessary
@@ -518,9 +552,11 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q2](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q2-what-is-the-purpose-of-a-protective-layer-between-an-approved-heat-or-cold-device-and-the-skin)
+
 ### Q18. A patient with fever has new neck stiffness, confusion and a rapidly worsening condition. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give a hot bath before assessing consciousness
 - **B.** Assume every fever is uncomplicated
@@ -550,9 +586,11 @@ Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningi
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q88](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q88-a-patient-with-fever-has-new-neck-stiffness-confusion-and-a-rapidly-worsening-condition-which-action-is-appropriate)
+
 ### Q19. Which term describes a core body temperature below 35°C?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Pyrexia
 - **B.** Hypothermia
@@ -580,9 +618,11 @@ Hypothermia core body temperature 35°C se below hone ko kehte hain. Body heat l
 
 </details>
 
+[Legacy revision reuse: Mock 05, Q38](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q38-which-term-describes-a-core-body-temperature-below-35c)
+
 ### Q20. A patient has persistent fever despite antipyretic treatment. Which nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reassess clinical condition, hydration and possible cause and communicate relevant changes
 - **B.** Repeat medication sooner than prescribed automatically
@@ -609,6 +649,8 @@ Antipyretic fever ko kam karne mein help kar sakti hai, lekin underlying infecti
 **Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
+
+[Legacy revision reuse: Mock 05, Q52](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q52-a-patient-has-persistent-fever-despite-antipyretic-treatment-which-nursing-response-is-appropriate)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [Indian Nursing Council](https://www.indiannursingcouncil.org/)
