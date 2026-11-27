@@ -5,7 +5,7 @@
 ### Q1. During admission a patient reports severe nausea, but the nurse has not yet assessed vital signs or hydration. Which nursing process step is currently required?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Clinical application · **🟣 AIIMS Jodhpur Nursing Officer 2019 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -30,14 +30,16 @@ Nurse ko pehle patient ki history aur present condition samajhni hai. Nausea ka 
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 1, Q77](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 1, Q77](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
 ### Q2. Which entry in an assessment record is subjective data?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 GMCH Nursing Officer 2025 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -62,7 +64,9 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 1, Q31](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 1, Q31](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 
 **Additional exam reference:** [GMCH 2025 recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760) · [Question booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Earlier extracted text evidence recorded, direct PDF retrieval failed this run.
 <!-- /job4-link-addition -->
@@ -71,7 +75,7 @@ Subjective information woh hoti hai jo patient khud feel karke batata hai. Burni
 ### Q3. Which finding represents objective assessment data?
 
 <!-- job4-metadata -->
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Concept recognition · **🟣 GMCH Nursing Officer 2025 — related concept**
 <!-- /job4-metadata -->
 
 
@@ -96,7 +100,9 @@ Objective data nurse observe ya measure kar sakti hai. Respiratory rate count ka
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 1, Q96](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 1, Q96](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 
 **Additional exam reference:** [GMCH 2025 recruitment listing](https://gmch.chdadmnrectt.in/index.php?err=x760) · [Question booklet](https://gmch.chdadmnrectt.in/pdf/qns-ans-booklet-2025.pdf). Earlier extracted text evidence recorded, direct PDF retrieval failed this run.
 <!-- /job4-link-addition -->
@@ -130,7 +136,9 @@ Oxygen saturation low hai aur breathing fast hai. Brain aur other organs ko oxyg
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 1, Q7](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+**Mock revision:** [Mock 1, Q7](../Mock-Tests/Nursing-Foundations-Mock-01-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-link-addition -->
 </details>
 
@@ -162,7 +170,9 @@ Measurable outcome mein patient ka expected action, distance aur time clear hai.
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 2, Q1](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 2, Q1](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -194,7 +204,9 @@ Skin abhi intact hai lekin pressure aur moisture ki wajah se injury ka risk hai.
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 2, Q106](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 2, Q106](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -226,7 +238,9 @@ Weak cough aur coarse sounds actual problem ke evidence hain. Nursing diagnosis 
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 2, Q3](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 2, Q3](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -258,7 +272,9 @@ Nurse compare karti hai ki medicine ke baad pain kitna kam hua aur koi side effe
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 2, Q66](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 2, Q66](../Mock-Tests/Nursing-Foundations-Mock-02-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -290,7 +306,9 @@ Pressure injury prevention ke liye repositioning nursing assessment aur care pla
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 3, Q71](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 3, Q71](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -322,7 +340,9 @@ Care plan fixed script nahi hota. New chest pain serious ho sakta hai, isliye nu
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 3, Q49](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+**Mock revision:** [Mock 3, Q49](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-link-addition -->
 </details>
 
@@ -354,7 +374,9 @@ Risk diagnosis mein problem abhi develop nahi hui hoti, lekin risk factors prese
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 3, Q114](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 3, Q114](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -386,7 +408,9 @@ Nurse patient ki fatigue aur preference samajhkar hygiene ka safe time ya method
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 3, Q2](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 3, Q2](../Mock-Tests/Nursing-Foundations-Mock-03-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -418,7 +442,9 @@ Patient apne symptoms aur history directly bata sakta hai. Nurse other records s
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 4, Q29](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 4, Q29](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -450,7 +476,9 @@ Teach-back mein patient apne words mein plan batata hai. Qualified interpreter l
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 4, Q56](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 4, Q56](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -482,7 +510,9 @@ Nursing process cyclic hai. Agar result expected nahi hai toh nurse new data col
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 4, Q111](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 4, Q111](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -514,7 +544,9 @@ Medical diagnosis disease identify karti hai. Nursing diagnosis patient ki respo
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 4, Q61](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 4, Q61](../Mock-Tests/Nursing-Foundations-Mock-04-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -546,7 +578,9 @@ Stridor airway narrowing ka warning sign ho sakta hai. Medication ke baad airway
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 5, Q89](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). Dedicated clinical-prioritization video verification pending.
+**Mock revision:** [Mock 5, Q89](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Clinical prioritization and nursing process, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=Nczi2xT76QA)** · Published chapters include prioritization (00:00 and 24:27); supplementary NCLEX topic practice, exact question/playback pending.
 <!-- /job4-link-addition -->
 </details>
 
@@ -578,7 +612,9 @@ Outcome directly skin condition se related hai aur defined shift mein evaluate h
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 5, Q99](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 5, Q99](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -610,7 +646,9 @@ Pain relief insufficient ho toh nurse location, severity, timing aur possible ca
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 5, Q110](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 5, Q110](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
@@ -642,7 +680,9 @@ Intervention nurse ya team ka planned action hai. Range-of-motion exercises assi
 <!-- /job4-metadata -->
 
 <!-- job4-link-addition -->
-**Mock revision:** [Mock 5, Q43](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options). [Aarogyam Prime FON MCQ series](https://www.youtube.com/watch?v=xZ3swc0zCeM) · [Iram Fatima FON practice](https://www.youtube.com/watch?v=9jVmMFtv9Mg). Nursing-process topic indexed in descriptions. Exact question coverage, video playback and timestamps pending.
+**Mock revision:** [Mock 5, Q43](../Mock-Tests/Nursing-Foundations-Mock-05-120.md) (same original stem, shuffled options).
+
+**▶️ [YouTube MCQ practice — Nursing process introduction, BSN Graduates](https://www.youtube.com/watch?v=deAKEtiEWNY)** · Dedicated topic practice indexed; exact item/playback pending. [Additional Indian exam practice — Iram Fatima](https://www.youtube.com/watch?v=9jVmMFtv9Mg) (description lists nursing process, individual question coverage not established).
 <!-- /job4-link-addition -->
 </details>
 
