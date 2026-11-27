@@ -25,7 +25,7 @@ ABG sample ko clot hone se bachane ke liye suitable heparinized collection devic
 
 ### PYQ2. Which position is commonly used for gynecological examination when both legs are supported?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q2
+**🔵 Reported exam adaptation:** HPSSC Staff Nurse 2021 · Series A · post code 892 · Q2 · third-party source retrieved; official key pending
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
