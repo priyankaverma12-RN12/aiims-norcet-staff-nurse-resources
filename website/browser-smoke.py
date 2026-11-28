@@ -639,6 +639,7 @@ try:
                 expect(mobile.locator(".completion-resource")).to_have_count(0)
                 mobile.locator(".completion-category[data-kind=theory]>summary").tap()
                 expect(mobile.locator(".completion-category[data-kind=theory] .completion-resource").first).to_be_visible()
+                expect(mobile.locator(".completion-category[data-kind=theory] .completion-resource [data-role=status]").first).to_have_text("Not started")
                 expect(mobile.locator(".completion-category:not([data-kind=theory]) .completion-resource")).to_have_count(0)
                 for section in ["theory","mcq","mock","pyq"]:
                     group=mobile.locator(f".completion-category[data-kind={section}]")
@@ -649,11 +650,14 @@ try:
                     assert group.locator(".completion-resource input").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(progressCatalog.find(r=>r.path===e.dataset.progressPath)?.kind)===k)",section)
                     if width==360:
                         checkbox=group.locator(".completion-resource input").first
+                        expect(group.locator(".completion-resource [data-role=status]").first).to_have_text("Not started")
                         checkbox.check()
+                        expect(group.locator(".completion-resource [data-role=status]").first).to_have_text("Completed")
                         expect(group.locator(".completion-resource input").first).to_be_checked()
                         assert mobile.evaluate("p=>Object.hasOwn(loadCompletion(),p)",group.locator(".completion-resource input").first.get_attribute("data-progress-path"))
                         group.locator(".completion-resource input").first.uncheck()
                         expect(group.locator(".completion-resource input").first).not_to_be_checked()
+                        expect(group.locator(".completion-resource [data-role=status]").first).to_have_text("Not started")
                         assert group.locator(".completion-resources").evaluate("e=>getComputedStyle(e).animationName")== "none"
                     group.locator("summary").tap()
                     expect(group.locator(".completion-resource").first).not_to_be_visible()

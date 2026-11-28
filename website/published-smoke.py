@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.1","app.js":"12.1","progress.js":"11.8","routine.js":"12.0","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.1","app.js":"12.1","progress.js":"12.2","routine.js":"12.0","study-ui.js":"12.2","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -142,7 +142,7 @@ with sync_playwright() as p:
         expect(bank.locator(".study-tag[data-role=type]")).to_have_text("MCQ practice")
         expect(bank.locator(".study-tag[data-role=status]")).to_have_text("Not started")
         bank.locator("input[type=checkbox]").check()
-        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("✓ Completed")
+        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("Completed")
         expect(bank.locator(".tracked-resource-line strong")).to_have_text("100%")
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
         # Marks from any study list must count toward the daily home goal immediately.
@@ -402,6 +402,7 @@ with sync_playwright() as p:
         ready()
         expect(page.locator(".quiz-bank-progress small")).to_contain_text("1 / 44 checked")
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("2.3%")
+        expect(page.locator(".quiz-bank-progress-line strong").first).to_have_text("In progress")
         page.get_by_role("button",name="Continue remaining 43 questions").click()
         expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 43")
         for j in range(43):
@@ -412,6 +413,7 @@ with sync_playwright() as p:
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("100%")
         expect(page.locator(".quiz-bank-progress small")).to_contain_text("44 / 44 checked")
         expect(page.locator(".quiz-bank-progress")).to_have_class(__import__("re").compile("is-completed"))
+        expect(page.locator(".quiz-bank-progress-line strong").first).to_have_text("Completed")
         page.get_by_role("button",name="Finish learning").click()
         page.get_by_role("button",name="Back to study material").click()
         expect(page.locator("#reader-completion input")).to_be_checked()
@@ -431,6 +433,7 @@ with sync_playwright() as p:
         go({"doc":sample})
         ready()
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("0%")
+        expect(page.locator(".quiz-bank-progress-line strong").first).to_have_text("Not started")
         # Submitted timed answers count, but tentative selections do not.
         page.get_by_role("button",name="Start timed practice").click()
         page.locator(".quiz-option input[value=B]").check()
