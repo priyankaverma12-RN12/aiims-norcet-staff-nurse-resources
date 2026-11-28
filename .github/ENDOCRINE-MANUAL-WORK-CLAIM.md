@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b05-20261128-1216Z
+Scope: PR54 isolated adult primary hyperparathyroidism and endocrine calcium-regulation candidates only. No shared navigation, renal, nutrition or prior bank changes.
+Claimed UTC: 2026-11-28T12:16:24Z
+Expiry UTC: 2026-11-28T12:46:24Z
 
 Last owner: endocrine-b04-20261128-1159Z
 Released: 2026-11-28 after isolated Batch 04 authoring, targeted corrections, rendering and remote readback.
