@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: ACTIVE
+Owner: easy-medium-ipc-b04-20261128T131009Z
+Scope: PR68 IPC supplementary CSSD and precautions banks only
+Claimed UTC: 2026-11-28T13:10:09Z
+Expiry UTC: 2026-11-28T13:40:09Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
