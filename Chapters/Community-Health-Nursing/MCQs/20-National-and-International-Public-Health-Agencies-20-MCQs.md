@@ -1,9 +1,9 @@
-# National and international public health agencies — 20 original MCQs
+# National and international public health agencies — 20 original MCQs 
 
 **Draft candidate, unattempted.** Original NORCET/HP Staff Nurse practice. Agency mandates and institutional governance, not IHR event notification or national disease programme procedures. Independent difficulty, semantic and dedicated item-video verification pending.
 
 ## Study references
-[ICMR mandate](https://www.icmr.gov.in/vision-mission-mandate?q=icm) · [NIHFW mission](https://nihfw.ac.in/cms/vision-and-mission.php) · [IIPS NFHS](https://iipsindia.ac.in/content/nfhs-project) · [NHSRC](https://nhsrcindia.org/) · [CBHI National Health Profile](https://cbhidghs.mohfw.gov.in/publications/national-health-profile) · [WHO governance](https://www.who.int/about/governance) · [UNICEF mission](https://www.unicef.org/who-we-are/mission-statement) · [UNFPA](https://www.unfpa.org/about-us) · [WFP](https://www.wfp.org/who-we-are) · [ILO national occupational safety frameworks](https://www.ilo.org/topics-and-sectors/safety-and-health-work/national-occupational-safety-and-health-frameworks)
+[ICMR mandate](https://www.icmr.gov.in/vision-mission-mandate?q=icm) · [NIHFW mission](https://nihfw.ac.in/cms/vision-and-mission.php) · [IIPS NFHS](https://iipsindia.ac.in/content/nfhs-project) · [NHSRC](https://nhsrcindia.org/) · [CBHI National Health Profile](https://cbhidghs.mohfw.gov.in/publications/national-health-profile) · [CBHI history](https://cbhidghs.mohfw.gov.in/about-us) · [WHO Assembly functions](https://www.who.int/about/governance/world-health-assembly/seventy-fourth-world-health-assembly) · [WHO governance](https://www.who.int/about/governance) · [UNICEF mission](https://www.unicef.org/who-we-are/mission-statement) · [UNFPA](https://www.unfpa.org/about-us) · [WFP](https://www.wfp.org/who-we-are) · [ILO national occupational safety frameworks](https://www.ilo.org/topics-and-sectors/safety-and-health-work/national-occupational-safety-and-health-frameworks)
 
 ### Q1. Which Indian apex body formulates and coordinates biomedical research?
 
@@ -203,25 +203,25 @@
 
 </details>
 
-### Q10. A district wants a workshop on programme evaluation and family welfare management for its public-health officers. Which institution's mandate most directly supports this capacity-building request?
+### Q10. The Mudaliar Committee recommended a national health intelligence unit. Which institution was established in 1961 in response to that recommendation?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** National and international public health agencies | **Type:** Original practice
 
-- **A.** NHA
-- **B.** IIPS
-- **C.** NIHFW
-- **D.** FSSAI
+- **A.** National Health Authority
+- **B.** National Health Systems Resource Centre
+- **C.** Central Bureau of Health Intelligence
+- **D.** Indian Nursing Council
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. NIHFW**
+**Correct: C. Central Bureau of Health Intelligence**
 
-- **A.** NHA financial protection schemes handle karta hai.
-- **B.** IIPS population research aur survey expertise rakhta hai, general programme management training NIHFW mandate se directly match karti hai.
-- **C.** NIHFW health programme training aur evaluation mein technical capacity build karta hai.
-- **D.** FSSAI food safety standards regulate karta hai.
+- **A.** NHA ka health assurance mandate alag hai.
+- **B.** NHSRC 2007 mein establish hua, 1961 health intelligence unit nahi.
+- **C.** CBHI 1961 mein Mudaliar recommendation ke baad health intelligence unit ke roop mein establish hua.
+- **D.** INC nursing education regulation ka institution hai.
 
-**Exam clue:** Match health management training to NIHFW.
+**Exam clue:** Mudaliar recommendation led to CBHI.
 
 </details>
 
@@ -401,47 +401,47 @@
 
 </details>
 
-### Q19. A district proposes improving worker safety solely through employer instructions without worker input. Which institutional principle from the ILO framework challenges this approach?
+### Q19. An occupational health adviser is comparing the ILO Occupational Safety and Health Convention, 1981, with the Promotional Framework for Occupational Safety and Health Convention, 2006. Which convention numbers match these instruments respectively?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** National and international public health agencies | **Type:** Original practice
 
-- **A.** Exclusive control of workplace safety by food-aid agencies
-- **B.** Replacement of labour consultation with family planning surveys
-- **C.** Removal of all government participation from occupational health policy
-- **D.** Tripartite consultation in national occupational safety and health arrangements
+- **A.** 187 and 155
+- **B.** 155 and 155
+- **C.** 187 and 187
+- **D.** 155 and 187
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Tripartite consultation in national occupational safety and health arrangements**
+**Correct: D. 155 and 187**
 
-- **A.** Food-aid agency workplace safety governance replace nahi karti.
-- **B.** Population surveys labour consultation ka substitute nahi hain.
-- **C.** Government tripartite structure ka important constituent hai.
-- **D.** ILO tripartite consultation government, employer aur worker perspectives include karti hai.
+- **A.** Reverse order instruments ko galat map karta hai.
+- **B.** 155 dono instruments ka number nahi hai.
+- **C.** 187 sirf promotional framework convention ka number hai.
+- **D.** ILO Convention 155 occupational safety and health se aur Convention 187 promotional framework se related hai.
 
-**Exam clue:** Worker participation is part of tripartite governance.
+**Exam clue:** C155 is OSH; C187 is the promotional framework.
 
 </details>
 
-### Q20. A ministry needs advice on both reproductive-health service planning and the changing age structure of the population. Which UN agency's combined mandate makes it a suitable partner, without replacing national decision-making?
+### Q20. A state delegation is preparing for the World Health Assembly. Which agenda item falls within the Assembly's financial governance function rather than an individual facility's local budget approval?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** National and international public health agencies | **Type:** Original practice
 
-- **A.** UNFPA
-- **B.** WFP
-- **C.** ILO
-- **D.** World Intellectual Property Organization
+- **A.** Review and approval of WHO's proposed programme budget
+- **B.** Approve the petty-cash purchase of a village subcentre
+- **C.** Authorise an individual hospital's reimbursement claim
+- **D.** Set a private pharmacy's daily cash balance
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. UNFPA**
+**Correct: A. Review and approval of WHO's proposed programme budget**
 
-- **A.** UNFPA reproductive health aur population dynamics dono mein technical assistance deta hai, national authorities decisions retain karti hain.
-- **B.** WFP mainly hunger aur food assistance address karta hai.
-- **C.** ILO labour aur decent work mandate rakhta hai.
-- **D.** WIPO intellectual property focus karta hai.
+- **A.** WHA WHO programme budget review aur approval karti hai, local facility purchase approval nahi.
+- **B.** Subcentre petty cash local governance rules follow karta hai.
+- **C.** Hospital reimbursement concerned payer scheme handle karti hai.
+- **D.** Pharmacy daily cash management WHA function nahi hai.
 
-**Exam clue:** Population dynamics and reproductive rights share the UNFPA mandate.
+**Exam clue:** WHA approves the organisation's programme budget.
 
 </details>
 
