@@ -6,23 +6,23 @@
 
 ## Part 1
 
-### Q1. A colon tumor forms malignant gland-like structures on microscopy. Which broad histogenetic category best fits this morphology?
+### Q1. A salivary gland tumor contains ductal and myoepithelial components in a chondromyxoid matrix. Which concept explains the term mixed tumor in this context?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Lipoma
-- **B.** Adenocarcinoma
-- **C.** Leiomyosarcoma
-- **D.** Lymphoma
+- **A.** Two distant metastases are necessarily present
+- **B.** Divergent differentiation within a single neoplastic process
+- **C.** Mixed bacterial infection
+- **D.** Mandatory contamination by another patient
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Adenocarcinoma**
+**Correct: B. Divergent differentiation within a single neoplastic process**
 
-- **A.** Lipoma mature fat cells ka benign tumor hai, malignant glandular architecture nahi banata.
-- **B.** Adenocarcinoma epithelial malignancy hai jisme glandular differentiation ya mucin production mil sakti hai. Colon ke gland-forming malignant tumor mein yeh category fit karti hai.
-- **C.** Leiomyosarcoma smooth muscle malignancy hai, epithelial glands iski defining feature nahi hain.
-- **D.** Lymphoma lymphoid cells ka neoplasm hai, malignant gland formation iska usual pattern nahi hai.
+- **A.** Different components ek lesion mein milne se distant spread establish nahi hota. Metastasis ko separate evidence chahiye.
+- **B.** Ek neoplasm multiple differentiation patterns dikha sakta hai. Pleomorphic adenoma mein epithelial aur myoepithelial elements characteristic matrix ke saath milte hain.
+- **C.** Neoplastic differentiation microbial culture result nahi hai. Mixed appearance ka matlab bacterial mixture nahi hota.
+- **D.** Mixed components recognized tumor pattern ho sakte hain. Contamination ke liye independent evidence chahiye.
 
 </details>
 
@@ -46,23 +46,23 @@
 
 </details>
 
-### Q3. A biopsy from an epithelial tumor shows malignant cells infiltrating the underlying stroma across the basement membrane. Which finding establishes invasive behavior?
+### Q3. Malignant epithelial nests are surrounded by dense reactive collagen-producing stroma. Which term describes this stromal response?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** High cell density without stromal penetration
-- **B.** An intact basement membrane beneath atypical epithelium
-- **C.** Increased surface keratin alone
-- **D.** Penetration beyond the epithelial basement membrane
+- **A.** Coagulative necrosis
+- **B.** Pure mucin secretion
+- **C.** Physiological epithelial hyperplasia
+- **D.** Desmoplasia
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Penetration beyond the epithelial basement membrane**
+**Correct: D. Desmoplasia**
 
-- **A.** Cell crowding abnormal ho sakti hai par invasion establish karne ke liye stromal penetration ka evidence chahiye.
-- **B.** Intact boundary noninvasive lesion ke saath compatible hai, stromal invasion prove nahi hota.
-- **C.** Keratin differentiation ka feature ho sakta hai, underlying tissue invasion ka direct evidence nahi hai.
-- **D.** Basement membrane epithelial compartment ko underlying tissue se separate karti hai. Malignant cells ka stroma mein penetrate karna invasion ka evidence hai.
+- **A.** Coagulative necrosis mein cells die karte hain aur outlines temporarily preserved reh sakti hain. Reactive collagen iska defining feature nahi hai.
+- **B.** Mucin glandular secretion ho sakti hai, dense fibrous stromal response nahi hai.
+- **C.** Hyperplasia mein cell number badhta hai, malignant nests ke around fibrous response ko describe nahi karta.
+- **D.** Tumor-associated fibroblasts dense collagenous stroma produce kar sakte hain. Is reactive response ko desmoplasia kehte hain.
 
 </details>
 
@@ -128,23 +128,23 @@
 
 </details>
 
-### Q7. A patient has a lung nodule whose pathology demonstrates breast carcinoma cells consistent with a previously diagnosed breast primary. How should the lung lesion be classified?
+### Q7. Tumor cells lie within an endothelial-lined lymphovascular space near a primary lesion. What interpretation is appropriate?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Primary lung carcinoma solely because of location
-- **B.** Metastatic breast carcinoma in the lung
-- **C.** Benign pulmonary adenoma
-- **D.** Reactive bronchial hyperplasia
+- **A.** Distant metastasis is confirmed in every patient
+- **B.** Lymphovascular invasion raises concern for dissemination without proving distant metastasis
+- **C.** The lesion must be benign
+- **D.** Only the fixative has changed
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Metastatic breast carcinoma in the lung**
+**Correct: B. Lymphovascular invasion raises concern for dissemination without proving distant metastasis**
 
-- **A.** Organ location alone lineage establish nahi karti, tissue origin aur pathology important hain.
-- **B.** Metastasis original cancer lineage maintain karti hai. Lung mein deposit hone se breast cancer automatically primary lung cancer nahi ban jata.
-- **C.** Documented metastatic malignant breast cells benign adenoma se match nahi karte.
-- **D.** Reactive hyperplasia non-neoplastic response hai, metastatic carcinoma cells uska feature nahi hain.
+- **A.** Lymphovascular invasion spread risk badha sakti hai, M category automatically establish nahi hoti.
+- **B.** Endothelial-lined channel mein tumor cells invasion ka evidence ho sakte hain. Distant deposits ki confirmation phir bhi alag chahiye.
+- **C.** Malignant cells vascular spaces invade kar sakte hain. Yeh finding benign nature prove nahi karti.
+- **D.** Fixative tissue preserve karta hai, described vascular finding ko sirf fixative change kehna inappropriate hai.
 
 </details>
 
@@ -168,43 +168,43 @@
 
 </details>
 
-### Q9. An ovarian malignancy sheds cells that implant on multiple peritoneal surfaces. Which spread mechanism best describes this distribution?
+### Q9. A tumor contains central keratin pearls surrounded by malignant polygonal epithelial cells. Which differentiation pattern is suggested?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Perineural invasion only
-- **B.** Local growth confined within one capsule
-- **C.** Transcoelomic dissemination
-- **D.** Retrograde urinary flow
+- **A.** Adipocytic differentiation
+- **B.** Lymphoid differentiation
+- **C.** Squamous differentiation
+- **D.** Osteoblastic differentiation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Transcoelomic dissemination**
+**Correct: C. Squamous differentiation**
 
-- **A.** Perineural invasion nerves ke around ya along extension ko describe karti hai, multiple cavity surface implants ko nahi.
-- **B.** Multiple peritoneal deposits confinement ko contradict karte hain.
-- **C.** Tumor cells body cavity mein shed hokar serosal surfaces par implant ho sakte hain. Peritoneal seeding transcoelomic spread ka example hai.
-- **D.** Urinary reflux urine flow ka disorder hai, peritoneal tumor seeding ka route nahi hai.
+- **A.** Adipocytic cells fat storage morphology dikhate hain, keratin pearls typical nahi hain.
+- **B.** Lymphoid neoplasms immune lineage cells se bante hain, keratin pearls defining feature nahi hain.
+- **C.** Keratin pearls concentric keratin deposits hain jo squamous differentiation support karte hain. Overall morphology ke saath interpretation hoti hai.
+- **D.** Osteoblastic differentiation osteoid production se associated hai, epithelial keratin se nahi.
 
 </details>
 
-### Q10. A growth-promoting proto-oncogene acquires a change causing constitutive activation of its protein. What is the resulting cancer-related gene class?
+### Q10. A cervical cancer cell expresses high-risk HPV E6 protein. Which host tumor suppressor pathway is particularly affected?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Inactivated tumor suppressor
-- **B.** Normal housekeeping gene with unchanged activity
-- **C.** Inert extracellular matrix gene product only
-- **D.** Oncogene
+- **A.** Pancreatic lipase activation
+- **B.** Erythropoietin synthesis
+- **C.** Gastric proton pump inhibition
+- **D.** p53 degradation pathway
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Oncogene**
+**Correct: D. p53 degradation pathway**
 
-- **A.** Tumor suppressor loss growth brake remove karta hai, described growth-promoting gene ki constitutive activation se alag mechanism hai.
-- **B.** Constitutive abnormal growth signaling unchanged physiological activity nahi hai.
-- **C.** Described gene signaling activity control karta hai, inert matrix ka role is mechanism ko explain nahi karta.
-- **D.** Activated proto-oncogene excessive growth signal de sakta hai. Is gain-of-function type change se normal regulated growth control bypass ho sakta hai.
+- **A.** Lipase dietary fat digest karta hai, E6 ka relevant cancer pathway nahi hai.
+- **B.** Erythropoietin RBC production regulate karta hai, viral checkpoint alteration ka main target nahi hai.
+- **C.** Proton pump inhibition acid secretion affect karti hai, E6 oncogenic mechanism nahi hai.
+- **D.** E6 p53 degradation promote kar sakta hai, jisse DNA damage response compromise ho sakta hai. Yeh E7-mediated RB disruption se distinct hai.
 
 </details>
 
@@ -230,125 +230,125 @@
 
 </details>
 
-### Q12. A DNA mismatch repair defect permits replication errors to accumulate. Which cancer-promoting consequence is most directly expected?
+### Q12. An immunohistochemical report gives a Ki-67 labeling index. What does this index primarily estimate?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Elimination of all somatic mutations
-- **B.** Genomic instability with increased mutation burden
-- **C.** Direct synthesis of basement membrane collagen
-- **D.** Immediate reversal of all malignant clones
+- **A.** The exact number of distant metastatic organs
+- **B.** The fraction of tumor cells expressing a proliferation-associated nuclear antigen
+- **C.** Serum albumin concentration
+- **D.** The percentage of malignant cells throughout the body
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Genomic instability with increased mutation burden**
+**Correct: B. The fraction of tumor cells expressing a proliferation-associated nuclear antigen**
 
-- **A.** Repair failure mutation accumulation ko favor karta hai, elimination guarantee nahi karta.
-- **B.** Mismatch repair incorrect base pairing ko correct karne mein help karta hai. Defect hone par replication errors persist aur accumulate kar sakte hain.
-- **C.** Mismatch repair nuclear DNA maintenance mechanism hai, collagen matrix synthesis se directly related nahi hai.
-- **D.** Mutation accumulation cancer risk contribute kar sakti hai, established malignant clone regression guarantee nahi karti.
+- **A.** Ki-67 proliferation estimate karta hai, anatomical spread directly count nahi karta.
+- **B.** Ki-67 actively cycling cells se associated hai. Labeling index proliferative fraction estimate karta hai aur interpretation tumor-specific hoti hai.
+- **C.** Albumin blood chemistry marker hai, nuclear Ki-67 labeling se measure nahi hota.
+- **D.** Sample ka index studied cells ko represent karta hai, body-wide burden nahi.
 
 </details>
 
-### Q13. A tumor cell experiences severe DNA damage yet bypasses p53-dependent cell-cycle arrest and apoptosis. Which selective advantage can this confer?
+### Q13. A breast tumor is tested for estrogen receptor expression. What can a positive result contribute to treatment planning?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Guaranteed restoration of a normal genome
-- **B.** Loss of all capacity for cell division
-- **C.** Permanent inhibition of angiogenesis in every tumor
-- **D.** Survival and proliferation despite genomic damage
+- **A.** Certain distant metastasis
+- **B.** Permanent contraindication to every chemotherapy
+- **C.** Proof of normal tissue
+- **D.** Potential sensitivity to endocrine-directed treatment in the appropriate context
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Survival and proliferation despite genomic damage**
+**Correct: D. Potential sensitivity to endocrine-directed treatment in the appropriate context**
 
-- **A.** Checkpoint bypass damaged genome repair guarantee nahi karta.
-- **B.** Arrest bypass division facilitate kar sakta hai, permanent proliferation loss nahi.
-- **C.** p53 pathway alteration angiogenesis par context-dependent effect rakh sakti hai, universal permanent inhibition infer nahi hoti.
-- **D.** p53 damage response mein arrest aur apoptosis promote kar sakta hai. Is checkpoint ko bypass karne se abnormal cells survive karke further mutations accumulate kar sakte hain.
+- **A.** Receptor status biology batata hai, distant spread confirm nahi karta.
+- **B.** Receptor status treatment options inform karta hai, universal chemotherapy prohibition nahi hai.
+- **C.** Malignant breast cells estrogen receptor express kar sakte hain. Positivity benign tissue prove nahi karti.
+- **D.** Estrogen receptor expression hormonal signaling ka clue deta hai. Endocrine therapy ki suitability full clinical aur pathological assessment se decide hoti hai.
 
 </details>
 
-### Q14. A tumor clone maintains chromosome ends through increased telomerase activity. Which property is thereby supported?
+### Q14. A plasma-cell neoplasm produces a monoclonal immunoglobulin component. Which pathological principle does this illustrate?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Immediate conversion to a nondividing cell
-- **B.** Inability to maintain any chromosome ends
-- **C.** Extended replicative capacity
-- **D.** Selective formation of extracellular fibrin clots
+- **A.** Every monoclonal protein proves symptomatic malignancy
+- **B.** Only epithelial tumors produce proteins
+- **C.** A neoplastic clone may produce a characteristic functional protein
+- **D.** Every cancer produces the same protein
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Extended replicative capacity**
+**Correct: C. A neoplastic clone may produce a characteristic functional protein**
 
-- **A.** Telomere maintenance replication potential support karta hai, immediate permanent arrest nahi.
-- **B.** Increased telomerase ka role chromosome ends maintain karna hai, opposite effect expected nahi hai.
-- **C.** Telomerase telomere maintenance mein help karta hai. Critically short telomeres se related growth limitation bypass karne par clone more divisions sustain kar sakta hai.
-- **D.** Fibrin coagulation pathway ka product hai, telomerase chromosome end maintenance karta hai.
+- **A.** Monoclonal proteins precursor conditions mein bhi mil sakte hain, isolated marker sufficient nahi hai.
+- **B.** Lymphoid neoplasms bhi functional proteins release kar sakte hain, plasma cells naturally antibody banate hain.
+- **C.** Ek plasma-cell clone same immunoglobulin ya light chain product release kar sakta hai. Protein finding ko marrow aur clinical context se interpret karte hain.
+- **D.** Tumor lineage ke according products vary karte hain, universal protein marker nahi hota.
 
 </details>
 
-### Q15. A rapidly growing solid tumor stimulates local endothelial proliferation to obtain a blood supply. Which acquired capability does this illustrate?
+### Q15. A malignant epithelial tumor shows markedly reduced E-cadherin-mediated adhesion. Which change may this facilitate?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Epithelial contact inhibition
-- **B.** Tumor angiogenesis
-- **C.** Physiological erythrocyte maturation
-- **D.** Exclusively passive diffusion without vascular change
+- **A.** Stronger adhesion between epithelial cells
+- **B.** Reduced cell-to-cell cohesion that may facilitate invasion
+- **C.** Increased conversion of fibrinogen into fibrin
+- **D.** Guaranteed restoration of normal polarity
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Tumor angiogenesis**
+**Correct: B. Reduced cell-to-cell cohesion that may facilitate invasion**
 
-- **A.** Contact inhibition normal growth restraint hai, new vessel recruitment ka naam nahi hai.
-- **B.** Tumor-derived signals new vessels develop karwa sakte hain, jisse oxygen aur nutrients milte hain. Abnormal tumor vasculature spread ko bhi facilitate kar sakti hai.
-- **C.** RBC maturation marrow mein hoti hai, local endothelial sprouting nahi hai.
-- **D.** Description mein active vessel growth ho raha hai, passive diffusion alone nahi hai.
+- **A.** Adhesion protein activity kam hone se stronger cohesion expected nahi hai.
+- **B.** E-cadherin epithelial adhesion maintain karta hai. Iska loss cohesion reduce kar sakta hai, lekin actual invasion ka evidence separately assess hota hai.
+- **C.** Fibrin formation coagulation pathway mein hoti hai, cadherin loss ka direct effect nahi.
+- **D.** Adhesion loss normal architecture disturb kar sakta hai, polarity restore hone ki guarantee nahi.
 
 </details>
 
 ## Part 4
 
-### Q16. A biopsy includes malignant cells with irregular enlarged hyperchromatic nuclei, marked variation in size and atypical mitoses. Which term captures the severe loss of differentiation?
+### Q16. Two regions of a tumor exhibit substantially different degrees of nuclear atypia. Which sampling implication follows?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Anaplasia
-- **B.** Normal physiological hypertrophy
-- **C.** Simple tissue edema
-- **D.** Mature scar remodeling
+- **A.** A limited biopsy may miss a more aggressive component of a heterogeneous tumor
+- **B.** All regions must have identical microscopic grade
+- **C.** The lesion must be non-neoplastic
+- **D.** A single cell always determines anatomical stage
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Anaplasia**
+**Correct: A. A limited biopsy may miss a more aggressive component of a heterogeneous tumor**
 
-- **A.** Anaplasia mein cells normal architecture aur differentiation lose kar sakte hain. Pleomorphism aur atypical mitoses malignancy assessment ke important clues ho sakte hain.
-- **B.** Hypertrophy mein cell size badhta hai, severe atypical mitoses aur loss of differentiation defining nahi hain.
-- **C.** Edema interstitial fluid increase hai, nuclear atypia ko describe nahi karta.
-- **D.** Scar remodeling collagen organization ka process hai, malignant nuclear features nahi hain.
+- **A.** Different tumor regions mein differentiation aur mutation patterns vary kar sakte hain. Limited sampling ek component miss kar sakti hai.
+- **B.** Observed heterogeneity se identical appearance assume nahi kar sakte. Grading tumor-specific sampling rules follow karti hai.
+- **C.** Variation malignant tumors mein bhi possible hai, heterogeneity benign nature establish nahi karti.
+- **D.** Stage anatomical extent aur spread par depend karti hai, isolated cell appearance sufficient nahi.
 
 </details>
 
-### Q17. A malignant lymphoid tumor is named lymphoma. What does this illustrate about the suffix oma?
+### Q17. A malignant tumor arises from pigment-producing melanocytes. Which lineage is relevant when selecting diagnostic markers?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Neoplasia | **Exam focus:** NORCET-style original
 
-- **A.** Some malignant tumors have names ending in oma despite the usual benign naming convention
-- **B.** All tumors ending in oma are benign
-- **C.** All tumors ending in oma are epithelial carcinomas
-- **D.** The suffix establishes distant metastasis
+- **A.** Melanocytic lineage
+- **B.** Hepatocytic lineage
+- **C.** Smooth muscle lineage
+- **D.** Granulocytic lineage
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Some malignant tumors have names ending in oma despite the usual benign naming convention**
+**Correct: A. Melanocytic lineage**
 
-- **A.** Oma suffix kai benign tumors mein hota hai, lekin lymphoma aur melanoma jaise malignant exceptions hain. Histology aur established diagnostic terminology decisive hain.
-- **B.** Lymphoma malignant category hai, isliye suffix alone se benign conclusion wrong ho sakta hai.
-- **C.** Oma suffix different lineages mein use hota hai, lymphoma lymphoid origin ka example hai.
-- **D.** Name lineage ya tumor class bata sakta hai, metastatic extent staging se determine hota hai.
+- **A.** Melanocytes melanin-producing cells hain aur melanoma isi lineage ka malignant tumor hai. Marker panel morphology ke saath diagnosis support karta hai.
+- **B.** Hepatocytes liver parenchymal cells hain, melanocytes ki lineage nahi.
+- **C.** Smooth muscle tumors contractile cell differentiation show karte hain, melanocytic origin se match nahi.
+- **D.** Granulocytes myeloid immune cells hain, melanoma ka cellular origin nahi.
 
 </details>
 
@@ -418,3 +418,5 @@
 - [NCI: Tumor grade](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-grade)
 - [NCI: Diagnosis](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)
 - Dedicated MCQ video and item-specific source verification pending for Q1–20. No historical question credit. Cross-check against Oncology candidate before integration.
+
+- Bounded PR30 comparison: 11 overlapping or potentially overlapping objectives replaced. No additional question count from replacement. Item-specific review remains pending.
