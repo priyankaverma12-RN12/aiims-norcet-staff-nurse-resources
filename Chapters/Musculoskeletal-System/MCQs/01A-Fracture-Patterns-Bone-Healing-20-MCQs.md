@@ -9,21 +9,21 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** The fracture is closed because bone is not visible
-- **B.** An open fracture is possible because the wound may communicate with the fracture
-- **C.** The injury is a superficial abrasion until the patient develops fever
-- **D.** The wound confirms a stress fracture
+- **B.** The injury is a superficial abrasion until the patient develops fever
+- **C.** The wound confirms a stress fracture
+- **D.** An open fracture is possible because the wound may communicate with the fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. An open fracture is possible because the wound may communicate with the fracture**
+**Correct answer: D. An open fracture is possible because the wound may communicate with the fracture**
 
 **A kyun galat hai:** Bone dikhna closed ya open fracture decide karne ki zaroori condition nahi hai. Chhota wound bhi andar tak pahunch sakta hai.
 
-**B kyun sahi hai:** Dekho, open fracture mein skin ke wound ka connection fracture tak ho sakta hai. Bone bahar dikhna zaroori nahi hai. Isliye nurse wound ko potentially open fracture maan kar sterile protection aur urgent orthopedic assessment arrange karti hai.
+**B kyun galat hai:** Fever infection ka late clue ho sakta hai. Iska wait karne se early infection prevention aur definitive care delay ho sakti hai.
 
-**C kyun galat hai:** Fever infection ka late clue ho sakta hai. Iska wait karne se early infection prevention aur definitive care delay ho sakti hai.
+**C kyun galat hai:** Stress fracture repeated loading se hota hai. Puncture wound ke saath acute trauma uska diagnostic clue nahi hai.
 
-**D kyun galat hai:** Stress fracture repeated loading se hota hai. Puncture wound ke saath acute trauma uska diagnostic clue nahi hai.
+**D kyun sahi hai:** Dekho, open fracture mein skin ke wound ka connection fracture tak ho sakta hai. Bone bahar dikhna zaroori nahi hai. Isliye nurse wound ko potentially open fracture maan kar sterile protection aur urgent orthopedic assessment arrange karti hai.
 
 **Exam clue:** Wound aur fracture ke possible communication ko dekho, bone visibility ko nahi.
 
@@ -37,20 +37,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Delay antibiotics until definitive fixation
+- **A.** Obtain wound swabs before every treatment regardless of delay
 - **B.** Apply antibiotic ointment instead of systemic therapy
-- **C.** Obtain wound swabs before every treatment regardless of delay
+- **C.** Delay antibiotics until definitive fixation
 - **D.** Administer the prescribed intravenous prophylactic antibiotic
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Administer the prescribed intravenous prophylactic antibiotic**
 
-**A kyun galat hai:** Fixation ka time surgical plan par depend karta hai. Antibiotic ko tab tak rokna infection prevention ko delay karta hai.
+**A kyun galat hai:** Routine wound swab ki wajah se timely prophylaxis ko rokna appropriate nahi hai. Sampling ka decision treating team leti hai.
 
 **B kyun galat hai:** Ointment skin surface par kaam karta hai. Ye open bone injury ke liye systemic prophylaxis ka substitute nahi hai.
 
-**C kyun galat hai:** Routine wound swab ki wajah se timely prophylaxis ko rokna appropriate nahi hai. Sampling ka decision treating team leti hai.
+**C kyun galat hai:** Fixation ka time surgical plan par depend karta hai. Antibiotic ko tab tak rokna infection prevention ko delay karta hai.
 
 **D kyun sahi hai:** Open fracture mein bacteria deep tissue aur bone tak pahunch sakte hain. Prescribed IV antibiotic jaldi dene se infection ka risk kam karne mein madad milti hai. Allergy aur order check karke treatment ko unnecessary delay nahi karna chahiye.
 
@@ -66,18 +66,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Support the injured segment and immobilize the adjacent joints as appropriate
-- **B.** Repeatedly flex the fracture site to assess stability
+- **A.** Repeatedly flex the fracture site to assess stability
+- **B.** Support the injured segment and immobilize the adjacent joints as appropriate
 - **C.** Ask the patient to bear weight through the injured hand
 - **D.** Massage the injured segment before applying the splint
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Support the injured segment and immobilize the adjacent joints as appropriate**
+**Correct answer: B. Support the injured segment and immobilize the adjacent joints as appropriate**
 
-**A kyun sahi hai:** Jab bone toot jaati hai, toh fragments move karke nearby nerves, vessels aur soft tissue ko damage kar sakte hain. Suitable splint se injured segment aur zaroori adjacent joints ko support milta hai. Nurse distal circulation aur sensation ko bhi check karti hai.
+**A kyun galat hai:** Repeated movement se pain aur tissue injury badh sakti hai. Stability check karne ke liye nurse fracture ko provoke nahi karti.
 
-**B kyun galat hai:** Repeated movement se pain aur tissue injury badh sakti hai. Stability check karne ke liye nurse fracture ko provoke nahi karti.
+**B kyun sahi hai:** Jab bone toot jaati hai, toh fragments move karke nearby nerves, vessels aur soft tissue ko damage kar sakte hain. Suitable splint se injured segment aur zaroori adjacent joints ko support milta hai. Nurse distal circulation aur sensation ko bhi check karti hai.
 
 **C kyun galat hai:** Injured arm par force dene se fracture displacement badh sakta hai. Weight bearing clearance treatment team se aati hai.
 
@@ -95,22 +95,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Avulsion fracture
+- **A.** Segmental fracture
 - **B.** Impacted fracture
 - **C.** Spiral fracture
-- **D.** Segmental fracture
+- **D.** Avulsion fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Impacted fracture**
 
-**A kyun galat hai:** Avulsion mein tendon ya ligament attachment se fragment pull hota hai.
+**A kyun galat hai:** Segmental fracture mein separate intermediate bone segment banne ke liye fracture sites hoti hain.
 
 **B kyun sahi hai:** Impaction mein axial compression ke karan ek fragment doosre fragment ke andar drive ho jata hai. Imaging finding isi pattern ko support karti hai.
 
 **C kyun galat hai:** Spiral pattern mein fracture line bone ke shaft ke around twist karti hai.
 
-**D kyun galat hai:** Segmental fracture mein separate intermediate bone segment banne ke liye fracture sites hoti hain.
+**D kyun galat hai:** Avulsion mein tendon ya ligament attachment se fragment pull hota hai.
 
 **Exam clue:** Compression ke saath fragments telescoping kar rahe hon to impacted fracture socho.
 
@@ -124,18 +124,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Repetitive loading exceeds the rate of bone repair
-- **B.** Sudden bacterial invasion of the joint capsule
+- **A.** Sudden bacterial invasion of the joint capsule
+- **B.** Repetitive loading exceeds the rate of bone repair
 - **C.** Complete loss of synovial fluid after one fall
 - **D.** Immediate disruption of the growth plate
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Repetitive loading exceeds the rate of bone repair**
+**Correct answer: B. Repetitive loading exceeds the rate of bone repair**
 
-**A kyun sahi hai:** Bone regular load ke response mein microscopic damage repair karti rehti hai. Jab training suddenly badhti hai, toh repeated stress repair capacity se zyada ho sakta hai. Is wajah se stress fracture develop ho sakta hai.
+**A kyun galat hai:** Bacterial invasion joint infection ka mechanism ho sakta hai. Repeated running ke baad focal bone pain ke liye ye main mechanism nahi hai.
 
-**B kyun galat hai:** Bacterial invasion joint infection ka mechanism ho sakta hai. Repeated running ke baad focal bone pain ke liye ye main mechanism nahi hai.
+**B kyun sahi hai:** Bone regular load ke response mein microscopic damage repair karti rehti hai. Jab training suddenly badhti hai, toh repeated stress repair capacity se zyada ho sakta hai. Is wajah se stress fracture develop ho sakta hai.
 
 **C kyun galat hai:** Synovial fluid joint ko lubricate karta hai. Stress fracture ka main mechanism joint fluid ka suddenly khatam hona nahi hai.
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Compression
-- **B.** Spiral
-- **C.** Buckle
-- **D.** Avulsion
+- **A.** Avulsion
+- **B.** Buckle
+- **C.** Spiral
+- **D.** Compression
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Spiral**
+**Correct answer: C. Spiral**
 
-**A kyun galat hai:** Compression fracture mein bone pressure ki wajah se collapse ho sakti hai. Ye pattern khas taur par vertebral bodies mein dekha jaata hai.
+**A kyun galat hai:** Avulsion mein tendon ya ligament ka pull bone ka chhota fragment kheench sakta hai. Yahan rotational line describe hui hai.
 
-**B kyun sahi hai:** Twisting force bone par rotational stress create karti hai. Jab fracture line shaft ke around ghoomti hai, toh is pattern ko spiral fracture kehte hain. Is description se pattern identify hota hai, injury ka exact cause independently assess karna hota hai.
+**B kyun galat hai:** Buckle fracture mein cortex compress hokar bulge karti hai. Shaft ke around winding fracture line iska typical pattern nahi hai.
 
-**C kyun galat hai:** Buckle fracture mein cortex compress hokar bulge karti hai. Shaft ke around winding fracture line iska typical pattern nahi hai.
+**C kyun sahi hai:** Twisting force bone par rotational stress create karti hai. Jab fracture line shaft ke around ghoomti hai, toh is pattern ko spiral fracture kehte hain. Is description se pattern identify hota hai, injury ka exact cause independently assess karna hota hai.
 
-**D kyun galat hai:** Avulsion mein tendon ya ligament ka pull bone ka chhota fragment kheench sakta hai. Yahan rotational line describe hui hai.
+**D kyun galat hai:** Compression fracture mein bone pressure ki wajah se collapse ho sakti hai. Ye pattern khas taur par vertebral bodies mein dekha jaata hai.
 
 **Exam clue:** Fracture line ka shape aur force mechanism correlate karo.
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Replacement of all woven bone by lamellar bone
+- **A.** Closure of the epiphyseal plate
 - **B.** Formation of a mineralized bridging callus
-- **C.** Closure of the epiphyseal plate
+- **C.** Replacement of all woven bone by lamellar bone
 - **D.** Bleeding from disrupted vessels followed by clot formation
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Bleeding from disrupted vessels followed by clot formation**
 
-**A kyun galat hai:** Lamellar bone mature organized bone hai. Woven bone ka replacement later remodeling phase mein hota hai.
+**A kyun galat hai:** Epiphyseal plate ki closure skeletal maturity se related hai. Ordinary fracture repair start karne ke liye growth plate closure nahi chahiye.
 
 **B kyun galat hai:** Mineralized callus later repair phase mein develop hota hai. Pehle clot aur inflammatory response aate hain.
 
-**C kyun galat hai:** Epiphyseal plate ki closure skeletal maturity se related hai. Ordinary fracture repair start karne ke liye growth plate closure nahi chahiye.
+**C kyun galat hai:** Lamellar bone mature organized bone hai. Woven bone ka replacement later remodeling phase mein hota hai.
 
 **D kyun sahi hai:** Fracture hone par bone aur surrounding tissue ki small blood vessels toot sakti hain. Blood fracture site par jama hokar clot banata hai, jise fracture hematoma kehte hain. Ye early repair environment ka part hai.
 
@@ -240,20 +240,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Soft callus formation
-- **B.** Late lamellar remodeling
-- **C.** Avascular necrosis
+- **A.** Late lamellar remodeling
+- **B.** Avascular necrosis
+- **C.** Soft callus formation
 - **D.** Complete cortical restoration
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Soft callus formation**
+**Correct answer: C. Soft callus formation**
 
-**A kyun sahi hai:** Soft callus mein fibrous tissue aur cartilage fracture ke beech temporary bridge banate hain. Ye fragments ko support deta hai, lekin abhi mature strong bone nahi hota. Isliye loading instructions follow karna zaroori hai.
+**A kyun galat hai:** Late remodeling mein immature bone ko mature organized bone replace karti hai. Cartilage wala temporary bridge earlier stage hai.
 
-**B kyun galat hai:** Late remodeling mein immature bone ko mature organized bone replace karti hai. Cartilage wala temporary bridge earlier stage hai.
+**B kyun galat hai:** Avascular necrosis blood supply loss ki wajah se bone tissue ki death hai. Ye normal cartilage bridge ka naam nahi hai.
 
-**C kyun galat hai:** Avascular necrosis blood supply loss ki wajah se bone tissue ki death hai. Ye normal cartilage bridge ka naam nahi hai.
+**C kyun sahi hai:** Soft callus mein fibrous tissue aur cartilage fracture ke beech temporary bridge banate hain. Ye fragments ko support deta hai, lekin abhi mature strong bone nahi hota. Isliye loading instructions follow karna zaroori hai.
 
 **D kyun galat hai:** Complete cortical restoration ka matlab structural repair ka later stage hai. Soft callus ke waqt bone abhi fully mature nahi hoti.
 
@@ -269,22 +269,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Only increased synovial fluid production
-- **B.** Replacement of repair cartilage by immature bone
+- **A.** Replacement of repair cartilage by immature bone
+- **B.** Complete removal of all bone at the injury site
 - **C.** Permanent absence of osteoblast activity
-- **D.** Complete removal of all bone at the injury site
+- **D.** Only increased synovial fluid production
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Replacement of repair cartilage by immature bone**
+**Correct answer: A. Replacement of repair cartilage by immature bone**
 
-**A kyun galat hai:** Synovial fluid joint ke andar lubrication karta hai. Fracture gap mein mineralized bone bridge uska kaam nahi hai.
+**A kyun sahi hai:** Hard callus mein soft repair tissue gradually mineralized woven bone se replace hota hai. Osteoblasts nayi bone banane mein important role nibhate hain. Ye bridge healing ko mechanical support deta hai.
 
-**B kyun sahi hai:** Hard callus mein soft repair tissue gradually mineralized woven bone se replace hota hai. Osteoblasts nayi bone banane mein important role nibhate hain. Ye bridge healing ko mechanical support deta hai.
+**B kyun galat hai:** Repair ka goal fracture fragments ko unite karna hai. Injury site ki saari bone hata dena hard callus formation nahi hai.
 
 **C kyun galat hai:** Osteoblasts nayi bone matrix banate hain. Inki permanent absence se mineralized repair support nahi hoga.
 
-**D kyun galat hai:** Repair ka goal fracture fragments ko unite karna hai. Injury site ki saari bone hata dena hard callus formation nahi hai.
+**D kyun galat hai:** Synovial fluid joint ke andar lubrication karta hai. Fracture gap mein mineralized bone bridge uska kaam nahi hai.
 
 **Exam clue:** Hard callus mein immature mineralized bone ka bridge banta hai.
 
@@ -298,20 +298,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Persistent acute hemorrhage
-- **B.** Loss of all osteoblasts
-- **C.** Bone remodeling by coordinated formation and resorption
+- **A.** Bone remodeling by coordinated formation and resorption
+- **B.** Persistent acute hemorrhage
+- **C.** Loss of all osteoblasts
 - **D.** Formation of a new growth plate in every adult fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Bone remodeling by coordinated formation and resorption**
+**Correct answer: A. Bone remodeling by coordinated formation and resorption**
 
-**A kyun galat hai:** Acute hemorrhage injury ke early stage mein hota hai. Healed site ki gradual shape change uska typical result nahi hai.
+**A kyun sahi hai:** Remodeling ke waqt osteoclasts kuch bone ko resorb karte hain aur osteoblasts nayi organized bone banate hain. Is coordinated process se bone gradually apni shape aur mechanical structure adjust kar sakti hai.
 
-**B kyun galat hai:** Osteoblasts bone formation mein chahiye. Unki loss healthy remodeling ko explain nahi karti.
+**B kyun galat hai:** Acute hemorrhage injury ke early stage mein hota hai. Healed site ki gradual shape change uska typical result nahi hai.
 
-**C kyun sahi hai:** Remodeling ke waqt osteoclasts kuch bone ko resorb karte hain aur osteoblasts nayi organized bone banate hain. Is coordinated process se bone gradually apni shape aur mechanical structure adjust kar sakti hai.
+**C kyun galat hai:** Osteoblasts bone formation mein chahiye. Unki loss healthy remodeling ko explain nahi karti.
 
 **D kyun galat hai:** Adult fracture repair mein nayi growth plate routinely nahi banti. Shape adjustment bone remodeling se hota hai.
 
@@ -327,22 +327,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Smoking improves blood supply around the fracture
-- **B.** Smoking guarantees faster callus formation
-- **C.** Smoking affects only the lungs and not bone repair
-- **D.** Smoking can impair bone healing and increase nonunion risk
+- **A.** Smoking affects only the lungs and not bone repair
+- **B.** Smoking can impair bone healing and increase nonunion risk
+- **C.** Smoking guarantees faster callus formation
+- **D.** Smoking improves blood supply around the fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Smoking can impair bone healing and increase nonunion risk**
+**Correct answer: B. Smoking can impair bone healing and increase nonunion risk**
 
-**A kyun galat hai:** Smoking healthy tissue perfusion improve karne ka reliable tareeka nahi hai. Fracture healing mein ye harmful risk factor hai.
+**A kyun galat hai:** Smoking ka effect sirf lungs tak limited nahi hai. Bone aur soft tissue healing bhi affect ho sakti hai.
 
-**B kyun galat hai:** Callus formation faster hone ki guarantee nahi hoti. Smoking delayed ya failed healing ka risk badha sakti hai.
+**B kyun sahi hai:** Tobacco aur nicotine fracture repair ko negatively affect kar sakte hain. Blood supply aur repair biology par asar ki wajah se bone unite hone mein dikkat aa sakti hai. Nurse cessation support offer karti hai aur patient ko blame nahi karti.
 
-**C kyun galat hai:** Smoking ka effect sirf lungs tak limited nahi hai. Bone aur soft tissue healing bhi affect ho sakti hai.
+**C kyun galat hai:** Callus formation faster hone ki guarantee nahi hoti. Smoking delayed ya failed healing ka risk badha sakti hai.
 
-**D kyun sahi hai:** Tobacco aur nicotine fracture repair ko negatively affect kar sakte hain. Blood supply aur repair biology par asar ki wajah se bone unite hone mein dikkat aa sakti hai. Nurse cessation support offer karti hai aur patient ko blame nahi karti.
+**D kyun galat hai:** Smoking healthy tissue perfusion improve karne ka reliable tareeka nahi hai. Fracture healing mein ye harmful risk factor hai.
 
 **Exam clue:** Fracture recovery counselling mein smoking cessation important hai.
 
@@ -356,22 +356,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Malunion
-- **B.** Nonunion
-- **C.** Delayed union without deformity
-- **D.** Acute hematoma formation
+- **A.** Nonunion
+- **B.** Delayed union without deformity
+- **C.** Acute hematoma formation
+- **D.** Malunion
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Malunion**
+**Correct answer: D. Malunion**
 
-**A kyun sahi hai:** Malunion ka matlab bone unite ho gayi, lekin alignment satisfactory nahi hai. Angulation ya rotation function ko affect kar sakti hai. Nurse functional problem document karti hai aur orthopedic follow-up support karti hai.
+**A kyun galat hai:** Nonunion mein fracture healing fail ho jaati hai. Is case mein union ho chuki hai, isliye nonunion sahi term nahi hai.
 
-**B kyun galat hai:** Nonunion mein fracture healing fail ho jaati hai. Is case mein union ho chuki hai, isliye nonunion sahi term nahi hai.
+**B kyun galat hai:** Delayed union slow healing ko describe karta hai. Yahan completed union ke saath abnormal alignment main clue hai.
 
-**C kyun galat hai:** Delayed union slow healing ko describe karta hai. Yahan completed union ke saath abnormal alignment main clue hai.
+**C kyun galat hai:** Hematoma fresh fracture ki initial response hai. Ye healed deformity ki classification nahi hai.
 
-**D kyun galat hai:** Hematoma fresh fracture ki initial response hai. Ye healed deformity ki classification nahi hai.
+**D kyun sahi hai:** Malunion ka matlab bone unite ho gayi, lekin alignment satisfactory nahi hai. Angulation ya rotation function ko affect kar sakti hai. Nurse functional problem document karti hai aur orthopedic follow-up support karti hai.
 
 **Exam clue:** Malunion mein healing wrong alignment mein hoti hai.
 
@@ -385,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Normal remodeling
-- **B.** Nonunion
-- **C.** Malunion with complete union
-- **D.** Physiological ossification of the growth plate
+- **A.** Physiological ossification of the growth plate
+- **B.** Malunion with complete union
+- **C.** Nonunion
+- **D.** Normal remodeling
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Nonunion**
+**Correct answer: C. Nonunion**
 
-**A kyun galat hai:** Normal remodeling usually union ke baad bone ki structure refine karta hai. Failed union is process se alag hai.
+**A kyun galat hai:** Growth plate ossification skeletal maturation ka process hai. Adult fracture healing failure ko ye term describe nahi karta.
 
-**B kyun sahi hai:** Nonunion mein fracture expected biological repair ke baad bhi unite nahi hota aur healing ruk sakti hai. Diagnosis serial assessment aur fracture-specific clinical judgement par depend karta hai. Nurse follow-up aur prescribed treatment support karti hai.
+**B kyun galat hai:** Malunion mein fragments unite ho chuke hote hain, bhale hi alignment abnormal ho. Yahan union hi nahi hui hai.
 
-**C kyun galat hai:** Malunion mein fragments unite ho chuke hote hain, bhale hi alignment abnormal ho. Yahan union hi nahi hui hai.
+**C kyun sahi hai:** Nonunion mein fracture expected biological repair ke baad bhi unite nahi hota aur healing ruk sakti hai. Diagnosis serial assessment aur fracture-specific clinical judgement par depend karta hai. Nurse follow-up aur prescribed treatment support karti hai.
 
-**D kyun galat hai:** Growth plate ossification skeletal maturation ka process hai. Adult fracture healing failure ko ye term describe nahi karta.
+**D kyun galat hai:** Normal remodeling usually union ke baad bone ki structure refine karta hai. Failed union is process se alag hai.
 
 **Exam clue:** Nonunion ko fixed universal month cutoff ke bajay clinical aur radiographic assessment se samjho.
 
@@ -416,20 +416,20 @@
 
 - **A.** Isolated cast pressure injury
 - **B.** Uncomplicated postoperative constipation
-- **C.** Fat embolism syndrome
-- **D.** Expected local fracture hematoma
+- **C.** Expected local fracture hematoma
+- **D.** Fat embolism syndrome
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Fat embolism syndrome**
+**Correct answer: D. Fat embolism syndrome**
 
 **A kyun galat hai:** Cast pressure injury usually local skin pain ya damage se related hoti hai. Ye systemic breathing aur neurological changes ka combined pattern explain nahi karti.
 
 **B kyun galat hai:** Constipation abdominal symptoms de sakti hai. Hypoxemia, confusion aur petechiae ko routine constipation nahi maana chahiye.
 
-**C kyun sahi hai:** Long bone fracture ke baad marrow ke fat droplets circulation mein ja sakte hain aur inflammatory response trigger kar sakte hain. Breathing problem, neurological change aur chhote red-purple spots ka combination fat embolism syndrome ko suggest karta hai. Ye urgent emergency assessment maangta hai.
+**C kyun galat hai:** Local hematoma fracture site par expected ho sakta hai. Systemic respiratory deterioration aur rash normal local healing nahi hain.
 
-**D kyun galat hai:** Local hematoma fracture site par expected ho sakta hai. Systemic respiratory deterioration aur rash normal local healing nahi hain.
+**D kyun sahi hai:** Long bone fracture ke baad marrow ke fat droplets circulation mein ja sakte hain aur inflammatory response trigger kar sakte hain. Breathing problem, neurological change aur chhote red-purple spots ka combination fat embolism syndrome ko suggest karta hai. Ye urgent emergency assessment maangta hai.
 
 **Exam clue:** Long bone fracture ke baad respiratory aur neurological deterioration ko urgent samjho.
 
@@ -443,22 +443,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** To eliminate the need for rehabilitation
-- **B.** To prevent every future infection
-- **C.** To reduce abnormal contact stress and later post-traumatic osteoarthritis risk
-- **D.** To increase the size of the fracture hematoma
+- **A.** To reduce abnormal contact stress and later post-traumatic osteoarthritis risk
+- **B.** To increase the size of the fracture hematoma
+- **C.** To prevent every future infection
+- **D.** To eliminate the need for rehabilitation
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. To reduce abnormal contact stress and later post-traumatic osteoarthritis risk**
+**Correct answer: A. To reduce abnormal contact stress and later post-traumatic osteoarthritis risk**
 
-**A kyun galat hai:** Joint surface restoration rehabilitation ka replacement nahi hai.
+**A kyun sahi hai:** Uneven articular surface load ko unevenly distribute kar sakti hai. Congruity restore karne se abnormal stress aur subsequent cartilage damage ka risk kam ho sakta hai.
 
-**B kyun galat hai:** Alignment infection prevention ki guarantee nahi deta; infection risk alag factors se linked hai.
+**B kyun galat hai:** Hematoma healing response ka part hai, lekin joint surface reduction ka objective hematoma badhana nahi hai.
 
-**C kyun sahi hai:** Uneven articular surface load ko unevenly distribute kar sakti hai. Congruity restore karne se abnormal stress aur subsequent cartilage damage ka risk kam ho sakta hai.
+**C kyun galat hai:** Alignment infection prevention ki guarantee nahi deta; infection risk alag factors se linked hai.
 
-**D kyun galat hai:** Hematoma healing response ka part hai, lekin joint surface reduction ka objective hematoma badhana nahi hai.
+**D kyun galat hai:** Joint surface restoration rehabilitation ka replacement nahi hai.
 
 **Exam clue:** Articular fracture mein surface congruity aur long-term joint function ko connect karo.
 
@@ -472,20 +472,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Reduction restores alignment; fixation maintains stability of the aligned fragments
-- **B.** Reduction means antibiotic administration; fixation means wound cleaning
-- **C.** Reduction is the same as bone remodeling; fixation is the same as callus formation
+- **A.** Reduction means antibiotic administration; fixation means wound cleaning
+- **B.** Reduction is the same as bone remodeling; fixation is the same as callus formation
+- **C.** Reduction restores alignment; fixation maintains stability of the aligned fragments
 - **D.** Reduction and fixation both mean removal of the entire fractured bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Reduction restores alignment; fixation maintains stability of the aligned fragments**
+**Correct answer: C. Reduction restores alignment; fixation maintains stability of the aligned fragments**
 
-**A kyun sahi hai:** Reduction displaced fragments ko acceptable alignment mein restore karti hai. Fixation cast, implant ya appropriate device se stability provide karti hai; technique fracture ke hisaab se select hoti hai.
+**A kyun galat hai:** Antibiotics aur wound cleaning infection-related interventions hain, reduction ya fixation ki definitions nahi.
 
-**B kyun galat hai:** Antibiotics aur wound cleaning infection-related interventions hain, reduction ya fixation ki definitions nahi.
+**B kyun galat hai:** Remodeling aur callus formation biological healing stages hain; reduction aur fixation treatment methods hain.
 
-**C kyun galat hai:** Remodeling aur callus formation biological healing stages hain; reduction aur fixation treatment methods hain.
+**C kyun sahi hai:** Reduction displaced fragments ko acceptable alignment mein restore karti hai. Fixation cast, implant ya appropriate device se stability provide karti hai; technique fracture ke hisaab se select hoti hai.
 
 **D kyun galat hai:** Fractured bone remove karna routine reduction ya fixation nahi hota.
 
@@ -501,22 +501,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Normal remodeling of cancellous bone
-- **B.** Occult internal hemorrhage
+- **A.** Occult internal hemorrhage
+- **B.** Uncomplicated soft callus formation
 - **C.** Isolated chronic osteoarthritis
-- **D.** Uncomplicated soft callus formation
+- **D.** Normal remodeling of cancellous bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Occult internal hemorrhage**
+**Correct answer: A. Occult internal hemorrhage**
 
-**A kyun galat hai:** Remodeling recovery ka later process hai. Sudden circulatory instability ko normal remodeling nahi maana ja sakta.
+**A kyun sahi hai:** Pelvis mein major vessels aur large tissue spaces hote hain. Pelvic fracture mein blood body ke andar collect ho sakta hai aur bahar bleeding dikhna zaroori nahi hai. Pallor, fast pulse aur low BP shock ka concern hain, isliye urgent trauma response chahiye.
 
-**B kyun sahi hai:** Pelvis mein major vessels aur large tissue spaces hote hain. Pelvic fracture mein blood body ke andar collect ho sakta hai aur bahar bleeding dikhna zaroori nahi hai. Pallor, fast pulse aur low BP shock ka concern hain, isliye urgent trauma response chahiye.
+**B kyun galat hai:** Soft callus repair ka later stage hai. Ye acute hypotension ka normal cause nahi hai.
 
 **C kyun galat hai:** Osteoarthritis chronic joint disease hai. Acute pelvic trauma ke baad shock signs ko ye adequately explain nahi karti.
 
-**D kyun galat hai:** Soft callus repair ka later stage hai. Ye acute hypotension ka normal cause nahi hai.
+**D kyun galat hai:** Remodeling recovery ka later process hai. Sudden circulatory instability ko normal remodeling nahi maana ja sakta.
 
 **Exam clue:** Closed fracture bhi dangerous internal bleeding kar sakta hai.
 
@@ -531,19 +531,19 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** Encourage immediate unrestricted wrist loading
-- **B.** Reassure the patient that normal radiography excludes fracture
-- **C.** Arrange prescribed immobilization and timely reassessment or additional imaging
+- **B.** Arrange prescribed immobilization and timely reassessment or additional imaging
+- **C.** Reassure the patient that normal radiography excludes fracture
 - **D.** Recommend forceful repeated wrist movement to prove stability
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Arrange prescribed immobilization and timely reassessment or additional imaging**
+**Correct answer: B. Arrange prescribed immobilization and timely reassessment or additional imaging**
 
 **A kyun galat hai:** Unrestricted loading suspected fracture ko worsen kar sakta hai. Safe activity treating team decide karti hai.
 
-**B kyun galat hai:** Normal initial X-ray har occult fracture ko exclude nahi karti. Clinical findings ko bhi importance dena chahiye.
+**B kyun sahi hai:** Kuch fractures initial X-ray par clear nahi dikhte. Scaphoid area mein persistent focal tenderness ho toh occult fracture ka concern rehta hai. Prescribed support aur timely reassessment ya further imaging se missed injury ka risk kam hota hai.
 
-**C kyun sahi hai:** Kuch fractures initial X-ray par clear nahi dikhte. Scaphoid area mein persistent focal tenderness ho toh occult fracture ka concern rehta hai. Prescribed support aur timely reassessment ya further imaging se missed injury ka risk kam hota hai.
+**C kyun galat hai:** Normal initial X-ray har occult fracture ko exclude nahi karti. Clinical findings ko bhi importance dena chahiye.
 
 **D kyun galat hai:** Forceful movement pain aur possible injury badha sakti hai. Diagnosis confirm karne ke liye appropriate assessment aur imaging use hote hain.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Pain relief confirms full mechanical union
-- **B.** All fractures allow immediate unrestricted weight bearing
-- **C.** Weight bearing should be prohibited forever after fixation
-- **D.** Follow the surgeon's fracture-specific weight-bearing plan and rehabilitation advice
+- **A.** Follow the surgeon's fracture-specific weight-bearing plan and rehabilitation advice
+- **B.** Weight bearing should be prohibited forever after fixation
+- **C.** All fractures allow immediate unrestricted weight bearing
+- **D.** Pain relief confirms full mechanical union
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Follow the surgeon's fracture-specific weight-bearing plan and rehabilitation advice**
+**Correct answer: A. Follow the surgeon's fracture-specific weight-bearing plan and rehabilitation advice**
 
-**A kyun galat hai:** Analgesia aur inflammation kam hone se pain improve ho sakta hai, jabki union abhi incomplete ho. Pain alone clearance nahi deta.
+**A kyun sahi hai:** Pain kam hone ka matlab ye nahi hai ki bone mechanically fully strong ho gayi. Fracture pattern, fixation aur healing ke hisaab se team weight bearing decide karti hai. Nurse patient ko prescribed progression aur physiotherapy plan samjhati hai.
 
-**B kyun galat hai:** Kuch fixation plans early weight bearing allow karte hain, lekin har fracture mein ye safe nahi hota. Individual plan follow karna chahiye.
+**B kyun galat hai:** Permanent restriction har patient ke liye appropriate nahi hai. Rehabilitation ka goal safe function restore karna hota hai.
 
-**C kyun galat hai:** Permanent restriction har patient ke liye appropriate nahi hai. Rehabilitation ka goal safe function restore karna hota hai.
+**C kyun galat hai:** Kuch fixation plans early weight bearing allow karte hain, lekin har fracture mein ye safe nahi hota. Individual plan follow karna chahiye.
 
-**D kyun sahi hai:** Pain kam hone ka matlab ye nahi hai ki bone mechanically fully strong ho gayi. Fracture pattern, fixation aur healing ke hisaab se team weight bearing decide karti hai. Nurse patient ko prescribed progression aur physiotherapy plan samjhati hai.
+**D kyun galat hai:** Analgesia aur inflammation kam hone se pain improve ho sakta hai, jabki union abhi incomplete ho. Pain alone clearance nahi deta.
 
 **Exam clue:** Weight bearing status ko pain score se nahi, documented clinical plan se decide karo.
 
