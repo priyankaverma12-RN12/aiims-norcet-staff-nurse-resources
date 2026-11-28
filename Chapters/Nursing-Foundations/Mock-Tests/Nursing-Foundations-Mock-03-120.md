@@ -57,16 +57,16 @@ Drain output ka individual record recovery aur bleeding ke changes track karta h
 **Correct: B. Discuss the patient's preference and reschedule or modify care safely**
 
 <!-- job5-rationale -->
-Individualized care ka matlab patient ki condition, needs aur choice ke according plan adjust karna hai. Fatigue ka reason aur severity assess karo. Agar new acute weakness hai toh further assessment ki zaroorat ho sakti hai. Stable patient ke saath rest, later bath ya partial hygiene ka option discuss kar sakte hain. Refusal aur agreed plan accurately document karo.
+Individualized care ka matlab hai ki nurse har patient ki condition, needs aur preferences ko dekhkar care plan banati aur adjust karti hai. Maan lo patient thakaan ki wajah se scheduled bath nahi lena chahta. Nurse pehle samajhti hai ki thakaan kitni hai aur kyun ho rahi hai. Agar nayi acute weakness hai, toh further assessment zaroori ho sakta hai. Agar patient stable hai, toh nurse rest, baad mein bath ya partial hygiene jaise safe alternatives discuss kar sakti hai. Patient ne kya refuse kiya aur kaunsa plan agree hua, nurse use accurately document karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Bath complete nahi hua, isliye complete record karna false hai.
-- **B:** Patient ki preference aur safety dono consider ki gayi hain. B correct hai.
-- **C:** Force karna autonomy aur dignity violate karta hai.
-- **D:** Permanent cancellation future hygiene needs ignore karti hai.
+- **A:** Bath actually complete nahi hua hai. Isliye usse complete record karna false documentation hoga.
+- **B:** Patient ki choice ka respect karte hue nurse safety ko bhi consider karti hai. Bath ka time ya method modify karke hygiene ki zaroorat ko address kiya ja sakta hai. Isliye B individualized care ka sahi example hai.
+- **C:** Written schedule hone ka matlab ye nahi hai ki patient ko force kiya jaaye. Aisa karne se patient ki autonomy, yaani apne care ke decisions lene ka haq, aur dignity violate ho sakti hai.
+- **D:** Abhi patient bath nahi lena chahta, lekin future mein hygiene care ki zaroorat phir bhi ho sakti hai. Permanent cancellation patient ki ongoing needs ko ignore karti hai.
 
-**Exam clue:** Patient-centered care rigid timetable nahi hai. Safe alternatives discuss karo.
+**Exam clue:** Patient-centered care ka matlab rigid timetable follow karna nahi hai. Patient ki choice aur safety ko dhyan mein rakhkar alternatives discuss karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -544,16 +544,16 @@ Patient ne 100 mL urine pass kiya, lekin baar-baar scan par large PVR mil raha h
 **Correct: B. Paraphrasing**
 
 <!-- job5-rationale -->
-Paraphrasing mein nurse patient ki baat ka main meaning apne words mein restate karti hai. Isse patient confirm kar sakta hai ki nurse ne uski baat sahi samjhi hai. Example, patient kehta hai ki treatment se tired feel hota hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha. Exact meaning impose mat karo.
+Paraphrasing mein nurse patient ki baat ka main meaning apne words mein dobara batati hai, taaki patient confirm kar sake ki nurse ne sahi samjha hai ya nahi. Maan lo patient kehta hai ki treatment ki wajah se woh bahut tired feel karta hai. Nurse keh sakti hai ki treatment ka burden aapko exhausting lag raha hai, kya maine sahi samjha? Isse patient ko meaning confirm ya correct karne ka mauka milta hai. Nurse apni interpretation patient par impose nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A subject change karta hai aur concern explore nahi karta.
-- **B:** B meaning ko own words mein restate karna paraphrasing hai.
-- **C:** C advice deta hai bina understanding verify kiye.
-- **D:** D false reassurance realistic concern dismiss kar sakti hai.
+- **A:** Topic badalne se patient ki main concern explore nahi hoti aur uski baat ka meaning verify nahi hota.
+- **B:** Patient ki baat ka main meaning apne words mein dobara kehkar understanding confirm karna paraphrasing hai. Isliye B sahi hai.
+- **C:** Bina patient ka actual meaning samjhe personal advice dena paraphrasing nahi hai. Pehle uski baat samajhni chahiye.
+- **D:** False reassurance mein nurse unsupported assurance de sakti hai, jisse patient ki realistic concern dismiss ho sakti hai. Ye message ko restate karna nahi hai.
 
-**Exam clue:** Paraphrase meaning, clarify uncertainty, reflect feelings.
+**Exam clue:** Paraphrasing mein meaning apne words mein batate hain. Agar meaning unclear ho, toh patient se clarification lete hain.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -876,16 +876,16 @@ King ki theory mein nurse aur patient milkar realistic goal decide karte hain. J
 **Correct: B. Use short questions, communication aids and sufficient response time**
 
 <!-- job5-rationale -->
-Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise neurological causes se ho sakti hai. Patient ki comprehension aur expression abilities individually assess karo. Short clear questions, pictures, writing ya communication board use karo aur response ka time do. New sudden aphasia emergency assessment maang sakti hai. Existing aphasia mein patient ki participation preserve karo.
+Aphasia ka matlab hai ki patient ko language samajhne ya apni baat words mein express karne mein dikkat ho sakti hai. Stroke jaisi neurological condition mein aisa ho sakta hai. Har patient ki difficulty same nahi hoti. Nurse pehle samajhti hai ki patient kitni baat samajh sakta hai aur kis tareeke se jawab de sakta hai. Woh chhote clear questions poochti hai, zaroorat ke hisaab se pictures, writing ya communication board use karti hai aur patient ko jawab dene ka samay deti hai. Agar aphasia achanak nayi shuru hui hai, toh urgent clinical assessment zaroori ho sakti hai. Existing aphasia mein patient ko care decisions mein participate karne ka mauka dena chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A language difficulty ko complete lack of comprehension assume karta hai.
-- **B:** B accessible communication aur sufficient time support karta hai.
-- **C:** C patient ki available ability aur autonomy ignore karta hai.
-- **D:** D response finish karne se actual meaning distort ho sakta hai.
+- **A:** Language express karne mein difficulty hone se ye prove nahi hota ki patient kuch bhi samajh nahi sakta. Nurse ko comprehension individually assess karni chahiye.
+- **B:** Short questions, suitable communication aids aur sufficient time se patient ko apni baat kehne mein madad milti hai. Isliye B sahi hai.
+- **C:** Caregiver ki help useful ho sakti hai, lekin patient jitna khud participate kar sakta hai, uska mauka nahi chheenna chahiye.
+- **D:** Har jawab patient ki taraf se complete karne par uski actual baat galat samjhi ja sakti hai. Nurse ko response ka samay dena aur meaning verify karna chahiye.
 
-**Exam clue:** Aphasia does not automatically mean loss of intelligence.
+**Exam clue:** Aphasia ko automatically intelligence ya decision-making capacity ki kami mat samjho. Patient ki individual communication ability assess karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1586,16 +1586,16 @@ Skin barrier outer protective layer hai jo water loss aur irritant entry control
 **Correct: B. Stop the planned activity and assess the acute symptoms urgently**
 
 <!-- job5-rationale -->
-Chest pain ke saath diaphoresis yani unusual sweating cardiac ischemia ya kisi aur serious acute condition ka clue ho sakta hai. Diagnosis confirm hone ka wait nahi karna chahiye. Walking rok kar patient ko safe position mein rakho, ABCDE aur vital signs assess karo aur urgent help activate karo. Facility chest-pain protocol ke according ECG aur further management arrange hota hai. Routine plan ko new clinical findings ke hisaab se badalna padta hai.
+Patient ko walking session se pehle naya chest pain aur diaphoresis ho raha hai. Diaphoresis ka matlab unusual sweating hai. Ye combination heart ko blood supply kam milne, yaani cardiac ischemia, ya kisi doosri serious acute problem ka warning sign ho sakta hai. Nurse ko final diagnosis ka wait nahi karna chahiye. Woh walking rok deti hai, patient ko safe position mein rakhti hai, ABCDE aur vital signs assess karti hai aur urgent help bulati hai. Facility chest-pain protocol ke hisaab se ECG aur further management arrange kiya jaata hai. Routine care plan ko patient ki new clinical condition ke according adjust karna padta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Walking se exertion badh sakta hai. Reassessment postpone karna unsafe hai.
-- **B:** Activity stop aur urgent assessment immediate safety address karte hain. B correct hai.
-- **C:** Pain ignore karwana deterioration ko miss kar sakta hai.
-- **D:** Walk hui hi nahi, isliye goal met record karna false documentation hai.
+- **A:** Walking continue karne se patient ka exertion badh sakta hai. Assessment ko walk ke baad tak postpone karna unsafe hai, kyunki chest pain ka cause abhi clear nahi hai.
+- **B:** Activity rokne se further exertion avoid hota hai aur nurse acute symptoms ko turant assess kar sakti hai. Urgent safety response routine walking goal se zyada important hai. Isliye B sahi hai.
+- **C:** Naya chest pain aur unusual sweating ko ignore karna unsafe hai. Isse serious condition pehchaanne aur urgent treatment milne mein delay ho sakta hai.
+- **D:** Patient ne walk complete nahi ki hai. Isliye goal achieve ho gaya likhna inaccurate documentation hoga aur actual condition ka important change chhup sakta hai.
 
-**Exam clue:** Acute change routine care se pehle. Assessment aur escalation ko delay mat karo.
+**Exam clue:** Jab patient ki condition achanak badle, toh pehle urgent safety assessment aur escalation karo. Routine schedule baad mein adjust kiya ja sakta hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -1783,16 +1783,16 @@ Confusion pain, infection, medication ya toileting need se related ho sakti hai.
 **Correct: B. Patient reports pain 7/10 and guards the incision during movement**
 
 <!-- job5-rationale -->
-Subjective data patient ka personal experience hai, jaise pain rating. Objective observation nurse directly dekh sakti hai, jaise movement par incision protect karna. Dono document karne se symptoms aur behavior ki clinical picture clear hoti hai. Normal vital signs pain ko rule out nahi karte. Pain severity aur response ko reassess karo.
+Subjective data woh information hai jo patient apne experience ke baare mein khud batata hai. Yahan patient kehta hai ki pain 7/10 hai. Nurse us dard ko khud feel nahi kar sakti, lekin patient ki report important clinical information hai. Objective data woh finding hai jo nurse observe ya measure kar sakti hai. Jaise patient movement ke waqt incision, yaani operation ke cut wali jagah, ko protect karta hai. Dono findings record karne se patient ki pain ki picture clear hoti hai. Normal vital signs hone par bhi pain present ho sakta hai. Nurse ko pain aur treatment ke response ko reassess karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A normal vital signs ke basis par patient ka pain reject karta hai.
-- **B:** B patient report aur observable guarding dono record karta hai.
-- **C:** C exaggeration ka unsupported assumption hai.
-- **D:** D judgmental description hai, clinical pain data nahi.
+- **A:** Normal vital signs se pain exclude nahi hota. Sirf readings normal hone ki wajah se patient ki pain report reject nahi karni chahiye.
+- **B:** Patient ki pain rating subjective data hai aur movement ke waqt incision ko guard karna observed finding hai. Dono ek saath accurately record kiye gaye hain, isliye B sahi hai.
+- **C:** Patient pain exaggerate kar raha hai, aisa bina evidence assume karna sahi nahi hai. Nurse ko actual report aur observations document karni chahiye.
+- **D:** Patient ko difficult kehna personal judgment hai. Isse pain ki severity ya relevant clinical behavior ka pata nahi chalta.
 
-**Exam clue:** Patient reports pain = subjective, observed guarding = objective.
+**Exam clue:** Patient jo feel karke batata hai woh subjective data hai. Nurse jo directly observe karti hai woh objective data ho sakta hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -2300,16 +2300,16 @@ Needle aur syringe skin barrier cross karte hain, isliye asepsis important hai. 
 **Correct: C. Reposition an immobile patient according to the individualized prevention plan**
 
 <!-- job5-rationale -->
-Patient ko reposition karne se pressure redistribute hota hai aur immobility-related injury ka risk kam karne mein madad milti hai. Nurse mobility restrictions, pain, devices, skin risk aur available assistance check karti hai. Turning frequency individualized honi chahiye. Independent nursing intervention ka matlab competent nurse apne authorized scope aur policy mein action kar sakti hai, unlimited prescribing authority nahi.
+Independent nursing intervention ka matlab hai ki nurse apni competence, professional scope aur facility policy ke andar zaroori care de sakti hai. Jab patient move nahi kar paa raha ho, toh same position mein lambe samay tak rehne se kuch body areas par pressure bana reh sakta hai. Repositioning se pressure redistribute karne aur injury ka risk kam karne mein madad milti hai. Nurse movement restrictions, pain, medical devices, skin risk aur available assistance check karti hai. Turning ka interval har patient ki individual condition ke hisaab se decide hota hai. Independent care ka matlab unlimited prescribing authority nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** New antibiotic prescribe karna general bedside nurse ki independent authority assume nahi ki ja sakti.
-- **B:** Surgeon ka operative plan nurse independently change nahi karti.
-- **C:** Individualized repositioning nursing prevention plan ke according hai. C correct hai.
-- **D:** Unauthorized anesthetic order unsafe aur scope ke bahar hai.
+- **A:** Nayi antibiotic prescribe karne ke liye appropriate prescribing authority chahiye. General bedside nurse ke independent scope mein ye authority automatically assume nahi kar sakte.
+- **B:** Operation ka plan surgeon aur authorized treatment team ki responsibility hoti hai. Nurse safety concern ko communicate kar sakti hai, lekin operative plan ko khud independently change nahi karti.
+- **C:** Individualized prevention plan ke hisaab se patient ko safely reposition karna nurse ka appropriate care action hai. Ye nurse ke competence aur facility policy ke andar kiya ja sakta hai. Isliye C sahi hai.
+- **D:** Anesthetic medicine ka unauthorized order patient ke liye serious risk create kar sakta hai. Nurse apni approved authority ke bahar aisa order nahi deti.
 
-**Exam clue:** Independent ka matlab scope ke andar, bina har action ke liye naya order maange.
+**Exam clue:** Independent intervention ka matlab hai apne authorized nursing scope mein action lena, na ki bina authority kisi bhi treatment ko prescribe karna.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3259,16 +3259,16 @@ Postvoid residual ya PVR urine pass karne ke baad bladder mein bachi quantity ha
 **Correct: A. Protect confidentiality and verify the patient's consent before disclosure**
 
 <!-- job5-rationale -->
-Competent adult patient ko apni confidential health information par control ka adhikar hota hai, applicable legal exceptions ke subject mein. Family relation automatic access permission nahi hai. Nurse patient ki wishes, authorized recipient aur information scope verify kare. Required legal disclosures facility procedure se handle kare, unnecessary sharing avoid kare.
+Jo adult patient apne decisions lene mein capable hai, uski health information confidential hoti hai, applicable legal exceptions ke subject mein. Family member hone ka matlab automatic permission nahi hota ki use poora medical record de diya jaaye. Nurse patient ki wishes, authorized recipient aur kaunsi information share ki ja sakti hai, ye verify karti hai. Agar law ke according disclosure required hai, toh facility procedure follow karna chahiye. Unnecessary information sharing avoid karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A consent aur confidentiality dono protect karta hai.
-- **B:** B group chat uncontrolled disclosure create kar sakta hai.
-- **C:** C public corridor mein discussion unauthorized persons sun sakte hain.
-- **D:** D family status blanket permission nahi deta.
+- **A:** Patient ki consent aur disclosure ki scope verify karne se confidentiality aur patient ki choice protect hoti hai. Isliye A sahi hai.
+- **B:** Group chat mein medical report share karne se unauthorized log information dekh sakte hain. Confidential data ko approved process ke bina share nahi karna chahiye.
+- **C:** Public corridor mein doosre log private information sun sakte hain. Confidential discussion appropriate private setting mein honi chahiye.
+- **D:** Family relationship useful support de sakta hai, lekin usse complete chart access ki blanket permission nahi milti.
 
-**Exam clue:** Family involvement is not blanket consent.
+**Exam clue:** Family involvement ki preference ko unlimited information-sharing consent mat samjho. Patient ki permission aur applicable policy verify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3696,16 +3696,16 @@ Clean-catch sample ka goal urine mein surrounding skin ke germs milne ka risk ka
 **Correct: A. Risk for falls related to impaired balance**
 
 <!-- job5-rationale -->
-Risk diagnosis tab use hota hai jab patient mein problem ke risk factors hon, lekin given problem ke current manifestations established na hon. Impaired balance se fall hone ki possibility badh jaati hai. Nurse fall history, gait, medicines aur environment assess karke suitable prevention plan banati hai. Current fall injury assume nahi karte.
+Risk diagnosis tab use hota hai jab patient mein kisi problem ke hone ki possibility badh gayi ho, lekin woh specific problem abhi establish nahi hui ho. Impaired balance ka matlab hai ki patient ko apna balance maintain karne mein dikkat ho rahi hai. Is wajah se girne ka risk badh sakta hai. Nurse fall history, walking pattern, medicines aur environment ko assess karke suitable prevention plan banati hai. Question mein actual fall ya usse hui injury ka evidence nahi diya gaya hai.
 
 **Option-by-option reasoning**
 
-- **A:** Impaired balance risk factor hai aur actual fall mention nahi hai. A correct hai.
-- **B:** Open wound current impaired skin integrity ka evidence hai.
-- **C:** Retained sputum existing airway concern ka cue hai, isliye statement problem-focused hai.
-- **D:** Pain score 8/10 present pain ka evidence hai.
+- **A:** Impaired balance ek risk factor hai jo fall ki possibility badha sakta hai. Yahan actual fall ka evidence nahi diya gaya hai. Isliye A risk diagnosis ka sahi example hai.
+- **B:** Open wound se pata chalta hai ki skin integrity already impair ho chuki hai. Isliye ye current problem ka evidence hai, risk-only diagnosis nahi hai.
+- **C:** Retained sputum existing airway clearance concern ko support karta hai. Is statement mein current problem ka evidence diya gaya hai, isliye ye problem-focused diagnosis hai.
+- **D:** Pain score 8/10 patient ke current pain ka evidence hai. Ye sirf future pain hone ki possibility ko describe nahi karta.
 
-**Exam clue:** Risk diagnosis mein problem ki existing defining characteristics nahi hoti, risk factors hote hain.
+**Exam clue:** Risk diagnosis mein risk factors hote hain. Usi specific problem ke current defining signs hon, toh problem-focused diagnosis consider karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->

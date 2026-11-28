@@ -914,16 +914,16 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 **Correct: A. The patient**
 
 <!-- job5-rationale -->
-Primary source generally woh person hai jiske health experiences ke baare mein information collect ho rahi hai. Conscious patient jo reliably communicate kar sakta hai, symptoms, allergies aur history directly bata sakta hai. Agar communication ya cognition impaired hai, nurse appropriate interpreter, caregiver aur records se information supplement ya validate karti hai.
+Primary source woh direct source hai jisse patient ki health history milti hai. Agar conscious patient reliably communicate kar sakta hai, toh aam taur par patient khud apne symptoms, allergies, past illnesses aur medicines ke baare mein sabse direct information deta hai. Agar communication ya cognition mein dikkat ho, toh nurse appropriate interpreter, caregiver aur records ki madad se information supplement ya verify kar sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Patient direct history de sakta hai. A correct hai.
-- **B:** Census sheet bed ya patient count batati hai, individual health history nahi.
-- **C:** Discharge summary previous clinical record hai. Yeh useful secondary source hai, sole primary source nahi.
-- **D:** Unfamiliar visitor patient ki history reliably nahi jaanta.
+- **A:** Patient apni health history directly bata sakta hai. Isliye reliably communicate karne wala patient aam taur par primary source hota hai aur A sahi hai.
+- **B:** Ward census sheet se ward mein beds ya patients ki sankhya pata chal sakti hai. Ye individual patient ki detailed health history nahi deti hai.
+- **C:** Previous discharge summary mein purani clinical information hoti hai. Ye useful secondary source hai, lekin patient ki current history ko sirf isi se replace nahi karna chahiye.
+- **D:** Jo visitor patient ko pehle se nahi jaanta, uske paas patient ki health history ke baare mein reliable direct information hone ki umeed nahi ki ja sakti.
 
-**Exam clue:** Primary source patient. Secondary sources family, records aur other team members ho sakte hain.
+**Exam clue:** Agar patient reliably communicate kar sakta hai, toh patient ko primary source samjho. Family, records aur team se milne wali information zaroorat ke hisaab se secondary sources hoti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -955,16 +955,16 @@ Primary source generally woh person hai jiske health experiences ke baare mein i
 **Correct: D. Subjective**
 
 <!-- job5-rationale -->
-SOAP structured notes ka format hai. S subjective yani patient ke own symptoms aur experiences, O objective yani examination aur measured findings, A assessment yani available information ki clinical interpretation, P plan yani next care actions. Agar patient burning pain report kare toh S section mein source clearly attribute karo. Test result O mein aayega.
+SOAP clinical notes organize karne ka ek format hai. S ka matlab Subjective hai, jisme patient ki khud batayi hui symptoms aur experiences aate hain. O ka matlab Objective hai, jisme observed aur measured findings aati hain. A ka matlab Assessment hai, jisme available information ka clinical interpretation likha jaata hai. P ka matlab Plan hai, jisme aage ki care aur review steps bataye jaate hain. Maan lo patient burning pain report karta hai. Nurse S section mein clearly likhti hai ki ye patient ka report hai. Relevant examination finding ya test result O mein record kiya ja sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A Objective observed ya measured findings record karta hai.
-- **B:** B Plan future interventions aur review describe karta hai.
-- **C:** C Assessment data ka interpretation hai.
-- **D:** D Subjective patient ka own report capture karta hai.
+- **A:** Objective section mein nurse observed findings aur measurements record karti hai. Patient ki apni pain ya symptom report subjective data hoti hai.
+- **B:** Plan mein aage kya care di jaayegi aur kab review hoga, ye bataya jaata hai. Patient ki symptom report is section ka main purpose nahi hai.
+- **C:** Assessment mein available data ka clinical meaning likha jaata hai. Ye sirf patient ke apne words record karne wala section nahi hai.
+- **D:** Subjective section patient ke personal symptoms aur experiences ko capture karta hai. Isliye D sahi hai.
 
-**Exam clue:** SOAP = Subjective, Objective, Assessment, Plan.
+**Exam clue:** SOAP ka full form Subjective, Objective, Assessment aur Plan hai. Patient ki khud batayi hui takleef ko Subjective section mein pehchaano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1788,16 +1788,16 @@ Surgical asepsis ka goal sterile field aur critical supplies ko contamination se
 **Correct: B. Use a qualified interpreter and ask the patient to explain the schedule in their own words**
 
 <!-- job5-rationale -->
-Language barrier mein nod karna polite response ho sakta hai, understanding ka proof nahi. Qualified interpreter ke through medication timing aur dose clear karo. Phir patient ko apne words mein samjhane ko bolo ki medicine kab aur kaise lega. Agar confusion mile toh blame ki jagah explanation aur example badlo aur teach-back repeat karo. Isse nurse apni communication ki effectiveness check karti hai.
+Maan lo nurse medication schedule samjha rahi hai aur patient haan mein sir hila raha hai, lekin apne words mein schedule nahi bata paa raha hai. Sir hilana polite response ho sakta hai, isse understanding confirm nahi hoti. Qualified interpreter ki madad se nurse patient ki language mein medicine ki dose aur timing samjhati hai. Phir nurse patient se kehti hai ki woh apne words mein bataye ki medicine kab aur kaise lega. Is method ko teach-back kehte hain. Agar confusion milta hai, toh nurse patient ko blame nahi karti. Woh apni explanation ko aur clear banati hai aur teach-back dobara karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Nodding se comprehension confirm nahi hota.
-- **B:** Interpreter aur teach-back milkar language access aur understanding evaluate karte hain. B correct hai.
-- **C:** Unrelated visitor patient ki understanding establish nahi kar sakta. Privacy ka concern bhi hai.
-- **D:** Volume badhane se unfamiliar language samajh nahi aati.
+- **A:** Sir hilane se ye confirm nahi hota ki patient medicine ka schedule samajh gaya hai. Agar nurse assume kar le, toh medicine lene mein galti ka risk ho sakta hai.
+- **B:** Qualified interpreter language barrier kam karne mein madad karta hai aur teach-back se nurse dekh sakti hai ki patient actual schedule samjha hai ya nahi. Dono milkar understanding evaluate karte hain. Isliye B sahi hai.
+- **C:** Unrelated visitor patient ki understanding directly establish nahi kar sakta. Ismein privacy ka concern bhi ho sakta hai, isliye visitor par decision chhodna appropriate nahi hai.
+- **D:** Unfamiliar language mein wahi instructions zyada zor se bolne se language barrier solve nahi hota. Patient ko samajh aane wali language mein explanation chahiye.
 
-**Exam clue:** Teach-back patient ki exam nahi, teaching ki effectiveness ka check hai.
+**Exam clue:** Teach-back patient ki exam lene ka tareeka nahi hai. Isse nurse check karti hai ki usne baat kitni clear samjhai hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1965,16 +1965,16 @@ Label aur request form laboratory ko batate hain ki specimen kis patient ka hai,
 **Correct: D. A nursing diagnosis describes human responses that nursing care can address**
 
 <!-- job5-rationale -->
-Medical diagnosis disease ya pathological condition identify karti hai. Nursing diagnosis patient ki actual ya potential human response ko describe karti hai, jaise impaired mobility ya ineffective airway clearance. Ek hi medical diagnosis wale do patients ki nursing needs alag ho sakti hain. Nurse assessment se relevant response identify karke goals aur interventions plan karti hai.
+Medical diagnosis se pata chalta hai ki patient ko kaunsi disease ya pathological condition hai. Nursing diagnosis mein focus is baat par hota hai ki patient us condition ko kaise experience kar raha hai, uski kya actual problem hai aur kis problem ka risk hai. Maan lo do patients ko pneumonia hai. Ek ko secretions clear karne mein difficulty ho sakti hai aur doosre ko movement ke waqt saans lene mein dikkat ho sakti hai. Medical diagnosis same hone par bhi nursing needs alag ho sakti hain. Nurse assessment se response identify karti hai aur uske hisaab se goals aur care plan banati hai.
 
 **Option-by-option reasoning**
 
-- **A:** Pathogen infection ka cause ho sakta hai. Nursing diagnosis hamesha pathogen name nahi karti.
-- **B:** Dono terms ka focus alag hai, isliye interchangeable nahi.
-- **C:** Intervention care action hai, medical diagnosis disease identification hai.
-- **D:** Human response aur nursing care par focus hai. D correct hai.
+- **A:** Pathogen kisi infection ka cause ho sakta hai. Nursing diagnosis ka purpose hamesha pathogen ka naam batana nahi hai, balki patient ki relevant response aur care needs identify karna hai.
+- **B:** Medical diagnosis aur nursing diagnosis dono patient care mein important hain, lekin dono ka focus alag hota hai. Isliye in terms ko hamesha ek doosre ki jagah use nahi kar sakte.
+- **C:** Nursing intervention woh action hai jo patient care ke liye kiya jaata hai. Medical diagnosis disease identify karti hai, isliye woh sirf nursing intervention nahi hai.
+- **D:** Nursing diagnosis patient ki actual ya potential response ko describe karti hai jise nursing care address kar sakti hai. Isliye B nursing diagnosis ka sahi distinction batata hai.
 
-**Exam clue:** Disease vs response yaad rakho. Pneumonia disease hai, airway clearance concern nursing focus ho sakta hai.
+**Exam clue:** Disease aur patient response ko alag samjho. Pneumonia medical diagnosis ho sakti hai, jabki ineffective airway clearance relevant nursing concern ho sakta hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -2824,16 +2824,16 @@ Route batata hai medicine body mein kis pathway se di jaayegi, jaise oral, IV ya
 **Correct: C. Please show me how you will use the inhaler at home**
 
 <!-- job5-rationale -->
-Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi ya nahi. Inhaler jaise physical skill ke liye show-me ya return demonstration better check hai. Patient ko device-specific steps demonstrate karne do, incorrect step gently correct karo aur repeat demonstration lo. Isse nurse teaching improve kar sakti hai.
+Teach-back ka purpose ye check karna hai ki nurse ki explanation patient ko samajh aayi hai ya nahi. Inhaler use karna ek practical skill hai, isliye patient ko sirf instructions repeat karne ke bajay inhaler use karke dikhane ko kehna useful hai. Ise show-me ya return demonstration kehte hain. Nurse specific device ke steps observe karti hai. Agar koi step galat hai, toh nurse blame kiye bina dobara samjhati hai aur patient se phir practice karwati hai. Isse discharge se pehle pata chalta hai ki aur teaching ki zaroorat hai ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** A signature education comprehension establish nahi karta.
-- **B:** B exact words repeat karna safe technique demonstrate nahi karta.
-- **C:** C actual skill performance verify karta hai.
-- **D:** D yes-no question understanding ka reliable proof nahi.
+- **A:** Signature lene se ye establish nahi hota ki patient ne teaching samajh li hai ya skill safely perform kar sakta hai.
+- **B:** Instructions word-for-word repeat karna yaad karne ka evidence ho sakta hai, lekin inhaler ki actual technique sahi hai ya nahi, ye demonstrate nahi hota.
+- **C:** Patient jab inhaler use karke dikhata hai, toh nurse actual technique assess kar sakti hai. Isliye C practical skill ke liye best understanding check hai.
+- **D:** Do you understand poochne par patient haan bol sakta hai, chahe use technique clear na hui ho. Sirf yes-no response reliable proof nahi hai.
 
-**Exam clue:** Teach-back for understanding, show-me for practical skills.
+**Exam clue:** Teach-back mein understanding check karte hain. Practical skills ke liye show-me ya return demonstration use karke actual performance dekho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3296,16 +3296,16 @@ Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh s
 **Correct: C. Objective assessment findings, actions taken and notifications**
 
 <!-- job5-rationale -->
-Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. Nurse patient ki condition, pain, mobility, neurological findings aur fall circumstances protocol ke according assess kare. Required monitoring, interventions aur notifications clinical chart mein factually document karo. Separate incident reporting bhi local policy ke according complete karo.
+Patient gir gaya hai, lekin abhi koi injury visibly nahi dikh rahi hai. Iska matlab ye nahi hai ki injury definitely nahi hui. Nurse facility ke post-fall protocol ke according patient ki condition, pain, movement, relevant neurological findings aur fall ki circumstances assess karti hai. Jo actual findings mili hain, jo care di gayi hai, required monitoring aur kisko inform kiya gaya hai, unhe clinical chart mein record karti hai. Facility policy ke hisaab se separate incident report bhi complete ki jaati hai. Clinical record aur incident reporting ka purpose alag hai, isliye ek doosre ka substitute nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** A incident number clinical assessment ka substitute nahi hai.
-- **B:** B clinical event omit karta hai aur delayed injury miss ho sakti hai.
-- **C:** C objective findings, care aur notifications continuity support karte hain.
-- **D:** D colleague par speculation factual charting nahi hai.
+- **A:** Incident report number se patient ka actual assessment aur care details nahi milti hain. Clinical findings ko chart mein separately document karna chahiye.
+- **B:** Visible injury na hone par bhi fall ek clinically relevant event hai. Entry omit karne se later symptoms aur care ki timeline samajhna mushkil ho sakta hai.
+- **C:** Objective assessment, actual actions aur notifications record karne se next healthcare team patient ki condition aur follow-up needs samajh sakti hai. Isliye C sahi hai.
+- **D:** Bina evidence kisi colleague ko blame karna factual documentation nahi hai. Nurse ko jo actual information available hai wahi record karni chahiye.
 
-**Exam clue:** Clinical chart records care, incident system supports safety review.
+**Exam clue:** Clinical chart mein patient ki actual findings aur care likho. Separate incident system mein policy ke according safety review ke liye report karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3510,16 +3510,16 @@ High-alert infusion alarm blockage, battery, air detection, device failure ya pr
 **Correct: A. Acknowledge the frustration and explain what can be done next**
 
 <!-- job5-rationale -->
-Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. Nurse calm tone mein frustration acknowledge kare aur realistic next action explain kare. Actual waiting time uncertain ho toh honest communication do. Threatening behavior ho toh safe distance aur facility de-escalation policy follow karo. Respect maintain karte hue appropriate boundaries set karo.
+Jab patient lambe wait ki wajah se gussa ho, toh nurse ko pehle uski concern samajhne ki koshish karni chahiye. Gusse ke peeche pain, anxiety, unmet needs ya information na milne ki problem ho sakti hai. Nurse calm tone mein patient ki frustration acknowledge karti hai aur batati hai ki abhi practically kya action liya ja sakta hai. Agar waiting time confirm nahi hai, toh honest information deni chahiye. Agar behavior threatening ho jaata hai, toh nurse safety maintain karti hai aur facility ki de-escalation policy follow karti hai. Respect ke saath appropriate boundaries rakhna bhi zaroori hai. Agar threatening behavior ho, toh nurse safe distance maintain karti hai aur zaroorat ke hisaab se trained support leti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A emotion acknowledge karta hai aur actionable next step deta hai.
-- **B:** B unsupported promise trust damage kar sakti hai.
-- **C:** C argument confrontation badha sakta hai.
-- **D:** D ignoring se patient ki concern unresolved rehti hai.
+- **A:** Frustration acknowledge karne se patient ko pata chalta hai ki uski baat suni gayi hai. Realistic next action batane se concern address hoti hai, isliye A sahi hai.
+- **B:** Aisa result promise karna jo nurse guarantee nahi kar sakti, baad mein patient ka trust kharab kar sakta hai. Realistic next step batana zyada appropriate hai.
+- **C:** Patient se argue karne par tension badh sakti hai. Uski actual concern samajhne aur safe solution discuss karne mein madad nahi milegi.
+- **D:** Patient ko ignore karne se wait ke peeche wali unmet need address nahi hoti. Calm communication aur relevant assessment useful ho sakte hain.
 
-**Exam clue:** Acknowledge emotion, explain realistic action.
+**Exam clue:** Patient ki emotion acknowledge karo aur jo next step actually possible hai, use clearly samjhao.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3573,16 +3573,16 @@ Barthel Index daily activities aur mobility mein assistance level assess karne m
 **Correct: D. Reassess and revise the diagnosis or care plan as indicated**
 
 <!-- job5-rationale -->
-Nursing process ek ongoing cycle hai. Evaluation mein naya problem milne par nurse relevant fresh data collect karti hai, urgency assess karti hai aur diagnosis ya plan ko findings ke hisaab se revise karti hai. Purane accurate observations record mein rehne chahiye. New findings ke liye immediate action bhi zaroori ho sakta hai.
+Nursing process ek continuous cycle hai. Evaluation mein nurse check karti hai ki planned care ke baad patient mein kya result hua. Agar is dauran nayi problem milti hai, toh nurse usse ignore nahi karti. Woh fresh assessment data collect karti hai, problem ki urgency samajhti hai aur findings ke hisaab se nursing diagnosis ya care plan revise karti hai. Accurate purani observations record mein rehni chahiye, kyunki unse patient ka clinical trend samajh aata hai. Agar nayi finding urgent hai, toh immediate action bhi zaroori ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Evaluation last named step hai, lekin process khatam nahi hota.
-- **B:** Ineffective plan ko bina review continue karna patient ki needs address nahi karta.
-- **C:** Previous observations delete karne se clinical timeline aur record integrity damage hoti hai.
-- **D:** New data aur plan revision continuous nursing process ko reflect karte hain. D correct hai.
+- **A:** Evaluation ADPIE ka last named step hai, lekin patient ki care yahin khatam nahi hoti. Nayi problem ke liye reassessment zaroori hoti hai.
+- **B:** Agar plan effective nahi hai, toh use bina review ke continue karne se patient ki actual needs address nahi hongi. Nurse ko findings ke hisaab se plan adjust karna chahiye.
+- **C:** Purani accurate observations delete karne se patient ki condition ka timeline aur record ki integrity kharab ho sakti hai. Nayi finding ko purane record ke saath document karna chahiye.
+- **D:** Reassessment se nayi problem ke baare mein information milti hai. Us information ke hisaab se nurse diagnosis ya care plan revise kar sakti hai. Isliye D continuous nursing process ko sahi tarah describe karta hai.
 
-**Exam clue:** ADPIE cycle hai, straight line nahi.
+**Exam clue:** ADPIE ko ek cycle samjho. Evaluation mein nayi problem milne par assessment aur planning dobara shuru ho sakti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->

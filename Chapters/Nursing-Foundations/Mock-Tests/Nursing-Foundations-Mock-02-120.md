@@ -23,16 +23,16 @@
 **Correct: A. The patient will walk 20 meters with assistance by 6 PM**
 
 <!-- job5-rationale -->
-Nursing outcome patient mein expected change ko describe karta hai. SMART ka matlab Specific, Measurable, Achievable, Relevant aur Time-bound hai. Yahan 20 meters ek measurable distance hai, assistance safety condition hai aur 6 PM deadline hai. Patient ki actual capacity ke according goal decide hoga. Nurse baad mein actual performance compare kar sakti hai.
+Nursing outcome ka matlab hai ki care ke baad patient mein hum kya result dekhna chahte hain. SMART ka matlab Specific, Measurable, Achievable, Relevant aur Time-bound hai. Maan lo patient ko walking mein help chahiye. Agar hum kehte hain ki patient 6 PM tak assistance ke saath 20 meters chalega, toh distance aur time dono clear hain. Assistance ki condition bhi bata di gayi hai. Goal patient ki actual ability aur safety ke hisaab se select karna chahiye. Baad mein nurse check kar sakti hai ki patient ne goal achieve kiya ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** Patient, action, distance, help aur time clear hain. A measurable outcome hai.
-- **B:** Excellent care vague phrase hai aur nurse ka action describe karta hai, patient ka measurable result nahi.
-- **C:** Improve someday mein na exact result hai na definite deadline. Isko reliably evaluate nahi kar sakte.
-- **D:** Nurse ki understanding patient ki functional improvement ko measure nahi karti.
+- **A:** Is statement mein patient, walking distance, assistance aur deadline sab clear hain. Nurse actual performance ko target se compare kar sakti hai. Isliye A patient-centered measurable outcome hai.
+- **B:** Excellent care ek vague phrase hai aur nurse ke action par focus karta hai. Ismein patient ka specific measurable result nahi bataya gaya hai.
+- **C:** Improve someday se pata nahi chalta ki patient mein kaunsa improvement chahiye ya kab tak chahiye. Nurse is statement ko use karke reliably result measure nahi kar sakti.
+- **D:** Nurse mobility ko samajh le, ye nurse ki learning se related hai. Isse patient ki walking ability mein kitna improvement hua, ye measure nahi hota.
 
-**Exam clue:** Outcome mein patient kya karega, kitna aur kab tak, ye dekho.
+**Exam clue:** Outcome padhte waqt dekho ki patient kya karega, kitna karega aur kab tak karega.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -96,16 +96,16 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 **Correct: C. Defining characteristics**
 
 <!-- job5-rationale -->
-Problem-focused diagnosis mein problem, contributing factor aur evidence identify karte hain. Weak cough ka matlab patient secretions effectively clear nahi kar paa raha ho sakta hai. Coarse breath sounds retained secretions ke saath compatible hain. Given statement mein ye dono signs evidence ke roop mein likhe hain. Nurse actual assessment se cause aur severity validate karegi.
+Problem-focused nursing diagnosis mein nurse existing problem, usse jude contributing factors aur problem ko support karne wale signs aur symptoms identify karti hai. Is question mein patient ka cough weak hai. Iska matlab ho sakta hai ki woh secretions ko aasani se bahar nahi nikaal paa raha hai. Coarse breath sounds bhi retained secretions ke saath mil sakti hain. Given statement mein weak cough aur breath sounds ko evidence ke roop mein likha gaya hai. In supporting signs ko defining characteristics kehte hain. Nurse actual assessment se cause aur problem ki severity validate karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Expected outcomes future target hain, jaise effective cough aur improved airway clearance.
-- **B:** Etiology yahan retained secretions hai. Signs ko etiology alone bolna category mix kar deta hai.
-- **C:** Weak cough aur coarse sounds problem ke supporting cues hain. C correct hai.
-- **D:** Intervention nurse ka action hai, jaise appropriate airway clearance support. Observed signs action nahi hain.
+- **A:** Expected outcome woh result hai jo care ke baad chahiye, jaise patient ka cough effective ho ya airway clearance improve ho. Yahan signs current problem ko describe kar rahe hain, future target ko nahi.
+- **B:** Etiology ka matlab contributing cause hai. Is statement mein retained secretions ko related factor bataya gaya hai. Weak cough aur breath sounds ko sirf etiology kehna signs aur cause ko mix kar deta hai.
+- **C:** Weak cough aur coarse breath sounds patient ki existing airway problem ko support karte hain. Ye woh observed cues hain jinke basis par diagnosis ko evidence milta hai. Isliye C sahi hai.
+- **D:** Independent nursing intervention nurse ke authorized care action ko kehte hain, jaise suitable airway clearance support dena. Weak cough aur breath sounds patient ki findings hain, nurse ke actions nahi hain.
 
-**Exam clue:** PES mein signs/symptoms aur related factor alag identify karo.
+**Exam clue:** PES structure mein problem, related factor aur supporting signs ko alag-alag pehchaano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -759,16 +759,16 @@ Capacity decision-specific aur time-specific ho sakti hai. Delirium understandin
 **Correct: B. Patient walked 10 meters with a walker and one-person assistance**
 
 <!-- job5-rationale -->
-Objective documentation observable facts ko describe karti hai, personality judgment ko nahi. Walking distance, walker aur assistance level actual functional performance measure karne mein help karte hain. Isse next nurse baseline compare kar sakti hai aur mobility plan adjust kar sakti hai. Patient ka own report ho toh explicitly attribute karo.
+Objective documentation mein nurse aise facts record karti hai jo observe ya measure kiye gaye hain. Personal opinion ya patient ki personality par judgment likhna objective record nahi hota. Maan lo patient walker aur ek person ki assistance ke saath 10 meters chala. Is entry se next nurse ko pata chalta hai ki patient kitna chala, kaunsi device use hui aur kitni help chahiye thi. Baad mein actual performance compare karke mobility plan adjust kiya ja sakta hai. Agar patient apna experience report karta hai, toh nurse clearly batati hai ki information patient ne di hai.
 
 **Option-by-option reasoning**
 
-- **A:** A badly vague judgment hai, actual behavior specify nahi karta.
-- **B:** B distance, equipment aur assistance measurable facts hain.
-- **C:** C lazy label stigmatizing hai aur actual behavior explain nahi karta.
-- **D:** D careless assumption hai, observed action nahi.
+- **A:** Behaved badly se actual behavior clear nahi hota. Ye nurse ka vague judgment hai, measured ya observed detail nahi hai.
+- **B:** Walking distance, walker aur assistance level observable aur measurable facts hain. Isliye B objective documentation ka best example hai.
+- **C:** Lazy aur uncooperative jaise labels patient ko stigmatize kar sakte hain. Ye actual relevant behavior aur context explain nahi karte.
+- **D:** Careless kehna patient ke baare mein assumption hai. Nurse ko specific observed action record karna chahiye.
 
-**Exam clue:** Record what was observed, not your opinion.
+**Exam clue:** Record mein woh likho jo actually observe hua hai. Personal opinion ko clinical fact ke roop mein mat likho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1199,16 +1199,16 @@ Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab
 **Correct: C. Request immediate bedside review and specify the concern**
 
 <!-- job5-rationale -->
-SBAR structured handover method hai. S mein present concern, B mein relevant previous context, A mein assessment aur interpretation, R mein required action ya request batate hain. Agar patient deteriorate kar raha hai toh clearly specify karo ki immediate review chahiye aur kyun. Emergency response ko routine communication ke liye delay mat karo.
+SBAR ek structured communication method hai jisse nurse important clinical information organized tareeke se team ko batati hai. S ka matlab Situation hai, jisme abhi ki concern batayi jaati hai. B mein relevant Background, A mein Assessment aur uska clinical meaning, aur R mein Recommendation ya requested action bataya jaata hai. Maan lo patient ki condition kharab ho rahi hai. Nurse R mein clearly batati hai ki immediate bedside review chahiye aur kyun chahiye. Emergency response ko template complete karne ke liye delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A history Background mein aati hai.
-- **B:** B vital signs assessment aur current situation ka part hain, request absent hai.
-- **C:** C required bedside review aur concern specify karta hai.
-- **D:** D name patient identification hai, complete recommendation nahi.
+- **A:** Past medical history relevant Background ka part hai. Recommendation mein requested action aur urgency clear honi chahiye.
+- **B:** Current vital signs Situation ya Assessment ko support kar sakte hain. Lekin sirf readings batane se specific recommendation nahi milti.
+- **C:** Immediate bedside review maangne aur concern specify karne se receiving team ko action aur urgency samajh aati hai. Isliye C sahi hai.
+- **D:** Patient ka naam identification mein useful hai, lekin sirf naam batane se ye clear nahi hota ki team se kya action chahiye.
 
-**Exam clue:** R = request or recommendation, not merely report.
+**Exam clue:** SBAR mein R par dhyan do. Ismein nurse clearly batati hai ki ab kaunsa action ya review chahiye.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1340,16 +1340,16 @@ AED rhythm analyse karke shockable rhythm mein shock advise karta hai. Shock se 
 **Correct: A. Correct it through the approved amendment process with an audit trail**
 
 <!-- job5-rationale -->
-Electronic record mein error correct karna zaroori hai, lekin original entry aur correction history traceable rehni chahiye. Approved amendment function use karo aur correct time, reason aur identity policy ke according record karo. Medication error ka patient safety impact assess karo aur responsible team ko required notification do. Never hide the original record.
+Electronic health record mein galat medication entry milne par usse correct karna zaroori hai, lekin correction transparent honi chahiye. Nurse approved amendment process use karti hai, jisse original entry aur change ka history traceable rahe. Audit trail se pata chal sakta hai ki kisne, kya aur kab badla. Policy ke hisaab se correction ka time, reason aur identity record karni chahiye. Nurse ye bhi assess karti hai ki error se patient safety par koi effect hua hai ya nahi aur required notification deti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A approved amendment aur audit trail record integrity maintain karte hain.
-- **B:** B secret deletion traceability destroy karta hai.
-- **C:** C wrong information future treatment ko affect kar sakti hai.
-- **D:** D another login use karna accountability aur access security violate karta hai.
+- **A:** Approved amendment aur audit trail original record ki traceability aur integrity maintain karte hain. Isliye A sahi hai.
+- **B:** Secretly original entry delete karne se pata lagana mushkil ho sakta hai ki error kya tha aur correction kisne ki. Ye reliable clinical record ke against hai.
+- **C:** Galat entry ko waise hi chhodne se next healthcare professional wrong information ke basis par treatment decision le sakta hai. Isliye error address karna zaroori hai.
+- **D:** Doosri nurse ka login use karne se actual change karne wale person ki identity galat record ho sakti hai. Ye accountability aur access security ko compromise karta hai.
 
-**Exam clue:** Correct transparently, never erase the audit trail.
+**Exam clue:** Error correct karo, lekin approved process se karo. Original record aur correction history ko traceable rakho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -2194,16 +2194,16 @@ Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively k
 **Correct: B. Evaluation**
 
 <!-- job5-rationale -->
-Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko appropriate interval par check karti hai. Patient ki breathing aur adverse effects bhi medicine aur condition ke hisaab se assess karne chahiye. Baseline aur target se compare karke pata chalta hai ki treatment effective aur safe hai ya modification chahiye. Is comparison ko evaluation kehte hain.
+Analgesic ek medicine hai jo pain kam karne ke liye di jaati hai. Care plan ke according medicine dena implementation hai. Ab nurse appropriate interval ke baad patient ka pain aur sedation, yaani medicine se neend ya alertness mein change, check karti hai. Medicine aur patient ki condition ke hisaab se breathing aur adverse effects bhi assess karna chahiye. Nurse new findings ko baseline aur target se compare karti hai, taaki pata chale ki treatment se fayda hua aur patient safe hai ya plan mein change ki zaroorat hai. Is process ko evaluation kehte hain.
 
 **Option-by-option reasoning**
 
-- **A:** Initial diagnosis problem identify karta hai. Is question mein treatment already diya gaya hai.
-- **B:** Treatment ke baad pain aur sedation ka result check ho raha hai. B correct hai.
-- **C:** Planning desired result aur actions select karta hai. Result comparison evaluation hai.
-- **D:** Admission registration administrative task hai.
+- **A:** Initial diagnosis mein nurse assessment data se patient ki problem identify karti hai. Yahan problem pehle identify ho chuki hai aur treatment bhi diya gaya hai. Isliye ye sirf initial diagnosis nahi hai.
+- **B:** Nurse treatment ke baad pain aur sedation ko dobara check karke result samajh rahi hai. Ye care plan ke outcome ko evaluate karne ka step hai. Isliye B sahi hai.
+- **C:** Planning mein desired result aur intervention decide kiye jaate hain. Is question mein nurse pehle se diye gaye intervention ka effect check kar rahi hai, isliye ye evaluation hai.
+- **D:** Admission registration mein patient ki administrative entry aur basic registration information record hoti hai. Medicine ke effect ko assess karna registration ka kaam nahi hai.
 
-**Exam clue:** Medicine dena implementation, effect check karna evaluation.
+**Exam clue:** Medicine dena implementation hota hai. Medicine dene ke baad patient par kya effect hua, ye check karna evaluation hota hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -3388,16 +3388,16 @@ Root cause analysis serious safety event ke baad structured retrospective invest
 **Correct: D. Read the order back to the prescriber and obtain confirmation**
 
 <!-- job5-rationale -->
-Telephone medication order mein sound-alike medicine names, dose aur units mishear ho sakte hain. Sirf permitted situations mein authorized prescriber ka order document karo aur drug, dose, route, frequency jaise required details read back karo. Prescriber se confirmation lo aur unclear instructions clarify karo. Local authentication and medication safety requirements follow karo.
+Telephone par medication order sunte waqt similar-sounding medicine names, dose ya units galat samajh aane ka risk hota hai. Agar facility policy telephone order permit karti hai, toh nurse authorized prescriber ke order ko document karti hai aur required drug, dose, route aur frequency jaise details dobara padhkar sunati hai. Prescriber confirm karta hai ki order sahi samjha gaya hai. Agar koi detail unclear ho, toh nurse clarify karti hai. Local authentication aur medication safety requirements follow karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A medicine color se identity, dose ya route establish nahi hote.
-- **B:** B patient dose guess karne ka authorized source nahi hai.
-- **C:** C memory par depend karne se information lose ya change ho sakti hai.
-- **D:** D read-back communication error detect karne ka safety check hai.
+- **A:** Medicine ke colour se uski correct identity, dose, route ya frequency reliably establish nahi hoti. Complete order verify karna zaroori hai.
+- **B:** Patient ki guess se authorized prescribed dose establish nahi hoti. Missing details prescriber se clarify karni chahiye.
+- **C:** Sirf memory par depend karne se dose ya doosri important information bhoolne ya galat yaad rakhne ka risk badh sakta hai.
+- **D:** Order ko read back karke prescriber ki confirmation lene se misunderstanding identify aur correct ki ja sakti hai. Isliye A safest verification step hai.
 
-**Exam clue:** Read back, confirm, document according to policy.
+**Exam clue:** Permitted telephone order mein required details read back karo, confirmation lo aur policy ke hisaab se document karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3463,16 +3463,16 @@ Routine rectal enema mein suitable patient ko left lateral ya modified Sims posi
 **Correct: D. Risk for impaired skin integrity**
 
 <!-- job5-rationale -->
-Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse tissue blood supply compromise ho sakti hai. Incontinence se skin par moisture aur irritation badh sakte hain. Skin intact hai aur existing injury ka evidence nahi diya gaya. Nurse risk assess kare, skin inspect kare aur individualized pressure relief aur moisture management plan banaye. Risk diagnosis future problem ki susceptibility ko batata hai.
+Immobility ka matlab hai ki patient aasani se apni position nahi badal paa raha hai. Jab body ka koi hissa lambe samay tak pressure mein rehta hai, toh wahan tissue ko blood supply milne mein dikkat ho sakti hai. Incontinence mein urine ya stool control nahi ho paata, jisse skin par moisture aur irritation badh sakti hai. Question mein skin abhi intact hai, yaani skin tootne ka evidence nahi diya gaya hai. Isliye nurse ko skin breakdown ke risk ko identify karna chahiye. Nurse skin inspect karti hai aur patient ki condition ke hisaab se pressure relief aur moisture management ka plan banati hai.
 
 **Option-by-option reasoning**
 
-- **A:** Effective perfusion ko confirmed problem bolna given findings se supported nahi hai.
-- **B:** Documented wound ya pain ka evidence nahi hai. B unsupported hai.
-- **C:** Open ulcer question mein nahi diya hai. Actual skin breakdown assume nahi kar sakte.
-- **D:** D risk factors aur current intact skin dono ko reflect karta hai.
+- **A:** Effective tissue perfusion ka matlab hai ki tissues tak blood supply theek se pahunch rahi hai. Di gayi findings se perfusion ke baare mein aisa confirmed conclusion nahi nikal sakte. Isliye A current skin concern ko sahi tarah describe nahi karta.
+- **B:** Acute pain ko documented wound se jodne ke liye pain aur wound ka evidence chahiye. Question mein dono ka evidence nahi diya gaya hai.
+- **C:** Agar open ulcer hota, toh actual skin breakdown ka evidence milta. Question mein koi open ulcer nahi bataya gaya hai, isliye existing injury assume nahi karni chahiye.
+- **D:** Patient move nahi kar paa raha hai aur incontinence bhi hai, isliye skin damage hone ka risk badh sakta hai. Lekin skin abhi intact hai. Isliye D risk diagnosis ke roop mein sahi hai.
 
-**Exam clue:** Risk factor present hone ka matlab actual injury confirmed hona nahi hai.
+**Exam clue:** Risk factor hone se actual injury confirm nahi ho jaati. Skin intact hone par prevention ki zaroorat ko pehchaano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->

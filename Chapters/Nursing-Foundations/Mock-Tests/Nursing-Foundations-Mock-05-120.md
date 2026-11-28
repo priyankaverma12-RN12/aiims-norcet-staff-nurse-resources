@@ -278,16 +278,16 @@ Oxygen ek treatment hai jiska device, flow aur target patient ki clinical requir
 **Correct: C. It sounds like being alone here is difficult for you**
 
 <!-- job5-rationale -->
-Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish karna hai, bina judgment ya false claim ke. Patient alone feel kar raha hai, toh nurse emotion reflect kar sakti hai aur preferred support explore kar sakti hai. Patient permission se family contact ya other appropriate support arrange karo.
+Empathy ka matlab hai patient ki feeling ko samajhne ki koshish karna aur bina judgment us feeling ko acknowledge karna. Yahan family ke jaane ke baad patient akela feel kar raha hai. Nurse keh sakti hai ki yahan akele rehna aapke liye difficult lag raha hai. Isse patient ko apni loneliness ke baare mein aur baat karne ka mauka milta hai. Nurse usse pooch sakti hai ki kaunsi support helpful hogi. Patient ki permission se family contact ya doosri appropriate support arrange ki ja sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A confidential information bina permission share karne ka promise karta hai.
-- **B:** B patient ko grateful hone ke liye judge karta hai.
-- **C:** C loneliness acknowledge karta hai aur understanding show karta hai.
-- **D:** D comparison patient ki feeling minimize karta hai.
+- **A:** Bina permission family ko sab kuch batane ka promise confidentiality violate kar sakta hai. Ye patient ki loneliness samajhne ka appropriate response bhi nahi hai.
+- **B:** Patient ko grateful hona chahiye kehna uski feeling par judgment dena hai. Isse uski emotional need address nahi hoti.
+- **C:** Patient ki loneliness acknowledge karke nurse uski feeling samajhne ki koshish dikhati hai. Isliye B empathy ka sahi example hai.
+- **D:** Doosre patients ki problems se comparison karne par patient ki takleef chhoti dikhayi jaati hai. Har patient ki feeling ko uske context mein samajhna chahiye.
 
-**Exam clue:** Empathy acknowledges feelings without judging them.
+**Exam clue:** Empathy mein patient ki feeling acknowledge karte hain, usse judge ya doosre patients se compare nahi karte.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -415,16 +415,16 @@ Suitable superficial heat local blood vessels ko widen kar sakti hai. Isse vasod
 **Correct: B. Use only approved unambiguous abbreviations and write unclear terms in full**
 
 <!-- job5-rationale -->
-Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medication ya care errors cause kar sakte hain. Approved list aur prohibited abbreviation rules facility policy ke according follow karo. Agar term unclear hai toh full form likho aur unclear orders clarify karo. Units aur numerical notation clear rakho.
+Clinical documentation mein abbreviations se writing ka samay bach sakta hai, lekin unclear symbols aur short forms alag-alag staff members alag meaning mein samajh sakte hain. Isse medicine dose ya care instructions mein error ho sakta hai. Nurse facility ki approved aur prohibited abbreviation lists follow karti hai. Agar kisi term ka meaning unclear hai, toh full form likhti hai. Unclear order ko authorized source se clarify karna chahiye. Units aur numerical notation bhi clear hone chahiye, taaki next healthcare professional ko information sahi samajh aaye.
 
 **Option-by-option reasoning**
 
-- **A:** A personal abbreviations other staff differently interpret kar sakte hain.
-- **B:** B approved clear terms ambiguity reduce karte hain.
-- **C:** C shared interpretation assume karna unsafe hai.
-- **D:** D units aur zero confuse hone se dose errors ho sakte hain.
+- **A:** Personal abbreviation ka meaning doosre staff ko pata nahi ho sakta. Isse patient care mein misunderstanding ka risk badhta hai.
+- **B:** Approved unambiguous abbreviations aur unclear terms ki full form use karne se communication error ka risk kam hota hai. Isliye B sahi hai.
+- **C:** Har staff member har abbreviation ko same tarah samjhega, ye assumption reliable nahi hai. Approved terms use karne chahiye.
+- **D:** Units aur zero ke liye confusing symbol use karne se numerical dose galat padhne ka risk ho sakta hai. Clear notation zaroori hai.
 
-**Exam clue:** When in doubt, write it out and clarify.
+**Exam clue:** Agar abbreviation ka meaning unclear hai, toh full term likho aur unclear order ko clarify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1401,16 +1401,16 @@ New neurological symptoms device-related compression ka sign ho sakte hain. Nurs
 **Correct: B. Assist the patient with prescribed range-of-motion exercises twice daily**
 
 <!-- job5-rationale -->
-Intervention woh planned action hai jo nurse ya care team patient goal achieve karne ke liye karti hai. Range-of-motion ka matlab joint ko allowed range mein move karna hai. Prescribed exercises assist karna action hai. Nurse restrictions aur pain check karke safely assist karti hai. Outcome patient ke function ya symptoms mein desired result hota hai.
+Intervention woh planned action hai jo nurse ya healthcare team patient ke goal ko achieve karne mein madad ke liye karti hai. Range-of-motion ka matlab hai ki joint ko uski allowed range mein move karna. Patient ko prescribed exercises karne mein assist karna ek care action hai. Nurse restrictions aur pain check karke exercises safely karwati hai. Outcome isse alag hai. Outcome mein bataya jaata hai ki care ke baad patient ke function ya symptoms mein kya desired result dekhna hai.
 
 **Option-by-option reasoning**
 
-- **A:** Patient safe walker use demonstrate karega. Yeh desired performance outcome hai.
-- **B:** Exercises assist karna care action hai aur frequency twice daily di gayi hai. B correct hai.
-- **C:** Pain below 3/10 patient-reported expected result hai, action nahi.
-- **D:** Intact skin patient ka desired result hai.
+- **A:** Patient ka walker safely use karke dikhana desired performance hai. Ismein patient se expected result bataya gaya hai, isliye ye outcome hai.
+- **B:** Patient ko prescribed range-of-motion exercises mein assist karna nurse ka planned action hai. Statement mein twice daily frequency bhi di gayi hai. Isliye B intervention hai.
+- **C:** Patient ka pain score 3/10 se kam report karna desired symptom result hai. Ismein nurse ka action nahi bataya gaya hai, isliye ye outcome hai.
+- **D:** Patient ki skin intact rehna prevention care ka desired result hai. Isliye ye outcome hai, na ki nurse ka specific care action.
 
-**Exam clue:** Intervention = nurse kya karegi. Outcome = patient mein kya result hoga.
+**Exam clue:** Intervention mein dekho ki nurse kya action legi. Outcome mein dekho ki patient mein kaunsa result chahiye.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -2883,16 +2883,16 @@ Fever ke saath neck stiffness aur confusion serious CNS infection, jaise meningi
 **Correct: B. A patient with sudden stridor after medication administration**
 
 <!-- job5-rationale -->
-Stridor upper airway mein narrowed passage ke through air movement ki abnormal harsh sound hai. Medicine ke baad sudden stridor anaphylaxis ya doosri acute airway obstruction ka warning sign ho sakta hai. Emergency help activate karo, ABCDE assessment aur airway support shuru karo. Suspected anaphylaxis mein facility emergency protocol aur authorized IM adrenaline management ko delay nahi karna chahiye. Rash ka wait nahi karna hai.
+Stridor ek abnormal harsh breathing sound hai jo upper airway narrow hone par sunai de sakti hai. Maan lo medicine dene ke baad patient ko achanak stridor hone lagta hai. Ye anaphylaxis, yaani serious allergic reaction, ya doosri acute airway obstruction ka warning sign ho sakta hai. Nurse turant emergency help bulati hai, ABCDE assessment aur indicated airway support shuru karti hai. Suspected anaphylaxis mein facility emergency protocol ke hisaab se authorized intramuscular adrenaline management ko delay nahi karna chahiye. Skin rash aane ka wait karna safe nahi hai, kyunki serious airway reaction rash ke bina bhi ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Blanket comfort need hai. Immediate airway threat pehle address hota hai.
-- **B:** Sudden stridor airway danger ka clue hai. B immediate priority hai.
-- **C:** Stable bath routine care hai aur wait kar sakti hai.
-- **D:** Discharge leaflet routine teaching hai aur airway emergency se lower priority hai.
+- **A:** Blanket dene se patient ke comfort mein madad milti hai. Lekin immediate airway threat comfort need se zyada urgent hai.
+- **B:** Medicine ke baad achanak stridor se upper airway danger ka signal milta hai. Patient ki airway aur breathing turant compromise ho sakti hai. Isliye B ko sabse pehle assess karna zaroori hai.
+- **C:** Stable patient ka routine bath hygiene ke liye important hai, lekin immediate life-threatening problem ko address karne tak postpone kiya ja sakta hai.
+- **D:** Discharge leaflet dena patient teaching ka routine hissa hai. Ye important hai, lekin sudden airway problem ke comparison mein wait kar sakta hai.
 
-**Exam clue:** Stridor = airway danger. New medication ke baad sudden onset ko emergency samjho.
+**Exam clue:** Jab medicine ke baad sudden stridor ho, toh airway emergency consider karo aur urgent help bulane mein delay mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -3190,16 +3190,16 @@ Different investigations ki preparation different hoti hai. Nurse procedure-spec
 **Correct: D. The patient's heels remain intact without new nonblanchable discoloration during the shift**
 
 <!-- job5-rationale -->
-Pressure injury prevention ka result patient ki tissue condition se measure hota hai. Nonblanchable discoloration ka matlab pressure hatane ya gentle blanch assessment ke baad color change persist kar sakta hai. Darker skin mein visible redness ke alawa temperature, firmness aur pain compare karna important hai. Defined shift mein heel condition assess karna measurable outcome hai, par baaki pressure areas aur continued risk bhi evaluate karna zaroori hai.
+Pressure injury prevention ka result patient ki skin aur underlying tissue ki condition se evaluate kiya jaata hai. Nonblanchable discoloration ka matlab hai ki skin ka abnormal colour gentle pressure se check karne par temporarily fade nahi hota. Ye pressure-related damage ka warning sign ho sakta hai. Darker skin mein colour change dekhna mushkil ho sakta hai, isliye nurse temperature, firmness aur pain jaise findings bhi compare karti hai. Agar target hai ki shift ke dauran heels intact rahen aur koi naya nonblanchable discoloration na ho, toh nurse defined time ke andar result check kar sakti hai. Baaki pressure areas aur ongoing risk ka assessment bhi zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** Nurse busy hone se patient outcome establish nahi hota.
-- **B:** Hypertension diagnosis pressure injury prevention success ka direct indicator nahi hai.
-- **C:** Risk ongoing ho sakta hai. Future assessment permanently stop nahi karte.
-- **D:** Heels ki skin status aur time interval clear hain. D correct outcome hai.
+- **A:** Nurse busy reh rahi hai ya nahi, isse directly pata nahi chalta ki patient ki skin safe rahi hai. Prevention ka result patient ki condition se measure karna chahiye.
+- **B:** Hypertension ka diagnosis blood pressure se related hai. Ye pressure injury prevention plan successful hua ya nahi, iska direct indicator nahi hai.
+- **C:** Patient mein pressure injury ka risk ongoing reh sakta hai. Isliye goal achieve hone ke baad bhi zaroorat ke hisaab se skin assessment jaari rehni chahiye.
+- **D:** Statement mein heels ki expected skin condition aur shift ka time interval clear hai. Nurse skin assess karke planned outcome evaluate kar sakti hai. Isliye A pressure injury prevention ka suitable outcome hai.
 
-**Exam clue:** Prevention outcome = patient result, not staff workload.
+**Exam clue:** Prevention ka outcome patient mein kya result hua, isse judge karo. Sirf staff kitna busy tha, isse patient outcome establish nahi hota.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3539,16 +3539,16 @@ WHO Moment 2 clean ya aseptic procedure se immediately pehle hand hygiene hai. V
 **Correct: C. Reassess pain characteristics and discuss an adjusted plan with the treatment team**
 
 <!-- job5-rationale -->
-Pain relief na milna evaluation ka important finding hai. Nurse pain location, severity, quality, timing, functional impact, last medicine aur adverse effects assess karti hai. New red flags milne par urgent escalation chahiye. Question mein emergency finding nahi hai, isliye treatment team se safe authorized adjustment discuss karna appropriate hai. Reassessment aur action document karo.
+Operation ke baad prescribed intervention ke bawajood pain relief nahi mil raha hai. Ye evaluation ka important finding hai. Nurse patient se poochti hai ki pain kahan hai, kitna zyada hai, kaisa feel hota hai aur kab se ho raha hai. Woh daily movement par effect, last medicine ka time aur possible adverse effects bhi assess karti hai. Agar nayi red flag milti hai, toh urgent escalation zaroori hai. Question mein koi nayi emergency finding nahi di gayi hai, isliye assessment findings ke basis par treatment team se safe authorized adjustment discuss karna appropriate hai. Nurse reassessment aur action ko document karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Pain present hai, resolved record karna inaccurate hai.
-- **B:** Assessment stop karne se uncontrolled pain ya deterioration miss ho sakta hai.
-- **C:** Reassessment aur team-based adjustment existing plan ko safely improve karte hain. C correct hai.
-- **D:** Extra unprescribed dose se overdose, sedation aur respiratory depression ka risk ho sakta hai.
+- **A:** Patient ka pain abhi present hai. Pain resolve ho gaya likhne se record inaccurate ho jaayega aur actual care need chhup sakti hai.
+- **B:** Pain assessment band karne se nurse ko uncontrolled pain ya condition mein change ka pata nahi chalega. Isliye further assessment aur follow-up zaroori hain.
+- **C:** Reassessment se nurse samajh sakti hai ki existing intervention se expected relief kyun nahi mil raha. Findings treatment team ke saath discuss karke authorized plan adjust kiya ja sakta hai. Isliye C sahi hai.
+- **D:** Unprescribed extra dose dene se medicine ki total dose unsafe ho sakti hai. Overdose, excessive sedation aur respiratory depression ka risk ho sakta hai, isliye nurse bina authorization extra dose nahi deti.
 
-**Exam clue:** Unmet goal par reassess, communicate aur evaluate again.
+**Exam clue:** Agar goal achieve nahi hua hai, toh patient ko reassess karo, findings communicate karo aur adjusted care ka effect dobara evaluate karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -3603,16 +3603,16 @@ Dose error severe ya delayed effects cause kar sakta hai. Nurse patient assessme
 **Correct: C. Notify the responsible clinician promptly, confirm receipt and document the action**
 
 <!-- job5-rationale -->
-Closed-loop communication mein message bhejna enough nahi hota. Sender ensure karta hai ki right receiver ne message receive aur understand kiya hai. Critical result ke saath deterioration ho toh immediate patient assessment, urgent escalation aur policy ke according confirmation zaroori hai. Notification ka time, receiver aur actions accurately document karo.
+Closed-loop communication mein nurse sirf message bhejkar ye assume nahi karti ki saamne wale ne use samajh liya hai. Woh ensure karti hai ki correct receiving clinician ko information mil gayi hai aur important message confirm hua hai. Agar deteriorating patient ka critical lab result aata hai, toh prompt patient assessment aur urgent escalation zaroori hai. Nurse responsible clinician ko protocol ke according notify karti hai aur receipt confirm karti hai. Notification ka time, recipient aur actual actions accurately document karne chahiye. Agar concern resolve nahi hota, toh applicable escalation pathway follow karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A visitor clinical communication chain ka appropriate substitute nahi hai.
-- **B:** B unread message se receipt establish nahi hoti.
-- **C:** C timely notification, confirmation aur record loop close karte hain.
-- **D:** D routine rounds ka wait deterioration worsen kar sakta hai.
+- **A:** Visitor responsible clinical communication chain ka substitute nahi hai. Critical information authorized healthcare professional ko directly communicate karni chahiye.
+- **B:** Unread message se ye establish nahi hota ki responsible clinician ko critical finding pata chal gayi hai. Nurse ko appropriate confirmation lena chahiye.
+- **C:** Prompt notification, receipt confirmation aur actual action record karne se communication loop complete karne mein madad milti hai. Isliye C sahi hai.
+- **D:** Deteriorating patient ke critical result par routine round ka wait karne se urgent care delay ho sakti hai.
 
-**Exam clue:** Send, confirm receipt, act and document.
+**Exam clue:** Critical message promptly communicate karo, receipt confirm karo, zaroori action follow karo aur actual communication document karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3798,16 +3798,16 @@ Weight = 66 lb/2.2 lb/kg = 30 kg. Dose = 30 × 2 = 60 mg. Reverse: 60/2 × 2.2 =
 **Correct: A. Identify the pending result and assign responsibility for follow-up**
 
 <!-- job5-rationale -->
-Transfer ke samay pending result ek unfinished clinical responsibility hai. Handover mein test name, collection status, clinical importance, expected availability aur follow-up owner clear karo. Receiving team se responsibility acknowledge karvao. Agar critical result aa jaaye toh escalation plan follow karo. Pending ko normal result ki tarah record mat karo.
+Ward transfer ke waqt pending laboratory result sirf information nahi hai, balki ek aisi clinical responsibility hai jo abhi complete nahi hui hai. Nurse handover mein batati hai ki kaunsa test pending hai, sample collect hua ya nahi, result kab expected hai aur result kyun important hai. Woh clear karti hai ki follow-up ka responsible person kaun hoga. Receiving team se acknowledgment milni chahiye. Agar result critical aaye, toh applicable escalation plan follow karna chahiye. Jab tak result aaya nahi hai, use normal ya abnormal assume karke record nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A pending test aur follow-up responsibility clarify karta hai.
-- **B:** B automatic discovery assume karne se result miss ho sakta hai.
-- **C:** C important unfinished task hide karta hai.
-- **D:** D unreported result ko normal likhna inaccurate hai.
+- **A:** Pending test identify karne aur follow-up responsibility clear karne se result timely review hone mein madad milti hai. Isliye A sahi hai.
+- **B:** Receiving nurse automatically result discover kar legi, ye assume karna safe nahi hai. Handover mein pending task aur ownership explicitly communicate karni chahiye.
+- **C:** Result abhi nahi aaya hai, lekin test ka follow-up important ho sakta hai. Pending task omit karne se receiving team ko uski zaroorat ka pata nahi chalega.
+- **D:** Unreported result ko normal likhna inaccurate documentation hai aur wrong clinical decision ka risk create kar sakta hai.
 
-**Exam clue:** Handover transfers responsibility, not only information.
+**Exam clue:** Handover mein sirf information mat do. Pending task ka responsible person aur follow-up plan bhi clear karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
