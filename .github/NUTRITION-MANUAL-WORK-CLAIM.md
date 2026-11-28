@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-carbohydrate-balance-20261128T1736Z
+Scope: Isolated PR35 additive carbohydrate foundational difficulty supplement only; no navigation, production, other job or schedule edits.
+Claimed UTC: 2026-11-28T17:36:03Z
+Expiry UTC: 2026-11-28T18:06:03Z
 
 ## Latest released checkpoint — 10C diarrhoea dietary care
 
