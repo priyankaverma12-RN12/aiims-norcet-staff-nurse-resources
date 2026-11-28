@@ -77,26 +77,26 @@
 
 </details>
 
-### Q4. Which laboratory cell type is counted in ascitic fluid to assess the standard SBP diagnostic criterion?
+### Q4. Which antibiotic belongs to the third-generation cephalosporin class used in selected community-acquired SBP cases when local susceptibility supports it?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Erythrocytes only
-- **B.** Polymorphonuclear neutrophils
-- **C.** Platelets only
-- **D.** Eosinophils only
+- **A.** Vancomycin
+- **B.** Metronidazole
+- **C.** Cefotaxime
+- **D.** Azithromycin
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: B. Polymorphonuclear neutrophils**
+**Correct: C. Cefotaxime**
 
 **Option-wise explanation:**
-- **A (Galat):** RBC count bloody sample interpretation mein useful ho sakta hai but main SBP criterion nahi.
-- **B (Sahi):** Ascitic PMN count infection assessment ka central component hai. Bacterial culture complementary information deti hai.
-- **C (Galat):** Platelets ascitic infection criterion establish nahi karte.
-- **D (Galat):** Eosinophils standard SBP neutrophil criterion nahi hain.
+- **A (Galat):** Vancomycin glycopeptide antibiotic hai, third-generation cephalosporin nahi.
+- **B (Galat):** Metronidazole nitroimidazole antimicrobial hai aur is antibiotic class ka member nahi hai.
+- **C (Sahi):** Cefotaxime third-generation cephalosporin hai aur susceptible community-acquired SBP mein ek established option hai. Local resistance, allergy aur clinical severity ke hisaab se prescriber regimen select karta hai.
+- **D (Galat):** Azithromycin macrolide antibiotic hai, cephalosporin nahi.
 
-**Exam clue:** Ascitic neutrophils are the key cell count.
+**Exam clue:** Cefotaxime is a third-generation cephalosporin; empirical SBP therapy depends on local resistance and patient risk.
 
 </details>
 
