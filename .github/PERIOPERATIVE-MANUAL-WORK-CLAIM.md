@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: perioperative-1000-b01-20261128-0915Z
-Scope: Isolated draft Perioperative Nursing surgical safety checklist topic bank only, no shared navigation or other workstreams.
+Scope: Isolated draft Perioperative Nursing topic banks, concept guides, diagrams and evidence registers (including preoperative, positioning and recovery), no shared navigation or other workstreams.
 Claimed UTC: 2026-11-28T09:15:20Z
 Expiry UTC: 2026-11-28T09:45:20Z
 
