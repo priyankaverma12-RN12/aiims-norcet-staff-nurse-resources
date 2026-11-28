@@ -740,7 +740,7 @@
 
 **Exam clue:** Gait practice mein route awareness bhi assess karo.
 
-**Clinical reference:** [Mobility guidance](https://medlineplus.gov/ency/patientinstructions/000343.htm).
+**Clinical reference:** [Mobility guidance](https://medlineplus.gov/ency/patientinstructions/000344.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -779,32 +779,32 @@
 
 ---
 
-### Q26. A nurse has two patients using crutches. One has a prescribed non-weight-bearing gait and the other has bilateral weight-bearing permission. Which documentation best prevents unsafe instruction at handover?
+### Q26. A patient using two axillary crutches has been assessed and trained to descend steps with a fixed handrail. The prescribed technique requires one hand on the rail. How should the patient manage the crutches during this trained maneuver?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Gait-specific handover
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Handrail and crutch management
 
-- **A.** Record 'crutches' alone for both patients
-- **B.** Record each patient's specific gait, permitted limb loading and current assistance level
-- **C.** Record the crutch brand and omit the gait pattern
-- **D.** Record walking distance without the loading restriction
+- **A.** Use one crutch on each side and release the handrail throughout the descent
+- **B.** Hold both crutches securely in the opposite hand as trained while using the rail for support
+- **C.** Leave both crutches at the top and descend using the rail alone without reassessment
+- **D.** Ask a companion to carry both crutches while continuing the previously prescribed crutch-dependent gait
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Record each patient's specific gait, permitted limb loading and current assistance level**
+**Correct answer: B. Hold both crutches securely in the opposite hand as trained while using the rail for support**
 
-**A. Kyun galat hai:** Sirf device name se permitted load aur gait pattern pata nahi chalta. Dono patients ki restrictions different hain.
+**A. Kyun galat hai:** Ek crutch har side mein rakhna bina rail wali taught technique ka part ho sakta hai. Lekin is patient ke liye assessed plan mein rail support required hai. Rail chhodne se support pattern badal jaayega, isliye prescribed technique maintain karo.
 
-**B. Kyun sahi hai:** Specific gait, limb loading aur assistance level document karne se next team safe instruction maintain kar sakti hai. Nayi condition mein reassessment phir bhi karo.
+**B. Kyun sahi hai:** Handrail ek fixed support provide karti hai. Agar therapist ne patient ko suitable rail-assisted technique sikhayi hai, toh ek hand rail ke liye free rakhna hota hai aur dono crutches ko doosre hand mein secure manage karna hota hai. Actual step sequence aur affected limb ki loading restriction training ke according follow karo. Agar patient is technique ko safely perform nahi kar sakta toh assistance ya alternate access arrange karo.
 
-**C. Kyun galat hai:** Brand equipment identification mein useful ho sakta hai, lekin clinical gait order replace nahi karta.
+**C. Kyun galat hai:** Rail alone patient ko required limb unloading ya balance support provide karegi, ye assume nahi karna chahiye. Dono crutches chhodne se assessed support plan change ho jaata hai. Pehle therapist se reassessment chahiye.
 
-**D. Kyun galat hai:** Distance functional progress batati hai, lekin loading restriction omit karne se next nurse wrong technique teach kar sakti hai.
+**D. Kyun galat hai:** Companion equipment carry kar sakta hai jab separate safe technique approve ho. Lekin yahan gait abhi crutch support par dependent hai. Dono crutches hata dene se same gait maintain nahi ho sakti.
 
-**Exam clue:** Gait documentation mein device ke saath load order bhi record karo.
+**Exam clue:** Rail-assisted crutch technique mein hand placement, required support aur weight-bearing restriction ko saath verify karo.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [MedlinePlus crutches, stairs](https://medlineplus.gov/ency/patientinstructions/000344.htm).
 
-**YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
+**YouTube MCQ practice:** Item-specific verification pending.
 
 </details>
 
