@@ -908,15 +908,19 @@
 - [Open RN respiratory alterations](https://www.ncbi.nlm.nih.gov/sites/books/NBK613070/) — Q1–6, respiratory basics and assessment.
 - [Lung physiology](https://www.ncbi.nlm.nih.gov/books/NBK545177/) — Q1–6, volumes and gas exchange.
 - [CDC pneumonia](https://www.cdc.gov/pneumonia/about/) — Q7–8, bacterial and viral causes. Classic sputum association needs independent review.
-- [GINA 2026 executive summary](https://academic.oup.com/ajrccm/article/212/12/2919/8885525) — Q9–10.
+- [GINA 2026 summary guide](https://ginasthma.org/2026-gina-summary-guide/) — Q9–10.
 - [BTS oxygen guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC5531304/) — Q21, Q30.
-- [CDC TB treatment](https://www.cdc.gov/tb/treatment/active-tuberculosis-disease.html) — Q16–17.
+- [CDC adverse events during TB treatment](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html) — Q16–17.
 - [MSD respiratory failure overview](https://www.msdmanuals.com/professional/critical-care-medicine/respiratory-failure-and-mechanical-ventilation/overview-of-respiratory-failure) — Q18, Q22.
-- [BTS pleural procedures](https://www.brit-thoracic.org.uk/clinical-resources/clinical-statements/pleural-procedures/) — Q19–20, Q29.
+- [BTS clinical statement on pleural procedures](https://thorax.bmj.com/content/78/Suppl_3/s43) — Q19–20, Q29.
 - [Abnormal respirations](https://www.ncbi.nlm.nih.gov/sites/books/NBK470309/) — Q23–24.
 - [CDC lung cancer types](https://www.cdc.gov/united-states-cancer-statistics/publications/lung-cancer-types.html) — Q25 (US data, not India-specific).
 - [MSD tension pneumothorax](https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/tension-pneumothorax) — Q26.
-- [AARC suctioning guideline](https://www.aarc.org/wp-content/uploads/2022/10/cpg-artificial-airway-suctioning.pdf) — Q27.
+- [AARC 2022 artificial airway suctioning guideline](https://pubmed.ncbi.nlm.nih.gov/35078900/) — Q27.
 - [AARC airway clearance guideline](https://pubmed.ncbi.nlm.nih.gov/24222709/) — Q28.
 
 Evidence search extracts were inspected. Independent item-level clinical review, Q11–15 specific references, full source verification and 30 question-level video mappings remain pending.
+
+### Focused evidence check — 28 November 2026
+
+Search extracts from the GINA 2026 summary guide, CDC TB adverse-event guidance, BTS oxygen guidance and AARC 2022 suctioning guideline support Q9–10, Q16–17, Q21, Q27 and Q30 with the existing clinical qualifications. AARC guidance specifies a maximum of 15 seconds per suctioning procedure and preoxygenation for pediatric and adult patients. [AARC incentive spirometry guideline](https://pubmed.ncbi.nlm.nih.gov/22008401/) does not recommend incentive spirometry alone for routine prevention of postoperative pulmonary complications (Q28). [GOLD 2026 report](https://goldcopd.org/2026-gold-report-and-pocket-guide/) landing page located for Q11–14; detailed historical phenotype and Q15 source-level review remain outstanding. [Lung physiology](https://www.ncbi.nlm.nih.gov/sites/books/NBK545177/) and [lung capacity](https://www.ncbi.nlm.nih.gov/books/NBK541029/?report=classic) search extracts support gas exchange, diaphragm innervation and variable lung volumes. This focused check is not an independent complete clinical review or video verification.
