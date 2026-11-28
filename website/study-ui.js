@@ -10,7 +10,7 @@ function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
 async function showMetrics(){
  $('home').hidden=true;$('reader').hidden=true;$('metrics').hidden=false;document.title='Study metrics | Nursing Study Hub';
- const data=await getMetrics();if(!data){$('metrics-status').textContent='Question counts are not available right now. You can still study in the Library.';return}
+ const data=await getMetrics();if(!data){$('metrics-status').textContent='Question counts could not load. Your study progress is safe.';const retry=node('button','Try again');retry.type='button';retry.onclick=()=>location.reload();$('metrics-status').after(retry);return}
  progressCatalog=completionRecords(data);const requested=params.get('chapter'),select=$('metrics-chapter'),category=$('metrics-category'),search=$('metrics-search'),grid=$('metrics-totals'),list=$('metrics-list');
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;select.append(o)}if(data.chapters.some(c=>c.id===requested))select.value=requested;
  $('metrics-status').textContent='Counts updated · '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'})+' · '+data.sourceCommit.slice(0,8);

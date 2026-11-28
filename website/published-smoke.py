@@ -409,6 +409,44 @@ with sync_playwright() as p:
         expect(page.locator(".study-mode-guide")).to_be_visible()
         fit()
         print(f"V11 home, library, chapter tabs, reader controls, practice, metrics and progress polish passed at {width}x{height}.",flush=True)
+        # Cross-tab completion and saved question practice with real source.
+        page.get_by_role("button",name="Quick 5-question practice").click()
+        expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 5")
+        stem=page.locator(".question-stem").first.inner_text()
+        page.locator("button[data-bookmark-stem]").first.click()
+        expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","true")
+        other=ctx.new_page()
+        other.goto(base+"?build="+commit+"#bookmarks")
+        expect(other.locator("#marks .saved-practice-link").first).to_be_visible(timeout=30000)
+        other.locator("#marks .saved-practice-link").first.click()
+        expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
+        expect(other.locator(".question-stem").first).to_have_text(stem)
+        expect(other.get_by_role("button",name="Check answer")).to_be_disabled()
+        other.locator("button[data-bookmark-stem]").first.click()
+        expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","false")
+        other.close()
+        go({"doc":sample})
+        ready()
+        second=ctx.new_page()
+        second.goto(base+"?"+urlencode({"doc":sample,"build":commit}))
+        expect(second.locator("#reader-completion input")).to_be_visible(timeout=30000)
+        if second.locator("#reader-completion input").is_checked():
+            second.locator("#reader-completion input").uncheck()
+            expect(page.locator("#reader-completion input")).not_to_be_checked()
+        second.locator("#reader-completion input").check()
+        expect(page.locator("#reader-completion input")).to_be_checked()
+        expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("100%")
+        second.close()
+        # Test genuine dark mode and reduced-motion CSS without changing study data.
+        if page.locator("html").get_attribute("data-theme")!="dark":
+            page.locator("#theme").click()
+        expect(page.locator("html")).to_have_attribute("data-theme","dark")
+        fit()
+        assert page.locator(".reader-head").evaluate("e=>getComputedStyle(e).animationName")== "none"
+        # Exercise named anchors with a real browser DOM; actual historical source aliases remain covered by PR8 tests.
+        assert page.evaluate("""()=>{const root=document.createElement('div'),p=document.createElement('p'),a=document.createElement('a'),h=document.createElement('h2');a.name='old heading';p.append(a);root.append(p,h);return studyFragmentTarget(root,'#old%20heading')===h&&studyFragmentTarget(root,'#%zz')===null}""")
+        print(f"V11.1 cross-tab completion, saved-question practice, fragment resolver and dark reduced-motion UI passed at {width}x{height}.",flush=True)
+
 
 
 
