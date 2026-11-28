@@ -81,53 +81,53 @@
 
 </details>
 
-### Q4. Which surgical connection restores the passage of bile into the intestine following selected pancreaticoduodenectomy procedures?
+### Q4. Which anatomical structure is called the ampulla of Vater and is relevant when planning periampullary pancreatic surgery?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Nephrostomy
-- **B.** Tracheostomy
-- **C.** Hepaticojejunostomy
-- **D.** Colostomy
+- **A.** The junction between the stomach and esophagus
+- **B.** The point where the ureter enters the bladder
+- **C.** The common opening region where the bile and pancreatic ducts join before entering the duodenum
+- **D.** The opening of the appendix into the cecum
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Hepaticojejunostomy**
+**Correct answer: C. The common opening region where the bile and pancreatic ducts join before entering the duodenum**
 
-**A. Kyun galat hai:** Nephrostomy kidney se urine drainage ka route hai.
+**A. Kyun galat hai:** Ye gastroesophageal junction hai, ampulla of Vater nahi.
 
-**B. Kyun galat hai:** Tracheostomy airway opening hai.
+**B. Kyun galat hai:** Ye urinary anatomy hai aur pancreatic surgery ke ampulla se unrelated hai.
 
-**C. Kyun sahi hai:** Hepatic bile duct ko jejunum se connect karke bile flow ka naya route banaya ja sakta hai.
+**C. Kyun sahi hai:** Ampulla Vater bile duct aur pancreatic duct ke junction region mein hoti hai. Yahan ke tumor ke liye pancreaticoduodenectomy consider ho sakti hai.
 
-**D. Kyun galat hai:** Colostomy colon se stool drainage opening hai.
+**D. Kyun galat hai:** Ye appendiceal opening hai, bile aur pancreatic ducts ka junction nahi.
 
-**Exam clue:** Hepatico-jejunostomy connects bile duct and jejunum.
+**Exam clue:** The ampulla lies at the duodenal duct outlet.
 
 </details>
 
-### Q5. Which endocrine hormone may need replacement if pancreatic tissue removal leads to insufficient glucose regulation?
+### Q5. Which structure controls passage of gastric contents from the stomach into the duodenum and is retained in a pylorus-preserving Whipple procedure?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Melatonin
-- **B.** Thyroxine
-- **C.** Oxytocin
-- **D.** Insulin
+- **A.** Lower esophageal sphincter
+- **B.** Ileocecal valve
+- **C.** Anal sphincter
+- **D.** Pyloric sphincter
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Insulin**
+**Correct answer: D. Pyloric sphincter**
 
-**A. Kyun galat hai:** Melatonin pineal gland se related hormone hai. Ye insulin deficiency replace nahi karta.
+**A. Kyun galat hai:** Ye esophagus aur stomach ke junction par reflux control mein role rakhta hai.
 
-**B. Kyun galat hai:** Thyroxine thyroid hormone hai, glucose-lowering insulin replacement nahi.
+**B. Kyun galat hai:** Ye terminal ileum aur cecum ke junction par hota hai.
 
-**C. Kyun galat hai:** Oxytocin uterine contraction aur milk let-down se related hai.
+**C. Kyun galat hai:** Ye stool continence mein role rakhta hai, gastric outlet nahi hai.
 
-**D. Kyun sahi hai:** Pancreatic beta cells insulin banati hain. Tissue loss ke baad insulin production inadequate ho sakti hai aur prescribed replacement ki need ho sakti hai.
+**D. Kyun sahi hai:** Pyloric sphincter stomach outlet par hota hai aur gastric emptying regulate karta hai. Pylorus-preserving procedure is region ko retain karti hai.
 
-**Exam clue:** Pancreatic endocrine loss may require insulin.
+**Exam clue:** Pyloric sphincter regulates gastric emptying.
 
 </details>
 
