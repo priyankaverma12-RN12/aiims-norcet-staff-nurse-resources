@@ -1,0 +1,24 @@
+# Surgical instrument evidence
+
+20 original questions and 80 individual rationales; 7 Easy, 7 Medium, 6 Difficult author-estimated. AORN instrument categories and 20 common instrument descriptions directly retrieved, lines 5–169. No proprietary image reuse. Conventional blade group, tissue selection and combined intraoperative tasks are original applications. Earlier PR58 accounting and energy banks do not address these specific instrument selections. Some distractor functions (Backhaus and Potts) supported by indexed surgical instrument teaching sources, additional source confirmation and independent calibration pending. Repeated underlying functions in combined applications require semantic review, including Musculoskeletal and OBG. No historical question or exact video authentication.
+
+- Q1: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which instrument category is primarily used to expose a surgical site by moving tissue aside?
+- Q2: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which scissors are commonly selected to cut sutures rather than delicate dissected tissue?
+- Q3: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which forceps are designed for gentle grasping of delicate tubular structures such as bowel?
+- Q4: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which instrument is used to control a curved suture needle during wound closure?
+- Q5: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which instrument is commonly used to grasp delicate vascular tissue during dissection?
+- Q6: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which hand-held retractor is commonly used for superficial surgical exposure?
+- Q7: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — Which instrument has a bendable blade that can be shaped to suit the patient's anatomy for exposure?
+- Q8: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — During closure, the surgeon requests a small forceps to hold the skin edge. Which instrument should the scrub nurse select from the standard tray?
+- Q9: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — The surgeon requests an instrument to divide thick fascia. Which scissors are the better match?
+- Q10: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A deep abdominal operative site needs hand-held exposure of abdominal contents. Which available instrument best fits the request?
+- Q11: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — The surgeon asks for a toothed crushing clamp to secure tough tissue intended for removal. Which is the best match?
+- Q12: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A relatively large vessel is to be temporarily occluded before ligation using the available general surgical clamps. Which instrument fits the stated purpose?
+- Q13: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A standard No. 15 blade is requested for a small incision using a conventional scalpel handle. Which handle is compatible?
+- Q14: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A surgeon requests an instrument with a right-angle jaw to dissect around a deep structure. Which instrument should be selected?
+- Q15: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A surgeon intends to grasp a viable bowel loop gently, then divide nearby delicate connective tissue. Which pair best matches both actions?
+- Q16: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A deep narrow incision requires a small blade but additional handle length for access. Which standard handle-blade combination best meets the request?
+- Q17: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — During abdominal closure, a nurse notices that the surgeon's requested Metzenbaum scissors are about to be used repeatedly to cut sutures. Which practical response is best?
+- Q18: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A scrub nurse prepares a closure pair for dense tissue. One instrument must grasp dense tissue and the other must hold the suture needle. Which pair is most appropriate?
+- Q19: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — A team needs a large conventional blade to make a deeper incision through heavy tissue and an instrument to divide thick fascia. Which tray combination is compatible?
+- Q20: [AORN](https://info.aorn.org/New-Member-Instrument-Resource.html) — During closure, a request for a small hand-held retractor with a blunt or sharp end is followed by a request for a noncrushing grasper for delicate tissue. Which pair should be available?
