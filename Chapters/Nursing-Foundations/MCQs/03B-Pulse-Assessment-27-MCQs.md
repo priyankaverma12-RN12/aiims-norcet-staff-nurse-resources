@@ -17,17 +17,16 @@
 
 **Correct answer: D. The examiner's own thumb pulsation may be mistaken for the patient's pulse**
 
-<!-- job5-rationale -->
-Radial pulse artery ki pressure wave hai, jo har effective ventricular contraction ke baad wrist tak pahunchti hai. Index aur middle finger ke pads gently use karo. Examiner ke thumb mein apni arterial pulsation prominent ho sakti hai, isliye patient aur examiner ki pulse confuse ho sakti hai. Excessive pressure kisi bhi finger se artery compress kar sakta hai.
+Jab heart blood ko arteries mein pump karta hai, toh pressure ki ek wave wrist tak travel karti hai. Radial pulse assess karte waqt nurse isi wave ko fingers se feel karti hai. Nurse index aur middle fingers ke soft pads use karti hai. Thumb mein examiner ki khud ki arterial pulsation prominent ho sakti hai. Maan lo patient ki pulse bahut weak hai aur nurse thumb use kar rahi hai. Nurse apni pulse ko patient ki pulse samajh sakti hai. Kisi bhi finger se bahut zyada pressure lagane par artery compress ho sakti hai, isliye gentle pressure bhi important hai.
 
 **Option-by-option reasoning**
 
-- **A:** Thumb ka use har baar artery completely obstruct nahi karta. Pressure bhi matter karta hai.
-- **B:** Thumb arterial pulse bhi feel kar sakta hai, sirf venous flow nahi.
-- **C:** Palpation mechanical pressure wave detect karti hai, electrical rhythm ECG se assess hota hai.
-- **D:** Own thumb pulsation patient ki pulse samajhne ka risk correct reason hai.
+- **A:** Thumb har baar artery ko completely block nahi karta. Artery compress hogi ya nahi, ye applied pressure par bhi depend karta hai.
+- **B:** Thumb se arterial pulsation bhi feel ho sakti hai. Sirf venous flow detect hone ki baat correct nahi hai.
+- **C:** Palpation se mechanical pressure wave feel hoti hai. Heart ki electrical rhythm assess karne ke liye ECG use hota hai.
+- **D:** Examiner ki khud ki thumb pulsation patient ki pulse se confuse ho sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Use finger pads, not thumb.
+**Exam clue:** Radial pulse feel karne ke liye index aur middle fingers ke pads se gentle pressure use karo, thumb se nahi.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -56,17 +55,16 @@ Radial pulse artery ki pressure wave hai, jo har effective ventricular contracti
 
 **Correct answer: C. Record rate and observed irregularity, assess clinical context and arrange rhythm evaluation as indicated**
 
-<!-- job5-rationale -->
-Pulse rate 84/min adult resting range mein ho sakti hai, lekin regularity separately assess karni hoti hai. Early beats aur pauses premature contractions ya other rhythm variation suggest kar sakte hain. Full minute pulse count karo, symptoms, BP aur perfusion assess karo aur appropriate ECG evaluation arrange karo. Palpation se exact rhythm diagnosis confirm nahi hota.
+Pulse rate batati hai ki ek minute mein kitni palpable beats mil rahi hain, jabki rhythm batati hai ki un beats ke beech ka interval regular hai ya nahi. Is patient ki rate 84/min hai, jo adult resting range mein ho sakti hai. Lekin baar-baar early beats aur pauses milna rhythm abnormality ka clue hai. Nurse full minute pulse count karti hai aur symptoms, BP aur perfusion assess karti hai. Premature contractions ya doosri rhythm variations possible hain. Exact rhythm identify karne ke liye indicated ECG evaluation arrange ki ja sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Atrial fibrillation diagnosis ECG evidence ke bina establish nahi hota.
-- **B:** Early palpable beats remove karne se actual pulse rate aur pattern inaccurately record hoga.
-- **C:** Rate, irregularity aur clinical context accurately record karna correct hai.
-- **D:** Normal rate ka matlab normal rhythm nahi hai.
+- **A:** Sirf pulse feel karke atrial fibrillation confirm nahi kar sakte. Specific rhythm diagnosis ke liye appropriate electrical rhythm evidence chahiye.
+- **B:** Jo early beats actually feel hui hain, unhe count se hataane par recorded rate aur observed pattern inaccurate ho sakte hain.
+- **C:** Actual rate aur irregularity record karna, patient ko assess karna aur indicated rhythm evaluation arrange karna appropriate hai. Isliye C sahi hai.
+- **D:** 84/min rate expected range mein ho sakti hai, lekin usse rhythm normal prove nahi hoti. Dono characteristics alag assess karni chahiye.
 
-**Exam clue:** Rate and rhythm are separate findings.
+**Exam clue:** Normal pulse rate ke bawajood rhythm irregular ho sakti hai. Rate aur rhythm ko separately record karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -95,17 +93,16 @@ Pulse rate 84/min adult resting range mein ho sakti hai, lekin regularity separa
 
 **Correct answer: B. One complete S1–S2 sound pair**
 
-<!-- job5-rationale -->
-S1 aur S2 ek cardiac cycle ke main heart sounds hain. S1 usually AV valve closure aur systole ki beginning ke saath associated hai. S2 semilunar valve closure aur diastole ki beginning ke saath associated hai. Ek lub-dub pair ko one beat count karo. Regular rate mein bhi apical assessment ke liye full minute counting useful hai.
+Heart ko stethoscope se sunne par normally lub-dub jaisi sounds sunai deti hain. Lub ko S1 kehte hain, jo usually atrioventricular valves ke close hone aur systole shuru hone se associated hai. Dub ko S2 kehte hain, jo semilunar valves ke close hone aur diastole shuru hone se associated hai. Ek S1 aur uske baad ek S2 milkar ek cardiac cycle ki main sound pair banate hain. Nurse poore lub-dub pair ko ek heartbeat count karti hai. Apical heart rate assess karne ke liye full minute counting useful hai.
 
 **Option-by-option reasoning**
 
-- **A:** Respiratory sounds breathing represent karte hain, cardiac beats nahi.
-- **B:** S1–S2 ka complete pair ek cycle hai.
-- **C:** Dono sounds ko separately beat count karne se rate roughly double ho jayega.
-- **D:** Har second pair count karne se actual rate underestimate hoga.
+- **A:** Respiratory sounds air movement se related hain. Unhe heartbeat count mein include nahi karna chahiye.
+- **B:** Ek complete S1–S2 pair ek heartbeat represent karta hai. Isliye B sahi hai.
+- **C:** S1 aur S2 ko alag beats count karne se ek heartbeat do baar count hogi aur rate lagbhag double ho jaayegi.
+- **D:** Har doosra pair hi count karne se actual heartbeats miss hongi aur rate underestimate ho jaayegi.
 
-**Exam clue:** One lub-dub equals one beat.
+**Exam clue:** Apical pulse count karte waqt ek complete lub-dub ko ek heartbeat maano.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -134,17 +131,16 @@ S1 aur S2 ek cardiac cycle ke main heart sounds hain. S1 usually AV valve closur
 
 **Correct answer: A. Left fifth intercostal space near the midclavicular line**
 
-<!-- job5-rationale -->
-Adult mein ordinary anatomy ke saath apical impulse aur mitral auscultation area usually left fifth intercostal space near midclavicular line hota hai. Clavicle ke midpoint se imaginary vertical line identify karo aur rib spaces carefully count karo. Body position, cardiac enlargement ya anatomy se apex shift ho sakta hai. Clinical finding ke according site adjust karo.
+Apical heart rate assess karne ke liye nurse stethoscope ko heart ke apex ke suitable auscultation area par rakhti hai. Ordinary adult anatomy mein ye usually left fifth intercostal space mein midclavicular line ke paas hota hai. Intercostal space ka matlab do ribs ke beech ki jagah hai. Midclavicular line clavicle ke midpoint se neeche jaane wali imaginary line hai. Nurse ribs aur spaces carefully identify karti hai. Patient ki position, anatomy ya cardiac enlargement ki wajah se apical location vary kar sakti hai, isliye actual findings bhi consider karo.
 
 **Option-by-option reasoning**
 
-- **A:** Left fifth intercostal space near midclavicular line usual adult apex hai.
-- **B:** Right second intercostal parasternal area aortic sounds ke liye hai.
-- **C:** Left second intercostal parasternal area pulmonic sounds ke liye hai.
-- **D:** Umbilicus ke below midline usual apical heart sound site nahi hai.
+- **A:** Left fifth intercostal space near midclavicular line usual adult apical assessment landmark hai. Isliye A sahi hai.
+- **B:** Right second intercostal space sternum ke paas aortic valve area ke sounds assess karne ka common landmark hai. Ye usual apical site nahi hai.
+- **C:** Left second intercostal space sternum ke paas pulmonic valve area ka common landmark hai. Ye usual apical site se alag hai.
+- **D:** Umbilicus ke neeche midline abdominal area hai. Ordinary adult apical heart sounds assess karne ka usual site nahi hai.
 
-**Exam clue:** Apex: left fifth ICS, MCL.
+**Exam clue:** Usual adult apex left fifth intercostal space mein midclavicular line ke paas hota hai. Anatomy vary ho toh assessment accordingly adjust karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -173,17 +169,16 @@ Adult mein ordinary anatomy ke saath apical impulse aur mitral auscultation area
 
 **Correct answer: C. Separate intervals may introduce rate variation and obscure the actual deficit**
 
-<!-- job5-rationale -->
-Pulse deficit = apical heart rate minus radial pulse rate, same time interval mein. Kuch ventricular contractions peripheral artery tak palpable pressure wave generate nahi karte. Do trained observers same 60-second period mein apical aur radial rates count kar sakte hain. Example apical 96 aur radial 82 ho toh deficit 14/min hai. Sequential counting mein actual heart rate change difference ko distort kar sakta hai.
+Pulse deficit tab calculate karte hain jab apical heart rate aur palpable radial pulse rate mein difference check karna ho. Kuch cardiac contractions se wrist tak sufficient palpable pressure wave nahi pahunchti. Dono rates ek hi interval mein count karna zaroori hai, kyunki heart rate khud time ke saath badal sakti hai. Ideally do trained observers same 60 seconds mein apical aur radial rates count karte hain. Maan lo simultaneous apical rate 96/min aur radial rate 82/min hai. Pulse deficit 96 − 82 = 14/min hoga. Alag-alag time ki readings ka difference actual deficit ko distort kar sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Heart rate time ke saath fluctuate kar sakti hai.
-- **B:** Radial rate alone se missing peripheral beats calculate nahi hote.
-- **C:** Simultaneous interval variation ka error kam karta hai.
-- **D:** Measurement arrhythmia treat nahi karti, assessment mein help karti hai.
+- **A:** Heart rate different intervals mein change ho sakti hai. Isliye separately measured rates hamesha identical hone ki guarantee nahi hai.
+- **B:** Radial rate alone se ye pata nahi chalta ki usi waqt heart kitni baar beat kar raha tha. Difference ke liye apical rate bhi chahiye.
+- **C:** Same interval mein measurement karne se time-related heart rate variation ki wajah se hone wala error kam hota hai. Isliye C sahi hai.
+- **D:** Simultaneous assessment ek measurement technique hai. Ye arrhythmia ka treatment nahi hai.
 
-**Exam clue:** Same minute: apical minus radial.
+**Exam clue:** Pulse deficit ke liye apical aur radial rates same time interval mein count karke difference nikaalo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -212,17 +207,16 @@ Pulse deficit = apical heart rate minus radial pulse rate, same time interval me
 
 **Correct answer: B. Rhythm and amplitude are independent pulse characteristics**
 
-<!-- job5-rationale -->
-Rhythm consecutive beats ke time intervals ki regularity batata hai. Amplitude pressure wave ki palpable strength batati hai. Rate per minute beats hai. Patient ka pulse perfectly regular lekin weak ho sakta hai, jaise low stroke volume ya peripheral perfusion concern mein. Clinical signs assess karo, ek characteristic se doosri infer mat karo.
+Pulse rate, rhythm aur amplitude alag characteristics hain. Rate ek minute mein beats ki sankhya batati hai. Rhythm se pata chalta hai ki beats regular intervals par aa rahi hain ya nahi. Amplitude palpation mein pulse ki strength batati hai. Maan lo patient ki beats bilkul regular hain, lekin har beat bahut weak feel ho rahi hai. Timing regular hone ke bawajood low stroke volume ya peripheral perfusion concern possible ho sakta hai. Nurse actual strength, equality aur relevant clinical signs separately assess karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Rhythm se amplitude calculate nahi hoti.
-- **B:** Regularity aur strength independent descriptive characteristics hain.
-- **C:** Regular timing adequate stroke volume guarantee nahi karti.
-- **D:** Weak pulse normal, slow ya fast rate ke saath ho sakti hai.
+- **A:** Rhythm sirf beats ke intervals batati hai. Isse palpable strength calculate nahi ki ja sakti.
+- **B:** Rhythm ki regularity aur amplitude ki strength do separate descriptive findings hain. Isliye B sahi hai.
+- **C:** Regular timing se ye confirm nahi hota ki har contraction adequate blood volume pump kar raha hai. Stroke volume aur perfusion ke liye further assessment chahiye.
+- **D:** Weak pulse slow, normal ya fast rate ke saath mil sakti hai. Weak amplitude se tachycardia automatically establish nahi hoti.
 
-**Exam clue:** Rate, rhythm, strength, equality separately assess karo.
+**Exam clue:** Pulse ki rate, rhythm, strength aur dono sides ki equality ko separately assess karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -251,17 +245,16 @@ Rhythm consecutive beats ke time intervals ki regularity batata hai. Amplitude p
 
 **Correct answer: A. Compare both limbs and verify using appropriate Doppler assessment if indicated**
 
-<!-- job5-rationale -->
-Dorsalis pedis pulse foot ke dorsum par assess hota hai. Difficult palpation technique, edema, anatomy ya vascular compromise se related ho sakti hai. Warm foot alone sufficient perfusion proof nahi hai. Both limbs compare karo, color, temperature, capillary refill, sensation, movement aur symptoms check karo. Indicated ho toh trained Doppler assessment karo. Sudden painful cold or numb limb ya new absent pulse urgent review maangta hai.
+Dorsalis pedis artery foot ki upper surface par palpate ki ja sakti hai. Kabhi edema, anatomy, assessment technique ya vascular compromise ki wajah se pulse feel karna difficult hota hai. Foot warm hona useful finding hai, lekin isse adequate circulation automatically confirm nahi hoti. Nurse dono limbs compare karti hai aur colour, temperature, capillary refill, sensation, movement aur symptoms assess karti hai. Indicated ho toh trained Doppler assessment se arterial signal verify kiya ja sakta hai. Agar nayi absent pulse, sudden pain, coldness ya numbness ho, toh prompt urgent clinical review chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Comparison, neurovascular findings aur Doppler verification appropriate hain.
-- **B:** One nonpalpable pulse se limb viability decide nahi kar sakte.
-- **C:** Warm foot ko normal palpable pulse likhna inaccurate hai.
-- **D:** Forceful massage vascular problem solve nahi karti aur harm ho sakta hai.
+- **A:** Dono limbs compare karne aur neurovascular findings assess karne se clinical picture clear hoti hai. Indicated Doppler assessment pulse signal verify karne mein help kar sakti hai. Isliye A sahi hai.
+- **B:** Sirf ek nonpalpable pulse se limb nonviable declare nahi kar sakte. Further circulation assessment zaroori hai.
+- **C:** Warm foot ki observation ko normal palpable pulse ke roop mein record nahi karna chahiye. Jo actual finding hai, wahi document karo.
+- **D:** Forceful massage se vascular problem reliably resolve nahi hoti aur patient ko harm ho sakta hai. Assessment aur indicated escalation safer hain.
 
-**Exam clue:** Not palpable is not automatically no blood flow.
+**Exam clue:** Pulse feel na hona aur blood flow absent hona ek hi baat nahi hai. Actual neurovascular condition assess aur verify karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
 <!-- /job5-rationale -->
@@ -290,17 +283,16 @@ Dorsalis pedis pulse foot ke dorsum par assess hota hai. Difficult palpation tec
 
 **Correct answer: D. Gently, on one side at a time**
 
-<!-- job5-rationale -->
-Carotid artery brain ko blood supply dene wali important vessel hai. Stable assessment mein neck ke ek side par gentle pressure se pulse feel karo. Dono carotids ko simultaneously compress karne se cerebral perfusion compromise ho sakti hai. Carotid sinus stimulation susceptible patient mein heart rate aur BP decrease kar sakti hai. Routine pulse palpation ko carotid massage se confuse mat karo.
+Carotid arteries neck mein hoti hain aur brain ki blood supply mein important role play karti hain. Jab stable patient mein carotid pulse assess karna clinically indicated ho, toh nurse ek time par sirf ek side gently palpate karti hai. Dono sides ko ek saath compress karne se cerebral blood flow compromise ho sakta hai. Strong pressure ya carotid sinus stimulation susceptible patient mein heart rate aur BP bhi reduce kar sakti hai. Routine pulse assessment aur carotid sinus massage alag procedures hain.
 
 **Option-by-option reasoning**
 
-- **A:** Bilateral compression cerebral blood flow reduce kar sakti hai.
-- **B:** Carotid sinus massage routine pulse assessment nahi hai.
-- **C:** Prolonged strong pressure unnecessary aur unsafe hai.
-- **D:** Gentle one-side-at-a-time palpation correct technique hai.
+- **A:** Dono carotids simultaneously compress karne se brain tak blood flow reduce ho sakta hai. Isliye bilateral palpation avoid karni chahiye.
+- **B:** Carotid sinus massage routine pulse counting ki technique nahi hai. Ye heart rate aur BP affect kar sakti hai.
+- **C:** Strong pressure ko kai minutes tak maintain karna pulse assessment ke liye unnecessary hai aur harm ka risk badha sakta hai.
+- **D:** Gentle pressure ke saath ek time par ek side assess karna appropriate technique hai. Isliye D sahi hai.
 
-**Exam clue:** Never palpate both carotids simultaneously.
+**Exam clue:** Stable patient mein indicated carotid palpation gently ek side par karo. Dono carotids ko simultaneously compress mat karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 <!-- /job5-rationale -->
@@ -329,17 +321,16 @@ Carotid artery brain ko blood supply dene wali important vessel hai. Stable asse
 
 **Correct answer: B. Auscultate the apical heart rate for a full minute**
 
-<!-- job5-rationale -->
-Newborn mein peripheral pulse chhoti aur difficult to feel ho sakti hai. Routine heart rate assessment ke liye stethoscope se apical sounds full 60 seconds count karna useful hai. Age, sleep, crying aur clinical condition ke context mein rate interpret karo. Resuscitation mein rapid HR assessment aur appropriate monitoring ka separate protocol follow hota hai.
+Newborn ki peripheral arteries chhoti hoti hain aur wrist par pulse reliably feel karna difficult ho sakta hai. Routine heart-rate assessment mein nurse stethoscope se apical heart sounds sunti hai aur full 60 seconds count karti hai. Ek complete lub-dub pair ko ek beat maana jaata hai. Newborn ki expected heart rate adult se alag hoti hai aur sleep, crying aur current illness se change ho sakti hai. Agar newborn ko resuscitation chahiye, toh rapid heart-rate assessment aur appropriate monitoring ke liye separate emergency protocol follow hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** Umbilical cord pulsation har infant ka routine assessment method nahi hai.
-- **B:** Full minute apical auscultation reliable routine technique hai.
-- **C:** Faint radial pulse ko five seconds count karna large sampling error de sakta hai.
-- **D:** Newborn ka expected heart rate adult range se different hota hai.
+- **A:** Umbilical cord pulsation har infant aur har age mein routine heart-rate assessment ka suitable method nahi hai.
+- **B:** Full minute apical auscultation routine newborn heart rate accurately count karne mein help karti hai. Isliye B sahi hai.
+- **C:** Weak radial pulse ko sirf paanch seconds count karke multiply karne se significant counting error ho sakta hai.
+- **D:** Adult resting range newborn par directly apply nahi karni chahiye. Age-specific reference aur clinical condition important hain.
 
-**Exam clue:** Routine newborn HR: apical, full minute.
+**Exam clue:** Routine newborn heart rate stethoscope se apical site par full minute count karo aur age-specific context mein interpret karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596717/)
 <!-- /job5-rationale -->
@@ -368,17 +359,16 @@ Newborn mein peripheral pulse chhoti aur difficult to feel ho sakti hai. Routine
 
 **Correct answer: A. Behind and below the medial malleolus**
 
-<!-- job5-rationale -->
-Posterior tibial artery ankle ke medial side se pass karti hai. Medial malleolus bony prominence ke behind aur slightly below finger pads se gently palpate karo. Dorsalis pedis ke saath distal circulation compare kar sakte hain. Nonpalpable finding ko symptoms aur other vascular assessment ke saath verify karo.
+Posterior tibial artery ankle ki medial side se pass karti hai. Medial malleolus ankle ke andar ki taraf feel hone wala bony prominence hai. Nurse is prominence ke peeche aur thoda neeche finger pads se gently pulse locate karti hai. Foot ki distal circulation assess karne ke liye dorsalis pedis aur posterior tibial findings compare ki ja sakti hain. Agar pulse feel nahi hoti, toh patient ke symptoms, skin temperature, colour aur other neurovascular findings ko assess karke indicated verification arrange karo.
 
 **Option-by-option reasoning**
 
-- **A:** Behind and below medial malleolus posterior tibial pulse ka usual site hai.
-- **B:** Foot dorsum extensor tendons ke paas dorsalis pedis area hai.
-- **C:** Elbow lateral epicondyle ankle artery ka location nahi hai.
-- **D:** Patella knee ke front mein hai, posterior tibial site nahi.
+- **A:** Medial malleolus ke peeche aur thoda neeche posterior tibial pulse ka usual landmark hai. Isliye A sahi hai.
+- **B:** Foot ki upper surface par extensor tendons ke paas dorsalis pedis pulse locate ki jaati hai. Ye posterior tibial site nahi hai.
+- **C:** Lateral epicondyle elbow ki bony landmark hai. Posterior tibial artery ankle ke area mein assess hoti hai.
+- **D:** Patella knee ke front par kneecap hai. Ye posterior tibial pulse ka usual location nahi hai.
 
-**Exam clue:** Posterior tibial: behind medial ankle.
+**Exam clue:** Posterior tibial pulse ko ankle ke andar wali bony prominence ke peeche aur thoda neeche locate karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK593199/)
 <!-- /job5-rationale -->
