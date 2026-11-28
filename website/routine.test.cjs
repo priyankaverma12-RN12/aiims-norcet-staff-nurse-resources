@@ -52,3 +52,9 @@ assert(saveRoutine(migrated));assert.equal(JSON.parse(raw).goal,50);
 assert.equal(dailyStudyStats(migrated,{[p]:{slots:75,at:stamp}},today).total,75);
 delete global.localStorage;
 console.log('Fixed 50-MCQ target, previous history migration, motivational milestones and uncapped totals passed.');
+
+const {currentRevisionCount}=require('./routine.js');
+const revisionFixture={banks:{[p]:{questions:{a:{due:day},b:{due:day},c:{due:offsetDay(day,1)}}}}};
+assert.equal(currentRevisionCount({path:p,questionKeys:['a','c','a']},revisionFixture,day),1);
+assert.equal(currentRevisionCount({path:p,questionKeys:['c']},revisionFixture,day),0);
+console.log('Revision suggestions exclude removed questions and duplicates.');

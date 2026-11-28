@@ -245,8 +245,8 @@ try:
 
         page.goto(base)
         page.reload()
-        expect(page.locator("#marks a")).to_contain_text("voice box")
-        page.locator("#marks a").click()
+        expect(page.locator("#marks .saved-question-copy > a").first).to_contain_text("voice box")
+        page.locator("#marks .saved-question-copy > a").first.click()
         ready(page)
         page.goto(base)
         expect(page.locator("#recent .recent-card").first).to_be_visible()

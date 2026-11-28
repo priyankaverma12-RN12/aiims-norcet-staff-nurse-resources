@@ -74,4 +74,30 @@ function decorateDiagrams(target,p){
   if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){observer.disconnect();schedule()}},{rootMargin:'250px'});observer.observe(figure)}else schedule();
  }
 }
-if(typeof module!=='undefined')module.exports={resolveResource,encodeRepoPath,diagramSource};
+function findStudyFragment(root,hash){
+ if(typeof hash!=='string'||!hash.startsWith('#')||hash.length<2)return null;
+ let key;try{key=decodeURIComponent(hash.slice(1))}catch{return null}
+ // Prefer exact heading IDs, then legacy Markdown anchors. Never resolve outside the document.
+ const byId=Array.from(root.querySelectorAll('[id]')).find(el=>el.id===key);
+ return byId||Array.from(root.querySelectorAll('a[name]')).find(el=>el.getAttribute('name')===key)||null;
+}
+// An empty named anchor may be wrapped in a paragraph by the Markdown renderer.
+// Scroll to its adjacent visible heading, rather than a zero-height inline element.
+function studyFragmentTarget(root,hash){
+ const anchor=findStudyFragment(root,hash);
+ if(!anchor||anchor.tagName!=='A'||!anchor.hasAttribute('name')||anchor.textContent.trim())return anchor;
+ let next=anchor.nextElementSibling;
+ if(!next&&anchor.parentElement?.tagName==='P'&&!anchor.parentElement.textContent.trim())next=anchor.parentElement.nextElementSibling;
+ return next&&/^H[1-6]$/.test(next.tagName)?next:anchor;
+}
+function scrollStudyFragment(root,hash){
+ const target=studyFragmentTarget(root,hash);
+ if(!target)return false;
+ target.scrollIntoView({block:'start',behavior:'instant'});
+ const sticky=[...document.querySelectorAll('.topbar,.reading-location')].filter(el=>{const pos=getComputedStyle(el).position;return (pos==='sticky'||pos==='fixed')&&el.getBoundingClientRect().bottom>0});
+ const clearance=Math.max(8,...sticky.map(el=>el.getBoundingClientRect().bottom+8));
+ const top=target.getBoundingClientRect().top;
+ if(top<clearance)window.scrollBy({top:top-clearance,behavior:'instant'});
+ return true;
+}
+if(typeof module!=='undefined')module.exports={resolveResource,encodeRepoPath,diagramSource,findStudyFragment,studyFragmentTarget,scrollStudyFragment};
