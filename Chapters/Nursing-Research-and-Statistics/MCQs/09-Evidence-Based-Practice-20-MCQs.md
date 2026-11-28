@@ -279,51 +279,59 @@
 
 </details>
 
-### Q12. A ward is implementing an evidence-based handover checklist. Which measure is a process indicator rather than a patient outcome?
+### Q12. After reading a qualitative study about patients' fear of asking for help, a nurse changes her understanding of why patients hesitate, but has not yet changed any specific procedure. Which type of research utilization is illustrated?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Percentage of eligible handovers using all required checklist fields
-- **B.** Rate of preventable adverse events
-- **C.** Patient-reported satisfaction after discharge
-- **D.** Mean length of stay
+- **A.** Conceptual research utilization
+- **B.** Instrumental research utilization
+- **C.** Persuasive research utilization
+- **D.** Research dissemination without utilization
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Percentage of eligible handovers using all required checklist fields**
+**Correct: A. Conceptual research utilization**
 
-**A.** Process indicator care delivery activity ka adherence measure karta hai. Yeh checklist implementation fidelity show karta hai.
+**A.** Conceptual utilization mein research tumhari understanding aur soch ko badalti hai. Yahan nurse ko patients ke hesitation ka reason samajh aaya hai, lekin usne abhi koi specific procedure change nahi kiya hai. Isliye yeh conceptual use hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Adverse event rate patient outcome indicator ho sakta hai. Yeh checklist use directly count nahi karta.
-- **C.** Satisfaction patient-reported outcome or experience measure hai. Specific checklist adherence process indicator different hai.
-- **D.** Length of stay utilization or outcome measure hai. Checklist completion rate process measure hai.
+- **B.** Instrumental use tab hota hai jab research finding ko concrete clinical action ya decision mein directly apply kiya jata hai. Yahan abhi understanding change hui hai, specific procedure nahi.
+- **C.** Persuasive utilization mein evidence use karke kisi aur person ya organization ko practice ya policy change ke liye convince kiya jata hai. Question mein aisa advocacy action describe nahi hua hai.
+- **D.** Dissemination mein research findings communicate ki jati hain. Yahan nurse ne finding ko apni understanding mein integrate kiya hai, isliye sirf information share hone se zyada kaam hua hai.
+
+**Exam clue:** Soch badalna conceptual use hai. Direct practice change instrumental use hai.
+
+**Source:** [University of Alberta nursing knowledge utilization glossary](https://www.ualberta.ca/en/nursing/research/research-chairs-and-units/knowledge-utilization-studies-program/resources/glossary.html) and [research utilization systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3024963/). Indexed text supports the distinction, direct full-text access not certified.
 
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q13. A ward introduces a new discharge teaching workflow to improve comprehension. Which additional measure would best detect an unintended burden from the change?
+### Q13. A nurse appraising a clinical practice guideline finds that the panel never sought the perspectives of patients or intended users. Which AGREE II domain most directly addresses this omission?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Number of teaching checklists printed
-- **B.** Percentage of patients correctly demonstrating self-care only
-- **C.** Delay in discharge attributable to the teaching workflow
-- **D.** Number of staff names on the roster
+- **A.** Scope and purpose
+- **B.** Clarity of presentation
+- **C.** Stakeholder involvement
+- **D.** Editorial independence
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Delay in discharge attributable to the teaching workflow**
+**Correct: C. Stakeholder involvement**
 
-**C.** Balancing measure unintended negative consequence detect karne mein help karta hai. Teaching improve karte hue discharge delay monitor karna useful hai.
+**C.** Stakeholder involvement domain yeh dekhta hai ki relevant professionals aur intended users ki perspectives guideline development mein appropriately include hui hain ya nahi. Jab patients ki views absent hon, toh appraiser ko isi domain ko closely examine karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Print count resource or process metric hai but actual unintended delay detect nahi karta.
-- **B.** Yeh desired effectiveness outcome hai. Unintended consequences separately monitor karne chahiye.
-- **D.** Roster count implementation burden ka direct measure nahi hai. Measure relevant unintended effect se linked hona chahiye.
+- **A.** Scope and purpose domain guideline ke objectives, health questions aur target population ko evaluate karta hai. Yahan main omission intended users aur patients ki perspectives ka hai.
+- **B.** Clarity of presentation mein recommendations ki language, structure aur specificity dekhi jati hai. Clear writing hone ke bawajood stakeholder participation missing ho sakti hai.
+- **D.** Editorial independence mein funding body aur competing interests ke influence ko evaluate kiya jata hai. Stakeholder perspectives na lena ek alag problem hai, bhale hi panel financially independent ho.
+
+**Exam clue:** Patient aur intended-user perspectives ko stakeholder involvement domain se connect karo.
+
+**Source:** [AGREE II publication](https://pmc.ncbi.nlm.nih.gov/articles/3001530/) and [APTA guideline appraisal overview](https://www.apta.org/patient-care/evidence-based-practice-resources/cpgs/about-clinical-practice-guideline-cpg-appraisal-ratings). Domain list directly retrieved from APTA. Full AGREE II item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -479,26 +487,30 @@
 
 </details>
 
-### Q20. A nurse implements an evidence-based discharge leaflet and wants to evaluate whether the change has been sustained six months later. Which plan best answers this question?
+### Q20. A guideline panel is considering a beneficial follow-up programme that requires reliable internet access. Its use may widen avoidable differences in care for patients in remote villages. Which evidence-to-decision criterion directly addresses this concern?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Use only the initial launch-day attendance
-- **B.** Repeat predefined adherence and relevant outcome measurements over time
-- **C.** Ask only the leaflet designer whether it worked
-- **D.** Count the original number of leaflets ordered
+- **A.** Precision of the effect estimate
+- **B.** Health equity
+- **C.** Statistical significance
+- **D.** Editorial independence
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Repeat predefined adherence and relevant outcome measurements over time**
+**Correct: B. Health equity**
 
-**B.** Sustainability assess karne ke liye ongoing process and outcome data chahiye. Baseline, follow-up intervals and context changes document karo.
+**B.** Health equity ka matlab hai avoidable aur unfair differences ko reduce karna. Agar internet-dependent programme se remote patients ko benefit access karna mushkil ho, toh panel ko assess karna chahiye ki recommendation inequalities badhayegi ya kam karegi. Alternative access arrangements bhi consider kiye ja sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Launch attendance adoption ka one-time indication hai. Six-month sustained use establish nahi karta.
-- **C.** Designer opinion objective implementation and outcome data ka substitute nahi hai. Broader measurement needed hai.
-- **D.** Orders supply reflect karte hain, actual use aur continued effectiveness nahi. Sustained delivery directly measure karo.
+- **A.** Precision batati hai ki estimated intervention effect ke around uncertainty kitni hai. Precise estimate bhi unequal access ki problem solve nahi karta.
+- **C.** Statistical significance null hypothesis ke against evidence se related hai. Yeh directly nahi batati ki intervention ka benefit different population groups tak fairly pahunch raha hai ya nahi.
+- **D.** Editorial independence panel recommendations par inappropriate competing interests ka influence assess karti hai. Internet access ki unequal distribution ka direct concern health equity hai.
+
+**Exam clue:** Evidence-to-decision framework mein equity ka question hai ki recommendation unfair health differences ko badhayegi ya kam karegi.
+
+**Source:** [NHMRC Evidence to Decision, Table 1, Equity](https://www.nhmrc.gov.au/guidelinesforguidelines/develop/evidence-decision). Direct HTML reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
