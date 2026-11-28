@@ -54,14 +54,16 @@ function addStudyCelebration(host,animate=true){
  const icon=document.createElement('span');icon.className='study-celebration';icon.setAttribute('aria-hidden','true');icon.textContent='🎉';host.append(icon);
  if(!animate||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
  const burst=document.createElement('span');burst.className='study-confetti';burst.setAttribute('aria-hidden','true');
- for(let i=0;i<12;i++){const part=document.createElement('i'),angle=i*Math.PI/6;part.style.setProperty('--dx',Math.round(Math.cos(angle)*100)+'px');part.style.setProperty('--dy',Math.round(Math.sin(angle)*68)+'px');part.style.setProperty('--spin',(i%2?1:-1)*150+'deg');part.style.setProperty('--piece-color',['#f6c453','#78c9ac','#ec8c9e','#89b5fa'][i%4]);burst.append(part)}
+ for(let i=0;i<12;i++){const part=document.createElement('i'),angle=i*Math.PI/6;part.style.setProperty('--dx',Math.round(Math.cos(angle)*100)+'px');part.style.setProperty('--dy',Math.round(Math.sin(angle)*68)+'px');part.style.setProperty('--spin',(i%2?1:-1)*150+'deg');part.style.setProperty('--piece-color',['#f6c453','#78c9ac','#ec8c9e','#89b5fa'][i%4]);if(i%4===0){part.className='confetti-star';part.textContent='✦'}burst.append(part)}
  host.append(burst);burst.addEventListener('animationend',()=>burst.remove(),{once:true});
 }
 function answerStatus(q,selected){return !selected[q.id]?'skipped':selected[q.id]===q.key?'correct':'incorrect'}
 function mountQuiz(md,path,content,render,route){
  const bank=parseBank(md);if(!bank.total)return;
  const el=(tag,txt,cls)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=txt;if(cls)n.className=cls;return n};
- const btn=(label,fn,cls)=>{const b=el('button',label,cls);b.type='button';b.onclick=fn;return b};
+ const btn=(label,fn,cls)=>{const b=el('button',label,cls);b.type='button';b.onclick=fn;
+  const icon=/^(?:Start timed|Resume saved attempt)/.test(label)?'timer':/^(?:Learn with|Quick 5|Continue remaining)/.test(label)?'book':/^(?:Check answer|Submit)/.test(label)?'check':/^(?:Review|Practise mistakes|Revise|Try again)/.test(label)?'review':'';
+  if(icon)b.dataset.uiIcon=icon;return b};
  const root=el('section',undefined,'quiz-panel');root.id='practice';content.before(root);
  const intro=el('div',undefined,'practice-intro');intro.append(el('p','STUDY • PRACTISE • REVIEW','kicker'),el('h2','Interactive practice'));
  const info=el('p',bank.items.length+' questions available for practice. '+(bank.rejected.length?'Some questions can only be read in the original notes.':'Choose a study mode below.'),'muted');intro.append(el('p',typeof knownTitle==='function'?knownTitle(path):'', 'practice-topic'),info);root.append(intro);

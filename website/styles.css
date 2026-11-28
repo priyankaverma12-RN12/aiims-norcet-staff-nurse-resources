@@ -677,3 +677,11 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
 .practice-start-actions button,.result-actions button,.quiz-controls button,.review-filters button,.review-pagination button{min-height:44px;white-space:normal;line-height:1.35;overflow-wrap:anywhere}
 .practice-start-actions button:focus-visible,.result-actions button:focus-visible,.quiz-controls button:focus-visible,.review-filters button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 @media(max-width:600px){.daily-header,.section-heading,.history-heading{align-items:flex-start}.result-hero>.study-celebration{font-size:1.3rem}.daily-congratulations{padding-right:1.7rem}.daily-congratulations .study-celebration{font-size:1.15rem}.review-card-meta,.question-meta{flex-wrap:wrap}}
+
+.study-confetti i.confetti-star{width:auto;height:auto;background:transparent;color:var(--piece-color);font:700 16px/1 system-ui}
+.quiz-panel button[data-ui-icon]{display:inline-flex;align-items:center;justify-content:center;gap:.4rem}
+.quiz-panel button[data-ui-icon]::before{content:"";width:1em;height:1em;flex:none;background:currentColor;mask:var(--action-icon) center/contain no-repeat}
+.quiz-panel button[data-ui-icon=timer]{--action-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='12' cy='13' r='8'/%3E%3Cpath d='M12 9v4l3 2M9 2h6'/%3E%3C/svg%3E")}
+.quiz-panel button[data-ui-icon=book]{--action-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'%3E%3Cpath d='M3 4h5c2 0 4 2 4 3v14c0-2-2-3-4-3H3zM21 4h-5c-2 0-4 2-4 3v14c0-2 2-3 4-3h5z'/%3E%3C/svg%3E")}
+.quiz-panel button[data-ui-icon=check]{--action-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m5 12 4 4 10-10'/%3E%3C/svg%3E")}
+.quiz-panel button[data-ui-icon=review]{--action-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 10a8 8 0 1 1 2 8M4 4v6h6'/%3E%3C/svg%3E")}

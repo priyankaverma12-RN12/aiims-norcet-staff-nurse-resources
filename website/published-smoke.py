@@ -54,7 +54,7 @@ with sync_playwright() as p:
     for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
         response=api.get(urljoin(base,filename)+"?v="+("11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
-        print("Published V11.8 asset exact readback:",filename,flush=True)
+        print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
     browser=p.chromium.launch()
     for width,height in [(1440,900),(390,844)]:

@@ -4,7 +4,7 @@ from functools import partial
 from pathlib import Path
 import json, tempfile
 from threading import Thread
-from urllib.parse import urljoin, urlencode
+from urllib.parse import urljoin, urlencode, unquote, urlsplit
 from playwright.sync_api import sync_playwright, expect
 
 site = Path(__file__).resolve().parent
@@ -598,6 +598,33 @@ try:
             print(f"V11.8 chapter index isolated closed folders and 44px targets at {width}x{height}.",flush=True)
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
+        # Audit each chapter landing page from the checked-out candidate, not moving main.
+        inventory=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
+        def pinned_chapter_source(route):
+            rel=unquote(urlsplit(route.request.url).path.split("/main/",1)[-1])
+            target=(site.parent/rel).resolve()
+            if target.is_relative_to(site.parent/"Chapters") and target.is_file():
+                route.fulfill(status=200,content_type="text/plain; charset=utf-8",headers={"Access-Control-Allow-Origin":"*"},body=target.read_text(encoding="utf-8"))
+            else:
+                route.continue_()
+        for width,height in [(1440,900),(390,844)]:
+            audit=browser.new_context(viewport={"width":width,"height":height},is_mobile=width<600,has_touch=width<600,reduced_motion="reduce")
+            audit.route("https://raw.githubusercontent.com/**/main/Chapters/**",pinned_chapter_source)
+            audit_page=audit.new_page()
+            for chapter_record in inventory["chapters"]:
+                chapter_path="Chapters/"+chapter_record["id"]+"/README.md"
+                audit_page.goto(base+"?"+urlencode({"doc":chapter_path}),wait_until="domcontentloaded")
+                ready(audit_page)
+                expect(audit_page.locator("#reader-title")).not_to_have_text("")
+                assert audit_page.evaluate("()=>document.title.startsWith(document.querySelector('#reader-title').textContent)"), chapter_path
+                expect(audit_page.locator(".index-resource-group[open]")).to_have_count(0)
+                expect(audit_page.locator(".outline-card")).not_to_have_attribute("open","")
+                for summary in audit_page.locator(".index-resource-group > summary").all():
+                    assert summary.bounding_box()["height"]>=44, chapter_path
+                no_overflow(audit_page)
+                print(f"V11.9 chapter heading and disclosure audit {width}x{height}: {chapter_record['id']}",flush=True)
+            assert audit_page.evaluate("""()=>{const host=document.createElement('div');addStudyCelebration(host,true);return host.querySelector('.study-celebration')?.getAttribute('aria-hidden')==='true'&&!host.querySelector('.study-confetti')}""")
+            audit.close()
         browser.close()
         print("Desktop/mobile integration, real diagram, hidden answers, score, bookmark reload, and timer expiry passed.", flush=True)
 finally:
