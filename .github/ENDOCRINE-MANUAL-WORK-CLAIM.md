@@ -1,9 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Expiry: none
+State: CLAIMED
+Owner: endocrine-b02-20261128-0857Z
+Scope: PR54 isolated thyroid nodules and related adult endocrine topic authoring. Preserve all existing banks and shared navigation.
+Claimed UTC: 2026-11-28T08:57:07Z
+Expiry UTC: 2026-11-28T09:27:07Z
 
 Last owner: endocrine-b01-20261128-0834Z
 Released: 2026-11-28 after isolated draft creation and remote structural readback.
