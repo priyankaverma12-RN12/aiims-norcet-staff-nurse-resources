@@ -352,30 +352,30 @@
 
 </details>
 
-### Q13. A patient with lumbar disc herniation has pain radiating from the buttock down the leg, with tingling in the same distribution. Which mechanism best explains this symptom pattern?
+### Q13. During clinician-directed assessment of a patient with suspected lumbar radiculopathy, raising the straight leg reproduces familiar pain radiating below the knee. Which interpretation is most appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Inflammation confined to knee articular cartilage
-- **B.** Irritation of a spinal nerve root by disc material and local inflammation
-- **C.** A primary disease of skin sweat glands
-- **D.** Complete loss of femoral bone mineral density
+- **A.** The finding can support lumbosacral nerve-root irritation in the clinical context
+- **B.** The result proves a specific vertebral fracture without imaging
+- **C.** The test directly measures bone mineral density
+- **D.** A positive response guarantees that spinal surgery is required
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Irritation of a spinal nerve root by disc material and local inflammation**
+**Correct answer: A. The finding can support lumbosacral nerve-root irritation in the clinical context**
 
-**A kyun galat hai:** Knee cartilage disorder local mechanical pain de sakta hai, lekin buttock se leg tak dermatomal tingling nerve-root pattern suggest karta hai.
+**A kyun sahi hai:** Straight-leg raise nerve tissues par tension produce kar sakta hai. Familiar radiating below-knee pain lumbosacral radiculopathy support karta hai, lekin diagnosis history aur examination ke saath interpret hota hai.
 
-**B kyun sahi hai:** Disc material nerve root ko compress ya irritate kar sakta hai. Local inflammation bhi radiating radicular pain aur paresthesia contribute karti hai.
+**B kyun galat hai:** Fracture diagnose karne ke liye appropriate clinical assessment aur imaging required ho sakti hai. Straight-leg raise fracture-specific test nahi hai.
 
-**C kyun galat hai:** Sweat gland disease radiating nerve-root pain ka typical mechanism nahi hai.
+**C kyun galat hai:** Bone mineral density DXA se assess hoti hai. Straight-leg raise neurological provocation test hai.
 
-**D kyun galat hai:** Bone density loss usually asymptomatic ho sakta hai jab tak fracture na ho. Given radiating sensory distribution nerve involvement se zyada fit karta hai.
+**D kyun galat hai:** Positive test surgery indication independently decide nahi karta. Severity, neurological findings, course aur response to treatment consider hote hain.
 
-**Exam clue:** Sciatica nerve-root irritation ka symptom pattern ho sakta hai.
+**Exam clue:** Straight-leg raise ko radicular symptoms ke context mein interpret karo.
 
-**Clinical reference:** [NHS slipped disc](https://www.nhs.uk/Conditions/Slipped-disc/). Indexed source, direct item-level review pending.
+**Clinical reference:** [Merck lumbar disc herniation](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/neck-and-back-pain/lumbar-disc-herniation?autoredirectid=25483). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -462,7 +462,7 @@
 
 **Exam clue:** Posture-dependent leg symptoms neurogenic claudication ka clue ho sakte hain.
 
-**Clinical reference:** [NHS spondylolisthesis](https://www.nhs.uk/conditions/spondylolisthesis/). Retrieved relevant text.
+**Clinical reference:** [Merck lumbar spinal stenosis](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/neck-and-back-pain/lumbar-spinal-stenosis). Indexed characteristic symptom description, independent review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
