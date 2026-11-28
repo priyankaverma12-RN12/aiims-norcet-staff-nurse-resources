@@ -146,3 +146,11 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 
 /* Daily progress: distinguish real answers from self-reported completion. */
 .daily-count-breakdown{display:flex;gap:.35rem .8rem;flex-wrap:wrap;margin-top:.55rem;font-size:.75rem;color:var(--muted);line-height:1.45}.daily-count-breakdown span{overflow-wrap:anywhere}.daily-count-breakdown span+span{border-left:1px solid var(--line);padding-left:.8rem}@media(max-width:600px){.daily-count-breakdown{display:grid;gap:.2rem}.daily-count-breakdown span+span{border:0;padding:0}}
+
+/* Score feedback: strong results celebrate, developing results encourage review. */
+.result-hero[data-performance=review],.result-hero[data-performance=developing]{background:var(--paper);border:1px solid var(--line);color:var(--ink)}
+.result-hero[data-performance=review] .result-kicker,.result-hero[data-performance=developing] .result-kicker,.result-hero[data-performance=review] .result-copy p:last-child,.result-hero[data-performance=developing] .result-copy p:last-child{color:var(--muted)}
+.result-hero[data-performance=review] .result-score,.result-hero[data-performance=developing] .result-score{background:var(--bg);border-color:var(--line);color:var(--ink)}
+.result-hero[data-performance=review] .result-score span,.result-hero[data-performance=developing] .result-score span{color:var(--muted)}
+.result-hero[data-performance=review] .result-check,.result-hero[data-performance=developing] .result-check{background:var(--accent-bg);color:var(--accent)}
+.learning-greeting{display:block;font-size:clamp(1.02rem,2.2vw,1.35rem);line-height:1.35;margin:.5rem 0}.learning-result .result-kicker{overflow-wrap:anywhere;letter-spacing:.02em}.learning-missed-review{border:1px solid var(--line);border-radius:12px;padding:.7rem;margin-top:1rem}.learning-missed-review>summary{cursor:pointer;min-height:44px;align-content:center;font-weight:650}.learning-missed-review .review-card{margin:.65rem 0}.learning-result .result-score strong{font-variant-numeric:tabular-nums}
