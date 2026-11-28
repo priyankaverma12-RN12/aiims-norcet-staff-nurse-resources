@@ -4,7 +4,7 @@
 
 [Existing topic bank](19-Hepatitis-D-Diagnosis-and-Treatment-20-MCQs.md) · [Chapter](../README.md)
 
-**Evidence:** [Clinical reference](https://www.who.int/en/news-room/fact-sheets/detail/hepatitis-d), indexed relevant excerpts reviewed 28 November 2026. Item-specific source depth, independent clinical and semantic review, and dedicated practice videos remain pending.
+**Evidence:** [Clinical reference](https://www.who.int/en/news-room/fact-sheets/detail/hepatitis-d), indexed relevant excerpts reviewed 28 November 2026. Additional delta antigen reference: [Arizona public health HDV protocol](https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/investigation-manual/hepatitides/hepatitis-d-protocol.pdf), indexed excerpt. Item-specific source depth, independent clinical and semantic review, and dedicated practice videos remain pending.
 
 ### Q1. Which descriptive name is used for hepatitis D virus?
 
@@ -106,28 +106,28 @@
 
 </details>
 
-### Q5. Which group should receive hepatitis D prevention counseling when hepatitis B vaccination is being planned?
+### Q5. What is the name of the internal viral antigen characteristic of hepatitis D?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Only people with documented immunity to HBV
-- **B.** Only patients with bacterial hepatitis
-- **C.** People susceptible to hepatitis B, especially those at blood exposure risk
-- **D.** Only people with no blood exposure risk
+- **A.** HBeAg
+- **B.** HCV core antigen
+- **C.** HAV IgG antibody
+- **D.** Hepatitis delta antigen
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. People susceptible to hepatitis B, especially those at blood exposure risk**
+**Correct answer: D. Hepatitis delta antigen**
 
-**A. Kyun galat hai:** Documented immune individuals ko routine susceptibility-based vaccination ki need alag assess hoti hai. Susceptible contacts important group hain.
+**A. Kyun galat hai:** HBeAg hepatitis B ka protein marker hai. Yeh HDV ka unique internal antigen nahi.
 
-**B. Kyun galat hai:** Bacterial infection hepatitis D susceptibility determine nahi karti. HDV prevention HBV risk se related hai.
+**B. Kyun galat hai:** HCV core antigen hepatitis C viral protein hai. HDV ke internal protein se distinct hai.
 
-**C. Kyun sahi hai:** HBV-susceptible people mein vaccination HBV acquisition prevent karke HDV prevention bhi support karti hai. Blood exposure risk counseling additional useful hai.
+**C. Kyun galat hai:** HAV IgG host antibody hai, HDV viral antigen nahi.
 
-**D. Kyun galat hai:** Blood exposure risk wale susceptible people ko ignore nahi karte. Vaccination local schedule ke according hoti hai.
+**D. Kyun sahi hai:** Hepatitis delta antigen HDV ka characteristic internal viral protein hai. Isse hepatitis D ki molecular identity samajh aati hai.
 
-**Exam clue:** Prevent HBV acquisition to reduce HDV risk.
+**Exam clue:** The delta antigen is an HDV protein, unlike HBV envelope antigen.
 
 </details>
 
