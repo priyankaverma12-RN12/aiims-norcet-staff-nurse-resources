@@ -48,6 +48,10 @@ Placenta har medicine ko completely block nahi karta. Drug ki size, binding, per
 
 Drug level collect karte waqt actual dose time, infusion time aur sample time document karna important hai. Kuch drugs ka level distribution ke baad collect karna hota hai. Agar sample too early liya gaya ho, toh plasma result misleading ho sakta hai. Nurse protocol ke according repeat sampling ya interpretation clarify karti hai.
 
+Tacrolimus ki monitoring mein sample type bhi important hai. Yeh medicine blood cells ke saath extensively associate ho sakti hai, isliye prescribed whole-blood trough aur plasma concentration interchangeable nahi hain. Nurse laboratory instructions aur actual dose timing follow karti hai.
+
+- [DailyMed tacrolimus capsule label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=393cd10e-133c-4d6b-b024-270eb82edbb3) — indexed labeling supports whole-blood trough monitoring and blood/plasma partitioning. Direct text review pending.
+
 ## Videos and revision
 
 - Teaching lead: [Pharmacokinetics — Drug Distribution](https://www.youtube.com/watch?v=gD9LiXpq0Tk), indexed chapters list protein binding at 08:00 and volume of distribution at 17:05. These are topic markers, not verified question timestamps. Channel and playback pending.
@@ -56,7 +60,7 @@ Drug level collect karte waqt actual dose time, infusion time aur sample time do
 
 ## Clinical and syllabus references
 
-- [MSD Manual — Drug Distribution to Tissues](https://www.msdmanuals.com/professional/clinical-pharmacology/pharmacokinetics/drug-distribution-to-tissues). Opened text. Q1–5, Q7, Q9–10, Q13–14 and Q18.
+- [MSD Manual — Drug Distribution to Tissues](https://www.msdmanuals.com/professional/clinical-pharmacology/pharmacokinetics/drug-distribution-to-tissues). Opened text. Q1–5, Q7, Q9–10, Q13–14.
 - [FDA DILANTIN 2021 label, sections 2.3, 2.5, 5.11 and 10](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/084349s087lbl.pdf). Opened text and page 4 image. [DailyMed phenytoin current listing lead](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e33ce05d-9c60-4ede-8b13-e8c41a3de25d), indexed text corroborates unbound monitoring, direct opening failed. Q6, Q15, Q17.
 - [Pharmacokinetics in sepsis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7807908/) and [2026 antimicrobial special populations review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12996921/). Indexed abstracts/excerpts, Q4 and Q8, no independent full-text audit.
 - [Placental drug transport review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10388746/). Indexed excerpt, Q11.

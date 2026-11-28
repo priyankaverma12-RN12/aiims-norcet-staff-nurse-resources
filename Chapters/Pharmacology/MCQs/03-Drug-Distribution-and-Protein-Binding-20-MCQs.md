@@ -429,28 +429,28 @@
 
 </details>
 
-### Q18. Two patients receive the same IV drug amount. One has a larger apparent volume of distribution at the relevant sampling time. Assuming distribution is complete and other relevant conditions are comparable, what is expected in that patient?
+### Q18. A transplant patient requires tacrolimus trough monitoring. The laboratory order specifies whole blood, but a colleague proposes substituting a plasma specimen. Which action is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET-style / all-India nursing practice
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original NORCET-style / all-India nursing practice
 
-- **A.** The plasma concentration must be higher
-- **B.** The dose necessarily was not delivered
-- **C.** The plasma concentration may be lower
-- **D.** The measured volume proves the patient has more anatomical blood
+- **A.** Substitute plasma and apply the same whole-blood target
+- **B.** Use the prescribed whole-blood specimen and confirm collection instructions
+- **C.** Use a urine specimen to estimate the whole-blood trough
+- **D.** Cancel laboratory monitoring because the drug binds to blood cells
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. The plasma concentration may be lower**
+**Correct: B. Use the prescribed whole-blood specimen and confirm collection instructions**
 
-- **A. Kyun galat hai:** Same amount larger apparent volume mein distribute ho toh concentration lower ho sakti hai. Higher concentration smaller volume ke saath expected ho sakti hai.
+- **A. Kyun galat hai:** Tacrolimus blood cells aur plasma ke beech unevenly distribute hoti hai. Plasma result par whole-blood target apply karne se interpretation galat ho sakti hai.
 
-- **B. Kyun galat hai:** Plasma level lower hone ke multiple mechanisms hain. Question mein dose delivery given hai, isliye delivery failure conclude nahi karte.
+- **B. Kyun sahi hai:** Tacrolimus ka substantial hissa blood cells ke saath associate hota hai. Isliye prescribed whole-blood trough sample aur lab ka specific collection protocol follow karna important hai. Nurse dose time bhi accurately document karti hai.
 
-- **C. Kyun sahi hai:** Apparent volume aur concentration ka relation amount divided by concentration se samajh aata hai. Same amount ke saath larger apparent volume lower plasma concentration ke compatible hai.
+- **C. Kyun galat hai:** Urine specimen blood concentration ka direct substitute nahi hai. Tacrolimus monitoring ke liye prescribed specimen type follow karni chahiye.
 
-- **D. Kyun galat hai:** Apparent volume calculation-based parameter hai, actual blood volume nahi. Bade value se anatomical blood quantity prove nahi hoti.
+- **D. Kyun galat hai:** Blood-cell association monitoring cancel karne ka reason nahi hai. Drug ka narrow therapeutic margin aur clinical risk monitoring ko important banata hai.
 
-**▶️ Topic-level practice lead:** [Physics Wallah RRB Pharmacist distribution, protein binding and metabolism MCQ session](https://www.youtube.com/watch?v=AKpyMguaUAw). Indexed description supports the broad tested topic. Specific item coverage and playback pending, pharmacist-level rather than verified nursing examination practice.
+**YouTube MCQ practice: verification pending.** Specific question-solving coverage is not yet established.
 
 </details>
 
@@ -506,12 +506,14 @@
 
 ## Clinical and syllabus references
 
-- [MSD Manual — Drug Distribution to Tissues](https://www.msdmanuals.com/professional/clinical-pharmacology/pharmacokinetics/drug-distribution-to-tissues). Opened text. Q1–5, Q7, Q9–10, Q13–14 and Q18.
+- [MSD Manual — Drug Distribution to Tissues](https://www.msdmanuals.com/professional/clinical-pharmacology/pharmacokinetics/drug-distribution-to-tissues). Opened text. Q1–5, Q7, Q9–10, Q13–14.
 - [FDA DILANTIN 2021 label, sections 2.3, 2.5, 5.11 and 10](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/084349s087lbl.pdf). Opened text and page 4 image. [DailyMed phenytoin current listing lead](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e33ce05d-9c60-4ede-8b13-e8c41a3de25d), indexed text corroborates unbound monitoring, direct opening failed. Q6, Q15, Q17.
 - [Pharmacokinetics in sepsis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7807908/) and [2026 antimicrobial special populations review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12996921/). Indexed abstracts/excerpts, Q4 and Q8, no independent full-text audit.
 - [Placental drug transport review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10388746/). Indexed excerpt, Q11.
 - [Clinical pharmacokinetics and dialysis](https://www.ashp.org/-/media/store-files/p5365-sample-chapter.ashx) and [CRRT pharmacokinetic principles](https://pubmed.ncbi.nlm.nih.gov/10560800/). Indexed excerpts, Q12. Modality and drug-specific recommendations remain essential.
 - [Drug displacement and protein binding](https://pubmed.ncbi.nlm.nih.gov/6705425/) and [clinical significance of Vd](https://www.ncbi.nlm.nih.gov/books/NBK545280/). Indexed abstracts/excerpts, Q15–16.
 - [INC 2020 regulations, Pharmacology I Unit I](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf). Retrieved syllabus text explicitly includes distribution. PDF screenshot failed. Clinical scenarios are nursing application/enrichment, not claims of exact historical exam depth.
+
+- [DailyMed tacrolimus capsule label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=393cd10e-133c-4d6b-b024-270eb82edbb3) — indexed labeling supports whole-blood trough monitoring and blood/plasma partitioning. Direct text review pending. Q18.
 
 Clinical care follows drug-specific labeling, local policy and clinical orders. These questions are educational practice, not patient-specific prescribing instructions.
