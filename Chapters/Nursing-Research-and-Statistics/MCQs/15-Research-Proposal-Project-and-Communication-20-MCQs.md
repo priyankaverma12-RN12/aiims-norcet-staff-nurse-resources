@@ -277,26 +277,26 @@
 
 </details>
 
-### Q12. Different student researchers will administer the same assessment in three sites. Which preparation most directly promotes consistent administration?
+### Q12. A group research project loses its designated data manager midway through follow-up. Which handover is most appropriate to maintain continuity?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Allow each member to define the assessment independently
-- **B.** Use a shared written procedure, conduct training and check competency before recruitment
-- **C.** Compare only the final sample sizes at each site
-- **D.** Train only the person who writes the final report
+- **A.** Transfer only the final graph and delete all source documentation
+- **B.** Allow every member unrestricted access to all identifiable records
+- **C.** Arrange an authorized handover of current data versions, codebook, outstanding checks and responsibilities
+- **D.** Start collecting every participant's data again without reviewing completed records
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Use a shared written procedure, conduct training and check competency before recruitment**
+**Correct: C. Arrange an authorized handover of current data versions, codebook, outstanding checks and responsibilities**
 
-**B.** Standard operating procedure aur practice se assessment variation reduce ho sakti hai. Competency verification and ongoing monitoring useful hain.
+**C.** Incoming responsible member ko approved access ke through current status, versions, unresolved discrepancies and deadlines explain karo. Isse duplication and data loss reduce hote hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Different definitions site effects and measurement inconsistency introduce kar sakti hain. Common protocol needed hai.
-- **C.** Sample size similarity consistent measurement establish nahi karti. Actual assessment procedures verify karo.
-- **D.** Data collectors ko common administration method samajhna chahiye. Writer-only training enough nahi hai.
+- **A.** Final graph pending tasks or source versions explain nahi karta. Authorized documentation preserve karna zaroori hai.
+- **B.** Role change se access permissions automatically unrestricted nahi ho jati. Need-to-know access and institutional safeguards maintain karo.
+- **D.** Already completed records verify kiye bina recollection unnecessary burden create kar sakti hai. First reconcile actual completed and pending work.
 
 **YouTube MCQ practice:** verification pending.
 
