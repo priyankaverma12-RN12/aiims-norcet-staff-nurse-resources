@@ -73,3 +73,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Fetal heart rate — 28 November 2026
 
 [ESIC Staff Nurse 26 February 2019 Shift III reported range adaptation](06B-Fetal-Heart-Rate-Reported-Evidence.md). Retrieved third-party key 120–160 is distinguished from current NICE 110–160. Official key pending. Combined Obstetrics reported inventory: 20. KPSC and UP NHM related range leads are not counted again.
+
+## Nonstress test — 28 November 2026
+
+[AIIMS Bathinda Nursing Officer 29 September 2019 Q91 reported adaptation](06C-NST-Reported-Evidence.md). Source body retrieved, header title inconsistent, official paper/key not authenticated. Reported Obstetrics inventory: 21. RRB 25 November 2026 recall indexed but direct fetch failed. HP coaching sample not counted as historical. Dedicated NST topic chapter indexed, exact item coverage pending.
