@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr62-b04-20261128T1548Z
-Scope: PR62 Batch04 only, new Easy deficit supplements for disjoint banks 05–10, no PR61 or shared navigation changes. Draft content only.
-Claimed UTC: 2026-11-28T15:48:00Z
-Expiry UTC: 2026-11-28T16:18:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -76,3 +76,8 @@ PR61 verified head `760510aafdeed4a8aa25bc29e5f1551247988da3`. Added 78 Easy ori
 ## PR62 Batch 03 checkpoint — 28 November 2026
 
 PR62 verified head `354d980a79e77f59c55cc89487c48df10b8f2191`. Five new banks, 100 original MCQs, 400 individual Roman Hinglish rationales, 100 exam clues and 33 Easy/33 Medium/34 Difficult. Cumulative PR62 300 staged originals, 1200 rationales, 300 clues, 15 banks, 63 Easy/140 Medium/97 Difficult. Five banks and index exact readbacks passed; 100 distinct normalized new stems and clues, zero structural/key errors, prior ten banks unchanged. PR61 head `760510aafdeed4a8aa25bc29e5f1551247988da3` preserved, 974 staged originals, 40 banks/29 supplements. PR61 coordination comment 7240131391. NQAS, NDD, RBSK outreach, food regulation and community snakebite programme scopes separated from adjacent PR40/45/49/66/35 bank stems. Full cross-branch semantic and independent difficulty/clinical/item-source/video/concept/navigation/CI gates remain pending; no combined unique or live count, mock or PYQ claimed. Next coordinate initial overlapping PR61/PR62 allocations, prioritize residual distinct topic gaps and Easy deficits, then original-only mocks with 40/40/40. Preserve learner history and all five hourly automations. Owner community-pr62-b03-20261128T1337Z released.
+
+
+## PR62 Batch 04 checkpoint — 28 November 2026
+
+PR62 verified head `adaf63290dae17ac9a271194eda71ce20df1a740`. Added six topic-mapped Easy-only supplements for banks 05–10, 36 originals, 144 separate Roman Hinglish rationales and 36 clues. Cumulative 336 staged originals, 1344 rationales, 336 clues, 15 banks and six supplements, 99 Easy/140 Medium/97 Difficult. All six files, three refinements and index exact readbacks passed, 36 distinct normalized stems and clues, no matches against 120 corresponding parent stems, zero structural/key errors, balanced key letters 9 each. Git comparison shows only six new files and index append, zero deletions, all 300 prior originals preserved. PR61 unchanged at `760510aafdeed4a8aa25bc29e5f1551247988da3`, coordination comments 7240131391 and 7241799747. Deferred overlapping first four banks pending allocation and avoided padding already balanced banks 11–15. WHO, NHA, NHM, MoHFW, NCDC and CDC source research linked, PMNDP FAQ 502 and introduction timeout, retrieved search excerpts used. Full adjacent and cross-branch semantic, clinical/difficulty calibration, question-level source/video, concepts/visuals, navigation and CI remain pending. No live credit or mocks/PYQs. Next coordinate overlapping bank allocations, screen residual curriculum and genuine deficit objectives before new work, then original-only 40/40/40 mocks after coverage certification. Preserve all five hourly jobs and learner history. Released owner community-pr62-b04-20261128T1548Z.
