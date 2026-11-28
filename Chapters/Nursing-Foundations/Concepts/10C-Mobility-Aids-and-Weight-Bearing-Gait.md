@@ -33,6 +33,8 @@ Gait ka matlab walking ka movement pattern hai. Four-point gait mein crutch aur 
 
 Crutch fitting mein pad ka underarm clearance aur handle position dono important hain. Patient axilla par body weight nahi daale. Agar wrist disease ke kaaran secure hand grip possible nahi hai toh crutch fitting sahi hone ke bawajood device suitable nahi ho sakti. Therapist se reassessment karvao.
 
+Forearm crutch mein cuff elbow ke neeche forearm ko support karti hai. Correct handgrip height hone ke bawajood cuff direct elbow joint par pressure daal sakti hai. Therapist se cuff fit reassess karvao aur approved adjustment ya suitable model arrange karo. [NHS elbow crutch guidance](https://www.southtees.nhs.uk/resources/how-to-use-elbow-crutches/) aur [Learning on TAP fitting guidance](https://www.gate-tap.org/topic/fitting-different-types-of-walking-aids/) is distinction ko support karte hain.
+
 ## Weight-bearing instructions
 
 Non-weight-bearing ka matlab affected limb par load nahi dena hai. Partial weight-bearing mein prescribed amount tak load allowed hota hai. Touch-down ya toe-touch terminology ka exact meaning service aur order ke hisaab se vary kar sakta hai. Isliye unclear order ko clarify karo. Weight-bearing as tolerated mein clinician ki permission aur symptoms ke according loading progress kar sakti hai. Iska matlab ye nahi ki patient aid turant discard kar de.
