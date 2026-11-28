@@ -408,3 +408,5 @@
 
 - [FAO human energy requirements](https://www.fao.org/4/Y5686E/y5686e04.htm), indexed text, direct open cache miss. [National Academies energy expenditure](https://www.ncbi.nlm.nih.gov/books/NBK591031/) and [ESPEN energy assessment](https://www.clinicalnutritionjournal.com/article/S0261-5614%2820%2930616-6/fulltext), indexed. Q13–14 and Q20 clinical specialist review pending.
 - [Top Nutrition MCQs for Nursing Exams](https://www.youtube.com/watch?v=S5tv1fJFtzM), indexed practice lead, Q1–20 item mapping/playback pending. No historical provenance claimed.
+
+- Direct second source retrieved: National Academies 2023 energy expenditure chapter (same URL above), confirms expenditure components, gas exchange measurement, equation uncertainty and fat-free mass relationship. FAO PAL definition indexed; full FAO direct retrieval remains blocked.

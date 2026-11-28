@@ -408,3 +408,5 @@
 
 - [WHO child growth standards](https://www.who.int/tools/child-growth-standards/standards) direct HTML reviewed; [WHO 2023 wasting guidance](https://www.ncbi.nlm.nih.gov/books/NBK601655/) direct HTML retrieved. [WHO growth assessment training](https://www.who.int/publications/i/item/9789241595070) and [AAP anthropometric measurements](https://www.aap.org/en/patient-care/newborn-infant-and-early-childhood-nutrition/newborn-and-infant-nutrition-assessment-tools/anthropometric-measurements/) indexed. WHO measuring job aid PDF search snippet supports 0.7 cm adjustment; PDF visual review and preterm chart protocol pending. Q1–20 clinical and data-quality second review pending.
 - [Top Nutrition MCQs for Nursing Exams](https://www.youtube.com/watch?v=S5tv1fJFtzM) general indexed lead, exact child-growth item mapping/playback pending. No historical provenance claimed.
+
+- Direct second source: [WHO malnutrition indicators](https://www.who.int/data/nutrition/nlis/info/malnutrition-in-children); direct WHO growth training overview retrieved. Individual measurement technique and preterm chart review remain pending.

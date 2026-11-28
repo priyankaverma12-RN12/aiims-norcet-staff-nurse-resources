@@ -384,23 +384,23 @@
 
 </details>
 
-### Q20. A patient eats several types of pulses and grains but avoids all other food groups for convenience. Which planning question best identifies the next priority?
+### Q20. In the ICMR-NIN 2024 general balanced-diet guidance, cereals and millets should supply no more than 45% of total energy. For a hypothetical 2,000-kcal reference pattern, what is the corresponding maximum cereal/millet energy contribution?
 
-**Difficulty:** Medium | **Priority:** Medium | **Topic:** Balanced diets and food groups | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** High | **Topic:** Balanced diets and food groups | **Type:** Original practice
 
-- **A.** Which other acceptable food groups can be added to cover likely dietary gaps?
-- **B.** Which pulse should replace all remaining foods?
-- **C.** How can every food be eliminated except the most convenient grain?
-- **D.** How can the number of pulse recipes be counted as complete dietary adequacy?
+- **A.** 900 kcal
+- **B.** 450 kcal
+- **C.** 1,100 kcal
+- **D.** 2,000 kcal
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Which other acceptable food groups can be added to cover likely dietary gaps?**
+**Correct: A. 900 kcal**
 
-- **A. Correct:** Grains aur pulses useful hain, lekin diet restricted ho toh other nutrient sources assess karne chahiye. Acceptable additions individualized plan support karti hain.
-- **B. Incorrect:** Single category expansion broader group gaps address nahi karegi. Diverse pattern important hai.
-- **C. Incorrect:** Further restriction nutrient inadequacy ka risk increase karegi. Convenience ke saath practical variety find karein.
-- **D. Incorrect:** Recipe count food-group completeness establish nahi karta. Actual total dietary pattern evaluate karna chahiye.
+- **A. Correct:** 45 percent ko decimal 0.45 bana kar 2000 se multiply karein. Result 900 kcal hai aur yeh reference pattern ka upper share hai, har patient ki fixed prescription nahi.
+- **B. Incorrect:** 450 kcal 2000 ka 22.5 percent hai. Given 45 percent ceiling ke liye energy amount double hoga.
+- **C. Incorrect:** 1100 kcal 55 percent hai, jo specified cereal/millet share se zyada hai. Other food groups ke liye remaining energy ka concept separate hai.
+- **D. Incorrect:** 2000 kcal entire daily reference energy hai. Cereal/millet group ke liye specified share 45 percent hai, 100 percent nahi.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [ICMR-NIN Dietary Guidelines for Indians 2024](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf), extracted PDF text, food groups and reference 2000-kcal plate reviewed. Screenshot attempt returned cache miss. These are newly worded educational tasks, not reproductions of the original plate. Clinical and dietary second review pending.
 - [Top Nutrition MCQs for Nursing Exams](https://www.youtube.com/watch?v=S5tv1fJFtzM) indexed general practice lead; Q1–20 exact question mapping/playback pending. No historical provenance claimed.
+
+- ICMR-NIN 2024 extracted text also specifies a general cereal/millet energy share ceiling of 45% in its balanced-diet guidance (Q20). No universal therapeutic diet prescription implied.
