@@ -374,27 +374,29 @@
 
 ## Part 4 — Q16–Q20
 
-### Q16. A patient feels ashamed and socially isolated because of fistula leakage. Nurse should?
+### Q16. After a successful obstetric fistula repair, a woman says her family still refuses to welcome her home because of past urine leakage. Which discharge intervention best addresses a fistula-specific rehabilitation need?
 
-**Priority:** High · **Difficulty:** Difficult · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Medium · **Evidence:** Original practice, not PYQ
 
-- **A.** Blame the patient
-- **B.** Say isolation is permanent
-- **C.** Avoid emotional discussion
-- **D.** Offer respectful psychosocial support and specialist referral
+- **A.** Promise that surgery alone automatically restores family acceptance
+- **B.** Send her home without asking about safety, support or her preferences
+- **C.** Tell her to conceal all follow-up appointments from the care team
+- **D.** With her consent, involve a social worker or trained counselor to plan safe community reintegration and appropriate peer or family support
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: D. Offer respectful psychosocial support and specialist referral**
+**Correct: D. With her consent, involve a social worker or trained counselor to plan safe community reintegration and appropriate peer or family support**
 
-**Correct kyun?** Support aur repair referral patient-centered care hai.
+**Correct kyun?** Fistula repair ke baad urine leakage kam ya band ho sakti hai, lekin stigma aur family se alag rehne ki problem surgery ke baad bhi chal sakti hai. Isliye nurse patient ki permission lekar social worker, counselor aur available support group se milwa sakti hai. Patient ki safety, choice aur confidentiality sabse important hain.
 
-- **A. Blame the patient:** Blame patient ki dignity harm karta hai.
-- **B. Say isolation is permanent:** Treatment aur rehabilitation possible hain.
-- **C. Avoid emotional discussion:** Distress assess karna essential hai.
-- **D. Offer respectful psychosocial support and specialist referral:** Support aur repair referral patient-centered care hai.
+- **A. Promise that surgery alone automatically restores family acceptance:** Surgery se physical fistula repair hota hai. Family ka behavior aur social stigma turant change hona guaranteed nahi hai. False promise patient ko disappointed kar sakta hai.
+- **B. Send her home without asking about safety, support or her preferences:** Discharge se pehle home situation, support aur patient ki wishes samajhna zaroori hai. Unsafe return ya social isolation ko ignore nahi karna chahiye.
+- **C. Tell her to conceal all follow-up appointments from the care team:** Follow-up aur care coordination recovery ke liye important hain. Patient ki privacy maintain karte hue uske saath safe plan banana chahiye.
+- **D. With her consent, involve a social worker or trained counselor to plan safe community reintegration and appropriate peer or family support:** WHO obstetric fistula guidance rehabilitation mein counseling, family reintegration aur peer support ka role batati hai. Ye question general empathy se aage practical discharge planning test karta hai.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Patient se private mein poochho ki ghar wapas jaana safe hai ya nahi. Agar woh agree kare toh trained counselor aur social worker ke saath follow-up, peer support aur community reintegration ka plan banao. Family ko involve karna patient ki permission aur safety par depend karta hai.
+
+**Clinical source:** [WHO Obstetric Fistula guiding principles for social reintegration](https://iris.who.int/bitstream/handle/10665/43343/9241593679_eng.pdf?sequence=1). **Question-level PYQ/video evidence:** Not verified.
 
 </details>
 
