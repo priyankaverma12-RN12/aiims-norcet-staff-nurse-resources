@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-09d-lipid-diet-20261128-1208Z
+Scope: Isolated PR35 new dyslipidemia dietary-care bank, guide, original diagram and candidate inventory. No shared navigation or other chapter edits.
+Claimed UTC: 2026-11-28T12:08:47Z
+Expiry UTC: 2026-11-28T12:38:47Z
 
 ## Latest released checkpoint — 09C constipation dietary care
 
