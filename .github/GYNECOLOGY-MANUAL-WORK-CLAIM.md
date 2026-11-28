@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: whole-obg-menstrual-reconcile-20261128-0259
+Scope: Gynecology 20-question allocation audit, dedicated dysmenorrhea and PMS/PMDD MCQ banks, related evidence and local README only
+Claimed UTC: 2026-11-28T02:59:00Z
+Expiry UTC: 2026-11-28T03:29:00Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
