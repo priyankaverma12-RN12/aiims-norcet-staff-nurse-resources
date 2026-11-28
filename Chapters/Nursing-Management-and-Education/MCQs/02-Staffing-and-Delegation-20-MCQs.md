@@ -10,24 +10,24 @@
 
 **Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** Equal staffing based only on bed count
+- **A.** Equal staffing based on occupied beds, adjusted only for expected admissions
 - **B.** Patient acuity and required nursing workload
-- **C.** The age of the ward building
-- **D.** The order in which wards request staff
+- **C.** The previous month's average staffing hours, without reassessing current patients
+- **D.** An equal number of additional nurses per ward, regardless of skill mix
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Patient acuity and required nursing workload**
 
-**A kyun galat hai:** Equal bed count se care complexity ka pata nahi chalta. Isliye sirf census use karne se high-workload ward understaffed reh sakta hai.
+**A kyun galat hai:** Occupied beds aur expected admissions se patient volume ka andaaza milta hai, lekin unse har patient ki care intensity nahi pata chalti. Yahan neurological observations aur mobility assistance ki frequency bhi dekhni zaroori hai.
 
 **B kyun sahi hai:** Dono wards mein patient count same hai, lekin required care ka amount alag hai. Acuity aur workload measure karne se staff actual care needs ke according allocate hota hai.
 
-**C kyun galat hai:** Building ki age nursing workload ka direct measure nahi hai. Patient dependency aur required observations zyada relevant hain.
+**C kyun galat hai:** Pichhle mahine ki staffing hours baseline planning mein useful hain. Lekin agar aaj ke patients ki dependency badh gayi hai, toh sirf purana average use karne se current care needs cover nahi hongi.
 
-**D kyun galat hai:** Pehle request aane se us ward ki need zyada prove nahi hoti. Allocation clinical demand par based honi chahiye.
+**D kyun galat hai:** Dono wards ko barabar additional nurses dena tabhi reasonable hoga jab care demand aur required competencies comparable hon. Yahan manager ko current workload aur suitable skill mix ke hisaab se allocation karna chahiye.
 
-**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing)
+**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing) · [NICE SG1 — adult inpatient staffing recommendations (UK framework, not an Indian staffing mandate)](https://www.nice.org.uk/guidance/sg1/chapter/recommendations)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -62,7 +62,7 @@
 
 ### Q3. A ward records 144 productive nursing care hours for 24 patient-days. What is the nursing hours per patient-day for this period?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** 6 hours
 - **B.** 3 hours
@@ -81,7 +81,7 @@
 
 **D kyun galat hai:** 144 total nursing care hours hai. Isko patient-days se divide kiye bina per-patient measure nahi milega.
 
-**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing)
+**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing) · [CDC NHSN — nurse staffing hours indicator (US reporting framework)](https://www.cdc.gov/nhsn/psc/nhppd/index.html)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -89,7 +89,7 @@
 
 ### Q4. A unit requires 280 productive nursing hours each week. If each full-time equivalent supplies exactly 35 productive hours per week, how many full-time equivalents are required before allowance for other factors?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** 7
 - **B.** 10
@@ -108,7 +108,7 @@
 
 **D kyun galat hai:** 35 ek FTE ka weekly productive time hai. Ye required FTE ki count nahi hai.
 
-**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing)
+**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing) · [NICE SG1 — adult inpatient staffing recommendations (UK framework, not an Indian staffing mandate)](https://www.nice.org.uk/guidance/sg1/chapter/recommendations)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -118,24 +118,24 @@
 
 **Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** The number of chairs at the nursing station
-- **B.** The order in which employees joined the hospital
-- **C.** The colour of staff uniforms
+- **A.** The number of funded posts, assuming each post provides coverage every day
+- **B.** Expected annual staff turnover as the only additional allowance
+- **C.** Average bed occupancy without adjusting for staff availability
 - **D.** Weekly days off and expected leave coverage
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Weekly days off and expected leave coverage**
 
-**A kyun galat hai:** Chairs nursing station ki physical capacity show karti hain. Ye leave replacement ki calculation nahi batati.
+**A kyun galat hai:** Funded post hone ka matlab ye nahi hai ki nurse har din duty par available hogi. Weekly off aur leave ke dauran bhi morning coverage maintain karne ke liye relief staff ka calculation karna padta hai.
 
-**B kyun galat hai:** Joining order seniority ke liye relevant ho sakta hai. Lekin total coverage hours calculate karne ka basis nahi hai.
+**B kyun galat hai:** Annual turnover recruitment planning mein important hai. Lekin turnover ka allowance weekly off, annual leave aur doosri expected absences ke liye required coverage ka substitute nahi hai.
 
-**C kyun galat hai:** Uniform colour identification ke kaam aa sakta hai. Iska leave relief requirement se direct relation nahi hai.
+**C kyun galat hai:** Bed occupancy patient demand ka indicator hai aur on-duty requirement decide karne mein help kar sakti hai. Lekin given seven-nurse requirement ko total establishment mein convert karte waqt staff ki actual availability bhi calculate karni hogi.
 
 **D kyun sahi hai:** Total establishment mein un staff ko bhi consider karna hota hai jo weekly off ya approved leave par honge. Warna roster everyday required seven nurses provide nahi kar paayega.
 
-**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing)
+**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing) · [NICE SG1 — adult inpatient staffing recommendations (UK framework, not an Indian staffing mandate)](https://www.nice.org.uk/guidance/sg1/chapter/recommendations)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -173,9 +173,9 @@
 **Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Staffing and delegation | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** Unscheduled absence hours and their shift distribution
-- **B.** Number of retirement applications over ten years
-- **C.** Patient satisfaction scores alone
-- **D.** Annual equipment depreciation
+- **B.** Annual employee turnover rate
+- **C.** Total overtime hours without matching them to the missed shifts
+- **D.** Planned annual leave hours without recording unexpected absences
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -183,13 +183,13 @@
 
 **A kyun sahi hai:** Unscheduled absence hours show karte hain kitna planned staff time actually available nahi tha. Shift-wise distribution dekhkar manager backup coverage plan bana sakta hai.
 
-**B kyun galat hai:** Retirement data long-term workforce planning mein useful hai. Ye current sickness-related shortfall ko directly measure nahi karta.
+**B kyun galat hai:** Employee turnover se pata chalta hai kitne staff organization chhod rahe hain. Lekin current sickness ki wajah se kitni rostered hours miss hui hain, ye turnover se directly pata nahi chalega.
 
-**C kyun galat hai:** Patient satisfaction important hai, lekin absence hours ka substitute nahi hai. Scheduling gap ke liye roster data chahiye.
+**C kyun galat hai:** Overtime se shortage manage karne ke liye extra workload ka signal mil sakta hai. Lekin overtime ko missed shifts se match kiye bina exact sickness-related scheduling gap nahi nikal sakte.
 
-**D kyun galat hai:** Equipment depreciation assets ki value kam hone ka accounting measure hai. Staff attendance se unrelated hai.
+**D kyun galat hai:** Planned annual leave ko roster banate waqt pehle se consider kiya ja sakta hai. Unexpected sickness ki wajah se jo staff hours miss hui hain, unko separately record karna hoga.
 
-**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing)
+**Reference:** [Open RN — Delegation and supervision](https://www.ncbi.nlm.nih.gov/books/NBK610432/) · [OpenStax — Management in nursing](https://openstax.org/books/fundamentals-nursing/pages/18-2-concepts-of-management-in-nursing) · [NICE SG1 — adult inpatient staffing recommendations (UK framework, not an Indian staffing mandate)](https://www.nice.org.uk/guidance/sg1/chapter/recommendations)
 
 **YouTube MCQ practice:** Verification pending.
 
