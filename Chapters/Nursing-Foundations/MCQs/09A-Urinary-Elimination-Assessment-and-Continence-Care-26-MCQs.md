@@ -210,7 +210,7 @@ D. Record at least three days, including variations in usual activities
 
 ### Q7. A woman with stress urinary incontinence asks whether a supervised exercise programme should be abandoned after one week without improvement. Which response reflects recommended first-line care?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration · **[🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-a-pregnant-client-to-perform-kegel--625dc7cca1f2495a3469d230)**
 
 A. Continue the supervised programme for at least three months, with review
 
@@ -229,6 +229,8 @@ D. Perform exercises only when leakage occurs
 - **C — Incorrect:** Catheter stress incontinence ke routine rehabilitation ka substitute nahi hai aur avoidable risks laata hai.
 - **D — Incorrect:** Regular planned practice chahiye. Sirf leakage ke moment par exercise karne se prescribed training dose complete nahi hoti.
 
+**Related exam evidence:** Is reported obstetric question mein pelvic floor strengthening ka purpose poochha gaya tha. Isse is question ki three-month training duration ya correct contraction assessment ka historical appearance prove nahi hota. Official paper aur key verify nahi hue hain.
+
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
 [Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#pelvic-floor-muscle-training)
@@ -243,7 +245,7 @@ D. Perform exercises only when leakage occurs
 
 ### Q8. During instruction, a woman repeatedly bears down instead of lifting and contracting her pelvic floor. What should the nurse do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction · **[🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-a-pregnant-client-to-perform-kegel--625dc7cca1f2495a3469d230)**
 
 A. Increase the number of repetitions immediately
 
@@ -261,6 +263,8 @@ D. Declare pelvic floor therapy ineffective without assessment
 - **B — Incorrect:** Straining abdomen ka pressure badhata hai. Yeh intended pelvic floor contraction ka replacement nahi hai.
 - **C — Correct:** Pehle correct contraction confirm karna chahiye. Trained clinician consent aur privacy ke saath assessment kare, phir suitable exercise plan sikhaye.
 - **D — Incorrect:** Technique correct kiye bina treatment ineffective declare karna premature hai.
+
+**Related exam evidence:** Is reported obstetric question mein pelvic floor strengthening ka purpose poochha gaya tha. Isse is question ki three-month training duration ya correct contraction assessment ka historical appearance prove nahi hota. Official paper aur key verify nahi hue hain.
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
