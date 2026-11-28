@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-09c-constipation-20261128-1200Z
+Scope: Isolated PR35 dietary care of chronic constipation, candidate-local bank, guide, SVG and evidence. Excludes GI disease management, Foundations bowel procedures, Renal and shared navigation.
+Claimed UTC: 2026-11-28T12:00:20Z
+Expiry UTC: 2026-11-28T12:30:20Z
 
 ## Latest released checkpoint — 09B tuberculosis nutritional care
 
