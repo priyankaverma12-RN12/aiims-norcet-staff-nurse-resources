@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job5-run48e-20261128-0316
-Scope: Nursing Foundations Group09A Q12 hidden rationale terminology clarification only and Group28 original-bank rationale-only edits. No legacy mock, PR, shared index, Group09B or other job edits. Preserve Group26/27 staging.
+Scope: Nursing Foundations Group09A Q12 hidden rationale and Group28 original-bank rationale-only edits, plus Group28 legacy staging only at .github/job5-drafts/Nursing-Foundations-Group-28-Mock-Mapped-20.md. No learner mock, PR, shared index, Group09B or other job edits. Preserve Group26/27 staging.
 Claimed UTC: 2026-11-28T03:16:22Z
 Expiry UTC: 2026-11-28T03:46:22Z
 
