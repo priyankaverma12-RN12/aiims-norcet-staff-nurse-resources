@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: continuation-pr60-b09-20261128T122200Z
-Scope: PR60 Batch 09 isolated autoimmune pancreatitis, acute hepatitis A and distinct ascites management depth only. No existing content or shared navigation edits.
+Scope: PR60 Batch 09 isolated autoimmune pancreatitis, acute hepatitis A, ascites management, chronic pancreatic duct intervention and biliary malignancy new banks only. No existing content or shared navigation edits.
 Claimed UTC: 2026-11-28T12:22:00Z
 Expiry UTC: 2026-11-28T12:52:00Z
 
