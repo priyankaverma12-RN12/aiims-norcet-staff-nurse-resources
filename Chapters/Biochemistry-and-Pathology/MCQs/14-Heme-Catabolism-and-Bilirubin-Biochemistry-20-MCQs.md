@@ -312,23 +312,23 @@
 
 ## Part 4
 
-### Q16. After successful relief of biliary obstruction, a patient's clinical condition improves but the direct bilirubin fraction declines more slowly than expected. What biochemical explanation may contribute?
+### Q16. A patient with Rotor syndrome has predominantly conjugated hyperbilirubinemia. Which hepatocellular transport defect is most characteristic of this condition?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Heme catabolism and bilirubin biochemistry | **Exam focus:** NORCET-style original
 
-- **A.** Persistence of albumin-bound delta bilirubin
-- **B.** Immediate new synthesis of all bilirubin by kidney glomeruli
-- **C.** Conversion of all albumin into unconjugated bilirubin
-- **D.** Total cessation of intestinal bacterial metabolism must be present
+- **A.** Combined loss of OATP1B1 and OATP1B3-mediated hepatic uptake and reuptake
+- **B.** Complete absence of UGT1A1 activity
+- **C.** Increased hemoglobin synthesis in the bone marrow as the primary abnormality
+- **D.** Loss of intestinal lactase activity
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Persistence of albumin-bound delta bilirubin**
+**Correct: A. Combined loss of OATP1B1 and OATP1B3-mediated hepatic uptake and reuptake**
 
-- **A.** Delta bilirubin albumin ke half-life ke according slowly clear ho sakta hai. Persistent direct fraction alone ongoing obstruction prove nahi karti.
-- **B.** Kidney glomeruli bilirubin synthesis ke primary site nahi hain. Slow clearance ka relevant mechanism delta fraction ho sakta hai.
-- **C.** Albumin protein bilirubin ka precursor nahi. Bilirubin heme catabolism se banta hai.
-- **D.** Slow direct bilirubin decline ke liye complete intestinal bacterial cessation necessary nahi. Clinical and laboratory correlation chahiye.
+- **A.** Rotor syndrome mein hepatic organic anion uptake transporters OATP1B1 aur OATP1B3 ki combined deficiency bilirubin handling ko disturb karti hai. Yeh MRP2 canalicular export defect wale Dubin-Johnson syndrome se different mechanism hai.
+- **B.** Complete UGT1A1 deficiency severe unconjugated hyperbilirubinemia produce karti hai. Yeh Rotor syndrome ke predominantly conjugated pattern ka characteristic mechanism nahi hai.
+- **C.** Increased hemoglobin synthesis primary hepatic transporter defect ko explain nahi karti. Heme turnover aur hepatic transport alag processes hain.
+- **D.** Lactase deficiency lactose digestion impair karti hai. Bilirubin hepatic uptake transporter activity iska defining problem nahi hai.
 
 </details>
 
@@ -419,3 +419,5 @@
 - [Merck laboratory tests of liver and gallbladder](https://www.merckmanuals.com/professional/hepatic-and-biliary-disorders/testing-for-hepatic-and-biliary-disorders/laboratory-tests-of-the-liver-and-gallbladder)
 - [Association for Laboratory Medicine bilirubin monograph](https://labmed.org.uk/static/30401f23-e2cf-491b-bdf7fe974b415676/bilirubin.pdf) — indexed extract only, PDF visual verification pending.
 - [Bilirubin metabolism teaching video, Dr Rajesh Jambhulkar](https://www.youtube.com/watch?v=bAhGCMXzbRo) — indexed teaching lead, not verified MCQ practice. Individual source and video mapping and independent review pending. No historical credit.
+
+- Q16 was replaced before review to distinguish inherited transport defects from the delta bilirubin objective in Q15. No additional question count. Specific Rotor mechanism source review pending.
