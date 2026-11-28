@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-08c-fortification-20261128-0908Z
+Scope: Isolated PR35 08C food fortification standards and candidate-local concepts, diagram and review. No shared navigation, production or other job edits.
+Claimed UTC: 2026-11-28T09:08:31Z
+Expiry UTC: 2026-11-28T09:38:31Z
 
 ## Latest released checkpoint — 08B national nutrition programme updates
 
