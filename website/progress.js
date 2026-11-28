@@ -126,10 +126,23 @@ function scopedInventoryRecords(p,data=studyInventory){
  if(parts.length===3&&parts[2]==='README.md')return c.records;
  return p.endsWith('/')?c.records.filter(f=>f.path.startsWith(p)):c.records.filter(f=>f.path===p);
 }
+
+function theoryRecords(data,scope=''){
+ const chapter=scope.split('/')[1],overview=scope==='Chapters/'+chapter+'/README.md';
+ return Object.entries(data?.resources||{}).filter(([path,m])=>m.type==='Theory'&&!m.draft&&path.startsWith('Chapters/')&&(!scope||(overview?path.startsWith('Chapters/'+chapter+'/'):scope.endsWith('/')?path.startsWith(scope):path===scope))).map(([path,m])=>({path,title:m.title,category:'theory',slots:0,chapter:path.split('/')[1]}));
+}
+function theoryCountText(n){return countPhrase(n,'theory topic')}
+function theoryProgressTag(data,scope){
+ const records=theoryRecords(data,scope),paths=new Set(records.map(r=>r.path)),eligible=(progressCatalog||[]).filter(r=>r.kind==='theory'&&paths.has(r.path));
+ const tag=studyTag(theoryCountText(records.length),'theory');tag.dataset.role='theory-count';
+ liveProgressRefresh(()=>{const done=completionSummary(eligible,loadCompletion(),loadRoutine()).done;tag.textContent=theoryCountText(records.length)+' · '+done+' done'},tag);
+ return tag;
+}
+
 function inventoryLabelParts(p,data=studyInventory){
  if(!data?.chapters.some(c=>c.id===p.split('/')[1]))return [];
  const records=scopedInventoryRecords(p,data),totals={mcq:0,pyq:0,imported:0,embedded:0};for(const f of records)if(Object.hasOwn(totals,f.category))totals[f.category]+=f.slots;
- const labels=[];if(totals.mcq)labels.push({kind:'mcq',text:countPhrase(totals.mcq,'MCQ','MCQs')});
+ const labels=[],theory=theoryRecords(data,p).length;if(theory||p.endsWith('/Concepts/')||p.endsWith('/README.md')&&p.split('/').length===3)labels.push({kind:'theory',text:theoryCountText(theory)});if(totals.mcq)labels.push({kind:'mcq',text:countPhrase(totals.mcq,'MCQ','MCQs')});
  const mock=mockSummary(data,records);
  if(mock.tests||p.endsWith('/Mock-Tests/')||p.endsWith('/README.md')&&p.split('/').length===3)labels.push({kind:'mock',text:mockCountText(mock)});
  if(mock.drafts)labels.push({kind:'draft',text:countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question')});
@@ -147,7 +160,7 @@ function progressTagInfo(x){return x.done?['✓ Completed','done']:x.changed?['U
 function inventoryText(p){return inventoryLabelParts(p).map(x=>x.text).join(' · ')}
 function addInventoryCount(target,p){
  const labels=inventoryLabelParts(p);if(!labels.length)return target;
- const wrap=node('span',undefined,'resource-question-count study-labels');for(const item of labels)wrap.append(studyTag(item.text,item.kind));target.append(wrap);return target;
+ const wrap=node('span',undefined,'resource-question-count study-labels');for(const item of labels)wrap.append(item.kind==='theory'?theoryProgressTag(studyInventory,p):studyTag(item.text,item.kind));target.append(wrap);return target;
 }
 const progressRefreshers=new Map();
 function liveProgressRefresh(fn,element){fn();for(const el of progressRefreshers.keys())if(!el.isConnected&&el.dataset.mounted==='true')progressRefreshers.delete(el);progressRefreshers.set(element,fn);queueMicrotask(()=>{if(element.isConnected)element.dataset.mounted='true';else progressRefreshers.delete(element)})}
@@ -160,7 +173,7 @@ function resourceCardWithProgress(anchor,p,options={}){
  if(options.count!==false)addInventoryCount(anchor,p);
  const stateTag=studyTag('Not started');stateTag.dataset.role='status';line.append(text,percent);status.append(stateTag,line,meter,control);card.append(anchor,status);
  const refresh=()=>{const x=completionState(r,loadCompletion(),loadRoutine()),value=r.slots?completionPercent(x.covered,r.slots):Number(x.done)*100;
-  text.textContent=r.slots?(x.done?'Completed · ':'')+x.checked+' / '+r.slots+' checked':x.done?'Completed':'Not marked done';
+  text.textContent=r.slots?(x.done?'Completed · ':'')+x.checked+' / '+r.slots+' checked':x.done?'1 / 1 topic done':'0 / 1 topic done';
   const [state,kind]=progressTagInfo(x);stateTag.textContent=state;stateTag.dataset.kind=kind;percent.textContent=value+'%';meter.value=value;card.classList.toggle('is-completed',x.done);control.refreshCompletion()
  };
  liveProgressRefresh(refresh,card);return card;
@@ -186,26 +199,26 @@ async function showProgress(){
  const opened=new Set(chapter.value?[chapter.value]:[]);
  function scope(){return records.filter(r=>!chapter.value||r.chapter===chapter.value)}
  function summaryBox(label,s){
-  const box=node('div',undefined,'completion-stat');box.append(node('span',label),node('strong',s.total?s.percent+'%':'—'),completionMeter(s.percent,label+' completion'),node('small',s.done+' / '+s.total+' resources done'));if(s.slots)box.append(node('small',s.covered+' / '+s.slots+' questions covered · '+s.questionPercent+'%'));return box
+  const box=node('div',undefined,'completion-stat');box.append(node('span',label),node('strong',s.total?s.percent+'%':'—'),completionMeter(s.percent,label+' completion'),node('small',s.done+' / '+s.total+(label==='Theory topics'?' topics done':' resources done')));if(s.slots)box.append(node('small',s.covered+' / '+s.slots+' questions covered · '+s.questionPercent+'%'));return box
  }
  function draw(){
   const focusPath=document.activeElement?.dataset.progressPath;const marks=loadCompletion(),routine=loadRoutine(),scoped=scope(),s=completionSummary(scoped,marks,routine);
   summary.replaceChildren(summaryBox('Overall completion',s));
-  for(const [key,label] of Object.entries(progressTypes)){const rows=scoped.filter(r=>r.kind===key);if(rows.length)summary.append(summaryBox(label,completionSummary(rows,marks,routine)))}
+  for(const [key,label] of Object.entries(progressTypes)){const rows=scoped.filter(r=>r.kind===key);if(rows.length||key==='theory')summary.append(summaryBox(label,completionSummary(rows,marks,routine)))}
   const search=query.value.trim().toLowerCase(),selected=kind.value,show=filter.value;
   list.replaceChildren();let visible=0;
   for(const c of data.chapters.filter(c=>!chapter.value||c.id===chapter.value)){
    const all=records.filter(r=>r.chapter===c.id),matches=all.filter(r=>{const x=completionState(r,marks,routine);return (!selected||r.kind===selected)&&(!search||(r.title+' '+r.path+' '+c.name).toLowerCase().includes(search))&&(!show||(show==='done'?x.done:!x.done))});
    if(!matches.length)continue;visible+=matches.length;
    const card=node('details',undefined,'completion-chapter');card.dataset.chapter=c.id;
-   const head=node('summary'),cs=completionSummary(all,marks,routine),label=node('div');label.append(node('strong',c.name),node('small',cs.done+' / '+cs.total+' resources done'));head.append(label,node('strong',cs.percent+'%','chapter-completion-percent'));card.append(head,completionMeter(cs.percent,c.name+' completion'));
+   const head=node('summary'),cs=completionSummary(all,marks,routine),label=node('div');label.append(node('strong',c.name),node('small',cs.done+' / '+cs.total+' resources done'));const theory=all.filter(r=>r.kind==='theory'),ts=completionSummary(theory,marks,routine);label.append(studyTag(theoryCountText(ts.total)+' · '+ts.done+' done','theory'));head.append(label,node('strong',cs.percent+'%','chapter-completion-percent'));card.append(head,completionMeter(cs.percent,c.name+' completion'));
    const actions=node('div',undefined,'completion-chapter-actions'),link=node('a','Open chapter');link.href=route('Chapters/'+c.id+'/README.md');const reset=node('button','Reset chapter progress','completion-reset');reset.type='button';reset.onclick=()=>{if(!resetCompletionScope(all,c.name))return};actions.append(link,reset);card.append(actions);
    const body=node('div',undefined,'completion-resources');card.append(body);
    function populate(){if(body.children.length)return;for(const r of matches){
     const x=completionState(r,loadCompletion(),loadRoutine()),tile=node('article',undefined,'completion-resource'),a=node('a',undefined,'completion-resource-link');a.href=route(r.path);
     a.append(resourceTypeTag(r.path),node('strong',r.title));tile.append(a);const [state,kind]=progressTagInfo(x);const tag=studyTag(state,kind);tag.dataset.role='status';tile.append(tag);
     if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions can be answered here; read the others in the original notes','muted'))}
-    tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
+    if(r.kind==='theory'&&!r.slots)tile.append(node('p',x.done?'1 / 1 topic done':'0 / 1 topic done','theory-topic-status'),completionMeter(x.done?100:0,r.title+' progress'));tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
    }}
    card.open=!!chapter.value||!!search||opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
@@ -217,4 +230,4 @@ async function showProgress(){
  $('reset-progress').onclick=()=>resetCompletionScope(scope(),chapter.value?'this chapter':'all tracked chapters');
  document.addEventListener('study-progress-change',draw);draw();
 }
-if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots,mockSummary,mockCountText,inventoryLabelParts,progressTagInfo};
+if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots,mockSummary,mockCountText,inventoryLabelParts,progressTagInfo,theoryRecords,theoryCountText};

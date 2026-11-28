@@ -55,6 +55,12 @@ with sync_playwright() as p:
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
+        theory_all=[p for p,m in expected["resources"].items() if m["type"]=="Theory" and not m["draft"]]
+        expect(page.locator("#theory-total")).to_have_text(str(len(theory_all)))
+        for c in page.locator(".chapter-card .chapter").evaluate_all("""els=>els.map(e=>({id:new URL(e.href).searchParams.get('doc').split('/')[1],text:e.querySelector('.study-tag[data-role=theory-count]')?.textContent}))"""):
+            n=sum(p.startswith("Chapters/"+c["id"]+"/") for p in theory_all)
+            assert c["text"]==f"{n} theory topic{'s' if n!=1 else ''} · 0 done",c
+        expect(respiratory.locator(".chapter-links a[data-study-section=Concepts] .study-tag[data-kind=theory]")).to_be_visible()
         resp=next(c for c in expected["chapters"] if c["id"]=="Respiratory-System")
         resp_mocks=[f for f in resp["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
         expect(respiratory.locator(".chapter .study-tag[data-kind=mock]")).to_have_text(f"{len(resp_mocks)} mock tests · {sum(f['slots'] for f in resp_mocks):,} questions")
@@ -167,9 +173,9 @@ with sync_playwright() as p:
         expect(page.locator(".completion-resource input:checked")).to_have_count(0)
         print(f"Published completion tracker {width}x{height}: mark done, coverage, reload, filtering and reset passed.",flush=True)
         go({"metrics":"1","chapter":chapter["id"]})
-        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(5,timeout=30000)
+        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value(chapter["id"])
-        records=page.locator(".metric-records a.metric-record")
+        records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
         expect(records).to_have_count(len(chapter["records"]))
         actual=records.evaluate_all("""els=>els.map(e=>({path:new URL(e.href).searchParams.get('doc'),slots:Number(e.querySelector('.metric-record-count strong').textContent.replace(/,/g,''))}))""")
         assert actual==[{"path":r["path"],"slots":r["slots"]} for r in chapter["records"]]
@@ -184,9 +190,24 @@ with sync_playwright() as p:
         print(f"Published metrics resource cards {width}x{height}: exact counts, full links, responsive grid and filtering passed.",flush=True)
 
         mocks=[f for f in chapter["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
-        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
+        theory=[p for p,m in expected["resources"].items() if p.startswith("Chapters/"+chapter["id"]+"/") and m["type"]=="Theory" and not m["draft"]]
+        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[len(theory),chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
         expect(page.locator(".mock-question-total")).to_have_text(f"{sum(f['slots'] for f in mocks):,} questions")
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
+        page.locator("#metrics-category").select_option("theory")
+        theory_cards=page.locator(".metric-record[data-category=theory]")
+        expect(theory_cards).to_have_count(len(theory))
+        actual_theory=theory_cards.evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc'))")
+        assert set(actual_theory)==set(theory)
+        if theory:
+            first_theory=page.locator(".tracked-resource-card").filter(has=theory_cards.first).first
+            first_theory.locator("input[type=checkbox]").check()
+            expect(page.locator(".theory-metric-completed")).to_contain_text("1 completed")
+            first_theory.locator("input[type=checkbox]").uncheck()
+            expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
+        page.locator("#metrics-category").select_option("")
+        print(f"Theory inventory, exact topic destinations and live completion count passed at {width}x{height}.",flush=True)
+
         assert page.locator(".metric-tile").first.evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         go({"doc":"Chapters/Nursing-Foundations/README.md"})
