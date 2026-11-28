@@ -1,10 +1,17 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0537Z
-Scope: Mental Health Group 02E EEG only, new topic files and local indexes. No shared tracker or PR changes.
-Claimed UTC: 2026-11-28T05:37:00Z
-Expiry UTC: 2026-11-28T06:07:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02E, 28 November 2026
+
+- 30 original EEG MCQs, 1 Easy, 17 Medium and 12 Difficult editorial labels, 120 English options and 120 individual option reasons, 30 closed answer blocks. Answer distribution A8 B8 C7 D7. Bank commit 36d3abb5e722c9e223fffaf4d72157cb5a27701e, blob 4cef219cb8cce56a33e1fe172179d16d6a3421c0. Exact normalized duplicate comparison against 164 earlier chapter original/reported stems passed. Independent difficulty, clinical and comprehensive semantic audit pending.
+- Concepts c6d6dafb6d7841f6e63279d92ad85496466cc6d9, original SVG d9af6b6a952ef4851142278684d42bda2f0afd76, one OSSSC Nursing Officer 2023 reported adaptation d98dcab74ec56f7b7461af6cbc49d906a3fadaf2. NPrep report directly retrieved, official paper/key pending. NHS and MedlinePlus directly retrieved, NICE NG217 recommendation indexed and direct open 403. EEG waveforms and Canadian standards indexed. Three teaching/mixed-quiz video descriptions retrieved, no exact-item playback verification. All 31 dedicated question video mappings remain pending.
+- References 980d64793a0f22555a36b10cd9f656404687ccba, coverage map 0421aec988d1c54f2fc9f53d4cb8b878c531876e, evidence register b89cbc32c7bc72a2dd302d4160a390b8722ad8fd, README c56037bf1120f4480776d41680d325d60a4300e5. Exact remote readbacks. All formal claims rechecked, own dedicated lease preserved. Both rules fetched at start of run and SHA matched preceding full bounded review, fresh complete line-by-line reread not certified. No PR, shared tracker or schedule changes.
+- This run 02D and 02E total: 60 originals, 240 individual option reasons, 2 reported adaptations, 2 original diagrams and 60 hidden answers. Chapter-local inventory now 184 originals, 11 reported adaptations, 7 original diagrams, 0 of 1200 mock-exclusive questions. Next 02F neuroimaging CT/MRI, then laboratory investigations and psychometric tests, remaining groups and 10 original-only mocks. No whole-chapter completion certified. Own claim released.
 
 ## Verified continuation — Group 02D, 28 November 2026
 
