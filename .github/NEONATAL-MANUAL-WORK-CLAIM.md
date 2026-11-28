@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: neonatal-b02-20261128-1312Z
+Scope: PR57 new isolated neonatal prophylaxis and feeding topic packages only, no shared navigation or previous bank changes
+Claimed UTC: 2026-11-28T13:12:00Z
+Expiry UTC: 2026-11-28T13:42:00Z
 
 ## Verified released checkpoint — 2026-11-28
 
