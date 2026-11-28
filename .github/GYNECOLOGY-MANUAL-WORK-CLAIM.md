@@ -84,3 +84,8 @@ Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. 
 - Next: dedicated pelvic fistulas, audit existing 20 vulvar/Bartholin slots and expand to 30–40 genuinely distinct per meaningful topic, then remaining topic banks and ten distinct original-only 120-question mocks after coverage. Preserve active parallel Obstetrics work. No schedules modified. Claim released.
 
 - 28 Nov 2026: Indexed published pelvic fistula 20 raw original slots, without counting as fully semantically deduplicated. README commit b4ec5417712af61e82cc21473f9fd3c5f4bc8881, remote readback passed. Baseline 564 allocated, 20 vulvar unallocated, 19 menstrual revisions, 20 fistula unallocated = 623 raw slots.
+
+## 28 November 2026 cross-bank audit checkpoint
+- 40 question-level stem decisions (Vulvar 20, Fistula 20), including concrete duplicate and partial-overlap references. Audit commit b7108afbdd7e435ee75bdadff7eb9903a02c34f4, exact readback 40 rows.
+- Shared README linked audit, commit 5544181deb9b45703e7438ad9c2150624aaa5530, exact readback verified. Preserved 564 allocated originals + 20 Vulvar raw + 20 Fistula raw + 19 menstrual revisions = 623 physical slots.
+- WHO source check confirms 7–10 days only for simple repaired obstetric urinary fistula; full per-question source and answer audit incomplete. Do not allocate disputed banks until completed. No mocks.

@@ -70,3 +70,7 @@ This is a binding language and teaching-quality gate for ALL existing and new ch
 ## Priority-thirteen dedicated chapter lane — 28 November 2026
 
 Follow the new lane-specific throughput correction in both SKILL.md files: 20 originals per meaningful topic, target five topics and 100 originals per run, then ten original-only 120-item chapter mocks at two per run, then source-traced PYQs. Finish one unclaimed chapter before advancing. Preserve other owners, established higher targets in other lanes, learner identities and existing automations. The canonical skill governs quality and coordination.
+
+## Batch-policy reconciliation (PR36)
+
+The priority-thirteen lane's 20-original minimum per meaningful topic and five-topic/100-original target are execution targets, not limits or permission to weaken validation. Keep expressly assigned higher targets in other lanes. Record partial validated batches and the next unfinished topic rather than padding. Check open and draft PRs as well as current claims before reserving scope. In the historical-question phase include relevant publicly evidenced Military Nursing Service and military staff nurse examinations within the existing India-wide research scope. Preserve all earlier quality, evidence, ownership, learner-history and automation requirements.

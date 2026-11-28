@@ -44,6 +44,20 @@ function mountResponsiveDisclosures(){
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&more.open){more.open=false;more.querySelector('summary').focus()}});
  }
 }
+// Presentation-only disclosures preserve keyboard access and nested state.
+function mountCompactPanels(){
+ const mobile=matchMedia('(max-width:600px)'),searchButton=$('library-search-toggle'),libraryButton=$('library-panel-toggle'),filters=$('library-filters'),results=$('library-results');
+ function setPanel(button,region,open,show,hide){region.hidden=!open;button.setAttribute('aria-expanded',String(open));button.setAttribute('aria-label',open?hide:show)}
+ function setSearch(open,focus=false){setPanel(searchButton,filters,open,'Show chapter search and filters','Hide chapter search and filters');if(open){setLibrary(true);if(focus)$('search').focus()}}
+ function setLibrary(open){setPanel(libraryButton,results,open,'Expand chapter library','Collapse chapter library');if(!open)setPanel(searchButton,filters,false,'Show chapter search and filters','Hide chapter search and filters')}
+ function revealAnchor(){if(location.hash==='#bookmarks')$('saved-panel').open=true;if(location.hash==='#daily-study')$('daily-panel').open=true;if(location.hash==='#library')setLibrary(true)}
+ if(mobile.matches){setSearch(false);for(const el of document.querySelectorAll('.mobile-optional'))el.open=false}
+ searchButton.addEventListener('click',()=>setSearch(filters.hidden,true));
+ libraryButton.addEventListener('click',()=>setLibrary(results.hidden));
+ filters.addEventListener('keydown',e=>{if(e.key==='Escape'){setSearch(false);searchButton.focus()}});
+ addEventListener('hashchange',revealAnchor);document.addEventListener('click',e=>{const a=e.target.closest('a[href="#bookmarks"],a[href="#daily-study"],a[href="#library"]');if(a){if(a.hash==='#bookmarks')$('saved-panel').open=true;if(a.hash==='#daily-study')$('daily-panel').open=true;if(a.hash==='#library')setLibrary(true)}});
+ revealAnchor();
+}
 function mountPageWelcome(){
  const header=document.querySelector('.topbar'),locationBar=$('reading-position')?.closest('.reading-location');
  const measure=()=>{document.documentElement.style.setProperty('--header-offset',Math.ceil(header?.getBoundingClientRect().height||0)+'px');document.documentElement.style.setProperty('--location-offset',Math.ceil(locationBar?.getBoundingClientRect().height||0)+'px')};
@@ -68,13 +82,33 @@ const groupIcons=['✚','♡','⚕','✳','♧','◎','◇','▤'];
 const sectionLinks=[['Overview','README.md'],['Theory','Concepts/'],['MCQs','MCQs/'],['Mock tests','Mock-Tests/'],['PYQs','Previous-Year-Questions/'],['Revision','Revision/']];
 function availableSections(catalog,id){return sectionLinks.filter(([label,folder])=>!catalog||!folder.endsWith('/')||Object.hasOwn(catalog.directories||{},'Chapters/'+id+'/'+folder.slice(0,-1)))}
 async function home(){drawMarks();const [md,catalog,metrics]=await Promise.all([read(index),getCatalog(),getMetrics()]);progressCatalog=completionRecords(metrics);drawRecent();drawRoutine(metrics);drawMarks();if(metrics){$('mcq-total').textContent=metrics.totals.mcq.toLocaleString('en-IN');const mock=mockSummary(metrics,metrics.chapters.flatMap(c=>c.records));$('mock-total').textContent=mock.tests.toLocaleString('en-IN');$('mock-total-questions').textContent=countPhrase(mock.questions,'question')}document.addEventListener('study-progress-change',()=>drawRoutine(metrics));document.addEventListener('visibilitychange',()=>{if(!document.hidden)drawRoutine(metrics)});const chapters=completeLibrary(md,metrics),groups=[...new Set(chapters.map(c=>c.group))];$('chapter-total').textContent=chapters.length;const theory=theoryRecords(metrics);$('theory-total').textContent=metrics?theory.length.toLocaleString('en-IN'):'—';const theoryDone=$('theory-done');liveProgressRefresh(()=>{const s=completionSummary((progressCatalog||[]).filter(r=>r.kind==='theory'),loadCompletion(),loadRoutine());theoryDone.textContent=s.done+' completed'},theoryDone);$('group-total').textContent=groups.length;for(const g of groups){const o=node('option',g);o.value=g;$('group-filter').append(o)}
+ const groupStates=new Map(),cardStates=new Map();
  function draw(){const q=$('search').value.trim().toLowerCase(),g=$('group-filter').value;const filtered=chapters.filter(c=>(!g||c.group===g)&&(c.id+' '+c.name+' '+c.group).toLowerCase().includes(q));$('chapters').replaceChildren();$('count').textContent=filtered.length+' of '+chapters.length+' chapters';$('clear-library').hidden=!q&&!g;if(!filtered.length){$('chapters').append(node('div','No matching chapters. Try a different search or study area.','empty-state'));return}
- for(const group of groups){const list=filtered.filter(c=>c.group===group);if(!list.length)continue;const area=node('section',undefined,'chapter-group'),h=node('h3');h.append(node('span',String(groups.indexOf(group)+1).padStart(2,'0'),'group-number'),node('span',group),node('span',list.length+' chapters','group-count'));area.append(h);const grid=node('div',undefined,'chapter-grid');for(const c of list){const card=node('div',undefined,'chapter-card'),a=node('a',undefined,'chapter');a.href=route('Chapters/'+c.id+'/README.md');const icon=node('span',groupIcons[groups.indexOf(group)%groupIcons.length],'chapter-icon');icon.setAttribute('aria-hidden','true');const title=node('div');title.append(node('strong',c.name));if(c.id==='Nervous-System')title.append(node('small','Separate legacy study resources','chapter-legacy-note'));addInventoryCount(title,'Chapters/'+c.id+'/README.md');a.append(icon,title,node('span','↗','chapter-arrow'));const links=node('div',undefined,'chapter-links');for(const [label,folder] of availableSections(catalog,c.id).slice(1)){const l=node('a',label);l.href=route('Chapters/'+c.id+'/'+folder);l.setAttribute('aria-label',c.name+' '+label);l.dataset.studySection=folder.split('/')[0];addInventoryCount(l,'Chapters/'+c.id+'/'+folder);links.append(l)}card.append(a,links);const tracker=chapterCardProgress(c.id);if(tracker)card.append(tracker);grid.append(card)}area.append(grid);$('chapters').append(area)}}
+ for(const group of groups){const list=filtered.filter(c=>c.group===group);if(!list.length)continue;const area=node('details',undefined,'chapter-group study-panel study-area-panel'),h=node('summary');area.open=Boolean(q||g)||(groupStates.get(group)??true);area.addEventListener('toggle',()=>{if(!q&&!g)groupStates.set(group,area.open)});h.append(node('span',String(groups.indexOf(group)+1).padStart(2,'0'),'group-number'),node('span',group),node('span',list.length+' chapters','group-count'));area.append(h);const grid=node('div',undefined,'chapter-grid');for(const c of list){const card=node('div',undefined,'chapter-card'),a=node('a',undefined,'chapter');a.href=route('Chapters/'+c.id+'/README.md');const icon=node('span',groupIcons[groups.indexOf(group)%groupIcons.length],'chapter-icon');icon.setAttribute('aria-hidden','true');const title=node('div');title.append(node('strong',c.name));if(c.id==='Nervous-System')title.append(node('small','Separate legacy study resources','chapter-legacy-note'));addInventoryCount(title,'Chapters/'+c.id+'/README.md');a.append(icon,title,node('span','↗','chapter-arrow'));const links=node('div',undefined,'chapter-links');for(const [label,folder] of availableSections(catalog,c.id).slice(1)){const l=node('a',label);l.href=route('Chapters/'+c.id+'/'+folder);l.setAttribute('aria-label',c.name+' '+label);l.dataset.studySection=folder.split('/')[0];addInventoryCount(l,'Chapters/'+c.id+'/'+folder);links.append(l)}const extras=node('details',undefined,'chapter-card-details study-panel');extras.open=Boolean(q||g)||(cardStates.get(c.id)??!matchMedia('(max-width:600px)').matches);extras.addEventListener('toggle',()=>{if(!q&&!g)cardStates.set(c.id,extras.open)});const extraSummary=node('summary','Study resources');extraSummary.setAttribute('aria-label','Study resources for '+c.name);extras.append(extraSummary,links);const tracker=chapterCardProgress(c.id);if(tracker)extras.append(tracker);card.append(a,extras);grid.append(card)}area.append(grid);$('chapters').append(area)}}
  $('search').oninput=draw;$('group-filter').onchange=draw;$('clear-library').onclick=()=>{$('search').value='';$('group-filter').value='';draw();$('search').focus()};draw()}
+// Style explicit difficulty metadata only; preserve clinical content and question identity.
+function decorateQuestionDifficulty(target){
+ for(const p of target.querySelectorAll('p')){
+  if(p.closest('details,.explanation-body,pre,code')||!/^Difficulty\s*:/i.test(p.textContent.trim()))continue;
+  const walker=document.createTreeWalker(p,NodeFilter.SHOW_TEXT);
+  let text;
+  while((text=walker.nextNode())){
+   if(text.parentElement.closest('a,code,.difficulty-label'))continue;
+   const match=/(?:[🟢🟡🔴]\s*)?\b(Easy|Medium|Difficult|Hard)\b/iu.exec(text.nodeValue);
+   if(!match)continue;
+   const level=match[1].toLowerCase(),badge=node('span',undefined,'difficulty-label');
+   badge.dataset.level=level==='hard'?'difficult':level;
+   const icon=node('span',undefined,'difficulty-icon');icon.setAttribute('aria-hidden','true');
+   for(let i=0;i<3;i++)icon.append(node('i'));
+   badge.append(icon,document.createTextNode(match[1]));
+   text.replaceWith(document.createTextNode(text.nodeValue.slice(0,match.index)),badge,document.createTextNode(text.nodeValue.slice(match.index+match[0].length)));break;
+  }
+ }
+}
 function renderQuiz(target,md,p){
  target.innerHTML=DOMPurify.sanitize(marked.parse(md,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});
- for(const a of target.querySelectorAll('a[href]')){const href=a.getAttribute('href');if(href.startsWith('#'))continue;const r=resolveResource(href,p);if(!r){a.removeAttribute('href');continue}if(!r.external){const t=r.path;if(safe(t)&&(/\.md$/i.test(t)||t.endsWith('/')))a.href=route(t,r.hash);else a.href=sourceLink(t)+r.hash}else{a.href=r.url;a.target='_blank';a.rel='noopener noreferrer'}}
- decorateImages(target,p);decorateDiagrams(target,p);
+ for(const a of target.querySelectorAll('a[href]')){const href=a.getAttribute('href');if(href.startsWith('#'))continue;const r=resolveResource(href,p);if(!r){a.removeAttribute('href');continue}if(!r.external){const t=r.path;const destination=studyDocumentPath(r);if(destination&&safe(destination))a.href=route(destination,r.hash);else a.href=sourceLink(t)+r.hash}else{a.href=r.url;a.target='_blank';a.rel='noopener noreferrer'}}
+ decorateQuestionDifficulty(target);decorateImages(target,p);decorateDiagrams(target,p);
 }
 function makeBreadcrumb(p){
  const parts=p.split('/').filter(Boolean),nav=$('breadcrumbs');nav.replaceChildren();const list=node('ol');nav.append(list);
@@ -102,5 +136,6 @@ async function reader(p){$('home').hidden=true;$('reader').hidden=false;if(!safe
 $('toggle').onclick=()=>document.querySelectorAll('#content details:not(.original-index):not(.index-resource-group)').forEach(d=>d.open=false);
 $('back-top').onclick=()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
 mountResponsiveDisclosures();
+mountCompactPanels();
 mountPageWelcome();
 (params.get('progress')==='1'?showProgress():params.get('metrics')==='1'?showMetrics():path?reader(path):home()).catch(e=>{const target=params.get('progress')==='1'?$('progress-status'):params.get('metrics')==='1'?$('metrics-status'):path?$('status'):$('count');target.textContent='This study page could not load. Your saved progress is safe.';target.classList.add('load-error');const actions=node('div',undefined,'load-recovery'),retry=node('button','Try again'),library=node('a','Back to Library');retry.type='button';retry.onclick=()=>location.reload();library.href='./#library';actions.append(retry,library);if(path&&safe(path)){const original=node('a','Open original study material');original.href=path.endsWith('/')?'https://github.com/'+repo+'/tree/main/'+encodeRepoPath(path):git+encodeRepoPath(path);original.target='_blank';original.rel='noopener noreferrer';actions.append(original)}target.after(actions)});

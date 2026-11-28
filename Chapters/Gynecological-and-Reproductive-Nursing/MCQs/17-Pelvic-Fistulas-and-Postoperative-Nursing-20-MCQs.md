@@ -4,27 +4,29 @@
 
 ## Part 1 — Q1–Q5
 
-### Q1. Continuous urine leakage through vagina after hysterectomy suggests?
+### Q1. After pelvic surgery, a patient has new vaginal urine leakage, fever, worsening flank pain and rising serum creatinine. Which nursing escalation best addresses a possible ureteric injury?
 
-**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice, not PYQ
 
-- **A.** Vesicovaginal fistula
-- **B.** Primary dysmenorrhea
-- **C.** Bartholin cyst
-- **D.** Ovarian torsion
+- **A.** Reassure her that all postoperative vaginal leakage is expected
+- **B.** Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered
+- **C.** Restrict oral and intravenous fluids indefinitely without a prescription
+- **D.** Begin pelvic floor exercises as the only intervention
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: A. Vesicovaginal fistula**
+**Correct: B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered**
 
-**Correct kyun?** Bladder aur vagina ka abnormal tract constant leakage karta hai.
+**Correct kyun?** Surgery ke baad new urine leak + flank pain + kidney function worsening ureteric injury/obstruction ya infection ke red flags hain. Timely urologic review aur clinician-directed imaging kidney damage prevent karne mein help kar sakte hain.
 
-- **A. Vesicovaginal fistula:** Bladder aur vagina ka abnormal tract constant leakage karta hai.
-- **B. Primary dysmenorrhea:** Dysmenorrhea periods ka pain hai.
-- **C. Bartholin cyst:** Bartholin cyst external lump hoti hai.
-- **D. Ovarian torsion:** Torsion acute pelvic pain deta hai.
+- **A. Reassure her that all postoperative vaginal leakage is expected:** Continuous new urine leakage normal healing assume nahi kar sakte, especially fever aur creatinine rise ke saath.
+- **B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered:** Ye anatomical injury aur possible urinary obstruction assess karne ka safest next step hai; clinician CT urography ya alternative imaging decide kar sakta hai.
+- **C. Restrict oral and intravenous fluids indefinitely without a prescription:** Unsupervised fluid restriction kidney perfusion worsen kar sakti hai. Fluid plan vitals aur renal status se guide hota hai.
+- **D. Begin pelvic floor exercises as the only intervention:** Exercises stress leakage mein helpful ho sakti hain, structural ureter injury aur infection ko treat nahi karti.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Vital signs, urine output, creatinine trends aur pain document karo. Prompt escalation, informed consent aur privacy maintain karo.
+
+**Clinical reference:** [NCBI Bookshelf: Ureteral Injury](https://www.ncbi.nlm.nih.gov/books/NBK507817/). **Exam/video evidence:** Not independently verified.
 
 </details>
 
@@ -248,27 +250,29 @@
 
 ## Part 3 — Q11–Q15
 
-### Q11. After repair, urine bag stays empty and suprapubic pain increases. First action?
+### Q11. On postoperative day two after vesicovaginal fistula repair, the urine drainage bag is hanging from the bed rail above bladder level and the catheter tubing is pulled taut when the patient turns. What should the nurse do?
 
-**Priority:** High · **Difficulty:** Medium · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Medium · **Evidence:** Original practice, not PYQ
 
-- **A.** Wait overnight
-- **B.** Remove catheter without orders
-- **C.** Check tubing and escalate possible blockage promptly
-- **D.** Ask patient to strain
+- **A.** Clamp the catheter for several hours to train the bladder
+- **B.** Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair
+- **C.** Disconnect the closed drainage tubing at every turn to reduce pulling
+- **D.** Remove the catheter immediately because the patient can move in bed
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: C. Check tubing and escalate possible blockage promptly**
+**Correct: B. Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair**
 
-**Correct kyun?** Kink, position aur output check karke urgent report karo.
+**Correct kyun?** Fistula repair ke baad continuous free urine drainage healing ke liye important hai. Bag bladder se neeche aur floor se upar rakhna reflux aur contamination ka risk kam karta hai. Tubing mein slack aur securement se catheter pull nahi hota. Nurse ordered catheter duration aur local protocol follow karti hai.
 
-- **A. Wait overnight:** Delay bladder overdistension risk badhata hai.
-- **B. Remove catheter without orders:** Unauthorized removal repair harm kar sakta hai.
-- **C. Check tubing and escalate possible blockage promptly:** Kink, position aur output check karke urgent report karo.
-- **D. Ask patient to strain:** Straining pressure badhata hai.
+- **A. Clamp the catheter for several hours to train the bladder:** Unprescribed clamping bladder filling aur repair par pressure badha sakti hai. Fistula repair mein ordered free drainage preserve karna zaroori hai.
+- **B. Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair:** Yeh gravity drainage maintain karta hai, closed system ko preserve karta hai aur catheter traction reduce karta hai.
+- **C. Disconnect the closed drainage tubing at every turn to reduce pulling:** Repeated disconnection contamination aur catheter-associated infection ka risk badhata hai. Securement aur safe bag position better hain.
+- **D. Remove the catheter immediately because the patient can move in bed:** Catheter removal repair surgeon ke plan ke according hoti hai. Mobility alone catheter remove karne ka reason nahi hai.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Urine output aur catheter patency assess karo. Bag ka position aur tubing ka securement har transfer aur turning ke baad check karo. Pain, obstruction ya accidental dislodgement urgently report karo.
+
+**Clinical references:** [CDC CAUTI prevention guideline](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html), [WHO simple obstetric fistula catheter duration](https://www.who.int/publications/i/item/9789241550192). **Question-level PYQ/video:** Not verified.
 
 </details>
 

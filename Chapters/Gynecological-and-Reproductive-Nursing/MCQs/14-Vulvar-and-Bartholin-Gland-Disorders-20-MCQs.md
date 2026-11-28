@@ -258,61 +258,61 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 </details>
 
-### Q10. Pruritus with vulvar erythema and thick discharge may suggest?
+### Q10. A patient treated twice for presumed vulvovaginal candidiasis still has vulvar itching, but microscopy and fungal testing are negative. Which nursing response best prevents further diagnostic delay?
 
-**Difficulty:** Difficult · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original clinical practice, not PYQ
 
-- **A.** Pulmonary embolism
-- **B.** Vulvovaginal candidiasis
-- **C.** Uterine rupture
-- **D.** Breast abscess
+- **A.** Repeat over-the-counter antifungal treatment indefinitely
+- **B.** Arrange a vulvar examination for contact dermatitis, lichen sclerosus or other causes
+- **C.** Recommend daily perfumed vaginal washes
+- **D.** Assume the symptoms are psychological
 
 <details><summary>Answer aur detailed Hinglish A–D explanation</summary>
 
-**Correct: B. Vulvovaginal candidiasis**
+**Correct: B. Arrange a vulvar examination for contact dermatitis, lichen sclerosus or other causes**
 
-**Why this is correct:** Candida vulva par itching, erythema aur discharge cause kar sakta hai. Sirf symptoms se diagnosis final nahi hota, recurrent symptoms mein tests useful hain.
+**Correct kyun?** Persistent itching with negative fungal evaluation needs careful inspection, exposure history and consideration of inflammatory or neoplastic conditions; clinician decides further testing. Simple language mein: symptom ko repeat karne ke bajay next clinical decision test kar rahe hain.
 
 **Har option ka clinical reason:**
 
-- **A. Pulmonary embolism:** Pulmonary embolism acute breathlessness aur chest symptoms se concern hota hai, vaginal discharge se nahi.
-- **B. Vulvovaginal candidiasis:** Candida vulva par itching, erythema aur discharge cause kar sakta hai. Sirf symptoms se diagnosis final nahi hota, recurrent symptoms mein tests useful hain.
-- **C. Uterine rupture:** Uterine rupture usually obstetric emergency hai, itching with thick discharge nahi.
-- **D. Breast abscess:** Breast abscess breast mein painful infected swelling hota hai, vulva mein nahi.
+- **A. Repeat over-the-counter antifungal treatment indefinitely:** Repeated empirical antifungal treatment without confirmation can miss inflammatory dermatoses and cause unnecessary exposure.
+- **B. Arrange a vulvar examination for contact dermatitis, lichen sclerosus or other causes:** Persistent itching with negative fungal evaluation needs careful inspection, exposure history and consideration of inflammatory or neoplastic conditions; clinician decides further testing.
+- **C. Recommend daily perfumed vaginal washes:** Perfumed cleansers can trigger irritant or allergic contact dermatitis and worsen itching.
+- **D. Assume the symptoms are psychological:** Psychological dismissal misses real skin and neurologic causes and damages trust.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing responsibility:** Privacy, informed consent, examination/referral aur red flags ko document karo.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Clinical reference:** [Guidance](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching). **Historical PYQ/video evidence:** Not verified.
 
 </details>
 
 ## Part 3 — Questions 11–15
 
-### Q11. Persistent vulvar itching despite repeated antifungals warrants?
+### Q11. A patient reports repeated scratching of a localized vulvar area. Examination shows a thickened leathery plaque with accentuated skin markings, but no white atrophic scarring. Which explanation best fits this itch–scratch cycle?
 
-**Difficulty:** Medium · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original nursing practice, not PYQ
 
-- **A.** More empiric courses forever
-- **B.** Avoiding examination
-- **C.** Assessment for dermatoses and other causes
-- **D.** Scented sprays
+- **A.** Lichen simplex chronicus caused by repeated rubbing and scratching
+- **B.** An ovarian endometrioma causing external skin thickening
+- **C.** An acute vesicovaginal fistula causing urine leakage
+- **D.** Normal skin adaptation that requires no assessment
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: C. Assessment for dermatoses and other causes**
+**Correct: A. Lichen simplex chronicus caused by repeated rubbing and scratching**
 
-**Why this is correct:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
+**Clinical reason:** Lichen simplex chronicus mein chronic itching se scratching hoti hai, aur repeated scratching se skin thick aur lichenified ban jaati hai. Nurse trigger aur irritant exposure assess karti hai aur clinician-directed anti-inflammatory therapy support karti hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. More empiric courses forever:** Repeated antifungals bina diagnosis ke dermatitis ya lichen disease ko miss kar sakte hain.
-- **B. Avoiding examination:** Examination avoid karne se persistent lesions aur other infections miss ho sakti hain.
-- **C. Assessment for dermatoses and other causes:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
-- **D. Scented sprays:** Perfumed sprays skin barrier irritate karke symptoms worsen kar sakte hain.
+- **A. Lichen simplex chronicus caused by repeated rubbing and scratching:** Lichen simplex chronicus mein chronic itching se scratching hoti hai, aur repeated scratching se skin thick aur lichenified ban jaati hai. Nurse trigger aur irritant exposure assess karti hai aur clinician-directed anti-inflammatory therapy support karti hai.
+- **B. An ovarian endometrioma causing external skin thickening:** Endometrioma ovary mein cystic lesion hota hai, external lichenified skin plaque ka direct explanation nahi.
+- **C. An acute vesicovaginal fistula causing urine leakage:** Vesicovaginal fistula continuous urine leakage deti hai, itch-scratch plaque uski primary finding nahi.
+- **D. Normal skin adaptation that requires no assessment:** Persistent localized itching aur thickened skin normal adaptation assume nahi karni chahiye. Assessment zaroori hai.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing application:** Patient ki privacy, informed consent aur nonjudgmental assessment maintain karo. Exam mein symptom aur next appropriate action ko link karo.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Verified clinical source:** [Official guidance](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching). **Exam provenance:** Original practice only. **Question-mapped video:** Pending verification.
 
 </details>
 
@@ -344,87 +344,87 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 </details>
 
-### Q13. Which vulvar lesion warrants urgent specialist assessment?
+### Q13. A patient with established vulvar lichen sclerosus reports that the prescribed topical steroid relieved itching, but a new focal thickened plaque persists. Which next step is most appropriate?
+
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original clinical practice, not PYQ
+
+- **A.** Stop all follow-up because itching improved
+- **B.** Treat the plaque with vaginal douching
+- **C.** Arrange clinician reassessment and consider biopsy of the persistent focal change
+- **D.** Assume the plaque is a normal result of aging
+
+<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+
+**Correct: C. Arrange clinician reassessment and consider biopsy of the persistent focal change**
+
+**Correct kyun?** A new persistent hyperkeratotic or thickened focus despite therapy warrants reassessment and possible biopsy to exclude differentiated VIN or squamous carcinoma. Simple language mein: symptom ko repeat karne ke bajay next clinical decision test kar rahe hain.
+
+**Har option ka clinical reason:**
+
+- **A. Stop all follow-up because itching improved:** Symptom relief does not exclude a persistent suspicious lesion; ongoing surveillance is needed.
+- **B. Treat the plaque with vaginal douching:** Douching can irritate vulvar skin and cannot diagnose atypical plaques.
+- **C. Arrange clinician reassessment and consider biopsy of the persistent focal change:** A new persistent hyperkeratotic or thickened focus despite therapy warrants reassessment and possible biopsy to exclude differentiated VIN or squamous carcinoma.
+- **D. Assume the plaque is a normal result of aging:** Age alone should not explain a new focal persistent change, especially with lichen sclerosus.
+
+**Nursing responsibility:** Privacy, informed consent, examination/referral aur red flags ko document karo.
+
+**Clinical reference:** [Guidance](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching). **Historical PYQ/video evidence:** Not verified.
+
+</details>
+
+### Q14. A patient with confirmed recurrent genital HSV-2 has frequent painful outbreaks that affect daily life. Which counseling is appropriate when discussing clinician-prescribed treatment options?
 
 **Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original practice, not PYQ
 
-- **A.** Persistent ulcer or changing pigmented lesion
-- **B.** Transient mild friction
-- **C.** Normal labia
-- **D.** Resolved mild irritation
+- **A.** Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV
+- **B.** Explain that topical antifungal cream permanently removes HSV from sensory ganglia
+- **C.** Advise stopping all antiviral therapy because recurrence is always harmless
+- **D.** Promise that suppressive treatment completely eliminates viral shedding and all transmission risk
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: A. Persistent ulcer or changing pigmented lesion**
+**Correct: A. Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV**
 
-**Why this is correct:** Persistent ulcer ya changing pigmented lesion mein vulvar precancer/cancer ko exclude karne ke liye assessment aur biopsy consideration hoti hai.
+**Clinical reason:** Frequent genital HSV-2 recurrences mein doctor daily oral acyclovir ya valacyclovir jaise suppressive treatment discuss kar sakte hain. Isse attacks aur transmission risk kam ho sakte hain, lekin virus permanently khatam nahi hota. Patient ke goals, pregnancy status, kidney function aur prescription ke according plan banta hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. Persistent ulcer or changing pigmented lesion:** Persistent ulcer ya changing pigmented lesion mein vulvar precancer/cancer ko exclude karne ke liye assessment aur biopsy consideration hoti hai.
-- **B. Transient mild friction:** Short-lived friction irritation jo resolve ho rahi hai same suspicious pattern nahi.
-- **C. Normal labia:** Normal symmetric labia koi pathological lesion nahi.
-- **D. Resolved mild irritation:** Resolved mild irritation mein persistent lesion jaisa red flag nahi.
+- **A. Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV:** Yeh recurrent HSV management ka correct counseling point hai. Daily suppressive therapy frequent outbreaks ko reduce kar sakti hai, par lifelong latent infection cure nahi hota.
+- **B. Explain that topical antifungal cream permanently removes HSV from sensory ganglia:** Antifungal cream fungal infection ke liye hoti hai. HSV ek virus hai jo latent rehta hai, isliye topical antifungal isko eradicate nahi karti.
+- **C. Advise stopping all antiviral therapy because recurrence is always harmless:** Frequent outbreaks pain, distress aur transmission risk badha sakte hain. Individualized clinician-prescribed antiviral treatment discuss karna appropriate hai.
+- **D. Promise that suppressive treatment completely eliminates viral shedding and all transmission risk:** Suppressive therapy transmission ka risk reduce kar sakti hai, lekin zero risk guarantee nahi hoti. Condoms aur outbreaks ke time sexual contact avoid karne ki counseling bhi chahiye.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing application:** Patient ke outbreaks ki frequency, distress, adherence, kidney disease aur pregnancy considerations note karo. Treatment decision prescribing clinician ke saath shared decision-making se hota hai.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
-
-</details>
-
-### Q14. Painful grouped vulvar vesicles are most suggestive of?
-
-**Difficulty:** Medium · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
-
-- **A.** Uncomplicated gland cyst
-- **B.** Genital herpes
-- **C.** Fibroid
-- **D.** PCOS
-
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
-
-**Correct: B. Genital herpes**
-
-**Why this is correct:** Genital herpes mein painful clustered vesicles phatkar shallow ulcers bana sakte hain. Swab-based testing aur counseling relevant ho sakti hai.
-
-**Har option ka clinical reason:**
-
-- **A. Uncomplicated gland cyst:** Uncomplicated Bartholin cyst usually deep unilateral swelling hoti hai, grouped surface vesicles nahi.
-- **B. Genital herpes:** Genital herpes mein painful clustered vesicles phatkar shallow ulcers bana sakte hain. Swab-based testing aur counseling relevant ho sakti hai.
-- **C. Fibroid:** Fibroid uterine wall ki growth hai, vulvar vesicles nahi.
-- **D. PCOS:** PCOS ovulation aur androgen-related syndrome hai, acute vesicles ka direct cause nahi.
-
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
-
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Clinical reference, directly checked:** [CDC Genital Herpes Treatment Guidelines](https://www.cdc.gov/std/treatment-guidelines/herpes.htm), recurrent HSV-2 and suppressive therapy sections. **Exam/video provenance:** Not independently verified.
 
 </details>
 
-### Q15. A patient with vulvar ulcers and possible STI exposure needs?
+### Q15. A patient presents with a new genital ulcer of uncertain cause. In addition to an HSV lesion test, which assessment is supported by genital-ulcer guidance?
 
-**Difficulty:** Medium · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original nursing practice, not PYQ
 
-- **A.** Judgmental questioning
-- **B.** No testing
-- **C.** Confidential nonjudgmental assessment and testing
-- **D.** Automatic surgery
+- **A.** Only a routine urine bacterial culture because all ulcers are urinary infections
+- **B.** Syphilis serology and HIV testing with appropriate counseling and consent
+- **C.** No further tests if the ulcer is painless
+- **D.** An ovarian tumor-marker panel as the first test
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: C. Confidential nonjudgmental assessment and testing**
+**Correct: B. Syphilis serology and HIV testing with appropriate counseling and consent**
 
-**Why this is correct:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
+**Clinical reason:** CDC genital ulcer guidance recommends syphilis evaluation and HIV testing when status is unknown, alongside HSV lesion testing. Nurse privacy, informed consent and local protocols follow karti hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. Judgmental questioning:** Judgmental questioning patient ko history share karne se rok sakti hai.
-- **B. No testing:** Ulcers ke causes herpes, syphilis aur noninfectious disease bhi ho sakte hain. Bina assessment diagnosis assume nahi karo.
-- **C. Confidential nonjudgmental assessment and testing:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
-- **D. Automatic surgery:** Har vulvar ulcer mein automatic surgery zaroori nahi. Cause-specific treatment choose hota hai.
+- **A. Only a routine urine bacterial culture because all ulcers are urinary infections:** Routine urine culture does not evaluate common genital ulcer causes such as syphilis or herpes. Urine testing is chosen for urinary symptoms, not as sole ulcer workup.
+- **B. Syphilis serology and HIV testing with appropriate counseling and consent:** CDC genital ulcer guidance recommends syphilis evaluation and HIV testing when status is unknown, alongside HSV lesion testing. Nurse privacy, informed consent and local protocols follow karti hai.
+- **C. No further tests if the ulcer is painless:** Painless ulcer bhi syphilis ya neoplasia ka sign ho sakta hai. Pain absent hone se assessment skip nahi karte.
+- **D. An ovarian tumor-marker panel as the first test:** Ovarian markers genital ulcer ki routine first-line investigation nahi hain. Lesion-directed STI and skin assessment needed hai.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing application:** Patient ki privacy, informed consent aur nonjudgmental assessment maintain karo. Exam mein symptom aur next appropriate action ko link karo.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Verified clinical source:** [Official guidance](https://www.cdc.gov/std/treatment-guidelines/genital-ulcers.htm). **Exam provenance:** Original practice only. **Question-mapped video:** Pending verification.
 
 </details>
 

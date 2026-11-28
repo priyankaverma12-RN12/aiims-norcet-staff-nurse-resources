@@ -51,10 +51,11 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
-        response=api.get(urljoin(base,filename)+"?v=11.8&build="+commit,headers={"Cache-Control":"no-cache"})
+    asset_versions={"styles.css":"12.0","app.js":"12.0","progress.js":"11.8","routine.js":"12.0","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    for filename,version in asset_versions.items():
+        response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
-        print("Published V11.8 asset exact readback:",filename,flush=True)
+        print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
     browser=p.chromium.launch()
     for width,height in [(1440,900),(390,844)]:
@@ -68,8 +69,8 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
-            assert page.evaluate("""name=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')==='11.8'})""",filename), f"Wrong live asset version: {filename}"
+        for filename,version in asset_versions.items():
+            assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet],link[rel=icon]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
         expect(page.locator(".study-day-date")).to_have_count(7)
@@ -90,6 +91,16 @@ with sync_playwright() as p:
         page.locator(".daily-week-details>summary").click()
         print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
+        if width<600:
+            expect(page.locator("#library-filters")).to_be_hidden()
+            expect(page.locator("#recent-panel")).not_to_have_attribute("open","")
+            expect(page.locator("#saved-panel")).not_to_have_attribute("open","")
+            assert page.locator(".library-toolbar").bounding_box()["height"]<=60
+            page.locator("#library-panel-toggle").click()
+            expect(page.locator("#library-results")).to_be_hidden()
+            page.locator("#library-search-toggle").click()
+            expect(page.locator("#library-results")).to_be_visible()
+            expect(page.locator("#library-filters")).to_be_visible()
         page.locator("#search").fill("no matching chapter xyz")
         expect(page.locator("#chapters .empty-state")).to_be_visible()
         page.locator("#clear-library").click()
@@ -98,6 +109,8 @@ with sync_playwright() as p:
         # Library entry point: counts and controls must be reachable without using Progress first.
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
+        if respiratory.locator(".chapter-card-details").get_attribute("open") is None:
+            respiratory.locator(".chapter-card-details > summary").click()
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
         library_ids=page.locator(".chapter-card .chapter").evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc').split('/')[1])")
         assert len(library_ids)==len(set(library_ids)) and set(library_ids)=={c["id"] for c in expected["chapters"]}
@@ -144,6 +157,9 @@ with sync_playwright() as p:
         # Marked completion and an actual answer in the same bank do not count twice.
         go({"doc":sample})
         ready()
+        expect(page.locator("#content .difficulty-label[data-level=easy]").first).to_be_visible()
+        expect(page.get_by_role("button",name="Start timed practice")).to_have_attribute("data-ui-icon","timer")
+        assert page.get_by_role("button",name="Start timed practice").bounding_box()["height"]>=44
         page.get_by_role("button",name="Learn with instant feedback").click()
         page.locator("input[name=learn-choice][value=B]").check()
         page.get_by_role("button",name="Check answer").click()
@@ -154,6 +170,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        if page.locator("#recent-panel").get_attribute("open") is None:
+            page.locator("#recent-panel > summary").click()
         recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(recent.locator("input[type=checkbox]")).to_be_checked()
         recent.locator("input[type=checkbox]").uncheck()
@@ -445,6 +463,7 @@ with sync_playwright() as p:
         expect(page.locator(".learning-greeting")).to_contain_text("needs more practice")
         expect(page.locator(".learning-result")).to_have_attribute("data-performance","review")
         expect(page.locator(".learning-result.result-celebration")).to_have_count(0)
+        expect(page.locator(".learning-result .study-celebration,.learning-result .study-confetti")).to_have_count(0)
         expect(page.locator(".learning-result-stats")).to_contain_text("Incorrect")
         page.locator(".learning-missed-review > summary").click()
         expect(page.locator(".learning-missed-review .review-card")).to_have_count(4)
@@ -459,6 +478,8 @@ with sync_playwright() as p:
         expect(page.locator(".learning-result .result-score")).to_contain_text("100.0% correct")
         expect(page.locator(".learning-greeting")).to_have_text("Hurrah! Perfect score!")
         expect(page.locator(".learning-result.result-celebration")).to_be_visible()
+        expect(page.locator(".learning-result > .study-celebration")).to_have_attribute("aria-hidden","true")
+        expect(page.locator(".learning-result > .study-confetti")).to_have_count(0)
         assert page.locator(".learning-result .result-check").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         print(f"Performance-based learning score, low-score coaching, exact missed-answer retry and perfect-score reward passed at {width}x{height}.",flush=True)
@@ -472,6 +493,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-progress-label strong")).to_have_text("64 / 50 MCQs")
         expect(page.locator(".daily-progress-label")).to_contain_text("14 extra MCQs")
         expect(page.locator("#daily-study h2")).to_have_text("Hurrah! Goal exceeded!")
+        expect(page.locator(".daily-congratulations .study-celebration")).to_be_visible()
+        expect(page.locator(".daily-congratulations .study-confetti")).to_have_count(0)
         expect(page.locator(".daily-goal-status")).to_contain_text("128%")
         expect(page.locator(".study-day.today strong")).to_have_text("64")
         expect(page.locator(".daily-milestone[data-reached=true]")).to_have_count(4)
@@ -485,6 +508,7 @@ with sync_playwright() as p:
         page.locator(".metric-chapter > summary").first.click()
         expect(page.locator(".metric-category[open]")).to_have_count(0)
         expect(page.locator(".metric-record")).to_have_count(0)
+        expect(page.locator(".metric-category").first).to_be_visible(timeout=10000)
         assert page.locator(".metric-category").count()>=4
         page.locator("#metrics-search").fill("no matching topic xyz")
         expect(page.locator("#metrics-list .empty-state")).to_be_visible()
@@ -493,6 +517,15 @@ with sync_playwright() as p:
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
         expect(page.locator("#progress-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-search")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
         page.locator("#progress-search").fill("no matching topic xyz")
         expect(page.locator("#progress-list .empty-state")).to_be_visible()
         page.locator("#clear-progress").click()
@@ -501,6 +534,17 @@ with sync_playwright() as p:
         go({"doc":sample})
         ready()
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#reading-size")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            expect(page.locator(".quiz-panel")).to_be_visible()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
+        print(f"V12 live reader and progress disclosures passed at {width}x{height}.",flush=True)
         page.locator("#reading-size").select_option("large")
         expect(page.locator("body")).to_have_attribute("data-reading-size","large")
         page.locator("#focus-study").click()
@@ -518,7 +562,9 @@ with sync_playwright() as p:
         # Cross-tab completion and saved question practice with real source.
         page.get_by_role("button",name="Quick 5-question practice").click()
         expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 5")
-        stem=page.locator(".question-stem").first.inner_text()
+        stem=page.locator(".question-stem").first.text_content()
+        bookmark_stem=page.locator("button[data-bookmark-stem]").first.get_attribute("data-bookmark-stem")
+        assert bookmark_stem
         page.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","true")
         other=ctx.new_page()
@@ -527,6 +573,9 @@ with sync_playwright() as p:
         other.locator("#marks .saved-practice-link").first.click()
         expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
         expect(other.locator(".question-stem").first).to_have_text(stem)
+        assert other.locator(".question-stem").first.text_content()==stem
+        assert other.locator(".question-stem").first.evaluate("""e=>!Array.from(e.textContent).some(c=>{const n=c.codePointAt(0);return n===0xfffd||(n>=0xd800&&n<=0xdfff)})""")
+        expect(other.locator("button[data-bookmark-stem]").first).to_have_attribute("data-bookmark-stem",bookmark_stem)
         expect(other.get_by_role("button",name="Check answer")).to_be_disabled()
         other.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","false")

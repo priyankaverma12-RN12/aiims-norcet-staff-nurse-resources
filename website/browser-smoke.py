@@ -4,7 +4,7 @@ from functools import partial
 from pathlib import Path
 import json, tempfile
 from threading import Thread
-from urllib.parse import urljoin, urlencode
+from urllib.parse import urljoin, urlencode, unquote, urlsplit
 from playwright.sync_api import sync_playwright, expect
 
 site = Path(__file__).resolve().parent
@@ -150,6 +150,12 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator("#metrics-personal .history-month")).to_have_count(12)
         expect(page.locator("#metrics-personal .history-period")).to_have_count(3)
+        for target in ("#history-panel-toggle","#metrics-summary-panel","#metrics-filter-panel"):
+            panel=page.locator(target)
+            panel.locator(":scope > summary").click()
+            expect(panel.locator(":scope > .study-panel-body")).to_be_hidden()
+            panel.locator(":scope > summary").click()
+            expect(panel.locator(":scope > .study-panel-body")).to_be_visible()
         # Temporary isolated fixture, restore exactly before the existing integration suite.
         page.evaluate("""()=>{window.historyFixtureBackup=localStorage.getItem(routineKey);const d=emptyRoutine();const t=localDay();d.days[t]={'fixture':['one','one','two']};d.days['2020-12-15']={'fixture':['old']};localStorage.setItem(routineKey,JSON.stringify(d));document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
         expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
@@ -231,6 +237,10 @@ try:
         print("Chapter-relative README image resolved and decoded.",flush=True)
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)
+        expect(page.locator("#content .difficulty-label[data-level=easy]").first).to_be_visible()
+        expect(page.locator("#content .difficulty-label .difficulty-icon").first).to_have_attribute("aria-hidden","true")
+        expect(page.get_by_role("button",name="Start timed practice")).to_have_attribute("data-ui-icon","timer")
+        assert page.get_by_role("button",name="Start timed practice").bounding_box()["height"]>=44
         assert page.locator("#content details").count() >= 44
         assert page.locator("#content details[open]").count() == 0
         image = page.locator('#content img[src*="airway-zones.svg"]').first
@@ -239,6 +249,8 @@ try:
         expect(page.locator(".quiz-panel")).to_contain_text("44 questions available for practice")
         expect(page.locator("#content h1").first).to_have_text("Day 1 — Respiratory Anatomy & Physiology")
         page.get_by_role("button",name="Learn with instant feedback").click()
+        expect(page.locator(".question-stem .difficulty-label[data-level=easy]")).to_be_visible()
+        expect(page.get_by_role("button",name="Check answer")).to_have_attribute("data-ui-icon","check")
         expect(page.locator(".original-explanation")).to_have_count(0)
         page.locator("input[name=learn-choice][value=B]").check()
         expect(page.locator(".learn-feedback")).to_have_count(0)
@@ -359,9 +371,14 @@ try:
         page.get_by_role("button",name="Submit and see results").click()
         expect(page.locator(".result-score")).to_contain_text("100.0%")
         expect(page.locator(".result-celebration")).to_be_visible()
+        expect(page.locator(".result-hero > .study-celebration")).to_have_attribute("aria-hidden","true")
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(1)
         page.reload()
         expect(page.locator(".result-heading")).to_be_visible(timeout=30000)
         expect(page.locator(".result-celebration")).to_have_count(0)
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(0)
+        assert page.evaluate("""()=>{const root=document.createElement('div');root.innerHTML='<p><strong>Difficulty:</strong> 🟢 Easy · Priority: IMPORTANT</p><p>Difficulty: 🟡 Medium</p><p>Difficulty: 🔴 Difficult</p><p>Medium is a clinical term.</p>';decorateQuestionDifficulty(root);return [...root.querySelectorAll('.difficulty-label')].map(x=>x.dataset.level).join(',')==='easy,medium,difficult'&&root.querySelectorAll('.difficulty-icon i').length===9&&root.lastElementChild.textContent==='Medium is a clinical term.'&&[...root.children].map(p=>p.textContent).join('|')==='Difficulty: Easy · Priority: IMPORTANT|Difficulty: Medium|Difficulty: Difficult|Medium is a clinical term.'}""")
+        print("V11.9 explicit difficulty metadata, accessible icons and one-shot celebration passed.",flush=True)
         print("Learning preserves saved timed result, all four progress milestones, hidden timed answers and one-time result celebration passed.",flush=True)
 
 
@@ -477,8 +494,35 @@ try:
                     assert mobile.locator(".hero-copy").evaluate("e=>getComputedStyle(e).animationName")== "none"
                 mobile.evaluate("window.scrollTo(0,500)")
                 assert abs(mobile.locator(".topbar").bounding_box()["y"])<=2
+            if width<=600:
+                expect(mobile.locator("#library-filters")).to_be_hidden()
+                expect(mobile.locator("#recent-panel")).not_to_have_attribute("open","")
+                expect(mobile.locator("#saved-panel")).not_to_have_attribute("open","")
+                assert mobile.locator(".library-toolbar").bounding_box()["height"]<=60
+                for target in ("#daily-panel","#recent-panel","#saved-panel"):
+                    panel=mobile.locator(target)
+                    was_open=panel.get_attribute("open") is not None
+                    panel.locator(":scope > summary").tap()
+                    assert (panel.get_attribute("open") is not None)!=was_open
+                    panel.locator(":scope > summary").tap()
+                mobile.locator("#library-panel-toggle").tap()
+                expect(mobile.locator("#library-results")).to_be_hidden()
+                mobile.locator("#library-search-toggle").tap()
+                expect(mobile.locator("#library-results")).to_be_visible()
+                expect(mobile.locator("#library-filters")).to_be_visible()
+                assert mobile.locator("#library-search-toggle").bounding_box()["height"]>=44
+                print(f"V12 compact mobile library and independent panels passed at {width}x{height}.",flush=True)
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
+            group=mobile.locator(".study-area-panel").first
+            group.locator(":scope > summary").tap()
+            expect(group.locator(".chapter-grid")).to_be_hidden()
+            group.locator(":scope > summary").tap()
+            card=mobile.locator(".chapter-card-details").first
+            card.locator(":scope > summary").tap()
+            expect(card.locator(".chapter-links")).to_be_hidden()
+            card.locator(":scope > summary").tap()
+            expect(card.locator(".chapter-links")).to_be_visible()
             assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
             assert mobile.locator(".chapter-card-progress>a").first.bounding_box()["height"]>=43
             assert mobile.locator(".chapter-card-progress").first.bounding_box()["height"]<=100
@@ -498,6 +542,18 @@ try:
                 mobile.locator(".outline-card summary").tap()
                 expect(mobile.locator(".outline-card")).to_have_attribute("open","")
                 mobile.locator(".outline-card summary").tap()
+            for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
+                panel=mobile.locator(panel_id)
+                summary=panel.locator(":scope > summary")
+                assert summary.bounding_box()["height"]>=44
+                expect(mobile.locator(inside)).to_be_visible()
+                summary.tap()
+                expect(mobile.locator(inside)).to_be_hidden()
+                expect(mobile.locator(".quiz-panel")).to_be_visible()
+                summary.tap()
+                expect(mobile.locator(inside)).to_be_visible()
+                no_overflow(mobile)
+            print(f"V12 independent reader panels passed at {width}x{height}.",flush=True)
             expect(mobile.locator("#toggle")).to_be_visible()
             assert mobile.locator("#toggle").bounding_box()["height"] >= 43
             mobile.clock.install()
@@ -536,6 +592,17 @@ try:
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-chapter")):
+                    panel=mobile.locator(panel_id)
+                    summary=panel.locator(":scope > summary")
+                    assert summary.bounding_box()["height"]>=44
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_hidden()
+                    expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_visible()
+                    no_overflow(mobile)
+                print(f"V12 independent progress panels passed at {width}x{height}.",flush=True)
                 expect(mobile.locator(".completion-chapter").first).not_to_have_attribute("open","")
                 expand_chapter(mobile,"progress")
                 expect(mobile.locator(".completion-category[open]")).to_have_count(0)
@@ -593,6 +660,33 @@ try:
             print(f"V11.8 chapter index isolated closed folders and 44px targets at {width}x{height}.",flush=True)
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
+        # Audit each chapter landing page from the checked-out candidate, not moving main.
+        inventory=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
+        def pinned_chapter_source(route):
+            rel=unquote(urlsplit(route.request.url).path.split("/main/",1)[-1])
+            target=(site.parent/rel).resolve()
+            if target.is_relative_to(site.parent/"Chapters") and target.is_file():
+                route.fulfill(status=200,content_type="text/plain; charset=utf-8",headers={"Access-Control-Allow-Origin":"*"},body=target.read_text(encoding="utf-8"))
+            else:
+                route.continue_()
+        for width,height in [(1440,900),(390,844)]:
+            audit=browser.new_context(viewport={"width":width,"height":height},is_mobile=width<600,has_touch=width<600,reduced_motion="reduce")
+            audit.route("https://raw.githubusercontent.com/**/main/Chapters/**",pinned_chapter_source)
+            audit_page=audit.new_page()
+            for chapter_record in inventory["chapters"]:
+                chapter_path="Chapters/"+chapter_record["id"]+"/README.md"
+                audit_page.goto(base+"?"+urlencode({"doc":chapter_path}),wait_until="domcontentloaded")
+                ready(audit_page)
+                expect(audit_page.locator("#reader-title")).not_to_have_text("")
+                assert audit_page.evaluate("()=>document.title.startsWith(document.querySelector('#reader-title').textContent)"), chapter_path
+                expect(audit_page.locator(".index-resource-group[open]")).to_have_count(0)
+                expect(audit_page.locator(".outline-card")).not_to_have_attribute("open","")
+                for summary in audit_page.locator(".index-resource-group > summary").all():
+                    assert summary.bounding_box()["height"]>=44, chapter_path
+                no_overflow(audit_page)
+                print(f"V11.9 chapter heading and disclosure audit {width}x{height}: {chapter_record['id']}",flush=True)
+            assert audit_page.evaluate("""()=>{const host=document.createElement('div');addStudyCelebration(host,true);return host.querySelector('.study-celebration')?.getAttribute('aria-hidden')==='true'&&!host.querySelector('.study-confetti')}""")
+            audit.close()
         browser.close()
         print("Desktop/mobile integration, real diagram, hidden answers, score, bookmark reload, and timer expiry passed.", flush=True)
 finally:
