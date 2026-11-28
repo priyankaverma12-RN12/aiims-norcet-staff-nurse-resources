@@ -46,7 +46,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Pre-eclampsia: [Concepts](08B-Pre-eclampsia.md) · [20 originals](../MCQs/08B-Pre-eclampsia-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/08B-Pre-eclampsia-Evidence.md). Published, independent review pending.
   - Eclampsia: [Concepts](08C-Eclampsia.md) · [20 originals](../MCQs/08C-Eclampsia-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08C-Eclampsia-Evidence.md). Published, independent review pending.
   - HELLP syndrome: [Concepts](08D-HELLP-Syndrome.md) · [20 originals](../MCQs/08D-HELLP-Syndrome-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/08D-HELLP-Syndrome-Evidence.md). Published, independent review pending.
-  - Hypertension management and nursing monitoring: pending.
+  - Hypertension management and nursing monitoring: [Concepts](08E-Hypertensive-Treatment-and-Nursing-Management.md) · [20 originals](../MCQs/08E-Hypertensive-Treatment-and-Nursing-Management-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08E-Hypertensive-Treatment-Evidence.md). Independent review pending.
 - antepartum hemorrhage
 - obstetric emergencies
 - PPH
