@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Released emergency-b04-20261128T1337Z at verified draft PR49 checkpoint c25292da0788594661c4ac068732a80a2d841f02. 400 staged originals, 1600 individual Roman Hinglish rationales, 20 topic banks, 20 concepts, 20 SVGs. Added 60 originals in three banks (21 Easy/21 Medium/18 Difficult); nine package files exact readbacks, three SVG local renders matched remote blob hashes, no prior content edits. Preserve prior ICU Q10/Q14/Q15, medico-legal Q18, four legacy originals and one adaptation. No live inventory credit. Batch04 complete. Next address meaningful INC gaps and Easy/Medium deficits under merged PR59/67 before original-only mocks and sourced PYQs. Independent reviews, PR29/7/8 coordination, source/video, full website rendering, latest-main reconciliation and exact-head CI gates still open. Preserve other sessions, learner history and five hourly automations.
+
+## Prior claim history
+
+# Emergency and Critical Care Nursing manual claim
+
 State: CLAIMED
 Owner: emergency-b04-20261128T1337Z
 Scope: PR49 isolated new critical-care transition, equipment and end-of-life topic packages only. Preserve integration corrections and shared navigation.
