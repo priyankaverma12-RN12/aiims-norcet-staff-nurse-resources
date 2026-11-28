@@ -320,11 +320,11 @@
 
 **C kyun galat hai:** Consent vaccine contraindication ko cancel nahi karta.
 
-**D kyun sahi hai:** SCID mein immune defense bahut weak hoti hai. Live rotavirus vaccine is condition mein contraindicated hai, isliye safe individualized plan banana zaroori hai.
+**D kyun sahi hai:** SCID ka matlab severe combined immunodeficiency hai. Ismein infection se ladne wali T-cell immunity bahut kamzor hoti hai aur antibody response bhi affected ho sakta hai. Live rotavirus vaccine ka virus aise baby mein disease cause kar sakta hai. Isliye dose hold karo aur immunization team ko inform karo.
 
 **Exam clue:** SCID mein rotavirus vaccine ki specific contraindication yaad rakho.
 
-**Clinical reference:** [Source G](https://www.cdc.gov/rotavirus/hcp/vaccine-considerations/)
+**Clinical reference:** [Source G](https://www.cdc.gov/vaccines/hcp/imz-best-practices/contraindications-precautions.html)
 
 </details>
 
@@ -341,7 +341,7 @@
 
 **Correct answer: A. Non-live vaccines can generally be given safely, although timing and response may need specialist review**
 
-**A kyun sahi hai:** Non-live vaccine mein replicating organism nahi hota, isliye usual safety concern live vaccine se alag hai. Immune response weak ho sakta hai aur timing clinician decide karega.
+**A kyun sahi hai:** Non-live vaccine mein aisa live organism nahi hota jo body ke andar badh sake. Isliye immunosuppression mein bhi ye generally safe hoti hain, lekin protection kam mil sakti hai. Kuch treatments, jaise B-cell ko kam karne wali medicines, ke baad vaccine ko defer ya repeat karna pad sakta hai. Individual timing aur local immunization plan specialist ke saath confirm karo.
 
 **B kyun galat hai:** Non-live vaccine ka basic feature replication na karna hai.
 
@@ -370,7 +370,7 @@
 
 **A kyun galat hai:** Iron deficiency ke tests alag hote hain, TREC uske liye nahi hai.
 
-**B kyun sahi hai:** TREC result T-cell development ka screening clue hai. Abnormal screen ko confirmatory lymphocyte aur specialist testing se clarify karna important hai.
+**B kyun sahi hai:** TREC DNA ka ek chhota circle hai jo T cells develop hote waqt banta hai. Screening mein ye bahut kam mile toh nayi T cells ki kami ka doubt hota hai. Prompt specialist evaluation aur lymphocyte subsets ki flow cytometry se is finding ko clarify karna chahiye. Screening akeli exact genetic diagnosis nahi batati.
 
 **C kyun galat hai:** Screen specific mutation ko akela identify nahi karta.
 
@@ -386,22 +386,22 @@
 
 **Difficulty:** Difficult | **Priority:** High Yield | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Immunodeficiency assessment
 
-- **A.** Urinary albumin-to-creatinine ratio
-- **B.** Prothrombin time
+- **A.** Quantitative serum immunoglobulins
+- **B.** Lymphocyte proliferation assay
 - **C.** Dihydrorhodamine flow cytometry
-- **D.** Serum thyroid-stimulating hormone
+- **D.** Classical complement pathway activity (CH50)
 
 <details><summary>Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Dihydrorhodamine flow cytometry**
 
-**A kyun galat hai:** Urine albumin ratio renal injury assess karta hai, neutrophil function nahi.
+**A kyun galat hai:** Serum immunoglobulins se antibody ki quantity pata chalti hai. Neutrophil ke bacteria ko oxidative mechanism se maarne ki ability is test se nahi pata chalti.
 
-**B kyun galat hai:** Prothrombin time coagulation pathway assess karta hai.
+**B kyun galat hai:** Lymphocyte proliferation assay mein lymphocytes ke stimulus ke response mein badhne ki ability check hoti hai. Ye neutrophil oxidative burst ka direct test nahi hai.
 
 **C kyun sahi hai:** Dihydrorhodamine test stimulated neutrophils ki oxidative burst capacity assess karta hai. Ye functional phagocyte defect ki evaluation mein helpful hai.
 
-**D kyun galat hai:** TSH thyroid regulation ka marker hai, neutrophil oxidative killing nahi.
+**D kyun galat hai:** CH50 classical complement pathway ki overall activity assess karta hai. Ye blood proteins ke defense system ka test hai, neutrophil ke andar oxidative burst ka nahi.
 
 **Exam clue:** Oxidative burst ke liye DHR functional assay yaad rakho.
 
@@ -413,26 +413,26 @@
 
 **Difficulty:** Difficult | **Priority:** High Yield | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Immunodeficiency assessment
 
-- **A.** Isolated lactose intolerance
-- **B.** Uncomplicated allergic rhinitis
-- **C.** Pure iron deficiency without immune involvement
+- **A.** X-linked agammaglobulinemia
+- **B.** Chronic granulomatous disease
+- **C.** 22q11.2 deletion syndrome
 - **D.** Wiskott-Aldrich syndrome
 
 <details><summary>Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Wiskott-Aldrich syndrome**
 
-**A kyun galat hai:** Lactose intolerance gastrointestinal digestion problem hai, ye combined immune aur platelet findings explain nahi karti.
+**A kyun galat hai:** X-linked agammaglobulinemia mein B cells aur antibodies kam hone se infections hoti hain. Lekin eczema aur thrombocytopenic bleeding ka classic combined pattern Wiskott-Aldrich ki taraf zyada point karta hai.
 
-**B kyun galat hai:** Allergic rhinitis nasal symptoms explain kar sakti hai, thrombocytopenia aur recurrent severe infections nahi.
+**B kyun galat hai:** Chronic granulomatous disease mein neutrophils microbes ko effectively nahi maar paate. Recurrent infections ho sakti hain, lekin eczema aur low platelets ka triad iska typical pattern nahi hai.
 
-**C kyun galat hai:** Iron deficiency anemia cause kar sakti hai, par given combined pattern ko akela explain nahi karti.
+**C kyun galat hai:** 22q11.2 deletion syndrome mein thymus aur T-cell development affected ho sakte hain. Congenital heart defects aur low calcium important clues hain, jo is scenario mein nahi diye gaye.
 
 **D kyun sahi hai:** Wiskott-Aldrich syndrome mein immune dysfunction ke saath eczema aur low platelet-related bleeding mil sakti hai. Specialist assessment diagnosis confirm karega.
 
 **Exam clue:** Infections, eczema aur thrombocytopenia ke combination ko recognize karo.
 
-**Clinical reference:** [Source E](https://www.merckmanuals.com/professional/multimedia/table/combined-humoral-and-cellular-immunity-deficiencies)
+**Clinical reference:** [Source E](https://www.ncbi.nlm.nih.gov/books/NBK1178/)
 
 </details>
 
@@ -478,7 +478,7 @@
 
 **A kyun galat hai:** Dietary sugar history se genetic antibody disorder confirm nahi hota.
 
-**B kyun sahi hai:** Urinary protein loss ke saath immunoglobulins bhi lose ho sakti hain. Isliye secondary cause evaluate karna zaroori hai, before inherited deficiency ka label diya jaaye.
+**B kyun sahi hai:** Nephrotic syndrome mein kidney ke filters se protein urine mein nikal jaata hai. IgG jaise antibodies bhi kam ho sakte hain. Isliye patient ki urine protein loss, serum albumin, medicine history aur doosre acquired causes ko evaluate karo. Sirf low IgG dekhkar inherited deficiency ka label mat lagao.
 
 **C kyun galat hai:** Blood group transfusion ke liye useful hai, acquired antibody loss assess nahi karta.
 
@@ -486,7 +486,7 @@
 
 **Exam clue:** Low immunoglobulins mein production defect aur protein loss dono consider karo.
 
-**Clinical reference:** [Source H](https://www.merckmanuals.com/professional/immunology-allergic-disorders/immunodeficiency-disorders/approach-to-the-patient-with-suspected-immunodeficiency)
+**Clinical reference:** [AAAI secondary hypogammaglobulinemia work group report](https://pubmed.ncbi.nlm.nih.gov/35176351/)
 
 </details>
 
