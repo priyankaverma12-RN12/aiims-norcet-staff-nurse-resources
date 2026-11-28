@@ -66,23 +66,23 @@
 
 </details>
 
-### Q4. Histology of an actively healing skin defect shows capillaries, fibroblasts and loose extracellular matrix. What is this tissue called?
+### Q4. A wound matrix contains fibronectin and glycosaminoglycans before mature collagen bundles are established. What is an important function of this provisional matrix?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Tissue healing and repair | **Exam focus:** NORCET-style original
 
-- **A.** Mature hyaline cartilage
-- **B.** Granuloma
-- **C.** Coagulative necrosis
-- **D.** Granulation tissue
+- **A.** It permanently prevents every cell from entering the defect
+- **B.** It replaces all blood vessels with bone
+- **C.** It directly eliminates the need for epithelial repair
+- **D.** It supports attachment and migration of repair cells
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Granulation tissue**
+**Correct: D. It supports attachment and migration of repair cells**
 
-- **A.** Hyaline cartilage mein chondrocytes aur specialized matrix hota hai, capillary-rich wound bed nahi hota.
-- **B.** Granuloma organized macrophage aggregate hai, capillary-rich fibroblast repair tissue se alag hai.
-- **C.** Coagulative necrosis dead tissue ko describe karta hai, actively growing repair tissue ko nahi.
-- **D.** Naye vessels aur fibroblasts ke saath loose matrix granulation tissue banata hai. Yeh wound bed fill karta hai aur surface closure support karta hai.
+- **A.** Repair cells ko wound mein migrate karna zaroori hai, provisional matrix unko universally block nahi karta.
+- **B.** Provisional skin repair matrix bone formation ka equivalent nahi hai. Capillaries repair mein oxygen deliver karte hain.
+- **C.** Matrix substrate provide karta hai, lekin protective epidermal barrier ke liye epithelial closure phir bhi chahiye.
+- **D.** Fibronectin aur hydrated matrix repair cells ko attach aur migrate karne ka substrate dete hain. Mature scar banne se pehle yeh temporary support useful hota hai.
 
 </details>
 
@@ -148,43 +148,43 @@
 
 </details>
 
-### Q8. A clean surgical incision has edges approximated with sutures and minimal tissue loss. Which healing pattern is expected if uncomplicated?
+### Q8. A skin wound destroys its basement membrane but retains a viable epithelial margin. Which matrix feature must be restored to support a stable epithelial-dermal interface?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Tissue healing and repair | **Exam focus:** NORCET-style original
 
-- **A.** Secondary intention
-- **B.** Delayed primary closure
-- **C.** Healing by ossification
-- **D.** Primary intention
+- **A.** A layer of mature erythrocytes
+- **B.** A sheet of articular type II collagen alone
+- **C.** A permanent layer of free plasma triglycerides
+- **D.** A basement membrane containing type IV collagen and laminin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Primary intention**
+**Correct: D. A basement membrane containing type IV collagen and laminin**
 
-- **A.** Secondary healing mein open defect ko granulation aur contraction se fill karna padta hai, closely approximated clean incision iska usual example nahi hai.
-- **B.** Is approach mein wound pehle open rakha jata hai aur baad mein close hota hai, yahan immediate approximation hui hai.
-- **C.** Ossification bone formation hai, routine skin incision closure ka classification nahi hai.
-- **D.** Edges close hone se defect chhota hota hai, isliye kam granulation tissue aur contraction chahiye. Healing usually smaller scar ke saath hoti hai.
+- **A.** RBC oxygen transport karte hain, epithelial attachment ke liye structural basement membrane nahi banate.
+- **B.** Type II collagen cartilage se associated hai, epithelial basement membrane ka principal network nahi hai.
+- **C.** Triglycerides energy storage lipids hain, stable basement membrane ka structural substitute nahi hain.
+- **D.** Basement membrane specialized extracellular matrix hai jo epithelium ko underlying tissue se connect aur support karti hai. Type IV collagen aur laminin iska important part hain.
 
 </details>
 
-### Q9. A contaminated traumatic wound is deliberately left open and closed surgically after contamination is controlled. What is the intended closure strategy?
+### Q9. A wound-healing research specimen shows fibroblasts responding to transforming growth factor beta. Which repair effect is particularly associated with sustained signaling through this pathway?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Tissue healing and repair | **Exam focus:** NORCET-style original
 
-- **A.** Immediate primary closure
-- **B.** Permanent secondary intention
-- **C.** Epithelial dysplasia
-- **D.** Delayed primary closure
+- **A.** Selective inhibition of every matrix protein
+- **B.** Immediate differentiation of fibroblasts into circulating erythrocytes
+- **C.** Exclusive digestion of dietary starch
+- **D.** Increased extracellular matrix deposition and fibrotic remodeling
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Delayed primary closure**
+**Correct: D. Increased extracellular matrix deposition and fibrotic remodeling**
 
-- **A.** Immediate closure mein first encounter par edges approximate hote hain, planned delay nahi hota.
-- **B.** Secondary intention mein defect open rehkar fill hota hai, planned later surgical closure isse distinguish karta hai.
-- **C.** Dysplasia abnormal cell maturation hai, wound closure strategy nahi hai.
-- **D.** Wound initially open rakhne se contamination assess aur manage ki ja sakti hai. Jab clinical team closure safe samjhe tab edges approximate kiye jaate hain.
+- **A.** TGF-beta signaling fibrosis mein matrix accumulation support kar sakti hai, universal protein inhibition expected nahi hai.
+- **B.** Fibroblasts aur erythrocytes different lineages hain. Yeh growth factor normal wound mein direct conversion nahi karwata.
+- **C.** Starch digestion amylase jaise enzymes se hoti hai, TGF-beta repair signaling is function se alag hai.
+- **D.** TGF-beta fibroblast activation aur collagen matrix deposition promote kar sakta hai. Sustained signaling normal repair ke beyond fibrosis mein contribute kar sakti hai.
 
 </details>
 
@@ -250,23 +250,23 @@
 
 </details>
 
-### Q13. An undernourished surgical patient has insufficient dietary protein. Which wound-repair requirement is most directly compromised?
+### Q13. A normal scar develops stronger collagen fibers as covalent cross-links form. Which copper-dependent enzyme participates in extracellular collagen cross-link formation?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Tissue healing and repair | **Exam focus:** NORCET-style original
 
-- **A.** Availability of amino acids for new matrix and cellular proteins
-- **B.** Availability of atmospheric nitrogen for direct collagen synthesis
-- **C.** Availability of cholesterol as the sole collagen precursor
-- **D.** Availability of calcium as a substitute for protein
+- **A.** Lysyl oxidase
+- **B.** Lactate dehydrogenase
+- **C.** Pancreatic amylase
+- **D.** Glucose-6-phosphatase
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Availability of amino acids for new matrix and cellular proteins**
+**Correct: A. Lysyl oxidase**
 
-- **A.** Repair cells ko collagen, enzymes aur other proteins banane ke liye amino acids chahiye. Deficiency mein tissue reconstruction slow ho sakti hai.
-- **B.** Human cells atmospheric nitrogen directly fix nahi karte, amino acids dietary aur metabolic sources se aate hain.
-- **C.** Collagen amino acid polymer hai, cholesterol se directly collagen chains nahi banti.
-- **D.** Calcium important mineral hai lekin amino acids ko replace nahi kar sakta.
+- **A.** Lysyl oxidase selected lysine residues ko modify karke covalent cross-link formation support karta hai. Copper enzyme activity ke liye important cofactor hai.
+- **B.** LDH pyruvate aur lactate ke conversion mein involved hai, extracellular collagen cross-linking ka enzyme nahi.
+- **C.** Amylase starch hydrolyze karta hai, collagen strength develop karne wala enzyme nahi hai.
+- **D.** Glucose-6-phosphatase glucose metabolism mein role play karta hai, collagen extracellular cross-links nahi banata.
 
 </details>
 
@@ -312,23 +312,23 @@
 
 ## Part 4
 
-### Q16. A postoperative incision has healed externally but the patient assumes its tensile strength equals uninjured skin. Which explanation is most accurate?
+### Q16. A skin scar becomes flatter and less vascular during late maturation. Which local histological change contributes to the fading appearance?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Tissue healing and repair | **Exam focus:** NORCET-style original
 
-- **A.** Full strength is restored as soon as epithelium closes
-- **B.** Scar strength improves gradually but generally does not regain full original strength
-- **C.** Tensile strength decreases continuously in all normal scars
-- **D.** Scar strength depends only on surface color
+- **A.** Progressive accumulation of large new capillary networks in every mature scar
+- **B.** Regression of excess repair capillaries as the matrix remodels
+- **C.** Complete disappearance of all dermal collagen
+- **D.** Conversion of all endothelial cells into epidermal melanocytes
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Scar strength improves gradually but generally does not regain full original strength**
+**Correct: B. Regression of excess repair capillaries as the matrix remodels**
 
-- **A.** Surface barrier closure aur deep tensile strength alag processes hain, closure immediate full strength prove nahi karti.
-- **B.** Collagen organization aur cross-linking se strength time ke saath badhti hai. Mature scar bhi usually uninjured tissue ke barabar strength regain nahi karta.
-- **C.** Normal remodeling generally strength increase karta hai, continuous decrease expected nahi hai.
-- **D.** Color appearance batata hai, collagen architecture aur depth ki strength directly measure nahi karta.
+- **A.** Early angiogenesis repair support karti hai, normal late scar mein capillary density generally reduce ho sakti hai.
+- **B.** Early repair tissue vascular hota hai kyunki growing cells ko supply chahiye. Maturation mein excess vessels regress kar sakte hain aur scar less red dikh sakta hai.
+- **C.** Scar collagen persists aur reorganize hota hai. Color fading total collagen loss ka sign nahi hai.
+- **D.** Endothelial cells vascular lining banate hain, scar fading unke melanocytes mein conversion se explain nahi hoti.
 
 </details>
 
@@ -419,3 +419,5 @@
 - [Impaired wound healing](https://www.ncbi.nlm.nih.gov/books/NBK482254/)
 - [Inflammation and repair MCQs, Dr. Shweta Rana Khokhar](https://www.youtube.com/watch?v=nm6tuSl3iKI) — indexed topic-level practice candidate for Q1–20. Exact question coverage and playback pending.
 - Further item-specific reference verification and independent review pending. No historical question credit.
+
+- Bounded comparison with PR38 wound healing bank: Q4, Q8, Q9, Q13 and Q16 replaced with distinct matrix and scar mechanisms. Replacement does not increase count. Additional item-level clinical validation pending.
