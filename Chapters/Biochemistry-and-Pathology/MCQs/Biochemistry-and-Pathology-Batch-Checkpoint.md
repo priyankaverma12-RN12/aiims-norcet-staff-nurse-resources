@@ -98,3 +98,36 @@ Both skills, AGENTS, Copilot instructions and historical audit log fetched and a
 ## Next scope
 
 Resolve independent clinical review of all 300 candidates, full repository semantic audit and PR30 allocation, exact video evidence, source-specific item review and rendering. Reconcile official INC remaining objectives against existing organ-system banks before new authoring: carbohydrate/glucose diagnostic biochemistry, lipid profile and cholesterol-derived compounds, clinical enzymology gaps, acid-base maintenance, organ function tests (renal, liver, thyroid), and remaining Unit VIII and special-pathology coverage where not already assigned. Do not duplicate related chapter questions. Allocate or link existing questions once. Complete uncovered objectives before ten distinct 120-question mock-exclusive tests and sourced PYQs. Obtain PR7/8 navigation release, reconcile latest main, then verify actual integration. Main baseline four originals, one adaptation, zero full mocks remains separate from draft totals. No claim of whole-chapter completion.
+
+
+---
+
+# Batch 04 verified continuation — 28 November 2026
+
+**Draft only.** Previous verified checkpoint 3d5348134f4f0bd7f6713cf375438f5004f0536d. All 35 prior chapter blobs other than this checkpoint preserved byte-identically.
+
+| New bank | Originals | Individual rationales | Final bank commit |
+|---|---:|---:|---|
+| [Glucose diagnostic biochemistry](16-Glucose-Diagnostic-Biochemistry-20-MCQs.md) | 20 | 80 | 74ee1ac9b0dc3d2cff47e1b4457206c6c83765d3 |
+| [Lipid profile and cholesterol derivatives](17-Lipid-Profile-and-Cholesterol-Derivatives-20-MCQs.md) | 20 | 80 | 11532a4fad87d2390ca055817ff1c8d287bee601 |
+| [Clinical enzymology and analytical interpretation](18-Clinical-Enzymology-and-Analytical-Interpretation-20-MCQs.md) | 20 | 80 | ec4447990c548b513806a890b346682c7fd7c10b |
+| [Acid-base diagnostic biochemistry](19-Acid-Base-Diagnostic-Biochemistry-20-MCQs.md) | 20 | 80 | 21795ffbada2d96ac36d3c9fc7ff9de56644c1b9 |
+| [Organ-function test interpretation](20-Organ-Function-Test-Interpretation-20-MCQs.md) | 20 | 80 | acdd4ddbc45f9616a546ebac31a1a09445fe84c5 |
+| **Batch 04** | **100** | **400** | |
+| **All four candidate batches** | **400** | **1,600** | |
+
+## Supporting resources
+
+- [Glucose/lipid guide](../Concepts/16-17-Glucose-and-Lipid-Diagnostic-Biochemistry.md) c1bba520cdd298f2a7e9393c23987db30070992f, [SVG](../Assets/glucose-lipid-diagnostic-pathways.svg) 26d4614c75323cfb6f9c7089c74b6c899d19710b.
+- [Clinical enzyme, acid-base and organ tests guide](../Concepts/18-20-Clinical-Enzymology-Acid-Base-and-Organ-Tests.md) e38576d0932588ac1d5c98d9f8e215856de551f8, [SVG](../Assets/clinical-assay-interpretation.svg) b4cb06f8c020744e2943a7545b7b4e360f9b5d59.
+- [Clinical and curriculum evidence ledger](../Previous-Year-Questions/Batch-04-Clinical-and-Curriculum-Evidence-Ledger.md) 4a8f0c350303aaf2b30268b238218ebc0d9b87e3.
+
+## Verification
+
+Exact remote readback passed for all new content and the three corrective replacements. All 20 candidate banks reparsed: 400 stems, 1,600 options, 1,600 individually labeled rationales, 400 aligned keys, 400 closed hidden blocks, 400 complete four-label sets, 400 difficulty and priority labels. All banks balanced 5 A, 5 B, 5 C, 5 D. 400 candidate stems normalized-distinct. Separate 105/105 new and legacy/adaptation comparison, with prior verified 305/305 and preserved prior blobs, establishes 405/405 exact normalized chapter stems. No claim of full semantic uniqueness. Four legacy originals and one reported adaptation remain unchanged. Eight candidate concept guides and eight SVGs.
+
+Targeted stem screening of relevant endocrine, cardiovascular, respiratory, renal, A&P, hepatobiliary, foundations, hematology, fluids and PR35 nutrition drafts performed. Endocrine mixed mock format not parsed, comprehensive cross-bank/mocks/draft review remains pending. Three overlapping Batch 04 objectives replaced in place (16 Q18, 18 Q17, 19 Q13) before counting. No inflated count. Prior PR30 metaplasia allocation unresolved. All 18 claim headers and 16 open PRs inspected, both skills and applicable rule sections fetched, full line-by-line preflight not certified. PR7/8/30 prior notices remain without explicit scope release; new UI PR44 is not modified. No main study content change, learner history, other owner files or schedule changes. No new mock or historical credit.
+
+## Next scope
+
+Reconcile remaining INC GTT variants, aldolase, ACP/PSA, reference values and Unit VIII immunochemistry/ELISA against existing OBG, immunology, IPC, A&P and other organ-system banks. Allocate existing coverage rather than duplicate. Complete only genuinely uncovered objectives. Independent clinical/source verification, comprehensive semantic and distractor/difficulty audit, exact MCQ video evidence, rendering and PR7/8/30 coordination are still gates. No whole-topic-phase completion or live publication claim. After verified topic coverage and safe integration, ten 120-question mock-exclusive tests in pairs and all-India sourced PYQs. Current main remains four originals, one reported adaptation and zero full mocks, separate from candidate count.
