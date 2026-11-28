@@ -46,3 +46,24 @@ Next: review and integrate Group10A under valid ownership and coordinate existin
 ## Continuation corrective checkpoint — 28 November 2026
 
 Original 26 stems, 104 option texts, 104 rationale texts and correct answer texts preserved. Candidate-only predictable repeated ABCD key pattern removed through option/rationale order and letter remapping, commit 8dde321f2f092ada01d04ce4bd3ef7facdb99708, blob 092f87c56dcfc2554fb6603668ef206ab158ee89, exact remote readback. Earlier bank blob above is historical. All 26 keys and details validated after remapping. Combined 48-question PR48 package and further 160-stem normalized comparisons recorded in [Group10B evidence](10B-Positioning-Reported-Evidence.md). Review A Q1/Q16 and Q8/Q26 potential learning-task redundancy, Q13 source depth, and difficulty and distractor calibration before release. No external clinical sign-off or complete semantic clearance. No live inventory credit.
+
+
+## Corrective review continuation — 28 November 2026, PR48
+
+Reviewed all 26 question blocks and 104 option rationales from previous bank blob 092f87c56dcfc2554fb6603668ef206ab158ee89. Six blocks corrected at commit 7ba03661ccc6061298310f3283fd2a5a30731829, exact new blob ed20f7eeac772718a4eb0b9f5c32eae5c454556b. Twenty other blocks byte-identical. Existing question IDs and total 26 slots preserved. No change to published legacy questions. Review is an additional AI review, not licensed independent clinical certification.
+
+| Question(s) | Review result |
+|---|---|
+| Q01 | Correct lower component rating decision retained. Improved two distractors to distinguish capacity from compatibility and correct size. Difficulty recalibrated Medium. |
+| Q02–05 | Compatibility, visible defects, footplate clearance and controlled surface-height preparation reviewed. Correct keys retained. Q02/Q23 share equipment identity checks but differ in known incompatibility versus missing identification. |
+| Q06 | Attachment management retained and correct rationale strengthened with secure device support. Medium label. Compare Group13 Q09 occupied bed linen task during final cross-bank screen. |
+| Q07–12 | Common signal, altered alertness, communication, patient preference, operator requirements and emergency lowering reviewed. Keys retained. |
+| Q13 | Gait belt after recent abdominal surgery source gap resolved with direct OpenStax 9.3 and OSHA transfer belt sections. Correct rationale strengthened, Medium label. |
+| Q14–15 | Board access and sling-fold pressure decisions retained. Device-specific source depth and distractor quality still need final clearance. |
+| Q16 | Replaced overlapping weight-capacity rule (A Q01) with manufacturer-required air-assisted transfer inflation readiness. Correct key C retained. |
+| Q17–23 | Ergonomic reach, route preparation, handover, footwear, low-height instability, post-transfer access and equipment identification reviewed. Q19/C Q26 overlap subsequently removed in C. Q20/A4 separate footwear and footplate checks. |
+| Q24 | Movement restriction remains applicable during sling fitting. Correct explanation expanded and difficulty recalibrated Medium. |
+| Q25 | 40 × 0.5 = 20 N m and 40 × 0.25 = 10 N m verified. Explicit idealized physics, not clinical spine load. |
+| Q26 | Replaced generic new-pain reassessment overlap with A Q08 and D Q07 using overhead hoist vertical-tape alignment. Key B retained, Medium label. |
+
+Sources directly retrieved: [OpenStax 9.3](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients), [OSHA](https://www.osha.gov/ergonomics/guidelines/nursing-home/final-nh-guidlines), [Stryker manufacturer safety information](https://www.stryker.com/us/en/sage/disclosure-and-safety-information.html), [HSE hoisting checklist](https://www.hse.gov.uk/pubns/hsis3.pdf) printed page 4, text and actual screenshot checked. FDA patient lift guide extracted text retrieved but page screenshot cache miss. New manufacturer example applies only to equipment whose instructions require full inflation, not every device. Concept commit ba2755443a2cf877c3b4abacf22006490f4573aa, blob c75e215b5883845649febb2325beabc7e1335378, exact readback. A26 remains 23 Medium and 3 Difficult. Broad positioning MCQ video indexed description confirmed but no item-level playback. No new historical item or live count. Full repository semantic, independent clinical and further difficulty/distractor checks pending.
