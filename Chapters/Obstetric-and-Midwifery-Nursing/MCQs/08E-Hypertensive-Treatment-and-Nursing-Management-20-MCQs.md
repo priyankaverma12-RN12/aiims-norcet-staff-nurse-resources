@@ -66,7 +66,7 @@ D. Activate the urgent hypertension treatment protocol
 
 </details>
 
-### Q03. A woman with severe pregnancy hypertension has active bronchospasm. The clinician is selecting an emergency antihypertensive. Which prescribed option should the nurse query?
+### Q03. A woman with severe pregnancy hypertension has active bronchospasm. Which drug has a mechanism that can specifically worsen bronchospasm?
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
@@ -76,20 +76,20 @@ B. Oral immediate-release nifedipine
 
 C. Intravenous hydralazine
 
-D. A monitored alternative selected by the obstetric team
+D. Oral methyldopa
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: A**
 
-- **A — Correct:** Labetalol beta receptors ko block karta hai aur bronchospasm ko badha sakta hai. Nurse asthma history batakar order clarify karti hai.
+- **A — Correct:** Labetalol beta-2 receptors ko bhi block karta hai. Normally in receptors ki activity se airways khulne mein madad milti hai. Jab bronchospasm already ho, toh beta-2 blockade breathing ko aur worsen kar sakta hai. Nurse prescriber ko inform karti hai taaki suitable emergency alternative choose ho.
 
 - **B — Incorrect:** Nifedipine calcium channel blocker hai. Agar woman safely nigal sakti hai toh protocol ke hisaab se yeh acute option ho sakta hai.
 
 - **C — Incorrect:** Hydralazine arterioles ko relax karta hai aur beta blockade nahi karta. Yeh suitable protocol ke andar ek alternative ho sakta hai.
 
-- **D — Incorrect:** Obstetric team patient ki condition dekhkar alternative choose kar sakti hai. Monitored treatment ko sirf asthma ki wajah se delay nahi karna chahiye.
+- **D — Incorrect:** Methyldopa brain se sympathetic signals kam karti hai aur beta receptor blocker nahi hai. Isliye labetalol jaisa beta-blockade wala airway risk is drug ka specific mechanism nahi hai. Lekin slow onset ki wajah se methyldopa rapid emergency rescue ke liye routine first choice nahi hai.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -107,7 +107,7 @@ B. Punctured nifedipine capsule under the tongue
 
 C. Oral immediate-release nifedipine swallowed as directed
 
-D. Weekly methyldopa
+D. A routine oral methyldopa maintenance dose for immediate rescue
 
 <details>
 <summary>Show answer and explanation</summary>
@@ -120,7 +120,7 @@ D. Weekly methyldopa
 
 - **C — Correct:** Immediate-release nifedipine ko prescribed oral protocol mein nigla ja sakta hai. IV access milne ka wait kiye bina eligible patient mein treatment shuru ho sakta hai.
 
-- **D — Incorrect:** Methyldopa weekly medicine nahi hai aur routine oral treatment ka role alag hai. Is acute scenario mein isse rapid control expect nahi karte.
+- **D — Incorrect:** Methyldopa ka action dheere shuru hota hai. Yeh maintenance ke liye useful ho sakti hai, lekin severe BP ko jaldi control karne ke liye prescribed rapid-acting protocol ko replace nahi karti.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -138,7 +138,7 @@ B. Selective blockade of renal angiotensin receptors
 
 C. Direct relaxation of arteriolar smooth muscle
 
-D. Inhibition of platelet aggregation
+D. Blockade of L-type calcium channels in arterial smooth muscle
 
 <details>
 <summary>Show answer and explanation</summary>
@@ -151,7 +151,7 @@ D. Inhibition of platelet aggregation
 
 - **C — Correct:** Hydralazine chhoti arteries ki smooth muscle relax karta hai. Isse resistance aur BP kam hote hain, lekin reflex tachycardia ho sakti hai.
 
-- **D — Incorrect:** Platelet aggregation rokna low-dose aspirin ka role hai. Aspirin acute severe BP ko control karne ki dawa nahi hai.
+- **D — Incorrect:** Nifedipine calcium channels block karke arterial smooth muscle mein calcium entry kam karti hai. Hydralazine direct arteriolar relaxation karta hai, isliye yeh hydralazine ka mechanism nahi hai.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -190,32 +190,32 @@ D. Use magnesium sulfate alone to control the persistent severe blood pressure
 
 </details>
 
-### Q07. Which prescription for chronic hypertension in pregnancy requires clarification because of fetal renal toxicity risk?
+### Q07. A woman at 24 weeks reports inadvertent losartan exposure through the second trimester. The prescriber has arranged a pregnancy-compatible alternative. Which additional fetal assessment should the nurse expect to coordinate?
 
 **Difficulty:** Medium · **Priority:** High · **Original practice**
 
-A. Losartan
+A. Serial ultrasound assessment of amniotic fluid, fetal growth and wellbeing
 
-B. Extended-release nifedipine
+B. Routine ultrasound only at the usual next visit, with no exposure-specific follow-up
 
-C. Oral labetalol
+C. Maternal serum creatinine monitoring as a substitute for fetal assessment
 
-D. Methyldopa
+D. Fetal heart rate auscultation alone at routine visits as a substitute for imaging
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: A**
 
-- **A — Correct:** Losartan ek ARB hai jo fetal kidney function ko harm kar sakta hai, khaaskar later pregnancy mein. Prescriber se pregnancy-compatible alternative clarify karna chahiye.
+- **A — Correct:** Losartan fetus ke renin-angiotensin system par asar kar sakta hai. Later pregnancy mein fetal kidney function aur urine production kam hone se amniotic fluid kam ho sakta hai. Isliye specialist team serial ultrasound se fluid, growth aur baby ki wellbeing check karti hai. Medicine replace hone ke baad bhi follow-up zaroori ho sakta hai.
 
-- **B — Incorrect:** Extended-release nifedipine maintenance BP control ke liye use ho sakta hai. Iski formulation acute dose se alag hoti hai.
+- **B — Incorrect:** Routine scan useful hai, lekin later pregnancy ke drug exposure mein additional targeted monitoring ki zaroorat ho sakti hai. Iske liye specialist plan follow karna chahiye.
 
-- **C — Incorrect:** Labetalol commonly selected pregnancy antihypertensive hai. Asthma, slow pulse aur cardiac conditions ko pehle assess karna chahiye.
+- **C — Incorrect:** Maternal creatinine se maa ki kidney function ka andaaza lagta hai. Isse fetal kidney function ya amniotic fluid ka assessment replace nahi hota hai.
 
-- **D — Incorrect:** Methyldopa pregnancy mein selected maintenance option hai. Iska slow action aur side effects dhyan mein rakhte hain.
+- **D — Incorrect:** Fetal heart rate check zaroori observation hai, lekin isse amniotic fluid volume aur growth directly measure nahi hote. Isliye yeh targeted ultrasound ka substitute nahi hai.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf) · [UKTIS ARB exposure](https://uktis.org/monographs/use-of-angiotensin-ii-receptor-antagonists-in-pregnancy/)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
@@ -225,11 +225,11 @@ D. Methyldopa
 
 **Difficulty:** Easy · **Priority:** High · **Original practice**
 
-A. It is the preferred immediate rescue drug for every emergency
+A. It directly relaxes arteriolar smooth muscle and is used as an intravenous rescue agent.
 
-B. It should be given by a punctured sublingual capsule
+B. It blocks peripheral alpha and beta receptors to reduce vascular resistance.
 
-C. It directly dissolves placental clots
+C. It blocks L-type calcium channels in arterial smooth muscle.
 
 D. It reduces central sympathetic activity and is used for maintenance
 
@@ -238,11 +238,11 @@ D. It reduces central sympathetic activity and is used for maintenance
 
 **Correct answer: D**
 
-- **A — Incorrect:** Methyldopa ka onset relatively slow hai. Isliye monitored acute severe BP mein rapid protocol agents ko priority milti hai.
+- **A — Incorrect:** Yeh hydralazine ka mechanism aur acute treatment role hai. Methyldopa central sympathetic activity kam karti hai aur iska onset relatively slow hai.
 
-- **B — Incorrect:** Sublingual punctured capsule dena safe method nahi hai. Methyldopa prescribed oral maintenance tablet hoti hai.
+- **B — Incorrect:** Yeh labetalol ka mechanism hai. Methyldopa alpha aur beta receptors ko is tarah directly block nahi karti.
 
-- **C — Incorrect:** Methyldopa clot dissolve nahi karta hai. BP control aur thrombosis treatment alag goals hain.
+- **C — Incorrect:** Yeh nifedipine ka mechanism hai. Methyldopa central sympathetic outflow kam karke BP control karti hai.
 
 - **D — Correct:** Methyldopa brain ke sympathetic signals ko kam karta hai. Isse vessels ka tone kam hota hai aur long-term BP control mein madad milti hai.
 
@@ -469,32 +469,32 @@ D. Stop methyldopa within two days and change to a suitable alternative if neede
 
 </details>
 
-### Q16. A breastfeeding woman is prescribed enalapril postpartum. Which maternal monitoring is particularly important after initiation?
+### Q16. A woman with postnatal hypertension, breastfeeding a healthy full-term infant, asks why the clinician may now consider enalapril although ACE inhibitors were avoided during pregnancy. Which explanation is most accurate?
 
 **Difficulty:** Medium · **Priority:** High · **Original practice**
 
-A. Daily fetal cardiotocography
+A. Pregnancy and breastfeeding expose the infant to the same drug concentrations, so the prenatal risk applies unchanged
 
-B. Serum bilirubin alone
+B. Enalapril cannot enter breast milk, so no infant assessment is needed
 
-C. Renal function and serum potassium
+C. Placental exposure has ended and available evidence indicates very low milk transfer, so individualized prescribed use may be appropriate
 
-D. Maternal hearing test
+D. A stable maternal creatinine result proves that there can be no drug exposure to the infant
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: C**
 
-- **A — Incorrect:** Baby deliver ho chuka hai, isliye fetal CTG ka role nahi hai. Postpartum maternal drug safety par focus chahiye.
+- **A — Incorrect:** Pregnancy mein medicine placenta ke through fetus tak pahunch sakti hai. Delivery ke baad breast milk se hone wala exposure ek alag route hai. Dono situations mein same level ka exposure assume nahi karna chahiye.
 
-- **B — Incorrect:** Bilirubin liver se related test hai. Enalapril ki main routine monitoring kidney function aur potassium hai.
+- **B — Incorrect:** Enalapril aur uska active form breast milk mein bahut kam quantity mein ja sakte hain. Kam exposure ka matlab zero exposure nahi hota hai. Baby ki feeding, alertness aur urine output par prescribed advice ke mutabik dhyan dena chahiye.
 
-- **C — Correct:** Enalapril ACE inhibitor hai aur kidney function aur potassium par asar kar sakta hai. NICE postpartum use ke saath in tests ki monitoring kehta hai.
+- **C — Correct:** LactMed ke available data mein milk mein enalapril aur uske active metabolite ka level bahut kam mila hai. Healthy full-term infant ke context mein, jab maa ko medicine ki zaroorat ho toh clinician breastfeeding continue karne ke saath suitable treatment decide kar sakta hai. Maa ka BP, renal function aur potassium monitor karte hain. Premature ya unwell infant ko separate specialist assessment chahiye.
 
-- **D — Incorrect:** Hearing test enalapril safety ka routine marker nahi hai. BP aur renal tests zyada relevant hain.
+- **D — Incorrect:** Maternal creatinine maa ki kidney function ka ek marker hai. Isse milk transfer ya infant exposure zero prove nahi hota hai. Maternal monitoring aur infant safety assessment dono alag roles nibhate hain.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf) · [LactMed enalapril](https://www.ncbi.nlm.nih.gov/books/NBK500582/) · [NHS SPS](https://sps.nhs.uk/articles/using-ace-inhibitors-during-breastfeeding/)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
@@ -562,7 +562,7 @@ D. Stop BP monitoring because readings have normalized
 
 </details>
 
-### Q19. A postpartum woman has persistent non-severe hypertension despite tolerated enalapril monotherapy. Renal function and potassium are stable. Under NICE NG133, which combination can the prescribing team consider next?
+### Q19. A postpartum woman has persistent non-severe hypertension despite tolerated enalapril monotherapy. Renal function and potassium are stable. Under NICE NG133, with no contraindication to a calcium-channel blocker and no previous trial of this combination, which combination should be considered first after monotherapy fails?
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
@@ -572,7 +572,7 @@ B. Enalapril plus nifedipine
 
 C. Enalapril plus a second ACE inhibitor
 
-D. Enalapril plus an unprescribed herbal diuretic
+D. Enalapril plus labetalol
 
 <details>
 <summary>Show answer and explanation</summary>
@@ -585,7 +585,7 @@ D. Enalapril plus an unprescribed herbal diuretic
 
 - **C — Incorrect:** Do ACE inhibitors ek hi pathway par kaam karte hain. Is tarah same mechanism wali do medicines dene se unnecessary side effects badh sakte hain aur yeh NICE ka recommended next combination nahi hai.
 
-- **D — Incorrect:** Herbal diuretic ka dose, drug interactions aur breastfeeding safety clear nahi ho sakti hai. Nurse unprescribed product shuru nahi karti hai aur clinician se evidence-based combination review karwati hai.
+- **D — Incorrect:** NICE pehle nifedipine ya amlodipine ke saath enalapril ka combination consider karne ko kehta hai. Agar yeh combination ineffective ya poorly tolerated ho, tab labetalol ya atenolol ko add ya substitute karne par consideration hota hai. Isliye given sequence mein B pehle aata hai.
 
 **Clinical references:** [NICE NG133, recommendations 1.9.6](https://www.ncbi.nlm.nih.gov/books/NBK546004/) · [NICE official recommendations](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
 

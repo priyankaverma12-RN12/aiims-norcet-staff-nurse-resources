@@ -76,11 +76,19 @@ Agar ek suitable medicine se BP control nahi ho raha hai, toh NICE nifedipine ya
 
 Newborn care ke beech baar-baar medicine lena mushkil ho sakta hai. NICE jahan clinically possible ho once-daily antihypertensives prefer karta hai. Nurse mother ki routine samajhkar practical reminders aur written schedule plan kar sakti hai. Missed dose ko double karne ke bajay medicine-specific instructions follow karni chahiye.
 
+## Exposure-specific monitoring and postnatal treatment
+
+Pregnancy mein inadvertent losartan exposure, khaaskar second trimester ya uske baad, fetal renal function aur amniotic fluid ko affect kar sakta hai. Prescriber pregnancy-compatible medicine decide karta hai; specialist team serial ultrasound se amniotic fluid, growth aur fetal wellbeing assess kar sakti hai. Maternal creatinine ya routine fetal heart auscultation targeted imaging ka substitute nahi hai.
+
+Delivery ke baad placental exposure khatam ho jaata hai. LactMed ke data mein enalapril aur active metabolite ka milk transfer bahut kam hai; healthy full-term infant ke liye individualized clinician-prescribed treatment suitable ho sakta hai. Maternal BP, renal function aur potassium monitor karo; premature ya unwell infant ke liye separate specialist advice chahiye. NICE ke sequence mein monotherapy fail hone par nifedipine ya amlodipine plus enalapril pehle consider hota hai; agar combination ineffective ya poorly tolerated ho, labetalol ya atenolol add ya substitute karne par consideration hota hai.
+
 ## Discharge and follow-up
 
 Pre-eclampsia ke baad NICE community transfer tab consider karta hai jab symptoms na ho, BP 150/100 ya kam ho aur blood test results stable ya improve ho rahe ho. Written plan mein BP monitoring, medicine dose, review date aur urgent contact clear hona chahiye. Day 3–5 BP review aur treatment par rehne wali women ke liye appropriate earlier review plan important hai. Six-to-eight-week visit mein BP, remaining treatment aur future cardiovascular risk discuss karte hain. Severe headache, vision change, upper abdominal pain, breathlessness ya severe BP reading par urgent assessment chahiye, routine appointment ka wait nahi karna chahiye.
 
 ## Sources and learning resources
+
+- [UKTIS ARB exposure in pregnancy](https://uktis.org/monographs/use-of-angiotensin-ii-receptor-antagonists-in-pregnancy/) · [LactMed enalapril](https://www.ncbi.nlm.nih.gov/books/NBK500582/) · [NHS SPS ACE inhibitors during breastfeeding](https://sps.nhs.uk/articles/using-ace-inhibitors-during-breastfeeding/)
 
 - [ISSHP 2021 sections 6.3–6.4, Table 8](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf)
 - [NHM CEmONC 2024, chapter 4 — official PDF directly retrieved](https://nhm.gov.in/pdf/2024/Revised_CEmONC_Curriculum-2024-Part-1.pdf)
