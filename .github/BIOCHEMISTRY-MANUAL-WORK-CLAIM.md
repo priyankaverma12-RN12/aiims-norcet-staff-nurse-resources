@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: CLAIMED
-Owner: biochemistry-final-audit-20261128-0722Z
-Scope: PR42 isolated clinical and semantic audit, candidate-only corrective commits and evidence/checkpoint. No shared navigation, other owners or schedules.
-Claimed UTC: 2026-11-28T07:22:27Z
-Expiry UTC: 2026-11-28T07:52:27Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
@@ -29,3 +29,8 @@ PR42 draft head c2d12e77f7dbbabf089000fbaeb88ddc763ed82d. 100 added candidates, 
 ## Batch 05 released checkpoint
 
 PR42 draft head 7c1195abaf2044c2207498da9d729337a384cbb1. 40 added original candidates, 440 total, 1,760 rationales, four unchanged legacy originals and one reported adaptation, ten concept guides and ten SVGs. All prior 45 chapter blobs except append-only checkpoint preserved. Exact remote readbacks, structural and normalized uniqueness checks passed. Independent clinical/semantic review, complete curriculum, source/video, CI/rendering and PR7/8/30 coordination gates remain. No main study content merged, no mock/PYQ/live credit. Other jobs and schedules preserved.
+
+
+## Final topic audit pass 01 released checkpoint
+
+PR42 draft head a4d8f09e0ecabd5864aaa6eb71c481f68f762756. 40 questions and 160 rationales reviewed and corrected, four overlapping objectives replaced in place, no count increase. 440 staged originals and 1,760 rationales retained, four legacy originals, one reported adaptation, ten guides and ten SVGs. Exact remote readbacks verified. 400 questions remain for detailed corrective review. Independent clinical and comprehensive semantic, curriculum, source/video, PR7/8/30 coordination and rendering/CI gates remain open. No main study content merged or mock/PYQ/live credit. Other jobs and schedules preserved.
