@@ -1,7 +1,9 @@
 # Nursing Research and Statistics — isolated work checkpoint
 
-State: CANDIDATE ONLY
-Owner: nursing-research-topic-bank-20261128
+State: CLAIMED (CANDIDATE ONLY)
+Owner: nursing-research-batch02-20261128-0556Z
+Claimed UTC: 2026-11-28T05:56:19Z
+Expiry UTC: 2026-11-28T06:26:19Z
 Scope: Nursing Research and Statistics original topic banks only. No main writes, shared navigation edits, or other owners' changes.
 
 Baseline: four original starter questions and one separately labeled reported adaptation. Preserve all five identities. No full mock confirmed.
