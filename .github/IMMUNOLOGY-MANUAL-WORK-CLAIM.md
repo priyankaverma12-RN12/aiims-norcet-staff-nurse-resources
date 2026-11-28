@@ -1,8 +1,8 @@
 # Immunology, Allergy and Rheumatology chapter claim
 
-State: CLAIMED
-Owner: immunology-pr77-bank03-20261128T1630Z
-Scope: isolated PR77 Bank03 corrections only. No shared navigation, Renal or other chapter changes.
+State: FREE
+Owner: none
+Scope: PR77 Bank03 corrective checkpoint complete. No active writer.
 Claimed UTC: 2026-11-28T16:30:08Z
 Expiry UTC: 2026-11-28T17:00:08Z
 
@@ -16,3 +16,7 @@ Released own chapter claim after creating draft PR77, head edd9527e11158df591c67
 ## Bank02 corrective checkpoint — 28 November 2026
 
 Released own claim after exact candidate readback at 5a5712ec75af43c4e2029336dca79466257ba42c (bank blob 6478d560bd3a2cc0856b05677de443131e0dff3e). All 99 staged originals and 33/33/33 difficulty distribution preserved, no live credit. Bank02 20-question AI clinical review and targeted corrections complete, PR77 comment 7242273968. Bank01 prior review 7241919754 preserved. Next Bank03–05 independent review and outstanding corrections, semantic and other release gates. PR8 request 7241920173 pending. No other claims or automation changes.
+
+## Bank03 corrective checkpoint — 28 November 2026
+
+Released own claim after exact candidate readback at b2af073ab5ea3941a7fc9f2074d7d8342667975a (bank blob f951c005a2f6c887e017fcd4462e93b8cfdbf811). 99 staged originals and 33/33/33 preserved, 60/99 bounded AI-reviewed across Banks01–03, no live credit. Bank03 review 7242301059. Remaining Bank04/05 39 questions, targeted corrections and release gates; no repeat of completed reviews. PR8 request 7241920173 still pending. Other claims and schedules preserved.
