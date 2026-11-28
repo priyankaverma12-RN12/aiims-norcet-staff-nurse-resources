@@ -531,94 +531,94 @@ D. Monitor only the mother's temperature
 
 </details>
 
-### Q18. A woman with pre-eclampsia is being considered for transfer to community care. Under NICE NG133, which combination supports transfer?
+### Q18. A woman receiving antihypertensive medication after pre-eclampsia has repeated resting blood pressures of 124/76 mmHg. Under NICE NG133, what should the nurse anticipate after clinician review?
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Persistent severe headache with BP 158/108 mmHg
+A. Maintain the full dose until the six-week visit regardless of BP
 
-B. No pre-eclampsia symptoms, BP at or below 150/100 mmHg, and stable or improving blood tests
+B. Reduce antihypertensive treatment according to the prescribed plan
 
-C. Any BP once the baby is born
+C. Increase medication to prevent all future hypertension
 
-D. Normal blood tests with uncontrolled severe hypertension
+D. Stop BP monitoring because readings have normalized
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: B**
 
-- **A — Incorrect:** Persistent severe headache concerning symptom hai aur BP bhi transfer limit se upar hai. Is patient ko further assessment chahiye.
+- **A — Incorrect:** NICE treatment ko bina review chhe hafte tak same rakhne ko nahi kehta hai. Agar BP ab low range mein aa raha hai, toh same dose se dizziness aur hypotension ka risk badh sakta hai.
 
-- **B — Correct:** NICE ke transfer criteria mein symptoms ka na hona, BP 150/100 ya kam aur blood tests stable ya improve hona shamil hai. Follow-up plan bhi clear hona chahiye.
+- **B — Correct:** Pre-eclampsia ke baad treatment le rahi woman ka BP 130/80 se neeche aaye toh NICE medicine kam karne ki salah deta hai. Nurse trend record karke prescribing team se dose adjustment confirm karti hai aur BP follow-up jaari rakhti hai.
 
-- **C — Incorrect:** Delivery se risk turant khatam nahi hota. Postpartum BP aur symptoms ko assess karna zaroori hai.
+- **C — Incorrect:** Jab BP pehle se controlled aur 130/80 se neeche hai, toh dose badhane se BP zaroorat se zyada gir sakta hai. Future cardiovascular risk ko follow-up aur preventive care se address karte hain, unnecessary dose increase se nahi.
 
-- **D — Incorrect:** Normal blood tests severe uncontrolled BP ko safe nahi bana dete. Stroke ka risk BP ke saath bana rehta hai.
+- **D — Incorrect:** Ek normal reading ka matlab yeh nahi hai ki BP dobara kabhi nahi badhega. Dose change ke baad scheduled monitoring se pata chalta hai ki naya treatment plan safe aur effective hai.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [NICE NG133, recommendations 1.5.17](https://www.ncbi.nlm.nih.gov/books/NBK546004/) · [NICE official recommendations](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
 </details>
 
-### Q19. A woman discharged after a hypertensive pregnancy feels well on postpartum day four. Which instruction best addresses ongoing BP risk?
+### Q19. A postpartum woman has persistent non-severe hypertension despite tolerated enalapril monotherapy. Renal function and potassium are stable. Under NICE NG133, which combination can the prescribing team consider next?
 
-**Difficulty:** Medium · **Priority:** High · **Original practice**
+**Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Skip all early BP checks if asymptomatic
+A. Enalapril plus losartan
 
-B. Wait for the infant's six-week vaccination visit only
+B. Enalapril plus a second ACE inhibitor
 
-C. Attend the arranged early postpartum BP check even if feeling well
+C. Enalapril plus nifedipine
 
-D. Take an extra tablet whenever ankle swelling is noticed
+D. Enalapril plus an unprescribed herbal diuretic
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: C**
 
-- **A — Incorrect:** Postpartum BP symptoms ke bina bhi badh sakta hai. Isliye scheduled check miss nahi karna chahiye.
+- **A — Incorrect:** Losartan aur enalapril dono renin-angiotensin system par kaam karte hain. Inko combine karne se kidney injury aur high potassium ka risk badh sakta hai, isliye routine combination ke liye yeh suitable choice nahi hai.
 
-- **B — Incorrect:** Six-week visit useful hai par early postpartum rise ko miss kar sakti hai. Pehle se arranged early monitoring chahiye.
+- **B — Incorrect:** Do ACE inhibitors ek hi pathway par kaam karte hain. Is tarah same mechanism wali do medicines dene se unnecessary side effects badh sakte hain aur yeh NICE ka recommended next combination nahi hai.
 
-- **C — Correct:** Delivery ke baad bhi BP rise ho sakta hai. NICE day three se five ke beech BP check ko include karta hai aur individual plan follow karna zaroori hai.
+- **C — Correct:** Nifedipine blood vessels ki smooth muscle mein calcium entry kam karti hai, jabki enalapril angiotensin II banne ko kam karta hai. Dono alag mechanisms se BP control mein madad kar sakte hain. NICE single medicine se control na hone par is combination ko consider karta hai, saath mein BP aur safety monitoring chahiye.
 
-- **D — Incorrect:** Ankle swelling ke basis par extra tablet lena unsafe hai. Dose BP aur clinician ke plan ke hisaab se change hoti hai.
+- **D — Incorrect:** Herbal diuretic ka dose, drug interactions aur breastfeeding safety clear nahi ho sakti hai. Nurse unprescribed product shuru nahi karti hai aur clinician se evidence-based combination review karwati hai.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [NICE NG133, recommendations 1.9.6](https://www.ncbi.nlm.nih.gov/books/NBK546004/) · [NICE official recommendations](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
 </details>
 
-### Q20. A woman with previous hypertensive pregnancy attends the six-to-eight-week postpartum review. Which counseling best addresses long-term health?
+### Q20. A postpartum woman misses several midday antihypertensive doses because she is caring for her newborn. Her BP is non-severe and the team is reviewing the regimen. Which principle follows NICE NG133?
 
-**Difficulty:** Difficult · **Priority:** High · **Original practice**
+**Difficulty:** Medium · **Priority:** High · **Original practice**
 
-A. Future cardiovascular screening is unnecessary
+A. Tell her to take all missed doses together
 
-B. All future pregnancies will develop severe hypertension
+B. Change every medicine to immediate-release dosing without review
 
-C. Avoid all physical activity indefinitely
+C. Keep the regimen unchanged and assume adherence will improve
 
-D. Discuss future cardiovascular risk, healthy lifestyle and preconception review before another pregnancy
+D. Consider clinically suitable once-daily medication and agree on a practical dosing plan
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: D**
 
-- **A — Incorrect:** Hypertensive pregnancy future cardiovascular disease ke higher risk se associated hai. Isliye long-term BP aur risk review useful hai.
+- **A — Incorrect:** Missed doses ko ek saath lene se drug ka effect achanak badh sakta hai aur BP bahut gir sakta hai. Nurse medicine-specific missed-dose advice aur prescriber ka plan samjhati hai.
 
-- **B — Incorrect:** Recurrence ka risk badh sakta hai par har pregnancy mein severe hypertension hona guaranteed nahi hai. Individual assessment zaroori hai.
+- **B — Incorrect:** Immediate-release medicines jaldi effect kar sakti hain aur har drug ko ek hi schedule mein convert nahi kiya ja sakta hai. Formulation badalne se pehle prescriber ko dose aur suitability check karni chahiye.
 
-- **C — Incorrect:** Long-term physical activity ko permanently avoid karna general advice nahi hai. Recovery aur medical condition ke hisaab se safe activity encourage hoti hai.
+- **C — Incorrect:** Agar current schedule follow karna mushkil hai, toh sirf same prescription repeat karne se problem solve nahi hogi. Nurse patient ki daily routine samajhkar practical changes ke liye team ke saath plan banati hai.
 
-- **D — Correct:** Follow-up par BP, lifestyle aur future pregnancy planning discuss karte hain. Isse woman risk ko samajhkar preventive care aur timely antenatal review le sakti hai.
+- **D — Correct:** NICE postpartum antihypertensive treatment mein jahan possible ho once-daily medicines prefer karta hai. Agar medicine clinically suitable hai, toh simpler schedule aur agreed reminder se woman ko prescribed treatment follow karne mein madad mil sakti hai.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [NICE NG133, recommendations 1.9.7](https://www.ncbi.nlm.nih.gov/books/NBK546004/) · [NICE official recommendations](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
