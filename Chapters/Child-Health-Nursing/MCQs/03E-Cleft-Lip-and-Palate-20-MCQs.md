@@ -4,15 +4,14 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 ### Q1. Which anatomical finding distinguishes a cleft palate from an isolated cleft lip?
 
-**Difficulty:** Easy | **Priority:** High | **Topic:** Anatomy
+**Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Anatomy | **Type:** Original
 
 - **A.** A gap restricted to the upper lip with an intact palate
 - **B.** A narrowed pyloric outlet
 - **C.** An opening in the roof of the mouth connecting oral and nasal spaces
 - **D.** An interrupted esophageal lumen
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. An opening in the roof of the mouth connecting oral and nasal spaces**
 
@@ -25,19 +24,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA cleft lip and palate](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q2. An infant with an unrepaired cleft palate makes sucking movements but transfers little milk from a conventional bottle. What explains this finding?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Inability to maintain effective negative intraoral pressure
 - **B.** Excessively strong separation of mouth and nose
 - **C.** Increased gastric acid secretion
 - **D.** Complete absence of the swallowing reflex in all affected infants
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Inability to maintain effective negative intraoral pressure**
 
@@ -50,19 +50,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q3. A newborn has an isolated cleft lip, an intact palate and effective milk transfer during observed breastfeeding. Which plan is most appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Automatically prohibit direct breastfeeding
 - **B.** Mandate tube feeding solely because a cleft is present
 - **C.** Change to concentrated formula without assessment
 - **D.** Continue breastfeeding with individualized latch support and growth monitoring
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Continue breastfeeding with individualized latch support and growth monitoring**
 
@@ -75,19 +76,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q4. A mother wants to provide breast milk but her infant with cleft palate cannot extract sufficient milk directly. What should the nurse facilitate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Discarding expressed breast milk
 - **B.** Milk expression and delivery through an assessed specialty feeding system
 - **C.** Waiting for palatal surgery before providing milk
 - **D.** Adding cereal to every bottle without a feeding prescription
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Milk expression and delivery through an assessed specialty feeding system**
 
@@ -100,19 +102,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q5. During a supervised feed for a baby with cleft palate, which position best supports controlled milk delivery?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Supported semi-upright position with neutral head alignment
 - **B.** Flat supine feeding with milk flowing freely
 - **C.** Unsupported head hanging backward
 - **D.** Prone feeding with the bottle propped
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Supported semi-upright position with neutral head alignment**
 
@@ -125,19 +128,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q6. A caregiver uses a squeezable cleft-palate feeder. The infant pauses sucking to breathe. What should the caregiver do?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Increase squeezing during the breathing pause
 - **B.** Maintain continuous pressure regardless of cues
 - **C.** Enlarge the nipple opening to deliver milk faster
 - **D.** Pause assisted milk delivery until coordinated sucking resumes
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Pause assisted milk delivery until coordinated sucking resumes**
 
@@ -150,19 +154,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q7. A little milk emerges from an infant's nostril during a cleft-palate feed. Which additional finding most strongly requires stopping the feed and urgent clinical assessment?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Brief nasal regurgitation without distress
 - **B.** Persistent coughing with cyanosis or breathing difficulty
 - **C.** A short planned burping break
 - **D.** Milk remaining in the specialty bottle
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Persistent coughing with cyanosis or breathing difficulty**
 
@@ -175,19 +180,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q8. An infant with cleft palate spends prolonged periods feeding, becomes exhausted and gains weight poorly. What is the best next nursing action?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Insist that every feed continues until the bottle is empty
 - **B.** Reduce the number of feeds without review
 - **C.** Request reassessment of feeding efficiency and the individualized nutrition plan
 - **D.** Assume growth will normalize only after surgery
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Request reassessment of feeding efficiency and the individualized nutrition plan**
 
@@ -200,19 +206,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q9. What is the purpose of a one-way valve in many specialty cleft-palate feeding bottles?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** It requires stronger vacuum than an ordinary bottle
 - **B.** It closes the palatal defect during feeding
 - **C.** It guarantees that aspiration cannot occur
 - **D.** It keeps milk available in the nipple so compression can deliver it with less suction
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. It keeps milk available in the nipple so compression can deliver it with less suction**
 
@@ -225,19 +232,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q10. Why may a baby with cleft palate need more frequent burping breaks?
 
-**Difficulty:** Easy | **Priority:** High | **Topic:** Feeding
+**Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Feeding | **Type:** Original
 
 - **A.** Air may be swallowed during inefficient suction and assisted feeding
 - **B.** Cleft palate prevents all gastric emptying
 - **C.** Burping permanently repairs the palate
 - **D.** Air swallowing proves congenital bowel obstruction
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Air may be swallowed during inefficient suction and assisted feeding**
 
@@ -250,19 +258,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota infant feeding](https://www.childrensmn.org/educationmaterials/childrensmn/article/15304/cleft-palate-infant-feeding-/); [CHOP specialty feeding](https://www.chop.edu/health-resources/feeding-your-baby-cleft-palate) (indexed source; direct fetch restricted)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q11. A child with cleft palate has recurrent middle-ear effusions. Which mechanism is most relevant?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hearing
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Hearing | **Type:** Original
 
 - **A.** Milk in the nose destroys the cochlea in every child
 - **B.** Abnormal palatal muscle function impairs Eustachian tube ventilation
 - **C.** The external auditory canal is always absent
 - **D.** The tympanic membrane cannot develop in cleft palate
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Abnormal palatal muscle function impairs Eustachian tube ventilation**
 
@@ -275,19 +284,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA audiologic care](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q12. A baby with cleft palate passes newborn hearing screening. What follow-up teaching is appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hearing
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Hearing | **Type:** Original
 
 - **A.** No further hearing assessment is necessary
 - **B.** Delay all hearing checks until school age
 - **C.** Continue scheduled audiology and middle-ear surveillance
 - **D.** Use speech delay alone to diagnose permanent deafness
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Continue scheduled audiology and middle-ear surveillance**
 
@@ -300,19 +310,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA audiologic care](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q13. Which functional goal explains the importance of palatal repair for speech?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Speech
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Speech | **Type:** Original
 
 - **A.** Establishing oral-nasal separation needed for oral pressure consonants
 - **B.** Eliminating the need for any language exposure
 - **C.** Increasing nasal air escape for every consonant
 - **D.** Guaranteeing normal articulation without follow-up
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Establishing oral-nasal separation needed for oral pressure consonants**
 
@@ -325,19 +336,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA cleft speech assessment and treatment](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q14. After cleft-palate repair, a child has persistent excessive nasal resonance during oral speech. Which referral is most appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Speech
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Speech | **Type:** Original
 
 - **A.** Immediate hearing-aid fitting without audiological assessment
 - **B.** Reassurance that hypernasality always resolves without review
 - **C.** Routine antibiotics for presumed bacterial infection
 - **D.** Cleft-team speech assessment for possible velopharyngeal dysfunction
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Cleft-team speech assessment for possible velopharyngeal dysfunction**
 
@@ -350,19 +362,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA cleft speech assessment and treatment](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q15. A child has adequate velopharyngeal closure after repair but continues to substitute glottal stops for oral consonants. Which intervention best targets this learned error?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Speech
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Speech | **Type:** Original
 
 - **A.** Repeat palatal surgery solely because the error exists
 - **B.** Antibiotics to improve consonant production
 - **C.** Individualized speech therapy for compensatory articulation
 - **D.** Stopping speech practice until adulthood
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Individualized speech therapy for compensatory articulation**
 
@@ -375,19 +388,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ASHA cleft speech assessment and treatment](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q16. Which service combination best represents longitudinal cleft care?
 
-**Difficulty:** Easy | **Priority:** High | **Topic:** Team care
+**Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Team care | **Type:** Original
 
 - **A.** Surgery alone with discharge from all follow-up
 - **B.** Surgery, feeding support, speech-language therapy, audiology and dental care
 - **C.** Dental care alone until adulthood
 - **D.** Hearing assessment only when the child requests it
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Surgery, feeding support, speech-language therapy, audiology and dental care**
 
@@ -400,19 +414,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [ACPA team composition](https://acpacares.org/team-composition/)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q17. Parents ask whether they may reuse the preoperative specialty bottle immediately after palatal repair. Which response is safest?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Postoperative
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Postoperative | **Type:** Original
 
 - **A.** Always resume the identical bottle immediately
 - **B.** Always prohibit all oral intake until complete healing
 - **C.** Follow the operating team's individualized postoperative feeding and device instructions
 - **D.** Select any rigid utensil that reaches the repair site
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Follow the operating team's individualized postoperative feeding and device instructions**
 
@@ -425,19 +440,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota cleft palate postoperative education](https://www.childrensmn.org/educationmaterials/parents/article/18406/cleft-palate/); [CHOP surgical repair](https://www.chop.edu/treatments/surgical-repair-cleft-lip-and-palate)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q18. A child recovering from palatoplasty reaches for a hard toy to put into the mouth. What is the appropriate nursing action?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Postoperative
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Postoperative | **Type:** Original
 
 - **A.** Allow chewing on the hard toy to strengthen sutures
 - **B.** Prevent oral trauma and provide an approved alternative under the surgical care plan
 - **C.** Insert a tongue depressor to inspect the repair repeatedly
 - **D.** Ask the caregiver to perform blind oral suction routinely
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Prevent oral trauma and provide an approved alternative under the surgical care plan**
 
@@ -450,19 +466,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota cleft palate postoperative education](https://www.childrensmn.org/educationmaterials/parents/article/18406/cleft-palate/); [CHOP surgical repair](https://www.chop.edu/treatments/surgical-repair-cleft-lip-and-palate)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q19. A child develops heavy fresh oral bleeding and new respiratory distress following cleft-palate repair. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Postoperative
+**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Postoperative | **Type:** Original
 
 - **A.** Activate emergency response for airway and bleeding assessment
 - **B.** Continue routine scheduled oral feeding
 - **C.** Wait until the next outpatient appointment
 - **D.** Give a hard oral object to compress the wound
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Activate emergency response for airway and bleeding assessment**
 
@@ -475,19 +492,20 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 
 **Reference:** [Children’s Minnesota cleft palate postoperative education](https://www.childrensmn.org/educationmaterials/parents/article/18406/cleft-palate/); [CHOP surgical repair](https://www.chop.edu/treatments/surgical-repair-cleft-lip-and-palate)
 
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
+
 </details>
 
 ### Q20. A school-aged child with repaired cleft lip and palate has missing or malpositioned teeth near the alveolar cleft. Which ongoing care is most relevant?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Dental follow-up
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Cleft lip and palate — Dental follow-up | **Type:** Original
 
 - **A.** No dental assessment because soft-tissue repair is complete
 - **B.** Routine extraction of all permanent teeth without assessment
 - **C.** Speech therapy alone as the treatment for tooth alignment
 - **D.** Coordinated pediatric dental and orthodontic review within the cleft team
 
-<details>
-<summary>Show answer and rationale</summary>
+<details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Coordinated pediatric dental and orthodontic review within the cleft team**
 
@@ -499,6 +517,8 @@ Draft candidate. Independent clinical/semantic review pending. Institution-speci
 **Exam clue:** Dental and orthodontic care continue after surgical repair.
 
 **Reference:** [ACPA parameters of care](https://acpacares.org/parameters-of-care/); [ASHA cleft care](https://www.asha.org/practice-portal/clinical-topics/cleft-lip-and-palate/)
+
+**MCQ-practice evidence:** [PW NORCET 10 Mains Marathon Part 1](https://www.youtube.com/watch?v=5hK10sc7bTc&t=7463s), indexed chapter 02:04:23; topic-level lead only, exact item/playback pending.
 
 </details>
 
