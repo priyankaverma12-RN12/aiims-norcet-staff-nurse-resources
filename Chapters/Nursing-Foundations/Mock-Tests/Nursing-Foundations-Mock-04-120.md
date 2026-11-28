@@ -19,9 +19,17 @@
 
 **Correct: A. Ask about the actual product without judgment and arrange interaction review**
 
-Herbal products medicines ke effect ya bleeding risk change kar sakte hain. Respectful assessment aur pharmacist-clinician review safe plan mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Concealment aur harmless assumption unsafe hain. Prescribed treatment independently stop nahi karna chahiye.
+**A kyun sahi hai:** Nurse bina judgment ke herbal product ka naam, ingredients, dose aur timing poochti hai aur exact anticoagulant verify karti hai. Kuch combinations bleeding risk badha sakte hain ya drug effect badal sakte hain. Nurse pharmacist aur prescriber se interaction review karwati hai aur bleeding symptoms ko promptly escalate karti hai.
+
+**B kyun galat hai:** Natural product ka label harmless hone ki guarantee nahi hai. Kuch supplements drug effect badal sakte hain, lekin actual risk particular product aur medicine par depend karta hai.
+
+**C kyun galat hai:** Herbal product ki information team se chhupane se medication history incomplete ho jaati hai. Isse possible interaction ya bleeding risk miss ho sakta hai.
+
+**D kyun galat hai:** Prescribed anticoagulant independently band karne se clot banne ka risk badh sakta hai. Nurse urgent concerns prescriber ko batati hai aur authorized orders ya safety protocol ke mutabik action leti hai.
+
+**Exam clue:** Herbal products bhi medication history ka hissa hain, aur interaction product-specific assess karna chahiye.
 
 </details>
 
@@ -104,9 +112,17 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 
 **Correct: A. Weight-bearing ability, balance, cognition and required assistance**
 
-Safe transfer patient ke actual strength, balance aur instructions follow karne ki ability par depend karta hai. Nurse device aur assistance level assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Height, diagnosis aur shoe color alone functional transfer safety establish nahi karte.
+**A kyun sahi hai:** Nurse check karti hai ki patient leg par kitna weight safely bear kar sakta hai, balance maintain kar sakta hai aur instructions samajh sakta hai ya nahi. Assessment aur restrictions se suitable transfer device aur staff assistance decide hoti hai.
+
+**B kyun galat hai:** Height equipment size choose karne mein kabhi relevant hai, lekin isse transfer ability akeli establish nahi hoti.
+
+**C kyun galat hai:** Diagnosis background batata hai, lekin same diagnosis wale patients ki functional ability alag ho sakti hai. Actual assessment chahiye.
+
+**D kyun galat hai:** Shoe colour transfer safety ka indicator nahi hai. Footwear ka fit aur slip resistance relevant ho sakte hain.
+
+**Exam clue:** Safe transfer ka decision actual function aur prescribed weight-bearing status par lo.
 
 </details>
 
@@ -156,9 +172,17 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 
 **Correct: D. Stop routine preparation and verify MRI safety status with the imaging team**
 
-MRI magnetic field certain devices ke function ya safety affect kar sakti hai. Device type aur conditions qualified imaging team verify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal compatibility assume nahi karni chahiye. Implant removal aur concealment unsafe hain.
+**A kyun galat hai:** Implant ki information chhupane se imaging team heating, device movement ya malfunction ka risk properly assess nahi kar paayegi.
+
+**B kyun galat hai:** Implant ko bedside par independently remove karna invasive aur unsafe ho sakta hai. Device management authorized specialist ka kaam hai.
+
+**C kyun galat hai:** Har modern implant MRI compatible nahi hota. Device-specific safety status aur scan conditions verify kiye bina proceed karna unsafe hai.
+
+**D kyun sahi hai:** MRI strong magnetic aur radiofrequency fields use karta hai. Unknown implant ko safe assume nahi karte. Nurse preparation rok kar device record ya implant card obtain karne mein madad karti hai aur imaging safety team se MR Safe ya MR Conditional status aur required conditions confirm karwati hai.
+
+**Exam clue:** Unknown implant status mein MRI routine preparation rok kar specialist verification lo.
 
 </details>
 
@@ -423,9 +447,17 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 
 **Correct: C. The device can create pressure, friction and moisture-related skin injury**
 
-Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin checks early redness ya damage identify karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Device pressure injury completely prevent nahi karti. Damage intact device ke neeche bhi possible hai.
+**A kyun galat hai:** Skin device ke neeche pressure aur moisture ke contact mein reh sakti hai. Device covered hone se damage impossible nahi hota.
+
+**B kyun galat hai:** Splint alignment maintain karne mein help kar sakta hai, lekin har pressure injury prevent nahi karta. Fit aur skin assessment important hain.
+
+**C kyun sahi hai:** Orthosis ya splint body part ko support karta hai, lekin contact areas mein pressure, friction ya moisture se injury ho sakti hai. Nurse prescribed wearing aur skin-check schedule follow karti hai aur persistent redness, pain ya damage report karti hai.
+
+**D kyun galat hai:** Device intact ho tab bhi pressure aur rubbing ho sakti hai. Inspection ko device tootne tak delay nahi karna chahiye.
+
+**Exam clue:** Support device ke contact areas bhi pressure injury risk mein aate hain.
 
 </details>
 
@@ -1057,9 +1089,17 @@ Suction catheter artificial airway ke andar space occupy karti hai. Agar cathete
 
 **Correct: D. Assess promptly for new causes and seek appropriate review consistent with care goals**
 
-Palliative care mein new pain ko bhi assess karna important hai. Cause aur patient goals ke according treatment adjust ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Pain ignore aur unapproved repeat doses harmful hain. Documentation care continuity support karti hai.
+**A kyun galat hai:** Previous doses bina timing, prescription aur response check kiye repeat karne se adverse effects ya overdose ho sakta hai. Nurse authorized medicine plan follow karti hai.
+
+**B kyun galat hai:** Documentation se next nurse aur team ko symptoms, intervention aur response pata chalta hai. Palliative status documentation ki responsibility khatam nahi karta.
+
+**C kyun galat hai:** Pain ko inevitable kehkar ignore karne se avoidable suffering aur new complication miss ho sakti hai. Palliation mein bhi assessment zaroori hai.
+
+**D kyun sahi hai:** New severe pain ko purane pain ka hissa maan lena unsafe hai. Nurse onset, site, severity, associated symptoms aur prior treatment response assess karti hai. Agreed goals ke hisaab se prompt clinical review arrange karke symptom relief aur new cause dono consider karti hai.
+
+**Exam clue:** New severe symptom ko promptly assess karo aur care goals ke according review lo.
 
 </details>
 
@@ -1223,9 +1263,17 @@ Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, 
 
 **Correct: D. Initiate urgent hypoglycemia protocol using an appropriate nonoral treatment route**
 
-Brain ko glucose continuously chahiye. Unsafe swallow mein oral treatment aspiration cause kar sakti hai. Nurse emergency protocol aur nonoral therapy as indicated use karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Juice unsafe ho sakta hai. Insulin glucose aur reduce karegi. Family ka wait treatment delay karta hai.
+**A kyun galat hai:** Family ko inform karna useful ho sakta hai, lekin severe hypoglycemia mein brain ko glucose ki kami se immediate harm ho sakta hai. Treatment delay nahi karna chahiye.
+
+**B kyun galat hai:** Rapid-acting insulin blood glucose aur kam karegi. Active hypoglycemia mein scheduled dose dene se pehle urgent treatment aur authorized medicine review chahiye.
+
+**C kyun galat hai:** Sweet juice alert patient ke liye useful ho sakta hai jo safely swallow kar sake. Yahan swallowing unsafe hai, isliye oral route appropriate nahi hai.
+
+**D kyun sahi hai:** Confused patient jo safely swallow nahi kar sakta, usko oral sugar dena aspiration risk badhata hai. Nurse urgent hypoglycemia protocol activate karti hai, appropriate route jaise IV glucose ya glucagon available access aur protocol ke according use karti hai, aur glucose aur consciousness dobara assess karti hai.
+
+**Exam clue:** Hypoglycemia mein oral treatment tabhi do jab patient safely swallow kar sake.
 
 </details>
 
@@ -1308,9 +1356,17 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 **Correct: A. A suitable fingerstick or approved alternate site using a single-use lancet and meter protocol**
 
-Capillary glucose testing small blood sample use karti hai. Hand hygiene, device cleaning aur single-use lancet infection control support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Shared lancet bloodborne exposure risk hai. Urine aur BP cuff direct blood glucose measure nahi karte.
+**A kyun sahi hai:** Capillary glucose test mein chhota blood sample meter aur compatible strip par test hota hai. Nurse hand hygiene, approved sampling site, single-use auto-disabling fingerstick device aur meter protocol follow karti hai. Shared meter ho toh approved cleaning aur disinfection bhi zaroori hai.
+
+**B kyun galat hai:** Urine glucose blood glucose ka direct current measurement nahi hai. Blood glucose aur renal threshold ke hisaab se urine result alag ho sakta hai.
+
+**C kyun galat hai:** Blood pressure cuff arterial pressure estimate karta hai. Ismein glucose measure karne ke liye blood sample ya glucose sensor nahi hota.
+
+**D kyun galat hai:** Used lancet share karne se bloodborne infection transmit ho sakta hai. Assisted testing mein single-use device ko reuse nahi karna chahiye.
+
+**Exam clue:** Assisted fingerstick glucose testing mein single-use device aur meter infection control zaroori hain.
 
 </details>
 
@@ -1394,9 +1450,17 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 **Correct: D. Explore the preference and coordinate a clinically suitable meal plan**
 
-Culturally safe care patient ki own preferences poochti hai. Dietitian aur team ke saath medical needs aur beliefs accommodate karne ki koshish ki ja sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Automatic rejection aur stereotypes individualized care reduce karte hain. Secret substitution trust violate karti hai.
+**A kyun galat hai:** Prohibited food secretly substitute karna patient ki informed preference aur trust violate karta hai. Clinical concern ho toh nurse openly discuss karti hai.
+
+**B kyun galat hai:** Religion ke basis par sab patients ki identical requirements assume karna stereotyping hai. Individualized care mein nurse patient se uski own needs poochti hai.
+
+**C kyun galat hai:** Assessment ke bina request reject karne se unnecessary distress ho sakta hai. Nurse pehle accommodation ki clinical suitability aur feasibility check karti hai.
+
+**D kyun sahi hai:** Nurse patient ki actual dietary preference poochti hai, kyunki ek hi religion ke sabhi log same practices follow nahi karte. Agar preference treatment ke saath compatible hai, toh nurse dietitian aur team ke saath suitable meal arrange karti hai. Safety concern ho toh alternatives discuss kiye jaate hain.
+
+**Exam clue:** Culture ke baare mein assumptions banane ke bajay patient se respectfully poochho aur safe options milkar decide karo.
 
 </details>
 
@@ -1617,9 +1681,17 @@ Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein st
 
 **Correct: C. Notify the imaging team and verify the risk-management plan before contrast administration**
 
-Previous severe reaction future exposure ke liye important risk factor ho sakti hai. Imaging team alternative study ya precaution plan decide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Fasting aur water reaction risk eliminate nahi karte. Allergy history preserve karni chahiye.
+**A kyun galat hai:** Hydration kuch situations mein useful ho sakti hai, lekin severe allergic-like contrast reaction prevent karne ki guarantee nahi hai.
+
+**B kyun galat hai:** Fasting se allergic-like contrast reaction ka risk eliminate nahi hota. Patient fasting ho tab bhi severe reaction history review karna chahiye.
+
+**C kyun sahi hai:** Previous severe iodinated contrast reaction repeat exposure ke liye important warning hai. Nurse exact reaction history document karti hai aur contrast dene se pehle radiology team ko notify karti hai. Authorized team alternative imaging, precautions ya emergency readiness ka plan decide karti hai.
+
+**D kyun galat hai:** Previous reaction ka record delete karne se important safety information lose ho jaati hai. Accurate reaction history imaging team ko risk plan banane mein help karti hai.
+
+**Exam clue:** Previous severe contrast reaction mein administration se pehle documented risk-management plan verify karo.
 
 </details>
 
@@ -2303,9 +2375,17 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 **Correct: B. Assess symptoms and vital status, provide rest and adapt the session**
 
-Fatigue normal exertion ya clinical deterioration se related ho sakti hai. Nurse symptoms assess karke safe intensity aur rest plan adjust karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Forced completion aur increased intensity risk badhate hain. False documentation inappropriate hai.
+**A kyun galat hai:** Exhausted patient mein intensity immediately badhana bina assessment unsafe hai. Pehle cause aur tolerance samajhna zaroori hai.
+
+**B kyun sahi hai:** Exhaustion expected exertion ya new deterioration ka sign ho sakti hai. Nurse session pause karke symptoms, breathing, pulse aur BP jaise findings assess karti hai. Rest deti hai aur red flags par urgent help leti hai. Further activity tolerance aur team plan ke according adjust hoti hai.
+
+**C kyun galat hai:** Agar patient session complete nahi kar paaya toh completed record karna inaccurate hai. Actual activity aur symptoms document karne chahiye.
+
+**D kyun galat hai:** Without rest session force karne se fatigue aur deterioration badh sakti hai. Safety target duration se zyada important hai.
+
+**Exam clue:** New exhaustion par pause, assessment aur individualized progression karo.
 
 </details>
 
@@ -2561,9 +2641,17 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 **Correct: D. Reassess, verify current orders, and clarify who will follow up the pending result**
 
-Procedure ke baad clinical needs change ho sakti hain. Reassessment, order reconciliation aur explicit result ownership continuity protect karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Old plan outdated ho sakta hai. Unknown result ko normal likhna false hai. Poor handover delay cause kar sakta hai.
+**A kyun galat hai:** Responsibility transfer karte samay new oxygen need aur pending urgent test clearly communicate karna zaroori hai. Silent transfer se team ko risk ka pata nahi chalega.
+
+**B kyun galat hai:** Pending test ka result abhi unknown hai. Normal document karne se false reassurance milti hai aur abnormal result follow-up miss ho sakta hai.
+
+**C kyun galat hai:** Preprocedure care plan current deterioration aur new oxygen requirement address nahi kar sakta. Reassessment ke according plan update karna zaroori hai.
+
+**D kyun sahi hai:** Procedure ke baad patient ki condition pehle jaisi nahi ho sakti. Nurse airway, breathing, oxygen saturation aur current vital status reassess karti hai, new oxygen need ko appropriately escalate karti hai aur current orders verify karti hai. Pending urgent lab result ka follow-up kaun karega, yeh explicit handover mein confirm karti hai.
+
+**Exam clue:** Postprocedure change mein reassessment ke saath pending-result ownership clear rakho.
 
 </details>
 
@@ -2862,9 +2950,17 @@ Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi
 
 **Correct: D. Ability to access, understand and use relevant health information**
 
-Health literacy practical health decisions aur services navigate karne se related hai. Nurse accessible information provide karke barriers reduce kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Medical vocabulary aur schooling alone health literacy determine nahi karte. Hospital name reading limited task hai.
+**A kyun galat hai:** Schooling ka level health literacy ka perfect measure nahi hai. Highly educated patient ko bhi unfamiliar medicine ya complex medical instructions samajhne mein difficulty ho sakti hai.
+
+**B kyun galat hai:** Hospital ka naam padh lena limited reading task hai. Isse medicine instructions samajhna ya healthcare decisions lena confirm nahi hota.
+
+**C kyun galat hai:** Medical terminology recite karna practical understanding ka proof nahi hai. Patient ko ghar par kya karna hai aur kab help leni hai, yeh samajhna zyada important hai.
+
+**D kyun sahi hai:** Health literacy ka matlab hai relevant health information aur services tak pahunchna, unhe samajhna aur apne decisions mein use karna. Nurse simple words, suitable pictures aur teach-back se understanding support karti hai.
+
+**Exam clue:** Health literacy ko sirf reading ya schooling se mat jodo, kyunki goal information ko practical decisions mein use karna hai.
 
 </details>
 
@@ -2914,9 +3010,17 @@ Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyn
 
 **Correct: A. Provide respectful care of the body and follow identification, cultural and facility procedures**
 
-After-death care mein dignity, correct identity aur family-cultural needs maintain karni hoti hain. Facility aur legal requirements follow karna essential hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Identification removal aur belongings disposal errors cause kar sakte hain. Preferences appropriate limits mein respect honi chahiye.
+**A kyun sahi hai:** Required death verification aur instructions complete hone ke baad nurse body ko dignity se handle karti hai. Correct identification, infection precautions, belongings documentation aur cultural preferences ko facility policy ke according manage karti hai.
+
+**B kyun galat hai:** Family ki cultural ya religious preferences feasible aur lawful hon toh respect karni chahiye. Unsafe ya prohibited request ko nurse respectfully explain karti hai.
+
+**C kyun galat hai:** Belongings family ke liye important ho sakte hain. Unko record, secure aur policy ke hisaab se handover karna chahiye.
+
+**D kyun galat hai:** Identification tags bina authorization hatane se body ki identity confirm karna mushkil ho sakta hai. Nurse facility ki identification procedure follow karti hai.
+
+**Exam clue:** After-death care mein dignity, correct identification aur legal procedure zaroori hain.
 
 </details>
 
@@ -2966,9 +3070,17 @@ Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly wa
 
 **Correct: B. Relieve pressure, document the assessment and revise the individualized prevention plan**
 
-Intact nonblanchable change early pressure injury indicate kar sakti hai. Offloading aur prevention review further damage reduce karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage tissue damage kar sakti hai. Open wound ka wait aur continued pressure unsafe hain.
+**A kyun galat hai:** Nonblanchable discoloration mein tissue pressure se already injured ho sakta hai. Vigorous massage se fragile tissue par additional damage ho sakta hai.
+
+**B kyun sahi hai:** Nurse sacral area par pressure relieve karti hai aur skin colour, warmth, firmness, pain aur moisture assess karti hai. Intact nonblanchable change early pressure injury ya deeper damage ka clue ho sakta hai, isliye correct classification assessment se hoti hai. Repositioning, support surface aur skin prevention plan individualize karke findings document karti hai.
+
+**C kyun galat hai:** Affected area par continued pressure tissue perfusion aur kam kar sakta hai. Tolerance test ke liye pressure maintain karna unsafe hai.
+
+**D kyun galat hai:** Pressure injury intact skin ke saath bhi start ho sakti hai. Open ulcer ka wait karne se prevention ka valuable mauka chhoot jaata hai.
+
+**Exam clue:** Nonblanchable skin change ko pressure relief ka early warning samjho, skin tootne ka wait mat karo.
 
 </details>
 
@@ -3091,9 +3203,17 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 **Correct: B. Assess the patient, repeat or confirm testing according to protocol and treat urgent symptoms appropriately**
 
-Meter readings technique, perfusion aur strip issues se affect ho sakti hain. Symptoms ke saath repeat-confirmation aur urgent protocol-based management important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Meter infallible nahi hai. Expired strips unreliable ho sakti hain. Delay harmful ho sakti hai.
+**A kyun galat hai:** Next round tak wait karna unsafe ho sakta hai, kyunki symptomatic glucose abnormality rapidly deteriorate kar sakti hai. Prompt assessment aur authorized treatment zaroori hai.
+
+**B kyun sahi hai:** Bedside meter result poor perfusion, sampling technique ya strip problem se affect ho sakta hai. Nurse patient ke symptoms aur immediate safety assess karti hai, protocol ke according fresh valid sample ya laboratory confirmation arrange karti hai aur urgent suspected hypoglycemia ka treatment unnecessary delay nahi karti.
+
+**C kyun galat hai:** Expired strip se result unreliable ho sakta hai. Repeat testing ke liye valid compatible strip aur correct technique chahiye.
+
+**D kyun galat hai:** Meter infallible nahi hai. Symptoms ignore karne se severe hypoglycemia ya doosri emergency miss ho sakti hai.
+
+**Exam clue:** Symptoms aur meter mismatch mein patient ko assess karo, reading confirm karo aur urgent care delay mat karo.
 
 </details>
 
@@ -3241,9 +3361,17 @@ NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips a
 
 **Correct: D. Explain that appetite and swallowing may decline and discuss comfort-focused feeding and safety**
 
-Advanced illness mein appetite aur swallowing ability change ho sakti hain. Nurse patient goals aur aspiration risk ke hisaab se food-fluid options discuss karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Forced feeding discomfort aur aspiration badha sakti hai. Recovery guarantee nahi ki ja sakti. Comfort care continue honi chahiye.
+**A kyun galat hai:** Nurse appetite return hone ka exact time guarantee nahi kar sakti. Patient ki condition aur goals ke according realistic explanation deti hai.
+
+**B kyun galat hai:** Oral comfort automatically stop karna zaroori nahi hai. Safe mouth care aur preferred sips assessment ke hisaab se continue ho sakte hain.
+
+**C kyun galat hai:** Force feeding se discomfort, choking ya aspiration ho sakti hai. Purana calorie target har situation mein appropriate nahi hota.
+
+**D kyun sahi hai:** Dying phase mein appetite aur swallowing ability change ho sakti hain. Nurse family ko simple words mein samjhati hai ki goal comfort ho sakta hai. Patient ki wish, alertness aur aspiration risk dekhkar suitable feeding ya mouth care discuss karti hai.
+
+**Exam clue:** End-of-life feeding mein comfort, consent aur swallowing safety priority hain.
 
 </details>
 
@@ -3410,9 +3538,17 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 
 **Correct: B. Distal pulses, capillary refill, sensation and movement**
 
-Distal pallor aur tingling perfusion ya nerve compromise suggest kar sakte hain. Neurovascular assessment urgent corrective action guide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Temperature alone, medicine list aur brand distal circulation assess nahi karte.
+**A kyun galat hai:** Temperature measurement overall condition mein useful hai, lekin sirf body temperature se limb ka neurovascular status nahi pata chalta.
+
+**B kyun sahi hai:** Bandage ke distal side par pallor aur tingling blood flow ya nerve compression ke signs ho sakte hain. Nurse pulses, capillary refill, skin colour aur temperature, sensation, movement aur pain turant check karti hai. Harmful pressure ko protocol ke according relieve karke urgent clinical review leti hai, kyunki pulses present hone par bhi serious compartment problem possible hai.
+
+**C kyun galat hai:** Medication list bleeding risk ya disease context samajhne mein useful ho sakti hai. Lekin acute distal circulation aur sensation assessment ko replace nahi karti.
+
+**D kyun galat hai:** Bandage brand product information batata hai, lekin tissue perfusion ya nerve compression establish nahi karta. Actual limb assessment chahiye.
+
+**Exam clue:** New pallor, pain ya tingling distal to bandage mein neurovascular assessment aur pressure relief ko priority do.
 
 </details>
 
@@ -3548,9 +3684,17 @@ Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. 
 
 **Correct: D. Barthel Index**
 
-Barthel Index daily activities aur mobility mein assistance level assess karne mein help karta hai. Rehabilitation progress track ki ja sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Apgar newborn, Bishop cervix aur GCS consciousness assess karta hai.
+**A kyun galat hai:** Apgar newborn ki birth ke baad initial condition assess karta hai. Adult daily living independence ke liye yeh scale nahi hai.
+
+**B kyun galat hai:** Glasgow Coma Scale eye, verbal aur motor responses se consciousness assess karta hai. Yeh feeding, bathing aur toileting ka complete functional scale nahi hai.
+
+**C kyun galat hai:** Bishop score cervix ki readiness for labour induction assess karta hai. Iska rehabilitation independence se sambandh nahi hai.
+
+**D kyun sahi hai:** Barthel Index daily living activities jaise feeding, bathing, toilet use aur transfers mein patient ki independence ya assistance ki need assess karta hai. Same scoring version se serial assessment rehabilitation progress compare karne mein help karta hai.
+
+**Exam clue:** Barthel Index ko ADL aur mobility independence se yaad rakho.
 
 </details>
 
@@ -3642,9 +3786,17 @@ Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wa
 
 **Correct: A. Discuss the preference respectfully and accommodate when feasible while explaining urgent safety needs**
 
-Intimate care mein privacy aur comfort important hain. Nurse feasible accommodation arrange karti hai aur urgent situation mein safety needs explain karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Mocking aur dismissal disrespectful hain. Emergency care inappropriate delay nahi honi chahiye.
+**A kyun sahi hai:** Intimate hygiene mein privacy aur dignity important hain. Nurse same-gender caregiver ki preference discuss karti hai aur feasible ho toh accommodation arrange karti hai. Urgent safety need mein patient ko reason aur options samjhakar applicable consent aur emergency policy follow karti hai.
+
+**B kyun galat hai:** Routine staff preference arrange karne ke liye urgent lifesaving assessment ya care ko unnecessarily delay karna unsafe ho sakta hai. Nurse feasible privacy measures aur consent safeguards ke saath safety needs address karti hai.
+
+**C kyun galat hai:** Request ka mazaak banane se patient humiliated feel kar sakta hai aur necessary care se bachne lag sakta hai. Nurse respectful professional behavior maintain karti hai.
+
+**D kyun galat hai:** Preference ko irrelevant maan lena patient-centered care nahi hai. Nurse individual ke cultural, personal ya trauma-related concerns ko bina assumption ke explore kar sakti hai.
+
+**Exam clue:** Routine intimate care mein dignity aur choice protect karo, aur emergency mein appropriate consent rules ke saath unnecessary delay se bacho.
 
 </details>
 
@@ -3835,9 +3987,17 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 **Correct: B. Discuss future care values and preferences before decisions become difficult**
 
-Advance care planning future decisions mein patient ke values guide karne mein help karti hai. Plan clinical situation aur applicable law ke according review ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal plan aur automatic withdrawal iska purpose nahi hai. Current capacity still assess hoti hai.
+**A kyun galat hai:** Har patient ke beliefs, illness aur priorities alag hain. Ek identical plan sab par apply nahi hota.
+
+**B kyun sahi hai:** Advance care planning mein patient pehle discuss kar sakta hai ki future mein illness badhne par kaunsi care aur values uske liye important hongi. Nurse discussion aur documentation support karti hai. Plan present wishes, clinical condition aur applicable law ke according review hota hai.
+
+**C kyun galat hai:** Advance plan hone par bhi jab patient current decision le sakta hai, toh uski present choice aur capacity relevant hoti hai. Purana plan assessment replace nahi karta.
+
+**D kyun galat hai:** Advance care planning ka matlab treatment turant withdraw karna nahi hai. Yeh future decisions ke liye patient ke goals samajhne ka process hai.
+
+**Exam clue:** Advance care planning future preferences ka discussion hai, automatic withdrawal nahi.
 
 </details>
 
