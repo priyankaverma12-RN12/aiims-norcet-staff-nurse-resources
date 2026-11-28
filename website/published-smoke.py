@@ -252,6 +252,11 @@ with sync_playwright() as p:
         expect(page.locator(".completion-chapter").first).not_to_have_attribute("open","")
         expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource input:checked").first).to_be_visible(timeout=30000)
+        if width<=600:
+            expect(page.locator("#progress-filter-toggle")).to_have_attribute("aria-expanded","false")
+            expect(page.locator("#progress-filter-panel")).to_be_hidden()
+            page.locator("#progress-filter-toggle").click()
+            expect(page.locator("#progress-filter")).to_be_visible()
         page.locator("#progress-filter").select_option("done")
         expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource")).to_have_count(1)
