@@ -410,12 +410,12 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 ### Q15. Two children with croup have remained well during the minimum post-adrenaline observation. One lives several hours from urgent medical care. Which factor may justify a longer observation period?
 
-**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Acute viral croup | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Acute viral croup | **Type:** Original
 
 - **A.** Limited access to emergency reassessment if stridor recurs
-- **B.** The child's preference for a particular toy
-- **C.** A resolved runny nose
-- **D.** The brand of the pulse oximeter
+- **B.** A first uncomplicated episode in an otherwise healthy preschool child
+- **C.** Reliable caregivers with immediate access to emergency reassessment
+- **D.** Sustained absence of stridor at rest throughout observation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
@@ -423,11 +423,11 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 - **A.** Limited emergency access discharge safety ko affect karta hai. Agar symptoms recur hon aur family quickly return na kar sake, longer observation ya admission consider kiya ja sakta hai.
 
-- **B.** Toy preference comfort care ke liye relevant ho sakti hai but recurrence risk management ka primary factor nahi hai.
+- **B.** First uncomplicated episode aur no additional risk factors alone prolonged observation ka specific indication nahi hain. Clinical course aur access to care assess karna zaroori hai.
 
-- **C.** Resolved coryza alone discharge safety decide nahi karti. Airway stability aur access to care important hain.
+- **C.** Reliable caregivers aur prompt emergency access safe discharge planning ko support karte hain, provided clinical criteria bhi meet hon. Yeh limited access ke opposite situation hai.
 
-- **D.** Reliable equipment readings helpful hain, but brand alone longer observation indication nahi hai.
+- **D.** Observation ke dauran stridor at rest absent rehna reassuring criterion hai. Is finding alone se longer observation ki requirement establish nahi hoti; other risk factors assess karo.
 
 **Exam clue:** Discharge planning includes the ability to return promptly.
 
