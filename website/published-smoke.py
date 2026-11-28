@@ -528,7 +528,9 @@ with sync_playwright() as p:
         # Cross-tab completion and saved question practice with real source.
         page.get_by_role("button",name="Quick 5-question practice").click()
         expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 5")
-        stem=page.locator(".question-stem").first.inner_text()
+        stem=page.locator(".question-stem").first.text_content()
+        bookmark_stem=page.locator("button[data-bookmark-stem]").first.get_attribute("data-bookmark-stem")
+        assert bookmark_stem
         page.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","true")
         other=ctx.new_page()
@@ -537,6 +539,7 @@ with sync_playwright() as p:
         other.locator("#marks .saved-practice-link").first.click()
         expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
         expect(other.locator(".question-stem").first).to_have_text(stem)
+        expect(other.locator("button[data-bookmark-stem]").first).to_have_attribute("data-bookmark-stem",bookmark_stem)
         expect(other.get_by_role("button",name="Check answer")).to_be_disabled()
         other.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","false")
