@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-pr48-residual-register-20261128-090846Z
+Scope: PR48 isolated residual historical-register and concept-marker evidence only, no live clinical or navigation changes.
+Claimed UTC: 2026-11-28T09:08:46Z
+Expiry UTC: 2026-11-28T09:38:46Z
 
 ## Latest numbered-bank and direct-source checkpoint — 28 November 2026
 
