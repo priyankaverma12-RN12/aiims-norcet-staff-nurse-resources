@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: hepatobiliary-b14-balance-20261128T163200Z
+Scope: PR60 isolated deficit supplements 29A–33A only; no existing banks, other claims or navigation edits.
+Claimed UTC: 2026-11-28T16:32:00Z
+Expiry UTC: 2026-11-28T17:02:00Z
 
 ## Released checkpoint — 28 November 2026
 
