@@ -1,10 +1,10 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: mental-health-manual-20261128-0430Z
+Scope: Chapters/Mental-Health-Nursing Group 02A psychiatric history and psychosocial assessment new files, chapter-local checkpoint. PR7/8 existing navigation overlap excluded from edits until reconciled.
+Claimed UTC: 2026-11-28T04:30:00Z
+Expiry UTC: 2026-11-28T05:00:00Z
 
 ## Verified chapter-local checkpoint — 2026-11-28
 
