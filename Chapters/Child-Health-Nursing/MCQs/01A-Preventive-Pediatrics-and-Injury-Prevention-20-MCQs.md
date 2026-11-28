@@ -6,7 +6,7 @@
 
 ### Q1. A family stores kerosene in a previously used drinking-water bottle. Which change should the nurse prioritize during a home safety visit?
 
-**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Childhood injury prevention | **Type:** Original
+**Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Childhood injury prevention | **Type:** Original
 
 - **A.** Transfer it to an appropriate clearly labeled fuel container and store it locked away from children
 - **B.** Write a small label on the drinking bottle but leave it within reach
@@ -17,10 +17,12 @@
 
 **Correct: A. Transfer it to an appropriate clearly labeled fuel container and store it locked away from children**
 
-- **A.** Drink bottle se child fuel ko paani samajh sakta hai. Appropriate labeled container aur locked storage accidental ingestion ka risk reduce karte hain.
-- **B.** Label toddler ko reliably danger nahi samjhata, aur reachable bottle abhi bhi hazard hai.
-- **C.** Fuel mein kuch mix karna unsafe hai aur original storage hazard solve nahi karta.
-- **D.** Toddler warning ko har baar follow nahi kar sakta. Physical access control chahiye.
+- **A.** Dekho, toddler aksar bottle ko uske shape se pehchanta hai. Jab kerosene paani ki bottle mein hota hai, toh bachcha use galti se pee sakta hai. Kerosene lungs mein chala jaaye toh chemical pneumonitis, yani lung tissue mein chemical irritation aur inflammation, ho sakti hai. Isliye fuel ko appropriate clearly labelled container mein rakhna aur lock karna dono important hain.
+- **B.** Chhota label adult ko fuel identify karne mein help kar sakta hai, lekin toddler padh kar danger nahi samajh sakta. Bottle uski reach mein rehne se woh use khol sakta hai aur muh tak le ja sakta hai. Sirf label badalna access ka risk kam nahi karta.
+- **C.** Fuel ka color badalne se uski harmful property khatam nahi hoti. Bachcha colored liquid ko juice samajh sakta hai aur fuel mein kuch milana naya safety risk bhi create karta hai. Nurse ko safe labelled storage samjhani chahiye, fuel modify nahi karna chahiye.
+- **D.** Toddler ki curiosity aur impulse control abhi develop ho rahe hote hain. Woh warning yaad rakhne ke bawajood attractive bottle utha sakta hai. Jab adult physical barrier jaise locked cupboard use karta hai, tab bachcha hazardous substance tak pahunch nahi pata.
+
+**Exam clue:** Jab toddler aur hazardous household liquid ka scenario mile, toh labelled locked storage ko sirf warning se zyada reliable samjho.
 
 **Reference:** [NHM child safety guidance](https://www.nhm.gov.in/New-Update-2022-24/CH-Programmes/HBNC-%26-HBYC-Resource-%20Material/HBNC_%26_HBYC_Jobaid_for_ASHA.pdf)
 
@@ -30,7 +32,7 @@
 
 ### Q2. During cooking, a toddler frequently pulls on a tablecloth that extends over the edge of a table holding hot tea. Which immediate modification most directly prevents a scald?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Childhood injury prevention | **Type:** Original
+**Difficulty:** Easy | **Priority:** 🔴 High | **Topic:** Childhood injury prevention | **Type:** Original
 
 - **A.** Teach the child to pull the cloth slowly
 - **B.** Replace the tea cup with a larger open vessel at the same edge
@@ -41,10 +43,12 @@
 
 **Correct: D. Remove the dangling cloth and place hot liquids well away from reachable edges**
 
-- **A.** Slow pulling bhi vessel gira sakti hai. Toddler ko warning par depend karna safe nahi.
-- **B.** Larger open vessel mein hot liquid aur zyada spill ho sakta hai.
-- **C.** Picture toddler ko reliably stop nahi karegi. Hazard physically door karna better hai.
-- **D.** Cloth kheenchne se hot liquid directly child par gir sakta hai. Reach aur pulling mechanism remove karne se scald risk kam hota hai.
+- **A.** Cloth ko dheere kheenchne par bhi cup edge se slide ya tip ho sakta hai. Toddler har baar apni movement ka force control nahi kar pata. Isliye pullable cloth ko remove karna aur hot liquid ko reach se door rakhna zyada reliable prevention hai.
+- **B.** Bada khula bartan table ke same edge par rehne se bachcha ab bhi usse gira sakta hai. Usmein zyada garam liquid ho toh spill hone par skin ka bada area affect ho sakta hai. Sirf container size change karne se pulling mechanism khatam nahi hota.
+- **C.** Warning picture bade bachche ko safety rule yaad dilane mein useful ho sakti hai. Lekin toddler symbol ka meaning aur injury ka consequence consistently samajh nahi pata. Is case mein nurse ko warning ke saath actual hot liquid aur dangling cloth ka access bhi remove karna chahiye.
+- **D.** Scald ka matlab garam liquid ya steam se skin ka burn hai. Jab toddler dangling cloth kheenchta hai, toh uske saath cup bhi edge se gir sakta hai aur garam tea seedha skin par aa sakti hai. Cloth remove karne aur hot liquid ko door rakhne se injury ka mechanism hi break ho jata hai.
+
+**Exam clue:** Scald prevention mein heat source aur child ke beech physical separation sabse important hai.
 
 **Reference:** [NHM child safety guidance](https://www.nhm.gov.in/New-Update-2022-24/CH-Programmes/HBNC-%26-HBYC-Resource-%20Material/HBNC_%26_HBYC_Jobaid_for_ASHA.pdf)
 
@@ -54,7 +58,7 @@
 
 ### Q3. A caregiver must leave the bathroom briefly while a toddler is sitting in a water-filled tub. Which action is safest?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Childhood injury prevention | **Type:** Original
+**Difficulty:** Easy | **Priority:** 🔴 High | **Topic:** Childhood injury prevention | **Type:** Original
 
 - **A.** Leave the toddler in the tub with a floating toy
 - **B.** Remove the child from the water and take the child along or arrange continuous capable adult supervision
@@ -65,10 +69,12 @@
 
 **Correct: B. Remove the child from the water and take the child along or arrange continuous capable adult supervision**
 
-- **A.** Floating toy supervision ya approved safety protection ka substitute nahi hai.
-- **B.** Young children bahut kam paani mein bhi drown ho sakte hain. Adult ko close active supervision maintain karni chahiye.
-- **C.** Door se sibling watch reliable immediate rescue provide nahi kar sakta.
-- **D.** Shallow water risk ko eliminate nahi karta.
+- **A.** Floating toy sirf play ke liye hota hai. Woh bachche ke airway ko paani se upar rakhne ki guarantee nahi deta aur child silently submerge ho sakta hai. Isliye toy ko responsible adult ki close, continuous supervision ka replacement nahi banana chahiye.
+- **B.** Drowning mein paani mein submersion ya immersion ke kaaran breathing impair ho jaati hai. Chhota bachcha tub mein slip karke face paani ke andar le ja sakta hai aur khud ko turant sambhal nahi pata. Agar adult ko jana hai, toh child ko paani se bahar le jao ya capable adult se close, attentive supervision ka direct handover karo.
+- **C.** Young sibling ko emergency ka risk samajhne aur safe response dene ki poori ability nahi ho sakti. Doosre room se dekhne par toddler ka face paani mein jana turant notice bhi nahi ho sakta. Isliye capable adult ko water ke paas continuously present rehna chahiye.
+- **D.** Drowning ke liye deep water zaroori nahi hota. Agar toddler ka nose aur mouth shallow water ke andar aa jaaye, toh breathing impair ho sakti hai. Water level kam karna ek measure ho sakta hai, lekin adult supervision ko replace nahi karta.
+
+**Exam clue:** Young child ko bath ya water ke paas akela kabhi mat chhodo.
 
 **Reference:** [DROWN child safety guidance](https://www.cdc.gov/drowning/prevention/index.html)
 
