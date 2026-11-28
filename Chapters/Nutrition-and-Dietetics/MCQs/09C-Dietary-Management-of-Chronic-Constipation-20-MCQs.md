@@ -37,19 +37,19 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Psyllium and straining severity | **Type:** Original practice
 
-- **A.** A proven elimination of every sensation of incomplete evacuation
+- **A.** A reduction in the severity of straining
 - **B.** A guaranteed absence of gastrointestinal discomfort
 - **C.** A demonstrated cure for secondary medication-induced constipation
-- **D.** A reduction in the severity of straining
+- **D.** A proven elimination of every sensation of incomplete evacuation
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. A reduction in the severity of straining**
+**Correct: A. A reduction in the severity of straining**
 
-- **A. Incorrect:** Incomplete evacuation alag symptom hai. Overall fibre evidence se is endpoint ka benefit establish nahi hua aur specific psyllium ke liye sufficient evidence nahi tha.
+- **A. Correct:** Psyllium ke specific trial evidence mein stool pass karne ke liye straining ki severity kam hui. Frequency ke saath patient ka actual effort assess karna useful hai.
 - **B. Incorrect:** Fibre supplementation ke saath gas ya discomfort ho sakta hai. Tolerability monitor karna important hai, complete absence guarantee nahi hoti.
 - **C. Incorrect:** BDA review adult primary constipation par focus karti hai. Medication-induced constipation ke liye cause-specific management ki zarurat ho sakti hai.
-- **D. Correct:** Psyllium ke specific trial evidence mein stool pass karne ke liye straining ki severity kam hui. Frequency ke saath patient ka actual effort assess karna useful hai.
+- **D. Incorrect:** Incomplete evacuation alag symptom hai. Overall fibre evidence se is endpoint ka benefit establish nahi hua aur specific psyllium ke liye sufficient evidence nahi tha.
 
 **Exam clue:** Straining severity is a distinct symptom outcome, not identical to bowel frequency.
 
