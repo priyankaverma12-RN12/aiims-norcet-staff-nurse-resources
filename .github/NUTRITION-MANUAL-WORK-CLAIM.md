@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-07c-20261128-0825Z
-Scope: Isolated PR35 07C new food exchange, menu and budget planning bank, concepts, SVG and evidence. No shared navigation or production edits.
-Claimed UTC: 2026-11-28T08:25:44Z
-Expiry UTC: 2026-11-28T08:55:44Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 07C food exchange, menu and budget planning
+
+Candidate head: be7f8eae159093a04a480f95ca60959bfc9bb8eb
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-07c-20261128-0825Z
+
+20 new original candidate questions and 80 separate Roman Hinglish rationales in 07C. Initial bank 5ee81f20de518525b45749b2f55e704420559202, final two-slot semantic replacements and bank 6bc334cee8d8432278221c327b640aa75c9d6c6e, blob e3a4073593b9569f2a383e2c3ac068c095416d63. Guide 15 c09fa315a343d860f27dfe28749ed0514fc8e72c, original SVG 166d6cea62825f1788723d89bf3fccc5496719a0. SVG XML parsed and rendered with matching Git blob, visually checked. All content exact remote readbacks passed. 20 aligned keys, four options and individual reasons each, 20 exam clues, 20 evidence rows and 20 video gaps. Five correct keys per letter, 20 unique stems. Previous 06C/06D and 07A/07B verified unchanged. Inventory and PR description updated and verified.
+
+Current staged totals: 640 original questions, 2560 rationales, 32 banks, 15 guides, 15 original SVGs. Four separate live legacy originals and one reported adaptation preserved. No new live, mock or PYQ credit. 120 relevant prior stems screened, independent comprehensive semantic and clinical/dietetic review remains pending, including 07C Q7 versus 04A Q18. Full INC coverage, item-level video evidence, explicit PR7/8 navigation clearance and final candidate CI/rendering not certified. Final candidate CI 46126035116 pending when checked. Draft unmerged. No changes to other jobs, website, learner history or automation.
+
+Next: acquire fresh isolated ownership and prioritize school-age nutrition, separate elderly nutrition objectives, and current programme/food standards depth. Do not repeat completed 06C/06D and 07A–C. Continue up to 100 genuinely distinct originals with four individual rationales, concept guides, diagrams and verified evidence as feasible. Complete mandatory independent review and other gates before integration, mock-exclusive questions and authenticated PYQs.
 
 ## Latest released checkpoint — 07B Nutrition education expansion
 
