@@ -1,0 +1,24 @@
+# Surgical energy candidate evidence
+
+20 new original questions and 80 individual rationales. OSHA smoke and OpenStax intraoperative pages directly retrieved, Joint Commission fire alert directly retrieved. AORN 2026 public update and fire article indexed; full text independent verification outstanding. No copied questions, historical claim or exact video mapping. Full sibling semantic review and independent clinical/device review pending.
+
+- Q1: [J](https://www.jointcommissionjournal.com/article/S1553-7250%2823%2900236-2/fulltext) — Which three elements form the surgical fire triangle?
+- Q2: [F](https://pmc.ncbi.nlm.nih.gov/articles/PMC7807838/) — During facial surgery under open oxygen delivery, the surgeon plans to activate an energy device close to the oxygen-delivery area. Which preparation is most important?
+- Q3: [J](https://www.jointcommissionjournal.com/article/S1553-7250%2823%2900236-2/fulltext) — A surgical team proposes that fire-safety responsibilities be discussed only after smoke or flame is noticed. Which improvement is preferable?
+- Q4: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — What is the primary function of the patient return electrode in conventional monopolar electrosurgery?
+- Q5: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — In conventional bipolar electrosurgery using forceps, where does the intended electrical current pass?
+- Q6: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — A disposable conductive return electrode begins lifting from the patient's skin after repositioning. What should the nurse do before energy use resumes?
+- Q7: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — Two separate monopolar generators are needed for a complex operation. Which return-electrode arrangement matches the AORN 2026 public guidance for single-use conductive electrodes?
+- Q8: [O](https://openstax.org/books/fundamentals-nursing/pages/31-3-intraoperative-phase) — A reusable electrosurgical handpiece has a visibly damaged cable insulation before use. What should the circulating nurse arrange?
+- Q9: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — During laparoscopic electrosurgery, energy is activated with the active tip outside the camera's view. Which concern should be communicated?
+- Q10: [O](https://openstax.org/books/fundamentals-nursing/pages/31-3-intraoperative-phase) — The surgeon temporarily stops using an active electrosurgical pencil. Which handling method best prevents unintended activation-related injury?
+- Q11: [S](https://www.osha.gov/etools/hospitals/surgical-suite/smoke-plume) — A laser procedure produces only a small visible plume. Which occupational safety response is appropriate?
+- Q12: [S](https://www.osha.gov/etools/hospitals/surgical-suite/smoke-plume) — According to the cited OSHA surgical smoke guidance, approximately how close should the smoke evacuation nozzle be to the surgical source?
+- Q13: [S](https://www.osha.gov/etools/hospitals/surgical-suite/smoke-plume) — Why is ordinary room ventilation alone not the preferred sole control for concentrated surgical plume at the source?
+- Q14: [S](https://www.osha.gov/etools/hospitals/surgical-suite/smoke-plume) — A smoke evacuator is available but the required filter has reached its manufacturer-specified replacement limit. Which action is appropriate?
+- Q15: [O](https://openstax.org/books/fundamentals-nursing/pages/31-3-intraoperative-phase) — A laser-specific protective eyewear supply is being checked before an operation. Which selection principle is appropriate?
+- Q16: [O](https://openstax.org/books/fundamentals-nursing/pages/31-3-intraoperative-phase) — An energy-device accessory package states it is incompatible with the generator available in theatre. What is the safest response?
+- Q17: [E](https://www.aorn.org/article/whats-new-in-aorns-guideline-for-the-safe-use-of-surgical-energy-devices-2026-update) — A patient has a suspected thermal skin injury at a return-electrode site discovered after surgery. Which follow-up is most appropriate?
+- Q18: [J](https://www.jointcommissionjournal.com/article/S1553-7250%2823%2900236-2/fulltext) — Which team practice best prepares staff for a rare operating-room fire emergency?
+- Q19: [F](https://pmc.ncbi.nlm.nih.gov/articles/PMC7807838/) — A fire-risk briefing identifies that draping may trap oxygen around a facial operative field. What should the team do?
+- Q20: [O](https://openstax.org/books/fundamentals-nursing/pages/31-3-intraoperative-phase) — Which record is most useful when tracking a surgical energy device involved in an intraoperative safety incident?
