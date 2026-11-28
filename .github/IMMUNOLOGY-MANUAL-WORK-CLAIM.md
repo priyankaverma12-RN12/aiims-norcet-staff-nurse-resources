@@ -1,8 +1,8 @@
 # Immunology, Allergy and Rheumatology chapter claim
 
-State: CLAIMED
-Owner: immunology-pr77-b04b05-20261128T1633Z
-Scope: isolated PR77 Banks04–05 clinical corrections only. No shared navigation or other chapters.
+State: FREE
+Owner: none
+Scope: PR77 Banks04–05 corrective checkpoint complete. No active writer.
 Claimed UTC: 2026-11-28T16:33:00Z
 Expiry UTC: 2026-11-28T17:03:00Z
 
@@ -20,3 +20,7 @@ Released own claim after exact candidate readback at 5a5712ec75af43c4e2029336dca
 ## Bank03 corrective checkpoint — 28 November 2026
 
 Released own claim after exact candidate readback at b2af073ab5ea3941a7fc9f2074d7d8342667975a (bank blob f951c005a2f6c887e017fcd4462e93b8cfdbf811). 99 staged originals and 33/33/33 preserved, 60/99 bounded AI-reviewed across Banks01–03, no live credit. Bank03 review 7242301059. Remaining Bank04/05 39 questions, targeted corrections and release gates; no repeat of completed reviews. PR8 request 7241920173 still pending. Other claims and schedules preserved.
+
+## Banks04–05 corrective checkpoint — 28 November 2026
+
+Released own claim after exact candidate readbacks at 7dda9c318cf1ad968aae1155391c8862da30d805 and d38d094e3b988ae0b72cb3135b6ad69fef5892b9. All 99 staged originals and 33/33/33 difficulty preserved. All 99 questions now bounded AI-reviewed, no external clinical certification. Review 7242340596. Next targeted outstanding corrections and semantic/difficulty checks, concepts/diagrams/curriculum/video, PR7/8 navigation, reconciliation and fresh CI. Do not repeat completed sequential reviews. No live credit, other ownership or schedule edits.
