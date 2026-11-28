@@ -33,13 +33,13 @@ function drawRoutine(data){
  const stats=node('div',undefined,'daily-progress'),label=node('div',undefined,'daily-progress-label');label.append(node('strong',count+' / '+goal+' questions'),node('span',completed?'Goal reached':Math.max(0,goal-count)+' remaining'));const meter=node('progress');meter.max=goal;meter.value=Math.min(count,goal);meter.setAttribute('aria-label','Daily question goal progress');stats.append(label,meter);panel.append(stats);
  const week=node('div',undefined,'study-week');for(let i=6;i>=0;i--){const day=offsetDay(today,-i),n=routineCount(d,day),cell=node('div',undefined,'study-day'+(n?' active':'')+(i===0?' today':''));cell.setAttribute('aria-label',day+': '+n+' questions practised');cell.append(node('span',new Date(day+'T12:00:00').toLocaleDateString('en-IN',{weekday:'short'})),node('strong',n?String(n):'—'));week.append(cell)}panel.append(week);
  const records=(data?.chapters||[]).flatMap(c=>c.records).filter(f=>f.scoreable>0&&!data.resources?.[f.path]?.draft);
- const allowed=new Map(records.map(f=>[f.path,f]));const recent=getRecent().find(x=>allowed.has(x.path));
+ const allowed=new Map(records.map(f=>[f.path,f]));const recent=getRecent().find(x=>allowed.has(x.path)&&allowed.get(x.path).category!=='mock');
  const next=recent?.path||records.find(f=>f.path.includes('/Nursing-Foundations/MCQs/'))?.path||records[0]?.path;
  const due=Object.keys(d.banks).filter(p=>allowed.has(p)&&bankProgress(d,p).due).sort((a,b)=>bankProgress(d,b).due-bankProgress(d,a).due);
  const actions=node('div',undefined,'daily-actions');
  if(next){const card=node('a',undefined,'daily-action primary-daily');card.href=route(next)+'&session=quick';card.append(node('strong','Quick 5-question practice'),node('span',knownTitle(next)),node('small','Untimed · Original explanations →'));actions.append(card)}
  if(due.length){const p=due[0],card=node('a',undefined,'daily-action');card.href=route(p)+'&session=review';card.append(node('strong','Revise questions due'),node('span',knownTitle(p)),node('small',due.reduce((n,p)=>n+bankProgress(d,p).due,0)+' due across '+due.length+' banks →'));actions.append(card)}
  else{const card=node('a',undefined,'daily-action');card.href='#bookmarks';card.append(node('strong','Review saved questions'),node('span','Revisit your bookmarks'),node('small','No scheduled revision due from tracked banks'));actions.append(card)}
- panel.append(actions,node('p','Progress stays on this browser. Repeated checks of the same question in the same bank count once per day. Revision suggestions use a simple 1-day / 3-day interval, not a mastery score.','daily-note'));
+ panel.append(actions,node('p','Progress stays on this browser. A question counts once per bank each day. Revision intervals are 1 day after an incorrect answer and 3 days after a correct answer.','daily-note'));
 }
 if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey};

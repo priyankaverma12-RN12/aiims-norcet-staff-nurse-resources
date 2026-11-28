@@ -133,7 +133,7 @@ function mountQuiz(md,path,content,render,route){
 
  // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
  function startLearning(mode='all'){
-  const lesson=mode==='all'?bank.items:quickItems(loadRoutine(),path,bank.items,mode);if(!lesson.length){state.textContent='No questions are due for revision in this bank today.';return}
+  const lesson=mode==='all'?bank.items:quickItems(loadRoutine(),path,bank.items,mode);if(!lesson.length){state.textContent='No questions are due for revision in this bank today.';const u=new URL(location.href);u.searchParams.delete('session');history.replaceState(history.state,'',u.href);return}
   stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;root.dataset.learning='true';setView('practice');state.setAttribute('aria-live','polite');
   let index=0,choice='',checked=0,correct=0,locked=false;
   function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
@@ -149,7 +149,7 @@ function mountQuiz(md,path,content,render,route){
     const feedback=el('div',undefined,'learn-feedback '+(right?'learn-correct':'learn-review'));feedback.setAttribute('role','status');
     feedback.append(el('strong',right?'✓ Nice work! You got it right.':'Good effort — review this answer.'),el('p',right?'You selected '+choice+'. Keep building your understanding.':'You selected '+choice+'. The published answer is '+q.key+'.'));
     if(right)feedback.classList.add('celebrate-once');body.append(feedback);if(daily.saved&&daily.before<daily.goal&&daily.after>=daily.goal){const goalNote=el('p','Daily goal reached! Nice work making time to learn.','daily-result-note celebrate-once');body.append(goalNote)}else if(!daily.saved)body.append(el('p','Your browser could not save daily progress.','load-error'));
-    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original GitHub explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent='Learning mode · '+checked+' / '+lesson.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
+    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original GitHub explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent=(mode==='all'?'Learning mode':mode==='review'?'Revision session':'Quick practice')+' · '+checked+' / '+lesson.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
    },'primary-action');check.disabled=true;
    for(let i=0;i<4;i++){const letter='ABCD'[i],row=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='learn-choice';input.value=letter;input.onchange=()=>{choice=letter;check.disabled=false};const txt=el('div');render(txt,letter+'. '+q.options[i],path);row.append(input,txt);field.append(row);optionRows.push([letter,row,input])}body.append(field);
    const next=btn(index===lesson.length-1?'Finish learning':'Next question →',()=>{if(!locked)return;if(index+1<lesson.length){index++;drawLearn()}else finishLearning()},'primary-action');next.disabled=true;

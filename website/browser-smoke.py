@@ -145,6 +145,7 @@ try:
             page.get_by_role("button",name="Finish learning" if j==4 else "Next question").click()
         expect(page.locator(".result-heading")).to_have_text("Quick practice complete!")
         assert page.evaluate("routineCount(loadRoutine())")==7
+        assert page.evaluate("(p)=>bankProgress(loadRoutine(),p).checked",sample)==7
         page.get_by_role("button",name="Back to study material").click()
         print("Quick practice length and seven unique checked questions tracked.",flush=True)
 
