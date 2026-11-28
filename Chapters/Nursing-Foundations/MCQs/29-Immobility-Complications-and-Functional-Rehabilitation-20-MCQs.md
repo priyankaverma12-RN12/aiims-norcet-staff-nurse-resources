@@ -4,7 +4,7 @@
 
 ### Q1. Which mechanism contributes to increased venous thromboembolism risk during prolonged immobility?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Complete elimination of coagulation factors
 - **B.** Reduced skeletal muscle pumping and venous stasis
@@ -19,11 +19,17 @@ Leg muscles move blood toward the heart during activity. Bed rest mein muscle pu
 
 **Baaki options kyun sahi nahi hain?** Constant walking stasis reduce kar sakti hai. Blood viscosity aur clotting factors necessarily reduce nahi hote.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q2](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q2-which-mechanism-contributes-to-increased-venous-thromboembolism-risk-during-prolonged-immobility)
 
 ### Q2. A patient with unilateral leg swelling develops sudden shortness of breath and pleuritic chest pain. Which action has highest priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 SGPGI Staff Nurse 28 Feb 2024 Shift 1 — related reported concept**
 
 - **A.** Emergency respiratory and circulatory assessment for possible pulmonary embolism
 - **B.** Begin routine leg massage
@@ -38,11 +44,19 @@ Leg clot lungs ki artery mein travel kar sakta hai. Sudden dyspnea aur chest pai
 
 **Baaki options kyun sahi nahi hain?** Massage aur routine tasks possible embolism care delay karte hain. Warm compress emergency treatment nahi hai.
 
+
+**Topic reference:** [NICE — venous thromboembolic disease](https://www.nice.org.uk/guidance/ng158/chapter/recommendations). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Related historical evidence:** [SGPGI Staff Nurse, 28 Feb 2024 Shift 1 — third-party report](https://testbook.com/question-answer/chief-and-common-cause-of-pulmonary-embolism-is--685ba5390b32633df89def47). Is report mein pulmonary embolism ka common cause poochha gaya hai. Hamare original question mein emergency nursing priority poochhi gayi hai, isliye yeh related concept hai, exact historical match nahi. Official paper aur key independently verify nahi hue hain.
+
+**▶️ [YouTube MCQ practice — pulmonary embolism, Aarogyam Infinity Part 25](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=1691s).** Indexed chapter marker 28:11 par DVT ko pulmonary embolism ke cause se relate kiya gaya hai. Yeh cause ka related MCQ hai, hamare question ki exact emergency priority aur playback verify nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q27](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q27-a-patient-with-unilateral-leg-swelling-develops-sudden-shortness-of-breath-and-pleuritic-chest-pain-which-action-has-highest-priority)
 
 ### Q3. What is a common musculoskeletal consequence of prolonged disuse?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Increased muscle mass without activity
 - **B.** Permanent improvement in all joint movements
@@ -57,11 +71,17 @@ Muscle workload kam hone se protein balance aur strength change ho sakti hai. Sa
 
 **Baaki options kyun sahi nahi hain?** Inactivity muscle mass ya bone density automatically increase nahi karti. Joint movement limit bhi ho sakti hai.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q13](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q13-what-is-a-common-musculoskeletal-consequence-of-prolonged-disuse)
 
 ### Q4. Why can prolonged immobilization increase the risk of a joint contracture?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** All ligaments disappear immediately
 - **B.** Joint mobility increases without limit
@@ -76,11 +96,17 @@ Fixed posture se soft tissues adapt hokar shorten ho sakte hain. Individualized 
 
 **Baaki options kyun sahi nahi hain?** Cartilage muscle nahi banti. Ligaments disappear hona mechanism nahi hai. Mobility usually reduce ho sakti hai.
 
+
+**Topic reference:** [OpenStax — assessing mobility](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q8](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q8-why-can-prolonged-immobilization-increase-the-risk-of-a-joint-contracture)
 
 ### Q5. Which intervention helps preserve muscle function in a stable bedbound patient who can contract muscles but cannot yet walk?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Forceful exercise beyond the prescribed limit
 - **B.** Keep joints fixed without reassessment
@@ -95,11 +121,17 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 **Baaki options kyun sahi nahi hain?** Complete inactivity disuse badhati hai. Forceful exercise aur fixed positioning injury cause kar sakte hain.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q91](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q91-which-intervention-helps-preserve-muscle-function-in-a-stable-bedbound-patient-who-can-contract-muscles-but-cannot-yet-walk)
 
 ### Q6. A patient has been on bed rest for weeks and is beginning rehabilitation. Why should upright activity be progressed gradually?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Gradual progression eliminates all future fall risk
 - **B.** Cardiovascular deconditioning can impair tolerance of sudden standing
@@ -114,11 +146,17 @@ Prolonged bed rest blood volume aur autonomic responses affect kar sakti hai. Gr
 
 **Baaki options kyun sahi nahi hain?** Orthostatic tolerance necessarily improve nahi hoti. Standing paralysis cause nahi karti. Risk completely eliminate nahi hota.
 
+
+**Topic reference:** [OpenStax — assessing mobility](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q42](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q42-a-patient-has-been-on-bed-rest-for-weeks-and-is-beginning-rehabilitation-why-should-upright-activity-be-progressed-gradually)
 
 ### Q7. Which complication is associated with reduced deep breathing and secretion clearance during immobility?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Atelectasis and retained respiratory secretions
 - **B.** Increased lung expansion in every case
@@ -133,11 +171,17 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 **Baaki options kyun sahi nahi hain?** Lung expansion improve hona guaranteed nahi hai. Pneumonia risk remain hota hai. Swallowing separate function hai.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q56](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q56-which-complication-is-associated-with-reduced-deep-breathing-and-secretion-clearance-during-immobility)
 
 ### Q8. A patient receiving prescribed compression stockings reports toe numbness and the stockings have rolled into a tight band. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Roll them tighter to improve support
 - **B.** Ignore numbness if the stocking remains on
@@ -152,11 +196,17 @@ Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve f
 
 **Baaki options kyun sahi nahi hain?** Tightening, another layer aur symptoms ignore karna injury risk badhate hain.
 
+
+**Topic reference:** [NICE — prevention of venous thromboembolism](https://www.nice.org.uk/guidance/ng89/chapter/recommendations). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q114](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q114-a-patient-receiving-prescribed-compression-stockings-reports-toe-numbness-and-the-stockings-have-rolled-into-a-tight-band-what-should-the-nurse-do)
 
 ### Q9. Which action is appropriate for a patient using an intermittent pneumatic compression device?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Leave it disconnected during all prescribed use
 - **B.** Apply it over a painful suspected DVT without assessment
@@ -171,11 +221,17 @@ IPC sleeves intermittent pressure se venous flow support karti hain. Nurse corre
 
 **Baaki options kyun sahi nahi hain?** Disconnected device function nahi karti. Suspected DVT assessment maangti hai. Monitoring still important hai.
 
+
+**Topic reference:** [NICE — prevention of venous thromboembolism](https://www.nice.org.uk/guidance/ng89/chapter/recommendations). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q30](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q30-which-action-is-appropriate-for-a-patient-using-an-intermittent-pneumatic-compression-device)
 
 ### Q10. A patient with limited mobility and poor intake is developing constipation. Which mechanism contributes?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Low fluid intake guarantees soft stool
 - **B.** Constipation is unrelated to medication or activity
@@ -190,11 +246,17 @@ Physical inactivity bowel motility reduce kar sakti hai aur inadequate fluid sto
 
 **Baaki options kyun sahi nahi hain?** Immobility propulsion necessarily increase nahi karti. Low fluid soft stool guarantee nahi karta. Multiple factors assess karne chahiye.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q78](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q78-a-patient-with-limited-mobility-and-poor-intake-is-developing-constipation-which-mechanism-contributes)
 
 ### Q11. Which intervention supports functional independence during rehabilitation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Avoid discussing progress with the patient
 - **B.** Set achievable goals and assist only as much as necessary for safety
@@ -209,11 +271,17 @@ Gradual goal-based practice patient ki ability improve karne mein help karti hai
 
 **Baaki options kyun sahi nahi hain?** Full takeover independence reduce kar sakta hai. Forced independence unsafe ho sakti hai. Feedback useful hai.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q20](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q20-which-intervention-supports-functional-independence-during-rehabilitation)
 
 ### Q12. A patient with a recent stroke has neglect of the affected side during grooming. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Use individualized scanning and safety cues with rehabilitation team guidance
 - **B.** Ignore the neglected side during all care
@@ -228,11 +296,17 @@ Spatial neglect attention problem ho sakti hai, visual acuity loss se different.
 
 **Baaki options kyun sahi nahi hain?** Affected side ignore karna injury risk badha sakta hai. Forced movement unsafe hai. Neglect blindness prove nahi karta.
 
+
+**Topic reference:** [NICE — stroke rehabilitation](https://www.nice.org.uk/guidance/ng236/chapter/Recommendations). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q60](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q60-a-patient-with-a-recent-stroke-has-neglect-of-the-affected-side-during-grooming-which-approach-is-appropriate)
 
 ### Q13. Which assessment tool focuses on independence in activities such as feeding, bathing, transfers and toileting?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Barthel Index
 - **B.** Apgar score
@@ -247,11 +321,17 @@ Barthel Index daily activities aur mobility mein assistance level assess karne m
 
 **Baaki options kyun sahi nahi hain?** Apgar newborn, Bishop cervix aur GCS consciousness assess karta hai.
 
+
+**Topic reference:** [NICE — stroke rehabilitation](https://www.nice.org.uk/guidance/ng236/chapter/Recommendations). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q110](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q110-which-assessment-tool-focuses-on-independence-in-activities-such-as-feeding-bathing-transfers-and-toileting)
 
 ### Q14. A patient with new lower-limb weakness is being assessed for transfer ability. Which finding is most relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Only height
 - **B.** Only the patient's diagnosis without functional assessment
@@ -266,11 +346,17 @@ Safe transfer patient ke actual strength, balance aur instructions follow karne 
 
 **Baaki options kyun sahi nahi hain?** Height, diagnosis aur shoe color alone functional transfer safety establish nahi karte.
 
+
+**Topic reference:** [OpenStax — assessing mobility](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q4](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q4-a-patient-with-new-lower-limb-weakness-is-being-assessed-for-transfer-ability-which-finding-is-most-relevant)
 
 ### Q15. Why is regular skin inspection important under an orthosis or splint?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Skin underneath a device cannot become damaged
 - **B.** Inspection is needed only if the device breaks
@@ -285,11 +371,17 @@ Splint ke contact areas mein localized pressure aur rubbing ho sakti hai. Skin c
 
 **Baaki options kyun sahi nahi hain?** Device pressure injury completely prevent nahi karti. Damage intact device ke neeche bhi possible hai.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q14](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q14-why-is-regular-skin-inspection-important-under-an-orthosis-or-splint)
 
 ### Q16. A patient becomes exhausted midway through a rehabilitation session. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Document the session as completed if the patient stopped
 - **B.** Assess symptoms and vital status, provide rest and adapt the session
@@ -304,11 +396,17 @@ Fatigue normal exertion ya clinical deterioration se related ho sakti hai. Nurse
 
 **Baaki options kyun sahi nahi hain?** Forced completion aur increased intensity risk badhate hain. False documentation inappropriate hai.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q71](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q71-a-patient-becomes-exhausted-midway-through-a-rehabilitation-session-which-action-is-appropriate)
 
 ### Q17. Which intervention helps maintain joint alignment in a patient unable to reposition independently?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Avoid all reassessment after applying pillows
 - **B.** Use appropriate supports and regular individualized repositioning
@@ -323,11 +421,17 @@ Supports neutral alignment aur pressure distribution mein help kar sakte hain. P
 
 **Baaki options kyun sahi nahi hain?** Extreme posture aur hard objects pressure-contracture risk badhate hain. Reassessment important hai.
 
+
+**Topic reference:** [OpenStax — assessing mobility](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q105](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q105-which-intervention-helps-maintain-joint-alignment-in-a-patient-unable-to-reposition-independently)
 
 ### Q18. A patient has new weakness, numbness and pain beneath a limb support device. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess neurovascular function and relieve suspected harmful pressure according to protocol
 - **B.** Apply tighter straps
@@ -342,11 +446,17 @@ New neurological symptoms device-related compression ka sign ho sakte hain. Nurs
 
 **Baaki options kyun sahi nahi hain?** Tightening injury worsen kar sakti hai. Delay aur discomfort dismiss karna unsafe hain.
 
+
+**Topic reference:** [OpenStax — assessing mobility](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q42](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q42-a-patient-has-new-weakness-numbness-and-pain-beneath-a-limb-support-device-what-is-the-priority)
 
 ### Q19. Which finding is an appropriate measurable rehabilitation outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** The patient will become better eventually
 - **B.** The nurse will provide all care forever
@@ -361,11 +471,17 @@ Transfer outcome clear task, assistance level aur deadline define karta hai. Nur
 
 **Baaki options kyun sahi nahi hain?** Vague improvement measure nahi ho sakti. Full nurse care patient independence ka goal nahi hai. Diagnosis disappearance guaranteed nahi hai.
 
+
+**Topic reference:** [NICE — rehabilitation needs and goal setting](https://www.nice.org.uk/guidance/ng252/chapter/Assessing-rehabilitation-needs-and-goal-setting). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q30](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q30-which-finding-is-an-appropriate-measurable-rehabilitation-outcome)
 
 ### Q20. An older patient with prolonged immobility is preparing for discharge home. Which plan addresses multiple safety risks?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Advise indefinite bed rest without review
 - **B.** Provide only a list of exercises without discussing safety
@@ -380,7 +496,13 @@ Home mein patient ko transfers, toileting aur skin prevention ke liye practical 
 
 **Baaki options kyun sahi nahi hain?** Unassessed discharge aur unnecessary bed rest risk badhate hain. Exercise list alone all needs address nahi karti.
 
+
+**Topic reference:** [OpenStax — care of neuromuscular impairment](https://openstax.org/books/fundamentals-nursing/pages/23-3-considerations-for-care-of-neuromuscular-impairment). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q81](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q81-an-older-patient-with-prolonged-immobility-is-preparing-for-discharge-home-which-plan-addresses-multiple-safety-risks)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
