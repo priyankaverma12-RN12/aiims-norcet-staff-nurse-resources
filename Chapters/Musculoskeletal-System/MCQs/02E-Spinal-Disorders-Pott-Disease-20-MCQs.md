@@ -9,19 +9,19 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** Excess growth of all posterior vertebral elements
-- **B.** Collapse of diseased anterior vertebral bodies producing angular kyphosis
-- **C.** Increased height of normal intervertebral discs
+- **B.** Increased height of normal intervertebral discs
+- **C.** Collapse of diseased anterior vertebral bodies producing angular kyphosis
 - **D.** Isolated contraction of the calf muscles
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Collapse of diseased anterior vertebral bodies producing angular kyphosis**
+**Correct answer: C. Collapse of diseased anterior vertebral bodies producing angular kyphosis**
 
 **A kyun galat hai:** Posterior elements bhi disease se affect ho sakte hain, lekin typical angular deformity anterior vertebral collapse se develop hoti hai.
 
-**B kyun sahi hai:** Vertebral TB anterior body ko destroy kar sakti hai. Jab anterior height collapse hoti hai toh spine sharply forward bend karti hai aur posterior angular prominence ban sakta hai.
+**B kyun galat hai:** Normal disc height increase typical Pott deformity explain nahi karti. Infection vertebral structures destroy kar sakti hai.
 
-**C kyun galat hai:** Normal disc height increase typical Pott deformity explain nahi karti. Infection vertebral structures destroy kar sakti hai.
+**C kyun sahi hai:** Vertebral TB anterior body ko destroy kar sakti hai. Jab anterior height collapse hoti hai toh spine sharply forward bend karti hai aur posterior angular prominence ban sakta hai.
 
 **D kyun galat hai:** Calf contracture ankle movement affect karti hai. Thoracic vertebral angular collapse ka mechanism nahi hai.
 
@@ -37,22 +37,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Isolated patellar involvement
-- **B.** Diffuse injury limited to every spinous process
-- **C.** Paradiscal vertebral involvement
-- **D.** Isolated injury to the Achilles tendon
+- **A.** Paradiscal vertebral involvement
+- **B.** Isolated injury to the Achilles tendon
+- **C.** Diffuse injury limited to every spinous process
+- **D.** Isolated patellar involvement
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Paradiscal vertebral involvement**
+**Correct answer: A. Paradiscal vertebral involvement**
 
-**A kyun galat hai:** Patella knee ka part hai. Adjacent vertebral endplate changes spinal disease describe karte hain.
+**A kyun sahi hai:** Paradiscal pattern disc ke adjacent vertebral body regions ko involve karta hai. Shared arterial distribution se ye pattern develop ho sakta hai.
 
-**B kyun galat hai:** Posterior element TB possible hai lekin paradiscal pattern common hota hai. Har spinous process limited disease typical description nahi hai.
+**B kyun galat hai:** Achilles tendon ankle region mein hai. Spinal MRI pattern is structure se related nahi hai.
 
-**C kyun sahi hai:** Paradiscal pattern disc ke adjacent vertebral body regions ko involve karta hai. Shared arterial distribution se ye pattern develop ho sakta hai.
+**C kyun galat hai:** Posterior element TB possible hai lekin paradiscal pattern common hota hai. Har spinous process limited disease typical description nahi hai.
 
-**D kyun galat hai:** Achilles tendon ankle region mein hai. Spinal MRI pattern is structure se related nahi hai.
+**D kyun galat hai:** Patella knee ka part hai. Adjacent vertebral endplate changes spinal disease describe karte hain.
 
 **Exam clue:** Paradiscal involvement classical common spinal TB pattern hai.
 
@@ -95,22 +95,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** A primary wrist ligament rupture
+- **A.** Increased bone mineralization in the femoral shaft
 - **B.** A new isolated patellar dislocation
-- **C.** Increased bone mineralization in the femoral shaft
-- **D.** Tracking of a paravertebral abscess along tissue planes near the psoas muscle
+- **C.** Tracking of a paravertebral abscess along tissue planes near the psoas muscle
+- **D.** A primary wrist ligament rupture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Tracking of a paravertebral abscess along tissue planes near the psoas muscle**
+**Correct answer: C. Tracking of a paravertebral abscess along tissue planes near the psoas muscle**
 
-**A kyun galat hai:** Wrist ligament rupture upper-limb problem hai. Lumbar TB ke saath hip flexion discomfort explain nahi karti.
+**A kyun galat hai:** Increased bone mineralization se infective soft-tissue collection develop nahi hota. MRI aur clinical context infection spread assess karte hain.
 
 **B kyun galat hai:** Patellar dislocation knee alignment affect karti hai. Psoas-region collection ka mechanism nahi hai.
 
-**C kyun galat hai:** Increased bone mineralization se infective soft-tissue collection develop nahi hota. MRI aur clinical context infection spread assess karte hain.
+**C kyun sahi hai:** Spinal TB ka collection fascial planes ke along psoas region mein extend kar sakta hai. Psoas irritation hip extension painful bana sakti hai, specialist assessment important hai.
 
-**D kyun sahi hai:** Spinal TB ka collection fascial planes ke along psoas region mein extend kar sakta hai. Psoas irritation hip extension painful bana sakti hai, specialist assessment important hai.
+**D kyun galat hai:** Wrist ligament rupture upper-limb problem hai. Lumbar TB ke saath hip flexion discomfort explain nahi karti.
 
 **Exam clue:** Lumbar spinal TB abscess psoas region tak track kar sakta hai.
 
@@ -125,21 +125,21 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** An isolated distal ankle sprain
-- **B.** Airway compromise from a retropharyngeal collection
-- **C.** A stable asymptomatic lumbar disc bulge
-- **D.** A healed knee scar
+- **B.** A stable asymptomatic lumbar disc bulge
+- **C.** A healed knee scar
+- **D.** Airway compromise from a retropharyngeal collection
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Airway compromise from a retropharyngeal collection**
+**Correct answer: D. Airway compromise from a retropharyngeal collection**
 
 **A kyun galat hai:** Ankle sprain upper airway compromise explain nahi karti. Cervical disease ke local complications assess karna important hai.
 
-**B kyun sahi hai:** Cervical TB ka collection retropharyngeal region mein extend ho sakta hai. Stridor airway narrowing ka red flag hai, isliye urgent airway assessment aur escalation chahiye.
+**B kyun galat hai:** Lumbar disc bulge lower spinal region mein hota hai. Acute stridor aur dysphagia ke given cervical context ko explain nahi karta.
 
-**C kyun galat hai:** Lumbar disc bulge lower spinal region mein hota hai. Acute stridor aur dysphagia ke given cervical context ko explain nahi karta.
+**C kyun galat hai:** Healed knee scar upper airway symptoms ka cause nahi hai. Acute cervical complication priority hai.
 
-**D kyun galat hai:** Healed knee scar upper airway symptoms ka cause nahi hai. Acute cervical complication priority hai.
+**D kyun sahi hai:** Cervical TB ka collection retropharyngeal region mein extend ho sakta hai. Stridor airway narrowing ka red flag hai, isliye urgent airway assessment aur escalation chahiye.
 
 **Exam clue:** Cervical TB with stridor ko airway emergency treat karo.
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Contrast-enhanced MRI of the relevant spine region
-- **B.** Routine chest radiograph alone
-- **C.** DXA scan as the sole investigation
-- **D.** Ultrasound of the wrist
+- **A.** Ultrasound of the wrist
+- **B.** DXA scan as the sole investigation
+- **C.** Routine chest radiograph alone
+- **D.** Contrast-enhanced MRI of the relevant spine region
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Contrast-enhanced MRI of the relevant spine region**
+**Correct answer: D. Contrast-enhanced MRI of the relevant spine region**
 
-**A kyun sahi hai:** MRI marrow, disc, soft tissue aur spinal canal detail provide karti hai. Contrast use renal function aur other safety factors ke hisaab se clinician decide karta hai.
+**A kyun galat hai:** Wrist ultrasound local upper-limb soft tissue assess karta hai. Suspected vertebral TB ke liye relevant modality nahi hai.
 
-**B kyun galat hai:** Chest radiograph coexisting pulmonary TB evaluate karne mein useful ho sakti hai, lekin spinal lesion aur canal detail adequately assess nahi karti.
+**B kyun galat hai:** DXA bone density measure karti hai. Infection extent aur neural compression ke liye appropriate sole imaging nahi hai.
 
-**C kyun galat hai:** DXA bone density measure karti hai. Infection extent aur neural compression ke liye appropriate sole imaging nahi hai.
+**C kyun galat hai:** Chest radiograph coexisting pulmonary TB evaluate karne mein useful ho sakti hai, lekin spinal lesion aur canal detail adequately assess nahi karti.
 
-**D kyun galat hai:** Wrist ultrasound local upper-limb soft tissue assess karta hai. Suspected vertebral TB ke liye relevant modality nahi hai.
+**D kyun sahi hai:** MRI marrow, disc, soft tissue aur spinal canal detail provide karti hai. Contrast use renal function aur other safety factors ke hisaab se clinician decide karta hai.
 
 **Exam clue:** Spinal TB extent assess karne mein MRI high-yield modality hai.
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Spinal tuberculosis always means the patient has no lung involvement
+- **A.** Every spinal TB case is automatically infectious by the airborne route
 - **B.** Chest imaging directly measures vertebral instability
-- **C.** Every spinal TB case is automatically infectious by the airborne route
+- **C.** Spinal tuberculosis always means the patient has no lung involvement
 - **D.** Coexisting pulmonary TB may affect diagnosis, infection precautions and public-health management
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Coexisting pulmonary TB may affect diagnosis, infection precautions and public-health management**
 
-**A kyun galat hai:** Extrapulmonary TB ke saath pulmonary disease coexist kar sakti hai. Cough absent hone se lung involvement definitively exclude nahi hota.
+**A kyun galat hai:** Isolated closed extrapulmonary disease generally pulmonary infectious TB jaisa transmission risk nahi rakhti, lekin pulmonary involvement aur procedures assess karna important hai.
 
 **B kyun galat hai:** Chest evaluation lung pathology assess karti hai. Vertebral stability relevant spinal imaging aur clinical assessment se guide hoti hai.
 
-**C kyun galat hai:** Isolated closed extrapulmonary disease generally pulmonary infectious TB jaisa transmission risk nahi rakhti, lekin pulmonary involvement aur procedures assess karna important hai.
+**C kyun galat hai:** Extrapulmonary TB ke saath pulmonary disease coexist kar sakti hai. Cough absent hone se lung involvement definitively exclude nahi hota.
 
 **D kyun sahi hai:** Pulmonary disease identify hone par respiratory isolation, sampling aur public-health measures applicable ho sakte hain. Isliye chest evaluation relevant hai.
 
@@ -240,18 +240,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** All forms of TB always require exactly identical duration
-- **B.** Spinal TB duration may differ and should follow the current national and specialist plan, response and susceptibility
+- **A.** Spinal TB duration may differ and should follow the current national and specialist plan, response and susceptibility
+- **B.** All forms of TB always require exactly identical duration
 - **C.** Stop medication as soon as back pain resolves
 - **D.** Extend medication independently for life
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Spinal TB duration may differ and should follow the current national and specialist plan, response and susceptibility**
+**Correct answer: A. Spinal TB duration may differ and should follow the current national and specialist plan, response and susceptibility**
 
-**A kyun galat hai:** Different disease sites aur clinical circumstances treatment duration affect kar sakte hain. Universal identical duration rule accurate nahi hai.
+**A kyun sahi hai:** Spinal TB mein prolonged regimen consider ho sakta hai. National guideline, drug susceptibility, disease extent aur treatment response ke according specialist duration decide karta hai.
 
-**B kyun sahi hai:** Spinal TB mein prolonged regimen consider ho sakta hai. National guideline, drug susceptibility, disease extent aur treatment response ke according specialist duration decide karta hai.
+**B kyun galat hai:** Different disease sites aur clinical circumstances treatment duration affect kar sakte hain. Universal identical duration rule accurate nahi hai.
 
 **C kyun galat hai:** Pain relief infection cure prove nahi karti. Early independent cessation relapse aur resistance risk badha sakti hai.
 
@@ -269,22 +269,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Report the structural progression to the spinal team for stability and deformity assessment
-- **B.** Assume pain improvement excludes mechanical deterioration
+- **A.** Stop all follow-up imaging because symptoms improved
+- **B.** Report the structural progression to the spinal team for stability and deformity assessment
 - **C.** Start forceful spinal manipulation without clearance
-- **D.** Stop all follow-up imaging because symptoms improved
+- **D.** Assume pain improvement excludes mechanical deterioration
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Report the structural progression to the spinal team for stability and deformity assessment**
+**Correct answer: B. Report the structural progression to the spinal team for stability and deformity assessment**
 
-**A kyun sahi hai:** Pain aur structural stability alag outcomes hain. Progressive kyphosis spinal instability aur neural risk create kar sakti hai, isliye specialist reassessment chahiye.
+**A kyun galat hai:** Imaging follow-up individual plan ke according structural healing assess karne mein useful ho sakti hai. Symptoms alone sufficient nahi hain.
 
-**B kyun galat hai:** Pain reduce hone par bhi vertebral collapse progress kar sakta hai. Structural findings ignore nahi karne chahiye.
+**B kyun sahi hai:** Pain aur structural stability alag outcomes hain. Progressive kyphosis spinal instability aur neural risk create kar sakti hai, isliye specialist reassessment chahiye.
 
 **C kyun galat hai:** Forceful manipulation diseased spine ko destabilize kar sakti hai. Appropriate precautions aur specialist guidance zaroori hai.
 
-**D kyun galat hai:** Imaging follow-up individual plan ke according structural healing assess karne mein useful ho sakti hai. Symptoms alone sufficient nahi hain.
+**D kyun galat hai:** Pain reduce hone par bhi vertebral collapse progress kar sakta hai. Structural findings ignore nahi karne chahiye.
 
 **Exam clue:** Spinal TB follow-up mein deformity aur function ko symptoms ke saath monitor karo.
 
@@ -327,22 +327,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The orthosis directly kills mycobacteria
-- **B.** It removes the need for prescribed antimicrobial therapy
-- **C.** It makes every spinal position permanently safe
-- **D.** It supports the spine and may limit harmful movement while disease-directed treatment continues
+- **A.** It makes every spinal position permanently safe
+- **B.** It supports the spine and may limit harmful movement while disease-directed treatment continues
+- **C.** It removes the need for prescribed antimicrobial therapy
+- **D.** The orthosis directly kills mycobacteria
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. It supports the spine and may limit harmful movement while disease-directed treatment continues**
+**Correct answer: B. It supports the spine and may limit harmful movement while disease-directed treatment continues**
 
-**A kyun galat hai:** Orthosis mechanical support provide karti hai. Mycobacteria treat karne ke liye effective prescribed TB medicines required hoti hain.
+**A kyun galat hai:** Orthosis use ke saath bhi prescribed movement restrictions aur fitting instructions follow karne chahiye. Universal safety guarantee nahi hai.
 
-**B kyun galat hai:** Brace antimicrobial treatment ka substitute nahi hai. Dono interventions different objectives address karte hain.
+**B kyun sahi hai:** Orthosis affected spine ko support kar sakti hai aur planned safe mobilization mein help kar sakti hai. Fit, skin aur clinical response monitor karo.
 
-**C kyun galat hai:** Orthosis use ke saath bhi prescribed movement restrictions aur fitting instructions follow karne chahiye. Universal safety guarantee nahi hai.
+**C kyun galat hai:** Brace antimicrobial treatment ka substitute nahi hai. Dono interventions different objectives address karte hain.
 
-**D kyun sahi hai:** Orthosis affected spine ko support kar sakti hai aur planned safe mobilization mein help kar sakti hai. Fit, skin aur clinical response monitor karo.
+**D kyun galat hai:** Orthosis mechanical support provide karti hai. Mycobacteria treat karne ke liye effective prescribed TB medicines required hoti hain.
 
 **Exam clue:** Brace mechanical protection hai, anti-TB treatment ka replacement nahi.
 
@@ -385,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Routine imaging is not automatically needed when it will not change initial management
-- **B.** MRI is mandatory for every episode of uncomplicated back pain
+- **A.** A normal MRI guarantees that pain is not real
+- **B.** Routine imaging is not automatically needed when it will not change initial management
 - **C.** Imaging is never appropriate even when cancer or infection is suspected
-- **D.** A normal MRI guarantees that pain is not real
+- **D.** MRI is mandatory for every episode of uncomplicated back pain
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Routine imaging is not automatically needed when it will not change initial management**
+**Correct answer: B. Routine imaging is not automatically needed when it will not change initial management**
 
-**A kyun sahi hai:** Uncomplicated back pain mein routine imaging unnecessary incidental findings aur interventions create kar sakti hai. Clinician red flags aur management impact ke according decide karta hai.
+**A kyun galat hai:** Pain real experience hai aur imaging finding severity se always correlate nahi karti. Normal imaging symptoms invalidate nahi karti.
 
-**B kyun galat hai:** Har patient ka MRI required nahi hota. Clinical assessment initial management guide kar sakti hai.
+**B kyun sahi hai:** Uncomplicated back pain mein routine imaging unnecessary incidental findings aur interventions create kar sakti hai. Clinician red flags aur management impact ke according decide karta hai.
 
 **C kyun galat hai:** Cancer, infection, trauma ya significant neurologic concern mein appropriate imaging necessary ho sakti hai. Absolute refusal unsafe hai.
 
-**D kyun galat hai:** Pain real experience hai aur imaging finding severity se always correlate nahi karti. Normal imaging symptoms invalidate nahi karti.
+**D kyun galat hai:** Har patient ka MRI required nahi hota. Clinical assessment initial management guide kar sakti hai.
 
 **Exam clue:** Imaging decision red flags aur management change par depend karta hai.
 
@@ -416,20 +416,20 @@
 
 - **A.** Remain on strict bed rest for several weeks regardless of function
 - **B.** Return immediately to maximal heavy lifting despite worsening symptoms
-- **C.** Continue tolerated usual activity with gradual individualized progression and reassessment
-- **D.** Avoid all movement permanently because disc material cannot change
+- **C.** Avoid all movement permanently because disc material cannot change
+- **D.** Continue tolerated usual activity with gradual individualized progression and reassessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Continue tolerated usual activity with gradual individualized progression and reassessment**
+**Correct answer: D. Continue tolerated usual activity with gradual individualized progression and reassessment**
 
 **A kyun galat hai:** Prolonged bed rest deconditioning aur functional decline cause kar sakti hai. Stable uncomplicated case mein tolerated activity generally encouraged hoti hai.
 
 **B kyun galat hai:** Severe aggravating load ko force karna safe progression nahi hai. Activity patient ki symptoms aur clinician plan ke according adapt hoti hai.
 
-**C kyun sahi hai:** Gradual movement functional recovery support kar sakti hai. New or progressive deficits aur other red flags mein prompt reassessment chahiye.
+**C kyun galat hai:** Disc-related symptoms time ke saath improve ho sakte hain. Permanent inactivity appropriate general management nahi hai.
 
-**D kyun galat hai:** Disc-related symptoms time ke saath improve ho sakte hain. Permanent inactivity appropriate general management nahi hai.
+**D kyun sahi hai:** Gradual movement functional recovery support kar sakti hai. New or progressive deficits aur other red flags mein prompt reassessment chahiye.
 
 **Exam clue:** Uncomplicated back pain mein prolonged bed rest ke bajay tolerated activity maintain karo.
 
@@ -443,22 +443,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** A benign ganglion of the wrist
-- **B.** A simple isolated toe fracture
-- **C.** Acute shoulder subluxation
-- **D.** Lumbar spinal stenosis causing posture-dependent neurogenic claudication
+- **A.** Acute shoulder subluxation
+- **B.** Lumbar spinal stenosis causing posture-dependent neurogenic claudication
+- **C.** A simple isolated toe fracture
+- **D.** A benign ganglion of the wrist
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Lumbar spinal stenosis causing posture-dependent neurogenic claudication**
+**Correct answer: B. Lumbar spinal stenosis causing posture-dependent neurogenic claudication**
 
-**A kyun galat hai:** Wrist ganglion lower-limb posture-dependent symptoms explain nahi karta.
+**A kyun galat hai:** Shoulder subluxation upper-limb injury hai. Bilateral ya lower-limb walking-related symptoms se fit nahi karti.
 
-**B kyun galat hai:** Toe fracture usually focal foot pain produce karta hai. Sitting or lumbar flexion se leg symptoms relieve hona spinal mechanism suggest karta hai.
+**B kyun sahi hai:** Lumbar canal or nerve passage narrowing standing-extension mein symptoms provoke kar sakti hai aur flexion-sitting se relief mil sakta hai. Vascular claudication aur other causes bhi evaluate hote hain.
 
-**C kyun galat hai:** Shoulder subluxation upper-limb injury hai. Bilateral ya lower-limb walking-related symptoms se fit nahi karti.
+**C kyun galat hai:** Toe fracture usually focal foot pain produce karta hai. Sitting or lumbar flexion se leg symptoms relieve hona spinal mechanism suggest karta hai.
 
-**D kyun sahi hai:** Lumbar canal or nerve passage narrowing standing-extension mein symptoms provoke kar sakti hai aur flexion-sitting se relief mil sakta hai. Vascular claudication aur other causes bhi evaluate hote hain.
+**D kyun galat hai:** Wrist ganglion lower-limb posture-dependent symptoms explain nahi karta.
 
 **Exam clue:** Posture-dependent leg symptoms neurogenic claudication ka clue ho sakte hain.
 
@@ -472,18 +472,18 @@
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Herniated nucleus pulposus
-- **B.** Spondylolisthesis
+- **A.** Spondylolisthesis
+- **B.** Herniated nucleus pulposus
 - **C.** Scoliosis
 - **D.** Osteochondroma
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Spondylolisthesis**
+**Correct answer: A. Spondylolisthesis**
 
-**A kyun galat hai:** Disc herniation mein intervertebral disc material bulge ya protrude karta hai. Yahan entire vertebral translation describe hui hai.
+**A kyun sahi hai:** Spondylolisthesis mein vertebra adjacent vertebra ke relative slip karta hai, commonly forward. Symptoms aur stability severity par depend karte hain.
 
-**B kyun sahi hai:** Spondylolisthesis mein vertebra adjacent vertebra ke relative slip karta hai, commonly forward. Symptoms aur stability severity par depend karte hain.
+**B kyun galat hai:** Disc herniation mein intervertebral disc material bulge ya protrude karta hai. Yahan entire vertebral translation describe hui hai.
 
 **C kyun galat hai:** Scoliosis spine ki lateral curvature aur rotation hai. Isolated forward vertebral slip ka term nahi hai.
 
@@ -501,22 +501,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Scoliosis with vertebral rotation
-- **B.** Isolated loss of lumbar bone mineral density
-- **C.** Simple wrist sprain
-- **D.** Transtibial amputation
+- **A.** Transtibial amputation
+- **B.** Simple wrist sprain
+- **C.** Isolated loss of lumbar bone mineral density
+- **D.** Scoliosis with vertebral rotation
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Scoliosis with vertebral rotation**
+**Correct answer: D. Scoliosis with vertebral rotation**
 
-**A kyun sahi hai:** Scoliosis mein spine lateral curve aur rotation develop kar sakti hai. Rotation ki wajah se forward bend par rib prominence visible ho sakti hai. Specialist evaluation aur radiograph severity assess karte hain.
+**A kyun galat hai:** Transtibial amputation lower-limb loss hai. Given adolescent thoracic rotational sign ka appropriate diagnosis nahi hai.
 
-**B kyun galat hai:** Low bone mineral density alone typical rotational rib prominence explain nahi karti. Given asymmetry scoliosis assessment justify karti hai.
+**B kyun galat hai:** Wrist sprain localized wrist ligament injury hai. Spinal asymmetry explain nahi karti.
 
-**C kyun galat hai:** Wrist sprain localized wrist ligament injury hai. Spinal asymmetry explain nahi karti.
+**C kyun galat hai:** Low bone mineral density alone typical rotational rib prominence explain nahi karti. Given asymmetry scoliosis assessment justify karti hai.
 
-**D kyun galat hai:** Transtibial amputation lower-limb loss hai. Given adolescent thoracic rotational sign ka appropriate diagnosis nahi hai.
+**D kyun sahi hai:** Scoliosis mein spine lateral curve aur rotation develop kar sakti hai. Rotation ki wajah se forward bend par rib prominence visible ho sakti hai. Specialist evaluation aur radiograph severity assess karte hain.
 
 **Exam clue:** Scoliosis sirf side curve nahi, vertebral rotation bhi involve kar sakti hai.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Isolated local skin dryness as the sole explanation
-- **B.** Expected normal aging requiring no evaluation
-- **C.** An uncomplicated isolated ankle injury
-- **D.** Possible cervical myelopathy from spinal cord compression
+- **A.** An uncomplicated isolated ankle injury
+- **B.** Possible cervical myelopathy from spinal cord compression
+- **C.** Expected normal aging requiring no evaluation
+- **D.** Isolated local skin dryness as the sole explanation
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Possible cervical myelopathy from spinal cord compression**
+**Correct answer: B. Possible cervical myelopathy from spinal cord compression**
 
-**A kyun galat hai:** Skin dryness buttoning difficulty aur gait imbalance ka combined neurological pattern explain nahi karti.
+**A kyun galat hai:** Ankle injury gait affect kar sakti hai, lekin hand clumsiness explain nahi karti.
 
-**B kyun galat hai:** Aging alone progressive hand dexterity aur gait change ko safely explain nahi karta. Neurological evaluation important hai.
+**B kyun sahi hai:** Cervical myelopathy mein spinal cord compression upper limb dexterity aur walking balance dono affect kar sakti hai. Prompt clinician review progression aur urgent red flags assess karne ke liye zaroori hai.
 
-**C kyun galat hai:** Ankle injury gait affect kar sakti hai, lekin hand clumsiness explain nahi karti.
+**C kyun galat hai:** Aging alone progressive hand dexterity aur gait change ko safely explain nahi karta. Neurological evaluation important hai.
 
-**D kyun sahi hai:** Cervical myelopathy mein spinal cord compression upper limb dexterity aur walking balance dono affect kar sakti hai. Prompt clinician review progression aur urgent red flags assess karne ke liye zaroori hai.
+**D kyun galat hai:** Skin dryness buttoning difficulty aur gait imbalance ka combined neurological pattern explain nahi karti.
 
 **Exam clue:** Hand clumsiness plus gait change cervical cord involvement ka clue ho sakta hai.
 
