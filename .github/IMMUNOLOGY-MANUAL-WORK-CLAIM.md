@@ -1,8 +1,8 @@
 # Immunology, Allergy and Rheumatology chapter claim
 
-State: CLAIMED
-Owner: immunology-pr77-targeted-b01-20261128T1636Z
-Scope: isolated Bank01 targeted previously identified corrections and allergy concept package. No shared navigation or other chapter edits.
+State: FREE
+Owner: none
+Scope: PR77 Bank01 targeted corrections and concept package complete. No active writer.
 Claimed UTC: 2026-11-28T16:36:09Z
 Expiry UTC: 2026-11-28T17:06:09Z
 
@@ -24,3 +24,7 @@ Released own claim after exact candidate readback at b2af073ab5ea3941a7fc9f2074d
 ## Banks04–05 corrective checkpoint — 28 November 2026
 
 Released own claim after exact candidate readbacks at 7dda9c318cf1ad968aae1155391c8862da30d805 and d38d094e3b988ae0b72cb3135b6ad69fef5892b9. All 99 staged originals and 33/33/33 difficulty preserved. All 99 questions now bounded AI-reviewed, no external clinical certification. Review 7242340596. Next targeted outstanding corrections and semantic/difficulty checks, concepts/diagrams/curriculum/video, PR7/8 navigation, reconciliation and fresh CI. Do not repeat completed sequential reviews. No live credit, other ownership or schedule edits.
+
+## Targeted Bank01 and concept checkpoint — 28 November 2026
+
+Released own claim after exact readbacks at 5bc8d9817e8be3d43d491276d5f436a46b3b0753. Bank01 correction 317b5d024f53fea95a43ccb9aec4e9f6d688b86c, allergy guide 47bf8efb4b4836ab135b52ec1caf7ae0b8546a2e, diagram 5bc8d9817e8be3d43d491276d5f436a46b3b0753, teaching/practice video metadata with playback gaps. PR77 comment 7242385748. All 99 originals, 33/33/33 and 396 rationales preserved. No repeat of sequential review. Remaining four concepts/diagrams and targeted semantic/difficulty fixes, video/source/clinical clearance, navigation and fresh CI. No live credit. Other claims and all five schedules unchanged.
