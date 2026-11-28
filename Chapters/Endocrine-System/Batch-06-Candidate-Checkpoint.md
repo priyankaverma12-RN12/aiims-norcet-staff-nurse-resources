@@ -1,0 +1,3 @@
+# Endocrine Batch 06 partial candidate checkpoint
+
+Prior PR54 head baa85c4f053bc8c3245ec884f7d8bbbd708f420b preserved. This increment stages 14A only: 20 original MCQs (7 Easy, 7 Medium, 6 Difficult), 80 individual Roman Hinglish option rationales, 20 clues, one concept, one SVG, one evidence register. Cumulative 520 originals, 2080 rationales, 520 clues, 26 banks, 26 concepts, 26 SVGs and 26 evidence registers. Target 80 further genuinely distinct originals remains unfinished. Exact remote readback and CI to be checked after commit. No live, mock or PYQ credit. Independent clinical, source, semantic, curriculum, video, rendering, navigation, latest-main and CI gates remain open. No existing content or learner history changed.
