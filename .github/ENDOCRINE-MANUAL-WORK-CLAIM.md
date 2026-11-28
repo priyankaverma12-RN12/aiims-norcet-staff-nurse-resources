@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: endocrine-b06-14c-20261128T1615Z
-Scope: PR54 isolated new 14C diabetic autonomic neuropathy candidate package, no shared navigation or prior bank edits.
+Scope: PR54 isolated 14C completed and 14D distal symmetric diabetic peripheral neuropathy clinical assessment and pain management, 14E diabetes-specific oral health and dental coordination. No shared navigation or prior bank edits.
 Claimed UTC: 2026-11-28T16:15:00Z
 Expiry UTC: 2026-11-28T16:45:00Z
 
