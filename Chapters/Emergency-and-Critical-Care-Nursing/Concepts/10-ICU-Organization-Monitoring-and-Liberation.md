@@ -8,7 +8,7 @@
 
 ICU bed tab clinically useful hai jab trained staff, appropriate equipment aur required organ support available ho. Physical bed count alone safe capacity nahi batata. GPICS V3 mein duty ICU consultant aur nurse in charge safe bed utilization ka joint decision karte hain. Referral acceptance ya non-acceptance ka clinical decision aur ongoing plan document karna chahiye. Patient-specific escalation plan se next shift ko deterioration par appropriate action clear hota hai.
 
-Nurse, doctor, pharmacist, physiotherapist aur other relevant disciplines shared clinical goals set karte hain. ICU discharge par patient ki functional needs aur rehabilitation plan receiving team tak communicate karte hain.
+Nurse, doctor, pharmacist, physiotherapist aur other relevant disciplines shared clinical goals set karte hain. New ICU staff ko supervised protected learning aur competence assessment chahiye. UK GPICS V3 novice nurses ke liye 12 weeks supernumerary practice specify karta hai, transferable skills assessment ke baad adjustment possible hai. UK benchmark mein 11–20 beds par one aur 21–30 beds par two additional enhanced nurses direct-care nurses aur shift leader ke alawa hote hain. Actual acuity aur unit layout ke hisaab se extra staff bhi chahiye ho sakta hai. ICU discharge par patient ki functional needs aur rehabilitation plan receiving team tak communicate karte hain.
 
 ![Original ICU care overview](../Assets/icu-liberation-overview.svg)
 
@@ -26,7 +26,7 @@ E mein safe early mobility aur exercise consider hoti hai. Clinical stability au
 
 ## Safety aur quality monitoring
 
-Near miss report karne se system weakness actual harm se pehle identify ho sakti hai. Blame ke bajay contributing factors aur prevention barriers review karo. Device-associated infection surveillance ke liye consistent definitions aur exposure denominator chahiye. CDC NHSN CLABSI incidence density ka calculation eligible events divided by central-line days multiplied by 1000 hai. Example: 3 events and 750 line-days se rate 4 per 1000 line-days aata hai. Surveillance rate individual clinical diagnosis ka substitute nahi hai.
+Near miss report karne se system weakness actual harm se pehle identify ho sakti hai. Blame ke bajay contributing factors aur prevention barriers review karo. Device-associated infection surveillance ke liye consistent definitions aur exposure denominator chahiye. CDC NHSN CLABSI incidence density ka calculation eligible events divided by central-line days multiplied by 1000 hai. Calculation practice ko [existing IPC CLABSI bank](../../Infection-Control-and-Microbiology/MCQs/28-CLABSI-and-Vascular-Device-Infection-Prevention-40-MCQs.md) mein revise karo. Duplicate calculation questions Emergency bank mein count nahi kiye gaye. Surveillance rate individual clinical diagnosis ka substitute nahi hai.
 
 ## Evidence
 
