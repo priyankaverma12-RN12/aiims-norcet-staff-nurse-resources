@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b04-20261128-1159Z
+Scope: PR54 adult primary hypothyroidism treatment and thyroid clinical topic candidates only. No shared navigation or existing content changes.
+Claimed UTC: 2026-11-28T11:59:00Z
+Expiry UTC: 2026-11-28T12:29:00Z
 
 Last owner: endocrine-b03-20261128-0912Z
 Released: 2026-11-28 after isolated Batch 03 authoring, targeted correction and remote readback.
