@@ -184,3 +184,32 @@ Original SVG 15 XML parsed and CairoSVG rendered from local file with Git blob S
 | New live, mock-exclusive or authenticated PYQ credit | 0 |
 
 Next priority school-age nutrition and distinct elderly nutrition objectives after adjacent-lane screening, then current programme/food standards gaps. Preserve completed 06C/06D and 07A–C. Complete independent clinical, semantic, curriculum, evidence/video, PR7/8 navigation and exact candidate CI/rendering gates before safe integration. No other job, website, learner history or schedule changes.
+
+
+## Continuation — 07D School-age nutrition and school meals
+
+Baseline be7f8eae159093a04a480f95ca60959bfc9bb8eb. Acquired isolated candidate-only lease a6c51506d3b7eb93fe1f4e39671b9fb93486d5db with exact readback. Both complete skills and AGENTS/Copilot contents retrieved, relevant audit lessons and current claims reviewed. Fresh exhaustive historical audit reread and all manual scopes not certified. PR7/8 nutrition navigation overlap remains, no shared navigation changes. Active Child Health PR45 reserved and targeted adjacent 01A stem screen completed. Geriatric PR39 reserves separate elderly scope, must screen before any elderly questions.
+
+| Material | Commit | Blob |
+|---|---|---|
+| 20 original 07D MCQs, 80 rationales | 6acb1a113b51eaf50bac453f4577195144f5fac4 | 6fbd92c7a0bd99e09f472c557344ac7130e48f80 (initial) |
+| Two task replacements and balanced noncyclic keys | 04f1f2ab7526140ec81e9ed628b9e2ba1473aad4 | 232c4bc258edb36b4de4bc3553b945d2cfbdb0c3 |
+| Original SVG | 7550440407f2cbbd5659ca11ee4fd00cc115c0b7 | 3c4700e2eabe3ef63c68842cc01950125700f9d1 |
+| Guide 16 | e30eb6812dc46b0e4e5cb42f8a130f8fea40aec3 | 78fed7313ec4439e01756c786a8bfe9a4ef601e7 |
+
+All exact remote readbacks passed. Final structural audit: 20 unique stems, 80 English options, 80 separate option reasons, aligned correct text and letter, 20 closed answers, exam clues, source links and explicit item video gaps. Five answers per letter, all 20 Medium provisional. No semicolons. Exact normalized comparison against all 640 prior staged stems across four bounded groups of eight banks found zero matches. Targeted semantic review of 160 Nutrition stems in 03B/C/D, 05D, 06A, 07A/B/C plus 20 Child Health 01A stems. Replaced Q3 reference prescription interpretation with observed packaging barrier and Q14 education/access overlap with school rule implementation audit. Q1 family breakfast access vs Q18 institutional service timing, Q15 meal quality vs 03D Q2, Q17 garden experiential learning vs 07B methods remain independent semantic review priorities. No claim of exhaustive semantic novelty. Initial key pattern changed only in unattempted new draft before publication. Compare from baseline shows only three new chapter-local files before ledger, previous banks unchanged. SVG parsed and rendered locally from exact Git blob 3c4700e2eabe3ef63c68842cc01950125700f9d1, visually inspected without clipping.
+
+Sources: ICMR-NIN DGI 2024 Guideline 5 PDF text retrieved, screenshot attempt cache miss. WHO school food guideline chapter 4, CDC nutrition strategies, water access and time for lunch retrieved directly. AAP family guidance retrieved, clinical report indexed but direct journal access blocked. US benchmarks explicitly not Indian law. Q6 arithmetic 20-16=4 minutes. No independent clinician/dietitian signoff. Search for specific school-age concept and MCQ videos yielded only general nutrition teaching or unrelated results, no qualifying item coverage. All 20 video gaps retained. Full official INC/GNM/PB BSc mapping and India-wide exam research pending. No authenticated PYQ credit.
+
+| Material | Latest staged count |
+|---|---:|
+| Original MCQs | 660 |
+| Individual Roman Hinglish rationales | 2640 |
+| Topic banks | 33 |
+| Concept guides | 16 |
+| Original SVGs | 16 |
+| Separate live legacy originals | 4 |
+| Separate reported adaptation | 1 |
+| New live, mock-exclusive or authenticated PYQ credit | 0 |
+
+Next: distinct elderly nutrition objectives after PR39 and Nutrition screening, then actual programme/food-standard gaps. Full mandatory preflight, independent clinical/pharmacy and comprehensive semantic review, INC coverage, source and item-level videos, PR7/8 explicit navigation coordination, latest-main reconciliation and exact candidate CI/browser rendering remain before integration. No website, learner history or automation changes.
