@@ -69,3 +69,7 @@ Banks 07 and 08 reviewed, three learning tasks revised, 37 exam clues and relate
 ## Batch 09 evidence-based practice and research appraisal
 
 Banks 09 and 10 reviewed, three distinct replacement learning tasks and one trial-registration timing refinement, 37 exam clues and related references added. Earlier EBP Q12/Q13/Q20 preserved byte-for-byte. Fresh 300-question structural verification passed with balanced keys, 1200 options and rationales, zero normalized-stem duplicates and no structural errors. [Batch 09 corrective audit](../Concepts/Batch-09-EBP-and-Research-Appraisal-Corrective-Audit.md). Inventory remains 307 candidate slots. Independent review and publication gates pending. No new mock or live count credited.
+
+## Batch 10 literature and historical research
+
+Banks 11 and 12 Q1–20 reviewed. Four earlier literature corrections preserved byte-for-byte. Thirteen full option-rationale rewrites, seven further explanation improvements, two refined stems, 36 exam clues and related references added. Exact readbacks and changed-bank structure checks passed, all 300 normalized stems remain distinct. Other 13 banks and earlier concept/diagram/audit material unchanged. [Batch 10 corrective audit](../Concepts/Batch-10-Literature-and-Historical-Research-Corrective-Audit.md). Inventory remains 307 candidate slots, with independent review and publication gates pending. No new mock or live count credited.
