@@ -1,3 +1,8 @@
 # 12E non-Graves thyrotoxicosis evidence register
 
 20 candidate originals, 80 separate rationales. Endotext direct NCBI HTML retrieved for nodular autonomy and exogenous disease, Q01–02, Q04, Q13, Q18 and Q20. NICE NG145 direct NCBI text for Q05–06 and Q10. 2015 ETA guideline indexed abstract and recommendations for Q07–09. 2021 ETA iodine contrast guideline indexed specific recommendations for Q11–12, Q14–15 and Q17. 2016 ATA indexed guideline for Q03, Q16 and Q19. No universal contrast contraindication in emergency context asserted. Specific direct full-text review and local radiology protocols remain outstanding. Q01/Q03 screened conceptually against prior thyroid nodule functional work, Q08/Q09 require distinct objective assessment, Q16/Q17 distinguish scan interpretation from scheduling but require independent review. Q20 requires semantic screening against earlier destructive thyroiditis mechanism questions. No exact question-specific video established. No PYQ attribution or live credit. Independent clinical, semantic, curriculum, difficulty, rendering, navigation and CI remain pending.
+
+
+## Batch 04 overlap correction — supersedes earlier item mapping
+
+- Q20: Several members of successive generations have nonautoimmune hyperthyroidism, diffuse thyroid enlargement and persistently negative TSH receptor antibodies. Which molecular mechanism should the endocrine specialist consider in familial nonautoimmune hyperthyroidism? Source: [Endotext: Thyrotoxicosis of other etiologies](https://www.ncbi.nlm.nih.gov/books/NBK285562/). Item-specific video verification and independent clinical review remain pending.

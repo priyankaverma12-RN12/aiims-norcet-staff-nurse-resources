@@ -574,33 +574,33 @@ D. Tracheostomy decisions should reflect actual or impending airway compromise, 
 
 </details>
 
-### Q20. A patient with newly diagnosed anaplastic thyroid carcinoma chooses active disease-directed treatment. When should specialist palliative care be introduced?
+### Q20. Under AJCC eighth-edition staging, an adult has anaplastic thyroid carcinoma confined to the thyroid, without regional nodal involvement or distant metastasis. Which stage applies?
 
-**Difficulty:** Easy | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Never when targeted therapy is available
+A. Stage IVC
 
-B. Early alongside active treatment to address symptoms, communication and goals of care
+B. Stage IVA
 
-C. Only after every cancer treatment has stopped
+C. Stage I
 
-D. Only if the patient refuses all symptom medicines
+D. Stage IVB
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Early alongside active treatment to address symptoms, communication and goals of care**
+**Correct answer: B. Stage IVA**
 
-- **A — Incorrect:** Targeted therapy available hone par bhi pain, swallowing difficulty ya emotional concerns ho sakte hain. Supportive care concurrently useful hai.
-- **B — Correct:** Palliative care active oncology treatment ke saath symptoms, distress aur treatment goals support kar sakti hai. ATC mein early multidisciplinary involvement especially valuable hai.
-- **C — Incorrect:** Palliative care exclusively end-of-life service nahi hai. Active treatment ke dauran bhi benefit possible hai.
-- **D — Incorrect:** Symptom treatment palliative care ka part hai, uska refusal referral prerequisite nahi hai. Needs and goals evaluate hote hain.
+- **A — Incorrect:** Stage IVC distant metastatic disease ko represent karta hai. Is case mein M0 diya hai.
+- **B — Correct:** AJCC eighth edition mein anaplastic thyroid carcinoma ke sabhi cases stage IV category mein aate hain. Thyroid-confined, node-negative aur metastasis-negative disease stage IVA hai.
+- **C — Incorrect:** Stage I differentiated thyroid carcinoma ke selected cases mein ho sakta hai, lekin anaplastic histology mein AJCC eighth edition ka stage I nahi hota.
+- **D — Incorrect:** Stage IVB mein regional nodal involvement aur/or extrathyroidal extension ke patterns aate hain, distant metastasis ke bina. Is case mein dono absent hain.
 
-**Exam clue:** Palliative care and disease-directed treatment can coexist.
+**Exam clue:** Anaplastic carcinoma: AJCC eighth edition stage IVA when confined, N0 M0.
 
-**Clinical reference:** [2021 ATA anaplastic carcinoma guideline](https://journals.sagepub.com/doi/full/10.1089/thy.2020.0944)
+**Clinical reference:** [2021 ATA anaplastic thyroid cancer guideline](https://journals.sagepub.com/doi/full/10.1089/thy.2020.0944)
 
-**YouTube MCQ practice:** Individual coverage pending. See evidence register.
+**YouTube MCQ practice:** Individual item coverage pending. See evidence register.
 
 </details>
 

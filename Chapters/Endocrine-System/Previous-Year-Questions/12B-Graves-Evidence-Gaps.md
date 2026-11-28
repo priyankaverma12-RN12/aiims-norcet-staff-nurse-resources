@@ -1,3 +1,9 @@
 # 12B Graves disease evidence register
 
 20 candidate originals, 80 individual rationales. NICE NG145 NCBI full text directly retrieved: Q01–02, Q04, Q06–07, Q10–12, Q20. 2018 ETA guideline indexed recommendations: Q03, Q05, Q08–09. 2021 EUGOGO indexed recommendations and abstracts: Q13–19. Confirm detailed full-text item mapping and local nuclear medicine instructions independently before integration. Q05–06 require comparison with other agranulocytosis tasks. Q20 requires cross-chapter radiation safety comparison. Eye/ENT overlap remains to be independently screened before publication. [Nursing Wallah NORCET 10 Countdown](https://www.youtube.com/watch?v=BalA29k0tuM&t=695s), published Graves section 11:35, topic-level only. [Aarogyam Infinity Part 22](https://www.youtube.com/watch?v=YoaAH7iyJgM), broad endocrine MCQ lead. No exact item video coverage or playback certified. No historical attribution, no live credit. Independent clinical, semantic, INC, difficulty, rendering, navigation and CI gates pending.
+
+
+## Batch 04 overlap correction — supersedes earlier item mapping
+
+- Q05: An adult with recurrent Graves disease previously had confirmed carbimazole-associated acute pancreatitis. A new methimazole prescription is proposed. Which medication-safety action is appropriate before administration? Source: [UK MHRA carbimazole pancreatitis safety update](https://www.gov.uk/drug-safety-update/carbimazole-risk-of-acute-pancreatitis). Item-specific video verification and independent clinical review remain pending.
+- Q15: A smoker with Graves hyperthyroidism and mild active thyroid eye disease is selected for radioiodine after specialist risk-benefit assessment. Which preventive measure should the nurse expect the specialist to consider? Source: [2021 EUGOGO guideline](https://academic.oup.com/ejendo/article/185/4/G43/6654384). Item-specific video verification and independent clinical review remain pending.

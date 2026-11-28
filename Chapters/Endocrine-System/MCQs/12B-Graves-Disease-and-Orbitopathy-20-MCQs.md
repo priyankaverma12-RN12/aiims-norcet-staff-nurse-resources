@@ -124,31 +124,31 @@ D. Serial troponin in every asymptomatic patient
 
 </details>
 
-### Q05. A patient taking carbimazole develops fever and a painful sore throat. Which immediate instruction is most appropriate while urgent clinical assessment is arranged?
+### Q05. An adult with recurrent Graves disease previously had confirmed carbimazole-associated acute pancreatitis. A new methimazole prescription is proposed. Which medication-safety action is appropriate before administration?
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Continue all doses until the next scheduled thyroid panel
+A. Administer methimazole because changing the name removes the recurrence risk
 
-B. Take an extra carbimazole dose to reduce the fever
+B. Restart carbimazole at half dose without informing the prescriber
 
-C. Check TSH alone before reporting the symptoms
+C. Give both drugs on alternating days to prevent pancreatitis
 
-D. Withhold the drug and obtain an urgent blood count to assess possible agranulocytosis
+D. Flag the prescription for specialist review because methimazole is the active metabolite of carbimazole and re-exposure should be avoided
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Withhold the drug and obtain an urgent blood count to assess possible agranulocytosis**
+**Correct answer: D. Flag the prescription for specialist review because methimazole is the active metabolite of carbimazole and re-exposure should be avoided**
 
-- **A — Incorrect:** Next routine thyroid appointment tak wait karna infection risk ke context mein unsafe ho sakta hai. Prompt assessment needed hai.
-- **B — Incorrect:** Extra carbimazole fever treat nahi karti. Suspected serious adverse effect mein additional exposure avoid karna chahiye.
-- **C — Incorrect:** TSH thyroid axis assess karta hai, neutrophil count nahi. Urgent full blood count relevant hai.
-- **D — Correct:** Fever aur sore throat agranulocytosis ka warning sign ho sakte hain. Drug hold karke urgent blood count aur clinician assessment se potentially serious neutropenia identify hoti hai.
+- **A — Incorrect:** Sirf drug name badalne se active compound ka risk nahi hatata. Methimazole same active metabolite hai.
+- **B — Incorrect:** Half dose bhi re-exposure hai. Bina prescriber review restart karna safe nahi hai.
+- **C — Incorrect:** Dono medicines related hain. Alternate-day combination recurrence risk ko reliably prevent nahi karta.
+- **D — Correct:** Carbimazole body mein methimazole mein convert hota hai. Previous drug-associated acute pancreatitis ke baad dono se re-exposure avoid karna chahiye; nurse prescription clarify kare aur specialist alternative treatment decide kare.
 
-**Exam clue:** Fever or sore throat on thionamides requires urgent assessment.
+**Exam clue:** Previous carbimazole-associated pancreatitis: avoid related drug re-exposure.
 
-**Clinical reference:** [2018 ETA Graves guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC6140607/)
+**Clinical reference:** [UK MHRA carbimazole pancreatitis safety update](https://www.gov.uk/drug-safety-update/carbimazole-risk-of-acute-pancreatitis)
 
 **YouTube MCQ practice:** Individual item coverage pending. See evidence register.
 
@@ -424,29 +424,29 @@ D. Daily pressure on the protruding globe
 
 </details>
 
-### Q15. A patient with Graves orbitopathy develops new reduction in visual acuity and impaired color perception. Which action is most appropriate?
+### Q15. A smoker with Graves hyperthyroidism and mild active thyroid eye disease is selected for radioiodine after specialist risk-benefit assessment. Which preventive measure should the nurse expect the specialist to consider?
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Wait until proptosis reaches a fixed measurement before escalating
+A. Stopping all thyroid monitoring after radioiodine
 
-B. Urgent ophthalmic assessment for possible dysthyroid optic neuropathy
+B. Oral glucocorticoid prophylaxis against worsening orbitopathy
 
-C. Schedule routine annual review because visual changes are expected
+C. Routine long-term antibiotic prophylaxis
 
-D. Advise the patient to increase lubricant frequency as the only response
+D. High-dose iodine supplements to protect the orbit
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Urgent ophthalmic assessment for possible dysthyroid optic neuropathy**
+**Correct answer: B. Oral glucocorticoid prophylaxis against worsening orbitopathy**
 
-- **A — Incorrect:** Optic neuropathy severe visible proptosis ke bina bhi possible hai. Fixed proptosis cutoff ka wait mat karo.
-- **B — Correct:** New acuity loss aur color vision change optic nerve compromise ke concerning signs ho sakte hain. Sight-threatening disease mein urgent specialist assessment essential hai.
-- **C — Incorrect:** Annual review new visual impairment ke liye unsafe delay ho sakti hai. Prompt action vision preserve karne mein important hai.
-- **D — Incorrect:** Lubricants surface symptoms help kar sakte hain, optic nerve compression treat nahi karte. Urgent assessment required hai.
+- **A — Incorrect:** Radioiodine ke baad thyroid function follow-up zaroori hai. Uncontrolled hypothyroidism bhi eye disease risk ko affect kar sakta hai.
+- **B — Correct:** Radioiodine kuch at-risk patients mein orbitopathy worsen kar sakta hai. Smoking aur existing eye disease risk factors hain; specialist oral prednisone ya prednisolone prophylaxis consider karta hai, individual contraindications ke saath.
+- **C — Incorrect:** Orbitopathy autoimmune inflammation hai. Routine antibiotics is risk ko prevent nahi karte.
+- **D — Incorrect:** Iodine supplements radioiodine uptake aur treatment ko affect kar sakte hain. Yeh orbital inflammation ki recommended prophylaxis nahi hai.
 
-**Exam clue:** New color or acuity loss is a sight-threatening warning.
+**Exam clue:** At-risk radioiodine recipients: assess steroid prophylaxis.
 
 **Clinical reference:** [2021 EUGOGO guideline](https://academic.oup.com/ejendo/article/185/4/G43/6654384)
 

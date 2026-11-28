@@ -574,33 +574,33 @@ D. A high TSH despite elevated free hormones as the defining pattern
 
 </details>
 
-### Q20. A patient with proven exogenous thyrotoxicosis from excessive thyroid-containing supplements is being assessed for a thionamide prescription. Which treatment issue should the nurse clarify?
+### Q20. Several members of successive generations have nonautoimmune hyperthyroidism, diffuse thyroid enlargement and persistently negative TSH receptor antibodies. Which molecular mechanism should the endocrine specialist consider in familial nonautoimmune hyperthyroidism?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Every exogenous hormone exposure requires indefinite antithyroid therapy
+A. An inactivating thyroid peroxidase variant causing defective hormone synthesis
 
-B. Radioactive iodine always removes the ingested hormone from the circulation
+B. A blocking TSH receptor antibody causing receptor inhibition
 
-C. Blocking new thyroid hormone synthesis does not address the main exogenous source, so the clinician should manage exposure and clinical symptoms
+C. An activating germline TSH receptor variant
 
-D. Thionamides directly neutralize all ingested circulating T4
+D. A somatic variant confined to one isolated thyroid nodule as the explanation for inheritance across generations
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. Blocking new thyroid hormone synthesis does not address the main exogenous source, so the clinician should manage exposure and clinical symptoms**
+**Correct answer: C. An activating germline TSH receptor variant**
 
-- **A — Incorrect:** Exogenous source identify hone par treatment actual severity aur exposure par depend karta hai. Indefinite synthesis blockade routine need nahi hai.
-- **B — Incorrect:** RAI thyroid tissue target karti hai, circulating ingested hormone directly clear nahi karti. Correct mechanism-based treatment important hai.
-- **C — Correct:** Exogenous hormone already body mein enter ho chuka hota hai. Thionamide synthesis blockade external source directly correct nahi karti, so source removal aur symptom-specific care clinician plan karta hai.
-- **D — Incorrect:** Thionamide circulating T4 ko neutralize nahi karti. Yeh thyroid follicular new synthesis inhibit karti hai.
+- **A — Incorrect:** Inactivating TPO variant hormone synthesis impair karta hai. Yeh constitutive receptor activation se hone wale familial hyperthyroidism ka mechanism nahi hai.
+- **B — Incorrect:** Blocking antibody receptor signaling inhibit karti hai. Yeh described inherited activating mechanism nahi hai.
+- **C — Correct:** Activating germline TSH receptor variant receptor signaling ko TSH stimulation ke bina bhi active kar sakta hai. Germline inheritance multigenerational nonautoimmune hyperthyroidism ko explain kar sakti hai.
+- **D — Incorrect:** Somatic variant ek tissue clone mein confined hota hai. Ek isolated nodule ka variant multigenerational inherited pattern ko explain nahi karta.
 
-**Exam clue:** Exogenous source requires exposure-based management, not automatic synthesis blockade.
+**Exam clue:** Familial nonautoimmune hyperthyroidism: activating germline TSHR variant.
 
-**Clinical reference:** [Endotext thyrotoxicosis of other etiologies](https://www.ncbi.nlm.nih.gov/books/NBK285562/)
+**Clinical reference:** [Endotext: Thyrotoxicosis of other etiologies](https://www.ncbi.nlm.nih.gov/books/NBK285562/)
 
-**YouTube MCQ practice:** Individual coverage pending. See evidence register.
+**YouTube MCQ practice:** Individual item coverage pending. See evidence register.
 
 </details>
 
