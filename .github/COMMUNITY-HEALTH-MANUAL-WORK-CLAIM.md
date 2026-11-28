@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b05-20261128-1043Z
+Scope: PR61 Batch05 only: HIV/STI service linkage, viral hepatitis programme prevention and linkage (not specialist management), lymphatic filariasis elimination, kala-azar surveillance, rabies community prevention (not acute PEP bank). No PR62 or navigation edits.
+Claimed UTC: 2026-11-28T10:43:18Z
+Expiry UTC: 2026-11-28T11:13:18Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
