@@ -8,22 +8,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Enroll because the signed form is legally sufficient in every situation
-- **B.** Ask another participant to sign the same form
-- **C.** Withhold routine care until the participant understands
+- **A.** Repeat the signature procedure without checking understanding
+- **B.** Give the participant the written form again and enroll immediately
+- **C.** Ask a family member to consent despite the participant retaining capacity
 - **D.** Re-explain the study in understandable language and check comprehension
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Re-explain the study in understandable language and check comprehension**
 
-**D.** Signature alone adequate consent prove nahi karti. Participant ko purpose, procedures, risks, benefits aur choices samajhne chahiye before voluntary enrollment.
+**D.** Research purpose, procedures, risks, possible benefits, alternatives aur refusal ka right simple language mein explain karo. Teach-back jaise neutral method se understanding check karo. Voluntary informed decision ke baad hi enrollment karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Signed document consent process ka record hai, understanding ka automatic proof nahi. Comprehension check zaroori hai.
-- **B.** Another participant ka signature consent replace nahi karta. Participant-specific capacity and understanding assess karo.
-- **C.** Routine care ko enrollment se link karna pressure create karta hai. Clinical care research participation se separate rehni chahiye.
+- **A.** Signature repeat karne se documentation milti hai, understanding establish nahi hoti. Agar participant procedure explain nahi kar pa raha, toh researcher ko communication aur comprehension improve karni chahiye.
+- **B.** Written information helpful hai, lekin sirf form dena informed consent complete nahi karta. Enrollment se pehle questions answer karo aur participant ki understanding assess karo.
+- **C.** Family support useful ho sakta hai, lekin capable adult ki own decision replace nahi karni chahiye. Capacity concern ho toh approved assessment process follow karo.
+
+**Exam clue:** Consent signature se zyada understanding aur free choice important hai.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -49,6 +53,10 @@
 - **B.** Performance review ke time participation request professional pressure badhati hai. Recruitment assessment process se separate hona chahiye.
 - **C.** Refusal justify karne ki requirement perceived consequences create kar sakti hai. Participant ko freely decline karne do.
 - **D.** Vulnerability ko address karne ke liye safeguards use ho sakte hain. Automatic blanket exclusion equitable inclusion ko undermine kar sakta hai.
+
+**Exam clue:** Dependent relationship mein independent qualified consent seeker use karo.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -104,6 +112,10 @@
 - **C.** Economic disadvantage ko more invasive burden assign karna unjust and potentially exploitative hai. Fair risk distribution and scientific justification required hain.
 - **D.** Publication attractiveness participant welfare ke upar priority nahi honi chahiye. Method selection research question and proportional risk ke according karo.
 
+**Exam clue:** Scientifically equivalent less burdensome method choose karo.
+
+**Related concept reference:** [ICMR Bioethics Unit official FAQ](https://ethics.ncdirindia.org/Fre_AQ.aspx). Direct HTML reviewed. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -129,6 +141,10 @@
 - **C.** Sample size important ho sakta hai but economically vulnerable group ko exploit karna separate ethical violation hai.
 - **D.** Reciprocity participant contributions acknowledge karne se related hai. Vulnerability ka convenience ke liye use reciprocity nahi hai.
 
+**Exam clue:** Vulnerability ko convenience ke liye exploit mat karo.
+
+**Related concept reference:** [ICMR Bioethics Unit official FAQ](https://ethics.ncdirindia.org/Fre_AQ.aspx). Direct HTML reviewed. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -146,13 +162,17 @@
 
 **Correct: A. Whether the payment creates undue influence on risk-related decisions**
 
-**A.** Payment reasonable inconvenience reimbursement ho sakta hai, lekin excessive incentive risk appraisal distort kar sakta hai. EC amount, context aur consent safeguards assess karegi.
+**A.** Travel expenses ka reimbursement aur time/inconvenience ke liye reasonable payment acceptable ho sakte hain. Lekin disproportionate incentive risk appraisal distort kar sakta hai. ICMR sections 2.5.4–2.5.5 mein EC payment amount aur process review karti hai. EC amount, context aur consent safeguards assess karegi.
 
 **Baaki options kyun galat hain?**
 
 - **B.** Financial benefit unfavorable risk-benefit balance ko justify nahi karta. Scientific and ethical review still required hai.
 - **C.** Reasonable reimbursement or compensation ethically acceptable ho sakti hai under applicable guidance. Blanket ban appropriate nahi hai.
 - **D.** Payment voluntary informed decision ka substitute nahi hai. Participants ko decline karne ka genuine option chahiye.
+
+**Exam clue:** Payment risk-benefit justification ya consent replace nahi karti.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -200,13 +220,17 @@
 
 **Correct: C. Seek the participant's own informed consent for continued participation**
 
-**C.** Capacity return hone par person ko own informed decision ka opportunity do. Approved protocol aur law ke according continued participation discuss karo.
+**C.** Capacity return hone par person ko own informed decision ka opportunity do. ICMR section 5.8 ke according mental competence regain hone par re-consent required hai. Participant ko continued participation ke baare mein independently decide karne do.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Representative process current incapacity address karta hai. Capacity regain hone par autonomous choice reassess karni chahiye.
 - **B.** Capacity return confidentiality obligations end nahi karti. Disclosure authorized purpose aur consent ke according hona chahiye.
 - **D.** Data handling applicable consent, protocol aur law par depend karti hai. Automatic deletion every scenario mein required nahi hai.
+
+**Exam clue:** Capacity regain hone par participant se own consent lo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -225,7 +249,7 @@
 
 **Correct: C. A scientifically necessary, applicable-law-compliant pathway explicitly approved in the research protocol by the ethics committee**
 
-**C.** Emergency research exception narrowly defined hona chahiye. Ethics approval, legal conditions, safeguards aur later consent process prospectively specified hone chahiye.
+**C.** Emergency research exception narrowly defined hona chahiye. Ethics approval, legal conditions, safeguards aur later consent process prospectively specified hone chahiye. WMA paragraph 30 mein inability to consent study population ki necessary characteristic honi chahiye. Representative unavailable aur research delay impossible ho, tab bhi approved protocol aur applicable law required hain. Consent earliest feasible opportunity par seek karo.
 
 **Baaki options kyun galat hain?**
 
@@ -233,30 +257,38 @@
 - **B.** Ease or speed alone sufficient justification nahi hai. Vulnerability aur risk-benefit assess karne hote hain.
 - **D.** Later information and consent when feasible ethical safeguards hain. Protocol mein follow-up process clear hona chahiye.
 
+**Exam clue:** Emergency pathway pehle approve aur legally justified honi chahiye.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q10. A nursing scholar has departmental permission to recruit patients but has not obtained required institutional ethics committee approval. What is the appropriate action?
+### Q10. An investigator plans a minimal-risk nursing survey and believes it qualifies for exemption from ethics review. Under ICMR 2017 section 4.8.3, who should determine the applicable review category?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Begin recruitment and seek ethics approval after data collection
-- **B.** Treat verbal permission from a colleague as ethics approval
-- **C.** Recruit only patients who are friendly with the investigator
-- **D.** Obtain required ethics approval before research recruitment
+- **A.** The investigator alone, because the survey is minimal risk
+- **B.** The department head acting solely in an administrative role
+- **C.** The study statistician, based on sample size
+- **D.** The ethics committee through its applicable screening and review process
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Obtain required ethics approval before research recruitment**
+**Correct: D. The ethics committee through its applicable screening and review process**
 
-**D.** Departmental administrative permission aur ethical review different functions hain. Required EC approval before human participant research obtain karo.
+**D.** ICMR section 4.8.3 ke according exemption, expedited ya full review ki category EC ke applicable process se decide hoti hai. Researcher ko proposal submit karna aur exemption ka justification dena chahiye. Minimal risk ko automatic self-exemption mat samjho.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Retrospective approval initial risk aur consent problems prevent nahi karegi. Prior review requirement bypass nahi karni chahiye.
-- **B.** Colleague approval independent committee review ka substitute nahi hai. Formal documented pathway follow karo.
-- **C.** Familiarity approval replace nahi karti aur selection bias bhi introduce kar sakti hai.
+- **A.** Researcher exemption justify karne ke liye request kar sakta hai, lekin khud final review category decide nahi kar sakta. ICMR mein proposal EC ko submit karna chahiye.
+- **B.** Department permission operational access ke liye important ho sakti hai. Administrative head ka decision independent EC review ka substitute nahi hai.
+- **C.** Sample size scientific review ka ek component hai. Ethics review category risk aur participant safeguards jaise factors par depend karti hai, statistician alone decide nahi karta.
+
+**Exam clue:** Review category EC decide karti hai, researcher khud nahi.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -275,13 +307,17 @@
 
 **Correct: B. Obtain required ethics review of the amendment and appropriate updated consent before implementation**
 
-**B.** Additional sampling risk, burden aur purpose change karta hai. Amendment approval aur relevant consent updated hona chahiye before planned procedure.
+**B.** Additional sampling risk, burden aur purpose change karta hai. ICMR 4.8 aur 5.8 ke according altered-risk amendment EC review aur material procedure change re-consent require kar sakta hai. Planned sampling approval aur relevant updated consent se pehle start mat karo.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Original approval sirf reviewed activities cover karta hai. New material procedure unauthorized ho sakta hai.
 - **C.** Participants ko material changes transparent manner mein batane chahiye. Unapproved change consent validity undermine karta hai.
 - **D.** Publication intention research procedure ka ethical requirement remove nahi karti. Participant protections still apply.
+
+**Exam clue:** Material change ke liye amendment review aur re-consent check karo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -291,22 +327,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Ensure immediate clinical assessment and safety, then promptly report through required protocol and regulatory channels
-- **B.** Wait for statistical analysis to determine whether the event is significant
-- **C.** Remove the event from the study record if causality is uncertain
-- **D.** Continue all procedures without reassessing the participant's risk
+- **A.** Ensure immediate clinical assessment and safety, and promptly report through applicable channels
+- **B.** Wait until causality is definitively established before reporting
+- **C.** Record the event only in the final study report
+- **D.** Continue the study procedures pending a scheduled review
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Ensure immediate clinical assessment and safety, then promptly report through required protocol and regulatory channels**
+**Correct: A. Ensure immediate clinical assessment and safety, and promptly report through applicable channels**
 
-**A.** Participant welfare first hai. Appropriate treatment ke baad event document aur investigator, EC or regulator ko applicable timelines mein report karo.
+**A.** Participant ki urgent assessment aur necessary care first priority hai. Saath hi reporting delay nahi honi chahiye. ICMR 2017 section 2.6.1 mein researcher ko SAE ki knowledge se 24 hours ke andar EC report aur relatedness report 14 days ke andar submit karne ka provision hai. CDSCO-regulated trials mein current applicable regulatory timelines aur procedures follow karo.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Individual serious event urgent assessment demand karta hai. Statistical significance ka wait unsafe hai.
-- **C.** Causality uncertainty event reporting ko automatically cancel nahi karti. Accurate record and required assessment important hain.
-- **D.** Unexpected serious event risk-benefit reassessment trigger kar sakta hai. Safety review aur protocol guidance follow karo.
+- **B.** Causality initially uncertain ho sakti hai. SAE report ko definitive causality determination tak delay karna required safety oversight ko weaken karta hai. Relatedness later evaluate ho sakti hai.
+- **C.** Final report tak wait karne se EC ko ongoing risk reassessment ka timely opportunity nahi milega. Event contemporaneously document aur required timeline mein report karo.
+- **D.** Serious unexpected event ke baad participant risk reassess karna chahiye. Ongoing procedures ko applicable safety protocol ke according modify ya hold karne ki zaroorat ho sakti hai. Scheduled review ka wait urgent care ka substitute nahi hai.
+
+**Exam clue:** Safety first, SAE reporting timelines parallel mein follow karo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -333,6 +373,10 @@
 - **C.** Additional disclosure confidentiality harm increase karegi. Equal treatment ka meaning further exposure nahi hai.
 - **D.** Concealment harm mitigation delay kar sakta hai. Responsible reporting participant protection ka part hai.
 
+**Exam clue:** Breach containment aur authorized escalation delay mat karo.
+
+**Related concept reference:** [ICMR Bioethics Unit official FAQ](https://ethics.ncdirindia.org/Fre_AQ.aspx). Direct HTML reviewed. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -350,13 +394,17 @@
 
 **Correct: C. The placebo design exposes participants to unacceptable avoidable risk**
 
-**C.** Proven intervention withdraw karke serious irreversible harm risk introduce karna ethically unacceptable ho sakta hai. Appropriate comparator and independent review needed hain.
+**C.** Proven intervention withdraw karke serious irreversible harm risk introduce karna is scenario mein ethically unacceptable hai. WMA paragraph 33 mein proven intervention ke comparison ka general rule hai; methodological exception bhi serious ya irreversible harm ke additional risk ko permit nahi karti. Appropriate comparator and independent review needed hain.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Randomization placebo requirement nahi banati. Active comparator trials bhi valid and ethical ho sakte hain.
 - **B.** Placebo-controlled research mein bhi informed consent necessary hai unless narrow approved exception applies. Participants ko assignment uncertainty samjhao.
 - **D.** Blinding bias reduce karta hai but unacceptable harm justify nahi karta. Risk-benefit independent requirement hai.
+
+**Exam clue:** Proven therapy withhold karke serious irreversible harm ka additional risk unacceptable hai.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -366,22 +414,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Hide the interest if the device appears beneficial
-- **B.** Allow the company to suppress unfavorable outcomes
-- **C.** Assume every financially linked researcher must be permanently excluded from research
+- **A.** Disclose the interest only after favorable study results are known
+- **B.** Delegate the analysis to the device company without independent oversight
+- **C.** Exclude the investigator automatically without assessing the nature of the conflict
 - **D.** Disclose the interest and follow an independently reviewed conflict-management plan
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Disclose the interest and follow an independently reviewed conflict-management plan**
 
-**D.** Financial interest judgment influence kar sakta hai. Transparent disclosure, oversight aur appropriate management participant trust aur scientific integrity support karte hain.
+**D.** ICMR section 2.8 mein financial aur nonfinancial secondary interests ke influence ko identify, disclose aur mitigate karna important hai. Independent EC review, suitable role separation aur reporting safeguards participant welfare aur evidence integrity protect karte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Benefit expectation conflict ko remove nahi karti. Relevant interest disclose karna important hai.
-- **B.** Selective suppression evidence distort karti hai. Publication and reporting independence protect karni chahiye.
-- **C.** Conflict magnitude aur management context-dependent hai. Some conflicts exclusion require kar sakte hain, but blanket rule universal nahi hai.
+- **A.** Conflict outset par declare karna chahiye, result favorable ho ya unfavorable. Late disclosure independent review aur participant information ko undermine kar sakti hai.
+- **B.** Sponsor analysis support de sakta hai, lekin independent oversight aur reporting integrity zaroori hain. Company ko unfavorable results suppress karne ki authority nahi milni chahiye.
+- **C.** Kuch conflicts mein investigator role restrict ya remove karna necessary ho sakta hai. Lekin automatic exclusion har case ke liye required nahi. EC nature aur severity assess karke mitigation decide karti hai.
+
+**Exam clue:** Conflict disclose karo aur independent management plan follow karo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -408,6 +460,10 @@
 - **C.** Post-trial provisions beneficial and reasonably safe intervention aur ongoing need context se related hain. Unconditional lifetime promise accurate nahi hai.
 - **D.** Advance planning and transparent consent required considerations hain. Threat ke baad discussion adequate prospective arrangement nahi hai.
 
+**Exam clue:** Post-trial access arrangements advance mein plan aur disclose karo.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -425,13 +481,17 @@
 
 **Correct: B. Check consent scope and obtain required ethics authorization and new consent or an approved lawful waiver where justified**
 
-**B.** Secondary use original permission aur applicable rules ke according assess karo. Different purpose ke liye new consent or narrow approved waiver necessary ho sakta hai.
+**B.** Secondary use original permission aur applicable rules ke according assess karo. ICMR 11.4.3 aur Box 11.4 ke according EC original collection aur consent circumstances examine karti hai, phir case-by-case anonymization, re-consent ya justified waiver decide karti hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Storage blanket authorization nahi hai. Privacy, consent scope and ethics review matter karte hain.
 - **C.** De-identification risk reduce karti hai, but permitted use and oversight questions remain context-dependent. Automatic exemption assume mat karo.
 - **D.** Technician operational access de sakta hai but consent and independent ethics review ka replacement nahi hai.
+
+**Exam clue:** Original consent scope secondary sample use ke liye check karo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -457,6 +517,10 @@
 - **A.** Leader permission individual autonomy replace nahi karti. Consent requirements research type aur applicable approved process par depend karte hain.
 - **B.** Consent all eligible individuals ke liye consistent hona chahiye. Agreement presume karke selection mat karo.
 - **D.** Community approval compulsory individual participation ka authority nahi hai. Research voluntary rehni chahiye.
+
+**Exam clue:** Community permission individual voluntary consent replace nahi karti.
+
+**Related concept reference:** [WMA Declaration of Helsinki 2024](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). Direct HTML retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -511,6 +575,10 @@
 - **A.** Random allocation scientific comparison support karti hai, not individualized treatment optimization. Aisa assurance misleading hai.
 - **B.** Misunderstanding exploit karna informed consent undermine karta hai. Comprehension correct karna ethical responsibility hai.
 - **C.** Cost information relevant ho sakti hai but allocation misunderstanding resolve nahi karti. Research and clinical care difference discuss karo.
+
+**Exam clue:** Research aur individualized clinical treatment ka distinction explain karo.
+
+**Related concept reference:** [ICMR 2017 national ethical guidelines](https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf). Extracted official text reviewed, screenshot cache miss. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
