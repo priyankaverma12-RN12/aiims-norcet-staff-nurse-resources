@@ -201,7 +201,7 @@
 
 **Exam clue:** Midfoot symptoms with fifth metatarsal base tenderness need foot-fracture assessment.
 
-**Clinical reference:** [ACR acute trauma to the ankle](https://acsearch.acr.org/docs/70546/Narrative/). Indexed clinical evidence, independent item-level review pending.
+**Clinical reference:** [ACR acute trauma to the foot](https://acsearch.acr.org/docs/70546/Narrative/). Indexed clinical evidence, independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
