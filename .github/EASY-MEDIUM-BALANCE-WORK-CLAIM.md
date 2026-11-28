@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: ACTIVE
-Owner: easy-medium-ipc-b04-20261128T131009Z
-Scope: PR68 IPC supplementary CSSD and precautions banks only
-Claimed UTC: 2026-11-28T13:10:09Z
-Expiry UTC: 2026-11-28T13:40:09Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -19,3 +19,7 @@ Own claim acquired 487c2bd811a9e3565768653b9ce38dc492eab6df, released now. PR68 
 ## Verified Batch 03 checkpoint — 28 November 2026
 
 Own claim acquired 67291dbf0ebea5e0aa10cba1c790960d8290803a, released now. PR68 head 87e0cf4362302d13438964c04902e121347558e5. New banks: routine hand hygiene 63dc0bd07413d7145d8002bdcbf1ce74078afbbf, CSSD 46c997e6480830d6aa211e885d81bc4f177d9e07, equipment disinfection 158f3990df6d13f5e5779e35756221b495c1d90a, monitoring ffee2a12cb76ccd062d2ee8d2a1158489b93a0a5, cleaning basics 87e0cf4362302d13438964c04902e121347558e5. 30 new originals (27 Easy, 3 Medium), 120 individual Roman Hinglish rationales and 30 exam clues. All five exact readbacks passed. All eight final expected blobs matched, 48 distinct normalized stems, 48 aligned keys and closed details. Cumulative 48 originals (45 Easy, 3 Medium), 192 rationales, 48 clues, 8 banks. Prior 18 unchanged. WHO and CDC guidance retrieved and applied. Related live bank stems screened with bounded comparison only, not exhaustive repository semantic certification. Combined topic distribution E/M/D: routine 18/19/21, surgical 6/15/15 (unchanged this run), CSSD 5/10/21, equipment disinfection 4/9/23, monitoring 6/8/7, sterilization basics 6/17/23. Surgical additions deferred to avoid overlapping objectives; revisit after fresh objective research. Next recheck Nursing Foundations ownership, then remaining IPC deficits and standard precautions. Full independent clinical/semantic review, video mapping, navigation and CI pending. No live credit, no mock changes, no schedule changes. Preserve other sessions and all five hourly automations.
+
+## Verified Batch 04 checkpoint — 28 November 2026
+
+Own claim acquired edd994fc5844f78d166961cb8658cbfe3e59ce7c, released now. PR68 head 4593985eb81c8f40303b19b722265c94eff88d9d. Five new banks: CSSD packaging fe6ebd14721e2c1de7f11f4d05784a4a7c561e0a; standard precautions 9598074d4d61a2691ad94a2b1229861dfb69dc55; selected transmission cdf7c9125e9b0f379adf17a5d772a4bc142cc5a5; PPE d60daa7b82cf634ddc76af0d0459c4af617e1bcc; isolation-room and transfer 4593985eb81c8f40303b19b722265c94eff88d9d. 30 new originals (24 Easy, 6 Medium), 120 individual Roman Hinglish rationales, 30 clues. Exact readbacks passed for all five. All 13 final expected blobs matched and eight prior unchanged. 30 new normalized stems distinct, aligned answers, four option rationales and closed hidden blocks. Cumulative 78 originals (69 Easy, 9 Medium), 312 rationales, 78 clues, 13 banks. CDC direct source pages retrieved; bounded related-bank screening only. Combined E/M/D CSSD 9/12/21, standard 6/14/16, selected transmission 5/6/15, PPE 6/8/12, general precautions 3/22/21. Surgical preparation deferred to avoid padding. Check Nursing Foundations first, otherwise further distinct IPC deficiencies and biomedical waste and occupational exposure in order. PR69/70 policy candidates observed open, no changes made. Independent clinical/semantic, video, navigation and CI pending; no live credit. No mock edits or schedule changes. Preserve all other sessions, learner history and five hourly automations.
