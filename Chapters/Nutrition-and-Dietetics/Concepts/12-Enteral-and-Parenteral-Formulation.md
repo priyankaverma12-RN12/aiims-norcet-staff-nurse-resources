@@ -16,22 +16,43 @@ ESPEN HEN 2022 guideline stable home nutrition patients mein standard commercial
 
 ## Parenteral formulation and pharmaceutical safety
 
-PN nutrients IV route se provide karti hai when clinically indicated. Macronutrient components amino acids, dextrose and lipid emulsions hain. Electrolytes, vitamins, trace elements and fluid requirements separately assessed hote hain. Three-in-one or all-in-one admixture combines the macronutrient components in one compatible final bag. Ready-to-use multi-chamber products and individualized compounded formulations both available ho sakti hain. Patient-specific prescription and pharmaceutical compatibility data determine choice.
+Parenteral nutrition (PN) ka matlab hai ki patient ko nutrients vein ke through diye jaate hain jab clinical team ko oral ya enteral route se zaroorat poori karna mumkin ya safe nahi lagta. Ismein dextrose se energy, amino acids se protein banane ke liye material aur lipid emulsion se energy aur essential fatty acids milte hain. Essential fatty acids woh fats hain jinhe body khud sufficient amount mein nahi bana sakti. Fluid, electrolytes, vitamins aur trace elements ki zaroorat bhi alag se assess ki jaati hai.
+
+Three-in-one ya all-in-one (AIO) bag mein dextrose, amino acids aur lipid emulsion ek compatible final admixture mein hote hain. Ready-to-use multi-chamber product har patient ke liye automatically suitable nahi hota. Agar standard product se patient ki individual needs safely poori nahi ho rahi hain, toh nutrition team customized prescription consider karti hai. Pharmacy team formulation ki compatibility aur stability verify karti hai. Nurse current prescription aur patient identity ke saath label check karti hai.
 
 ### Exam arithmetic
 
-- IV dextrose 3.4 kcal/g reference: 180 g provides 612 kcal.
-- Amino acid energy approximately 4 kcal/g: 80 g provides 320 kcal in total energy accounting.
-- IV lipid energy product-specific: if a hypothetical label states 2 kcal/mL, 250 mL provides 500 kcal.
-- Nonprotein energy is dextrose plus lipid energy. Total energy also accounts for amino acid energy.
-- Conventional protein-equivalent to nitrogen factor 6.25 is an approximation. Actual amino acid product nitrogen label is preferable.
-- Glucose infusion rate (mg/kg/min) = dextrose grams times 1000 divided by body weight in kg and infusion minutes. For 180 g, 60 kg, 24 h, result 2.08 mg/kg/min. Same mass delivered over half the time doubles average infusion rate. This is arithmetic, not a safe-rate prescription.
+Ye examples sirf calculation practice ke liye hain. Inse kisi patient ki dose ya safe rate prescribe nahi hota.
+
+| Calculation | Samajhne ka tarika |
+|---|---|
+| IV dextrose energy | Question mein 3.4 kcal/g diya ho toh 180 g × 3.4 = 612 kcal milti hain. Oral carbohydrate ka 4 kcal/g factor yahan use mat karo. |
+| Amino acid energy | Agar 4 kcal/g assume karte hain toh 80 g × 4 = 320 kcal hoti hain. Yeh energy total calorie calculation mein count hoti hai. |
+| IV lipid energy | Agar specific product label 2 kcal/mL batata hai toh 250 mL × 2 = 500 kcal hoti hain. Har lipid product ka label alag se check karna hai. |
+| Nonprotein energy | Dextrose aur lipid ki energy add karo. Amino acids ki energy total energy mein count hogi lekin nonprotein energy mein nahi. |
+| Nitrogen estimate | Agar question 6.25 g protein-equivalent per gram nitrogen ka approximate factor deta hai toh 96 ÷ 6.25 = 15.36 g nitrogen hota hai. Actual PN product ka nitrogen content label se confirm karo. |
+
+Glucose infusion rate (GIR) ka matlab hai ki patient ke har kg body weight ko har minute kitne mg glucose mil rahe hain. Formula mein dextrose grams ko 1000 se multiply karke mg banaate hain, phir body weight in kg aur infusion minutes ke product se divide karte hain. For example, 180 g dextrose, 60 kg weight aur 24 hours ke hypothetical order mein GIR = 180000 ÷ (60 × 1440) = 2.08 mg/kg/min. Agar same daily mass aadhe infusion time mein mile toh average during-infusion GIR double ho jaata hai. Yeh sirf arithmetic hai. Clinical tolerance aur safe infusion schedule qualified team decide karti hai.
 
 ### Formulation integrity
 
-Calcium-phosphate precipitation and lipid emulsion instability are compatibility risks. Qualified pharmacy team validates the specific admixture. Nurses should not independently mix drugs or additives into PN. Visible separation or a suspect temperature excursion requires withholding affected bag and obtaining authorized pharmacy assessment. Patient-specific labelling indicates composition, identity and handling/delivery instructions. These safety decisions are not bedside compounding procedures. Current label, formulation pH, tonicity and compatibility matter, particularly for peripheral access. NICE CG32 considers peripheral PN for selected short-term need (less than 14 days) if no other central access indication and formula/access suitable.
+Calcium aur phosphate ko ek formulation mein rakhne par kuch conditions mein insoluble particles ban sakte hain. Isko precipitation kehte hain. Yeh particles vascular harm kar sakte hain. Isliye pharmacy team salt, pH, concentration aur poori admixture ki stability verify karti hai. Nurse independently bedside par additives ya medicines mix nahi karti.
 
-Monitor glucose, fluid/electrolyte balance, kidney and liver function and lipids according to clinical status. Rising triglycerides warrant specialist assessment of lipid delivery and metabolic factors. New GI losses can change fluid/electrolyte requirements, not every macronutrient dose proportionally. Cyclic PN transition can affect glucose response. Treat low glucose by approved protocol and seek review, never independently change taper or insulin. Long-term home PN requires individualized specialist follow-up.
+Lipid emulsion mein fat droplets uniformly dispersed hone chahiye. Agar bag mein alag oil layer, oily droplets ya visible particles dikhein toh bag ko use na karo. Pharmacy ko batao aur authorized replacement ya disposal procedure follow karo. Sirf bag hilaane ya saline add karne se safety establish nahi hoti. Customized PN ki refrigerated transport conditions break hui hon toh exposure ka time aur temperature document karo, bag ko quarantine karo aur pharmacy assessment lo.
+
+Patient-specific label se identity, ingredients ke amounts, storage aur infusion instructions verify karne mein madad milti hai. Label order checks ka substitute nahi hai. Peripheral PN mein vein irritation aur formulation compatibility important hain. NICE CG32 recommendation 1.8.9 selected short-term need (14 din se kam) aur separate central access indication na hone par peripheral route consider karti hai. Iske liye catheter, pH, tonicity aur compatibility bhi check karni hoti hain.
+
+### Lipid tolerance, fluid balance and cyclic PN
+
+Triglycerides blood mein circulate karne wale fats ka ek measured form hain. IV lipid dene par body ko us lipid ko metabolize aur clear karna hota hai. Agar triglycerides badh rahe hain toh nutrition team lipid product, rate, total dextrose aur energy delivery, medicines aur clinical condition review karti hai. Nurse timely escalation kare aur applicable product-specific hold ya stop protocol follow kare. Example ke liye Intralipid 20% ke retrieved adult label mein 400 mg/dL se upar infusion rokne ka instruction hai. Is cutoff ko har IV lipid product ya pediatric patient par automatically apply mat karo. Product label aur local policy verify karna zaroori hai.
+
+Agar patient ki GI losses badh jaati hain toh fluid aur kuch electrolytes ki requirement change ho sakti hai. Iska matlab yeh nahi hai ki saare macronutrients double kar dene chahiye. Nurse losses, urine output, hydration aur laboratory trends document karti hai. Nutrition team PN aur separate replacement fluids ko individual assessment ke mutabik plan karti hai.
+
+Cyclic PN mein infusion har din limited hours mein di jaati hai. Infusion khatam hote hi glucose delivery kam ho sakti hai jab insulin ka effect abhi reh raha ho. Isse kuch patients mein low blood glucose ho sakta hai. Agar hypoglycaemia ho toh approved treatment protocol follow karo aur team ko inform karo. Team prescribed taper aur glucose/insulin management reassess kar sakti hai. Nurse khud infusion rate ya insulin change nahi karti.
+
+[Q1–8: PN calculations](../MCQs/06D-Parenteral-Nutrition-Formulations-20-MCQs.md#q1-a-hypothetical-pn-admixture-includes-180-g-of-intravenous-dextrose-using-34-kcal-per-gram-how-much-energy-does-this-component-provide) · [Q9–20: formulation decisions](../MCQs/06D-Parenteral-Nutrition-Formulations-20-MCQs.md)
+
+**Clinical references:** [Saudi MOH adult PN 2024, sections 5.6.1–5.6.5](https://www.moh.gov.sa/en/Ministry/MediaCenter/Publications/Documents/CPG_Adult_PARENTERAL_NUTRITION_with_Appendix_Sept2024.pdf) (extracted text), [ESPEN HPN 2023, recommendations 43–59](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_parenteral_nutrition.pdf) (extracted text), [NICE CG32 section 1.8](https://www.nice.org.uk/guidance/cg32/resources/guidance-nutrition-support-in-adults-pdf-975383198917) (extracted text), [DailyMed Intralipid 20% sections 2.2 and 5.7](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48c12fbe-c5e8-a1fc-e063-6294a90a15ae) (direct label retrieved), and [Parenteral Nutrition Overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC9659055/) (indexed nitrogen-factor extract, direct retrieval blocked). The dedicated TPN MCQ video below is a title/description-level lead only. Specific question coverage and teaching video remain pending.
 
 ![Original enteral and parenteral formulation schematic](../Assets/12-Enteral-and-Parenteral-Formulation.svg)
 
