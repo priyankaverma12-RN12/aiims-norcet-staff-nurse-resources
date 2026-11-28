@@ -179,3 +179,67 @@ body.focus-study .reader-aside,body.focus-study .reader-head .tabs,body.focus-st
 
 /* V11.1: clear recovery and saved-question navigation, with text contrast in both themes. */
 .load-recovery{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:.8rem 0 1rem}.load-recovery a,.load-recovery button{min-height:44px;display:inline-flex;align-items:center;padding:.45rem .65rem;border:1px solid var(--line);border-radius:9px;background:var(--paper);font-size:.82rem;font-weight:650}.saved-question-copy .saved-practice-link{font-size:.8rem;font-weight:700;min-height:44px;display:inline-flex;align-items:center;width:fit-content}.saved-question-target{outline:2px solid var(--accent);outline-offset:4px;border-radius:5px;scroll-margin-top:110px}.study-tag[data-kind=done]{border-color:var(--good);color:var(--good)}
+
+/* V11.2 — presentation-only readability, touch and keyboard polish. */
+/* Home: keep the seven summary cards balanced without changing their order. */
+.stats{grid-template-columns:repeat(12,minmax(0,1fr))}
+.stats>.stat{grid-column:span 3;display:flex;flex-direction:column;gap:.25rem}
+.stats>.stat:nth-child(n+5){grid-column:span 4}
+.stats>.stat strong{font-variant-numeric:tabular-nums}
+.stats>.stat small{margin-top:auto;line-height:1.45}
+.hero-copy h1{text-wrap:balance}
+.section-heading>div{min-width:0}
+.section-heading h1,.section-heading h2{overflow-wrap:anywhere}
+/* Library and theory: keep long titles and resource metadata within cards. */
+.chapter-card .chapter,.chapter-links a,.tracked-resource-card,.completion-resource{overflow-wrap:anywhere}
+.chapter-links a{align-content:start}
+.chapter-card-progress>a{display:flex;align-items:center;justify-content:center}
+.index-resource-group summary{gap:.5rem;min-height:44px}
+.index-resource-group summary>*{min-width:0;overflow-wrap:anywhere}
+.tabs a{min-width:0;max-width:100%;overflow-wrap:anywhere}
+/* Reader: preserve the existing anchor resolver and horizontal table scrolling. */
+.reader-head h1,.resource-subtitle,.reading-location strong{overflow-wrap:anywhere}
+.study-ui h2,.study-ui h3,.study-ui h4{overflow-wrap:anywhere;text-wrap:pretty}
+.study-ui>p,.study-ui>ul,.study-ui>ol{max-width:78ch}
+.study-ui details>summary{overflow-wrap:anywhere;line-height:1.55}
+/* Practice: keep long answers readable at large text sizes. */
+.quiz-option>*{min-width:0}
+.quiz-option{line-height:1.55}
+.quiz-option input{flex-shrink:0}
+.quiz-bank-progress-line{flex-wrap:wrap}
+.quiz-bank-progress-line>strong{min-width:0;overflow-wrap:anywhere}
+/* Results: preserve the performance-specific palette and score logic. */
+.result-hero>*{min-width:0}
+.result-hero h2,.result-copy,.result-score,.learning-greeting{overflow-wrap:anywhere}
+.result-score strong{font-variant-numeric:tabular-nums}
+/* Daily goals: milestones wrap evenly and don't alter actual totals. */
+.daily-milestones{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
+.daily-milestone{white-space:normal;text-align:center;line-height:1.4;min-width:0}
+.daily-milestone[data-reached=true]{border-color:var(--good)}
+/* Metrics and progress: preserve existing responsive resource grid. */
+.metric-record,.metric-record-copy,.metric-tile,.completion-stat{min-width:0;overflow-wrap:anywhere}
+.metrics-filters label,.progress-filters label{min-width:0}
+.metrics-filters input,.metrics-filters select,.progress-filters input,.progress-filters select{max-width:100%;min-width:0;min-height:44px}
+.metric-tile strong,.completion-stat strong{font-variant-numeric:tabular-nums}
+/* Shared interaction: explicit focus, pointer-only hover effects and touch targets. */
+.topbar nav>a,.topbar nav>button{min-height:44px;display:inline-flex;align-items:center}
+.topbar nav>a:focus-visible,.topbar nav>button:focus-visible,.chapter-links a:focus-visible,.chapter-card-progress>a:focus-visible,.tabs a:focus-visible,.daily-action:focus-visible,.tracked-resource-card>a:focus-visible,.completion-resource-link:focus-visible,.quiet-action:focus-visible,.metric-chapter>summary:focus-visible,.completion-chapter>summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tracked-resource-card>a:focus-visible{outline-offset:-3px}
+@media(hover:hover) and (pointer:fine){
+  .chapter-card:focus-within,.tracked-resource-card:focus-within{border-color:var(--accent)}
+}
+@media(max-width:900px){
+  .stats{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .stats>.stat,.stats>.stat:nth-child(n+5){grid-column:span 1}
+  .stats>.stat:last-child{grid-column:1/-1}
+}
+@media(max-width:600px){
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stats>.stat:last-child{grid-column:1/-1}
+  .daily-milestones{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .result-hero{grid-template-columns:minmax(0,1fr)}
+  .topbar nav>a,.topbar nav>button{min-height:44px}
+}
+@media(prefers-reduced-motion:reduce){
+  .chapter-card,.chapter-links a,.tracked-resource-card,.daily-action,.quiet-action,.quiz-option{transition:none}
+}
