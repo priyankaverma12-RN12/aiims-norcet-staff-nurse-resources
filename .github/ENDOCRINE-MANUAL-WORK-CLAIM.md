@@ -1,17 +1,17 @@
 # Endocrine manual work claim
 
 State: CLAIMED
-Owner: endocrine-b02-20261128-0857Z
-Scope: PR54 isolated thyroid nodules and related adult endocrine topic authoring. Preserve all existing banks and shared navigation.
-Claimed UTC: 2026-11-28T08:57:07Z
-Expiry UTC: 2026-11-28T09:27:07Z
+Owner: endocrine-b03-20261128-0912Z
+Scope: PR54 isolated adult adrenal disease nursing candidates only. No shared navigation or existing content changes.
+Claimed UTC: 2026-11-28T09:11:49Z
+Expiry UTC: 2026-11-28T09:41:49Z
 
-Last owner: endocrine-b01-20261128-0834Z
-Released: 2026-11-28 after isolated draft creation and remote structural readback.
+Last owner: endocrine-b02-20261128-0857Z
+Released: 2026-11-28 after isolated Batch 02 authoring, targeted correction and remote readback.
 
 Resume existing draft PR #54: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/54
-Verified head: 72907148a40851cff07a76fbd8fa538f2645117e
-Verified content checkpoint: fd3392acd8046402af9bce0612f0ed406483fca2
-Candidate checkpoint: Chapters/Endocrine-System/Batch-01-Candidate-Checkpoint.md
+Verified head: 5d92ca7d6ada78b5f097ffb795496fd35461de0c
+Verified content checkpoint: bcee56a82908637e22c1818b1b68155c98815d07
+Candidate checkpoint: Chapters/Endocrine-System/Batch-02-Candidate-Checkpoint.md
 
-100 staged original MCQs, 400 individual rationales, 5 concept guides, 5 original SVGs and 5 evidence registers. Twenty initial files exact readback and corrected five banks structurally read back. Zero exact normalized matches against 310 existing endocrine practice/mock stems and 26 reported-question stems. No live inventory credit, no mock or PYQ count. Reacquire only this claim after fresh coordination. Finish mandatory preflight, whole-repository and active-draft semantic screen, independent clinical/difficulty validation, INC mapping, item-specific video evidence, rendering, navigation approval, latest-main reconciliation and CI before merge. Do not regenerate completed batch. Other claims and five existing hourly automations untouched.
+200 staged original MCQs, 800 individual Roman Hinglish rationales, 200 exam clues, ten concept guides, ten original SVGs and ten evidence registers. Batch 02 added 100 originals across five topics, with three targeted semantic corrections. All 200 stems distinct by normalization and zero exact matches against 336 legacy slots (216 distinct normalized legacy stems). Answer structure and keys verified. No live inventory, new mock or PYQ credit. Prior Batch 01 unchanged. Reacquire only this claim after fresh coordination. Complete bounded preflight, exhaustive cross-repository and active-draft semantic checks, independent clinical/difficulty/language review, INC inventory, item-specific video evidence, SVG rendering, PR7/8 navigation clearance, latest-main reconciliation and CI before integration. No other claims, learner history or five hourly automations changed. Continue uncovered topics only after inventory and relevant gates, not regeneration or status-only repetition.

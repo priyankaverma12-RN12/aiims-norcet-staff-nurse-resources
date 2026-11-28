@@ -1,10 +1,15 @@
 # NORCET shared work claim
 
-State: CLAIMED
-Owner: forward-pr48-residual-register-20261128-090846Z
-Scope: PR48 isolated residual historical-register and concept-marker evidence only, no live clinical or navigation changes.
-Claimed UTC: 2026-11-28T09:08:46Z
-Expiry UTC: 2026-11-28T09:38:46Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Latest residual-register checkpoint — 28 November 2026
+
+- PR48 evidence-only commit `3341aebc68c8dddc2e4c9ff6510ccf6d7aca8da6`, blob `c334650dec344aca2c35761e1c8f078321b80ce5`, exact remote readback passed. At pinned main `e4367c7b688aca4ce22ef25948c02b0b52f78918`, screened all 34 Concepts files for embedded numbered MCQ/hidden-answer/option markers (none found) and 27 topic-level historical evidence files with 37 hidden exercise blocks; bounded comparison with all 100 candidate stems found no definite identical learning task. Preserve prior 1350 bank stem, 600 mock stem, 34 chapter-wide historical stem and complete sequential review, four rendered diagrams and 400 rationales. No new questions or live inventory credit. Exact-head PR48 prior CI 46128836414 and PR52 CI 46128862936 succeeded. Remaining: new evidence head CI, independent clinical and exhaustive cross-chapter semantic review, specific video gaps, PR8 clearance and fresh full bounded preflight and main reconciliation. Both skills and audit log retrieved at unchanged hashes; fresh full line-by-line preflight not certified. Own claim released. No other job or schedule changed.
+
 
 ## Latest numbered-bank and direct-source checkpoint — 28 November 2026
 
