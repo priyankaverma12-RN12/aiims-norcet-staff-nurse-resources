@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b04-20261128-1034Z
-Scope: PR60 isolated Wilson disease, hereditary hemochromatosis, vascular liver disease and chronic hepatitis B treatment new topic banks only, no shared navigation.
-Claimed UTC: 2026-11-28T10:34:00Z
-Expiry UTC: 2026-11-28T11:04:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -24,3 +24,7 @@ Candidate head 7793b2389e6ca10e203c27be1e9fbf2af547cbce. Added 20 acute variceal
 ## Batch 03 released checkpoint — 28 November 2026
 
 Candidate head 0cad3274e41ca07fc152763ffc204a4264d849e6. Added 100 original MCQs across five topic banks and 400 individual Roman Hinglish rationales. All five bank and inventory exact remote readbacks passed. 240 staged originals, 960 rationales, 240 exam clues, twelve banks, six guides and one SVG. No normalized exact matches against 144 prior candidate and starter stems. Prior seven banks, guides and diagram preserved unchanged. No live credit, new mock or PYQ. Next continue remaining uncovered topics after ownership check, including hepatitis subtypes, biliary postoperative care and vascular/metabolic disorders. Independent review, clinical/source/video, companion guides/diagrams, full preflight and integration gates remain pending. All other claims, learner history and schedules untouched.
+
+## Batch 04 released checkpoint — 28 November 2026
+
+Candidate head 6f93557a2e376e71b507afbc225b74e1fe9511ac. Added 100 new original MCQs across five banks and 400 separate rationales. 340 staged originals, 1360 rationales, 340 exam clues, seventeen banks, six guides and one SVG. Exact readbacks passed. Zero normalized exact overlap with all 244 earlier candidate/starter headings. Prior twelve banks and other content preserved. No live credit, new mock or PYQ. Continue same PR60 after ownership verification, prioritizing remaining distinct hepatitis C/D/E, metabolic steatotic and postoperative biliary objectives. Independent review, source/video, guides/diagrams, preflight and integration gates remain pending. Other claims, learner history and five hourly schedules untouched.
