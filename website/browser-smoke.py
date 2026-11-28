@@ -45,8 +45,15 @@ try:
         assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
         assert page.locator(".stats>.stat").count()==7
-        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==12
-        assert page.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnStart")=="span 4"
+        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==7
+        assert page.locator(".stats").bounding_box()["height"]<=110
+        assert page.locator(".hero").bounding_box()["height"]<=240
+        assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
+        expect(page.locator(".daily-week-details")).not_to_have_attribute("open","")
+        page.locator(".daily-week-details>summary").click()
+        expect(page.locator(".study-day.today")).to_be_visible()
+        page.locator(".daily-week-details>summary").click()
+        print("V11.7 compact desktop overview dimensions:",page.locator(".hero").bounding_box()["height"],page.locator(".stats").bounding_box()["height"],flush=True)
         assert page.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==4
         page.keyboard.press("Tab")
         page.locator("#library-link").focus()
@@ -376,12 +383,25 @@ try:
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
             no_overflow(mobile)
             if width<=600:
-                expect(mobile.locator("#library-overview")).not_to_have_attribute("open","")
-                mobile.locator("#library-overview>summary").tap()
-                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
-                assert mobile.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="-1"
+                expect(mobile.locator("#library-overview")).to_have_attribute("open","")
+                expect(mobile.locator("#chapter-total")).to_be_visible()
+                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==6
+                assert mobile.locator(".stats").bounding_box()["height"]<=255
+                print(f"V11.7 measured narrow hero at {width}: {mobile.locator('.hero').bounding_box()['height']:.1f}px",flush=True)
+                assert mobile.locator(".hero").bounding_box()["height"]<=300
+                assert mobile.locator(".hero-actions .cta").bounding_box()["height"]>=43
+                assert mobile.locator(".hero-secondary").bounding_box()["height"]>=43
+                assert mobile.locator(".stats").bounding_box()["y"]<mobile.locator("#daily-study").bounding_box()["y"]
                 assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
+                expect(mobile.locator(".daily-week-details")).not_to_have_attribute("open","")
+                mobile.locator(".daily-week-details>summary").tap()
+                expect(mobile.locator(".study-day.today")).to_be_visible()
+                mobile.locator(".daily-week-details>summary").tap()
                 mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#chapter-total")).not_to_be_visible()
+                mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#chapter-total")).to_be_visible()
+                print(f"V11.7 compact mobile {width}: hero {mobile.locator('.hero').bounding_box()['height']:.0f}px, inventory {mobile.locator('.stats').bounding_box()['height']:.0f}px.",flush=True)
                 expect(mobile.locator("#nav-more")).not_to_have_attribute("open","")
                 mobile.locator("#nav-more>summary").tap()
                 expect(mobile.locator("#saved-link")).to_be_visible()
@@ -399,6 +419,8 @@ try:
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
             assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
+            assert mobile.locator(".chapter-card-progress>a").first.bounding_box()["height"]>=43
+            assert mobile.locator(".chapter-card-progress").first.bounding_box()["height"]<=100
             mobile.locator("#theme").tap()
             theme = mobile.locator("html").get_attribute("data-theme")
             mobile.reload()
