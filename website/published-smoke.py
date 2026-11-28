@@ -45,10 +45,11 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
-        page.locator(".daily-goal-select select").select_option("5")
-        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 5 questions")
+        expect(page.locator(".daily-target strong")).to_have_text("50 MCQs")
+        expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
+        expect(page.locator(".daily-goal-select select")).to_have_count(0)
         fit()
         # Library entry point: counts and controls must be reachable without using Progress first.
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
@@ -77,11 +78,13 @@ with sync_playwright() as p:
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
         # Marks from any study list must count toward the daily home goal immediately.
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("0 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("44 more marked done")
         expect(page.locator(".study-day.today strong")).to_have_text("44")
-        expect(page.locator("#daily-study h2")).to_have_text("Daily goal complete!")
+        expect(page.locator("#daily-study h2")).to_have_text("Almost there!")
+        expect(page.locator(".daily-progress-label")).to_contain_text("6 remaining")
+        expect(page.locator(".daily-total strong")).to_have_text("44 MCQs")
         # Marked completion and an actual answer in the same bank do not count twice.
         go({"doc":sample})
         ready()
@@ -91,16 +94,16 @@ with sync_playwright() as p:
         page.once("dialog",lambda d:d.accept())
         page.get_by_role("button",name="Exit learning").click()
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
         recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(recent.locator("input[type=checkbox]")).to_be_checked()
         recent.locator("input[type=checkbox]").uncheck()
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs")
         recent.locator("input[type=checkbox]").check()
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs")
         # Verify unmark/reset without corrupting the subsequent existing regression.
         go({"doc":sample.rsplit("/",1)[0]+"/"})
         ready()
@@ -120,7 +123,7 @@ with sync_playwright() as p:
         metric.locator(".completion-reset").click()
         expect(metric.locator(".tracked-resource-line strong")).to_have_text("0%")
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("0 more marked done")
         print(f"Daily manual mark, existing answer deduplication and reset verified at {width}x{height}.",flush=True)
         go({"doc":"Chapters/Respiratory-System/README.md"})
@@ -224,7 +227,7 @@ with sync_playwright() as p:
         fit()
         assert page.evaluate("routineCount(loadRoutine())")==1
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-action.primary-daily")).to_be_visible()
         expect(page.locator(".study-day.today strong")).to_have_text("1")
         go({"metrics":"1","chapter":"Respiratory-System"})
@@ -318,6 +321,22 @@ with sync_playwright() as p:
         assert page.locator(".learning-result .result-check").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         print(f"Performance-based learning score, low-score coaching, exact missed-answer retry and perfect-score reward passed at {width}x{height}.",flush=True)
+        # Daily total includes multiple banks and keeps increasing after 50.
+        go({"doc":"Chapters/Nursing-Foundations/MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md"})
+        ready()
+        page.locator("#reader-completion input[type=checkbox]").check()
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-target strong")).to_have_text("50 MCQs",timeout=30000)
+        expect(page.locator(".daily-total strong")).to_have_text("64 MCQs")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("64 / 50 MCQs")
+        expect(page.locator(".daily-progress-label")).to_contain_text("14 extra MCQs")
+        expect(page.locator("#daily-study h2")).to_have_text("Hurrah! Goal exceeded!")
+        expect(page.locator(".daily-goal-status")).to_contain_text("128%")
+        expect(page.locator(".study-day.today strong")).to_have_text("64")
+        expect(page.locator(".daily-milestone[data-reached=true]")).to_have_count(4)
+        fit()
+        print(f"Fixed 50-MCQ goal, uncapped 64-question daily total, motivational milestones and mobile fit passed at {width}x{height}.",flush=True)
+
 
         print(f"Automatic bank completion, cumulative coverage, remaining questions, reload, chapter tracker and reset passed at {width}x{height}.",flush=True)
         print(f"Published V8 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)

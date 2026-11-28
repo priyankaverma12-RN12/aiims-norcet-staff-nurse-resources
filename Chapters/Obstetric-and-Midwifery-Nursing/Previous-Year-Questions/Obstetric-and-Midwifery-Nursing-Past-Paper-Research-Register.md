@@ -37,3 +37,11 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Maternal endocrine evidence — 28 November 2026
 
 [GMCH Nursing Officer 29 June 2025 reported progesterone adaptation](03E-Maternal-Endocrine-Exam-Evidence.md). Retrieved third-party source, official booklet and key not authenticated. RMLIMS 7 September 2025 related task not counted separately. AIIMS Nagpur 2020 corpus luteum report retrieved and additional ESIC, HSSC and NCL leads recorded. Eight reported adaptations are now indexed in Obstetrics. Specific MCQ video verification for 19 new originals and HPRCA question-level evidence remain pending.
+
+## Maternal breast evidence — 28 November 2026
+
+[RRB Staff Nurse 20 July 2019 Shift II Montgomery gland location adaptation](03F-Maternal-Breast-Exam-Evidence.md). Third-party report retrieved, official paper and key pending. Source explanation corrected to clarify that Montgomery glands exist outside pregnancy. Related colostrum and milk-ejection evidence reserved for postpartum/newborn feeding. Nine reported adaptations are now indexed. All 19 new original breast questions retain specific video coverage gaps.
+
+## Maternal musculoskeletal and skin evidence — 28 November 2026
+
+[AIIMS Raipur Nursing Officer 31 August 2019 Shift II reported pigmentation mechanism adaptation](03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md). Two third-party recall listings located; official paper and key not authenticated. Distinct mechanism task from the older HPSSC linea nigra identification. Ten reported adaptations now indexed in Obstetrics. No adequately attributed new musculoskeletal recruitment item established; HPRCA question-level verification and dedicated MCQ playback remain pending. All 38 new originals retain item-specific video gaps.

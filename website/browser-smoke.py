@@ -32,7 +32,7 @@ try:
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
         expect(page.locator("#chapter-total")).to_have_text(str(count))
         expect(page.locator("#daily-study")).to_be_visible()
-        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
         assert page.locator(".chapter-group").count() >= 8
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0

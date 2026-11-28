@@ -4,7 +4,7 @@
 
 ### Q1. Before a planned lumbar puncture, a patient develops new focal neurological deficits and declining consciousness. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Alert the clinician for urgent reassessment of procedure safety before proceeding
 - **B.** Proceed because the consent is signed
@@ -19,11 +19,17 @@ New neurological deterioration raised intracranial pressure ya other emergency k
 
 **Baaki options kyun sahi nahi hain?** Signed consent new contraindications remove nahi karta. Ignoring symptoms aur unsupported walking unsafe hain.
 
+
+**Topic reference:** [Merck Manual — lumbar puncture](https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**▶️ [YouTube MCQ practice — lumbar puncture, The Nurse](https://www.youtube.com/watch?v=PSlPkBshO0k).** 25 November 2025 ki indexed video description mein contraindications se related question practice ka mention hai. Exact question aur playback verify nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q118](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q118-before-a-planned-lumbar-puncture-a-patient-develops-new-focal-neurological-deficits-and-declining-consciousness-which-action-is-appropriate)
 
 ### Q2. Which position is commonly used to facilitate lumbar puncture when appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS NORCET 6 Prelims 2024 — related reported concept**
 
 - **A.** Standing unsupported
 - **B.** Flat prone with the neck forcefully extended
@@ -38,11 +44,19 @@ Spinal flexion lumbar interspaces access karne mein help kar sakti hai. Nurse cl
 
 **Baaki options kyun sahi nahi hain?** Unsupported standing aur forceful positioning unsafe hain. Trendelenburg universal LP position nahi hai.
 
+
+**Topic reference:** [Merck Manual — lumbar puncture](https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Related historical evidence:** [AIIMS NORCET 6 Prelims 2024 — third-party memory-based report](https://testbook.com/question-answer/the-best-position-for-doing-lumbar-puncture-isnb--662a44eaab5384e90ac11f5c). Is report mein lumbar puncture ki position poochhi gayi hai. Report left lateral ko select karti hai, lekin supported sitting bhi kuch procedures mein use ho sakti hai. Yeh original question ka exact match nahi hai aur official key verify nahi hui hai.
+
+**▶️ [YouTube MCQ practice — lumbar puncture, The Nurse](https://www.youtube.com/watch?v=PSlPkBshO0k).** 25 November 2025 ki indexed video description mein CSF collection aur procedure se related question practice ka mention hai. Exact question aur playback verify nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q106](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q106-which-position-is-commonly-used-to-facilitate-lumbar-puncture-when-appropriate)
 
 ### Q3. When cerebrospinal fluid opening pressure is being measured, which patient position is generally needed for standard interpretation?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** High Fowler sitting with legs dangling as the standard pressure position
 - **B.** Prone with sustained abdominal compression
@@ -57,11 +71,17 @@ Opening pressure posture aur strain se affect ho sakti hai. Standard lateral dec
 
 **Baaki options kyun sahi nahi hain?** Standing, sitting aur abdominal compression pressure alter kar sakte hain.
 
+
+**Topic reference:** [Merck Manual — lumbar puncture](https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q98](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q98-when-cerebrospinal-fluid-opening-pressure-is-being-measured-which-patient-position-is-generally-needed-for-standard-interpretation)
 
 ### Q4. Which procedure removes fluid from the pleural space for diagnosis or symptom relief?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Cystoscopy
 - **B.** Thoracentesis
@@ -76,11 +96,17 @@ Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liy
 
 **Baaki options kyun sahi nahi hain?** Paracentesis peritoneal fluid, LP CSF aur cystoscopy bladder visualization se related hain.
 
+
+**Topic reference:** [Merck Manual — thoracentesis](https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q90](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q90-which-procedure-removes-fluid-from-the-pleural-space-for-diagnosis-or-symptom-relief)
 
 ### Q5. A patient develops sudden dyspnea and unilateral reduced breath sounds after thoracentesis. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Apply a routine heating pad as the only intervention
 - **B.** Urgent respiratory assessment for possible pneumothorax and escalation
@@ -95,11 +121,17 @@ Thoracentesis ke baad lung injury ya pneumothorax possible complication hai. Sud
 
 **Baaki options kyun sahi nahi hain?** Walking, waiting aur heat pleural complication address nahi karte.
 
+
+**Topic reference:** [Merck Manual — thoracentesis](https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q84](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q84-a-patient-develops-sudden-dyspnea-and-unilateral-reduced-breath-sounds-after-thoracentesis-what-is-the-priority)
 
 ### Q6. Which procedure removes fluid from the peritoneal cavity?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Abdominal paracentesis
 - **B.** Thoracentesis
@@ -114,11 +146,15 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 **Baaki options kyun sahi nahi hain?** Thoracentesis pleural fluid, bronchoscopy airway aur LP CSF se related hain.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q75](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q75-which-procedure-removes-fluid-from-the-peritoneal-cavity)
 
 ### Q7. After removal of a large volume of ascitic fluid, a patient becomes dizzy and hypotensive. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume all hypotension is expected and harmless
 - **B.** Encourage rapid standing
@@ -133,11 +169,15 @@ Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur d
 
 **Baaki options kyun sahi nahi hain?** Hypotension harmless assume nahi karna chahiye. Standing fall risk aur false documentation unsafe hain.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q64](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q64-after-removal-of-a-large-volume-of-ascitic-fluid-a-patient-becomes-dizzy-and-hypotensive-what-should-the-nurse-do)
 
 ### Q8. Which investigation allows direct visualization of the lower urinary tract including the bladder?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Bronchoscopy
 - **B.** Otoscopy
@@ -152,11 +192,17 @@ Cystoscopy endoscope se urethra aur bladder lining inspect karne mein help karti
 
 **Baaki options kyun sahi nahi hain?** Gastroscopy upper GI, bronchoscopy airway aur otoscopy ear examination hai.
 
+
+**Topic reference:** [NIDDK — cystoscopy](https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q85](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q85-which-investigation-allows-direct-visualization-of-the-lower-urinary-tract-including-the-bladder)
 
 ### Q9. A patient is returning from an upper GI endoscopy with residual sedation and topical throat anesthesia. Which assessment is important before oral intake?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume speaking proves swallowing is safe
 - **B.** Offer a drink while the patient is unresponsive
@@ -171,11 +217,17 @@ Sedation aur throat anesthesia protective reflexes impair kar sakti hain. Nurse 
 
 **Baaki options kyun sahi nahi hain?** Immediate feeding aur unresponsive drinking aspiration risk badhate hain. Speech alone swallowing safety prove nahi karti.
 
+
+**Topic reference:** [NIDDK — upper GI endoscopy](https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q92](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q92-a-patient-is-returning-from-an-upper-gi-endoscopy-with-residual-sedation-and-topical-throat-anesthesia-which-assessment-is-important-before-oral-intake)
 
 ### Q10. Which test records the electrical activity of the heart using surface electrodes?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Spirometry
 - **B.** Electrocardiogram
@@ -190,11 +242,17 @@ ECG surface electrodes se cardiac electrical signals record karta hai. Nurse ski
 
 **Baaki options kyun sahi nahi hain?** EEG brain signals, EMG muscle activity aur spirometry lung volumes-flow assess karti hai.
 
+
+**Topic reference:** [MedlinePlus — electrocardiogram](https://medlineplus.gov/lab-tests/electrocardiogram/). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q3](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q3-which-test-records-the-electrical-activity-of-the-heart-using-surface-electrodes)
 
 ### Q11. A patient receiving ECG monitoring has a flat trace but is awake with a palpable regular pulse. What should the nurse do first?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess the patient and check electrode and cable connections for artifact
 - **B.** Start chest compressions solely because of the display
@@ -209,11 +267,15 @@ Monitor malfunction ya disconnected electrode flat tracing produce kar sakti hai
 
 **Baaki options kyun sahi nahi hain?** Definite pulse aur alertness mein blind compressions unsafe hain. Discrepancy ignore nahi karni chahiye.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q94](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q94-a-patient-receiving-ecg-monitoring-has-a-flat-trace-but-is-awake-with-a-palpable-regular-pulse-what-should-the-nurse-do-first)
 
 ### Q12. Which investigation records electrical activity generated by the brain?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Electrocardiography
 - **B.** Spirometry
@@ -228,11 +290,15 @@ EEG scalp electrodes se brain electrical patterns record karta hai. Seizure eval
 
 **Baaki options kyun sahi nahi hain?** ECG heart, spirometry lung function aur Doppler blood flow assess karta hai.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q13](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q13-which-investigation-records-electrical-activity-generated-by-the-brain)
 
 ### Q13. Before an MRI, a patient reports an implanted device but does not know its type. What is the safest action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Proceed because all modern implants are MRI safe
 - **B.** Remove the implant at bedside
@@ -247,11 +313,17 @@ MRI magnetic field certain devices ke function ya safety affect kar sakti hai. D
 
 **Baaki options kyun sahi nahi hain?** Universal compatibility assume nahi karni chahiye. Implant removal aur concealment unsafe hain.
 
+
+**Topic reference:** [FDA — MRI safety](https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q6](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q6-before-an-mri-a-patient-reports-an-implanted-device-but-does-not-know-its-type-what-is-the-safest-action)
 
 ### Q14. A patient scheduled for iodinated contrast imaging reports a previous severe contrast reaction. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Delete the allergy history
 - **B.** Assume drinking water prevents all reactions
@@ -266,11 +338,17 @@ Previous severe reaction future exposure ke liye important risk factor ho sakti 
 
 **Baaki options kyun sahi nahi hain?** Fasting aur water reaction risk eliminate nahi karte. Allergy history preserve karni chahiye.
 
+
+**Topic reference:** [ACR — contrast media manual and resources](https://www.acr.org/clinical-resources/clinical-tools-and-reference/contrast-manual). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q51](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q51-a-patient-scheduled-for-iodinated-contrast-imaging-reports-a-previous-severe-contrast-reaction-what-should-the-nurse-do)
 
 ### Q15. Which sample collection method is used for a bedside capillary glucose measurement?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** A blood pressure cuff without a sample
 - **B.** A suitable fingerstick or approved alternate site using a single-use lancet and meter protocol
@@ -285,11 +363,17 @@ Capillary glucose testing small blood sample use karti hai. Hand hygiene, device
 
 **Baaki options kyun sahi nahi hain?** Shared lancet bloodborne exposure risk hai. Urine aur BP cuff direct blood glucose measure nahi karte.
 
+
+**Topic reference:** [CDC — assisted blood glucose monitoring safety](https://www.cdc.gov/injection-safety/hcp/infection-control/index.html). Yeh reference is topic ko revise karne mein madad karta hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q41](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q41-which-sample-collection-method-is-used-for-a-bedside-capillary-glucose-measurement)
 
 ### Q16. A bedside glucose meter result is inconsistent with a symptomatic patient's condition. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess the patient, repeat or confirm testing according to protocol and treat urgent symptoms appropriately
 - **B.** Ignore symptoms because the meter cannot be wrong
@@ -304,11 +388,15 @@ Meter readings technique, perfusion aur strip issues se affect ho sakti hain. Sy
 
 **Baaki options kyun sahi nahi hain?** Meter infallible nahi hai. Expired strips unreliable ho sakti hain. Delay harmful ho sakti hai.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q96](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q96-a-bedside-glucose-meter-result-is-inconsistent-with-a-symptomatic-patients-condition-which-action-is-appropriate)
 
 ### Q17. What is the purpose of checking a diagnostic procedure's preparation instructions before transport?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Ensure relevant fasting, medicines, consent and safety requirements are addressed
 - **B.** Apply the same preparation to every procedure
@@ -323,11 +411,15 @@ Different investigations ki preparation different hoti hai. Nurse procedure-spec
 
 **Baaki options kyun sahi nahi hain?** Universal preparation aur automatic drug cancellation inappropriate hain. Department communication still needed hai.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q98](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q98-what-is-the-purpose-of-checking-a-diagnostic-procedures-preparation-instructions-before-transport)
 
 ### Q18. Following a procedure involving arterial access, a patient develops increasing puncture-site swelling and a weak distal pulse. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Massage the puncture site vigorously
 - **B.** Encourage the patient to bend and exercise the limb repeatedly
@@ -342,11 +434,15 @@ Hematoma ya arterial complication distal perfusion compromise kar sakti hai. Nur
 
 **Baaki options kyun sahi nahi hain?** Massage, repetitive movement aur delay bleeding ya ischemia worsen kar sakte hain.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q74](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q74-following-a-procedure-involving-arterial-access-a-patient-develops-increasing-puncture-site-swelling-and-a-weak-distal-pulse-what-should-the-nurse-do)
 
 ### Q19. Which procedure measures pulmonary airflow and volumes using a breathing maneuver?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Cystoscopy
 - **B.** Audiometry
@@ -361,11 +457,15 @@ Spirometry patient ki inhaled-exhaled air aur flow assess karti hai. Correct coa
 
 **Baaki options kyun sahi nahi hain?** EEG brain electrical activity, cystoscopy bladder aur audiometry hearing assess karte hain.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q55](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q55-which-procedure-measures-pulmonary-airflow-and-volumes-using-a-breathing-maneuver)
 
 ### Q20. A patient becomes acutely unwell during a diagnostic test. What is the appropriate nursing priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assume adverse events cannot occur during diagnostic tests
 - **B.** Stop or pause the test when safe, assess immediate threats and activate appropriate help
@@ -380,7 +480,11 @@ Diagnostic procedure ke dauran bhi acute deterioration possible hai. Nurse patie
 
 **Baaki options kyun sahi nahi hain?** Test completion aur delayed documentation assessment replace nahi karte. Adverse events possible hain.
 
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q90](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q90-a-patient-becomes-acutely-unwell-during-a-diagnostic-test-what-is-the-appropriate-nursing-priority)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
