@@ -152,28 +152,28 @@ Steroid pulse immune inflammation suppress karne mein help karta hai; treatment 
 
 </details>
 
-### Q7. Which finding may indicate graft dysfunction even if the recipient feels well?
+### Q7. Which immune system component is associated with C4d deposition in a renal graft biopsy?
 
 **Difficulty:** Easy | **Topic:** Kidney allograft rejection and graft assessment | **Priority:** High | **Type:** Original practice
 
-- **A.** A stable creatinine at baseline
-- **B.** An unexplained rise in serum creatinine
-- **C.** A healed incision
-- **D.** Unchanged stable blood pressure alone
+- **A.** Hemoglobin
+- **B.** Complement system
+- **C.** Insulin
+- **D.** Creatinine
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. An unexplained rise in serum creatinine**
+**Correct: B. Complement system**
 
-Graft injury early stage mein symptoms ke bina creatinine rise se detect ho sakti hai.
+C4d complement activation ka fragment hai. Graft biopsy mein iska deposition antibody-endothelial interaction assess karne mein useful ho sakta hai, lekin C4d alone rejection diagnose nahi karta.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Stable baseline function change establish nahi karta.
-- **C.** Healed skin internal graft function guarantee nahi karti.
-- **D.** Stable BP alone dysfunction ka positive evidence nahi hai.
+- **A.** Hemoglobin RBC ka oxygen-carrying protein hai, complement fragment nahi.
+- **C.** Insulin glucose regulation hormone hai, C4d ka source nahi.
+- **D.** Creatinine renal function marker hai, complement component nahi.
 
-**Exam clue:** Rejection can be clinically silent.
+**Exam clue:** C4d belongs to complement; interpret biopsy findings in context.
 
 </details>
 
@@ -506,3 +506,5 @@ Fibrosis aur tubular atrophy chronic damage describe karte hain; immune injury, 
 - [EAU renal transplantation guideline](https://uroweb.org/guidelines/renal-transplantation/chapter/the-guideline), rejection assessment, biopsy and treatment.
 - [KDIGO transplant recipient guideline](https://kdigo.org/guidelines/transplant-recipient/), biopsy, monitoring and treatment principles; older guidance must be reconciled with current local protocols and Banff criteria.
 - [2024 BK consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC11335089/), competing graft injury and management. Indexed research; independent pathology, infusion safety and question-level evidence review remain pending.
+
+- [Complement in antibody-mediated rejection](https://pmc.ncbi.nlm.nih.gov/articles/PMC12679254/), Q7. Apply current Banff criteria rather than a single stain in isolation.
