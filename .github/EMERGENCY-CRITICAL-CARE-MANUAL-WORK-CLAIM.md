@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: CLAIMED
+Owner: emergency-b02-20261128-0746Z
+Scope: Existing PR49 isolated Emergency-only clinical corrections and genuinely uncovered topic drafts, guides and diagrams. No shared navigation or live publication.
+Claimed UTC: 2026-11-28T07:46:00Z
+Expiry UTC: 2026-11-28T08:16:00Z
+
+PR29 current 31 changed paths Pharmacology only, prior notifications unanswered. PR7/8 existing navigation excluded. Full bounded preflight and independent review incomplete, draft-only. Stop on overlapping activity. Preserve other owners and schedules.
+
+## Prior released checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
 State: FREE
 Owner: none
 Scope: none

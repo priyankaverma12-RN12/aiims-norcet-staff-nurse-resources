@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: CLAIMED
-Owner: gyne-source-audit-20261128
-Scope: only Revision/Vulvar-Fistula-40-Question-Semantic-Audit.md and own claim; no bank or README edits
-Claimed UTC: 2026-11-28T09:00:00Z
-Expiry UTC: 2026-11-28T09:30:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
@@ -18,3 +18,12 @@ Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation
 - 40 question-level stem decisions (Vulvar 20, Fistula 20), including concrete duplicate and partial-overlap references. Audit commit b7108afbdd7e435ee75bdadff7eb9903a02c34f4, exact readback 40 rows.
 - Shared README linked audit, commit 5544181deb9b45703e7438ad9c2150624aaa5530, exact readback verified. Preserved 564 allocated originals + 20 Vulvar raw + 20 Fistula raw + 19 menstrual revisions = 623 physical slots.
 - WHO source check confirms 7–10 days only for simple repaired obstetric urinary fistula; full per-question source and answer audit incomplete. Do not allocate disputed banks until completed. No mocks.
+
+## 28 November 2026 — external source verification checkpoint
+- Verified selected clinical facts against WHO 2018, Merck 2026, AAFP, ACOG and CMDT 2026; appended 5-item evidence table to 40-question audit. Audit commit f7b072d99b93be9a1fe9fc1db3046da0c9af9ee7, remote exact readback passed.
+- No MCQ banks or README altered, no unique count credited. Full 40 option-level review, overlap replacements and safe allocation remain outstanding; 623 physical slots and 564 allocated originals preserved. No mocks.
+
+## 28 Nov 2026 verified overlap rework
+- Vulvar Q10/13/14 rewritten, commit cacfb4b598c82d6168ac3240af2f9ed6ac2d7856; 20 questions and hidden answers verified.
+- Fistula Q1 rewritten to postoperative ureter injury escalation after detecting within-bank overlap with F6; final commit 1d30dc3f33b5b7b96087f540701890859000d242, 20 questions and hidden answers verified.
+- Audit revised and checkpointed at cfee1a52c798239ef05b8bc207992e19067cfd85. Physical slots 623 and allocated originals 564 preserved. Full 40-item independent clinical/source audit incomplete; README distinct count unchanged; no mocks.

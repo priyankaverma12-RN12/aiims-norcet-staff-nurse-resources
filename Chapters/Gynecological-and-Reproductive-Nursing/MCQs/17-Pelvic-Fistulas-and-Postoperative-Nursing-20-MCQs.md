@@ -4,27 +4,29 @@
 
 ## Part 1 — Q1–Q5
 
-### Q1. Continuous urine leakage through vagina after hysterectomy suggests?
+### Q1. After pelvic surgery, a patient has new vaginal urine leakage, fever, worsening flank pain and rising serum creatinine. Which nursing escalation best addresses a possible ureteric injury?
 
-**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice, not PYQ
 
-- **A.** Vesicovaginal fistula
-- **B.** Primary dysmenorrhea
-- **C.** Bartholin cyst
-- **D.** Ovarian torsion
+- **A.** Reassure her that all postoperative vaginal leakage is expected
+- **B.** Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered
+- **C.** Restrict oral and intravenous fluids indefinitely without a prescription
+- **D.** Begin pelvic floor exercises as the only intervention
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: A. Vesicovaginal fistula**
+**Correct: B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered**
 
-**Correct kyun?** Bladder aur vagina ka abnormal tract constant leakage karta hai.
+**Correct kyun?** Surgery ke baad new urine leak + flank pain + kidney function worsening ureteric injury/obstruction ya infection ke red flags hain. Timely urologic review aur clinician-directed imaging kidney damage prevent karne mein help kar sakte hain.
 
-- **A. Vesicovaginal fistula:** Bladder aur vagina ka abnormal tract constant leakage karta hai.
-- **B. Primary dysmenorrhea:** Dysmenorrhea periods ka pain hai.
-- **C. Bartholin cyst:** Bartholin cyst external lump hoti hai.
-- **D. Ovarian torsion:** Torsion acute pelvic pain deta hai.
+- **A. Reassure her that all postoperative vaginal leakage is expected:** Continuous new urine leakage normal healing assume nahi kar sakte, especially fever aur creatinine rise ke saath.
+- **B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered:** Ye anatomical injury aur possible urinary obstruction assess karne ka safest next step hai; clinician CT urography ya alternative imaging decide kar sakta hai.
+- **C. Restrict oral and intravenous fluids indefinitely without a prescription:** Unsupervised fluid restriction kidney perfusion worsen kar sakti hai. Fluid plan vitals aur renal status se guide hota hai.
+- **D. Begin pelvic floor exercises as the only intervention:** Exercises stress leakage mein helpful ho sakti hain, structural ureter injury aur infection ko treat nahi karti.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Vital signs, urine output, creatinine trends aur pain document karo. Prompt escalation, informed consent aur privacy maintain karo.
+
+**Clinical reference:** [NCBI Bookshelf: Ureteral Injury](https://www.ncbi.nlm.nih.gov/books/NBK507817/). **Exam/video evidence:** Not independently verified.
 
 </details>
 
