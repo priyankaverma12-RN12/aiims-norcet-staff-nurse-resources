@@ -8,9 +8,9 @@
 
 **Difficulty:** Medium · **Priority:** High · **Original practice**
 
-A. 135/85 mmHg
+A. 160/110 mmHg
 
-B. 160/110 mmHg
+B. 135/85 mmHg
 
 C. 120/60 mmHg
 
@@ -19,11 +19,11 @@ D. No target until delivery
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A**
+**Correct answer: B**
 
-- **A — Correct:** NICE ke hisaab se treatment ka aim 135/85 hai. Isse BP ko severe range mein jaane se rokne mein madad milti hai.
+- **A — Incorrect:** 160/110 severe range ki boundary hai. Ise routine treatment target banana maa ko khatre mein rakhega.
 
-- **B — Incorrect:** 160/110 severe range ki boundary hai. Ise routine treatment target banana maa ko khatre mein rakhega.
+- **B — Correct:** NICE ke hisaab se treatment ka aim 135/85 hai. Isse BP ko severe range mein jaane se rokne mein madad milti hai.
 
 - **C — Incorrect:** 120/60 tak zabardasti BP girana zaroori nahi hai. Zyada reduction se symptoms aur placental blood flow par asar ho sakta hai.
 
@@ -37,28 +37,28 @@ D. No target until delivery
 
 ### Q02. A pregnant inpatient has a systolic BP of 164 mmHg on repeated readings 15 minutes apart, with diastolic BP of 98 mmHg. Which action is most appropriate?
 
-**Difficulty:** Difficult · **Priority:** High · **Original practice**
+**Difficulty:** Medium · **Priority:** High · **Original practice**
 
 A. Wait until both values reach severe range
 
-B. Activate the urgent hypertension treatment protocol
+B. Give a routine bedtime tablet and discharge
 
 C. Recheck only at the next routine round
 
-D. Give a routine bedtime tablet and discharge
+D. Activate the urgent hypertension treatment protocol
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B**
+**Correct answer: D**
 
 - **A — Incorrect:** Dono values ka severe hona zaroori nahi hai. Sirf systolic BP bhi stroke ka risk badha sakta hai.
 
-- **B — Correct:** Persistent systolic BP 160 ya upar urgent treatment maangta hai. Nurse team ko alert karke prescribed emergency treatment aur close monitoring shuru karti hai.
+- **B — Incorrect:** Bedtime maintenance dose aur discharge acute severe BP ke liye safe plan nahi hai. Pehle monitored stabilization chahiye.
 
 - **C — Incorrect:** Routine round ka wait karne se treatment delay ho sakta hai. Severe BP mein short interval par reassessment chahiye.
 
-- **D — Incorrect:** Bedtime maintenance dose aur discharge acute severe BP ke liye safe plan nahi hai. Pehle monitored stabilization chahiye.
+- **D — Correct:** Persistent systolic BP 160 ya upar urgent treatment maangta hai. Nurse team ko alert karke prescribed emergency treatment aur close monitoring shuru karti hai.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -70,24 +70,24 @@ D. Give a routine bedtime tablet and discharge
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Intravenous hydralazine
+A. Intravenous labetalol
 
 B. Oral immediate-release nifedipine
 
-C. Intravenous labetalol
+C. Intravenous hydralazine
 
 D. A monitored alternative selected by the obstetric team
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C**
+**Correct answer: A**
 
-- **A — Incorrect:** Hydralazine arterioles ko relax karta hai aur beta blockade nahi karta. Yeh suitable protocol ke andar ek alternative ho sakta hai.
+- **A — Correct:** Labetalol beta receptors ko block karta hai aur bronchospasm ko badha sakta hai. Nurse asthma history batakar order clarify karti hai.
 
 - **B — Incorrect:** Nifedipine calcium channel blocker hai. Agar woman safely nigal sakti hai toh protocol ke hisaab se yeh acute option ho sakta hai.
 
-- **C — Correct:** Labetalol beta receptors ko block karta hai aur bronchospasm ko badha sakta hai. Nurse asthma history batakar order clarify karti hai.
+- **C — Incorrect:** Hydralazine arterioles ko relax karta hai aur beta blockade nahi karta. Yeh suitable protocol ke andar ek alternative ho sakta hai.
 
 - **D — Incorrect:** Obstetric team patient ki condition dekhkar alternative choose kar sakti hai. Monitored treatment ko sirf asthma ki wajah se delay nahi karna chahiye.
 
@@ -105,22 +105,22 @@ A. Crushed extended-release nifedipine
 
 B. Punctured nifedipine capsule under the tongue
 
-C. Weekly methyldopa
+C. Oral immediate-release nifedipine swallowed as directed
 
-D. Oral immediate-release nifedipine swallowed as directed
+D. Weekly methyldopa
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D**
+**Correct answer: C**
 
 - **A — Incorrect:** Extended-release formulation dheere drug release karne ke liye bani hai. Crush karne se release pattern unsafe ho sakta hai.
 
 - **B — Incorrect:** Sublingual ya punctured capsule se BP unpredictable tareeke se gir sakta hai. ISSHP oral swallowing ki salah deta hai.
 
-- **C — Incorrect:** Methyldopa weekly medicine nahi hai aur routine oral treatment ka role alag hai. Is acute scenario mein isse rapid control expect nahi karte.
+- **C — Correct:** Immediate-release nifedipine ko prescribed oral protocol mein nigla ja sakta hai. IV access milne ka wait kiye bina eligible patient mein treatment shuru ho sakta hai.
 
-- **D — Correct:** Immediate-release nifedipine ko prescribed oral protocol mein nigla ja sakta hai. IV access milne ka wait kiye bina eligible patient mein treatment shuru ho sakta hai.
+- **D — Incorrect:** Methyldopa weekly medicine nahi hai aur routine oral treatment ka role alag hai. Is acute scenario mein isse rapid control expect nahi karte.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -130,26 +130,26 @@ D. Oral immediate-release nifedipine swallowed as directed
 
 ### Q05. Which pharmacological action explains the reduction in vascular resistance produced by hydralazine?
 
-**Difficulty:** Medium · **Priority:** High · **Original practice**
+**Difficulty:** Easy · **Priority:** High · **Original practice**
 
-A. Direct relaxation of arteriolar smooth muscle
+A. Central reduction of sympathetic outflow by an alpha-2 agonist
 
 B. Selective blockade of renal angiotensin receptors
 
-C. Central reduction of sympathetic outflow by an alpha-2 agonist
+C. Direct relaxation of arteriolar smooth muscle
 
 D. Inhibition of platelet aggregation
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A**
+**Correct answer: C**
 
-- **A — Correct:** Hydralazine chhoti arteries ki smooth muscle relax karta hai. Isse resistance aur BP kam hote hain, lekin reflex tachycardia ho sakti hai.
+- **A — Incorrect:** Central sympathetic signal kam karna methyldopa ka mechanism hai. Hydralazine seedha blood vessels par kaam karta hai.
 
 - **B — Incorrect:** Angiotensin receptor blockade ARB drugs ka action hai. Yeh hydralazine ka mechanism nahi hai aur ARBs pregnancy mein avoid kiye jaate hain.
 
-- **C — Incorrect:** Central sympathetic signal kam karna methyldopa ka mechanism hai. Hydralazine seedha blood vessels par kaam karta hai.
+- **C — Correct:** Hydralazine chhoti arteries ki smooth muscle relax karta hai. Isse resistance aur BP kam hote hain, lekin reflex tachycardia ho sakti hai.
 
 - **D — Incorrect:** Platelet aggregation rokna low-dose aspirin ka role hai. Aspirin acute severe BP ko control karne ki dawa nahi hai.
 
@@ -194,24 +194,24 @@ D. Ignore the pulse if fetal movement is present
 
 **Difficulty:** Medium · **Priority:** High · **Original practice**
 
-A. Oral labetalol
+A. Losartan
 
 B. Extended-release nifedipine
 
-C. Losartan
+C. Oral labetalol
 
 D. Methyldopa
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C**
+**Correct answer: A**
 
-- **A — Incorrect:** Labetalol commonly selected pregnancy antihypertensive hai. Asthma, slow pulse aur cardiac conditions ko pehle assess karna chahiye.
+- **A — Correct:** Losartan ek ARB hai jo fetal kidney function ko harm kar sakta hai, khaaskar later pregnancy mein. Prescriber se pregnancy-compatible alternative clarify karna chahiye.
 
 - **B — Incorrect:** Extended-release nifedipine maintenance BP control ke liye use ho sakta hai. Iski formulation acute dose se alag hoti hai.
 
-- **C — Correct:** Losartan ek ARB hai jo fetal kidney function ko harm kar sakta hai, khaaskar later pregnancy mein. Prescriber se pregnancy-compatible alternative clarify karna chahiye.
+- **C — Incorrect:** Labetalol commonly selected pregnancy antihypertensive hai. Asthma, slow pulse aur cardiac conditions ko pehle assess karna chahiye.
 
 - **D — Incorrect:** Methyldopa pregnancy mein selected maintenance option hai. Iska slow action aur side effects dhyan mein rakhte hain.
 
@@ -223,7 +223,7 @@ D. Methyldopa
 
 ### Q08. Which statement about methyldopa best explains its usual place in antenatal hypertension therapy?
 
-**Difficulty:** Medium · **Priority:** High · **Original practice**
+**Difficulty:** Easy · **Priority:** High · **Original practice**
 
 A. It is the preferred immediate rescue drug for every emergency
 
@@ -256,26 +256,26 @@ D. It reduces central sympathetic activity and is used for maintenance
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Urgently reassess maternal circulation, stop further BP-lowering doses pending review, and alert the obstetric team
+A. Send the woman to walk unassisted
 
 B. Give another hydralazine dose
 
 C. Assume the fetal tracing is unrelated
 
-D. Send the woman to walk unassisted
+D. Urgently reassess maternal circulation, stop further BP-lowering doses pending review, and alert the obstetric team
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A**
+**Correct answer: D**
 
-- **A — Correct:** BP bahut girne se uterus aur placenta ko blood supply kam ho sakti hai. Nurse maternal stabilization, fetal assessment aur urgent team review ko priority deti hai.
+- **A — Incorrect:** Faint patient ko walk karane se fall aur injury ho sakti hai. Use safe position aur monitoring chahiye.
 
 - **B — Incorrect:** Hydralazine aur dene se BP aur gir sakta hai. Pehle current hypotension ko manage karna chahiye.
 
 - **C — Incorrect:** Fetal heart rate change maternal hypotension se related ho sakta hai. Is connection ko ignore karna unsafe hai.
 
-- **D — Incorrect:** Faint patient ko walk karane se fall aur injury ho sakti hai. Use safe position aur monitoring chahiye.
+- **D — Correct:** BP bahut girne se uterus aur placenta ko blood supply kam ho sakti hai. Nurse maternal stabilization, fetal assessment aur urgent team review ko priority deti hai.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -285,7 +285,7 @@ D. Send the woman to walk unassisted
 
 ### Q10. A severe pre-eclampsia fluid prescription limits maintenance intake to 80 mL/hour in the absence of additional losses. The continuous medication carrier runs at 30 mL/hour. What maintenance crystalloid rate keeps the combined prescribed intake within that limit?
 
-**Difficulty:** Difficult · **Priority:** High · **Original practice**
+**Difficulty:** Medium · **Priority:** High · **Original practice**
 
 A. 80 mL/hour
 
@@ -302,7 +302,7 @@ D. 150 mL/hour
 
 - **A — Incorrect:** Agar crystalloid 80 aur carrier 30 ho toh total 110 ho jayega. Yeh stated total fluid limit se zyada hai.
 
-- **B — Correct:** 80 mein se carrier ke 30 subtract karne par 50 mL/hour bachta hai. Nurse dusre intake aur losses bhi chart karke order verify karti hai.
+- **B — Correct:** Is example mein agar medication carrier ke alawa koi aur intake nahi hai, toh 80 mL/hour mein se 30 mL/hour subtract karne par crystalloid ke liye 50 mL/hour bachta hai. Nurse actual oral intake, IV medicines aur losses ko bhi chart karti hai. Agar koi aur input ya additional loss ho, toh woh prescribed total-fluid plan ko team se verify karti hai.
 
 - **C — Incorrect:** 110 mL/hour crystalloid ke saath total 140 ho jayega. Isse fluid overload ka risk badhega.
 
@@ -318,24 +318,24 @@ D. 150 mL/hour
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Give repeated rapid litre boluses independently
+A. Assess perfusion, respiratory status and fluid balance, and seek urgent clinician review
 
 B. Stop recording intake
 
-C. Assess perfusion, respiratory status and fluid balance, and seek urgent clinician review
+C. Give repeated rapid litre boluses independently
 
 D. Treat oliguria by forcing oral water
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C**
+**Correct answer: A**
 
-- **A — Incorrect:** Preeclampsia mein capillaries se fluid leak ho sakta hai. Bina assessment rapid bolus lungs mein fluid jama kar sakta hai.
+- **A — Correct:** Oliguria ka matlab urine kam banna hai. Nurse BP, perfusion, catheter patency, lungs aur cumulative balance check karke cause aur fluid plan review karwati hai.
 
 - **B — Incorrect:** Intake record band karne se kidney function aur overload ka trend samajh nahi aayega. Accurate charting aur zaroori ho jaati hai.
 
-- **C — Correct:** Oliguria ka matlab urine kam banna hai. Nurse BP, perfusion, catheter patency, lungs aur cumulative balance check karke cause aur fluid plan review karwati hai.
+- **C — Incorrect:** Preeclampsia mein capillaries se fluid leak ho sakta hai. Bina assessment rapid bolus lungs mein fluid jama kar sakta hai.
 
 - **D — Incorrect:** Oral water force karna bhi total fluid ko badhata hai. Oliguria har baar dehydration ki wajah se nahi hoti.
 
@@ -353,22 +353,22 @@ A. Mild thirst alone
 
 B. Normal respiratory rate with clear lungs
 
-C. An unchanged ankle circumference
+C. New breathlessness with falling oxygen saturation and crackles
 
-D. New breathlessness with falling oxygen saturation and crackles
+D. An unchanged ankle circumference
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D**
+**Correct answer: C**
 
 - **A — Incorrect:** Pyaas akeli pulmonary oedema ka specific sign nahi hai. Nurse fluid plan aur comfort assess karti hai.
 
 - **B — Incorrect:** Normal breathing aur clear lungs reassuring hain, lekin routine monitoring phir bhi chalu rahegi.
 
-- **C — Incorrect:** Ankle ka size same rehne se lungs ke fluid ka pata nahi chalta. Respiratory findings zyada relevant hain.
+- **C — Correct:** Lungs mein fluid aane se oxygen exchange mushkil hota hai. Breathlessness, saturation girna aur crackles urgent escalation maangte hain.
 
-- **D — Correct:** Lungs mein fluid aane se oxygen exchange mushkil hota hai. Breathlessness, saturation girna aur crackles urgent escalation maangte hain.
+- **D — Incorrect:** Ankle ka size same rehne se lungs ke fluid ka pata nahi chalta. Respiratory findings zyada relevant hain.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -446,22 +446,22 @@ A. Continue unchanged for six months without review
 
 B. Stop all antihypertensives regardless of BP
 
-C. Stop methyldopa within two days and change to a suitable alternative if needed
+C. Switch automatically to losartan while breastfeeding
 
-D. Switch automatically to losartan while breastfeeding
+D. Stop methyldopa within two days and change to a suitable alternative if needed
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C**
+**Correct answer: D**
 
 - **A — Incorrect:** Methyldopa ko postpartum routine unchanged continue karna NICE ki salah nahi hai. Mood aur BP dono ko review karna chahiye.
 
 - **B — Incorrect:** Delivery ke baad BP persist ya badh sakta hai. Saari medicines bina assessment band karna unsafe hai.
 
-- **C — Correct:** NICE methyldopa ko delivery ke do din ke andar stop karne ko kehta hai. Agar BP treatment chahiye toh suitable alternative prescribe hota hai.
+- **C — Incorrect:** Breastfeeding mein ARBs ko generally avoid karte hain jab suitable alternative available ho. Losartan automatic choice nahi hai.
 
-- **D — Incorrect:** Breastfeeding mein ARBs ko generally avoid karte hain jab suitable alternative available ho. Losartan automatic choice nahi hai.
+- **D — Correct:** NICE methyldopa ko delivery ke do din ke andar stop karne ko kehta hai. Agar BP treatment chahiye toh suitable alternative prescribe hota hai.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -471,28 +471,28 @@ D. Switch automatically to losartan while breastfeeding
 
 ### Q16. A breastfeeding woman is prescribed enalapril postpartum. Which maternal monitoring is particularly important after initiation?
 
-**Difficulty:** Difficult · **Priority:** High · **Original practice**
+**Difficulty:** Medium · **Priority:** High · **Original practice**
 
 A. Daily fetal cardiotocography
 
 B. Serum bilirubin alone
 
-C. Maternal hearing test
+C. Renal function and serum potassium
 
-D. Renal function and serum potassium
+D. Maternal hearing test
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D**
+**Correct answer: C**
 
 - **A — Incorrect:** Baby deliver ho chuka hai, isliye fetal CTG ka role nahi hai. Postpartum maternal drug safety par focus chahiye.
 
 - **B — Incorrect:** Bilirubin liver se related test hai. Enalapril ki main routine monitoring kidney function aur potassium hai.
 
-- **C — Incorrect:** Hearing test enalapril safety ka routine marker nahi hai. BP aur renal tests zyada relevant hain.
+- **C — Correct:** Enalapril ACE inhibitor hai aur kidney function aur potassium par asar kar sakta hai. NICE postpartum use ke saath in tests ki monitoring kehta hai.
 
-- **D — Correct:** Enalapril ACE inhibitor hai aur kidney function aur potassium par asar kar sakta hai. NICE postpartum use ke saath in tests ki monitoring kehta hai.
+- **D — Incorrect:** Hearing test enalapril safety ka routine marker nahi hai. BP aur renal tests zyada relevant hain.
 
 **Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
@@ -517,7 +517,7 @@ D. Monitor only the mother's temperature
 
 **Correct answer: A**
 
-- **A — Correct:** Premature baby medicine ke effects ke liye zyada sensitive ho sakta hai. Unusual sleepiness, poor feeding ya cold extremities low BP jaise effect ka signal ho sakte hain.
+- **A — Correct:** Premature baby medicine ke effects ke liye zyada sensitive ho sakta hai. Agar baby unusually sleepy hai, doodh kam pee raha hai, pale dikh raha hai ya uske haath-pair thande hain, toh circulation ya low BP ki problem ho sakti hai. In signs se diagnosis confirm nahi hota, lekin mother ko inmein se koi bhi sign dikhe toh baby ki assessment ke liye promptly healthcare team ko batana chahiye.
 
 - **B — Incorrect:** Har antihypertensive ki wajah se breastfeeding band karna zaroori nahi hai. Drug choice aur baby ki condition individual review se decide hoti hai.
 
@@ -537,24 +537,24 @@ D. Monitor only the mother's temperature
 
 A. Maintain the full dose until the six-week visit regardless of BP
 
-B. Reduce antihypertensive treatment according to the prescribed plan
+B. Increase medication to prevent all future hypertension
 
-C. Increase medication to prevent all future hypertension
+C. Reduce antihypertensive treatment according to the prescribed plan
 
 D. Stop BP monitoring because readings have normalized
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B**
+**Correct answer: C**
 
-- **A — Incorrect:** NICE treatment ko bina review chhe hafte tak same rakhne ko nahi kehta hai. Agar BP ab low range mein aa raha hai, toh same dose se dizziness aur hypotension ka risk badh sakta hai.
+- **A — Incorrect:** NICE treatment ko bina review chhe hafte tak same rakhne ko nahi kehta hai. Agar repeated BP readings treatment-reduction threshold se neeche aa rahi hain, toh dose review zaroori hai. Bina review same dose rakhne se dizziness aur hypotension ka risk badh sakta hai.
 
-- **B — Correct:** Pre-eclampsia ke baad treatment le rahi woman ka BP 130/80 se neeche aaye toh NICE medicine kam karne ki salah deta hai. Nurse trend record karke prescribing team se dose adjustment confirm karti hai aur BP follow-up jaari rakhti hai.
+- **B — Incorrect:** Jab BP pehle se controlled aur 130/80 se neeche hai, toh dose badhane se BP zaroorat se zyada gir sakta hai. Future cardiovascular risk ko follow-up aur preventive care se address karte hain, unnecessary dose increase se nahi.
 
-- **C — Incorrect:** Jab BP pehle se controlled aur 130/80 se neeche hai, toh dose badhane se BP zaroorat se zyada gir sakta hai. Future cardiovascular risk ko follow-up aur preventive care se address karte hain, unnecessary dose increase se nahi.
+- **C — Correct:** Pre-eclampsia ke baad treatment le rahi woman ka BP 130/80 se neeche aaye toh NICE medicine kam karne ki salah deta hai. Nurse trend record karke prescribing team se dose adjustment confirm karti hai aur BP follow-up jaari rakhti hai.
 
-- **D — Incorrect:** Ek normal reading ka matlab yeh nahi hai ki BP dobara kabhi nahi badhega. Dose change ke baad scheduled monitoring se pata chalta hai ki naya treatment plan safe aur effective hai.
+- **D — Incorrect:** Repeated normal readings ka matlab bhi yeh nahi hai ki BP dobara kabhi nahi badhega. Dose change ke baad scheduled monitoring se pata chalta hai ki naya treatment plan safe aur effective hai.
 
 **Clinical references:** [NICE NG133, recommendations 1.5.17](https://www.ncbi.nlm.nih.gov/books/NBK546004/) · [NICE official recommendations](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
 
@@ -568,22 +568,22 @@ D. Stop BP monitoring because readings have normalized
 
 A. Enalapril plus losartan
 
-B. Enalapril plus a second ACE inhibitor
+B. Enalapril plus nifedipine
 
-C. Enalapril plus nifedipine
+C. Enalapril plus a second ACE inhibitor
 
 D. Enalapril plus an unprescribed herbal diuretic
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C**
+**Correct answer: B**
 
 - **A — Incorrect:** Losartan aur enalapril dono renin-angiotensin system par kaam karte hain. Inko combine karne se kidney injury aur high potassium ka risk badh sakta hai, isliye routine combination ke liye yeh suitable choice nahi hai.
 
-- **B — Incorrect:** Do ACE inhibitors ek hi pathway par kaam karte hain. Is tarah same mechanism wali do medicines dene se unnecessary side effects badh sakte hain aur yeh NICE ka recommended next combination nahi hai.
+- **B — Correct:** Nifedipine blood vessels ki smooth muscle mein calcium entry kam karti hai, jabki enalapril angiotensin II banne ko kam karta hai. Dono alag mechanisms se BP control mein madad kar sakte hain. NICE single medicine se control na hone par is combination ko consider karta hai, saath mein BP aur safety monitoring chahiye.
 
-- **C — Correct:** Nifedipine blood vessels ki smooth muscle mein calcium entry kam karti hai, jabki enalapril angiotensin II banne ko kam karta hai. Dono alag mechanisms se BP control mein madad kar sakte hain. NICE single medicine se control na hone par is combination ko consider karta hai, saath mein BP aur safety monitoring chahiye.
+- **C — Incorrect:** Do ACE inhibitors ek hi pathway par kaam karte hain. Is tarah same mechanism wali do medicines dene se unnecessary side effects badh sakte hain aur yeh NICE ka recommended next combination nahi hai.
 
 - **D — Incorrect:** Herbal diuretic ka dose, drug interactions aur breastfeeding safety clear nahi ho sakti hai. Nurse unprescribed product shuru nahi karti hai aur clinician se evidence-based combination review karwati hai.
 
