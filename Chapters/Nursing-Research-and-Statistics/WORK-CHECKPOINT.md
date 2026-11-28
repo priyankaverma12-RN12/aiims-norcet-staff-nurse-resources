@@ -1,10 +1,9 @@
 # Nursing Research and Statistics — isolated work checkpoint
 
-State: CLAIMED (CANDIDATE ONLY)
-Owner: nursing-research-batch10-20261128-0749Z
-Claimed UTC: 2026-11-28T07:49:50Z
-Expiry UTC: 2026-11-28T08:19:50Z
-Current scope: banks 11 and 12 candidate-only corrective review
+State: RELEASED (CANDIDATE ONLY)
+Last owner: nursing-research-batch10-20261128-0749Z
+Prior claim UTC: 2026-11-28T07:49:50Z
+Prior expiry UTC: 2026-11-28T08:19:50Z
 Last owner: nursing-research-batch09-20261128-0744Z
 Prior claim UTC: 2026-11-28T07:44:37Z
 Prior expiry UTC: 2026-11-28T08:14:37Z
@@ -125,3 +124,12 @@ Preflight: chapter selected provisionally from visible claims, branches and PRs.
 - Latest main cacfb4b598c82d6168ac3240af2f9ed6ac2d7856 and candidate 33717ad02748893ee0c277c85e7fdb68f6e0f907 tree comparisons: all other 13 banks, earlier concept/diagram/audit files and legacy/report files unchanged, no missing main chapter paths or divergent shared chapter blobs. Fresh all-15-bank structural check: 300 distinct normalized stems, 1200 options/rationales, 300 closed blocks, A75/B75/C75/D75, zero exact duplicates or structural/key errors. Compared 80 related headings in banks11/14/15 and PR40 QI. Not exhaustive or independent semantic certification.
 - Audit ledger 61322cfa1eb23100b407665c049c48dcf0c03c6a and index 4e2321485f7156ccf291918f4c2af7c4c30fa538 exact readbacks. Candidate 300 staged originals, 1200 rationales, four legacy originals, three reported adaptations = 307 slots. Banks01–10 sequential author-led review complete. Six prior diagram renders retained. PR7/8/12 exact changed-path overlap zero, PR8 request 7235943635 unanswered. No main merge, mock/PYQ addition or live count. Own lease released, no other job, learner history or automation changes.
 - Next banks11/12 Q1–20, preserving Batch04 bank11 Q1/2/4/5 corrections. Complete remaining preflight, independent source/semantic/difficulty review, curriculum depth, exact video and official INC visual evidence and navigation clearance. Only after applicable gates pass, safe integration and two distinct original-only 120-question mocks. No padding or repeated completed audits.
+
+
+## Batch 10 literature and historical research — 28 November 2026
+
+- Initial PR37 released 00e1a75444fd9da9cd8acdba867b854c3331e61c and main 513c6345c661adb62bf23f0a49c5844b32411d3d verified. Twenty-seven claim/checkpoint headers inspected; other active scopes disjoint. PR7/8/12 zero exact path overlap. Open PRs inspected; PR8 7235943635 unanswered and PR37 no independent reviewer comments. Candidate lease 0e64253e91e350933342f8e445a9f77ed84368d8 exact readback. Root rules 56–146, canonical 1–65 and PR36 487–490, middle AGENTS/Copilot and audit lines 301–340 requested with partial combined truncation. Full mandatory preflight not certified. Resume remaining canonical sections from 66 and audit-log unread portions, with bounded outputs and latest hash checks.
+- Bank11/12 Q1–20 reviewed, 13 four-option rationale rewrites, seven further targeted explanation improvements, two refined Bank11 Q14/Q17 stems, 36 new exam clues and related references. Bank11 Q1/Q2/Q4/Q5 unchanged byte-for-byte. All slots and keys retained, no added original count or reclassification. Bank11 1f9efea7e9fbe216f0edcd76b632eef83bfcfc52 and bank12 c54b56f372f7d3c58839eea1702ba5063aabe4cf exact readbacks. Cochrane ch4/ch5, JBI, DOI Foundation and OHA directly retrieved; Lusk and Wood historical methodology extracted PDF text retrieved, both screenshots cache misses. Dedicated literature MCQ mixed teaching/practice video lead watch fetch failed, no exact mapping claimed.
+- All 300 normalized stems compared, zero exact duplicates. Changed-bank structural checks 40 questions, 160 options and rationales, 40 closed answers, unchanged key distribution. Latest main 60450a712ae4b809bfd083026459441973386639 tree comparison: all other 13 banks, earlier six guides/six SVGs, audits, INC ledger and legacy/report files preserved, no removed or missing main paths or divergent shared blobs. Prior complete structural audit and local rendering retained without redundant rerun. Targeted semantic comparison not independent/exhaustive.
+- Audit 44a1f7876bb33c5415409e45c1dc3233ccbfb7b3 and index 1e2f8aaeefc314529a6805f44cac9d27d95a9f22 exact readbacks. Inventory remains 300 staged originals, 1200 rationales, four legacy originals, three reported adaptations, total 307. Banks01–12 sequential author-led review complete. Own lease released, no main merge, mock/PYQ additions, learner-history, other-owner or schedule changes.
+- Next banks13/14 Q1–20. Preserve all earlier corrections. Complete remaining preflight, independent source/semantic/difficulty review, INC depth and visual evidence, exact video mapping and PR8 clearance. Only after applicable gates pass, safely integrate and author two distinct original-only 120-question mocks with 960 rationales. No padding or draft-to-live credit.
