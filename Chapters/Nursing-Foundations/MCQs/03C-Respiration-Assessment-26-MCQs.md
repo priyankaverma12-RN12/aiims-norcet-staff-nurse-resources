@@ -397,17 +397,16 @@ Tachypnea ka matlab hai ki patient ki breathing frequency uski age aur clinical 
 
 **Correct answer: C. Hyperventilation means alveolar ventilation exceeds metabolic CO2 production, not just increased frequency**
 
-<!-- job5-rationale -->
-Tachypnea rate describe karti hai, hyperventilation physiological CO2 balance. Hyperventilation mein alveolar ventilation metabolic CO2 production ke relative excessive hoti hai, usually PaCO2 decrease hoti hai. Rapid shallow breaths mein dead-space fraction high ho sakta hai, isliye RR 28/min hone ke bawajood CO2 clearance insufficient ho sakti hai. Clinical assessment aur indicated blood gas se interpretation karo.
+Tachypnea ka matlab hai ki patient expected range se zyada baar saans le raha hai. Hyperventilation ka meaning alag hai. Jab alveoli, yaani lungs ki gas exchange wali chhoti hawa ki thailiyon, tak pahunchne wali fresh air body mein banne wali carbon dioxide ki quantity ke comparison mein zyada hoti hai, toh PaCO2 usually kam ho jaati hai. Yahan patient 28 baar saans le raha hai, lekin breaths shallow hain. Har breath ka kaafi hissa dead space mein reh sakta hai, jahan effective gas exchange nahi hota. Isliye fast rate ke bawajood CO2 clearance inadequate ho sakti hai. Nurse clinical condition aur indicated blood gas findings se ventilation interpret karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Absent breathing apnea hai.
-- **B:** Oxygen content tachypnea ki definition nahi hai.
-- **C:** Alveolar ventilation relative to CO2 production correct definition hai.
-- **D:** High rate alone low PaCO2 guarantee nahi karti.
+- **A:** Breathing absent hone ko apnea kehte hain. Hyperventilation mein ventilation present hoti hai aur metabolic requirement se excessive hoti hai.
+- **B:** Blood ka oxygen content hemoglobin aur oxygenation se related hai. Tachypnea breathing ki frequency describe karti hai, oxygen content nahi.
+- **C:** Hyperventilation mein alveolar ventilation CO2 production ke comparison mein zyada hoti hai. Isliye C sahi hai.
+- **D:** 20/min se zyada rate hone par bhi shallow breaths ki wajah se alveolar ventilation inadequate ho sakti hai. Low PaCO2 automatically confirm nahi hoti.
 
-**Exam clue:** Fast breathing ≠ necessarily excessive alveolar ventilation.
+**Exam clue:** Fast respiratory rate ko hyperventilation mat samjho. Breath ki depth aur effective CO2 clearance bhi matter karti hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK482502/?report=printable)
 <!-- /job5-rationale -->
@@ -436,17 +435,16 @@ Tachypnea rate describe karti hai, hyperventilation physiological CO2 balance. H
 
 **Correct answer: B. Breathlessness when lying flat that improves on sitting or standing**
 
-<!-- job5-rationale -->
-Orthopnea lying flat par breathlessness aur upright hone par relief ka symptom hai. Supine posture mein fluid redistribution ya respiratory mechanics change hone se susceptible patient symptomatic ho sakta hai. Heart failure ek association hai, diagnosis symptom alone se establish nahi hota. Onset, pillows needed aur associated symptoms assess karo.
+Orthopnea mein patient ko flat letne par saans lene mein difficulty hoti hai aur baithne ya khade hone par relief milta hai. Maan lo patient raat ko seedha let nahi paa raha aur multiple pillows lagakar sota hai. Supine position mein blood ya fluid redistribution aur breathing mechanics mein changes susceptible patient ki breathlessness badha sakte hain. Heart failure ek possible association hai, lekin sirf orthopnea se heart failure confirm nahi hota. Nurse onset, usual sleeping position, pillows ki requirement aur associated symptoms assess karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Exercise-related dyspnea orthopnea ki positional definition nahi.
-- **B:** Flat lying se breathlessness aur upright relief correct hai.
-- **C:** Painful swallowing odynophagia hai.
-- **D:** Nasal breathing orthopnea define nahi karti.
+- **A:** Activity ke dauran breathlessness exertional dyspnea ho sakti hai. Orthopnea specifically lying-flat position se related symptom hai.
+- **B:** Flat letne par breathlessness aur upright hone par relief orthopnea ki definition se match karte hain. Isliye B sahi hai.
+- **C:** Swallow karte waqt pain hone ko odynophagia kehte hain. Ye breathing posture se related symptom nahi hai.
+- **D:** Nose se breathing karna normal respiration ka ek route hai. Isse orthopnea define nahi hoti.
 
-**Exam clue:** Ortho = upright position relieves symptoms.
+**Exam clue:** Orthopnea mein flat position se breathlessness badhti hai aur upright position se relief mil sakta hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -475,17 +473,16 @@ Orthopnea lying flat par breathlessness aur upright hone par relief ka symptom h
 
 **Correct answer: D. Acknowledge dyspnea as a subjective symptom and assess relevant findings**
 
-<!-- job5-rationale -->
-Dyspnea patient ka subjective breathing discomfort hai. Visible effort absent hone par bhi symptom clinically meaningful ho sakta hai. Onset, severity, triggers, chest pain, respiratory rate, oxygen saturation aur relevant examination assess karo. Severe or new symptoms par timely escalation karo. Anxiety possible cause hai lekin organic causes bina review exclude nahi karte.
+Dyspnea patient ka khud ka experience hai, jab use saans lene mein discomfort ya difficulty feel hoti hai. Maan lo patient kehta hai ki use saans poori nahi aa rahi, lekin nurse ko us waqt obvious chest retractions nahi dikh rahi hain. Iska matlab ye nahi ki symptom false hai. Nurse uski baat sunti hai aur onset, severity, triggers, chest pain, respiratory rate, SpO2 aur other relevant findings assess karti hai. New ya severe breathlessness mein timely escalation chahiye. Anxiety bhi possible cause hai, lekin relevant physical causes assess kiye bina conclusion nahi nikalna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Visible distress absent hona symptom false prove nahi karta.
-- **B:** Psychiatric diagnosis premature assumption hai.
-- **C:** Reported symptom ko denied likhna false documentation hai.
-- **D:** Report acknowledge karke relevant findings assess karna correct hai.
+- **A:** Visible respiratory effort absent hone se patient ka subjective symptom invalid nahi ho jaata. Actual concern assess karna zaroori hai.
+- **B:** Bina assessment psychiatric cause decide karne se respiratory ya cardiovascular problem miss ho sakti hai.
+- **C:** Patient ne breathlessness report ki hai, isliye denies breathlessness likhna inaccurate documentation hoga.
+- **D:** Patient ki reported dyspnea acknowledge karna aur relevant clinical findings assess karna appropriate hai. Isliye D sahi hai.
 
-**Exam clue:** Subjective dyspnea and objective respiratory signs are separate.
+**Exam clue:** Dyspnea subjective symptom hai aur visible breathing effort objective finding hai. Dono ko independently assess karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -514,17 +511,16 @@ Dyspnea patient ka subjective breathing discomfort hai. Visible effort absent ho
 
 **Correct answer: C. Visible inward movement of soft tissues during inspiration**
 
-<!-- job5-rationale -->
-Retractions mein inspiration ke waqt intercostal, subcostal ya suprasternal soft tissues inward pull ho sakte hain. Increased negative intrathoracic pressure aur difficult airflow ke context mein yeh work of breathing ka clue hai. Rate, location, severity aur other distress signs assess karo. Infants mein clinically significant retractions prompt review maang sakti hain.
+Retractions mein patient inspiration ke dauran extra effort karta hai aur chest ke soft tissues andar ki taraf pull hote dikhte hain. Ye ribs ke beech, ribs ke neeche ya sternum ke upar dikh sakte hain. Difficult airflow ke context mein patient ko zyada negative intrathoracic pressure generate karna pad sakta hai, jisse soft tissues inward move karte hain. Nurse location, severity, respiratory rate aur other distress signs assess karti hai. Infants mein significant retractions prompt clinical review maang sakti hain.
 
 **Option-by-option reasoning**
 
-- **A:** Radial pulse cardiovascular observation hai.
-- **B:** Temperature respiratory mechanics directly describe nahi karti.
-- **C:** Inward tissue movement characteristic retraction finding hai.
-- **D:** Numeric rate retractions presence ya severity nahi batati.
+- **A:** Radial pulse ki strength circulation ka finding hai. Isse inspiration ke dauran chest tissues ka inward movement identify nahi hota.
+- **B:** Temperature infection ya other clinical causes assess karne mein useful ho sakti hai. Ye retractions ki characteristic movement nahi batati.
+- **C:** Inspiration par soft tissues ka visibly andar khinchna retractions ka characteristic sign hai. Isliye C sahi hai.
+- **D:** Respiratory rate breaths ki sankhya batati hai. Sirf numerical rate se retractions ka presence ya severity pata nahi chalti.
 
-**Exam clue:** Retractions = inward tissue movement on inspiration.
+**Exam clue:** Retractions ko pehchaanne ke liye inspiration ke waqt chest ke soft tissues ka inward movement dekho.
 
 [Concept reference](https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/)
 <!-- /job5-rationale -->
@@ -553,17 +549,16 @@ Retractions mein inspiration ke waqt intercostal, subcostal ya suprasternal soft
 
 **Correct answer: B. It may indicate increased respiratory effort and requires assessment in context**
 
-<!-- job5-rationale -->
-Nasal flaring mein nostrils inspiration ke dauran widen hoti hain. Infant increased breathing demand ke saath airflow facilitate karne ki koshish kar sakta hai. Rate, chest indrawing, grunting, feeding, color aur alertness assess karo. New persistent flaring with distress urgent pediatric assessment maangti hai.
+Nasal flaring mein infant ki nostrils saans andar lete waqt widen hoti hain. Jab baby ko saans lene ke liye zyada effort karna pad raha ho, toh ye airflow facilitate karne ki compensatory attempt ho sakti hai. Nurse sirf nostrils ko nahi dekhti. Woh respiratory rate, chest indrawing, grunting, feeding ability, colour, oxygenation aur alertness bhi assess karti hai. Agar flaring nayi hai, persist karti hai ya doosre distress signs ke saath hai, toh prompt pediatric review zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** Increased effort adequate ventilation guarantee nahi karta.
-- **B:** Nasal flaring possible increased work of breathing ka clue hai.
-- **C:** Infection specific cause establish nahi hota.
-- **D:** Respiratory count aur other findings still needed hain.
+- **A:** Zyada effort karna ye prove nahi karta ki lungs effectively ventilate ho rahe hain. Infant ki overall respiratory condition assess karni chahiye.
+- **B:** Nasal flaring increased work of breathing ka possible clue hai aur clinical context mein assessment chahiye. Isliye B sahi hai.
+- **C:** Nasal flaring ke multiple possible causes ho sakte hain. Sirf is sign se specific lung infection confirm nahi hota.
+- **D:** Nasal flaring ko observe karne ke bawajood actual respiratory rate aur other relevant findings separately assess karni chahiye.
 
-**Exam clue:** Infant flaring is a distress clue, not a diagnosis.
+**Exam clue:** Infant mein nasal flaring ko possible breathing distress ka clue samjho, definitive diagnosis nahi.
 
 [Concept reference](https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/)
 <!-- /job5-rationale -->
@@ -592,17 +587,16 @@ Nasal flaring mein nostrils inspiration ke dauran widen hoti hain. Infant increa
 
 **Correct answer: A. The posture may help breathing mechanics but can indicate significant respiratory distress**
 
-<!-- job5-rationale -->
-Forward leaning with arms supported ko tripod-type posture kehte hain. Shoulder girdle stabilize hone se accessory respiratory muscles work karne mein help mil sakti hai. Patient apni comfortable position choose kar raha ho sakta hai, lekin struggling breathing serious sign hai. Prompt assessment aur escalation karo, unnecessary forced supine positioning avoid karo.
+Jab patient aage jhukkar baithta hai aur apni arms kisi support par rakhta hai, toh ise tripod-type posture kehte hain. Arms support karne se shoulder girdle stable ho sakti hai aur accessory respiratory muscles breathing mein better assist kar sakti hain. Patient khud aisi position choose kar sakta hai kyunki usmein breathing comparatively comfortable lagti hai. Lekin agar woh saans lene ke liye struggle kar raha hai, toh posture ko improvement ka proof nahi maanna chahiye. Nurse prompt respiratory assessment aur escalation karti hai aur patient ko unnecessarily flat position mein force nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** Posture breathing mechanics assist kar sakti hai aur distress ka clue bhi hai.
-- **B:** Sitting ability adequate ventilation prove nahi karti.
-- **C:** Asthma ke alawa multiple causes possible hain.
-- **D:** Forced flat position breathlessness worsen kar sakti hai.
+- **A:** Supported forward-leaning posture breathing mechanics mein help kar sakti hai, lekin respiratory distress ka sign bhi ho sakti hai. Isliye A sahi hai.
+- **B:** Patient baith paa raha hai, isse adequate oxygenation ya ventilation automatically prove nahi hoti.
+- **C:** Asthma mein ye posture mil sakti hai, lekin COPD aur doosri respiratory conditions mein bhi possible hai. Exact cause further assessment se establish hota hai.
+- **D:** Patient ko flat letne ke liye force karna breathlessness worsen kar sakta hai. Safe comfortable position aur urgent assessment ko priority do.
 
-**Exam clue:** Tripod posture can be compensation for distress.
+**Exam clue:** Tripod posture respiratory effort ko support kar sakti hai. Struggling breathing ho toh urgent clinical assessment karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -631,17 +625,16 @@ Forward leaning with arms supported ko tripod-type posture kehte hain. Shoulder 
 
 **Correct answer: C. Urgent reassessment and escalation because reduced effort may reflect fatigue rather than recovery**
 
-<!-- job5-rationale -->
-Respiratory muscles prolonged increased work ke baad fatigue ho sakti hain. Patient quieter ho jaaye lekin exhausted aur deteriorating ho toh effort kam hona recovery nahi, ventilatory failure ka warning sign ho sakta hai. Airway, rate, depth, consciousness, oxygenation aur perfusion urgently assess karo. Emergency help aur appropriate support local protocol ke according arrange karo.
+Respiratory muscles ko agar lambe samay tak extra kaam karna pade, toh woh thak sakti hain. Maan lo patient pehle bahut zor laga kar saans le raha tha aur ab achanak quiet ho gaya hai, lekin exhausted dikh raha hai. Ho sakta hai uske paas effective ventilation maintain karne ke liye sufficient muscle strength nahi bachi ho. Ye recovery ke bajay respiratory failure ka warning sign ho sakta hai. Nurse airway, rate, depth, consciousness, oxygenation aur perfusion urgently reassess karti hai. Emergency help aur indicated respiratory support applicable protocol ke according arrange karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Scheduled observation tak wait dangerous ho sakta hai.
-- **B:** Resolution confirm kiye bina chart karna inaccurate hai.
-- **C:** Urgent reassessment aur escalation fatigue risk address karte hain.
-- **D:** Quietness alone recovery prove nahi karti.
+- **A:** Scheduled observation tak wait karne se worsening respiratory failure detect aur treat karne mein dangerous delay ho sakta hai.
+- **B:** Breathing quiet hone ko resolution likhne se pehle actual condition reassess karni chahiye. Exhaustion ko ignore karna unsafe hai.
+- **C:** Urgent reassessment aur escalation possible respiratory muscle fatigue aur ventilatory failure ka risk address karti hain. Isliye C sahi hai.
+- **D:** Quiet breathing kabhi improvement ho sakti hai, lekin exhaustion aur deterioration ke saath ye dangerous sign bhi ho sakti hai.
 
-**Exam clue:** Reduced effort plus exhaustion is a red flag.
+**Exam clue:** Reduced breathing effort ke saath exhaustion ho toh recovery assume mat karo. Patient ko urgently reassess karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -670,17 +663,16 @@ Respiratory muscles prolonged increased work ke baad fatigue ho sakti hain. Pati
 
 **Correct answer: B. Possible upper-airway narrowing requiring urgent assessment**
 
-<!-- job5-rationale -->
-Stridor harsh high-pitched airway sound hai, often inspiration par prominent. New audible stridor upper airway narrowing ka concern raise karta hai. Allergy, swelling, foreign body ya other obstruction possible causes hain. Immediate airway assessment aur emergency expert help zaroori hai, patient ko unnecessarily distress na karo. Cause confirmation ke liye urgent support delay mat karo.
+Stridor ek harsh, high-pitched breathing sound hai jo aksar inspiration ke dauran zyada sunai deti hai. Jab upper airway ka passage narrow hota hai, toh airflow turbulent ho sakta hai aur aisi sound produce ho sakti hai. New audible inspiratory stridor allergy-related swelling, foreign body ya doosre upper-airway obstruction ka clue ho sakti hai. Nurse immediate airway assessment aur emergency expert help arrange karti hai. Patient ko unnecessarily distress nahi karna chahiye aur cause confirm karne ke wait mein required airway support delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Discharge teaching airway emergency se lower priority hai.
-- **B:** Upper-airway narrowing urgent concern hai.
-- **C:** Quiet normal breathing mein new stridor expected nahi.
-- **D:** Lower-airway secretions alone assume karna unsupported hai.
+- **A:** New stridor possible airway emergency hai. Routine discharge teaching se pehle patient ki immediate safety address karni chahiye.
+- **B:** Inspiratory stridor upper-airway narrowing ka concern raise karti hai, jiske liye urgent assessment chahiye. Isliye B sahi hai.
+- **C:** Normal quiet breathing mein nayi harsh high-pitched stridor expected finding nahi hai.
+- **D:** Lower-airway secretions se other respiratory sounds ho sakti hain, lekin new inspiratory stridor ka cause sirf secretions maan lena unsupported hai.
 
-**Exam clue:** New stridor = urgent airway assessment.
+**Exam clue:** Nayi stridor sunai de toh upper airway ko urgently assess karo aur appropriate emergency help arrange karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -709,17 +701,16 @@ Stridor harsh high-pitched airway sound hai, often inspiration par prominent. Ne
 
 **Correct answer: A. A brief sound during expiration that may accompany increased respiratory effort**
 
-<!-- job5-rationale -->
-Expiratory grunting mein infant exhalation ke waqt short sound produce karta hai, often partial glottic closure se. Yeh end-expiratory lung volume maintain karne ki compensatory attempt ho sakti hai. Grunting ko routine normal sign mat samjho when persistent or associated with distress. Feeding, oxygenation, color, retractions aur alertness assess karo aur prompt pediatric review lo.
+Expiratory grunting mein infant saans bahar nikalte waqt ek short sound produce karta hai. Kabhi glottis, yaani vocal cords ke beech wala opening, partially close hone se ye sound banti hai. Baby is tarah expiration ke end par lungs mein kuch pressure aur volume maintain karne ki koshish kar sakta hai. Persistent grunting ya other distress signs ke saath grunting ko normal nahi maanna chahiye. Nurse feeding, respiratory effort, retractions, oxygenation, colour aur alertness assess karti hai aur prompt pediatric review arrange karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Expiration ke waqt short respiratory sound given description match karta hai.
-- **B:** Heart sounds cardiovascular cycle se related hain.
-- **C:** Silent breathing pause apnea describe karti hai.
-- **D:** Pulse deficit apical-radial pulse difference hai.
+- **A:** Expiration ke waqt short respiratory sound grunting ke description se match karti hai aur increased effort ka clue ho sakti hai. Isliye A sahi hai.
+- **B:** Heart sounds cardiac cycle se related hoti hain. Expiration par respiratory grunt ek alag sound hai.
+- **C:** Breathing ka pause jahan breath absent ho, apnea describe kar sakta hai. Grunting mein expiration ke waqt sound present hoti hai.
+- **D:** Pulse deficit apical aur radial rates ka difference hai. Ye infant ki respiratory sound ka term nahi hai.
 
-**Exam clue:** Grunt = short expiratory sound, possible distress.
+**Exam clue:** Infant mein expiratory grunt ko possible respiratory distress ka clue samjho aur poori clinical condition assess karo.
 
 [Concept reference](https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/)
 <!-- /job5-rationale -->
@@ -748,17 +739,16 @@ Expiratory grunting mein infant exhalation ke waqt short sound produce karta hai
 
 **Correct answer: D. Asymmetric expansion warrants focused assessment and clinical review based on onset and severity**
 
-<!-- job5-rationale -->
-Chest expansion dono sides par compare karna rate count se alag assessment hai. One-sided movement kam hone ke causes pain, chest wall restriction, pleural air ya fluid aur other lung pathology ho sakte hain. Onset, trauma, breath sounds, oxygenation aur distress evaluate karo. Sudden asymmetry with instability urgent escalation maangti hai.
+Chest expansion assess karte waqt nurse dekhti hai ki inspiration aur expiration ke dauran chest ki dono sides comparable tareeke se move ho rahi hain ya nahi. Ek side kam move kare toh pain, chest wall restriction, pleural space mein air ya fluid, ya other lung pathology possible hai. Sirf asymmetry se exact disease confirm nahi hoti. Nurse onset, trauma history, pain, breath sounds, oxygenation aur breathing distress assess karti hai. Agar asymmetry sudden hai aur patient unstable hai, toh urgent escalation karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Single physical sign exact diagnosis prove nahi karta.
-- **B:** Normal rate asymmetry ko irrelevant nahi banati.
-- **C:** Severe pain ke bawajood forced repeated breaths unsafe ho sakte hain.
-- **D:** Focused review onset aur severity ke according correct hai.
+- **A:** Ek physical sign ke multiple causes ho sakte hain. Exact diagnosis ke liye related history, examination aur indicated investigations chahiye.
+- **B:** Respiratory rate normal hone se chest expansion normal prove nahi hoti. Asymmetry phir bhi clinically important ho sakti hai.
+- **C:** Severe pain ke bawajood repeated deep breaths force karne se discomfort badh sakta hai. Safe assessment aur timely clinical review chahiye.
+- **D:** Onset aur severity ke hisaab se focused respiratory assessment aur clinical review arrange karna appropriate hai. Isliye D sahi hai.
 
-**Exam clue:** Asymmetry needs context and focused assessment.
+**Exam clue:** Chest expansion ki nayi asymmetry ko respiratory rate se alag assess karo aur instability hone par urgent help lo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -787,17 +777,16 @@ Chest expansion dono sides par compare karna rate count se alag assessment hai. 
 
 **Correct answer: B. Review the trend and assess for causes or early deterioration**
 
-<!-- job5-rationale -->
-RR 16 se 24/min increase baseline change dikhata hai. Rising rate pain, fever, metabolic compensation, infection ya respiratory deterioration se related ho sakti hai. Resting measurement validate karo, other vital signs, symptoms aur perfusion assess karo. Clinical concern ho toh escalation score threshold ka wait mat karo.
+Respiratory rate ka trend patient ki condition mein early change dikha sakta hai. Yahan rate 16 se 24/min tak badhi hai aur obvious exercise bhi nahi hui hai. Fever, pain, infection, respiratory compromise ya metabolic disturbance ki wajah se breathing demand badh sakti hai. Nurse pehle actual resting rate verify karti hai aur symptoms, breathing effort, SpO2, other vital signs aur perfusion assess karti hai. Trend se concern ho toh sirf formal escalation score ke threshold cross hone ka wait nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Old value substitute karna false documentation hai.
-- **B:** Trend assess karna early deterioration identify karne mein help karta hai.
-- **C:** Single value diagnosis na prove kare tab bhi trend important hai.
-- **D:** Anxiety alone assume karne se serious causes miss ho sakte hain.
+- **A:** Earlier normal reading ko current value ki jagah record karne se real deterioration ka trend hide ho sakta hai. Actual reading preserve karo.
+- **B:** Rising rate ka trend aur possible causes assess karna early deterioration identify karne mein help karta hai. Isliye B sahi hai.
+- **C:** Ek reading se diagnosis confirm na hone ke bawajood repeated observations ka trend clinically important ho sakta hai.
+- **D:** Anxiety rate badha sakti hai, lekin bina assessment poora change anxiety ko assign karne se serious causes miss ho sakte hain.
 
-**Exam clue:** Rising RR is a warning trend, not a diagnosis.
+**Exam clue:** Resting respiratory rate steadily badh rahi ho toh trend aur patient ki changing condition ko investigate karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -826,17 +815,16 @@ RR 16 se 24/min increase baseline change dikhata hai. Rising rate pain, fever, m
 
 **Correct answer: A. Assess pain, depth of breathing, sedation and other relevant respiratory findings**
 
-<!-- job5-rationale -->
-Postoperative pain ki wajah se patient chest ya abdomen protect karke shallow breathing kar sakta hai. Reduced lung expansion atelectasis risk increase kar sakti hai. Analgesia ke saath sedation aur respiratory depression risk bhi assess karo, especially opioid use mein. Pain score, depth, rate, oxygenation, alertness aur relevant findings review karke safe care plan modify karo.
+Operation ke baad pain ki wajah se patient deep breath lene se bach sakta hai aur chest ya abdomen ko protect kar sakta hai. Shallow breathing se lungs ke kuch areas adequately expand nahi ho paate aur atelectasis ka risk badh sakta hai. Pain relief useful hai, lekin opioid medicines sedation aur respiratory depression bhi cause kar sakti hain. Nurse pain score ke saath breathing ki depth, rate, effort, oxygenation aur alertness assess karti hai. In findings aur authorized care plan ke according appropriate intervention aur reassessment arrange karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Pain aur respiratory status dono assess karna correct hai.
-- **B:** Pain score alone ventilation establish nahi karta.
-- **C:** Shallow breathing pneumonia confirm nahi karti.
-- **D:** Severe hypoxemia ka wait early recognition miss karta hai.
+- **A:** Pain aur respiratory status dono assess karne se inadequate lung expansion aur excessive sedation jaise concerns samajhne mein help milti hai. Isliye A sahi hai.
+- **B:** Pain score se discomfort ka idea milta hai, lekin adequate ventilation confirm nahi hoti. Breathing aur alertness bhi check karni chahiye.
+- **C:** Shallow breathing pain ya sedation ki wajah se ho sakti hai. Sirf is finding se pneumonia diagnose nahi hoti.
+- **D:** Severe hypoxemia hone ka wait karne se ventilation problem ke early signs miss ho sakte hain. Timely respiratory assessment zaroori hai.
 
-**Exam clue:** Balance pain relief, sedation and ventilation.
+**Exam clue:** Postoperative care mein pain relief ke saath sedation, breathing depth aur ventilation bhi assess karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -865,17 +853,16 @@ Postoperative pain ki wajah se patient chest ya abdomen protect karke shallow br
 
 **Correct answer: D. Compare with a direct clinical count and verify equipment or signal integrity**
 
-<!-- job5-rationale -->
-Monitor respiratory rate impedance, capnography ya another signal se estimate kar sakta hai depending on device. Motion, loose leads ya signal quality false changes produce kar sakte hain. Direct clinical observation aur count se result compare karo, equipment and signal check karo. Real distress ya abnormal findings par immediate response do. Original observations honestly record karo.
+Respiratory monitor device ke type ke according chest impedance, capnography ya doosre signal se respiratory rate estimate kar sakta hai. Motion, loose leads ya poor signal quality ki wajah se displayed rate achanak change ho sakti hai, even jab actual breathing steady ho. Nurse patient ko directly observe karti hai aur suitable interval mein actual breaths count karti hai. Phir equipment connection aur signal integrity verify karke results compare karti hai. Agar patient mein real distress ya concerning findings hain, toh urgent action equipment troubleshooting se pehle ya saath mein lena chahiye. Actual observations accurately document karo.
 
 **Option-by-option reasoning**
 
-- **A:** Every monitor value definitive nahi hoti.
-- **B:** All monitoring stop karna patient safety compromise kar sakta hai.
-- **C:** Most normal value select karna inaccurate charting hai.
-- **D:** Direct count aur signal verification appropriate hain.
+- **A:** Monitor useful hai, lekin artifact ki wajah se reading incorrect bhi ho sakti hai. Har number ko bina verification definitive mat maano.
+- **B:** Saari monitoring disable karne se important deterioration miss ho sakti hai. Equipment problem ko appropriately assess aur resolve karo.
+- **C:** Sabse normal dikhne wali value choose karna actual assessment ko distort karta hai. Measured findings aur verification ka result record karo.
+- **D:** Direct clinical count aur equipment signal verify karne se discrepancy evaluate ki ja sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Assess patient and validate monitor signal.
+**Exam clue:** Monitor reading aur patient ka actual breathing pattern match na kare toh patient assess karo aur signal verify karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -904,17 +891,16 @@ Monitor respiratory rate impedance, capnography ya another signal se estimate ka
 
 **Correct answer: C. 6 L/min**
 
-<!-- job5-rationale -->
-Total minute ventilation har minute lungs mein move hone wale air volume ka estimate hai. Formula VE = respiratory rate × tidal volume. Given RR 20/min aur VT 300 mL = 0.3 L. VE = 20 × 300 = 6000 mL/min = 6 L/min. Yeh total ventilation hai, gas-exchanging alveolar ventilation nahi.
+Minute ventilation ka matlab hai ek minute mein lungs ke andar aur bahar move hone wali total air quantity. Ise calculate karne ke liye respiratory rate ko tidal volume se multiply karte hain. Tidal volume har breath mein move hone wali air hai. Yahan respiratory rate 20/min aur tidal volume 300 mL hai. Dono multiply karne par 6000 mL/min aata hai. Kyunki 1000 mL ek liter hota hai, isliye total minute ventilation 6 L/min hai. Ye total moved air hai, sirf gas exchange mein participate karne wali alveolar air nahi.
 
 **Option-by-option reasoning**
 
-- **A:** 20 L/min rate ko volume samajhne ki error hai.
-- **B:** 60 L/min tenfold conversion error hai.
-- **C:** 6 L/min correct multiplication aur unit conversion hai.
-- **D:** 0.6 L/min tenfold underestimate hai.
+- **A:** 20 breaths/min breathing frequency hai. Ise directly 20 L/min volume nahi maan sakte.
+- **B:** 60 L/min correct result se ten times zyada hai. 6000 mL ko liters mein convert karne par 6 L milte hain.
+- **C:** 20 × 300 mL = 6000 mL/min, yaani 6 L/min hai. Isliye C sahi hai.
+- **D:** 0.6 L/min sirf 600 mL/min hota hai, jo calculated 6000 mL/min se ten times kam hai.
 
-**Exam clue:** VE = RR × VT. 1000 mL = 1 L.
+**Exam clue:** Total minute ventilation ke liye respiratory rate aur tidal volume multiply karo, phir mL ko L mein correctly convert karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK482502/?report=printable)
 <!-- /job5-rationale -->
@@ -943,17 +929,16 @@ Total minute ventilation har minute lungs mein move hone wale air volume ka esti
 
 **Correct answer: A. A larger fraction of each shallow breath may ventilate dead space rather than gas-exchanging alveoli**
 
-<!-- job5-rationale -->
-Minute ventilation VE = RR × VT, lekin alveolar ventilation VA = RR × (VT − physiological dead space). Example ke liye same 150 mL dead space assume karo. 12 breaths × 500 mL = 6 L/min total, effective VA 4.2 L/min. 24 breaths × 250 mL = 6 L/min total, effective VA 2.4 L/min. Actual dead space patient-specific hota hai, example sirf principle samjhata hai.
+Total minute ventilation mein har breath ki poori air include hoti hai. Lekin air ka kuch hissa dead space mein reh sakta hai, jahan effective gas exchange nahi hota. Alveolar ventilation ka estimate respiratory rate × (tidal volume − physiological dead space) se milta hai. Maan lo example mein dono patients ka dead space 150 mL hai. Pehla patient 12 breaths/min aur 500 mL tidal volume leta hai, toh total ventilation 6 L/min aur alveolar ventilation 12 × 350 mL = 4.2 L/min hai. Doosra 24 breaths/min aur 250 mL tidal volume leta hai, toh total ventilation bhi 6 L/min hai, lekin alveolar ventilation 24 × 100 mL = 2.4 L/min hogi. Actual dead space patient ke according vary karta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Smaller breath ka greater proportion dead space mein waste ho sakta hai.
-- **B:** Fast breathing dead space eliminate nahi karti.
-- **C:** Total aur alveolar ventilation dead space ke kaaran differ karte hain.
-- **D:** Rate blood oxygen content directly measure nahi karti.
+- **A:** Shallow breath mein dead space ka relative hissa zyada ho sakta hai, isliye same total ventilation par effective alveolar ventilation kam ho sakti hai. Isliye A sahi hai.
+- **B:** Fast breathing se anatomical ya physiological dead space automatically disappear nahi hota. Har breath ka effective volume phir bhi matter karta hai.
+- **C:** Total ventilation mein dead-space ventilation bhi include hoti hai. Isliye total aur alveolar ventilation hamesha identical nahi hoti.
+- **D:** Respiratory rate breaths ki sankhya batati hai. Blood oxygen content directly measure nahi karti.
 
-**Exam clue:** Same VE can produce different VA.
+**Exam clue:** Same total minute ventilation hone par bhi tidal volume aur dead space ke hisaab se alveolar ventilation different ho sakti hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK482502/?report=printable)
 <!-- /job5-rationale -->
@@ -982,17 +967,16 @@ Minute ventilation VE = RR × VT, lekin alveolar ventilation VA = RR × (VT − 
 
 **Correct answer: D. Activate the emergency response and follow the appropriate resuscitation assessment rather than complete routine charting first**
 
-<!-- job5-rationale -->
-Unresponsive adult with absent normal breathing possible cardiac arrest ya respiratory arrest hai. Emergency response activate karo aur trained healthcare-provider resuscitation assessment immediately follow karo. Occasional gasps normal breathing nahi hain. Appropriate pulse assessment aur indicated CPR or ventilation support local protocol ke according do, routine observation charting ko emergency care ke baad complete karo.
+Agar assessment ke dauran adult unresponsive ho jaaye aur normal breathing absent ho, toh possible cardiac ya respiratory arrest ka concern hai. Occasional gasping ko normal effective breathing nahi maanna chahiye. Nurse immediately emergency response activate karti hai aur apni training aur applicable healthcare-provider resuscitation protocol ke according assessment follow karti hai. Indicated pulse assessment aur required CPR ya ventilation support timely start karna chahiye. Routine respiratory count aur charting emergency care ke baad actual events ke according complete ki ja sakti hain.
 
 **Option-by-option reasoning**
 
-- **A:** Full-minute count ke liye help delay nahi karna.
-- **B:** Apnea duration threshold ka wait unsafe hai.
-- **C:** Previous normal reading current emergency conceal karti hai.
-- **D:** Emergency activation aur appropriate resuscitation priority hai.
+- **A:** Full-minute respiratory count finish karne ke liye emergency help delay karne se life-saving care late ho sakti hai.
+- **B:** Unresponsive patient mein normal breathing absent ho toh arbitrary apnea duration complete hone ka wait unsafe hai. Prompt resuscitation assessment chahiye.
+- **C:** Previous normal rate record karke chale jaana current emergency conceal karega aur necessary care delay karega.
+- **D:** Emergency response activate karna aur appropriate resuscitation assessment follow karna routine charting se pehle priority hai. Isliye D sahi hai.
 
-**Exam clue:** Emergency care before routine charting.
+**Exam clue:** Unresponsive patient ki normal breathing absent ho toh emergency response aur indicated resuscitation care ko priority do.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
