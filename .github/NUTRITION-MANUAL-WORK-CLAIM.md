@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: no active writer lease. Nutrition workstream reserved in draft PR35; coordinate before editing its candidate or overlapping chapter navigation.
+State: CLAIMED
+Owner: nutrition-priority-run2-20261128-0546Z
+Scope: PR35 Nutrition-only new topic banks and chapter-local new inventory. No existing navigation, other owners, automation or website edits.
+Claimed UTC: 2026-11-28T05:46:36Z
+Expiry UTC: 2026-11-28T06:16:36Z
 
 ## Latest released checkpoint — Run 1
 
