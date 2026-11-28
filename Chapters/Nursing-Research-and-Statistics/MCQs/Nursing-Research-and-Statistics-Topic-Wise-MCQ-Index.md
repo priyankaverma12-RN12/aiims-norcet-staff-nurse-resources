@@ -20,8 +20,6 @@
 
 [Preserved four starter originals](Nursing-Research-and-Statistics-Topic-Wise-Starter-MCQs.md) · [Preserved reported adaptation](../Previous-Year-Questions/Nursing-Research-and-Statistics-Source-Linked-Reported-PYQs.md) · [Chapter](../README.md) · [Work checkpoint](../WORK-CHECKPOINT.md)
 
-## Remaining coverage
-
 ## Batch 02 concept guides and diagrams
 
 - [Descriptive and inferential statistics concepts](../Concepts/06-07-Descriptive-and-Inferential-Statistics.md) and [statistical test-selection diagram](../Concepts/Diagrams/06-07-Statistical-Test-Selection.svg).
