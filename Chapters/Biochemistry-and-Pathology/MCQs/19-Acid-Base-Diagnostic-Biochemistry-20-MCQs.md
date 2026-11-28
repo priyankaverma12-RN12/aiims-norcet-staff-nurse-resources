@@ -250,23 +250,23 @@
 
 </details>
 
-### Q13. A patient with chronic metabolic acid loading increases proximal tubular glutamine metabolism. Which useful renal response results?
+### Q13. In chloride-depleted metabolic alkalosis, reduced luminal chloride delivery limits bicarbonate secretion through a collecting duct exchanger. Which transporter mediates this exchange?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Acid-base diagnostic biochemistry | **Exam focus:** NORCET-style original
 
-- **A.** Net bicarbonate loss as the only possible result
-- **B.** Complete inhibition of urinary acid excretion
-- **C.** Direct conversion of glutamine into circulating hemoglobin
-- **D.** Ammonium excretion coupled with generation of new bicarbonate
+- **A.** Sodium-glucose cotransporter 2
+- **B.** Aquaporin-2
+- **C.** Na-K-2Cl cotransporter
+- **D.** Pendrin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Ammonium excretion coupled with generation of new bicarbonate**
+**Correct: D. Pendrin**
 
-- **A.** Renal ammoniagenesis acid challenge mein new bicarbonate generation support karti hai. Universal bicarbonate loss opposite hai.
-- **B.** Ammonium urine mein acid equivalents excrete karne ka major pathway hai. Is process se acid excretion enhance ho sakti hai.
-- **C.** Glutamine renal nitrogen metabolism mein participate karti hai. Hemoglobin synthesis described acid-base adaptation nahi.
-- **D.** Glutamine metabolism ammonia/ammonium generate karta hai. Net ammonium excretion new bicarbonate addition to blood support karti hai, acid elimination ke liye important hai.
+- **A.** SGLT2 proximal tubular glucose reabsorption mein role play karta hai. Described distal bicarbonate-chloride exchange nahi.
+- **B.** Aquaporin-2 collecting duct water permeability regulate karta hai. Yeh anion exchange transporter nahi hai.
+- **C.** Yeh thick ascending limb salt reabsorption mein important hai. Described beta-intercalated cell bicarbonate secretion pendrin se related hai.
+- **D.** Pendrin beta-intercalated cell ki apical membrane par chloride-bicarbonate exchange karta hai. Luminal chloride kam hone se bicarbonate secretion limit ho sakti hai, jo alkalosis maintenance contribute karti hai.
 
 </details>
 
@@ -420,3 +420,5 @@
 - [Metabolic alkalosis core curriculum](https://pmc.ncbi.nlm.nih.gov/articles/PMC10947768/) — Q11–13.
 - [Urine chemistries in kidney disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC6390907/) and [ammonia biochemistry](https://www.ncbi.nlm.nih.gov/sites/books/NBK541039/) — Q13–17, Q19.
 - Indexed source extracts reviewed. Exact item-level direct verification, independent clinical and semantic review, dedicated practice-video and historical mappings remain pending. No PYQ credit.
+
+- [Metabolic alkalosis core curriculum](https://pmc.ncbi.nlm.nih.gov/articles/PMC10947768/) — replacement Q13, pendrin and chloride depletion. Replaced an overlapping learning objective before integration, without increasing count.
