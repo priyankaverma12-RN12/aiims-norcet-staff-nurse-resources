@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b06-resume-20261128T1609Z
+Scope: PR54 new 14B established adult central DI inpatient nursing candidate package only. No shared navigation or prior bank edits.
+Claimed UTC: 2026-11-28T16:09:00Z
+Expiry UTC: 2026-11-28T16:39:00Z
 
 Last owner: endocrine-b06-20261128T1554Z
 Release: Batch 06 partial staging and exact readbacks completed on 2026-11-28.
