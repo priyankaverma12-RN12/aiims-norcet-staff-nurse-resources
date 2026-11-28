@@ -9,7 +9,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Renal adaptations: Overview Q12–Q14 aur [17 additional originals](../MCQs/03C-Maternal-Renal-Adaptations-17-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md#renal-adaptations) aur full evidence audit pending status dekhein.
   - Gastrointestinal adaptations: Overview Q15–Q16 aur [18 additional originals](../MCQs/03D-Maternal-Gastrointestinal-Adaptations-18-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md#gastrointestinal-adaptations) aur [exam evidence gaps](../Previous-Year-Questions/03C-Maternal-Renal-GI-Exam-Evidence.md) dekhein.
   - Endocrine adaptations: Overview Q17 aur [19 additional originals](../MCQs/03E-Maternal-Endocrine-Adaptations-19-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03E-Maternal-Endocrine-Adaptations.md) aur [reported exam evidence](../Previous-Year-Questions/03E-Maternal-Endocrine-Exam-Evidence.md) dekhein.
-  - Breast, musculoskeletal aur skin changes ki separate individual-topic allocation aur expansion pending hai.
+  - Breast adaptations: Overview Q18 aur [19 additional originals](../MCQs/03F-Maternal-Breast-Adaptations-19-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03F-Maternal-Breast-Adaptations.md) aur [reported evidence](../Previous-Year-Questions/03F-Maternal-Breast-Exam-Evidence.md) dekhein.
+  - Musculoskeletal aur skin changes ki separate individual-topic allocation aur expansion pending hai.
 - Fetal development, placenta and membranes
 - fetal assessment
 - normal pregnancy and labor
