@@ -221,6 +221,8 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 
 **YouTube MCQ practice: specific verification pending.**
 
+**Supplementary teaching video (not counted as MCQ practice):** [RegisteredNurseRN — Walker Nursing Assistive Devices Mobility NCLEX](https://www.youtube.com/watch?v=GzTp6Xy6ako), 16 August 2019. Video ke indexed description mein walker ke handgrip fit aur elbow flexion samjhaye gaye hain. Yeh demonstration hai aur quiz alag link par hai. Isliye exact in-video MCQ abhi verify nahi hua hai.
+
 [Legacy mock practice: Mock 02, Q6](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q6-when-adjusting-a-walker-for-a-patient-which-finding-generally-indicates-a-suitable-handgrip-height) — same topic-bank question, not a new original.
 
 </details>
@@ -442,7 +444,7 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, description indexed only):** [NurseStudy Net — Stroke Nursing NCLEX Practice Questions: 30 Neuro Review Questions](https://www.youtube.com/watch?v=QcOj75neLRg), 10 September 2026. Publisher ne stroke recovery ke dauran safe transfers aur rehabilitation ko question coverage mein list kiya hai. Yeh related practice hai, lekin affected arm ko support karne wala exact question, timestamp aur playback verify nahi hue hain. [National Clinical Guideline for Stroke, section 4.23.3](https://www.strokeguideline.org/chapter/motor-recovery-and-physical-effects-of-stroke/?id=302) affected arm ka weight support karne aur handling ke dauran mechanical stress se bachne ki salah deti hai.
 
 [Legacy mock practice: Mock 04, Q28](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q28-a-patient-with-a-weak-hemiplegic-arm-is-being-transferred-which-action-protects-the-shoulder) — same topic-bank question, not a new original.
 
@@ -632,7 +634,7 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, description indexed only):** [ADAPT NCLEX REVIEW — NCLEX Safety Questions | 35 Most Tested Patient Positioning with Common Sense](https://www.youtube.com/watch?v=hTe_CsWWhKM&t=867s), 9 April 2026. Publisher ke description mein 14:27 par total hip replacement aur abduction wedge ka topic diya gaya hai. Yeh hip protection se related practice hai, lekin toileting aur prescribed hip flexion limit wala exact question ya playback verify nahi hua hai. Patient ke liye surgeon ka individualized plan follow karein.
 
 [Legacy mock practice: Mock 05, Q113](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q113-a-patient-has-a-new-restriction-against-hip-flexion-beyond-the-prescribed-limit-which-nursing-approach-is-appropriate-during-toileting) — same topic-bank question, not a new original.
 
