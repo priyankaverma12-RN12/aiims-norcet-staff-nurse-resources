@@ -1,0 +1,32 @@
+# 08E — Source and candidate review register
+
+**Draft candidate. No new historical adaptation is counted.**
+
+[Concepts](../Concepts/08E-Hypertensive-Treatment-and-Nursing-Management.md) · [20 original questions](../MCQs/08E-Hypertensive-Treatment-and-Nursing-Management-20-MCQs.md)
+
+## Clinical evidence
+
+| Source | Coverage | Retrieval status |
+|---|---|---|
+| [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) | Urgent agents, contraindications, oral nifedipine safety, fluid restriction, Table 8 | Extracted PDF text retrieved. Screenshot failed. |
+| [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf) | Chapter 4, pages 87–89, Indian pathways and monitoring | Extracted PDF text retrieved. Screenshot failed. |
+| [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) | Maintenance target, postpartum medicines, fluid limit, transfer and follow-up | Search-index recommendations retrieved. Direct page 403. [NCBI mirror](https://www.ncbi.nlm.nih.gov/books/NBK546004/) indexed. |
+| [WHO severe hypertension 2018](https://www.who.int/publications/i/item/9789241550437) | Treatment of severe BP | Publication indexed. |
+| [WHO non-severe hypertension 2020](https://www.who.int/publications-detail-redirect/9789240008793) | Treatment and follow-up | Publication and recommendation excerpts indexed. |
+| [INC 2020 curriculum](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf) | Midwifery and high-risk pregnancy drugs | Gazette PDF indexed, not directly analyzed. |
+
+## Historical examination research
+
+HPRCA official [post code 25026 final key listing](https://hprca.hp.gov.in/homepage?id=2) and [May 2026 paper archive](https://himexam.com/hprca-hamirpur-staff-nurse-post-code-25026-question-paper-held-on-04-05-may-2026/) indexed. No matched authenticated item established. NORCET, PGIMER and staff nurse pregnancy antihypertensive search did not establish an exact defensible historical item. An AIIMS-labelled pediatric methyldopa question is not a pregnancy treatment item. A reported MP Group 5 PIH diagnostic criterion is outside 08E scope. A DSSSB eclampsia recognition item is outside scope. Do not count or tag these as 08E PYQs. Continue question-level searches across AIIMS, PGIMER, SGPGI, JIPMER, ESIC, RRB, DSSSB, HPRCA and state recruitment.
+
+## Video practice
+
+[Hypertension in Pregnancy MCQ — OSSSC Nursing Officer entrance examination](https://www.youtube.com/watch?v=B2q_G0Hx4Yw) indexed publisher description. Direct watch retrieval failed. Broad topic-level candidate for Q01–Q20, not verified coverage of each item. [Pharmacology pregnancy MCQ case](https://www.youtube.com/watch?v=81dhEvX6GZM) indexed, pharmacist exam context, secondary candidate only. [Management teaching video](https://www.youtube.com/watch?v=XtFVYIuSdos) indexed separately, not counted as dedicated MCQ practice.
+
+Exact item playback: 0. Specific question coverage gaps: 20. No timestamps claimed.
+
+## Candidate audit and continuation
+
+20 original stems and 80 option rationales staged. Internal exact stem uniqueness, balanced A/B/C/D key allocation and hidden-block count checked. Independent clinician review, independent semantic review against all prior banks, full historical preflight, source-level direct verification, rendered diagram and navigation test remain pending. Q01–20 distinct primary learning tasks: maintenance goal, urgent activation, asthma contraindication, formulation and route, hydralazine mechanism, bradycardia, ARB fetal risk, methyldopa mechanism, overshoot hypotension, fluid arithmetic, oliguria assessment, pulmonary oedema, dosing records, growth surveillance, methyldopa postpartum change, enalapril monitoring, infant observation, transfer criteria, early BP check, long-term prevention. No full cross-bank uniqueness certification. PR8 overlaps OBG navigation, PR12 changed-file list has no OBG paths. Neither PR changed. No main ownership claim acquired or live inventory edited. Candidate base e0a82b93b801b03408310c54d113b096f44d1f2b. Previous verified released checkpoint 2a422e3c853507205b2e86579734d5fc908a4b83.
+
+Before publication, complete full bounded preflight, inspect fresh main and all scopes, independently review this bank, reconcile PR8 navigation, acquire and verify ownership, validate the final candidate, publish without force and read back exact files. Only then update live Obstetrics originals from 804 to 824 and combined originals from 1368 to 1388. Historical adaptations remain 40 combined. Preserve all prior content, slots, corrections, other jobs and schedules. No subsequent curriculum topic started.
