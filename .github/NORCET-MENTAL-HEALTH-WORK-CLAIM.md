@@ -1,10 +1,18 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0436Z
-Scope: Mental Health Group 02B psychosocial assessment and chapter-local navigation, no PR merges or other job edits.
-Claimed UTC: 2026-11-28T04:36:00Z
-Expiry UTC: 2026-11-28T05:06:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02B, 28 November 2026
+
+- 30 new original psychosocial assessment MCQs, 17 Medium and 13 Difficult editorial labels, 120 English options and 120 separate option rationales, 30 closed details blocks, aligned answer distribution A8 B8 C7 D7. Bank commit 33b37cbbd089e78d969a954a63639e126272b7d5, blob ac73a7c9d4d2208c4f86b583864198b2f7f3bed8. Zero normalized exact matches against 71 existing question stems. Independent semantic and difficulty audit still pending.
+- Concepts dbca1fdc9fcfc95375ac150c95a4aa71f1f245f7, original SVG 7d3e464d2fe59e86425b953937a5ca3f1619f1b9, one NORCET 5 Mains reported adaptation 163d222257b96330053730bd8c4408d2ebb79f5a. NPrep direct question HTML retrieved, official booklet/key pending. OpenStax assessment and protective factor direct pages retrieved. Indexed teaching/practice candidates, two direct YouTube retrievals throttled, 31 question-specific video gaps.
+- References 969b249c812b56438a48196e61a9b89f5e1f0449, coverage map 6cc5fda1f50e3ee3291391b36f16e85d2ee80f0e, research register e62712b187a2b079230e9c2dca7b8f555c136555 and chapter README 3bba0ffa56340d7bd6db86edce034d5f6ec9497d. Exact remote readbacks. PR7/8 Mental Health navigation patches inspected, current main README reconciled using PR8 list style, preserved all prior links, added both 02A and 02B, corrected current counts. PR branches not modified or merged. Older PR snapshots must still preserve current main when merged. Global tracker unchanged because shared scopes active.
+- Inventory: 94 originals, 8 reported adaptations, 4 diagrams, 0 of 1200 mock-exclusive questions. Both skills retrieved and SHA identities unchanged from immediately preceding complete bounded review; fresh full line-by-line reread not certified. AGENTS/Copilot retrieved, relevant rules and latest audit learnings reviewed, all discovered work-claim states checked. PR2/7/8/12/28/29/30/31 files inspected for overlaps. Disjoint OBG, Hematology and metadata work preserved. No schedule changes. Own claim released.
+- Next: Group 02C cognitive screening and MMSE, then neurological examination and investigations. No chapter completion, official PYQ authentication, exhaustive semantic/clinical audit or rendered UI verification claimed.
 
 ## Verified continuation — Group 02A, 28 November 2026
 
