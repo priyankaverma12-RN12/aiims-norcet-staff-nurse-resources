@@ -25,13 +25,13 @@ Epidermis ko nutrients neeche dermis se diffusion ke through milte hain. Agar in
 - **B.** Hypodermis mein fat ke saath vessels aur connective tissue bhi hote hain. Yeh superficial abrasion ka level nahi hai.
 - **D.** Hair follicle ko surrounding dermal vessels support karte hain. Follicle ki blood supply is abrasion ka explanation nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q2. A plantar skin biopsy has an additional clear epidermal layer absent from most thin skin. Which layer is identified?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Stratum lucidum
 - **B.** Stratum basale
@@ -50,13 +50,13 @@ Palms aur soles par thick skin mein granulosum aur corneum ke beech lucidum hota
 - **C.** Spinosum mein keratinocytes ke junctions strength dete hain. Yeh thick aur thin dono skin mein hota hai.
 - **D.** Granulosum mein barrier banne ke liye granules hote hain. Iski presence sirf soles tak limited nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q3. Which cell population primarily replaces epidermal cells lost during normal surface shedding?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Mature corneocytes
 - **B.** Dermal fibroblasts
@@ -75,7 +75,7 @@ Basale mein keratinocytes divide hote hain aur naye cells dheere dheere surface 
 - **B.** Fibroblasts dermis mein collagen aur matrix banate hain. Yeh normal epidermal cell renewal ka main source nahi hain.
 - **C.** Sebaceous cells sebum release karte hain. Inka main kaam surface epidermis ko replace karna nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -100,13 +100,13 @@ Stratum corneum ke cells aur unke beech lipids ek barrier banate hain. Lipids ha
 - **C.** Arrector pili smooth muscle hair ko raise karti hai. Yeh surface water barrier nahi banati.
 - **D.** Deep vibration ko deeper mechanoreceptors sense karte hain. Surface lipids ka direct function vibration detection nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q5. A patient has loss of epidermal pigment production but intact keratinocyte renewal. Which cell is primarily affected?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Langerhans cell
 - **B.** Melanocyte
@@ -125,7 +125,7 @@ Melanocyte melanin banata hai aur pigment keratinocytes ko transfer karta hai. M
 - **C.** Merkel cells light touch sensation se related hain. Yeh pigmentation maintain nahi karte.
 - **D.** Fibroblast dermis ka structural matrix banata hai. Epidermal pigment production uska main kaam nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -150,13 +150,13 @@ Langerhans cells skin ke immune sentinel jaise kaam karte hain. Yeh antigen capt
 - **B.** Corneocyte outer barrier ka dead structural cell hai. Yeh active antigen processing nahi karta.
 - **C.** Merkel cell sensory nerve ending ke saath touch ko detect karne mein help karta hai. Immune activation iska main function nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q7. A lesion selectively injures collagen-producing cells in the dermis. Which cell is most relevant?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Fibroblast
 - **B.** Keratinocyte
@@ -175,13 +175,13 @@ Fibroblast collagen aur extracellular matrix banata hai. Dermal support aur woun
 - **C.** Melanocyte melanin banata hai. Collagen production uski primary responsibility nahi hai.
 - **D.** Adipocyte fat store karta hai. Dermal collagen ka primary source fibroblast hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q8. Which dermal region interlocks with the epidermis and contains superficial capillary loops?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reticular dermis
 - **B.** Stratum corneum
@@ -200,7 +200,7 @@ Papillary dermis surface ke paas hoti hai aur iski projections epidermis se inte
 - **B.** Corneum epidermis ka outer dead cell layer hai. Ismein capillaries nahi hoti hain.
 - **D.** Subcutaneous fascia aur fat dermis ke neeche hote hain. Yeh epidermal interface nahi banate.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -225,13 +225,13 @@ Eccrine sweat jab skin se evaporate hota hai, toh body ki heat saath le jaata ha
 - **B.** Arrector pili hair ko raise karti hai. Human body mein yeh effective exertional cooling nahi deti.
 - **C.** Melanin UV damage se protection mein help karta hai. Yeh body heat evaporate nahi karta.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q10. A blocked gland duct produces oily material within a hair follicle. Which gland is implicated?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Eccrine sweat gland
 - **B.** Ceruminous gland
@@ -250,7 +250,7 @@ Sebaceous gland sebum banati hai aur aam taur par hair follicle mein release kar
 - **B.** Ceruminous glands external ear canal mein wax formation mein help karti hain. Yeh usual hair follicle sebum ka source nahi hain.
 - **D.** Mammary gland milk produce karti hai. Is follicular lesion se iska direct relation nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -275,13 +275,13 @@ Cold mein skin ki vessels constrict kar sakti hain. Isse warm blood surface tak 
 - **C.** Sweat evaporation body ko cool karta hai. Cold exposure mein isse heat conservation nahi hogi.
 - **D.** Sebum lubrication deta hai. Acute temperature control ka principal vascular response yeh nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q12. Which skin-associated tissue provides cushioning over bony structures and thermal insulation?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Subcutaneous adipose tissue
 - **B.** Stratum granulosum
@@ -300,13 +300,13 @@ Subcutaneous fat pressure ko kuch had tak distribute karta hai aur heat loss red
 - **C.** Capillary loop superficial tissues ko blood supply deta hai. Yeh insulating fat layer nahi hai.
 - **D.** Nail plate distal digits ko protect karti hai. Yeh body-wide thermal insulation nahi deti.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q13. Which sensation is most closely associated with Pacinian corpuscles in deeper skin tissues?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Skin pigmentation
 - **B.** Surface temperature regulation
@@ -325,13 +325,13 @@ Pacinian corpuscles rapidly changing deep pressure aur vibration detect karte ha
 - **B.** Temperature regulation vessels aur sweating ke through hoti hai. Pacinian corpuscle iska effector nahi hai.
 - **D.** Sebum sebaceous gland banati hai. Pacinian corpuscle secretory gland nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q14. A patient sustains injury to the proximal nail growth region. Which structure must be assessed for future nail deformity?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Free edge of nail
 - **B.** Nail matrix
@@ -350,7 +350,7 @@ Nail matrix naye nail plate cells produce karti hai. Matrix damage ke baad futur
 - **C.** Nail plate ka distal portion itself actively grow nahi karta. Growth proximal matrix se aati hai.
 - **D.** Lateral nail fold side se protection deti hai. Matrix injury growth deformity ka zyada direct cause hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -375,13 +375,13 @@ Age ke saath dermal support aur epidermis se attachment kam strong ho sakte hain
 - **B.** Sebum age ke saath kam ho sakta hai. Increased lubrication skin tear ka main mechanism nahi hai.
 - **C.** Elastic recoil age ke saath reduce ho sakta hai. Increased elasticity se described fragility explain nahi hoti.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q16. Which process begins in the skin after suitable ultraviolet B exposure?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Conversion of 7-dehydrocholesterol toward vitamin D3
 - **B.** Conversion of vitamin D to calcitriol in the epidermis
@@ -400,7 +400,7 @@ UVB epidermis mein 7-dehydrocholesterol ko previtamin D3 pathway mein convert ka
 - **C.** Parathyroid hormone parathyroid glands se aata hai. Skin UVB response iska direct source nahi hai.
 - **D.** Intrinsic factor stomach ke parietal cells banate hain. Vitamin D synthesis se iska relation nahi hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
@@ -425,13 +425,13 @@ Viable follicle aur gland structures mein epithelial cell populations survive ka
 - **C.** Sebum lubricant hai. Yeh missing dermal matrix ko replace nahi kar sakta.
 - **D.** Sweat ducts infection ke against absolute barrier nahi hain. Wound care phir bhi necessary hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q18. A nurse assessing a darkly pigmented patient suspects reduced oxygenation. Which assessment approach is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Assess mucous membranes and oxygenation objectively rather than relying on skin colour alone
 - **B.** Exclude hypoxemia if the forearm is not visibly blue
@@ -450,13 +450,13 @@ Skin pigmentation visual colour changes ko subtle bana sakti hai. Mucous membran
 - **C.** Nail colour lighting, perfusion aur pigmentation se influence ho sakta hai. Yeh saturation ka reliable single measure nahi hai.
 - **D.** Melanin normal pigment hai. Isko oxygen deficiency ka sign maan lena assessment error hoga.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q19. A patient has goosebumps after entering a cold room. Which structure contracts to produce this response?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Dermal sensory corpuscle
 - **B.** Sebaceous duct epithelium
@@ -475,13 +475,13 @@ Arrector pili hair follicle se attached smooth muscle hai. Sympathetic stimulati
 - **B.** Sebaceous duct sebum ko carry karta hai. Goosebumps ke liye yeh contractile structure responsible nahi hai.
 - **D.** Basal keratinocytes epidermis renew karte hain. Yeh follicle ko pull karne wala muscle nahi hain.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
 
 ### Q20. A patient has widespread loss of the epidermal barrier. Which combined complication is most directly expected?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reduced fluid loss and increased insulation
 - **B.** Increased keratinocyte renewal with complete infection protection
@@ -500,6 +500,6 @@ Intact epidermis paani ko body ke andar retain karne aur microbes ko bahar rakhn
 - **B.** Cell renewal repair mein help karta hai lekin barrier turant complete restore nahi hota. Infection risk tab tak present rehta hai.
 - **C.** Deep sensation deeper structures se related hai. Epidermal injury ka direct important effect protective barrier ka loss hai.
 
-**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Broad indexed candidate [Nursing Adda247 integumentary MCQs](https://www.youtube.com/watch?v=A5ffPLsCkjk) has not been verified for this exact question.
+**Clinical reference:** [OpenStax integumentary anatomy and physiology](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) · [Skin functions](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system). **YouTube MCQ practice:** verification pending. Description-checked [Adda247 Nursing — Integumentary System in One Shot (MCQs)](https://www.youtube.com/watch?v=A5ffPLsCkjk) covers skin layers, hair, nails and glands at topic level. Exact question and playback verification remain pending.
 
 </details>
