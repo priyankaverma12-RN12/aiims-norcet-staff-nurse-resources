@@ -154,29 +154,29 @@ D. The auditory ossicles within the middle ear
 
 </details>
 
-### Q06. An adult with a known nonfunctioning pituitary adenoma suddenly develops severe headache, vomiting, reduced consciousness and hypotension. What is the safest initial nursing response?
+### Q06. A patient with a large nonfunctioning pituitary adenoma is admitted with an acute headache and visual deterioration. Emergency imaging supports pituitary apoplexy. After stabilization, which information should the nurse prioritize for the multidisciplinary decision about decompression?
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Schedule routine outpatient imaging and let the patient rest alone
+A. The patient's shoe size as the principal marker of compression
 
-B. Provide oral fluids before assessing airway protection
+B. An isolated prolactin result as the sole measure of neurological deterioration
 
-C. Wait for a full elective endocrine panel before emergency escalation
+C. A routine dental assessment before any repeat neurological examination
 
-D. Activate emergency assessment, support ABCs and urgently flag possible pituitary apoplexy with acute cortisol deficiency
+D. Serial visual acuity, visual fields, ocular movements and level of consciousness
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Activate emergency assessment, support ABCs and urgently flag possible pituitary apoplexy with acute cortisol deficiency**
+**Correct answer: D. Serial visual acuity, visual fields, ocular movements and level of consciousness**
 
-- **A — Incorrect:** Routine follow-up unstable patient ke liye appropriate nahi hai. Neurologic aur hemodynamic deterioration urgent hai.
-- **B — Incorrect:** Reduced consciousness mein airway protection uncertain ho sakti hai. Oral fluids se aspiration risk ho sakta hai.
-- **C — Incorrect:** Emergency treatment ko elective panel ke liye delay nahi karna chahiye. Team appropriate samples aur urgent glucocorticoid treatment decide karti hai.
-- **D — Correct:** Sudden severe deterioration pituitary apoplexy aur acute adrenal insufficiency ka concern raise karti hai. ABC stabilization aur emergency medical escalation immediately needed hain.
+- **A — Incorrect:** Shoe size GH excess assessment mein useful history ho sakti hai, acute visual compression ki severity measure nahi karti.
+- **B — Incorrect:** Prolactin level endocrine information deta hai, visual pathway ya consciousness trend assess nahi karta. Serial neurological examination zaroori hai.
+- **C — Incorrect:** Dental assessment acute pituitary neurological monitoring ko replace nahi karta. Clinical changes promptly document aur escalate karo.
+- **D — Correct:** Apoplexy mein decompression decision neurological aur visual severity aur trend se influenced hota hai. Serial assessments specialist ko deterioration ya recovery detect karne mein help karte hain.
 
-**Exam clue:** Known sellar lesion ke saath acute neurologic aur circulatory collapse emergency hai.
+**Exam clue:** Stabilized apoplexy mein objective serial visual-neurological assessment treatment decisions guide karta hai.
 
 **Clinical reference:** [Endotext — Non-Functioning Pituitary Adenomas](https://www.ncbi.nlm.nih.gov/books/NBK534880/) · [2025 Pituitary Society incidentaloma consensus](https://www.nature.com/articles/s41574-025-01134-8)
 
@@ -304,29 +304,29 @@ D. Discard the earlier imaging because the later report supersedes it
 
 </details>
 
-### Q11. A patient with a sellar lesion scheduled for dedicated MRI reports a previously implanted cardiac device but is unsure of its model. Which nursing action is appropriate?
+### Q11. A head CT obtained for another reason reports a possible sellar lesion but cannot clearly define the pituitary stalk or optic chiasm relationship. What should the nurse anticipate if MRI is feasible?
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Cancel all pituitary follow-up permanently because a device is present
+A. No additional anatomical assessment because the lesion was found incidentally
 
-B. Obtain device identification and coordinate formal MRI safety screening before the scan
+B. Dedicated pituitary MRI with an appropriate specialist-selected protocol to characterize the lesion
 
-C. Assume every implanted device is automatically MRI safe
+C. Repeat identical routine head CT as the only possible characterization in all patients
 
-D. Proceed because sellar MRI is distant from the heart
+D. Skull radiography alone to assess the pituitary stalk
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Obtain device identification and coordinate formal MRI safety screening before the scan**
+**Correct answer: B. Dedicated pituitary MRI with an appropriate specialist-selected protocol to characterize the lesion**
 
-- **A — Incorrect:** MRI possible na ho toh specialist alternative imaging options evaluate kar sakta hai. Follow-up discontinue karna necessary nahi hai.
-- **B — Correct:** MRI compatibility device model aur scan conditions par depend karti hai. Formal safety clearance ke bina scan proceed nahi karna chahiye.
-- **C — Incorrect:** Implants ki MRI conditions different ho sakti hain. Universal safety assume karna incorrect hai.
-- **D — Incorrect:** MRI magnetic field body ke device ko affect kar sakta hai, chahe target anatomy head ho. Location alone safety prove nahi karti.
+- **A — Incorrect:** Incidental discovery ka matlab anatomical risk absent nahi hota. Further characterization treatment aur surveillance planning mein help karti hai.
+- **B — Correct:** Dedicated pituitary MRI soft-tissue anatomy aur nearby critical structures ko routine CT se better characterize kar sakti hai. Contrast aur protocol clinical safety ke according select hote hain.
+- **C — Incorrect:** CT selected situations mein useful hai, lekin identical routine imaging har detailed sellar question answer nahi karti. MRI feasible ho toh specialist dedicated imaging consider karta hai.
+- **D — Incorrect:** Skull radiograph detailed stalk aur chiasm relation establish nahi karti. Cross-sectional imaging needed hoti hai.
 
-**Exam clue:** Pituitary imaging se pehle implant-specific MRI screening verify karo.
+**Exam clue:** Incidental CT finding ke baad dedicated sellar imaging ka purpose samjho.
 
 **Clinical reference:** [Endotext — Non-Functioning Pituitary Adenomas](https://www.ncbi.nlm.nih.gov/books/NBK534880/) · [2025 Pituitary Society incidentaloma consensus](https://www.nature.com/articles/s41574-025-01134-8)
 
@@ -394,29 +394,29 @@ D. Any residual tissue mandates immediate radiotherapy regardless of clinical co
 
 </details>
 
-### Q14. A patient has received radiotherapy for a progressing nonfunctioning adenoma. Several years later the tumor remains radiologically stable. Which follow-up remains important even with stable imaging?
+### Q14. A patient with a residual nonfunctioning adenoma is being evaluated for fractionated radiotherapy rather than a single-session stereotactic procedure. The patient asks why treatment may be divided into multiple sessions. Which explanation is appropriate?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Endocrine testing is unnecessary once radiological stability is documented
+A. Multiple sessions are required because imaging cannot identify the tumor
 
-B. Only short-term wound inspection is needed after radiotherapy
+B. Fractionation guarantees immediate restoration of every pituitary hormone
 
-C. Serum sodium alone excludes all delayed pituitary dysfunction
+C. A divided treatment schedule eliminates the need for radiation dose constraints
 
-D. Long-term endocrine assessment for delayed pituitary hormone deficiencies
+D. Fractionation can help limit injury to nearby normal structures while delivering the planned tumor treatment
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Long-term endocrine assessment for delayed pituitary hormone deficiencies**
+**Correct answer: D. Fractionation can help limit injury to nearby normal structures while delivering the planned tumor treatment**
 
-- **A — Incorrect:** Radiological control aur normal hormone function different outcomes hain. Ek normal scan deficiencies exclude nahi karta.
-- **B — Incorrect:** Wound inspection radiotherapy ke delayed endocrine effects assess nahi karti. Long-term hormone evaluation chahiye.
-- **C — Incorrect:** Sodium water balance ka marker ho sakta hai. Cortisol, thyroid aur gonadal axes ko independently assess karna padta hai.
-- **D — Correct:** Radiotherapy ke delayed effects normal pituitary hormone secretion ko impair kar sakte hain. Stable tumor imaging ke bawajood endocrine follow-up important hai.
+- **A — Incorrect:** Fractionation tumor localization failure ka consequence nahi hai. Accurate imaging treatment planning ke liye essential hai.
+- **B — Incorrect:** Radiotherapy tumor control aim karti hai, complete hormone restoration guarantee nahi karti. Hormone monitoring independently needed rehti hai.
+- **C — Incorrect:** Fractionation ke saath bhi normal-tissue dose limits apply hote hain. Planning safety requirements remain important.
+- **D — Correct:** Radiation ko planned fractions mein divide karne se nearby normal tissues ko recovery ka opportunity mil sakta hai. Modality aur schedule specialist anatomy aur dose constraints ke basis par select karta hai.
 
-**Exam clue:** Radiotherapy ke baad delayed hypopituitarism surveillance continue karo.
+**Exam clue:** Fractionation normal-tissue protection aur tumor control balance karne ka treatment-planning tool hai.
 
 **Clinical reference:** [Endotext — Non-Functioning Pituitary Adenomas](https://www.ncbi.nlm.nih.gov/books/NBK534880/) · [2025 Pituitary Society incidentaloma consensus](https://www.nature.com/articles/s41574-025-01134-8)
 
@@ -484,29 +484,29 @@ D. Serum growth hormone as the sole explanation of acute confusion
 
 </details>
 
-### Q17. A patient with postoperative visual improvement and a normal cortisol assessment asks whether a single normal axis test proves that all pituitary function has recovered. Which explanation is appropriate?
+### Q17. A patient with a postoperative nonfunctioning adenoma is reviewing the pathology report and sees the term Ki-67. What is the most appropriate explanation?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Every hormone replacement can be stopped after one normal cortisol value
+A. Ki-67 is a routine visual field acuity score
 
-B. Recovery can differ by hormone axis and further testing should follow the individualized endocrine plan
+B. Ki-67 is a proliferation marker that can contribute to assessment of tumor behavior but does not alone predict every outcome
 
-C. Normal cortisol guarantees normal thyroid, gonadal and growth hormone function
+C. Ki-67 is a direct measurement of circulating ACTH concentration
 
-D. Visual improvement is a complete biochemical test of pituitary recovery
+D. Ki-67 independently confirms metastatic pituitary carcinoma
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Recovery can differ by hormone axis and further testing should follow the individualized endocrine plan**
+**Correct answer: B. Ki-67 is a proliferation marker that can contribute to assessment of tumor behavior but does not alone predict every outcome**
 
-- **A — Incorrect:** Replacement medicines stop karne ka decision specific axis assessment ke basis par specialist leta hai. Blanket cessation unsafe ho sakti hai.
-- **B — Correct:** Har pituitary hormone axis ki recovery alag ho sakti hai. Individualized testing aur clinical context se complete function assess karte hain.
-- **C — Incorrect:** Cortisol test adrenal axis ke baare mein information deta hai. Other pituitary axes normal hone ka guarantee nahi hai.
-- **D — Incorrect:** Visual improvement compressive relief indicate kar sakti hai, biochemical hormone recovery nahi. Hormonal evaluation separate hoti hai.
+- **A — Incorrect:** Visual fields ophthalmic assessment se measure hote hain. Ki-67 pathology marker hai, vision score nahi.
+- **B — Correct:** Ki-67 proliferating cells ka tissue marker hai. Pathology features, residual tumor aur imaging behavior ke saath isko follow-up planning mein interpret kiya ja sakta hai.
+- **C — Incorrect:** ACTH blood test separate hormone measurement hai. Ki-67 tissue proliferation index hai.
+- **D — Incorrect:** Ek proliferation marker alone metastasis establish nahi karta. Pituitary carcinoma diagnosis ke liye appropriate evidence required hai.
 
-**Exam clue:** Postoperative recovery ko axis-specific endpoints se judge karo.
+**Exam clue:** Pathology markers ko serial clinical aur imaging evidence ke saath interpret karo.
 
 **Clinical reference:** [Endotext — Non-Functioning Pituitary Adenomas](https://www.ncbi.nlm.nih.gov/books/NBK534880/) · [2025 Pituitary Society incidentaloma consensus](https://www.nature.com/articles/s41574-025-01134-8)
 

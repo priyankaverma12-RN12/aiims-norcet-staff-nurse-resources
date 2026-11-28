@@ -8,23 +8,23 @@
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Use the age-appropriate upper limit for the laboratory assay
+A. Use the pediatric reference interval for every adult
 
-B. Use the pediatric reference interval for every adult
+B. Compare the result directly with serum GH in ng/mL
 
-C. Compare the result directly with serum GH in ng/mL
+C. Use the same numerical upper limit for all laboratories
 
-D. Use the same numerical upper limit for all laboratories
+D. Use the age-appropriate upper limit for the laboratory assay
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Use the age-appropriate upper limit for the laboratory assay**
+**Correct answer: D. Use the age-appropriate upper limit for the laboratory assay**
 
-- **A — Correct:** IGF-1 ki normal range age aur test ki method ke hisaab se badalti hai. Isliye nurse report par di hui patient ki age wali range ko specialist ke saath compare karti hai.
-- **B — Incorrect:** Bachchon aur adolescents mein growth ki wajah se IGF-1 ka level alag ho sakta hai. Unki range adult par lagane se galat interpretation ho sakti hai.
-- **C — Incorrect:** GH aur IGF-1 do alag hormones hain. Inki numerical values ko seedha compare karke IGF-1 ka abnormal hona decide nahi kar sakte.
-- **D — Incorrect:** Alag laboratories ki testing methods aur reference ranges mein difference ho sakta hai. Ek fixed number sab reports par fit nahi hota.
+- **A — Incorrect:** Bachchon aur adolescents mein growth ki wajah se IGF-1 ka level alag ho sakta hai. Unki range adult par lagane se galat interpretation ho sakti hai.
+- **B — Incorrect:** GH aur IGF-1 do alag hormones hain. Inki numerical values ko seedha compare karke IGF-1 ka abnormal hona decide nahi kar sakte.
+- **C — Incorrect:** Alag laboratories ki testing methods aur reference ranges mein difference ho sakta hai. Ek fixed number sab reports par fit nahi hota.
+- **D — Correct:** IGF-1 ki normal range age aur test ki method ke hisaab se badalti hai. Isliye nurse report par di hui patient ki age wali range ko specialist ke saath compare karti hai.
 
 **Exam clue:** IGF-1 ko hamesha age aur assay ke reference interval ke saath padho.
 
@@ -38,23 +38,23 @@ D. Use the same numerical upper limit for all laboratories
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Ask the laboratory to substitute a random prolactin result
+A. Document the estrogen use and discuss possible assay interpretation with the endocrine team
 
-B. Document the estrogen use and discuss possible assay interpretation with the endocrine team
+B. Tell her to stop all hormone medicines immediately without consultation
 
-C. Tell her to stop all hormone medicines immediately without consultation
+C. Exclude acromegaly because the medication cannot influence IGF-1
 
-D. Exclude acromegaly because the medication cannot influence IGF-1
+D. Ask the laboratory to substitute a random prolactin result
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Document the estrogen use and discuss possible assay interpretation with the endocrine team**
+**Correct answer: A. Document the estrogen use and discuss possible assay interpretation with the endocrine team**
 
-- **A — Incorrect:** Prolactin ek alag pituitary hormone hai. Uski report GH aur IGF-1 ke beech ki problem ko resolve nahi karti.
-- **B — Correct:** Oral estrogen liver ki GH ke prati response ko kam kar sakta hai. Is wajah se IGF-1 kam aa sakta hai, isliye nurse medicines ki list specialist ko batati hai.
-- **C — Incorrect:** Hormone medicine ko apne aap band karna safe nahi hai. Specialist indication aur alternative ko dekhkar plan banata hai.
-- **D — Incorrect:** Clinical features aur medicine effect ko ignore karne se diagnosis miss ho sakta hai. Ek apparently normal report har situation mein final jawab nahi hoti.
+- **A — Correct:** Oral estrogen liver ki GH ke prati response ko kam kar sakta hai. Is wajah se IGF-1 kam aa sakta hai, isliye nurse medicines ki list specialist ko batati hai.
+- **B — Incorrect:** Hormone medicine ko apne aap band karna safe nahi hai. Specialist indication aur alternative ko dekhkar plan banata hai.
+- **C — Incorrect:** Clinical features aur medicine effect ko ignore karne se diagnosis miss ho sakta hai. Ek apparently normal report har situation mein final jawab nahi hoti.
+- **D — Incorrect:** Prolactin ek alag pituitary hormone hai. Uski report GH aur IGF-1 ke beech ki problem ko resolve nahi karti.
 
 **Exam clue:** Dawaiyon ki history ko endocrine lab interpretation se alag mat karo.
 
@@ -98,23 +98,23 @@ D. GH is released at a constant rate throughout the day
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Whether cortisol rises after synthetic ACTH
+A. Whether prolactin rises after a meal
 
-B. Whether urine concentration increases after desmopressin
+B. Whether GH falls appropriately after a glucose load
 
-C. Whether prolactin rises after a meal
+C. Whether cortisol rises after synthetic ACTH
 
-D. Whether GH falls appropriately after a glucose load
+D. Whether urine concentration increases after desmopressin
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Whether GH falls appropriately after a glucose load**
+**Correct answer: B. Whether GH falls appropriately after a glucose load**
 
-- **A — Incorrect:** Synthetic ACTH se cortisol response assess kiya jaata hai. Yeh adrenal reserve ka test hai, GH suppression ka nahi.
-- **B — Incorrect:** Desmopressin kidney ke water handling ko affect karta hai. Yeh GH excess ki dynamic testing ka hissa nahi hai.
-- **C — Incorrect:** Prolactin ki meal ke baad change ko acromegaly confirm karne ke liye use nahi karte. Is ordered test mein focus GH response par hai.
-- **D — Correct:** Normal GH regulation mein glucose load ke baad GH suppress ho sakta hai. Acromegaly mein yeh response abnormal ho sakta hai aur specialist assay aur clinical context ke saath interpret karta hai.
+- **A — Incorrect:** Prolactin ki meal ke baad change ko acromegaly confirm karne ke liye use nahi karte. Is ordered test mein focus GH response par hai.
+- **B — Correct:** Normal GH regulation mein glucose load ke baad GH suppress ho sakta hai. Acromegaly mein yeh response abnormal ho sakta hai aur specialist assay aur clinical context ke saath interpret karta hai.
+- **C — Incorrect:** Synthetic ACTH se cortisol response assess kiya jaata hai. Yeh adrenal reserve ka test hai, GH suppression ka nahi.
+- **D — Incorrect:** Desmopressin kidney ke water handling ko affect karta hai. Yeh GH excess ki dynamic testing ka hissa nahi hai.
 
 **Exam clue:** Equivocal results mein specialist glucose suppression testing choose kar sakta hai.
 
@@ -128,23 +128,23 @@ D. Whether GH falls appropriately after a glucose load
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. It helps locate the lesion and define its relationship to nearby structures
+A. It directly measures the amount of circulating IGF-1
 
-B. It directly measures the amount of circulating IGF-1
+B. It guarantees that the pituitary lesion is secreting GH
 
-C. It guarantees that the pituitary lesion is secreting GH
+C. It replaces all subsequent endocrine assessments
 
-D. It replaces all subsequent endocrine assessments
+D. It helps locate the lesion and define its relationship to nearby structures
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. It helps locate the lesion and define its relationship to nearby structures**
+**Correct answer: D. It helps locate the lesion and define its relationship to nearby structures**
 
-- **A — Correct:** MRI pituitary aur paas ki structures ki image deta hai. Isse specialist lesion ka size aur location samajhkar treatment plan bana sakta hai.
-- **B — Incorrect:** IGF-1 blood test se measure hota hai. MRI hormone ki concentration directly measure nahi karta.
-- **C — Incorrect:** Image mein lesion dikhne se uski hormone activity apne aap prove nahi hoti. Biochemical evidence ko bhi saath dekhna padta hai.
-- **D — Incorrect:** Treatment ke baad hormones aur symptoms ka follow-up zaroori hota hai. MRI un sab assessments ka replacement nahi hai.
+- **A — Incorrect:** IGF-1 blood test se measure hota hai. MRI hormone ki concentration directly measure nahi karta.
+- **B — Incorrect:** Image mein lesion dikhne se uski hormone activity apne aap prove nahi hoti. Biochemical evidence ko bhi saath dekhna padta hai.
+- **C — Incorrect:** Treatment ke baad hormones aur symptoms ka follow-up zaroori hota hai. MRI un sab assessments ka replacement nahi hai.
+- **D — Correct:** MRI pituitary aur paas ki structures ki image deta hai. Isse specialist lesion ka size aur location samajhkar treatment plan bana sakta hai.
 
 **Exam clue:** Biochemistry hormone activity batati hai aur MRI anatomy samjhata hai.
 
@@ -158,23 +158,23 @@ D. It replaces all subsequent endocrine assessments
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Tell the patient that jaw enlargement prevents all forms of anesthesia
+A. Assume that normal resting oxygen saturation excludes airway difficulty
 
-B. Alert the anesthesia team to potential difficulty securing the airway
+B. Tell the patient that jaw enlargement prevents all forms of anesthesia
 
-C. Request that the patient receive routine deep sedation before airway assessment
+C. Alert the anesthesia team to potential difficulty securing the airway
 
-D. Assume that normal resting oxygen saturation excludes airway difficulty
+D. Request that the patient receive routine deep sedation before airway assessment
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Alert the anesthesia team to potential difficulty securing the airway**
+**Correct answer: C. Alert the anesthesia team to potential difficulty securing the airway**
 
-- **A — Incorrect:** Jaw enlargement anesthesia ko impossible nahi banata. Is finding ke liye experienced team aur appropriate preparation chahiye.
-- **B — Correct:** Tongue aur jaw mein tissue growth airway ko manage karna difficult bana sakti hai. Nurse pehle anesthesia team ko batati hai taaki safe airway plan ban sake.
-- **C — Incorrect:** Airway assessment ke bina deep sedation breathing ko depress kar sakti hai. Sedation ka plan anesthesia team risk dekhkar banati hai.
-- **D — Incorrect:** Normal oxygen saturation sirf us waqt ki oxygenation batati hai. Isse intubation ya sedation ke waqt airway difficulty exclude nahi hoti.
+- **A — Incorrect:** Normal oxygen saturation sirf us waqt ki oxygenation batati hai. Isse intubation ya sedation ke waqt airway difficulty exclude nahi hoti.
+- **B — Incorrect:** Jaw enlargement anesthesia ko impossible nahi banata. Is finding ke liye experienced team aur appropriate preparation chahiye.
+- **C — Correct:** Tongue aur jaw mein tissue growth airway ko manage karna difficult bana sakti hai. Nurse pehle anesthesia team ko batati hai taaki safe airway plan ban sake.
+- **D — Incorrect:** Airway assessment ke bina deep sedation breathing ko depress kar sakti hai. Sedation ka plan anesthesia team risk dekhkar banati hai.
 
 **Exam clue:** Airway anatomy aur oxygen saturation ko ek hi assessment mat samjho.
 
@@ -188,23 +188,23 @@ D. Assume that normal resting oxygen saturation excludes airway difficulty
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Isolated radial nerve palsy
+A. Median nerve compression at the wrist
 
-B. Acute lower limb arterial occlusion
+B. Ulnar nerve compression at the elbow
 
-C. Median nerve compression at the wrist
+C. Isolated radial nerve palsy
 
-D. Ulnar nerve compression at the elbow
+D. Acute lower limb arterial occlusion
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. Median nerve compression at the wrist**
+**Correct answer: A. Median nerve compression at the wrist**
 
-- **A — Incorrect:** Radial nerve palsy mein wrist ya finger extension ki weakness prominent ho sakti hai. Yeh palmar median nerve sensory pattern nahi hai.
-- **B — Incorrect:** Lower limb arterial occlusion pair ki circulation ka emergency problem hai. Yeh hand ki specific finger distribution explain nahi karta.
-- **C — Correct:** Wrist ke andar median nerve par soft tissue swelling ki wajah se pressure pad sakta hai. Isliye in teen fingers mein tingling carpal tunnel syndrome ka clue hai.
-- **D — Incorrect:** Ulnar nerve symptoms usually little finger aur ring finger ke ulnar side mein hote hain. Di hui distribution usse kam match karti hai.
+- **A — Correct:** Wrist ke andar median nerve par soft tissue swelling ki wajah se pressure pad sakta hai. Isliye in teen fingers mein tingling carpal tunnel syndrome ka clue hai.
+- **B — Incorrect:** Ulnar nerve symptoms usually little finger aur ring finger ke ulnar side mein hote hain. Di hui distribution usse kam match karti hai.
+- **C — Incorrect:** Radial nerve palsy mein wrist ya finger extension ki weakness prominent ho sakti hai. Yeh palmar median nerve sensory pattern nahi hai.
+- **D — Incorrect:** Lower limb arterial occlusion pair ki circulation ka emergency problem hai. Yeh hand ki specific finger distribution explain nahi karta.
 
 **Exam clue:** Finger distribution se nerve compression ko differentiate karo.
 
@@ -218,23 +218,23 @@ D. Ulnar nerve compression at the elbow
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Encourage the patient to double all diabetes medicines
+A. Discontinue glucose monitoring because GH has been treated
 
-B. Ignore low readings because acromegaly always causes hyperglycemia
+B. Notify the diabetes team and arrange review of the glucose-lowering regimen
 
-C. Discontinue glucose monitoring because GH has been treated
+C. Encourage the patient to double all diabetes medicines
 
-D. Notify the diabetes team and arrange review of the glucose-lowering regimen
+D. Ignore low readings because acromegaly always causes hyperglycemia
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Notify the diabetes team and arrange review of the glucose-lowering regimen**
+**Correct answer: B. Notify the diabetes team and arrange review of the glucose-lowering regimen**
 
-- **A — Incorrect:** Medicine double karne se glucose aur gir sakta hai. Patient ki current readings aur medical plan ko dekhkar dose change hoti hai.
-- **B — Incorrect:** Acromegaly ka treatment hone par glucose ki zaroorat badal sakti hai. Low readings ko ignore karna unsafe hai.
-- **C — Incorrect:** Monitoring band karne se recurrent hypoglycemia miss ho sakti hai. Glucose monitoring se team safe dose adjustment kar paati hai.
-- **D — Correct:** GH excess insulin resistance badha sakta hai. Jab disease control hoti hai toh insulin sensitivity improve ho sakti hai, isliye recurrent low glucose ke saath medicines ka review aur timely hypoglycemia management chahiye.
+- **A — Incorrect:** Monitoring band karne se recurrent hypoglycemia miss ho sakti hai. Glucose monitoring se team safe dose adjustment kar paati hai.
+- **B — Correct:** GH excess insulin resistance badha sakta hai. Jab disease control hoti hai toh insulin sensitivity improve ho sakti hai, isliye recurrent low glucose ke saath medicines ka review aur timely hypoglycemia management chahiye.
+- **C — Incorrect:** Medicine double karne se glucose aur gir sakta hai. Patient ki current readings aur medical plan ko dekhkar dose change hoti hai.
+- **D — Incorrect:** Acromegaly ka treatment hone par glucose ki zaroorat badal sakti hai. Low readings ko ignore karna unsafe hai.
 
 **Exam clue:** Hormonal disease improve hone par diabetes regimen bhi reassess hota hai.
 
@@ -248,23 +248,23 @@ D. Notify the diabetes team and arrange review of the glucose-lowering regimen
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Acromegaly is associated with colorectal neoplasia risk, so screening should be planned with the clinical team
+A. GH excess makes colonoscopy permanently contraindicated
 
-B. Screening is needed only after visible rectal bleeding
+B. A normal pituitary MRI eliminates colorectal screening needs
 
-C. GH excess makes colonoscopy permanently contraindicated
+C. Acromegaly is associated with colorectal neoplasia risk, so screening should be planned with the clinical team
 
-D. A normal pituitary MRI eliminates colorectal screening needs
+D. Screening is needed only after visible rectal bleeding
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Acromegaly is associated with colorectal neoplasia risk, so screening should be planned with the clinical team**
+**Correct answer: C. Acromegaly is associated with colorectal neoplasia risk, so screening should be planned with the clinical team**
 
-- **A — Correct:** Acromegaly mein colon ke polyps aur neoplasia ka risk consider kiya jaata hai. Clinical team patient ki age, risk aur applicable guidance ke hisaab se screening plan banati hai.
-- **B — Incorrect:** Screening ka purpose symptoms aane se pehle possible disease ko identify karna hai. Rectal bleeding ka wait karna screening ka goal nahi hai.
-- **C — Incorrect:** GH excess khud colonoscopy ki permanent contraindication nahi hai. Procedure se pehle usual safety assessment aur individualized preparation hoti hai.
-- **D — Incorrect:** Pituitary MRI colon ko assess nahi karta. Pituitary treatment aur colorectal prevention do alag clinical responsibilities hain.
+- **A — Incorrect:** GH excess khud colonoscopy ki permanent contraindication nahi hai. Procedure se pehle usual safety assessment aur individualized preparation hoti hai.
+- **B — Incorrect:** Pituitary MRI colon ko assess nahi karta. Pituitary treatment aur colorectal prevention do alag clinical responsibilities hain.
+- **C — Correct:** Acromegaly mein colon ke polyps aur neoplasia ka risk consider kiya jaata hai. Clinical team patient ki age, risk aur applicable guidance ke hisaab se screening plan banati hai.
+- **D — Incorrect:** Screening ka purpose symptoms aane se pehle possible disease ko identify karna hai. Rectal bleeding ka wait karna screening ka goal nahi hai.
 
 **Exam clue:** Comorbidity screening sirf current symptoms par depend nahi karti.
 
@@ -278,23 +278,23 @@ D. A normal pituitary MRI eliminates colorectal screening needs
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Advise forceful spinal manipulation before assessment
+A. Arrange clinical evaluation for possible vertebral fracture
 
-B. Arrange clinical evaluation for possible vertebral fracture
+B. Reassure the patient that normal DXA excludes every fracture
 
-C. Reassure the patient that normal DXA excludes every fracture
+C. Assume the pain is solely caused by low serum sodium
 
-D. Assume the pain is solely caused by low serum sodium
+D. Advise forceful spinal manipulation before assessment
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Arrange clinical evaluation for possible vertebral fracture**
+**Correct answer: A. Arrange clinical evaluation for possible vertebral fracture**
 
-- **A — Incorrect:** Possible fracture mein forceful manipulation injury ko badha sakti hai. Pehle evaluation aur appropriate precautions zaroori hain.
-- **B — Correct:** Acromegaly mein bone quality affect ho sakti hai aur vertebral fracture normal DXA ke bawajood bhi possible hai. Naye focal pain aur height loss ko clinical assessment chahiye.
-- **C — Incorrect:** DXA bone mineral density measure karta hai, lekin har bone quality problem ya existing fracture ko exclude nahi karta.
-- **D — Incorrect:** Low sodium neurological symptoms de sakta hai, lekin focal back pain aur height loss ko bina assessment usse explain nahi karna chahiye.
+- **A — Correct:** Acromegaly mein bone quality affect ho sakti hai aur vertebral fracture normal DXA ke bawajood bhi possible hai. Naye focal pain aur height loss ko clinical assessment chahiye.
+- **B — Incorrect:** DXA bone mineral density measure karta hai, lekin har bone quality problem ya existing fracture ko exclude nahi karta.
+- **C — Incorrect:** Low sodium neurological symptoms de sakta hai, lekin focal back pain aur height loss ko bina assessment usse explain nahi karna chahiye.
+- **D — Incorrect:** Possible fracture mein forceful manipulation injury ko badha sakti hai. Pehle evaluation aur appropriate precautions zaroori hain.
 
 **Exam clue:** Bone density aur fracture risk hamesha identical nahi hote.
 
@@ -308,23 +308,23 @@ D. Assume the pain is solely caused by low serum sodium
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. No further testing is useful if the surgical wound heals
+A. A single immediate postoperative IGF-1 result always establishes permanent cure
 
-B. All endocrine follow-up should wait until severe symptoms return
+B. No further testing is useful if the surgical wound heals
 
-C. A planned biochemical assessment around three months is needed because early results may not reflect stable remission
+C. All endocrine follow-up should wait until severe symptoms return
 
-D. A single immediate postoperative IGF-1 result always establishes permanent cure
+D. A planned biochemical assessment around three months is needed because early results may not reflect stable remission
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. A planned biochemical assessment around three months is needed because early results may not reflect stable remission**
+**Correct answer: D. A planned biochemical assessment around three months is needed because early results may not reflect stable remission**
 
-- **A — Incorrect:** Wound healing surgery ke local recovery ka sign hai. Hormone excess ya residual disease ka assessment alag hota hai.
-- **B — Incorrect:** Symptoms wapas aane ka wait karne se disease activity miss ho sakti hai. Scheduled follow-up ka purpose early detection hai.
-- **C — Correct:** Surgery ke baad GH aur IGF-1 ki values alag speed se change ho sakti hain. Stable biochemical assessment ke liye team lagbhag teen mahine par planned follow-up karti hai.
-- **D — Incorrect:** Early IGF-1 report ko permanent cure ka proof nahi samajhna chahiye. Long-term disease activity ko monitor karna padta hai.
+- **A — Incorrect:** Early IGF-1 report ko permanent cure ka proof nahi samajhna chahiye. Long-term disease activity ko monitor karna padta hai.
+- **B — Incorrect:** Wound healing surgery ke local recovery ka sign hai. Hormone excess ya residual disease ka assessment alag hota hai.
+- **C — Incorrect:** Symptoms wapas aane ka wait karne se disease activity miss ho sakti hai. Scheduled follow-up ka purpose early detection hai.
+- **D — Correct:** Surgery ke baad GH aur IGF-1 ki values alag speed se change ho sakti hain. Stable biochemical assessment ke liye team lagbhag teen mahine par planned follow-up karti hai.
 
 **Exam clue:** Early postoperative hormone changes aur stable remission mein difference hai.
 
@@ -338,23 +338,23 @@ D. A single immediate postoperative IGF-1 result always establishes permanent cu
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Random serum GH alone
+A. Urinary free cortisol
 
-B. Serum calcitonin
+B. Age-adjusted IGF-1
 
-C. Urinary free cortisol
+C. Random serum GH alone
 
-D. Age-adjusted IGF-1
+D. Serum calcitonin
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Age-adjusted IGF-1**
+**Correct answer: B. Age-adjusted IGF-1**
 
-- **A — Incorrect:** Pegvisomant GH secretion ko directly suppress karne ke liye nahi diya jaata. Is treatment mein random GH se response assess karna misleading ho sakta hai.
-- **B — Incorrect:** Calcitonin thyroid C cells ka hormone hai. Yeh pegvisomant ke biochemical response ka marker nahi hai.
-- **C — Incorrect:** Urinary free cortisol cortisol excess ke evaluation mein useful ho sakta hai. Isse GH receptor blockade ka response assess nahi hota.
-- **D — Correct:** Pegvisomant GH receptor ko block karta hai, isliye GH ka effect kam hota hai aur IGF-1 response ko reflect karta hai. Circulating GH elevated reh sakta hai.
+- **A — Incorrect:** Urinary free cortisol cortisol excess ke evaluation mein useful ho sakta hai. Isse GH receptor blockade ka response assess nahi hota.
+- **B — Correct:** Pegvisomant GH receptor ko block karta hai, isliye GH ka effect kam hota hai aur IGF-1 response ko reflect karta hai. Circulating GH elevated reh sakta hai.
+- **C — Incorrect:** Pegvisomant GH secretion ko directly suppress karne ke liye nahi diya jaata. Is treatment mein random GH se response assess karna misleading ho sakta hai.
+- **D — Incorrect:** Calcitonin thyroid C cells ka hormone hai. Yeh pegvisomant ke biochemical response ka marker nahi hai.
 
 **Exam clue:** Pegvisomant mein treatment response ke liye IGF-1 dekho.
 
@@ -398,23 +398,23 @@ D. Replace liver monitoring with measurement of urinary ketones
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. An old uncomplicated appendectomy
+A. A remote healed ankle sprain
 
-B. Type 2 diabetes with suboptimal glycemic control
+B. Stable corrected myopia
 
-C. A remote healed ankle sprain
+C. An old uncomplicated appendectomy
 
-D. Stable corrected myopia
+D. Type 2 diabetes with suboptimal glycemic control
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Type 2 diabetes with suboptimal glycemic control**
+**Correct answer: D. Type 2 diabetes with suboptimal glycemic control**
 
-- **A — Incorrect:** Old uncomplicated appendectomy se is drug ka glucose risk specifically nahi badhta. Nurse diabetes history ko priority deti hai.
-- **B — Correct:** Pasireotide insulin aur incretin response ko affect karke glucose badha sakta hai. Pehle se diabetes ho toh early monitoring aur treatment review aur important ho jaata hai.
-- **C — Incorrect:** Healed ankle sprain glucose regulation ka relevant direct risk nahi hai. Is history se pasireotide-related hyperglycemia explain nahi hoti.
-- **D — Incorrect:** Corrected myopia eyesight ki condition hai. Yeh medication ke glucose effect ka specific risk factor nahi hai.
+- **A — Incorrect:** Healed ankle sprain glucose regulation ka relevant direct risk nahi hai. Is history se pasireotide-related hyperglycemia explain nahi hoti.
+- **B — Incorrect:** Corrected myopia eyesight ki condition hai. Yeh medication ke glucose effect ka specific risk factor nahi hai.
+- **C — Incorrect:** Old uncomplicated appendectomy se is drug ka glucose risk specifically nahi badhta. Nurse diabetes history ko priority deti hai.
+- **D — Correct:** Pasireotide insulin aur incretin response ko affect karke glucose badha sakta hai. Pehle se diabetes ho toh early monitoring aur treatment review aur important ho jaata hai.
 
 **Exam clue:** Pasireotide ke saath hyperglycemia ki monitoring ko yaad rakho.
 
@@ -428,23 +428,23 @@ D. Stable corrected myopia
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Recommend waiting for the next routine hormone appointment
+A. Assume that the symptoms prove pituitary tumor enlargement
 
-B. Assume that the symptoms prove pituitary tumor enlargement
+B. Arrange urgent evaluation for possible biliary obstruction or infection
 
-C. Arrange urgent evaluation for possible biliary obstruction or infection
+C. Reassure the patient that this combination is an expected harmless effect
 
-D. Reassure the patient that this combination is an expected harmless effect
+D. Recommend waiting for the next routine hormone appointment
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. Arrange urgent evaluation for possible biliary obstruction or infection**
+**Correct answer: B. Arrange urgent evaluation for possible biliary obstruction or infection**
 
-- **A — Incorrect:** Routine appointment tak delay karne se possible infection ya obstruction worsen ho sakta hai. Nurse timely escalation karti hai.
-- **B — Incorrect:** Pituitary tumor enlargement headache ya vision changes de sakta hai. Yeh abdominal pain aur jaundice ko directly explain nahi karta.
-- **C — Correct:** Somatostatin-related medicines gallbladder motility ko affect kar sakti hain. Pain, fever aur jaundice ka combination biliary complication ka red flag hai aur urgent assessment chahiye.
-- **D — Incorrect:** Gallstones kabhi asymptomatic ho sakte hain, lekin fever aur jaundice ke saath pain harmless nahi maana jaata.
+- **A — Incorrect:** Pituitary tumor enlargement headache ya vision changes de sakta hai. Yeh abdominal pain aur jaundice ko directly explain nahi karta.
+- **B — Correct:** Somatostatin-related medicines gallbladder motility ko affect kar sakti hain. Pain, fever aur jaundice ka combination biliary complication ka red flag hai aur urgent assessment chahiye.
+- **C — Incorrect:** Gallstones kabhi asymptomatic ho sakte hain, lekin fever aur jaundice ke saath pain harmless nahi maana jaata.
+- **D — Incorrect:** Routine appointment tak delay karne se possible infection ya obstruction worsen ho sakta hai. Nurse timely escalation karti hai.
 
 **Exam clue:** Gallbladder adverse effect mein symptomatic red flags ko urgent samjho.
 
@@ -458,23 +458,23 @@ D. Reassure the patient that this combination is an expected harmless effect
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Administer the short-acting vial using the long-acting schedule
+A. Give both formulations to ensure coverage
 
-B. Give both formulations to ensure coverage
+B. Change the dose based only on the most recent IGF-1 value
 
-C. Change the dose based only on the most recent IGF-1 value
+C. Clarify the exact formulation and route before administering the dose
 
-D. Clarify the exact formulation and route before administering the dose
+D. Administer the short-acting vial using the long-acting schedule
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Clarify the exact formulation and route before administering the dose**
+**Correct answer: C. Clarify the exact formulation and route before administering the dose**
 
-- **A — Incorrect:** Short-acting product ko long-acting schedule par dena correct replacement nahi hai. Drug exposure aur clinical control dono affect ho sakte hain.
-- **B — Incorrect:** Dono products dene se unintended extra treatment ho sakta hai. Combination sirf specialist ke clear prescription par diya jaata hai.
-- **C — Incorrect:** IGF-1 ki report dose review mein useful hai, lekin nurse uske basis par apne aap formulation ya dose change nahi karti.
-- **D — Correct:** Ek hi medicine ki different formulations ka duration, dose aur administration method alag ho sakta hai. Nurse order aur available product ko verify karke hi administration karti hai.
+- **A — Incorrect:** Dono products dene se unintended extra treatment ho sakta hai. Combination sirf specialist ke clear prescription par diya jaata hai.
+- **B — Incorrect:** IGF-1 ki report dose review mein useful hai, lekin nurse uske basis par apne aap formulation ya dose change nahi karti.
+- **C — Correct:** Ek hi medicine ki different formulations ka duration, dose aur administration method alag ho sakta hai. Nurse order aur available product ko verify karke hi administration karti hai.
+- **D — Incorrect:** Short-acting product ko long-acting schedule par dena correct replacement nahi hai. Drug exposure aur clinical control dono affect ho sakte hain.
 
 **Exam clue:** Drug ka naam same ho toh bhi formulation aur route verify karo.
 
@@ -488,23 +488,23 @@ D. Clarify the exact formulation and route before administering the dose
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. New pituitary hormone deficiencies
+A. Immediate irreversible insulin deficiency in all recipients
 
-B. Inevitable acute bacterial meningitis
+B. New pituitary hormone deficiencies
 
-C. Permanent excessive aldosterone secretion in every patient
+C. Inevitable acute bacterial meningitis
 
-D. Immediate irreversible insulin deficiency in all recipients
+D. Permanent excessive aldosterone secretion in every patient
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. New pituitary hormone deficiencies**
+**Correct answer: B. New pituitary hormone deficiencies**
 
-- **A — Correct:** Pituitary radiotherapy ke baad normal pituitary cells ka hormone output dheere-dheere kam ho sakta hai. Isliye long-term endocrine testing aur replacement assessment zaroori hai.
-- **B — Incorrect:** Acute bacterial meningitis radiotherapy ka inevitable delayed effect nahi hai. Naye infection signs ko alag se assess karna chahiye.
-- **C — Incorrect:** Aldosterone adrenal cortex se banta hai aur mainly renin-angiotensin system aur potassium se regulate hota hai. Pituitary radiotherapy sab patients mein excess aldosterone nahi karati.
-- **D — Incorrect:** Insulin pancreas se banta hai. Pituitary radiotherapy ke baad har patient ko irreversible insulin deficiency hona expected nahi hai.
+- **A — Incorrect:** Insulin pancreas se banta hai. Pituitary radiotherapy ke baad har patient ko irreversible insulin deficiency hona expected nahi hai.
+- **B — Correct:** Pituitary radiotherapy ke baad normal pituitary cells ka hormone output dheere-dheere kam ho sakta hai. Isliye long-term endocrine testing aur replacement assessment zaroori hai.
+- **C — Incorrect:** Acute bacterial meningitis radiotherapy ka inevitable delayed effect nahi hai. Naye infection signs ko alag se assess karna chahiye.
+- **D — Incorrect:** Aldosterone adrenal cortex se banta hai aur mainly renin-angiotensin system aur potassium se regulate hota hai. Pituitary radiotherapy sab patients mein excess aldosterone nahi karati.
 
 **Exam clue:** Radiotherapy ke baad delayed hypopituitarism ko follow-up mein yaad rakho.
 
@@ -518,23 +518,23 @@ D. Immediate irreversible insulin deficiency in all recipients
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Assume that persistent pain alone proves biochemical recurrence
+A. Ask the patient to stop rehabilitation because it cannot help
 
-B. Acknowledge the symptoms and arrange functional assessment and appropriate follow-up
+B. Assume that persistent pain alone proves biochemical recurrence
 
-C. Explain that normalized IGF-1 rules out all disease-related symptoms
+C. Acknowledge the symptoms and arrange functional assessment and appropriate follow-up
 
-D. Ask the patient to stop rehabilitation because it cannot help
+D. Explain that normalized IGF-1 rules out all disease-related symptoms
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Acknowledge the symptoms and arrange functional assessment and appropriate follow-up**
+**Correct answer: C. Acknowledge the symptoms and arrange functional assessment and appropriate follow-up**
 
-- **A — Incorrect:** Pain ke kai causes ho sakte hain. Biochemical recurrence confirm karne ke liye appropriate follow-up assessment chahiye.
-- **B — Correct:** GH excess se joints mein jo structural changes hue the woh disease control ke baad bhi reh sakte hain. Nurse pain aur daily functioning assess karke suitable rehabilitation ya specialist follow-up arrange karti hai.
-- **C — Incorrect:** Normal IGF-1 current hormonal control ka marker hai, lekin purani structural problem har patient mein completely reverse nahi hoti.
-- **D — Incorrect:** Rehabilitation individual needs ke hisaab se function aur comfort improve kar sakti hai. Bina assessment usse band karne ko kehna theek nahi hai.
+- **A — Incorrect:** Rehabilitation individual needs ke hisaab se function aur comfort improve kar sakti hai. Bina assessment usse band karne ko kehna theek nahi hai.
+- **B — Incorrect:** Pain ke kai causes ho sakte hain. Biochemical recurrence confirm karne ke liye appropriate follow-up assessment chahiye.
+- **C — Correct:** GH excess se joints mein jo structural changes hue the woh disease control ke baad bhi reh sakte hain. Nurse pain aur daily functioning assess karke suitable rehabilitation ya specialist follow-up arrange karti hai.
+- **D — Incorrect:** Normal IGF-1 current hormonal control ka marker hai, lekin purani structural problem har patient mein completely reverse nahi hoti.
 
 **Exam clue:** Hormone control ke saath patient ki quality of life bhi assess karo.
 
@@ -548,23 +548,23 @@ D. Ask the patient to stop rehabilitation because it cannot help
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Guarantee that no pituitary follow-up will be needed during pregnancy
+A. Arrange preconception review with the endocrine and obstetric teams before medication changes
 
-B. Recommend an unplanned interruption of all prescribed treatments
+B. Tell her to continue or stop every medicine based on online advice
 
-C. Arrange preconception review with the endocrine and obstetric teams before medication changes
+C. Guarantee that no pituitary follow-up will be needed during pregnancy
 
-D. Tell her to continue or stop every medicine based on online advice
+D. Recommend an unplanned interruption of all prescribed treatments
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. Arrange preconception review with the endocrine and obstetric teams before medication changes**
+**Correct answer: A. Arrange preconception review with the endocrine and obstetric teams before medication changes**
 
-- **A — Incorrect:** Pregnancy mein selected patients ko visual aur clinical follow-up ki zaroorat ho sakti hai. Bina assessment guarantee dena safe nahi hai.
-- **B — Incorrect:** Sab medicines achanak band karne se disease control affect ho sakta hai. Planned changes specialist ke saath hone chahiye.
-- **C — Correct:** Pregnancy mein medicine safety aur pituitary lesion monitoring ka plan individualized hota hai. Nurse patient ko preconception specialist review ke liye guide karti hai.
-- **D — Incorrect:** Online general advice patient ki lesion history aur exact medicine ko consider nahi kar sakti. Treatment ka decision qualified team leti hai.
+- **A — Correct:** Pregnancy mein medicine safety aur pituitary lesion monitoring ka plan individualized hota hai. Nurse patient ko preconception specialist review ke liye guide karti hai.
+- **B — Incorrect:** Online general advice patient ki lesion history aur exact medicine ko consider nahi kar sakti. Treatment ka decision qualified team leti hai.
+- **C — Incorrect:** Pregnancy mein selected patients ko visual aur clinical follow-up ki zaroorat ho sakti hai. Bina assessment guarantee dena safe nahi hai.
+- **D — Incorrect:** Sab medicines achanak band karne se disease control affect ho sakta hai. Planned changes specialist ke saath hone chahiye.
 
 **Exam clue:** Pregnancy planning mein endocrine medication reconciliation pehle hoti hai.
 
@@ -606,4 +606,4 @@ D. Transsphenoidal pituitary surgery as a usual initial option
 
 ## Answer key
 
-Q01: A · Q02: B · Q03: C · Q04: D · Q05: A · Q06: B · Q07: C · Q08: D · Q09: A · Q10: B · Q11: C · Q12: D · Q13: A · Q14: B · Q15: C · Q16: D · Q17: A · Q18: B · Q19: C · Q20: D
+Q01: D · Q02: A · Q03: C · Q04: B · Q05: D · Q06: C · Q07: A · Q08: B · Q09: C · Q10: A · Q11: D · Q12: B · Q13: A · Q14: D · Q15: B · Q16: C · Q17: B · Q18: C · Q19: A · Q20: D

@@ -484,29 +484,29 @@ D. Discuss appropriate endometrial protection with the prescribing specialist
 
 </details>
 
-### Q17. A patient with confirmed central adrenal insufficiency has prescribed hydrocortisone and asks why fludrocortisone was not routinely added. Which explanation is most accurate?
+### Q17. A patient with established central adrenal insufficiency reports that a new prescription for rifampicin has been started by another service. What should the nurse communicate to the endocrine team?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Mineralocorticoid function is often preserved because aldosterone is mainly regulated outside the pituitary ACTH axis
+A. Rifampicin can accelerate glucocorticoid metabolism and replacement adequacy requires review
 
-B. Fludrocortisone and hydrocortisone are always interchangeable
+B. Rifampicin permanently removes the need for glucocorticoid replacement
 
-C. ACTH deficiency invariably destroys adrenal mineralocorticoid cells
+C. Rifampicin is a reliable substitute for stress-dose hydrocortisone
 
-D. Fludrocortisone is required solely because cortisol is low
+D. Rifampicin should be discontinued independently before any discussion
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Mineralocorticoid function is often preserved because aldosterone is mainly regulated outside the pituitary ACTH axis**
+**Correct answer: A. Rifampicin can accelerate glucocorticoid metabolism and replacement adequacy requires review**
 
-- **A — Correct:** Central adrenal insufficiency mein ACTH signal kam hota hai, lekin aldosterone ka main control renin-angiotensin system aur potassium se hota hai. Isliye routine mineralocorticoid replacement generally needed nahi hoti.
-- **B — Incorrect:** Hydrocortisone glucocorticoid replacement deta hai aur fludrocortisone ka main mineralocorticoid role hai. Inko automatic substitute nahi karte.
-- **C — Incorrect:** ACTH deficiency adrenal cortex ki cortisol production affect karti hai. Aldosterone-producing cells ka inevitable destruction expected nahi hai.
-- **D — Incorrect:** Low cortisol se glucocorticoid replacement indicated ho sakti hai. Mineralocorticoid need alag physiology aur clinical status par depend karti hai.
+- **A — Correct:** Rifampicin enzyme induction se glucocorticoid clearance increase kar sakti hai. Endocrine team ko new medicine batana replacement safety ke liye important hai.
+- **B — Incorrect:** Antibiotic central cortisol deficiency cure nahi karti. Hormone replacement ka plan clinical assessment ke according continue hota hai.
+- **C — Incorrect:** Rifampicin antimicrobial medicine hai, glucocorticoid replacement nahi. Illness-related coverage separate care plan ka part hai.
+- **D — Incorrect:** Infection treatment independently discontinue karna unsafe ho sakta hai. Dono prescribing teams coordinate karke appropriate adjustments decide karti hain.
 
-**Exam clue:** Central adrenal insufficiency mein glucocorticoid aur mineralocorticoid needs differentiate karo.
+**Exam clue:** Enzyme-inducing medicines replacement requirements affect kar sakti hain.
 
 **Clinical reference:** [Endocrine Society hormone replacement in hypopituitarism](https://www.endocrine.org/clinical-practice-guidelines/hormone-replacement-in-hypopituitarism)
 

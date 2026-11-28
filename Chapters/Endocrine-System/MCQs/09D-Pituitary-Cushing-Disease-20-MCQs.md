@@ -4,31 +4,31 @@
 
 [Concepts](../Concepts/09D-Pituitary-Cushing-Disease.md) · [Evidence register](../Previous-Year-Questions/09D-Cushing-Disease-Evidence-Gaps.md)
 
-### Q01. An adult with confirmed endogenous hypercortisolism has suppressed plasma ACTH. Which interpretation is most appropriate before selecting further imaging?
+### Q01. A patient with established pituitary Cushing disease has an apparently normal morning cortisol result on one occasion before definitive treatment. Which explanation best addresses the clinician's continued concern?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Suppressed ACTH proves ectopic ACTH secretion
+A. A morning cortisol result directly identifies the anatomical ACTH source
 
-B. The ACTH result makes source localization unnecessary
+B. Morning cortisol alone distinguishes all cases of exogenous from endogenous glucocorticoid excess
 
-C. An ACTH-independent source should be evaluated rather than assuming pituitary Cushing disease
+C. Morning cortisol alone may not reveal loss of the normal daily nadir or increased overall cortisol production
 
-D. Suppressed ACTH establishes a pituitary corticotroph adenoma
+D. One normal morning result excludes every form of endogenous hypercortisolism
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. An ACTH-independent source should be evaluated rather than assuming pituitary Cushing disease**
+**Correct answer: C. Morning cortisol alone may not reveal loss of the normal daily nadir or increased overall cortisol production**
 
-- **A — Incorrect:** Ectopic ACTH secretion bhi ACTH-dependent category mein aati hai. Suppressed result uska proof nahi hai.
-- **B — Incorrect:** Hypercortisolism confirm hone ke baad source identify karna treatment selection ke liye zaroori hai.
-- **C — Correct:** Cortisol excess ACTH ko feedback se suppress kar sakta hai agar source adrenal side par independent ho. Isliye team ACTH-independent causes evaluate karti hai.
-- **D — Incorrect:** Pituitary Cushing disease ACTH-dependent hoti hai. Suppressed ACTH se pituitary source automatically establish nahi hota.
+- **A — Incorrect:** Anatomical source identify karne ke liye ACTH assessment aur selected localization tests chahiye. Morning cortisol alone location nahi batata.
+- **B — Incorrect:** Exogenous steroid exposure ki history aur appropriate assays important hain. Ek morning value etiology establish nahi karti.
+- **C — Correct:** Morning cortisol normally higher hota hai aur overlap possible hai. Validated tests cortisol rhythm, suppression ya integrated secretion assess karte hain.
+- **D — Incorrect:** Ek morning result se episodic ya mild cortisol excess definitively exclude nahi hota. Established diagnosis ko complete testing context mein interpret karo.
 
-**Exam clue:** Cushing syndrome aur pituitary Cushing disease ko biochemical source ke basis par distinguish karo.
+**Exam clue:** Isolated morning cortisol Cushing syndrome screening ka reliable substitute nahi hai.
 
-**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [2021 Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
+**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register.
 
@@ -274,31 +274,31 @@ D. Exclude infection because temperature is normal
 
 </details>
 
-### Q10. A patient receiving treatment for Cushing disease has substantially improved cortisol control but still takes the previous insulin dose and reports recurrent low glucose readings. What should the nurse do?
+### Q10. A patient with severe active Cushing disease cannot rise from a low chair without using both arms, although ankle dorsiflexion is preserved. Which finding should the nurse document for the treating team?
 
-**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Treat hypoglycemia per protocol and arrange prompt review of the diabetes regimen
+A. Predominantly proximal muscle weakness consistent with cortisol-associated myopathy
 
-B. Continue unchanged insulin because cortisol control cannot influence glucose requirements
+B. Isolated distal motor neuropathy established solely by the chair-rise finding
 
-C. Increase insulin to compensate for falling cortisol
+C. A normal functional assessment because ankle movement is intact
 
-D. Stop glucose monitoring because hypercortisolism is controlled
+D. Evidence that weakness must be due to acute optic chiasm compression
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Treat hypoglycemia per protocol and arrange prompt review of the diabetes regimen**
+**Correct answer: A. Predominantly proximal muscle weakness consistent with cortisol-associated myopathy**
 
-- **A — Correct:** Cortisol excess insulin resistance badha sakta hai. Effective cortisol treatment ke baad glucose requirement change ho sakti hai, isliye low glucose treat karke regimen review karna important hai.
-- **B — Incorrect:** Previous dose improved metabolic state mein excessive ho sakti hai. Recurrent lows ko ignore nahi karna chahiye.
-- **C — Incorrect:** Insulin increase low glucose ko worsen kar sakta hai. Dose adjustment prescriber ke assessment se hota hai.
-- **D — Incorrect:** Cortisol improve hone ke baad bhi diabetes monitoring relevant rehti hai. Treatment transitions mein monitoring especially important hai.
+- **A — Correct:** Chronic cortisol excess skeletal muscle protein breakdown contribute kar sakta hai. Chair se uthne mein difficulty proximal muscle groups ki weakness indicate kar sakti hai.
+- **B — Incorrect:** Distal neuropathy usually distal distribution mein manifest hoti hai. Given pattern proximal weakness ko suggest karta hai, definitive etiology further assessment se confirm hoti hai.
+- **C — Incorrect:** Ankle movement normal hone se hip girdle strength normal prove nahi hoti. Functional task difficulty document karni chahiye.
+- **D — Incorrect:** Optic chiasm compression visual field effects cause kar sakti hai. Is motor weakness pattern ka direct anatomical explanation nahi hai.
 
-**Exam clue:** Cortisol control ke saath insulin requirement reassess karo.
+**Exam clue:** Proximal myopathy ko functional tasks se recognize karo.
 
-**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [2021 Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
+**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register.
 
@@ -364,31 +364,31 @@ D. A platelet count as the sole toxicity assessment
 
 </details>
 
-### Q13. A patient with Cushing disease receiving pasireotide develops rising fasting glucose after treatment begins. Which response is appropriate?
+### Q13. A patient taking osilodrostat for Cushing disease has an ECG monitoring plan. The nurse notes a newly prescribed medicine that can also prolong the QT interval. Which action is appropriate?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Consider glucose monitoring unnecessary once ACTH decreases
+A. Use serum ACTH alone to assess the risk of ventricular arrhythmia
 
-B. Report the trend and coordinate glycemic assessment and management
+B. Request medication reconciliation and review of ECG and electrolyte monitoring before coadministration
 
-C. Assume rising glucose proves the medication was not administered
+C. Assume medicines with different indications cannot have additive cardiac effects
 
-D. Withhold all nutrition to normalize fasting glucose
+D. Cancel ECG monitoring because cortisol is being treated
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Report the trend and coordinate glycemic assessment and management**
+**Correct answer: B. Request medication reconciliation and review of ECG and electrolyte monitoring before coadministration**
 
-- **A — Incorrect:** ACTH ya cortisol response aur glucose toxicity separate endpoints hain. Glycemic monitoring continue honi chahiye.
-- **B — Correct:** Pasireotide insulin secretion ko affect karke hyperglycemia cause kar sakti hai. Glucose trend report karke diabetes management review karna chahiye.
-- **C — Incorrect:** Hyperglycemia treatment-related adverse effect bhi ho sakti hai. Isse nonadministration prove nahi hoti.
-- **D — Incorrect:** Nutrition completely withhold karna safe glucose strategy nahi hai. Individualized diabetes management chahiye.
+- **A — Incorrect:** ACTH hormone activity ke baare mein information deta hai, cardiac repolarization directly assess nahi karta. ECG aur electrolytes relevant hain.
+- **B — Correct:** Osilodrostat ke saath QT prolongation possible hai. Additional QT-active medicine aur electrolyte abnormalities risk increase kar sakti hain, isliye coordinated safety review important hai.
+- **C — Incorrect:** Different indications hone se drug effects independent hona guaranteed nahi hai. Additive electrophysiological risk possible hai.
+- **D — Incorrect:** Cortisol therapy effective hone par bhi cardiac toxicity monitoring needed ho sakti hai. ECG plan prescriber review ke bina cancel nahi karte.
 
-**Exam clue:** Pasireotide mein therapeutic response aur glucose safety separately monitor karo.
+**Exam clue:** Steroidogenesis inhibitor safety mein QT-active interactions aur potassium-magnesium status consider karo.
 
-**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [2021 Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
+**Clinical reference:** [Endocrine Society Cushing syndrome treatment guideline](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) · [Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register.
 
