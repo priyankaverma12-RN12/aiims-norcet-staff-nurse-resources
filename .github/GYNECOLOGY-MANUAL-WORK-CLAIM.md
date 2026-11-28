@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-crossbank-audit-20261128
+Scope: Gynecology README only: add 40-question audit link without changing distinct counts
+Claimed UTC: 2026-11-28T09:00:00Z
+Expiry UTC: 2026-11-28T09:30:00Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
