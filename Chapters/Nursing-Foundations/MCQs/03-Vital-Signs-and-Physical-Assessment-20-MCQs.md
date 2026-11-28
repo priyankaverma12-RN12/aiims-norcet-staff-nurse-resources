@@ -17,17 +17,16 @@
 
 **Correct: D. Falsely high blood pressure**
 
-<!-- job5-rationale -->
-BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye. Agar cuff chhota ya narrow hai, artery ko occlude karne ke liye device ko zyada pressure register karna pad sakta hai. Isse measured BP true BP se high aa sakta hai, jise undercuffing error kehte hain. Arm circumference measure karke manufacturer ki size range select karo, bare upper arm par cuff lagao aur correct position mein repeat karo. Ek wrong-size reading par chronic hypertension diagnose mat karo.
+BP cuff ke andar ek inflatable bladder hota hai jo upper arm ki artery par pressure apply karta hai. Agar patient ki arm ke comparison mein cuff bahut chhota hai, toh artery ko compress karne ke liye zyada cuff pressure ki zaroorat pad sakti hai. Isse machine actual BP se zyada reading dikha sakti hai. Ise undercuffing error kehte hain. Nurse arm circumference measure karti hai aur manufacturer ki recommended size range ke according cuff select karti hai. Stable patient mein correct cuff aur proper position ke saath reading repeat karni chahiye. Galat cuff se li gayi ek reading ke basis par chronic hypertension diagnose nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** small cuff generally opposite direction mein error create karta hai. Too large cuff reading underestimate kar sakta hai, although effect device par depend karta hai.
-- **B:** cuff size measurement accuracy ko affect karti hai.
-- **C:** cuff BP measure karta hai, respiratory rate nahi.
-- **D:** undersized cuff falsely high BP de sakta hai.
+- **A:** Bahut chhota cuff generally BP reading ko falsely high kar sakta hai. Bahut bada cuff reading underestimate kar sakta hai, lekin effect device aur fit par depend karta hai.
+- **B:** Cuff size ka measurement accuracy par effect ho sakta hai. Isliye patient ki arm circumference ke according suitable cuff choose karna important hai.
+- **C:** BP cuff arterial pressure measure karne ke liye use hota hai. Respiratory rate alag assessment hai, jisme breaths count ki jaati hain.
+- **D:** Undersized cuff ki wajah se measured BP actual pressure se zyada aa sakta hai. Isliye D sahi hai.
 
-**Exam clue:** Small cuff → high reading. Correct circumference → correct cuff.
+**Exam clue:** Chhota BP cuff falsely high reading de sakta hai. Arm circumference measure karke suitable cuff select karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -62,17 +61,16 @@ BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye
 
 **Correct: C. The reading may be falsely elevated**
 
-<!-- job5-rationale -->
-Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic pressure badhta hai. Unsupported arm ko hold karne mein muscle contraction bhi pressure increase kar sakti hai. Isliye heart-level supported arm ke comparison mein reading elevated aa sakti hai. Stable patient mein back supported, feet flat, arm relaxed aur cuff ka midpoint heart level par rakhkar BP repeat karo.
+Maan lo patient ki arm chair ke side mein neeche latak rahi hai aur nurse us position mein BP measure karti hai. Heart level se neeche measuring site par gravity ki wajah se hydrostatic pressure badh sakta hai. Agar patient arm ko khud hold kar raha hai, toh muscle contraction bhi reading affect kar sakti hai. Dono factors ki wajah se BP falsely elevated aa sakta hai. Stable patient mein back supported, feet flat aur arm relaxed rakho. Cuff ka midpoint heart level par support karke reading repeat karo.
 
 **Option-by-option reasoning**
 
-- **A:** below-heart position generally reading ko raise kar sakti hai, lower necessarily nahi.
-- **B:** position specifically BP ko affect karti hai, sirf oxygen saturation ko nahi.
-- **C:** hydrostatic pressure aur unsupported arm ka expected bias explain karta hai.
-- **D:** zero BP expected effect nahi hai.
+- **A:** Arm heart level se neeche hone par reading falsely high ho sakti hai. Isliye necessarily low reading aayegi, ye statement sahi nahi hai.
+- **B:** Arm ki position BP measurement ki accuracy ko affect karti hai. Ye effect sirf pulse oximetry tak limited nahi hai.
+- **C:** Hydrostatic pressure aur unsupported arm ki muscle activity reading ko falsely elevate kar sakti hain. Isliye C sahi hai.
+- **D:** Arm ki position se BP reading zero hona expected nahi hai. Aisi reading mile toh patient aur measurement technique ko assess karna chahiye.
 
-**Exam clue:** Arm low → BP high bias. Arm supported at heart level.
+**Exam clue:** BP measure karte waqt arm relaxed aur supported rakho aur cuff ko heart level par position karo.
 
 [Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
 <!-- /job5-rationale -->
@@ -105,17 +103,16 @@ Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic
 
 **Correct: B. The first clear repetitive tapping sound**
 
-<!-- job5-rationale -->
-Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop karta hai. Jab cuff pressure gradually decrease hota hai aur systolic pressure ke neeche pahunchta hai, intermittent flow ki wajah se first repetitive tapping sound sunai deti hai. Yeh Korotkoff phase I hai aur adult systolic pressure record kiya jaata hai. Phase V yani sounds disappear hona generally adult diastolic reading hai. Proper deflation aur trained technique important hai.
+Manual BP measurement mein cuff inflate karne se brachial artery mein blood flow temporarily stop ho sakta hai. Nurse cuff ko dheere-dheere deflate karti hai aur stethoscope se Korotkoff sounds sunti hai. Jab cuff pressure systolic pressure se neeche aata hai, toh intermittent blood flow ki wajah se pehli clear repeated tapping sound sunai deti hai. Ise Korotkoff phase I kehte hain aur routine adult measurement mein ye systolic BP ka marker hota hai. Phase V mein sounds disappear ho jaati hain aur generally ye adult diastolic BP represent karta hai. Accurate result ke liye trained technique aur proper deflation zaroori hain.
 
 **Option-by-option reasoning**
 
-- **A:** wrist palpation se systolic estimate possible hai lekin yeh Korotkoff sound nahi hai.
-- **B:** first repetitive tapping phase I hai, systolic pressure ka marker.
-- **C:** disappearance generally diastolic pressure indicate karti hai.
-- **D:** loudness alone systolic pressure identify nahi karti.
+- **A:** Wrist par radial pulse palpate karke systolic pressure ka approximate estimate liya ja sakta hai. Lekin ye stethoscope se suni gayi Korotkoff sound nahi hai.
+- **B:** Pehli clear repetitive tapping sound Korotkoff phase I hai. Ye routine adult systolic pressure indicate karti hai, isliye B sahi hai.
+- **C:** Sounds ka disappearance usually Korotkoff phase V hai, jo adult diastolic pressure record karne ke liye use hota hai.
+- **D:** Sabse loud sound ko systolic pressure nahi maante. Nurse ko pehli repeated sound identify karni chahiye.
 
-**Exam clue:** Korotkoff I = systolic, V = adult diastolic.
+**Exam clue:** Korotkoff phase I systolic BP batati hai aur phase V usually adult diastolic BP batati hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -148,17 +145,16 @@ Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop kart
 
 **Correct: A. Count the apical pulse for a full minute and assess rhythm**
 
-<!-- job5-rationale -->
-Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strength se feel nahi ho sakta. Short count ko multiply karne par rhythm variation miss ho sakti hai. Stethoscope se apical heartbeats full 60 seconds count karo aur rhythm, symptoms aur other observations assess karo. New irregularity, dizziness, chest pain ya instability par timely clinical escalation karo. Rhythm ki exact diagnosis ke liye ECG ki zaroorat ho sakti hai.
+Irregular radial pulse ka matlab hai ki wrist par feel hone wali pulse beats evenly spaced nahi hain. Kuch cardiac contractions se peripheral pulse wave weak ya undetectable bhi ho sakti hai. Agar nurse sirf paanch seconds count karke rate multiply kare, toh irregular rhythm ka pattern miss ho sakta hai. Nurse stethoscope se apical heartbeats full 60 seconds count karti hai aur rhythm, symptoms aur relevant observations assess karti hai. Agar irregularity nayi hai ya chest pain, dizziness ya instability ke saath hai, toh timely clinical escalation zaroori hai. Exact electrical rhythm identify karne ke liye ECG evaluation ki zaroorat ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** full-minute apical count heart contractions ko directly assess karne mein help karta hai.
-- **B:** five-second sample irregular rhythm ka reliable minute estimate nahi deta.
-- **C:** old value current heart rate nahi batati.
-- **D:** respiratory rate alag vital sign hai aur heart rhythm replace nahi karti.
+- **A:** Full minute tak apical heart rate count karne aur rhythm assess karne se irregular beats ka better assessment mil sakta hai. Isliye A sahi hai.
+- **B:** Paanch seconds ka count irregular rhythm mein poore minute ki reliable representation nahi hai. Multiply karne par rate ka error badh sakta hai.
+- **C:** Previous shift ki value comparison ke liye useful ho sakti hai, lekin usse current heart rate confirm nahi hoti.
+- **D:** Respiratory rate se patient ki breathing ki frequency pata chalti hai. Ye heart rate aur rhythm assessment ko replace nahi karti.
 
-**Exam clue:** Irregular pulse → apical full minute, assess symptoms.
+**Exam clue:** Irregular pulse mein full-minute apical assessment consider karo aur patient ke symptoms aur rhythm bhi check karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 
@@ -193,17 +189,16 @@ Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strengt
 
 **Correct: A. 14 beats/min**
 
-<!-- job5-rationale -->
-Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beech difference hai. Kuch contractions se peripheral artery tak detectable pulse wave nahi pahunchti, especially irregular rhythms mein. Simultaneous measurement important hai kyunki separate times par rate change ho sakta hai. Formula: pulse deficit = apical − radial. Given 112 − 98 = 14 beats/min. Deficit milne par rhythm aur perfusion assess karo aur new abnormality communicate karo.
+Pulse deficit ka matlab hai simultaneously measured apical heart rate aur radial pulse rate ke beech difference. Maan lo heart ek minute mein 112 baar contract karta hai, lekin wrist par sirf 98 detectable pulses feel hoti hain. Kuch contractions se sufficient peripheral pulse wave generate nahi hui ho sakti hai. Dono rates ek hi time measure karna important hai, kyunki different times par heart rate khud change ho sakti hai. Pulse deficit calculate karne ke liye apical rate mein se radial rate subtract karo. Yahan 112 − 98 = 14 beats per minute hai. New deficit milne par patient ki rhythm, perfusion aur symptoms assess karke relevant team ko inform karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** 14 beats/min actual missing peripheral pulses ka difference hai.
-- **B:** 210 beats/min dono rates ka sum hai, deficit nahi.
-- **C:** 98/min sirf radial rate hai.
-- **D:** 112/min sirf apical rate hai.
+- **A:** Apical rate se simultaneous radial rate subtract karne par 14 beats/min milte hain. Isliye A correct pulse deficit hai.
+- **B:** 112 aur 98 ko add karne par 210 aata hai. Pulse deficit mein sum nahi, difference calculate karte hain.
+- **C:** 98 beats/min patient ki radial pulse rate hai. Ye apical aur radial rate ka difference nahi hai.
+- **D:** 112 beats/min apical rate hai. Pulse deficit jaanne ke liye ismein se radial rate subtract karna padta hai.
 
-**Exam clue:** Pulse deficit = apical minus radial, in beats/min.
+**Exam clue:** Pulse deficit calculate karne ke liye simultaneous apical rate mein se radial rate subtract karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 
@@ -238,17 +233,16 @@ Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beec
 
 **Correct: D. Observe chest movements discreetly after pulse assessment**
 
-<!-- job5-rationale -->
-Respiration normally automatic hoti hai lekin patient conscious effort se breathing rate aur depth change kar sakta hai. Agar patient ko bataya jaaye ki ab saans count ho rahi hai toh woh unknowingly pattern alter kar sakta hai. Routine assessment mein general explanation aur consent ke saath pulse check ke baad quietly chest rise and fall observe karo. Ek inspiration aur expiration milkar one breath hote hain. Irregular breathing mein full minute count karo aur depth, effort aur rhythm bhi note karo.
+Breathing normally automatic process hai, lekin patient consciously apni respiratory rate aur depth change bhi kar sakta hai. Agar nurse specifically bataye ki ab saans count ho rahi hai, toh patient bina realize kiye apna natural pattern change kar sakta hai. Routine assessment mein patient ko general vital-sign check samjha kar consent aur privacy maintain karni chahiye. Pulse check karne ke baad nurse quietly chest ka rise aur fall observe kar sakti hai. Ek rise aur fall ek complete breath represent karta hai. Irregular breathing mein full minute count karna chahiye aur depth, rhythm aur breathing effort bhi note karne chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** fast breathing instruction baseline rate artificially badha degi.
-- **B:** continuous talking normal breathing pattern change karti hai.
-- **C:** age expected range batati hai, actual rate nahi.
-- **D:** unobtrusive observation spontaneous rate capture karne mein help karti hai.
+- **A:** Patient ko fast breathing karne ko kehne se uski natural resting respiratory rate artificially badh sakti hai.
+- **B:** Continuous talking breathing pattern ko alter kar sakti hai. Isliye natural resting respiration assess karne ke liye quiet breathing observe karna zyada suitable hai.
+- **C:** Age se expected reference range ka idea mil sakta hai, lekin actual respiratory rate jaanne ke liye patient ki breaths count karni padti hain.
+- **D:** Pulse assessment ke baad quietly chest movements observe karne se spontaneous breathing pattern capture karne mein help milti hai. Isliye D sahi hai.
 
-**Exam clue:** Pulse ke baad quietly count respirations. One rise-fall = one breath.
+**Exam clue:** Pulse ke baad natural breathing observe karo. Chest ka ek rise aur fall ek breath hota hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -281,17 +275,16 @@ Respiration normally automatic hoti hai lekin patient conscious effort se breath
 
 **Correct: C. Assess the patient, improve signal quality and verify oxygenation with another method if needed**
 
-<!-- job5-rationale -->
-Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate karta hai. Cold fingers mein vasoconstriction aur low peripheral perfusion signal weak bana sakti hain. Motion, sensor placement, pigmentation aur other factors accuracy affect kar sakte hain. Pehle patient ki airway, breathing, perfusion aur distress assess karo. Probe placement, waveform aur pulse agreement check karo, safe warming ya appropriate alternate site use karo aur clinical indication par arterial blood gas jaise confirmatory test arrange karo. Urgent support ko monitor troubleshooting ke liye delay mat karo.
+Pulse oximeter blood ke pulsatile optical signal se oxygen saturation estimate karta hai. Cold fingers mein blood vessels constrict ho sakti hain aur peripheral perfusion kam hone se signal weak ho sakta hai. Agar waveform poor hai aur number baar-baar change ho raha hai, toh display ko bina verification accurate assume nahi karna chahiye. Nurse pehle patient ki airway, breathing, circulation aur distress assess karti hai. Phir sensor placement, waveform aur displayed pulse ko check karti hai. Feasible hone par safe warming ya suitable alternate site use ki ja sakti hai. Motion, skin pigmentation aur doosre factors bhi accuracy affect kar sakte hain. Agar clinical indication hai, toh arterial blood gas jaise confirmatory assessment arrange kiya ja sakta hai. Urgent oxygenation ya ventilation support ko monitor troubleshooting ke liye delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** unstable signal se oxygen ki need rule out nahi hoti. Prescribed oxygen bina assessment remove karna unsafe hai.
-- **B:** 100% display respiratory distress ya hypoventilation ko exclude nahi karta.
-- **C:** patient assessment aur measurement validation dono address karta hai.
-- **D:** lowest fluctuating artifact ko true saturation assume nahi karna chahiye.
+- **A:** Unstable display se ye establish nahi hota ki patient ko oxygen ki zaroorat nahi hai. Assessment ke bina prescribed oxygen remove karna unsafe ho sakta hai.
+- **B:** Monitor baad mein 100% dikha de, tab bhi respiratory symptoms ya inadequate ventilation possible hain. Patient ki condition assess karni chahiye.
+- **C:** Patient ki condition assess karne, signal improve karne aur zaroorat par doosre method se oxygenation verify karne se measurement aur clinical safety dono address hote hain. Isliye C sahi hai.
+- **D:** Fluctuating reading ka lowest number actual saturation bhi ho sakta hai ya artifact bhi. Bina verification usse confirmed true saturation nahi maanna chahiye.
 
-**Exam clue:** Assess the patient first, then validate the signal. SpO2 does not measure ventilation.
+**Exam clue:** Patient ko pehle assess karo aur phir signal verify karo. SpO2 ventilation ko directly measure nahi karti.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -324,17 +317,16 @@ Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate k
 
 **Correct: B. Auscultation**
 
-<!-- job5-rationale -->
-Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se heart, lungs, bowel aur selected vascular sounds assess karte hain. Inspection mein eyes se observation, palpation mein touch aur percussion mein tapping se generated sound evaluate hota hai. Example ke liye wheeze sunna auscultation hai, chest rise dekhna inspection hai.
+Auscultation ka matlab body ke andar se aane wali sounds ko sunna hai. Nurse usually stethoscope ki help se heart sounds, lung sounds, bowel sounds aur indicated vascular sounds assess karti hai. Maan lo patient ko saans lene mein difficulty hai. Chest movement ko aankhon se dekhna inspection hai, jabki stethoscope se wheeze sunna auscultation hai. Physical examination ki har technique alag tarah ki information deti hai. Nurse findings ko patient ki history aur doosre assessments ke saath interpret karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** visual observation hai, stethoscope listening nahi.
-- **B:** internal sound ko listen karna auscultation hai.
-- **C:** touch se tenderness, temperature, texture ya pulses assess karte hain.
-- **D:** tapping se resonance ya dullness assess karte hain, passive internal listening nahi.
+- **A:** Inspection mein nurse body ki appearance ya movement ko observe karti hai. Ismein internal sounds sunna main technique nahi hai.
+- **B:** Stethoscope ki help se internal body sounds sunna auscultation hai. Isliye B sahi hai.
+- **C:** Palpation mein nurse touch se tenderness, warmth, texture ya pulse jaise findings assess karti hai. Ye internal sounds sunne ki technique nahi hai.
+- **D:** Percussion mein body surface par tap karke resulting sound interpret ki jaati hai. Auscultation mein body ke internal sounds sune jaate hain.
 
-**Exam clue:** Inspection = see, palpation = feel, percussion = tap, auscultation = listen.
+**Exam clue:** Inspection mein dekhte hain, palpation mein touch karte hain, percussion mein tap karte hain aur auscultation mein sounds sunte hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -367,17 +359,16 @@ Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se
 
 **Correct: B. Inspection, auscultation, percussion, palpation**
 
-<!-- job5-rationale -->
-Routine abdominal examination ka conventional sequence IAPP hai: inspection, auscultation, percussion, palpation. Pehle contour, distension aur visible changes dekho. Bowel sounds manipulation se alter ho sakte hain, isliye percussion aur palpation se pehle listen karte hain. Percussion se gas, fluid ya solid tissue ke clues milte hain aur palpation tenderness ya masses assess karti hai. Painful area last assess karo aur acute serious abdominal findings par appropriate escalation karo.
+General physical examination mein IPPA order commonly teach kiya jaata hai, lekin abdomen ka conventional routine sequence IAPP hai. Pehle nurse inspection karti hai aur abdominal shape, distension aur visible changes dekhti hai. Phir stethoscope se bowel sounds sunti hai, kyunki abdomen ko palpate ya percuss karne se bowel activity change ho sakti hai. Uske baad percussion se underlying gas, fluid ya tissue ke clues mil sakte hain. Palpation mein tenderness aur relevant masses jaise findings assess ki jaati hain. Tender area ko last mein gently assess karna chahiye. Acute serious abdominal findings mein appropriate escalation zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** percussion aur palpation listening se pehle karta hai aur initial inspection bhi late hai.
-- **B:** inspection ke baad auscultation aur phir percussion-palpation conventional abdominal order hai.
-- **C:** palpation first karne se discomfort aur sound pattern alter ho sakte hain.
-- **D:** inspection se pehle deep palpation inappropriate hai.
+- **A:** Is sequence mein percussion aur palpation bowel sounds sunne se pehle ho rahi hain. Initial visual inspection bhi late hai, isliye ye conventional abdominal order nahi hai.
+- **B:** Pehle inspection, phir auscultation, percussion aur last mein palpation routine abdomen examination ka conventional sequence hai. Isliye B sahi hai.
+- **C:** Palpation se examination shuru karne par patient ko discomfort ho sakta hai aur bowel sound assessment affect ho sakta hai.
+- **D:** Deep palpation ko inspection se pehle karna usual safe routine sequence nahi hai. Pehle abdomen observe karna chahiye.
 
-**Exam clue:** General IPPA, abdomen exception IAPP.
+**Exam clue:** General examination ka commonly taught order IPPA hai, lekin abdomen mein IAPP use hota hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -410,17 +401,16 @@ Routine abdominal examination ka conventional sequence IAPP hai: inspection, aus
 
 **Correct: A. Palpation**
 
-<!-- job5-rationale -->
-Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani haath ki back temperature comparison ke liye commonly useful hoti hai. Similar sites compare karo aur surrounding conditions note karo. Local warmth inflammation ka clue ho sakti hai lekin touch alone cause confirm nahi karta. Exact body temperature ke liye appropriate thermometer use karo.
+Palpation ka matlab hai ki nurse hands se touch karke patient ki relevant body findings assess karti hai. Dorsal surface ka matlab haath ka back wala hissa hai, jo skin warmth compare karne mein commonly useful hota hai. Maan lo nurse patient ke dono ankles ki warmth compare kar rahi hai. Woh comparable sites aur similar environmental conditions ko dhyan mein rakhti hai. Local warmth inflammation ka possible clue ho sakti hai, lekin sirf touch se cause confirm nahi hota. Exact body temperature ki zaroorat ho toh suitable thermometer use karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** touch ke through warmth assess karna palpation hai.
-- **B:** auscultation listening technique hai.
-- **C:** percussion tapping technique hai.
-- **D:** olfaction smell detect karta hai, temperature nahi.
+- **A:** Haath se touch karke warmth compare karna palpation ka example hai. Isliye A sahi hai.
+- **B:** Auscultation mein body ke internal sounds sune jaate hain. Ye skin warmth touch karke assess karne ki technique nahi hai.
+- **C:** Percussion mein nurse body surface par tap karke resulting sound interpret karti hai. Yahan tapping nahi, touch use ho raha hai.
+- **D:** Olfaction ka matlab smell assess karna hai. Haath se temperature compare karna olfaction nahi hai.
 
-**Exam clue:** Warmth by touch = palpation.
+**Exam clue:** Skin warmth ko touch se compare karna palpation hai. Exact temperature measure karne ke liye thermometer chahiye.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -453,17 +443,16 @@ Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani h
 
 **Correct: D. Orthostatic hypotension**
 
-<!-- job5-rationale -->
-Standing par gravity se blood lower body mein pool hota hai. Normally autonomic compensation vascular tone aur heart response adjust karti hai. Orthostatic hypotension mein supine se standing ke first 3 minutes mein systolic BP kam se kam 20 mmHg ya diastolic kam se kam 10 mmHg girta hai. Yahan systolic fall = 128 − 100 = 28 mmHg, diastolic fall = 78 − 62 = 16 mmHg. Dono thresholds cross hain aur dizziness present hai. Patient ko safely sit ya lie karvao, fall prevention aur clinical assessment karo. Volume depletion ya medicine effects possible hain, but cause further assessment se establish hoga.
+Jab patient letne ke baad khada hota hai, toh gravity ki wajah se kuch blood lower body mein shift ho sakta hai. Body normally vascular tone aur heart response adjust karke BP maintain karti hai. Agar compensation adequate nahi hai, toh standing par BP gir sakta hai aur dizziness ho sakti hai. Common orthostatic hypotension threshold standing ke teen minute ke andar systolic BP mein kam se kam 20 mmHg ya diastolic BP mein kam se kam 10 mmHg ki fall hai. Yahan systolic fall 128 − 100 = 28 mmHg aur diastolic fall 78 − 62 = 16 mmHg hai. Dono thresholds cross ho rahe hain aur patient dizzy bhi hai. Nurse patient ko safely baithne ya letne mein help karti hai, fall prevent karti hai aur clinical assessment arrange karti hai. Volume depletion ya medicine effect possible ho sakte hain, lekin exact cause further assessment se establish hoga.
 
 **Option-by-option reasoning**
 
-- **A:** pressure rise nahi hua, dono values fall hui hain.
-- **B:** BP readings respiration rate establish nahi karti.
-- **C:** standing pressure increase nahi hua.
-- **D:** calculated fall aur symptoms orthostatic hypotension support karte hain.
+- **A:** Standing par systolic aur diastolic dono readings giri hain. Isliye normal pressure rise describe karna given findings se match nahi karta.
+- **B:** BP se arterial pressure pata chalta hai. Respiratory rate assess kiye bina tachypnea establish nahi ki ja sakti.
+- **C:** Standing BP increase nahi hua hai, balki decrease hua hai. Isliye increased standing pressure se hypertension ka conclusion supported nahi hai.
+- **D:** Systolic aur diastolic fall common orthostatic thresholds meet karti hain aur patient mein dizziness bhi hai. Isliye D sahi hai.
 
-**Exam clue:** 20 systolic OR 10 diastolic within 3 minutes. Dizziness = fall risk.
+**Exam clue:** Standing ke teen minute ke andar systolic fall 20 mmHg ya diastolic fall 10 mmHg ya usse zyada ho sakti hai. Dizziness ho toh patient ki fall safety pehle dekho.
 
 [Concept reference](https://www.cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf)
 
@@ -498,17 +487,16 @@ Standing par gravity se blood lower body mein pool hota hai. Normally autonomic 
 
 **Correct: C. Recent strenuous activity**
 
-<!-- job5-rationale -->
-Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 production badhta hai. Sympathetic activation heart rate aur cardiac output increase karti hai, ventilation bhi demand ke according rise hoti hai. Isliye activity ke immediately baad pulse aur respiration baseline se high ho sakte hain. Recovery period, symptoms aur resting repeat values se context interpret karo. Abnormal persistent findings ignore mat karo.
+Jab patient strenuous activity karta hai, toh muscles ko energy banane ke liye zyada oxygen chahiye aur carbon dioxide production bhi badhta hai. Sympathetic response ki wajah se heart rate aur cardiac output badh sakte hain, taaki active muscles tak zyada blood pahunch sake. Body ventilation bhi metabolic demand ke hisaab se badha sakti hai. Isliye stairs chadhne ya heavy exercise ke turant baad pulse aur respiratory rate resting baseline se zyada ho sakte hain. Nurse activity ka time, recovery, symptoms aur appropriate resting repeat readings ko consider karti hai. Agar abnormal readings persist kar rahi hain, toh unhe sirf exercise ka effect maan kar ignore nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** stable relaxation generally sympathetic activation kam karti hai.
-- **B:** correct cuff alone systemic heart rate aur respiration increase nahi karta.
-- **C:** strenuous activity metabolic demand aur cardiovascular-respiratory response increase karti hai.
-- **D:** quiet sleep generally rates reduce kar sakti hai, universally increase nahi.
+- **A:** Stable deep relaxation mein sympathetic activation generally kam ho sakti hai. Isliye dono rates badhna iska usual response nahi hai.
+- **B:** Correctly sized cuff BP measurement ke liye useful hai. Sirf cuff ka suitable size systemic heart rate aur breathing rate badhne ka usual cause nahi hai.
+- **C:** Strenuous activity metabolic demand badhati hai aur body heart rate aur ventilation adjust karti hai. Isliye C sahi hai.
+- **D:** Quiet sleep mein heart rate aur breathing rate generally kam ho sakte hain. Har case mein dono badhne ka statement correct nahi hai.
 
-**Exam clue:** Exercise increases metabolic demand, HR and ventilation.
+**Exam clue:** Exercise ke baad metabolic demand badhti hai, isliye pulse aur breathing rate temporarily rise kar sakti hain.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-3-vital-signs)
 <!-- /job5-rationale -->
@@ -541,17 +529,16 @@ Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 produ
 
 **Correct: C. Promptly assess for acute deterioration and escalate care**
 
-<!-- job5-rationale -->
-39.2°C fever ke saath new confusion aur hypotension systemic deterioration ka warning pattern hai. Infection ke context mein sepsis possible hai, lekin single combination se cause confirmed nahi hota. Nurse ABCDE rapid assessment kare, urgent clinical help activate kare, perfusion, oxygenation, consciousness aur other relevant findings assess kare. Facility sepsis ya emergency pathway follow karo. Antipyretic se fever kam ho sakta hai lekin shock ya underlying cause treat nahi hota.
+Patient ka temperature 39.2°C hai aur uske saath nayi confusion aur low BP bhi hai. Fever ek important finding hai, lekin confusion aur hypotension milkar serious systemic deterioration ka signal de sakte hain. Infection ke context mein sepsis possible hai, lekin sirf in findings se exact cause confirm nahi hota. Nurse rapid ABCDE assessment karti hai, urgent clinical help activate karti hai aur perfusion, oxygenation, consciousness aur relevant observations check karti hai. Facility ke emergency ya sepsis pathway ko follow karna chahiye. Fever kam karne wali medicine temperature reduce kar sakti hai, lekin usse underlying cause ya circulatory compromise automatically resolve nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** sirf temperature treat karne se circulatory compromise miss ho sakta hai.
-- **B:** exercise ka normal response assume karna hypotension aur new confusion explain nahi karta.
-- **C:** acute deterioration recognize aur escalate karta hai.
-- **D:** blanket aur delayed review time-sensitive care postpone karte hain.
+- **A:** Sirf temperature kam karne par focus karne se low BP aur possible poor perfusion miss ho sakti hai. Patient ko overall urgently assess karna chahiye.
+- **B:** Exercise ke baad kuch vital signs temporarily change ho sakte hain, lekin nayi confusion aur low BP ko normal exercise response assume karna safe nahi hai.
+- **C:** Prompt assessment aur escalation se serious deterioration ko identify karne aur timely care arrange karne mein help milti hai. Isliye C sahi hai.
+- **D:** Blanket dene aur next shift tak wait karne se time-sensitive clinical care delay ho sakti hai. Current concerning findings ko turant address karna chahiye.
 
-**Exam clue:** Fever plus hypotension plus new confusion = urgent assessment, not fever-only care.
+**Exam clue:** Fever ke saath hypotension aur nayi confusion milen toh poore patient ka urgent assessment karo, sirf fever number ka treatment nahi.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -582,17 +569,16 @@ Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 produ
 
 **Correct: B. Use an appropriate validated behavioral pain tool and clinical assessment**
 
-<!-- job5-rationale -->
-Pain personal sensory aur emotional experience hai. Patient verbally report nahi kar paa raha toh pain absent assume nahi karna hai. Communication ability pehle check karo, available self-report method use karo aur agar reliable self-report unavailable hai toh population-specific validated behavioral tool select karo, jaise critical-care patient mein CPOT ya suitable dementia context mein PAINAD. Facial expression, guarding, movement aur procedure context assess karo. Tool score ko clinical assessment aur intervention response ke saath interpret karo.
+Pain ek personal sensory aur emotional experience hai. Agar patient bol nahi paa raha hai, toh iska matlab ye nahi hai ki use pain nahi ho raha. Nurse pehle check karti hai ki patient kisi aur reliable method se self-report kar sakta hai ya nahi, jaise pointing ya suitable communication aid. Agar reliable self-report possible nahi hai, toh patient population ke according validated behavioral pain tool use kiya ja sakta hai. Critical care ke suitable patients mein CPOT aur relevant dementia context mein PAINAD examples hain. Nurse facial expression, guarding, movement aur possible painful procedure ka context assess karti hai. Tool ka result clinical assessment aur intervention ke baad response ke saath interpret karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** patient ko relief ya assessment ke bina wait karwana harm kar sakta hai.
-- **B:** validated behavioral assessment aur clinical context pain recognition support karte hain.
-- **C:** inability to speak pain absent prove nahi karti.
-- **D:** temperature nonspecific hai aur pain intensity score nahi hai.
+- **A:** Patient ke bolne ka wait karne se pain assessment aur relief delay ho sakte hain. Available suitable assessment methods use karne chahiye.
+- **B:** Appropriate validated behavioral tool aur clinical context se nurse nonverbal patient mein possible pain recognize kar sakti hai. Isliye B sahi hai.
+- **C:** Bolne mein difficulty hone se pain absent prove nahi hota. Patient ki available communication aur behavior assess karna important hai.
+- **D:** Temperature ek nonspecific vital sign hai. Ye patient ki pain intensity ka reliable standalone score nahi hai.
 
-**Exam clue:** Nonverbal does not mean no pain. Use appropriate validated tool.
+**Exam clue:** Nonverbal patient ko pain-free assume mat karo. Reliable self-report possible na ho toh suitable validated behavioral tool aur clinical assessment use karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610831/)
 <!-- /job5-rationale -->
@@ -623,17 +609,16 @@ Pain personal sensory aur emotional experience hai. Patient verbally report nahi
 
 **Correct: A. Assess and support airway and ventilation and activate urgent clinical help**
 
-<!-- job5-rationale -->
-Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficult arousal severe respiratory depression ke warning signs hain. Priority airway patency aur effective ventilation assess aur support karna hai, urgent emergency help activate karo, further opioid administration rok kar facility protocol follow karo. Authorized naloxone aur ventilatory support as indicated arrange karo aur repeated monitoring karo kyunki respiratory depression recur ho sakti hai. Oxygen saturation normal dikhe tab bhi ventilation inadequate ho sakti hai.
+Opioid medicines brainstem ke respiratory drive ko depress kar sakti hain. Respiratory drive ka matlab body ka woh control hai jo breathing maintain karne mein help karta hai. Is patient ki respiratory rate 7/min hai aur use jagana difficult ho raha hai. Ye severe respiratory depression ke warning signs hain. Nurse ko immediately airway aur effective ventilation assess aur support karni chahiye, emergency help activate karni chahiye aur further opioid administration rok kar facility protocol follow karna chahiye. Indication aur authorization ke according ventilatory support aur naloxone management arrange kiya ja sakta hai. Repeated monitoring zaroori hai, kyunki respiratory depression dobara develop ho sakti hai. Oxygen saturation normal dikhne par bhi ventilation inadequate ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** immediate airway, ventilation aur escalation life-threatening problem address karte hain.
-- **B:** additional opioid respiratory depression worsen kar sakta hai.
-- **C:** routine observation tak wait potentially fatal delay create karta hai.
-- **D:** reduced consciousness mein oral fluids aspiration risk badhate hain.
+- **A:** Airway aur ventilation ko support karne aur urgent clinical help activate karne se immediate life-threatening concern address hoti hai. Isliye A sahi hai.
+- **B:** Additional opioid respiratory drive ko aur depress kar sakta hai. Current concerning signs mein further dose dena unsafe ho sakta hai.
+- **C:** Next routine observation tak wait karne se severe respiratory depression mein potentially fatal delay ho sakta hai. Prompt response zaroori hai.
+- **D:** Poorly responsive patient reliably swallow nahi kar sakta. Oral fluids dene se aspiration ka risk badh sakta hai.
 
-**Exam clue:** Opioid + slow breathing + poor arousal = airway/ventilation emergency.
+**Exam clue:** Opioid ke baad bahut slow breathing aur poor arousal ko airway aur ventilation emergency samjho. Immediate assessment aur escalation karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -666,17 +651,16 @@ Opioids brainstem respiratory drive depress kar sakte hain. RR 7/min aur difficu
 
 **Correct: D. Amplitude**
 
-<!-- job5-rationale -->
-Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, vascular tone aur arterial condition se influence ho sakti hai. Nurse rate yani beats/min, rhythm yani regularity, amplitude yani strength aur symmetry evaluate karti hai. Weak or bounding pulse ko local documented grading scale ke according record karo. Pulse strength alone exact blood pressure ya diagnosis prove nahi karti.
+Pulse amplitude ka matlab artery par feel hone wali pulsation ki strength hai. Maan lo nurse do patients ki pulse count karti hai aur dono ki rate 80/min hai. Ek ki pulse strong feel hoti hai aur doosre ki bahut weak. Rate same hone ke bawajood amplitude alag hai. Stroke volume, vascular tone aur arterial condition pulse strength ko affect kar sakte hain. Nurse rate, rhythm, amplitude aur symmetry alag-alag assess karti hai aur facility ki documented grading scale ke according finding record karti hai. Sirf amplitude se exact BP ya specific diagnosis confirm nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** rhythm intervals ki regularity describe karta hai.
-- **B:** rate per minute beats count karta hai.
-- **C:** temperature thermal finding hai, pulse strength nahi.
-- **D:** amplitude palpated pulsation ki strength hai.
+- **A:** Rhythm se pata chalta hai ki beats ke beech intervals regular hain ya irregular. Ye pulse ki palpable strength nahi batati.
+- **B:** Rate ek minute mein beats ki sankhya batati hai. Same rate wale patients ki pulse strength alag ho sakti hai.
+- **C:** Temperature body ya skin ki thermal finding hai. Ye arterial pulsation ki strength ka term nahi hai.
+- **D:** Amplitude palpation ke waqt pulse ki strength describe karti hai. Isliye D sahi hai.
 
-**Exam clue:** Rate = how many, rhythm = regularity, amplitude = strength.
+**Exam clue:** Rate batati hai ki beats kitni hain, rhythm batati hai ki beats kitni regular hain aur amplitude batati hai ki pulse kitni strong hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 <!-- /job5-rationale -->
@@ -709,17 +693,16 @@ Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, 
 
 **Correct: D. 46 mmHg**
 
-<!-- job5-rationale -->
-Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Systolic pressure ventricular contraction ke phase mein arterial peak pressure hai aur diastolic relaxation/filling ke dauran lower pressure hai. Formula PP = SBP − DBP. Given 118 − 72 = 46 mmHg. Pulse pressure stroke volume aur arterial compliance se related ho sakta hai, lekin one value se specific disease diagnose nahi karte.
+BP mein upar wala number systolic pressure hota hai aur neeche wala number diastolic pressure hota hai. Systolic pressure heart ki ventricular contraction ke dauran arterial peak pressure hai. Diastolic pressure heart ke relax aur fill hone ke dauran lower arterial pressure hai. Pulse pressure in dono values ka difference hai. Is question mein BP 118/72 mmHg hai, isliye pulse pressure 118 − 72 = 46 mmHg hoga. Pulse pressure ka relationship stroke volume aur arterial compliance se ho sakta hai, lekin ek isolated value se specific disease diagnose nahi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** 72 mmHg diastolic pressure hai.
-- **B:** 95 mmHg correct difference nahi hai. Arithmetic average bhi 95 hoti hai, pulse pressure nahi.
-- **C:** 190 mmHg systolic aur diastolic ka sum hai.
-- **D:** 46 mmHg correct subtraction hai.
+- **A:** 72 mmHg diastolic pressure hai. Ye systolic aur diastolic values ka difference nahi hai.
+- **B:** 95 mmHg dono readings ka simple arithmetic average hai. Pulse pressure calculate karne ke liye average nahi, subtraction use karte hain.
+- **C:** 190 mmHg 118 aur 72 ka sum hai. Pulse pressure dono values ko add karke nahi nikalta.
+- **D:** 118 mein se 72 subtract karne par 46 mmHg milta hai. Isliye D correct pulse pressure hai.
 
-**Exam clue:** Pulse pressure = top number minus bottom number.
+**Exam clue:** Pulse pressure nikalne ke liye BP ke upar wale number mein se neeche wala number subtract karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493197/)
 
@@ -758,17 +741,16 @@ Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Syst
 
 **Correct: C. 60 mmHg**
 
-<!-- job5-rationale -->
-Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka estimate hai. Ordinary resting rate par diastole zyada duration leta hai, isliye simple arithmetic average use nahi karte. Formula MAP ≈ DBP + (SBP − DBP)/3, equivalent to (SBP + 2 × DBP)/3. First PP = 84 − 48 = 36 mmHg. One third = 12. MAP ≈ 48 + 12 = 60 mmHg. Low BP aur MAP ko patient perfusion, mental status, urine output aur clinical context ke saath urgently assess karo. Formula extreme heart rates mein less accurate ho sakta hai.
+Mean arterial pressure ya MAP poore cardiac cycle ke average arterial pressure ka approximate estimate hai. Ordinary resting heart rate par diastole relatively zyada time leti hai, isliye systolic aur diastolic values ka simple average standard approximation nahi hai. Formula hai MAP ≈ DBP + (SBP − DBP)/3. Yahan BP 84/48 mmHg hai. Pehle pulse pressure calculate karo, jo 84 − 48 = 36 mmHg hai. Iska one-third 12 mmHg hai. Phir DBP 48 mein 12 add karne par approximate MAP 60 mmHg milta hai. Ye low BP aur MAP concerning ho sakte hain, isliye nurse patient ki perfusion, mental status, urine output aur clinical condition ko urgently assess karti hai. Extreme heart rates mein formula less accurate ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** 66 mmHg simple arithmetic average (84+48)/2 hai, standard approximation nahi.
-- **B:** 132 mmHg SBP+DBP sum hai.
-- **C:** 60 mmHg correct weighted estimate hai.
-- **D:** 36 mmHg pulse pressure hai, MAP nahi.
+- **A:** 66 mmHg dono values ka simple average hai, yaani (84 + 48)/2. Ye standard resting MAP approximation nahi hai.
+- **B:** 132 mmHg systolic aur diastolic pressures ka sum hai. MAP is tarah calculate nahi hota.
+- **C:** DBP 48 mein pulse pressure 36 ka one-third, yaani 12, add karne par 60 mmHg milta hai. Isliye C sahi hai.
+- **D:** 36 mmHg systolic aur diastolic pressure ka difference hai, yaani pulse pressure. Ye MAP nahi hai.
 
-**Exam clue:** MAP ≈ DBP + PP/3. Do not confuse with pulse pressure.
+**Exam clue:** MAP ka approximate formula DBP + pulse pressure/3 hai. Calculated value ko patient ki actual perfusion aur clinical condition ke saath interpret karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493197/)
 
@@ -803,17 +785,16 @@ Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka es
 
 **Correct: B. Use of accessory neck muscles during respiration**
 
-<!-- job5-rationale -->
-Accessory respiratory muscles jaise sternocleidomastoid ya scalene muscles visible use hona increased work of breathing ka objective clue ho sakta hai. Normal quiet breathing mainly diaphragm aur intercostal muscles se hoti hai. Nurse effort, respiratory rate, oxygenation, speech, mental status aur other signs assess kare. New severe effort par prompt escalation zaroori hai. Patient-reported dyspnea bhi clinically important hai, lekin subjective data hai.
+Normal quiet breathing mein mainly diaphragm aur intercostal muscles kaam karti hain. Jab patient ko saans lene ke liye extra effort chahiye, toh accessory respiratory muscles, jaise neck ki sternocleidomastoid aur scalene muscles, visibly active ho sakti hain. Nurse in muscles ka use directly observe kar sakti hai, isliye ye objective finding hai. Nurse respiratory rate, effort, oxygenation, speech aur mental status bhi assess karti hai. Agar increased effort naya ya severe hai, toh prompt escalation chahiye. Patient khud breathing discomfort report kare toh woh bhi clinically important hai, lekin subjective symptom hai.
 
 **Option-by-option reasoning**
 
-- **A:** hunger subjective report hai aur breathing effort ka sign nahi.
-- **B:** visible neck muscle recruitment directly observable sign hai.
-- **C:** breathing discomfort subjective report hai, objectively observed sign nahi.
-- **D:** blanket preference breathing assessment finding nahi.
+- **A:** Hunger patient ka personal experience hai. Ye increased breathing effort ka relevant objective sign nahi hai.
+- **B:** Neck muscles ka visible recruitment nurse directly observe kar sakti hai. Ye increased work of breathing ka objective clue hai, isliye B sahi hai.
+- **C:** Patient ki breathing discomfort report subjective data hai. Is option mein observed sign nahi bataya gaya hai, lekin symptom ko clinically assess karna phir bhi zaroori hai.
+- **D:** Blanket ke colour ki preference patient ki personal choice hai. Isse respiratory effort ka objective assessment nahi hota.
 
-**Exam clue:** Objective respiratory sign = visible effort, not only reported discomfort.
+**Exam clue:** Increased breathing effort ke visible signs objective findings hain. Patient ki khud batayi breathlessness subjective symptom hai aur dono important hain.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -846,17 +827,16 @@ Accessory respiratory muscles jaise sternocleidomastoid ya scalene muscles visib
 
 **Correct: A. Allow appropriate rest, repeat with correct technique and assess symptoms**
 
-<!-- job5-rationale -->
-Stairs climb karne ke baad sympathetic response aur increased cardiac demand temporarily BP badha sakti hai. Stable patient mein appropriate rest ke baad correct-size cuff aur supported heart-level arm se repeat measurement karo. Standard routine measurement ke liye exercise se lagbhag 30 minutes gap aur kam se kam 5 minutes quiet rest desirable hain. Symptoms, previous trend aur relevant clinical context assess karo. Severe reading with concerning symptoms ho toh rest ke naam par urgent assessment delay mat karo.
+Stairs chadhne ke turant baad body ki metabolic demand aur sympathetic activity badh sakti hai, jisse BP temporarily high aa sakta hai. Agar patient clinically stable hai, toh nurse appropriate rest ke baad BP dobara measure karti hai. Suitable cuff size aur relaxed, supported heart-level arm use karna chahiye. Routine standardized measurement ke liye exercise ke baad lagbhag 30 minutes ka gap aur measurement se pehle kam se kam paanch minute quiet rest desirable hai. Nurse symptoms, previous trend aur clinical context bhi check karti hai. Agar severe reading ke saath concerning symptoms hain, toh resting preparation ke naam par urgent clinical assessment delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** transient effect aur technique validate karta hai, patient ko assess bhi karta hai.
-- **B:** single post-exercise reading chronic hypertension confirm nahi karti.
-- **C:** permanently ignore karne se true persistent high BP miss ho sakti hai.
-- **D:** smaller cuff further falsely elevated measurement cause kar sakta hai.
+- **A:** Appropriate rest aur correct technique se repeat measurement karne ke saath symptoms assess karna temporary activity effect aur persistent abnormality ko differentiate karne mein help karta hai. Isliye A sahi hai.
+- **B:** Ek post-exercise high reading se chronic hypertension confirm nahi hoti. Standardized repeat readings aur appropriate clinical confirmation chahiye.
+- **C:** Reading permanently ignore karne se actual persistent high BP miss ho sakta hai. Relevant follow-up assessment zaroori hai.
+- **D:** Deliberately chhota cuff use karne se BP aur falsely high aa sakta hai. Accurate repeat measurement ke liye correctly sized cuff chahiye.
 
-**Exam clue:** Rest, correct technique, repeat and interpret context.
+**Exam clue:** Stable patient mein rest, correct technique aur repeat reading use karo. Concerning symptoms hone par urgent assessment delay mat karo.
 
 [Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
 <!-- /job5-rationale -->
