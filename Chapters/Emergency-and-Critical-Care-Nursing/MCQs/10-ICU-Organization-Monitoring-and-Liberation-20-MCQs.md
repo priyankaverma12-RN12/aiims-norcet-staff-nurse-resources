@@ -342,27 +342,27 @@
 
 </details>
 
-### Q14. A physiotherapist proposes early mobilization of a ventilated adult who has a rapidly increasing vasopressor requirement. What is the nurse's best contribution?
+### Q14. During an interdisciplinary sedation review of a mechanically ventilated adult, the ICU team identifies light sedation and reduction of delirium as its highest priorities. According to the 2025 SCCM PADIS focused update, which medication choice should the nurse expect the team to consider, subject to individual contraindications and monitoring?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
 
-- **A.** Proceed with unsupported standing because all ICU patients must mobilize daily
-- **B.** Remove monitoring devices so movement is easier
-- **C.** Review mobility safety criteria with the team and defer progression until clinically appropriate
-- **D.** Exclude the patient permanently from all rehabilitation
+- **A.** Prefer continuous midazolam solely because delirium prevention is the highest priority
+- **B.** Prefer propofol in every patient regardless of the specified sedation priorities
+- **C.** Consider dexmedetomidine over propofol under the stated priorities
+- **D.** Replace the prescribed sedation plan with routine antipsychotic treatment solely to maintain light sedation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Review mobility safety criteria with the team and defer progression until clinically appropriate**
+**Correct: C. Consider dexmedetomidine over propofol under the stated priorities**
 
-- **A.** Daily goal ka matlab unstable patient ko forcefully mobilize karna nahi hai. Safety criteria follow karo.
-- **B.** Monitoring hatane se instability detect karna mushkil ho sakta hai. Activity ke dauran appropriate support chahiye.
-- **C.** Early mobility beneficial ho sakti hai, lekin unstable hemodynamics mein readiness check essential hai. Team safe activity level decide karti hai.
-- **D.** Current instability temporary ho sakti hai. Recovery ke saath mobility eligibility reassess karte hain.
+- **A.** Midazolam ek benzodiazepine hai. Sirf delirium prevention ke goal ki wajah se continuous midazolam ko preferred sedative nahi maan sakte. Specific indications aur patient ki condition ke hisaab se team decision leti hai.
+- **B.** Propofol appropriate ICU sedative ho sakta hai, lekin har patient mein ise automatically prefer karna sahi nahi hai. Question mein light sedation aur delirium reduction ko highest priority bataya gaya hai, jiske liye 2025 recommendation alag preference suggest karti hai.
+- **C.** SCCM ki 2025 focused update mein mechanically ventilated adult ICU patients ke liye in specific priorities ke saath dexmedetomidine ko propofol ke upar consider karne ki conditional recommendation hai. Yeh universal mandate nahi hai. Nurse prescribed target, sedation score, heart rate, blood pressure aur drug tolerance monitor karegi, aur concern treating team ko report karegi.
+- **D.** Antipsychotic routine sedative replacement nahi hai. Delirium ki assessment, reversible causes aur patient-specific management zaroori hain. Nurse prescribed sedation plan ko independently replace nahi karegi.
 
-**Exam clue:** Early mobility beneficial ho sakti hai, lekin unstable hemodynamics mein readiness check essential hai.
+**Exam clue:** 2025 PADIS mein light sedation aur delirium reduction highest priorities hon toh dexmedetomidine over propofol ki conditional preference yaad rakho. Individual safety assessment zaroori hai.
 
-**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles).
+**Reference:** [SCCM 2025 PADIS focused update](https://www.sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline). [SCCM ICU Liberation element C](https://www.sccm.org/clinical-resources/iculiberation-home/abcdef-bundles).
 
 **YouTube MCQ practice:** specific item verification pending.
 
