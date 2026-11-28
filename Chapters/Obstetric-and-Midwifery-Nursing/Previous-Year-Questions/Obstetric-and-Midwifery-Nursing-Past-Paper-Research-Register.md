@@ -61,3 +61,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Amniotic fluid — 28 November 2026
 
 [Two RRB 6 June 2018 and GMCH 28 August 2022 reported adaptations](05C-Amniotic-Fluid-Reported-Evidence.md). Third-party pages retrieved, official paper/key unverified. Historical two-liter convention distinguished from SMFM ultrasound criteria. Current obstetric reported total: 16; exact video playback pending.
+
+## Umbilical cord — 28 November 2026
+
+[Two RRB 20 July 2019 Shift II and 21 July 2019 Shift I reported adaptations](05D-Umbilical-Cord-Reported-Evidence.md). Related vessel-count items not double counted. Current obstetric reported total: 18. HPRCA/HPSSC official item matching pending. Aarogyam Part 27 indexed 28:55 SUA topic lead provisional only; no actual playback or exact item verification.
