@@ -149,32 +149,32 @@
 
 </details>
 
-### Q6. A patient eats dinner at 10 pm and lies down at 10:30 pm. Which change most directly targets meal-related nocturnal reflux?
+### Q6. A patient with GERD symptoms smokes daily and asks whether stopping tobacco is relevant to reflux management.
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** Original NORCET/AIIMS/PGIMER-style practice
 
-- **A.** Finish dinner at least two to three hours before lying down
-- **B.** Move the same large dinner to immediately before sleep
-- **C.** Replace dinner with a large drink just before bed
-- **D.** Skip breakfast so that dinner can be larger
+- **A.** Offer smoking cessation support as part of the reflux management plan
+- **B.** Recommend tobacco use after meals to strengthen the reflux barrier
+- **C.** State that tobacco has no possible relationship to reflux symptoms
+- **D.** Replace all prescribed reflux treatment with smoking cessation alone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Finish dinner at least two to three hours before lying down**
+**Correct answer: A. Offer smoking cessation support as part of the reflux management plan**
 
-**A kyun sahi hai:** Meal ke turant baad stomach mein food aur fluid ka volume zyada hota hai. Sone se pehle gap rakhne se post-meal reflux ka chance kam ho sakta hai.
+**A kyun sahi hai:** ACG guideline GERD symptoms mein tobacco avoidance suggest karti hai. Cessation support individualized treatment ka part ho sakta hai.
 
-**B kyun galat hai:** Is change se patient aur jaldi full stomach ke saath let jaayega. Reflux trigger ko address karne ke bajay ye usse continue karta hai.
+**B kyun galat hai:** Smoking reflux barrier strengthen karne ka established intervention nahi hai.
 
-**C kyun galat hai:** Badi fluid quantity bhi stomach distension kar sakti hai. Lying-down timing ka problem is change se solve nahi hota.
+**C kyun galat hai:** Tobacco symptoms ko influence kar sakta hai, isliye categorical denial appropriate nahi hai.
 
-**D kyun galat hai:** Breakfast skip karne se nighttime reflux ka direct benefit nahi milta. Large late dinner symptoms ko worsen kar sakta hai.
+**D kyun galat hai:** Cessation useful hai lekin necessary prescribed treatment ka automatic substitute nahi hai.
 
-**Exam clue:** Meal aur lying-down time ke beech gap assess karo.
+**Exam clue:** Tobacco cessation ko overall GERD plan mein include karo.
 
-**Clinical reference:** [ACG GERD guideline 2022 (indexed recommendations)](https://doi.org/10.14309/AJG.0000000000001538). [Concepts](../Concepts/01-GERD-and-Reflux-Nursing.md).
+**Clinical reference:** [ACG GERD guideline](https://doi.org/10.14309/AJG.0000000000001538). [Concepts](../Concepts/01-GERD-and-Reflux-Nursing.md).
 
-**▶️ [GERD topic theory + MCQs — Utkarsh Nursing Classes](https://www.youtube.com/watch?v=uP3rBUb2G-E)** (description retrieved, exact question and playback not verified). Dedicated practice-only verification pending.
+**Video:** Topic-level GERD video link available in evidence register. Exact item mapping pending.
 
 </details>
 
@@ -207,32 +207,32 @@
 
 </details>
 
-### Q8. A patient has excluded several food groups after general GERD advice but reports symptoms reproducibly after one spicy meal. Which teaching is best?
+### Q8. A patient with nocturnal reflux already uses a bed wedge and asks which lateral sleeping position may reduce reflux compared with right-sided lying.
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** Original NORCET/AIIMS/PGIMER-style practice
 
-- **A.** Eliminate every commonly suspected food indefinitely
-- **B.** Avoid all fruits solely because some are acidic
-- **C.** Ignore meal patterns because only medication affects reflux
-- **D.** Use a symptom diary and avoid reproducible individual triggers
+- **A.** Right lateral position
+- **B.** Prone position with abdominal compression
+- **C.** Any position because lateral posture cannot affect reflux
+- **D.** Left lateral position
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Use a symptom diary and avoid reproducible individual triggers**
+**Correct answer: D. Left lateral position**
 
-**A kyun galat hai:** Unnecessary restriction diet ko less balanced bana sakti hai. Patient-specific evidence ke bina sab foods ko band karna useful counselling nahi hai.
+**A kyun galat hai:** Right-sided lying gastric contents ko gastroesophageal junction ke relation mein reflux ke liye favorable bana sakti hai.
 
-**B kyun galat hai:** Kisi particular fruit se symptom ho sakta hai, lekin poore food group ko exclude karna zaroori nahi hai. Actual symptom pattern observe karo.
+**B kyun galat hai:** Abdominal compression reflux management ka established positional intervention nahi hai.
 
-**C kyun galat hai:** Food timing aur meal volume kuch patients ke symptoms influence karte hain. Lifestyle advice prescribed medicines ke saath useful ho sakti hai.
+**C kyun galat hai:** Lateral position se reflux exposure differ kar sakta hai, isliye posture irrelevant nahi hai.
 
-**D kyun sahi hai:** Har patient ke food triggers same nahi hote. Diary se actual relation identify karke unnecessary food restriction aur nutrition compromise avoid kar sakte hain.
+**D kyun sahi hai:** Left lateral position right-sided lying ke comparison mein nocturnal acid reflux kam kar sakti hai. Patient comfort aur other clinical restrictions assess karo.
 
-**Exam clue:** Universal food bans ki jagah individual symptom triggers evaluate karo.
+**Exam clue:** Head elevation aur lateral position distinct interventions hain.
 
-**Clinical reference:** [NIDDK treatment](https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/treatment). [Concepts](../Concepts/01-GERD-and-Reflux-Nursing.md).
+**Clinical reference:** [ACG GERD guideline](https://doi.org/10.14309/AJG.0000000000001538). [Concepts](../Concepts/01-GERD-and-Reflux-Nursing.md).
 
-**▶️ [GERD topic theory + MCQs — Utkarsh Nursing Classes](https://www.youtube.com/watch?v=uP3rBUb2G-E)** (description retrieved, exact question and playback not verified). Dedicated practice-only verification pending.
+**Video:** Topic-level GERD video link available in evidence register. Exact item mapping pending.
 
 </details>
 
