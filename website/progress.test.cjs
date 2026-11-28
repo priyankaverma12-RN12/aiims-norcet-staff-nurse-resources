@@ -31,3 +31,9 @@ assert.equal(mockCountText(mockSummary(data,[])),'0 mock tests · 0 questions');
 assert.deepEqual(progressTagInfo({done:false,checked:1}),['In progress','active']);
 assert.deepEqual(progressTagInfo({done:true}),['✓ Completed','done']);
 console.log('Published mock test counts, separate draft counts, zero state and personal study labels passed.');
+
+const {theoryRecords,theoryCountText}=require('./progress.js');
+const theoryData={...data,resources:{...data.resources,'Chapters/X/Concepts/README.md':{type:'Resource index'},'Chapters/X/Concepts/Research-Audit.md':{type:'Research and evidence notes'},'Chapters/X/Concepts/Draft.md':{type:'Theory',draft:true},'Chapters/Y/Concepts/Topic.md':{type:'Theory',title:'Y'}}};
+assert.equal(theoryRecords(theoryData).length,2);assert.equal(theoryRecords(theoryData,'Chapters/X/README.md').length,1);assert.equal(theoryRecords(theoryData,'Chapters/X/Concepts/').length,1);assert.equal(theoryRecords(theoryData,t).length,1);assert.equal(theoryRecords(theoryData,'Chapters/X/MCQs/').length,0);
+assert.equal(theoryCountText(1),'1 theory topic');assert.equal(theoryCountText(0),'0 theory topics');assert.equal(inventoryLabelParts('Chapters/X/Concepts/',theoryData)[0].text,'1 theory topic');
+console.log('Theory topic totals exclude drafts, indexes and research notes, and match chapter/folder scope.');

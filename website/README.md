@@ -76,3 +76,11 @@ Every completed learning session displays score, percentage, correct and incorre
 ### V10.4 — daily 50-MCQ goal
 
 The daily goal is fixed at 50 MCQs, replacing the old selector. Existing browser activity, marks and revision history survive the change; legacy goals normalize to 50 on read/save. The actual daily total continues beyond 50 and is shown separately from the goal bar. Motivational feedback and 10/25/40/50 milestones reflect actual study activity; weekly totals use the same counts. Daily totals combine checked questions and additional manually marked questions without counting the same bank twice in a day. Repeated questions in different banks may still overlap. No score or clinical content changes.
+
+### V10.5 — theory topic counts
+
+Library and home show theory totals and completed counts. Theory shortcuts, directory cards, reader tabs, chapter summaries, Metrics and Progress use the same published Theory document classification. One eligible theory document equals one topic, not a count of headings. Drafts, indexes and research notes are excluded; embedded MCQs retain their separate question count. Metrics adds a Theory filter and cards without duplicating documents already listed for embedded questions in the default view. Tests verify counts, exact destinations and live completion changes. Existing question and progress data stay compatible.
+
+### V11 — coordinated page-wise usability polish
+
+Nine review areas: home/daily study, Library, chapter navigation, theory reader, MCQ practice, timed results, Metrics, Progress and mobile/accessibility. The release adds active navigation, clearable filters, real home MCQ/mock totals, saved-question search, counts on all available reader tabs, topic-list summaries, adjustable reader text, reversible focus mode, a study-mode guide, direct timed-result mistake practice, and on-demand Metrics cards. Existing study material, progress storage, keys, source explanations and test scoring are unchanged. Animations are short and disabled by reduced-motion preference. The public browser regression covers active navigation, lazy metrics, filters, reading preferences and focus mode on desktop and mobile. No claim of independent manual review of every clinical document.

@@ -45,3 +45,23 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Maternal musculoskeletal and skin evidence — 28 November 2026
 
 [AIIMS Raipur Nursing Officer 31 August 2019 Shift II reported pigmentation mechanism adaptation](03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md). Two third-party recall listings located; official paper and key not authenticated. Distinct mechanism task from the older HPSSC linea nigra identification. Ten reported adaptations now indexed in Obstetrics. No adequately attributed new musculoskeletal recruitment item established; HPRCA question-level verification and dedicated MCQ playback remain pending. All 38 new originals retain item-specific video gaps.
+
+## Embryonic and fetal development evidence — 28 November 2026
+
+[Two reported adaptations, DSSSB 29 August 2019 Shift 3 morula and ESIC 19 March 2016 Shift I fetal urine onset](04-Embryonic-and-Fetal-Development-Reported-Evidence.md). Third-party pages retrieved, official booklets and keys pending. GMCH 2019 cardiac timing report retrieved but ambiguous clock, not counted. AIIMS Bhopal and UP NHM leads reserved, HPRCA official final-key notice indexed but direct fetch failed. Current Obstetrics total 12 reported adaptations. Seven embryonic provisional topic links, 33 specific item coverage gaps and 40 exact playback gaps.
+
+## Placental structure and function — 28 November 2026
+
+[UPPSC 10 April 2022 reported adaptation and related leads](05A-Placenta-Reported-Exam-Evidence.md). One new reported adaptation, no authenticated official paper/key. Related NVS, UPRVUNL, Kerala PSC and RRB leads not double counted. Dedicated teaching and MCQ video descriptions indexed; playback and question-level coverage pending. Current obstetric reported total: 13.
+
+## Fetal membranes — 28 November 2026
+
+[One BHU 22 October 2019 reported adaptation, official-domain MP ESB extraction defect and related leads](05B-Fetal-Membranes-Reported-Evidence.md). Current obstetric reported total: 14. No official item/key authentication or exact video playback claimed.
+
+## Amniotic fluid — 28 November 2026
+
+[Two RRB 6 June 2018 and GMCH 28 August 2022 reported adaptations](05C-Amniotic-Fluid-Reported-Evidence.md). Third-party pages retrieved, official paper/key unverified. Historical two-liter convention distinguished from SMFM ultrasound criteria. Current obstetric reported total: 16; exact video playback pending.
+
+## Umbilical cord — 28 November 2026
+
+[Two RRB 20 July 2019 Shift II and 21 July 2019 Shift I reported adaptations](05D-Umbilical-Cord-Reported-Evidence.md). Related vessel-count items not double counted. Current obstetric reported total: 18. HPRCA/HPSSC official item matching pending. Aarogyam Part 27 indexed 28:55 SUA topic lead provisional only; no actual playback or exact item verification.

@@ -38,7 +38,9 @@ try:
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
         expect(cards).to_have_count(1)
-        page.locator("#search").fill("")
+        page.locator("#clear-library").click()
+        expect(cards).to_have_count(count)
+        expect(page.locator("#clear-library")).not_to_be_visible()
         page.locator("#group-filter").select_option(index=1)
         assert 0 < cards.count() < count
         page.locator("#group-filter").select_option("")
@@ -60,11 +62,11 @@ try:
             ready(page)
         print(f"All {count} chapter pages loaded in Chromium", flush=True)
         page.goto(base+"?metrics=1&chapter=Nursing-Foundations")
-        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(5,timeout=30000)
+        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator(".metric-record").first).to_be_visible()
         # Expanded chapter entries are whole-card links, not inline text links.
-        records=page.locator(".metric-records a.metric-record")
+        records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
         expect(records.first).to_be_visible()
         metrics=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
         chapter=next(c for c in metrics["chapters"] if c["id"]=="Nursing-Foundations")
@@ -80,7 +82,7 @@ try:
         expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"),timeout=30000)
         assert parse_qs(urlsplit(page.url).query)["doc"]==parse_qs(urlsplit(target_href).query)["doc"]
         page.go_back()
-        expect(page.locator(".metric-records a.metric-record").first).to_be_visible(timeout=30000)
+        expect(page.locator(".metric-records a.metric-record:not([data-category=theory])").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")
@@ -253,7 +255,8 @@ try:
         page.goto(base + "?" + urlencode({"doc": flow}))
         ready(page)
         expect(page.locator("#breadcrumbs [aria-current=page]")).to_contain_text("Nursing process")
-        expect(page.locator("#sections [aria-current=page]")).to_have_text("Theory")
+        expect(page.locator("#sections [aria-current=page]")).to_contain_text("Theory")
+        expect(page.locator("#sections [aria-current=page] [data-role=theory-count]")).to_be_visible()
         expect(page.locator("#breadcrumbs a").first).to_have_text("Library")
         expect(page.locator("#reading-chapter")).to_contain_text("Nursing Foundations")
         expect(page.locator("#sibling-nav")).to_be_visible()
@@ -300,7 +303,8 @@ try:
         page.goto(base + "?" + urlencode({"doc":"Chapters/Nursing-Foundations/Concepts/"}))
         ready(page)
         expect(page.locator(".file-card").first).to_be_visible()
-        expect(page.locator("#sections [aria-current=page]")).to_have_text("Theory")
+        expect(page.locator("#sections [aria-current=page]")).to_contain_text("Theory")
+        expect(page.locator("#sections [aria-current=page] [data-role=theory-count]")).to_be_visible()
         page.unroute("https://api.github.com/repos/**/contents/**")
         print("Breadcrumb, active section, real Mermaid flowchart and image fallback passed.", flush=True)
         desktop.close()
@@ -323,7 +327,7 @@ try:
             ready(mobile)
             no_overflow(mobile)
             expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
-            expect(mobile.locator("#sections [aria-current=page]")).to_have_text("MCQs")
+            expect(mobile.locator("#sections [aria-current=page]")).to_contain_text("MCQs")
             if width<=600:
                 expect(mobile.locator(".outline-card")).not_to_have_attribute("open","")
                 mobile.locator(".outline-card summary").tap()
