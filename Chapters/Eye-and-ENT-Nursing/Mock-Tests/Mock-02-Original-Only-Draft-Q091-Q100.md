@@ -17,10 +17,10 @@
 
 **Correct answer: B. It can arise from developmental tissue trapped near the bones of the orbit**
 
-- **A. Kyun galat hai:** Dermoid generally benign developmental lesion hota hai. Clinical assessment ke bina har lump ko malignant label nahi karna chahiye.
-- **B. Kyun sahi hai:** Development ke dauran skin jaise tissues orbital bones ke junction ke paas trap ho sakte hain. Inse dheere grow hone wala cyst ban sakta hai. Pediatric ophthalmologist location aur extension assess karke management decide karega.
-- **C. Kyun galat hai:** Abscess mein pain, warmth, redness aur infection ke signs ho sakte hain. Painless slow growth aur normal skin typical dermoid history se compatible hain.
-- **D. Kyun galat hai:** Retina light signals receive karti hai. Eyebrow ke paas developmental cyst retinal light deprivation ka result nahi hota.
+- **A. Kyun galat hai:** Dermoid cyst generally noncancerous developmental lesion hota hai. Sirf eyebrow ke paas lump milne se cancer diagnose nahi hota. Clinician examination aur zaroorat ke hisaab se imaging ya pathology se diagnosis confirm karega.
+- **B. Kyun sahi hai:** Jab baby womb mein develop hota hai, toh skin jaise tissue orbital bones ke junction ke paas trap ho sakte hain. Ye tissue dheere-dheere cyst bana sakta hai. Isliye outer eyebrow ke paas painless lump orbital dermoid ke saath compatible hai. Pediatric ophthalmologist cyst ki location aur depth assess karke management decide karega.
+- **C. Kyun galat hai:** Bacterial abscess mein pus jama hota hai aur aksar pain, warmth, redness ya infection ke doosre signs milte hain. Is child ka slow painless growth aur normal skin developmental cyst ke favour mein hai. Phir bhi final diagnosis examination se hi hoga.
+- **D. Kyun galat hai:** Retina aankh ke peeche light detect karke visual signals banati hai. Eyebrow ke paas dermoid ka relation developmental tissue se hai, retina ko light milne ya na milne se nahi.
 
 **Exam clue:** Developmental cyst aur acute infectious swelling ka history pattern alag hota hai.
 
@@ -43,10 +43,10 @@
 
 **Correct answer: C. MRI can help define deeper extension and guide the operative plan**
 
-- **A. Kyun galat hai:** Spectacle power refraction se assess hoti hai. MRI orbital soft tissue aur lesion extension evaluate karne ke liye use ho sakti hai.
-- **B. Kyun galat hai:** Visible external part se deeper extension ka exact extent pata nahi chalta. Kuch dermoids bone ke around ya deeper orbit tak extend kar sakte hain.
-- **C. Kyun sahi hai:** MRI surgeon ko lesion ki size, depth aur nearby structures ke relationship ke baare mein information de sakti hai. Is information se safe surgical approach plan karne mein help milti hai. Har superficial dermoid mein MRI mandatory nahi hoti.
-- **D. Kyun galat hai:** Imaging se lesion extent assess hota hai. Bacterial organism confirm karna iska primary purpose nahi hai.
+- **A. Kyun galat hai:** Spectacle power refraction se measure hoti hai. MRI se orbit ke andar soft tissues aur lesion ke aas-paas ki anatomy dekhi ja sakti hai. Isliye yahan MRI ka purpose surgery plan karna hai, glasses ki power calculate karna nahi.
+- **B. Kyun galat hai:** Bahar se lump ka size dekhkar uski poori depth nahi pata chalti. Kuch dermoids bone ke through ya deeper orbit ki taraf extend kar sakte hain. Isliye suspected deep cyst mein external appearance alone kaafi nahi hai.
+- **C. Kyun sahi hai:** MRI surgeon ko cyst ki depth, extent aur paas ke structures ka relation samajhne mein help kar sakti hai. Is information se surgical approach plan hota hai. Har superficial dermoid mein MRI necessary nahi hoti. Is child mein deep extension ka concern hai, isliye imaging ka specific purpose hai.
+- **D. Kyun galat hai:** MRI structural information deti hai, lekin cyst mein bacteria hain ya nahi, iska definitive proof imaging se nahi milta. Infection ka suspicion ho toh clinician examination aur appropriate laboratory tests decide karega.
 
 **Exam clue:** Visible lump ka size poore orbital lesion ki depth establish nahi karta.
 
@@ -69,10 +69,10 @@
 
 **Correct answer: A. A limbal dermoid can distort corneal curvature and induce astigmatism**
 
-- **A. Kyun sahi hai:** Limbus cornea aur sclera ka junction hai. Is area mein dermoid cornea ki curvature distort kar sakta hai. Astigmatism mein focusing uneven ho sakti hai aur developing child mein amblyopia ka risk ho sakta hai. Refraction aur visual assessment isliye important hain, even if central pupil visible hai.
-- **B. Kyun galat hai:** Limbal lesion anterior eye surface par hota hai. Ye automatically optic nerve ko completely block nahi karta.
-- **C. Kyun galat hai:** Retinal detachment har dermoid ka inevitable complication nahi hai. Is scenario ka specific concern optical distortion hai.
-- **D. Kyun galat hai:** Photograph external appearance document kar sakti hai. Accurate refractive error ke liye appropriate clinical refraction chahiye.
+- **A. Kyun sahi hai:** Limbus woh junction hai jahan clear cornea white sclera se milti hai. Limbal dermoid cornea ki curve ko uneven bana sakta hai. Isse astigmatism hota hai aur retinal image blurred reh sakti hai. Developing child mein brain blurred eye ki information ignore karna seekh sakta hai, jise amblyopia kehte hain. Central pupil clear hone par bhi refraction aur amblyopia assessment important hain.
+- **B. Kyun galat hai:** Limbal dermoid aankh ki anterior surface par hota hai. Optic nerve aankh ke peeche visual signals brain tak le jaati hai. Surface lesion milne ka matlab ye nahi hai ki optic nerve completely blocked hai.
+- **C. Kyun galat hai:** Retinal detachment mein retina apni supporting layer se separate hoti hai. Har limbal dermoid mein ye complication nahi hoti. Is question mein primary concern corneal curvature aur visual development par uska effect hai.
+- **D. Kyun galat hai:** Photograph se external appearance record ho sakti hai, lekin usse exact focusing error measure nahi hota. Child ki refraction appropriate clinical tests se karni chahiye, taaki astigmatism aur amblyopia ka risk assess ho.
 
 **Exam clue:** Visual axis clear dikhne par bhi corneal shape-related blur possible hai.
 
@@ -95,17 +95,17 @@
 
 **Correct answer: C. Abnormal development of the supporting zonular structures can alter the lens contour**
 
-- **A. Kyun galat hai:** Conjunctival infection eye surface ko affect karti hai. Congenital lens contour defect ko routine conjunctivitis se explain nahi karna chahiye.
+- **A. Kyun galat hai:** Conjunctivitis mein aankh ki surface lining inflamed hoti hai. Ye congenital lens notch ka usual mechanism nahi hai. Lens coloboma developmental support abnormality se related ho sakta hai.
 
-- **B. Kyun galat hai:** Iris ka pigment lens ki shape determine nahi karta. Lens ko support karne wale structures optical shape mein important role play karte hain.
+- **B. Kyun galat hai:** Iris ka colour pigment se decide hota hai, jabki lens ki contour ko uske supporting fibres ki tension influence karti hai. Isliye iris ka colour lens notch explain nahi karta.
 
-- **C. Kyun sahi hai:** Zonules chhote supporting fibres hain jo lens ko ciliary body se connect karte hain. Inke incomplete development se lens ka particular part normal tension receive nahi kar pata aur lens contour unusual ho sakta hai. Refraction aur amblyopia assessment important hain, kyunki abnormal shape focusing ko affect kar sakti hai.
+- **C. Kyun sahi hai:** Zonules chhote fibres hain jo lens ko ciliary body se support karte hain. Agar kisi area mein zonules develop nahi hote, toh lens edge par normal pulling force kam ho sakti hai aur contour flat ya notched dikh sakta hai. Ye zaroori nahi hai ki lens ka piece missing ho. Abnormal shape focusing ko affect kar sakti hai, isliye refraction aur amblyopia assessment karwana important hai.
 
-- **D. Kyun galat hai:** Tears ocular surface par hoti hain. Ye normally eye ke andar lens ko dissolve nahi karti. Developmental structural abnormality ka mechanism alag hai.
+- **D. Kyun galat hai:** Tears aankh ki outer surface ko moist rakhti hain. Woh normal condition mein eye ke andar crystalline lens ko dissolve nahi karti. Lens coloboma ka mechanism developmental anatomy se related hai.
 
 **Exam clue:** Lens coloboma ka contour supporting structures ki abnormal development se related ho sakta hai.
 
-**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma).
+**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma). · [EyeWiki: Coloboma](https://eyewiki.aao.org/Coloboma)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -124,14 +124,14 @@
 
 **Correct answer: B. Arrange coordinated pediatric, ophthalmic, hearing and genetics assessment**
 
-- **A. Kyun galat hai:** Spectacle fitting vision care ka ek part ho sakta hai. Combined developmental findings mein systemic assessment bhi important hai.
-- **B. Kyun sahi hai:** Coloboma isolated ho sakta hai, lekin CHARGE jaise syndromic conditions ke saath ear aur other developmental abnormalities bhi ho sakti hain. Failed hearing screen aur feeding concerns ko pediatric team ke saath communicate karo. Genetics assessment possible association clarify kar sakta hai, bina diagnosis assume kiye.
-- **C. Kyun galat hai:** Multiple congenital findings ko automatically unrelated maan lene se associated disease miss ho sakti hai. Coordinated evaluation appropriate hai.
-- **D. Kyun galat hai:** Failed hearing screen se ocular defect acquired prove nahi hota. Congenital onset aur combined findings ko separately document karo.
+- **A. Kyun galat hai:** Spectacle fitting visual focusing problem mein help kar sakti hai. Lekin infant ko feeding difficulty aur failed hearing screen bhi hai, isliye sirf glasses ki appointment se poori clinical need address nahi hogi.
+- **B. Kyun sahi hai:** Coloboma isolated bhi ho sakta hai aur CHARGE jaise genetic developmental disorder ka part bhi ho sakta hai. CHD7-related disorder mein hearing aur swallowing problems bhi mil sakti hain. Nurse feeding safety, hearing screen result aur eye findings pediatric team ko communicate karegi. Coordinated eye, hearing aur genetics assessment se cause aur care needs clarify ho sakti hain. Feeding ke waqt choking ya breathing problem ho toh prompt assessment chahiye. In findings se CHARGE ka final diagnosis assume nahi karna chahiye.
+- **C. Kyun galat hai:** Multiple congenital findings ko bina evaluation unrelated maan lene se associated developmental problem miss ho sakti hai. Coordinated assessment se pata chal sakta hai ki findings linked hain ya alag causes se hain.
+- **D. Kyun galat hai:** Failed newborn hearing screen se hearing problem ka suspicion hota hai, lekin isse congenital eye defect acquired prove nahi hota. Dono findings ki timing aur clinical assessment alag se document karni chahiye.
 
 **Exam clue:** Multiple congenital findings mein integrated developmental evaluation zaroori hai.
 
-**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma).
+**Clinical reference:** [Clinical guidance](https://www.aapos.org/glossary/coloboma). · [GeneReviews: CHD7 disorder](https://www.ncbi.nlm.nih.gov/books/NBK1117/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -150,13 +150,13 @@
 
 **Correct answer: A. The abnormal iris opening can permit additional light to enter the eye**
 
-- **A. Kyun sahi hai:** Iris pupil opening ko regulate karke eye mein light entry control karti hai. Iris coloboma mein iris ka portion incomplete hota hai, jisse effective opening irregular ya larger ho sakti hai. Extra light entry ki wajah se glare possible hai, even when acuity relatively good ho. Specialist appropriate light-control aids discuss kar sakta hai.
+- **A. Kyun sahi hai:** Iris aankh ka coloured part hai jo pupil ki opening regulate karta hai. Iris coloboma mein iris ka kuch hissa properly develop nahi hota, isliye effective opening irregular ya larger ho sakti hai. Bright sunlight mein additional light enter karne se glare ho sakta hai, bhale hi chart par acuity achhi ho. Specialist sunglasses ya other suitable light-control options discuss kar sakta hai.
 
-- **B. Kyun galat hai:** Glare retinal circulation loss ka proof nahi hai. Is stem mein isolated iris defect aur normal posterior examination ka context important hai.
+- **B. Kyun galat hai:** Glare ka hona retinal blood supply band hone ka proof nahi hai. Is child mein posterior examination aur isolated iris defect ka context light entry mechanism ko support karta hai.
 
-- **C. Kyun galat hai:** Good measured visual acuity complete optic nerve absence se compatible nahi hai. Iris aur optic nerve alag structures hain.
+- **C. Kyun galat hai:** Optic nerve visual signals brain tak pahunchati hai. Agar woh completely absent ho, toh affected eye ki relatively good measured acuity expected nahi hogi. Iris defect ka matlab optic nerve absence nahi hota.
 
-- **D. Kyun galat hai:** Glare alone retinal detachment establish nahi karta. Posterior examination aur new warning symptoms ke basis par further assessment decide hota hai.
+- **D. Kyun galat hai:** Retinal detachment ek serious retinal disorder hai, lekin glare alone uska diagnosis establish nahi karta. Is case mein iris opening ki abnormality symptom explain kar sakti hai. New flashes, floaters ya sudden vision change ho toh urgent eye assessment chahiye.
 
 **Exam clue:** Iris light entry regulate karti hai. Glare aur measured acuity alag functional outcomes ho sakte hain.
 
@@ -179,10 +179,10 @@
 
 **Correct answer: A. Ocular oncology assessment of the changing pigmented lesion**
 
-- **A. Kyun sahi hai:** Choroidal nevus pigment cells se bana benign lesion ho sakta hai. Serial growth ya suspicious features melanoma concern raise karte hain. Ocular oncologist specialist assessment se diagnosis aur treatment need determine karega. Growth alone final malignancy diagnosis nahi hai.
-- **B. Kyun galat hai:** Contact lens fitting corneal optical correction ke liye hoti hai. Choroidal lesion growth ka appropriate evaluation ocular specialist karega.
-- **C. Kyun galat hai:** Most nevi benign rehte hain, lekin kuch lesions malignant transformation ya other complications develop kar sakte hain. Documented change ignore nahi karna chahiye.
-- **D. Kyun galat hai:** Choroidal nevus eye ke andar tissue lesion hai. External artificial eye remove karna is condition ka relevant management nahi hai.
+- **A. Kyun sahi hai:** Choroid retina ke neeche ki vascular tissue layer hai. Usmein pigment cells ka benign collection choroidal nevus ho sakta hai. Agar serial imaging mein lesion grow ho raha hai aur suspicious changes mil rahe hain, toh melanoma ki possibility assess karni chahiye. Nurse imaging records aur change ki information ocular oncology team tak pahunchayegi. Final diagnosis specialist karega.
+- **B. Kyun galat hai:** Contact lens fitting corneal optics ko improve karne ke liye hoti hai. Eye ke andar choroidal lesion ki increasing thickness ka evaluation isse nahi hoga. Retinal specialist ko changes inform karna zaroori hai.
+- **C. Kyun galat hai:** Bahut se choroidal nevi benign rehte hain, lekin kuch mein malignant change ho sakta hai. Documented growth aur suspicious features ke baad automatic reassurance safe nahi hai. Timely specialist review se appropriate risk assessment hoti hai.
+- **D. Kyun galat hai:** Ocular prosthesis artificial eye ya cosmetic device ho sakti hai. Choroidal nevus natural eye ke andar choroid mein hota hai. External prosthesis removal is lesion ke assessment ya management ka substitute nahi hai.
 
 **Exam clue:** Serial change in lesion thickness ko specialist review ke liye communicate karo.
 
@@ -205,10 +205,10 @@
 
 **Correct answer: B. The fluid can arise from a treatable vascular complication and requires specialist characterization**
 
-- **A. Kyun galat hai:** Subretinal fluid suspicious feature ho sakta hai, lekin har case mein melanoma establish nahi karta. Lesion growth aur other imaging findings ko together interpret karna chahiye.
-- **B. Kyun sahi hai:** Neovascularization mein abnormal new blood vessels develop hoti hain, jo fluid ya blood leak kar sakti hain. Choroidal nevus ke saath ye complication possible hai. Specialist lesion aur vessels evaluate karke appropriate treatment decide karega.
-- **C. Kyun galat hai:** Conjunctivitis eye surface ki inflammation hai. OCT par retina ke neeche fluid uska typical finding nahi hai.
-- **D. Kyun galat hai:** Eyelid cleaning surface hygiene mein help karti hai, retina ke neeche ka fluid remove nahi karti.
+- **A. Kyun galat hai:** Retina ke neeche fluid suspicious feature ho sakta hai, lekin har case mein cancer prove nahi karta. Fluid retinal pigment epithelium ki dysfunction ya abnormal vessels se bhi aa sakta hai. Specialist ko lesion ke size, growth aur imaging features saath mein assess karne chahiye.
+- **B. Kyun sahi hai:** Choroidal neovascularization mein abnormal blood vessels develop ho sakti hain jo fluid ya blood leak karti hain. Nevus ke paas bhi ye complication ho sakti hai aur central vision blur kar sakti hai. Retinal specialist imaging se vascular complication aur lesion ko characterize karega aur indicated treatment decide karega. Is finding ko na ignore karna chahiye aur na automatic melanoma assume karna chahiye.
+- **C. Kyun galat hai:** Conjunctivitis eye ki surface lining ki inflammation hai, jisme redness aur discharge ho sakte hain. OCT par retina ke neeche fluid eye ke posterior segment ki finding hai. Dono anatomical sites alag hain.
+- **D. Kyun galat hai:** Eyelid cleansing se external lid hygiene improve ho sakti hai. Ye retina ke neeche jama fluid ko remove nahi karti. Is condition mein specialist retinal assessment chahiye.
 
 **Exam clue:** Subretinal fluid ko automatic melanoma diagnosis mat samjho.
 
@@ -231,14 +231,14 @@
 
 **Correct answer: C. A female carrier may have no clinical retinal findings, so genetic counselling and appropriate testing are useful**
 
-- **A. Kyun galat hai:** X-linked condition mein female carrier clinically unaffected ho sakti hai. Normal vision carrier status exclude nahi karta.
-- **B. Kyun galat hai:** Father ka eye examination useful family information de sakta hai, lekin mother's genetic status directly establish nahi karta.
-- **C. Kyun sahi hai:** RS1 gene-related retinoschisis males ko commonly affect karti hai. Female carriers mein typical retinal signs absent ho sakte hain. Genetic counselling aur indicated testing inheritance risk ko clarify karne mein help karte hain. Individual family result assume nahi karna chahiye.
-- **D. Kyun galat hai:** Carrier hona aur severe manifest disease hona same baat nahi hai. Female carriers frequently asymptomatic hoti hain.
+- **A. Kyun galat hai:** X-linked retinoschisis mein female carrier ke paas gene ki altered copy ho sakti hai, bhale hi uski visual acuity normal ho. Isliye normal eye examination carrier status ko reliably exclude nahi karta.
+- **B. Kyun galat hai:** Father ka retinal examination family history samajhne mein help kar sakta hai. Lekin mother ki genetic status uske apne genetic evaluation se clarify hoti hai. Father ki normal ya abnormal vision se mother ka result directly decide nahi hota.
+- **C. Kyun sahi hai:** RS1 gene-related X-linked retinoschisis commonly boys ko affect karti hai. Female carriers mein usually obvious retinal signs ya visual symptoms nahi hote, although rare symptomatic cases possible hain. Genetic counselling aur family mein known pathogenic variant ke liye suitable testing inheritance risk samajhne mein help kar sakti hai. Mother ka actual result assume nahi karna chahiye.
+- **D. Kyun galat hai:** Carrier status aur severe clinical disease ek hi baat nahi hain. Female carriers often asymptomatic hoti hain, isliye har carrier ko childhood severe visual loss hona zaroori nahi hai.
 
 **Exam clue:** Unaffected appearance carrier status exclude nahi karti.
 
-**Clinical reference:** [Clinical guidance](https://www.asrs.org/patients/retinal-diseases/14/flashes-and-floaters).
+**Clinical reference:** [Clinical guidance](https://www.asrs.org/patients/retinal-diseases/14/flashes-and-floaters). · [GeneReviews: X-linked congenital retinoschisis](https://www.ncbi.nlm.nih.gov/sites/books/NBK1222/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -257,14 +257,14 @@
 
 **Correct answer: D. Retinoschisis involves splitting within retinal layers, whereas retinal detachment involves separation of neurosensory retina from underlying support tissue**
 
-- **A. Kyun galat hai:** Lens opacity cataract hoti hai. Retinoschisis aur retinal detachment retina ke structural disorders hain.
-- **B. Kyun galat hai:** Conjunctiva ocular surface ki covering hai. Retinoschisis retina ki layers ke andar splitting ko refer karta hai.
-- **C. Kyun galat hai:** Retinal detachment eyelid infection nahi hai. Isme light-sensitive retinal tissue apni normal underlying support se separate hota hai.
-- **D. Kyun sahi hai:** Schisis ka matlab splitting hai. OCT retinal layers ka cross-sectional view de sakta hai. Retinoschisis aur retinal detachment mein separation ka anatomical level different ho sakta hai, isliye specialist diagnosis treatment plan ke liye important hai.
+- **A. Kyun galat hai:** Lens opacity ko cataract kehte hain. Retinoschisis aur retinal detachment dono retina ki structure se related conditions hain. Lens cloudy hone se in dono ka anatomical difference explain nahi hota.
+- **B. Kyun galat hai:** Conjunctiva eye ki outer surface lining hai. Retinoschisis mein retina ke andar layers split hoti hain. Ye conjunctival tear nahi hai.
+- **C. Kyun galat hai:** Eyelid infection outer eye tissues ko affect karti hai. Retinal detachment mein light-sensitive neurosensory retina retinal pigment epithelium se separate ho jaati hai. Ye posterior segment ki condition hai.
+- **D. Kyun sahi hai:** Schisis ka matlab splitting hai. Degenerative retinoschisis mein retinal layers ke andar separation hoti hai, jabki retinal detachment mein neurosensory retina neeche ki retinal pigment epithelium layer se alag hoti hai. OCT retina ka cross-sectional image de sakta hai aur specialist ko separation ka level identify karne mein help karta hai. Dono conditions kabhi coexist bhi kar sakti hain, isliye clinical examination important hai.
 
 **Exam clue:** Retina ke andar splitting aur retina ka underlying tissue se separation distinguish karo.
 
-**Clinical reference:** [Clinical guidance](https://www.asrs.org/patients/retinal-diseases/47/retinoschisis).
+**Clinical reference:** [Clinical guidance](https://www.asrs.org/patients/retinal-diseases/47/degenerative-peripheral-retinoschisis). · [EyeWiki: Senile retinoschisis](https://eyewiki.aao.org/Senile_Retinoschisis)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
