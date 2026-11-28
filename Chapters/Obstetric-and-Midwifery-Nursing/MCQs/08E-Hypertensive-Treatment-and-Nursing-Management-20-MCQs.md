@@ -159,32 +159,32 @@ D. Inhibition of platelet aggregation
 
 </details>
 
-### Q06. Before a repeat IV labetalol dose, the nurse records a pulse of 46/min with dizziness. What is the safest response?
+### Q06. A woman at 32 weeks still has severe hypertension after appropriately timed first-line emergency antihypertensive doses have failed, and the current emergency protocol's dosing limit has been reached. Which nursing action is most appropriate?
 
 **Difficulty:** Difficult · **Priority:** High · **Original practice**
 
-A. Give the repeat dose without reassessment
+A. Replace emergency treatment with routine oral maintenance therapy and wait for the next scheduled observation
 
-B. Hold the pending dose and urgently clarify with the prescriber
+B. Arrange immediate specialist consultation for second-line therapy while continuing close maternal and fetal monitoring
 
-C. Increase the dose to overcome the slow pulse
+C. Repeat IV labetalol beyond the protocol limit if the maternal pulse remains acceptable
 
-D. Ignore the pulse if fetal movement is present
+D. Use magnesium sulfate alone to control the persistent severe blood pressure
 
 <details>
 <summary>Show answer and explanation</summary>
 
 **Correct answer: B**
 
-- **A — Incorrect:** Labetalol heart rate ko aur kam kar sakta hai. Symptomatic bradycardia mein bina review repeat dena unsafe hai.
+- **A — Incorrect:** Routine maintenance medicine ka role BP ko lambe samay tak control mein rakhna hai. Jab emergency treatment ke baad bhi BP severe range mein hai, toh routine round ka wait karne se stroke aur doosri complications ka risk badh sakta hai. Isliye emergency review abhi chahiye.
 
-- **B — Correct:** Pulse bahut slow hai aur patient ko chakkar aa raha hai. Nurse dose hold karke urgent assessment aur alternate treatment ke liye team ko inform karti hai.
+- **B — Correct:** Agar prescribed first-line emergency doses sahi tareeke se di gayi hain aur phir bhi severe BP control nahi hua hai, toh agla treatment specialist team decide karti hai. ACOG Committee Opinion 767 is situation mein urgent specialist consultation ki salah deta hai. Nurse maternal BP, pulse, symptoms aur indicated fetal assessment continue karti hai aur pehle di gayi medicines, unki timing aur response team ko batati hai.
 
-- **C — Incorrect:** Dose badhane se beta blockade aur bradycardia badh sakti hai. Yeh slow pulse ka treatment nahi hai.
+- **C — Incorrect:** Pulse normal hone se extra labetalol automatically safe nahi ho jaata. Jab protocol ki dosing limit poori ho chuki hai, toh nurse apne aap aur dose nahi deti hai. Specialist ko previous treatment aur current BP batakar next appropriate agent ya intervention ka order lena chahiye.
 
-- **D — Incorrect:** Fetal movement se maternal circulation safe prove nahi hoti. Maa ki pulse aur symptoms ko bhi turant assess karna zaroori hai.
+- **D — Incorrect:** Magnesium sulfate ka kaam eclamptic seizures ko prevent ya treat karna hai. Iska use indicated ho sakta hai, lekin yeh severe hypertension ke liye suitable antihypertensive treatment ki jagah nahi leta hai. Persistent severe BP ke liye alag urgent treatment plan chahiye.
 
-**Clinical references:** [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
+**Clinical references:** [ACOG Committee Opinion 767](https://pubmed.ncbi.nlm.nih.gov/30575639/) · [ISSHP 2021](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf) · [NICE NG133](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NHM CEmONC 2024](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
 
 **YouTube MCQ practice:** Specific question verification pending. See evidence register for topic-level candidate.
 
