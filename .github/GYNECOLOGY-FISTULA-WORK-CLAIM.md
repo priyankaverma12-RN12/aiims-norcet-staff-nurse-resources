@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-f8-f12-audit-20261128
+Scope: Fistula Q8 and Q12 clinical corrections, chapter-local 40-item audit only, no shared README
+Claimed UTC: 2026-11-28T09:10:00Z
+Expiry UTC: 2026-11-28T09:40:00Z
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
