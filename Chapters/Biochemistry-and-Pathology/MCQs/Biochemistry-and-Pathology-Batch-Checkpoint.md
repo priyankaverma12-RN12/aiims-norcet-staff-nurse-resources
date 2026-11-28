@@ -165,3 +165,21 @@ Current PR7/8 navigation overlap and PR30 bronchial metaplasia overlap explicitl
 ## Next scope
 
 Prioritize actual audit rather than another numerical expansion: independently review each of 440 staged originals and all rationales, identify implausible distractors and duplicate learning objectives, compare all relevant topic/mock/PYQ/active draft banks, resolve PR30 allocation, complete INC Applied Pathology I/II and remaining Biochemistry curriculum mapping, verify source and video evidence, and coordinate PR7/8 navigation release. Maintain original learner identities. Only add justified missing content. Once topic coverage is certified and integration is validated against exact latest main, start ten 120-item mock-exclusive tests in pairs, then source-traced all-India PYQs. Preserve all other jobs and schedules.
+
+
+---
+
+# Final topic corrective audit — Pass 01
+
+**Draft only.** Baseline 7c1195abaf2044c2207498da9d729337a384cbb1. Forty questions (Banks 01 and 02) and 160 rationales reviewed and corrected. Four duplicated candidate objectives replaced in place (01 Q6/Q13, 02 Q1/Q14), with the published A&P and parallel Nutrition material preserved. Remaining 36 English stems/options and all 40 key letters preserved. No added question count.
+
+- Carbohydrate final bank 504fb008249db7a6f61f25e29432b33f95a29459, blob d5d32ec14c716378735da80c52577ca39144ac72.
+- Lipid final bank 0bbebcf5fb11338dc6a921373d14948077065150, blob 2ac26443f7c16a7f10055652b4fbb695c3f29066.
+- Existing concept guide updated 71fc3ed5fd4d9a8b9fe55dc0853fd4f44f13ccaf.
+- [Detailed audit evidence and INC allocation](../Previous-Year-Questions/Final-Topic-Audit-Pass-01-Evidence-and-Allocation.md), corrected ledger commit 7470df1047b26015296ad5d444380a7da2ba9fa0.
+
+Exact readbacks passed. 40 aligned keys, 160 options, 160 individual rationales, 40 closed details blocks, 40 clinical reference mappings and difficulty/priority tags. Four replacements screened against 405 other chapter stems (400 candidates, four legacy, one reported adaptation), no normalized exact match. Targeted related-bank screening 277 headings across seven A&P, Endocrine and Nutrition files. Prior 53 chapter blobs compared before ledger/checkpoint edits, 50 byte-identical, three intentional corrections. No full semantic or independent reviewer certification.
+
+INC Pathology I/II allocation and unresolved disease-specific gaps documented. Clinical Pathology body-fluid, stool and semen objectives need cross-owner depth review. Mini-GTT and thyroid reference-value gaps remain. PR7/8/30 acknowledgments absent, previous metaplasia overlap remains. Exact video playback unavailable, source-depth gaps documented. No candidate CI runs at last observed content head; no browser rendering certification. No merge, mock authoring, new PYQ or live credit. Other jobs and schedules untouched.
+
+Inventory remains 440 staged original candidates, 1760 rationales, four legacy originals, one reported adaptation, ten concept guides, ten SVGs. Next audit Banks 03–07 Q1–20 individually, then remaining banks, prioritizing clinical evidence, credible distractors and semantic uniqueness. 400 candidate questions remain outside this detailed corrective pass. Resolve all applicable review, curriculum, coordination and rendering gates before integration.
