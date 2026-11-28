@@ -50,3 +50,21 @@ Batch 03 difficulty: 5 Easy, 52 Medium, 43 Difficult. PR61 cumulative: 22 Easy, 
 Topic-level source research included NHM's updated 2026 SSBSK programme, WHO family planning and malaria/leprosy resources, CDC infection prevention, NCVBDC malaria surveillance, current DGHS NLEP and MoHFW NP-NCD. Item-specific verification, independent review, concept guides, diagrams and dedicated video/PYQ evidence remain pending. Do not mark as live. PR62 coordination comment 7237645277 was read, no response was present at inspection, and its head remained unchanged. No PR62 edits or shared navigation edits.
 
 Next: check the current chapter allocation and adjacent active banks before adding distinct uncovered topics, including health education, health information and community records, disaster preparedness at community level, national mental health services and community rehabilitation where not already covered. Reconcile PR61/PR62 topic overlap and current curriculum before mocks. Avoid repeating completed structural checks. Preserve both branches and learner history.
+
+## Batch 04 — verified candidate continuation
+
+| Topic | New originals | Bank |
+|---|---:|---|
+| Community health education and communication | 20 | [Open bank](16-Community-Health-Education-and-Communication-20-MCQs.md) |
+| Community health records and information systems | 20 | [Open bank](17-Community-Health-Records-and-HMIS-20-MCQs.md) |
+| Community disaster preparedness | 20 | [Open bank](18-Community-Disaster-Preparedness-20-MCQs.md) |
+| National mental health programme and community service pathways | 20 | [Open bank](19-NMHP-Community-Mental-Health-Services-20-MCQs.md) |
+| Community-based rehabilitation and inclusion | 20 | [Open bank](20-Community-Based-Rehabilitation-and-Inclusion-20-MCQs.md) |
+| Batch 04 total | 100 | 400 individual rationales |
+| PR61 cumulative | 400 | 1600 individual rationales |
+
+Batch 04 difficulty: 9 Easy, 47 Medium, 44 Difficult. Cumulative PR61 difficulty: 31 Easy, 199 Medium, 170 Difficult. Five actual content commits and five exact remote readbacks. Structural verification: 100 distinct normalized new stems, 400 options, aligned keys, four individual rationales per question, closed hidden answer blocks and 100 separate exam clues distinct from the correct rationale. No exact normalized matches against 304 PR61/legacy and 100 PR62 stems. Git compare from Batch03 to content checkpoint 3e887a084696bb6f99f876ca3a4432fceb6666f6 confirmed only five added files and no deletions, preserving all 15 earlier banks. Bounded exact comparison is not exhaustive semantic or clinical certification. Some distractors are deliberately basic and require independent exam-standard difficulty review.
+
+Research sources: AHRQ teach-back/health literacy, NHM IEC/BCC, WHO routine information systems and NITI HMIS, NDMA Aapda Mitra/SACHET, WHO risk communication/community mapping 2026, DGHS NMHP and Tele-MANAS, WHO CBR matrix and rehabilitation integration. Topic-level verified source links are recorded in each bank. Item-specific evidence, independent clinical/semantic and difficulty review, full curriculum reconciliation, concepts/diagrams and video/PYQ verification remain pending. Full mandatory release preflight and CI not certified. Scope deliberately focuses on community service and programme functions rather than acute emergency care or specialist treatments; comprehensive adjacent-chapter semantic screening still outstanding. PR62 coordination comment 7237645277 read; no reply at inspection. No PR62 changes or shared navigation writes. No live count.
+
+Next: verify actual uncovered national programmes and remaining INC community curriculum, including HIV/AIDS programme and STI service linkage, viral hepatitis control, lymphatic filariasis elimination, kala-azar elimination and rabies prevention services as appropriate after checking adjacent chapter allocations. Reconcile PR62's overlapping content and environmental sanitation bank before counting or publication, then proceed to original-only 120-question mocks once curriculum coverage is complete. Preserve all 20 PR61 banks, learner history and concurrent sessions.
