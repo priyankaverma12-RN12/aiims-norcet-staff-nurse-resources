@@ -104,28 +104,28 @@ HCV hepatitis C virus ka abbreviation hai.
 
 </details>
 
-### Q5. Which viral hepatitis type is currently not preventable by a licensed vaccine?
+### Q5. Which hepatitis virus is targeted for elimination by NVHCP despite the absence of a licensed preventive vaccine against it?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** NVHCP prevention and referral | **Type:** Original practice
 
-- **A.** Hepatitis C
-- **B.** Hepatitis A
-- **C.** Hepatitis B
-- **D.** Hepatitis D through hepatitis B prevention
+- **A.** Hepatitis C virus
+- **B.** Hepatitis A virus
+- **C.** Hepatitis B virus
+- **D.** Hepatitis D virus
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Hepatitis C**
+**Correct: A. Hepatitis C virus**
 
-HCV ke against licensed preventive vaccine available nahi hai, isliye exposure prevention important hai.
+HCV elimination NVHCP ka explicit target hai aur licensed HCV preventive vaccine abhi available nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Hepatitis A vaccines available hain.
-- **C.** Hepatitis B vaccine available hai.
-- **D.** HBV vaccination susceptible people ko HDV coinfection se bhi indirectly protect karti hai, kyunki HDV HBV par depend karta hai.
+- **B.** HAV ke against vaccines available hain aur HCV-specific elimination target HAV nahi hai.
+- **C.** HBV ke against effective vaccination available hai.
+- **D.** HDV HBV infection par depend karta hai; NVHCP ka specified countrywide HCV elimination target HDV nahi hai.
 
-**Exam clue:** Hepatitis C has no licensed vaccine.
+**Exam clue:** The programme's HCV target depends on prevention, diagnosis and treatment rather than vaccination.
 
 </details>
 
