@@ -427,28 +427,28 @@ Increasing TMP filtration resistance aur fouling suggest kar sakti hai, circuit 
 
 </details>
 
-### Q18. Why should a nurse review prescribed antimicrobial doses when CRRT modality or effluent delivery changes?
+### Q18. At the same total filtration rate, how can prefilter replacement fluid affect CVVH compared with postfilter replacement?
 
-**Difficulty:** Medium | **Topic:** Continuous renal replacement therapy (CRRT) | **Priority:** High | **Type:** Original practice
+**Difficulty:** Difficult | **Topic:** Continuous renal replacement therapy (CRRT) | **Priority:** High | **Type:** Original practice
 
-- **A.** All antibiotics are completely unaffected by CRRT
-- **B.** The filter guarantees therapeutic levels of every medicine
-- **C.** Drug clearance depends only on the patient's height
-- **D.** Extracorporeal clearance can alter drug exposure
+- **A.** It guarantees that the filter will never clot
+- **B.** It always increases effective solute clearance
+- **C.** It eliminates the need for fluid-balance monitoring
+- **D.** It reduces hemoconcentration but may lower effective solute clearance
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Extracorporeal clearance can alter drug exposure**
+**Correct: D. It reduces hemoconcentration but may lower effective solute clearance**
 
-Drug characteristics aur delivered CRRT clearance serum exposure affect kar sakte hain, pharmacist aur prescriber review important hai.
+Prefilter replacement solution filter mein enter karne se pehle blood ko dilute karti hai. Isse hemoconcentration kam ho sakti hai aur filter patency improve ho sakti hai, lekin same filtration rate par diluted solute concentration ki wajah se effective solute clearance kam ho sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Some antibiotics substantially removed ho sakti hain.
-- **B.** Therapeutic level automatically guaranteed nahi hota.
-- **C.** Height alone drug clearance determine nahi karti.
+- **A.** Filter clotting ka risk kam ho sakta hai, par zero clotting guarantee nahi hoti.
+- **B.** Predilution fixed filtration rate par solute concentration reduce kar sakti hai, isliye clearance necessarily increase nahi hoti.
+- **C.** Replacement solution aur net patient fluid removal dono prescribed balance ke according monitor karna essential hai.
 
-**Exam clue:** Drug characteristics aur delivered CRRT clearance serum exposure affect kar sakte hain, pharmacist aur prescriber review important hai.
+**Exam clue:** Predilution mein filter patency ka benefit aur solute clearance ka trade-off samjho.
 
 </details>
 
@@ -507,3 +507,4 @@ RRT stop decision native renal recovery aur current solute/fluid needs par depen
 - [KDIGO AKI controversies conference conclusions](https://pmc.ncbi.nlm.nih.gov/articles/8481001/), modality, dose and regional citrate principles.
 - [Continuous renal replacement therapy](https://www.ncbi.nlm.nih.gov/books/NBK556028/), indexed overview of techniques and complications.
 - Device-specific alarm and citrate protocols, independent clinical/pharmacy review, videos and historical item evidence pending.
+- [Continuous renal replacement therapy: who, when, why and how](https://pmc.ncbi.nlm.nih.gov/articles/PMC6435902/), prefilter dilution and clearance trade-off, indexed source.
