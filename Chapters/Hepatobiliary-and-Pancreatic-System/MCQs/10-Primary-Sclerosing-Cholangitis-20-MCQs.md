@@ -481,28 +481,28 @@
 
 </details>
 
-### Q20. A patient with PSC has a liver biopsy planned because autoimmune hepatitis overlap is suspected. Which finding makes overlap evaluation particularly relevant?
+### Q20. Surveillance imaging in an adult with large-duct PSC identifies a new 12-mm gallbladder polyp. Which follow-up action is most appropriate?
 
 **Difficulty:** Medium · **Priority:** HIGH YIELD · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** A normal skin examination alone
-- **B.** An isolated normal serum sodium concentration
-- **C.** Improved appetite after dietary counseling
-- **D.** Marked hepatocellular aminotransferase elevation with supportive immune findings
+- **A.** Continue ordinary surveillance without reporting the new finding
+- **B.** Ignore the polyp because PSC eliminates malignancy risk
+- **C.** Independently start anticoagulation to dissolve the polyp
+- **D.** Arrange prompt specialist surgical assessment, taking liver function and operative risk into account
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Marked hepatocellular aminotransferase elevation with supportive immune findings**
+**Correct answer: D. Arrange prompt specialist surgical assessment, taking liver function and operative risk into account**
 
-**A. Kyun galat hai:** Skin examination alone overlap identify nahi karta.
+**D. Kyun sahi hai:** PSC mein gallbladder malignancy ka risk increased hota hai. AASLD guidance mein 8 mm se bade gallbladder polyps ke liye cholecystectomy consider karte hain. Yahan 12 mm ka polyp hai, isliye specialist ko surgical suitability aur liver disease severity assess karni chahiye.
 
-**B. Kyun galat hai:** Normal sodium autoimmune liver injury ka diagnostic marker nahi hai.
+**B. Kyun galat hai:** PSC malignancy se protection nahi deta. Is condition mein gallbladder cancer ka risk badh sakta hai.
 
-**C. Kyun galat hai:** Appetite improve hone se autoimmune overlap establish ya exclude nahi hota.
+**C. Kyun galat hai:** Polyp mucosal growth hai, blood clot nahi. Anticoagulant polyp dissolve karne ka treatment nahi hai.
 
-**D. Kyun sahi hai:** PSC mainly cholestatic pattern deti hai. Marked hepatocellular injury aur immune findings AIH component suggest kar sakte hain. Biopsy aur clinical evaluation treatment guide karte hain.
+**A. Kyun galat hai:** New large polyp ko report kiye bina routine follow-up karne se important specialist assessment delay ho sakta hai.
 
-**Exam clue:** Atypical hepatocellular injury in PSC prompts overlap assessment.
+**Exam clue:** PSC mein 8 mm se bada gallbladder polyp specialist surgical review ka important indication hai.
 
 </details>
 
