@@ -10,8 +10,8 @@
 | [02D Bronchiolitis](02D-Acute-Viral-Bronchiolitis-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 6bd479add743c882e81250894737544f86a048e8 |
 | [02E EA/TEF](02E-Esophageal-Atresia-and-TEF-20-MCQs.md) | 20 | 80 | 1 | 13 | 6 | e0534b3b0f333206f0be1477d6c18254f4998ae1 |
 | New Batch 02 total | 100 | 400 | 6 | 56 | 38 | candidate only |
-| [Batch 01 revised](Batch-01-Original-MCQ-Candidate-Inventory.md) | 100 | 400 | 28 | 60 | 12 | candidate only |
-| Cumulative candidate | 200 | 800 | 34 | 116 | 50 | not live |
+| [Batch 01 revised](Batch-01-Original-MCQ-Candidate-Inventory.md) | 100 | 400 | 34 | 66 | 0 | candidate only |
+| Batches 01–02 subtotal | 200 | 800 | 40 | 122 | 38 | not live |
 
 Existing four starter originals and one reported adaptation excluded from candidate totals and preserved.
 
@@ -34,3 +34,7 @@ Remote author structural audit: 10 banks × 20 original questions, four options 
 ## Merge decision
 
 Remain draft. Require current main comparison, PR7/8/12/35 acknowledgement and reconciliation, independent question-level clinical/source, semantic, language/difficulty/distractor review, complete INC coverage reconciliation, video evidence, website/relative-link rendering (SVG source rendering completed), CI and safe merge authorization. No mock or PYQ addition during this run. Next: complete the outstanding independent gates, then identify five additional uncovered individual topics and stage only genuinely distinct originals. Do not start ten 120-question original-only mocks until coverage and relevant gates pass. Do not change five hourly automations or other scopes.
+
+## Batch 05 continuation
+
+01E Q1–20 reviewed; 80 separately labeled rationales expanded, 20 clues and targeted references added. Original stems/options/keys/priorities unchanged. Commit 276dde1805434240cb3e39162623bef11fba456f. Independent review pending. Five additional banks (03A–03E) staged; see [current cumulative inventory](Batch-05-Original-MCQ-Candidate-Inventory.md). Next corrective scope is remaining unreviewed Batch 02 items, without repeating completed priority fixes.
