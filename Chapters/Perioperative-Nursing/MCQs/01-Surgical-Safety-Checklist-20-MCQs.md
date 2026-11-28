@@ -323,30 +323,30 @@
 
 </details>
 
-### Q12. An elective operation is approaching final closure and the sponge count is one short. Which action is the safest next step for the circulating nurse?
+### Q12. During time out for elective surgery, the anesthesia provider identifies severe ventricular dysfunction and anticipates instability during a specific operative maneuver. Which communication is most useful?
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Record the count as correct because the surgeon did not see a retained sponge
-- **B.** Send the patient to PACU and reconcile the count later
-- **C.** Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol
-- **D.** Change the initial recorded count to match the final count
+- **A.** Limit discussion to the surgeon's estimated operating time
+- **B.** Record the concern only on the anesthetic chart without team discussion
+- **C.** Share the patient-specific hemodynamic concern and agree how the team will respond during the maneuver
+- **D.** Ask the scrub nurse to select vasopressor treatment independently
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol**
+**Correct: C. Share the patient-specific hemodynamic concern and agree how the team will respond during the maneuver**
 
-- **A.** Visual impression count discrepancy ko resolve nahi karta. Retained sponge ka risk tab bhi reh sakta hai.
+- **A.** Operating time useful information hai, lekin specific hemodynamic risk ko address nahi karta. Anesthesia-related concern bhi shared briefing mein important hai.
 
-- **B.** PACU transfer se pehle discrepancy address karna chahiye. Delay hone se possible retained item dhoondhna aur difficult ho sakta hai.
+- **B.** Anesthesia record accurate hona chahiye, lekin real-time team discussion se surgeon aur nurses apni responsibilities coordinate kar sakte hain.
 
-- **C.** Count kam milna potential retained surgical item ka warning hai. Team recount, search aur indicated imaging ko local protocol ke hisaab se coordinate karti hai, patient stability ko dhyan mein rakhkar.
+- **C.** Ventricular dysfunction ke saath particular surgical maneuver circulation ko affect kar sakta hai. Anesthesia provider concern team ke saath share karta hai, taaki team relevant monitoring aur coordinated response ke liye prepared rahe.
 
-- **D.** Initial record badalne se real missing item ka pata nahi chalega. Documentation accurate rehni chahiye.
+- **D.** Vasopressor selection patient ke hemodynamics aur clinical order par depend karti hai. Scrub nurse khud se medicine prescribe nahi karti.
 
-**Exam clue:** Incorrect count ko correct document mat karo, discrepancy ko turant escalate karo.
+**Exam clue:** Time out mein surgeon ke concerns ke saath anesthesia-specific risks bhi share hote hain.
 
-**Clinical reference:** [WHO manual, sign out](https://www.who.int/publications/i/item/9789241598590)
+**Clinical reference:** [WHO manual — anesthesia concerns at time out](https://www.who.int/publications/i/item/9789241598590)
 
 **Dedicated MCQ video:** Exact question mapping and playback pending.
 

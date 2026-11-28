@@ -91,30 +91,30 @@
 
 </details>
 
-### Q4. A patient scheduled for elective general anesthesia reports having eaten a full breakfast contrary to the prescribed fasting instructions. What is the best nursing action?
+### Q4. A patient with diagnosed obstructive sleep apnea uses CPAP every night and is scheduled for elective surgery. The home device is available. Which preoperative action is most useful?
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Induce vomiting to empty the stomach
-- **B.** Record the intake and time, and inform the anesthesia team before proceeding
-- **C.** Record the patient as fasting because food intake has stopped
-- **D.** Give additional oral fluids to dilute gastric contents
+- **A.** Treat CPAP use as proof that postoperative breathing risk is absent
+- **B.** Communicate the OSA and CPAP history and clarify equipment and postoperative monitoring plans
+- **C.** Tell the patient to permanently stop CPAP after surgery
+- **D.** Arrange routine sedative administration without discussing OSA
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Record the intake and time, and inform the anesthesia team before proceeding**
+**Correct: B. Communicate the OSA and CPAP history and clarify equipment and postoperative monitoring plans**
 
-- **A.** Vomiting induce karna aspiration aur injury ka risk create kar sakta hai. Nurse is method se gastric preparation nahi karti.
+- **A.** Home CPAP treatment se OSA manage ho sakta hai, lekin anesthesia aur postoperative medicines breathing risk ko affect kar sakti hain. Risk ko exclude nahi maana chahiye.
 
-- **B.** Full meal ki type aur timing aspiration risk assessment mein important hain. Nurse exact information share karti hai, aur team elective procedure delay ya modified plan ka decision leti hai.
+- **B.** OSA ki history aur home CPAP use anesthesia team ke liye important information hain. Nurse device availability aur postoperative respiratory support aur monitoring plan clarify karti hai.
 
-- **C.** Fasting status actual recent intake se determine hota hai. Record ko inaccurate banana anesthesia risk assessment ko compromise karta hai.
+- **C.** CPAP ko permanent stop karna routine surgical instruction nahi hai. Postoperative use procedure aur patient condition ke hisaab se team decide karti hai.
 
-- **D.** Extra oral fluid dene se stomach automatically safe nahi hota. Fasting breach ke baad anesthesia provider individual risk aur plan decide karta hai.
+- **D.** Sedatives OSA patient ki airway patency aur ventilation affect kar sakte hain. Administration se pehle risk aur prescribed plan verify karna important hai.
 
-**Exam clue:** Fasting breach ko conceal mat karo, last intake ka exact time aur type communicate karo.
+**Exam clue:** Treated OSA mein bhi perioperative respiratory risk assessment chahiye.
 
-**Clinical reference:** [OpenStax 25.2 — preoperative priorities](https://openstax.org/books/medical-surgical-nursing/pages/25-2-preoperative-nursing-priorities)
+**Clinical reference:** [APSF — sleep apnea and anesthetic risks](https://www.apsf.org/patient-guide/how-does-sleep-apnea-affect-my-anesthetic/)
 
 **Dedicated MCQ video:** Exact question mapping and playback pending.
 
@@ -555,30 +555,30 @@
 
 </details>
 
-### Q20. An adult asks whether all hair around an elective incision should be removed at home with a razor the night before surgery. What should the nurse advise?
+### Q20. A patient scheduled for ambulatory lower-limb surgery has no suitable transport home and says they live alone with limited mobility. Which preoperative intervention best addresses discharge safety?
 
-**Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
+**Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Razor shave the entire region to make it sterile
-- **B.** Avoid routine hair removal and follow facility instructions for clipping only if necessary
-- **C.** Remove hair routinely because hair alone causes surgical infection
-- **D.** Use hair-removal cream regardless of skin condition or policy
+- **A.** Wait until the patient has received anesthesia to ask about support
+- **B.** Identify the support and transport gap early and coordinate an individualized discharge plan
+- **C.** Assume all ambulatory procedures permit independent travel home
+- **D.** Cancel all postoperative teaching because the patient lives alone
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Avoid routine hair removal and follow facility instructions for clipping only if necessary**
+**Correct: B. Identify the support and transport gap early and coordinate an individualized discharge plan**
 
-- **A.** Razor se microscopic skin injuries ho sakti hain, jo infection risk badha sakti hain. Shaving skin ko sterile bhi nahi banati.
+- **A.** Anesthesia ke baad patient ki decision-making aur mobility temporarily affect ho sakti hain. Discharge barrier ko pehle identify karna better hai.
 
-- **B.** Routine removal unnecessary hai. Agar hair procedure mein interfere kare toh approved clipping approach follow karna skin injury aur infection risk ko reduce karne mein madad karta hai.
+- **B.** Limited mobility aur transport gap ko preoperative phase mein address karne se safe recovery arrangement plan kiya ja sakta hai. Nurse surgical team aur available support services ke saath discharge criteria clarify karti hai.
 
-- **C.** Hair ki presence alone routine removal ka indication nahi hai. Procedure ke liye removal genuinely necessary ho tab appropriate method choose karte hain.
+- **C.** Same-day surgery ka matlab har patient independently safe travel kar sakta hai, aisa nahi hai. Procedure aur anesthesia ke hisaab se transport aur support requirements check karne chahiye.
 
-- **D.** Chemical depilatory skin irritation cause kar sakti hai. Bina approved protocol aur assessment ke use recommend nahi karna chahiye.
+- **D.** Living alone se teaching ki need kam nahi hoti. Patient ko safe activity, assistance aur warning signs samajhna aur bhi important ho sakta hai.
 
-**Exam clue:** Necessary hair removal mein clipping ko routine razor shaving se distinguish karo.
+**Exam clue:** Discharge planning surgery se pehle bhi start hoti hai.
 
-**Clinical reference:** [WHO surgical site infections](https://www.who.int/news-room/questions-and-answers/item/surgical-site-infections)
+**Clinical reference:** [OpenStax 25.3 — preoperative care](https://openstax.org/books/medical-surgical-nursing/pages/25-3-preoperative-nursing-care-plan)
 
 **Dedicated MCQ video:** Exact question mapping and playback pending.
 
