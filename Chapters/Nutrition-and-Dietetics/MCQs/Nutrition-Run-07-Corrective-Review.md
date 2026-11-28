@@ -213,3 +213,20 @@ Sources: ICMR-NIN DGI 2024 Guideline 5 PDF text retrieved, screenshot attempt ca
 | New live, mock-exclusive or authenticated PYQ credit | 0 |
 
 Next: distinct elderly nutrition objectives after PR39 and Nutrition screening, then actual programme/food-standard gaps. Full mandatory preflight, independent clinical/pharmacy and comprehensive semantic review, INC coverage, source and item-level videos, PR7/8 explicit navigation coordination, latest-main reconciliation and exact candidate CI/browser rendering remain before integration. No website, learner history or automation changes.
+
+
+## 07E — elderly nutrition and hydration continuation (2026-11-28)
+
+- Input checkpoint: 55b40c6f59c2ccfe8550316ee0e03b76a2e13a27 (660 staged originals).
+- Dedicated lease acquisition: a4780bc00b6231632668832ea11d354284caaa24. Isolated PR35 scope only. PR39 Geriatric candidate head 56ba474d6866bd90a3b97ade6a171c4905cfe541 screened across ten banks (200 stems) for relevant scope collisions. Targeted review of 120 prior Nutrition stems in six relevant banks plus earlier 160-stem Nutrition review. Avoided duplicating geriatric general functional/frailty tasks; focused on nutrition-specific screening, ONS, fluid assessment and intake support.
+- Bank: 20 original candidate MCQs and 80 individual Roman Hinglish rationales. Commit ec04875c50c26d5ad96deb18d3ada63cb839d3c2, exact remote blob 729333d653bafaffa1aa81d2975377d92cdd8cd6.
+- Original SVG: commit ebaaafc1ef4a364bda37a40b0209938abd4cb058, exact remote blob ab02b483c35b2556cbae8cfaf1560359c734c166. Matching local Git blob rendered with CairoSVG and visually inspected; no observed clipping.
+- Concept guide: commit 0cc2c52253758040d2b5297b73ec6922d7a47c00, exact remote blob 0180b7676c985955eb9eb793b538ea875207fa7c.
+- Structure: 20 unique normalized stems, four options and four separate rationales each, exactly one matching key per item, hidden details, evidence and exam clue present, no semicolons, five keys per letter, 18 medium and two difficult items. Zero normalized exact matches against all 660 staged prior stems (33 banks). Exact comparison is not exhaustive semantic certification. Q2 and Q19 use the same MNA-SF alternative concept for distinct selection versus scoring tasks; Q4 and Q20 use distinct ONS adequacy versus combined intake calculations. Flag these clusters for independent semantic scrutiny.
+- Clinical sources: directly retrieved ESPEN 2022 practical geriatric guideline, checked recommendations and visually inspected supplement and hydration PDF pages; official MNA-SF scoring guide and form text retrieved, page screenshot confirmation unavailable. Guideline quantities are source-specific and individualized, not orders. Level Up RN older adult nutrition concept video indexed only; no verified item-specific practice video.
+- Compare 55b40c6f59c2ccfe8550316ee0e03b76a2e13a27 to 0cc2c52253758040d2b5297b73ec6922d7a47c00: exactly three added files, no prior content deletions or modifications. Ledger is the separate subsequent fourth change.
+- Outstanding: independent qualified clinical/pharmacy validation, exhaustive semantic review (including flagged 07D clusters), full INC mapping, dedicated item video evidence, complete bounded preflight certification, PR7/8 explicit navigation release, current-head CI and exact prospective merge/render/deployment verification. No integration. No programme or food-standard expansion yet. Next: scope-screen remaining genuine programme/food-standard gaps and finish all gates before mocks and PYQs.
+
+### Updated staged inventory (07D + 07E)
+
+680 original candidate MCQs, 2720 individual option rationales, 34 topic banks, 17 concept guides, 17 original SVGs. Four legacy originals and one reported adaptation remain separate, unchanged. This continuation added 40 original candidate MCQs, 160 rationales, two topic banks, two guides and two diagrams. No new live question credit, no learner history, website, shared navigation, other job or five hourly schedule changes.
