@@ -16,16 +16,16 @@ During conventional upper-arm manual BP measurement, which artery is the routine
 **Correct answer: B. Brachial**
 
 <!-- job5-rationale -->
-Manual upper-arm BP mein cuff inflation artery ko temporarily compress karta hai. Deflation ke dauran blood flow resume hone par Korotkoff sounds sunai deti hain. Stethoscope ko brachial artery ke upar antecubital region mein place karte hain. Pehla clear repetitive sound systolic BP aur usual adult final disappearance diastolic BP indicate karti hai. Correct cuff size, supported heart-level arm aur controlled deflation reading accuracy ke liye important hain.
+Manual BP measure karte waqt nurse upper arm par suitable cuff lagati hai. Cuff inflate hone se brachial artery temporarily compress hoti hai. Jab pressure dheere-dheere release karte hain, toh artery mein blood flow wapas shuru hota hai aur Korotkoff sounds sunai deti hain. Nurse stethoscope ko elbow ke saamne antecubital region mein brachial artery ke upar rakhti hai. Pehli clear repeated tapping sound systolic BP batati hai. Routine adult measurement mein sounds ka final disappearance usually diastolic BP batata hai. Accurate reading ke liye correct cuff, supported heart-level arm aur controlled deflation chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Femoral artery groin mein hoti hai. Yeh routine upper-arm cuff ka listening site nahi hai.
-- **B:** Brachial artery cuff ke distal side antecubital region mein accessible hai, isliye B correct hai.
-- **C:** Carotid artery neck mein hai. Routine upper-arm BP ke liye carotid auscultation use nahi hoti.
-- **D:** Dorsalis pedis foot ke dorsum par milti hai aur peripheral circulation assessment mein useful hai.
+- **A:** Femoral artery groin mein locate hoti hai aur lower limb circulation assess karne mein useful hai. Routine upper-arm BP ke liye ye listening site nahi hai.
+- **B:** Brachial artery elbow ke antecubital region mein accessible hoti hai. Isi site par cuff deflation ke dauran sounds suni jaati hain, isliye B sahi hai.
+- **C:** Carotid artery neck mein hoti hai. Routine upper-arm BP measurement mein stethoscope carotid artery par nahi rakhte.
+- **D:** Dorsalis pedis artery foot ki upper surface par hoti hai. Ye distal circulation assess karne ke liye useful hai, upper-arm BP auscultation ke liye nahi.
 
-**Exam clue:** Manual arm BP = brachial artery. Radial palpation can estimate systolic pressure but is a different technique.
+**Exam clue:** Manual upper-arm BP mein brachial artery par sounds suno. Radial palpation se approximate systolic pressure estimate karna alag technique hai.
 
 [Clinical concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 

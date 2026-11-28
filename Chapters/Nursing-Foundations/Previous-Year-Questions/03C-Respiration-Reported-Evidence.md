@@ -16,16 +16,16 @@ Which breathing pattern involves cycles of increasing then decreasing respirator
 **Correct answer: C. Cheyne–Stokes respiration**
 
 <!-- job5-rationale -->
-Cheyne–Stokes respiration mein breaths gradually deeper hote hain, phir gradually shallow hote hain aur temporary central apnea ya hypopnea aa sakti hai. Yeh repeating waxing-waning cycle ventilatory control instability se related ho sakti hai. Heart failure, neurological conditions aur sleep-related disorders possible associations hain, lekin pattern alone etiology confirm nahi karta. New pattern, reduced consciousness ya distress mein clinical assessment aur appropriate escalation karo.
+Cheyne–Stokes respiration ko ek repeating breathing cycle se samjho. Pehle breaths shallow hoti hain, phir dheere-dheere deep hoti hain aur phir unki depth kam hone lagti hai. Iske baad temporary apnea, yaani breathing pause, ya hypopnea, yaani reduced breathing, aa sakti hai. Ventilatory control mein instability ki wajah se ye cycle repeat ho sakti hai. Heart failure, neurological conditions aur sleep-related disorders possible associations hain. Sirf pattern se exact cause confirm nahi hota. Naya pattern, reduced consciousness ya respiratory distress mile toh patient assess karo aur indicated urgent escalation karo.
 
 **Option-by-option reasoning**
 
-- **A:** Eupnea quiet comfortable regular breathing hai, cyclic apnea nahi.
-- **B:** Kussmaul respiration metabolic acidosis ke compensation mein deep sustained breathing ho sakti hai, typical waxing-waning pauses nahi.
-- **C:** Increasing depth, decreasing depth aur pause ki repeated cycle Cheyne–Stokes ko identify karti hai.
-- **D:** Tachypnea expected range se increased rate batati hai, specific depth cycle nahi.
+- **A:** Eupnea normal comfortable regular breathing ko kehte hain. Ismein repeating depth changes aur apnea expected nahi hote.
+- **B:** Kussmaul respiration metabolic acidosis ki compensation mein sustained deep breathing ho sakti hai. Iska typical pattern gradual increase, decrease aur pause wala nahi hai.
+- **C:** Breaths ki depth pehle badhna, phir kam hona aur pause ke saath cycle repeat hona Cheyne–Stokes pattern hai. Isliye C sahi hai.
+- **D:** Tachypnea expected range se zyada breathing frequency ko kehte hain. Ye specific depth variation aur apnea ka pattern describe nahi karti.
 
-**Exam clue:** Crescendo, decrescendo, pause. Do not wait through apnea when emergency signs are present.
+**Exam clue:** Cheyne–Stokes mein depth badhti hai, phir kam hoti hai aur phir pause aa sakta hai. Emergency signs present hon toh pause khatam hone ka wait mat karo.
 
 [Clinical concept reference](https://site.thoracic.org/assemblies/cp/ats-quick-hits/cheyne-stokes-respiration)
 

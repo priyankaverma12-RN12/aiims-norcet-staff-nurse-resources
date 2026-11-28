@@ -20,16 +20,16 @@ Which pair of measurements is normally displayed by a conventional bedside pulse
 **Correct answer: A. Peripheral oxygen saturation and pulse rate**
 
 <!-- job5-rationale -->
-Conventional pulse oximeter red aur infrared light absorption ke difference aur pulsatile blood volume signal se peripheral arterial Hb saturation ka estimate banata hai. Pulses ke intervals se pulse rate bhi estimate hoti hai. SpO2 oxygen-bound Hb fraction batati hai, Hb quantity ya ventilation directly nahi. Poor perfusion, motion, pigmentation aur dyshemoglobins reading accuracy affect kar sakte hain. Symptoms aur waveform quality as available correlate karo.
+Conventional pulse oximeter red aur infrared light use karta hai. Oxygenated aur deoxygenated hemoglobin in lights ko alag tareeke se absorb karte hain. Device heartbeat ke saath arterial blood volume ki optical changes analyze karke SpO2 aur peripheral pulse rate estimate karta hai. SpO2 batati hai ki functional hemoglobin ka approximate kitna proportion oxygen se bound hai. Ye hemoglobin ki quantity ya ventilation directly measure nahi karti. Poor perfusion, motion, pigmentation-related bias aur abnormal hemoglobin forms reading affect kar sakte hain. Nurse symptoms aur available waveform quality bhi check karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** SpO2 aur peripheral optical pulse rate conventional device ke main outputs hain.
-- **B:** PaCO2 blood gas se assess hoti hai aur respiratory rate separately count ya appropriate respiratory monitor se milti hai.
-- **C:** Hb concentration laboratory blood count se aur pH blood gas analysis se milta hai.
-- **D:** SBP aur DBP pressure-measuring device se milte hain, ordinary pulse oximeter se nahi.
+- **A:** SpO2 aur optical pulse rate conventional bedside pulse oximeter ke main outputs hain. Isliye A sahi hai.
+- **B:** PaCO2 arterial carbon dioxide pressure hai, jo blood gas se assess hoti hai. Respiratory rate separately count ya suitable respiratory monitor se assess hoti hai.
+- **C:** Hemoglobin concentration blood count se aur arterial pH blood gas test se milta hai. Ordinary pulse oximeter ye quantities directly measure nahi karta.
+- **D:** Systolic aur diastolic pressure BP-measuring equipment se milte hain. Conventional standalone oximeter pressure-measuring device nahi hai.
 
-**Exam clue:** SpO2 + pulse rate, not BP, PaCO2 or Hb.
+**Exam clue:** Conventional oximeter SpO2 aur peripheral pulse rate estimate karta hai. BP, PaCO2 aur hemoglobin concentration ke liye alag measurements chahiye.
 
 [Clinical concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 
@@ -61,16 +61,16 @@ Which finding cannot be directly obtained from a conventional standalone pulse o
 **Correct answer: C. Electrocardiographic changes**
 
 <!-- job5-rationale -->
-ECG skin electrodes ke through cardiac electrical potential changes record karta hai. Pulse oximeter optical photoplethysmography se peripheral blood volume changes aur estimated saturation detect karta hai. Dono heart-related information de sakte hain, lekin electrical rate aur peripheral pulse rate arrhythmia ya weak perfusion mein differ kar sakte hain. Pleth waveform ECG tracing nahi hoti. Standalone pulse oximeter ECG changes directly identify nahi karta.
+ECG heart ki electrical activity skin electrodes ke through record karta hai. Pulse oximeter light ke through peripheral blood volume changes detect karta hai, jise photoplethysmography kehte hain. Dono devices heartbeat se related information de sakte hain, lekin inka measurement principle alag hai. Arrhythmia ya poor perfusion mein electrical heart rate aur peripheral pulse rate different ho sakte hain. Waveform-capable oximeter par pleth waveform dikh sakti hai, lekin woh ECG tracing nahi hai. Standalone conventional oximeter electrocardiographic changes directly detect nahi karta.
 
 **Option-by-option reasoning**
 
-- **A:** Estimated oxygen saturation percentage standard optical output hai.
-- **B:** Peripheral optical pulse rate pulsatile signal se estimate hoti hai.
-- **C:** ECG changes record karne ke liye electrical ECG measurement chahiye, isliye C correct hai.
-- **D:** Waveform-capable model optical plethysmogram display kar sakta hai, which is not ECG.
+- **A:** Estimated oxygen saturation percentage conventional pulse oximeter ka standard output hai. Ye device se obtain ki ja sakti hai.
+- **B:** Optical pulsations ke intervals se peripheral pulse rate estimate ki ja sakti hai. Ye exact electrical rhythm ka proof nahi hai.
+- **C:** ECG changes assess karne ke liye electrical ECG measurement chahiye. Standalone optical oximeter ye directly nahi karta, isliye C sahi hai.
+- **D:** Waveform-capable oximeter optical plethysmogram dikha sakta hai, jo pulsatile blood volume changes represent karta hai. Ye ECG waveform nahi hai.
 
-**Exam clue:** ECG = electrical, pleth = optical blood volume change.
+**Exam clue:** ECG electrical activity record karta hai aur pleth optical blood volume changes dikhati hai. Dono signals ko interchangeable mat samjho.
 
 [Clinical concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 
