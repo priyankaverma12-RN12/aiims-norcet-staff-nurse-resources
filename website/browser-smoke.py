@@ -724,7 +724,7 @@ try:
                     expect(mobile.locator("#progress-chapter")).to_have_value("Nursing-Foundations")
                     no_overflow(mobile)
                     assert mobile.locator("#progress-filter-toggle").evaluate("e=>e.getBoundingClientRect().width>=44&&e.getBoundingClientRect().height>=44")
-                print(f"V12.1 compact progress filter icon passed at {width}x{height}.",flush=True)
+                    print(f"V12.1 compact progress filter icon passed at {width}x{height}.",flush=True)
                 else:
                     expect(mobile.locator("#progress-filter-toggle")).to_be_hidden()
                     expect(mobile.locator("#progress-chapter")).to_be_visible()
