@@ -1,5 +1,17 @@
 # Musculoskeletal System manual chapter claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-gait-overlap-20261128T1209Z at verified checkpoint 99a3079129a6c8ff208c52f17e49ffc4db4ec056. PR46 03E Q01 replacement af5f07681c79627b46a42957cdd32502648f7cb0; PR48 10C Q18 unchanged. 478 staged originals/1912 rationales preserved. Exact remote readbacks passed. Q07/Q14/Q20 and related pairs, remaining independent review, semantic, source/video, navigation and current-head CI gates pending. No new live count. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
 State: CLAIMED
 Owner: integration-pr46-gait-overlap-20261128T1209Z
 Scope: isolated PR46 03E Q01 replacement and checkpoint, retain PR48 10C Q18 calculation. No shared navigation, live clinical write or other branches.
