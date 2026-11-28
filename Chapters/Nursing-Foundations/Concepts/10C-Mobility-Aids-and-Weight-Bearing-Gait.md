@@ -43,6 +43,10 @@ Non-weight-bearing ka matlab affected limb par load nahi dena hai. Partial weigh
 
 **Example:** Agar patient ka weight 80 kg hai aur clinician ne 25% partial weight bearing prescribe ki hai, toh approximate mass-equivalent target 80 × 0.25 = 20 kg hai. Scale training ka ye estimate dynamic walking ke dauran actual limb load ka guarantee nahi hai. Therapist ki training aur reassessment essential hain.
 
+### Current clinical terminology ka update
+
+2024 British Orthopaedic Association standard non-weightbearing, limited weightbearing aur unrestricted weightbearing terms recommend karta hai. Is standard mein percentage body weight ya kilograms of force se clinical restriction prescribe karne ke bajay clear functional limits, duration, clinical reason aur aid requirements document karne ko kaha gaya hai. Purane exam terms jaise PWB, TTWB aur WBAT alag services mein mil sakte hain. Treating team ki specific instructions clarify karo. Upar wala 80 kg ka calculation sirf defined exam arithmetic hai, clinical order banane ka recommendation nahi. [BOASt August 2024](https://www.boa.ac.uk/resource/mobilisation-and-weightbearing-after-orthopaedic-surgery-musculoskeletal-injury-boast.html).
+
 ## Equipment aur discharge readiness
 
 Rubber tips worn hon, adjustable lock loose ho ya frame damage ho toh patient ko unsafe equipment ke saath continue mat karvao. Device ki approved replacement ya service arrange karo. Walking route dry aur clear rakho. Patient ki required handgrips ko free rakhne ke liye safe hands-free pouch use ki ja sakti hai. Home doorway ya threshold device ke liye suitable hai ya nahi, actual route assess karo.
