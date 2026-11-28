@@ -8,18 +8,18 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** A reliable functioning pulse oximeter is applied and checked
-- **B.** A second IV catheter is inserted instead
+- **A.** A second IV catheter is inserted instead
+- **B.** A reliable functioning pulse oximeter is applied and checked
 - **C.** A blood pressure reading is recorded as a substitute
 - **D.** Pulse oximetry is deferred until skin closure
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. A reliable functioning pulse oximeter is applied and checked**
+**Correct: B. A reliable functioning pulse oximeter is applied and checked**
 
-- **A.** Induction se pehle oxygen saturation ki monitoring chahiye. Nurse working sensor aur monitor confirm karti hai, kyunki equipment failure ki wajah se hypoxemia ka pata late chal sakta hai.
+- **A.** IV access fluids aur medicines dene ke liye useful hai, lekin isse oxygen saturation measure nahi hoti. Doosri line monitor ki kami poori nahi karti.
 
-- **B.** IV access fluids aur medicines dene ke liye useful hai, lekin isse oxygen saturation measure nahi hoti. Doosri line monitor ki kami poori nahi karti.
+- **B.** Induction se pehle oxygen saturation ki monitoring chahiye. Nurse working sensor aur monitor confirm karti hai, kyunki equipment failure ki wajah se hypoxemia ka pata late chal sakta hai.
 
 - **C.** Blood pressure circulation ki information deta hai, lekin oxygenation ko directly nahi dikhata. Isliye normal pressure ke bawajood saturation monitoring zaroori hai.
 
@@ -38,21 +38,21 @@
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Proceed because the patient is breathing normally
-- **B.** Ask anesthesia personnel to confirm a difficult-airway plan and required assistance before proceeding
-- **C.** Request that the scrub nurse handle intubation without consultation
-- **D.** Document the history only in the recovery room record
+- **B.** Request that the scrub nurse handle intubation without consultation
+- **C.** Document the history only in the recovery room record
+- **D.** Ask anesthesia personnel to confirm a difficult-airway plan and required assistance before proceeding
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Ask anesthesia personnel to confirm a difficult-airway plan and required assistance before proceeding**
+**Correct: D. Ask anesthesia personnel to confirm a difficult-airway plan and required assistance before proceeding**
 
 - **A.** Awake patient ki normal breathing se induction ke baad airway manage karne ki difficulty exclude nahi hoti. Anesthesia team ko history ke hisaab se tayari karni chahiye.
 
-- **B.** Previous difficulty se airway rescue ki planning important ho jati hai. Nurse anesthetist ko inform karke available equipment aur help confirm karti hai, taaki induction ke waqt team prepared ho.
+- **B.** Scrub nurse sterile field sambhalti hai. Airway management anesthesia provider ka clinical responsibility hai aur support trained team se coordinate hona chahiye.
 
-- **C.** Scrub nurse sterile field sambhalti hai. Airway management anesthesia provider ka clinical responsibility hai aur support trained team se coordinate hona chahiye.
+- **C.** Documentation zaroori hai, par history ka fayda tab hai jab induction se pehle plan ban sake. PACU tak delay karna risk ko address nahi karta.
 
-- **D.** Documentation zaroori hai, par history ka fayda tab hai jab induction se pehle plan ban sake. PACU tak delay karna risk ko address nahi karta.
+- **D.** Previous difficulty se airway rescue ki planning important ho jati hai. Nurse anesthetist ko inform karke available equipment aur help confirm karti hai, taaki induction ke waqt team prepared ho.
 
 **Exam clue:** Normal awake breathing ko safe intubation ka proof mat samjho.
 
@@ -66,20 +66,20 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Record the reaction after surgery to avoid delay
-- **B.** Classify the reaction as nausea and proceed
-- **C.** Inform the anesthesia and surgical team and reconcile the allergy information before administration
+- **A.** Inform the anesthesia and surgical team and reconcile the allergy information before administration
+- **B.** Record the reaction after surgery to avoid delay
+- **C.** Classify the reaction as nausea and proceed
 - **D.** Remove all antibiotic orders without informing the prescriber
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Inform the anesthesia and surgical team and reconcile the allergy information before administration**
+**Correct: A. Inform the anesthesia and surgical team and reconcile the allergy information before administration**
 
-- **A.** Reaction ki details surgery ke baad likhne se current medicine exposure ka risk nahi rukta. Team ko abhi information chahiye.
+- **A.** Allergy history mein airway symptoms severe reaction ki possibility dikhate hain. Nurse correct reaction document karke prescriber se safe medicine plan confirm karwati hai.
 
-- **B.** Facial swelling aur wheeze nausea se alag serious allergic reaction ke clues hain. Nurse bina evaluation ke reaction ko mild nahi maan sakti.
+- **B.** Reaction ki details surgery ke baad likhne se current medicine exposure ka risk nahi rukta. Team ko abhi information chahiye.
 
-- **C.** Allergy history mein airway symptoms severe reaction ki possibility dikhate hain. Nurse correct reaction document karke prescriber se safe medicine plan confirm karwati hai.
+- **C.** Facial swelling aur wheeze nausea se alag serious allergic reaction ke clues hain. Nurse bina evaluation ke reaction ko mild nahi maan sakti.
 
 - **D.** Antibiotic decision mein indication aur alternatives assess hote hain. Nurse unsafe administration rok kar team se clarify karti hai, khud se poora treatment plan cancel nahi karti.
 
@@ -97,20 +97,20 @@
 
 - **A.** Mark the check complete because the previous case was uneventful
 - **B.** Ask the surgeon to certify the anesthesia machine without inspection
-- **C.** Complete the sign-out section instead
-- **D.** Ask the anesthesia provider to complete and confirm the safety check before induction
+- **C.** Ask the anesthesia provider to complete and confirm the safety check before induction
+- **D.** Complete the sign-out section instead
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Ask the anesthesia provider to complete and confirm the safety check before induction**
+**Correct: C. Ask the anesthesia provider to complete and confirm the safety check before induction**
 
 - **A.** Pichhle case mein machine sahi chalne se next case ki readiness prove nahi hoti. Har patient ke liye applicable safety check confirm karna hota hai.
 
 - **B.** Surgeon operation plan sambhalta hai. Anesthesia equipment ki formal readiness anesthesia personnel verify karte hain.
 
-- **C.** Sign out operation ke end par hota hai. Isse induction se pehle equipment ki readiness establish nahi hoti.
+- **C.** Anesthesia machine, circuit aur medicines induction ke dauran use honge. Nurse checklist coordinator ke roop mein actual check complete hone ka confirmation leti hai.
 
-- **D.** Anesthesia machine, circuit aur medicines induction ke dauran use honge. Nurse checklist coordinator ke roop mein actual check complete hone ka confirmation leti hai.
+- **D.** Sign out operation ke end par hota hai. Isse induction se pehle equipment ki readiness establish nahi hoti.
 
 **Exam clue:** Machine aur medication check sign in ka kaam hai, previous patient ki clearance ka nahi.
 
@@ -154,19 +154,19 @@
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Exclude the new assistant from the discussion because the core team is familiar
-- **B.** Ensure everyone knows the new member's name and role before the shared safety pause
-- **C.** Ask the new assistant to read the postoperative discharge instructions instead
+- **B.** Ask the new assistant to read the postoperative discharge instructions instead
+- **C.** Ensure everyone knows the new member's name and role before the shared safety pause
 - **D.** Repeat introductions only after the patient reaches PACU
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Ensure everyone knows the new member's name and role before the shared safety pause**
+**Correct: C. Ensure everyone knows the new member's name and role before the shared safety pause**
 
 - **A.** New member ko plan aur responsibility pata honi chahiye. Exclude karne se communication gap reh sakta hai.
 
-- **B.** Jab team ek doosre ka role jaanti hai, toh emergency mein sahi person se help maangna easy hota hai. Time out mein new member ko team se introduce karna useful hai.
+- **B.** Discharge education baad mein relevant hogi. Abhi operation se pehle shared roles aur safety plan confirm karna zaroori hai.
 
-- **C.** Discharge education baad mein relevant hogi. Abhi operation se pehle shared roles aur safety plan confirm karna zaroori hai.
+- **C.** Jab team ek doosre ka role jaanti hai, toh emergency mein sahi person se help maangna easy hota hai. Time out mein new member ko team se introduce karna useful hai.
 
 - **D.** PACU mein handover important hai, lekin OR team ko incision se pehle hi ek doosre ki responsibility samajhni chahiye.
 
@@ -184,20 +184,20 @@
 
 - **A.** A silent signature from the surgeon
 - **B.** A time out after the incision when the team is less busy
-- **C.** A brief pause with active verbal confirmation by the relevant operating team before incision
-- **D.** A written note that the anesthesia provider was occupied
+- **C.** A written note that the anesthesia provider was occupied
+- **D.** A brief pause with active verbal confirmation by the relevant operating team before incision
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. A brief pause with active verbal confirmation by the relevant operating team before incision**
+**Correct: D. A brief pause with active verbal confirmation by the relevant operating team before incision**
 
 - **A.** Signature alone se shared understanding establish nahi hoti. Team ko important details ek saath confirm karni chahiye.
 
 - **B.** Incision ke baad wrong procedure ya missing preparation ko rokne ka mauka nikal sakta hai. Time out ka purpose incision se pehle safety review hai.
 
-- **C.** Team pause mein patient, operation aur essential concerns sab milkar confirm karte hain. Anesthesia provider ki participation important hai, kyunki unke paas airway aur patient stability ki information hoti hai.
+- **C.** Note useful record ho sakta hai, lekin incomplete team communication ko replace nahi karta. Nurse ko pause facilitate karna chahiye.
 
-- **D.** Note useful record ho sakta hai, lekin incomplete team communication ko replace nahi karta. Nurse ko pause facilitate karna chahiye.
+- **D.** Team pause mein patient, operation aur essential concerns sab milkar confirm karte hain. Anesthesia provider ki participation important hai, kyunki unke paas airway aur patient stability ki information hoti hai.
 
 **Exam clue:** Time out ek shared verbal pause hai, paperwork ka substitute nahi.
 
@@ -212,21 +212,21 @@
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Proceed and give the first dose only after wound closure
-- **B.** Give any available antibiotic regardless of the prescription
-- **C.** Mark prophylaxis as not applicable because the patient is afebrile
-- **D.** Flag the omission and coordinate administration and incision timing with the surgical and anesthesia team
+- **B.** Flag the omission and coordinate administration and incision timing with the surgical and anesthesia team
+- **C.** Give any available antibiotic regardless of the prescription
+- **D.** Mark prophylaxis as not applicable because the patient is afebrile
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Flag the omission and coordinate administration and incision timing with the surgical and anesthesia team**
+**Correct: B. Flag the omission and coordinate administration and incision timing with the surgical and anesthesia team**
 
 - **A.** Incision ke waqt appropriate antibiotic tissue level infection prevention mein madad karta hai. Closure ke baad dose dena planned pre-incision prophylaxis ko replace nahi karta.
 
-- **B.** Drug selection mein operation type, allergy aur local protocol matter karte hain. Random antibiotic dena medication error ho sakta hai.
+- **B.** Nurse team ko missing prescribed dose batati hai. Drug-specific timing aur local protocol ke hisaab se safe administration aur incision plan confirm kiya jata hai.
 
-- **C.** Prophylaxis ka purpose infection prevent karna hai, current fever treat karna nahi. Afebrile hone se prescribed prophylaxis automatically unnecessary nahi hoti.
+- **C.** Drug selection mein operation type, allergy aur local protocol matter karte hain. Random antibiotic dena medication error ho sakta hai.
 
-- **D.** Nurse team ko missing prescribed dose batati hai. Drug-specific timing aur local protocol ke hisaab se safe administration aur incision plan confirm kiya jata hai.
+- **D.** Prophylaxis ka purpose infection prevent karna hai, current fever treat karna nahi. Afebrile hone se prescribed prophylaxis automatically unnecessary nahi hoti.
 
 **Exam clue:** Prescribed prophylaxis ka timing pre-incision review mein check karo, har drug ka infusion time same nahi hota.
 
@@ -240,22 +240,22 @@
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Resolve the imaging availability problem with the team before proceeding
-- **B.** Display any previous image belonging to the same patient
-- **C.** Record that the imaging is displayed because the report was read earlier
-- **D.** Ask recovery staff to obtain the images after the procedure
+- **A.** Display any previous image belonging to the same patient
+- **B.** Record that the imaging is displayed because the report was read earlier
+- **C.** Ask recovery staff to obtain the images after the procedure
+- **D.** Resolve the imaging availability problem with the team before proceeding
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Resolve the imaging availability problem with the team before proceeding**
+**Correct: D. Resolve the imaging availability problem with the team before proceeding**
 
-- **A.** Localization image operative planning mein essential hai toh uski absence se error ka risk badhta hai. Nurse issue ko raise karke team se appropriate images available hone ka confirmation leti hai.
+- **A.** Purani image ka patient sahi hone par bhi procedure ke liye relevant hona zaroori nahi. Galat study use karne se localization mistake ho sakti hai.
 
-- **B.** Purani image ka patient sahi hone par bhi procedure ke liye relevant hona zaroori nahi. Galat study use karne se localization mistake ho sakti hai.
+- **B.** Report read karna aur required image available hona alag cheezein hain. Nurse check ko sachchi current condition ke hisaab se record karti hai.
 
-- **C.** Report read karna aur required image available hona alag cheezein hain. Nurse check ko sachchi current condition ke hisaab se record karti hai.
+- **C.** PACU staff baad mein recovery monitor karte hain. Required intraoperative image surgery ke waqt hi useful hoti hai.
 
-- **D.** PACU staff baad mein recovery monitor karte hain. Required intraoperative image surgery ke waqt hi useful hoti hai.
+- **D.** Localization image operative planning mein essential hai toh uski absence se error ka risk badhta hai. Nurse issue ko raise karke team se appropriate images available hone ka confirmation leti hai.
 
 **Exam clue:** Essential imaging time out mein applicable hone par available honi chahiye.
 
@@ -298,20 +298,20 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Accept the tray if the instruments appear clean
-- **B.** Cover the tray with a sterile drape and proceed
-- **C.** Report the concern and obtain verified sterile instruments before use
+- **A.** Report the concern and obtain verified sterile instruments before use
+- **B.** Accept the tray if the instruments appear clean
+- **C.** Cover the tray with a sterile drape and proceed
 - **D.** Document the indicator concern after the operation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Report the concern and obtain verified sterile instruments before use**
+**Correct: A. Report the concern and obtain verified sterile instruments before use**
 
-- **A.** Visible cleanliness se sterility prove nahi hoti. Indicator aur reprocessing record ki uncertainty ko resolve karna chahiye.
+- **A.** Sterilization status doubtful ho toh patient ko contaminated instrument ka risk ho sakta hai. Nurse concern share karke facility policy ke mutabik tray replace ya verify karwati hai.
 
-- **B.** Drape lagane se uncertain instruments sterile nahi ban jate. Unki readiness verify ya safe replacement karna hoga.
+- **B.** Visible cleanliness se sterility prove nahi hoti. Indicator aur reprocessing record ki uncertainty ko resolve karna chahiye.
 
-- **C.** Sterilization status doubtful ho toh patient ko contaminated instrument ka risk ho sakta hai. Nurse concern share karke facility policy ke mutabik tray replace ya verify karwati hai.
+- **C.** Drape lagane se uncertain instruments sterile nahi ban jate. Unki readiness verify ya safe replacement karna hoga.
 
 - **D.** Late documentation patient ke current exposure ko prevent nahi karti. Concern ko instrument use se pehle address karna zaroori hai.
 
@@ -329,20 +329,20 @@
 
 - **A.** Record the count as correct because the surgeon did not see a retained sponge
 - **B.** Send the patient to PACU and reconcile the count later
-- **C.** Change the initial recorded count to match the final count
-- **D.** Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol
+- **C.** Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol
+- **D.** Change the initial recorded count to match the final count
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol**
+**Correct: C. Alert the team immediately and initiate count reconciliation and escalation under the retained-item protocol**
 
 - **A.** Visual impression count discrepancy ko resolve nahi karta. Retained sponge ka risk tab bhi reh sakta hai.
 
 - **B.** PACU transfer se pehle discrepancy address karna chahiye. Delay hone se possible retained item dhoondhna aur difficult ho sakta hai.
 
-- **C.** Initial record badalne se real missing item ka pata nahi chalega. Documentation accurate rehni chahiye.
+- **C.** Count kam milna potential retained surgical item ka warning hai. Team recount, search aur indicated imaging ko local protocol ke hisaab se coordinate karti hai, patient stability ko dhyan mein rakhkar.
 
-- **D.** Count kam milna potential retained surgical item ka warning hai. Team recount, search aur indicated imaging ko local protocol ke hisaab se coordinate karti hai, patient stability ko dhyan mein rakhkar.
+- **D.** Initial record badalne se real missing item ka pata nahi chalega. Documentation accurate rehni chahiye.
 
 **Exam clue:** Incorrect count ko correct document mat karo, discrepancy ko turant escalate karo.
 
@@ -356,20 +356,20 @@
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Clarify the specimen identity and site with the operating team and verify accurate labels
-- **B.** Send the container with the other specimen's site label
-- **C.** Ask the laboratory to infer the site from tissue appearance
+- **A.** Send the container with the other specimen's site label
+- **B.** Ask the laboratory to infer the site from tissue appearance
+- **C.** Clarify the specimen identity and site with the operating team and verify accurate labels
 - **D.** Remove patient identifiers from both containers to avoid confusion
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Clarify the specimen identity and site with the operating team and verify accurate labels**
+**Correct: C. Clarify the specimen identity and site with the operating team and verify accurate labels**
 
-- **A.** Same patient se multiple tissue samples aaye hain toh har sample ka source clinically important ho sakta hai. Nurse surgeon ke saath identity aur site reconcile karke correct label verify karti hai.
+- **A.** Doosre sample ka site assume karne se pathology result galat location se associate ho sakta hai. Nurse ko actual source confirm karna chahiye.
 
-- **B.** Doosre sample ka site assume karne se pathology result galat location se associate ho sakta hai. Nurse ko actual source confirm karna chahiye.
+- **B.** Laboratory appearance se exact operative location hamesha determine nahi kar sakti. Specimen collection team se reliable information milni chahiye.
 
-- **C.** Laboratory appearance se exact operative location hamesha determine nahi kar sakti. Specimen collection team se reliable information milni chahiye.
+- **C.** Same patient se multiple tissue samples aaye hain toh har sample ka source clinically important ho sakta hai. Nurse surgeon ke saath identity aur site reconcile karke correct label verify karti hai.
 
 - **D.** Identifiers hatane se traceability khatam hogi. Correct patient aur specimen source dono ko verify karna zaroori hai.
 
@@ -386,21 +386,21 @@
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Only the originally scheduled procedure
-- **B.** The actual operation performed, including the conversion
-- **C.** Only the duration of anesthesia
-- **D.** Only the billing code entered before admission
+- **B.** Only the duration of anesthesia
+- **C.** Only the billing code entered before admission
+- **D.** The actual operation performed, including the conversion
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. The actual operation performed, including the conversion**
+**Correct: D. The actual operation performed, including the conversion**
 
 - **A.** Schedule initial plan dikhata hai. Jab actual operation change ho gaya hai toh recovery team ko performed procedure pata hona chahiye.
 
-- **B.** Conversion se wound, pain aur recovery requirements change ho sakti hain. Nurse sign out mein actual operation confirm karke accurate handover aur record ensure karti hai.
+- **B.** Anesthesia duration useful hai lekin actual surgery ko describe nahi karti. Dono types ki information recovery planning mein alag kaam karti hain.
 
-- **C.** Anesthesia duration useful hai lekin actual surgery ko describe nahi karti. Dono types ki information recovery planning mein alag kaam karti hain.
+- **C.** Billing code initial administrative entry ho sakti hai. Clinical record mein actual performed operation verify karna zaroori hai.
 
-- **D.** Billing code initial administrative entry ho sakti hai. Clinical record mein actual performed operation verify karna zaroori hai.
+- **D.** Conversion se wound, pain aur recovery requirements change ho sakti hain. Nurse sign out mein actual operation confirm karke accurate handover aur record ensure karti hai.
 
 **Exam clue:** Sign out planned procedure nahi, actually performed procedure confirm karta hai.
 
@@ -414,20 +414,20 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Return the faulty unit to routine service because the surgery was completed
-- **B.** Mention the malfunction only if another patient is injured
-- **C.** Communicate and document the malfunction and arrange removal from use and follow-up according to policy
+- **A.** Communicate and document the malfunction and arrange removal from use and follow-up according to policy
+- **B.** Return the faulty unit to routine service because the surgery was completed
+- **C.** Mention the malfunction only if another patient is injured
 - **D.** Ask the patient to report the malfunction after discharge
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Communicate and document the malfunction and arrange removal from use and follow-up according to policy**
+**Correct: A. Communicate and document the malfunction and arrange removal from use and follow-up according to policy**
 
-- **A.** Surgery complete hone se equipment defect khatam nahi hua. Next patient ko wahi failure face karna pad sakta hai.
+- **A.** Sign out mein equipment problems review hoti hain. Faulty equipment ko local policy ke mutabik isolate aur report karne se next case mein repeat failure ka risk kam hota hai.
 
-- **B.** Near miss ya equipment issue ko pehle hi report karna prevention mein madad karta hai. Injury ka wait karna unsafe hai.
+- **B.** Surgery complete hone se equipment defect khatam nahi hua. Next patient ko wahi failure face karna pad sakta hai.
 
-- **C.** Sign out mein equipment problems review hoti hain. Faulty equipment ko local policy ke mutabik isolate aur report karne se next case mein repeat failure ka risk kam hota hai.
+- **C.** Near miss ya equipment issue ko pehle hi report karna prevention mein madad karta hai. Injury ka wait karna unsafe hai.
 
 - **D.** Patient anesthesia mein equipment functioning assess nahi kar sakta. Operating team ko directly incident address karna chahiye.
 
@@ -444,21 +444,21 @@
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Omit the concern because surgical counts are normal
-- **B.** Give the recovery team only the standard routine observation schedule
-- **C.** Delay communication until the first postoperative hemoglobin result
-- **D.** Ensure the bleeding concern, agreed monitoring and escalation plan are included in the recovery handover
+- **B.** Ensure the bleeding concern, agreed monitoring and escalation plan are included in the recovery handover
+- **C.** Give the recovery team only the standard routine observation schedule
+- **D.** Delay communication until the first postoperative hemoglobin result
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Ensure the bleeding concern, agreed monitoring and escalation plan are included in the recovery handover**
+**Correct: B. Ensure the bleeding concern, agreed monitoring and escalation plan are included in the recovery handover**
 
 - **A.** Correct count retained-item risk se related hai. Bleeding ka clinical risk alag hai aur count normal hone se exclude nahi hota.
 
-- **B.** Routine schedule individualized risk ke liye sufficient nahi ho sakta. Recovery team ko actual concern aur required observation plan chahiye.
+- **B.** High-risk patient mein PACU nurse ko expected problems pehle se pata honi chahiye. Sign out discussion se monitoring aur escalation ki responsibilities clear hoti hain.
 
-- **C.** Lab result aane se pehle bhi bleeding ke clinical signs develop ho sakte hain. Risk information turant handover mein deni chahiye.
+- **C.** Routine schedule individualized risk ke liye sufficient nahi ho sakta. Recovery team ko actual concern aur required observation plan chahiye.
 
-- **D.** High-risk patient mein PACU nurse ko expected problems pehle se pata honi chahiye. Sign out discussion se monitoring aur escalation ki responsibilities clear hoti hain.
+- **D.** Lab result aane se pehle bhi bleeding ke clinical signs develop ho sakte hain. Risk information turant handover mein deni chahiye.
 
 **Exam clue:** Normal count aur postoperative stability alag safety domains hain.
 
@@ -472,18 +472,18 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** Pilot the checklist with one team, review barriers and then expand
-- **B.** Remove all difficult items before the first trial
+- **A.** Remove all difficult items before the first trial
+- **B.** Pilot the checklist with one team, review barriers and then expand
 - **C.** Measure success only by the number of printed forms
 - **D.** Require all teams to change simultaneously without feedback
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Pilot the checklist with one team, review barriers and then expand**
+**Correct: B. Pilot the checklist with one team, review barriers and then expand**
 
-- **A.** Chhote pilot mein team practical problems identify kar sakti hai aur process ko local workflow ke saath fit kar sakti hai. Feedback ke baad wider rollout zyada manageable hota hai.
+- **A.** Difficult item bhi important safety risk ko target kar sakta hai. WHO local adaptation allow karta hai lekin important checks remove karne se pehle alternatives explore karne chahiye.
 
-- **B.** Difficult item bhi important safety risk ko target kar sakta hai. WHO local adaptation allow karta hai lekin important checks remove karne se pehle alternatives explore karne chahiye.
+- **B.** Chhote pilot mein team practical problems identify kar sakti hai aur process ko local workflow ke saath fit kar sakti hai. Feedback ke baad wider rollout zyada manageable hota hai.
 
 - **C.** Printed forms process use ya patient safety confirm nahi karte. Actual execution aur meaningful measures bhi assess hone chahiye.
 
@@ -502,21 +502,21 @@
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
 - **A.** Continue counting filed forms because documentation proves communication
-- **B.** Assess actual team participation and completion of safety checks alongside documentation
-- **C.** Remove the checklist because verbal communication is difficult to measure
-- **D.** Track only postoperative length of stay
+- **B.** Remove the checklist because verbal communication is difficult to measure
+- **C.** Track only postoperative length of stay
+- **D.** Assess actual team participation and completion of safety checks alongside documentation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Assess actual team participation and completion of safety checks alongside documentation**
+**Correct: D. Assess actual team participation and completion of safety checks alongside documentation**
 
 - **A.** Form filed hona useful documentation hai, lekin actual verbal communication ka proof nahi. Direct observation mein gap mila hai toh process measure bhi chahiye.
 
-- **B.** Checklist ka goal real safety actions aur shared communication hai. Nurse manager actual pause, relevant participants aur critical checks ki completion assess karke meaningful improvement measure kar sakta hai.
+- **B.** Measurement difficult hone se safety process unnecessary nahi ho jata. Team observation aur feedback se better implementation possible hai.
 
-- **C.** Measurement difficult hone se safety process unnecessary nahi ho jata. Team observation aur feedback se better implementation possible hai.
+- **C.** Length of stay bahut factors se affect hoti hai. Isse time-out participation ki specific problem directly identify nahi hoti.
 
-- **D.** Length of stay bahut factors se affect hoti hai. Isse time-out participation ki specific problem directly identify nahi hoti.
+- **D.** Checklist ka goal real safety actions aur shared communication hai. Nurse manager actual pause, relevant participants aur critical checks ki completion assess karke meaningful improvement measure kar sakta hai.
 
 **Exam clue:** Form completion aur actual safety behavior ko alag assess karo.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** The coordinator independently determines the surgical and anesthesia plan
-- **B.** The coordinator alone performs every safety action without consulting other team members
-- **C.** The coordinator may sign the checklist without confirming the individual steps
-- **D.** The coordinator leads the checks and ensures unresolved safety concerns are addressed before progression
+- **A.** The coordinator leads the checks and ensures unresolved safety concerns are addressed before progression
+- **B.** The coordinator independently determines the surgical and anesthesia plan
+- **C.** The coordinator alone performs every safety action without consulting other team members
+- **D.** The coordinator may sign the checklist without confirming the individual steps
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. The coordinator leads the checks and ensures unresolved safety concerns are addressed before progression**
+**Correct: A. The coordinator leads the checks and ensures unresolved safety concerns are addressed before progression**
 
-- **A.** Coordinator checklist process lead karti hai, lekin surgical aur anesthesia clinical decisions relevant qualified team members lete hain. Role collaboration ka hai.
+- **A.** Ek designated person process ko organized rakhta hai. Circulating nurse team ke saath checks confirm karke missing action raise karti hai, taaki applicable safety concerns address ho sakein.
 
-- **B.** Safety tasks different team members ki responsibilities hoti hain. Coordinator unki actual completion confirm karti hai, sab roles khud replace nahi karti.
+- **B.** Coordinator checklist process lead karti hai, lekin surgical aur anesthesia clinical decisions relevant qualified team members lete hain. Role collaboration ka hai.
 
-- **C.** Signature alone se omitted steps identify nahi hote. Coordinator ko appropriate team members ke saath confirmation karna chahiye.
+- **C.** Safety tasks different team members ki responsibilities hoti hain. Coordinator unki actual completion confirm karti hai, sab roles khud replace nahi karti.
 
-- **D.** Ek designated person process ko organized rakhta hai. Circulating nurse team ke saath checks confirm karke missing action raise karti hai, taaki applicable safety concerns address ho sakein.
+- **D.** Signature alone se omitted steps identify nahi hote. Coordinator ko appropriate team members ke saath confirmation karna chahiye.
 
 **Exam clue:** Checklist coordinator process ka leader hai, poori clinical team ka replacement nahi.
 
