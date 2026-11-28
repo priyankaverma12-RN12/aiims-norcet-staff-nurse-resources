@@ -79,7 +79,7 @@ function decorateQuestionDifficulty(target){
   let text;
   while((text=walker.nextNode())){
    if(text.parentElement.closest('a,code,.difficulty-label'))continue;
-   const match=/(?:[🟢🟡🔴]\s*)?\b(Easy|Medium|Difficult|Hard)\b/i.exec(text.nodeValue);
+   const match=/(?:[🟢🟡🔴]\s*)?\b(Easy|Medium|Difficult|Hard)\b/iu.exec(text.nodeValue);
    if(!match)continue;
    const level=match[1].toLowerCase(),badge=node('span',undefined,'difficulty-label');
    badge.dataset.level=level==='hard'?'difficult':level;

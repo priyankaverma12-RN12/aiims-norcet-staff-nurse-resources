@@ -52,7 +52,7 @@ with sync_playwright() as p:
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
     for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-        response=api.get(urljoin(base,filename)+"?v="+("11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
+        response=api.get(urljoin(base,filename)+"?v="+("11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
         print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
@@ -69,7 +69,7 @@ with sync_playwright() as p:
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
         for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-            version="11.8" if filename in ("progress.js","study-ui.js") else "11.9"
+            version="11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9"
             assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
@@ -539,6 +539,8 @@ with sync_playwright() as p:
         other.locator("#marks .saved-practice-link").first.click()
         expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
         expect(other.locator(".question-stem").first).to_have_text(stem)
+        assert other.locator(".question-stem").first.text_content()==stem
+        assert other.locator(".question-stem").first.evaluate("""e=>!Array.from(e.textContent).some(c=>{const n=c.codePointAt(0);return n===0xfffd||(n>=0xd800&&n<=0xdfff)})""")
         expect(other.locator("button[data-bookmark-stem]").first).to_have_attribute("data-bookmark-stem",bookmark_stem)
         expect(other.get_by_role("button",name="Check answer")).to_be_disabled()
         other.locator("button[data-bookmark-stem]").first.click()
