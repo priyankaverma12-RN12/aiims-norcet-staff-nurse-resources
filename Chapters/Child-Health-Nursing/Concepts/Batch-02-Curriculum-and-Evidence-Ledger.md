@@ -49,4 +49,4 @@ Author checked current main, PR45 and review comment, rule/audit files at curren
 
 Author replaced draft 02D Q17 generic antibiotic task with source-specific bronchiolitis progression counselling; preserved answer position and 20-item count. This reduces overlap with 02C antibiotic task. Remaining cross-topic semantic and distractor plausibility review is required.
 
-Six SVGs cumulatively (three preserved + three new), exact file readbacks; render and website integration not certified. No new live MCQ, mock or PYQ counts, no learner history edits, no automation modifications.
+Six SVGs cumulatively (three preserved + three new), exact file readbacks. Batch 03 verified all six source renders and corrected IMNCI and airway diagrams. Website integration not certified. See [Batch 03 corrective audit and evidence](Batch-03-Corrective-Audit-and-Evidence.md). No new live MCQ, mock or PYQ counts, no learner history edits, no automation modifications.
