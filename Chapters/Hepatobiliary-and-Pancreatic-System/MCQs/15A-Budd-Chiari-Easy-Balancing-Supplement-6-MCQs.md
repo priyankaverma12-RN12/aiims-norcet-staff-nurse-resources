@@ -81,53 +81,53 @@
 
 </details>
 
-### Q4. Which tissue covering may be stretched when a congested liver enlarges in Budd-Chiari syndrome?
+### Q4. Which clinical time-course term describes Budd-Chiari syndrome developing gradually over several months?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Hepatic capsule
-- **B.** Pleural membrane of the lung alone
-- **C.** Renal capsule
-- **D.** Pericardium
+- **A.** Chronic Budd-Chiari syndrome
+- **B.** Hyperacute allergic reaction
+- **C.** Transient biliary colic
+- **D.** Acute appendicitis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Hepatic capsule**
+**Correct answer: A. Chronic Budd-Chiari syndrome**
 
-**A. Kyun sahi hai:** Liver enlargement capsule ko stretch kar sakti hai. Isse right upper abdominal pain ho sakta hai.
+**A. Kyun sahi hai:** Chronic presentation gradually develop ho sakti hai aur initially mild symptoms ho sakte hain. Ongoing outflow obstruction fibrosis aur portal complications cause kar sakti hai.
 
-**B. Kyun galat hai:** Pleura lung ko surround karti hai. Liver covering hepatic capsule hai.
+**B. Kyun galat hai:** Hyperacute allergy rapid immune reaction hai, months-long hepatic obstruction nahi.
 
-**C. Kyun galat hai:** Renal capsule kidney ko cover karti hai.
+**C. Kyun galat hai:** Biliary colic gallstone-related pain episode hai, hepatic venous obstruction ka time course nahi.
 
-**D. Kyun galat hai:** Pericardium heart ko surround karta hai.
+**D. Kyun galat hai:** Appendicitis appendix inflammation hai aur typically short-duration presentation hoti hai.
 
-**Exam clue:** Liver capsule stretch can cause pain.
+**Exam clue:** Chronic disease develops gradually over time.
 
 </details>
 
-### Q5. What does the abbreviation IVC mean in a Budd-Chiari imaging report?
+### Q5. Which investigation uses contrast to depict the hepatic venous lumen directly during selected invasive evaluation of Budd-Chiari syndrome?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Intravenous calcium
-- **B.** Interventricular chamber
-- **C.** Inferior vena cava
-- **D.** Internal venous cannula
+- **A.** Electroencephalography
+- **B.** Spirometry
+- **C.** Hepatic venography
+- **D.** Electromyography
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Inferior vena cava**
+**Correct answer: C. Hepatic venography**
 
-**A. Kyun galat hai:** Calcium administration ka ye vascular anatomical abbreviation nahi hai.
+**A. Kyun galat hai:** EEG brain electrical signals record karta hai, hepatic venous lumen nahi.
 
-**B. Kyun galat hai:** Heart anatomy mein is term se IVC define nahi hoti.
+**B. Kyun galat hai:** Spirometry pulmonary function test hai.
 
-**C. Kyun sahi hai:** IVC major systemic vein hai jo lower body aur hepatic venous drainage se blood heart tak le jaati hai.
+**C. Kyun sahi hai:** Venography contrast imaging se hepatic veins ke lumen aur obstruction ki anatomy define karne mein help kar sakti hai. Invasive test specialist plan ke under hota hai.
 
-**D. Kyun galat hai:** Cannula catheter device hai, IVC anatomical vessel hai.
+**D. Kyun galat hai:** EMG muscles aur nerves ki electrical function assess karta hai, venous anatomy nahi.
 
-**Exam clue:** IVC identifies a major venous structure.
+**Exam clue:** Venography depicts veins.
 
 </details>
 
