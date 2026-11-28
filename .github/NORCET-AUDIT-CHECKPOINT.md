@@ -1,8 +1,9 @@
 # Job 3 — deep audit checkpoint
 
-State: FREE
-Owner: none
-Scope: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job3-grandmock-20261128-0306
+Scope: Respiratory Grand Mock Q16–50 only, audit learning log and own checkpoint. No chapter navigation, other jobs or PR edits.
+Claimed UTC: 2026-11-28T03:05:47Z
+Expiry UTC: 2026-11-28T03:35:47Z
 
 Latest: Respiratory-System-Grand-Mock-50.md Q1–15 audited, corrected and exact remote readback passed, commit 46ac4776e10e72fda5a9450bdde2ba8215629820 blob dc972ace7cfac42c301c70df8de964f44a8463d6. All 15 stems, 60 English options and keys BADCCBADDCBAADC unchanged, 60 individual Roman Hinglish option explanations, 15 priorities, seven difficulty regrades and three truncated calculation clues corrected. All 50 hidden answer blocks preserved, Q16–50 byte-identical. One topic-level dead-space MCQ video mapping (Q4), 14 specific video gaps, no exact playback. No newly authenticated historical item or official key. HPRCA May final-key notice and RRB recall lead indexed, direct RRB question retrieval failed. Learning log commit 2600d4ae3288899ad76bc4fdec15b99ea73eaa09 exact readback. Cumulative 439 question-level clinical/rationale reviews and eight prior source-traced adaptations. No new original or mock-exclusive credit. All five formal claims, identified manual scopes, recent commits and PR8/12 changed-file lists checked. Job4 Group30 metadata and Job5 Group26 draft staging explicitly disjoint, preserved. Both skills and other mandatory files fetched with unchanged prior blob identities; applicable rules reviewed, fresh complete line-by-line reread not certified. All schedules untouched. Next: Q16–50 of this same grand mock, then Medical-Surgical-Test-01-Imported-60.md, three compiled chapter mocks, remaining PYQ evidence, concept/revision and coverage gaps. Comprehensive semantic audit, full syllabus mapping, official exam keys and rendered UI verification remain pending. No chapter certified complete. Own claim released.
