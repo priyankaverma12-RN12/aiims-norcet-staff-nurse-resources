@@ -63,3 +63,5 @@
 - [Group 09A urinary elimination and continence](09A-Urinary-Elimination-Reported-Evidence.md): official DSSSB Nursing Officer 28 August 2019 shift 3 Q161 (ID 9662317187) PDF text retrieved, screenshot and official key pending. One independent mechanism-based adaptation with four Hinglish rationales, uncounted. NORCET 10 Mains and SGPGI indexed leads remain unverified. Counted historical inventory remains 34.
 
 - [Group 09B catheter insertion and removal](09B-Catheter-Insertion-Reported-Evidence.md): SCTIMST official 1 September 2019 Set A Q29 and Q34 extracted text retrieved, screenshot/key pending. One independently worded position exercise remains uncounted. RRB 2026 shift 2 related hand hygiene lead indexed only. Counted historical inventory stays 34.
+
+- [Group 09C catheter maintenance](09C-Catheter-Maintenance-Reported-Evidence.md): retrieved three-way catheter report overlaps existing IPC learning task. No new historical adaptation counted. HPRCA official listing indexed, item/key unverified.
