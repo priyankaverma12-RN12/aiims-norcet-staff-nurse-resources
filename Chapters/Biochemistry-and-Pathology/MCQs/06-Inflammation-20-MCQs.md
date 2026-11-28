@@ -8,7 +8,7 @@
 
 ### Q1. A biopsy from an acutely inflamed venule shows leukocytes briefly tethering and rolling along the endothelial surface. Which adhesion family mediates this initial contact?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Integrins
 - **B.** Selectins
@@ -19,10 +19,16 @@
 
 **Correct: B. Selectins**
 
-- **A.** Integrins activate hone ke baad firm adhesion banate hain, rolling ka primary mechanism nahi hote.
-- **B.** Selectins weak aur transient binding banate hain, isliye leukocyte flow ke saath roll kar sakta hai.
-- **C.** Cadherins tissue cells ke junctions mein important hain, venular rolling ka classic receptor nahi hain.
-- **D.** Collagen extracellular scaffold hai, endothelial rolling receptor nahi hai.
+- **A.** Integrins activated leukocyte ko endothelium par strongly attach karte hain. Rolling ke liye pehle weak reversible binding chahiye.
+- **B.** Selectins ke transient carbohydrate-ligand bonds flow ke saath baar baar bante aur toot te hain. Isliye leukocyte endothelial surface par roll karta hai.
+- **C.** Cadherins cells ke stable junctions mein help karte hain. Ye selectin-mediated rolling ka principal receptor family nahi hai.
+- **D.** Collagen extracellular support protein hai. Ye activated endothelium par rolling ka main adhesion receptor nahi hai.
+
+**Exam clue:** Rolling weak reversible binding
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -30,8 +36,8 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Reduced histamine release
-- **B.** Excess fibrinogen
+- **A.** Loss of endothelial selectin activity
+- **B.** Loss of platelet fibrinogen binding
 - **C.** Reduced erythrocyte deformability
 - **D.** Leukocyte beta-2 integrin dysfunction
 
@@ -39,16 +45,22 @@
 
 **Correct: D. Leukocyte beta-2 integrin dysfunction**
 
-- **A.** Histamine permeability badhata hai, par integrin-mediated arrest ko directly execute nahi karta.
-- **B.** Fibrinogen clot ka precursor hai, is pattern ka primary adhesion defect nahi hai.
-- **C.** RBC ki flexibility microcirculation ko affect karti hai, leukocyte receptor binding ka replacement nahi hai.
-- **D.** Beta-2 integrins ICAM jaise endothelial ligands se judkar firm arrest karte hain. Inki dysfunction mein rolling ke baad arrest fail ho sakta hai.
+- **A.** Selectin defect se initial tethering aur rolling disturb ho sakti hai. Yahan rolling preserved hai, isliye later adhesion defect socho.
+- **B.** Platelet fibrinogen binding platelet aggregation se related hai. Neutrophil arrest ka principal mechanism ye nahi hai.
+- **C.** RBC deformability microcirculation affect kar sakti hai, lekin leukocyte receptor aur endothelial ligand ki firm binding ko replace nahi karti.
+- **D.** Activated beta-2 integrins ICAM jaise endothelial ligands se bind karte hain. Is step mein dysfunction ho toh rolling ke baad stable arrest fail ho sakta hai.
+
+**Exam clue:** Firm adhesion beta-2 integrin
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
 ### Q3. A neutrophil has crossed the venular endothelium but cannot orient toward the site of bacterial injury. Which function is impaired?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Chemotaxis
 - **B.** Margination
@@ -59,50 +71,68 @@
 
 **Correct: A. Chemotaxis**
 
-- **A.** Chemotaxis mein cell chemical concentration gradient ko follow karta hai. Vessel se bahar aane ke baad direction isi se milti hai.
-- **B.** Margination mein leukocyte blood stream ke edge par aata hai, tissue mein directional migration nahi karta.
-- **C.** Opsonization microbe ko recognition ke liye coat karti hai, cell movement ka naam nahi hai.
-- **D.** Vasoconstriction vessel ka diameter kam karti hai, neutrophil ko gradient ke along guide nahi karti.
+- **A.** Chemotaxis mein leukocyte chemical gradient sense karke injury ki taraf move karta hai. Endothelium cross karne ke baad direction milna isi process ka kaam hai.
+- **B.** Margination blood vessel ke andar leukocytes ko vessel wall ke paas laati hai. Tissue ke andar targeted movement ko ye explain nahi karti.
+- **C.** Opsonization microbe ko phagocyte recognition ke liye coat karti hai. Directional migration isse alag process hai.
+- **D.** Vasoconstriction vessel ka diameter kam karti hai. Neutrophil ko chemical gradient ki direction nahi batati.
+
+**Exam clue:** Gradient-directed movement
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q4. A sterile inflammatory blister contains protein-rich fluid. Which vascular event best accounts for the protein content?
+### Q4. An inflammatory exudate remains fibrin-rich on a serosal surface. Which outcome is possible if the fibrin is not adequately removed?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Reduced plasma oncotic pressure alone
-- **B.** Increased erythropoiesis
-- **C.** Increased endothelial permeability
-- **D.** Isolated lymphocyte proliferation
+- **A.** Immediate regeneration of the entire serosa in every case
+- **B.** Conversion into a pure hydrostatic transudate
+- **C.** Organization into fibrous adhesions
+- **D.** Complete prevention of fibroblast recruitment
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Increased endothelial permeability**
+**Correct: C. Organization into fibrous adhesions**
 
-- **A.** Low oncotic pressure edema bana sakta hai, lekin aam taur par protein-poor transudate hota hai.
-- **B.** RBC production bone marrow mein hoti hai aur blister protein content ko directly explain nahi karti.
-- **C.** Endothelial barrier leak hone par plasma proteins tissue space mein nikalte hain. Isi wajah se inflammatory exudate protein-rich hota hai.
-- **D.** Lymphocyte proliferation immune response ka part ho sakti hai, lekin plasma protein leak ka direct event nahi hai.
+- **A.** Complete regeneration possible ho sakti hai, lekin persistent fibrin mein organization bhi ho sakta hai. Har case mein restoration guarantee nahi hai.
+- **B.** Transudate pressure ya oncotic imbalance se banta hai. Persistent fibrin-rich exudate automatically transudate nahi ban jaata.
+- **C.** Fibrin clear na ho toh fibroblasts aur vessels usme grow kar sakte hain. Collagen deposition ke baad fibrous adhesion develop ho sakti hai.
+- **D.** Persistent fibrin repair cells ke liye scaffold ban sakta hai. Fibroblast recruitment ko universally block karna iska usual effect nahi hai.
+
+**Exam clue:** Persistent fibrin can organize
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q5. A patient's pleural fluid is protein-poor in the setting of uncomplicated hydrostatic congestion. Which description best fits the mechanism?
+### Q5. A surface burn produces a shallow blister containing clear, relatively cell-poor fluid. Which morphological pattern of acute inflammation is most consistent?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Purulent exudation
+- **A.** Suppurative inflammation
 - **B.** Fibrinous inflammation
-- **C.** Transudation across a relatively intact barrier
+- **C.** Serous inflammation
 - **D.** Granulomatous inflammation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Transudation across a relatively intact barrier**
+**Correct: C. Serous inflammation**
 
-- **A.** Purulent exudate mein neutrophils aur debris hote hain, jo uncomplicated pressure-driven fluid ka pattern nahi hai.
-- **B.** Fibrinous reaction mein fibrinogen leak hokar fibrin deposit banata hai, jo protein-poor fluid se match nahi karta.
-- **C.** Hydrostatic pressure fluid ko bahar push karta hai jab barrier relatively intact ho. Isliye fluid mein comparatively kam protein hota hai.
-- **D.** Granuloma organized macrophage collection hai, hydrostatic fluid formation ka term nahi hai.
+- **A.** Suppurative inflammation mein pus aur neutrophils prominent hote hain. Clear cell-poor blister fluid is pattern se match nahi karta.
+- **B.** Fibrinous inflammation mein fibrin deposition prominent hota hai. Thin clear fluid alone fibrin-rich surface layer nahi dikhata.
+- **C.** Serous inflammation mein relatively watery aur cell-poor fluid accumulate hota hai. Superficial burn blister iska classic example hai.
+- **D.** Granulomatous inflammation mein macrophages organized aggregates banate hain. Ye simple clear blister ka morphology nahi hai.
+
+**Exam clue:** Clear watery blister
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -110,21 +140,27 @@
 
 ### Q6. Within minutes of a mast-cell mediated inflammatory response, which mediator commonly promotes transient venular leakage?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Histamine
 - **B.** Interferon gamma
-- **C.** Erythropoietin
-- **D.** Thrombopoietin
+- **C.** Interleukin-2
+- **D.** Erythropoietin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Histamine**
 
-- **A.** Mast cells stored histamine release kar sakte hain. Yeh endothelial gaps ke through early fluid leakage badhata hai.
-- **B.** Interferon gamma macrophage activation mein important hai, immediate stored vasoactive amine nahi hai.
-- **C.** Erythropoietin RBC production stimulate karta hai, acute venular gap formation ka typical mediator nahi hai.
-- **D.** Thrombopoietin megakaryocyte development regulate karta hai, mast-cell leakage signal nahi hai.
+- **A.** Mast cells mein preformed histamine stored hota hai. Release ke baad postcapillary venules ki permeability rapidly badh sakti hai.
+- **B.** IFN-gamma macrophage activation mein important hai. Immediate stored vasoactive amine ka role histamine karta hai.
+- **C.** IL-2 lymphocyte proliferation support karta hai. Minutes mein mast-cell histamine jaisi direct leakage iska classic effect nahi hai.
+- **D.** Erythropoietin marrow mein red cell production stimulate karta hai. Early inflammatory venular leakage ka main mediator nahi hai.
+
+**Exam clue:** Preformed mast-cell mediator
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -132,19 +168,25 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Albumin
-- **B.** Transferrin
-- **C.** C3b
+- **A.** Prostaglandin E2
+- **B.** Histamine
+- **C.** Leukotriene B4
 - **D.** Bradykinin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Bradykinin**
 
-- **A.** Albumin plasma oncotic pressure maintain karta hai, inflammatory pain mediator nahi hai.
-- **B.** Transferrin iron transport karta hai, nociceptor activation ka classic signal nahi hai.
-- **C.** C3b microbe ko opsonize karta hai, direct pain generation ka principal example nahi hai.
-- **D.** Bradykinin sensory nerve endings ko stimulate karke pain produce kar sakta hai. Iska vascular effect bhi hota hai.
+- **A.** PGE2 nociceptors ko sensitise karke pain badha sakta hai. Direct nociceptor stimulation ka classic kinin bradykinin hai.
+- **B.** Histamine itch aur vascular leakage mein important hai. Is question mein direct painful kinin effect poocha hai.
+- **C.** LTB4 neutrophil recruitment aur activation mein help karta hai. Direct nociceptor activation ka classic mediator nahi hai.
+- **D.** Bradykinin sensory nerve endings ko stimulate kar sakta hai. PGE2 sensitisation ke saath milkar inflammatory pain aur badh sakta hai.
+
+**Exam clue:** Kinin directly stimulates pain
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -161,10 +203,16 @@
 
 **Correct: B. Prostaglandin E2**
 
-- **A.** Histamine early vascular response mein kaam karta hai, fever set point ka direct classic mediator nahi hai.
-- **B.** Inflammatory cytokines hypothalamic PGE2 production badha sakte hain. PGE2 set point ko raise karta hai aur body heat conserve karne lagti hai.
-- **C.** Thromboxane platelet aggregation aur vasoconstriction promote karta hai, hypothalamic fever signal nahi hai.
-- **D.** LTB4 neutrophil recruitment mein help karta hai, fever set point ka principal mediator nahi hai.
+- **A.** Histamine early vascular response ka mediator hai. Fever set point raise karne ka principal hypothalamic signal PGE2 hai.
+- **B.** IL-1 aur IL-6 jaise cytokines brain mein PGE2 synthesis promote karte hain. Set point badhne par body heat conserve aur generate kar sakti hai.
+- **C.** Thromboxane platelet aggregation aur vasoconstriction promote karta hai. Hypothalamic set point ka main mediator nahi hai.
+- **D.** LTB4 leukocyte recruitment mein important hai. Fever set point ke liye PGE2 ko yaad rakho.
+
+**Exam clue:** Fever set point
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -181,30 +229,42 @@
 
 **Correct: A. Leukotriene B4**
 
-- **A.** LTB4 neutrophils ko attract aur activate karta hai, isliye inflammatory site par recruitment mein important hai.
-- **B.** Prostacyclin vascular dilation aur platelet inhibition mein help karta hai, LTB4 jaisa strong neutrophil attractant nahi hai.
-- **C.** Thromboxane platelet aggregation promote karta hai, neutrophil chemotaxis ka best match nahi hai.
-- **D.** Cholesterol membrane component aur steroid precursor hai, is pathway ka specific chemoattractant nahi hai.
+- **A.** LTB4 arachidonic acid ke lipoxygenase pathway se banta hai aur neutrophils ko recruit karta hai. Gradient follow karne mein ye help karta hai.
+- **B.** Prostacyclin vasodilation aur platelet inhibition mein important hai. Ye LTB4 jaisa classic neutrophil chemoattractant nahi hai.
+- **C.** TXA2 platelet aggregation aur vasoconstriction promote karta hai. Leukocyte chemotaxis is question ka main task hai.
+- **D.** Cholesterol membrane aur steroid precursor hai. Ye arachidonic acid-derived LTB4 jaisa specific chemoattractant nahi hai.
+
+**Exam clue:** Lipid chemoattractant
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q10. A complement fragment coats a bacterial surface and improves phagocyte recognition. Which fragment is most directly responsible?
+### Q10. A neutrophil has firmly attached to an endothelial cell and must now pass between endothelial cells. Which junction-associated adhesion molecule facilitates this step?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** C5a
-- **B.** C9
-- **C.** C3b
-- **D.** C1 inhibitor
+- **A.** P-selectin
+- **B.** E-selectin
+- **C.** PECAM-1 (CD31)
+- **D.** Platelet glycoprotein IIb/IIIa
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. C3b**
+**Correct: C. PECAM-1 (CD31)**
 
-- **A.** C5a strong chemotactic aur inflammatory fragment hai, major deposited opsonin C3b hai.
-- **B.** C9 membrane attack complex ka part hai, coating-mediated recognition ka primary fragment nahi hai.
-- **C.** C3b bacterial surface par bind karke phagocyte receptors ko recognition easy banata hai. Is process ko opsonization kehte hain.
-- **D.** C1 inhibitor complement activation regulate karta hai, bacterium ko opsonize nahi karta.
+- **A.** P-selectin early tethering aur rolling facilitate karta hai. Yahan firm attachment ho chuki hai aur next step vessel wall cross karna hai.
+- **B.** E-selectin activated endothelial surface par leukocyte rolling mein help karta hai. Junction se transmigration ka classic molecule PECAM-1 hai.
+- **C.** PECAM-1 endothelial junctions aur leukocytes par milta hai. Iski interactions leukocyte ko endothelial cells ke beech se pass karne mein help karti hain.
+- **D.** GPIIb/IIIa platelets ke fibrinogen binding aur aggregation mein important hai. Leukocyte diapedesis ka classic junctional receptor nahi hai.
+
+**Exam clue:** Junctional transmigration
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -212,7 +272,7 @@
 
 ### Q11. A bacterial abscess contains liquefied material rich in dead neutrophils. Which morphology best describes this lesion?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Serous inflammation
 - **B.** Suppurative inflammation
@@ -223,10 +283,16 @@
 
 **Correct: B. Suppurative inflammation**
 
-- **A.** Serous reaction mein relatively watery fluid hota hai, pus-rich cavity nahi hoti.
-- **B.** Neutrophils, dead cells aur liquefied debris milkar pus banate hain. Localized collection ko abscess kehte hain.
-- **C.** Fibrinous pattern mein fibrin deposits prominent hote hain, neutrophil-rich pus defining feature nahi hai.
-- **D.** Granulomas organized macrophage aggregates hote hain, liquefied pus ka naam nahi hai.
+- **A.** Serous inflammation mein clear watery fluid prominent hota hai. Dead neutrophils se bhara pus is category mein nahi aata.
+- **B.** Suppurative inflammation mein neutrophils, dead cells aur liquefied debris milkar pus banate hain. Localized collection abscess kehlati hai.
+- **C.** Fibrinous inflammation mein extracellular fibrin deposition prominent hota hai. Pus-rich cavity iski defining feature nahi hai.
+- **D.** Granulomatous inflammation mein organized macrophage aggregates bante hain. Abscess ki liquefied pus alag morphology hai.
+
+**Exam clue:** Pus-rich morphology
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -243,10 +309,16 @@
 
 **Correct: D. Fibrinous inflammation**
 
-- **A.** Serous pattern mein thin watery fluid prominent hota hai, fibrin sheet nahi hoti.
-- **B.** Suppurative pattern mein pus aur neutrophilic debris dominant hote hain, fibrin alone defining nahi hai.
-- **C.** Hyperplasia cell number badhne ko kehte hain, extracellular fibrin deposition ko nahi.
-- **D.** Marked vascular leakage mein fibrinogen bahar aakar fibrin ban sakta hai. Serosal surface par shaggy deposit isi reaction ka example hai.
+- **A.** Serous inflammation mein thin fluid prominent hota hai. Shaggy fibrin layer usse alag finding hai.
+- **B.** Suppurative inflammation pus aur neutrophilic debris se characterize hota hai. Fibrin-rich coating alone pus nahi hai.
+- **C.** Hyperplasia cell number increase hone ko kehte hain. Extracellular fibrin deposition cell proliferation nahi hai.
+- **D.** Severe vascular leakage se fibrinogen serosal surface par aa kar fibrin bana sakta hai. Shaggy pericardial coating fibrinous inflammation ka example hai.
+
+**Exam clue:** Fibrin-rich serosa
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -254,19 +326,25 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Sheets of normal erythrocytes
-- **B.** Only mature adipocytes
-- **C.** Isolated platelet plugs
+- **A.** Predominantly eosinophils without macrophages
+- **B.** A purely neutrophilic abscess
+- **C.** Acellular fibrin without inflammatory cells
 - **D.** Multinucleated giant cells derived from macrophages
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Multinucleated giant cells derived from macrophages**
 
-- **A.** RBC sheets bleeding represent kar sakti hain, organized foreign-body reaction nahi hai.
-- **B.** Adipocytes storage cells hain, chronic reaction ke characteristic giant cells nahi hain.
-- **C.** Platelet plug hemostasis mein useful hai, retained suture ki chronic cellular response nahi hai.
-- **D.** Persistent material ko clear karna mushkil ho toh macrophages fuse hokar giant cells bana sakte hain. Yeh foreign-body granulomatous response ka clue hai.
+- **A.** Eosinophils allergy aur parasite-related inflammation mein important hain. Retained foreign material ke around macrophage fusion zyada characteristic hai.
+- **B.** Neutrophilic abscess acute suppuration suggest karta hai. Persistent foreign material macrophage-based granulomatous response produce kar sakta hai.
+- **C.** Fibrin acute exudate mein deposit ho sakta hai. Foreign-body giant cells ka chronic cellular response isse explain nahi hota.
+- **D.** Macrophages large persistent foreign material ko engulf nahi kar paate toh fuse ho kar multinucleated giant cells bana sakte hain. Ye foreign-body reaction ka classic clue hai.
+
+**Exam clue:** Persistent foreign body
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK493173/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -274,39 +352,51 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Only platelets in an intact vessel
+- **A.** Transient neutrophils without tissue injury
 - **B.** Macrophages, lymphocytes and fibrosis
-- **C.** Pure acellular edema without injury
-- **D.** Only intact skeletal muscle fibers
+- **C.** Pure edema without cellular reaction
+- **D.** Normal tissue with no matrix change
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Macrophages, lymphocytes and fibrosis**
 
-- **A.** Platelets hemostasis karte hain, chronic tissue destruction aur repair ka evidence nahi dete.
-- **B.** Chronic inflammation mein mononuclear cells persistent injury ke saath repair signals dete hain. Fibrosis isi continuing repair ka result ho sakta hai.
-- **C.** Edema alone chronic inflammatory cell response establish nahi karta.
-- **D.** Normal muscle fibers ongoing inflammatory injury aur scarring ka evidence nahi hain.
+- **A.** Transient neutrophils acute inflammation mein prominent ho sakte hain. Chronic injury ke saath repair ka full pattern ye nahi hai.
+- **B.** Macrophages aur lymphocytes persistent inflammatory signaling maintain karte hain. Tissue destruction ke saath fibroblast activity aur collagen deposition ho sakte hain.
+- **C.** Edema alone chronic inflammation prove nahi karta. Cellular infiltrate aur tissue injury ke saath repair ka evidence dekho.
+- **D.** Normal tissue mein injury aur fibrosis absent hoti hai. Ye chronic inflammatory repair ko support nahi karta.
+
+**Exam clue:** Injury plus fibrosis
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK493173/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q15. A patient with a severe neutrophil oxidative burst defect can ingest microbes but has difficulty killing selected organisms. Which enzyme complex is defective in classic chronic granulomatous disease?
+### Q15. In a phagocyte with a demonstrated defect of NADPH oxidase, which biochemical product is directly reduced during the respiratory burst?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Hexokinase
-- **B.** Lactase
-- **C.** NADPH oxidase
-- **D.** Urease
+- **A.** Urea
+- **B.** Collagen
+- **C.** Superoxide
+- **D.** Histamine
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. NADPH oxidase**
+**Correct: C. Superoxide**
 
-- **A.** Hexokinase glucose phosphorylation karta hai, classic respiratory burst defect ka enzyme complex nahi hai.
-- **B.** Lactase intestinal lactose digestion karta hai, phagosome killing ka enzyme nahi hai.
-- **C.** NADPH oxidase superoxide generate karta hai, jisse phagocyte ka oxidative killing pathway start hota hai. Defect mein engulfment ke baad killing weak ho sakti hai.
-- **D.** Urease kuch microbes mein urea break karta hai, human neutrophil respiratory burst machinery nahi hai.
+- **A.** Urea nitrogen disposal ka end product hai. Phagocyte respiratory burst ka immediate oxidase product nahi hai.
+- **B.** Collagen fibroblasts aur other matrix-producing cells banate hain. NADPH oxidase ka direct reaction collagen synthesis nahi hai.
+- **C.** NADPH oxidase molecular oxygen ko superoxide mein reduce karta hai. Defect mein superoxide aur downstream reactive oxygen species kam bante hain, isliye selected microbes ko kill karna difficult ho sakta hai.
+- **D.** Histamine mast-cell granules mein stored mediator hai. Respiratory burst mein NADPH oxidase histamine produce nahi karta.
+
+**Exam clue:** Oxidase product
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK99496/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -317,18 +407,24 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Interleukin-6
-- **B.** Erythropoietin
-- **C.** Insulin
-- **D.** Calcitonin
+- **B.** Interleukin-2
+- **C.** Interleukin-4
+- **D.** Interleukin-17
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Interleukin-6**
 
-- **A.** IL-6 liver ko acute-phase proteins banane ka signal deta hai. CRP rise inflammation ka nonspecific clue hai.
-- **B.** Erythropoietin marrow mein erythrocyte production stimulate karta hai, hepatic CRP induction ka major cytokine nahi hai.
-- **C.** Insulin glucose aur nutrient metabolism regulate karta hai, acute-phase CRP response ka primary mediator nahi hai.
-- **D.** Calcitonin calcium homeostasis se related hai, CRP synthesis ka typical signal nahi hai.
+- **A.** IL-6 hepatocytes ko CRP jaise acute-phase proteins banane ka signal deta hai. CRP rise inflammation support kar sakta hai, specific cause establish nahi karta.
+- **B.** IL-2 T-cell proliferation aur regulation mein important hai. Hepatic CRP synthesis ka main acute-phase signal IL-6 hai.
+- **C.** IL-4 type 2 immune responses aur IgE class switching mein role karta hai. CRP induction ka principal cytokine nahi hai.
+- **D.** IL-17 tissue inflammation aur neutrophil recruitment mein role karta hai. Is question ka direct hepatic acute-phase driver IL-6 hai.
+
+**Exam clue:** Hepatic acute-phase signal
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -336,19 +432,25 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** Increased iron release from macrophages
+- **A.** Increased ferroportin at the cell surface
 - **B.** Reduced ferroportin-mediated iron export
-- **C.** Accelerated intestinal iron absorption
-- **D.** Direct destruction of all transferrin
+- **C.** Increased intestinal iron export into plasma
+- **D.** Direct destruction of circulating transferrin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Reduced ferroportin-mediated iron export**
 
-- **A.** Yeh circulating iron badhata, jabki high hepcidin export restrict karta hai.
-- **B.** Hepcidin ferroportin ko internalize aur degrade karwata hai. Enterocytes aur macrophages se iron export kam hone par circulating iron gir sakta hai.
-- **C.** High hepcidin intestinal iron export ko restrict karta hai, absorption ko enhance nahi karta.
-- **D.** Transferrin destruction hepcidin ka defining action nahi hai, ferroportin regulation main mechanism hai.
+- **A.** Ferroportin increase ho toh cells se plasma mein iron export badh sakta hai. High hepcidin mein iska opposite hota hai.
+- **B.** Hepcidin ferroportin se bind karke uska internalization aur degradation promote karta hai. Macrophages aur enterocytes se iron release kam hota hai, isliye stores adequate hone par bhi serum iron low ho sakta hai.
+- **C.** High hepcidin intestinal cells se iron ka plasma mein transfer restrict karta hai. Iron availability improve hone ke bajay kam ho sakti hai.
+- **D.** Transferrin iron transport karta hai. Hepcidin ka key action iron exporter ferroportin par hota hai, transferrin ko directly destroy karna nahi.
+
+**Exam clue:** Iron export blockade
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -365,30 +467,42 @@
 
 **Correct: A. Increased fibrinogen promoting rouleaux**
 
-- **A.** Fibrinogen RBC aggregation ko facilitate karta hai. Larger rouleaux units faster settle kar sakte hain, isliye ESR badh sakta hai.
-- **B.** Protein absence rouleaux-promoting effect ko explain nahi karti.
-- **C.** Aggregation kam ho toh rouleaux-mediated sedimentation generally kam hoti hai.
-- **D.** Albumin fibrinogen ki tarah major rouleaux-promoting acute-phase protein nahi hai.
+- **A.** Inflammation mein fibrinogen badh sakta hai aur RBC rouleaux formation increase ho sakti hai. Larger aggregates faster settle karte hain, isliye ESR badh sakta hai.
+- **B.** Plasma proteins absent hone se rouleaux-promoting effect explain nahi hota. ESR plasma proteins aur RBC properties dono se influence hota hai.
+- **C.** RBC aggregation kam ho toh rouleaux ke through accelerated settling kam ho sakti hai. Ye increased ESR ka expected mechanism nahi hai.
+- **D.** Albumin major rouleaux-promoting acute-phase protein nahi hai. Fibrinogen aur immunoglobulins ka contribution zyada relevant hai.
+
+**Exam clue:** Rouleaux speeds settling
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q19. After the initiating injury resolves, neutrophils undergo apoptosis and are removed without further tissue damage. Which process is this?
+### Q19. As inflammation resolves, macrophages engulf membrane-intact apoptotic neutrophils. Which process describes this clearance?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
 - **A.** Complement-mediated erythrocyte lysis
 - **B.** Platelet adhesion to exposed collagen
-- **C.** Uncontrolled necrotic rupture
+- **C.** Neutrophil necrotic rupture
 - **D.** Efferocytosis by macrophages
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Efferocytosis by macrophages**
 
-- **A.** RBC lysis ek alag destructive process hai, apoptotic neutrophil clearance ka naam nahi hai.
-- **B.** Platelet adhesion bleeding control ke liye hoti hai, dying neutrophils ko clear nahi karti.
-- **C.** Necrotic rupture contents release karke inflammation ko prolong kar sakta hai, quiet clearance nahi hai.
-- **D.** Macrophages apoptotic cells ko quietly engulf karte hain. Yeh debris removal aur inflammation resolution support karta hai.
+- **A.** Complement-mediated RBC lysis cell membrane damage ka process hai. Apoptotic neutrophil ko intact engulf karna isse different hai.
+- **B.** Platelet adhesion exposed collagen par hemostasis support karti hai. Dying neutrophils ko clear karna platelets ka main role nahi hai.
+- **C.** Necrotic rupture se intracellular contents release ho sakte hain aur inflammation continue ho sakta hai. Controlled apoptotic clearance mein ye expected route nahi hai.
+- **D.** Efferocytosis mein macrophages apoptotic cells ko recognize aur engulf karte hain. Timely clearance secondary necrosis reduce karke resolution support karti hai.
+
+**Exam clue:** Apoptotic cell clearance
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -396,19 +510,25 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Inflammation | **Exam focus:** NORCET-style original
 
-- **A.** CRP proves bacterial infection in every case
-- **B.** CRP identifies the infecting bacterial species
+- **A.** CRP alone establishes bacterial infection
+- **B.** CRP alone identifies the microbial species
 - **C.** CRP reflects inflammation but does not establish infection by itself
-- **D.** CRP excludes tissue injury
+- **D.** CRP elevation rules out sterile tissue injury
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. CRP reflects inflammation but does not establish infection by itself**
 
-- **A.** CRP specific bacterial test nahi hai, trauma mein bhi rise ho sakta hai.
-- **B.** Species identify karne ke liye microbiological methods chahiye, CRP se organism nahi pata chalta.
-- **C.** Sterile injury bhi acute-phase response activate kar sakti hai. CRP ko clinical findings aur appropriate tests ke saath interpret karna chahiye.
-- **D.** Trauma CRP badha sakta hai, isliye elevated value injury exclude nahi karti.
+- **A.** CRP bacterial infection mein rise ho sakta hai, lekin sterile trauma mein bhi badhta hai. Single result se infection confirm nahi hota.
+- **B.** CRP host acute-phase response ko reflect karta hai. Organism identification ke liye suitable culture ya molecular testing chahiye.
+- **C.** Sterile injury acute-phase response activate kar sakti hai. CRP ko clinical assessment aur indicated investigations ke saath interpret karo, infection exclude bhi mat karo.
+- **D.** Sterile tissue damage khud CRP elevate kar sakta hai. High value trauma ko rule out nahi karti.
+
+**Exam clue:** CRP is nonspecific
+
+**Clinical reference:** [Inflammation mechanism reference](https://www.ncbi.nlm.nih.gov/books/NBK556083/)
+
+**YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
@@ -418,3 +538,5 @@
 - [Chronic inflammation, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK493173/)
 - [Inflammation and repair MCQs, Dr. Shweta Rana Khokhar](https://www.youtube.com/watch?v=nm6tuSl3iKI) — indexed topic-level practice candidate for Q1–20. Exact question coverage and playback pending.
 - Additional mechanistic source mapping and independent review pending. No historical question credit.
+
+- Pass 02: Q4/Q5 changed to persistent fibrin organization and serous morphology to avoid Bank 13 pressure/permeability repetition. Q10 changed from C3b opsonization to PECAM-1 transmigration after IPC 22 Q16 overlap. Q15 tests oxidase product rather than naming CGD after IPC 21 Q8 comparison. Q19 clarified clearance task. Hematology CBC Q24 tests nonspecific ESR interpretation, distinct from Q18 mechanism. Acute inflammation and GeneReviews CGD indexed source review completed. Independent review and item-level video playback remain pending. No new questions counted.
