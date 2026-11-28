@@ -19,9 +19,17 @@
 
 **Correct: D. Beneficence**
 
-Beneficence mein nurse patient ke welfare ko support karne wale actions choose karti hai. Benefit aur patient preference dono consider karne chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Autonomy choice, veracity truthfulness aur confidentiality privacy se related hain.
+**A kyun galat hai:** Confidentiality mein nurse patient ki private information ko unauthorized disclosure se bachati hai. Yeh information protection hai, welfare ke liye action lene wale principle ka naam nahi hai.
+
+**B kyun galat hai:** Autonomy patient ke khud decision lene ke haq se related hai. Nurse ko beneficence ke naam par capable patient par apna decision thopna nahi chahiye.
+
+**C kyun galat hai:** Veracity ka matlab hai ki nurse sach aur accurate information de. Yeh honesty ka principle hai, jabki beneficence patient ki bhalai par focus karti hai.
+
+**D kyun sahi hai:** Beneficence ka matlab hai ki nurse patient ki bhalai ke liye meaningful action le. Jaise pressure injury ka risk ho, toh nurse patient ke saath safe repositioning plan banati hai. Benefit ke saath risk aur informed preference bhi consider ki jaati hai.
+
+**Exam clue:** Beneficence bhalai karne se aur nonmaleficence avoidable harm rokne se related hai.
 
 </details>
 
@@ -40,9 +48,17 @@ Beneficence mein nurse patient ke welfare ko support karne wale actions choose k
 
 **Correct: B. Reduced skeletal muscle pumping and venous stasis**
 
-Leg muscles move blood toward the heart during activity. Bed rest mein muscle pump kam active hota hai aur venous stasis clot risk badha sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Constant walking stasis reduce kar sakti hai. Blood viscosity aur clotting factors necessarily reduce nahi hote.
+**A kyun galat hai:** Blood viscosity blood ke flow ki resistance se related hai. Immobility har patient mein viscosity kam nahi karti aur clot ka risk khatam nahi hota.
+
+**B kyun sahi hai:** Jab hum chalte hain, toh leg muscles contract hokar veins ka blood heart ki taraf bhejti hain. Bed rest mein ye muscle pump kam active hota hai. Blood dheere flow karta hai, jise venous stasis kehte hain. Isse deep vein thrombosis ka risk badhta hai.
+
+**C kyun galat hai:** Bed rest se clotting factors khatam nahi hote. Clot banne ki tendency aur venous flow dono patient ke risk factors par depend karte hain.
+
+**D kyun galat hai:** Walking muscle pump ko active karti hai aur venous return support karti hai. Yeh prolonged immobility ka mechanism nahi hai.
+
+**Exam clue:** Virchow triad mein immobility ko venous stasis se jodo.
 
 </details>
 
@@ -248,9 +264,17 @@ Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing comp
 
 **Correct: B. Muscles and connective tissues can shorten when joints remain in one position**
 
-Fixed posture se soft tissues adapt hokar shorten ho sakte hain. Individualized positioning aur appropriate ROM flexibility maintain karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Cartilage muscle nahi banti. Ligaments disappear hona mechanism nahi hai. Mobility usually reduce ho sakti hai.
+**A kyun galat hai:** Cartilage joint surfaces ko cushion karta hai. Yeh actively contracting muscle mein convert nahi hota.
+
+**B kyun sahi hai:** Jab joint bahut samay tak ek position mein rehta hai, toh muscle aur connective tissue shorten aur stiff ho sakte hain. Persistent movement limitation ko contracture kehte hain. Suitable positioning aur prescribed range-of-motion exercises risk kam karne mein madad karti hain.
+
+**C kyun galat hai:** Ligaments joints ko support karte hain. Immobilization mein flexibility badal sakti hai, lekin ligaments turant disappear nahi hote.
+
+**D kyun galat hai:** Regular movement na milne se stiffness badh sakti hai. Unlimited joint mobility expected nahi hai.
+
+**Exam clue:** Fixed posture aur soft tissue shortening ko contracture se jodo.
 
 </details>
 
@@ -400,9 +424,17 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 **Correct: C. Muscle atrophy and reduced strength**
 
-Muscle workload kam hone se protein balance aur strength change ho sakti hai. Safe activity aur rehabilitation disuse effects reduce karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Inactivity muscle mass ya bone density automatically increase nahi karti. Joint movement limit bhi ho sakti hai.
+**A kyun galat hai:** Muscle ko strength maintain karne ke liye suitable activity aur nutrition chahiye. Disuse se muscle mass apne aap nahi badhta.
+
+**B kyun galat hai:** Joint movement kam hone se stiffness aur contracture ho sakte hain. Har joint ki movement permanently improve nahi hoti.
+
+**C kyun sahi hai:** Jab muscle ka workload kam hota hai, toh protein breakdown aur synthesis ka balance badal sakta hai. Muscle size kam hone ko atrophy kehte hain. Isse strength aur daily activities karne ki ability kam ho sakti hai.
+
+**D kyun galat hai:** Bones ko suitable loading se strength maintain karne mein madad milti hai. Prolonged inactivity mein bone mineral loss bhi ho sakta hai.
+
+**Exam clue:** Disuse ka common result muscle atrophy aur weakness hai.
 
 </details>
 
@@ -421,9 +453,17 @@ Muscle workload kam hone se protein balance aur strength change ho sakti hai. Sa
 
 **Correct: D. Autonomy**
 
-Autonomy ka matlab person apne healthcare decisions informed manner mein le sakta hai. Nurse accurate information aur respect provide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Justice fairness hai. Nonmaleficence harm avoid karna hai. Fidelity commitments maintain karna hai.
+**A kyun galat hai:** Justice care aur resources ke fair allocation se related hai. Individual ki informed choice ko specifically autonomy protect karti hai.
+
+**B kyun galat hai:** Nonmaleficence mein nurse patient ko avoidable harm se bachati hai. Yeh safety ka principle hai, lekin treatment choose karne ka haq define nahi karta.
+
+**C kyun galat hai:** Fidelity ka matlab hai ki nurse apni professional commitments nibhaye. Yeh trust banata hai, lekin consent ya refusal ka principle nahi hai.
+
+**D kyun sahi hai:** Autonomy ka matlab hai ki patient apne treatment ke baare mein khud faisla kar sake. Jab patient relevant information samajhkar bina pressure ke decision leta hai, toh nurse uski choice ka respect karti hai, zaroori clarification deti hai aur decision document karti hai.
+
+**Exam clue:** Consent ya refusal ki baat ho, toh autonomy yaad rakho.
 
 </details>
 
@@ -733,9 +773,17 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 **Correct: B. Phlebitis requiring assessment and appropriate line management**
 
-Vein ke along redness, warmth aur tenderness inflammation suggest karte hain. Nurse infusion-site assessment aur management protocol follow karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Infiltration often cool swelling deti hai. New redness normal assume nahi karni chahiye. Local finding PE prove nahi karti.
+**A kyun galat hai:** Infiltration mein nonvesicant fluid vein se surrounding tissue mein leak hota hai. Cool swelling, tightness ya slow flow common clues hain. Yahan warm redness vein ke along hai, isliye phlebitis better fit hai, lekin nurse complete assessment se doosri complications bhi consider karti hai.
+
+**B kyun sahi hai:** Phlebitis ka matlab vein ki inflammation hai. Cannula wali vein ke along burning, warmth aur redness iski taraf ishara karte hain. Nurse infusion pause ya stop karti hai, site assess karti hai aur local protocol ke according line remove ya manage karti hai. Agar vesicant leakage ka doubt ho toh specific extravasation protocol follow karti hai, kyunki management alag ho sakti hai.
+
+**C kyun galat hai:** Local redness se pulmonary embolism diagnose nahi hota. PE ke liye breathlessness, chest pain ya circulatory findings aur appropriate clinical evaluation chahiye.
+
+**D kyun galat hai:** Cannula site par new burning, redness ya warmth normal maan kar ignore karna unsafe hai. Inflammation ya infection worsen ho sakti hai aur line reassessment chahiye.
+
+**Exam clue:** Vein ke along warm redness phlebitis suggest karti hai, jabki cool swelling infiltration ka common clue hai.
 
 </details>
 
@@ -858,9 +906,17 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 **Correct: B. Emergency respiratory and circulatory assessment for possible pulmonary embolism**
 
-Leg clot lungs ki artery mein travel kar sakta hai. Sudden dyspnea aur chest pain emergency signs hain, isliye nurse immediate assessment aur help leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage aur routine tasks possible embolism care delay karte hain. Warm compress emergency treatment nahi hai.
+**A kyun galat hai:** Routine mobility assessment baad mein ho sakti hai. Naye chest pain aur dyspnea mein emergency care priority hai.
+
+**B kyun sahi hai:** Leg swelling ke saath achanak breathlessness aur saans lene par chest pain possible pulmonary embolism ke warning signs hain. Deep vein ke clot ka hissa lungs ki artery tak pahunch sakta hai. Nurse turant airway, breathing, circulation aur oxygenation assess karti hai aur emergency help activate karti hai.
+
+**C kyun galat hai:** Warm compress acute breathing problem ko treat nahi karta. Nurse ko pehle respiratory aur circulatory stability check karni chahiye.
+
+**D kyun galat hai:** Suspected DVT wale leg ki massage appropriate nahi hai. Isse emergency assessment delay hoti hai aur local tissue unnecessarily manipulate hota hai.
+
+**Exam clue:** Possible PE mein pehle breathing aur circulation assess karo.
 
 </details>
 
@@ -1233,9 +1289,17 @@ Sedative alertness, balance aur reaction time impair kar sakta hai. Confused pat
 
 **Correct: B. Improve quality of life by addressing symptoms and psychosocial needs alongside appropriate treatment**
 
-Palliative care serious illness mein pain, breathlessness aur emotional concerns address karti hai. Ye disease-directed treatment ke saath bhi start ho sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Treatment stop karna mandatory nahi hai. Care sirf final hours tak limited nahi hai. Patient preferences central hain.
+**A kyun galat hai:** Patient ki wishes samajhna zaroori hai, kyunki unhi se care ke goals decide hote hain. Nurse discussion ko avoid nahi karti.
+
+**B kyun sahi hai:** Palliative care mein serious illness ke saath jee rahe patient ki takleef kam karne aur quality of life behtar banane par focus hota hai. Nurse pain, breathlessness, emotional aur spiritual needs assess karti hai aur team ke saath appropriate care arrange karti hai.
+
+**C kyun galat hai:** Palliative care shuru hone par har disease-directed treatment ko band karna zaroori nahi hai. Jo treatment patient ke goals aur clinical needs se match karta hai, woh jaari reh sakta hai.
+
+**D kyun galat hai:** Palliative care illness ke earlier phase mein bhi shuru ho sakti hai. Sirf final hours tak wait karne se patient ko pehle mil sakne wala symptom relief nahi milta.
+
+**Exam clue:** Palliative care aur disease-directed treatment ek saath chal sakte hain.
 
 </details>
 
@@ -1569,9 +1633,17 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 **Correct: A. Remain present, acknowledge the loss and allow expression of grief**
 
-Grief natural response hai aur har person ka pattern different ho sakta hai. Nurse support aur listening provide karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Crying suppress karna, topic change aur rigid deadline feelings dismiss karte hain.
+**A kyun sahi hai:** Kisi apne ki death ke baad rona grief express karne ka natural tareeka ho sakta hai. Nurse shaant rehkar saath baithti hai, loss acknowledge karti hai aur person ko apni pace par bolne ya chup rehne deti hai.
+
+**B kyun galat hai:** Rona rokne ko kehne se person ko lag sakta hai ki uski feelings galat hain. Feelings ko respect karna zyada supportive hai.
+
+**C kyun galat hai:** Topic turant badalne se person ki baat adhuri reh jaati hai. Nurse ko sensitive listening ka mauka dena chahiye.
+
+**D kyun galat hai:** Grief khatam hone ki koi universal deadline nahi hoti. Ek hafte ki limit lagane se person apni feelings chhupane lag sakta hai.
+
+**Exam clue:** Therapeutic response mein loss acknowledge karo aur bina judgment ke suno.
 
 </details>
 
@@ -2393,9 +2465,17 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 **Correct: B. A patient with sudden chest tightness, wheeze and facial swelling after an injection**
 
-Injection ke baad wheeze aur facial swelling anaphylaxis suggest kar sakte hain. Airway aur circulation compromise ka risk immediate priority banata hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Routine hygiene, teaching aur meal choice important hain lekin airway emergency ke baad address kiye ja sakte hain.
+**A kyun galat hai:** Discharge teaching patient ko ghar par safe care karne mein madad karti hai. Lekin stable patient ki teaching kuch samay ke liye postpone ya doosri qualified nurse ko handover ki ja sakti hai, kyunki doosre patient ki breathing ko immediate threat hai.
+
+**B kyun sahi hai:** Injection ke baad chest tightness, wheeze aur facial swelling ek severe allergic reaction, yaani anaphylaxis, ke signs ho sakte hain. Airway swell ho sakti hai aur circulation fail ho sakta hai. Nurse turant emergency help bulati hai, airway, breathing aur circulation assess karti hai aur protocol ke according IM adrenaline aur resuscitation support mein delay nahi karti.
+
+**C kyun galat hai:** Routine mouth care comfort aur infection prevention mein help karti hai. Stable patient ke liye yeh care airway emergency ke baad ya suitable assistance se ki ja sakti hai.
+
+**D kyun galat hai:** Lunch choose karne mein help dena bhi nursing care ka part hai. Lekin is request mein acute deterioration ka koi clue nahi hai, isliye emergency ko pehle handle karna chahiye.
+
+**Exam clue:** Sudden airway ya breathing problem ko stable routine tasks se pehle address karo.
 
 </details>
 
@@ -3047,9 +3127,17 @@ Black tarry stool ke saath hypotension aur dizziness circulation compromise ka w
 
 **Correct: A. Thoracentesis**
 
-Thoracentesis pleural space mein accumulated fluid sample ya remove karne ke liye use hoti hai. Procedure trained clinician aur monitoring ke saath hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Paracentesis peritoneal fluid, LP CSF aur cystoscopy bladder visualization se related hain.
+**A kyun sahi hai:** Pleural space lungs aur chest wall ki lining ke beech potential space hai. Jab ismein fluid jama ho, toh trained clinician thoracentesis se sample le sakta hai ya symptoms ke liye fluid drain kar sakta hai. Nurse breathing, vital signs aur complications monitor karti hai.
+
+**B kyun galat hai:** Abdominal paracentesis peritoneal cavity ka fluid remove karti hai. Pleural space chest mein hota hai, abdomen mein nahi.
+
+**C kyun galat hai:** Lumbar puncture se cerebrospinal fluid sample liya jaata hai. Yeh pleural effusion drainage ka procedure nahi hai.
+
+**D kyun galat hai:** Cystoscopy mein scope se urethra aur bladder inspect kiye jaate hain. Iska pleural fluid remove karne se sambandh nahi hai.
+
+**Exam clue:** Thoracentesis chest ke pleural fluid ke liye aur paracentesis abdominal fluid ke liye hoti hai.
 
 </details>
 
@@ -3279,9 +3367,17 @@ Objective data woh finding hai jo examination, observation ya measurement se mil
 
 **Correct: A. Explore this preference and communicate it for an individualized symptom plan**
 
-Patient ke goals symptom treatment guide karte hain. Nurse pain relief aur alertness ke balance par patient-team discussion facilitate karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unwanted sedation aur complete withholding both inappropriate ho sakte hain. Goals individualized hote hain.
+**A kyun sahi hai:** Patient alert rehkar family se baat karna chahta ho sakta hai. Nurse pain aur sedation assess karti hai, preference document karti hai aur prescriber ke saath comfort aur alertness ka individualized balance discuss karti hai.
+
+**B kyun galat hai:** Saare comfort measures band karne se avoidable suffering ho sakti hai. Pain relief ke doosre options aur dose review abhi bhi possible hain.
+
+**C kyun galat hai:** Har patient ki priorities alag ho sakti hain. Nurse ko apna goal impose karne ki jagah patient ka informed preference samajhna chahiye.
+
+**D kyun galat hai:** Bina assessment ya authorized prescription ke sedating dose badhana unsafe hai. Isse patient ki consciousness aur breathing affect ho sakti hai.
+
+**Exam clue:** Symptom relief ka plan patient ki priorities ke according individualize karo.
 
 </details>
 
@@ -3300,9 +3396,17 @@ Patient ke goals symptom treatment guide karte hain. Nurse pain relief aur alert
 
 **Correct: C. Relaxed lateral decubitus position according to procedure guidance**
 
-Opening pressure posture aur strain se affect ho sakti hai. Standard lateral decubitus positioning measurement interpretation improve karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Standing, sitting aur abdominal compression pressure alter kar sakte hain.
+**A kyun galat hai:** Standing mein pressure posture se affect hota hai aur patient safety bhi compromise ho sakti hai. Yeh routine opening pressure position nahi hai.
+
+**B kyun galat hai:** Sitting se hydrostatic pressure change hota hai. Isliye sitting reading ko standard lateral opening pressure ke reference se directly interpret nahi karna chahiye.
+
+**C kyun sahi hai:** CSF opening pressure ka matlab sample nikalne se pehle fluid ka pressure hai. Standard interpretation ke liye patient generally side par relaxed rehta hai aur unnecessary straining avoid karta hai. Clinician manometer aur positioning protocol follow karta hai.
+
+**D kyun galat hai:** Abdominal compression venous aur CSF pressure affect kar sakti hai. Yeh standard relaxed measurement condition nahi hai.
+
+**Exam clue:** Opening pressure ke liye relaxed lateral decubitus yaad rakho.
 
 </details>
 
@@ -3352,9 +3456,17 @@ Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Ag
 
 **Correct: C. Grief responses may fluctuate and need not follow a fixed sequence**
 
-Grief mein emotions change ho sakte hain aur fixed stage order necessary nahi hai. Nurse coping aur support needs assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Rigid stages universal nahi hain. Anger aur sadness normal grief mein possible hain, though severe persistent distress assessment maang sakta hai.
+**A kyun galat hai:** Anger akela psychiatric disorder ka proof nahi hai. Severe persistent distress, functioning ki dikkat ya safety concern ho toh further assessment zaroori hai.
+
+**B kyun galat hai:** Kübler-Ross model exam mein poochha ja sakta hai, lekin real life mein har person usi sequence se nahi guzarta. Model ko fixed clinical timetable nahi samajhna chahiye.
+
+**C kyun sahi hai:** Grief ke dauran sadness, anger aur doosre emotions badal sakte hain ya dobara aa sakte hain. Har person ka experience alag hota hai. Nurse coping, functioning aur safety needs assess karti hai.
+
+**D kyun galat hai:** Death ke baad sadness normal grief ka part ho sakti hai. Sirf sadness dekhkar disorder diagnose nahi karte.
+
+**Exam clue:** Grief stages ek possible model hain, compulsory sequence nahi.
 
 </details>
 
@@ -3540,9 +3652,17 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 **Correct: B. Lateral decubitus with suitable spinal flexion, or supported sitting as instructed**
 
-Spinal flexion lumbar interspaces access karne mein help kar sakti hai. Nurse clinician instructions aur patient safety ke according position assist karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unsupported standing aur forceful positioning unsafe hain. Trendelenburg universal LP position nahi hai.
+**A kyun galat hai:** Neck ko forcefully extend karne se discomfort aur injury ho sakti hai. Yeh lumbar interspaces ko safely access karne ki standard position nahi hai.
+
+**B kyun sahi hai:** Lateral decubitus mein patient side par leta hai aur suitable lumbar flexion se vertebrae ke beech access aasaan hota hai. Supported sitting bhi CSF collection ke liye use ho sakti hai. Nurse patient ko safely support karti hai aur clinician ke instructions follow karti hai.
+
+**C kyun galat hai:** Standing unsupported position mein patient stable nahi rahega aur fall ka risk ho sakta hai. Lumbar puncture ke liye controlled position chahiye.
+
+**D kyun galat hai:** Trendelenburg mein bed ka head neeche hota hai. Yeh har LP ke liye required position nahi hai aur clinical condition ke hisaab se unsuitable ho sakta hai.
+
+**Exam clue:** CSF collection aur opening pressure measurement ki positioning requirements ko alag yaad rakho.
 
 </details>
 
@@ -3561,9 +3681,17 @@ Spinal flexion lumbar interspaces access karne mein help kar sakti hai. Nurse cl
 
 **Correct: C. A patient with a new drop in consciousness and unequal pupils after a fall**
 
-New consciousness change aur unequal pupils intracranial injury ka warning sign ho sakte hain. Nurse urgent neurological aur ABC assessment karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Routine dressing, information aur unchanged constipation immediate neurological threat se lower priority hain.
+**A kyun galat hai:** Longstanding unchanged constipation ko assess aur manage karna chahiye, lekin is patient mein nayi acute deterioration nahi batayi gayi hai. Head injury ke warning signs zyada urgent hain.
+
+**B kyun galat hai:** Medication leaflet patient education ke liye useful hai. Is request mein immediate physiological threat nahi hai, isliye yeh emergency neurological assessment se pehle nahi aati.
+
+**C kyun sahi hai:** Fall ke baad consciousness girna aur pupils unequal hona brain injury, bleeding ya increased intracranial pressure ka warning sign ho sakta hai. Nurse patient ka airway, breathing aur circulation check karti hai, neurological observations leti hai aur emergency clinical review activate karti hai. Trauma precautions bhi condition ke according follow hoti hain.
+
+**D kyun galat hai:** Stable dressing change infection prevention aur wound healing ke liye important hai. Lekin jab acute neurological deterioration present ho, toh routine dressing ko safely postpone ya handover kar sakte hain.
+
+**Exam clue:** New consciousness change aur unequal pupils after head injury urgent assessment maangte hain.
 
 </details>
 
@@ -3650,9 +3778,17 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 **Correct: D. Assess symptoms and current BP, review hold parameters and clarify the dose as needed**
 
-Low BP mein antihypertensive further hypotension cause kar sakti hai. Nurse current assessment aur authorized hold instructions verify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Blind administration unsafe hai. Permanent cessation aur unapproved stimulant inappropriate hain.
+**A kyun galat hai:** Unprescribed stimulant dene se heart rate, BP ya drug interactions ki problem ho sakti hai. Nurse independently aisi medication start nahi karti.
+
+**B kyun galat hai:** BP reading verify kiye bina antihypertensive dene se hypotension worsen ho sakti hai. Nurse patient ki current condition aur authorized administration parameters check karti hai.
+
+**C kyun galat hai:** Ek low BP reading se har future dose permanently cancel karna justified nahi hai. Medicine plan cause, trend aur prescriber ke review se decide hota hai.
+
+**D kyun sahi hai:** Nurse BP dobara appropriate technique se measure karti hai aur dizziness, altered consciousness ya poor perfusion jaise symptoms assess karti hai. Hold parameters aur prescription check karke dose clarify karti hai. Agar patient unstable hai toh urgent assessment aur escalation pehle hoti hai.
+
+**Exam clue:** New hypotension mein routine medication se pehle patient assess karo aur authorized dose plan verify karo.
 
 </details>
 
@@ -3808,9 +3944,17 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 **Correct: B. Nonmaleficence**
 
-Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive procedure risk add kar sakti hai, isliye indication review important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Justice fairness, fidelity promise aur veracity truthfulness describe karte hain.
+**A kyun galat hai:** Justice mein nurse patients ke saath fair treatment aur fair resource allocation support karti hai. Unnecessary injury ko avoid karna specifically nonmaleficence hai.
+
+**B kyun sahi hai:** Nonmaleficence ka matlab hai ki nurse avoidable harm ko roke. Bina clear indication ke invasive procedure se pain, bleeding ya infection ka risk badh sakta hai. Nurse indication clarify karti hai aur concern appropriate clinician ko batati hai.
+
+**C kyun galat hai:** Fidelity mein nurse apni commitments nibhati hai. Sirf commitment nibhane se procedure ka clinical benefit ya safety establish nahi hoti.
+
+**D kyun galat hai:** Veracity mein nurse procedure ke risks honestly samjhati hai. Lekin procedure se hone wale unnecessary harm ko rokna nonmaleficence hai.
+
+**Exam clue:** Do no harm ka clue mile, toh nonmaleficence yaad rakho.
 
 </details>
 
@@ -3865,9 +4009,17 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 **Correct: D. Justice**
 
-Justice resources aur care decisions mein fairness promote karti hai. Clinical need aur established criteria personal preference se zyada relevant hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Favoritism unfair hai. Confidentiality information protection hai. Convenience allocation ka sole criterion nahi hona chahiye.
+**A kyun galat hai:** Personal convenience staff ka kaam aasaan bana sakti hai, lekin sirf convenience ke basis par resource dene se patient ki actual need miss ho sakti hai.
+
+**B kyun galat hai:** Confidentiality patient ki sensitive information ko protect karti hai. Limited resource kisko diya jaye, iske liye fair clinical criteria chahiye.
+
+**C kyun galat hai:** Favoritism mein kisi patient ko personal pasand ya relationship ki wajah se preference milti hai. Yeh clinical need ko ignore kar sakta hai, isliye fair allocation ka basis nahi hai.
+
+**D kyun sahi hai:** Justice ka matlab hai ki resources fair aur relevant criteria ke basis par allocate hon. Team established clinical priorities, urgency aur applicable policy ko follow karti hai, na ki personal favoritism ko.
+
+**Exam clue:** Fair allocation hamesha identical treatment nahi hota, kyunki patients ki clinical needs alag ho sakti hain.
 
 </details>
 
@@ -3886,9 +4038,17 @@ Justice resources aur care decisions mein fairness promote karti hai. Clinical n
 
 **Correct: C. Alert the clinician for urgent reassessment of procedure safety before proceeding**
 
-New neurological deterioration raised intracranial pressure ya other emergency ka clue ho sakti hai. Lumbar puncture suitability clinician ko urgently reassess karni chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Signed consent new contraindications remove nahi karta. Ignoring symptoms aur unsupported walking unsafe hain.
+**A kyun galat hai:** Neurological changes ignore karne se serious intracranial emergency miss ho sakti hai. LP se pehle safety reassessment zaroori hai.
+
+**B kyun galat hai:** Signed consent se nayi contraindication khatam nahi hoti. Procedure ka risk patient ki present condition ke according dobara assess hona chahiye.
+
+**C kyun sahi hai:** Naye focal neurological deficits ka matlab body ke kisi specific neurological function mein nayi dikkat hai. Consciousness girne ke saath yeh intracranial pathology ya pressure-related danger ka signal ho sakta hai. Nurse LP ki routine preparation rok kar ABC aur neurological status assess karti hai aur urgent clinician review arrange karti hai.
+
+**D kyun galat hai:** Declining consciousness mein patient ko akela chalane se fall aur injury ka risk hai. Safe supervised assessment aur transport plan chahiye.
+
+**Exam clue:** LP se pehle new focal deficit ya consciousness change ho toh urgent reassessment karo.
 
 </details>
 
