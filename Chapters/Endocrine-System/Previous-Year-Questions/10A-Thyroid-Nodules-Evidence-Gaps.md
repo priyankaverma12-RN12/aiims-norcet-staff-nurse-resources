@@ -13,3 +13,7 @@
 Teaching video lead: [Thyroid Nodule Biopsy](https://www.youtube.com/watch?v=7bYTit2AVTc), indexed procedural description. [NORCET 10 thyroid series, Nursing Wallah by PW](https://www.youtube.com/watch?v=BalA29k0tuM), published description and chapter markers checked, but specific nodule/FNA tasks not established. Both are uncounted for question-specific practice. All 20 dedicated question-solving links pending. No playback or timestamps asserted for individual tasks.
 
 Further independent clinical and difficulty review, full repository and active-draft semantic screening, source depth and video evidence, SVG rendering, navigation approval, latest-main reconciliation and CI are required before integration. No live inventory credit.
+
+## Batch 02 semantic correction
+
+Q20 replaced a generic appointment-access scenario that overlapped Batch 01E Q18 with the ETA 2023 recommendation against routine thyroid hormone treatment in euthyroid nodular disease. Correct-answer letter preserved. Q09 post-biopsy emergency response and Q10 nodule-specific specimen labeling require cross-chapter semantic review against postoperative airway and specimen safety banks.

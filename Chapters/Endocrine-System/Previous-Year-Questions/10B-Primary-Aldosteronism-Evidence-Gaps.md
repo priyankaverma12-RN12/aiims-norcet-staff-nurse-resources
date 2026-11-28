@@ -10,3 +10,7 @@
 | [2025 guideline teaching video](https://www.youtube.com/watch?v=eVdk_b3N0Y8) | Indexed description specifically identifies PA guideline and medication interference. No playback or item-level MCQ coverage verified. |
 
 All 20 dedicated question-solving videos pending. No exact PYQ claimed. INC broad endocrine disorder alignment only, with detailed topic coverage and independent clinical, semantic, source, difficulty, rendering and CI gates pending. No live inventory credit.
+
+## Batch 02 semantic correction
+
+Q01 replaced a normokalemic screening scenario potentially overlapping legacy screening questions with intermediate-probability surgical eligibility and suppression testing. Q12 replaced repeated hypokalemia preparation with AVS cortisol selectivity interpretation. Both supported by the 2025 guideline and original answer positions retained. Full semantic review pending.

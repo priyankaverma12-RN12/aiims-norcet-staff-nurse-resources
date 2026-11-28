@@ -4,33 +4,33 @@
 
 [Concepts](../Concepts/10B-Primary-Aldosteronism.md) · [Evidence register](../Previous-Year-Questions/10B-Primary-Aldosteronism-Evidence-Gaps.md)
 
-### Q01. A hypertension clinic has limited endocrine testing capacity. A patient with blood pressure above target despite three appropriate antihypertensive drugs, including a diuretic, has a potassium of 4.2 mmol/L. Which approach best reflects the current screening principle?
+### Q01. A patient has a positive primary aldosteronism screen, an intermediate estimated probability of lateralizing disease and a clear preference to pursue surgery if eligible. Which next diagnostic step is suggested by the 2025 Endocrine Society guideline?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Exclude primary aldosteronism because potassium is normal
+A. Immediate unilateral adrenalectomy based solely on the positive screening ratio
 
-B. Order only a urinary catecholamine measurement for every resistant hypertension case
+B. Routine avoidance of all further biochemical testing because surgery is desired
 
-C. Wait until spontaneous hypokalemia develops before considering aldosterone testing
+C. Repeat blood pressure measurement alone to identify the affected adrenal gland
 
-D. Prioritize aldosterone and renin screening despite the normal potassium
+D. Aldosterone suppression testing as part of individualized evaluation for surgical eligibility
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Prioritize aldosterone and renin screening despite the normal potassium**
+**Correct answer: D. Aldosterone suppression testing as part of individualized evaluation for surgical eligibility**
 
-- **A — Incorrect:** Normal potassium primary aldosteronism exclude nahi karta. Sirf potassium ke basis par screening miss ho sakti hai.
-- **B — Incorrect:** Catecholamine testing selected pheochromocytoma suspicion mein relevant hai. Yeh aldosterone excess ka screening test nahi hai.
-- **C — Incorrect:** Hypokalemia develop hone ka wait karne se diagnosis unnecessarily delay ho sakta hai. Hypertension ka clinical pattern bhi relevant hai.
-- **D — Correct:** Primary aldosteronism mein potassium normal reh sakta hai. Resistant hypertension strong clinical clue hai, isliye aldosterone aur renin assessment ko priority deni chahiye.
+- **A — Incorrect:** Positive screening ratio alone affected side establish nahi karta. Direct adrenalectomy se incorrect treatment ka risk hai.
+- **B — Incorrect:** Surgery preference further biochemical evaluation ko irrelevant nahi banati. Guideline clinical probability aur patient preference dono consider karti hai.
+- **C — Incorrect:** Blood pressure measurement disease burden batata hai, lekin adrenal laterality identify nahi karta. Appropriate biochemical aur localization pathway needed hai.
+- **D — Correct:** Intermediate probability aur surgery preference ke combination mein aldosterone suppression testing suggested hai. Result aage localization aur treatment planning ko inform kar sakta hai.
 
-**Exam clue:** Normal potassium ke bawajood resistant hypertension mein PA consider karo.
+**Exam clue:** Intermediate probability plus surgical intent is a setting where suppression testing may help.
 
-**Clinical reference:** [2025 Endocrine Society primary aldosteronism guideline](https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2)
+**Clinical reference:** [2025 Endocrine Society primary aldosteronism guideline](https://academic.oup.com/jcem/article/110/9/2453/8196671)
 
-**YouTube MCQ practice:** Specific question-solving verification pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
@@ -334,33 +334,33 @@ D. A structural nodule may not be the source of aldosterone excess, so functiona
 
 </details>
 
-### Q12. Before adrenal venous sampling, a patient has significant persistent hypokalemia. Which preparation concern should the nurse escalate?
+### Q12. During adrenal venous sampling for primary aldosteronism, the team compares adrenal-vein cortisol with inferior vena cava cortisol before interpreting aldosterone lateralization. What is the principal purpose of this cortisol comparison?
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Hypokalemia can suppress aldosterone secretion and compromise interpretation, so the team should review correction before sampling
+A. Assess whether the adrenal vein was successfully sampled using the selectivity index
 
-B. Low potassium guarantees technically successful cannulation
+B. Diagnose hypoparathyroidism before the procedure
 
-C. Potassium should be deliberately reduced to amplify the dominant adrenal signal
+C. Estimate the patient's daily oral potassium intake
 
-D. Potassium correction is unnecessary because sampling is performed inside a vein
+D. Identify the affected adrenal gland solely from the highest unadjusted aldosterone value
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Hypokalemia can suppress aldosterone secretion and compromise interpretation, so the team should review correction before sampling**
+**Correct answer: A. Assess whether the adrenal vein was successfully sampled using the selectivity index**
 
-- **A — Correct:** Low potassium aldosterone secretion influence karta hai aur functional comparison misleading ho sakta hai. Procedure team appropriate correction aur medication review confirm karti hai.
-- **B — Incorrect:** Cannulation success catheter position aur sampling technique par depend karti hai. Potassium low hone se success guarantee nahi hoti.
-- **C — Incorrect:** Deliberate potassium reduction dangerous ho sakti hai aur desired interpretation bhi compromise kar sakti hai. Safe correction preferred hai.
-- **D — Incorrect:** Venous sampling ka purpose hormone comparison hai. Electrolyte status secretion ko affect karta hai, isliye preparation important hai.
+- **A — Correct:** Adrenal-vein aur systemic cortisol ka ratio selectivity assess karne mein use hota hai. Successful catheter sampling establish karna aldosterone lateralization interpret karne se pehle important hai.
+- **B — Incorrect:** Hypoparathyroidism calcium aur PTH assessment se related hai. AVS cortisol selectivity comparison us disease ko diagnose nahi karta.
+- **C — Incorrect:** Cortisol ratio dietary potassium intake ka direct estimate nahi hai. Iska procedural purpose adrenal sample selectivity assess karna hai.
+- **D — Incorrect:** Unadjusted aldosterone values sampling dilution se affected ho sakti hain. Correctly sampled veins aur appropriate aldosterone-to-cortisol interpretation needed hai.
 
-**Exam clue:** AVS se pehle potassium aur medicine plan verify karo.
+**Exam clue:** Selectivity assesses sampling adequacy before lateralization is interpreted.
 
-**Clinical reference:** [2025 Endocrine Society primary aldosteronism guideline](https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2)
+**Clinical reference:** [2025 Endocrine Society primary aldosteronism guideline](https://academic.oup.com/jcem/article/110/9/2453/8196671)
 
-**YouTube MCQ practice:** Specific question-solving verification pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 

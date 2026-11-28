@@ -574,33 +574,33 @@ D. Reassure the patient that benign cytology excludes all mechanical complicatio
 
 </details>
 
-### Q20. A stable patient with a previously assessed low-risk thyroid nodule repeatedly misses surveillance visits because of shift work. Which nursing action best supports safe continuity?
+### Q20. A patient with a benign thyroid nodule and normal thyroid function asks whether routine levothyroxine treatment is needed to shrink the nodule. Which response is most consistent with the 2023 ETA guideline?
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Ask the patient to assess cancer risk by measuring neck circumference alone
+A. Levothyroxine is mandatory before every follow-up thyroid ultrasound
 
-B. Agree on a feasible follow-up plan and document the responsible clinician, next assessment and symptoms that require earlier review
+B. Routine thyroid hormone treatment is not indicated solely for euthyroid nodular thyroid disease
 
-C. Remove the nodule from the follow-up register because the patient is asymptomatic
+C. All euthyroid nodules require high-dose levothyroxine until TSH is undetectable
 
-D. Arrange repeated uncoordinated biopsies without reviewing the previous risk assessment
+D. Normal thyroid function is an indication for routine antithyroid medication
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Agree on a feasible follow-up plan and document the responsible clinician, next assessment and symptoms that require earlier review**
+**Correct answer: B. Routine thyroid hormone treatment is not indicated solely for euthyroid nodular thyroid disease**
 
-- **A — Incorrect:** Neck circumference specific nodule morphology ya malignancy risk measure nahi karti. Appropriate clinical aur ultrasound reassessment ka role hai.
-- **B — Correct:** Low-risk nodule surveillance ka plan follow-up access ke saath workable hona chahiye. Clear responsibility aur earlier review ke symptoms document karne se missed assessment ka risk kam hota hai.
-- **C — Incorrect:** Asymptomatic status planned surveillance ki need automatically remove nahi karta. Risk-based follow-up decision treating team karti hai.
-- **D — Incorrect:** Uncoordinated repeat biopsy unnecessary procedures aur contradictory records create kar sakti hai. Prior imaging aur cytology review honi chahiye.
+- **A — Incorrect:** Ultrasound structural follow-up test hai aur levothyroxine pretreatment universally required nahi hai. Surveillance risk category aur clinician plan ke hisaab se hoti hai.
+- **B — Correct:** Euthyroid nodular disease mein routine thyroid hormone treatment indicated nahi hai. Unnecessary TSH suppression se iatrogenic thyrotoxicosis aur cardiac ya skeletal adverse effects ka risk ho sakta hai.
+- **C — Incorrect:** Har benign euthyroid nodule ke liye high-dose suppression recommend nahi hoti. Undetectable TSH ko universal treatment target banana unsafe hai.
+- **D — Incorrect:** Antithyroid medicines hormone synthesis reduce karti hain. Normal thyroid function mein sirf nodule ki presence unka indication nahi hai.
 
-**Exam clue:** Surveillance ka matlab planned follow-up hai, no follow-up nahi.
+**Exam clue:** Euthyroid benign nodule does not automatically require thyroid hormone treatment.
 
-**Clinical reference:** [2023 ETA thyroid nodule guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC10448590/)
+**Clinical reference:** [2023 European Thyroid Association nodule guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC10448590/)
 
-**YouTube MCQ practice:** Specific question-solving coverage verification pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
