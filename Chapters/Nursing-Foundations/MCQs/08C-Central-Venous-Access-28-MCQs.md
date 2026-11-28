@@ -18,12 +18,12 @@ D. Its dressing is transparent
 
 **Correct answer: B. Its tip terminates in a high-flow central vein**
 
-- **A (Incorrect):** Tubing ka colour central delivery ki safety establish nahi karta.
-- **B (Correct):** Central vein mein blood flow zyada hota hai. Isliye suitable central tip par prescribed concentrated solution blood ke saath jaldi dilute ho sakta hai.
-- **C (Incorrect):** Arm mein insertion hone se tip central hona prove nahi hota. Midline bhi arm mein insert hoti hai.
-- **D (Incorrect):** Transparent dressing se skin site dikhti hai, lekin tip ki location nahi pata chalti.
+- **A (Incorrect):** Tubing ka colour manufacturer ke design se related ho sakta hai. Colour se actual tip ki location establish nahi hoti, isliye nurse tip confirmation aur prescribed route check karti hai.
+- **B (Correct):** Central vein mein blood flow zyada hota hai. Jab suitable concentrated medicine verified central tip se di jaati hai, toh flowing blood mein jaldi dilute ho sakti hai. Upper arm se insert hone wali PICC ki tip central vein tak jaati hai. Nurse tip position, device suitability aur medicine compatibility verify karti hai.
+- **C (Incorrect):** Midline bhi upper arm mein insert hoti hai, lekin uski tip peripheral vein mein rehti hai. Isliye insertion site alone central access ka proof nahi hai.
+- **D (Incorrect):** Transparent dressing se skin ki redness ya leakage assess kar sakte hain. Lekin body ke andar ki catheter tip dressing se nahi dikh sakti.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** PICC ki central delivery ability ko confirmed tip position se pehchano, entry site se nahi.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -45,12 +45,12 @@ D. Relabel the midline as a PICC
 
 **Correct answer: A. Arrange an authorized suitable central access plan before administration**
 
-- **A (Correct):** Midline ki tip peripheral vein mein hoti hai. Jab formulation central route maangti hai, toh suitable central access ke bina dena tissue injury ka risk badha sakta hai.
-- **B (Incorrect):** Catheter ki length se central tip prove nahi hoti.
-- **C (Incorrect):** Rate kam karne se route restriction automatically khatam nahi hoti.
-- **D (Incorrect):** Label change karne se catheter ki actual tip position nahi badalti.
+- **A (Correct):** Midline ki tip peripheral vein mein hoti hai. Central-only medicine wahan dene se vein irritation aur tissue injury ho sakti hai. Nurse dose se pehle prescribing aur vascular access team se suitable confirmed central access arrange karwati hai.
+- **B (Incorrect):** Midline short cannula se lambi ho sakti hai, lekin length alone tip ko central nahi banati. Prescribed route ke according device choose karna chahiye.
+- **C (Incorrect):** Infusion slow karne se medicine ka approved route, concentration ya pH automatically nahi badalta. Bina authorized review route restriction bypass karna unsafe hai.
+- **D (Incorrect):** Label badalne se catheter ki anatomical tip position nahi badalti. Galat label future staff ko unsafe route use karne ke liye mislead kar sakta hai.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Midline peripheral access hai. Central-only prescription ko verified central access chahiye.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -72,12 +72,12 @@ D. The reservoir and catheter are beneath the skin when the port is not accessed
 
 **Correct answer: D. The reservoir and catheter are beneath the skin when the port is not accessed**
 
-- **A (Incorrect):** Catheter dissolve nahi hota. Ye repeated treatment ke liye body mein rehta hai.
-- **B (Incorrect):** Har dose ke liye new implantation ki zaroorat nahi hoti.
-- **C (Incorrect):** Venous port ka catheter vein mein terminate karta hai, artery mein nahi.
-- **D (Correct):** Implanted port mein ek reservoir skin ke neeche hota hai aur catheter central vein tak jaata hai. Needle remove hone ke baad external tubing nahi rehti.
+- **A (Incorrect):** Implanted catheter multiple treatments ke liye body ke andar rehta hai. Infusion khatam hone par woh dissolve nahi hota. Maintenance device instructions ke according hoti hai.
+- **B (Incorrect):** Port repeated venous access ke liye banaya jaata hai. Har dose se pehle new implantation unnecessary invasive procedure aur complication risk create karega.
+- **C (Incorrect):** Venous port ki catheter tip vein mein hoti hai. Arterial access alag indication aur device plan maangta hai.
+- **D (Correct):** Implanted port mein skin ke neeche ek reservoir hota hai jo central catheter se connected rehta hai. Trained clinician special non-coring needle se reservoir access karta hai. Needle remove hone par port aur catheter skin ke neeche hi rehte hain, isliye external tubing nahi hoti.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Unaccessed implanted port ka reservoir aur catheter skin ke neeche rehte hain.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -99,12 +99,12 @@ D. The catheter crosses the skin twice to enter an artery
 
 **Correct answer: C. Part of the catheter travels beneath the skin before entering the vein**
 
-- **A (Incorrect):** Dressing ke neeche skin exit hota hai, jabki tip central vein mein hoti hai.
-- **B (Incorrect):** External aur internal segments ek hi connected catheter ka part hain.
-- **C (Correct):** Tunneled catheter skin ke neeche ek pathway se guzarta hai. Isliye skin exit aur vein entry alag locations par ho sakte hain.
-- **D (Incorrect):** Tunnel ka purpose arterial access banana nahi hai.
+- **A (Incorrect):** Exit-site dressing skin se catheter ke bahar aane wali jagah cover karti hai. Actual tip body ke andar central vein mein hoti hai.
+- **B (Incorrect):** External aur internal segments ek continuous catheter ke parts hain. Isi connection se prescribed fluid central vein tak pahunchta hai.
+- **C (Correct):** Tunneled catheter ka kuch portion skin ke neeche pathway se guzarta hai aur phir vein mein enter karta hai. Isliye skin exit site aur venous entry site alag ho sakte hain. Nurse dressing aur tunnel-related symptoms assess karti hai.
+- **D (Incorrect):** Tunnel venous catheter ka route aur securement manage karne mein help karta hai. Iska purpose catheter ko artery mein pahunchana nahi hai.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Tunneled line mein skin exit aur vein entry alag ho sakte hain, lekin tip central vein mein hoti hai.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -126,12 +126,12 @@ D. Choose the largest conventional needle
 
 **Correct answer: B. Obtain the appropriate non-coring needle before accessing the port**
 
-- **A (Incorrect):** Peripheral cannula port reservoir access ke liye designed nahi hoti.
-- **B (Correct):** Port ka septum ek special seal hota hai. Non-coring needle us seal se material cut out hone ka risk kam karti hai, isliye correct needle chahiye.
-- **C (Incorrect):** Ordinary needle skin puncture kar sakti hai lekin port septum damage kar sakti hai.
-- **D (Incorrect):** Bada conventional needle septum protection nahi deta.
+- **A (Incorrect):** Peripheral cannula vein puncture ke liye bani hoti hai. Port reservoir ki seal safely access karne ke liye specified needle chahiye.
+- **B (Correct):** Septum port ki self-sealing layer hoti hai. Non-coring needle us layer ka tukda cut out hone ka risk kam karti hai. Nurse appropriate compatible needle available hone tak access defer karti hai.
+- **C (Incorrect):** Conventional cutting needle skin puncture kar sakti hai, lekin port septum damage kar sakti hai. Isse leakage ya device failure ho sakta hai.
+- **D (Incorrect):** Needle ka size badhane se cutting design non-coring nahi banti. Inappropriate needle septum aur tissue ko damage kar sakti hai.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Port ko manufacturer-compatible non-coring needle se access karna chahiye.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -153,12 +153,12 @@ D. Treat blood return as proof of pressure compatibility
 
 **Correct answer: A. Verify the exact device and compatible needle pressure rating before use**
 
-- **A (Correct):** Power injector high pressure generate karta hai. Sirf manufacturer-approved device aur suitable access needle ko specified limits ke andar use karna chahiye.
-- **B (Incorrect):** Har port high pressure tolerate nahi karta.
-- **C (Incorrect):** Maximum pressure se device damage ho sakta hai.
-- **D (Incorrect):** Blood return patency ka clue hai, pressure rating ka proof nahi hai.
+- **A (Correct):** Power injector contrast high flow aur pressure se deliver karta hai. Har port aur needle itna pressure tolerate nahi kar sakte. Nurse exact device aur needle ki compatibility aur manufacturer limits confirm karti hai. Confirmation na mile toh radiology team se alternative access arrange karwati hai.
+- **B (Incorrect):** Ports alag designs mein aate hain. Kuch power-injectable hain aur kuch nahi, isliye har port ko automatically suitable maanna unsafe hai.
+- **C (Incorrect):** Maximum pressure laga kar testing se catheter rupture, disconnection ya leakage ho sakti hai. Safe rating documentation se verify hoti hai, patient par pressure test se nahi.
+- **D (Incorrect):** Blood return lumen ki aspiration ability ka clue hai. Isse maximum pressure rating prove nahi hoti, jo separately verify karni hoti hai.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Power injection se pehle port, needle aur system ki documented pressure compatibility verify karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -180,12 +180,12 @@ D. The second lumen functions but the malfunctioning lumen requires its own asse
 
 **Correct answer: D. The second lumen functions but the malfunctioning lumen requires its own assessment**
 
-- **A (Incorrect):** Common outer body hone par bhi internal channels alag ho sakte hain.
-- **B (Incorrect):** Dusre lumen mein injection blocked channel ko reliably clear nahi karta.
-- **C (Incorrect):** Ek functioning lumen se migration ya other tip problems completely exclude nahi hote.
-- **D (Correct):** Multilumen catheter ke channels separate hote hain. Ek lumen ka function dusre lumen ki patency confirm nahi karta, isliye affected lumen separately assess karna hoga.
+- **A (Incorrect):** Outer catheter body common hone par bhi andar separate channels ho sakte hain. Ek channel open aur doosra blocked ho sakta hai.
+- **B (Incorrect):** Functioning lumen mein injection blocked lumen ka obstruction reliably clear nahi karta. Har channel ka cause separately assess hota hai.
+- **C (Incorrect):** Ek functioning lumen se tip migration ya doosri problems completely exclude nahi hoti. Device ki actual condition assess karni chahiye.
+- **D (Correct):** Lumen catheter ke andar ka channel hai jisse fluid diya ya blood aspirate kiya jaata hai. Multilumen device mein channels separately function karte hain. Nurse affected lumen ka routine use rok kar patency concern authorized protocol se evaluate karwati hai.
 
-**Exam clue:** Patency assess karte waqt aspiration aur injection dono ki suitability consider karo.
+**Exam clue:** Ek lumen ki patency doosre lumen ki patency confirm nahi karti.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#patency) · [Clinical reference](https://www.cnsa.org.au/implement/vascular-access-devices/section-1-patency-occlusion-prevention/occlusion-assessment-management.html)
 
@@ -207,12 +207,12 @@ D. Start because the catheter has a central-line label
 
 **Correct answer: C. Confirm authorized use and acceptable tip position before routine infusion**
 
-- **A (Incorrect):** Drug delivery ko position test banana patient ko harm kar sakta hai.
-- **B (Incorrect):** Dressing se external site ka status pata chalta hai, internal tip ka nahi.
-- **C (Correct):** Central-only drug ke liye suitable tip position important hai. Nurse ko routine use se pehle documented confirmation aur local authorization verify karni chahiye.
-- **D (Incorrect):** Device label intended type batata hai, actual tip position nahi.
+- **A (Incorrect):** Agar tip wrong position mein hai toh first medicine dose tissue ya vessel injury kar sakti hai. Medicine ko placement test ke roop mein use nahi karte.
+- **B (Incorrect):** Intact dressing external site protect karti hai, lekin internal tip position confirm nahi karti.
+- **C (Correct):** PICC ka intended endpoint central vein hai, lekin actual placement confirm karna zaroori hai. Stable patient mein unresolved report ke saath central-only infusion start nahi karte. Nurse documented tip confirmation aur authorized use verify karti hai.
+- **D (Incorrect):** Central-line label intended device type batata hai. Actual tip malposition ho sakti hai, isliye label confirmation report ka substitute nahi hai.
 
-**Exam clue:** External appearance se internal tip position confirm nahi hoti.
+**Exam clue:** Unresolved PICC tip report clarify kiye bina routine central-only infusion start mat karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#position) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -234,12 +234,12 @@ D. Proof that the catheter became longer inside the vein
 
 **Correct answer: B. Possible migration requiring assessment and tip verification as indicated**
 
-- **A (Incorrect):** Exposed segment ko wapas advance karna contamination aur injury ka risk hai.
-- **B (Correct):** External length badhne ka matlab catheter bahar ki taraf move hua ho sakta hai. Pain absent ho tab bhi nurse ko use hold karke placement concern evaluate karna chahiye.
-- **C (Incorrect):** Length badhne se central advancement prove nahi hoti.
-- **D (Incorrect):** Catheter ki material length normally is tarah nahi badalti.
+- **A (Incorrect):** Exposed segment contaminated ho sakta hai. Usko independently vein mein push karne se infection aur injury ka risk hai. Nurse line secure karke trained team se review leti hai.
+- **B (Correct):** External length 3 cm se 6 cm ho gayi, yaani bahar ka segment 3 cm badha hai. Yeh possible outward migration ka clue hai, chahe pain na ho. Nurse routine use hold karti hai aur position aur function ko approved protocol ke according verify karwati hai.
+- **C (Incorrect):** Bahar zyada catheter dikhne se tip heart ki taraf advance hui hai, yeh conclude nahi kar sakte. Outward migration ka concern hai.
+- **D (Incorrect):** Catheter material ki length normally 3 cm nahi badhti. Measured change ko possible movement ya measurement discrepancy ke roop mein assess karna chahiye.
 
-**Exam clue:** External appearance se internal tip position confirm nahi hoti.
+**Exam clue:** External length badle toh migration assess karo aur exposed segment independently andar mat push karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#position) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -261,12 +261,12 @@ D. The line proves normal left ventricular function
 
 **Correct answer: A. The tip may be irritating the heart**
 
-- **A (Correct):** Agar tip heart ke andar zyada advance ho jaaye, toh heart ki electrical activity irritate ho sakti hai. New ectopy par urgent clinical assessment aur tip review zaroori hai.
-- **B (Incorrect):** New arrhythmia ko routine normal finding nahi maana jaata.
-- **C (Incorrect):** Ectopy se port septum leak prove nahi hota.
-- **D (Incorrect):** Rhythm change left ventricular function normal hone ka proof nahi hai.
+- **A (Correct):** Ectopic beat ka matlab usual cardiac electrical origin ke bahar se aane wala beat hai. Agar tip heart ke andar zyada advance ho toh cardiac tissue irritate ho sakta hai. Nurse rhythm, vital signs aur symptoms assess karti hai aur urgent tip review arrange karti hai.
+- **B (Incorrect):** Nayi ectopy normal function ka proof nahi hai. Catheter irritation ya doosri cardiac problem possible hai.
+- **C (Incorrect):** Septum leakage mein reservoir ke paas fluid leakage ya swelling ho sakti hai. Ectopy alone septum damage diagnose nahi karti.
+- **D (Incorrect):** Rhythm change left ventricular pumping ability establish nahi karta. Cardiac function ki appropriate clinical assessment chahiye.
 
-**Exam clue:** External appearance se internal tip position confirm nahi hoti.
+**Exam clue:** New arrhythmia after central placement mein tip-related cardiac irritation consider karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#position) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -288,12 +288,12 @@ D. Possible procedure-related pneumothorax
 
 **Correct answer: D. Possible procedure-related pneumothorax**
 
-- **A (Incorrect):** New respiratory deterioration normal adaptation nahi hai.
-- **B (Incorrect):** Arm phlebitis unilateral breath sounds kam hone ko explain nahi karti.
-- **C (Incorrect):** Saline flush ka expected effect sudden hypoxia nahi hai.
-- **D (Correct):** Neck ya chest access ke dauran lung ke paas injury se pleural space mein air aa sakti hai. Isse lung collapse aur oxygenation problem ho sakti hai. Urgent assessment chahiye.
+- **A (Incorrect):** Central insertion ke baad oxygenation worsen hona normal adaptation nahi hai. New respiratory deterioration immediate assessment maangti hai.
+- **B (Incorrect):** Superficial phlebitis arm ki vein mein local inflammation hai. Isse ek lung ke breath sounds suddenly kam hona directly explain nahi hota.
+- **C (Incorrect):** Routine saline flush se sudden unilateral reduced breath sounds aur hypoxia expected nahi hai. Isko normal assume karna serious complication miss kar sakta hai.
+- **D (Correct):** Neck central access mein pleura injure ho sakti hai. Agar pleural space mein air jama ho toh lung collapse ho sakta hai, jise pneumothorax kehte hain. Nurse airway, breathing, circulation aur oxygenation immediately assess karti hai aur emergency help activate karti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Central placement ke baad sudden dyspnea aur unilateral reduced breath sounds possible pneumothorax ke warning signs hain.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -315,12 +315,12 @@ D. Pull it out immediately without a clinical plan
 
 **Correct answer: C. Alert the operator urgently and avoid unplanned removal pending specialist management**
 
-- **A (Incorrect):** Uncertain arterial placement mein venous medicine dena unsafe hai.
-- **B (Incorrect):** Dressing alone serious placement complication manage nahi karti.
-- **C (Correct):** Large-bore arterial injury mein uncontrolled removal severe bleeding cause kar sakta hai. Nurse ko urgent specialist help arrange karni chahiye aur device ko independently manipulate nahi karna chahiye.
-- **D (Incorrect):** Blind removal se bleeding control mushkil ho sakta hai.
+- **A (Incorrect):** Suspected arterial placement mein venous medication inject karke flow test karna unsafe hai. Device position aur injury specialist assess karega.
+- **B (Incorrect):** Routine dressing skin entry cover kar sakti hai, lekin large artery injury manage nahi karti. Procedure continue karne se complication worsen ho sakti hai.
+- **C (Correct):** Dilator insertion pathway widen karta hai. Large-bore dilator artery mein enter ho toh bina planned removal severe bleeding ya neurological injury ho sakti hai. Nurse operator ko urgently alert karti hai aur device ko independently manipulate ya remove nahi karti. Specialist safe removal plan banata hai.
+- **D (Incorrect):** Blind removal ke baad deep arterial bleeding ko simple pressure se control karna difficult ho sakta hai. Urgent specialist guidance zaroori hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Suspected large-bore arterial cannulation mein device ko in situ secure rakho aur urgent specialist help lo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -342,12 +342,12 @@ D. Normal adaptation to an intact PICC
 
 **Correct answer: B. Catheter-associated upper-extremity venous thrombosis**
 
-- **A (Incorrect):** Dressing se arterial embolism confirm nahi hota.
-- **B (Correct):** Catheter ke around vein mein clot ban sakta hai aur venous drainage block ho sakti hai. Isliye poore arm ki swelling par clinical review aur indicated imaging chahiye.
-- **C (Incorrect):** Clean site infection ko completely exclude nahi karti aur swelling ka vascular cause bhi ho sakta hai.
-- **D (Incorrect):** New whole-arm swelling expected normal finding nahi hai.
+- **A (Incorrect):** Dressing se artery ke andar clot confirm nahi hota. Whole-arm swelling ka cause clinical assessment aur appropriate investigation se samajhte hain.
+- **B (Correct):** PICC ke around vein mein thrombus, yaani blood clot, ban sakta hai. Venous return obstruct ho toh arm swelling aur shoulder discomfort ho sakte hain. Nurse limb aur vital signs assess karti hai aur prompt review aur indicated imaging arrange karti hai. New chest pain ya dyspnea par emergency assessment chahiye.
+- **C (Incorrect):** Clean dressing external site ka appearance batati hai. Isse bloodstream infection ya deeper venous thrombosis completely exclude nahi hoti.
+- **D (Incorrect):** New whole-arm swelling normal PICC adaptation nahi hai. Isko ignore karne se serious vascular complication miss ho sakti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** PICC wali side par nayi whole-arm swelling venous thrombosis ka possible clue hai.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -369,12 +369,12 @@ D. Encourage vigorous exercise until swelling resolves
 
 **Correct answer: A. Avoid massage and arrange prompt clinical evaluation**
 
-- **A (Correct):** Jab clot ka suspicion ho, toh massage safe diagnostic ya treatment method nahi hai. Nurse ko timely assessment aur prescribed management arrange karna chahiye.
-- **B (Incorrect):** Firm massage tissue injury kar sakti hai aur clot management ka approved method nahi hai.
-- **C (Incorrect):** Removal ka decision clot, device need aur clinical plan par depend karta hai.
-- **D (Incorrect):** Vigorous exercise symptoms ko ignore karta hai aur evaluation delay kar sakta hai.
+- **A (Correct):** Suspected clot mein massage safe diagnosis ya treatment nahi hai. Nurse arm ko unnecessarily manipulate nahi karti aur prompt evaluation arrange karti hai. New chest pain ya breathlessness par emergency pathway follow hota hai.
+- **B (Incorrect):** Firm massage painful tissue injure kar sakti hai aur thrombosis clear karne ka approved treatment nahi hai. Isse required assessment delay ho sakti hai.
+- **C (Incorrect):** Catheter removal clot, line ki necessity, function, position aur infection status par depend karta hai. Kuch suitable lines clinician ke anticoagulation plan ke saath retain ki ja sakti hain. Nurse independently remove nahi karti.
+- **D (Incorrect):** Vigorous exercise ko swelling resolve karne ka treatment samajhna unsafe hai. Suitable activity clinical evaluation aur treatment plan ke according decide hoti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Suspected catheter-associated thrombosis mein massage nahi, prompt clinical review chahiye.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -396,12 +396,12 @@ D. Withdrawal occlusion or another dysfunction remains possible
 
 **Correct answer: D. Withdrawal occlusion or another dysfunction remains possible**
 
-- **A (Incorrect):** Easy injection alone complete patency establish nahi karti.
-- **B (Incorrect):** Complete two-way blockage mein injection bhi possible nahi hota.
-- **C (Incorrect):** Kuch therapies ke liye blood return aur patency verification essential hoti hai. Policy ignore nahi karni chahiye.
-- **D (Correct):** Kabhi fluid andar ja sakta hai lekin blood return nahi milta. Fibrin sheath ya tip position jaise causes ho sakte hain. Nurse ko infusion suitability aur patency protocol check karna chahiye.
+- **A (Incorrect):** Easy injection ke bawajood blood aspirate nahi ho raha hai. Isliye complete normal patency establish nahi hoti, kyunki aspiration aur injection dono assess karne hote hain.
+- **B (Incorrect):** Complete two-way obstruction mein fluid inject karna aur blood aspirate karna dono difficult ya impossible hote hain. Yahan injection possible hai.
+- **C (Incorrect):** Kuch therapies, especially vesicants, mein reliable blood return aur documented patency essential hai. Nurse absent return ignore karke routine infusion start nahi karti.
+- **D (Correct):** Withdrawal occlusion mein fluid andar ja sakta hai lekin blood aspirate nahi hota. Fibrin sheath catheter tip par one-way flap ki tarah behave kar sakti hai. Tip position ya mechanical problem bhi possible hai. Nurse affected line ka routine use hold karke cause-specific patency assessment karwati hai.
 
-**Exam clue:** Patency assess karte waqt aspiration aur injection dono ki suitability consider karo.
+**Exam clue:** Easy flush alone full patency prove nahi karti. Absent blood return investigate karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#patency) · [Clinical reference](https://www.cnsa.org.au/implement/vascular-access-devices/section-1-patency-occlusion-prevention/occlusion-assessment-management.html)
 
@@ -423,12 +423,12 @@ D. Automatic thrombolytic use for every obstruction
 
 **Correct answer: C. A cause-specific occlusion protocol with pharmacy and trained clinicians**
 
-- **A (Incorrect):** Household chemical sterile aur device-compatible treatment nahi hota.
-- **B (Incorrect):** High pressure device rupture ya unsafe delivery cause kar sakta hai.
-- **C (Correct):** Drug precipitate chemical blockage hai, jabki clot thrombotic blockage hai. Dono ka management alag ho sakta hai, isliye exact cause aur approved protocol zaroori hain.
-- **D (Incorrect):** Thrombolytic clot ke liye prescribed ho sakta hai lekin every chemical obstruction ko resolve nahi karta.
+- **A (Incorrect):** Household acidic solution sterile medical product nahi hai aur catheter ya blood ke saath unsafe interaction kar sakti hai. Unapproved chemical lumen mein nahi dete.
+- **B (Incorrect):** Forceful flush se catheter rupture ya obstructing material unsafe tareeke se move ho sakta hai. Resistance par nurse pressure badhane ke bajay assessment arrange karti hai.
+- **C (Correct):** Incompatible medicines mix hone par solid particles, yaani precipitate, lumen mein ban sakte hain. Chemical blockage clot aur mechanical obstruction se alag hai. Nurse drug history verify karti hai aur pharmacy aur trained clinicians ke approved cause-specific protocol se management karwati hai.
+- **D (Incorrect):** Thrombolytic selected thrombotic blockage mein prescribed ho sakta hai. Chemical precipitate ya kink ko automatically resolve nahi karta.
 
-**Exam clue:** Patency assess karte waqt aspiration aur injection dono ki suitability consider karo.
+**Exam clue:** Occlusion ka cause identify karo. Chemical blockage aur clot ke treatments alag ho sakte hain.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#patency) · [Clinical reference](https://www.cnsa.org.au/implement/vascular-access-devices/section-1-patency-occlusion-prevention/occlusion-assessment-management.html)
 
@@ -450,12 +450,12 @@ D. A universal rule that every lock is discarded
 
 **Correct answer: B. The exact lock prescription, device instructions and local protocol**
 
-- **A (Incorrect):** Colour lock drug, volume ya handling method nahi batata.
-- **B (Correct):** Lock solution catheter ke lumen mein dwell karta hai. Kuch medication locks ka systemic delivery unsafe ho sakta hai, isliye exact prescription aur protocol verify karo.
-- **C (Incorrect):** Har lock formulation patient mein flush karna safe nahi hota.
-- **D (Incorrect):** Har lock ko aspirate karna bhi universal requirement nahi hai.
+- **A (Incorrect):** External colour lock drug, volume ya handling method nahi batata. Actual medication prescription check karni chahiye.
+- **B (Correct):** Lock solution prescribed fluid hota hai jo unused lumen mein kuch samay rehta hai. Kuch medication-containing locks systemic circulation mein flush karne par harm kar sakte hain. Nurse exact drug, concentration, volume, device instructions aur aspiration ya flushing protocol verify karti hai.
+- **C (Incorrect):** Har lock flush karne se concentrated medication ki unintended systemic dose mil sakti hai. Universal flush rule unsafe hai.
+- **D (Incorrect):** Kuch approved locks flushing allow karte hain aur kuch aspiration require karte hain. Har lock discard karna bhi universal requirement nahi hai.
 
-**Exam clue:** Patency assess karte waqt aspiration aur injection dono ki suitability consider karo.
+**Exam clue:** Lock ka aspiration ya flushing decision exact prescription aur device protocol se lo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#patency) · [Clinical reference](https://www.cnsa.org.au/implement/vascular-access-devices/section-1-patency-occlusion-prevention/occlusion-assessment-management.html)
 
@@ -477,12 +477,12 @@ D. Choose a sequence solely by patient age
 
 **Correct answer: A. Follow the device-specific valve and connector instructions**
 
-- **A (Correct):** Valve aur connector design fluid reflux aur closure ko affect karte hain. Nurse ko manufacturer aur local protocol ke hisaab se correct sequence use karni chahiye.
-- **B (Incorrect):** Same clamping sequence har design ke liye suitable nahi hoti.
-- **C (Incorrect):** Kuch devices mein clamping zaroori hoti hai.
-- **D (Incorrect):** Age clinical context hai lekin valve mechanism determine nahi karti.
+- **A (Correct):** Valve aur connector design fluid reflux ko affect karte hain. Reflux ka matlab blood ka lumen mein wapas aana hai, jo blockage mein contribute kar sakta hai. Nurse unfamiliar device ke manufacturer aur local protocol se correct clamping sequence verify karti hai.
+- **B (Incorrect):** Different connector designs mein closure aur disconnection sequence alag ho sakta hai. Same sequence sab par apply karne se reflux ya unsafe access ho sakta hai.
+- **C (Incorrect):** Kuch open-ended devices mein clamping zaroori hoti hai aur valved designs ke instructions alag ho sakte hain. Never clamp ka blanket rule safe nahi hai.
+- **D (Incorrect):** Age patient care mein relevant hai, lekin clamping sequence actual connector aur valve design se decide hoti hai.
 
-**Exam clue:** Patency assess karte waqt aspiration aur injection dono ki suitability consider karo.
+**Exam clue:** Clamping sequence device-specific hai. Unfamiliar connector ki instructions verify karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#patency) · [Clinical reference](https://www.cnsa.org.au/implement/vascular-access-devices/section-1-patency-occlusion-prevention/occlusion-assessment-management.html)
 
@@ -504,12 +504,12 @@ D. Access needle displacement or malfunction with possible tissue leakage
 
 **Correct answer: D. Access needle displacement or malfunction with possible tissue leakage**
 
-- **A (Incorrect):** Reservoir treatment ke dauran visibly swell hona expected nahi hai.
-- **B (Incorrect):** Local swelling central tip position confirm nahi karti.
-- **C (Incorrect):** Pressure badhane se leaked amount aur injury badh sakti hai.
-- **D (Correct):** Port ki needle reservoir septum mein correctly seated honi chahiye. Agar needle move ho jaaye toh drug skin ke neeche leak ho sakti hai. Infusion stop karke urgent assessment aur drug-specific protocol follow karo.
+- **A (Incorrect):** Port reservoir defined chamber hota hai. Uske upar infusion ke dauran new visible swelling expected expansion nahi hai. Leakage ya malfunction assess karna chahiye.
+- **B (Incorrect):** Local swelling central tip function prove nahi karti. Yeh reservoir ke aas-paas fluid leakage ka warning sign ho sakti hai.
+- **C (Incorrect):** Pump pressure badhane se leaked fluid aur injury badh sakti hai. New swelling par infusion stop karna priority hai.
+- **D (Correct):** Port needle septum mein correctly seated honi chahiye. Agar needle displace ho ya device malfunction kare toh medicine tissue mein leak ho sakti hai. Vesicant leakage ko extravasation kehte hain aur serious injury ho sakti hai. Nurse infusion stop karti hai, line flush nahi karti aur needle ko drug-specific protocol ke according manage karke urgent help leti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Port infusion ke dauran new swelling mein infusion stop karo aur leakage ya extravasation assess karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -531,12 +531,12 @@ D. Attempt repeated blind punctures until blood is obtained
 
 **Correct answer: C. Defer access and seek specialist assessment**
 
-- **A (Incorrect):** Cutting needle port access ke liye appropriate nahi hai.
-- **B (Incorrect):** Central medicine ko surrounding tissue mein inject karna unsafe ho sakta hai.
-- **C (Correct):** Agar port rotate ho gaya ho toh septum ki location uncertain ho sakti hai. Blind puncture se tissue injury aur failed access ka risk hai, isliye specialist assessment chahiye.
-- **D (Incorrect):** Repeated blind attempts se correct position prove nahi hoti aur injury badh sakti hai.
+- **A (Incorrect):** Cutting needle septum damage kar sakti hai. Isse rotated reservoir ki orientation confirm nahi hoti.
+- **B (Incorrect):** Central-only medicine surrounding tissue mein inject karne se tissue injury aur wrong-route administration ho sakti hai. Verified venous access ke bina dose nahi deni chahiye.
+- **C (Correct):** Port rotate ho jaaye toh septum ki position uncertain ho sakti hai. Blind puncture se tissue injury ya device damage ho sakta hai. Nurse access defer karti hai aur specialist se correct orientation aur safe function verify karwati hai.
+- **D (Incorrect):** Repeated blind punctures pain, bleeding aur infection risk badhate hain. Blood milne se alone correct port access establish nahi hota.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Port orientation uncertain ho toh blind access mat karo. Specialist assessment arrange karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -558,12 +558,12 @@ D. Use the nutrition lumen for all sampling without reviewing policy
 
 **Correct answer: B. Protect the designated nutrition lumen and coordinate other drugs through suitable compatible access**
 
-- **A (Incorrect):** Convenience ke liye repeated connection changes unnecessary interruptions aur access risks badhate hain.
-- **B (Correct):** Nutrition solution mein multiple nutrients hote hain aur compatibility complex ho sakti hai. Designated lumen aur policy follow karne se unnecessary mixing aur interruptions kam ho sakte hain.
-- **C (Incorrect):** Medication ko bag mein add karne se stability aur sterility affect ho sakti hai.
-- **D (Incorrect):** Blood sampling se nutrition delivery aur sample accuracy affect ho sakti hai. Local policy verify karo.
+- **A (Incorrect):** Nutrition ko convenience ke liye baar-baar interrupt karne se nutrient delivery affect ho sakti hai aur unnecessary line manipulation badh sakti hai.
+- **B (Correct):** Parenteral nutrition vein se glucose, amino acids, fats aur other nutrients dene ka tareeka hai. Is complex mixture mein compatibility aur infection prevention important hain. Nurse designated lumen protect karti hai aur other drugs ke liye pharmacy-verified compatible access plan follow karti hai.
+- **C (Incorrect):** Har medication nutrition bag mein add karne se precipitation, emulsion instability ya contamination ho sakti hai. Additives sirf authorized compatible preparation process se hone chahiye.
+- **D (Incorrect):** Nutrition lumen se blood sampling delivery interrupt kar sakti hai aur residual solution sample result affect kar sakta hai. Nurse policy aur suitable sampling access check karti hai.
 
-**Exam clue:** Device ka intended use aur actual tip position dono verify karna important hai.
+**Exam clue:** Designated nutrition lumen ko protect karo aur other medicines ka approved compatibility plan follow karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#devices) · [Clinical reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12519924/)
 
@@ -585,12 +585,12 @@ D. Direct measurement of left ventricular ejection fraction
 
 **Correct answer: A. A falsely high displayed pressure**
 
-- **A (Correct):** Transducer neeche hone se fluid column ka hydrostatic pressure extra add hota hai. Isliye displayed pressure actual reference pressure se high ho sakta hai.
-- **B (Incorrect):** Falsely low reading transducer reference se upar hone par ho sakti hai.
-- **C (Incorrect):** Height difference fluid pressure ko affect karta hai.
-- **D (Incorrect):** CVP right-sided venous pressure ka measurement hai, left ventricular ejection fraction ka nahi.
+- **A (Correct):** CVP transducer fluid pressure ko electrical reading mein convert karta hai. Right atrium ke reference level se neeche hone par fluid column ka extra hydrostatic pressure add hota hai. Isliye displayed CVP falsely high ho sakti hai. Nurse transducer ko prescribed reference par level karti hai.
+- **B (Incorrect):** Falsely low reading tab ho sakti hai jab transducer reference se upar ho. Yahan neeche hai, isliye error opposite direction mein hai.
+- **C (Incorrect):** Fluid-filled pressure system mein height difference hydrostatic pressure change karta hai. Reading height se independent nahi hoti.
+- **D (Incorrect):** CVP central venous aur right atrial pressure ka estimate hai. Left ventricular ejection fraction left ventricle se eject hone wale blood ka proportion hai aur alag assessment chahiye.
 
-**Exam clue:** CVP ko patient ki overall clinical condition aur measurement method ke saath interpret karo.
+**Exam clue:** Transducer neeche ho toh reading falsely high, upar ho toh falsely low ho sakti hai.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -612,12 +612,12 @@ D. Relevel the transducer and use a consistent documented measurement method
 
 **Correct answer: D. Relevel the transducer and use a consistent documented measurement method**
 
-- **A (Incorrect):** Old height new reference ke saath mismatch ho sakti hai.
-- **B (Incorrect):** Pressure change sirf blood volume se nahi hota. Position aur other factors bhi influence karte hain.
-- **C (Incorrect):** Heart rate aur pressure alag physiological measurements hain.
-- **D (Correct):** Patient position change hone par right atrium ka level change ho sakta hai. Comparable reading ke liye transducer relevel aur measurement conditions document karna zaroori hai.
+- **A (Incorrect):** Repositioning ke baad right atrium ki reference height change ho sakti hai. Purani transducer height se hydrostatic error aa sakta hai.
+- **B (Incorrect):** Position change ke baad pressure change venous return, chest pressure ya measurement error se related ho sakta hai. Blood volume definitely badhne ka proof nahi hai.
+- **C (Incorrect):** Heart rate beats per minute mein measure hota hai aur CVP pressure hai. Dono alag physiological measurements hain.
+- **D (Correct):** Supine se semi-recumbent hone par chest aur right atrium ki height change ho sakti hai. Nurse transducer relevel karti hai, prescribed zero verification aur respiratory phase protocol follow karti hai aur position document karti hai. Isse serial readings better compare ho sakti hain.
 
-**Exam clue:** CVP ko patient ki overall clinical condition aur measurement method ke saath interpret karo.
+**Exam clue:** Position change ke baad transducer relevel karo aur measurement conditions document karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -639,12 +639,12 @@ D. The patient definitely gained intravascular fluid
 
 **Correct answer: C. Intrathoracic pressure can influence CVP, so the change alone does not prove overload**
 
-- **A (Incorrect):** CVP alone left ventricular failure confirm nahi karta.
-- **B (Incorrect):** Intrathoracic pressure right-sided venous pressure measurement ko affect kar sakta hai.
-- **C (Correct):** Positive pressure chest ke andar pressure badha sakta hai aur measured CVP ko influence kar sakta hai. Nurse ko ventilation settings aur overall perfusion ke saath trend interpret karna chahiye.
-- **D (Incorrect):** Fluid overload ka diagnosis sirf CVP change se establish nahi hota.
+- **A (Incorrect):** CVP right-sided pressure se related hai. PEEP ke baad rise se left ventricular failure independently prove nahi hota.
+- **B (Incorrect):** Positive pressure ventilation chest pressure change karti hai. Yeh pressure central veins aur right atrium tak transmit ho sakta hai aur measured CVP affect kar sakta hai.
+- **C (Correct):** PEEP ka matlab expiration ke end par airway mein positive pressure maintain karna hai. PEEP badhne se intrathoracic pressure badh sakta hai aur measured CVP rise ho sakti hai. Nurse ventilator setting, perfusion aur clinical findings ke saath reading interpret karti hai. Sirf is change se fluid overload diagnose nahi karti.
+- **D (Incorrect):** Fluid gain se CVP badh sakti hai, lekin PEEP bhi independent influence hai. Fluid balance aur clinical findings ke bina definite fluid gain conclude nahi karte.
 
-**Exam clue:** CVP ko patient ki overall clinical condition aur measurement method ke saath interpret karo.
+**Exam clue:** PEEP aur chest pressure CVP ko influence karte hain. Rise ko automatically fluid overload mat samjho.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -666,12 +666,12 @@ D. CVP directly measures left ventricular stroke volume
 
 **Correct answer: B. A single CVP value does not reliably predict fluid responsiveness**
 
-- **A (Incorrect):** Unrestricted fluid overload cause kar sakta hai. Authorized reassessment-based plan follow karna chahiye.
-- **B (Correct):** Fluid responsiveness ka matlab fluid dene se cardiac output improve hona hai. Single static CVP is response ko reliably predict nahi karta. Perfusion, clinical assessment aur authorized dynamic evaluation ki zaroorat ho sakti hai.
-- **C (Incorrect):** Low pressure se patient ki response guarantee nahi hoti.
-- **D (Incorrect):** CVP central venous pressure hai, stroke volume ka direct measurement nahi.
+- **A (Incorrect):** Unrestricted fluid pulmonary edema ya tissue edema cause kar sakta hai, especially cardiac ya renal dysfunction mein. Nurse authorized reassessment-based resuscitation plan follow karti hai.
+- **B (Correct):** Fluid responsiveness ka matlab fluid dene par stroke volume ya cardiac output improve hona hai. CVP ek static pressure reading hai jo venous tone, right heart function aur chest pressure se bhi affect hoti hai. Single low CVP response reliably predict nahi karti. Overall perfusion aur suitable authorized dynamic assessment ke saath fluid plan decide hota hai.
+- **C (Incorrect):** Low CVP kuch patients mein low filling pressure suggest kar sakti hai, lekin har heart additional fluid par same response nahi deta. Isliye guaranteed response nahi hai.
+- **D (Incorrect):** Stroke volume ek heartbeat mein eject hone wale blood ka volume hai. CVP pressure measure karti hai, left ventricular stroke volume directly nahi.
 
-**Exam clue:** CVP ko patient ki overall clinical condition aur measurement method ke saath interpret karo.
+**Exam clue:** Single static CVP se fluid responsiveness reliably predict nahi hoti.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#monitoring) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -693,12 +693,12 @@ D. Cancel removal permanently without reviewing alternatives
 
 **Correct answer: A. Discuss an individualized removal position and air-entry precautions with the responsible clinician**
 
-- **A (Correct):** Central line removal mein air entry prevent karna important hai, lekin patient ki breathing bhi priority hai. Trained clinician safe position aur respiratory technique individual condition ke hisaab se decide karega.
-- **B (Incorrect):** Forced supine position respiratory compromise badha sakti hai.
-- **C (Incorrect):** Upright removal without precautions air entry ka risk badha sakta hai.
-- **D (Incorrect):** Permanent cancellation unnecessary access ko retain kar sakti hai. Safe plan review karna better hai.
+- **A (Correct):** Central line removal mein residual tract se air venous circulation mein enter kar sakti hai, especially jab venous pressure atmospheric pressure se kam ho. Lekin flat position respiratory distress worsen karti ho toh force karna unsafe hai. Nurse responsible clinician se individualized position, respiratory maneuver, occlusion aur observation precautions confirm karti hai.
+- **B (Incorrect):** Forced supine position patient ki breathing compromise kar sakti hai. Routine positioning ke liye respiratory distress worsen nahi karni chahiye.
+- **C (Incorrect):** Upright removal mein air entry risk badh sakta hai. Bina risk review aur approved precautions line remove nahi karni chahiye.
+- **D (Incorrect):** Permanent cancellation unnecessary access retain kar sakti hai aur infection ya thrombosis risk bana reh sakta hai. Team alternative safe plan consider kar sakti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Removal mein air-entry prevention aur patient's respiratory tolerance dono assess karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -720,12 +720,12 @@ D. The residual tract may permit air entry and needs appropriate occlusive dress
 
 **Correct answer: D. The residual tract may permit air entry and needs appropriate occlusive dressing per protocol**
 
-- **A (Incorrect):** Removal ke turant baad tract automatically seal hona guaranteed nahi hai.
-- **B (Incorrect):** Uncovered site air entry aur contamination ka risk badha sakti hai.
-- **C (Incorrect):** Bleeding ke saath air entry aur delayed symptoms bhi assess karne hote hain.
-- **D (Correct):** Catheter remove hone ke baad tissue tract kuch time open reh sakta hai. Air entry ka risk kam karne ke liye appropriate occlusive dressing aur observation local protocol ke hisaab se chahiye.
+- **A (Incorrect):** Removal ke baad skin se vein tak tract kuch samay open reh sakta hai. Immediate sealing guaranteed nahi hai.
+- **B (Incorrect):** Uncovered tract faster seal hone ka reliable proof nahi hai. Appropriate occlusive covering air entry aur contamination risk kam karne ke liye use hoti hai.
+- **C (Incorrect):** Bleeding ke saath air embolism aur delayed respiratory ya neurological symptoms bhi possible concerns hain. Patient observation chahiye.
+- **D (Correct):** Residual catheter tract se air bloodstream mein enter kar sakti hai. Nurse prescribed pressure aur air-occlusive dressing apply karti hai aur duration aur observation local protocol ke according maintain karti hai. New dyspnea, chest pain ya altered consciousness par urgent help leti hai.
 
-**Exam clue:** New symptoms ko routine finding assume karne ke bajay timely clinical assessment karao.
+**Exam clue:** Removal ke baad bleeding control, air-occlusive dressing aur observation zaroori hain.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#complications) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
@@ -747,12 +747,12 @@ D. Use the line because the patient arrived from a hospital
 
 **Correct answer: C. Obtain insertion and verification records and clarify restrictions**
 
-- **A (Incorrect):** Dressing colour device type ya tip confirm nahi karta.
-- **B (Incorrect):** Different lumens aur devices ki limitations alag ho sakti hain.
-- **C (Correct):** Safe handover mein device type, documented tip position, lumen function aur restrictions important hote hain. Records aur responsible team se clarification lena wrong-route use ka risk kam karta hai.
-- **D (Incorrect):** Hospital transfer se safe device status automatically establish nahi hota.
+- **A (Incorrect):** Dressing colour catheter type, internal tip ya permitted infusates confirm nahi karta. Documentation check karni chahiye.
+- **B (Incorrect):** Different devices aur lumens ki pressure rating, flow limit aur allowed therapies alag ho sakti hain. Identical limits assume karna unsafe hai.
+- **C (Correct):** Transferred patient ki central line routine use karne se pehle nurse device type, insertion record, tip confirmation, external length, lumen function aur restrictions verify karti hai. Records missing hon toh responsible team se clarification aur required assessment arrange karti hai. Isse wrong-route use aur device injury ka risk kam hota hai.
+- **D (Incorrect):** Hospital transfer se device ki current position aur function automatically verified nahi hote. Receiving team ko safe handover aur assessment chahiye.
 
-**Exam clue:** External appearance se internal tip position confirm nahi hoti.
+**Exam clue:** Unfamiliar central line ke routine use se pehle documented identity, tip aur restrictions verify karo.
 
 [Related concept](../Concepts/08C-Central-Venous-Access.md#position) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK594495/?report=classic)
 
