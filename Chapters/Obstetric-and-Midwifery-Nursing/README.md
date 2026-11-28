@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 464 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG aur 20 BPP MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 484 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP aur 20 ultrasound MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -26,6 +26,7 @@
 | Contraction stress test | [Concepts](Concepts/06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [SKAU 2026 official-source adaptation](Previous-Year-Questions/06D-CST-Exam-Evidence.md) |
 | Cardiotocography | [Concepts](Concepts/06E-Cardiotocography-CTG.md) · [20 original MCQs](MCQs/06E-Cardiotocography-CTG-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06E-CTG-Reported-Evidence.md) |
 | Biophysical profile | [Concepts](Concepts/06F-Biophysical-Profile-BPP.md) · [20 original MCQs](MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06F-BPP-Reported-Evidence.md) |
+| Obstetric ultrasound and biometry | [Concepts](Concepts/06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -107,3 +108,7 @@ Ab 20 CTG originals, 80 individual option explanations, two original flowcharts 
 ## Verified BPP expansion — 28 November 2026
 
 20 BPP originals, 80 option explanations, two original diagrams and one NORCET 9 Mains reported-key-discrepancy adaptation published. Obstetrics inventory 464 originals and 24 historical adaptations. Ultrasound next. Independent review and exact playback pending.
+
+## Verified ultrasound expansion — 28 November 2026
+
+20 ultrasound originals, 80 option explanations, two original diagrams and one RMLIMS 7 September 2025 memory-based adaptation published. Obstetrics inventory 484 originals and 25 historical adaptations. Doppler next. Independent review and exact playback pending.
