@@ -1,10 +1,18 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-priority-run5-20261128-0703Z
-Scope: PR35 Nutrition-only new 05A–E banks, guides, diagrams and inventory. No shared navigation, website or other jobs.
-Claimed UTC: 2026-11-28T07:03:00Z
-Expiry UTC: 2026-11-28T07:33:00Z
+State: FREE
+Owner: none
+Scope: no active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — Run 5
+
+Candidate head: e22d12bc15b9cb92b193e30d3a09dee16d9f2362
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-priority-run5-20261128-0703Z
+
+Run 5: 100 staged originals across pregnancy nutrition, lactation nutrition/human milk, complementary feeding, adolescent nutrition, nutrient preservation/cookery/food standards. 400 individual Roman Hinglish rationales, two guides and two SVGs. Cumulative 500 staged originals, 2000 rationales, ten guides and ten SVGs. All 46 prior Nutrition blobs and six live Nutrition blobs unchanged. Four live legacy originals and one reported adaptation preserved. Final 100 question blocks structurally valid; 33 Medium and 67 Difficult provisional labels; 25 keys each A/B/C/D. Zero exact normalized duplicates within new set or versus 405 prior original/reported stems. Selected 151 adjacent stems screened, three new tasks replaced. Ten final Run 5 files exactly read back. Elderly nutrition substituted with Unit X food preservation and standards after targeted Geriatric overlap review. Direct sources and evidence gaps in Nutrition-Run-05-Inventory.md. Full independent clinical/semantic review, complete historical bounded preflight, item-level source/video, current local supplementation and food regulation, INC reconciliation, coordination, CI and rendered UI gates remain open. No PR-triggered workflow run returned for exact head. PR7/8 follow-up notices 7235777582 and 7235778156 posted; explicit release not yet received. No new mocks/PYQs or live credit. No other jobs, learner history, website or automation edits. Reacquire lease before continuation. Next: full INC gap reconciliation, national nutrition programmes/agencies, hospital diet planning and perioperative nutrition, enteral/parenteral formulation distinct from Foundations, remaining food standards and lifespan gaps. Author only genuinely missing unique items, up to 100 per run. Complete corrective audits and publication gates before integration, then ten mock-exclusive 120-item tests, two per run, then source-traced India-wide PYQs.
+
+## Previous checkpoint (preserved)
 
 ## Latest released checkpoint — Run 4
 
