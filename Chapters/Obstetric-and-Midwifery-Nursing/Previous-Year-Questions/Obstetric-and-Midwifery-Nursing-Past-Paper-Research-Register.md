@@ -107,3 +107,30 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Fetal Doppler — 28 November 2026
 
 [Research gaps and sources](06H-Doppler-Evidence-and-Research-Gaps.md). No authenticated nursing recruitment item found in targeted searches, zero new historical items counted. Medical-exam video lead is not nursing-specific. All eight fetal assessment packages published. Obstetrics historical adaptation total remains 25.
+
+
+## Normal labour physiology — 28 November 2026
+
+[Clinical and research gaps](07A-Labour-Physiology-Evidence-and-Research-Gaps.md). HPRCA oxytocin-receptor lead not authenticated. DSSSB true-labour and HPSSC third-stage leads reserved. Dedicated MCQ candidate indexed; all 20 specific item mappings and playback pending. No new historical adaptation counted; Obstetrics total 25.
+
+## Signs and onset of labour — 28 November 2026
+[Source and practice gaps](07B-Signs-and-Onset-of-Labour-Evidence.md). DSSSB official paper lead indexed, key not authenticated. Three provisional topic-level video mappings, 17 specific gaps and zero exact playback. No new historical adaptation counted.
+
+## Stages of labour — 28 November 2026
+[Stage-specific evidence and gaps](07C-Stages-of-Labour-Evidence.md). Three related third-party historical leads, no official key, eight broad topic-level video leads, 12 unmapped specific gaps and no exact playback. No new counted historical adaptation.
+
+
+## Powers of labour — 28 November 2026
+
+[Clinical and historical research](07D-Powers-of-Labour-Evidence.md). BHU 2019 frequency report and DSSSB 2019 hypertonic activity report directly retrieved, clinical explanation caveats recorded. RRB 2025 partograph report reserved. HPRCA indexed lead not authenticated. All 20 dedicated item-level video gaps remain pending. No new historical adaptation counted, Obstetrics total 25.
+
+## Passenger — 28 November 2026
+[Clinical and exam research gaps](07E-Passenger-Fetal-Factors-Evidence.md). DSSSB official paper listing and prior Q125/Q126 leads, Himachal reported leads, 9 broad provisional MCQ video mappings and 11 specific gaps. Zero exact playback, no new historical adaptation counted.
+
+## Passage — maternal pelvis — 28 November 2026
+[Clinical and exam research gaps](07F-Passage-Maternal-Pelvis-Evidence.md). AIIMS conjugate and HPSSC guide indexed leads not authenticated. 12 broad provisional MCQ video mappings and 8 unmapped gaps. Zero exact playback and no new historical adaptation counted.
+
+
+## Mechanism and cardinal movements — 28 November 2026
+
+[HPSSSB October 2020 reported adaptation and research gaps](07G-Mechanism-and-Cardinal-Movements-Evidence.md). Direct third-party report and reported external-rotation key retrieved. Official booklet/key not authenticated. DSSSB 2019 restitution report related to original Q14, not recounted. AIIMS Delhi 2019 and HPRCA archive leads pending. Thirteen broad provisional original video mappings, seven unmapped, exact playback pending all originals and adaptation. Obstetrics historical adaptation inventory now 26.

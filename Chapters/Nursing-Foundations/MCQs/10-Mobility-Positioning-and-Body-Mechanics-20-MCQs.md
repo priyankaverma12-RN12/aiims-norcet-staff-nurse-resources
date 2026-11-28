@@ -475,7 +475,7 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 ### Q16. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 ESIC Staff Nurse, 26 February 2019 Shift III — related reported concept only](https://testbook.com/question-answer/when-dangling-the-patient-at-the-bedside-monitor--619cce828951c43cb2baf2bc)**
 
 - **A.** Leave the patient standing while obtaining equipment
 - **B.** Encourage rapid walking to improve circulation
@@ -497,6 +497,8 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 **Exam clue:** Dizzy during ambulation = stop, support, assess.
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Related exam evidence:** Is third-party report mein bed ke kinaare baithne ke dauraan orthostatic hypotension aur dizziness ko monitor karne ka concept poochha gaya tha. Is original question mein operation ke baad chalne ke dauraan symptoms aane par safe action poochha gaya hai. Dono related hain, lekin exact question same nahi hai. Official paper aur answer key verify nahi hue hain.
 
 **YouTube MCQ practice: specific verification pending.**
 
