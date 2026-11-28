@@ -8,22 +8,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Measured elevation
 
-- **A.** Increase the backrest angle by 15 degrees
-- **B.** Increase the backrest angle by 35 degrees
-- **C.** Lower the backrest by 15 degrees
-- **D.** Tilt the entire bed by 35 degrees without changing the backrest
+- **A.** Lower the backrest by 15 degrees
+- **B.** Increase the backrest angle by 15 degrees
+- **C.** Tilt the entire bed by 35 degrees without changing the backrest
+- **D.** Increase the backrest angle by 35 degrees
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Increase the backrest angle by 15 degrees**
+**Correct answer: B. Increase the backrest angle by 15 degrees**
 
-**A. Kyun sahi hai:** Abhi backrest horizontal se 20 degree upar hai aur target 35 degree hai. Difference 35 minus 20 yani 15 degree hai. Angle adjust karke dobara verify karo.
+**A. Kyun galat hai:** 15 degree lower karne se angle 5 degree reh jaayega. Ye target se door hai.
 
-**B. Kyun galat hai:** Agar 35 degree aur add karoge toh total 55 degree ho jaayega. Prescribed 35 degree achieve nahi hoga.
+**B. Kyun sahi hai:** Abhi backrest horizontal se 20 degree upar hai aur target 35 degree hai. Difference 35 minus 20 yani 15 degree hai. Angle adjust karke dobara verify karo.
 
-**C. Kyun galat hai:** 15 degree lower karne se angle 5 degree reh jaayega. Ye target se door hai.
+**C. Kyun galat hai:** Whole-bed tilt aur backrest elevation alag adjustments hain. Bed ko tilt karna prescribed backrest angle ka automatic substitute nahi hai.
 
-**D. Kyun galat hai:** Whole-bed tilt aur backrest elevation alag adjustments hain. Bed ko tilt karna prescribed backrest angle ka automatic substitute nahi hai.
+**D. Kyun galat hai:** Agar 35 degree aur add karoge toh total 55 degree ho jaayega. Prescribed 35 degree achieve nahi hoga.
 
 **Exam clue:** Target angle aur change in angle ko alag samjho.
 
@@ -39,22 +39,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Individualized lateral tilt
 
-- **A.** Increase the frequency of the same ineffective turn without changing support
-- **B.** Individualize the tilt and support so that the sacrum and trochanter are offloaded
+- **A.** Replace the tilt with direct 90-degree loading over the greater trochanter
+- **B.** Increase the frequency of the same ineffective turn without changing support
 - **C.** Maintain the exact angle regardless of the observed contact
-- **D.** Replace the tilt with direct 90-degree loading over the greater trochanter
+- **D.** Individualize the tilt and support so that the sacrum and trochanter are offloaded
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Individualize the tilt and support so that the sacrum and trochanter are offloaded**
+**Correct answer: D. Individualize the tilt and support so that the sacrum and trochanter are offloaded**
 
-**A. Kyun galat hai:** Frequency important hai, lekin agar har turn mein sacrum par load reh raha hai toh positioning technique ko correct karna bhi zaroori hai.
+**A. Kyun galat hai:** Direct 90-degree side-lying se greater trochanter par concentrated load aa sakta hai. Pressure ek bony area se doosre par shift karna desirable result nahi hai.
 
-**B. Kyun sahi hai:** International guideline mein 30-degree lateral position conditional suggestion hai. Body shape aur tissue contact ke hisaab se angle aur support adjust karke sacrum aur hip ke bony prominence ka pressure kam karna chahiye.
+**B. Kyun galat hai:** Frequency important hai, lekin agar har turn mein sacrum par load reh raha hai toh positioning technique ko correct karna bhi zaroori hai.
 
 **C. Kyun galat hai:** Angle ek guide hai, success ka sole measure nahi. Actual tissue offloading verify karna zaroori hai.
 
-**D. Kyun galat hai:** Direct 90-degree side-lying se greater trochanter par concentrated load aa sakta hai. Pressure ek bony area se doosre par shift karna desirable result nahi hai.
+**D. Kyun sahi hai:** International guideline mein 30-degree lateral position conditional suggestion hai. Body shape aur tissue contact ke hisaab se angle aur support adjust karke sacrum aur hip ke bony prominence ka pressure kam karna chahiye.
 
 **Exam clue:** Prescribed position ka actual mechanical effect check karo.
 
@@ -70,20 +70,20 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Comfort-focused repositioning
 
-- **A.** Increase turn amplitude to complete the prescribed rotation quickly
-- **B.** Maintain full turns at identical intervals despite the patient's distress
-- **C.** Discuss smaller supported shifts and limb or head repositioning within the agreed comfort plan
+- **A.** Discuss smaller supported shifts and limb or head repositioning within the agreed comfort plan
+- **B.** Increase turn amplitude to complete the prescribed rotation quickly
+- **C.** Maintain full turns at identical intervals despite the patient's distress
 - **D.** Stop assessing the skin because the patient is receiving palliative care
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Discuss smaller supported shifts and limb or head repositioning within the agreed comfort plan**
+**Correct answer: A. Discuss smaller supported shifts and limb or head repositioning within the agreed comfort plan**
 
-**A. Kyun galat hai:** Bada movement pain aur distress badha sakta hai. Comfort-focused plan mein movement ki amplitude patient ki tolerance ke according honi chahiye.
+**A. Kyun sahi hai:** Chhote supported shifts yani micromovements pressure ko redistribute karne mein madad kar sakte hain jab full turn tolerate na ho. Patient ki preference, symptoms aur tissue response ke hisaab se team plan banaye.
 
-**B. Kyun galat hai:** Fixed schedule ko mechanically follow karna individualized goals ko ignore karta hai. Full turn tolerate nahi ho raha toh plan review karo.
+**B. Kyun galat hai:** Bada movement pain aur distress badha sakta hai. Comfort-focused plan mein movement ki amplitude patient ki tolerance ke according honi chahiye.
 
-**C. Kyun sahi hai:** Chhote supported shifts yani micromovements pressure ko redistribute karne mein madad kar sakte hain jab full turn tolerate na ho. Patient ki preference, symptoms aur tissue response ke hisaab se team plan banaye.
+**C. Kyun galat hai:** Fixed schedule ko mechanically follow karna individualized goals ko ignore karta hai. Full turn tolerate nahi ho raha toh plan review karo.
 
 **D. Kyun galat hai:** Palliative care mein comfort aur skin assessment dono relevant rehte hain. Assessment se painful pressure points identify karke suitable relief diya ja sakta hai.
 
@@ -101,22 +101,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Competing clinical priorities
 
-- **A.** Use the lower angle whenever a pressure injury risk score is high
-- **B.** Keep the backrest flat and rely only on a pressure redistribution mattress
-- **C.** Apply the same 15-degree rule to all patients receiving feeds
-- **D.** Maintain clinically necessary elevation and adapt the pressure redistribution plan
+- **A.** Keep the backrest flat and rely only on a pressure redistribution mattress
+- **B.** Apply the same 15-degree rule to all patients receiving feeds
+- **C.** Maintain clinically necessary elevation and adapt the pressure redistribution plan
+- **D.** Use the lower angle whenever a pressure injury risk score is high
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Maintain clinically necessary elevation and adapt the pressure redistribution plan**
+**Correct answer: C. Maintain clinically necessary elevation and adapt the pressure redistribution plan**
 
-**A. Kyun galat hai:** High pressure injury risk aspiration risk ko cancel nahi karta. Dono risks ko saath assess karna chahiye.
+**A. Kyun galat hai:** Mattress tissue load redistribute kar sakti hai, lekin flat position aspiration se protect karne ka substitute nahi hai.
 
-**B. Kyun galat hai:** Mattress tissue load redistribute kar sakti hai, lekin flat position aspiration se protect karne ka substitute nahi hai.
+**B. Kyun galat hai:** Feeding, swallowing aur respiratory status har patient mein different ho sakte hain. Ek fixed low angle sab ke liye appropriate nahi.
 
-**C. Kyun galat hai:** Feeding, swallowing aur respiratory status har patient mein different ho sakte hain. Ek fixed low angle sab ke liye appropriate nahi.
+**C. Kyun sahi hai:** Aspiration se serious harm ho sakta hai, isliye required elevation maintain karo. Skin pressure aur alignment assess karke suitable support aur repositioning plan adjust karo.
 
-**D. Kyun sahi hai:** Aspiration se serious harm ho sakta hai, isliye required elevation maintain karo. Skin pressure aur alignment assess karke suitable support aur repositioning plan adjust karo.
+**D. Kyun galat hai:** High pressure injury risk aspiration risk ko cancel nahi karta. Dono risks ko saath assess karna chahiye.
 
 **Exam clue:** Pressure injury prevention ki position ko airway safety ke saath balance karo.
 
@@ -132,22 +132,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Support deformation
 
-- **A.** Its colour contrast with the bed linen
-- **B.** Its ability to maintain the intended support under the patient's weight
-- **C.** Its suitability for raising the entire bed
-- **D.** Its ability to prevent the patient from making any voluntary movement
+- **A.** Its ability to prevent the patient from making any voluntary movement
+- **B.** Its colour contrast with the bed linen
+- **C.** Its ability to maintain the intended support under the patient's weight
+- **D.** Its suitability for raising the entire bed
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Its ability to maintain the intended support under the patient's weight**
+**Correct answer: C. Its ability to maintain the intended support under the patient's weight**
 
-**A. Kyun galat hai:** Colour visibility mein help kar sakta hai, lekin wedge ki support capacity nahi batata.
+**A. Kyun galat hai:** Voluntary movement ko unnecessarily prevent karna safety goal nahi hai. Aid support provide kare aur patient ki mobility needs ko respect kare.
 
-**B. Kyun sahi hai:** Wedge patient ke weight ke neeche flatten ho gayi hai. Isliye suitable density, dimensions aur support capacity wali aid assess karo jo intended position maintain kar sake.
+**B. Kyun galat hai:** Colour visibility mein help kar sakta hai, lekin wedge ki support capacity nahi batata.
 
-**C. Kyun galat hai:** Wedge ka kaam body ko support dena hai, entire bed ko raise karna nahi. Problem lateral tilt maintain na hone ki hai.
+**C. Kyun sahi hai:** Wedge patient ke weight ke neeche flatten ho gayi hai. Isliye suitable density, dimensions aur support capacity wali aid assess karo jo intended position maintain kar sake.
 
-**D. Kyun galat hai:** Voluntary movement ko unnecessarily prevent karna safety goal nahi hai. Aid support provide kare aur patient ki mobility needs ko respect kare.
+**D. Kyun galat hai:** Wedge ka kaam body ko support dena hai, entire bed ko raise karna nahi. Problem lateral tilt maintain na hone ki hai.
 
 **Exam clue:** Positioning aid ki performance use ke baad bhi verify karo.
 
@@ -163,18 +163,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Upper-leg support
 
-- **A.** Support the upper leg with an appropriately placed pillow between the legs
-- **B.** Place a small pillow beneath the patient's head only
+- **A.** Place a small pillow beneath the patient's head only
+- **B.** Support the upper leg with an appropriately placed pillow between the legs
 - **C.** Increase the backrest angle without changing the legs
 - **D.** Remove all support so both legs rest against each other
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Support the upper leg with an appropriately placed pillow between the legs**
+**Correct answer: B. Support the upper leg with an appropriately placed pillow between the legs**
 
-**A. Kyun sahi hai:** Upper leg ko support dene se hip aur knee ka uncontrolled rotation kam ho sakta hai. Knees ke beech pillow direct bony contact ko bhi reduce karta hai.
+**A. Kyun galat hai:** Head support neck alignment ke liye useful hai, lekin legs ke beech contact aur upper leg rotation solve nahi karega.
 
-**B. Kyun galat hai:** Head support neck alignment ke liye useful hai, lekin legs ke beech contact aur upper leg rotation solve nahi karega.
+**B. Kyun sahi hai:** Upper leg ko support dene se hip aur knee ka uncontrolled rotation kam ho sakta hai. Knees ke beech pillow direct bony contact ko bhi reduce karta hai.
 
 **C. Kyun galat hai:** Backrest angle trunk ko affect karta hai. Is case mein upper leg ko targeted support chahiye.
 
@@ -194,22 +194,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Cervical support
 
-- **A.** Place a second pillow behind the head to reinforce the position
+- **A.** Remove excessive pillow height and support the head in comfortable neutral alignment
 - **B.** Rotate the head fully to one side while retaining the thick pillow
-- **C.** Remove excessive pillow height and support the head in comfortable neutral alignment
-- **D.** Raise the knees to compensate for the neck flexion
+- **C.** Raise the knees to compensate for the neck flexion
+- **D.** Place a second pillow behind the head to reinforce the position
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Remove excessive pillow height and support the head in comfortable neutral alignment**
+**Correct answer: A. Remove excessive pillow height and support the head in comfortable neutral alignment**
 
-**A. Kyun galat hai:** Extra pillow neck flexion aur badha sakta hai. Comfort aur neutral head support ke liye actual excessive height correct karo.
+**A. Kyun sahi hai:** Pillow ka purpose head ko support dena hai, neck ko forced posture mein rakhna nahi. Suitable height choose karo jisse patient ki natural alignment aur comfort maintain ho.
 
 **B. Kyun galat hai:** Head rotation flexion ki correction nahi hai. Prolonged rotation neck par additional strain daal sakti hai.
 
-**C. Kyun sahi hai:** Pillow ka purpose head ko support dena hai, neck ko forced posture mein rakhna nahi. Suitable height choose karo jisse patient ki natural alignment aur comfort maintain ho.
+**C. Kyun galat hai:** Knee support lower body ki position change karti hai. Isse excessive cervical flexion directly correct nahi hogi.
 
-**D. Kyun galat hai:** Knee support lower body ki position change karti hai. Isse excessive cervical flexion directly correct nahi hogi.
+**D. Kyun galat hai:** Extra pillow neck flexion aur badha sakta hai. Comfort aur neutral head support ke liye actual excessive height correct karo.
 
 **Exam clue:** Pillow ka size patient ki body alignment ke hisaab se choose karo.
 
@@ -225,22 +225,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Examination preparation
 
-- **A.** Place the patient prone with the hips extended
-- **B.** Support the supine patient's slightly flexed knees and head
+- **A.** Raise the entire bed into a steep head-down tilt
+- **B.** Place the patient prone with the hips extended
 - **C.** Place both arms overhead and extend both knees
-- **D.** Raise the entire bed into a steep head-down tilt
+- **D.** Support the supine patient's slightly flexed knees and head
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Support the supine patient's slightly flexed knees and head**
+**Correct answer: D. Support the supine patient's slightly flexed knees and head**
 
-**A. Kyun galat hai:** Prone position anterior abdomen ko examination surface ke against rakhti hai. Isse routine anterior palpation difficult ho jaati hai.
+**A. Kyun galat hai:** Head-down tilt abdominal wall relax karne ke liye routine requirement nahi hai. Isse unnecessary discomfort ya respiratory difficulty ho sakti hai.
 
-**B. Kyun sahi hai:** Supine patient ke knees ko thoda flex aur support karne se abdominal wall relaxed ho sakti hai. Patient comfortable rahe toh voluntary tension kam ho sakti hai.
+**B. Kyun galat hai:** Prone position anterior abdomen ko examination surface ke against rakhti hai. Isse routine anterior palpation difficult ho jaati hai.
 
 **C. Kyun galat hai:** Arms overhead aur straight legs kuch patients mein abdominal wall tension badha sakte hain. Routine relaxed palpation ke liye ye preferred adjustment nahi hai.
 
-**D. Kyun galat hai:** Head-down tilt abdominal wall relax karne ke liye routine requirement nahi hai. Isse unnecessary discomfort ya respiratory difficulty ho sakti hai.
+**D. Kyun sahi hai:** Supine patient ke knees ko thoda flex aur support karne se abdominal wall relaxed ho sakti hai. Patient comfortable rahe toh voluntary tension kam ho sakti hai.
 
 **Exam clue:** Abdominal assessment ke liye comfortable supported knee flexion useful ho sakti hai.
 
@@ -257,19 +257,19 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Preprocedure joint range
 
 - **A.** Use the team's standard arm angle after sedation removes pain reporting
-- **B.** Ask the patient to stretch forcefully until the standard angle is reached
-- **C.** Determine safe available movement before sedation and plan supported positioning within that limit
+- **B.** Determine safe available movement before sedation and plan supported positioning within that limit
+- **C.** Ask the patient to stretch forcefully until the standard angle is reached
 - **D.** Avoid recording the limitation because the shoulder is not the operative site
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Determine safe available movement before sedation and plan supported positioning within that limit**
+**Correct answer: B. Determine safe available movement before sedation and plan supported positioning within that limit**
 
 **A. Kyun galat hai:** Sedation se pain report karna kam ho sakta hai, lekin joint ki structural limitation disappear nahi hoti. Standard angle force karna injury cause kar sakta hai.
 
-**B. Kyun galat hai:** Forceful stretching painful joint ko harm kar sakti hai. Positioning ka aim procedure ke liye required access aur safe range ko balance karna hai.
+**B. Kyun sahi hai:** Patient ki available movement pehle assess karke team ko batana chahiye. Isse sedation ke baad bhi arm ko known tolerated range mein support kiya ja sakta hai.
 
-**C. Kyun sahi hai:** Patient ki available movement pehle assess karke team ko batana chahiye. Isse sedation ke baad bhi arm ko known tolerated range mein support kiya ja sakta hai.
+**C. Kyun galat hai:** Forceful stretching painful joint ko harm kar sakti hai. Positioning ka aim procedure ke liye required access aur safe range ko balance karna hai.
 
 **D. Kyun galat hai:** Nonoperative joint bhi positioning injury ka shikar ho sakta hai. Preexisting limitation document karna prevention aur later comparison mein useful hai.
 
@@ -287,22 +287,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Arm abduction safety
 
-- **A.** Increase the angle to make access easier
-- **B.** Maintain the angle if the hand is warm
-- **C.** Support the arm overhead with no further assessment
-- **D.** Reassess and reduce abduction to a safe supported range, ordinarily no more than 90 degrees
+- **A.** Maintain the angle if the hand is warm
+- **B.** Support the arm overhead with no further assessment
+- **C.** Reassess and reduce abduction to a safe supported range, ordinarily no more than 90 degrees
+- **D.** Increase the angle to make access easier
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Reassess and reduce abduction to a safe supported range, ordinarily no more than 90 degrees**
+**Correct answer: C. Reassess and reduce abduction to a safe supported range, ordinarily no more than 90 degrees**
 
-**A. Kyun galat hai:** Zyada abduction brachial plexus yani shoulder se arm tak jaane wali nerve bundle ko stretch kar sakti hai. Access ke liye excessive stretch avoid karo.
+**A. Kyun galat hai:** Warm hand blood flow ka ek clue hai, lekin nerve stretch injury rule out nahi karta. Arm angle bhi assess karna zaroori hai.
 
-**B. Kyun galat hai:** Warm hand blood flow ka ek clue hai, lekin nerve stretch injury rule out nahi karta. Arm angle bhi assess karna zaroori hai.
+**B. Kyun galat hai:** Overhead support excessive abduction ko correct nahi karta. Patient-specific restriction aur armboard setup review karo.
 
-**C. Kyun galat hai:** Overhead support excessive abduction ko correct nahi karta. Patient-specific restriction aur armboard setup review karo.
+**C. Kyun sahi hai:** Supine procedure mein arm abduction ko generally 90 degree ya usse kam rakhna peripheral nerve protection mein useful hai. Individual tolerated range aur procedure requirements ke hisaab se team supported correction kare.
 
-**D. Kyun sahi hai:** Supine procedure mein arm abduction ko generally 90 degree ya usse kam rakhna peripheral nerve protection mein useful hai. Individual tolerated range aur procedure requirements ke hisaab se team supported correction kare.
+**D. Kyun galat hai:** Zyada abduction brachial plexus yani shoulder se arm tak jaane wali nerve bundle ko stretch kar sakti hai. Access ke liye excessive stretch avoid karo.
 
 **Exam clue:** Arm angle normal circulation hone par bhi nerve risk create kar sakta hai.
 
@@ -319,9 +319,9 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Ulnar nerve protection
 
 - **A.** Support the forearm neutrally and pad or relieve pressure near the elbow
-- **B.** Abduct the arm maximally to avoid the table edge
-- **C.** Flex the elbow tightly and secure it against the trunk
-- **D.** Place a firm unpadded restraint over the medial elbow
+- **B.** Place a firm unpadded restraint over the medial elbow
+- **C.** Abduct the arm maximally to avoid the table edge
+- **D.** Flex the elbow tightly and secure it against the trunk
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -329,11 +329,11 @@
 
 **A. Kyun sahi hai:** Ulnar nerve elbow ke inner side ke paas superficial hoti hai. Tucked arm mein neutral forearm aur pressure relief is nerve ko protect karne mein help kar sakte hain.
 
-**B. Kyun galat hai:** Maximum abduction nerve stretching ka naya risk create karti hai. Ulnar nerve compression ko targeted padding aur neutral alignment se address karo.
+**B. Kyun galat hai:** Medial elbow par firm direct pressure ulnar nerve ko aur compress kar sakta hai. Padding aur pressure-free support chahiye.
 
-**C. Kyun galat hai:** Tight elbow flexion nerve pressure ya stretch badha sakti hai. Safe supported angle use karo.
+**C. Kyun galat hai:** Maximum abduction nerve stretching ka naya risk create karti hai. Ulnar nerve compression ko targeted padding aur neutral alignment se address karo.
 
-**D. Kyun galat hai:** Medial elbow par firm direct pressure ulnar nerve ko aur compress kar sakta hai. Padding aur pressure-free support chahiye.
+**D. Kyun galat hai:** Tight elbow flexion nerve pressure ya stretch badha sakti hai. Safe supported angle use karo.
 
 **Exam clue:** Tucked arm mein medial elbow aur neutral forearm check karo.
 
@@ -350,21 +350,21 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Lateral thoracic support
 
 - **A.** Add a second roll within the axilla to improve support
-- **B.** Reposition the appropriate support below the axilla under the thorax and reassess the limb
-- **C.** Remove head support to reduce pressure on the shoulder
-- **D.** Move the support against the medial upper arm and tighten it
+- **B.** Remove head support to reduce pressure on the shoulder
+- **C.** Move the support against the medial upper arm and tighten it
+- **D.** Reposition the appropriate support below the axilla under the thorax and reassess the limb
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Reposition the appropriate support below the axilla under the thorax and reassess the limb**
+**Correct answer: D. Reposition the appropriate support below the axilla under the thorax and reassess the limb**
 
 **A. Kyun galat hai:** Axilla mein aur material bharne se vessels aur brachial plexus par pressure badh sakta hai. Roll ka purpose axillary structures ko decompress karna hai.
 
-**B. Kyun sahi hai:** Thoracic support ko axilla ke andar nahi, uske distal chest wall ke neeche appropriate position mein rakhna chahiye. Isse dependent shoulder area ka load redistribute ho sakta hai. Limb perfusion aur alignment dobara assess karo.
+**B. Kyun galat hai:** Head support hatane se neck lateral flexion mein ja sakti hai. Isse shoulder pressure ka intended correction nahi hoga.
 
-**C. Kyun galat hai:** Head support hatane se neck lateral flexion mein ja sakti hai. Isse shoulder pressure ka intended correction nahi hoga.
+**C. Kyun galat hai:** Medial upper arm par tight support neurovascular structures compress kar sakta hai. Thorax ko suitable device se support do.
 
-**D. Kyun galat hai:** Medial upper arm par tight support neurovascular structures compress kar sakta hai. Thorax ko suitable device se support do.
+**D. Kyun sahi hai:** Thoracic support ko axilla ke andar nahi, uske distal chest wall ke neeche appropriate position mein rakhna chahiye. Isse dependent shoulder area ka load redistribute ho sakta hai. Limb perfusion aur alignment dobara assess karo.
 
 **Exam clue:** Axillary roll naam hai, lekin use directly axilla ke andar nahi rakhte.
 
@@ -380,22 +380,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Dependent ear protection
 
-- **A.** Leave the ear folded because head alignment is correct
+- **A.** Correct the ear fold and check that the support does not compress the ear
 - **B.** Place extra weight over the folded ear to stabilize the head
-- **C.** Correct the ear fold and check that the support does not compress the ear
-- **D.** Turn the neck sharply in the opposite direction without adjusting the support
+- **C.** Turn the neck sharply in the opposite direction without adjusting the support
+- **D.** Leave the ear folded because head alignment is correct
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Correct the ear fold and check that the support does not compress the ear**
+**Correct answer: A. Correct the ear fold and check that the support does not compress the ear**
 
-**A. Kyun galat hai:** Head alignment correct ho sakti hai aur local ear pressure phir bhi present ho sakta hai. Dono separate checks hain.
+**A. Kyun sahi hai:** Dependent ear ko natural position mein laakar contact check karo. Prolonged fold se local pressure injury ho sakti hai, especially jab patient sensation report nahi kar paata.
 
 **B. Kyun galat hai:** Extra weight ear cartilage aur skin par pressure aur badha sakta hai. Stabilization pressure-free support ke saath honi chahiye.
 
-**C. Kyun sahi hai:** Dependent ear ko natural position mein laakar contact check karo. Prolonged fold se local pressure injury ho sakti hai, especially jab patient sensation report nahi kar paata.
+**C. Kyun galat hai:** Neck ko sharply rotate karna naya alignment problem create kar sakta hai. Local ear fold ko targeted support adjustment se correct karo.
 
-**D. Kyun galat hai:** Neck ko sharply rotate karna naya alignment problem create kar sakta hai. Local ear fold ko targeted support adjustment se correct karo.
+**D. Kyun galat hai:** Head alignment correct ho sakti hai aur local ear pressure phir bhi present ho sakta hai. Dono separate checks hain.
 
 **Exam clue:** Good overall posture local pressure checks ko replace nahi karta.
 
@@ -411,22 +411,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Prone eye safety
 
-- **A.** The head is supported in the intended neutral alignment
-- **B.** The abdomen has space to move within the approved support system
-- **C.** Both eyes are free from external pressure
-- **D.** One eye is compressed against the face support
+- **A.** Both eyes are free from external pressure
+- **B.** One eye is compressed against the face support
+- **C.** The head is supported in the intended neutral alignment
+- **D.** The abdomen has space to move within the approved support system
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. One eye is compressed against the face support**
+**Correct answer: B. One eye is compressed against the face support**
 
-**A. Kyun galat hai:** Neutral head alignment desirable hai jab procedure aur patient condition allow kare. Is finding mein immediate defect nahi diya gaya.
+**A. Kyun galat hai:** Eyes ko direct external pressure se free rakhna important prone-position check hai. Ye correct finding hai.
 
-**B. Kyun galat hai:** Approved support ke beech abdomen ko adequate space milna ventilation aur abdominal compression concerns ko reduce kar sakta hai.
+**B. Kyun sahi hai:** Eye par sustained external pressure serious ocular injury cause kar sakta hai. Team ko support immediately correct karke eyes aur head position reassess karni chahiye.
 
-**C. Kyun galat hai:** Eyes ko direct external pressure se free rakhna important prone-position check hai. Ye correct finding hai.
+**C. Kyun galat hai:** Neutral head alignment desirable hai jab procedure aur patient condition allow kare. Is finding mein immediate defect nahi diya gaya.
 
-**D. Kyun sahi hai:** Eye par sustained external pressure serious ocular injury cause kar sakta hai. Team ko support immediately correct karke eyes aur head position reassess karni chahiye.
+**D. Kyun galat hai:** Approved support ke beech abdomen ko adequate space milna ventilation aur abdominal compression concerns ko reduce kar sakta hai.
 
 **Exam clue:** Prone position mein eyes par direct pressure nahi hona chahiye.
 
@@ -442,22 +442,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Prone abdominal clearance
 
-- **A.** Whether the support arrangement can relieve abdominal compression while maintaining required alignment
-- **B.** Whether the patient's knees can be strapped more tightly
-- **C.** Whether a thicker pillow can be placed directly beneath the compressed abdomen
-- **D.** Whether the head can be tilted sideways to compensate for abdominal restriction
+- **A.** Whether the patient's knees can be strapped more tightly
+- **B.** Whether a thicker pillow can be placed directly beneath the compressed abdomen
+- **C.** Whether the head can be tilted sideways to compensate for abdominal restriction
+- **D.** Whether the support arrangement can relieve abdominal compression while maintaining required alignment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Whether the support arrangement can relieve abdominal compression while maintaining required alignment**
+**Correct answer: D. Whether the support arrangement can relieve abdominal compression while maintaining required alignment**
 
-**A. Kyun sahi hai:** Abdominal compression diaphragm movement aur venous flow ko affect kar sakti hai. Team approved frame aur supports ko reassess kare taaki abdomen ko appropriate space mile aur required alignment bhi maintain rahe.
+**A. Kyun galat hai:** Knee straps tight karne se abdominal compression door nahi hogi. Isse limb pressure ka additional risk ho sakta hai.
 
-**B. Kyun galat hai:** Knee straps tight karne se abdominal compression door nahi hogi. Isse limb pressure ka additional risk ho sakta hai.
+**B. Kyun galat hai:** Compressed abdomen ke neeche aur pillow rakhna pressure badha sakta hai. Support configuration ka actual effect check karo.
 
-**C. Kyun galat hai:** Compressed abdomen ke neeche aur pillow rakhna pressure badha sakta hai. Support configuration ka actual effect check karo.
+**C. Kyun galat hai:** Head tilt abdomen ki movement restore nahi karta. Neck alignment disturb ho sakti hai.
 
-**D. Kyun galat hai:** Head tilt abdomen ki movement restore nahi karta. Neck alignment disturb ho sakti hai.
+**D. Kyun sahi hai:** Abdominal compression diaphragm movement aur venous flow ko affect kar sakti hai. Team approved frame aur supports ko reassess kare taaki abdomen ko appropriate space mile aur required alignment bhi maintain rahe.
 
 **Exam clue:** Prone support chest aur abdomen ke movement ko unnecessarily restrict na kare.
 
@@ -473,22 +473,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Lithotomy exit
 
-- **A.** Lower one leg rapidly while the other remains fully elevated
-- **B.** Coordinate controlled lowering of both legs together with appropriate staff and monitoring
-- **C.** Allow the legs to fall unsupported once the stirrups are released
-- **D.** Maintain the elevated leg position until the patient can move without help
+- **A.** Allow the legs to fall unsupported once the stirrups are released
+- **B.** Maintain the elevated leg position until the patient can move without help
+- **C.** Coordinate controlled lowering of both legs together with appropriate staff and monitoring
+- **D.** Lower one leg rapidly while the other remains fully elevated
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Coordinate controlled lowering of both legs together with appropriate staff and monitoring**
+**Correct answer: C. Coordinate controlled lowering of both legs together with appropriate staff and monitoring**
 
-**A. Kyun galat hai:** Ek leg ko rapidly lower karne se asymmetrical pelvic aur lumbar stress aa sakta hai. Planned movement coordinated honi chahiye.
+**A. Kyun galat hai:** Stirrups release karke legs ko unsupported girne dene se joints aur tissues injure ho sakte hain.
 
-**B. Kyun sahi hai:** Dono legs ko trained staff controlled tareeke se saath lower karein. Isse joint aur pelvic strain kam ho sakta hai. Position change ke dauran hemodynamic response bhi monitor karna chahiye.
+**B. Kyun galat hai:** Anesthesia se voluntary control absent ho sakta hai. Procedure complete hone par required support ke saath planned repositioning karni chahiye, unnecessary delay nahi.
 
-**C. Kyun galat hai:** Stirrups release karke legs ko unsupported girne dene se joints aur tissues injure ho sakte hain.
+**C. Kyun sahi hai:** Dono legs ko trained staff controlled tareeke se saath lower karein. Isse joint aur pelvic strain kam ho sakta hai. Position change ke dauran hemodynamic response bhi monitor karna chahiye.
 
-**D. Kyun galat hai:** Anesthesia se voluntary control absent ho sakta hai. Procedure complete hone par required support ke saath planned repositioning karni chahiye, unnecessary delay nahi.
+**D. Kyun galat hai:** Ek leg ko rapidly lower karne se asymmetrical pelvic aur lumbar stress aa sakta hai. Planned movement coordinated honi chahiye.
 
 **Exam clue:** Lithotomy se return karte waqt legs ko coordinated support do.
 
@@ -504,22 +504,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Stirrup pressure anatomy
 
-- **A.** Median nerve
-- **B.** Femoral nerve at the inguinal ligament
-- **C.** Common fibular (peroneal) nerve
-- **D.** Ulnar nerve
+- **A.** Common fibular (peroneal) nerve
+- **B.** Ulnar nerve
+- **C.** Median nerve
+- **D.** Femoral nerve at the inguinal ligament
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Common fibular (peroneal) nerve**
+**Correct answer: A. Common fibular (peroneal) nerve**
 
-**A. Kyun galat hai:** Median nerve upper limb mein forearm aur hand ki function se related hai. Fibular head ke local pressure se ye nerve directly compress nahi hoti.
+**A. Kyun sahi hai:** Common fibular nerve fibular head aur neck ke paas superficial course leti hai. Stirrup ka direct pressure is nerve ko injure kar sakta hai aur foot dorsiflexion weakness jaise problems ho sakte hain.
 
-**B. Kyun galat hai:** Femoral nerve anterior thigh ki function se related hai aur inguinal region mein vulnerable ho sakti hai. Is stem mein pressure lateral proximal fibula par hai.
+**B. Kyun galat hai:** Ulnar nerve elbow aur hand ke medial side se related hai. Lower leg stirrup pressure uska usual local compression site nahi hai.
 
-**C. Kyun sahi hai:** Common fibular nerve fibular head aur neck ke paas superficial course leti hai. Stirrup ka direct pressure is nerve ko injure kar sakta hai aur foot dorsiflexion weakness jaise problems ho sakte hain.
+**C. Kyun galat hai:** Median nerve upper limb mein forearm aur hand ki function se related hai. Fibular head ke local pressure se ye nerve directly compress nahi hoti.
 
-**D. Kyun galat hai:** Ulnar nerve elbow aur hand ke medial side se related hai. Lower leg stirrup pressure uska usual local compression site nahi hai.
+**D. Kyun galat hai:** Femoral nerve anterior thigh ki function se related hai aur inguinal region mein vulnerable ho sakti hai. Is stem mein pressure lateral proximal fibula par hai.
 
 **Exam clue:** Fibular head ke paas common fibular nerve superficial hoti hai.
 
@@ -537,20 +537,20 @@
 
 - **A.** Improved airway patency caused by gravity
 - **B.** Reduced risk of upper-airway obstruction
-- **C.** Increased lower-limb muscle strength
-- **D.** Possible upper-airway edema and difficulty maintaining the airway
+- **C.** Possible upper-airway edema and difficulty maintaining the airway
+- **D.** Increased lower-limb muscle strength
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Possible upper-airway edema and difficulty maintaining the airway**
+**Correct answer: C. Possible upper-airway edema and difficulty maintaining the airway**
 
 **A. Kyun galat hai:** Face aur tongue swelling airway ko automatically open nahi karti. Soft tissue swelling airway space kam kar sakti hai.
 
 **B. Kyun galat hai:** Swelling obstruction ka risk badha sakti hai, reduce nahi. Team ko airway assessment aur extubation plan review karna chahiye.
 
-**C. Kyun galat hai:** Head-down posture muscle strength ko improve karne ka exercise nahi hai. Acute finding edema se related hai.
+**C. Kyun sahi hai:** Prolonged head-down positioning se face, tongue aur laryngeal tissues mein swelling ho sakti hai. Airway removal se pehle anesthesia team ko airway risk carefully assess karna chahiye.
 
-**D. Kyun sahi hai:** Prolonged head-down positioning se face, tongue aur laryngeal tissues mein swelling ho sakti hai. Airway removal se pehle anesthesia team ko airway risk carefully assess karna chahiye.
+**D. Kyun galat hai:** Head-down posture muscle strength ko improve karne ka exercise nahi hai. Acute finding edema se related hai.
 
 **Exam clue:** Prolonged head-down position ke baad facial edema airway warning ho sakti hai.
 
@@ -566,22 +566,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Device effectiveness
 
-- **A.** Remove or adjust the added support in accordance with the boot instructions and confirm that the heel is floating
-- **B.** Tighten the boot straps until the heel remains against the mattress
-- **C.** Keep the pillow because the boot alone guarantees offloading
-- **D.** Place a second cushion directly beneath the heel
+- **A.** Keep the pillow because the boot alone guarantees offloading
+- **B.** Remove or adjust the added support in accordance with the boot instructions and confirm that the heel is floating
+- **C.** Place a second cushion directly beneath the heel
+- **D.** Tighten the boot straps until the heel remains against the mattress
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Remove or adjust the added support in accordance with the boot instructions and confirm that the heel is floating**
+**Correct answer: B. Remove or adjust the added support in accordance with the boot instructions and confirm that the heel is floating**
 
-**A. Kyun sahi hai:** Heel suspension boot ka intended function heel ko support surface se free rakhna hai. Added pillow ne geometry change kar di hai. Support correct karke actual heel clearance dobara verify karo.
+**A. Kyun galat hai:** Boot present hone ka matlab effective offloading guaranteed nahi hai. Actual heel contact check karna padta hai.
 
-**B. Kyun galat hai:** Tight straps heel contact ko remove nahi karte aur device-related pressure create kar sakte hain. Device instructions follow karo.
+**B. Kyun sahi hai:** Heel suspension boot ka intended function heel ko support surface se free rakhna hai. Added pillow ne geometry change kar di hai. Support correct karke actual heel clearance dobara verify karo.
 
-**C. Kyun galat hai:** Boot present hone ka matlab effective offloading guaranteed nahi hai. Actual heel contact check karna padta hai.
+**C. Kyun galat hai:** Heel ke directly neeche cushion rakhne se contact continue rahega. Offloading mein load heel se away redistribute karna hai.
 
-**D. Kyun galat hai:** Heel ke directly neeche cushion rakhne se contact continue rahega. Offloading mein load heel se away redistribute karna hai.
+**D. Kyun galat hai:** Tight straps heel contact ko remove nahi karte aur device-related pressure create kar sakte hain. Device instructions follow karo.
 
 **Exam clue:** Heel boot use karte waqt extra knee support offloading ko defeat kar sakta hai.
 
@@ -597,22 +597,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Footrest height
 
-- **A.** Increase the footrest height further to keep the thighs lifted
-- **B.** Review footrest height and seat support to restore an individualized stable seating posture
+- **A.** Recline the backrest fully without reassessing the lower-limb support
+- **B.** Increase the footrest height further to keep the thighs lifted
 - **C.** Remove footrests and leave the feet unsupported for the entire session
-- **D.** Recline the backrest fully without reassessing the lower-limb support
+- **D.** Review footrest height and seat support to restore an individualized stable seating posture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Review footrest height and seat support to restore an individualized stable seating posture**
+**Correct answer: D. Review footrest height and seat support to restore an individualized stable seating posture**
 
-**A. Kyun galat hai:** Footrests aur high karne se thigh support aur kam ho sakta hai. Pressure distribution aur pelvic posture worsen ho sakte hain.
+**A. Kyun galat hai:** Backrest recline trunk angle badalti hai, lekin footrest ki incorrect geometry ko necessarily solve nahi karti. Whole seating setup assess karo.
 
-**B. Kyun sahi hai:** Foot support ki height seated posture aur pressure distribution ko affect karti hai. Suitable seating assessment se feet, thighs, pelvis aur comfort ko saath review karo.
+**B. Kyun galat hai:** Footrests aur high karne se thigh support aur kam ho sakta hai. Pressure distribution aur pelvic posture worsen ho sakte hain.
 
 **C. Kyun galat hai:** Unsupported feet se posture unstable ho sakti hai. Footrests ki correct height choose karna better hai.
 
-**D. Kyun galat hai:** Backrest recline trunk angle badalti hai, lekin footrest ki incorrect geometry ko necessarily solve nahi karti. Whole seating setup assess karo.
+**D. Kyun sahi hai:** Foot support ki height seated posture aur pressure distribution ko affect karti hai. Suitable seating assessment se feet, thighs, pelvis aur comfort ko saath review karo.
 
 **Exam clue:** Seating mein foot support aur thigh contact ko ek system ki tarah check karo.
 
@@ -629,19 +629,19 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Cushion displacement
 
 - **A.** Record that the prescribed cushion is present and leave the patient unchanged
-- **B.** Add another cushion on top without checking its effect
-- **C.** Safely restore the intended cushion position and reassess pelvic support and skin pressure
+- **B.** Safely restore the intended cushion position and reassess pelvic support and skin pressure
+- **C.** Add another cushion on top without checking its effect
 - **D.** Remove the cushion permanently because it shifted once
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Safely restore the intended cushion position and reassess pelvic support and skin pressure**
+**Correct answer: B. Safely restore the intended cushion position and reassess pelvic support and skin pressure**
 
 **A. Kyun galat hai:** Cushion ki presence documentation ke liye useful hai, lekin displacement ki wajah se prescribed support effective nahi ho sakta. Actual position assess karo.
 
-**B. Kyun galat hai:** Extra cushion seat geometry aur stability change kar sakti hai. Unassessed stacking safe correction nahi hai.
+**B. Kyun sahi hai:** Patient ko safe assistance se position karo aur cushion manufacturer aur seating plan ke according restore karo. Pelvic support, comfort aur pressure redistribution dobara assess karo.
 
-**C. Kyun sahi hai:** Patient ko safe assistance se position karo aur cushion manufacturer aur seating plan ke according restore karo. Pelvic support, comfort aur pressure redistribution dobara assess karo.
+**C. Kyun galat hai:** Extra cushion seat geometry aur stability change kar sakti hai. Unassessed stacking safe correction nahi hai.
 
 **D. Kyun galat hai:** Ek shift hone se device permanently unsuitable prove nahi hota. Pehle cause assess karo aur appropriate seating plan review karo.
 
@@ -659,22 +659,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Self-positioning education
 
-- **A.** Prohibit independent movement and impose one fixed posture
-- **B.** Provide tailored guidance on comfortable supported alternatives and reassess the patient's ability to use them
-- **C.** Increase the length of time in the painful posture to build tolerance
-- **D.** Replace patient feedback with the nurse's visual assessment alone
+- **A.** Provide tailored guidance on comfortable supported alternatives and reassess the patient's ability to use them
+- **B.** Increase the length of time in the painful posture to build tolerance
+- **C.** Replace patient feedback with the nurse's visual assessment alone
+- **D.** Prohibit independent movement and impose one fixed posture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Provide tailored guidance on comfortable supported alternatives and reassess the patient's ability to use them**
+**Correct answer: A. Provide tailored guidance on comfortable supported alternatives and reassess the patient's ability to use them**
 
-**A. Kyun galat hai:** Patient safe self-positioning kar sakta hai toh unnecessary restriction independence kam kar sakti hai. Better support aur guidance se ability preserve ho sakti hai.
+**A. Kyun sahi hai:** Patient ko aise supported alternatives samjhao jo discomfort kam karein aur clinical restrictions respect karein. Patient ki demonstration aur feedback se dekho ki woh independently safe posture maintain kar pa raha hai ya nahi.
 
-**B. Kyun sahi hai:** Patient ko aise supported alternatives samjhao jo discomfort kam karein aur clinical restrictions respect karein. Patient ki demonstration aur feedback se dekho ki woh independently safe posture maintain kar pa raha hai ya nahi.
+**B. Kyun galat hai:** Painful position ka time badhana tissue strain ya discomfort badha sakta hai. Pain ka cause aur suitable alternatives assess karo.
 
-**C. Kyun galat hai:** Painful position ka time badhana tissue strain ya discomfort badha sakta hai. Pain ka cause aur suitable alternatives assess karo.
+**C. Kyun galat hai:** Visual alignment useful hai, lekin patient ka reported comfort bhi important information hai. Dono ko combine karke plan banao.
 
-**D. Kyun galat hai:** Visual alignment useful hai, lekin patient ka reported comfort bhi important information hai. Dono ko combine karke plan banao.
+**D. Kyun galat hai:** Patient safe self-positioning kar sakta hai toh unnecessary restriction independence kam kar sakti hai. Better support aur guidance se ability preserve ho sakti hai.
 
 **Exam clue:** Independent positioning ko individualized support aur feedback se improve karo.
 
