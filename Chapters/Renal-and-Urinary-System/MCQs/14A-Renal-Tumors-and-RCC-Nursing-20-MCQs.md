@@ -77,28 +77,28 @@ Smoking carcinogen exposure aur RCC risk se associated hai; cessation counsellin
 
 </details>
 
-### Q4. Which classical symptom may occur with a renal malignancy?
+### Q4. Which renal imaging finding is most characteristic of a simple cyst rather than a solid enhancing renal tumor?
 
 **Difficulty:** Easy | **Topic:** Renal tumors and RCC nursing | **Priority:** Medium | **Type:** Original practice
 
-- **A.** Productive cough as the defining feature
-- **B.** Isolated ear discharge
-- **C.** Painful swallowing alone
-- **D.** Visible hematuria
+- **A.** Irregular solid enhancing component
+- **B.** Solid tissue extending into a renal vein
+- **C.** Enhancing mural nodule
+- **D.** Thin-walled fluid-filled lesion without internal enhancement
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Visible hematuria**
+**Correct: D. Thin-walled fluid-filled lesion without internal enhancement**
 
-Renal tumor urinary collecting system mein bleed kar sakta hai, visible hematuria evaluation demand karti hai.
+Simple cyst usually thin smooth wall aur fluid contents rakhti hai, internal solid enhancement absent hota hai. Imaging report ki complete characteristics specialist review karta hai, especially agar cyst complex ho.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Cough lung involvement mein possible hai, primary defining renal symptom nahi.
-- **B.** Ear discharge local ear pathology suggest karta hai.
-- **C.** Dysphagia renal tumor ka characteristic urinary presentation nahi.
+- **A.** Solid enhancement vascularized tissue suggest kar sakta hai; simple fluid cyst ka typical feature nahi hai.
+- **B.** Venous solid extension suspicious tumor involvement ho sakta hai, simple cyst ki normal appearance nahi.
+- **C.** Enhancing mural nodule complex cystic lesion mein malignancy concern badha sakta hai; further characterization chahiye.
 
-**Exam clue:** Unexplained blood in urine needs evaluation.
+**Exam clue:** Simple fluid cyst does not contain an enhancing solid component.
 
 </details>
 
@@ -507,3 +507,5 @@ CKD aur declining filtration mein nephrologist renal preservation, medicine and 
 - [EAU RCC 2026 disease management](https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/disease-management), indexed evidence on local therapy and embolization.
 - [EAU RCC follow-up](https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/followup-in-rcc), indexed evidence on risk-stratified surveillance and nephrology coordination.
 - Q5–6, Q12 and Q16–18 require additional dedicated paediatric, genetic, pharmacology and adverse-event source verification. Independent clinical/semantic and exact video/PYQ review pending.
+
+- [EAU RCC diagnostic evaluation 2026](https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/diagnostic-evaluation), indexed diagnosis, contrast imaging, genetic assessment and biopsy before ablation.
