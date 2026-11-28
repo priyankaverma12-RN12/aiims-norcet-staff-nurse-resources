@@ -131,3 +131,37 @@ Targeted stem screening of relevant endocrine, cardiovascular, respiratory, rena
 ## Next scope
 
 Reconcile remaining INC GTT variants, aldolase, ACP/PSA, reference values and Unit VIII immunochemistry/ELISA against existing OBG, immunology, IPC, A&P and other organ-system banks. Allocate existing coverage rather than duplicate. Complete only genuinely uncovered objectives. Independent clinical/source verification, comprehensive semantic and distractor/difficulty audit, exact MCQ video evidence, rendering and PR7/8/30 coordination are still gates. No whole-topic-phase completion or live publication claim. After verified topic coverage and safe integration, ten 120-question mock-exclusive tests in pairs and all-India sourced PYQs. Current main remains four originals, one reported adaptation and zero full mocks, separate from candidate count.
+
+
+---
+
+# Batch 05 verified continuation — 28 November 2026
+
+**Draft only.** Baseline c2d12e77f7dbbabf089000fbaeb88ddc763ed82d. All 45 prior chapter blobs except this append-only checkpoint preserved exactly.
+
+| New bank | Originals | Individual rationales | Final verified commit |
+|---|---:|---:|---|
+| [ELISA and diagnostic immunochemistry](21-ELISA-and-Diagnostic-Immunochemistry-20-MCQs.md) | 20 | 80 | 1b8729b09cce1f1f18180e0cb34f42a3d51bdd0b |
+| [Selected biochemical investigations](22-Selected-Biochemical-Investigations-20-MCQs.md) | 20 | 80 | c8f48f41f47ac452f5fae2476b17d117905e07e5 |
+| **Batch 05** | **40** | **160** | |
+| **All candidate batches** | **440** | **1,760** | |
+
+Bank 22 is a single 20-question gap supplement (8 glucose challenge protocols, 4 aldolase, 5 prostate markers, 3 reference values), not four completed individual topic banks. Forty rather than one hundred justified because much antibody and clinical-management coverage already exists and other remaining objectives need deeper allocation and audit. No fabricated padding or whole-curriculum completion.
+
+## Resources
+
+- [Immunochemistry guide](../Concepts/21-Immunoglobulins-and-Diagnostic-Immunochemistry.md) e8e8a8e48857d481ea11225a43b8ad9bfe0e7c28 and [ELISA sequence diagram](../Assets/elisa-formats-and-quality-control.svg) e35560f76e24e8d96ebe45c68199c29cadf211b4.
+- [Selected investigations guide](../Concepts/22-Selected-Biochemical-Investigations-and-Reference-Values.md) 390def26dcab569ce8a5967a0ffb173309941c6c and [GTT comparison diagram](../Assets/selected-biochemical-investigations.svg) bbddb528ec53125e729733dcb068f3.
+- [Curriculum and evidence ledger](../Previous-Year-Questions/Batch-05-Curriculum-Reconciliation-and-Evidence-Ledger.md) a2b2363196522193e3806be42f165c6d5e839dd5.
+
+## Verified audit and gates
+
+All new writes exactly read back. All 22 banks reparsed: 440 questions, 1,760 options, 1,760 individually labeled rationales, 440 aligned keys and closed answer blocks, 440 difficulty and priority labels, five of each answer letter per bank. Two normalized comparisons (240/240 and 245/245) and unchanged prior 405/405 checkpoint establish 445/445 exact distinct normalized chapter stems. Four legacy originals and one reported adaptation preserved. Ten guides and ten SVGs. Eleven local links across two new guides resolve. No candidate CI check-runs returned at c8f48f41f47ac452f5fae2476b17d117905e07e5. No rendered deployment validation.
+
+Second-pass author review of 40 new stems/keys, two in-place replacements for generic ELISA objectives, recalibrated difficulty distribution 8 Easy/21 Medium/11 Difficult, added specific evidence references. No independent clinical certification or exhaustive semantic/distractor audit. Full bounded preflight not certified. INC units I–VIII provisionally reconciled in ledger, including linked existing immunoglobulin coverage. Mini-GTT nomenclature, full systemic pathology allocation, thyroid reference values and detailed cross-owner programme allocation still need resolution. No new authenticated PYQs or verified exact video item/timestamp mapping. INC and NHM PDF screenshots failed; extracted text and indexed/direct clinical sources distinguished.
+
+Current PR7/8 navigation overlap and PR30 bronchial metaplasia overlap explicitly confirmed. New coordination requests 7235756191, 7235756477, 7235756869, no release acknowledgment received. Prior 400 questions preserved unchanged. No edits to shared navigation, other owners or automation schedules. Independent clinical, exhaustive semantic, full curriculum, evidence, rendering/CI and main reconciliation gates remain open. No merge or live inventory credit. Main chapter content remains separate: four originals, one reported adaptation, zero full mocks.
+
+## Next scope
+
+Prioritize actual audit rather than another numerical expansion: independently review each of 440 staged originals and all rationales, identify implausible distractors and duplicate learning objectives, compare all relevant topic/mock/PYQ/active draft banks, resolve PR30 allocation, complete INC Applied Pathology I/II and remaining Biochemistry curriculum mapping, verify source and video evidence, and coordinate PR7/8 navigation release. Maintain original learner identities. Only add justified missing content. Once topic coverage is certified and integration is validated against exact latest main, start ten 120-item mock-exclusive tests in pairs, then source-traced all-India PYQs. Preserve all other jobs and schedules.
