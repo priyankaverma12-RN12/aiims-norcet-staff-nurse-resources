@@ -6,7 +6,7 @@
 
 ### Q1. A ward has 12 patients with a mean length of stay of 4 days and another ward has 18 patients with a mean of 7 days. What is the combined patient-level mean?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 5.5 days
 - **B.** 5.8 days
@@ -56,7 +56,7 @@
 
 ### Q3. A dataset of daily emergency-department waiting times contains a few extremely long delays. Which summary best represents the typical waiting time and central spread without excessive influence from those delays?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Median and interquartile range
 - **B.** Mean and maximum
@@ -106,7 +106,7 @@
 
 ### Q5. A ward's length-of-stay distribution has a long tail extending toward larger values. How should its shape be described?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Right-skewed distribution
 - **B.** Left-skewed distribution
@@ -156,7 +156,7 @@
 
 ### Q7. Five observed simulation scores are 3, 5, 7, 8 and 12. The research team wants the sample variance rather than the population variance. Which divisor should be applied to the sum of squared deviations from the sample mean?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 5
 - **B.** 6
@@ -181,7 +181,7 @@
 
 ### Q8. A sample variance of nurses' response times is 36 seconds squared. What is the sample standard deviation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 36 seconds
 - **B.** 6 seconds
@@ -306,7 +306,7 @@
 
 ### Q13. A box plot shows a very short box but one distant point above its upper whisker. What is the most defensible initial interpretation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Central observations are relatively concentrated and the distant observation needs investigation
 - **B.** The distant point must be a fabricated observation
@@ -356,7 +356,7 @@
 
 ### Q15. A patient's standardized test score is two standard deviations below the reference mean. What is the corresponding z-score?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** +2
 - **B.** −2
@@ -381,7 +381,7 @@
 
 ### Q16. Assume a normally distributed nursing competency score with mean 70 and standard deviation 5. Approximately what percentage lies between 65 and 75?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 95%
 - **B.** 99.7%
@@ -406,7 +406,7 @@
 
 ### Q17. A hospital report states that the 90th percentile of triage waiting time is 42 minutes. What is the usual interpretation, allowing for ties and percentile conventions?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 90% of patients waited exactly 42 minutes
 - **B.** 42% of patients waited 90 minutes
@@ -431,7 +431,7 @@
 
 ### Q18. A ward records 0, 1, 2 and 3 missed observations on respectively 5, 4, 3 and 2 shifts. How many shifts had at most one missed observation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 4 shifts
 - **B.** 9 shifts
@@ -456,7 +456,7 @@
 
 ### Q19. A quality report gives 8 falls during 2,000 patient-days. Which rate per 1,000 patient-days is correct?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 8 falls per 1,000 patient-days
 - **B.** 0.4 falls per 1,000 patient-days
@@ -481,7 +481,7 @@
 
 ### Q20. A unit's average daily census is unchanged between two months, but its standard deviation increases substantially. What can be concluded from these two statistics alone?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Daily census values were more dispersed around their mean in the second month
 - **B.** Every day had a higher census in the second month
