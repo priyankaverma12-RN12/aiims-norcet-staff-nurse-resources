@@ -18,16 +18,16 @@
 **Correct: A. Verify two approved identifiers against the order**
 
 <!-- job5-rationale -->
-Patient identification mein do independent approved person-specific identifiers use karte hain, jaise full name aur hospital registration number ya date of birth. Patient se possible ho toh identifiers actively state karvao aur wristband/record ko intended order se match karo. Same surname patients mein sirf naam ka ek part reliable nahi. Mismatch ya missing wristband ko approved process se resolve kiye bina nonurgent procedure start mat karo.
+Socho ward mein do patients ka surname same hai. Agar nurse sirf surname ya bed dekhkar procedure karegi, toh galat patient ko treatment mil sakta hai. Isliye nurse do approved person-specific identifiers, jaise full name aur hospital registration number ya date of birth, current order se match karti hai. Patient jawab de sakta hai toh usse identifiers khud batane ko kehti hai. Wristband ya record mismatch ho toh approved process se resolve karne tak nonurgent procedure rokna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Two approved identifiers order se match karna wrong-patient risk reduce karta hai.
-- **B:** Room number patient ka permanent identifier nahi, aur surname duplicate ho sakta hai.
-- **C:** Neighbor authorized reliable identification source nahi hai.
-- **D:** Bed location change ho sakti hai, missing band ko policy se resolve karo.
+- **A:** Do approved identifiers match karne se nurse same surname wale patients ko differentiate kar sakti hai aur intended order confirm kar sakti hai.
+- **B:** Room number badal sakta hai aur surname do patients ka same ho sakta hai. Dono milkar reliable identification nahi dete.
+- **C:** Neighboring patient se milne wali information authorized verification ki jagah nahi le sakti. Usse khud bhi galat pehchan ho sakti hai.
+- **D:** Bed location change ho sakti hai. Missing wristband ko approved policy se resolve karna zaruri hai, bed ke basis par guess karna nahi.
 
-**Exam clue:** Two identifiers, not room or bed number.
+**Exam clue:** Do patient-specific identifiers match karo. Room aur bed number ko identity mat samjho.
 
 [Concept reference](https://www.jointcommission.org/en-us/knowledge-library/support-center/standards-interpretation/standards-faqs/000001463)
 <!-- /job5-rationale -->
@@ -61,16 +61,16 @@ Patient identification mein do independent approved person-specific identifiers 
 **Correct: D. Assess the cause, arrange supervision and implement individualized fall precautions**
 
 <!-- job5-rationale -->
-Sedative alertness, balance aur reaction time impair kar sakta hai. Confused patient ka restlessness pain, toileting need, delirium, hypoxia ya medicine effect se related ho sakta hai. Pehle immediate safety ensure karo, cause assess karo, appropriate observation aur assistance arrange karo. Individualized precautions aur least restrictive measures use karo. Restraints only applicable authorization and safety criteria ke under use hote hain.
+Sedative medicine alertness, balance aur reaction time kam kar sakti hai. Confused patient baar-baar uth raha hai toh nurse pehle immediate fall hazard dekhti hai aur restlessness ka cause assess karti hai, jaise pain, toileting need, delirium, hypoxia ya medicine effect. Phir supervision, safe assistance aur individualized precautions arrange karti hai. Least restrictive approach use hoti hai aur restraint sirf applicable authorization aur safety criteria meet hone par consider hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** Four-point restraints without assessment unnecessary harm aur restriction create karte hain.
-- **B:** All four rails alone climbing injury or entrapment risk create kar sakte hain aur circumstances mein restraint bhi ho sakte hain.
-- **C:** Unsupervised walking sedation aur confusion mein fall risk badhati hai.
-- **D:** Cause assessment, supervision aur tailored prevention appropriate hain.
+- **A:** Bina assessment four-point restraint lagane se patient ki freedom restrict hoti hai aur injury ya distress ka risk badh sakta hai. Yeh routine fall prevention nahi hai.
+- **B:** Saare side rails upar karna akela sufficient nahi hai. Patient rail ke upar chadh sakta hai, entrapment ho sakti hai aur circumstances mein rails restraint ban sakte hain.
+- **C:** Sedation aur confusion ke dauran akele chalne se balance bigadne ka risk zyada hai. Confidence ke naam par unsafe mobility encourage nahi karni chahiye.
+- **D:** Cause assess karke supervision aur actual risk ke hisaab se precautions dene se patient ki immediate safety aur underlying need dono address hote hain.
 
-**Exam clue:** Treat the cause and use least restrictive prevention.
+**Exam clue:** Pehle cause aur immediate safety assess karo. Routine restraint ke bajay least restrictive prevention choose karo.
 
 [Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
 <!-- /job5-rationale -->
@@ -104,16 +104,16 @@ Sedative alertness, balance aur reaction time impair kar sakta hai. Confused pat
 **Correct: C. Low locked bed, accessible call bell and clear well-lit walking path**
 
 <!-- job5-rationale -->
-Fall prevention environment ka purpose tripping aur unsafe transfer ke hazards reduce karna hai. Low locked bed stable access provide karta hai, reachable call bell se patient assistance mang sakta hai, clear well-lit pathway obstacles identify karne mein help karta hai. Appropriate footwear, mobility aid aur personal risk plan bhi ensure karo. Environment alone every fall prevent nahi kar sakta.
+Older patient ke liye fall prevention ka matlab surroundings ko aisa banana hai ki transfer aur walking ke dauran unnecessary hazard kam ho. Low locked bed stability deta hai, reachable call bell se patient help maang sakta hai aur clear well-lit path se obstacles dikhte hain. Nurse suitable footwear, prescribed mobility aid aur individual risk plan bhi check karti hai. Sirf environment improve karna har fall ko prevent karne ki guarantee nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Dark corridor visibility reduce karta hai.
-- **B:** Frequently moved furniture unpredictable obstacles create karti hai.
-- **C:** Low locked bed, call bell aur clear lighting safer combination hain.
-- **D:** High unlocked bed aur unreachable footwear unsafe transfer promote karte hain.
+- **A:** Dark corridor mein patient ko obstacles kam dikhte hain, isliye walking ke dauran trip ya fall ka risk badhta hai.
+- **B:** Furniture baar-baar move karne se patient ko familiar pathway ka andaaza nahi rehta. Walkway mein unexpected obstacles aa sakte hain.
+- **C:** Low locked bed, reachable call bell aur clear well-lit route milkar safe transfer aur assisted walking ko support karte hain.
+- **D:** High unlocked bed transfer ko unstable bana sakta hai aur footwear reach mein na ho toh patient unsafe tareeke se uthne ki koshish kar sakta hai.
 
-**Exam clue:** Low, locked, lit and reachable.
+**Exam clue:** Bed low aur locked rakho, pathway lit aur clear rakho, call bell reachable rakho.
 
 [Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
 <!-- /job5-rationale -->
@@ -147,16 +147,16 @@ Fall prevention environment ka purpose tripping aur unsafe transfer ke hazards r
 **Correct: B. Assess responsiveness, airway, breathing, circulation and possible injury before moving**
 
 <!-- job5-rationale -->
-Unwitnessed fall mein head injury, fracture ya acute illness ka possibility hota hai. Patient ko automatically lift mat karo. Responsiveness aur ABC promptly assess karo, emergency help activate karo as indicated, pain, bleeding, neurological status aur possible injury assess karo. Movement only immediate danger ya indicated resuscitation ki requirement ke hisaab se trained protocol follow karke karo. Documentation patient assessment ke baad hoti hai.
+Unwitnessed fall ke baad nurse ko pata nahi hota ki patient kaise gira aur head injury, fracture ya acute illness hui hai ya nahi. Isliye pehle responsiveness, airway, breathing aur circulation assess ki jaati hai aur zarurat par emergency help bulayi jaati hai. Pain, bleeding, neurological status aur injury ke signs dekhe jaate hain. Immediate danger ya resuscitation ki need ho toh trained emergency protocol ke hisaab se movement ki jaati hai. Routine lifting aur paperwork patient assessment ke baad aate hain.
 
 **Option-by-option reasoning**
 
-- **A:** Unsupported standing further injury cause kar sakti hai.
-- **B:** Immediate ABC and injury assessment priority hai.
-- **C:** Unassessed lifting injury worsen kar sakti hai.
-- **D:** Incident reporting important hai but emergency care se pehle nahi.
+- **A:** Unsupported standing se injured bone ya joint par load pad sakta hai aur patient dobara gir sakta hai. Isse fracture rule out nahi hota.
+- **B:** ABC aur possible injury assess karna priority hai, kyunki life-threatening problems aur unsafe movement dono pehle identify karne hote hain.
+- **C:** Bina injury check kiye lift karna suspected fracture ya spinal injury ko worsen kar sakta hai.
+- **D:** Incident report zaruri hai lekin patient ko assess aur emergency care dene se pehle paperwork karna unsafe delay hai.
 
-**Exam clue:** Patient first, report after immediate care.
+**Exam clue:** Fall ke baad patient first. ABC aur injury assess karo, phir reporting complete karo.
 
 [Concept reference](https://www.ahrq.gov/patient-safety/settings/long-term-care/resource/injuries/fallspx/man2.html)
 <!-- /job5-rationale -->
@@ -190,16 +190,16 @@ Unwitnessed fall mein head injury, fracture ya acute illness ka possibility hota
 **Correct: B. Near miss**
 
 <!-- job5-rationale -->
-Near miss safety incident hai jisme error patient tak pahunchne se pehle intercept ho jata hai. Yahan wrong dose prepare hui but administration se pehle detect ho gayi. Isliye patient exposed nahi hua. Error reached patient without harm ek different category hai. Near miss report karne se labeling, interruptions ya workflow gaps identify ho sakte hain aur future harm prevent kiya ja sakta hai.
+Near miss mein safety incident patient tak pahunchne se pehle pakda jaata hai. Yahan wrong dose prepare hui thi, lekin nurse ne administration se pehle mistake detect kar li. Patient expose nahi hua, isliye yeh near miss hai. Agar error patient tak pahunch jaata aur harm detect nahi hota, toh woh alag category hoti. Near miss reporting se labeling, interruptions aur workflow ki problems identify karke future harm reduce kiya ja sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Every near miss sentinel injury nahi hota, yahan injury described nahi hai.
-- **B:** Error intercepted before reaching patient near miss hai.
-- **C:** Adverse drug reaction drug exposure ke baad unwanted reaction hai.
-- **D:** Wrong-dose preparation expected treatment response nahi hai.
+- **A:** Har near miss sentinel injury nahi hota. Is situation mein patient ko injury hui hi nahi aur sentinel criteria establish nahi hue.
+- **B:** Wrong dose patient tak pahunchne se pehle intercept hui hai, jo near miss ki defining feature hai.
+- **C:** Adverse drug reaction medicine exposure ke baad unwanted reaction hoti hai. Yahan dose administer hi nahi hui.
+- **D:** Wrong dose prepare hona therapeutic effect nahi hai. Yeh medication safety process ki error hai.
 
-**Exam clue:** Near miss = error intercepted before reaching patient.
+**Exam clue:** Near miss mein incident patient tak nahi pahunchta. No-harm incident mein patient tak pahunch chuka hota hai.
 
 [Concept reference](https://psnet.ahrq.gov/web-mm/near-miss-bedside-medications)
 <!-- /job5-rationale -->
@@ -233,16 +233,16 @@ Near miss safety incident hai jisme error patient tak pahunchne se pehle interce
 **Correct: A. Root cause analysis**
 
 <!-- job5-rationale -->
-Root cause analysis serious safety event ke baad structured retrospective investigation hai. Team event timeline, human factors, communication, equipment, staffing aur process gaps review karti hai. Sirf ek worker ko blame karne ke bajay system contributors identify karke effective corrective actions aur follow-up measures develop karte hain. RCA and Action ka emphasis implementation par bhi hai.
+Root cause analysis ya RCA serious safety event ke baad structured retrospective investigation hoti hai. Team timeline, communication, equipment, staffing, human factors aur process gaps review karti hai. Goal sirf ek person ko blame karna nahi, balki yeh samajhna hai ki system mein kaun se factors ne error possible banayi. RCA and Action mein corrective actions implement karna aur baad mein unka effect measure karna bhi important hai.
 
 **Option-by-option reasoning**
 
-- **A:** RCA system contributors analyze karti hai.
-- **B:** Investigation ke bina punishment underlying hazards solve nahi karta.
-- **C:** Records delete karne se evidence aur learning lose hoti hai.
-- **D:** Equipment aur workflow factors event ke important contributors ho sakte hain.
+- **A:** RCA event ke baad contributing system factors identify karti hai aur future recurrence reduce karne ke liye corrective action guide karti hai.
+- **B:** Bina investigation pehle worker ko punish karne se actual cause samajh nahi aata. System hazard waise hi reh sakta hai.
+- **C:** Event records delete karne se investigation ka evidence khatam hota hai aur team future prevention ke liye seekh nahi paati.
+- **D:** Equipment aur workflow problems safety event mein contribute kar sakti hain. Unko ignore karne se investigation incomplete rahegi.
 
-**Exam clue:** RCA looks backward, corrective action prevents recurrence.
+**Exam clue:** RCA past event investigate karti hai. Findings se corrective action aur follow-up hona chahiye.
 
 [Concept reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 <!-- /job5-rationale -->
@@ -276,16 +276,16 @@ Root cause analysis serious safety event ke baad structured retrospective invest
 **Correct: D. Prevent smoking near oxygen and explain the fire hazard**
 
 <!-- job5-rationale -->
-Oxygen khud fuel nahi hai, lekin combustion support karti hai. Oxygen-enriched environment mein cigarette spark ya flame se material rapidly ignite aur burn kar sakta hai. Low flow bhi smoking safe nahi banata. Smoking stop karvao, fire safety policy follow karo aur patient ko hazard explain karo. Required oxygen therapy ko bina clinical assessment arbitrarily discontinue mat karo.
+Oxygen khud fuel nahi hai, lekin combustion ko support karta hai. Oxygen-enriched surroundings mein cigarette ki spark ya flame se materials aasani se ignite ho sakte hain aur tezi se jal sakte hain. Low flow par bhi smoking safe nahi hai. Nurse smoking prevent karti hai, fire safety policy follow karti hai aur patient ko risk samjhati hai. Required oxygen therapy ko bina clinical assessment arbitrarily band nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Low oxygen flow fire risk eliminate nahi karta.
-- **B:** Blanket covering fire risk aur equipment safety issues badha sakti hai.
-- **C:** Oxygen flow increase karna smoking aur dangerous banata hai.
-- **D:** Smoking prevent karna aur fire hazard explain karna appropriate hai.
+- **A:** Low oxygen flow combustion hazard ko eliminate nahi karta. Smoking phir bhi fire cause kar sakti hai.
+- **B:** Blanket se equipment cover karna fire safety ka solution nahi hai. Isse equipment access aur safety bhi compromise ho sakti hai.
+- **C:** Smoking se pehle oxygen flow badhana oxygen enrichment badha sakta hai aur fire hazard ko aur serious bana sakta hai.
+- **D:** Smoking rokna aur patient ko combustion hazard samjhana direct preventive action hai.
 
-**Exam clue:** Oxygen supports combustion, no smoking near oxygen.
+**Exam clue:** Oxygen fuel nahi hai, combustion support karta hai. Oxygen ke paas smoking allowed nahi honi chahiye.
 
 [Concept reference](https://www.nhs.uk/tests-and-treatments/home-oxygen-treatment/)
 <!-- /job5-rationale -->
@@ -319,16 +319,16 @@ Oxygen khud fuel nahi hai, lekin combustion support karti hai. Oxygen-enriched e
 **Correct: C. Protect the patient and isolate the power source if it is safe to do so, then summon help**
 
 <!-- job5-rationale -->
-Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patient aur staff ko further exposure se protect karo. Energized equipment ya patient ko unsafe direct contact na karo. Power source ko only safe and authorized method se isolate karo, emergency help summon karo aur clinically necessary treatment ka safe alternative arrange karo. Faulty device ko further use se remove karna policy ke according hona chahiye.
+Sparking device patient aur staff ko electric shock, burn ya fire ke danger mein daal sakta hai. Nurse ki priority further exposure se bachana hai. Energized equipment ya patient se unsafe direct contact avoid karo aur power ko sirf safe authorized method se isolate karo. Emergency help bulayi jaati hai aur zaruri therapy ke liye safe alternative arrange hota hai. Faulty device ko policy ke hisaab se service se remove kiya jaata hai.
 
 **Option-by-option reasoning**
 
-- **A:** Water electrical hazard worsen kar sakta hai.
-- **B:** Damaged device continue use karna shock/fire risk hai.
-- **C:** Patient protection, safe isolation and help correct priorities hain.
-- **D:** Wet bare hands electrical injury risk increase karte hain.
+- **A:** Energized equipment par water daalne se electric shock ka danger badh sakta hai. Yeh safe response nahi hai.
+- **B:** Sparking device ko use karte rehne se shock aur fire ka ongoing risk bana rehta hai. Maintenance visit ka wait karna unsafe hai.
+- **C:** Patient ko protect karna, safe power isolation aur emergency help lena immediate hazard ko address karte hain.
+- **D:** Wet bare hands se exposed wiring touch karna current ke contact ka risk badhata hai aur staff ko bhi injury ho sakti hai.
 
-**Exam clue:** Do not touch energized hazards. Safe isolation and emergency help first.
+**Exam clue:** Energized hazard ko unsafe tareeke se touch mat karo. Safe isolation aur emergency help priority hain.
 
 **Dedicated electrical equipment safety reference:** [OSHA hospital electrical safety](https://www.osha.gov/etools/hospitals/hospital-wide-hazards/electrical-safety) · Supports removal of damaged equipment from service, avoidance of wet-hand electrical contact and electrical hazard controls. This is a US occupational safety reference, not an Indian statutory rule. Follow facility emergency and electrical safety procedures.
 <!-- /job5-rationale -->
@@ -362,16 +362,16 @@ Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patie
 **Correct: C. Identify the allergy and arrange latex-safe equipment before care**
 
 <!-- job5-rationale -->
-Severe latex allergy mein natural rubber latex proteins exposure hypersensitivity reaction trigger kar sakte hain, including anaphylaxis. Allergy alert verify aur communicate karo, gloves ke saath procedure-related equipment aur other products ki compatibility check karo. Latex-safe alternatives before exposure arrange karo. Reaction develop ho toh emergency protocol follow karo.
+Severe latex allergy wale sensitized patient mein natural rubber latex proteins reaction trigger kar sakte hain, jisme anaphylaxis bhi possible hai. Nurse allergy alert verify aur team ko communicate karti hai. Procedure se pehle gloves, devices aur other products ka material check karke appropriate latex-safe alternatives arrange karti hai. Agar reaction develop ho toh emergency protocol follow hota hai. Prevention exposure se pehle shuru hoti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Allergy alert remove karne se prevention information lose hoti hai.
-- **B:** Reaction ka wait preventable exposure create karta hai.
-- **C:** Latex-safe preparation and communication preventive action hain.
-- **D:** Brief latex contact bhi sensitized patient mein reaction trigger kar sakta hai.
+- **A:** Allergy alert hataane se important safety information agle staff member tak nahi pahunch sakti aur accidental exposure ho sakta hai.
+- **B:** Reaction ka wait karna avoidable exposure create karta hai. Severe allergy mein reaction dangerous ho sakta hai.
+- **C:** Allergy identify karke care se pehle latex-safe equipment arrange karna exposure prevent karta hai.
+- **D:** Brief contact bhi sensitized patient mein reaction trigger kar sakta hai. Contact duration kam hone se latex safe nahi ban jaata.
 
-**Exam clue:** Known allergy: prevent exposure before procedure.
+**Exam clue:** Known severe allergy mein exposure prevent karo. Reaction hone ka wait mat karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/6-4-infection-control-and-patient-safety)
 <!-- /job5-rationale -->
@@ -405,16 +405,16 @@ Severe latex allergy mein natural rubber latex proteins exposure hypersensitivit
 **Correct: B. Use the least restrictive effective option with authorization, reassessment and monitoring**
 
 <!-- job5-rationale -->
-Restraint patient ki free movement restrict kar sakti hai aur skin injury, circulation problems, distress, entrapment ya other harm ka risk rakhti hai. Alternatives assess karo aur only clinically justified least restrictive effective method use karo under applicable authorization. Ongoing observation, comfort, circulation, skin, basic needs aur continued necessity reassess karo. Restraint as soon as safe discontinue karna goal hai.
+Physical restraint patient ki voluntary movement restrict karta hai aur skin injury, poor circulation, distress aur entrapment ka risk ho sakta hai. Nurse aur trained authorized team pehle alternatives assess karte hain aur applicable policy ke under clinically necessary least restrictive effective option consider karte hain. Patient ki comfort, skin, circulation, basic needs aur ongoing necessity reassess hoti hai. Jab indication safely resolve ho, restraint ko jitni jaldi possible ho discontinue karna goal hai.
 
 **Option-by-option reasoning**
 
-- **A:** Staff convenience restraint indication nahi hai.
-- **B:** Least restrictive method, authorization and monitoring patient safety support karte hain.
-- **C:** Moving side rail se restraint attach karna movement-related injury risk create karta hai.
-- **D:** Unobserved patient mein complications miss ho sakte hain.
+- **A:** Staff convenience patient ko restrict karne ka valid clinical indication nahi hai. Isse unnecessary harm aur rights violation ho sakti hai.
+- **B:** Least restrictive effective approach, required authorization aur ongoing monitoring safety aur patient rights ko support karte hain.
+- **C:** Moving side rail ke movement se attached restraint ka tension badal sakta hai aur injury ho sakti hai. Authorized facility safety procedures follow hone chahiye.
+- **D:** Next shift tak patient ko unobserved chhodne se breathing, circulation ya skin complications miss ho sakti hain.
 
-**Exam clue:** Least restrictive, shortest necessary, reassess and document.
+**Exam clue:** Least restrictive authorized care choose karo, ongoing need reassess karo aur earliest safe discontinuation aim rakho.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices)
 <!-- /job5-rationale -->
@@ -448,16 +448,16 @@ Restraint patient ki free movement restrict kar sakti hai aur skin injury, circu
 **Correct: A. Call bell**
 
 <!-- job5-rationale -->
-Assisted transfer required patient ko help request karne ka accessible method chahiye. Call bell reachable aur functional rakho, patient ko use demonstrate karo aur timely response arrange karo. Patient cognition, mobility aur communication limitations ke according alternate assistance plan bhi necessary ho sakta hai. Unsafe objects walking path se remove karo.
+Jis patient ko bed se chair transfer karne ke liye help chahiye, uske paas staff ko bulane ka accessible tareeka hona zaruri hai. Nurse call bell ko functional aur reach mein rakhti hai, patient ko use karna dikhati hai aur timely response arrange karti hai. Agar patient cognition, movement ya communication difficulty ke kaaran bell use nahi kar sakta, toh alternate assistance plan chahiye. Walking path se hazards bhi hataaye jaate hain.
 
 **Option-by-option reasoning**
 
-- **A:** Call bell patient ko transfer se pehle help request karne deta hai.
-- **B:** Unsecured sharp instrument injury hazard hai.
-- **C:** Another patient's medication wrong-drug risk hai.
-- **D:** Trailing cable trip hazard hai.
+- **A:** Reachable call bell patient ko uthne se pehle help maangne deta hai. Timely staff response unsafe independent transfer ka risk kam karta hai.
+- **B:** Unsecured sharp instrument se cut ya other injury ka risk hai. Yeh transfer mein help nahi deta.
+- **C:** Doosre patient ki medicine wrong-drug exposure ka risk hai aur assisted transfer ke liye useful nahi hai.
+- **D:** Trailing cable walking path mein trip hazard ban sakti hai. Use reach mein rakhna patient ko unsafe bana sakta hai.
 
-**Exam clue:** Call bell within reach, plus timely response.
+**Exam clue:** Call bell reachable aur functional rakho. Patient ko use samjhao aur timely help arrange karo.
 
 [Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
 <!-- /job5-rationale -->
@@ -491,16 +491,16 @@ Assisted transfer required patient ko help request karne ka accessible method ch
 **Correct: D. Stop administration and resolve the mismatch using the approved verification process**
 
 <!-- job5-rationale -->
-Barcode mismatch patient identity, medication, dose, order ya scanning issue indicate kar sakta hai. Alert bypass karne se safety barrier fail hota hai. Administration pause karo, approved identifiers aur current order compare karo, package label verify karo aur pharmacy/authorized team se discrepancy resolve karo. Emergency circumstances mein approved alternate verification protocol follow karo, random workaround nahi.
+Barcode mismatch ka matlab ho sakta hai ki identity, drug, dose, current order ya scanning process mein problem hai. Nurse administration pause karti hai aur approved patient identifiers, current order aur medication package label compare karti hai. Pharmacy ya authorized team se discrepancy resolve ki jaati hai. Emergency mein approved alternate verification protocol follow karo, lekin alert bypass karne ke liye random workaround use nahi karo.
 
 **Option-by-option reasoning**
 
-- **A:** Familiar package correct medication prove nahi karta.
-- **B:** Different patient wristband scan karna false verification hai.
-- **C:** Administer first se wrong-dose or wrong-patient exposure ho sakta hai.
-- **D:** Stop and resolve mismatch through approved process correct hai.
+- **A:** Familiar package dekhkar drug correct maan lena reliable verification nahi hai. Similar packaging mein different medicine ya strength ho sakti hai.
+- **B:** Kisi doosre patient ka wristband scan karne se false verification hoti hai. Isse wrong-patient medication error ka risk badhta hai.
+- **C:** Mismatch resolve karne se pehle medicine dene par wrong dose ya wrong patient exposure ho sakta hai. Baad mein check karna prevention nahi hai.
+- **D:** Administration rok kar approved process se mismatch resolve karna barcode safety barrier ko maintain karta hai.
 
-**Exam clue:** Barcode alert is a reason to verify, not bypass.
+**Exam clue:** Barcode alert aate hi ruk kar verify karo. Alert bypass karna solution nahi hai.
 
 [Concept reference](https://psnet.ahrq.gov/primer/medication-administration-errors)
 <!-- /job5-rationale -->
@@ -532,16 +532,16 @@ Barcode mismatch patient identity, medication, dose, order ya scanning issue ind
 **Correct: D. Combine the score with clinical judgment and patient-specific interventions**
 
 <!-- job5-rationale -->
-Fall-risk scale screening aur structured assessment support karti hai, but patient ki risk dynamic hai. New sedation, delirium, weakness, orthostatic symptoms ya environment change ke baad reassessment zaroori ho sakta hai. Score ke individual factors ko prevention plan se link karo aur clinical judgment use karo. Low score bhi zero risk guarantee nahi karta.
+Fall-risk tool structured screening aur assessment mein madad karta hai, lekin patient ka risk time ke saath badal sakta hai. New sedation, delirium, weakness, standing dizziness ya environment change hone par reassessment ki need ho sakti hai. Nurse individual risk factors ko targeted interventions se link karti hai aur clinical judgment use karti hai. Low score ka matlab zero fall risk nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Low score all future falls exclude nahi karta.
-- **B:** Same plan changing patient risks ignore karta hai.
-- **C:** One-time assessment deterioration miss kar sakta hai.
-- **D:** Score plus judgment and patient-specific interventions correct hai.
+- **A:** Low score future mein hone wale saare falls rule out nahi karta. Patient ki condition baad mein badal sakti hai.
+- **B:** Sab patients ke liye same plan use karne se actual individual risk factors aur changing needs miss ho sakti hain.
+- **C:** Sirf ek baar assessment karne se new weakness, sedation ya deterioration ke baad badha hua risk detect nahi hoga.
+- **D:** Score ke saath clinical judgment aur patient-specific interventions use karna assessment ko practical prevention se jodta hai.
 
-**Exam clue:** Risk score guides care, does not replace judgment.
+**Exam clue:** Risk score care guide karta hai, clinical judgment replace nahi karta. Change ke baad reassess karo.
 
 [Concept reference](https://www.ahrq.gov/patient-safety/settings/hospital/fall-tips/index.html)
 <!-- /job5-rationale -->
@@ -575,16 +575,16 @@ Fall-risk scale screening aur structured assessment support karti hai, but patie
 **Correct: C. Assess the patient and infusion, seek competent help and follow device protocol**
 
 <!-- job5-rationale -->
-High-alert infusion alarm blockage, battery, air detection, device failure ya programming concern indicate kar sakta hai. Pehle patient condition, medication order, infusion line aur pump status assess karo. Competent assistance lo aur device-specific protocol follow karo. Unexplained faulty pump ko safe replacement and treatment continuity plan ke saath isolate karo. Rate blindly change mat karo.
+High-alert medicine ke infusion pump ka alarm blockage, battery issue, air detection, programming problem ya device failure indicate kar sakta hai. Nurse pehle patient ki condition assess karti hai aur medication order, infusion line aur pump status check karti hai. Unfamiliar device ho toh competent assistance lekar device-specific protocol follow karti hai. Faulty device ko safely isolate karte waqt replacement aur essential therapy continuity ka plan zaruri hai. Rate ko bina verification change mat karo.
 
 **Option-by-option reasoning**
 
-- **A:** Unverified rate increase overdose cause kar sakta hai.
-- **B:** All lines disconnect karne se essential therapy interrupt ho sakti hai.
-- **C:** Patient and infusion assessment plus qualified help correct hai.
-- **D:** Alarm silence alone underlying cause resolve nahi karta.
+- **A:** Unverified rate increase se high-alert medicine ki overdose ho sakti hai. Alarm ka cause check kiye bina rate badhana unsafe hai.
+- **B:** Saari lines disconnect karne se essential medicines ya fluids achanak ruk sakte hain. Patient ki clinical need assess karni chahiye.
+- **C:** Patient aur infusion assessment ke saath qualified help lena alarm ka cause safely identify aur manage karne ka appropriate approach hai.
+- **D:** Sirf alarm silence karne se underlying obstruction ya programming problem resolve nahi hoti. Hazard unnoticed reh sakta hai.
 
-**Exam clue:** Assess patient, check infusion, follow protocol.
+**Exam clue:** Patient assess karo, infusion check karo aur device-specific protocol aur qualified help use karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/infusion-pumps/infusion-pump-risk-reduction-strategies-clinicians)
 <!-- /job5-rationale -->
@@ -618,16 +618,16 @@ High-alert infusion alarm blockage, battery, air detection, device failure ya pr
 **Correct: B. Participate in the required preprocedure verification and team time-out**
 
 <!-- job5-rationale -->
-Wrong-site surgery prevention mein preprocedure verification, site marking where applicable aur team time-out important safeguards hain. Time-out procedure start se pehle team actively patient identity, intended procedure aur correct site confirm karti hai. Discrepancy resolve hone tak proceed mat karo. Familiarity safety checks ka replacement nahi hai.
+Wrong-site surgery prevent karne ke liye pre-procedure verification, applicable site marking aur active team time-out important barriers hain. Procedure shuru hone se pehle team patient ki identity, intended procedure aur correct site ko confirm karti hai. Agar information match nahi karti, toh discrepancy resolve hone tak planned procedure pause hota hai. Patient aur staff se familiarity formal safety checks replace nahi kar sakti.
 
 **Option-by-option reasoning**
 
-- **A:** Familiar staff bhi human error kar sakte hain.
-- **B:** Required verification aur active team time-out correct safeguard hai.
-- **C:** Bed label person-specific identity verification nahi hai.
-- **D:** Convenient site mark karna planned procedure se match nahi karta.
+- **A:** Familiar staff bhi galti kar sakte hain, isliye team ki jaan-pehchan verification skip karne ka reason nahi hai.
+- **B:** Required verification aur active team time-out wrong patient, wrong procedure aur wrong site ka risk kam karte hain.
+- **C:** Bed label permanent person-specific identifier nahi hai. Bed change hone se identification error ho sakta hai.
+- **D:** Convenient site mark karna correct planned anatomical site ki verification nahi hai aur wrong-site procedure ka risk create karta hai.
 
-**Exam clue:** Time-out: right patient, procedure, site.
+**Exam clue:** Time-out mein right patient, right procedure aur right site ko actively confirm karo.
 
 [Concept reference](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 <!-- /job5-rationale -->
@@ -661,16 +661,16 @@ Wrong-site surgery prevention mein preprocedure verification, site marking where
 **Correct: A. Withhold the unsafe tray and obtain the correct meal after verification**
 
 <!-- job5-rationale -->
-Dysphagia mein swallowing coordination ya airway protection impaired ho sakti hai. Prescribed food texture aur liquid consistency individualized assessment se decide hote hain. Wrong tray ko withhold karo, current plan verify karke correct meal arrange karo. Positioning, assistance aur pace plan follow karo. Texture modification aspiration risk completely eliminate nahi karti.
+Dysphagia mein swallowing coordination ya airway protection impaired ho sakti hai. Patient ka food texture aur liquid consistency plan individual swallowing assessment ke basis par decide hota hai. Agar tray prescribed plan se match nahi karti, toh nurse use withhold karti hai aur plan verify karke correct meal arrange karti hai. Feeding position, assistance aur pace bhi prescribed plan ke hisaab se maintain hote hain. Texture modification aspiration risk ko completely eliminate nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** Unsafe tray replace karna prescribed swallowing plan maintain karta hai.
-- **B:** Rapid eating swallowing safety compromise kar sakti hai.
-- **C:** Unverified water addition texture/consistency change kar sakta hai.
-- **D:** Flat lying feeding generally unsafe ho sakti hai, prescribed positioning follow karo.
+- **A:** Unsafe tray withhold karke correct prescribed texture arrange karne se swallowing safety plan maintain hota hai.
+- **B:** Rapid eating mein patient ko swallow karne ka sufficient time nahi mil sakta aur aspiration risk badh sakta hai.
+- **C:** Bina verification water add karne se food ki texture ya liquid consistency badal sakti hai. Yeh prescribed plan ke against ho sakta hai.
+- **D:** Flat lying mein feeding generally swallowing safety compromise kar sakti hai. Individual prescribed position follow karni chahiye.
 
-**Exam clue:** Verify texture and swallowing plan before feeding.
+**Exam clue:** Feeding se pehle food texture aur swallowing plan verify karo. Galat tray ko serve mat karo.
 
 [Concept reference](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/)
 <!-- /job5-rationale -->
@@ -702,16 +702,16 @@ Dysphagia mein swallowing coordination ya airway protection impaired ho sakti ha
 **Correct: A. Encourage reporting and distinguish human error from reckless behavior**
 
 <!-- job5-rationale -->
-Just culture ka goal learning aur fair accountability dono maintain karna hai. Unintentional human error, at-risk choices aur reckless behavior ko evidence aur context se distinguish karte hain. System design, training, workload aur individual decisions review hote hain. Open reporting se hazards identify hote hain, but just culture ka matlab every unsafe act ignore karna nahi.
+Just culture ka goal safety incidents se seekhna aur fair accountability maintain karna hai. Team unintentional error, at-risk choices aur reckless behavior mein difference evidence aur context se samajhti hai. System design, workload, training aur individual decisions sab review hote hain. Staff ko openly report karne ka support milta hai, lekin iska matlab har unsafe action ignore karna nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Reporting encourage karna aur behavior context distinguish karna correct hai.
-- **B:** No accountability guarantee just culture nahi hai.
-- **C:** Concealment learning aur future prevention block karta hai.
-- **D:** Evidence se pehle blame unfair aur ineffective hai.
+- **A:** Reporting encourage karna aur behavior ke context ko fair tareeke se assess karna systems learning aur accountability dono support karta hai.
+- **B:** Sabko accountability se immunity dena just culture nahi hai. Reckless behavior ki proportionate review zaruri ho sakti hai.
+- **C:** Incident chhupane se hazards identify nahi hote aur future patients ko wahi harm ho sakta hai.
+- **D:** Evidence examine karne se pehle blame karna unfair hai aur actual system problems identify karne mein madad nahi karta.
 
-**Exam clue:** Just culture = learning plus fair accountability.
+**Exam clue:** Just culture mein learning aur fair accountability dono important hain.
 
 [Concept reference](https://psnet.ahrq.gov/primer/strategies-and-approaches-investigating-patient-safety-events)
 <!-- /job5-rationale -->
@@ -745,16 +745,16 @@ Just culture ka goal learning aur fair accountability dono maintain karna hai. U
 **Correct: D. Activate the facility escalation pathway or rapid response team**
 
 <!-- job5-rationale -->
-Sudden deterioration time-sensitive situation hai. Primary clinician unavailable ho toh facility escalation pathway, rapid response ya emergency team ko activate karo as indicated. ABC assessment aur immediate authorized interventions continue karo, relevant findings and urgency communicate karo. Documentation aur routine contact attempts urgent response delay nahi karne chahiye.
+Patient ki condition achanak deteriorate ho toh timely response important hai. Agar primary clinician reachable nahi hai, toh nurse facility ke approved escalation pathway, rapid response team ya emergency team ko clinical need ke hisaab se activate karti hai. ABC assessment aur authorized immediate interventions continue hote hain. Nurse relevant findings aur urgency clearly communicate karti hai. Routine calls ya documentation complete hone ka wait urgent help ko delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Indefinite wait preventable delay create karta hai.
-- **B:** Another patient clinical severity determine karne ka appropriate person nahi.
-- **C:** Chart completion emergency assistance se lower priority hai.
-- **D:** Approved escalation pathway timely help mobilize karta hai.
+- **A:** Primary clinician ka indefinitely wait karne se patient ki condition aur worsen ho sakti hai. Timely escalation ki need hai.
+- **B:** Doosra patient clinical severity assess karne ke liye appropriate qualified person nahi hai. Nurse approved emergency team se help leti hai.
+- **C:** Chart complete karna important hai lekin acute deterioration mein emergency assistance ki priority zyada hai.
+- **D:** Approved escalation pathway activate karne se timely qualified help aur urgent patient assessment arrange hoti hai.
 
-**Exam clue:** Unresolved deterioration: escalate, do not wait.
+**Exam clue:** Deterioration unresolved ho aur clinician unavailable ho toh approved escalation pathway use karo.
 
 [Concept reference](https://psnet.ahrq.gov/primer/rapid-response-systems)
 <!-- /job5-rationale -->
@@ -786,16 +786,16 @@ Sudden deterioration time-sensitive situation hai. Primary clinician unavailable
 **Correct: C. Lock wheelchair brakes and assess transfer assistance needs**
 
 <!-- job5-rationale -->
-Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status, dizziness, lines aur required staff/equipment assess karo. Wheelchair stable position mein brakes lock karo aur footrests appropriately move karo. Suitable footwear, approved transfer aid and safe technique use karo. Patient ko mobility limitations ke against force mat karo.
+Bed se wheelchair transfer se pehle nurse patient ki strength, balance, weight-bearing status, dizziness, attached lines aur required assistance assess karti hai. Wheelchair stable position mein rakhi jaati hai, brakes lock hote hain aur footrests appropriately move kiye jaate hain. Suitable footwear, approved transfer aid aur safe technique use ki jaati hai. Patient ko uski mobility limitations ke against force nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Loose IV pole weight-bearing support ke liye designed nahi hai.
-- **B:** Slippery floor par footwear remove karna fall risk badha sakta hai.
-- **C:** Locked brakes and assistance assessment safe transfer support karte hain.
-- **D:** Moving wheelchair transfer instability create karti hai.
+- **A:** Loose IV pole patient ka body weight support karne ke liye designed nahi hai. Iske move ya tip hone se fall ho sakta hai.
+- **B:** Slippery floor par footwear remove karne se grip kam ho sakti hai. Suitable footwear safe mobility support karta hai.
+- **C:** Wheelchair brakes lock karna aur patient ko kitni assistance chahiye yeh assess karna stable transfer mein madad karta hai.
+- **D:** Moving wheelchair transfer ke waqt stable support nahi deti. Patient balance lose karke gir sakta hai.
 
-**Exam clue:** Assess, lock, position, assist.
+**Exam clue:** Transfer se pehle assess karo, wheelchair position karo, brakes lock karo aur suitable assistance do.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 <!-- /job5-rationale -->
@@ -829,16 +829,16 @@ Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status
 **Correct: B. Assess the patient and arrange prompt clinical review and required reporting**
 
 <!-- job5-rationale -->
-Medication error patient tak pahunch chuki hai, even if current symptoms absent hain. Drug, actual dose, route, timing aur patient condition promptly assess karo, appropriate clinical team ko notify karo aur indicated monitoring/treatment arrange karo. Some effects delayed ho sakte hain. Actual facts document karo, approved safety reporting and disclosure process follow karo. Patient assessment paperwork se pehle hai.
+Medication error patient tak pahunch chuki hai, chahe abhi symptoms nahi dikh rahe hon. Nurse actual drug, dose, route, timing aur patient ki clinical condition promptly assess karti hai. Appropriate clinical team ko inform karke indicated monitoring aur treatment arrange hota hai, kyunki kuch drug effects delayed ho sakte hain. Actual facts accurately document kiye jaate hain aur approved reporting aur disclosure process follow hota hai. Patient assessment paperwork se pehle aati hai.
 
 **Option-by-option reasoning**
 
-- **A:** Package discard evidence loss create karta hai.
-- **B:** Assessment, clinical review and required reporting correct response hai.
-- **C:** Symptoms ka wait delayed toxicity miss kar sakta hai.
-- **D:** Record alter karke event conceal karna unsafe and inaccurate hai.
+- **A:** Package discard karne se drug aur dose identify karne ke liye useful evidence lose ho sakta hai. Patient ko assess karna pehle zaruri hai.
+- **B:** Prompt assessment, clinical review aur required reporting patient ki immediate safety aur future prevention dono address karte hain.
+- **C:** Symptoms ka wait karne se delayed toxicity detect karne aur timely management ka opportunity miss ho sakta hai.
+- **D:** Record badal kar event chhupana inaccurate documentation hai aur patient safety aur further review ko compromise karta hai.
 
-**Exam clue:** Error reached patient: assess, notify, monitor, report.
+**Exam clue:** Error patient tak pahunch gaya ho toh assess, notify, monitor aur report karo. Symptoms ka wait mat karo.
 
 [Concept reference](https://psnet.ahrq.gov/primer/medication-administration-errors)
 <!-- /job5-rationale -->
