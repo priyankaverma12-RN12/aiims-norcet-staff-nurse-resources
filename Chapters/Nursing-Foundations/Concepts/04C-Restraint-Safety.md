@@ -14,9 +14,9 @@
 **YouTube MCQ practice: verification pending.** [Archer Review NCLEX restraint question](https://www.youtube.com/watch?v=LoRg1MH2xLg) is a supplementary topic lead, exact scenario and playback pending.
 <!-- /job4-metadata -->
 
-Restraint patient ki voluntary movement ya access restrict karta hai. Device ka name alone classification decide nahi karta. Actual restriction, patient ki ability to remove it, purpose and policy matter karte hain. Medication jo sirf staff convenience ke liye movement restrict karti hai inappropriate chemical restraint ho sakti hai. Indicated medication to treat a diagnosed condition automatically restraint nahi hai.
+Restraint ka matlab hai kisi patient ki apni marzi se movement karne ya apne sharir ke kisi hisse tak pahunchne ki ability ko restrict karna. Sirf device ka naam dekhkar nurse decide nahi kar sakti ki woh restraint hai ya nahi. Yeh dekhna zaruri hai ki device asal mein kitni restriction karta hai, patient use khud hata sakta hai ya nahi, uska purpose kya hai aur applicable policy kya kehti hai. Agar medicine sirf staff ki convenience ke liye patient ki movement rokne ke purpose se di jaati hai, toh woh inappropriate chemical restraint ho sakti hai. Lekin diagnosed condition ke treatment ke liye clinically indicated medicine dena apne aap restraint nahi ban jaata.
 
-Patient ki agitation ka cause assess karo, e.g. hypoxia, pain, delirium, urinary urgency, unfamiliar surroundings or communication difficulty. Correctable causes ko address karo. Calm communication, familiar support, observation, accessible call system, safe mobility, review of unnecessary devices and appropriate clinical treatment can reduce the need for restraint. Family request, punishment, routine fall prevention or staffing shortage restraint justify nahi karte. Clinical necessity aur required authorization establish karo. Earliest safe discontinuation aim hai.
+Agar patient restless ya agitated hai, toh nurse pehle samajhne ki koshish karti hai ki aisa kyun ho raha hai. Hypoxia yaani oxygen ki kami, pain, delirium yaani achanak confusion, urine pass karne ki zarurat, anjaan environment aur communication difficulty iske possible causes hain. Jo cause correct kiya ja sakta hai, use appropriate clinical care se address kiya jaata hai. Shant tareeke se baat karna, familiar support, observation, accessible call system, safe mobility aur unnecessary devices ki zarurat review karna restraint ki need kam kar sakte hain. Family ki request, punishment, routine fall prevention ya staff ki kami apne aap restraint ko justify nahi karti. Clinical necessity aur required authorization establish karna zaruri hai. Goal yeh hai ki jab restraint ki zarurat safely khatam ho, toh use jitni jaldi possible ho discontinue kiya jaaye.
 
 ```mermaid
 flowchart TD
@@ -40,9 +40,9 @@ flowchart TD
 **YouTube MCQ practice: verification pending** — specific monitoring and documentation scenario not verified. [Related original bank](../MCQs/04C-Restraint-Safety-29-MCQs.md). Existing teaching resource below remains separate.
 <!-- /job4-metadata -->
 
-🔴 MOST IMPORTANT. Restraint mein bhi patient ka dignity, hydration, elimination, comfort, skin integrity aur safe positioning maintain karo. Monitoring frequency depends on clinical status, restraint type, applicable law and local policy. International exam resources may describe different intervals. New symptoms mein scheduled observation ka wait mat karo.
+🔴 MOST IMPORTANT. Restraint ke dauran bhi patient ki dignity, hydration, elimination, comfort, skin integrity aur safe positioning ka dhyan rakhna zaruri hai. Nurse monitoring ki frequency patient ki clinical condition, restraint ke type, applicable law aur local policy ke hisaab se follow karti hai. International exam resources mein alag monitoring intervals ho sakte hain. Agar patient ko koi naya symptom develop hota hai, toh scheduled observation ka wait nahi karna chahiye.
 
-Cool, swollen, numb limb may indicate impaired perfusion. Prompt safe relief, assessment and urgent review are important. Labored breathing or reduced responsiveness needs emergency assessment, help and immediate removal of restrictive hazards safely. Avoid delay for paperwork. Document objective behavior, alternatives, clinical justification, authorization, start and end times, monitoring findings, response, ongoing need and release. Handover mein current risks and release criteria communicate karo.
+Agar limb thanda, swollen ya numb ho jaata hai, toh yeh impaired perfusion ka sign ho sakta hai, yaani tissue tak blood supply theek se nahi pahunch rahi ho. Is situation mein trained authorized staff ko promptly safe relief, assessment aur urgent review arrange karna chahiye. Agar patient ki breathing difficult ho ya responsiveness kam ho jaaye, toh emergency assessment aur help ki zarurat hai. Restrictive hazard ko trained team safely aur immediately address karti hai. Paperwork ke liye urgent care delay nahi honi chahiye. Nurse objective behavior, pehle try kiye gaye alternatives, clinical justification, authorization, start aur end time, monitoring findings, patient response, ongoing need aur release ko document karti hai. Handover ke dauran current risks aur restraint discontinue karne ke criteria team ko bataye jaate hain.
 
 [Practice Q9–18](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
@@ -54,17 +54,17 @@ Cool, swollen, numb limb may indicate impaired perfusion. Prompt safe relief, as
 **YouTube MCQ practice: verification pending** — Indian Act-specific question solving not located. Retain statutory source and use the linked original practice bank. Overseas NCLEX order and monitoring rules are not Indian law.
 <!-- /job4-metadata -->
 
-🔴 MOST IMPORTANT. Mental Healthcare Act 2017 section 97 specifically governs restraint and seclusion of persons with mental illness in its applicable setting. Isko generic ward policy ke saath confuse mat karo.
+🔴 MOST IMPORTANT. Mental Healthcare Act 2017 ka section 97 apne applicable setting mein persons with mental illness ke restraint aur seclusion ko specifically govern karta hai. Iska matlab hai ki mental healthcare ke is legal context mein kuch specific restrictions aur safeguards follow karne hote hain. In provisions ko generic hospital ward ki policy ya overseas nursing exam ke rules ke saath confuse nahi karna chahiye.
 
 | Provision | Exam-relevant meaning |
 |---|---|
-| Section 95 | Chaining as treatment for mental illness prohibited |
-| Section 97(1) | Seclusion or solitary confinement prohibited. Physical restraint only when necessary as the sole available means to prevent imminent and immediate harm, with authorization by psychiatrist in charge |
-| Section 97(2)–(3) | Shortest absolutely necessary duration and immediate documentation of method, nature, justification and duration |
-| Section 97(4) | No punishment, deterrence or use merely due to staff shortage |
-| Section 97(5)–(7) | Inform nominated representative within 24 hours, maintain regular ongoing medical supervision, report all instances monthly to concerned Board |
+| Section 95 | Mental illness ke treatment ke roop mein kisi person ko chain karna prohibited hai. |
+| Section 97(1) | Seclusion ya solitary confinement prohibited hai. Physical restraint tabhi use ho sakta hai jab imminent aur immediate harm prevent karne ka yahi ek available means ho aur psychiatrist in charge ne authorize kiya ho. |
+| Section 97(2)–(3) | Restraint ki duration sirf utni honi chahiye jitni absolutely necessary hai. Method, nature, justification aur duration ko immediately document karna zaruri hai. |
+| Section 97(4) | Punishment, deterrence ya sirf staff shortage ke kaaran restraint use nahi karna chahiye. |
+| Section 97(5)–(7) | Nominated representative ko 24 hours ke andar inform karna hota hai. Regular ongoing medical supervision maintain ki jaati hai aur sabhi instances ki monthly reporting concerned Board ko ki jaati hai. |
 
-Example: A person is verbally upset but no imminent threat exists. Staff cannot use restraint as deterrence. Address causes, de-escalate and follow authorized clinical care. The 24-hour notification requirement is not a mandatory duration of restraint.
+Example: maan lo ek person verbally upset hai, lekin imminent harm ka threat nahi hai. Staff restraint ko deterrence, yaani dobara aisa behavior na karne ke liye dar dikhane, ke purpose se use nahi kar sakta. Staff causes address karta hai, de-escalation se situation shant karne ki koshish karta hai aur authorized clinical care follow karta hai. Nominated representative ko 24 hours ke andar notify karne ka rule restraint ko 24 hours tak continue karne ka rule nahi hai.
 
 [Practice Q19–25](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
@@ -76,7 +76,7 @@ Example: A person is verbally upset but no imminent threat exists. Staff cannot 
 **YouTube MCQ practice: verification pending** — restraint quality measures and debriefing questions not confirmed. [Related practice bank](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 <!-- /job4-metadata -->
 
-Episode count alone sufficient outcome nahi hai. Duration, repeated exposure, injury, documented alternatives and patient experience assess karo. After discontinuation, discuss triggers respectfully and revise individual prevention measures. Least restrictive care is a patient-safety and rights goal.
+Quality improvement mein sirf restraint episodes count karna sufficient nahi hai. Team yeh bhi assess karti hai ki restraint kitni der raha, patient ko baar-baar exposure hua ya nahi, koi injury hui ya nahi, alternatives document hue ya nahi aur patient ka experience kaisa tha. Restraint discontinue hone ke baad patient ke saath respectfully triggers discuss kiye jaate hain aur individual prevention plan revise hota hai. Least restrictive care patient safety ke saath patient ke rights protect karne ka bhi goal hai.
 
 [Practice Q26–29](../MCQs/04C-Restraint-Safety-29-MCQs.md).
 
