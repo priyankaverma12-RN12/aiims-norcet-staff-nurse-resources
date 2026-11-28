@@ -592,9 +592,37 @@ try:
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                if width<=600:
+                    filter_icon=mobile.locator("#progress-filter-toggle")
+                    expect(filter_icon).to_be_visible()
+                    expect(filter_icon).to_have_attribute("aria-expanded","false")
+                    expect(mobile.locator("#progress-filter-panel")).to_be_hidden()
+                    expect(mobile.locator("#progress-filter-panel>summary")).to_be_hidden()
+                    icon_box=filter_icon.bounding_box()
+                    heading_box=mobile.locator(".progress-heading").bounding_box()
+                    assert icon_box["width"]>=44 and icon_box["height"]>=44
+                    assert abs(icon_box["x"]+icon_box["width"]-heading_box["x"]-heading_box["width"])<=2
+                    filter_icon.tap()
+                    expect(mobile.locator("#progress-chapter")).to_be_visible()
+                    expect(mobile.locator("#progress-chapter")).to_have_value("Nursing-Foundations")
+                    filter_icon.tap()
+                    expect(mobile.locator("#progress-filter-panel")).to_be_hidden()
+                    expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible()
+                    filter_icon.tap()
+                    mobile.locator("#progress-search").focus()
+                    mobile.keyboard.press("Escape")
+                    expect(mobile.locator("#progress-filter-panel")).to_be_hidden()
+                    expect(filter_icon).to_be_focused()
+                    filter_icon.tap()
+                    expect(mobile.locator("#progress-chapter")).to_have_value("Nursing-Foundations")
+                    no_overflow(mobile)
+                    print(f"V12.1 compact progress filter icon passed at {width}x{height}.",flush=True)
+                else:
+                    expect(mobile.locator("#progress-filter-toggle")).to_be_hidden()
+                    expect(mobile.locator("#progress-chapter")).to_be_visible()
                 for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-chapter")):
                     panel=mobile.locator(panel_id)
-                    summary=panel.locator(":scope > summary")
+                    summary=mobile.locator("#progress-filter-toggle") if panel_id=="#progress-filter-panel" and width<=600 else panel.locator(":scope > summary")
                     assert summary.bounding_box()["height"]>=44
                     summary.tap()
                     expect(mobile.locator(inside)).to_be_hidden()
