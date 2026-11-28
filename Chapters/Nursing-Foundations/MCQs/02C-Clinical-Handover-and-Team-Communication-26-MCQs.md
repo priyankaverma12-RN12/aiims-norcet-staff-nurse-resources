@@ -20,17 +20,16 @@
 
 **Correct answer: C. Patient identification and the immediate reason for the call**
 
-<!-- job5-rationale -->
-SBAR mein S ka matlab Situation hai. Call receive karne wale clinician ko sabse pehle pata chalna chahiye ki kaunse patient ke baare mein baat ho rahi hai aur abhi call kyun ki ja rahi hai. Example ke liye nurse approved patient identifiers ke saath bataye ki patient ki breathing achanak deteriorate hui hai. Isse receiver urgency samajhkar appropriate response organize kar sakta hai. Acute emergency mein communication ke saath immediate safety actions bhi shuru hone chahiye.
+SBAR mein S ka matlab Situation hai. Maan lo patient ki breathing achanak kharab ho gayi hai aur nurse doctor ko phone kar rahi hai. Receiver ko sabse pehle pata hona chahiye ki baat kis patient ke baare mein ho rahi hai aur nurse abhi phone kyun kar rahi hai. Isliye nurse approved identifiers se patient ki identity batati hai aur immediate concern ko short aur clear sentence mein explain karti hai. Isse doctor urgency samajhkar appropriate response arrange kar sakta hai. Agar patient unstable hai, toh nurse emergency safety actions aur escalation ko phone call complete hone tak delay nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A possible diagnoses ka exhaustive list Situation ka purpose nahi hai. Relevant interpretation Assessment mein aati hai.
-- **B:** B discharge plan current abrupt deterioration nahi batata.
-- **C:** C patient identification aur immediate concern dono clear karta hai.
-- **D:** D remote history ka relevant part Background mein aata hai, poori history nahi.
+- **A:** Har possible diagnosis ki lambi list dene se immediate problem clear nahi hoti. Relevant findings aur clinical interpretation SBAR ke Assessment part mein aati hain.
+- **B:** Discharge plan future care ke baare mein batata hai. Yahan patient ki condition achanak badli hai, isliye current urgent concern pehle communicate karna zaroori hai.
+- **C:** Patient identification aur call ka immediate reason batane se receiver ko samajh aata hai ki kis patient ko abhi help chahiye. Isliye C sahi hai.
+- **D:** Purani medical history mein se sirf current problem se related information Background mein deni chahiye. Har remote detail Situation ka part nahi hai.
 
-**Exam clue:** S = who and what is happening now.
+**Exam clue:** Situation mein pehle batao ki patient kaun hai aur abhi uske saath kya concerning change hua hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -60,17 +59,16 @@ SBAR mein S ka matlab Situation hai. Call receive karne wale clinician ko sabse 
 
 **Correct answer: B. Relevant diagnosis, recent procedure and treatment history that explain the current concern**
 
-<!-- job5-rationale -->
-Background ka matlab woh relevant clinical context hai jo present concern samajhne mein help karta hai. Nurse recent operation, main diagnosis, important medications, allergies aur recent treatment ya baseline findings mein se case-relevant information select kare. Example ke liye postoperative breathlessness mein recent surgery aur mobility restriction useful context ho sakte hain. Irrelevant detail urgent message ko unnecessarily long bana sakti hai.
+SBAR mein B ka matlab Background hai. Is part mein nurse current concern ko samajhne ke liye zaroori purani ya recent clinical information batati hai. Maan lo operation ke baad patient ko nayi breathlessness hai. Recent surgery, relevant diagnosis, treatment, medicines aur baseline condition jaise facts receiver ko current problem ka context samajhne mein help kar sakte hain. Nurse allergies aur doosri important history bhi situation ke hisaab se include karti hai. Har purani detail dene ki zaroorat nahi hai, kyunki urgent message mein clinically relevant information ko pehchanna aasaan rehna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A receiver ka confirmation closed-loop verification hai, Background nahi.
-- **B:** B current concern ko explain karne wali relevant history deta hai.
-- **C:** C requested bedside review Recommendation hai.
-- **D:** D current findings ki interpretation Assessment hai.
+- **A:** Receiver jab message repeat ya confirm karta hai, toh woh communication verification hai. Ye current concern ki clinical history nahi hai.
+- **B:** Relevant diagnosis, recent procedure aur treatment history se present concern ka clinical context clear hota hai. Isliye B sahi hai.
+- **C:** Immediate bedside review ki request Recommendation mein aati hai, kyunki nurse next action maang rahi hai.
+- **D:** Current deterioration ka clinical interpretation Assessment mein aata hai. Background us interpretation ko samajhne ke liye relevant context deta hai.
 
-**Exam clue:** B = relevant context before the current event.
+**Exam clue:** Background mein woh past aur recent information batao jo patient ki abhi ki condition samajhne mein useful hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -100,17 +98,16 @@ Background ka matlab woh relevant clinical context hai jo present concern samajh
 
 **Correct answer: A. Assessment**
 
-<!-- job5-rationale -->
-Assessment mein nurse current findings ko organize karke clinical concern batati hai. Example ke liye respiratory rate, oxygen saturation aur level of consciousness mein change ko report karke nurse respiratory deterioration ka concern express kar sakti hai. Yeh definitive medical diagnosis claim karna nahi hai. Uncertainty ho toh clearly communicate karo aur clinical urgency ke according escalation karo.
+SBAR ka Assessment part nurse ki current clinical findings aur unke possible meaning ko communicate karta hai. Maan lo patient ki respiratory rate badh rahi hai, oxygen saturation gir rahi hai aur consciousness mein change aa raha hai. Nurse actual observations batati hai aur kehti hai ki use respiratory deterioration ki concern hai. Ye available findings ke basis par clinical interpretation hai, na ki bina evidence definitive medical diagnosis declare karna. Agar cause abhi uncertain hai, toh nurse uncertainty bhi honestly batati hai aur urgency ke hisaab se escalation karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A present data aur clinical interpretation ka correct component hai.
-- **B:** B Background earlier context deta hai, present interpretation nahi.
-- **C:** C Recommendation mein desired next action ya request batayi jaati hai.
-- **D:** D Situation immediate problem introduce karti hai, detailed interpretation Assessment mein hoti hai.
+- **A:** Current findings aur unse nikalne wali reasoned clinical concern Assessment mein aati hai. Isliye A sahi hai.
+- **B:** Background mein earlier diagnosis, treatment aur relevant history batayi jaati hai. Ye current findings ka clinical interpretation nahi hai.
+- **C:** Recommendation mein nurse batati hai ki receiving clinician se kaunsa action ya review chahiye. Yahan question findings aur concern ke baare mein hai.
+- **D:** Situation current problem ko introduce karti hai, lekin detailed observations aur unka clinical meaning Assessment mein aata hai.
 
-**Exam clue:** A = current findings plus what they may mean.
+**Exam clue:** Assessment mein current findings ke saath samjhao ki un findings se tumhe kis clinical problem ki concern ho rahi hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -140,17 +137,16 @@ Assessment mein nurse current findings ko organize karke clinical concern batati
 
 **Correct answer: D. Please review this patient now because the new change is concerning.**
 
-<!-- job5-rationale -->
-Urgent communication mein receiver ko exact request aur urgency samajh aani chahiye. Vague hint se receiver assume kar sakta hai ki issue routine hai. Nurse concise clinical evidence dekar immediate review request kare. Agar patient unstable hai toh local emergency response pathway activate karo. Sirf request bhejkar wait karna sufficient nahi, response aur further escalation ensure karo.
+Urgent team communication mein sirf itna kehna kaafi nahi hai ki patient mein kuch change hua hai. Receiver ko clear pata hona chahiye ki nurse kya action chahti hai aur kitni jaldi chahti hai. Maan lo patient ki condition concerning hai. Nurse relevant observations batakar immediate bedside review request karti hai. Agar patient unstable hai, toh facility ki emergency escalation pathway activate karna zaroori ho sakta hai. Nurse response confirm karti hai aur agar timely response nahi milta ya patient aur deteriorate karta hai, toh further escalation karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A action aur timing dono unclear hain.
-- **B:** B receiver ko poora chart dhoondhne ke liye kehna focused urgent communication nahi hai.
-- **C:** C response absent hone ko safety confirmation samajhna dangerous hai.
-- **D:** D immediate review ka clear request aur concern deta hai.
+- **A:** Is statement se na specific action pata chalta hai aur na urgency. Receiver issue ko routine samajhkar delay kar sakta hai.
+- **B:** Receiver ko sirf chart dekhne ke liye kehne se urgent concern aur requested action clearly communicate nahi hote. Relevant findings direct batani chahiye.
+- **C:** Response na milna ye prove nahi karta ki patient safe hai ya action ki zaroorat nahi hai. Nurse ko receipt aur response confirm karna chahiye.
+- **D:** Patient ko abhi review karne ki direct request aur uski concern batane se action aur urgency clear hoti hai. Isliye D sahi hai.
 
-**Exam clue:** Recommendation should specify action and urgency.
+**Exam clue:** Urgent recommendation mein batao ki kya action chahiye, kyun chahiye aur kab tak chahiye.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -180,17 +176,16 @@ Urgent communication mein receiver ko exact request aur urgency samajh aani chah
 
 **Correct answer: B. Check-back or closed-loop verification**
 
-<!-- job5-rationale -->
-Check-back mein sender message deta hai, receiver relevant content repeat karta hai aur sender us repetition ki accuracy confirm karta hai. Example mein numerical result repeat aur verify hua. Isse wrong digit, unit ya instruction mishear hone ka risk kam hota hai. Agar mismatch ho toh correct information dekar loop repeat karna chahiye.
+Check-back ya closed-loop verification mein message bhejne wala person aur message receive karne wala person dono actively confirm karte hain ki information sahi samjhi gayi hai. Maan lo ek clinician numerical result communicate karta hai. Nurse us result ko dobara bolkar confirm karti hai aur clinician batata hai ki repeated value correct hai ya nahi. Isse digit, unit ya instruction galat sunne ki possibility identify ho sakti hai. Agar repeat ki gayi information match nahi karti, toh correct value batakar dobara confirmation lena chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A silent acknowledgment actual content verify nahi karta.
-- **B:** B repeated content aur sender confirmation closed loop banate hain.
-- **C:** C one-way broadcast mein receiver feedback nahi hota.
-- **D:** D teach-back patient ya caregiver ki understanding check karta hai, yahan professional team exchange hai.
+- **A:** Sirf chup rehkar ya sir hila kar acknowledgment dene se ye confirm nahi hota ki exact numerical result sahi samjha gaya hai.
+- **B:** Message repeat hone aur original sender se accuracy confirm hone par communication loop verify hota hai. Isliye B sahi hai.
+- **C:** One-way broadcast mein information bheji jaati hai, lekin receiver ka feedback aur verification zaroori nahi hota. Yahan dono taraf confirmation ho rahi hai.
+- **D:** Teach-back patient ya caregiver ki teaching samajhne ki ability check karta hai. Yahan healthcare team ke beech message verify kiya ja raha hai.
 
-**Exam clue:** Check-back = send, repeat, confirm.
+**Exam clue:** Check-back mein sender message deta hai, receiver repeat karta hai aur sender accuracy confirm karta hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -220,17 +215,16 @@ Check-back mein sender message deta hai, receiver relevant content repeat karta 
 
 **Correct answer: A. Correct the misunderstanding and request renewed confirmation**
 
-<!-- job5-rationale -->
-Incorrect repeat-back ek useful warning hai ki message sahi tarah transfer nahi hua. Sender ko correct instruction clearly repeat karni chahiye aur receiver se fresh repeat-back lena chahiye. Dose, units, patient identity ya time-sensitive action mein uncertainty especially important hai. Confirmed shared understanding ke bina task ko verified mat samjho.
+Check-back ka purpose galat communication ko action lene se pehle identify karna hai. Maan lo nurse instruction repeat karti hai, lekin repeated information original instruction se match nahi karti. Sender ko turant misunderstanding correct karni chahiye aur nurse se correct instruction dobara repeat karwani chahiye. Dose, unit, patient identity aur time-sensitive tasks mein aisi verification especially important ho sakti hai. Jab tak relevant content sahi confirm nahi hua hai, tab tak instruction ko verified assume nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A misunderstanding correct karke renewed confirmation leta hai.
-- **B:** B sirf repeat hona accuracy ka proof nahi hai.
-- **C:** C wrong message ko verified document karna unsafe aur inaccurate hai.
-- **D:** D silent change receiver ke mental model ko update nahi karta.
+- **A:** Galat repetition ko correct karke fresh confirmation lene se sender check kar sakta hai ki receiver ne ab instruction sahi samjhi hai. Isliye A sahi hai.
+- **B:** Kisi instruction ko repeat kar dena hi accuracy ka proof nahi hai. Agar repeat galat hai, toh misunderstanding abhi unresolved hai.
+- **C:** Galat message ko verified likhne se unsafe action aur inaccurate documentation ka risk ho sakta hai. Pehle correction aur confirmation chahiye.
+- **D:** Sender silently instruction change karega toh receiver ko correct updated information pata nahi chalegi. Change ko clearly communicate aur verify karna chahiye.
 
-**Exam clue:** Wrong repeat-back means reopen the loop.
+**Exam clue:** Agar repeat-back galat hai, toh communication loop dobara complete karo aur correct understanding confirm karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -260,17 +254,16 @@ Incorrect repeat-back ek useful warning hai ki message sahi tarah transfer nahi 
 
 **Correct answer: D. Call-out**
 
-<!-- job5-rationale -->
-Call-out ka purpose important finding ko simultaneously responding team tak pahunchana hai. Emergency mein nurse critical observation aloud communicate kar sakti hai taaki team next action anticipate kare. Task assign karte waqt specific responsible member identify karna useful hai. Critical task ke liye acknowledgment aur completion communication bhi zaroori ho sakti hai. Patient privacy aur local protocol ko situation ke according maintain karo.
+TeamSTEPPS mein call-out ek technique hai jisse important information ek hi samay responding team ke members tak pahunchayi jaati hai. Maan lo emergency ke dauran nurse ko ek critical observation milti hai. Woh team ko clearly aloud batati hai, taaki sab log patient ki changing condition samajh sakein aur relevant next action ke liye ready ho sakein. Agar kisi specific task ki zaroorat hai, toh responsible member ko role ya naam se identify karna helpful hai. Task acknowledgment aur completion ki communication bhi zaroori ho sakti hai. Situation ke hisaab se patient privacy aur local protocol maintain karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A discharge summary emergency team ko real-time alert nahi deti.
-- **B:** B counselling usually individual therapeutic conversation hai.
-- **C:** C charting by exception ek documentation method hai.
-- **D:** D urgent shared information ko team tak pahunchane wala call-out hai.
+- **A:** Discharge summary later care ke liye useful record hai, lekin rapidly changing emergency mein poori responding team ko immediate alert dene ka tool nahi hai.
+- **B:** One-to-one counselling mein nurse generally individual patient ki concern explore karti hai. Yahan urgent finding team ke sab members ko communicate ki ja rahi hai.
+- **C:** Charting by exception clinical documentation ka format hai. Iska purpose team ko real time mein aloud alert dena nahi hai.
+- **D:** Critical observation ko responding team tak ek saath clearly pahunchana call-out ka example hai. Isliye D sahi hai.
 
-**Exam clue:** Call-out informs many team members at once.
+**Exam clue:** Call-out mein urgent important information team ke multiple members ko ek saath batayi jaati hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -300,17 +293,16 @@ Call-out ka purpose important finding ko simultaneously responding team tak pahu
 
 **Correct answer: C. To establish that responsibility was understood and reduce missed or duplicated tasks**
 
-<!-- job5-rationale -->
-Emergency mein generic request jaise koi yeh kaam kar do se confusion ho sakta hai ki kaun karega. Specific role ya name ke saath assignment aur recipient ka acknowledgment responsibility clear karte hain. Recipient action complete karke result ya difficulty report kare. Leader overall coordination maintain karta hai. Task delegation competence aur authorized scope ke according honi chahiye.
+Emergency mein agar leader sirf kahe ki koi ye task kar do, toh har member assume kar sakta hai ki koi aur karega. Kabhi do log same task bhi kar sakte hain. Isliye leader specific role ya naam se task assign karta hai aur receiving member acknowledge karta hai ki usne responsibility samajh li hai. Member task apni authorized competence ke andar perform karta hai aur completion, result ya difficulty team ko report karta hai. Leader overall coordination maintain karta hai. Is clear communication se missed aur duplicate tasks ka risk kam hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** A acknowledgment later result reporting ko eliminate nahi karta.
-- **B:** B communication required documentation ka replacement nahi hai.
-- **C:** C explicit ownership missed aur duplicated task ka risk reduce karti hai.
-- **D:** D particular task assignment permanent transfer of all accountability nahi hai.
+- **A:** Assignment acknowledge karne se sirf ye clear hota hai ki task receive hua hai. Actual completion aur outcome baad mein report karna phir bhi zaroori ho sakta hai.
+- **B:** Team ke beech verbal confirmation useful hai, lekin facility ke required clinical documentation ka replacement nahi hai.
+- **C:** Specific assignment aur acknowledgment se responsible person clear ho jaata hai. Isse task miss ya duplicate hone ki possibility kam hoti hai, isliye C sahi hai.
+- **D:** Ek task ki responsibility assign karne se poore patient ki permanent accountability automatically transfer nahi hoti. Roles aur responsibilities policy ke according rehti hain.
 
-**Exam clue:** Assign, acknowledge, perform, report.
+**Exam clue:** Task clearly assign karo, receiver se acknowledgment lo aur actual completion ya problem ka report bhi confirm karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -340,17 +332,16 @@ Emergency mein generic request jaise koi yeh kaam kar do se confusion ho sakta h
 
 **Correct answer: A. Illness severity**
 
-<!-- job5-rationale -->
-I-PASS structured handoff ka I illness severity hai. Ismein patient stable hai, closer watch ki zaroorat hai ya unstable hai, woh concise form mein communicate kiya jaata hai. Receiver ko monitoring aur urgency prioritize karne mein help milti hai. Category ko actual assessment se support karo aur deterioration ko label ke peeche hide mat karo.
+I-PASS ek structured clinical handover method hai. Ismein I ka matlab Illness severity hai, jisme nurse patient ki current stability aur urgency batati hai. Maan lo patient stable hai, lekin closer observation chahiye, ya patient unstable hai aur urgent review zaroori hai. Ye information receiving team ko decide karne mein help karti hai ki monitoring aur care ko kitni jaldi prioritize karna hai. Stability category actual patient assessment se supported honi chahiye. Agar patient deteriorate kar raha hai, toh sirf stable label use karke concerning findings chhupaani nahi chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A clinical stability category describe karta hai.
-- **B:** B Action list remaining tasks aur responsibility batati hai.
-- **C:** C synthesis mein receiver apni understanding verify karta hai.
-- **D:** D summary clinical course aur care context deta hai.
+- **A:** Illness severity current clinical stability aur urgency communicate karti hai. Isliye A sahi hai.
+- **B:** Action list mein pending tasks, timing aur responsible person bataye jaate hain. Ye patient ki stability category nahi hai.
+- **C:** Synthesis by receiver mein receiving clinician apni understanding summarize aur confirm karta hai.
+- **D:** Patient summary relevant diagnosis, recent clinical course aur care context explain karti hai. Illness severity specifically current stability batati hai.
 
-**Exam clue:** I = Illness severity.
+**Exam clue:** I-PASS ka I Illness severity hai. Ismein patient kitna stable hai aur kitni urgent attention chahiye, ye batao.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -380,17 +371,16 @@ I-PASS structured handoff ka I illness severity hai. Ismein patient stable hai, 
 
 **Correct answer: D. Outstanding tasks with clear timing and assigned responsibility**
 
-<!-- job5-rationale -->
-Action list mein woh tasks aate hain jo receiving clinician ko complete ya follow up karne hain. Pending lab, repeat vital signs ya scheduled treatment ke liye task, due time aur responsible role clear karo. Example ke liye pending result ko kaun check karega aur abnormal result par kya action hoga, ye clarify karo. Handover ke baad task miss hone ka risk isse kam hota hai.
+I-PASS ki Action list mein handover ke baad complete hone wale pending tasks clear kiye jaate hain. Maan lo ek lab result abhi pending hai, kuch der baad vital signs repeat karne hain ya scheduled treatment dena hai. Nurse batati hai ki kaunsa kaam baaki hai, kab tak karna hai aur responsible person kaun hoga. Agar result abnormal aata hai, toh relevant contingency aur escalation plan bhi clarify kiya ja sakta hai. Isse shift ya team change hone ke baad task miss hone ki possibility kam hoti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated childhood history outstanding task nahi hai.
-- **B:** B stable label illness severity hai, task list nahi.
-- **C:** C receiver repetition synthesis hai.
-- **D:** D outstanding tasks, timing aur ownership clear karta hai.
+- **A:** Childhood history tab useful ho sakti hai jab current care se relevant ho. Lekin poori childhood history pending action list ka purpose nahi hai.
+- **B:** Patient stable hai kehna Illness severity ka part ho sakta hai. Isse receiving team ko kaunsa kaam karna hai, ye pata nahi chalta.
+- **C:** Receiving clinician jab agreed information dobara summarize karta hai, toh woh synthesis by receiver ka example hai.
+- **D:** Outstanding task, due time aur assigned responsibility clearly batane se Action list complete aur actionable banti hai. Isliye D sahi hai.
 
-**Exam clue:** Action list = what, when, who.
+**Exam clue:** Action list mein clear karo ki kaunsa kaam baaki hai, kab karna hai aur kaun karega.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -420,17 +410,16 @@ Action list mein woh tasks aate hain jo receiving clinician ko complete ya follo
 
 **Correct answer: C. If the specified warning sign develops, reassess promptly and activate the agreed escalation pathway.**
 
-<!-- job5-rationale -->
-Situation awareness ka matlab patient ki current condition aur possible changes ko anticipate karna hai. Contingency plan mein specific warning sign aur uske develop hone par expected response clarify karte hain. Example ke liye patient-specific worsening symptoms par reassessment aur approved escalation pathway activate karne ka plan. Generic instruction se urgent response delay ho sakta hai.
+Situation awareness ka matlab patient ki current condition ko samajhna aur possible clinical change ke liye ready rehna hai. Contingency plan mein team pehle se clear karti hai ki agar koi specified warning sign develop ho, toh kya action lena hai. Maan lo patient filhaal stable hai lekin uski condition mein worsening ke kuch specific signs watch karne hain. Handover mein nurse un signs aur agreed reassessment ya escalation pathway ko explain karti hai. Isse receiving nurse ko problem develop hone par next action decide karne mein unnecessary delay nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** A notes read karne ko kehta hai lekin trigger aur next action specify nahi karta.
-- **B:** B outgoing nurse ka wait receiving team's responsibility delay karta hai.
-- **C:** C clear warning sign aur appropriate escalation plan deta hai.
-- **D:** D stable patient bhi deteriorate ho sakta hai.
+- **A:** Sirf notes padhne ke liye kehne se specific warning sign aur required response clear nahi hote. Contingency plan actionable hona chahiye.
+- **B:** Outgoing nurse ka wait karne se receiving team ki current clinical responsibility aur urgent response delay ho sakte hain.
+- **C:** Specific warning sign develop hone par prompt reassessment aur agreed escalation batana clear contingency planning hai. Isliye C sahi hai.
+- **D:** Patient abhi stable hai, lekin future mein condition badal sakti hai. Stability ko permanent guarantee nahi samajhna chahiye.
 
-**Exam clue:** Contingency = if this happens, do that.
+**Exam clue:** Contingency plan mein samjhao ki kaunsa change dekhna hai aur agar woh change ho toh kya karna hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -460,17 +449,16 @@ Situation awareness ka matlab patient ki current condition aur possible changes 
 
 **Correct answer: B. It allows the receiving clinician to confirm understanding and clarify responsibilities**
 
-<!-- job5-rationale -->
-Synthesis by receiver handoff ka active verification step hai. Receiving nurse main concern, priority tasks aur responsibility apne words mein summarize karti hai. Sender misunderstanding correct kar sakta hai aur receiver missing details pooch sakti hai. Yeh sirf yes bolne se stronger shared understanding create karta hai. Written documentation aur approved handover record phir bhi maintain hote hain.
+I-PASS mein synthesis by receiver ka matlab hai ki receiving clinician handover ki important information apne words mein summarize karke confirm karta hai. Maan lo outgoing nurse ne patient ki main concern, pending test aur urgent monitoring task bataya. Receiving nurse dobara explain karti hai ki usne in responsibilities ko kaise samjha. Sender agar koi misunderstanding notice karta hai, toh use correct kar sakta hai. Receiver missing details bhi pooch sakta hai. Sirf haan bolne ke comparison mein ye shared understanding verify karne ka stronger method hai. Required written documentation phir bhi maintain karni hoti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A clarification synthesis ka important benefit hai, unnecessary nahi.
-- **B:** B understanding aur task ownership verify karta hai.
-- **C:** C original plan ignore karne ka authorization nahi milta.
-- **D:** D written record aur safety documentation ki need remain karti hai.
+- **A:** Sender clarification unnecessary nahi hoti. Receiver ki summary se misunderstanding milne par sender use correct kar sakta hai.
+- **B:** Receiving clinician apni understanding confirm karta hai aur pending tasks ki responsibility clear karta hai. Isliye B sahi hai.
+- **C:** Synthesis se original care plan ignore karne ki permission nahi milti. Agar koi concern ya discrepancy hai, toh use appropriate clinical process se clarify karna chahiye.
+- **D:** Verbal synthesis shared understanding check karti hai, lekin required written clinical record ka substitute nahi hai.
 
-**Exam clue:** Last S = synthesis by receiver.
+**Exam clue:** I-PASS ka last S synthesis by receiver hai. Receiver main points summarize karke understanding aur responsibility confirm karta hai.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -500,17 +488,16 @@ Synthesis by receiver handoff ka active verification step hai. Receiving nurse m
 
 **Correct answer: D. Medication or fluid, prescribed rate, relevant pump settings, access status and monitoring needs**
 
-<!-- job5-rationale -->
-Infusion handover mein current medication ya fluid identity, concentration as applicable, prescribed rate, pump settings, line and access status aur monitoring needs verify karo. High-alert infusion mein local independent double-check policy follow karo. Orders aur actual pump setting mismatch ho toh approved safe process se resolve aur escalate karo. Label color par depend karne se wrong medication ya rate error ho sakta hai.
+Ongoing IV infusion ke handover mein nurse ko ye verify karna chahiye ki patient ko actual mein kaunsi medicine ya fluid mil raha hai aur prescribed order kya kehta hai. Medicine identity, applicable concentration, prescribed rate, current pump settings, line aur vascular access ki condition aur required monitoring relevant hain. Maan lo pump ki rate order se match nahi karti. Nurse approved safe process ke according discrepancy resolve aur escalate karti hai. High-alert medicine ke liye facility ki independent double-check policy applicable ho sakti hai. Sirf label ke colour par depend karne se wrong medicine ya wrong rate ka risk reh sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A color standard verification ke liye sufficient nahi hai.
-- **B:** B purchase date current prescribed setting nahi batati.
-- **C:** C ward equipment count patient therapy verify nahi karta.
-- **D:** D therapy identity, rate, access aur monitoring cover karta hai.
+- **A:** Label colour useful visual cue ho sakta hai, lekin usse medicine identity, prescribed rate aur patient ki therapy reliably verify nahi hoti.
+- **B:** Pump ki purchase date current infusion settings aur prescribed rate nahi batati. Transition par actual ongoing therapy verify karna chahiye.
+- **C:** Ward mein IV poles kitne hain, isse individual patient ki infusion identity, access ya monitoring needs clear nahi hoti.
+- **D:** Medicine ya fluid, rate, pump settings, access aur monitoring verify karne se ongoing infusion ke important safety details receiving nurse ko milte hain. Isliye D sahi hai.
 
-**Exam clue:** Verify order against actual infusion and patient.
+**Exam clue:** Handover ke waqt authorized order ko patient ki actual infusion, pump settings aur access ke saath verify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
