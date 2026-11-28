@@ -13,11 +13,11 @@
 
 ## Manual chapter work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: tropical-pr66-b03-20261128-1226Z
+Scope: PR66 Batch03 only: clinical giardiasis, cryptosporidiosis, enterobiasis, ascariasis and intestinal hookworm. No shared navigation or sibling edits.
+Claimed UTC: 2026-11-28T12:26:04Z
+Expiry UTC: 2026-11-28T12:56:04Z
 
 ## Candidate checkpoint — 28 November 2026
 
