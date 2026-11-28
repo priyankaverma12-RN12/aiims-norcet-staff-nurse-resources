@@ -31,7 +31,7 @@ Patient subah ek nurse ki help se chair tak gaya tha, lekin ab sedating medicine
 
 | Transfer aid | Kab consider karte hain? |
 |---|---|
-| Gait belt | Jab patient ki assessed ability aur clinical condition assisted movement allow kare, toh ye guidance aur support de sakti hai. Ye full-body lifting sling nahi hai. |
+| Gait belt | Jab patient ki assessed ability aur clinical condition assisted movement allow kare, toh ye guidance aur support de sakti hai. Ye full-body lifting sling nahi hai. Recent abdominal surgery ya abdominal wound mein routine belt pressure harmful ho sakta hai. [OpenStax transfer guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) aur [OSHA transfer-belt guidance](https://www.osha.gov/ergonomics/guidelines/nursing-home/final-nh-guidlines) ke according belt suitability reassess karo aur appropriate alternative arrange karo. |
 | Sit-to-stand device | Jab selected patient device ki required weight-bearing, sitting, cooperation aur other criteria meet karta ho, tab team ise consider kar sakti hai. Har model ki requirements same nahi hoti. |
 | Full-body sling lift | Jab patient ko body support ke liye mechanical assistance chahiye aur assessed condition device ke liye suitable ho, tab compatible sling aur lift use kiye ja sakte hain. |
 | Seated transfer board | Jab patient ki assessed sitting control aur technique ke liye required ability suitable ho, tab board stable bridge provide kar sakta hai. Receiving surface aur armrest bhi suitable honi chahiye. |
@@ -58,6 +58,10 @@ Lateral transfer mein surface height, gap, transfer aid aur staff access pehle c
 Team transfer ke liye ek leader decide karo. Leader sab staff ki readiness confirm karke common signal deta hai. Jab patient ke saath IV line ya urinary drainage system hai, toh nurse line ko insertion site se device tak check karti hai. Tubing trapped ya pulled nahi honi chahiye. Routine disconnection har transfer mein required nahi hoti. Clinical indication aur facility protocol decide karte hain.
 
 Patient ko simple words mein batana bhi safety ka part hai. Agar patient confuse ho jaata hai toh ek baar mein ek instruction do aur response confirm karo. Agar nonurgent transfer se pehle patient fear ki wajah se stop bolta hai toh uski concern suno. Trained staff ya necessary equipment unavailable ho toh unsafe manual alternative use mat karo.
+
+Air-assisted glide sheet kuch lateral transfers mein surface friction aur staff ki pulling effort kam karne mein help karti hai. Agar chosen model ko transfer se pehle full inflation chahiye, toh partly inflated sheet par movement start mat karo. Compatible pump aur connections check karo. Agar required inflation achieve nahi hoti toh alternative approved method arrange karo. Ye advice [manufacturer ki safety information](https://www.stryker.com/us/en/sage/disclosure-and-safety-information.html) ke context mein hai. Har model ki instructions alag ho sakti hain.
+
+Ceiling-track hoist mein overhead motor aur lifting tape ka alignment important hai. Patient ko raise karne se pehle motor ko appropriate lifting point ke directly upar rakhna aur tape vertical check karna chahiye. Agar tape angled hai toh patient supported rakhkar device instructions ke according alignment correct karo. Tape ko sideways pull karke motor reposition mat karo. [HSE hoisting guidance, Annex 1, printed page 4](https://www.hse.gov.uk/pubns/hsis3.pdf) is check ko explain karti hai.
 
 ## Transfer ke dauran aur baad
 
