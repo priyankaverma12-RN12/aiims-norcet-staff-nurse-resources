@@ -205,6 +205,16 @@ with sync_playwright() as p:
             expect(page.locator(".theory-metric-completed")).to_contain_text("1 completed")
             first_theory.locator("input[type=checkbox]").uncheck()
             expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
+        if theory:
+            go({"doc":theory[0]})
+            ready()
+            expect(page.locator("#sections a[data-study-section=Concepts] [data-role=theory-count]")).to_be_visible()
+            expect(page.locator("#resource-subtitle [data-role=theory-count]")).to_have_text("1 theory topic · 0 done")
+            page.locator("#reader-completion input[type=checkbox]").check()
+            expect(page.locator("#resource-subtitle [data-role=theory-count]")).to_have_text("1 theory topic · 1 done")
+            page.locator("#reader-completion input[type=checkbox]").uncheck()
+            go({"metrics":"1","chapter":chapter["id"]})
+            expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
         page.locator("#metrics-category").select_option("")
         print(f"Theory inventory, exact topic destinations and live completion count passed at {width}x{height}.",flush=True)
 
