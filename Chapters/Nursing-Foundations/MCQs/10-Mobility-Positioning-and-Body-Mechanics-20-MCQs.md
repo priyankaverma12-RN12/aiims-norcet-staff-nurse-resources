@@ -188,7 +188,7 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, publisher description):** [ADAPT NCLEX REVIEW — Basic Care & Comfort NCLEX Questions](https://www.youtube.com/watch?v=QdgEI9XrcuY&t=464s), 5 July 2026. Publisher ne 07:44 par mechanical lift aur safe transfer ki question practice list ki hai. Yeh transfer safety se related practice hai, lekin is exact patient scenario aur video playback ko abhi verify nahi kiya gaya hai.
 
 [Legacy mock practice: Mock 02, Q54](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q54-a-patient-requires-maximal-assistance-and-cannot-bear-weight-which-transfer-method-is-safest) — same topic-bank question, not a new original.
 
@@ -347,7 +347,7 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, publisher description):** [ADAPT NCLEX REVIEW — Basic Care & Comfort NCLEX Review: 12 High-Yield Practice Questions & Rationales](https://www.youtube.com/watch?v=6GsJiFccuiY&t=1739s), 7 September 2023. Publisher ne 28:59 par stroke ke baad passive range of motion exercises ka question segment list kiya hai. Isse passive movement ka concept revise kar sakte hain, lekin is original question ke exact wording aur playback ko verify nahi kiya gaya hai.
 
 [Legacy mock practice: Mock 03, Q87](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q87-which-exercise-involves-a-caregiver-moving-the-patients-joint-without-active-muscle-effort-from-the-patient) — same topic-bank question, not a new original.
 
@@ -508,7 +508,7 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Related exam evidence:** Is third-party report mein bed ke kinaare baithne ke dauraan orthostatic hypotension aur dizziness ko monitor karne ka concept poochha gaya tha. Is original question mein operation ke baad chalne ke dauraan symptoms aane par safe action poochha gaya hai. Dono related hain, lekin exact question same nahi hai. Official paper aur answer key verify nahi hue hain.
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (related question, publisher description):** [Ace My Nursing Exams by NursesPath — Before assisting a patient to ambulate for the first time after surgery, what should be assess first](https://www.youtube.com/watch?v=C1HJHdbHOIw), 5 July 2026. Publisher ke description mein pehli postoperative ambulation se pehle orthostatic blood pressure aur dizziness ki assessment samjhayi gayi hai. Yeh related safety question hai, lekin hamara original question walking ke dauran dizziness hone par action poochhta hai. Exact playback aur timestamp abhi verify nahi hue hain.
 
 [Legacy mock practice: Mock 04, Q117](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q117-during-first-ambulation-after-surgery-a-patient-becomes-pale-and-dizzy-which-action-is-safest) — same topic-bank question, not a new original.
 
