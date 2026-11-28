@@ -91,30 +91,30 @@
 
 </details>
 
-### Q04. A child falls onto an outstretched hand. The radiograph shows one cortex of the radius broken while the opposite cortex bends. Which fracture pattern is described?
+### Q04. After a fall, imaging shows one fractured bone fragment driven into the other. Which fracture pattern does this describe?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Comminuted fracture
+- **A.** Avulsion fracture
 - **B.** Impacted fracture
-- **C.** Greenstick fracture
-- **D.** Transverse complete fracture
+- **C.** Spiral fracture
+- **D.** Segmental fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Greenstick fracture**
+**Correct answer: B. Impacted fracture**
 
-**A kyun galat hai:** Comminuted fracture mein bone kai fragments mein toot jaati hai. Yahan multiple pieces describe nahi hue hain.
+**A kyun galat hai:** Avulsion mein tendon ya ligament attachment se fragment pull hota hai.
 
-**B kyun galat hai:** Impacted fracture mein ek fragment doosre fragment ke andar push ho jaata hai. Sirf ek cortex ka break aur doosre ka bending alag pattern hai.
+**B kyun sahi hai:** Impaction mein axial compression ke karan ek fragment doosre fragment ke andar drive ho jata hai. Imaging finding isi pattern ko support karti hai.
 
-**C kyun sahi hai:** Bachchon ki bones adults ke comparison mein zyada flexible hoti hain. Greenstick fracture mein bone ka ek side toot jaata hai aur opposite side bend ho sakta hai. Isliye description incomplete fracture ko support karta hai.
+**C kyun galat hai:** Spiral pattern mein fracture line bone ke shaft ke around twist karti hai.
 
-**D kyun galat hai:** Complete transverse fracture mein fracture line bone ko poori width mein cross karti hai. Yahan opposite cortex intact aur bent hai.
+**D kyun galat hai:** Segmental fracture mein separate intermediate bone segment banne ke liye fracture sites hoti hain.
 
-**Exam clue:** Greenstick mein ek side break aur doosra side bend hota hai.
+**Exam clue:** Compression ke saath fragments telescoping kar rahe hon to impacted fracture socho.
 
-**Clinical reference:** [OpenStax bone repair](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-5-fractures-bone-repair). 
+**Clinical reference:** [Merck fracture overview](https://www.merckmanuals.com/en-ca/professional/injuries-poisoning/fractures/overview-of-fractures).
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -439,59 +439,59 @@
 
 </details>
 
-### Q16. An older adult with a displaced intracapsular femoral neck fracture asks why later blood-supply complications are monitored. Which structure is particularly at risk?
+### Q16. Following an intra-articular tibial plateau fracture, the orthopedic team evaluates residual irregularity of the joint surface. Why is restoration of joint congruity important?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Patellar tendon
-- **B.** Acetabular labrum only
-- **C.** Distal tibial growth plate
-- **D.** Femoral head
+- **A.** To eliminate the need for rehabilitation
+- **B.** To prevent every future infection
+- **C.** To reduce abnormal contact stress and later post-traumatic osteoarthritis risk
+- **D.** To increase the size of the fracture hematoma
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Femoral head**
+**Correct answer: C. To reduce abnormal contact stress and later post-traumatic osteoarthritis risk**
 
-**A kyun galat hai:** Patellar tendon knee extension mechanism ka part hai. Femoral neck fracture se femoral head perfusion ka concern explain nahi hota.
+**A kyun galat hai:** Joint surface restoration rehabilitation ka replacement nahi hai.
 
-**B kyun galat hai:** Acetabular labrum hip socket ke edge par cartilage structure hai. Question blood supply compromise se related hai, jo femoral head ka important concern hai.
+**B kyun galat hai:** Alignment infection prevention ki guarantee nahi deta; infection risk alag factors se linked hai.
 
-**C kyun galat hai:** Distal tibial growth plate lower leg ke growing bone ka part hai. Older adult ke femoral neck injury mein ye relevant structure nahi hai.
+**C kyun sahi hai:** Uneven articular surface load ko unevenly distribute kar sakti hai. Congruity restore karne se abnormal stress aur subsequent cartilage damage ka risk kam ho sakta hai.
 
-**D kyun sahi hai:** Femoral neck ke paas se femoral head ko blood supply dene wali vessels guzarti hain. Displaced intracapsular fracture in vessels ko injure kar sakta hai. Isse femoral head mein avascular necrosis ka risk hota hai.
+**D kyun galat hai:** Hematoma healing response ka part hai, lekin joint surface reduction ka objective hematoma badhana nahi hai.
 
-**Exam clue:** Intracapsular femoral neck fracture mein femoral head perfusion yaad rakho.
+**Exam clue:** Articular fracture mein surface congruity aur long-term joint function ko connect karo.
 
-**Clinical reference:** [Merck fracture overview](https://www.merckmanuals.com/en-ca/professional/injuries-poisoning/fractures/overview-of-fractures). 
+**Clinical reference:** [Merck fracture overview](https://www.merckmanuals.com/en-ca/professional/injuries-poisoning/fractures/overview-of-fractures).
 
 **YouTube MCQ practice:** Verification pending.
 
 </details>
 
-### Q17. A child has a fracture involving the physis near the distal femur. Why is longitudinal follow-up especially important?
+### Q17. A patient asks how fracture reduction differs from fixation. Which explanation is accurate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Damage to the growth plate may cause later limb-length discrepancy or angular deformity
-- **B.** All physeal fractures produce immediate permanent paralysis
-- **C.** The growth plate is the main source of adult synovial fluid
-- **D.** A physeal injury prevents any future fracture anywhere in the limb
+- **A.** Reduction restores alignment; fixation maintains stability of the aligned fragments
+- **B.** Reduction means antibiotic administration; fixation means wound cleaning
+- **C.** Reduction is the same as bone remodeling; fixation is the same as callus formation
+- **D.** Reduction and fixation both mean removal of the entire fractured bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Damage to the growth plate may cause later limb-length discrepancy or angular deformity**
+**Correct answer: A. Reduction restores alignment; fixation maintains stability of the aligned fragments**
 
-**A kyun sahi hai:** Physis growing bone ka cartilage area hai jahan se length increase hoti hai. Agar injury growth ko disturb kare, toh later limb length difference ya angular deformity develop ho sakti hai. Isliye planned follow-up zaroori hai.
+**A kyun sahi hai:** Reduction displaced fragments ko acceptable alignment mein restore karti hai. Fixation cast, implant ya appropriate device se stability provide karti hai; technique fracture ke hisaab se select hoti hai.
 
-**B kyun galat hai:** Har physeal fracture paralysis nahi karta. Nerve injury alag complication hai aur uske liye specific neurological assessment hota hai.
+**B kyun galat hai:** Antibiotics aur wound cleaning infection-related interventions hain, reduction ya fixation ki definitions nahi.
 
-**C kyun galat hai:** Synovial fluid joint lining se related hai. Growth plate ka important role longitudinal bone growth hai.
+**C kyun galat hai:** Remodeling aur callus formation biological healing stages hain; reduction aur fixation treatment methods hain.
 
-**D kyun galat hai:** Ek growth plate injury future fractures se protection nahi deti. Bone health aur future injury risk alag factors par depend karte hain.
+**D kyun galat hai:** Fractured bone remove karna routine reduction ya fixation nahi hota.
 
-**Exam clue:** Growing child mein fracture healing ke saath future growth bhi assess hoti hai.
+**Exam clue:** Reduction = alignment; fixation = stability.
 
-**Clinical reference:** [Pediatric physeal injuries](https://www.ncbi.nlm.nih.gov/books/NBK560546/). Indexed evidence, direct full-text review pending.
+**Clinical reference:** [Merck fracture overview](https://www.merckmanuals.com/en-ca/professional/injuries-poisoning/fractures/overview-of-fractures).
 
 **YouTube MCQ practice:** Verification pending.
 
