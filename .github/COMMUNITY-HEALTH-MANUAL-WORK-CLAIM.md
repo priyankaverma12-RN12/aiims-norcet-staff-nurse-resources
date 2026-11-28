@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b08-20261128-1219Z
+Scope: PR61 Batch08: dengue/chikungunya community vector programme (not clinical treatment), maternal programme entitlements, newborn facility-service organization, health planning committees, JE surveillance/vaccination programme only distinct from PR66 clinical bank. Exclude PR39 NPHCE and PR35 nutrition programmes; no PR62/shared navigation writes.
+Claimed UTC: 2026-11-28T12:19:24Z
+Expiry UTC: 2026-11-28T12:49:24Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
