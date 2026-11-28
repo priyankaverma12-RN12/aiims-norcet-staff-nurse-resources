@@ -26,7 +26,7 @@ async function showMetrics(){
    summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
    const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',countPhrase(c.evidenceFiles,'exam note or source list','exam notes and source lists')));card.append(tools);
    const rows=node('div',undefined,'metric-records');for(const f of matches){
-    const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
+    const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy');
     row.href=route(f.path);row.dataset.category=f.category;
     const glyph=node('span',({mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
     const type=resourceTypeTag(f.path);type.dataset.role='type';left.append(node('span',knownTitle(f.path),'metric-record-title'),type);const personal=studyLabel(f.path);if(personal)left.append(personal);

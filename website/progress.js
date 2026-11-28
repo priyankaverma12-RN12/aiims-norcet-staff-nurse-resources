@@ -127,10 +127,11 @@ function scopedInventoryRecords(p,data=studyInventory){
  return p.endsWith('/')?c.records.filter(f=>f.path.startsWith(p)):c.records.filter(f=>f.path===p);
 }
 function inventoryLabelParts(p,data=studyInventory){
+ if(!data?.chapters.some(c=>c.id===p.split('/')[1]))return [];
  const records=scopedInventoryRecords(p,data),totals={mcq:0,pyq:0,imported:0,embedded:0};for(const f of records)if(Object.hasOwn(totals,f.category))totals[f.category]+=f.slots;
  const labels=[];if(totals.mcq)labels.push({kind:'mcq',text:countPhrase(totals.mcq,'MCQ','MCQs')});
  const mock=mockSummary(data,records);
- if(mock.tests||mock.drafts||mock.otherQuestions||p.endsWith('/Mock-Tests/'))labels.push({kind:'mock',text:mockCountText(mock)});
+ if(mock.tests||p.endsWith('/Mock-Tests/')||p.endsWith('/README.md')&&p.split('/').length===3)labels.push({kind:'mock',text:mockCountText(mock)});
  if(mock.drafts)labels.push({kind:'draft',text:countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question')});
  if(mock.otherQuestions)labels.push({kind:'neutral',text:countPhrase(mock.otherQuestions,'other mock question')});
  if(totals.pyq)labels.push({kind:'pyq',text:countPhrase(totals.pyq,'PYQ question')});

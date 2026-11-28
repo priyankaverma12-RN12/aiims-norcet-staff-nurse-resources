@@ -57,6 +57,13 @@ with sync_playwright() as p:
         resp=next(c for c in expected["chapters"] if c["id"]=="Respiratory-System")
         resp_mocks=[f for f in resp["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
         expect(respiratory.locator(".chapter .study-tag[data-kind=mock]")).to_have_text(f"{len(resp_mocks)} mock tests · {sum(f['slots'] for f in resp_mocks):,} questions")
+        # Check every displayed Library chapter against the actual deployment inventory.
+        actual=page.locator(".chapter-card .chapter").evaluate_all("""els=>els.map(e=>({id:new URL(e.href).searchParams.get('doc').split('/')[1],text:e.querySelector('.study-tag[data-kind=mock]')?.textContent||''}))""")
+        for item in actual:
+            c=next(c for c in expected["chapters"] if c["id"]==item["id"])
+            m=[f for f in c["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+            q=sum(f["slots"] for f in m)
+            assert item["text"]==f"{len(m)} mock test{'s' if len(m)!=1 else ''} · {q:,} question{'s' if q!=1 else ''}",item
         respiratory.get_by_role("link",name="Respiratory System MCQs",exact=True).click()
         ready()
         sample="Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md"
