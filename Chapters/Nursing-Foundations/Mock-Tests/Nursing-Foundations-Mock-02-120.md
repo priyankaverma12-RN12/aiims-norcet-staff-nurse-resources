@@ -594,16 +594,16 @@ Connector surface organisms carry kar sakta hai. Hand hygiene, approved antisept
 **Correct: A. 14 beats/min**
 
 <!-- job5-rationale -->
-Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beech difference hai. Kuch contractions se peripheral artery tak detectable pulse wave nahi pahunchti, especially irregular rhythms mein. Simultaneous measurement important hai kyunki separate times par rate change ho sakta hai. Formula: pulse deficit = apical − radial. Given 112 − 98 = 14 beats/min. Deficit milne par rhythm aur perfusion assess karo aur new abnormality communicate karo.
+Pulse deficit ka matlab hai simultaneously measured apical heart rate aur radial pulse rate ke beech difference. Maan lo heart ek minute mein 112 baar contract karta hai, lekin wrist par sirf 98 detectable pulses feel hoti hain. Kuch contractions se sufficient peripheral pulse wave generate nahi hui ho sakti hai. Dono rates ek hi time measure karna important hai, kyunki different times par heart rate khud change ho sakti hai. Pulse deficit calculate karne ke liye apical rate mein se radial rate subtract karo. Yahan 112 − 98 = 14 beats per minute hai. New deficit milne par patient ki rhythm, perfusion aur symptoms assess karke relevant team ko inform karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** 14 beats/min actual missing peripheral pulses ka difference hai.
-- **B:** 98/min sirf radial rate hai.
-- **C:** 112/min sirf apical rate hai.
-- **D:** 210 beats/min dono rates ka sum hai, deficit nahi.
+- **A:** Apical rate se simultaneous radial rate subtract karne par 14 beats/min milte hain. Isliye A correct pulse deficit hai.
+- **B:** 98 beats/min patient ki radial pulse rate hai. Ye apical aur radial rate ka difference nahi hai.
+- **C:** 112 beats/min apical rate hai. Pulse deficit jaanne ke liye ismein se radial rate subtract karna padta hai.
+- **D:** 112 aur 98 ko add karne par 210 aata hai. Pulse deficit mein sum nahi, difference calculate karte hain.
 
-**Exam clue:** Pulse deficit = apical minus radial, in beats/min.
+**Exam clue:** Pulse deficit calculate karne ke liye simultaneous apical rate mein se radial rate subtract karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 
@@ -968,16 +968,16 @@ IV route medicine ko venous blood mein directly deliver karti hai. Absorption st
 **Correct: C. Auscultation**
 
 <!-- job5-rationale -->
-Auscultation ka meaning body ke internal sounds listen karna hai. Stethoscope se heart, lungs, bowel aur selected vascular sounds assess karte hain. Inspection mein eyes se observation, palpation mein touch aur percussion mein tapping se generated sound evaluate hota hai. Example ke liye wheeze sunna auscultation hai, chest rise dekhna inspection hai.
+Auscultation ka matlab body ke andar se aane wali sounds ko sunna hai. Nurse usually stethoscope ki help se heart sounds, lung sounds, bowel sounds aur indicated vascular sounds assess karti hai. Maan lo patient ko saans lene mein difficulty hai. Chest movement ko aankhon se dekhna inspection hai, jabki stethoscope se wheeze sunna auscultation hai. Physical examination ki har technique alag tarah ki information deti hai. Nurse findings ko patient ki history aur doosre assessments ke saath interpret karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** visual observation hai, stethoscope listening nahi.
-- **B:** tapping se resonance ya dullness assess karte hain, passive internal listening nahi.
-- **C:** internal sound ko listen karna auscultation hai.
-- **D:** touch se tenderness, temperature, texture ya pulses assess karte hain.
+- **A:** Inspection mein nurse body ki appearance ya movement ko observe karti hai. Ismein internal sounds sunna main technique nahi hai.
+- **B:** Percussion mein body surface par tap karke resulting sound interpret ki jaati hai. Auscultation mein body ke internal sounds sune jaate hain.
+- **C:** Stethoscope ki help se internal body sounds sunna auscultation hai. Isliye C sahi hai.
+- **D:** Palpation mein nurse touch se tenderness, warmth, texture ya pulse jaise findings assess karti hai. Ye internal sounds sunne ki technique nahi hai.
 
-**Exam clue:** Inspection = see, palpation = feel, percussion = tap, auscultation = listen.
+**Exam clue:** Inspection mein dekhte hain, palpation mein touch karte hain, percussion mein tap karte hain aur auscultation mein sounds sunte hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -2438,16 +2438,16 @@ Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti 
 **Correct: C. Assess the patient, improve signal quality and verify oxygenation with another method if needed**
 
 <!-- job5-rationale -->
-Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate karta hai. Cold fingers mein vasoconstriction aur low peripheral perfusion signal weak bana sakti hain. Motion, sensor placement, pigmentation aur other factors accuracy affect kar sakte hain. Pehle patient ki airway, breathing, perfusion aur distress assess karo. Probe placement, waveform aur pulse agreement check karo, safe warming ya appropriate alternate site use karo aur clinical indication par arterial blood gas jaise confirmatory test arrange karo. Urgent support ko monitor troubleshooting ke liye delay mat karo.
+Pulse oximeter blood ke pulsatile optical signal se oxygen saturation estimate karta hai. Cold fingers mein blood vessels constrict ho sakti hain aur peripheral perfusion kam hone se signal weak ho sakta hai. Agar waveform poor hai aur number baar-baar change ho raha hai, toh display ko bina verification accurate assume nahi karna chahiye. Nurse pehle patient ki airway, breathing, circulation aur distress assess karti hai. Phir sensor placement, waveform aur displayed pulse ko check karti hai. Feasible hone par safe warming ya suitable alternate site use ki ja sakti hai. Motion, skin pigmentation aur doosre factors bhi accuracy affect kar sakte hain. Agar clinical indication hai, toh arterial blood gas jaise confirmatory assessment arrange kiya ja sakta hai. Urgent oxygenation ya ventilation support ko monitor troubleshooting ke liye delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** lowest fluctuating artifact ko true saturation assume nahi karna chahiye.
-- **B:** unstable signal se oxygen ki need rule out nahi hoti. Prescribed oxygen bina assessment remove karna unsafe hai.
-- **C:** patient assessment aur measurement validation dono address karta hai.
-- **D:** 100% display respiratory distress ya hypoventilation ko exclude nahi karta.
+- **A:** Fluctuating reading ka lowest number actual saturation bhi ho sakta hai ya artifact bhi. Bina verification usse confirmed true saturation nahi maanna chahiye.
+- **B:** Unstable display se ye establish nahi hota ki patient ko oxygen ki zaroorat nahi hai. Assessment ke bina prescribed oxygen remove karna unsafe ho sakta hai.
+- **C:** Patient ki condition assess karne, signal improve karne aur zaroorat par doosre method se oxygenation verify karne se measurement aur clinical safety dono address hote hain. Isliye C sahi hai.
+- **D:** Monitor baad mein 100% dikha de, tab bhi respiratory symptoms ya inadequate ventilation possible hain. Patient ki condition assess karni chahiye.
 
-**Exam clue:** Assess the patient first, then validate the signal. SpO2 does not measure ventilation.
+**Exam clue:** Patient ko pehle assess karo aur phir signal verify karo. SpO2 ventilation ko directly measure nahi karti.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -2813,16 +2813,16 @@ Cystoscopy endoscope se urethra aur bladder lining inspect karne mein help karti
 **Correct: B. Observe chest movements discreetly after pulse assessment**
 
 <!-- job5-rationale -->
-Respiration normally automatic hoti hai lekin patient conscious effort se breathing rate aur depth change kar sakta hai. Agar patient ko bataya jaaye ki ab saans count ho rahi hai toh woh unknowingly pattern alter kar sakta hai. Routine assessment mein general explanation aur consent ke saath pulse check ke baad quietly chest rise and fall observe karo. Ek inspiration aur expiration milkar one breath hote hain. Irregular breathing mein full minute count karo aur depth, effort aur rhythm bhi note karo.
+Breathing normally automatic process hai, lekin patient consciously apni respiratory rate aur depth change bhi kar sakta hai. Agar nurse specifically bataye ki ab saans count ho rahi hai, toh patient bina realize kiye apna natural pattern change kar sakta hai. Routine assessment mein patient ko general vital-sign check samjha kar consent aur privacy maintain karni chahiye. Pulse check karne ke baad nurse quietly chest ka rise aur fall observe kar sakti hai. Ek rise aur fall ek complete breath represent karta hai. Irregular breathing mein full minute count karna chahiye aur depth, rhythm aur breathing effort bhi note karne chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** age expected range batati hai, actual rate nahi.
-- **B:** unobtrusive observation spontaneous rate capture karne mein help karti hai.
-- **C:** continuous talking normal breathing pattern change karti hai.
-- **D:** fast breathing instruction baseline rate artificially badha degi.
+- **A:** Age se expected reference range ka idea mil sakta hai, lekin actual respiratory rate jaanne ke liye patient ki breaths count karni padti hain.
+- **B:** Pulse assessment ke baad quietly chest movements observe karne se spontaneous breathing pattern capture karne mein help milti hai. Isliye B sahi hai.
+- **C:** Continuous talking breathing pattern ko alter kar sakti hai. Isliye natural resting respiration assess karne ke liye quiet breathing observe karna zyada suitable hai.
+- **D:** Patient ko fast breathing karne ko kehne se uski natural resting respiratory rate artificially badh sakti hai.
 
-**Exam clue:** Pulse ke baad quietly count respirations. One rise-fall = one breath.
+**Exam clue:** Pulse ke baad natural breathing observe karo. Chest ka ek rise aur fall ek breath hota hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->

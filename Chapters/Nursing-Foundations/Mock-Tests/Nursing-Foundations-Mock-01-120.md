@@ -915,16 +915,16 @@ FiO2 ka matlab inhaled gas mein oxygen ka fraction hai. Venturi mask oxygen jet 
 **Correct: B. The reading may be falsely elevated**
 
 <!-- job5-rationale -->
-Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic pressure badhta hai. Unsupported arm ko hold karne mein muscle contraction bhi pressure increase kar sakti hai. Isliye heart-level supported arm ke comparison mein reading elevated aa sakti hai. Stable patient mein back supported, feet flat, arm relaxed aur cuff ka midpoint heart level par rakhkar BP repeat karo.
+Maan lo patient ki arm chair ke side mein neeche latak rahi hai aur nurse us position mein BP measure karti hai. Heart level se neeche measuring site par gravity ki wajah se hydrostatic pressure badh sakta hai. Agar patient arm ko khud hold kar raha hai, toh muscle contraction bhi reading affect kar sakti hai. Dono factors ki wajah se BP falsely elevated aa sakta hai. Stable patient mein back supported, feet flat aur arm relaxed rakho. Cuff ka midpoint heart level par support karke reading repeat karo.
 
 **Option-by-option reasoning**
 
-- **A:** below-heart position generally reading ko raise kar sakti hai, lower necessarily nahi.
-- **B:** hydrostatic pressure aur unsupported arm ka expected bias explain karta hai.
-- **C:** zero BP expected effect nahi hai.
-- **D:** position specifically BP ko affect karti hai, sirf oxygen saturation ko nahi.
+- **A:** Arm heart level se neeche hone par reading falsely high ho sakti hai. Isliye necessarily low reading aayegi, ye statement sahi nahi hai.
+- **B:** Hydrostatic pressure aur unsupported arm ki muscle activity reading ko falsely elevate kar sakti hain. Isliye B sahi hai.
+- **C:** Arm ki position se BP reading zero hona expected nahi hai. Aisi reading mile toh patient aur measurement technique ko assess karna chahiye.
+- **D:** Arm ki position BP measurement ki accuracy ko affect karti hai. Ye effect sirf pulse oximetry tak limited nahi hai.
 
-**Exam clue:** Arm low → BP high bias. Arm supported at heart level.
+**Exam clue:** BP measure karte waqt arm relaxed aur supported rakho aur cuff ko heart level par position karo.
 
 [Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
 <!-- /job5-rationale -->
@@ -1389,16 +1389,16 @@ Jab patient exhale karta hai, carbon dioxide wali gas mask ke andar temporarily 
 **Correct: C. The first clear repetitive tapping sound**
 
 <!-- job5-rationale -->
-Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop karta hai. Jab cuff pressure gradually decrease hota hai aur systolic pressure ke neeche pahunchta hai, intermittent flow ki wajah se first repetitive tapping sound sunai deti hai. Yeh Korotkoff phase I hai aur adult systolic pressure record kiya jaata hai. Phase V yani sounds disappear hona generally adult diastolic reading hai. Proper deflation aur trained technique important hai.
+Manual BP measurement mein cuff inflate karne se brachial artery mein blood flow temporarily stop ho sakta hai. Nurse cuff ko dheere-dheere deflate karti hai aur stethoscope se Korotkoff sounds sunti hai. Jab cuff pressure systolic pressure se neeche aata hai, toh intermittent blood flow ki wajah se pehli clear repeated tapping sound sunai deti hai. Ise Korotkoff phase I kehte hain aur routine adult measurement mein ye systolic BP ka marker hota hai. Phase V mein sounds disappear ho jaati hain aur generally ye adult diastolic BP represent karta hai. Accurate result ke liye trained technique aur proper deflation zaroori hain.
 
 **Option-by-option reasoning**
 
-- **A:** wrist palpation se systolic estimate possible hai lekin yeh Korotkoff sound nahi hai.
-- **B:** disappearance generally diastolic pressure indicate karti hai.
-- **C:** first repetitive tapping phase I hai, systolic pressure ka marker.
-- **D:** loudness alone systolic pressure identify nahi karti.
+- **A:** Wrist par radial pulse palpate karke systolic pressure ka approximate estimate liya ja sakta hai. Lekin ye stethoscope se suni gayi Korotkoff sound nahi hai.
+- **B:** Sounds ka disappearance usually Korotkoff phase V hai, jo adult diastolic pressure record karne ke liye use hota hai.
+- **C:** Pehli clear repetitive tapping sound Korotkoff phase I hai. Ye routine adult systolic pressure indicate karti hai, isliye C sahi hai.
+- **D:** Sabse loud sound ko systolic pressure nahi maante. Nurse ko pehli repeated sound identify karni chahiye.
 
-**Exam clue:** Korotkoff I = systolic, V = adult diastolic.
+**Exam clue:** Korotkoff phase I systolic BP batati hai aur phase V usually adult diastolic BP batati hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -2059,16 +2059,16 @@ Compression depth batati hai chest ko kitna neeche press karna hai. Average adul
 **Correct: A. Falsely high blood pressure**
 
 <!-- job5-rationale -->
-BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye. Agar cuff chhota ya narrow hai, artery ko occlude karne ke liye device ko zyada pressure register karna pad sakta hai. Isse measured BP true BP se high aa sakta hai, jise undercuffing error kehte hain. Arm circumference measure karke manufacturer ki size range select karo, bare upper arm par cuff lagao aur correct position mein repeat karo. Ek wrong-size reading par chronic hypertension diagnose mat karo.
+BP cuff ke andar ek inflatable bladder hota hai jo upper arm ki artery par pressure apply karta hai. Agar patient ki arm ke comparison mein cuff bahut chhota hai, toh artery ko compress karne ke liye zyada cuff pressure ki zaroorat pad sakti hai. Isse machine actual BP se zyada reading dikha sakti hai. Ise undercuffing error kehte hain. Nurse arm circumference measure karti hai aur manufacturer ki recommended size range ke according cuff select karti hai. Stable patient mein correct cuff aur proper position ke saath reading repeat karni chahiye. Galat cuff se li gayi ek reading ke basis par chronic hypertension diagnose nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** undersized cuff falsely high BP de sakta hai.
-- **B:** cuff BP measure karta hai, respiratory rate nahi.
-- **C:** small cuff generally opposite direction mein error create karta hai. Too large cuff reading underestimate kar sakta hai, although effect device par depend karta hai.
-- **D:** cuff size measurement accuracy ko affect karti hai.
+- **A:** Undersized cuff ki wajah se measured BP actual pressure se zyada aa sakta hai. Isliye A sahi hai.
+- **B:** BP cuff arterial pressure measure karne ke liye use hota hai. Respiratory rate alag assessment hai, jisme breaths count ki jaati hain.
+- **C:** Bahut chhota cuff generally BP reading ko falsely high kar sakta hai. Bahut bada cuff reading underestimate kar sakta hai, lekin effect device aur fit par depend karta hai.
+- **D:** Cuff size ka measurement accuracy par effect ho sakta hai. Isliye patient ki arm circumference ke according suitable cuff choose karna important hai.
 
-**Exam clue:** Small cuff → high reading. Correct circumference → correct cuff.
+**Exam clue:** Chhota BP cuff falsely high reading de sakta hai. Arm circumference measure karke suitable cuff select karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -2239,16 +2239,16 @@ Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko sam
 **Correct: A. Count the apical pulse for a full minute and assess rhythm**
 
 <!-- job5-rationale -->
-Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strength se feel nahi ho sakta. Short count ko multiply karne par rhythm variation miss ho sakti hai. Stethoscope se apical heartbeats full 60 seconds count karo aur rhythm, symptoms aur other observations assess karo. New irregularity, dizziness, chest pain ya instability par timely clinical escalation karo. Rhythm ki exact diagnosis ke liye ECG ki zaroorat ho sakti hai.
+Irregular radial pulse ka matlab hai ki wrist par feel hone wali pulse beats evenly spaced nahi hain. Kuch cardiac contractions se peripheral pulse wave weak ya undetectable bhi ho sakti hai. Agar nurse sirf paanch seconds count karke rate multiply kare, toh irregular rhythm ka pattern miss ho sakta hai. Nurse stethoscope se apical heartbeats full 60 seconds count karti hai aur rhythm, symptoms aur relevant observations assess karti hai. Agar irregularity nayi hai ya chest pain, dizziness ya instability ke saath hai, toh timely clinical escalation zaroori hai. Exact electrical rhythm identify karne ke liye ECG evaluation ki zaroorat ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** full-minute apical count heart contractions ko directly assess karne mein help karta hai.
-- **B:** five-second sample irregular rhythm ka reliable minute estimate nahi deta.
-- **C:** old value current heart rate nahi batati.
-- **D:** respiratory rate alag vital sign hai aur heart rhythm replace nahi karti.
+- **A:** Full minute tak apical heart rate count karne aur rhythm assess karne se irregular beats ka better assessment mil sakta hai. Isliye A sahi hai.
+- **B:** Paanch seconds ka count irregular rhythm mein poore minute ki reliable representation nahi hai. Multiply karne par rate ka error badh sakta hai.
+- **C:** Previous shift ki value comparison ke liye useful ho sakti hai, lekin usse current heart rate confirm nahi hoti.
+- **D:** Respiratory rate se patient ki breathing ki frequency pata chalti hai. Ye heart rate aur rhythm assessment ko replace nahi karti.
 
-**Exam clue:** Irregular pulse → apical full minute, assess symptoms.
+**Exam clue:** Irregular pulse mein full-minute apical assessment consider karo aur patient ke symptoms aur rhythm bhi check karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 

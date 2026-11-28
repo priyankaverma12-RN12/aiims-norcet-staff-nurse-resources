@@ -585,16 +585,16 @@ Paraphrasing mein nurse patient ki baat ka main meaning apne words mein dobara b
 **Correct: A. Orthostatic hypotension**
 
 <!-- job5-rationale -->
-Standing par gravity se blood lower body mein pool hota hai. Normally autonomic compensation vascular tone aur heart response adjust karti hai. Orthostatic hypotension mein supine se standing ke first 3 minutes mein systolic BP kam se kam 20 mmHg ya diastolic kam se kam 10 mmHg girta hai. Yahan systolic fall = 128 − 100 = 28 mmHg, diastolic fall = 78 − 62 = 16 mmHg. Dono thresholds cross hain aur dizziness present hai. Patient ko safely sit ya lie karvao, fall prevention aur clinical assessment karo. Volume depletion ya medicine effects possible hain, but cause further assessment se establish hoga.
+Jab patient letne ke baad khada hota hai, toh gravity ki wajah se kuch blood lower body mein shift ho sakta hai. Body normally vascular tone aur heart response adjust karke BP maintain karti hai. Agar compensation adequate nahi hai, toh standing par BP gir sakta hai aur dizziness ho sakti hai. Common orthostatic hypotension threshold standing ke teen minute ke andar systolic BP mein kam se kam 20 mmHg ya diastolic BP mein kam se kam 10 mmHg ki fall hai. Yahan systolic fall 128 − 100 = 28 mmHg aur diastolic fall 78 − 62 = 16 mmHg hai. Dono thresholds cross ho rahe hain aur patient dizzy bhi hai. Nurse patient ko safely baithne ya letne mein help karti hai, fall prevent karti hai aur clinical assessment arrange karti hai. Volume depletion ya medicine effect possible ho sakte hain, lekin exact cause further assessment se establish hoga.
 
 **Option-by-option reasoning**
 
-- **A:** calculated fall aur symptoms orthostatic hypotension support karte hain.
-- **B:** standing pressure increase nahi hua.
-- **C:** pressure rise nahi hua, dono values fall hui hain.
-- **D:** BP readings respiration rate establish nahi karti.
+- **A:** Systolic aur diastolic fall common orthostatic thresholds meet karti hain aur patient mein dizziness bhi hai. Isliye A sahi hai.
+- **B:** Standing BP increase nahi hua hai, balki decrease hua hai. Isliye increased standing pressure se hypertension ka conclusion supported nahi hai.
+- **C:** Standing par systolic aur diastolic dono readings giri hain. Isliye normal pressure rise describe karna given findings se match nahi karta.
+- **D:** BP se arterial pressure pata chalta hai. Respiratory rate assess kiye bina tachypnea establish nahi ki ja sakti.
 
-**Exam clue:** 20 systolic OR 10 diastolic within 3 minutes. Dizziness = fall risk.
+**Exam clue:** Standing ke teen minute ke andar systolic fall 20 mmHg ya diastolic fall 10 mmHg ya usse zyada ho sakti hai. Dizziness ho toh patient ki fall safety pehle dekho.
 
 [Concept reference](https://www.cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf)
 
@@ -1270,16 +1270,16 @@ IV infusion mein saline, glucose ya prescribed medicines blood ke saath mix ho s
 **Correct: D. Inspection, auscultation, percussion, palpation**
 
 <!-- job5-rationale -->
-Routine abdominal examination ka conventional sequence IAPP hai: inspection, auscultation, percussion, palpation. Pehle contour, distension aur visible changes dekho. Bowel sounds manipulation se alter ho sakte hain, isliye percussion aur palpation se pehle listen karte hain. Percussion se gas, fluid ya solid tissue ke clues milte hain aur palpation tenderness ya masses assess karti hai. Painful area last assess karo aur acute serious abdominal findings par appropriate escalation karo.
+General physical examination mein IPPA order commonly teach kiya jaata hai, lekin abdomen ka conventional routine sequence IAPP hai. Pehle nurse inspection karti hai aur abdominal shape, distension aur visible changes dekhti hai. Phir stethoscope se bowel sounds sunti hai, kyunki abdomen ko palpate ya percuss karne se bowel activity change ho sakti hai. Uske baad percussion se underlying gas, fluid ya tissue ke clues mil sakte hain. Palpation mein tenderness aur relevant masses jaise findings assess ki jaati hain. Tender area ko last mein gently assess karna chahiye. Acute serious abdominal findings mein appropriate escalation zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** percussion aur palpation listening se pehle karta hai aur initial inspection bhi late hai.
-- **B:** inspection se pehle deep palpation inappropriate hai.
-- **C:** palpation first karne se discomfort aur sound pattern alter ho sakte hain.
-- **D:** inspection ke baad auscultation aur phir percussion-palpation conventional abdominal order hai.
+- **A:** Is sequence mein percussion aur palpation bowel sounds sunne se pehle ho rahi hain. Initial visual inspection bhi late hai, isliye ye conventional abdominal order nahi hai.
+- **B:** Deep palpation ko inspection se pehle karna usual safe routine sequence nahi hai. Pehle abdomen observe karna chahiye.
+- **C:** Palpation se examination shuru karne par patient ko discomfort ho sakta hai aur bowel sound assessment affect ho sakta hai.
+- **D:** Pehle inspection, phir auscultation, percussion aur last mein palpation routine abdomen examination ka conventional sequence hai. Isliye D sahi hai.
 
-**Exam clue:** General IPPA, abdomen exception IAPP.
+**Exam clue:** General examination ka commonly taught order IPPA hai, lekin abdomen mein IAPP use hota hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -1976,16 +1976,16 @@ Spatial neglect attention problem ho sakti hai, visual acuity loss se different.
 **Correct: B. Recent strenuous activity**
 
 <!-- job5-rationale -->
-Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 production badhta hai. Sympathetic activation heart rate aur cardiac output increase karti hai, ventilation bhi demand ke according rise hoti hai. Isliye activity ke immediately baad pulse aur respiration baseline se high ho sakte hain. Recovery period, symptoms aur resting repeat values se context interpret karo. Abnormal persistent findings ignore mat karo.
+Jab patient strenuous activity karta hai, toh muscles ko energy banane ke liye zyada oxygen chahiye aur carbon dioxide production bhi badhta hai. Sympathetic response ki wajah se heart rate aur cardiac output badh sakte hain, taaki active muscles tak zyada blood pahunch sake. Body ventilation bhi metabolic demand ke hisaab se badha sakti hai. Isliye stairs chadhne ya heavy exercise ke turant baad pulse aur respiratory rate resting baseline se zyada ho sakte hain. Nurse activity ka time, recovery, symptoms aur appropriate resting repeat readings ko consider karti hai. Agar abnormal readings persist kar rahi hain, toh unhe sirf exercise ka effect maan kar ignore nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** quiet sleep generally rates reduce kar sakti hai, universally increase nahi.
-- **B:** strenuous activity metabolic demand aur cardiovascular-respiratory response increase karti hai.
-- **C:** correct cuff alone systemic heart rate aur respiration increase nahi karta.
-- **D:** stable relaxation generally sympathetic activation kam karti hai.
+- **A:** Quiet sleep mein heart rate aur breathing rate generally kam ho sakte hain. Har case mein dono badhne ka statement correct nahi hai.
+- **B:** Strenuous activity metabolic demand badhati hai aur body heart rate aur ventilation adjust karti hai. Isliye B sahi hai.
+- **C:** Correctly sized cuff BP measurement ke liye useful hai. Sirf cuff ka suitable size systemic heart rate aur breathing rate badhne ka usual cause nahi hai.
+- **D:** Stable deep relaxation mein sympathetic activation generally kam ho sakti hai. Isliye dono rates badhna iska usual response nahi hai.
 
-**Exam clue:** Exercise increases metabolic demand, HR and ventilation.
+**Exam clue:** Exercise ke baad metabolic demand badhti hai, isliye pulse aur breathing rate temporarily rise kar sakti hain.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-3-vital-signs)
 <!-- /job5-rationale -->
@@ -2434,16 +2434,16 @@ Platelets chhote cell fragments hain jo injured blood vessel par primary plug ba
 **Correct: C. Palpation**
 
 <!-- job5-rationale -->
-Palpation ka matlab hands se body findings feel karna hai. Dorsal surface yani haath ki back temperature comparison ke liye commonly useful hoti hai. Similar sites compare karo aur surrounding conditions note karo. Local warmth inflammation ka clue ho sakti hai lekin touch alone cause confirm nahi karta. Exact body temperature ke liye appropriate thermometer use karo.
+Palpation ka matlab hai ki nurse hands se touch karke patient ki relevant body findings assess karti hai. Dorsal surface ka matlab haath ka back wala hissa hai, jo skin warmth compare karne mein commonly useful hota hai. Maan lo nurse patient ke dono ankles ki warmth compare kar rahi hai. Woh comparable sites aur similar environmental conditions ko dhyan mein rakhti hai. Local warmth inflammation ka possible clue ho sakti hai, lekin sirf touch se cause confirm nahi hota. Exact body temperature ki zaroorat ho toh suitable thermometer use karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** auscultation listening technique hai.
-- **B:** olfaction smell detect karta hai, temperature nahi.
-- **C:** touch ke through warmth assess karna palpation hai.
-- **D:** percussion tapping technique hai.
+- **A:** Auscultation mein body ke internal sounds sune jaate hain. Ye skin warmth touch karke assess karne ki technique nahi hai.
+- **B:** Olfaction ka matlab smell assess karna hai. Haath se temperature compare karna olfaction nahi hai.
+- **C:** Haath se touch karke warmth compare karna palpation ka example hai. Isliye C sahi hai.
+- **D:** Percussion mein nurse body surface par tap karke resulting sound interpret karti hai. Yahan tapping nahi, touch use ho raha hai.
 
-**Exam clue:** Warmth by touch = palpation.
+**Exam clue:** Skin warmth ko touch se compare karna palpation hai. Exact temperature measure karne ke liye thermometer chahiye.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
