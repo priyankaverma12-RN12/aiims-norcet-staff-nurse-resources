@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: CLAIMED
-Owner: neonatal-b04-20261128-1406Z
-Scope: PR57 isolated NEC, ROP, neonatal seizures, meconium aspiration and HIE new topic packages only; no shared navigation or prior banks
-Claimed UTC: 2026-11-28T14:06:00Z
-Expiry UTC: 2026-11-28T14:36:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified released checkpoint — 2026-11-28
 
@@ -27,3 +27,11 @@ Remaining: 460 new topic originals, then ten separate 120-question original-only
 - Candidate totals: 240 originals, 960 rationales, twelve concept guides, twelve SVGs and twelve evidence registers. All new files exact-readback verified; 240 normalized distinct stems, structural alignment passed. New difficulty 35/35/30. Earlier Easy deficit remains. 260 originals remaining before ten 120-item original-only mocks. No live credit.
 - CI 46151114846 pending at check. PR7/8 existing navigation overlap, no explicit neonatal clearance found. Independent clinical/difficulty, comprehensive semantic, source/video/curriculum, full bounded preflight, stronger distractor and rendering gates remain before merge.
 - Next: NEC, ROP, neonatal seizures, additional distinct newborn respiratory or birth injury topics after adjacent-bank screening. Preserve all existing originals and five schedules. No other job or learner history changes.
+
+## Released checkpoint — 2026-11-28 batch 04
+- Released owner: neonatal-b04-20261128-1406Z
+- Draft PR57 head: 3047fa34ed5969a0b5d8142ae689781ef84ddea0
+- 100 new originals, 400 individual Roman Hinglish rationales, five concepts, five SVGs, five evidence registers and batch inventory. 21 added files, 25 content commits, all previous files unchanged.
+- Candidate: 340 originals, 1360 rationales, seventeen banks/guides/diagrams/evidence registers. Exact remote readbacks verified; 340 normalized distinct stems, no overlap with four starter stems, structural alignment passed. New 35/35/30; cumulative 106/127/107. 160 topic originals remaining before ten exclusive 120-item mocks. No live credit.
+- CI 46151114846 passed, new exact-head CI 46153684468 pending. PR7/8 navigation clearance not found. Independent clinical/difficulty review, comprehensive semantic, source/video/curriculum, preflight, distractor and rendering gates remain. No merge.
+- Next isolated continuation: verified uncovered neonatal congenital GI emergencies, IVH/hemorrhage, polycythemia, screening/discharge and remaining birth-injury competencies; address earlier Easy deficits with genuinely distinct new objectives where appropriate. Preserve all other jobs, learner history and five hourly automations.
