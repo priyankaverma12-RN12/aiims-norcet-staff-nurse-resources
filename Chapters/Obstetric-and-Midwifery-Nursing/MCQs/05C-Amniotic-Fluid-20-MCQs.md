@@ -222,7 +222,7 @@
 
 ### Q10. A fetus has bilateral renal agenesis and severe low fluid later in pregnancy. Which mechanism links these findings?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Increased pulmonary surfactant production
 - **B.** Increased fetal urinary excretion
@@ -246,7 +246,7 @@
 
 ### Q11. How can significant uteroplacental insufficiency contribute to oligohydramnios?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Increased fetal glucose-induced osmotic diuresis as the usual mechanism
 - **B.** Reduced fetal renal perfusion and urine production
@@ -270,7 +270,7 @@
 
 ### Q12. Why is prolonged severe oligohydramnios early in pregnancy particularly concerning for lung development?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** It may restrict the fluid environment needed for normal pulmonary development
 - **B.** It guarantees normal lung expansion
@@ -294,7 +294,7 @@
 
 ### Q13. A pregnant patient has been taking an NSAID at 25 weeks. Why should the nurse review this with the prescriber if low fluid is found?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** NSAIDs always cause fetal polyuria
 - **B.** All low-dose aspirin prophylaxis must be stopped without consultation
@@ -318,7 +318,7 @@
 
 ### Q14. Maternal diabetes is associated with some cases of polyhydramnios. Which mechanism is plausible?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Fetal hyperglycemia causing osmotic diuresis
 - **B.** Obligatory fetal renal agenesis
@@ -342,7 +342,7 @@
 
 ### Q15. Which fetal abnormality can increase amniotic fluid by impairing its normal swallowing or gastrointestinal transit?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Isolated absence of a fetal kidney as the typical explanation
 - **B.** Normal fetal swallowing
@@ -366,7 +366,7 @@
 
 ### Q16. A woman has severe polyhydramnios with significant breathlessness. What is the appropriate role of amnioreduction under SMFM guidance?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Perform routine amnioreduction for every mild incidental finding
 - **B.** Consider specialist-performed amnioreduction for severe symptoms in severe polyhydramnios
@@ -390,7 +390,7 @@
 
 ### Q17. Which medication recommendation is explicit in SMFM guidance for polyhydramnios?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Do not use indomethacin solely to decrease amniotic fluid
 - **B.** All medications should be stopped regardless of indication
@@ -414,7 +414,7 @@
 
 ### Q18. In labor, green meconium-stained liquor is observed. Which interpretation is most appropriate?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** It definitively proves fetal acidemia in every case
 - **B.** It is always benign and can be ignored
@@ -438,7 +438,7 @@
 
 ### Q19. Why is a high presenting part with marked polyhydramnios relevant when membranes rupture?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** It eliminates the risk of cord prolapse
 - **B.** Rapid fluid escape may allow the umbilical cord to descend ahead of or alongside the presenting part
@@ -462,7 +462,7 @@
 
 ### Q20. A scan reports low amniotic fluid, but the patient also reports watery leakage. Which reasoning is safest?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Low fluid proves fetal renal agenesis
 - **B.** Low fluid proves maternal diabetes

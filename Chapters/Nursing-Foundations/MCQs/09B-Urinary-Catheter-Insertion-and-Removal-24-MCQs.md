@@ -17,13 +17,15 @@
 
 **Correct answer: B. 5 mm**
 
-**A. Kyun galat hai:** 15 Fr ka number millimetres ke barabar nahi hota. Ye circumference-based size scale hai.
+**A. Kyun galat hai:** French gauge, jise Fr ya Charriere bhi kehte hain, catheter ke outer diameter ki size scale hai. Fr ka number millimetres mein diameter ke barabar nahi hota. Isliye 15 Fr ko 15 mm samajhna galat hai.
 
-**B. Kyun sahi hai:** French scale mein diameter Fr ko 3 se divide karke millimetres mein nikalte hain. Isliye 15/3 = 5 mm hota hai.
+**B. Kyun sahi hai:** EAUN ke according 1 mm external diameter 3 Fr ke barabar hota hai. Diameter millimetres mein nikalne ke liye French size ko 3 se divide karte hain. Is question mein 15 / 3 = 5 mm hai. Yaani catheter ka approximate outer diameter 5 mm hai.
 
-**C. Kyun galat hai:** 45 mm nikalne ke liye galti se 3 se multiply kiya gaya hai. External diameter ke liye divide karna hota hai.
+**C. Kyun galat hai:** 45 mm tab aata hai jab hum 15 ko 3 se multiply karte hain. Lekin Fr se mm mein convert karne ke liye divide karna hota hai, multiply nahi.
 
-**D. Kyun galat hai:** 0.5 mm correct conversion se das guna chhota hai. Fr aur mm ki units alag hain.
+**D. Kyun galat hai:** 0.5 mm sahi diameter ka dasva hissa hai. Is conversion mein decimal ko ek aur place shift karne ki zaroorat nahi hai.
+
+**Exam clue:** Fr = 3 x outer diameter in mm. Isliye Fr se mm mein jaane ke liye 3 se divide karo. French gauge ko exact circumference in mm mat samjho.
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 

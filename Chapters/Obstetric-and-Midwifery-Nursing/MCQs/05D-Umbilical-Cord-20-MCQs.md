@@ -150,7 +150,7 @@
 
 ### Q07. Which placental configuration can produce type II vasa previa?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** A central insertion with no accessory lobe or exposed vessels
 - **B.** An isolated maternal decidual fold without vessels
@@ -174,7 +174,7 @@
 
 ### Q08. A patient with possible vasa previa develops vaginal bleeding at membrane rupture and a new abnormal fetal heart tracing. Which concern is most urgent?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Physiological maternal show with no need for fetal assessment
 - **B.** Acute fetal hemorrhage from ruptured exposed fetal vessels
@@ -198,7 +198,7 @@
 
 ### Q09. Which assessment most directly helps identify suspected fetal vessels crossing near the internal cervical os before labor?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Targeted transvaginal ultrasound with color Doppler by an appropriately trained clinician
 - **B.** Maternal pulse measurement alone
@@ -222,7 +222,7 @@
 
 ### Q10. A detailed fetal scan confirms a single umbilical artery with no other structural abnormality or soft marker. Under SMFM Consult #57, what is appropriate regarding aneuploidy evaluation solely for this isolated finding?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Mandatory invasive diagnostic testing in every case
 - **B.** No further assessment of fetal growth is ever appropriate
@@ -246,7 +246,7 @@
 
 ### Q11. What distinguishes a true umbilical cord knot from a false knot?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** A true knot is only a local accumulation of connective tissue
 - **B.** A true knot is an actual looped knot of the cord, while a false knot is a knot-like bulge
@@ -270,7 +270,7 @@
 
 ### Q12. An antenatal scan notes one nuchal cord loop and otherwise reassuring findings. Which counseling statement is most appropriate?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** This finding proves fetal hypoxia
 - **B.** Immediate cesarean delivery is mandatory regardless of other findings
@@ -294,7 +294,7 @@
 
 ### Q13. A cord lies between the presenting part and cervix while the membranes remain intact. Which term is most accurate?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Overt cord prolapse with ruptured membranes
 - **B.** Cord presentation
@@ -318,7 +318,7 @@
 
 ### Q14. After rupture of membranes, the cord descends alongside the presenting part but is not visible at the introitus. Which description is compatible with this finding?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Physiological cord clamping
 - **B.** Isolated cord pseudocyst
@@ -342,7 +342,7 @@
 
 ### Q15. In a maternity unit, confirmed cord prolapse causes acute fetal compromise. Which action by a trained maternity clinician can reduce compression while emergency birth is arranged?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Manually elevate the fetal presenting part according to the emergency protocol
 - **B.** Push the cord back into the uterus as routine treatment
@@ -366,7 +366,7 @@
 
 ### Q16. Which maternal position may help relieve cord compression while the emergency team manages cord prolapse in hospital?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Flat supine without tilt
 - **B.** Standing and walking unassisted
@@ -390,7 +390,7 @@
 
 ### Q17. Why should artificial rupture of membranes generally be avoided when the presenting part is high and mobile unless a specialist-controlled plan is in place?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** It inevitably causes placental accreta
 - **B.** It prevents all subsequent uterine contractions
@@ -414,7 +414,7 @@
 
 ### Q18. For a vigorous stable newborn without a need for immediate separated resuscitation, which timing matches WHO delayed cord clamping guidance?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Always within 5 seconds
 - **B.** Only after the placenta has been delivered in every birth
@@ -438,7 +438,7 @@
 
 ### Q19. Which benefit and monitoring consideration are associated with delayed cord clamping in term newborns?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Improved iron stores, with systems to monitor and treat neonatal jaundice when needed
 - **B.** Guaranteed prevention of every neonatal illness
@@ -462,7 +462,7 @@
 
 ### Q20. When paired umbilical arterial and venous blood gas samples are obtained at birth, why is identification of the arterial sample particularly important?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** The artery contains maternal systemic blood
 - **B.** Arterial blood better reflects fetal metabolic and acid–base status, while the venous sample helps validate and interpret the pair
