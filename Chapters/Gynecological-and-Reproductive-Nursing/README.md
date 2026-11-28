@@ -1,6 +1,6 @@
 # Gynecological and Reproductive Nursing
 
-**Advance-preparation, not marked studied.** This chapter has 444 original question slots: 4 preserved starters, 40 Menstrual Cycle/Ovulation MCQs, 40 Infertility MCQs, 40 Contraception MCQs, 40 RTI/STI/PID MCQs, 40 Fibroids/Endometriosis MCQs, 40 Gynecological Cancers/Cervical Screening MCQs, 40 Menopause/Perimenopause MCQs, 40 Gynecological Procedures MCQs, 40 Breast Disorders MCQs, 40 PCOS/Ovarian Cysts/Hormonal Disorders MCQs and 40 Pelvic Floor/Prolapse MCQs. Nine source-linked reported exam adaptations are indexed separately. It is not complete yet. Combined-bank counts do not mean each individual disorder has reached its final target.
+**Advance-preparation, not marked studied.** Ab is chapter mein 504 indexed original question slots hain: 4 preserved starters, 40 Menstrual Cycle/Ovulation MCQs, 40 Infertility MCQs, 40 Contraception MCQs, 40 RTI/STI/PID MCQs, 40 Fibroids/Endometriosis MCQs, 40 Gynecological Cancers/Cervical Screening MCQs, 40 Menopause/Perimenopause MCQs, 40 Gynecological Procedures MCQs, 40 Breast Disorders MCQs, 40 PCOS/Ovarian Cysts/Hormonal Disorders MCQs 40 Pelvic Floor/Prolapse MCQs, 30 Abnormal Uterine Bleeding MCQs aur 30 Amenorrhea/Endocrine Differential MCQs. Ten source-linked reported exam adaptations alag se indexed hain. Chapter abhi complete nahi hai. Combined-bank counts se individual disorder ki full coverage prove nahi hoti hai. Ek parallel 20-question combined menstrual-disorders bank bhi preserve kiya gaya hai. Uske questions ko distinct inventory mein abhi allocate nahi kiya gaya hai, kyunki learning-task overlap ka audit pending hai. Total physically published raw slots 524 hain. 504 indexed slots bhi comprehensive semantic audit ka substitute nahi hain.
 
 ## Study resources
 
@@ -104,6 +104,18 @@
 
 - [Q31–Q40](MCQs/11B-Pelvic-Floor-Prolapse-Expansion-Q31-40.md)
 
+### Abnormal uterine bleeding
+
+- [30 original MCQs](MCQs/12-Abnormal-Uterine-Bleeding-30-MCQs.md)
+
+### Amenorrhea and endocrine differential
+
+- [30 original MCQs](MCQs/13-Amenorrhea-and-Endocrine-Differential-30-MCQs.md)
+
+### Preserved parallel menstrual disorders bank — allocation audit pending
+
+- [20 raw practice slots](MCQs/12-Abnormal-Uterine-Bleeding-Amenorrhea-and-Dysmenorrhea-20-MCQs.md)
+
 ### Chapter-only mocks
 
 - [Mock plan](Mock-Tests/Gynecological-and-Reproductive-Nursing-Mock-Test-Plan.md)
@@ -116,9 +128,14 @@
 - [2 menopause/procedures adaptations](Previous-Year-Questions/07-08-Menopause-and-Gynecological-Procedures-Reported-Exam-Adaptations.md)
 - [1 prolapse adaptation](Previous-Year-Questions/11-Pelvic-Floor-and-Prolapse-Reported-Exam-Adaptations.md)
 - [2 breast/pelvic adaptations and PCOS evidence](Previous-Year-Questions/09-11-Breast-PCOS-Pelvic-Floor-Reported-Exam-Evidence.md)
+- [1 AUB/amenorrhea reported adaptation and related evidence](Previous-Year-Questions/12-13-AUB-Amenorrhea-Reported-Exam-Evidence.md)
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
 ## Remaining practice coverage — preliminary gap review
 
 All eleven current grouped banks contain 40 original slots each, plus four starters. Individual disease coverage is not yet certified. Prioritize separate meaningful learning gaps in abnormal uterine bleeding and menstrual disorders, amenorrhea and endocrine differential diagnosis, pelvic fistulas, vulvar and Bartholin gland disorders, and ovarian mass types. Reconcile overlap with Obstetrics and other chapters before writing. Complete topic-bank coverage and source/video gaps before ten distinct 120-question mock-exclusive tests. No reuse of topic-bank or historical questions in new mocks.
+
+## Next verified practice checkpoint — 28 November 2026
+
+AUB aur amenorrhea ke dedicated 30-question banks publish ho gaye hain. Parallel combined bank ko delete ya overwrite nahi kiya gaya hai. Combined bank Q2 aur Q4 pregnancy exclusion aur FBC ke tasks se overlap karte hain. Q7 anovulatory bleeding mechanism, Q8 biopsy selection, Q11 ovarian-level hormone pattern aur Q19 NSAID precautions jaise tasks bhi dedicated banks ya existing questions ke saath compare karne hain. Pehle in 20 preserved slots ko question-wise clinical aur semantic audit se allocate karo. Uske baad dedicated dysmenorrhea, PMS/PMDD, pelvic fistulas, vulvar aur Bartholin disorders, ovarian mass subtypes aur remaining syllabus gaps ke distinct questions complete karo. New mock tests mein kisi existing bank ka question reuse nahi hoga. Har new mock ke 120 questions independently author aur verify karne hain. Official PYQ evidence, specific YouTube practice aur full clinical/language audit abhi pending hain.

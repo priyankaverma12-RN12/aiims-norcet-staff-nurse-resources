@@ -48,3 +48,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 ## Breast, PCOS and pelvic floor historical evidence — 27 November 2026
 
 [Two reported adaptations and five related exam reports](09-11-Breast-PCOS-Pelvic-Floor-Reported-Exam-Evidence.md): AIIMS NORCET 20 November 2021 Shift II triple breast assessment, DSSSB Nursing Officer 28 August 2019 Shift 3 detrusor overactivity. Additional NORCET 9, NORCET 6, NORCET 2020 and AIIMS Raipur reports mapped to existing topics, without duplicate counting. Official booklets and keys not authenticated. **Nine reported adaptations indexed in total.** Exact question-level YouTube verification and further India-wide evidence pending.
+
+
+## AUB and amenorrhea historical evidence — 28 November 2026
+
+[One reported NORCET 9 Mains adaptation and related exam reports](12-13-AUB-Amenorrhea-Reported-Exam-Evidence.md) mein 27 September 2025 ka Asherman syndrome-related reported question include kiya gaya hai. AIIMS Raipur 2019 aur NORCET 2021 metrorrhagia reports, AIIMS Bhubaneswar 2019 dysmenorrhea aur DSSSB 2019 PMS report ko duplicate counting se bachne ke liye evidence leads ke roop mein rakha gaya hai. Ab 10 reported adaptations indexed hain. Official booklets, keys aur exact-item video verification abhi pending hain.
