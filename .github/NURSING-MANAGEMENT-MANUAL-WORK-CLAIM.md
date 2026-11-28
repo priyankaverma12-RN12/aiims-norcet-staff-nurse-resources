@@ -1,5 +1,15 @@
 # Nursing Management and Education manual claim
 
+State: CLAIMED
+Owner: integration-pr40-staffing-concepts-20261128T1156Z
+Scope: isolated PR40 staffing and delegation concept guide and direct bank cross-link only. Preserve prior five corrections and all question identities. No shared navigation or clinical main publication.
+Claimed UTC: 2026-11-28T11:56:00Z
+Expiry UTC: 2026-11-28T12:26:00Z
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at PR40.
