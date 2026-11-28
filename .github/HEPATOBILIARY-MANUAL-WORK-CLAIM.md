@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b05-20261128-1043Z
-Scope: PR60 isolated HCV, HDV, HEV, MASLD and postoperative biliary nursing new banks only, no shared navigation.
-Claimed UTC: 2026-11-28T10:43:00Z
-Expiry UTC: 2026-11-28T11:13:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -28,3 +28,7 @@ Candidate head 0cad3274e41ca07fc152763ffc204a4264d849e6. Added 100 original MCQs
 ## Batch 04 released checkpoint — 28 November 2026
 
 Candidate head 6f93557a2e376e71b507afbc225b74e1fe9511ac. Added 100 new original MCQs across five banks and 400 separate rationales. 340 staged originals, 1360 rationales, 340 exam clues, seventeen banks, six guides and one SVG. Exact readbacks passed. Zero normalized exact overlap with all 244 earlier candidate/starter headings. Prior twelve banks and other content preserved. No live credit, new mock or PYQ. Continue same PR60 after ownership verification, prioritizing remaining distinct hepatitis C/D/E, metabolic steatotic and postoperative biliary objectives. Independent review, source/video, guides/diagrams, preflight and integration gates remain pending. Other claims, learner history and five hourly schedules untouched.
+
+## Batch 05 released checkpoint — 28 November 2026
+
+Candidate head 49b628e91078ec5928e2372ccf239a2fb67bed8e. Added 100 original MCQs across five new banks and 400 individual Roman Hinglish rationales. 440 staged originals, 1760 rationales, 440 clues, twenty-two banks, six guides and one SVG. All five bank and inventory exact readbacks passed, 100 aligned keys, zero normalized exact matches against 344 previous candidate and starter headings. Prior seventeen banks and other clinical content preserved. No new live originals, mocks or PYQs credited. Continue same PR60 only after ownership verification, prioritizing verified uncovered alcohol-associated liver disease, hepatorenal syndrome, hepatopulmonary/portopulmonary complications, transplantation and pancreatic neoplasms or other distinct topics after sibling coordination. Independent clinical, semantic, source/pharmacy/video, companion guides and diagrams, full preflight and integration gates remain pending. Other claims, learner history and five hourly schedules unchanged.
