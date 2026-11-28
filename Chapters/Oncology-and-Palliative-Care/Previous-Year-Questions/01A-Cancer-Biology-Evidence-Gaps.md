@@ -1,0 +1,51 @@
+# Cancer Cell Biology — question-level historical research and video gaps
+
+**Candidate evidence register, 28 November 2026.** No new official PYQ count. Reported exam evidence and original questions are different inventories.
+
+[Chapter](../README.md) · [Original MCQs](../MCQs/01A-Cancer-Cell-Biology-20-MCQs.md) · [Concepts](../Concepts/01A-Cancer-Cell-Biology.md) · [Chapter research register](Oncology-and-Palliative-Care-Past-Paper-Research-Register.md)
+
+## Retrieved historical item
+
+**🔵 Reported recall — AIIMS NORCET, 20 November 2021.** [Third-party question and explanation](https://testbook.com/question-answer/cancer-found-in-connective-tissue-is--61b99890908510dedf5d1eb9). The opened page attributes a connective tissue malignancy classification question to this memory-based paper. It gives sarcoma as its answer. NCI classification supports the core concept. Official paper and key have not been authenticated.
+
+Original bank Q13 already assesses the relevant learning task through a bone-forming tumor report. Preserve that original identity and treat the historical item as a related concept, not a second counted question. A separate near-duplicate adaptation would inflate the inventory. Do not label Q13 as verbatim NORCET.
+
+## Other historical leads for subsequent topic packages
+
+| Exam and item | Evidence state | Topic |
+|---|---|---|
+| [NORCET 2, 2021 shift 1, Q20](https://nextnurse.in/pyq/norcet/norcet-norcet-2-shift-1) | Indexed third-party text about biopsy guidance. Official key not retrieved. | Diagnostic assessment |
+| [NORCET 3, 2022 shift 2, Q106](https://nextnurse.in/pyq/norcet/norcet-norcet-3-shift-2) | Indexed third-party item. Official key pending. | Breast surgery |
+| [RRB Nursing Superintendent, 29 April 2025 shift 2, Q3](https://nextnurse.in/pyq/rrb-nursing-superintendent/rrb-nursing-superintendent-rrb-nsg-superintendent-29-april-2025-shift-2nd) | Indexed organ-specific metastasis question. Context and official key pending. Avoid asserting a universal commonest site. | Lung cancer |
+| [UPPSC Staff Nurse, 17 December 2017](https://testbook.com/question-answer/tnm-classification-system-is-used-in-clinical-stag--614b04192d8be1ba6728b668) | Indexed third-party TNM question. Full source and key verification pending. | Staging |
+| [AIIMS Mangalagiri 2019, reported Q26](https://nextnurse.in/pyq/aiims-nursing-officer/aiims-nursing-officer-aiims-manglagiri-no-2019) | Indexed distant metastasis staging item. Cancer-specific stage caveats and key authentication pending. | Staging |
+| [HPRCA assistant staff nurse post code 25026](https://hprca.hp.gov.in/ViewPDF.aspx?fn=dKuXMg1BFFNTOwmS7koYpMhGlPaYOWkPzrun4W%2FnYlA%3D) | Indexed official final key listing dated 29 May 2026. Matching oncology question and answer not established. | Research queue |
+
+[PGIMER 2025](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-nursing-officer-2025), [DSSSB October 2024](https://nextnurse.in/pyq/dsssb-nursing-officer/dsssb-nursing-officer-dsssb-october-2024) and [AIIMS CRE 2025](https://nextnurse.in/pyq/aiims-cre/aiims-cre-aiims-cre-2025) have indexed oncology items requiring individual retrieval. ESIC, SGPGI, JIPMER, HPSSC, CHO and other examinations remain to be searched at question level. No archive-only lead counts as a solved item.
+
+## Video verification
+
+[Juf Danielle — Oncology: from Cell to Disease](https://www.youtube.com/watch?v=82GcOQ_fJ8I) provides description-level topic coverage for Q1–8 and Q15–18. [Concept RNA Nursing Coaching — Oncology One Shot Revision](https://www.youtube.com/watch?v=LRfNzoiQhpU) describes foundational oncology coverage. [Oncology Nursing MCQs with Answer](https://www.youtube.com/watch?v=HNV8IlEtJfY) is an indexed quiz candidate. [Study With Anam — Oncology Nursing MCQ](https://www.youtube.com/watch?v=28tgWXx-KlU) has retrieved title/channel and general oncology quiz description. Exact Q1–20 video coverage, transcript, timestamps and playback have not been verified. No claimed exact video question matches.
+
+## Evidence limits
+
+NCI cancer biology and genetics and WHO cancer pages were opened. NCI grade and stage results were indexed. INC Adult Health Nursing II Unit VIII, printed page 323, was retrieved as extracted PDF text. Screenshot retrieval failed. Source-linked historical adaptations, official paper/key pairs, precise video matches and comprehensive cross-repository semantic review remain pending. Do not treat the candidate as final publication.
+
+## Continuation research — 28 November 2026
+
+- Reopened NCI cancer biology, cancer genetics, SEER cancer terms and cell cycle, NCI biomarker testing, prognosis and MRD definition. Supplemental Q1–10 link to relevant individual clinical sources. New clinical source review supports the stated keys. Independent reviewer and comprehensive semantic audit remain pending.
+- INC revised B.Sc. Nursing curriculum PDF extracted successfully, printed page 323 (PDF index 109), lines 8437–8466: normal and malignant cell structure, assessment, prevention and screening, classification, staging, malignancies, emergencies, treatment, radiation safety and supportive/hospice care. Screenshot attempt failed. Curriculum alignment based on extracted text only.
+- HPRCA official site search index lists final key for Assistant Staff Nurse 25026 dated 29 May 2026. Direct reopening failed. Himexam paper archive opened and lists five available shift links for 4–5 May 2026. Paper content and official question-key pairs not authenticated. Proud of Nurses 4 May 2026 Shift 1 source indexed, direct open failed. [Official listing](https://hprca.hp.gov.in/homepage?id=2) · [Paper archive](https://himexam.com/hprca-hamirpur-staff-nurse-post-code-25026-question-paper-held-on-04-05-may-2026/).
+- RRB Nursing Superintendent, 29 April 2025 Shift 3: [retrieved third-party reported question](https://testbook.com/question-answer/which-of-the-following-is-a-cell-cycle-specific-dr--681dd591b9cda766fb90c103) concerns M-phase targeted chemotherapy. Page lists paclitaxel as its answer. Official key not retrieved. Retain this as a future chemotherapy pharmacology adaptation lead, not a counted biology PYQ or an authenticated official item. Coordinate Pharmacology PR29 before separate drug questions.
+- [General oncology MCQ video](https://www.youtube.com/watch?v=HNV8IlEtJfY) indexed with oncology and cancer biology practice tags. Direct retrieval failed, channel and exact question mappings unavailable. All 10 new specific video mappings remain pending. No invented timestamps.
+- [Supplemental 10 MCQs](../MCQs/01A-Cancer-Cell-Biology-Supplement-10-MCQs.md) and [extended theory](../Concepts/01A-Cancer-Cell-Biology-Extended-Theory.md) now staged. The 30 original question slots and 120 rationales remain candidate-only. No additional counted historical adaptations or mocks.
+
+## Second continuation — 40 original biology questions staged
+
+Fresh research: NCI [What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer), [telomerase definition](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/telomerase), and [SEER cancer terminology](https://training.seer.cancer.gov/disease/cancer/terms.html) directly opened. NCI sentinel node, ovarian cancer peritoneal implantation, necrosis, local hypoxia, paraneoplastic effects, cancer myths and SEER routes of spread retrieved at indexed evidence level. The ten new application questions link to these specific source pages. INC Gazette PDF directly opened and the oncology syllabus and neoplasia routes of spread text located. Screenshot page 109 failed with cache miss.
+
+HP research: [Himexam HP paper directory](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/) opened with 25026, 26004 and historical HPSSC 2020–2022 links. [HPSSC October 2020 paper](https://ramanacademy.in/previous-papers/staff-nurse-hpssc-october-2020/) and [HPRCA 25026 Shift 2](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/25026-shift-2-04-may-2026) indexed but direct retrieval failed. [Official HPRCA 29 May 2026 final key listing](https://hprca.hp.gov.in/ViewPDF.aspx?fn=dKuXMg1BFFNTOwmS7koYpMhGlPaYOWkPzrun4W%2FnYlA%3D) indexed, direct retrieval failed. No matched official question-key pair. [AIIMS Mangalagiri 21 September 2019 reported staging question](https://testbook.com/question-answer/what-is-the-stage-of-a-tumor-if-it-is-of-any-size--6297354ad586df79efc69cb5) and [UPPSC 17 December 2017 TNM report](https://testbook.com/question-answer/tnm-classification-system-is-used-in-clinical-stag--614b04192d8be1ba6728b668) indexed as future staging leads. A third-party RRB 29 April 2025 Shift I Q44 TNM item also indexed. No new question-level historical adaptation counted this run. Retain prior evidence records and their limitations.
+
+Video: [Oncology Nursing MCQs with Answer](https://www.youtube.com/watch?v=HNV8IlEtJfY) indexed description includes cancer biology, classification and metastasis. [Oncology Cancer Related FAQs PYQs MCQs Class 853](https://www.youtube.com/watch?v=7VfbaCm10Yk) indexed as additional dedicated practice candidate. [Oncology Part 1 NORCET 6](https://www.youtube.com/watch?v=_4qSgC7WOX8) indexed teaching description covers biology and classification. Exact question matches and playback not verified. All ten new item-specific mappings remain pending.
+
+[Application bank](../MCQs/01A-Cancer-Cell-Biology-Application-10-MCQs.md) and [application concept guide](../Concepts/01A-Cancer-Cell-Biology-Application.md) staged, with 40 individual additional option rationales. Combined 40 originals, 160 rationales and four unchanged legacy starter questions. No live credit until coordinated integration.
