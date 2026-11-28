@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: ACTIVE
+Owner: easy-medium-ipc-b05-20261128T133600Z
+Scope: PR68 IPC biomedical waste and occupational exposure supplementary banks only
+Claimed UTC: 2026-11-28T13:36:00Z
+Expiry UTC: 2026-11-28T14:06:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
