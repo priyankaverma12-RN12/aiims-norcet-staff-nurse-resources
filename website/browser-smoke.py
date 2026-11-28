@@ -135,6 +135,7 @@ try:
             expect(page.locator(panel_id)).to_have_attribute("open","")
         page.locator("#library-link").click()
         expect(cards).to_have_count(count,timeout=30000)
+        assert page.locator("#library .library-toolbar").evaluate("e=>Math.abs(e.querySelector('h1').getBoundingClientRect().left-e.getBoundingClientRect().left)<2")
         print("V12.5 desktop dedicated Library, legacy route and expanded Home passed.",flush=True)
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
@@ -556,6 +557,8 @@ try:
                 expect(mobile.locator("#library-filters")).to_be_visible()
                 assert mobile.locator("#library-search-toggle").bounding_box()["height"]>=44
                 print(f"V12 compact mobile library and independent panels passed at {width}x{height}.",flush=True)
+            assert mobile.locator("#library .library-toolbar").evaluate("e=>Math.abs(e.querySelector('h1').getBoundingClientRect().left-e.getBoundingClientRect().left)<2")
+            assert mobile.locator("#library .library-toolbar .panel-icon").evaluate_all("els=>els.every(e=>e.getBoundingClientRect().width>=44&&e.getBoundingClientRect().height>=44)")
             print(f"V12.5 separate Library and expanded Home passed at {width}x{height}.",flush=True)
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
@@ -690,6 +693,9 @@ try:
                 expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
                 expect(mobile.locator(".history-period")).to_have_count(3)
                 no_overflow(mobile)
+                assert mobile.locator(".history-periods").evaluate("e=>{const r=[...e.children].map(c=>c.getBoundingClientRect());return r.length===3&&Math.max(...r.map(x=>x.top))-Math.min(...r.map(x=>x.top))<2&&Math.max(...r.map(x=>x.width))-Math.min(...r.map(x=>x.width))<2}")
+                assert mobile.locator("#metrics .metrics-totals").evaluate("e=>[...e.children].every(c=>c.getBoundingClientRect().width>0)")
+                print(f"V12.6 aligned Metrics cards passed at {width}x{height}.",flush=True)
                 print(f"V12.4 compact Metrics filter and activity cards passed at {width}x{height}.",flush=True)
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
@@ -717,7 +723,8 @@ try:
                     filter_icon.tap()
                     expect(mobile.locator("#progress-chapter")).to_have_value("Nursing-Foundations")
                     no_overflow(mobile)
-                    print(f"V12.1 compact progress filter icon passed at {width}x{height}.",flush=True)
+                    assert mobile.locator("#progress-filter-toggle").evaluate("e=>e.getBoundingClientRect().width>=44&&e.getBoundingClientRect().height>=44")
+                print(f"V12.1 compact progress filter icon passed at {width}x{height}.",flush=True)
                 else:
                     expect(mobile.locator("#progress-filter-toggle")).to_be_hidden()
                     expect(mobile.locator("#progress-chapter")).to_be_visible()
