@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: community-pr61-b09-20261128-1225Z
-Scope: PR61 Batch09 Easy/Medium balance, deficient banks 06–12,14–20,22–23 only; defer PR62 overlapping 01–05, PR66 malaria/communicable, and adjacent specialist topics. Add separate topic-mapped supplements, preserve all original IDs. No PR62 or shared navigation changes.
-Claimed UTC: 2026-11-28T12:25:35Z
-Expiry UTC: 2026-11-28T12:55:35Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -44,3 +44,8 @@ PR61 verified head `2dfba05bd2db59fe0cb439be51366e11c1e01d56`. Added five actual
 ## PR61 Batch 08 checkpoint — 28 November 2026
 
 PR61 verified head `2462be3a9491bc6861d27ec178e232487f8f0105`. Added five actual topic banks (dengue/chikungunya community control, JE programme surveillance, maternal entitlements, FBNC facility organization, Indian health planning committees), 100 original MCQs, 400 individual Roman Hinglish rationales and 100 clues. Each bank 7 Easy/7 Medium/6 Difficult, batch total 35/35/30. Cumulative 800 staged originals, 3200 rationales, 40 banks, 87 Easy/376 Medium/337 Difficult. Exact readbacks and incremental structure checks passed, 100 distinct new normalized stems, zero exact matches against 704 prior PR61/legacy and 200 PR62 stems. Compare verified all 35 previous banks unchanged. PR39 NPHCE and PR35 nutrition programme scopes deferred due to existing banks; PR66 JE clinical stems screened and public-health focus retained. PR62 handoff 7238748603 read, head 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5. No new live credit, mocks or PYQs. Official NCVBDC, WHO, NHM and NIHFW sources retrieved and linked; item-level evidence, independent clinical/semantic/difficulty review, curriculum, concepts/diagrams/videos, CI and navigation pending. Prior banks remain Easy-deficient; coordinate balancing lane. Verify genuine remaining curriculum gaps and reconcile PR62 before mocks, then exactly 40/40/40 per 120-question original-only mock. Preserve all other sessions and five schedules; avoid repeated audits.
+
+
+## PR61 Batch 09 checkpoint — 28 November 2026
+
+PR61 verified head `7599266a6df8890111a48abcf99f0e649d12cf6d`. Added 96 Easy originals in 16 topic-mapped six-question balance supplements (banks 06–12,14–20,22–23), 384 individual Roman Hinglish rationales and 96 clues. All selected banks had only 1–2 Easy versus 9–11 Medium questions; Easy-only deficit additions, not a forced split. Cumulative 896 staged originals, 3584 rationales, 40 original topic banks plus 16 supplements; 183 Easy/376 Medium/337 Difficult. All supplements and five refinements verified by exact readback; recovered HMIS remote write after disconnect without duplication. 96 distinct normalized new stems, no structural errors, no exact matches against 320 prior corresponding bank stems in two scoped comparison groups. Full cross-topic/adjacent/PR62 semantic comparison remains pending. Compare shows only 16 new files and zero deletions, all 40 original banks intact. PR62 coordination 7238748603 read; sibling head 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5 preserved. Overlapping initial topics deferred, proposed single authoritative inventory reconciliation recorded but not executed; no mocks/PYQs or live credit, full curriculum/independent item evidence/clinical/semantic/difficulty/video/CI/navigation release gates pending. Next verify remaining curriculum and reserve distinct deficient topics for up to 100 new Easy/Medium questions; coordinate PR62 reconciliation before mocks. Preserve other sessions, learner history and five schedules; no retrospective audit repetition.
