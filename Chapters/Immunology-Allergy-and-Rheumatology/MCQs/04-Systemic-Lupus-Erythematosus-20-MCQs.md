@@ -8,17 +8,15 @@
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Immune attack against the person's own tissues
+- **A.** Immune attack against the person's own tissues
+- **B.** Persistent bacterial invasion of all joints
 
-B. Persistent bacterial invasion of all joints
-
-C. Inherited absence of every antibody class
-
-D. Mechanical wear of a single joint
+- **C.** Inherited absence of every antibody class
+- **D.** Mechanical wear of a single joint
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Immune attack against the person's own tissues
+**Correct answer: A. Immune attack against the person's own tissues**
 
 **A kyun sahi hai:** SLE mein immune tolerance disturb hoti hai aur apne tissues ke against inflammation hota hai.
 
@@ -30,7 +28,7 @@ D. Mechanical wear of a single joint
 
 **Exam clue:** Autoimmunity aur immunodeficiency ko alag rakho.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus)
 
 </details>
 
@@ -38,17 +36,15 @@ D. Mechanical wear of a single joint
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Ring-shaped lesion with a raised scaly border
+- **A.** Ring-shaped lesion with a raised scaly border
+- **B.** Malar rash over the cheeks and nasal bridge
 
-B. Malar rash over the cheeks and nasal bridge
-
-C. Dermatomal vesicles on one side
-
-D. Honey-coloured crust around the lips
+- **C.** Dermatomal vesicles on one side
+- **D.** Honey-coloured crust around the lips
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Malar rash over the cheeks and nasal bridge
+**Correct answer: B. Malar rash over the cheeks and nasal bridge**
 
 **A kyun galat hai:** Raised scaly ring fungal infection ka clue ho sakta hai.
 
@@ -60,7 +56,7 @@ D. Honey-coloured crust around the lips
 
 **Exam clue:** Butterfly distribution ko yaad rakho, lekin rash alone diagnostic nahi.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus)
 
 </details>
 
@@ -68,17 +64,15 @@ D. Honey-coloured crust around the lips
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Prothrombin time
+- **A.** Prothrombin time
+- **B.** Blood urea nitrogen
 
-B. Blood urea nitrogen
-
-C. Antinuclear antibody test
-
-D. Serum troponin
+- **C.** Antinuclear antibody test
+- **D.** Serum troponin
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Antinuclear antibody test
+**Correct answer: C. Antinuclear antibody test**
 
 **A kyun galat hai:** Prothrombin time coagulation assess karta hai.
 
@@ -90,7 +84,7 @@ D. Serum troponin
 
 **Exam clue:** ANA ka full form antinuclear antibody hai.
 
-**Clinical reference:** https://rheumatology.org/patients/antinuclear-antibodies-ana
+**Clinical reference:** [Clinical guidance](https://rheumatology.org/patients/antinuclear-antibodies-ana)
 
 </details>
 
@@ -98,17 +92,15 @@ D. Serum troponin
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Amoxicillin
+- **A.** Amoxicillin
+- **B.** Salbutamol
 
-B. Salbutamol
-
-C. Ferrous sulfate
-
-D. Hydroxychloroquine
+- **C.** Ferrous sulfate
+- **D.** Hydroxychloroquine
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Hydroxychloroquine
+**Correct answer: D. Hydroxychloroquine**
 
 **A kyun galat hai:** Amoxicillin bacterial infections ke liye hai.
 
@@ -120,7 +112,7 @@ D. Hydroxychloroquine
 
 **Exam clue:** HCQ lupus ka foundational disease-control agent hai.
 
-**Clinical reference:** https://pubmed.ncbi.nlm.nih.gov/41182321/
+**Clinical reference:** [Clinical guidance](https://pubmed.ncbi.nlm.nih.gov/41182321/)
 
 </details>
 
@@ -128,17 +120,15 @@ D. Hydroxychloroquine
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Cardiovascular system
+- **A.** Cardiovascular system
+- **B.** Urinary collecting system
 
-B. Urinary collecting system
-
-C. Auditory system
-
-D. Endocrine pancreas
+- **C.** Auditory system
+- **D.** Endocrine pancreas
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Cardiovascular system
+**Correct answer: A. Cardiovascular system**
 
 **A kyun sahi hai:** Pericardium heart ke surrounding sac ko kehte hain aur pericarditis cardiovascular involvement hai.
 
@@ -150,7 +140,7 @@ D. Endocrine pancreas
 
 **Exam clue:** Pericardium heart se associated hai.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus)
 
 </details>
 
@@ -158,17 +148,15 @@ D. Endocrine pancreas
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Seroconversion
+- **A.** Seroconversion
+- **B.** Flare
 
-B. Flare
-
-C. Remission
-
-D. Incubation period
+- **C.** Remission
+- **D.** Incubation period
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Flare
+**Correct answer: B. Flare**
 
 **A kyun galat hai:** Seroconversion detectable antibodies develop hone ko kehte hain.
 
@@ -180,7 +168,7 @@ D. Incubation period
 
 **Exam clue:** Flare worsening aur remission control ko indicate karta hai.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus)
 
 </details>
 
@@ -188,17 +176,15 @@ D. Incubation period
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Spirometry alone
+- **A.** Spirometry alone
+- **B.** Stool microscopy
 
-B. Stool microscopy
-
-C. Ophthalmic assessment
-
-D. Routine audiometry alone
+- **C.** Ophthalmic assessment
+- **D.** Routine audiometry alone
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Ophthalmic assessment
+**Correct answer: C. Ophthalmic assessment**
 
 **A kyun galat hai:** Spirometry lung function measure karti hai.
 
@@ -210,7 +196,7 @@ D. Routine audiometry alone
 
 **Exam clue:** HCQ therapy mein retinal monitoring ko identify karo.
 
-**Clinical reference:** https://doi.org/10.1093/rheumatology/keag223
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
 
 </details>
 
@@ -218,17 +204,15 @@ D. Routine audiometry alone
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Tell the adult that SLE is confirmed
+- **A.** Tell the adult that SLE is confirmed
+- **B.** Start glucocorticoids without clinical evaluation
 
-B. Start glucocorticoids without clinical evaluation
-
-C. Advise permanent isolation from family
-
-D. Explain that ANA alone does not establish an SLE diagnosis
+- **C.** Advise permanent isolation from family
+- **D.** Explain that ANA alone does not establish an SLE diagnosis
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Explain that ANA alone does not establish an SLE diagnosis
+**Correct answer: D. Explain that ANA alone does not establish an SLE diagnosis**
 
 **A kyun galat hai:** Single antibody test se SLE confirm nahi hota.
 
@@ -240,7 +224,7 @@ D. Explain that ANA alone does not establish an SLE diagnosis
 
 **Exam clue:** Sensitive test aur definitive diagnosis mein difference hai.
 
-**Clinical reference:** https://rheumatology.org/patients/antinuclear-antibodies-ana
+**Clinical reference:** [Clinical guidance](https://rheumatology.org/patients/antinuclear-antibodies-ana)
 
 </details>
 
@@ -248,17 +232,15 @@ D. Explain that ANA alone does not establish an SLE diagnosis
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Use protective clothing and broad-spectrum sunscreen with appropriate reapplication
+- **A.** Use protective clothing and broad-spectrum sunscreen with appropriate reapplication
+- **B.** Use tanning beds to build tolerance
 
-B. Use tanning beds to build tolerance
-
-C. Apply sunscreen only after redness develops
-
-D. Stop all prescribed lupus medicines during summer
+- **C.** Apply sunscreen only after redness develops
+- **D.** Stop all prescribed lupus medicines during summer
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Use protective clothing and broad-spectrum sunscreen with appropriate reapplication
+**Correct answer: A. Use protective clothing and broad-spectrum sunscreen with appropriate reapplication**
 
 **A kyun sahi hai:** UV exposure cutaneous lupus flare trigger kar sakta hai, barriers aur sunscreen exposure kam karte hain.
 
@@ -270,7 +252,7 @@ D. Stop all prescribed lupus medicines during summer
 
 **Exam clue:** UV protection flare prevention ka part hai.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/08/23/ard-2023-224416
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/08/23/ard-2023-224416)
 
 </details>
 
@@ -278,17 +260,15 @@ D. Stop all prescribed lupus medicines during summer
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Replace the medicine with an unreviewed herbal product
+- **A.** Replace the medicine with an unreviewed herbal product
+- **B.** Follow the prescribed taper and do not stop abruptly
 
-B. Follow the prescribed taper and do not stop abruptly
-
-C. Stop the medicine immediately when pain improves
-
-D. Double every dose whenever tired
+- **C.** Stop the medicine immediately when pain improves
+- **D.** Double every dose whenever tired
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Follow the prescribed taper and do not stop abruptly
+**Correct answer: B. Follow the prescribed taper and do not stop abruptly**
 
 **A kyun galat hai:** Unreviewed herbal substitution disease control aur interactions ka risk hai.
 
@@ -300,7 +280,7 @@ D. Double every dose whenever tired
 
 **Exam clue:** Long-term glucocorticoid ko independently discontinue mat karo.
 
-**Clinical reference:** https://doi.org/10.1093/rheumatology/keag223
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
 
 </details>
 
@@ -308,17 +288,15 @@ D. Double every dose whenever tired
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Advise continuous bed rest for every patient
+- **A.** Advise continuous bed rest for every patient
+- **B.** Tell the person to stop follow-up
 
-B. Tell the person to stop follow-up
-
-C. Assess sleep, mood, medication effects and possible medical causes
-
-D. Assume fatigue always indicates active nephritis
+- **C.** Assess sleep, mood, medication effects and possible medical causes
+- **D.** Assume fatigue always indicates active nephritis
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Assess sleep, mood, medication effects and possible medical causes
+**Correct answer: C. Assess sleep, mood, medication effects and possible medical causes**
 
 **A kyun galat hai:** Prolonged bed rest deconditioning badha sakta hai.
 
@@ -330,7 +308,7 @@ D. Assume fatigue always indicates active nephritis
 
 **Exam clue:** Persistent fatigue ka cause assess karo, assumption nahi.
 
-**Clinical reference:** https://doi.org/10.1093/rheumatology/keag223
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
 
 </details>
 
@@ -338,17 +316,15 @@ D. Assume fatigue always indicates active nephritis
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Recommend abrasive scrubbing over ulcers
+- **A.** Recommend abrasive scrubbing over ulcers
+- **B.** Restrict all fluids until ulcers heal
 
-B. Restrict all fluids until ulcers heal
-
-C. Ignore the finding because ulcers cannot occur in SLE
-
-D. Assess pain and hydration and arrange appropriate oral care
+- **C.** Ignore the finding because ulcers cannot occur in SLE
+- **D.** Assess pain and hydration and arrange appropriate oral care
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Assess pain and hydration and arrange appropriate oral care
+**Correct answer: D. Assess pain and hydration and arrange appropriate oral care**
 
 **A kyun galat hai:** Abrasive brushing trauma badha sakti hai.
 
@@ -360,7 +336,7 @@ D. Assess pain and hydration and arrange appropriate oral care
 
 **Exam clue:** Mucosal involvement ko nutrition aur comfort se link karo.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -368,17 +344,15 @@ D. Assess pain and hydration and arrange appropriate oral care
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Glucocorticoids increase osteoporosis and fracture risk
+- **A.** Glucocorticoids increase osteoporosis and fracture risk
+- **B.** Glucocorticoids always increase bone density
 
-B. Glucocorticoids always increase bone density
-
-C. Bone monitoring is only for people with a fracture today
-
-D. Lupus treatment makes dietary calcium irrelevant
+- **C.** Bone monitoring is only for people with a fracture today
+- **D.** Lupus treatment makes dietary calcium irrelevant
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Glucocorticoids increase osteoporosis and fracture risk
+**Correct answer: A. Glucocorticoids increase osteoporosis and fracture risk**
 
 **A kyun sahi hai:** Long-term steroids bone loss ka risk badhate hain, individualized fracture prevention review important hai.
 
@@ -390,7 +364,7 @@ D. Lupus treatment makes dietary calcium irrelevant
 
 **Exam clue:** Steroid exposure aur bone protection ko pair karo.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
 
 </details>
 
@@ -398,17 +372,15 @@ D. Lupus treatment makes dietary calcium irrelevant
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Assume pregnancy has no effect on monitoring needs
+- **A.** Assume pregnancy has no effect on monitoring needs
+- **B.** Arrange preconception review of disease activity and medication safety
 
-B. Arrange preconception review of disease activity and medication safety
-
-C. Stop all medicines immediately before trying to conceive
-
-D. Wait until labour to disclose the lupus diagnosis
+- **C.** Stop all medicines immediately before trying to conceive
+- **D.** Wait until labour to disclose the lupus diagnosis
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Arrange preconception review of disease activity and medication safety
+**Correct answer: B. Arrange preconception review of disease activity and medication safety**
 
 **A kyun galat hai:** Pregnancy mein maternal aur fetal monitoring individualized hoti hai.
 
@@ -420,7 +392,7 @@ D. Wait until labour to disclose the lupus diagnosis
 
 **Exam clue:** Preconception review pregnancy-related risks reduce karne mein madad karta hai.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/lupus/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/lupus/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -428,17 +400,15 @@ D. Wait until labour to disclose the lupus diagnosis
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Wait for an outpatient ANA result
+- **A.** Wait for an outpatient ANA result
+- **B.** Give only antipyretics and send the patient home
 
-B. Give only antipyretics and send the patient home
-
-C. Activate urgent sepsis assessment while informing the treating team
-
-D. Assume a lupus flare and independently increase steroids
+- **C.** Activate urgent sepsis assessment while informing the treating team
+- **D.** Assume a lupus flare and independently increase steroids
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Activate urgent sepsis assessment while informing the treating team
+**Correct answer: C. Activate urgent sepsis assessment while informing the treating team**
 
 **A kyun galat hai:** ANA emergency instability explain karne ke liye immediate test nahi.
 
@@ -450,7 +420,7 @@ D. Assume a lupus flare and independently increase steroids
 
 **Exam clue:** Immunosuppressed patient mein instability ko emergency samjho.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
 
 </details>
 
@@ -458,17 +428,15 @@ D. Assume a lupus flare and independently increase steroids
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Massage the calf deeply to improve circulation
+- **A.** Massage the calf deeply to improve circulation
+- **B.** Recommend walking vigorously until the pain resolves
 
-B. Recommend walking vigorously until the pain resolves
-
-C. Document the finding as an expected skin flare
-
-D. Arrange urgent assessment for venous thrombosis
+- **C.** Document the finding as an expected skin flare
+- **D.** Arrange urgent assessment for venous thrombosis
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Arrange urgent assessment for venous thrombosis
+**Correct answer: D. Arrange urgent assessment for venous thrombosis**
 
 **A kyun galat hai:** Suspected DVT mein deep massage appropriate nahi.
 
@@ -480,7 +448,7 @@ D. Arrange urgent assessment for venous thrombosis
 
 **Exam clue:** Antiphospholipid syndrome mein thrombosis ke warning signs pehchano.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
 
 </details>
 
@@ -488,17 +456,15 @@ D. Arrange urgent assessment for venous thrombosis
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Congenital heart block
+- **A.** Congenital heart block
+- **B.** Pyloric stenosis from maternal antibodies
 
-B. Pyloric stenosis from maternal antibodies
-
-C. Neural tube defect as an inevitable outcome
-
-D. Haemophilia caused by anti-Ro antibodies
+- **C.** Neural tube defect as an inevitable outcome
+- **D.** Haemophilia caused by anti-Ro antibodies
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Congenital heart block
+**Correct answer: A. Congenital heart block**
 
 **A kyun sahi hai:** Maternal anti-Ro antibodies neonatal lupus aur congenital heart block se associated hain, specialist monitoring plan individualize hota hai.
 
@@ -510,7 +476,7 @@ D. Haemophilia caused by anti-Ro antibodies
 
 **Exam clue:** Anti-Ro aur fetal conduction risk ka association yaad rakho.
 
-**Clinical reference:** https://doi.org/10.1093/rheumatology/keag223
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
 
 </details>
 
@@ -518,17 +484,15 @@ D. Haemophilia caused by anti-Ro antibodies
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Change immunosuppression independently using only one result
+- **A.** Change immunosuppression independently using only one result
+- **B.** Correlate them with symptoms and organ assessment before judging activity
 
-B. Correlate them with symptoms and organ assessment before judging activity
-
-C. Diagnose bacterial sepsis solely from these values
-
-D. Declare permanent remission without examination
+- **C.** Diagnose bacterial sepsis solely from these values
+- **D.** Declare permanent remission without examination
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Correlate them with symptoms and organ assessment before judging activity
+**Correct answer: B. Correlate them with symptoms and organ assessment before judging activity**
 
 **A kyun galat hai:** Treatment decision clinician complete assessment ke basis par karta hai.
 
@@ -540,7 +504,7 @@ D. Declare permanent remission without examination
 
 **Exam clue:** Serology supportive evidence hai, isolated treatment trigger nahi.
 
-**Clinical reference:** https://doi.org/10.1093/rheumatology/keag223
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
 
 </details>
 
@@ -548,17 +512,15 @@ D. Declare permanent remission without examination
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Place an object between the teeth
+- **A.** Place an object between the teeth
+- **B.** Delay assessment until the next rheumatology visit
 
-B. Delay assessment until the next rheumatology visit
-
-C. Protect the airway and patient from injury, then arrange urgent assessment of causes
-
-D. Assume all seizures in lupus are harmless flares
+- **C.** Protect the airway and patient from injury, then arrange urgent assessment of causes
+- **D.** Assume all seizures in lupus are harmless flares
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Protect the airway and patient from injury, then arrange urgent assessment of causes
+**Correct answer: C. Protect the airway and patient from injury, then arrange urgent assessment of causes**
 
 **A kyun galat hai:** Mouth mein object daalne se injury ho sakti hai.
 
@@ -570,7 +532,7 @@ D. Assume all seizures in lupus are harmless flares
 
 **Exam clue:** New neurological event mein stabilization aur differential dono chahiye.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
 
 </details>
 
@@ -578,17 +540,15 @@ D. Assume all seizures in lupus are harmless flares
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** SLE
 
-A. Whether all anticoagulants are interchangeable in APS
+- **A.** Whether all anticoagulants are interchangeable in APS
+- **B.** Whether aspirin can automatically replace every prescribed anticoagulant
 
-B. Whether aspirin can automatically replace every prescribed anticoagulant
-
-C. Whether anticoagulation can be stopped because lupus symptoms are controlled
-
-D. Whether the specialist has reviewed the high-risk APS history and anticoagulant suitability
+- **C.** Whether anticoagulation can be stopped because lupus symptoms are controlled
+- **D.** Whether the specialist has reviewed the high-risk APS history and anticoagulant suitability
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Whether the specialist has reviewed the high-risk APS history and anticoagulant suitability
+**Correct answer: D. Whether the specialist has reviewed the high-risk APS history and anticoagulant suitability**
 
 **A kyun galat hai:** APS mein anticoagulants ko interchangeable assume nahi karna chahiye.
 
@@ -600,7 +560,7 @@ D. Whether the specialist has reviewed the high-risk APS history and anticoagula
 
 **Exam clue:** High-risk APS mein anticoagulant selection important hai.
 
-**Clinical reference:** https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762
+**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
 
 </details>
 
