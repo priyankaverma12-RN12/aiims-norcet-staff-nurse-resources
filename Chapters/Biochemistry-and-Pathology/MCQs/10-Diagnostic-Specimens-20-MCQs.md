@@ -66,23 +66,23 @@
 
 </details>
 
-### Q4. A tissue specimen is ordered for both routine histology and bacterial culture. Which handling plan is most appropriate?
+### Q4. A bone biopsy must be processed into thin histological sections despite a mineralized matrix. Which laboratory preparation may be needed after fixation?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic specimens | **Exam focus:** NORCET-style original
 
-- **A.** Arrange separate appropriate portions for fixation and sterile microbiology transport
-- **B.** Place every portion in formalin and send for both tests
-- **C.** Send the entire specimen in a nonsterile open dish
-- **D.** Use the same fixed section for routine viable bacterial growth
+- **A.** Controlled decalcification selected for the intended diagnostic tests
+- **B.** Addition of glucose to stimulate living bone growth
+- **C.** Routine centrifugation to remove all solid tissue
+- **D.** Uncontrolled crushing of the entire specimen
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Arrange separate appropriate portions for fixation and sterile microbiology transport**
+**Correct: A. Controlled decalcification selected for the intended diagnostic tests**
 
-- **A.** Histology ke liye fixed tissue aur culture ke liye viable organisms chahiye. Team laboratory protocol ke mutabik portions separate karti hai taaki dono investigations possible rahen.
-- **B.** Formalin organisms ko inactivate kar sakta hai, isliye culture yield compromise hoti hai.
-- **C.** Open nonsterile transport contamination aur specimen loss ka risk badhata hai.
-- **D.** Fixed section morphology dikha sakta hai, viable growth ke liye suitable specimen nahi hota.
+- **A.** Mineralized tissue section karna difficult hota hai. Laboratory appropriate decalcification choose karti hai kyunki harsh processing morphology aur selected biomarkers affect kar sakti hai.
+- **B.** Fixed biopsy living bone growth ke liye culture nahi hoti. Glucose mineralized matrix ko sectionable nahi banata.
+- **C.** Bone biopsy mein solid tissue hi diagnostic material hai. Usko remove karne se required architecture lose ho sakti hai.
+- **D.** Crushing se architecture aur cellular detail damage ho sakti hai. Controlled laboratory processing preferable hai.
 
 </details>
 
@@ -128,23 +128,23 @@
 
 </details>
 
-### Q7. A pathology laboratory receives a unique surgical specimen with a patient identifier mismatch. Which initial action protects diagnostic integrity?
+### Q7. A pathology team needs to distinguish the true cut surface of an excision specimen from its external intact capsule. Which procedure helps identify the examined surgical margin microscopically?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic specimens | **Exam focus:** NORCET-style original
 
-- **A.** Replace the label with the most likely patient name
-- **B.** Process and release the result without resolving the mismatch
-- **C.** Hold processing and escalate through the laboratory's identity-discrepancy procedure
-- **D.** Discard the irreplaceable specimen immediately without consultation
+- **A.** Adding a blood group reagent to all cut surfaces
+- **B.** Removing all peripheral tissue before orientation
+- **C.** Application of designated tissue-marking ink by the pathology team
+- **D.** Using the color of the transport lid as a microscopic landmark
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Hold processing and escalate through the laboratory's identity-discrepancy procedure**
+**Correct: C. Application of designated tissue-marking ink by the pathology team**
 
-- **A.** Assumed identity se wrong-patient diagnosis ho sakta hai, guess karna unsafe hai.
-- **B.** Result wrong patient ko assign ho sakta hai. Identity discrepancy pehle formally address honi chahiye.
-- **C.** Mismatch patient harm ka risk create karta hai. Irreplaceable specimen ko guesswork se relabel nahi karna chahiye aur authorized documented resolution required hai.
-- **D.** Unique tissue ko discard karna diagnostic opportunity lose kar sakta hai. Laboratory policy aur responsible team consultation zaroori hai.
+- **A.** Blood group reagents erythrocyte antigens detect karte hain, histological margins mark nahi karte.
+- **B.** Peripheral tissue remove karne se actual margin lose ho sakti hai. Orientation aur processing protocol follow karna important hai.
+- **C.** Pathology team specific cut surface ko ink se mark karti hai. Microscopy mein ink ke relative tumor position assess karne se margin reporting support hoti hai.
+- **D.** Lid ka color tissue section par visible landmark nahi banata. Specimen orientation aur tissue ink actual cut surface identify karte hain.
 
 </details>
 
@@ -420,3 +420,5 @@
 - [WHO phlebotomy practices](https://www.ncbi.nlm.nih.gov/books/NBK138665/)
 - [Specimen collection MCQ, Medical Knowledge Online](https://www.youtube.com/watch?v=utfUGjshIaE) — indexed broad practice candidate, exact coverage of these specialized histopathology questions unverified. Individual mappings pending.
 - Further question-specific source verification and independent review pending. No historical question credit.
+
+- Bounded comparison with IPC and Foundations specimen banks: Q4 and Q7 replaced with pathology-specific processing objectives. No additional count. Item-level verification pending.
