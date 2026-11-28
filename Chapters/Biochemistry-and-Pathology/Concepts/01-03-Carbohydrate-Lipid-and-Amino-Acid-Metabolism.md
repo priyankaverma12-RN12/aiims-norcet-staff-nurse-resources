@@ -1,6 +1,6 @@
 # Carbohydrate, lipid and amino acid metabolism — concept guide
 
-**Advance preparation, candidate only.** Yeh guide Batch 01 ke pehle teen question banks ke liye hai. Questions ya answers ko replace nahi kiya gaya hai.
+**Advance preparation, candidate only.** Yeh guide Batch 01 ke pehle teen question banks ke liye hai. Audit mein Bank 01 aur 02 ke confirmed overlapping draft objectives replace kiye gaye hain. Original count aur question numbers preserve kiye gaye hain.
 
 ![Metabolic pathways](../Assets/metabolic-pathways.svg)
 
@@ -16,6 +16,12 @@ Gluconeogenesis lactate, glycerol aur selected amino acids se glucose banane mei
 
 Intestinal SGLT1 sodium ke saath glucose aur galactose absorb karta hai. Lactase lactose digest karta hai. Lactase deficiency mein undigested lactose osmotic diarrhea aur fermentation-related symptoms de sakta hai. Classic galactosemia GALT deficiency se associated hai aur hereditary fructose intolerance aldolase B deficiency se. Suspected inherited metabolic disease mein timely clinician-directed evaluation important hai.
 
+### Glycogen ke branch points aur Cori cycle ki energy
+
+Jab glycogen phosphorylase glucose units release karta hai, toh woh branch point ke paas ruk jata hai. Ab debranching enzyme ki transferase activity kuch glucose units ko doosri chain par shift karti hai. Phir isi enzyme ki alpha-1,6-glucosidase activity bacha hua branch bond todti hai aur free glucose release karti hai. Isliye phosphorylase aur debranching enzyme ka role alag hai. [Glycogen breakdown ka source](https://www.ncbi.nlm.nih.gov/books/NBK549820/).
+
+Cori cycle mein peripheral tissue ko ek glucose se do ATP milte hain, lekin liver ko do lactate se glucose wapas banane ke liye chhe ATP equivalents kharch karne padte hain. Is simple complete cycle ka net body cost chaar ATP equivalents hota hai. Iska matlab hai ki liver energy kharch karke muscle aur RBC jaise tissues ko glucose supply support karta hai. [Cori cycle pathway](https://pubchem.ncbi.nlm.nih.gov/pathway/WikiPathways%3AWP1946).
+
 [Carbohydrate practice](../MCQs/01-Carbohydrate-Metabolism-20-MCQs.md)
 
 ## 2. Lipid metabolism
@@ -27,6 +33,12 @@ Fasting mein adipose lipolysis se fatty acids aur glycerol release hote hain. Fa
 Fasting ya marked insulin deficiency mein hepatic acetyl-CoA se ketone bodies ban sakti hain. Acetoacetate aur beta-hydroxybutyrate energy substrates hain, jabki acetone volatile compound hai. Liver mein SCOT activity absent hone ki wajah se liver synthesized ketone bodies ko efficiently oxidize nahi karta. Fatty acid oxidation defects mein fasting hypoglycemia ke saath low ketones ka pattern mil sakta hai. DKA mein acid-base disturbance aur dehydration ka urgent evaluation chahiye.
 
 Fatty acid synthesis mein malonyl-CoA repeated two-carbon donor hai. Cholesterol synthesis mein HMG-CoA reductase regulated enzyme hai aur statins is enzyme ko inhibit karte hain. Linoleic acid diet se milna zaroori hai kyunki humans required double bond introduce nahi kar sakte.
+
+### Fat transport aur digestion mein MTP aur colipase
+
+Intestine aur liver ko apoB-containing lipoproteins banane ke liye microsomal triglyceride transfer protein, yani MTP, ki madad chahiye. Yeh protein growing lipoprotein ko lipids load karne mein help karta hai. Abetalipoproteinemia mein inherited MTTP defect ki wajah se chylomicrons aur VLDL ki assembly impair ho sakti hai. Isse fat malabsorption aur bahut low apoB-containing lipoproteins mil sakte hain. Yeh inherited condition specialist assessment demand karti hai. [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK532447/).
+
+Colipase ek pancreatic cofactor hai jo pancreatic lipase ko fat droplet aur paani ke interface par bind karne mein help karta hai. Bile salts ki presence mein yeh binding important hai kyunki lipase ko triglyceride ke ester bonds todne ke liye fat surface tak pahunchna padta hai. Colipase aur circulating lipoprotein lipase ka apoC-II cofactor alag roles rakhte hain. [NCBI colipase reference](https://www.ncbi.nlm.nih.gov/mesh/68003089).
 
 [Lipid practice](../MCQs/02-Lipid-Metabolism-20-MCQs.md)
 
