@@ -116,3 +116,6 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 
 ## Passenger — 28 November 2026
 [Clinical and exam research gaps](07E-Passenger-Fetal-Factors-Evidence.md). DSSSB official paper listing and prior Q125/Q126 leads, Himachal reported leads, 9 broad provisional MCQ video mappings and 11 specific gaps. Zero exact playback, no new historical adaptation counted.
+
+## Passage — maternal pelvis — 28 November 2026
+[Clinical and exam research gaps](07F-Passage-Maternal-Pelvis-Evidence.md). AIIMS conjugate and HPSSC guide indexed leads not authenticated. 12 broad provisional MCQ video mappings and 8 unmapped gaps. Zero exact playback and no new historical adaptation counted.

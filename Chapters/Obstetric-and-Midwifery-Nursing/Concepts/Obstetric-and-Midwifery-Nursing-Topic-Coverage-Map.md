@@ -34,6 +34,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Stages of labour: [Concepts](07C-Stages-of-Labour.md) · [20 originals](../MCQs/07C-Stages-of-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07C-Stages-of-Labour-Evidence.md). Published, independent review pending.
   - Powers of labour: [Concepts](07D-Powers-of-Labour.md) · [20 originals](../MCQs/07D-Powers-of-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md). Published, independent review pending.
   - Passenger — fetal factors: [Concepts](07E-Passenger-Fetal-Factors.md) · [20 originals](../MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md). Published, independent review pending.
+  - Passage — maternal pelvis: [Concepts](07F-Passage-Maternal-Pelvis.md) · [20 originals](../MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md). Published, independent review pending.
   - Passenger, passage, cardinal movements, maternal-fetal assessment, partograph, WHO Labour Care Guide and nursing management: pending.
 - partograph and delivery
 - hypertensive disorders

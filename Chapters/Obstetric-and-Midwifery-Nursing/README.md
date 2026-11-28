@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 604 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 624 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -33,6 +33,7 @@
 | Stages of labour | [Detailed concepts and diagrams](Concepts/07C-Stages-of-Labour.md) · [20 original MCQs](MCQs/07C-Stages-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07C-Stages-of-Labour-Evidence.md) |
 | Powers of labour | [Detailed concepts and flowcharts](Concepts/07D-Powers-of-Labour.md) · [20 original MCQs](MCQs/07D-Powers-of-Labour-20-MCQs.md) · [Exam evidence](Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md) |
 | Passenger — fetal factors | [Detailed concepts and diagrams](Concepts/07E-Passenger-Fetal-Factors.md) · [20 original MCQs](MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md) |
+| Passage — maternal pelvis | [Detailed concepts and diagrams](Concepts/07F-Passage-Maternal-Pelvis.md) · [20 original MCQs](MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -141,3 +142,6 @@ Ab primary aur secondary powers, uterine activity assessment, MVU aur safe pushi
 
 ## Passenger — 28 November 2026
 Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obstetrics mein 604 indexed originals hain. Remaining independent audit aur video gaps evidence file mein hain.
+
+## Passage — maternal pelvis — 28 November 2026
+Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obstetrics mein 624 indexed originals hain. Pelvic anatomy, CPD aur routine pelvimetry ke current guidance ko separate samjhaya gaya hai. Remaining independent audit aur video gaps evidence file mein hain.
