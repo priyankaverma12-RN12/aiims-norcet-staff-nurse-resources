@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 264 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development aur 20 fetal growth MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 284 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth aur 20 placental MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -16,6 +16,7 @@
 | Maternal breast adaptations | [Detailed concepts and flowchart](Concepts/03F-Maternal-Breast-Adaptations.md) · [19 additional original MCQs](MCQs/03F-Maternal-Breast-Adaptations-19-MCQs.md) · [RRB 2019 reported adaptation](Previous-Year-Questions/03F-Maternal-Breast-Exam-Evidence.md) |
 | Maternal musculoskeletal and skin adaptations | [Detailed concepts and two flowcharts](Concepts/03G-Maternal-Musculoskeletal-and-Skin-Adaptations.md) · [19 musculoskeletal MCQs](MCQs/03G-Maternal-Musculoskeletal-Adaptations-19-MCQs.md) · [19 skin MCQs](MCQs/03H-Maternal-Skin-Adaptations-19-MCQs.md) · [AIIMS Raipur 2019 reported adaptation](Previous-Year-Questions/03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md) |
 | Embryonic and fetal development | [Detailed concepts and three original flowcharts](Concepts/04-Embryonic-and-Fetal-Development.md) · [20 embryonic MCQs](MCQs/04A-Embryonic-Development-20-MCQs.md) · [20 fetal growth MCQs](MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md) · [DSSSB 2019 and ESIC 2016 reported practice](Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md) |
+| Placental structure and function | [Detailed concepts and two original flowcharts](Concepts/05A-Placental-Structure-and-Function.md) · [20 original MCQs](MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [UPPSC 2022 reported practice](Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -57,3 +58,7 @@ Overview Q19 aur Q20 ko respective topics mein ek-ek baar allocate karke 19 addi
 ## Verified embryonic and fetal development expansion — 28 November 2026
 
 Ab 20 embryonic development aur 20 fetal growth and maturation ke naye original questions publish hue hain. Har option ka separate Roman Hinglish explanation diya gaya hai. Detailed concepts mein three original Mermaid flowcharts hain. DSSSB 2019 aur ESIC 2016 ki two reported adaptations alag se indexed hain. Ab chapter mein 264 original questions aur 12 reported adaptations hain. Next placenta, fetal membranes, amniotic fluid aur umbilical cord ki separate topic-wise practice hai. Independent clinical and semantic audit, official key authentication aur exact video playback pending hain.
+
+## Verified placental expansion — 28 November 2026
+
+Placental structure and function ke 20 original MCQs, 80 individual option explanations, detailed concepts, two original Mermaid flowcharts aur one reported UPPSC 2022 adaptation publish hue. Current chapter inventory: 284 originals and 13 reported adaptations. Fetal membranes, amniotic fluid and umbilical cord next; independent audit, official keys and exact video coverage pending.
