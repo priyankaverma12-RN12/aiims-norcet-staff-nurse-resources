@@ -2,7 +2,7 @@
 
 **20 original English MCQs.** Study-ready, unattempted. Is bank mein quality indicators, PDSA, improvement tools aur clinical audit ke alag tasks practice kar sakte hain. Ye official Previous Year Questions nahi hain. Candidate review pending.
 
-[Chapter](../README.md) · [Topic map](../Concepts/Nursing-Management-and-Education-Topic-Coverage-Map.md) · [Past-paper research](../Previous-Year-Questions/Nursing-Management-and-Education-Past-Paper-Research-Register.md)
+[Chapter](../README.md) · [Quality improvement and audit concepts](../Concepts/04-Quality-Improvement-and-Audit.md) · [Topic map](../Concepts/Nursing-Management-and-Education-Topic-Coverage-Map.md) · [Past-paper research](../Previous-Year-Questions/Nursing-Management-and-Education-Past-Paper-Research-Register.md)
 
 ## Quality measures and improvement methods
 
