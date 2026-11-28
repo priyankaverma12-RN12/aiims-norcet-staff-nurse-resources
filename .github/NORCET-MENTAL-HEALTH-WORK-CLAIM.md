@@ -1,10 +1,27 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0436Z
-Scope: Mental Health Group 02B psychosocial assessment and chapter-local navigation, no PR merges or other job edits.
-Claimed UTC: 2026-11-28T04:36:00Z
-Expiry UTC: 2026-11-28T05:06:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02C, 28 November 2026
+
+- 30 new original cognitive screening/MMSE MCQs, 1 Easy, 15 Medium and 14 Difficult editorial labels, 120 English options and 120 separate correct/distractor reasons, 30 closed details blocks, aligned answer distribution A8 B8 C7 D7. Bank commit 1d65da9abfdb61c39a4cef9bace257193f6c031e, blob a16490ab890f5e4c5902f754211aebdf7d305a7f. Zero normalized exact matches against 102 prior original/reported stems. Full semantic, difficulty and independent clinical audit remain pending.
+- Concepts 2600764eeb6a19463ab8ee0f58c48fc3c3d018af, SVG 473c3b246a0ce63f516297969351d7dbbd139f03, one NORCET 8 Prelims 2025 memory-based adaptation 9d309bff910eaed8c48424f17745276132b6f119. Direct Testbook item and reported score-band key inspected. Adaptation deliberately uses contextual clinical interpretation and does not assert universal severity classification. Official booklet and key pending.
+- Healthdirect, CAMH, published review, Mini-Cog and 4AT provider guidance and USPSTF direct HTML retrieved. NICE dementia and delirium direct requests returned 403, indexed recommendations only. Dedicated question-level video mappings for all 31 items pending, two teaching and two mixed practice candidates indexed, direct video opens failed/throttled. No protected complete cognitive test form reproduced.
+- References ad3fe7fcf12fad96edb11d77a4d4690289015bf3, coverage map f0c2e9449860a9f4e76fac1a724101c5c142cc82, evidence register 25fe971afb848b172d5f910c0004480a1cb01801, README e039e79fa2a1b7451d0d1ec745a740723d1e4b12. Exact readbacks. All formal claims checked again, no overlap. Prior PR7/8 navigation inspection and current main reconciliation preserved. PR branches and shared global tracker not modified. No schedule changes.
+- This run total: 60 new originals and 240 individual option rationales, two reported adaptations, two original diagrams, 60 hidden solution blocks. Current chapter-local total: 124 original MCQs, 9 reported adaptations, 5 diagrams, 0 of 1200 mock-exclusive questions. Both claims acquired and released separately. Prior rules reviewed with unchanged SHA, fresh full reread not independently certified. Rendered UI and exhaustive cross-bank semantic audits pending. 
+- Next: Group 02D neurological examination, then EEG, CT/MRI, blood chemistry and psychometric tests in meaningful packages, then remaining groups and 10 original-only mocks. Whole chapter not complete. Own claim released.
+
+## Verified continuation — Group 02B, 28 November 2026
+
+- 30 new original psychosocial assessment MCQs, 17 Medium and 13 Difficult editorial labels, 120 English options and 120 separate option rationales, 30 closed details blocks, aligned answer distribution A8 B8 C7 D7. Bank commit 33b37cbbd089e78d969a954a63639e126272b7d5, blob ac73a7c9d4d2208c4f86b583864198b2f7f3bed8. Zero normalized exact matches against 71 existing question stems. Independent semantic and difficulty audit still pending.
+- Concepts dbca1fdc9fcfc95375ac150c95a4aa71f1f245f7, original SVG 7d3e464d2fe59e86425b953937a5ca3f1619f1b9, one NORCET 5 Mains reported adaptation 163d222257b96330053730bd8c4408d2ebb79f5a. NPrep direct question HTML retrieved, official booklet/key pending. OpenStax assessment and protective factor direct pages retrieved. Indexed teaching/practice candidates, two direct YouTube retrievals throttled, 31 question-specific video gaps.
+- References 969b249c812b56438a48196e61a9b89f5e1f0449, coverage map 6cc5fda1f50e3ee3291391b36f16e85d2ee80f0e, research register e62712b187a2b079230e9c2dca7b8f555c136555 and chapter README 3bba0ffa56340d7bd6db86edce034d5f6ec9497d. Exact remote readbacks. PR7/8 Mental Health navigation patches inspected, current main README reconciled using PR8 list style, preserved all prior links, added both 02A and 02B, corrected current counts. PR branches not modified or merged. Older PR snapshots must still preserve current main when merged. Global tracker unchanged because shared scopes active.
+- Inventory: 94 originals, 8 reported adaptations, 4 diagrams, 0 of 1200 mock-exclusive questions. Both skills retrieved and SHA identities unchanged from immediately preceding complete bounded review; fresh full line-by-line reread not certified. AGENTS/Copilot retrieved, relevant rules and latest audit learnings reviewed, all discovered work-claim states checked. PR2/7/8/12/28/29/30/31 files inspected for overlaps. Disjoint OBG, Hematology and metadata work preserved. No schedule changes. Own claim released.
+- Next: Group 02C cognitive screening and MMSE, then neurological examination and investigations. No chapter completion, official PYQ authentication, exhaustive semantic/clinical audit or rendered UI verification claimed.
 
 ## Verified continuation — Group 02A, 28 November 2026
 

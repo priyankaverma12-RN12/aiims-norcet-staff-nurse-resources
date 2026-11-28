@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
 State: CLAIMED
-Owner: coverage-gap-hematology-20261128-0435
-Scope: Hematology and Blood Disorders only, new blood-components topic MCQs, concept, original SVG, evidence, own claim and chapter-local inventory only. No shared README, map, mock plan, website, PR edits or other jobs. PR8 older imported snapshots coordination requested.
-Claimed UTC: 2026-11-28T04:35:00Z
-Expiry UTC: 2026-11-28T05:05:00Z
+Owner: coverage-gap-hematology-20261128-0456
+Scope: Hematology only, new 18 safe transfusion administration bank, concept, SVG and evidence, own inventory and claim. Source discrepancy annotation in new package only. Existing navigation and other jobs excluded.
+Claimed UTC: 2026-11-28T04:56:00Z
+Expiry UTC: 2026-11-28T05:26:00Z
 
-Last owner: coverage-gap-hematology-20261128-041517
-Last scope: Hematology and Blood Disorders only. Released after verified Run 5 writes and inventory.
+Last owner: coverage-gap-hematology-20261128-0447
+Last scope: Hematology blood grouping and transfusion compatibility. Released after verified Run 7 package and inventory.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -67,3 +67,19 @@ Recheck all claims, rule files, recent commits and open PRs. Continue distinct l
 - Read-only Nervous-System 120 topic slots, 120 compiled mock slots, 10 reported practice blocks. Endocrine-System 190 MCQ-directory answer blocks, 120 compiled mock slots, 26 reported practice blocks. No new originals inferred from compilation. Counts remain structural rather than repository-wide unique counts.
 - HPRCA portal access blocked exact official match, EHA 2026 CLL direct retrieval 403, exact video mapping/playback and full independent review pending. Rules and audit fetched in bounded ranges with relevant requirements inspected, fresh exhaustive line-by-line review not certified. Other jobs, theory, website, learner history, PR8, PR12, already merged PR27, shared navigation and five automations not modified.
 - Next: acquire only safe Hematology scope for transfusion components/administration, transfusion reactions, anticoagulation, bleeding precautions and remaining syllabus gaps. Recheck other claims, exact counts, clinical and semantic limitations before original-only mocks.
+
+## Verified checkpoint — 28 November 2026, Run 6
+
+- Previous released checkpoint fc21abe02ea9a211bb311c7b45f39e95c1a0126c preserved. Own claim acquired a3af2bf81dbfa9b6d4d270fd5f5f72945c78bf27 and exact readback passed.
+- Blood components package published a08f226afee3934f03008c3c20fac7ebdd43916e, exact readback of all four files passed. Bank blob 278d5535771a3e349dc01694c7f7e40a84a265a6; concept 2b2b6feccc1c110c3baa07c67f195e4bab6cd6e3; SVG 0797a62046ff47c938ec85d100035f292fac6022; evidence dd78c15c79ae5635391ded46dea94d26f082e1db.
+- Inventory d3c4a40afe6533423e65962f18de200d9feffef0, blob cc45510e73ed4ed656b04ebdeec208e5f0b3311c; exact readback passed.
+- Cumulative 484 original slots (480 new + four starters), six separate source-linked adaptations, 1,944 newly authored individual option rationales. Zero full mocks. 30 additional originals (28 Medium, two Difficult), 120 new rationales. Independent clinical and exhaustive semantic audit, authenticated HPRCA/all-India question-key matches, exact video playback mappings and full 36-chapter exact census remain pending. PR8 coordination comment 7234123751 posted, acknowledgement pending; no PR code changes.
+- Resume first unfinished topic: transfusion compatibility, then administration, reactions, anticoagulation, bleeding precautions, and remaining INC gaps. Recheck current claims before acquiring new scope. Ten original-only 120-question mocks only after comprehensive topic coverage and semantic screening. Other jobs, existing theory, website, learner history and five automations untouched by this run.
+
+## Verified checkpoint — 28 November 2026, Run 7
+
+- Previous release 03c87a9ccec70748c02ca774f99ba311824511ef preserved. Own claim acquisition 6544a9f7031245ad50b512a8c01baf3f1e7789c8 verified.
+- Package 6bef20561bdf7622233a45f39bf7a09701aa3b34; bank 01fbdc17526c5806f9f55e19cdefd3f38dc9293d, concept 2664b12ff83f3e5c7d29c6b8194fafcd52f63165, original SVG 5853b6251b0fb1fc3f6e82418db396f3a03bd6d9, reported evidence f311a420b1ed4f192a3d000521655bd9ea9eb488. Four exact remote readbacks passed. Normalized exact stem comparison against all prior 484 originals passed in bounded 270 + 214 batches; exhaustive semantic and independent clinical audits pending.
+- Inventory 1bed1f26f29211be398c3903e60228c93b33b202, blob 9070474a9857d60c4af21a7d2e1c2b1d8734f37b, exact readback. Cumulative 514 original slots, seven separately counted source-linked adaptations, 2,068 newly authored individual option rationales, zero full mocks. Added 30 originals and one RRB 2018 reported-concept adaptation with 124 rationales. Official question/key pending. Ten original topic-level MCQ video leads, 20 gaps, exact item/playback pending. All 36 directories structurally enumerated, Mental Health pinned 124 topic slots, nine reported-practice blocks, no full mock. Remaining full exact repository counts pending.
+- Both skills fetched in bounded ranges, unchanged hashes and previous full context applied; audit log retrieved with pertinent excerpts, fresh exhaustive line-by-line audit not certified. PR8 acknowledgment pending, no existing shared navigation edits or PR code changes. Other jobs, website, existing theory, learner history and all five schedules untouched.
+- Resume safe transfusion administration, reactions, anticoagulation, bleeding precautions and remaining INC gaps. Acquire safe claim only after current coordination. Begin ten mock-exclusive 120-question tests only after coverage and semantic screening.

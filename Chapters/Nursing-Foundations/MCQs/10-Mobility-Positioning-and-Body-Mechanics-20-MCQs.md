@@ -312,7 +312,7 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [Related MCQ practice — crutch walking, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=eotgbD74YkA).** 26 October 2024 ke publisher description mein crutch walking techniques par NCLEX question-answer practice listed hai. Is exact partial-weight-bearing scenario, timestamp aur playback verify nahi hue hain.
 
 [Legacy mock practice: Mock 03, Q10](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q10-a-patient-using-crutches-is-permitted-partial-weight-bearing-what-determines-the-appropriate-gait-pattern) — same topic-bank question, not a new original.
 
@@ -382,7 +382,7 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 ### Q13. Which positioning principle helps prevent foot drop during prolonged bed rest?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept only](https://testbook.com/question-answer/which-comfort-device-is-used-to-prevent-foot-drop--62d788109982d749dafefa33)**
 
 - **A.** Avoid inspecting the heels
 - **B.** Maintain neutral ankle alignment using appropriate support and reassess the skin
@@ -404,6 +404,8 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 **Exam clue:** Neutral ankle alignment + skin checks, no prolonged plantarflexion.
 
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Related exam evidence:** Is third-party memory-based report mein foot drop ko rokne ke liye foot board ka selection poochha gaya tha. Is original question mein neutral ankle support aur skin reassessment ka principle poochha gaya hai. Patient ke liye suitable support choose karna aur pressure damage se bachna zaroori hai. Official paper aur key verify nahi hue hain.
 
 **YouTube MCQ practice: specific verification pending.**
 

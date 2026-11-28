@@ -58,3 +58,14 @@ const revisionFixture={banks:{[p]:{questions:{a:{due:day},b:{due:day},c:{due:off
 assert.equal(currentRevisionCount({path:p,questionKeys:['a','c','a']},revisionFixture,day),1);
 assert.equal(currentRevisionCount({path:p,questionKeys:['c']},revisionFixture,day),0);
 console.log('Revision suggestions exclude removed questions and duplicates.');
+
+const {calendarStudyStats}=require('./routine.js');
+const historical=emptyRoutine();
+for(const date of ['2025-11-28','2026-10-01','2026-11-23','2026-11-28','2026-12-01','2027-01-01'])updateRoutine(historical,p,items,{'0':'B'},date);
+updateRoutine(historical,p,items,{'0':'A','1':'B'},'2026-11-28');
+const cal=calendarStudyStats(historical,{[p]:{slots:5,at:new Date(2026,10,28,12).toISOString()}},'2026-11-28');
+assert.equal(cal.monday,'2026-11-23');assert.equal(cal.daily.answered,2);assert.equal(cal.daily.extra,3);assert.equal(cal.weekly.answered,3);assert.equal(cal.monthly.answered,3);assert.equal(cal.monthly.total,6);assert.equal(cal.months['2025-11'].answered,1);assert.equal(cal.months['2026-10'].answered,1);assert.equal(cal.months['2026-12'],undefined);assert.equal(cal.months['2027-01'],undefined);
+assert.equal(calendarStudyStats(historical,{},'2027-01-01').weekly.answered,1);assert.equal(calendarStudyStats(historical,{},'2027-01-01').months['2026-12'].answered,1);assert.equal(calendarStudyStats(historical,{},'2026-11-28').daily.total,2);
+assert.equal(Object.keys(historical.days).length,6);
+assert.equal(calendarStudyStats(emptyRoutine(),{},'2027-01-01').monthly.answered,0);
+console.log('Calendar activity, retained multi-year history, Monday boundaries, manual deduplication and future-date exclusion passed.');

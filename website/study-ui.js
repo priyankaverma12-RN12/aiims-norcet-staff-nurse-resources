@@ -8,8 +8,45 @@ function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.j
 function displayTitle(s){return String(s||'').replace(/[*_\x60]/g,'').trim()}
 function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
+function mountStudyHistory(){
+ const host=$('metrics-personal');if(!host)return;
+ const title=node('div',undefined,'history-heading'),copy=node('div');copy.append(node('p','YOUR PERSONAL ACTIVITY','kicker'),node('h2','Questions solved'),node('p','Track your practice by calendar day, week and month.','muted'));
+ const yearLabel=node('label','History year'),year=node('select');year.id='study-history-year';yearLabel.htmlFor=year.id;yearLabel.append(year);title.append(copy,yearLabel);
+ const periods=node('div',undefined,'history-periods'),history=node('div',undefined,'history-months');history.id='study-month-history';history.setAttribute('aria-label','Monthly study history');const legend=node('p','Solved = questions answered in practice or submitted tests. Marked done = additional self-reported questions. Repeated answers to the same question in one bank on the same day count once.','muted history-note');
+ const limits=node('p','Only saved browser history is shown. Older daily records removed by previous versions cannot be recovered. Future months are shown as a dash.','muted history-note');
+ host.replaceChildren(title,periods,node('h3','Month-by-month history'),history,legend,limits);
+ let selected=localDay().slice(0,4);
+ const fmt=n=>n.toLocaleString('en-IN');
+ function render(){
+  const data=calendarStudyStats(loadRoutine(),currentStudyMarks()),now=data.today.slice(0,4);
+  const years=[...new Set([now,...Object.keys(data.months).map(m=>m.slice(0,4))])].sort().reverse();
+  if(!years.includes(selected))selected=now;
+  if([...year.options].map(o=>o.value).join()!==years.join()){year.replaceChildren();for(const y of years){const o=node('option',y);o.value=y;year.append(o)}}
+  year.value=selected;
+  periods.replaceChildren();
+  for(const [key,label,value,range] of [['today','Today',data.daily,data.today],['week','This week',data.weekly,data.monday+' to '+data.today],['month','This month',data.monthly,data.today.slice(0,7)]]){
+   const card=node('div',undefined,'history-period');card.dataset.period=key;
+   card.append(node('span',label),node('strong',fmt(value.answered),'history-solved'),node('small','solved MCQs'),node('small',fmt(value.total)+' studied incl. '+fmt(value.extra)+' marked done'),node('small',range,'history-range'));periods.append(card);
+  }
+  history.replaceChildren();
+  const max=Math.max(1,...Object.entries(data.months).filter(([m])=>m.startsWith(selected+'-')).map(([,v])=>v.answered));
+  for(let i=1;i<=12;i++){
+   const key=selected+'-'+String(i).padStart(2,'0'),stats=data.months[key],future=key>data.today.slice(0,7),row=node('div',undefined,'history-month');row.dataset.month=key;
+   const name=new Date(Number(selected),i-1,1).toLocaleDateString('en-IN',{month:'short'});
+   const label=node('span',name,'history-month-name'),bar=node('div',undefined,'history-month-bar'),fill=node('span');bar.setAttribute('aria-hidden','true');fill.style.width=((stats?.answered||0)*100/max)+'%';bar.append(fill);
+   const value=node('strong',future?'—':fmt(stats?.answered||0),'history-month-solved');
+   const detail=node('small',future?'Upcoming':stats?fmt(stats.activeDays)+' active days · '+fmt(stats.total)+' studied':'No saved activity','history-month-detail');
+   if(key===data.today.slice(0,7))row.dataset.current='true';
+   row.append(label,bar,value,detail);history.append(row);
+  }
+ }
+ year.onchange=()=>{selected=year.value;render()};
+ liveProgressRefresh(render,host);
+ window.addEventListener('storage',e=>{if(e.key===routineKey||e.key===completionKey||e.key===null)render()});
+ window.addEventListener('focus',render);
+}
 async function showMetrics(){
- $('home').hidden=true;$('reader').hidden=true;$('metrics').hidden=false;document.title='Study metrics | Nursing Study Hub';
+ $('home').hidden=true;$('reader').hidden=true;$('metrics').hidden=false;document.title='Study metrics | Nursing Study Hub';mountStudyHistory();
  const data=await getMetrics();if(!data){$('metrics-status').textContent='Question counts could not load. Your study progress is safe.';const retry=node('button','Try again');retry.type='button';retry.onclick=()=>location.reload();$('metrics-status').after(retry);return}
  progressCatalog=completionRecords(data);const requested=params.get('chapter'),select=$('metrics-chapter'),category=$('metrics-category'),search=$('metrics-search'),grid=$('metrics-totals'),list=$('metrics-list');
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;select.append(o)}if(data.chapters.some(c=>c.id===requested))select.value=requested;

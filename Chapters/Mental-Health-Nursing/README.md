@@ -16,6 +16,24 @@
 - [30 original MCQs](MCQs/01-Mental-Status-Examination-30-MCQs.md)
 - [3 reported exam adaptations](Previous-Year-Questions/01-MSE-Reported-Exam-Practice.md)
 
+### Topic 02A — Psychiatric History Taking
+
+- [Detailed Hinglish concepts](Concepts/02A-Psychiatric-History-Taking.md)
+- [30 original MCQs](MCQs/02A-Psychiatric-History-Taking-30-MCQs.md)
+- [Reported RRB exam adaptation](Previous-Year-Questions/02A-History-Assessment-Reported-Evidence.md)
+
+### Topic 02B — Psychosocial Assessment
+
+- [Detailed Hinglish concepts](Concepts/02B-Psychosocial-Assessment.md)
+- [30 original MCQs](MCQs/02B-Psychosocial-Assessment-30-MCQs.md)
+- [Reported NORCET 5 Mains adaptation](Previous-Year-Questions/02B-Psychosocial-Assessment-Reported-Evidence.md)
+
+### Topic 02C — Cognitive Screening and MMSE
+
+- [Detailed Hinglish concepts](Concepts/02C-Cognitive-Screening-MMSE.md)
+- [30 original MCQs](MCQs/02C-Cognitive-Screening-MMSE-30-MCQs.md)
+- [Reported NORCET 8 Prelims adaptation](Previous-Year-Questions/02C-MMSE-Reported-Evidence.md)
+
 ### Earlier practice preserved
 
 - [4 starter MCQs](MCQs/Mental-Health-Nursing-Topic-Wise-Starter-MCQs.md)
@@ -40,13 +58,16 @@
 |---|---:|
 | Original starter questions preserved | 4 |
 | Newly authored MSE questions | 30 |
-| Total original questions indexed | 34 |
-| Source-linked reported adaptations preserved and added | 6 |
+| History-taking questions | 30 |
+| Psychosocial assessment questions | 30 |
+| Cognitive screening and MMSE questions | 30 |
+| Total original questions indexed | 124 |
+| Source-linked reported adaptations preserved and added | 9 |
 | Authenticated official exact questions newly verified | 0 |
 | New chapter mock-exclusive questions | 0 / 1,200 |
-| Original MSE diagrams | 2 |
+| Original chapter diagrams | 5 |
 
-30 naye MCQs mein 2 Easy, 22 Medium aur 6 Difficult questions hain. Har question mein 4 English options aur hidden Hinglish answer hai. Ye original practice hai, official exam questions nahi. Reported exam adaptations separately rakhe gaye hain.
+MSE ke 30 questions mein 2 Easy, 22 Medium aur 6 Difficult labels hain. History ke 30 questions abhi Medium labelled hain. Psychosocial assessment ke 30 questions mein 17 Medium aur 13 Difficult labels hain. MMSE ke 30 questions mein 1 Easy, 15 Medium aur 14 Difficult labels hain. Independent difficulty calibration abhi pending hai. Har question mein 4 English options aur hidden Hinglish answer hai. Ye original practice hai, official exam questions nahi. Reported exam adaptations separately rakhe gaye hain.
 
 ## 🎯 Kaise padhna hai?
 
@@ -54,6 +75,6 @@ Pehle detailed Concepts padho, diagram se comparison samjho aur phir topic-wise 
 
 🔴 MOST IMPORTANT · 🟠 HIGH YIELD · 🟡 IMPORTANT · 🟢 FOUNDATION. Difficulty alag se Easy, Medium aur Difficult mein di gayi hai. Priority editorial hai, official exam weightage nahi.
 
-**Next topic:** Mental health history, psychosocial assessment, cognitive screening, investigations and related nursing responsibilities. Full chapter, independent clinical and semantic audit, historical official-key matching, video playback and rendered UI validation remain pending.
+**Next topic:** Group 02D neurological examination, phir EEG, CT/MRI, blood chemistry aur psychometric tests. 02A–02C study-ready hain, complete chapter nahi. Full chapter, independent clinical and semantic audit, historical official-key matching, video playback and rendered UI validation remain pending.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
