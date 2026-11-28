@@ -63,3 +63,17 @@
 ## Safe accounting
 
 Current README: **564 allocated originals** + **20 unallocated Vulvar** + **20 unallocated Fistula** + **19 menstrual revision** = **623 physical slots**. This audit identifies definite and partial semantic collisions, so **do not claim 604 verified distinct originals**. A later owner must complete option-level and clinical verification and only then allocate safe additions under a FREE shared README claim.
+
+## Independently checked external clinical references — 28 November 2026
+
+These checks verify selected *clinical facts*, not all 40 answer keys and distractors. No claim of complete item-level verification.
+
+| Item | Verified fact | Source | Decision |
+|---|---|---|---|
+| V1–V2 | Bartholin cyst usually posterolateral and can be painless; abscess usually tender and painful | [Merck Manual, reviewed 2026](https://www.merckmanuals.com/professional/gynecology-and-obstetrics/miscellaneous-gynecologic-disorders/bartholin-gland-cyst-and-bartholin-gland-abscess) | Retain; option-by-option audit still needed |
+| V4 | New or suspicious Bartholin mass in age ≥40 requires consideration of biopsy; firm/fixed mass especially concerning | [AAFP 2019](https://www.aafp.org/afp/2019/0615/p760), [ACOG educational material](https://dam.acog.org/download/assets/Marsupialization%2Bof%2BBartholin%2BCyst%2Band%2BAbscess.pdf/41f1671064ad11f195b69aba5c9604f4) | Retain with specialist assessment, avoid claiming every older cyst is cancer |
+| V6 | Antibiotics are not automatic after uncomplicated drainage; cellulitis or other infection indications change plan | [Merck Manual, reviewed 2026](https://www.merckmanuals.com/professional/gynecology-and-obstetrics/miscellaneous-gynecologic-disorders/bartholin-gland-cyst-and-bartholin-gland-abscess) | Retain nuanced indication |
+| V16 | Bartholin duct openings are near 4 and 8 o'clock | [Current Medical Diagnosis & Treatment 2026](https://accessmedicine.mhmedical.com/content.aspx?bookid=3594&preview=false&sectionid=299519483) | Retain |
+| F10 | WHO 2018 recommends 7–10 days of postoperative bladder catheterization as alternative to longer durations **only for simple repaired obstetric urinary fistula**; not automatically for complex fistulas | [WHO guideline](https://www.who.int/publications/i/item/9789241550192) | Retain restricted wording |
+
+**Unresolved:** V10, V13, V14 and F1 remain semantically overlapping existing bank questions. Do not count them as new distinct questions until rewritten and cross-checked. Fistula Q8/Q11/Q12/Q16 and Vulvar Q15 are partial overlap candidates requiring full option-level analysis. This document remains a triage audit, not a completed 40-question clinical certification.

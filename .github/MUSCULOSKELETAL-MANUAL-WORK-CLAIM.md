@@ -1,5 +1,21 @@
 # Musculoskeletal System manual chapter claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at draft PR46.
+Last owner: musculoskeletal-b02-20261128-0722
+Last checkpoint: 8a45d14b4ee70743bb46ad4fa4197c4cb3ba56a0
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/46
+Branch: study/musculoskeletal-batch01
+
+Batch 02: 100 new staged originals, 400 individual rationales, two new guides and two SVGs. Total 200 staged originals, 800 rationales, four guides and four SVGs. Exact readbacks and combined structural checks passed. All 16 prior chapter files unchanged, including four legacy originals and one reported adaptation. Live delta zero. No mocks or new PYQs. PR7/8 notices posted, acknowledgement pending.
+
+Next: acquire new isolated lease after fresh bounded preflight. Close independent clinical, full semantic, item-level sources and videos, INC topic-depth reconciliation, difficulty, rendering, CI and PR7/8 integration gates. Continue only distinct uncovered topic tasks in this draft. Do not merge or count as live until all gates pass. Preserve other sessions, learner history and all five schedules.
+
+Prior lease and checkpoint history:
+
+# Musculoskeletal System manual chapter claim
+
 State: CLAIMED
 Owner: musculoskeletal-b02-20261128-0722
 Scope: PR46 candidate-only Musculoskeletal Batch 02, read-only existing bank audit, new topic files, concept/diagram/evidence/checkpoint. No edits to existing live chapter navigation, other owners or schedules.

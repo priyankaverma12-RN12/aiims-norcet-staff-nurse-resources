@@ -1,5 +1,25 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified released checkpoint
+
+Draft PR49: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/49
+Candidate head: d8bad2e88906408ced5f12d4664b18155ba2ee80
+Branch: emergency-critical-care-preflight-20261128
+Previous owner: emergency-b01-20261128-0723
+Reservation: Emergency Nursing only, resume PR49 rather than start a duplicate candidate. No active lease.
+
+100 staged originals, 400 individual Roman Hinglish rationales, five concepts and five SVGs. Exact remote readbacks and combined structural audit passed. Preserve four legacy originals, one reported adaptation, 72-stem audit and 29 learning objectives. No live credit. PR29 actual scope is Pharmacology only; notification comments 7235689346 and 7235899082, acknowledgment pending. Full bounded preflight, independent clinical and comprehensive semantic audits, reference/video verification, PR29/7/8 coordination, current-main reconciliation and CI/rendering remain pending. Continue same chapter with genuinely uncovered curriculum topics. Do not edit other owners or schedule settings. No live question-bank changes.
+
+## Prior lease (preserved for traceability)
+
+# Emergency and Critical Care Nursing manual claim
+
 State: CLAIMED
 Owner: emergency-b01-20261128-0723
 Scope: New Emergency Nursing draft-only files on emergency-critical-care-preflight-20261128. No edits to existing learner-facing files, live navigation, PR29, other owners or schedules.

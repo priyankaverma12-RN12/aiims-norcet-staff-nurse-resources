@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"11.9","app.js":"11.9.1","progress.js":"11.8","routine.js":"11.9","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.1","favicon.svg":"1"}
+    asset_versions={"styles.css":"11.9","app.js":"11.9.2","progress.js":"11.8","routine.js":"11.9","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -539,6 +539,8 @@ with sync_playwright() as p:
         other.locator("#marks .saved-practice-link").first.click()
         expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
         expect(other.locator(".question-stem").first).to_have_text(stem)
+        assert other.locator(".question-stem").first.text_content()==stem
+        assert other.locator(".question-stem").first.evaluate("""e=>!Array.from(e.textContent).some(c=>{const n=c.codePointAt(0);return n===0xfffd||(n>=0xd800&&n<=0xdfff)})""")
         expect(other.locator("button[data-bookmark-stem]").first).to_have_attribute("data-bookmark-stem",bookmark_stem)
         expect(other.get_by_role("button",name="Check answer")).to_be_disabled()
         other.locator("button[data-bookmark-stem]").first.click()

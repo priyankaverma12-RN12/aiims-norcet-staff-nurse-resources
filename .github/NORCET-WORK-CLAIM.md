@@ -1,10 +1,17 @@
 # NORCET shared work claim
 
 State: CLAIMED
-Owner: forward-pr48-10b-20261128-072945Z
-Scope: PR48 isolated Group10A review and Group10B candidate only, no shared navigation, Renal or other jobs.
-Claimed UTC: 2026-11-28T07:29:45Z
-Expiry UTC: 2026-11-28T07:59:45Z
+Owner: forward-pr48-10cd-20261128-074425Z
+Scope: PR48 isolated Group10C and Group10D candidate only and bounded A/B review, no shared navigation, Renal or other jobs.
+Claimed UTC: 2026-11-28T07:44:25Z
+Expiry UTC: 2026-11-28T08:14:25Z
+
+## Latest isolated draft checkpoint — Group10A–B, 28 November 2026
+
+- Draft PR48: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/48 verified head `40890fb78754e4272e250d24a4ad3e95c0d55c99`. Eight chapter-local candidate files: 48 original MCQs (26 preserved A + 22 new B), 192 individual Roman Hinglish rationales, two concept guides, two SVGs, two evidence registers. Exact remote readbacks passed. Candidate-only answer order corrected while preserving all question stems and option/rationale/answer texts. Combined 48 aligned keys, 192 options/rationales, no normalized duplicates against 160 related stems. No live MCQ, mock or historical inventory increase.
+- Resume same PR48 from this head or newer. Remaining 10C and 10D 26 each. Independent clinical, language, difficulty/distractor, exhaustive semantic, source and video checks, complete bounded preflight, PR8 navigation handoff 7235956981, latest-main reconciliation and CI/rendering remain pending. Review specific flagged pairs in 10B evidence. PR48 comment 7236023926 records continuation. No CI run returned for current head. Do not merge before gates pass.
+- Renal candidate `3e7ab3b509c8522f5e699cf90f60542cdf3603b1` independently replaced Q10 with distinct formulation-usability task, verified bank blob f2ac59bf2ee48b0af2e411ee0e638b8ba296c0aa. No replacement reapplication or Renal writes by this run. Main live Renal 604 and Foundations 1,350 remain unchanged in this run. Other scopes and schedules preserved. Own claim released.
+
 
 ## Latest isolated draft checkpoint — Group10A, 28 November 2026
 

@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-priority-run6-20261128-0722Z
-Scope: isolated PR35 curriculum reconciliation, audit register and uncovered topic additions only; no shared navigation or other jobs.
-Claimed UTC: 2026-11-28T07:22:19Z
-Expiry UTC: 2026-11-28T07:52:19Z
+State: FREE
+Owner: none
+Scope: no active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — Run 6
+
+Candidate head: a7f403ee11c1c3366d14ac3c0c99069309102913
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-priority-run6-20261128-0722Z
+
+580 staged originals, 2320 individual Roman Hinglish rationales, 29 topic banks, 12 concept guides and 12 original SVGs. Four legacy live originals and one reported adaptation separately preserved. Run 6 adds 80 originals (20 each national programmes/agencies, hospital/perioperative nutrition, enteral formulations, parenteral formulations), 320 rationales, two guides and two diagrams. Four distinct new question slots corrected, five replacement events. No padding for fifth topic. Curriculum/corrective review register and inventory exactly read back. All 80 new questions structurally valid, 80 evidence mappings, balanced 20 correct keys per option, no exact normalized matches against 504 earlier originals, and no exact match to separately inspected reported adaptation. 56 prior chapter blobs and six live chapter blobs unchanged. All ten new files exactly read back including final replacements. Prior 500 questions structurally checked in two bounded groups. Selected adjacent live 82 stems screened; exhaustive active-branch semantic review and independent clinical/pharmacy review not certified. Full historical preflight and latest PR36 rule reconciliation, full official INC retrieval, individual curriculum depth, current local programme and FSS standards, item source/video evidence, UI and agreed content-only CI remain pending. PR7/8 navigation release absent; latest notices 7235994700 and 7235995036 explicitly do not grant ownership. No workflow run returned for candidate head. No merge, live credit, mock or PYQ additions. No other workstream, learner history, website or automation changes.
+
+Next: acquire a fresh isolated lease, verify current rules and coordination, prioritize independent clinical and semantic corrective audits, finish meaningful uncovered topics after active-branch screening (FFQ and dietary records, education, practical food-exchange menu and budget planning, school-age/elderly depth, current programmes and standards), up to 100 originals only if distinct. Complete topic coverage and all gates before safe integration. Then ten mutually distinct original-only 120-question mocks at two per run and authenticated India-wide topic-mapped PYQs. Reconcile six old mock placeholders with ten authorized target only after shared navigation release.
+
+## Previous checkpoint (preserved)
 
 ## Latest released checkpoint — Run 5
 
