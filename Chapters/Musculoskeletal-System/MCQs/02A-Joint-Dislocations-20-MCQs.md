@@ -555,30 +555,30 @@
 
 </details>
 
-### Q20. During discharge teaching after a reduced uncomplicated dislocation, which new symptom should prompt urgent reassessment rather than routine follow-up?
+### Q20. A patient has persistent clinical suspicion of posterior shoulder dislocation despite a nondiagnostic initial anteroposterior radiograph. Which additional view is particularly useful when safely obtainable?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Mild expected bruising that is improving
-- **B.** Gradually decreasing pain with prescribed treatment
-- **C.** Ability to perform permitted finger movement
-- **D.** New distal numbness with increasing pain and color change
+- **A.** Standing abdominal radiograph
+- **B.** Axillary shoulder view
+- **C.** Lateral ankle radiograph
+- **D.** DXA of the lumbar spine
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. New distal numbness with increasing pain and color change**
+**Correct answer: B. Axillary shoulder view**
 
-**A kyun galat hai:** Improving mild bruising injury recovery ka expected feature ho sakti hai. Worsening ya other red flags se distinction important hai.
+**A kyun galat hai:** Abdominal radiograph shoulder articulation ko adequately visualize nahi karti. Suspected injury ke relevant joint views chahiye.
 
-**B kyun galat hai:** Prescribed treatment ke saath pain gradually kam hona reassuring trend ho sakta hai. Ye urgent deterioration ka clue nahi hai.
+**B kyun sahi hai:** Axillary view humeral head aur glenoid ka relation additional plane mein dikhati hai. Posterior displacement standard AP view par miss ho sakta hai. Agar positioning unsafe ho toh radiology team suitable alternative choose karti hai.
 
-**C kyun galat hai:** Permitted finger movement maintain hona functional finding hai. New weakness ya sensory loss concern hota hai.
+**C kyun galat hai:** Ankle radiograph lower limb joint ke liye hoti hai. Shoulder alignment assess nahi karti.
 
-**D kyun sahi hai:** Increasing pain, new numbness aur color change neurovascular compromise suggest kar sakte hain. Patient ko urgent reassessment chahiye.
+**D kyun galat hai:** DXA bone density measure karti hai. Acute shoulder joint congruity assess karne ke liye relevant test nahi hai.
 
-**Exam clue:** Discharge ke baad new neurovascular changes emergency warning hain.
+**Exam clue:** Posterior shoulder dislocation ko exclude karne ke liye AP view alone sufficient nahi ho sakti.
 
-**Clinical reference:** [Merck Manual professional — dislocation overview](https://www.merckmanuals.com/professional/injuries-poisoning/dislocations/overview-of-dislocations). Retrieved text.
+**Clinical reference:** [Merck posterior shoulder dislocation](https://www.merckmanuals.com/professional/injuries-poisoning/how-to-reduce-dislocations-and-subluxations/how-to-reduce-posterior-shoulder-dislocations). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
