@@ -238,27 +238,27 @@
 
 </details>
 
-### Q10. An adult with suspected opioid poisoning has a definite pulse but severely depressed breathing. A trained nurse has naloxone available. Which priority is appropriate?
+### Q10. An adult with respiratory depression may have taken both an opioid and a benzodiazepine. Airway and ventilation support are already underway. Which antidote should generally be considered first under the AHA 2025 recommendation?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Poisoning and toxic exposure
 
-- **A.** Wait for naloxone response before providing ventilation
-- **B.** Support airway and ventilation promptly and administer naloxone under the emergency protocol
-- **C.** Start chest compressions solely because the respiratory rate is low despite a definite pulse
-- **D.** Give oral fluids to stimulate respiration
+- **A.** Flumazenil before considering opioid reversal
+- **B.** Naloxone according to the authorized emergency protocol
+- **C.** Digoxin-specific immune Fab
+- **D.** Atropine solely to reverse sedation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Support airway and ventilation promptly and administer naloxone under the emergency protocol**
+**Correct: B. Naloxone according to the authorized emergency protocol**
 
-- **A.** Naloxone ka effect immediate guaranteed nahi hai. Breathing support delay nahi karni chahiye.
-- **B.** Opioid respiratory depression se oxygen delivery fail ho sakti hai. Ventilation immediate support deti hai aur naloxone indicated reversal mein help karta hai.
-- **C.** Definite pulse ke saath respiratory failure ka initial management ventilation hai. Pulse loss par CPR algorithm follow hota hai.
-- **D.** Poor consciousness mein oral fluids aspiration risk badhate hain. Airway support priority hai.
+- **A.** Mixed ingestion mein flumazenil seizure aur arrhythmia risk badha sakta hai. AHA suspected combined exposure mein naloxone pehle consider karti hai.
+- **B.** Naloxone opioid-related respiratory depression ko reverse karne mein help karta hai. Combined exposure mein ise other antidotes se pehle consider karna reasonable hai. Airway support continue hota hai.
+- **C.** Digoxin immune Fab cardiac glycoside toxicity ke liye specific hai. Opioid ya benzodiazepine receptor effects reverse nahi karta.
+- **D.** Atropine muscarinic receptor blockade karta hai. Combined sedative respiratory depression mein ye targeted antidote nahi hai.
 
-**Exam clue:** Opioid respiratory depression se oxygen delivery fail ho sakti hai.
+**Exam clue:** Mixed opioid and benzodiazepine exposure mein ventilation support ke saath naloxone first consider karo.
 
-**Reference:** [AHA 2025 special circumstances of resuscitation](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation).
+**Reference:** [AHA 2025 benzodiazepine poisoning recommendations](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation).
 
 **YouTube MCQ practice:** specific item verification pending.
 
