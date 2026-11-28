@@ -25,6 +25,10 @@
 - **B.** Nonrespondents accessible population ka ek part ho sakte hain. Woh intended district-wide target group ko represent nahi karte.
 - **C.** Investigators research conduct karte hain. Is objective mein study units registered nurses hain, investigators nahi.
 
+**Exam clue:** Target population woh group hai jiske liye conclusion chahiye, achieved sample nahi.
+
+**Related concept reference:** [Australian Bureau of Statistics, Census and sample](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/census-and-sample). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -50,30 +54,38 @@
 - **B.** Allocation concealment trial enrollment ke waqt next treatment assignment ko hidden rakhti hai. Eligible staff ki list recruitment frame hai.
 - **D.** Outcome scale stress ya knowledge jaise outcome ko measure karti hai. Staff ki list measurement instrument nahi hai.
 
+**Exam clue:** Sampling frame woh operational list hai jisse eligible units select hote hain.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q3. A researcher numbers every eligible nurse on a complete roster and uses a computer to select 80 distinct numbers with equal probability. Which method is used?
+### Q3. A researcher uses a computer to select 80 distinct nurse identifiers from a complete roster so that every possible set of 80 nurses has the same probability of selection. Which method is used?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Simple random sampling without replacement
-- **B.** Quota sampling
-- **C.** Purposive sampling
-- **D.** Cluster sampling
+- **B.** Systematic sampling with a random start
+- **C.** Proportionate stratified random sampling
+- **D.** One-stage cluster sampling
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Simple random sampling without replacement**
 
-**A.** Har eligible nurse ka selection chance equal hai aur selected number dobara include nahi hota. Yeh simple random sampling without replacement ki clear example hai.
+**A.** Simple random sampling without replacement mein fixed sample size ke har possible group ka selection chance equal hota hai. Selected nurse ka identifier dobara select nahi hota. Sirf individual inclusion probability equal hona kaafi nahi hai, kyunki kuch other probability designs mein bhi equal inclusion chances ho sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Quota sampling mein researcher categories ki target counts fill karta hai, usually random selection ke bina. Yahan equal chance random selection hua hai.
-- **C.** Purposive sampling mein specific information ya characteristics ke basis par selection hota hai. Yahan researcher ne individual judgment se nurses select nahi kiye.
-- **D.** Cluster sampling mein pehle groups select hote hain. Yahan complete roster se individual nurses select hue hain.
+- **B.** Systematic random sampling mein random starting position choose karke fixed interval par records select karte hain. Is method mein har possible set of 80 nurses necessarily equally likely nahi hota.
+- **C.** Proportionate stratified sampling mein roster ko meaningful strata mein divide karke unke population share ke according samples select karte hain. Question mein aisi category-wise allocation nahi di gayi hai.
+- **D.** One-stage cluster sampling mein naturally formed groups randomly select kiye jate hain aur selected groups ke eligible members ko approach karte hain. Yahan sampling directly individual identifiers se ho rahi hai.
+
+**Exam clue:** Simple random sampling without replacement mein har possible fixed-size sample equally likely hota hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -92,13 +104,17 @@
 
 **Correct: B. 60 ward, 30 ICU and 10 operating-room nurses**
 
-**B.** Total population 1000 hai. Har stratum ka share sample size 100 se multiply karne par 60, 30 aur 10 milte hain aur har group ke andar random selection hoga.
+**B.** Total population 600 + 300 + 100 = 1000 nurses hai. Formula n_h = (N_h / N) × n hai. Ward ke liye 600/1000 × 100 = 60, ICU ke liye 300/1000 × 100 = 30, aur operating room ke liye 100/1000 × 100 = 10 nurses select honge. Har stratum ke andar random selection karna zaroori hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh almost equal allocation hai, population proportion ke according nahi. Equal allocation subgroup comparison ke liye chosen ho sakti hai, lekin proportionate design nahi hai.
 - **C.** Is allocation mein operating-room nurses apne population share se zyada aur ward nurses kam represent honge. Yeh stated proportionate rule follow nahi karta.
 - **D.** Sirf ek stratum se sample lene par baaki strata ka coverage nahi hoga. Proportionate stratified design mein teeno groups se selection hona chahiye.
+
+**Exam clue:** Har stratum ka population proportion total sample size se multiply karo.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -125,6 +141,10 @@
 - **C.** Is approach mein individual nurses directly complete roster se randomly selected hote. Yahan selection ki first unit centre hai.
 - **D.** Convenience sampling availability par depend karti hai. Centres random process se select hue hain, sirf nearby hone ke basis par nahi.
 
+**Exam clue:** One-stage cluster sampling mein selected groups ke sab eligible units ko include karne ka plan hota hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -150,6 +170,10 @@
 - **B.** Quota sampling target category counts fill karti hai aur generally known selection probabilities nahi deti. Scenario mein successive random selections defined hain.
 - **D.** Census mein specified population ke sab units cover kiye jate hain. Yahan facilities aur nurses ka subset select hua hai.
 
+**Exam clue:** District se facility aur phir individual tak selection multistage sampling hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -158,22 +182,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Random start eliminates every possible sampling bias
-- **B.** The sample necessarily becomes a census
-- **C.** The method necessarily becomes snowball sampling
+- **A.** The sample may contain each shift position in exactly equal proportions regardless of the starting point
+- **B.** Using a random start converts the design to simple random sampling
+- **C.** The fixed interval automatically corrects a repeated roster pattern
 - **D.** Periodicity may overrepresent one position in the repeating pattern
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Periodicity may overrepresent one position in the repeating pattern**
 
-**D.** Sampling interval aur roster ka repeating pattern match karte hain. Random start ke bawajood sample mostly same pattern position capture kar sakta hai aur representation distort ho sakti hai.
+**D.** List ka seven-day pattern aur selection interval same hai. Random start overall equal inclusion chances de sakta hai, lekin kisi particular realized sample mein shift positions poorly represented ho sakti hain aur estimate ki variability badh sakti hai. Researcher ko ordering aur sampling design check karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Random start useful hai, lekin list mein periodic pattern ke effect ko automatically eliminate nahi karta. Researcher ko ordering examine karni chahiye.
-- **B.** Fixed interval se selected records ka subset milta hai. Pattern match hone par bhi sab records include nahi hote.
-- **C.** Snowball sampling referrals par depend karti hai. Fixed roster interval mein participant referrals involve nahi hain.
+- **A.** Random start alag positions ko possible banata hai, lekin ek particular sample mein interval seven hone se har seventh entry ki same shift position aa sakti hai. Isliye realized sample necessarily balanced nahi hoga.
+- **B.** Random start systematic sampling ka standard feature hai. Har possible subset equally likely nahi hota, isliye ise simple random sampling nahi keh sakte.
+- **C.** Fixed interval repeating pattern ko remove nahi karta. Agar interval pattern ki length se match kare, toh sample mein ek shift position baar-baar aa sakti hai.
+
+**Exam clue:** Random start ke bawajood interval aur list ke repeating pattern ka match sample precision affect kar sakta hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -200,6 +228,10 @@
 - **C.** Researcher limited time window mein patients invite kar raha hai. Yeh complete clinic census nahi hai.
 - **D.** Recruitment method alone causal proof nahi deta. Causal inference study design aur evidence par depend karti hai.
 
+**Exam clue:** Convenience selection mein available patients aur target population ka difference assess karo.
+
+**Related concept reference:** [Australian Bureau of Statistics, Census and sample](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/census-and-sample). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -224,6 +256,10 @@
 - **A.** All hospital patients mein dialysis experience na hone wale log bhi honge. Yahan researcher ne targeted criterion ke basis par selection kiya hai.
 - **C.** Fixed interval ka koi procedure describe nahi hua. Selection relevant experience ke according hai.
 - **D.** Is design ke liye defined strata aur random selection chahiye. Yahan experience criterion se intentional recruitment ho rahi hai.
+
+**Exam clue:** Relevant experience ke basis par intentional recruitment purposive sampling hai.
+
+**Related concept reference:** [CDC Field Epidemiology Manual, Collecting and Analyzing Qualitative Data](https://www.cdc.gov/field-epi-manual/php/chapters/qualitative-data.html). Indexed description retrieved. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -250,6 +286,10 @@
 - **B.** Cluster randomization groups ko trial conditions assign karti hai. Yahan caregiver recruitment ho rahi hai, intervention allocation nahi.
 - **C.** Systematic sampling fixed interval se list entries select karti hai. Referral invitation fixed list interval par based nahi hai.
 
+**Exam clue:** Existing participants ke network se voluntary recruitment snowball sampling hai.
+
+**Related concept reference:** [Practical guidance to qualitative research, Part 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774281/). Indexed description retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -274,6 +314,10 @@
 - **B.** Equal sizes alone design classify nahi karte. Disproportionate stratified random sampling bhi equal numbers choose kar sakti hai.
 - **C.** Multiple categories quota aur stratified dono mein possible hain. Main difference individual selection ka method hai.
 - **D.** Fixed target size probability aur nonprobability dono sampling plans mein ho sakti hai. Isse random selection establish nahi hota.
+
+**Exam clue:** Quota aur stratified random sampling ka key difference category ke andar selection mechanism hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Census and sample](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/census-and-sample). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -300,6 +344,10 @@
 - **B.** Rural nurses target population ka important part hain. Unko remove karne se coverage aur inference ki problem hogi.
 - **D.** Largest subgroup poori state ki diversity represent karna guaranteed nahi hai. Defined target population ke hisaab se design aur weighting consider karna chahiye.
 
+**Exam clue:** Unequal selection probabilities ko overall estimate mein appropriate survey weights se account karo.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -324,6 +372,10 @@
 - **A.** Measurement error outcome record karne ke waqt hota hai. Yahan problem participants ki list mein inclusion ki hai.
 - **B.** Type II error false null ko reject na karne se related hai. Frame omission sampling coverage ki problem hai.
 - **D.** Inter-rater agreement observers ki ratings ki similarity batati hai. Staff roster mein eligible people missing hone se iska direct relation nahi hai.
+
+**Exam clue:** Frame se eligible group missing ho toh undercoverage ka concern hai.
+
+**Related concept reference:** [Australian Bureau of Statistics, Sample Design](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic%2BSurvey%2BDesign%2B-%2BSample%2BDesign). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -350,30 +402,38 @@
 - **C.** Carryover earlier treatment ke residual effect ko describe karta hai. Survey response difference mein crossover intervention described nahi hai.
 - **D.** Response rate difference variable ki measurement scale change nahi karta. Yahan concern who responded aur who did not hai.
 
+**Exam clue:** Random invitation nonresponse bias ko automatically eliminate nahi karti.
+
+**Related concept reference:** [AAPOR Best Practices for Survey Research](https://aapor.org/standards-and-ethics/best-practices/). Indexed guidance retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q15. Two planned surveys use the same valid instrument and probability method. The second increases the sample size but retains a roster that systematically excludes night-shift staff. Which statement is correct?
+### Q15. A cluster survey includes 400 nurses. For its primary estimate, the design effect relative to a simple random sample of the same size is 2.0. What is the approximate effective sample size for this estimate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** A larger sample can reduce random sampling error but does not repair systematic undercoverage
-- **B.** A sufficiently large sample automatically eliminates undercoverage
-- **C.** A larger sample necessarily makes the instrument less reliable
-- **D.** A larger sample makes inclusion criteria irrelevant
+- **A.** 200
+- **B.** 400
+- **C.** 800
+- **D.** 100
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. A larger sample can reduce random sampling error but does not repair systematic undercoverage**
+**Correct: A. 200**
 
-**A.** More observations se estimate ki random uncertainty kam ho sakti hai. Lekin excluded night-shift staff ab bhi select nahi ho sakte, isliye frame bias remain karega.
+**A.** Effective sample size ka approximate formula actual sample size divided by design effect hai. Yahan 400 ÷ 2.0 = 200 milta hai. Iska matlab hai ki is particular estimate ki precision approximately 200 independent simple-random observations ke barabar hai, na ki actual participants ki count kam ho gayi hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Jis group ka selection chance zero hai, larger sample bhi usko include nahi kar sakta. Frame ko correct karna zaroori hai.
-- **C.** Sample size increase ka instrument reliability se aisa automatic inverse relation nahi hai. Reliability measurement consistency ki property hai.
-- **D.** Eligibility rules target population define karne mein ab bhi important hain. Size badhne se criteria ki need khatam nahi hoti.
+- **B.** 400 actual enrolled sample size hai. Design effect 2 hone se variance reference simple random sample se double hai, isliye effective sample size actual count ke barabar nahi hai.
+- **C.** 400 × 2 = 800 design effect ko galat direction mein apply karta hai. Jab design effect one se bada hota hai, toh same precision ke equivalent simple random sample ka size chhota hota hai.
+- **D.** 100 tab milta agar design effect 4 hota. Diye gaye design effect 2 ko denominator mein use karna chahiye.
+
+**Exam clue:** Effective sample size estimate ke design effect se actual sample size ko divide karke nikalta hai.
+
+**Related concept reference:** [CDC NHANES Reliability of Estimates, effective sample size](https://wwwn.cdc.gov/Nchs/Nhanes/tutorials/ReliabilityOfEstimates.aspx). Indexed formula retrieved, direct page cache miss. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -400,6 +460,10 @@
 - **B.** Effect size sample-size calculation ka important input hai. Isko change karne par calculation repeat karni chahiye.
 - **C.** Sample size formula effect size, variance, power aur design inputs use karta hai. Whole population enroll karna automatically required nahi hota.
 
+**Exam clue:** Same power aur variance par smaller effect detect karne ke liye generally larger sample chahiye.
+
+**Related concept reference:** [CONSORT 2025 explanation and elaboration, sample size item 14](https://www.bmj.com/content/389/bmj-2024-081124.full). Indexed item text retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -424,6 +488,10 @@
 - **B.** 180 mein 10% add karne se 198 milta hai, lekin loss enrolled total par apply hota hai. 198 ka 90% expected retained count 178.2 hai.
 - **C.** 180 ka 90% 162 hota hai, jo already required analyzable number se kam hai. Attrition compensate karne ke liye initial enrollment badhana hai.
 - **D.** Agar 180 enroll hue aur 10% loss hua toh expected retained count 162 hoga. Required 180 analyzable participants ka target meet nahi hoga.
+
+**Exam clue:** Required analyzable count ko expected retention proportion se divide karo, loss percentage seedha add mat karo.
+
+**Related concept reference:** [CONSORT 2025 explanation and elaboration, sample size item 14](https://www.bmj.com/content/389/bmj-2024-081124.full). Indexed item text retrieved. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -450,6 +518,10 @@
 - **B.** Snowball design mein existing participants others ko referral dete hain. Admission sequence mein referral chain nahi hai.
 - **C.** Stratified method mein population ko strata mein divide karke random selection hota hai. Scenario mein strata ya random selection describe nahi hua.
 
+**Exam clue:** Consecutive sampling mein defined period ke eligible admissions ko sequence mein approach karte hain.
+
+**Related concept reference:** [Designing and Using Surveys in Nursing Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014661/). Previously indexed article, full text verification remains pending. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -467,13 +539,17 @@
 
 **Correct: B. Random sampling concerns who enters the study, while random allocation concerns which intervention enrolled participants receive**
 
-**B.** Pehla procedure recruitment aur population representation se related hai. Doosra treatment comparison mein baseline factors ko chance ke through balance karne mein madad karta hai.
+**B.** Pehla procedure recruitment aur population representation se related hai. Doosra treatment comparison mein baseline factors ko chance ke through balance karne mein madad karta hai. Random allocation balance in expectation improve karti hai, lekin ek particular trial mein perfect balance guarantee nahi karti.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Sampling aur allocation alag stages hain. Dono ko interchangeably use karne se study design aur inference confuse ho sakte hain.
 - **C.** Allocation enrolled participants ke groups banati hai, recruitment coverage ko change nahi karti. Broader representativeness sampling frame aur participation par depend karti hai.
 - **D.** Representative sample hone ke baad bhi treatment group allocation biased ho sakti hai. Group comparison ke liye assignment method independently important hai.
+
+**Exam clue:** Random sampling aur intervention allocation do alag study stages hain.
+
+**Related concept reference:** [CDC Field Epidemiology Manual, Collecting Data](https://www.cdc.gov/field-epi-manual/php/chapters/collecting-data.html). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -499,6 +575,10 @@
 - **A.** Qualitative sample size fixed universal number se decide nahi hoti. Study aim, information richness aur approach important hain.
 - **B.** Saturation qualitative data adequacy se related hai. Probability-based population representativeness ka proof nahi hai.
 - **D.** Quantitative hypothesis testing ki power calculation har qualitative study par directly apply nahi hoti. Qualitative rigor aur data adequacy alag criteria se assess hote hain.
+
+**Exam clue:** Saturation ka decision qualitative approach aur data adequacy se justify karo.
+
+**Related concept reference:** [CDC Field Epidemiology Manual, Collecting and Analyzing Qualitative Data](https://www.cdc.gov/field-epi-manual/php/chapters/qualitative-data.html). Indexed description retrieved. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
