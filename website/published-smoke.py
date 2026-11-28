@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"11.9","app.js":"11.9.2","progress.js":"11.8","routine.js":"11.9","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.0","app.js":"12.0","progress.js":"11.8","routine.js":"12.0","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -91,6 +91,16 @@ with sync_playwright() as p:
         page.locator(".daily-week-details>summary").click()
         print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
+        if width<600:
+            expect(page.locator("#library-filters")).to_be_hidden()
+            expect(page.locator("#recent-panel")).not_to_have_attribute("open","")
+            expect(page.locator("#saved-panel")).not_to_have_attribute("open","")
+            assert page.locator(".library-toolbar").bounding_box()["height"]<=60
+            page.locator("#library-panel-toggle").click()
+            expect(page.locator("#library-results")).to_be_hidden()
+            page.locator("#library-search-toggle").click()
+            expect(page.locator("#library-results")).to_be_visible()
+            expect(page.locator("#library-filters")).to_be_visible()
         page.locator("#search").fill("no matching chapter xyz")
         expect(page.locator("#chapters .empty-state")).to_be_visible()
         page.locator("#clear-library").click()
@@ -99,6 +109,8 @@ with sync_playwright() as p:
         # Library entry point: counts and controls must be reachable without using Progress first.
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
+        if respiratory.locator(".chapter-card-details").get_attribute("open") is None:
+            respiratory.locator(".chapter-card-details > summary").click()
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
         library_ids=page.locator(".chapter-card .chapter").evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc').split('/')[1])")
         assert len(library_ids)==len(set(library_ids)) and set(library_ids)=={c["id"] for c in expected["chapters"]}
@@ -158,6 +170,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        if page.locator("#recent-panel").get_attribute("open") is None:
+            page.locator("#recent-panel > summary").click()
         recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(recent.locator("input[type=checkbox]")).to_be_checked()
         recent.locator("input[type=checkbox]").uncheck()
@@ -503,6 +517,15 @@ with sync_playwright() as p:
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
         expect(page.locator("#progress-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-search")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
         page.locator("#progress-search").fill("no matching topic xyz")
         expect(page.locator("#progress-list .empty-state")).to_be_visible()
         page.locator("#clear-progress").click()
@@ -511,6 +534,17 @@ with sync_playwright() as p:
         go({"doc":sample})
         ready()
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#reading-size")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            expect(page.locator(".quiz-panel")).to_be_visible()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
+        print(f"V12 live reader and progress disclosures passed at {width}x{height}.",flush=True)
         page.locator("#reading-size").select_option("large")
         expect(page.locator("body")).to_have_attribute("data-reading-size","large")
         page.locator("#focus-study").click()
