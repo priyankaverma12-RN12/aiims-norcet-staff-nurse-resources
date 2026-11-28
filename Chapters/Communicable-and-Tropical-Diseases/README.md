@@ -13,8 +13,12 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: tropical-b01-20261128-1159Z
-Scope: Isolated tropical disease clinical nursing banks: enteric fever, cholera, scrub typhus, brucellosis, Japanese encephalitis. No community programme, PR61, PR62, or shared navigation edits.
-Claimed UTC: 2026-11-28T11:59:00Z
-Expiry UTC: 2026-11-28T12:29:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Candidate checkpoint — 28 November 2026
+
+[PR66](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/66) verified head `418b024b04985da95ed49c894e0a91dc7fb0c014`: 100 staged original MCQs, 400 individual Roman Hinglish rationales, 100 exam clues, five banks, 10 Easy/50 Medium/40 Difficult. Exact readbacks for all six files, 100 distinct normalized stems, zero exact matches against four live starters, all keys aligned and 25 of each correct letter. No live credit. Prior PR62 remains at 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5; PR61 active scope preserved. Independent clinical/difficulty, full semantic/source/video/curriculum, concept/diagram, navigation and CI checks pending. Next complete uncovered clinical topic banks, then ten original-only 120-question mocks and source-traced PYQs. Preserve all five hourly jobs and learner history.
