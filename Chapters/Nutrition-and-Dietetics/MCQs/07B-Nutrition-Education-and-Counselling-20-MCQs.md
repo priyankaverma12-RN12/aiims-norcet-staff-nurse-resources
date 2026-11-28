@@ -344,27 +344,27 @@ The focus is nutrition-specific education design, methods, implementation, evalu
 
 </details>
 
-### Q14. A group nutrition educator is asked for a detailed individualized diet prescription by a participant with advanced kidney disease and conflicting fluid and electrolyte instructions. What is the appropriate professional response?
+### Q14. A commercial food company offers to fund a community nutrition class on the condition that the nurse presents its branded product as the only healthy option. What is the most appropriate programme decision?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Scope of nutrition education and referral | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Conflicts of interest in nutrition education | **Type:** Original practice
 
-- **A.** Clarify the limits of group advice and coordinate individualized review with the treating team and dietitian
-- **B.** Provide the same group healthy-eating handout as a complete therapeutic prescription
-- **C.** Give a prescription based solely on the participant's reported food preferences
-- **D.** Ask other group members to select the participant's fluid and electrolyte targets
+- **A.** Identify and disclose the conflict, decline the restrictive promotional condition and retain independent evidence-based teaching under the institution's policy
+- **B.** Accept the condition if the company's contribution covers all teaching expenses
+- **C.** Teach the exclusive product claim but mention that sponsorship exists at the end of the session
+- **D.** Allow the sponsor to select all education content provided the nurse delivers it
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Clarify the limits of group advice and coordinate individualized review with the treating team and dietitian**
+**Correct: A. Identify and disclose the conflict, decline the restrictive promotional condition and retain independent evidence-based teaching under the institution's policy**
 
-- **A. Correct:** Advanced kidney disease mein nutrient aur fluid needs clinical status aur lab findings par depend kar sakti hain. Nurse safe general support de sakti hai, lekin conflicting individual orders ko qualified team se reconcile karwana chahiye.
-- **B. Incorrect:** General handout healthy population ke liye useful ho sakta hai, lekin specific renal restrictions alag ho sakti hain. Isko complete prescription treat karna unsafe ho sakta hai.
-- **C. Incorrect:** Preferences important hain, par clinical indication, laboratory results aur existing orders bhi review karne honge. Preferences alone complete therapeutic plan determine nahi karti.
-- **D. Incorrect:** Peer suggestions practical support de sakti hain. Individual renal prescription ke liye qualified clinical assessment chahiye, group vote nahi.
+- **A. Correct:** Jab funding ke badle sponsor teaching content control karna chahta hai toh conflict of interest arise ho sakta hai. Nurse institutional policy follow kare, conflict disclose aur manage kare, aur unsupported exclusive claim accept na kare. Learners ko evidence-based food options samajhne ka chance milna chahiye.
+- **B. Incorrect:** Funding se programme resources improve ho sakte hain, lekin financial benefit misleading education ko justify nahi karta. Sponsorship ki conditions aur institutional safeguards assess karne chahiye.
+- **C. Incorrect:** Disclosure important hai lekin unsupported claim ko correct nahi bana deta. End mein sponsor mention karne se exclusive product endorsement ka potential bias remove nahi hota.
+- **D. Incorrect:** Educator ka content present karna scientific independence establish nahi karta agar sponsor content control kar raha hai. Teaching material independent evidence aur audience needs se guide hona chahiye.
 
-**Exam clue:** General nutrition education ko complex therapeutic prescription ka substitute mat banao.
+**Exam clue:** Sponsorship disclose karna zaroori ho sakta hai, lekin conflict management aur independent teaching bhi essential hain.
 
-**Evidence:** [FAO, Training needs for nutrition educators](https://www.fao.org/4/W3733E/w3733e05.htm) (direct text). [Concept guide](../Concepts/14-Nutrition-Education-and-Counselling.md).
+**Evidence:** [FAO evidence platform, recommendation 3.5.3.b](https://www.fao.org/evidence-platform-agri-food-systems-nutrition/recommendations/detail/3.5.3.b/en) (direct retrieved text on conflict-of-interest safeguards in food and nutrition education). [Concept guide](../Concepts/14-Nutrition-Education-and-Counselling.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
