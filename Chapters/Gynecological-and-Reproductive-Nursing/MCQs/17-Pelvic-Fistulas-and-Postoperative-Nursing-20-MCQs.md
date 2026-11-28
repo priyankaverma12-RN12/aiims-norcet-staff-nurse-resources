@@ -4,27 +4,29 @@
 
 ## Part 1 — Q1–Q5
 
-### Q1. Continuous urine leakage through vagina after hysterectomy suggests?
+### Q1. A woman has persistent urine leakage from the vagina after pelvic surgery. During a supervised three-swab dye assessment, the upper swab is wet with clear urine but is not stained blue after methylene blue is instilled into the bladder. Which additional fistula should the team consider?
 
-**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice, not PYQ
 
-- **A.** Vesicovaginal fistula
-- **B.** Primary dysmenorrhea
-- **C.** Bartholin cyst
-- **D.** Ovarian torsion
+- **A.** Rectovaginal fistula
+- **B.** Ureterovaginal fistula
+- **C.** Simple stress urinary incontinence
+- **D.** Uncomplicated Bartholin duct cyst
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: A. Vesicovaginal fistula**
+**Correct: B. Ureterovaginal fistula**
 
-**Correct kyun?** Bladder aur vagina ka abnormal tract constant leakage karta hai.
+**Correct kyun?** Ureter se urine bladder ko bypass karke vagina mein aa sakta hai. Isliye bladder mein diya blue dye clear upper-vaginal urine ko stain nahi karta. Dye pattern specialist ko fistula site localize karne mein help karta hai, lekin definitive diagnosis ke liye further evaluation zaroori hai.
 
-- **A. Vesicovaginal fistula:** Bladder aur vagina ka abnormal tract constant leakage karta hai.
-- **B. Primary dysmenorrhea:** Dysmenorrhea periods ka pain hai.
-- **C. Bartholin cyst:** Bartholin cyst external lump hoti hai.
-- **D. Ovarian torsion:** Torsion acute pelvic pain deta hai.
+- **A. Rectovaginal fistula:** Is tract mein bowel se stool ya gas vagina mein aa sakti hai. Clear urine without blue bladder dye ka primary explanation nahi.
+- **B. Ureterovaginal fistula:** Ureter directly vagina se connect ho to continuous urine leakage bladder dye-negative ho sakti hai. Ureteric imaging aur specialist review appropriate hain.
+- **C. Simple stress urinary incontinence:** Cough, sneeze ya exertion se episodic leakage hoti hai. Continuous upper-vaginal urine leak ka typical cause nahi.
+- **D. Uncomplicated Bartholin duct cyst:** Ye posterior vestibule ki localized swelling hai; ureteric clear urine leak cause nahi karti.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Dye swabs aur leakage site accurately document karo, patient privacy protect karo, urologic/gynecologic team ko promptly report karo. Dye test trained clinician ke supervision mein hota hai.
+
+**Clinical reference:** [NCBI Bookshelf: Vesicovaginal Fistula](https://www.ncbi.nlm.nih.gov/books/NBK564389/). **Question-level PYQ/YouTube evidence:** Not verified.
 
 </details>
 
