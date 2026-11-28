@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 764 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide aur 20 nursing management aur 20 hypertensive disorders classification aur 20 pre-eclampsia MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 804 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide aur 20 nursing management aur 20 hypertensive disorders classification aur 20 pre-eclampsia aur 20 eclampsia aur 20 HELLP syndrome MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -183,3 +183,13 @@ Ab BP measurement, chronic aur gestational hypertension, white-coat aur masked p
 ## Pre-eclampsia — 28 November 2026
 
 Ab placental mechanism, risk assessment, prevention, maternal complications, birth timing aur postpartum monitoring ke 20 original MCQs available hain. Har option ka separate Roman Hinglish explanation aur concepts mein do original flowcharts hain. NORCET 7 Prelims 2024 ka independently worded reported adaptation separate add hua hai. Obstetrics mein 764 indexed originals aur 28 historical adaptations hain. Independent audit aur specific video verification abhi pending hain. Agla topic eclampsia hai.
+
+
+## Eclampsia — 28 November 2026
+
+[Concepts and diagrams](Concepts/08C-Eclampsia.md) · [20 original MCQs](MCQs/08C-Eclampsia-20-MCQs.md) · [Historical evidence](Previous-Year-Questions/08C-Eclampsia-Evidence.md). Ab seizure response, named magnesium regimens, calculation, safety checks, transfer aur postpartum care ke 20 original questions available hain. Obstetrics mein 784 indexed originals aur 28 historical adaptations hain. Independent review aur specific video mapping abhi pending hain. Agla topic HELLP syndrome hai.
+
+
+## HELLP syndrome — 28 November 2026
+
+[Concepts and diagrams](Concepts/08D-HELLP-Syndrome.md) · [20 original MCQs](MCQs/08D-HELLP-Syndrome-20-MCQs.md) · [Reported adaptation and evidence](Previous-Year-Questions/08D-HELLP-Syndrome-Evidence.md). Ab hemolysis, laboratory classification, differential diagnoses, hepatic complications, hemorrhage readiness aur postpartum care ke 20 naye original questions available hain. RRB Staff Nurse 2019 Shift III ka ek reported adaptation separately include hua hai. Obstetrics mein 804 indexed originals aur 29 historical adaptations hain. Independent review aur video mapping pending hain. Agla topic hypertensive treatment aur monitoring hai.

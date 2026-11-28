@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="650" viewBox="0 0 780 650" role="img" aria-labelledby="title desc">
+<title id="title">Recurrent cystitis prevention pathway</title><desc id="desc">Assess symptomatic recurrence and red flags, review risk factors, consider individualized prevention and review outcomes.</desc>
+<rect width="780" height="650" rx="22" fill="#f0fdfa"/>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#134e4a">
+<text x="390" y="36" font-size="23" font-weight="bold">Recurrent cystitis: prevention pathway</text>
+<rect x="110" y="65" width="560" height="72" rx="12" fill="#ccfbf1" stroke="#0f766e"/><text x="390" y="91" font-size="18">Confirm symptomatic episodes</text><text x="390" y="115" font-size="15">Review cultures, history and current symptoms</text>
+<path d="M390 137V163" stroke="#0f766e" stroke-width="3"/><path d="M383 155L390 165L397 155" fill="none" stroke="#0f766e" stroke-width="3"/>
+<rect x="110" y="170" width="560" height="72" rx="12" fill="#fee2e2" stroke="#b91c1c"/><text x="390" y="197" font-size="18" fill="#991b1b">Check red flags and special populations</text><text x="390" y="220" font-size="15" fill="#991b1b">Systemic illness or complicated recurrence → clinical assessment</text>
+<path d="M390 242V268" stroke="#0f766e" stroke-width="3"/><path d="M383 260L390 270L397 260" fill="none" stroke="#0f766e" stroke-width="3"/>
+<rect x="110" y="275" width="560" height="72" rx="12" fill="#ccfbf1" stroke="#0f766e"/><text x="390" y="301" font-size="18">Individualize initial prevention</text><text x="390" y="325" font-size="15">Hydration suitability, triggers, bladder emptying, local estrogen</text>
+<path d="M390 347V373" stroke="#0f766e" stroke-width="3"/><path d="M383 365L390 375L397 365" fill="none" stroke="#0f766e" stroke-width="3"/>
+<rect x="110" y="380" width="560" height="90" rx="12" fill="#e0f2fe" stroke="#0369a1"/><text x="390" y="408" font-size="18" fill="#075985">Discuss clinician-directed options</text><text x="390" y="432" font-size="15" fill="#075985">Trigger-linked prophylaxis, methenamine or daily antibiotics</text><text x="390" y="453" font-size="14" fill="#075985">Choice depends on population, suitability and guideline</text>
+<path d="M390 470V496" stroke="#0f766e" stroke-width="3"/><path d="M383 488L390 498L397 488" fill="none" stroke="#0f766e" stroke-width="3"/>
+<rect x="110" y="503" width="560" height="72" rx="12" fill="#ccfbf1" stroke="#0f766e"/><text x="390" y="529" font-size="18">Review recurrence, adverse effects and preferences</text><text x="390" y="552" font-size="15">Assess new symptoms promptly and revise prevention plan</text>
+<text x="390" y="613" font-size="14">Educational schematic — not a universal prescribing algorithm</text></g></svg>

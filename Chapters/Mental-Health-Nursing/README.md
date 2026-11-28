@@ -40,6 +40,12 @@
 - [30 original MCQs](MCQs/02D-Neurological-Examination-30-MCQs.md)
 - [Reported NORCET 5 Prelims adaptation](Previous-Year-Questions/02D-Neurological-Examination-Reported-Evidence.md)
 
+### Topic 02E — Electroencephalogram (EEG)
+
+- [Detailed Hinglish concepts](Concepts/02E-Electroencephalogram-EEG.md)
+- [30 original MCQs](MCQs/02E-Electroencephalogram-EEG-30-MCQs.md)
+- [Reported OSSSC Nursing Officer 2023 adaptation](Previous-Year-Questions/02E-EEG-Reported-Evidence.md)
+
 ### Earlier practice preserved
 
 - [4 starter MCQs](MCQs/Mental-Health-Nursing-Topic-Wise-Starter-MCQs.md)
@@ -68,13 +74,14 @@
 | Psychosocial assessment questions | 30 |
 | Cognitive screening and MMSE questions | 30 |
 | Neurological examination questions | 30 |
-| Total original questions indexed | 154 |
-| Source-linked reported adaptations preserved and added | 10 |
+| EEG questions | 30 |
+| Total original questions indexed | 184 |
+| Source-linked reported adaptations preserved and added | 11 |
 | Authenticated official exact questions newly verified | 0 |
 | New chapter mock-exclusive questions | 0 / 1,200 |
-| Original chapter diagrams | 6 |
+| Original chapter diagrams | 7 |
 
-MSE ke 30 questions mein 2 Easy, 22 Medium aur 6 Difficult labels hain. History ke 30 questions abhi Medium labelled hain. Psychosocial assessment ke 30 questions mein 17 Medium aur 13 Difficult labels hain. MMSE ke 30 questions mein 1 Easy, 15 Medium aur 14 Difficult labels hain. Neurological examination ke 30 questions mein 2 Easy, 16 Medium aur 12 Difficult labels hain. Independent difficulty calibration abhi pending hai. Har question mein 4 English options aur hidden Hinglish answer hai. Ye original practice hai, official exam questions nahi. Reported exam adaptations separately rakhe gaye hain.
+MSE ke 30 questions mein 2 Easy, 22 Medium aur 6 Difficult labels hain. History ke 30 questions abhi Medium labelled hain. Psychosocial assessment ke 30 questions mein 17 Medium aur 13 Difficult labels hain. MMSE ke 30 questions mein 1 Easy, 15 Medium aur 14 Difficult labels hain. Neurological examination ke 30 questions mein 2 Easy, 16 Medium aur 12 Difficult labels hain. EEG ke 30 questions mein 1 Easy, 17 Medium aur 12 Difficult labels hain. Independent difficulty calibration abhi pending hai. Har question mein 4 English options aur hidden Hinglish answer hai. Ye original practice hai, official exam questions nahi. Reported exam adaptations separately rakhe gaye hain.
 
 ## 🎯 Kaise padhna hai?
 
@@ -82,6 +89,6 @@ Pehle detailed Concepts padho, diagram se comparison samjho aur phir topic-wise 
 
 🔴 MOST IMPORTANT · 🟠 HIGH YIELD · 🟡 IMPORTANT · 🟢 FOUNDATION. Difficulty alag se Easy, Medium aur Difficult mein di gayi hai. Priority editorial hai, official exam weightage nahi.
 
-**Next topic:** Group 02E EEG, phir CT/MRI, blood chemistry aur psychometric tests. 02A–02D study-ready hain, complete chapter nahi. Full chapter, independent clinical and semantic audit, historical official-key matching, video playback and rendered UI validation remain pending.
+**Next topic:** Group 02F neuroimaging (CT/MRI), phir blood chemistry, related laboratory investigations aur psychometric tests. 02A–02E study-ready hain, complete chapter nahi. Full chapter, independent clinical and semantic audit, historical official-key matching, video playback and rendered UI validation remain pending.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)

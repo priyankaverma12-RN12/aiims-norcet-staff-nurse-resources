@@ -1,0 +1,53 @@
+# Neonatal Nursing manual chapter claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified released checkpoint — 2026-11-28
+
+Draft PR #57, branch neonatal-b01-20261128, head b90e32a104d0c1d42c7f5c2c6054f05dda74d073. Nine chapter-only new files, no deletions. 40 staged original topic MCQs across newborn assessment/Apgar and thermoregulation/warm chain. 160 separate Roman Hinglish rationales, 40 closed answer blocks, 40 normalized-distinct new stems within the candidate, balanced A-D keys, two concept guides, two original SVGs, two evidence registers and candidate inventory. All new files read back exactly. No live credit, no mock or authenticated historical item added. Existing four starter originals and one reported adaptation preserved.
+
+Remaining: 460 new topic originals, then ten separate 120-question original-only mocks. Next 01C immediate routine newborn care and prophylaxis after fresh ownership and overlap checks. Preserve the 40 authored originals. Complete mandatory fresh preflight, independent clinical and difficulty reviews, comprehensive semantic screening, source/video and curriculum reconciliation, SVG rendering, CI, latest-main and PR7/8 navigation coordination before safe publication. Do not count staged material as live. No other jobs, learner history or five hourly automation changes.
+
+## Released checkpoint — 2026-11-28 batch 02
+- Released owner: neonatal-b02-20261128-1312Z
+- Draft PR57 head: 6691313bcbfd3fe458f1671e46d3c620bc372f20
+- Added 100 original MCQs, 400 individual Roman Hinglish rationales, five concepts, five SVGs, five evidence registers and one batch inventory. 21 new files only; prior files unchanged.
+- Cumulative candidate: 140 original topic MCQs, 560 rationales, seven guides, seven diagrams, seven evidence registers. 360 topic originals remaining; ten exclusive 120-question mock tests remain pending. No new live questions.
+- All new files exact-readback verified. 140 normalized distinct authored stems; new structural answer alignment passed. Independent clinical and difficulty review, comprehensive semantic comparison, source/video and curriculum coverage, full bounded preflight, visual render, CI and PR7/8 clearance pending.
+- Next isolated continuation: neonatal jaundice and additional uncovered topics. Preserve all prior authored content and legacy items. No other jobs, learner history, navigation or automation schedule changes.
+
+## Released checkpoint — 2026-11-28 batch 03
+- Released owner: neonatal-b03-20261128-1334Z
+- Draft PR57 head: e4b8a596d763d05b0a95665097940b1e41b10f01
+- 100 new original MCQs, 400 individual Roman Hinglish rationales, five concepts, five SVGs, five evidence registers and batch inventory. 21 added files, 22 content commits, previous files unchanged.
+- Candidate totals: 240 originals, 960 rationales, twelve concept guides, twelve SVGs and twelve evidence registers. All new files exact-readback verified; 240 normalized distinct stems, structural alignment passed. New difficulty 35/35/30. Earlier Easy deficit remains. 260 originals remaining before ten 120-item original-only mocks. No live credit.
+- CI 46151114846 pending at check. PR7/8 existing navigation overlap, no explicit neonatal clearance found. Independent clinical/difficulty, comprehensive semantic, source/video/curriculum, full bounded preflight, stronger distractor and rendering gates remain before merge.
+- Next: NEC, ROP, neonatal seizures, additional distinct newborn respiratory or birth injury topics after adjacent-bank screening. Preserve all existing originals and five schedules. No other job or learner history changes.
+
+## Released checkpoint — 2026-11-28 batch 04
+- Released owner: neonatal-b04-20261128-1406Z
+- Draft PR57 head: 3047fa34ed5969a0b5d8142ae689781ef84ddea0
+- 100 new originals, 400 individual Roman Hinglish rationales, five concepts, five SVGs, five evidence registers and batch inventory. 21 added files, 25 content commits, all previous files unchanged.
+- Candidate: 340 originals, 1360 rationales, seventeen banks/guides/diagrams/evidence registers. Exact remote readbacks verified; 340 normalized distinct stems, no overlap with four starter stems, structural alignment passed. New 35/35/30; cumulative 106/127/107. 160 topic originals remaining before ten exclusive 120-item mocks. No live credit.
+- CI 46151114846 passed, new exact-head CI 46153684468 pending. PR7/8 navigation clearance not found. Independent clinical/difficulty review, comprehensive semantic, source/video/curriculum, preflight, distractor and rendering gates remain. No merge.
+- Next isolated continuation: verified uncovered neonatal congenital GI emergencies, IVH/hemorrhage, polycythemia, screening/discharge and remaining birth-injury competencies; address earlier Easy deficits with genuinely distinct new objectives where appropriate. Preserve all other jobs, learner history and five hourly automations.
+
+## Released checkpoint — 2026-11-28 batch 05
+- Released owner: neonatal-b05-20261128-1430Z
+- Draft PR57 head: d66bcf83aaac792778d67db08d70d9c974cc7e05
+- 100 new originals, 400 individual Roman Hinglish rationales, five guides, five SVGs, five evidence registers and batch inventory. 21 added files, 21 content commits, earlier paths unchanged.
+- Candidate totals: 440 originals, 1760 rationales, 22 banks/guides/diagrams/evidence registers. Normalized stem comparison across 440 authored and four legacy starters found no duplicates; structural validation passed. New difficulty 35/35/30; cumulative 141/162/137. All new files exact-readback verified. 60 topic originals remaining before ten exclusive 120-question mocks. Zero live credit.
+- Prior CI 46153684468 failed website browser icon-height assertion at browser-smoke.py line 549. No exact-head CI run found at check; PR7/8 clearance not found. No shared website/test changes. Independent clinical/difficulty, semantic, distractor, source/video/curriculum, render and preflight gates remain.
+- TEF already covered in PR45; duodenal obstruction/volvulus authored instead. Next: 60 genuinely distinct questions addressing earlier Easy deficits and remaining verified neonatal competencies, then coverage certification and original-only mocks. Preserve other jobs, learner history and five hourly schedules.
+
+## Released checkpoint — 2026-11-28 batch 06
+- Released owner: neonatal-b06-20261128T1736Z
+- Draft PR57 head: d06eed1e3b4dbb4fbc41d865a081d036ad2a3254
+- Added 60 originals, 240 individual Roman Hinglish rationales, four guides, four SVGs, four evidence registers and curriculum-mapped inventory. 17 additive chapter-only files, 17 content commits, earlier paths unchanged.
+- Candidate: 500 originals, 2000 rationales, 26 banks/guides/diagrams/evidence registers. New difficulty 34/14/12, cumulative 175/176/149. New structural and normalized stem comparison against 440 prior originals and four starters passed. Numerical target achieved; full INC coverage not certified. Zero newly live MCQs or mocks.
+- CI 46171965200 pending; prior 46155747158 failed same website icon-height assertion as 46153684468. PR7/8 clearance not found. Shared website/tests unchanged. Independent clinical/difficulty, semantic, source/video/curriculum, render and preflight gates remain.
+- Next: use Batch 06 curriculum map to resolve actual residual competencies including neonatal tetanus, HIV-exposed newborn, Rh disease, safe sleep/compassionate care and remaining gaps after adjacent-bank screening, then certify coverage and create two original-exclusive 120-item mocks per run (40/40/40). Preserve all 500 and other jobs, learner history and five hourly schedules.

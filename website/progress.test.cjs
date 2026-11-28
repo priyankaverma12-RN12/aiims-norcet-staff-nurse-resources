@@ -29,7 +29,7 @@ assert.equal(mockCountText(mockSummary(data,data.chapters[0].records)),'1 mock t
 assert.deepEqual(inventoryLabelParts('Chapters/X/Mock-Tests/',data).map(x=>x.text),['1 mock test · 120 questions','1 unfinished mock section · 10 questions']);
 assert.equal(mockCountText(mockSummary(data,[])),'0 mock tests · 0 questions');
 assert.deepEqual(progressTagInfo({done:false,checked:1}),['In progress','active']);
-assert.deepEqual(progressTagInfo({done:true}),['✓ Completed','done']);
+assert.deepEqual(progressTagInfo({done:true}),['Completed','done']);
 console.log('Published mock test counts, separate draft counts, zero state and personal study labels passed.');
 
 const {theoryRecords,theoryCountText}=require('./progress.js');
@@ -37,3 +37,15 @@ const theoryData={...data,resources:{...data.resources,'Chapters/X/Concepts/READ
 assert.equal(theoryRecords(theoryData).length,2);assert.equal(theoryRecords(theoryData,'Chapters/X/README.md').length,1);assert.equal(theoryRecords(theoryData,'Chapters/X/Concepts/').length,1);assert.equal(theoryRecords(theoryData,t).length,1);assert.equal(theoryRecords(theoryData,'Chapters/X/MCQs/').length,0);
 assert.equal(theoryCountText(1),'1 theory topic');assert.equal(theoryCountText(0),'0 theory topics');assert.equal(inventoryLabelParts('Chapters/X/Concepts/',theoryData)[0].text,'1 theory topic');
 console.log('Theory topic totals exclude drafts, indexes and research notes, and match chapter/folder scope.');
+
+const {resourceProgressPercent,aggregateProgress}=require('./progress.js');
+assert.deepEqual(progressTagInfo({done:false,checked:0,changed:true}),['Not started','neutral']);
+assert.deepEqual(progressTagInfo({done:false,checked:1,changed:true}),['In progress','active']);
+const four=['mcq','mock','pyq','theory'].map((kind,i)=>({kind,path:'p'+i,slots:kind==='theory'?0:4,scoreable:kind==='theory'?0:4,questionKeys:kind==='theory'?null:['a','b','c','d']}));
+assert.deepEqual(aggregateProgress(four,{}, {banks:{}}),{percent:0,label:'Not started',kind:'neutral'});
+for(const record of four){assert.equal(progressTagInfo(completionState(record,{}, {banks:{}}))[0],'Not started');assert.equal(progressTagInfo(completionState(record,{[record.path]:{slots:record.slots}}, {banks:{}}))[0],'Completed');if(record.slots){const x=completionState(record,{}, {banks:{[record.path]:{questions:{a:{}}}}});assert.equal(resourceProgressPercent(x),25);assert.equal(progressTagInfo(x)[0],'In progress')}}
+assert.deepEqual(aggregateProgress(four,{}, {banks:{p0:{questions:{a:{}}}}}),{percent:6.3,label:'In progress',kind:'active'});
+assert.equal(aggregateProgress(four,Object.fromEntries(four.map(r=>[r.path,{slots:r.slots}])),{banks:{}}).label,'Completed');
+assert.equal(resourceProgressPercent({done:false,checked:1,slots:10000}),0.1);
+assert.equal(resourceProgressPercent({done:false,checked:4,slots:4}),99.9);
+console.log('Consistent Not started, In progress and Completed states across MCQ, mock, PYQ, theory and aggregate progress passed.');

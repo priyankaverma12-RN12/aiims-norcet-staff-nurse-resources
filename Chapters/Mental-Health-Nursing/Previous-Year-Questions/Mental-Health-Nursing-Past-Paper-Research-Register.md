@@ -39,3 +39,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 - [NORCET 5 Prelims Shift 2 reported GCS components adaptation](02D-Neurological-Examination-Reported-Evidence.md). NPrep item directly retrieved. Official booklet and key pending.
 - 10 cumulative reported adaptations. No newly authenticated official exact question. GMCH and HPRCA/HPSSSB paper leads require item-level verification.
+
+## 28 November 2026 — Group 02E
+
+- [OSSSC Nursing Officer 2023 reported EEG adaptation](02E-EEG-Reported-Evidence.md). NPrep report directly retrieved. Official paper/key not authenticated.
+- 11 cumulative reported adaptations. No newly authenticated exact official item. Other India-wide paper and key checks remain pending.
