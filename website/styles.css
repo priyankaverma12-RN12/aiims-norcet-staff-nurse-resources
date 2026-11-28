@@ -119,3 +119,5 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 @media(max-width:600px){.tracked-resource-card .tracked-resource-status{padding:.45rem .65rem .25rem}.chapter-links a{flex-basis:42%}.chapter-card-progress{padding:.55rem .85rem}.tracked-resource-line{font-size:.72rem}}
 
 .tracked-resource-card .completion-check input{min-height:0;padding:0}.chapter-links a>.resource-question-count{white-space:normal}.chapter-card .chapter{min-width:0}.chapter-card .chapter>div{min-width:0}
+
+.study-week-note{font-size:.8rem;color:var(--muted);margin:.15rem 0 .85rem}.mistakes-start{border-color:var(--accent);color:var(--accent)}.mistakes-action{border-color:var(--line)}.study-ui .compact-index input[type=checkbox]{width:20px;min-height:0;padding:0}.quiz-bank-progress small,.tracked-resource-line{overflow-wrap:anywhere}

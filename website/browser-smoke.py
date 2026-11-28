@@ -84,7 +84,7 @@ try:
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")
-        expect(page.locator(".metric-record small").first).to_have_text("Mock question slots")
+        expect(page.locator(".metric-record small").first).to_have_text("Mock questions")
         no_overflow(page)
         page.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
         ready(page)
@@ -113,7 +113,7 @@ try:
         image = page.locator('#content img[src*="airway-zones.svg"]').first
         image.scroll_into_view_if_needed()
         page.wait_for_function("Array.from(document.querySelectorAll('#content img')).some(i => i.src.includes('airway-zones.svg') && i.complete && i.naturalWidth > 0)", timeout=30000)
-        expect(page.locator(".quiz-panel")).to_contain_text("44 scoreable questions")
+        expect(page.locator(".quiz-panel")).to_contain_text("44 questions available for practice")
         expect(page.locator("#content h1").first).to_have_text("Day 1 — Respiratory Anatomy & Physiology")
         page.get_by_role("button",name="Learn with instant feedback").click()
         expect(page.locator(".original-explanation")).to_have_count(0)

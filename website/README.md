@@ -56,3 +56,7 @@ Opening a bank shows cumulative saved coverage but does not count as practice. E
 ### V9.2 — progress from every study route
 
 Library chapter cards show separate inventory counts and completion bars; resource listings, recent resources, compact indexes and Metrics cards share mark-done and reset controls with the reader and Progress page. Navigation anchors and completion controls are separate. Counts use the same deployment snapshot and remain separate by category; uncounted resources do not get invented question totals. Chapter totals are not unique-question counts. Drafts and evidence-only documents retain navigation but not completion controls.
+
+### V10 — Simple study language and immediate mistake review
+
+All website-generated question-count labels use questions or MCQs; internal schema field names remain compatible. The original study notes are unchanged. Review mistakes offers up to five currently incorrect answers from the same bank, even before a scheduled review. A correct recheck removes the question from the mistakes list; repeated checks do not inflate daily counts. The home dashboard offers a remaining-question shortcut for the recent partly studied bank and a mistake-review shortcut when available. Weekly feedback acknowledges study days without a streak penalty. Existing progress, saved results and revision dates remain intact. Fixed the public test selector to target the search box rather than the completion checkboxes.

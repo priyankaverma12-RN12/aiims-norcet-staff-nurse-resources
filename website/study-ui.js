@@ -1,5 +1,5 @@
 'use strict';
-const metricLabels={mcq:'Topic MCQs',mock:'Mock question slots',pyq:'PYQ / reported practice',imported:'Imported practice',embedded:'Embedded questions'};
+const metricLabels={mcq:'Topic MCQs',mock:'Mock questions',pyq:'PYQ / reported practice',imported:'Imported practice',embedded:'Embedded questions'};
 let metricsPromise,resourceCatalog={};
 function getResourceMeta(p,heading='',slots=null){return heading?resourceMeta(p,heading,slots??resourceCatalog[p]?.slots??null):(resourceCatalog[p]||resourceMeta(p,'',slots))}
 function knownTitle(p){return getResourceMeta(p).title}
@@ -10,10 +10,10 @@ function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
 async function showMetrics(){
  $('home').hidden=true;$('reader').hidden=true;$('metrics').hidden=false;document.title='Study metrics | Nursing Study Hub';
- const data=await getMetrics();if(!data){$('metrics-status').textContent='Metrics snapshot unavailable. Browse the chapter library for live study material.';return}
+ const data=await getMetrics();if(!data){$('metrics-status').textContent='Question counts are not available right now. You can still study in the Library.';return}
  progressCatalog=completionRecords(data);const requested=params.get('chapter'),select=$('metrics-chapter'),category=$('metrics-category'),search=$('metrics-search'),grid=$('metrics-totals'),list=$('metrics-list');
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;select.append(o)}if(data.chapters.some(c=>c.id===requested))select.value=requested;
- $('metrics-status').textContent='Repository snapshot · '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'})+' · '+data.sourceCommit.slice(0,8);
+ $('metrics-status').textContent='Counts updated · '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'})+' · '+data.sourceCommit.slice(0,8);
  $('metrics-method').textContent=data.method;
  function draw(){
   const chapters=select.value?data.chapters.filter(c=>c.id===select.value):data.chapters,k=category.value,q=search.value.trim().toLowerCase();grid.replaceChildren();list.replaceChildren();
@@ -22,9 +22,9 @@ async function showMetrics(){
    const matches=c.records.filter(f=>(!k||f.category===k)&&(!q||(f.title+' '+f.path+' '+c.name).toLowerCase().includes(q)));
    if(q&&!matches.length)continue;
    const card=node('details',undefined,'metric-chapter'),summary=node('summary'),title=node('span',c.name,'metric-chapter-title'),chips=node('span',undefined,'metric-chips');
-   for(const key of ['mcq','mock','pyq'])chips.append(node('span',c.totals[key]+' '+({mcq:'MCQs',mock:'mock slots',pyq:'PYQ slots'}[key])));
+   for(const key of ['mcq','mock','pyq'])chips.append(node('span',c.totals[key]+' '+({mcq:'MCQs',mock:'mock questions',pyq:'PYQ questions'}[key])));
    summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
-   const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',c.banks.mock+' mock files · '+c.evidenceFiles+' PYQ notes/registers without detected four-option questions'));card.append(tools);
+   const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',c.banks.mock+' mock files · '+c.evidenceFiles+' exam notes and source lists'));card.append(tools);
    const rows=node('div',undefined,'metric-records');for(const f of matches){
     const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
     row.href=route(f.path);row.dataset.category=f.category;
@@ -33,7 +33,7 @@ async function showMetrics(){
     const count=node('div',undefined,'metric-record-count');count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
     const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
     row.append(glyph,left,count,arrow);rows.append(resourceCardWithProgress(row,f.path,{count:false}))
-   }if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
+   }if(!matches.length)rows.append(node('p','No questions found in this category.','muted'));card.append(rows);list.append(card);
   }
   if(!list.children.length)list.append(node('p','No matching topics.','empty-state'));
  }
@@ -52,7 +52,7 @@ function compactIndex(content,p,catalog){
   seen.add(a.href);if(!groups.has(label))groups.set(label,[]);groups.get(label).push({text:linkTitle(target,a.href,a.textContent.trim()),href:a.href,path:target});
  }
  if(!groups.size)return;
- const panel=node('section',undefined,'compact-index'),hint=node('p','Choose a resource below. Study status, provenance notes and the complete original index remain available below.','muted');panel.append(hint);
+ const panel=node('section',undefined,'compact-index'),hint=node('p','Choose a topic to study. Mark it done when you finish.','muted');panel.append(hint);
  const filter=node('input');filter.type='search';filter.placeholder='Find a topic or study resource…';filter.setAttribute('aria-label','Find a topic in this index');panel.append(filter);const groupList=node('div',undefined,'index-resource-groups');panel.append(groupList);
  function draw(){groupList.replaceChildren();const query=filter.value.trim().toLowerCase();for(const [label,links] of groups){const matches=links.filter(l=>!query||(l.text+' '+label).toLowerCase().includes(query));if(!matches.length)continue;const section=node('details',undefined,'index-resource-group');section.open=!!query||groups.size<=2||!groupList.children.length;const summary=node('summary');summary.append(node('strong',label),node('span',matches.length+' links'));section.append(summary);const list=node('div',undefined,'index-link-list');for(const l of matches){const a=node('a',l.text);a.href=l.href;list.append(resourceCardWithProgress(a,l.path))}section.append(list);groupList.append(section)}if(!groupList.children.length)groupList.append(node('p','No matching resources.','muted'))}
  filter.oninput=draw;draw();
@@ -98,7 +98,7 @@ async function enrichDirectory(p,content){
   link.querySelector('.file-count')?.remove();link.querySelector('.resource-question-count')?.remove();
   const target=new URL(link.href).searchParams.get('doc'),f=byPath.get(target),card=link.closest('.tracked-resource-card')||link;
   if(f){link.append(node('span',f.slots+' questions','file-count'));groups[0].push(card)}
-  else if(pyq&&target?.endsWith('.md')){link.append(node('span',evidence.has(target)?'Source notes / index':'Not counted in snapshot','file-count evidence-file'));groups[evidence.has(target)?1:2].push(card)}
+  else if(pyq&&target?.endsWith('.md')){link.append(node('span',evidence.has(target)?'Exam notes and sources':'Question count unavailable','file-count evidence-file'));groups[evidence.has(target)?1:2].push(card)}
   else {addInventoryCount(link,target);groups[2].push(card)}
  }
  if(pyq){list.replaceChildren();for(const [i,title] of ['Question banks','Research and evidence notes','Other resources'].entries()){if(!groups[i].length)continue;list.append(node('h2',title,'pyq-directory-heading'),...groups[i])}}
