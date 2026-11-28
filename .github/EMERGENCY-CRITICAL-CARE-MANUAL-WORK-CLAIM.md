@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: CLAIMED
+Owner: emergency-b03-20261128-0842Z
+Scope: PR49 draft-only new emergency topic packages and targeted corrections. No shared navigation or live publication.
+Claimed UTC: 2026-11-28T08:42:00Z
+Expiry UTC: 2026-11-28T09:12:00Z
+
+PR29/7/8 clearance remains outstanding. Preserve all other workstreams. Full bounded preflight and independent review incomplete. No live credit.
+
+## Prior checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
 State: FREE
 Owner: none
 Scope: none
