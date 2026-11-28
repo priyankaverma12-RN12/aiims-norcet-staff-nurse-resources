@@ -36,12 +36,12 @@ function drawMarks(){const box=$('marks'),marks=getMarks(),search=$('saved-searc
 $('saved-search').oninput=drawMarks;
 function mountResponsiveDisclosures(){
  const narrow=matchMedia('(max-width:600px)'),more=$('nav-more'),overview=$('library-overview');
- const adapt=()=>{if(more)more.open=!narrow.matches;if(overview&&!narrow.matches)overview.open=true};
+ const adapt=()=>{if(more)more.open=false;if(overview)overview.open=false};
  adapt();narrow.addEventListener('change',adapt);
  if(more){
-  more.addEventListener('click',e=>{if(narrow.matches&&e.target.closest('a'))more.open=false});
-  document.addEventListener('pointerdown',e=>{if(narrow.matches&&more.open&&!more.contains(e.target))more.open=false});
-  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&narrow.matches&&more.open){more.open=false;more.querySelector('summary').focus()}});
+  more.addEventListener('click',e=>{if(e.target.closest('a'))more.open=false});
+  document.addEventListener('pointerdown',e=>{if(more.open&&!more.contains(e.target))more.open=false});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&more.open){more.open=false;more.querySelector('summary').focus()}});
  }
 }
 function mountPageWelcome(){

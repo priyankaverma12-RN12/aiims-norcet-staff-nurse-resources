@@ -2,6 +2,8 @@
 // Manual completion is independent of answer accuracy; the daily dashboard reads its saved dates.
 const completionKey='nursing-completion-v1';
 const progressTypes={theory:'Theory topics',mcq:'MCQ banks',mock:'Mock tests',pyq:'PYQ practice',revision:'Revision topics',imported:'Imported practice',embedded:'Embedded practice'};
+const studyFolderKind=k=>['imported','embedded'].includes(k)?'mcq':(['theory','mcq','mock','pyq'].includes(k)?k:'other');
+const studyFolderLabel=k=>({theory:'Theory',mcq:'MCQ practice',mock:'Mock tests',pyq:'Previous-year questions',other:'Other resources'}[k]||k);
 let progressCatalog=null;
 function countSlots(md){
  const clean=md.replace(/<!--[\s\S]*?-->/g,'').replace(/<details\b[^>]*>[\s\S]*?<\/details>/gi,'').replace(/^\s*\x60{3,}[^\n]*\n[\s\S]*?^\s*\x60{3,}[^\n]*$/gm,'');
@@ -196,14 +198,14 @@ async function showProgress(){
  const chapter=$('progress-chapter'),kind=$('progress-kind'),query=$('progress-search'),filter=$('progress-filter'),list=$('progress-list'),summary=$('progress-summary'),message=$('progress-status');
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;chapter.append(o)}for(const [key,label] of Object.entries(progressTypes)){const o=node('option',label);o.value=key;kind.append(o)}
  const requested=params.get('chapter');if(data.chapters.some(c=>c.id===requested))chapter.value=requested;
- const opened=new Set(chapter.value?[chapter.value]:[]),openedGroups=new Set();
+ const opened=new Set(),openedGroups=new Set();
  function scope(){return records.filter(r=>!chapter.value||r.chapter===chapter.value)}
  function summaryBox(label,s){
   const box=node('div',undefined,'completion-stat');box.append(node('span',label),node('strong',s.total?s.percent+'%':'—'),completionMeter(s.percent,label+' completion'),node('small',s.done+' / '+s.total+(label==='Theory topics'?' topics done':' resources done')));if(s.slots)box.append(node('small',s.covered+' / '+s.slots+' questions covered · '+s.questionPercent+'%'));return box
  }
- function draw(){
+ function draw(reset=false){
   const focusPath=document.activeElement?.dataset.progressPath;
-  for(const group of list.querySelectorAll('.completion-category')){if(group.open)openedGroups.add(group.dataset.group);else openedGroups.delete(group.dataset.group)}
+  opened.clear();openedGroups.clear();if(!reset){for(const card of list.querySelectorAll('.completion-chapter[open]'))opened.add(card.dataset.chapter);for(const group of list.querySelectorAll('.completion-category[open]'))openedGroups.add(group.dataset.group)}
 const marks=loadCompletion(),routine=loadRoutine(),scoped=scope(),s=completionSummary(scoped,marks,routine);
   summary.replaceChildren(summaryBox('Overall completion',s));
 
@@ -218,12 +220,12 @@ const marks=loadCompletion(),routine=loadRoutine(),scoped=scope(),s=completionSu
    const categories=node('div',undefined,'completion-categories');card.append(categories);
    function populate(){
     if(categories.children.length)return;
-    for(const [type,typeLabel] of Object.entries(progressTypes)){
-     const rows=matches.filter(r=>r.kind===type),allType=all.filter(r=>r.kind===type);
+    for(const type of ['theory','mcq','mock','pyq','other']){
+     const rows=matches.filter(r=>studyFolderKind(r.kind)===type),allType=all.filter(r=>studyFolderKind(r.kind)===type);
      if(!rows.length&&(selected||search||show||!['theory','mcq','mock','pyq'].includes(type)))continue;
      const group=node('details',undefined,'completion-category');group.dataset.kind=type;group.dataset.group=c.id+':'+type;
      const counts=completionSummary(allType,marks,routine),groupHead=node('summary'),copy=node('div',undefined,'completion-category-copy');
-     const name={theory:'Theory',mcq:'MCQ practice',mock:'Mock tests',pyq:'Previous-year questions'}[type]||typeLabel;
+     const name=studyFolderLabel(type);
      copy.append(node('strong',name),node('small',counts.done+' / '+counts.total+' done'+(rows.length!==allType.length?' · '+rows.length+' shown':'')));
      groupHead.append(copy,node('span',counts.total?counts.percent+'%':'—','completion-category-percent'));group.append(groupHead);
      const body=node('div',undefined,'completion-resources');group.append(body);
@@ -233,20 +235,20 @@ const marks=loadCompletion(),routine=loadRoutine(),scoped=scope(),s=completionSu
     if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions can be answered here; read the others in the original notes','muted'))}
     if(r.kind==='theory'&&!r.slots)tile.append(node('p',x.done?'1 / 1 topic done':'0 / 1 topic done','theory-topic-status'),completionMeter(x.done?100:0,r.title+' progress'));tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
      }}
-     group.open=openedGroups.has(group.dataset.group)||!!selected||!!search||!!show;
+     group.open=openedGroups.has(group.dataset.group);
      if(group.open)populateRows();
      group.ontoggle=()=>{if(group.open)populateRows()};
      categories.append(group);
     }
    }
-   card.open=!!chapter.value||!!search||opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
+   card.open=opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
   if(!visible)list.append(node('p','No matching study resources.','empty-state'));
-  message.textContent=visible+' study resources · Open a chapter, then a study type.';$('clear-progress').hidden=!chapter.value&&!selected&&!show&&!search;if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
+  message.textContent=visible+' study resources';$('clear-progress').hidden=!chapter.value&&!selected&&!show&&!search;if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
  }
- chapter.onchange=()=>{opened.clear();if(chapter.value)opened.add(chapter.value);const u=new URL(location.href);if(chapter.value)u.searchParams.set('chapter',chapter.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};
- kind.onchange=draw;query.oninput=draw;filter.onchange=draw;$('clear-progress').onclick=()=>{chapter.value='';kind.value='';filter.value='';query.value='';chapter.onchange();query.focus()};
+ chapter.onchange=()=>{const u=new URL(location.href);if(chapter.value)u.searchParams.set('chapter',chapter.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw(true)};
+ kind.onchange=()=>draw(true);query.oninput=()=>draw(true);filter.onchange=()=>draw(true);$('clear-progress').onclick=()=>{chapter.value='';kind.value='';filter.value='';query.value='';chapter.onchange();query.focus()};
  $('reset-progress').onclick=()=>resetCompletionScope(scope(),chapter.value?'this chapter':'all tracked chapters');
- document.addEventListener('study-progress-change',draw);draw();
+ document.addEventListener('study-progress-change',()=>draw());draw(true);
 }
 if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots,mockSummary,mockCountText,inventoryLabelParts,progressTagInfo,theoryRecords,theoryCountText};
