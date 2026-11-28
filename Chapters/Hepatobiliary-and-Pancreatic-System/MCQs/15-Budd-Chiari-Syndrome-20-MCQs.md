@@ -4,7 +4,7 @@
 
 [Chapter](../README.md) · [Topic map](../Concepts/Hepatobiliary-and-Pancreatic-System-Topic-Coverage-Map.md)
 
-**Clinical references:** [EASL 2025 vascular liver guidance](https://www.sciencedirect.com/science/article/pii/S0168827825024067), [EASL guideline abstract](https://pubmed.ncbi.nlm.nih.gov/41224629/), [French TIPS guidance 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/liv.15976). Relevant indexed excerpts reviewed. Full source review, specific videos, concepts, diagrams, independent clinical and semantic review remain pending.
+**Clinical references:** [EASL 2025 vascular liver guidance](https://www.sciencedirect.com/science/article/pii/S0168827825024067), [EASL guideline abstract](https://pubmed.ncbi.nlm.nih.gov/41224629/), [French TIPS guidance 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/liv.15976). [Budd-Chiari clinical review](https://www.ncbi.nlm.nih.gov/books/NBK558941/) and [KASL 2026 ascites guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC13430399/) support Q10 and Q18 respectively. Relevant indexed excerpts reviewed. Full source review, specific videos, concepts, diagrams, independent clinical and semantic review remain pending.
 
 ### Q1. Which vascular abnormality defines Budd-Chiari syndrome, excluding cardiac and pericardial causes?
 
@@ -231,28 +231,28 @@
 
 </details>
 
-### Q10. A patient with Budd-Chiari syndrome has known esophageal varices and a new anticoagulation plan. What should the nurse verify?
+### Q10. A patient with acute hepatic venous congestion has increased liver stiffness on elastography. Which interpretation is appropriate?
 
 **Difficulty:** Difficult · **Priority:** HIGH YIELD · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Permanent cancellation of all anticoagulation solely because varices exist
-- **B.** Discontinue all variceal preventive care
-- **C.** A coordinated bleeding-risk and variceal prophylaxis plan without unnecessary delay of indicated therapy
-- **D.** Administer extra anticoagulant independently before every endoscopy
+- **A.** The measurement proves irreversible cirrhosis regardless of the clinical context
+- **B.** Increased stiffness excludes hepatic venous congestion
+- **C.** Congestion itself may raise stiffness, so fibrosis staging requires contextual interpretation
+- **D.** Elastography directly identifies the exact inherited thrombophilia
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. A coordinated bleeding-risk and variceal prophylaxis plan without unnecessary delay of indicated therapy**
+**Correct answer: C. Congestion itself may raise stiffness, so fibrosis staging requires contextual interpretation**
 
-**A. Kyun galat hai:** Varices alone universal permanent contraindication nahi hain.
+**A. Kyun galat hai:** High stiffness fibrosis ka clue ho sakti hai, lekin acute congestion bhi reading badha sakti hai. Isliye irreversible cirrhosis declare karna appropriate nahi hai.
 
-**B. Kyun galat hai:** Variceal prevention relevant rehti hai.
+**B. Kyun galat hai:** Congestion liver stiffness increase kar sakti hai. High value se congestion exclude nahi hoti.
 
-**C. Kyun sahi hai:** Varices bleeding risk increase kar sakti hain, lekin thrombosis control bhi important hai. Team prophylaxis aur anticoagulation timing coordinate karti hai.
+**C. Kyun sahi hai:** Hepatic veins se blood outflow impaired hone par liver mein congestion aur pressure badhta hai. Elastography mechanical stiffness measure karti hai, fibrosis alone nahi. Specialist vascular imaging aur clinical context ke saath fibrosis risk interpret karta hai.
 
-**D. Kyun galat hai:** Extra unsupervised dose bleeding risk badha sakti hai.
+**D. Kyun galat hai:** Elastography tissue stiffness measure karti hai. Genetic ya hematologic thrombophilia ke liye alag tests chahiye.
 
-**Exam clue:** Coordinate thrombosis treatment with bleeding prevention.
+**Exam clue:** Congestion can confound stiffness-based fibrosis assessment.
 
 </details>
 
@@ -431,28 +431,28 @@
 
 </details>
 
-### Q18. Which anatomical feature distinguishes Budd-Chiari syndrome from isolated portal vein thrombosis?
+### Q18. A patient with suspected early Budd-Chiari syndrome has a serum-ascites albumin gradient of 1.5 g/dL and ascitic fluid protein of 3.2 g/dL. Which interpretation is appropriate?
 
 **Difficulty:** Medium · **Priority:** HIGH YIELD · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Both conditions always involve the cystic duct
-- **B.** Budd-Chiari affects only the pancreatic duct
-- **C.** Hepatic venous outflow rather than portal venous inflow is obstructed
-- **D.** Portal thrombosis always obstructs the hepatic artery
+- **A.** The fluid pattern conclusively establishes spontaneous bacterial peritonitis without a cell count
+- **B.** The gradient excludes portal hypertension
+- **C.** Protein-rich, high-gradient ascites supports evaluation for hepatic venous outflow or cardiac congestion
+- **D.** The fluid profile definitively proves malignant ascites
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Hepatic venous outflow rather than portal venous inflow is obstructed**
+**Correct answer: C. Protein-rich, high-gradient ascites supports evaluation for hepatic venous outflow or cardiac congestion**
 
-**A. Kyun galat hai:** Cystic duct biliary pathway hai.
+**A. Kyun galat hai:** SBP assessment mein ascitic neutrophil count aur clinical context important hain. Protein aur gradient alone infection confirm nahi karte.
 
-**B. Kyun galat hai:** Pancreatic duct is vascular syndrome ka defining structure nahi.
+**B. Kyun galat hai:** SAAG 1.1 g/dL ya zyada portal hypertension-related ascites support karta hai. Yahan gradient 1.5 g/dL hai.
 
-**C. Kyun sahi hai:** Portal vein blood liver tak laati hai. Hepatic veins liver se blood drain karti hain. Dono sites distinct hain although coexist kar sakte hain.
+**C. Kyun sahi hai:** Early Budd-Chiari aur cardiac congestion mein elevated hydrostatic pressure ke saath protein-rich fluid abdominal cavity mein aa sakta hai. High SAAG aur protein 2.5 g/dL ya zyada is pathway ko support karte hain. Doppler aur cardiac assessment se cause clarify hota hai, ye fluid pattern alone diagnostic nahi hai.
 
-**D. Kyun galat hai:** Portal vein aur hepatic artery different inflow vessels hain.
+**D. Kyun galat hai:** Malignancy ascites ka possible cause hai, lekin yeh fluid profile alone cancer prove nahi karti. Appropriate imaging aur other tests chahiye.
 
-**Exam clue:** Inflow PVT versus outflow Budd-Chiari.
+**Exam clue:** High SAAG plus high ascitic protein can suggest outflow or cardiac congestion.
 
 </details>
 
