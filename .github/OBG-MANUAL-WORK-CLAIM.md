@@ -1,10 +1,10 @@
 # OBG manual scope claim
 
-State: CLAIMED
-Owner: obg-endocrine-20261128-0157
-Scope: Obstetrics completed endocrine and breast checkpoints and maternal musculoskeletal and skin physiological adaptations new MCQs, concepts, evidence and chapter-local navigation only. No Gynecology, other chapter or shared trackers.
-Claimed UTC: 2026-11-28T01:56:41Z
-Expiry UTC: 2026-11-28T02:26:41Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts published at commit 1bebd39ba675c47de34f01ff52eee29a002e16f5, blob 7e9e330cc6fd0d49ed175eaaaf2189786f78e66f. Remote exact content readback: 20 numbered questions, 20 hidden answer blocks, 4 parts. Chapter README indexed and verified at commit e0bc7f2460fb6cee00d3a939101fabec9cd5f3eb, blob 2fa5fb802c31ab4280a9648c71ececdba17864f2. OBG obstetric total now 44 original slots including 4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis. Existing two reported ANC adaptations preserved. No new PYQs or mocks in this run. All five job claims were FREE at initial inspection, separate OBG scope claimed and verified before writing. Both skill contents fetched but full independent clinical verification, semantic duplicate audit across all parallel chapters, direct medical references and question-level YouTube evidence remain pending. Do not label this a fully certified bank. Next: physiological changes of pregnancy, then remaining OBG topics, evidence-backed PYQs and ten distinct mocks. Recheck claims and file SHAs before every write. Other jobs untouched.
 
@@ -67,3 +67,11 @@ Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts
 - RRB Staff Nurse 20 July 2019 Shift II third-party report directly retrieved. One adaptation c0b070735bc276bcfb80a36b108dab9d4d4ee39c, blob da63f86a483d0ea151c53ea500389abe682e1a04, with corrected explanation that Montgomery glands exist outside pregnancy. Official key not authenticated. Colostrum and milk-ejection recruitment leads reserved for postpartum/newborn topics. Dedicated video description and NORCET teaching timestamp leads, 19 item-specific playback gaps.
 - README c1ea57ef977ad8e6a62beae5c502a4212078b72e, map c91a0cfe31aed6eaf53b30e92e5c93dbed290a28 and register b17381962b09ab160619862566eae0231fae8f3b exact readbacks. Obstetric 186 indexed originals, nine reported adaptations, Gynecology unchanged 504 originals and ten adaptations. Combined 690 indexed originals, 19 reported adaptations. All previous banks preserved.
 - Next: musculoskeletal and skin adaptations, allocate overview Q19 and Q20 once respectively. Claim scope updated after formal coordination checks.
+
+
+## Verified musculoskeletal and skin continuation — 28 November 2026
+
+- Musculoskeletal 19 originals: commit `310b0c128b447877b1109ede651d0ec517db0577`, blob `8fd424acd4941192f1be96b87ddf9081bfb6ae77`. Skin 19 originals: commit `e32fa157231a808423da45f8babb14b25f41e727`, blob `828c726f356f30b094cdd5876c5939522446035e`. Shared detailed Roman Hinglish concepts and two original Mermaid flowcharts: `208d47a265d2ce9b449a567739f553a7a4a2f0ca`, blob `776bcd335a733a7a8672e78b434f1a4765a7660f`. One AIIMS Raipur 31 August 2019 Shift II reported MSH adaptation: `9e619abf6a93293e93d89d70871da4a9f71e4eb6`, blob `1a4cd0f9fa907de79b14eccc08815beebef0ee41`. Official key not authenticated. Distinct from earlier linea nigra identification task. No sufficiently attributed new musculoskeletal recruitment question located.
+- Navigation readbacks exact: chapter README `ebefa2256cf578a9e20a8212d99e9a51cfecb679`, coverage map `ba2abb7c6479c6d8f2f9896fa7541b8548b8ebc0`, research register `9cf7af2241c15b951c59d92802e7599600093d2d`. Previous files and work scopes preserved.
+- Full run: 76 additional original MCQs in four 19-item banks, 304 option-specific rationales, 76 hidden answers, four original Mermaid flowcharts across three concept files and three reported adaptations. Each bank read back exactly, final option-key alignment valid in all 76 items, 76 distinct normalized new stems and zero exact normalized overlap against all 148 previous Obstetrics originals. Relevant Endocrine, Gynecology, Anatomy, Musculoskeletal, Integumentary and Foundations bank stems compared for learning-task overlap. Comprehensive independent semantic and clinical audit is not certified. Prior rule readings reused with unchanged remote rule hashes, relevant current sections checked, full fresh line-by-line audit-log and both-skills reread not certified. Video metadata/topic leads only, all 76 item-specific playback gaps retained. Mermaid rendering not tested. No official keys authenticated.
+- Final verified inventory: Obstetrics 224 originals and ten reported adaptations, separate Gynecology 504 indexed originals and ten reported adaptations. Combined OBG 728 indexed originals and 20 reported adaptations. Gynecology parallel 20 unallocated slots remain excluded. Nine maternal physiological systems now have 20 allocated originals each, overview Q01–Q20 included once; 180 physiological allocations total. This completes requested 20-per-system allocation, not full OBG or general 30–40 targets. No new mocks. Next: fetal development, placenta and membranes, fetal assessment in curriculum order. Fetal development and placenta not started in this run. Own claim released; other work claims and schedules unchanged.
