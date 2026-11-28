@@ -1,8 +1,8 @@
 # Pulmonary recovery evidence
 
-20 originals, 80 individual rationales. NCBI Atelectasis full text directly retrieved (etiology, pathophysiology and management). ARISCAT/respiratory failure review, I COUGH, PRISM and LIPPSMAck-POP indexed results used; PMC/PubMed direct opens for several papers returned CAPTCHA, BMJ 2026 review 403. No full-text verification of blocked sources claimed. Adjacent Respiratory Day04 Q1–4 and Foundations 25, existing PACU and preoperative objectives reviewed; avoided basic spirometer technique, pain-induced shallow breathing and generic mobilization. Cross-chapter full semantic review including respiratory physiology bank (FRC) and I COUGH objectives, independent clinical review and video verification pending. Author-estimated 7 Easy, 7 Medium, 6 Difficult.
+20 originals, 80 individual rationales. NCBI Atelectasis full text directly retrieved (etiology, pathophysiology and management). ARISCAT/respiratory failure review, I COUGH, PRISM and LIPPSMAck-POP indexed results used; PMC/PubMed direct opens for several papers returned CAPTCHA, BMJ 2026 review 403. No full-text verification of blocked sources claimed. Adjacent Respiratory Day04 Q1–4 and Foundations 25, existing PACU and preoperative objectives reviewed; avoided basic spirometer technique, pain-induced shallow breathing and generic mobilization. Cross-chapter full semantic review including respiratory physiology and I COUGH objectives, independent clinical review and video verification pending. Author-estimated 7 Easy, 7 Medium, 6 Difficult.
 
-- Q1: [A](https://www.ncbi.nlm.nih.gov/books/NBK545316/) — Which lung volume represents the air remaining after a normal passive expiration?
+- Q1: [ARISCAT observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7047701/) — For the standard preoperative oxygen saturation input in ARISCAT risk assessment, which measurement condition is used when clinically safe?
 - Q2: [S](https://pmc.ncbi.nlm.nih.gov/articles/PMC7047701/) — What is the main purpose of the ARISCAT score?
 - Q3: [I](https://www.bumc.bu.edu/surgery/quality-safety/i-cough/) — In the I COUGH pulmonary-care program, what does the letter O represent?
 - Q4: [I](https://www.bumc.bu.edu/surgery/quality-safety/i-cough/) — In the I COUGH program, what does U represent?
@@ -22,3 +22,5 @@
 - Q18: [T](https://pubmed.ncbi.nlm.nih.gov/29367198/) — A team designing preoperative pulmonary rehabilitation for elective upper abdominal surgery cites LIPPSMAck-POP. Which intervention was central to that randomized trial?
 - Q19: [S](https://pmc.ncbi.nlm.nih.gov/articles/PMC7047701/) — A patient has a high ARISCAT score but no established postoperative complication. Which interpretation should guide care planning?
 - Q20: [A](https://www.ncbi.nlm.nih.gov/books/NBK545316/) — Why can prolonged exposure to a high inspired oxygen fraction contribute to absorption atelectasis during anesthesia?
+
+Incremental correction: Respiratory Day01 already includes the FRC definition (including a retained same-objective mapping). Replaced new Q1 with the room-air preoperative SpO2 measurement condition; indexed study describes room-air assessment. No extra question credit. No oxygen withdrawal solely for scoring. Key and difficulty retained.

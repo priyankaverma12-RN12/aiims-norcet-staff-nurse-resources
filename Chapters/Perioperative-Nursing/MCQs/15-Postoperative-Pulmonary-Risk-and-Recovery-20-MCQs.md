@@ -4,30 +4,30 @@
 
 [Concept](../Concepts/15-Postoperative-Pulmonary-Risk-and-Recovery.md) · [Evidence](../Revision/15-Postoperative-Pulmonary-Risk-and-Recovery-Evidence.md)
 
-### Q1. Which lung volume represents the air remaining after a normal passive expiration?
+### Q1. For the standard preoperative oxygen saturation input in ARISCAT risk assessment, which measurement condition is used when clinically safe?
 
 **Difficulty:** Easy | **Priority:** IMPORTANT | **Exam focus:** NORCET / HPRCA HP Staff Nurse original practice
 
-- **A.** Tidal volume
-- **B.** Inspiratory reserve volume
-- **C.** Functional residual capacity
-- **D.** Vital capacity
+- **A.** Oxygen saturation after a maximal supplemental oxygen challenge
+- **B.** Oxygen saturation after postoperative extubation
+- **C.** Preoperative oxygen saturation while breathing room air
+- **D.** Oxygen concentration measured in the anesthesia machine
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Functional residual capacity**
+**Correct: C. Preoperative oxygen saturation while breathing room air**
 
-- **A.** Tidal volume ek normal breath mein move hone wali air hai.
+- **A.** Supplemental oxygen baseline saturation ko change kar sakti hai. Maximal oxygen challenge standard ARISCAT input nahi hai.
 
-- **B.** Normal inspiration ke baad extra inhale ki ja sakne wali air IRV hai.
+- **B.** Postextubation reading recovery assessment ke liye useful hai, lekin preoperative risk input ko replace nahi karti.
 
-- **C.** Normal expiration ke baad residual volume aur expiratory reserve volume ka sum FRC hota hai.
+- **C.** Standard assessment room-air preoperative SpO2 use karta hai. Agar patient ko oxygen medically required hai, toh sirf scoring ke liye oxygen withdraw mat karo. Actual support document karke clinician se interpretation clarify karo.
 
-- **D.** Vital capacity maximal inspiration se maximal expiration tak ka volume hai.
+- **D.** Anesthesia machine analyzer inspired gas concentration batata hai. Patient ki preoperative arterial oxygen saturation alag measurement hai.
 
-**Exam clue:** FRC anesthesia-related dependent collapse se relevant hai.
+**Exam clue:** Risk-score measurement conditions verify karo without compromising prescribed oxygen support.
 
-**Clinical reference:** [Clinical source A](https://www.ncbi.nlm.nih.gov/books/NBK545316/)
+**Clinical reference:** [Perioperative risk factors for pulmonary complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7047701/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
