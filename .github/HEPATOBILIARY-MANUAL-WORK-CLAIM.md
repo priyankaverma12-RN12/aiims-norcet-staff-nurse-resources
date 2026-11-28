@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: continuation-pr60-b09-20261128T122200Z
-Scope: PR60 Batch 09 isolated autoimmune pancreatitis, acute hepatitis A, ascites management, chronic pancreatic duct intervention and biliary malignancy new banks only. No existing content or shared navigation edits.
-Claimed UTC: 2026-11-28T12:22:00Z
-Expiry UTC: 2026-11-28T12:52:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -44,3 +44,7 @@ Candidate head bca900afec5fb655574147e9c2e84cc77ccf9b58. Added 100 original MCQs
 ## Batch 08 released checkpoint — 28 November 2026
 
 Candidate head a0c98fb262ad5013d49127189b7f50b4581f1030. Added 100 originals across five new banks (benign focal liver lesions, exocrine pancreatic insufficiency, pancreatic fluid collections, acute cholangitis and duct stones, ERCP safety) and 400 separate Roman Hinglish rationales. All five banks and inventory exact readbacks passed. 740 staged originals, 2960 rationales, 740 clues, 37 banks, six guides and one SVG. 100 distinct normalized new stems, no exact matches against 140 targeted prior stems, full prior stem comparison incomplete due to tool limit. Previous 32 banks preserved unchanged. Independent reviews, item-specific source/video, concepts/diagrams, full preflight, curriculum and integration gates pending. No live originals, mocks or PYQs added. Continue verified remaining topics, then mutually distinct original-only mocks after certified topic coverage. No other claim, learner history or hourly automation schedule changes.
+
+## Batch 09 released checkpoint — 28 November 2026
+
+Candidate head c5a8ebd78f9e8a2e1a82cfa7863e409c86e7c525. Added 100 original MCQs across five new banks (autoimmune pancreatitis, acute hepatitis A, ascites management, chronic pancreatic duct intervention, biliary malignancy), 400 separate Roman Hinglish rationales and 100 clues. All five banks and appended inventory exact readbacks passed. New difficulty 35 Easy/35 Medium/30 Difficult, A/B/C/D 25 each. All 100 answer mappings and closed details verified, 100 distinct normalized stems, zero exact matches against all 744 prior candidate/starter headings. 840 staged originals, 3360 rationales, 840 clues, 42 banks, six guides and one SVG. Cumulative difficulty 98 Easy, 404 Medium, 338 Difficult, overall Easy deficit remains. Earlier 37 banks preserved, no live credit or new mock/PYQ. Independent clinical/pharmacy/semantic review, full source/video checks, companion guides/diagrams, full bounded preflight, curriculum reconciliation, PR29/7/8 and safe integration remain pending. Next verify remaining meaningful INC objectives and complete topic coverage before ten original-only balanced mocks, two per run, then sourced topic-mapped PYQs. No other claims, learner history, website or schedules changed.
