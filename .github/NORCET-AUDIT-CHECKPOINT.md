@@ -1,8 +1,9 @@
 # Job 3 — deep audit checkpoint
 
-State: FREE
-Owner: none
-Scope: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job3-imported-20261128-0312
+Scope: Medical-Surgical-Test-01-Imported-60.md Q1–20, own audit log and checkpoint only. No other jobs or PR edits.
+Claimed UTC: 2026-11-28T03:12:40Z
+Expiry UTC: 2026-11-28T03:42:40Z
 
 Latest: Respiratory-System-Grand-Mock-50.md Q16–50 reviewed, corrected and published, commit 3f003c631089b405179095960e8d7912b982e570 blob 23bb66dce16f601f0a7730ad06f534c02f9b416d. Exact full remote readback passed. All 35 stems, 140 English options and keys BBADCCBADDCBAADCBBADCCBADDCBAADCBBA preserved, 140 separate Roman Hinglish reasons, 35 exam clues and priority rows, 20 difficulty regrades, corrected two truncated numerical clues and qualified FiO2 approximation. Q1–15 byte-identical, all 50 hidden answers preserved. Five visible related reported-concept exam tags supported by directly retrieved third-party questions (NORCET 2020, ESIC 2019, JIPMER 2013, NORCET 9 and 6 Prelims); no exact official authentication or new PYQ count. Corrected misleading erythema terminology from ESIC report in learning note, no adoption of its reported key. One additional topic-level Venturi MCQ video marker, 34 specific gaps, zero exact playback. Grand mock 50/50 question-level clinical/rationale reviews, 200 reasons, two topic-level mappings and 48 specific video gaps across both batches. Learning log commit e0311980df3f2e2097b812c197b69dee4369c417 exact readback. Cumulative 474 clinical/rationale reviews and eight prior recent source-traced adaptations. No new originals or mock-exclusive credit. Five claims, known manual scopes, recent commits and PR8/12 checked. PR8 older imported coordination snapshot must reconcile released current main checkpoint, current MCQ and audit log before merge; PR12 disjoint. Job4 and Job5 separate Foundation scopes preserved and since released. Both skills, AGENTS/Copilot and audit log retrieved and current applicable rules reviewed against previous unchanged skill blobs, fresh complete line-by-line reread not certified. Clinical references directly retrieved or indexed, not full source-depth certification. No schedules changed. Next Medical-Surgical-Test-01-Imported-60.md Q1 onward, then three compiled chapter mock audits, remaining PYQ, concept/revision and syllabus coverage. Full semantic, official key, specific video and rendered UI verification remain pending. No chapter certified complete. Own claim released.
