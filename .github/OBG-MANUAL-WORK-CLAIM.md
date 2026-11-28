@@ -1,10 +1,10 @@
 # OBG manual scope claim
 
-State: CLAIMED
-Owner: obg43-publication-20261128T1709Z
-Scope: PR43 08E three candidate files and Obstetrics-only README, topic map and past-paper register; learner authorization PR43 comment 7242794073; no Gynecology, website or other job changes.
-Claimed UTC: 2026-11-28T17:09:00Z
-Expiry UTC: 2026-11-28T17:39:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts published at commit 1bebd39ba675c47de34f01ff52eee29a002e16f5, blob 7e9e330cc6fd0d49ed175eaaaf2189786f78e66f. Remote exact content readback: 20 numbered questions, 20 hidden answer blocks, 4 parts. Chapter README indexed and verified at commit e0bc7f2460fb6cee00d3a939101fabec9cd5f3eb, blob 2fa5fb802c31ab4280a9648c71ececdba17864f2. OBG obstetric total now 44 original slots including 4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis. Existing two reported ANC adaptations preserved. No new PYQs or mocks in this run. All five job claims were FREE at initial inspection, separate OBG scope claimed and verified before writing. Both skill contents fetched but full independent clinical verification, semantic duplicate audit across all parallel chapters, direct medical references and question-level YouTube evidence remain pending. Do not label this a fully certified bank. Next: physiological changes of pregnancy, then remaining OBG topics, evidence-backed PYQs and ten distinct mocks. Recheck claims and file SHAs before every write. Other jobs untouched.
 
@@ -247,3 +247,8 @@ Inventory: Obstetrics 784 indexed originals and 28 adaptations. Gynecology uncha
 - Clinical research: StatPearls HELLP, named Tennessee/Mississippi criteria, Indian NHM CEmONC 2024, INC critical-care curriculum, NICE, FIGO, TMA differential reviews, SOAP 2021 neuraxial platelet considerations. PDF screenshots failed; extracted text used with limitations. HPRCA indexed official notice and archives, no authenticated matched HELLP item. Dedicated MCQ video candidate indexed, direct watch inaccessible; no exact question timestamps or specific playback verified. Evidence gaps explicitly preserved.
 - Fresh bounded preflight root SKILL 1–156, publisher SKILL 1–486, AGENTS, Copilot, audit learnings 1–842; latest main and claims checked; PR8 older navigation overlap must be reconciled by owner, PR12 disjoint. No edits to other jobs, PRs, learner history, website or automations.
 - Inventory: Obstetrics 804 allocated originals, 29 historical adaptations; Gynecology 564 originals and 11 adaptations, 39 preserved unallocated slots unchanged. Combined 1368 allocated originals, 40 historical adaptations. 33 corrected difficulty labels, 07A–K and 08A–D preserved. 08E hypertensive treatment and nursing management next, not published this run. Complete current clinical references, distinct original bank, detailed rationales and diagrams, historical/video evidence, independent clinical/semantic reviews, exact publication and readbacks. Release own isolated scope only.
+
+
+## Learner-authorized 08E publication continuation — 28 November 2026
+
+- Learner explicitly approved merging and deployment, recorded in PR43 comment 7242794073. Isolated ownership acquired 023aa57174b6cbddda5eb93a7feaace6e68ed04d, exact remote readback. Applied seven prepared corrections in 87c73b0330762436a79184b93cdd2472771ccf94; exact three-file readbacks. Reconciled latest main 1ae7a062b2328d7f5c81781f355696ec0b8ac08d at candidate 4458e206902dcce8ebf04a958962babf17d9adc8; exactly six expected Obstetrics paths differ, all exact readbacks passed. 20 staged originals, 80 individual rationales, two diagrams and Q06 preserved. Prospective 824 Obstetrics/1388 combined allocated originals not live. Gynecology 564 allocated and 59 preserved physical slots at latest README, no edit. Exact-head regression 46169088923 in progress at last check. Independent clinical/semantic sign-off and mandatory integration gates outstanding, no claim of live publication. Released only own claim. Preserve all other work and five schedules.
