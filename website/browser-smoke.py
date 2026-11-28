@@ -376,9 +376,17 @@ try:
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
             no_overflow(mobile)
             if width<=600:
+                expect(mobile.locator("#library-overview")).not_to_have_attribute("open","")
+                mobile.locator("#library-overview>summary").tap()
                 assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
                 assert mobile.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="-1"
                 assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
+                mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#nav-more")).not_to_have_attribute("open","")
+                mobile.locator("#nav-more>summary").tap()
+                expect(mobile.locator("#saved-link")).to_be_visible()
+                mobile.locator("#nav-more>summary").tap()
+                expect(mobile.locator("#saved-link")).not_to_be_visible()
                 assert mobile.locator("#library-link").bounding_box()["height"]>=43
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
@@ -425,6 +433,17 @@ try:
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                for section in ["theory","mcq","mock","pyq"]:
+                    expect(mobile.locator(f".completion-category[data-kind={section}]")).to_have_count(1)
+                expect(mobile.locator(".completion-resource")).to_have_count(0)
+                mobile.locator(".completion-category[data-kind=theory]>summary").tap()
+                expect(mobile.locator(".completion-category[data-kind=theory] .completion-resource").first).to_be_visible()
+                expect(mobile.locator(".completion-category:not([data-kind=theory]) .completion-resource")).to_have_count(0)
+                mobile.locator("#progress-kind").select_option("mcq")
+                expect(mobile.locator(".completion-category[data-kind=mcq] .completion-resource").first).to_be_visible()
+                expect(mobile.locator(".completion-category[data-kind=theory]")).to_have_count(0)
+                no_overflow(mobile)
+                print("V11.6 mobile disclosures and isolated progress categories passed.",flush=True)
                 assert mobile.locator("#progress-chapter").bounding_box()["height"]>=43
                 no_overflow(mobile)
                 mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
