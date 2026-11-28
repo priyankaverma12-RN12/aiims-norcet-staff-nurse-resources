@@ -359,9 +359,14 @@ try:
         page.get_by_role("button",name="Submit and see results").click()
         expect(page.locator(".result-score")).to_contain_text("100.0%")
         expect(page.locator(".result-celebration")).to_be_visible()
+        expect(page.locator(".result-hero > .study-celebration")).to_have_attribute("aria-hidden","true")
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(1)
         page.reload()
         expect(page.locator(".result-heading")).to_be_visible(timeout=30000)
         expect(page.locator(".result-celebration")).to_have_count(0)
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(0)
+        assert page.evaluate("""()=>{const root=document.createElement('div');root.innerHTML='<p><strong>Difficulty:</strong> 🟢 Easy · Priority: IMPORTANT</p><p>Difficulty: 🟡 Medium</p><p>Difficulty: 🔴 Difficult</p><p>Medium is a clinical term.</p>';decorateQuestionDifficulty(root);return [...root.querySelectorAll('.difficulty-label')].map(x=>x.dataset.level).join(',')==='easy,medium,difficult'&&root.querySelectorAll('.difficulty-icon i').length===9&&root.lastElementChild.textContent==='Medium is a clinical term.'}""")
+        print("V11.9 explicit difficulty metadata, accessible icons and one-shot celebration passed.",flush=True)
         print("Learning preserves saved timed result, all four progress milestones, hidden timed answers and one-time result celebration passed.",flush=True)
 
 
