@@ -915,3 +915,79 @@ body{font-family:var(--ui-font)}
 #library .library-toolbar h1{flex:1;min-width:0;margin:0;font-family:var(--ui-font);font-size:var(--ui-heading);font-weight:800;letter-spacing:-.035em;line-height:1.2;overflow-wrap:anywhere}
 #home #library-overview,#home #daily-panel,#home #recent-panel,#home #saved-panel{margin:.4rem 0 .65rem}
 #library .panel-icon{min-height:44px;min-width:44px;flex:0 0 44px}
+
+/* V12.6 — mobile personal dashboard and dedicated Saved/Resume workspaces */
+:root{--pace-low:#a12632;--pace-steady:#98600b;--pace-good:#166534}
+html[data-theme=dark]{--pace-low:#ffb5ba;--pace-steady:#f5cf83;--pace-good:#a3e7ba}
+#home .hero{padding:.9rem 1rem}
+#home .hero h1{margin:.4rem 0 .65rem}
+#home .hero-actions{margin:.65rem 0 0;gap:.45rem}
+#home .hero-actions>a{border-radius:9px;min-height:44px}
+#home .hero-secondary{border:1px solid currentColor}
+#home-activity-panel{margin:.5rem 0 .65rem}
+.home-metrics-link{font-size:.75rem;margin-left:auto;min-height:44px;display:inline-flex;align-items:center}
+.home-activity-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.4rem}
+.home-activity-card{display:flex;flex-direction:column;gap:.15rem;padding:.55rem .6rem;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);min-width:0;text-decoration:none;overflow-wrap:anywhere}
+.home-activity-card>span{font-size:.78rem;font-weight:750;color:var(--muted)}
+.home-activity-card>strong{font-size:clamp(1.4rem,3vw,2rem);font-weight:800;line-height:1.15;color:var(--count-week);font-variant-numeric:tabular-nums;letter-spacing:-.03em}
+.home-activity-card>small{font-size:.7rem;color:var(--muted);line-height:1.35}
+.home-activity-card[data-level=low]>strong,.home-activity-card[data-level=low] .home-pace{color:var(--pace-low)}
+.home-activity-card[data-level=steady]>strong,.home-activity-card[data-level=steady] .home-pace{color:var(--pace-steady)}
+.home-activity-card[data-level=complete]>strong,.home-activity-card[data-level=complete] .home-pace{color:var(--pace-good)}
+.home-activity-card[data-period]{border-top:3px solid var(--line)}
+.home-activity-card[data-level=low]{border-top-color:var(--pace-low)}
+.home-activity-card[data-level=steady]{border-top-color:var(--pace-steady)}
+.home-activity-card[data-level=complete]{border-top-color:var(--pace-good)}
+.home-activity-link:hover{border-color:var(--accent)}
+#library #library-overview{margin:0 0 .65rem}
+#library .stat strong{color:var(--accent)}
+#library #theory-total{color:var(--count-theory)}
+#library #mock-total{color:var(--count-mock)}
+#library #mark-total,#library #recent-total{color:var(--count-week)}
+#home .daily-study{--stage-ink:var(--pace-steady);border-radius:12px;padding:.65rem}
+#home .daily-study[data-stage=new]{--stage-ink:var(--count-week)}
+#home .daily-study[data-stage=complete]{--stage-ink:var(--pace-good)}
+#home .daily-header{padding:.65rem;border-radius:10px;background:var(--accent-bg);border:1px solid var(--line);margin:0 0 .5rem}
+#home .daily-header h2{font-size:clamp(1.1rem,2vw,1.45rem);font-weight:800;color:var(--stage-ink)}
+#home .daily-encouragement{font-size:.78rem;line-height:1.45}
+#home .daily-progress-label strong,#home .daily-goal-status{color:var(--stage-ink)}
+#home .daily-count-breakdown{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.3rem;margin:.5rem 0}
+#home .daily-count-breakdown .daily-count-cell{display:flex;flex-direction:column;gap:.1rem;padding:.4rem;border:1px solid var(--line);border-radius:8px;background:var(--paper);font-size:.69rem;line-height:1.3;color:var(--muted)}
+.daily-count-cell strong{font-size:1.15rem;line-height:1.2;font-variant-numeric:tabular-nums;color:var(--count-week)}
+.daily-count-cell[data-kind=answered] strong{color:var(--pace-good)}
+.daily-count-cell[data-kind=marked] strong{color:var(--count-mock)}
+#home .daily-actions{gap:.4rem}
+#home .daily-action{display:grid;grid-template-columns:30px minmax(0,1fr);align-content:start;gap:.15rem .4rem;padding:.55rem;min-height:76px;border-radius:10px}
+#home .daily-action-icon{grid-row:1/4;display:grid;place-items:center;width:30px;height:30px;border-radius:8px;background:var(--accent-bg);color:var(--accent);font-size:1.05rem}
+#home .daily-action>strong,#home .daily-action>span:not(.daily-action-icon),#home .daily-action>small{grid-column:2}
+#home .daily-action>strong{font-size:.84rem;line-height:1.35}
+#home .daily-action>span:not(.daily-action-icon){font-size:.74rem;line-height:1.35}
+#home .daily-action>small{font-size:.7rem;line-height:1.35}
+#home .daily-week-details{margin:.5rem 0}
+#home .study-day.active strong{color:var(--pace-good)}
+.recent-labels{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem;width:100%}
+.recent-labels .resource-question-count{display:inline-flex;flex-wrap:wrap;gap:.2rem;margin:0}
+.recent-labels .study-tag{margin:0;font-size:.68rem}
+.recent-labels .resource-question-count .study-tag[data-kind=mcq]{color:var(--count-week);background:var(--paper);border-color:var(--count-week)}
+.personal-page[hidden]{display:none!important}
+.personal-page .section-heading h1{font-family:var(--ui-font);font-size:var(--ui-heading);font-weight:800;margin:0}
+.personal-page .section-heading{margin:0 0 .6rem}
+.personal-page .study-panel>summary{display:none}
+.personal-page .study-panel-body{padding:.45rem}
+@media(max-width:600px){
+ #home .hero{padding:.8rem .85rem}
+ #home .hero-actions{margin:.65rem 0 0;grid-template-columns:repeat(2,minmax(0,1fr))}
+ .home-activity-grid{gap:.3rem}
+ .home-activity-card{padding:.45rem .35rem}
+ .home-activity-card>span{font-size:.72rem}
+ .home-activity-card>strong{font-size:1.35rem}
+ .home-activity-card>small{font-size:.65rem}
+ #home .daily-header{padding:.5rem}
+ #home .daily-actions{grid-template-columns:repeat(2,minmax(0,1fr))}
+ #home .daily-action{grid-template-columns:minmax(0,1fr);gap:.15rem}
+ #home .daily-action-icon{grid-row:auto;width:26px;height:26px}
+ #home .daily-action>strong,#home .daily-action>span:not(.daily-action-icon),#home .daily-action>small{grid-column:1}
+ .recent-labels{gap:.2rem}
+}
+@media(prefers-reduced-motion:no-preference){.home-activity-card,.daily-action{transition:border-color .15s,background-color .15s,transform .15s}.home-activity-link:active,.daily-action:active{transform:scale(.99)}#home .daily-study[data-stage=new] .daily-action-icon{animation:study-enter .35s ease-out}}
+@media(prefers-reduced-motion:reduce){.home-activity-card,.daily-action-icon{animation:none!important;transition:none!important}}
