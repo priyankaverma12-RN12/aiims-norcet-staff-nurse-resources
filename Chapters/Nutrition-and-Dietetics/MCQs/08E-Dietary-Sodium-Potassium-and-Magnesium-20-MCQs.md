@@ -4,30 +4,30 @@
 
 [Chapter](../README.md) · [Concept guide](../Concepts/22-Dietary-Sodium-Potassium-and-Magnesium.md)
 
-### Q1. A recipe contains no sodium chloride but uses monosodium glutamate as a flavour enhancer. Which nutrient-accounting decision is correct?
+### Q1. A student compares sodium chloride and sodium bicarbonate as dietary sodium sources. Why do these two compounds not provide the same contribution to chloride-dependent digestive functions?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Sodium outside table salt | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Sodium salts and chloride-dependent digestion | **Type:** Original practice
 
-- **A.** Count only its chloride content as sodium
-- **B.** Exclude it because it is not table salt
-- **C.** Include the sodium contributed by monosodium glutamate in total sodium intake
-- **D.** Classify its whole mass as elemental sodium
+- **A.** Sodium bicarbonate provides chloride but no sodium
+- **B.** Both salts provide identical amounts of chloride for each gram of sodium
+- **C.** Sodium chloride supplies chloride ions needed for gastric hydrochloric acid formation, whereas sodium bicarbonate does not supply chloride
+- **D.** Sodium bicarbonate converts sodium ions into chloride ions in the stomach
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Include the sodium contributed by monosodium glutamate in total sodium intake**
+**Correct: C. Sodium chloride supplies chloride ions needed for gastric hydrochloric acid formation, whereas sodium bicarbonate does not supply chloride**
 
-- **A. Incorrect:** MSG ka naam glutamate salt ko identify karta hai, chloride ko nahi. Chloride aur sodium separate elements hain.
+- **A. Incorrect:** Sodium bicarbonate mein sodium aur bicarbonate hote hain, chloride nahi. Isliye statement compound ki composition ko reverse kar raha hai.
 
-- **B. Incorrect:** Table salt sodium ka major source hai, lekin akela source nahi. Ingredient mein sodium ho to contribution include karo.
+- **B. Incorrect:** Dono sodium-containing compounds hain, lekin unke accompanying ions alag hain. Equal sodium intake se equal chloride contribution assume nahi karna chahiye.
 
-- **C. Correct:** MSG mein sodium present hota hai. Total dietary sodium estimate karte waqt is ingredient ka sodium contribution bhi count karna chahiye.
+- **C. Correct:** Sodium chloride chloride ions bhi supply karta hai. Chloride stomach ke hydrochloric acid ka important component hai. Sodium bicarbonate mein chloride nahi hota, isliye dono salts ka chloride contribution alag hai.
 
-- **D. Incorrect:** MSG ki poori mass sodium nahi hai, compound mein glutamate bhi hota hai. Actual sodium composition value use karni chahiye.
+- **D. Incorrect:** Body normal digestion mein sodium ko chloride element mein convert nahi karti. Gastric acid formation ke liye chloride availability ka separate physiological role hai.
 
-**Exam clue:** Sodium accounting includes sodium-containing ingredients beyond common salt.
+**Exam clue:** Same sodium content does not imply the same accompanying anion.
 
-**Evidence:** [WHO sodium reduction](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction) · [Concept guide](../Concepts/22-Dietary-Sodium-Potassium-and-Magnesium.md)
+**Evidence:** [MedlinePlus, Chloride in diet](https://medlineplus.gov/ency/article/002417.htm) · [Concept guide](../Concepts/22-Dietary-Sodium-Potassium-and-Magnesium.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -294,30 +294,30 @@
 
 </details>
 
-### Q11. A healthy adult wants to improve dietary potassium intake under general nutrition guidance. Which change is most consistent with the simultaneous sodium-reduction goal?
+### Q11. A patient reports persistent clay eating and is found to have low potassium despite a reportedly varied diet. Which nutrition-related mechanism deserves specific assessment?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Potassium and sodium objectives | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Clay pica and potassium availability | **Type:** Original practice
 
-- **A.** Add heavily salted nuts while retaining all previous salty foods
-- **B.** Increase sodium chloride seasoning to obtain more potassium
-- **C.** Replace a frequently eaten salty snack with an appropriate unsalted pulse-based snack
-- **D.** Take potassium supplements automatically instead of improving food choices
+- **A.** Clay supplies excess absorbed potassium, forcing every cell to release potassium
+- **B.** Clay increases the dietary potassium requirement only by increasing food calories
+- **C.** Clay can bind potassium in the gastrointestinal tract, increasing fecal potassium loss
+- **D.** Clay reliably corrects potassium deficiency because all mineral-containing substances are nutritionally equivalent
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Replace a frequently eaten salty snack with an appropriate unsalted pulse-based snack**
+**Correct: C. Clay can bind potassium in the gastrointestinal tract, increasing fecal potassium loss**
 
-- **A. Incorrect:** Nuts potassium de sakte hain, lekin heavily salted option aur old snacks retain karne se sodium intake bhi badh sakta hai. Actual composition check karo.
+- **A. Incorrect:** Clay khane se automatically large absorbable potassium dose nahi milti. Low potassium ke context mein gastrointestinal binding aur loss ko assess karna useful hai.
 
-- **B. Incorrect:** Ordinary sodium chloride potassium source nahi hai. Salt badhane se sodium reduction goal ke opposite action hoga.
+- **B. Incorrect:** Pica mein non-food substance consume hota hai. Is mechanism ko calorie increase se explain karna sahi nahi hai.
 
-- **C. Correct:** Unsalted pulse-based snack suitable portion mein potassium provide kar sakta hai aur salty snack replace karne se sodium goal support ho sakta hai. Dono objectives ko ek saath consider karo.
+- **C. Correct:** Clay intestinal tract mein potassium bind kar sakti hai. Isse stool ke through potassium loss badh sakta hai. Nurse pica history, clinical assessment aur appropriate medical review arrange kare, bina independent replacement order diye.
 
-- **D. Incorrect:** General nutrition goal ke liye automatic supplements prescribe nahi karte. Food pattern aur clinical suitability pehle assess karo.
+- **D. Incorrect:** Mineral-containing material ka nutrient bioavailability safe ya predictable hona zaroori nahi hai. Clay ko potassium supplement ya deficiency treatment nahi samajhna chahiye.
 
-**Exam clue:** A potassium-rich choice need not increase dietary sodium.
+**Exam clue:** Pica may impair potassium availability even when reported food variety seems adequate.
 
-**Evidence:** [ICMR-NIN DGI 2024, Guideline 11](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf) · [Concept guide](../Concepts/22-Dietary-Sodium-Potassium-and-Magnesium.md)
+**Evidence:** [NIH ODS Potassium professional fact sheet, People with pica](https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/) · [Concept guide](../Concepts/22-Dietary-Sodium-Potassium-and-Magnesium.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
