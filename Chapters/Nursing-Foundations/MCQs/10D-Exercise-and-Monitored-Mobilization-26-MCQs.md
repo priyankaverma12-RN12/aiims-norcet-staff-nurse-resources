@@ -151,7 +151,7 @@
 
 **Exam clue:** Lengthening while generating tension eccentric contraction hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/fundamentals-of-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-1-assessing-functional-ability).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -182,7 +182,7 @@
 
 **Exam clue:** Shortening under tension concentric contraction hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/fundamentals-of-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-1-assessing-functional-ability).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
