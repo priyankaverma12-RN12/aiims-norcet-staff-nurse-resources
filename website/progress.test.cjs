@@ -26,7 +26,7 @@ console.log('Automatic completion, exact current-question matching, manual overr
 const {mockSummary,mockCountText,inventoryLabelParts,progressTagInfo}=require('./progress.js');
 assert.deepEqual(mockSummary(data,data.chapters[0].records),{tests:1,questions:120,drafts:1,draftQuestions:10,otherQuestions:0});
 assert.equal(mockCountText(mockSummary(data,data.chapters[0].records)),'1 mock test · 120 questions');
-assert.deepEqual(inventoryLabelParts('Chapters/X/Mock-Tests/',data).map(x=>x.text),['1 mock test · 120 questions','1 draft section · 10 questions']);
+assert.deepEqual(inventoryLabelParts('Chapters/X/Mock-Tests/',data).map(x=>x.text),['1 mock test · 120 questions','1 unfinished mock section · 10 questions']);
 assert.equal(mockCountText(mockSummary(data,[])),'0 mock tests · 0 questions');
 assert.deepEqual(progressTagInfo({done:false,checked:1}),['In progress','active']);
 assert.deepEqual(progressTagInfo({done:true}),['✓ Completed','done']);
