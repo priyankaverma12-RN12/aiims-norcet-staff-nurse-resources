@@ -56,7 +56,7 @@
 
 **Exam clue:** Moving fluid carries heat by convection.
 
-**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [TNAU cooking heat transfer](https://agritech.tnau.ac.in/nutrition/nutri_food_cookingmethods.html) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -85,7 +85,7 @@
 
 **Exam clue:** Heat arriving from a glowing element is radiation.
 
-**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [TNAU cooking heat transfer](https://agritech.tnau.ac.in/nutrition/nutri_food_cookingmethods.html) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -114,7 +114,7 @@
 
 **Exam clue:** Microwave heating is not necessarily uniform.
 
-**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [USDA FSIS microwave even heating and standing time](https://ask.fsis.usda.gov/article/How-do-I-reheat-leftover-take-out-food) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -143,7 +143,7 @@
 
 **Exam clue:** Lower atmospheric pressure lowers the boiling point.
 
-**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [University of Arizona culinary medicine](https://opentextbooks.library.arizona.edu/culinarymedicine/chapter/chapter-2-kitchen/) · [Colorado State University high elevation food preparation](https://extension.colostate.edu/resource/high-elevation-food-preparation-guide/) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -433,7 +433,7 @@
 
 **Exam clue:** Heat plus water causes starch gelatinization.
 
-**Evidence:** [Yale food chemistry educational unit](https://teachersinstitute.yale.edu/curriculum/units/2020/2/20.02.03/2) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [Yale food chemistry educational unit](https://teachersinstitute.yale.edu/curriculum/units/2020/2/20.02.03/2) · [IGNOU practical manual, starch gelatinization](https://egyankosh.ac.in/bitstream/123456789/100208/1/CNCC-01%20Practical%20Manual%28English%29%20%281%29.pdf) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -462,7 +462,7 @@
 
 **Exam clue:** Denaturation and coagulation explain the setting of egg white.
 
-**Evidence:** [Yale food chemistry educational unit](https://teachersinstitute.yale.edu/curriculum/units/2020/2/20.02.03/2) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
+**Evidence:** [Yale food chemistry educational unit](https://teachersinstitute.yale.edu/curriculum/units/2020/2/20.02.03/2) · [CBSE cooking methods, protein denaturation](https://cbseacademic.nic.in/web_material/Curriculum21/publication/srsec/834_food%20nutrition%20-%20xii.pdf) · [Concept guide](../Concepts/27-Cookery-Methods-and-Food-Preparation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
