@@ -193,30 +193,32 @@
 
 </details>
 
-### Q08. A patient with unilateral painful hip osteoarthritis is learning cane use with a physiotherapist. In the usual pattern, which side should hold the cane?
+### Q08. During assessment of hand osteoarthritis, the nurse documents hard bony enlargements at the distal interphalangeal joints. Which term describes these findings?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The same side as the painful hip in all circumstances
-- **B.** Both hands on a single cane
-- **C.** The side selected solely according to hand dominance
-- **D.** The side opposite the painful hip, unless individualized instructions differ
+- **A.** Bouchard nodes
+- **B.** Rheumatoid nodules
+- **C.** Heberden nodes
+- **D.** Tophi
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. The side opposite the painful hip, unless individualized instructions differ**
+**Correct answer: C. Heberden nodes**
 
-**A kyun galat hai:** Same-side cane har case mein optimal unloading nahi deta. Individual exceptions ho sakte hain, lekin usual teaching opposite side hai.
+**A kyun galat hai:** Bouchard nodes proximal interphalangeal joints ki bony enlargement hain.
 
-**B kyun galat hai:** Single cane normally one hand mein use hoti hai. Dono hands ki support chahiye toh suitable assistive device assess hota hai.
+**B kyun galat hai:** Rheumatoid nodules usually subcutaneous lesions hain; distal interphalangeal bony enlargement ka standard name nahi.
 
-**C kyun galat hai:** Hand dominance alone biomechanical unloading decide nahi karti. Painful side aur safety bhi consider hoti hain.
+**C kyun sahi hai:** Heberden nodes distal interphalangeal joints ki bony enlargement hain, jo hand osteoarthritis ke saath associate ho sakti hain.
 
-**D kyun sahi hai:** Contralateral cane use painful hip par muscle demand aur joint load reduce karne mein help kar sakta hai. Physiotherapist patient ki balance aur specific restrictions ke hisaab se technique tailor karta hai.
+**D kyun galat hai:** Tophi urate crystal deposits hain; gout ka finding hai, typical OA bony nodes ka naam nahi.
 
-**Clinical reference:** [Open RN musculoskeletal alterations](https://www.ncbi.nlm.nih.gov/books/NBK613072/). Direct page retrieved.
+**Exam clue:** DIP = Heberden; PIP = Bouchard. Clinical context bhi check karo.
 
-**YouTube MCQ practice:** [Shailendra Sir — Osteoarthritis V/S Rheumatoid Arthritis MCQs](https://www.youtube.com/watch?v=aEQj0MjItnQ). Title-level lead only. Specific learning-task coverage, channel and playback not verified.
+**Clinical reference:** [Open RN musculoskeletal assessment and NICE RA management](https://www.ncbi.nlm.nih.gov/books/NBK613072/).
+
+**YouTube MCQ practice:** Verification pending.
 
 </details>
 
@@ -517,30 +519,32 @@
 
 </details>
 
-### Q20. Which outcome is most appropriate for evaluating a joint-protection and exercise plan in a patient with chronic arthritis?
+### Q20. A patient with newly diagnosed rheumatoid arthritis has improved pain after starting a DMARD but still has multiple swollen joints. Which treatment principle should guide follow-up?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Permanent disappearance of every radiographic abnormality
-- **B.** Absence of any need for medication review
-- **C.** Complete elimination of all future flares regardless of disease activity
-- **D.** Improved ability to perform agreed daily tasks with tolerable pain and safe movement
+- **A.** Stop disease-modifying treatment because pain has improved
+- **B.** Use a structured disease-activity assessment and adjust treatment toward remission or low disease activity
+- **C.** Increase exercise alone regardless of inflammation
+- **D.** Use radiographs alone to determine current inflammatory activity
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Improved ability to perform agreed daily tasks with tolerable pain and safe movement**
+**Correct answer: B. Use a structured disease-activity assessment and adjust treatment toward remission or low disease activity**
 
-**A kyun galat hai:** Radiographic structural changes reverse hona exercise benefit ka required outcome nahi hai.
+**A kyun galat hai:** Pain relief active synovitis ke resolution ki guarantee nahi; DMARD khud se stop nahi karna.
 
-**B kyun galat hai:** Medication review still important hai, even jab function improve ho.
+**B kyun sahi hai:** Treat-to-target approach mein disease activity objectively monitor karke remission ya low disease activity target ki taraf clinician therapy adjust karta hai. Persistent swollen joints reassessment ka reason hain.
 
-**C kyun galat hai:** Future flare ko completely eliminate karna guaranteed outcome nahi hai. Disease activity aur function dono monitor hote hain.
+**C kyun galat hai:** Exercise functional health support karta hai, lekin uncontrolled immune inflammation ke treatment ka substitute nahi.
 
-**D kyun sahi hai:** Patient-centered outcomes mein dressing, walking ya daily tasks jaise meaningful function assess karte hain. Tolerable pain aur safe movement se individualized plan ki practical benefit evaluate hoti hai.
+**D kyun galat hai:** Radiographs structural damage assess kar sakte hain; current disease activity ke liye clinical assessment aur validated composite measures important hain.
 
-**Clinical reference:** [Open RN musculoskeletal alterations](https://www.ncbi.nlm.nih.gov/books/NBK613072/). Direct page retrieved.
+**Exam clue:** RA mein symptomatic relief aur inflammatory disease control alag cheezein hain.
 
-**YouTube MCQ practice:** [Shailendra Sir — Osteoarthritis V/S Rheumatoid Arthritis MCQs](https://www.youtube.com/watch?v=aEQj0MjItnQ). Title-level lead only. Specific learning-task coverage, channel and playback not verified.
+**Clinical reference:** [NICE rheumatoid arthritis management](https://www.ncbi.nlm.nih.gov/books/NBK519103/).
+
+**YouTube MCQ practice:** Verification pending.
 
 </details>
 
