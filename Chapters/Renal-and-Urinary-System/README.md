@@ -52,4 +52,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Owner: none. Released after exact readback of lower UTI and cystitis package and chapter-local indexes. -->
+<!-- Manual Renal scope claim: ACTIVE. Owner: renal-pyelo-20261128-0349. Scope: Pyelonephritis original MCQs, concepts, diagram, evidence and chapter-local indexes only. Claimed UTC: 2026-11-28T03:49:00Z. Expiry UTC: 2026-11-28T04:19:00Z. -->
