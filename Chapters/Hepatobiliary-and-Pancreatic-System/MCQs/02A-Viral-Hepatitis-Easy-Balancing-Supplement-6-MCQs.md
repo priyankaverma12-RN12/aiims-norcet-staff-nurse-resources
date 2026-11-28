@@ -13,7 +13,7 @@
 - **A.** Hepatitis A
 - **B.** Hepatitis C
 - **C.** Hepatitis B
-- **D.** Hepatitis B in healthcare workers
+- **D.** Hepatitis D in a person susceptible to hepatitis B
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -25,7 +25,7 @@
 
 **C. Kyun galat hai:** HBV vaccine effective prevention ka important part hai.
 
-**D. Kyun galat hai:** Healthcare workers ke liye HBV vaccine specifically important hai.
+**D. Kyun galat hai:** HBV vaccine HBV infection ko prevent karke susceptible person mein HDV infection ka risk bhi kam karti hai.
 
 **Exam clue:** HCV has no preventive vaccine.
 
