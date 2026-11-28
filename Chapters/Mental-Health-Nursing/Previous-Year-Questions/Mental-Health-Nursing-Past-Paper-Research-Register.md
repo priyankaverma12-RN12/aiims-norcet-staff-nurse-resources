@@ -26,3 +26,11 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 ## Question-level evidence added
 [1 source-linked reported questions with English options and Hinglish answers](Mental-Health-Nursing-Source-Linked-Reported-PYQs.md). Official paper/key matching remains pending.
+
+
+## 28 November 2026 — MSE research
+
+- [3 newly adapted MSE questions from directly retrieved third-party NORCET and DSSSB pages](01-MSE-Reported-Exam-Practice.md). Official exact wording and keys pending.
+- [2 previously preserved India-wide adaptations](Mental-Health-Nursing-India-Wide-Additional-Reported-PYQs.md).
+- Total existing plus new: 6 reported source-linked adaptations, 0 authenticated official exact questions confirmed in this run.
+- NORCET 2/4/5/10, KPSC, OSSSC and AIIMS Jodhpur MSE leads are indexed, full item review pending. HP recruitment, PGIMER, SGPGI, ESIC, RRB, JIPMER and state/NHM/CHO papers and answer keys require further research.
