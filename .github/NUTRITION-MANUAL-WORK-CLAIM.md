@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-run7-en-audit-20261128-0755Z
-Scope: PR35 isolated 06C enteral formulation question-level corrections and guide 12 enteral section, chapter-local review. New Nutrition-only topics only after overlap screening. No shared navigation, production or other jobs.
-Claimed UTC: 2026-11-28T07:54:24Z
-Expiry UTC: 2026-11-28T08:24:24Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — Run 7 enteral correction and 07A expansion
+
+Candidate head: 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-run7-en-audit-20261128-0755Z
+
+06C 20 existing questions and 80 rationales corrected at b7f6d649283a5b59aabe1b09a98cf89e95475e95, matching guide 12 at 8a65aeb79b7b9a5e1472a40c3e53411883e490de. Prior 06D bank and revised PN section verified unchanged. New 07A FFQ and dietary records 20 original candidate MCQs and 80 rationales authored at df729d851fbff67e975b82454b3ff252cf8fd47c, Q8 semantic replacement at 1ba3da5b5f461df2156aeabffea71dfa2c76f14b, final bank blob c2f8e2355624af015457ec39aa7a76de843ef698. 20 stems, 80 English options and separate rationales, 20 aligned hidden keys and evidence rows, balanced five correct answers per letter. Guide 13 final b74386079d7c31b746fb4ffa1d308d82ca08266f, SVG e266687b1d10df73cf66ccd48447b2af8aad7460 locally rendered/visually inspected with exact Git blob match. All content writes exactly read back. Inventory and corrective review 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff. PR35 body updated and verified.
+
+Current staged inventory: 600 originals, 2400 rationales, 30 topic banks, 13 guides, 13 original SVGs; four separate legacy originals and one adaptation. Run 7 cumulative 40 previously existing MCQs corrected and 160 rationales revised, plus 20 genuinely new candidate originals and 80 new rationales. No live, mock or PYQ credit. 580 previous headings keyword screened across 29 banks, 80 selected adjacent stems and four legacy originals inspected; full independent semantic review pending. 07A Q8 replaced for close calculation overlap. Qualified clinical/pharmacy review unavailable, complete curriculum depth, dedicated videos, independent semantic, PR7/8 navigation clearance and final CI/rendering remain mandatory. Prior e66e195 CI run 46123776734 in progress at last check; final 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff had no workflow returned when checked, PR draft mergeable but not certified. Preserve all other jobs, learner history, website, and five hourly automations. No edits to them. No merge.
+
+Next: 07B nutrition education and counselling after targeted adjacent-bank gap screening, then menu/food exchange/budget planning, school-age and elderly nutrition and current programme/food standards depth. Do not repeat 06C, 06D or 07A completed work or unchanged historical retrieval. Continue up to 100 distinct original MCQs per run when safely possible, complete remaining independent gates before integration, then original-only 120-question mocks and authenticated India-wide topic-mapped PYQs as authorized.
 
 ## Latest released checkpoint — Run 7 corrective pass
 
