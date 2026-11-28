@@ -127,3 +127,6 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 
 ## Maternal-fetal intrapartum assessment — 28 November 2026
 [Clinical and exam evidence](07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). NICE NCBI direct text reviewed, publisher indexed. RRB 29 April 2025 Shift 3 pulse notation report reserved for Partograph. HPRCA 25026 final-key listing indexed, direct retrieval failed. Zero new historical adaptations. Broad MCQ session candidate, all 20 specific practice gaps pending.
+
+## Partograph — 28 November 2026
+[One separate reported RRB 29 April 2025 Shift 3 pulse-symbol adaptation and research gaps](07I-Partograph-Evidence.md). Official final key not authenticated. NHM 2024 text corroborates chart convention. Shift 1 contraction question indexed, not counted. Obstetrics adaptations 27. All 20 originals and adaptation retain exact video gaps.
