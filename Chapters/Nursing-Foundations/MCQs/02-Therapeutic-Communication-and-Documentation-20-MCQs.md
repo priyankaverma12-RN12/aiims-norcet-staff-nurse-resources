@@ -428,16 +428,16 @@ Paraphrasing mein nurse patient ki baat ka main meaning apne words mein dobara b
 
 **Correct: C. Use short questions, communication aids and sufficient response time**
 
-Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise neurological causes se ho sakti hai. Patient ki comprehension aur expression abilities individually assess karo. Short clear questions, pictures, writing ya communication board use karo aur response ka time do. New sudden aphasia emergency assessment maang sakti hai. Existing aphasia mein patient ki participation preserve karo.
+Aphasia ka matlab hai ki patient ko language samajhne ya apni baat words mein express karne mein dikkat ho sakti hai. Stroke jaisi neurological condition mein aisa ho sakta hai. Har patient ki difficulty same nahi hoti. Nurse pehle samajhti hai ki patient kitni baat samajh sakta hai aur kis tareeke se jawab de sakta hai. Woh chhote clear questions poochti hai, zaroorat ke hisaab se pictures, writing ya communication board use karti hai aur patient ko jawab dene ka samay deti hai. Agar aphasia achanak nayi shuru hui hai, toh urgent clinical assessment zaroori ho sakti hai. Existing aphasia mein patient ko care decisions mein participate karne ka mauka dena chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A language difficulty ko complete lack of comprehension assume karta hai.
-- **B:** B response finish karne se actual meaning distort ho sakta hai.
-- **C:** C accessible communication aur sufficient time support karta hai.
-- **D:** D patient ki available ability aur autonomy ignore karta hai.
+- **A:** Language express karne mein difficulty hone se ye prove nahi hota ki patient kuch bhi samajh nahi sakta. Nurse ko comprehension individually assess karni chahiye.
+- **B:** Har jawab patient ki taraf se complete karne par uski actual baat galat samjhi ja sakti hai. Nurse ko response ka samay dena aur meaning verify karna chahiye.
+- **C:** Short questions, suitable communication aids aur sufficient time se patient ko apni baat kehne mein madad milti hai. Isliye C sahi hai.
+- **D:** Caregiver ki help useful ho sakti hai, lekin patient jitna khud participate kar sakta hai, uska mauka nahi chheenna chahiye.
 
-**Exam clue:** Aphasia does not automatically mean loss of intelligence.
+**Exam clue:** Aphasia ko automatically intelligence ya decision-making capacity ki kami mat samjho. Patient ki individual communication ability assess karo.
 
 
 <!-- job4-metadata -->
@@ -471,16 +471,16 @@ Aphasia language understand ya express karne ki difficulty hai, jo stroke jaise 
 
 **Correct: B. Patient reports pain 7/10 and guards the incision during movement**
 
-Subjective data patient ka personal experience hai, jaise pain rating. Objective observation nurse directly dekh sakti hai, jaise movement par incision protect karna. Dono document karne se symptoms aur behavior ki clinical picture clear hoti hai. Normal vital signs pain ko rule out nahi karte. Pain severity aur response ko reassess karo.
+Subjective data woh information hai jo patient apne experience ke baare mein khud batata hai. Yahan patient kehta hai ki pain 7/10 hai. Nurse us dard ko khud feel nahi kar sakti, lekin patient ki report important clinical information hai. Objective data woh finding hai jo nurse observe ya measure kar sakti hai. Jaise patient movement ke waqt incision, yaani operation ke cut wali jagah, ko protect karta hai. Dono findings record karne se patient ki pain ki picture clear hoti hai. Normal vital signs hone par bhi pain present ho sakta hai. Nurse ko pain aur treatment ke response ko reassess karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A judgmental description hai, clinical pain data nahi.
-- **B:** B patient report aur observable guarding dono record karta hai.
-- **C:** C exaggeration ka unsupported assumption hai.
-- **D:** D normal vital signs ke basis par patient ka pain reject karta hai.
+- **A:** Patient ko difficult kehna personal judgment hai. Isse pain ki severity ya relevant clinical behavior ka pata nahi chalta.
+- **B:** Patient ki pain rating subjective data hai aur movement ke waqt incision ko guard karna observed finding hai. Dono ek saath accurately record kiye gaye hain, isliye B sahi hai.
+- **C:** Patient pain exaggerate kar raha hai, aisa bina evidence assume karna sahi nahi hai. Nurse ko actual report aur observations document karni chahiye.
+- **D:** Normal vital signs se pain exclude nahi hota. Sirf readings normal hone ki wajah se patient ki pain report reject nahi karni chahiye.
 
-**Exam clue:** Patient reports pain = subjective, observed guarding = objective.
+**Exam clue:** Patient jo feel karke batata hai woh subjective data hai. Nurse jo directly observe karti hai woh objective data ho sakta hai.
 
 
 <!-- job4-metadata -->
@@ -512,16 +512,16 @@ Subjective data patient ka personal experience hai, jaise pain rating. Objective
 
 **Correct: B. Objective assessment findings, actions taken and notifications**
 
-Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. Nurse patient ki condition, pain, mobility, neurological findings aur fall circumstances protocol ke according assess kare. Required monitoring, interventions aur notifications clinical chart mein factually document karo. Separate incident reporting bhi local policy ke according complete karo.
+Patient gir gaya hai, lekin abhi koi injury visibly nahi dikh rahi hai. Iska matlab ye nahi hai ki injury definitely nahi hui. Nurse facility ke post-fall protocol ke according patient ki condition, pain, movement, relevant neurological findings aur fall ki circumstances assess karti hai. Jo actual findings mili hain, jo care di gayi hai, required monitoring aur kisko inform kiya gaya hai, unhe clinical chart mein record karti hai. Facility policy ke hisaab se separate incident report bhi complete ki jaati hai. Clinical record aur incident reporting ka purpose alag hai, isliye ek doosre ka substitute nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** A clinical event omit karta hai aur delayed injury miss ho sakti hai.
-- **B:** B objective findings, care aur notifications continuity support karte hain.
-- **C:** C incident number clinical assessment ka substitute nahi hai.
-- **D:** D colleague par speculation factual charting nahi hai.
+- **A:** Visible injury na hone par bhi fall ek clinically relevant event hai. Entry omit karne se later symptoms aur care ki timeline samajhna mushkil ho sakta hai.
+- **B:** Objective assessment, actual actions aur notifications record karne se next healthcare team patient ki condition aur follow-up needs samajh sakti hai. Isliye B sahi hai.
+- **C:** Incident report number se patient ka actual assessment aur care details nahi milti hain. Clinical findings ko chart mein separately document karna chahiye.
+- **D:** Bina evidence kisi colleague ko blame karna factual documentation nahi hai. Nurse ko jo actual information available hai wahi record karni chahiye.
 
-**Exam clue:** Clinical chart records care, incident system supports safety review.
+**Exam clue:** Clinical chart mein patient ki actual findings aur care likho. Separate incident system mein policy ke according safety review ke liye report karo.
 
 
 <!-- job4-metadata -->
@@ -553,16 +553,16 @@ Fall ke baad visible injury absent hone ka matlab injury exclude hona nahi hai. 
 
 **Correct: A. Please show me how you will use the inhaler at home**
 
-Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi ya nahi. Inhaler jaise physical skill ke liye show-me ya return demonstration better check hai. Patient ko device-specific steps demonstrate karne do, incorrect step gently correct karo aur repeat demonstration lo. Isse nurse teaching improve kar sakti hai.
+Teach-back ka purpose ye check karna hai ki nurse ki explanation patient ko samajh aayi hai ya nahi. Inhaler use karna ek practical skill hai, isliye patient ko sirf instructions repeat karne ke bajay inhaler use karke dikhane ko kehna useful hai. Ise show-me ya return demonstration kehte hain. Nurse specific device ke steps observe karti hai. Agar koi step galat hai, toh nurse blame kiye bina dobara samjhati hai aur patient se phir practice karwati hai. Isse discharge se pehle pata chalta hai ki aur teaching ki zaroorat hai ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** A actual skill performance verify karta hai.
-- **B:** B yes-no question understanding ka reliable proof nahi.
-- **C:** C signature education comprehension establish nahi karta.
-- **D:** D exact words repeat karna safe technique demonstrate nahi karta.
+- **A:** Patient jab inhaler use karke dikhata hai, toh nurse actual technique assess kar sakti hai. Isliye A practical skill ke liye best understanding check hai.
+- **B:** Do you understand poochne par patient haan bol sakta hai, chahe use technique clear na hui ho. Sirf yes-no response reliable proof nahi hai.
+- **C:** Signature lene se ye establish nahi hota ki patient ne teaching samajh li hai ya skill safely perform kar sakta hai.
+- **D:** Instructions word-for-word repeat karna yaad karne ka evidence ho sakta hai, lekin inhaler ki actual technique sahi hai ya nahi, ye demonstrate nahi hota.
 
-**Exam clue:** Teach-back for understanding, show-me for practical skills.
+**Exam clue:** Teach-back mein understanding check karte hain. Practical skills ke liye show-me ya return demonstration use karke actual performance dekho.
 
 
 <!-- job4-metadata -->
@@ -594,16 +594,16 @@ Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi
 
 **Correct: D. Acknowledge the frustration and explain what can be done next**
 
-Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. Nurse calm tone mein frustration acknowledge kare aur realistic next action explain kare. Actual waiting time uncertain ho toh honest communication do. Threatening behavior ho toh safe distance aur facility de-escalation policy follow karo. Respect maintain karte hue appropriate boundaries set karo.
+Jab patient lambe wait ki wajah se gussa ho, toh nurse ko pehle uski concern samajhne ki koshish karni chahiye. Gusse ke peeche pain, anxiety, unmet needs ya information na milne ki problem ho sakti hai. Nurse calm tone mein patient ki frustration acknowledge karti hai aur batati hai ki abhi practically kya action liya ja sakta hai. Agar waiting time confirm nahi hai, toh honest information deni chahiye. Agar behavior threatening ho jaata hai, toh nurse safety maintain karti hai aur facility ki de-escalation policy follow karti hai. Respect ke saath appropriate boundaries rakhna bhi zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A argument confrontation badha sakta hai.
-- **B:** B unsupported promise trust damage kar sakti hai.
-- **C:** C ignoring se patient ki concern unresolved rehti hai.
-- **D:** D emotion acknowledge karta hai aur actionable next step deta hai.
+- **A:** Patient se argue karne par tension badh sakti hai. Uski actual concern samajhne aur safe solution discuss karne mein madad nahi milegi.
+- **B:** Aisa result promise karna jo nurse guarantee nahi kar sakti, baad mein patient ka trust kharab kar sakta hai. Realistic next step batana zyada appropriate hai.
+- **C:** Patient ko ignore karne se wait ke peeche wali unmet need address nahi hoti. Calm communication aur relevant assessment useful ho sakte hain.
+- **D:** Frustration acknowledge karne se patient ko pata chalta hai ki uski baat suni gayi hai. Realistic next action batane se concern address hoti hai, isliye D sahi hai.
 
-**Exam clue:** Acknowledge emotion, explain realistic action.
+**Exam clue:** Patient ki emotion acknowledge karo aur jo next step actually possible hai, use clearly samjhao.
 
 
 <!-- job4-metadata -->
@@ -635,16 +635,16 @@ Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. 
 
 **Correct: C. Subjective**
 
-SOAP structured notes ka format hai. S subjective yani patient ke own symptoms aur experiences, O objective yani examination aur measured findings, A assessment yani available information ki clinical interpretation, P plan yani next care actions. Agar patient burning pain report kare toh S section mein source clearly attribute karo. Test result O mein aayega.
+SOAP clinical notes organize karne ka ek format hai. S ka matlab Subjective hai, jisme patient ki khud batayi hui symptoms aur experiences aate hain. O ka matlab Objective hai, jisme observed aur measured findings aati hain. A ka matlab Assessment hai, jisme available information ka clinical interpretation likha jaata hai. P ka matlab Plan hai, jisme aage ki care aur review steps bataye jaate hain. Maan lo patient burning pain report karta hai. Nurse S section mein clearly likhti hai ki ye patient ka report hai. Relevant examination finding ya test result O mein record kiya ja sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A Assessment data ka interpretation hai.
-- **B:** B Plan future interventions aur review describe karta hai.
-- **C:** C Subjective patient ka own report capture karta hai.
-- **D:** D Objective observed ya measured findings record karta hai.
+- **A:** Assessment mein available data ka clinical meaning likha jaata hai. Ye sirf patient ke apne words record karne wala section nahi hai.
+- **B:** Plan mein aage kya care di jaayegi aur kab review hoga, ye bataya jaata hai. Patient ki symptom report is section ka main purpose nahi hai.
+- **C:** Subjective section patient ke personal symptoms aur experiences ko capture karta hai. Isliye C sahi hai.
+- **D:** Objective section mein nurse observed findings aur measurements record karti hai. Patient ki apni pain ya symptom report subjective data hoti hai.
 
-**Exam clue:** SOAP = Subjective, Objective, Assessment, Plan.
+**Exam clue:** SOAP ka full form Subjective, Objective, Assessment aur Plan hai. Patient ki khud batayi hui takleef ko Subjective section mein pehchaano.
 
 
 <!-- job4-metadata -->
@@ -676,16 +676,16 @@ SOAP structured notes ka format hai. S subjective yani patient ke own symptoms a
 
 **Correct: C. Identify the pending result and assign responsibility for follow-up**
 
-Transfer ke samay pending result ek unfinished clinical responsibility hai. Handover mein test name, collection status, clinical importance, expected availability aur follow-up owner clear karo. Receiving team se responsibility acknowledge karvao. Agar critical result aa jaaye toh escalation plan follow karo. Pending ko normal result ki tarah record mat karo.
+Ward transfer ke waqt pending laboratory result sirf information nahi hai, balki ek aisi clinical responsibility hai jo abhi complete nahi hui hai. Nurse handover mein batati hai ki kaunsa test pending hai, sample collect hua ya nahi, result kab expected hai aur result kyun important hai. Woh clear karti hai ki follow-up ka responsible person kaun hoga. Receiving team se acknowledgment milni chahiye. Agar result critical aaye, toh applicable escalation plan follow karna chahiye. Jab tak result aaya nahi hai, use normal ya abnormal assume karke record nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A important unfinished task hide karta hai.
-- **B:** B unreported result ko normal likhna inaccurate hai.
-- **C:** C pending test aur follow-up responsibility clarify karta hai.
-- **D:** D automatic discovery assume karne se result miss ho sakta hai.
+- **A:** Result abhi nahi aaya hai, lekin test ka follow-up important ho sakta hai. Pending task omit karne se receiving team ko uski zaroorat ka pata nahi chalega.
+- **B:** Unreported result ko normal likhna inaccurate documentation hai aur wrong clinical decision ka risk create kar sakta hai.
+- **C:** Pending test identify karne aur follow-up responsibility clear karne se result timely review hone mein madad milti hai. Isliye C sahi hai.
+- **D:** Receiving nurse automatically result discover kar legi, ye assume karna safe nahi hai. Handover mein pending task aur ownership explicitly communicate karni chahiye.
 
-**Exam clue:** Handover transfers responsibility, not only information.
+**Exam clue:** Handover mein sirf information mat do. Pending task ka responsible person aur follow-up plan bhi clear karo.
 
 
 <!-- job4-metadata -->
@@ -717,16 +717,16 @@ Transfer ke samay pending result ek unfinished clinical responsibility hai. Hand
 
 **Correct: B. It sounds like being alone here is difficult for you**
 
-Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish karna hai, bina judgment ya false claim ke. Patient alone feel kar raha hai, toh nurse emotion reflect kar sakti hai aur preferred support explore kar sakti hai. Patient permission se family contact ya other appropriate support arrange karo.
+Empathy ka matlab hai patient ki feeling ko samajhne ki koshish karna aur bina judgment us feeling ko acknowledge karna. Yahan family ke jaane ke baad patient akela feel kar raha hai. Nurse keh sakti hai ki yahan akele rehna aapke liye difficult lag raha hai. Isse patient ko apni loneliness ke baare mein aur baat karne ka mauka milta hai. Nurse usse pooch sakti hai ki kaunsi support helpful hogi. Patient ki permission se family contact ya doosri appropriate support arrange ki ja sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A confidential information bina permission share karne ka promise karta hai.
-- **B:** B loneliness acknowledge karta hai aur understanding show karta hai.
-- **C:** C patient ko grateful hone ke liye judge karta hai.
-- **D:** D comparison patient ki feeling minimize karta hai.
+- **A:** Bina permission family ko sab kuch batane ka promise confidentiality violate kar sakta hai. Ye patient ki loneliness samajhne ka appropriate response bhi nahi hai.
+- **B:** Patient ki loneliness acknowledge karke nurse uski feeling samajhne ki koshish dikhati hai. Isliye B empathy ka sahi example hai.
+- **C:** Patient ko grateful hona chahiye kehna uski feeling par judgment dena hai. Isse uski emotional need address nahi hoti.
+- **D:** Doosre patients ki problems se comparison karne par patient ki takleef chhoti dikhayi jaati hai. Har patient ki feeling ko uske context mein samajhna chahiye.
 
-**Exam clue:** Empathy acknowledges feelings without judging them.
+**Exam clue:** Empathy mein patient ki feeling acknowledge karte hain, usse judge ya doosre patients se compare nahi karte.
 
 
 <!-- job4-metadata -->
@@ -758,16 +758,16 @@ Empathy ka matlab patient ki feeling samajhne aur acknowledge karne ki koshish k
 
 **Correct: A. Notify the responsible clinician promptly, confirm receipt and document the action**
 
-Closed-loop communication mein message bhejna enough nahi hota. Sender ensure karta hai ki right receiver ne message receive aur understand kiya hai. Critical result ke saath deterioration ho toh immediate patient assessment, urgent escalation aur policy ke according confirmation zaroori hai. Notification ka time, receiver aur actions accurately document karo.
+Closed-loop communication mein nurse sirf message bhejkar ye assume nahi karti ki saamne wale ne use samajh liya hai. Woh ensure karti hai ki correct receiving clinician ko information mil gayi hai aur important message confirm hua hai. Agar deteriorating patient ka critical lab result aata hai, toh prompt patient assessment aur urgent escalation zaroori hai. Nurse responsible clinician ko protocol ke according notify karti hai aur receipt confirm karti hai. Notification ka time, recipient aur actual actions accurately document karne chahiye. Agar concern resolve nahi hota, toh applicable escalation pathway follow karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A timely notification, confirmation aur record loop close karte hain.
-- **B:** B unread message se receipt establish nahi hoti.
-- **C:** C routine rounds ka wait deterioration worsen kar sakta hai.
-- **D:** D visitor clinical communication chain ka appropriate substitute nahi hai.
+- **A:** Prompt notification, receipt confirmation aur actual action record karne se communication loop complete karne mein madad milti hai. Isliye A sahi hai.
+- **B:** Unread message se ye establish nahi hota ki responsible clinician ko critical finding pata chal gayi hai. Nurse ko appropriate confirmation lena chahiye.
+- **C:** Deteriorating patient ke critical result par routine round ka wait karne se urgent care delay ho sakti hai.
+- **D:** Visitor responsible clinical communication chain ka substitute nahi hai. Critical information authorized healthcare professional ko directly communicate karni chahiye.
 
-**Exam clue:** Send, confirm receipt, act and document.
+**Exam clue:** Critical message promptly communicate karo, receipt confirm karo, zaroori action follow karo aur actual communication document karo.
 
 
 <!-- job4-metadata -->
@@ -799,16 +799,16 @@ Closed-loop communication mein message bhejna enough nahi hota. Sender ensure ka
 
 **Correct: D. Use only approved unambiguous abbreviations and write unclear terms in full**
 
-Clinical abbreviations time save kar sakti hain lekin ambiguous symbols medication ya care errors cause kar sakte hain. Approved list aur prohibited abbreviation rules facility policy ke according follow karo. Agar term unclear hai toh full form likho aur unclear orders clarify karo. Units aur numerical notation clear rakho.
+Clinical documentation mein abbreviations se writing ka samay bach sakta hai, lekin unclear symbols aur short forms alag-alag staff members alag meaning mein samajh sakte hain. Isse medicine dose ya care instructions mein error ho sakta hai. Nurse facility ki approved aur prohibited abbreviation lists follow karti hai. Agar kisi term ka meaning unclear hai, toh full form likhti hai. Unclear order ko authorized source se clarify karna chahiye. Units aur numerical notation bhi clear hone chahiye, taaki next healthcare professional ko information sahi samajh aaye.
 
 **Option-by-option reasoning**
 
-- **A:** A personal abbreviations other staff differently interpret kar sakte hain.
-- **B:** B units aur zero confuse hone se dose errors ho sakte hain.
-- **C:** C shared interpretation assume karna unsafe hai.
-- **D:** D approved clear terms ambiguity reduce karte hain.
+- **A:** Personal abbreviation ka meaning doosre staff ko pata nahi ho sakta. Isse patient care mein misunderstanding ka risk badhta hai.
+- **B:** Units aur zero ke liye confusing symbol use karne se numerical dose galat padhne ka risk ho sakta hai. Clear notation zaroori hai.
+- **C:** Har staff member har abbreviation ko same tarah samjhega, ye assumption reliable nahi hai. Approved terms use karne chahiye.
+- **D:** Approved unambiguous abbreviations aur unclear terms ki full form use karne se communication error ka risk kam hota hai. Isliye D sahi hai.
 
-**Exam clue:** When in doubt, write it out and clarify.
+**Exam clue:** Agar abbreviation ka meaning unclear hai, toh full term likho aur unclear order ko clarify karo.
 
 
 <!-- job4-metadata -->
