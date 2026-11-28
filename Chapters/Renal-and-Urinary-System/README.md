@@ -56,4 +56,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: FREE. Owner: none. Released after exact readback of asymptomatic bacteriuria package and chapter-local indexes. -->
+<!-- Manual Renal scope claim: CLAIMED. Owner: renal-pr52-clues-20261128-075657Z. Scope: existing isolated PR52 bank and evidence register only, Q1–30 exam clues and corrective rationales, no live inventory/navigation integration. Claimed UTC: 2026-11-28T07:56:57Z. Expiry UTC: 2026-11-28T08:26:57Z. -->
