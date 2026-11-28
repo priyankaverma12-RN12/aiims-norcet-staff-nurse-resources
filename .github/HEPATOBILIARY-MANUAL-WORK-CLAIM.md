@@ -2,9 +2,9 @@
 
 State: CLAIMED
 Owner: hepatobiliary-b03-20261128-1016Z
-Scope: PR60 new isolated pancreatic surgery and autoimmune biliary disease topic banks, no shared navigation edits.
+Scope: PR60 isolated new pancreatic surgery, PBC, PSC, autoimmune hepatitis and hepatic abscess banks only, no shared navigation edits.
 Claimed UTC: 2026-11-28T10:16:00Z
-Expiry UTC: 2026-11-28T10:46:00Z
+Expiry UTC: 2026-11-28T10:49:00Z
 
 ## Released checkpoint — 28 November 2026
 
