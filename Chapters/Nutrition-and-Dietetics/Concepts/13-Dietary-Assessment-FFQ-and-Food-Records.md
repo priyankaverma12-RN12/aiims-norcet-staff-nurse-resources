@@ -43,6 +43,8 @@ Agar form frequency per week collect karta hai aur portion grams per occasion de
 
 Frequency aur serving ko double count mat karo. Agar ek tea occasion par do cups consume hote hain aur form occasions alag se record karta hai, toh usual cups per occasion ko frequency se multiply karte hain. Agar form already total cups record karta hai, toh dobara portion multiplier lagane ki zaroorat nahi hoti.
 
+FFQ mein food categories ko bhi dhyan se code karna hai. Example ke liye agar questionnaire standalone dal aur mixed rice-pulse dishes ko mutually exclusive categories mein rakhta hai, toh ek khichdi meal ko dono entries mein count nahi karna chahiye. Participant se actual meal clarify karo aur instrument ki inclusion instructions follow karo. Agar nutrient calculation recipe ingredients ke basis par karte hain, toh poori dish ka nutrient total usi ingredient total mein dobara add mat karo. Confirmed duplicate ko hi correct karo, baaki genuine intake ko preserve karo.
+
 ## Prospective food record
 
 Food record ya food diary mein person food consume karte samay ya uske turant baad uski details note karta hai. Isliye yeh prospective method hai. Twenty-four-hour recall mein person previous day ki intake memory se report karta hai. Food record ka advantage yeh hai ki amount, preparation aur actual intake real time document ki ja sakti hai. Lekin record complete karna time-consuming ho sakta hai aur person apni eating habits bhi badal sakta hai.
