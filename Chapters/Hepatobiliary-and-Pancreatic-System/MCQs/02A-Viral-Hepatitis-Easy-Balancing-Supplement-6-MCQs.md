@@ -4,30 +4,30 @@
 
 [Existing topic bank](02-Viral-Hepatitis-and-Nursing-Management-20-MCQs.md) · [Chapter](../README.md)
 
-**Evidence:** [Clinical reference](https://www.cdc.gov/hepatitis/hcp/populations-settings/health-care-providers.html), indexed relevant excerpts retrieved 28 November 2026. Foundational knowledge supplement, not historical exam evidence. Specific question-solving videos and independent clinical and semantic review pending.
+**Evidence:** [Clinical reference](https://www.cdc.gov/hepatitis/hcp/populations-settings/health-care-providers.html), [CDC occupational HCV exposure](https://www.cdc.gov/hepatitis-c/hcp/infection-control/index.html), [CDC HCV prevention](https://www.cdc.gov/hepatitis-c/prevention/), indexed relevant excerpts retrieved 28 November 2026. Foundational knowledge supplement, not historical exam evidence. Specific question-solving videos and independent clinical and semantic review pending.
 
-### Q1. Which viral hepatitis infection currently has no preventive vaccine for routine use?
+### Q1. Which bloodborne hepatitis virus has no preventive vaccine and is not prevented by hepatitis B vaccination?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
 - **A.** Hepatitis A
 - **B.** Hepatitis C
 - **C.** Hepatitis B
-- **D.** Hepatitis D in a person susceptible to hepatitis B
+- **D.** Hepatitis D in a person susceptible to HBV
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Hepatitis C**
 
-**A. Kyun galat hai:** HAV vaccination available hai.
+**A. Kyun galat hai:** HAV vaccination available hai aur HAV primarily fecal-oral route se spread karta hai.
 
-**B. Kyun sahi hai:** HCV ke liye preventive vaccine available nahi hai. Exposure prevention aur testing important hain.
+**B. Kyun sahi hai:** HCV ke liye preventive vaccine available nahi hai aur HBV vaccine HCV se protect nahi karti. Exposure prevention aur testing important hain.
 
-**C. Kyun galat hai:** HBV vaccine effective prevention ka important part hai.
+**C. Kyun galat hai:** HBV vaccine HBV prevention ka important part hai.
 
 **D. Kyun galat hai:** HBV vaccine HBV infection ko prevent karke susceptible person mein HDV infection ka risk bhi kam karti hai.
 
-**Exam clue:** HCV has no preventive vaccine.
+**Exam clue:** HCV prevention does not rely on a vaccine.
 
 </details>
 
@@ -56,28 +56,28 @@
 
 </details>
 
-### Q3. Which type of precautions should a nurse use for routine blood collection from every patient, regardless of hepatitis status?
+### Q3. After a healthcare worker has an occupational exposure to hepatitis C, what is the usual CDC approach to antiviral postexposure prophylaxis?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Airborne isolation for every blood draw
-- **B.** Contact isolation solely for vaccinated patients
-- **C.** Standard precautions
-- **D.** No precautions if a previous test was negative
+- **A.** Routine hepatitis B vaccine as HCV prophylaxis
+- **B.** Routine hepatitis A immune globulin as HCV prophylaxis
+- **C.** Routine antiviral prophylaxis is not recommended
+- **D.** Routine long-term antibiotics as HCV prophylaxis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Standard precautions**
+**Correct answer: C. Routine antiviral prophylaxis is not recommended**
 
-**A. Kyun galat hai:** Routine blood collection mein airborne isolation universal requirement nahi hai.
+**A. Kyun galat hai:** HBV vaccine HCV infection ko prevent nahi karti.
 
-**B. Kyun galat hai:** Vaccination status contact isolation ka indication nahi hai.
+**B. Kyun galat hai:** HAV immune globulin HCV prevention product nahi hai.
 
-**C. Kyun sahi hai:** Har patient ke blood ko potentially infectious treat karna chahiye. Standard precautions exposure risk reduce karti hain.
+**C. Kyun sahi hai:** CDC routine HCV PEP recommend nahi karta. Exposed worker ki timely testing aur follow-up se infection detect karke appropriate treatment arrange hoti hai.
 
-**D. Kyun galat hai:** Previous negative result standard precautions ki need remove nahi karta.
+**D. Kyun galat hai:** Antibiotics bacterial infections ke liye use hoti hain. HCV viral infection hai.
 
-**Exam clue:** Apply standard precautions regardless of known status.
+**Exam clue:** HCV exposure requires follow-up testing rather than routine prophylaxis.
 
 </details>
 
@@ -106,28 +106,28 @@
 
 </details>
 
-### Q5. Which practice reduces healthcare-associated transmission of bloodborne hepatitis during injections?
+### Q5. Under CDC occupational exposure guidance, which testing approach is preferred for a source patient when evaluating possible hepatitis C transmission?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Reuse a syringe when only the needle is changed
-- **B.** Use one needle for several patients if they look well
-- **C.** Reuse a syringe after wiping its exterior
-- **D.** Use a new sterile needle and syringe for each patient
+- **A.** Serum blood glucose alone
+- **B.** Hepatitis B surface antibody alone
+- **C.** Routine urine dipstick alone
+- **D.** HCV RNA nucleic acid testing
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Use a new sterile needle and syringe for each patient**
+**Correct answer: D. HCV RNA nucleic acid testing**
 
-**A. Kyun galat hai:** Syringe mein blood contamination ho sakti hai. Needle change alone safe nahi hai.
+**A. Kyun galat hai:** Glucose result HCV viremia identify nahi karta.
 
-**B. Kyun galat hai:** Appearance infection status prove nahi karti. Needle reuse unsafe hai.
+**B. Kyun galat hai:** Anti-HBs HBV immunity marker hai, source ki HCV viremia nahi batata.
 
-**C. Kyun galat hai:** Exterior wiping internal contamination remove nahi karti.
+**C. Kyun galat hai:** Urine dipstick HCV RNA assessment nahi karti.
 
-**D. Kyun sahi hai:** New sterile equipment infected blood ko doosre patient tak transfer hone ka risk reduce karta hai.
+**D. Kyun sahi hai:** RNA testing source patient mein current HCV viremia identify kar sakti hai. CDC source testing ke liye NAT ko preferred option maanta hai.
 
-**Exam clue:** Both syringe and needle must be single-use for each patient.
+**Exam clue:** Source HCV RNA helps identify current viremia.
 
 </details>
 
