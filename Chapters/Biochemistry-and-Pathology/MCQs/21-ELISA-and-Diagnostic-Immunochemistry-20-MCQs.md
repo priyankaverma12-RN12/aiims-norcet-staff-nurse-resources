@@ -444,54 +444,56 @@
 
 </details>
 
-### Q19. An ELISA detects pathogen-specific antibody. A second assay detects a circulating pathogen antigen. What is the key difference between the measured targets?
+### Q19. An antigen-specific ELISA shows measurable binding when a structurally related but distinct purified antigen is tested. Which analytical property needs further investigation?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
-- **A.** Both measure the same molecular target but use different units
-- **B.** The antibody assay directly measures viable pathogen burden
-- **C.** Antigen detection always proves the organism is capable of replication
-- **D.** One measures a host immune product and the other measures a pathogen-derived component
+- **A.** The assay's specimen volume alone
+- **B.** The numerical units used for reporting
+- **C.** The optical path length alone
+- **D.** Antibody cross-reactivity with shared or similar epitopes
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. One measures a host immune product and the other measures a pathogen-derived component**
+**Correct: D. Antibody cross-reactivity with shared or similar epitopes**
 
-- **A.** Host antibody aur pathogen antigen distinct molecules hain. Units alone difference explain nahi karti.
-- **B.** Antibody concentration immune response reflect karti hai. Viable organism quantity directly establish nahi hoti.
-- **C.** Antigen remnants bhi detected ho sakte hain, depending on test and disease. Viability additional evidence demand kar sakti hai.
-- **D.** Antibody assay host immunoglobulin response detect karti hai. Antigen assay pathogen component target karti hai. Clinical meaning timing, test validation aur organism-specific algorithm par depend karti hai.
+- **A.** Specimen volume response affect kar sakta hai, lekin structurally related antigen ke saath recognition ka specific concern binding specificity hai.
+- **B.** Units result express karti hain. Unko change karne se antibody recognition ki underlying specificity change nahi hoti.
+- **C.** Optical path length color measurement affect kar sakti hai. Given related antigen recognition ko alone explain nahi karti.
+- **D.** Similar epitope structures ki wajah se assay antibody unintended antigen ko recognize kar sakti hai. Cross-reactivity study method ki analytical specificity assess karti hai, clinical diagnosis automatically establish nahi hoti.
 
-**Clinical reference:** [ELISA principles and quality control](https://www.ncbi.nlm.nih.gov/books/NBK555922/). Assay-specific validation required.
+**Clinical reference:** [Immunoassay interference review](https://pubmed.ncbi.nlm.nih.gov/28847718/). Assay-specific validation required.
 
 **Video practice:** [IFAS immunotechniques question-solving session](https://www.youtube.com/watch?v=Zq7BdLHtTsQ). Indexed broad topic only, exact item playback pending.
 
 </details>
 
-### Q20. A clinical laboratory validates an ELISA using known positive and negative specimens. Among 100 reference-positive specimens, 92 are detected. Among 100 reference-negative specimens, 96 test negative. What are the estimated diagnostic sensitivity and specificity in this validation set?
+### Q20. An ELISA spike-recovery experiment adds a known 40 ng/mL increment to a serum sample. After correcting for dilution, the measured concentration increases by only 24 ng/mL. What is the observed incremental recovery, and what concern does it raise?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
-- **A.** 96% sensitivity and 92% specificity
-- **B.** 8% sensitivity and 4% specificity
-- **C.** 92% sensitivity and 96% specificity
-- **D.** 94% sensitivity and 94% specificity
+- **A.** 167%, suggesting the entire analyte was recovered
+- **B.** 16%, calculated from the unrecovered concentration
+- **C.** 60%, suggesting incomplete recovery and possible matrix interference
+- **D.** 100%, because a known amount of analyte was added
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. 92% sensitivity and 96% specificity**
+**Correct: C. 60%, suggesting incomplete recovery and possible matrix interference**
 
-- **A.** Yeh positive aur negative reference groups swap karta hai. Sensitivity disease-positive group se calculate hoti hai.
-- **B.** Yeh false-negative aur false-positive proportions hain, requested correct classification rates nahi.
-- **C.** Sensitivity true positives divided by all reference-positive samples hai, 92/100. Specificity true negatives divided by all reference-negative samples hai, 96/100. Predictive values prevalence se separately influenced hote hain.
-- **D.** 94% overall accuracy ho sakti hai when groups equal size hain. Sensitivity aur specificity separately 92 and 96 percent hain.
+- **A.** Added increment ko observed increment se divide karna inverse ratio hai. Recovery observed divided by expected increment se calculate hoti hai.
+- **B.** 16 ng/mL unrecovered concentration difference hai, percentage nahi. Difference ko directly percentage label nahi kar sakte.
+- **C.** 24 divided by 40 times 100 equals 60%. Low incremental recovery matrix-related interference ya another analytical limitation suggest kar sakti hai. Actual acceptance criteria assay validation ke according decide hote hain.
+- **D.** Known spike add karna expected increment define karta hai. Measurement ne expected amount recover kiya ya nahi, yeh experiment evaluate karta hai.
 
-**Clinical reference:** [ELISA principles and quality control](https://www.ncbi.nlm.nih.gov/books/NBK555922/). Original arithmetic exercise based on the stated values.
+**Clinical reference:** [Spike-and-recovery assessment](https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/overview-elisa/spike-recovery-linearity-assessment.html). Original arithmetic exercise based on stated values.
 
-**Video practice:** [IFAS immunotechniques question-solving session](https://www.youtube.com/watch?v=Zq7BdLHtTsQ). Indexed broad topic only, exact item playback pending.
+**Video practice:** Exact item mapping pending.
 
 </details>
 
 ## Evidence limitations
 
 Direct NCBI ELISA text retrieved for methods and quality control. Immunoassay interference review indexed, full text unavailable. Do not use the ELISA article's outdated universal HIV Western blot confirmation statement as a current clinical testing algorithm. Dedicated video item mapping and independent clinical review remain pending. No PYQ credit.
+
+- Q19–20 replaced before integration to emphasize assay cross-reactivity and spike recovery instead of general antigen/antibody differentiation and diagnostic sensitivity/specificity statistics. No added count.
