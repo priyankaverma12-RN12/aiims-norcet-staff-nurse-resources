@@ -5,7 +5,7 @@
 [Chapter](../README.md) · [Topic map](../Concepts/Community-Health-Nursing-Topic-Coverage-Map.md)
 
 ## Study references
-[WHO household water treatment and safe storage](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/water-safety-and-quality/household-water-treatment-and-safe-storage) · [WHO WASH interventions](https://www.who.int/tools/elena/interventions/wsh-diarrhoea) · [CDC household water treatment](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html) · [CDC safe water storage](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html) · [WHO cholera outbreaks](https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks)
+[WHO household water treatment and safe storage](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/water-safety-and-quality/household-water-treatment-and-safe-storage) · [WHO WASH interventions](https://www.who.int/tools/elena/interventions/wsh-diarrhoea) · [CDC household water treatment](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html) · [CDC safe water storage](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html) · [WHO drinking-water quality guidelines](https://www.who.int/publications/i/item/9789240121225) · [WHO water safety planning](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/water-safety-and-quality/water-safety-planning) · [WHO cholera outbreaks](https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks)
 
 Dedicated sanitation question-solving video mapping pending. General CHN MCQ leads are not counted as verified item coverage.
 
@@ -361,25 +361,25 @@ Dedicated sanitation question-solving video mapping pending. General CHN MCQ lea
 
 </details>
 
-### Q17. A community-wide waterborne disease response includes boiling advice for microbial contamination. A household asks whether this advice also applies to fuel-contaminated water. What should the nurse explain?
+### Q17. Why is free residual chlorine monitored at points in a chlorinated drinking-water distribution system?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Environmental Sanitation and Safe Water | **Type:** Original practice
 
-- **A.** A transparent appearance confirms the absence of fuel
-- **B.** Boiling is not an appropriate way to make fuel-contaminated water safe, so an alternative safe source is needed
-- **C.** Boiling always removes fuel and every toxic substance
-- **D.** Adding more cooking salt makes fuel-contaminated water safe
+- **A.** To establish the exact concentration of every dissolved toxic chemical
+- **B.** To assess whether a disinfectant residual is maintained and identify possible operational failures
+- **C.** To prove that all microorganisms are absent without any additional testing
+- **D.** To measure the hardness of water directly
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Boiling is not an appropriate way to make fuel-contaminated water safe, so an alternative safe source is needed**
+**Correct: B. To assess whether a disinfectant residual is maintained and identify possible operational failures**
 
-- **A.** Transparent appearance dissolved contaminants ka absence prove nahi karti.
-- **B.** Microbial contamination aur fuel contamination ke treatment alag hain. Fuel suspected ho toh verified safe alternative use karna chahiye.
-- **C.** Boiling harmful chemicals ya fuel reliably remove nahi karti.
-- **D.** Salt chemical contamination ko reliably remove nahi karta.
+- **A.** Residual chlorine test disinfectant measure karta hai. Har toxic chemical ke liye alag appropriate assessment chahiye.
+- **B.** Water distribution ke dauran chlorine consume ho sakti hai. Residual monitor karne se possible disinfection ya distribution problems identify karne mein help milti hai.
+- **C.** Residual chlorine useful operational indicator hai, lekin ye microbial testing aur broader water safety assessment ko replace nahi karta.
+- **D.** Water hardness mainly dissolved calcium aur magnesium se related hai, free chlorine se directly measure nahi hoti.
 
-**Exam clue:** Match the treatment method to the hazard.
+**Exam clue:** Chlorine residual operational monitoring ka indicator hai, complete potability ka proof nahi.
 
 </details>
 
