@@ -1,5 +1,17 @@
 # Nursing Management and Education manual claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR40.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr40-q19-20261128T1555Z at verified checkpoint 9682f76c983cf9ea7eb7d1e31eb63b2eedd43443. Q19 governance distinction and distractors refined, prior exact-head CI 46161735794 success with 171 Mermaid blocks and 170 images passing automated parse/decode. All 100 staged originals and 400 rationales preserved. New CI, independent review, three remaining concept packages, specific videos and navigation gates remain. No new live count or merge. Preserve other sessions, learner history and schedules.
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: CLAIMED
 Owner: integration-pr40-q19-20261128T1555Z
 Scope: isolated PR40 Q19 governance distractors and source alignment, exact CI visual-parser checkpoint only. No added questions, shared navigation or publication.
