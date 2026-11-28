@@ -12,3 +12,11 @@
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
 [2 source-linked reported Previous Year Questions](Previous-Year-Questions/Community-Health-Nursing-Source-Linked-Reported-PYQs.md). These are adapted, not authenticated verbatim official questions.
+
+## Manual chapter work claim
+
+State: CLAIMED
+Owner: content-first-community-20261128T094449Z
+Scope: Community Health Nursing topic-wise original MCQ banks only, isolated candidate branch community-health-b01-20261128, no shared navigation writes.
+Claimed UTC: 2026-11-28T09:44:49Z
+Expiry UTC: 2026-11-28T10:14:49Z
