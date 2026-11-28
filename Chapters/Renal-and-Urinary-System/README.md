@@ -56,4 +56,4 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: CLAIMED. Owner: renal-pr52-reconcile-20261128-092507Z. Scope: isolated PR52 non-force latest-main reconciliation of seven existing candidate files only, no live publication pending release gates. Claimed UTC: 2026-11-28T09:25:07Z. Expiry UTC: 2026-11-28T09:55:07Z. -->
+<!-- Manual Renal scope claim: FREE. Owner: none. Released after non-force PR52 reconciliation 8342b78e0932530dee00de9f07c82aeb35b698fc with latest main parent e09b026ffff0fb608d569fba44b5d09b171b13ec. Exact seven-path delta and all seven remote blob readbacks passed. Bank, concepts, diagram, evidence, coverage map and research register preserved byte-for-byte. Live inventory remains 604 originals and 22 diagrams. PR52 remains draft pending current-head CI, remaining independent semantic/source/video/curriculum validation, PR7 acknowledgment and safe publication. Do not repeat completed navigation preparation or prior corrective work. -->
