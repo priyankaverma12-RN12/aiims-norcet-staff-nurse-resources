@@ -238,25 +238,25 @@
 
 </details>
 
-### Q10. A neonatal nurse prepares the first prescribed IV antibiotic dose and notices the required blood culture has not yet been taken. What is the appropriate action?
+### Q10. A hospitalized preterm infant in a neonatal unit is being investigated for possible late-onset bloodstream infection. There are no specific urinary findings. Under NICE NG195, which investigation is not routinely required solely for this neonatal-unit presentation?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Coordinate immediate culture collection and timely antibiotic delivery without avoidable delay
-- **B.** Administer the drug and routinely omit culture even when collection is feasible
-- **C.** Cancel the antibiotic until the final culture result is available
-- **D.** Replace the culture with a random urine dipstick
+- **A.** Routine urine microscopy and culture
+- **B.** Blood culture before the first antibiotic dose
+- **C.** Baseline CRP when commencing antibiotics
+- **D.** Assessment of clinical stability
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Coordinate immediate culture collection and timely antibiotic delivery without avoidable delay**
+**Correct answer: A. Routine urine microscopy and culture**
 
-- **A — Correct:** Culture antibiotic se pehle lena preferred hai, lekin urgent treatment unnecessary delay nahi karna. Team se immediately coordinate karo.
-- **B — Incorrect:** Culture omit karne se organism identification aur targeted treatment difficult ho sakta hai.
-- **C — Incorrect:** Final culture result hours ya days le sakta hai. Suspected sepsis ka indicated treatment result tak postpone nahi hota.
-- **D — Incorrect:** Urine dipstick bloodstream microbiology ka substitute nahi hai.
+- **A — Correct:** NICE neonatal unit mein suspected late-onset infection ki routine investigations mein urine microscopy aur culture automatically include nahi karta. Agar specific clinical indication hai toh clinician separate decision lega. Home se admitted baby ka assessment pathway different ho sakta hai.
+- **B — Incorrect:** Blood culture suspected bloodstream infection mein important hai. First antibiotic dose se pehle sample safely collect karna useful hai.
+- **C — Incorrect:** Baseline CRP ko subsequent values aur clinical condition ke saath interpret karte hain. Yeh recommended investigation hai jab antibiotic treatment shuru hota hai.
+- **D — Incorrect:** Clinical stability assessment se respiratory ya circulatory deterioration detect hoti hai. Isko omit nahi karna hai.
 
-**Exam clue:** Obtain culture promptly, then deliver indicated treatment.
+**Exam clue:** Neonatal-unit setting aur community presentation ki investigations ko mix mat karo.
 
 **Reference:** [NICE NG195](https://www.ncbi.nlm.nih.gov/books/NBK571222/) · [Concepts](../Concepts/03B-Neonatal-Sepsis-and-Infection-Nursing-Care.md)
 
