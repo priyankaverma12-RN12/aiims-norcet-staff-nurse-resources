@@ -128,27 +128,27 @@
 
 ## Part 2
 
-### Q6. Why can skeletal muscle glycogen not directly maintain circulating glucose during fasting?
+### Q6. During glycogen breakdown, phosphorylase stops near an alpha-1,6 branch point. Which enzyme activity releases the remaining branch-point glucose as free glucose?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Carbohydrate metabolism | **Exam focus:** NORCET-style original
 
-- **A.** Skeletal muscle lacks glucose-6-phosphatase
-- **B.** Skeletal muscle cannot form glucose-6-phosphate
-- **C.** Muscle contains no glycogen
-- **D.** Muscle lacks ATP-dependent enzymes
+- **A.** Amylo-alpha-1,6-glucosidase activity of glycogen debranching enzyme
+- **B.** Glycogen synthase
+- **C.** Phosphoglucomutase
+- **D.** Hexokinase
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Skeletal muscle lacks glucose-6-phosphatase**
+**Correct: A. Amylo-alpha-1,6-glucosidase activity of glycogen debranching enzyme**
 
-- **A.** Muscle glycogen se glucose-6-phosphate bana leta hai aur use apni glycolysis mein energy ke liye istemal karta hai. Lekin skeletal muscle mein glucose-6-phosphatase nahi hota, isliye woh is glucose ko directly free glucose banakar blood mein nahi bhej sakta.
-- **B.** Muscle glycogen ko todkar glucose-1-phosphate aur phir glucose-6-phosphate bana sakta hai. Problem yeh nahi ki intermediate nahi banta, balki free glucose release karne wala final enzyme nahi hai.
-- **C.** Skeletal muscle mein glycogen store hota hai. Yeh store muscle ki apni energy demand poori karne mein madad karta hai.
-- **D.** Muscle contraction aur metabolism mein ATP use karne wale bahut enzymes hote hain. Blood glucose ko directly maintain na kar paane ka reason glucose-6-phosphatase ki absence hai.
+- **A.** Glycogen phosphorylase branch point ke paas ruk jata hai. Debranching enzyme pehle glucose residues transfer karta hai aur phir apni alpha-1,6-glucosidase activity se bacha hua branch bond todta hai. Is step mein free glucose release hota hai.
+- **B.** Glycogen synthase glucose units ko growing glycogen chain mein jodta hai. Yeh stored glycogen ke branch bond ko hydrolyze nahi karta.
+- **C.** Phosphoglucomutase glucose-1-phosphate aur glucose-6-phosphate ke beech conversion karta hai. Yeh glycogen ke alpha-1,6 branch bond ko nahi todta.
+- **D.** Hexokinase free glucose ko phosphorylate karta hai. Glycogen debranching ke liye required alpha-1,6-glucosidase activity alag enzyme mein hoti hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK549820/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant mechanism](https://www.ncbi.nlm.nih.gov/books/NBK549820/). Indexed source evidence. Independent review pending.
 
-**MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
+**MCQ practice video:** Exact item mapping pending.
 
 </details>
 
@@ -298,27 +298,27 @@
 
 </details>
 
-### Q13. Which pathway converts muscle-derived lactate into glucose in the liver for return to the circulation?
+### Q13. In a simplified complete Cori cycle, peripheral glycolysis produces two ATP per glucose while hepatic regeneration of glucose consumes six ATP equivalents. What is the net whole-body energy cost per turn?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Carbohydrate metabolism | **Exam focus:** NORCET-style original
 
-- **A.** Urea cycle
-- **B.** Krebs cycle
-- **C.** Cori cycle
-- **D.** Pentose phosphate pathway
+- **A.** A gain of four ATP equivalents
+- **B.** A cost of two ATP equivalents
+- **C.** A cost of four ATP equivalents
+- **D.** No net energy cost
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Cori cycle**
+**Correct: C. A cost of four ATP equivalents**
 
-- **A.** Urea cycle ammonia ko urea mein convert karke nitrogen disposal mein help karti hai. Muscle lactate ko liver mein glucose banane ka cycle alag hai.
-- **B.** Krebs cycle acetyl-CoA ki oxidation se energy metabolism support karti hai. Muscle aur liver ke beech lactate-glucose recycling iska defining role nahi hai.
-- **C.** Muscle se lactate blood ke through liver tak ja sakta hai. Liver usse gluconeogenesis ke through glucose banata hai aur glucose blood mein wapas aa sakta hai. Is recycling ko Cori cycle kehte hain.
-- **D.** Pentose phosphate pathway NADPH aur ribose-5-phosphate provide karti hai. Lactate se glucose ka interorgan cycle Cori cycle hai.
+- **A.** Peripheral tissue ko do ATP milte hain, lekin liver ko glucose wapas banane ke liye chhe ATP equivalents kharch karne padte hain. Isliye total body ka net gain chaar nahi hota.
+- **B.** Do ATP peripheral glycolysis ka local gain hai. Liver ka energy expenditure bhi include karne par net cost alag hoti hai.
+- **C.** Liver chhe ATP equivalents kharch karta hai aur peripheral glycolysis do ATP banati hai. Dono ko combine karne par 6 minus 2, yani chaar ATP equivalents ka net cost hota hai. Yeh cycle peripheral tissues ko glucose aur energy support deti hai.
+- **D.** Cycle mein glucose carbon recycle hota hai, lekin energy free mein recycle nahi hoti. Hepatic gluconeogenesis ka cost peripheral ATP gain se zyada hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK544346/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant mechanism](https://pubchem.ncbi.nlm.nih.gov/pathway/WikiPathways%3AWP1946). Indexed source evidence. Independent review pending.
 
-**MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
+**MCQ practice video:** Exact item mapping pending.
 
 </details>
 
@@ -503,3 +503,5 @@ Dedicated practice video lead: [Carbohydrate Digestion Absorption and Metabolism
 Audit continuation: all 20 original stems, options and keys preserved. All 80 option rationales reviewed and expanded in conversational Roman Hinglish. Difficulty labels recalibrated. Independent reviewer and exhaustive semantic/video evidence still pending.
 
 Additional source audit: Q12/Q13/Q20 gluconeogenesis and Q19 pyruvate dehydrogenase cofactor links narrowed to their specific mechanisms. Full-text glycolysis, glycogenolysis and hereditary fructose intolerance sources retrieved. Other source extracts indexed. No independent sign-off or exact video playback claim.
+
+Semantic corrective audit: Q6: Published A&P 30 Q9 and Nutrition PR35 01A Q7 already test absence of skeletal-muscle glucose-6-phosphatase. Q13: Published A&P 30 Q10 already tests naming the Cori cycle. This replacement tests its energy accounting. Original draft wording retained in Git history. Same question numbers and key letters, no additional inventory credit. All other question blocks unchanged.
