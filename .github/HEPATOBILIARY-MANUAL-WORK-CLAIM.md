@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b10-20261128T1314Z
-Scope: PR60 isolated distinct new hepatobiliary nursing banks, beginning with percutaneous cholecystostomy, no shared navigation or prior bank edits.
-Claimed UTC: 2026-11-28T13:14:00Z
-Expiry UTC: 2026-11-28T13:44:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -48,3 +48,8 @@ Candidate head a0c98fb262ad5013d49127189b7f50b4581f1030. Added 100 originals acr
 ## Batch 09 released checkpoint — 28 November 2026
 
 Candidate head c5a8ebd78f9e8a2e1a82cfa7863e409c86e7c525. Added 100 original MCQs across five new banks (autoimmune pancreatitis, acute hepatitis A, ascites management, chronic pancreatic duct intervention, biliary malignancy), 400 separate Roman Hinglish rationales and 100 clues. All five banks and appended inventory exact readbacks passed. New difficulty 35 Easy/35 Medium/30 Difficult, A/B/C/D 25 each. All 100 answer mappings and closed details verified, 100 distinct normalized stems, zero exact matches against all 744 prior candidate/starter headings. 840 staged originals, 3360 rationales, 840 clues, 42 banks, six guides and one SVG. Cumulative difficulty 98 Easy, 404 Medium, 338 Difficult, overall Easy deficit remains. Earlier 37 banks preserved, no live credit or new mock/PYQ. Independent clinical/pharmacy/semantic review, full source/video checks, companion guides/diagrams, full bounded preflight, curriculum reconciliation, PR29/7/8 and safe integration remain pending. Next verify remaining meaningful INC objectives and complete topic coverage before ten original-only balanced mocks, two per run, then sourced topic-mapped PYQs. No other claims, learner history, website or schedules changed.
+
+
+## Batch 10 released checkpoint — 28 November 2026
+
+Candidate head 68c8087983f1fa5cffd50ff14a1064cbeb7ac8ef. Added 100 original MCQs across five new banks (percutaneous cholecystostomy, drug and supplement-induced liver injury, liver biopsy, hepatectomy nursing, acute pancreatitis severity and monitoring), 400 individual rationales and 100 clues. All five banks and appended inventory exact readbacks passed. New difficulty 35 Easy/34 Medium/31 Difficult. A/B/C/D 25 each. 100 aligned keys, closed details and distinct normalized new stems. Targeted prior and sibling heading comparison performed, full 844 prior stem comparison exceeded connector call limit and remains pending. 940 staged originals, 3760 rationales, 940 clues, 47 banks, six existing guides and one SVG. Cumulative 133 Easy/438 Medium/369 Difficult. All previous 42 banks unchanged. No live credit, new mocks or PYQs. Independent clinical/pharmacy/semantic review, full source/video and concept/diagram work, curriculum, PR29/7/8, fresh preflight, main reconciliation and CI remain pending. Next target meaningful uncovered objectives and Easy deficit corrections, then original-only balanced mocks once coverage certified. Preserve other claims, learner history and five hourly jobs.
