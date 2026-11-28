@@ -76,23 +76,23 @@
 
 </details>
 
-### Q4. A child and caregiver speak a language unfamiliar to the clinical team. Which action best supports accurate discussion of planned care?
+### Q4. During a stable child's admission interview, the caregiver answers every question even though the school-age child attempts to speak. How should the nurse obtain the child's perspective?
 
-**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Hospitalized child and family-centered care | **Type:** Original
+**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Hospitalized child and family-centered care | **Type:** Original
 
-- **A.** Arrange a qualified interpreter and speak directly to the child and caregiver
-- **B.** Ask an unrelated child in the ward to interpret
-- **C.** Use technical English more slowly without checking comprehension
-- **D.** Assume agreement if the caregiver nods
+- **A.** Invite the child to describe symptoms in their own words, then ask the caregiver to supplement the history
+- **B.** End the interview and exclude the caregiver entirely
+- **C.** Treat caregiver responses as the child's own words
+- **D.** Require the child to complete an adult medical history form alone
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Arrange a qualified interpreter and speak directly to the child and caregiver**
+**Correct: A. Invite the child to describe symptoms in their own words, then ask the caregiver to supplement the history**
 
-- **A.** Qualified interpreter accuracy aur privacy support karta hai. Nurse child aur caregiver se directly respectful communication rakhti hai.
-- **B.** Unrelated child ko sensitive clinical discussion translate karwana unreliable aur inappropriate ho sakta hai.
-- **C.** Slow technical language language barrier ko necessarily solve nahi karti.
-- **D.** Nodding politeness ya uncertainty ho sakti hai, informed understanding ka proof nahi hai.
+- **A.** Child ko direct opportunity dene se symptom experience aur concerns pata chalte hain. Caregiver additional history dekar assessment complete kar sakta hai.
+- **B.** Caregiver ka observation useful hai, isliye bina reason exclude karna appropriate nahi hai.
+- **C.** Caregiver report aur child self-report alag sources hain. Documentation mein distinction maintain karo.
+- **D.** Adult form child ke developmental level se mismatch ho sakta hai aur communication barrier create karta hai.
 
 **Reference:** [Open RN planning care for the ill child](https://www.ncbi.nlm.nih.gov/books/NBK615330/) · [RCH nursing assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Nursing_Assessment/) · [AAP child life services](https://doi.org/10.1542/peds.2020-040261)
 
@@ -220,23 +220,23 @@
 
 </details>
 
-### Q10. A caregiver appears embarrassed when asked to demonstrate a home-care skill before discharge. Which response best uses teach-back respectfully?
+### Q10. A school-age child with a chronic condition is ready for discharge, but the family worries that school staff will not recognize an urgent change in symptoms. What should the nurse prioritize in continuity planning?
 
-**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Hospitalized child and family-centered care | **Type:** Original
+**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Hospitalized child and family-centered care | **Type:** Original
 
-- **A.** Describe the demonstration as a test of the caregiver's intelligence
-- **B.** Skip assessment because embarrassment proves understanding
-- **C.** Give written instructions only and prohibit questions
-- **D.** Explain that demonstration checks how clearly the team taught the skill, then coach as needed
+- **A.** Advise the family to keep the child out of school indefinitely
+- **B.** Send confidential records to all classmates
+- **C.** Ask the child to manage every emergency alone
+- **D.** Help the family and team prepare an individualized school action plan with warning signs and emergency contacts, with appropriate consent
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Explain that demonstration checks how clearly the team taught the skill, then coach as needed**
+**Correct: D. Help the family and team prepare an individualized school action plan with warning signs and emergency contacts, with appropriate consent**
 
-- **A.** Intelligence test bolne se shame aur communication barrier badh sakte hain.
-- **B.** Embarrassment skill mastery ka evidence nahi hai.
-- **C.** Written instructions useful hain, lekin practical demonstration aur questions ka replacement nahi.
-- **D.** Teach-back se nurse apni teaching ki clarity verify karti hai. Respectful coaching caregiver ko safe skill practice ka chance deti hai.
+- **A.** Indefinite school exclusion social aur educational participation ko harm kar sakta hai.
+- **B.** Classmates ko confidential records share karna privacy violation hai.
+- **C.** Child ki age aur abilities ke hisaab se adults ka support zaroori ho sakta hai.
+- **D.** Individual school plan staff ko warning signs, approved actions aur contact pathway samjhata hai. Consent aur local school policy ke saath safe return support hota hai.
 
 **Reference:** [Open RN planning care for the ill child](https://www.ncbi.nlm.nih.gov/books/NBK615330/) · [RCH nursing assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Nursing_Assessment/) · [AAP child life services](https://doi.org/10.1542/peds.2020-040261)
 
