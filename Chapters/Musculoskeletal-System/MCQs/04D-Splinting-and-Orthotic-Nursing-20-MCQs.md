@@ -578,7 +578,7 @@
 
 **Exam clue:** A deformed orthosis cannot be assumed to provide its prescribed support.
 
-**Clinical reference:** [CUH prefabricated splint and brace care](https://www.cuh.nhs.uk/patient-information/instructions-for-wear-and-care-of-soft-material-pre-fabricated-splints-braces/). Indexed clinical evidence, independent device-specific review pending.
+**Clinical reference:** [University Hospitals Plymouth hand therapy splint care](https://www.plymouthhospitals.nhs.uk/display-pil/pil-hand-therapy-care-of-your-splint-5727). Indexed clinical evidence, independent device-specific review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
