@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: ACTIVE
-Owner: easy-medium-ipc-b06-20261128T140911Z
-Scope: PR68 IPC transmission, bacterial structure, growth, staining, microscopy and culture supplements only
-Claimed UTC: 2026-11-28T14:09:11Z
-Expiry UTC: 2026-11-28T14:39:11Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -27,3 +27,7 @@ Own claim acquired edd994fc5844f78d166961cb8658cbfe3e59ce7c, released now. PR68 
 ## Verified Batch 05 checkpoint — 28 November 2026
 
 Own claim acquired 95f488ebfc852a9092eaf48100cfb39989f94e29, released now. PR68 head 974f61696655743f521d430350194c509c34782f. New commits: waste segregation d93e3e0e6222472e0d571b1769719ee7cb13eefa, regulation 1c07347b1d428c8694b51edc9738cb46191dd2d2, sharps 6e3e82fa9d73ab316b2545c9b72a335a0496ef8f, HIV ff7668b9e0d2954a58ae0799e8306240f9c06115, HBV 8597164e91b12c2265050729e9a690a60f6244bb, HCV 974f61696655743f521d430350194c509c34782f. 36 new candidates (30 Easy, 6 Medium), 144 individual Roman Hinglish rationales, 36 clues. Six exact remote readbacks, 36 distinct normalized new stems and aligned keys, four rationales, closed details and clues. All prior MCQ directory blobs unchanged. Cumulative 114 candidates (99 Easy, 15 Medium), 456 rationales, 114 clues, 19 banks. CPCB original 2016 rule text retrieved, page screenshot unavailable, consolidated amendment verification remains pending. WHO 2024 PEP, 2025 US PHS occupational HIV guidance, CDC NIOSH/HBV/HCV guidance consulted, some pages available as indexed excerpts only. Related bank stems screened, full cross-chapter and semantic comparison pending. Independent clinical, video, navigation and CI gates pending, no live credit. Nursing Foundations active forward claim and overlapping drafts at preflight. PR69/70 open at preflight, no policy edits. Next recheck Foundations, otherwise continue remaining genuine IPC deficits and chain of infection/microbial transmission in curriculum order. No mock edits, learner history or schedule changes. Preserve all five hourly automations and other sessions.
+
+## Verified Batch 06 checkpoint — 28 November 2026
+
+Own claim acquired 11ab19892438b99c8dabe90da1c043ed70b0e340, released now. PR68 head d7eafdabc0190b08367640e9e0366c8bb37d2524. New bank commits: infection progression d498c5acc4650d3fbdf2e6df56cbe82c7cdefd6b; bacterial morphology 8f5ae677b35f01c664e5d6b0c3711b76950eec88; growth requirements 171e75d03d467a807c9446672e2c4712faea5758; staining/microscopy 4e56614844346c5f8dee36e0019e5ae20f0a417c; culture media d7eafdabc0190b08367640e9e0366c8bb37d2524. 30 new candidates (25 Easy, 5 Medium), 120 individual Roman Hinglish rationales, 30 exam clues, five exact readbacks. 30 distinct normalized stems and aligned answer keys, hidden blocks, four rationales and clues; zero exact matches against 120 prior Group06/07/08 stems. Related 09/10/24 stems reviewed during authorship. All earlier MCQ directory blobs unchanged. Cumulative 144 candidates (124 Easy, 20 Medium), 576 rationales, 144 clues, 24 banks. OpenStax Microbiology and CDC epidemiology references directly opened or indexed; bounded related-bank screen only, independent clinical and cross-chapter semantic, video, navigation and CI gates pending. Projected E/M/D group06 4/18/24, group07 10/18/24, group08 11/26/15. Nursing Foundations claim observed at preflight with overlapping drafts still open; PR69/70 unmodified. Next recheck Foundations, otherwise remaining genuine IPC deficits and gram-positive/gram-negative organisms. No live credit, mock edits, learner history or automation changes. Preserve all other sessions and five hourly automations.
