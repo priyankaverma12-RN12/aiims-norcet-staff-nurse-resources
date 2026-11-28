@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
-State: CLAIMED
-Owner: coverage-gap-hematology-20261128-041517
-Scope: Hematology only, new leukemia overview and subtype MCQ banks, separate evidence and chapter-local inventory. No shared navigation or other jobs.
-Claimed UTC: 2026-11-28T04:15:17Z
-Expiry UTC: 2026-11-28T04:45:17Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: coverage-gap-hematology-20261128-040142
-Last scope: Hematology and Blood Disorders only. Released after verified Run 4 writes.
+Last owner: coverage-gap-hematology-20261128-041517
+Last scope: Hematology and Blood Disorders only. Released after verified Run 5 writes and inventory.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -56,3 +56,14 @@ All 36 chapter directories structurally inventoried, 22 other starter files read
 ### Next safe scope
 
 Recheck all claims, rule files, recent commits and open PRs. Continue distinct leukemia overview/acute and chronic leukemia topics, then transfusion and reactions, anticoagulation and bleeding precautions, reviewing other chapter banks for overlap. Continue remaining eligible hematological curriculum objectives before any ten original-only 120-question mock tests. Complete outstanding independent clinical, comprehensive semantic, HPRCA and other official PYQ key, dedicated MCQ video and repository count checks. Only release owned claim. Do not overwrite any later claim owner.
+
+## Verified checkpoint — 28 November 2026, Run 5
+
+- Prior released checkpoint c500cf67f2827b92d4376d30568e7cc3a2af00ee preserved. Run 5 claim acquired at 60cddd68c31ef50f475af8f2e97e5cf1abc8f554.
+- Overview 93c94aaaaff42975a4a8819c7567bc365519d441, ALL 9a2e8c6651f43235c0da4660cfbb0b77478d4e9f, AML 3d33cb4ac1077f30908fd2f54cc73ad98b75d8c8, CLL d97a62d4fa320bfeabaab1757e9d620b57da1131, CML final d1fcdba107d2212bcb3a86d07aff0df3c1f5e798 (creation 8f8022fc1c81aed30f433cf9f412638b52a065a9).
+- Leukemia evidence adaptation b20c6bf051fb64a6385f626450eb90d1710bf4e6. Inventory 72c7068b9d5fc3766b0c3b7d8b77959279ec4213, blob 9c907a8f9e955b329ff963208e5ce7464c25b795.
+- Added 150 originals and one separate adaptation, 604 new rationales. Cumulative 454 original slots, six adaptations, 1,824 newly authored individual rationales, zero full original-only mocks, zero authenticated verbatim official PYQs.
+- Exact submission readbacks for overview, ALL, CLL, CML, evidence and inventory passed. AML immediate comparison interrupted by tool cap, pinned commit/current main exact equality recovered, structural alignment verified. All 150 original blocks passed structural checks, no claim of exhaustive semantic or independent clinical verification.
+- Read-only Nervous-System 120 topic slots, 120 compiled mock slots, 10 reported practice blocks. Endocrine-System 190 MCQ-directory answer blocks, 120 compiled mock slots, 26 reported practice blocks. No new originals inferred from compilation. Counts remain structural rather than repository-wide unique counts.
+- HPRCA portal access blocked exact official match, EHA 2026 CLL direct retrieval 403, exact video mapping/playback and full independent review pending. Rules and audit fetched in bounded ranges with relevant requirements inspected, fresh exhaustive line-by-line review not certified. Other jobs, theory, website, learner history, PR8, PR12, already merged PR27, shared navigation and five automations not modified.
+- Next: acquire only safe Hematology scope for transfusion components/administration, transfusion reactions, anticoagulation, bleeding precautions and remaining syllabus gaps. Recheck other claims, exact counts, clinical and semantic limitations before original-only mocks.
