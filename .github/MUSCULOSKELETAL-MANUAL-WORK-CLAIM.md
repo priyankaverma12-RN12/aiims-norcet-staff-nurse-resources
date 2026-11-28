@@ -1,5 +1,15 @@
 # Musculoskeletal System manual chapter claim
 
+State: CLAIMED
+Owner: integration-pr46-eight-pairs-20261128T1227Z
+Scope: isolated PR46 03E Q02/Q04/Q05/Q06/Q08/Q09/Q11/Q15 replacements and checkpoint; retain all earlier corrected blocks and PR48; no main clinical content or shared navigation.
+Claimed UTC: 2026-11-28T12:27:24Z
+Expiry UTC: 2026-11-28T12:57:24Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at PR46.
