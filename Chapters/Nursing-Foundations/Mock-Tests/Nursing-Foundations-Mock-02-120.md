@@ -724,7 +724,7 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 ### Q21. A patient appears unable to understand the consequences of a proposed treatment because of acute delirium. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume all adults always have capacity regardless of condition
 - **B.** Arrange assessment of decision-making capacity and follow applicable consent and emergency policies
@@ -749,7 +749,7 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q7](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q7](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q7-a-patient-appears-unable-to-understand-the-consequences-of-a-proposed-treatment-because-of-acute-delirium-what-is-appropriate)
 
 ### Q22. Which documentation entry is most objective?
 
@@ -836,7 +836,7 @@ Bed rail routine high-touch surface hai aur sterile nahi hoti. Sterile glove rai
 
 ### Q24. A patient with a urinary catheter has new suprapubic pain and low drainage. Which is the best initial nursing assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Administer a diuretic without review
 - **B.** Check tubing, bladder distension and patient vital status before escalating appropriately
@@ -861,7 +861,7 @@ Bed rail routine high-touch surface hai aur sterile nahi hoti. Sterile glove rai
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q6](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q6](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q6-a-patient-with-a-urinary-catheter-has-new-suprapubic-pain-and-low-drainage-which-is-the-best-initial-nursing-assessment)
 
 ### Q25. Which method destroys all forms of microbial life, including bacterial spores, when correctly validated?
 
@@ -1081,7 +1081,7 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 ### Q31. Which action demonstrates veracity in nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Invent an explanation to avoid questions
 - **B.** Provide truthful information within the nurse's role and clarify uncertainty
@@ -1106,7 +1106,7 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q5](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q5](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q5-which-action-demonstrates-veracity-in-nursing)
 
 ### Q32. A Jackson-Pratt drain bulb is fully expanded and prescribed suction is lost. What should the nurse do?
 
@@ -1462,7 +1462,7 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 ### Q42. A patient has been on bed rest for weeks and is beginning rehabilitation. Why should upright activity be progressed gradually?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Cardiovascular deconditioning can impair tolerance of sudden standing
 - **B.** Gradual progression eliminates all future fall risk
@@ -1487,11 +1487,11 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q6](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q6](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q6-a-patient-has-been-on-bed-rest-for-weeks-and-is-beginning-rehabilitation-why-should-upright-activity-be-progressed-gradually)
 
 ### Q43. Which term describes grief occurring before an expected loss, such as anticipated death from advanced illness?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Anticipatory grief
 - **B.** Absence of grief
@@ -1516,7 +1516,7 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q5](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q5](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q5-which-term-describes-grief-occurring-before-an-expected-loss-such-as-anticipated-death-from-advanced-illness)
 
 ### Q44. What is the role of pulse oximetry in oxygen therapy?
 
@@ -1748,7 +1748,7 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 ### Q51. A dying patient has dry mouth, limited oral intake and an aspiration risk. Which comfort measure is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Provide frequent safe oral and lip care and discuss individualized hydration goals
 - **B.** Avoid all mouth care
@@ -1773,7 +1773,7 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q6](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q6](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q6-a-dying-patient-has-dry-mouth-limited-oral-intake-and-an-aspiration-risk-which-comfort-measure-is-appropriate)
 
 ### Q52. Which additive is used for routine PT and aPTT samples?
 
@@ -1911,7 +1911,7 @@ Z-track technique mein selected IM medicine ke liye skin aur underlying subcutan
 
 ### Q56. Which complication is associated with reduced deep breathing and secretion clearance during immobility?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Atelectasis and retained respiratory secretions
 - **B.** Increased swallowing efficiency by definition
@@ -1936,7 +1936,7 @@ Z-track technique mein selected IM medicine ke liye skin aur underlying subcutan
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q7](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q7](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q7-which-complication-is-associated-with-reduced-deep-breathing-and-secretion-clearance-during-immobility)
 
 ### Q57. Why should a medication not be added directly to a blood component bag?
 
@@ -2183,7 +2183,7 @@ Stool test ki reliability specimen ke sahi collection par depend karti hai. Urin
 
 ### Q64. After removal of a large volume of ascitic fluid, a patient becomes dizzy and hypotensive. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume all hypotension is expected and harmless
 - **B.** Document normal vital signs without measuring
@@ -2208,7 +2208,7 @@ Stool test ki reliability specimen ke sahi collection par depend karti hai. Urin
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q7](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q7](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q7-after-removal-of-a-large-volume-of-ascitic-fluid-a-patient-becomes-dizzy-and-hypotensive-what-should-the-nurse-do)
 
 ### Q65. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
 
@@ -2529,7 +2529,7 @@ Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate k
 
 ### Q74. A patient requests that a particular health detail not be discussed with visitors. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Tell all visitors because they ask politely
 - **B.** Respect the preference and share information only with authorized persons or as legally required
@@ -2554,11 +2554,11 @@ Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate k
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q6](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q6](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q6-a-patient-requests-that-a-particular-health-detail-not-be-discussed-with-visitors-what-should-the-nurse-do)
 
 ### Q75. Which procedure removes fluid from the peritoneal cavity?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Bronchoscopy
 - **B.** Thoracentesis
@@ -2583,7 +2583,7 @@ Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate k
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q6](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q6](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q6-which-procedure-removes-fluid-from-the-peritoneal-cavity)
 
 ### Q76. Which goal is served by preoperative instruction in deep breathing and mobilization?
 
@@ -2652,7 +2652,7 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 
 ### Q78. A patient with a feeding tube is due for medicines, but initial placement has not been confirmed. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 JIPMER Staff Nurse 23 Feb 2020 — related reported concept** · **🟣 AIIMS Delhi Nursing Officer 15 Sep 2019 — related reported concept**
 
 - **A.** Withhold tube use and obtain approved placement confirmation
 - **B.** Give a small test amount of water by tube
@@ -2677,7 +2677,7 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q5](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q5](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q5-a-patient-with-a-feeding-tube-is-due-for-medicines-but-initial-placement-has-not-been-confirmed-what-is-the-priority)
 
 ### Q79. A patient has a patient-controlled analgesia pump. Which teaching is most appropriate?
 
@@ -2748,7 +2748,7 @@ Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab conscio
 
 ### Q81. A patient near end of life has distressing breathlessness despite an initial plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Insist on vigorous exercise
 - **B.** Give an unprescribed sedative dose without assessment
@@ -2773,7 +2773,7 @@ Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab conscio
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q7](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q7](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q7-a-patient-near-end-of-life-has-distressing-breathlessness-despite-an-initial-plan-what-should-the-nurse-do)
 
 ### Q82. An electrical device sparks while connected to a patient. Which immediate response is safest?
 
@@ -2853,7 +2853,7 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 ### Q84. A patient develops sudden dyspnea and unilateral reduced breath sounds after thoracentesis. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply a routine heating pad as the only intervention
 - **B.** Urgent respiratory assessment for possible pneumothorax and escalation
@@ -2878,11 +2878,11 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q5](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q5](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q5-a-patient-develops-sudden-dyspnea-and-unilateral-reduced-breath-sounds-after-thoracentesis-what-is-the-priority)
 
 ### Q85. Which investigation allows direct visualization of the lower urinary tract including the bladder?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cystoscopy
 - **B.** Gastroscopy
@@ -2907,7 +2907,7 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q8](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q8](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q8-which-investigation-allows-direct-visualization-of-the-lower-urinary-tract-including-the-bladder)
 
 ### Q86. Which approach minimizes the effect of conscious breathing control when assessing respiratory rate?
 
@@ -3084,7 +3084,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 ### Q91. Which intervention helps preserve muscle function in a stable bedbound patient who can contract muscles but cannot yet walk?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Complete avoidance of all muscle contraction
 - **B.** Prescribed active or assisted exercises according to restrictions
@@ -3109,7 +3109,7 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q5](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q5](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q5-which-intervention-helps-preserve-muscle-function-in-a-stable-bedbound-patient-who-can-contract-muscles-but-cannot-yet-walk)
 
 ### Q92. A patient in recovery has rapidly falling BP, rising pulse and increasing wound drainage. Which complication is most concerning?
 
@@ -3245,7 +3245,7 @@ Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh e
 
 ### Q96. Which nursing action maintains dignity when providing personal care to a dying patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Ignore expressed spiritual needs
 - **B.** Discuss the patient as if absent even when conscious
@@ -3270,7 +3270,7 @@ Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh e
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q8](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q8](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q8-which-nursing-action-maintains-dignity-when-providing-personal-care-to-a-dying-patient)
 
 ### Q97. Which nursing action reduces skin injury from a nasal cannula?
 
@@ -3406,7 +3406,7 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 ### Q101. A patient receiving blood develops fever and shaking chills, but the nurse is unsure whether the symptoms are transfusion-related. What is the safest action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 9 Mains 27 Sep 2025 — related reported concept**
 
 - **A.** Continue until a reaction is definitively proven
 - **B.** Stop the transfusion and initiate assessment and reaction protocol
@@ -3431,7 +3431,7 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q7](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q7](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q7-a-patient-receiving-blood-develops-fever-and-shaking-chills-but-the-nurse-is-unsure-whether-the-symptoms-are-transfusion-related-what-is-the-safest-action)
 
 ### Q102. A newly inserted nasogastric tube is intended for feeding. Which action is essential before first use?
 
@@ -3660,7 +3660,7 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 
 ### Q108. A postoperative patient is due to ambulate, but reports unilateral calf pain and new swelling. Which plan is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Massage the calf and walk immediately
 - **B.** Apply strong heat and ignore symptoms
@@ -3685,7 +3685,7 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q8](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q8](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q8-a-postoperative-patient-is-due-to-ambulate-but-reports-unilateral-calf-pain-and-new-swelling-which-plan-is-safest)
 
 ### Q109. A patient has a temperature of 35°C after prolonged cold exposure and is becoming confused. Which approach is appropriate?
 
@@ -3853,7 +3853,7 @@ Latex allergy mein immune system natural rubber latex ke proteins par react kar 
 
 ### Q114. A patient receiving prescribed compression stockings reports toe numbness and the stockings have rolled into a tight band. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Roll them tighter to improve support
 - **B.** Ignore numbness if the stocking remains on
@@ -3878,7 +3878,7 @@ Latex allergy mein immune system natural rubber latex ke proteins par react kar 
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q8](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q8](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q8-a-patient-receiving-prescribed-compression-stockings-reports-toe-numbness-and-the-stockings-have-rolled-into-a-tight-band-what-should-the-nurse-do)
 
 ### Q115. When two trained rescuers are available, how often should the chest compressor generally change during adult CPR?
 
@@ -3917,7 +3917,7 @@ Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone pa
 
 ### Q116. Which step should occur before developing an individualized patient education plan?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide a test before explaining the topic in every case
 - **B.** Assume all patients learn identically
@@ -3942,7 +3942,7 @@ Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone pa
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q8](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q8](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q8-which-step-should-occur-before-developing-an-individualized-patient-education-plan)
 
 ### Q117. Which temperature pattern returns to normal at least once in a 24-hour period despite fever spikes?
 
