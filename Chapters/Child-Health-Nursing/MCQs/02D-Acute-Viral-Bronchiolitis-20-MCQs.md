@@ -160,23 +160,23 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: D. Assess the child and trend; brief isolated dips alone do not justify oxygen**
 
-- **A.** High-flow therapy single transient dip ke basis par first-line nahi hai. It requires appropriate indication and monitoring.
+- **A.** High-flow oxygen tab consider ki jaati hai jab bachche ko clinically uski zaroorat ho. Sirf neend mein ek chhota dip aane se ye pata nahi chalta ki usual oxygen support fail ho gaya hai.
 
-- **B.** A reassuring trend helpful hai but discharge decision mein intake, overall stability, risk factors aur family access bhi include hote hain.
+- **B.** Oxygen ki reading dobara normal hona achhi baat hai, lekin discharge se pehle nurse ko saans ki mehnat, feeding, age aur apnea ka risk bhi check karna hai. Sirf ek reading se discharge decide nahi karte.
 
-- **C.** Nebulized adrenaline bronchiolitis mein routine indicated treatment nahi hai. Is isolated dip ko treat karne ke liye use justified nahi hai.
+- **C.** Adrenaline blood vessels aur airway par effect karti hai, lekin typical bronchiolitis mein routine nebulized adrenaline se aise short dip ko treat nahi karte. Pehle reading aur bachche ki condition assess karo.
 
-- **D.** RCH ke according brief desaturations common ho sakti hain aur alone oxygen indication nahi hain. Persistent saturation below target, work of breathing, feeding aur overall condition assess karna important hai.
+- **D.** Kabhi-kabhi bronchiolitis mein oxygen saturation thodi der girkar khud normal ho sakti hai. RCH ke hisaab se akele brief dip ki wajah se oxygen shuru nahi karte. Nurse reading ki reliability, trend, saans lene ki mehnat, feeding aur apnea ka risk dekhti hai. Agar saturation lagatar target se neeche rahe ya bachcha deteriorate kare, toh urgent reassessment karo.
 
-**Exam clue:** Persistent hypoxemia is different from a brief dip.
+**Exam clue:** Ek brief dip aur lagatar hypoxemia ko alag samjho. Bachche ki age aur clinical condition bhi dekho.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
 </details>
 
-### Q7. Under the RCH bronchiolitis guideline, an infant without a separate individualized oxygen target has repeatedly sustained SpO2 readings below 90%. Which intervention should the nurse anticipate?
+### Q7. Under the RCH bronchiolitis guideline, an otherwise healthy 4-month-old infant without a separate individualized oxygen target has repeatedly sustained SpO2 readings below 90%. Which intervention should the nurse anticipate?
 
 **Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Acute viral bronchiolitis | **Type:** Original
 
@@ -189,17 +189,17 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: C. Prescribed supplemental oxygen with reassessment**
 
-- **A.** Visible cyanosis unreliable late sign ho sakti hai. Persistent measured hypoxemia ko ignore nahi karna chahiye.
+- **A.** Cyanosis ka matlab skin ya lips ka neela dikhna hai. Ye oxygen ki kami ka late ya unreliable sign ho sakta hai, isliye nurse ko cyanosis ka wait nahi karna chahiye jab reliable readings lagatar low hain.
 
-- **B.** Corticosteroids routine bronchiolitis therapy nahi hain and supplemental oxygen ka replacement nahi hain.
+- **B.** Corticosteroids inflammation par kaam karte hain, lekin typical bronchiolitis mein routine steroids recommended nahi hain. Ye blood mein oxygen ki kami ko correct karne ke liye oxygen support ka substitute bhi nahi hain.
 
-- **C.** RCH guideline persistent SpO2 below 90% par supplemental oxygen recommend karti hai in the usual bronchiolitis pathway. Nursing reassessment response and clinical deterioration identify karti hai. Local or individualized targets may differ.
+- **C.** Jab bachche ki oxygen saturation lagatar target se neeche rehti hai, toh blood mein oxygen ki kami ho sakti hai. RCH ke usual pathway mein persistent SpO2 90% se neeche ho toh prescribed oxygen di jaati hai. Nurse saturation, saans ki mehnat aur alertness dobara check karti hai. PREDICT 2025 mein otherwise healthy 6 weeks ya usse bade infants ke liye 90% threshold hai, lekin 6 weeks se chhote ya 12 months se chhote underlying disease wale infants ke liye 92% threshold diya gaya hai. Individual cardiopulmonary plan aur local protocol ko follow karo.
 
-- **D.** Chest physiotherapy routine bronchiolitis management mein recommended nahi hai. Hypoxemia ko appropriately address karna chahiye.
+- **D.** Chest physiotherapy ka goal kuch conditions mein secretions mobilize karna hota hai. Typical bronchiolitis mein ye routine treatment nahi hai aur persistent hypoxemia ko oxygen support ke bina correct karne ka reliable tareeka nahi hai.
 
-**Exam clue:** Named guideline threshold: persistent SpO2 below 90%.
+**Exam clue:** Is 4-month-old healthy infant mein named RCH threshold apply hota hai. Chhote ya high-risk infants mein doosre guidelines ke targets alag ho sakte hain.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
@@ -392,17 +392,17 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: B. Routine systemic corticosteroids**
 
-- **A.** Persistent hypoxemia mein oxygen appropriate supportive care hai. Target local protocol aur patient-specific conditions se guided hona chahiye.
+- **A.** Jab blood ki oxygen saturation lagatar prescribed target se neeche hoti hai, toh oxygen support ki zaroorat ho sakti hai. Isliye ye prescription hypoxemia wale bachche mein appropriate supportive care ho sakti hai.
 
-- **B.** Routine systemic steroids typical bronchiolitis mein clinically useful benefit demonstrate nahi karte and guideline mein recommended nahi hain. Separate indication ho to clinician may prescribe them.
+- **B.** Steroids airway inflammation par effect karte hain, lekin routine uncomplicated bronchiolitis mein inka meaningful benefit establish nahi hua hai. Isliye routine systemic steroid order ko clarify karo. PREDICT 2025 mein severe ICU-level disease ke liye steroid aur adrenaline combination ya selected SARS-CoV-2 coinfection mein specialist-directed steroid ki alag considerations hain. In exceptions ko typical uncomplicated illness par apply mat karo.
 
-- **C.** Inadequate oral intake dehydration cause kar sakta hai. Safe enteral or IV hydration appropriate ho sakti hai.
+- **C.** Jab infant saans lene mein zyada mehnat karta hai, toh doodh peena mushkil ho sakta hai. Agar intake adequate nahi hai, toh clinician safe enteral ya IV fluid support prescribe kar sakta hai.
 
-- **D.** Superficial suction selected cases mein obstructing secretions aur feeding difficulty improve kar sakti hai. Deep routine suction different intervention hai.
+- **D.** Agar naak mein jama secretion feeding ko disturb kar rahi hai, toh selected cases mein gentle superficial suction se madad mil sakti hai. Iska matlab ye nahi hai ki har infant ko routine deep suction dena chahiye.
 
-**Exam clue:** Steroids are not routine treatment for typical bronchiolitis.
+**Exam clue:** Typical uncomplicated bronchiolitis mein routine steroid nahi diya jata. Specialist ICU exceptions ko alag samjho.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
@@ -505,17 +505,17 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: A. Infant B needs continued hydration assessment and support before safe discharge**
 
-- **A.** Bronchiolitis discharge mein breathing ke saath hydration important hai. Poor intake aur reduced urine output dehydration suggest karte hain, so B ko further assessment/support chahiye.
+- **A.** Infant B kam doodh pee raha hai aur urine output bhi kam hai. Iska matlab dehydration ka risk ho sakta hai, chahe oxygenation improve ho gayi ho. Nurse ko intake, wet nappies, perfusion aur respiratory stability assess karke prescribed support continue karna hai. Discharge ke liye age aur risk ke mutabik oxygen stability ka observation, caregiver education aur follow-up access bhi zaroori hain.
 
-- **B.** Stable oxygenation one criterion hai, but adequate feeding and overall clinical stability bhi necessary hain.
+- **B.** Normal oxygenation ek achha sign hai, lekin isse fluid balance automatically normal prove nahi hota. Dono infants ko unki feeding aur baaki clinical findings ke hisaab se separately assess karo.
 
-- **C.** Adequate intake aur stable status mein routine IV fluid needed nahi hota. Individual assessment decide karega.
+- **C.** Infant A adequate feeds le raha hai aur clinically stable hai. Sirf bronchiolitis diagnosis hone se har infant ko IV fluid dena zaroori nahi hota.
 
-- **D.** Urine output hydration and perfusion assessment mein useful hai. Reduced output in poorly feeding infant clinically relevant hai.
+- **D.** Urine output se nurse ko hydration aur kidney perfusion ke baare mein useful information milti hai. Jab intake kam ho aur wet nappies bhi kam hon, toh is finding ko ignore karna unsafe hai.
 
-**Exam clue:** Safe discharge requires adequate intake as well as respiratory stability.
+**Exam clue:** Discharge sirf saturation par decide nahi hota. Breathing, hydration, age-specific observation aur ghar par safe follow-up bhi check karo.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
@@ -534,17 +534,17 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: C. The individualized cardiopulmonary plan agreed by the treating team**
 
-- **A.** Routine bronchiolitis threshold otherwise healthy infants ke liye useful hai, but it cannot override a known individualized cardiac target.
+- **A.** RCH ka usual saturation threshold otherwise healthy infants ke liye useful hai. Cyanotic heart disease mein bachche ka baseline alag ho sakta hai, isliye general target ko documented specialist plan par impose nahi karte.
 
-- **B.** 100% saturation universal realistic or appropriate target nahi hai. Excess oxygen or altered physiology may be relevant in some cardiac conditions.
+- **B.** Har patient ka target 100% nahi hota. Kuch congenital heart conditions mein blood circulation aur oxygenation ka balance alag hota hai, isliye treating team target individualize karti hai.
 
-- **C.** Cyanotic congenital heart disease mein baseline physiology aur oxygen goals usual infants se differ kar sakte hain. Individualized specialist plan use karna appropriate hai; new deterioration still requires assessment.
+- **C.** Cyanotic congenital heart disease mein heart ki structure ya blood flow ki wajah se baseline oxygen saturation usual infant se kam ho sakti hai. Nurse documented cardiology aur respiratory plan ka target follow karti hai. PREDICT 2025 high-risk infants ke liye higher general threshold batati hai, lekin ye individual cardiac plan ko replace nahi karta. Nayi deterioration ho toh promptly reassess aur escalate karo.
 
-- **D.** Different baseline monitoring ko unnecessary nahi banata. Trends and clinical status guide safe escalation.
+- **D.** Baseline alag hone ka matlab monitoring band karna nahi hota. Nurse trend, breathing effort, alertness aur perfusion assess karti hai taaki bachche ki usual condition se naya change identify ho sake.
 
-**Exam clue:** Individualized targets override generic thresholds when clinically indicated.
+**Exam clue:** Documented individual cardiac oxygen target ko generic bronchiolitis threshold se replace mat karo.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
@@ -563,17 +563,17 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Correct: D. New breathing pauses or inability to maintain feeds with markedly fewer wet nappies**
 
-- **A.** Residual cough recovery mein persist ho sakti hai. Comfortable breathing and adequate intake are more reassuring than new apnea or dehydration.
+- **A.** Recovery ke dauran cough kuch time tak reh sakti hai. Agar bachcha comfortably breathe kar raha hai aur normal feed le raha hai, toh mild residual cough akeli nayi emergency ka sign nahi hoti. Worsening symptoms ko alag assess karo.
 
-- **B.** Normal sleep followed by usual alertness alone generally urgent red flag nahi hai. Unusual drowsiness or difficulty waking would be different.
+- **B.** Normal nap ke baad bachcha usual tarah se jagta aur active hota hai, toh ye reassuring finding ho sakti hai. Agar usko jagana mushkil ho ya woh unusual drowsy lage, toh urgent assessment ki zaroorat ho sakti hai.
 
-- **C.** Improving congestion recovery support karti hai. New worsening signs ko separately monitor karna chahiye.
+- **C.** Nasal congestion dheere-dheere kam hona recovery ka sign ho sakta hai. Lekin agar breathing difficulty ya feeding problem badhe, toh caregiver ko reassessment karwana chahiye.
 
-- **D.** Apnea aur inability to maintain hydration important warning signs hain. Caregiver ko urgent reassessment seek karna chahiye, particularly when urine output decreases significantly.
+- **D.** Nayi breathing pauses apnea ka warning sign hain aur emergency assessment ki zaroorat hoti hai. Agar infant feeds maintain nahi kar pa raha aur wet nappies bahut kam ho gayi hain, toh dehydration ke liye urgent clinical review chahiye. Caregiver ko dono signs ek saath hone ka wait nahi karna chahiye.
 
-**Exam clue:** Return precautions include apnea, worsening breathing and dehydration.
+**Exam clue:** Nayi apnea emergency sign hai. Poor intake aur markedly reduced urine output bhi urgent reassessment maangte hain.
 
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
+**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/). [PREDICT Australasian bronchiolitis guideline 2025](https://predict.org.au/bronchiolitis-guideline/).
 
 **MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
 
