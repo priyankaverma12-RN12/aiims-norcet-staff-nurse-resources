@@ -85,7 +85,7 @@ function readerCompletion(p){
  panel.hidden=false;
  const summary=node('div',undefined,'reader-progress-summary'),text=node('strong'),bar=completionMeter(0,'Topic progress'),control=completionControl(r);
  summary.append(text,bar);panel.replaceChildren(summary,control);
- function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Completed':'Study completion';bar.hidden=!x.slots;bar.value=completionPercent(x.covered,x.slots);control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
+ function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Theory topic completed':'Mark this topic done after studying';bar.hidden=false;bar.value=x.slots?completionPercent(x.covered,x.slots):x.done?100:0;control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
  refresh();document.addEventListener('study-progress-change',refresh);
 }
 
@@ -223,10 +223,10 @@ async function showProgress(){
    card.open=!!chapter.value||!!search||opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
   if(!visible)list.append(node('p','No matching study resources.','empty-state'));
-  message.textContent=visible+' study items · Progress shows what you have studied, not your test score.';if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
+  message.textContent=visible+' study items · Progress shows what you have studied, not your test score.';$('clear-progress').hidden=!chapter.value&&!selected&&!show&&!search;if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
  }
  chapter.onchange=()=>{opened.clear();if(chapter.value)opened.add(chapter.value);const u=new URL(location.href);if(chapter.value)u.searchParams.set('chapter',chapter.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};
- kind.onchange=draw;query.oninput=draw;filter.onchange=draw;
+ kind.onchange=draw;query.oninput=draw;filter.onchange=draw;$('clear-progress').onclick=()=>{chapter.value='';kind.value='';filter.value='';query.value='';chapter.onchange();query.focus()};
  $('reset-progress').onclick=()=>resetCompletionScope(scope(),chapter.value?'this chapter':'all tracked chapters');
  document.addEventListener('study-progress-change',draw);draw();
 }
