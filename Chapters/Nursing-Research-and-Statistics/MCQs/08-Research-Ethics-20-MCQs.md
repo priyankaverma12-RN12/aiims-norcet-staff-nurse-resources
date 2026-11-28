@@ -67,15 +67,19 @@
 
 **Correct: C. Explain the information orally in a language understood and document consent with an impartial witness as required**
 
-**C.** Literacy aur decisional capacity same nahi hain. Oral explanation, questions, understanding check aur applicable witness documentation participant autonomy protect karte hain.
+**C.** ICMR ke hisaab se jab participant padh nahi sakta, tab researcher ko information samjhani chahiye aur poore consent process mein ek impartial literate witness present hona chahiye. Yeh witness participant ka relative nahi hona chahiye aur research team se connected nahi hona chahiye. Agar participant sign nahi kar sakta, toh applicable documentation process mein thumb impression liya jata hai. Sirf oral consent ko routine substitute mat samjho. Uske liye exceptional justification aur ethics committee approval chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Reading difficulty automatically decision-making incapacity nahi hai. Information accessible format mein deni chahiye.
-- **B.** Capable adult ka decision relative ke decision se replace nahi karna chahiye. Relative support de sakta hai but participant consent central hai.
-- **D.** Thumb impression alone informed choice demonstrate nahi karti. Meaningful explanation aur proper documentation needed hain.
+- **A.** Agar koi person padh nahi sakta, iska matlab yeh nahi ki woh research ke baare mein decision nahi le sakta. Researcher ko information aisi language aur tareeke se samjhani chahiye jise participant samajh sake.
+- **B.** Family member participant ko information samajhne mein support kar sakta hai. Lekin jab adult khud informed decision le sakta hai, tab family member uski permission ko replace nahi kar sakta.
+- **D.** Thumb impression consent ko document karne mein madad karta hai, lekin pehle participant ko study samajhni aur apni marzi se agree karna zaroori hai. Bina explanation ke impression lene se informed consent complete nahi hota.
 
-**YouTube MCQ practice:** verification pending.
+**Exam clue:** Exam mein yaad rakho ki inability to read aur inability to decide do alag baatein hain.
+
+**Source:** [ICMR 2017, sections 5.3.2, 5.3.6–5.3.8 and 5.4.3–5.4.5, printed pages 50–51](https://nirwoh.icmr.gov.in/wp-content/uploads/2023/10/ICMR_National_Ethical_Guidelines-2017_s_compressed_compressed.pdf). Text reviewed 28 November 2026.
+
+**YouTube MCQ practice:** [Nurses Academy — Ethics in Nursing Research MCQs](https://www.youtube.com/watch?v=LSZUamY9WgY). Publisher description identifies informed consent. Topic-level lead only, exact question, timestamp and playback verification pending. This is not Indian regulatory guidance.
 
 </details>
 
@@ -167,13 +171,17 @@
 
 **Correct: D. Respect the child's dissent and do not enroll**
 
-**D.** Age-appropriate assent child ki developing autonomy recognize karta hai. Nonessential research mein clear dissent ko ordinarily respect karo.
+**D.** Assent ka matlab hai ki bachcha apni age aur understanding ke hisaab se research mein participate karne ke liye agree kare. ICMR ke child-research guidance mein meaningful dissent respect karna chahiye. Narrow lifesaving exception tab consider ho sakti hai jab intervention sirf study mein available ho aur prior ethics approval aur parental permission ho. Is question mein aisa benefit nahi hai, isliye child ko enroll nahi karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Parental permission important hai but child's meaningful objection ethically relevant hai. Nonessential study mein force appropriate nahi hai.
-- **B.** Teacher general authority research guardian permission ka substitute nahi hoti. Applicable ethics requirements follow karo.
-- **C.** Research ko routine treatment batana misleading hai. Assent aur permission accurate information par based hone chahiye.
+- **A.** Parents ki permission important hai, lekin is nonessential research mein bachche ki samajh ke saath di hui refusal ko bhi respect karna chahiye. Parental consent har situation mein child dissent ko override nahi karta.
+- **B.** Teacher school-level permission ya support de sakta hai. Lekin teacher ka role parent ya legally authorized representative ki permission ke barabar nahi hota, jab tak applicable legal arrangement aisa na ho.
+- **C.** Agar investigator research ko routine treatment batata hai, toh bachche ko sachchi information nahi milti. Isliye age-appropriate explanation deni chahiye aur pressure ya deception se bachna chahiye.
+
+**Exam clue:** Silence ko assent mat samjho. Nonessential research mein explicit dissent ko respect karo.
+
+**Source:** [ICMR 2017, section 6.5 and boxes 6.5–6.6, printed pages 61–63](https://nirwoh.icmr.gov.in/wp-content/uploads/2023/10/ICMR_National_Ethical_Guidelines-2017_s_compressed_compressed.pdf). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -467,13 +475,17 @@
 
 **Correct: A. Arrangements for appropriate medical management and compensation for research-related injury where required**
 
-**A.** Research-related harm ke management and compensation arrangements prospective hone chahiye. Specific legal and ethics requirements study category ke according verify karo.
+**A.** Participant ko pehle batana chahiye ki research se injury hone par treatment kaise milega aur applicable compensation ka kya arrangement hai. ICMR section 5.3.12 free treatment for research-related injury aur zaroorat ke hisaab se additional compensation ka provision batata hai. Specific regulatory rules study category par depend karte hain, isliye approved protocol aur applicable requirements dono check karo.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Participant protections ko blanket waiver se remove nahi karna chahiye. Applicable compensation and care obligations remain relevant.
-- **C.** Research risk completely eliminate karna possible nahi ho sakta. Realistic disclosure and protection plan needed hai.
-- **D.** Care and injury-related protections outcome favorability par depend nahi karni chahiye. Fair safety management essential hai.
+- **B.** Consent form ka purpose participant ke rights samjhana hai, unhe blanket waiver se hatana nahi hai. Applicable medical management aur compensation duties ko waiver se avoid nahi karna chahiye.
+- **C.** Researcher risk ko kam kar sakta hai, lekin har possible injury ko eliminate karne ki guarantee nahi de sakta. Isliye realistic risks explain karna aur injury response plan banana zaroori hai.
+- **D.** Agar participant research-related injury experience karta hai, toh appropriate care ka decision favorable outcome par depend nahi karna chahiye. Safety aur applicable protections sab eligible participants ke liye consistent honi chahiye.
+
+**Exam clue:** Research-related injury ka treatment aur applicable compensation study shuru hone se pehle plan karo.
+
+**Source:** [ICMR 2017, section 5.3.12, printed page 51](https://nirwoh.icmr.gov.in/wp-content/uploads/2023/10/ICMR_National_Ethical_Guidelines-2017_s_compressed_compressed.pdf). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
