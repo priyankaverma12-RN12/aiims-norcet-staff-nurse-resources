@@ -191,7 +191,7 @@
 
 **Correct answer: A. Single-dose prophylaxis linked to the identified trigger**
 
-**A. Kyun sahi hai:** NICE ke stepwise approach mein suitable patient ke liye identified trigger ke saath single-dose prophylaxis consider ki ja sakti hai. Isse daily exposure ki zaroorat kam ho sakti hai.
+**A. Kyun sahi hai:** NICE ke stepwise approach mein jab current UTI adequately treat ho chuki ho aur initial measures kaafi na hon, toh suitable patient ke liye identified trigger ke saath single-dose prophylaxis consider ki ja sakti hai. Agar trigger roz nahi hota, toh daily regimen ke comparison mein total antibiotic doses kam ho sakti hain. Clinician ko previous cultures, risk aur trigger frequency dekh kar plan banana chahiye.
 
 **B. Kyun galat hai:** Daily prophylaxis effective ho sakti hai, lekin clear trigger ke context mein targeted single dose se total exposure kam ho sakta hai. Question specifically exposure reduction pooch raha hai.
 
@@ -452,13 +452,13 @@
 
 **Correct answer: C. Cranberry can replace indicated antibacterial treatment for a new symptomatic infection**
 
-**A. Kyun galat hai:** Prevention ka benefit individual patient mein guaranteed nahi hai.
+**A. Kyun galat hai:** Ye statement sahi expectation hai, isliye ise correct karne ki zaroorat nahi hai. Cranberry se kuch patients mein recurrence kam ho sakti hai, lekin har patient ko benefit milega aisa evidence nahi hai.
 
-**B. Kyun galat hai:** Juice aur capsules mein active constituents aur formulation vary kar sakte hain.
+**B. Kyun galat hai:** Ye statement sahi hai, isliye nurse ko ise correct nahi karna chahiye. Juice aur capsules mein active constituents aur formulation alag ho sakte hain. Sirf cranberry naam dekh kar dono products ko equally effective nahi maan sakte.
 
 **C. Kyun sahi hai:** Cranberry selected patients mein future recurrence kam karne ka preventive option ho sakta hai. Lekin jab symptomatic bacterial infection develop ho jaaye, toh clinical assessment aur indicated antibacterial treatment ki zaroorat ho sakti hai. Prevention aur active infection treatment ko ek hi decision mat samjho.
 
-**D. Kyun galat hai:** Naye symptoms ka assessment zaroori hai, kyunki prevention ke bawajood infection ho sakti hai.
+**D. Kyun galat hai:** Ye statement sahi hai, isliye ye question ka answer nahi hai. Prevention ke bawajood symptomatic infection ho sakti hai. Naye symptoms par agreed clinical plan follow karo aur fever ya flank pain ho toh prompt assessment arrange karo.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -628,7 +628,7 @@
 
 **A. Kyun galat hai:** Renal function suitability ke liye relevant hai, lekin pulmonary aur hepatic toxicity infection control ke bawajood ho sakti hai. Long-term monitoring mein dono systems ka assessment bhi chahiye.
 
-**B. Kyun sahi hai:** Long-term nitrofurantoin se rare pulmonary aur hepatic toxicity ho sakti hai. Renal function bhi suitability ko affect karta hai, isliye local monitoring plan follow karna chahiye.
+**B. Kyun sahi hai:** Long-term nitrofurantoin se lung aur liver reactions ho sakte hain, jo kabhi serious bhi ho sakte hain. Renal function bhi drug suitability ko affect karta hai, isliye local monitoring plan follow karna chahiye. Nayi persistent cough, breathlessness, jaundice ya dark urine aaye toh prompt medical assessment arrange karo. Suspected pulmonary reaction mein medicine turant discontinue karne ke liye clinical protocol follow karo aur routine follow-up ka wait mat karo.
 
 **C. Kyun galat hai:** Blood counts aur vision kuch other medicines mein useful ho sakte hain. Nitrofurantoin ke long-term safety concerns mein lung aur liver reactions specifically important hain.
 
