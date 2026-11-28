@@ -37,6 +37,8 @@ try:
         expect(page.locator(".study-day-date")).to_have_count(7)
         expect(page.locator("#welcome-date")).to_have_text(__import__("re").compile(r"\d{4}"))
         expect(page.locator("#welcome-greeting")).to_contain_text("Ready to learn?")
+        assert page.locator("#welcome-date").evaluate("e=>e.dateTime===localDay()")
+        assert page.locator(".study-day-date").last.evaluate("e=>e.textContent===new Date(localDay()+'T12:00:00').toLocaleDateString('en-IN',{day:'numeric',month:'short'})")
         expect(page.locator(".topbar .github-link")).to_have_count(0)
         assert page.evaluate("()=>DOMPurify.version==='3.4.17'")
         assert page.evaluate("""()=>{const holder=document.createElement('div');holder.innerHTML=DOMPurify.sanitize('<details><summary>Answer</summary><p>Safe text</p></details><script>unsafe</script><img src=x onerror=unsafe>',{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return !!holder.querySelector('details summary')&&!holder.querySelector('script,[onerror]')}""")
@@ -66,6 +68,15 @@ try:
         assert page.locator("html").get_attribute("data-theme") in ("dark", "light")
         hrefs = cards.evaluate_all("(items) => items.map(a => a.href)")
         assert len(set(hrefs)) == count
+        inventory_at_start=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
+        chapter_ids=cards.evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc').split('/')[1])")
+        assert set(chapter_ids)=={c["id"] for c in inventory_at_start["chapters"]}
+        assert len(chapter_ids)==len(set(chapter_ids))
+        if "Nervous-System" in chapter_ids and "Neurological-System" in chapter_ids:
+            expect(page.locator('.chapter[href*="Nervous-System%2FREADME.md"]')).to_contain_text("legacy")
+            expect(page.locator('.chapter[href*="Neurological-System%2FREADME.md"]')).to_have_count(1)
+        assert page.evaluate("()=>completeLibrary('',{chapters:[{id:'Future-Chapter',name:'Future Chapter'}]}).map(c=>c.id).join(',')")=="Future-Chapter"
+        print(f"V11.5 all {count} inventory chapters reachable with original identities.",flush=True)
         catalog_at_start=json.loads((site/"site-catalog.json").read_text(encoding="utf-8"))
         from urllib.parse import parse_qs, urlsplit
         shortcuts=page.locator(".chapter-links a").evaluate_all("(links) => links.map(a => a.href)")

@@ -304,3 +304,8 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
  @media(hover:hover) and (pointer:fine){.recent-card:hover,.daily-action:hover,.metric-record:hover{transform:translateY(-2px)}}
 }
 @media(prefers-reduced-motion:reduce){.hero-copy,.recent-card,.daily-action,.history-period,.metric-record,.completion-resource,.cta{animation:none!important;transition:none!important;transform:none!important}}
+
+/* V11.5 — distinguish preserved legacy chapter without changing its routes. */
+.chapter-legacy-note{display:block;font-size:.74rem;line-height:1.35;color:var(--muted);margin:.25rem 0;overflow-wrap:anywhere}
+.chapter-card .chapter>div{min-width:0;overflow-wrap:anywhere}
+.chapter-card .chapter-links a{min-width:0;max-width:100%;overflow-wrap:anywhere}
