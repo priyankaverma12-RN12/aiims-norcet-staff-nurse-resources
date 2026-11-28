@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-10c-transfer-20261128T1641Z
-Scope: Isolated PR35 transfer of prepared 10C candidate, concept, SVG and review. No shared navigation or other workstream changes.
-Claimed UTC: 2026-11-28T16:41:00Z
-Expiry UTC: 2026-11-28T17:11:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 10C diarrhoea dietary care
+
+Candidate head: b65a6f0a1a2aca63f7355b24ee0748b019d797f3
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-10c-transfer-20261128T1641Z
+
+Transferred prepared 10C bank, 20 originals (7 Easy/7 Medium/6 Difficult), 80 individual Roman Hinglish rationales, 20 exam clues and evidence rows, 20 aligned correct keys with five per option letter. Bank c1f2f01dc1c41d4c3d3ddaaedbe523621eb1d0f8 blob 2e6996172c7fbe372b3952b4aa392f955cc06a95. Guide 8593c6844f85b36106957b544805e82c79e0a2bc; SVG 52057043f5bcd2b1ed054e83694a7dcc5c3fc2c8 identical to locally rendered Git blob ea1da2f44c5e5ae286ecdcf6b1a689dbcfb2a881. All intended content readbacks passed. Bank and guide transfer status, punctuation and source notes updated. Zero normalized exact matches against 260 relevant prior Nutrition/GI/Child Health/Communicable stems. Four Nutrition-local additions only, all existing content preserved. Review and PR description verified.
+
+Staged inventory: 940 original MCQs, 3760 individual rationales, 47 banks, 30 guides, 30 SVGs; four legacy originals and one adaptation separately preserved. Guide-head CI 46166817744 passed. No final review-head workflow returned when checked. Independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic, full INC depth, AMB 2026 retrieval, flagged corrective clusters, specific item videos and PR7/8 release remain outstanding. No production merge, live/mock/PYQ credit, other workstream, website, learner history or automation changes.
+
+Next: screen genuine residual INC gaps and difficulty deficits under current approved content-first rules. Prioritize distinct new questions and necessary targeted corrections. Do not regenerate 10C or other completed banks. Complete mandatory independent and integration gates before publication. Certify topic coverage before original-exclusive mocks and authenticated topic-mapped PYQs.
 
 ## Latest released checkpoint — 10B adult underweight and oral nutrition rehabilitation
 
