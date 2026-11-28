@@ -129,32 +129,33 @@ Adolescence mein puberty aur physical, emotional aur social development ke impor
 
 </details>
 
-### Q6. Which preventive and promotive platform invites adolescents, families and other stakeholders to participate in periodic health activities under RKSK?
+### Q6. In the RKSK Strategy Handbook's programme-planning framework, which age band is classified as early adolescence?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** RKSK adolescent health services | **Type:** Original practice
 
-- **A.** Routine cataract operation list
-- **B.** District blood storage audit
-- **C.** Adolescent Health Day
-- **D.** Malaria insecticide procurement meeting
+- **A.** 15–19 years
+- **B.** 5–9 years
+- **C.** 10–14 years
+- **D.** 20–24 years
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Adolescent Health Day**
+**Correct: C. 10–14 years**
 
-Adolescent Health Day adolescents aur families ke liye health awareness aur preventive services ka platform hai.
+RKSK Strategy Handbook programme planning ke liye early adolescent subgroup 10 se 14 years define karta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Cataract operation list eye surgery schedule hai.
-- **B.** Blood storage audit transfusion safety process hai.
-- **D.** Malaria procurement meeting vector programme supplies se related hai.
+- **A.** 15 se 19 years handbook ka late adolescent subgroup hai.
+- **B.** 5 se 9 years is framework ki adolescent age range se below hai.
+- **D.** 20 se 24 years RKSK ke defined 10–19-year target se outside hai.
 
-**Exam clue:** Distinguish outreach health promotion from specialist service activities.
+**Exam clue:** Use the programme's two age subgroups, not an unrelated developmental classification.
 
 </details>
 
 ## Study sources
+- https://nhm.gov.in/images/pdf/programmes/rksk-strategy-handbook.pdf
 - https://nhm.gov.in/index4.php?lang=1&level=0&lid=173&linkid=152
 - https://nhm.gov.in/images/pdf/programmes/wifs/guidelines/index1.php?lang=1&level=3&lid=493&sublinkid=1249
 - https://nhm.gov.in/images/pdf/programmes/wifs/guidelines/index1.php?lang=1&level=2&lid=221&sublinkid=818
