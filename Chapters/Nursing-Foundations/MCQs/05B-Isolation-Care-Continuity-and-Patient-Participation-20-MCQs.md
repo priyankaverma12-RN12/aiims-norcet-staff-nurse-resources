@@ -283,6 +283,8 @@ D. End isolation without clinical review
 
 [Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
 
+[CDC — MDRO guidance, impact of Contact Precautions on patient well-being](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Is section mein limited studies ke basis par anxiety aur depression jaise possible effects discuss kiye gaye hain. Har isolated patient ko depression hai, aisa assume nahi karna chahiye.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -588,6 +590,8 @@ D. Measure only the number of gowns used
 
 [Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
 
+[CDC — MDRO guidance, impact of Contact Precautions on patient care](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Review mein kuch settings mein kam clinical contact aur preventable adverse events report hue the. Isliye ward ke actual care delays ko measure aur address karna important hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -620,6 +624,8 @@ D. The absence of any visitor regardless of patient preference
 [CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
 
 [Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
+
+[CDC — MDRO guidance, impact of Contact Precautions on patient care and well-being](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Infection prevention ke saath possible care-related harm ko bhi rokna zaroori hai. Ye evidence universal risk estimate nahi deta.
 
 **YouTube MCQ practice: verification pending.**
 
