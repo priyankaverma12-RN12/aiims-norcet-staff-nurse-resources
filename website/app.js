@@ -101,7 +101,7 @@ function mountMobileReader(){
 // Collapse only the original pre-question material, retaining its exact nodes and anchors.
 function compactMobileBank(content,p){
  if(!/\/(MCQs|Mock-Tests)\//.test(p)||!document.querySelector('.quiz-panel[data-scoreable=true]'))return;
- const first=[...content.children].find(e=>/^H[2-6]$/.test(e.tagName)&&/^Q(?:uestion)?\s*\d+\s*[.):—-]/i.test(e.textContent.trim()));
+ const first=[...content.children].find(e=>/^H[2-6]$/.test(e.tagName)&&/^(?:Q(?:uestion)?\s*)?\d+[.):]\s+/i.test(e.textContent.trim()));
  if(!first)return;
  const prefix=[...content.children].slice(0,[...content.children].indexOf(first));if(!prefix.length)return;
  const mobile=matchMedia('(max-width:600px)'),details=node('details',undefined,'mobile-bank-context');details.append(node('summary','Source notes, videos and topic context'));
