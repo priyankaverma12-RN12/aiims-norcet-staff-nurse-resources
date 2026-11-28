@@ -1,10 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-0435
+Scope: Hematology and Blood Disorders only, new blood-components topic MCQs, concept, original SVG, evidence, own claim and chapter-local inventory only. No shared README, map, mock plan, website, PR edits or other jobs. PR8 older imported snapshots coordination requested.
+Claimed UTC: 2026-11-28T04:35:00Z
+Expiry UTC: 2026-11-28T05:05:00Z
 
 Last owner: coverage-gap-hematology-20261128-041517
 Last scope: Hematology and Blood Disorders only. Released after verified Run 5 writes and inventory.
