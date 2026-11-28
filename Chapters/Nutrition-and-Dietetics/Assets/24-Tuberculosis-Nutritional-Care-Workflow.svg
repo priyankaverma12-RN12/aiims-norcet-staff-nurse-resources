@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="570" viewBox="0 0 900 570" role="img" aria-labelledby="title desc">
+<title id="title">Nutritional care in tuberculosis</title><desc id="desc">Assess nutrition at diagnosis and during treatment, individualize care, address undernutrition and food insecurity, coordinate support and monitor recovery.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#334155"/></marker></defs>
+<rect width="900" height="570" rx="16" fill="#f8fafc"/>
+<g text-anchor="middle" font-family="Arial,sans-serif" fill="#0f172a">
+<text x="450" y="36" font-size="25" font-weight="bold">Nutrition within comprehensive TB care</text>
+<rect x="60" y="56" width="780" height="65" rx="10" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="450" y="81" font-size="19" font-weight="bold">1. Assess nutrition and food access</text><text x="450" y="104" font-size="15">At diagnosis and throughout treatment — weight trend, intake, barriers, clinical needs</text>
+<path d="M450 121 V143" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="60" y="148" width="780" height="65" rx="10" fill="#e0f2fe" stroke="#0369a1"/>
+<text x="450" y="173" font-size="19" font-weight="bold">2. Match nutrition intervention to assessed needs</text><text x="450" y="196" font-size="15">Address mild, moderate or severe undernutrition with appropriate clinical oversight</text>
+<path d="M450 213 V235" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="60" y="240" width="780" height="80" rx="10" fill="#dcfce7" stroke="#15803d"/>
+<text x="450" y="266" font-size="19" font-weight="bold">3. Coordinate patient and household assistance</text><text x="450" y="290" font-size="15">Food-insecure households: food baskets plus multiple micronutrients</text><text x="450" y="309" font-size="15">India: applicable NPY, EDNS and consent-based support linkages</text>
+<path d="M450 320 V342" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="60" y="347" width="780" height="65" rx="10" fill="#fff7ed" stroke="#c2410c"/>
+<text x="450" y="372" font-size="19" font-weight="bold">4. Preserve clinical treatment and safety</text><text x="450" y="395" font-size="15">Nutrition complements TB medicines; review comorbidities and supplement indications</text>
+<path d="M450 412 V434" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="60" y="439" width="780" height="65" rx="10" fill="#ede9fe" stroke="#6d28d9"/>
+<text x="450" y="464" font-size="19" font-weight="bold">5. Monitor and revise</text><text x="450" y="487" font-size="15">Actual intake, weight recovery, treatment outcomes and barriers to access</text>
+<path d="M840 470 H864 V89 H846" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="450" y="545" font-size="13" fill="#475569">Source-dated study schematic: WHO 2025 Module 6 and Indian March 2026 campaign.</text></g></svg>
