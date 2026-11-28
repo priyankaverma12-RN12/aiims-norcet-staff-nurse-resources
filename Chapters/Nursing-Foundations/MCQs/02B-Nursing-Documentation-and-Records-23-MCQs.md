@@ -20,17 +20,16 @@
 
 **Correct answer: D. Enter a clearly identified late entry with actual event time and current entry time according to policy**
 
-<!-- job5-rationale -->
-Late entry ka matlab aisi clinical information ko baad mein record karna hai jo event ke time document nahi ho payi. Actual event ka date/time aur entry banane ka current date/time alag identify karo. Isse next nurse ko correct sequence samajh aata hai. Apni identity se authenticate karo, facts hi likho aur facility ke late-entry procedure ko follow karo. Urgent patient care ko charting ke liye delay nahi karna chahiye.
+Maan lo nurse ne dopahar mein patient ki care ki, lekin shift ke end mein yaad aaya ki us event ki entry nahi hui. Late entry ka matlab hai ki nurse us clinical event ko baad mein honestly record karti hai. Woh actual event ka date aur time alag likhti hai aur entry ab kis time par kar rahi hai, ye bhi clear karti hai. Isse next nurse ko events ka correct sequence samajh aata hai. Nurse apni identity se entry authenticate karti hai aur facility ka late-entry procedure follow karti hai. Jo facts yaad ya verify nahi hain, unhe invent nahi karna chahiye. Urgent care ko documentation ke liye delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A backdating se lagta hai ki note pehle likha gaya tha, jo misleading hai.
-- **B:** B doosre nurse ko apna unobserved action authenticate karne ko kehta hai.
-- **C:** C clinically relevant event omit kar deta hai.
-- **D:** D dono timestamps aur actual authorship transparent rakhta hai.
+- **A:** Backdating se record aisa dikh sakta hai jaise entry event ke samay hi ki gayi thi. Jab aisa nahi hua hai, toh ye misleading documentation hogi.
+- **B:** Next nurse us event ko apna action batakar sign nahi kar sakti jo usne khud perform ya observe nahi kiya. Actual author ki accountability preserve karni chahiye.
+- **C:** Shift khatam hone se clinically relevant event record karne ki zaroorat khatam nahi hoti. Event omit karne se continuity of care affect ho sakti hai.
+- **D:** Clearly identified late entry mein actual event time aur current entry time dono transparent rehte hain. Isliye D sahi hai.
 
-**Exam clue:** Late entry ≠ backdating.
+**Exam clue:** Late entry mein event ka asli time aur entry ka current time alag bataya jaata hai. Backdating mein entry ka actual time chhupaya jaata hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -58,17 +57,16 @@ Late entry ka matlab aisi clinical information ko baad mein record karna hai jo 
 
 **Correct answer: C. Correct transparently so the original entry remains legible and correction is attributable**
 
-<!-- job5-rationale -->
-Paper record mein correction ka goal wrong information ko correct karna aur original chronology preserve karna hai. Common method ek single line se error mark karna, correct information likhna aur policy ke according date/time aur initials add karna hai. Original text readable rehna chahiye. EHR ke liye approved correction function use hota hai.
+Handwritten clinical record mein galti ho jaaye toh nurse ko correct information likhni chahiye, lekin original entry chhupaani nahi chahiye. Aam taur par facility policy ke according galat entry par ek line lagayi jaati hai, jisse original words ab bhi padhe ja sakein. Nurse correct information likhti hai aur required date, time aur initials ya signature add karti hai. Isse pata chalta hai ki correction kya tha aur kisne kiya. Electronic record mein approved correction function use hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** A overwriting se original aur corrected values ambiguous ho jaati hain.
-- **B:** B page remove karna record continuity aur traceability compromise karta hai.
-- **C:** C original readable aur correction attributable rakhta hai.
-- **D:** D erasing se correction ka history disappear ho sakta hai.
+- **A:** Galat value par seedha correct value likhne se dono values padhna mushkil ho sakta hai. Isse original entry aur correction ka meaning unclear ho jaata hai.
+- **B:** Poora page hata kar naya page lagane se record ki chronology aur traceability kharab ho sakti hai. Correction ka history preserve karna zaroori hai.
+- **C:** Original entry readable rakhne aur correction kisne ki, ye clear karne se record transparent rehta hai. Isliye C sahi hai.
+- **D:** Original entry erase karne se error aur correction ki history gayab ho sakti hai. Isliye approved visible correction method use karna chahiye.
 
-**Exam clue:** Correct visibly, never conceal original.
+**Exam clue:** Record ki galti correct karo, lekin original entry aur correction ki identity ko traceable rakho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -96,17 +94,16 @@ Paper record mein correction ka goal wrong information ko correct karna aur orig
 
 **Correct answer: B. Verify each relevant finding against the current assessment and update inaccuracies**
 
-<!-- job5-rationale -->
-Copy-forward feature documentation fast bana sakta hai, lekin purani observations aaj ki condition automatically represent nahi karti. Nurse current examination aur patient status se har relevant copied finding verify kare. Outdated data update kare aur genuine historical information preserve kare. Unverified template ko authenticate karna clinical error propagate kar sakta hai.
+Copy-forward electronic record ka feature hai jisme purani entry ki information nayi entry mein aa jaati hai. Isse documentation ka samay bach sakta hai, lekin patient ki condition badal chuki ho sakti hai. Maan lo previous shift mein patient ki breathing normal thi aur ab use saans lene mein dikkat ho rahi hai. Agar nurse purani normal finding bina check kiye accept kar le, toh current condition galat record ho jaayegi. Nurse har relevant copied finding ko current assessment se compare karti hai, outdated information correct karti hai aur genuine historical record preserve karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A entire historical record delete karne ki zaroorat nahi hai.
-- **B:** B current assessment ke against facts verify karta hai.
-- **C:** C software generation clinical accuracy ka proof nahi hai.
-- **D:** D timestamp change se content accurate nahi hota.
+- **A:** Purana examination patient ki clinical history samajhne ke liye useful hai. Current entry correct karne ke liye poora historical examination delete karna zaroori nahi hai.
+- **B:** Current assessment se copied findings verify karne par nurse inaccurate data identify aur update kar sakti hai. Isliye B sahi hai.
+- **C:** Software ne text automatically generate kiya hai, iska matlab ye nahi hai ki clinical information abhi bhi correct hai. Nurse ko content verify karna hota hai.
+- **D:** Timestamp badalne se finding current nahi ho jaati. Actual examination se data verify karna zaroori hai.
 
-**Exam clue:** Copy-forward requires revalidation.
+**Exam clue:** Copy-forward ki hui information ko current assessment se check karo. Purani finding ko bina verification aaj ki finding mat maano.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -134,17 +131,16 @@ Copy-forward feature documentation fast bana sakta hai, lekin purani observation
 
 **Correct answer: A. Record administration after it actually occurs, with accurate time and relevant details**
 
-<!-- job5-rationale -->
-Medication order planned treatment hai, administration actual event hai. Drug dene ke baad accurate actual time aur required details MAR mein record karo. Agar dose hold, refuse, delay ya omit hui ho toh reason aur required notification record karo. Prepared medicine ko administered treat nahi kar sakte.
+Medication order batata hai ki patient ko kaunsi medicine dene ka plan hai. Administration ka matlab hai ki medicine actually patient ko di gayi hai. Dono alag events hain. Maan lo nurse ne dose prepare kar li hai, lekin patient abhi medicine lene se mana kar deta hai. Agar nurse ne pehle hi administration record kar diya tha, toh chart galat ho jaayega. Medicine actually dene ke baad nurse medication administration record, yaani MAR, mein actual time aur required details likhti hai. Agar dose hold, refuse, delay ya omit hui hai, toh reason aur required notification policy ke according record karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A actual completed administration document karta hai.
-- **B:** B pre-charting refusal ya change ke case mein false entry ban sakti hai.
-- **C:** C unperformed action ko authenticate karwana unsafe hai.
-- **D:** D scheduled time actual administration ka proof nahi hai.
+- **A:** Medicine actually administer karne ke baad uska accurate time aur details likhne se record patient ko mili care ko sahi dikhata hai. Isliye A sahi hai.
+- **B:** Advance mein administered mark karne ke baad dose refuse ya hold ho sakti hai. Aise mein chart falsely dikhayega ki medicine di gayi thi.
+- **C:** Doosri nurse se abhi tak perform na hui administration authenticate karwana actual care ka reliable evidence nahi hai.
+- **D:** Scheduled time sirf planned time hai. Agar dose actually nahi di gayi hai, toh scheduled time ko administration ka proof nahi bana sakte.
 
-**Exam clue:** Order time and administration time are different.
+**Exam clue:** Medicine dene ka scheduled time aur actual administration time alag ho sakte hain. Record mein actual event likho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -172,17 +168,16 @@ Medication order planned treatment hai, administration actual event hai. Drug de
 
 **Correct answer: C. Medication offered, refusal, relevant reason if given, assessment and required notification**
 
-<!-- job5-rationale -->
-Capable patient medication refuse kar sakta hai. Nurse reason respectfully explore kare, relevant education de, clinical risk assess kare aur required prescriber notification arrange kare. Record mein medicine offer, refusal, patient ka relevant statement, actual assessment aur follow-up actions factual form mein likho. Medication order independently delete mat karo.
+Agar decision lene mein capable patient medicine lene se mana karta hai, toh nurse ko pehle uski concern respectfully samajhni chahiye. Ho sakta hai patient side effect se worried ho ya medicine ka purpose clear na ho. Nurse relevant information deti hai, refusal se hone wale clinical risk ko assess karti hai aur zaroorat ke hisaab se prescriber ko inform karti hai. Record mein medicine offer ki gayi thi, patient ne refuse kiya, usne kya relevant reason bataya, kya assessment hui aur kaunsa follow-up action liya gaya, ye factual tareeke se likha jaata hai. Medicine order ko bina authorization delete nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A judgmental label se refusal ka reason aur clinical response clear nahi hota.
-- **B:** B order ko unauthorized delete karna unsafe hai.
-- **C:** C actual event, assessment aur notification document karta hai.
-- **D:** D prepared dose ko administered likhna false hai.
+- **A:** Patient ko uncooperative kehne se actual refusal aur uski concern samajh nahi aati. Ye judgmental label hai, accurate clinical description nahi.
+- **B:** Patient ne medicine refuse ki hai, lekin order automatically cancel nahi ho jaata. Bina authorization use delete karna unsafe hai.
+- **C:** Actual refusal, relevant reason, assessment aur required notification document karne se next team ko patient ki care situation samajh aati hai. Isliye C sahi hai.
+- **D:** Prepared medicine patient ko di gayi medicine ke barabar nahi hai. Agar patient ne refuse kiya, toh administered likhna false documentation hoga.
 
-**Exam clue:** Refusal is a clinical event, not a character judgment.
+**Exam clue:** Refusal ko clinical event ke roop mein record karo. Patient ki personality par judgment mat likho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -210,17 +205,16 @@ Capable patient medication refuse kar sakta hai. Nurse reason respectfully explo
 
 **Correct answer: B. Replace the label with relevant observable behavior, direct statements and nursing actions**
 
-<!-- job5-rationale -->
-Objective documentation observable behavior aur specific events par based hoti hai. Difficult word reader ko exact situation nahi batata. For example patient ne prescribed care decline ki, specific concern express kiya aur nurse ne alternatives explain kiye, toh actual facts record karo. Direct statements relevant hone par attribute karo.
+Patient was difficult likhne se next nurse ko ye pata nahi chalta ki actually kya hua tha. Objective documentation mein nurse specific observed behavior, relevant patient statements aur apne care actions record karti hai. Maan lo patient ne kisi care activity se mana kiya aur uska reason pain bataya. Nurse ye actual facts record karti hai aur likhti hai ki usne kaunse alternatives explain kiye aur patient ne kya response diya. Isse patient ki concern samajh aati hai, bina uski personality par judgment lagaye. Relevant direct statements ka source bhi clear hona chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated patient ki information confidentiality risk hai.
-- **B:** B observable facts aur nursing actions preserve karta hai.
-- **C:** C stronger adjective bhi subjective judgment rahega.
-- **D:** D interaction clinically relevant ho toh omit nahi karna chahiye.
+- **A:** Kisi unrelated patient ka experience compare karne se current patient ka behavior clearly document nahi hota. Doosre patient ki confidential information bhi expose ho sakti hai.
+- **B:** Observed behavior, relevant statements aur nursing actions likhne se reader actual situation samajh sakta hai. Isliye B sahi hai.
+- **C:** Difficult ki jagah koi stronger adjective use karna problem solve nahi karta. Woh bhi personal judgment hi rahega.
+- **D:** Agar interaction patient care ke liye relevant hai, toh use completely delete karne se important clinical context miss ho sakta hai.
 
-**Exam clue:** Describe behavior, not personality.
+**Exam clue:** Patient ne actually kya kaha ya kiya, woh describe karo. Uski personality ke baare mein labels mat lagao.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -248,17 +242,16 @@ Objective documentation observable behavior aur specific events par based hoti h
 
 **Correct answer: A. Record the relevant patient statement in quotation marks with context and observations**
 
-<!-- job5-rationale -->
-Subjective information patient ka apna symptom experience hai. Unusual expression ka meaning nurse gently clarify kare aur important exact words quotation marks mein preserve kare. Related observable findings aur context alag record karo. Diagnosis assessment ke baad appropriate evidence par based honi chahiye.
+Subjective information woh hoti hai jo patient apne experience ke baare mein khud batata hai. Kabhi patient symptom ko aise words mein describe karta hai jinka meaning nurse ko turant clear nahi hota. Nurse gently poochti hai ki patient ka actual matlab kya hai. Agar exact wording clinically important hai, toh nurse patient ke words quotation marks mein record karti hai aur context aur observed findings separately likhti hai. Isse patient ki original baat preserve rehti hai. Diagnosis ko relevant assessment aur supporting evidence ke basis par decide karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A patient ka actual meaning aur source preserve karta hai.
-- **B:** B symptom report ko premature definitive diagnosis bana deta hai.
-- **C:** C assumed meaning original report distort kar sakta hai.
-- **D:** D score useful ho sakta hai par qualitative concern replace nahi karta.
+- **A:** Relevant exact patient statement aur uska context record karne se subjective information ka source aur original meaning preserve rehta hai. Isliye A sahi hai.
+- **B:** Patient ki unusual expression ko turant definitive diagnosis bana dena premature conclusion ho sakta hai. Pehle relevant assessment zaroori hai.
+- **C:** Nurse apni assumption ke according words badal deti hai, toh patient ki original concern ka meaning distort ho sakta hai.
+- **D:** Numerical score useful ho sakta hai, lekin har symptom ki quality ya patient ka actual experience sirf number se clear nahi hota.
 
-**Exam clue:** Quote patient when wording matters.
+**Exam clue:** Jab patient ke exact words clinically important hon, toh unhe quote karo aur unclear meaning ko patient se clarify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -286,17 +279,16 @@ Subjective information patient ka apna symptom experience hai. Unusual expressio
 
 **Correct answer: D. The nurse's reasoned interpretation of relevant reported and observed findings**
 
-<!-- job5-rationale -->
-SOAP mein S patient-reported information, O measured ya observed information, A clinical interpretation aur P next plan hai. Assessment section mein nurse relevant subjective aur objective cues combine karke problem ya concern ka reasoned interpretation document karti hai. Nursing interpretation ko authorized scope aur evidence tak limit karo.
+SOAP format clinical notes ko organize karta hai. S ka matlab Subjective hai, jisme patient ki batayi hui information aati hai. O ka matlab Objective hai, jisme nurse ki observed ya measured findings aati hain. A ka matlab Assessment hai, jisme nurse in relevant findings ko saath mein dekhkar unka clinical meaning samajhti hai. P ka matlab Plan hai, jisme next care steps likhe jaate hain. Assessment section mein nurse evidence-supported nursing concern ko apne authorized scope ke andar document karti hai. Sirf raw data likhna aur us data ka meaning samjhana alag cheezein hain.
 
 **Option-by-option reasoning**
 
-- **A:** A patient ka quotation Subjective hai.
-- **B:** B un-interpreted measured temperature Objective hai.
-- **C:** C next review time Plan mein aata hai.
-- **D:** D findings ka clinical synthesis Assessment hai.
+- **A:** Patient ka direct quotation subjective information hai. Agar sirf uska statement record hua hai, toh woh primarily S section mein aayega.
+- **B:** Measured temperature ek objective finding hai. Bina interpretation ke ye O section ka example hai.
+- **C:** Future review ka time planned action ka part hai. Isliye woh P section mein aata hai.
+- **D:** Reported aur observed findings ko jodkar unka reasoned clinical interpretation likhna Assessment section ka purpose hai. Isliye D sahi hai.
 
-**Exam clue:** Assessment in SOAP = interpretation, not raw data.
+**Exam clue:** SOAP mein Assessment ka matlab available data ka clinical interpretation hai, sirf raw assessment findings ki list nahi.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -324,17 +316,16 @@ SOAP mein S patient-reported information, O measured ya observed information, A 
 
 **Correct answer: B. Reassess the patient's agreed functional goal at the next specified review**
 
-<!-- job5-rationale -->
-SOAP Plan section batata hai ki assessment ke baad kya care, monitoring, education, referral ya reassessment proposed hai. Agreed functional goal ko defined review time par check karna future action hai. Actual outcome baad mein record hoga, plan ko completed action ki tarah document nahi karna hai.
+SOAP ke Plan section mein nurse batati hai ki current assessment ke baad aage kya action liya jaayega. Ismein care, monitoring, teaching, referral ya reassessment ka plan aa sakta hai. Maan lo patient ke saath ek functional goal agree hua hai aur next specified review par uski progress check karni hai. Ye future action hai, isliye Plan mein likha jaayega. Jab reassessment actually hogi, tab nurse actual result separately document karegi. Planned care ko pehle se completed care nahi dikhana chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A disturbed sleep pattern ka interpretation Assessment hai.
-- **B:** B future reassessment action aur timing Plan hai.
-- **C:** C patient ki sleep complaint Subjective hai.
-- **D:** D measured temperature Objective hai.
+- **A:** Disturbed sleep pattern ka evidence-supported interpretation current clinical concern batata hai. Isliye ye Assessment section se related hai.
+- **B:** Next specified review par agreed goal reassess karna future action hai aur review time bhi clear hai. Isliye B Plan ka example hai.
+- **C:** Patient ka ye kehna ki use neend nahi aa rahi hai, uska subjective symptom hai. Ye Subjective section mein aayega.
+- **D:** Bedside par measured temperature objective data hai. Ye primarily Objective section mein record hota hai.
 
-**Exam clue:** Plan looks forward.
+**Exam clue:** Plan mein aage kya karna hai, ye likha jaata hai. Actual result tab record karo jab action aur reassessment ho chuke hon.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -362,17 +353,16 @@ SOAP Plan section batata hai ki assessment ke baad kya care, monitoring, educati
 
 **Correct answer: A. PIE charting**
 
-<!-- job5-rationale -->
-PIE ka full form Problem, Intervention, Evaluation hai. Is format mein identified nursing problem ko actual nursing action aur uske result se link kiya jaata hai. Example mobility difficulty ke liye assisted transfer aur uske baad patient performance record ki ja sakti hai. Facility format ke according details aur timestamps maintain karo.
+PIE documentation format ka full form Problem, Intervention aur Evaluation hai. Ismein nurse pehle patient ki relevant problem identify karti hai, phir record karti hai ki us problem ke liye kya nursing action liya aur us action ke baad kya result mila. Maan lo patient ko bed se chair tak transfer karne mein difficulty hai. Nurse problem record karti hai, suitable assisted transfer ko intervention ke roop mein likhti hai aur baad mein patient ki actual performance evaluate karti hai. Facility ke format ke according time aur required details bhi record ki jaati hain.
 
 **Option-by-option reasoning**
 
-- **A:** A PIE explicitly problem-action-outcome link karta hai.
-- **B:** B source-oriented charting information professional department ke according organize karti hai.
-- **C:** C Kardex care summary ho sakta hai, necessary PIE note nahi.
-- **D:** D vital-sign sheet repeated measurements track karti hai, complete PIE structure nahi.
+- **A:** PIE format nursing problem ko actual intervention aur uske evaluation ke saath directly connect karta hai. Isliye A sahi hai.
+- **B:** Source-oriented charting mein entries unhe record karne wale professional source ke according organize hoti hain. Ye apne aap mein PIE ka problem-intervention-evaluation structure nahi hai.
+- **C:** Kardex jahan use hota hai, wahan care ka short summary de sakta hai. Lekin sirf Kardex summary ko complete PIE documentation nahi maan sakte.
+- **D:** Vital-sign flow sheet repeated measurements ka trend dikhati hai. Sirf is sheet se nursing problem, specific intervention aur evaluation ka full PIE structure establish nahi hota.
 
-**Exam clue:** PIE = Problem → Intervention → Evaluation.
+**Exam clue:** PIE mein pehle problem likhi jaati hai, phir intervention aur phir us intervention ka actual evaluation record hota hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -400,17 +390,16 @@ PIE ka full form Problem, Intervention, Evaluation hai. Is format mein identifie
 
 **Correct answer: D. Response to the documented action**
 
-<!-- job5-rationale -->
-Focus charting ka DAR Data, Action, Response hai. Data patient complaint aur relevant observation ho sakta hai. Action nurse ne kya kiya aur Response us action ke baad patient par kya effect hua batata hai. F-DAR mein focus heading bhi hoti hai. Response ko objectively record karo, unobserved result assume mat karo.
+DAR focus charting mein D ka matlab Data, A ka matlab Action aur R ka matlab Response hai. Data mein patient ki complaint aur relevant observations record ki ja sakti hain. Action mein nurse batati hai ki usne kya care di. Response mein nurse us action ke baad patient ki actual condition ya reaction record karti hai. Maan lo nurse ne comfort measure diya. Uske baad pain ya discomfort mein kya change hua, ye Response section mein aayega. F-DAR format mein Focus heading bhi hoti hai. Nurse ko unobserved outcome assume nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A routine treatment Action ho sakta hai, R ka full form nahi.
-- **B:** B admission reason relevant Data ho sakta hai.
-- **C:** C referral actual action ya future plan ho sakta hai.
-- **D:** D R patient response ko identify karta hai.
+- **A:** Routine scheduled treatment jab actually perform hota hai, toh woh Action ke under aa sakta hai. Lekin R ka full form routine treatment nahi hai.
+- **B:** Reason for admission relevant background ya Data ho sakta hai. DAR mein R patient ke response ko represent karta hai.
+- **C:** Referral arrange karna situation ke according action ya plan ho sakta hai. Sirf referral order patient ka response nahi batata.
+- **D:** Documented action ke baad patient mein jo actual response assess hua hai, woh R section mein record hota hai. Isliye D sahi hai.
 
-**Exam clue:** DAR = Data, Action, Response.
+**Exam clue:** DAR ka full form Data, Action aur Response hai. Response mein intervention ke baad jo actually hua, woh record karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -438,17 +427,16 @@ Focus charting ka DAR Data, Action, Response hai. Data patient complaint aur rel
 
 **Correct answer: C. Clearly defined normal standards and a system for recording deviations and required routine care**
 
-<!-- job5-rationale -->
-Charting by exception documentation ko efficient banata hai jab normal standards, required routine charting aur exceptions ka clear system ho. Expected findings ko approved format mein record ya indicate kiya jaata hai. Abnormal finding, significant change, intervention aur required assessment omit nahi hote. Standards unclear hon toh blank field normal care ka reliable proof nahi hai.
+Charting by exception ka matlab ye nahi hai ki nurse normal findings aur patient care ko record karna hi band kar de. Is method mein pehle se defined normal standards aur approved documentation system hote hain. Nurse expected findings ko policy ke according indicate karti hai aur standard se jo relevant deviation milta hai, use clearly record karti hai. Abnormal finding, significant change, intervention aur required routine assessments omit nahi hone chahiye. Agar normal standards clear nahi hain, toh blank field se ye confirm nahi ho sakta ki patient ki condition normal thi ya care perform hui thi.
 
 **Option-by-option reasoning**
 
-- **A:** A patient-specific abnormal finding ko record karna essential hai.
-- **B:** B separate narrative for every normal value method ka purpose nahi, unless policy requires it.
-- **C:** C clear standards aur exception recording method ko meaningful banate hain.
-- **D:** D no documentation ka permission nahi deta.
+- **A:** Patient-specific information record karne par ban nahi hota. Abnormal findings aur relevant care details document karna essential hai.
+- **B:** Har normal value ke liye separate narrative likhna is method ka general purpose nahi hai. Haan, facility policy agar specific documentation require karti hai, toh use follow karna zaroori hai.
+- **C:** Clearly defined normal standards aur deviations ke saath required routine care record karne ka system is method ko meaningful banata hai. Isliye C sahi hai.
+- **D:** Charting by exception ka matlab sab kuch undocumented chhodne ki permission nahi hai. Relevant findings aur required care records phir bhi necessary hain.
 
-**Exam clue:** Exception charting depends on explicit standards.
+**Exam clue:** Charting by exception tabhi reliable hoti hai jab normal standards aur documentation requirements pehle se clear hon.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -476,17 +464,16 @@ Charting by exception documentation ko efficient banata hai jab normal standards
 
 **Correct answer: A. A properly maintained clinical flow sheet**
 
-<!-- job5-rationale -->
-Flow sheet repeated clinical observations ko time sequence mein arrange karti hai, jaise pulse, BP, respiratory rate, intake-output ya neurological checks. Trend compare karke gradual deterioration ya response to treatment identify kar sakte hain. Dangerous single finding ko trend complete hone tak ignore mat karo. Relevant narrative and escalation bhi record karo.
+Clinical flow sheet mein repeated observations ko time ke order mein record kiya jaata hai. Maan lo nurse har scheduled review par pulse, BP, respiratory rate aur intake-output note karti hai. Ek hi sheet par values dekhne se pata chal sakta hai ki patient ki condition gradually improve ho rahi hai ya deteriorate kar rahi hai. Is pattern ko trend kehte hain. Agar ek reading bahut abnormal hai, toh trend complete hone ka wait karke urgent response delay nahi karna chahiye. Relevant narrative, interventions aur escalation bhi record karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A serial data ko readable time sequence mein organize karta hai.
-- **B:** B single baseline note later changes nahi dikhata.
-- **C:** C duty roster staff scheduling ke liye hai.
-- **D:** D purchase invoice patient clinical observations nahi hai.
+- **A:** Properly maintained flow sheet serial observations ko time sequence mein dikhati hai, jisse changes compare kiye ja sakte hain. Isliye A sahi hai.
+- **B:** Single admission note baseline information deta hai, lekin later readings ke bina patient ki condition ka trend nahi dikhata.
+- **C:** Duty roster staff ki shifts aur responsibilities organize karta hai. Ye patient ki repeated clinical readings ka record nahi hai.
+- **D:** Procurement invoice medicine ki purchase se related hota hai. Isse patient ka clinical observation trend pata nahi chalta.
 
-**Exam clue:** Flowsheet = serial observations and trends.
+**Exam clue:** Flow sheet se time ke saath readings ka trend samajh aata hai. Lekin critical single finding ko ignore mat karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -514,17 +501,16 @@ Flow sheet repeated clinical observations ko time sequence mein arrange karti ha
 
 **Correct answer: D. Pause documentation and resolve identity using approved identifiers and system support**
 
-<!-- job5-rationale -->
-Duplicate identifier wrong-patient charting ka serious risk hai. Documentation pause karo aur approved identifiers, jaise name aur unique record number/date of birth as per policy, verify karo. System support se duplicate record issue resolve karao. Immediate care urgent ho toh safe identification and downtime process follow karo, necessary treatment delay mat karo.
+Electronic chart mein duplicate patient identifier milna serious safety concern hai, kyunki nurse galat patient ki file mein information enter kar sakti hai. Nurse documentation rok kar approved identifiers verify karti hai, jaise facility policy ke according name ke saath unique record number ya date of birth. Agar system mein duplicate record ka issue hai, toh authorized system support se use resolve karwana chahiye. Jab tak correct identity aur chart confirm na ho, assessment findings wrong record mein enter nahi karni chahiye. Agar urgent care chahiye, toh approved identification aur fallback process follow karke necessary treatment delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A open chart correct patient ka proof nahi hai.
-- **B:** B dono records mein data enter karna cross-patient contamination create karta hai.
-- **C:** C room number stable patient identifier nahi hai.
-- **D:** D identity resolve karke correct chart confirm karta hai.
+- **A:** Jo chart pehle se open hai, woh automatically correct patient ka chart nahi hota. Approved identifiers verify karne chahiye.
+- **B:** Dono charts mein findings enter karne se unrelated ya duplicate record mein incorrect information aa sakti hai. Isse future clinical decisions unsafe ho sakte hain.
+- **C:** Room number badal sakta hai aur bed ya room patient ki unique identity nahi hai. Approved identifiers use karna zaroori hai.
+- **D:** Documentation pause karke identity resolve karna aur correct electronic chart confirm karna wrong-patient error prevent karne mein help karta hai. Isliye D sahi hai.
 
-**Exam clue:** Wrong chart suspected? Stop and identify.
+**Exam clue:** Agar wrong chart ka doubt ho, toh entry karne se pehle patient identity aur correct record verify karo.
 
 [Concept reference](https://healthit.gov/resources/2025-safer-guide-patient-identification/)
 <!-- /job5-rationale -->
@@ -554,17 +540,16 @@ Duplicate identifier wrong-patient charting ka serious risk hai. Documentation p
 
 **Correct answer: C. Use the approved downtime record and reconcile it into the electronic system when restored**
 
-<!-- job5-rationale -->
-EHR downtime mein care aur documentation dono continue karne hote hain. Approved downtime forms par patient identity, orders, administration, assessment aur timestamps record karo. System restore hone par authorized reconciliation se paper and electronic entries coordinate karo, duplicates aur missing events check karo. Sensitive details personal cloud ya memory par rely karke store mat karo.
+EHR ka matlab electronic health record hai. Agar system kuch samay ke liye unavailable ho jaaye, toh patient ki care aur documentation phir bhi continue honi chahiye. Nurse approved downtime record use karti hai aur patient identity, orders, actual medicine administration, assessment aur event times likhti hai. Jab electronic system restore ho jaata hai, toh authorized reconciliation process ke through temporary records aur electronic entries ko compare kiya jaata hai. Isse missing information aur duplicate doses ya entries ka risk kam hota hai. Confidential data ko personal cloud ya unapproved notes mein store nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A unapproved cloud mein confidential information risk par hai.
-- **B:** B medication documentation gap duplicate ya missed dose cause kar sakta hai.
-- **C:** C approved temporary record aur reconciliation continuity support karte hain.
-- **D:** D memory accurate chronology preserve nahi kar sakti.
+- **A:** Unapproved personal cloud mein patient identifiers aur clinical details store karne se confidentiality aur data security compromise ho sakti hai.
+- **B:** Downtime mein medicine administration record na karne se baad mein pata nahi chalega ki dose actually di gayi thi ya nahi. Isse missed ya duplicate dose ka risk ho sakta hai.
+- **C:** Approved temporary record use karke restoration ke baad reconciliation karne se patient care ka accurate sequence preserve rehta hai. Isliye C sahi hai.
+- **D:** Agli subah tak memory par depend karne se important details aur exact time bhoolne ka risk hota hai. Approved contemporaneous fallback record use karna chahiye.
 
-**Exam clue:** Downtime does not mean no documentation.
+**Exam clue:** System down hone ka matlab documentation band karna nahi hai. Approved backup record use karo aur baad mein reconcile karo.
 
 [Concept reference](https://healthit.gov/clinical-quality-and-safety/safer-guides)
 <!-- /job5-rationale -->
@@ -594,17 +579,16 @@ EHR downtime mein care aur documentation dono continue karne hote hain. Approved
 
 **Correct answer: B. Decline credential sharing and arrange authorized access support**
 
-<!-- job5-rationale -->
-Individual electronic credentials patient record security aur accountability ke liye hote hain. Colleague ka account lock ho toh approved access recovery, IT support ya emergency access procedure arrange karo. Apna password share karne se doosre person ke actions tumhare naam par record ho sakte hain. Urgent care ke liye authorized fallback policy follow karo.
+Electronic record mein har nurse ka apna login isliye hota hai taaki patient information secure rahe aur pata chal sake ki kaunsa action kis user ne kiya. Agar colleague ka account lock hai, toh nurse password share karne ke bajay approved access recovery, IT support ya applicable emergency access procedure arrange karne mein help karti hai. Apne login se doosre person ko entry karne dene par uske actions galat identity ke naam par record ho sakte hain. Urgent care ke liye facility ki authorized fallback policy follow karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A generic patient name wrong-record risk create karta hai.
-- **B:** B individual authentication protect karta hai aur legitimate access arrange karta hai.
-- **C:** C one shift ka sharing bhi accountability compromise karta hai.
-- **D:** D advance signing unverified activity authenticate karta hai.
+- **A:** Generic patient name use karne se wrong-record documentation ka risk badh sakta hai. Correct patient identity aur authorized access dono chahiye.
+- **B:** Credentials share karne se mana karke authorized access support arrange karna confidentiality aur individual accountability protect karta hai. Isliye B sahi hai.
+- **C:** Sirf ek shift ke liye password share karne par bhi doosre person ke actions original account owner ke naam par aa sakte hain. Isse accountability compromise hoti hai.
+- **D:** Colleague ki entries advance mein sign karne se aisi activity authenticate ho jaayegi jo abhi verify nahi hui hai. Ye reliable record practice nahi hai.
 
-**Exam clue:** One user, one accountable credential.
+**Exam clue:** Har authorized user apne individual credentials use kare. Access problem ho toh approved support ya fallback process follow karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/)
 <!-- /job5-rationale -->
@@ -634,17 +618,16 @@ Individual electronic credentials patient record security aur accountability ke 
 
 **Correct answer: D. Access only information needed for the authorized clinical purpose**
 
-<!-- job5-rationale -->
-Authorized clinical consultation mein information access ka purpose patient care hai. Nurse relevant history aur results review kar sakti hai jo assigned responsibility ke liye required hain. Unrelated records curiosity se open karna ya personal device par download karna appropriate nahi hai. Exact access rules institution aur applicable law ke according follow karo.
+Agar nurse ko doosri unit ke patient ke assigned consultation ke liye record review karna hai, toh access ka purpose patient care hai. Nurse woh relevant history, reports aur treatment information dekh sakti hai jo assigned responsibility perform karne ke liye zaroori hai. Sirf curiosity ya personal learning ke liye unrelated records open karna appropriate nahi hai. Patient chart ko unapproved personal device par download karna bhi confidentiality risk create kar sakta hai. Institution ki access policy aur applicable law follow karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated records authorized purpose se bahar hain.
-- **B:** B personal phone storage confidentiality risk hai.
-- **C:** C necessary authorized data avoid karne se safe care compromise ho sakti hai.
-- **D:** D purpose-limited authorized access support karta hai.
+- **A:** Learning ki curiosity se unrelated patient records open karna assigned authorized clinical purpose ke bahar hai.
+- **B:** Personal phone par poora chart download karne se confidential information unauthorized access ya storage ke risk mein aa sakti hai.
+- **C:** Authorized care ke liye zaroori information ko avoid karne se nurse incomplete evidence ke basis par decision le sakti hai. Privacy ka matlab necessary authorized care information na dekhna nahi hai.
+- **D:** Assigned clinical purpose ke liye zaroori information tak access limit karna privacy aur patient care dono ko support karta hai. Isliye D sahi hai.
 
-**Exam clue:** Access what care requires, not everything available.
+**Exam clue:** Patient care ke liye jitni authorized information chahiye, utni hi access karo. Sirf available hone ki wajah se unrelated records mat kholo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/)
 <!-- /job5-rationale -->
@@ -674,17 +657,16 @@ Authorized clinical consultation mein information access ka purpose patient care
 
 **Correct answer: C. An audit trail supporting traceability and accountability**
 
-<!-- job5-rationale -->
-Audit trail record karta hai ki entry kis user ne kab create ya change ki aur system ke according prior version kya tha. Isse correction history, inappropriate access investigation aur accountability support hoti hai. Audit trail data ki correctness automatically prove nahi karta. Authorized amendment process aur clinical review still required hain.
+Audit trail electronic record ka aisa history feature hai jisse pata chal sakta hai ki entry kis user ne banayi ya modify ki, kab change hua aur system mein kaunsa prior version available hai. Maan lo kisi medication entry mein correction hui hai. Audit trail se authorized reviewer correction ka sequence trace kar sakta hai. Isse accountability aur inappropriate access ki investigation mein help milti hai. Lekin audit trail sirf record activity dikhata hai. Woh automatically prove nahi karta ki har recorded clinical judgment medically correct hai. Approved amendment aur clinical review ki zaroorat phir bhi rehti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A audit trail unauthorized alteration ko permit nahi karta.
-- **B:** B individual identity trail ka important component hai.
-- **C:** C traceability aur accountability iska core purpose hai.
-- **D:** D every clinical judgment correct hone ki guarantee nahi hai.
+- **A:** Audit trail unauthorized alteration ki permission nahi deta. Clinical record change karne ke liye approved process follow karna chahiye.
+- **B:** Individual user credentials se actual author identify hota hai. Audit trail is identity ko use karke traceability support karta hai, isliye credentials ka replacement nahi hai.
+- **C:** Date, user identity aur change history preserve karne se record traceable rehta hai aur accountability establish karne mein help milti hai. Isliye C sahi hai.
+- **D:** Entry kisne aur kab ki, ye pata hone se clinical judgment ki correctness automatically confirm nahi hoti. Clinical evidence aur review alag se chahiye.
 
-**Exam clue:** Audit trail shows who, when and what changed.
+**Exam clue:** Audit trail se pata chalta hai ki kisne, kab aur kya change kiya. Ye clinical correctness ki guarantee nahi hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/)
 <!-- /job5-rationale -->
@@ -714,17 +696,16 @@ Audit trail record karta hai ki entry kis user ne kab create ya change ki aur sy
 
 **Correct answer: B. Content taught, patient's return demonstration, remaining difficulty and follow-up plan**
 
-<!-- job5-rationale -->
-Teaching outcome document karna sirf education deliver karne se alag hai. Nurse actual topic, method, patient response aur return demonstration ke observed steps record kare. Remaining difficulty note karo aur re-teaching ya follow-up plan specify karo. Isse receiving team patient ki actual readiness judge kar sakti hai.
+Teaching dena aur patient ne teaching se kitna seekha, ye dono alag cheezein hain. Maan lo nurse patient ko ghar par koi complex care procedure karna sikhati hai. Nurse record karti hai ki kaunsa topic aur method use hua. Phir patient ko procedure karke dikhane ko kehti hai aur actual observed steps aur remaining difficulty record karti hai. Agar patient abhi kisi step mein struggle kar raha hai, toh re-teaching ya follow-up plan clear likhna chahiye. Isse next team ko pata chalta hai ki patient home care ke liye kitna ready hai.
 
 **Option-by-option reasoning**
 
-- **A:** A another patient's education record actual individual care nahi batata.
-- **B:** B intervention, skill assessment aur pending needs capture karta hai.
-- **C:** C leaflet distribution learning outcome prove nahi karti.
-- **D:** D vague praise measurable evidence provide nahi karti.
+- **A:** Doosre patient ka education record copy karne se current patient ko actually kya teaching mili aur usne kya seekha, ye establish nahi hota.
+- **B:** Teaching content, actual return demonstration, remaining difficulty aur follow-up record karne se education ka intervention aur outcome dono clear hote hain. Isliye B sahi hai.
+- **C:** Leaflet dena education ka ek action hai, lekin sirf leaflet handover se learning ya practical ability verify nahi hoti.
+- **D:** Patient educated well kehna vague hai. Isse reader ko nahi pata chalta ki patient kaunsa step samajhta ya safely perform karta hai.
 
-**Exam clue:** Chart what the patient can do after teaching.
+**Exam clue:** Teaching ke baad patient actually kya samjha ya karke dikha saka, use document karo. Remaining learning needs bhi clear likho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -752,17 +733,16 @@ Teaching outcome document karna sirf education deliver karne se alag hai. Nurse 
 
 **Correct answer: A. Chart clinical facts, assessment, care and notification, and complete the separate incident reporting process as required**
 
-<!-- job5-rationale -->
-Clinical chart ka purpose patient care continuity hai. Incident ke baad actual injury, findings, care, notifications aur reassessment objective form mein record karo. Separate safety reporting system organizational learning ke liye use hota hai according to policy. Speculative blame aur irrelevant internal investigation details patient chart mein mat add karo.
+Clinical chart ka main purpose patient care ka accurate record aur continuity maintain karna hai. Agar kisi incident se minor injury hui hai, toh nurse actual injury, relevant assessment, diya gaya care, notifications aur reassessment objectively record karti hai. Separate safety incident reporting system organization ko event review karne aur future risk kam karne mein help karta hai. Facility policy ke according required incident report bhi complete ki jaati hai. Clinical chart mein unsupported blame ya irrelevant internal investigation details add nahi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A patient care record aur safety reporting dono fulfill karta hai.
-- **B:** B incident report clinical note replace nahi kar sakta.
-- **C:** C speculation factual documentation nahi hai.
-- **D:** D actual injury omit karna care continuity compromise karta hai.
+- **A:** Clinical chart mein patient care ke relevant facts aur actions likhne aur separate incident reporting process follow karne se dono documentation purposes meet hote hain. Isliye A sahi hai.
+- **B:** Safety report patient ki clinical assessment aur ongoing care record ka substitute nahi hai. Clinical chart independently complete rehna chahiye.
+- **C:** Kis staff member ki wajah se incident hua, is baare mein unsupported speculation factual clinical documentation nahi hai.
+- **D:** Actual injury omit karne se next team ko patient ki assessment aur follow-up needs ka pata nahi chalega. Confidentiality approved access aur reporting procedures se protect karni chahiye.
 
-**Exam clue:** Document care in chart, report incident through approved process.
+**Exam clue:** Patient ki actual care clinical chart mein record karo aur incident ko approved separate safety reporting process se report karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -790,17 +770,16 @@ Clinical chart ka purpose patient care continuity hai. Incident ke baad actual i
 
 **Correct answer: C. Relevant concern, notification time, recipient, instructions or response and further action**
 
-<!-- job5-rationale -->
-Urgent notification ko actionable aur traceable banana zaroori hai. Relevant concern, recipient, notification time, confirmed instructions/response aur further action record karo. Agar response inadequate ya patient worsen ho toh escalation pathway follow karo. Message send karna alone closed-loop communication nahi hai.
+Urgent concern communicate karna tab useful hota hai jab receiving clinician ko clear information mile aur further action ki responsibility samajh aaye. Nurse record karti hai ki concern kya tha, kis person ko kis time par inform kiya gaya, kya instructions ya response mila aur nurse ne uske baad kya action liya. Agar response inadequate hai ya patient ki condition aur kharab ho rahi hai, toh applicable escalation pathway follow karna chahiye. Sirf message bhejna closed-loop communication nahi hai. Receipt aur important instructions appropriate tareeke se confirm karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A anticipated response confirmed action nahi hai.
-- **B:** B unrelated conversation urgent facts obscure karti hai.
-- **C:** C relevant notification details aur follow-up accountability establish karta hai.
-- **D:** D name alone se timing, concern aur plan clear nahi hote.
+- **A:** Someone response dega, ye sirf assumption hai. Isse actual receipt, instruction ya action establish nahi hota.
+- **B:** Har unrelated conversation add karne se urgent concern aur important clinical action identify karna mushkil ho sakta hai. Relevant details record karni chahiye.
+- **C:** Concern, time, recipient, instructions ya response aur further action record karne se notification traceable aur follow-up clear rehta hai. Isliye C sahi hai.
+- **D:** Sirf provider ka first name likhne se issue, notification time aur next action pata nahi chalta. Complete relevant details chahiye.
 
-**Exam clue:** Who, when, what, response, next action.
+**Exam clue:** Urgent notification mein clearly likho ki kya concern tha, kisko kab bataya, kya response mila aur ab aage kya action liya gaya.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -828,17 +807,16 @@ Urgent notification ko actionable aur traceable banana zaroori hai. Relevant con
 
 **Correct answer: B. Review workflow and train staff to document outcome reassessment with relevant objective evidence**
 
-<!-- job5-rationale -->
-Intervention ka result reassessment ke bina evaluate nahi ho sakta. Missing response entries workflow, unclear standards ya training gap indicate kar sakti hain. Audit team causes review kare, staff ko relevant measurable outcome chart karna sikhaye aur subsequent audit se improvement monitor kare. Generic phrases evidence ka substitute nahi hain.
+Audit mein agar kai nursing notes mein intervention ke baad patient ka response missing mile, toh team ko sirf staff ko blame karne ke bajay actual reason samajhna chahiye. Ho sakta hai documentation workflow unclear ho, system mein suitable field na ho ya staff ko reassessment record karne ki training chahiye. Intervention ka benefit samajhne ke liye nurse patient ka relevant subjective aur objective response assess karti hai aur measurable findings document karti hai. Team workflow aur training improve karke subsequent audit mein check kar sakti hai ki missing response entries kam hui hain ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** A complaint absence successful response prove nahi karti.
-- **B:** B system improvement aur relevant reassessment evidence address karta hai.
-- **C:** C generic language documentation gap solve nahi karti.
-- **D:** D reassessment fields remove karna outcome visibility reduce karta hai.
+- **A:** Patient ne complaint nahi ki, iska matlab intervention successful raha, aisa confirm nahi hota. Relevant reassessment chahiye.
+- **B:** Workflow review aur staff training se missing response ke possible causes address ho sakte hain aur relevant outcome evidence record karna improve ho sakta hai. Isliye B sahi hai.
+- **C:** Generic phrases jaise patient fine hai use karne se actual response clear nahi hota. Outcome ko relevant observed ya measured findings ke saath record karna chahiye.
+- **D:** Reassessment fields remove karne se form complete karna aasaan lag sakta hai, lekin outcome visibility kam ho sakti hai. Actual reassessment ki zaroorat khatam nahi hoti.
 
-**Exam clue:** Audit, identify cause, improve, re-audit.
+**Exam clue:** Audit se problem identify karo, uska cause samjho, practical improvement karo aur dobara audit karke result check karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -866,17 +844,16 @@ Intervention ka result reassessment ke bina evaluate nahi ho sakta. Missing resp
 
 **Correct answer: A. Explain and facilitate the approved access process under applicable law and policy**
 
-<!-- job5-rationale -->
-Patient access request ko respectfully handle karo. Nurse identity verify karne aur approved records-release process explain karne mein help kare. Applicable legal requirements, institutional procedure aur third-party confidentiality safeguards follow karo. Personal email ya messaging se record casually transfer mat karo. Authorized access ko staff ownership argument se automatically deny mat karo.
+Agar patient apna clinical record dekhna chahta hai, toh nurse uski request respectfully sunti hai. Nurse patient ko batati hai ki facility mein records access ya release ka approved process kya hai aur zaroorat ke hisaab se identity verification aur authorized request mein help karti hai. Applicable law, institution ki policy aur third-party confidentiality safeguards follow karne chahiye. Personal email ya unapproved messaging account par record casually bhejna appropriate nahi hai. Sirf ye kehkar request reject nahi karni chahiye ki records staff ke hain.
 
 **Option-by-option reasoning**
 
-- **A:** A proper access process facilitate karta hai.
-- **B:** B other patients ki confidential information share nahi kar sakte.
-- **C:** C blanket refusal patient access procedure ignore karta hai.
-- **D:** D unapproved account secure verification aur disclosure safeguards compromise karta hai.
+- **A:** Approved process explain aur facilitate karne se patient ki request applicable law aur privacy safeguards ke according handle ki ja sakti hai. Isliye A sahi hai.
+- **B:** Apna record access karne ki request se patient ko doosre patients ki confidential information dekhne ka unrestricted right nahi milta.
+- **C:** Records staff ke hain kehkar blanket refusal dena approved patient access procedure ignore karta hai. Request ko applicable process ke according consider karna chahiye.
+- **D:** Unapproved personal account se record bhejne par secure identity verification aur disclosure safeguards compromise ho sakte hain. Authorized release method use karna chahiye.
 
-**Exam clue:** Facilitate authorized access, protect confidentiality.
+**Exam clue:** Patient ki authorized record access request facilitate karo aur identity, privacy aur applicable policy ke safeguards follow karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
