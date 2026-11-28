@@ -18,7 +18,7 @@ Jab patient ghar se bahar jata hai, toh woh prescribed plan ke hisaab se measure
 
 ## Rescue medicine aur family training
 
-Glucagon ek hormone hai jo liver se stored glucose release karne mein madad karta hai. Severe hypoglycemia mein prescribed rescue glucagon trained caregiver de sakta hai. Kuch products mein mixing karni padti hai aur kuch ready-to-use hote hain. Nurse actual prescribed device par training deti hai aur caregiver se steps repeat karwati hai. Expiry aur storage instructions check karna bhi important hai. Behosh patient ko mouth se food ya fluid nahi dena chahiye. Emergency assistance activate karein aur breathing ke hisaab se trained first aid dein. Recovery ke baad bhi low glucose phir aa sakta hai, isliye agreed emergency plan aur monitoring follow karein.
+Glucagon ek hormone hai jo liver se stored glucose release karne mein madad karta hai. Severe hypoglycemia mein prescribed rescue glucagon trained caregiver de sakta hai. Kuch products mein mixing karni padti hai aur kuch ready-to-use hote hain. Nurse actual prescribed device par training deti hai aur caregiver se steps repeat karwati hai. Expiry aur storage instructions check karna bhi important hai. Behosh patient ko mouth se food ya fluid nahi dena chahiye. Emergency assistance turant activate karein. Glucagon ka response aane tak wait na karein. Agar behosh patient normally breathe kar raha hai aur trauma ka suspicion nahi hai, toh recovery position mein side par turn karein aur breathing monitor karein. Agar normal breathing nahi hai, toh trained emergency resuscitation steps follow karein. Recovery ke baad bhi low glucose phir aa sakta hai, isliye agreed emergency plan aur monitoring follow karein.
 
 ## Example
 

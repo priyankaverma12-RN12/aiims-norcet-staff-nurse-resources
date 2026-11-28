@@ -5,7 +5,8 @@ Original candidate only, not historical exam material. 28 November 2026.
 | Items | Source | Access status |
 |---|---|---|
 | 1, 6, 8, 12, 14, 15, 20 | [ADA 2026 Section 6](https://doi.org/10.2337/dc26-s006) | Indexed recommendations and narrative retrieved. PMC direct retrieval returned CAPTCHA. |
-| 3, 7, 10, 16, 18, 19 | [Endocrine Society high-risk hypoglycemia](https://www.endocrine.org/clinical-practice-guidelines/high-risk-for-hypoglycemia) | Direct guideline summary opened. Structured education, risk and rescue formulation recommendations. |
+| 3, 10, 16, 18, 19 | [Endocrine Society high-risk hypoglycemia](https://www.endocrine.org/clinical-practice-guidelines/high-risk-for-hypoglycemia) | Direct guideline summary opened. Structured education, risk and rescue formulation recommendations. |
+| 7 | [ADA glucagon guidance](https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose/how-use-glucagon) | Indexed side-position recommendation retrieved. |
 | 4, 9, 13, 17 | [CDC treatment guidance](https://www.cdc.gov/diabetes/treatment/treatment-low-blood-sugar-hypoglycemia.html) | Indexed public patient guidance retrieved. Product-specific instructions still govern storage and use. |
 | 2, 5, 11 | [NIDDK hypoglycemia](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) | Indexed patient guidance retrieved. |
 
