@@ -71,8 +71,9 @@
 | [Urinary elimination assessment and continence care](09A-Urinary-Elimination-Assessment-and-Continence-Care-26-MCQs.md) | 26 | 30 |
 | [Urinary catheter insertion and removal](09B-Urinary-Catheter-Insertion-and-Removal-24-MCQs.md) | 24 | 30 |
 | [Catheter maintenance and CAUTI prevention](09C-Catheter-Maintenance-and-CAUTI-Prevention-23-MCQs.md) | 23 | 30 |
+| [Urinary specimen collection](09D-Urinary-Specimen-Collection-27-MCQs.md) | 27 | 30 |
 
-Current inventory **1,323 original question slots** (564 Medium, 759 Difficult), initial 600 + 723 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
+Current inventory **1,350 original question slots** (577 Medium, 773 Difficult), initial 600 + 750 new. Old 40 group 01 and 02 slots allocated once, excluded from additional authorship. [Individual-topic audit](../Concepts/Individual-Topic-Coverage-Audit.md). Five existing mocks reuse 600 earlier slots, not new authorship.
 
 Group 03 BP allocated 7 prior + 23 new. Other 13 prior group 03 items remain to allocate. [BP evidence](../Previous-Year-Questions/03A-BP-Reported-Evidence.md).
 
@@ -114,8 +115,10 @@ Group 08B: 25 new + five previously reserved Group 08 Q1,2,3,8,15 = 30 allocated
 
 Group 08C mein 28 naye original questions aur purane Group 08 Q11 aur Q12 milakar 30 questions allocate hue hain. [Concepts](../Concepts/08C-Central-Venous-Access.md) · [Reported evidence](../Previous-Year-Questions/08C-Central-Access-Reported-Evidence.md). IPC Group28 ke questions ko dobara count nahi kiya gaya hai.
 
-Group 09A: 26 new originals (16 Medium,10 Difficult) + legacy Group 09 Q9,10,18,19 = 30 allocated. [Concepts](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md) · [Reported evidence](../Previous-Year-Questions/09A-Urinary-Elimination-Reported-Evidence.md). Group 09 legacy allocation (all 20 IDs once): 09A Q9,10,18,19 allocated (4). 09B insertion/removal Q1,8,15,16,17 allocated (5), plus previously reserved Group 05 Q18 allocated once. 09C maintenance/CAUTI Q2,3,4,5,7,13,14 allocated (7). 09D specimen collection Q6,11,12 reserved (3). Group 22 fluid balance Q20 cross-reference only (1). No new credit for reused or reserved slots. Related IPC CAUTI and Renal bank tasks must not be duplicated.
+Group 09A: 26 new originals (16 Medium,10 Difficult) + legacy Group 09 Q9,10,18,19 = 30 allocated. [Concepts](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md) · [Reported evidence](../Previous-Year-Questions/09A-Urinary-Elimination-Reported-Evidence.md). Group 09 legacy allocation (all 20 IDs once): 09A Q9,10,18,19 allocated (4). 09B insertion/removal Q1,8,15,16,17 allocated (5), plus previously reserved Group 05 Q18 allocated once. 09C maintenance/CAUTI Q2,3,4,5,7,13,14 allocated (7). 09D specimen collection Q6,11,12 allocated (3). Group 22 fluid balance Q20 cross-reference only (1). No new credit for reused or reserved slots. Related IPC CAUTI and Renal bank tasks must not be duplicated.
 
 Group 09B: 24 new originals (13 Medium,11 Difficult) + five reserved Group 09 questions and reserved Group 05 Q18 = 30 allocated. [Concepts](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md) · [Evidence](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md). Next 09C maintenance/CAUTI, followed by 09D specimens. No duplicate legacy credit.
 
 Group 09C: 23 new originals (11 Medium,12 Difficult) plus seven allocated Group09 Q2,3,4,5,7,13,14 = 30 topic slots. [Concepts](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md) · [Evidence](../Previous-Year-Questions/09C-Catheter-Maintenance-Reported-Evidence.md). IPC Group27 and Renal overlapping learning tasks remain cross-references, not additional original authorship. Next 09D specimens.
+
+Group 09D: 27 new originals (13 Medium,14 Difficult) plus preserved Group09 Q6,11,12 = 30 allocated. [Concepts](../Concepts/09D-Urinary-Specimen-Collection.md) · [Evidence](../Previous-Year-Questions/09D-Urinary-Specimen-Reported-Evidence.md). Group09A–D now each have 30 allocated slots without counting legacy questions twice. Q20 remains a Group22 cross-reference. Next Group10 mobility, positioning and body mechanics individual-topic allocation.
