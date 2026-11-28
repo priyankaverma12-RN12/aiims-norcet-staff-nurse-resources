@@ -317,7 +317,7 @@
 
 **Exam clue:** Expected counts = row total × column total / grand total.
 
-**Related concept reference:** [OpenStax 2e chi-square distribution](https://openstax.org/books/introductory-statistics-2e/pages/11-introduction). Prior indexed source, specific test depth pending. Independent item-level review pending.
+**Related concept reference:** [Penn State STAT200 chi-square tests, expected cell formula](https://online.stat.psu.edu/stat200/Lesson11). Indexed formula retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -346,7 +346,7 @@
 
 **Exam clue:** Sparse independent 2 × 2 table mein Fisher exact suitable ho sakta hai.
 
-**Related concept reference:** [OpenStax 2e chi-square distribution](https://openstax.org/books/introductory-statistics-2e/pages/11-introduction). Prior indexed source, specific test depth pending. Independent item-level review pending.
+**Related concept reference:** [Penn State STAT500 chi-square and Fisher exact tests](https://online.stat.psu.edu/stat500/Lesson08). Indexed exact-test guidance retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -375,7 +375,7 @@
 
 **Exam clue:** McNemar paired binary discordant counts use karta hai.
 
-**Related concept reference:** [NRDI statistical inference course outline](https://www.nrdi.org/learn?t=data-analysis-with-databridge). Indexed outline, exact method details pending. Independent item-level review pending.
+**Related concept reference:** [Penn State STAT504 McNemar test](https://online.stat.psu.edu/stat504/Lesson11). Indexed discordant-pair formula retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
