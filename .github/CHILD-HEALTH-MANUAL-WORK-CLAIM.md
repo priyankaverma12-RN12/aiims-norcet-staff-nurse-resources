@@ -1,12 +1,12 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: NONE
-Scope: Child Health Nursing only
-Claimed UTC: NONE
-Expiry UTC: NONE
+State: CLAIMED
+Owner: child-health-b02-20261128-0724Z
+Scope: PR45 candidate-only clinical/rationale review and disjoint uncovered pediatric topics, no live navigation, other owners or schedules
+Claimed UTC: 2026-11-28T07:24:11Z
+Expiry UTC: 2026-11-28T07:54:11Z
 
-Reserved workstream: Child Health Nursing priority-thirteen. Resume existing isolated draft PR45 before starting another Child Health candidate. No active writer lease.
+Reserved workstream: Child Health Nursing priority-thirteen. Resume existing isolated draft PR45 before starting another Child Health candidate. Active writer lease, verified checkpoint below retained.
 
 ## Verified checkpoint
 
