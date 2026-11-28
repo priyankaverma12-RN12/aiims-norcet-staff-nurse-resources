@@ -4,26 +4,26 @@
 
 [Chapter](../README.md) · [Existing topic bank](28-Hepatic-Neoplasms-and-HCC-Nursing-20-MCQs.md)
 
-Clinical evidence: [NCI liver cancer risk factors and prevention](https://www.cancer.gov/types/liver/what-is-liver-cancer/causes-risk-factors) (direct HTML retrieved), [NCI primary liver cancer overview](https://www.cancer.gov/types/liver/what-is-liver-cancer) (indexed excerpt), [WHO mycotoxins](https://www.who.int/news-room/fact-sheets/detail/mycotoxins) (additional reference, direct verification pending).
+Clinical evidence: [NCI liver cancer risk factors and prevention](https://www.cancer.gov/types/liver/what-is-liver-cancer/causes-risk-factors) (direct HTML retrieved), [NCI primary liver cancer overview](https://www.cancer.gov/types/liver/what-is-liver-cancer) (direct HTML retrieved), [WHO mycotoxins](https://www.who.int/news-room/fact-sheets/detail/mycotoxins) (direct HTML retrieved).
 
 ### Q1. Which fungal toxin in improperly stored food is a recognized risk factor for hepatocellular carcinoma?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Aflatoxin B1
-- **B.** Botulinum toxin
-- **C.** Tetanospasmin
+- **A.** Botulinum toxin
+- **B.** Tetanospasmin
+- **C.** Aflatoxin B1
 - **D.** Shiga toxin
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Aflatoxin B1**
+**Correct answer: C. Aflatoxin B1**
 
-**A. Kyun sahi hai:** Aflatoxin B1 kuch fungi se ban sakta hai aur contaminated food ke through exposure liver cancer ka risk badha sakta hai.
+**A. Kyun galat hai:** Botulinum toxin botulism mein neuromuscular transmission affect karta hai, yeh HCC ka established dietary fungal toxin nahi hai.
 
-**B. Kyun galat hai:** Botulinum toxin botulism mein neuromuscular transmission affect karta hai, yeh HCC ka established dietary fungal toxin nahi hai.
+**B. Kyun galat hai:** Tetanospasmin tetanus mein muscle spasms se associated bacterial toxin hai, HCC ka dietary risk factor nahi hai.
 
-**C. Kyun galat hai:** Tetanospasmin tetanus mein muscle spasms se associated bacterial toxin hai, HCC ka dietary risk factor nahi hai.
+**C. Kyun sahi hai:** Aflatoxin B1 kuch fungi se ban sakta hai aur contaminated food ke through exposure liver cancer ka risk badha sakta hai.
 
 **D. Kyun galat hai:** Shiga toxin intestinal disease aur hemolytic uremic syndrome se associated ho sakta hai, aflatoxin-related HCC risk se nahi.
 
@@ -60,20 +60,20 @@ Clinical evidence: [NCI liver cancer risk factors and prevention](https://www.ca
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Difficulty swallowing solids
-- **B.** Burning sensation behind the sternum after meals
-- **C.** Feeling full after eating a small amount
+- **A.** Feeling full after eating a small amount
+- **B.** Difficulty swallowing solids
+- **C.** Burning sensation behind the sternum after meals
 - **D.** Persistent hunger immediately after meals
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Feeling full after eating a small amount**
+**Correct answer: A. Feeling full after eating a small amount**
 
-**A. Kyun galat hai:** Solid food swallow karne mein difficulty dysphagia hai, early satiety nahi hai.
+**A. Kyun sahi hai:** Early satiety mein patient thoda khana khakar hi full feel karta hai, jo liver cancer mein possible symptom hai.
 
-**B. Kyun galat hai:** Meal ke baad sternum ke peeche burning heartburn ko suggest kar sakti hai, early satiety ka meaning yeh nahi hai.
+**B. Kyun galat hai:** Solid food swallow karne mein difficulty dysphagia hai, early satiety nahi hai.
 
-**C. Kyun sahi hai:** Early satiety mein patient thoda khana khakar hi full feel karta hai, jo liver cancer mein possible symptom hai.
+**C. Kyun galat hai:** Meal ke baad sternum ke peeche burning heartburn ko suggest kar sakti hai, early satiety ka meaning yeh nahi hai.
 
 **D. Kyun galat hai:** Meal ke baad persistent hunger early satiety ka opposite experience hai.
 
