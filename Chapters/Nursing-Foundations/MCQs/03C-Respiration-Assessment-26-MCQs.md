@@ -17,17 +17,16 @@
 
 **Correct answer: C. One inspiration followed by one expiration**
 
-<!-- job5-rationale -->
-Ek complete respiratory cycle mein inspiration ke dauran air andar aati hai aur expiration mein bahar jaati hai. Chest ka rise aur subsequent fall milkar ek breath count hota hai. Rate ke saath rhythm, depth aur work of breathing bhi observe karo. Sirf chest movement count karna gas exchange adequate hone ka proof nahi hai.
+Jab hum saans andar lete hain, toh ise inspiration kehte hain. Chest expand hoti hai aur air lungs mein enter karti hai. Jab saans bahar nikalti hai, toh ise expiration kehte hain aur chest wapas neeche aati hai. Nurse chest ka ek complete rise aur fall ek breath count karti hai. Rate ke saath breathing ki depth, rhythm aur effort bhi observe karna chahiye, kyunki sirf movement count karne se adequate gas exchange confirm nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** Do inspirations do cycles ke portions hain, ek complete breath ki definition nahi.
-- **B:** Heart sounds cardiac cycle se related hain.
-- **C:** Ek inspiration aur expiration milkar ek breath bante hain.
-- **D:** Dono movements separate count karne par rate lagbhag double ho jayega.
+- **A:** Do inspirations alag respiratory cycles ke parts hain. Ek complete breath ke liye ek inspiration aur uske baad expiration chahiye.
+- **B:** Heart ka lub-dub cardiac cycle represent karta hai. Isse respiratory cycle count nahi hoti.
+- **C:** Ek baar saans andar aur ek baar bahar jaane se ek respiratory cycle complete hoti hai. Isliye C sahi hai.
+- **D:** Inspiration aur expiration ko separately ek-ek breath count karne se actual rate lagbhag double record ho jaayegi.
 
-**Exam clue:** One rise plus one fall = one breath.
+**Exam clue:** Chest ka ek rise aur uske baad ek fall milkar ek complete breath hota hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -56,17 +55,16 @@ Ek complete respiratory cycle mein inspiration ke dauran air andar aati hai aur 
 
 **Correct answer: B. 16 breaths/min**
 
-<!-- job5-rationale -->
-Regular breathing mein 30-second observation ko one-minute frequency mein convert kar sakte hain. Given 8 complete breaths in 30 seconds. One minute = 60 seconds, conversion factor 60/30 = 2. RR = 8 × 2 = 16 breaths/min. Irregular breathing ya clinical concern mein full minute assessment better hai.
+Respiratory rate batati hai ki patient ek minute mein kitni complete breaths le raha hai. Yahan stable patient ki breathing regular hai aur 30 seconds mein aath breaths count hui hain. Agar facility policy allow karti hai, toh half-minute count ko double karke minute ka rate calculate kar sakte hain. Ek minute 60 seconds ka hai, isliye 60/30 = 2. Aath ko do se multiply karne par 16 breaths/min milti hain. Agar breathing irregular ho ya clinical concern ho, toh full minute count karna preferable hai.
 
 **Option-by-option reasoning**
 
-- **A:** 32 ke liye 8 × 4 kiya gaya, jo 15-second conversion hota.
-- **B:** 16 correct one-minute rate hai.
-- **C:** 8 sirf half-minute count hai.
-- **D:** 24 ke liye 8 × 3 kiya gaya, given duration support nahi karti.
+- **A:** 32 breaths/min tab milti hain jab aath ko chaar se multiply karte hain. Factor chaar 15-second sample ke liye hota hai, 30 seconds ke liye nahi.
+- **B:** 8 × 2 = 16 breaths/min hai. Isliye B sahi hai.
+- **C:** Aath breaths sirf 30 seconds ka count hai. Ise directly per-minute rate ke roop mein record nahi karna chahiye.
+- **D:** 24 breaths/min ke liye aath ko teen se multiply kiya gaya hai. Given 30-second duration mein factor do hoga.
 
-**Exam clue:** 30 seconds × 2, irregular rhythm full minute.
+**Exam clue:** Regular stable breathing mein 30-second count ko double kar sakte hain. Irregular pattern ho toh full minute count karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -95,17 +93,16 @@ Regular breathing mein 30-second observation ko one-minute frequency mein conver
 
 **Correct answer: A. Observe for a full minute, noting the pattern and pauses**
 
-<!-- job5-rationale -->
-Irregular rhythm mein short sample patient ki actual breathing represent nahi kar sakta. Full minute count karo aur pauses ki timing, duration aur pattern note karo. Work of breathing, consciousness aur oxygenation bhi assess karo. Agar pauses ke saath deterioration hai toh urgent care ke liye full-minute count complete hone ka wait mat karo.
+Irregular breathing mein har breath ke beech ka interval same nahi hota. Maan lo patient kuch der fast breaths leta hai aur phir pause aa jaata hai. Agar nurse sirf paanch seconds observe kare, toh pause ya breath cluster miss ho sakta hai aur calculated rate misleading ho sakti hai. Full minute observe karne se breathing pattern aur pauses better capture hote hain. Nurse pauses ki duration, depth, breathing effort, alertness aur oxygenation bhi assess karti hai. Agar patient deteriorate kar raha hai, toh counting complete karne ka wait kiye bina urgent action lena chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Full minute aur pattern observation irregularity capture karte hain.
-- **B:** Five-second sample pause miss kar sakta hai.
-- **C:** Sirf regular breaths choose karne se actual pattern distort hoga.
-- **D:** Pulse aur breathing frequency alag variables hain.
+- **A:** Full minute observation mein irregular breaths aur pauses dono capture karne ka better mauka milta hai. Isliye A sahi hai.
+- **B:** Paanch seconds ka sample poore minute ko accurately represent nahi kar sakta, khaaskar jab pauses aa rahe hon.
+- **C:** Sirf regular intervals wali breaths count karne se patient ka actual respiratory pattern hide ho jaayega.
+- **D:** Heart rate aur respiratory rate alag physiological measurements hain. Ek se doosri directly calculate nahi hoti.
 
-**Exam clue:** Irregular rhythm: full minute, unless emergency needs immediate action.
+**Exam clue:** Irregular breathing mein full minute observe karo aur pauses document karo. Emergency action ko counting ke liye delay mat karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -134,17 +131,16 @@ Irregular rhythm mein short sample patient ki actual breathing represent nahi ka
 
 **Correct answer: D. Whether ventilation is adequate**
 
-<!-- job5-rationale -->
-Respiratory rate sirf frequency batati hai. Tidal volume ek breath ka air volume hai. Agar breaths bahut shallow hain toh normal frequency par bhi effective alveolar ventilation inadequate ho sakti hai. CO2 retention ya respiratory fatigue ka risk assess karo, relevant clinical findings aur indicated tests review karo.
+Respiratory rate sirf ye batati hai ki patient ek minute mein kitni breaths le raha hai. Tidal volume ka matlab har breath ke saath move hone wali air ki quantity hai. Maan lo patient ek minute mein normal sankhya mein breaths le raha hai, lekin har breath bahut shallow hai. Lungs ke gas exchange wale area, yaani alveoli, tak sufficient fresh air nahi pahunch sakti. Isliye normal rate par bhi effective alveolar ventilation inadequate ho sakti hai aur carbon dioxide retain ho sakti hai. Nurse breathing depth, effort, consciousness aur relevant clinical findings assess karti hai aur indicated tests arrange karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Frequency rate se directly assess hoti hai.
-- **B:** Observation timing rate calculation ka basis hai.
-- **C:** Breaths/min document karna possible hai.
-- **D:** Adequate ventilation sirf frequency se prove nahi hoti.
+- **A:** Rate count karne se frequency pata chalti hai aur use expected reference range se compare kar sakte hain.
+- **B:** Breaths ka count aur observation duration rate calculation ke liye use hote hain. Question us rate ki clinical limitation ke baare mein hai.
+- **C:** Nurse observed breaths per minute document kar sakti hai. Normal frequency record karne se ventilation ki adequacy establish nahi hoti.
+- **D:** Effective ventilation breath ki depth aur dead space jaise factors par bhi depend karti hai. Sirf rate se adequate ventilation confirm nahi hoti, isliye D sahi hai.
 
-**Exam clue:** Rate is not depth or alveolar ventilation.
+**Exam clue:** Normal respiratory rate ko normal ventilation ka proof mat samjho. Breath ki depth aur patient ki condition bhi assess karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK482502/?report=printable)
 <!-- /job5-rationale -->
@@ -173,17 +169,16 @@ Respiratory rate sirf frequency batati hai. Tidal volume ek breath ka air volume
 
 **Correct answer: B. Activity context and whether the patient has recovered toward resting status**
 
-<!-- job5-rationale -->
-Walking se muscles ki oxygen demand aur CO2 production increase ho sakti hai, isliye rate temporary rise kar sakti hai. Measurement ke time activity aur symptoms document karo, stable patient ko rest ke baad reassess karo. Persistent tachypnea ya breathlessness ko exercise bolkar dismiss mat karo.
+Walking ke dauran muscles ko energy banane ke liye zyada oxygen ki zaroorat pad sakti hai aur carbon dioxide production bhi badh sakti hai. Body is demand ko meet karne ke liye breathing frequency temporarily badha sakti hai. Nurse reading ke saath record karti hai ki patient abhi bathroom tak chal kar aaya hai aur koi symptom hai ya nahi. Agar patient stable hai, toh rest ke baad reassessment se recovery ka idea mil sakta hai. Agar breathlessness ya fast breathing persist karti hai, toh use sirf activity ka normal effect maan kar ignore nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Activity serious cause exclude nahi karti.
-- **B:** Activity context aur recovery trend reading interpret karne mein help karte hain.
-- **C:** Post-activity value ko resting label dena inaccurate hai.
-- **D:** Fixed subtraction individual physiological response represent nahi karti.
+- **A:** Activity respiratory rate affect kar sakti hai, lekin serious respiratory ya circulatory problem exclude nahi karti. Persistent symptoms assess karne chahiye.
+- **B:** Activity aur resting baseline ki taraf recovery ka context reading ko correctly interpret karne mein help karta hai. Isliye B sahi hai.
+- **C:** Walking ke turant baad reading ko resting rate label karna actual measurement conditions ko misrepresent karega.
+- **D:** Exercise response har patient mein different ho sakta hai. Fixed breaths subtract karke resting rate estimate karna reliable nahi hai.
 
-**Exam clue:** Note activity, symptoms and recovery.
+**Exam clue:** Activity, symptoms aur recovery trend record karo aur concerning findings par clinical review arrange karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -212,17 +207,16 @@ Walking se muscles ki oxygen demand aur CO2 production increase ho sakti hai, is
 
 **Correct answer: A. Allow a quiet interval and assess spontaneous breathing**
 
-<!-- job5-rationale -->
-Speech ke liye expiration aur inspiration voluntarily modify hote hain. Routine resting RR count karte waqt stable patient ko quiet interval do aur spontaneous breaths observe karo. Patient ko unnecessarily controlled breathing karne ko na bolo. Distressed patient ki immediate assessment conversation finish hone tak delay mat karo.
+Baat karte waqt hum apni breathing ko naturally modify karte hain, kyunki words bolne ke liye air expiration ke dauran bahar nikalti hai. Isliye continuously baat karne wale stable patient ki respiratory rate natural resting pattern se different ho sakti hai. Nurse patient ko general assessment samjha kar ek quiet interval deti hai aur spontaneous breathing observe karti hai. Patient ko deliberately deep ya fast breaths lene ke liye nahi kehna chahiye. Agar patient respiratory distress mein hai, toh routine measurement ke ideal conditions ka wait kiye bina immediate assessment karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Quiet spontaneous breathing resting observation ke liye suitable hai.
-- **B:** Faster speech pattern alter karegi.
-- **C:** Spoken words complete respiratory cycles nahi hain.
-- **D:** Previous shift rate current assessment replace nahi karti.
+- **A:** Quiet interval mein spontaneous breathing observe karne se resting pattern better capture ho sakta hai. Isliye A sahi hai.
+- **B:** Patient ko aur fast bolne ke liye kehne se breathing pattern aur modify hoga. Isse resting rate accurately measure nahi hogi.
+- **C:** Spoken words respiratory cycles nahi hain. Ek breath mein patient multiple words bol sakta hai.
+- **D:** Previous shift ki rate comparison ke liye useful hai, lekin current breathing assessment ka substitute nahi hai.
 
-**Exam clue:** Observe spontaneous breathing, not speech.
+**Exam clue:** Routine resting respiration mein quiet spontaneous breaths count karo, conversation ke words nahi.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -251,17 +245,16 @@ Speech ke liye expiration aur inspiration voluntarily modify hote hain. Routine 
 
 **Correct answer: D. Cheyne–Stokes respiration**
 
-<!-- job5-rationale -->
-Cheyne–Stokes mein ventilation cyclically build up aur decrease hoti hai, jiske baad central apnea ya marked hypopnea aa sakti hai. Classic exam pattern waxing, waning aur pause hai. Heart failure, neurologic disease ya sleep-related conditions ke saath association ho sakti hai, lekin pattern alone cause ya prognosis establish nahi karta. New symptomatic pattern prompt assessment maangta hai.
+Cheyne–Stokes breathing mein breaths ki depth ek cycle mein gradually badhti hai, phir gradually kam hoti hai aur uske baad breathing ka pause ya marked hypopnea aa sakti hai. Maan lo pehle shallow breaths hain, phir deeper breaths aati hain aur dheere-dheere shallow hokar pause aa jaata hai. Ye cycle repeat ho sakti hai. Heart failure, neurological disease aur sleep-related conditions mein aisi breathing mil sakti hai. Sirf pattern se exact cause ya prognosis confirm nahi hota. Naya ya symptomatic pattern milne par nurse patient ki condition assess karti hai aur appropriate escalation karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Kussmaul typically deep sustained compensatory breathing hai.
-- **B:** Eupnea comfortable regular breathing hai.
-- **C:** Tachypnea frequency batati hai, cyclic depth aur apnea nahi.
-- **D:** Waxing-waning depth followed by pause classic Cheyne–Stokes pattern hai.
+- **A:** Kussmaul breathing mein generally sustained deep breaths hoti hain jo metabolic acidosis ko compensate karne mein help karti hain. Repeated gradual depth changes aur apnea iska classic pattern nahi hai.
+- **B:** Eupnea normal comfortable breathing ko kehte hain. Given repeated apnea aur changing depth normal quiet pattern nahi hain.
+- **C:** Tachypnea sirf increased respiratory frequency describe karti hai. Is term se cyclic depth changes aur pauses explain nahi hote.
+- **D:** Gradually increasing depth, gradually decreasing depth aur repeated pauses Cheyne–Stokes pattern ke features hain. Isliye D sahi hai.
 
-**Exam clue:** Crescendo → decrescendo → pause.
+**Exam clue:** Cheyne–Stokes mein depth pehle badhti hai, phir kam hoti hai aur phir breathing pause aa sakta hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -290,17 +283,16 @@ Cheyne–Stokes mein ventilation cyclically build up aur decrease hoti hai, jisk
 
 **Correct answer: C. Kussmaul breathing**
 
-<!-- job5-rationale -->
-Severe metabolic acidosis mein body arterial CO2 reduce karke pH disturbance partially compensate karne ki koshish karti hai. Deep sustained breathing, often rapid, ko Kussmaul breathing kehte hain. DKA classic example hai, lekin other metabolic acidosis causes bhi possible hain. Nurse underlying cause ki urgent evaluation facilitate kare, breathing suppress karne ki koshish na kare.
+Metabolic acidosis mein body ke acid-base balance ki wajah se blood ka pH low ho sakta hai. Body respiration ke through carbon dioxide bahar nikal kar disturbance ko partially compensate karne ki koshish karti hai. Is wajah se patient sustained unusually deep aur aksar rapid breaths le sakta hai. Ise Kussmaul breathing kehte hain. Diabetic ketoacidosis iska classic example hai, lekin doosre metabolic acidosis causes bhi possible hain. Nurse underlying cause ki urgent evaluation aur treatment facilitate karti hai. Compensatory breathing ko independently suppress nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Eupnea mein unusual deep respiratory effort nahi hota.
-- **B:** Apnea mein airflow absent hota hai, yahan breaths present hain.
-- **C:** Kussmaul metabolic acidosis ki classic compensatory pattern hai.
-- **D:** Cheyne–Stokes mein cyclic waxing-waning aur pauses hote hain.
+- **A:** Eupnea normal quiet comfortable breathing hai. Severe acidosis ke saath unusual sustained deep respiration us description se match nahi karti.
+- **B:** Apnea mein breathing absent hoti hai. Yahan patient active deep breaths le raha hai.
+- **C:** Kussmaul breathing metabolic acidosis mein deep sustained compensatory respiration ka classic description hai. Isliye C sahi hai.
+- **D:** Cheyne–Stokes mein respiratory depth cyclically badhti aur kam hoti hai aur pauses aa sakte hain. Yahan sustained deep breathing describe hui hai.
 
-**Exam clue:** Kussmaul = deep compensation for metabolic acidosis.
+**Exam clue:** Metabolic acidosis mein sustained deep compensatory breaths ko Kussmaul breathing ke roop mein pehchaano.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -329,17 +321,16 @@ Severe metabolic acidosis mein body arterial CO2 reduce karke pH disturbance par
 
 **Correct answer: A. Biot-type or cluster breathing**
 
-<!-- job5-rationale -->
-Traditional nursing exam terminology mein Biot-type ya cluster breathing irregular groups of breaths ke beech apneic pauses ko describe kar sakti hai. Exact terminology textbooks mein vary karti hai, isliye observed depth, rhythm aur pause duration objectively record karo. New irregular apnea potentially serious neurologic ya respiratory problem ka signal ho sakti hai.
+Traditional nursing terminology mein Biot-type ya cluster breathing mein breaths ke groups ke beech irregular apneic pauses aa sakte hain. Maan lo patient kuch breaths leta hai, phir breathing rukti hai aur phir doosra cluster shuru hota hai. Cheyne–Stokes ki tarah depth gradually badhne aur kam hone ka clear cyclic pattern yahan nahi hai. Textbooks mein Biot aur ataxic breathing ki terminology vary kar sakti hai, isliye nurse actual depth, rhythm aur pause duration objectively document karti hai. New irregular apnea neurological ya respiratory deterioration ka sign ho sakti hai aur prompt assessment chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Clustered breathing aur irregular pauses given description se match karte hain.
-- **B:** Cheyne–Stokes mein depth gradual increase aur decrease hoti hai.
-- **C:** Eupnea quiet regular respiration hai, apneic clusters nahi.
-- **D:** Simple tachypnea frequency increase batati hai, pattern nahi.
+- **A:** Breaths ke clusters aur irregular apneic pauses traditional Biot-type description se match karte hain. Isliye A sahi hai.
+- **B:** Cheyne–Stokes breathing mein depth ka gradual increase aur decrease characteristic hai. Question mein ye feature absent hai.
+- **C:** Eupnea quiet regular breathing ko describe karti hai. Apneic pauses aur clustered breaths is normal pattern mein expected nahi hain.
+- **D:** Tachypnea increased frequency ka term hai. Sirf isse clusters aur apnea wala pattern describe nahi hota.
 
-**Exam clue:** Cluster pauses without gradual waxing-waning.
+**Exam clue:** Irregular clusters aur pauses mein actual breathing pattern document karo. Gradual waxing-waning na ho toh Biot-type pattern consider karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
@@ -368,17 +359,16 @@ Traditional nursing exam terminology mein Biot-type ya cluster breathing irregul
 
 **Correct answer: D. Tachypnea**
 
-<!-- job5-rationale -->
-Tachypnea ka matlab age aur clinical context ke expected range se fast breathing hai. Resting adults mein commonly 12–20 breaths/min reference use hota hai, lekin infants aur children ke ranges different hain. Fever, pain, respiratory compromise aur metabolic acidosis possible causes hain. Fast rate cause confirm nahi karti.
+Tachypnea ka matlab hai ki patient ki breathing frequency uski age aur clinical situation ke expected range se zyada hai. Resting adults mein commonly 12–20 breaths/min reference range use hoti hai, lekin infants aur children mein expected rates alag hoti hain. Fever, pain, respiratory compromise ya metabolic acidosis ki wajah se rate badh sakti hai. Nurse actual rate ke saath effort, depth, symptoms aur oxygenation assess karti hai. Sirf fast breathing se exact underlying cause diagnose nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** Bradypnea expected range se slow rate hai.
-- **B:** Orthopnea supine posture-related breathlessness hai.
-- **C:** Apnea temporary absence of breathing hai.
-- **D:** Tachypnea increased frequency describe karti hai.
+- **A:** Bradypnea ka matlab expected range se slow breathing hai. Ye fast frequency ka opposite description hai.
+- **B:** Orthopnea mein patient ko flat letne par saans lene mein difficulty hoti hai aur upright position mein relief mil sakta hai. Ye rate ka term nahi hai.
+- **C:** Apnea mein breathing temporarily absent hoti hai. Tachypnea mein breathing present hai, lekin frequency fast hai.
+- **D:** Expected range se increased respiratory frequency ko tachypnea kehte hain. Isliye D sahi hai.
 
-**Exam clue:** Tachy = fast, brady = slow.
+**Exam clue:** Tachypnea fast breathing aur bradypnea slow breathing ko describe karti hain. Age aur clinical context zaroor consider karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration)
 <!-- /job5-rationale -->
