@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: biochemistry-batch03-20261128-0603Z
+Scope: Existing PR42 branch only, Biochemistry and Pathology new candidate topic banks, Batch 01 concepts and diagrams and chapter-local checkpoint. No shared navigation, other chapter, website or automation edits.
+Claimed UTC: 2026-11-28T06:02:50Z
+Expiry UTC: 2026-11-28T06:32:50Z
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
