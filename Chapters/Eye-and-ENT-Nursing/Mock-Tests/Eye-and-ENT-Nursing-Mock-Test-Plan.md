@@ -141,4 +141,4 @@ Post-replacement structural verification: 120 consecutive Mock 02 questions, 480
 
 Next: complete remaining external semantic corpus, unlinked files including archived explanation drafts, all-question comparisons and post-cutoff additions. Include six replacement positions Q048/Q094/Q096/Q103/Q110/Q113. Continue dedicated MCQ video evidence research and rendered UI checks. Do not repeat completed clinical reviews unless a specific defect arises. One assembled practice edition, zero fully certified mocks. Mock 02 remains staged; no Mock 03 authorship.
 
-<!-- Mock-only scope claim: FREE. Owner: none. Released after verified residual semantic audit and Q110 replacement. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-semantic-20261128-0214. Scope: read-only comparison of external study files and Mock 02 audit ledger and mock plan only. Claimed UTC: 2026-11-28T02:14:00Z. Expiry UTC: 2026-11-28T02:44:00Z. -->
