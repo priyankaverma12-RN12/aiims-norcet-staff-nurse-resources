@@ -113,3 +113,6 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Powers of labour — 28 November 2026
 
 [Clinical and historical research](07D-Powers-of-Labour-Evidence.md). BHU 2019 frequency report and DSSSB 2019 hypertonic activity report directly retrieved, clinical explanation caveats recorded. RRB 2025 partograph report reserved. HPRCA indexed lead not authenticated. All 20 dedicated item-level video gaps remain pending. No new historical adaptation counted, Obstetrics total 25.
+
+## Passenger — 28 November 2026
+[Clinical and exam research gaps](07E-Passenger-Fetal-Factors-Evidence.md). DSSSB official paper listing and prior Q125/Q126 leads, Himachal reported leads, 9 broad provisional MCQ video mappings and 11 specific gaps. Zero exact playback, no new historical adaptation counted.
