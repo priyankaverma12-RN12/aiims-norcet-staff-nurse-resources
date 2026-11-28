@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr62-b03-20261128T1337Z
+Scope: PR62 Batch03 new distinct public health programme topic banks only: NQAS primary care quality, RBSK service coordination, National Deworming Day service delivery, food safety surveillance, community snakebite prevention and referral. Exclude PR61 banks, PR62 existing banks and specialty clinical treatment. Draft only.
+Claimed UTC: 2026-11-28T13:37:00Z
+Expiry UTC: 2026-11-28T14:07:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
