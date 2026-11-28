@@ -109,6 +109,8 @@ with sync_playwright() as p:
         # Library entry point: counts and controls must be reachable without using Progress first.
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
+        if respiratory.locator(".chapter-card-details").get_attribute("open") is None:
+            respiratory.locator(".chapter-card-details > summary").click()
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
         library_ids=page.locator(".chapter-card .chapter").evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc').split('/')[1])")
         assert len(library_ids)==len(set(library_ids)) and set(library_ids)=={c["id"] for c in expected["chapters"]}

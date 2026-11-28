@@ -734,3 +734,14 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
  .chapter-card-details>summary{font-size:.75rem}
  #reading-tools-panel .study-panel-body{display:flex;align-items:center}
 }
+
+/* Mobile chapter cards keep their disclosure beside the title, not in an extra row. */
+@media(max-width:600px){
+ .chapter-card{position:relative}
+ .chapter-card .chapter{padding-right:3.4rem;min-height:54px}
+ .chapter-card .chapter-arrow{display:none}
+ .chapter-card-details{border-top:0}
+ .chapter-card-details>summary{position:absolute;right:.25rem;top:.25rem;width:44px;height:44px;padding:0;justify-content:center;font-size:0;gap:0;border-radius:8px;background:var(--paper);border:1px solid var(--line)}
+ .chapter-card-details>summary::after{margin:0}
+ .chapter-card-details[open]>.chapter-links{border-top:1px solid var(--line)}
+}
