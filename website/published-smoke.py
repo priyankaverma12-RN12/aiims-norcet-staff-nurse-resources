@@ -51,10 +51,10 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
-        response=api.get(urljoin(base,filename)+"?v=11.8&build="+commit,headers={"Cache-Control":"no-cache"})
+    for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
+        response=api.get(urljoin(base,filename)+"?v="+("11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
-        print("Published V11.8 asset exact readback:",filename,flush=True)
+        print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
     browser=p.chromium.launch()
     for width,height in [(1440,900),(390,844)]:
@@ -68,8 +68,9 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
-            assert page.evaluate("""name=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')==='11.8'})""",filename), f"Wrong live asset version: {filename}"
+        for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
+            version="11.8" if filename in ("progress.js","study-ui.js") else "11.9"
+            assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
         expect(page.locator(".study-day-date")).to_have_count(7)
@@ -144,6 +145,9 @@ with sync_playwright() as p:
         # Marked completion and an actual answer in the same bank do not count twice.
         go({"doc":sample})
         ready()
+        expect(page.locator("#content .difficulty-label[data-level=easy]").first).to_be_visible()
+        expect(page.get_by_role("button",name="Start timed practice")).to_have_attribute("data-ui-icon","timer")
+        assert page.get_by_role("button",name="Start timed practice").bounding_box()["height"]>=44
         page.get_by_role("button",name="Learn with instant feedback").click()
         page.locator("input[name=learn-choice][value=B]").check()
         page.get_by_role("button",name="Check answer").click()
@@ -445,6 +449,7 @@ with sync_playwright() as p:
         expect(page.locator(".learning-greeting")).to_contain_text("needs more practice")
         expect(page.locator(".learning-result")).to_have_attribute("data-performance","review")
         expect(page.locator(".learning-result.result-celebration")).to_have_count(0)
+        expect(page.locator(".learning-result .study-celebration,.learning-result .study-confetti")).to_have_count(0)
         expect(page.locator(".learning-result-stats")).to_contain_text("Incorrect")
         page.locator(".learning-missed-review > summary").click()
         expect(page.locator(".learning-missed-review .review-card")).to_have_count(4)
@@ -459,6 +464,8 @@ with sync_playwright() as p:
         expect(page.locator(".learning-result .result-score")).to_contain_text("100.0% correct")
         expect(page.locator(".learning-greeting")).to_have_text("Hurrah! Perfect score!")
         expect(page.locator(".learning-result.result-celebration")).to_be_visible()
+        expect(page.locator(".learning-result > .study-celebration")).to_have_attribute("aria-hidden","true")
+        expect(page.locator(".learning-result > .study-confetti")).to_have_count(0)
         assert page.locator(".learning-result .result-check").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         print(f"Performance-based learning score, low-score coaching, exact missed-answer retry and perfect-score reward passed at {width}x{height}.",flush=True)
@@ -472,6 +479,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-progress-label strong")).to_have_text("64 / 50 MCQs")
         expect(page.locator(".daily-progress-label")).to_contain_text("14 extra MCQs")
         expect(page.locator("#daily-study h2")).to_have_text("Hurrah! Goal exceeded!")
+        expect(page.locator(".daily-congratulations .study-celebration")).to_be_visible()
+        expect(page.locator(".daily-congratulations .study-confetti")).to_have_count(0)
         expect(page.locator(".daily-goal-status")).to_contain_text("128%")
         expect(page.locator(".study-day.today strong")).to_have_text("64")
         expect(page.locator(".daily-milestone[data-reached=true]")).to_have_count(4)

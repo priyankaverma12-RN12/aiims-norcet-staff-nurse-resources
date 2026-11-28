@@ -79,9 +79,10 @@ function currentRevisionCount(record,d,day=localDay()){const saved=d.banks[recor
 function topicLabel(p){const s=bankProgress(loadRoutine(),p);if(!s.checked)return '';return s.due?s.due+' due for revision':s.checked+' / '+s.total+' practised'}
 function studyLabel(p){const label=topicLabel(p);if(!label)return null;return node('span',label,'personal-topic-label')}
 function drawRoutine(data){
- const panel=document.getElementById('daily-study');if(!panel)return;const weeklyWasOpen=panel.querySelector('.daily-week-details')?.open||false;panel.replaceChildren();
+ const panel=document.getElementById('daily-study');if(!panel)return;const weeklyWasOpen=panel.querySelector('.daily-week-details')?.open||false,previousGoal=panel.dataset.goalReached;panel.replaceChildren();
  const d=loadRoutine(),marks=currentStudyMarks(),today=localDay(),daily=dailyStudyStats(d,marks,today),count=daily.total,goal=DAILY_MCQ_GOAL,completed=count>=goal,feedback=dailyGoalFeedback(count);
  const header=node('div',undefined,'daily-header'),heading=node('div');heading.append(node('p','YOUR DAILY STUDY','kicker'),node('h2',feedback.title),node('p',new Date(today+'T12:00:00').toLocaleDateString('en-IN',{weekday:'long',day:'numeric',month:'long',year:'numeric'}),'daily-calendar-date'),node('p',feedback.message,'muted daily-encouragement'));
+ panel.dataset.goalReached=String(completed);if(completed&&typeof addStudyCelebration==='function'){heading.classList.add('daily-congratulations');addStudyCelebration(heading,previousGoal==='false')}
  const target=node('div',undefined,'daily-target');target.append(node('span','DAILY GOAL'),node('strong','50 MCQs'));header.append(heading,target);panel.append(header);
  const stats=node('div',undefined,'daily-progress'),total=node('div',undefined,'daily-total');total.append(node('span','Total studied today'),node('strong',count.toLocaleString('en-IN')+' MCQs'));stats.append(total);
  const label=node('div',undefined,'daily-progress-label');label.append(node('strong',count+' / '+goal+' MCQs'),node('span',completed?(count===goal?'Goal reached':(count-goal)+' extra MCQs'):feedback.remaining+' remaining'));const meter=node('progress');meter.max=goal;meter.value=Math.min(count,goal);meter.setAttribute('aria-label','Daily 50-MCQ goal progress');stats.append(label,meter);

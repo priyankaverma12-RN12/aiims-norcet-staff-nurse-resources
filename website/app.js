@@ -71,10 +71,29 @@ async function home(){drawMarks();const [md,catalog,metrics]=await Promise.all([
  function draw(){const q=$('search').value.trim().toLowerCase(),g=$('group-filter').value;const filtered=chapters.filter(c=>(!g||c.group===g)&&(c.id+' '+c.name+' '+c.group).toLowerCase().includes(q));$('chapters').replaceChildren();$('count').textContent=filtered.length+' of '+chapters.length+' chapters';$('clear-library').hidden=!q&&!g;if(!filtered.length){$('chapters').append(node('div','No matching chapters. Try a different search or study area.','empty-state'));return}
  for(const group of groups){const list=filtered.filter(c=>c.group===group);if(!list.length)continue;const area=node('section',undefined,'chapter-group'),h=node('h3');h.append(node('span',String(groups.indexOf(group)+1).padStart(2,'0'),'group-number'),node('span',group),node('span',list.length+' chapters','group-count'));area.append(h);const grid=node('div',undefined,'chapter-grid');for(const c of list){const card=node('div',undefined,'chapter-card'),a=node('a',undefined,'chapter');a.href=route('Chapters/'+c.id+'/README.md');const icon=node('span',groupIcons[groups.indexOf(group)%groupIcons.length],'chapter-icon');icon.setAttribute('aria-hidden','true');const title=node('div');title.append(node('strong',c.name));if(c.id==='Nervous-System')title.append(node('small','Separate legacy study resources','chapter-legacy-note'));addInventoryCount(title,'Chapters/'+c.id+'/README.md');a.append(icon,title,node('span','↗','chapter-arrow'));const links=node('div',undefined,'chapter-links');for(const [label,folder] of availableSections(catalog,c.id).slice(1)){const l=node('a',label);l.href=route('Chapters/'+c.id+'/'+folder);l.setAttribute('aria-label',c.name+' '+label);l.dataset.studySection=folder.split('/')[0];addInventoryCount(l,'Chapters/'+c.id+'/'+folder);links.append(l)}card.append(a,links);const tracker=chapterCardProgress(c.id);if(tracker)card.append(tracker);grid.append(card)}area.append(grid);$('chapters').append(area)}}
  $('search').oninput=draw;$('group-filter').onchange=draw;$('clear-library').onclick=()=>{$('search').value='';$('group-filter').value='';draw();$('search').focus()};draw()}
+// Style explicit difficulty metadata only; preserve clinical content and question identity.
+function decorateQuestionDifficulty(target){
+ for(const p of target.querySelectorAll('p')){
+  if(p.closest('details,.explanation-body,pre,code')||!/^Difficulty\s*:/i.test(p.textContent.trim()))continue;
+  const walker=document.createTreeWalker(p,NodeFilter.SHOW_TEXT);
+  let text;
+  while((text=walker.nextNode())){
+   if(text.parentElement.closest('a,code,.difficulty-label'))continue;
+   const match=/(?:[🟢🟡🔴]\s*)?\b(Easy|Medium|Difficult|Hard)\b/i.exec(text.nodeValue);
+   if(!match)continue;
+   const level=match[1].toLowerCase(),badge=node('span',undefined,'difficulty-label');
+   badge.dataset.level=level==='hard'?'difficult':level;
+   const icon=node('span',undefined,'difficulty-icon');icon.setAttribute('aria-hidden','true');
+   for(let i=0;i<3;i++)icon.append(node('i'));
+   badge.append(icon,document.createTextNode(match[1]));
+   text.replaceWith(document.createTextNode(text.nodeValue.slice(0,match.index)),badge,document.createTextNode(text.nodeValue.slice(match.index+match[0].length)));break;
+  }
+ }
+}
 function renderQuiz(target,md,p){
  target.innerHTML=DOMPurify.sanitize(marked.parse(md,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});
  for(const a of target.querySelectorAll('a[href]')){const href=a.getAttribute('href');if(href.startsWith('#'))continue;const r=resolveResource(href,p);if(!r){a.removeAttribute('href');continue}if(!r.external){const t=r.path;if(safe(t)&&(/\.md$/i.test(t)||t.endsWith('/')))a.href=route(t,r.hash);else a.href=sourceLink(t)+r.hash}else{a.href=r.url;a.target='_blank';a.rel='noopener noreferrer'}}
- decorateImages(target,p);decorateDiagrams(target,p);
+ decorateQuestionDifficulty(target);decorateImages(target,p);decorateDiagrams(target,p);
 }
 function makeBreadcrumb(p){
  const parts=p.split('/').filter(Boolean),nav=$('breadcrumbs');nav.replaceChildren();const list=node('ol');nav.append(list);
