@@ -1,10 +1,16 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-07d-school-age-20261128-0832Z
-Scope: PR35 isolated school-age nutrition 07D new topic bank, concept and diagram, candidate-local inventory only. No shared navigation, adjacent chapter, other jobs or schedule changes.
-Claimed UTC: 2026-11-28T08:32:00Z
-Expiry UTC: 2026-11-28T09:02:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 07D school-age nutrition and school meals
+
+Candidate head: 55b40c6f59c2ccfe8550316ee0e03b76a2e13a27
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-07d-school-age-20261128-0832Z
+
+Actual new bank commit 6acb1a113b51eaf50bac453f4577195144f5fac4, final corrected bank 04f1f2ab7526140ec81e9ed628b9e2ba1473aad4, final blob 232c4bc258edb36b4de4bc3553b945d2cfbdb0c3. Original diagram 7550440407f2cbbd5659ca11ee4fd00cc115c0b7, guide e30eb6812dc46b0e4e5cb42f8a130f8fea40aec3. All exact remote readbacks. SVG rendered locally with exact matching blob. 20 new original candidates, 80 individual rationales, five keys per letter, zero normalized matches against all 640 prior staged stems. 660 staged originals, 2640 rationales, 33 banks, 16 guides, 16 original SVGs. Four legacy live originals and one adaptation preserved. Independent clinical, semantic, INC, evidence/video, full preflight, PR7/8 clearance and CI/browser rendering remain pending. Exact candidate CI 46126654687 pending at check. No merge or live credit, website, learner history or automation changes. Next: elderly nutrition after adjacent PR39 screening, then genuine programme/food standards gaps.
 
 ## Latest released checkpoint — 07C food exchange, menu and budget planning
 
