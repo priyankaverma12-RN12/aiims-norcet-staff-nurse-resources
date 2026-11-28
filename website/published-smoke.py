@@ -52,7 +52,7 @@ with sync_playwright() as p:
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
     for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-        response=api.get(urljoin(base,filename)+"?v="+("11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
+        response=api.get(urljoin(base,filename)+"?v="+("12.0" if filename in ("app.js","styles.css","routine.js") else "11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
         print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
@@ -69,7 +69,7 @@ with sync_playwright() as p:
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
         for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-            version="11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9"
+            version="12.0" if filename in ("app.js","styles.css","routine.js") else "11.8" if filename in ("progress.js","study-ui.js") else "11.9"
             assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
@@ -91,6 +91,16 @@ with sync_playwright() as p:
         page.locator(".daily-week-details>summary").click()
         print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
+        if width<600:
+            expect(page.locator("#library-filters")).to_be_hidden()
+            expect(page.locator("#recent-panel")).not_to_have_attribute("open","")
+            expect(page.locator("#saved-panel")).not_to_have_attribute("open","")
+            assert page.locator(".library-toolbar").bounding_box()["height"]<=60
+            page.locator("#library-panel-toggle").click()
+            expect(page.locator("#library-results")).to_be_hidden()
+            page.locator("#library-search-toggle").click()
+            expect(page.locator("#library-results")).to_be_visible()
+            expect(page.locator("#library-filters")).to_be_visible()
         page.locator("#search").fill("no matching chapter xyz")
         expect(page.locator("#chapters .empty-state")).to_be_visible()
         page.locator("#clear-library").click()
@@ -158,6 +168,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        if page.locator("#recent-panel").get_attribute("open") is None:
+            page.locator("#recent-panel > summary").click()
         recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(recent.locator("input[type=checkbox]")).to_be_checked()
         recent.locator("input[type=checkbox]").uncheck()

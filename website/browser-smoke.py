@@ -150,6 +150,12 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator("#metrics-personal .history-month")).to_have_count(12)
         expect(page.locator("#metrics-personal .history-period")).to_have_count(3)
+        for target in ("#history-panel-toggle","#metrics-summary-panel","#metrics-filter-panel"):
+            panel=page.locator(target)
+            panel.locator(":scope > summary").click()
+            expect(panel.locator(":scope > .study-panel-body")).to_be_hidden()
+            panel.locator(":scope > summary").click()
+            expect(panel.locator(":scope > .study-panel-body")).to_be_visible()
         # Temporary isolated fixture, restore exactly before the existing integration suite.
         page.evaluate("""()=>{window.historyFixtureBackup=localStorage.getItem(routineKey);const d=emptyRoutine();const t=localDay();d.days[t]={'fixture':['one','one','two']};d.days['2020-12-15']={'fixture':['old']};localStorage.setItem(routineKey,JSON.stringify(d));document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
         expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
@@ -488,8 +494,35 @@ try:
                     assert mobile.locator(".hero-copy").evaluate("e=>getComputedStyle(e).animationName")== "none"
                 mobile.evaluate("window.scrollTo(0,500)")
                 assert abs(mobile.locator(".topbar").bounding_box()["y"])<=2
+            if width<=600:
+                expect(mobile.locator("#library-filters")).to_be_hidden()
+                expect(mobile.locator("#recent-panel")).not_to_have_attribute("open","")
+                expect(mobile.locator("#saved-panel")).not_to_have_attribute("open","")
+                assert mobile.locator(".library-toolbar").bounding_box()["height"]<=60
+                for target in ("#daily-panel","#recent-panel","#saved-panel"):
+                    panel=mobile.locator(target)
+                    was_open=panel.get_attribute("open") is not None
+                    panel.locator(":scope > summary").tap()
+                    assert (panel.get_attribute("open") is not None)!=was_open
+                    panel.locator(":scope > summary").tap()
+                mobile.locator("#library-panel-toggle").tap()
+                expect(mobile.locator("#library-results")).to_be_hidden()
+                mobile.locator("#library-search-toggle").tap()
+                expect(mobile.locator("#library-results")).to_be_visible()
+                expect(mobile.locator("#library-filters")).to_be_visible()
+                assert mobile.locator("#library-search-toggle").bounding_box()["height"]>=44
+                print(f"V12 compact mobile library and independent panels passed at {width}x{height}.",flush=True)
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
+            group=mobile.locator(".study-area-panel").first
+            group.locator(":scope > summary").tap()
+            expect(group.locator(".chapter-grid")).to_be_hidden()
+            group.locator(":scope > summary").tap()
+            card=mobile.locator(".chapter-card-details").first
+            card.locator(":scope > summary").tap()
+            expect(card.locator(".chapter-links")).to_be_hidden()
+            card.locator(":scope > summary").tap()
+            expect(card.locator(".chapter-links")).to_be_visible()
             assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
             assert mobile.locator(".chapter-card-progress>a").first.bounding_box()["height"]>=43
             assert mobile.locator(".chapter-card-progress").first.bounding_box()["height"]<=100
