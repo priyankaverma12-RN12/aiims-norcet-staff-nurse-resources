@@ -93,3 +93,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Obstetric ultrasound — 28 November 2026
 
 [RMLIMS Lucknow 7 September 2025 memory-based adaptation](06G-Ultrasound-Reported-Evidence.md). Reported 18–20 weeks contextualized against broader clinical window. Official key unavailable. Historical adaptation inventory 25. MCQ-oriented anomaly-scan topic indexed, exact playback pending.
+
+## Fetal Doppler — 28 November 2026
+
+[Research gaps and sources](06H-Doppler-Evidence-and-Research-Gaps.md). No authenticated nursing recruitment item found in targeted searches, zero new historical items counted. Medical-exam video lead is not nursing-specific. All eight fetal assessment packages published. Obstetrics historical adaptation total remains 25.
