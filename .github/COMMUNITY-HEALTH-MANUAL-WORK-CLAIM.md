@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b09-20261128-1225Z
+Scope: PR61 Batch09 Easy/Medium balance, deficient banks 06–12,14–20,22–23 only; defer PR62 overlapping 01–05, PR66 malaria/communicable, and adjacent specialist topics. Add separate topic-mapped supplements, preserve all original IDs. No PR62 or shared navigation changes.
+Claimed UTC: 2026-11-28T12:25:35Z
+Expiry UTC: 2026-11-28T12:55:35Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
