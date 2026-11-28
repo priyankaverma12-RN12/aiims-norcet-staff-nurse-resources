@@ -969,7 +969,7 @@
 ## Evidence and review status
 
 - [MSD tension pneumothorax](https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/tension-pneumothorax) — Q1–10.
-- [BTS pleural procedures](https://www.brit-thoracic.org.uk/clinical-resources/clinical-statements/pleural-procedures/) — Q5, Q8, Q45–46, Q50.
+- [BTS clinical statement on pleural procedures](https://thorax.bmj.com/content/78/Suppl_3/s43) — Q5, Q8, Q45–46, Q50.
 - [Cystic Fibrosis Foundation sweat test](https://www.cff.org/medical-professionals/sweat-test-clinical-care-guidelines) — Q14–15.
 - [Cystic Fibrosis Foundation enzymes](https://www.cff.org/managing-cf/enzymes) — Q16, Q19.
 - [MSD respiratory failure overview](https://www.msdmanuals.com/professional/critical-care-medicine/respiratory-failure-and-mechanical-ventilation/overview-of-respiratory-failure) — Q21–40.
@@ -978,3 +978,7 @@
 - [MSD thoracic trauma](https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/overview-of-thoracic-trauma) — Q41–50.
 
 Source pages were visually inspected. Reference search extracts were inspected, but independent question-by-question clinical review, full evidence verification, specific references for remaining CF items, 50 difficulty tags and 50 video mappings are outstanding. No permission to republish the full third-party coaching PDF or questions was established. This is an answer companion, not a standalone interactive test.
+
+### Focused evidence check — 28 November 2026
+
+Search extracts from the [Cystic Fibrosis Foundation sweat test guideline](https://www.cff.org/medical-professionals/sweat-test-clinical-care-guidelines) and [pancreatic enzyme clinical care guideline](https://www.cff.org/medical-professionals/pancreatic-enzymes-clinical-care-guidelines) support Q14–16 and Q19. [CFF enzyme information](https://www.cff.org/managing-cf/enzymes) notes that enzymes are taken with food containing fat or protein, with individualized instructions. [ATS/ESICM/SCCM ARDS ventilation guideline](https://member.thoracic.org/statements/resources/cc/ards-guidelines.pdf) search extract supports lower tidal volumes based on predicted body weight and prone positioning for severe ARDS (Q23–25, Q29). [BTS oxygen guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC5531304/) search extract supports controlled oxygen and individualized blood-gas-based assessment in people at risk of hypercapnia. This focused check does not certify every answer, independent review, or permission to reproduce the source paper.
