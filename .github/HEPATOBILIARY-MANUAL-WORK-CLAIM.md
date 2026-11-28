@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: continuation-pr60-b08-20261128T121552Z
-Scope: PR60 isolated benign focal liver lesions, pancreatic exocrine insufficiency, pancreatic fluid collections, cholangitis and ERCP safety new banks only. No shared navigation or previous content edits.
-Claimed UTC: 2026-11-28T12:15:52Z
-Expiry UTC: 2026-11-28T12:45:52Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -40,3 +40,7 @@ Candidate head 4873ec4939366a6a4120aa40ca6827fb9e4ea66e. Added 100 original MCQs
 ## Batch 07 released checkpoint — 28 November 2026
 
 Candidate head bca900afec5fb655574147e9c2e84cc77ccf9b58. Added 100 original MCQs across five new banks (hepatic neoplasms, hepatic hydrothorax, SBP, HE and ACLF) and 400 individual Roman Hinglish rationales. Exact readbacks passed for five bank files, two corrective writes and appended inventory. Final structural parsing confirms 100 distinct normalized stems, zero exact matches against 544 earlier headings, all 400 options/rationales, 100 aligned keys, clues and closed details. 640 staged originals, 2560 rationales, 640 clues, 32 banks, six existing guides and one SVG. No live count, new mocks or PYQs. Prior bank files unchanged and no shared navigation edits. Independent clinical and exhaustive semantic review, source/video verification, concepts/diagrams, full bounded preflight, curriculum and PR29/7/8 integration gates remain pending. Next check remaining meaningful uncovered topics before authoring or starting mocks; do not regenerate these banks. Preserve other owners, learner history and all five hourly automations.
+
+## Batch 08 released checkpoint — 28 November 2026
+
+Candidate head a0c98fb262ad5013d49127189b7f50b4581f1030. Added 100 originals across five new banks (benign focal liver lesions, exocrine pancreatic insufficiency, pancreatic fluid collections, acute cholangitis and duct stones, ERCP safety) and 400 separate Roman Hinglish rationales. All five banks and inventory exact readbacks passed. 740 staged originals, 2960 rationales, 740 clues, 37 banks, six guides and one SVG. 100 distinct normalized new stems, no exact matches against 140 targeted prior stems, full prior stem comparison incomplete due to tool limit. Previous 32 banks preserved unchanged. Independent reviews, item-specific source/video, concepts/diagrams, full preflight, curriculum and integration gates pending. No live originals, mocks or PYQs added. Continue verified remaining topics, then mutually distinct original-only mocks after certified topic coverage. No other claim, learner history or hourly automation schedule changes.
