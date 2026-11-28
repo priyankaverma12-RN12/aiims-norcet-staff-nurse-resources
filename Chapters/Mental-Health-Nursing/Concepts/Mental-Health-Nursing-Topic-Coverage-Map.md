@@ -2,6 +2,8 @@
 
 This is a curriculum-based checklist, not full theory notes. No learning completion is recorded.
 
+## Topics to study
+
 - Mental status examination
 - therapeutic communication
 - schizophrenia and psychosis
@@ -44,7 +46,7 @@ Ye working map Mental Health Nursing I/II ke B.Sc. Nursing regulation outline au
 | Group | Topic scope | Editorial importance | Status |
 |---|---|---|---|
 | 01 | Mental status examination, speech, affect, perception, thought, cognition, insight, judgment and documentation | 🔴 MOST IMPORTANT | [Concepts](01-Mental-Status-Examination.md), [30 original MCQs](../MCQs/01-Mental-Status-Examination-30-MCQs.md), [3 reported adaptations](../Previous-Year-Questions/01-MSE-Reported-Exam-Practice.md). Study-ready. Independent audit and exact videos pending. |
-| 02 | History taking, psychosocial assessment, MMSE and other screening tools, neurological examination, EEG, CT/MRI, blood chemistry and psychometric tests | 🟠 HIGH YIELD | Pending |
+| 02 | History taking, psychosocial assessment, MMSE and other screening tools, neurological examination, EEG, CT/MRI, blood chemistry and psychometric tests | 🟠 HIGH YIELD | 02A [concepts](02A-Psychiatric-History-Taking.md), [30 MCQs](../MCQs/02A-Psychiatric-History-Taking-30-MCQs.md), [reported practice](../Previous-Year-Questions/02A-History-Assessment-Reported-Evidence.md). 02B [concepts](02B-Psychosocial-Assessment.md), [30 MCQs](../MCQs/02B-Psychosocial-Assessment-30-MCQs.md), [reported practice](../Previous-Year-Questions/02B-Psychosocial-Assessment-Reported-Evidence.md). 02C cognitive screening/MMSE and investigations pending. |
 | 03 | Mental health concepts, history of psychiatry, normal and abnormal behaviour, standards, ethics, roles and multidisciplinary team | 🟡 IMPORTANT | Pending |
 | 04 | Brain, limbic system, neurotransmission, biopsychosocial models, etiology, classification ICD-11 and DSM, terminology | 🟠 HIGH YIELD | Pending |
 | 05 | Personality development, psychodynamics and defence mechanisms | 🔴 MOST IMPORTANT | Pending |
