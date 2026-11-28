@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-08e-major-minerals-20261128-0920Z
-Scope: PR35 isolated dietary sodium, potassium and magnesium nutrition candidate bank, guide, SVG and audit only. Excludes acute electrolyte treatment and published renal diet tasks. No shared navigation, other jobs, learner history or schedule changes.
-Claimed UTC: 2026-11-28T09:19:36Z
-Expiry UTC: 2026-11-28T09:49:36Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 08E dietary sodium, potassium and magnesium
+
+Candidate head: ec2698de717f2816f6b1bc11335f7d57625c7f7d
+Inventory: 780 staged originals, 3120 individual Roman Hinglish rationales, 39 banks, 22 guides, 22 original SVGs. Four legacy originals and one reported adaptation separately preserved. Final bank fbacc32b8684d2faa71e2ed54d598ef61d509f79, guide 212b0eb35eb81d692a8d0328f0ddb480c981c687, SVG 92fd01ee9916d0ec8ddffe2eb35eb87e5b4dfed7. All exact readbacks, final structural checks and matching local SVG render passed. Zero normalized exact matches against 760 prior candidate stems. Two new slots refined during review. Previous CI 46129743356 passed; current CI 46130409440 pending. Draft only, no live credit. Full mandatory preflight, independent clinical/dietetic/pharmacy/regulatory and comprehensive semantic review, AMB 2026 full PDF, INC depth, video evidence, flagged clusters, PR7/8 coordination and integration gates remain pending. Published Renal diet and acute electrolyte management not duplicated intentionally. Next scope genuine remaining Nutrition gaps, cross-chapter screening and priority corrective reviews, then integration before mocks/PYQs. Preserve other jobs, learner history, website and all five hourly automations.
 
 ## Latest released checkpoint — 08D dietary reference intakes and nutrient adequacy
 
