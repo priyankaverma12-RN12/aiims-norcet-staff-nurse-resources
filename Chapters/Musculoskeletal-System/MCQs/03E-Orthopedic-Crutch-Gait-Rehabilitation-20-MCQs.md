@@ -33,30 +33,30 @@
 
 </details>
 
-### Q02. A patient has been taught a non-weight-bearing crutch gait on level ground. During practice the injured foot touches down and supports body weight whenever the unaffected leg advances. Which correction is needed?
+### Q02. In a standardized gait-speed assessment after fracture rehabilitation, a medically cleared patient covers the measured 10-metre segment in 20 seconds. What is the walking speed?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Continue the same technique because the foot contacts the ground only briefly
-- **B.** Remove the crutches and walk slowly
-- **C.** Reinforce the prescribed unloading technique and reassess gait safety before independent walking
-- **D.** Increase affected-limb loading to improve balance
+- **A.** 2.0 m/s
+- **B.** 0.2 m/s
+- **C.** 0.5 m/s
+- **D.** 20 m/s
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Reinforce the prescribed unloading technique and reassess gait safety before independent walking**
+**Correct answer: C. 0.5 m/s**
 
-**A kyun galat hai:** Brief contact bhi actual weight support kare toh NWB violation hai. Duration short hone se load acceptable nahi ho jata.
+**A kyun galat hai:** 2 m/s tab milta jab patient 10 metre ko 5 seconds mein cover karta. Yahan elapsed time 20 seconds diya hai.
 
-**B kyun galat hai:** Crutches remove karne par patient injured side par load daal sakta hai ya fall ho sakta hai. Appropriate device training needed hai.
+**B kyun galat hai:** 0.2 m/s ke liye 10 metre cover karne mein 50 seconds lagte. Given values se yeh speed nahi milti.
 
-**C kyun sahi hai:** Patient ko crutches aur unaffected limb se weight support karna sikhaya gaya hai. Repeated unintended loading restriction violate karti hai, isliye therapist supervised correction aur alternative device if needed assess karega.
+**C kyun sahi hai:** Speed distance divided by time hoti hai. 10 metre ko 20 seconds se divide karne par 0.5 m/s aata hai. Serial assessment mein prescribed aid aur testing protocol bhi record karo.
 
-**D kyun galat hai:** NWB order injured limb se body weight transmit karne ko prohibit karta hai. Balance problem ko increased loading se independently solve nahi karna chahiye.
+**D kyun galat hai:** 20 seconds elapsed time hai, speed nahi. Time ko distance ke saath relate karna zaroori hai.
 
-**Exam clue:** NWB remains a load restriction throughout the gait cycle.
+**Exam clue:** Gait speed = measured distance / elapsed time.
 
-**Clinical reference:** [MedlinePlus using crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [10 Meter Walk Test](https://www.sralab.org/rehabilitation-measures/10-meter-walk-test). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -91,88 +91,88 @@
 
 </details>
 
-### Q04. During level-ground practice, a patient places the crutches so far ahead that the trunk must lean excessively to reach the handgrips. Which change is most appropriate?
+### Q04. During a permitted crutch-assisted gait assessment, a therapist records 72 foot steps in one minute. Which gait parameter is being recorded?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Keep the feet close together and reach forward as far as possible
-- **B.** Remove the crutch rubber tips
-- **C.** Increase crutch placement distance further
-- **D.** Have the therapist shorten the advance distance and restore a stable support position
+- **A.** Stride length
+- **B.** Step width
+- **C.** Walking velocity
+- **D.** Cadence
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Have the therapist shorten the advance distance and restore a stable support position**
+**Correct answer: D. Cadence**
 
-**A kyun galat hai:** Narrow base aur excessive trunk reach control reduce kar sakte hain. Safe step size individualized hona chahiye.
+**A kyun galat hai:** Stride length same foot ki consecutive placements ke beech forward distance hai. Yeh steps per minute nahi hai.
 
-**B kyun galat hai:** Rubber tips friction provide karte hain. Unhe remove karne se sliding risk increase hoga.
+**B kyun galat hai:** Step width dono feet ke beech lateral separation ko describe karti hai. Iska unit distance hota hai.
 
-**C kyun galat hai:** Excess distance center of mass ko support base se awkwardly shift kar sakti hai. Greater distance fall risk badha sakti hai.
+**C kyun galat hai:** Walking velocity distance per unit time hoti hai. Sirf steps ki count se distance pata nahi chalta.
 
-**D kyun sahi hai:** Crutches ko suitable distance par place karna stable support aur controlled weight transfer facilitate karta hai. Therapist patient size, balance aur gait pattern ke according distance teach karta hai.
+**D kyun sahi hai:** Cadence ek minute mein liye gaye steps ki sankhya hai. Is observation mein cadence 72 steps/minute hai. Crutch contacts ko foot steps ke roop mein count nahi karna hai.
 
-**Exam clue:** Crutch advance should remain within a controlled, stable reach.
+**Exam clue:** Cadence is step frequency, not distance or velocity.
 
-**Clinical reference:** [MedlinePlus using crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Gait assessment guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC6028168/). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
 </details>
 
-### Q05. A patient with elbow crutches is prescribed protected weight bearing but reports that a rubber ferrule has split and the exposed tip slides on a smooth floor. What is the safest action?
+### Q05. A patient cleared for a Timed Up and Go (TUG) assessment asks which sequence will be timed. Which explanation is correct?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Stop using the damaged aid until the correct replacement ferrule or safe alternative is provided
-- **B.** Cover the damaged tip with a cloth and continue
-- **C.** Apply oil to improve glide
-- **D.** Walk faster to reduce contact time
+- **A.** Rise from a chair, walk 3 metres, turn, return and sit
+- **B.** Walk continuously for six minutes without a turn
+- **C.** Stand and sit five times without walking
+- **D.** Walk ten metres in a straight line without returning
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Stop using the damaged aid until the correct replacement ferrule or safe alternative is provided**
+**Correct answer: A. Rise from a chair, walk 3 metres, turn, return and sit**
 
-**A kyun sahi hai:** Ferrule floor grip aur device stability maintain karta hai. Damaged tip se slip ho sakta hai, isliye aid use stop karke replacement ya assessed alternate device arrange karo.
+**A kyun sahi hai:** TUG mein chair se uthna, 3 metre chalna, turn lena, wapas aana aur baithna timed sequence hai. Prescribed walking aid aur required safety support protocol ke according record karo.
 
-**B kyun galat hai:** Cloth improvised covering hai aur traction reliably restore nahi karti. Correct compatible ferrule required hai.
+**B kyun galat hai:** Six-minute walk test walking capacity assess karta hai. TUG ka fixed six-minute duration nahi hota.
 
-**C kyun galat hai:** Oil friction reduce karega aur fall risk aur badha sakta hai. Walking aids ko stable contact chahiye.
+**C kyun galat hai:** Repeated sit-to-stand test chair-rise performance assess karta hai. TUG mein walking aur turning bhi include hoti hai.
 
-**D kyun galat hai:** Faster movement damaged equipment ka risk eliminate nahi karta. It may reduce recovery time after slipping.
+**D kyun galat hai:** Straight-distance gait-speed assessment TUG ka complete task nahi hai, kyunki TUG chair transfer aur turn ko bhi assess karta hai.
 
-**Exam clue:** A cracked ferrule is a device safety defect, not merely cosmetic wear.
+**Exam clue:** TUG combines chair rise, short walk, turn and return to sitting.
 
-**Clinical reference:** [Gloucestershire NHS how to use crutches](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/how-use-crutches/). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Timed Up and Go](https://www.sralab.org/rehabilitation-measures/timed-and-go). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
 </details>
 
-### Q06. A patient has an adjustable crutch that appears the correct length, but its spring-loaded adjustment button is only partly engaged in the hole. What should the nurse do?
+### Q06. During a clinician-approved six-minute walk test after orthopedic rehabilitation, the patient takes a brief permitted standing rest because of ordinary exertion, without a termination criterion. How should the assessor handle the timer?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Ask the patient to bear full weight on it to see if it collapses
-- **B.** Tape the shaft in place as the only safety measure
-- **C.** Allow use because the length appears correct
-- **D.** Remove it from use until the adjustment mechanism is securely engaged and checked
+- **A.** Pause the timer during every standing rest
+- **B.** Restart the full six-minute test after the rest
+- **C.** Exclude rest time and report six minutes of actual walking
+- **D.** Keep the timer running, record the rest and measure the total distance within six minutes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Remove it from use until the adjustment mechanism is securely engaged and checked**
+**Correct answer: D. Keep the timer running, record the rest and measure the total distance within six minutes**
 
-**A kyun galat hai:** Unsafe equipment par patient weight daalna fall aur injury risk create karta hai. Device check patient loading se pehle hota hai.
+**A kyun galat hai:** Standing rest ke dauran timer pause karne se standard six-minute interval change ho jayega. Result doosre standardized tests se comparable nahi rahega.
 
-**B kyun galat hai:** Tape manufacturer locking mechanism ka reliable replacement nahi hai. Device safe operating condition verify karni chahiye.
+**B kyun galat hai:** Rest ke baad test restart karna actual walking capacity ko artificially change kar sakta hai. Permitted rest test interval ka part hai.
 
-**C kyun galat hai:** Correct apparent height se locking mechanism secure prove nahi hota. Load ke time shaft slip kar sakta hai.
+**C kyun galat hai:** Sirf active walking time count karne se total observation six minutes se zyada ho sakti hai. Standard outcome fixed elapsed time ke andar covered distance hai.
 
-**D kyun sahi hai:** Adjustable crutch ka lock fully engaged hona essential hai. Trained staff manufacturer instructions ke according check kare aur needed replacement arrange kare.
+**D kyun sahi hai:** Allowed standing rest ke dauran timer continue hota hai. Assessor rests aur duration document karega aur six-minute interval ka total distance record karega. Concerning symptoms ya termination criteria aayein toh safety protocol ke according test stop karna zaroori hai.
 
-**Exam clue:** Adjustment locks must be fully secure before crutch loading.
+**Exam clue:** Permitted rest counts within the six-minute interval; safety termination takes priority.
 
-**Clinical reference:** [MedlinePlus using crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Six Minute Walk Test](https://www.sralab.org/rehabilitation-measures/6-minute-walk-test). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -207,59 +207,59 @@
 
 </details>
 
-### Q08. A patient with a unilateral partial-weight-bearing prescription has been assessed as safe to climb a step with a rail and crutch. Which limb generally leads when ascending?
+### Q08. During a standard Five Times Sit to Stand Test after knee rehabilitation, a cleared patient cannot complete the repetitions without pushing strongly on the armrests. Which documentation is appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Affected leg followed by the rail
-- **B.** Both legs simultaneously
-- **C.** Unaffected stronger leg, followed by the affected leg and aid as taught
-- **D.** Affected leg regardless of restriction
+- **A.** Report a normal unmodified score because five repetitions were attempted
+- **B.** Record the arm-assisted time as directly equivalent to the standard unaided test
+- **C.** Record inability to complete the standard test and document any safe modified assessment separately
+- **D.** Ask the patient to repeat without arm support regardless of safety
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Unaffected stronger leg, followed by the affected leg and aid as taught**
+**Correct answer: C. Record inability to complete the standard test and document any safe modified assessment separately**
 
-**A kyun galat hai:** Rail limb movement se pehle grasped support hota hai. Affected side ko lead karna typical taught ascending sequence nahi hai.
+**A kyun galat hai:** Repetition attempt hona standard completion nahi hai. Required assistance ko ignore karne se functional limitation miss ho sakti hai.
 
-**B kyun galat hai:** Simultaneous jump balance aur impact demands increase karti hai. Controlled stepwise sequence appropriate hai.
+**B kyun galat hai:** Arm support se task demand change hoti hai. Modified result ko unmodified standard ke equivalent report nahi karna chahiye.
 
-**C kyun sahi hai:** Unaffected leg body ko higher step tak lift karti hai. Affected side aur aid therapist-taught sequence se follow karte hain, prescribed load maintained rehta hai.
+**C kyun sahi hai:** Standard protocol mein five repetitions bina upper-limb assistance complete karna required hai. Agar patient nahi kar paata, toh standard test complete nahi hua yeh document karo. Safe modified assessment ki method aur assistance separately likho.
 
-**D kyun galat hai:** Affected limb ko lead karne se lifting demand us par increase ho sakti hai. Restricted side ko support ke saath follow karna generally taught hota hai.
+**D kyun galat hai:** Patient ko unsafe unaided attempt karne ke liye force nahi karna chahiye. Clinician appropriate support aur assessment method choose karega.
 
-**Exam clue:** For an assessed step-to ascent, the stronger leg generally leads.
+**Exam clue:** Document assistance and distinguish a modified chair-rise assessment from the standard test.
 
-**Clinical reference:** [Kent NHS partial weight bearing](https://www.kentcht.nhs.uk/leaflet/partial-weight-bearing/). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Five Times Sit to Stand Test](https://www.sralab.org/rehabilitation-measures/five-times-sit-stand-test). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
 </details>
 
-### Q09. A patient with clinician-approved partial-weight-bearing stair training is preparing to descend one step with a handrail. Which sequence generally protects the restricted limb?
+### Q09. In gait analysis after lower-limb rehabilitation, the therapist measures the forward distance from one right heel contact to the next right heel contact. What is this measurement called?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Unaffected leg first without placing the aid
-- **B.** Jump from the upper step with both feet
-- **C.** Carry the crutch without using it and alternate steps rapidly
-- **D.** Place the aid on the lower step, move the affected leg as taught, then bring the unaffected leg down
+- **A.** Step width
+- **B.** Right-to-left step length
+- **C.** Cadence
+- **D.** Stride length
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Place the aid on the lower step, move the affected leg as taught, then bring the unaffected leg down**
+**Correct answer: D. Stride length**
 
-**A kyun galat hai:** Unaffected leg first lower karne se restricted limb ko upper step par body weight support karna pad sakta hai. Taught sequence different hai.
+**A kyun galat hai:** Step width lateral separation hai. Question forward distance between same-foot contacts pooch raha hai.
 
-**B kyun galat hai:** Jump impact aur balance risk badhata hai. Restricted loading safe tarike se maintain nahi ho sakti.
+**B kyun galat hai:** Step length opposite feet ke consecutive contacts ke beech forward distance hoti hai. Yahan dono contacts right foot ke hain.
 
-**C kyun galat hai:** Unused aid support provide nahi karega. Rapid alternating steps prescribed protected stair technique ke against ho sakte hain.
+**C kyun galat hai:** Cadence time ke hisaab se step count hai, distance nahi. Heel contacts ki spacing alag parameter hai.
 
-**D kyun sahi hai:** Crutch lower step par support create karta hai. Affected leg permitted loading ke saath advance hoti hai aur unaffected leg controlled descent complete karti hai. Rail and aid use supervision ke according hota hai.
+**D kyun sahi hai:** Stride length same foot ke do consecutive contacts ke beech forward distance hoti hai. Ek complete gait cycle ka distance isi parameter se describe hota hai.
 
-**Exam clue:** For assessed partial-weight-bearing descent, aid and affected side generally move before the stronger leg.
+**Exam clue:** Same foot to same foot measures stride length.
 
-**Clinical reference:** [Barnsley NHS partial weight bearing](https://www.barnsleyhospital.nhs.uk/services/a-and-e/crutch-walking-partial-weight-bearing). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Spatiotemporal gait assessment definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5540886/). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -294,30 +294,30 @@
 
 </details>
 
-### Q11. A patient can safely walk on level ground with crutches but lives in a home with several steep steps and no secure handrail. What must happen before discharge to independent mobility?
+### Q11. A patient recovering from lower-limb injury wants rehabilitation progress measured specifically against personally important activities that are not all included in a fixed questionnaire. Which outcome approach best fits this goal?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Assume level-ground competence establishes stair competence
-- **B.** Tell the patient to improvise by holding movable furniture
-- **C.** Arrange stair-specific assessment and an appropriate access or assistance plan
-- **D.** Advise carrying shopping bags in both hands while using crutches
+- **A.** Record only radiographic fracture alignment
+- **B.** Use only a resting pain score as a functional outcome
+- **C.** Use the Patient-Specific Functional Scale to track the patient's selected activities
+- **D.** Replace functional assessment with the number of physiotherapy appointments
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Arrange stair-specific assessment and an appropriate access or assistance plan**
+**Correct answer: C. Use the Patient-Specific Functional Scale to track the patient's selected activities**
 
-**A kyun galat hai:** Level-ground gait aur stair negotiation distinct functional tasks hain. Ek skill dusri automatically certify nahi karti.
+**A kyun galat hai:** Radiograph bone alignment aur healing ki information de sakta hai. Patient ke selected activities perform karne ki ability isse directly measure nahi hoti.
 
-**B kyun galat hai:** Movable furniture reliable handrail nahi hai. It may slide or tip under load.
+**B kyun galat hai:** Pain score symptom intensity measure karta hai. Patient ke kaam karne ki ability aur participation alag domains hain.
 
-**C kyun sahi hai:** Stairs different balance, upper-limb strength aur environmental support demand karti hain. Therapist safe stair method, alternative access ya assistance assess karega.
+**C kyun sahi hai:** Patient-Specific Functional Scale mein patient apne important difficult activities identify aur rate karta hai. Follow-up mein same activities par change assess kiya ja sakta hai. Isko clinical healing aur performance findings ke saath interpret karo.
 
-**D kyun galat hai:** Both hands crutch use ke liye needed ho sakte hain. Carrying bags grip aur balance compromise kar sakti hai.
+**D kyun galat hai:** Appointment count service use batata hai. Zyada visits ka matlab better functional ability automatically nahi hota.
 
-**Exam clue:** Home stair access needs its own safety assessment.
+**Exam clue:** PSFS measures ability in patient-selected activities.
 
-**Clinical reference:** [Gloucestershire NHS how to use crutches](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/how-use-crutches/). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Patient Specific Functional Scale](https://www.sralab.org/rehabilitation-measures/patient-specific-functional-scale). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -410,30 +410,30 @@
 
 </details>
 
-### Q15. A patient uses two crutches with a prescribed unilateral lower-limb loading restriction. The patient asks to carry a cup of hot tea while walking. Which strategy is safest?
+### Q15. A rehabilitation team uses the Functional Ambulation Category (FAC) for a patient who walks independently on level ground but needs another person's help on stairs and uneven terrain. Which category describes this assistance level?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Grip the cup and one crutch in the same hand despite instability
-- **B.** Remove one crutch without clinical clearance
-- **C.** Carry the cup at arm's length while balancing on the restricted leg
-- **D.** Arrange a safe transport method or assistance that keeps the required handgrips available
+- **A.** FAC 1
+- **B.** FAC 2
+- **C.** FAC 3
+- **D.** FAC 4
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Arrange a safe transport method or assistance that keeps the required handgrips available**
+**Correct answer: D. FAC 4**
 
-**A kyun galat hai:** Cup aur crutch same hand mein unstable grip create kar sakte hain. Loss of support aur burn risk badhta hai.
+**A kyun galat hai:** FAC 1 mein walking ke dauran ek person ki firm continuous physical support chahiye hoti hai. Yahan level ground par independence hai.
 
-**B kyun galat hai:** One crutch par switch prescribed unloading capacity change kar sakta hai. Therapist clearance ke bina device reduction inappropriate hai.
+**B kyun galat hai:** FAC 2 mein ek person ki continuous ya intermittent physical assistance balance aur coordination ke liye chahiye. Yeh described level-ground independence se match nahi karta.
 
-**C kyun galat hai:** Arm-length load balance shift kar sakti hai. Restricted limb par balancing prescription violate kar sakta hai.
+**C kyun galat hai:** FAC 3 mein walking ke liye stand-by ya verbal supervision chahiye, bina physical contact ke. Question level-ground independent walking batata hai.
 
-**D kyun sahi hai:** Crutches ko secure grip chahiye. Assistance ya appropriate approved carrying method mobility safety preserve kar sakta hai, and hot-liquid spill risk separately consider karo.
+**D kyun sahi hai:** FAC 4 mein level surfaces par independent walking hoti hai, lekin stairs, slopes ya uneven terrain par help chahiye. Yeh classification functional assistance describe karti hai, surgical weight-bearing permission nahi.
 
-**Exam clue:** Daily activities must preserve the required hand support and safe load limits.
+**Exam clue:** FAC 4 distinguishes level-ground independence from independence on all surfaces.
 
-**Clinical reference:** [MedlinePlus using crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Functional Ambulation Category](https://www.sralab.org/rehabilitation-measures/functional-ambulation-category). Rehabilitation measurement evidence; apply the specified protocol and individual clinical clearance.
 
 **YouTube MCQ practice:** Verification pending.
 
