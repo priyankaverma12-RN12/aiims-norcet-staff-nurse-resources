@@ -17,13 +17,13 @@
 
 **Correct answer: B. Abnormal handling of retinal vitamin A byproducts leads to toxic material accumulation and damage in the macular region**
 
-- **A. Kyun galat hai:** Accommodation lens ko near objects focus karne mein help karti hai. Stargardt disease mein primary problem retinal tissue ki hai. Sirf lens power change karne se damaged macular cells recover nahi hote.
+- **A. Kyun galat hai:** Accommodation mein lens apni focusing power adjust karta hai taaki near objects clearly dikh sakein. Stargardt disease mein damage mainly retina ke macular region mein hota hai. Isliye lens ki power improve karne se damaged retinal cells wapas normal nahi ho jaate.
 
-- **B. Kyun sahi hai:** ABCA4 gene normally photoreceptor cells mein vitamin A-related byproducts handle karne mein help karta hai. Gene dysfunction mein harmful byproducts accumulate ho sakte hain aur retinal pigment epithelium aur photoreceptors damage ho sakte hain. Macula sharp central vision ke liye important hai, isliye reading aur fine detail affected ho sakte hain.
+- **B. Kyun sahi hai:** ABCA4 gene ek protein banane mein help karta hai jo retina ke light-sensitive cells mein vitamin A se related byproducts ko handle karta hai. Jab gene properly function nahi karta, toh harmful byproducts accumulate ho sakte hain aur retinal pigment epithelium aur photoreceptors damage ho sakte hain. Macula retina ka central hissa hai jo reading aur fine-detail vision ke liye important hai. Isliye correct spectacles ke baad bhi central vision limited ho sakti hai. Vision rehabilitation aur specialist follow-up useful ho sakte hain.
 
-- **C. Kyun galat hai:** Nasolacrimal duct obstruction tears ki drainage affect karti hai aur watering cause kar sakti hai. Ye progressive macular degeneration explain nahi karti.
+- **C. Kyun galat hai:** Nasolacrimal duct tears ko eye se nose ki taraf drain karta hai. Uska blockage watering ya discharge cause kar sakta hai. Ye macula ke cells ki progressive degeneration explain nahi karta.
 
-- **D. Kyun galat hai:** Extraocular muscles eye alignment aur movement control karti hain. Stargardt mein central visual detail loss ka primary mechanism retinal degeneration hai.
+- **D. Kyun galat hai:** Extraocular muscles eye movement aur alignment control karti hain. Unki weakness se movement difficulty ya double vision ho sakti hai. ABCA4-related Stargardt disease mein central detail loss ka primary mechanism retinal cell damage hai, muscle weakness nahi.
 
 **Exam clue:** Refractive correction aur retinal cell damage ke outcomes alag hain.
 
@@ -46,13 +46,13 @@
 
 **Correct answer: C. Discuss the supplement with the treating team and avoid exceeding the recommended dietary amount without clinical advice**
 
-- **A. Kyun galat hai:** Inherited retinal disorders ke mechanisms different hote hain. Stargardt disease vitamin A byproduct handling se associated hai, isliye high-dose supplement ko universal remedy assume nahi karna chahiye.
+- **A. Kyun galat hai:** Inherited retinal diseases ka underlying mechanism ek jaisa nahi hota. Stargardt mein vitamin A-related byproducts ki handling affected ho sakti hai. Isliye kisi online advertisement ke basis par high-dose vitamin A ko sab retinal disorders ka treatment samajhna unsafe hai.
 
-- **B. Kyun galat hai:** Vitamin A normal body function ke liye essential nutrient hai. Ordinary balanced dietary intake ko completely eliminate karna appropriate nahi hai. Supplement advice age aur nutritional needs ke according individualized honi chahiye.
+- **B. Kyun galat hai:** Vitamin A normal vision aur body ke doosre functions ke liye essential nutrient hai. Normal food sources ko completely remove karne se nutritional deficiency ho sakti hai. Child ki balanced diet aur age-appropriate nutrient requirement clinician ya dietitian ke advice ke hisaab se maintain honi chahiye.
 
-- **C. Kyun sahi hai:** NEI Stargardt guidance recommended daily amount se zyada vitamin A-containing supplements avoid karne ko kehti hai. Nurse supplement label, existing medicines aur nutritional needs ko clinician ke saath review karwa sakti hai. Khud se high-dose treatment start nahi karna hai.
+- **C. Kyun sahi hai:** NEI ki Stargardt guidance recommended daily amount se zyada vitamin A-containing dietary supplements avoid karne ki salah deti hai. Nurse supplement label aur existing intake ka review treating team se arrange karegi. Child ki age aur nutritional needs ke according advice individualized honi chahiye. Parent ko khud se high-dose supplement start nahi karna chahiye.
 
-- **D. Kyun galat hai:** Worsening vision high-dose supplementation ka indication nahi hai. New changes specialist assessment aur rehabilitation plan review ke liye communicate karo.
+- **D. Kyun galat hai:** Vision worsen hone ka matlab vitamin A ki dose kam hona nahi hai. High dose ko double karne se harm ho sakta hai. New visual change ko specialist ke saath discuss karke eye assessment aur rehabilitation plan review karna chahiye.
 
 **Exam clue:** Normal nutrition aur unnecessary high-dose supplementation ko separate rakho.
 
@@ -75,13 +75,13 @@
 
 **Correct answer: B. Yellowish retinal flecks in the macular region**
 
-- **A. Kyun galat hai:** Subconjunctival hemorrhage eye surface ke neeche blood ka patch hota hai. Iska presence Stargardt-associated macular changes establish nahi karta aur usually central retinal visual function directly affect nahi karta.
+- **A. Kyun galat hai:** Subconjunctival hemorrhage mein conjunctiva ke neeche superficial blood patch dikhta hai. Ye macula ke cells ka structural finding nahi hai aur usually central retinal visual function ko directly affect nahi karta. Isliye Stargardt suspicion ka specific fundus clue nahi hai.
 
-- **B. Kyun sahi hai:** Stargardt disease mein retinal cells ke andar vitamin A-related byproducts ka abnormal accumulation ho sakta hai. Fundus examination mein yellowish flecks macula ke aas-paas dikh sakte hain. Progressive central visual deficit ke context mein ye finding suspicion support karti hai. Specialist imaging aur genetic assessment se diagnosis clarify karega, kyunki flecks alone final proof nahi hain.
+- **B. Kyun sahi hai:** Stargardt disease mein abnormal retinal vitamin A-related byproducts accumulate ho sakte hain. Dilated fundus examination mein macula ke aas-paas yellowish flecks dikh sakte hain. Child mein progressive central visual loss aur unexplained reduced acuity ke saath ye finding suspicion support karti hai. Flecks har stage mein visible hona zaroori nahi hai aur ye finding alone final diagnosis nahi hai. Specialist retinal imaging aur appropriate genetic assessment karega.
 
-- **C. Kyun galat hai:** Lacrimal punctum tear drainage system ka opening hai. Purulent discharge drainage infection suggest kar sakta hai, macular dystrophy ka retinal sign nahi hai.
+- **C. Kyun galat hai:** Lacrimal punctum eyelid ke paas tear drainage opening hai. Wahan se pus aana lacrimal drainage system ki infection ka clue ho sakta hai. Ye retina ke macular region mein flecks ya central visual loss ko explain nahi karta.
 
-- **D. Kyun galat hai:** External auditory canal ear ka part hai. Foreign body hearing ko affect kar sakta hai, central retinal visual loss ko explain nahi karta.
+- **D. Kyun galat hai:** External auditory canal ear ka hissa hai aur foreign body se ear pain ya hearing difficulty ho sakti hai. Retina ke central cells ke function se iska direct relation nahi hai. Child ki visual problem ke liye retinal assessment relevant hai.
 
 **Exam clue:** Central visual loss plus characteristic macular flecks inherited retinal disease evaluation ka clue hai.
 
@@ -104,17 +104,17 @@
 
 **Correct answer: D. Uveal melanoma can spread through the bloodstream, with the liver a common metastatic site**
 
-- **A. Kyun galat hai:** Local tumor control important hai, lekin cancer spread ka risk separately assess karna padta hai. Eye ke successful treatment se systemic risk automatically zero nahi hota.
+- **A. Kyun galat hai:** Uveal melanoma primary eye tumor hai, lekin malignant cells distant organs tak spread kar sakte hain. Eye ke andar tumor control hona important hai, par isse systemic metastatic risk automatically zero nahi hota. Isliye oncology follow-up ki need reh sakti hai.
 
-- **B. Kyun galat hai:** Spectacle power refraction se assess hoti hai. Liver surveillance ka purpose distant disease detection hai, refractive correction nahi.
+- **B. Kyun galat hai:** Spectacle power refraction test se decide hoti hai. Liver imaging ka purpose liver mein possible metastatic disease detect karna hai. Iska optical focusing se koi direct relation nahi hai.
 
-- **C. Kyun galat hai:** Local treatment eye tumor ko control kar sakta hai. Microscopic spread ki possibility aur individual tumor risk ke basis par oncology follow-up continue ho sakta hai.
+- **C. Kyun galat hai:** Local treatment eye mein existing tumor ko control karne ke liye hota hai. Agar microscopic spread pehle ho chuka ho ya future metastatic risk ho, toh sirf local success se woh risk completely exclude nahi hota. Oncology team individual risk ke hisaab se follow-up plan banati hai.
 
-- **D. Kyun sahi hai:** Uveal melanoma blood vessels ke through distant organs tak spread kar sakta hai. Liver common metastatic site hai. Oncology team risk ke according surveillance modality aur interval decide karegi. Nurse follow-up ka purpose explain karegi.
+- **D. Kyun sahi hai:** Uveal melanoma bloodstream ke through body ke distant organs tak spread kar sakta hai. Liver is disease ke metastasis ka common site hai. Isliye satisfactory eye treatment ke baad bhi oncology team liver aur other relevant systemic assessment plan kar sakti hai. Surveillance ka test aur interval tumor ke genetic aur clinical risk ke hisaab se decide hota hai. Nurse patient ko follow-up ka purpose samjhayegi aur appointments reinforce karegi.
 
 **Exam clue:** Local tumor control aur systemic metastatic surveillance alag objectives hain.
 
-**Clinical reference:** [Clinical guidance](https://www.cancer.gov/types/eye/hp/intraocular-melanoma-treatment-pdq).
+**Clinical reference:** [Clinical guidance](https://www.cancer.gov/types/eye/hp/intraocular-melanoma-treatment-pdq). · [2026 ESMO–EURACAN clinical practice guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC13131131/) · [Surveillance Delphi consensus](https://pubmed.ncbi.nlm.nih.gov/41514630/)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -133,17 +133,17 @@
 
 **Correct answer: B. A temporary plaque containing a radioactive source will be placed on the outer wall of the eye near the tumor**
 
-- **A. Kyun galat hai:** Conjunctival sac mein radioactive liquid pour karna prescribed ocular plaque brachytherapy ka method nahi hai. Treatment specialist radiation and surgical team plan karti hai.
+- **A. Kyun galat hai:** Conjunctival sac aankh ki surface ke paas ek space hai jahan eye drops lag sakti hain. Ocular plaque brachytherapy mein radioactive liquid wahan pour nahi kiya jaata. Is treatment ke liye planned radiation source ko specialist team surgically position karti hai.
 
-- **B. Kyun sahi hai:** Plaque ek shaped radiation device hai jo eye wall ke outside tumor ke paas temporarily fixed hota hai. Radiation local tumor region tak deliver hoti hai. Planned duration ke baad plaque surgeon remove karta hai. Eye preservation possible ho sakti hai, lekin visual outcome guaranteed nahi hota.
+- **B. Kyun sahi hai:** Plaque ek shaped device hai jisme radioactive source hota hai. Surgeon ise eye ki outer wall, yani sclera, par tumor ke paas temporarily fix karta hai taaki radiation targeted region tak pahunch sake. Planned treatment duration ke baad authorized team plaque remove karti hai. Eye preserve ho sakti hai, lekin visual recovery ya normal vision guarantee nahi hoti.
 
-- **C. Kyun galat hai:** Crystalline lens ke andar permanent radiation source implant karna described temporary plaque procedure nahi hai. Lens aur nearby tissue exposure treatment planning mein consider hota hai.
+- **C. Kyun galat hai:** Crystalline lens eye ke andar focus karne wala transparent structure hai. Temporary ocular plaque ko lens ke andar permanently implant nahi kiya jaata. Radiation planning mein lens aur nearby sensitive structures ki exposure consider ki jaati hai.
 
-- **D. Kyun galat hai:** Antibiotic infusion infection treatment ke liye hota hai. Ye local radiotherapy source create nahi karta.
+- **D. Kyun galat hai:** Antibiotic infusion bacterial infection treat karne ke liye use hota hai. Ye eye tumor ke paas radioactive source create nahi karta. Brachytherapy ek specialized local radiation treatment hai.
 
 **Exam clue:** Plaque brachytherapy temporary localized radiation treatment hai.
 
-**Clinical reference:** [Clinical guidance](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/plaque-radiotherapy).
+**Clinical reference:** [Clinical guidance](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/plaque-radiotherapy). · [MSK ocular brachytherapy](https://www.mskcc.org/cancer-care/patient-education/about-ocular-brachytherapy)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -162,13 +162,13 @@
 
 **Correct answer: C. Follow the individualized radiation-safety restrictions and contact radiation-safety staff before allowing the visit**
 
-- **A. Kyun galat hai:** Small source hone se exposure automatically negligible prove nahi hota. Visit distance, duration aur visitor restrictions facility ke plan ke according follow karni chahiye.
+- **A. Kyun galat hai:** Radiation source chhota dikhne se exposure automatically negligible prove nahi hota. Exposure dose source ki properties, distance, duration aur shielding par depend karti hai. Isliye unrestricted close contact ki permission facility ke specific safety plan ke bina nahi deni chahiye.
 
-- **B. Kyun galat hai:** Plaque removal authorized surgical team ka procedure hai. Nurse visitor convenience ke liye source independently manipulate nahi karegi.
+- **B. Kyun galat hai:** Plaque ko surgically place aur remove karna authorized specialist team ka kaam hai. Nurse visitor ko allow karne ke liye radioactive device ko independently remove ya manipulate nahi karegi. Aisa karna patient aur staff dono ke liye unsafe ho sakta hai.
 
-- **C. Kyun sahi hai:** Temporary source in place hone par radiation-safety team specific precautions set karti hai. Young children aur pregnant visitors ke liye restrictions ho sakti hain. Nurse posted plan verify karke radiation-safety team se clarification legi aur safe alternative communication arrange karegi.
+- **C. Kyun sahi hai:** Jab temporary radioactive plaque eye par in place hai, toh radiation safety staff source aur treatment plan ke hisaab se visitor restrictions decide karte hain. Young children aur pregnant visitors ke liye special restrictions ho sakti hain. Nurse current written precautions verify karegi aur visit se pehle radiation safety team se clarification legi. Agar visit allowed nahi hai, toh phone ya video communication arrange ki ja sakti hai.
 
-- **D. Kyun galat hai:** Source removal ke baad restrictions source status aur facility guidance par depend karti hain. Permanent blanket visitor ban appropriate nahi hai.
+- **D. Kyun galat hai:** Source authorized team se remove hone ke baad exposure situation change ho jaati hai. Further restrictions source removal confirmation aur facility guidance ke hisaab se follow karni chahiye. Permanent blanket visitor ban lagana appropriate nahi hai.
 
 **Exam clue:** Radiation source present hone par individualized safety protocol follow karo.
 
@@ -191,17 +191,17 @@
 
 **Correct answer: A. OCT can evaluate retinal structural changes such as macular edema after radiation-related vascular injury**
 
-- **A. Kyun sahi hai:** Radiation retinal small blood vessels ko damage kar sakti hai. Leakage aur ischemia macular function affect kar sakte hain. OCT retinal layers aur edema evaluate karne mein help karti hai. Specialist radiation injury aur other causes differentiate karega.
+- **A. Kyun sahi hai:** Radiation retina ki small blood vessels ko damage kar sakti hai. Vascular leakage se macula mein fluid collect ho sakta hai aur reduced blood flow se retinal function affect ho sakta hai. OCT, yani optical coherence tomography, retinal layers ka cross-sectional image banati hai aur macular edema assess karne mein help karti hai. Specialist findings ko clinical examination ke saath interpret karega, kyunki visual decline ke doosre causes bhi ho sakte hain.
 
-- **B. Kyun galat hai:** OCT light waves se tissue structure image karti hai. Ye blood radioactivity quantify nahi karti.
+- **B. Kyun galat hai:** OCT light-based imaging se tissue structure dikhati hai. Ye blood mein radioactivity ki amount directly measure nahi karti. Is patient mein test retinal changes assess karne ke liye ordered hai.
 
-- **C. Kyun galat hai:** Tumor surveillance aur retinal complication assessment separate clinical purposes hain. OCT alone complete oncologic follow-up replace nahi karti.
+- **C. Kyun galat hai:** Oncology follow-up ka purpose tumor control aur recurrence ka assessment hai. OCT retinal complications ki information de sakti hai, lekin isse complete tumor surveillance replace nahi hoti. Dono assessments apne clinical purpose ke liye important hain.
 
-- **D. Kyun galat hai:** Tear production ke liye ocular surface tests use hote hain. OCT ka yahan aim macular structure evaluate karna hai.
+- **D. Kyun galat hai:** Tear production assess karne ke liye Schirmer jaise ocular surface tests use hote hain. OCT yahan eye ke posterior segment mein macular structure evaluate karti hai, tears measure nahi karti.
 
 **Exam clue:** Delayed radiation-related vision change mein retinal complication assessment important hai.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.org/Radiation_Retinopathy).
+**Clinical reference:** [Clinical guidance](https://eyewiki.org/Radiation_Retinopathy). · [EyeWiki radiation retinopathy](https://eyewiki.aao.org/Radiation_Retinopathy)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -220,17 +220,17 @@
 
 **Correct answer: D. Phototoxic injury to the foveal outer retina**
 
-- **A. Kyun galat hai:** Eyelid skin irritation external discomfort cause kar sakti hai. Painless central distortion with sun exposure deeper macular injury ka clue ho sakta hai.
+- **A. Kyun galat hai:** External eyelid skin mein inflammation hone se irritation ya discomfort ho sakta hai. Lekin direct sun viewing ke baad painless central image distortion deeper retinal injury ka clue hai. Is symptom ko sirf skin problem se explain nahi karna chahiye.
 
-- **B. Kyun galat hai:** Lacrimal drainage problem watering cause kar sakti hai. Ye central image distortion ka appropriate mechanism nahi hai.
+- **B. Kyun galat hai:** Lacrimal drainage dysfunction se watering ya tear drainage symptoms ho sakte hain. Ye retina ke central image distortion ka usual mechanism nahi hai. Direct sun exposure ke context mein macula ki assessment important hai.
 
-- **C. Kyun galat hai:** Cerumen ear canal mein wax hota hai aur auditory conduction affect kar sakta hai. Visual distortion se iska direct relation nahi hai.
+- **C. Kyun galat hai:** Cerumen outer ear canal mein wax hota hai. Uski blockage sound transmission ko affect kar sakti hai, lekin vision pathway ko conduct nahi karti. Is patient ka central visual symptom auditory obstruction se related nahi hai.
 
-- **D. Kyun sahi hai:** Solar retinopathy mein intense light retinal photochemical injury cause kar sakti hai, often foveal region mein. Outer retinal damage se central blur ya scotoma develop ho sakta hai, even if cornea quiet dikhe. Prompt ophthalmic assessment arrange karo.
+- **D. Kyun sahi hai:** Direct sun viewing mein intense light eye ki optical system se focus hokar retina ke central foveal region ko damage kar sakti hai. Fovea fine-detail vision ke liye important hai aur outer retinal photoreceptors injury se central blur, distortion ya dark spot develop ho sakta hai. Isko solar retinopathy kehte hain. Cornea normal dikhne par bhi retinal injury possible hai, isliye prompt ophthalmic assessment arrange karni chahiye.
 
 **Exam clue:** Sun exposure ke baad painless central defect corneal burn se different ho sakta hai.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Solar_Retinopathy).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Solar_Retinopathy). · [AAPOS solar retinopathy](https://aapos.org/glossary/solar-retinopathy)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -249,17 +249,17 @@
 
 **Correct answer: B. Ordinary sunglasses are not suitable for direct solar viewing and an appropriate certified solar filter or safe indirect viewing method is needed**
 
-- **A. Kyun galat hai:** Ordinary sunglasses ko layer karna certified solar filter ke equal nahi hai. Direct sun viewing mein unsafe light exposure remain kar sakta hai.
+- **A. Kyun galat hai:** Do ordinary sunglasses ek saath pehenne se unka filtration direct solar viewing ke recognized safety standard ke barabar prove nahi hota. Dark lens visible light ko reduce kar sakti hai, lekin direct sunlight se retinal injury ka risk phir bhi reh sakta hai.
 
-- **B. Kyun sahi hai:** Direct solar viewing ke liye recognized safety standard-compliant eclipse viewer ya appropriate solar filter chahiye. Safe indirect projection bhi option hai. Damaged filter use nahi karna chahiye aur optical devices ke liye specialized guidance follow karni hai.
+- **B. Kyun sahi hai:** Partially eclipsed sun ko directly dekhne ke liye genuine aur undamaged solar viewer chahiye jo ISO 12312-2 standard comply karta ho. Ordinary sunglasses chahe kitne bhi dark hon, adequate protection nahi deti. Agar proper viewer available nahi hai, toh safe indirect projection method use karna chahiye. Telescope ya binoculars ke liye separate suitable front-mounted solar filtration aur expert instructions chahiye.
 
-- **C. Kyun galat hai:** Short direct exposure ko universally safe declare nahi kar sakte. Patient ko preventable retinal injury se protect karna main objective hai.
+- **C. Kyun galat hai:** Direct sunlight ke liye chhota exposure time bhi universal safety guarantee nahi karta. Eye damage bina immediate pain ke develop ho sakta hai. Nurse safe solar viewing method samjhayegi, unprotected direct viewing ka time limit prescribe nahi karegi.
 
-- **D. Kyun galat hai:** Partial eclipse mein visible brightness kam ho sakti hai, lekin remaining sunlight retinal damage cause kar sakti hai. Reduced brightness safety establish nahi karti.
+- **D. Kyun galat hai:** Partial eclipse mein overall brightness kam lag sakti hai, lekin sun ka exposed portion retina ko damage kar sakta hai. Aas-paas andhera hona adequate eye protection ka proof nahi hai. Safe filter ya indirect viewing zaroori hai.
 
 **Exam clue:** Dark sunglasses direct solar filter ka substitute nahi hain.
 
-**Clinical reference:** [Clinical guidance](https://www.aao.org/eye-health/glasses-contacts/how-to-safely-watch-great-american-eclipse-of-2017).
+**Clinical reference:** [Clinical guidance](https://www.aao.org/eye-health/glasses-contacts/how-to-safely-watch-great-american-eclipse-of-2017). · [NASA eclipse safety](https://science.nasa.gov/eclipses/safety/) · [ISO 12312-2](https://www.iso.org/standard/59289.html)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
@@ -278,17 +278,17 @@
 
 **Correct answer: C. No consistently proven restorative treatment exists, so medication decisions and visual follow-up should remain specialist-directed**
 
-- **A. Kyun galat hai:** Solar injury retinal cells damage kar sakti hai. Steroid se complete regeneration ka reliable guarantee evidence support nahi karta.
+- **A. Kyun galat hai:** Solar retinopathy mein retinal photoreceptors damage ho sakte hain. Steroid se unki complete regeneration ka consistent evidence available nahi hai. Isliye complete recovery promise karna misleading hoga.
 
-- **B. Kyun galat hai:** Systemic steroid adverse effects cause kar sakta hai. Unsupervised dose escalation unsafe hai. Prescriber specific indication aur risk evaluate karega.
+- **B. Kyun galat hai:** Systemic steroids ke side effects ho sakte hain, jaise blood sugar badhna aur infection risk. Patient khud se dose increase nahi karega. Agar clinician kisi selected case mein treatment consider kare, toh benefit aur harm ka assessment zaroori hai.
 
-- **C. Kyun sahi hai:** Solar retinopathy mein recovery variable hoti hai aur consistent proven restorative therapy establish nahi hui hai. Specialist diagnosis, follow-up imaging aur functional support ka plan decide karega. Patient ko unverified cure promises par depend nahi karna chahiye.
+- **C. Kyun sahi hai:** Solar retinopathy mein kuch patients ki vision time ke saath improve ho sakti hai, lekin persistent central defects bhi reh sakte hain. Abhi koi consistently proven restorative treatment established nahi hai. Steroid use se reliable benefit guarantee nahi hota. Specialist follow-up mein visual acuity, OCT aur patient ki functional difficulty assess ho sakti hai. Nurse unverified cure promises se bachne aur further sun exposure prevent karne ki advice degi.
 
-- **D. Kyun galat hai:** Follow-up se visual recovery ya persistent deficits assess kiye ja sakte hain. Ongoing functional problems mein rehabilitation support useful ho sakta hai.
+- **D. Kyun galat hai:** Diagnosis establish hone ke baad bhi recovery aur persistent visual problems assess karna useful hai. Follow-up se clinician functional outcome aur support needs evaluate kar sakta hai. Agar central vision limitation continue ho, toh low-vision rehabilitation consider ki ja sakti hai.
 
 **Exam clue:** Recovery variable hai, treatment promise ko verified evidence se compare karo.
 
-**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Solar_Retinopathy).
+**Clinical reference:** [Clinical guidance](https://eyewiki.aao.org/Solar_Retinopathy). · [AAPOS solar retinopathy](https://aapos.org/glossary/solar-retinopathy)
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
