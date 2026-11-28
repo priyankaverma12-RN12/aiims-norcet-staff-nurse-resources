@@ -1,0 +1,73 @@
+name: Temporary Pharmacology candidate validation
+on:
+  push:
+    branches: [priority-ten-pharmacology-pk-candidate-20261128]
+permissions:
+  contents: read
+jobs:
+  markdown-candidate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify candidate Markdown and preserve prior identities
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import pathlib, re, subprocess, xml.etree.ElementTree as ET
+          root=pathlib.Path('Chapters/Pharmacology')
+          banks={
+              '01-Pharmacokinetics-Foundations-20-MCQs.md':'e0364271c5203048958ca8d6a0de4fd07090b44a',
+              '02-Absorption-and-Bioavailability-20-MCQs.md':'2b7cfa51c32fd7d05a917bbc567fd88988328b5d',
+              '03-Drug-Distribution-and-Protein-Binding-20-MCQs.md':'c6311ef145ab6161097a245d04f51dc92a318357',
+              '04-Drug-Metabolism-20-MCQs.md':'2d01c7a88052af320b32202f7f194251c0f6a230',
+              '05-Drug-Excretion-20-MCQs.md':'ac9e55343e5fb29dcc922dd80b3cf49e9b503f3b',
+              '06-Half-Life-Steady-State-and-Therapeutic-Drug-Monitoring-20-MCQs.md':'eb61b5830226a60ed4bfe121c361d5966c96a89c',
+              '07-Pharmacodynamics-and-Receptors-20-MCQs.md':'e67f6a4ed3f53011d162eaffc27ef6827506b258',
+          }
+          stems=set()
+          def norm(s): return re.sub(r'[^a-z0-9]','',s.lower())
+          def sha(p): return subprocess.check_output(['git','hash-object',str(p)],text=True).strip()
+          starter=root/'MCQs/Pharmacology-Topic-Wise-Starter-MCQs.md'
+          assert sha(starter)=='47e3dc441d0ecc73cb4b745673789df89e39239e'
+          for stem in re.findall(r'^### Q\d+\. (.+)$',starter.read_text(),re.M):
+              assert norm(stem) not in stems
+              stems.add(norm(stem))
+          assert len(stems)==4
+          reasons=0
+          for name, expected in banks.items():
+              p=root/'MCQs'/name
+              assert sha(p)==expected, name
+              s=p.read_text()
+              blocks=re.split(r'(?=^### Q\d+\.)',s,flags=re.M)[1:]
+              assert len(blocks)==20,name
+              for i,b in enumerate(blocks,1):
+                  m=re.match(r'### Q(\d+)\. (.+)',b)
+                  assert int(m.group(1))==i
+                  k=norm(m.group(2))
+                  assert k not in stems, (name,i)
+                  stems.add(k)
+                  opts=dict(re.findall(r'^- \*\*([A-D])\.\*\* (.+)$',b,re.M))
+                  assert set(opts)==set('ABCD') and len(set(opts.values()))==4
+                  a=re.search(r'\*\*Correct: ([A-D])\. (.+)\*\*',b)
+                  assert a and opts[a.group(1)]==a.group(2)
+                  assert b.count('<details>')==b.count('</details>')==1
+                  r=re.findall(r'Kyun (sahi|galat) hai',b)
+                  assert len(r)==4 and r.count('sahi')==1
+                  reasons+=len(r)
+                  assert '**Difficulty:**' in b and '**Priority:**' in b
+          assert len(stems)==144 and reasons==560
+          for p in (root/'Assets').glob('*.svg'):
+              ET.parse(p)
+          for name in banks:
+              p=root/'MCQs'/name
+              for url in re.findall(r'\]\(([^)]+)\)',p.read_text()):
+                  if url.startswith(('http://','https://','#')): continue
+                  assert (p.parent/url.split('#')[0]).exists(),(name,url)
+          p=root/'Previous-Year-Questions/04-Drug-Metabolism-Reported-Evidence.md'
+          s=p.read_text()
+          assert len(re.findall(r'^### PYQ\d+\.',s,re.M))==1
+          assert len(re.findall(r'Kyun (sahi|galat) hai',s))==4
+          assert 'Q92' in s and 'not independently authenticated' in s
+          print('PASS: 140 staged originals, 4 preserved starters, 560 individual rationales, keys and hidden answers, exact candidate blobs, SVG parsing, internal MCQ links and one new separately labeled adaptation')
+          PY

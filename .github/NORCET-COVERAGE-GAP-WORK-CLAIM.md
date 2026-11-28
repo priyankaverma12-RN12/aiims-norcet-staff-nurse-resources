@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
 State: CLAIMED
-Owner: coverage-gap-hematology-20261128-0505
-Scope: Hematology only, new 19 transfusion reactions bank, concept, SVG and evidence, own inventory and claim. Existing navigation and other jobs excluded.
-Claimed UTC: 2026-11-28T05:05:00Z
-Expiry UTC: 2026-11-28T05:35:00Z
+Owner: coverage-gap-hematology-20261128-0515
+Scope: Hematology only, new 20 anticoagulation MCQs, concept, original SVG, evidence, own inventory and claim. Existing navigation, Pharmacology candidate and other jobs excluded.
+Claimed UTC: 2026-11-28T05:15:00Z
+Expiry UTC: 2026-11-28T05:45:00Z
 
-Last owner: coverage-gap-hematology-20261128-0456
-Last scope: Hematology safe transfusion administration. Released after verified Run 8 package and inventory.
+Last owner: coverage-gap-hematology-20261128-0505
+Last scope: Hematology transfusion reactions and hemovigilance. Released after verified Run 9 publication and inventory.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -91,3 +91,10 @@ Recheck all claims, rule files, recent commits and open PRs. Continue distinct l
 - Inventory bb9fa39bb38283bfe259d189bae845b86330dd83, blob e34256eb78831cefc34742bbfd7f8098149c2f04, exact readback. Cumulative 544 original slots, seven separate adaptations, 2,188 individual rationales, zero original-only full mocks. Added 30 originals, 120 rationales. No new historical credit. Three topic-level video leads, 27 gaps, all exact playback/item verification pending. Indian 2022 standards sections 8.11.4 and 8.15.2.3 conflict (48 versus 72 hours), documented in new package, local validated SOP governs. Prior compatibility package preserved. HPRCA official item-key linkage pending. Answer sequence repeated from prior bank, future safe review of predictability pending.
 - All 36 directories structurally enumerated. Cardiovascular 196 numbered MCQ-folder slots, including 50 short mock slots, and 240 full revision-compilation slots, no new mock-exclusive credit. Extra hint not counted. Embedded concepts and full unique census pending. Rules and audit fetched in bounded ranges, prior context reused, fresh exhaustive reread not certified. PR8 acknowledgement pending. Other jobs, shared navigation, theory, website, learner history and schedules untouched by this run.
 - Resume transfusion reactions as the next meaningful topic, then anticoagulation, bleeding precautions, remaining INC-aligned disorders. Recheck claims and all gates. Begin ten mock-exclusive 120-item tests only after comprehensive coverage and semantic screening.
+
+## Verified checkpoint — 28 November 2026, Run 9
+
+- Previous released checkpoint 91c0504a17f794540ee4c289d62bf2467aff3ac4 preserved. Own claim acquired dc4c892f4e8d9c9729d3641a409e605fa6ea7b5d. Candidate f569bb4fb2e93cb8463058a347f99fc724925efd preserved after initial ref error. Publication d2536e7a79dde4fa1196cc2a8f37ee94e8a21bd2 safely reconciled with concurrent main. Four exact candidate-to-publication readbacks: original bank 9caabbbd41ba55f3c22660e282e95b85b405aba2, concept 3f2cf910abe0b5b9f87090fb08ea573fee81407f, SVG 34682ceeda67e27f9b06dfcb7c33f5b2522a8a76, evidence 49e20e980f7875ac1f1c25ed3f5f6cf73c5e5dec. Structural revalidation passed. 32 originals, one separate SCTIMST 2015 Q60 related-concept adaptation (official paper text, key unverified), 132 rationales. Balanced answer sequence eight of each A/B/C/D. Exact normalized comparison against all 544 prior original slots passed (300+244), zero matches.
+- Inventory 6544fc234f97064abfae951d5775a48a5dab1fbe, blob 684a63e09f65696fc322e4ce927dd856758b4ad3, exact readback. Cumulative 576 original slots, eight separate adaptations, 2,320 individual rationales, zero mock-exclusive additions. Clinical and complete semantic audits pending. Indian standards 48/72-hour discrepancy rechecked, local validated SOP governs; earlier compatibility bank unchanged. HPRCA final-key portal 403, official key matching pending. Seven related-topic MCQ video leads, 25 specific original gaps plus one adaptation gap, exact item/playback pending. All 36 chapter directories enumerated, 80 additional Cardiovascular embedded concept question slots counted, combined 516 numbered practice slots not certified unique. Full census pending.
+- Both skills/AGENTS/Copilot/audit bounded fetches and unchanged hash reconciliation performed, fresh exhaustive line-by-line review not certified. PR8 prior coordination comment and concurrent import update reviewed, explicit release/reconciliation still pending. Other jobs, existing theory, shared navigation, learner history, website, PRs and all five schedules untouched by this run.
+- Resume anticoagulation, bleeding precautions, hemophilia and factor disorders, polycythemia, leukopenia and remaining INC-aligned gaps. Recheck all claims and gates, use balanced distinct answer sequences. Begin ten original-only 120-item mocks only after comprehensive coverage and semantic screening.

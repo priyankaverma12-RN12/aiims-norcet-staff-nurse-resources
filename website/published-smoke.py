@@ -64,6 +64,12 @@ with sync_playwright() as p:
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
+        library_ids=page.locator(".chapter-card .chapter").evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc').split('/')[1])")
+        assert len(library_ids)==len(set(library_ids)) and set(library_ids)=={c["id"] for c in expected["chapters"]}
+        expect(page.locator("#chapter-total")).to_have_text(str(len(library_ids)))
+        assert page.locator(".hero-copy").evaluate("e=>getComputedStyle(e).animationName")=="none"
+        assert page.locator("#welcome-date").evaluate("e=>e.dateTime===localDay()")
+        print(f"V11.5 exact complete chapter inventory and reduced-motion welcome passed at {width}x{height}.",flush=True)
         theory_all=[p for p,m in expected["resources"].items() if m["type"]=="Theory" and not m["draft"]]
         expect(page.locator("#theory-total")).to_have_text(str(len(theory_all)))
         for c in page.locator(".chapter-card .chapter").evaluate_all("""els=>els.map(e=>({id:new URL(e.href).searchParams.get('doc').split('/')[1],text:e.querySelector('.study-tag[data-role=theory-count]')?.textContent}))"""):
@@ -203,6 +209,7 @@ with sync_playwright() as p:
         expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[len(theory),chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
         expect(page.locator(".mock-question-total")).to_have_text(f"{sum(f['slots'] for f in mocks):,} questions")
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
+        assert page.locator("#study-history-year option").count()>=5
         page.locator("#metrics-category").select_option("theory")
         theory_cards=page.locator(".metric-record[data-category=theory]")
         expect(theory_cards).to_have_count(len(theory))
