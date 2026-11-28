@@ -13,7 +13,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Musculoskeletal adaptations: Overview Q19 plus [19 additional originals](../MCQs/03G-Maternal-Musculoskeletal-Adaptations-19-MCQs.md) = 20 allocated slots. [Detailed concepts](03G-Maternal-Musculoskeletal-and-Skin-Adaptations.md#1-musculoskeletal-adaptations--body-ka-changing-load).
   - Skin adaptations: Overview Q20 plus [19 additional originals](../MCQs/03H-Maternal-Skin-Adaptations-19-MCQs.md) = 20 allocated slots. [Detailed concepts](03G-Maternal-Musculoskeletal-and-Skin-Adaptations.md#2-skin-adaptations--pigment-blood-vessels-and-connective-tissue) · [reported evidence](../Previous-Year-Questions/03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md).
   - Nine systems: 180 allocated originals including overview Q01–Q20 once only. Current 20-question target achieved, not a completion of the larger independent audit or repository-wide 30–40 target. Next: fetal development, placenta and membranes.
-- Fetal development, placenta and membranes
+- Fetal development: [Detailed concepts](04-Embryonic-and-Fetal-Development.md) · [20 embryonic originals](../MCQs/04A-Embryonic-Development-20-MCQs.md) · [20 fetal growth originals](../MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md) · [two reported adaptations](../Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md). Current 20-question allocation per topic reached, independent audit pending.
+- Placenta, fetal membranes, amniotic fluid and umbilical cord: separate topic packages pending.
 - fetal assessment
 - normal pregnancy and labor
 - partograph and delivery
