@@ -22,6 +22,7 @@ jobs:
               '03-Drug-Distribution-and-Protein-Binding-20-MCQs.md':'c6311ef145ab6161097a245d04f51dc92a318357',
               '04-Drug-Metabolism-20-MCQs.md':'2d01c7a88052af320b32202f7f194251c0f6a230',
               '05-Drug-Excretion-20-MCQs.md':'ac9e55343e5fb29dcc922dd80b3cf49e9b503f3b',
+              '06-Half-Life-Steady-State-and-Therapeutic-Drug-Monitoring-20-MCQs.md':'eb61b5830226a60ed4bfe121c361d5966c96a89c',
           }
           stems=set()
           def norm(s): return re.sub(r'[^a-z0-9]','',s.lower())
@@ -54,7 +55,7 @@ jobs:
                   assert len(r)==4 and r.count('sahi')==1
                   reasons+=len(r)
                   assert '**Difficulty:**' in b and '**Priority:**' in b
-          assert len(stems)==104 and reasons==400
+          assert len(stems)==124 and reasons==480
           for p in (root/'Assets').glob('*.svg'):
               ET.parse(p)
           for name in banks:
@@ -67,5 +68,5 @@ jobs:
           assert len(re.findall(r'^### PYQ\d+\.',s,re.M))==1
           assert len(re.findall(r'Kyun (sahi|galat) hai',s))==4
           assert 'Q92' in s and 'not independently authenticated' in s
-          print('PASS: 100 staged originals, 4 preserved starters, 400 individual rationales, keys and hidden answers, exact candidate blobs, SVG parsing, internal MCQ links and one new separately labeled adaptation')
+          print('PASS: 120 staged originals, 4 preserved starters, 480 individual rationales, keys and hidden answers, exact candidate blobs, SVG parsing, internal MCQ links and one new separately labeled adaptation')
           PY
