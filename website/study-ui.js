@@ -15,18 +15,19 @@ async function showMetrics(){
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;select.append(o)}if(data.chapters.some(c=>c.id===requested))select.value=requested;
  $('metrics-status').textContent='Counts updated · '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'})+' · '+data.sourceCommit.slice(0,8);
  $('metrics-method').textContent=data.method;
+ const opened=new Set();
  function draw(){
-  const chapters=select.value?data.chapters.filter(c=>c.id===select.value):data.chapters,k=category.value,q=search.value.trim().toLowerCase();grid.replaceChildren();list.replaceChildren();
+  const chapters=select.value?data.chapters.filter(c=>c.id===select.value):data.chapters,k=category.value,q=search.value.trim().toLowerCase();grid.replaceChildren();list.replaceChildren();let visible=0;
   const theory=chapters.flatMap(c=>theoryRecords(data,'Chapters/'+c.id+'/README.md')),theoryTile=metricCard('Theory topics',theory.length);theoryTile.dataset.category='theory';const theoryDone=node('small',undefined,'theory-metric-completed');theoryTile.append(theoryDone);grid.append(theoryTile);liveProgressRefresh(()=>{const ids=new Set(theory.map(r=>r.path)),s=completionSummary(progressCatalog.filter(r=>r.kind==='theory'&&ids.has(r.path)),loadCompletion(),loadRoutine());theoryDone.textContent=s.done+' completed · '+s.percent+'%'},theoryTile);
   const totals={};for(const key of Object.keys(metricLabels)){totals[key]=chapters.reduce((sum,c)=>sum+(c.totals[key]||0),0);const mock=key==='mock'?mockSummary(data,chapters.flatMap(c=>c.records)):null;const tile=metricCard(mock?'Mock tests':metricLabels[key],mock?mock.tests:totals[key]);if(mock){tile.append(node('small',countPhrase(mock.questions,'question'),'mock-question-total'));if(mock.drafts)tile.append(node('small',countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question'),'mock-draft-total'));if(mock.otherQuestions)tile.append(node('small',countPhrase(mock.otherQuestions,'other mock question')))}grid.append(tile)}
   for(const c of chapters){
    const topics=theoryRecords(data,'Chapters/'+c.id+'/README.md'),questionPaths=new Set(c.records.map(f=>f.path)),available=k==='theory'?topics:k?c.records:[...c.records,...topics.filter(t=>!questionPaths.has(t.path))];const matches=available.filter(f=>(!k||f.category===k)&&(!q||(f.title+' '+f.path+' '+c.name).toLowerCase().includes(q)));
-   if(q&&!matches.length)continue;
+   if((q||k)&&!matches.length)continue;visible+=matches.length;
    const card=node('details',undefined,'metric-chapter'),summary=node('summary'),title=node('span',c.name,'metric-chapter-title'),chips=node('span',undefined,'metric-chips');
    const mock=mockSummary(data,c.records);chips.append(theoryProgressTag(data,'Chapters/'+c.id+'/README.md'),studyTag(countPhrase(c.totals.mcq,'MCQ','MCQs'),'mcq'),studyTag(mockCountText(mock),'mock'),studyTag(countPhrase(c.totals.pyq,'PYQ question'),'pyq'));if(mock.drafts)chips.append(studyTag(countPhrase(mock.drafts,'draft section'),'draft'));
-   summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
+   summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q||opened.has(c.id);
    const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',countPhrase(c.evidenceFiles,'exam note or source list','exam notes and source lists')));card.append(tools);
-   const rows=node('div',undefined,'metric-records');for(const f of matches){
+   const rows=node('div',undefined,'metric-records');card.append(rows);function populate(){if(rows.children.length)return;for(const f of matches){
     const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy');
     row.href=route(f.path);row.dataset.category=f.category;
     const glyph=node('span',({theory:'▱',mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
@@ -34,11 +35,11 @@ async function showMetrics(){
     const count=node('div',undefined,'metric-record-count');if(f.category==='theory')count.append(node('strong','1'),node('span','topic'));else count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
     const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
     row.append(glyph,left,count,arrow);rows.append(resourceCardWithProgress(row,f.path,{count:false}))
-   }if(!matches.length)rows.append(node('p','No study topics found in this category.','muted'));card.append(rows);list.append(card);
+   }if(!matches.length)rows.append(node('p','No study topics found in this category.','muted'))}if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
-  if(!list.children.length)list.append(node('p','No matching topics.','empty-state'));
+  if(!list.children.length)list.append(node('p','No matching topics. Try another search or clear the filters.','empty-state'));$('metrics-match-count').textContent=countPhrase(visible,'matching study item');$('clear-metrics').hidden=!select.value&&!category.value&&!q;
  }
- select.onchange=()=>{const u=new URL(location.href);if(select.value)u.searchParams.set('chapter',select.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};category.onchange=draw;search.oninput=draw;draw();
+ select.onchange=()=>{const u=new URL(location.href);if(select.value)u.searchParams.set('chapter',select.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};category.onchange=draw;search.oninput=draw;$('clear-metrics').onclick=()=>{select.value='';category.value='';search.value='';opened.clear();select.onchange();search.focus()};draw();
 }
 function isIndexDocument(p){return /\/(?:README|[^/]*[- ]Index|[^/]*-Topic-Coverage-Map|[^/]*-Mock-Test-Plan)\.md$/i.test(p)&&!p.includes('/Mock-Tests/Original-Only-')}
 function compactIndex(content,p,catalog){

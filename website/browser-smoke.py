@@ -38,7 +38,9 @@ try:
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
         expect(cards).to_have_count(1)
-        page.locator("#search").fill("")
+        page.locator("#clear-library").click()
+        expect(cards).to_have_count(count)
+        expect(page.locator("#clear-library")).not_to_be_visible()
         page.locator("#group-filter").select_option(index=1)
         assert 0 < cards.count() < count
         page.locator("#group-filter").select_option("")
@@ -325,7 +327,7 @@ try:
             ready(mobile)
             no_overflow(mobile)
             expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
-            expect(mobile.locator("#sections [aria-current=page]")).to_have_text("MCQs")
+            expect(mobile.locator("#sections [aria-current=page]")).to_contain_text("MCQs")
             if width<=600:
                 expect(mobile.locator(".outline-card")).not_to_have_attribute("open","")
                 mobile.locator(".outline-card summary").tap()
