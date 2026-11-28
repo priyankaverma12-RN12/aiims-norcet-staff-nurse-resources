@@ -53,3 +53,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Placental structure and function — 28 November 2026
 
 [UPPSC 10 April 2022 reported adaptation and related leads](05A-Placenta-Reported-Exam-Evidence.md). One new reported adaptation, no authenticated official paper/key. Related NVS, UPRVUNL, Kerala PSC and RRB leads not double counted. Dedicated teaching and MCQ video descriptions indexed; playback and question-level coverage pending. Current obstetric reported total: 13.
+
+## Fetal membranes — 28 November 2026
+
+[One BHU 22 October 2019 reported adaptation, official-domain MP ESB extraction defect and related leads](05B-Fetal-Membranes-Reported-Evidence.md). Current obstetric reported total: 14. No official item/key authentication or exact video playback claimed.
