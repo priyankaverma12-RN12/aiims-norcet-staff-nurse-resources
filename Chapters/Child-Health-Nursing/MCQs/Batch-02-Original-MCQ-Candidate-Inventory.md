@@ -6,9 +6,9 @@
 |---|---:|---:|---:|---:|---:|---|
 | [02A IMNCI](02A-IMNCI-Health-Worker-Classification-and-Follow-Up-20-MCQs.md) | 20 | 80 | 0 | 10 | 10 | cfa454711f44711bcb64e058552aa901c711362e |
 | [02B UIP/AEFI](02B-Pediatric-UIP-Vaccination-and-AEFI-20-MCQs.md) | 20 | 80 | 1 | 7 | 12 | bd1131bb905cf2476502d445a02a46ce7ff318ef |
-| [02C Croup](02C-Acute-Viral-Croup-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 266848a3ada10cee6b09bf88248aab45f33b55f0 |
-| [02D Bronchiolitis](02D-Acute-Viral-Bronchiolitis-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 6b092fb1182b9e026f9d58ecb637ba617ca6cd8c |
-| [02E EA/TEF](02E-Esophageal-Atresia-and-TEF-20-MCQs.md) | 20 | 80 | 1 | 8 | 11 | 480bd59d1e715e293d3ef104816a5c49f7d50aaf |
+| [02C Croup](02C-Acute-Viral-Croup-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 6cb9d55aa9963ee89079359decd548193738d4c6 |
+| [02D Bronchiolitis](02D-Acute-Viral-Bronchiolitis-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 5f6f0f3f5ce0ca843bdaf31bba9eac3c2f0b5c30 |
+| [02E EA/TEF](02E-Esophageal-Atresia-and-TEF-20-MCQs.md) | 20 | 80 | 1 | 8 | 11 | 8646c4ed990db4bf6f2f2d70edb35d8e4bedb2e7 |
 | New Batch 02 total | 100 | 400 | 6 | 45 | 49 | candidate only |
 | [Batch 01 revised](Batch-01-Original-MCQ-Candidate-Inventory.md) | 100 | 400 | 3 | 43 | 54 | candidate only |
 | Cumulative candidate | 200 | 800 | 9 | 88 | 103 | not live |
@@ -21,7 +21,7 @@ Existing four starter originals and one reported adaptation excluded from candid
 
 ## Validation
 
-Remote author structural audit: 10 banks × 20 original questions, four options and four separately labeled rationales per item, matching correct letter/text, closed hidden answer section, difficulty/priority/type. Correct option distribution five each A/B/C/D per bank. Exact normalized-stem uniqueness across 200 candidate items passed before final 02D Q17 targeted replacement; final readback and structural recheck required. No certification of full semantic uniqueness, clinical accuracy or independent reviewer approval. Q1–3 Batch 01 corrections recorded in revised Batch 01 inventory. Video mapping is topic-level only where explicitly indicated. 
+Remote author structural audit: 10 banks × 20 original questions, four options and four separately labeled rationales per item, matching correct letter/text, closed hidden answer section, difficulty/priority/type. Correct option distribution five each A/B/C/D per bank. Final remote audit after 02D Q17 replacement and selected distractor refinements: 200/200 distinct normalized stems, 800/800 separate labeled option rationales, all answer letters/text and hidden blocks valid, 50 answers per letter, zero structural exceptions when the legacy 01E Video evidence label is recognized (20 items). Selected distractor refinements: 02C Q2, 02D Q2, 02E Q4/Q14/Q15/Q19. No correct keys or stems changed in those six items. Legacy starter and reported adaptation, Batch 01 concept guide and evidence ledger exactly matched the original checkpoint blobs. No certification of full semantic uniqueness, clinical accuracy or independent reviewer approval. Q1–3 Batch 01 corrections recorded in revised Batch 01 inventory. Video mapping is topic-level only where explicitly indicated. 
 
 ## Merge decision
 
