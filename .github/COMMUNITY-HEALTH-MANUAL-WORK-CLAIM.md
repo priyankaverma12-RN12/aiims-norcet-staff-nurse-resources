@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b06-20261128-1049Z
+Scope: PR61 Batch06 only: NPCBVI, NPPCD, NIDDCP, NTCP, NOHP community programme organization, quality and access; avoid adjacent clinical/nutrition and existing NCD/school questions. No PR62 or shared navigation edits.
+Claimed UTC: 2026-11-28T10:49:00Z
+Expiry UTC: 2026-11-28T11:19:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
