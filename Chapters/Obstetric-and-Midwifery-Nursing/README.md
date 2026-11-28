@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 664 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 684 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -36,6 +36,7 @@
 | Passage — maternal pelvis | [Detailed concepts and diagrams](Concepts/07F-Passage-Maternal-Pelvis.md) · [20 original MCQs](MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md) |
 | Mechanism and cardinal movements | [Detailed concepts and original flowcharts](Concepts/07G-Mechanism-and-Cardinal-Movements.md) · [20 original MCQs](MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md) · [One reported HPSSSB adaptation and evidence](Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md) |
 | Maternal-fetal intrapartum assessment | [Detailed concepts and original diagrams](Concepts/07H-Maternal-Fetal-Intrapartum-Assessment.md) · [20 original MCQs](MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md) |
+| Traditional and modified partograph | [Detailed concepts and original plots](Concepts/07I-Partograph.md) · [20 original MCQs](MCQs/07I-Partograph-20-MCQs.md) · [One reported RRB adaptation and evidence](Previous-Year-Questions/07I-Partograph-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -155,3 +156,6 @@ Ab fetal adaptation, rotation, head birth, shoulder alignment aur normal versus 
 
 ## Maternal-fetal intrapartum assessment — 28 November 2026
 20 original MCQs aur 80 individual Roman Hinglish rationales publish hue hain. Obstetrics 664 originals aur 26 historical adaptations. NICE monitoring intervals aur escalation thresholds named guideline context mein samjhaye hain. Independent audit aur video gaps pending. Next partograph, WHO Labour Care Guide aur nursing management.
+
+## Partograph — 28 November 2026
+20 originals, 80 individual rationales, two original chart SVGs and one separate reported RRB adaptation with four reasons. Obstetrics 684 originals and 27 historical adaptations. Traditional plotting conventions distinguished from current WHO guidance. Next WHO Labour Care Guide and nursing management. Independent audit and exact practice gaps pending.
