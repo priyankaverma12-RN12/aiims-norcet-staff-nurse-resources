@@ -44,6 +44,9 @@ Tryptase mast cell activation ka supporting marker hai. Normal result anaphylaxi
 - [ASCIA hospital latex precautions](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/hospital-management?highlight=WyJsYXRleCJd) — catheter and glove precautions.
 - [WAO anaphylaxis guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/) — emergency principles, positioning, tryptase and adjunct glucagon.
 
-Sources retrieved as indexed text on 28 November 2026. Dedicated teaching and MCQ-solving video verification pending. No authenticated historical exam attribution claimed.
+Sources retrieved as indexed text on 28 November 2026. Teaching and practice video metadata retrieved on 28 November 2026. Playback and transcript verification remain pending.
+
+- Teaching: [Anaphylaxis: Nursing Process (ADPIE)](https://www.youtube.com/watch?v=kO9sqzjjuuA), Osmosis from Elsevier. Topic-level concept coverage for Q16–17 and Q20, not exact question matches.
+- Practice lead: [Anaphylaxis NCLEX Question: Epinephrine First?](https://www.youtube.com/watch?v=Wj2HLlseY9s), ClinicalJudgeRN. Description includes emergency priorities, positioning and beta-blocker considerations (Q16 and Q20 topic-level coverage). Not a NORCET PYQ. The description alone is not clinical validation. Do not infer universal two-system criteria, since anaphylaxis can occur without skin involvement. Exact video playback and Q01–15/Q17–19 dedicated practice mapping remain pending. No authenticated historical exam attribution claimed.
 
 [Practice bank](../MCQs/01-Allergy-Assessment-Diagnostic-Testing-and-Exposure-Safety-20-MCQs.md)
