@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 304 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental aur 20 fetal membrane MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 324 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane aur 20 amniotic fluid MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -18,6 +18,7 @@
 | Embryonic and fetal development | [Detailed concepts and three original flowcharts](Concepts/04-Embryonic-and-Fetal-Development.md) · [20 embryonic MCQs](MCQs/04A-Embryonic-Development-20-MCQs.md) · [20 fetal growth MCQs](MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md) · [DSSSB 2019 and ESIC 2016 reported practice](Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md) |
 | Placental structure and function | [Detailed concepts and two original flowcharts](Concepts/05A-Placental-Structure-and-Function.md) · [20 original MCQs](MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [UPPSC 2022 reported practice](Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md) |
 | Fetal membranes | [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md) · [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md) · [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md) |
+| Amniotic fluid | [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md) · [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -67,3 +68,7 @@ Placental structure and function ke 20 original MCQs, 80 individual option expla
 ## Verified fetal membrane expansion — 28 November 2026
 
 Fetal membranes ke 20 original MCQs, 80 individual rationales, two original flowcharts aur one BHU 2019 reported adaptation publish hue. Current chapter inventory: 304 originals, 14 reported adaptations. Next amniotic fluid and umbilical cord; independent audit, official keys and exact video verification pending.
+
+## Verified amniotic fluid expansion — 28 November 2026
+
+Amniotic fluid ke 20 original MCQs, 80 individual rationales, two original flowcharts aur two reported adaptations publish hue. Current chapter inventory: 324 originals, 16 reported adaptations. Historical volume convention and current SMFM ultrasound thresholds separate rakhe gaye hain. Umbilical cord next; independent audit, official keys and exact video verification pending.
