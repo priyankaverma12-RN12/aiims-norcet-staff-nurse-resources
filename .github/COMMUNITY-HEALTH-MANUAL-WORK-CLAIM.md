@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b04-20261128-1016Z
+Scope: PR61 Batch 04: community health education, health information and records, community disaster preparedness (not acute emergency care), NMHP service pathways, CBR inclusion and access. Exclude PR62 and other chapter writes.
+Claimed UTC: 2026-11-28T10:16:22Z
+Expiry UTC: 2026-11-28T10:46:22Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
