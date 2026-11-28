@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+<title id="title">National nutrition programmes and food entitlements</title>
+<desc id="desc">Three pathways distinguish anemia services, statutory food entitlements and dated nutrition delivery policy.</desc>
+<rect width="960" height="560" fill="#f4f7fa"/>
+<g font-family="Arial, sans-serif" fill="#172d42">
+<text x="480" y="44" text-anchor="middle" font-size="25" font-weight="bold">National nutrition pathways</text>
+<text x="480" y="70" text-anchor="middle" font-size="14">Official sources dated February and June 2026, plus NFSA 2013</text>
+<rect x="24" y="100" width="288" height="324" rx="14" fill="#e3eef9" stroke="#496b8e"/>
+<rect x="336" y="100" width="288" height="324" rx="14" fill="#e6f2e9" stroke="#4c785b"/>
+<rect x="648" y="100" width="288" height="324" rx="14" fill="#f8eddb" stroke="#a0804b"/>
+<g font-size="20" font-weight="bold"><text x="168" y="137" text-anchor="middle">AMB Abhiyaan</text><text x="480" y="137" text-anchor="middle">NFSA entitlements</text><text x="792" y="137" text-anchor="middle">Nutrition delivery</text></g>
+<g font-size="15">
+<text x="168" y="166" text-anchor="middle">29 June 2026</text><text x="480" y="166" text-anchor="middle">Statutory provisions</text><text x="792" y="166" text-anchor="middle">Dated policy updates</text>
+<text x="42" y="202">7 × 7 × 7 expansion</text><text x="42" y="232">LBW infants: 0–6 months</text><text x="42" y="262">Test → Treat → Talk → Track</text><text x="42" y="292">Eating Right + participation</text><text x="42" y="322">JANANI: maternal records</text><text x="42" y="352">RBSK / U-WIN: child records</text><text x="42" y="386" font-size="13">Use verified clinical protocols.</text>
+<text x="354" y="202">PHH: 5 kg/person/month</text><text x="354" y="232">AAY: 35 kg/household/month</text><text x="354" y="262">Maternal meals: section 4</text><text x="354" y="292">Non-supply: section 8</text><text x="354" y="322">District grievance officer</text><text x="354" y="352">Appeal: State Food Commission</text><text x="354" y="386" font-size="13">Check applicable eligibility rules.</text>
+<text x="666" y="202">11 Feb: Poshan 2.0 update</text><text x="666" y="232">Weekly millet incorporation</text><text x="666" y="262">Two community events/month</text><text x="666" y="292">27 Feb: rice process pause</text><text x="666" y="322">Storage stability concerns</text><text x="666" y="352">Grain entitlement retained</text><text x="666" y="386" font-size="13">Verify any later policy revision.</text>
+</g>
+<path d="M168 424 V450 H480 M480 424 V467 M792 424 V450 H480" fill="none" stroke="#496b8e" stroke-width="2"/>
+<rect x="130" y="468" width="700" height="62" rx="10" fill="#203d58"/>
+<text x="480" y="492" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">Nursing role: assessment, counselling, referral and follow-up</text>
+<text x="480" y="514" text-anchor="middle" fill="#ffffff" font-size="13">Do not infer clinical doses or cancel statutory entitlements from policy headlines.</text>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">Adult oral nutritional rehabilitation</title>
+<desc id="desc">Clinical assessment precedes an individualized oral plan, energy and protein enrichment, review of actual intake, and adjustment of support.</desc>
+<rect width="900" height="520" rx="16" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#0f172a">
+<text x="450" y="35" font-size="25" font-weight="bold">Adult oral nutritional rehabilitation</text>
+<rect x="60" y="55" width="780" height="70" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+<text x="450" y="82" font-size="19" font-weight="bold">1. Assess before increasing intake</text>
+<text x="450" y="105" font-size="15">Investigate weight loss, swallowing, clinical restrictions and refeeding risk</text>
+<path d="M450 125 V143 l-6 -7 m6 7 l6 -7" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="147" width="780" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7"/>
+<text x="450" y="174" font-size="19" font-weight="bold">2. Build the agreed oral plan</text>
+<text x="450" y="197" font-size="15">Energy and protein targets, tolerated ingredients, meal timing and hydration</text>
+<path d="M450 217 V235 l-6 -7 m6 7 l6 -7" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="239" width="780" height="70" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+<text x="450" y="266" font-size="19" font-weight="bold">3. Enrich meals and consider appropriate ONS</text>
+<text x="450" y="289" font-size="15">Check actual nutrient composition, allergies, comorbidities and completeness</text>
+<path d="M450 309 V327 l-6 -7 m6 7 l6 -7" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="331" width="780" height="70" rx="12" fill="#ffedd5" stroke="#ea580c"/>
+<text x="450" y="358" font-size="19" font-weight="bold">4. Check actual intake and recovery</text>
+<text x="450" y="381" font-size="15">Subtract displaced food, review tolerance, nutrient adequacy and clinical progress</text>
+<path d="M450 401 V419 l-6 -7 m6 7 l6 -7" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="423" width="780" height="70" rx="12" fill="#ede9fe" stroke="#7c3aed"/>
+<text x="450" y="450" font-size="19" font-weight="bold">5. Reassess and adjust support</text>
+<text x="450" y="473" font-size="15">Withdraw supplements only when adequate normal-food intake is established</text>
+</g></svg>

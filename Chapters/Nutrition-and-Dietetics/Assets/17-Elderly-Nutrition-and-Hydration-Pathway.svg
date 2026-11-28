@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="490" viewBox="0 0 940 490" role="img" aria-labelledby="title desc">
+<title id="title">Older adult nutrition and hydration care pathway</title><desc id="desc">Two pathways for nutrition and hydration screening, individualized intervention and monitoring, with urgent escalation for acute illness.</desc>
+<rect width="940" height="490" fill="#f8fafc" rx="16"/>
+<g font-family="Arial, sans-serif" fill="#172b43" text-anchor="middle">
+<text x="470" y="40" font-size="25" font-weight="bold">Older adult nutrition and hydration</text>
+<text x="470" y="65" font-size="15">Screen → Assess → Support → Review</text>
+<rect x="35" y="88" width="420" height="79" rx="12" fill="#dbeafe" stroke="#2563eb"/><rect x="485" y="88" width="420" height="79" rx="12" fill="#d1fae5" stroke="#047857"/>
+<text x="245" y="114" font-size="18" font-weight="bold">Nutrition screening</text><text x="245" y="138" font-size="15">MNA-SF, weight and actual intake</text><text x="245" y="156" font-size="14">Risk → detailed assessment</text>
+<text x="695" y="114" font-size="18" font-weight="bold">Hydration assessment</text><text x="695" y="138" font-size="15">Drinks, losses, clinical context</text><text x="695" y="156" font-size="14">Objective tests where indicated</text>
+<path d="M245 167 V192 M695 167 V192" stroke="#475569" stroke-width="2"/><path d="M239 185 L245 192 L251 185 M689 185 L695 192 L701 185" fill="none" stroke="#475569" stroke-width="2"/>
+<rect x="35" y="195" width="420" height="82" rx="12" fill="#eff6ff" stroke="#2563eb"/><rect x="485" y="195" width="420" height="82" rx="12" fill="#ecfdf5" stroke="#047857"/>
+<text x="245" y="220" font-size="18" font-weight="bold">Individualized food support</text><text x="245" y="244" font-size="15">Enrich foods, suitable texture, ONS if needed</text><text x="245" y="262" font-size="14">Check energy AND protein actually consumed</text>
+<text x="695" y="220" font-size="18" font-weight="bold">Individualized drinking support</text><text x="695" y="244" font-size="15">Preferred drinks, access, toileting assistance</text><text x="695" y="262" font-size="14">Respect restrictions and swallowing safety</text>
+<path d="M245 277 V300 H470 M695 277 V300 H470 V320" stroke="#475569" stroke-width="2" fill="none"/><path d="M464 313 L470 320 L476 313" fill="none" stroke="#475569" stroke-width="2"/>
+<rect x="150" y="321" width="640" height="70" rx="12" fill="#fff" stroke="#64748b"/><text x="470" y="347" font-size="18" font-weight="bold">Document and review</text><text x="470" y="371" font-size="15">Intake, tolerance, goals, clinical change and prescribed plan</text>
+<rect x="95" y="410" width="750" height="53" rx="10" fill="#fee2e2" stroke="#b91c1c"/><text x="470" y="432" font-size="16" font-weight="bold" fill="#991b1b">Acute deterioration or unsafe oral intake → prompt clinical escalation</text><text x="470" y="451" font-size="13">Do not independently prescribe fluids or invasive nutrition from screening alone.</text>
+</g></svg>

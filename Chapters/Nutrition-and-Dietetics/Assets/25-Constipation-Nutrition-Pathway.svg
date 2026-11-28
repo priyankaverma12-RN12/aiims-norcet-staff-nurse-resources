@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430" role="img" aria-labelledby="title desc">
+<title id="title">Dietary care for adult chronic primary constipation</title><desc id="desc">Assess patient suitability, select a tolerated dietary intervention, and monitor multiple clinical outcomes before revising the plan.</desc>
+<rect width="880" height="430" rx="14" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#18334a" text-anchor="middle">
+<text x="440" y="37" font-size="23" font-weight="bold">Dietary management of adult chronic constipation</text>
+<rect x="85" y="62" width="710" height="70" rx="10" fill="#e4edf8" stroke="#567ca2"/>
+<text x="440" y="87" font-size="17" font-weight="bold">1. Assess suitability</text>
+<text x="440" y="110" font-size="14">Primary vs secondary cause, fibre intake, fluid limits, renal function and preferences</text>
+<path d="M440 132 V153" stroke="#446179" stroke-width="2"/><path d="M434 147 L440 155 L446 147" fill="none" stroke="#446179" stroke-width="2"/>
+<rect x="35" y="160" width="390" height="106" rx="10" fill="#e7f3ea" stroke="#578567"/>
+<rect x="455" y="160" width="390" height="106" rx="10" fill="#f9efdf" stroke="#af8248"/>
+<text x="230" y="188" font-size="17" font-weight="bold">2A. Food options</text><text x="230" y="214" font-size="14">Fibre-containing meals, tolerated whole fruit</text><text x="230" y="239" font-size="14">Consider specific evidence and affordability</text>
+<text x="650" y="188" font-size="17" font-weight="bold">2B. Supplements / drinks</text><text x="650" y="214" font-size="14">Psyllium, gradual titration, suitable fluids</text><text x="650" y="239" font-size="14">Check strain, mineral content and restrictions</text>
+<path d="M230 266 V281 H440 M650 266 V281 H440 V299" stroke="#446179" stroke-width="2" fill="none"/><path d="M434 293 L440 301 L446 293" fill="none" stroke="#446179" stroke-width="2"/>
+<rect x="85" y="305" width="710" height="94" rx="10" fill="#203d58"/>
+<text x="440" y="332" font-size="17" font-weight="bold" fill="white">3. Review and individualize</text><text x="440" y="356" font-size="14" fill="white">Frequency, stool form, straining, discomfort, adherence and daily functioning</text><text x="440" y="381" font-size="13" fill="white">Do not override fluid restrictions or delay clinical assessment of deterioration.</text>
+</g></svg>
