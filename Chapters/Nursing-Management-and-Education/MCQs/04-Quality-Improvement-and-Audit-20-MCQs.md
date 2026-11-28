@@ -108,6 +108,8 @@
 
 **D kyun galat hai:** Prescription readiness discharge workflow ka useful process measure hai. Lekin instructions samajh na aane ke karan badhne wali calls ko yeh directly capture nahi karta.
 
+**Exam clue:** A balancing measure detects unwanted effects of a change, not just improvement in the main target.
+
 **Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
 **YouTube MCQ practice:** Verification pending.
@@ -215,6 +217,8 @@
 **C kyun galat hai:** Do phase new test execute karega. Form modify karne ka decision Act mein hota hai.
 
 **D kyun galat hai:** Baseline measurement original situation establish karta hai. Pilot ke findings ke basis par redesign baseline measurement nahi hai.
+
+**Exam clue:** Act is the decision to adopt, adapt or abandon after reviewing the test results.
 
 **Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
 
@@ -351,6 +355,8 @@
 
 **D kyun galat hai:** Cause-and-effect diagram suspected contributing factors ko organize karta hai. Lekin yeh apne aap current work sequence aur har handoff ko establish nahi karta.
 
+**Exam clue:** Map the current workflow before trying to identify the cause of a delay.
+
 **Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
 
 **YouTube MCQ practice:** Verification pending.
@@ -377,6 +383,8 @@
 **C kyun galat hai:** 105% compliance possible nahi hai jab compliant records eligible records ka subset hain. Calculation mein numerator aur denominator correct order mein rakhne hain.
 
 **D kyun galat hai:** Eligible aur compliant record counts dono available hain. Isliye percentage calculate ho sakta hai.
+
+**Exam clue:** Compliance equals compliant eligible records divided by all eligible records, multiplied by 100.
 
 **Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
 
@@ -442,9 +450,9 @@
 
 **Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** Adjust the rates for patient age without harmonizing event inclusion criteria
-- **B.** Express both rates per 1,000 patient-days without changing their event definitions
-- **C.** Increase the observation periods while keeping the existing event definitions
+- **A.** Differences in patient age are the primary measurement problem described
+- **B.** The primary problem is the choice of denominator scale
+- **C.** Insufficient observation time is the primary measurement problem described
 - **D.** Different operational case definitions undermine comparability
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
@@ -458,6 +466,8 @@
 **C kyun galat hai:** Lambi observation period se zyada data mil sakta hai. Lekin inconsistent event definitions ki systematic problem sirf zyada data collect karne se solve nahi hoti.
 
 **D kyun sahi hai:** Operational definition decide karti hai ki kaunsa event count hoga. Comparable rates ke liye common case definition, compatible denominator aur appropriate case-mix interpretation chahiye.
+
+**Exam clue:** Use a common operational case definition before comparing indicator rates.
 
 **Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
@@ -485,6 +495,8 @@
 **C kyun galat hai:** Fishbone diagram possible causes organize karne ke liye useful hai. Yeh process ke statistical limits ya time-series signals assess nahi karta.
 
 **D kyun galat hai:** Pareto chart event categories ko frequency ya impact ke hisaab se rank karta hai. Yeh control limits ke saath time-series variation analyse karne ka tool nahi hai.
+
+**Exam clue:** Statistically derived control limits distinguish a control chart from a median-only run chart.
 
 **Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI control chart course](https://www.ihi.org/learn/courses/creating-and-analyzing-control-charts)
 
@@ -539,6 +551,8 @@
 **C kyun galat hai:** Training attendance implementation ka useful process indicator hai. Lekin attendance se actual handover compliance maintain hone ka direct evidence nahi milta.
 
 **D kyun galat hai:** Satisfaction survey ek additional outcome ho sakta hai. Lekin original compliance measure ko replace karne se baseline aur follow-up ki direct comparability lose ho jaati hai.
+
+**Exam clue:** Sustainability requires comparable measurements over time, not a single favourable observation.
 
 **Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
