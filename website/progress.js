@@ -40,7 +40,7 @@ function completionState(record,marks,routine){
  const checked=Math.min(record.scoreable,record.slots,keys?keys.filter(k=>Object.hasOwn(known,k)).length:Object.keys(known).length);
  const manual=!!mark&&mark.mode!=='pending'&&mark.slots===record.slots&&(!mark.signature||!record.signature||mark.signature===record.signature);
  const auto=!!keys&&record.slots>0&&record.scoreable===record.slots&&keys.length===record.slots&&checked===record.slots;
- const done=manual||(auto&&mark?.mode!=='pending'),changed=!!mark&&mark.mode!=='pending'&&!manual&&!auto;
+ const pending=mark?.mode==='pending'&&(!mark.signature||mark.signature===record.signature);const done=manual||(auto&&!pending),changed=!!mark&&mark.mode!=='pending'&&!manual&&!auto;
  return {done,changed,checked,slots:record.slots,covered:done?record.slots:checked,automatic:done&&!manual&&auto};
 }
 function completionPercent(n,total){return total?(n>=total?100:Math.min(99.9,Math.round(1000*n/total)/10)):0}
@@ -50,7 +50,7 @@ function completionSummary(records,marks,routine){
  s.percent=completionPercent(s.done,s.total);s.questionPercent=completionPercent(s.covered,s.slots);return s;
 }
 function setCompletion(r,done){
- const d=loadCompletion(),state=completionState(r,d,loadRoutine());if(done)d[r.path]={slots:r.slots,signature:r.signature||null,at:new Date().toISOString()};else if(state.checked===r.slots&&r.slots>0)d[r.path]={mode:'pending',slots:r.slots};else delete d[r.path];
+ const d=loadCompletion(),state=completionState(r,d,loadRoutine());if(done)d[r.path]={slots:r.slots,signature:r.signature||null,at:new Date().toISOString()};else if(state.checked===r.slots&&r.slots>0)d[r.path]={mode:'pending',slots:r.slots,signature:r.signature||null};else delete d[r.path];
  if(!writeCompletion(d))return false;
  document.dispatchEvent(new CustomEvent('study-progress-change'));return true;
 }
@@ -90,8 +90,9 @@ function readerCompletion(p){
 }
 
 function registerLiveBank(p,md,items){
- const existing=progressCatalog?.find(x=>x.path===p),meta=getResourceMeta(p),slots=countSlots(md);
- if(!existing||meta.draft||!slots)return existing;
+ let existing=progressCatalog?.find(x=>x.path===p);const meta=getResourceMeta(p),slots=countSlots(md);
+ if(meta.draft||meta.type==='Draft question set'||!slots)return existing;
+ if(!existing){const kind=({'Topic MCQs':'mcq','Mock test':'mock','Previous year questions':'pyq','Reported exam practice':'pyq','Theory':'theory','Revision':'revision','Imported practice':'imported'}[meta.type]);if(!kind)return null;existing={path:p,chapter:p.split('/')[1],title:meta.title,kind};(progressCatalog||=[]).push(existing)}
  existing.slots=slots;existing.scoreable=items.length;existing.questionKeys=items.map(practiceKey);existing.signature=bankSignature(items);
  return existing;
 }

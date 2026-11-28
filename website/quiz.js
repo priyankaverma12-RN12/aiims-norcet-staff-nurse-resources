@@ -134,7 +134,7 @@ function mountQuiz(md,path,content,render,route){
 
  // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
  function startLearning(mode='all'){
-  const lesson=mode==='all'?bank.items:mode==='remaining'?bank.items.filter(q=>!Object.hasOwn(loadRoutine().banks[path]?.questions||{},practiceKey(q))):quickItems(loadRoutine(),path,bank.items,mode);if(!lesson.length){state.textContent=mode==='remaining'?'All interactive questions have already been checked.':'No questions are due for revision in this bank today.';const u=new URL(location.href);u.searchParams.delete('session');history.replaceState(history.state,'',u.href);return}
+  const routine=loadRoutine(),known=routine.banks[path]?.questions||{};const lesson=mode==='all'?bank.items:mode==='remaining'?bank.items.filter(q=>!Object.hasOwn(known,practiceKey(q))):quickItems(routine,path,bank.items,mode);if(!lesson.length){state.textContent=mode==='remaining'?'All interactive questions have already been checked.':'No questions are due for revision in this bank today.';const u=new URL(location.href);u.searchParams.delete('session');history.replaceState(history.state,'',u.href);return}
   stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;root.dataset.learning='true';setView('practice');state.setAttribute('aria-live','polite');
   let index=0,choice='',checked=0,correct=0,locked=false;
   function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
