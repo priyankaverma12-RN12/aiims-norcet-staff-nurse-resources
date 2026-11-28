@@ -480,7 +480,7 @@ D. Assess for retention promptly and seek prescriber review
 
 ### Q15. A patient taking a prescribed diuretic late in the evening reports disrupted sleep from repeated voiding. Which intervention is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing · **[🟣 PGIMER Chandigarh Staff Nurse Grade II, 2015 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-the-client-with-heart-failure-to-t--62b70f3734e031410c43c9ad)**
 
 A. Discuss dose timing with the prescriber while maintaining the prescribed treatment
 
@@ -498,6 +498,10 @@ D. Restrict fluids irrespective of cardiac or renal status
 - **B — Incorrect:** Diuretic ko apne aap stop karne se underlying fluid overload ya blood pressure condition worsen ho sakti hai.
 - **C — Incorrect:** Bedtime par doses combine karna nocturnal urine production aur medication-related harm badha sakta hai.
 - **D — Incorrect:** Cardiac aur renal fluid plans individual hote hain. Blanket restriction safe nahi hai.
+
+**Related exam evidence:** Is third-party report mein morning furosemide aur raat ki sleep disturbance ka relation poochha gaya tha. Is question mein prescriber ke saath dose timing review karna hai. Official paper aur key verify nahi hue hain. Apne aap medicine stop ya dose change mat karo.
+
+[Additional clinical reference — diuretic timing and sleep disturbance, South Tees NHS](https://www.southtees.nhs.uk/resources/diuretics-water-tablets/)
 
 **Clinical reference:** [NHS continence treatment](https://www.nhs.uk/conditions/urinary-incontinence/treatment/)
 
