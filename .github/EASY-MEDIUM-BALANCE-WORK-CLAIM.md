@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: ACTIVE
-Owner: easy-medium-ipc-b03-20261128T122628Z
-Scope: PR68 IPC supplementary hand hygiene, surgical hand preparation, sterilization, CSSD and equipment disinfection banks only
-Claimed UTC: 2026-11-28T12:26:28Z
-Expiry UTC: 2026-11-28T12:56:28Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -15,3 +15,7 @@ Draft PR68 content checkpoint 16656c993dfedb345462ff27966b2c0e57efb56d, bank blo
 ## Verified Batch 02 checkpoint — 28 November 2026
 
 Own claim acquired 487c2bd811a9e3565768653b9ce38dc492eab6df, released now. PR68 head 3ed7720152c8371ff13f31c0c8aeabf7edd9d651; 12 new Easy originals, 48 individual Roman Hinglish rationales and 12 clues. Routine bank commit 24a8cdbb944d62721b510c627613d0dd0b316b61, blob 6adb3e6b0fc1fbfc88b07c147e44b2bc2c3d6942; surgical bank commit 3ed7720152c8371ff13f31c0c8aeabf7edd9d651, blob 11188693c01050170c6fbdb1b233ffcd0119d4f1. All three exact final blobs verified, prior six originals unchanged. Cumulative 18 Easy, 72 option rationales, 18 clues and 3 banks, 18 distinct normalized stems, aligned keys and hidden blocks. Related hand hygiene, surgical, sterilization stems and selected PYQ headings compared. Full repository semantic/independent clinical, video, navigation and CI gates pending; no live credit. Routine 12/19/21 and surgical 6/15/15 Easy/Medium/Difficult including staged items. Next check Foundations PR48/12/28 ownership, otherwise continue IPC hand hygiene deficits where truly distinct, then surgical and sterilization. Preserve other sessions and five hourly automations. No repeat policy or completed reviews.
+
+## Verified Batch 03 checkpoint — 28 November 2026
+
+Own claim acquired 67291dbf0ebea5e0aa10cba1c790960d8290803a, released now. PR68 head 87e0cf4362302d13438964c04902e121347558e5. New banks: routine hand hygiene 63dc0bd07413d7145d8002bdcbf1ce74078afbbf, CSSD 46c997e6480830d6aa211e885d81bc4f177d9e07, equipment disinfection 158f3990df6d13f5e5779e35756221b495c1d90a, monitoring ffee2a12cb76ccd062d2ee8d2a1158489b93a0a5, cleaning basics 87e0cf4362302d13438964c04902e121347558e5. 30 new originals (27 Easy, 3 Medium), 120 individual Roman Hinglish rationales and 30 exam clues. All five exact readbacks passed. All eight final expected blobs matched, 48 distinct normalized stems, 48 aligned keys and closed details. Cumulative 48 originals (45 Easy, 3 Medium), 192 rationales, 48 clues, 8 banks. Prior 18 unchanged. WHO and CDC guidance retrieved and applied. Related live bank stems screened with bounded comparison only, not exhaustive repository semantic certification. Combined topic distribution E/M/D: routine 18/19/21, surgical 6/15/15 (unchanged this run), CSSD 5/10/21, equipment disinfection 4/9/23, monitoring 6/8/7, sterilization basics 6/17/23. Surgical additions deferred to avoid overlapping objectives; revisit after fresh objective research. Next recheck Nursing Foundations ownership, then remaining IPC deficits and standard precautions. Full independent clinical/semantic review, video mapping, navigation and CI pending. No live credit, no mock changes, no schedule changes. Preserve other sessions and all five hourly automations.
