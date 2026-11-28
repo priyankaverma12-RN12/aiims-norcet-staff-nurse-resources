@@ -1,10 +1,10 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: Reserved continuation of draft PR45; no active writer
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: child-health-b05-20261128-0842Z
+Scope: PR45 isolated pediatric pain corrective review and screened pediatric topic candidates only; no shared navigation or other owners
+Claimed UTC: 2026-11-28T08:42:46Z
+Expiry UTC: 2026-11-28T09:12:46Z
 
 ## Verified checkpoint — Batch 04
 
