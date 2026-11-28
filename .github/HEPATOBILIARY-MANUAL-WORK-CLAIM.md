@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: hepatobiliary-b04-20261128-1034Z
+Scope: PR60 isolated Wilson disease, hereditary hemochromatosis and vascular liver disease new topic banks only, no shared navigation.
+Claimed UTC: 2026-11-28T10:34:00Z
+Expiry UTC: 2026-11-28T11:04:00Z
 
 ## Released checkpoint — 28 November 2026
 
