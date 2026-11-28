@@ -427,28 +427,28 @@ Collecting-system opening repair ke baad urine extravasation possible hai; new o
 
 </details>
 
-### Q18. Following nephrectomy a patient with reduced renal reserve needs a renally cleared analgesic. Which prescribing issue should the nurse clarify?
+### Q18. The anesthetic record after laparoscopic nephrectomy describes carbon dioxide pneumoperitoneum. Which new postoperative finding would require assessment for a gas-related complication rather than being assumed to be ordinary incision pain?
 
 **Difficulty:** Difficult | **Topic:** Nephrectomy and renal-specific perioperative nursing | **Priority:** High | **Type:** Original practice
 
-- **A.** Whether the original preoperative dose must always remain unchanged
-- **B.** Whether the dose or interval is appropriate for current renal function
-- **C.** Whether every analgesic must be withheld permanently
-- **D.** Whether body temperature alone determines dosage
+- **A.** Mild localized tenderness at a healing port site
+- **B.** New respiratory distress with extensive palpable subcutaneous crepitus
+- **C.** A small stable bruise near a port incision
+- **D.** Expected gradual improvement in incisional discomfort
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Whether the dose or interval is appropriate for current renal function**
+**Correct: B. New respiratory distress with extensive palpable subcutaneous crepitus**
 
-Reduced clearance drug accumulation aur toxicity cause kar sakti hai, current kidney function ke hisab se pharmacist/prescriber review chahiye.
+Laparoscopic surgery mein CO2 insufflation use hota hai. Gas subcutaneous tissue mein track kar sakti hai, aur new respiratory distress ke saath extensive crepitus ho to urgent ABC assessment aur anesthetic/surgical review chahiye. Pneumothorax aur other respiratory causes bhi assess karne pad sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Preoperative dose current clearance reflect nahi kar sakti.
-- **C.** Suitable pain control still possible hai.
-- **D.** Temperature alone renal drug clearance determine nahi karti.
+- **A.** Mild local tenderness alone expected recovery mein ho sakti hai, lekin trend aur wound assessment phir bhi useful hain.
+- **C.** Small stable bruising alone gas-related respiratory emergency ka typical clue nahi hai.
+- **D.** Gradual pain improvement uncomplicated recovery support karta hai, respiratory deterioration nahi.
 
-**Exam clue:** Reconcile doses to postoperative function.
+**Exam clue:** New respiratory distress with extensive crepitus after laparoscopy warrants urgent assessment.
 
 </details>
 
@@ -507,3 +507,5 @@ Positive margin recurrence risk influence kar sakti hai; further management path
 - [MSK kidney surgery patient education](https://www.mskcc.org/cancer-care/patient-education/about-your-nephrectomy-adrenalectomy-surgery), indexed renal surgery and recovery guidance.
 - [EAU follow-up in RCC](https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/followup-in-rcc), indexed renal-function and recurrence surveillance guidance.
 - Q9, Q14–19 require targeted procedure-specific, AKI and pharmacy review before publication; no authenticated past questions or video claims.
+
+- [Open partial nephrectomy clinical review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7807322/), indexed evidence on postoperative urine leak and delayed pseudoaneurysm (Q14–15,17). Q18 gas-related complication requires dedicated laparoscopic anesthesia source verification.
