@@ -17,7 +17,7 @@
 
 **Correct answer: A. Drug name and the actual reaction**
 
-**A kyun sahi hai:** Drug ka naam aur patient ko kya reaction hua tha, dono likhne se agle clinician ko risk samajhne mein madad milti hai. Sirf allergy likhna kaafi nahi hota.
+**A kyun sahi hai:** Drug ka naam aur patient ko kya reaction hua tha, dono likhne se agle clinician ko risk samajhne mein madad milti hai. Reaction ki severity, date aur dose ke baad symptoms kab shuru hue, ye bhi document karo. Sirf allergy likhna kaafi nahi hota.
 
 **B kyun galat hai:** Price se allergy ka clinical pattern pata nahi chalta, bhale hi manufacturer ki information kabhi useful ho.
 
@@ -104,11 +104,11 @@
 
 **C kyun galat hai:** Autoimmune disease mein immune system apne tissues ko target karta hai.
 
-**D kyun sahi hai:** Lactose intolerance mein milk sugar ko digest karne mein dikkat hoti hai. Is mechanism mein food protein ke against allergic immune response hona zaroori nahi hai.
+**D kyun sahi hai:** Lactose intolerance mein small intestine lactose naam ki milk sugar ko digest nahi kar paati, aksar lactase enzyme kam hone ki wajah se. Gas, bloating ya diarrhoea ho sakte hain. Ye milk protein allergy se alag mechanism hai.
 
 **Exam clue:** Food intolerance aur food allergy ko ek hi diagnosis mat samjho.
 
-**Clinical reference:** [Source F](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/food-allergy-ttr)
+**Clinical reference:** [Source F](https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/symptoms-causes)
 
 </details>
 
@@ -320,7 +320,7 @@
 
 **C kyun galat hai:** Ghar par unsupervised challenge mein emergency support available nahi hota.
 
-**D kyun sahi hai:** Active wheezing reaction ko assess karna difficult bana sakti hai aur risk badha sakti hai. Allergy team pehle patient ki fitness decide karegi.
+**D kyun sahi hai:** Active wheezing reaction ko assess karna difficult bana sakti hai aur risk badha sakti hai. Challenge start mat karo. Allergy team ko inform karo aur wheezing ki evaluation aur respiratory stability confirm hone ke baad hi specialist ke plan ke mutabik proceed karo.
 
 **Exam clue:** Challenge se pehle respiratory stability confirm karna important hai.
 
@@ -341,7 +341,7 @@
 
 **Correct answer: A. The catheter and other contacting supplies are suitable latex-free alternatives**
 
-**A kyun sahi hai:** Catheter aur related supplies body ke direct contact mein aate hain. Suitable non-latex items verify karne se avoidable exposure kam hota hai.
+**A kyun sahi hai:** Catheter aur related supplies body ke direct contact mein aate hain. Synthetic gloves aur non-latex catheter verify karo. Team ko latex allergy ke baare mein pehle inform karo, taaki doosre contacting supplies bhi check ho sakein.
 
 **B kyun galat hai:** Packaging colour material ki reliable identification nahi hai.
 
@@ -351,7 +351,7 @@
 
 **Exam clue:** Latex precautions sirf gloves tak limited nahi hote.
 
-**Clinical reference:** [Source E](https://www.cdc.gov/niosh/docs/2012-119/default.html)
+**Clinical reference:** [Source E](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/hospital-management?highlight=WyJsYXRleCJd)
 
 </details>
 
@@ -378,7 +378,7 @@
 
 **Exam clue:** Food IgG ko diagnostic food allergy marker mat maan lo.
 
-**Clinical reference:** [Source A](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/all-about-allergy-testing)
+**Clinical reference:** [Source A](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/igg-food-test)
 
 </details>
 
@@ -428,7 +428,7 @@
 
 **C kyun galat hai:** Legs dangling karne se venous return kam ho sakta hai, isliye uncomplicated hypotension mein ye routine position nahi hai.
 
-**D kyun sahi hai:** Hypotension mein supine position circulation support karti hai. Patient ko achanak khada karna blood return aur kam kar sakta hai.
+**D kyun sahi hai:** Hypotension mein supine position circulation support karti hai. Patient ko achanak khada karna blood return aur kam kar sakta hai. Agar severe breathing difficulty ho toh breathing ke liye suitable position chahiye, aur pregnant patient ko left-sided positioning ki zaroorat ho sakti hai. Positioning se emergency treatment delay nahi hona chahiye.
 
 **Exam clue:** Shock mein posture ko breathing aur circulation ki current condition se match karo.
 
@@ -536,7 +536,7 @@
 
 **C kyun galat hai:** Persistent hypotension mein diagnostic result ka wait life-saving care delay karega.
 
-**D kyun sahi hai:** Beta-blocker epinephrine ke response ko affect kar sakta hai. Refractory shock mein expert team further resuscitation aur protocol ke mutabik glucagon consider kar sakti hai.
+**D kyun sahi hai:** Beta-blocker epinephrine ke response ko affect kar sakta hai. Epinephrine aur circulatory resuscitation primary treatment hain. Agar adequate initial treatment ke baad bhi shock rahe, expert team monitored escalation aur glucagon consider kar sakti hai. Glucagon adjunct hai, epinephrine ka replacement nahi, aur is indication ka evidence limited hai.
 
 **Exam clue:** Refractory anaphylaxis mein expert escalation ko delay mat karo.
 
