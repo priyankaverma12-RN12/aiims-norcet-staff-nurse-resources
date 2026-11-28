@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-rework-vulvar-20261128
+Scope: respective 20-question bank, claim and read-only semantic audit; no shared README edits
+Claimed UTC: 2026-11-28T10:00:00Z
+Expiry UTC: 2026-11-28T11:00:00Z
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
