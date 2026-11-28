@@ -4,7 +4,7 @@
 
 ### Q1. What is the main goal of palliative care?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Stop every disease-directed treatment at diagnosis
 - **B.** Provide only care during the final hours of life
@@ -19,11 +19,17 @@ Palliative care serious illness mein pain, breathlessness aur emotional concerns
 
 **Baaki options kyun sahi nahi hain?** Treatment stop karna mandatory nahi hai. Care sirf final hours tak limited nahi hai. Patient preferences central hain.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**▶️ [YouTube MCQ practice — palliative care, ADAPT NCLEX REVIEW (08:17)](https://www.youtube.com/watch?v=Zwyyk_ZS9Fc&t=497s).** Published video description mein is topic ka question-review chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q38](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q38-what-is-the-main-goal-of-palliative-care)
 
 ### Q2. A patient with advanced illness says that maintaining alertness matters more than complete pain relief. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Withhold all comfort measures permanently
 - **B.** Tell the patient there is only one acceptable goal
@@ -38,11 +44,17 @@ Patient ke goals symptom treatment guide karte hain. Nurse pain relief aur alert
 
 **Baaki options kyun sahi nahi hain?** Unwanted sedation aur complete withholding both inappropriate ho sakte hain. Goals individualized hote hain.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q97](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q97-a-patient-with-advanced-illness-says-that-maintaining-alertness-matters-more-than-complete-pain-relief-what-should-the-nurse-do)
 
 ### Q3. Which response is most therapeutic when a newly bereaved person begins crying?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Insist that grief must end within a week
 - **B.** Remain present, acknowledge the loss and allow expression of grief
@@ -57,11 +69,17 @@ Grief natural response hai aur har person ka pattern different ho sakta hai. Nur
 
 **Baaki options kyun sahi nahi hain?** Crying suppress karna, topic change aur rigid deadline feelings dismiss karte hain.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q48](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q48-which-response-is-most-therapeutic-when-a-newly-bereaved-person-begins-crying)
 
 ### Q4. A family member feels angry and sad at different times after a death. What explanation is accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 NVS Staff Nurse, September 2019 — related reported concept**
 
 - **A.** Grief responses may fluctuate and need not follow a fixed sequence
 - **B.** All people must progress through grief stages in one exact order
@@ -76,11 +94,19 @@ Grief mein emotions change ho sakte hain aur fixed stage order necessary nahi ha
 
 **Baaki options kyun sahi nahi hain?** Rigid stages universal nahi hain. Anger aur sadness normal grief mein possible hain, though severe persistent distress assessment maang sakta hai.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Related historical evidence:** [NVS Staff Nurse, September 2019 — reported question](https://testbook.com/question-answer/kubler-rosss-five-successive-stages-of-deat--61e15dfa2c0ac942c1d5de40). Is report mein Kübler-Ross model ki mnemonic sequence poochhi gayi hai. Real patient ya family mein grief ke emotions fixed order mein aana zaroori nahi hai. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q100](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q100-a-family-member-feels-angry-and-sad-at-different-times-after-a-death-what-explanation-is-accurate)
 
 ### Q5. Which term describes grief occurring before an expected loss, such as anticipated death from advanced illness?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**
 
 - **A.** Anticipatory grief
 - **B.** Disenfranchised grief by definition
@@ -95,11 +121,19 @@ Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family f
 
 **Baaki options kyun sahi nahi hain?** Disenfranchised grief socially unrecognized loss se related hai. Anticipatory grief automatically disorder nahi hai.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Related historical evidence:** [AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — reported question](https://testbook.com/question-answer/the-type-of-loss-in-which-the-client-is-aware-that--6259120116b5651b419b04e4). Is report mein anticipated loss ka concept poochha gaya hai, jo anticipatory grief se related hai. Dono terms interchangeable nahi hain. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q43](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q43-which-term-describes-grief-occurring-before-an-expected-loss-such-as-anticipated-death-from-advanced-illness)
 
 ### Q6. A dying patient has dry mouth, limited oral intake and an aspiration risk. Which comfort measure is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Force large volumes of water orally
 - **B.** Avoid all mouth care
@@ -114,11 +148,17 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 **Baaki options kyun sahi nahi hain?** Forced fluids aur food aspiration risk badhate hain. Oral care stop karna discomfort worsen kar sakta hai.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q51](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q51-a-dying-patient-has-dry-mouth-limited-oral-intake-and-an-aspiration-risk-which-comfort-measure-is-appropriate)
 
 ### Q7. A patient near end of life has distressing breathlessness despite an initial plan. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Give an unprescribed sedative dose without assessment
 - **B.** Insist on vigorous exercise
@@ -133,11 +173,17 @@ Breathlessness ko palliative care mein actively address kiya jaata hai. Position
 
 **Baaki options kyun sahi nahi hain?** Untreated symptoms distress badhate hain. Unprescribed drugs aur forced activity unsafe hain.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**▶️ [YouTube MCQ practice — terminal illness mein dyspnea, ADAPT NCLEX REVIEW (15:56)](https://www.youtube.com/watch?v=Zwyyk_ZS9Fc&t=956s).** Published video description mein is topic ka question-review chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 02, Q81](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q81-a-patient-near-end-of-life-has-distressing-breathlessness-despite-an-initial-plan-what-should-the-nurse-do)
 
 ### Q8. Which nursing action maintains dignity when providing personal care to a dying patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Ignore expressed spiritual needs
 - **B.** Explain care, protect privacy and respect the person's preferences
@@ -152,11 +198,17 @@ Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse
 
 **Baaki options kyun sahi nahi hain?** Unnecessary exposure aur ignoring preferences respect compromise karte hain.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q96](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q96-which-nursing-action-maintains-dignity-when-providing-personal-care-to-a-dying-patient)
 
 ### Q9. A patient has a documented do-not-attempt-resuscitation order. Which interpretation is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It authorizes staff to ignore every acute symptom
 - **B.** It limits CPR according to the order but does not automatically stop other appropriate care
@@ -171,11 +223,17 @@ DNAR order cardiac arrest ke waqt CPR decision address karta hai. Other treatmen
 
 **Baaki options kyun sahi nahi hain?** All medicines stop, no pain relief aur symptoms ignore karna DNAR ka meaning nahi hai.
 
+
+**Topic reference:** [ICMR — DNAR guidelines listing](https://www.icmr.gov.in/guidelines?q=guideline).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q47](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q47-a-patient-has-a-documented-do-not-attempt-resuscitation-order-which-interpretation-is-correct)
 
 ### Q10. A family demands CPR despite a valid documented plan and the patient's previously expressed wishes. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Follow applicable policy and authorized plan and seek immediate senior clinical support for the conflict
 - **B.** Change the order independently
@@ -190,11 +248,17 @@ End-of-life conflict mein applicable law, valid orders aur patient wishes import
 
 **Baaki options kyun sahi nahi hain?** Independent order change aur conflict escalation inappropriate hain. Documented plan ignore nahi karna chahiye.
 
+
+**Topic reference:** [ICMR — DNAR guidelines listing](https://www.icmr.gov.in/guidelines?q=guideline).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q62](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q62-a-family-demands-cpr-despite-a-valid-documented-plan-and-the-patients-previously-expressed-wishes-what-should-the-nurse-do)
 
 ### Q11. Which aspect of care is addressed by offering access to a spiritual counselor when a patient requests it?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Mandatory religious conversion
 - **B.** Financial auditing
@@ -209,11 +273,17 @@ Spiritual care patient ke meaning, beliefs aur sources of comfort respect karti 
 
 **Baaki options kyun sahi nahi hain?** Spiritual support beliefs impose nahi karta. Financial aur medication processes separate hain.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q25](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q25-which-aspect-of-care-is-addressed-by-offering-access-to-a-spiritual-counselor-when-a-patient-requests-it)
 
 ### Q12. A terminally ill patient says, I do not want my family informed about this detail. What is the appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Promise secrecy even where disclosure is legally required
 - **B.** Publish the detail in a public area
@@ -228,11 +298,17 @@ Competent patient information sharing preferences express kar sakta hai. Nurse c
 
 **Baaki options kyun sahi nahi hain?** Automatic disclosure aur public sharing inappropriate hain. Absolute secrecy guarantee bhi correct nahi hai.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q64](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q64-a-terminally-ill-patient-says-i-do-not-want-my-family-informed-about-this-detail-what-is-the-appropriate-response)
 
 ### Q13. What is the purpose of advance care planning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Replace assessment of current capacity
 - **B.** Require immediate withdrawal of treatment
@@ -247,11 +323,17 @@ Advance care planning future decisions mein patient ke values guide karne mein h
 
 **Baaki options kyun sahi nahi hain?** Universal plan aur automatic withdrawal iska purpose nahi hai. Current capacity still assess hoti hai.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q119](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q119-what-is-the-purpose-of-advance-care-planning)
 
 ### Q14. A family asks why the dying patient is eating less. Which response is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Stop every oral comfort intervention automatically
 - **B.** Explain that appetite and swallowing may decline and discuss comfort-focused feeding and safety
@@ -266,11 +348,17 @@ Advanced illness mein appetite aur swallowing ability change ho sakti hain. Nurs
 
 **Baaki options kyun sahi nahi hain?** Forced feeding discomfort aur aspiration badha sakti hai. Recovery guarantee nahi ki ja sakti. Comfort care continue honi chahiye.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**▶️ [YouTube MCQ practice — end-of-life anorexia, ADAPT NCLEX REVIEW (11:59)](https://www.youtube.com/watch?v=Zwyyk_ZS9Fc&t=719s).** Published video description mein is topic ka question-review chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 04, Q101](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q101-a-family-asks-why-the-dying-patient-is-eating-less-which-response-is-most-appropriate)
 
 ### Q15. A patient with advanced disease develops new severe pain that is different from the usual symptoms. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Assess promptly for new causes and seek appropriate review consistent with care goals
 - **B.** Assume all pain is inevitable and ignore it
@@ -285,11 +373,17 @@ Palliative care mein new pain ko bhi assess karna important hai. Cause aur patie
 
 **Baaki options kyun sahi nahi hain?** Pain ignore aur unapproved repeat doses harmful hain. Documentation care continuity support karti hai.
 
+
+**Topic reference:** [NICE — care of dying adults](https://www.nice.org.uk/guidance/ng31/chapter/recommendations).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q33](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q33-a-patient-with-advanced-disease-develops-new-severe-pain-that-is-different-from-the-usual-symptoms-what-should-the-nurse-do)
 
 ### Q16. Which action is appropriate after a patient's death once required verification and instructions are complete?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Remove identification tags immediately without authorization
 - **B.** Discard belongings without documentation
@@ -304,11 +398,17 @@ After-death care mein dignity, correct identity aur family-cultural needs mainta
 
 **Baaki options kyun sahi nahi hain?** Identification removal aur belongings disposal errors cause kar sakte hain. Preferences appropriate limits mein respect honi chahiye.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**▶️ [YouTube MCQ practice — postmortem care, ADAPT NCLEX REVIEW (19:20)](https://www.youtube.com/watch?v=Zwyyk_ZS9Fc&t=1160s).** Published video description mein is topic ka question-review chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 04, Q90](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q90-which-action-is-appropriate-after-a-patients-death-once-required-verification-and-instructions-are-complete)
 
 ### Q17. A death may require medicolegal investigation. What should the nurse do before removing lines or altering the body?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Remove every device immediately by default
 - **B.** Wash away all potentially relevant material
@@ -323,11 +423,17 @@ Medicolegal case mein lines aur other material investigation ke liye relevant ho
 
 **Baaki options kyun sahi nahi hain?** Automatic removal aur washing evidence destroy kar sakte hain. Clinical records preserve karne chahiye.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q17](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q17-a-death-may-require-medicolegal-investigation-what-should-the-nurse-do-before-removing-lines-or-altering-the-body)
 
 ### Q18. Which intervention can support a family during bedside end-of-life care?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Exclude the family regardless of the patient's wishes
 - **B.** Guarantee an exact time of death
@@ -342,11 +448,17 @@ Clear communication uncertainty kam karne mein help karti hai. Patient consent a
 
 **Baaki options kyun sahi nahi hain?** Contradictory updates confusion badhate hain. Family exclusion aur exact death-time guarantee inappropriate hain.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q23](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q23-which-intervention-can-support-a-family-during-bedside-end-of-life-care)
 
 ### Q19. A bereaved person reports inability to manage daily activities and expresses thoughts of self-harm. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Dismiss the concern because a loss occurred recently
 - **B.** Assess immediate safety and arrange urgent mental health support
@@ -361,11 +473,17 @@ Self-harm thoughts immediate safety assessment maangte hain regardless of grief 
 
 **Baaki options kyun sahi nahi hain?** Grief context risk eliminate nahi karta. Isolation aur dismissal unsafe hain.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q79](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q79-a-bereaved-person-reports-inability-to-manage-daily-activities-and-expresses-thoughts-of-self-harm-what-is-the-priority)
 
 ### Q20. A nurse feels emotionally overwhelmed after repeated patient deaths. Which professional response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Seek supervision or peer support and use appropriate well-being resources while maintaining confidentiality
 - **B.** Share identifiable patient details publicly
@@ -380,7 +498,13 @@ Repeated loss emotional stress create kar sakti hai. Confidential debriefing, su
 
 **Baaki options kyun sahi nahi hain?** Public identifiable sharing confidentiality breach hai. Distress ignore karna care affect kar sakta hai. Support lena appropriate hai.
 
+
+**Topic reference:** [Open RN — grief and loss](https://www.ncbi.nlm.nih.gov/books/NBK610821/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q60](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q60-a-nurse-feels-emotionally-overwhelmed-after-repeated-patient-deaths-which-professional-response-is-appropriate)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)

@@ -265,30 +265,30 @@
 
 </details>
 
-### Q110. During review of a patient with diagnosed herpes zoster oticus, the nurse documents new tinnitus, hearing difficulty and prolonged vertigo in addition to facial palsy. Which interpretation best explains why an auditory and vestibular assessment is needed?
+### Q110. A temporal bone CT obtained for another indication reports possible superior semicircular canal dehiscence. The patient reports no sound- or pressure-triggered vertigo, unusual amplification of internal body sounds or pulsatile tinnitus. Which explanation best reflects the diagnostic significance of the scan?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original mock-exclusive practice
 
-- **A.** The eighth cranial nerve may also be involved in the zoster process
-- **B.** The facial nerve is the only nerve that can be affected
-- **C.** The symptoms prove that the patient's eustachian tube is permanently obstructed
-- **D.** The vestibular complaints establish uncomplicated cerumen impaction
+- **A.** The imaging finding alone does not establish symptomatic dehiscence syndrome, and compatible symptoms and physiological evidence must be considered
+- **B.** A second CT showing the same bony defect establishes symptomatic dehiscence syndrome even without clinical or physiological evidence
+- **C.** A normal tympanogram alone excludes every disorder involving an additional mobile opening in the inner ear
+- **D.** An enhanced vestibular evoked myogenic potential response alone establishes symptomatic dehiscence syndrome even without compatible symptoms
 
 <details><summary>✅ Answer aur detailed explanation</summary>
 
-**Correct answer: A. The eighth cranial nerve may also be involved in the zoster process**
+**Correct answer: A. The imaging finding alone does not establish symptomatic dehiscence syndrome, and compatible symptoms and physiological evidence must be considered**
 
-- **A. Kyun sahi hai:** Eighth cranial nerve ko vestibulocochlear nerve kehte hain. Iska cochlear part hearing aur vestibular part balance se related hai. Herpes zoster oticus mein seventh facial nerve ke saath eighth nerve bhi involved ho sakti hai. Isliye new tinnitus, hearing difficulty aur vertigo ko promptly report karke auditory aur vestibular assessment arrange karna important hai.
+- **A. Kyun sahi hai:** Superior semicircular canal inner ear ke balance system ka ek hissa hai. Normally is canal ke upar bone ki covering hoti hai. Agar covering mein defect ho, toh sound aur pressure inner ear mein unusual tareeke se transmit ho sakte hain. Lekin CT par defect jaisa dikhna aur patient ko us defect ki wajah se symptoms hona alag baatein hain. Bárány Society criteria ke mutabik symptomatic syndrome ka diagnosis compatible symptoms, abnormal pressure transmission ko support karne wale clinical ya physiological findings aur suitable high-resolution CT evidence ko saath mein interpret karke hota hai. Doosre possible causes bhi assess karne hote hain. Nurse patient ki actual symptom history document karegi aur ENT team se result clarify karwayegi. Sirf report dekhkar surgery ki need assume nahi karegi.
 
-- **B. Kyun galat hai:** Facial nerve ki involvement se facial movement affect hoti hai, lekin zoster nearby auditory aur balance nerve structures ko bhi affect kar sakta hai. Sirf seventh nerve assess karne se patient's additional deficits miss ho sakte hain.
+- **B. Kyun galat hai:** Repeat CT bone ki appearance ke baare mein additional information de sakti hai. Lekin agar same defect dobara dikh bhi jaaye, toh isse ye prove nahi hota ki patient ko symptomatic syndrome hai. Kuch logon mein aisa anatomical finding symptoms ke bina bhi mil sakta hai. Clinical history aur physiological findings ka role phir bhi important rehta hai.
 
-- **C. Kyun galat hai:** Eustachian tube middle ear ke pressure ko regulate karne mein help karti hai. Hearing aur balance symptoms se permanent tube obstruction prove nahi hota, especially jab zoster diagnosis already present hai. Specialist inner-ear involvement evaluate karega.
+- **C. Kyun galat hai:** Tympanometry middle ear ke pressure aur eardrum ki movement assess karne mein help karti hai. Superior canal dehiscence inner ear ka structural concern hai. Isliye normal tympanogram se har inner-ear pressure-transmission disorder exclude nahi hota. Specialist relevant symptoms aur additional tests ko saath mein interpret karta hai.
 
-- **D. Kyun galat hai:** Cerumen blockage outer canal mein conductive hearing difficulty cause kar sakta hai. Lekin diagnosed zoster ke saath prolonged vertigo, tinnitus aur facial palsy ko ordinary wax se explain karna unsafe hai. Patient ko hearing aur balance assessment chahiye.
+- **D. Kyun galat hai:** Vestibular evoked myogenic potential ko short mein VEMP kehte hain. Is test mein controlled stimulus ke response mein selected muscles ki electrical activity measure ki jaati hai, jisse inner ear ke balance pathways ki function ke baare mein information milti hai. Enhanced response abnormal sound-pressure transmission ka clue ho sakta hai, lekin ek abnormal VEMP result alone symptomatic syndrome establish nahi karta. Diagnosis ke liye compatible symptoms aur suitable imaging evidence bhi chahiye.
 
-**Exam clue:** CN VII facial movement aur CN VIII hearing/balance symptoms ko separate document karo.
+**Exam clue:** CT par anatomical defect dikhna aur us defect se symptomatic syndrome hona ek hi baat nahi hai.
 
-**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/ear%2C-nose%2C-and-throat-disorders/inner-ear-disorders/herpes-zoster-oticus).
+**Clinical reference:** [Bárány Society diagnostic criteria consensus](https://pubmed.ncbi.nlm.nih.gov/33522990/) · [Full-text consensus record](https://pmc.ncbi.nlm.nih.gov/articles/PMC9249274/) · [AAN VEMP practice guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC5705249/) · [Clinical review](https://tidsskriftet.no/en/2022/01/clinical-review/superior-semicircular-canal-dehiscence-syndrome).
 
 **YouTube MCQ practice:** Verification pending. No specific question-solving coverage verified.
 
