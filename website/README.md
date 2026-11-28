@@ -60,3 +60,15 @@ Library chapter cards show separate inventory counts and completion bars; resour
 ### V10 — Simple study language and immediate mistake review
 
 All website-generated question-count labels use questions or MCQs; internal schema field names remain compatible. The original study notes are unchanged. Review mistakes offers up to five currently incorrect answers from the same bank, even before a scheduled review. A correct recheck removes the question from the mistakes list; repeated checks do not inflate daily counts. The home dashboard offers a remaining-question shortcut for the recent partly studied bank and a mistake-review shortcut when available. Weekly feedback acknowledges study days without a streak penalty. Existing progress, saved results and revision dates remain intact. Fixed the public test selector to target the search box rather than the completion checkboxes.
+
+### V10.1 — mock counts and study labels
+
+Mock test totals count published question-containing documents classified as Mock test (including short topic mocks). Draft fragments and plans are not additional tests. Draft sections and their question totals are shown separately. Existing inventory counts and stored progress are unchanged. Shared readable type, count and personal-status labels appear on chapter, topic, Metrics and Progress cards. No invented difficulty or priority badges; colour is supplementary to text. The existing tests verify actual counts and status changes.
+
+### V10.2 — Today’s progress includes Mark done
+
+The daily goal combines actual checked answers with self-reported question totals from existing dated completion marks. Per bank and local day, use the larger count instead of adding both. The home screen separately displays answers checked here and additional questions marked done. Theory-only marks count as study topics but not questions. Existing marks made today are recognized without migration; older marks do not add to today's goal. Undoing/resetting a mark removes manual credit from its dated day; real answered-question history and test results are unchanged. Home refreshes on progress events, tab visibility and returning from browser history. Internal progress keys and original study content stay intact.
+
+### V10.3 — score-based learning feedback
+
+Every completed learning session displays score, percentage, correct and incorrect answers and specific next-step guidance. Perfect scores and scores of at least 80% celebrate; 60–79% encourages improvement, 40–59% suggests revisiting missed concepts, and lower scores recommend more topic study and practice. These are motivational thresholds, not exam pass marks. Students can retry the exact session or its missed questions without changing saved timed results. Original explanations are available for missed questions. Timed results use the same guidance with their existing net score. Also repairs the previous daily-goal release syntax error. Reduced motion remains respected.

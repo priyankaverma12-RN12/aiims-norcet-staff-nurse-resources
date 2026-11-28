@@ -4,7 +4,7 @@
 
 ### Q1. Which ethical principle supports a competent patient's right to accept or refuse treatment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept**
 
 - **A.** Nonmaleficence alone
 - **B.** Fidelity alone
@@ -19,11 +19,19 @@ Autonomy ka matlab person apne healthcare decisions informed manner mein le sakt
 
 **Baaki options kyun sahi nahi hain?** Justice fairness hai. Nonmaleficence harm avoid karna hai. Fidelity commitments maintain karna hai.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Related historical evidence:** [AIIMS Raipur Nursing Officer, 9 September 2017 — reported question](https://testbook.com/question-answer/which-ethical-principle-promote-self-determination--62d64d15ff75cc7e3bce129d). Is report mein self-determination se juda concept poochha gaya hai. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**▶️ [YouTube MCQ practice — autonomy aur consent, Nursing Wallah by PW (49:30)](https://www.youtube.com/watch?v=fkTaXvvSdaY&t=2970s).** Published video description mein is topic ka MCQ chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q14](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q14-which-ethical-principle-supports-a-competent-patients-right-to-accept-or-refuse-treatment)
 
 ### Q2. Which ethical principle refers to acting for the patient's benefit?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Confidentiality
 - **B.** Beneficence
@@ -38,11 +46,17 @@ Beneficence mein nurse patient ke welfare ko support karne wale actions choose k
 
 **Baaki options kyun sahi nahi hain?** Autonomy choice, veracity truthfulness aur confidentiality privacy se related hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**▶️ [YouTube MCQ practice — beneficence, Nursing Wallah by PW (19:14)](https://www.youtube.com/watch?v=fkTaXvvSdaY&t=1154s).** Published video description mein is topic ka MCQ chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q1](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q1-which-ethical-principle-refers-to-acting-for-the-patients-benefit)
 
 ### Q3. Which principle is illustrated by avoiding an unnecessary invasive procedure that may injure a patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** Nonmaleficence
 - **B.** Justice alone
@@ -57,11 +71,19 @@ Nonmaleficence ka focus avoidable harm prevent karna hai. Unnecessary invasive p
 
 **Baaki options kyun sahi nahi hain?** Justice fairness, fidelity promise aur veracity truthfulness describe karte hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Related historical evidence:** [AIIMS Jodhpur Nursing Officer, 10 December 2019 — reported question](https://testbook.com/question-answer/do-no-harm-is-which-ethical-principle--625d482688f39a1df3f5ad3b). Is report mein do no harm se juda concept poochha gaya hai. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**▶️ [YouTube MCQ practice — nonmaleficence, Nursing Wallah by PW (09:59)](https://www.youtube.com/watch?v=fkTaXvvSdaY&t=599s).** Published video description mein is topic ka MCQ chapter diya gaya hai. Exact item aur playback confirm nahi hue hain.
 </details>
+
+[Legacy revision reuse: Mock 01, Q115](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q115-which-principle-is-illustrated-by-avoiding-an-unnecessary-invasive-procedure-that-may-injure-a-patient)
 
 ### Q4. Two patients need the same limited clinical resource. Which ethical principle guides fair allocation based on relevant criteria?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift III — related reported concept**
 
 - **A.** Favoritism
 - **B.** Confidentiality alone
@@ -76,11 +98,19 @@ Justice resources aur care decisions mein fairness promote karti hai. Clinical n
 
 **Baaki options kyun sahi nahi hain?** Favoritism unfair hai. Confidentiality information protection hai. Convenience allocation ka sole criterion nahi hona chahiye.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Related historical evidence:** [RRB Nursing Superintendent, 29 April 2025 Shift III — reported question](https://testbook.com/question-answer/in-a-scenario-where-multiple-trauma-patients-arriv--681db35f7cb85ba7153e1915). Is report mein fair resource allocation se juda concept poochha gaya hai. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 01, Q117](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q117-two-patients-need-the-same-limited-clinical-resource-which-ethical-principle-guides-fair-allocation-based-on-relevant-criteria)
 
 ### Q5. Which action demonstrates veracity in nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Promise guaranteed recovery without evidence
 - **B.** Hide every adverse effect from the patient
@@ -95,11 +125,17 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 **Baaki options kyun sahi nahi hain?** Guarantees, concealment aur invented explanation trust undermine karte hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q31](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q31-which-action-demonstrates-veracity-in-nursing)
 
 ### Q6. A patient requests that a particular health detail not be discussed with visitors. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Display the detail publicly
 - **B.** Assume all relatives have unrestricted access
@@ -114,11 +150,17 @@ Patient ki health information confidential hai. Nurse consent aur applicable leg
 
 **Baaki options kyun sahi nahi hain?** Polite request aur family relationship alone full access authorize nahi karte. Public display privacy breach hai.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q74](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q74-a-patient-requests-that-a-particular-health-detail-not-be-discussed-with-visitors-what-should-the-nurse-do)
 
 ### Q7. A patient appears unable to understand the consequences of a proposed treatment because of acute delirium. What is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Ignore the patient's wishes entirely
 - **B.** Arrange assessment of decision-making capacity and follow applicable consent and emergency policies
@@ -133,11 +175,17 @@ Capacity decision-specific aur time-specific ho sakti hai. Delirium understandin
 
 **Baaki options kyun sahi nahi hain?** Adult status alone capacity prove nahi karta. Any visitor authorized surrogate nahi hota. Patient preferences still matter.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q21](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q21-a-patient-appears-unable-to-understand-the-consequences-of-a-proposed-treatment-because-of-acute-delirium-what-is-appropriate)
 
 ### Q8. Which step should occur before developing an individualized patient education plan?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Assess learning needs, readiness, language and existing knowledge
 - **B.** Select the longest available lecture first
@@ -152,11 +200,17 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 **Baaki options kyun sahi nahi hain?** Long lecture har patient ke liye suitable nahi hai. Learning needs vary karti hain. Universal pretest required nahi hai.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 02, Q116](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q116-which-step-should-occur-before-developing-an-individualized-patient-education-plan)
 
 ### Q9. A patient can describe insulin administration but cannot correctly demonstrate it. Which learning domain needs further assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Psychomotor domain
 - **B.** Cognitive knowledge alone
@@ -171,11 +225,17 @@ Psychomotor domain actual physical skill se related hai. Verbal knowledge ke baw
 
 **Baaki options kyun sahi nahi hain?** Cognitive knowledge facts samajhna hai. Affective attitudes-values hain. Documentation skill acquisition ka domain nahi hai.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q41](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q41-a-patient-can-describe-insulin-administration-but-cannot-correctly-demonstrate-it-which-learning-domain-needs-further-assessment)
 
 ### Q10. Which method best evaluates a newly taught dressing-change skill?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** A yes-or-no question only
 - **B.** Reading the leaflet aloud
@@ -190,11 +250,17 @@ Return demonstration mein patient task khud karke dikhata hai. Nurse mistakes ob
 
 **Baaki options kyun sahi nahi hain?** Yes-no aur leaflet reading actual procedural skill prove nahi karte. Nurse name unrelated hai.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q115](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q115-which-method-best-evaluates-a-newly-taught-dressing-change-skill)
 
 ### Q11. A patient has limited literacy and speaks a different language. Which education approach is best?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Rely on a young child to translate sensitive information by default
 - **B.** Assume nodding means full comprehension
@@ -209,11 +275,17 @@ Language aur literacy barriers treatment misunderstanding cause kar sakte hain. 
 
 **Baaki options kyun sahi nahi hain?** Technical text inaccessible ho sakta hai. Child interpreter privacy-accuracy concerns raise kar sakta hai. Nodding comprehension prove nahi karta.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q6](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q6-a-patient-has-limited-literacy-and-speaks-a-different-language-which-education-approach-is-best)
 
 ### Q12. Which teaching objective is measurable and patient-centered?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** The ward will be quiet
 - **B.** The patient will demonstrate correct inhaler use before discharge
@@ -228,11 +300,17 @@ Specific action aur deadline se nurse outcome evaluate kar sakti hai. Inhaler de
 
 **Baaki options kyun sahi nahi hain?** Teaching quality vague hai. Everything measurable nahi hai. Quiet ward patient learning objective nahi hai.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 03, Q109](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q109-which-teaching-objective-is-measurable-and-patient-centered)
 
 ### Q13. A patient requests a religious dietary accommodation that appears compatible with treatment. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Secretly substitute a prohibited food
 - **B.** Explore the preference and coordinate a clinically suitable meal plan
@@ -247,11 +325,17 @@ Culturally safe care patient ki own preferences poochti hai. Dietitian aur team 
 
 **Baaki options kyun sahi nahi hain?** Automatic rejection aur stereotypes individualized care reduce karte hain. Secret substitution trust violate karti hai.
 
+
+**Topic reference:** [Open RN — diverse patients](https://www.ncbi.nlm.nih.gov/books/NBK610841/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q44](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q44-a-patient-requests-a-religious-dietary-accommodation-that-appears-compatible-with-treatment-what-should-the-nurse-do)
 
 ### Q14. Which approach is appropriate when a patient prefers a same-gender caregiver for intimate hygiene?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Discuss the preference respectfully and accommodate when feasible while explaining urgent safety needs
 - **B.** Mock the request
@@ -266,11 +350,17 @@ Intimate care mein privacy aur comfort important hain. Nurse feasible accommodat
 
 **Baaki options kyun sahi nahi hain?** Mocking aur dismissal disrespectful hain. Emergency care inappropriate delay nahi honi chahiye.
 
+
+**Topic reference:** [Open RN — diverse patients](https://www.ncbi.nlm.nih.gov/books/NBK610841/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q113](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q113-which-approach-is-appropriate-when-a-patient-prefers-a-same-gender-caregiver-for-intimate-hygiene)
 
 ### Q15. A patient reports using a traditional herbal product along with prescribed anticoagulants. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Tell the patient to hide the product from the team
 - **B.** Assume all herbal products are harmless
@@ -285,11 +375,17 @@ Herbal products medicines ke effect ya bleeding risk change kar sakte hain. Resp
 
 **Baaki options kyun sahi nahi hain?** Concealment aur harmless assumption unsafe hain. Prescribed treatment independently stop nahi karna chahiye.
 
+
+**Topic reference:** [Open RN — diverse patients](https://www.ncbi.nlm.nih.gov/books/NBK610841/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q1](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q1-a-patient-reports-using-a-traditional-herbal-product-along-with-prescribed-anticoagulants-what-should-the-nurse-do)
 
 ### Q16. What is health literacy in the context of nursing education?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** A measure of intelligence based on schooling alone
 - **B.** Ability to read the hospital name
@@ -304,11 +400,17 @@ Health literacy practical health decisions aur services navigate karne se relate
 
 **Baaki options kyun sahi nahi hain?** Medical vocabulary aur schooling alone health literacy determine nahi karte. Hospital name reading limited task hai.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 04, Q88](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q88-what-is-health-literacy-in-the-context-of-nursing-education)
 
 ### Q17. A nurse has a conflict of interest in recommending a paid product to a patient. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Recommend the product solely for personal gain
 - **B.** Pressure the patient to buy immediately
@@ -323,11 +425,17 @@ Conflict patient-centered judgment influence kar sakta hai. Transparency aur pol
 
 **Baaki options kyun sahi nahi hain?** Concealment, personal gain aur pressure patient trust compromise karte hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q115](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q115-a-nurse-has-a-conflict-of-interest-in-recommending-a-paid-product-to-a-patient-which-action-is-appropriate)
 
 ### Q18. Which nursing action reflects accountability?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **🟣 DSSSB Nursing Officer, 27 August 2019 Shift III — related reported concept**
 
 - **A.** Ignore competence limits
 - **B.** Accept responsibility for assigned care and accurately report actions and errors
@@ -342,11 +450,19 @@ Accountability mein nurse apne actions aur professional decisions ki responsibil
 
 **Baaki options kyun sahi nahi hain?** Blame shifting, false record aur scope ignore karna accountability ke opposite hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Related historical evidence:** [DSSSB Nursing Officer, 27 August 2019 Shift III — reported question](https://testbook.com/question-answer/the-responsibility-of-a-nurse-to-hisher-nursing-s--61d2cd778c54f034fbd068f2). Is report mein professional accountability se juda concept poochha gaya hai. Yeh original question ka exact match nahi hai aur official paper ya key independently authenticate nahi hui hai.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q95](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q95-which-nursing-action-reflects-accountability)
 
 ### Q19. A patient refuses a student nurse's participation in an intimate procedure. What should the supervising nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Respect the refusal and arrange appropriate care without the student
 - **B.** Insist because teaching hospitals require consent to all student participation
@@ -361,11 +477,17 @@ Patient ko intimate care aur observer participation ke baare mein informed choic
 
 **Baaki options kyun sahi nahi hain?** Teaching status automatic permission nahi deta. Secret observation privacy breach aur threats coercion hain.
 
+
+**Topic reference:** [Open RN — scope of practice](https://www.ncbi.nlm.nih.gov/sites/books/NBK610819/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q45](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q45-a-patient-refuses-a-student-nurses-participation-in-an-intimate-procedure-what-should-the-supervising-nurse-do)
 
 ### Q20. Which teaching strategy is most appropriate when the patient is exhausted and unable to concentrate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice
 
 - **A.** Deliver a long lecture regardless of readiness
 - **B.** Label the patient noncompliant
@@ -380,7 +502,13 @@ Fatigue concentration aur recall affect kar sakti hai. Nurse essential safety in
 
 **Baaki options kyun sahi nahi hain?** Long lecture aur forced memorization ineffective ho sakte hain. Judgmental labeling barriers address nahi karti.
 
+
+**Topic reference:** [Open RN — teaching and learning](https://www.ncbi.nlm.nih.gov/sites/books/NBK615324/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 </details>
+
+[Legacy revision reuse: Mock 05, Q56](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q56-which-teaching-strategy-is-most-appropriate-when-the-patient-is-exhausted-and-unable-to-concentrate)
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)

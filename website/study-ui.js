@@ -17,19 +17,19 @@ async function showMetrics(){
  $('metrics-method').textContent=data.method;
  function draw(){
   const chapters=select.value?data.chapters.filter(c=>c.id===select.value):data.chapters,k=category.value,q=search.value.trim().toLowerCase();grid.replaceChildren();list.replaceChildren();
-  const totals={};for(const key of Object.keys(metricLabels)){totals[key]=chapters.reduce((sum,c)=>sum+(c.totals[key]||0),0);const tile=metricCard(metricLabels[key],totals[key]);if(key==='mock')tile.append(node('small',chapters.reduce((n,c)=>n+c.banks.mock,0)+' mock files'));grid.append(tile)}
+  const totals={};for(const key of Object.keys(metricLabels)){totals[key]=chapters.reduce((sum,c)=>sum+(c.totals[key]||0),0);const mock=key==='mock'?mockSummary(data,chapters.flatMap(c=>c.records)):null;const tile=metricCard(mock?'Mock tests':metricLabels[key],mock?mock.tests:totals[key]);if(mock){tile.append(node('small',countPhrase(mock.questions,'question'),'mock-question-total'));if(mock.drafts)tile.append(node('small',countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question'),'mock-draft-total'));if(mock.otherQuestions)tile.append(node('small',countPhrase(mock.otherQuestions,'other mock question')))}grid.append(tile)}
   for(const c of chapters){
    const matches=c.records.filter(f=>(!k||f.category===k)&&(!q||(f.title+' '+f.path+' '+c.name).toLowerCase().includes(q)));
    if(q&&!matches.length)continue;
    const card=node('details',undefined,'metric-chapter'),summary=node('summary'),title=node('span',c.name,'metric-chapter-title'),chips=node('span',undefined,'metric-chips');
-   for(const key of ['mcq','mock','pyq'])chips.append(node('span',c.totals[key]+' '+({mcq:'MCQs',mock:'mock questions',pyq:'PYQ questions'}[key])));
+   const mock=mockSummary(data,c.records);chips.append(studyTag(countPhrase(c.totals.mcq,'MCQ','MCQs'),'mcq'),studyTag(mockCountText(mock),'mock'),studyTag(countPhrase(c.totals.pyq,'PYQ question'),'pyq'));if(mock.drafts)chips.append(studyTag(countPhrase(mock.drafts,'draft section'),'draft'));
    summary.append(title,chips);card.append(summary);card.open=!!select.value||!!q;
-   const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',c.banks.mock+' mock files · '+c.evidenceFiles+' exam notes and source lists'));card.append(tools);
+   const tools=node('div',undefined,'metric-chapter-tools');const progressLink=node('a','My chapter progress →');progressLink.href='./?progress=1&chapter='+encodeURIComponent(c.id);tools.append(studyLink('Open chapter →','Chapters/'+c.id+'/README.md'),progressLink,node('span',countPhrase(c.evidenceFiles,'exam note or source list','exam notes and source lists')));card.append(tools);
    const rows=node('div',undefined,'metric-records');for(const f of matches){
-    const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
+    const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy');
     row.href=route(f.path);row.dataset.category=f.category;
     const glyph=node('span',({mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
-    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));const personal=studyLabel(f.path);if(personal)left.append(personal);
+    const type=resourceTypeTag(f.path);type.dataset.role='type';left.append(node('span',knownTitle(f.path),'metric-record-title'),type);const personal=studyLabel(f.path);if(personal)left.append(personal);
     const count=node('div',undefined,'metric-record-count');count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
     const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
     row.append(glyph,left,count,arrow);rows.append(resourceCardWithProgress(row,f.path,{count:false}))
@@ -54,7 +54,7 @@ function compactIndex(content,p,catalog){
  if(!groups.size)return;
  const panel=node('section',undefined,'compact-index'),hint=node('p','Choose a topic to study. Mark it done when you finish.','muted');panel.append(hint);
  const filter=node('input');filter.type='search';filter.placeholder='Find a topic or study resource…';filter.setAttribute('aria-label','Find a topic in this index');panel.append(filter);const groupList=node('div',undefined,'index-resource-groups');panel.append(groupList);
- function draw(){groupList.replaceChildren();const query=filter.value.trim().toLowerCase();for(const [label,links] of groups){const matches=links.filter(l=>!query||(l.text+' '+label).toLowerCase().includes(query));if(!matches.length)continue;const section=node('details',undefined,'index-resource-group');section.open=!!query||groups.size<=2||!groupList.children.length;const summary=node('summary');summary.append(node('strong',label),node('span',matches.length+' links'));section.append(summary);const list=node('div',undefined,'index-link-list');for(const l of matches){const a=node('a',l.text);a.href=l.href;list.append(resourceCardWithProgress(a,l.path))}section.append(list);groupList.append(section)}if(!groupList.children.length)groupList.append(node('p','No matching resources.','muted'))}
+ function draw(){groupList.replaceChildren();const query=filter.value.trim().toLowerCase();for(const [label,links] of groups){const matches=links.filter(l=>!query||(l.text+' '+label).toLowerCase().includes(query));if(!matches.length)continue;const section=node('details',undefined,'index-resource-group');section.open=!!query||groups.size<=2||!groupList.children.length;const summary=node('summary');summary.append(node('strong',label),node('span',countPhrase(matches.length,'study item')));section.append(summary);const list=node('div',undefined,'index-link-list');for(const l of matches){const a=node('a',l.text);a.href=l.href;list.append(resourceCardWithProgress(a,l.path))}section.append(list);groupList.append(section)}if(!groupList.children.length)groupList.append(node('p','No matching resources.','muted'))}
  filter.oninput=draw;draw();
  const original=node('details',undefined,'original-index');original.id='original-index';original.append(node('summary','Full original index and study notes'));const nodes=[...content.childNodes];for(const n of nodes)if(n!==title)original.append(n);content.append(panel,original);
 }

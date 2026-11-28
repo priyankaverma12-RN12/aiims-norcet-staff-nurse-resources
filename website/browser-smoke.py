@@ -84,7 +84,7 @@ try:
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")
-        expect(page.locator(".metric-record small").first).to_have_text("Mock questions")
+        expect(page.locator(".metric-record .study-tag[data-role=type]").first).to_have_text("Mock test")
         no_overflow(page)
         page.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
         ready(page)

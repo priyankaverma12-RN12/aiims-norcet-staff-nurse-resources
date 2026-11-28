@@ -54,14 +54,58 @@ with sync_playwright() as p:
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
+        resp=next(c for c in expected["chapters"] if c["id"]=="Respiratory-System")
+        resp_mocks=[f for f in resp["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+        expect(respiratory.locator(".chapter .study-tag[data-kind=mock]")).to_have_text(f"{len(resp_mocks)} mock tests · {sum(f['slots'] for f in resp_mocks):,} questions")
+        # Check every displayed Library chapter against the actual deployment inventory.
+        actual=page.locator(".chapter-card .chapter").evaluate_all("""els=>els.map(e=>({id:new URL(e.href).searchParams.get('doc').split('/')[1],text:e.querySelector('.study-tag[data-kind=mock]')?.textContent||''}))""")
+        for item in actual:
+            c=next(c for c in expected["chapters"] if c["id"]==item["id"])
+            m=[f for f in c["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+            q=sum(f["slots"] for f in m)
+            assert item["text"]==f"{len(m)} mock test{'s' if len(m)!=1 else ''} · {q:,} question{'s' if q!=1 else ''}",item
         respiratory.get_by_role("link",name="Respiratory System MCQs",exact=True).click()
         ready()
         sample="Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md"
         bank=page.locator(".tracked-resource-card").filter(has=page.locator(".file-card strong",has_text="Day 1 — Respiratory Anatomy & Physiology")).first
         expect(bank.locator(".file-count")).to_have_text("44 questions")
+        expect(bank.locator(".study-tag[data-role=type]")).to_have_text("MCQ practice")
+        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("Not started")
         bank.locator("input[type=checkbox]").check()
+        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("✓ Completed")
         expect(bank.locator(".tracked-resource-line strong")).to_have_text("100%")
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
+        # Marks from any study list must count toward the daily home goal immediately.
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("0 answered here")
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("44 more marked done")
+        expect(page.locator(".study-day.today strong")).to_have_text("44")
+        expect(page.locator("#daily-study h2")).to_have_text("Daily goal complete!")
+        # Marked completion and an actual answer in the same bank do not count twice.
+        go({"doc":sample})
+        ready()
+        page.get_by_role("button",name="Learn with instant feedback").click()
+        page.locator("input[name=learn-choice][value=B]").check()
+        page.get_by_role("button",name="Check answer").click()
+        page.once("dialog",lambda d:d.accept())
+        page.get_by_role("button",name="Exit learning").click()
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
+        # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
+        expect(recent.locator("input[type=checkbox]")).to_be_checked()
+        recent.locator("input[type=checkbox]").uncheck()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions")
+        recent.locator("input[type=checkbox]").check()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions")
+        # Verify unmark/reset without corrupting the subsequent existing regression.
+        go({"doc":sample.rsplit("/",1)[0]+"/"})
+        ready()
+        expect(bank.locator("input[type=checkbox]")).to_be_checked()
+
         page.reload()
         ready()
         expect(bank.locator("input[type=checkbox]")).to_be_checked()
@@ -75,6 +119,10 @@ with sync_playwright() as p:
         page.once("dialog",lambda d:d.accept())
         metric.locator(".completion-reset").click()
         expect(metric.locator(".tracked-resource-line strong")).to_have_text("0%")
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("0 more marked done")
+        print(f"Daily manual mark, existing answer deduplication and reset verified at {width}x{height}.",flush=True)
         go({"doc":"Chapters/Respiratory-System/README.md"})
         ready()
         expect(page.locator(".resource-subtitle .resource-question-count")).to_contain_text("MCQs")
@@ -132,7 +180,9 @@ with sync_playwright() as p:
         expect(records).to_have_count(len(chapter["records"]))
         print(f"Published metrics resource cards {width}x{height}: exact counts, full links, responsive grid and filtering passed.",flush=True)
 
-        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"][k] for k in ["mcq","mock","pyq","imported","embedded"]])
+        mocks=[f for f in chapter["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
+        expect(page.locator(".mock-question-total")).to_have_text(f"{sum(f['slots'] for f in mocks):,} questions")
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
         assert page.locator(".metric-tile").first.evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
@@ -238,6 +288,37 @@ with sync_playwright() as p:
         page.get_by_role("button",name="Back to study material").click()
         expect(page.get_by_role("button",name="Review mistakes (1)",exact=True)).to_have_count(0)
         print("Immediate mistake review and removal after correct answer passed.",flush=True)
+        # Real five-question practice: one correct, four wrong, then review the exact same set.
+        page.get_by_role("button",name="Quick 5-question practice").click()
+        chosen=page.evaluate("""async()=>{const p=new URLSearchParams(location.search).get('doc'),b=parseBank(await read(p));return quickItems(loadRoutine(),p,b.items,'quick').map(q=>q.key)}""")
+        for i,key in enumerate(chosen):
+            answer=key if i==0 else next(x for x in "ABCD" if x!=key)
+            page.locator(f"input[name=learn-choice][value={answer}]").check()
+            page.get_by_role("button",name="Check answer").click()
+            page.get_by_role("button",name="Finish learning" if i==4 else "Next question").click()
+        expect(page.locator(".learning-result .result-score strong")).to_have_text("1 / 5")
+        expect(page.locator(".learning-result .result-score")).to_contain_text("20.0% correct")
+        expect(page.locator(".learning-greeting")).to_contain_text("needs more practice")
+        expect(page.locator(".learning-result")).to_have_attribute("data-performance","review")
+        expect(page.locator(".learning-result.result-celebration")).to_have_count(0)
+        expect(page.locator(".learning-result-stats")).to_contain_text("Incorrect")
+        page.locator(".learning-missed-review > summary").click()
+        expect(page.locator(".learning-missed-review .review-card")).to_have_count(4)
+        expect(page.locator(".learning-missed-review .original-explanation")).to_have_count(4)
+        page.get_by_role("button",name="Practise mistakes (4)",exact=True).click()
+        expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 4")
+        for i,key in enumerate(chosen[1:]):
+            page.locator(f"input[name=learn-choice][value={key}]").check()
+            page.get_by_role("button",name="Check answer").click()
+            page.get_by_role("button",name="Finish learning" if i==3 else "Next question").click()
+        expect(page.locator(".learning-result .result-score strong")).to_have_text("4 / 4")
+        expect(page.locator(".learning-result .result-score")).to_contain_text("100.0% correct")
+        expect(page.locator(".learning-greeting")).to_have_text("Hurrah! Perfect score!")
+        expect(page.locator(".learning-result.result-celebration")).to_be_visible()
+        assert page.locator(".learning-result .result-check").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
+        fit()
+        print(f"Performance-based learning score, low-score coaching, exact missed-answer retry and perfect-score reward passed at {width}x{height}.",flush=True)
+
         print(f"Automatic bank completion, cumulative coverage, remaining questions, reload, chapter tracker and reset passed at {width}x{height}.",flush=True)
         print(f"Published V8 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)
         ctx.close()

@@ -33,3 +33,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Maternal renal and gastrointestinal evidence — 28 November 2026
 
 [Coaching sample practice and recruitment evidence gaps](03C-Maternal-Renal-GI-Exam-Evidence.md). Mannat Academy coaching PDF page 3 Q51 was retrieved, but this is not an authenticated recruitment PYQ. HPRCA final-key notice for post code 26004 was located in search and direct retrieval failed. No newly authenticated nursing recruitment item was established. Seven reported Obstetric adaptations remain indexed. One coaching sample is separately labelled and excluded from original and reported counts. Dedicated renal/GI MCQ description-level lead located, item-specific playback verification pending for all 35 new originals.
+
+## Maternal endocrine evidence — 28 November 2026
+
+[GMCH Nursing Officer 29 June 2025 reported progesterone adaptation](03E-Maternal-Endocrine-Exam-Evidence.md). Retrieved third-party source, official booklet and key not authenticated. RMLIMS 7 September 2025 related task not counted separately. AIIMS Nagpur 2020 corpus luteum report retrieved and additional ESIC, HSSC and NCL leads recorded. Eight reported adaptations are now indexed in Obstetrics. Specific MCQ video verification for 19 new originals and HPRCA question-level evidence remain pending.

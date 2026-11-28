@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 148 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal aur 18 gastrointestinal MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 167 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal aur 19 endocrine MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -12,6 +12,7 @@
 | Maternal cardiovascular and hematological changes | [30 original clinical MCQs](MCQs/03A-Maternal-Cardiovascular-and-Hematological-Changes-30-MCQs.md) · [1 reported exam adaptation and related evidence](Previous-Year-Questions/03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md) |
 | Individual cardiovascular, hematological and respiratory adaptations | [Expanded concepts and flowchart](Concepts/03B-Maternal-Cardiorespiratory-and-Hematological-Adaptations.md) · [19 additional original MCQs and allocation](MCQs/03B-Maternal-Cardiorespiratory-and-Hematological-19-MCQs.md) · [Rajasthan CHO reported adaptation](Previous-Year-Questions/03B-Maternal-Respiratory-Exam-Evidence.md) |
 | Maternal renal and gastrointestinal adaptations | [Detailed concepts and two flowcharts](Concepts/03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md) · [17 renal MCQs](MCQs/03C-Maternal-Renal-Adaptations-17-MCQs.md) · [18 gastrointestinal MCQs](MCQs/03D-Maternal-Gastrointestinal-Adaptations-18-MCQs.md) · [Exam evidence and coaching practice](Previous-Year-Questions/03C-Maternal-Renal-GI-Exam-Evidence.md) |
+| Maternal endocrine adaptations | [Detailed concepts and flowchart](Concepts/03E-Maternal-Endocrine-Adaptations.md) · [19 additional original MCQs](MCQs/03E-Maternal-Endocrine-Adaptations-19-MCQs.md) · [GMCH 2025 reported adaptation](Previous-Year-Questions/03E-Maternal-Endocrine-Exam-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -37,3 +38,7 @@ Cardiovascular, hematological aur respiratory changes mein ab 20 original questi
 ## Verified renal and gastrointestinal expansion — 28 November 2026
 
 Ab renal adaptations mein overview Q12–Q14 ke saath 17 naye originals aur gastrointestinal adaptations mein overview Q15–Q16 ke saath 18 naye originals allocate hue hain. Dono systems mein 20 original slots hain. Cardiovascular, hematological aur respiratory systems ki earlier 20-per-system allocation preserve hai. Is batch mein 35 naye original MCQs, 140 individual option rationales aur do original Mermaid flowcharts publish hue hain. Seven reported recruitment adaptations unchanged hain. Ek coaching-source practice item separately label kiya gaya hai aur original ya reported inventory mein dobara count nahi hua hai. Next endocrine, breast, musculoskeletal aur skin adaptations ki separate allocation karein. Exact video coverage, official historical keys, comprehensive semantic audit aur larger repository target abhi pending hain.
+
+## Verified endocrine expansion — 28 November 2026
+
+Endocrine adaptations mein overview Q17 ke saath 19 naye originals allocate hue hain. Is topic ke 20 original slots hain. Is run mein 76 individual option rationales, detailed Roman Hinglish concepts aur original Mermaid flowchart publish hue hain. GMCH Nursing Officer 29 June 2025 ka ek source-linked reported adaptation alag se add hua hai. RMLIMS Lucknow 7 September 2025 ka related task dobara count nahi kiya gaya hai. Ab chapter mein 167 indexed originals aur eight reported adaptations hain. Breast, musculoskeletal aur skin adaptations ki individual expansion, exact video playback, official key authentication aur independent semantic audit pending hain.

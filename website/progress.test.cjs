@@ -22,3 +22,12 @@ assert.equal(completionState(keyRecord,{[p]:{mode:'pending',slots:2}},checked).d
 assert.equal(completionState({...keyRecord,signature:'v2'},{[p]:{slots:2,signature:'v1'}},{banks:{}}).changed,true);
 assert.equal(completionState({...keyRecord,questionKeys:['a','a']},{},checked).done,false);
 console.log('Automatic completion, exact current-question matching, manual override and changed-source tests passed.');
+
+const {mockSummary,mockCountText,inventoryLabelParts,progressTagInfo}=require('./progress.js');
+assert.deepEqual(mockSummary(data,data.chapters[0].records),{tests:1,questions:120,drafts:1,draftQuestions:10,otherQuestions:0});
+assert.equal(mockCountText(mockSummary(data,data.chapters[0].records)),'1 mock test · 120 questions');
+assert.deepEqual(inventoryLabelParts('Chapters/X/Mock-Tests/',data).map(x=>x.text),['1 mock test · 120 questions','1 draft section · 10 questions']);
+assert.equal(mockCountText(mockSummary(data,[])),'0 mock tests · 0 questions');
+assert.deepEqual(progressTagInfo({done:false,checked:1}),['In progress','active']);
+assert.deepEqual(progressTagInfo({done:true}),['✓ Completed','done']);
+console.log('Published mock test counts, separate draft counts, zero state and personal study labels passed.');
