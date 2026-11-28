@@ -99,3 +99,47 @@ PR7/8 prior explicit requests 7235777582 and 7235778156 still have no Nutrition 
 | New published originals, mock-exclusive or authenticated PYQs | 0 |
 
 Cumulative Run 7 corrections: 06D and 06C, 40 existing questions and 160 revised rationales, no extra authorship credit. New authoring: 20 questions and 80 rationales. Remaining independent qualified clinical/pharmacy, comprehensive semantic/source, video, curriculum, PR7/8 and final CI gates. Continue 07B nutrition education and counselling after overlap screening, then menu/exchange/budget planning, school-age and elderly nutrition, programme and current food-standards depth. Only after certified topic coverage, original-only mocks and source-traced PYQs. No shared navigation, learner history, website or schedules changed.
+
+
+## Continuation — 07B Nutrition education and counselling
+
+Baseline 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff, released claim 550cbf14c14c349ff662d464333289ff8ade0610. Acquired isolated 07B claim f7f88230ed5c9fbd08dd24bd941e3045d40a4f67, exact readback. Both skills, AGENTS, Copilot and audit log blob identities unchanged, no repeated historical retrieval. Fresh formal claims, relevant adjacent manual claims, 21 open PR titles and main delta checked. Main delta from previous release was unrelated Biochemistry claim only. PR7/8 prior navigation requests 7235777582 and 7235778156 lack explicit release. Shared navigation and learner history untouched.
+
+| Actual content | Verified commit | Final blob |
+|---|---|---|
+| 07B original 20-question bank | a305999bf667cf333f33f65f28eb122a63b5f6f2 | b4b95dd3fac5e9feb3d5183c08e884d499851421 (initial) |
+| Q14 semantic replacement | cd97c645f9e438100c46ebb31649a1ccf78b716e | 5b0534038d32797432cb95fe90620e4fb96846a5 |
+| Original SVG 14 | 8cc54ece3f2cd97033ef7de9eb00e3098d22f4b5 | 58d6e734d795d2e01f03d8e2fe6b880d97bbb949 |
+| Guide 14 | 5bd4fe713387580c7090c2c98e4d37603d489d14 | e99b1ca1d763e7c777c82297e3be7e8746361b2c |
+| Difficulty correction, final 07B bank | c93ac3f2852304cca241e1b2e09063a9d1aa4e81 | f2632bed360565fad2d367a8fe05bc882f02459f |
+
+All content exact readbacks passed. Final 20 distinct authored candidate stems, 80 separate English options and Roman Hinglish rationales, 20 hidden matching keys, 20 individual clues/evidence rows, 20 explicit video gaps. Keys BDACBADCABDCCABDBDCA (A/B/C/D five each). Difficulty two Easy and 18 Medium, no artificial Difficult classification. Q10 observed programme reach 156/240 = 65%. Regraded Q10 and Q13 without changing any question, key or rationale. Independent difficulty and distractor review pending.
+
+### Targeted overlap review
+
+Compared the learning objectives with all 140 stems from Nutrition 02E, 03D, 04A–C, 05C and 06A. Existing 03D Q11 dietary diversity outcome, 04A Q20 plate-method independent use, 04C Q1 therapeutic relationship and Q18 individual lunch goal evaluation, and 04B Q20 household lower-sodium practice evaluation were avoided as direct new tasks. Initial new Q14 was close to 03D Q18 general plate versus individual renal restrictions. Replaced it before release with independent nutrition education and sponsor conflict-of-interest safeguards, maintaining the key letter and preserving the other 19 slots. Q9 process delivery, Q11 fidelity and Q17 input readiness measure distinct implementation decisions. Q12 knowledge gain and Q13 causal interpretation are distinct outcome reasoning tasks. Q15 canteen supply barrier and Q20 follow-up after ingredient unavailability require different programme actions, but comprehensive semantic review remains mandatory.
+
+Adjacent active PR40 Management/Education, PR39 Geriatrics, PR45 Child Health and PR48 Foundations changed-file lists inspected. PR40 candidate focuses leadership, staffing, supervision, audit and inventory. Its full question-level comparison (especially educator competence Q19) is still pending, along with other active and main chapter banks. No claim of exhaustive semantic uniqueness. Earlier 06C/06D/07A work preserved, not repeated.
+
+### Evidence and curriculum limits
+
+FAO nutrition education, educator training and programme evaluation web pages directly retrieved. ICMR-NIN education resource listing directly retrieved. FAO evidence platform recommendation 3.5.3.b directly retrieved for Q14 conflict safeguards. IGNOU Unit 9 and INC-hosted curriculum PDF text retrieved, screenshot attempts cache miss. INC PDF covers health education methods, IEC/BCC, counselling and nutrition menu/budget planning; full programme/version and current BSc/GNM/PB BSc individual-topic depth not certified. Previous indexed BSc Unit XI remains provisional. No exact historical item claims. Broad Voogly nutrition marathon description indexed only, no dedicated 07B item coverage. All 20 specific MCQ-video gaps explicit. No independent qualified clinical/pharmacy reviewer approval. Original SVG locally XML parsed, CairoSVG rendered and visually inspected, exact Git blob hash matched. Website rendering not certified.
+
+PR35 review list empty. Content-only delta from baseline before checkpoint comprised only three newly added files. Candidate CI 46125379653 at 5bd4fe713387580c7090c2c98e4d37603d489d14 pending when checked, superseded by final difficulty and checkpoint commits. Final head CI still needs verification. No merge or live credit.
+
+### Latest staged inventory — supersedes prior counts
+
+| Material | Count |
+|---|---:|
+| Prior staged original questions preserved | 600 |
+| New 07B candidate originals | 20 |
+| Total staged originals | 620 |
+| Individual rationales | 2480 |
+| Topic banks | 31 |
+| Concept guides | 14 |
+| Original SVG diagrams | 14 |
+| Separate live legacy originals | 4 |
+| Separate reported adaptation | 1 |
+| New live, mock-exclusive or authenticated PYQ credit | 0 |
+
+Continue 07C food exchange, menu and budget planning after distinct task screening (existing 03D Q9, Q17 and 04A Q16 must not be duplicated), then school-age and older adult nutrition and current programme/food-standards gaps. Maintain all independent gates before integration. No changes to website, other jobs, learner history or five hourly automations.
