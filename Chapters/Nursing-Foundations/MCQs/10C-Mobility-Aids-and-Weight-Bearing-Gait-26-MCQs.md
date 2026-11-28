@@ -73,7 +73,7 @@
 - **A.** Left leg
 - **B.** Right leg
 - **C.** Both legs simultaneously
-- **D.** The weaker leg first after moving the cane onto the curb
+- **D.** Neither limb until the cane has been placed on the curb and fully loaded
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -85,7 +85,7 @@
 
 **C. Kyun galat hai:** Dono legs ek saath lift karna normal supported step pattern nahi hai.
 
-**D. Kyun galat hai:** Agar weaker limb pehle step par chali gayi toh weaker limb ko body lift karne ka load handle karna pad sakta hai. Isliye prescribed conventional ascent mein stronger limb pehle move karti hai.
+**D. Kyun galat hai:** Cane ki position aur support therapist ke prescribed technique par depend karte hain. Is conventional curb ascent mein cane ko pehle upar fully load karna zaroori nahi hai. Stronger leg first step leti hai aur cane aur weaker leg taught sequence mein follow karte hain.
 
 **Exam clue:** Trained stair pattern mein stronger limb generally ascent lead karti hai.
 
