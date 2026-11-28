@@ -32,3 +32,9 @@ Next: complete missing topic groups (continence and mobility, rehabilitation and
 [Community geriatric care and NPHCE — 20 original MCQs](10-Community-Geriatric-Care-and-NPHCE-20-MCQs.md) · [Detailed concepts](../Concepts/Community-Geriatric-Care-and-NPHCE.md) · [Original diagram](../Assets/nphce-community-care-pathway.svg)
 
 Batch 02 partial: 20 new originals and 80 separate option rationales. Cumulative candidate: 120 originals and 480 rationales, plus four legacy original questions. These counts are staged, not live. No mock or PYQ count. The original five banks remain unchanged. Direct DGHS and WHO landing pages checked, teaching video metadata only, dedicated MCQ video and independent clinical/semantic review pending. Full mandatory preflight and PR8 reconciliation remain incomplete. Remaining Batch 02: continence, rehabilitation, elder abuse and caregiver support. No overlapping shared navigation edits.
+
+## Batch 02 partial candidate — elder abuse and safeguarding
+
+[20 Elder Abuse and Safeguarding MCQs](08-Elder-Abuse-and-Safeguarding-20-MCQs.md) · [Detailed notes](../Concepts/Elder-Abuse-and-Safeguarding.md) · [Original pathway](../Assets/elder-safeguarding-response.svg)
+
+Cumulative Batch 02 staged: 40 originals and 160 rationales. Cumulative across batches: 140 originals and 560 rationales, four legacy original questions unchanged. Two new guides and two SVGs. No live credit. Direct WHO and PIB source checks, NICE indexed only (403 direct), Level Up RN publisher quiz marker but no playback or exact MCQ confirmation. NPHCE diagram label corrected to primary/secondary care. Remaining Batch 02: continence, rehabilitation, caregiver support. Independent clinical, legal applicability, complete semantic audit, preflight and PR8 release pending.
