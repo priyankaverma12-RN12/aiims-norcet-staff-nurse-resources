@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: CLAIMED
-Owner: neonatal-b05-20261128-1430Z
-Scope: PR57 isolated new IVH, polycythemia and other verified uncovered neonatal topic packages; no prior banks or shared navigation changes
-Claimed UTC: 2026-11-28T14:30:00Z
-Expiry UTC: 2026-11-28T15:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified released checkpoint — 2026-11-28
 
@@ -35,3 +35,11 @@ Remaining: 460 new topic originals, then ten separate 120-question original-only
 - Candidate: 340 originals, 1360 rationales, seventeen banks/guides/diagrams/evidence registers. Exact remote readbacks verified; 340 normalized distinct stems, no overlap with four starter stems, structural alignment passed. New 35/35/30; cumulative 106/127/107. 160 topic originals remaining before ten exclusive 120-item mocks. No live credit.
 - CI 46151114846 passed, new exact-head CI 46153684468 pending. PR7/8 navigation clearance not found. Independent clinical/difficulty review, comprehensive semantic, source/video/curriculum, preflight, distractor and rendering gates remain. No merge.
 - Next isolated continuation: verified uncovered neonatal congenital GI emergencies, IVH/hemorrhage, polycythemia, screening/discharge and remaining birth-injury competencies; address earlier Easy deficits with genuinely distinct new objectives where appropriate. Preserve all other jobs, learner history and five hourly automations.
+
+## Released checkpoint — 2026-11-28 batch 05
+- Released owner: neonatal-b05-20261128-1430Z
+- Draft PR57 head: d66bcf83aaac792778d67db08d70d9c974cc7e05
+- 100 new originals, 400 individual Roman Hinglish rationales, five guides, five SVGs, five evidence registers and batch inventory. 21 added files, 21 content commits, earlier paths unchanged.
+- Candidate totals: 440 originals, 1760 rationales, 22 banks/guides/diagrams/evidence registers. Normalized stem comparison across 440 authored and four legacy starters found no duplicates; structural validation passed. New difficulty 35/35/30; cumulative 141/162/137. All new files exact-readback verified. 60 topic originals remaining before ten exclusive 120-question mocks. Zero live credit.
+- Prior CI 46153684468 failed website browser icon-height assertion at browser-smoke.py line 549. No exact-head CI run found at check; PR7/8 clearance not found. No shared website/test changes. Independent clinical/difficulty, semantic, distractor, source/video/curriculum, render and preflight gates remain.
+- TEF already covered in PR45; duodenal obstruction/volvulus authored instead. Next: 60 genuinely distinct questions addressing earlier Easy deficits and remaining verified neonatal competencies, then coverage certification and original-only mocks. Preserve other jobs, learner history and five hourly schedules.
