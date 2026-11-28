@@ -9,10 +9,10 @@ Is section mein aapke uploaded PDFs, coaching tests aur bahar se collect kiye ga
 | Test | Source | Questions | Duration | Access and status |
 |---|---|---:|---|---|
 | Test 01 — Medical Surgical Nursing | Learner-uploaded PDF, `Test 1 ( Medical Surgical).pdf` | 60 | 60 min (source) | [Open existing imported test](../MCQs/Medical-Surgical-Test-01-Imported-60.md). Existing question file and attempt identity retained. |
-| Test 02 — Respiratory clinical practice | The New Heights Academy, Dr. Anchal's Nursing Classes. Source cover says NORCET + HPRCA TEST-1. Learner filename: `Test 2 Respiratory ( Medical Surgical).pdf`. | 50 | 45 min (source) | Import pending. Public reproduction permission and clinical key review not established. |
-| Test 03 — Respiratory high-yield practice | Learner-provided chat questions. Original author and exam provenance unverified. | 30 | 30 min (suggested) | Import and clinical key review pending. |
+| Test 02 — Respiratory clinical practice | The New Heights Academy, Dr. Anchal's Nursing Classes. Source cover says NORCET + HPRCA TEST-1. Learner filename: `Test 2 Respiratory ( Medical Surgical).pdf`. | 50 | 45 min (source) | [Open 50-item answer companion](New-Heights-Academy-External-Test-02-50-Answer-Companion.md). Use with your original PDF. Full question reproduction permission and independent review pending. |
+| Test 03 — Respiratory high-yield practice | Learner-provided chat questions. Original author and exam provenance unverified. | 30 | 30 min (suggested) | [Open imported 30-question test](Respiratory-High-Yield-External-Test-03-30.md). Suggested answers, 120 rationales and 30 clues added. Independent review pending. |
 
-**Inventory:** 140 supplied question slots across three tests. 60 already available in the existing imported bank. 80 pending import. This is not a count of unique questions or of newly authored originals. No official PYQ status is claimed.
+**Inventory:** 140 supplied question slots across three tests. 60 already available in the existing imported bank. 30 additional full question slots staged in Test 03. A 50-item answer companion is staged for Test 02, with full question reproduction still pending permission. This is not a count of unique questions or of newly authored originals. No official PYQ status is claimed.
 
 ## Topic coverage
 
@@ -28,4 +28,4 @@ Existing file paths, learner attempts and question identities must remain unchan
 
 ## Integration checkpoint
 
-This is a chapter-local catalog candidate. Shared chapter navigation and website category mapping require coordination and validation before live publication. No new clinical answers, source PDFs or new interactive test files are published by this catalog alone. The existing imported Test 01 remains in its original location to avoid breaking saved progress and links.
+This is a chapter-local catalog candidate. Shared chapter navigation and website category mapping require coordination and validation before live publication. Test 03 and the Test 02 answer companion are committed on the draft branch. 320 individual rationales and 80 exam clues are staged. No source PDFs have been rehosted. Live navigation, interactive rendering, independent review and CI are not yet certified. The existing imported Test 01 remains in its original location to avoid breaking saved progress and links.
