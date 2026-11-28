@@ -477,28 +477,28 @@ BPH, inflammation aur malignancy PSA ko influence kar sakte hain, clinician over
 
 </details>
 
-### Q20. A patient with known prostate cancer develops new severe back pain, bilateral leg weakness and bladder dysfunction. Which response takes priority?
+### Q20. A man with prostate cancer is starting long-term androgen deprivation therapy. Which baseline assessment specifically addresses a common skeletal complication of this treatment?
 
 **Difficulty:** Difficult | **Topic:** Prostate disorders and perioperative prostate nursing | **Priority:** High | **Type:** Original practice
 
-- **A.** Routine review after several weeks
-- **B.** Start pelvic floor exercises as the only intervention
-- **C.** Urgent emergency assessment for possible metastatic spinal cord compression
-- **D.** Attribute all symptoms to uncomplicated BPH
+- **A.** Renal stone composition analysis
+- **B.** Urethral pressure measurement
+- **C.** Bone mineral density assessment and fracture risk review
+- **D.** Urinary flow rate as the only safety assessment
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Urgent emergency assessment for possible metastatic spinal cord compression**
+**Correct: C. Bone mineral density assessment and fracture risk review**
 
-Cancer history ke saath neurological deficits spinal cord compression ka concern raise karte hain, urgent emergency assessment essential hai.
+Long-term androgen suppression bone density kam kar sakti hai aur fractures ka risk badha sakti hai. Baseline bone density aur fracture risk review se preventive care plan banane mein help milti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Delay neurological function permanently affect kar sakta hai.
-- **B.** Pelvic exercises compression treat nahi karti.
-- **D.** BPH alone severe back pain aur bilateral weakness adequately explain nahi karti.
+- **A.** Stone composition analysis urinary calculi identify karti hai, bone mineral loss quantify nahi karti.
+- **B.** Urethral pressure lower urinary tract function assess kar sakta hai, skeletal risk nahi.
+- **D.** Urinary flow symptom evaluation mein useful hai, lekin androgen suppression ke bone-related effects assess nahi karta.
 
-**Exam clue:** Cancer history ke saath neurological deficits spinal cord compression ka concern raise karte hain, urgent emergency assessment essential hai.
+**Exam clue:** Long-term androgen deprivation ke saath bone health ko proactively assess karo.
 
 </details>
 
@@ -506,4 +506,6 @@ Cancer history ke saath neurological deficits spinal cord compression ka concern
 - [NIDDK benign prostatic hyperplasia](https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia), direct text retrieved, treatment and diagnostic principles.
 - [EAU non-neurogenic male LUTS disease management](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/disease-management), direct text retrieved, alpha blockers, 5-ARI PSA effect and bipolar versus monopolar TURP complications.
 - [NHS TURP](https://www.nhs.uk/tests-and-treatments/transurethral-resection-of-the-prostate-turp/), direct text retrieved, operative and recovery overview.
-- [NIDDK prostatitis](https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostatitis-inflammation-prostate), indexed clinical overview. Question-specific guideline review for prostate massage, oncology emergency and irrigation protocols remains pending. Dedicated video and PYQ verification pending.
+- [NIDDK prostatitis](https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostatitis-inflammation-prostate), indexed clinical overview. Question-specific guideline review for prostate massage and irrigation protocols remains pending. Dedicated video and PYQ verification pending.
+
+- [EAU prostate cancer follow-up](https://uroweb.org/guidelines/prostate-cancer/chapter/followup), indexed recommendation on baseline bone density and fracture risk during long-term androgen deprivation therapy.
