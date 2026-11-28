@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-09c-constipation-20261128-1200Z
-Scope: Isolated PR35 dietary care of chronic constipation, candidate-local bank, guide, SVG and evidence. Excludes GI disease management, Foundations bowel procedures, Renal and shared navigation.
-Claimed UTC: 2026-11-28T12:00:20Z
-Expiry UTC: 2026-11-28T12:30:20Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 09C constipation dietary care
+
+Candidate head: faf5a2a6613ee82df24fef40bcfcad34e648985f
+Inventory: 840 staged originals, 3360 individual Roman Hinglish rationales, 42 banks, 25 guides, 25 SVG sources. Four legacy originals and one reported adaptation preserved separately. New 20 originals, 80 rationales, guide and rendered diagram. Final bank 6b0859dc1e8bff264b563d019029b40161bd9688, guide 9064d4b3e8a99d126bc9d00e33490e3fb650b048, SVG e1f9ad92c15d283d1b373cdb023576a2c3c2eca8. Exact readbacks and structural checks passed. One new-slot replacement for overlap. Targeted Nutrition, Renal, Foundations and GI screening performed. Current CI 46142857457 pending. Full independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic and INC mapping, AMB 2026 full guideline, video evidence, flagged clusters, PR7/8 clearance and integration gates remain outstanding. No live credit, no other job or schedule changes. Next screen remaining genuine therapeutic nutrition and food safety curriculum gaps, do not duplicate renal diet or regenerate existing banks.
 
 ## Latest released checkpoint — 09B tuberculosis nutritional care
 
