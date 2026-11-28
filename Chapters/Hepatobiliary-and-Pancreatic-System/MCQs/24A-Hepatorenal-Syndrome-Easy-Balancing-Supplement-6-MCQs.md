@@ -10,20 +10,20 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Acute kidney injury
-- **B.** Chronic kidney disease
-- **C.** Hepatic hydrothorax
+- **A.** Chronic kidney disease
+- **B.** Hepatic hydrothorax
+- **C.** Acute kidney injury
 - **D.** Portal vein thrombosis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Acute kidney injury**
+**Correct answer: C. Acute kidney injury**
 
-**A. Kyun sahi hai:** AKI ka matlab kidney function mein naya acute decline hai, jo cirrhosis mein bhi ho sakta hai.
+**A. Kyun galat hai:** CKD mein kidney ki problem chronic hoti hai, isliye naya acute decline is naam se define nahi hota.
 
-**B. Kyun galat hai:** CKD mein kidney ki problem chronic hoti hai, isliye naya acute decline is naam se define nahi hota.
+**B. Kyun galat hai:** Hydrothorax mein pleural space mein fluid jama hota hai, kidney function ka acute decline iska meaning nahi hai.
 
-**C. Kyun galat hai:** Hydrothorax mein pleural space mein fluid jama hota hai, kidney function ka acute decline iska meaning nahi hai.
+**C. Kyun sahi hai:** AKI ka matlab kidney function mein naya acute decline hai, jo cirrhosis mein bhi ho sakta hai.
 
 **D. Kyun galat hai:** Portal vein thrombosis mein portal vein mein clot hota hai, jo AKI ka naam nahi hai.
 
@@ -35,18 +35,18 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Most recent body temperature chart
-- **B.** Previous serum creatinine results
+- **A.** Previous serum creatinine results
+- **B.** Most recent body temperature chart
 - **C.** Previous serum bilirubin alone
 - **D.** Previous oxygen saturation alone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Previous serum creatinine results**
+**Correct answer: A. Previous serum creatinine results**
 
-**A. Kyun galat hai:** Temperature infection assessment mein help karta hai, lekin purana kidney function establish nahi karta.
+**A. Kyun sahi hai:** Purane creatinine results se nurse current value ka baseline ke saath comparison kar sakti hai.
 
-**B. Kyun sahi hai:** Purane creatinine results se nurse current value ka baseline ke saath comparison kar sakti hai.
+**B. Kyun galat hai:** Temperature infection assessment mein help karta hai, lekin purana kidney function establish nahi karta.
 
 **C. Kyun galat hai:** Bilirubin liver aur bile se related information deta hai, creatinine baseline nahi deta.
 
@@ -62,20 +62,20 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 
 - **A.** Excessive thirst
 - **B.** Blood in vomit
-- **C.** Reduced urine output
-- **D.** Yellow discoloration of the sclera
+- **C.** Yellow discoloration of the sclera
+- **D.** Reduced urine output
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Reduced urine output**
+**Correct answer: D. Reduced urine output**
 
 **A. Kyun galat hai:** Thirst ko polydipsia kaha ja sakta hai, lekin yeh urine output ka measurement nahi hai.
 
 **B. Kyun galat hai:** Vomiting mein blood ko hematemesis kehte hain, jo gastrointestinal bleeding ka sign hai.
 
-**C. Kyun sahi hai:** Oliguria mein patient ka urine output kam ho jata hai, isliye measured output note karna important hai.
+**C. Kyun galat hai:** Sclera ka yellow hona jaundice ka sign hai, oliguria ka nahi.
 
-**D. Kyun galat hai:** Sclera ka yellow hona jaundice ka sign hai, oliguria ka nahi.
+**D. Kyun sahi hai:** Oliguria mein patient ka urine output kam ho jata hai, isliye measured output note karna important hai.
 
 **Exam clue:** Oliguria mein urine quantity kam hoti hai.
 
@@ -86,21 +86,21 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Topical emollients
-- **B.** Oral rehydration salts
-- **C.** Vitamin supplements
-- **D.** Nonsteroidal anti-inflammatory drugs
+- **B.** Nonsteroidal anti-inflammatory drugs
+- **C.** Oral rehydration salts
+- **D.** Vitamin supplements
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Nonsteroidal anti-inflammatory drugs**
+**Correct answer: B. Nonsteroidal anti-inflammatory drugs**
 
 **A. Kyun galat hai:** Emollients skin ko moisturize karte hain aur yahan systemic analgesic class nahi hain.
 
-**B. Kyun galat hai:** ORS fluid replacement ke liye hota hai, painkiller class nahi hai aur fluid plan individual hona chahiye.
+**B. Kyun sahi hai:** NSAIDs renal blood flow ko adversely affect kar sakte hain, isliye cirrhosis aur AKI mein inka review zaroori hai.
 
-**C. Kyun galat hai:** Vitamin supplements analgesics nahi hain, phir bhi unka use medication review mein batana chahiye.
+**C. Kyun galat hai:** ORS fluid replacement ke liye hota hai, painkiller class nahi hai aur fluid plan individual hona chahiye.
 
-**D. Kyun sahi hai:** NSAIDs renal blood flow ko adversely affect kar sakte hain, isliye cirrhosis aur AKI mein inka review zaroori hai.
+**D. Kyun galat hai:** Vitamin supplements analgesics nahi hain, phir bhi unka use medication review mein batana chahiye.
 
 **Exam clue:** Cirrhosis ke saath AKI mein NSAID exposure check karo.
 
@@ -111,9 +111,9 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Reduced muscle mass
-- **B.** Increased visual acuity
-- **C.** Excessive tear production
-- **D.** Increased hair growth
+- **B.** Increased muscle mass
+- **C.** Recent creatine supplementation
+- **D.** Recent large cooked-meat meal
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -121,11 +121,11 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 
 **A. Kyun sahi hai:** Creatinine muscle metabolism se banta hai, isliye kam muscle mass kidney impairment ko creatinine se underestimate karwa sakta hai.
 
-**B. Kyun galat hai:** Visual acuity ka creatinine production se aisa relation nahi hai.
+**B. Kyun galat hai:** Zyada muscle mass se creatinine production badh sakti hai, isliye yeh misleading low value ka explanation nahi hai.
 
-**C. Kyun galat hai:** Tear production se serum creatinine ka misleading low result explain nahi hota.
+**C. Kyun galat hai:** Creatine supplement serum creatinine ko badha sakta hai, kam muscle mass wali problem ko explain nahi karta.
 
-**D. Kyun galat hai:** Hair growth creatinine production ka main determinant nahi hai.
+**D. Kyun galat hai:** Cooked meat ka recent intake creatinine ko temporarily badha sakta hai, isliye yeh low value ka expected explanation nahi hai.
 
 **Exam clue:** Low muscle mass mein creatinine ko akela reassuring mat samjho.
 
@@ -136,19 +136,19 @@ Clinical evidence: [ADQI–ICA 2024 consensus](https://pmc.ncbi.nlm.nih.gov/arti
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Stage A and stage B jaundice
-- **B.** HRS type 1 and type 2
-- **C.** Child class A and class B
+- **B.** Child class A and class B
+- **C.** HRS type 1 and type 2
 - **D.** Grade 1 and grade 2 encephalopathy
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. HRS type 1 and type 2**
+**Correct answer: C. HRS type 1 and type 2**
 
 **A. Kyun galat hai:** Jaundice ki yeh classification HRS ki historical terminology nahi hai.
 
-**B. Kyun sahi hai:** Purane type 1 aur type 2 HRS terms ki jagah kidney dysfunction ke time course par based terminology recommend ki gayi hai.
+**B. Kyun galat hai:** Child-Pugh classes liver disease severity assess karti hain, HRS terminology nahi hain.
 
-**C. Kyun galat hai:** Child-Pugh classes liver disease severity assess karti hain, HRS terminology nahi hain.
+**C. Kyun sahi hai:** Purane type 1 aur type 2 HRS terms ki jagah kidney dysfunction ke time course par based terminology recommend ki gayi hai.
 
 **D. Kyun galat hai:** Encephalopathy grading neurological impairment describe karti hai, HRS ka naming system nahi hai.
 
