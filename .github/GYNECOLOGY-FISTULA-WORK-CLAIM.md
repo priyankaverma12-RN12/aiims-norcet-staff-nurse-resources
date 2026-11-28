@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: CLAIMED
-Owner: gyne-f16-audit-20261128-1431
-Scope: Fistula Q16 and independent 40-question audit addendum only; no shared README edits
-Claimed UTC: 2026-11-28T09:01:00Z
-Expiry UTC: 2026-11-28T09:31:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
@@ -33,3 +33,8 @@ Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation
 - Confirmed F11 overlap with Procedures postoperative oliguria, corrected to fistula-repair catheter bag positioning and traction avoidance, commit 3a0747ac642ed8c3661887c5ff66bc7fcf33bae1.
 - Updated 40-item audit and source verification caveats, commit 5b0f35c3eae808cdfc819c8e57c8ebb1d0bccd3a. Remote readbacks confirmed 20 Q and 20 hidden answers per bank. WHO/CDC HSV opened, CDC CAUTI and genital ulcers timed out. Complete 160-option independent clinical audit not finished.
 - Preserve 564 allocated originals, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision = 623 physical slots. README count unchanged; no mocks.
+
+## 2026-11-28 14:31 IST — verified F16 correction and 40-question audit
+- Read both complete skills in bounded chunks, AGENTS, copilot and audit learnings. F16 revised from generic empathy to patient-consented safe reintegration and peer/social-worker support using WHO fistula guidance. Fistula file commit 1c15148d61fb6b87ee011d758b535ac2621d7b22, exact readback 20 questions and 20 hidden answer blocks.
+- All 40 target questions checked for four English options, correct answer letter and four labeled option rationales. Audit matrix commit bf044c1fb052a725cf9fdecc7de9bf1f4cfb6bee, 40/40 structural checks passed, exact remote readback. This is not a full independent clinical certification. CDC CAUTI, WHO fistula catheterization, WHO social reintegration and CDC genital ulcer references retrieved. Remaining individual source URLs and videos not all verified.
+- README unchanged because fully certified unique allocation unavailable. 564 allocated original slots + 20 Vulvar unallocated + 20 Fistula unallocated + 19 menstrual revision = 623 physical slots. No mocks. Next: deeper all-160 rationale clinical audit and question-level evidence, then safe README allocation.
