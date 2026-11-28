@@ -1,5 +1,15 @@
 # Musculoskeletal System manual chapter claim
 
+State: CLAIMED
+Owner: musculoskeletal-b03-20261128-0745
+Scope: PR46 candidate-only Batch 03 new topic files and specifically flagged Batch01 C05/C06/C15 corrective audit, concept/evidence/checkpoint. No live navigation or other chapter, shared job or schedule changes.
+Claimed UTC: 2026-11-28T07:45:00Z
+Expiry UTC: 2026-11-28T08:15:00Z
+
+Previous checkpoint history:
+
+# Musculoskeletal System manual chapter claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at draft PR46.
