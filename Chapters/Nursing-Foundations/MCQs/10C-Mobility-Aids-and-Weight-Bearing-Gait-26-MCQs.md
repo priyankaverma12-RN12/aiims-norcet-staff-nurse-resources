@@ -765,13 +765,13 @@
 
 **B. Kyun galat hai:** Forearm cuff ka intended support elbow ke neeche hota hai. Joint ke upar ya directly joint par pressure se movement aur comfort affect ho sakte hain.
 
-**C. Kyun sahi hai:** Forearm cuff ko forearm support karna chahiye bina elbow movement ko unnecessarily block kiye. Therapist suitable fit assess kare aur adjustable cuff ko approved method se correct kare. Fixed cuff suitable na ho toh doosra model arrange karna pad sakta hai.
+**C. Kyun sahi hai:** Forearm cuff ko forearm support karna chahiye bina elbow movement ko unnecessarily block kiye. Therapist suitable fit assess kare aur adjustable cuff ko approved method se correct kare. Agar fixed cuff elbow ki haddi par pressure daal rahi hai aur uski position adjust nahi ho sakti, toh suitable size ya model arrange karo. Cuff aur handgrip ki fitting ko separately check karna zaroori hai.
 
 **D. Kyun galat hai:** Handgrip height aur cuff position alag fitting checks hain. Correct grip ke bawajood cuff elbow par pressure create kar sakti hai.
 
 **Exam clue:** Forearm crutch mein handgrip aur cuff dono ka fit check karo.
 
-**Clinical reference:** [South Tees NHS elbow crutches](https://www.southtees.nhs.uk/resources/how-to-use-elbow-crutches/) and [Learning on TAP walking-aid fitting](https://www.gate-tap.org/topic/fitting-different-types-of-walking-aids/).
+**Clinical reference:** [WHO Learning on TAP, correct elbow-crutch fit](https://www.gate-tap.org/topic/fitting-different-types-of-walking-aids/) and [American Family Physician, mobility assistive devices](https://www.aafp.org/afp/2021/0615/p737).
 
 **YouTube MCQ practice:** Item-specific verification pending.
 
