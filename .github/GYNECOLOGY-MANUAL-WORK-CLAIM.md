@@ -1,10 +1,10 @@
 # Gynecology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-fistula-readme-20261128
+Scope: Gynecology chapter README only, index new fistula bank without crediting unverified distinctness
+Claimed UTC: 2026-11-28T08:00:00Z
+Expiry UTC: 2026-11-28T08:30:00Z
 
 Checkpoint: 20 original menstrual-cycle MCQs plus 4 preserved chapter starters. Expand without replacing prior content.
 
