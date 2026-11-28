@@ -10,18 +10,18 @@
 **YouTube MCQ practice: verification pending.** [Supplementary Level Up RN lesson and quiz](https://leveluprn.com/blogs/fundamentals-of-nursing/7-quality-improvement-patient-safety-events-incident-reporting) — publisher transcript and 08:48 quiz chapter available. Direct YouTube watch URL and specific question verification pending. Existing DSSSB reported concept source reopened.
 <!-- /job4-metadata -->
 
-Patient safety incident ka meaning care-related event ya circumstance hai jo unnecessary harm cause kar sakta tha ya kar chuka hai. WHO terminology mein distinction important hai:
+Patient safety incident ka matlab care se juda aisa event ya circumstance hai jisse patient ko unnecessary harm ho sakta tha ya ho chuka hai. Dekho, har safety problem mein patient ko injury hona zaruri nahi hai. WHO terminology mein hum yeh dekhte hain ki hazard pehle hi pakda gaya, incident patient tak pahuncha ya nahi aur usse koi harm hua ya nahi. Neeche ke examples se in categories ka difference samjho:
 
 | Category | Meaning | Example |
 |---|---|---|
-| Unsafe condition | Hazard identified before an incident | Faulty trolley found unused |
-| Near miss | Incident patient tak nahi pahuncha | Incorrect sample intercepted before use |
-| No-harm incident | Patient tak pahuncha but discernible harm nahi hua | Unintended dose, no detected injury yet |
-| Harmful incident | Care-related harm hua | Injury from an incorrect treatment |
+| Unsafe condition | Incident hone se pehle hi hazard identify ho jaata hai. | Staff ko ek faulty trolley milti hai jise abhi use nahi kiya gaya tha. |
+| Near miss | Incident patient tak nahi pahunchta hai. | Galat sample ko use karne se pehle hi pakad liya jaata hai. |
+| No-harm incident | Incident patient tak pahunchta hai lekin koi discernible harm nahi milta hai. | Patient ko unintended dose milti hai, lekin abhi tak koi injury detect nahi hui hai. |
+| Harmful incident | Care se related event ki wajah se patient ko harm hota hai. | Galat treatment ki wajah se patient ko injury ho jaati hai. |
 
-Different reporting frameworks near miss ko broader sense mein use kar sakte hain. Question mein specified definition follow karo. No-harm does not mean no monitoring or reporting. Adverse event can occur even without a preventable error. Negligence or preventability cannot be inferred solely from outcome.
+Alag reporting frameworks mein near miss ka meaning thoda broader ho sakta hai. Isliye exam mein agar framework specify kiya hai, toh uski definition ke hisaab se answer do. Agar incident mein abhi harm nahi dikha hai, tab bhi monitoring aur applicable reporting ki zarurat khatam nahi hoti. Adverse event, yaani care ke saath juda harmful event, preventable error ke bina bhi ho sakta hai. Sirf outcome dekhkar yeh decide nahi kiya ja sakta ki negligence hui thi ya event prevent kiya ja sakta tha.
 
-Sentinel event ek particularly serious safety event category hai. Current applicable accreditation and institutional definitions matter. Severe or permanent harm or death unrelated to the natural course of illness may meet criteria, and specified events can qualify irrespective of harm. Har fall automatically sentinel event nahi hota.
+Sentinel event safety incidents ki ek particularly serious category hai. Is category ko decide karne ke liye current applicable accreditation aur hospital ki definitions dekhni hoti hain. Agar illness ke natural course se unrelated death, severe harm ya permanent harm hota hai, toh event criteria meet kar sakta hai. Kuch specified events harm na hone par bhi sentinel event qualify kar sakte hain. Isliye har fall ko automatically sentinel event nahi kaha jaata.
 
 [MCQs Q1–5](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md). [🔵 DSSSB Nursing Officer 28 August 2019 Shift 3 — reported concept](../Previous-Year-Questions/04D-Incident-Quality-Reported-Evidence.md).
 
@@ -33,7 +33,7 @@ Sentinel event ek particularly serious safety event category hai. Current applic
 **YouTube MCQ practice: verification pending** — specific just-culture questions not confirmed. Existing teaching links below are separate.
 <!-- /job4-metadata -->
 
-Immediate patient care first. Assess, stabilize, notify appropriate clinician and supervisor, monitor according to clinical risk, then complete required safety reporting. Clinical record mein actual event, findings, intervention, notifications and response document karo. Separate incident report institutional policy ke according complete karo. Report care documentation replace nahi karta. Facts aur assumptions separate rakho. Preserve records, do not retrospectively conceal or falsify information. Communicate established facts honestly through appropriate disclosure process.
+Jab koi incident ho, toh nurse ki first priority patient ki care hoti hai. Nurse patient ko assess karti hai, zarurat ke hisaab se stabilize karti hai, appropriate clinician aur supervisor ko inform karti hai aur clinical risk ke mutabik monitoring karti hai. Uske baad required safety reporting complete ki jaati hai. Clinical record mein actual event, assessment findings, interventions, kisko inform kiya aur patient ka response document hota hai. Separate incident report institutional policy ke hisaab se complete ki jaati hai. Yeh report clinical care documentation ki jagah nahi leti. Nurse observed facts aur assumptions ko alag rakhti hai aur existing records preserve karti hai. Baad mein information chhupana ya falsify karna sahi nahi hai. Jo facts establish ho chuke hain, unhe appropriate disclosure process se honestly communicate kiya jaata hai.
 
 ```mermaid
 flowchart TD
@@ -46,7 +46,7 @@ flowchart TD
  G --> H[Reassess and improve]
 ```
 
-Just culture means fair accountability and systems learning, not blame-free immunity. Unintentional error, risky shortcuts and reckless behavior need proportionate review of context and choices. Reporting numbers alone true harm incidence prove nahi karte. Reporting trust improve hone se counts increase ho sakte hain. Confidentiality, timely feedback and action tracking important hain.
+Just culture ka matlab hai fair accountability aur system ki problems se seekhna. Iska matlab yeh nahi hai ki kisi ko apne actions ke liye kabhi accountable nahi maana jaayega. Anjaane mein hui error, risky shortcut aur reckless behavior ko review karte samay situation aur person ke choices dono dekhe jaate hain, taaki response proportionate ho. Sirf incident reports ki sankhya se actual harm incidence prove nahi hota. Jab staff ka reporting system par trust badhta hai, toh zyada incidents report ho sakte hain. Isliye confidentiality, timely feedback aur corrective actions ko track karna bhi zaruri hai.
 
 [MCQs Q6–12](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 
@@ -60,12 +60,12 @@ Just culture means fair accountability and systems learning, not blame-free immu
 
 | Method | Purpose |
 |---|---|
-| RCA | Retrospective analysis of contributing factors after event |
-| FMEA | Prospective identification and prioritization of possible process failures |
-| Fishbone diagram | Organize possible causes for investigation |
-| Pareto chart | Rank problem categories by frequency |
+| RCA | Root Cause Analysis mein event hone ke baad usmein contribute karne wale factors ko systematically investigate kiya jaata hai. |
+| FMEA | Failure Mode and Effects Analysis mein event hone se pehle process ke possible failures identify kiye jaate hain aur unki priority decide ki jaati hai. |
+| Fishbone diagram | Team possible causes ko categories mein organize karti hai, taaki investigation systematic ho. |
+| Pareto chart | Team problem categories ko unki frequency ke hisaab se rank karti hai. |
 
-Example: Wrong connection happened because two incompatible systems could physically fit together. Sirf nurse ko reminder dena weaker action hai. Approved design change that prevents incorrect connection can reduce reliance on memory. Validate interventions before implementation and monitor unintended consequences. RCA must lead to corrective actions with an owner and evaluation, not merely a meeting.
+Example: maan lo do alag systems ke connectors physically fit ho gaye, jabki unhe aapas mein connect nahi karna chahiye tha. Is wajah se wrong connection hua. Sirf nurse ko yaad dilana comparatively weak corrective action hai, kyunki future mein kisi aur se bhi wahi galti ho sakti hai. Agar approved design change galat connection ko physically prevent karta hai, toh staff ko sirf memory par depend nahi rehna padta. Intervention implement karne se pehle usko validate karna aur baad mein unintended consequences monitor karna zaruri hai. RCA sirf meeting karke khatam nahi hota. Corrective action ke liye responsible person assign hona chahiye aur result evaluate kiya jaana chahiye.
 
 [MCQs Q13–16](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 
@@ -79,16 +79,16 @@ Example: Wrong connection happened because two incompatible systems could physic
 **YouTube MCQ practice: verification pending** — specific PDSA and audit-measurement question videos not established. [Related MCQs](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 <!-- /job4-metadata -->
 
-PDSA = Plan, Do, Study, Act. Aim and prediction set karo, small-scale change test karo, data compare karo, then adapt, adopt or abandon and retest. Audit cycle compares actual practice against a defined standard, implements change and re-audits.
+PDSA = Plan, Do, Study, Act. Plan mein team aim aur prediction decide karti hai. Do mein proposed change ko small scale par test karti hai. Study mein actual data ko prediction se compare karti hai. Act mein result ke hisaab se change adopt, adapt ya abandon kiya jaata hai aur zarurat par dobara test hota hai. Audit cycle mein actual practice ko defined standard se compare kiya jaata hai, zaruri change implement hota hai aur phir re-audit karke dekha jaata hai ki practice improve hui ya nahi.
 
 | Measure | Example |
 |---|---|
-| Structure | Availability of functioning emergency equipment |
-| Process | Proportion of eligible patients receiving required assessment |
-| Outcome | Care-related injury rate |
-| Balancing | Routine-care waiting time after urgent-care process change |
+| Structure | Team dekhti hai ki functioning emergency equipment available hai ya nahi. |
+| Process | Team measure karti hai ki eligible patients mein se kitne patients ko required assessment mila. |
+| Outcome | Team care-related injury rate measure karti hai. |
+| Balancing | Urgent-care process badalne ke baad team routine-care waiting time bhi measure karti hai, taaki doosre patients par possible adverse effect samajh aaye. |
 
-Compliance = compliant eligible cases / total eligible cases × 100. Example 72/90 × 100 = 80%. Change from 60% to 75% is 15 percentage points, or 25% relative increase. Compare rates using equivalent definitions and meaningful denominators, consider case mix and reporting completeness. Quality assurance checks standards, improvement tests and evaluates changes. Detailed management statistics are beyond this starter topic.
+Compliance = compliant eligible cases / total eligible cases × 100. Example: agar 90 eligible cases mein 72 cases standard follow karte hain, toh 72/90 × 100 = 80% compliance hogi. Agar compliance 60% se 75% ho jaaye, toh difference 15 percentage points hai. Relative increase (75 − 60)/60 × 100 = 25% hai. Dono calculations ka meaning alag hai. Rates compare karte samay same definitions aur meaningful denominators use karo. Patient case mix aur reporting completeness ko bhi dhyan mein rakho. Quality assurance mein standards follow ho rahe hain ya nahi, yeh check kiya jaata hai. Quality improvement mein changes test karke unka effect evaluate kiya jaata hai. Detailed management statistics is starter topic ke scope se bahar hain.
 
 [MCQs Q17–26](../MCQs/04D-Incident-Reporting-and-Quality-Management-26-MCQs.md).
 
