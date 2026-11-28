@@ -31,28 +31,28 @@
 
 </details>
 
-### Q2. Which WHO region includes India, where waterborne HEV outbreaks are a public health concern?
+### Q2. Which early symptom of acute hepatitis E refers to loss of appetite?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Region of the Americas
-- **B.** Western Pacific Region
-- **C.** European Region
-- **D.** South-East Asia Region
+- **A.** Dysphagia
+- **B.** Anorexia
+- **C.** Hematemesis
+- **D.** Orthopnea
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. South-East Asia Region**
+**Correct answer: B. Anorexia**
 
-**A. Kyun galat hai:** India Americas region mein nahi hai. WHO regional grouping geography se linked hai.
+**A. Kyun galat hai:** Dysphagia ka matlab swallowing mein difficulty hai, appetite loss nahi.
 
-**B. Kyun galat hai:** India Western Pacific region ka member nahi hai.
+**B. Kyun sahi hai:** Anorexia ka matlab appetite kam hona hai. HEV ke early symptomatic phase mein reduced appetite ho sakti hai.
 
-**C. Kyun galat hai:** India European Region mein nahi aata. Local outbreaks ka response Indian public health system coordinate karta hai.
+**C. Kyun galat hai:** Hematemesis vomiting of blood hai. Yeh appetite loss ka term nahi.
 
-**D. Kyun sahi hai:** India WHO South-East Asia Region ka member hai. Safe water aur sanitation HEV public health response mein important hain.
+**D. Kyun galat hai:** Orthopnea letne par breathlessness hai. Yeh eating desire se related symptom nahi.
 
-**Exam clue:** India is in WHO South-East Asia Region.
+**Exam clue:** Anorexia is reduced appetite, not difficulty swallowing.
 
 </details>
 
