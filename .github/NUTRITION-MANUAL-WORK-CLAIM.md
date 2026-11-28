@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-07b-20261128-0817Z
-Scope: PR35 isolated 07B nutrition education and counselling, new chapter-local MCQs, concepts, SVG and evidence. No existing navigation or production changes, no other job or schedule edits.
-Claimed UTC: 2026-11-28T08:17:26Z
-Expiry UTC: 2026-11-28T08:47:26Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 07B Nutrition education expansion
+
+Candidate head: eb87469f9743aaf8d921a82722679688a76ff663
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-07b-20261128-0817Z
+
+20 new original candidate questions and 80 separate Roman Hinglish rationales in 07B nutrition education/counselling, final bank commit c93ac3f2852304cca241e1b2e09063a9d1aa4e81, blob f2632bed360565fad2d367a8fe05bc882f02459f. Initial authoring a305999bf667cf333f33f65f28eb122a63b5f6f2, Q14 semantic replacement cd97c645f9e438100c46ebb31649a1ccf78b716e, guide 14 5bd4fe713387580c7090c2c98e4d37603d489d14, original SVG 8cc54ece3f2cd97033ef7de9eb00e3098d22f4b5, exact matching Git blob rendered and visually checked. All content exact remote readbacks passed. 20 aligned keys, four options and individual reasons each, 20 exam clues, 20 evidence rows and 20 video gaps. Balanced 5 correct keys per letter. Difficulty two Easy and 18 Medium. Prior 06C/06D/07A and all other existing content preserved. Inventory and PR description updated and verified.
+
+Current staged totals: 620 original questions, 2480 rationales, 31 banks, 14 guides, 14 original SVGs. Four live legacy originals and one reported adaptation separately preserved. No new live, mock or PYQ credit. 140 relevant Nutrition stems screened, adjacent PR file lists inspected. Independent qualified clinical/pharmacy and exhaustive semantic reviews remain pending, including adjacent PR40 educator competency comparison. Full INC coverage and exact programme/version, specific video evidence, explicit PR7/8 release and final CI/rendering not certified. Prior CI 46125379653 pending at last check, no final-head workflow returned. Draft remains unmerged.
+
+Next: prioritize actual 07C food exchange/menu/budget planning after screening existing 03D and 04A objectives, then school-age/elderly and programme/standards depth. Do not repeat completed 06C/06D, 07A or 07B authoring or unchanged historical retrieval. Acquire fresh isolated ownership and continue up to 100 genuinely distinct originals with complete rationales, concepts, diagrams and evidence. All independent gates required before integration, mock-exclusive tests and authenticated PYQs. No other job, website, learner history or automation edits.
 
 ## Latest released checkpoint — Run 7 enteral correction and 07A expansion
 
