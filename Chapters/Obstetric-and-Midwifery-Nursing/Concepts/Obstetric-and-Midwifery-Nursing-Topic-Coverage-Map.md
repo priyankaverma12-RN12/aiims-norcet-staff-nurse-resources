@@ -16,7 +16,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Fetal development: [Detailed concepts](04-Embryonic-and-Fetal-Development.md) · [20 embryonic originals](../MCQs/04A-Embryonic-Development-20-MCQs.md) · [20 fetal growth originals](../MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md) · [two reported adaptations](../Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md). Current 20-question allocation per topic reached, independent audit pending.
 - Placental structure and function: [20 original MCQs](../MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [Concepts](05A-Placental-Structure-and-Function.md) · [Reported evidence](../Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md). Published; independent review pending.
 - Fetal membranes: [20 original MCQs](../MCQs/05B-Fetal-Membranes-20-MCQs.md) · [Concepts](05B-Fetal-Membranes.md) · [Reported evidence](../Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md). Published; independent audit pending.
-- Amniotic fluid and umbilical cord: separate topic packages pending.
+- Amniotic fluid: [20 original MCQs](../MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [Concepts](05C-Amniotic-Fluid.md) · [Reported evidence](../Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md). Published; independent review pending.
+- Umbilical cord: separate topic package pending.
 - fetal assessment
 - normal pregnancy and labor
 - partograph and delivery
