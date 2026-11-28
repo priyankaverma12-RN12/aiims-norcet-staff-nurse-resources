@@ -1,8 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: no active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-priority-run4-20261128-0649Z
+Scope: PR35 Nutrition-only new topic banks and support files. No shared navigation, website, or other jobs.
+Claimed UTC: 2026-11-28T06:49:00Z
+Expiry UTC: 2026-11-28T07:19:00Z
+
+## Latest released checkpoint — Run 3
+
+Candidate head: 91ddd2930dd87fffb0afce32af748c08d10965d0
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-priority-run3-20261128-0604Z
+
+Run 3: 100 staged originals in energy/BMR, PEM, child growth, balanced diets, food safety; 400 Roman Hinglish rationales, two guides, two SVGs and one inventory. Cumulative 300 staged originals, 1200 rationales, six guides and six SVGs. All 26 prior chapter files unchanged; 305 original/reported stems distinct under exact normalization, all 300 aligned keys, four options, four reasons and closed hidden blocks, A/B/C/D each 75. Ten new files exact remote readback. Targeted 170-stem review across ten adjacent banks and one overlap correction. All six live Nutrition blobs unchanged; four live originals and one reported adaptation preserved. No new mocks, PYQs or live credit. Direct-source checks completed for major WHO/CDC/NASEM guidance, but full independent clinical and comprehensive semantic/curriculum review, complete historical preflight, source/video verification and UI/CI remain pending. PR7/8 notices rechecked, no explicit release. No other jobs, history or automation changes. Reacquire lease before continuing. Next: therapeutic diets, diabetes, hypertension/DASH, renal, gastrointestinal/liver, texture/feeding safety only distinct from adjacent chapters; reconcile curriculum, 20 per topic and target 100 per run. Same chapter until completed.
+
+## Previous checkpoint (preserved)
 
 ## Latest released checkpoint — Run 2
 
