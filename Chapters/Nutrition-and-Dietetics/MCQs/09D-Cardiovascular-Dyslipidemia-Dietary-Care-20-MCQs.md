@@ -10,20 +10,20 @@
 
 - **A.** Unlimited unsaturated cooking oil
 - **B.** Restriction of dietary cholesterol alone
-- **C.** Clinician-directed very-low-total-fat dietary care to reduce pancreatitis risk
-- **D.** Deferring dietary care until a coronary event
+- **C.** Deferring dietary care until a coronary event
+- **D.** Clinician-directed very-low-total-fat dietary care to reduce pancreatitis risk
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Clinician-directed very-low-total-fat dietary care to reduce pancreatitis risk**
+**Correct: D. Clinician-directed very-low-total-fat dietary care to reduce pancreatitis risk**
 
 - **A. Incorrect:** Unsaturated oil bhi fat hai. Is severity mein unlimited oil se prescribed total-fat allowance exceed ho sakta hai.
 
 - **B. Incorrect:** Cholesterol reduction LDL-focused care ka part ho sakta hai, par severe TG mein total fat aur other TG-raising factors ko address karna padta hai.
 
-- **C. Correct:** Itne high TG par pancreatitis ka risk important hai. Supervised very-low-fat plan chylomicron load kam karne mein help kar sakta hai, saath mein causes aur medicines bhi review hote hain.
+- **C. Incorrect:** Coronary event ka wait karna appropriate nahi hai. Severe TG ke liye timely clinical aur nutrition assessment chahiye.
 
-- **D. Incorrect:** Coronary event ka wait karna appropriate nahi hai. Severe TG ke liye timely clinical aur nutrition assessment chahiye.
+- **D. Correct:** Itne high TG par pancreatitis ka risk important hai. Supervised very-low-fat plan chylomicron load kam karne mein help kar sakta hai, saath mein causes aur medicines bhi review hote hain.
 
 **Exam clue:** Very high TG requires pancreatitis-focused care.
 
@@ -37,18 +37,18 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Moderate TG | **Type:** Original practice
 
-- **A.** Replace sweetened drinks with unsweetened choices and choose higher-fibre carbohydrate foods
-- **B.** Continue because all fat-free drinks lower TG
+- **A.** Continue because all fat-free drinks lower TG
+- **B.** Replace sweetened drinks with unsweetened choices and choose higher-fibre carbohydrate foods
 - **C.** Replace all carbohydrate foods with butter
 - **D.** Increase sugary drinks whenever LDL-C falls
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Replace sweetened drinks with unsweetened choices and choose higher-fibre carbohydrate foods**
+**Correct: B. Replace sweetened drinks with unsweetened choices and choose higher-fibre carbohydrate foods**
 
-- **A. Correct:** Moderate TG elevation mein added sugar aur refined carbohydrate important dietary targets hain. Unsweetened drinks aur higher-quality carbohydrate foods better choices hain.
+- **A. Incorrect:** Fat-free label sugar content nahi batata. Excess added sugar TG goal ko compromise kar sakti hai.
 
-- **B. Incorrect:** Fat-free label sugar content nahi batata. Excess added sugar TG goal ko compromise kar sakti hai.
+- **B. Correct:** Moderate TG elevation mein added sugar aur refined carbohydrate important dietary targets hain. Unsweetened drinks aur higher-quality carbohydrate foods better choices hain.
 
 - **C. Incorrect:** Butter saturated fat source hai. Har carbohydrate ko butter se replace karna overall lipid care ko compromise karega.
 
@@ -66,22 +66,22 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Fat individualization | **Type:** Original practice
 
-- **A.** Prescribe the same lifelong fat-free menu to all
+- **A.** Individualize fat limitation and avoid alcohol while reducing refined carbohydrate and added sugar
 - **B.** Permit unlimited total fat if no sugar is added
 - **C.** Determine total fat only from LDL-C
-- **D.** Individualize fat limitation and avoid alcohol while reducing refined carbohydrate and added sugar
+- **D.** Prescribe the same lifelong fat-free menu to all
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Individualize fat limitation and avoid alcohol while reducing refined carbohydrate and added sugar**
+**Correct: A. Individualize fat limitation and avoid alcohol while reducing refined carbohydrate and added sugar**
 
-- **A. Incorrect:** Patient ki clinical condition aur nutritional requirements differ karti hain. Identical lifelong fat-free plan justified nahi hai.
+- **A. Correct:** Is range mein guideline total fat limitation individualize karti hai. Added sugar, refined carbohydrate aur saturated fat kam karna aur alcohol avoid karna bhi relevant hai.
 
 - **B. Incorrect:** Sugar reduce karna useful hai, lekin high TG mein total fat ka individualized review bhi zaroori hai.
 
 - **C. Incorrect:** LDL-C alone TG severity ya pancreatitis risk nahi batata. Fasting TG aur clinical context consider karo.
 
-- **D. Correct:** Is range mein guideline total fat limitation individualize karti hai. Added sugar, refined carbohydrate aur saturated fat kam karna aur alcohol avoid karna bhi relevant hai.
+- **D. Incorrect:** Patient ki clinical condition aur nutritional requirements differ karti hain. Identical lifelong fat-free plan justified nahi hai.
 
 **Exam clue:** Individualize fat limitation in the 500–999 mg/dL range.
 
@@ -96,19 +96,19 @@
 **Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Fat energy budget | **Type:** Original practice
 
 - **A.** 15 g
-- **B.** 30 g
-- **C.** 67.5 g
+- **B.** 67.5 g
+- **C.** 30 g
 - **D.** 120 g
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. 30 g**
+**Correct: C. 30 g**
 
 - **A. Incorrect:** 15 percentage hai, grams nahi. Total energy aur fat ki energy density use karo.
 
-- **B. Correct:** 1800 × 0.15 = 270 kcal. Fat 9 kcal/g deta hai, isliye 270/9 = 30 g. Yeh given prescription ka calculation hai, universal fat target nahi.
+- **B. Incorrect:** 67.5 g 4 kcal/g use karne ki galti se aata hai. Fat ke liye 9 kcal/g use karna chahiye.
 
-- **C. Incorrect:** 67.5 g 4 kcal/g use karne ki galti se aata hai. Fat ke liye 9 kcal/g use karna chahiye.
+- **C. Correct:** 1800 × 0.15 = 270 kcal. Fat 9 kcal/g deta hai, isliye 270/9 = 30 g. Yeh given prescription ka calculation hai, universal fat target nahi.
 
 - **D. Incorrect:** 120 g fat 1080 kcal dega, jo total energy ka 60% hai. Given 15% se match nahi hota.
 
@@ -242,20 +242,20 @@
 
 - **A.** Increasing intestinal cholesterol absorption
 - **B.** Instant dissolution of coronary plaque
-- **C.** Complete suppression of pancreatic lipase
-- **D.** Competition with cholesterol during intestinal absorption
+- **C.** Competition with cholesterol during intestinal absorption
+- **D.** Complete suppression of pancreatic lipase
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Competition with cholesterol during intestinal absorption**
+**Correct: C. Competition with cholesterol during intestinal absorption**
 
 - **A. Incorrect:** Increased absorption intended effect ke opposite hai. Mechanism cholesterol uptake kam karne se related hai.
 
 - **B. Incorrect:** Ek food serving se coronary plaque dissolve nahi hoti. Clinical risk reduction longer-term care ka outcome hai.
 
-- **C. Incorrect:** Pancreatic lipase complete suppression sterol action ka usual mechanism nahi hai. Cholesterol absorption specific target hai.
+- **C. Correct:** Plant sterols intestinal micelles mein cholesterol ke saath compete kar sakte hain. Isse cholesterol absorption reduce hoti hai, lekin individual suitability bhi assess karo.
 
-- **D. Correct:** Plant sterols intestinal micelles mein cholesterol ke saath compete kar sakte hain. Isse cholesterol absorption reduce hoti hai, lekin individual suitability bhi assess karo.
+- **D. Incorrect:** Pancreatic lipase complete suppression sterol action ka usual mechanism nahi hai. Cholesterol absorption specific target hai.
 
 **Exam clue:** Plant sterols affect intestinal cholesterol absorption.
 
@@ -288,7 +288,7 @@
 
 **Exam clue:** Check sitosterolemia before sterol enrichment.
 
-**Evidence:** [NLA 2023 clinical perspective summary](https://www.lipid.org/wp-content/uploads/NLA_2023_Nutrition_Interventions_for_Adults_with_Dyslipidemia.pdf) · [Concept guide](../Concepts/26-Cardiovascular-Dyslipidemia-Dietary-Care.md)
+**Evidence:** [NLA 2023 clinical perspective summary](https://www.lipid.org/wp-content/uploads/NLA_2023_Nutrition_Interventions_for_Adults_with_Dyslipidemia.pdf) · [GeneReviews sitosterolemia, management](https://www.ncbi.nlm.nih.gov/books/NBK131810/) · [Concept guide](../Concepts/26-Cardiovascular-Dyslipidemia-Dietary-Care.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -299,19 +299,19 @@
 **Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Percentage response | **Type:** Original practice
 
 - **A.** 6–9 mg/dL
-- **B.** 96–144 mg/dL
-- **C.** 9.6–14.4 mg/dL
+- **B.** 9.6–14.4 mg/dL
+- **C.** 96–144 mg/dL
 - **D.** 150.4–145.6 mg/dL
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. 9.6–14.4 mg/dL**
+**Correct: B. 9.6–14.4 mg/dL**
 
 - **A. Incorrect:** Percent aur mg/dL different units hain. Baseline ko relative change se multiply karna chahiye.
 
-- **B. Incorrect:** 96–144 mg/dL actually 60–90% change hoga. Decimal conversion incorrect hai.
+- **B. Correct:** 160 × 0.06 = 9.6 aur 160 × 0.09 = 14.4 mg/dL. Yeh hypothetical estimated range hai, guaranteed patient response nahi.
 
-- **C. Correct:** 160 × 0.06 = 9.6 aur 160 × 0.09 = 14.4 mg/dL. Yeh hypothetical estimated range hai, guaranteed patient response nahi.
+- **C. Incorrect:** 96–144 mg/dL actually 60–90% change hoga. Decimal conversion incorrect hai.
 
 - **D. Incorrect:** 150.4 aur 145.6 possible final levels represent karte hain, reduction amount nahi. Question difference pooch raha hai.
 
@@ -328,21 +328,21 @@
 **Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Combined effects | **Type:** Original practice
 
 - **A.** All effects always add without overlap
-- **B.** Combined interventions may help but separate estimates cannot guarantee the summed individual response
+- **B.** Lipid rechecking is unnecessary
 - **C.** Largest observed effect is the guaranteed minimum
-- **D.** Lipid rechecking is unnecessary
+- **D.** Combined interventions may help but separate estimates cannot guarantee the summed individual response
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Combined interventions may help but separate estimates cannot guarantee the summed individual response**
+**Correct: D. Combined interventions may help but separate estimates cannot guarantee the summed individual response**
 
 - **A. Incorrect:** Effects fixed aur independent nahi hote. Arithmetic addition clinical response overestimate kar sakti hai.
 
-- **B. Correct:** Different trials mein populations, baseline diets aur adherence vary karte hain. Combined benefit possible hai par exact summed response guarantee nahi kar sakte.
+- **B. Incorrect:** Follow-up lipid result actual response batata hai. Estimated effect monitoring ka substitute nahi hai.
 
 - **C. Incorrect:** Largest estimate individual minimum nahi hai. Real response patient ke context mein different ho sakta hai.
 
-- **D. Incorrect:** Follow-up lipid result actual response batata hai. Estimated effect monitoring ka substitute nahi hai.
+- **D. Correct:** Different trials mein populations, baseline diets aur adherence vary karte hain. Combined benefit possible hai par exact summed response guarantee nahi kar sakte.
 
 **Exam clue:** Population estimates do not guarantee individual response.
 
@@ -386,19 +386,19 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Supplement claim | **Type:** Original practice
 
 - **A.** Any marketed cholesterol supplement prevents cardiovascular events
-- **B.** Dietary supplements are not recommended as lipid-lowering therapy because evidence of benefit is limited or inconsistent
-- **C.** A supplement label guarantees medicine-equivalent efficacy
+- **B.** A supplement label guarantees medicine-equivalent efficacy
+- **C.** Dietary supplements are not recommended as lipid-lowering therapy because evidence of benefit is limited or inconsistent
 - **D.** Monitoring can stop when supplements begin
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Dietary supplements are not recommended as lipid-lowering therapy because evidence of benefit is limited or inconsistent**
+**Correct: C. Dietary supplements are not recommended as lipid-lowering therapy because evidence of benefit is limited or inconsistent**
 
 - **A. Incorrect:** Marketing claim cardiovascular events prevent karne ka proof nahi hai. Meaningful clinical outcome evidence chahiye.
 
-- **B. Correct:** 2026 guideline nonprescription dietary supplements ke LDL/TG lowering evidence ko limited ya inconsistent batati hai. Existing treatment ko clinician ke saath review karna chahiye.
+- **B. Incorrect:** Label clinical efficacy ya approved medicine equivalence establish nahi karta. Formulation aur evidence differ kar sakte hain.
 
-- **C. Incorrect:** Label clinical efficacy ya approved medicine equivalence establish nahi karta. Formulation aur evidence differ kar sakte hain.
+- **C. Correct:** 2026 guideline nonprescription dietary supplements ke LDL/TG lowering evidence ko limited ya inconsistent batati hai. Existing treatment ko clinician ke saath review karna chahiye.
 
 - **D. Incorrect:** Lipid monitoring actual response aur risk assessment ke liye useful hai. Supplement use isko replace nahi karta.
 
@@ -414,20 +414,20 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Prescription omega-3 | **Type:** Original practice
 
-- **A.** Assume every fish-oil product is therapeutically equivalent
+- **A.** Verify formulation and suitability with the clinician or pharmacist before substitution
 - **B.** Replace by matching capsule count only
-- **C.** Verify formulation and suitability with the clinician or pharmacist before substitution
+- **C.** Assume every fish-oil product is therapeutically equivalent
 - **D.** Stop prescription treatment because fish is a food
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Verify formulation and suitability with the clinician or pharmacist before substitution**
+**Correct: A. Verify formulation and suitability with the clinician or pharmacist before substitution**
 
-- **A. Incorrect:** Fish-oil label se same active dose aur efficacy prove nahi hoti. Specific composition relevant hai.
+- **A. Correct:** Prescription aur retail products mein active content, formulation aur evidence differ ho sakta hai. Pharmacist exact substitution suitability verify karega.
 
 - **B. Incorrect:** Capsule count same hone par EPA/DHA amount necessarily same nahi hota. Prescribed formulation verify karni chahiye.
 
-- **C. Correct:** Prescription aur retail products mein active content, formulation aur evidence differ ho sakta hai. Pharmacist exact substitution suitability verify karega.
+- **C. Incorrect:** Fish-oil label se same active dose aur efficacy prove nahi hoti. Specific composition relevant hai.
 
 - **D. Incorrect:** Food source aur pharmaceutical indication alag concepts hain. Prescribed treatment independently stop nahi karna chahiye.
 
@@ -443,18 +443,18 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Secondary metabolic driver | **Type:** Original practice
 
-- **A.** Coordinate glucose and lipid management rather than treating TG elevation as a food-fat problem alone
-- **B.** Assume dietary oil is the only cause
+- **A.** Assume dietary oil is the only cause
+- **B.** Coordinate glucose and lipid management rather than treating TG elevation as a food-fat problem alone
 - **C.** Increase added sugars for each fat reduction
 - **D.** Ignore glucose records until TG normalizes
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Coordinate glucose and lipid management rather than treating TG elevation as a food-fat problem alone**
+**Correct: B. Coordinate glucose and lipid management rather than treating TG elevation as a food-fat problem alone**
 
-- **A. Correct:** Poor glycaemic control TG elevation ka secondary contributor ho sakta hai. Nutrition aur glucose treatment ko lipid care ke saath coordinate karo.
+- **A. Incorrect:** Dietary oil ek factor ho sakta hai, lekin metabolic causes bhi important hain. Single cause assume karna assessment ko incomplete banata hai.
 
-- **B. Incorrect:** Dietary oil ek factor ho sakta hai, lekin metabolic causes bhi important hain. Single cause assume karna assessment ko incomplete banata hai.
+- **B. Correct:** Poor glycaemic control TG elevation ka secondary contributor ho sakta hai. Nutrition aur glucose treatment ko lipid care ke saath coordinate karo.
 
 - **C. Incorrect:** Added sugar glucose control aur TG dono compromise kar sakti hai. Replacement quality consider karo.
 
@@ -472,20 +472,20 @@
 
 **Difficulty:** 🟢 Easy | **Priority:** 🟠 HIGH YIELD | **Topic:** Alcohol initiation | **Type:** Original practice
 
-- **A.** Start daily wine as a mandatory therapeutic food
+- **A.** Do not initiate alcohol consumption for cardiovascular benefit
 - **B.** Start alcohol whenever HDL-C is low
-- **C.** Do not initiate alcohol consumption for cardiovascular benefit
+- **C.** Start daily wine as a mandatory therapeutic food
 - **D.** Choose alcohol instead of prescribed treatment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Do not initiate alcohol consumption for cardiovascular benefit**
+**Correct: A. Do not initiate alcohol consumption for cardiovascular benefit**
 
-- **A. Incorrect:** Wine mandatory therapeutic food nahi hai. Alcohol-related health risks aur individual context matter karte hain.
+- **A. Correct:** AHA guidance non-drinkers ko heart health ke liye alcohol start karne ko nahi kehti. Healthy food pattern alcohol ke bina follow ho sakta hai.
 
 - **B. Incorrect:** Low HDL-C alcohol initiate karne ka indication nahi hai. Overall risk aur clinical treatment evaluate karo.
 
-- **C. Correct:** AHA guidance non-drinkers ko heart health ke liye alcohol start karne ko nahi kehti. Healthy food pattern alcohol ke bina follow ho sakta hai.
+- **C. Incorrect:** Wine mandatory therapeutic food nahi hai. Alcohol-related health risks aur individual context matter karte hain.
 
 - **D. Incorrect:** Alcohol prescribed cardiovascular care replace nahi karta. Evidence-based treatment continue hona chahiye.
 
@@ -503,20 +503,20 @@
 
 - **A.** Accept all snacks regardless of added sugar or sodium
 - **B.** Reject minimally processed pulses because they lack packaging
-- **C.** Use packaging colour as the primary criterion
-- **D.** Evaluate ingredients, nutrient profile and processing rather than the plant-based label alone
+- **C.** Evaluate ingredients, nutrient profile and processing rather than the plant-based label alone
+- **D.** Use packaging colour as the primary criterion
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Evaluate ingredients, nutrient profile and processing rather than the plant-based label alone**
+**Correct: C. Evaluate ingredients, nutrient profile and processing rather than the plant-based label alone**
 
 - **A. Incorrect:** Excess added sugar ya sodium plant origin se harmless nahi ban jaate. Actual label aur serving evaluate karo.
 
 - **B. Incorrect:** Minimally processed pulses useful protein aur fibre provide kar sakte hain. Packaging absence nutritional disadvantage nahi hai.
 
-- **C. Incorrect:** Colour marketing feature hai, clinical nutrition indicator nahi. Composition aur processing review karo.
+- **C. Correct:** Plant origin se full nutrient quality establish nahi hoti. Ingredients, sodium, sugar aur fats ko overall diet pattern ke context mein assess karo.
 
-- **D. Correct:** Plant origin se full nutrient quality establish nahi hoti. Ingredients, sodium, sugar aur fats ko overall diet pattern ke context mein assess karo.
+- **D. Incorrect:** Colour marketing feature hai, clinical nutrition indicator nahi. Composition aur processing review karo.
 
 **Exam clue:** Food quality matters more than a plant-based marketing label.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Nutrition referral | **Type:** Original practice
 
-- **A.** Arrange individualized medical nutrition therapy for feasible meals and nutritional adequacy
+- **A.** Abandon the plan without informing the treating team
 - **B.** Give a prohibited-food list and end follow-up
 - **C.** Recommend indefinite fasting
-- **D.** Abandon the plan without informing the treating team
+- **D.** Arrange individualized medical nutrition therapy for feasible meals and nutritional adequacy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Arrange individualized medical nutrition therapy for feasible meals and nutritional adequacy**
+**Correct: D. Arrange individualized medical nutrition therapy for feasible meals and nutritional adequacy**
 
-- **A. Correct:** Dietitian affordable local foods, prescribed fat allowance, energy adequacy aur follow-up ko patient ki circumstances se align kar sakta hai. Severe TG mein safe practical implementation important hai.
+- **A. Incorrect:** Difficulty ko team tak communicate karo. Unsupervised abandonment ke bajay feasible revised plan arrange karna appropriate hai.
 
 - **B. Incorrect:** Prohibited list alone nutrient adequacy ya adherence establish nahi karti. Practical meal planning aur monitoring chahiye.
 
 - **C. Incorrect:** Indefinite fasting nutritional harm create kar sakta hai. Supervised dietary care adequate nutrition preserve karti hai.
 
-- **D. Incorrect:** Difficulty ko team tak communicate karo. Unsupervised abandonment ke bajay feasible revised plan arrange karna appropriate hai.
+- **D. Correct:** Dietitian affordable local foods, prescribed fat allowance, energy adequacy aur follow-up ko patient ki circumstances se align kar sakta hai. Severe TG mein safe practical implementation important hai.
 
 **Exam clue:** Specialized diets require feasible monitored nutrition support.
 
