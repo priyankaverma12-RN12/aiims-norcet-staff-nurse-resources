@@ -6,7 +6,7 @@
 
 ### Q1. A teaching model labels the last purely conducting airway. Which structure should be labelled?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟢 FOUNDATION · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Respiratory bronchiole
 - **B.** Terminal bronchiole
@@ -17,15 +17,25 @@
 
 **Correct answer: B. Terminal bronchiole**
 
-**Kyun sahi aur baaki options galat:** Terminal bronchiole conducting zone last; respiratory bronchiole starts gas exchange, duct/sac respiratory zone.
+**A kyun galat hai:** Respiratory bronchiole mein alveoli dikhne lagte hain aur gas exchange shuru ho sakta hai. Isliye yeh purely conducting airway nahi hai.
 
-**Exam trick:** Terminal bronchiole conducting zone last.
+**B kyun sahi hai:** Terminal bronchiole conducting zone ka aakhri hissa hai. Yeh hawa ko respiratory bronchioles tak pahunchata hai, lekin iski wall mein gas exchange karne wale alveoli nahi hote.
+
+**C kyun galat hai:** Alveolar duct respiratory zone ka hissa hai. Iske aas-paas alveoli hote hain jahan oxygen aur carbon dioxide exchange hoti hain.
+
+**D kyun galat hai:** Alveolar sac kai alveoli ka group hai. Yeh gas exchange se juda hai, na ki sirf hawa transport karne se.
+
+**Exam trick:** Terminal bronchiole tak conducting zone hai aur respiratory bronchiole se respiratory zone shuru hota hai.
+
+**Clinical reference:** [Source](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q2. Which cell function is especially important in preventing alveolar collapse at low lung volumes?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Type II pneumocyte secretion of surfactant
 - **B.** Type I pneumocyte production of thick mucus
@@ -36,15 +46,25 @@
 
 **Correct answer: A. Type II pneumocyte secretion of surfactant**
 
-**Kyun sahi aur baaki options galat:** Type II surfactant surface tension kam; type I gas exchange, macrophage phagocytosis, goblet mucus.
+**A kyun sahi hai:** Type II pneumocyte surfactant banata hai. Alveoli ki moist inner surface par pani ke molecules ek doosre ko kheenchte hain, jisse surface tension banti hai. Surfactant is force ko kam karta hai aur expiration ke end par chhote alveoli ko stable rakhne mein madad karta hai.
 
-**Exam trick:** Type II surfactant surface tension kam.
+**B kyun galat hai:** Type I pneumocyte patla cell hota hai jiske through gases diffuse karti hain. Yeh thick mucus banane wala cell nahi hai.
+
+**C kyun galat hai:** Alveolar macrophage germs aur debris ko engulf karke remove karta hai. Pleural fluid iska secretion nahi hai.
+
+**D kyun galat hai:** Goblet cell airway mucus banata hai. Hemoglobin red blood cells mein hota hai, goblet cell ise nahi banata.
+
+**Exam trick:** Type I ko gas exchange aur Type II ko surfactant se jodo.
+
+**Clinical reference:** [Source](https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q3. TLC is 5.8 L and FRC is 2.3 L. If tidal volume is 0.5 L, what is inspiratory reserve volume?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** 3.5 L
 - **B.** 2.8 L
@@ -55,15 +75,25 @@
 
 **Correct answer: D. 3.0 L**
 
-**Kyun sahi aur baaki options galat:** IC=TLC−FRC=3.5; IRV=IC−TV=3.0. 3.5 IC, others arithmetic errors.
+**A kyun galat hai:** 3.5 L inspiratory capacity hai, IRV nahi. Ismein normal tidal breath ka 0.5 L bhi shamil hai.
 
-**Exam trick:** IC=TLC−FRC=3.
+**B kyun galat hai:** 2.8 L diye gaye lung volumes se correct subtraction par nahi milta. Pehle TLC se FRC aur phir TV ghatao.
+
+**C kyun galat hai:** 1.8 L ko IRV maan lene se IC = IRV + TV ke hisaab se 2.3 L aayega, jabki question se IC 3.5 L hai.
+
+**D kyun sahi hai:** TLC maximum inspiration ke baad lungs mein total air hai. FRC normal expiration ke baad bachi air hai. IC = TLC − FRC = 5.8 − 2.3 = 3.5 L. IC = TV + IRV, isliye IRV = 3.5 − 0.5 = 3.0 L.
+
+**Exam trick:** TLC = FRC + IC aur IC = TV + IRV ko step by step use karo.
+
+**Clinical reference:** [Source](https://openstax.org/books/clinical-nursing-skills/pages/23-1-structure-and-function).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q4. A patient breathes at 18/min with TV 350 mL and assumed dead space 150 mL. What is alveolar ventilation?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** 6.3 L/min
 - **B.** 2.7 L/min
@@ -74,15 +104,25 @@
 
 **Correct answer: C. 3.6 L/min**
 
-**Kyun sahi aur baaki options galat:** AV=(350−150)×18=3600 mL/min; 6.3 MV, 2.7 dead-space ventilation, 9 incorrect.
+**A kyun galat hai:** 6.3 L/min total minute ventilation hai, kyunki 350 × 18 = 6300 mL/min. Ismein dead space bhi include hai.
 
-**Exam trick:** AV=(350−150)×18=3600 mL/min.
+**B kyun galat hai:** 2.7 L/min dead-space ventilation hai, kyunki 150 × 18 = 2700 mL/min. Yeh effective alveolar ventilation nahi hai.
+
+**C kyun sahi hai:** Har breath ki 350 mL hawa mein se assumed 150 mL dead space mein rehti hai. Effective volume 200 mL per breath hai. Alveolar ventilation = (350 − 150) × 18 = 3600 mL/min, yani 3.6 L/min. Yeh calculation diye gaye dead-space assumption par based hai.
+
+**D kyun galat hai:** 9.0 L/min total minute ventilation 6.3 L/min se bhi zyada hai. Is situation mein alveolar ventilation total ventilation se zyada nahi ho sakti.
+
+**Exam trick:** Tidal volume se dead space ghatao, respiratory rate se multiply karo aur mL ko L mein convert karo.
+
+**Clinical reference:** [Source](https://www.ncbi.nlm.nih.gov/sites/books/NBK539907/).
+
+**▶️ [YouTube MCQ practice — anatomical dead space, Aarogyam Infinity MCQ Series Part 27 (15:58)](https://www.youtube.com/watch?v=lAy0Cb9o5ss&t=958s).** Published description mein dead space ka question marker mila hai. Exact numerical question aur playback verify nahi hue hain.
 
 </details>
 
 ### Q5. Blood leaving the right ventricle for gas exchange travels first through which major vessel?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟢 Easy · **Priority:** 🟢 FOUNDATION · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Aorta
 - **B.** Pulmonary vein
@@ -93,15 +133,25 @@
 
 **Correct answer: C. Pulmonary artery**
 
-**Kyun sahi aur baaki options galat:** RV → pulmonary artery → lungs; aorta LV, vein lungs to LA, vena cava systemic return.
+**A kyun galat hai:** Aorta left ventricle se systemic circulation mein blood le jaati hai. Right ventricle se lungs tak jaane ka yeh rasta nahi hai.
 
-**Exam trick:** RV → pulmonary artery → lungs.
+**B kyun galat hai:** Pulmonary veins lungs se oxygenated blood left atrium tak laati hain. Yeh lungs ki taraf blood nahi le jaati hain.
+
+**C kyun sahi hai:** Right ventricle blood ko pulmonary trunk aur phir right aur left pulmonary arteries ke through lungs tak bhejta hai. Capillaries alveoli ke paas gas exchange karti hain. Diye gaye options mein pulmonary artery best answer hai.
+
+**D kyun galat hai:** Superior vena cava upper body se venous blood right atrium tak laati hai. Yeh right ventricle ka outflow vessel nahi hai.
+
+**Exam trick:** Artery ka naam heart se door blood jaane ki direction par depend karta hai, oxygen content par nahi.
+
+**Clinical reference:** [Source](https://openstax.org/books/clinical-nursing-skills/pages/23-1-structure-and-function).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q6. A patient with a painful unilateral pleural disorder takes shallow breaths. Which assessment should the nurse compare bilaterally during palpation?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Serum bicarbonate
 - **B.** Chest expansion
@@ -112,15 +162,25 @@
 
 **Correct answer: B. Chest expansion**
 
-**Kyun sahi aur baaki options galat:** Palpation chest motion compare; HCO3/PaO2 blood tests, organism culture.
+**A kyun galat hai:** Serum bicarbonate blood test se pata chalta hai. Nurse chest wall palpate karke ise measure nahi kar sakti.
 
-**Exam trick:** Palpation chest motion compare.
+**B kyun sahi hai:** Nurse dono taraf chest wall ki movement compare karti hai. Pleural pain ki wajah se patient affected side par kam expansion kar sakta hai. Nurse respiratory effort aur oxygenation bhi assess karti hai aur abnormal findings report karti hai.
+
+**C kyun galat hai:** PaO2 arterial blood gas test se measure hota hai. Chest wall palpation se arterial oxygen pressure nahi pata chalta.
+
+**D kyun galat hai:** Sputum culture ya other microbiological tests organism identify karne mein madad karte hain. Palpation se organism identify nahi hota.
+
+**Exam trick:** Palpation mein tenderness, crepitus aur chest expansion assess kiye ja sakte hain.
+
+**Clinical reference:** [Source](https://openstax.org/books/clinical-nursing-skills/pages/23-2-physical-assessment-of-the-thorax).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q7. The percussion note is dull and breath sounds are bronchial over a localized peripheral lung region. Which explanation best fits?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Airspace consolidation transmitting airway sounds
 - **B.** Normal aerated peripheral lung in every case
@@ -131,15 +191,25 @@
 
 **Correct answer: A. Airspace consolidation transmitting airway sounds**
 
-**Kyun sahi aur baaki options galat:** Consolidated airspace transmits bronchial sounds, dull; normal vesicular/resonant, pneumothorax often hyperresonant, rhinitis unrelated.
+**A kyun sahi hai:** Consolidation mein alveolar air ki jagah inflammatory material ya fluid aa sakta hai. Isse percussion dull ho sakta hai aur patent airway ki bronchial sound dense tissue se peripheral chest tak transmit ho sakti hai. Nurse findings ko symptoms, oxygenation aur further assessment ke saath interpret karti hai.
 
-**Exam trick:** Consolidated airspace transmits bronchial sounds, dull.
+**B kyun galat hai:** Normally aerated peripheral lung par vesicular sounds aur resonant percussion expected hote hain. Localized dullness aur bronchial sounds ko har case mein normal nahi maana ja sakta.
+
+**C kyun galat hai:** Large pneumothorax mein pleural space mein air jama hoti hai. Breath sounds kam aur percussion hyperresonant ho sakta hai, jo is combination se kam match karta hai.
+
+**D kyun galat hai:** Isolated nasal mucosal edema upper airway affect karti hai. Yeh localized peripheral lung dullness aur bronchial sounds explain nahi karti.
+
+**Exam trick:** Dullness aur peripheral bronchial sounds consolidation suggest karte hain, lekin ek finding se final diagnosis confirm nahi hota.
+
+**Clinical reference:** [Source](https://www.ncbi.nlm.nih.gov/sites/books/NBK459253/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q8. A pulse oximeter displays 96% while a patient has slow shallow breaths after sedation. Why is additional assessment necessary?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** A normal saturation directly proves normal pH
 - **B.** SpO2 measures respiratory rate instead of oxygenation
@@ -150,15 +220,25 @@
 
 **Correct answer: D. Adequate saturation does not exclude hypoventilation and CO2 retention**
 
-**Kyun sahi aur baaki options galat:** Oximeter measures O2 sat not CO2/pH; respiratory assessment needed; sedation may depress ventilation.
+**A kyun galat hai:** SpO2 hemoglobin oxygen saturation ka estimate deta hai. Yeh blood pH measure nahi karta, isliye normal saturation se normal acid-base balance prove nahi hota.
 
-**Exam trick:** Oximeter measures O2 sat not CO2/pH.
+**B kyun galat hai:** Pulse oximeter oxygen saturation aur aksar pulse rate dikhata hai. Respiratory rate aur ventilation ka direct measurement isse nahi milta.
+
+**C kyun galat hai:** Sedative medicines respiratory drive ya airway patency affect kar sakti hain. Shallow breathing aur carbon dioxide retention ho sakti hai.
+
+**D kyun sahi hai:** SpO2 96% hone ke bawajood ventilation inadequate ho sakti hai, khaaskar supplemental oxygen ke saath. Nurse turant airway, breathing rate, depth, consciousness aur available capnography assess karti hai. Deterioration ho toh urgent help aur protocol-based support mein delay nahi karti.
+
+**Exam trick:** Oxygenation aur ventilation alag cheezein hain, isliye normal SpO2 se hypoventilation exclude nahi hoti.
+
+**Clinical reference:** [Source](https://www.pediatrics.wisc.edu/education/sedation-program/sedation-education/respiratory-monitoring/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q9. ABG pH 7.28, PaCO2 28 mmHg and HCO3 13 mEq/L suggests which primary disturbance?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Respiratory acidosis
 - **B.** Metabolic alkalosis
@@ -169,15 +249,25 @@
 
 **Correct answer: D. Metabolic acidosis**
 
-**Kyun sahi aur baaki options galat:** Low pH + low bicarbonate metabolic acidosis; low CO2 compensation direction, not respiratory acidosis, alkalosis inconsistent.
+**A kyun galat hai:** Respiratory acidosis mein primary PaCO2 badhta hai. Yahan PaCO2 28 mmHg low hai, isliye primary respiratory acidosis se match nahi karta.
 
-**Exam trick:** Low pH + low bicarbonate metabolic acidosis.
+**B kyun galat hai:** Metabolic alkalosis mein bicarbonate primary taur par badhta hai aur pH alkaline direction mein jaata hai. Yahan HCO3 aur pH dono low hain.
+
+**C kyun galat hai:** Primary respiratory alkalosis mein PaCO2 kam hota hai aur pH alkaline direction mein jaata hai. Yahan pH 7.28 aur bicarbonate clearly low hai, isliye respiratory alkalosis alone best answer nahi hai.
+
+**D kyun sahi hai:** pH 7.28 acidemia dikhata hai. HCO3 13 mEq/L low hai, isliye primary metabolic acidosis hai. PaCO2 kam hona respiratory compensation ki direction mein hai. Winter formula se expected PaCO2 1.5 × 13 + 8 = 27.5 ± 2 mmHg hai, jo measured 28 se compatible hai.
+
+**Exam trick:** Pehle pH dekho, phir identify karo ki bicarbonate ya PaCO2 mein kaunsa change primary disturbance explain karta hai.
+
+**Clinical reference:** [Source](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q10. HCO3 is 18 mEq/L in metabolic acidosis and measured PaCO2 is 25 mmHg. What additional disturbance is suggested?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Respiratory acidosis
 - **B.** Appropriate compensation
@@ -188,15 +278,25 @@
 
 **Correct answer: C. Respiratory alkalosis**
 
-**Kyun sahi aur baaki options galat:** Winter expected 1.5×18+8=35±2 (33–37); actual 25 below → additional respiratory alkalosis, not acidosis or appropriate compensation.
+**A kyun galat hai:** Additional respiratory acidosis tab suspect hoti jab measured PaCO2 expected range se upar hota. Yahan 25 mmHg range se neeche hai.
 
-**Exam trick:** Winter expected 1.
+**B kyun galat hai:** Appropriate compensation ke liye expected PaCO2 = 1.5 × 18 + 8 = 35 ± 2 mmHg, yani 33–37 mmHg hona chahiye. Measured 25 is range mein nahi hai.
+
+**C kyun sahi hai:** Winter formula metabolic acidosis mein expected respiratory compensation estimate karta hai. Expected PaCO2 33–37 mmHg hai, lekin actual 25 mmHg hai. Carbon dioxide expected se zyada remove ho rahi hai, isliye additional respiratory alkalosis suggest hoti hai. Full ABG aur clinical context se interpretation confirm karo.
+
+**D kyun galat hai:** Bicarbonate 18 mEq/L low hai aur question metabolic acidosis establish karta hai. Abnormal compensation ko normal acid-base status nahi keh sakte.
+
+**Exam trick:** Winter formula = 1.5 × HCO3 + 8 ± 2 mmHg. Actual PaCO2 expected se neeche ho toh additional respiratory alkalosis suspect karo.
+
+**Clinical reference:** [Source](https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/acid-base-disorders).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q11. A sample is drawn from the radial artery for ABG in a patient on anticoagulants. Which aftercare matters most at the puncture site?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Massage vigorously immediately
 - **B.** Apply firm pressure until hemostasis and reassess bleeding
@@ -207,15 +307,25 @@
 
 **Correct answer: B. Apply firm pressure until hemostasis and reassess bleeding**
 
-**Kyun sahi aur baaki options galat:** Anticoagulation increases bleed risk; pressure until bleeding stops; massage/early release/no reassessment unsafe.
+**A kyun galat hai:** Vigorous massage puncture site par clot formation disturb kar sakti hai. Anticoagulant lene wale patient mein bleeding aur hematoma ka risk zyada ho sakta hai.
 
-**Exam trick:** Anticoagulation increases bleed risk.
+**B kyun sahi hai:** Arterial puncture ke baad nurse direct firm pressure lagati hai aur bleeding rukne tak maintain karti hai. Anticoagulants lene wale patient ko longer pressure ki zaroorat ho sakti hai. Nurse bleeding, hematoma aur distal circulation reassess karti hai aur persistent bleeding escalate karti hai.
+
+**C kyun galat hai:** Kuch seconds baad pressure hata dena unsafe hai jab bleeding abhi ruk nahi rahi ho. Duration patient ki hemostasis aur protocol ke hisaab se decide hoti hai.
+
+**D kyun galat hai:** Sirf dressing lagane se ongoing bleeding detect nahi hoti. Nurse site par swelling, hematoma aur bleeding check karti hai.
+
+**Exam trick:** Pressure ka goal hemostasis hai, na ki sirf fixed time complete karna.
+
+**Clinical reference:** [Source](https://www.ncbi.nlm.nih.gov/sites/books/NBK138661/).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q12. A patient's post-bronchodilator FEV1 is 1.35 L and FVC 2.7 L. Predicted FEV1 is 3.0 L. Which combination fits the GOLD spirometric criteria in appropriate clinical context?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** FEV1/FVC 50%; GOLD 3 airflow obstruction
 - **B.** FEV1/FVC 90%; GOLD 1
@@ -226,15 +336,25 @@
 
 **Correct answer: A. FEV1/FVC 50%; GOLD 3 airflow obstruction**
 
-**Kyun sahi aur baaki options galat:** Ratio 1.35/2.7=50%; % predicted=45% (30–<50 GOLD3). 90,45 ratio wrong; GOLD4 <30.
+**A kyun sahi hai:** Post-bronchodilator ratio = 1.35 ÷ 2.7 = 0.50, yani 50%. FEV1 percent predicted = 1.35 ÷ 3.0 × 100 = 45%. Compatible clinical history mein ratio 0.70 se neeche airflow obstruction support karta hai aur 45% predicted FEV1 GOLD 3 airflow obstruction grade mein aata hai. Yeh grade symptoms aur exacerbation risk ka complete assessment nahi hai.
 
-**Exam trick:** Ratio 1.
+**B kyun galat hai:** 90% ratio calculation se nahi milta. GOLD 1 mein FEV1 at least 80% predicted hota hai, jo yahan 45% hai.
+
+**C kyun galat hai:** 45% predicted FEV1 hai, FEV1/FVC ratio nahi. GOLD 2 mein FEV1 50% se kam nahi hota, isliye grade bhi match nahi karta.
+
+**D kyun galat hai:** Ratio 50% sahi hai, lekin GOLD 4 ke liye FEV1 30% predicted se kam hota hai. Yahan 45% predicted hone ke karan GOLD 3 hai.
+
+**Exam trick:** FEV1/FVC ratio diagnosis support karta hai aur FEV1 percent predicted se airflow obstruction grade decide hota hai.
+
+**Clinical reference:** [Source](https://www.ncbi.nlm.nih.gov/sites/books/NBK559281/?report=reader).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q13. An asthma patient with a personal best PEFR 450 L/min records 315 L/min. Which zone is this?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Yellow zone
 - **B.** Green zone
@@ -245,15 +365,25 @@
 
 **Correct answer: A. Yellow zone**
 
-**Kyun sahi aur baaki options galat:** 315/450×100=70%, yellow 50–<80; green ≥80, red <50.
+**A kyun sahi hai:** Personal best ke comparison mein PEFR = 315 ÷ 450 × 100 = 70%. Yeh usual yellow zone mein aata hai, jiska matlab caution hai. Patient apna prescribed asthma action plan follow karta hai aur symptoms ke hisaab se help leta hai.
 
-**Exam trick:** 315/450×100=70%, yellow 50–<80.
+**B kyun galat hai:** Green zone usually personal best ke 80–100% par hota hai. 70% green zone mein nahi aata.
+
+**C kyun galat hai:** Red zone usually personal best ke 50% se kam hota hai. 70% red zone nahi hai, lekin serious symptoms ho toh number ka wait kiye bina urgent assessment zaroori hai.
+
+**D kyun galat hai:** L/min peak expiratory flow ki valid unit hai. Same units mein measured aur personal best value divide karke percentage nikala ja sakta hai.
+
+**Exam trick:** Peak flow zone personal best ke percentage se nikalo aur individualized action plan follow karo.
+
+**Clinical reference:** [Source](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/peak-flow-measurement).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q14. An asthma patient initially wheezes loudly but later becomes confused with minimal breath sounds and very little air movement. What is the priority?
 
-**Difficulty:** Difficult | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Assume bronchodilator success from the quieter chest
 - **B.** Begin routine discharge paperwork
@@ -264,15 +394,25 @@
 
 **Correct answer: D. Emergency escalation for impending respiratory failure**
 
-**Kyun sahi aur baaki options galat:** Silent chest plus confusion means severe airflow limitation; quieter not improvement; delay/exercise unsafe.
+**A kyun galat hai:** Wheezing kam hona tab improvement ho sakta hai jab air movement aur patient ki condition improve ho. Yahan confusion aur bahut kam air entry hai, isliye quieter chest dangerous sign hai.
 
-**Exam trick:** Silent chest plus confusion means severe airflow limitation.
+**B kyun galat hai:** Routine discharge paperwork unstable patient ki immediate breathing problem address nahi karta. Emergency assessment aur treatment ki zaroorat hai.
+
+**C kyun galat hai:** Forceful exercises exhausted patient par aur respiratory load daal sakti hain. Emergency assessment aur support delay nahi karna chahiye.
+
+**D kyun sahi hai:** Confusion aur silent chest severe airflow limitation aur impending respiratory failure suggest karte hain. Nurse emergency response activate karti hai, airway aur breathing assess karti hai aur prescribed emergency treatment, oxygen aur ventilatory support ki preparation mein help karti hai.
+
+**Exam trick:** Asthma mein silent chest ke saath confusion ya exhaustion ko improvement nahi, emergency samjho.
+
+**Clinical reference:** [Source](https://academic.oup.com/ajrccm/article/212/12/2919/8885525).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### Q15. A patient using an ICS-containing inhaler develops white oral plaques. Which preventive teaching is appropriate?
 
-**Difficulty:** Medium | **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / HP Staff Nurse / PGIMER (original)
 
 - **A.** Avoid all oral hygiene
 - **B.** Double the steroid dose independently
@@ -283,9 +423,19 @@
 
 **Correct answer: C. Rinse the mouth and spit after the steroid inhalation**
 
-**Kyun sahi aur baaki options galat:** ICS oral candidiasis risk; rinse/spit; no hygiene worsens, independent dose unsafe, LABA alone contraindicated in asthma.
+**A kyun galat hai:** Oral hygiene avoid karne se mouth mein medicine residue aur oral problems ka risk kam nahi hota. Patient ko appropriate mouth care sikhani chahiye.
 
-**Exam trick:** ICS oral candidiasis risk.
+**B kyun galat hai:** ICS dose khud se double karna preventive treatment nahi hai. Dose change clinician ke plan ke mutabik hona chahiye.
+
+**C kyun sahi hai:** Inhaled corticosteroid ka kuch medicine mouth aur throat mein deposit ho sakta hai. Isse oral candidiasis ka risk badhta hai. Maintenance steroid inhalation ke baad mouth rinse karke pani thookna local residue kam karne mein help karta hai. Existing white plaques ko assess aur treat karne ke liye clinician ko batana chahiye.
+
+**D kyun galat hai:** Asthma mein LABA ko ICS ke bina use karna safe replacement nahi hai. Patient apna prescribed ICS-containing regimen aur concerns clinician se discuss karta hai.
+
+**Exam trick:** Maintenance ICS inhalation ke baad rinse and spit yaad rakho aur existing oral thrush ko review karwao.
+
+**Clinical reference:** [Source](https://academic.oup.com/ajrccm/article/212/12/2919/8885525).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
