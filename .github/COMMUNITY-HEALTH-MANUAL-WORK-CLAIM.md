@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: community-pr61-b07-20261128-1157Z
-Scope: PR61 Batch07 only: NPPCF, IDSP programme reporting, NPPC community care, RKSK, NUHM. Exclude all ten PR62 banks and adjacent specialty treatment. No shared navigation or PR62 writes.
-Claimed UTC: 2026-11-28T11:57:25Z
-Expiry UTC: 2026-11-28T12:27:25Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -34,3 +34,8 @@ PR61 verified head `c3887f6cac38ec95a6b2c60a200e21e36b835b81`. Added five banks 
 ## PR61 Batch 06 checkpoint — 28 November 2026
 
 PR61 verified head `065215f94baa802716dcf2f02f67595137e363c6`. Added 100 original MCQs in five banks, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 47 Medium, 45 Difficult. Cumulative 600 staged originals, 2400 rationales, 30 banks, 44 Easy/292 Medium/264 Difficult. Five exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 504 prior PR61/legacy and 100 PR62 stems. Compare verified all 25 prior banks unchanged; candidate-index append verified. PR62 remains unchanged at b6157733d7f4e1b0180e98569d35f47ddce7fb84; coordination comment 7237645277 read. No newly live originals, mocks or PYQs. DGHS/NTCP official programme research; English NIDDCP full retrieval timed out, updated Hindi page provided programme benchmarks. Full independent clinical/semantic/difficulty and item evidence, concept/diagram/video, preflight, curriculum, CI and navigation gates remain pending. Next verify actual remaining curriculum, e.g. NPPCF, IDSP, community palliative care, adolescent and urban health as distinct, reconcile PR62 before mocks. Preserve all other sessions and five schedules; avoid repeated audits.
+
+
+## PR61 Batch 07 checkpoint — 28 November 2026
+
+PR61 verified head `2dfba05bd2db59fe0cb439be51366e11c1e01d56`. Added five actual topic banks, 100 original MCQs, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 49 Medium, 43 Difficult. Cumulative 700 staged originals, 2800 rationales, 35 banks, 52 Easy/341 Medium/307 Difficult. Exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 604 prior PR61/legacy and 200 PR62 stems. Git compare verified all 30 prior banks unchanged. PR62 handoff comment 7238748603 read and reserved scopes excluded. PR62 head at inspection 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5. No new live credit, mocks or PYQs. Research DGHS, IDSP, NHM and WHO; alternative DGHS NPPC page failed, NHM and WHO references used. Full independent clinical/semantic/difficulty and item-level source review, curriculum, concept/diagram/video, navigation and CI release gates pending. Next verify remaining distinct curriculum gaps and coordinate PR62 overlap resolution before mocks. Avoid repeated audits. Preserve all other sessions and five schedules.
