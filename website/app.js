@@ -36,7 +36,7 @@ function drawMarks(){const box=$('marks'),marks=getMarks(),search=$('saved-searc
 $('saved-search').oninput=drawMarks;
 function mountResponsiveDisclosures(){
  const narrow=matchMedia('(max-width:600px)'),more=$('nav-more'),overview=$('library-overview');
- const adapt=()=>{if(more)more.open=!narrow.matches;if(overview)overview.open=!narrow.matches};
+ const adapt=()=>{if(more)more.open=!narrow.matches;if(overview&&!narrow.matches)overview.open=true};
  adapt();narrow.addEventListener('change',adapt);
  if(more){
   more.addEventListener('click',e=>{if(narrow.matches&&e.target.closest('a'))more.open=false});

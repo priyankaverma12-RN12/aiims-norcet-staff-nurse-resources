@@ -54,9 +54,15 @@ with sync_playwright() as p:
         expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
         expect(page.locator(".daily-goal-select select")).to_have_count(0)
         expect(page.locator("#home-link")).to_have_attribute("aria-current","page")
-        if width<600:
-            expect(page.locator("#library-overview")).not_to_have_attribute("open","")
-            page.locator("#library-overview>summary").click()
+        expect(page.locator("#library-overview")).to_have_attribute("open","")
+        assert page.locator(".stats").bounding_box()["height"]<=(255 if width<600 else 110)
+        assert page.locator(".hero").bounding_box()["height"]<=(300 if width<600 else 240)
+        assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
+        expect(page.locator(".daily-week-details")).not_to_have_attribute("open","")
+        page.locator(".daily-week-details>summary").click()
+        expect(page.locator(".study-day.today")).to_be_visible()
+        page.locator(".daily-week-details>summary").click()
+        print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
         page.locator("#search").fill("no matching chapter xyz")
         expect(page.locator("#chapters .empty-state")).to_be_visible()
