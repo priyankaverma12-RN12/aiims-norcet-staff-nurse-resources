@@ -25,6 +25,10 @@
 - **C.** Results actual observed findings describe karta hai. Planned procedures aur outcomes ko clearly distinguish karo.
 - **D.** Discussion results interpret karti hai aur implications aur limitations discuss karti hai. Detailed protocol Methods mein hona chahiye.
 
+**Exam clue:** Methods mein eligibility, measurements aur analysis describe hote hain.
+
+**Related concept reference:** [ICMJE Recommendations, manuscript preparation](https://www.icmje.org/recommendations/). January 2026 index retrieved in prior review, current indexed version checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -49,6 +53,10 @@
 - **A.** STROBE observational cohort, case-control aur cross-sectional study reports ke liye hai. Randomized trial ke liye CONSORT fit hai.
 - **B.** PRISMA systematic review reports ke liye hai. Individual trial allocation reporting iska primary scope nahi hai.
 - **C.** COREQ interviews aur focus groups ke qualitative reporting ke liye hai. Randomized intervention comparison different design hai.
+
+**Exam clue:** Completed randomized trial report ke liye CONSORT 2025.
+
+**Related concept reference:** [EQUATOR, CONSORT 2025 statement](https://equator-network.org/reporting-guidelines/consort/index.html). Current indexed guideline scope checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -75,6 +83,10 @@
 - **C.** PRISMA systematic review report guide karta hai. Single survey evidence synthesis nahi hai.
 - **D.** STARD diagnostic accuracy reporting se related hai. Occupational stress association survey diagnostic accuracy study nahi hai.
 
+**Exam clue:** Cohort, case-control aur cross-sectional observational reporting ke liye STROBE.
+
+**Related concept reference:** [EQUATOR, STROBE](https://equator-network.org/reporting-guidelines/strobe/). EQUATOR indexed directory scope checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -99,6 +111,10 @@
 - **A.** CONSORT individual randomized trial reports ke liye hai. Review multiple studies synthesize karta hai.
 - **B.** STROBE primary observational research report karta hai. Review-level search selection ka main guideline nahi hai.
 - **D.** STARD diagnostic accuracy studies report karne ke liye hai. Falls intervention review ke liye PRISMA better fit hai.
+
+**Exam clue:** Systematic review reporting ke liye PRISMA 2020.
+
+**Related concept reference:** [PRISMA 2020 statement](https://www.prisma-statement.org/prisma-2020-statement). EQUATOR indexed directory scope checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -125,6 +141,10 @@
 - **C.** SQUIRE healthcare improvement reporting support karta hai. Diagnostic accuracy study ka specific guideline STARD hai.
 - **D.** CONSORT randomized trial reporting ke liye hai. Given comparison test accuracy ka hai.
 
+**Exam clue:** Diagnostic accuracy reporting ke liye STARD.
+
+**Related concept reference:** [EQUATOR, STARD](https://equator-network.org/reporting-guidelines/stard/). EQUATOR indexed directory scope checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -149,6 +169,10 @@
 - **A.** STARD diagnostic accuracy reporting ke liye hai. Caregiver experience interview accuracy test nahi hai.
 - **B.** CONSORT randomized trial reports ke liye hai. Qualitative interviews randomized intervention trial nahi hain.
 - **C.** PRISMA systematic review reporting support karta hai. Primary interview and focus-group work ke liye COREQ more direct hai.
+
+**Exam clue:** Interviews aur focus groups ke qualitative reports ke liye COREQ.
+
+**Related concept reference:** [EQUATOR, COREQ](https://equator-network.org/reporting-guidelines/coreq/). EQUATOR indexed directory scope checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -175,30 +199,38 @@
 - **C.** COREQ primary qualitative interviews or focus groups ki reporting guide hai. Overall QI project ka framework SQUIRE better hai.
 - **D.** PRISMA systematic review reporting ke liye hai. One-hospital improvement project review nahi hai.
 
+**Exam clue:** Healthcare improvement report mein context aur intervention changes SQUIRE ka focus hai.
+
+**Related concept reference:** [EQUATOR, SQUIRE 2.0](https://equator-network.org/reporting-guidelines/squire/). EQUATOR indexed directory scope checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q8. A systematic review includes a PRISMA checklist and flow diagram but omits major relevant databases and unjustifiably excludes unfavorable studies. What is the correct appraisal?
+### Q8. A nurse appraises a systematic review of healthcare interventions that includes randomized and nonrandomized studies. The report follows PRISMA, but the nurse needs a tool to evaluate the review's methodological weaknesses, including how study risk of bias was handled in synthesis. Which tool is most appropriate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** PRISMA automatically removes selection bias
-- **B.** A flow diagram makes missing studies irrelevant
-- **C.** Reporting compliance does not guarantee valid methods
-- **D.** Checklist inclusion means the review must be accepted
+- **A.** PRISMA 2020 checklist alone
+- **B.** CONSORT 2025 checklist
+- **C.** AMSTAR 2
+- **D.** STROBE checklist
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Reporting compliance does not guarantee valid methods**
+**Correct: C. AMSTAR 2**
 
-**C.** Checklist transparency improve karti hai but flawed search aur selective exclusion automatically correct nahi hote. Methods aur bias independently assess karo.
+**C.** AMSTAR 2 healthcare intervention systematic reviews appraise karta hai, including randomized aur nonrandomized studies. Risk of bias, search, protocol aur synthesis ke critical weaknesses evaluate karo. Is tool ko simple total numerical score ki tarah use nahi karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Reporting checklist potential bias reveal kar sakti hai but missed evidence recover nahi karti. Study selection methods evaluate karna zaroori hai.
-- **B.** Flow diagram selection counts show karta hai. Omitted studies pooled conclusions distort kar sakti hain.
-- **D.** Reporting completeness alone scientific validity establish nahi karti. Methods, relevance and certainty bhi assess karo.
+- **A.** PRISMA systematic review reporting ko transparent banati hai. Complete reporting se methods examine karna easier hota hai, lekin reporting checklist alone methodological appraisal ka substitute nahi hai.
+- **B.** CONSORT randomized trials ke individual reports ke liye hai. Yeh whole systematic review ke search, eligibility aur synthesis methods ko systematically appraise karne ke liye designed nahi hai.
+- **D.** STROBE observational primary studies ki reporting guide hai. Included nonrandomized studies ki reporting examine karne mein relevant ho sakti hai, but overall systematic review appraisal AMSTAR 2 se better fit hoti hai.
+
+**Exam clue:** AMSTAR 2 review methods appraise karta hai, PRISMA reporting guide hai.
+
+**Related concept reference:** [AMSTAR 2 critical appraisal tool](https://www.bmj.com/content/358/bmj.j4008). Indexed appraisal domains checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -208,22 +240,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** The point estimate must be fabricated
-- **B.** The direction of the point estimate is unknowable
+- **A.** The intervention effect must be biased
+- **B.** The point estimate cannot indicate the direction of the estimated effect
 - **C.** The precision of the estimated difference cannot be adequately assessed
-- **D.** The study becomes qualitative
+- **D.** The effect estimate is necessarily clinically unimportant
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. The precision of the estimated difference cannot be adequately assessed**
 
-**C.** Point estimate magnitude and direction show karti hai but uncertainty measure ke bina compatible effect range assess karna difficult hai.
+**C.** Mean difference estimate effect ka size batati hai, par sampling uncertainty assess karne ke liye confidence interval ya suitable standard error useful hai. Without such information, clinically meaningful benefit ya harm ki range judge karna difficult hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Incomplete reporting fabrication ka evidence nahi hai. Invented data independently establish karna hoga.
-- **B.** Signed mean difference direction show kar sakta hai. Missing uncertainty precision assessment limit karti hai, direction necessarily nahi.
-- **D.** Reporting omission design change nahi karti. Numeric mean difference quantitative finding hai.
+- **A.** Missing uncertainty interval reporting limitation hai, lekin isse systematic bias automatically prove nahi hota. Design, measurement aur analysis biases separately assess karo.
+- **B.** Signed point estimate estimated direction bata sakta hai. Interval missing hone se compatible effect range aur precision unclear hai, estimated direction necessarily unknown nahi.
+- **D.** Clinical importance magnitude, uncertainty aur patient context se decide hoti hai. Missing precision se meaningfulness confidently judge karna difficult hai, lekin small ya unimportant effect automatically establish nahi hota.
+
+**Exam clue:** Point estimate precision assess karne ke liye uncertainty measure dekho.
+
+**Related concept reference:** [Cochrane Handbook chapter 15, interpreting results](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15). Current indexed interpretation guidance checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -233,8 +269,8 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Whether the title uses an accepted acronym
-- **B.** Whether every missing patient had the same outcome as analyzed patients
+- **A.** Allocation concealment inferred solely from the unequal analyzed denominators
+- **B.** The assumption that missing outcomes match observed outcomes without further evidence
 - **C.** Whether the larger analyzed group is necessarily more effective
 - **D.** Differential missing outcome data and reasons for attrition
 
@@ -242,13 +278,17 @@
 
 **Correct: D. Differential missing outcome data and reasons for attrition**
 
-**D.** Unequal loss group comparison bias kar sakta hai especially when missingness outcome related ho. Reasons, timing aur analysis population examine karo.
+**D.** Intervention group mein 38 aur comparator mein 6 outcomes missing hain. Losses ke reasons, timing, relationship to outcomes aur missing-data analysis evaluate karo. Unequal attrition bias ka warning sign hai, but bias direction aur magnitude automatically establish nahi hoti.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Title format missing outcome data resolve nahi karta. Participant flow and attrition clinically relevant hain.
-- **B.** Missing outcomes automatically same assume karna unjustified hai. Missing-data mechanisms aur sensitivity analysis assess karo.
-- **C.** Retention number treatment benefit prove nahi karta. Actual effect and potential bias examine karo.
+- **A.** Allocation concealment recruitment ke time upcoming assignment hide karne se related hai. Unequal post-randomization follow-up concealment failure prove nahi karta. Flow aur timing examine karo.
+- **B.** Missing participants ke outcomes observed participants jaise honge, yeh assumption verify kiye bina accept nahi karni chahiye. Missingness mechanism aur sensitivity analysis check karo.
+- **C.** Analyzed group mein zyada participants hona efficacy ka direct proof nahi hai. Outcome values, estimated effect aur potential selection bias evaluate karo.
+
+**Exam clue:** Unequal attrition warning sign hai, bias outcome-related missingness par depend karti hai.
+
+**Related concept reference:** [Cochrane Handbook chapter 8, risk of bias](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08). Previously retrieved source. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -259,21 +299,25 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Partial verification bias
-- **B.** Inter-rater disagreement alone
-- **C.** Lead-time bias alone
-- **D.** Randomization sequence error
+- **B.** Differential verification bias using two different reference standards
+- **C.** Incorporation bias from including the index test in the reference standard
+- **D.** Spectrum effects from enrolling only a narrow range of disease severity
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Partial verification bias**
 
-**A.** Reference verification index result par depend karti hai, so disease status selectively missing hai. Partial verification bias sensitivity aur specificity estimates distort kar sakta hai.
+**A.** Partial verification mein kuch patients ka true disease status reference standard se verify nahi hota. Yahan only index-positive patients verify ho rahe hain, isliye unverified negatives ke true disease status ka pata nahi. Accuracy estimates distort ho sakte hain.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Inter-rater disagreement different observers ke ratings mein variation hai. Yahan primary concern selective reference-standard testing hai.
-- **C.** Lead-time bias earlier disease detection se apparent survival duration change hone ko describe karta hai. Given problem diagnostic verification ka hai.
-- **D.** Diagnostic accuracy design necessarily randomized intervention trial nahi hai. Selective verification ka concern allocation sequence se distinct hai.
+- **B.** Differential verification mein groups ko different reference standards milte hain. Yahan negatives ko koi reference standard nahi mila, so partial verification more direct hai.
+- **C.** Incorporation bias tab hoti hai jab reference standard determination mein index test itself include ho. Question reference standard ke content ke baare mein aisa nahi batata.
+- **D.** Disease severity spectrum test accuracy ko influence kar sakta hai. Yahan main described design defect disease severity recruitment nahi, selective reference verification hai.
+
+**Exam clue:** Partial verification mein some patients ko reference standard nahi milta.
+
+**Related concept reference:** [Partial verification bias, BMJ Evidence-Based Medicine](https://ebm.bmj.com/content/23/2/54). Indexed distinction between partial and differential verification checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -292,13 +336,17 @@
 
 **Correct: B. Statistical significance alone does not establish meaningful clinical benefit**
 
-**B.** Small p-value null ke against evidence de sakti hai, but patient-important benefit effect magnitude aur uncertainty par depend karta hai.
+**B.** Small p-value null model ke against evidence de sakti hai, lekin patient-important benefit effect magnitude aur uncertainty par depend karta hai. Confidence interval ko prespecified clinically important threshold se compare karo: agar interval threshold cross karta hai, clinically important effect abhi rule out nahi hua. Mean group difference individual meaningful response ke identical nahi hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** P-value sample size aur variability se affected hoti hai. Clinical importance effect and context se judge hoti hai.
 - **C.** Small real effects precisely estimate ho sakte hain. Clinical magnitude small hone se statistical error necessarily imply nahi hota.
 - **D.** Prespecified threshold interpretation guide karti hai. Favorable p-value ke baad discard karna misleading ho sakta hai.
+
+**Exam clue:** Clinical importance ke liye effect aur uncertainty ko meaningful threshold se compare karo.
+
+**Related concept reference:** [Cochrane Handbook chapter 15, interpreting results](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15). Current indexed interpretation guidance checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -325,6 +373,10 @@
 - **C.** Plagiarism another person's work without appropriate credit use karna hai. Here invented participant responses described hain.
 - **D.** Sampling variation genuine random differences hoti hain. Invented values legitimate variation nahi hain.
 
+**Exam clue:** Invented data fabrication hai.
+
+**Related concept reference:** [US ORI definition of research misconduct](https://ori.hhs.gov/definition-research-misconduct). Indexed definition checked, educational terminology not Indian legal jurisdiction. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -350,6 +402,10 @@
 - **B.** Legitimate cleaning documented mistakes correct karti hai. Desired result ke liye genuine scores badalna acceptable nahi hai.
 - **D.** Plagiarism uncredited use of another's work hai. Given problem actual data manipulation hai.
 
+**Exam clue:** Genuine data deliberately distort karna falsification hai.
+
+**Related concept reference:** [US ORI definition of research misconduct](https://ori.hhs.gov/definition-research-misconduct). Indexed definition checked, educational terminology not Indian legal jurisdiction. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -358,22 +414,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Confounding
-- **B.** Type I error
-- **C.** Inter-rater disagreement
+- **A.** Fabrication of data
+- **B.** Falsification of original measurements
+- **C.** An authorship-order dispute
 - **D.** Plagiarism
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Plagiarism**
 
-**D.** Dusre author ke words ko appropriate credit ke bina apna present karna plagiarism hai. Quotation or genuine paraphrase with citation and copyright compliance needed hai.
+**D.** Distinctive text ko bina quotation aur attribution apna dikhana plagiarism hai. Direct quotation ko clearly mark karke cite karo, ya genuinely paraphrase with citation karo. Citation copyright permissions ka automatic substitute nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Confounding exposure and outcome ke alternative explanation se related hai. Copied text attribution violation hai.
-- **B.** Type I statistical error true null rejection hai. Unattributed copying hypothesis-testing decision nahi hai.
-- **C.** Inter-rater disagreement assessors ke different ratings se related hai. It does not describe copied text.
+- **A.** Fabrication ka matlab data ya results invent karke research record mein add karna hai. Yahan doosre author ke existing words bina credit use hue hain, nonexistent observations nahi banaye gaye.
+- **B.** Falsification mein actual materials, processes ya data distort kiye jate hain jisse research inaccurately represent ho. Given paragraph copying attribution violation hai.
+- **C.** Authorship-order dispute contributors ke credit sequence se related ho sakta hai. Bina attribution doosre author ka distinctive text copy karna separate integrity issue hai.
+
+**Exam clue:** Uncredited appropriation plagiarism hai.
+
+**Related concept reference:** [US ORI definition of research misconduct](https://ori.hhs.gov/definition-research-misconduct). Indexed definition checked, educational terminology not Indian legal jurisdiction. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -392,7 +452,7 @@
 
 **Correct: B. Apply contribution, manuscript participation, final approval and accountability criteria**
 
-**B.** Authorship ke liye substantive contribution ke saath drafting or critical revision, final approval aur accountability needed hain. Seniority alone sufficient nahi hai.
+**B.** ICMJE ke four criteria saath meet hone chahiye: substantial contribution to conception/design ya data acquisition/analysis/interpretation, drafting ya important intellectual revision, final version approval, aur work ki accuracy/integrity ke liye accountability. Qualifying contributors ko remaining criteria fulfill karne ka fair opportunity do. Seniority alone sufficient nahi hai.
 
 **Baaki options kyun galat hain?**
 
@@ -400,30 +460,38 @@
 - **C.** Funding alone authorship criteria fulfill nahi karti. Contributions and accountability assess karo.
 - **D.** Substantial analysis contribution authorship support kar sakti hai if remaining criteria meet hote hain. Blanket exclusion inappropriate hai.
 
+**Exam clue:** ICMJE authorship ke char criteria saath meet hone chahiye.
+
+**Related concept reference:** [ICMJE defining the role of authors and contributors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Current indexed four criteria checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q17. An interventional trial is planned for a journal following ICMJE trial-registration policy. When should public registration ordinarily occur?
+### Q17. An interventional clinical trial is planned for submission to a journal following ICMJE trial-registration policy. By what point does ICMJE require public trial registration for consideration for publication?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Only after obtaining significant results
-- **B.** Only if a reviewer requests it after publication
-- **C.** Never because ethics approval is identical to registration
-- **D.** At or before enrollment of the first participant
+- **A.** Before the first interim outcome analysis
+- **B.** Before submitting the completed manuscript
+- **C.** At ethics approval, even if registration is delayed until after first patient consent
+- **D.** At or before the first patient's consent for enrollment
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. At or before enrollment of the first participant**
+**Correct: D. At or before the first patient's consent for enrollment**
 
-**D.** Prospective registration planned study information public record mein establish karti hai. Applicable Indian registry aur regulatory requirements separately follow karo.
+**D.** ICMJE clinical trials ko acceptable public registry mein at or before first patient consent for enrollment register karne ki recommendation deti hai as condition of publication consideration. India mein applicable CTRI prospective registration aur current regulatory requirements separately follow karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Outcome-dependent registration transparency undermine karti hai. Registration enrollment se pehle plan honi chahiye.
-- **B.** Retrospective request prospective registration ka purpose fulfill nahi karta. Applicable timing beforehand follow karo.
-- **C.** Ethics review participant protection assess karti hai. Trial registration public transparency serve karti hai. Dono distinct processes hain.
+- **A.** Interim analysis ke time tak enrollment already start ho sakta hai. Outcome data collect hone se pehle public registration selective reporting reduce karne mein help karti hai, isliye interim analysis deadline late hai.
+- **B.** Manuscript submission study ke end mein ho sakta hai. Retrospective registration prospective transparency requirement fulfill nahi karti.
+- **C.** Ethics review aur public registration different processes hain. EC approval milna trial registry record create nahi karta. Registration first consent ke baad delay karna ICMJE timing satisfy nahi karta.
+
+**Exam clue:** ICMJE timing first patient consent for enrollment ya usse pehle hai.
+
+**Related concept reference:** [ICMJE clinical trials registration and data sharing](https://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html). Current indexed first-consent timing checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -442,13 +510,17 @@
 
 **Correct: C. Notify the journal and arrange a transparent correction**
 
-**C.** Honest reporting error ko versioned correction se rectify karo. Readers ko corrected value aur original error clearly accessible hone chahiye.
+**C.** Honest reporting error ko versioned correction se rectify karo. Readers ko corrected value aur original error clearly accessible hone chahiye. Journal linked correction notice aur version history maintain kare. Agar error conclusions seriously undermine kare, editorial review se retraction ya retraction with republication consider ho sakti hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Private change published research record correct nahi karta. Journal notification and public correction needed hai.
 - **B.** Retraction unreliable findings or serious issues ke context mein appropriate ho sakti hai. Minor correctable error generally transparent correction se handle hota hai.
 - **D.** Numerical accuracy future readers aur synthesis ke liye important hai. Error report and correct karo.
+
+**Exam clue:** Correctable minor error mein transparent correction, unreliable findings mein retraction consider hoti hai.
+
+**Related concept reference:** [ICMJE corrections and version control](https://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/corrections-and-version-control.html). Current indexed guidance checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -475,6 +547,10 @@
 - **C.** Legitimate open-access journals transparent fees and robust peer review maintain kar sakti hain. Access model alone quality indicator nahi hai.
 - **D.** Invitation indexing evidence nahi hai. Official database se claims verify karo.
 
+**Exam clue:** Journal ke claims independent sources se verify karo.
+
+**Related concept reference:** [Think Check Submit journal checklist](https://thinkchecksubmit.org/journals/). Indexed checklist checked. Full item-specific independent review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -499,6 +575,10 @@
 - **B.** Public identifiable data privacy obligations violate kar sakta hai. Reproducibility confidentiality override nahi karti.
 - **C.** Methods hide karne se independent evaluation difficult hoti hai. Sensitive personal data aur non-sensitive analytic details distinguish karo.
 - **D.** Final p-value alone replicate or critically evaluate karne ke liye insufficient hai. Data definitions and analytic procedures report karo.
+
+**Exam clue:** Reproducibility ke liye analysis transparency aur governed data access balance karo.
+
+**Related concept reference:** [ICMJE clinical trials registration and data sharing](https://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html). Current indexed first-consent timing checked. Full item-specific independent review pending.
 
 **YouTube MCQ practice:** verification pending.
 
