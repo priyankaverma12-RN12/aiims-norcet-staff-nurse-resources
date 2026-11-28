@@ -354,26 +354,26 @@
 
 </details>
 
-### Q15. A scatter plot shows that higher staffing workload tends to accompany lower job satisfaction. Pearson r = −0.82. What can be inferred?
+### Q15. A scatter plot of two numerical mobility-performance measures shows an approximately linear increasing pattern, with Pearson r = 0.75. Which interpretation is appropriate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Workload explains exactly 82% of satisfaction variance
-- **B.** Workload necessarily causes low satisfaction
-- **C.** There is a strong negative linear association in the observed data
-- **D.** There is no association because the coefficient is negative
+- **A.** Exactly 75% of the variation in one measure is explained by the other
+- **B.** Increasing the first score necessarily causes an increase in the second
+- **C.** There is a positive linear association in the observed sample
+- **D.** The slope of the fitted regression line must be 0.75
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. There is a strong negative linear association in the observed data**
+**Correct: C. There is a positive linear association in the observed sample**
 
-**C.** Negative sign opposite direction aur absolute magnitude strong linear association suggest karta hai. Causation ke liye design aur confounding assess karo.
+**C.** Positive sign batata hai ki higher values generally saath increase karti hain. Magnitude appreciable linear association suggest karta hai, lekin individual predictions perfect nahi hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** r khud proportion of variance explained nahi hai. Simple linear regression with intercept mein r² roughly 0.6724 hota hai.
-- **B.** Correlation se temporal direction aur alternative explanations establish nahi hote. Causal conclusion unjustified hai.
-- **D.** Negative r association ki direction batata hai, absence nahi. Zero ke near coefficient weak linear association indicate karta.
+- **A.** Correlation coefficient r proportion of explained variance nahi hai. Simple linear regression with intercept mein r squared = 0.5625, yani 56.25% hota hai.
+- **B.** Correlation association measure karta hai. Causal conclusion ke liye temporality, confounding aur appropriate design assess karna zaroori hai.
+- **D.** Regression slope measurement units aur dono variables ki standard deviations par depend karti hai. Dimensionless r se slope necessarily equal nahi hai.
 
 **YouTube MCQ practice:** verification pending.
 
