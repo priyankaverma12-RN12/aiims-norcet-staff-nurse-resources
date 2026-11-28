@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: neonatal-b03-20261128-1334Z
+Scope: Isolated PR57 neonatal jaundice, infection, hypoglycemia, RDS and apnea new topic packages only; no shared navigation or prior banks
+Claimed UTC: 2026-11-28T13:34:00Z
+Expiry UTC: 2026-11-28T14:04:00Z
 
 ## Verified released checkpoint — 2026-11-28
 
