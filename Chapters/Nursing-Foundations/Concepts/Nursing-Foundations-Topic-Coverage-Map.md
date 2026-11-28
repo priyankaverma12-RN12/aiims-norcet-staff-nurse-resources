@@ -128,4 +128,8 @@ Group 08 legacy allocation (20 IDs exactly once): 08A Q4,5,6,7,13,14,17,18 (8); 
 
 - [Central venous access](08C-Central-Venous-Access.md) mein 28 naye aur do purane questions milakar 30 allocate hue hain. [Diagram](../Assets/08C-Central-Access-Devices.svg) · [MCQs](../MCQs/08C-Central-Venous-Access-28-MCQs.md) · [Reported evidence](../Previous-Year-Questions/08C-Central-Access-Reported-Evidence.md).
 
-Ab Group 09 urinary elimination aur catheter care ke individual topics cover karne hain. Full clinical aur semantic audit abhi baaki hai.
+Group 09 urinary elimination aur catheter care ka subdivision shuru ho gaya hai. Full clinical aur semantic audit abhi baaki hai.
+
+- [Urinary elimination assessment and continence care](09A-Urinary-Elimination-Assessment-and-Continence-Care.md): 30 allocated (26 new + four preserved). [Diagram](../Assets/09A-Urinary-Elimination-Assessment.svg) · [MCQs](../MCQs/09A-Urinary-Elimination-Assessment-and-Continence-Care-26-MCQs.md) · [Reported evidence](../Previous-Year-Questions/09A-Urinary-Elimination-Reported-Evidence.md).
+
+Group 09 legacy allocation (all 20 IDs once): 09A Q9,10,18,19 allocated (4). 09B insertion/removal Q1,8,15,16,17 reserved (5), plus previously reserved Group 05 Q18 once. 09C maintenance/CAUTI Q2,3,4,5,7,13,14 reserved (7). 09D specimen collection Q6,11,12 reserved (3). Group 22 fluid balance Q20 cross-reference only (1). Existing IPC CAUTI and Renal learning tasks remain cross-references, not new authorship. Next 09B, then 09C and 09D.
