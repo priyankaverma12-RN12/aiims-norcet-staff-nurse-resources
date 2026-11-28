@@ -37,22 +37,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Guarantee that pressure injuries can never occur
+- **A.** Eliminate the need to clean the residual limb
 - **B.** Replace all suspension components in every device
-- **C.** Provide an interface that helps manage contact pressure and shear according to the design
-- **D.** Eliminate the need to clean the residual limb
+- **C.** Guarantee that pressure injuries can never occur
+- **D.** Provide an interface that helps manage contact pressure and shear according to the design
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Provide an interface that helps manage contact pressure and shear according to the design**
+**Correct answer: D. Provide an interface that helps manage contact pressure and shear according to the design**
 
-**A kyun galat hai:** Proper liner injury risk reduce kar sakta hai, par poor fit ya moisture ke saath injury still possible hai.
+**A kyun galat hai:** Skin hygiene still essential hai. Liner moisture aur debris accumulate kar sakta hai.
 
 **B kyun galat hai:** Kuch liners suspension system ka part hote hain, lekin har device ka suspension design same nahi hota.
 
-**C kyun sahi hai:** Liner skin aur rigid socket ke beech interface provide karta hai. Design ke hisaab se cushioning aur shear management mein madad mil sakti hai.
+**C kyun galat hai:** Proper liner injury risk reduce kar sakta hai, par poor fit ya moisture ke saath injury still possible hai.
 
-**D kyun galat hai:** Skin hygiene still essential hai. Liner moisture aur debris accumulate kar sakta hai.
+**D kyun sahi hai:** Liner skin aur rigid socket ke beech interface provide karta hai. Design ke hisaab se cushioning aur shear management mein madad mil sakti hai.
 
 **Exam clue:** Liner protective interface hai, skin assessment ka replacement nahi.
 
@@ -67,21 +67,21 @@
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** It directly treats all phantom pain
-- **B.** It helps keep the prosthesis securely attached to the residual limb
-- **C.** It measures arterial blood pressure
-- **D.** It permanently eliminates residual limb volume changes
+- **B.** It measures arterial blood pressure
+- **C.** It permanently eliminates residual limb volume changes
+- **D.** It helps keep the prosthesis securely attached to the residual limb
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. It helps keep the prosthesis securely attached to the residual limb**
+**Correct answer: D. It helps keep the prosthesis securely attached to the residual limb**
 
 **A kyun galat hai:** Suspension prosthesis attachment ka function karta hai. Phantom pain ka individualized management separate hota hai.
 
-**B kyun sahi hai:** Suspension limb aur socket ko securely connected rakhne mein help karta hai. Device design suction, liner locking ya other methods use kar sakta hai.
+**B kyun galat hai:** BP measurement separate clinical equipment se hota hai. Suspension vascular monitoring device nahi hai.
 
-**C kyun galat hai:** BP measurement separate clinical equipment se hota hai. Suspension vascular monitoring device nahi hai.
+**C kyun galat hai:** Muscle atrophy aur fluid shifts still ho sakte hain. Suspension volume variation permanently stop nahi karta.
 
-**D kyun galat hai:** Muscle atrophy aur fluid shifts still ho sakte hain. Suspension volume variation permanently stop nahi karta.
+**D kyun sahi hai:** Suspension limb aur socket ko securely connected rakhne mein help karta hai. Device design suction, liner locking ya other methods use kar sakta hai.
 
 **Exam clue:** Suspension attachment maintain karta hai, socket load transfer karta hai.
 
@@ -95,22 +95,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Bone has necessarily fractured inside the socket
+- **A.** All prostheses become permanently larger within hours
 - **B.** The prosthetic foot has regenerated
-- **C.** All prostheses become permanently larger within hours
-- **D.** Normal fluid-volume fluctuation may change the residual limb-to-socket fit
+- **C.** Normal fluid-volume fluctuation may change the residual limb-to-socket fit
+- **D.** Bone has necessarily fractured inside the socket
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Normal fluid-volume fluctuation may change the residual limb-to-socket fit**
+**Correct answer: C. Normal fluid-volume fluctuation may change the residual limb-to-socket fit**
 
-**A kyun galat hai:** Fracture possible injury ho sakta hai but daily recurrent fit change alone fracture prove nahi karta. Symptoms aur mechanism assess karna hota hai.
+**A kyun galat hai:** Socket geometry hours mein necessarily permanently change nahi hoti. Residual limb volume din bhar vary kar sakta hai.
 
 **B kyun galat hai:** Artificial foot biological growth nahi karti. Fit change limb volume ya equipment factors se ho sakta hai.
 
-**C kyun galat hai:** Socket geometry hours mein necessarily permanently change nahi hoti. Residual limb volume din bhar vary kar sakta hai.
+**C kyun sahi hai:** Fluid shifts, activity aur other factors residual limb volume alter karte hain. Nurse trained sock-ply management aur persistent problem mein prosthetist review reinforce karti hai.
 
-**D kyun sahi hai:** Fluid shifts, activity aur other factors residual limb volume alter karte hain. Nurse trained sock-ply management aur persistent problem mein prosthetist review reinforce karti hai.
+**D kyun galat hai:** Fracture possible injury ho sakta hai but daily recurrent fit change alone fracture prove nahi karta. Symptoms aur mechanism assess karna hota hai.
 
 **Exam clue:** Socket loose ho toh volume change aur device fit dono assess karo.
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Ankylosis
-- **B.** Bone union
-- **C.** Pistoning
-- **D.** Phantom sensation
+- **A.** Phantom sensation
+- **B.** Pistoning
+- **C.** Bone union
+- **D.** Ankylosis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Pistoning**
+**Correct answer: B. Pistoning**
 
-**A kyun galat hai:** Ankylosis joint mobility loss ko describe karta hai. Socket ke relative movement ka term nahi hai.
+**A kyun galat hai:** Phantom sensation removed part ka perceived feeling hai. Ye mechanical socket movement nahi hai.
 
-**B kyun galat hai:** Bone union fracture healing ka result hai. Prosthesis-residual limb motion alag issue hai.
+**B kyun sahi hai:** Pistoning mein residual limb aur socket ke beech excessive vertical movement hota hai. Suspension ya fit problem assess karna important hai.
 
-**C kyun sahi hai:** Pistoning mein residual limb aur socket ke beech excessive vertical movement hota hai. Suspension ya fit problem assess karna important hai.
+**C kyun galat hai:** Bone union fracture healing ka result hai. Prosthesis-residual limb motion alag issue hai.
 
-**D kyun galat hai:** Phantom sensation removed part ka perceived feeling hai. Ye mechanical socket movement nahi hai.
+**D kyun galat hai:** Ankylosis joint mobility loss ko describe karta hai. Socket ke relative movement ka term nahi hai.
 
 **Exam clue:** Pistoning = socket aur residual limb ke beech excessive relative motion.
 
@@ -183,21 +183,21 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** Loss of all capillary filtration
-- **B.** Impaired venous or lymphatic drainage from proximal constriction
-- **C.** Increased joint cartilage formation
-- **D.** Complete cessation of muscle metabolism
+- **B.** Increased joint cartilage formation
+- **C.** Complete cessation of muscle metabolism
+- **D.** Impaired venous or lymphatic drainage from proximal constriction
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Impaired venous or lymphatic drainage from proximal constriction**
+**Correct answer: D. Impaired venous or lymphatic drainage from proximal constriction**
 
 **A kyun galat hai:** Swelling fluid accumulation ko indicate karti hai. Capillary filtration completely absent hona is pattern ka explanation nahi hai.
 
-**B kyun sahi hai:** Proximal constriction venous aur lymphatic return restrict kar sakti hai. Fluid distal region mein collect ho sakta hai, isliye socket fit review aur clinical assessment important hain.
+**B kyun galat hai:** Joint cartilage formation skin aur residual limb edema ko explain nahi karti.
 
-**C kyun galat hai:** Joint cartilage formation skin aur residual limb edema ko explain nahi karti.
+**C kyun galat hai:** Muscle metabolism complete cease hona expected mechanism nahi hai. Drainage obstruction relevant concern hai.
 
-**D kyun galat hai:** Muscle metabolism complete cease hona expected mechanism nahi hai. Drainage obstruction relevant concern hai.
+**D kyun sahi hai:** Proximal constriction venous aur lymphatic return restrict kar sakti hai. Fluid distal region mein collect ho sakta hai, isliye socket fit review aur clinical assessment important hain.
 
 **Exam clue:** Proximal socket restriction distal swelling create kar sakti hai.
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Cover the area and increase the planned wear time
+- **A.** Apply an unprescribed tight bandage and continue walking
 - **B.** Massage the red area vigorously before putting the prosthesis back on
-- **C.** Apply an unprescribed tight bandage and continue walking
+- **C.** Cover the area and increase the planned wear time
 - **D.** Stop wear as appropriate, assess the skin and contact the prosthetic or clinical team
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Stop wear as appropriate, assess the skin and contact the prosthetic or clinical team**
 
-**A kyun galat hai:** Persistent red area pressure injury ka early clue ho sakta hai. Continued loading tissue damage increase kar sakti hai.
+**A kyun galat hai:** Tight bandage perfusion restrict kar sakti hai. Unassessed continued walking risk badhata hai.
 
 **B kyun galat hai:** Vigorous massage already stressed tissue ko damage kar sakti hai. Pressure relief aur fit assessment priority hain.
 
-**C kyun galat hai:** Tight bandage perfusion restrict kar sakti hai. Unassessed continued walking risk badhata hai.
+**C kyun galat hai:** Persistent red area pressure injury ka early clue ho sakta hai. Continued loading tissue damage increase kar sakti hai.
 
 **D kyun sahi hai:** Prosthesis remove karke affected skin inspect karna aur prompt fit/clinical review arrange karna further breakdown prevent karne mein help karta hai. Mobility ka safe alternative use karo.
 
@@ -240,20 +240,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Loss of protective sensation may prevent awareness of early pressure injury
-- **B.** Diabetic neuropathy guarantees that skin is resistant to friction
-- **C.** Pain absence proves that socket fit is ideal
+- **A.** Diabetic neuropathy guarantees that skin is resistant to friction
+- **B.** Pain absence proves that socket fit is ideal
+- **C.** Loss of protective sensation may prevent awareness of early pressure injury
 - **D.** Inspection is useful only if the patient already has fever
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Loss of protective sensation may prevent awareness of early pressure injury**
+**Correct answer: C. Loss of protective sensation may prevent awareness of early pressure injury**
 
-**A kyun sahi hai:** Neuropathy mein pressure aur pain signals properly feel nahi ho sakte. Frequent visual checks injury early detect karne mein help karte hain.
+**A kyun galat hai:** Neuropathy protection reduce karti hai. Friction aur pressure ka risk still present hai.
 
-**B kyun galat hai:** Neuropathy protection reduce karti hai. Friction aur pressure ka risk still present hai.
+**B kyun galat hai:** Pain absence poor sensation ke context mein misleading ho sakti hai. Fit aur skin inspect karna chahiye.
 
-**C kyun galat hai:** Pain absence poor sensation ke context mein misleading ho sakti hai. Fit aur skin inspect karna chahiye.
+**C kyun sahi hai:** Neuropathy mein pressure aur pain signals properly feel nahi ho sakte. Frequent visual checks injury early detect karne mein help karte hain.
 
 **D kyun galat hai:** Fever infection ka later systemic sign ho sakta hai. Skin surveillance earlier injury detect karne ke liye hai.
 
@@ -269,22 +269,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Keep the skin moist under the socket overnight
-- **B.** Apply any household solvent to the liner
-- **C.** Follow device-specific liner cleaning instructions and dry the skin and interface before use
-- **D.** Avoid washing the residual limb to preserve its natural oils
+- **A.** Follow device-specific liner cleaning instructions and dry the skin and interface before use
+- **B.** Avoid washing the residual limb to preserve its natural oils
+- **C.** Apply any household solvent to the liner
+- **D.** Keep the skin moist under the socket overnight
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Follow device-specific liner cleaning instructions and dry the skin and interface before use**
+**Correct answer: A. Follow device-specific liner cleaning instructions and dry the skin and interface before use**
 
-**A kyun galat hai:** Moisture skin soften kar sakti hai aur shear injury ka risk badha sakti hai. Dry interface maintain karna important hai.
+**A kyun sahi hai:** Gentle skin hygiene aur compatible liner cleaning se sweat aur debris remove hote hain. Thorough drying skin breakdown risk reduce karne mein help karti hai.
 
-**B kyun galat hai:** Household solvent liner damage ya skin irritation cause kar sakta hai. Manufacturer-approved cleaning instructions follow karo.
+**B kyun galat hai:** Residual limb hygiene infection aur irritation prevention ka important part hai. Washing completely avoid karna appropriate nahi hai.
 
-**C kyun sahi hai:** Gentle skin hygiene aur compatible liner cleaning se sweat aur debris remove hote hain. Thorough drying skin breakdown risk reduce karne mein help karti hai.
+**C kyun galat hai:** Household solvent liner damage ya skin irritation cause kar sakta hai. Manufacturer-approved cleaning instructions follow karo.
 
-**D kyun galat hai:** Residual limb hygiene infection aur irritation prevention ka important part hai. Washing completely avoid karna appropriate nahi hai.
+**D kyun galat hai:** Moisture skin soften kar sakti hai aur shear injury ka risk badha sakti hai. Dry interface maintain karna important hai.
 
 **Exam clue:** Moisture aur shear milkar skin breakdown ka risk badhate hain.
 
@@ -327,22 +327,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Pierce every blister and continue normal wear
+- **A.** Ignore the blister if pain is mild
 - **B.** Apply an irritant solution into the blister
-- **C.** Ignore the blister if pain is mild
-- **D.** Avoid self-piercing, protect the skin and arrange clinical and socket-fit review
+- **C.** Avoid self-piercing, protect the skin and arrange clinical and socket-fit review
+- **D.** Pierce every blister and continue normal wear
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Avoid self-piercing, protect the skin and arrange clinical and socket-fit review**
+**Correct answer: C. Avoid self-piercing, protect the skin and arrange clinical and socket-fit review**
 
-**A kyun galat hai:** Blister puncture infection risk increase kar sakti hai. Continued loading underlying injury worsen kar sakti hai.
+**A kyun galat hai:** Mild pain injury severity reliably establish nahi karta. Blister pressure/shear damage ka sign hai.
 
 **B kyun galat hai:** Irritant damaged skin ko further harm kar sakta hai. Treatment appropriate wound assessment se guide hota hai.
 
-**C kyun galat hai:** Mild pain injury severity reliably establish nahi karta. Blister pressure/shear damage ka sign hai.
+**C kyun sahi hai:** Skin barrier protect karo aur prosthetic wear temporarily modify according to clinical advice. Fit cause address karna recurrence prevention ke liye important hai.
 
-**D kyun sahi hai:** Skin barrier protect karo aur prosthetic wear temporarily modify according to clinical advice. Fit cause address karna recurrence prevention ke liye important hai.
+**D kyun galat hai:** Blister puncture infection risk increase kar sakti hai. Continued loading underlying injury worsen kar sakti hai.
 
 **Exam clue:** Blister is a skin injury, not a reason to increase prosthetic loading.
 
@@ -356,18 +356,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Control edema and help manage the residual limb shape
-- **B.** Permanently stop all bone growth
+- **A.** Permanently stop all bone growth
+- **B.** Control edema and help manage the residual limb shape
 - **C.** Replace assessment of circulation
 - **D.** Allow unlimited compression regardless of pain or skin change
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Control edema and help manage the residual limb shape**
+**Correct answer: B. Control edema and help manage the residual limb shape**
 
-**A kyun sahi hai:** Shrinker controlled compression provide karta hai jo fluid accumulation reduce aur limb shape manage karne mein help kar sakta hai. Fit aur timing prescribed plan par depend karte hain.
+**A kyun galat hai:** Shrinker bone growth permanently stop nahi karta. Iska primary purpose soft-tissue volume management hai.
 
-**B kyun galat hai:** Shrinker bone growth permanently stop nahi karta. Iska primary purpose soft-tissue volume management hai.
+**B kyun sahi hai:** Shrinker controlled compression provide karta hai jo fluid accumulation reduce aur limb shape manage karne mein help kar sakta hai. Fit aur timing prescribed plan par depend karte hain.
 
 **C kyun galat hai:** Compression ke saath perfusion aur skin assessment still important hai. Isse circulation check replace nahi hota.
 
@@ -385,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Create a tight isolated circular band at the upper end
+- **A.** Wrap over new skin injury without seeking advice
 - **B.** Use the taught diagonal or figure-of-eight wrapping technique with appropriately graded compression
 - **C.** Apply greater focal pressure directly over every bony prominence
-- **D.** Wrap over new skin injury without seeking advice
+- **D.** Create a tight isolated circular band at the upper end
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Use the taught diagonal or figure-of-eight wrapping technique with appropriately graded compression**
 
-**A kyun galat hai:** Tight isolated proximal ring fluid drainage aur perfusion impair kar sakti hai. Uniform prescribed technique important hai.
+**A kyun galat hai:** New skin injury compression plan change karne ka reason ho sakti hai. Clinical advice ke bina injured skin ko tightly wrap nahi karna chahiye.
 
 **B kyun sahi hai:** Taught diagonal ya figure-of-eight technique pressure ko controlled tarike se distribute karne mein help karti hai. Compression gradient, wound status aur fit rehabilitation team guide karti hai. Skin aur symptoms monitor karne chahiye.
 
 **C kyun galat hai:** Bony prominence par excessive focal pressure skin injury create kar sakti hai. Wrap smooth aur appropriate pressure wala hona chahiye.
 
-**D kyun galat hai:** New skin injury compression plan change karne ka reason ho sakti hai. Clinical advice ke bina injured skin ko tightly wrap nahi karna chahiye.
+**D kyun galat hai:** Tight isolated proximal ring fluid drainage aur perfusion impair kar sakti hai. Uniform prescribed technique important hai.
 
 **Exam clue:** Prescribed wrapping mein smooth graded pressure aur skin protection dono important hain.
 
@@ -416,20 +416,20 @@
 
 - **A.** Continue wear because folds always disappear safely during walking
 - **B.** Add a sharp pin to release the trapped air
-- **C.** Remove and reapply the liner using the taught technique until it sits smoothly
-- **D.** Tighten the socket independently over the folded liner
+- **C.** Tighten the socket independently over the folded liner
+- **D.** Remove and reapply the liner using the taught technique until it sits smoothly
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Remove and reapply the liner using the taught technique until it sits smoothly**
+**Correct answer: D. Remove and reapply the liner using the taught technique until it sits smoothly**
 
 **A kyun galat hai:** Fold ya air pocket uneven interface create kar sakte hain. Walking ke dauran pressure aur shear injury risk increase ho sakta hai.
 
-**B kyun galat hai:** Roll-on liner ko device-specific technique se smoothly apply karna chahiye. Fold aur trapped air correct karke skin aur fit reassess karo.
+**B kyun galat hai:** Pin liner puncture ya skin injury cause kar sakta hai. Improvised alteration safe nahi hai.
 
-**C kyun sahi hai:** Pin liner puncture ya skin injury cause kar sakta hai. Improvised alteration safe nahi hai.
+**C kyun galat hai:** Tightening poor liner application correct nahi karti. Socket fit ko trained prosthetist review karta hai.
 
-**D kyun galat hai:** Tightening poor liner application correct nahi karti. Socket fit ko trained prosthetist review karta hai.
+**D kyun sahi hai:** Roll-on liner ko device-specific technique se smoothly apply karna chahiye. Fold aur trapped air correct karke skin aur fit reassess karo.
 
 **Exam clue:** Roll-on liner mein folds aur air pockets ko wear se pehle correct karo.
 
@@ -443,22 +443,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Increase unsupervised walking distance immediately
+- **A.** Adjust the prosthetic knee alignment independently
 - **B.** Tell the patient to compensate by walking faster
-- **C.** Adjust the prosthetic knee alignment independently
-- **D.** Pause unsafe gait progression and request prosthetic alignment and therapy assessment
+- **C.** Pause unsafe gait progression and request prosthetic alignment and therapy assessment
+- **D.** Increase unsupervised walking distance immediately
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Pause unsafe gait progression and request prosthetic alignment and therapy assessment**
+**Correct answer: C. Pause unsafe gait progression and request prosthetic alignment and therapy assessment**
 
-**A kyun galat hai:** Buckling fall risk create karti hai. Unsupervised distance increase unsafe ho sakta hai.
+**A kyun galat hai:** Alignment specialized fitting task hai. Nurse independently mechanical modifications nahi karti.
 
 **B kyun galat hai:** Faster walking instability resolve hone ki guarantee nahi deti. Proper gait aur device assessment chahiye.
 
-**C kyun galat hai:** Alignment specialized fitting task hai. Nurse independently mechanical modifications nahi karti.
+**C kyun sahi hai:** Therapist muscle control aur gait evaluate karta hai, prosthetist device settings aur alignment assess karta hai. Safe assisted mobility continue kar sakti hai as directed.
 
-**D kyun sahi hai:** Therapist muscle control aur gait evaluate karta hai, prosthetist device settings aur alignment assess karta hai. Safe assisted mobility continue kar sakti hai as directed.
+**D kyun galat hai:** Buckling fall risk create karti hai. Unsupervised distance increase unsafe ho sakta hai.
 
 **Exam clue:** Prosthetic knee instability mein device aur patient dono ka assessment chahiye.
 
@@ -472,18 +472,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** A socket-related mechanical source should be assessed before attributing the pain to phantom pain
-- **B.** Every residual limb pain is necessarily phantom pain
+- **A.** Every residual limb pain is necessarily phantom pain
+- **B.** A socket-related mechanical source should be assessed before attributing the pain to phantom pain
 - **C.** The patient must have a generalized infection
 - **D.** The finding proves that the prosthesis is correctly fitted
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. A socket-related mechanical source should be assessed before attributing the pain to phantom pain**
+**Correct answer: B. A socket-related mechanical source should be assessed before attributing the pain to phantom pain**
 
-**A kyun sahi hai:** Pressure-linked pain residual tissue loading ya fit problem suggest kar sakta hai. Skin, socket aur local clinical findings assess karne chahiye.
+**A kyun galat hai:** Phantom pain removed part mein perceived hota hai. Present residual limb mein pressure-associated pain separate mechanism ho sakta hai.
 
-**B kyun galat hai:** Phantom pain removed part mein perceived hota hai. Present residual limb mein pressure-associated pain separate mechanism ho sakta hai.
+**B kyun sahi hai:** Pressure-linked pain residual tissue loading ya fit problem suggest kar sakta hai. Skin, socket aur local clinical findings assess karne chahiye.
 
 **C kyun galat hai:** Infection possible differential hai, lekin pressure-related timing alone generalized infection prove nahi karta.
 
@@ -501,22 +501,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Apply forceful friction to an open surgical wound
-- **B.** Avoid all sensory contact permanently
-- **C.** Use graded gentle touch or textures according to the therapy plan
-- **D.** Apply ice directly for prolonged periods despite sensory impairment
+- **A.** Use graded gentle touch or textures according to the therapy plan
+- **B.** Apply ice directly for prolonged periods despite sensory impairment
+- **C.** Avoid all sensory contact permanently
+- **D.** Apply forceful friction to an open surgical wound
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Use graded gentle touch or textures according to the therapy plan**
+**Correct answer: A. Use graded gentle touch or textures according to the therapy plan**
 
-**A kyun galat hai:** Open wound par friction tissue damage aur infection risk badha sakti hai. Question healed skin aur prescribed therapy ka hai.
+**A kyun sahi hai:** Gentle planned sensory stimulation hypersensitivity reduce karne mein help kar sakti hai. Technique pain tolerance aur clinician advice ke according progress hoti hai.
 
-**B kyun galat hai:** Permanent avoidance sensitivity management aur functional use limit kar sakta hai. Graded exposure useful ho sakti hai.
+**B kyun galat hai:** Prolonged direct ice impaired sensation mein cold injury kar sakti hai. Ye graded tactile desensitization nahi hai.
 
-**C kyun sahi hai:** Gentle planned sensory stimulation hypersensitivity reduce karne mein help kar sakti hai. Technique pain tolerance aur clinician advice ke according progress hoti hai.
+**C kyun galat hai:** Permanent avoidance sensitivity management aur functional use limit kar sakta hai. Graded exposure useful ho sakti hai.
 
-**D kyun galat hai:** Prolonged direct ice impaired sensation mein cold injury kar sakti hai. Ye graded tactile desensitization nahi hai.
+**D kyun galat hai:** Open wound par friction tissue damage aur infection risk badha sakti hai. Question healed skin aur prescribed therapy ka hai.
 
 **Exam clue:** Desensitization healed tissue par graded aur supervised approach hai.
 
@@ -530,18 +530,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The most expensive component regardless of the patient's needs
-- **B.** Individual functional goals, safety, clinical status and anticipated activity level
+- **A.** Individual functional goals, safety, clinical status and anticipated activity level
+- **B.** The most expensive component regardless of the patient's needs
 - **C.** Only the color of the cosmetic cover
 - **D.** A guarantee that the same component suits every amputation level
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Individual functional goals, safety, clinical status and anticipated activity level**
+**Correct answer: A. Individual functional goals, safety, clinical status and anticipated activity level**
 
-**A kyun galat hai:** Cost alone fit ya functional suitability determine nahi karta. Individual goals aur clinical constraints important hain.
+**A kyun sahi hai:** Component choice patient ki mobility potential, environment, balance, residual limb aur personal goals ke according team assess karti hai.
 
-**B kyun sahi hai:** Component choice patient ki mobility potential, environment, balance, residual limb aur personal goals ke according team assess karti hai.
+**B kyun galat hai:** Cost alone fit ya functional suitability determine nahi karta. Individual goals aur clinical constraints important hain.
 
 **C kyun galat hai:** Cosmetic preference relevant ho sakti hai but functional component selection primarily safety aur needs se guide hoti hai.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Allow continuous wear immediately because the first session was tolerated
+- **A.** Increase wear time without checking the skin
 - **B.** Stop all future prosthetic training to avoid any risk
-- **C.** Increase wear time without checking the skin
-- **D.** Progress the individualized wear schedule gradually with skin and comfort reassessment
+- **C.** Progress the individualized wear schedule gradually with skin and comfort reassessment
+- **D.** Allow continuous wear immediately because the first session was tolerated
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Progress the individualized wear schedule gradually with skin and comfort reassessment**
+**Correct answer: C. Progress the individualized wear schedule gradually with skin and comfort reassessment**
 
-**A kyun galat hai:** Initial short session tolerate hona prolonged load ki safety guarantee nahi karta. Tissue adaptation aur fit monitor karne hote hain.
+**A kyun galat hai:** Skin checks early pressure damage identify karte hain. Unmonitored progression risk badhati hai.
 
 **B kyun galat hai:** Safe gradual training function improve kar sakti hai. All training stop karna unnecessary hai if clinically cleared.
 
-**C kyun galat hai:** Skin checks early pressure damage identify karte hain. Unmonitored progression risk badhati hai.
+**C kyun sahi hai:** Prescribed graded wear schedule ke saath skin response aur comfort assess karte hain. Red flags ya poor fit mein progression pause karke review karna chahiye.
 
-**D kyun sahi hai:** Prescribed graded wear schedule ke saath skin response aur comfort assess karte hain. Red flags ya poor fit mein progression pause karke review karna chahiye.
+**D kyun galat hai:** Initial short session tolerate hona prolonged load ki safety guarantee nahi karta. Tissue adaptation aur fit monitor karne hote hain.
 
 **Exam clue:** New prosthesis wear time skin tolerance aur team plan ke according increase karo.
 
