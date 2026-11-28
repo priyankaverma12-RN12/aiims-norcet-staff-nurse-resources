@@ -4,30 +4,30 @@
 
 [Chapter](../README.md) · [Batch 03 checkpoint](../Batch-03-Review-Checkpoint.md)
 
-### Q01. A patient describes a painful shoulder and says the arm is 'stiff.' Which follow-up question best differentiates weakness from restricted joint movement?
+### Q01. A patient reports recurrent knee swelling but has no visible swelling during today's examination. Which history detail is most useful for evaluating the intermittent symptom?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Does the pain occur on your dominant side?
-- **B.** Can you move the arm farther when someone supports it, or does the joint itself stop moving?
-- **C.** Is your pain score above five?
-- **D.** Have you ever taken an analgesic?
+- **A.** The patient's preferred footwear colour
+- **B.** Onset, duration, frequency and activity-related or systemic triggers of each episode
+- **C.** The absence of swelling today as proof that no disorder exists
+- **D.** Only the most recent analgesic brand, without symptom chronology
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Can you move the arm farther when someone supports it, or does the joint itself stop moving?**
+**Correct answer: B. Onset, duration, frequency and activity-related or systemic triggers of each episode**
 
-**A kyun galat hai:** Dominant side functional impact batati hai, but weakness versus mechanical restriction ko directly differentiate nahi karti.
+**A kyun galat hai:** Footwear ka fit ya support relevant ho sakta hai, lekin colour se recurrent swelling ka clinical pattern establish nahi hota.
 
-**B kyun sahi hai:** Patient ke word stiffness ka meaning actual movement block, weakness ya pain avoidance ho sakta hai. Supported motion aur own movement ka difference clarify karne se assessment focused hoti hai.
+**B kyun sahi hai:** Intermittent symptom examination ke time absent ho sakta hai. Episode kab start hua, kitni der raha, kitni baar hua aur activity, injury ya fever se relation kya tha, is history se differential assessment focused hoti hai.
 
-**C kyun galat hai:** Pain score severity quantify karta hai, lekin movement limitation ka mechanism identify nahi karta.
+**C kyun galat hai:** Aaj swelling absent hona previous episodes ko negate nahi karta. History aur examination ko saath interpret karna chahiye.
 
-**D kyun galat hai:** Analgesic history relevant hai but active aur assisted movement ke difference ka answer nahi deti.
+**D kyun galat hai:** Medicine history important hai, lekin sirf brand se onset, recurrence aur associated features ka pattern clear nahi hota.
 
-**Exam clue:** Clarify what the patient means by stiffness.
+**Exam clue:** Intermittent symptoms require chronological and trigger-based history.
 
-**Clinical reference:** [Merck joint symptom evaluation](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/approach-to-the-patient-with-joint-symptoms/evaluation-of-the-patient-with-joint-symptoms). Direct clinical text retrieved.
+**Clinical reference:** [Merck joint symptom evaluation](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/approach-to-the-patient-with-joint-symptoms/evaluation-of-the-patient-with-joint-symptoms). Clinical reference retrieved.
 
 **YouTube MCQ practice:** Verification pending.
 
