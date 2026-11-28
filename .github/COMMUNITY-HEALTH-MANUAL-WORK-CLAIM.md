@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr62-b06-20261128T1802Z
+Scope: PR62 Batch06 only: JAS-SHC facility financial governance and national/international public health agency mandates, distinct from VHSNC, IHR, ward inventory and PR61 disease programme banks. Draft content only.
+Claimed UTC: 2026-11-28T18:02:00Z
+Expiry UTC: 2026-11-28T18:32:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
