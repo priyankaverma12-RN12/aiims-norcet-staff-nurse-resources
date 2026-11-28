@@ -748,32 +748,32 @@
 
 ---
 
-### Q25. A patient using a walking aid enters a narrow passage where the frame cannot fit without tilting. What is the best discharge-planning response?
+### Q25. A patient has been fitted with forearm crutches. The handgrips are correctly positioned, but the upper edges of the cuffs press directly against the elbow joints during walking. What should the nurse arrange?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Route-device fit
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Forearm cuff fitting
 
-- **A.** Teach the patient to turn the frame sideways while walking without support
-- **B.** Use furniture for support whenever the passage is narrow
-- **C.** Assess the actual route with the rehabilitation team and arrange a compatible access solution
-- **D.** Advise the patient to leave the aid outside the passage regardless of mobility ability
+- **A.** Move the handgrips higher without checking the rest of the fit
+- **B.** Use the cuffs above the elbows to maximize support
+- **C.** Reassess cuff fit below the elbow and arrange appropriate adjustment or a suitable model
+- **D.** Continue because a correct handgrip height excludes cuff-related problems
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Assess the actual route with the rehabilitation team and arrange a compatible access solution**
+**Correct answer: C. Reassess cuff fit below the elbow and arrange appropriate adjustment or a suitable model**
 
-**A. Kyun galat hai:** Tilted frame intended stable support nahi de sakti. Narrow route ke liye untrained improvisation avoid karo.
+**A. Kyun galat hai:** Handgrip ki height already correct hai. Sirf grip upar karne se elbow angle change ho sakta hai aur cuff ka actual pressure solve hona zaroori nahi hai.
 
-**B. Kyun galat hai:** Furniture move ya tip ho sakta hai aur reliable walking aid nahi hai. Safe alternative assess karo.
+**B. Kyun galat hai:** Forearm cuff ka intended support elbow ke neeche hota hai. Joint ke upar ya directly joint par pressure se movement aur comfort affect ho sakte hain.
 
-**C. Kyun sahi hai:** Home route ki width aur patient ki mobility needs dono important hain. Team compatible device, route modification ya assistance plan decide kar sakti hai.
+**C. Kyun sahi hai:** Forearm cuff ko forearm support karna chahiye bina elbow movement ko unnecessarily block kiye. Therapist suitable fit assess kare aur adjustable cuff ko approved method se correct kare. Fixed cuff suitable na ho toh doosra model arrange karna pad sakta hai.
 
-**D. Kyun galat hai:** Aid bahar chhodne se required support unavailable ho sakta hai. Patient ki assessed independence ko respect karo.
+**D. Kyun galat hai:** Handgrip height aur cuff position alag fitting checks hain. Correct grip ke bawajood cuff elbow par pressure create kar sakti hai.
 
-**Exam clue:** Discharge readiness mein walking route ka actual fit check karo.
+**Exam clue:** Forearm crutch mein handgrip aur cuff dono ka fit check karo.
 
-**Clinical reference:** [Mobility guidance](https://medlineplus.gov/ency/patientinstructions/000342.htm).
+**Clinical reference:** [South Tees NHS elbow crutches](https://www.southtees.nhs.uk/resources/how-to-use-elbow-crutches/) and [Learning on TAP walking-aid fitting](https://www.gate-tap.org/topic/fitting-different-types-of-walking-aids/).
 
-**YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
+**YouTube MCQ practice:** Item-specific verification pending.
 
 </details>
 
