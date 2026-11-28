@@ -93,25 +93,25 @@
 
 </details>
 
-### Q5. Which symptom after a compatible environmental exposure is a recognized possible presentation of leptospirosis?
+### Q5. What does a biphasic clinical course mean in a possible leptospirosis illness?
 
 **Difficulty:** Easy | **Priority:** Medium | **Topic:** Leptospirosis community prevention | **Type:** Original practice
 
-- **A.** Acute headache with fever
-- **B.** A stable birthmark present since childhood
-- **C.** A longstanding isolated refractive error
-- **D.** An unchanged healed fracture from years earlier
+- **A.** Symptoms may improve temporarily and then recur
+- **B.** Symptoms must end permanently after the first fever
+- **C.** Symptoms always occur only once for a few minutes
+- **D.** Symptoms are present only before exposure
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Acute headache with fever**
+**Correct: A. Symptoms may improve temporarily and then recur**
 
-- **A.** Acute fever aur headache leptospirosis mein possible hain, exposure history ke saath prompt clinical evaluation chahiye.
-- **B.** Stable birthmark acute febrile infection ka symptom nahi hai.
-- **C.** Longstanding refractive error acute leptospirosis se typical relation nahi rakhta.
-- **D.** Healed old fracture new acute illness ka presentation nahi hai.
+- **A.** Biphasic course mein initial illness ke baad temporary improvement ho sakta hai aur symptoms phir recur kar sakte hain.
+- **B.** Initial fever ke baad permanent recovery har patient mein guaranteed nahi hai.
+- **C.** Brief single episode biphasic pattern nahi describe karta.
+- **D.** Exposure se pehle symptoms ka hona biphasic infection ka meaning nahi hai.
 
-**Exam clue:** Fever and headache are nonspecific compatible symptoms.
+**Exam clue:** Some cases have two phases of illness.
 
 </details>
 
