@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-09e-cookery-20261128-1216Z
-Scope: Isolated PR35 Unit X cooking methods and food preparation bank, guide, SVG and candidate inventory. No shared navigation or other chapter changes.
-Claimed UTC: 2026-11-28T12:16:39Z
-Expiry UTC: 2026-11-28T12:46:39Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 09E cookery methods and practical food preparation
+
+Candidate head: dc184bd240acf512acabbe4d79767363a435543e
+Inventory: 880 staged originals, 3520 individual Roman Hinglish rationales, 44 topic banks, 27 concept guides and 27 original SVGs. Four legacy originals and one reported adaptation separately preserved. Added 20 originals (13 Easy, seven Medium), 80 individual rationales, one guide and one diagram. Final bank ffa4d16e0dcb90e6b3a775faf4de0aab09085825; guide 10f800de189a26d181c48f345c1ebc07053b3d41; SVG ce0046f29837c8de0a7a32e77f1f9589d9f939f3. Exact readbacks and final option alignment passed. Zero normalized exact matches against 200 relevant prior stems. SVG rendered and visually inspected. Current CI 46144136547 pending at inspection. No live credit. Independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic, full INC reconciliation, AMB 2026, source/video, flagged clusters, PR7/8 and integration gates outstanding. Next screen adult underweight and diarrhea dietary-care gaps against existing adjacent banks, without regenerating previous topics. Preserve all other workstreams, website, learner history and five automations.
 
 ## Latest released checkpoint — 09D dyslipidemia dietary care
 
