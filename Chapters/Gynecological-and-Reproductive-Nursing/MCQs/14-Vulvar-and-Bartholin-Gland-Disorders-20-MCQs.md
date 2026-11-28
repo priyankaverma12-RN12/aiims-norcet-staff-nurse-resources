@@ -1,6 +1,6 @@
 # Vulvar and Bartholin Gland Disorders — 20 Original MCQs
 
-Advance-preparation, not authenticated PYQs. References for subsequent clinical audit: [MSD Bartholin cysts](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/vulvar-disorders/bartholin-gland-cysts), [ACOG vulvar disorders](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching), [CDC STI guidelines](https://www.cdc.gov/std/treatment-guidelines/default.htm). These links are not a completed item-by-item verification.
+Advance-preparation, not authenticated PYQs. References for subsequent clinical audit: [MSD Bartholin cysts](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/vulvar-disorders/bartholin-gland-cysts), [ACOG vulvar disorders](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching), [CDC STI guidelines](https://www.cdc.gov/std/treatment-guidelines/default.htm). Bartholin Q1–6 and Q16–18 were checked against MSD/Merck professional guidance. Vulvar dermatosis and pain items were checked against ACOG patient guidance and the accessible ACOG clinical abstract. Item-specific primary guideline depth, exact YouTube mapping and exam history remain pending. Do not treat this as an official PYQ bank.
 
 ## Part 1 — Questions 1–5
 
@@ -17,14 +17,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: A. Bartholin duct cyst**
 
-**Correct kyun?** Duct obstruction causes a localized cyst. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Bartholin duct ka opening block hota hai, isliye posterior vaginal entrance par painless fluid-filled swelling ban sakti hai.
 
-- **A. Bartholin duct cyst:** Duct obstruction causes a localized cyst. Isliye ye best answer hai.
-- **B. Uterine fibroid:** Ye option is question ka best answer nahi hai. Uterine fibroid ka concept alag hai. Is stem ka key finding duct obstruction causes a localized cyst.
-- **C. Cervical polyp:** Ye option is question ka best answer nahi hai. Cervical polyp ka concept alag hai. Is stem ka key finding duct obstruction causes a localized cyst.
-- **D. Ovarian torsion:** Ye option is question ka best answer nahi hai. Ovarian torsion ka concept alag hai. Is stem ka key finding duct obstruction causes a localized cyst.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Bartholin duct cyst:** Bartholin duct ka opening block hota hai, isliye posterior vaginal entrance par painless fluid-filled swelling ban sakti hai.
+- **B. Uterine fibroid:** Fibroid uterus ki muscle mein hota hai, external vestibule mein nahi.
+- **C. Cervical polyp:** Cervical polyp cervix par hota hai aur spotting de sakta hai, posterior vulvar swelling nahi.
+- **D. Ovarian torsion:** Ovarian torsion usually achanak severe pelvic pain aur nausea deta hai, painless vulvar lump nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -41,14 +45,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: B. Bartholin abscess**
 
-**Correct kyun?** Infection produces tenderness, fluctuance and sometimes fever. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Bartholin abscess mein infected fluid ya pus jama hota hai. Isliye intense tenderness, swelling aur kabhi fever hota hai.
 
-- **A. Normal gland:** Ye option is question ka best answer nahi hai. Normal gland ka concept alag hai. Is stem ka key finding infection produces tenderness, fluctuance and sometimes fever.
-- **B. Bartholin abscess:** Infection produces tenderness, fluctuance and sometimes fever. Isliye ye best answer hai.
-- **C. Cervical ectropion:** Ye option is question ka best answer nahi hai. Cervical ectropion ka concept alag hai. Is stem ka key finding infection produces tenderness, fluctuance and sometimes fever.
-- **D. Vulvodynia:** Ye option is question ka best answer nahi hai. Vulvodynia ka concept alag hai. Is stem ka key finding infection produces tenderness, fluctuance and sometimes fever.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Normal gland:** Normal gland usually visible painful fluctuant mass nahi banati.
+- **B. Bartholin abscess:** Bartholin abscess mein infected fluid ya pus jama hota hai. Isliye intense tenderness, swelling aur kabhi fever hota hai.
+- **C. Cervical ectropion:** Cervical ectropion cervix par hota hai aur contact bleeding de sakta hai, external pus swelling nahi.
+- **D. Vulvodynia:** Vulvodynia chronic vulvar pain hai. Localized fever ke saath pus-filled swelling uski typical definition nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -65,14 +73,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: C. Maintain a patent drainage tract**
 
-**Correct kyun?** Catheter permits drainage and tract epithelialization. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Drainage ke baad chhota balloon catheter tract ko khula rakhta hai. Healing ke dauran naya drainage pathway ban sakta hai.
 
-- **A. Induce ovulation:** Ye option is question ka best answer nahi hai. Induce ovulation ka concept alag hai. Is stem ka key finding catheter permits drainage and tract epithelialization.
-- **B. Prevent HPV:** Ye option is question ka best answer nahi hai. Prevent HPV ka concept alag hai. Is stem ka key finding catheter permits drainage and tract epithelialization.
-- **C. Maintain a patent drainage tract:** Catheter permits drainage and tract epithelialization. Isliye ye best answer hai.
-- **D. Remove the ovary:** Ye option is question ka best answer nahi hai. Remove the ovary ka concept alag hai. Is stem ka key finding catheter permits drainage and tract epithelialization.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Induce ovulation:** Word catheter ovary ke hormones ko stimulate nahi karta.
+- **B. Prevent HPV:** Catheter HPV vaccine ya condom ka replacement nahi hai.
+- **C. Maintain a patent drainage tract:** Drainage ke baad chhota balloon catheter tract ko khula rakhta hai. Healing ke dauran naya drainage pathway ban sakta hai.
+- **D. Remove the ovary:** Ovary ko remove karna catheter ka function nahi. Ye local vulvar procedure hai.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -89,14 +101,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: D. Prompt examination and possible biopsy**
 
-**Correct kyun?** Older patients need malignancy exclusion. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Age 40 se upar naya gland-region mass specialist evaluation aur biopsy consideration warrant karta hai. Bartholin carcinoma rare hai, lekin miss nahi karna.
 
-- **A. Routine reassurance:** Ye option is question ka best answer nahi hai. Routine reassurance ka concept alag hai. Is stem ka key finding older patients need malignancy exclusion.
-- **B. Douching:** Ye option is question ka best answer nahi hai. Douching ka concept alag hai. Is stem ka key finding older patients need malignancy exclusion.
-- **C. No assessment:** Ye option is question ka best answer nahi hai. No assessment ka concept alag hai. Is stem ka key finding older patients need malignancy exclusion.
-- **D. Prompt examination and possible biopsy:** Older patients need malignancy exclusion. Isliye ye best answer hai.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Routine reassurance:** 52 saal ki patient mein naya persistent Bartholin mass ko bina examine kiye benign nahi bol sakte.
+- **B. Douching:** Douching se solid ya suspicious lesion diagnose nahi hota aur irritation badh sakti hai.
+- **C. No assessment:** Painless hona cancer ko completely exclude nahi karta.
+- **D. Prompt examination and possible biopsy:** Age 40 se upar naya gland-region mass specialist evaluation aur biopsy consideration warrant karta hai. Bartholin carcinoma rare hai, lekin miss nahi karna.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -113,14 +129,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: A. Observation after assessment**
 
-**Correct kyun?** Asymptomatic uncomplicated cysts may need no intervention. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Small painless cyst mein red flags exclude karne ke baad observation aur warm sitz bath reasonable ho sakte hain.
 
-- **A. Observation after assessment:** Asymptomatic uncomplicated cysts may need no intervention. Isliye ye best answer hai.
-- **B. Routine hysterectomy:** Ye option is question ka best answer nahi hai. Routine hysterectomy ka concept alag hai. Is stem ka key finding asymptomatic uncomplicated cysts may need no intervention.
-- **C. Mandatory chemotherapy:** Ye option is question ka best answer nahi hai. Mandatory chemotherapy ka concept alag hai. Is stem ka key finding asymptomatic uncomplicated cysts may need no intervention.
-- **D. Indefinite antibiotics:** Ye option is question ka best answer nahi hai. Indefinite antibiotics ka concept alag hai. Is stem ka key finding asymptomatic uncomplicated cysts may need no intervention.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Observation after assessment:** Small painless cyst mein red flags exclude karne ke baad observation aur warm sitz bath reasonable ho sakte hain.
+- **B. Routine hysterectomy:** Hysterectomy uterus nikalti hai. Asymptomatic vulvar duct cyst mein iska role nahi.
+- **C. Mandatory chemotherapy:** Chemotherapy benign cyst ka routine treatment nahi.
+- **D. Indefinite antibiotics:** Infection ke evidence bina antibiotics dena generally necessary nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -139,14 +159,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: B. Cellulitis, systemic illness and STI context**
 
-**Correct kyun?** Antibiotic need depends on associated infection and risk. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Cellulitis, fever, systemic illness, immune risk aur suspected STI ke hisaab se clinician antibiotics choose karta hai. Drainable abscess mein drainage bhi important hai.
 
-- **A. Cyst size alone:** Ye option is question ka best answer nahi hai. Cyst size alone ka concept alag hai. Is stem ka key finding antibiotic need depends on associated infection and risk.
-- **B. Cellulitis, systemic illness and STI context:** Antibiotic need depends on associated infection and risk. Isliye ye best answer hai.
-- **C. Patient shoe size:** Ye option is question ka best answer nahi hai. Patient shoe size ka concept alag hai. Is stem ka key finding antibiotic need depends on associated infection and risk.
-- **D. All cases indefinitely:** Ye option is question ka best answer nahi hai. All cases indefinitely ka concept alag hai. Is stem ka key finding antibiotic need depends on associated infection and risk.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Cyst size alone:** Sirf cyst size antibiotics decide nahi karta. Infection ke signs aur risk assess karo.
+- **B. Cellulitis, systemic illness and STI context:** Cellulitis, fever, systemic illness, immune risk aur suspected STI ke hisaab se clinician antibiotics choose karta hai. Drainable abscess mein drainage bhi important hai.
+- **C. Patient shoe size:** Patient ke shoe size ka infection management se koi relation nahi.
+- **D. All cases indefinitely:** Indefinite antibiotics se resistance aur adverse effects ho sakte hain. Treatment clinical indication ke mutabik hota hai.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -163,14 +187,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: C. Lichen sclerosus**
 
-**Correct kyun?** Lichen sclerosus is a chronic vulvar inflammatory dermatosis. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Lichen sclerosus chronic inflammatory skin condition hai. Skin patli white ho sakti hai, itching aur scarring ho sakti hai.
 
-- **A. Appendicitis:** Ye option is question ka best answer nahi hai. Appendicitis ka concept alag hai. Is stem ka key finding lichen sclerosus is a chronic vulvar inflammatory dermatosis.
-- **B. Normal ovulation:** Ye option is question ka best answer nahi hai. Normal ovulation ka concept alag hai. Is stem ka key finding lichen sclerosus is a chronic vulvar inflammatory dermatosis.
-- **C. Lichen sclerosus:** Lichen sclerosus is a chronic vulvar inflammatory dermatosis. Isliye ye best answer hai.
-- **D. Endometrial polyp:** Ye option is question ka best answer nahi hai. Endometrial polyp ka concept alag hai. Is stem ka key finding lichen sclerosus is a chronic vulvar inflammatory dermatosis.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Appendicitis:** Appendicitis right lower abdominal pain de sakta hai, chronic white vulvar plaques nahi.
+- **B. Normal ovulation:** Ovulation normal hormonal process hai, white scar-forming vulvar plaques nahi.
+- **C. Lichen sclerosus:** Lichen sclerosus chronic inflammatory skin condition hai. Skin patli white ho sakti hai, itching aur scarring ho sakti hai.
+- **D. Endometrial polyp:** Endometrial polyp uterus ke andar hota hai, vulvar skin par nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -187,14 +215,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: D. Ultrapotent topical corticosteroid**
 
-**Correct kyun?** Potent topical steroids control inflammation and symptoms. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Clinician-prescribed ultrapotent topical corticosteroid inflammation aur itching control karta hai. Follow-up mein skin response aur proper application check karte hain.
 
-- **A. Routine systemic antibiotics:** Ye option is question ka best answer nahi hai. Routine systemic antibiotics ka concept alag hai. Is stem ka key finding potent topical steroids control inflammation and symptoms.
-- **B. Antiseptic douching:** Ye option is question ka best answer nahi hai. Antiseptic douching ka concept alag hai. Is stem ka key finding potent topical steroids control inflammation and symptoms.
-- **C. Chemotherapy:** Ye option is question ka best answer nahi hai. Chemotherapy ka concept alag hai. Is stem ka key finding potent topical steroids control inflammation and symptoms.
-- **D. Ultrapotent topical corticosteroid:** Potent topical steroids control inflammation and symptoms. Isliye ye best answer hai.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Routine systemic antibiotics:** Systemic antibiotics bacterial infection ke liye hote hain, lichen sclerosus ka routine primary treatment nahi.
+- **B. Antiseptic douching:** Douching sensitive vulvar skin ko aur irritate kar sakti hai.
+- **C. Chemotherapy:** Chemotherapy nonmalignant inflammatory lichen sclerosus ka standard first-line treatment nahi.
+- **D. Ultrapotent topical corticosteroid:** Clinician-prescribed ultrapotent topical corticosteroid inflammation aur itching control karta hai. Follow-up mein skin response aur proper application check karte hain.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -211,14 +243,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: A. Increased vulvar squamous carcinoma risk**
 
-**Correct kyun?** There is a small but meaningful vulvar SCC risk. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Lichen sclerosus mein vulvar squamous cell carcinoma ka chhota lekin increased risk hota hai. Persistent new ulcer ya lesion ko assess karna zaroori hai.
 
-- **A. Increased vulvar squamous carcinoma risk:** There is a small but meaningful vulvar SCC risk. Isliye ye best answer hai.
-- **B. Guaranteed ovarian cancer:** Ye option is question ka best answer nahi hai. Guaranteed ovarian cancer ka concept alag hai. Is stem ka key finding there is a small but meaningful vulvar scc risk.
-- **C. Permanent infertility:** Ye option is question ka best answer nahi hai. Permanent infertility ka concept alag hai. Is stem ka key finding there is a small but meaningful vulvar scc risk.
-- **D. Always causes sepsis:** Ye option is question ka best answer nahi hai. Always causes sepsis ka concept alag hai. Is stem ka key finding there is a small but meaningful vulvar scc risk.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Increased vulvar squamous carcinoma risk:** Lichen sclerosus mein vulvar squamous cell carcinoma ka chhota lekin increased risk hota hai. Persistent new ulcer ya lesion ko assess karna zaroori hai.
+- **B. Guaranteed ovarian cancer:** Ovarian cancer is disease ka inevitable outcome nahi.
+- **C. Permanent infertility:** Lichen sclerosus se permanent infertility automatically nahi hoti.
+- **D. Always causes sepsis:** Sepsis is chronic inflammatory skin disease ka universal outcome nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -235,14 +271,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: B. Vulvovaginal candidiasis**
 
-**Correct kyun?** Candida can cause itch, erythema and discharge. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Candida vulva par itching, erythema aur discharge cause kar sakta hai. Sirf symptoms se diagnosis final nahi hota, recurrent symptoms mein tests useful hain.
 
-- **A. Pulmonary embolism:** Ye option is question ka best answer nahi hai. Pulmonary embolism ka concept alag hai. Is stem ka key finding candida can cause itch, erythema and discharge.
-- **B. Vulvovaginal candidiasis:** Candida can cause itch, erythema and discharge. Isliye ye best answer hai.
-- **C. Uterine rupture:** Ye option is question ka best answer nahi hai. Uterine rupture ka concept alag hai. Is stem ka key finding candida can cause itch, erythema and discharge.
-- **D. Breast abscess:** Ye option is question ka best answer nahi hai. Breast abscess ka concept alag hai. Is stem ka key finding candida can cause itch, erythema and discharge.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Pulmonary embolism:** Pulmonary embolism acute breathlessness aur chest symptoms se concern hota hai, vaginal discharge se nahi.
+- **B. Vulvovaginal candidiasis:** Candida vulva par itching, erythema aur discharge cause kar sakta hai. Sirf symptoms se diagnosis final nahi hota, recurrent symptoms mein tests useful hain.
+- **C. Uterine rupture:** Uterine rupture usually obstetric emergency hai, itching with thick discharge nahi.
+- **D. Breast abscess:** Breast abscess breast mein painful infected swelling hota hai, vulva mein nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -261,14 +301,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: C. Assessment for dermatoses and other causes**
 
-**Correct kyun?** Not all vulvar pruritus is fungal. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
 
-- **A. More empiric courses forever:** Ye option is question ka best answer nahi hai. More empiric courses forever ka concept alag hai. Is stem ka key finding not all vulvar pruritus is fungal.
-- **B. Avoiding examination:** Ye option is question ka best answer nahi hai. Avoiding examination ka concept alag hai. Is stem ka key finding not all vulvar pruritus is fungal.
-- **C. Assessment for dermatoses and other causes:** Not all vulvar pruritus is fungal. Isliye ye best answer hai.
-- **D. Scented sprays:** Ye option is question ka best answer nahi hai. Scented sprays ka concept alag hai. Is stem ka key finding not all vulvar pruritus is fungal.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. More empiric courses forever:** Repeated antifungals bina diagnosis ke dermatitis ya lichen disease ko miss kar sakte hain.
+- **B. Avoiding examination:** Examination avoid karne se persistent lesions aur other infections miss ho sakti hain.
+- **C. Assessment for dermatoses and other causes:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
+- **D. Scented sprays:** Perfumed sprays skin barrier irritate karke symptoms worsen kar sakte hain.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -285,14 +329,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: D. Stopping irritants and gentle care**
 
-**Correct kyun?** Contact irritants damage the vulvar skin barrier. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Perfume aur harsh cleanser band karke gentle unscented care helpful hoti hai. Persistent symptoms mein clinician assessment karo.
 
-- **A. More spray:** Ye option is question ka best answer nahi hai. More spray ka concept alag hai. Is stem ka key finding contact irritants damage the vulvar skin barrier.
-- **B. Scrubbing:** Ye option is question ka best answer nahi hai. Scrubbing ka concept alag hai. Is stem ka key finding contact irritants damage the vulvar skin barrier.
-- **C. Unprescribed antibiotic cream:** Ye option is question ka best answer nahi hai. Unprescribed antibiotic cream ka concept alag hai. Is stem ka key finding contact irritants damage the vulvar skin barrier.
-- **D. Stopping irritants and gentle care:** Contact irritants damage the vulvar skin barrier. Isliye ye best answer hai.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. More spray:** Irritant ko repeat karna contact dermatitis worsen kar sakta hai.
+- **B. Scrubbing:** Scrubbing se skin barrier damage aur burning badh sakti hai.
+- **C. Unprescribed antibiotic cream:** Unprescribed antibiotic-steroid combination correct diagnosis hide kar sakta hai.
+- **D. Stopping irritants and gentle care:** Perfume aur harsh cleanser band karke gentle unscented care helpful hoti hai. Persistent symptoms mein clinician assessment karo.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -309,14 +357,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: A. Persistent ulcer or changing pigmented lesion**
 
-**Correct kyun?** Persistent suspicious lesions require exclusion of neoplasia. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Persistent ulcer ya changing pigmented lesion mein vulvar precancer/cancer ko exclude karne ke liye assessment aur biopsy consideration hoti hai.
 
-- **A. Persistent ulcer or changing pigmented lesion:** Persistent suspicious lesions require exclusion of neoplasia. Isliye ye best answer hai.
-- **B. Transient mild friction:** Ye option is question ka best answer nahi hai. Transient mild friction ka concept alag hai. Is stem ka key finding persistent suspicious lesions require exclusion of neoplasia.
-- **C. Normal labia:** Ye option is question ka best answer nahi hai. Normal labia ka concept alag hai. Is stem ka key finding persistent suspicious lesions require exclusion of neoplasia.
-- **D. Resolved mild irritation:** Ye option is question ka best answer nahi hai. Resolved mild irritation ka concept alag hai. Is stem ka key finding persistent suspicious lesions require exclusion of neoplasia.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Persistent ulcer or changing pigmented lesion:** Persistent ulcer ya changing pigmented lesion mein vulvar precancer/cancer ko exclude karne ke liye assessment aur biopsy consideration hoti hai.
+- **B. Transient mild friction:** Short-lived friction irritation jo resolve ho rahi hai same suspicious pattern nahi.
+- **C. Normal labia:** Normal symmetric labia koi pathological lesion nahi.
+- **D. Resolved mild irritation:** Resolved mild irritation mein persistent lesion jaisa red flag nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -333,14 +385,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: B. Genital herpes**
 
-**Correct kyun?** Herpes often causes grouped painful vesicles or ulcers. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Genital herpes mein painful clustered vesicles phatkar shallow ulcers bana sakte hain. Swab-based testing aur counseling relevant ho sakti hai.
 
-- **A. Uncomplicated gland cyst:** Ye option is question ka best answer nahi hai. Uncomplicated gland cyst ka concept alag hai. Is stem ka key finding herpes often causes grouped painful vesicles or ulcers.
-- **B. Genital herpes:** Herpes often causes grouped painful vesicles or ulcers. Isliye ye best answer hai.
-- **C. Fibroid:** Ye option is question ka best answer nahi hai. Fibroid ka concept alag hai. Is stem ka key finding herpes often causes grouped painful vesicles or ulcers.
-- **D. PCOS:** Ye option is question ka best answer nahi hai. PCOS ka concept alag hai. Is stem ka key finding herpes often causes grouped painful vesicles or ulcers.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Uncomplicated gland cyst:** Uncomplicated Bartholin cyst usually deep unilateral swelling hoti hai, grouped surface vesicles nahi.
+- **B. Genital herpes:** Genital herpes mein painful clustered vesicles phatkar shallow ulcers bana sakte hain. Swab-based testing aur counseling relevant ho sakti hai.
+- **C. Fibroid:** Fibroid uterine wall ki growth hai, vulvar vesicles nahi.
+- **D. PCOS:** PCOS ovulation aur androgen-related syndrome hai, acute vesicles ka direct cause nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -357,14 +413,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: C. Confidential nonjudgmental assessment and testing**
 
-**Correct kyun?** Respectful STI evaluation improves diagnosis and care. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
 
-- **A. Judgmental questioning:** Ye option is question ka best answer nahi hai. Judgmental questioning ka concept alag hai. Is stem ka key finding respectful sti evaluation improves diagnosis and care.
-- **B. No testing:** Ye option is question ka best answer nahi hai. No testing ka concept alag hai. Is stem ka key finding respectful sti evaluation improves diagnosis and care.
-- **C. Confidential nonjudgmental assessment and testing:** Respectful STI evaluation improves diagnosis and care. Isliye ye best answer hai.
-- **D. Automatic surgery:** Ye option is question ka best answer nahi hai. Automatic surgery ka concept alag hai. Is stem ka key finding respectful sti evaluation improves diagnosis and care.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Judgmental questioning:** Judgmental questioning patient ko history share karne se rok sakti hai.
+- **B. No testing:** Ulcers ke causes herpes, syphilis aur noninfectious disease bhi ho sakte hain. Bina assessment diagnosis assume nahi karo.
+- **C. Confidential nonjudgmental assessment and testing:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
+- **D. Automatic surgery:** Har vulvar ulcer mein automatic surgery zaroori nahi. Cause-specific treatment choose hota hai.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -383,14 +443,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: D. 4 and 8 o'clock in posterior vestibule**
 
-**Correct kyun?** Bartholin ducts open posterolaterally. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Bartholin ducts vaginal opening ke posterior-lateral vestibule mein approximately 4 aur 8 o'clock positions par open hote hain.
 
-- **A. Clitoris:** Ye option is question ka best answer nahi hai. Clitoris ka concept alag hai. Is stem ka key finding bartholin ducts open posterolaterally.
-- **B. Uterine fundus:** Ye option is question ka best answer nahi hai. Uterine fundus ka concept alag hai. Is stem ka key finding bartholin ducts open posterolaterally.
-- **C. Urethral meatus:** Ye option is question ka best answer nahi hai. Urethral meatus ka concept alag hai. Is stem ka key finding bartholin ducts open posterolaterally.
-- **D. 4 and 8 o'clock in posterior vestibule:** Bartholin ducts open posterolaterally. Isliye ye best answer hai.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Clitoris:** Clitoris anterior structure hai. Bartholin ducts wahan open nahi hote.
+- **B. Uterine fundus:** Uterine fundus uterus ka upper portion hai, vulvar duct nahi.
+- **C. Urethral meatus:** Urethral meatus urine exit ka opening hai, Bartholin gland ka nahi.
+- **D. 4 and 8 o'clock in posterior vestibule:** Bartholin ducts vaginal opening ke posterior-lateral vestibule mein approximately 4 aur 8 o'clock positions par open hote hain.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -407,14 +471,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: A. Marsupialization**
 
-**Correct kyun?** Marsupialization creates a persistent drainage opening. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Marsupialization cyst wall ke edges stitch karke open drainage passage banata hai. Recurrent symptomatic cyst mein option ho sakta hai.
 
-- **A. Marsupialization:** Marsupialization creates a persistent drainage opening. Isliye ye best answer hai.
-- **B. Hysterectomy:** Ye option is question ka best answer nahi hai. Hysterectomy ka concept alag hai. Is stem ka key finding marsupialization creates a persistent drainage opening.
-- **C. Oophorectomy:** Ye option is question ka best answer nahi hai. Oophorectomy ka concept alag hai. Is stem ka key finding marsupialization creates a persistent drainage opening.
-- **D. Cervical cerclage:** Ye option is question ka best answer nahi hai. Cervical cerclage ka concept alag hai. Is stem ka key finding marsupialization creates a persistent drainage opening.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Marsupialization:** Marsupialization cyst wall ke edges stitch karke open drainage passage banata hai. Recurrent symptomatic cyst mein option ho sakta hai.
+- **B. Hysterectomy:** Hysterectomy uterus remove karti hai, recurrent gland cyst ka first-line treatment nahi.
+- **C. Oophorectomy:** Oophorectomy ovaries remove karti hai, gland cyst ke liye indicated nahi.
+- **D. Cervical cerclage:** Cervical cerclage pregnancy mein cervical support ke liye hai.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -431,14 +499,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: B. Fever and spreading erythema**
 
-**Correct kyun?** Worsening infection signs need prompt reassessment. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Fever, worsening pain aur spreading erythema recurrent infection ya cellulitis ke red flags hain. Urgent clinical review chahiye.
 
-- **A. Improving tenderness:** Ye option is question ka best answer nahi hai. Improving tenderness ka concept alag hai. Is stem ka key finding worsening infection signs need prompt reassessment.
-- **B. Fever and spreading erythema:** Worsening infection signs need prompt reassessment. Isliye ye best answer hai.
-- **C. Decreasing swelling:** Ye option is question ka best answer nahi hai. Decreasing swelling ka concept alag hai. Is stem ka key finding worsening infection signs need prompt reassessment.
-- **D. Mild expected drainage:** Ye option is question ka best answer nahi hai. Mild expected drainage ka concept alag hai. Is stem ka key finding worsening infection signs need prompt reassessment.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Improving tenderness:** Mild tenderness jo roz kam ho rahi hai recovery mein expected ho sakti hai.
+- **B. Fever and spreading erythema:** Fever, worsening pain aur spreading erythema recurrent infection ya cellulitis ke red flags hain. Urgent clinical review chahiye.
+- **C. Decreasing swelling:** Small expected drainage after procedure possible hai. Amount aur smell monitor karo.
+- **D. Mild expected drainage:** Gradually reducing swelling healing ke favour mein hai, deterioration nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [MSD Bartholin gland cyst/abscess](https://www.msdmanuals.com/home/women-s-health-issues/miscellaneous-gynecologic-abnormalities/bartholin-gland-cyst-and-bartholin-gland-abscess) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -455,14 +527,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: C. Vulvodynia**
 
-**Correct kyun?** Vulvodynia is persistent vulvar pain after appropriate evaluation. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Vulvodynia kam se kam 3 mahine ka vulvar pain hai jiska clear identifiable cause evaluation ke baad nahi milta.
 
-- **A. Amenorrhea:** Ye option is question ka best answer nahi hai. Amenorrhea ka concept alag hai. Is stem ka key finding vulvodynia is persistent vulvar pain after appropriate evaluation.
-- **B. Mastitis:** Ye option is question ka best answer nahi hai. Mastitis ka concept alag hai. Is stem ka key finding vulvodynia is persistent vulvar pain after appropriate evaluation.
-- **C. Vulvodynia:** Vulvodynia is persistent vulvar pain after appropriate evaluation. Isliye ye best answer hai.
-- **D. Ovarian torsion:** Ye option is question ka best answer nahi hai. Ovarian torsion ka concept alag hai. Is stem ka key finding vulvodynia is persistent vulvar pain after appropriate evaluation.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Amenorrhea:** Amenorrhea menstrual periods absent hone ko kehte hain, chronic vulvar pain ko nahi.
+- **B. Mastitis:** Mastitis breast tissue infection/inflammation hai, vulvar pain syndrome nahi.
+- **C. Vulvodynia:** Vulvodynia kam se kam 3 mahine ka vulvar pain hai jiska clear identifiable cause evaluation ke baad nahi milta.
+- **D. Ovarian torsion:** Ovarian torsion sudden severe pelvic pain hota hai, chronic unexplained vulvar burning ki definition nahi.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Persistent Vulvar Pain](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2016/09/persistent-vulvar-pain) · **Question-specific video:** Not yet verified.
 
 </details>
 
@@ -479,14 +555,18 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 **Correct: D. Validate symptoms and arrange individualized multidisciplinary care**
 
-**Correct kyun?** Patient-centered assessment and support are essential. Is clinical clue ko patient ke symptoms aur examination ke saath connect karna zaroori hai.
+**Why this is correct:** Pain ko validate karo, skin/infection/neuropathic causes assess karo aur gynecology, pelvic physiotherapy ya pain support coordinate karo.
 
-- **A. Dismiss the complaint:** Ye option is question ka best answer nahi hai. Dismiss the complaint ka concept alag hai. Is stem ka key finding patient-centered assessment and support are essential.
-- **B. Assume infection:** Ye option is question ka best answer nahi hai. Assume infection ka concept alag hai. Is stem ka key finding patient-centered assessment and support are essential.
-- **C. Avoid discussing sexuality:** Ye option is question ka best answer nahi hai. Avoid discussing sexuality ka concept alag hai. Is stem ka key finding patient-centered assessment and support are essential.
-- **D. Validate symptoms and arrange individualized multidisciplinary care:** Patient-centered assessment and support are essential. Isliye ye best answer hai.
+**Har option ka clinical reason:**
 
-**Nursing responsibility:** Symptoms, infection red flags, privacy aur timely referral assess karo.
+- **A. Dismiss the complaint:** Pain ko dismiss karne se distress aur diagnostic delay hota hai.
+- **B. Assume infection:** Inability to have intercourse sab patients mein permanent nahi hoti. Individual counseling chahiye.
+- **C. Avoid discussing sexuality:** Infection evidence bina antibiotic dena appropriate nahi.
+- **D. Validate symptoms and arrange individualized multidisciplinary care:** Pain ko validate karo, skin/infection/neuropathic causes assess karo aur gynecology, pelvic physiotherapy ya pain support coordinate karo.
+
+**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+
+**Medical evidence:** [ACOG Persistent Vulvar Pain](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2016/09/persistent-vulvar-pain) · **Question-specific video:** Not yet verified.
 
 </details>
 
