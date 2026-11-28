@@ -1,0 +1,24 @@
+# Thermal management candidate evidence
+
+20 original questions and 80 option rationales. Direct NCBI-hosted NICE CG65 full recommendations, lines 60–279 and background 308–310, retrieved. Scope adult inadvertent perioperative hypothermia; not malignant hyperthermia or pediatric universal rules. Existing PACU Q5 concerns active warming at 35.4°C; this bank targets mechanism, measurement, preoperative and intraoperative prevention, transfer criteria, ward monitoring and quality assessment. Dedicated video, cross-bank semantic and independent clinical review pending.
+
+- Q1: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — During the first 30 minutes after induction of general anesthesia, core temperature falls while peripheral skin warms. Which mechanism best explains this early change?
+- Q2: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Which measurement site is suitable for estimating core temperature during appropriately managed general anesthesia?
+- Q3: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — An adult surgical patient has peripheral axillary temperature 35.5°C but a validated central measurement reads 36.4°C. Which interpretation is appropriate?
+- Q4: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Under NICE CG65, an adult undergoing planned major abdominal surgery has ASA grade III and normal preoperative temperature. How should the risk category be interpreted?
+- Q5: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A stable elective adult is on the ward with temperature 36.7°C. According to the NICE adult perioperative pathway, when should planned active prewarming start?
+- Q6: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A patient with uncontrolled hemorrhage needs immediate life-saving surgery and has a core temperature of 35.6°C. Which principle is consistent with NICE CG65?
+- Q7: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A patient receiving active warming is transferred from the ward to theatre. Which handoff preserves thermal care continuity?
+- Q8: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Under the cited NICE pathway, a patient is exposed for surgical preparation before active warming is established. What ambient theatre temperature is recommended during this exposure?
+- Q9: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — During a lengthy abdominal procedure, the nonoperative legs remain uncovered despite available compatible covers. Which action best reduces avoidable heat loss?
+- Q10: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — An adult under general anesthesia receives a planned 800 mL crystalloid infusion. Which fluid-warming target is specified in NICE CG65 for intraoperative IV fluids of this volume?
+- Q11: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Which intraoperative irrigation-fluid warming range is specified in NICE CG65 for adults?
+- Q12: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — An adult has combined general and regional anesthesia for an intermediate operation expected to last 25 minutes. Which intraoperative warming decision matches the cited NICE risk-based approach?
+- Q13: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Forced-air warming is unsuitable for a specific adult operation because the required arrangement conflicts with operative access. Which alternative does NICE suggest considering?
+- Q14: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — An adult receiving forced-air warming has a stable temperature trend reaching 37.4°C. Which monitoring principle remains appropriate?
+- Q15: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Under NICE CG65, after the pre-induction temperature measurement in an adult having surgery, what is the usual intraoperative documentation interval?
+- Q16: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — Which statement distinguishes active warming from passive insulation?
+- Q17: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A patient with cognitive impairment cannot reliably communicate feeling cold before surgery. Which nursing approach addresses this risk?
+- Q18: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — In recovery, a patient has normal consciousness and acceptable oxygenation but a core temperature of 35.9°C. Under NICE CG65, which disposition issue remains unresolved?
+- Q19: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A postoperative adult on the ward has fallen below 36°C and is receiving active warming. What minimum reassessment frequency is specified in the cited NICE guideline during warming?
+- Q20: [CG65](https://www.ncbi.nlm.nih.gov/books/NBK554181/) — A perioperative quality audit records whether a warming blanket was ordered but not whether it was used. Which additional measure best assesses the intervention's delivery?

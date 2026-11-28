@@ -1,0 +1,24 @@
+# Postoperative bowel candidate evidence
+
+20 new originals and 80 individual Roman Hinglish rationales. NCBI ileus and postoperative ileus texts and OpenStax ward care directly retrieved. ASCRS/SAGES guideline indexed, 2025 ERAS recommendations also indexed, full independent review pending. Leak survey is supporting practice evidence, not a diagnostic cutoff or definitive guideline. No authenticated PYQs or exact videos. Cross-chapter semantic review with GI owner remains a release gate.
+
+- Q1: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — Which process defines postoperative paralytic ileus?
+- Q2: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — Which postoperative medication group can contribute to delayed intestinal motility through its pharmacologic action?
+- Q3: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A postoperative patient with persistent ileus has serum potassium 2.9 mmol/L. Which interpretation is most relevant to the nursing care plan?
+- Q4: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A CT report describes a discrete bowel transition point with proximal dilation and distal collapse in a patient with postoperative abdominal distension. Which interpretation should the nurse communicate?
+- Q5: [D](https://www.ncbi.nlm.nih.gov/sites/books/NBK558937/) — A patient passed flatus and tolerated diet after abdominal surgery but subsequently develops abrupt colicky abdominal pain and vomiting. What should the nurse prioritize?
+- Q6: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A patient has mild postoperative abdominal distension and reduced bowel sounds. Why should the nurse avoid using auscultation alone to establish the cause?
+- Q7: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A patient being treated conservatively for presumed ileus develops new rebound tenderness and worsening systemic signs. What is the best response?
+- Q8: [R](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839829/) — A stable patient follows an enhanced-recovery pathway after elective colorectal surgery. Which feeding approach is generally supported when the surgical team confirms suitability?
+- Q9: [R](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839829/) — A stable colorectal surgery patient asks why routine nasogastric drainage has not been prescribed. Which explanation is best?
+- Q10: [R](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839829/) — What is the proposed physiologic rationale for chewing gum as an adjunct in selected postoperative colorectal recovery pathways?
+- Q11: [R](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839829/) — A postoperative patient has adequate rest pain control but receives large opioid doses and has delayed gut recovery. Which interprofessional strategy is appropriate?
+- Q12: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — An immobile postoperative patient with uncomplicated ileus has been cleared by the team for assisted activity. Which rationale supports mobilization?
+- Q13: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A patient with prolonged postoperative ileus cannot tolerate the prescribed diet for several days. Which additional planning is most important?
+- Q14: [I](https://www.ncbi.nlm.nih.gov/sites/books/NBK560780/) — A patient with ordered nasogastric decompression for severe postoperative distension reports that nausea has improved. Which conclusion is appropriate?
+- Q15: [L](https://pmc.ncbi.nlm.nih.gov/articles/PMC12282568/) — On postoperative day 4 after colorectal anastomosis, a patient develops persistent tachycardia, fever and increasing abdominal pain. Which concern deserves urgent surgical assessment?
+- Q16: [L](https://pmc.ncbi.nlm.nih.gov/articles/PMC12282568/) — A patient with a new colorectal anastomosis has a rising C-reactive protein trend but no definitive diagnosis. How should the nurse interpret this result?
+- Q17: [L](https://pmc.ncbi.nlm.nih.gov/articles/PMC12282568/) — A patient with suspected anastomotic leakage has a functioning diverting ileostomy. Which statement is safest?
+- Q18: [O](https://openstax.org/books/medical-surgical-nursing/pages/27-3-hospitalized-postoperative-patient) — A patient tolerates small oral amounts after surgery but has persistent abdominal bloating. What should the nurse document to support evaluation of bowel recovery?
+- Q19: [D](https://www.ncbi.nlm.nih.gov/sites/books/NBK558937/) — A patient with new postoperative vomiting and abdominal distension has not yet undergone assessment for obstruction. Which nursing action best supports safety while awaiting urgent review?
+- Q20: [R](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839829/) — An enhanced-recovery audit reports a high rate of early meal delivery but many patients did not consume the meals because of nausea. Which measure should be added?
