@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: CLAIMED
-Owner: gyne-f8-f12-audit-20261128
-Scope: Fistula Q8 and Q12 clinical corrections, chapter-local 40-item audit only, no shared README
-Claimed UTC: 2026-11-28T09:10:00Z
-Expiry UTC: 2026-11-28T09:40:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
@@ -38,3 +38,8 @@ Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation
 - Read both complete skills in bounded chunks, AGENTS, copilot and audit learnings. F16 revised from generic empathy to patient-consented safe reintegration and peer/social-worker support using WHO fistula guidance. Fistula file commit 1c15148d61fb6b87ee011d758b535ac2621d7b22, exact readback 20 questions and 20 hidden answer blocks.
 - All 40 target questions checked for four English options, correct answer letter and four labeled option rationales. Audit matrix commit bf044c1fb052a725cf9fdecc7de9bf1f4cfb6bee, 40/40 structural checks passed, exact remote readback. This is not a full independent clinical certification. CDC CAUTI, WHO fistula catheterization, WHO social reintegration and CDC genital ulcer references retrieved. Remaining individual source URLs and videos not all verified.
 - README unchanged because fully certified unique allocation unavailable. 564 allocated original slots + 20 Vulvar unallocated + 20 Fistula unallocated + 19 menstrual revision = 623 physical slots. No mocks. Next: deeper all-160 rationale clinical audit and question-level evidence, then safe README allocation.
+
+## 28 November 2026 — F8/F12 clinical correction checkpoint
+- Re-read root and canonical SKILL.md in bounded chunks, AGENTS and relevant claim state. Medical evidence independently retrieved from WHO, CDC, NIDDK, Wounds International and NHS. All remaining medical URLs and all 160 explanations were NOT fully certified.
+- F8 and F12 replaced with distinct clinical scenarios, eight detailed distractor rationales, verified Fistula file commit 7f52c353fd66fa3d994e67c61395cdf350b40b69, 20 question headings and 20 hidden answers exact readback.
+- 40-question audit addendum published commit 6c6ea6c16a9a36a6a0269ac4a935157159a56200, exact remote readback. Full all-bank uniqueness and all 160 rationales still pending. Shared README not claimed or modified, no new allocated unique questions. Baseline 564 allocated + 20 Vulvar + 20 Fistula + 19 overlapping menstrual revision = 623 physical slots. No mocks.
