@@ -1,5 +1,17 @@
 # Musculoskeletal System manual chapter claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-eight-pairs-20261128T1227Z at verified checkpoint 61bda03143541718363b201dffb8e21421214c98. Eight related gait pairs replaced in commit 4dcd113225edeb4e308ba85044da9300559d4d6e. All twelve identified PR46/48 pairs allocated, earlier Q01/Q07/Q14/Q20 preserved, all 478 originals/1912 rationales retained, 4 Easy/4 Medium replacements. Exact readbacks passed. No live credit; independent clinical/semantic, curriculum, video, navigation and current-head CI gates remain. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
 State: CLAIMED
 Owner: integration-pr46-eight-pairs-20261128T1227Z
 Scope: isolated PR46 03E Q02/Q04/Q05/Q06/Q08/Q09/Q11/Q15 replacements and checkpoint; retain all earlier corrected blocks and PR48; no main clinical content or shared navigation.
