@@ -55,6 +55,7 @@ function quickItems(d,p,items,mode,day=localDay()){
  for(const q of items){const x=seen[practiceKey(q)];if(x&&x.due<=day)due.push(q);else if(!x)fresh.push(q);else later.push(q)}
  return (mode==='review'?due:[...due,...fresh,...later]).slice(0,5);
 }
+function currentRevisionCount(record,d,day=localDay()){const saved=d.banks[record.path]?.questions||{};return Array.isArray(record.questionKeys)?[...new Set(record.questionKeys)].filter(k=>saved[k]?.due&&saved[k].due<=day).length:bankProgress(d,record.path,day).due}
 function topicLabel(p){const s=bankProgress(loadRoutine(),p);if(!s.checked)return '';return s.due?s.due+' due for revision':s.checked+' / '+s.total+' practised'}
 function studyLabel(p){const label=topicLabel(p);if(!label)return null;return node('span',label,'personal-topic-label')}
 function drawRoutine(data){
@@ -71,14 +72,14 @@ function drawRoutine(data){
  const records=(data?.chapters||[]).flatMap(c=>c.records).filter(f=>f.scoreable>0&&!data.resources?.[f.path]?.draft);
  const allowed=new Map(records.map(f=>[f.path,f]));const recent=getRecent().find(x=>allowed.has(x.path)&&allowed.get(x.path).category!=='mock');
  const unfinished=f=>f.category!=='mock'&&(!marks[f.path]||marks[f.path].mode==='pending')&&(!f.questionKeys?.length||f.questionKeys.some(k=>!Object.hasOwn(d.banks[f.path]?.questions||{},k)));const recentBank=recent&&allowed.get(recent.path);const next=(recentBank&&unfinished(recentBank)?recentBank.path:null)||records.find(f=>f.path.includes('/Nursing-Foundations/MCQs/')&&unfinished(f))?.path||records.find(unfinished)?.path||recent?.path||records[0]?.path;
- const due=Object.keys(d.banks).filter(p=>allowed.has(p)&&bankProgress(d,p).due).sort((a,b)=>bankProgress(d,b).due-bankProgress(d,a).due);
+ const due=records.map(f=>({path:f.path,n:currentRevisionCount(f,d,today)})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n);
  const actions=node('div',undefined,'daily-actions');
  const partial=records.find(f=>f.path===recent?.path&&f.questionKeys?.some(k=>Object.hasOwn(d.banks[f.path]?.questions||{},k))&&f.questionKeys.some(k=>!Object.hasOwn(d.banks[f.path]?.questions||{},k)));
  if(partial){const remaining=partial.questionKeys.filter(k=>!Object.hasOwn(d.banks[partial.path]?.questions||{},k)).length,card=node('a',undefined,'daily-action');card.href=route(partial.path)+'&session=remaining';card.append(node('strong','Continue where you stopped'),node('span',knownTitle(partial.path)),node('small',remaining+' questions left →'));actions.append(card)}
  if(next){const card=node('a',undefined,'daily-action primary-daily');card.href=route(next)+'&session=quick';card.append(node('strong','Quick 5-question practice'),node('span',knownTitle(next)),node('small','No timer · See explanations →'));actions.append(card)}
- if(due.length){const p=due[0],card=node('a',undefined,'daily-action');card.href=route(p)+'&session=review';card.append(node('strong','Revise questions due'),node('span',knownTitle(p)),node('small',due.reduce((n,p)=>n+bankProgress(d,p).due,0)+' due across '+due.length+' banks →'));actions.append(card)}
+ if(due.length){const p=due[0].path,card=node('a',undefined,'daily-action');card.href=route(p)+'&session=review';card.append(node('strong','Revise questions due'),node('span',knownTitle(p)),node('small',due.reduce((n,x)=>n+x.n,0)+' questions ready to revise across '+due.length+' topics →'));actions.append(card)}
  else{const card=node('a',undefined,'daily-action');card.href='#bookmarks';card.append(node('strong','Review saved questions'),node('span','Revisit your bookmarks'),node('small','No questions need revision today'));actions.append(card)}
  const mistakes=records.map(f=>({f,n:(f.questionKeys||[]).filter(k=>d.banks[f.path]?.questions?.[k]?.right===false).length})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n);if(mistakes.length){const card=node('a',undefined,'daily-action mistakes-action');card.href=route(mistakes[0].f.path)+'&session=mistakes';card.append(node('strong','Learn from your mistakes'),node('span',knownTitle(mistakes[0].f.path)),node('small',mistakes[0].n+' questions to try again →'));actions.append(card)}
  const progressLink=node('a','View my chapter and topic progress →','daily-progress-link');progressLink.href='./?progress=1';panel.append(actions,progressLink,node('p','Today’s goal includes questions answered here and questions you mark done. We do not add the same bank twice. Undoing or resetting a mark removes its manual credit; actual answer history stays. Progress is saved on this browser.','daily-note'));
 }
-if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey,missedItems,dailyStudyStats,dailyGoalFeedback,DAILY_MCQ_GOAL,loadRoutine,saveRoutine};
+if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey,missedItems,dailyStudyStats,dailyGoalFeedback,DAILY_MCQ_GOAL,loadRoutine,saveRoutine,currentRevisionCount};
