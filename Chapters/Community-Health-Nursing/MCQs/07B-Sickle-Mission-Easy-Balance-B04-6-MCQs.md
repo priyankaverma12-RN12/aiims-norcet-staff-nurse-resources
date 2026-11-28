@@ -115,25 +115,25 @@
 
 </details>
 
-### Q6. During school-based awareness, which term identifies a CHO working at the community primary-care level?
+### Q6. Which community mechanism specifically brings patients with sickle cell disease and caregivers together to support treatment adherence?
 
 **Difficulty:** Easy | **Priority:** Medium | **Topic:** Sickle cell mission | **Type:** Original practice
 
-- **A.** Central Hospital Owner
-- **B.** Clinical Histology Operator
-- **C.** Community Housing Officer
-- **D.** Community Health Officer
+- **A.** Hospital procurement committees
+- **B.** Food safety inspection teams
+- **C.** School examination boards
+- **D.** Patient support groups
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Community Health Officer**
+**Correct: D. Patient support groups**
 
-- **A.** Central Hospital Owner recognised CHO expansion nahi hai.
-- **B.** Histology operator tissue laboratory work se related term ho sakta hai, programme CHO nahi.
-- **C.** Housing officer health programme CHO ka designation nahi hai.
-- **D.** CHO Community Health Officer hai jo primary care outreach aur programme activities mein role play karta hai.
+- **A.** Procurement committee facility supplies manage karti hai, patient peer support nahi.
+- **B.** Food inspection teams food regulation se related hain.
+- **C.** Examination board academic assessment manage karta hai.
+- **D.** Patient support groups patients aur caregivers ko connect karke regular care aur treatment adherence support karte hain.
 
-**Exam clue:** CHO supports community-level screening and awareness.
+**Exam clue:** Patient support groups include caregivers.
 
 </details>
 
