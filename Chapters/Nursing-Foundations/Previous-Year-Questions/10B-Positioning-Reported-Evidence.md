@@ -39,3 +39,22 @@ Combined validation: 48 distinct normalized stems, 192 options, 192 individual r
 ## Next checkpoint
 
 48 of 100 staged, 52 remaining (10C 26, 10D 26). A and B allocation each reaches 30 provisional slots when respective legacy IDs are reserved once and safe publication is verified. PR48 remains draft pending review, CI and PR8 handoff comment 7235956981. Existing main inventory unchanged. Renal candidate advanced independently to 3e7ab3b509c8522f5e699cf90f60542cdf3603b1, Q10 blob f2ac59bf2ee48b0af2e411ee0e638b8ba296c0aa now tests formulation usability. Do not reapply earlier replacement or count it as live. All other scopes and schedules preserved. Both skills, AGENTS, Copilot and audit log retrieved; applicable rules and claim headers reviewed, fresh exhaustive bounded reread not certified. Continue from existing PR48, not a new duplicate branch.
+
+
+## Corrective review continuation — 28 November 2026, PR48
+
+All 22 question blocks and 88 rationales reviewed from 87bb1d6bb2f3af57b7c355041a108ed3a6da34b0. Ten blocks changed at 3825f8441760a6eb0c5ccd25c237eef8c58060ee, exact blob 024701750e433481353ae720fae5416f1fe28eaa. Twelve unchanged, all stems and correct keys preserved. No new count. AI review, not external clinical certification.
+
+| Question(s) | Review outcome |
+|---|---|
+| Q01 | Angle arithmetic 35−20=15 degrees confirmed. Further difficulty calibration pending. |
+| Q02–06 | R10 low-certainty conditional guidance and R11 aspiration exception verified. Q02 patient-specific tilt and Q05 support deformation remain separate mechanical tasks. Q05 distractors rewritten to plausible friction, moisture and focal cushioning alternatives. Q03 comfort-focused shifts and Q06 upper-leg support retained. |
+| Q07–08 | Neutral head alignment and supported knee flexion reviewed. Keys retained. |
+| Q09–12 | ASA text and StatPearls positioning corroborate prior available joint range, supine abduction, tucked forearm neutral position and thoracic roll beneath axilla. Q09–11 specific source lines updated. |
+| Q13–16 | Ear and eye pressure, prone abdomen clearance and coordinated lithotomy lowering reviewed. Q14 explanation strengthened to distinguish retinal artery occlusion risk from other visual-loss mechanisms. |
+| Q17 | Common fibular nerve answer retained, upper limb distractors replaced with anatomically relevant lower limb nerves and explanations. |
+| Q18 | Head-down edema airway risk retained, competing positioning effects made more plausible. |
+| Q19 | Heel boot and added knee pillow exact implementation warning verified, rationale includes floating heel check. |
+| Q20–22 | Individual footrest support, cushion placement and self-repositioning reviewed. Q20 and Q21 distinguish lower-limb geometry from displacement of prescribed cushion. |
+
+Direct text: [International Guideline repositioning](https://www.internationalguideline.com/repositioning), [heels](https://www.internationalguideline.com/heels), [seating](https://www.internationalguideline.com/seating), [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK513320/). ASA official 2018 peripheral neuropathy PDF retrieved as text, screenshot failed with cache miss. 2019 perioperative visual loss advisory indexed evidence, direct PMC CAPTCHA. No full PDF visual certification claimed for these. Dedicated video mapping still pending. 12 Medium, 10 Difficult unchanged. Full clinical and semantic clearance still pending.
