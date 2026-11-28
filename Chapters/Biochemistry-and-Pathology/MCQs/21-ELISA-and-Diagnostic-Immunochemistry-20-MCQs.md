@@ -32,7 +32,7 @@
 
 ### Q2. In a direct ELISA designed to detect an immobilized antigen, which reagent provides antigen recognition and the reporting label in a single molecule?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Unlabelled primary antibody alone
 - **B.** Enzyme-labelled anti-species secondary antibody alone
@@ -104,7 +104,7 @@
 
 ### Q5. In a competitive ELISA, sample antigen competes with a fixed amount of labelled antigen for limited antibody sites. The signal measures bound labelled antigen. What is the expected signal direction as sample antigen increases?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** The signal increases in direct proportion to sample antigen
 - **B.** The signal remains unchanged at every analyte concentration
@@ -130,7 +130,7 @@
 
 ### Q6. After coating an ELISA well with capture antibody, a protein blocking solution is added. Which problem is this step intended to reduce?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Nonspecific adsorption to unoccupied plate surfaces
 - **B.** Specific target binding to the capture antibody
@@ -154,7 +154,7 @@
 
 ### Q7. During a sandwich ELISA run, a washer malfunction leaves excess unbound enzyme-labelled detection reagent in wells. What effect is particularly likely?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Selective loss of all captured antigen with no background change
 - **B.** A uniformly reduced signal because more reporter remains in the well
@@ -178,7 +178,7 @@
 
 ### Q8. A horseradish peroxidase-labelled ELISA uses TMB substrate. What is the primary purpose of the enzyme-substrate step?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** To increase the concentration of patient antigen through synthesis
 - **B.** To convert molecular binding into a measurable color signal
@@ -202,7 +202,7 @@
 
 ### Q9. In an endpoint ELISA protocol, the stop reagent is added at the specified time. Why is consistent timing across wells important?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** The enzymatic color reaction depends on reaction duration
 - **B.** The stop reagent establishes a different patient identity for each well
@@ -276,7 +276,7 @@
 
 ### Q12. A quantitative sandwich ELISA yields a patient signal above the highest validated calibrator. Which approach is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Extrapolate the curve indefinitely as a straight line
 - **B.** Report the highest calibrator value as the exact patient concentration
@@ -300,7 +300,7 @@
 
 ### Q13. A serum specimen is diluted one part sample plus four parts validated diluent. The diluted ELISA result is 18 ng/mL. Assuming acceptable dilution recovery and no other correction, what is the original concentration?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** 72 ng/mL
 - **B.** 3.6 ng/mL
@@ -348,7 +348,7 @@
 
 ### Q15. Two replicate wells loaded from the same serum dilution give substantially different absorbances, beyond the assay's predefined replicate tolerance. What is the most appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Always report the higher value because it is more sensitive
 - **B.** Always report the lower value to avoid false positives
@@ -374,7 +374,7 @@
 
 ### Q16. A qualitative ELISA result falls within the manufacturer's specified equivocal zone around the cutoff. What is the appropriate reporting principle?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Follow the assay-specific equivocal and repeat-testing algorithm
 - **B.** Round the signal upward and report a definite positive
@@ -398,7 +398,7 @@
 
 ### Q17. A quantitative ELISA manufacturer specifies an analytical blank containing all signal reagents but no analyte. What does the blank primarily estimate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** The highest measurable analyte concentration
 - **B.** Background signal not attributable to the intended analyte
@@ -422,7 +422,7 @@
 
 ### Q18. A new batch of ELISA reagent is received for routine clinical testing. Which verification is especially relevant before switching from the previous lot?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Diagnostic immunochemistry | **Exam focus:** NORCET-style original
 
 - **A.** Compare acceptable control and representative sample performance under the laboratory's lot-verification procedure
 - **B.** Assume the new lot is equivalent solely because the kit name is unchanged
@@ -497,3 +497,5 @@
 Direct NCBI ELISA text retrieved for methods and quality control. Immunoassay interference review indexed, full text unavailable. Do not use the ELISA article's outdated universal HIV Western blot confirmation statement as a current clinical testing algorithm. Dedicated video item mapping and independent clinical review remain pending. No PYQ credit.
 
 - Q19–20 replaced before integration to emphasize assay cross-reactivity and spike recovery instead of general antigen/antibody differentiation and diagnostic sensitivity/specificity statistics. No added count.
+
+Second-pass author calibration: Easy labels identify recall or direct interpretation, Medium labels identify straightforward applications, and Difficult labels identify multi-step interpretation or specialist assay mechanisms. These editorial labels have not been independently calibrated against learner response data.
