@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.4","app.js":"12.4","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.5","app.js":"12.5","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -69,7 +69,11 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        expect(page.locator("#library .library-toolbar h2")).to_have_text("Chapters")
+        expect(page.locator("#library")).to_be_hidden()
+        expect(page.locator("#home #library")).to_have_count(0)
+        expect(page.locator("#chapters .chapter")).to_have_count(0)
+        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+            expect(page.locator(panel_id)).to_have_attribute("open","")
         expect(page.locator(".daily-help")).to_have_count(0)
         for filename,version in asset_versions.items():
             assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet],link[rel=icon]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
@@ -82,8 +86,7 @@ with sync_playwright() as p:
         expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
         expect(page.locator(".daily-goal-select select")).to_have_count(0)
         expect(page.locator("#home-link")).to_have_attribute("aria-current","page")
-        expect(page.locator("#library-overview")).not_to_have_attribute("open","")
-        page.locator("#library-overview>summary").click()
+        expect(page.locator("#library-overview")).to_have_attribute("open","")
         assert page.locator(".stats").bounding_box()["height"]<=(255 if width<600 else 110)
         assert page.locator(".hero").bounding_box()["height"]<=(300 if width<600 else 240)
         assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
@@ -93,10 +96,19 @@ with sync_playwright() as p:
         page.locator(".daily-week-details>summary").click()
         print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
+        page.locator("#library-link").click()
+        expect(page.locator("#library .library-toolbar h1")).to_have_text("Chapters")
+        expect(page.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
+        assert "?library=1" in page.url
+        page.goto(base+"?build="+commit+"#library")
+        expect(page.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        assert "library=1" in page.url and not page.url.endswith("#library")
+        print(f"V12.5 live dedicated Library and expanded Home passed at {width}x{height}.",flush=True)
         if width<600:
             expect(page.locator("#library-filters")).to_be_hidden()
-            expect(page.locator("#recent-panel")).not_to_have_attribute("open","")
-            expect(page.locator("#saved-panel")).not_to_have_attribute("open","")
             assert page.locator(".library-toolbar").bounding_box()["height"]<=60
             page.locator("#library-panel-toggle").click()
             expect(page.locator("#library-results")).to_be_hidden()
