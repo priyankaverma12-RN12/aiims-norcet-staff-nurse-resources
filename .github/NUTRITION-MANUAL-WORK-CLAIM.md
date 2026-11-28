@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-08c-fortification-20261128-0908Z
-Scope: Isolated PR35 08C food fortification standards and candidate-local concepts, diagram and review. No shared navigation, production or other job edits.
-Claimed UTC: 2026-11-28T09:08:31Z
-Expiry UTC: 2026-11-28T09:38:31Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 08C food fortification and quality assurance
+
+Candidate head: f863f18d6871769442157160c5c42389ba4f6c3a
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-08c-fortification-20261128-0908Z
+
+Added 20 original candidate MCQs and 80 individual Roman Hinglish rationales, bank bbe0ef8ad9eea1134071bfac53bf91406d3fc926, blob e1951c61f4084a48318cbaaf85d2c560b78d85cf. Guide 20 commit 06bdb125c8d31e51da2ce8c0b7b21647cb227195, SVG c6e5f659830aa956113e8f8dfaefbca5a5ca2ede rendered from identical Git blob and visually inspected. All four content/evidence commits exact readbacks passed. 20 aligned keys, 80 options and rationales, 20 clues and source rows, 20 closed answer blocks, five correct keys per letter. Prior 720 originals preserved: delta exactly four added Nutrition-local files. Updated PR description verified.
+
+Staged totals: 740 original candidates, 2960 rationales, 37 banks, 20 guides, 20 original SVGs. Four legacy originals and one reported adaptation remain separate. No live, mock or PYQ credit. Targeted comparison of 120 prior stems and related keyword hits from another 160 completed. Full 720-stem comparison attempted but exceeded tool-call limit, not certified. Full 2026 AMB guideline not retrieved; FSSAI dated standards and 2024 indexed update not full current legal certification. All 20 dedicated item video gaps, independent clinical/dietetic/regulatory review, exhaustive semantic review, INC mapping, full preflight, 07D/07E flagged clusters, PR7/8 explicit release and final CI remain outstanding. CI 46129240300 at guide head in progress at last check; final review head workflow not returned yet. Draft unmerged. No other session, website, learner history or automation changes.
+
+Next: obtain full 2026 AMB guideline and operative FSSAI consolidation if accessible; audit genuine remaining curriculum gaps and author new questions only where distinct. Complete flagged 07D/07E and mandatory independent gates before integration, then mock-exclusive banks and authenticated PYQs. Do not repeat completed 07D/07E or 08A–C authorship.
 
 ## Latest released checkpoint — 08B national nutrition programme updates
 
