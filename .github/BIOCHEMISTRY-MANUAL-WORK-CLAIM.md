@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: CLAIMED
-Owner: biochem-pass02-20261128-074902Z
-Scope: PR42 isolated Banks 03–07 question-level corrections and chapter-local evidence/checkpoint only. No navigation, other PR, live integration or automation edits. Complete remaining preflight and independent gates before publication.
-Claimed UTC: 2026-11-28T07:49:02Z
-Expiry UTC: 2026-11-28T08:19:02Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
@@ -34,3 +34,8 @@ PR42 draft head 7c1195abaf2044c2207498da9d729337a384cbb1. 40 added original cand
 ## Final topic audit pass 01 released checkpoint
 
 PR42 draft head a4d8f09e0ecabd5864aaa6eb71c481f68f762756. 40 questions and 160 rationales reviewed and corrected, four overlapping objectives replaced in place, no count increase. 440 staged originals and 1,760 rationales retained, four legacy originals, one reported adaptation, ten guides and ten SVGs. Exact remote readbacks verified. 400 questions remain for detailed corrective review. Independent clinical and comprehensive semantic, curriculum, source/video, PR7/8/30 coordination and rendering/CI gates remain open. No main study content merged or mock/PYQ/live credit. Other jobs and schedules preserved.
+
+
+## Final topic audit pass 02 released checkpoint
+
+PR42 draft head 508b99c78370139eabcc7348a73d6599e985b4d9, exact checkpoint readback verified. Five real content commits corrected Banks 03–07, 100 original candidate slots and 400 individually rewritten rationales, all answer letters retained. 140/440 candidates and 560/1760 rationales corrected cumulatively. 440 staged originals, 1760 rationales, four legacy originals, one reported adaptation, ten concept guides and ten SVGs retained. Only five banks plus local checkpoint changed against Pass 01. PR30 two known objective collisions replaced within PR42, notice 7236230405 verified, owner acknowledgment pending. Remaining 300 questions/1200 rationales, next Banks 08–12. Full preflight, independent clinical, comprehensive semantic, curriculum, exact source/video, PR7/8/30 coordination, latest-main reconciliation, green CI and rendered validation remain required. No live publication, no new historical or mock credit, no other claims or schedules modified. Lease released; resume same branch only.
