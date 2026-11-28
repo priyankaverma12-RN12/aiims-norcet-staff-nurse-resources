@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: continuation-pr60-b06-20261128T104844Z
-Scope: PR60 new alcohol-associated liver disease and distinct hepatobiliary complications banks only, no shared navigation or existing question edits.
+Scope: PR60 Batch 06 new alcohol-associated liver disease, HRS-AKI, HPS/PoPH, liver transplantation nursing and pancreatic neoplasm banks only. No shared navigation or existing question edits.
 Claimed UTC: 2026-11-28T10:48:44Z
 Expiry UTC: 2026-11-28T11:18:44Z
 
