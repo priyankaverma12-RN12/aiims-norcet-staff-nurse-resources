@@ -64,33 +64,33 @@ D. Ask the patient to exercise vigorously before the sample
 
 </details>
 
-### Q03. A patient has a mildly raised plasma normetanephrine result obtained while seated during severe procedural anxiety. What should the nurse communicate before definitive interpretation?
+### Q03. A patient with persistent borderline normetanephrine elevation is scheduled for a specialist-supervised clonidine suppression test. At baseline the patient is volume depleted and has blood pressure 92/54 mmHg. What should the nurse do?
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Sampling conditions may contribute to a false-positive result and specialist-directed repeat testing may be appropriate
+A. Escalate the findings before administration because the protocol calls for cancellation in hypotension or volume depletion
 
-B. Mild elevation always proves metastatic disease
+B. Administer clonidine immediately to correct the low blood pressure
 
-C. Anxiety cannot influence sympathetic biochemical measurements
+C. Ask the patient to stand without assistance during the test
 
-D. The result alone identifies the exact anatomical tumor location
+D. Ignore the baseline assessment because clonidine affects only hormone secretion
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: A. Sampling conditions may contribute to a false-positive result and specialist-directed repeat testing may be appropriate**
+**Correct answer: A. Escalate the findings before administration because the protocol calls for cancellation in hypotension or volume depletion**
 
-- **A — Correct:** Anxiety aur seated collection sympathetic activation increase kar sakte hain. Borderline elevation mein appropriate resting repeat test aur clinical probability review useful hain.
-- **B — Incorrect:** Mild elevation malignancy ya metastasis prove nahi karti. False-positive conditions aur further biochemical evidence assess hote hain.
-- **C — Incorrect:** Stress sympathetic output affect karta hai, isliye collection context important hai.
-- **D — Incorrect:** Biochemical result hormone-related suspicion batata hai. Anatomical localization ke liye suitable imaging chahiye.
+- **A — Correct:** Clonidine sympathetic activity aur BP reduce kar sakti hai. Volume depletion aur low baseline BP mein test unsafe ho sakta hai, isliye specialist ko report karke protocol follow karo.
+- **B — Incorrect:** Clonidine hypotension treat karne ke liye nahi di ja rahi hai. Given low BP mein administration se pressure aur gir sakta hai.
+- **C — Incorrect:** Standing se orthostatic symptoms aur fall risk worsen ho sakta hai. Test prescribed monitored position mein hota hai.
+- **D — Incorrect:** Clonidine cardiovascular effects bhi produce karti hai. Baseline hemodynamic assessment safety ke liye essential hai.
 
-**Exam clue:** Borderline result mein collection context ko document karo.
+**Exam clue:** Clonidine suppression testing se pehle BP aur volume status verify karo.
 
-**Clinical reference:** [Endocrine Society PPGL guideline](https://academic.oup.com/jcem/article/99/6/1915/2537399) · [Japan Endocrine Society 2025 guideline](https://www.jstage.jst.go.jp/article/endocrj/73/1/73_EJ25-0165/_html/-char/en)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://academic.oup.com/jcem/article/99/6/1915/2537399)
 
-**YouTube MCQ practice:** [ADAPT NCLEX REVIEW, published practice section 46:25](https://www.youtube.com/watch?v=2GWI6B8VsP4&t=2785s). Exact item coverage pending.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 

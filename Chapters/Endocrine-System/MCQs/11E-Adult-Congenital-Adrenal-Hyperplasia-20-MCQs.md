@@ -424,33 +424,33 @@ D. Normal stimulated cortisol proves future surgical complications are impossibl
 
 </details>
 
-### Q15. Two prospective parents are both confirmed heterozygous carriers of pathogenic CYP21A2 variants that cause autosomal recessive CAH. What is the probability of an affected child in each pregnancy, assuming the standard Mendelian model?
+### Q15. An adult with CAH is undergoing CYP21A2 genetic evaluation for counseling. The laboratory requests a parental sample because interpretation of the locus is complex. Why can a parental sample be useful?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. 50%
+A. It eliminates the need to interpret the patient's own genotype
 
-B. 100%
+B. It is collected primarily to measure the patient's serum electrolytes
 
-C. 25%
+C. It may help determine how detected variants are inherited and clarify the molecular result
 
-D. 0%
+D. It proves that the patient's circulating cortisol is normal
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. 25%**
+**Correct answer: C. It may help determine how detected variants are inherited and clarify the molecular result**
 
-- **A — Incorrect:** 50% standard model mein heterozygous carrier child ki probability hai, affected child ki nahi.
-- **B — Incorrect:** 100% tab appropriate nahi hai jab both parents heterozygous carriers hain. Har pregnancy mein variants ka combination independent hota hai.
-- **C — Correct:** Dono parents ek pathogenic variant carry karte hain. Child ko dono variants inherit hone ke four possible combinations mein ek affected combination hota hai, yani 25% per pregnancy.
-- **D — Incorrect:** Zero risk correct nahi hai because each parent pathogenic variant transmit kar sakta hai. Genetic counseling actual family context clarify karti hai.
+- **A — Incorrect:** Patient ka genetic result interpretation ka central part rehta hai. Parent sample additional context deta hai.
+- **B — Incorrect:** Parental genetic sample patient ke serum sodium ya potassium measure nahi karta. Biochemical testing alag sample se hoti hai.
+- **C — Correct:** CYP21A2 locus complex ho sakta hai. Parental genotyping variant inheritance clarify karne mein help kar sakti hai aur specialist counseling ko support karti hai.
+- **D — Incorrect:** Parent ka genotype patient ki current cortisol reserve measure nahi karta. Hormone assessment separate hoti hai.
 
-**Exam clue:** Autosomal recessive carrier-carrier cross mein affected risk 1 in 4 per pregnancy hai.
+**Exam clue:** Complex CYP21A2 interpretation mein selected parental genotyping useful ho sakti hai.
 
-**Clinical reference:** [Endocrine Society CAH guideline](https://www.endocrine.org/clinical-practice-guidelines/congenital-adrenal-hyperplasia-guideline-resources)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://www.endocrine.org/clinical-practice-guidelines/congenital-adrenal-hyperplasia-guideline-resources)
 
-**YouTube MCQ practice:** Adult-specific item coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
@@ -574,33 +574,33 @@ D. The inducer can reduce crinecerfont exposure, so the prescriber should review
 
 </details>
 
-### Q20. Shortly after starting prescribed crinecerfont, a patient develops generalized rash, throat tightness and lip swelling. What is the priority nursing response?
+### Q20. An adult takes prescribed crinecerfont at bedtime on an empty stomach because that is when the patient remembers medicines. What administration instruction should the nurse verify against the US prescribing information?
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Delay assessment until the next routine androgen result
+A. Replace meal-related dosing with an extra glucocorticoid dose
 
-B. Activate emergency assessment for possible serious hypersensitivity and coordinate immediate treatment and drug discontinuation as indicated
+B. Take the prescribed morning and evening doses with meals as directed
 
-C. Reassure the patient that airway symptoms are an expected harmless effect
+C. Take both daily doses together on an empty stomach
 
-D. Administer an extra crinecerfont dose to test tolerance
+D. Take the medicine only when androgen-related symptoms appear
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. Activate emergency assessment for possible serious hypersensitivity and coordinate immediate treatment and drug discontinuation as indicated**
+**Correct answer: B. Take the prescribed morning and evening doses with meals as directed**
 
-- **A — Incorrect:** Androgen testing emergency hypersensitivity assessment replace nahi karti. Immediate clinical response important hai.
-- **B — Correct:** Throat tightness aur lip swelling serious hypersensitivity ka clue ho sakte hain. Airway assessment aur emergency response priority hai, with clinically significant reaction mein drug discontinue karne ka medical plan.
-- **C — Incorrect:** Airway symptoms rapidly progress kar sakte hain. Routine reassurance unsafe hai.
-- **D — Incorrect:** Extra dose possible allergic reaction worsen kar sakti hai. Rechallenge independently nahi karna chahiye.
+- **A — Incorrect:** Extra glucocorticoid dose crinecerfont administration instruction replace nahi karti. Dono medicines ka role aur schedule separately verify karo.
+- **B — Correct:** US label crinecerfont ko morning aur evening meal ke saath administer karne ko kehti hai. Nurse patient ka routine review karke prescribed dosing schedule samjhati hai.
+- **C — Incorrect:** Dono daily doses ek saath lena prescribed twice-daily regimen change karta hai. Food instructions bhi follow karni chahiye.
+- **D — Incorrect:** Crinecerfont symptom-triggered rescue medicine nahi hai. Scheduled therapy specialist ke prescription ke according hoti hai.
 
-**Exam clue:** Rash with airway or facial swelling after a new medicine requires urgent escalation.
+**Exam clue:** Crinecerfont ke meal-associated schedule ko drug label se verify karo.
 
-**Clinical reference:** [US prescribing information, crinecerfont](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd3a6fbd-9137-428a-ba46-df6606f07d28&version=5)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd3a6fbd-9137-428a-ba46-df6606f07d28&version=5)
 
-**YouTube MCQ practice:** Adult-specific item coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 

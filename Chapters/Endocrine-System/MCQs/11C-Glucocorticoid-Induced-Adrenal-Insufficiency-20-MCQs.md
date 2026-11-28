@@ -214,33 +214,33 @@ D. Declare permanent adrenal failure without any future reassessment
 
 </details>
 
-### Q08. A patient tapering chronic glucocorticoids has a properly collected morning cortisol of 3 micrograms/dL. Which follow-up principle is appropriate?
+### Q08. A patient tapering chronic glucocorticoids has an early-morning cortisol recovery test scheduled. The patient is uncertain whether the usual replacement dose should be taken just before collection. Which nursing action is safest?
 
 **Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Stop treatment now because a low level proves the gland needs stimulation by withdrawal
+A. Instruct the patient to take an extra hydrocortisone dose before collection
 
-B. Treat the result as evidence of cortisol excess
+B. Stop all glucocorticoids indefinitely to eliminate assay interference
 
-C. Replace cortisol testing with a single serum potassium result
+C. Assume medication timing has no relevance to cortisol recovery testing
 
-D. Maintain physiological replacement and plan reassessment after a few months under clinician supervision
+D. Verify the clinician's specified steroid withholding and sampling instructions before the test, without independently changing essential treatment
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Maintain physiological replacement and plan reassessment after a few months under clinician supervision**
+**Correct answer: D. Verify the clinician's specified steroid withholding and sampling instructions before the test, without independently changing essential treatment**
 
-- **A — Incorrect:** Low cortisol ke saath withdrawal risk create kar sakti hai. Recovery ko force karne ke liye abrupt cessation appropriate nahi hai.
-- **B — Incorrect:** 3 low value hai, cortisol excess ka evidence nahi. Clinical context aur test conditions important hain.
-- **C — Incorrect:** Potassium normal ho sakta hai in glucocorticoid-induced deficiency. Potassium cortisol recovery testing replace nahi karta.
-- **D — Correct:** 3 micrograms/dL guideline ke low range mein hai aur ongoing suppression likely hai. Physiological replacement continue karke months mein reassessment planned ho sakta hai.
+- **A — Incorrect:** Extra hydrocortisone measured cortisol interpretation distort kar sakti hai. Prescribed test protocol ke bina dose add nahi karni chahiye.
+- **B — Incorrect:** Indefinite withdrawal suppressed patient mein crisis risk create kar sakti hai. Withholding if required specific supervised interval tak limited hoti hai.
+- **C — Incorrect:** Sampling aur steroid timing recovery test interpretation ke liye relevant hain. Actual exposure document karna important hai.
+- **D — Correct:** Exogenous steroid dose cortisol assay ya axis response influence kar sakti hai. Nurse exact preparation instructions confirm karti hai taaki meaningful sample aur patient safety dono maintain ho.
 
-**Exam clue:** Very low morning cortisol mein recovery ka wait supervised coverage ke saath karo.
+**Exam clue:** Morning cortisol test ke liye medication timing clinician se confirm karo.
 
-**Clinical reference:** [2024 ESE/Endocrine Society joint guideline](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
 
-**YouTube MCQ practice:** Specific 2024 guideline question coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
@@ -514,63 +514,63 @@ D. No stress coverage because the last routine dose was stopped
 
 </details>
 
-### Q18. A patient with recent long-term glucocorticoid use and unverified HPA recovery is scheduled for a procedure under regional anesthesia with prolonged restriction of oral intake. Which plan requires clarification?
-
-**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
-
-A. Periprocedural parenteral glucocorticoid coverage as clinically indicated
-
-B. No steroid plan because only general anesthesia causes physiological stress
-
-C. Rely solely on oral tablets despite prolonged inability to take them
-
-D. Use fludrocortisone as the complete stress-dose regimen
-
-<details>
-<summary>Show answer and explanation</summary>
-
-**Correct answer: A. Periprocedural parenteral glucocorticoid coverage as clinically indicated**
-
-- **A — Correct:** Regional anesthesia aur prolonged oral restriction guideline mein parenteral stress coverage consider karne ke settings hain. Nurse anesthesia aur treating team ka plan verify karti hai.
-- **B — Incorrect:** Regional procedure bhi physiological stress aur medication access issues create kar sakta hai. General anesthesia alone criterion nahi hai.
-- **C — Incorrect:** Oral intake unavailable ho toh oral medicine delivery unreliable hai. Appropriate parenteral plan important hai.
-- **D — Incorrect:** Fludrocortisone stress glucocorticoid coverage provide nahi karti. Appropriate glucocorticoid regimen required hoti hai.
-
-**Exam clue:** Procedure type aur oral access se stress-dose route determine hota hai.
-
-**Clinical reference:** [2024 ESE/Endocrine Society joint guideline](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
-
-**YouTube MCQ practice:** Specific 2024 guideline question coverage pending. See evidence register.
-
-</details>
-
-### Q19. A patient with steroid-induced adrenal suppression is prescribed fludrocortisone solely because the diagnosis contains the words adrenal insufficiency. Which clarification is appropriate?
+### Q18. A patient on a medically necessary high-dose glucocorticoid regimen develops increased appetite, central weight gain and sleep disturbance. Which counseling is important during the ongoing non-endocrine treatment?
 
 **Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Fludrocortisone is the mandatory replacement for every form of adrenal insufficiency
+A. Discuss treatment-related endocrine adverse effects and the planned monitoring strategy without independently changing the regimen
 
-B. Fludrocortisone reverses HPA suppression by directly stimulating ACTH secretion
+B. Assume endocrine education is unnecessary until the last steroid dose
 
-C. Glucocorticoid replacement is never required when fludrocortisone is available
+C. Tell the patient that the symptoms prove recovery of endogenous cortisol production
 
-D. The 2024 guideline recommends against fludrocortisone for glucocorticoid-induced adrenal insufficiency alone
+D. Advise doubling the evening steroid dose to correct sleep disturbance
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. The 2024 guideline recommends against fludrocortisone for glucocorticoid-induced adrenal insufficiency alone**
+**Correct answer: A. Discuss treatment-related endocrine adverse effects and the planned monitoring strategy without independently changing the regimen**
 
-- **A — Incorrect:** Adrenal insufficiency ke etiologies alag hain. Primary aldosterone deficiency aur glucocorticoid-induced suppression ka treatment same nahi hai.
-- **B — Incorrect:** Fludrocortisone mineralocorticoid action deti hai, ACTH recovery stimulate karne ka treatment nahi hai.
-- **C — Incorrect:** Cortisol deficiency ke liye indicated glucocorticoid coverage still important hai. Mineralocorticoid uska substitute nahi hai.
-- **D — Correct:** Exogenous glucocorticoid-induced suppression mein mineralocorticoid regulation generally preserved hoti hai. Guideline fludrocortisone routine use ke against recommend karti hai, unless separate indication exists.
+- **A — Correct:** High-dose glucocorticoid treatment se metabolic aur sleep effects develop ho sakte hain. Ongoing treatment ke dauran education aur monitoring se patient symptoms recognize aur report kar sakta hai.
+- **B — Incorrect:** Endocrine education treatment ke start aur ongoing course mein useful hai. Withdrawal tak wait karna important safety information delay karta hai.
+- **C — Incorrect:** Exogenous steroid adverse effects endogenous HPA recovery ka evidence nahi hain. Axis suppress bhi ho sakti hai.
+- **D — Incorrect:** Extra evening dose sleep disturbance aur steroid exposure worsen kar sakti hai. Dose changes prescriber ke guidance se hoti hain.
 
-**Exam clue:** Glucocorticoid-induced suppression mein separate mineralocorticoid indication verify karo.
+**Exam clue:** Ongoing steroid therapy mein endocrine safety education withdrawal se pehle hi important hai.
 
-**Clinical reference:** [2024 ESE/Endocrine Society joint guideline](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
 
-**YouTube MCQ practice:** Specific 2024 guideline question coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
+
+</details>
+
+### Q19. A patient is tapering long-term glucocorticoids and has a documented history of adrenal crisis during an earlier withdrawal attempt. Under the 2024 joint guideline, what additional coordination is recommended?
+
+**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+
+A. Avoid specialist input because all tapering patients must be managed identically
+
+B. Use the previous crisis as proof that every future taper is impossible
+
+C. Replace the follow-up plan with a single blood pressure measurement
+
+D. Arrange endocrinology specialist evaluation because prior adrenal crisis is a specific referral consideration
+
+<details>
+<summary>Show answer and explanation</summary>
+
+**Correct answer: D. Arrange endocrinology specialist evaluation because prior adrenal crisis is a specific referral consideration**
+
+- **A — Incorrect:** Routine uncomplicated taper mein specialist universally required nahi hai, lekin previous crisis specific higher-risk context hai.
+- **B — Incorrect:** Prior crisis permanent recovery failure prove nahi karti. Specialist risk assessment aur monitoring plan guide kar sakta hai.
+- **C — Incorrect:** Single BP reading HPA reserve aur crisis recurrence risk establish nahi karti. Detailed clinical review needed hai.
+- **D — Correct:** Prior adrenal crisis future withdrawal safety ke liye important history hai. Guideline aise patient mein endocrinology specialist evaluation suggest karti hai.
+
+**Exam clue:** Previous adrenal crisis withdrawal-related specialist referral ka reason hai.
+
+**Clinical reference:** [Named clinical guideline or prescribing information](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
+
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 

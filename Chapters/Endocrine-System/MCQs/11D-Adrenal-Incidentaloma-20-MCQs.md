@@ -4,33 +4,33 @@
 
 [Concepts](../Concepts/11D-Adrenal-Incidentaloma.md) · [Evidence register](../Previous-Year-Questions/11D-Adrenal-Incidentaloma-Evidence-Gaps.md)
 
-### Q01. A CT performed for renal colic reveals an unsuspected adrenal mass. The patient asks why the clinician needs to evaluate both its imaging features and hormone activity. Which explanation is best?
+### Q01. An adrenal lesion is characterized further using chemical-shift MRI because noncontrast CT did not establish a definitive benign pattern. Which imaging concept explains why signal loss on out-of-phase images can support an adenoma diagnosis?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Every adrenal mass discovered incidentally is a malignant lesion
+A. Signal loss always establishes metastatic disease regardless of other findings
 
-B. These assessments address separate risks of malignancy and clinically relevant hormone secretion
+B. Intracellular lipid within an adenoma can produce signal loss on chemical-shift imaging
 
-C. A benign-looking lesion can never produce hormones
+C. Adenomas are defined by complete absence of tissue water
 
-D. Hormone tests directly determine every tumor's histology
+D. Chemical-shift MRI measures the concentration of circulating cortisol directly
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. These assessments address separate risks of malignancy and clinically relevant hormone secretion**
+**Correct answer: B. Intracellular lipid within an adenoma can produce signal loss on chemical-shift imaging**
 
-- **A — Incorrect:** Most incidentalomas benign ho sakte hain. Incidental discovery malignancy ka diagnosis nahi hai.
-- **B — Correct:** Adrenal incidentaloma mein structure aur hormone activity alag questions hain. Benign adenoma bhi hormone produce kar sakta hai, isliye imaging aur clinical-endocrine assessment dono useful hain.
-- **C — Incorrect:** Benign morphology cancer risk kam suggest kar sakti hai, lekin functional activity separately assess hoti hai.
-- **D — Incorrect:** Hormone tests functional information dete hain. Histology ya imaging characteristics ko directly measure nahi karte.
+- **A — Incorrect:** Signal loss ka meaning imaging pattern aur clinical context ke saath interpret hota hai. Yeh universally metastatic disease establish nahi karta.
+- **B — Correct:** Adrenal adenoma mein intracellular lipid ho sakti hai. Chemical-shift MRI mein fat-water signal interaction se out-of-phase signal drop benign adenoma characterization support kar sakta hai.
+- **C — Incorrect:** Adenoma tissue mein water ho sakta hai. Complete water absence adenoma ki definition nahi hai.
+- **D — Incorrect:** MRI tissue imaging information deti hai. Hormone secretion blood ya urine tests se separately assess hoti hai.
 
-**Exam clue:** Adrenal mass ki imaging risk aur hormonal risk separate assess karo.
+**Exam clue:** Chemical-shift MRI intracellular lipid characterization mein useful ho sakti hai.
 
-**Clinical reference:** [2023 ESE adrenal incidentaloma guideline](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
 
-**YouTube MCQ practice:** Dedicated item-level question-solving coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
@@ -304,33 +304,33 @@ D. Ignore the conditions because the lesion has benign imaging features
 
 </details>
 
-### Q11. An adult with mild autonomous cortisol secretion reports chronic back discomfort and has lost height over several years. What additional comorbidity should the team consider assessing?
+### Q11. A patient has an asymptomatic unilateral adrenal mass with unequivocally benign imaging and a normal hormonal evaluation. The patient requests surgery solely to prevent future cancer despite no other indication. Which recommendation should the nurse reinforce?
 
-**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Acute retinal detachment as the explanation for height loss
+A. All adrenal adenomas must be removed to prevent inevitable malignant transformation
 
-B. Isolated thyroid nodule growth as the sole cause of back pain
+B. Bilateral adrenalectomy is the preferred preventive procedure
 
-C. A guaranteed normal skeleton because overt Cushing signs are absent
+C. Adrenalectomy is required solely because the lesion was discovered incidentally
 
-D. Vertebral fractures associated with cortisol-related skeletal fragility
+D. Routine adrenalectomy is not recommended for an asymptomatic nonfunctioning unilateral mass with obvious benign imaging features
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: D. Vertebral fractures associated with cortisol-related skeletal fragility**
+**Correct answer: D. Routine adrenalectomy is not recommended for an asymptomatic nonfunctioning unilateral mass with obvious benign imaging features**
 
-- **A — Incorrect:** Retinal detachment visual emergency ho sakti hai, lekin chronic height loss aur back pain ka explanation nahi hai.
-- **B — Incorrect:** Thyroid nodule local neck symptoms de sakta hai. Vertebral changes ko separate evaluation chahiye.
-- **C — Incorrect:** Overt Cushing features absent hone par bhi cortisol-associated comorbidities possible hain. Bone health ko dismiss nahi karna chahiye.
-- **D — Correct:** MACS mein skeletal fragility aur vertebral fractures possible hain. Height loss aur back pain appropriate fracture assessment ka reason hain.
+- **A — Incorrect:** Benign adenoma ka malignant transformation inevitable nahi hai. Unnecessary surgery patient ko avoidable risks expose kar sakti hai.
+- **B — Incorrect:** Bilateral adrenalectomy essential cortical hormone loss cause kar sakti hai. Is case mein preventive bilateral removal indicated nahi hai.
+- **C — Incorrect:** Incidental discovery treatment indication nahi hai. Functional status, morphology aur symptoms decision guide karte hain.
+- **D — Correct:** Clearly benign nonfunctioning unilateral adrenal lesion mein routine surgery recommended nahi hai. Clinician expected benefit aur surgical risks explain karta hai.
 
-**Exam clue:** MACS mein vertebral fracture risk ko clinical findings se connect karo.
+**Exam clue:** Clearly benign asymptomatic nonfunctioning unilateral lesion mein routine surgery avoid karo.
 
-**Clinical reference:** [2023 ESE adrenal incidentaloma guideline](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
 
-**YouTube MCQ practice:** Dedicated item-level question-solving coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 
@@ -424,33 +424,33 @@ D. Stop all follow-up because surgery was declined
 
 </details>
 
-### Q15. A patient scheduled for adrenalectomy has a preoperative cortisol result of 4 micrograms/dL after 1-mg dexamethasone suppression. Which perioperative issue should the nurse verify under the 2023 ESE guideline?
+### Q15. A patient with mild autonomous cortisol secretion asks whether the diagnosis means overt Cushing syndrome will probably develop soon. What is the guideline-consistent explanation?
 
-**Difficulty:** Difficult | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Assumption that one normal blood pressure excludes postoperative adrenal insufficiency
+A. The diagnosis proves that an ACTH-secreting pituitary adenoma is present
 
-B. A planned perioperative glucocorticoid stress-coverage regimen and postoperative endocrine follow-up
+B. MACS is not generally considered a high-risk precursor of overt Cushing syndrome, although associated comorbidities require appropriate care
 
-C. Automatic omission of all glucocorticoids because the patient has cortisol excess
+C. Every patient with MACS progresses to overt Cushing syndrome within one year
 
-D. Replacement of stress coverage with oral potassium only
+D. MACS is harmless and all comorbidity follow-up should be stopped
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. A planned perioperative glucocorticoid stress-coverage regimen and postoperative endocrine follow-up**
+**Correct answer: B. MACS is not generally considered a high-risk precursor of overt Cushing syndrome, although associated comorbidities require appropriate care**
 
-- **A — Incorrect:** BP normal hona adrenal reserve ka complete assessment nahi hai. Postoperative endocrine follow-up important hai.
-- **B — Correct:** Autonomous cortisol secretion normal HPA axis suppress kar sakti hai. Guideline post-dexamethasone cortisol above 1.8 wale surgical patients mein perioperative stress-dose glucocorticoid plan recommend karti hai.
-- **C — Incorrect:** Preoperative cortisol excess postoperative adequate endogenous cortisol guarantee nahi karta. Source removal ke baad deficiency possible hai.
-- **D — Incorrect:** Potassium supplementation cortisol coverage replace nahi karti. Hormone-specific perioperative care chahiye.
+- **A — Incorrect:** MACS adrenal cortisol autonomy ke context mein assess hota hai. Pituitary ACTH-secreting lesion ka proof nahi hai.
+- **B — Correct:** MACS mein overt Cushing syndrome develop hone ka risk generally low maana jaata hai. Phir bhi cortisol-related BP, glucose aur other comorbidities ko appropriately assess aur manage karna important hai.
+- **C — Incorrect:** One-year universal progression evidence-supported nahi hai. Patient ko unnecessary certainty ya fear create nahi karna chahiye.
+- **D — Incorrect:** Low progression risk ka matlab associated morbidity absent nahi hai. Clinical follow-up still relevant hai.
 
-**Exam clue:** MACS adrenalectomy mein cortisol coverage aur recovery plan verify karo.
+**Exam clue:** MACS progression risk aur current comorbidity burden ko separate samjho.
 
-**Clinical reference:** [2023 ESE adrenal incidentaloma guideline](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
+**Clinical reference:** [Named clinical guideline or prescribing information](https://academic.oup.com/ejendo/article/189/1/G1/7198474)
 
-**YouTube MCQ practice:** Dedicated item-level question-solving coverage pending. See evidence register.
+**YouTube MCQ practice:** Specific item coverage pending. See evidence register.
 
 </details>
 

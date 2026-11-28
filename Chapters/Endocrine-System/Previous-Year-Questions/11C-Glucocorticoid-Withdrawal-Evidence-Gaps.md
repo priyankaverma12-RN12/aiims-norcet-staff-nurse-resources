@@ -1,3 +1,7 @@
 # Glucocorticoid withdrawal — Batch 03C evidence
 
 20 original candidate slots, 80 separate rationales. [2024 joint guideline](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency) directly retrieved, R2.1–2.12 and R3.1–3.2. Q01–05 exposure and taper, Q06–09 recovery testing, Q10–14 nonoral and interacting exposure, Q15–20 withdrawal and stress precautions. Q06–08 use separately clinically relevant guide bands but need independent check for semantic overlap or padding. Q18–19 require comparison with earlier 09C perioperative and mineralocorticoid reasoning. [ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=2GWI6B8VsP4&t=1988s) description identifies steroid exposure teaching, predates current guideline and does not verify dedicated item practice. No historical attribution, live credit or exact video coverage. Whole-repository semantic, clinical, curriculum, difficulty and language reviews, rendering, navigation and CI pending.
+
+## Targeted semantic correction
+
+Q08 replaced repeated cortisol guide-band question with test preparation safety. Q18 replaced overlapping perioperative stress route task with ongoing steroid education. Q19 replaced overlapping mineralocorticoid physiology task with referral after previous crisis. 2024 joint guideline R1.2, R2.7, R2.11. Original answer positions retained. This note supersedes earlier item mapping where applicable. Independent review still pending.
