@@ -38,6 +38,8 @@ try:
         expect(page.locator("#welcome-date")).to_have_text(__import__("re").compile(r"\d{4}"))
         expect(page.locator("#welcome-greeting")).to_contain_text("Ready to learn?")
         expect(page.locator(".topbar .github-link")).to_have_count(0)
+        assert page.evaluate("()=>DOMPurify.version==='3.4.17'")
+        assert page.evaluate("""()=>{const holder=document.createElement('div');holder.innerHTML=DOMPurify.sanitize('<details><summary>Answer</summary><p>Safe text</p></details><script>unsafe</script><img src=x onerror=unsafe>',{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return !!holder.querySelector('details summary')&&!holder.querySelector('script,[onerror]')}""")
         assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
         assert page.locator(".stats>.stat").count()==7
@@ -100,6 +102,17 @@ try:
         expect(records.first).to_be_visible()
         metrics=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
         chapter=next(c for c in metrics["chapters"] if c["id"]=="Nursing-Foundations")
+        notes=lambda chapter_id: [p for p,m in metrics["resources"].items() if p.startswith("Chapters/"+chapter_id+"/Concepts/") and m["type"]=="Theory" and not m["draft"]]
+        expect(page.locator('#metrics-totals [data-category=theory] strong')).to_have_text(str(len(notes(chapter["id"]))))
+        empty_chapter=next((c for c in metrics["chapters"] if not notes(c["id"])),None)
+        if empty_chapter:
+            page.locator("#metrics-chapter").select_option(empty_chapter["id"])
+            page.locator("#metrics-category").select_option("theory")
+            expect(page.locator('#metrics-totals [data-category=theory] strong')).to_have_text("0")
+            expect(page.locator("#metrics-list")).to_contain_text("No published theory notes yet")
+            page.locator("#metrics-chapter").select_option(chapter["id"])
+            page.locator("#metrics-category").select_option("")
+        print("V11.4 theory counts, empty-state and sanitizer checks passed.",flush=True)
         expect(records).to_have_count(len(chapter["records"]))
         for record in chapter["records"]:
             target=records.filter(has=page.locator(".metric-record-title",has_text=record["title"]))
