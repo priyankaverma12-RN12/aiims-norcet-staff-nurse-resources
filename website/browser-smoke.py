@@ -37,7 +37,7 @@ try:
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
         assert page.locator(".stats>.stat").count()==7
         assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==12
-        assert page.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="span 4"
+        assert page.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnStart")=="span 4"
         assert page.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==4
         page.keyboard.press("Tab")
         page.locator("#library-link").focus()
