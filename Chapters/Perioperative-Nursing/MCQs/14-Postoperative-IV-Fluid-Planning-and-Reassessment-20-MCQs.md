@@ -27,7 +27,7 @@
 
 **Exam clue:** Five Rs mein maintenance aur replacement ka difference samjho.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -56,7 +56,7 @@
 
 **Exam clue:** Route ki need daily reassess karo.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -85,7 +85,7 @@
 
 **Exam clue:** Maintenance prescription alone may not cover abnormal GI losses.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -114,7 +114,7 @@
 
 **Exam clue:** Replacement composition bhi assess karo, sirf volume nahi.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -143,7 +143,7 @@
 
 **Exam clue:** Third-space appearance aur circulating volume identical nahi hote.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -172,7 +172,7 @@
 
 **Exam clue:** Complex redistribution needs expert assessment.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -201,7 +201,7 @@
 
 **Exam clue:** Maintenance estimate ko patient-specific prescription na samjho.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -230,7 +230,7 @@
 
 **Exam clue:** Frail aur impaired cardiac or renal patients need tailored maintenance.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -259,7 +259,7 @@
 
 **Exam clue:** Obesity maintenance calculation mein ideal weight principle yaad rakho.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -288,7 +288,7 @@
 
 **Exam clue:** Maintenance glucose is not full nutritional support.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -317,7 +317,7 @@
 
 **Exam clue:** Chloride-rich fluid exposure warrants biochemical reassessment.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -346,7 +346,7 @@
 
 **Exam clue:** Oliguria is a signal for assessment, not automatic fluid escalation.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -375,36 +375,36 @@
 
 **Exam clue:** Resuscitation intervention ke baad response check karo.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
 </details>
 
-### Q14. A postoperative fluid plan specifies routine maintenance, but the patient develops an unexpected large external fluid loss. Which prescription review is required?
+### Q14. A stable postoperative adult has an authorized total fluid plan of 1800 mL over 24 hours, including anticipated oral intake of 600 mL and IV medication carriers of 200 mL. If there are no additional losses or other fluid sources, what remaining IV maintenance volume should the nurse verify with the prescriber?
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HPRCA HP Staff Nurse original practice
 
-- **A.** Continue the original order because maintenance includes every possible loss
-- **B.** Cancel all fluid therapy regardless of clinical status
-- **C.** Review whether replacement or resuscitation is needed in addition to revised maintenance
-- **D.** Document the loss only at discharge because the fluid order is already written
+- **A.** 1800 mL
+- **B.** 1200 mL
+- **C.** 1000 mL
+- **D.** 800 mL
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Review whether replacement or resuscitation is needed in addition to revised maintenance**
+**Correct: C. 1000 mL**
 
-- **A.** Routine maintenance anticipated normal requirements cover karti hai. Unexpected abnormal losses separate consideration require karte hain.
+- **A.** Total target ko entire IV maintenance volume maan lene par oral aur medication fluids additional ho jayenge.
 
-- **B.** Loss ka response individualized assessment se guide hota hai, blanket cancellation se nahi.
+- **B.** Oral 600 mL subtract karne par 1200 aata hai, lekin 200 mL medication carriers bhi total plan mein count karne hain.
 
-- **C.** New loss patient stability, electrolytes aur total needs change karta hai. Indication-specific review required hai.
+- **C.** Total authorized fluid 1800 mL mein se oral 600 mL aur IV medication carriers 200 mL subtract karne par 1000 mL bachta hai. Yeh stated plan ka calculation hai, independent prescription nahi. Actual intake change ho toh review chahiye.
 
-- **D.** Delayed communication timely replacement aur deterioration recognition prevent kar sakti hai.
+- **D.** 800 mL already anticipated oral aur medication intake ka sum hai, remaining maintenance volume nahi.
 
-**Exam clue:** New abnormal loss means revisit the indication and prescription.
+**Exam clue:** All-source fluid target mein non-maintenance intake subtract karo.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 via NCBI](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -433,7 +433,7 @@
 
 **Exam clue:** Fluid handover includes indication and review plan.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -462,7 +462,7 @@
 
 **Exam clue:** Biochemical changes can change today's fluid plan.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -491,36 +491,36 @@
 
 **Exam clue:** Monitor the patient, not only the infusion.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
 </details>
 
-### Q18. A postoperative patient becomes increasingly breathless during a prescribed rapid fluid challenge. Which action is appropriate?
+### Q18. A stable adult recovering from elective surgery requires ongoing maintenance IV fluid but does not require uninterrupted overnight administration. Which schedule may the prescribing team consider under NICE CG174 to support sleep and wellbeing?
 
-**Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HPRCA HP Staff Nurse original practice
+**Difficulty:** Medium | **Priority:** IMPORTANT | **Exam focus:** NORCET / HPRCA HP Staff Nurse original practice
 
-- **A.** Finish every planned bolus before reporting any new symptom
-- **B.** Increase the flow rate because breathlessness proves dehydration
-- **C.** Wait for a routine weight measurement before assessing respiratory status
-- **D.** Stop or pause the infusion as clinically appropriate, urgently assess breathing and circulation, and seek review
+- **A.** Move all urgent resuscitation to daytime hours
+- **B.** Compress the entire daily volume into one hour without reviewing the rate
+- **C.** Stop every overnight infusion regardless of its purpose
+- **D.** Deliver prescribed routine maintenance during daytime hours if clinically suitable
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Stop or pause the infusion as clinically appropriate, urgently assess breathing and circulation, and seek review**
+**Correct: D. Deliver prescribed routine maintenance during daytime hours if clinically suitable**
 
-- **A.** Further fluid could worsen respiratory compromise. New deterioration needs immediate attention.
+- **A.** Urgent circulatory support time-sensitive hai. Sleep convenience ke liye necessary rescue treatment delay nahi karna chahiye.
 
-- **B.** Dyspnea dehydration ka specific proof nahi hai. Several acute causes possible hain.
+- **B.** Short interval excessive infusion rate aur volume overload ka risk create kar sakta hai. Daytime plan safe authorized rate se deliver hota hai.
 
-- **C.** Acute breathing difficulty priority clinical assessment demand karti hai.
+- **C.** Some patients ko ongoing treatment ya replacement raat mein bhi chahiye. Scheduling indication-specific hoti hai.
 
-- **D.** New breathlessness possible overload ya another acute complication ka sign ho sakti hai. Immediate patient assessment aur escalation needed hai.
+- **D.** NICE selected maintenance plans mein daytime delivery consider karta hai, jisse sleep disruption kam ho sakti hai. Prescriber volume, safe rate, stability aur concurrent therapy needs review karta hai. Time-sensitive resuscitation ya replacement ko defer nahi karte.
 
-**Exam clue:** Acute respiratory change during fluid therapy requires urgent reassessment.
+**Exam clue:** Daytime maintenance scheduling elective option hai, emergency care delay ka rule nahi.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 via NCBI](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -549,7 +549,7 @@
 
 **Exam clue:** Stop automatic continuation when the loss pattern changes.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
@@ -578,7 +578,7 @@
 
 **Exam clue:** A complete fluid order includes why, what and when to review.
 
-**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.nice.org.uk/guidance/cg174/chapter/Recommendations)
+**Clinical reference:** [NICE CG174 adult IV fluid therapy](https://www.ncbi.nlm.nih.gov/books/NBK554180/)
 
 **Dedicated MCQ video:** Exact mapping pending.
 
