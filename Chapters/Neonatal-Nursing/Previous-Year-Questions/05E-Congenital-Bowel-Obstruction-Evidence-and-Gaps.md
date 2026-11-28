@@ -1,0 +1,6 @@
+# 05E congenital bowel obstruction evidence and gaps
+
+Original practice, 28 November 2026. [Bank](../MCQs/05E-Neonatal-Duodenal-Obstruction-and-Volvulus-20-MCQs.md) · [Guide](../Concepts/05E-Neonatal-Duodenal-Obstruction-and-Volvulus.md)
+
+- [Safer Care Victoria neonatal bowel obstruction](https://www.safercare.vic.gov.au/best-practice-improvement/clinical-guidance/neonatal/bowel-obstruction-in-neonates) directly retrieved, duodenal, malrotation and jejunoileal sections Q01–06, Q08, Q10, Q12–16, Q18–20. Q14 and Q20 require additional cardiac/surgical nursing source review. [MSD malrotation](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/malrotation-of-the-bowel) indexed text, direct alternate URL cache miss, Q09. [Neonatal ultrasound review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11178722/) indexed text Q07, Q11, Q17; full-text verification pending.
+- Child Health PR45 02E TEF all 20 headings inspected; 03D Hirschsprung and 04D anorectal malformation paths identified. No duplicate TEF questions authored. Earlier NEC questions cover inflammatory intestinal injury, not congenital anatomical rotation/obstruction; full semantic comparison pending. No official exam attribution or verified teaching/practice video. Independent review, curriculum and rendering/CI gates pending.
