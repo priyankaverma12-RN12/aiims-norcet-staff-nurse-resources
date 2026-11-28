@@ -6,24 +6,28 @@
 
 ### Q1. Which database is particularly useful for locating nursing and allied health research literature?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** A hospital payroll database
+- **A.** PsycINFO
 - **B.** CINAHL
-- **C.** A ward bed allocation register
-- **D.** A drug stock ledger
+- **C.** ERIC
+- **D.** IEEE Xplore
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. CINAHL**
 
-**B.** CINAHL nursing aur allied health literature ko index karta hai. Focused nursing question ke liye yeh useful subject database hai.
+**B.** CINAHL ka full form Cumulative Index to Nursing and Allied Health Literature hai. Yeh nursing aur allied health publications ko index karta hai. Jab nurse care, nursing education ya practice par published studies dhundhti hai, toh CINAHL ek relevant subject database hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Payroll mein salary and employee records hote hain. Published research literature locate karne ka tool nahi hai.
-- **C.** Bed register local admissions track karta hai. Scholarly literature search ke liye database nahi hai.
-- **D.** Stock ledger supply quantity document karta hai. Nursing research articles index nahi karta.
+- **A.** PsycINFO psychology aur behavioral sciences ka specialized database hai. Mental health nursing ke questions mein yeh useful ho sakta hai, lekin general nursing aur allied health literature ke liye CINAHL zyada directly focused hai.
+- **C.** ERIC education literature par focused hai. Nursing education ke kuch research questions mein yeh useful ho sakta hai, lekin broad nursing aur allied health research ka dedicated index CINAHL hai.
+- **D.** IEEE Xplore engineering, computing aur technology research ke liye important resource hai. Health technology questions mein yeh relevant ho sakta hai, lekin general nursing literature ke liye pehla specialized choice nahi hai.
+
+**Exam clue:** CINAHL ko nursing aur allied health subject literature ke saath associate karo.
+
+**Source:** [EBSCO CINAHL database description](https://about.ebsco.com/products/research-databases/cinahl-database). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -31,24 +35,28 @@
 
 ### Q2. A student needs a source of systematic reviews of healthcare interventions. Which resource is especially suitable?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** A local duty roster
-- **B.** An equipment maintenance log
-- **C.** A patient billing ledger
+- **A.** ClinicalTrials.gov
+- **B.** Cochrane CENTRAL alone
+- **C.** A journal's author-submission portal
 - **D.** Cochrane Library
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Cochrane Library**
 
-**D.** Cochrane Library systematic reviews aur relevant evidence resources provide karti hai. Review ki currency aur applicability still check karo.
+**D.** Cochrane Library mein Cochrane systematic reviews aur trials se related resources milte hain. Jab nurse intervention ke benefits aur harms ka synthesized evidence dhundhti hai, toh relevant review se start karna useful ho sakta hai. Review ki date, methods aur patient applicability phir bhi check karni chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Duty roster staffing assignment show karta hai. Synthesized research evidence provide nahi karta.
-- **B.** Maintenance record equipment history ke liye useful hai. Intervention systematic reviews index nahi karta.
-- **C.** Billing ledger costs record karta hai. Evidence synthesis resource nahi hai.
+- **A.** ClinicalTrials.gov trial registration aur available results ki information provide karta hai. Unpublished ya ongoing trials locate karne mein yeh useful hai, lekin completed systematic reviews ki dedicated collection nahi hai.
+- **B.** CENTRAL controlled trials ke reports locate karne ke liye relevant database hai. Yeh Cochrane Library ka hissa hai, lekin systematic reviews themselves locate karne ke liye broader Cochrane Library aur uska review database zyada suitable hain.
+- **C.** Author-submission portal manuscripts submit karne aur editorial workflow manage karne mein madad karta hai. Yeh published evidence synthesis ki searchable collection nahi hai.
+
+**Exam clue:** CENTRAL primary trial reports se related hai. Cochrane reviews synthesized evidence provide karte hain.
+
+**Source:** [Cochrane Handbook, chapter 4, sections 4.1 and 4.3](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-04). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -81,24 +89,28 @@
 
 ### Q4. Which feature distinguishes an annotated bibliography from a conventional reference list?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** All references must be anonymous
-- **B.** Only textbook titles are included
+- **A.** Each citation is arranged alphabetically without commentary
+- **B.** Each cited article is assigned a unique reference number
 - **C.** A concise description and evaluation accompanies each citation
-- **D.** Every source is reproduced in full
+- **D.** All included articles are combined into one pooled effect estimate
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. A concise description and evaluation accompanies each citation**
 
-**C.** Annotation source ka content, relevance aur quality briefly explain karti hai. Reference list usually citation details provide karti hai.
+**C.** Annotation citation ke saath short explanatory paragraph hota hai. Ismein source ka summary, assessment ya research question se relevance batayi ja sakti hai. Assignment ke hisaab se annotation descriptive, evaluative ya dono ho sakti hai. Isliye annotation normal reference list se extra information provide karti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Authorship source identification mein important hai. Annotation anonymity require nahi karti.
-- **B.** Annotated bibliography articles, books aur other suitable sources include kar sakti hai. Textbook-only rule nahi hai.
-- **D.** Annotation concise evaluation hai. Complete copyrighted source reproduce karna necessary nahi hai.
+- **A.** Alphabetical order reference list ko organize kar sakta hai. Lekin agar source ke baare mein koi summary ya assessment nahi di gayi, toh yeh annotated bibliography ki defining feature nahi hai.
+- **B.** Numbered references Vancouver style jaise citation formats mein common hain. Reference number source identify karta hai, lekin source ki relevance ya content explain nahi karta.
+- **D.** Pooled effect estimate meta-analysis ka result ho sakta hai. Annotated bibliography har source ka individual summary ya evaluation provide karti hai aur pooling require nahi karti.
+
+**Exam clue:** Citation plus annotation is the key distinction. Har annotation ko numerical pooling karna zaroori nahi hai.
+
+**Source:** [Purdue OWL, annotated bibliography definitions and format](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -109,21 +121,25 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** A summary of the study purpose, methods, findings, limitations and relevance
-- **B.** The color of the journal cover
-- **C.** The author's unrelated hobbies
-- **D.** The exact entire article copied without citation
+- **B.** Only the complete author affiliations and institutional addresses
+- **C.** Only the journal impact factor and publication date
+- **D.** Only a list of keywords copied from the abstract
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. A summary of the study purpose, methods, findings, limitations and relevance**
 
-**A.** Yeh details reader ko article ka contribution assess karne mein help karti hain. Page count alone scientific relevance nahi batata.
+**A.** Jab tum research plan bana rahe ho, tab source ka purpose, design, findings aur limitations samajhna zaroori hai. In details ko apne question se connect karne par pata chalega ki study kaunsi knowledge gap address karti hai aur kya uncertainty abhi bhi bachi hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Cover appearance evidence quality ka measure nahi hai. Annotation substantive content evaluate kare.
-- **C.** Unrelated biographical facts research quality assess nahi karte. Relevant qualifications and methods more useful hain.
-- **D.** Full copying annotation nahi hai aur attribution/copyright problems create karta hai. Concise original evaluation likho.
+- **B.** Author affiliations source ka background samajhne mein useful ho sakti hain. Lekin affiliations alone study methods, findings ya limitations explain nahi karti hain, isliye annotation incomplete rahegi.
+- **C.** Publication date currency aur journal metric background information de sakte hain. Lekin article ki actual quality aur relevance uske methods aur findings se assess hoti hai, metric alone se nahi.
+- **D.** Keywords topic identify karne aur search terms select karne mein useful hain. Lekin keywords study ka result ya limitations explain nahi karte, isliye unhe full annotation ka substitute nahi banana chahiye.
+
+**Exam clue:** Research annotation mein source kya batata hai aur tumhare question ke liye kyun useful hai, dono samjho.
+
+**Source:** [Purdue OWL, annotated bibliography summarize/assess/reflect guidance](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/). Text reviewed 28 November 2026.
 
 **YouTube MCQ practice:** verification pending.
 
