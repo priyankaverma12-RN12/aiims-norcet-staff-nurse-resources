@@ -924,3 +924,20 @@ Evidence search extracts were inspected. Independent item-level clinical review,
 ### Focused evidence check — 28 November 2026
 
 Search extracts from the GINA 2026 summary guide, CDC TB adverse-event guidance, BTS oxygen guidance and AARC 2022 suctioning guideline support Q9–10, Q16–17, Q21, Q27 and Q30 with the existing clinical qualifications. AARC guidance specifies a maximum of 15 seconds per suctioning procedure and preoxygenation for pediatric and adult patients. [AARC incentive spirometry guideline](https://pubmed.ncbi.nlm.nih.gov/22008401/) does not recommend incentive spirometry alone for routine prevention of postoperative pulmonary complications (Q28). [GOLD 2026 report](https://goldcopd.org/2026-gold-report-and-pocket-guide/) landing page located for Q11–14; detailed historical phenotype and Q15 source-level review remain outstanding. [Lung physiology](https://www.ncbi.nlm.nih.gov/sites/books/NBK545177/) and [lung capacity](https://www.ncbi.nlm.nih.gov/books/NBK541029/?report=classic) search extracts support gas exchange, diaphragm innervation and variable lung volumes. This focused check is not an independent complete clinical review or video verification.
+
+## Incremental clinical evidence check — 28 November 2026
+
+The following source search extracts were retrieved on this run. They support the listed clinical concepts, not official exam provenance or independent clinician approval.
+
+- [OpenStax respiratory structures](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system) — Q1, Q3 and Q4. Alveolar exchange and type II surfactant. Q1 remains an imprecise functional-unit stem and A is the best listed choice.
+- [GINA 2026 summary guide](https://ginasthma.org/2026-summary-guide/) — Q9–10. Acute exacerbation management is not salbutamol alone. The available search extract from the guide confirms bronchodilator treatment and systemic corticosteroids.
+- [GOLD 2026 report](https://goldcopd.org/2026-gold-report-and-pocket-guide/) — Q11–14. Persistent obstruction may reflect airway and/or alveolar disease. The historical blue bloater and pink puffer labels are not modern diagnostic categories.
+- [CDC adverse events during TB treatment](https://www.cdc.gov/tb/hcp/treatment/adverse-events.html) — Q16–17. Orange body fluids with rifampin and serious visual change with ethambutol.
+- [ATS ARDS guideline](https://academic.oup.com/ajrccm/article/209/1/24/8427573) — Q18. Refractory hypoxemia is not necessarily the first manifestation.
+- [BTS pleural procedure statement](https://thorax.bmj.com/content/78/Suppl_3/s43) and [MSD tension pneumothorax](https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/tension-pneumothorax) — Q19, Q26 and Q29. Avoid routine clamping of a bubbling chest tube and do not delay emergency treatment for imaging in unstable suspected tension pneumothorax.
+- [BTS oxygen guideline](https://thorax.bmj.com/content/72/Suppl_1/ii1) — Q21 and Q30. Titrate to an appropriate target rather than prescribing a universal flow rate. Do not withhold urgently needed oxygen.
+- [AARC clinical practice guideline index](https://www.aarc.org/resource/clinical-practice-guidelines/) — Q27. Artificial airway suctioning guidance includes preoxygenation. Hyperventilation is not equivalent to preoxygenation.
+
+Q22 numerical cross-check: using Henderson–Hasselbalch, 6.1 + log10(24/(0.03 × 55)) ≈ 7.26, not 7.31. A remains the best listed primary disorder, but the supplied figures are internally inconsistent and cannot establish compensation reliably. For patient care verify the original measured values.
+
+Clinical review remains incomplete. No source stem, option, key or rationale was removed. Full item-by-item independent review and exact video mapping still pending.
