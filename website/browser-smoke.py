@@ -34,6 +34,16 @@ try:
         expect(page.locator("#daily-study")).to_be_visible()
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
+        # V11.2: actual computed layout, keyboard focus and daily milestone grid.
+        assert page.locator(".stats>.stat").count()==7
+        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==12
+        assert page.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="span 4"
+        assert page.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==4
+        page.keyboard.press("Tab")
+        page.locator("#library-link").focus()
+        assert page.locator("#library-link").evaluate("e=>getComputedStyle(e).outlineStyle==='solid' && parseFloat(getComputedStyle(e).outlineWidth)>=2")
+        assert page.locator("#library-link").bounding_box()["height"]>=43
+        print("V11.2 desktop homepage, daily milestones and keyboard focus passed.",flush=True)
         assert page.locator(".chapter-group").count() >= 8
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
@@ -64,6 +74,8 @@ try:
         page.goto(base+"?metrics=1&chapter=Nursing-Foundations")
         expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
+        assert page.locator("#metrics-chapter").bounding_box()["height"]>=43
+        assert page.locator("#metrics-search").bounding_box()["height"]>=43
         expect(page.locator(".metric-record").first).to_be_visible()
         # Expanded chapter entries are whole-card links, not inline text links.
         records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
@@ -167,6 +179,7 @@ try:
         expect(page.locator(".result-heading")).to_be_visible()
         expect(page.locator(".result-score")).to_contain_text("1.00 / 44")
         expect(page.locator(".result-score")).to_contain_text("2.3%")
+        assert page.locator(".result-score strong").first.evaluate("e=>getComputedStyle(e).fontVariantNumeric.includes('tabular-nums')")
         expect(page.locator(".review-card").first.locator(".original-explanation")).to_be_visible()
         expect(page.locator(".review-card").first.locator(".answer-comparison")).to_contain_text("Your answer: B")
         expect(page.locator(".review-card").first.locator(".answer-comparison")).to_contain_text("Correct answer: B")
@@ -258,6 +271,8 @@ try:
         expect(page.locator("#sections [aria-current=page]")).to_contain_text("Theory")
         expect(page.locator("#sections [aria-current=page] [data-role=theory-count]")).to_be_visible()
         expect(page.locator("#breadcrumbs a").first).to_have_text("Library")
+        assert page.locator("#sections [aria-current=page]").evaluate("e=>getComputedStyle(e).overflowWrap")== "anywhere"
+        assert page.locator("#content h2").first.evaluate("e=>getComputedStyle(e).overflowWrap")== "anywhere"
         expect(page.locator("#reading-chapter")).to_contain_text("Nursing Foundations")
         expect(page.locator("#sibling-nav")).to_be_visible()
         chart = page.locator(".flowchart-card").first
@@ -314,6 +329,11 @@ try:
             mobile.goto(base)
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
             no_overflow(mobile)
+            if width<=600:
+                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
+                assert mobile.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="-1"
+                assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
+                assert mobile.locator("#library-link").bounding_box()["height"]>=43
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
             assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
@@ -339,16 +359,24 @@ try:
             mobile.locator(".quiz-config input[type=number]").fill("1")
             mobile.get_by_role("button", name="Start timed practice").tap()
             assert mobile.locator(".quiz-option").first.bounding_box()["height"] >= 51
+            assert mobile.locator(".quiz-option").first.evaluate("e=>parseFloat(getComputedStyle(e).lineHeight)/parseFloat(getComputedStyle(e).fontSize)>=1.5")
             no_overflow(mobile)
             mobile.clock.fast_forward(61000)
             expect(mobile.locator(".quiz-panel [role=status]")).to_contain_text("44 skipped")
             expect(mobile.locator(".result-heading")).to_be_visible()
             expect(mobile.locator(".result-score")).to_contain_text("0.0%")
+            if width<=600:
+                assert mobile.locator(".result-hero").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==1
             expect(mobile.locator(".review-card").first.locator(".original-explanation")).to_be_visible()
             no_overflow(mobile)
             if width == 320:
                 mobile.goto(base+"?metrics=1&chapter=Nursing-Foundations")
                 expect(mobile.locator(".metric-record").first).to_be_visible(timeout=30000)
+                no_overflow(mobile)
+                assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
+                mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
+                expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                assert mobile.locator("#progress-chapter").bounding_box()["height"]>=43
                 no_overflow(mobile)
                 mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
                 ready(mobile)
