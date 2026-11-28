@@ -1,5 +1,15 @@
 # Nursing Management and Education manual claim
 
+State: CLAIMED
+Owner: integration-pr40-q19-20261128T1555Z
+Scope: isolated PR40 Q19 governance distractors and source alignment, exact CI visual-parser checkpoint only. No added questions, shared navigation or publication.
+Claimed UTC: 2026-11-28T15:55:01Z
+Expiry UTC: 2026-11-28T16:25:01Z
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at PR40.
