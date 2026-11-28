@@ -6,7 +6,7 @@
 
 ### Q1. A catheter package is marked 15 Fr. What is its approximate external diameter?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Size units
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Size units · Original practice
 
 - **A.** 15 mm
 - **B.** 5 mm
@@ -25,7 +25,7 @@
 
 **D. Kyun galat hai:** 0.5 mm correct conversion se das guna chhota hai. Fr aur mm ki units alag hain.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -35,7 +35,7 @@
 
 ### Q2. A patient with documented severe latex allergy requires a urethral catheter. Which product is most appropriate if otherwise suitable?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Material
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Material · Original practice
 
 - **A.** A silicone-coated latex catheter
 - **B.** A hydrogel-coated latex catheter
@@ -54,7 +54,7 @@
 
 **D. Kyun sahi hai:** All-silicone catheter mein latex core nahi hota. Label aur dusre equipment ki latex-free status bhi verify karni chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -64,7 +64,7 @@
 
 ### Q3. A short female-length catheter is accidentally included in the equipment for an adult male. What is the safest preparation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Length selection
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Length selection · Original practice
 
 - **A.** Replace it with an appropriate male-length or standard-length catheter
 - **B.** Use the short catheter and inflate as soon as the tip enters the urethra
@@ -83,7 +83,7 @@
 
 **D. Kyun galat hai:** Catheter ko cut karne se manufacturer-designed structure aur sterility compromise hoti hai. Correct product lena chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -93,7 +93,7 @@
 
 ### Q4. A nurse is checking a standard two-way Foley catheter before use. Which description correctly identifies its lumens?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Lumen function
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Lumen function · Original practice
 
 - **A.** Both lumens independently drain urine
 - **B.** One lumen supplies oxygen and the other drains urine
@@ -112,7 +112,7 @@
 
 **D. Kyun galat hai:** Balloon channel antibiotic administration ke liye nahi hai. Medicine dene ke liye specific authorized route chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -122,7 +122,7 @@
 
 ### Q5. The selected catheter label specifies a 10 mL balloon and sterile water. A colleague prepares 30 mL saline instead. What should the nurse do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Balloon label
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Balloon label · Original practice · **[🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept only](https://testbook.com/question-answer/which-fluid-used-to-inflate-in-urinary-catheter-ba--65f83de25b486df88a5a1c2b)**
 
 - **A.** Use 30 mL because all Foley balloons have the same capacity
 - **B.** Check the manufacturer's instructions and use the specified volume and fluid
@@ -141,7 +141,7 @@
 
 **D. Kyun galat hai:** Air is labelled product ke specified fluid ka substitute nahi hai. Device instructions ke bina use karna unsafe hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#1--high-yield--catheter-ka-purpose-aur-selection).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -151,7 +151,7 @@
 
 ### Q6. A man with pelvic trauma has blood at the urethral meatus before catheter insertion. Which action is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Trauma
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Trauma · Original practice · **[🟣 AIIMS NORCET 9 Mains, 27 September 2025 — related reported concept only](https://testbook.com/question-answer/a-trauma-patient-presents-with-scrotal-bruising-an--692fde7b00c9877f12a62400)**
 
 - **A.** Avoid blind urethral catheterization and urgently notify the trauma/urology team
 - **B.** Use a larger catheter to pass the suspected injury
@@ -170,7 +170,7 @@
 
 **D. Kyun galat hai:** Urgent assessment ko urine-output documentation ke liye delay nahi karna chahiye. Trauma team alternate drainage plan decide kar sakti hai.
 
-**Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-trauma/chapter/urogenital-trauma-guidelines) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-trauma/chapter/urogenital-trauma-guidelines) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#2--most-important--assessment-before-insertion).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -180,7 +180,7 @@
 
 ### Q7. A competent adult declines non-emergency catheterization after explanation. Which nursing response is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Consent
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Consent · Original practice
 
 - **A.** Proceed because a medical order overrides refusal
 - **B.** Ask a relative to provide consent against the patient's decision
@@ -199,7 +199,7 @@
 
 **D. Kyun sahi hai:** Competent patient ka informed refusal respect karna chahiye. Nurse concerns samajhkar alternatives aur clinician review arrange karti hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#2--most-important--assessment-before-insertion).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -209,7 +209,7 @@
 
 ### Q8. The chart documents a urethral stricture and a previous difficult catheter insertion requiring urology. How should the nurse prepare?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Prior difficult insertion
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Prior difficult insertion · Original practice
 
 - **A.** Attempt repeated blind passage with progressively larger catheters
 - **B.** Ignore the old history if the patient is not currently in pain
@@ -228,7 +228,7 @@
 
 **D. Kyun galat hai:** Curved-tip device selected cases mein useful ho sakta hai, lekin operator competency aur specific plan zaroori hai.
 
-**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#2--most-important--assessment-before-insertion).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -238,7 +238,7 @@
 
 ### Q9. A woman needing catheterization cannot comfortably flex her hips because of prescribed orthopedic restrictions. Which preparation is safest?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Positioning
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Positioning · Original practice
 
 - **A.** Force the hips into the usual dorsal recumbent position
 - **B.** Arrange assistance and an approved alternative position that respects the restrictions
@@ -257,7 +257,7 @@
 
 **D. Kyun galat hai:** Urinary indication abhi bhi assess karna zaroori hai. Safe alternative ya specialist help se care continue hoti hai.
 
-**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -267,7 +267,7 @@
 
 ### Q10. An approved local anaesthetic lubricant has been selected for a male catheter insertion. What should the nurse check before proceeding?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Lubrication
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Lubrication · Original practice
 
 - **A.** Only the colour of the gel
 - **B.** Whether the gel can replace all aseptic preparation
@@ -286,7 +286,7 @@
 
 **D. Kyun sahi hai:** Local anaesthetic allergy aur product instructions verify karna chahiye. Adequate lubrication aur prescribed contact time discomfort aur friction reduce karte hain.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -296,7 +296,7 @@
 
 ### Q11. During female catheterization, the catheter is inadvertently placed in the vagina. Which response is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Incorrect route
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Incorrect route · Original practice
 
 - **A.** Use it temporarily as a landmark if policy permits and obtain a new sterile catheter for urethral insertion
 - **B.** Withdraw it and insert the same catheter into the urethra
@@ -315,7 +315,7 @@
 
 **D. Kyun galat hai:** Vagina bladder tak urine-drainage route nahi hai. Deeper advancement correct anatomical placement nahi banayega.
 
-**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -325,7 +325,7 @@
 
 ### Q12. After separating the labia with a sterile-gloved nondominant hand, the nurse needs to pick up the catheter. Which principle applies?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Hand roles
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Hand roles · Original practice
 
 - **A.** Use the hand touching the labia to grasp the catheter tip
 - **B.** Touch both gloves to the unprepared skin before insertion
@@ -344,7 +344,7 @@
 
 **D. Kyun galat hai:** Labia release hone par visualization aur field contamination ka risk reassess karna hota hai. Hand roles bina check kiye interchange nahi karte.
 
-**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK596722/?report=reader) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -354,7 +354,7 @@
 
 ### Q13. During routine male Foley insertion, urine first appears before the catheter has reached the planned insertion depth. What is the appropriate next step before balloon inflation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Male advancement
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Male advancement · Original practice
 
 - **A.** Gently advance to the appropriate depth specified by the technique and device instructions, provided there is no resistance
 - **B.** Inflate immediately because the first drop guarantees balloon position
@@ -373,7 +373,7 @@
 
 **D. Kyun galat hai:** Resistance ya significant pain par force nahi lagana chahiye. Stop karke competent help leni chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -383,7 +383,7 @@
 
 ### Q14. After insertion in an uncircumcised man, the foreskin remains retracted behind the glans. Which action prevents a specific complication?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Foreskin
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Foreskin · Original practice
 
 - **A.** Leave it retracted until catheter removal
 - **B.** Return the foreskin to its normal position as appropriate
@@ -402,7 +402,7 @@
 
 **D. Kyun galat hai:** Catheter traction foreskin reposition karne ka method nahi hai. Isse urethral trauma ho sakta hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -412,7 +412,7 @@
 
 ### Q15. A patient develops sharp urethral pain and resistance as balloon inflation begins. What is the safest immediate action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Inflation injury
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Inflation injury · Original practice
 
 - **A.** Finish inflation quickly to reduce the duration of pain
 - **B.** Instill more fluid to overcome resistance
@@ -431,7 +431,7 @@
 
 **D. Kyun sahi hai:** Pain aur inflation resistance misplaced balloon ya device issue ka warning sign ho sakte hain. Inflation rokna aur instilled fluid deflate karke competent reassessment karna injury limit karta hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#3--most-important--aseptic-insertion-ka-principle).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -441,7 +441,7 @@
 
 ### Q16. Which additional documentation is most useful when a nurse later needs to identify the balloon volume and catheter product used at insertion?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Insertion record
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Insertion record · Original practice
 
 - **A.** Only the patient's room number
 - **B.** Only the total oral fluid intake
@@ -460,7 +460,7 @@
 
 **D. Kyun galat hai:** Bag colour catheter type aur balloon inflation details ka reliable record nahi hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#4-insertion-ke-baad-verification-aur-documentation).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -470,7 +470,7 @@
 
 ### Q17. Before an authorized routine catheter removal, why should the nurse review the documented balloon volume?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Removal preparation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Removal preparation · Original practice
 
 - **A.** It determines the patient's total kidney filtration rate
 - **B.** It helps assess whether the expected balloon fluid has returned during deflation
@@ -489,7 +489,7 @@
 
 **D. Kyun galat hai:** Balloon volume patient hydration prescription se related nahi hai. Fluid advice clinical condition par depend karti hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -499,7 +499,7 @@
 
 ### Q18. According to EAUN 2024, which approach may reduce balloon cuff formation during removal?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Passive deflation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Passive deflation · Original practice
 
 - **A.** Allow balloon fluid to return passively into an attached syringe according to device instructions
 - **B.** Use strong continuous suction on the balloon channel
@@ -518,7 +518,7 @@
 
 **D. Kyun galat hai:** Inflated balloon urethra se safely pass nahi karta. Complete deflation required hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/principles-of-management-of-nursing-intervention) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/principles-of-management-of-nursing-intervention) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -528,7 +528,7 @@
 
 ### Q19. During removal, the nurse cannot account for complete balloon deflation and gentle withdrawal meets resistance. What should the nurse do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Removal resistance
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Removal resistance · Original practice
 
 - **A.** Pull harder because discomfort is always expected
 - **B.** Cut the catheter tubing independently
@@ -547,7 +547,7 @@
 
 **D. Kyun sahi hai:** Incomplete deflation ya cuffing resistance ka cause ho sakti hai. Stop karke device-specific protocol aur specialist assistance lena urethral injury avoid karta hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -557,7 +557,7 @@
 
 ### Q20. After removal the catheter appears shorter than expected and its tip seems damaged. Which action is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Device integrity
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Device integrity · Original practice
 
 - **A.** Discard it immediately and document an uncomplicated removal
 - **B.** Attempt to retrieve a possible fragment blindly with forceps
@@ -576,7 +576,7 @@
 
 **D. Kyun galat hai:** Another catheter se fragment push karna safe treatment nahi hai. Further insertion indication aur specialist plan se decide hoti hai.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -586,7 +586,7 @@
 
 ### Q21. A trainee proposes clamping every short-term urinary catheter for several hours before removal to retrain the bladder. Which response reflects CDC guidance?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Clamping
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Clamping · Original practice
 
 - **A.** Clamping is mandatory for every catheter regardless of indication
 - **B.** Routine clamping before removal is unnecessary
@@ -605,7 +605,7 @@
 
 **D. Kyun galat hai:** Continued need clinical indication review se decide hoti hai. Clamping single decision tool nahi hai.
 
-**Clinical reference:** [Guidance](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -615,7 +615,7 @@
 
 ### Q22. After catheter removal under a voiding-trial protocol, a patient passes a small amount of urine and reports no discomfort. Which observation is still needed?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Voiding trial
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Voiding trial · Original practice
 
 - **A.** Declare the trial successful solely because a small void occurred
 - **B.** Give a fixed large water load irrespective of fluid restrictions
@@ -634,7 +634,7 @@
 
 **D. Kyun sahi hai:** Small void se complete emptying guarantee nahi hoti. First void timing, volume, symptoms aur indicated PVR protocol ke according success evaluate karne mein help karte hain.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/principles-of-management-of-nursing-intervention) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/principles-of-management-of-nursing-intervention) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -644,7 +644,7 @@
 
 ### Q23. A patient reports mild transient burning on the first void after catheter removal but later develops persistent worsening dysuria. Which advice is safest?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Post-removal symptoms
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Post-removal symptoms · Original practice
 
 - **A.** Arrange clinical reassessment for persistent or worsening symptoms rather than assuming normal irritation
 - **B.** Assume infection is excluded because the catheter was removed
@@ -663,7 +663,7 @@
 
 **D. Kyun galat hai:** Delay se infection ya injury worsen ho sakti hai. Persistent symptoms ke liye timely clinical review chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
@@ -673,7 +673,7 @@
 
 ### Q24. A recently created suprapubic catheter falls out unexpectedly. Which nursing response is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Suprapubic device
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Suprapubic device · Original practice
 
 - **A.** Wait until the next scheduled catheter change
 - **B.** Insert a urethral catheter through the abdominal opening without a plan
@@ -692,7 +692,7 @@
 
 **D. Kyun galat hai:** Tract indefinitely open rehne ki guarantee nahi hai. Dislodgement ko urgent issue maana chahiye.
 
-**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md).
+**Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications) · [Concept guide](../Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md#5--most-important--authorized-removal-aur-post-removal-care).
 
 **YouTube MCQ practice:** Specific item verification pending. [Evidence and candidate video](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md).
 
