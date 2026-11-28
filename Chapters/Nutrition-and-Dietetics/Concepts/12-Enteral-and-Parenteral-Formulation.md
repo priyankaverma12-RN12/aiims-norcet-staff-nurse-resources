@@ -4,15 +4,50 @@
 
 ## Enteral formulation selection
 
-Enteral feeding mein nutrients gastrointestinal tract ke through deliver hote hain. Standard polymeric formulas intact proteins use karti hain, semi-elemental formulas partially hydrolysed peptide nitrogen use kar sakti hain, and elemental formulas free amino acids use karti hain. Composition product-specific hai. Standard commercial formulas stable patients mein reasonable specialist-directed default ho sakti hain. Digestive impairment, altered tolerance, diabetes or other clinical conditions mein specialized formula considered ho sakti hai. MCT-containing products some maldigestion contexts mein relevant ho sakte hain, but MCT alone essential fatty acid needs cover nahi karta. Modified formula automatic better nahi hai. Actual indication, label and outcome review karein.
+Enteral nutrition mein patient ko nutrients gastrointestinal tract ke through milte hain. Jab oral intake adequate nahi hai lekin GI tract use karna clinically suitable hai, tab specialist team enteral nutrition consider kar sakti hai. Formula patient ki needs, digestion, fluid balance, tolerance aur actual product composition ke hisaab se select hoti hai.
 
-Energy density kcal/mL mein express hoti hai. If authorized target 1500 kcal and product 1.5 kcal/mL, theoretical volume 1000 mL hai. Protein target separately verify karein. A product providing 7 g per 100 mL would supply 70 g at 1000 mL, so 80 g protein target ke liye 10 g gap remain hota hai. Formula label concentration or specialist-directed modular supplementation review karna may be necessary. Never independently change clinical prescription.
+| Formula | Protein source aur clinical difference |
+|---|---|
+| Polymeric | Intact protein hota hai. Suitable digestive function wale patient mein standard commercial formula use ho sakti hai. |
+| Semi-elemental | Protein partially hydrolysed hota hai. Chhote peptides ke form mein nitrogen milta hai. Specific digestive problems mein team is option ko consider kar sakti hai. |
+| Elemental | Free amino acids nitrogen source hote hain. Har patient ko elemental formula ki zaroorat nahi hoti. |
+| Modular supplement | Ek selected nutrient, jaise protein, provide karta hai. Isse complete balanced formula automatically nahi banti. Product ke calories, nutrient type aur preparation instructions bhi check karne hote hain. |
 
-Water content formula volume se different ho sakta hai. If label 82 mL water per 100 mL formula states, 1250 mL formula supplies 1025 mL water. Total fluid plan includes other intake and losses. Concentrated formula can reduce volume needed for same energy, but actual free water product label se calculate karein. If formula is complete only at stated minimum volume, reduced intake may leave micronutrient gaps. Unapproved dilution can reduce nutrients delivered per mL.
+MCT-containing products selected maldigestion contexts mein relevant ho sakte hain, lekin MCT alone essential fatty acid needs poori nahi karta. Modified ya hydrolysed formula automatic better nahi hoti. Clinical indication aur tolerance assess karna zaroori hai.
 
-Delivery calculations actual documented infusion duration use karti hain. Example 1200 mL over 20 actual hours means 60 mL/h for a constant authorized order. Actual 50 mL/h over 17 hours equals 850 mL. At 1.2 kcal/mL actual energy 1020 kcal hai. Planned and delivered amounts distinguish karein. Feeding interruptions and fluid/medication safety existing bedside-care bank mein covered hain.
+### Energy, protein aur water calculations
 
-ESPEN HEN 2022 guideline stable home nutrition patients mein standard commercial formula support karta hai. Fibre-containing feeds constipation or diarrhoea contexts mein suitable ho sakti hain after assessment. Modified carbohydrate and fat composition diabetes-specific option ho sakti hai. Homemade blenderized feeds require review of nutritional adequacy, safe preparation, viscosity and feeding equipment. Actual intake, hydration, tolerance and clinical response monitor karein. Adequate safe oral nutrition re-established ho toh team enteral feeding necessity reassess kare.
+Neeche calculations hypothetical authorized orders ko samajhne ke liye hain. Inhe new patient prescription na samjhein.
+
+- Energy density 1.5 kcal/mL aur prescribed target 1500 kcal ho toh required theoretical volume 1500 ÷ 1.5 = 1000 mL hota hai.
+- Agar formula mein 7 g protein per 100 mL hai toh 1000 mL se 70 g protein milta hai. Independent target 80 g ho toh 10 g ki kami hai. Sirf calorie target poora hona protein adequacy prove nahi karta. Team formula ya modular supplement review karegi, kyunki additional protein bhi energy contribute kar sakta hai.
+- Same 1800 kcal ke liye 1.2 kcal/mL formula ka volume 1500 mL aur 1.8 kcal/mL formula ka volume 1000 mL hoga. Volume difference 500 mL hai, lekin water difference manufacturer ke actual water content se hi pata chalega.
+- Agar label 82 mL water per 100 mL formula batata hai toh 1250 mL formula se 1250 × 0.82 = 1025 mL water milta hai. Total fluid balance mein oral intake, flushes, IV fluids aur losses bhi assess karte hain.
+- Complete formula bhi stated minimum volume se kam deliver ho toh vitamins aur minerals ki kami ho sakti hai. Supplement independently add nahi karna chahiye. Team actual nutrient gap assess karti hai.
+
+### Prescribed versus delivered intake
+
+1200 mL ko 20 actual feeding hours mein deliver karne ke hypothetical constant-rate order ka result 60 mL/h hai. Agar feed 50 mL/h par 17 recorded hours chali aur energy density 1.2 kcal/mL thi, toh actual delivered volume 850 mL aur energy 1020 kcal hai. Nurse prescribed aur actual delivered quantity alag record karti hai. Unapproved dilution ya interrupted feeding actual nutrient delivery kam kar sakti hai. Product preparation instructions aur ordered delivery plan follow karna zaroori hai.
+
+### Clinical selection aur safe handling
+
+ESPEN HEN 2022 ke R43 mein stable home-enteral patients ke liye specialist direction mein standard commercial formula ka approach diya gaya hai. R41 constipation mein suitable fibre-containing formula support karta hai. Hydration, medicines aur bowel causes bhi assess hote hain. Suspected obstruction ya acute deterioration mein pehle appropriate clinical assessment zaroori hai. R42 selected diabetes patients mein modified carbohydrate aur unsaturated-fat profile consider karne ki conditional recommendation deta hai, mandatory product choice nahi. Medicines aur glucose monitoring ko feeding plan ke saath review karna hota hai.
+
+Homemade blended feeds mein nutrient composition, viscosity, contamination aur tube blockage ka risk ho sakta hai. ESPEN R48–49 routine homemade blenderized HEN ko discourage karta hai. Patient ki cultural preferences discuss karein, commercial whole-food alternatives consider karein, aur exceptional use ke liye qualified team se specific justification aur validated plan lein.
+
+Sealed ready-to-hang formula ko directly approved giving set se connect karne par closed-system handling possible hoti hai. Agar formula decant, reconstitute ya modify ki jaati hai toh open-system handling requirements apply hoti hain. HSE sections 3.3.9.5 aur 3.3.10 mein open feeding system mein modular units add karne ke against caution bhi hai. Isliye classification change ko admixture permission na samjhein. Team product-specific instructions, infection-control requirements aur suitable separate delivery ka option review kare. Nurse independently modular products add nahi karti. Fixed universal hang time assume na karein.
+
+Actual nutrient intake, hydration, GI tolerance, nutritional status aur agreed clinical outcomes monitor karein. NICE CG32 1.7.3 ke according adequate oral intake established hone par enteral tube feeding stop ki ja sakti hai. Team ko sustained adequacy, swallowing safety aur clinical condition verify karni hoti hai. Ek single good meal sufficient evidence nahi hai.
+
+### Enteral practice and evidence
+
+[06C Enteral Nutrition Formulations MCQs](../MCQs/06C-Enteral-Nutrition-Formulations-20-MCQs.md)
+
+- [ESPEN HEN 2022](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_enteral_nutrition.pdf): retrieved recommendation text, printed p479 Figure 10 visually checked. R39, R41–43, R44–45 and R48–49 relevant.
+- [HSE National Guideline on Adult Home Enteral Nutrition](https://assets.hse.ie/media/documents/ncr/National_Guideline_on_Adult_Home_Enteral_Nutrition.pdf): sections 3.3.9.5–3.3.10 retrieved, screenshot unavailable.
+- [NICE CG32 recommendations](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) and [MSD enteral nutrition](https://www.msdmanuals.com/professional/nutritional-disorders/nutritional-support/enteral-nutrition): indexed content checked, direct HTML retrieval failed.
+- [RegisteredNurseRN calculation practice](https://www.youtube.com/watch?v=CwfJ-sQ-xOQ): publisher description supports volume, feeding-time and dilution practice for Q9/Q17 at topic level. Exact item and playback pending.
+- [Level Up RN enteral nutrition teaching and quiz](https://www.youtube.com/watch?v=Fj5hrFsUPQc): publisher description and chapter markers checked for general tube feeding and nursing care. Not certified for specific formulation questions. Other item-specific videos remain pending.
 
 ## Parenteral formulation and pharmaceutical safety
 
