@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: neonatal-b05-20261128-1430Z
+Scope: PR57 isolated new IVH, polycythemia and other verified uncovered neonatal topic packages; no prior banks or shared navigation changes
+Claimed UTC: 2026-11-28T14:30:00Z
+Expiry UTC: 2026-11-28T15:00:00Z
 
 ## Verified released checkpoint — 2026-11-28
 
