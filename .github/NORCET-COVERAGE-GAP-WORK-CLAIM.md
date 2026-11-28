@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
-State: CLAIMED
-Owner: coverage-gap-hematology-20261128-0435
-Scope: Hematology and Blood Disorders only, new blood-components topic MCQs, concept, original SVG, evidence, own claim and chapter-local inventory only. No shared README, map, mock plan, website, PR edits or other jobs. PR8 older imported snapshots coordination requested.
-Claimed UTC: 2026-11-28T04:35:00Z
-Expiry UTC: 2026-11-28T05:05:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: coverage-gap-hematology-20261128-041517
-Last scope: Hematology and Blood Disorders only. Released after verified Run 5 writes and inventory.
+Last owner: coverage-gap-hematology-20261128-0435
+Last scope: Hematology blood components only. Released after verified Run 6 package and inventory.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -67,3 +67,11 @@ Recheck all claims, rule files, recent commits and open PRs. Continue distinct l
 - Read-only Nervous-System 120 topic slots, 120 compiled mock slots, 10 reported practice blocks. Endocrine-System 190 MCQ-directory answer blocks, 120 compiled mock slots, 26 reported practice blocks. No new originals inferred from compilation. Counts remain structural rather than repository-wide unique counts.
 - HPRCA portal access blocked exact official match, EHA 2026 CLL direct retrieval 403, exact video mapping/playback and full independent review pending. Rules and audit fetched in bounded ranges with relevant requirements inspected, fresh exhaustive line-by-line review not certified. Other jobs, theory, website, learner history, PR8, PR12, already merged PR27, shared navigation and five automations not modified.
 - Next: acquire only safe Hematology scope for transfusion components/administration, transfusion reactions, anticoagulation, bleeding precautions and remaining syllabus gaps. Recheck other claims, exact counts, clinical and semantic limitations before original-only mocks.
+
+## Verified checkpoint — 28 November 2026, Run 6
+
+- Previous released checkpoint fc21abe02ea9a211bb311c7b45f39e95c1a0126c preserved. Own claim acquired a3af2bf81dbfa9b6d4d270fd5f5f72945c78bf27 and exact readback passed.
+- Blood components package published a08f226afee3934f03008c3c20fac7ebdd43916e, exact readback of all four files passed. Bank blob 278d5535771a3e349dc01694c7f7e40a84a265a6; concept 2b2b6feccc1c110c3baa07c67f195e4bab6cd6e3; SVG 0797a62046ff47c938ec85d100035f292fac6022; evidence dd78c15c79ae5635391ded46dea94d26f082e1db.
+- Inventory d3c4a40afe6533423e65962f18de200d9feffef0, blob cc45510e73ed4ed656b04ebdeec208e5f0b3311c; exact readback passed.
+- Cumulative 484 original slots (480 new + four starters), six separate source-linked adaptations, 1,944 newly authored individual option rationales. Zero full mocks. 30 additional originals (28 Medium, two Difficult), 120 new rationales. Independent clinical and exhaustive semantic audit, authenticated HPRCA/all-India question-key matches, exact video playback mappings and full 36-chapter exact census remain pending. PR8 coordination comment 7234123751 posted, acknowledgement pending; no PR code changes.
+- Resume first unfinished topic: transfusion compatibility, then administration, reactions, anticoagulation, bleeding precautions, and remaining INC gaps. Recheck current claims before acquiring new scope. Ten original-only 120-question mocks only after comprehensive topic coverage and semantic screening. Other jobs, existing theory, website, learner history and five automations untouched by this run.
