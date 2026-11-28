@@ -120,7 +120,7 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 ### Q5. An appropriately trained clinician gently attempts passage of an orogastric tube in a newborn with suspected esophageal atresia but encounters unexpected resistance. Which nursing action is safest?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** Increase pressure until the tube enters the stomach
 - **B.** Stop advancement, notify the neonatal team and facilitate prescribed imaging
@@ -131,15 +131,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: B. Stop advancement, notify the neonatal team and facilitate prescribed imaging**
 
-- **A.** Force se congenital interruption open nahi hoti. Tissue injury aur false passage ka risk badhta hai.
+- **A.** Zabardasti tube aage badhane se congenital blockage nahi khulta; ulta mucosa phat sakti hai ya false passage ban sakta hai.
 
-- **B.** Unexpected resistance proximal pouch ka sign ho sakti hai. Forcing tube mucosa injury ya perforation cause kar sakta hai. Team ko notify karke radiographic assessment arrange karna safer hai.
+- **B.** Sahi: unexpected resistance blind upper pouch ka clue hai. Tube ko force na karo, neonatal team ko turant batao aur prescribed radiograph ki taiyari karo. Diagnosis aur tube placement trained team confirm karegi.
 
-- **C.** Milk feed aspiration risk increase kar sakti hai when EA suspected. It is not a safe lubrication technique.
+- **C.** Milk dene se pouch bhar sakta hai aur secretions airway mein ja sakte hain. Isliye feeding trial se blockage test nahi karte.
 
-- **D.** Repeated manipulation trauma create kar sakti hai. Further evaluation clinician-led honi chahiye rather than blind attempts.
+- **D.** Repeated manipulation se bleeding ya perforation ho sakti hai. Aage ki investigation specialist ke plan se karo.
 
-**Exam clue:** Resistance in suspected EA is not an indication to force a tube.
+**Exam clue:** Resistance mile to force nahi; neonatal review aur prescribed imaging.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -205,28 +205,28 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 </details>
 
-### Q8. A 4-month-old has repeated coughing during milk feeds and recurrent aspiration-related respiratory infections. An enteric tube passes into the stomach normally. Which congenital lesion remains a possibility?
+### Q8. A 4-month-old has repeated coughing during milk feeds and recurrent aspiration-related respiratory infections. An enteric tube passes into the stomach normally. Which congenital airway-esophageal communication remains possible despite normal esophageal continuity?
 
 **Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** H-type tracheoesophageal fistula without esophageal atresia
-- **B.** Complete esophageal atresia with no distal passage
-- **C.** Isolated pyloric obstruction as the only possible explanation
-- **D.** Congenital absence of both lungs
+- **B.** Esophageal atresia with a distal tracheoesophageal fistula
+- **C.** Esophageal atresia with a proximal tracheoesophageal fistula
+- **D.** Esophageal atresia with both proximal and distal tracheoesophageal fistulas
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. H-type tracheoesophageal fistula without esophageal atresia**
 
-- **A.** H-type fistula mein esophageal lumen continuous hota hai but abnormal airway communication remains. Tube stomach tak pass ho sakti hai, while feeds enter airway through fistula. Specialist investigation indicated hai.
+- **A.** Sahi: H-type TEF mein esophagus continuous hoti hai, lekin trachea se abnormal connection hota hai. Tube stomach tak pahunch sakti hai, phir bhi milk airway mein ja sakta hai. Feeding-associated cough aur recurrent infection specialist investigation maangte hain.
 
-- **B.** Complete atresia normal tube passage prevent karti hai. Normal passage makes isolated H-type an important alternative.
+- **B.** Distal TEF ke saath atresia mein upper esophagus blind pouch hoti hai. Enteric tube ka normal gastric passage expected nahi hai.
 
-- **C.** Pyloric disease vomiting de sakti hai but recurrent coughing specifically during swallowing and aspiration should raise airway-esophageal communication concern.
+- **C.** Proximal fistula ke saath atresia mein bhi esophageal continuity interrupted hoti hai. Normal tube passage is pattern ko support nahi karta.
 
-- **D.** Absence of both lungs is incompatible with this clinical course. It cannot explain a surviving infant with this recurrent feeding pattern.
+- **D.** Double fistula ke saath atresia mein bhi esophageal interruption hoti hai. Is stem mein continuous passage H-type ki taraf point karta hai.
 
-**Exam clue:** A tube reaching the stomach does not exclude H-type TEF.
+**Exam clue:** Normal gastric tube passage H-type TEF ko exclude nahi karta.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -236,7 +236,7 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 ### Q9. A newborn has strong clinical suspicion of EA/TEF and is awaiting neonatal surgical assessment. Which feeding and aspiration-prevention order should the nurse anticipate?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** Continue oral feeds in larger amounts to test patency
 - **B.** Give thick feeds until coughing subsides without evaluation
@@ -247,15 +247,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: D. Withhold routine oral feeds and arrange prescribed proximal pouch drainage and IV support**
 
-- **A.** Larger feeds aspiration risk increase karte hain. Patency assess karne ke liye repeated oral challenge unsafe hai.
+- **A.** Badi oral feed se aspiration ka risk badhega; patency test karne ke liye milk challenge safe nahi hai.
 
-- **B.** Thickening an obstructed esophagus restore nahi karti. Specialist evaluation before feeding necessary hai.
+- **B.** Feed thick karne se atretic esophagus ki continuity restore nahi hoti. Surgical assessment tak routine oral feeding avoid karo.
 
-- **C.** Oral glucose solution bhi pouch mein collect ho sakti hai. Fluid and glucose needs prescribed non-oral route se address karni chahiye.
+- **C.** Oral glucose bhi blind pouch mein jama hokar aspirate ho sakta hai. Glucose aur fluid support prescribed IV route se diya ja sakta hai.
 
-- **D.** Esophagus interrupted ho toh oral intake upper pouch mein collect aur airway mein aspirate ho sakta hai. NPO, prescribed pouch suction and IV hydration/glucose support stabilization ke important components hain until specialist plan. Special sham-feeding protocols are not routine.
+- **D.** Sahi: NPO rakho, prescribed proximal pouch drainage maintain karo aur IV fluids/glucose support arrange karo. Secretions ko airway tak pahunchne se rokna preoperative nursing ka main goal hai. Feeding exceptions sirf specialist plan ke under.
 
-**Exam clue:** Suspected EA: no routine oral feeds pending surgical plan.
+**Exam clue:** Suspected EA: routine oral feeding nahi, prescribed drainage aur IV support.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -323,7 +323,7 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 ### Q12. During preoperative monitored neonatal care, why may the surgical team prescribe head elevation for an infant with EA/TEF?
 
-**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Esophageal atresia and TEF | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** To permanently close the fistula without surgery
 - **B.** To eliminate the need for secretion drainage
@@ -334,15 +334,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: C. To reduce aspiration risk from pooled or refluxed secretions in the individualized care plan**
 
-- **A.** Positioning abnormal communication mechanically close nahi karti. Definitive surgical management usually required hota hai.
+- **A.** Head elevation fistula ko band nahi karti; structural defect ke liye surgical management chahiye.
 
-- **B.** Pouch secretions continue accumulate ho sakti hain. Positioning alone prescribed drainage replace nahi karti.
+- **B.** Saliva pouch mein banti rahegi. Positioning prescribed suction/drainage ka substitute nahi hai.
 
-- **C.** Head elevation may reduce movement of secretions or reflux toward airway when used in the specialist-directed monitored setting. It complements drainage and feeding restriction; position follows neonatal orders and is not a home sleep recommendation.
+- **C.** Sahi: monitored neonatal setting mein surgical team head elevation prescribe kar sakti hai taaki pooled ya refluxed secretions ka airway mein jaana kam ho. NPO aur prescribed drainage bhi continue rahenge. Isko ghar par routine infant sleep-position advice mat samjho.
 
-- **D.** Atresia remains present regardless of angle. Routine oral intake still requires specialist authorization.
+- **D.** Angle badalne se atresia khulti nahi hai. Oral feeding specialist authorization ke bina safe nahi ho jaati.
 
-**Exam clue:** Monitored specialist positioning is supportive, not curative.
+**Exam clue:** Monitored specialist positioning supportive hai, home sleep advice nahi.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -363,15 +363,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: A. Air may pass through the fistula from trachea into stomach, impairing ventilation**
 
-- **A.** Distal TEF trachea ko distal esophagus se connect karti hai. Positive airway pressure air stomach tak direct kar sakta hai, causing distension and potentially worsening ventilation. Urgent specialist airway and surgical management needed hai; necessary lifesaving ventilation must not be withheld.
+- **A.** Sahi: distal fistula se positive-pressure gas stomach mein ja sakti hai. Distension diaphragm ki movement aur ventilation ko compromise kar sakti hai. Urgent neonatal airway/surgical review chahiye; life-saving ventilation kabhi mat roko, trained team lowest effective pressure aur airway plan decide karegi.
 
-- **B.** Proximal pouch distal stomach se disconnected ho sakti hai. Positive pressure stomach drainage ka reliable mechanism nahi hai.
+- **B.** Blind proximal pouch stomach se connected nahi hoti. Positive pressure gastric drainage ka reliable method nahi hai.
 
-- **C.** Abdominal gas accumulation ongoing communication suggest kar sakti hai. It does not prove spontaneous closure.
+- **C.** Distension ongoing air passage ka clue ho sakta hai; fistula closure ka proof nahi hai.
 
-- **D.** Fistula lumen air and fluid transmit kar sakta hai. Direction pressure gradients par depend karti hai.
+- **D.** Fistula se gas aur liquid dono pass ho sakte hain, direction pressure gradient par depend karti hai.
 
-**Exam clue:** Distal TEF can transmit ventilatory gas to the stomach.
+**Exam clue:** Distal TEF mein ventilatory gas stomach ja sakti hai; life-saving ventilation withhold nahi karni.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -439,7 +439,7 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 ### Q16. Following esophageal anastomosis, a transanastomotic feeding tube is accidentally dislodged. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** Reinsert the tube immediately to the previous depth without consultation
 - **B.** Notify pediatric surgery promptly and do not blindly reinsert the tube
@@ -450,15 +450,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: B. Notify pediatric surgery promptly and do not blindly reinsert the tube**
 
-- **A.** Previous documented depth alone safe reinsertion guarantee nahi karta. Anastomotic site protect karne ke liye surgeon guidance needed hai.
+- **A.** Purani insertion depth se fresh anastomosis safe hone ki guarantee nahi milti. Blind replacement se repair disrupt ho sakti hai.
 
-- **B.** Fresh anastomosis vulnerable hoti hai. Blind tube reinsertion repair ko disrupt ya perforate kar sakti hai. Surgical team ko notify karke prescribed alternative feeding and tube plan follow karna important hai.
+- **B.** Sahi: feed rok kar pediatric surgical team ko turant notify karo. CAHS guideline ke mutabik dislodged transanastomotic tube ko reinsert mat karo; surgeon naya feeding/tube plan decide karega. Fresh suture line ko protect karna priority hai.
 
-- **C.** Accidental tube loss oral feeding readiness establish nahi karta. Oral feeds should follow approved postoperative plan.
+- **C.** Tube dislodge hona oral feeding readiness ka proof nahi hai. Oral milk sirf approved postoperative plan ke according.
 
-- **D.** Uncontrolled advancement tissue trauma cause kar sakta hai. Gastric aspirate milna bhi procedure ko retrospectively safe nahi banata.
+- **D.** Gastric aspirate milna bhi blind insertion ke dauran hui injury ko exclude nahi karta. Tube push karna unsafe hai.
 
-**Exam clue:** Dislodged transanastomotic tube: no blind replacement.
+**Exam clue:** Dislodged transanastomotic tube: stop feed, surgeon ko notify, no reinsertion without surgical direction.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -468,7 +468,7 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 ### Q17. A recently repaired EA/TEF infant remains intubated. Which suction practice best protects the surgical site?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** Advance the catheter deeply until strong resistance is felt on every pass
 - **B.** Ignore the recorded tube position after surgery
@@ -479,15 +479,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: C. Follow the prescribed endotracheal suction depth and avoid advancing beyond the ordered limit**
 
-- **A.** Deep advancement against resistance tissue trauma cause kar sakti hai. Surgical repair ke baad specific limit especially important hai.
+- **A.** Resistance tak catheter push karne se tracheal tissue aur repair site injured ho sakti hai.
 
-- **B.** ETT migration airway or repair site affect kar sakti hai. Position and recorded depth verify karna necessary hai.
+- **B.** ETT migration oxygenation aur repair site ko affect kar sakti hai. Documented position verify karna zaroori hai.
 
-- **C.** Tracheal repair area manipulation se injured ho sakta hai. Prescribed ETT position and suction depth limit follow karna essential hai, along with monitoring oxygenation and airway patency.
+- **C.** Sahi: CAHS postoperative guidance mein suction catheter ko ETT tip se aage nahi le jaana hai. Documented suction depth aur neonatal surgical plan follow karo; airway patency, oxygenation aur tolerance monitor karo.
 
-- **D.** Higher suction pressure safe depth ka replacement nahi hai. Settings and technique prescribed unit protocol ke according hone chahiye.
+- **D.** Extra suction pressure safe depth ka substitute nahi hai. Prescribed neonatal unit suction settings follow karo.
 
-**Exam clue:** After repair, observe individualized airway and suction limits.
+**Exam clue:** Postoperative suction: catheter ETT tip se aage nahi; documented depth follow karo.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
@@ -566,15 +566,15 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Correct: D. Arrange specialist assessment for recurrent fistula and other aspiration-related causes**
 
-- **A.** Repair improves anatomy but does not eliminate every long-term complication. New symptoms after improvement deserve assessment.
+- **A.** Repair ke baad bhi recurrent fistula, reflux ya dysmotility ho sakti hai. Naye symptoms ko ignore nahi karte.
 
-- **B.** Home feeding challenges can expose child to further aspiration. Diagnostic assessment should be professionally directed.
+- **B.** Ghar par feeding challenge aspiration badha sakta hai. Diagnostic evaluation trained specialist ke through hona chahiye.
 
-- **C.** Repeated infection linked with feeding is not adequately explained by assuming every illness viral. The temporal association is clinically relevant.
+- **C.** Meal-related cough ke saath recurrent respiratory infections ko sirf viral cold maan lena underlying aspiration miss kar sakta hai.
 
-- **D.** Recurrent fistula is a possible postoperative complication. Feeding-linked respiratory symptoms can also arise from dysmotility, reflux or swallowing dysfunction. Specialist evaluation is important to identify cause and protect airway.
+- **D.** Sahi: recurrent fistula ke saath swallowing dysfunction, reflux aur esophageal dysmotility bhi differential mein rakho. Pediatric surgical/respiratory team assessment karegi, aur feeding safety ke liye appropriate evaluation plan banayegi.
 
-**Exam clue:** New feeding-associated respiratory symptoms after repair require evaluation.
+**Exam clue:** Repair ke baad dobara feeding-related cough = specialist evaluation for aspiration and recurrent TEF.
 
 **Reference:** [CAHS neonatal EA/TEF guideline](https://www.cahs.health.wa.gov.au/-/media/HSPs/CAHS/Documents/Health-Professionals/Neonatology-guidelines/Oesophageal-Atresia-Tracheoesophageal-Fistula.pdf); [MSD Manual: esophageal atresia](https://www.msdmanuals.com/professional/pediatrics/congenital-gastrointestinal-anomalies/esophageal-atresia).
 
