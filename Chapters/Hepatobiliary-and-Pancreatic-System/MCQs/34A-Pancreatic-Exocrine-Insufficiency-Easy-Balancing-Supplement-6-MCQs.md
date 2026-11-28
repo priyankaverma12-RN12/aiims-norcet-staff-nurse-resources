@@ -123,26 +123,26 @@
 
 </details>
 
-### Q6. Which professional can help an undernourished patient with pancreatic insufficiency plan adequate individualized meals alongside prescribed enzymes?
+### Q6. Which inherited disorder involving CFTR dysfunction is a recognized cause of pancreatic exocrine insufficiency?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Registered dietitian
-- **B.** Radiographer alone
-- **C.** Audiologist
-- **D.** Optometrist
+- **A.** Cystic fibrosis
+- **B.** Hemophilia A
+- **C.** Duchenne muscular dystrophy
+- **D.** Sickle cell disease
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: A. Registered dietitian**
+**Correct: A. Cystic fibrosis**
 
 **Option-wise explanation:**
-- **A (Sahi):** Dietitian nutrient needs, food choices aur practical intake barriers assess karke individualized nutrition plan develop karne mein help karta hai.
-- **B (Galat):** Radiographer imaging acquisition mein trained hota hai, nutrition prescription primary role nahi hai.
-- **C (Galat):** Audiologist hearing assessment karta hai.
-- **D (Galat):** Optometrist vision care provide karta hai, dietary planning primary role nahi.
+- **A (Sahi):** Cystic fibrosis mein CFTR dysfunction se thick pancreatic secretions aur duct obstruction ho sakti hai. Isse digestive enzymes ki intestinal delivery impair ho sakti hai.
+- **B (Galat):** Hemophilia A factor VIII deficiency ka disorder hai, CFTR dysfunction nahi.
+- **C (Galat):** Duchenne muscular dystrophy dystrophin-related muscle disorder hai, CFTR-related pancreatic disease nahi.
+- **D (Galat):** Sickle cell disease hemoglobin disorder hai, CFTR dysfunction se cause nahi hoti.
 
-**Exam clue:** Refer to a dietitian for individualized nutrition support.
+**Exam clue:** Cystic fibrosis is a recognized high-risk condition for exocrine pancreatic insufficiency.
 
 </details>
 
