@@ -105,3 +105,6 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 
 ## Signs and onset of labour — 28 November 2026
 [Source and practice gaps](07B-Signs-and-Onset-of-Labour-Evidence.md). DSSSB official paper lead indexed, key not authenticated. Three provisional topic-level video mappings, 17 specific gaps and zero exact playback. No new historical adaptation counted.
+
+## Stages of labour — 28 November 2026
+[Stage-specific evidence and gaps](07C-Stages-of-Labour-Evidence.md). Three related third-party historical leads, no official key, eight broad topic-level video leads, 12 unmapped specific gaps and no exact playback. No new counted historical adaptation.
