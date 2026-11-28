@@ -771,7 +771,7 @@
 
 **Exam clue:** Ye simplified physics example hai, actual spine load ya patient-lifting safety limit ka calculation nahi. Patient handling mein assessment aur suitable equipment ki zaroorat phir bhi rehti hai.
 
-**Clinical reference:** [OpenStax Fundamentals of Nursing — activity and alignment](https://openstax.org/books/fundamentals-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [OpenStax Fundamentals of Nursing — activity and alignment](https://openstax.org/books/fundamentals-nursing/pages/22-1-importance-of-activity-movement-and-alignment) and [OpenStax University Physics — torque](https://openstax.org/books/university-physics-volume-1/pages/10-6-torque).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
