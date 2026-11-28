@@ -29,3 +29,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [NORCET 5 Mains coping outcome adaptation](02B-Psychosocial-Assessment-Reported-Evidence.md). Direct NPrep question page retrieved. Official question number, booklet and key pending.
 - 8 cumulative reported adaptations, no newly authenticated official exact questions. Do not count archive links as question items.
 - [References and video gaps](../References.md). HPRCA 26004 and 25026, HPSSC 933 and India-wide archives remain leads pending item-level review.
+
+## 28 November 2026 — Group 02C
+
+- [NORCET 8 Prelims 2025 memory-based MMSE adaptation](02C-MMSE-Reported-Evidence.md). Direct Testbook report and source's score-band interpretation retrieved, clinical caveat documented. Official booklet/key pending.
+- 9 cumulative reported adaptations. No newly authenticated official exact question. Other paper and key checks remain pending.
