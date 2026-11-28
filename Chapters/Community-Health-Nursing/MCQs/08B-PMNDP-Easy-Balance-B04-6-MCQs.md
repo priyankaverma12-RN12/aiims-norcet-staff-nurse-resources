@@ -5,25 +5,25 @@
 ## References
 [MoHFW PMNDP introduction](https://pmndp.mohfw.gov.in/en/introduction-of-pradhan-mantri-national-dialysis-program-pmndp) · [Programme home](https://pmndp.mohfw.gov.in/en)
 
-### Q1. Which Union Budget first announced the national dialysis programme?
+### Q1. Which date marks the launch of the PMNDP national IT portal, distinct from the earlier clinical programme rollout?
 
 **Difficulty:** Easy | **Priority:** Medium | **Topic:** PMNDP service access | **Type:** Original practice
 
-- **A.** 2010–11
-- **B.** 2023–24
-- **C.** 2016–17
-- **D.** 2005–06
+- **A.** 15 August 1947
+- **B.** 26 January 1950
+- **C.** 5 May 2022
+- **D.** 7 April 2016
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. 2016–17**
+**Correct: C. 5 May 2022**
 
-- **A.** 2010–11 programme announcement se pehle ka period hai.
-- **B.** 2023–24 tak programme already operational tha.
-- **C.** Union Budget 2016–17 mein district hospitals mein affordable dialysis access ka programme announce hua tha.
-- **D.** 2005–06 NHM ke earlier developments se related period hai, PMNDP announcement nahi.
+- **A.** 15 August 1947 Indian independence date hai, portal launch nahi.
+- **B.** 26 January 1950 Republic Day ka historical date hai, dialysis portal launch nahi.
+- **C.** PMNDP introduction ke according national IT portal 5 May 2022 ko launch hua, clinical programme isse pehle start ho chuka tha.
+- **D.** 7 April 2016 clinical programme rollout date hai, IT portal launch nahi.
 
-**Exam clue:** Budget announcement: 2016–17.
+**Exam clue:** Differentiate the 2016 programme and the 2022 portal.
 
 </details>
 
