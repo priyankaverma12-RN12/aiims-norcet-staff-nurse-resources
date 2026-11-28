@@ -1,10 +1,10 @@
 # OBG manual scope claim
 
-State: CLAIMED
-Owner: obg-fetal-assessment-20261128-0248
-Scope: Obstetrics fetal movement assessment and fetal heart rate surveillance topic packages in curriculum order, subsequent tests as capacity permits. Chapter-local files and own claim only.
-Claimed UTC: 2026-11-28T02:48:00Z
-Expiry UTC: 2026-11-28T03:18:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts published at commit 1bebd39ba675c47de34f01ff52eee29a002e16f5, blob 7e9e330cc6fd0d49ed175eaaaf2189786f78e66f. Remote exact content readback: 20 numbered questions, 20 hidden answer blocks, 4 parts. Chapter README indexed and verified at commit e0bc7f2460fb6cee00d3a939101fabec9cd5f3eb, blob 2fa5fb802c31ab4280a9648c71ececdba17864f2. OBG obstetric total now 44 original slots including 4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis. Existing two reported ANC adaptations preserved. No new PYQs or mocks in this run. All five job claims were FREE at initial inspection, separate OBG scope claimed and verified before writing. Both skill contents fetched but full independent clinical verification, semantic duplicate audit across all parallel chapters, direct medical references and question-level YouTube evidence remain pending. Do not label this a fully certified bank. Next: physiological changes of pregnancy, then remaining OBG topics, evidence-backed PYQs and ten distinct mocks. Recheck claims and file SHAs before every write. Other jobs untouched.
 
@@ -93,3 +93,31 @@ Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts
 - Five new evidence files with eight reported adaptations (32 additional rationales): DSSSB 29 Aug 2019 Shift 3; ESIC 19 Mar 2016 Shift I; UPPSC 10 Apr 2022; BHU 22 Oct 2019; RRB JPR 6 Jun 2018; GMCH 28 Aug 2022; RRB 20 Jul 2019 Shift II and 21 Jul 2019 Shift I. Retrieved third-party attributed reports only; zero official paper/key authentications. Older fluid-volume convention distinguished from modern SMFM criteria, conflicting textbook clocks flagged, unrelated third-party numerical errors not adopted. HPRCA direct retrieval unresolved; MP ESB official-domain extraction interleaved, not counted. Exhaustive all-India evidence research pending. Dedicated YouTube MCQ leads indexed, eight provisional item/topic mappings (seven embryonic, one cord), 112 specific mapping gaps and all 120 exact playback gaps. No invented playback verification.
 - Final exact chapter navigation readbacks: README `461496c2590068c0b3b494389b9b6f4611d484fa` / `6a03e84106d93b700831ce427e3138b414e6cc71`; coverage map `9ff97c20b34e1ec3f9ee7ab34d1835eab02e46df` / `99dd8f2bd385641a7052327f1777c3553379662e`; evidence register `cca9eef6deb2a740fd3d252134779e5e332b1038` / `5a54331046310d89e0742f78c3978bef9d8e6437`. Full remote tree nontruncated; all 19 new/updated chapter documents scanned, no missing relative file targets. No rendered website test or external-link exhaustive audit.
 - Final inventory: Obstetrics 344 indexed originals and 18 reported adaptations; separate Gynecology README reread unchanged at 504 indexed originals and ten reported adaptations. Combined OBG 848 indexed originals and 28 reported adaptations. Parallel 20 unallocated Gynecology raw slots excluded. No mock or learner completion changed. Five formal claims and nine Gynecology claim files reread before release, no active conflicting claim; earlier Renal and Eye/ENT scopes reviewed. Only chapter-local OBG files and own claim modified; no other job schedules changed. Skills and audit rules checked using current retrieved sections and prior unchanged hashes; full fresh line-by-line reread not certified. Next: fetal assessment in curriculum order, with 20 original questions per meaningful topic; revisit independent clinical, comprehensive semantic, official-key and exact-video gaps. Own claim released.
+
+
+## Verified fetal assessment checkpoint — 28 November 2026
+
+Resumed 02580a64092c7a7cf9774c218ec9cb1910167303. All eight requested banks completed at 20 distinct original stems each: fetal movements, FHR, NST, CST, CTG, BPP, ultrasound and Doppler. This run adds 160 originals, 640 individual option rationales, 160 hidden answers, eight concept documents, 14 original Mermaid diagrams, and seven independently worded historical adaptations (28 option rationales), including one official-source provisional-key adaptation. Eight evidence documents include explicit Doppler research gaps. No learner completion or mock attempt marked.
+
+### Exact remote bank commits and blobs
+
+| Topic | Commit | Blob |
+|---|---|---|
+| 06A movements | efe13b420fea3620bc7237dc9219ed73b9cc5555 | 312242f2a8c2fd04a33ba847fca2b413d271179a |
+| 06B FHR | fd560d370e05d327f1a6545cad860eb1d132601c | 26c030b4b5a3395c13266075f33a5a0ca96ed347 |
+| 06C NST | 9438f22ae344af5c4bec3757de00d417943f9eb9 | 1d874a9b3b15532dd6ce9f3e4462d070c39381f3 |
+| 06D CST | ad15588cf8fa375a798160d3e480e8b5cb281ae6 | d46935121c175dd30c7905325d992d58c0d2967c |
+| 06E CTG | 304214325ca478b138a526d251ba81b613e7b72d | 1e3913a8e43693e738a044f6187bb38f3dc3e64f |
+| 06F BPP | cd3fb06160cd4831bb41220be07003e025880184 | 22c2f9cddef10c5e6b071cd2782c28d566e0f2ad |
+| 06G ultrasound | 2b2d4e47240c8a18798803034afca07601eb4492 | ac306180ba42f83281792ed5b5d391156354917a |
+| 06H Doppler | e2d3553499d2cc8598d7b62aba81b533a054a0bb | 5da033de6f67aafe3fa89dcc201a6b53864cb330 |
+
+All 24 authored topic documents had exact remote readbacks. New banks: 17 Easy, 102 Medium, 41 Difficult. Zero structural answer-letter/text/rationale mismatches, 160 hidden details, four distinct options each, zero exact normalized stem overlaps internally or against all 344 earlier Obstetrics originals. All 24 new documents' relative file targets exist in non-truncated main tree. This is structural and targeted semantic review, not complete independent clinical/semantic certification. Prior metadata revisit found 33 Hard labels requiring conversion to standard Difficult after a separate safe claim (05B eight, 05C eleven, 05D fourteen). No earlier bank overwritten. Full cross-chapter semantic review, independent clinical/rationale review, rendered UI and diagram playback pending.
+
+Historical adaptations: HSSC Staff Nurse 2019 quickening; ESIC Staff Nurse 26 Feb 2019 Shift III historical FHR range; AIIMS Bathinda 29 Sep 2019 reported Q91 (source title/body inconsistency); SKAU Staff Nurse 22 Nov 2026 Set C Q62 official paper and provisional key A verified, final key unknown; NORCET 6 Prelims 2024 CTG report; NORCET 9 Mains 27 Sep 2025 BPP reported-key discrepancy explicitly rejected as clinical fact; RMLIMS Lucknow 7 Sep 2025 reported anatomy scan. Six third-party reports, one official-source adaptation, zero newly authenticated final keys. All-India direct official archive completeness remains pending. No defensible Doppler nursing recruitment item located.
+
+Video research: 45 provisional mapped topic/description leads (41 nursing-oriented and 4 supplementary NEET PG MCA leads), 115 original items without specific video mapping, exact playback unverified for all 160. Published chapter/timestamp labels not represented as played questions. Further exact MCQ and dedicated nursing Doppler verification pending.
+
+Chapter navigation exact readback: README d9893242662ddd9310ffc4fb7c5ef15c4c69f2f7 / 1a6787b9717661a9b00ca70a33b6eb31af73f056, coverage map e0f83d24a1d2f9f074b7543d1f237e02467d0ae4 / 85ad13a0d0a19f7bdee3a047da9739dcca24c875, evidence register 9f1a93db646ce1df8bb2ad80696d626309b998c5 / 1a5bace7bff5d5798d17f77ac8441d248ee2daf9. Obstetrics 504 indexed originals and 25 historical adaptations. Concurrent Gynecology README independently read at blob 17539c567382b96b1c998a26276297c2104d0b89: 564 allocated slots and 11 reported adaptations, 39 separately preserved unallocated slots. Combined snapshot 1068 allocated originals and 36 historical adaptations. Of combined increase since prior checkpoint 160 ours and 60 concurrent Gynecology allocations (59 new plus one preserved question allocation). No other claim, automation, PR or schedule edited.
+
+Preflight: current claims/recent commits and existing question banks checked before acquisition. Full fresh root/canonical SKILL, AGENTS, Copilot and 760-line audit learning reread completed during run, after the first movement package, rather than before every first write. Earlier retrieved rules checked before first publication. Two unrelated concurrent branch-head conflicts recovered with fresh claim and target checks, no force writes. At release forward and audit claims active in unrelated Nursing Foundations and imported medical-surgical scopes, reverse/labels/explanation and all ten Gynecology claims free. Preserve all other lanes. Next: normal labor in curriculum order, targeted correction of prior 33 labels with appropriate scope, remaining clinical and semantic audits, official-key and exact-video research. Own claim released.

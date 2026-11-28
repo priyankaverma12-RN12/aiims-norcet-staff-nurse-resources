@@ -389,10 +389,12 @@ D. Start a catheter because the patient cannot announce urgency
 
 **Correct answer: C. Provide planned toileting opportunities around the observed pattern and review outcomes**
 
-- **A — Incorrect:** Leakage ke baad hi toilet offer karna prevention ka opportunity miss karta hai.
-- **B — Incorrect:** Patient ki communication limitation ko dekhte hue independent schedule calculation realistic nahi hai.
-- **C — Correct:** Observed voiding pattern ke around scheduled assistance dene se patient ko timely opportunity milti hai. Outcomes ke basis par schedule adjust karte hain.
-- **D — Incorrect:** Communication problem alone indwelling catheter ka indication nahi hai.
+- **A — Incorrect:** Agar nurse sirf wet episode ke baad toilet offer karti hai, toh pehle se leakage prevent karne ka mauka chhoot jaata hai. Dependent patient ko planned assistance ki zaroorat ho sakti hai.
+- **B — Incorrect:** Patient apni need reliably communicate nahi kar pa raha hai. Isliye usse khud schedule calculate karne ko kehne ke bajay caregiver ko safe toileting plan arrange karna chahiye.
+- **C — Correct (best available option):** Nurse observed voiding pattern ke aas-paas pehle se toilet ki assistance plan karti hai aur phir dekhti hai ki leakage kam hua ya nahi. Is approach ko technically habit training ya habit retraining kehna zyada accurate hai, kyunki schedule patient ke usual pattern par based hai. Timed voiding mein caregiver fixed time intervals par toilet offer karta hai, jaise har do ghante. Dono scheduled toileting ke forms hain, lekin same technique nahi hain. Is question mein C hi preventive scheduled assistance ka option hai. Stem ki strict terminology aur option ki wording perfectly match nahi karti.
+- **D — Incorrect:** Patient ki communication difficulty apne aap mein indwelling catheter ka indication nahi hai. Catheter se infection aur injury ka risk ho sakta hai, isliye nurse individual assessment aur authorized indication ke according decision leti hai.
+
+**Terminology clarification:** [CHSS — scheduled voiding](https://www.chsselearning.org.uk/advancing-modules/04-bladder-and-bowel-rehabilitation-following-stroke/assessment-and-intervention/scheduled-voiding/) aur [Cochrane — timed voiding](https://pmc.ncbi.nlm.nih.gov/articles/PMC6993947/) fixed-interval timed voiding aur individual-pattern habit retraining ko alag batate hain. Original English stem, options aur key learner history ke liye preserve kiye gaye hain. Is item ko exact terminology test ke roop mein use na karein jab tak stem correction separately approve aur validate na ho.
 
 **Clinical reference:** [NIDDK treatment](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/treatment)
 
