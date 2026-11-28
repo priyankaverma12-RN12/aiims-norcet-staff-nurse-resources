@@ -100,26 +100,26 @@
 
 </details>
 
-### Q5. Which preprocedural instruction helps reduce aspiration risk during sedated ERCP?
+### Q5. Which endoscopic accessory can be used to capture and extract a common bile duct stone during therapeutic ERCP?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Eat a large solid meal just before sedation
-- **B.** Drink an unrestricted volume during induction
-- **C.** Ignore the unit fasting schedule if symptoms are mild
-- **D.** Follow the prescribed fasting instructions for food and liquids
+- **A.** Biopsy forceps intended only for mucosal sampling
+- **B.** Injection needle for submucosal therapy
+- **C.** Esophageal dilator
+- **D.** Stone retrieval basket
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: D. Follow the prescribed fasting instructions for food and liquids**
+**Correct: D. Stone retrieval basket**
 
 **Option-wise explanation:**
-- **A (Galat):** Large solid meal gastric contents increase kar sakta hai.
-- **B (Galat):** Induction ke dauran oral intake unsafe ho sakti hai.
-- **C (Galat):** Mild symptoms fasting requirement automatically cancel nahi karte.
-- **D (Sahi):** Fasting instructions gastric contents aur aspiration risk reduce karne ke liye individualized hoti hain. Exact timing procedure and anesthesia team specify karti hai.
+- **A (Galat):** Mucosal biopsy forceps tissue samples collect karne ke liye design hoti hain, routine CBD stone extraction accessory nahi hain.
+- **B (Galat):** Injection needle fluid ya medicine deliver karti hai, duct stone ko capture nahi karti.
+- **C (Galat):** Esophageal dilator narrowing expand karne ke liye use ho sakta hai, CBD stone capture ke liye nahi.
+- **D (Sahi):** Retrieval basket selected duct stones ko capture karke extraction mein help karta hai. Endoscopist stone size aur anatomy ke hisaab se basket, extraction balloon ya other suitable technique choose karta hai.
 
-**Exam clue:** Verify adherence to prescribed fasting.
+**Exam clue:** A stone retrieval basket is a therapeutic ERCP accessory.
 
 </details>
 
