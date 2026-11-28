@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-09b-tb-nutrition-20261128-1155Z
+Scope: Isolated PR35 09B tuberculosis nutrition, concepts, SVG and candidate-local inventory. No shared navigation, adjacent chapter, production or schedule changes.
+Claimed UTC: 2026-11-28T11:55:00Z
+Expiry UTC: 2026-11-28T12:25:00Z
 
 ## Latest released checkpoint — 09A additives, contaminants and residues
 
