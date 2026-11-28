@@ -9,19 +9,19 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Osteoid osteoma
-- **B.** Osteosarcoma
-- **C.** Enchondroma
+- **B.** Enchondroma
+- **C.** Osteosarcoma
 - **D.** Ewing sarcoma
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Osteosarcoma**
+**Correct answer: C. Osteosarcoma**
 
 **A kyun galat hai:** Osteoid osteoma benign bone-forming tumor hai. Yahan malignant cells ki direct osteoid production describe hui hai.
 
-**B kyun sahi hai:** Osteosarcoma mein malignant tumor cells osteoid yani early bone matrix produce karte hain. Pathology finding is diagnosis ka defining clue hai.
+**B kyun galat hai:** Enchondroma benign cartilage-producing tumor hai. Malignant osteoid production uska feature nahi hai.
 
-**C kyun galat hai:** Enchondroma benign cartilage-producing tumor hai. Malignant osteoid production uska feature nahi hai.
+**C kyun sahi hai:** Osteosarcoma mein malignant tumor cells osteoid yani early bone matrix produce karte hain. Pathology finding is diagnosis ka defining clue hai.
 
 **D kyun galat hai:** Ewing sarcoma distinct malignant small round cell tumor hai. Malignant osteoid production iska defining finding nahi hai.
 
@@ -37,22 +37,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Chronic carpal tunnel syndrome
-- **B.** Benign ganglion cyst of the wrist
-- **C.** Osteosarcoma
-- **D.** Uncomplicated ankle sprain
+- **A.** Uncomplicated ankle sprain
+- **B.** Osteosarcoma
+- **C.** Benign ganglion cyst of the wrist
+- **D.** Chronic carpal tunnel syndrome
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Osteosarcoma**
+**Correct answer: B. Osteosarcoma**
 
-**A kyun galat hai:** Carpal tunnel syndrome wrist par median nerve compression hai. Distal femur swelling explain nahi karti.
+**A kyun galat hai:** Ankle sprain ligament injury hai. Persistent distal femur swelling without recovery ko is diagnosis se safely dismiss nahi kar sakte.
 
-**B kyun galat hai:** Wrist ganglion joint ya tendon sheath ke nearby fluid-filled lesion hota hai. Knee ke paas progressive bone-related swelling se fit nahi karta.
+**B kyun sahi hai:** Osteosarcoma adolescents mein long bones ke ends, especially knee ke paas, present ho sakta hai. Symptoms diagnosis confirm nahi karte, lekin prompt imaging aur referral justify karte hain.
 
-**C kyun sahi hai:** Osteosarcoma adolescents mein long bones ke ends, especially knee ke paas, present ho sakta hai. Symptoms diagnosis confirm nahi karte, lekin prompt imaging aur referral justify karte hain.
+**C kyun galat hai:** Wrist ganglion joint ya tendon sheath ke nearby fluid-filled lesion hota hai. Knee ke paas progressive bone-related swelling se fit nahi karta.
 
-**D kyun galat hai:** Ankle sprain ligament injury hai. Persistent distal femur swelling without recovery ko is diagnosis se safely dismiss nahi kar sakte.
+**D kyun galat hai:** Carpal tunnel syndrome wrist par median nerve compression hai. Distal femur swelling explain nahi karti.
 
 **Exam clue:** Adolescent mein persistent progressive pain near knee ko evaluate karvao.
 
@@ -66,18 +66,18 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Ewing sarcoma and infection may overlap clinically, so imaging and appropriate tissue evaluation are needed
-- **B.** Fever establishes bacterial infection in every case
+- **A.** Fever establishes bacterial infection in every case
+- **B.** Ewing sarcoma and infection may overlap clinically, so imaging and appropriate tissue evaluation are needed
 - **C.** Tumors never cause systemic symptoms
 - **D.** A normal temperature on one occasion confirms a benign lesion
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Ewing sarcoma and infection may overlap clinically, so imaging and appropriate tissue evaluation are needed**
+**Correct answer: B. Ewing sarcoma and infection may overlap clinically, so imaging and appropriate tissue evaluation are needed**
 
-**A kyun sahi hai:** Ewing sarcoma fever aur local inflammatory symptoms ke saath present ho sakta hai. Infection se overlap ki wajah se history, imaging aur tissue diagnosis important hote hain.
+**A kyun galat hai:** Fever infection ka clue ho sakta hai, par malignancy aur other inflammatory conditions mein bhi hota hai.
 
-**B kyun galat hai:** Fever infection ka clue ho sakta hai, par malignancy aur other inflammatory conditions mein bhi hota hai.
+**B kyun sahi hai:** Ewing sarcoma fever aur local inflammatory symptoms ke saath present ho sakta hai. Infection se overlap ki wajah se history, imaging aur tissue diagnosis important hote hain.
 
 **C kyun galat hai:** Some tumors systemic symptoms cause kar sakte hain. Symptoms alone disease classify nahi karte.
 
@@ -95,22 +95,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Thyroid as the only relevant organ
-- **B.** Gallbladder in every patient
-- **C.** External auditory canal
-- **D.** Lungs
+- **A.** Lungs
+- **B.** External auditory canal
+- **C.** Gallbladder in every patient
+- **D.** Thyroid as the only relevant organ
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Lungs**
+**Correct answer: A. Lungs**
 
-**A kyun galat hai:** Thyroid possible medical concern ho sakta hai, lekin osteosarcoma ka characteristic distant metastatic target lungs hain.
+**A kyun sahi hai:** Osteosarcoma frequently lungs mein metastasize kar sakta hai. Prescribed chest staging imaging disease extent aur treatment planning mein important hai.
 
-**B kyun galat hai:** Gallbladder routine sole metastatic target nahi hai. Staging protocol disease biology ke according hota hai.
+**B kyun galat hai:** External auditory canal osteosarcoma spread ka characteristic target nahi hai.
 
-**C kyun galat hai:** External auditory canal osteosarcoma spread ka characteristic target nahi hai.
+**C kyun galat hai:** Gallbladder routine sole metastatic target nahi hai. Staging protocol disease biology ke according hota hai.
 
-**D kyun sahi hai:** Osteosarcoma frequently lungs mein metastasize kar sakta hai. Prescribed chest staging imaging disease extent aur treatment planning mein important hai.
+**D kyun galat hai:** Thyroid possible medical concern ho sakta hai, lekin osteosarcoma ka characteristic distant metastatic target lungs hain.
 
 **Exam clue:** Bone sarcoma staging mein lungs ka evaluation high yield hai.
 
@@ -124,22 +124,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** An unplanned biopsy tract may complicate subsequent limb-sparing tumor resection
-- **B.** Any biopsy route is safe as long as the sample is large
-- **C.** Imaging after biopsy is always sufficient for planning
-- **D.** Biopsy location has no relationship to subsequent surgery
+- **A.** Any biopsy route is safe as long as the sample is large
+- **B.** Imaging after biopsy is always sufficient for planning
+- **C.** Biopsy location has no relationship to subsequent surgery
+- **D.** An unplanned biopsy tract may complicate subsequent limb-sparing tumor resection
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. An unplanned biopsy tract may complicate subsequent limb-sparing tumor resection**
+**Correct answer: D. An unplanned biopsy tract may complicate subsequent limb-sparing tumor resection**
 
-**A kyun sahi hai:** Biopsy tract definitive surgery mein remove karna pad sakta hai. Inappropriate route normal compartments contaminate karke limb-sparing options compromise kar sakta hai, isliye specialist planning pehle hoti hai.
+**A kyun galat hai:** Sample size important ho sakti hai, lekin route bhi oncological surgery ke liye critical hai.
 
-**B kyun galat hai:** Sample size important ho sakti hai, lekin route bhi oncological surgery ke liye critical hai.
+**B kyun galat hai:** Suspicious lesion ki imaging generally biopsy se pehle plan ki jaati hai. Baad ki imaging improper tract ka risk undo nahi karti.
 
-**C kyun galat hai:** Suspicious lesion ki imaging generally biopsy se pehle plan ki jaati hai. Baad ki imaging improper tract ka risk undo nahi karti.
+**C kyun galat hai:** Biopsy route future resection field ko affect kar sakta hai. Isliye surgeon aur diagnostic team coordinate karte hain.
 
-**D kyun galat hai:** Biopsy route future resection field ko affect kar sakta hai. Isliye surgeon aur diagnostic team coordinate karte hain.
+**D kyun sahi hai:** Biopsy tract definitive surgery mein remove karna pad sakta hai. Inappropriate route normal compartments contaminate karke limb-sparing options compromise kar sakta hai, isliye specialist planning pehle hoti hai.
 
 **Exam clue:** Suspected bone sarcoma mein imaging aur planned specialist biopsy ka order important hai.
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Increase tumor growth to improve diagnosis
-- **B.** Eliminate the need for imaging
-- **C.** Reduce the risk of a pathological fracture through weakened bone
-- **D.** Guarantee that the tumor will become benign
+- **A.** Guarantee that the tumor will become benign
+- **B.** Reduce the risk of a pathological fracture through weakened bone
+- **C.** Eliminate the need for imaging
+- **D.** Increase tumor growth to improve diagnosis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Reduce the risk of a pathological fracture through weakened bone**
+**Correct answer: B. Reduce the risk of a pathological fracture through weakened bone**
 
-**A kyun galat hai:** Loading restriction ka objective tumor growth increase karna nahi hai. Ye weakened bone protect karti hai.
+**A kyun galat hai:** Activity restriction malignant cells ko benign nahi banati. Tumor-directed treatment separate hai.
 
-**B kyun galat hai:** Protected loading diagnostic imaging ka substitute nahi hai. Extent aur nature of lesion still evaluate hote hain.
+**B kyun sahi hai:** Tumor bone ko weaken kar sakta hai. Prescribed protected weight bearing pathological fracture ka risk reduce karne ke liye hota hai, jo surgical planning affect kar sakta hai.
 
-**C kyun sahi hai:** Tumor bone ko weaken kar sakta hai. Prescribed protected weight bearing pathological fracture ka risk reduce karne ke liye hota hai, jo surgical planning affect kar sakta hai.
+**C kyun galat hai:** Protected loading diagnostic imaging ka substitute nahi hai. Extent aur nature of lesion still evaluate hote hain.
 
-**D kyun galat hai:** Activity restriction malignant cells ko benign nahi banati. Tumor-directed treatment separate hai.
+**D kyun galat hai:** Loading restriction ka objective tumor growth increase karna nahi hai. Ye weakened bone protect karti hai.
 
 **Exam clue:** Weight-bearing bone tumor mein fracture prevention treatment planning protect karti hai.
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Limb preservation is prohibited in all sarcomas
+- **A.** Amputation is selected solely according to patient age
 - **B.** Every tumor can be removed without functional consequences
-- **C.** Amputation is selected solely according to patient age
+- **C.** Limb preservation is prohibited in all sarcomas
 - **D.** Limb-sparing surgery may be possible when adequate tumor removal and useful reconstruction are feasible
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Limb-sparing surgery may be possible when adequate tumor removal and useful reconstruction are feasible**
 
-**A kyun galat hai:** Selected patients mein limb-sparing surgery feasible hoti hai. Oncological safety aur functional outcome consider hote hain.
+**A kyun galat hai:** Age alone surgery type decide nahi karti. Tumor margins, neurovascular involvement, reconstruction aur patient factors matter karte hain.
 
 **B kyun galat hai:** Tumor location aur extent surgery ke baad function affect kar sakte hain. Har case mein full function guarantee nahi hoti.
 
-**C kyun galat hai:** Age alone surgery type decide nahi karti. Tumor margins, neurovascular involvement, reconstruction aur patient factors matter karte hain.
+**C kyun galat hai:** Selected patients mein limb-sparing surgery feasible hoti hai. Oncological safety aur functional outcome consider hote hain.
 
 **D kyun sahi hai:** Adequate cancer clearance ke saath reconstructable useful limb ho toh specialist limb-sparing approach consider kar sakta hai. Other cases mein amputation appropriate ho sakti hai.
 
@@ -240,18 +240,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The remaining 5% viable cells establish that chemotherapy had no effect
-- **B.** A strong histological response that can have favorable prognostic significance, without guaranteeing cure
+- **A.** A strong histological response that can have favorable prognostic significance, without guaranteeing cure
+- **B.** The remaining 5% viable cells establish that chemotherapy had no effect
 - **C.** A reason to stop prescribed postoperative treatment independently
 - **D.** Proof that no further surveillance is needed
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. A strong histological response that can have favorable prognostic significance, without guaranteeing cure**
+**Correct answer: A. A strong histological response that can have favorable prognostic significance, without guaranteeing cure**
 
-**A kyun galat hai:** 95% necrosis ka matlab tumor ka majority portion nonviable ho gaya hai. Remaining viable cells treatment planning ke liye important hain, lekin no response ka conclusion incorrect hai.
+**A kyun sahi hai:** Resected tumor mein high necrosis preoperative chemotherapy response ka marker hai. Osteosarcoma mein 90% ya greater necrosis generally favorable prognostic association rakhti hai, par individual cure guarantee nahi karti.
 
-**B kyun sahi hai:** Resected tumor mein high necrosis preoperative chemotherapy response ka marker hai. Osteosarcoma mein 90% ya greater necrosis generally favorable prognostic association rakhti hai, par individual cure guarantee nahi karti.
+**B kyun galat hai:** 95% necrosis ka matlab tumor ka majority portion nonviable ho gaya hai. Remaining viable cells treatment planning ke liye important hain, lekin no response ka conclusion incorrect hai.
 
 **C kyun galat hai:** Postoperative regimen specialist protocol aur patient-specific risk se decide hota hai. Nurse patient ko independently treatment stop karne ki advice nahi deti.
 
@@ -269,22 +269,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Routine long-term immobilization as definitive treatment
-- **B.** An oral calcium supplement as sole cancer treatment
-- **C.** Radiation therapy according to specialist assessment
-- **D.** Massage over the tumor to destroy malignant cells
+- **A.** Radiation therapy according to specialist assessment
+- **B.** Massage over the tumor to destroy malignant cells
+- **C.** An oral calcium supplement as sole cancer treatment
+- **D.** Routine long-term immobilization as definitive treatment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Radiation therapy according to specialist assessment**
+**Correct answer: A. Radiation therapy according to specialist assessment**
 
-**A kyun galat hai:** Immobilization symptoms ya stability support kar sakti hai, par Ewing sarcoma ka definitive local cancer control nahi hai.
+**A kyun sahi hai:** Ewing sarcoma treatment mein chemotherapy ke saath surgery aur/or radiation local control ke options hain. Site aur morbidity ke according radiation consider ho sakti hai.
 
-**B kyun galat hai:** Calcium nutrition support mein role rakh sakta hai. Malignant cells ko adequately treat nahi karta.
+**B kyun galat hai:** Massage tumor cells eradicate nahi karti aur weakened tissue ko injure kar sakti hai.
 
-**C kyun sahi hai:** Ewing sarcoma treatment mein chemotherapy ke saath surgery aur/or radiation local control ke options hain. Site aur morbidity ke according radiation consider ho sakti hai.
+**C kyun galat hai:** Calcium nutrition support mein role rakh sakta hai. Malignant cells ko adequately treat nahi karta.
 
-**D kyun galat hai:** Massage tumor cells eradicate nahi karti aur weakened tissue ko injure kar sakti hai.
+**D kyun galat hai:** Immobilization symptoms ya stability support kar sakti hai, par Ewing sarcoma ka definitive local cancer control nahi hai.
 
 **Exam clue:** Ewing sarcoma local control mein radiotherapy ka role ho sakta hai.
 
@@ -299,21 +299,21 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Primary osteosarcoma merely because the site is bone
-- **B.** Bone metastasis from breast cancer
-- **C.** Benign osteochondroma
-- **D.** Acute ligament sprain
+- **B.** Benign osteochondroma
+- **C.** Acute ligament sprain
+- **D.** Bone metastasis from breast cancer
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Bone metastasis from breast cancer**
+**Correct answer: D. Bone metastasis from breast cancer**
 
 **A kyun galat hai:** Primary osteosarcoma bone-forming malignant cells se originate karta hai. Breast carcinoma cells bone mein milne se origin automatically change nahi hota.
 
-**B kyun sahi hai:** Metastasis mein original cancer cells distant tissue tak spread karte hain. Bone lesion breast origin ka hai, isliye metastatic breast cancer hai.
+**B kyun galat hai:** Osteochondroma benign bone-cartilage outgrowth hai. Breast carcinoma cells uska pathology nahi hain.
 
-**C kyun galat hai:** Osteochondroma benign bone-cartilage outgrowth hai. Breast carcinoma cells uska pathology nahi hain.
+**C kyun galat hai:** Ligament sprain traumatic soft tissue injury hai. Biopsy-confirmed malignant lesion ko explain nahi karti.
 
-**D kyun galat hai:** Ligament sprain traumatic soft tissue injury hai. Biopsy-confirmed malignant lesion ko explain nahi karti.
+**D kyun sahi hai:** Metastasis mein original cancer cells distant tissue tak spread karte hain. Bone lesion breast origin ka hai, isliye metastatic breast cancer hai.
 
 **Exam clue:** Metastasis ko origin cancer ke naam se identify karte hain.
 
@@ -327,20 +327,20 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Encourage walking to determine whether pain resolves
+- **A.** Assume that tumor pain cannot indicate a new injury
 - **B.** Apply vigorous massage to the thigh
-- **C.** Assume that tumor pain cannot indicate a new injury
+- **C.** Encourage walking to determine whether pain resolves
 - **D.** Protect the limb from loading and arrange urgent assessment for a pathological fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Protect the limb from loading and arrange urgent assessment for a pathological fracture**
 
-**A kyun galat hai:** Possible weakened bone fracture mein walking displacement ya pain worsen kar sakti hai. Pehle urgent assessment chahiye.
+**A kyun galat hai:** Malignancy-related pain pattern change fracture ya complication indicate kar sakta hai. New functional loss ko ignore nahi karna chahiye.
 
 **B kyun galat hai:** Massage potentially unstable fracture site ko aggravate kar sakti hai. Safe support priority hai.
 
-**C kyun galat hai:** Malignancy-related pain pattern change fracture ya complication indicate kar sakta hai. New functional loss ko ignore nahi karna chahiye.
+**C kyun galat hai:** Possible weakened bone fracture mein walking displacement ya pain worsen kar sakti hai. Pehle urgent assessment chahiye.
 
 **D kyun sahi hai:** Minimal force ke baad sudden focal pain aur inability to load pathological fracture suggest karte hain. Nurse limb protect karke urgent imaging assessment arrange karti hai.
 
@@ -385,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Assume every enlarging lesion remains harmless
-- **B.** Apply repeated mechanical pressure to reduce its size
-- **C.** Arrange specialist reassessment for possible complications or malignant transformation
-- **D.** Tell the patient that no follow-up is ever needed for benign tumors
+- **A.** Arrange specialist reassessment for possible complications or malignant transformation
+- **B.** Tell the patient that no follow-up is ever needed for benign tumors
+- **C.** Apply repeated mechanical pressure to reduce its size
+- **D.** Assume every enlarging lesion remains harmless
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Arrange specialist reassessment for possible complications or malignant transformation**
+**Correct answer: A. Arrange specialist reassessment for possible complications or malignant transformation**
 
-**A kyun galat hai:** Skeletal maturity ke baad new enlargement ya pain reassessment demand kar sakta hai. Stable past diagnosis future change ko exclude nahi karta.
+**A kyun sahi hai:** New growth aur pain mechanical complication ya rare malignant change ka concern raise kar sakte hain. Orthopedic tumor specialist assessment appropriate hai.
 
-**B kyun galat hai:** Pressure lesion ko shrink karne ka safe method nahi hai. Nearby tissues compress ya injure ho sakte hain.
+**B kyun galat hai:** Benign lesion ka follow-up symptoms, type aur risk ke according vary karta hai. New changes ignore nahi karne chahiye.
 
-**C kyun sahi hai:** New growth aur pain mechanical complication ya rare malignant change ka concern raise kar sakte hain. Orthopedic tumor specialist assessment appropriate hai.
+**C kyun galat hai:** Pressure lesion ko shrink karne ka safe method nahi hai. Nearby tissues compress ya injure ho sakte hain.
 
-**D kyun galat hai:** Benign lesion ka follow-up symptoms, type aur risk ke according vary karta hai. New changes ignore nahi karne chahiye.
+**D kyun galat hai:** Skeletal maturity ke baad new enlargement ya pain reassessment demand kar sakta hai. Stable past diagnosis future change ko exclude nahi karta.
 
 **Exam clue:** Previously benign lesion mein new growth or pain ko review karvao.
 
@@ -415,21 +415,21 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Chondrosarcoma
-- **B.** Osteoid osteoma
-- **C.** Ewing sarcoma
-- **D.** Simple synovial cyst
+- **B.** Ewing sarcoma
+- **C.** Simple synovial cyst
+- **D.** Osteoid osteoma
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Osteoid osteoma**
+**Correct answer: D. Osteoid osteoma**
 
 **A kyun galat hai:** Chondrosarcoma malignant cartilage-producing tumor hai. Small painful nidus aur characteristic NSAID response osteoid osteoma ko suggest karta hai.
 
-**B kyun sahi hai:** Osteoid osteoma benign bone-forming lesion hai. Night pain aur NSAID response classical clues hain, although imaging and clinical evaluation confirm karte hain.
+**B kyun galat hai:** Ewing sarcoma malignant tumor hai aur systemic or local symptoms cause kar sakta hai. Described nidus pattern typical nahi hai.
 
-**C kyun galat hai:** Ewing sarcoma malignant tumor hai aur systemic or local symptoms cause kar sakta hai. Described nidus pattern typical nahi hai.
+**C kyun galat hai:** Synovial cyst joint-related fluid lesion hota hai. Intraosseous nidus ka description match nahi karta.
 
-**D kyun galat hai:** Synovial cyst joint-related fluid lesion hota hai. Intraosseous nidus ka description match nahi karta.
+**D kyun sahi hai:** Osteoid osteoma benign bone-forming lesion hai. Night pain aur NSAID response classical clues hain, although imaging and clinical evaluation confirm karte hain.
 
 **Exam clue:** Osteoid osteoma ka classical clue night pain relieved by NSAIDs hai.
 
@@ -443,22 +443,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Osteochondroma on the external bone surface
+- **A.** Avascular necrosis
 - **B.** Osteosarcoma producing malignant osteoid
-- **C.** Avascular necrosis
-- **D.** Enchondroma
+- **C.** Enchondroma
+- **D.** Osteochondroma on the external bone surface
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Enchondroma**
+**Correct answer: C. Enchondroma**
 
-**A kyun galat hai:** Osteochondroma usually bone surface se cartilage-capped outgrowth hota hai. Medullary cartilage lesion ka term enchondroma hai.
+**A kyun galat hai:** Avascular necrosis blood supply loss se bone death hai. Ye cartilage neoplasm nahi hai.
 
 **B kyun galat hai:** Osteosarcoma malignant osteoid produce karta hai. Benign hyaline cartilage tumor se different hai.
 
-**C kyun galat hai:** Avascular necrosis blood supply loss se bone death hai. Ye cartilage neoplasm nahi hai.
+**C kyun sahi hai:** Enchondroma benign cartilage-producing tumor hai jo bone ke andar develop karta hai. Hand bones common location ho sakti hain.
 
-**D kyun sahi hai:** Enchondroma benign cartilage-producing tumor hai jo bone ke andar develop karta hai. Hand bones common location ho sakti hain.
+**D kyun galat hai:** Osteochondroma usually bone surface se cartilage-capped outgrowth hota hai. Medullary cartilage lesion ka term enchondroma hai.
 
 **Exam clue:** Enchondroma = cartilage tumor within bone.
 
@@ -472,18 +472,18 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Some giant cell tumors are locally aggressive and may recur
-- **B.** All benign tumors are necessarily cured after one dressing
+- **A.** All benign tumors are necessarily cured after one dressing
+- **B.** Some giant cell tumors are locally aggressive and may recur
 - **C.** A benign lesion cannot destroy surrounding bone
 - **D.** Follow-up is useful only if a new unrelated cancer is diagnosed
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Some giant cell tumors are locally aggressive and may recur**
+**Correct answer: B. Some giant cell tumors are locally aggressive and may recur**
 
-**A kyun sahi hai:** Giant cell tumor generally benign classification mein aa sakta hai lekin local bone destruction aur recurrence risk hota hai. Follow-up clinical aur imaging review important hai.
+**A kyun galat hai:** Dressing wound cover karti hai, tumor recurrence risk establish ya eliminate nahi karti.
 
-**B kyun galat hai:** Dressing wound cover karti hai, tumor recurrence risk establish ya eliminate nahi karti.
+**B kyun sahi hai:** Giant cell tumor generally benign classification mein aa sakta hai lekin local bone destruction aur recurrence risk hota hai. Follow-up clinical aur imaging review important hai.
 
 **C kyun galat hai:** Benign histology local aggressive behavior ko exclude nahi karti. Giant cell tumor adjacent bone damage kar sakta hai.
 
@@ -501,22 +501,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Enchondroma
+- **A.** Osteochondroma
 - **B.** Osteoid osteoma
 - **C.** Chondrosarcoma
-- **D.** Osteochondroma
+- **D.** Enchondroma
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Chondrosarcoma**
 
-**A kyun galat hai:** Enchondroma benign cartilage tumor hai. Malignant cartilage-producing lesion se distinguish karne ke liye specialist pathology aur imaging correlation chahiye.
+**A kyun galat hai:** Osteochondroma benign cartilage-capped bony outgrowth hota hai. Malignant cartilage-producing tumor ka appropriate term chondrosarcoma hai.
 
 **B kyun galat hai:** Osteoid osteoma benign bone-forming lesion hai. Malignant cartilage production iska mechanism nahi hai.
 
 **C kyun sahi hai:** Chondrosarcoma malignant cartilage-producing tumor hai. Histological subtype aur grade treatment planning guide karte hain.
 
-**D kyun galat hai:** Osteochondroma benign cartilage-capped bony outgrowth hota hai. Malignant cartilage-producing tumor ka appropriate term chondrosarcoma hai.
+**D kyun galat hai:** Enchondroma benign cartilage tumor hai. Malignant cartilage-producing lesion se distinguish karne ke liye specialist pathology aur imaging correlation chahiye.
 
 **Exam clue:** Malignant cartilage production chondrosarcoma ko support karti hai.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Stop follow-up once the surgical wound closes
+- **A.** Use home pain scores as the only measure of recurrence
 - **B.** Attend only if severe pain returns
-- **C.** Use home pain scores as the only measure of recurrence
-- **D.** Attend the planned clinical and imaging follow-up to detect recurrence or treatment-related complications
+- **C.** Attend the planned clinical and imaging follow-up to detect recurrence or treatment-related complications
+- **D.** Stop follow-up once the surgical wound closes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Attend the planned clinical and imaging follow-up to detect recurrence or treatment-related complications**
+**Correct answer: C. Attend the planned clinical and imaging follow-up to detect recurrence or treatment-related complications**
 
-**A kyun galat hai:** Wound closure local healing indicate karti hai, cancer recurrence risk khatam hona nahi. Oncology surveillance continue hoti hai.
+**A kyun galat hai:** Pain score useful symptom information hai, lekin local aur distant disease surveillance replace nahi karta.
 
 **B kyun galat hai:** Some recurrence imaging par symptoms se pehle detect ho sakti hai. Severe pain ka wait appropriate nahi hai.
 
-**C kyun galat hai:** Pain score useful symptom information hai, lekin local aur distant disease surveillance replace nahi karta.
+**C kyun sahi hai:** Disease-specific follow-up recurrence, metastasis aur treatment effects monitor karne mein help karta hai. New symptoms planned visit se pehle bhi report karne chahiye.
 
-**D kyun sahi hai:** Disease-specific follow-up recurrence, metastasis aur treatment effects monitor karne mein help karta hai. New symptoms planned visit se pehle bhi report karne chahiye.
+**D kyun galat hai:** Wound closure local healing indicate karti hai, cancer recurrence risk khatam hona nahi. Oncology surveillance continue hoti hai.
 
 **Exam clue:** Cancer treatment completion ke baad scheduled surveillance important hai.
 
