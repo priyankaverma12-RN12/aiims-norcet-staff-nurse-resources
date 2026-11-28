@@ -238,13 +238,13 @@
 
 **B. Kyun galat hai:** Opposite wrist normal range dikha sakti hai, lekin repaired side ki permitted range alag ho sakti hai.
 
-**C. Kyun sahi hai:** Repair-specific plan healing tissue ko excess load se protect karta hai. Nurse permitted movement confirm karke exercise de aur ambiguity ho toh team se clarify kare.
+**C. Kyun sahi hai:** Repair ke baad tendon ko heal hone ke liye protection chahiye. Galat movement ya excessive load se repair damage ho sakta hai. Lekin prescribed controlled exercises stiffness kam karne mein madad kar sakti hain. Nurse surgeon aur hand therapist ka current plan verify karke permitted range mein exercise karaye. Agar order unclear hai, toh movement badhane se pehle team se clarify kare.
 
 **D. Kyun galat hai:** Previous admission mein tissue status different ho sakta tha. Current surgery aur prescription review karo.
 
 **Exam clue:** Post-repair movement range individual order se decide hoti hai.
 
-**Clinical reference:** [StatPearls Goniometer, positioning and technique](https://www.ncbi.nlm.nih.gov/books/NBK558985/).
+**Clinical reference:** [South Tees Hospitals NHS Foundation Trust, extensor tendon repair rehabilitation](https://www.southtees.nhs.uk/resources/advice-and-exercises-following-your-extensor-tendon-repair/).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
