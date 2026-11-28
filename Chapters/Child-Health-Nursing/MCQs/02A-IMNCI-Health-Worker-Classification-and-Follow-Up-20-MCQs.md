@@ -240,7 +240,7 @@
 
 ### Q10. A clinically stable 11-kg child has already been classified as having some dehydration and is suitable for supervised oral rehydration. What approximate initial ORS volume is calculated for four hours using the 2023 IMNCI Plan B formula?
 
-**Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** IMNCI health-worker assessment and follow-up | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** IMNCI health-worker assessment and follow-up | **Type:** Original
 
 - **A.** 275 mL
 - **B.** 825 mL
