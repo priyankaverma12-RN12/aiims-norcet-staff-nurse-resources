@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr61-b08-20261128-1219Z
-Scope: PR61 Batch08: dengue/chikungunya community vector programme (not clinical treatment), maternal programme entitlements, newborn facility-service organization, health planning committees, JE surveillance/vaccination programme only distinct from PR66 clinical bank. Exclude PR39 NPHCE and PR35 nutrition programmes; no PR62/shared navigation writes.
-Claimed UTC: 2026-11-28T12:19:24Z
-Expiry UTC: 2026-11-28T12:49:24Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -56,3 +56,8 @@ PR62 head `436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5`. Added 100 original MCQs, 4
 ## PR61 Batch 07 checkpoint — 28 November 2026
 
 PR61 verified head `2dfba05bd2db59fe0cb439be51366e11c1e01d56`. Added five actual topic banks, 100 original MCQs, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 49 Medium, 43 Difficult. Cumulative 700 staged originals, 2800 rationales, 35 banks, 52 Easy/341 Medium/307 Difficult. Exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 604 prior PR61/legacy and 200 PR62 stems. Git compare verified all 30 prior banks unchanged. PR62 handoff comment 7238748603 read and reserved scopes excluded. PR62 head at inspection 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5. No new live credit, mocks or PYQs. Research DGHS, IDSP, NHM and WHO; alternative DGHS NPPC page failed, NHM and WHO references used. Full independent clinical/semantic/difficulty and item-level source review, curriculum, concept/diagram/video, navigation and CI release gates pending. Next verify remaining distinct curriculum gaps and coordinate PR62 overlap resolution before mocks. Avoid repeated audits. Preserve all other sessions and five schedules.
+
+
+## PR61 Batch 08 checkpoint — 28 November 2026
+
+PR61 verified head `2462be3a9491bc6861d27ec178e232487f8f0105`. Added five actual topic banks (dengue/chikungunya community control, JE programme surveillance, maternal entitlements, FBNC facility organization, Indian health planning committees), 100 original MCQs, 400 individual Roman Hinglish rationales and 100 clues. Each bank 7 Easy/7 Medium/6 Difficult, batch total 35/35/30. Cumulative 800 staged originals, 3200 rationales, 40 banks, 87 Easy/376 Medium/337 Difficult. Exact readbacks and incremental structure checks passed, 100 distinct new normalized stems, zero exact matches against 704 prior PR61/legacy and 200 PR62 stems. Compare verified all 35 previous banks unchanged. PR39 NPHCE and PR35 nutrition programme scopes deferred due to existing banks; PR66 JE clinical stems screened and public-health focus retained. PR62 handoff 7238748603 read, head 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5. No new live credit, mocks or PYQs. Official NCVBDC, WHO, NHM and NIHFW sources retrieved and linked; item-level evidence, independent clinical/semantic/difficulty review, curriculum, concepts/diagrams/videos, CI and navigation pending. Prior banks remain Easy-deficient; coordinate balancing lane. Verify genuine remaining curriculum gaps and reconcile PR62 before mocks, then exactly 40/40/40 per 120-question original-only mock. Preserve all other sessions and five schedules; avoid repeated audits.
