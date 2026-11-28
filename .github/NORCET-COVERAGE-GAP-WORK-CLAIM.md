@@ -1,7 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-034158
+Scope: Hematology only, iron deficiency anemia bank and subsequent anemia banks if validated, local inventory and evidence. No shared navigation or other jobs.
+Claimed UTC: 2026-11-28T03:41:58Z
+Expiry UTC: 2026-11-28T04:11:58Z
 
 Last owner: coverage-gap-hematology-20261128-032650
 Last scope: Hematology and Blood Disorders only. Released after verified Run 2 writes.
