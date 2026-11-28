@@ -6,7 +6,7 @@
 
 ### Q1. A new handover protocol has no real effect on omitted information, but a study concludes that it reduces omissions. Which statistical error occurred?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Type II error
 - **B.** Sampling frame error
@@ -31,7 +31,7 @@
 
 ### Q2. A genuinely beneficial discharge intervention is tested in a small study, and the investigators fail to detect its effect. Which error is illustrated if the specified null hypothesis is false?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Type II error
 - **B.** Type I error
@@ -206,7 +206,7 @@
 
 ### Q9. Three independent training groups have continuous normally distributed scores with approximately equal population variances. Which omnibus test assesses whether any group means differ?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Three unadjusted pairwise t tests
 - **B.** Paired t test
@@ -231,7 +231,7 @@
 
 ### Q10. After a significant one-way ANOVA across four nursing-training methods, what is needed to identify which specific groups differ while addressing multiple comparisons?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Declare all six pairs significantly different
 - **B.** Appropriate adjusted post-hoc comparisons
@@ -281,7 +281,7 @@
 
 ### Q12. A 2 × 2 table of independent participants has very sparse expected counts. Which alternative is particularly appropriate for testing association?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Fisher exact test
 - **B.** Paired t test
@@ -306,7 +306,7 @@
 
 ### Q13. The same patients report whether they can independently perform a task before and after training. Which test examines change in these paired binary responses?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Pearson chi-square treating observations as independent
 - **B.** Welch t test
@@ -331,7 +331,7 @@
 
 ### Q14. An ordinal symptom severity score is recorded in two independent groups, with markedly nonnormal distributions. Which rank-based test is commonly used to compare the distributions?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Wilcoxon signed-rank test
 - **B.** Mann–Whitney U test
@@ -381,7 +381,7 @@
 
 ### Q16. In a simple regression, predicted documentation time in minutes = 3 + 0.5 × number of tasks. What does the slope 0.5 represent?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Predicted documentation time increases by 0.5 minute per additional task
 - **B.** Documentation always takes exactly 0.5 minute
@@ -406,7 +406,7 @@
 
 ### Q17. In a trial, 12 of 120 intervention patients and 24 of 120 control patients develop a specified complication. What is the risk ratio for intervention versus control?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 2.00
 - **B.** 0.10
@@ -431,7 +431,7 @@
 
 ### Q18. A prevention programme reduces a specified event risk from 18% to 12% over six months. What is the absolute risk reduction?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** 33.3 percentage points
 - **B.** 6 percentage points
