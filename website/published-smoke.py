@@ -122,7 +122,7 @@ with sync_playwright() as p:
         expect(records).to_have_count(len(chapter["records"]))
         actual=records.evaluate_all("""els=>els.map(e=>({path:new URL(e.href).searchParams.get('doc'),slots:Number(e.querySelector('.metric-record-count strong').textContent.replace(/,/g,''))}))""")
         assert actual==[{"path":r["path"],"slots":r["slots"]} for r in chapter["records"]]
-        assert records.first.evaluate("""e=>{const s=getComputedStyle(e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&s.textDecorationLine==='none'}""")
+        assert records.first.evaluate("""e=>{const s=getComputedStyle(e.closest('.tracked-resource-card')||e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&getComputedStyle(e).textDecorationLine==='none'}""")
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==(1 if width<900 else 2)
         expect(records.first.locator(".metric-record-title")).to_be_visible()
         expect(records.first.locator(".metric-record-count")).to_be_visible()

@@ -130,7 +130,9 @@ function inventoryText(p){
 function addInventoryCount(target,p){
  const text=inventoryText(p);if(text)target.append(node('span',text,'resource-question-count'));return target;
 }
-function liveProgressRefresh(fn,element){fn();document.addEventListener('study-progress-change',()=>{if(element.isConnected)fn()});}
+const progressRefreshers=new Map();
+function liveProgressRefresh(fn,element){fn();for(const el of progressRefreshers.keys())if(!el.isConnected&&el.dataset.mounted==='true')progressRefreshers.delete(el);progressRefreshers.set(element,fn);queueMicrotask(()=>{if(element.isConnected)element.dataset.mounted='true';else progressRefreshers.delete(element)})}
+if(typeof document!=='undefined')document.addEventListener('study-progress-change',()=>{for(const [el,fn] of progressRefreshers){if(el.isConnected)fn();else progressRefreshers.delete(el)}});
 function resourceCardWithProgress(anchor,p,options={}){
  const r=progressCatalog?.find(x=>x.path===p);
  if(!r){if(options.count!==false)addInventoryCount(anchor,p);return anchor}

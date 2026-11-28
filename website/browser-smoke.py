@@ -72,7 +72,7 @@ try:
         for record in chapter["records"]:
             target=records.filter(has=page.locator(".metric-record-title",has_text=record["title"]))
             assert any(parse_qs(urlsplit(href).query).get("doc")==[record["path"]] for href in target.evaluate_all("(els)=>els.map(e=>e.href)")),record["path"]
-        assert records.first.evaluate("""e=>{const s=getComputedStyle(e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&s.textDecorationLine==='none'}""")
+        assert records.first.evaluate("""e=>{const s=getComputedStyle(e.closest('.tracked-resource-card')||e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&getComputedStyle(e).textDecorationLine==='none'}""")
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
         # The count is inside the anchor, so a tap anywhere opens the correct document.
         target_href=records.first.get_attribute("href")

@@ -117,3 +117,5 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 .metric-records>.tracked-resource-card,.recent-grid>.tracked-resource-card,.index-link-list>.tracked-resource-card{margin:0}.tracked-resource-card .metric-record{min-height:88px}
 .study-ui .index-link-list .tracked-resource-card>a{padding:.7rem .8rem}.study-ui .tracked-resource-status input{width:20px;min-height:0;padding:0}.study-ui .tracked-resource-status label{margin:0}.reader-progress-link{display:inline-block;font-size:.8rem;min-height:44px;align-content:center}
 @media(max-width:600px){.tracked-resource-card .tracked-resource-status{padding:.45rem .65rem .25rem}.chapter-links a{flex-basis:42%}.chapter-card-progress{padding:.55rem .85rem}.tracked-resource-line{font-size:.72rem}}
+
+.tracked-resource-card .completion-check input{min-height:0;padding:0}.chapter-links a>.resource-question-count{white-space:normal}.chapter-card .chapter{min-width:0}.chapter-card .chapter>div{min-width:0}
