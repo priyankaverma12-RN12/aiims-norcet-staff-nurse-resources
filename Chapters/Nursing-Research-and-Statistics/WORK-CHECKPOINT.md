@@ -1,10 +1,9 @@
 # Nursing Research and Statistics — isolated work checkpoint
 
-State: CLAIMED (CANDIDATE ONLY)
-Owner: nursing-research-batch07-20261128-0734Z
-Claimed UTC: 2026-11-28T07:34:40Z
-Expiry UTC: 2026-11-28T08:04:40Z
-Current scope: banks 05 and 06 candidate-only corrective review
+State: RELEASED (CANDIDATE ONLY)
+Last owner: nursing-research-batch07-20261128-0734Z
+Prior claim UTC: 2026-11-28T07:34:40Z
+Prior expiry UTC: 2026-11-28T08:04:40Z
 Last owner: nursing-research-batch06-20261128-0729Z
 Prior claim UTC: 2026-11-28T07:29:39Z
 Prior expiry UTC: 2026-11-28T07:59:39Z
@@ -88,3 +87,13 @@ Preflight: chapter selected provisionally from visible claims, branches and PRs.
 - Untruncated tree comparison at latest inspected main 20487aaac12da59afd66a1eb3cb4f63d16509577 and candidate 7aecac527a46b93e8b9434bf74926672e41bc906: no removed prior chapter files, no missing main-only chapter files, no divergent shared chapter blobs. Other 13 topic banks, all six concept guides, six diagrams, INC ledger, prior audits and legacy/PYQ files preserved. PR7/8/12 exact path overlap zero at inspection. PR8 clearance request 7235943635 remains unanswered, PR12 disjoint. No shared navigation changes.
 - Audit ledger 7fb00887531cba72fc037eb48911460da4a1dcb8 and index 937d1de1ef00df35b7c58cea57639d4b37e9c281 exact readbacks passed. Candidate unchanged: 300 staged original slots and 1200 rationales, four legacy originals and three reported adaptations = 307 slots. No added mocks, PYQs or main publication. No changes to other jobs, learner history or automation schedules. Own lease released.
 - Next sequential review banks 05 and 06 Q1–20 each, preserve completed 01–04 review, Batch04/05/06 corrections and local rendered diagram evidence. Complete outstanding full bounded preflight, independent review, INC curriculum depth, exact source/video gaps and PR8 clearance, then safe integration and two mutually distinct original-only 120-question mocks per batch. Do not pad topic-bank counts or claim publication before gates pass.
+
+
+## Batch 07 measurement rigor and descriptive statistics corrective review — 28 November 2026
+
+- Initial main 97181b66c49362b4007d92aed76eccf81c278267 and released PR37 a25bfdc26e4ab21e7462c458351ecd02f317b481 verified. All 26 claim/checkpoint headers inspected, Child Health and forward Foundations active but disjoint. Lease b0165d2c9f324d81358308999ac477d76c2e5d33 exact readback. Latest PR36 reconciliation sections in both skills, AGENTS and Copilot read, audit file blob retrieved; full bounded preflight not certified.
+- Reviewed Bank05 and Bank06 Q1–20 each. Three revised stems replace overlapping tasks with SDC measurement-error interpretation, bar-chart baseline distortion and variance unit conversion. Improved kappa, alpha, validity, qualitative rigor distractors and explanations, numerical formulas and percentile/CV assumptions. All 40 positions and keys preserved, 160 rationales retained, 40 exam clues and 40 related references added. No difficulty change. Bank05 e5bfa310e343c8aec985bc8f829985f28915f4a6, bank06 d96fd5e55e1f4ad880f3682f2e87be7e828420ea and final source verification 74a5cc803a8687356d278dedade70d7339fec42e. Exact remote readbacks and changed-bank structural checks passed. Numerical computations independently recalculated, including pooled mean 5.8, sample variance 11.5, CV 20%/15%, upper outlier fence 30, variance conversion 14400.
+- COSMIN direct taxonomy, OpenStax chapters 2.1–2.7 and 6.1, NIST CV, UK government chart guidance and Penn State variance scaling retrieved; qualitative rigor and some psychometric full texts blocked, indexed evidence and limits recorded. Practice-video description lead retrieved, direct watch cache miss, exact mapping unresolved. INC measurement/analysis depth improved without padding; existing curriculum ledger and six rendered diagrams preserved. Official PDF visual inspection not repeated.
+- Compared 80 adjacent headings, seven preserved legacy/adapted items and 40 PR40 headings. Targeted overlap corrections made, exhaustive independent semantic certification remains pending. Latest inspected main 26170c3a8c3994f05f6ca155341dcdb765369100 and candidate d96fd5e55e1f4ad880f3682f2e87be7e828420ea tree comparison shows no missing main chapter paths, divergent shared chapter blobs or removed earlier files. All other 13 banks and prior concept/diagram/audit files unchanged. PR7/8/12 exact file overlaps zero. PR8 clearance request 7235943635 remains unanswered; repository-wide comment 7235995036 requests clearance, does not grant it. 
+- Audit e706653722c84612521ab7b34006b5b0845366c8 and index 9224dadea5977662dfdf43ea5a365503c94a3185 exact readbacks passed. Candidate counts unchanged: 300 staged originals, 1200 rationales, four legacy originals, three reported adaptations = 307 slots. Prior full structural audit preserved by blob comparison and changed-bank verification. No live publication or mock/PYQ additions. Own claim released, no other job, learner history or schedule changes.
+- Next sequential review banks 07/08 Q1–20, preserve earlier completed corrections including Batch04 ethics Q3/7/19 and Bank01–06 reviews. Complete preflight, source/semantic review, INC depth, video evidence and PR8 clearance before integration and two distinct 120-item original-only mocks. Do not repeat completed diagram rendering or pad topic counts.
