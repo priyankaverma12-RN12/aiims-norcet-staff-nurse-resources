@@ -21,9 +21,11 @@
 
 **B. Kyun galat hai:** Teen episodes ka annual criterion alag hai. Do symptomatic episodes chhe mahine mein ho jaayein toh bhi assessment justified hai.
 
-**C. Kyun sahi hai:** Do symptomatic episodes chhe mahine ke andar aaye hain. Isliye recurrence ki assessment aur prevention par baat karna reasonable hai.
+**C. Kyun sahi hai:** Do symptomatic episodes chhe mahine ke andar aaye hain aur patient har baar recover hui hai. Isliye recurrent UTI ka assessment reasonable hai. Nurse dates, symptoms aur available culture records confirm karke clinician ke saath prevention options discuss kar sakti hai. Teen episodes ka annual criterion ek alternative hai, compulsory additional condition nahi.
 
 **D. Kyun galat hai:** Ek saal mein teen episodes alternate threshold hai. Is patient ne shorter six-month criterion already meet kar liya hai.
+
+**Exam clue:** Exam mein do symptomatic episodes chhe mahine ke andar ya teen episodes ek saal mein milte hain, toh recurrent UTI ka assessment socho. Fever hona har episode ke liye compulsory nahi hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -48,11 +50,13 @@
 
 **A. Kyun galat hai:** Recent prescription se causative bacteria ya susceptibility establish nahi hoti. Pehle ye clarify karo ki symptoms bacterial infection se related the ya nahi.
 
-**B. Kyun sahi hai:** Symptoms aur cultures ko saath dekhne se clinician bacterial episodes ko doosri causes se alag kar sakta hai. Isse unnecessary prophylaxis se bachne mein madad milti hai.
+**B. Kyun sahi hai:** Jab symptoms aur microbiology ko saath dekha jaata hai, toh clinician bacterial cystitis ko asymptomatic bacteriuria aur doosri urinary complaints se alag kar sakta hai. Alag episodes aur unke beech recovery ka history bhi helpful hai. Isse bina established indication ke long-term prophylaxis shuru karne se bach sakte hain.
 
 **C. Kyun galat hai:** Bina urinary symptoms ke positive culture ASB ho sakti hai. Is result ko recurrent symptomatic infection ka proof nahi bana sakte.
 
 **D. Kyun galat hai:** Antibiotic courses kabhi ek hi persistent episode ya noninfectious symptoms ke liye bhi diye ja sakte hain. Isliye distinct episodes ka history verify karna zaroori hai.
+
+**Exam clue:** Antibiotic courses mat gino. Alag symptomatic infections ka history aur available culture evidence jodo, kyunki asymptomatic culture recurrence ka proof nahi hota.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -75,13 +79,15 @@
 
 **Correct answer: A. Consider increasing water intake**
 
-**A. Kyun sahi hai:** Jab daily water intake kam hota hai, toh suitable patient mein paani badhane se recurrence kam ho sakti hai. Individual tolerance bhi check karo.
+**A. Kyun sahi hai:** AUA 2025 ke according jab suitable woman ka daily water intake 1.5 litre se kam ho, toh water intake badhane par counseling consider ki ja sakti hai. Regular hydration se future cystitis episodes kam ho sakte hain, lekin har patient ke liye benefit guarantee nahi hai. Nurse ko fluid restriction, tolerance aur practical access bhi dekhna chahiye.
 
 **B. Kyun galat hai:** Cranberry ek additional prevention option ho sakta hai. Lekin is patient ki low water intake ko ignore karna indicated counseling ko miss karega.
 
 **C. Kyun galat hai:** Frequency temporarily troublesome ho sakti hai, lekin fluid restriction bina medical indication ke recurrence prevention ka recommended approach nahi hai.
 
 **D. Kyun galat hai:** Increased hydration ka preventive effect episodes ke beech regular intake maintain karne se related hai. Acute episode ka treatment alag decision hai.
+
+**Exam clue:** Jab low water intake aur fluid restriction na hone ka clue mile, toh regular water intake badhane ki individualized counseling par dhyan do.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -110,7 +116,9 @@
 
 **C. Kyun galat hai:** Urinary frequency kam karna recurrence prevention ka main target nahi hai. Excessive restriction dehydration aur kidney perfusion ki problems badha sakti hai.
 
-**D. Kyun sahi hai:** Pehle heart failure ka fluid plan dekho. Prevention advice ko patient ki volume status aur treating team ki recommendation ke hisaab se adjust karna chahiye.
+**D. Kyun sahi hai:** Heart failure mein body extra fluid handle nahi kar paati toh pulmonary congestion aur breathlessness badh sakti hai. Isliye nurse ko existing fluid allowance, edema, weight aur respiratory symptoms ka context dekhna chahiye. UTI prevention ki hydration advice treating team ke individualized plan ke andar hi adjust honi chahiye.
+
+**Exam clue:** Heart failure mein fixed high-fluid target lagane se congestion badh sakta hai. Hydration advice dene se pehle prescribed fluid allowance aur volume status check karo.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -135,11 +143,13 @@
 
 **A. Kyun galat hai:** Daily antibiotics selected patients mein useful ho sakte hain, lekin pehle modifiable risk factor ko address karne se unnecessary antibiotic exposure avoid ho sakta hai.
 
-**B. Kyun sahi hai:** Spermicide recurrent cystitis ka modifiable risk factor ho sakta hai. Contraceptive needs preserve karte hue alternative discuss karna useful hai.
+**B. Kyun sahi hai:** Spermicide exposure recurrent cystitis ka modifiable risk factor ho sakta hai, kyunki vaginal microbial environment aur bacterial colonization mein changes aa sakte hain. Nurse patient ki pregnancy-prevention needs aur preferences samajh kar suitable nonspermicidal contraception discuss kar sakti hai. Contraceptive protection bina alternative ke abruptly discontinue karne ki advice nahi deni chahiye.
 
 **C. Kyun galat hai:** Intercourse ka timing change karne se spermicide-related risk necessarily remove nahi hota. Contraceptive suitability aur alternative product discuss karna zyada relevant hai.
 
 **D. Kyun galat hai:** Sirf brand change karna exposure eliminate nahi karta. Patient ki contraceptive preference ke hisaab se nonspermicidal option discuss karna chahiye.
+
+**Exam clue:** Jab symptoms kisi naye contraceptive exposure ke baad repeat hon, toh pehle modifiable risk factor aur suitable alternatives discuss karo. Har recurrence mein daily antibiotic se shuru karna zaroori nahi hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -166,9 +176,11 @@
 
 **B. Kyun galat hai:** Medicine timing adherence assess karne mein useful hai. Lekin symptoms ki timing missing ho toh activity aur recurrence ka relation establish karna mushkil hai.
 
-**C. Kyun sahi hai:** Diary mein symptoms, dates, culture aur possible triggers likhne se pattern samajh aata hai. Isse targeted prevention decide karne mein help mil sakti hai.
+**C. Kyun sahi hai:** Patient agar symptoms ki date, possible activity, culture result aur recovery record kare, toh repeated temporal pattern identify karne mein help milti hai. Is pattern se clinician samajh sakta hai ki prevention kisi particular trigger ke saath link karna feasible hai ya nahi. Diary possible association batati hai, causation ka final proof nahi.
 
 **D. Kyun galat hai:** Ek coincidence ko established trigger nahi samajhna chahiye. Repeated episodes ka pattern future targeted prevention ko inform karta hai.
+
+**Exam clue:** Trigger-based prevention ke liye symptom dates aur activities ka repeated pattern dekho. Sirf culture report se trigger ka timing pata nahi chalta.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -199,6 +211,8 @@
 
 **D. Kyun galat hai:** Culture agent selection mein useful hai, lekin prevention strategy decide karte waqt predictable trigger, adverse effects aur preferences bhi matter karte hain.
 
+**Exam clue:** Agar current infection treat ho chuki hai aur episodes predictable trigger ke baad hote hain, toh clinician-directed single-dose prophylaxis ko daily prophylaxis se alag pehchano.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -226,7 +240,9 @@
 
 **C. Kyun galat hai:** Methenamine jaise urinary antiseptic urine ke environment mein act karte hain. Vaginal estrogen ka mechanism local vaginal changes se related hai.
 
-**D. Kyun sahi hai:** Menopause ke baad estrogen kam hone se local tissue aur vaginal flora change ho sakte hain. Local estrogen suitable patient mein in changes ko address karke recurrence kam karne mein madad kar sakta hai.
+**D. Kyun sahi hai:** Menopause ke baad estrogen kam hone se vaginal epithelium, jo local protective tissue hai, aur normal Lactobacillus flora mein changes ho sakte hain. Isse bacterial colonization ka risk badh sakta hai. Suitable patient mein prescribed local vaginal estrogen is environment ko support karke recurrent cystitis ka risk kam kar sakta hai. Ye active bacterial UTI ka antibiotic treatment nahi hai.
+
+**Exam clue:** Menopause ke baad local vaginal tissue aur flora mein changes ho sakte hain. Local estrogen ka preventive role isi environment se related hai, urine mein antibiotic level badhane se nahi.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -256,6 +272,8 @@
 **C. Kyun galat hai:** Zyada systemic exposure ka matlab better UTI prevention nahi hai. Local vaginal treatment ke preventive evidence aur systemic HRT ke risk profile ko alag samjho.
 
 **D. Kyun galat hai:** Systemic HRT aur low-dose vaginal estrogen alag routes hain. Systemic route ki restriction ka matlab local option bhi contraindicated hai, aisa nahi hai.
+
+**Exam clue:** NICE ke exam question mein vaginal estrogen aur systemic HRT ko alag rakho. Sirf UTI prevention ke liye systemic HRT start karna recommended nahi hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -311,11 +329,13 @@
 
 **A. Kyun galat hai:** Phenazopyridine burning kam karne wala urinary analgesic hai. Ye recurrent bacterial cystitis ko prevent karne ka established long-term alternative nahi hai.
 
-**B. Kyun sahi hai:** Methenamine hippurate selected patients mein daily antibiotic prophylaxis ka alternative ho sakta hai. Pehle current infection treat honi chahiye aur suitability assess honi chahiye.
+**B. Kyun sahi hai:** Methenamine hippurate suitable nonpregnant patients mein daily antibiotic prophylaxis ka alternative ho sakta hai. Acidic urine mein isse formaldehyde banta hai, jo urinary antiseptic activity deta hai. Current UTI adequately treat honi chahiye aur earlier preventive measures ke response, contraindications aur patient preference ko clinician review karta hai.
 
 **C. Kyun galat hai:** Fluconazole fungal infection ke liye use hota hai. Recurrent bacterial cystitis mein routine antifungal prophylaxis appropriate nahi hai.
 
 **D. Kyun galat hai:** Ye daily antimicrobial exposure avoid karne ka requested alternative nahi hai. Methenamine suitable patient mein antibiotic-sparing option ho sakta hai.
+
+**Exam clue:** Methenamine hippurate ko selected patients mein preventive alternative samjho, active infection ka substitute nahi. Current UTI ka adequate treatment aur medicine suitability pehle check hoti hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -338,13 +358,15 @@
 
 **Correct answer: D. Avoid concurrent alkalinizing sachets and discuss alternatives with the clinician**
 
-**A. Kyun galat hai:** Methenamine acidic urine mein formaldehyde release karta hai. Alkalinizing citrate pH badha kar activity kam kar sakta hai, enhance nahi.
+**A. Kyun galat hai:** Methenamine acidic urine mein hydrolyse hokar formaldehyde release karta hai, jo urinary antiseptic effect deta hai. Sodium citrate urine ka pH badha sakta hai. Jab urine kam acidic ho jaata hai, toh methenamine ki activity ghat sakti hai, isliye citrate uski effectiveness enhance nahi karta.
 
 **B. Kyun galat hai:** Ye sirf stomach absorption ka timing interaction nahi hai. Citrate urine pH ko change karta hai, isliye dose separation reliable solution nahi maana ja sakta.
 
 **C. Kyun galat hai:** Citrate prophylaxis ka replacement nahi hai. Prescribed preventive plan mein self-directed interruptions treatment effectiveness ko affect kar sakte hain.
 
-**D. Kyun sahi hai:** Urinary alkalinizing products methenamine ko less effective bana sakte hain. Nurse ko OTC products review karke patient ko appropriate advice deni chahiye.
+**D. Kyun sahi hai:** Urinary alkalinizing sachets methenamine ki preventive effectiveness kam kar sakte hain. Nurse ko OTC products aur prescribed medicine dono ka review karna chahiye, patient ko interaction samjhana chahiye aur suitable symptom-relief option ke liye clinician se advice dilani chahiye. Naye UTI symptoms hon toh appropriate assessment bhi zaroori hai.
+
+**Exam clue:** Methenamine acidic urine mein active hota hai. Sodium citrate aur potassium citrate jaise alkalinizing products urine ka pH badha sakte hain, isliye unhe saath lene se pehle prescriber se baat karni chahiye.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -375,6 +397,8 @@
 
 **D. Kyun sahi hai:** Chhe mahine ke andar review se benefit, side effects aur ongoing need assess hoti hai. Uske baad annual review ya agreed earlier review hota hai.
 
+**Exam clue:** NICE ke hisaab se methenamine ka review chhe mahine ke andar aur uske baad har saal ya agreed earlier interval par hota hai. Daily antibiotics ke kam se kam six-monthly review se ise confuse mat karo.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -404,6 +428,8 @@
 
 **D. Kyun galat hai:** Pregnancy ke dauran recurrent UTI clinically relevant hai. Appropriate obstetric ya specialist assessment abhi arrange karni chahiye, rather than automatic postponement.
 
+**Exam clue:** Pregnancy mein routine nonpregnant cystitis pathway copy mat karo. Methenamine prevention consider karne se pehle specialist advice chahiye.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -425,13 +451,15 @@
 
 **Correct answer: A. Arrange specialist assessment for recurrent upper urinary infection**
 
-**A. Kyun sahi hai:** Repeated pyelonephritis mein specialist assessment ki zaroorat ho sakti hai. Prevention ko cause aur renal risk ke hisaab se plan karna chahiye.
+**A. Kyun sahi hai:** Repeated pyelonephritis kidney aur upper urinary tract ki infection ka pattern hai. Ismein stone, obstruction ya doosri underlying abnormality ki assessment zaroori ho sakti hai. Nurse specialist referral arrange kare aur agar patient ko abhi fever, flank pain ya systemic illness ho toh prompt clinical assessment ko priority de.
 
 **B. Kyun galat hai:** Repeated pyelonephritis upper tract disease hai. Lower cystitis pathway underlying stone, reflux ya obstruction ke evaluation ko replace nahi karta.
 
 **C. Kyun galat hai:** Repeated culture-confirmed kidney infections already documented hain. Diary useful supplementary record hai, lekin specialist evaluation delay karne ka reason nahi.
 
 **D. Kyun galat hai:** Six-month preventive review interval stable prophylaxis patients ke liye relevant ho sakta hai. Repeated kidney infections mein underlying causes ka assessment pehle discuss karna chahiye.
+
+**Exam clue:** Repeated pyelonephritis upper urinary tract ka warning pattern hai. OTC prevention ke bajay specialist assessment prioritize karo aur current systemic symptoms hon toh prompt clinical evaluation karao.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -462,6 +490,8 @@
 
 **D. Kyun galat hai:** Ye statement sahi hai, isliye ye question ka answer nahi hai. Prevention ke bawajood symptomatic infection ho sakti hai. Naye symptoms par agreed clinical plan follow karo aur fever ya flank pain ho toh prompt assessment arrange karo.
 
+**Exam clue:** Question negative expectation pooch raha hai. Cranberry prevention ka possible option hai, lekin new symptomatic infection mein indicated assessment aur treatment ki jagah nahi le sakta.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -485,11 +515,13 @@
 
 **A. Kyun galat hai:** Price aur capsule count se active constituents ki quantity pata nahi chalti. Product label aur relevant evidence dekhna zaroori hai.
 
-**B. Kyun sahi hai:** Different formulations mein constituents ki quantity vary kar sakti hai. Product suitability aur evidence ki limitations explain karna helpful hai.
+**B. Kyun sahi hai:** Cranberry products mein active constituents ki concentration aur formulation alag ho sakti hai. Isliye same capsule count ya packet size se same preventive effect assume nahi kar sakte. Nurse product tolerance, ingredients aur uncertain comparative efficacy ko explain kare, taaki patient informed choice kar sake.
 
 **C. Kyun galat hai:** Total volume ya capsule count same hone par bhi concentration alag ho sakti hai. Product composition aur patient tolerance ko saath mein compare karo.
 
 **D. Kyun galat hai:** Flavour aur preventive constituents ek hi cheez nahi hain. Cranberry flavour se clinically comparable preventive activity establish nahi hoti.
+
+**Exam clue:** Same package size ka matlab same active constituents nahi hota. Formulation, tolerability aur evidence ki uncertainty ko saath mein dekho.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -520,6 +552,8 @@
 
 **D. Kyun galat hai:** Biological mechanism plausible hona clinical effectiveness ka proof nahi hai. Patient-level controlled trial results ko prevention recommendation mein consider karna chahiye.
 
+**Exam clue:** AUA 2025 ke context mein D-mannose alone ko proven prophylaxis mat samjho. Plausible mechanism aur demonstrated patient benefit alag cheezein hain.
+
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -541,13 +575,15 @@
 
 **Correct answer: A. Evidence varies by strain and does not establish a universal preventive effect**
 
-**A. Kyun sahi hai:** Kuch strain-specific studies encouraging hain, lekin overall evidence aur formulations mein uncertainty hai. Patient ko universal guarantee nahi deni chahiye.
+**A. Kyun sahi hai:** Probiotics live microorganisms hote hain, lekin har strain aur formulation ka clinical effect ek jaisa nahi hota. Recurrent cystitis prevention ke studies mein mixed evidence mila hai aur universal benefit establish nahi hai. Isliye patient ko uncertainty samjhao aur active symptomatic infection ke indicated care ko delay mat karo.
 
 **B. Kyun galat hai:** Kuch probiotics prevention research mein study hue hain. Lekin symptomatic bacterial infection ka indicated treatment replace karna alag decision hai aur unsafe ho sakta hai.
 
 **C. Kyun galat hai:** Lactobacillus genus ke andar different strains hote hain aur unke effects same hona zaroori nahi. Studied formulation ka result sab products par apply nahi kar sakte.
 
 **D. Kyun galat hai:** High colony count se specific preventive efficacy establish nahi hoti. Strain, formulation, route aur evidence ko dekhna chahiye.
+
+**Exam clue:** Probiotic ka effect specific strain aur formulation par depend kar sakta hai. High colony count ya common genus name universal prevention ka proof nahi hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -576,7 +612,9 @@
 
 **C. Kyun galat hai:** Past tolerance useful hai, lekin renal function aur organism susceptibility time ke saath change ho sakte hain. Current safety aur resistance assessment bhi chahiye.
 
-**D. Kyun sahi hai:** Long-term antibiotic ka benefit aur harm dono assess karne chahiye. Previous cultures aur patient ki priorities se individualized choice possible hoti hai.
+**D. Kyun sahi hai:** Daily antibiotic prophylaxis se kuch selected patients mein recurrence kam ho sakti hai, lekin resistance aur adverse effects ka risk bhi hota hai. Previous culture aur susceptibility, current renal function, medicine safety aur patient ki preference se clinician individualized regimen choose karta hai. Broad-spectrum antibiotic ko sirf isliye choose nahi karna chahiye ki wo zyada organisms cover karta hai.
+
+**Exam clue:** Long-term antibiotic select karte waqt previous culture, susceptibility, resistance, side effects aur patient preference ko saath dekho. Broadest spectrum automatically best nahi hota.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -607,6 +645,8 @@
 
 **D. Kyun galat hai:** Review ka purpose dose automatically badhana nahi hai. Fewer episodes ke context mein continuation, change ya stopping par individualized discussion chahiye.
 
+**Exam clue:** Daily antibiotic prophylaxis mein recurrence kam ho jaane ke baad bhi kam se kam har chhe mahine benefit aur harm ka review chahiye. Automatic renewal correct approach nahi hai.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -636,6 +676,8 @@
 
 **D. Kyun galat hai:** Urine cultures bacterial growth assess karte hain. Ye pulmonary symptoms, liver dysfunction ya renal suitability ki safety monitoring replace nahi karte.
 
+**Exam clue:** Long-term nitrofurantoin mein lung aur liver safety yaad rakho. Nayi cough, breathlessness ya jaundice ko routine review tak postpone mat karo.
+
 **Clinical reference:** [Guidance](https://www.gov.uk/drug-safety-update/nitrofurantoin-reminder-of-the-risks-of-pulmonary-and-hepatic-adverse-drug-reactions).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -663,7 +705,9 @@
 
 **C. Kyun galat hai:** Severity acute assessment ko inform karti hai. Current susceptibility information preventive drug ki future suitability aur stewardship review ke liye abhi relevant ho sakti hai.
 
-**D. Kyun sahi hai:** Prophylaxis ke dauran resistant organism ya changed pathogen mil sakta hai. Culture aur exposure ko saath review karne se future prevention decision better hota hai.
+**D. Kyun sahi hai:** Breakthrough episode ka properly collected culture naya organism ya changed susceptibility dikha sakta hai. Current prophylactic medicine, exposure duration aur adherence ke saath is information ko review karne se clinician samajh sakta hai ki existing prevention plan suitable hai ya change chahiye. Acute symptoms ki assessment ko culture result ka wait karke unnecessarily delay nahi karna chahiye.
+
+**Exam clue:** Breakthrough symptoms mein current culture aur susceptibility ko ongoing antibiotic exposure ke saath compare karo. Purana isolate har naye episode ka organism nahi batata.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -690,9 +734,11 @@
 
 **B. Kyun galat hai:** Fever aur flank pain upper urinary infection ke signs ho sakte hain. Uncomplicated cystitis ke self-start plan par depend karke assessment delay nahi karna chahiye.
 
-**C. Kyun sahi hai:** Self-start plan selected patients ke liye clinician ke saath agreed hota hai. Atypical symptoms ya deterioration par assessment delay nahi karna chahiye.
+**C. Kyun sahi hai:** Self-start treatment ka matlab hai ki selected patient clinician ke saath pehle se agreed symptom criteria aur treatment instructions follow kare. Har urinary discomfort infection nahi hota aur fever ya flank pain upper tract involvement ka signal ho sakta hai. Atypical symptoms, severe illness ya persistent symptoms mein patient ko prompt reassessment lena chahiye.
 
 **D. Kyun galat hai:** Persistent symptoms resistant infection ya alternative diagnosis indicate kar sakte hain. Unsupervised repeated courses ki jagah clinical reassessment chahiye.
+
+**Exam clue:** Self-start treatment sirf agreed criteria ke andar use hota hai. Fever, flank pain, atypical symptoms ya deterioration mein prompt assessment ki zaroorat hoti hai.
 
 **Clinical reference:** [EAU recurrent cystitis guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -723,6 +769,8 @@
 
 **D. Kyun galat hai:** Self-start treatment selected uncomplicated female patients mein discuss kiya ja sakta hai. Men mein repeated infections ko same population pathway se automatically manage nahi karna chahiye.
 
+**Exam clue:** Repeated symptomatic UTI in men ko routine female uncomplicated pathway mein mat fit karo. Prostate, obstruction aur doosri causes ki clinical ya specialist assessment arrange karo.
+
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
@@ -746,11 +794,13 @@
 
 **A. Kyun galat hai:** Recurrence threshold prevention assessment justify karta hai, lekin typical low-risk index patient mein routine invasive cystoscopy ka diagnostic yield low hai. Atypical findings indication change kar sakte hain.
 
-**B. Kyun sahi hai:** Low-risk typical recurrent cystitis mein routine extensive workup ka yield kam hota hai. Atypical features aayein toh targeted investigation ki zaroorat ho sakti hai.
+**B. Kyun sahi hai:** Typical low-risk recurrent uncomplicated cystitis mein routine extensive imaging aur cystoscopy se useful findings milne ki possibility kam hoti hai. Isliye har patient ko invasive test karana zaroori nahi. Persistent hematuria, suspected obstruction ya unusual course jaise indications milne par clinician targeted workup decide kar sakta hai.
 
 **C. Kyun galat hai:** Imaging aur cystoscopy clinically indicated cases mein useful hain. Typical uncomplicated recurrence mein extensive routine investigations preventive counseling ki compulsory prerequisite nahi hain.
 
 **D. Kyun galat hai:** CT stones ya obstruction jaise specific concerns mein useful ho sakta hai. Har resolved lower episode ke baad repeat CT unnecessary radiation aur cost badha sakta hai.
+
+**Exam clue:** Typical low-risk recurrent cystitis mein routine extensive cystoscopy ya imaging ka yield kam hota hai. Atypical signs aur specific risk factors investigation ki need badal sakte hain.
 
 **Clinical reference:** [AUA 2025 guideline](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti).
 
@@ -810,7 +860,9 @@
 
 **C. Kyun galat hai:** Shift ke baad hydration kuch intake restore kar sakti hai, lekin day-long access problem solve nahi hoti. Safe daily hydration aur toilet breaks ko practical tarike se plan karna chahiye.
 
-**D. Kyun sahi hai:** Patient ke routine ko samajh kar safe hydration aur toilet access ka workable plan banana prevention counseling ko practical banata hai.
+**D. Kyun sahi hai:** Is patient ko hydration ki importance batana kaafi nahi hai, kyunki workplace par toilet access ki practical problem hai. Nurse uske shift pattern, safe fluid needs aur possible scheduled breaks ko samajh kar feasible plan bana sakti hai. Patient ki permission aur circumstances ke hisaab se workplace accommodations bhi discuss ki ja sakti hain.
+
+**Exam clue:** Agar patient ko hydration advice follow karne mein workplace barrier hai, toh practical toilet aur water access plan banana generic counseling se zyada useful hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -833,13 +885,15 @@
 
 **Correct answer: A. Change in symptomatic confirmed episodes and patient-reported burden over time**
 
-**A. Kyun sahi hai:** Symptoms aur confirmed episodes ka trend patient benefit ko directly reflect karta hai. Quality of life aur treatment burden ko bhi measure karna chahiye.
+**A. Kyun sahi hai:** Prevention ka main purpose patient ko symptomatic episodes aur unki daily-life burden se relief dena hai. Isliye baseline aur follow-up par confirmed symptomatic infections, quality of life aur treatment burden ka trend compare karna meaningful hai. Sirf asymptomatic culture positivity ya prescriptions ki count se clinical benefit establish nahi hota.
 
 **B. Kyun galat hai:** Prescription count alone se patient benefit ya appropriate prescribing establish nahi hota. Symptomatic recurrence aur treatment burden ko alag assess karna chahiye.
 
 **C. Kyun galat hai:** Plan acceptance implementation ka measure hai. Ye nahi batata ki infection episodes aur daily burden waqai kam hue ya nahi.
 
 **D. Kyun galat hai:** Asymptomatic bacterial growth symptomatic recurrence ke equivalent nahi hai. Program benefit ke liye patient-important clinical outcomes zyada relevant hain.
+
+**Exam clue:** Prevention ka outcome sirf prescriptions ya positive screening cultures se mat judge karo. Symptomatic confirmed episodes aur patient ki daily-life burden ka trend dekho.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -869,6 +923,8 @@
 **C. Kyun galat hai:** Alternative option useful ho sakta hai, lekin nature aur severity of adverse effect, contraindications aur patient preferences assess karke clinician ko choice karni chahiye.
 
 **D. Kyun galat hai:** Recurrence count important outcome hai, lekin medicine-related burden aur patient ki values bhi matter karti hain. Shared decision mein benefits aur harms dono discuss hote hain.
+
+**Exam clue:** Recurrence kam hona ek benefit hai, lekin distressing adverse effects bhi important hain. Shared decision aur zaroorat par early assessment ko scheduled review se pehle priority do.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
