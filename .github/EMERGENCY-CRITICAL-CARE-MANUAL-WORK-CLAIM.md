@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: emergency-b03-completion-20261128-0857Z
-Scope: PR49 isolated advanced ICU monitoring and non-septic shock drafts only. No navigation or live integration.
+Scope: PR49 isolated advanced ICU monitoring, non-septic shock and INC Unit XI adult advanced life support/post-arrest care drafts only. No navigation or live integration.
 Claimed UTC: 2026-11-28T08:57:00Z
 Expiry UTC: 2026-11-28T09:27:00Z
 

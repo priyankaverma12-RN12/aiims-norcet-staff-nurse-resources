@@ -1,10 +1,10 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: Reserved continuation of draft PR45; no active writer
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: child-health-b06-20261128-0903Z
+Scope: PR45 isolated pediatric congenital cardiac candidate authorship and targeted corrective review; no shared navigation or other owners
+Claimed UTC: 2026-11-28T09:03:17Z
+Expiry UTC: 2026-11-28T09:33:17Z
 
 ## Verified checkpoint — Batch 05
 

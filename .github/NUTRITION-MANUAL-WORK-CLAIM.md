@@ -1,10 +1,15 @@
 # Nutrition and Dietetics manual work claim
 
 State: CLAIMED
-Owner: nutrition-08a-labels-20261128-0858Z
-Scope: PR35 isolated 08A Indian food labelling and standards bank, guide, SVG and ledger. No other chapter, shared navigation, learner history or schedule writes.
-Claimed UTC: 2026-11-28T08:58:00Z
-Expiry UTC: 2026-11-28T09:28:00Z
+Owner: nutrition-08b-programmes-20261128-0904Z
+Scope: PR35 isolated 08B national nutrition programme and food entitlement bank, guide, SVG and ledger. No shared navigation or other job edits.
+Claimed UTC: 2026-11-28T09:04:00Z
+Expiry UTC: 2026-11-28T09:34:00Z
+
+## Latest released checkpoint — 08A Indian food labelling and nutrition claims
+
+Candidate head: 314ceef85440de968fee24c99907226639194fcf
+Draft PR35: 700 staged originals, 2800 individual Roman Hinglish rationales, 35 topic banks, 18 guides and 18 original SVGs. Four legacy originals and one reported adaptation remain separate. New 20 MCQs and 80 rationales with final bank 7c89ec8e3c9f4ebc0dd4b052d7d5128104a8fe9f, guide 43654a53296d8f5aa1713dd95c66f02bed22b319, SVG 48f922c0b989768aec94d449aa4da204be22ac1c. All exact remote readbacks passed. Zero normalized exact matches against 680 prior staged stems, rendered SVG matching remote blob. Prior 07E CI 46127113656 passed. Exact current CI 46128528199 pending at inspection. Draft unmerged. Independent regulatory/clinical/pharmacy and comprehensive semantic review, full preflight, INC, source/video, PR7/8 and integration gates remain outstanding. Next retrieve full revised 2026 AMB operational guidelines and develop genuinely distinct programme objectives. Preserve flagged 07D/07E clusters. No live credit, website, other jobs, learner history or automation changes.
 
 ## Latest released checkpoint — 07E elderly nutrition and hydration
 
