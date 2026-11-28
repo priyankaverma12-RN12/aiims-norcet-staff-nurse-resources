@@ -23,7 +23,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - [Fetal movement assessment concepts](06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](../MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md). Published, independent review pending.
   - [Fetal heart rate concepts](06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md) · [20 original MCQs](../MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md). Published, independent review pending.
   - [NST concepts](06C-Nonstress-Test-NST.md) · [20 original MCQs](../MCQs/06C-Nonstress-Test-NST-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06C-NST-Reported-Evidence.md). Published, independent review pending.
-  - CST, CTG, biophysical profile, ultrasound and Doppler: individual topic packages pending.
+  - [CST concepts](06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](../MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [Official-source exam adaptation](../Previous-Year-Questions/06D-CST-Exam-Evidence.md). Published, independent review pending.
+  - CTG, biophysical profile, ultrasound and Doppler: individual topic packages pending.
 - normal pregnancy and labor
 - partograph and delivery
 - hypertensive disorders
