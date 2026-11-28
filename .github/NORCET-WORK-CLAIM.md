@@ -1,10 +1,17 @@
 # NORCET shared work claim
 
-State: CLAIMED
-Owner: forward-pr48-audit-20261128-083122Z
-Scope: PR48 isolated Group10A–D corrective review, candidate files only. No Renal writes or shared navigation changes.
-Claimed UTC: 2026-11-28T08:31:22Z
-Expiry UTC: 2026-11-28T09:01:22Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Latest isolated corrective review checkpoint — Group10A–D, 28 November 2026
+
+- Draft PR48 at verified head `f61eabe38daaab0d020e77669a7f23b4a9dd193b`. 100 original question slots and 400 individual rationales, four concepts, four original SVGs and four evidence registers preserved. Sequential question-level AI review completed A01–26 and B01–22, targeted C24/C26. 18 blocks corrected (A6/B10/C2), including three replacement learning tasks A16/A26/C26. Eight candidate content commits exactly read back. Fresh final validation: 100 distinct normalized stems, 400 options, 400 individual rationales, all keys and details aligned, 69 Medium/31 Difficult. A25 B27 C25 D23. No live inventory change. All 600 legacy mock stems screened at intermediate checkpoint, zero normalized matches; new C26 compared against retrieved related mock headings only. Exhaustive semantic clearance not claimed.
+- Prior PR48 CI `46123082166` job `140911660258` passed including six touch viewports and learner-history regression; new exact-head run `46126553677` in progress. PR48 comment `7236688337`. Resume C01–26 and D01–26 sequential review, full independent clinical/semantic and language/difficulty/distractor review, full bounded rule/audit-log preflight, dedicated practice-video verification, source gaps, individual SVG rendering and current-head CI. PR8 navigation handoff 7235956981 still pending; do not integrate before clearance and latest-main reconciliation. HSE PDF printed p4 screenshot verified, FDA and ASA screenshots cache miss. No full external clinical sign-off. No new MCQs or mocks until safe release or clearly authorized disjoint scope.
+- PR52 independently advanced to `c939eff3d8ec9d32507107f572a17a9456c8a17d`; previous CI 46123626545 job 140913326612 passed for 89b51ab37be4d58d34f33ea5fafc8fbf2802c0fd. No Renal files modified by this run. Preserve other sessions, learner history, website and all five hourly schedules. Live Foundations 1,350 and Renal 604 unchanged by this run. Own claim released.
+
 
 ## Latest isolated draft checkpoint — Group10A–D, 28 November 2026
 
