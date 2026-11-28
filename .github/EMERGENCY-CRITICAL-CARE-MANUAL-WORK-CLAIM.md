@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: CLAIMED
+Owner: emergency-b04-20261128T1337Z
+Scope: PR49 isolated new critical-care transition, equipment and end-of-life topic packages only. Preserve integration corrections and shared navigation.
+Claimed UTC: 2026-11-28T13:37:00Z
+Expiry UTC: 2026-11-28T14:07:00Z
+
+Apply merged PR59 and PR67 content-first and balance rules. No live integration without gates.
+
+## Prior checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
 State: FREE
 Owner: none
 Scope: none
