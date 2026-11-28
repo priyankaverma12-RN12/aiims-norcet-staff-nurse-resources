@@ -275,3 +275,37 @@ Latest staged inventory: 700 original MCQs, 2800 individual Roman Hinglish ratio
 - 20 English stems, 80 options and 80 separate conversational Roman Hinglish rationales, 20 matching answer keys, 20 exam clues, 20 hidden answer blocks, 20 item-specific video gaps. Five correct keys per letter, 16 Medium and four Difficult provisional. Final structural verification passed. No semicolons. All 20 initial normalized stems checked against 760 earlier stems (38 banks) in groups of 160+160+160+160+120. Zero exact matches. Final Q1/Q11 replacement stems rechecked against all 760 prior stems in bounded groups, zero exact matches. Q14/Q15 Mg distribution vs assessment, Q16/Q17 elemental label vs bioavailability, Q2/Q3 method choice vs collection completeness remain related distinct tasks for independent review. No claim of exhaustive semantic or clinical/pharmacy certification.
 - WHO sodium reduction fact sheet adult and child guidance retrieved; ICMR-NIN DGI 2024 Guideline 11 text retrieved, screenshot cache miss. The DGI paragraph attributing 2300 mg sodium to WHO while also equating 5 g salt is inconsistent with WHO's own less-than-2000 mg sodium recommendation. Guide explicitly uses WHO primary wording. WHO population timed urine protocol landing page and SEARO salt measurement brief indexed extracts checked; protocol full-text retrieval pending. NIH ODS potassium and magnesium health professional fact sheets directly retrieved, MedlinePlus chloride indexed evidence. Magnesium, sodium and potassium teaching topic markers from Level Up RN description (2:27, 4:54, 6:29, quiz 7:25) and Bhushan Science nursing title/description retrieved, no playback or item-level verification. No official historical exam attribution or authenticated PYQ credit. AMB full guideline remains unverified from preceding retrieval attempt, no new AMB treatment claims.
 - Compare baseline to final guide head shows exactly three newly added Nutrition-local paths with zero deletions; previous content unchanged. This ledger appended separately. Updated candidate inventory: 780 originals, 3120 individual rationales, 39 topic banks, 22 guides and 22 original SVGs, plus four legacy live originals and one adaptation separately. No website, learner history, other job or schedule changes. Draft only. Next screen genuine gaps, including distinct therapeutic diet objectives not duplicated in Renal and other adjacent banks. Full preflight, independent clinical/dietetic/pharmacy/regulatory and exhaustive semantic review, INC depth, 07D/07E flagged clusters, source/video, PR7/8 navigation release, exact-head CI and latest-main integration gates remain pending.
+
+
+## Continuation — 09A food additives, contaminants and residues
+
+Baseline ec2698de717f2816f6b1bc11335f7d57625c7f7d, 780 existing staged originals, 3120 rationales, 39 banks, 22 guides and 22 SVGs. Current Nutrition claim acquired at 12839e78d8be804013dfc56b27f6a8feac8c7bed with exact remote readback. Earlier school-age, elderly, programme, fortification, reference-intake and major-mineral topics were already authored by other continuations and not regenerated. Merged PR59 content-first policy checked. Prior exact-head CI 46130409440 job 140934125130 completed successfully.
+
+| New content | Verified commit | Blob |
+|---|---|---|
+| 09A 20 original candidate questions and 80 rationales | 074200e05ef6b7bda8e89e4ff49e08b8daa7f17f | 34c383ae81e30e0adc24b83960afe36b1a7f6d43 |
+| Original diagram 23 | 52a9dab7475f812dee50eafaf08b6951c474d779 | 4e0185d8fd161bf80c15dfc456bc6d4167c6f64d |
+| Concept guide 23 | 9243b996d0078d86fb60b59f4ed83cc7317195c3 | 9a9046749300b02e4c79c3ecd97632ce187af82a |
+
+All three exact remote readbacks passed. Bank structure: 20 unique authored question slots, 80 English options, 80 individual Roman Hinglish rationales, 20 clues/evidence rows, 20 closed hidden answer blocks, answer letters CADBBDACDCABCABDADBC, five per letter. Three Easy, 14 Medium, three Difficult labels pending independent calibration. Hypothetical Q7 reference 100 mg/day, Q8 combined exposure 1.5 mg/kg/day, Q17 0.02 micrograms/kg body weight/day. SVG locally XML parsed and CairoSVG rendered from exact matching Git blob, visually checked without apparent clipping.
+
+Targeted prior-bank stem review: 140 stems from 03E food safety, 05E preservation and standards, 08A labelling, 08B programmes, 08C fortification, 07E elderly nutrition and 04D gastrointestinal diets. Avoided existing additive versus adulterant, label format, rapid screening, and general preservation objectives. New focus functional roles, processing aids, GMP, scientific assessment, residue and dietary exposure, foodborne chemical contaminants and dated arsenic testing provision. Q7, Q8 and Q17 related calculation concepts with different requested outputs/units; independent semantic review must confirm sufficient separation. Adjacent PR61/62/39/45 changed-file lists screened by topic keywords, no direct named food-chemical bank observed; full adjacent question review pending. Attempted full 780-stem normalized comparison exceeded per-script tool-call limit; no exhaustive exact-match claim. Complete comprehensive semantic and clinical/dietetic/toxicology/regulatory review before release.
+
+Direct WHO food additives, mycotoxins, food safety (June 2026) and Codex definitions retrieved. Codex functional-class indexed text used, direct page retrieval failed. Official FSSAI 2026 amendment dated 14 May retrieved; printed p5 screenshot checked, p4 screenshot failed. Q18 explicitly future effective 1 December 2026, not current law on 28 November. Full legal consolidation pending. Teaching lead: [Food Adulteration vs Food Additives vs Food Fortification, community medicine viva](https://www.youtube.com/watch?v=c20Pq-nb7Gs) indexed description includes classes, ADI, Codex and JECFA. No playback or specific MCQ segment certified; all 20 question video gaps remain. No PYQ provenance. Full INC curriculum, AMB PDF, PR7/8 explicit release, independent reviews and final exact-head CI remain outstanding. No publication credit.
+
+### Updated staged inventory
+
+| Material | Count |
+|---|---:|
+| Earlier staged originals preserved | 780 |
+| New 09A candidate originals | 20 |
+| Total staged originals | 800 |
+| Individual Roman Hinglish rationales | 3200 |
+| Topic banks | 40 |
+| Concept guides | 23 |
+| Original SVGs | 23 |
+| Separate live legacy originals | 4 |
+| Separate reported adaptation | 1 |
+| New live, mock-exclusive or authenticated PYQ credit | 0 |
+
+Next: screen remaining actual Nutrition curriculum gaps without duplicating Renal/GI/Endocrine/Foundation or active Community Health lanes, author distinct topics if justified, otherwise prioritize bounded actual corrective patches and independent release gates. No other jobs, learner history, website, shared navigation or schedule modifications.
