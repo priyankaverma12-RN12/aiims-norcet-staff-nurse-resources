@@ -18,7 +18,7 @@
 
 **Correct answer: A. Thickening and tightening of skin**
 
-**A kyun sahi hai:** Systemic sclerosis mein fibrosis se skin thick aur tight ho sakti hai.
+**A kyun sahi hai:** Systemic sclerosis mein collagen jaise connective tissue proteins zaroorat se zyada jama ho sakte hain. Is process ko fibrosis kehte hain. Isse skin thick aur tight ho sakti hai aur kuch internal organs bhi affect ho sakte hain.
 
 **B kyun galat hai:** Pigment loss vitiligo ka feature ho sakta hai, characteristic fibrosis nahi.
 
@@ -28,7 +28,7 @@
 
 **Exam clue:** Sclerosis ka meaning tissue hardening ya thickening se connect karo.
 
-**Clinical reference:** [Clinical guidance](https://health.nih.gov/health-topics-a-z/scleroderma)
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -48,7 +48,7 @@
 
 **A kyun galat hai:** Trousseau sign hypocalcaemia ka clue hai.
 
-**B kyun sahi hai:** Raynaud mein digital vessels spasm karte hain aur colour change ho sakta hai.
+**B kyun sahi hai:** Raynaud mein fingers ki chhoti blood vessels temporarily narrow ho jaati hain. Blood supply kam hone par fingers white ya blue ho sakti hain aur blood flow wapas aane par red ho sakti hain.
 
 **C kyun galat hai:** Babinski plantar reflex assessment hai.
 
@@ -272,7 +272,7 @@
 
 **A kyun galat hai:** Mouthwash alone comprehensive dental care replace nahi karta.
 
-**B kyun sahi hai:** Saliva teeth protect karti hai, dryness mein fluoride aur dental prevention important hain.
+**B kyun sahi hai:** Saliva food particles hatane aur teeth ko acid se protect karne mein madad karti hai. Jab saliva kam ho jaati hai, cavities ka risk badhta hai. Regular dental check, fluoride toothpaste aur dentist ke hisaab se extra preventive care useful hain.
 
 **C kyun galat hai:** Frequent sugar exposure caries risk badhata hai.
 
@@ -280,7 +280,7 @@
 
 **Exam clue:** Reduced saliva means increased dental risk.
 
-**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/64/2/396/7681577)
 
 </details>
 
@@ -308,7 +308,7 @@
 
 **Exam clue:** Uncomplicated dryness mein lubrication, red flags mein urgent review.
 
-**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/64/2/396/7681577)
 
 </details>
 
@@ -354,7 +354,7 @@
 
 **Correct answer: A. Scleroderma renal crisis**
 
-**A kyun sahi hai:** Abrupt BP rise aur AKI systemic sclerosis mein renal crisis ka major warning pattern hai, urgent management needed hai.
+**A kyun sahi hai:** Systemic sclerosis mein kidney ki chhoti blood vessels damage hone se BP achanak badh sakta hai aur acute kidney injury ho sakti hai. Headache, naya severe BP rise aur creatinine badhna renal crisis ke warning signs hain. Urgent medical assessment chahiye. Confirmed renal crisis mein specialist ACE inhibitor treatment shuru ya adjust karta hai.
 
 **B kyun galat hai:** Raynaud digital circulation affect karta hai aur ye renal pattern explain nahi karta.
 
@@ -384,7 +384,7 @@
 
 **A kyun galat hai:** Asthma presume karke systemic complications miss ho sakti hain.
 
-**B kyun sahi hai:** Systemic sclerosis lung par fibrosis ya vascular disease cause kar sakta hai, cardiopulmonary evaluation important hai.
+**B kyun sahi hai:** Systemic sclerosis mein lung tissue mein fibrosis hone se oxygen exchange affect ho sakta hai. Pulmonary hypertension mein lung ki blood vessels mein pressure badhta hai. Dono exertional breathlessness cause kar sakte hain. Nurse oxygen saturation aur symptoms assess kare aur timely specialist evaluation arrange kare. Acute respiratory distress ho toh emergency escalation chahiye.
 
 **C kyun galat hai:** Skin tightness alone progressive dyspnoea explain nahi karti.
 
@@ -414,7 +414,7 @@
 
 **B kyun galat hai:** Home tissue removal injury aur infection worsen kar sakta hai.
 
-**C kyun sahi hai:** Digital ulcers mein infection aur ischemia dono assess karne chahiye, spreading redness aur pus urgent review demand karte hain.
+**C kyun sahi hai:** Finger ulcer mein blood supply ki kami, jise ischemia kehte hain, aur infection dono ho sakte hain. Spreading redness aur pus infection ka concern hain. Colour, temperature, pain aur tissue viability assess karke prompt specialist review arrange karo. Severe ischemic pain ya tissue ka kala hona urgent warning hai.
 
 **D kyun galat hai:** Ice blood flow aur impair kar sakta hai.
 
@@ -444,11 +444,11 @@
 
 **C kyun galat hai:** Dryness improvement other complications exclude nahi karti.
 
-**D kyun sahi hai:** Persistent gland enlargement ka evaluation important hai, Sjögren mein lymphoma risk increased ho sakta hai although absolute risk low hai.
+**D kyun sahi hai:** Sjögren disease mein salivary glands inflamed ho sakti hain. Persistent ya nayi gland swelling ko routine dryness ka symptom maan kar ignore nahi karna chahiye, kyunki lymphoma ka risk bhi badha hota hai. Specialist infection, blockage aur abnormal lymphoid growth jaise causes investigate karega.
 
 **Exam clue:** Persistent salivary swelling requires evaluation, not automatic cancer diagnosis.
 
-**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease)
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/64/2/409/7645909)
 
 </details>
 
@@ -466,7 +466,7 @@
 
 **Correct answer: A. Arrange urgent ophthalmic assessment**
 
-**A kyun sahi hai:** Pain, photophobia aur vision reduction ocular red flags hain, corneal ya other serious pathology assess karni chahiye.
+**A kyun sahi hai:** Painful red eye, light se discomfort aur vision kam hona serious eye disease ke warning signs hain. Corneal injury ya inflammation jaise causes ko urgently assess karna zaroori hai. Routine dryness treatment se evaluation delay mat karo.
 
 **B kyun galat hai:** Routine lubricants alone urgent pathology rule out nahi karte.
 
@@ -476,7 +476,7 @@
 
 **Exam clue:** Painful red eye with visual change is not routine sicca care.
 
-**Clinical reference:** [Clinical guidance](https://rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions/Sjogrens-Syndrome)
+**Clinical reference:** [Clinical guidance](https://www.nhs.uk/symptoms/red-eye/)
 
 </details>
 
@@ -496,7 +496,7 @@
 
 **A kyun galat hai:** Early monitoring complication detect karne ke liye hoti hai, dialysis ka wait nahi.
 
-**B kyun sahi hai:** Systemic sclerosis mein glucocorticoids, especially higher doses, renal crisis risk se associated hain, indication aur monitoring verify karna important hai.
+**B kyun sahi hai:** Adults mein systemic sclerosis ke saath high-dose glucocorticoids renal crisis ka risk badha sakte hain. Specialist se indication, safer alternatives aur BP aur kidney function monitoring ka plan clarify karo. Nayi severe hypertension, headache ya urine kam hona turant report karna chahiye. Medicine khud se band mat karo.
 
 **C kyun galat hai:** Steroids BP monitoring eliminate nahi karte.
 
@@ -504,7 +504,7 @@
 
 **Exam clue:** Systemic sclerosis plus steroid exposure calls for renal risk review.
 
-**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/65/11/keag550/9065361)
 
 </details>
 
@@ -526,7 +526,7 @@
 
 **B kyun galat hai:** Fluid restriction dryness aur dehydration worsen kar sakti hai.
 
-**C kyun sahi hai:** Severe dryness swallowing aur intake impair kar sakti hai, weight loss mein nutrition aur swallowing assessment needed hai.
+**C kyun sahi hai:** Saliva kam hone se dry food ko chew aur swallow karna difficult ho sakta hai. Unintended weight loss se malnutrition ka concern hai. Swallowing safety, hydration, weight trend aur mouth condition assess karo. Dietitian aur swallowing specialist ke saath suitable food texture aur safe fluid intake plan karo.
 
 **D kyun galat hai:** Dry foods bina moisture symptoms worsen kar sakte hain.
 
