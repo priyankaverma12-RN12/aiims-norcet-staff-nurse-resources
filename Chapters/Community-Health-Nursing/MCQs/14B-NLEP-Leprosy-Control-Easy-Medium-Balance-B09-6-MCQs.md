@@ -54,53 +54,53 @@ MDT multiple recommended anti-leprosy medicines ka regimen hai.
 
 </details>
 
-### Q3. Which nerve type is characteristically involved in leprosy?
+### Q3. In which year did India launch its original National Leprosy Control Programme?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** NLEP leprosy control | **Type:** Original practice
 
-- **A.** Only optic tracts
-- **B.** Only spinal cord central grey matter
-- **C.** Only auditory cortex pathways
-- **D.** Peripheral nerves
+- **A.** 1983
+- **B.** 2004
+- **C.** 2017
+- **D.** 1955
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Peripheral nerves**
+**Correct: D. 1955**
 
-Leprosy peripheral nerves ko damage kar sakti hai, sensory aur motor impairment possible hai.
+NLCP 1955 mein early detection aur treatment ke liye launch hua; 1983 mein NLEP mein restructure hua.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Optic tract isolated typical involvement nahi hai.
-- **B.** Central grey matter typical primary nerve involvement nahi.
-- **C.** Auditory cortex classic peripheral nerve involvement nahi hai.
+- **A.** 1983 NLEP restructuring ka year hai, original NLCP launch nahi.
+- **B.** 2004 IDSP launch ka year hai.
+- **C.** 2017 Sparsh awareness campaign launch ka year hai.
 
-**Exam clue:** Leprosy has peripheral nerve tropism.
+**Exam clue:** Distinguish the original control programme from its later restructuring.
 
 </details>
 
-### Q4. Which body region is most directly examined for sensory loss in a suspected leprosy skin patch?
+### Q4. Which NLEP initiative was launched in 2017 to reduce stigma and discrimination?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** NLEP leprosy control | **Type:** Original practice
 
-- **A.** The patch and comparable surrounding skin
-- **B.** Only scalp hair length
-- **C.** Only fingernail colour
-- **D.** Only tooth enamel
+- **A.** Sparsh Leprosy Awareness Campaign
+- **B.** Mission Indradhanush
+- **C.** LaQshya
+- **D.** National Tobacco Quitline
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. The patch and comparable surrounding skin**
+**Correct: A. Sparsh Leprosy Awareness Campaign**
 
-Trained examiner patch ki sensation ko surrounding normal skin se compare kar sakta hai.
+Sparsh campaign leprosy ke baare mein awareness badhakar stigma aur discrimination reduce karne ke liye shuru hua.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Hair length sensory testing nahi hai.
-- **C.** Nail colour patch sensation measure nahi karta.
-- **D.** Tooth enamel skin sensory examination nahi hai.
+- **B.** Mission Indradhanush immunization coverage improve karta hai.
+- **C.** LaQshya maternity care quality initiative hai.
+- **D.** Tobacco Quitline cessation support provide karti hai, leprosy awareness initiative nahi.
 
-**Exam clue:** Compare sensation at the affected skin.
+**Exam clue:** Identify the named leprosy awareness initiative.
 
 </details>
 
@@ -129,28 +129,28 @@ CLT&RI leprosy diagnosis, training aur research support karne wala central insti
 
 </details>
 
-### Q6. Which disability-related complication can occur when leprosy-related sensory loss prevents recognition of minor injuries?
+### Q6. What does LCDC stand for under NLEP?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** NLEP leprosy control | **Type:** Original practice
 
-- **A.** Acute dental caries as a direct nerve effect
-- **B.** Seasonal allergic rhinitis
-- **C.** Sudden fracture of healthy enamel
-- **D.** Repeated unnoticed skin injury and ulceration
+- **A.** Laboratory Cold-chain Distribution Centre
+- **B.** Local Cardiac Disease Clinic
+- **C.** Lymphatic Care Diagnostic Committee
+- **D.** Leprosy Case Detection Campaign
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Repeated unnoticed skin injury and ulceration**
+**Correct: D. Leprosy Case Detection Campaign**
 
-Sensory loss se chot ka pain notice nahi ho sakta aur repeated injury ulceration cause kar sakti hai.
+LCDC active leprosy case detection ke liye programme campaign hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Dental caries peripheral sensory loss ka direct characteristic consequence nahi.
-- **B.** Allergic rhinitis different condition hai.
-- **C.** Enamel fracture leprosy neuropathy ka typical result nahi.
+- **A.** Cold-chain distribution immunization logistics se related hai.
+- **B.** Cardiac clinic LCDC ka official expansion nahi.
+- **C.** Lymphatic care filariasis services se related ho sakti hai, LCDC ka full form nahi.
 
-**Exam clue:** Loss of protective sensation increases injury risk.
+**Exam clue:** Recognize active case-finding terminology.
 
 </details>
 
