@@ -139,3 +139,54 @@ Preserve **564 allocated originals + 20 Vulvar unallocated + 20 Fistula unalloca
 **Medical URL verification status:** [CDC HSV guidance](https://www.cdc.gov/std/treatment-guidelines/herpes.htm) and [WHO fistula catheter guidance](https://www.who.int/publications/i/item/9789241550192) were directly opened successfully. The CDC CAUTI page and CDC genital ulcer page timed out in the current web retrieval. Do not claim they were checked in this run. ACOG, Merck, NCBI, FIGO and other references have not all been opened. No specific YouTube solution videos or verified exam provenance were added.
 
 **Structural readback:** Each revised bank retains 20 Q headings and 20 hidden answers. Previous distinct allocation stays **564**, with 20 Vulvar + 20 Fistula + 19 menstrual revision raw slots, for **623 total physical slots**. No README count change and no mocks. A later job must complete all 40 option-by-option medical/source verification before claiming final unique allocation.
+
+## 28 November 2026 — complete 40-slot structural and option-key matrix
+
+Fresh full-text readback of both 20-question banks was used to check every question's four English options, declared answer letter and four labeled hidden explanations. **This is structural validation, not independent medical certification of 160 explanations or final semantic uniqueness.**
+
+| Item | Tested objective | Answer | A–D options and rationales | Semantic review disposition |
+|---|---|:---:|---|---|
+| V1 | Bartholin cyst | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V2 | Bartholin abscess | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V3 | Word catheter | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V4 | Bartholin mass over age 40 | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V5 | Asymptomatic cyst | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V6 | Antibiotic indications | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V7 | Lichen sclerosus recognition | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V8 | Lichen sclerosus treatment | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V9 | Cancer surveillance | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V10 | Negative fungal tests differential | B | Present, four each | V11 internal overlap repaired. Item URL present, not necessarily checked |
+| V11 | Lichen simplex chronicus | A | Present, four each | V10 overlap repaired to lichen simplex. Item URL present, not necessarily checked |
+| V12 | Contact irritant avoidance | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V13 | Persistent thickened plaque biopsy | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V14 | HSV-2 suppressive treatment | A | Present, four each | RTI expansion HSV NAAT duplicate repaired. Item URL present, not necessarily checked |
+| V15 | Genital ulcer syphilis/HIV workup | B | Present, four each | RTI counseling duplicate repaired, CDC supported. Item URL present, not necessarily checked |
+| V16 | Bartholin anatomy | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V17 | Marsupialization | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V18 | Post-drainage infection | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V19 | Vulvodynia definition | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| V20 | Vulvodynia care | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. Item URL present, not necessarily checked |
+| F1 | Ureteric injury escalation | B | Present, four each | Procedures Q12 duplicate repaired. Item URL present, not necessarily checked |
+| F2 | Rectovaginal symptoms | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F3 | Obstructed labor necrosis | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F4 | VVF anatomy | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F5 | Positive bladder dye | A | Present, four each | F6 related but opposite dye finding. No item-specific source URL |
+| F6 | Negative bladder dye | B | Present, four each | F5 related but opposite dye finding. No item-specific source URL |
+| F7 | Cystoscopy | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F8 | Urine skin maceration | D | Present, four each | Procedures Q11 generic wound care differs from urine skin maceration, provisional. No item-specific source URL |
+| F9 | Free urinary drainage | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F10 | WHO 7–10 days simple fistula | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F11 | Catheter drainage bag position | B | Present, four each | Procedures Q20 oliguria duplicate repaired, CDC supported. Item URL present, not necessarily checked |
+| F12 | Upper UTI signs | D | Present, four each | Procedures Q19 infection differs from pyelonephritis signs, provisional. No item-specific source URL |
+| F13 | Crohn fistula | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F14 | Pelvic/rectal exam | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F15 | Rectal dye testing | C | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F16 | Post-repair social reintegration | D | Present, four each | Procedures Q16 generic empathy duplicate repaired to WHO-supported social reintegration. Item URL present, not necessarily checked |
+| F17 | Continuous vs stress leakage | A | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F18 | Radiation fistula | B | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+| F19 | Recurrent fistula | C | Present, four each | F1 related but recurrence versus initial injury. No item-specific source URL |
+| F20 | Individualized fistula care | D | Present, four each | No direct duplicate in prior stem screen, pending full medical review. No item-specific source URL |
+
+**Structural result:** 40/40 have four English options and four A–D explanation lines in a closed hidden answer. This does not measure explanation depth. All 40 lack independently verified question-mapped YouTube solutions. Most Fistula answers are short and need deeper conversational Hinglish rationales and item-specific references before clinical certification.
+
+**Directly retrieved clinical references this run:** [CDC CAUTI catheter maintenance](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html) supports F11, [WHO 2018 simple obstetric fistula catheter duration](https://www.who.int/publications/i/item/9789241550192) supports F10, [WHO Obstetric Fistula reintegration](https://iris.who.int/bitstream/handle/10665/43343/9241593679_eng.pdf?sequence=1) supports F16, and [CDC genital ulcer guideline](https://www.cdc.gov/std/treatment-guidelines/genital-ulcers.htm) supports V15. Other item URLs have not all been reopened. **F16 corrected** from generic empathy to consented safe post-repair community reintegration at commit `1c15148d61fb6b87ee011d758b535ac2621d7b22`, remote 20 Q and 20 hidden answers confirmed. F8, F12 remain provisional. **Do not allocate additional unique originals**. Preserve 564 allocated, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision, total 623 physical slots. No mocks.

@@ -1,5 +1,15 @@
 # Musculoskeletal System manual chapter claim
 
+State: CLAIMED
+Owner: musculoskeletal-b05-20261128-0900
+Scope: PR46 candidate-only individual topic depth, new banks and concept/evidence checkpoint. No shared navigation, prior completed corrections, other jobs or schedule changes.
+Claimed UTC: 2026-11-28T09:00:00Z
+Expiry UTC: 2026-11-28T09:30:00Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at draft PR46.

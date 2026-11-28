@@ -1,10 +1,17 @@
 # NORCET shared work claim
 
 State: CLAIMED
-Owner: forward-pr48-reconcile-20261128-085709Z
-Scope: PR48 isolated latest-main reconciliation and semantic review only; no shared navigation or Renal writes.
-Claimed UTC: 2026-11-28T08:57:09Z
-Expiry UTC: 2026-11-28T09:27:09Z
+Owner: forward-pr48-source-20261128-090347Z
+Scope: PR48 candidate-only specific source corrections and remaining numbered-bank comparison checkpoint. No shared navigation, Renal or other owner writes.
+Claimed UTC: 2026-11-28T09:03:47Z
+Expiry UTC: 2026-11-28T09:33:47Z
+
+## Latest isolated reconciliation and visual-review checkpoint — 28 November 2026
+
+- Draft PR48 head `816256bb7523be1d8bf97e8825b0889738727393`, REST readback verified, mergeable against pinned main `9ef6a4320ab7fcb8dbd28ac551c810ae63ee8049`. Two-parent reconciliation `46b07791cd6fc1a871216b73e0a3a7da1401930d`, exact tree `65f4575efc29da172ca9dfd84329f98323166ca5`: 1319 existing blobs and modes unchanged, 16 exact new candidate files, zero deleted main files. Non-force ref and REST head verified. 100 originals/400 rationales and all prior question-review corrections untouched. Four concepts, four SVGs and four evidence registers retained. Three new candidate commits this run.
+- Four exact SVG blobs locally rendered with independently matching Git hashes and visually inspected. B raised-backrest geometry and title overlap fixed at `df0037ee8c4f30f32594780069d7d496051c1095`, corrected rendered blob `d0338ef5e79670017f458db8bd0c5562238e1599`, exact remote readback. A/C/D unchanged. Evidence update at current head. Bounded extra screen of 100 candidates against 248 published Foundations stems from 04/04A/04C/04E/03B/03C/03D/03E/18/27 found no normalized exact matches. A14 vs 03E18 is transfer-board access vs strength assessment, distinct tasks. Do not repeat these screens or previous 600 mock-stem and sequential 100-question reviews.
+- CI 46127348178 job 140924799413 passed all stages on prior head; no current-head run returned yet. Official INC Gazette pp264–265 text confirms Unit XII coverage mapping; screenshot cache miss. Added VOOGLY positioning MCQ description/timestamp lead, no playback or specific-item verification claimed. Complete remaining exhaustive semantic review, independent clinical reviewer, source/video and full bounded preflight, explicit PR8 handoff 7235956981, latest-main reconciliation and fresh exact-head CI before merge. No live inventory credit or next authoring before safe release. Foundations 1350 + 100 staged remains. Renal PR52 independently advanced to `233231c34be8d69b5cfaa628c72b0179068ba041`, no Renal edits. All other scopes and automation schedules untouched; own claim released.
+
 
 ## Latest isolated sequential review checkpoint — Group10A–D, 28 November 2026
 
