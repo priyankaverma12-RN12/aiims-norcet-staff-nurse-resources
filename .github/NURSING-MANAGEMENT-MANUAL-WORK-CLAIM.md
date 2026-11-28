@@ -1,5 +1,17 @@
 # Nursing Management and Education manual claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR40.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr40-qi-guide-20261128T1546Z at verified checkpoint b32ada37dc2121fb46872f392027a570689c5c2e. QI concept guide and reciprocal link exact readbacks passed, all 100 originals/400 rationales and earlier corrections preserved. Prior CI 46158878165 passed, new head CI pending. Remaining concept packages, independent review, specific videos, rendering and navigation coordination remain. No new live count. Other sessions and schedules preserved.
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: CLAIMED
 Owner: integration-pr40-qi-guide-20261128T1546Z
 Scope: isolated PR40 quality-improvement concept guide, reciprocal bank link and checkpoint. Preserve all question blocks, prior corrections, shared navigation and other sessions.
