@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-09c-20261128-0343
+Scope: Nursing Foundations Group09C catheter maintenance and CAUTI new topic files and chapter-local indexes only. No legacy questions, PR, global tracker or other jobs.
+Claimed UTC: 2026-11-28T03:43:00Z
+Expiry UTC: 2026-11-28T04:13:00Z
 
 Verified forward chapter-local checkpoint f8c1ea2fcbbe15dd17c088fc6b329a42f496bc22. Nursing Foundations 1,300 indexed originals (553 Medium,747 Difficult), 600 initial +700 expansion. Group09B: 24 new + Group09 Q1,8,15,16,17 and previously reserved Group05 Q18 once =30 allocated. Bank 41c67d058ead34f2756398864214845e5a151411 blob c11479142fa8e77d618b9e89cda7a89141209ac5, concept 42abba58d9a86d43bb8c8f0032c32d0f61d19cb8, SVG 79dbf57c2441d361b9de1ff527f8bc2d5a247a21, evidence ecf827c7cf4dbc65fcb412a544e0a09cfb30b2c5 all exact readbacks. 24 answer mappings, 96 individual rationales, 24 closed answer blocks, zero exact normalized matches against 356 related Foundations/IPC/Renal stems. Related tasks screened, comprehensive semantic audit pending. CDC and EAUN 2024 direct guidance, Open RN and trauma indexed. SCTIMST official 1 Sep 2019 Set A Q29 and Q34 extracted PDF text, screenshot failed, one uncounted position adaptation, official key pending. RRB 12 Mar 2026 shift 2 Q82 indexed only, direct retrieval failed. Historical inventory 34 unchanged. JINC E-NURSING catheter MCQ indexed candidate, RegisteredNurseRN/UroNurse teaching descriptions, all 24 specific question mappings and playback pending. Six local navigation files exact readbacks: MCQ index 4cc720a14bdbbc9d2e66b2f59e69af850fac9e67, map 6ff59d63ab0e1f1d4c67d9905a97dedb3ec2106d, audit c2131165fa3df24d407be025fd54ba1c9c9cd4c5, PYQ index d02230670c47ebb121f617872bea30daae457eb1, video guide b22ca04a3e21c92105ef1584e14cc0d038a39413, README f8c1ea2fcbbe15dd17c088fc6b329a42f496bc22. Next 09C maintenance/CAUTI, seven reserved Group09 questions Q2,3,4,5,7,13,14, then 09D specimens Q6,11,12. Group22 cross-reference Q20 preserved. All formal and identified manual claims refreshed, Job5 09A and Group28 distinct scope explicitly preserved. PR8/12 untouched, global tracker deferred. Both skills and audit history fetched, applicable rules and current learning excerpts reviewed, fresh full line-by-line reading not certified. Independent clinical, comprehensive semantic, curriculum, official-key, rendered UI and video audits remain pending. Five legacy mocks preserved, ten original-only mock target pending. No schedule changes. Own claim released.
 
