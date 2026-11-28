@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-08b-programmes-20261128-0904Z
+Scope: PR35 isolated 08B national nutrition programme and food entitlement bank, guide, SVG and ledger. No shared navigation or other job edits.
+Claimed UTC: 2026-11-28T09:04:00Z
+Expiry UTC: 2026-11-28T09:34:00Z
 
 ## Latest released checkpoint — 08A Indian food labelling and nutrition claims
 
