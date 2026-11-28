@@ -412,25 +412,25 @@
 
 </details>
 
-### Q18. A low-volume emergency unit plans to stop assigning triage categories whenever only one patient is present. Which concern is most important?
+### Q18. A patient has no listed red or yellow criterion and the measured vital signs are within the IITT screening thresholds. The trained nurse remains concerned after observing a sudden change from the patient's usual condition. What is the safest action?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Routine adult triage
 
-- **A.** Triage is useful only when at least four patients arrive
-- **B.** A single patient can still need immediate care, so clinical urgency should be communicated consistently
-- **C.** A single arrival is automatically low acuity
-- **D.** The patient can be categorized after the final treatment decision
+- **A.** Automatically assign green because numerical thresholds are normal
+- **B.** Seek immediate supervising clinician review or up-triage on clinical concern
+- **C.** Repeat the same vital signs at discharge only
+- **D.** Wait for a definitive diagnosis before communicating the concern
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. A single patient can still need immediate care, so clinical urgency should be communicated consistently**
+**Correct: B. Seek immediate supervising clinician review or up-triage on clinical concern**
 
-- **A.** Triage ka purpose patient ki urgency samajhna hai. Minimum four patients ki condition WHO routine tool mein nahi hai.
-- **B.** Ek hi patient bhi critically ill ho sakta hai. Category se team ko intervention ki urgency samajh aati hai, chahe queue ho ya na ho.
-- **C.** Number of arrivals se individual patient ki severity decide nahi hoti.
-- **D.** Treatment decide hone tak wait karne se early recognition ka benefit miss ho jaata hai.
+- **A.** Vital signs ki normal value reassuring ho sakti hai, lekin har serious problem ka sign unmein turant nahi dikhta. Clinical concern ko ignore karke green assign nahi karna chahiye.
+- **B.** Patient ka usual condition se sudden change important ho sakta hai. IITT mein clinical concern hone par bhi priority badhane ya turant supervising clinician review ki jagah hai.
+- **C.** Discharge tak wait karne se possible deterioration assess nahi hogi. Nurse ko concern abhi communicate karna chahiye.
+- **D.** Triage urgency decide karti hai, diagnosis confirm nahi karti. Concern escalate karne ke liye final diagnosis ka wait karna unsafe ho sakta hai.
 
-**Reference:** [WHO IITT FAQ 8, 10](https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/csy/iitt/iitt-faq.pdf?sfvrsn=cc11cf12_5) · [Scope and tool](https://www.who.int/tools/triage).
+**Reference:** [WHO adult IITT clinical concern safety check](https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/csy/iitt/iitt_adult.pdf?sfvrsn=b2a91431_1) · [Scope and tool](https://www.who.int/tools/triage).
 
 **YouTube MCQ practice:** verification pending for this specific learning task.
 
@@ -478,7 +478,7 @@
 - **C.** Incident triage ko unrelated patients ke liye hi use karna sahi nahi hai. Activation ke baad facility protocol all arrivals par apply ho sakta hai.
 - **D.** Mass casualty tab hota hai jab needs usual resources aur process se zyada ho jaati hain. Agar facility routine care safely de sakti hai toh routine triage continue hoti hai.
 
-**Reference:** [WHO IITT FAQ 16; WHO IITT overview](https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/csy/iitt/iitt-faq.pdf?sfvrsn=cc11cf12_5) · [Scope and tool](https://www.who.int/tools/triage).
+**Reference:** [WHO IITT FAQ 16 and WHO IITT overview](https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/csy/iitt/iitt-faq.pdf?sfvrsn=cc11cf12_5) · [Scope and tool](https://www.who.int/tools/triage).
 
 **YouTube MCQ practice:** verification pending for this specific learning task.
 
