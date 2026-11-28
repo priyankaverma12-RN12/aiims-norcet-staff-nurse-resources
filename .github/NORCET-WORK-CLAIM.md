@@ -1,10 +1,17 @@
 # NORCET shared work claim
 
-State: CLAIMED
-Owner: forward-pr48-source-20261128-090347Z
-Scope: PR48 candidate-only specific source corrections and remaining numbered-bank comparison checkpoint. No shared navigation, Renal or other owner writes.
-Claimed UTC: 2026-11-28T09:03:47Z
-Expiry UTC: 2026-11-28T09:33:47Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Latest numbered-bank and direct-source checkpoint — 28 November 2026
+
+- PR48 draft verified head `b3fa72935ce1d87c2644dacc9dd2e14a84975bfb`, tree `e53b17f4ee36503591659a5ad1a544988488d1d2`, pinned main `0467c1a6daa15d859a7fa42201a14aacd7de6041`. Non-force ref and REST PR readback exact; mergeable at pinned base. All 1319 existing main blobs/modes preserved, 16 intended candidate additions, zero deletions. Five actual candidate commits: two narrowly scoped source/rationale corrections, two evidence updates and one reconciliation. Final 100 distinct stems, 400 individual rationales, keys and details validated, zero structural defects. Four concepts, four previously rendered SVGs and four registers preserved. No regenerated questions or altered stems/options/keys.
+- C25 direct WHO TAP/AAFP cuff-fit source confirmed and rationale strengthened, commit `0001dafe453b2de3076e75279a7cdb307e4114e1`, bank blob `43f5c671fe5a5872de07db1a51ac67f7d3296fb1`. D08 inappropriate goniometer source replaced with directly retrieved NHS tendon-repair rehabilitation guidance and rationale expanded, commit `b32da9b266725c0ac368c2f4eb194d11dbce3487`, bank blob `d4b714dc907bf71382f78822d510ad6cc4a0f3fa`. Both exact readbacks. Remaining 42 numbered banks / 939 published stems compared, zero normalized exact matches, eight threshold pairs adjudicated distinct learning tasks. Combined previous 411 + 939 = all 1350 live numbered-bank stems screened. Four starter and 34 chapter-wide reported PYQ headings reviewed separately. Do not repeat these, 600 mock-stem screen, sequential question review or SVG rendering. Individual register exercises, embedded concept practice and relevant cross-chapter candidate semantic review still outstanding; lexical matching is not full semantic certification.
+- Prior exact-head CI `46128417868` job `140928136500` completed success. New exact-head CI `46128836414` pending. PR8 explicit navigation handoff 7235956981 absent. Independent clinical reviewer, specific video coverage/playback, full bounded preflight and remaining semantic checks not certified. Do not merge or add live count before applicable gates pass. Main Foundations 1350 and 100 staged remain. Renal PR52 independently advanced to `67322eb5a80802802b2eb737b61b49b761306bda`, no writes by this run. No new authorship before release. Other sessions, learner history and all five hourly schedules preserved. Own claim released.
+
 
 ## Latest isolated reconciliation and visual-review checkpoint — 28 November 2026
 
