@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b06-14c-20261128T1615Z
+Scope: PR54 isolated new 14C diabetic autonomic neuropathy candidate package, no shared navigation or prior bank edits.
+Claimed UTC: 2026-11-28T16:15:00Z
+Expiry UTC: 2026-11-28T16:45:00Z
 
 Last owner: endocrine-b06-resume-20261128T1609Z
 Release: 14B candidate package completed, all five new files exactly read back and all 1429 prior branch blobs preserved.
