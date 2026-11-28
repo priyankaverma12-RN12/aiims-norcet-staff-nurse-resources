@@ -104,28 +104,28 @@ VHSNC village health, sanitation aur nutrition par community action promote kart
 
 </details>
 
-### Q5. Which worker commonly supports preschool activities at an Anganwadi centre?
+### Q5. Under the national NHM VHSNC guidance, which worker acts as the committee's member secretary and convener?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** Health workers and referral | **Type:** Original practice
 
-- **A.** Anganwadi worker
-- **B.** Radiographer
-- **C.** Operating theatre technician
-- **D.** Blood bank technician
+- **A.** Block medical officer
+- **B.** District collector
+- **C.** Radiographer
+- **D.** ASHA
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Anganwadi worker**
+**Correct: D. ASHA**
 
-Anganwadi worker early childhood care aur preschool activities mein role nibhati hai.
+National NHM guidance mein village ASHA VHSNC member secretary aur convener ka role nibhati hai; state-specific arrangements separately check karein.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Radiographer diagnostic imaging karta hai.
-- **C.** OT technician surgical team ko support karta hai.
-- **D.** Blood bank technician transfusion services mein kaam karta hai.
+- **A.** Block medical officer block-level services oversee karta hai, national guidance ka specified village convener nahi.
+- **B.** District collector district administration mein role nibhata hai, village committee ka designated convener nahi.
+- **C.** Radiographer imaging services provide karta hai, national VHSNC convener nahi.
 
-**Exam clue:** Match preschool services to the community worker.
+**Exam clue:** Distinguish the national guidance from state-specific adaptations.
 
 </details>
 
