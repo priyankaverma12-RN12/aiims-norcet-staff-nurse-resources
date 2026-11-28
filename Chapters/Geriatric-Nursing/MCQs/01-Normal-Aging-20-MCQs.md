@@ -354,26 +354,26 @@ Bone continuously remodel hoti hai. Jab osteoclasts bone ko remove karte hain au
 
 </details>
 
-### Q15. A previously active older adult loses strength during a prolonged admission with minimal activity. Which principle should guide recovery planning?
+### Q15. An older adult with gradually reduced sense of smell says they rely on odour to decide whether refrigerated food is safe. Which practical advice is most appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Muscle disuse | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Olfactory decline | **Type:** Original practice
 
-- **A.** Disuse can compound age-associated loss of muscle and requires individualized rehabilitation
-- **B.** All lost strength is irreversible after age 65
-- **C.** Strict bed rest is the primary method of rebuilding muscle
-- **D.** Recovery is determined by chronological age alone
+- **A.** Use storage dates, temperature and safe food-handling guidance rather than smell alone
+- **B.** Rely exclusively on tasting food that smells normal
+- **C.** Keep food at room temperature to make its odour easier to detect
+- **D.** Assume gradual smell loss eliminates the possibility of foodborne illness
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Disuse can compound age-associated loss of muscle and requires individualized rehabilitation**
+**Correct: A. Use storage dates, temperature and safe food-handling guidance rather than smell alone**
 
-Muscle ko maintain karne ke liye regular activity chahiye. Bed rest se disuse-related weakness age-associated changes ke upar add ho sakti hai. Safe progressive rehabilitation patient ki condition aur goals ke hisaab se plan hoti hai.
+Smell kam hone par spoiled food ka odour notice nahi ho sakta. Storage time, safe refrigeration aur food-handling guidance use karne se patient smell par depend kiye bina food safety maintain kar sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Older muscles rehabilitation se improve kar sakti hain. Age threshold se recovery impossible decide karna sahi nahi hai.
-- **C.** Bed rest disuse ko aur badha sakta hai. Acute contraindication ho toh rest zaroori ho sakta hai, lekin recovery ke liye appropriate movement chahiye.
-- **D.** Baseline function, illness severity, nutrition aur rehabilitation support recovery ko influence karte hain. Age alone se outcome decide nahi hota.
+- **B.** Food ka taste normal hona safety guarantee nahi karta. Suspect food taste karke test karna exposure risk create kar sakta hai.
+- **C.** Room temperature par perishable food rakhne se microbial growth ka risk badh sakta hai. Odour detect karne ke liye unsafe storage nahi karna chahiye.
+- **D.** Olfactory decline foodborne illness prevent nahi karta. In fact, warning cue miss hone par practical safety measures aur important ho jaate hain.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -512,3 +512,5 @@ Processing speed kuch older adults mein slow ho sakti hai, jabki learning aur de
 - [Geriatric Health MCQs video lead](https://www.youtube.com/watch?v=3vkhsUUwscA) — indexed description indicates elderly-care questions, channel, exact coverage and playback pending. No verified question mapping claimed.
 
 Clinical care follows local protocols and individualized clinical assessment. No exam appearance claimed. All 20 item-level practice video mappings remain pending.
+
+Additional targeted audit references: [NIA: How Smell and Taste Change as You Age](https://www.nia.nih.gov/health/publication/smell-and-taste) — sensory safety for Q15.

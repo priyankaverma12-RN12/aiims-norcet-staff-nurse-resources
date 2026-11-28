@@ -54,26 +54,26 @@ Transport aur bills jaise complex kaam independent community living ko support k
 
 </details>
 
-### Q3. A nurse wants a standardized measure of dependence in bathing, dressing, toileting, transferring, continence and feeding. Which tool best fits this purpose?
+### Q3. Using a six-item Katz ADL scoring form that awards one point for independence in each item, an older patient is independent in bathing, dressing, toileting, transferring and feeding but dependent for continence. What score should be documented on this form?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Katz scale | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Katz item scoring | **Type:** Original practice
 
-- **A.** Katz Index of Independence in Activities of Daily Living
-- **B.** Lawton Instrumental Activities of Daily Living Scale
-- **C.** Glasgow Coma Scale
-- **D.** Geriatric Depression Scale
+- **A.** 5 out of 6
+- **B.** 6 out of 6
+- **C.** 4 out of 6
+- **D.** 1 out of 6
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Katz Index of Independence in Activities of Daily Living**
+**Correct: A. 5 out of 6**
 
-Katz index basic self-care ke specific domains assess karta hai. Isse nurse identify kar sakti hai ki patient kin activities mein independent hai aur kahan assistance chahiye.
+Given scoring rule mein five independent domains hain aur continence mein dependence hai. Har independent item ka one point add karne se total 5 out of 6 aata hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Lawton scale complex community tasks jaise shopping aur managing money ke liye useful hai. Yeh question basic ADL domains ke baare mein hai.
-- **C.** GCS eye, verbal aur motor responses se level of consciousness assess karta hai. Yeh bathing ya feeding independence ko score nahi karta.
-- **D.** GDS depressive symptoms screen karti hai. Iska primary purpose basic functional dependence measure karna nahi hai.
+- **B.** Six points tab milte jab patient all six listed domains mein independent hota. Continence dependence ki wajah se ek point nahi milta.
+- **C.** Four points ke liye four independent domains hone chahiye. Stem explicitly five independent activities describe karta hai.
+- **D.** One point sirf ek independent domain ko represent karta. Yahan five domains independent hain, isliye one score inaccurate hoga.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -429,26 +429,26 @@ Multiple problems ek doosre ko affect kar sakte hain. Shared goals aur coordinat
 
 </details>
 
-### Q18. A patient with mild memory difficulty clearly expresses a preference about discharge and demonstrates understanding of the relevant risks. Which approach is most appropriate?
+### Q18. During a home visit, an older adult reports independent meal preparation, but a relative says the person frequently leaves cooking unfinished. What is the most useful next step in the geriatric functional assessment?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Supported autonomy | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Reconciling functional reports | **Type:** Original practice
 
-- **A.** Support the patient's participation and assess decision-making capacity for the particular decision if concerns remain
-- **B.** Assume any memory difficulty removes all decision-making ability
-- **C.** Allow relatives to override the patient solely because of age
-- **D.** Obtain agreement by withholding information about alternatives
+- **A.** With the patient's participation, explore the discrepancy and assess actual task performance and safety
+- **B.** Accept the relative's statement as conclusive without discussing it with the patient
+- **C.** Record full independence solely from the patient's first answer
+- **D.** Classify the person as completely dependent in all basic activities
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Support the patient's participation and assess decision-making capacity for the particular decision if concerns remain**
+**Correct: A. With the patient's participation, explore the discrepancy and assess actual task performance and safety**
 
-Memory difficulty aur decision-making capacity same cheez nahi hain. Patient ko accessible information aur support dena chahiye, aur concern ho toh specific decision ke context mein capacity assess hoti hai.
+Self-report aur collateral report dono useful hain, lekin difference hone par actual meal preparation aur safety context assess karna chahiye. Patient ki participation aur consent maintain karte hue team specific support needs identify kar sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Mild memory problem se every decision ki incapacity automatically establish nahi hoti. Capacity decision-specific ho sakti hai.
-- **C.** Age ya family preference alone patient ke expressed choice ko override karne ka basis nahi hai. Applicable legal aur clinical process follow karna chahiye.
-- **D.** Alternatives hide karne se informed decision-making compromise hoti hai. Patient ko relevant information samajhne ka opportunity dena chahiye.
+- **B.** Relative ka observation valuable ho sakta hai, lekin woh automatically complete functional assessment nahi hai. Patient ka perspective bhi consider karna chahiye.
+- **C.** First answer ko alone final maan lene se safety concern miss ho sakta hai. Specific task observation ya further assessment discrepancy clarify kar sakti hai.
+- **D.** Ek instrumental task mein difficulty se all basic ADLs ki dependence establish nahi hoti. Har relevant domain separately assess karna chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -512,3 +512,5 @@ CGA follow-up mein objective improvement aur patient ke meaningful goal dono dek
 - [Geriatric Health MCQs video lead](https://www.youtube.com/watch?v=3vkhsUUwscA) — exact CGA coverage, channel and playback pending. All 20 specific mappings remain pending.
 
 No historical exam appearance is claimed. Clinical care follows individualized assessment, applicable law and local protocols.
+
+Additional targeted audit references: Katz scoring item explicitly specifies the one-point-per-independent-item version. Other variants require their own instructions.

@@ -29,26 +29,26 @@ Delirium har baar restlessness ke roop mein nahi dikhta. Hypoactive form mein pa
 
 </details>
 
-### Q2. A trained practitioner needs a brief structured delirium assessment for an older person on a general medical ward with recent mental status changes. Which tool is recommended by NICE in this setting?
+### Q2. An 82-year-old with a hip fracture is admitted to a general ward without current delirium symptoms. Which approach is most appropriate during the first day of admission?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Delirium assessment setting | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Early prevention bundle | **Type:** Original practice
 
-- **A.** Glasgow Coma Scale as a complete delirium diagnostic tool
-- **B.** Mini Nutritional Assessment
-- **C.** 4AT
-- **D.** Aldrete recovery score
+- **A.** Wait until agitation develops before considering prevention
+- **B.** Use prophylactic sedatives routinely instead of environmental and clinical measures
+- **C.** Assess individual delirium risk contributors and begin a tailored multicomponent prevention plan
+- **D.** Treat a normal initial mental status as proof that delirium cannot develop
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. 4AT**
+**Correct: C. Assess individual delirium risk contributors and begin a tailored multicomponent prevention plan**
 
-4AT alertness, orientation-related items, attention aur acute change ko assess karta hai. General ward mein indicators present hon toh trained practitioner is tool ko use kar sakta hai, aur diagnosis clinical assessment se confirm hoti hai.
+Hip fracture aur advanced age delirium risk factors ho sakte hain. Admission ke early phase mein hydration, oxygenation, pain, mobility, medicines, orientation aur sleep jaise individual contributors assess karke prevention plan banana useful hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** GCS consciousness ka useful measure hai, lekin delirium ke fluctuation aur attention features ka complete assessment nahi hai.
-- **B.** Mini Nutritional Assessment nutrition risk evaluate karti hai. Delirium assessment ke liye separate suitable tool chahiye.
-- **D.** Aldrete score post-anesthetic recovery mein use hota hai. General ward delirium identification ke liye 4AT zyada relevant hai.
+- **A.** Delirium develop hone ke baad assessment important hai, lekin high-risk patient mein prevention usse pehle start ki ja sakti hai.
+- **B.** Routine sedatives adverse effects aur confusion ka risk badha sakte hain. Tailored non-drug aur clinical prevention measures primary approach hain.
+- **D.** Normal initial mental status future delirium risk exclude nahi karta. Ongoing observation aur prevention appropriate hain.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -254,51 +254,51 @@ Haloperidol dopamine receptors block karta hai aur Parkinson disease mein motor 
 
 </details>
 
-### Q11. A person with diagnosed dementia develops an abrupt deterioration from usual behavior during an admission. When the team cannot confidently distinguish delirium from dementia progression, what is the safest approach?
+### Q11. An older adult's delirium improves after treatment of its identified cause, and discharge is being planned. What communication should the nurse ensure for continuity of care?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Superimposed delirium | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Delirium discharge continuity | **Type:** Original practice
 
-- **A.** Assess and manage possible delirium first while continuing appropriate dementia support
-- **B.** Attribute every new symptom to irreversible dementia progression
-- **C.** Stop investigating medical causes once dementia is documented
-- **D.** Wait several weeks before considering acute assessment
+- **A.** Document the delirium episode, likely contributing cause, current cognitive status and agreed follow-up needs
+- **B.** Omit the episode because the patient appears better today
+- **C.** Record a permanent dementia diagnosis solely because delirium occurred
+- **D.** Transfer only the medication list without relevant cognitive information
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Assess and manage possible delirium first while continuing appropriate dementia support**
+**Correct: A. Document the delirium episode, likely contributing cause, current cognitive status and agreed follow-up needs**
 
-Dementia patient ko delirium bhi develop ho sakta hai. Abrupt baseline change mein reversible acute causes investigate karna important hai, aur uncertainty mein delirium management ko priority deni chahiye.
+Delirium episode resolve hone par bhi future clinicians ko baseline, cause aur current status samajhna helpful hai. Discharge communication aur follow-up se persistent symptoms ya recurrence appropriately assess ho sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Dementia progression usually longer trajectory mein assess hoti hai. Abrupt change ko automatically irreversible maan lene se treatable cause miss ho sakta hai.
-- **C.** Existing dementia diagnosis acute infection, hypoxia ya medicine-related problems exclude nahi karti. Medical assessment continue rehni chahiye.
-- **D.** Acute deterioration time-sensitive ho sakti hai. Several weeks ka wait prompt treatment delay kar sakta hai.
+- **B.** Improvement ke baad bhi episode clinically relevant history hai. Omit karne se future acute changes compare karne mein difficulty ho sakti hai.
+- **C.** Delirium aur dementia separate conditions hain aur coexist kar sakti hain. Delirium history alone permanent dementia diagnosis establish nahi karti.
+- **D.** Medication list important hai, lekin cognitive trajectory aur follow-up needs bhi transition plan ka part hain. Relevant clinical context share karna chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q12. A family describes progressive difficulties managing familiar tasks, but the older adult scores within the expected range on a brief cognitive instrument. Which response is most appropriate?
+### Q12. A person with established cognitive impairment can see a familiar household object clearly but cannot recognize what it is, despite adequate primary vision. Which term best describes this specific deficit?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Cognitive screening interpretation | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Functional cognitive symptom | **Type:** Original practice
 
-- **A.** Exclude dementia definitively using the screening score alone
-- **B.** Diagnose delirium solely because the screening score is normal
-- **C.** Continue clinical evaluation because a normal brief score alone does not exclude dementia
-- **D.** Use the screening score as the sole measure of all daily functioning
+- **A.** Presbyopia
+- **B.** Dysarthria
+- **C.** Visual agnosia
+- **D.** Ataxia
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Continue clinical evaluation because a normal brief score alone does not exclude dementia**
+**Correct: C. Visual agnosia**
 
-Brief cognitive screen limited domains assess karta hai. Progressive functional concerns aur collateral history clinically important hain, isliye normal score ke bawajood further appropriate evaluation ho sakti hai.
+Agnosia mein sensory input receive hone ke bawajood familiar stimulus recognize karne mein difficulty hoti hai. Yahan primary vision adequate hai lekin object recognition impaired hai, isliye visual agnosia term fit hota hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Normal brief score dementia ko definitively exclude nahi karta. History, function aur specialist assessment when indicated important hain.
-- **B.** Normal cognitive score delirium diagnosis establish nahi karta. Acute change, attention aur clinical context assess karna hota hai.
-- **D.** Screening score daily activities ke every aspect ko directly measure nahi karta. Functional history separately evaluate karni chahiye.
+- **A.** Presbyopia near focusing ki age-associated problem hai. Clear visual input hone ke baad object identify na kar pana alag cognitive deficit hai.
+- **B.** Dysarthria speech muscles ki motor control problem se unclear speech describe karti hai. Object recognition deficit ko yeh term describe nahi karta.
+- **D.** Ataxia coordination impairment ko describe karti hai. Stem mein movement coordination problem nahi, visual recognition problem hai.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -512,3 +512,5 @@ Early discussion se patient apne values aur future care preferences communicate 
 - [Geriatric Health MCQs video lead](https://www.youtube.com/watch?v=3vkhsUUwscA) — broad indexed description only, exact topic and all 20 question mappings pending.
 
 No historical exam appearance claimed. Clinical care follows local protocols, appropriate urgency and individualized professional assessment.
+
+Additional targeted audit references: NICE CG103 covers early prevention and recording delirium diagnosis in records; neurocognitive terminology for Q12 needs independent specialty review.

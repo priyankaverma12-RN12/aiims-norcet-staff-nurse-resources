@@ -254,26 +254,26 @@ Regular benzodiazepine use se physiological dependence ho sakti hai. Abrupt cess
 
 </details>
 
-### Q11. An older patient takes prescribed paracetamol and a combination cold remedy containing paracetamol. Which specific hazard should the nurse identify?
+### Q11. An older adult with chronic kidney disease taking an ACE inhibitor plans to use a potassium-containing salt substitute every day. Which risk should be discussed with the clinical team?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Duplicate ingredient | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Potassium-containing salt substitute | **Type:** Original practice
 
-- **A.** Unintentional duplicate ingredient exposure with potential excessive cumulative dose
-- **B.** A confirmed allergic reaction solely because two brands are used
-- **C.** A decrease in total paracetamol exposure when products are combined
-- **D.** A risk that can be assessed from brand names without checking ingredients
+- **A.** Possible hyperkalaemia due to increased potassium intake combined with impaired potassium handling
+- **B.** Guaranteed hypokalaemia because all salt substitutes remove potassium
+- **C.** A drug interaction that cannot occur with food products
+- **D.** A requirement to stop all dietary counselling once an ACE inhibitor is prescribed
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Unintentional duplicate ingredient exposure with potential excessive cumulative dose**
+**Correct: A. Possible hyperkalaemia due to increased potassium intake combined with impaired potassium handling**
 
-Combination remedies mein same active ingredient ho sakta hai. Dono products saath lene se cumulative paracetamol dose unintended limit cross kar sakti hai, isliye ingredients aur actual doses review karni chahiye.
+Kidney disease potassium excretion reduce kar sakti hai aur ACE inhibitor bhi potassium level badhane mein contribute kar sakta hai. Potassium-containing salt substitute additional intake deta hai, isliye clinician ya dietitian ke saath individualized review important hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Same active ingredient ki duplication dose-related harm ka concern hai, allergy automatically prove nahi karti. Allergy history aur symptoms alag assess hote hain.
-- **C.** Additional paracetamol-containing product total exposure badha sakta hai. Combining se dose automatically decrease nahi hoti.
-- **D.** Different brand names same active ingredient contain kar sakte hain. Label par active ingredients aur strength check karna zaroori hai.
+- **B.** Salt substitute ke ingredients vary karte hain. Potassium chloride-containing product potassium add kar sakta hai, isliye hypokalaemia guaranteed nahi hai.
+- **C.** Food aur supplements medication-related risks affect kar sakte hain. Product ingredients aur patient's renal function consider karna chahiye.
+- **D.** Dietary counselling ACE inhibitor therapy ke saath bhi relevant ho sakti hai. Safe salt reduction patient ki conditions aur treatment ke hisaab se plan ki jaati hai.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -304,76 +304,76 @@ ACE inhibitor, diuretic aur NSAID ka combination susceptible patient mein renal 
 
 </details>
 
-### Q13. A frail older adult using glucose-lowering medication has new sweating, shakiness and reduced alertness after missing a meal. What is the priority medication-related assessment?
+### Q13. A frail older adult taking a sulfonylurea has recurrent documented nocturnal hypoglycaemia despite HbA1c being within the previously agreed target. Which medication-review goal is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hypoglycaemia recognition | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Individualized diabetes targets | **Type:** Original practice
 
-- **A.** Assume the symptoms are an inevitable feature of aging
-- **B.** Administer the next glucose-lowering dose before checking the glucose
-- **C.** Wait until the next scheduled meal without assessment
-- **D.** Promptly check blood glucose and follow the hypoglycaemia protocol if indicated
+- **A.** Intensify glucose-lowering therapy solely because the patient is older
+- **B.** Ignore recurrent hypoglycaemia whenever HbA1c is within target
+- **C.** Use identical glycaemic targets for all older adults regardless of frailty
+- **D.** Review treatment intensity and consider a safer individualized glycaemic goal or regimen with the prescriber
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Promptly check blood glucose and follow the hypoglycaemia protocol if indicated**
+**Correct: D. Review treatment intensity and consider a safer individualized glycaemic goal or regimen with the prescriber**
 
-Missed meal ke baad kuch glucose-lowering medicines hypoglycaemia risk badha sakti hain. Symptoms aur reduced alertness mein prompt glucose assessment aur appropriate protocol-based treatment time-sensitive hai.
+HbA1c average glucose ka indicator hai aur individual hypoglycaemic episodes hide kar sakta hai. Frailty aur recurrent lows ke context mein clinician ko treatment burden, safety aur individualized glycaemic goals review karne chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sweating aur altered alertness ko normal aging maan lena unsafe hai. Acute reversible cause assess karna chahiye.
-- **B.** Next glucose-lowering dose existing low glucose ko worsen kar sakti hai. Assessment aur protocol-based response ke baad medication plan review hota hai.
-- **C.** Meal ka wait hypoglycaemia treatment delay kar sakta hai. Reduced alertness mein safe route aur emergency guidance follow karna zaroori hai.
+- **A.** Therapy intensify karne se hypoglycaemia risk badh sakta hai. Older age alone tighter control ka indication nahi hai.
+- **B.** Target HbA1c recurrent hypoglycaemia ko acceptable nahi banata. Documented episodes clinical review aur appropriate management require karte hain.
+- **C.** Functional status, comorbidities aur hypoglycaemia risk older adults mein different hote hain. Glycaemic goals patient-specific hone chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q14. An older patient with swallowing difficulty asks whether all tablets can be crushed into food. Which response is safest?
+### Q14. An older adult prescribed oral alendronate cannot remain sitting or standing upright for 30 minutes because of a severe functional limitation. What should the nurse do before administration?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteric and modified release formulations | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Oral bisphosphonate safety | **Type:** Original practice
 
-- **A.** Check each formulation with a pharmacist and arrange suitable alternatives before crushing
-- **B.** Crush all tablets because swallowing difficulty overrides formulation properties
-- **C.** Assume modified-release and enteric-coated products are always safe to crush
-- **D.** Hide crushed medicines in food without consent or an appropriate legal process
+- **A.** Raise the contraindication with the prescriber and arrange review of suitable alternatives
+- **B.** Administer it while the patient remains flat in bed
+- **C.** Crush it into food so the upright requirement no longer applies
+- **D.** Give an extra dose to compensate for possible impaired absorption
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Check each formulation with a pharmacist and arrange suitable alternatives before crushing**
+**Correct: A. Raise the contraindication with the prescriber and arrange review of suitable alternatives**
 
-Tablet formulation medicine release aur protection control kar sakti hai. Kuch tablets crush karne se dose rapidly release ho sakti hai ya coating ka purpose lose ho sakta hai. Pharmacist se product-specific review chahiye.
+Oral alendronate oesophagus irritate kar sakta hai aur administration ke baad upright rehna safety requirement hai. Patient yeh position maintain nahi kar sakta toh prescriber se suitable alternative review karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Swallowing difficulty genuine barrier hai, lekin har tablet crush-safe nahi hoti. Liquid ya alternative formulation consider ki ja sakti hai.
-- **C.** Modified-release aur enteric-coated products mein crushing often problematic ho sakti hai. Product-specific instructions check karni chahiye.
-- **D.** Covert administration consent aur capacity ke legal aur ethical safeguards require kar sakti hai. Routine hidden administration appropriate nahi hai.
+- **B.** Flat position mein administration oesophageal exposure aur irritation risk badha sakti hai. Standard safe administration requirement ignore nahi karni chahiye.
+- **C.** Crushing aur food mein mix karna upright requirement ko cancel nahi karta aur administration instructions violate kar sakta hai. Product-specific guidance follow karni chahiye.
+- **D.** Extra dose safety problem solve nahi karti aur harm risk badha sakti hai. Regimen suitability clinician review se decide hoti hai.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q15. An older patient is discharged with a medication marked stopped, but an old repeat prescription still lists it as active. What should the nurse do?
+### Q15. An older person with arthritis and reduced inspiratory ability has repeated difficulty using the prescribed inhaler despite understanding its purpose. Which medication-safety intervention best addresses this problem?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Discharge discrepancy | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Inhaler device suitability | **Type:** Original practice
 
-- **A.** Tell the patient to take both versions of the plan until the next visit
-- **B.** Delete the old record without confirming which plan is current
-- **C.** Clarify the discrepancy with the responsible prescriber and communicate the verified current plan across care settings
-- **D.** Assume the community pharmacy will automatically know all hospital changes
+- **A.** Assume the medicine is ineffective without checking delivery technique
+- **B.** Recommend doubling every inhaled dose to compensate for uncertain delivery
+- **C.** Observe technique and request a clinician or pharmacist review of a device that matches the patient's abilities
+- **D.** Select the same inhaler type for all older adults regardless of ability
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Clarify the discrepancy with the responsible prescriber and communicate the verified current plan across care settings**
+**Correct: C. Observe technique and request a clinician or pharmacist review of a device that matches the patient's abilities**
 
-Transfer of care mein outdated prescription aur new plan mismatch kar sakte hain. Responsible clinician se clarification aur verified communication se unintended restart ya omission prevent ho sakta hai.
+Inhaler device ko activate karne aur medicine inhale karne ki physical ability effective delivery ke liye important hai. Technique observe karke team suitable device, training ya prescribed assistance review kar sakti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Dono contradictory instructions follow karna unsafe ho sakta hai. Patient ko one verified current plan chahiye.
-- **B.** Record silently delete karne se correct therapy accidentally remove ho sakti hai. Discrepancy resolve aur reason document karna zaroori hai.
-- **D.** Community pharmacy ko discharge changes timely receive karna important hai. Automatic knowledge assume karne se communication gap reh sakta hai.
+- **A.** Poor clinical response technique ya device mismatch se related ho sakta hai. Medicine failure conclude karne se pehle delivery assess karni chahiye.
+- **B.** Unverified dose doubling adverse effects cause kar sakti hai aur technique problem solve nahi karti. Prescribed dose aur safe device use review hona chahiye.
+- **D.** Inhaler devices ke handling aur inspiratory requirements different ho sakte hain. Device selection patient ki actual ability aur clinical indication par depend karti hai.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -514,3 +514,5 @@ Specific chronology aur observations se clinician medication-related harm assess
 - [Geriatric Health MCQs video lead](https://www.youtube.com/watch?v=3vkhsUUwscA) — broad description only, specific drug-safety coverage, channel and all 20 item-level mappings pending.
 
 No historical exam appearance claimed. Drug-specific clinical verification, including interaction, crushing and hypoglycaemia protocols, remains part of the independent audit. Clinical care follows authorized prescriptions, current local protocols and individual assessment.
+
+Additional targeted audit references: [ADA Standards of Care in Diabetes 2026: Older Adults](https://diabetesjournals.org/care/article/49/Supplement_1/S277/163921/13-Older-Adults-Standards-of-Care-in-Diabetes-2026), [NHS alendronic acid suitability](https://www.nhs.uk/medicines/alendronic-acid/who-can-and-cannot-take-alendronic-acid/) — Q13 and Q14. Q11 and Q15 drug-specific source checks remain pending.

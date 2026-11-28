@@ -179,101 +179,101 @@ Loose rug mechanical trip hazard hai. Rug remove ya securely fix karne aur pathw
 
 </details>
 
-### Q8. An older adult walks indoors in loose, worn slippers that slide on smooth tiles. What footwear advice is most appropriate?
+### Q8. An older adult sustains a wrist fracture after a fall from standing height. After acute fracture care is arranged, which additional preventive assessment is particularly relevant?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Footwear | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Secondary fracture prevention | **Type:** Original practice
 
-- **A.** Use larger slippers so the toes never touch the front
-- **B.** Use well-fitting supportive footwear with suitable slip-resistant soles
-- **C.** Select footwear solely by its heel height without checking fit
-- **D.** Walk barefoot on slippery surfaces to improve sensation
+- **A.** Assume the fracture proves normal bone strength
+- **B.** Assess bone health and future fragility-fracture risk, with appropriate referral
+- **C.** Assess only the wrist and omit future fracture risk
+- **D.** Use the absence of a previous hip fracture to rule out osteoporosis
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Use well-fitting supportive footwear with suitable slip-resistant soles**
+**Correct: B. Assess bone health and future fragility-fracture risk, with appropriate referral**
 
-Well-fitting supportive footwear foot ko stable contact deta hai. Suitable slip-resistant sole smooth floor par slipping ka risk reduce karne mein help kar sakta hai.
+Standing-height fall ke baad fracture fragility fracture ho sakta hai. Acute injury care ke saath bone health aur future fracture risk assess karke appropriate secondary prevention plan kiya ja sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Oversized footwear foot se slip ho sakta hai ya toe clearance affect kar sakta hai. Comfortable secure fit important hai.
-- **C.** Heel height relevant factor ho sakta hai, lekin fit, fastening aur sole grip bhi assess karne chahiye. Ek measure enough nahi hai.
-- **D.** Barefoot walking har patient ke liye safe nahi hoti, especially slippery floor ya sensory impairment mein. Individual foot protection important hai.
+- **A.** Low-trauma fracture normal bone strength prove nahi karta. Bone fragility assess karna appropriate hai.
+- **C.** Wrist injury treatment important hai, lekin future fractures ka risk address karne ka opportunity bhi milta hai. Bone-health review separate preventive step hai.
+- **D.** Hip fracture history absent hone se osteoporosis rule out nahi hoti. Other fragility fractures aur risk factors bhi relevant hain.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q9. A hospitalized older adult repeatedly rushes to the toilet at night because of urinary urgency. Which nursing plan best targets this situation while preserving independence?
+### Q9. An older adult living alone was unable to summon help for several hours after a fall because the telephone was out of reach. Which preventive intervention addresses this specific risk?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Night toileting | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Summoning assistance after a fall | **Type:** Original practice
 
-- **A.** Restrict all fluids throughout the day without assessing hydration
-- **B.** Provide accessible call bell, suitable lighting and individualized toileting assistance or scheduling
-- **C.** Raise every bedrail as a substitute for assistance
-- **D.** Tell the patient to wait until the morning regardless of urgency
+- **A.** Keep the telephone on a high shelf to protect it from damage
+- **B.** Agree a reliable means of summoning assistance that remains accessible during a fall
+- **C.** Assume a daily visit eliminates the need for an emergency contact plan
+- **D.** Advise the patient to stand up alone after every fall before contacting anyone
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Provide accessible call bell, suitable lighting and individualized toileting assistance or scheduling**
+**Correct: B. Agree a reliable means of summoning assistance that remains accessible during a fall**
 
-Urgency aur dark environment unsafe rushing ka risk badha sakte hain. Easy call access, lighting aur timely toileting support se patient dignity aur safety dono maintain kar sakta hai.
+Fall ke baad help na milne se long lie aur complications ka risk badh sakta hai. Patient ki preference aur ability ke hisaab se accessible alarm ya contact arrangement aur uska practice plan helpful hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Unassessed fluid restriction dehydration aur doosri problems cause kar sakti hai. Fluid plan medical needs ke hisaab se individualized hona chahiye.
-- **C.** Bedrails har patient ke liye appropriate nahi hain aur climbing ya entrapment risk ho sakta hai. Yeh timely toileting support replace nahi karti hain.
-- **D.** Urgency ko ignore karne se distress, leakage ya unsafe independent attempt ho sakta hai. Nurse ko timely assistance plan karni chahiye.
+- **A.** High shelf par telephone fallen person ki reach se bahar ho sakta hai. Emergency communication device accessible hona chahiye.
+- **C.** Daily visits support provide kar sakti hain, lekin visits ke beech emergency ho sakti hai. Reliable contact plan ki need remain karti hai.
+- **D.** Har fall ke baad independent standing safe nahi hoti, especially possible injury mein. Patient ko individualized emergency instructions chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q10. A nurse finds an older inpatient on the floor after an unwitnessed fall. The patient is awake and reports new hip pain. What should happen before attempting a routine assisted transfer?
+### Q10. An older person is found after lying on the floor for many hours and has muscle pain and dark urine. After immediate stabilization, which complication requires specific urgent evaluation?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Post-fall assessment | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Long-lie complications | **Type:** Original practice
 
-- **A.** Assess immediate stability and possible injury, obtain help and follow the post-fall protocol
-- **B.** Return the patient to bed immediately to avoid embarrassment
-- **C.** Ask the patient to demonstrate weight bearing before any assessment
-- **D.** Complete incident paperwork before checking clinical status
+- **A.** Rhabdomyolysis with possible acute kidney injury
+- **B.** Uncomplicated presbyopia
+- **C.** Stable age-related hearing loss
+- **D.** Isolated chronic cataract
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Assess immediate stability and possible injury, obtain help and follow the post-fall protocol**
+**Correct: A. Rhabdomyolysis with possible acute kidney injury**
 
-Unwitnessed fall aur new hip pain mein injury possible hai. Nurse pehle immediate clinical stability aur injury assess karti hai, help leti hai aur safe movement ke liye protocol follow karti hai.
+Prolonged pressure aur immobility se muscle injury ho sakti hai. Muscle breakdown mein myoglobin release ho sakta hai, jo dark urine aur kidney injury se associated hai. Urgent clinical aur laboratory evaluation chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Immediate routine transfer suspected injury ko worsen kar sakta hai. Dignity protect karte hue safe assessment priority hai.
-- **C.** Weight bearing force karne se possible fracture mein harm ho sakta hai. Clinical assessment ke baad appropriate movement decide hota hai.
-- **D.** Incident report important documentation hai, lekin acute clinical assessment aur safety pehle aati hai.
+- **B.** Presbyopia near-vision focusing problem hai. Long lie, muscle pain aur dark urine ka combination usse explain nahi hota.
+- **C.** Hearing loss communication affect kar sakti hai, lekin muscle breakdown ke concerning signs ka explanation nahi hai.
+- **D.** Cataract lens opacity hai. Is acute presentation mein muscle aur renal complications evaluate karna zyada relevant hai.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
 </details>
 
-### Q11. An anticoagulated older adult reports striking the head during a fall but initially feels well. What is the most appropriate nursing response?
+### Q11. An older adult walks steadily along a quiet corridor but becomes markedly unsteady when simultaneously talking and changing direction. Which observation should guide individualized mobility assessment?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Head injury escalation | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Dual-task walking | **Type:** Original practice
 
-- **A.** Reassure solely because headache is absent
-- **B.** Delay all assessment until visible bruising appears
-- **C.** Advise independently stopping anticoagulation permanently
-- **D.** Arrange prompt clinical assessment using the head-injury pathway because occult bleeding is possible
+- **A.** Steady straight-line walking excludes every dynamic mobility problem
+- **B.** Talking during walking is a diagnostic test for osteoporosis
+- **C.** A normal resting pulse rules out task-related balance problems
+- **D.** Divided attention during a complex walking task can expose additional gait instability
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Arrange prompt clinical assessment using the head-injury pathway because occult bleeding is possible**
+**Correct: D. Divided attention during a complex walking task can expose additional gait instability**
 
-Anticoagulation bleeding risk badha sakti hai aur head injury ke baad symptoms initially absent ho sakte hain. Prompt assessment aur local head-injury protocol se further evaluation ki need decide hoti hai.
+Walking aur talking saath karne par attention divide hoti hai. Turning ke saath instability dikhe toh real-world mobility demands ko safe supervised assessment mein consider karna useful hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Headache absent hone se intracranial bleeding completely exclude nahi hoti. Mechanism aur anticoagulant use ko consider karna important hai.
-- **B.** External bruising intracranial injury ka reliable prerequisite nahi hai. Visible sign ka wait dangerous delay create kar sakta hai.
-- **C.** Anticoagulant ka risk-benefit underlying indication par depend karta hai. Nurse urgent review arrange karti hai, permanent discontinuation independently decide nahi karti.
+- **A.** Straight-line walking mein demand relatively simple ho sakti hai. Turning aur divided attention additional instability reveal kar sakti hain.
+- **B.** Osteoporosis bone fragility se related hai. Talking while walking uska diagnostic test nahi hai.
+- **C.** Resting pulse cardiovascular observation hai. Yeh complex gait task ke balance performance ko directly assess nahi karta.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -304,26 +304,26 @@ Unexplained collapse mein transient consciousness loss ya cardiovascular cause p
 
 </details>
 
-### Q13. Two older adults have the same number of chronic diagnoses. One remains robust while the other experiences prolonged dependence after minor stressors. Which distinction is most relevant?
+### Q13. One older adult has a longstanding stable physical disability but manages predictable daily routines. Another has progressively reduced endurance, weakness and poor recovery after illness. Which distinction is important when considering frailty?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Frailty concept | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Frailty versus stable disability | **Type:** Original practice
 
-- **A.** Frailty reflects increased vulnerability to stressors and is not synonymous with disease count
-- **B.** Multimorbidity and frailty are identical in every individual
-- **C.** Frailty is defined only by chronological age
-- **D.** Frailty can be determined solely from a single blood pressure reading
+- **A.** Stable disability does not by itself establish frailty, which requires assessment of vulnerability and reserve
+- **B.** Any need for an assistive device automatically proves severe frailty
+- **C.** All disabilities and frailty have identical clinical definitions
+- **D.** An older adult without a disability can never be frail
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Frailty reflects increased vulnerability to stressors and is not synonymous with disease count**
+**Correct: A. Stable disability does not by itself establish frailty, which requires assessment of vulnerability and reserve**
 
-Frailty mein physiological reserve aur recovery capacity kam ho sakti hai, isliye stressor ke baad disproportionate decline hota hai. Chronic disease count equal hone par bhi vulnerability different ho sakti hai.
+Disability specific activities mein limitation describe kar sakti hai, jabki frailty increased vulnerability aur reserve loss se related hai. Dono coexist kar sakte hain, lekin stable disability ko automatically frailty label nahi karna chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Multimorbidity multiple chronic diseases describe karti hai. Frailty related ho sakti hai, lekin dono concepts identical nahi hain.
-- **C.** Same age ke older adults ka reserve, mobility aur functional trajectory different ho sakta hai. Age alone frailty define nahi karti.
-- **D.** BP ek cardiovascular measure hai. Frailty ke liye broader validated assessment aur clinical context chahiye.
+- **B.** Assistive device patient ko function improve karne mein support kar sakta hai. Device use alone severe frailty establish nahi karta.
+- **C.** Disability aur frailty related but distinct concepts hain. Individual history aur validated assessment important hain.
+- **D.** Frailty early stage mein obvious disability ke bina bhi present ho sakti hai. Functional trajectory aur vulnerability assess karni chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -454,26 +454,26 @@ Multifocal lenses ke different viewing zones steps judge karne ko affect kar sak
 
 </details>
 
-### Q19. An older person borrows a neighbour's walking frame and leans markedly forward because its height is unsuitable. What should the nurse arrange?
+### Q19. An older adult with peripheral neuropathy has difficulty detecting uneven ground even while wearing appropriate footwear. Which additional assessment is most relevant to the fall-prevention plan?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Assistive device fit | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Foot sensation and balance | **Type:** Original practice
 
-- **A.** An individualized mobility-aid assessment, correct fitting and safe-use training
-- **B.** Continued use without adjustment because any frame reduces falls
-- **C.** Immediate removal of all mobility support despite instability
-- **D.** A heavier frame selected solely according to chronological age
+- **A.** Assess lower-limb sensory loss and proprioceptive contribution to balance, with individualized mobility support
+- **B.** Assume correct footwear fully restores lost sensation
+- **C.** Assess only visual acuity and disregard the reported sensory deficit
+- **D.** Encourage walking on deliberately uneven surfaces without supervision
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. An individualized mobility-aid assessment, correct fitting and safe-use training**
+**Correct: A. Assess lower-limb sensory loss and proprioceptive contribution to balance, with individualized mobility support**
 
-Walking aid ka fit aur use patient ki posture, gait aur strength se match hona chahiye. Proper assessment aur training se aid useful support de sakta hai instead of creating new risk.
+Proprioception body position ka sense hai, aur peripheral neuropathy sensory feedback reduce kar sakti hai. Lower-limb sensation aur balance assess karke safe individualized mobility support plan karna useful hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Unsuitable height balance aur posture affect kar sakti hai. Any frame automatically safe nahi hota.
-- **C.** Support remove karne se instability worsen ho sakti hai. Appropriate replacement ya fitting assess karna safer approach hai.
-- **D.** Frame selection age alone par based nahi hota. Individual mobility, physical capacity aur environment relevant factors hain.
+- **B.** Appropriate footwear protection aur grip improve kar sakti hai, lekin damaged sensory pathways ko automatically restore nahi karti.
+- **C.** Vision balance mein contribute karti hai, lekin patient ka lower-limb sensory deficit bhi relevant hai. Assessment ko multiple domains cover karne chahiye.
+- **D.** Unsupervised uneven surface practice injury risk badha sakti hai. Exercise challenge capacity aur professional guidance ke hisaab se progress karna chahiye.
 
 **YouTube MCQ practice:** Verification pending for this specific question.
 
@@ -514,3 +514,5 @@ Near-falls residual instability ya environmental risk ka signal ho sakte hain. I
 - [Geriatric Health MCQs video lead](https://www.youtube.com/watch?v=3vkhsUUwscA) — indexed broad coverage only, all 20 question-specific mappings and playback pending.
 
 No historical exam appearance claimed. Clinical care follows current local protocols and individualized assessment.
+
+Additional targeted audit references: [NICE NG211 rehabilitation after traumatic injury](https://www.nice.org.uk/guidance/ng211/chapter/Recommendations), [Frimley Health falls guidance](https://guidelines.fhft.nhs.uk/Elderly_Care-Falls) — fragility fracture and long-lie considerations. Dynamic and sensory mobility details require independent review.
