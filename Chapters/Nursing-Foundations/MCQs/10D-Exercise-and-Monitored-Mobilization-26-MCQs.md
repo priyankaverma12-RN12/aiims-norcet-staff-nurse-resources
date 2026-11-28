@@ -58,7 +58,7 @@
 
 **Exam clue:** Supervision ko physical movement assistance mat samjho.
 
-**Clinical reference:** [Exercise and mobility guidance](https://www.ncbi.nlm.nih.gov/books/NBK610826/).
+**Clinical reference:** [OpenStax Clinical Nursing Skills 9.2, assessing range of motion](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -89,7 +89,7 @@
 
 **Exam clue:** Isometric ka exam clue muscle activation with minimal joint motion hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/fundamentals-of-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [OpenStax Clinical Nursing Skills 9.1, therapeutic exercise](https://openstax.org/books/clinical-nursing-skills/pages/9-1-assessing-functional-ability).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -120,7 +120,7 @@
 
 **Exam clue:** Static set aur moving resistance ko joint angle se differentiate karo.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/fundamentals-of-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [OpenStax Clinical Nursing Skills 9.1, therapeutic exercise](https://openstax.org/books/clinical-nursing-skills/pages/9-1-assessing-functional-ability).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -130,7 +130,7 @@
 
 ### Q05. A patient undergoing supervised active exercise is asked to slowly lower a light weight after elbow flexion. The elbow flexor muscles remain active while lengthening. Which contraction is occurring?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Eccentric contraction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Eccentric contraction
 
 - **A.** Isometric
 - **B.** Concentric
@@ -141,7 +141,7 @@
 
 **Correct answer: D. Eccentric**
 
-**A. Kyun galat hai:** Isometric mein appreciable muscle length aur joint angle change nahi hota. Yahan weight lower karte waqt movement ho rahi hai.
+**A. Kyun galat hai:** Isometric contraction mein joint angle appreciably change nahi hota, bhale hi muscle-tendon unit ke internal components mein small length changes ho sakti hain. Yahan weight lower karte waqt movement ho rahi hai.
 
 **B. Kyun galat hai:** Concentric contraction mein active muscle shorten hoti hai. Weight lift karte waqt elbow flexor shortening iska example ho sakta hai.
 
@@ -213,7 +213,7 @@
 
 **Exam clue:** ROM target se pehle patient ki new pain aur restriction assess karo.
 
-**Clinical reference:** [Exercise and mobility guidance](https://www.ncbi.nlm.nih.gov/books/NBK610826/).
+**Clinical reference:** [OpenStax Clinical Nursing Skills 9.2, assessing range of motion](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -244,7 +244,7 @@
 
 **Exam clue:** Post-repair movement range individual order se decide hoti hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [StatPearls Goniometer, positioning and technique](https://www.ncbi.nlm.nih.gov/books/NBK558985/).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -275,7 +275,7 @@
 
 **Exam clue:** Passive ROM mein support aur smooth movement zaroori hain.
 
-**Clinical reference:** [Exercise and mobility guidance](https://www.ncbi.nlm.nih.gov/books/NBK610826/).
+**Clinical reference:** [OpenStax musculoskeletal physical assessment, joint stabilization and passive ROM](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -337,7 +337,7 @@
 
 **Exam clue:** ROM trend ke liye same measurement setup important hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility).
+**Clinical reference:** [StatPearls Goniometer, positioning and technique](https://www.ncbi.nlm.nih.gov/books/NBK558985/).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -395,11 +395,11 @@
 
 **C. Kyun galat hai:** Maximal force prescribed exercise intensity se bahar ho sakti hai. Technique aur breathing pehle correct karo.
 
-**D. Kyun sahi hai:** Continuous controlled breathing se unnecessary Valsalva-type strain avoid karne mein help milti hai. Patient-specific clinical guidance aur exercise tolerance follow karo.
+**D. Kyun sahi hai:** Controlled breathing se breath holding aur Valsalva-type strain kam karne mein help milti hai. Ordinary strengthening mein effort ke dauran saans bahar chhodna aur return phase mein saans lena useful teaching hai. Breath holding se blood pressure badh sakta hai. Patient-specific clinical guidance aur exercise tolerance follow karo.
 
 **Exam clue:** Exercise ke dauran breathing technique bhi safety assessment ka part hai.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/fundamentals-of-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
+**Clinical reference:** [British Heart Foundation, safe breathing during strength exercise](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/activity/strength-exercises).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -409,7 +409,7 @@
 
 ### Q14. A patient is scheduled for a graded mobility session. Baseline blood pressure and oxygen saturation are documented, but resting respiratory rate has doubled since the previous session and the patient has new breathlessness. What is the best plan?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Pre-session respiratory change
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Pre-session respiratory change
 
 - **A.** Proceed because a prior session was tolerated
 - **B.** Reassess the new respiratory change and obtain appropriate clinical review before progression
@@ -422,7 +422,7 @@
 
 **A. Kyun galat hai:** Previous tolerance current readiness guarantee nahi karti. New breathlessness ko pehle assess karna chahiye.
 
-**B. Kyun sahi hai:** New respiratory rate aur symptoms deterioration ka signal ho sakte hain. Nurse mobility hold karke current assessment aur clinical escalation arrange kare.
+**B. Kyun sahi hai:** New respiratory rate aur symptoms deterioration ka signal ho sakte hain. Nurse planned activity hold kare, airway aur breathing assess kare, current vital signs verify kare aur symptoms ki severity ke according urgent clinical escalation arrange kare. Resting respiratory deterioration ko routine deconditioning assume mat karo.
 
 **C. Kyun galat hai:** Distance increase karne se demand badhegi. Acute unexplained respiratory change mein exercise progression appropriate nahi hai.
 
@@ -451,7 +451,7 @@
 
 **Correct answer: A. Stop the activity safely, assess airway and breathing, and escalate according to the care plan**
 
-**A. Kyun sahi hai:** Saturation prescribed target se neeche hai aur symptoms bhi present hain. Activity safely stop karo, patient ko support karo aur urgent assessment aur protocol-based escalation arrange karo.
+**A. Kyun sahi hai:** Saturation prescribed target se neeche hai aur symptoms bhi present hain. Activity safely stop karo, patient ko supported safe position do, airway aur breathing assess karo, prescribed oxygen ya emergency protocol follow karo aur urgent clinical help arrange karo. Probe signal bhi verify karo lekin symptomatic desaturation ko check karte hue indicated treatment delay mat karo.
 
 **B. Kyun galat hai:** Planned distance patient safety se important nahi hai. Hypoxemia aur breathlessness ko promptly assess karo.
 
@@ -554,7 +554,7 @@
 
 **Exam clue:** Standard orthostatic method mein supine baseline plus standing one and three minutes yaad rakho.
 
-**Clinical reference:** [Exercise and mobility guidance](https://www.cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf).
+**Clinical reference:** [CDC STEADI Measuring Orthostatic Blood Pressure, page 1](https://cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -568,7 +568,7 @@
 
 - **A.** Avoid forcing the standard standing test and seek an appropriate assisted or alternative assessment plan
 - **B.** Ask the patient to stand unsupported for exactly three minutes
-- **C.** Use a standing reading from another patient with similar symptoms
+- **C.** Treat a single seated reading as equivalent to a complete standing orthostatic assessment
 - **D.** Record a normal result without taking measurements
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
@@ -579,7 +579,7 @@
 
 **B. Kyun galat hai:** Unsupported standing fall ya syncope injury ka risk create kar sakti hai. Time requirement safety ko override nahi karti.
 
-**C. Kyun galat hai:** Another patient's value is patient ki hemodynamic response nahi batati. Ye invalid documentation hoga.
+**C. Kyun galat hai:** Single seated BP ek useful observation ho sakti hai, lekin supine baseline aur postural change ka response measure nahi karti. Agar alternate assessment use karni pade toh method aur limitations document karo. Complete standing test ke equivalent result assume mat karo.
 
 **D. Kyun galat hai:** Measurement ke bina normal result record karna misleading hai. Test not completed aur reason honestly document karo.
 
@@ -616,7 +616,7 @@
 
 **Exam clue:** Ventilation alone contraindication nahi, aur automatic clearance bhi nahi.
 
-**Clinical reference:** [Exercise and mobility guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301888/).
+**Clinical reference:** [Hodgson et al., ICU mobilization safety consensus, 2014](https://link.springer.com/article/10.1186/s13054-014-0658-y).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -639,7 +639,7 @@
 
 **A. Kyun galat hai:** Earlier clearance current circulatory instability ko cover nahi karti. Rapidly changing support reassessment demand karta hai.
 
-**B. Kyun sahi hai:** Increasing vasopressor requirement unstable perfusion ka sign ho sakta hai. Out-of-bed progression hold karke ICU team current safety evaluate kare.
+**B. Kyun sahi hai:** Rapidly increasing vasopressor requirement hemodynamic instability ka warning sign ho sakta hai. ICU mobility safety decisions current perfusion aur drug dose ke trend par depend karte hain. Out-of-bed progression hold karke treating ICU team current safety reassess kare. Har stable vasopressor infusion ko absolute contraindication mat samjho.
 
 **C. Kyun galat hai:** Exercise metabolic demand badha sakti hai. Unstable patient mein intensity increase karke perfusion correct karna appropriate nahi hai.
 
@@ -647,7 +647,7 @@
 
 **Exam clue:** Escalating hemodynamic support par mobility readiness dobara assess karo.
 
-**Clinical reference:** [Exercise and mobility guidance](https://link.springer.com/article/10.1007/s00134-024-07532-2).
+**Clinical reference:** [2014 ICU mobility safety consensus](https://link.springer.com/article/10.1186/s13054-014-0658-y) and [systematic review of early ICU mobilization](https://pmc.ncbi.nlm.nih.gov/articles/PMC3286494/).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
@@ -755,7 +755,7 @@
 - **A.** Increase resistance daily until pain appears
 - **B.** Progress resistance only within the prescribed healing precautions and after the agreed review
 - **C.** Ignore the restriction if all repetitions are completed
-- **D.** Stop all movement until the next year
+- **D.** Increase resistance now while reducing repetitions by half without clinician review
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -767,7 +767,7 @@
 
 **C. Kyun galat hai:** Repetitions complete hona restriction remove nahi karta. Tissue healing aur strength separate considerations hain.
 
-**D. Kyun galat hai:** All movement indefinitely stop karna unnecessary deconditioning cause kar sakta hai. Allowed exercise continue aur progression clarify karo.
+**D. Kyun galat hai:** Repetitions kam karne se total exercise volume change hota hai, lekin higher resistance se healing tissue par peak load phir bhi badh sakta hai. Isliye prescribed precautions ke andar resistance progression confirm karni chahiye.
 
 **Exam clue:** Easy lagna resistance progression ki independent permission nahi hai.
 
@@ -802,7 +802,7 @@
 
 **Exam clue:** Compensation ko successful isolated joint movement mat count karo.
 
-**Clinical reference:** [Exercise and mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility).
+**Clinical reference:** [StatPearls Goniometer, positioning and technique](https://www.ncbi.nlm.nih.gov/books/NBK558985/). [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
