@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 484 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP aur 20 ultrasound MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 504 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -27,6 +27,7 @@
 | Cardiotocography | [Concepts](Concepts/06E-Cardiotocography-CTG.md) · [20 original MCQs](MCQs/06E-Cardiotocography-CTG-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06E-CTG-Reported-Evidence.md) |
 | Biophysical profile | [Concepts](Concepts/06F-Biophysical-Profile-BPP.md) · [20 original MCQs](MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06F-BPP-Reported-Evidence.md) |
 | Obstetric ultrasound and biometry | [Concepts](Concepts/06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md) |
+| Fetal Doppler studies | [Concepts](Concepts/06H-Fetal-Doppler-Studies.md) · [20 original MCQs](MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence and research gaps](Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -112,3 +113,7 @@ Ab 20 CTG originals, 80 individual option explanations, two original flowcharts 
 ## Verified ultrasound expansion — 28 November 2026
 
 20 ultrasound originals, 80 option explanations, two original diagrams and one RMLIMS 7 September 2025 memory-based adaptation published. Obstetrics inventory 484 originals and 25 historical adaptations. Doppler next. Independent review and exact playback pending.
+
+## Verified fetal assessment expansion — 28 November 2026
+
+All eight fetal assessment topic banks published: 160 original questions, 640 option rationales, eight concept files and 14 original Mermaid diagrams. Seven historical adaptations (six reported, one official-source provisional-key adaptation). No defensible Doppler nursing PYQ established. Obstetrics inventory 504 originals and 25 historical adaptations. Next normal labor topics in curriculum order. Independent clinical and semantic audit, exact video playback and rendered UI checks pending.
