@@ -19,17 +19,16 @@
 
 **Correct answer: B. Peripheral arterial hemoglobin oxygen saturation**
 
-<!-- job5-rationale -->
-SpO2 peripheral arterial blood mein hemoglobin ki oxygen saturation ka optical estimate hai. 96% ka matlab functional hemoglobin ka approximately 96% oxygen-bound estimate hai, na ki blood mein 96% oxygen by volume. Oxygen delivery ke liye Hb concentration aur cardiac output bhi matter karte hain.
+Pulse oximeter ek chhota device hai jo skin ke through light bhejkar arterial blood mein hemoglobin ki oxygen saturation estimate karta hai. Hemoglobin red blood cells mein maujood protein hai jo oxygen carry karta hai. Agar display par SpO2 96% hai, toh iska matlab hai ki functional hemoglobin ke oxygen-binding sites ka lagbhag 96% oxygen se occupied hai. Iska matlab ye nahi ki poore blood ka 96% hissa oxygen hai. Maan lo patient mein severe anemia hai. Available hemoglobin kam hone ke bawajood saturation high ho sakti hai. Tissues tak oxygen pahunchne ke liye hemoglobin ki quantity aur cardiac output bhi important hain.
 
 **Option-by-option reasoning**
 
-- **A:** Cannula ki delivered oxygen concentration flow aur breathing par depend karti hai.
-- **B:** SpO2 arterial hemoglobin saturation estimate karti hai.
-- **C:** PaO2 dissolved oxygen tension hai, mmHg mein measure hoti hai.
-- **D:** Hb concentration blood count se measure hoti hai.
+- **A:** Nasal cannula se milne wali oxygen ki concentration flow rate aur patient ki breathing jaise factors par depend karti hai. SpO2 patient ke blood ki saturation estimate karti hai, cannula ki delivered concentration nahi.
+- **B:** Pulse oximeter peripheral arterial hemoglobin ki oxygen saturation estimate karta hai. Isliye B sahi hai.
+- **C:** PaO2 arterial blood mein dissolved oxygen ka partial pressure hai, jise mmHg mein express karte hain. Pulse oximeter ise directly measure nahi karta.
+- **D:** Hemoglobin concentration batati hai ki blood mein oxygen-carrying protein kitna hai. Iske liye blood test chahiye, saturation reading nahi.
 
-**Exam clue:** SpO2 percentage, PaO2 pressure, Hb quantity.
+**Exam clue:** SpO2 saturation ka percentage hai, PaO2 oxygen ka partial pressure hai aur Hb blood mein hemoglobin ki concentration hai. Teenon ko alag samjho.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
 
@@ -60,17 +59,16 @@ SpO2 peripheral arterial blood mein hemoglobin ki oxygen saturation ka optical e
 
 **Correct answer: A. Different absorption of red and infrared light by oxygenated and deoxygenated hemoglobin**
 
-<!-- job5-rationale -->
-Conventional pulse oximeter red light around 660 nm aur infrared around 940 nm use karta hai. Oxyhemoglobin aur deoxyhemoglobin in wavelengths ko differently absorb karte hain. Device pulsatile absorption ratio ko calibration algorithm se saturation estimate mein convert karta hai. Dyshemoglobin ya artifact accuracy affect kar sakte hain.
+Conventional pulse oximeter mein ek light source aur ek detector hota hai. Light source red light, lagbhag 660 nm, aur infrared light, lagbhag 940 nm, bhejta hai. Oxygen se bound hemoglobin aur oxygen se unbound hemoglobin in dono wavelengths ko alag tareeke se absorb karte hain. Detector tak kitni light pahunchi aur heartbeat ke saath absorption kaise badli, is information ko device analyze karta hai. Calibration algorithm is ratio se saturation estimate karta hai. Motion artifact, poor circulation aur abnormal hemoglobin forms reading ko affect kar sakte hain.
 
 **Option-by-option reasoning**
 
-- **A:** Differential optical absorption correct principle hai.
-- **B:** Inflatable cuff BP measurement ke liye hai.
-- **C:** ECG electrical cardiac activity record karta hai.
-- **D:** Capnography exhaled CO2 assess karti hai.
+- **A:** Oxygenated aur deoxygenated hemoglobin red aur infrared light ko different amounts mein absorb karte hain. Device isi difference ka use karta hai, isliye A sahi hai.
+- **B:** Inflatable cuff artery par pressure apply karta hai aur BP measurement mein use hota hai. Pulse oximetry light absorption par based hai.
+- **C:** ECG electrodes heart ki electrical activity detect karte hain. Pulse oximeter electrical conduction intervals measure nahi karta.
+- **D:** Capnography exhaled air mein carbon dioxide assess karti hai. Conventional pulse oximeter hemoglobin ki oxygen saturation estimate karta hai, exhaled CO2 nahi.
 
-**Exam clue:** Red + infrared, not ECG or capnography.
+**Exam clue:** Pulse oximetry mein red aur infrared light ka absorption compare hota hai. ECG aur capnography alag measurements hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
 <!-- /job5-rationale -->
@@ -99,17 +97,16 @@ Conventional pulse oximeter red light around 660 nm aur infrared around 940 nm u
 
 **Correct answer: D. To help distinguish the arterial contribution from relatively constant tissue and blood absorption**
 
-<!-- job5-rationale -->
-Sensor signal mein relatively constant tissue aur blood absorption ke saath heartbeat-related variation hota hai. Arterial volume pulse ke saath change hota hai. Algorithm is pulsatile component ko identify karke arterial saturation estimate karta hai. Motion aur weak perfusion is separation ko unreliable bana sakte hain.
+Sensor ki light skin, bone, tissue aur blood ke through jaati hai. In structures ka kuch absorption relatively constant rehta hai. Jab heart beat karta hai, toh sensor site par arterial blood volume thoda badalta hai aur light absorption bhi heartbeat ke saath change hoti hai. Is changing signal ko pulsatile component kehte hain. Device is component ko relatively constant background se distinguish karke arterial saturation estimate karne ki koshish karta hai. Maan lo finger cold hai ya patient move kar raha hai. Arterial signal weak ho sakta hai ya motion ki wajah se extra variation aa sakti hai, jisse estimate unreliable ho jaata hai.
 
 **Option-by-option reasoning**
 
-- **A:** Hemoglobin absorption remove karna measurement ka basis hi remove karega.
-- **B:** Tissue oxygen consumption directly measure nahi hoti.
-- **C:** ECG intervals optical pulse se establish nahi hote.
-- **D:** Pulsatile signal arterial contribution distinguish karne mein help karta hai.
+- **A:** Hemoglobin ki light absorption hi saturation estimate karne ka main basis hai. Agar ise poori tarah remove kar diya jaaye, toh oxygenated aur deoxygenated hemoglobin ka difference measure nahi hoga.
+- **B:** Tissues kitni oxygen consume karte hain, ye pulse oximeter directly measure nahi karta. Saturation aur tissue oxygen consumption alag quantities hain.
+- **C:** Heart ki electrical conduction intervals ECG se assess ki jaati hain. Optical pulse signal se exact electrical rhythm establish nahi hota.
+- **D:** Heartbeat-related signal identify karne se arterial contribution ko relatively constant tissue aur blood absorption se alag karne mein madad milti hai. Isliye D sahi hai.
 
-**Exam clue:** AC pulsatile component versus relatively constant background.
+**Exam clue:** Pulsatile signal arterial blood ki changing volume se related hai. Poor perfusion aur movement is signal ko unreliable bana sakte hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
 <!-- /job5-rationale -->
@@ -138,17 +135,16 @@ Sensor signal mein relatively constant tissue aur blood absorption ke saath hear
 
 **Correct answer: C. Reduce motion, assess the patient and obtain a stable signal at a suitable site**
 
-<!-- job5-rationale -->
-Tremor optical signal mein movement-related variation add karta hai, jo arterial pulse samjha ja sakta hai. Patient clinically assess karo, comfortable support dekar movement reduce karo aur compatible site par stable signal obtain karo. Agar distress ho toh artifact assume karke treatment delay mat karo.
+Tremor mein patient ki finger baar-baar move hoti hai. Pulse oximeter heartbeat se hone wali optical changes analyze karta hai, lekin movement bhi signal mein changes produce kar sakti hai. Is extra variation ko motion artifact kehte hain. Agar patient clinically stable hai, toh nurse uski condition assess karti hai, hand ko comfortably support karti hai aur compatible sensor ki position check karti hai. Zaroorat ho toh approved alternate site use karke stable reading obtain kar sakti hai. Agar patient breathless ya unstable hai, toh displayed change ko sirf artifact maan kar urgent assessment aur indicated care delay nahi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Excess pressure perfusion aur skin ko harm kar sakta hai.
-- **B:** Lowest number bhi artifact ho sakta hai.
-- **C:** Motion reduction aur signal verification correct approach hai.
-- **D:** Unreliable numbers average karne se reliable saturation guarantee nahi hoti.
+- **A:** Sensor ko zyada tight karne se skin par pressure badh sakta hai aur local blood flow kam ho sakta hai. Isse measurement aur unreliable ho sakti hai.
+- **B:** Fluctuating values mein lowest reading true desaturation bhi ho sakti hai ya artifact bhi. Bina patient aur signal assess kiye ise confirmed saturation nahi maanna chahiye.
+- **C:** Patient assess karna, motion kam karna aur suitable site par stable signal verify karna measurement problem ko safely address karta hai. Isliye C sahi hai.
+- **D:** Agar readings unreliable hain, toh unka average bhi necessarily reliable nahi hoga. Pehle signal ki quality verify karni chahiye.
 
-**Exam clue:** Assess patient, reduce artifact, verify signal.
+**Exam clue:** Patient ki condition pehle assess karo. Motion kam karke suitable sensor signal verify karo aur genuine distress ko ignore mat karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -177,17 +173,16 @@ Tremor optical signal mein movement-related variation add karta hai, jo arterial
 
 **Correct answer: A. Use an appropriate unobstructed sensor site or remove interfering polish when feasible and recheck**
 
-<!-- job5-rationale -->
-Nail polish light transmission alter kar sakti hai. Effect polish color, device aur signal conditions ke hisaab se vary karta hai. Stable patient mein polish remove karna ya approved unobstructed site use karna helpful hai. Symptoms concerning hon toh direct clinical assessment priority hai.
+Finger pulse oximeter ki light nail ke through bhi pass ho sakti hai. Dark nail polish kuch light absorb kar sakti hai aur detector tak pahunchne wale signal ko affect kar sakti hai. Har polish ka effect same nahi hota, kyunki colour, device aur measurement conditions alag ho sakti hain. Agar stable patient ki finger reading inconsistent hai, toh nurse feasible hone par interfering polish remove kar sakti hai ya approved unobstructed site use kar sakti hai. Phir signal aur saturation dobara check karni chahiye. Patient mein concerning symptoms hon toh polish remove karne ke liye urgent assessment delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Approved unobstructed site ya polish removal interference reduce kar sakta hai.
-- **B:** Polish ka effect device aur color ke saath vary karta hai.
-- **C:** Fixed five-point correction validated nahi hai.
-- **D:** Extra opaque layer optical interference badha sakti hai.
+- **A:** Interfering polish remove karne ya compatible unobstructed site use karne se optical interference kam ho sakti hai. Isliye A sahi hai.
+- **B:** Different colours aur devices mein polish ka effect vary kar sakta hai. Har reading mein same error assume karna reliable nahi hai.
+- **C:** Display mein fixed five percentage points add karna validated correction nahi hai. Isse actual desaturation chhup sakti hai.
+- **D:** Opaque layer lagane se sensor ki light transmission aur affect ho sakti hai. Isse interference reliably correct nahi hogi.
 
-**Exam clue:** Remove interference, never invent correction.
+**Exam clue:** Nail polish interfere kar rahi ho toh approved alternate site ya feasible removal use karke recheck karo. Apni taraf se saturation number adjust mat karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -216,17 +211,16 @@ Nail polish light transmission alter kar sakti hai. Effect polish color, device 
 
 **Correct answer: D. Use an age- and site-appropriate compatible pediatric sensor**
 
-<!-- job5-rationale -->
-Infant ke small digits aur delicate skin ke liye appropriate size, site aur device-compatible sensor chahiye. Oversized probe light emitter aur detector align nahi kar sakti. Pressure ya tape injury bhi cause kar sakte hain. Manufacturer instructions aur neonatal monitoring policy follow karo.
+Infant ki fingers chhoti hoti hain aur skin delicate hoti hai. Adult clip agar loose fit ho raha hai, toh light emitter aur detector properly align nahi ho sakte. Isse measurement unstable ho sakti hai. Agar nurse clip ko tight tape se fix karne ki koshish kare, toh skin aur blood flow par unnecessary pressure pad sakta hai. Nurse patient ki age, size aur approved site ke hisaab se device-compatible pediatric sensor choose karti hai. Manufacturer instructions ke according sensor lagana aur skin aur perfusion regularly check karna important hai.
 
 **Option-by-option reasoning**
 
-- **A:** Tight tape pressure injury ya poor flow cause kar sakti hai.
-- **B:** Adult sensor har site aur age ke liye validated nahi hota.
-- **C:** Skin color precise saturation nahi batata.
-- **D:** Compatible pediatric sensor suitable fit aur measurement support karta hai.
+- **A:** Oversized clip ko tight tape se secure karne par pressure injury aur circulation compromise ka risk ho sakta hai. Correct size ka sensor arrange karna chahiye.
+- **B:** Adult sensor har age ya body site ke liye validated nahi hota. Device ki compatibility aur application instructions check karni chahiye.
+- **C:** Skin colour clinical assessment mein useful ho sakta hai, lekin isse exact oxygen saturation estimate nahi ki ja sakti.
+- **D:** Age aur site ke according compatible pediatric sensor correct fit aur reliable optical measurement mein help karta hai. Isliye D sahi hai.
 
-**Exam clue:** Correct patient size, sensor and site.
+**Exam clue:** Infant ke liye suitable pediatric sensor choose karo aur application site ki skin aur circulation check karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -255,17 +249,16 @@ Infant ke small digits aur delicate skin ke liye appropriate size, site aur devi
 
 **Correct answer: C. Temporary interruption of pulsatile arterial flow at the sensor site**
 
-<!-- job5-rationale -->
-BP cuff inflation temporarily arterial flow ko restrict karti hai. Distal oximeter ko pulsatile signal kam ya absent mil sakta hai. Cuff deflate hone par signal recover ho sakta hai. Continuous monitoring required ho toh suitable alternate limb/site consider karo aur patient ki condition assess karo.
+BP cuff jab inflate hota hai, toh woh upper arm ki artery par pressure apply karta hai. Isse cuff ke neeche, jaise finger tak, pulsatile blood flow temporary kam ya band ho sakta hai. Finger oximeter ko arterial saturation estimate karne ke liye heartbeat-related optical signal chahiye. Jab cuff inflated hai, toh signal weak ya absent ho sakta hai aur cuff deflate hone par wapas aa sakta hai. Nurse patient ki clinical condition assess karti hai. Agar uninterrupted monitoring required hai, toh suitable alternate limb ya approved sensor site consider karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Oximeter BP device mein convert nahi hota.
-- **B:** Local signal loss systemic hypoxemia ka proof nahi hai.
-- **C:** Temporary pulsatile flow interruption likely mechanism hai.
-- **D:** Routine cuff inflation Hb affinity permanently change nahi karti.
+- **A:** BP cuff inflate hone se pulse oximeter BP measure karne wala device nahi ban jaata. Dono devices alag physiological quantities measure karte hain.
+- **B:** Local finger signal temporary disappear hone se systemic arterial saturation girna automatically prove nahi hota. Patient ko assess karna phir bhi zaroori hai.
+- **C:** Cuff compression se distal pulsatile arterial flow temporary interrupt ho sakta hai. Isliye C sahi hai.
+- **D:** Routine cuff compression hemoglobin ki oxygen affinity ko permanently change nahi karti. Yahan optical signal ki temporary loss samajhni hai.
 
-**Exam clue:** Cuff compression can interrupt the optical pulse signal.
+**Exam clue:** BP cuff ke inflation se same limb par distal oximeter signal temporary disappear ho sakta hai. Continuous monitoring ke liye suitable alternate site consider karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -294,17 +287,16 @@ BP cuff inflation temporarily arterial flow ko restrict karti hai. Distal oximet
 
 **Correct answer: B. Reduced peripheral perfusion can make the optical estimate unreliable**
 
-<!-- job5-rationale -->
-Shock mein peripheral vasoconstriction aur low perfusion ke kaaran finger pulse signal weak ho sakta hai. Poor-quality reading ko confirmed saturation mat samjho. Patient ka ABCDE assessment karo, urgent help arrange karo aur suitable monitoring or blood gas as indicated use karo. Verification resuscitation ko delay nahi karni chahiye.
+Shock mein organs tak sufficient blood flow pahunchne mein problem ho sakti hai. Body circulation maintain karne ki koshish mein skin aur fingers ki blood vessels narrow kar sakti hai. Isse finger par arterial pulse wave weak ho sakti hai, even jab sensor correctly placed ho. Oximeter ko adequate pulsatile signal na milne par saturation estimate unreliable ho sakti hai. Nurse patient ka urgent ABCDE assessment karti hai, perfusion check karti hai aur clinical help activate karti hai. Indication ke according alternate monitoring ya arterial blood gas assessment arrange ki ja sakti hai. Reading verify karne ke liye resuscitation delay nahi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Signal quality ventilation normal prove nahi karti.
-- **B:** Low peripheral perfusion unreliable optical estimate cause kar sakti hai.
-- **C:** No signal ka matlab zero saturation nahi.
-- **D:** Alarm delay se true deterioration miss ho sakti hai.
+- **A:** Weak optical signal se ventilation normal hone ka proof nahi milta. Ventilation assess karne ke liye breathing aur relevant clinical findings bhi check karni hoti hain.
+- **B:** Poor peripheral perfusion ki wajah se pulsatile optical signal weak ho sakta hai aur saturation estimate unreliable ho sakti hai. Isliye B sahi hai.
+- **C:** Signal absent hone ka matlab device reliable estimate nahi de paa raha ho sakta hai. Isse arterial saturation exactly zero confirm nahi hoti.
+- **D:** Alarm delay badhakar reading accept karne se actual deterioration miss ho sakti hai. Patient assessment aur suitable monitoring verification chahiye.
 
-**Exam clue:** Weak signal in shock needs clinical assessment.
+**Exam clue:** Shock mein weak oximeter signal ko clinical deterioration ke context mein assess karo. Urgent care ko perfect reading ke liye delay mat karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -333,17 +325,16 @@ Shock mein peripheral vasoconstriction aur low perfusion ke kaaran finger pulse 
 
 **Correct answer: D. Check optical signal quality, probe placement and clinical status before accepting the saturation**
 
-<!-- job5-rationale -->
-Pulse oximeter saturation calculation pulsatile optical signal par rely karti hai. Verified clinical pulse se marked mismatch motion, weak signal, rhythm-related pulse deficit ya placement concern suggest kar sakta hai. Probe, waveform if available aur patient assess karo. ECG rate aur peripheral pulse necessarily identical nahi hote.
+Pulse oximeter optical pulsations se pulse rate aur saturation estimate karta hai. Maan lo nurse ne simultaneously patient ki clinical pulse verify ki hai, lekin oximeter bahut different pulse rate dikha raha hai. Motion, weak signal, incorrect sensor placement ya rhythm-related pulse differences possible ho sakte hain. Nurse actual patient condition check karti hai, sensor position aur available waveform verify karti hai aur readings compare karti hai. Agar rhythm ka concern hai, toh appropriate ECG assessment arrange ki ja sakti hai. Electrical heart rate aur peripheral palpable pulse har situation mein identical nahi hote.
 
 **Option-by-option reasoning**
 
-- **A:** Pulse detection measurement quality ke liye important hai.
-- **B:** Optical pulse ECG electrical rate nahi hai.
-- **C:** Disagreement monitoring stop karne ka reason nahi.
-- **D:** Signal, placement aur clinical status verify karna safest hai.
+- **A:** Saturation estimate ke liye reliable pulsatile optical signal important hai. Marked pulse mismatch ke bawajood saturation ko automatically accurate nahi maanna chahiye.
+- **B:** Oximeter ka pulse rate mechanical optical pulsations se estimate hota hai. Ise confirmed ECG electrical heart rate ke roop mein record nahi kar sakte.
+- **C:** Numbers disagree karne par monitoring band karne se patient safety compromise ho sakti hai. Discrepancy ka reason assess karna chahiye.
+- **D:** Patient ki condition, signal quality aur sensor placement check karne se unreliable measurement identify ki ja sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Check pulse agreement, signal and patient.
+**Exam clue:** Oximeter pulse aur verified clinical pulse match na karein toh patient aur optical signal dono assess karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -372,17 +363,16 @@ Pulse oximeter saturation calculation pulsatile optical signal par rely karti ha
 
 **Correct answer: C. Check sensor positioning and shield it from excessive ambient light as instructed by the manufacturer**
 
-<!-- job5-rationale -->
-Excessive ambient light photodetector tak pahunch kar signal quality affect kar sakti hai. Sensor correct position mein rakho aur manufacturer-approved shielding use karo. Monitoring indicated hai toh continue karo. Heavy pressure ya unapproved covering avoid karo.
+Pulse oximeter ka photodetector sensor ki light ko receive karta hai. Agar procedure ke dauran bahut bright external light detector tak pahunch rahi hai, toh woh optical signal mein interference create kar sakti hai. Nurse sensor ka alignment aur position check karti hai aur manufacturer ki instructions ke according approved light shielding use karti hai. Agar monitoring clinically required hai, toh use safely continue karna chahiye. Heavy weight ya unapproved tight covering lagane se skin aur circulation ko harm ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** More light interference badha sakti hai.
-- **B:** Necessary monitoring remove karna unsafe ho sakta hai.
-- **C:** Approved shielding aur correct placement reasonable hai.
-- **D:** Heavy weight skin aur circulation damage kar sakta hai.
+- **A:** Room ki light aur badhane se external optical interference zyada ho sakti hai. Isse har reading improve nahi hoti.
+- **B:** Required monitoring disconnect karne se procedure ke dauran oxygenation change miss ho sakta hai. Pehle interference safely resolve karna chahiye.
+- **C:** Sensor position verify karna aur manufacturer-approved shielding use karna suspected ambient light interference ko address karta hai. Isliye C sahi hai.
+- **D:** Heavy weight sensor site par pressure increase karke skin aur blood flow ko harm kar sakta hai. Approved shielding mein unnecessary compression nahi honi chahiye.
 
-**Exam clue:** Use manufacturer-approved light shielding.
+**Exam clue:** Bright light interference ka doubt ho toh correct sensor positioning aur approved shielding se signal verify karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
