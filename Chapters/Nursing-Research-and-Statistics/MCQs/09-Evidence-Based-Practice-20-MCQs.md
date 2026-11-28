@@ -404,26 +404,26 @@
 
 </details>
 
-### Q17. A unit introduces a new practice and observes improved outcomes during the following month. Several other major changes occurred simultaneously. What is the cautious interpretation?
+### Q17. A guideline team finds well-conducted trials with materially different effect estimates, including benefit in some studies and no benefit in others. The variation remains unexplained after plausible subgroup assessment. Which GRADE domain is directly affected?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** The improvement is encouraging but cannot be attributed solely to the new practice without stronger evidence
-- **B.** The intervention definitely caused the entire improvement
-- **C.** The change must be ineffective because the study was not randomized
-- **D.** No further monitoring is needed after one favorable month
+- **A.** Inconsistency
+- **B.** Indirectness alone
+- **C.** Publication bias automatically
+- **D.** Imprecision solely because some estimates differ
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. The improvement is encouraging but cannot be attributed solely to the new practice without stronger evidence**
+**Correct: A. Inconsistency**
 
-**A.** Concurrent changes, secular trends aur case mix outcomes influence kar sakte hain. Temporal association alone causal effect prove nahi karti.
+**A.** Inconsistency study results ke beech substantial unexplained variation ko address karti hai. Direction aur magnitude ka disagreement evidence certainty downgrade karne ka reason ho sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Uncontrolled co-interventions alternative explanations provide karte hain. Sole causal attribution unsupported hai.
-- **C.** Local improvement data useful signal ho sakte hain. Lack of randomization uncertainty increases, not necessarily zero effect.
-- **D.** Short-term improvement sustainable hona certain nahi hai. Ongoing measurement and harms assessment required hain.
+- **B.** Indirectness population, intervention, comparator ya outcome mismatch se related hai. Question directly unexplained between-study effect variation describe karta hai.
+- **C.** Publication bias missing studies or selective availability se related hai. Differing observed effects alone publication bias prove nahi karte.
+- **D.** Imprecision uncertainty around effect estimates and decision thresholds se related hai. Unexplained disagreement across studies inconsistency ka distinct domain hai.
 
 **YouTube MCQ practice:** verification pending.
 
