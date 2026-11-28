@@ -27,7 +27,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - [CTG concepts](06E-Cardiotocography-CTG.md) · [20 original MCQs](../MCQs/06E-Cardiotocography-CTG-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06E-CTG-Reported-Evidence.md). Published, independent review pending.
   - [BPP concepts](06F-Biophysical-Profile-BPP.md) · [20 original MCQs](../MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06F-BPP-Reported-Evidence.md). Published, independent review pending.
   - [Ultrasound concepts](06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](../MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md). Published, independent review pending.
-  - Doppler: individual topic package pending.
+  - [Doppler concepts](06H-Fetal-Doppler-Studies.md) · [20 original MCQs](../MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence gaps](../Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md). Published, independent review pending.
 - normal pregnancy and labor
 - partograph and delivery
 - hypertensive disorders
