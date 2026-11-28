@@ -134,27 +134,27 @@
 
 </details>
 
-### Q06. What is the recommended timing of routine delayed cord clamping for a vigorous newborn when immediate resuscitation is not needed, according to WHO guidance?
+### Q06. Which item must be sterile when dividing the umbilical cord at an uncomplicated facility birth?
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Immediately before any assessment in every birth
-- **B.** Approximately 1–3 minutes after birth
-- **C.** After the first complete bath
-- **D.** After the first postnatal day
+- **A.** The newborn's identity label
+- **B.** The cord-cutting instrument
+- **C.** The outer transport blanket
+- **D.** The birth-weight record sheet
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Approximately 1–3 minutes after birth**
+**Correct answer: B. The cord-cutting instrument**
 
-- **A — Incorrect:** Har birth mein immediate clamping routine recommendation nahi hai. Urgent maternal ya neonatal needs timing change kar sakti hain.
-- **B — Correct:** Stable vigorous newborn mein WHO delayed clamping approximately 1–3 minutes recommend karta hai. Clinical circumstances aur current protocol consider karo.
-- **C — Incorrect:** Bath ka timing cord clamping determine nahi karta. Bath generally much later hota hai.
-- **D — Incorrect:** First day tak cord placenta se attached rakhna routine delayed clamping nahi hai.
+- **A — Incorrect:** Identity label clean aur correctly matched hona chahiye. Yeh tissue cut karne wala instrument nahi hai aur routine sterile field item nahi hota.
+- **B — Correct:** Cord ko divide karte waqt instrument fresh cut surface ke contact mein aata hai. Sterile cutting instrument use karne se organisms introduce hone ka risk kam hota hai.
+- **C — Incorrect:** Transport blanket clean, dry aur warm hona chahiye. Routine outer blanket cord cutting instrument ki sterility ko replace nahi karti.
+- **D — Incorrect:** Record sheet par accurate documentation important hai. Yeh invasive procedure ka sterile instrument nahi hai.
 
-**Exam clue:** Delay minutes mein hota hai, hours ya days mein nahi.
+**Exam clue:** Fresh tissue ko cut karne wale instrument ke liye sterility essential hai.
 
-**Reference:** [Source](https://www.ncbi.nlm.nih.gov/books/NBK619233/table/ch3.tab23/) · [Concept guide](../Concepts/01C-Immediate-Newborn-Care-and-Prophylaxis.md)
+**Reference:** [Source](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_2.pdf) · [Concept guide](../Concepts/01C-Immediate-Newborn-Care-and-Prophylaxis.md)
 
 **YouTube MCQ practice:** Individual coverage verification pending.
 
