@@ -446,53 +446,53 @@
 
 </details>
 
-### Q18. A household must choose between two menus that fit its budget. Menu A reaches the energy goal mainly through a single staple. Menu B reaches the same energy goal and the assessed food-group requirements. Which selection best satisfies the stated planning constraints?
+### Q18. A seven-day menu requires 2.4 kg of dry pulses. The household already has 0.9 kg of suitable, safely stored pulses. The shop sells only 500-g sealed packs. What is the minimum number of packs required to meet the menu quantity without using other stocks?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Budget optimization with adequacy constraints | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Stock-adjusted purchase quantities | **Type:** Original practice
 
-- **A.** Menu A, because a single staple makes nutritional assessment unnecessary
-- **B.** Either menu, because equal energy guarantees equal nutrient composition
-- **C.** Menu A, because the number of different foods should always be minimized
-- **D.** Menu B, because it meets both budget and the assessed dietary requirements
+- **A.** Two packs
+- **B.** Five packs
+- **C.** One pack
+- **D.** Three packs
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Menu B, because it meets both budget and the assessed dietary requirements**
+**Correct: D. Three packs**
 
-- **A. Incorrect:** Single staple ka energy contribution adequate ho sakta hai lekin variety aur essential nutrient needs miss ho sakti hain. Assessment phir bhi chahiye.
-- **B. Incorrect:** Equal calories se protein, fibre, vitamins aur minerals equal prove nahi hote. Food composition aur group requirements separately assess hote hain.
-- **C. Incorrect:** Fewer ingredients kuch settings mein convenient ho sakte hain, lekin diversity ko unnecessary restrict karna healthy diet ka universal rule nahi hai.
-- **D. Correct:** Budget ke andar calories poori karna ek constraint hai, saare nutrition objectives nahi. Menu B assessed food-group requirements bhi satisfy karta hai, isliye given choices mein suitable hai.
+- **A. Incorrect:** Do 500-g packs se 1 kg new stock milega. Existing 0.9 kg add karne par 1.9 kg hi available hoga, jo 2.4 kg requirement se kam hai.
+- **B. Incorrect:** Five packs se 2.5 kg purchase hoga, lekin question minimum purchase pooch raha hai. Existing usable stock ko ignore karne se unnecessary spending ho sakti hai.
+- **C. Incorrect:** Ek pack se 0.5 kg milega. Existing stock ke saath total 1.4 kg hoga, isliye requirement meet nahi hoti.
+- **D. Correct:** Required quantity 2.4 kg se usable stock 0.9 kg subtract karo. Net purchase 1.5 kg hai. Har pack 0.5 kg hai, toh 1.5 ÷ 0.5 = three packs. Actual stock quality aur expiry bhi confirm karni chahiye.
 
-**Exam clue:** Least-cost healthy plan mein required nutrition constraints satisfy hone chahiye.
+**Exam clue:** Purchase list banate waqt safe usable stock subtract karo, phir package size ke according required packs decide karo.
 
-**Evidence:** [FAO, Cost and Affordability of Healthy Diets methodology](https://www.fao.org/in-action/coahd/methods/en) (direct text). Numerical examples and local prices are supplied hypothetical teaching assumptions, not source price claims. [Concepts](../Concepts/15-Food-Exchange-Menu-and-Budget-Planning.md).
+**Evidence:** [FAO Practical Nutrition for Field Workers, session 3](https://www.fao.org/4/x3996e/x3996e05.htm) (direct general menu-planning principles). Stock and pack arithmetic is a hypothetical application. [Concepts](../Concepts/15-Food-Exchange-Menu-and-Budget-Planning.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
 </details>
 
-### Q19. A community kitchen estimates that its next menu cycle will exceed the budget because the price of one planned food has risen. A nutritionally comparable replacement is available but has a different edible yield. What should the planner do before approving the replacement?
+### Q19. A household plans a hypothetical daily menu containing 240 g of dry cereal per adult. A full day's cereal allocation has already been approved for this exercise. Breakfast and lunch use 60 g and 90 g respectively. Dinner is planned to use 70 g and a snack 40 g. What correction is required to remain within the stated cereal allocation?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Price-change substitution verification | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Reconciliation of daily food-group allocation | **Type:** Original practice
 
-- **A.** Approve the replacement solely because its price per purchased kilogram is lower
-- **B.** Recalculate required purchase quantity and usable cost, and confirm the revised menu still meets the intended nutrition targets
-- **C.** Keep the same purchase weight regardless of yield
-- **D.** Remove the entire food-group allocation to restore the budget immediately
+- **A.** Increase dinner and snack cereal by a combined 20 g
+- **B.** Reduce dinner and snack cereal by a combined 20 g
+- **C.** No change because every individual meal contains less than 240 g
+- **D.** Remove all 110 g assigned to dinner and snack
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Recalculate required purchase quantity and usable cost, and confirm the revised menu still meets the intended nutrition targets**
+**Correct: B. Reduce dinner and snack cereal by a combined 20 g**
 
-- **A. Incorrect:** Lower gross price ka benefit trimming loss se kam ho sakta hai. Actual usable quantity aur nutrient contribution check kiye bina replacement approve nahi karna chahiye.
-- **B. Correct:** Food substitution ke baad gross price alone compare karna enough nahi hai. Edible yield ke hisaab se purchase amount aur cost nikaalo, phir revised portion aur total nutrition targets verify karo.
-- **C. Incorrect:** Different yield hone par same purchased weight se usable portions differ ho sakte hain. Required serving amount se reverse calculation chahiye.
-- **D. Incorrect:** Whole group remove karne se nutritional adequacy compromise ho sakti hai. Suitable alternative ya broader plan revision pehle evaluate karo.
+- **A. Incorrect:** Planned total already 60 + 90 + 70 + 40 = 260 g hai. 20 g aur add karne se total 280 g ho jaayega aur allocation further exceed hogi.
+- **B. Correct:** Breakfast aur lunch ke baad 240 − 150 = 90 g remain karta hai. Dinner aur snack ke liye 110 g planned hai, isliye 20 g combined reduction required hai. Yeh stated worksheet reconciliation hai, actual patient ke liye universal cereal allowance nahi.
+- **C. Incorrect:** 240 g poore din ka specified allocation hai, per meal limit nahi. Har meal individually kam hone par bhi daily sum exceed ho sakta hai.
+- **D. Incorrect:** Dinner aur snack ki poori 110 g allocation hataana necessary nahi hai. Stated target ke under 90 g abhi bhi available hai.
 
-**Exam clue:** Replacement ka nutritional equivalence aur usable cost dono verify karo.
+**Exam clue:** Daily food-group allocation ko sab meals aur snacks mein aggregate karke check karo.
 
-**Evidence:** [FAO, Practical Nutrition for Field Workers, session 3](https://www.fao.org/4/x3996e/x3996e05.htm) (direct text). Numerical examples and local prices are supplied hypothetical teaching assumptions, not source price claims. [Concepts](../Concepts/15-Food-Exchange-Menu-and-Budget-Planning.md).
+**Evidence:** [ICMR-NIN Dietary Guidelines for Indians 2024, Guideline 1](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf) (retrieved PDF text, screenshot unavailable). The stated 240-g allocation is hypothetical, not a guideline recommendation. [Concepts](../Concepts/15-Food-Exchange-Menu-and-Budget-Planning.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
