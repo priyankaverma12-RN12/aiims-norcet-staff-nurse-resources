@@ -4,7 +4,7 @@ let metricsPromise,resourceCatalog={};
 function getResourceMeta(p,heading='',slots=null){return heading?resourceMeta(p,heading,slots??resourceCatalog[p]?.slots??null):(resourceCatalog[p]||resourceMeta(p,'',slots))}
 function knownTitle(p){return getResourceMeta(p).title}
 function linkTitle(target,href,original){try{const hash=new URL(href).hash;if(hash){const label=cleanTitle(original),section=resourceCatalog[target]?.anchors?.[decodeURIComponent(hash.slice(1))];return /^(?:open|read|view|click|go to)(?:\s|$)|^(?:theory|MCQs?|notes|revision|details|source|here)$/i.test(label)?cleanTitle(section)||knownTitle(target):label||knownTitle(target)}}catch{}return knownTitle(target)}
-function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Inventory is unavailable');return r.json()}).then(data=>{resourceCatalog=data.resources||{};return data}).catch(()=>null);return metricsPromise}
+function getMetrics(){if(!metricsPromise)metricsPromise=fetch('./study-metrics.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Inventory is unavailable');return r.json()}).then(data=>{resourceCatalog=data.resources||{};studyInventory=data;return data}).catch(()=>null);return metricsPromise}
 function displayTitle(s){return String(s||'').replace(/[*_\x60]/g,'').trim()}
 function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
@@ -29,10 +29,10 @@ async function showMetrics(){
     const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
     row.href=route(f.path);row.dataset.category=f.category;
     const glyph=node('span',({mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
-    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));const personal=studyLabel(f.path),done=completionLabel(f.path);if(done)left.append(node('span',done,'personal-topic-label'));if(personal)left.append(personal);else if(!done&&f.scoreable>0&&getResourceMeta(f.path).type!=='Draft question set')left.append(node('span','Not practised here','personal-topic-label unpractised-label'));
+    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));const personal=studyLabel(f.path);if(personal)left.append(personal);
     const count=node('div',undefined,'metric-record-count');count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
     const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
-    row.append(glyph,left,count,arrow);rows.append(row)
+    row.append(glyph,left,count,arrow);rows.append(resourceCardWithProgress(row,f.path,{count:false}))
    }if(!matches.length)rows.append(node('p','No detected question slots in this category.','muted'));card.append(rows);list.append(card);
   }
   if(!list.children.length)list.append(node('p','No matching topics.','empty-state'));
@@ -49,12 +49,12 @@ function compactIndex(content,p,catalog){
   let target;try{const u=new URL(a.href);if(u.origin!==location.origin||!u.searchParams.has('doc'))continue;target=u.searchParams.get('doc')}catch{continue}
   if(!safe(target)||target===p||seen.has(a.href)||!a.textContent.trim())continue;
   const folder=target.split('/')[2]||'Overview',meta=getResourceMeta(target),label=meta.type==='Mock test'?'Mock tests':meta.type==='Draft question set'?'Draft question sets':({'Concepts':'Theory','MCQs':'MCQs','Mock-Tests':'Mock tests','Previous-Year-Questions':'Previous year questions','Revision':'Revision'}[folder]||'Other study resources');
-  seen.add(a.href);if(!groups.has(label))groups.set(label,[]);groups.get(label).push({text:linkTitle(target,a.href,a.textContent.trim()),href:a.href});
+  seen.add(a.href);if(!groups.has(label))groups.set(label,[]);groups.get(label).push({text:linkTitle(target,a.href,a.textContent.trim()),href:a.href,path:target});
  }
  if(!groups.size)return;
  const panel=node('section',undefined,'compact-index'),hint=node('p','Choose a resource below. Study status, provenance notes and the complete original index remain available below.','muted');panel.append(hint);
  const filter=node('input');filter.type='search';filter.placeholder='Find a topic or study resource…';filter.setAttribute('aria-label','Find a topic in this index');panel.append(filter);const groupList=node('div',undefined,'index-resource-groups');panel.append(groupList);
- function draw(){groupList.replaceChildren();const query=filter.value.trim().toLowerCase();for(const [label,links] of groups){const matches=links.filter(l=>!query||(l.text+' '+label).toLowerCase().includes(query));if(!matches.length)continue;const section=node('details',undefined,'index-resource-group');section.open=!!query||groups.size<=2||!groupList.children.length;const summary=node('summary');summary.append(node('strong',label),node('span',matches.length+' links'));section.append(summary);const list=node('div',undefined,'index-link-list');for(const l of matches){const a=node('a',l.text);a.href=l.href;list.append(a)}section.append(list);groupList.append(section)}if(!groupList.children.length)groupList.append(node('p','No matching resources.','muted'))}
+ function draw(){groupList.replaceChildren();const query=filter.value.trim().toLowerCase();for(const [label,links] of groups){const matches=links.filter(l=>!query||(l.text+' '+label).toLowerCase().includes(query));if(!matches.length)continue;const section=node('details',undefined,'index-resource-group');section.open=!!query||groups.size<=2||!groupList.children.length;const summary=node('summary');summary.append(node('strong',label),node('span',matches.length+' links'));section.append(summary);const list=node('div',undefined,'index-link-list');for(const l of matches){const a=node('a',l.text);a.href=l.href;list.append(resourceCardWithProgress(a,l.path))}section.append(list);groupList.append(section)}if(!groupList.children.length)groupList.append(node('p','No matching resources.','muted'))}
  filter.oninput=draw;draw();
  const original=node('details',undefined,'original-index');original.id='original-index';original.append(node('summary','Full original index and study notes'));const nodes=[...content.childNodes];for(const n of nodes)if(n!==title)original.append(n);content.append(panel,original);
 }
@@ -93,6 +93,13 @@ async function enrichDirectory(p,content){
  const data=await getMetrics(),chapter=data?.chapters.find(c=>c.id===p.split('/')[1]);if(!chapter)return;
  const byPath=new Map(chapter.records.map(x=>[x.path,x])),evidence=new Set(chapter.evidencePaths||[]),links=[...content.querySelectorAll('.file-card')],pyq=p.includes('/Previous-Year-Questions/');
  if(!links.length)return;
- const groups=[[],[],[]];for(const link of links){link.querySelector('.file-count')?.remove();const target=new URL(link.href).searchParams.get('doc'),f=byPath.get(target);if(f){link.append(node('span',f.slots+' questions','file-count'));groups[0].push(link)}else if(pyq&&target?.endsWith('.md')){link.append(node('span',evidence.has(target)?'Source notes / index':'Not counted in snapshot','file-count evidence-file'));groups[evidence.has(target)?1:2].push(link)}else groups[2].push(link)}
- if(pyq){const list=links[0].parentElement;list.replaceChildren();for(const [i,title] of ['Question banks','Research and evidence notes','Other resources'].entries()){if(!groups[i].length)continue;list.append(node('h2',title,'pyq-directory-heading'),...groups[i])}}
+ const groups=[[],[],[]],list=links[0].closest('.tracked-resource-card')?.parentElement||links[0].parentElement;
+ for(const link of links){
+  link.querySelector('.file-count')?.remove();link.querySelector('.resource-question-count')?.remove();
+  const target=new URL(link.href).searchParams.get('doc'),f=byPath.get(target),card=link.closest('.tracked-resource-card')||link;
+  if(f){link.append(node('span',f.slots+' questions','file-count'));groups[0].push(card)}
+  else if(pyq&&target?.endsWith('.md')){link.append(node('span',evidence.has(target)?'Source notes / index':'Not counted in snapshot','file-count evidence-file'));groups[evidence.has(target)?1:2].push(card)}
+  else {addInventoryCount(link,target);groups[2].push(card)}
+ }
+ if(pyq){list.replaceChildren();for(const [i,title] of ['Question banks','Research and evidence notes','Other resources'].entries()){if(!groups[i].length)continue;list.append(node('h2',title,'pyq-directory-heading'),...groups[i])}}
 }

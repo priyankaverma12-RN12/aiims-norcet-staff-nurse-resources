@@ -64,7 +64,7 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator(".metric-record").first).to_be_visible()
         # Expanded chapter entries are whole-card links, not inline text links.
-        records=page.locator(".metric-records > a.metric-record")
+        records=page.locator(".metric-records a.metric-record")
         expect(records.first).to_be_visible()
         metrics=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
         chapter=next(c for c in metrics["chapters"] if c["id"]=="Nursing-Foundations")
@@ -72,7 +72,7 @@ try:
         for record in chapter["records"]:
             target=records.filter(has=page.locator(".metric-record-title",has_text=record["title"]))
             assert any(parse_qs(urlsplit(href).query).get("doc")==[record["path"]] for href in target.evaluate_all("(els)=>els.map(e=>e.href)")),record["path"]
-        assert records.first.evaluate("""e=>{const s=getComputedStyle(e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&s.textDecorationLine==='none'}""")
+        assert records.first.evaluate("""e=>{const s=getComputedStyle(e.closest('.tracked-resource-card')||e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&getComputedStyle(e).textDecorationLine==='none'}""")
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
         # The count is inside the anchor, so a tap anywhere opens the correct document.
         target_href=records.first.get_attribute("href")
@@ -80,7 +80,7 @@ try:
         expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"),timeout=30000)
         assert parse_qs(urlsplit(page.url).query)["doc"]==parse_qs(urlsplit(target_href).query)["doc"]
         page.go_back()
-        expect(page.locator(".metric-records > a.metric-record").first).to_be_visible(timeout=30000)
+        expect(page.locator(".metric-records a.metric-record").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")

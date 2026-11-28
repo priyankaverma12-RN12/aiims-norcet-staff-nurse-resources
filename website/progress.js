@@ -108,9 +108,53 @@ function attachBankProgress(root,p){
  refresh();document.addEventListener('study-progress-change',refresh);
 }
 
+
+// Shared card controls: one source of truth, no nested interactive elements.
+let studyInventory=null;
+function inventoryCounts(p){
+ const parts=p.split('/').filter(Boolean),chapter=studyInventory?.chapters.find(c=>c.id===parts[1]);
+ if(!chapter)return null;
+ if(parts.length===3&&parts[2]==='README.md')return chapter.totals;
+ if(p.endsWith('/')){
+  const records=chapter.records.filter(f=>f.path.startsWith(p)),totals={mcq:0,mock:0,pyq:0,imported:0,embedded:0};
+  for(const f of records)totals[f.category]=(totals[f.category]||0)+f.slots;
+  return totals;
+ }
+ const f=chapter.records.find(x=>x.path===p);
+ return f?{[f.category]:f.slots}:null;
+}
+function inventoryText(p){
+ const c=inventoryCounts(p);if(!c)return '';
+ return Object.entries({mcq:'MCQs',mock:'mock questions',pyq:'PYQ slots',imported:'imported questions',embedded:'embedded questions'}).filter(([k])=>c[k]>0).map(([k,label])=>c[k].toLocaleString('en-IN')+' '+label).join(' · ')||'';
+}
+function addInventoryCount(target,p){
+ const text=inventoryText(p);if(text)target.append(node('span',text,'resource-question-count'));return target;
+}
+const progressRefreshers=new Map();
+function liveProgressRefresh(fn,element){fn();for(const el of progressRefreshers.keys())if(!el.isConnected&&el.dataset.mounted==='true')progressRefreshers.delete(el);progressRefreshers.set(element,fn);queueMicrotask(()=>{if(element.isConnected)element.dataset.mounted='true';else progressRefreshers.delete(element)})}
+if(typeof document!=='undefined')document.addEventListener('study-progress-change',()=>{for(const [el,fn] of progressRefreshers){if(el.isConnected)fn();else progressRefreshers.delete(el)}});
+function resourceCardWithProgress(anchor,p,options={}){
+ const r=progressCatalog?.find(x=>x.path===p);
+ if(!r){if(options.count!==false)addInventoryCount(anchor,p);return anchor}
+ const card=node('div',undefined,'tracked-resource-card'),status=node('div',undefined,'tracked-resource-status'),line=node('div',undefined,'tracked-resource-line'),text=node('span'),percent=node('strong'),meter=completionMeter(0,r.title+' progress'),control=completionControl(r);
+ if(options.count!==false)addInventoryCount(anchor,p);
+ line.append(text,percent);status.append(line,meter,control);card.append(anchor,status);
+ const refresh=()=>{const x=completionState(r,loadCompletion(),loadRoutine()),value=r.slots?completionPercent(x.covered,r.slots):Number(x.done)*100;
+  text.textContent=r.slots?(x.done?'Completed · ':'')+x.checked+' / '+r.slots+' checked':x.done?'Completed':'Not marked done';
+  percent.textContent=value+'%';meter.value=value;card.classList.toggle('is-completed',x.done);control.refreshCompletion()
+ };
+ liveProgressRefresh(refresh,card);return card;
+}
+function chapterCardProgress(id){
+ const resources=(progressCatalog||[]).filter(r=>r.chapter===id);if(!resources.length)return null;
+ const section=node('div',undefined,'chapter-card-progress'),line=node('div',undefined,'tracked-resource-line'),label=node('span'),percent=node('strong'),meter=completionMeter(0,id+' completion'),link=node('a','Track topics →');
+ link.href='./?progress=1&chapter='+encodeURIComponent(id);line.append(label,percent);section.append(line,meter,link);
+ liveProgressRefresh(()=>{const s=completionSummary(resources,loadCompletion(),loadRoutine());label.textContent=s.done+' / '+s.total+' resources done';percent.textContent=s.percent+'%';meter.value=s.percent},section);
+ return section;
+}
+
 function chapterProgressLabel(id){
- if(!progressCatalog)return null;const s=completionSummary(progressCatalog.filter(x=>x.chapter===id),loadCompletion(),loadRoutine());if(!s.total)return null;
- return node('span',s.percent+'% marked complete','chapter-completion-label');
+ if(!progressCatalog)return null;const records=progressCatalog.filter(x=>x.chapter===id);if(!records.length)return null;const label=node('span',undefined,'chapter-completion-label');liveProgressRefresh(()=>{label.textContent=completionSummary(records,loadCompletion(),loadRoutine()).percent+'% complete'},label);return label;
 }
 async function showProgress(){
  $('home').hidden=true;$('reader').hidden=true;$('metrics').hidden=true;$('progress-page').hidden=false;document.title='My progress | Nursing Study Hub';
