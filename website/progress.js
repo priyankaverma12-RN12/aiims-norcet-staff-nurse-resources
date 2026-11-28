@@ -3,6 +3,20 @@
 const completionKey='nursing-completion-v1';
 const progressTypes={theory:'Theory topics',mcq:'MCQ banks',mock:'Mock tests',pyq:'PYQ practice',revision:'Revision topics',imported:'Imported practice',embedded:'Embedded practice'};
 let progressCatalog=null;
+function countSlots(md){
+ const clean=md.replace(/<!--[\s\S]*?-->/g,'').replace(/<details\b[^>]*>[\s\S]*?<\/details>/gi,'').replace(/^\s*\x60{3,}[^\n]*\n[\s\S]*?^\s*\x60{3,}[^\n]*$/gm,'');
+ const lines=clean.split(/\r?\n/);let expect=0,count=0;
+ for(const line of lines){
+  const match=line.match(/^\s*(?:[-*+]\s+)?(?:\*\*)?([A-D])[.)](?:\*\*)?\s+\S/i);
+  if(!match)continue;
+  const i='ABCD'.indexOf(match[1].toUpperCase());
+  if(i===0)expect=1;
+  else if(i===expect&&expect>0){expect++;if(expect===4){count++;expect=0}}
+  else expect=0;
+ }
+ return count;
+}
+
 function completionRecords(data){
  const out=[];for(const c of data?.chapters||[]){
   const banks=new Map(c.records.map(r=>[r.path,r]));
@@ -13,7 +27,7 @@ function completionRecords(data){
    if(m.type==='Theory')kind='theory';else if(m.type==='Revision')kind='revision';
    if(!kind||!progressTypes[kind])continue;
    if(['Study guide','Research and evidence notes','Resource index','Study index','Chapter overview'].includes(m.type))continue;
-   out.push({path:p,chapter:c.id,title:m.title,kind,slots:b?.slots||0,scoreable:b?.scoreable||0});
+   out.push({path:p,chapter:c.id,title:m.title,kind,slots:b?.slots||0,scoreable:b?.scoreable||0,questionKeys:b?.questionKeys||null,signature:b?.signature||null});
   }
  }
  return out.sort((a,b)=>a.chapter.localeCompare(b.chapter)||Object.keys(progressTypes).indexOf(a.kind)-Object.keys(progressTypes).indexOf(b.kind)||a.path.localeCompare(b.path,undefined,{numeric:true}));
@@ -21,9 +35,13 @@ function completionRecords(data){
 function loadCompletion(){try{const d=JSON.parse(localStorage.getItem(completionKey)||'{}');return d&&typeof d==='object'&&!Array.isArray(d)?d:{}}catch{return {}}}
 function writeCompletion(d){try{localStorage.setItem(completionKey,JSON.stringify(d));return true}catch{return false}}
 function completionState(record,marks,routine){
- const mark=marks[record.path],done=!!mark&&mark.slots===record.slots,changed=!!mark&&!done;
- const saved=routine.banks?.[record.path],checked=Math.min(record.scoreable,record.slots,Object.keys(saved?.questions||{}).length);
- return {done,changed,checked,slots:record.slots,covered:done?record.slots:checked};
+ const mark=marks[record.path],saved=routine.banks?.[record.path],known=saved?.questions||{};
+ const keys=Array.isArray(record.questionKeys)?[...new Set(record.questionKeys)]:null;
+ const checked=Math.min(record.scoreable,record.slots,keys?keys.filter(k=>Object.hasOwn(known,k)).length:Object.keys(known).length);
+ const manual=!!mark&&mark.mode!=='pending'&&mark.slots===record.slots&&(!mark.signature||!record.signature||mark.signature===record.signature);
+ const auto=!!keys&&record.slots>0&&record.scoreable===record.slots&&keys.length===record.slots&&checked===record.slots;
+ const pending=mark?.mode==='pending'&&(!mark.signature||mark.signature===record.signature);const done=manual||(auto&&!pending),changed=!!mark&&mark.mode!=='pending'&&!manual&&!auto;
+ return {done,changed,checked,slots:record.slots,covered:done?record.slots:checked,automatic:done&&!manual&&auto};
 }
 function completionPercent(n,total){return total?(n>=total?100:Math.min(99.9,Math.round(1000*n/total)/10)):0}
 function completionSummary(records,marks,routine){
@@ -32,7 +50,7 @@ function completionSummary(records,marks,routine){
  s.percent=completionPercent(s.done,s.total);s.questionPercent=completionPercent(s.covered,s.slots);return s;
 }
 function setCompletion(r,done){
- const d=loadCompletion();if(done)d[r.path]={slots:r.slots,at:new Date().toISOString()};else delete d[r.path];
+ const d=loadCompletion(),state=completionState(r,d,loadRoutine());if(done)d[r.path]={slots:r.slots,signature:r.signature||null,at:new Date().toISOString()};else if(state.checked===r.slots&&r.slots>0)d[r.path]={mode:'pending',slots:r.slots,signature:r.signature||null};else delete d[r.path];
  if(!writeCompletion(d))return false;
  document.dispatchEvent(new CustomEvent('study-progress-change'));return true;
 }
@@ -48,7 +66,7 @@ function resetCompletionScope(records,label){
 }
 function completionLabel(p){
  const r=progressCatalog?.find(x=>x.path===p);if(!r)return null;const state=completionState(r,loadCompletion(),loadRoutine());
- return state.done?'Completed':state.changed?'Bank changed — review again':null;
+ return state.automatic?'Completed automatically':state.done?'Completed':state.changed?'Bank changed — review again':null;
 }
 function completionMeter(percent,label){const meter=node('progress',undefined,'completion-meter');meter.max=100;meter.value=percent;meter.setAttribute('aria-label',label);return meter}
 function completionControl(r){
@@ -56,7 +74,7 @@ function completionControl(r){
  const status=node('span'),reset=node('button','Reset','completion-reset');reset.type='button';reset.setAttribute('aria-label','Reset progress for '+r.title);
  const error=node('small','','completion-error');error.setAttribute('role','status');
  input.dataset.progressPath=r.path;label.append(input,status);wrap.append(label,reset,error);
- function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());input.checked=x.done;status.textContent=x.done?'Done':x.changed?'Mark done again':'Mark done';reset.disabled=!x.done&&!x.changed&&!x.checked;wrap.classList.toggle('is-completed',x.done)}
+ function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());input.checked=x.done;status.textContent=x.automatic?'Done automatically':x.done?'Done':x.changed?'Mark done again':'Mark done';reset.disabled=!x.done&&!x.changed&&!x.checked;wrap.classList.toggle('is-completed',x.done)}
  input.onchange=()=>{if(!setCompletion(r,input.checked)){error.textContent='Progress could not be saved.';refresh()}else{error.textContent='';refresh()}};
  reset.onclick=()=>{if(resetCompletionScope([r],r.title)){error.textContent='';refresh()}else refresh()};wrap.refreshCompletion=refresh;
  refresh();return wrap;
@@ -67,9 +85,29 @@ function readerCompletion(p){
  panel.hidden=false;
  const summary=node('div',undefined,'reader-progress-summary'),text=node('strong'),bar=completionMeter(0,'Topic question coverage'),control=completionControl(r);
  summary.append(text,bar);panel.replaceChildren(summary,control);
- function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.done?'Completed':x.changed?'Bank changed — review again':x.slots?x.checked+' / '+x.slots+' questions checked':'Study completion';bar.hidden=!x.slots;bar.value=completionPercent(x.covered,x.slots);control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
+ function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Completed':'Study completion';bar.hidden=!x.slots;bar.value=completionPercent(x.covered,x.slots);control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
  refresh();document.addEventListener('study-progress-change',refresh);
 }
+
+function registerLiveBank(p,md,items){
+ let existing=progressCatalog?.find(x=>x.path===p);const meta=getResourceMeta(p),slots=countSlots(md);
+ if(meta.draft||meta.type==='Draft question set'||!slots)return existing;
+ if(!existing){const kind=({'Topic MCQs':'mcq','Mock test':'mock','Previous year questions':'pyq','Reported exam practice':'pyq','Theory':'theory','Revision':'revision','Imported practice':'imported'}[meta.type]);if(!kind)return null;existing={path:p,chapter:p.split('/')[1],title:meta.title,kind};(progressCatalog||=[]).push(existing)}
+ existing.slots=slots;existing.scoreable=items.length;existing.questionKeys=items.map(practiceKey);existing.signature=bankSignature(items);
+ return existing;
+}
+function attachBankProgress(root,p){
+ const r=progressCatalog?.find(x=>x.path===p);if(!r||!r.slots)return;
+ const panel=node('div',undefined,'quiz-bank-progress'),line=node('div',undefined,'quiz-bank-progress-line'),title=node('strong'),percent=node('strong'),bar=completionMeter(0,'Overall bank question coverage'),note=node('small'),link=node('a','My progress');
+ link.href='./?progress=1&chapter='+encodeURIComponent(r.chapter);line.append(title,percent);panel.append(line,bar,note,link);
+ const target=root.querySelector('.practice-start-actions');if(target)target.before(panel);else root.prepend(panel);
+ let previous=false,initialized=false;
+ function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());title.textContent=x.done?'✓ Bank completed':'Your bank progress';percent.textContent=completionPercent(x.covered,r.slots)+'%';bar.value=completionPercent(x.covered,r.slots);
+ note.textContent=x.checked+' / '+r.slots+' checked'+(x.done&&!x.automatic&&x.checked<r.slots?' · Manually marked done':x.automatic?' · Completed automatically':x.changed?' · Source changed, review again':'');
+ panel.classList.toggle('is-completed',x.done);if(initialized&&!previous&&x.automatic){panel.classList.add('celebrate-once');note.textContent+=' — Great work!'}previous=x.done;initialized=true}
+ refresh();document.addEventListener('study-progress-change',refresh);
+}
+
 function chapterProgressLabel(id){
  if(!progressCatalog)return null;const s=completionSummary(progressCatalog.filter(x=>x.chapter===id),loadCompletion(),loadRoutine());if(!s.total)return null;
  return node('span',s.percent+'% marked complete','chapter-completion-label');
@@ -102,17 +140,17 @@ async function showProgress(){
    function populate(){if(body.children.length)return;for(const r of matches){
     const x=completionState(r,loadCompletion(),loadRoutine()),tile=node('article',undefined,'completion-resource'),a=node('a',undefined,'completion-resource-link');a.href=route(r.path);
     a.append(node('small',progressTypes[r.kind]),node('strong',r.title));tile.append(a);
-    if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions support interactive tracking','muted'))}
+    if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions support interactive tracking','muted'))}
     tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
    }}
    card.open=!!chapter.value||!!search||opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
   if(!visible)list.append(node('p','No matching study resources.','empty-state'));
-  message.textContent=visible+' matching resources · Completion is your own study checklist, not a mastery score.';if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
+  message.textContent=visible+' matching resources · Completion includes fully checked banks and your manual marks. It is not a mastery score.';if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
  }
  chapter.onchange=()=>{opened.clear();if(chapter.value)opened.add(chapter.value);const u=new URL(location.href);if(chapter.value)u.searchParams.set('chapter',chapter.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};
  kind.onchange=draw;query.oninput=draw;filter.onchange=draw;
  $('reset-progress').onclick=()=>resetCompletionScope(scope(),chapter.value?'this chapter':'all tracked chapters');
  document.addEventListener('study-progress-change',draw);draw();
 }
-if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope};
+if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots};
