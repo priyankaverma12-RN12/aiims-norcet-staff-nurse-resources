@@ -305,7 +305,7 @@ D. One week
 
 **Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [Related MCQ practice — Canadian Nurse Expert, NCLEX-RN elimination knowledge check](https://www.youtube.com/watch?v=vdQdgMbIF-A).** Publisher description mein bladder training par question practice explicitly listed hai. NICE ki six-week duration wali exact item, timestamp aur playback verify nahi hue hain.
 
 </details>
 
@@ -338,7 +338,7 @@ D. Use the diary to set a tolerable interval and gradually extend it with urge-c
 
 **Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [Related MCQ practice — Canadian Nurse Expert, NCLEX-RN elimination knowledge check](https://www.youtube.com/watch?v=vdQdgMbIF-A).** Publisher description mein bladder training question practice explicitly listed hai. Is exact gradual interval scenario, timestamp aur playback verify nahi hue hain.
 
 </details>
 
