@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.5","app.js":"12.5","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.6","app.js":"12.6","progress.js":"12.2","routine.js":"12.6","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -72,8 +72,13 @@ with sync_playwright() as p:
         expect(page.locator("#library")).to_be_hidden()
         expect(page.locator("#home #library")).to_have_count(0)
         expect(page.locator("#chapters .chapter")).to_have_count(0)
-        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+        for panel_id in ("#home-activity-panel","#daily-panel"):
             expect(page.locator(panel_id)).to_have_attribute("open","")
+        for panel_id in ("#recent-panel","#saved-panel"):
+            expect(page.locator(panel_id)).not_to_have_attribute("open","")
+        expect(page.locator("#home #library-overview")).to_have_count(0)
+        expect(page.locator("#home-activity [data-period=today] strong")).to_have_text("0")
+        expect(page.locator("#home-activity .home-activity-card")).to_have_count(6)
         expect(page.locator(".daily-help")).to_have_count(0)
         for filename,version in asset_versions.items():
             assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet],link[rel=icon]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
@@ -86,18 +91,21 @@ with sync_playwright() as p:
         expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
         expect(page.locator(".daily-goal-select select")).to_have_count(0)
         expect(page.locator("#home-link")).to_have_attribute("aria-current","page")
-        expect(page.locator("#library-overview")).to_have_attribute("open","")
-        assert page.locator(".stats").bounding_box()["height"]<=(255 if width<600 else 110)
         assert page.locator(".hero").bounding_box()["height"]<=(300 if width<600 else 240)
-        assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
-        expect(page.locator(".daily-week-details")).not_to_have_attribute("open","")
-        page.locator(".daily-week-details>summary").click()
+        assert page.locator("#home-activity").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
+        expect(page.locator(".daily-week-details")).to_have_attribute("open","")
         expect(page.locator(".study-day.today")).to_be_visible()
+        assert page.locator(".daily-count-breakdown").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==3
+        page.locator(".daily-week-details>summary").click()
+        expect(page.locator(".study-day.today")).to_be_hidden()
         page.locator(".daily-week-details>summary").click()
         print(f"V11.7 compact live overview and weekly disclosure passed at {width}x{height}.",flush=True)
         expect(page.locator("#mcq-total")).to_have_text(page.evaluate("(n)=>n.toLocaleString('en-IN')",expected["totals"]["mcq"]))
         page.locator("#library-link").click()
         expect(page.locator("#library .library-toolbar h1")).to_have_text("Chapters")
+        expect(page.locator("#library #library-overview")).to_be_visible()
+        expect(page.locator("#library-overview")).to_have_attribute("open","")
+        assert page.locator(".stats").bounding_box()["height"]<=(255 if width<600 else 110)
         expect(page.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
         expect(page.locator("#home")).to_be_hidden()
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
@@ -164,6 +172,7 @@ with sync_playwright() as p:
         expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("0 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("44 more marked done")
+        expect(page.locator("#home-activity [data-period=today] strong")).to_have_text("0")
         expect(page.locator(".study-day.today strong")).to_have_text("44")
         expect(page.locator("#daily-study h2")).to_have_text("Almost there!")
         expect(page.locator(".daily-progress-label")).to_contain_text("6 remaining")
@@ -183,6 +192,7 @@ with sync_playwright() as p:
         expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
+        expect(page.locator("#home-activity [data-period=today] strong")).to_have_text("1")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
         if page.locator("#recent-panel").get_attribute("open") is None:
             page.locator("#recent-panel > summary").click()
@@ -651,7 +661,9 @@ with sync_playwright() as p:
         page.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","true")
         other=ctx.new_page()
-        other.goto(base+"?build="+commit+"#bookmarks")
+        other.goto(base+"?build="+commit+"&saved=1")
+        expect(other.locator("#saved-page")).to_be_visible()
+        expect(other.locator("#home")).to_be_hidden()
         expect(other.locator("#marks .saved-practice-link").first).to_be_visible(timeout=30000)
         other.locator("#marks .saved-practice-link").first.click()
         expect(other.locator(".question-meta h3")).to_have_text("Question 1 / 1",timeout=30000)
@@ -663,6 +675,10 @@ with sync_playwright() as p:
         other.locator("button[data-bookmark-stem]").first.click()
         expect(page.locator("button[data-bookmark-stem]").first).to_have_attribute("aria-pressed","false")
         other.close()
+        go({"resume":"1"})
+        expect(page.locator("#resume-page #recent .recent-card").first).to_be_visible(timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        print(f"V12.6 live Saved and Resume routes passed at {width}x{height}.",flush=True)
         go({"doc":sample})
         ready()
         second=ctx.new_page()
