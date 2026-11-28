@@ -1,0 +1,5 @@
+# 06D NOWS evidence and gaps
+
+Original practice, 28 November 2026. [Bank](../MCQs/06D-Neonatal-Opioid-Withdrawal-and-Discharge-20-MCQs.md) · [Guide](../Concepts/06D-Neonatal-Opioid-Withdrawal-and-Discharge.md)
+
+[CPS 2025 position statement](https://cps.ca/en/documents/position/nas-nows) directly retrieved, symptom tables, assessment, non-pharmacological care, medication table and discharge sections. Q01–07 terminology, symptoms and tools; Q08–14 functional support, differential, feeding, respectful history and escalation; Q15–20 observation, given-order arithmetic, respiratory safety, clonidine, naloxone and discharge. Q16 original prescription arithmetic, not a dosing recommendation. Q17 requires additional local opioid monitoring policy check. Specific Indian local clinical protocol and item-level source/video mapping pending. No authenticated historical exam item. Adjacent path screen did not identify a dedicated neonatal withdrawal bank; comprehensive semantic, clinical/difficulty and rendering review required.
