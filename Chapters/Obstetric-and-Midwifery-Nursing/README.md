@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 524 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 544 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -29,6 +29,7 @@
 | Obstetric ultrasound and biometry | [Concepts](Concepts/06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md) |
 | Fetal Doppler studies | [Concepts](Concepts/06H-Fetal-Doppler-Studies.md) · [20 original MCQs](MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence and research gaps](Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md) |
 | Normal labour physiology | [Detailed concepts and flowcharts](Concepts/07A-Normal-Labour-Physiology.md) · [20 original MCQs](MCQs/07A-Normal-Labour-Physiology-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md) |
+| Signs and onset of labour | [Detailed concepts and diagrams](Concepts/07B-Signs-and-Onset-of-Labour.md) · [20 original MCQs](MCQs/07B-Signs-and-Onset-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07B-Signs-and-Onset-of-Labour-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -123,3 +124,6 @@ All eight fetal assessment topic banks published: 160 original questions, 640 op
 ## Normal labour physiology — 28 November 2026
 
 20 new original questions, 80 individual Roman Hinglish explanations, two original Mermaid flowcharts and evidence-gap register. Obstetrics now indexes 524 originals and 25 historical adaptations. All 33 prior Hard labels in 05B (8), 05C (11) and 05D (14) normalized to Difficult without other study-text changes. No new historical adaptation or mock counted. Next: signs of labour, stages, powers/passenger/passage, cardinal movements, maternal-fetal assessment, partograph/WHO Labour Care Guide and nursing care. Independent audit and exact video coverage pending.
+
+## Signs and onset of labour — 28 November 2026
+Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obstetrics mein 544 indexed originals hain. Clinical, semantic aur video verification ki remaining gaps evidence file mein track karenge.

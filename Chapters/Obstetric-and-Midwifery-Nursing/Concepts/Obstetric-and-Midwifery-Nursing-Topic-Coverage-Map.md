@@ -30,6 +30,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - [Doppler concepts](06H-Fetal-Doppler-Studies.md) · [20 original MCQs](../MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence gaps](../Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md). Published, independent review pending.
 - Normal pregnancy and labour
   - Normal labour physiology: [Concepts](07A-Normal-Labour-Physiology.md) · [20 originals](../MCQs/07A-Normal-Labour-Physiology-20-MCQs.md) · [Evidence gaps](../Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md). Published; independent review pending.
+  - Signs and onset of labour: [Concepts](07B-Signs-and-Onset-of-Labour.md) · [20 originals](../MCQs/07B-Signs-and-Onset-of-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07B-Signs-and-Onset-of-Labour-Evidence.md). Published, independent review pending.
   - Signs and onset, stages, powers/passenger/passage, cardinal movements, maternal-fetal assessment and nursing management: pending.
 - partograph and delivery
 - hypertensive disorders

@@ -102,3 +102,6 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Normal labour physiology — 28 November 2026
 
 [Clinical and research gaps](07A-Labour-Physiology-Evidence-and-Research-Gaps.md). HPRCA oxytocin-receptor lead not authenticated. DSSSB true-labour and HPSSC third-stage leads reserved. Dedicated MCQ candidate indexed; all 20 specific item mappings and playback pending. No new historical adaptation counted; Obstetrics total 25.
+
+## Signs and onset of labour — 28 November 2026
+[Source and practice gaps](07B-Signs-and-Onset-of-Labour-Evidence.md). DSSSB official paper lead indexed, key not authenticated. Three provisional topic-level video mappings, 17 specific gaps and zero exact playback. No new historical adaptation counted.
