@@ -1,5 +1,15 @@
 # Nursing Management and Education manual claim
 
+State: CLAIMED
+Owner: integration-pr40-qi-guide-20261128T1546Z
+Scope: isolated PR40 quality-improvement concept guide, reciprocal bank link and checkpoint. Preserve all question blocks, prior corrections, shared navigation and other sessions.
+Claimed UTC: 2026-11-28T15:46:38Z
+Expiry UTC: 2026-11-28T16:16:38Z
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: FREE
 Owner: none
 Scope: no active write lease; continuation reserved at PR40.
