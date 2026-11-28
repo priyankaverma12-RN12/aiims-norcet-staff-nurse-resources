@@ -34,6 +34,11 @@ try:
         expect(page.locator("#daily-study")).to_be_visible()
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
+        expect(page.locator(".study-day-date")).to_have_count(7)
+        expect(page.locator("#welcome-date")).to_have_text(__import__("re").compile(r"\d{4}"))
+        expect(page.locator("#welcome-greeting")).to_contain_text("Ready to learn?")
+        expect(page.locator(".topbar .github-link")).to_have_count(0)
+        assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
         assert page.locator(".stats>.stat").count()==7
         assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==12
@@ -81,6 +86,7 @@ try:
         expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=week] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=month] .history-solved')).to_have_text("2")
+        assert page.locator("#study-history-year option").count()>=5
         page.locator("#study-history-year").select_option("2020")
         expect(page.locator('[data-month="2020-12"] .history-month-solved')).to_have_text("1")
         page.evaluate("""()=>{if(window.historyFixtureBackup===null)localStorage.removeItem(routineKey);else localStorage.setItem(routineKey,window.historyFixtureBackup);document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
@@ -275,6 +281,10 @@ try:
         ready(page)
         page.goto(base)
         expect(page.locator("#recent .recent-card").first).to_be_visible()
+        expect(page.locator("#recent .recent-continue").first).to_have_text("Resume study →")
+        heights=page.locator("#recent .recent-entry").evaluate_all("els=>els.map(e=>e.getBoundingClientRect().height)")
+        assert max(heights)-min(heights)<=2
+        no_overflow(page)
         # Actual Mermaid source, breadcrumb and source image fallback.
         flow = "Chapters/Nursing-Foundations/Concepts/01A-Nursing-Process-and-Care-Planning.md"
         page.goto(base + "?" + urlencode({"doc": flow}))
@@ -404,6 +414,9 @@ try:
                 expect(small_chart).to_have_attribute("data-diagram-state", "ready", timeout=90000)
                 no_overflow(mobile)
                 assert mobile.locator(".reading-location").evaluate("(e) => getComputedStyle(e).position === 'sticky'")
+                assert mobile.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
+                assert mobile.locator(".reading-location").evaluate("e=>parseFloat(getComputedStyle(e).top)>=document.querySelector('.topbar').getBoundingClientRect().height-1")
+
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
         browser.close()
