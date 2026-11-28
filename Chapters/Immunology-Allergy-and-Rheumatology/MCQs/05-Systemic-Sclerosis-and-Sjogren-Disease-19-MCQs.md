@@ -8,17 +8,15 @@
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Thickening and tightening of skin
+- **A.** Thickening and tightening of skin
+- **B.** Generalized loss of all skin pigment
 
-B. Generalized loss of all skin pigment
-
-C. Painless honey-coloured crusts
-
-D. Dermatomal vesicles
+- **C.** Painless honey-coloured crusts
+- **D.** Dermatomal vesicles
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Thickening and tightening of skin
+**Correct answer: A. Thickening and tightening of skin**
 
 **A kyun sahi hai:** Systemic sclerosis mein fibrosis se skin thick aur tight ho sakti hai.
 
@@ -30,7 +28,7 @@ D. Dermatomal vesicles
 
 **Exam clue:** Sclerosis ka meaning tissue hardening ya thickening se connect karo.
 
-**Clinical reference:** https://health.nih.gov/health-topics-a-z/scleroderma
+**Clinical reference:** [Clinical guidance](https://health.nih.gov/health-topics-a-z/scleroderma)
 
 </details>
 
@@ -38,17 +36,15 @@ D. Dermatomal vesicles
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Trousseau sign
+- **A.** Trousseau sign
+- **B.** Raynaud phenomenon
 
-B. Raynaud phenomenon
-
-C. Babinski response
-
-D. Kussmaul breathing
+- **C.** Babinski response
+- **D.** Kussmaul breathing
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Raynaud phenomenon
+**Correct answer: B. Raynaud phenomenon**
 
 **A kyun galat hai:** Trousseau sign hypocalcaemia ka clue hai.
 
@@ -60,7 +56,7 @@ D. Kussmaul breathing
 
 **Exam clue:** Cold-triggered digital colour change vascular spasm ka clue hai.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -68,17 +64,15 @@ D. Kussmaul breathing
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Acute appendicitis in every patient
+- **A.** Acute appendicitis in every patient
+- **B.** Complete absence of bowel sounds in all cases
 
-B. Complete absence of bowel sounds in all cases
-
-C. Acid reflux
-
-D. Haematemesis in every patient
+- **C.** Acid reflux
+- **D.** Haematemesis in every patient
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Acid reflux
+**Correct answer: C. Acid reflux**
 
 **A kyun galat hai:** Appendicitis unrelated acute condition hai.
 
@@ -90,7 +84,7 @@ D. Haematemesis in every patient
 
 **Exam clue:** Oesophageal dysfunction aur reflux ka relationship yaad rakho.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/scleroderma/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/scleroderma/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -98,17 +92,15 @@ D. Haematemesis in every patient
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Adrenal medulla and thyroid only
+- **A.** Adrenal medulla and thyroid only
+- **B.** Pituitary and pineal glands only
 
-B. Pituitary and pineal glands only
-
-C. Pancreatic islets only
-
-D. Lacrimal and salivary glands
+- **C.** Pancreatic islets only
+- **D.** Lacrimal and salivary glands
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Lacrimal and salivary glands
+**Correct answer: D. Lacrimal and salivary glands**
 
 **A kyun galat hai:** Adrenal aur thyroid typical dryness mechanism explain nahi karte.
 
@@ -120,7 +112,7 @@ D. Lacrimal and salivary glands
 
 **Exam clue:** Dry eyes aur dry mouth ke source glands pehchano.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease)
 
 </details>
 
@@ -128,17 +120,15 @@ D. Lacrimal and salivary glands
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Dry mouth
+- **A.** Dry mouth
+- **B.** Dry cough
 
-B. Dry cough
-
-C. Excessive tears
-
-D. Painful urination
+- **C.** Excessive tears
+- **D.** Painful urination
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Dry mouth
+**Correct answer: A. Dry mouth**
 
 **A kyun sahi hai:** Xerostomia mouth dryness ki subjective feeling hai.
 
@@ -150,7 +140,7 @@ D. Painful urination
 
 **Exam clue:** Xerostomia ka matlab dry mouth hai.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease)
 
 </details>
 
@@ -158,17 +148,15 @@ D. Painful urination
 
 **Difficulty:** Easy | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Mantoux test
+- **A.** Mantoux test
+- **B.** Schirmer test
 
-B. Schirmer test
-
-C. Rinne test
-
-D. Romberg test
+- **C.** Rinne test
+- **D.** Romberg test
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Schirmer test
+**Correct answer: B. Schirmer test**
 
 **A kyun galat hai:** Mantoux test tuberculosis exposure ke assessment mein use hota hai.
 
@@ -180,7 +168,7 @@ D. Romberg test
 
 **Exam clue:** Schirmer ko tear production se associate karo.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -188,17 +176,15 @@ D. Romberg test
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Wear tight rings to restrict blood flow
+- **A.** Wear tight rings to restrict blood flow
+- **B.** Smoke to improve peripheral perfusion
 
-B. Smoke to improve peripheral perfusion
-
-C. Keep the whole body and hands warm and avoid abrupt cold exposure
-
-D. Apply ice directly to affected fingers
+- **C.** Keep the whole body and hands warm and avoid abrupt cold exposure
+- **D.** Apply ice directly to affected fingers
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Keep the whole body and hands warm and avoid abrupt cold exposure
+**Correct answer: C. Keep the whole body and hands warm and avoid abrupt cold exposure**
 
 **A kyun galat hai:** Tight rings circulation compromise kar sakte hain.
 
@@ -210,7 +196,7 @@ D. Apply ice directly to affected fingers
 
 **Exam clue:** Vascular spasm mein warmth aur trigger avoidance important hai.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -218,17 +204,15 @@ D. Apply ice directly to affected fingers
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Lie flat immediately after each large meal
+- **A.** Lie flat immediately after each large meal
+- **B.** Drink large quantities just before sleeping to force food downward
 
-B. Drink large quantities just before sleeping to force food downward
-
-C. Stop prescribed acid-suppression therapy without consultation
-
-D. Eat smaller meals and avoid lying down soon after eating
+- **C.** Stop prescribed acid-suppression therapy without consultation
+- **D.** Eat smaller meals and avoid lying down soon after eating
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Eat smaller meals and avoid lying down soon after eating
+**Correct answer: D. Eat smaller meals and avoid lying down soon after eating**
 
 **A kyun galat hai:** Flat position reflux facilitate kar sakti hai.
 
@@ -240,7 +224,7 @@ D. Eat smaller meals and avoid lying down soon after eating
 
 **Exam clue:** Reflux mein meal size aur posture dono matter karte hain.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -248,17 +232,15 @@ D. Eat smaller meals and avoid lying down soon after eating
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Arrange individualized hand exercises and occupational therapy assessment
+- **A.** Arrange individualized hand exercises and occupational therapy assessment
+- **B.** Immobilize both hands indefinitely
 
-B. Immobilize both hands indefinitely
-
-C. Force painful finger extension without assessment
-
-D. Advise stopping all activities permanently
+- **C.** Force painful finger extension without assessment
+- **D.** Advise stopping all activities permanently
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Arrange individualized hand exercises and occupational therapy assessment
+**Correct answer: A. Arrange individualized hand exercises and occupational therapy assessment**
 
 **A kyun sahi hai:** Tailored exercises aur adaptive equipment function preserve karne mein help karte hain.
 
@@ -270,7 +252,7 @@ D. Advise stopping all activities permanently
 
 **Exam clue:** Functional rehabilitation individualized honi chahiye.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/scleroderma/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/scleroderma/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -278,17 +260,15 @@ D. Advise stopping all activities permanently
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Replace all oral care with antiseptic mouthwash alone
+- **A.** Replace all oral care with antiseptic mouthwash alone
+- **B.** Regular dental review and fluoride-based oral care
 
-B. Regular dental review and fluoride-based oral care
-
-C. Frequent sugar-containing sweets to stimulate saliva
-
-D. Avoid brushing because the mouth is dry
+- **C.** Frequent sugar-containing sweets to stimulate saliva
+- **D.** Avoid brushing because the mouth is dry
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Regular dental review and fluoride-based oral care
+**Correct answer: B. Regular dental review and fluoride-based oral care**
 
 **A kyun galat hai:** Mouthwash alone comprehensive dental care replace nahi karta.
 
@@ -300,7 +280,7 @@ D. Avoid brushing because the mouth is dry
 
 **Exam clue:** Reduced saliva means increased dental risk.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -308,17 +288,15 @@ D. Avoid brushing because the mouth is dry
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Rub the eyes repeatedly for moisture
+- **A.** Rub the eyes repeatedly for moisture
+- **B.** Apply undiluted disinfectant to the eyelids
 
-B. Apply undiluted disinfectant to the eyelids
-
-C. Use clinician-recommended lubricating eye drops
-
-D. Use another person's antibiotic drops
+- **C.** Use clinician-recommended lubricating eye drops
+- **D.** Use another person's antibiotic drops
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Use clinician-recommended lubricating eye drops
+**Correct answer: C. Use clinician-recommended lubricating eye drops**
 
 **A kyun galat hai:** Repeated rubbing irritation badha sakti hai.
 
@@ -330,7 +308,7 @@ D. Use another person's antibiotic drops
 
 **Exam clue:** Uncomplicated dryness mein lubrication, red flags mein urgent review.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -338,17 +316,15 @@ D. Use another person's antibiotic drops
 
 **Difficulty:** Medium | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Diagnose Sjögren disease solely from the dry mouth
+- **A.** Diagnose Sjögren disease solely from the dry mouth
+- **B.** Independently stop every prescribed medicine
 
-B. Independently stop every prescribed medicine
-
-C. Dismiss persistent dry eye symptoms as imaginary
-
-D. Review the medication history with the clinician before attributing all symptoms to autoimmunity
+- **C.** Dismiss persistent dry eye symptoms as imaginary
+- **D.** Review the medication history with the clinician before attributing all symptoms to autoimmunity
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Review the medication history with the clinician before attributing all symptoms to autoimmunity
+**Correct answer: D. Review the medication history with the clinician before attributing all symptoms to autoimmunity**
 
 **A kyun galat hai:** Xerostomia alone definitive autoimmune diagnosis nahi hai.
 
@@ -360,7 +336,7 @@ D. Review the medication history with the clinician before attributing all sympt
 
 **Exam clue:** Sicca symptoms ka differential diagnosis yaad rakho.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
@@ -368,17 +344,15 @@ D. Review the medication history with the clinician before attributing all sympt
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Scleroderma renal crisis
+- **A.** Scleroderma renal crisis
+- **B.** Stable uncomplicated Raynaud phenomenon
 
-B. Stable uncomplicated Raynaud phenomenon
-
-C. Isolated dry mouth
-
-D. Chronic uncomplicated reflux
+- **C.** Isolated dry mouth
+- **D.** Chronic uncomplicated reflux
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Scleroderma renal crisis
+**Correct answer: A. Scleroderma renal crisis**
 
 **A kyun sahi hai:** Abrupt BP rise aur AKI systemic sclerosis mein renal crisis ka major warning pattern hai, urgent management needed hai.
 
@@ -390,7 +364,7 @@ D. Chronic uncomplicated reflux
 
 **Exam clue:** New severe hypertension plus AKI in systemic sclerosis is an emergency.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -398,17 +372,15 @@ D. Chronic uncomplicated reflux
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Assume asthma and use only an unreviewed inhaler
+- **A.** Assume asthma and use only an unreviewed inhaler
+- **B.** Arrange timely cardiopulmonary evaluation for complications such as interstitial lung disease or pulmonary hypertension
 
-B. Arrange timely cardiopulmonary evaluation for complications such as interstitial lung disease or pulmonary hypertension
-
-C. Reassure that all breathlessness is caused by skin tightening
-
-D. Start prolonged bed rest instead of assessment
+- **C.** Reassure that all breathlessness is caused by skin tightening
+- **D.** Start prolonged bed rest instead of assessment
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Arrange timely cardiopulmonary evaluation for complications such as interstitial lung disease or pulmonary hypertension
+**Correct answer: B. Arrange timely cardiopulmonary evaluation for complications such as interstitial lung disease or pulmonary hypertension**
 
 **A kyun galat hai:** Asthma presume karke systemic complications miss ho sakti hain.
 
@@ -420,7 +392,7 @@ D. Start prolonged bed rest instead of assessment
 
 **Exam clue:** Progressive dyspnoea in systemic sclerosis needs organ assessment.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -428,17 +400,15 @@ D. Start prolonged bed rest instead of assessment
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Cover the ulcer with a tight circumferential bandage and wait several days
+- **A.** Cover the ulcer with a tight circumferential bandage and wait several days
+- **B.** Advise the patient to cut away the affected tissue at home
 
-B. Advise the patient to cut away the affected tissue at home
-
-C. Escalate for prompt assessment of infection and digital perfusion
-
-D. Apply ice until the finger becomes numb
+- **C.** Escalate for prompt assessment of infection and digital perfusion
+- **D.** Apply ice until the finger becomes numb
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Escalate for prompt assessment of infection and digital perfusion
+**Correct answer: C. Escalate for prompt assessment of infection and digital perfusion**
 
 **A kyun galat hai:** Tight bandage perfusion compromise kar sakti hai aur delay unsafe hai.
 
@@ -450,7 +420,7 @@ D. Apply ice until the finger becomes numb
 
 **Exam clue:** Digital ulcer plus infection signs ko routine Raynaud attack mat samjho.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -458,17 +428,15 @@ D. Apply ice until the finger becomes numb
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Assume permanent swelling is always harmless
+- **A.** Assume permanent swelling is always harmless
+- **B.** Recommend repeated vigorous massage instead of assessment
 
-B. Recommend repeated vigorous massage instead of assessment
-
-C. Discontinue all follow-up if oral dryness improves
-
-D. Arrange specialist evaluation of the persistent gland enlargement
+- **C.** Discontinue all follow-up if oral dryness improves
+- **D.** Arrange specialist evaluation of the persistent gland enlargement
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** D. Arrange specialist evaluation of the persistent gland enlargement
+**Correct answer: D. Arrange specialist evaluation of the persistent gland enlargement**
 
 **A kyun galat hai:** Every persistent swelling benign assume nahi kar sakte.
 
@@ -480,7 +448,7 @@ D. Arrange specialist evaluation of the persistent gland enlargement
 
 **Exam clue:** Persistent salivary swelling requires evaluation, not automatic cancer diagnosis.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease)
 
 </details>
 
@@ -488,17 +456,15 @@ D. Arrange specialist evaluation of the persistent gland enlargement
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Arrange urgent ophthalmic assessment
+- **A.** Arrange urgent ophthalmic assessment
+- **B.** Continue routine lubricants alone for a month
 
-B. Continue routine lubricants alone for a month
-
-C. Patch both eyes tightly without assessment
-
-D. Use a relative's steroid eye drops
+- **C.** Patch both eyes tightly without assessment
+- **D.** Use a relative's steroid eye drops
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** A. Arrange urgent ophthalmic assessment
+**Correct answer: A. Arrange urgent ophthalmic assessment**
 
 **A kyun sahi hai:** Pain, photophobia aur vision reduction ocular red flags hain, corneal ya other serious pathology assess karni chahiye.
 
@@ -510,7 +476,7 @@ D. Use a relative's steroid eye drops
 
 **Exam clue:** Painful red eye with visual change is not routine sicca care.
 
-**Clinical reference:** https://rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions/Sjogrens-Syndrome
+**Clinical reference:** [Clinical guidance](https://rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions/Sjogrens-Syndrome)
 
 </details>
 
@@ -518,17 +484,15 @@ D. Use a relative's steroid eye drops
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Whether renal monitoring is required only after dialysis begins
+- **A.** Whether renal monitoring is required only after dialysis begins
+- **B.** Renal crisis risk and the monitoring plan for blood pressure and renal function
 
-B. Renal crisis risk and the monitoring plan for blood pressure and renal function
-
-C. Whether steroids make all future blood pressure checks unnecessary
-
-D. Whether the patient should stop all antihypertensives independently
+- **C.** Whether steroids make all future blood pressure checks unnecessary
+- **D.** Whether the patient should stop all antihypertensives independently
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** B. Renal crisis risk and the monitoring plan for blood pressure and renal function
+**Correct answer: B. Renal crisis risk and the monitoring plan for blood pressure and renal function**
 
 **A kyun galat hai:** Early monitoring complication detect karne ke liye hoti hai, dialysis ka wait nahi.
 
@@ -540,7 +504,7 @@ D. Whether the patient should stop all antihypertensives independently
 
 **Exam clue:** Systemic sclerosis plus steroid exposure calls for renal risk review.
 
-**Clinical reference:** https://academic.oup.com/rheumatology/article/63/11/2956/7750184
+**Clinical reference:** [Clinical guidance](https://academic.oup.com/rheumatology/article/63/11/2956/7750184)
 
 </details>
 
@@ -548,17 +512,15 @@ D. Whether the patient should stop all antihypertensives independently
 
 **Difficulty:** Difficult | **Priority:** Important | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Systemic sclerosis and Sjögren disease
 
-A. Attribute weight loss to normal ageing without assessment
+- **A.** Attribute weight loss to normal ageing without assessment
+- **B.** Restrict oral fluids to reduce salivary gland activity
 
-B. Restrict oral fluids to reduce salivary gland activity
-
-C. Assess swallowing safety and nutritional status and coordinate dental and dietetic review
-
-D. Advise eating only dry crackers without fluids
+- **C.** Assess swallowing safety and nutritional status and coordinate dental and dietetic review
+- **D.** Advise eating only dry crackers without fluids
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer:** C. Assess swallowing safety and nutritional status and coordinate dental and dietetic review
+**Correct answer: C. Assess swallowing safety and nutritional status and coordinate dental and dietetic review**
 
 **A kyun galat hai:** Unintended weight loss investigate karna chahiye.
 
@@ -570,7 +532,7 @@ D. Advise eating only dry crackers without fluids
 
 **Exam clue:** Sicca symptoms can affect nutrition and require multidisciplinary care.
 
-**Clinical reference:** https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take
+**Clinical reference:** [Clinical guidance](https://www.niams.nih.gov/health-topics/sjogrens-disease/diagnosis-treatment-and-steps-to-take)
 
 </details>
 
