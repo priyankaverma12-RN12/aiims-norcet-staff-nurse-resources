@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b02-20261128-1010Z
-Scope: PR60 isolated ALF companion guide and acute variceal bleeding bank, no shared navigation or other chapter edits.
-Claimed UTC: 2026-11-28T10:10:00Z
-Expiry UTC: 2026-11-28T10:40:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -16,3 +16,7 @@ Candidate head: 3f7af6f2e8e4b1d461fab7d6a8c52e12f6ec51a5
 ## Batch 02 partial released checkpoint — 28 November 2026
 
 Candidate head c0444f4f199e8d8875c1798554a288a71a532418. 20 additional acute liver failure originals, 80 individual rationales, 20 clues. Cumulative 120 staged originals, 480 rationales, six banks, five existing guides. Bank e131fbb5f827e7e639da52e745b1ffc64d711c32 and inventory exact readbacks passed. No live credit, main clinical content or other schedules changed. Next complete guide and new uncovered topics. PR52/48 existing release blockers remain unresolved. Preserve all other claims.
+
+## Batch 02 continuation released checkpoint — 28 November 2026
+
+Candidate head 7793b2389e6ca10e203c27be1e9fbf2af547cbce. Added 20 acute variceal bleeding originals and 80 separate rationales, exact bank readback at 7c266419ab6e2fbbaf5a071f6b78721cf8200bd6. Completed ALF companion guide and original SVG, previous question blocks unchanged. 140 staged originals, 560 rationales, seven banks, six guides, one SVG. All 144 candidate/legacy headings normalized distinct. Four live originals and one adaptation preserved. No live credit, mock or PYQ. Continue same PR60 after ownership check. No other claims, learner history or schedules changed.
