@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b07-15a-20261128T1627Z
+Scope: PR54 isolated new 15A adult SIAD diagnostic and non-emergency care package only. No prior banks or shared navigation.
+Claimed UTC: 2026-11-28T16:27:00Z
+Expiry UTC: 2026-11-28T16:57:00Z
 
 Last owner: endocrine-b06-14c-20261128T1615Z
 Release: Batch 06 completed all five staged topic packages. This run added 14C, 14D and 14E, 60 original candidates with 240 option rationales and 60 clues. All 15 new files exactly read back at their commits. All 1434 prior branch blobs unchanged. Remote reparse: 60 distinct normalized new stems, zero structural/key defects, each bank 7 Easy, 7 Medium, 6 Difficult and five keys of each letter.
