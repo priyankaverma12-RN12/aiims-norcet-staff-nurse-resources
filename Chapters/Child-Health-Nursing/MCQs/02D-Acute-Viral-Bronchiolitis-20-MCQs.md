@@ -36,9 +36,9 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 **Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Acute viral bronchiolitis | **Type:** Original
 
 - **A.** Respiratory syncytial virus
-- **B.** Clostridium tetani
-- **C.** Plasmodium vivax
-- **D.** Hepatitis B virus
+- **B.** Human metapneumovirus
+- **C.** Human rhinovirus
+- **D.** Parainfluenza virus
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
@@ -46,11 +46,11 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 - **A.** RSV infant bronchiolitis ka common viral cause hai. Other respiratory viruses bhi similar clinical disease kar sakte hain.
 
-- **B.** Tetanus neurotoxin muscle rigidity aur spasms cause karta hai. Yeh seasonal bronchiolitis ka usual cause nahi hai.
+- **B.** Human metapneumovirus bronchiolitis cause kar sakta hai. Lekin seasonal infant bronchiolitis ke most common classic cause ke liye RSV better answer hai.
 
-- **C.** P. vivax malaria cause karta hai, jo fever aur systemic illness se present ho sakta hai. Yeh typical bronchiolar viral infection nahi hai.
+- **C.** Rhinovirus upper respiratory infection aur infant bronchiolitis dono cause kar sakta hai. Typical seasonal bronchiolitis ka leading classic association RSV hai.
 
-- **D.** Hepatitis B liver infection cause karta hai. Infant seasonal bronchiolitis ka common respiratory pathogen RSV hai.
+- **D.** Parainfluenza lower respiratory illness bhi kar sakta hai, lekin croup ke saath particularly classic association hai. RSV seasonal infant bronchiolitis ka usual leading cause hai.
 
 **Exam clue:** RSV is a classic association, not the only cause.
 
