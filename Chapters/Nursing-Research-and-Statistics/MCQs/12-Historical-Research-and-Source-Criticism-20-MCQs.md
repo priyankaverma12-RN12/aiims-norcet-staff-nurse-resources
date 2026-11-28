@@ -23,6 +23,10 @@
 - **B.** Past ward practices randomly assign nahi ki ja sakti. Experimental comparison different aim hai.
 - **D.** Snapshot survey current condition ki frequency estimate karta hai. Historical change ka reconstruction iska purpose nahi hai.
 
+**Exam clue:** Past practices ka evidence-based reconstruction historical research hai.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -48,6 +52,10 @@
 - **C.** Protocol planned study procedures describe karta hai. Diary past observations record karti hai.
 - **D.** Guideline current care recommendations deta hai. Historical diary recommendation document nahi hai.
 
+**Exam clue:** Contemporary firsthand diary primary evidence ho sakti hai.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -56,22 +64,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Original firsthand letter
-- **B.** Prospectively collected trial data
-- **C.** An archive accession number
+- **A.** Primary correspondence from the leader
+- **B.** Primary testimony about the leader's original activities
+- **C.** A finding aid that merely lists archival locations
 - **D.** Secondary historical source
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Secondary historical source**
 
-**D.** Biography author original letters interpret kar raha hai. Is historical question ke liye biography secondary aur letters primary evidence hain.
+**D.** Original letters ko interpret karne wali modern biography is research question ke liye secondary historical source hai. Lekin agar research question modern biographer ke interpretation ke baare mein ho, toh wahi biography primary evidence ban sakti hai. Source category research purpose par depend karti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Biography original correspondence itself nahi hai. Underlying letters separately retrieve karo.
-- **B.** Past letters ka interpretation current trial observations nahi hai. Historical analysis appropriate hai.
-- **C.** Biography substantive publication hai. Accession number archival object locate karne ka identifier hai.
+- **A.** Original letters leader ke own words aur contemporary context ka evidence provide karte hain. Modern biography un letters ko interpret karti hai, isliye biography original correspondence nahi hai.
+- **B.** Firsthand witness testimony past event ke baare mein primary evidence ho sakti hai. Biographer ne original events personally witness kiye hone ki information nahi hai. Is question mein woh existing letters interpret kar raha hai.
+- **C.** Finding aid collection ka description aur location batata hai, jisse researcher original records find kar sakta hai. Biography ek substantive historical narrative hai, sirf archive locator nahi.
+
+**Exam clue:** Primary ya secondary status research question ke relative hota hai.
+
+**Related concept reference:** [University of Saskatchewan, primary sources for historical research](https://libguides.usask.ca/c.php?g=16390&p=90454). Indexed guidance retrieved. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -81,22 +93,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Internal criticism of the message
+- **A.** Internal criticism of the author's reliability
 - **B.** External criticism
-- **C.** Statistical significance testing
-- **D.** Participant randomization
+- **C.** Historical synthesis across authenticated accounts
+- **D.** Historiographical comparison of later interpretations
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. External criticism**
 
-**B.** External criticism source ki genuineness, origin aur authorship assess karti hai. Physical and archival clues authentication support karte hain.
+**B.** External criticism source ki authenticity aur provenance assess karti hai. Paper, handwriting, dates, custody aur related documents compare karne se claimed origin check hota hai. Lusk ke historical methodology mein genuineness establish karna content credibility se separate step hai. Zaroorat ho toh archival expert ki help lo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Internal criticism content ki credibility and meaning evaluate karti hai. Yahan document authentication main aim hai.
-- **C.** Hypothesis test numerical data ke under inference karta hai. Document provenance isse establish nahi hoti.
-- **D.** Historical source ko experimental group assign nahi kar rahe. Authentication different procedure hai.
+- **A.** Internal criticism mein document ke claims, author ke motives aur statement credibility evaluate karte hain. Given scenario mein historian pehle document genuine hai ya nahi, yeh determine kar raha hai.
+- **C.** Historical synthesis multiple evidence sources ko integrate karke past events ka explanation develop karti hai. Is scenario mein source authentication pehle ho rahi hai, synthesis abhi describe nahi hui.
+- **D.** Historiographical comparison different historians ke interpretations aur methods examine karta hai. Physical circular ki claimed date aur origin verify karna different task hai.
+
+**Exam clue:** External criticism mein source origin aur authenticity examine karo.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -106,22 +122,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** External criticism alone
-- **B.** Sample-size estimation
-- **C.** Allocation concealment
+- **A.** External criticism of physical authenticity
+- **B.** Archival cataloguing of the document
+- **C.** Chronological ordering of dated sources
 - **D.** Internal criticism
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Internal criticism**
 
-**D.** Authentic source bhi biased ya incomplete claim kar sakta hai. Content ka credibility aur context internal criticism se evaluate karte hain.
+**D.** Internal criticism mein authentic source ke content, author ki knowledge, motive, context aur possible bias assess karte hain. Ward report administrator ko favorable image dikhane ke liye likhi gayi ho sakti hai. Is possibility ko independent records se examine karo, bina automatically fraud assume kiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Authenticity already established hai. Genuine document ka statement necessarily accurate nahi hota.
-- **B.** Yahan textual assertion credibility assess ho rahi hai. Numerical sample planning relevant procedure nahi hai.
-- **C.** Trial allocation hide karna historical statement appraisal se unrelated hai. Author intention examine karo.
+- **A.** External criticism mein document ka claimed origin aur genuineness verify karte hain. Yahan report authenticate ho chuki hai, par uske ideal-care claim ki reliability abhi evaluate karni hai.
+- **B.** Cataloguing collection aur document identity record karke retrieval support karti hai. Source locate ho jana author ki statement ko automatically reliable nahi banata.
+- **C.** Chronology events ko date ke order mein organize karti hai. Author ne ideal care claim kyun kiya aur kya woh credible hai, yeh chronological arrangement alone resolve nahi karta.
+
+**Exam clue:** Internal criticism mein meaning, purpose aur statement credibility examine karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -148,6 +168,10 @@
 - **C.** Dates ka average actual event date establish nahi karta. Records different milestones refer kar sakte hain.
 - **D.** Disagreement alone forgery prove nahi karta. Source authentication aur content evaluate karo.
 
+**Exam clue:** Conflicting accounts ko independent sources aur context ke saath compare karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -156,22 +180,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Perfect representativeness because documents are old
+- **A.** Recall bias in newly conducted interviews
 - **B.** Archival survival and representation bias
-- **C.** Random allocation bias
-- **D.** A guaranteed complete historical census
+- **C.** Publication duplication of the same article
+- **D.** Anachronistic interpretation of terminology
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Archival survival and representation bias**
 
-**B.** Surviving archive past ke sab perspectives equally capture nahi karta. Missing voices aur preservation process interpretive limits create karte hain.
+**B.** Administrators ke records zyada preserve hue hain aur bedside nurses ki voices missing hain. Isliye available archive past workforce ke viewpoints ko unequal representation de sakta hai. Researcher alternative collections, personal records ya oral histories seek kar sakta hai, aur remaining limitations report kare.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Age source ko representative nahi banati. Preservation selective ho sakti hai.
-- **C.** No intervention allocation described hai. Source survival historical evidence limitation hai.
-- **D.** Available archive all past records cover karne ki guarantee nahi deta. Completeness assess karo.
+- **A.** Recall bias retrospective interviews mein memory limitations se related hai. Given concern surviving written records ki composition hai, new interviews ka recall nahi.
+- **C.** Publication duplication same work ke multiple bibliographic records se related ho sakti hai. Question mein duplicate article nahi, historically missing groups ke perspectives issue hain.
+- **D.** Anachronism tab hota hai jab historian modern meanings ya categories past par unjustifiably impose kare. Yahan concern evidence ka uneven survival hai.
+
+**Exam clue:** Surviving archive ko complete representative record mat samjho.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -190,13 +218,17 @@
 
 **Correct: C. Absence of documentation does not by itself prove the practice never occurred**
 
-**C.** Record purpose, completeness aur recording conventions assess karo. Missing entry actual absence ya undocumented occurrence dono ho sakti hai.
+**C.** Record purpose, completeness aur recording conventions assess karo. Missing entry actual absence ya undocumented occurrence dono ho sakti hai. Agar record reliably us practice ko capture karne ke liye banaya gaya tha aur relevant entries complete hain, toh silence informative ho sakti hai. Lekin yeh conditions check kiye bina conclusive absence claim mat karo.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Record silence conclusive proof nahi hai. Additional independent evidence seek karo.
 - **B.** Missing evidence frequency establish nahi karti. Positive assertion ke liye corroboration needed hai.
 - **D.** Historical record modify karna evidence integrity undermine karega. Interpretation separately document karo.
+
+**Exam clue:** Missing entry ka meaning record purpose aur completeness se judge karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -206,22 +238,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Oral testimony is inherently worthless
-- **B.** Interviews guarantee exact dates and sequences
+- **A.** Differential verification bias from diagnostic reference standards
+- **B.** Observer reactivity during contemporary ward observation
 - **C.** Memory reconstruction and retrospective interpretation
-- **D.** Random assignment must be concealed from interviewees
+- **D.** Publication bias from unpublished clinical trials
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Memory reconstruction and retrospective interpretation**
 
-**C.** Oral history past experience ki valuable perspective deta hai. Long time interval aur later experiences recollection shape kar sakte hain.
+**C.** Oral history past experiences aur unke meaning ke baare mein valuable evidence deti hai. Lekin memory later experiences aur changing social context se shape ho sakti hai. Exact dates ke liye other records check karo, aur recollection aur documented chronology ke differences ko honestly interpret karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Memory limitations ke bawajood firsthand experience useful evidence hai. Context aur corroboration ke saath analyze karo.
-- **B.** Recall time estimates imperfect ho sakte hain. Independent records se important details compare karo.
-- **D.** Historical oral interview randomized treatment allocation nahi hai. Ethical consent and memory limitations relevant hain.
+- **A.** Differential verification diagnostic accuracy studies mein different reference tests use hone se concern hoti hai. Retired nurses ke historical recollections mein reference-standard comparison describe nahi hai.
+- **B.** Observer reactivity jab current behavior researcher ki presence se change ho, tab concern hoti hai. Yahan nurses several decades purane experiences recall kar rahi hain, present ward behavior observe nahi ho raha.
+- **D.** Publication bias research results ke selective dissemination se related hai. Yahan specific concern long-term personal memory aur retrospective meaning hai.
+
+**Exam clue:** Oral history memory aur changing context se influenced hoti hai.
+
+**Related concept reference:** [Oral History Association Core Principles, 3 and 5–10](https://oralhistory.org/oha-core-principles/). Direct HTML reviewed. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -248,6 +284,10 @@
 - **C.** Archive locator identification metadata hai. Statistical average calculate nahi karta.
 - **D.** Accession details access authorization nahi hain. Archive restrictions separately follow karo.
 
+**Exam clue:** Collection, box aur folder identifiers source traceability support karte hain.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -256,22 +296,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Greater statistical power
-- **B.** Appropriate blind assessment
-- **C.** An accurate operational definition by default
+- **A.** Archival survival bias
+- **B.** Inadequate external authentication of the physical document
+- **C.** Duplicate counting of derivative historical accounts
 - **D.** Anachronistic interpretation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Anachronistic interpretation**
 
-**D.** Current meaning past context par impose karna historical role distort kar sakta hai. Contemporary terminology aur institutional structure examine karo.
+**D.** Anachronism ka matlab present-day category ko past context par unjustifiably apply karna hai. Purane nursing role ka scope, training aur legal status aaj ke specialty se alag ho sakta hai. Contemporary dictionaries, institutional rules aur records check karke meaning establish karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Language interpretation sample power change nahi karti. Contextual meaning issue hai.
-- **B.** Modern category assume karna masking procedure nahi hai. Contextual verification absent hai.
-- **C.** Old and current definitions necessarily same nahi. Period-specific meaning establish karo.
+- **A.** Archival survival bias tab hoti hai jab kuch records survive karte hain aur doosre important perspectives missing hote hain. Question surviving record ki terminology ko interpret karne ke baare mein hai.
+- **B.** External authentication document ka actual origin aur date establish karti hai. Genuine historical document ke words ka meaning phir bhi misunderstand ho sakta hai. Yahan claimed specialty equivalence main problem hai.
+- **C.** Derivative accounts count karne se independent corroboration overestimate ho sakti hai. Given issue multiple accounts nahi, ek old term ko modern meaning dena hai.
+
+**Exam clue:** Historical terms ko us period ke meaning mein samjho.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -298,6 +342,10 @@
 - **C.** Photo attire show kar sakti hai but qualification records separate evidence hain.
 - **D.** Photographs valid historical source ho sakti hain. Source-specific limitations assess karo.
 
+**Exam clue:** Photo provenance aur uncertain date separately document karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -322,6 +370,10 @@
 - **A.** Event order se random treatment assignment nahi hoti. Historical explanation distinct hai.
 - **B.** Sequence alone causation establish nahi karti. Alternative explanations aur supporting sources examine karo.
 - **C.** Policy timeline diagnosis classify nahi karti. Historical interpretation main purpose hai.
+
+**Exam clue:** Chronology sequence hai, interpretation evidence-based explanation hai.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -348,6 +400,10 @@
 - **C.** Implementation gap genuine ho sakta hai. Record credibility assess karo without assuming misconduct.
 - **D.** Contemporaneous routine records bhi primary evidence ho sakte hain. Source type research question par depend karta hai.
 
+**Exam clue:** Policy intention aur actual implementation evidence alag hain.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -372,6 +428,10 @@
 - **A.** Books later interpretations hain aur underlying source shared hai. Independent witnesses ka claim unjustified hai.
 - **B.** Repeated citation accuracy guarantee nahi karti. Memoir content critically assess karo.
 - **D.** Original source valuable hai. Derivative relationship clarify karo rather than discard.
+
+**Exam clue:** Same original source se derived accounts independent corroboration nahi hain.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -398,6 +458,10 @@
 - **C.** Unjustified mapping misclassification introduce kar sakti hai. Documented harmonization required hai.
 - **D.** Classification changes apparent trend create kar sakti hain. Measurement comparability first assess karo.
 
+**Exam clue:** Historical diagnostic definitions change hon toh trend comparability assess karo.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -415,13 +479,17 @@
 
 **Correct: D. Follow archive access conditions, applicable privacy obligations and required ethics review**
 
-**D.** Historical material older hone se confidentiality automatically end nahi hoti. Identifiable sensitive data responsibly handle karo.
+**D.** Historical material older hone se confidentiality automatically end nahi hoti. Identifiable sensitive data responsibly handle karo. Archive ki access conditions, applicable Indian privacy obligations, ethics committee requirements aur permitted publication scope separately verify karo. Approved redaction use karo, original archival evidence modify mat karo.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Archive access and ethical obligations still relevant ho sakti hain. Public disclosure independently justified hona chahiye.
 - **B.** Custody access permission aur participant consent different matters hain. Permitted use check karo.
 - **C.** Fabrication evidence integrity violate karti hai. Approved redaction or de-identification use karo.
+
+**Exam clue:** Archive access permission public disclosure permission ke barabar nahi hoti.
+
+**Related concept reference:** [Oral History Association Core Principles and ethical use](https://oralhistory.org/oha-core-principles/). Direct HTML reviewed, Indian archive/privacy requirements still require case-specific review. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -431,22 +499,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Biostatistics
+- **A.** Chronology of nursing reforms without interpretation
 - **B.** Historiography
-- **C.** Experimental pharmacology
-- **D.** Clinical audit of current practice
+- **C.** Prosopography focused on collective biographical characteristics
+- **D.** Oral history interviewing
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Historiography**
 
-**B.** Historiography historical writing, methods aur changing interpretations examine karti hai. Same event ke accounts ka comparison useful hai.
+**B.** Historiography historical writing, methodology aur different interpretations examine karti hai. Ek hi nursing reform ko different authors kis evidence aur perspective se explain karte hain, yeh compare karna historiographical inquiry hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Biostatistics health-related numerical data analyze karta hai. Here historical interpretations main object hain.
-- **C.** No drug or experimental intervention evaluated hai. Historical writing ka analysis ho raha hai.
-- **D.** Clinical audit current standard adherence assess karta hai. Earlier historians ka interpretation different aim hai.
+- **A.** Chronology events ka sequence arrange karti hai. Question earlier historians ne events ko kaise interpret kiya, iske baare mein hai, sirf dates ke order ke baare mein nahi.
+- **C.** Prosopography ek defined group ke collective biographical patterns examine karti hai, jaise nurses ki training backgrounds. Yahan research object earlier historical interpretations hain, group biographies nahi.
+- **D.** Oral history interview se past experiences ka recorded account collect karti hai. Given scholar existing historians ke written interpretations compare kar raha hai, new narrators interview nahi kar raha.
+
+**Exam clue:** Historiography historical writing aur interpretation ko examine karti hai.
+
+**Related concept reference:** [Lusk 1997, Historical Methodology for Nursing Research, pp. 355–359](https://www.aahn.org/assets/Conference2021/Historical%20Methodology%20for%20Nursing%20Research%20-%20Lusk.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -473,6 +545,10 @@
 - **C.** Individual contribution possible hai. Historical question evidence-dependent hai.
 - **D.** Selective sources critical interpretation undermine karte hain. Different perspectives compare karo.
 
+**Exam clue:** Individual contributions ko social aur institutional context mein evaluate karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -497,6 +573,10 @@
 - **A.** Unavailable records ke contents know nahi kiye ja sakte. Aisa claim fabricated evidence hoga.
 - **B.** Plausibility evidence gaps eliminate nahi karti. Reader ko confidence assess karne ke liye limitation chahiye.
 - **D.** Historical interpretation experimental causal proof nahi hai. Inference level accurate rakho.
+
+**Exam clue:** Facts, inference aur evidence gaps separately report karo.
+
+**Related concept reference:** [Wood 2011, Understanding and evaluating historical sources in nursing history research](https://www.nursingpraxis.org/article/83562-understanding-and-evaluating-historical-sources-in-nursing-history-research/attachment/170848.pdf). Extracted article text reviewed, screenshot unavailable. Independent item-level review pending.
 
 **YouTube MCQ practice:** verification pending.
 
