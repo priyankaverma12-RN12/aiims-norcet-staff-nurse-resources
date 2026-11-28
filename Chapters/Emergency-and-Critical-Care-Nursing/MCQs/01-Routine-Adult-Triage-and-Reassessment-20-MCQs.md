@@ -172,7 +172,7 @@
 
 </details>
 
-### Q08. A 62-year-old arrives with new acute abdominal pain. Vitals appear normal and the pain is not described as severe. Which routine IITT rule is most relevant?
+### Q08. A 62-year-old arrives with new acute abdominal pain. Vitals appear normal and the pain is not described as severe. Which rule in the WHO IITT age-12-and-above triage poster is most relevant?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Routine adult triage
 
@@ -460,25 +460,25 @@
 
 </details>
 
-### Q20. A facility experiences a sudden increase in arrivals, but its normal staffing, beds and procedures can still meet clinical needs. Which triage policy is appropriate?
+### Q20. An adult with a new headache has an elevated temperature of 38.5°C and no other findings on initial assessment. Under the WHO IITT age-12-and-above triage poster, which rule is particularly important?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Routine adult triage
 
-- **A.** Switch automatically to mass-casualty triage whenever several patients arrive together
-- **B.** Suspend triage until the arrival rate falls
-- **C.** Use mass-casualty categories for unrelated patients only
-- **D.** Continue routine triage unless mass-casualty activation criteria are met
+- **A.** A temperature below 39°C excludes red criteria
+- **B.** Headache must always be considered a green criterion
+- **C.** Red classification requires all four listed disability findings
+- **D.** Two listed disability findings, such as fever and headache, meet a red criterion
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Continue routine triage unless mass-casualty activation criteria are met**
+**Correct: D. Two listed disability findings, such as fever and headache, meet a red criterion**
 
-- **A.** Multiple arrivals apne aap mass casualty declaration nahi hote. Facility capacity aur incident plan matter karte hain.
-- **B.** Triage suspend karne se urgent cases miss ho sakte hain. Increased demand mein sorting aur important hoti hai.
-- **C.** Incident triage ko unrelated patients ke liye hi use karna sahi nahi hai. Activation ke baad facility protocol all arrivals par apply ho sakta hai.
-- **D.** Mass casualty tab hota hai jab needs usual resources aur process se zyada ho jaati hain. Agar facility routine care safely de sakti hai toh routine triage continue hoti hai.
+- **A.** 39°C se upar temperature high-risk vital-sign flag hai, lekin red criteria sirf is cutoff par depend nahi karte. Fever aur headache ka combination separately red disability rule mein aa sakta hai.
+- **B.** Headache alone ki urgency severity aur doosri findings par depend karti hai. Fever ke saath listed combination ko ignore nahi karna chahiye.
+- **C.** Is specific WHO poster mein altered mental status, stiff neck, fever ya hypothermia, aur headache mein se do findings chahiye. Sabhi four present hona zaroori nahi hai.
+- **D.** Fever aur headache dono listed findings hain. Is combination se serious illness ka possibility consider karke immediate clinical assessment arrange hoti hai. Triage category meningitis ki confirmed diagnosis nahi hai.
 
-**Reference:** [WHO IITT FAQ 16 and WHO IITT overview](https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/csy/iitt/iitt-faq.pdf?sfvrsn=cc11cf12_5) · [Scope and tool](https://www.who.int/tools/triage).
+**Reference:** [WHO IITT age ≥12, red disability criteria](https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/csy/iitt/iitt_adult.pdf).
 
 **YouTube MCQ practice:** verification pending for this specific learning task.
 
