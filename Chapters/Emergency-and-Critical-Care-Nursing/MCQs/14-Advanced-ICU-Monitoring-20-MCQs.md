@@ -243,18 +243,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Advanced ICU monitoring
 
 - **A.** PPV alone reliably establishes the need for another fluid bolus
-- **B.** PPV should not be used alone to predict fluid responsiveness in these conditions
+- **B.** PPV can replace all monitoring of organ perfusion
 - **C.** The ventilator should automatically be changed to a higher tidal volume solely to make the measurement valid
-- **D.** PPV can replace all monitoring of organ perfusion
+- **D.** PPV should not be used alone to predict fluid responsiveness in these conditions
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. PPV should not be used alone to predict fluid responsiveness in these conditions**
+**Correct: D. PPV should not be used alone to predict fluid responsiveness in these conditions**
 
 - **A.** Spontaneous breathing aur low tidal volume PPV ki predictive reliability limit kar sakte hain. Single reading se fluid bolus automatically decide nahi karte.
-- **B.** ESICM recommendation 21 specifically spontaneous respiratory effort aur low tidal volume ke combination mein PPV alone ke against suggest karti hai. Team alternative applicable dynamic assessment aur perfusion findings use karti hai.
+- **B.** PPV ek functional predictor hai, actual organ perfusion ka complete assessment nahi. Clinical response aur other measurements relevant hain.
 - **C.** Ventilation strategy patient ki lung protection aur clinical needs ke hisaab se hoti hai. Sirf monitor number valid karne ke liye independent tidal-volume increase unsafe ho sakta hai.
-- **D.** PPV ek functional predictor hai, actual organ perfusion ka complete assessment nahi. Clinical response aur other measurements relevant hain.
+- **D.** ESICM recommendation 21 specifically spontaneous respiratory effort aur low tidal volume ke combination mein PPV alone ke against suggest karti hai. Team alternative applicable dynamic assessment aur perfusion findings use karti hai.
 
 **Exam clue:** Spontaneous breaths plus low tidal volume mein PPV alone reliable decision tool nahi hai.
 
