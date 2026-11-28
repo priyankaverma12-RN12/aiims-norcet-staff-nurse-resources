@@ -4,12 +4,12 @@ Status: draft only. Do not add to live learner inventory until mandatory indepen
 
 | Bank | Original questions | Individual rationales | Easy | Medium | Difficult | Verified blob |
 |---|---:|---:|---:|---:|---:|---|
-| [01A Injury prevention](01A-Preventive-Pediatrics-and-Injury-Prevention-20-MCQs.md) | 20 | 80 | 3 | 7 | 10 | 6b8d5e5951c1ab7a6e7f52a84227251df3a51f21 |
-| [01B Developmental surveillance](01B-Developmental-Surveillance-and-Milestones-20-MCQs.md) | 20 | 80 | 0 | 12 | 8 | 19c6abda946f47a29f5e1404193f1d1e3a0e8ed8 |
+| [01A Injury prevention](01A-Preventive-Pediatrics-and-Injury-Prevention-20-MCQs.md) | 20 | 80 | 10 | 10 | 0 | fe866b64917b86128aa24145f1d52dc41f6fe14a |
+| [01B Developmental surveillance](01B-Developmental-Surveillance-and-Milestones-20-MCQs.md) | 20 | 80 | 8 | 12 | 0 | aeeda1992a8ef833958ff9e7172905c33d0e93d3 |
 | [01C Theories and play](01C-Developmental-Theories-and-Play-20-MCQs.md) | 20 | 80 | 0 | 10 | 10 | 215a7032461c3963835cddd887a07de9c5a6462d |
 | [01D Hospital and family-centered care](01D-Hospitalized-Child-and-Family-Centered-Care-20-MCQs.md) | 20 | 80 | 0 | 6 | 14 | fcb6f662246a08ec7c7b3a2ec46040aa103846a6 |
 | [01E Pediatric pain](01E-Pediatric-Pain-Assessment-and-Reassessment-20-MCQs.md) | 20 | 80 | 0 | 8 | 12 | 743eb7dc7f439b475b066bfd2819d0336f29a641 |
-| Total | 100 | 400 | 3 | 43 | 54 | Candidate only |
+| Total | 100 | 400 | 18 | 46 | 36 | Candidate only |
 
 Remote structural audit: 100/100 distinct normalized stems within candidate, sequential question numbers per bank, 4 English choices and 4 labeled Roman Hinglish option explanations per item, matching answer text and letter, closed details blocks, difficulty/priority/type/source fields. Zero structural exceptions found. Correct option totals A=25, B=25, C=25, D=25. This does not establish clinical accuracy, calibrated difficulty, or exhaustive semantic uniqueness.
 
@@ -22,6 +22,7 @@ Targeted comparison included existing Child Health starter bank and reported deh
 - 01E Q4, Q9, Q10, Q17 changed to numeric comprehension, individualized pain cues, care-associated pain and localization tasks, commit 7e47900.
 - Net Batch 01 candidate count stays 100, not 120.
 - Batch 02 preflight addressed PR45 review comment 7235872853: 01A Q1–3 now have 12 expanded conversational explanations and exam clues; difficulty changed to Easy, priorities retained. Original English stems, options and answer keys preserved; Q4–20 byte-identical. Commit ccf7dedceef660792ec060625b73170de54db7ca. Source checks performed by author; not independent approval.
+- Batch 03 addressed independent review comment 7235978547: 01A Q4–20 reviewed, 68 expanded rationales, exam clues, source updates and calibrated difficulty in a54e55aedf4379e97749abdbd43462b4ae8530e0. Q1–3 unchanged. 01B Q1–20 reviewed, 80 expanded rationales, exam clues, calibrated labels, corrected-age source and one precise correct-option phrase at Q8 (D unchanged) in 343350ff660596bb0f2a4851508066a9ffd18efb. No new question slots. Author corrective review, independent follow-up remains pending.
 - See [Batch 02 cumulative inventory](Batch-02-Original-MCQ-Candidate-Inventory.md).
 
 ## Companion files
@@ -30,6 +31,6 @@ Targeted comparison included existing Child Health starter bank and reported deh
 
 ## Pending integration gates
 
-Full fresh line-by-line skills and audit-log review not certified. Independent clinical/source passage verification, option plausibility and difficulty calibration, conversational language review, repository-wide semantic review including mocks/PYQs and in-flight PRs, complete INC topic reconciliation, video playback and item mapping, SVG rendering and link verification, candidate CI, current main comparison and explicit PR7/8/12 and Nutrition PR35 coordination remain open. PDF screenshot retrieval failed. Do not merge until all applicable gates pass. Do not change shared progress files, learner history or automations.
+Full fresh line-by-line skills and audit-log review not certified. Independent clinical/source passage verification, option plausibility and difficulty calibration, conversational language review, repository-wide semantic review including mocks/PYQs and in-flight PRs, complete INC topic reconciliation, video playback and item mapping, link and website rendering verification (six SVG source renders completed in Batch 03), candidate CI, current main comparison and explicit PR7/8/12 and Nutrition PR35 coordination remain open. PDF screenshot retrieval failed. Do not merge until all applicable gates pass. Do not change shared progress files, learner history or automations.
 
 Next: resume this candidate, resolve gates, reconcile remaining Child Health topics against INC and sibling owners, then extend phase 1. No mock or new PYQ count claimed. Begin two original-only 120-question mocks per run only after verified topic coverage, toward ten mocks.
