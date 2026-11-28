@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr62-b04-20261128T1548Z
+Scope: PR62 Batch04 only, new Easy deficit supplements for disjoint banks 05–10, no PR61 or shared navigation changes. Draft content only.
+Claimed UTC: 2026-11-28T15:48:00Z
+Expiry UTC: 2026-11-28T16:18:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
